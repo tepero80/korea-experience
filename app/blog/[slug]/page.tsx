@@ -7,6 +7,8 @@ import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import remarkGfm from 'remark-gfm';
 import { getPostBySlug, getAllPosts } from '@/lib/posts';
+import { generateArticleSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 import MDXContent from '@/components/MDXContent';
 import AuthorBox from '@/components/AuthorBox';
 import TableOfContents from '@/components/TableOfContents';
@@ -30,14 +32,31 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
     };
   }
 
+  const url = `${SITE_CONFIG.url}/blog/${slug}`;
+
   return {
     title: post.title,
     description: post.excerpt,
+    authors: [{ name: SITE_CONFIG.author }],
+    keywords: [post.category, 'Korea', 'travel', 'medical tourism'],
     openGraph: {
       title: post.title,
       description: post.excerpt,
       type: 'article',
       publishedTime: post.date,
+      authors: [SITE_CONFIG.author],
+      url: url,
+      siteName: SITE_CONFIG.name,
+      locale: 'en_US',
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: post.title,
+      description: post.excerpt,
+      creator: SITE_CONFIG.social.twitter,
+    },
+    alternates: {
+      canonical: url,
     },
   };
 }
@@ -61,8 +80,25 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     },
   });
 
+  // Generate JSON-LD schema
+  const articleSchema = generateArticleSchema({
+    title: post.title,
+    description: post.excerpt,
+    datePublished: post.date,
+    dateModified: post.date,
+    author: SITE_CONFIG.author,
+    category: post.category,
+    url: `${SITE_CONFIG.url}/blog/${slug}`,
+  });
+
   return (
     <main className="pt-20 pb-12">
+      {/* JSON-LD Schema */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      
       <article className="max-w-4xl mx-auto px-6">
         {/* Breadcrumbs */}
         <nav className="text-sm text-gray-500 mb-6">
