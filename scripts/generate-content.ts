@@ -35,12 +35,14 @@ Requirements:
 - Target audience: International travelers/expats interested in Korea
 
 Structure:
-1. Frontmatter (YAML format):
-   - title: (60 characters max, include main keyword)
-   - date: ${new Date().toISOString().split('T')[0]}
-   - excerpt: (150-155 characters, compelling summary)
-   - category: ${category}
-   - author: Korea Experience Team
+1. Frontmatter (YAML format) - IMPORTANT: Do NOT wrap in code blocks:
+   ---
+   title: (60 characters max, include main keyword)
+   date: ${new Date().toISOString().split('T')[0]}
+   excerpt: (150-155 characters, compelling summary)
+   category: ${category}
+   author: Korea Experience Team
+   ---
 
 2. Content Structure:
    - Introduction (hook + problem statement + what readers will learn)
@@ -63,8 +65,7 @@ Structure:
    - Include practical tips and insider knowledge
    - Cite specific examples and real locations
 
-Format the output as a complete Markdown file ready to save in content/posts/.
-Start with frontmatter, then the content. Do NOT include code blocks or formatting markers.
+CRITICAL: Output ONLY the markdown content. Do NOT wrap the frontmatter or content in code blocks (no \`\`\`yaml or \`\`\`markdown). Start directly with --- for frontmatter.
 `;
 
 // 블로그 포스트 생성 함수
