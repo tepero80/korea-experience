@@ -71,7 +71,7 @@ export default function Header() {
                 onMouseLeave={() => link.hasDropdown && setOpenDropdown(null)}
               >
                 {link.hasDropdown ? (
-                  <>
+                  <div className="relative">
                     <button
                       className="
                         px-4 py-2 rounded-lg font-medium text-gray-700
@@ -148,7 +148,7 @@ export default function Header() {
                         </div>
                       </div>
                     )}
-                  </>
+                  </div>
                 ) : (
                   <Link 
                     href={link.href!}
