@@ -10,8 +10,9 @@ export default function BlogCard({ post }: BlogCardProps) {
   
   return (
     <article className="bg-white rounded-lg shadow-md overflow-hidden hover:shadow-lg transition-shadow">
-      <div className="h-48 bg-gradient-to-br from-blue-500 to-cyan-500 overflow-hidden flex items-center justify-center">
-        <div className="text-white text-4xl font-bold opacity-20">
+      <div className="h-48 bg-gradient-to-br from-blue-600 to-cyan-600 overflow-hidden flex items-center justify-center relative">
+        <div className="absolute inset-0 bg-black/20" />
+        <div className="relative text-white text-5xl font-bold drop-shadow-lg">
           {category}
         </div>
       </div>
