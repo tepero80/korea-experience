@@ -1,17 +1,11 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { serialize } from 'next-mdx-remote/serialize';
-import rehypeHighlight from 'rehype-highlight';
-import rehypeSlug from 'rehype-slug';
-import rehypeAutolinkHeadings from 'rehype-autolink-headings';
-import remarkGfm from 'remark-gfm';
 import { getPostBySlug, getAllPosts } from '@/lib/posts';
 import { generateArticleSchema } from '@/lib/schema';
 import { SITE_CONFIG } from '@/lib/constants';
 import MDXContent from '@/components/MDXContent';
 import AuthorBox from '@/components/AuthorBox';
-import TableOfContents from '@/components/TableOfContents';
 
 type Params = Promise<{ slug: string }>;
 
@@ -69,17 +63,6 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     notFound();
   }
 
-  const mdxSource = await serialize(post.content, {
-    mdxOptions: {
-      remarkPlugins: [remarkGfm],
-      rehypePlugins: [
-        rehypeHighlight,
-        rehypeSlug,
-        [rehypeAutolinkHeadings, { behavior: 'wrap' }],
-      ],
-    },
-  });
-
   // Generate JSON-LD schema
   const articleSchema = generateArticleSchema({
     title: post.title,
@@ -131,35 +114,24 @@ export default async function BlogPostPage({ params }: { params: Params }) {
           </p>
         </header>
 
-        <div className="grid grid-cols-1 lg:grid-cols-4 gap-8">
-          {/* Table of Contents - Desktop */}
-          <aside className="hidden lg:block lg:col-span-1">
-            <div className="sticky top-24">
-              <TableOfContents />
-            </div>
-          </aside>
+        {/* Article Content */}
+        <div className="mb-12">
+          <MDXContent source={post.content} />
+        </div>
 
-          {/* Article Content */}
-          <div className="lg:col-span-3">
-            <div className="mb-12">
-              <MDXContent source={mdxSource} />
-            </div>
+        {/* Author Box */}
+        <AuthorBox />
 
-            {/* Author Box */}
-            <AuthorBox />
-
-            {/* Medical Disclaimer */}
-            <div className="mt-8 p-6 bg-red-50 border border-red-200 rounded-lg">
-              <h3 className="text-lg font-semibold text-red-800 mb-2">
-                ⚠️ Medical Disclaimer
-              </h3>
-              <p className="text-sm text-red-700">
-                The information provided on this website is for general informational purposes only
-                and does not constitute medical advice. Always consult with qualified healthcare
-                professionals before making any medical decisions.
-              </p>
-            </div>
-          </div>
+        {/* Medical Disclaimer */}
+        <div className="mt-8 p-6 bg-red-50 border border-red-200 rounded-lg">
+          <h3 className="text-lg font-semibold text-red-800 mb-2">
+            ⚠️ Medical Disclaimer
+          </h3>
+          <p className="text-sm text-red-700">
+            The information provided on this website is for general informational purposes only
+            and does not constitute medical advice. Always consult with qualified healthcare
+            professionals before making any medical decisions.
+          </p>
         </div>
       </article>
     </main>

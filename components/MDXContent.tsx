@@ -1,8 +1,10 @@
-'use client';
-
-import { MDXRemote, MDXRemoteSerializeResult } from 'next-mdx-remote';
+import { MDXRemote, MDXRemoteProps } from 'next-mdx-remote/rsc';
 import Image from 'next/image';
 import Link from 'next/link';
+import rehypeHighlight from 'rehype-highlight';
+import rehypeSlug from 'rehype-slug';
+import rehypeAutolinkHeadings from 'rehype-autolink-headings';
+import remarkGfm from 'remark-gfm';
 
 // Custom components for MDX
 const components = {
@@ -138,13 +140,26 @@ const components = {
 };
 
 interface MDXContentProps {
-  source: MDXRemoteSerializeResult;
+  source: string;
 }
 
-export default function MDXContent({ source }: MDXContentProps) {
+export default async function MDXContent({ source }: MDXContentProps) {
   return (
     <div className="prose prose-lg max-w-none">
-      <MDXRemote {...source} components={components} />
+      <MDXRemote 
+        source={source} 
+        components={components}
+        options={{
+          mdxOptions: {
+            remarkPlugins: [remarkGfm],
+            rehypePlugins: [
+              rehypeHighlight,
+              rehypeSlug,
+              [rehypeAutolinkHeadings, { behavior: 'wrap' }],
+            ],
+          },
+        }}
+      />
     </div>
   );
 }
