@@ -21,7 +21,7 @@ export default function BlogCard({ post }: BlogCardProps) {
         <div className="text-sm text-blue-600 font-semibold mb-2">
           {category}
         </div>
-        <h2 className="text-xs font-normal mb-3 leading-tight">
+        <h2 className="text-[11px] font-normal mb-3 leading-[1.3]">
           <Link 
             href={`/blog/${slug}`}
             className="hover:text-blue-600 transition-colors"
@@ -29,7 +29,7 @@ export default function BlogCard({ post }: BlogCardProps) {
             {title}
           </Link>
         </h2>
-        <p className="text-gray-600 mb-4 line-clamp-2 text-xs">
+        <p className="text-gray-600 mb-4 line-clamp-2 text-[10px] leading-tight">
           {excerpt}
         </p>
         <div className="flex items-center justify-between">
