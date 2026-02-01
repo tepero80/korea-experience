@@ -21,7 +21,7 @@ export default function BlogCard({ post }: BlogCardProps) {
         <div className="text-sm text-blue-600 font-semibold mb-2">
           {category}
         </div>
-        <h2 className="text-[11px] font-normal mb-3 leading-[1.3]">
+        <h2 className="text-[10px] font-normal mb-3 leading-[1.2]">
           <Link 
             href={`/blog/${slug}`}
             className="hover:text-blue-600 transition-colors"
