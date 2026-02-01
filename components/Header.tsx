@@ -7,6 +7,7 @@ import { SITE_CONFIG, NAV_LINKS } from '@/lib/constants';
 export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [openDropdown, setOpenDropdown] = useState<string | null>(null);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -63,23 +64,107 @@ export default function Header() {
           {/* Desktop Navigation */}
           <ul className="hidden md:flex items-center gap-1">
             {NAV_LINKS.map((link) => (
-              <li key={link.href}>
-                <Link 
-                  href={link.href}
-                  className="
-                    px-4 py-2 rounded-lg font-medium text-gray-700
-                    hover:text-blue-600 hover:bg-blue-50
-                    transition-all duration-200
-                    relative group
-                  "
-                >
-                  {link.label}
-                  <span className="
-                    absolute bottom-1 left-1/2 -translate-x-1/2 w-0 h-0.5 
-                    bg-gradient-to-r from-blue-600 to-cyan-500
-                    group-hover:w-2/3 transition-all duration-300
-                  " />
-                </Link>
+              <li 
+                key={link.label}
+                className="relative"
+                onMouseEnter={() => link.hasDropdown && setOpenDropdown(link.label)}
+                onMouseLeave={() => link.hasDropdown && setOpenDropdown(null)}
+              >
+                {link.hasDropdown ? (
+                  <>
+                    <button
+                      className="
+                        px-4 py-2 rounded-lg font-medium text-gray-700
+                        hover:text-blue-600 hover:bg-blue-50
+                        transition-all duration-200
+                        relative group flex items-center gap-1
+                      "
+                    >
+                      {link.label}
+                      <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                      </svg>
+                      <span className="
+                        absolute bottom-1 left-1/2 -translate-x-1/2 w-0 h-0.5 
+                        bg-gradient-to-r from-blue-600 to-cyan-500
+                        group-hover:w-2/3 transition-all duration-300
+                      " />
+                    </button>
+                    
+                    {/* Dropdown Menu */}
+                    {openDropdown === link.label && (
+                      <div className="
+                        absolute top-full left-0 mt-2 w-[600px] bg-white rounded-xl shadow-2xl
+                        border border-gray-100 p-6 z-50
+                        animate-in fade-in slide-in-from-top-2 duration-200
+                      ">
+                        <div className="grid grid-cols-2 gap-6">
+                          {link.items?.map((category) => (
+                            <div key={category.category}>
+                              <div className="flex items-center gap-2 mb-3 pb-2 border-b border-gray-100">
+                                <span className="text-xl">{category.icon}</span>
+                                <h3 className="font-semibold text-gray-900 text-sm">{category.category}</h3>
+                              </div>
+                              <ul className="space-y-1">
+                                {category.tools.map((tool) => (
+                                  <li key={tool.href}>
+                                    <Link
+                                      href={tool.href}
+                                      className="
+                                        block px-3 py-2 rounded-lg text-sm text-gray-700
+                                        hover:bg-blue-50 hover:text-blue-600
+                                        transition-all duration-150
+                                        flex items-center justify-between group
+                                      "
+                                    >
+                                      <span>{tool.label}</span>
+                                      {tool.status === 'coming' && (
+                                        <span className="text-xs bg-blue-100 text-blue-600 px-2 py-0.5 rounded-full opacity-0 group-hover:opacity-100 transition-opacity">
+                                          Soon
+                                        </span>
+                                      )}
+                                    </Link>
+                                  </li>
+                                ))}
+                              </ul>
+                            </div>
+                          ))}
+                        </div>
+                        <div className="mt-4 pt-4 border-t border-gray-100">
+                          <Link
+                            href="/tools"
+                            className="
+                              text-sm text-blue-600 hover:text-blue-700 font-medium
+                              flex items-center gap-1 group
+                            "
+                          >
+                            <span>View All Tools</span>
+                            <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                            </svg>
+                          </Link>
+                        </div>
+                      </div>
+                    )}
+                  </>
+                ) : (
+                  <Link 
+                    href={link.href!}
+                    className="
+                      px-4 py-2 rounded-lg font-medium text-gray-700
+                      hover:text-blue-600 hover:bg-blue-50
+                      transition-all duration-200
+                      relative group
+                    "
+                  >
+                    {link.label}
+                    <span className="
+                      absolute bottom-1 left-1/2 -translate-x-1/2 w-0 h-0.5 
+                      bg-gradient-to-r from-blue-600 to-cyan-500
+                      group-hover:w-2/3 transition-all duration-300
+                    " />
+                  </Link>
+                )}
               </li>
             ))}
           </ul>
@@ -130,23 +215,85 @@ export default function Header() {
         <div 
           className={`
             md:hidden overflow-hidden transition-all duration-300 ease-in-out
-            ${isMobileMenuOpen ? 'max-h-96 opacity-100' : 'max-h-0 opacity-0'}
+            ${isMobileMenuOpen ? 'max-h-[800px] opacity-100' : 'max-h-0 opacity-0'}
           `}
         >
           <div className="py-4 space-y-1 border-t border-gray-100">
             {NAV_LINKS.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                onClick={() => setIsMobileMenuOpen(false)}
-                className="
-                  block px-4 py-3 rounded-lg font-medium text-gray-700
-                  hover:text-blue-600 hover:bg-blue-50
-                  transition-all duration-200
-                "
-              >
-                {link.label}
-              </Link>
+              <div key={link.label}>
+                {link.hasDropdown ? (
+                  <div>
+                    <button
+                      onClick={() => setOpenDropdown(openDropdown === link.label ? null : link.label)}
+                      className="
+                        w-full flex items-center justify-between px-4 py-3 rounded-lg 
+                        font-medium text-gray-700 hover:bg-blue-50
+                        transition-all duration-200
+                      "
+                    >
+                      <span>{link.label}</span>
+                      <svg 
+                        className={`w-4 h-4 transition-transform ${openDropdown === link.label ? 'rotate-180' : ''}`}
+                        fill="none" 
+                        stroke="currentColor" 
+                        viewBox="0 0 24 24"
+                      >
+                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                      </svg>
+                    </button>
+                    {openDropdown === link.label && (
+                      <div className="pl-4 mt-2 space-y-3">
+                        {link.items?.map((category) => (
+                          <div key={category.category}>
+                            <div className="flex items-center gap-2 px-4 py-2 text-xs font-semibold text-gray-500">
+                              <span>{category.icon}</span>
+                              <span>{category.category}</span>
+                            </div>
+                            <div className="space-y-1">
+                              {category.tools.map((tool) => (
+                                <Link
+                                  key={tool.href}
+                                  href={tool.href}
+                                  onClick={() => setIsMobileMenuOpen(false)}
+                                  className="
+                                    block px-4 py-2 rounded-lg text-sm text-gray-600
+                                    hover:bg-blue-50 hover:text-blue-600
+                                    transition-all duration-200
+                                  "
+                                >
+                                  {tool.label}
+                                </Link>
+                              ))}
+                            </div>
+                          </div>
+                        ))}
+                        <Link
+                          href="/tools"
+                          onClick={() => setIsMobileMenuOpen(false)}
+                          className="
+                            block px-4 py-2 text-sm text-blue-600 font-medium
+                            hover:bg-blue-50 rounded-lg
+                          "
+                        >
+                          View All Tools →
+                        </Link>
+                      </div>
+                    )}
+                  </div>
+                ) : (
+                  <Link
+                    href={link.href!}
+                    onClick={() => setIsMobileMenuOpen(false)}
+                    className="
+                      block px-4 py-3 rounded-lg font-medium text-gray-700
+                      hover:text-blue-600 hover:bg-blue-50
+                      transition-all duration-200
+                    "
+                  >
+                    {link.label}
+                  </Link>
+                )}
+              </div>
             ))}
             <Link
               href="/contact"
