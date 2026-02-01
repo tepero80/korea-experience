@@ -32,7 +32,7 @@ const components = {
   
   // Paragraphs
   p: (props: any) => (
-    <p className="text-lg text-gray-700 mb-6 leading-relaxed" {...props} />
+    <p className="text-xl text-gray-700 mb-6 leading-relaxed" {...props} />
   ),
   
   // Links with styling
@@ -59,7 +59,7 @@ const components = {
     <ol className="list-decimal list-inside mb-6 space-y-2 ml-4" {...props} />
   ),
   li: (props: any) => (
-    <li className="text-lg text-gray-700" {...props} />
+    <li className="text-xl text-gray-700" {...props} />
   ),
   
   // Blockquotes
