@@ -19,8 +19,7 @@ if (!apiKey) {
 }
 
 const genAI = new GoogleGenerativeAI(apiKey);
-const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
-
+  const model = genAI.getGenerativeModel({ model: 'gemini-2.5-flash' });
 // 블로그 포스트 생성 프롬프트 템플릿
 const createPrompt = (keyword: string, category: string) => `
 You are an expert content writer specializing in Korea-related content for international audiences.
@@ -35,14 +34,21 @@ Requirements:
 - Target audience: International travelers/expats interested in Korea
 
 Structure:
-1. Frontmatter (YAML format) - IMPORTANT: Do NOT wrap in code blocks:
+1. Frontmatter (YAML format) - IMPORTANT formatting rules:
    ---
-   title: (60 characters max, include main keyword)
+   title: "[Title with main keyword, max 60 characters]"
    date: ${new Date().toISOString().split('T')[0]}
-   excerpt: (150-155 characters, compelling summary)
+   excerpt: "[Compelling summary, 150-155 characters]"
    category: ${category}
    author: Korea Experience Team
    ---
+   
+   CRITICAL YAML RULES:
+   - ALWAYS wrap title in double quotes "like this"
+   - ALWAYS wrap excerpt in double quotes "like this"
+   - Do NOT use colons (:) inside title or excerpt
+   - Do NOT wrap frontmatter in code blocks
+   - Start directly with --- for frontmatter
 
 2. Content Structure:
    - Introduction (hook + problem statement + what readers will learn)
@@ -66,6 +72,7 @@ Structure:
    - Cite specific examples and real locations
 
 CRITICAL: Output ONLY the markdown content. Do NOT wrap the frontmatter or content in code blocks (no \`\`\`yaml or \`\`\`markdown). Start directly with --- for frontmatter.
+DO NOT include any Korean characters (한글) in the content - use English only for all text, including technical terms and proper nouns.
 `;
 
 // 블로그 포스트 생성 함수
@@ -98,8 +105,8 @@ function saveToFile(content: string, keyword: string): string {
   const filename = `${slug}.md`;
   const filepath = path.join(process.cwd(), 'content', 'posts', filename);
   
-  // 파일 저장
-  fs.writeFileSync(filepath, content, 'utf-8');
+  // UTF-8 인코딩으로 파일 저장 (BOM 없이)
+  fs.writeFileSync(filepath, content, { encoding: 'utf-8' });
   console.log(`💾 파일 저장: ${filename}`);
   
   return filename;

@@ -6,7 +6,9 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "generate": "tsx scripts/generate-content.ts"
+    "generate": "tsx scripts/generate-content.ts",
+    "manage": "tsx scripts/manage-posts.ts",
+    "batch": "tsx scripts/batch-generate.ts"
   },
   "dependencies": {
     "gray-matter": "^4.0.3",

@@ -1,0 +1,81 @@
+{
+  "batches": [
+    {
+      "name": "Medical Tourism - Plastic Surgery",
+      "category": "Medical Tourism",
+      "posts": [
+        "Korea Plastic Surgery Cost Guide 2026",
+        "Double Eyelid Surgery in Korea Complete Guide",
+        "V-Line Surgery Korea Procedure Cost Recovery",
+        "Best Plastic Surgery Clinics for Foreigners in Seoul",
+        "Korea Plastic Surgery Reviews What to Expect"
+      ]
+    },
+    {
+      "name": "Medical Tourism - Dermatology",
+      "category": "Medical Tourism",
+      "posts": [
+        "Best Dermatology Clinics in Seoul for Foreigners",
+        "Korean Skin Care Treatments What Clinics Offer",
+        "Laser Treatment in Korea Types and Prices",
+        "Acne Scar Treatment Korea Best Options",
+        "Korean Glass Skin Treatment Clinic Guide"
+      ]
+    },
+    {
+      "name": "Medical Tourism - Practical Info",
+      "category": "Medical Tourism",
+      "posts": [
+        "Korea Medical Tourism Visa How to Apply",
+        "Medical Tourism Insurance for Korea",
+        "English-Speaking Clinics in Seoul Complete List",
+        "Korea Medical Tourism Packages What's Included",
+        "How to Choose a Clinic in Korea Red Flags"
+      ]
+    },
+    {
+      "name": "Travel & Tourism - Food & Shopping",
+      "category": "Travel & Tourism",
+      "posts": [
+        "Best Korean BBQ Restaurants in Seoul 2026",
+        "Seoul Shopping Guide Myeongdong to Gangnam",
+        "Korean Street Food Guide Where to Eat in Seoul",
+        "Best Coffee Shops in Seoul 2026",
+        "Traditional Korean Markets in Seoul Shopping Guide"
+      ]
+    },
+    {
+      "name": "Travel & Tourism - Activities",
+      "category": "Travel & Tourism",
+      "posts": [
+        "Korean Spa Jjimjilbang Experience Guide",
+        "Seoul Transportation Guide for Tourists 2026",
+        "Best Day Trips from Seoul 2026",
+        "Seoul Nightlife Guide for International Visitors",
+        "Korean Temple Stay Experience Complete Guide"
+      ]
+    },
+    {
+      "name": "K-Culture",
+      "category": "K-Culture",
+      "posts": [
+        "K-Drama Filming Locations in Seoul 2026",
+        "Best K-Pop Concert Venues in Seoul",
+        "Korean Language Learning Guide for Beginners",
+        "Traditional Korean Hanbok Experience in Seoul",
+        "K-Beauty Shopping Guide Seoul 2026"
+      ]
+    },
+    {
+      "name": "Investment",
+      "category": "Investment",
+      "posts": [
+        "Real Estate Investment in Korea for Foreigners 2026",
+        "Korean Startup Ecosystem Investment Guide",
+        "Korea Digital Nomad Visa Complete Guide 2026",
+        "Banking in Korea for Expats and Investors",
+        "Korean Stock Market Investment Guide for Foreigners"
+      ]
+    }
+  ]
+}
