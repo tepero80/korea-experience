@@ -16,7 +16,7 @@ export default function ContactPage() {
       </p>
 
       <div className="bg-white shadow-md rounded-lg p-8">
-        <form className="space-y-6">
+        <form action="https://formspree.io/f/xjgoyban" method="POST" className="space-y-6">
           <div>
             <label htmlFor="name" className="block text-sm font-medium text-gray-700 mb-2">
               Your Name
