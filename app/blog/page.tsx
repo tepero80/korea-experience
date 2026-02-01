@@ -5,7 +5,7 @@ import BlogList from './BlogList';
 
 export const metadata: Metadata = {
   title: 'Blog - Korea Experience',
-  description: 'Read our latest guides on medical tourism, travel, K-culture, and investment in Korea.',
+  description: 'Read our latest guides on medical tourism, travel, K-culture, living in Korea, food & dining, and shopping in Korea.',
 };
 
 export default function BlogPage() {

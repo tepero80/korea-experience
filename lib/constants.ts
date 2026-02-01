@@ -2,7 +2,7 @@
 export const SITE_CONFIG = {
   name: 'Korea Experience',
   title: 'Korea Experience - Medical Tourism, Travel & K-Culture Guide',
-  description: 'Your complete guide to Korea: Medical tourism, plastic surgery clinics, travel tips, K-culture, investment opportunities, and more.',
+  description: 'Your complete guide to Korea: Medical tourism, plastic surgery clinics, travel tips, K-culture, living guides, food & dining, and more.',
   url: 'https://koreaexperience.com',
   author: 'Korea Experience Team',
   email: 'contact@koreaexperience.com',
@@ -16,7 +16,7 @@ export const SITE_CONFIG = {
     'Korean plastic surgery',
     'Seoul travel guide',
     'K-beauty clinics',
-    'Korea investment',
+    'Living in Korea',
     'K-culture',
     'Korea visa guide',
     'Gangnam clinics',
@@ -124,7 +124,9 @@ export const BLOG_CATEGORIES = [
   'Dermatology',
   'Travel Guide',
   'K-Culture',
-  'Investment',
+  'Living in Korea',
+  'Food & Dining',
+  'Shopping & K-Beauty',
   'Visa & Immigration',
   'Skincare',
 ];

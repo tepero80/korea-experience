@@ -33,7 +33,7 @@ export default function Home() {
             
             <p className="text-xl md:text-2xl mb-10 text-blue-100 leading-relaxed max-w-3xl mx-auto">
               From world-class medical tourism and K-beauty clinics to travel guides, 
-              cultural experiences, and investment opportunities
+              cultural experiences, living guides, and authentic Korean food
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -271,19 +271,57 @@ export default function Home() {
               </Link>
             </div>
 
-            {/* Investment Card */}
+            {/* Living in Korea Card */}
             <div className="group bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
-              <div className="w-16 h-16 bg-gradient-to-br from-amber-500 to-yellow-500 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+              <div className="w-16 h-16 bg-gradient-to-br from-green-500 to-emerald-500 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
                 <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
                 </svg>
               </div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">Investment</h3>
+              <h3 className="text-2xl font-bold text-gray-900 mb-3">Living in Korea</h3>
               <p className="text-gray-600 mb-6 leading-relaxed">
-                Real estate opportunities, business setup, visa guides, and digital nomad resources
+                Visa guides, housing tips, cost of living, expat life, and settling in Korea
               </p>
-              <Link href="/blog?category=investment" className="text-amber-600 font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">
-                Invest
+              <Link href="/blog?category=living" className="text-green-600 font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">
+                Explore
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
+              </Link>
+            </div>
+
+            {/* Food & Dining Card */}
+            <div className="group bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
+              <div className="w-16 h-16 bg-gradient-to-br from-orange-500 to-red-500 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                </svg>
+              </div>
+              <h3 className="text-2xl font-bold text-gray-900 mb-3">Food & Dining</h3>
+              <p className="text-gray-600 mb-6 leading-relaxed">
+                Korean cuisine, restaurant guides, food markets, cooking classes, and culinary experiences
+              </p>
+              <Link href="/blog?category=food" className="text-orange-600 font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">
+                Taste
+                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                </svg>
+              </Link>
+            </div>
+
+            {/* Shopping & K-Beauty Card */}
+            <div className="group bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
+              <div className="w-16 h-16 bg-gradient-to-br from-pink-500 to-rose-500 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
+                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" />
+                </svg>
+              </div>
+              <h3 className="text-2xl font-bold text-gray-900 mb-3">Shopping & K-Beauty</h3>
+              <p className="text-gray-600 mb-6 leading-relaxed">
+                K-beauty products, shopping districts, fashion, cosmetics, and beauty trends
+              </p>
+              <Link href="/blog?category=shopping" className="text-pink-600 font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">
+                Shop
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>

@@ -67,14 +67,34 @@ export default function BlogList({ allPosts }: BlogListProps) {
           K-Culture
         </Link>
         <Link 
-          href="/blog?category=investment"
+          href="/blog?category=living"
           className={`px-4 py-2 rounded-md transition-colors ${
-            category === 'investment'
+            category === 'living'
               ? 'bg-blue-600 text-white' 
               : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
           }`}
         >
-          Investment
+          Living in Korea
+        </Link>
+        <Link 
+          href="/blog?category=food"
+          className={`px-4 py-2 rounded-md transition-colors ${
+            category === 'food'
+              ? 'bg-blue-600 text-white' 
+              : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+          }`}
+        >
+          Food & Dining
+        </Link>
+        <Link 
+          href="/blog?category=shopping"
+          className={`px-4 py-2 rounded-md transition-colors ${
+            category === 'shopping'
+              ? 'bg-blue-600 text-white' 
+              : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+          }`}
+        >
+          Shopping & K-Beauty
         </Link>
       </div>
 

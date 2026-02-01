@@ -36,7 +36,7 @@ export default function Footer() {
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Your trusted comprehensive guide to Korea - from world-class medical tourism 
-              and travel to vibrant K-culture and investment opportunities.
+              and travel to vibrant K-culture, living guides, and authentic Korean experiences.
             </p>
             
             {/* Social Links */}
@@ -132,8 +132,18 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/blog?category=investment" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
-                  → Investment
+                <Link href="/blog?category=living" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
+                  → Living in Korea
+                </Link>
+              </li>
+              <li>
+                <Link href="/blog?category=food" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
+                  → Food & Dining
+                </Link>
+              </li>
+              <li>
+                <Link href="/blog?category=shopping" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
+                  → Shopping & K-Beauty
                 </Link>
               </li>
             </ul>
