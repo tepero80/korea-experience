@@ -156,13 +156,17 @@ function generateCustomName(): {
 /**
  * Main function to generate a Korean name from an English name
  */
-export function generateKoreanName(englishName: string, preferCustom: boolean = false): GeneratedKoreanName {
+export function generateKoreanName(
+  englishName: string, 
+  preferCustom: boolean = false,
+  selectedGender?: 'male' | 'female' | 'neutral'
+): GeneratedKoreanName {
   if (!englishName || englishName.trim().length === 0) {
     throw new Error('English name is required');
   }
   
-  // Detect gender
-  const gender = detectGender(englishName);
+  // Use selected gender or detect from name
+  const gender = selectedGender || detectGender(englishName);
   
   // Select surname
   const surname = selectSurname();
@@ -205,13 +209,17 @@ export function generateKoreanName(englishName: string, preferCustom: boolean = 
 /**
  * Generate multiple Korean name options
  */
-export function generateMultipleNames(englishName: string, count: number = 5): GeneratedKoreanName[] {
+export function generateMultipleNames(
+  englishName: string, 
+  count: number = 5, 
+  selectedGender?: 'male' | 'female' | 'neutral'
+): GeneratedKoreanName[] {
   const names: GeneratedKoreanName[] = [];
   
   for (let i = 0; i < count; i++) {
     // Mix of popular names and custom combinations
     const preferCustom = i >= Math.floor(count / 2);
-    names.push(generateKoreanName(englishName, preferCustom));
+    names.push(generateKoreanName(englishName, preferCustom, selectedGender));
   }
   
   return names;
