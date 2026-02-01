@@ -146,7 +146,7 @@ export default function KoreaJobQuizPage() {
             💼 What Would Your Job Be in Korea?
           </h1>
           <p className="text-xl text-white/90">
-            Discover your perfect Korean career match! 🇰🇷
+            Discover your perfect Korean career match!
           </p>
         </div>
       </div>
