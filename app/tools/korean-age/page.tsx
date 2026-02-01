@@ -162,7 +162,7 @@ export default function KoreanAgePage() {
             {/* Info Card */}
             <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-lg mb-8">
               <h3 className="text-lg font-bold text-blue-900 mb-2">
-                🇰🇷 About Korean Age System
+                🎂 About Korean Age System
               </h3>
               <p className="text-blue-800 text-sm leading-relaxed">
                 Korea traditionally used a unique age system where everyone became 1 year old at birth 
@@ -197,6 +197,7 @@ export default function KoreanAgePage() {
                     "
                     required
                   />
+                  <p className="mt-2 text-sm text-gray-500">Click the calendar icon to select your birth date</p>
                 </div>
 
                 {/* Error Message */}
@@ -266,7 +267,7 @@ export default function KoreanAgePage() {
 
                   {/* Korean Age */}
                   <div className="text-center p-6 bg-pink-50 rounded-xl border-2 border-pink-200">
-                    <div className="text-sm font-semibold text-pink-700 mb-2">🇰🇷 Korean Age</div>
+                    <div className="text-sm font-semibold text-pink-700 mb-2">🎉 Korean Age</div>
                     <div className="text-5xl font-bold text-pink-900 mb-2">{result?.koreanAge}</div>
                     <div className="text-xs text-pink-600">Traditional system</div>
                   </div>

@@ -21,15 +21,15 @@ export default function BlogCard({ post }: BlogCardProps) {
         <div className="text-sm text-blue-600 font-semibold mb-2">
           {category}
         </div>
-        <h2 className="text-[10px] font-normal mb-3 leading-[1.2]">
+        <div className="text-base font-semibold mb-3 leading-snug line-clamp-2">
           <Link 
             href={`/blog/${slug}`}
             className="hover:text-blue-600 transition-colors"
           >
             {title}
           </Link>
-        </h2>
-        <p className="text-gray-600 mb-4 line-clamp-2 text-[10px] leading-tight">
+        </div>
+        <p className="text-gray-600 mb-4 line-clamp-2 text-sm">
           {excerpt}
         </p>
         <div className="flex items-center justify-between">

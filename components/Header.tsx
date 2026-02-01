@@ -71,7 +71,7 @@ export default function Header() {
                 onMouseLeave={() => link.hasDropdown && setOpenDropdown(null)}
               >
                 {link.hasDropdown ? (
-                  <div className="relative">
+                  <>
                     <button
                       className="
                         px-4 py-2 rounded-lg font-medium text-gray-700
@@ -93,62 +93,58 @@ export default function Header() {
                     
                     {/* Dropdown Menu */}
                     {openDropdown === link.label && (
-                      <div className="
-                        absolute top-full left-0 pt-2 w-[600px] z-50
-                      ">
-                        <div className="
-                          bg-white rounded-xl shadow-2xl border border-gray-100 p-6
-                          animate-in fade-in slide-in-from-top-2 duration-200
-                        ">
-                        <div className="grid grid-cols-2 gap-6">
-                          {link.items?.map((category) => (
-                            <div key={category.category}>
-                              <div className="flex items-center gap-2 mb-3 pb-2 border-b border-gray-100">
-                                <span className="text-xl">{category.icon}</span>
-                                <h3 className="font-semibold text-gray-900 text-sm">{category.category}</h3>
+                      <div className="absolute top-full left-0 pt-2 w-[600px] z-50">
+                        <div className="bg-white rounded-xl shadow-2xl border border-gray-100 p-6 animate-in fade-in slide-in-from-top-2 duration-200">
+                          <div className="grid grid-cols-2 gap-6">
+                            {link.items?.map((category) => (
+                              <div key={category.category}>
+                                <div className="flex items-center gap-2 mb-3 pb-2 border-b border-gray-100">
+                                  <span className="text-xl">{category.icon}</span>
+                                  <h3 className="font-semibold text-gray-900 text-sm">{category.category}</h3>
+                                </div>
+                                <ul className="space-y-1">
+                                  {category.tools.map((tool) => (
+                                    <li key={tool.href}>
+                                      <Link
+                                        href={tool.href}
+                                        className="
+                                          block px-3 py-2 rounded-lg text-sm text-gray-700
+                                          hover:bg-blue-50 hover:text-blue-600
+                                          transition-all duration-150
+                                          flex items-center justify-between group
+                                        "
+                                      >
+                                        <span>{tool.label}</span>
+                                        {tool.status === 'coming' && (
+                                          <span className="text-xs bg-blue-100 text-blue-600 px-2 py-0.5 rounded-full opacity-0 group-hover:opacity-100 transition-opacity">
+                                            Soon
+                                          </span>
+                                        )}
+                                      </Link>
+                                    </li>
+                                  ))}
+                                </ul>
                               </div>
-                              <ul className="space-y-1">
-                                {category.tools.map((tool) => (
-                                  <li key={tool.href}>
-                                    <Link
-                                      href={tool.href}
-                                      className="
-                                        block px-3 py-2 rounded-lg text-sm text-gray-700
-                                        hover:bg-blue-50 hover:text-blue-600
-                                        transition-all duration-150
-                                        flex items-center justify-between group
-                                      "
-                                    >
-                                      <span>{tool.label}</span>
-                                      {tool.status === 'coming' && (
-                                        <span className="text-xs bg-blue-100 text-blue-600 px-2 py-0.5 rounded-full opacity-0 group-hover:opacity-100 transition-opacity">
-                                          Soon
-                                        </span>
-                                      )}
-                                    </Link>
-                                  </li>
-                                ))}
-                              </ul>
-                            </div>
-                          ))}
-                        </div>
-                        <div className="mt-4 pt-4 border-t border-gray-100">
-                          <Link
-                            href="/tools"
-                            className="
-                              text-sm text-blue-600 hover:text-blue-700 font-medium
-                              flex items-center gap-1 group
-                            "
-                          >
-                            <span>View All Tools</span>
-                            <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-                            </svg>
-                          </Link>
+                            ))}
+                          </div>
+                          <div className="mt-4 pt-4 border-t border-gray-100">
+                            <Link
+                              href="/tools"
+                              className="
+                                text-sm text-blue-600 hover:text-blue-700 font-medium
+                                flex items-center gap-1 group
+                              "
+                            >
+                              <span>View All Tools</span>
+                              <svg className="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                              </svg>
+                            </Link>
+                          </div>
                         </div>
                       </div>
                     )}
-                  </div>
+                  </>
                 ) : (
                   <Link 
                     href={link.href!}
