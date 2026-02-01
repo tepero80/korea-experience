@@ -35,7 +35,7 @@ export const NAV_LINKS = [
         icon: '🎯',
         tools: [
           { href: '/tools/korean-name', label: 'Korean Name Generator', status: 'active' },
-          { href: '/tools/korea-job-quiz', label: 'What Would Your Job Be in Korea?', status: 'coming' },
+          { href: '/tools/korea-job-quiz', label: 'What Would Your Job Be in Korea?', status: 'active' },
           { href: '/tools/korean-city-quiz', label: 'Which Korean City Should You Live In?', status: 'coming' },
         ]
       },
@@ -75,7 +75,7 @@ export const NAV_LINKS = [
 export const ALL_TOOLS = [
   // Week 1 Priority
   { id: 1, href: '/tools/korean-name', title: 'Korean Name Generator', category: 'Generator', difficulty: '⭐⭐', viral: 95, description: 'Get your perfect Korean name with meaning', icon: '🏷️', status: 'active' },
-  { id: 2, href: '/tools/korea-job-quiz', title: 'What Would Your Job Be in Korea?', category: 'Quiz', difficulty: '⭐⭐', viral: 90, description: 'Discover your ideal Korean career', icon: '💼', status: 'coming' },
+  { id: 2, href: '/tools/korea-job-quiz', title: 'What Would Your Job Be in Korea?', category: 'Quiz', difficulty: '⭐⭐', viral: 90, description: 'Discover your ideal Korean career', icon: '💼', status: 'active' },
   { id: 3, href: '/tools/korean-age', title: 'Korean Age Calculator', category: 'Calculator', difficulty: '⭐', viral: 85, description: 'Find out your age in Korean years', icon: '🎂', status: 'coming' },
   { id: 4, href: '/tools/trip-budget', title: 'Korea Trip Budget Calculator', category: 'Calculator', difficulty: '⭐⭐⭐', viral: 80, description: 'Plan your perfect Korea trip budget', icon: '✈️', status: 'coming' },
   { id: 5, href: '/tools/korean-city-quiz', title: 'Which Korean City Should You Live In?', category: 'Quiz', difficulty: '⭐⭐', viral: 85, description: 'Find your perfect Korean city match', icon: '🏙️', status: 'coming' },
