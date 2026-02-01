@@ -74,7 +74,7 @@ These lasers target the redness often associated with new or inflamed acne scars
 #### Laser Resurfacing with Subcision
 For deep, rolling scars tethered by fibrous bands, clinics often combine laser resurfacing with subcision. Subcision involves using a needle to break the fibrous bands beneath the scar, allowing the skin to lift and promoting new collagen formation in the freed space. Lasers then refine the surface texture.
 
-<br>
+
 
 | Laser Type               | Primary Target Scars      | Downtime (Typical)      | Cost Range (per session, USD) | Key Benefits                                        |
 | :----------------------- | :------------------------ | :---------------------- | :---------------------------- | :-------------------------------------------------- |
@@ -83,7 +83,7 @@ For deep, rolling scars tethered by fibrous bands, clinics often combine laser r
 | **Picosecond Lasers**    | Texture, Pigmentation, Ice Pick (adjunct) | 1-3 days of mild redness | $350 - $800                 | Collagen stimulation, PIH reduction, minimal heat   |
 | **Vascular Lasers**      | Post-inflammatory Erythema (Red Scars) | 0-1 day of mild redness | $200 - $450                 | Reduces redness, improves skin tone                 |
 
-<br>
+
 
 ### Innovative Injectable and Regenerative Therapies
 
@@ -128,7 +128,7 @@ One of Korea's most significant strengths in **acne scar treatment** lies in its
 
 This highly customized and multi-pronged strategy is a hallmark of Korean dermatological excellence, ensuring that every patient receives the most effective and efficient path to clear skin.
 
-<br>
+
 
 | Scar Type                 | Recommended Korean Treatment Combinations                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -138,7 +138,7 @@ This highly customized and multi-pronged strategy is a hallmark of Korean dermat
 | **Red Scars (PIE)**       | Vascular Lasers (Pulsed Dye Laser) + Picosecond Laser (targeting redness/pigment) + Calming Hanbang Serums/Post-Laser Care                                                                                                                                                                                                                                                                                                                                            |
 | **Brown Scars (PIH)**     | Picosecond Laser + Chemical Peels (light to medium strength) + Topical Brightening Agents + Hanbang Herbal Peels (e.g., Spicule Peel)                                                                                                                                                                                                                                                                                                                                 |
 
-<br>
+
 
 ### Planning Your Medical Journey: Logistics and Recovery
 
