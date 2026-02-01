@@ -62,7 +62,7 @@ export default async function BlogPostPage({ params }: { params: Params }) {
   });
 
   return (
-    <main className="py-12">
+    <main className="pt-20 pb-12">
       <article className="max-w-4xl mx-auto px-6">
         {/* Breadcrumbs */}
         <nav className="text-sm text-gray-500 mb-6">

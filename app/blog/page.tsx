@@ -12,7 +12,8 @@ export default function BlogPage() {
   const posts = getAllPosts();
 
   return (
-    <div className="container mx-auto px-4 py-12">
+    <div className="pt-20">
+      <div className="container mx-auto px-4 py-12">
       <div className="max-w-4xl mx-auto mb-12">
         <h1 className="text-4xl font-bold mb-4">Korea Experience Blog</h1>
         <p className="text-xl text-gray-600">
@@ -69,6 +70,7 @@ export default function BlogPage() {
             </p>
           </div>
         )}
+      </div>
       </div>
     </div>
   );

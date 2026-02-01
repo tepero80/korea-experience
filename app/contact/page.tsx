@@ -7,7 +7,8 @@ export const metadata: Metadata = {
 
 export default function ContactPage() {
   return (
-    <div className="container mx-auto px-4 py-12 max-w-3xl">
+    <div className="pt-20">
+      <div className="container mx-auto px-4 py-12 max-w-3xl">
       <h1 className="text-4xl font-bold mb-6">Contact Us</h1>
       
       <p className="text-xl text-gray-600 mb-8">
@@ -100,6 +101,7 @@ export default function ContactPage() {
           For partnership opportunities, advertising, or business proposals, please include 
           "Business Inquiry" in your subject line for faster processing.
         </p>
+      </div>
       </div>
     </div>
   );

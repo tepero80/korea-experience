@@ -7,7 +7,8 @@ export const metadata: Metadata = {
 
 export default function DisclaimerPage() {
   return (
-    <div className="container mx-auto px-4 py-12 max-w-4xl">
+    <div className="pt-20">
+      <div className="container mx-auto px-4 py-12 max-w-4xl">
       <div className="bg-red-50 border-l-4 border-red-500 p-6 mb-8">
         <h1 className="text-4xl font-bold mb-2 text-red-900">Medical Disclaimer</h1>
         <p className="text-red-800 font-semibold">Please Read Carefully Before Using This Website</p>
@@ -143,6 +144,7 @@ export default function DisclaimerPage() {
             If you have questions about this disclaimer, please <a href="/contact" className="text-blue-600 hover:underline">contact us</a>.
           </p>
         </section>
+      </div>
       </div>
     </div>
   );
