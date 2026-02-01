@@ -94,10 +94,12 @@ export default function Header() {
                     {/* Dropdown Menu */}
                     {openDropdown === link.label && (
                       <div className="
-                        absolute top-full left-0 mt-2 w-[600px] bg-white rounded-xl shadow-2xl
-                        border border-gray-100 p-6 z-50
-                        animate-in fade-in slide-in-from-top-2 duration-200
+                        absolute top-full left-0 pt-2 w-[600px] z-50
                       ">
+                        <div className="
+                          bg-white rounded-xl shadow-2xl border border-gray-100 p-6
+                          animate-in fade-in slide-in-from-top-2 duration-200
+                        ">
                         <div className="grid grid-cols-2 gap-6">
                           {link.items?.map((category) => (
                             <div key={category.category}>
