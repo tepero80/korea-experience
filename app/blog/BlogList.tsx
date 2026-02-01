@@ -16,7 +16,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
   // Filter posts by category
   const posts = category
     ? allPosts.filter((post) => {
-        const postCategory = post.category?.toLowerCase().replace(/\s+/g, '-').replace(/&/g, '');
+        const postCategory = post.category?.toLowerCase().replace(/[\s&-]/g, '');
         const filterCategory = category.toLowerCase();
         return postCategory === filterCategory;
       })
@@ -57,9 +57,9 @@ export default function BlogList({ allPosts }: BlogListProps) {
           Travel & Tourism
         </Link>
         <Link 
-          href="/blog?category=k-culture"
+          href="/blog?category=kculture"
           className={`px-4 py-2 rounded-md transition-colors ${
-            category === 'k-culture'
+            category === 'kculture'
               ? 'bg-blue-600 text-white' 
               : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
           }`}
