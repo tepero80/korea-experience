@@ -1,0 +1,50 @@
+import { Metadata } from 'next';
+
+export const metadata: Metadata = {
+  title: 'Korean Name Generator - Get Your Authentic Korean Name | Korea Experience',
+  description: 'Generate your perfect Korean name based on your English name! Choose from male, female, or unisex options. Discover the meaning behind each Korean name. Free Korean name generator with cultural insights.',
+  keywords: [
+    'korean name generator',
+    'korean name',
+    'get korean name',
+    'korean name meaning',
+    'korean name for me',
+    'korean name translator',
+    'korean name creator',
+    'korean baby names',
+    'korean name based on english name',
+    'korea experience'
+  ],
+  openGraph: {
+    title: 'Korean Name Generator - Get Your Authentic Korean Name',
+    description: 'Generate your perfect Korean name based on your English name! Choose from male, female, or unisex options with cultural meanings.',
+    url: 'https://www.koreaexperience.com/tools/korean-name',
+    siteName: 'Korea Experience',
+    type: 'website',
+    images: [
+      {
+        url: 'https://www.koreaexperience.com/og-korean-name.png',
+        width: 1200,
+        height: 630,
+        alt: 'Korean Name Generator - Korea Experience',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Korean Name Generator - Get Your Authentic Korean Name',
+    description: 'Generate your perfect Korean name based on your English name! Free tool with cultural meanings.',
+    images: ['https://www.koreaexperience.com/og-korean-name.png'],
+  },
+  alternates: {
+    canonical: 'https://www.koreaexperience.com/tools/korean-name',
+  },
+};
+
+export default function KoreanNameLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return children;
+}

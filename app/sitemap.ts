@@ -17,11 +17,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/privacy',
     '/terms',
     '/disclaimer',
+    '/tools',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
     changeFrequency: 'weekly' as const,
     priority: route === '' ? 1 : 0.8,
+  }));
+
+  // Interactive Tools
+  const toolPages = [
+    '/tools/korean-name',
+    '/tools/korea-job-quiz',
+    '/tools/korean-age',
+  ].map((route) => ({
+    url: `${baseUrl}${route}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
   }));
 
   // Blog posts
@@ -32,5 +45,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.6,
   }));
 
-  return [...staticPages, ...blogPosts];
+  return [...staticPages, ...toolPages, ...blogPosts];
 }
