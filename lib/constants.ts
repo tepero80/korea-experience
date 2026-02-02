@@ -55,6 +55,7 @@ export const NAV_LINKS = [
         tools: [
           { href: '/tools/kpop-stage-name', label: 'K-Pop Stage Name Generator', status: 'active' },
           { href: '/tools/korean-typing-test', label: 'Korean Typing Speed Test', status: 'active' },
+          { href: '/tools/korean-zodiac-fortune', label: 'Korean Zodiac Fortune Today', status: 'active' },
         ]
       },
       {
@@ -98,7 +99,7 @@ export const ALL_TOOLS = [
   // Fun & Entertainment
   { id: 10, href: '/tools/kpop-stage-name', title: 'K-Pop Stage Name Generator', category: 'Fun & Entertainment', difficulty: '⭐⭐', viral: 88, description: 'Create your K-Pop idol name', icon: '🎤', status: 'active' },
   { id: 11, href: '/tools/korean-typing-test', title: 'Korean Typing Speed Test', category: 'Fun & Entertainment', difficulty: '⭐⭐⭐', viral: 75, description: 'Test your Korean typing skills', icon: '⌨️', status: 'active' },
-  { id: 12, href: '/tools/korean-zodiac-fortune', title: 'Korean Zodiac Fortune Today', category: 'Fun & Entertainment', difficulty: '⭐⭐', viral: 80, description: 'Check your daily fortune', icon: '🔮', status: 'coming' },
+  { id: 12, href: '/tools/korean-zodiac-fortune', title: 'Korean Zodiac Fortune Today', category: 'Fun & Entertainment', difficulty: '⭐⭐', viral: 80, description: 'Check your daily fortune', icon: '🔮', status: 'active' },
   { id: 13, href: '/tools/guess-korean-food', title: 'Guess the Korean Food Photo', category: 'Fun & Entertainment', difficulty: '⭐⭐⭐⭐', viral: 72, description: 'Test your Korean food knowledge', icon: '🎮', status: 'coming' },
   { id: 14, href: '/tools/emoji-name', title: 'Your Korean Emoji Name', category: 'Fun & Entertainment', difficulty: '⭐', viral: 85, description: 'Transform your name into emojis', icon: '✨', status: 'coming' },
   
