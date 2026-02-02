@@ -141,15 +141,21 @@ export default function TripBudgetCalculator() {
   const itinerary = result ? getRecommendedItinerary(budgetLevel, preferences.days) : [];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-cyan-50 py-12 px-4">
+    <div className="min-h-screen bg-gradient-to-br from-purple-600 via-pink-600 to-purple-700 py-12 px-4">
       <div className="max-w-4xl mx-auto">
         {/* Header */}
-        <div className="text-center mb-12">
+        <div className="text-center mb-8">
+          <Link
+            href="/tools"
+            className="inline-block text-white/90 hover:text-white mb-6 transition-colors"
+          >
+            ← Back to Tools
+          </Link>
           <div className="text-6xl mb-4">✈️</div>
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
+          <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
             Korea Trip Budget Calculator
           </h1>
-          <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+          <p className="text-xl text-white/90 max-w-2xl mx-auto">
             Plan your perfect Korea trip! Get detailed cost estimates for accommodation, food, activities, and more.
           </p>
         </div>
@@ -393,9 +399,9 @@ export default function TripBudgetCalculator() {
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Ready to Book Your Trip?</h3>
               <p className="text-gray-700 mb-6">Find the best hotel deals in Korea on Booking.com</p>
               <a
-                href="https://www.booking.com/searchresults.html?ss=Seoul%2C+South+Korea"
+                href="https://www.booking.com/city/kr/seoul.html"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noopener noreferrer nofollow"
                 className="inline-block bg-gradient-to-r from-blue-600 to-cyan-600 text-white font-bold py-4 px-8 rounded-xl hover:from-blue-700 hover:to-cyan-700 transition-all shadow-lg hover:shadow-xl"
               >
                 Browse Seoul Hotels 🏨
