@@ -388,19 +388,19 @@ export default function TripBudgetCalculator() {
               </div>
             </div>
 
-            {/* Booking.com Affiliate Link */}
+            {/* Booking.com Link */}
             <div className="bg-gradient-to-br from-orange-50 to-red-50 rounded-2xl p-8 border-2 border-orange-200 text-center">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Ready to Book Your Trip?</h3>
-              <p className="text-gray-700 mb-6">Find the best hotel deals in Korea with our partner Booking.com</p>
+              <p className="text-gray-700 mb-6">Find the best hotel deals in Korea on Booking.com</p>
               <a
-                href="https://www.booking.com/city/kr/seoul.html?aid=7913345"
+                href="https://www.booking.com/searchresults.html?ss=Seoul%2C+South+Korea"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="noopener noreferrer"
                 className="inline-block bg-gradient-to-r from-blue-600 to-cyan-600 text-white font-bold py-4 px-8 rounded-xl hover:from-blue-700 hover:to-cyan-700 transition-all shadow-lg hover:shadow-xl"
               >
                 Browse Seoul Hotels 🏨
               </a>
-              <p className="text-xs text-gray-500 mt-4">Affiliate link - We may earn a commission at no cost to you</p>
+              <p className="text-xs text-gray-500 mt-4">Search hotels in Seoul and surrounding areas</p>
             </div>
 
             {/* Share Buttons */}
