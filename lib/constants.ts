@@ -37,6 +37,7 @@ export const NAV_LINKS = [
           { href: '/tools/korean-name', label: 'Korean Name Generator', status: 'active' },
           { href: '/tools/korea-job-quiz', label: 'What Would Your Job Be in Korea?', status: 'active' },
           { href: '/tools/korean-city-quiz', label: 'Which Korean City Should You Live In?', status: 'active' },
+          { href: '/tools/korean-food-quiz', label: 'What Korean Food Matches You?', status: 'active' },
         ]
       },
       {
@@ -95,7 +96,7 @@ export const ALL_TOOLS = [
   { id: 10, href: '/tools/medical-cost-estimator', title: 'Medical Tourism Cost Estimator', category: 'Calculator', difficulty: '⭐⭐⭐', viral: 70, description: 'Estimate medical procedure costs', icon: '🏥', status: 'active' },
   
   // Week 3-4 Priority
-  { id: 11, href: '/tools/korean-food-quiz', title: 'What Korean Food Matches You?', category: 'Quiz', difficulty: '⭐⭐', viral: 82, description: 'Find your Korean food soulmate', icon: '🍜', status: 'coming' },
+  { id: 11, href: '/tools/korean-food-quiz', title: 'What Korean Food Matches You?', category: 'Quiz', difficulty: '⭐⭐', viral: 82, description: 'Find your Korean food soulmate', icon: '🍜', status: 'active' },
   { id: 12, href: '/tools/business-name', title: 'Korean Business Name Generator', category: 'Generator', difficulty: '⭐⭐', viral: 65, description: 'Create the perfect business name', icon: '🏢', status: 'coming' },
   { id: 13, href: '/tools/korean-typing-test', title: 'Korean Typing Speed Test', category: 'Game', difficulty: '⭐⭐⭐', viral: 75, description: 'Test your Korean typing skills', icon: '⌨️', status: 'coming' },
   { id: 14, href: '/tools/korean-zodiac-fortune', title: 'Korean Zodiac Fortune Today', category: 'Fun', difficulty: '⭐⭐', viral: 80, description: 'Check your daily fortune', icon: '🔮', status: 'coming' },
