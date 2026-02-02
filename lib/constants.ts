@@ -2,7 +2,7 @@
 export const SITE_CONFIG = {
   name: 'Korea Experience',
   title: 'Korea Experience - Medical Tourism, Travel & K-Culture Guide',
-  description: 'Your complete guide to Korea: Medical tourism, plastic surgery clinics, travel tips, K-culture, living guides, food & dining, and more.',
+  description: 'Discover everything about Korea - from world-class medical tourism and K-beauty to authentic travel experiences, living guides, and cultural insights. Your trusted companion for exploring Korea.',
   url: 'https://koreaexperience.com',
   author: 'Korea Experience Team',
   email: 'contact@koreaexperience.com',

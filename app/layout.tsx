@@ -35,10 +35,11 @@ export const metadata: Metadata = {
     description: SITE_CONFIG.description,
     images: [
       {
-        url: "/og-image.jpg",
+        url: "/og-image.svg",
         width: 1200,
         height: 630,
-        alt: SITE_CONFIG.name,
+        alt: "Korea Experience - Medical Tourism, Travel, Culture & Living Guide",
+        type: "image/svg+xml",
       },
     ],
   },
@@ -47,7 +48,7 @@ export const metadata: Metadata = {
     title: SITE_CONFIG.title,
     description: SITE_CONFIG.description,
     creator: SITE_CONFIG.social.twitter,
-    images: ["/og-image.jpg"],
+    images: ["/og-image.svg"],
   },
   robots: {
     index: true,
