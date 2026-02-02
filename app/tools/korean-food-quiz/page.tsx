@@ -262,35 +262,20 @@ export default function KoreanFoodQuiz() {
             </div>
           </div>
 
-          {/* Explore More */}
-          <div className="bg-white rounded-2xl p-6 text-center shadow-lg">
-            <h3 className="text-xl font-bold text-gray-900 mb-4">Explore More Korean Culture</h3>
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-              <Link
-                href="/tools/kdrama-character"
-                className="bg-purple-100 hover:bg-purple-200 text-purple-700 px-6 py-3 rounded-lg transition-colors font-medium"
-              >
-                🎭 K-Drama Character Quiz
-              </Link>
-              <Link
-                href="/tools/korean-name"
-                className="bg-blue-100 hover:bg-blue-200 text-blue-700 px-6 py-3 rounded-lg transition-colors font-medium"
-              >
-                🏷️ Get Your Korean Name
-              </Link>
-              <Link
-                href="/tools/korean-city-quiz"
-                className="bg-green-100 hover:bg-green-200 text-green-700 px-6 py-3 rounded-lg transition-colors font-medium"
-              >
-                🏙️ Which City Suits You?
-              </Link>
-              <Link
-                href="/blog"
-                className="bg-pink-100 hover:bg-pink-200 text-pink-700 px-6 py-3 rounded-lg transition-colors font-medium"
-              >
-                📖 Read Korea Blog
-              </Link>
-            </div>
+          {/* Try More Interactive Tools */}
+          <div className="bg-gradient-to-r from-orange-100 to-red-100 rounded-2xl p-8 text-center border-2 border-orange-200 mt-8">
+            <h3 className="text-2xl font-bold text-gray-900 mb-4">
+              Try More Interactive Tools!
+            </h3>
+            <p className="text-gray-700 mb-6">
+              Discover more about your Korean talents!
+            </p>
+            <Link
+              href="/tools"
+              className="inline-block bg-gradient-to-r from-orange-600 to-red-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+            >
+              Explore All Tools
+            </Link>
           </div>
         </div>
       </ToolLayout>

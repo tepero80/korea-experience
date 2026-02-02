@@ -1,6 +1,7 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
+import Link from 'next/link';
 import ToolLayout from '@/components/ToolLayout';
 import {
   getRandomText,
@@ -507,17 +508,20 @@ export default function KoreanTypingTest() {
           </div>
         )}
 
-        {/* Try More Tools */}
-        <div className="mt-8 text-center">
-          <a
-            href="/tools"
-            className="inline-flex items-center gap-2 text-purple-600 hover:text-purple-700 font-semibold"
-          >
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 19l-7-7m0 0l7-7m-7 7h18" />
-            </svg>
+        {/* Try More Interactive Tools */}
+        <div className="bg-gradient-to-r from-purple-100 to-pink-100 rounded-2xl p-8 text-center border-2 border-purple-200 mt-8">
+          <h3 className="text-2xl font-bold text-gray-900 mb-4">
             Try More Interactive Tools!
-          </a>
+          </h3>
+          <p className="text-gray-700 mb-6">
+            Discover more about your Korean talents!
+          </p>
+          <Link
+            href="/tools"
+            className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+          >
+            Explore All Tools
+          </Link>
         </div>
       </div>
     </ToolLayout>
