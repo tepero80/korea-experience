@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     url: 'https://koreaexperience.com/tools/love-compatibility',
     images: [
       {
-        url: 'https://koreaexperience.com/og-image.png',
+        url: '/tools/love-compatibility/opengraph-image',
         width: 1200,
         height: 630,
         alt: 'Korean Love Compatibility Calculator',
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Korean Love Compatibility Calculator - Zodiac & Blood Type Match',
     description: 'Check your love compatibility using Korean zodiac signs and blood types! Get personalized relationship advice and your couple nickname 💕',
-    images: ['https://koreaexperience.com/og-image.png'],
+    images: ['/tools/love-compatibility/opengraph-image'],
   },
   alternates: {
     canonical: 'https://koreaexperience.com/tools/love-compatibility',

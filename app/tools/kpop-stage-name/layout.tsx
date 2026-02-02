@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     url: 'https://koreaexperience.com/tools/kpop-stage-name',
     images: [
       {
-        url: 'https://koreaexperience.com/og-image.png',
+        url: '/tools/kpop-stage-name/opengraph-image',
         width: 1200,
         height: 630,
         alt: 'K-Pop Stage Name Generator',
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'K-Pop Stage Name Generator - Find Your Perfect Idol Name',
     description: 'Discover your K-pop idol stage name with Korean translation! Choose your concept and get a name that matches your star potential ✨',
-    images: ['https://koreaexperience.com/og-image.png'],
+    images: ['/tools/kpop-stage-name/opengraph-image'],
   },
   alternates: {
     canonical: 'https://koreaexperience.com/tools/kpop-stage-name',

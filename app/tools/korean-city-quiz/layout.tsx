@@ -24,7 +24,7 @@ export const metadata: Metadata = {
     url: 'https://koreaexperience.com/tools/korean-city-quiz',
     images: [
       {
-        url: '/og-image.png',
+        url: '/tools/korean-city-quiz/opengraph-image',
         width: 1200,
         height: 630,
         alt: 'Korean City Quiz - Find Your Perfect City'
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Which Korean City Should You Live In? Quiz',
     description: 'Find your perfect Korean city match with our interactive lifestyle quiz!',
-    images: ['/og-image.png']
+    images: ['/tools/korean-city-quiz/opengraph-image']
   },
   alternates: {
     canonical: 'https://koreaexperience.com/tools/korean-city-quiz'

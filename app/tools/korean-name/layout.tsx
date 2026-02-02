@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: 'https://www.koreaexperience.com/og-korean-name.png',
+        url: '/tools/korean-name/opengraph-image',
         width: 1200,
         height: 630,
         alt: 'Korean Name Generator - Korea Experience',
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Korean Name Generator - Get Your Authentic Korean Name',
     description: 'Generate your perfect Korean name based on your English name! Free tool with cultural meanings.',
-    images: ['https://www.koreaexperience.com/og-korean-name.png'],
+    images: ['/tools/korean-name/opengraph-image'],
   },
   alternates: {
     canonical: 'https://www.koreaexperience.com/tools/korean-name',

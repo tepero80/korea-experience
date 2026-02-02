@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: 'https://www.koreaexperience.com/og-job-quiz.png',
+        url: '/tools/korea-job-quiz/opengraph-image',
         width: 1200,
         height: 630,
         alt: 'Korea Job Quiz - Korea Experience',
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'What Job Would You Have in Korea? - Career Quiz',
     description: 'Take our fun quiz to discover your perfect Korean career! 16 detailed job results with personality match.',
-    images: ['https://www.koreaexperience.com/og-job-quiz.png'],
+    images: ['/tools/korea-job-quiz/opengraph-image'],
   },
   alternates: {
     canonical: 'https://www.koreaexperience.com/tools/korea-job-quiz',

@@ -25,7 +25,7 @@ export const metadata: Metadata = {
     type: 'website',
     images: [
       {
-        url: 'https://www.koreaexperience.com/og-korean-age.png',
+        url: '/tools/korean-age/opengraph-image',
         width: 1200,
         height: 630,
         alt: 'Korean Age Calculator - Korea Experience',
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Korean Age Calculator - Find Your Korean Age & Zodiac Sign',
     description: 'Calculate your Korean age and discover your Chinese zodiac sign! Learn about personality traits and compatibility.',
-    images: ['https://www.koreaexperience.com/og-korean-age.png'],
+    images: ['/tools/korean-age/opengraph-image'],
   },
   alternates: {
     canonical: 'https://www.koreaexperience.com/tools/korean-age',
