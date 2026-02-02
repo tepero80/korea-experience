@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useRef } from 'react';
 import ToolLayout from '@/components/ToolLayout';
 import { calculateLoveCompatibility, Person, CompatibilityResult } from '@/lib/love-compatibility';
 
@@ -22,6 +22,7 @@ export default function LoveCompatibilityPage() {
   });
   
   const [result, setResult] = useState<CompatibilityResult | null>(null);
+  const resultRef = useRef<HTMLDivElement>(null);
 
   const handleCalculate = (e: React.FormEvent) => {
     e.preventDefault();
@@ -60,6 +61,68 @@ export default function LoveCompatibilityPage() {
   const shareText = result 
     ? `${person1.name} & ${person2.name} love compatibility: ${result.score}% ${result.grade} Get yours at koreaexperience.com/tools/love-compatibility`
     : '';
+
+  const handleDownloadImage = () => {
+    if (!result || !resultRef.current) return;
+
+    const canvas = document.createElement('canvas');
+    canvas.width = 800;
+    canvas.height = 500;
+    const ctx = canvas.getContext('2d');
+    
+    if (!ctx) return;
+
+    // Background gradient
+    const gradient = ctx.createLinearGradient(0, 0, 800, 500);
+    gradient.addColorStop(0, '#ec4899'); // pink-600
+    gradient.addColorStop(0.5, '#a855f7'); // purple-600
+    gradient.addColorStop(1, '#ec4899'); // pink-600
+    ctx.fillStyle = gradient;
+    ctx.fillRect(0, 0, 800, 500);
+
+    // Title
+    ctx.fillStyle = '#ffffff';
+    ctx.font = 'bold 32px Arial';
+    ctx.textAlign = 'center';
+    ctx.fillText('Korean Love Compatibility', 400, 60);
+
+    // Names
+    ctx.font = 'bold 28px Arial';
+    ctx.fillText(`${person1.name} 💗 ${person2.name}`, 400, 110);
+
+    // Score
+    ctx.font = 'bold 80px Arial';
+    ctx.fillText(`${result.score}%`, 400, 210);
+
+    // Grade
+    ctx.font = 'bold 36px Arial';
+    ctx.fillText(result.grade, 400, 260);
+
+    // Emoji
+    ctx.font = '48px Arial';
+    ctx.fillText(result.emoji, 400, 320);
+
+    // Couple Nickname
+    ctx.font = 'bold 24px Arial';
+    ctx.fillText(`Couple Nickname: ${result.coupleNickname}`, 400, 370);
+    ctx.font = '20px Arial';
+    ctx.fillText(result.coupleNicknameKo, 400, 400);
+
+    // Footer
+    ctx.font = '16px Arial';
+    ctx.fillText('koreaexperience.com/tools/love-compatibility', 400, 460);
+
+    // Download
+    canvas.toBlob((blob) => {
+      if (!blob) return;
+      const url = URL.createObjectURL(blob);
+      const link = document.createElement('a');
+      link.href = url;
+      link.download = `love-compatibility-${person1.name}-${person2.name}.png`;
+      link.click();
+      URL.revokeObjectURL(url);
+    });
+  };
 
   const currentYear = new Date().getFullYear();
   const years = Array.from({ length: currentYear - 1940 + 1 }, (_, i) => currentYear - i);
@@ -117,7 +180,7 @@ export default function LoveCompatibilityPage() {
                     className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-pink-500 outline-none"
                   >
                     {months.map(month => (
-                      <option key={month} value={month}>{month}월</option>
+                      <option key={month} value={month}>Month {month}</option>
                     ))}
                   </select>
                   <select
@@ -126,7 +189,7 @@ export default function LoveCompatibilityPage() {
                     className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-pink-500 outline-none"
                   >
                     {days.map(day => (
-                      <option key={day} value={day}>{day}일</option>
+                      <option key={day} value={day}>Day {day}</option>
                     ))}
                   </select>
                 </div>
@@ -148,7 +211,7 @@ export default function LoveCompatibilityPage() {
                           : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                       }`}
                     >
-                      {type}형
+                      Type {type}
                     </button>
                   ))}
                 </div>
@@ -202,7 +265,7 @@ export default function LoveCompatibilityPage() {
                     className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-purple-500 outline-none"
                   >
                     {months.map(month => (
-                      <option key={month} value={month}>{month}월</option>
+                      <option key={month} value={month}>Month {month}</option>
                     ))}
                   </select>
                   <select
@@ -211,7 +274,7 @@ export default function LoveCompatibilityPage() {
                     className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-purple-500 outline-none"
                   >
                     {days.map(day => (
-                      <option key={day} value={day}>{day}일</option>
+                      <option key={day} value={day}>Day {day}</option>
                     ))}
                   </select>
                 </div>
@@ -233,7 +296,7 @@ export default function LoveCompatibilityPage() {
                           : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                       }`}
                     >
-                      {type}형
+                      Type {type}
                     </button>
                   ))}
                 </div>
@@ -251,7 +314,7 @@ export default function LoveCompatibilityPage() {
         </form>
       ) : (
         /* Results */
-        <div className="space-y-6">
+        <div className="space-y-6" ref={resultRef}>
           {/* Names */}
           <div className="text-center">
             <div className="text-2xl font-bold text-gray-900 mb-2">
@@ -371,6 +434,17 @@ export default function LoveCompatibilityPage() {
           {/* Share Buttons */}
           <div className="border-t-2 border-gray-200 pt-6">
             <h3 className="text-center font-bold text-gray-900 mb-4">Share Your Result!</h3>
+            <div className="flex flex-wrap justify-center gap-3 mb-4">
+              <button
+                onClick={handleDownloadImage}
+                className="bg-gradient-to-r from-pink-600 to-purple-600 text-white px-6 py-3 rounded-lg font-semibold hover:shadow-lg transition-all flex items-center gap-2"
+              >
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
+                </svg>
+                Download Image
+              </button>
+            </div>
             <div className="flex flex-wrap justify-center gap-3">
               <a
                 href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}`}
