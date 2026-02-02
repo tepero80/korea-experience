@@ -53,7 +53,7 @@ export const NAV_LINKS = [
         icon: '💝',
         tools: [
           { href: '/tools/love-compatibility', label: 'Korean Love Compatibility', status: 'active' },
-          { href: '/tools/ideal-korean-partner', label: 'Your Ideal Korean Partner Type', status: 'coming' },
+          { href: '/tools/ideal-korean-partner', label: 'Your Ideal Korean Partner Type', status: 'active' },
         ]
       },
       {
@@ -91,7 +91,7 @@ export const ALL_TOOLS = [
   { id: 6, href: '/tools/kpop-stage-name', title: 'K-Pop Stage Name Generator', category: 'Generator', difficulty: '⭐⭐', viral: 88, description: 'Create your K-Pop idol name', icon: '🎤', status: 'active' },
   { id: 7, href: '/tools/love-compatibility', title: 'Korean Love Compatibility', category: 'Love', difficulty: '⭐⭐', viral: 92, description: 'Check your love compatibility', icon: '💕', status: 'active' },
   { id: 8, href: '/tools/kdrama-character', title: 'Which K-Drama Character Are You?', category: 'Quiz', difficulty: '⭐⭐', viral: 90, description: 'Find your K-Drama character match', icon: '🎭', status: 'active' },
-  { id: 9, href: '/tools/ideal-korean-partner', title: 'Your Ideal Korean Partner Type', category: 'Love', difficulty: '⭐⭐', viral: 87, description: 'Discover your ideal Korean partner', icon: '💑', status: 'coming' },
+  { id: 9, href: '/tools/ideal-korean-partner', title: 'Your Ideal Korean Partner Type', category: 'Love', difficulty: '⭐⭐', viral: 87, description: 'Discover your ideal Korean partner', icon: '💑', status: 'active' },
   { id: 10, href: '/tools/medical-cost-estimator', title: 'Medical Tourism Cost Estimator', category: 'Calculator', difficulty: '⭐⭐⭐', viral: 70, description: 'Estimate medical procedure costs', icon: '🏥', status: 'coming' },
   
   // Week 3-4 Priority
