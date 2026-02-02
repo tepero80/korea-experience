@@ -33,6 +33,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/trip-budget',
     '/tools/korean-city-quiz',
     '/tools/kpop-stage-name',
+    '/tools/love-compatibility',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
