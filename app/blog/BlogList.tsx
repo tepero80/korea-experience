@@ -11,14 +11,23 @@ interface BlogListProps {
 
 export default function BlogList({ allPosts }: BlogListProps) {
   const searchParams = useSearchParams();
-  const category = searchParams.get('category') || undefined;
+  const categorySlug = searchParams.get('category') || undefined;
+  
+  // Map URL slugs to actual category names
+  const categoryMap: Record<string, string> = {
+    'medicaltourism': 'Medical Tourism',
+    'traveltourism': 'Travel & Tourism',
+    'kculture': 'K-Culture',
+    'living': 'Living in Korea',
+    'food': 'Food & Dining',
+    'shopping': 'Shopping & K-Beauty'
+  };
   
   // Filter posts by category
-  const posts = category
+  const posts = categorySlug
     ? allPosts.filter((post) => {
-        const postCategory = post.category?.toLowerCase().replace(/[\s&-]/g, '');
-        const filterCategory = category.toLowerCase();
-        return postCategory === filterCategory;
+        const actualCategory = categoryMap[categorySlug];
+        return post.category === actualCategory;
       })
     : allPosts;
 
@@ -29,7 +38,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
         <Link 
           href="/blog"
           className={`px-4 py-2 rounded-md transition-colors ${
-            !category 
+            !categorySlug 
               ? 'bg-blue-600 text-white' 
               : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
           }`}
@@ -39,7 +48,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
         <Link 
           href="/blog?category=medicaltourism"
           className={`px-4 py-2 rounded-md transition-colors ${
-            category === 'medicaltourism'
+            categorySlug === 'medicaltourism'
               ? 'bg-blue-600 text-white' 
               : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
           }`}
@@ -49,7 +58,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
         <Link 
           href="/blog?category=traveltourism"
           className={`px-4 py-2 rounded-md transition-colors ${
-            category === 'traveltourism'
+            categorySlug === 'traveltourism'
               ? 'bg-blue-600 text-white' 
               : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
           }`}
@@ -59,7 +68,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
         <Link 
           href="/blog?category=kculture"
           className={`px-4 py-2 rounded-md transition-colors ${
-            category === 'kculture'
+            categorySlug === 'kculture'
               ? 'bg-blue-600 text-white' 
               : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
           }`}
@@ -69,7 +78,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
         <Link 
           href="/blog?category=living"
           className={`px-4 py-2 rounded-md transition-colors ${
-            category === 'living'
+            categorySlug === 'living'
               ? 'bg-blue-600 text-white' 
               : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
           }`}
@@ -79,7 +88,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
         <Link 
           href="/blog?category=food"
           className={`px-4 py-2 rounded-md transition-colors ${
-            category === 'food'
+            categorySlug === 'food'
               ? 'bg-blue-600 text-white' 
               : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
           }`}
@@ -89,7 +98,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
         <Link 
           href="/blog?category=shopping"
           className={`px-4 py-2 rounded-md transition-colors ${
-            category === 'shopping'
+            categorySlug === 'shopping'
               ? 'bg-blue-600 text-white' 
               : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
           }`}
