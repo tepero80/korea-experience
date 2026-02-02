@@ -1,14 +1,37 @@
 import Link from 'next/link';
-import { SITE_CONFIG, ALL_TOOLS } from '@/lib/constants';
+import { SITE_CONFIG, ALL_TOOLS, BLOG_CATEGORIES } from '@/lib/constants';
 import { getAllPosts } from '@/lib/posts';
 
 export default function Home() {
   // Get top 6 featured tools
   const featuredTools = ALL_TOOLS.slice(0, 6);
   
-  // Get latest 4 blog posts for Featured Guides
+  // Get one latest post from each of the first 6 categories
   const allPosts = getAllPosts();
-  const featuredPosts = allPosts.slice(0, 4);
+  const featuredPosts: any[] = [];
+  const displayCategories = [
+    'Medical Tourism',
+    'Travel Guide',
+    'Living in Korea',
+    'Food & Dining',
+    'K-Culture',
+    'Plastic Surgery'
+  ];
+  
+  displayCategories.forEach(category => {
+    const categoryPost = allPosts.find(post => post.category === category);
+    if (categoryPost) {
+      featuredPosts.push(categoryPost);
+    }
+  });
+  
+  // Fill remaining slots if less than 6
+  if (featuredPosts.length < 6) {
+    const remainingPosts = allPosts
+      .filter(post => !featuredPosts.includes(post))
+      .slice(0, 6 - featuredPosts.length);
+    featuredPosts.push(...remainingPosts);
+  }
   return (
     <div className="pt-20"> {/* Padding for fixed header */}
       
@@ -214,7 +237,7 @@ export default function Home() {
               <span className="text-2xl">📚</span>
               <span className="text-sm font-semibold text-blue-700">Latest Articles</span>
             </div>
-            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
               Featured Korea Guides
             </h2>
             <p className="text-xl text-gray-600">
@@ -223,7 +246,7 @@ export default function Home() {
           </div>
 
           {/* Blog Posts Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 mb-12">
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
             {featuredPosts.map((post) => (
               <Link
                 key={post.slug}
@@ -301,7 +324,7 @@ export default function Home() {
                 group
               "
             >
-              <span>View All 123 Articles</span>
+              <span>View All Articles</span>
               <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
               </svg>
