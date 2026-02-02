@@ -30,6 +30,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/korean-name',
     '/tools/korea-job-quiz',
     '/tools/korean-age',
+    '/tools/trip-budget',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
