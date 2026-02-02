@@ -476,6 +476,22 @@ export default function TripBudgetCalculator() {
           </div>
         )}
 
+        {/* Other Tools CTA */}
+        <div className="bg-gradient-to-r from-purple-100 to-pink-100 rounded-2xl p-8 text-center border-2 border-purple-200 mt-8">
+          <h3 className="text-2xl font-bold text-gray-900 mb-4">
+            Try More Interactive Tools!
+          </h3>
+          <p className="text-gray-700 mb-6">
+            Discover more about your Korean identity
+          </p>
+          <Link
+            href="/tools"
+            className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+          >
+            Explore All Tools
+          </Link>
+        </div>
+
         {/* Info Section */}
         <div className="mt-12 bg-white rounded-2xl shadow-xl p-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">About This Calculator</h2>
