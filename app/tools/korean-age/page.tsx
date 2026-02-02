@@ -411,7 +411,7 @@ export default function KoreanAgePage() {
                   onClick={handleReset}
                   className="w-full bg-gray-100 text-gray-700 font-semibold py-3 px-6 rounded-lg hover:bg-gray-200 transition-colors"
                 >
-                  🔄 Calculate Another Age
+                  🔄 Try Again
                 </button>
               </div>
             </div>

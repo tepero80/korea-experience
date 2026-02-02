@@ -249,7 +249,7 @@ export default function KoreanCityQuizPage() {
               onClick={handleReset}
               className="w-full bg-gray-100 text-gray-700 font-semibold py-3 px-6 rounded-lg hover:bg-gray-200 transition-colors"
             >
-              🔄 Take Quiz Again
+              🔄 Try Again
             </button>
           </div>
 
@@ -344,7 +344,7 @@ export default function KoreanCityQuizPage() {
               onClick={handleReset}
               className="px-6 py-3 rounded-xl bg-gray-600 text-white font-semibold hover:bg-gray-700 transition-all"
             >
-              Reset Quiz
+              🔄 Try Again
             </button>
           </div>
         </div>

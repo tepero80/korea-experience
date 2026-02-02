@@ -363,7 +363,7 @@ export default function KDramaCharacterQuiz() {
               onClick={handleRestart}
               className="w-full max-w-md bg-gray-100 text-gray-700 font-semibold py-3 px-6 rounded-lg hover:bg-gray-200 transition-colors"
             >
-              🔄 Take Quiz Again
+              🔄 Try Again
             </button>
           </div>
 

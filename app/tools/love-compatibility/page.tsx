@@ -519,7 +519,7 @@ export default function LoveCompatibilityPage() {
             onClick={handleReset}
             className="w-full bg-gray-100 text-gray-700 font-semibold py-3 px-6 rounded-lg hover:bg-gray-200 transition-colors"
           >
-            💫 Try Another Couple
+            � Try Again
           </button>
 
           {/* Other Tools CTA */}

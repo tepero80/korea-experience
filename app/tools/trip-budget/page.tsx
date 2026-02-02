@@ -301,7 +301,7 @@ export default function TripBudgetCalculator() {
                 onClick={handleReset}
                 className="px-6 py-4 border-2 border-gray-300 text-gray-700 font-semibold rounded-xl hover:bg-gray-50 transition-all"
               >
-                Reset
+                🔄 Try Again
               </button>
             )}
           </div>
