@@ -15,11 +15,12 @@ export default function ToolsPage() {
     ? ALL_TOOLS 
     : ALL_TOOLS.filter(tool => tool.category === selectedCategory);
 
-  // Group tools by priority (Week 1, Week 2, etc.)
-  const week1Tools = filteredTools.filter(t => t.id >= 1 && t.id <= 5);
-  const week2Tools = filteredTools.filter(t => t.id >= 6 && t.id <= 10);
-  const week3Tools = filteredTools.filter(t => t.id >= 11 && t.id <= 15);
-  const laterTools = filteredTools.filter(t => t.id >= 16 && t.id <= 20);
+  // Group tools by category
+  const discoverTools = filteredTools.filter(t => t.category === 'Discover Yourself');
+  const loveTools = filteredTools.filter(t => t.category === 'Love & Relationships');
+  const funTools = filteredTools.filter(t => t.category === 'Fun & Entertainment');
+  const tripTools = filteredTools.filter(t => t.category === 'Plan Your Korea Trip');
+  const lifeTools = filteredTools.filter(t => t.category === 'Life in Korea');
 
   return (
     <div className="pt-20 min-h-screen bg-gradient-to-b from-purple-50 via-white to-pink-50">
@@ -73,24 +74,21 @@ export default function ToolsPage() {
         </div>
       </section>
 
-      {/* Tools Grid - Week 1 Priority */}
-      {week1Tools.length > 0 && (
+      {/* Discover Yourself */}
+      {discoverTools.length > 0 && (
         <section className="py-12">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="mb-8">
               <div className="flex items-center gap-3 mb-2">
-                <span className="text-3xl">⭐</span>
+                <span className="text-3xl">🎯</span>
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
-                  Top Priority Tools
+                  Discover Yourself
                 </h2>
-                <span className="bg-purple-100 text-purple-700 text-xs font-semibold px-3 py-1 rounded-full">
-                  Week 1
-                </span>
               </div>
-              <p className="text-gray-600">Highest viral potential - Coming very soon!</p>
+              <p className="text-gray-600">Find out more about your Korean identity and personality</p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {week1Tools.map((tool) => (
+              {discoverTools.map((tool) => (
                 <ToolCard key={tool.id} tool={tool} priority="high" />
               ))}
             </div>
@@ -98,24 +96,21 @@ export default function ToolsPage() {
         </section>
       )}
 
-      {/* Tools Grid - Week 2 Priority */}
-      {week2Tools.length > 0 && (
-        <section className="py-12 bg-purple-50/30">
+      {/* Love & Relationships */}
+      {loveTools.length > 0 && (
+        <section className="py-12 bg-pink-50/30">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="mb-8">
               <div className="flex items-center gap-3 mb-2">
-                <span className="text-3xl">💎</span>
+                <span className="text-3xl">💕</span>
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
-                  High Priority Tools
+                  Love & Relationships
                 </h2>
-                <span className="bg-pink-100 text-pink-700 text-xs font-semibold px-3 py-1 rounded-full">
-                  Week 2
-                </span>
               </div>
-              <p className="text-gray-600">Strong engagement expected</p>
+              <p className="text-gray-600">Explore Korean romance and relationship compatibility</p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {week2Tools.map((tool) => (
+              {loveTools.map((tool) => (
                 <ToolCard key={tool.id} tool={tool} priority="medium" />
               ))}
             </div>
@@ -123,24 +118,21 @@ export default function ToolsPage() {
         </section>
       )}
 
-      {/* Tools Grid - Week 3-4 Priority */}
-      {week3Tools.length > 0 && (
+      {/* Fun & Entertainment */}
+      {funTools.length > 0 && (
         <section className="py-12">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="mb-8">
               <div className="flex items-center gap-3 mb-2">
-                <span className="text-3xl">🎨</span>
+                <span className="text-3xl">🎮</span>
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
-                  Medium Priority Tools
+                  Fun & Entertainment
                 </h2>
-                <span className="bg-blue-100 text-blue-700 text-xs font-semibold px-3 py-1 rounded-full">
-                  Week 3-4
-                </span>
               </div>
-              <p className="text-gray-600">Building out the collection</p>
+              <p className="text-gray-600">Games, quizzes, and creative generators for fun</p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {week3Tools.map((tool) => (
+              {funTools.map((tool) => (
                 <ToolCard key={tool.id} tool={tool} priority="normal" />
               ))}
             </div>
@@ -148,24 +140,43 @@ export default function ToolsPage() {
         </section>
       )}
 
-      {/* Tools Grid - Later Priority */}
-      {laterTools.length > 0 && (
-        <section className="py-12 bg-gradient-to-b from-gray-50 to-white">
+      {/* Plan Your Korea Trip */}
+      {tripTools.length > 0 && (
+        <section className="py-12 bg-blue-50/30">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="mb-8">
               <div className="flex items-center gap-3 mb-2">
-                <span className="text-3xl">✨</span>
+                <span className="text-3xl">✈️</span>
                 <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
-                  Expansion Tools
+                  Plan Your Korea Trip
                 </h2>
-                <span className="bg-gray-100 text-gray-700 text-xs font-semibold px-3 py-1 rounded-full">
-                  Month 2+
-                </span>
               </div>
-              <p className="text-gray-600">More tools for diverse interests</p>
+              <p className="text-gray-600">Essential calculators for planning your perfect Korean adventure</p>
             </div>
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-              {laterTools.map((tool) => (
+              {tripTools.map((tool) => (
+                <ToolCard key={tool.id} tool={tool} priority="normal" />
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
+
+      {/* Life in Korea */}
+      {lifeTools.length > 0 && (
+        <section className="py-12">
+          <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+            <div className="mb-8">
+              <div className="flex items-center gap-3 mb-2">
+                <span className="text-3xl">🏢</span>
+                <h2 className="text-2xl md:text-3xl font-bold text-gray-900">
+                  Life in Korea
+                </h2>
+              </div>
+              <p className="text-gray-600">Practical tools for living and working in Korea</p>
+            </div>
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {lifeTools.map((tool) => (
                 <ToolCard key={tool.id} tool={tool} priority="low" />
               ))}
             </div>

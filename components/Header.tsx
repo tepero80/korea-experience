@@ -167,26 +167,6 @@ export default function Header() {
             ))}
           </ul>
 
-          {/* CTA Button - Desktop */}
-          <div className="hidden md:flex items-center gap-4">
-            <Link 
-              href="/contact"
-              className="
-                bg-gradient-to-r from-blue-600 to-cyan-500
-                text-white px-6 py-2.5 rounded-lg font-semibold
-                hover:shadow-lg hover:scale-105
-                transition-all duration-200
-                relative overflow-hidden group
-              "
-            >
-              <span className="relative z-10">Get Started</span>
-              <div className="
-                absolute inset-0 bg-gradient-to-r from-cyan-500 to-blue-600
-                opacity-0 group-hover:opacity-100 transition-opacity duration-300
-              " />
-            </Link>
-          </div>
-
           {/* Mobile Menu Button */}
           <button
             onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
@@ -293,18 +273,6 @@ export default function Header() {
                 )}
               </div>
             ))}
-            <Link
-              href="/contact"
-              onClick={() => setIsMobileMenuOpen(false)}
-              className="
-                block mx-4 mt-4 text-center
-                bg-gradient-to-r from-blue-600 to-cyan-500
-                text-white px-6 py-3 rounded-lg font-semibold
-                hover:shadow-lg transition-all duration-200
-              "
-            >
-              Get Started
-            </Link>
           </div>
         </div>
       </nav>
