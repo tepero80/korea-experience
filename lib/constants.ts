@@ -47,6 +47,7 @@ export const NAV_LINKS = [
         tools: [
           { href: '/tools/love-compatibility', label: 'Korean Love Compatibility', status: 'active' },
           { href: '/tools/ideal-korean-partner', label: 'Your Ideal Korean Partner Type', status: 'active' },
+          { href: '/tools/kdrama-romance-trope', label: 'Your K-Drama Romance Trope', status: 'active' },
         ]
       },
       {
@@ -94,7 +95,7 @@ export const ALL_TOOLS = [
   { id: 6, href: '/tools/love-compatibility', title: 'Korean Love Compatibility', category: 'Love & Relationships', difficulty: '⭐⭐', viral: 92, description: 'Check your love compatibility', icon: '💕', status: 'active' },
   { id: 7, href: '/tools/ideal-korean-partner', title: 'Your Ideal Korean Partner Type', category: 'Love & Relationships', difficulty: '⭐⭐', viral: 87, description: 'Discover your ideal Korean partner', icon: '💑', status: 'active' },
   { id: 8, href: '/tools/couple-name', title: 'Korean Couple Name Combiner', category: 'Love & Relationships', difficulty: '⭐', viral: 80, description: 'Create cute couple nicknames', icon: '👫', status: 'coming' },
-  { id: 9, href: '/tools/kdrama-romance-trope', title: 'Your K-Drama Romance Trope', category: 'Love & Relationships', difficulty: '⭐⭐', viral: 85, description: 'Find your romance story type', icon: '💖', status: 'coming' },
+  { id: 9, href: '/tools/kdrama-romance-trope', title: 'Your K-Drama Romance Trope', category: 'Love & Relationships', difficulty: '⭐⭐', viral: 85, description: 'Find your romance story type', icon: '💖', status: 'active' },
   
   // Fun & Entertainment
   { id: 10, href: '/tools/kpop-stage-name', title: 'K-Pop Stage Name Generator', category: 'Fun & Entertainment', difficulty: '⭐⭐', viral: 88, description: 'Create your K-Pop idol name', icon: '🎤', status: 'active' },
