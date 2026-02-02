@@ -283,7 +283,7 @@ export default function Home() {
 
                 {/* Content */}
                 <div className="p-6">
-                  <h3 className="text-lg font-bold text-gray-900 mb-3 line-clamp-2 group-hover:text-blue-600 transition-colors leading-snug">
+                  <h3 className="text-base font-bold text-gray-900 mb-3 line-clamp-2 group-hover:text-blue-600 transition-colors leading-snug">
                     {post.title}
                   </h3>
                   
