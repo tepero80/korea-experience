@@ -60,7 +60,7 @@ export const NAV_LINKS = [
         category: 'Generators',
         icon: '🎨',
         tools: [
-          { href: '/tools/kpop-stage-name', label: 'K-Pop Stage Name Generator', status: 'coming' },
+          { href: '/tools/kpop-stage-name', label: 'K-Pop Stage Name Generator', status: 'active' },
           { href: '/tools/business-name', label: 'Korean Business Name Generator', status: 'coming' },
         ]
       }
@@ -81,7 +81,7 @@ export const ALL_TOOLS = [
   { id: 5, href: '/tools/korean-city-quiz', title: 'Which Korean City Should You Live In?', category: 'Quiz', difficulty: '⭐⭐', viral: 85, description: 'Find your perfect Korean city match', icon: '🏙️', status: 'active' },
   
   // Week 2 Priority
-  { id: 6, href: '/tools/kpop-stage-name', title: 'K-Pop Stage Name Generator', category: 'Generator', difficulty: '⭐⭐', viral: 88, description: 'Create your K-Pop idol name', icon: '🎤', status: 'coming' },
+  { id: 6, href: '/tools/kpop-stage-name', title: 'K-Pop Stage Name Generator', category: 'Generator', difficulty: '⭐⭐', viral: 88, description: 'Create your K-Pop idol name', icon: '🎤', status: 'active' },
   { id: 7, href: '/tools/love-compatibility', title: 'Korean Love Compatibility', category: 'Love', difficulty: '⭐⭐', viral: 92, description: 'Check your love compatibility', icon: '💕', status: 'coming' },
   { id: 8, href: '/tools/kdrama-character-quiz', title: 'Which K-Drama Character Are You?', category: 'Quiz', difficulty: '⭐⭐', viral: 90, description: 'Find your K-Drama character match', icon: '📺', status: 'coming' },
   { id: 9, href: '/tools/ideal-korean-partner', title: 'Your Ideal Korean Partner Type', category: 'Love', difficulty: '⭐⭐', viral: 87, description: 'Discover your ideal Korean partner', icon: '💑', status: 'coming' },
