@@ -45,7 +45,7 @@ export const NAV_LINKS = [
         tools: [
           { href: '/tools/korean-age', label: 'Korean Age Calculator', status: 'active' },
           { href: '/tools/trip-budget', label: 'Korea Trip Budget Calculator', status: 'active' },
-          { href: '/tools/medical-cost-estimator', label: 'Medical Tourism Cost Estimator', status: 'coming' },
+          { href: '/tools/medical-cost-estimator', label: 'Medical Tourism Cost Estimator', status: 'active' },
         ]
       },
       {
@@ -92,7 +92,7 @@ export const ALL_TOOLS = [
   { id: 7, href: '/tools/love-compatibility', title: 'Korean Love Compatibility', category: 'Love', difficulty: '⭐⭐', viral: 92, description: 'Check your love compatibility', icon: '💕', status: 'active' },
   { id: 8, href: '/tools/kdrama-character', title: 'Which K-Drama Character Are You?', category: 'Quiz', difficulty: '⭐⭐', viral: 90, description: 'Find your K-Drama character match', icon: '🎭', status: 'active' },
   { id: 9, href: '/tools/ideal-korean-partner', title: 'Your Ideal Korean Partner Type', category: 'Love', difficulty: '⭐⭐', viral: 87, description: 'Discover your ideal Korean partner', icon: '💑', status: 'active' },
-  { id: 10, href: '/tools/medical-cost-estimator', title: 'Medical Tourism Cost Estimator', category: 'Calculator', difficulty: '⭐⭐⭐', viral: 70, description: 'Estimate medical procedure costs', icon: '🏥', status: 'coming' },
+  { id: 10, href: '/tools/medical-cost-estimator', title: 'Medical Tourism Cost Estimator', category: 'Calculator', difficulty: '⭐⭐⭐', viral: 70, description: 'Estimate medical procedure costs', icon: '🏥', status: 'active' },
   
   // Week 3-4 Priority
   { id: 11, href: '/tools/korean-food-quiz', title: 'What Korean Food Matches You?', category: 'Quiz', difficulty: '⭐⭐', viral: 82, description: 'Find your Korean food soulmate', icon: '🍜', status: 'coming' },
