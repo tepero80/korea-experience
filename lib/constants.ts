@@ -62,6 +62,7 @@ export const NAV_LINKS = [
         icon: '🎭',
         tools: [
           { href: '/tools/kdrama-character', label: 'Which K-Drama Character Are You?', status: 'active' },
+          { href: '/tools/korean-typing-test', label: 'Korean Typing Speed Test', status: 'active' },
         ]
       },
       {
@@ -98,7 +99,7 @@ export const ALL_TOOLS = [
   // Week 3-4 Priority
   { id: 11, href: '/tools/korean-food-quiz', title: 'What Korean Food Matches You?', category: 'Quiz', difficulty: '⭐⭐', viral: 82, description: 'Find your Korean food soulmate', icon: '🍜', status: 'active' },
   { id: 12, href: '/tools/business-name', title: 'Korean Business Name Generator', category: 'Generator', difficulty: '⭐⭐', viral: 65, description: 'Create the perfect business name', icon: '🏢', status: 'active' },
-  { id: 13, href: '/tools/korean-typing-test', title: 'Korean Typing Speed Test', category: 'Game', difficulty: '⭐⭐⭐', viral: 75, description: 'Test your Korean typing skills', icon: '⌨️', status: 'coming' },
+  { id: 13, href: '/tools/korean-typing-test', title: 'Korean Typing Speed Test', category: 'Game', difficulty: '⭐⭐⭐', viral: 75, description: 'Test your Korean typing skills', icon: '⌨️', status: 'active' },
   { id: 14, href: '/tools/korean-zodiac-fortune', title: 'Korean Zodiac Fortune Today', category: 'Fun', difficulty: '⭐⭐', viral: 80, description: 'Check your daily fortune', icon: '🔮', status: 'coming' },
   { id: 15, href: '/tools/kdrama-romance-trope', title: 'Your K-Drama Romance Trope', category: 'Quiz', difficulty: '⭐⭐', viral: 85, description: 'Find your romance story type', icon: '💖', status: 'coming' },
   
