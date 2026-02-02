@@ -48,6 +48,7 @@ export const NAV_LINKS = [
           { href: '/tools/love-compatibility', label: 'Korean Love Compatibility', status: 'active' },
           { href: '/tools/ideal-korean-partner', label: 'Your Ideal Korean Partner Type', status: 'active' },
           { href: '/tools/kdrama-romance-trope', label: 'Your K-Drama Romance Trope', status: 'active' },
+          { href: '/tools/couple-name', label: 'Korean Couple Name Combiner', status: 'active' },
         ]
       },
       {
@@ -57,6 +58,8 @@ export const NAV_LINKS = [
           { href: '/tools/kpop-stage-name', label: 'K-Pop Stage Name Generator', status: 'active' },
           { href: '/tools/korean-typing-test', label: 'Korean Typing Speed Test', status: 'active' },
           { href: '/tools/korean-zodiac-fortune', label: 'Korean Zodiac Fortune Today', status: 'active' },
+          { href: '/tools/emoji-name', label: 'Your Korean Emoji Name', status: 'active' },
+          { href: '/tools/guess-korean-food', label: 'Guess the Korean Food Photo', status: 'active' },
         ]
       },
       {
@@ -73,6 +76,8 @@ export const NAV_LINKS = [
         icon: '🏢',
         tools: [
           { href: '/tools/business-name', label: 'Korean Business Name Generator', status: 'active' },
+          { href: '/tools/military-service', label: 'Korean Military Service Calculator', status: 'active' },
+          { href: '/tools/korean-beauty-quiz', label: 'Korean Beauty Routine Quiz', status: 'active' },
         ]
       }
     ]
@@ -94,15 +99,15 @@ export const ALL_TOOLS = [
   // Love & Relationships
   { id: 6, href: '/tools/love-compatibility', title: 'Korean Love Compatibility', category: 'Love & Relationships', difficulty: '⭐⭐', viral: 92, description: 'Check your love compatibility', icon: '💕', status: 'active' },
   { id: 7, href: '/tools/ideal-korean-partner', title: 'Your Ideal Korean Partner Type', category: 'Love & Relationships', difficulty: '⭐⭐', viral: 87, description: 'Discover your ideal Korean partner', icon: '💑', status: 'active' },
-  { id: 8, href: '/tools/couple-name', title: 'Korean Couple Name Combiner', category: 'Love & Relationships', difficulty: '⭐', viral: 80, description: 'Create cute couple nicknames', icon: '👫', status: 'coming' },
+  { id: 8, href: '/tools/couple-name', title: 'Korean Couple Name Combiner', category: 'Love & Relationships', difficulty: '⭐', viral: 80, description: 'Create cute couple nicknames', icon: '👫', status: 'active' },
   { id: 9, href: '/tools/kdrama-romance-trope', title: 'Your K-Drama Romance Trope', category: 'Love & Relationships', difficulty: '⭐⭐', viral: 85, description: 'Find your romance story type', icon: '💖', status: 'active' },
   
   // Fun & Entertainment
   { id: 10, href: '/tools/kpop-stage-name', title: 'K-Pop Stage Name Generator', category: 'Fun & Entertainment', difficulty: '⭐⭐', viral: 88, description: 'Create your K-Pop idol name', icon: '🎤', status: 'active' },
   { id: 11, href: '/tools/korean-typing-test', title: 'Korean Typing Speed Test', category: 'Fun & Entertainment', difficulty: '⭐⭐⭐', viral: 75, description: 'Test your Korean typing skills', icon: '⌨️', status: 'active' },
   { id: 12, href: '/tools/korean-zodiac-fortune', title: 'Korean Zodiac Fortune Today', category: 'Fun & Entertainment', difficulty: '⭐⭐', viral: 80, description: 'Check your daily fortune', icon: '🔮', status: 'active' },
-  { id: 13, href: '/tools/guess-korean-food', title: 'Guess the Korean Food Photo', category: 'Fun & Entertainment', difficulty: '⭐⭐⭐⭐', viral: 72, description: 'Test your Korean food knowledge', icon: '🎮', status: 'coming' },
-  { id: 14, href: '/tools/emoji-name', title: 'Your Korean Emoji Name', category: 'Fun & Entertainment', difficulty: '⭐', viral: 85, description: 'Transform your name into emojis', icon: '✨', status: 'coming' },
+  { id: 13, href: '/tools/guess-korean-food', title: 'Guess the Korean Food Photo', category: 'Fun & Entertainment', difficulty: '⭐⭐⭐⭐', viral: 72, description: 'Test your Korean food knowledge', icon: '🎮', status: 'active' },
+  { id: 14, href: '/tools/emoji-name', title: 'Your Korean Emoji Name', category: 'Fun & Entertainment', difficulty: '⭐', viral: 85, description: 'Transform your name into emojis', icon: '✨', status: 'active' },
   
   // Plan Your Korea Trip
   { id: 15, href: '/tools/korean-age', title: 'Korean Age Calculator', category: 'Plan Your Korea Trip', difficulty: '⭐', viral: 85, description: 'Find out your age in Korean years', icon: '🎂', status: 'active' },
@@ -111,8 +116,8 @@ export const ALL_TOOLS = [
   
   // Life in Korea
   { id: 18, href: '/tools/business-name', title: 'Korean Business Name Generator', category: 'Life in Korea', difficulty: '⭐⭐', viral: 65, description: 'Create the perfect business name', icon: '🏢', status: 'active' },
-  { id: 19, href: '/tools/korean-beauty-quiz', title: 'Korean Beauty Routine Quiz', category: 'Life in Korea', difficulty: '⭐⭐', viral: 78, description: 'Get personalized K-Beauty routine', icon: '💄', status: 'coming' },
-  { id: 20, href: '/tools/military-service', title: 'Korean Military Service Calculator', category: 'Life in Korea', difficulty: '⭐⭐', viral: 60, description: 'Calculate military service dates', icon: '🪖', status: 'coming' },
+  { id: 19, href: '/tools/korean-beauty-quiz', title: 'Korean Beauty Routine Quiz', category: 'Life in Korea', difficulty: '⭐⭐', viral: 78, description: 'Get personalized K-Beauty routine', icon: '💄', status: 'active' },
+  { id: 20, href: '/tools/military-service', title: 'Korean Military Service Calculator', category: 'Life in Korea', difficulty: '⭐⭐', viral: 60, description: 'Calculate military service dates', icon: '🪖', status: 'active' },
 ];
 
 // Footer Links
