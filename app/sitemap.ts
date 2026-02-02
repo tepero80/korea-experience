@@ -34,6 +34,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/korean-city-quiz',
     '/tools/kpop-stage-name',
     '/tools/love-compatibility',
+    '/tools/kdrama-character',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
