@@ -31,6 +31,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools/korea-job-quiz',
     '/tools/korean-age',
     '/tools/trip-budget',
+    '/tools/korean-city-quiz',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date(),
