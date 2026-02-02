@@ -283,9 +283,9 @@ export default function Home() {
 
                 {/* Content */}
                 <div className="p-6">
-                  <h3 className="text-base font-bold text-gray-900 mb-3 line-clamp-2 group-hover:text-blue-600 transition-colors leading-snug">
+                  <div className="text-base font-semibold text-gray-900 mb-3 line-clamp-2 group-hover:text-blue-600 transition-colors leading-snug">
                     {post.title}
-                  </h3>
+                  </div>
                   
                   <p className="text-sm text-gray-600 mb-4 line-clamp-2 leading-relaxed">
                     {post.excerpt}
