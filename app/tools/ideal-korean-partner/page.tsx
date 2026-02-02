@@ -40,6 +40,84 @@ export default function IdealKoreanPartnerQuiz() {
     setShowQuiz(true);
   };
 
+  const handleDownloadImage = () => {
+    if (!result) return;
+
+    const canvas = document.createElement('canvas');
+    canvas.width = 800;
+    canvas.height = 500;
+    const ctx = canvas.getContext('2d');
+    if (!ctx) return;
+
+    // Background gradient
+    const gradient = ctx.createLinearGradient(0, 0, 800, 500);
+    gradient.addColorStop(0, '#9333ea'); // purple-600
+    gradient.addColorStop(0.5, '#ec4899'); // pink-600
+    gradient.addColorStop(1, '#9333ea'); // purple-600
+    ctx.fillStyle = gradient;
+    ctx.fillRect(0, 0, 800, 500);
+
+    // Main content background
+    ctx.fillStyle = 'rgba(255, 255, 255, 0.95)';
+    ctx.roundRect(40, 40, 720, 420, 20);
+    ctx.fill();
+
+    // Emoji
+    ctx.font = 'bold 80px Arial';
+    ctx.textAlign = 'center';
+    ctx.fillText(result.emoji, 400, 140);
+
+    // Partner type name
+    ctx.font = 'bold 36px Arial';
+    ctx.fillStyle = '#111827';
+    ctx.fillText(result.name, 400, 200);
+
+    // Korean name
+    ctx.font = '24px Arial';
+    ctx.fillStyle = '#9333ea';
+    ctx.fillText(result.nameKo, 400, 235);
+
+    // Description (wrapped)
+    ctx.font = '18px Arial';
+    ctx.fillStyle = '#374151';
+    const maxWidth = 680;
+    const lineHeight = 26;
+    const words = result.description.split(' ');
+    let line = '';
+    let y = 280;
+
+    for (let i = 0; i < words.length; i++) {
+      const testLine = line + words[i] + ' ';
+      const metrics = ctx.measureText(testLine);
+      if (metrics.width > maxWidth && i > 0) {
+        ctx.fillText(line, 400, y);
+        line = words[i] + ' ';
+        y += lineHeight;
+        if (y > 400) break; // Max 5 lines
+      } else {
+        line = testLine;
+      }
+    }
+    ctx.fillText(line, 400, y);
+
+    // Website URL
+    ctx.font = 'bold 16px Arial';
+    ctx.fillStyle = '#9333ea';
+    ctx.fillText('koreaexperience.com/tools/ideal-korean-partner', 400, 450);
+
+    // Download
+    canvas.toBlob((blob) => {
+      if (blob) {
+        const url = URL.createObjectURL(blob);
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = `my-ideal-korean-partner-${result.id}.png`;
+        a.click();
+        URL.revokeObjectURL(url);
+      }
+    });
+  };
+
   const shareText = result 
     ? `I just discovered my ideal Korean partner type: ${result.name} ${result.emoji}\n\nFind yours at Korea Experience! 💕`
     : '';
@@ -186,7 +264,7 @@ export default function IdealKoreanPartnerQuiz() {
                   </button>
 
                   <button
-                    onClick={() => alert('Screenshot and share your result! 📸')}
+                    onClick={handleDownloadImage}
                     className="w-full bg-white text-purple-600 font-semibold py-3 px-6 rounded-lg border-2 border-purple-600 hover:bg-purple-50 transition-colors flex items-center justify-center gap-2"
                   >
                     <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
