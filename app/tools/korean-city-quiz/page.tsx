@@ -64,9 +64,12 @@ export default function KoreanCityQuizPage() {
           <div className="text-center mb-8">
             <Link
               href="/tools"
-              className="inline-block text-white/90 hover:text-white mb-6 transition-colors"
+              className="inline-flex items-center gap-2 text-white/90 hover:text-white mb-6 transition-colors"
             >
-              ← Back to Tools
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+              </svg>
+              Back to Tools
             </Link>
             <div className="text-6xl mb-4">🏙️</div>
             <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
@@ -210,9 +213,12 @@ export default function KoreanCityQuizPage() {
         <div className="text-center mb-8">
           <Link
             href="/tools"
-            className="inline-block text-white/90 hover:text-white mb-6 transition-colors"
+            className="inline-flex items-center gap-2 text-white/90 hover:text-white mb-6 transition-colors"
           >
-            ← Back to Tools
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+            </svg>
+            Back to Tools
           </Link>
           <div className="text-6xl mb-4">🏙️</div>
           <h1 className="text-4xl md:text-5xl font-bold text-white mb-4">
