@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>OG Image Generator</title>
+</head>
+<body>
+    <canvas id="canvas" width="1200" height="630"></canvas>
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+
+        // Purple gradient background
+        const gradient = ctx.createLinearGradient(0, 0, 1200, 630);
+        gradient.addColorStop(0, '#9333ea');
+        gradient.addColorStop(0.5, '#db2777');
+        gradient.addColorStop(1, '#9333ea');
+        ctx.fillStyle = gradient;
+        ctx.fillRect(0, 0, 1200, 630);
+
+        // Title
+        ctx.fillStyle = 'white';
+        ctx.font = 'bold 80px Arial, sans-serif';
+        ctx.textAlign = 'center';
+        ctx.fillText('Korea Experience', 600, 220);
+
+        // Subtitle
+        ctx.font = '36px Arial, sans-serif';
+        ctx.fillStyle = 'rgba(255,255,255,0.9)';
+        ctx.fillText('Your Gateway to Korea', 600, 300);
+
+        // Icons - using text emojis
+        ctx.font = '60px Arial';
+        ctx.fillText('🏥', 240, 450);
+        ctx.fillText('✈️', 420, 450);
+        ctx.fillText('🎭', 600, 450);
+        ctx.fillText('🏠', 780, 450);
+        ctx.fillText('🍜', 960, 450);
+
+        // Labels
+        ctx.font = '20px Arial, sans-serif';
+        ctx.fillStyle = 'white';
+        ctx.fillText('Medical', 240, 520);
+        ctx.fillText('Travel', 420, 520);
+        ctx.fillText('Culture', 600, 520);
+        ctx.fillText('Living', 780, 520);
+        ctx.fillText('Food', 960, 520);
+
+        // Website
+        ctx.font = '24px Arial, sans-serif';
+        ctx.fillStyle = 'rgba(255,255,255,0.8)';
+        ctx.fillText('koreaexperience.com', 600, 590);
+
+        // Download as PNG
+        setTimeout(() => {
+            canvas.toBlob((blob) => {
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement('a');
+                a.href = url;
+                a.download = 'og-image.png';
+                a.click();
+                URL.revokeObjectURL(url);
+                document.body.innerHTML += '<p style="margin-top: 20px; font-family: Arial;">✅ og-image.png downloaded! Copy it to /public/ folder.</p>';
+            }, 'image/png');
+        }, 100);
+    </script>
+</body>
+</html>
