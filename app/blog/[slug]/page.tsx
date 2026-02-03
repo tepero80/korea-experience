@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getPostBySlug, getAllPosts, getRelatedPosts } from '@/lib/posts';
-import { generateArticleSchema } from '@/lib/schema';
+import { generateArticleSchema, generateBreadcrumbSchema } from '@/lib/schema';
 import { SITE_CONFIG } from '@/lib/constants';
 import MDXContent from '@/components/MDXContent';
 import AuthorBox from '@/components/AuthorBox';
@@ -84,15 +84,26 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     url: `${SITE_CONFIG.url}/blog/${slug}`,
   });
 
+  // Generate Breadcrumb Schema
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Blog', item: `${SITE_CONFIG.url}/blog` },
+    { name: post.title, item: `${SITE_CONFIG.url}/blog/${slug}` },
+  ]);
+
   // Get related posts (same category, 3 posts)
   const relatedPosts = getRelatedPosts(slug, post.category, 3);
 
   return (
     <main className="pt-20 pb-12">
-      {/* JSON-LD Schema */}
+      {/* JSON-LD Schemas */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       
       <article className="max-w-4xl mx-auto px-6">
