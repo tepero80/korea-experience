@@ -1,6 +1,6 @@
 import { MetadataRoute } from 'next';
 import { getAllPosts } from '@/lib/posts';
-import { SITE_CONFIG } from '@/lib/constants';
+import { SITE_CONFIG, ALL_TOOLS } from '@/lib/constants';
 
 export const dynamic = 'force-static';
 
@@ -25,22 +25,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: route === '' ? 1 : 0.8,
   }));
 
-  // Interactive Tools
-  const toolPages = [
-    '/tools/korean-name',
-    '/tools/korea-job-quiz',
-    '/tools/korean-age',
-    '/tools/trip-budget',
-    '/tools/korean-city-quiz',
-    '/tools/kpop-stage-name',
-    '/tools/love-compatibility',
-    '/tools/kdrama-character',
-  ].map((route) => ({
-    url: `${baseUrl}${route}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: 0.7,
-  }));
+  // Interactive Tools - 동적 생성 (22개 모든 툴 포함)
+  const toolPages = ALL_TOOLS
+    .filter(tool => tool.status === 'active')
+    .map((tool) => ({
+      url: `${baseUrl}${tool.href}`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    }));
 
   // Blog posts
   const blogPosts = posts.map((post) => ({
