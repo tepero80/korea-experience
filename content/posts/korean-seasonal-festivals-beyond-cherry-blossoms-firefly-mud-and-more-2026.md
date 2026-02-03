@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Seasonal Festivals 2026 Beyond Cherry Blossoms"
-date: 2026-02-02
+date: 2026-01-19
 excerpt: "Discover Korea's vibrant 2026 seasonal festivals! Dive into firefly light shows, mud wrestling, ice fishing, and more unique cultural experiences beyond spring blooms."
 category: Travel & Tourism
 author: Korea Experience Team

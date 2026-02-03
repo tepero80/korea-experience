@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul 3-Day Itinerary Perfect First-Time Visitor Guide 2026"
-date: 2026-02-02
+date: 2026-01-28
 excerpt: "Discover the ultimate Seoul 3-day itinerary for first-time visitors in 2026. Explore palaces, markets, food, and culture with our expert guide!"
 category: Travel & Tourism
 author: Korea Experience Team

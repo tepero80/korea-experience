@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Banking Apps: Best UI for Foreigners 2026"
-date: 2026-02-02
+date: 2026-01-13
 excerpt: "Navigating Korean banking apps as a foreigner can be tricky. Discover the top apps with the best user interfaces for expats in 2026, offering ease and efficiency."
 category: Living in Korea
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Personal Color Analysis in Seoul: Worth $150 in 2026?"
-date: 2026-02-02
+date: 2026-01-26
 excerpt: "Wondering if a $150 Personal Color Analysis in Seoul is a worthwhile investment for K-Beauty and fashion lovers? We dive deep into the experience, cost, and value for international visitors in 2026."
 category: Shopping & K-Beauty
 author: Korea Experience Team

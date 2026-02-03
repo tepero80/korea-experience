@@ -1,6 +1,6 @@
----
+﻿---
 title: "Busan Travel Guide: Beaches, Temples, & Street Food 2026"
-date: 2026-02-02
+date: 2026-01-04
 excerpt: "Discover Busan 2026: explore stunning beaches, serene temples, and delicious street food in South Korea's vibrant coastal city. Plan your ultimate trip."
 category: Travel & Tourism
 author: Korea Experience Team

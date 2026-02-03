@@ -1,6 +1,6 @@
----
+﻿---
 title: "Luxury Glamping Near Seoul for a Weekend Escape 2026"
-date: 2026-02-02
+date: 2026-01-23
 excerpt: "Discover the best luxury glamping sites near Seoul for an unforgettable 2026 weekend getaway. Immerse yourself in nature with premium comfort and style."
 category: Travel & Tourism
 author: Korea Experience Team

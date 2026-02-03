@@ -1,6 +1,6 @@
----
+﻿---
 title: "Understanding Uri We: Korean Collectivism 2026"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Unlock Korea's heart by understanding uri we collectivism. This guide for travelers and expats in 2026 reveals its impact on daily life, from dining to work."
 category: K-Culture
 author: Korea Experience Team

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Traditional Tea Ceremonies A Beginner Guide to Korean Darye 2026"
 date: 2026-02-02
 excerpt: "Unlock the tranquility of Korean Darye, its rich history, practical steps, and best places to experience this mindful tea ceremony on your 2026 trip."

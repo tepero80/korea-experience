@@ -1,6 +1,6 @@
----
+﻿---
 title: "K-Drama Filming Locations in Seoul 2026 Revealed"
-date: 2026-02-01
+date: 2026-01-12
 excerpt: "Discover Seoul's most iconic K-Drama filming locations in 2026. Your ultimate guide to experiencing the magic of your favorite shows."
 category: K-Culture
 author: Korea Experience Team

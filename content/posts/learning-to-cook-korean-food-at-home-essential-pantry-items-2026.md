@@ -1,6 +1,6 @@
----
+﻿---
 title: "Essential Korean Pantry Items for Home Cooking 2026"
-date: 2026-02-02
+date: 2026-01-23
 excerpt: "Unlock authentic Korean flavors in your kitchen by stocking up on essential pantry items. Our 2026 guide makes learning to cook Korean food at home easy."
 category: Living in Korea
 author: Korea Experience Team

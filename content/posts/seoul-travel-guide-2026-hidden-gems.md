@@ -1,4 +1,4 @@
----
+﻿---
 title: "Seoul Travel Guide 2026: Hidden Gems Beyond Tourist Traps"
 date: "2026-01-20"
 excerpt: "Discover authentic Seoul experiences away from crowded tourist spots. Local favorites, secret cafes, and unique activities recommended by Seoul residents."

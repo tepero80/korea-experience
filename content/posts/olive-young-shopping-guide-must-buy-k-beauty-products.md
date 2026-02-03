@@ -1,6 +1,6 @@
----
+﻿---
 title: "Olive Young Shopping Guide: Must-Buy K-Beauty"
-date: 2026-02-01
+date: 2026-01-26
 excerpt: "Unlock the best of Korean beauty with our Olive Young shopping guide. Discover essential K-beauty products and insider tips for an unforgettable haul."
 category: Shopping & K-Beauty
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Cushion Foundation Guide: Best Products 2026"
-date: 2026-02-01
+date: 2026-01-15
 excerpt: "Discover the ultimate guide to Korean cushion foundations in 2026. Learn how to choose, apply, and shop for the best K-Beauty cushions, ensuring a flawless glow."
 category: Shopping & K-Beauty
 author: Korea Experience Team

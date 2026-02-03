@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Retirement: National Pension Refunds for Foreigners 2026"
-date: 2026-02-02
+date: 2026-01-18
 excerpt: "Demystify Korea's National Pension System for expats. Learn about eligibility, application processes, and upcoming changes to National Pension Refunds in 2026."
 category: Living in Korea
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Thrifting in Seoul: Best Charity Shops and Flea Markets 2026"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Discover Seoul's top charity shops and vibrant flea markets for incredible vintage finds and sustainable shopping in 2026. Unearth unique fashion and treasures."
 category: Shopping & K-Beauty
 author: Korea Experience Team

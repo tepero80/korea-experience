@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Korean Face Masks for Dry Sensitive Skin 2026"
-date: 2026-02-02
+date: 2026-01-02
 excerpt: "Discover the top Korean face masks for dry, sensitive skin in 2026. Expert picks, ingredient insights, and shopping tips for your K-Beauty journey."
 category: Shopping & K-Beauty
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Baseball KBO Experience: Tickets & Food 2026"
-date: 2026-02-02
+date: 2026-01-14
 excerpt: "Planning your KBO Korean baseball experience for 2026? Learn how to get tickets, what delicious food to eat, and immerse yourself in Korea's vibrant stadium culture."
 category: Travel & Tourism
 author: Korea Experience Team

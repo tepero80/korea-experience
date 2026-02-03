@@ -1,6 +1,6 @@
----
+﻿---
 title: "Master Korean Cuisine: Cooking Classes in Seoul for Tourists 2026"
-date: 2026-02-01
+date: 2026-01-14
 excerpt: "Dive into Seoul's culinary heart with immersive Korean cooking classes tailored for tourists in 2026. Learn authentic recipes, cultural insights, and cooking techniques."
 category: Food & Dining
 author: Korea Experience Team

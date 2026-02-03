@@ -1,6 +1,6 @@
----
+﻿---
 title: "DIY Ring Making in Seongsu-dong 2026"
-date: 2026-02-02
+date: 2026-01-06
 excerpt: "Discover Seongsu-dong's best DIY jewelry workshops for creating custom rings in 2026. Learn about prices, locations, and insider tips for a unique experience."
 category: Shopping & K-Beauty
 author: Korea Experience Team

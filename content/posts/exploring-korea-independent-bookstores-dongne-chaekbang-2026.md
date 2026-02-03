@@ -1,6 +1,6 @@
----
+﻿---
 title: "Exploring Korea's Dongne-chaekbang Indie Bookstores 2026"
-date: 2026-02-02
+date: 2026-01-07
 excerpt: "Discover Korea's vibrant independent bookstore scene in 2026. This guide covers unique Dongne-chaekbang, essential tips, and cultural insights for travelers."
 category: K-Culture
 author: Korea Experience Team

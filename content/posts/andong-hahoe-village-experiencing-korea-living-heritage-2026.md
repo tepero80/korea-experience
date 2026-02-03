@@ -1,6 +1,6 @@
----
+﻿---
 title: "Andong Hahoe Village Experiencing Korea Living Heritage 2026"
-date: 2026-02-02
+date: 2026-01-01
 excerpt: "Discover Andong Hahoe Village in 2026, a UNESCO site embodying Korea's living heritage. Plan your immersive journey into Joseon Dynasty traditions and culture."
 category: Travel & Tourism
 author: Korea Experience Team

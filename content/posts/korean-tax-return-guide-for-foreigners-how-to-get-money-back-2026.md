@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Tax Return for Foreigners: Get Money Back 2026"
-date: 2026-02-02
+date: 2026-01-20
 excerpt: "Guide for foreigners on navigating Korea's tax return process for 2026. Learn how to claim deductions, file accurately, and maximize your refund."
 category: Living in Korea
 author: Korea Experience Team

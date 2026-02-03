@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Hair Transplant Clinics Cost & Results 2026"
-date: 2026-02-02
+date: 2026-01-16
 excerpt: "Explore the costs, top clinics, and expected results of hair transplants in Korea for 2026. Your guide to medical tourism excellence in Seoul and beyond."
 category: Medical Tourism
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Apps vs KIIP for Your Korea Visa in 2026"
-date: 2026-02-02
+date: 2026-01-23
 excerpt: "Deciding between learning Korean via apps or the KIIP program for your 2026 Korea visa? This guide compares both, offering insights for expats."
 category: Living in Korea
 author: Korea Experience Team

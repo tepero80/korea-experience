@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Wedding Traditions: Your 2026 Local Guide"
-date: 2026-02-02
+date: 2026-01-21
 excerpt: "Unlock the secrets of Korean wedding traditions in 2026. This guide offers international guests practical tips, etiquette, and what to expect."
 category: K-Culture
 author: Korea Experience Team

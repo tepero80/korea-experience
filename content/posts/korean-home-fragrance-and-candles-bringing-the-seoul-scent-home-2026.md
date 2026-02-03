@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Home Fragrance & Candles: Bring Seoul Home by 2026"
-date: 2026-02-02
+date: 2026-01-17
 excerpt: "Discover the best Korean home fragrances and candles to infuse your space with the unique scents of Seoul in 2026. Explore brands, tips, and where to buy."
 category: Shopping & K-Beauty
 author: Korea Experience Team

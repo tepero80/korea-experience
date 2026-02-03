@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Seasonal Fish Guide: What to Eat in 2026"
-date: 2026-02-02
+date: 2026-01-01
 excerpt: "Unlock Korea's seafood secrets. Discover the best seasonal fish to enjoy in spring, summer, fall, and winter 2026, where to find them, and how to savor their unique flavors."
 category: Food & Dining
 author: Korea Experience Team

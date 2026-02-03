@@ -1,6 +1,6 @@
----
+﻿---
 title: "Laneige vs Sulwhasoo: K-Beauty Skincare Comparison 2026"
-date: 2026-02-02
+date: 2026-01-22
 excerpt: "Unsure whether Laneige or Sulwhasoo is right for you? Dive deep into our 2026 comparison of these iconic Korean skincare brands, exploring prices, ingredients, and target skin concerns."
 category: Shopping & K-Beauty
 author: Korea Experience Team

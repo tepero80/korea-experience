@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul Food Markets Guide: Gwangjang to Noryangjin 2026"
-date: 2026-02-01
+date: 2026-01-28
 excerpt: "Explore Seoul's vibrant food markets from Gwangjang's street food to Noryangjin's fresh seafood. Your essential guide for 2026 market adventures."
 category: Food & Dining
 author: Korea Experience Team

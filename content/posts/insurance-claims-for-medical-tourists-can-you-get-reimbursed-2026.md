@@ -1,6 +1,6 @@
----
+﻿---
 title: "Medical Tourism Korea: Insurance Claims Reimbursed 2026"
-date: 2026-02-02
+date: 2026-01-12
 excerpt: "Navigating medical insurance claims in Korea as a medical tourist in 2026 can be complex. This guide covers eligibility, processes, and essential tips for reimbursement."
 category: Medical Tourism
 author: Korea Experience Team

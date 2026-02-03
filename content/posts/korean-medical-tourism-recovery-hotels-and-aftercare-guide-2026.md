@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Medical Tourism Recovery Hotels and Aftercare Guide 2026"
-date: 2026-02-02
+date: 2026-01-17
 excerpt: "Unlock optimal healing after medical procedures in Korea with our 2026 guide to specialized recovery hotels and essential aftercare services."
 category: Medical Tourism
 author: Korea Experience Team

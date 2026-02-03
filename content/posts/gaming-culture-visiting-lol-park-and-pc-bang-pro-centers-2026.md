@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Gaming Culture: LoL Park & PC Bangs in 2026"
-date: 2026-02-02
+date: 2026-01-08
 excerpt: "Dive into Korea's vibrant gaming scene in 2026. Explore LoL Park, professional PC Bangs, esports events, and practical tips for your ultimate gaming adventure."
 category: K-Culture
 author: Korea Experience Team

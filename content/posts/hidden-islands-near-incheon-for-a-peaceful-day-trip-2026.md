@@ -1,6 +1,6 @@
----
+﻿---
 title: "Hidden Incheon Islands for a Peaceful Day Trip 2026"
-date: 2026-02-02
+date: 2026-01-10
 excerpt: "Discover serene islands near Incheon, perfect for a peaceful day trip in 2026. Escape the city, find tranquil beaches, and explore nature's beauty."
 category: Travel & Tourism
 author: Korea Experience Team

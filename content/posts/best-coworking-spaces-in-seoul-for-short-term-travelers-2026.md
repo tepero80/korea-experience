@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul's Best Coworking Spaces for Short-Term Travelers 2026"
-date: 2026-02-02
+date: 2026-01-02
 excerpt: "Discover Seoul's top coworking spaces for short-term travelers in 2026. Find flexible, productive spots for your remote work needs."
 category: Travel & Tourism
 author: Korea Experience Team

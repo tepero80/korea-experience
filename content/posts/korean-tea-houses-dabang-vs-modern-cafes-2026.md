@@ -1,6 +1,6 @@
----
+﻿---
 title: "Dabang vs Modern Cafes: Korea's Coffee Culture 2026"
-date: 2026-02-02
+date: 2026-01-20
 excerpt: "Explore the evolving landscape of Korean coffee, comparing traditional Dabang tea houses with trendy modern cafes. Discover unique atmospheres, offerings, and experiences in 2026."
 category: Food & Dining
 author: Korea Experience Team

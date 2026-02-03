@@ -1,4 +1,4 @@
----
+﻿---
 title: "Seoul's Spooky Past Urban Legends & Ghost Stories 2026"
 date: 2026-02-02
 excerpt: "Uncover the chilling urban legends and ghost stories lurking within Seoul's ancient palaces and historical sites. Discover the city's hidden, eerie past."

@@ -1,6 +1,6 @@
----
+﻿---
 title: "BLACKPINK in Seoul Fan Tour Guide 2026"
-date: 2026-02-02
+date: 2026-01-03
 excerpt: "Plan your ultimate BLACKPINK fan pilgrimage to Seoul in 2026 with this comprehensive guide covering YG HQ, filming spots, merch, and more for an unforgettable K-pop journey."
 category: K-Culture
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Volunteer in Seoul 2026: English Speaker Guide"
-date: 2026-02-02
+date: 2026-02-03
 excerpt: "Discover diverse volunteer opportunities for English speakers in Seoul in 2026. Make a difference, meet people, and enhance your Korean experience."
 category: Living in Korea
 author: Korea Experience Team

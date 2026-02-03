@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Fan Culture Explained 2026: Lightsticks, Fancams"
-date: 2026-02-02
+date: 2026-01-16
 excerpt: "Explore the dynamic world of Korean fan culture in 2026. Understand lightsticks, fancams, fan meetings, and how international fans can truly engage."
 category: K-Culture
 author: Korea Experience Team

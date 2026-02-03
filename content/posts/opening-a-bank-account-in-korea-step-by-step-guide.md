@@ -1,6 +1,6 @@
----
+﻿---
 title: "Opening a Bank Account in Korea Step-by-Step Guide"
-date: 2026-02-01
+date: 2026-01-26
 excerpt: "Navigate the essential process of opening a bank account in Korea with our comprehensive guide, ensuring financial stability and ease for expats and long-term visitors."
 category: Living in Korea
 author: Korea Experience Team

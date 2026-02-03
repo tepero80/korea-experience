@@ -1,6 +1,6 @@
----
+﻿---
 title: "Homeschooling & Alternative Education for Expats in Korea 2026"
-date: 2026-02-02
+date: 2026-01-10
 excerpt: "Explore comprehensive guides to homeschooling and alternative education options for expat families in Korea in 2026, from legalities to resources."
 category: Living in Korea
 author: Korea Experience Team

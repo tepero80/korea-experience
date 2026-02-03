@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Korean BBQ in Gangnam 2026: Top Restaurants"
-date: 2026-02-01
+date: 2026-01-02
 excerpt: "Discover Gangnam's finest Korean BBQ restaurants for 2026. This guide covers premium cuts, vibrant atmospheres, and must-try dishes for your Seoul culinary adventure."
 category: Food & Dining
 author: Korea Experience Team

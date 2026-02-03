@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Coffee Shops in Seoul 2026: Your Ultimate Guide"
-date: 2026-02-01
+date: 2026-01-02
 excerpt: "Discover Seoul's top coffee havens in 2026 from aesthetic cafes to specialty roasters. Find your perfect brew in this vibrant city."
 category: Travel & Tourism
 author: Korea Experience Team

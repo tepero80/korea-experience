@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Specialty Coffee Roasters in Seongsu & Yeonnam 2026"
-date: 2026-02-02
+date: 2026-01-31
 excerpt: "Discover Seoul's top specialty coffee roasters in Seongsu and Yeonnam-dong. This 2026 guide helps international travelers find the finest brews and unique cafe experiences in Korea."
 category: Food & Dining
 author: Korea Experience Team

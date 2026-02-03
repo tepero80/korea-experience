@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Jeonse Housing Explained for Foreigners 2026"
-date: 2026-02-02
+date: 2026-01-17
 excerpt: "Unlock the complexities of Korea's unique Jeonse housing system for foreigners in 2026 with our expert guide to secure your ideal home."
 category: Living in Korea
 author: Korea Experience Team

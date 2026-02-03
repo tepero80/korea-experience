@@ -1,6 +1,6 @@
----
+﻿---
 title: "Mastering Konglish: English Words Used Differently in Korea 2026"
-date: 2026-02-02
+date: 2026-01-23
 excerpt: "Unlock Korea's unique linguistic quirks! Discover common English words with surprising new meanings in Konglish to navigate daily life with ease."
 category: K-Culture
 author: Korea Experience Team

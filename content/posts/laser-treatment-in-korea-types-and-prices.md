@@ -1,6 +1,6 @@
----
+﻿---
 title: "Laser Treatment in Korea: Types, Prices, and Insider Guide"
-date: 2026-02-01
+date: 2026-01-23
 excerpt: "Unlock Korea's skincare secrets. Discover popular laser treatments, understand average prices, and get practical tips for your medical tourism journey in Seoul and beyond."
 category: Medical Tourism
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "K-Beauty for Men Breaking the Stigma of Male Makeup 2026"
-date: 2026-02-02
+date: 2026-01-12
 excerpt: "Explore how K-Beauty for men is evolving, breaking the stigma of male makeup in 2026. Discover trends, products, and cultural shifts for international audiences."
 category: K-Culture
 author: Korea Experience Team

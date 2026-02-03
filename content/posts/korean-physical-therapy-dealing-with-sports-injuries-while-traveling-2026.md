@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Physical Therapy for Sports Injuries while Traveling"
-date: 2026-02-02
+date: 2026-01-18
 excerpt: "Navigating sports injuries in Korea as a traveler or expat can be daunting. This guide explores excellent Korean physical therapy options."
 category: Medical Tourism
 author: Korea Experience Team

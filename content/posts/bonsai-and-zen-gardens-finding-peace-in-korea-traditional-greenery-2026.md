@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Bonsai & Zen Gardens: Peace in Greenery"
-date: 2026-02-02
+date: 2026-01-03
 excerpt: "Discover Korea's tranquil world of bonsai and zen gardens. Unearth ancient traditions, find serene escapes, and learn how these living art forms cultivate peace and mindfulness."
 category: K-Culture
 author: Korea Experience Team

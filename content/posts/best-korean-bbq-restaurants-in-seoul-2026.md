@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Korean BBQ Restaurants in Seoul 2026"
-date: 2026-02-01
+date: 2026-01-02
 excerpt: "Discover Seoul's top Korean BBQ spots in 2026. This guide covers premium cuts, unique dining experiences, and essential tips for an unforgettable culinary journey."
 category: Travel & Tourism
 author: Korea Experience Team

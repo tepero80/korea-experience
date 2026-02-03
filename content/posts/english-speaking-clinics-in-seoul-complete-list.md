@@ -1,6 +1,6 @@
----
+﻿---
 title: "English-Speaking Clinics in Seoul: Your Complete Guide"
-date: 2026-02-01
+date: 2026-01-07
 excerpt: "Navigate healthcare in Seoul with ease. Discover a comprehensive list of top English-speaking clinics and hospitals, essential tips, and emergency contacts for expats and travelers."
 category: Medical Tourism
 author: Korea Experience Team

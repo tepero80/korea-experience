@@ -1,4 +1,4 @@
----
+﻿---
 title: "Seoul's Top International Hospitals for Emergencies 2026"
 date: 2026-02-02
 excerpt: "Navigating medical emergencies in Seoul can be daunting for expats and travelers. Discover 2026's top international hospitals with excellent care and multilingual support."

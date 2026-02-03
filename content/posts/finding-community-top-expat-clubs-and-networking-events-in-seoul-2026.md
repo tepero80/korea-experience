@@ -1,6 +1,6 @@
----
+﻿---
 title: "Finding Your Tribe: Expat Clubs & Networking Seoul 2026"
-date: 2026-02-02
+date: 2026-01-08
 excerpt: "Discover the best expat clubs and networking events in Seoul for 2026. This guide helps you build a vibrant community, make friends, and thrive in Korea."
 category: Living in Korea
 author: Korea Experience Team

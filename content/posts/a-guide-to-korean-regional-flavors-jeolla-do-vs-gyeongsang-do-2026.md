@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Regional Flavors Jeolla-do vs Gyeongsang-do 2026"
-date: 2026-02-02
+date: 2026-01-01
 excerpt: "Explore the delicious regional food differences between Jeolla-do and Gyeongsang-do. Discover unique flavors, must-try dishes, and dining tips for your 2026 Korean trip."
 category: Food & Dining
 author: Korea Experience Team

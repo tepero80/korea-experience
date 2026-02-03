@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul Nightlife Guide for International Visitors"
-date: 2026-02-01
+date: 2026-01-29
 excerpt: "Discover Seoul's vibrant nightlife, from buzzing karaoke rooms and trendy clubs to traditional pochas. This guide covers districts, activities, safety, and insider tips for an unforgettable night out."
 category: Travel & Tourism
 author: Korea Experience Team

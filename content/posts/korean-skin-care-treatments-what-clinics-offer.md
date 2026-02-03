@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Skin Care Treatments: What Clinics Offer"
-date: 2026-02-01
+date: 2026-01-19
 excerpt: "Unlock the secrets of flawless skin in Korea. Explore a guide to clinic treatments, costs, and tips for international visitors seeking K-beauty expertise."
 category: Medical Tourism
 author: Korea Experience Team

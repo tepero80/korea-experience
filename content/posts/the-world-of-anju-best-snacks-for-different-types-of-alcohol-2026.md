@@ -1,6 +1,6 @@
----
+﻿---
 title: "Anju: Best Korean Snacks for Every Drink 2026"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Discover the ultimate guide to Korean Anju pairings. Explore classic and modern snacks for Soju, Makgeolli, beer, and more, enhancing your dining experience."
 category: Food & Dining
 author: Korea Experience Team

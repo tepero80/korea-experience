@@ -1,4 +1,4 @@
----
+﻿---
 title: "Taekwondo vs Taekkyeon 2026: Your Martial Arts Journey"
 date: 2026-02-02
 excerpt: "Discover the differences between Taekwondo and Taekkyeon in 2026. Explore training options, cultural significance, and find your ideal Korean martial art. Learn where to try them."

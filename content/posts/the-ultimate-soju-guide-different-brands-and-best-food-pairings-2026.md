@@ -1,6 +1,6 @@
----
+﻿---
 title: "Ultimate Soju Guide Different Brands & Best Pairings 2026"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Unlock the world of Soju: discover top brands, ideal food pairings, and cultural tips for an authentic Korean drinking experience in 2026."
 category: Food & Dining
 author: Korea Experience Team

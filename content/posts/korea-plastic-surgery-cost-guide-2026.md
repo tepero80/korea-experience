@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea Plastic Surgery Cost Guide 2026"
-date: 2026-02-01
+date: 2026-01-21
 excerpt: "Unlock your beauty journey in South Korea with our 2026 plastic surgery cost guide. Understand pricing, clinic choices, and insider tips for international patients."
 category: Medical Tourism
 author: Korea Experience Team

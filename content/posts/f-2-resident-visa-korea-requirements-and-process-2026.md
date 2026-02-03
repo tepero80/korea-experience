@@ -1,6 +1,6 @@
----
+﻿---
 title: "F-2 Resident Visa Korea: Requirements & Process 2026"
-date: 2026-02-02
+date: 2026-01-07
 excerpt: "Unlock the secrets to obtaining Korea's F-2 Resident Visa in 2026. This guide details requirements, application process, and essential tips for long-term residency."
 category: Living in Korea
 author: Korea Experience Team

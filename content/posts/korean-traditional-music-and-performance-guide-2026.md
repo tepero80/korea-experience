@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Traditional Music Guide 2026: Performances & Experiences"
-date: 2026-02-02
+date: 2026-01-20
 excerpt: "Discover the soul of Korea through its traditional music. This 2026 guide covers top venues, genres, instruments, and how to experience captivating Gugak performances."
 category: K-Culture
 author: Korea Experience Team

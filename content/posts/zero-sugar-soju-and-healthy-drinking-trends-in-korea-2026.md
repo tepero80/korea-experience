@@ -1,6 +1,6 @@
----
+﻿---
 title: "Zero-Sugar Soju & Healthy Drinking Trends Korea 2026"
-date: 2026-02-02
+date: 2026-02-03
 excerpt: "Explore Korea's booming zero-sugar soju market and the evolving healthy drinking culture. Discover new trends, practical tips, and what to expect in 2026."
 category: Food & Dining
 author: Korea Experience Team

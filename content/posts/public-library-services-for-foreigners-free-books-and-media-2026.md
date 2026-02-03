@@ -1,6 +1,6 @@
----
+﻿---
 title: "Public Library Services for Foreigners Free Books Media 2026"
-date: 2026-02-02
+date: 2026-01-27
 excerpt: "Unlock Korea's public library treasures. This 2026 guide details free books, media, and services for expats and travelers, making cultural immersion easy and affordable."
 category: Living in Korea
 author: Korea Experience Team

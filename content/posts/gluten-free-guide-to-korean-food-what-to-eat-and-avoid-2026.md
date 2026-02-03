@@ -1,6 +1,6 @@
----
+﻿---
 title: "Gluten-Free Guide to Korean Food: What to Eat and Avoid 2026"
-date: 2026-02-02
+date: 2026-01-09
 excerpt: "Unlock Korea's culinary delights with this essential gluten-free guide for 2026. Discover safe dishes, navigate menus, and avoid hidden gluten. Your delicious adventure awaits!"
 category: Food & Dining
 author: Korea Experience Team

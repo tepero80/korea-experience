@@ -1,6 +1,6 @@
----
+﻿---
 title: "V-Line Surgery Korea: Procedure, Cost, Recovery Guide"
-date: 2026-02-01
+date: 2026-02-03
 excerpt: "Unlock the secrets to a coveted V-line in Korea, covering surgical procedures, detailed cost breakdowns, and a comprehensive recovery journey."
 category: Medical Tourism
 author: Korea Experience Team

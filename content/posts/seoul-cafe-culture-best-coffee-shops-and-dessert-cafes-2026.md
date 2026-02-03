@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul Cafe Culture Best Coffee Shops & Desserts 2026"
-date: 2026-02-01
+date: 2026-01-28
 excerpt: "Explore Seoul's vibrant cafe culture with our expert guide to the best coffee shops and dessert cafes for 2026, offering unique experiences and delicious treats."
 category: Food & Dining
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Health Check-up Packages in Korea Comprehensive Guides 2026"
-date: 2026-02-02
+date: 2026-01-10
 excerpt: "Unlock Korea's world-class preventive care with our 2026 guide to health check-up packages. Discover comprehensive screenings and top hospitals."
 category: Medical Tourism
 author: Korea Experience Team

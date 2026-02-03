@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Royal Court Cuisine: Authentic Dining Experiences 2026"
-date: 2026-02-02
+date: 2026-01-18
 excerpt: "Discover the exquisite world of Korean royal court cuisine. Learn its history, iconic dishes, and where to find authentic experiences in Korea in 2026."
 category: Food & Dining
 author: Korea Experience Team

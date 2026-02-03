@@ -1,6 +1,6 @@
----
+﻿---
 title: "Spotting Fake K-Beauty: Online Shopper Guide 2026"
-date: 2026-02-02
+date: 2026-01-11
 excerpt: "Learn to identify counterfeit K-Beauty products when shopping online in 2026. Protect your skin and wallet with expert tips and detailed comparisons."
 category: Shopping & K-Beauty
 author: Korea Experience Team

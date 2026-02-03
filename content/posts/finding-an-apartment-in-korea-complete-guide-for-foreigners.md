@@ -1,6 +1,6 @@
----
+﻿---
 title: "Finding an Apartment in Korea Your Complete Guide"
-date: 2026-02-01
+date: 2026-01-08
 excerpt: "Navigating Korea's dynamic rental market can be complex for foreigners. This comprehensive guide simplifies finding an apartment, explaining systems, types, and legal steps."
 category: Living in Korea
 author: Korea Experience Team

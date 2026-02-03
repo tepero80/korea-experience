@@ -1,6 +1,6 @@
----
+﻿---
 title: "Buying a Used Car in Korea K-Car vs Encar Guide 2026"
-date: 2026-02-02
+date: 2026-01-04
 excerpt: "Navigate Korea's used car market like a pro in 2026. This guide details K-Car and Encar platforms, helping expats make informed decisions for car ownership."
 category: Living in Korea
 author: Korea Experience Team

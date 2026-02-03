@@ -1,6 +1,6 @@
----
+﻿---
 title: "Winter Ski Resorts Comparison Vivaldi Park vs Yongpyong vs Alpensia 2026"
-date: 2026-02-02
+date: 2026-02-03
 excerpt: "Planning your 2026 winter escape to Korea? Dive into our comprehensive comparison of Vivaldi Park, Yongpyong, and Alpensia ski resorts."
 category: Travel & Tourism
 author: Korea Experience Team

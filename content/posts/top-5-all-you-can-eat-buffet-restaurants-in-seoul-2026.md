@@ -1,6 +1,6 @@
----
+﻿---
 title: "Top 5 All-You-Can-Eat Buffet Restaurants in Seoul 2026"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Discover Seoul's premier all-you-can-eat buffets for 2026. From luxurious hotel dining to specialized seafood feasts, find your perfect culinary adventure in the heart of Korea."
 category: Food & Dining
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Seafood Markets Noryangjin and More 2026"
-date: 2026-02-02
+date: 2026-01-19
 excerpt: "Explore the vibrant Korean seafood markets like Noryangjin, discover fresh catches, dining experiences, and practical tips for an unforgettable culinary adventure."
 category: Food & Dining
 author: Korea Experience Team

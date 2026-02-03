@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Liposuction and Body Contouring Guide 2026"
-date: 2026-02-02
+date: 2026-01-17
 excerpt: "Unlock your aesthetic goals with our 2026 guide to Korean liposuction and body contouring. Discover top clinics, costs, and recovery tips for your medical journey."
 category: Medical Tourism
 author: Korea Experience Team

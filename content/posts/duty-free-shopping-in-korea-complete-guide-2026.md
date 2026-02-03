@@ -1,6 +1,6 @@
----
+﻿---
 title: "Duty-Free Shopping in Korea Complete Guide 2026"
-date: 2026-02-01
+date: 2026-01-07
 excerpt: "Unlock incredible savings on K-Beauty, fashion, and more with this essential guide to duty-free shopping in Korea, covering tips, locations, and how to maximize your experience."
 category: Shopping & K-Beauty
 author: Korea Experience Team

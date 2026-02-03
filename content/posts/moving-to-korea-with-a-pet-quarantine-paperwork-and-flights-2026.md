@@ -1,6 +1,6 @@
----
+﻿---
 title: "Moving to Korea with a Pet: Quarantine & Flights 2026"
-date: 2026-02-02
+date: 2026-01-25
 excerpt: "Navigate the essential paperwork, quarantine rules, and flight arrangements for moving your beloved pet to Korea in 2026."
 category: Living in Korea
 author: Korea Experience Team

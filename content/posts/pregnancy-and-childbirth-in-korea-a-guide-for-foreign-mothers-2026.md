@@ -1,6 +1,6 @@
----
+﻿---
 title: "Pregnancy & Childbirth in Korea: Foreign Mom's 2026 Guide"
-date: 2026-02-02
+date: 2026-01-27
 excerpt: "Navigating pregnancy and childbirth in Korea as a foreign mother in 2026 can be complex. This guide covers everything from healthcare to support systems, ensuring a smooth experience."
 category: Living in Korea
 author: Korea Experience Team

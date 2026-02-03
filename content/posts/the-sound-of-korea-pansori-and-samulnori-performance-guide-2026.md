@@ -1,6 +1,6 @@
----
+﻿---
 title: "Pansori & Samulnori: Korea Performance Guide 2026"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Dive into the soul of Korea with our 2026 guide to Pansori and Samulnori performances. Discover where to watch, what to expect, and practical tips for visitors."
 category: K-Culture
 author: Korea Experience Team

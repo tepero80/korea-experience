@@ -1,6 +1,6 @@
----
+﻿---
 title: "Breast Augmentation Korea: Cost, Clinics & Recovery 2026"
-date: 2026-02-02
+date: 2026-01-04
 excerpt: "Explore breast augmentation in Korea 2026: understand costs, find top clinics, learn about recovery, and get practical tips for your medical journey."
 category: Medical Tourism
 author: Korea Experience Team

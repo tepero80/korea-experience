@@ -1,6 +1,6 @@
----
+﻿---
 title: "Hanbok's Evolution: From Dynasty to 2026 Streetwear"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Explore Hanbok's incredible journey from Korea's dynastic past to its vibrant presence in modern fashion, influencing 2026 streetwear trends."
 category: K-Culture
 author: Korea Experience Team

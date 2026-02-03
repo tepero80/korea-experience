@@ -1,6 +1,6 @@
----
+﻿---
 title: "Cherry Blossom Season in Korea When and Where 2026"
-date: 2026-02-02
+date: 2026-01-04
 excerpt: "Plan your 2026 Korean cherry blossom adventure. Discover predicted bloom dates, best viewing spots, and essential travel tips for an unforgettable trip."
 category: Travel & Tourism
 author: Korea Experience Team

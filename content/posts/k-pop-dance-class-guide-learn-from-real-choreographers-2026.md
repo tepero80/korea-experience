@@ -1,6 +1,6 @@
----
+﻿---
 title: "K-Pop Dance Class Guide Learn from Real Choreographers 2026"
-date: 2026-02-02
+date: 2026-01-22
 excerpt: "Unlock your inner K-Pop idol! Discover top dance studios in Korea for 2026, learn from industry choreographers, and master your favorite K-Pop moves. Your ultimate guide starts here."
 category: K-Culture
 author: Korea Experience Team

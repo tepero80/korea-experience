@@ -1,6 +1,6 @@
----
+﻿---
 title: "K-Beauty Shopping Guide Seoul 2026 - Your Ultimate Trip"
-date: 2026-02-01
+date: 2026-01-12
 excerpt: "Unlock the secrets to K-Beauty shopping in Seoul 2026 with this comprehensive guide covering top districts, retailers, trends, and smart tips."
 category: K-Culture
 author: Korea Experience Team

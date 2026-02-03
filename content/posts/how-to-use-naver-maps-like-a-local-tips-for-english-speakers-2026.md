@@ -1,6 +1,6 @@
----
+﻿---
 title: "Naver Maps: English Speaker's Guide to Korea 2026"
-date: 2026-02-02
+date: 2026-01-11
 excerpt: "Unlock Korea with Naver Maps! This guide provides English speakers all the tips and tricks to navigate like a local in 2026, from public transport to hidden gems."
 category: Travel & Tourism
 author: Korea Experience Team

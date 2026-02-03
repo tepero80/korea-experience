@@ -1,6 +1,6 @@
----
+﻿---
 title: "Scalp Micropigmentation SMP in Korea Best Clinics for Hair Density 2026"
-date: 2026-02-02
+date: 2026-01-28
 excerpt: "Discover premier SMP clinics in South Korea for 2026. Achieve natural hair density and confidence with expert care for international visitors."
 category: Medical Tourism
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Apartment Etiquette What Neighbors Expect 2026"
-date: 2026-02-02
+date: 2026-01-13
 excerpt: "Unlock harmonious living in Korea's apartments with this essential guide to local etiquette. Learn what your neighbors truly expect in 2026."
 category: Living in Korea
 author: Korea Experience Team

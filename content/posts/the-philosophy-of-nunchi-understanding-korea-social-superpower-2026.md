@@ -1,6 +1,6 @@
----
+﻿---
 title: "The Philosophy of Nunchi: Korea's Social Superpower 2026"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Unlocking Korea's unique social intelligence, Nunchi. Discover how this unspoken art of reading the room shapes every aspect of Korean life for travelers and expats in 2026."
 category: K-Culture
 author: Korea Experience Team

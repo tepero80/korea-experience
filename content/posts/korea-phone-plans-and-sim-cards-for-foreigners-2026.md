@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea Phone Plans & SIM Cards for Foreigners 2026"
-date: 2026-02-01
+date: 2026-01-21
 excerpt: "Navigating Korea's phone plans and SIM cards as a foreigner in 2026? This guide covers everything from prepaid SIMs to contract plans, eSIMs, and essential tips."
 category: Living in Korea
 author: Korea Experience Team

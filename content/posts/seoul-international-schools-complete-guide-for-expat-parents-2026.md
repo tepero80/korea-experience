@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul International Schools Complete Guide for Expat Parents 2026"
-date: 2026-02-02
+date: 2026-01-29
 excerpt: "Navigating Seoul's international school landscape for your child's education can be complex. This 2026 guide simplifies choices for expat families."
 category: Living in Korea
 author: Korea Experience Team

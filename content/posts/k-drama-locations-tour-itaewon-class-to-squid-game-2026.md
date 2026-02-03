@@ -1,6 +1,6 @@
----
+﻿---
 title: "K-Drama Locations Tour 2026: Itaewon Class & Squid Game"
-date: 2026-02-02
+date: 2026-01-13
 excerpt: "Discover iconic K-Drama filming locations from Itaewon Class to Squid Game in 2026. Plan your ultimate Hallyu tour and explore Seoul's cinematic magic."
 category: K-Culture
 author: Korea Experience Team

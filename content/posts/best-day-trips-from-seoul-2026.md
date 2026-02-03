@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Day Trips from Seoul 2026: Your Ultimate Guide"
-date: 2026-02-01
+date: 2026-01-02
 excerpt: "Uncover the top day trips from Seoul in 2026. Explore historical sites, natural wonders, and cultural gems just a short journey from the vibrant capital."
 category: Travel & Tourism
 author: Korea Experience Team

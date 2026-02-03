@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Table Etiquette: Why Rice Bowls Stay Down"
-date: 2026-02-02
+date: 2026-01-31
 excerpt: "Navigating Korean dining culture can be tricky. Discover the crucial etiquette rule about not picking up your rice bowl and other essential tips for a respectful meal experience in Korea."
 category: Food & Dining
 author: Korea Experience Team

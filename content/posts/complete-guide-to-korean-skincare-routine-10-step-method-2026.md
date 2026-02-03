@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Skincare 10-Step Routine Guide 2026"
-date: 2026-02-01
+date: 2026-01-05
 excerpt: "Unlock radiant skin with the ultimate 2026 guide to the Korean 10-Step Skincare Routine. Discover products, tips, and where to shop in Korea for flawless results."
 category: Shopping & K-Beauty
 author: Korea Experience Team

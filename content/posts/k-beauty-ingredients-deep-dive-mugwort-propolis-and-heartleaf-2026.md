@@ -1,6 +1,6 @@
----
+﻿---
 title: "K-Beauty Deep Dive Mugwort Propolis Heartleaf 2026"
-date: 2026-02-02
+date: 2026-01-12
 excerpt: "Unlock the secrets of K-Beauty's powerhouse ingredients Mugwort, Propolis, and Heartleaf. Discover their benefits, product picks, and where to shop in Korea."
 category: Shopping & K-Beauty
 author: Korea Experience Team

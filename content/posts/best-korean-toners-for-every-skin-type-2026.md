@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Korean Toners for Every Skin Type 2026 Guide"
-date: 2026-02-02
+date: 2026-01-03
 excerpt: "Unlock flawless skin with our 2026 guide to the best Korean toners. Discover top picks for oily, dry, sensitive, and combination skin, plus insider shopping tips!"
 category: Shopping & K-Beauty
 author: Korea Experience Team

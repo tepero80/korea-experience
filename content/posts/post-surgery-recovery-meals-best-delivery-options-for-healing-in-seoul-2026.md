@@ -1,6 +1,6 @@
----
+﻿---
 title: "Post-Surgery Recovery Meals Best Delivery Options for Healing in Seoul 2026"
-date: 2026-02-02
+date: 2026-01-27
 excerpt: "Discover top post-surgery meal delivery in Seoul for optimal healing. Essential guide for international patients and expats in Korea."
 category: Medical Tourism
 author: Korea Experience Team

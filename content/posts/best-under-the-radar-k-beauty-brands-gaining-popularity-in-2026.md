@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Under-the-Radar K-Beauty Brands Gaining Popularity in 2026"
-date: 2026-02-02
+date: 2026-01-03
 excerpt: "Discover the hidden gems of Korean beauty. Explore innovative, effective, and sustainable under-the-radar K-Beauty brands set to dominate in 2026."
 category: Shopping & K-Beauty
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Rent-a-Car Korea: International License & Navigation Guide"
-date: 2026-02-02
+date: 2026-01-27
 excerpt: "Unlock Korea's roads! A 2026 guide on rent-a-car in Korea, navigating international license requirements, mastering essential apps, and driving tips."
 category: Travel & Tourism
 author: Korea Experience Team

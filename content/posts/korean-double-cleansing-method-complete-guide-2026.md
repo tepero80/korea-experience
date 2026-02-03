@@ -1,6 +1,6 @@
----
+﻿---
 title: "Mastering Korean Double Cleansing Method Complete Guide 2026"
-date: 2026-02-02
+date: 2026-01-15
 excerpt: "Uncover the secrets to glowing skin with the Korean Double Cleansing Method. This 2026 guide offers steps, product recommendations, and expert tips for international audiences."
 category: Shopping & K-Beauty
 author: Korea Experience Team

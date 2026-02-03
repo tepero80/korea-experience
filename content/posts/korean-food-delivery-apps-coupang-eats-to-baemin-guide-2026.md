@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Food Delivery Apps Coupang Eats to Baemin Guide 2026"
-date: 2026-02-02
+date: 2026-01-16
 excerpt: "Unlock Korea's culinary scene with our expert guide to food delivery apps like Coupang Eats and Baemin. Perfect for expats and travelers."
 category: Food & Dining
 author: Korea Experience Team

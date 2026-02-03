@@ -1,6 +1,6 @@
----
+﻿---
 title: "Living Goshiwon vs Officetel Pros Cons Costs 2026"
-date: 2026-02-02
+date: 2026-01-23
 excerpt: "Explore Goshiwon vs Officetel living in Korea for 2026. Understand pros, cons, and costs to make an informed housing choice as an expat or traveler."
 category: Living in Korea
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Stem Cell Therapy: Anti-Aging & Joint Health 2026"
-date: 2026-02-02
+date: 2026-01-19
 excerpt: "Explore the cutting-edge of Korean stem cell therapy in 2026 focusing on anti-aging and joint health for international visitors"
 category: Medical Tourism
 author: Korea Experience Team

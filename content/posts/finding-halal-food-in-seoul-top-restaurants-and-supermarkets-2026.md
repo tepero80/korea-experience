@@ -1,6 +1,6 @@
----
+﻿---
 title: "Finding Halal Food in Seoul Top Restaurants and Supermarkets 2026"
-date: 2026-02-02
+date: 2026-01-08
 excerpt: "Discover the best halal restaurants and supermarkets in Seoul for 2026. A comprehensive guide for Muslim travelers and expats seeking delicious certified options."
 category: Food & Dining
 author: Korea Experience Team

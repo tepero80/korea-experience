@@ -1,6 +1,6 @@
----
+﻿---
 title: "Top K-Beauty Facials: Busy Traveler's Guide Under 1 Hour"
-date: 2026-02-02
+date: 2026-01-02
 excerpt: "Discover Seoul's best express facial treatments perfect for busy travelers. Achieve radiant skin in under an hour with expert tips and clinic recommendations for 2026."
 category: Medical Tourism
 author: Korea Experience Team

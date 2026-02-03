@@ -1,6 +1,6 @@
----
+﻿---
 title: "Hiking Seoul Big Three Bukhansan Gwanaksan Dobongsan 2026"
-date: 2026-02-02
+date: 2026-01-10
 excerpt: "Conquer Seoul's iconic 'Big Three' mountains: Bukhansan, Gwanaksan, Dobongsan. Your ultimate 2026 guide for unforgettable urban hiking adventures and breathtaking views."
 category: Travel & Tourism
 author: Korea Experience Team

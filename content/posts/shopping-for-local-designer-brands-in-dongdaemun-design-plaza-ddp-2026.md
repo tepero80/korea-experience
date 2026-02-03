@@ -1,6 +1,6 @@
----
+﻿---
 title: "Shopping for Local Designer Brands in Dongdaemun Design Plaza DDP"
-date: 2026-02-02
+date: 2026-01-29
 excerpt: "Discover DDP's hidden gems: a 2026 guide to finding unique Korean fashion, K-beauty, and lifestyle brands from local designers in Seoul."
 category: Shopping & K-Beauty
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Ihwa Mural Village 2026: Korean Street Art & Graffiti"
-date: 2026-02-02
+date: 2026-01-20
 excerpt: "Explore Ihwa Mural Village in 2026, a hub for Korean street art and graffiti culture, offering unique insights and practical tips for travelers."
 category: K-Culture
 author: Korea Experience Team

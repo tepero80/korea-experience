@@ -1,6 +1,6 @@
----
+﻿---
 title: "Mental Health Support for Expats in Seoul 2026"
-date: 2026-02-02
+date: 2026-01-24
 excerpt: "Navigating mental health as an expat in Seoul can be challenging. Discover English-speaking therapy options and support networks for 2026 to thrive abroad."
 category: Living in Korea
 author: Korea Experience Team

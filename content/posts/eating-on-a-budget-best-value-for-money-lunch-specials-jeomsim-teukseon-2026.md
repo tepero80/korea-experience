@@ -1,6 +1,6 @@
----
+﻿---
 title: "Budget Korea Lunch: Value Jeomsim-teukseon 2026"
-date: 2026-02-02
+date: 2026-01-07
 excerpt: "Unlock Korea's best value lunch specials for 2026. Our guide to Jeomsim-teukseon helps you savor gourmet meals on a budget, making every bite and won count for travelers and expats."
 category: Food & Dining
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Plastic Surgery Real Reviews 2026: Before & After"
-date: 2026-02-02
+date: 2026-01-02
 excerpt: "Explore authentic before and after Korean plastic surgery reviews for 2026. Get insider tips, pricing, and navigate your medical journey in South Korea with confidence."
 category: Medical Tourism
 author: Korea Experience Team

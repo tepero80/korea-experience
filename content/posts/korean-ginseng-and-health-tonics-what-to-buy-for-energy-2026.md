@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Ginseng & Health Tonics What to Buy for Energy 2026"
-date: 2026-02-02
+date: 2026-01-16
 excerpt: "Unlock Korea's secret to vitality. This 2026 guide reveals the best Korean ginseng and health tonics for energy, where to buy them, and what to look for."
 category: Food & Dining
 author: Korea Experience Team

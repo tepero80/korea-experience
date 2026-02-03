@@ -1,6 +1,6 @@
----
+﻿---
 title: "Men Grooming Guide K-Beauty Hair Wax BB Cream Skincare 2026"
-date: 2026-02-02
+date: 2026-01-24
 excerpt: "Unlock the secrets to Korean men's grooming. Discover top hair wax, BB cream, and skincare products for a refined look in 2026, plus shopping tips for your Korea trip."
 category: Shopping & K-Beauty
 author: Korea Experience Team

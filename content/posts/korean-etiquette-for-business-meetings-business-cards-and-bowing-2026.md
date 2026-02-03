@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Business Etiquette Bowing and Business Cards"
-date: 2026-02-02
+date: 2026-01-15
 excerpt: "Navigate Korean business meetings with confidence. Master bowing, business card exchange, and essential etiquette for success in 2026 and beyond."
 category: Living in Korea
 author: Korea Experience Team

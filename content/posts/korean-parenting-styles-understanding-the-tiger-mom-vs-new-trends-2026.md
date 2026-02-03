@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Parenting Styles Understanding The Tiger Mom"
-date: 2026-02-02
+date: 2026-01-18
 excerpt: "Explore evolving Korean parenting styles, from traditional Tiger Mom influence to modern trends. Understand the cultural nuances for expats and travelers."
 category: K-Culture
 author: Korea Experience Team

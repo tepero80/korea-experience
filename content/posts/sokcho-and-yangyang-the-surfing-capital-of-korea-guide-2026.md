@@ -1,6 +1,6 @@
----
+﻿---
 title: "Sokcho & Yangyang: Korea's 2026 Surfing Capital Guide"
-date: 2026-02-02
+date: 2026-01-30
 excerpt: "Discover Sokcho and Yangyang, the ultimate surfing destinations on Korea's East Coast. This guide covers the best beaches, surf schools, accommodations, and more for your 2026 trip."
 category: Travel & Tourism
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Labor Laws for Foreigners: Your 2026 Rights Guide"
-date: 2026-02-02
+date: 2026-01-17
 excerpt: "Understand Korean labor laws as a foreign employee in 2026. Learn about contracts, wages, working hours, and dispute resolution for a secure work life."
 category: Living in Korea
 author: Korea Experience Team

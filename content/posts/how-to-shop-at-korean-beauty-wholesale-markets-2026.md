@@ -1,6 +1,6 @@
----
+﻿---
 title: "Shop Korean Beauty Wholesale Markets 2026 in Seoul"
-date: 2026-02-02
+date: 2026-01-11
 excerpt: "Unlock the secrets to buying K-beauty at wholesale prices in Seoul's vibrant markets. Expert tips for navigating, negotiating, and shipping your haul."
 category: Shopping & K-Beauty
 author: Korea Experience Team

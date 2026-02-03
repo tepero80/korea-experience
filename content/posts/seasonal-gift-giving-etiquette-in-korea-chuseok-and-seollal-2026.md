@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Seasonal Gift Etiquette Chuseok Seollal 2026"
-date: 2026-02-02
+date: 2026-01-28
 excerpt: "Master the art of seasonal gift-giving in Korea for Chuseok and Seollal 2026. Learn cultural nuances, ideal gifts, and etiquette for a truly respectful experience."
 category: K-Culture
 author: Korea Experience Team

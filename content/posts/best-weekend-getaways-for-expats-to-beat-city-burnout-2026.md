@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Weekend Getaways for Expats in Korea 2026"
-date: 2026-02-02
+date: 2026-01-03
 excerpt: "Discover top weekend getaways in Korea for expats to escape city burnout in 2026. Find serene nature, cultural gems, and adventure."
 category: Living in Korea
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Medical Tourism Insurance for Korea: Your Essential Guide"
-date: 2026-02-01
+date: 2026-01-24
 excerpt: "Secure your health journey to Korea's world-class medical facilities with our comprehensive guide to medical tourism insurance coverage."
 category: Medical Tourism
 author: Korea Experience Team

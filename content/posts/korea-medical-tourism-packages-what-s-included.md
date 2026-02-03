@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea Medical Tourism Packages: What's Included"
-date: 2026-02-01
+date: 2026-01-13
 excerpt: "Explore the comprehensive medical tourism packages in Korea, covering everything from world-class hospitals to personalized care and recovery. Plan your health journey."
 category: Medical Tourism
 author: Korea Experience Team

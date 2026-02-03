@@ -1,6 +1,6 @@
----
+﻿---
 title: "Why Koreans Love MBTI: Psychology Behind the 2026 Trend"
-date: 2026-02-02
+date: 2026-02-03
 excerpt: "Explore the deep psychological, social, and cultural reasons why MBTI continues to thrive in Korea, shaping identity and connections."
 category: K-Culture
 author: Korea Experience Team

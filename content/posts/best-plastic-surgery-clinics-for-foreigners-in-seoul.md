@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Plastic Surgery Clinics for Foreigners in Seoul Guide"
-date: 2026-02-01
+date: 2026-01-03
 excerpt: "Discover Seoul's leading plastic surgery clinics for international patients. This guide covers top clinics, popular procedures, costs, and essential tips for your medical journey."
 category: Medical Tourism
 author: Korea Experience Team

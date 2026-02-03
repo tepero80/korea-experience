@@ -1,6 +1,6 @@
----
+﻿---
 title: "Getting a Post-Paid Phone Plan Without a Long-Term Contract 2026"
-date: 2026-02-02
+date: 2026-01-09
 excerpt: "Secure a flexible post-paid phone plan in Korea without a long-term contract in 2026. Discover MVNOs, required documents, and activation steps."
 category: Living in Korea
 author: Korea Experience Team

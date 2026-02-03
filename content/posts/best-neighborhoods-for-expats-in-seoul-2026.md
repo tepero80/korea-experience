@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Neighborhoods for Expats in Seoul 2026"
-date: 2026-02-01
+date: 2026-01-03
 excerpt: "Discover Seoul's top neighborhoods for expats in 2026, offering diverse lifestyles, amenities, and communities for a seamless transition."
 category: Living in Korea
 author: Korea Experience Team

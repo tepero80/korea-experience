@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Summer Noodles: Naengmyeon vs Bibim Naengmyeon 2026"
-date: 2026-02-02
+date: 2026-01-20
 excerpt: "Dive into Korea's iconic cold buckwheat noodles. Explore Naengmyeon and its spicy counterpart Bibim Naengmyeon, discover their flavors, and find the best spots in 2026."
 category: Food & Dining
 author: Korea Experience Team

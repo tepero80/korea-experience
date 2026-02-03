@@ -1,6 +1,6 @@
----
+﻿---
 title: "Hanbok Fusion Fashion Where to Buy Modern Hanbok for Daily Wear 2026"
-date: 2026-02-02
+date: 2026-01-09
 excerpt: "Discover the best places to buy modern hanbok for daily wear in 2026, from online shops to Seoul's trendiest districts. Embrace Korean culture with style."
 category: Shopping & K-Beauty
 author: Korea Experience Team

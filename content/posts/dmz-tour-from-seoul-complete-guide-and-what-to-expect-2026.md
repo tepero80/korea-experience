@@ -1,6 +1,6 @@
----
+﻿---
 title: "DMZ Tour from Seoul: Complete 2026 Guide"
-date: 2026-02-02
+date: 2026-01-06
 excerpt: "Planning a DMZ tour from Seoul in 2026? This guide covers everything: booking, expectations, prices, and tips for this unique historical journey."
 category: Travel & Tourism
 author: Korea Experience Team

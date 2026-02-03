@@ -1,6 +1,6 @@
----
+﻿---
 title: "Invest in Korean Real Estate as a Foreigner in 2026"
-date: 2026-02-02
+date: 2026-01-11
 excerpt: "A comprehensive guide for foreigners looking to invest in Korean real estate in 2026, covering legal steps, property types, financing, and key market insights."
 category: Living in Korea
 author: Korea Experience Team

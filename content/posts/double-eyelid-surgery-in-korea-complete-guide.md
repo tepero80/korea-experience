@@ -1,6 +1,6 @@
----
+﻿---
 title: "Double Eyelid Surgery in Korea Complete Guide"
-date: 2026-02-01
+date: 2026-01-06
 excerpt: "Your comprehensive guide to double eyelid surgery in Korea, covering procedures, costs, recovery, and finding the best clinics for international patients."
 category: Medical Tourism
 author: Korea Experience Team

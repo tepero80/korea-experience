@@ -1,6 +1,6 @@
----
+﻿---
 title: "BTS Tour in Seoul: ARMY Must-Visit Locations 2026"
-date: 2026-02-02
+date: 2026-01-04
 excerpt: "Plan your ultimate BTS tour in Seoul for 2026. Discover iconic filming locations, early trainee spots, and official fan experiences in Korea's vibrant capital."
 category: K-Culture
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Budget Travel Korea See Seoul for $50 a Day 2026"
-date: 2026-02-02
+date: 2026-01-04
 excerpt: "Unlock Seoul on a shoestring budget for 2026. Discover how to explore this vibrant city, finding affordable stays, delicious food, and free activities."
 category: Travel & Tourism
 author: Korea Experience Team

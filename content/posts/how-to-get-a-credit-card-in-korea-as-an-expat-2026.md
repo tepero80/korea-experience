@@ -1,6 +1,6 @@
----
+﻿---
 title: "How to Get a Credit Card in Korea as an Expat 2026"
-date: 2026-02-02
+date: 2026-01-11
 excerpt: "Unlock financial freedom in Korea. This 2026 guide helps expats navigate credit card applications, requirements, and best banking options with ease."
 category: Living in Korea
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea DMZ JSA vs Tunnel Tours: Which is Better 2026"
-date: 2026-02-02
+date: 2026-01-07
 excerpt: "Debating DMZ tours? This guide compares JSA and Tunnel tours for 2026, helping international travelers choose the best Korean historical experience."
 category: Travel & Tourism
 author: Korea Experience Team

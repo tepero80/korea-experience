@@ -1,6 +1,6 @@
----
+﻿---
 title: "Hosting Korean BBQ at Home: Meats & Sauces 2026"
-date: 2026-02-02
+date: 2026-01-11
 excerpt: "Master the art of Korean BBQ at home in 2026. Discover essential meat cuts, authentic dipping sauces, and expert tips for an unforgettable culinary experience."
 category: Food & Dining
 author: Korea Experience Team

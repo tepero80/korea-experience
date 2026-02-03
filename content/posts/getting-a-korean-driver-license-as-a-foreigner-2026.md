@@ -1,6 +1,6 @@
----
+﻿---
 title: "Getting a Korean Driver License as a Foreigner 2026"
-date: 2026-02-01
+date: 2026-01-09
 excerpt: "Navigate the complex process of getting a Korean driver license in 2026. This guide for foreigners covers exchange, new applications, and crucial tips."
 category: Living in Korea
 author: Korea Experience Team

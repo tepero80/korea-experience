@@ -1,6 +1,6 @@
----
+﻿---
 title: "Flying After Surgery: Doctor Advice for Safe Travel Home"
-date: 2026-02-02
+date: 2026-01-08
 excerpt: "Understanding when it's safe to fly home after surgery in Korea is crucial. Get expert doctor advice, recovery timelines, and essential tips for medical tourists."
 category: Medical Tourism
 author: Korea Experience Team

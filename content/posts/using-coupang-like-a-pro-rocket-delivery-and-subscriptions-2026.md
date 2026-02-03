@@ -1,6 +1,6 @@
----
+﻿---
 title: "Mastering Coupang: Rocket Delivery & Subscriptions 2026"
-date: 2026-02-02
+date: 2026-02-03
 excerpt: "Unlock Coupang's full potential for expats in Korea with this 2026 guide covering Rocket Delivery, Coupang Wow subscriptions, fresh groceries, and expert tips for seamless shopping."
 category: Living in Korea
 author: Korea Experience Team

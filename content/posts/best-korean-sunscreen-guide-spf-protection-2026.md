@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Korean Sunscreen Guide SPF Protection 2026"
-date: 2026-02-01
+date: 2026-01-03
 excerpt: "Discover the ultimate Korean sunscreen guide for 2026, offering top SPF protection. Learn about K-Beauty brands, formulations, and where to buy for international visitors."
 category: Shopping & K-Beauty
 author: Korea Experience Team

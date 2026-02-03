@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul's Best Dessert Cafes 2026: Beyond Bingsu"
-date: 2026-02-02
+date: 2026-01-02
 excerpt: "Discover Seoul's top dessert cafes in 2026. Explore unique treats, hidden gems, and iconic spots for sweet cravings beyond traditional bingsu."
 category: Food & Dining
 author: Korea Experience Team

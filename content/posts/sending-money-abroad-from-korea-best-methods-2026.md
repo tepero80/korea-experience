@@ -1,6 +1,6 @@
----
+﻿---
 title: "Sending Money Abroad from Korea Best Methods 2026"
-date: 2026-02-02
+date: 2026-01-28
 excerpt: "Discover the top methods for sending money from Korea in 2026. Compare banks, online services, fees, and exchange rates for expats and travelers."
 category: Living in Korea
 author: Korea Experience Team

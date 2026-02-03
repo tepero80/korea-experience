@@ -1,6 +1,6 @@
----
+﻿---
 title: "The History of Kimchi More Than Just a Side Dish"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Journey through the rich, spicy history of kimchi, Korea's iconic fermented food. Discover its evolution from humble origins to a global sensation, a cornerstone of Korean identity."
 category: K-Culture
 author: Korea Experience Team

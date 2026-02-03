@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Street Food Guide 2026: 30 Must-Try Foods"
-date: 2026-02-01
+date: 2026-01-20
 excerpt: "Discover 30 essential Korean street foods for 2026. From spicy Tteokbokki to sweet Hotteok, this guide helps travelers navigate Seoul's vibrant culinary scene."
 category: Food & Dining
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Soups Explained Kimchi-jjigae Doenjang-jjigae & More"
-date: 2026-02-02
+date: 2026-01-19
 excerpt: "Dive deep into Korean soup culture, from the iconic Kimchi-jjigae to comforting Doenjang-jjigae. Discover flavors, etiquette, and where to find the best bowls in Korea."
 category: Food & Dining
 author: Korea Experience Team

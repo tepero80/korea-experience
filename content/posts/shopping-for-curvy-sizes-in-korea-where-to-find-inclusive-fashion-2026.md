@@ -1,6 +1,6 @@
----
+﻿---
 title: "Shopping for Curvy Sizes in Korea Inclusive Fashion 2026"
-date: 2026-02-02
+date: 2026-01-29
 excerpt: "Uncover where to find inclusive fashion in Korea for curvy sizes in 2026. This guide offers insights on sizing, top stores, and tips for successful shopping."
 category: Shopping & K-Beauty
 author: Korea Experience Team

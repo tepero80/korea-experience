@@ -1,6 +1,6 @@
----
+﻿---
 title: "Male Plastic Surgery Korea: Jawline & Gynecomastia 2026 Trends"
-date: 2026-02-02
+date: 2026-01-23
 excerpt: "Explore 2026 male plastic surgery trends in Korea for jawline definition and gynecomastia. Discover top clinics, costs, and recovery insights for international patients interested in medical tourism."
 category: Medical Tourism
 author: Korea Experience Team

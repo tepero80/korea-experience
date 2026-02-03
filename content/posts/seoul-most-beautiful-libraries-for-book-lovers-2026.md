@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul's Most Beautiful Libraries for Book Lovers 2026"
-date: 2026-02-02
+date: 2026-01-29
 excerpt: "Discover Seoul's most stunning libraries in 2026, where architectural beauty meets literary wonder. Perfect for travelers seeking unique cultural experiences."
 category: Travel & Tourism
 author: Korea Experience Team

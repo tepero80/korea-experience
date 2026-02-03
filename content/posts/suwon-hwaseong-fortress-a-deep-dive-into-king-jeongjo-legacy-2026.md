@@ -1,6 +1,6 @@
----
+﻿---
 title: "Suwon Hwaseong Fortress A Deep Dive into King Jeongjo Legacy 2026"
-date: 2026-02-02
+date: 2026-01-31
 excerpt: "Explore Suwon Hwaseong Fortress a UNESCO World Heritage site and King Jeongjo's enduring vision for a new era"
 category: Travel & Tourism
 author: Korea Experience Team

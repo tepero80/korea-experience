@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Essence vs Serum What's the Difference 2026"
-date: 2026-02-02
+date: 2026-01-15
 excerpt: "Confused about Korean essence vs serum? Unlock the secrets to a radiant K-Beauty routine in 2026. Discover their unique roles, benefits, and how to use them effectively."
 category: Shopping & K-Beauty
 author: Korea Experience Team

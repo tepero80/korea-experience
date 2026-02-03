@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Makeup Trends 2026 What's Hot in K-Beauty"
-date: 2026-02-01
+date: 2026-01-17
 excerpt: "Discover the hottest Korean makeup trends for 2026, from skinimalism to personalized beauty. Your ultimate guide to K-Beauty innovations."
 category: Shopping & K-Beauty
 author: Korea Experience Team

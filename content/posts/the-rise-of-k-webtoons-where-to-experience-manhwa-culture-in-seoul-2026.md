@@ -1,6 +1,6 @@
----
+﻿---
 title: "The Rise of K-Webtoons Where to Experience Manhwa in Seoul 2026"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Explore the vibrant world of K-webtoons and manhwa culture in Seoul 2026. Discover cafes, exhibitions, and real-life locations for an unforgettable experience."
 category: K-Culture
 author: Korea Experience Team

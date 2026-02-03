@@ -1,6 +1,6 @@
----
+﻿---
 title: "Busan Jagalchi Market Seafood 2026: Your Ultimate Guide"
-date: 2026-02-02
+date: 2026-01-31
 excerpt: "Discover the freshest seafood experiences at Busan's iconic Jagalchi Market in 2026. This guide offers insider tips, prices, and must-try dishes for international travelers."
 category: Food & Dining
 author: Korea Experience Team

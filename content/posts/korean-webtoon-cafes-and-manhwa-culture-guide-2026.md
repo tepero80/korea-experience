@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Webtoon Cafe & Manhwa Culture Guide 2026"
-date: 2026-02-02
+date: 2026-01-21
 excerpt: "Discover Korea's vibrant webtoon cafe scene. This 2026 guide covers top manhwa cafes, culture, etiquette, and tips for international visitors to Seoul and beyond."
 category: K-Culture
 author: Korea Experience Team

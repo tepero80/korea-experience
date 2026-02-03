@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Health Insurance NHIS Guide for Foreigners 2026"
-date: 2026-02-01
+date: 2026-01-16
 excerpt: "Navigating Korea's NHIS as a foreigner? This 2026 guide covers eligibility, enrollment, costs, and benefits to help you stay healthy and compliant."
 category: Living in Korea
 author: Korea Experience Team

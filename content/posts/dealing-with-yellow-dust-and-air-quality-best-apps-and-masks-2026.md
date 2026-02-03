@@ -1,6 +1,6 @@
----
+﻿---
 title: "Navigating Yellow Dust & Air Quality in Korea: Apps & Masks 2026"
-date: 2026-02-02
+date: 2026-01-06
 excerpt: "Expert guide for expats and travelers in Korea. Learn about yellow dust, air quality apps, top masks, and essential tips for staying healthy in 2026."
 category: Living in Korea
 author: Korea Experience Team

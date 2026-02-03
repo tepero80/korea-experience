@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Orthodontics: Invisalign vs Local Clear Aligner Costs 2026"
-date: 2026-02-02
+date: 2026-01-18
 excerpt: "Unlock your perfect smile in Korea! This guide compares Invisalign and local clear aligner costs for 2026, offering crucial insights for international patients."
 category: Medical Tourism
 author: Korea Experience Team

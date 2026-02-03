@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Korean Foundations for Darker Skin Tones 2026"
-date: 2026-02-02
+date: 2026-01-02
 excerpt: "Uncover the honest truth about finding Korean foundations for darker skin tones. Expert tips, top product recommendations, and where to shop in Korea."
 category: Shopping & K-Beauty
 author: Korea Experience Team

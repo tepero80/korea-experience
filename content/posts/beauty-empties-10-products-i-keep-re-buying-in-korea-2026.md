@@ -1,6 +1,6 @@
----
+﻿---
 title: "Beauty Empties 10 Products I Re-buy in Korea 2026"
-date: 2026-02-02
+date: 2026-01-01
 excerpt: "Discover the ultimate list of 10 K-Beauty empties I consistently repurchase in Korea, featuring holy grail skincare and makeup essentials for 2026 travelers."
 category: Shopping & K-Beauty
 author: Korea Experience Team

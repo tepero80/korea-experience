@@ -1,6 +1,6 @@
----
+﻿---
 title: "Medical Tourism Busan vs Seoul Pros Cons Price 2026"
-date: 2026-02-02
+date: 2026-01-24
 excerpt: "Choosing between Seoul and Busan for medical tourism in 2026? This guide covers pros, cons, and price differences to help you decide."
 category: Medical Tourism
 author: Korea Experience Team

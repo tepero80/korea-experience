@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Korean Convenience Store Food Must-Try Items 2026"
-date: 2026-02-02
+date: 2026-01-02
 excerpt: "Unlock the ultimate guide to Korea's convenience store culinary delights in 2026, from iconic ramen to unique snacks. Essential for travelers and expats."
 category: Food & Dining
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Glass Skin Clinic Guide for Global Travelers"
-date: 2026-02-01
+date: 2026-01-16
 excerpt: "Unlock the secrets to flawless glass skin in Korea. Our guide covers treatments, clinics, costs, and essential tips for international visitors."
 category: Medical Tourism
 author: Korea Experience Team

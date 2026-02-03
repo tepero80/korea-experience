@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Grocery Shopping Hacks E-mart Market Kurly and Local Marts 2026"
-date: 2026-02-02
+date: 2026-01-16
 excerpt: "Unlock Korean grocery shopping success with these expert hacks for E-mart, Market Kurly, and local marts, ensuring smooth, affordable trips."
 category: Living in Korea
 author: Korea Experience Team

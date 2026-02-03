@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul's 30 Best Instagram Spots for 2026"
-date: 2026-02-02
+date: 2026-01-28
 excerpt: "Discover Seoul's most photogenic places for your 2026 Instagram feed, from historic palaces to modern cafes and vibrant street art."
 category: Travel & Tourism
 author: Korea Experience Team

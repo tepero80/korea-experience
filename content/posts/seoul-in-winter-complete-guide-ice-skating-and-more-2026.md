@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul Winter 2026 Guide Ice Skating and More"
-date: 2026-02-02
+date: 2026-01-29
 excerpt: "Discover the enchanting side of Seoul in winter 2026 with our complete guide, from exhilarating ice skating to cozy cafes and festive lights."
 category: Travel & Tourism
 author: Korea Experience Team

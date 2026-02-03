@@ -1,4 +1,4 @@
----
+﻿---
 title: "Under-Eye Fat Repositioning: Korea's Secret Surgery 2026"
 date: 2026-02-02
 excerpt: "Discover why under-eye fat repositioning in Korea is the go-to for a youthful gaze, detailed insights into this popular secret surgery."

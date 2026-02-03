@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Korean Skin Clinics in Gangnam 2026: Your Ultimate Guide"
-date: 2026-02-01
+date: 2026-01-03
 excerpt: "Discover the top Korean skin clinics in Gangnam for 2026. This guide covers leading dermatology centers, treatments, costs, and essential tips for international visitors seeking flawless skin."
 category: Medical Tourism
 author: Korea Experience Team

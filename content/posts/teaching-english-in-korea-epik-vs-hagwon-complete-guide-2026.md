@@ -1,6 +1,6 @@
----
+﻿---
 title: "Teaching English in Korea EPIK vs Hagwon Guide 2026"
-date: 2026-02-02
+date: 2026-01-31
 excerpt: "Explore teaching English in Korea for 2026. This guide compares EPIK and Hagwon jobs, helping you choose the best path for your expat journey."
 category: Living in Korea
 author: Korea Experience Team

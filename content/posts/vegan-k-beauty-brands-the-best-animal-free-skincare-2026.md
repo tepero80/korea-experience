@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Vegan K-Beauty Brands Animal-Free Skincare 2026"
-date: 2026-02-02
+date: 2026-02-03
 excerpt: "Discover the top vegan K-Beauty brands for 2026. Explore animal-free skincare, ethical choices, and where to shop in Korea for conscious beauty."
 category: Shopping & K-Beauty
 author: Korea Experience Team

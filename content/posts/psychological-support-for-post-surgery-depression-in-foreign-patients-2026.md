@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea's Mental Health Support for Post-Surgery Recovery"
-date: 2026-02-02
+date: 2026-01-27
 excerpt: "Navigating post-surgery depression as a foreign patient in Korea can be challenging. Discover essential psychological support services and resources available in 2026."
 category: Medical Tourism
 author: Korea Experience Team

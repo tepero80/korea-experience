@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Korean Desserts 2026: Bingsu, Hotteok & More"
-date: 2026-02-02
+date: 2026-01-02
 excerpt: "Discover the ultimate guide to Korea's most delicious desserts in 2026, from classic Bingsu and Hotteok to hidden gems and modern cafe delights."
 category: Food & Dining
 author: Korea Experience Team

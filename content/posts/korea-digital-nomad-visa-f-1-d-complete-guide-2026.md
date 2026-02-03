@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea Digital Nomad Visa F-1-D Complete Guide 2026"
-date: 2026-02-01
+date: 2026-01-13
 excerpt: "Unlock your dream of living and working remotely in South Korea with the F-1-D Digital Nomad Visa 2026. This guide covers eligibility, application, and life in Korea."
 category: Living in Korea
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Order Food in Korean Restaurants: Phrases & Guide 2026"
-date: 2026-02-02
+date: 2026-01-11
 excerpt: "Master ordering food in Korean restaurants with this essential 2026 phrase guide. Navigate menus, handle payments, and dine like a local in Korea."
 category: Food & Dining
 author: Korea Experience Team

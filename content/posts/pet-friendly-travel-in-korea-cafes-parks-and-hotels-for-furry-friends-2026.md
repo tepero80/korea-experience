@@ -1,6 +1,6 @@
----
+﻿---
 title: "Pet-Friendly Travel in Korea Cafes Parks & Hotels 2026"
-date: 2026-02-02
+date: 2026-01-26
 excerpt: "Discover the ultimate guide to pet-friendly travel in Korea for 2026. Explore top cafes, parks, and hotels, understand regulations, and ensure a smooth trip with your furry friend."
 category: Travel & Tourism
 author: Korea Experience Team

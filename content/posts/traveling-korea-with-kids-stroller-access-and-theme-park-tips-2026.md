@@ -1,4 +1,4 @@
----
+﻿---
 title: "Traveling Korea with Kids Stroller Access and Theme Park Tips 2026"
 date: 2026-02-02
 excerpt: "Explore Korea effortlessly with your little ones. This guide covers stroller accessibility on transit, detailed theme park tips for Everland and Lotte World, and essential family travel advice."

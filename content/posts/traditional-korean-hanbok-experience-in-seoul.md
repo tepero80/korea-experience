@@ -1,6 +1,6 @@
----
+﻿---
 title: "Traditional Korean Hanbok Experience in Seoul"
-date: 2026-02-01
+date: 2026-02-02
 excerpt: "Discover how to immerse yourself in Korean culture with an unforgettable Hanbok experience in Seoul, from choosing your perfect outfit to finding the best photo spots"
 category: K-Culture
 author: Korea Experience Team

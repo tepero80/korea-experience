@@ -1,6 +1,6 @@
----
+﻿---
 title: "Smart Shopping at Olive Young Maximizing Sales 2026"
-date: 2026-02-02
+date: 2026-01-30
 excerpt: "Unlock incredible K-Beauty deals and maximize your savings at Olive Young in 2026. Master the app, navigate sales, and get insider tips for smart shopping."
 category: Shopping & K-Beauty
 author: Korea Experience Team

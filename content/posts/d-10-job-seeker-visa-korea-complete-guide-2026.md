@@ -1,6 +1,6 @@
----
+﻿---
 title: "D-10 Job Seeker Visa Korea: Your Complete 2026 Guide"
-date: 2026-02-01
+date: 2026-01-06
 excerpt: "Dreaming of a career in South Korea? Our 2026 guide to the D-10 Job Seeker Visa breaks down eligibility, application, and maximizing your job hunt."
 category: Living in Korea
 author: Korea Experience Team

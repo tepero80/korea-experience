@@ -1,6 +1,6 @@
----
+﻿---
 title: "Dating & Marriage in Korea as a Foreigner 2026 Guide"
-date: 2026-02-02
+date: 2026-01-06
 excerpt: "Navigate Korean dating and marriage as an expat in 2026. This comprehensive guide covers cultural nuances, legal processes, and practical tips for successful relationships."
 category: Living in Korea
 author: Korea Experience Team

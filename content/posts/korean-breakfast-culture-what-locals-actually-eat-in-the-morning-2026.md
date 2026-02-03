@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Breakfast Culture: What Locals Really Eat 2026"
-date: 2026-02-02
+date: 2026-01-14
 excerpt: "Discover authentic Korean breakfast culture from quick bites to hearty meals. Learn what locals eat, where to find it, and practical tips for your 2026 trip."
 category: Food & Dining
 author: Korea Experience Team

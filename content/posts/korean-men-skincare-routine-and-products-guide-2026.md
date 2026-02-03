@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Men Skincare Routine & Products Guide 2026"
-date: 2026-02-02
+date: 2026-01-17
 excerpt: "Unlock the secrets to flawless skin! This 2026 guide reveals Korean men's skincare routine essentials, top products, and where to shop in Seoul."
 category: Shopping & K-Beauty
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul Shopping Districts Complete Guide Myeongdong to Gangnam"
-date: 2026-02-01
+date: 2026-01-29
 excerpt: "Explore Seoul's best shopping districts from Myeongdong's vibrant streets to Gangnam's luxury boutiques. Your ultimate guide to K-beauty, fashion, and unique finds."
 category: Shopping & K-Beauty
 author: Korea Experience Team

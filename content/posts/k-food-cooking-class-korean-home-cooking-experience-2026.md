@@ -1,6 +1,6 @@
----
+﻿---
 title: "Your Authentic K-Food Cooking Class Korean Home Cooking Experience 2026"
-date: 2026-02-02
+date: 2026-01-13
 excerpt: "Unlock the secrets of Korean cuisine. Join a K-Food cooking class in 2026 for an unforgettable hands-on journey into authentic home cooking and culture."
 category: K-Culture
 author: Korea Experience Team

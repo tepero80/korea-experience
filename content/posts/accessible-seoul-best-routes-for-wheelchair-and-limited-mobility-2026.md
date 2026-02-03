@@ -1,6 +1,6 @@
----
+﻿---
 title: "Accessible Seoul Best Routes for Wheelchair & Limited Mobility 2026"
-date: 2026-02-02
+date: 2026-01-01
 excerpt: "Discover Seoul's best accessible routes for wheelchair users and limited mobility travelers in 2026. Navigate this dynamic city with confidence."
 category: Travel & Tourism
 author: Korea Experience Team

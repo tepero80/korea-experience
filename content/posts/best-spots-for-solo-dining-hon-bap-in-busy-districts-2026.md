@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Spots for Solo Dining Hon-bap in Busy Districts 2026"
-date: 2026-02-02
+date: 2026-01-03
 excerpt: "Discover top solo dining hon-bap spots in Korea's busiest districts for 2026. Perfect for international travelers and expats seeking delicious meals alone."
 category: Food & Dining
 author: Korea Experience Team

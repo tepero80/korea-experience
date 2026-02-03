@@ -1,6 +1,6 @@
----
+﻿---
 title: "Sustainable Fashion Seoul 2026 Eco-Friendly Local Brands"
-date: 2026-02-02
+date: 2026-01-30
 excerpt: "Explore Seoul's burgeoning sustainable fashion scene in 2026. Discover eco-friendly local brands, ethical shopping districts, and practical tips for conscious consumers."
 category: Shopping & K-Beauty
 author: Korea Experience Team

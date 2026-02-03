@@ -1,6 +1,6 @@
----
+﻿---
 title: "Sustainable Travel in Korea: Zero-Waste Cafes & Eco-Hotels 2026"
-date: 2026-02-02
+date: 2026-01-30
 excerpt: "Explore Korea's evolving green travel scene in 2026. Discover eco-friendly cafes, sustainable hotels, and tips for a zero-waste, ethical journey."
 category: Travel & Tourism
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "LASIK and LASEK Eye Surgery in Korea Complete Guide 2026"
-date: 2026-02-02
+date: 2026-01-23
 excerpt: "Considering LASIK or LASEK eye surgery in Korea? Discover world-class clinics, advanced technology, costs, and a step-by-step guide for your vision correction journey."
 category: Medical Tourism
 author: Korea Experience Team

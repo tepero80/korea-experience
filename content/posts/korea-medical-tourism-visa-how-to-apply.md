@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea Medical Tourism Visa Application Guide"
-date: 2026-02-01
+date: 2026-01-13
 excerpt: "Navigate the Korea Medical Tourism Visa application with this comprehensive guide, covering types, requirements, and steps for international patients seeking world-class care."
 category: Medical Tourism
 author: Korea Experience Team

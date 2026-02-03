@@ -1,6 +1,6 @@
----
+﻿---
 title: "Full Mouth Dental Implants in Korea Price & Timeline 2026"
-date: 2026-02-02
+date: 2026-01-08
 excerpt: "Explore the comprehensive guide to full mouth dental implants in Korea for 2026. Compare prices, understand timelines, and discover top clinics and practical tips for your medical journey."
 category: Medical Tourism
 author: Korea Experience Team

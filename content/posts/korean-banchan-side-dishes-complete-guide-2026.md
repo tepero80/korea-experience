@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Banchan Side Dishes Guide 2026"
-date: 2026-02-02
+date: 2026-01-13
 excerpt: "Explore the delicious world of Korean banchan side dishes. This 2026 guide covers types, history, etiquette, and how to enjoy them like a local."
 category: Food & Dining
 author: Korea Experience Team

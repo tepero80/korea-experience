@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Skincare for Maskne & Sensitive Skin Clinic Approved 2026"
-date: 2026-02-02
+date: 2026-01-31
 excerpt: "Combat maskne and soothe sensitive skin with clinic-approved K-Beauty. Discover top ingredients, products, and where to shop in Korea for flawless skin."
 category: Shopping & K-Beauty
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Innisfree Shopping Guide Best Products & Stores 2026"
-date: 2026-02-02
+date: 2026-01-12
 excerpt: "Discover Innisfree's top K-beauty products and best store locations in Korea for 2026. Your ultimate guide to natural skincare shopping and exclusive deals."
 category: Shopping & K-Beauty
 author: Korea Experience Team

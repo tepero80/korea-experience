@@ -1,6 +1,6 @@
----
+﻿---
 title: "Thread Lifting Korea: Mint & Silhouette Soft 2026 Guide"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Explore the ultimate guide to Mint and Silhouette Soft thread lifts in Korea for 2026 Learn about procedures costs clinics and recovery"
 category: Medical Tourism
 author: Korea Experience Team

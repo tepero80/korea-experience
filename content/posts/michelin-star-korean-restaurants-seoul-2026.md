@@ -1,6 +1,6 @@
----
+﻿---
 title: "Michelin Star Korean Restaurants Seoul 2026 Guide"
-date: 2026-02-01
+date: 2026-01-24
 excerpt: "Discover Seoul's top Michelin Star Korean restaurants in 2026, offering unparalleled gastronomic experiences for international foodies."
 category: Food & Dining
 author: Korea Experience Team

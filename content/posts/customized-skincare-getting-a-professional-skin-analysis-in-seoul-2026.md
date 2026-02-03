@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul 2026: Customized Skincare with Professional Analysis"
-date: 2026-02-02
+date: 2026-01-05
 excerpt: "Unlock your best skin in Seoul 2026. Discover advanced professional skin analysis, personalized K-Beauty routines, and top clinics for a truly bespoke experience."
 category: Shopping & K-Beauty
 author: Korea Experience Team

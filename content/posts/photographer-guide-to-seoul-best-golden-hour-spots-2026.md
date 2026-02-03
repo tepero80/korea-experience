@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul's Best Golden Hour Photo Spots Guide 2026"
-date: 2026-02-02
+date: 2026-01-26
 excerpt: "Capture Seoul's magic hour! This guide reveals the top photography spots for golden hour in 2026, offering insider tips for stunning photos."
 category: Travel & Tourism
 author: Korea Experience Team

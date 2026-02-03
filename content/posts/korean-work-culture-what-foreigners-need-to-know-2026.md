@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Work Culture What Foreigners Need to Know 2026"
-date: 2026-02-02
+date: 2026-01-21
 excerpt: "Navigate Korea's dynamic work culture in 2026. This guide offers vital insights into hierarchy, long hours, teamwork, and tips for foreigners seeking professional success."
 category: Living in Korea
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Vegan Temple Food Classes Learning from Monks in Seoul 2026"
-date: 2026-02-02
+date: 2026-02-03
 excerpt: "Discover Seoul's unique vegan temple food classes in 2026, learning ancient culinary traditions and mindful eating from Buddhist monks. Plan your immersive journey."
 category: Food & Dining
 author: Korea Experience Team

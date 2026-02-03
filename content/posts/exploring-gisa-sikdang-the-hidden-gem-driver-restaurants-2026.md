@@ -1,6 +1,6 @@
----
+﻿---
 title: "Gisa-sikdang The Hidden Driver Restaurants of Korea 2026"
-date: 2026-02-02
+date: 2026-01-07
 excerpt: "Discover Gisa-sikdang, Korea's authentic driver restaurants in 2026. Uncover local flavors, unbeatable value, and a true culinary experience far from tourist traps."
 category: Food & Dining
 author: Korea Experience Team

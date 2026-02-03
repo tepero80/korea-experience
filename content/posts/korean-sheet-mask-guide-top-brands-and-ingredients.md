@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Sheet Mask Guide: Top Brands and Ingredients"
-date: 2026-02-01
+date: 2026-01-19
 excerpt: "Discover the best Korean sheet masks, top brands, and key ingredients. Learn how to choose, use, and buy sheet masks in Korea for a radiant complexion."
 category: Shopping & K-Beauty
 author: Korea Experience Team

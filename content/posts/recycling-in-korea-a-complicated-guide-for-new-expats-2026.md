@@ -1,6 +1,6 @@
----
+﻿---
 title: "Recycling in Korea A Complicated Guide for New Expats 2026"
-date: 2026-02-02
+date: 2026-01-27
 excerpt: "Navigating recycling in Korea as an expat can be challenging. This 2026 guide simplifies waste separation, disposal rules, and eco-friendly living for a smoother experience."
 category: Living in Korea
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Saju vs Tarot in Korea My 2026 Sinsa Fortune Telling Adventure"
-date: 2026-02-02
+date: 2026-01-08
 excerpt: "Exploring the mystical world of Korean fortune telling in 2026. My firsthand account of Saju and Tarot experiences in Seoul's vibrant Sinsa-dong."
 category: K-Culture
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Language Requirements for Jobs TOPIK Guide 2026"
-date: 2026-02-02
+date: 2026-01-17
 excerpt: "Your comprehensive guide to Korean language requirements for jobs in Korea, focusing on TOPIK and practical tips for expats in 2026."
 category: Living in Korea
 author: Korea Experience Team

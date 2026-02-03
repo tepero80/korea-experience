@@ -1,6 +1,6 @@
----
+﻿---
 title: "TableCheck vs CatchTable 2026: Korea Food Apps English Speakers"
-date: 2026-02-02
+date: 2026-01-02
 excerpt: "Navigating Korea's vibrant food scene is easier with the right app. Discover if TableCheck or CatchTable is your best dining companion for 2026."
 category: Food & Dining
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Stationery Shopping Kyobo Artbox Best Items 2026"
-date: 2026-02-02
+date: 2026-01-19
 excerpt: "Discover the ultimate guide to Korean stationery shopping in 2026. Explore Kyobo Hottracks and Artbox for the best pens, planners, and gifts. Your Seoul shopping adventure starts here."
 category: Shopping & K-Beauty
 author: Korea Experience Team

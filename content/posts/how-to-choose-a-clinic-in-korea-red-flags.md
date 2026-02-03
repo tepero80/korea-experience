@@ -1,6 +1,6 @@
----
+﻿---
 title: "Choosing a Clinic in Korea: Avoid Medical Tourism Red Flags"
-date: 2026-02-01
+date: 2026-01-11
 excerpt: "Navigate Korea's medical tourism safely. Learn how to choose a reliable clinic and spot crucial red flags for a positive experience."
 category: Medical Tourism
 author: Korea Experience Team

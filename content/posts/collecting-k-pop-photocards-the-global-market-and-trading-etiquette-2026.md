@@ -1,6 +1,6 @@
----
+﻿---
 title: "Collecting K-Pop Photocards: Market & Etiquette 2026"
-date: 2026-02-02
+date: 2026-01-05
 excerpt: "Dive into the vibrant world of K-Pop photocard collecting in 2026. Learn about the global market, trading etiquette, and practical tips for collectors."
 category: K-Culture
 author: Korea Experience Team

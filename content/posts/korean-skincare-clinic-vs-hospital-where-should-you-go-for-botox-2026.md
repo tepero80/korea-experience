@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Skincare Clinic vs Hospital for Botox 2026"
-date: 2026-02-02
+date: 2026-01-19
 excerpt: "Deciding where to get Botox in Korea in 2026? Explore the differences between specialized clinics and large hospitals, understand costs, and make an informed choice."
 category: Medical Tourism
 author: Korea Experience Team

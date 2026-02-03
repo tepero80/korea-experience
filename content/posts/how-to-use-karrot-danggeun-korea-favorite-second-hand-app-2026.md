@@ -1,6 +1,6 @@
----
+﻿---
 title: "Karrot Danggeun Korea Your Guide to Second-Hand Finds 2026"
-date: 2026-02-02
+date: 2026-01-11
 excerpt: "Master Karrot Danggeun the essential second-hand app in Korea for expats and travelers in 2026. Unlock smart shopping and sustainable living experiences."
 category: Living in Korea
 author: Korea Experience Team

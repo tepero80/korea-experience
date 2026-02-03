@@ -1,6 +1,6 @@
----
+﻿---
 title: "Modern Korean Art Scene Top Contemporary Galleries in Hannam-dong 2026"
-date: 2026-02-02
+date: 2026-01-25
 excerpt: "Explore Seoul's vibrant Modern Korean Art Scene Top Contemporary Galleries in Hannam-dong 2026, offering insights for international art enthusiasts."
 category: K-Culture
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Custom Perfume Making in Seoul Your 2026 Signature Scent"
-date: 2026-02-02
+date: 2026-01-05
 excerpt: "Discover custom perfume making in Seoul 2026. Design your unique fragrance with expert guidance a memorable K-Beauty experience."
 category: Shopping & K-Beauty
 author: Korea Experience Team

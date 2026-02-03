@@ -1,6 +1,6 @@
----
+﻿---
 title: "Traditional Korean Markets in Seoul Shopping Guide"
-date: 2026-02-01
+date: 2026-02-02
 excerpt: "Uncover the vibrant soul of Seoul through its traditional markets. This guide helps international travelers navigate bustling alleys, savor authentic street food, and find unique souvenirs."
 category: Travel & Tourism
 author: Korea Experience Team

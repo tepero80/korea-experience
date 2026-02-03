@@ -1,6 +1,6 @@
----
+﻿---
 title: "Attend K-Pop Music Show Recordings Seoul 2026 Guide"
-date: 2026-02-02
+date: 2026-01-10
 excerpt: "Your ultimate guide to attending live K-Pop music show recordings in Seoul 2026. Learn how to secure tickets, navigate venues, and enhance your fan experience."
 category: K-Culture
 author: Korea Experience Team

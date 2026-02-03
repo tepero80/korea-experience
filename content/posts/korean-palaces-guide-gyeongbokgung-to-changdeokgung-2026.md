@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Palaces Guide Gyeongbokgung to Changdeokgung 2026"
-date: 2026-02-02
+date: 2026-01-18
 excerpt: "Explore Seoul's majestic Korean palaces from Gyeongbokgung to Changdeokgung. This 2026 guide covers history, tips, and how to make the most of your visit."
 category: Travel & Tourism
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "NHIS Website Navigation Guide for Expats 2026"
-date: 2026-02-02
+date: 2026-01-25
 excerpt: "Master Korea's NHIS website in 2026. This guide simplifies registration, payments, and benefits for international residents, ensuring smooth healthcare access."
 category: Living in Korea
 author: Korea Experience Team

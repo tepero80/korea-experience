@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul's Hidden Gems Secret Spots Locals Love 2026"
-date: 2026-02-02
+date: 2026-01-10
 excerpt: "Uncover Seoul's best-kept secrets beyond the tourist trail. Discover local favorites, unique dining, cultural nooks, and urban escapes for an authentic 2026 Korea experience."
 category: Travel & Tourism
 author: Korea Experience Team

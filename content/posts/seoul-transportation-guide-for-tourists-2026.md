@@ -1,6 +1,6 @@
 ﻿---
 title: "Seoul Transportation Guide for Tourists 2026"
-date: 2026-02-01
+date: 2026-01-29
 excerpt: "Navigate Seoul like a pro with this ultimate 2026 guide to its subway, buses, taxis, and more. Essential tips for seamless travel."
 category: Travel & Tourism
 author: Korea Experience Team

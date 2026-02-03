@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Korean Fried Chicken Places in Seoul 2026 Guide"
-date: 2026-02-01
+date: 2026-01-02
 excerpt: "Discover Seoul's top fried chicken spots for 2026, from classic crispy to spicy yangnyeom. Your ultimate guide to the city's best Chimaek experiences."
 category: Food & Dining
 author: Korea Experience Team

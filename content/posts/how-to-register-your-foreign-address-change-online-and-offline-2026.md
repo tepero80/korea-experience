@@ -1,6 +1,6 @@
----
+﻿---
 title: "Register Your Foreign Address Change in Korea Online Offline 2026"
-date: 2026-02-02
+date: 2026-01-11
 excerpt: "Learn how to easily register your foreign address change in Korea in 2026, whether online via Hi-Korea or offline at an Immigration Office"
 category: Living in Korea
 author: Korea Experience Team

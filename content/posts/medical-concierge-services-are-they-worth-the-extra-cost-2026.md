@@ -1,6 +1,6 @@
----
+﻿---
 title: "Medical Concierge Services Korea 2026 Worth It?"
-date: 2026-02-02
+date: 2026-01-24
 excerpt: "Considering medical concierge services for your Korea trip in 2026? We explore their value, costs, benefits, and how to choose the best provider for a seamless health journey."
 category: Medical Tourism
 author: Korea Experience Team

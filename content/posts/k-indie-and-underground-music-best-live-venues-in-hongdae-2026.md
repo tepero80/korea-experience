@@ -1,6 +1,6 @@
----
+﻿---
 title: "Hongdae's Best K-Indie & Underground Live Venues 2026"
-date: 2026-02-02
+date: 2026-01-13
 excerpt: "Discover Hongdae's top K-Indie and underground live music venues for 2026, offering authentic experiences for international travelers and expats in Seoul."
 category: K-Culture
 author: Korea Experience Team

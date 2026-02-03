@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Cinema Beyond Bong Joon-ho: Must-Watch Directors 2026"
-date: 2026-02-02
+date: 2026-01-14
 excerpt: "Explore the depths of Korean cinema beyond the mainstream. Discover visionary directors, iconic films, and why their works are essential viewing for 2026."
 category: K-Culture
 author: Korea Experience Team

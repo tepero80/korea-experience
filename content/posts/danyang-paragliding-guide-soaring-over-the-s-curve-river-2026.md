@@ -1,6 +1,6 @@
----
+﻿---
 title: "Danyang Paragliding: Soaring Over the S-Curve River 2026"
-date: 2026-02-02
+date: 2026-01-06
 excerpt: "Experience the thrill of Danyang paragliding! This 2026 guide covers everything from booking to breathtaking views of the S-curve river."
 category: Travel & Tourism
 author: Korea Experience Team

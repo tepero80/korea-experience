@@ -1,6 +1,6 @@
----
+﻿---
 title: "K-Literature Top Books to Understand Modern Korea 2026"
-date: 2026-02-02
+date: 2026-01-13
 excerpt: "Dive into K-literature: Discover essential English-translated books that offer profound insights into modern Korean society, culture, and history."
 category: K-Culture
 author: Korea Experience Team

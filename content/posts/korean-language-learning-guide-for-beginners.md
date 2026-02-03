@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Language Learning Guide for Beginners"
-date: 2026-02-01
+date: 2026-01-17
 excerpt: "Unlock Korea with our beginner's guide to the Korean language. Master Hangul, essential phrases, and practical tips for travelers and expats."
 category: K-Culture
 author: Korea Experience Team

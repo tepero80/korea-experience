@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul Calligraphy: Hangeul Art Classes 2026"
-date: 2026-02-02
+date: 2026-01-04
 excerpt: "Discover the beauty of Korean calligraphy in Seoul 2026. This guide details top classes, prices, and tips for learning Hangeul art."
 category: K-Culture
 author: Korea Experience Team

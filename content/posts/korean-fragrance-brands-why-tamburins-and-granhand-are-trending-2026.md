@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Fragrance Brands Tamburins Granhand Trending 2026"
-date: 2026-02-02
+date: 2026-01-16
 excerpt: "Discover why Tamburins and Granhand are defining the future of Korean fragrance. Learn about their unique aesthetics, signature scents, and where to shop in Seoul."
 category: Shopping & K-Beauty
 author: Korea Experience Team

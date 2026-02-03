@@ -1,6 +1,6 @@
----
+﻿---
 title: "Breast Reduction Surgery in Korea Specialized Clinics & Recovery 2026"
-date: 2026-02-02
+date: 2026-01-04
 excerpt: "Discover premier breast reduction surgery in Korea for international patients. Learn about top clinics, costs, recovery tips, and essential travel info for 2026"
 category: Medical Tourism
 author: Korea Experience Team

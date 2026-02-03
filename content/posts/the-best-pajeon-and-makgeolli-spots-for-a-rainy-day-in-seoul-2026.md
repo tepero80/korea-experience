@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul's Best Pajeon & Makgeolli for Rainy Days 2026"
-date: 2026-02-02
+date: 2026-01-31
 excerpt: "Discover Seoul's top spots for savory pajeon and refreshing makgeolli to enjoy on a rainy day in 2026. Your ultimate guide to a perfect Korean culinary experience awaits."
 category: Food & Dining
 author: Korea Experience Team

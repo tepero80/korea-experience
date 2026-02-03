@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Dental Tourism: Implants, Whitening & Veneers 2026"
-date: 2026-02-02
+date: 2026-01-15
 excerpt: "Discover why Korea is a top destination for dental implants, whitening, and veneers in 2026. Get expert tips, cost estimates, and clinic recommendations."
 category: Medical Tourism
 author: Korea Experience Team

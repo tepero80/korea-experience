@@ -1,6 +1,6 @@
----
+﻿---
 title: "Rhinoplasty in Korea Complete Guide Cost and Best Clinics 2026"
-date: 2026-02-02
+date: 2026-01-27
 excerpt: "Unlock your guide to rhinoplasty in Korea for 2026. Discover costs, top clinics, procedures, and essential tips for a successful medical tourism journey."
 category: Medical Tourism
 author: Korea Experience Team

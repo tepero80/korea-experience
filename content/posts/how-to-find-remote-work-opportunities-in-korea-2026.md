@@ -1,6 +1,6 @@
----
+﻿---
 title: "Finding Remote Work Opportunities in Korea 2026"
-date: 2026-02-02
+date: 2026-01-11
 excerpt: "Unlock your dream of living and working remotely in South Korea by 2026. This guide provides essential insights, visa strategies, and job-finding tips."
 category: Living in Korea
 author: Korea Experience Team

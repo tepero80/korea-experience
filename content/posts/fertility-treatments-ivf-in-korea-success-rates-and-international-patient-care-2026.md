@@ -1,6 +1,6 @@
----
+﻿---
 title: "Fertility Treatments IVF in Korea Success Rates & 2026 Care"
-date: 2026-02-02
+date: 2026-01-08
 excerpt: "Explore Korea's advanced fertility treatments and IVF success rates for international patients in 2026. Get insights into costs, patient care, and top clinics."
 category: Medical Tourism
 author: Korea Experience Team

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Top 30 Korean Skincare Products Worth Buying 2026"
 date: 2026-02-01
 excerpt: "Discover the ultimate guide to the best Korean skincare products of 2026. From cult favorites to new innovations, find your perfect K-Beauty haul."

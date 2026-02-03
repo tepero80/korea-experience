@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea Plastic Surgery Reviews What to Expect"
-date: 2026-02-01
+date: 2026-01-21
 excerpt: "Considering plastic surgery in Korea? Learn what to expect, from choosing a clinic to recovery, costs, and essential tips for international visitors."
 category: Medical Tourism
 author: Korea Experience Team

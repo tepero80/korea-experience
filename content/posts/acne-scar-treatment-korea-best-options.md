@@ -1,6 +1,6 @@
----
+﻿---
 title: "Acne Scar Treatment Korea Best Options for Clear Skin"
-date: 2026-02-01
+date: 2026-01-01
 excerpt: "Unlock radiant skin with Korea's advanced acne scar treatments. Explore top options, costs, and recovery for your medical tourism journey."
 category: Medical Tourism
 author: Korea Experience Team

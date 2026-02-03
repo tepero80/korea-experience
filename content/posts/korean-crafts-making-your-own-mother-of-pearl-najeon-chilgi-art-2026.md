@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Crafts: Make Your Own Najeon-chilgi Art 2026"
-date: 2026-02-02
+date: 2026-01-15
 excerpt: "Discover Najeon-chilgi, Korea's stunning mother-of-pearl art. Learn its history, find workshops in 2026, and create your own exquisite masterpiece."
 category: K-Culture
 author: Korea Experience Team

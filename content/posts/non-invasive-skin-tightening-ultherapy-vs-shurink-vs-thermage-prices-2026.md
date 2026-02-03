@@ -1,6 +1,6 @@
----
+﻿---
 title: "Ultherapy, Shurink, Thermage: Korea Price Guide 2026"
-date: 2026-02-02
+date: 2026-01-25
 excerpt: "Compare 2026 prices for Ultherapy, Shurink, Thermage in Korea. Find the best non-invasive skin tightening treatment for your needs."
 category: Medical Tourism
 author: Korea Experience Team

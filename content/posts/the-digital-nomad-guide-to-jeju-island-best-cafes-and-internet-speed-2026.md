@@ -1,6 +1,6 @@
----
+﻿---
 title: "Jeju Digital Nomad Guide Best Cafes & Internet Speed 2026"
-date: 2026-02-02
+date: 2026-01-31
 excerpt: "Discover Jeju's top digital nomad cafes, blazing-fast internet speeds, and essential tips for remote work in 2026. Your ultimate guide to productivity and paradise."
 category: Living in Korea
 author: Korea Experience Team

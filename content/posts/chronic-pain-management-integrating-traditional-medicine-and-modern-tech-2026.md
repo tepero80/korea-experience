@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea's Chronic Pain Management: Tradition & Tech 2026"
-date: 2026-02-02
+date: 2026-01-05
 excerpt: "Discover Korea's advanced chronic pain solutions merging traditional Korean medicine with cutting-edge tech. A holistic approach awaits you in 2026."
 category: Medical Tourism
 author: Korea Experience Team

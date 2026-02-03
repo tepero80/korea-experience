@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Korean Lip Tints & Lipsticks 2026 for Global Travelers"
-date: 2026-02-01
+date: 2026-01-03
 excerpt: "Discover the top Korean lip tints and lipsticks for 2026. Uncover must-have K-Beauty trends, expert tips, and where to shop in Korea for the perfect pout."
 category: Shopping & K-Beauty
 author: Korea Experience Team

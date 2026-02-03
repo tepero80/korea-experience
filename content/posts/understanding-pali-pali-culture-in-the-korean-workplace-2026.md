@@ -1,4 +1,4 @@
----
+﻿---
 title: "Navigating Pali-Pali Culture in the Korean Workplace 2026"
 date: 2026-02-02
 excerpt: "Master the fast-paced Pali-Pali culture in South Korea's workplaces. Essential guide for expats & international professionals in 2026."

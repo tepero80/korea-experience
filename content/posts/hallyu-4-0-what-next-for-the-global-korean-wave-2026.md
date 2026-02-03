@@ -1,6 +1,6 @@
----
+﻿---
 title: "Hallyu 4.0 What Next for the Global Korean Wave 2026"
-date: 2026-02-02
+date: 2026-01-09
 excerpt: "Explore Hallyu 4.0: The future of the Korean Wave in 2026, from immersive tech and sustainable travel to K-wellness and regional experiences."
 category: K-Culture
 author: Korea Experience Team

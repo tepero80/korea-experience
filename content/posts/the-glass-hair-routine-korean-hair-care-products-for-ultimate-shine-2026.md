@@ -1,6 +1,6 @@
----
+﻿---
 title: "Glass Hair Routine: Korean Products for Ultimate Shine 2026"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Unlock ultimate shine with the 2026 Korean Glass Hair Routine. Discover top K-beauty products, step-by-step guides, and shopping tips for glossy, healthy hair."
 category: Shopping & K-Beauty
 author: Korea Experience Team

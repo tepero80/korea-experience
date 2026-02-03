@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Temple Stay: Complete Guide for Travelers"
-date: 2026-02-01
+date: 2026-01-20
 excerpt: "Unlock inner peace and explore Korean Buddhist culture with our complete guide to Temple Stay experiences in Korea. Plan your spiritual journey today."
 category: Travel & Tourism
 author: Korea Experience Team

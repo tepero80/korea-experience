@@ -1,6 +1,6 @@
----
+﻿---
 title: "Moving to Korea Checklist Everything You Need 2026"
-date: 2026-02-01
+date: 2026-01-25
 excerpt: "Your essential guide to moving to Korea in 2026. This comprehensive checklist covers visas, housing, daily life, and more for a smooth relocation."
 category: Living in Korea
 author: Korea Experience Team

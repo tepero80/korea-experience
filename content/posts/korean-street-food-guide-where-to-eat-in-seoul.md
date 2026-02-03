@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Street Food Guide Where to Eat in Seoul"
-date: 2026-02-01
+date: 2026-01-20
 excerpt: "Explore Seoul's vibrant street food scene from tteokbokki to hotteok. Discover the best spots, essential dishes, and tips for an unforgettable culinary journey."
 category: Travel & Tourism
 author: Korea Experience Team

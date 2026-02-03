@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea's Holistic Wellness Retreats: Medical & Zen 2026"
-date: 2026-02-02
+date: 2026-01-10
 excerpt: "Discover Korea's cutting-edge holistic wellness retreats in 2026, seamlessly blending advanced medical care with serene Zen practices for ultimate rejuvenation."
 category: Medical Tourism
 author: Korea Experience Team

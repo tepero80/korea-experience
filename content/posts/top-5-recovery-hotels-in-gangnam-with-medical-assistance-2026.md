@@ -1,4 +1,4 @@
----
+﻿---
 title: "Top 5 Recovery Hotels in Gangnam with Medical Assistance 2026"
 date: 2026-02-02
 excerpt: "Discover Gangnam's premier recovery hotels offering medical assistance for post-procedure comfort. Plan your luxurious, supported healing journey."

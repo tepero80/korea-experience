@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Drinking Culture: Soju, Makgeolli & Pocha Guide 2026"
-date: 2026-02-02
+date: 2026-01-15
 excerpt: "Unlock Korea's vibrant drinking culture with our 2026 guide to Soju, Makgeolli, essential etiquette, delicious Anju, and the best Pocha experiences."
 category: Food & Dining
 author: Korea Experience Team

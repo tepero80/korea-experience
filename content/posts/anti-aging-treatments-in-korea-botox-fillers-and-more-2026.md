@@ -1,6 +1,6 @@
----
+﻿---
 title: "Anti-Aging Treatments in Korea Botox Fillers & More 2026"
-date: 2026-02-02
+date: 2026-01-01
 excerpt: "Discover Korea's advanced anti-aging treatments for 2026, including Botox, fillers, and innovative procedures. Your guide to rejuvenation."
 category: Medical Tourism
 author: Korea Experience Team

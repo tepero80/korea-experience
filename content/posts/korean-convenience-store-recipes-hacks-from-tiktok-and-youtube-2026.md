@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Convenience Store Recipes Hacks from TikTok & YouTube 2026"
-date: 2026-02-02
+date: 2026-01-14
 excerpt: "Unlock the secrets to gourmet meals on a budget with the latest Korean convenience store recipes and viral hacks from TikTok and YouTube in 2026."
 category: Food & Dining
 author: Korea Experience Team

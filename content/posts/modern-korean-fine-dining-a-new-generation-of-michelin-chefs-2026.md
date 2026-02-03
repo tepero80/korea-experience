@@ -1,6 +1,6 @@
----
+﻿---
 title: "Modern Korean Fine Dining A New Generation of Michelin Chefs 2026"
-date: 2026-02-02
+date: 2026-01-25
 excerpt: "Explore Korea's evolving fine dining scene in 2026, meeting the visionary Michelin-starred chefs redefining modern Korean cuisine for global palates."
 category: Food & Dining
 author: Korea Experience Team

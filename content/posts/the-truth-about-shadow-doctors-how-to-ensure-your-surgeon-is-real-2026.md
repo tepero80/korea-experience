@@ -1,6 +1,6 @@
----
+﻿---
 title: "The Truth About Shadow Doctors How to Ensure Your Surgeon is Real 2026"
-date: 2026-02-02
+date: 2026-02-01
 excerpt: "Uncover the truth about 'shadow doctors' in Korea's medical tourism. Learn vital steps to verify your surgeon's identity and ensure a safe, legitimate procedure in 2026."
 category: Medical Tourism
 author: Korea Experience Team

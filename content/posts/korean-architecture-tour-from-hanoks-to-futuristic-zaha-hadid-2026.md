@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Architecture Tour 2026 Hanoks to Zaha Hadid"
-date: 2026-02-02
+date: 2026-01-13
 excerpt: "Embark on an epic Korean architecture tour in 2026, exploring ancient Hanoks, grand palaces, colonial gems, and futuristic Zaha Hadid designs across South Korea."
 category: Travel & Tourism
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Best Dermatology Clinics in Seoul for Foreigners"
-date: 2026-02-01
+date: 2026-01-02
 excerpt: "Discover Seoul's top dermatology clinics for international visitors. Expert guide on services, prices, locations, and practical tips for your skin journey."
 category: Medical Tourism
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul Shopping Guide: Myeongdong to Gangnam's Best"
-date: 2026-02-01
+date: 2026-01-29
 excerpt: "Explore Seoul's vibrant shopping scene from the K-Beauty hubs of Myeongdong to Gangnam's luxury boutiques and everything in between. Discover fashion, food, and culture."
 category: Travel & Tourism
 author: Korea Experience Team

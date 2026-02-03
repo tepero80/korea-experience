@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Funeral Traditions Death & Remembrance 2026"
-date: 2026-02-02
+date: 2026-01-16
 excerpt: "Explore Korean funeral traditions, from ancient rites to modern practices. Learn about remembrance, costs, customs, and how death is honored in Korea for international audiences."
 category: K-Culture
 author: Korea Experience Team

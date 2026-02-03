@@ -1,6 +1,6 @@
----
+﻿---
 title: "Vegan & Vegetarian Korean Food Guide 2026"
-date: 2026-02-01
+date: 2026-02-03
 excerpt: "Unlock Korea's vibrant plant-based culinary scene with this essential 2026 guide for vegan and vegetarian travelers and expats."
 category: Food & Dining
 author: Korea Experience Team

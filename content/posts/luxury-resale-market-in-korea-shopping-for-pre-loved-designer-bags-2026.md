@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea's Luxury Resale Market Pre-loved Designer Bags 2026"
-date: 2026-02-02
+date: 2026-01-23
 excerpt: "Explore Korea's thriving luxury resale market for pre-loved designer bags in 2026. Discover top stores, online platforms, and authentication secrets."
 category: Shopping & K-Beauty
 author: Korea Experience Team

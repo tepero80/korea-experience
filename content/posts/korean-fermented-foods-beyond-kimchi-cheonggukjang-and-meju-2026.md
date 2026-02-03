@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Fermented Foods Beyond Kimchi 2026"
-date: 2026-02-02
+date: 2026-01-16
 excerpt: "Uncover the hidden depths of Korean fermented foods beyond the usual suspects. Explore unique flavors, health benefits, and where to find these culinary treasures in 2026."
 category: Food & Dining
 author: Korea Experience Team

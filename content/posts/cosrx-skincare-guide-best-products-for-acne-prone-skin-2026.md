@@ -1,6 +1,6 @@
----
+﻿---
 title: "COSRX Skincare Guide for Acne-Prone Skin 2026"
-date: 2026-02-02
+date: 2026-01-05
 excerpt: "Unlock the secrets to clear skin with our 2026 COSRX guide. Discover the best products and routines for acne-prone skin, tailored for K-Beauty enthusiasts."
 category: Shopping & K-Beauty
 author: Korea Experience Team

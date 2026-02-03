@@ -1,6 +1,6 @@
----
+﻿---
 title: "Busan Night Market Guide: Best Food & Shopping 2026"
-date: 2026-02-02
+date: 2026-01-04
 excerpt: "Discover Busan's vibrant night markets in 2026 for an unforgettable culinary and shopping adventure. Your essential guide to street food, unique finds, and local culture."
 category: Travel & Tourism
 author: Korea Experience Team

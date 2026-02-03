@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korea Traditional Market Street Food Tours 2026 Ultimate Guide"
-date: 2026-02-02
+date: 2026-01-07
 excerpt: "Discover the best traditional market street food tours in Korea for 2026. Savor authentic Korean flavors, explore vibrant markets, and get insider tips for your culinary adventure."
 category: Food & Dining
 author: Korea Experience Team

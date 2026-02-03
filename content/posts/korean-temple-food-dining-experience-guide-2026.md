@@ -1,6 +1,6 @@
----
+﻿---
 title: "Korean Temple Food Dining Experience Guide 2026"
-date: 2026-02-01
+date: 2026-01-20
 excerpt: "Discover the serene world of Korean temple food in 2026. This guide covers dining experiences, unique philosophy, and top spots for plant-based cuisine."
 category: Food & Dining
 author: Korea Experience Team

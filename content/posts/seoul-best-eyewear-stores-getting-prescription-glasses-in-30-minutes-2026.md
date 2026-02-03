@@ -1,6 +1,6 @@
----
+﻿---
 title: "Seoul Best Eyewear Stores Getting Prescription Glasses in 30 Minutes 2026"
-date: 2026-02-02
+date: 2026-01-28
 excerpt: "Discover Seoul's top eyewear stores where international visitors can get prescription glasses in under 30 minutes, blending efficiency with style and affordability."
 category: Shopping & K-Beauty
 author: Korea Experience Team

@@ -1,6 +1,6 @@
----
+﻿---
 title: "The Art of Somaek How to Make the Perfect Beer-Soju Mix"
-date: 2026-02-02
+date: 2026-01-31
 excerpt: "Master the iconic Korean Somaek beer and soju mix with our 2026 guide. Discover ratios, techniques, etiquette, and where to enjoy this social drink in Korea."
 category: Food & Dining
 author: Korea Experience Team
