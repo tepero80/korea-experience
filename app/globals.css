@@ -168,18 +168,6 @@ a {
   @apply rounded-lg shadow-md my-8;
 }
 
-.prose table {
-  @apply w-full my-8 border-collapse;
-}
-
-.prose th {
-  @apply bg-gray-100 px-4 py-3 text-left font-semibold border-b-2 border-gray-300;
-}
-
-.prose td {
-  @apply px-4 py-3 border-b border-gray-200;
-}
-
 /* Animation */
 @keyframes fadeIn {
   from {

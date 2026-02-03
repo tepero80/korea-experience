@@ -1,37 +1,14 @@
 import Link from 'next/link';
 import { SITE_CONFIG, ALL_TOOLS, BLOG_CATEGORIES } from '@/lib/constants';
-import { getAllPosts } from '@/lib/posts';
+import { getFeaturedPosts } from '@/lib/posts';
 
 export default function Home() {
   // Get top 6 featured tools
   const featuredTools = ALL_TOOLS.slice(0, 6);
   
-  // Get one latest post from each of the first 6 categories
-  const allPosts = getAllPosts();
-  const featuredPosts: any[] = [];
-  const displayCategories = [
-    'Medical Tourism',
-    'Travel Guide',
-    'Living in Korea',
-    'Food & Dining',
-    'K-Culture',
-    'Plastic Surgery'
-  ];
+  // Get featured posts (6 hand-picked articles)
+  const featuredPosts = getFeaturedPosts();
   
-  displayCategories.forEach(category => {
-    const categoryPost = allPosts.find(post => post.category === category);
-    if (categoryPost) {
-      featuredPosts.push(categoryPost);
-    }
-  });
-  
-  // Fill remaining slots if less than 6
-  if (featuredPosts.length < 6) {
-    const remainingPosts = allPosts
-      .filter(post => !featuredPosts.includes(post))
-      .slice(0, 6 - featuredPosts.length);
-    featuredPosts.push(...remainingPosts);
-  }
   return (
     <div className="pt-20"> {/* Padding for fixed header */}
       
@@ -234,8 +211,8 @@ export default function Home() {
           {/* Section Header */}
           <div className="text-center max-w-3xl mx-auto mb-16">
             <div className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-100 to-cyan-100 px-4 py-2 rounded-full mb-4">
-              <span className="text-2xl">📚</span>
-              <span className="text-sm font-semibold text-blue-700">Latest Articles</span>
+              <span className="text-2xl">⭐</span>
+              <span className="text-sm font-semibold text-blue-700">Editor's Picks</span>
             </div>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
               Featured Korea Guides

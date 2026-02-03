@@ -3,9 +3,14 @@ import Image from 'next/image';
 import Link from 'next/link';
 import rehypeHighlight from 'rehype-highlight';
 import rehypeSlug from 'rehype-slug';
-import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import remarkGfm from 'remark-gfm';
 import { TourCard } from './affiliate/TourCard';
+import ImageGallery from './mdx/ImageGallery';
+import PriceComparisonChart from './mdx/PriceComparisonChart';
+import Timeline from './mdx/Timeline';
+import InteractiveMap from './mdx/InteractiveMap';
+import BeforeAfter from './mdx/BeforeAfter';
+import ComparisonTable from './mdx/ComparisonTable';
 
 // Custom components for MDX
 const components = {
@@ -93,22 +98,6 @@ const components = {
     <pre className="bg-gray-900 text-gray-100 rounded-lg p-6 overflow-x-auto mb-6 text-sm" {...props} />
   ),
   
-  // Tables
-  table: (props: any) => (
-    <div className="overflow-x-auto mb-8">
-      <table className="min-w-full border-collapse" {...props} />
-    </div>
-  ),
-  thead: (props: any) => (
-    <thead className="bg-gray-100" {...props} />
-  ),
-  th: (props: any) => (
-    <th className="px-6 py-3 text-left text-sm font-semibold text-gray-900 border-b-2 border-gray-300" {...props} />
-  ),
-  td: (props: any) => (
-    <td className="px-6 py-4 text-gray-700 border-b border-gray-200" {...props} />
-  ),
-  
   // Images
   img: ({ src, alt, ...props }: any) => (
     <div className="my-8">
@@ -139,8 +128,39 @@ const components = {
     <em className="italic" {...props} />
   ),
 
+  // Tables - Complete styling
+  table: (props: any) => (
+    <div className="my-8 overflow-x-auto">
+      <table className="w-full border-collapse bg-white shadow-lg rounded-lg overflow-hidden border-2 border-gray-300" {...props} />
+    </div>
+  ),
+  
+  thead: (props: any) => (
+    <thead className="bg-gradient-to-r from-blue-800 to-blue-600" {...props} />
+  ),
+  
+  th: (props: any) => (
+    <th className="text-white font-bold px-6 py-4 text-left text-sm uppercase tracking-wide" {...props} />
+  ),
+  
+  td: (props: any) => (
+    <td className="px-6 py-4 text-sm text-gray-700 border-b border-gray-200" {...props} />
+  ),
+  
+  tr: (props: any) => (
+    <tr className="even:bg-gray-50 hover:bg-blue-50 transition-colors" {...props} />
+  ),
+
   // Affiliate Components
   TourCard: TourCard,
+  
+  // MDX Visual Components
+  ImageGallery: ImageGallery,
+  PriceComparisonChart: PriceComparisonChart,
+  Timeline: Timeline,
+  InteractiveMap: InteractiveMap,
+  BeforeAfter: BeforeAfter,
+  ComparisonTable: ComparisonTable,
 };
 
 interface MDXContentProps {
@@ -159,7 +179,6 @@ export default async function MDXContent({ source }: MDXContentProps) {
             rehypePlugins: [
               rehypeHighlight,
               rehypeSlug,
-              [rehypeAutolinkHeadings, { behavior: 'wrap' }],
             ],
           },
         }}

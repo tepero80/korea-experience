@@ -13,6 +13,8 @@ export interface Post {
   content: string;
   image?: string;
   author?: string;
+  featured?: boolean;
+  featuredOrder?: number;
 }
 
 export interface PostMetadata {
@@ -23,6 +25,8 @@ export interface PostMetadata {
   category: string;
   image?: string;
   author?: string;
+  featured?: boolean;
+  featuredOrder?: number;
 }
 
 // Get all blog posts
@@ -50,6 +54,8 @@ export function getAllPosts(): PostMetadata[] {
           category: data.category || 'Uncategorized',
           image: data.image,
           author: data.author,
+          featured: data.featured || false,
+          featuredOrder: data.featuredOrder,
         };
       });
 
@@ -82,6 +88,8 @@ export function getPostBySlug(slug: string): Post | null {
       content,
       image: data.image,
       author: data.author,
+      featured: data.featured || false,
+      featuredOrder: data.featuredOrder,
     };
   } catch (error) {
     console.error(`Error reading post ${slug}:`, error);
@@ -107,10 +115,35 @@ export function getRelatedPosts(currentSlug: string, category: string, limit: nu
   const allPosts = getAllPosts();
   
   // Filter: same category, not current post
-  const relatedPosts = allPosts.filter(
+  const sameCategoryPosts = allPosts.filter(
     (post) => post.category === category && post.slug !== currentSlug
   );
   
+  // Shuffle array to get random posts
+  const shuffled = sameCategoryPosts.sort(() => Math.random() - 0.5);
+  
+  // If not enough posts in same category, add random posts from other categories
+  if (shuffled.length < limit) {
+    const otherPosts = allPosts
+      .filter((post) => post.category !== category && post.slug !== currentSlug)
+      .sort(() => Math.random() - 0.5);
+    
+    return [...shuffled, ...otherPosts].slice(0, limit);
+  }
+  
   // Return limited number of posts
-  return relatedPosts.slice(0, limit);
+  return shuffled.slice(0, limit);
+}
+
+// Get featured posts for homepage
+export function getFeaturedPosts(): PostMetadata[] {
+  const allPosts = getAllPosts();
+  
+  // Filter featured posts and sort by featuredOrder
+  const featuredPosts = allPosts
+    .filter((post) => post.featured === true)
+    .sort((a, b) => (a.featuredOrder || 999) - (b.featuredOrder || 999));
+  
+  // Return up to 6 featured posts
+  return featuredPosts.slice(0, 6);
 }

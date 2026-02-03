@@ -4,11 +4,59 @@ date: 2026-01-13
 excerpt: "Explore iconic K-Drama filming locations across Korea. Discover Seoul's romantic spots, Jeju's scenic beauty, and Gyeonggi's diverse sets. Plan your ultimate K-Drama tour."
 category: K-Culture & Entertainment
 author: Korea Experience Team
+featured: true
+featuredOrder: 5
 ---
 
 For fans across the globe, the allure of K-Dramas extends far beyond compelling storylines and captivating characters. It's the breathtaking backdrops, the charming cafes, the bustling cityscapes, and the serene natural wonders that truly bring these narratives to life. Imagine walking the same streets as your favorite lead, standing where pivotal scenes unfolded, or simply soaking in the atmosphere of a beloved K-Drama set. This dream is entirely achievable, and this guide will take you on an unforgettable journey through Korea's most beloved K-Drama filming locations that you can actually visit.
 
 From the vibrant heart of Seoul to the tranquil shores of Jeju Island and the historical landscapes of Gyeonggi Province, Korea offers a treasure trove of identifiable K-Drama filming locations. We'll delve into specific sites, reveal insider tips for visiting, and help you craft an itinerary that brings your favorite on-screen moments to tangible reality. Get ready to step into the magical world of K-Dramas, experience the beauty of Korea firsthand, and create your own unforgettable memories.
+
+**Top K-Drama Filming Locations:**
+
+<Timeline 
+  items={[
+    {
+      time: "Seoul Central",
+      title: "Namsan Tower 🗼",
+      description: "Boys Over Flowers, My Love From the Star - Romantic love locks & panoramic views (₩11,000)"
+    },
+    {
+      time: "Seoul North",
+      title: "Bukchon Hanok 🏯",
+      description: "Goblin, Personal Taste - Traditional hanok houses, Line 3 Anguk (Free)"
+    },
+    {
+      time: "Seoul East",
+      title: "Dongdaemun DDP 🎨",
+      description: "She Was Pretty - Futuristic architecture, LED rose garden (Free)"
+    },
+    {
+      time: "Gyeonggi",
+      title: "Petite France 🇫🇷",
+      description: "Secret Garden, My Love From the Star - French village, 60min from Seoul (₩10,000)"
+    },
+    {
+      time: "Gyeonggi",
+      title: "Nami Island 🍂",
+      description: "Winter Sonata - Iconic tree-lined paths, ferry from Gapyeong (₩16,000)"
+    },
+    {
+      time: "Jeju Island",
+      title: "Hyeopjae Beach 🏖️",
+      description: "My Name is Kim Sam-soon - White sand beach, turquoise waters (Free)"
+    }
+  ]}
+/>
+
+| Location | Famous Dramas | How to Get There | Entry Fee |
+|:---------|:--------------|:-----------------|:----------|
+| **Namsan Tower** (Seoul) | Boys Over Flowers, My Love From the Star | Line 4 Myeongdong → Cable car | ₩11,000 |
+| **Bukchon Hanok** (Seoul) | Goblin, Personal Taste | Line 3 Anguk Exit 2 | Free |
+| **DDP** (Seoul) | She Was Pretty | Line 2/4/5 Dongdaemun | Free |
+| **Petite France** (Gyeonggi) | Secret Garden | Bus from Seoul (60min) | ₩10,000 |
+| **Nami Island** (Gyeonggi) | Winter Sonata | Ferry from Gapyeong | ₩16,000 |
+| **Hyeopjae Beach** (Jeju) | My Name is Kim Sam-soon | Bus from Jeju City | Free |
 
 ## Seoul's Iconic K-Drama Filming Locations
 
