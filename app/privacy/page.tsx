@@ -70,11 +70,74 @@ export default function PrivacyPage() {
         </section>
 
         <section>
-          <h2 className="text-2xl font-semibold mb-4">5. Affiliate Links</h2>
+          <h2 className="text-2xl font-semibold mb-4">5. Affiliate Links & Monetization Disclosure</h2>
           <p>
-            Korea Experience contains affiliate links to third-party websites such as Booking.com, Klook, 
-            and Amazon. When you click on these links and make a purchase, we may earn a commission at no 
-            additional cost to you. We only recommend products and services we believe will add value to our readers.
+            <strong>Important Disclosure:</strong> Korea Experience participates in various affiliate marketing 
+            programs and monetization methods to support the free content we provide. This means we earn 
+            commissions when you click on certain links and make purchases, at no additional cost to you.
+          </p>
+          
+          <h3 className="text-xl font-semibold mt-6 mb-3">5.1 Affiliate Programs We Participate In</h3>
+          <ul className="list-disc pl-6 space-y-2 mt-4">
+            <li>
+              <strong>Klook Affiliate Program:</strong> We earn commissions when you book tours, activities, 
+              or experiences through our Klook affiliate links (Affiliate ID: 110604). Our tour cards and 
+              travel recommendations may include Klook affiliate links.
+            </li>
+            <li>
+              <strong>Booking.com Affiliate Program:</strong> We may earn commissions when you book 
+              accommodations through our Booking.com affiliate links (pending approval).
+            </li>
+            <li>
+              <strong>Future Partners:</strong> We may add other reputable travel and e-commerce affiliate 
+              programs (such as Agoda, Viator, Amazon Associates) as our content expands.
+            </li>
+          </ul>
+
+          <h3 className="text-xl font-semibold mt-6 mb-3">5.2 Google AdSense</h3>
+          <p>
+            We display advertisements through Google AdSense (Publisher ID: ca-pub-7793293419727384). 
+            These ads are personalized based on your browsing behavior across websites. Google may use 
+            cookies and other tracking technologies to serve relevant ads. You can opt out of personalized 
+            advertising by visiting <a href="https://www.google.com/settings/ads" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Google Ads Settings</a>.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-6 mb-3">5.3 Our Editorial Independence</h3>
+          <p>
+            While we earn commissions from affiliate links and ad revenue, our editorial content remains 
+            independent and unbiased. We only recommend products, services, tours, and accommodations that:
+          </p>
+          <ul className="list-disc pl-6 space-y-2 mt-4">
+            <li>We genuinely believe will provide value to our readers</li>
+            <li>Are relevant to experiencing Korea as a traveler or expat</li>
+            <li>Meet our quality standards based on reviews and research</li>
+            <li>Align with our mission to help foreigners navigate Korean culture and travel</li>
+          </ul>
+
+          <h3 className="text-xl font-semibold mt-6 mb-3">5.4 Transparency & FTC Compliance</h3>
+          <p>
+            In compliance with the Federal Trade Commission (FTC) guidelines and Korean advertising laws, 
+            we clearly disclose affiliate relationships:
+          </p>
+          <ul className="list-disc pl-6 space-y-2 mt-4">
+            <li>Affiliate links are marked with visible disclaimers (e.g., "This is an affiliate link")</li>
+            <li>Tour cards and hotel recommendations include affiliate disclosure text</li>
+            <li>Blog posts containing affiliate content include disclosure notices</li>
+            <li>Prices shown are accurate at the time of publication but may change</li>
+          </ul>
+
+          <h3 className="text-xl font-semibold mt-6 mb-3">5.5 No Additional Cost to You</h3>
+          <p>
+            <strong>Important:</strong> Using our affiliate links does NOT increase the price you pay. 
+            In many cases, we may even have access to exclusive deals or promo codes that save you money. 
+            The commission we earn comes from the merchant, not from you.
+          </p>
+
+          <h3 className="text-xl font-semibold mt-6 mb-3">5.6 Data Collection by Affiliate Partners</h3>
+          <p>
+            When you click on affiliate links, our partner websites (Klook, Booking.com, etc.) may collect 
+            information about your visit and purchase. This data collection is governed by their respective 
+            privacy policies, which we encourage you to review.
           </p>
         </section>
 
