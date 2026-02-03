@@ -11,6 +11,7 @@ import Timeline from './mdx/Timeline';
 import InteractiveMap from './mdx/InteractiveMap';
 import BeforeAfter from './mdx/BeforeAfter';
 import ComparisonTable from './mdx/ComparisonTable';
+import ResponsiveTable from './mdx/ResponsiveTable';
 
 // Custom components for MDX
 const components = {
@@ -130,9 +131,7 @@ const components = {
 
   // Tables - Complete styling
   table: (props: any) => (
-    <div className="my-8 overflow-x-auto">
-      <table className="w-full border-collapse bg-white shadow-lg rounded-lg overflow-hidden border-2 border-gray-300" {...props} />
-    </div>
+    <ResponsiveTable {...props} />
   ),
   
   thead: (props: any) => (
