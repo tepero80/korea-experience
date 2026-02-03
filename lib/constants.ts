@@ -23,70 +23,6 @@ export const SITE_CONFIG = {
   ],
 };
 
-// Navigation Links
-export const NAV_LINKS = [
-  { href: '/', label: 'Home' },
-  { 
-    label: 'Tools',
-    hasDropdown: true,
-    items: [
-      {
-        category: 'Discover Yourself',
-        icon: '🎯',
-        tools: [
-          { href: '/tools/korean-name', label: 'Korean Name Generator', status: 'active' },
-          { href: '/tools/korea-job-quiz', label: 'What Would Your Job Be in Korea?', status: 'active' },
-          { href: '/tools/korean-city-quiz', label: 'Which Korean City Should You Live In?', status: 'active' },
-          { href: '/tools/korean-food-quiz', label: 'What Korean Food Matches You?', status: 'active' },
-          { href: '/tools/kdrama-character', label: 'Which K-Drama Character Are You?', status: 'active' },
-        ]
-      },
-      {
-        category: 'Love & Relationships',
-        icon: '💕',
-        tools: [
-          { href: '/tools/love-compatibility', label: 'Korean Love Compatibility', status: 'active' },
-          { href: '/tools/ideal-korean-partner', label: 'Your Ideal Korean Partner Type', status: 'active' },
-          { href: '/tools/kdrama-romance-trope', label: 'Your K-Drama Romance Trope', status: 'active' },
-          { href: '/tools/couple-name', label: 'Korean Couple Name Combiner', status: 'active' },
-        ]
-      },
-      {
-        category: 'Fun & Entertainment',
-        icon: '🎮',
-        tools: [
-          { href: '/tools/kpop-stage-name', label: 'K-Pop Stage Name Generator', status: 'active' },
-          { href: '/tools/korean-typing-test', label: 'Korean Typing Speed Test', status: 'active' },
-          { href: '/tools/korean-zodiac-fortune', label: 'Korean Zodiac Fortune Today', status: 'active' },
-          { href: '/tools/emoji-name', label: 'Your Korean Emoji Name', status: 'active' },
-          { href: '/tools/guess-korean-food', label: 'Guess the Korean Food Photo', status: 'active' },
-        ]
-      },
-      {
-        category: 'Plan Your Korea Trip',
-        icon: '✈️',
-        tools: [
-          { href: '/tools/korean-age', label: 'Korean Age Calculator', status: 'active' },
-          { href: '/tools/trip-budget', label: 'Korea Trip Budget Calculator', status: 'active' },
-          { href: '/tools/medical-cost-estimator', label: 'Medical Tourism Cost Estimator', status: 'active' },
-        ]
-      },
-      {
-        category: 'Life in Korea',
-        icon: '🏢',
-        tools: [
-          { href: '/tools/business-name', label: 'Korean Business Name Generator', status: 'active' },
-          { href: '/tools/military-service', label: 'Korean Military Service Calculator', status: 'active' },
-          { href: '/tools/korean-beauty-quiz', label: 'Korean Beauty Routine Quiz', status: 'active' },
-        ]
-      }
-    ]
-  },
-  { href: '/blog', label: 'Blog' },
-  { href: '/about', label: 'About' },
-  { href: '/contact', label: 'Contact' },
-];
-
 // All Interactive Tools List (for /tools page)
 export const ALL_TOOLS = [
   // Discover Yourself
@@ -119,6 +55,47 @@ export const ALL_TOOLS = [
   { id: 18, href: '/tools/business-name', title: 'Korean Business Name Generator', category: 'Life in Korea', difficulty: '⭐⭐', viral: 65, description: 'Create the perfect business name', icon: '🏢', status: 'active' },
   { id: 19, href: '/tools/korean-beauty-quiz', title: 'Korean Beauty Routine Quiz', category: 'Life in Korea', difficulty: '⭐⭐', viral: 78, description: 'Get personalized K-Beauty routine', icon: '💄', status: 'active' },
   { id: 20, href: '/tools/military-service', title: 'Korean Military Service Calculator', category: 'Life in Korea', difficulty: '⭐⭐', viral: 60, description: 'Calculate military service dates', icon: '🪖', status: 'active' },
+];
+
+// Category Icons Mapping
+const CATEGORY_ICONS: Record<string, string> = {
+  'Discover Yourself': '🎯',
+  'Love & Relationships': '💕',
+  'Fun & Entertainment': '🎮',
+  'Plan Your Korea Trip': '✈️',
+  'Life in Korea': '🏢',
+};
+
+// Auto-generate navigation tools from ALL_TOOLS
+const generateNavTools = () => {
+  const categories = Object.keys(CATEGORY_ICONS);
+  
+  return categories.map(category => ({
+    category,
+    icon: CATEGORY_ICONS[category],
+    tools: ALL_TOOLS
+      .filter(t => t.category === category && t.status === 'active')
+      .sort((a, b) => b.viral - a.viral) // Sort by viral score
+      .slice(0, 5) // Max 5 tools per category in header
+      .map(t => ({
+        href: t.href,
+        label: t.title,
+        status: t.status
+      }))
+  }));
+};
+
+// Navigation Links
+export const NAV_LINKS = [
+  { href: '/', label: 'Home' },
+  { 
+    label: 'Tools',
+    hasDropdown: true,
+    items: generateNavTools()
+  },
+  { href: '/blog', label: 'Blog' },
+  { href: '/about', label: 'About' },
+  { href: '/contact', label: 'Contact' },
 ];
 
 // Footer Links

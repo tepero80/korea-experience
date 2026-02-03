@@ -59,7 +59,7 @@ export function GeneratorResult({
 
       {variations && variations.length > 0 && (
         <div className="mt-6">
-          <h3 className="text-xl font-bold text-gray-800 mb-4">다른 옵션</h3>
+          <h3 className="text-xl font-bold text-gray-800 mb-4">Other Options</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {variations.map((v, idx) => (
               <div 
@@ -74,33 +74,40 @@ export function GeneratorResult({
         </div>
       )}
 
-      <div className="mt-8 space-y-4">
+      {/* 개별 영역: 툴별 특화 액션 */}
+      {onRegenerate && (
+        <div className="mt-8">
+          <button 
+            onClick={onRegenerate}
+            className="w-full px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 text-white rounded-lg font-semibold hover:from-purple-700 hover:to-pink-700 transition-all shadow-md"
+          >
+            🔄 Regenerate
+          </button>
+        </div>
+      )}
+
+      {/* 구분선 */}
+      <div className="mt-8 mb-6 border-t border-gray-200"></div>
+
+      {/* 공통 영역: SNS 공유 + 기본 액션 */}
+      <div className="space-y-4">
         <ShareButtons {...shareConfig} />
         
         <div className="flex flex-wrap gap-3 justify-center">
           {onDownload && (
             <button 
               onClick={onDownload}
-              className="btn-download"
+              className="px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 text-white rounded-lg font-semibold hover:from-purple-700 hover:to-pink-700 transition-all shadow-md"
             >
-              이미지 다운로드
-            </button>
-          )}
-          
-          {onRegenerate && (
-            <button 
-              onClick={onRegenerate}
-              className="btn-secondary"
-            >
-              다시 생성
+              💾 Download Image
             </button>
           )}
           
           <button 
             onClick={onReset}
-            className="btn-reset"
+            className="px-6 py-3 border-2 border-gray-300 text-gray-700 rounded-lg font-semibold hover:bg-gray-50 transition-all"
           >
-            처음으로
+            🔙 Start Over
           </button>
         </div>
       </div>
