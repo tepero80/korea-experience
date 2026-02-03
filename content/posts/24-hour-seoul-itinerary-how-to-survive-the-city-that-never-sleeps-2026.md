@@ -148,42 +148,16 @@ A short subway ride from Myeongdong (or a brisk walk), the [Dongdaemun Design Pl
 
 ### Comparison Table: Transportation Options in Seoul
 
-<ComparisonTable 
-  title="Subway vs Taxi: Which is Better?"
-  headers={["Feature", "🚇 Subway", "🚕 Taxi"]}
-  rows={[
-    { 
-      feature: "Cost", 
-      option1: "₩1,250-2,000 per ride", 
-      option2: "₩4,800+ (increases)" 
-    },
-    { 
-      feature: "Efficiency", 
-      option1: "Excellent - avoids traffic", 
-      option2: "Depends on traffic" 
-    },
-    { 
-      feature: "Comfort", 
-      option1: "Clean, can be crowded", 
-      option2: "Private, comfortable" 
-    },
-    { 
-      feature: "Availability", 
-      option1: "5:30 AM - 12:00 AM", 
-      option2: "24/7" 
-    },
-    { 
-      feature: "Ease of Use", 
-      option1: "Easy with T-Money & apps", 
-      option2: "Apps or hailing" 
-    },
-    { 
-      feature: "Best For", 
-      option1: "Quick & cheap to most places", 
-      option2: "Late-night, short trips" 
-    }
-  ]}
-/>
+#### Subway vs Taxi: Which is Better?
+
+| Feature | 🚇 Subway | 🚕 Taxi |
+| :------ | :-------- | :------ |
+| Cost | ₩1,250-2,000 per ride | ₩4,800+ (increases) |
+| Efficiency | Excellent - avoids traffic | Depends on traffic |
+| Comfort | Clean, can be crowded | Private, comfortable |
+| Availability | 5:30 AM - 12:00 AM | 24/7 |
+| Ease of Use | Easy with T-Money & apps | Apps or hailing |
+| Best For | Quick & cheap to most places | Late-night, short trips |
 
 *   **Practical Tip:** Purchase a T-Money card upon arrival at any convenience store (GS25, CU, 7-Eleven) or subway station. Load it with funds. It's essential for seamless travel on subways, buses, and even some taxis, and offers transfer discounts.
 
