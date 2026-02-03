@@ -95,6 +95,7 @@ export const ALL_TOOLS = [
   { id: 3, href: '/tools/korean-city-quiz', title: 'Which Korean City Should You Live In?', category: 'Discover Yourself', difficulty: '⭐⭐', viral: 85, description: 'Find your perfect Korean city match', icon: '🏙️', status: 'active' },
   { id: 4, href: '/tools/korean-food-quiz', title: 'What Korean Food Matches You?', category: 'Discover Yourself', difficulty: '⭐⭐', viral: 82, description: 'Find your Korean food soulmate', icon: '🍜', status: 'active' },
   { id: 5, href: '/tools/kdrama-character', title: 'Which K-Drama Character Are You?', category: 'Discover Yourself', difficulty: '⭐⭐', viral: 90, description: 'Find your K-Drama character match', icon: '🎭', status: 'active' },
+  { id: 21, href: '/tools/korean-nickname', title: 'Korean Nickname Generator', category: 'Discover Yourself', difficulty: '⭐', viral: 88, description: 'Generate cute, cool, or unique Korean nicknames', icon: '✨', status: 'active' },
   
   // Love & Relationships
   { id: 6, href: '/tools/love-compatibility', title: 'Korean Love Compatibility', category: 'Love & Relationships', difficulty: '⭐⭐', viral: 92, description: 'Check your love compatibility', icon: '💕', status: 'active' },

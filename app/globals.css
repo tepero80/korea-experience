@@ -373,3 +373,100 @@ code.hljs {
 .scrollbar-hide::-webkit-scrollbar {
   display: none;  /* Chrome, Safari and Opera */
 }
+
+/* ============================================
+   Tool Components - Common Styles
+   ============================================ */
+
+/* Result Card */
+.result-card {
+  @apply bg-white rounded-2xl p-8 shadow-lg;
+}
+
+.result-header {
+  @apply text-center mb-6;
+}
+
+.result-description {
+  @apply text-lg text-gray-700 mb-6 leading-relaxed;
+}
+
+/* Share Buttons */
+.share-btn {
+  @apply px-4 py-2 rounded-lg font-medium transition-all duration-200 
+         flex items-center gap-2 hover:scale-105 hover:shadow-md;
+}
+
+.share-btn-twitter {
+  @apply bg-[#1DA1F2] text-white hover:bg-[#1a8cd8];
+}
+
+.share-btn-facebook {
+  @apply bg-[#4267B2] text-white hover:bg-[#365899];
+}
+
+.share-btn-instagram {
+  @apply bg-gradient-to-br from-purple-600 to-pink-600 text-white;
+}
+
+.share-btn-threads {
+  @apply bg-black text-white hover:bg-gray-800;
+}
+
+.share-btn-copy {
+  @apply bg-gray-200 text-gray-800 hover:bg-gray-300;
+}
+
+/* Action Buttons */
+.btn-download {
+  @apply px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 
+         text-white rounded-lg font-semibold hover:from-purple-700 
+         hover:to-pink-700 transition-all duration-200 hover:scale-105;
+}
+
+.btn-reset {
+  @apply px-6 py-3 bg-white border-2 border-purple-600 text-purple-600 
+         rounded-lg font-semibold hover:bg-purple-50 transition-all;
+}
+
+.btn-secondary {
+  @apply px-6 py-3 bg-gray-200 text-gray-800 rounded-lg font-semibold 
+         hover:bg-gray-300 transition-all;
+}
+
+/* Progress Bar */
+.progress-container {
+  @apply mb-6;
+}
+
+.progress-info {
+  @apply flex justify-between mb-2 text-sm font-medium text-gray-700;
+}
+
+.progress-bar-bg {
+  @apply w-full h-3 bg-gray-200 rounded-full overflow-hidden;
+}
+
+.progress-bar-fill {
+  @apply h-full bg-purple-600 transition-all duration-300;
+}
+
+.progress-bar-fill.bg-gradient {
+  @apply bg-gradient-to-r from-purple-600 to-pink-600;
+}
+
+/* Toast Animations */
+@keyframes slide-in-right {
+  from {
+    transform: translateX(100%);
+    opacity: 0;
+  }
+  to {
+    transform: translateX(0);
+    opacity: 1;
+  }
+}
+
+.animate-slide-in-right {
+  animation: slide-in-right 0.3s ease-out;
+}
