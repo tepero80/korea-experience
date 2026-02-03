@@ -226,7 +226,16 @@ google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
 
 ## 🤝 Affiliate 마케팅 전략
 
-### 추천 Affiliate 프로그램 (한국 여행/의료 관련)
+### 🎯 핵심 전략: 2개 집중 접근법
+
+**초기에는 2개만 집중 관리하여 빠른 수익 실현!**
+
+- ✅ 관리 시간 절약 (2개 대시보드 vs 5개)
+- ✅ 최소 지급액 빠르게 도달
+- ✅ A/B 테스트 및 최적화 집중 가능
+- ✅ 전환율 데이터 빠르게 수집
+
+### 추천 Affiliate 프로그램 (Phase 1: 핵심 2개)
 
 #### 1. **Booking.com Affiliate** ⭐⭐⭐⭐⭐
 
@@ -285,41 +294,71 @@ google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
 **예상 수익**
 - 월 20개 예약 x $80 x 7% = $112/월
 
-#### 3. **Amazon Associates** ⭐⭐⭐
+---
 
-**왜 좋은가?**
-- ✅ 전 세계 최대 이커머스
-- ✅ 한국 관련 상품 풍부 (K-Beauty, 책, 전자제품)
-- ✅ 신뢰도 높음
+### 📊 Phase 1 수익 예측 (보수적)
+
+| 프로그램 | 월 전환 | 평균 금액 | 수수료 | 월 수익 |
+|---------|--------|----------|--------|---------||
+| Booking.com | 20건 | $150 | 25% | $750 |
+| Klook | 15건 | $80 | 7% | $84 |
+| **총계** | - | - | - | **$834** |
+
+**달성 조건**: 일 300-500 방문자, 전환율 2-3%
+
+**왜 2개만?**
+- ✅ Booking.com $50 최소 지급 → 첫 달 달성 가능
+- ✅ Klook $20 최소 지급 → 첫 달 달성 확실
+- ✅ 5개 분산 시 → 몇 달간 지급 불가 (최소액 미달)
+- ✅ 관리 시간 80% 절약 → 콘텐츠 작성 집중
+
+---
+
+### 📈 Phase 2: 확장 프로그램 (3-6개월 후 고려)
+
+**추가 조건**: Booking.com이 **월 $200 이상** 달성 시에만 고려
+
+#### 3. **Agoda Affiliate** ⭐⭐⭐ (아시아 특화)
+
+**왜 나중에?**
+- Booking.com과 80% 중복
+- 수수료 5배 낮음 (5% vs 25%)
+- 동일 호텔에 두 링크 = 사용자 혼란
+
+**추가 시점**:
+- Booking.com 월 $200+ 달성
+- 아시아 특화 글 10개 이상
+- 일 방문자 500명 이상
 
 **가입 방법**
-1. https://affiliate-program.amazon.com 접속
-2. "Join Now for Free" 클릭
-3. 계정 생성 (Amazon 계정 사용 가능)
-4. 사이트 정보: koreaexperience.com
-5. 사이트 설명: "Korea travel, beauty, and medical tourism guide"
-6. 트래픽 정보: 월 1,000+ 페이지뷰 (예상)
-7. 승인 대기 (즉시 승인, 180일 내 3건 판매 필요)
+1. https://partners.agoda.com 접속
+2. "Join Now" 클릭
+3. 사이트 정보 입력
+4. 승인 대기 (3-7일)
 
 **수수료 구조**
-- K-Beauty 제품: 10%
-- 책: 4.5%
-- 건강/미용: 4-8%
+- 호텔 예약: 4-7%
+- 장기 체류: 5-8%
 
 **최적 활용 방법**
-- "Korean Beauty Routine Quiz" 결과에 추천 제품 링크
-- "K-Beauty Shopping Guide" 글에 Amazon 링크 추가 ✅
-- 블로그 사이드바에 "Recommended Products" 위젯
+- Booking.com 없는 호텔만 추가
+- 장기 체류 (1주일+) 콘텐츠
+- "Budget Hotels" 특화 글
 
-**예상 수익**
-- 월 15개 판매 x $30 x 8% = $36/월
+**예상 추가 수익**
+- 월 10개 예약 x $100 x 5% = $50/월
 
-#### 4. **Viator (TripAdvisor)** ⭐⭐⭐
+#### 4. **Viator (TripAdvisor)** ⭐⭐⭐ (영어권 고객용)
 
-**왜 좋은가?**
-- ✅ TripAdvisor 소유 (신뢰도 최상)
-- ✅ 수수료: 8-12%
-- ✅ 전 세계 투어 선택지
+**왜 나중에?**
+- Klook과 70% 중복
+- 영어권 고객 타겟 (한국 콘텐츠와 안 맞음)
+- 한국 투어 Klook이 더 많음
+
+**추가 시점**:
+- Klook 월 $100+ 달성
+- 영어권 트래픽 40% 이상
+- 유럽/미주 투어 콘텐츠 확장 시
 
 **가입 방법**
 1. https://www.viatoraffiliates.com 접속
@@ -327,15 +366,24 @@ google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
 3. Viator 프로그램 신청
 4. 승인 대기 (3-7일)
 
-**예상 수익**
+**수수료 구조**
+- 투어/액티비티: 8-12%
+- 평균 $100 투어 → $10 수익
+
+**예상 추가 수익**
 - 월 10개 투어 x $100 x 10% = $100/월
 
-#### 5. **Agoda Affiliate** ⭐⭐⭐
+#### 5. **Amazon Associates** ⭐⭐ (쇼핑 콘텐츠용)
 
-**왜 좋은가?**
-- ✅ 아시아 특화 숙박 플랫폼
-- ✅ 수수료: 4-7%
-- ✅ Booking.com 대체/보완
+**왜 나중에?**
+- 수수료 낮음 (4-10%)
+- 여행 콘텐츠와 관련성 낮음
+- K-Beauty는 전문 affiliate (YesStyle, Olive Young)가 더 나음
+
+**추가 시점**:
+- "Korean Shopping Guide" 카테고리 확장 시
+- 쇼핑 관련 글 20개 이상
+- K-Beauty Quiz 등 쇼핑 Tools 추가 후
 
 **가입 방법**
 1. https://partners.agoda.com 접속
@@ -657,8 +705,8 @@ google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
    ```tsx
    // components/Footer.tsx
    <p className="text-sm text-gray-500">
-     Korea Experience is a participant in various affiliate programs 
-     including Booking.com and Amazon Associates.
+     Korea Experience is a participant in the Booking.com and Klook 
+     affiliate programs.
    </p>
    ```
 
@@ -680,9 +728,8 @@ https://www.google.com/settings/ads
 ### Affiliate Links
 We participate in affiliate programs including:
 - Booking.com Affiliate Program
-- Amazon Associates Program
 - Klook Affiliate Program
-- Viator Affiliate Program
+- (Future: Agoda, Viator, Amazon Associates)
 
 When you click on affiliate links and make a purchase, we may earn a 
 commission at no extra cost to you. This helps us provide free content.
@@ -1412,11 +1459,10 @@ export default function RevenueDashboard() {
 - [ ] Quora 답변 5개
 - [ ] Pinterest 보드 생성 (20개 핀 업로드)
 
-**Day 3-4: Affiliate 가입**
-- [ ] Booking.com Affiliate 신청
-- [ ] Klook Affiliate 신청
-- [ ] Amazon Associates 신청
-- [ ] Viator Affiliate 신청 (CJ Affiliate)
+**Day 3-4: Affiliate 가입 (핵심 2개만!)** ✅
+- [x] Booking.com Affiliate 신청
+- [x] Klook Affiliate 신청
+- [ ] 나머지는 보류 (3-6개월 후 재평가)
 
 **Day 5-7: Affiliate 링크 삽입**
 - [ ] HotelCard 컴포넌트 생성
@@ -1457,10 +1503,11 @@ export default function RevenueDashboard() {
 - [ ] Affiliate 링크 50개 이상 확대
 - [ ] 수익 리포트 작성 (월별)
 
-### 3개월차: 확장 단계
+### 3개월차: Phase 2 확장 검토
 
-- [ ] 자동 광고 → 수동 광고 전환 (더 높은 수익)
-- [ ] 새로운 Affiliate 프로그램 추가
+- [ ] Booking.com + Klook 수익 분석 (월 $500+ 달성?)
+- [ ] Phase 2 프로그램 추가 검토 (Agoda, Viator, Amazon)
+- [ ] 자동 광고 → 수동 광고 전환 테스트
 - [ ] 계절성 콘텐츠 업데이트
 - [ ] 월 $300+ 수익 목표 달성
 
@@ -1523,13 +1570,15 @@ export default function RevenueDashboard() {
 - [ ] Microsoft Clarity로 광고 클릭률 분석
 - [ ] 저성과 광고 위치 조정
 
-### Affiliate 시작
+### Affiliate 시작 (Phase 1)
 
-- [ ] 4개 Affiliate 프로그램 가입 완료
+- [x] 2개 핵심 프로그램 가입 완료 (Booking.com + Klook)
 - [ ] HotelCard 컴포넌트 생성
+- [ ] TourCard 컴포넌트 생성 (Klook용)
 - [ ] 20+ 블로그 글에 링크 삽입
 - [ ] Privacy Policy에 Affiliate 공개 추가
 - [ ] Google Analytics 4 이벤트 추적 설정
+- [ ] 3개월 후 Phase 2 확장 재평가
 
 ### 수익 추적
 
