@@ -1,399 +1,663 @@
 {
   "batches": [
     {
-      "name": "Medical Tourism - Advanced Procedures 1",
+      "name": "Medical Tourism - Procedure Comparisons 1",
       "category": "Medical Tourism",
       "posts": [
-        "Thread Lifting in Korea Ultimate Guide to Mint and Silhouette Soft 2026",
-        "Revision Rhinoplasty in Korea Why Foreigners Choose Seoul for Second Chances 2026",
-        "Korean Stem Cell Therapy Current Trends in Anti-Aging and Joint Health 2026",
-        "Best In-Clinic Facial Treatments for Busy Travelers Under 1 Hour 2026",
-        "Korean Orthodontics Guide Invisalign vs Local Clear Aligner Costs 2026"
+        "Ultherapy vs Thermage vs Shurink Which Face Lifting Treatment Works Best",
+        "Blepharoplasty Techniques Incisional vs Non-Incisional Double Eyelid Surgery",
+        "Silicone vs Gore-Tex Implants for Rhinoplasty in Korea",
+        "Liposuction vs Coolsculpting Body Contouring Methods Compared",
+        "PRP vs PDO Thread Lift Natural Face Rejuvenation Options"
       ]
     },
     {
-      "name": "Medical Tourism - Advanced Procedures 2",
+      "name": "Medical Tourism - Procedure Comparisons 2",
       "category": "Medical Tourism",
       "posts": [
-        "Full Mouth Dental Implants in Korea Price Comparison and Timeline 2026",
-        "SMILE Pro Eye Surgery The 2026 Tech Upgrade from LASIK 2026",
-        "Scalp Micropigmentation SMP in Korea Best Clinics for Hair Density 2026",
-        "Post-Surgery Recovery Meals Best Delivery Options for Healing in Seoul 2026",
-        "Medical Concierge Services Are They Worth the Extra Cost 2026"
+        "Botox Brands in Korea Botulax vs Nabota vs Allergan",
+        "Filler Types Hyaluronic Acid vs Calcium Hydroxylapatite",
+        "Laser Hair Removal Diode vs Alexandrite vs IPL",
+        "Acne Treatment Isotretinoin vs Laser vs Chemical Peels",
+        "Dental Veneers Porcelain vs Composite Resin"
       ]
     },
     {
-      "name": "Medical Tourism - Body Procedures",
+      "name": "Medical Tourism - Procedure Comparisons 3",
       "category": "Medical Tourism",
       "posts": [
-        "Cryolipolysis vs Fat Dissolving Injections in Korea Which is for You 2026",
-        "Breast Reduction Surgery in Korea Specialized Clinics and Recovery Tips 2026",
-        "Vaginal Rejuvenation and Women Wellness Clinics in Seoul for Expats 2026",
-        "Fertility Treatments IVF in Korea Success Rates and International Patient Care 2026",
-        "Korean Physical Therapy Dealing with Sports Injuries while Traveling 2026"
+        "Breast Augmentation Teardrop vs Round Implants",
+        "Hair Transplant FUE vs FUT Method Comparison",
+        "Tattoo Removal PicoSure vs Q-Switch Laser",
+        "Skin Whitening Glutathione IV vs Topical Treatments",
+        "Fat Grafting vs Fillers for Face Volume"
       ]
     },
     {
-      "name": "Medical Tourism - Practical Guide",
+      "name": "Medical Tourism - Clinic Selection 1",
       "category": "Medical Tourism",
       "posts": [
-        "How to Read a Korean Medical Prescription A Guide for Foreigners 2026",
-        "Top 5 Recovery Hotels in Gangnam with Medical Assistance 2026",
-        "Male Plastic Surgery Trends 2026 Jawline Definition and Gynecomastia 2026",
-        "Tattoo Removal in Korea The Latest Laser Tech for Stubborn Ink 2026",
-        "Under-eye Fat Repositioning Why its Korea Most Popular Secret Surgery 2026"
+        "How to Verify Korean Clinic Credentials Red Flags to Avoid",
+        "Reading Korean Medical Reviews Naver Blog vs Real Patient Experiences",
+        "Gangnam vs Apgujeong vs Cheongdam Which District for Your Procedure",
+        "Booking Medical Consultations in Korea Online vs Walk-in",
+        "Korean Clinic Payment Methods Insurance Credit Cards and Refunds"
       ]
     },
     {
-      "name": "Medical Tourism - Health and Safety",
+      "name": "Medical Tourism - Clinic Selection 2",
       "category": "Medical Tourism",
       "posts": [
-        "Health Check-up Packages in Korea Comprehensive Screening Guides 2026",
-        "Chronic Pain Management Integrating Traditional Medicine and Modern Tech 2026",
-        "Flying After Surgery When is it Safe to Head Home Doctor Advice 2026",
-        "Korean Skincare Clinic vs Hospital Where Should You Go for Botox 2026",
-        "The Truth About Shadow Doctors How to Ensure Your Surgeon is Real 2026"
+        "Medical Tourism Package Deals Worth It or Tourist Trap",
+        "Choosing Between Large Hospitals vs Boutique Clinics",
+        "Medical Interpreter Services in Korean Clinics Do You Need One",
+        "Same-Day Consultations and Procedures Pros and Cons",
+        "Follow-up Care for International Patients Telemedicine Options"
       ]
     },
     {
-      "name": "Medical Tourism - Regional and Insurance",
+      "name": "Medical Tourism - Recovery Guide 1",
       "category": "Medical Tourism",
       "posts": [
-        "Medical Tourism in Busan vs Seoul Pros Cons and Price Differences 2026",
-        "Insurance Claims for Medical Tourists Can You Get Reimbursed 2026",
-        "Holistic Wellness Retreats Combining Medical Care with Zen Experiences 2026",
-        "Non-Invasive Skin Tightening Ultherapy vs Shurink vs Thermage Prices 2026",
-        "Psychological Support for Post-Surgery Depression in Foreign Patients 2026"
+        "Post-Surgery Swelling Timeline What to Expect Week by Week",
+        "Best Korean Healing Foods for Surgery Recovery",
+        "Pharmacy Essentials Pain Relief and Wound Care Products",
+        "Flying After Plastic Surgery When Is It Safe",
+        "Compression Garments Where to Buy in Seoul"
       ]
     },
     {
-      "name": "Travel & Tourism - Solo and Specialty",
+      "name": "Medical Tourism - Recovery Guide 2",
+      "category": "Medical Tourism",
+      "posts": [
+        "Managing Bruising and Scarring Korean Skincare Approach",
+        "Airbnb vs Recovery Hotels for Medical Tourists",
+        "Pre-Surgery Checklist Medications to Avoid",
+        "Post-Op Exercise When to Resume Gym and Cardio",
+        "Dealing with Complications Who to Contact in Emergencies"
+      ]
+    },
+    {
+      "name": "Medical Tourism - Recovery Guide 3",
+      "category": "Medical Tourism",
+      "posts": [
+        "Korean Medical Records Getting English Translations",
+        "Bringing Prescription Medications Home Customs Rules",
+        "Cold Therapy vs Heat Therapy for Recovery",
+        "Scar Treatment Options Silicone Sheets vs Laser",
+        "Mental Health and Plastic Surgery Managing Expectations"
+      ]
+    },
+    {
+      "name": "Medical Tourism - Special Cases 1",
+      "category": "Medical Tourism",
+      "posts": [
+        "Medical Tourism for Plus-Size Patients Korean Clinics That Specialize",
+        "Ethnic Rhinoplasty Preserving Your Features in Korea",
+        "Medical Procedures for Transgender Patients in Seoul",
+        "Senior Medical Tourism Joint Replacement and Cataract Surgery",
+        "Medical Cannabis and Pain Management in Korean Hospitals"
+      ]
+    },
+    {
+      "name": "Medical Tourism - Special Cases 2",
+      "category": "Medical Tourism",
+      "posts": [
+        "Medical Procedures Under Local vs General Anesthesia",
+        "Halal Medical Tourism Finding Muslim-Friendly Clinics",
+        "Medical Tourism with Kids Pediatric Healthcare in Seoul",
+        "Disability-Friendly Medical Facilities in Korea",
+        "Medical Second Opinions How to Get Them in Seoul"
+      ]
+    },
+    {
+      "name": "Travel & Tourism - Hidden Gems 1",
       "category": "Travel & Tourism",
       "posts": [
-        "Solo Female Travel in Korea Safety Tips and Best Neighborhoods 2026",
-        "Photographer Guide to Seoul Best Golden Hour Spots 2026",
-        "Rent-a-Car in Korea International License and Navigation App Guide 2026",
-        "Hiking Seoul Big Three Bukhansan Gwanaksan and Dobongsan 2026",
-        "Luxury Glamping Sites Near Seoul for a Weekend Escape 2026"
+        "Hidden Hiking Trails Near Seoul Less Crowded Alternatives",
+        "Secret Beaches in Busan Beyond Haeundae and Gwangalli",
+        "Traditional Markets Outside Seoul Worth the Trip",
+        "Underground Shopping Streets Complete Guide",
+        "Rooftop Bars with Best Seoul Skyline Views"
       ]
     },
     {
-      "name": "Travel & Tourism - Unique Itineraries",
+      "name": "Travel & Tourism - Hidden Gems 2",
       "category": "Travel & Tourism",
       "posts": [
-        "24-Hour Seoul Itinerary How to Survive the City That Never Sleeps 2026",
-        "Korean Architecture Tour From Hanoks to Futuristic Zaha Hadid 2026",
-        "Gyeongju The Museum Without Walls 2-Day Historical Itinerary 2026",
-        "Sokcho and Yangyang The Surfing Capital of Korea Guide 2026",
-        "Sustainable Travel in Korea Zero-Waste Cafes and Eco-Hotels 2026"
+        "Temple Stay Programs for English Speakers",
+        "Korea's Best Fall Foliage Spots Without the Crowds",
+        "Island Hopping Guide Jeju Nami and Ulleungdo",
+        "Mountain Temples Meditation Retreats for Foreigners",
+        "Historic Hanok Villages Beyond Bukchon"
       ]
     },
     {
-      "name": "Travel & Tourism - Family and Accessibility",
+      "name": "Travel & Tourism - Hidden Gems 3",
       "category": "Travel & Tourism",
       "posts": [
-        "Traveling Korea with Kids Stroller Access and Theme Park Tips 2026",
-        "Hidden Islands Near Incheon for a Peaceful Day Trip 2026",
-        "The Coffee Trail Exploring Gangneung Famous Cafe Street 2026",
-        "Accessible Seoul Best Routes for Wheelchair and Limited Mobility 2026",
-        "Korean Seasonal Festivals Beyond Cherry Blossoms Firefly Mud and More 2026"
+        "Korea's Best Hot Springs and Spa Towns",
+        "Coastal Bike Routes Scenic Seaside Cycling",
+        "Korea's Most Photogenic Train Stations",
+        "Night Markets Regional Street Food Scenes",
+        "Rural Farm Stays Agritourism Experiences"
       ]
     },
     {
-      "name": "Travel & Tourism - Local Experiences",
+      "name": "Travel & Tourism - Transportation",
       "category": "Travel & Tourism",
       "posts": [
-        "How to Use Naver Maps Like a Local Tips for English Speakers 2026",
-        "Suwon Hwaseong Fortress A Deep Dive into King Jeongjo Legacy 2026",
-        "Best Coworking Spaces in Seoul for Short-Term Travelers 2026",
-        "Exploring Korea DMZ JSA vs Tunnel Tours Which is Better 2026",
-        "Traditional Liquor Sool Tour Visiting Makgeolli Breweries 2026"
+        "KTX vs SRT High-Speed Train Comparison and Booking",
+        "Korea Rail Pass Worth It for Short-Term Travelers",
+        "Intercity Bus Travel Booking Apps and Routes",
+        "Renting a Car in Korea International License Guide",
+        "Bicycle Rental Systems Seoul Busan Jeju"
       ]
     },
     {
-      "name": "Travel & Tourism - Cultural Heritage",
+      "name": "Travel & Tourism - Transportation 2",
       "category": "Travel & Tourism",
       "posts": [
-        "Andong Hahoe Village Experiencing Korea Living Heritage 2026",
-        "Pet-Friendly Travel in Korea Cafes Parks and Hotels for Furry Friends 2026",
-        "A Guide to Korea Express Bus System Affordable Long-Distance Travel 2026",
-        "Vintage Shopping in Dongmyo A Treasure Hunter Guide 2026",
-        "Korean Baseball KBO Experience How to Get Tickets and What to Eat 2026"
+        "Ferry Services to Korean Islands Complete Schedule",
+        "Airport Limousine Bus vs AREX Express Train",
+        "Taxi Apps in Korea Kakao vs Uber Alternatives",
+        "Motorcycle Rental for Experienced Riders",
+        "Korea Travel SIM Cards vs eSIM Comparison"
       ]
     },
     {
-      "name": "Travel & Tourism - Adventure and Culture",
+      "name": "Travel & Tourism - Seasonal 1",
       "category": "Travel & Tourism",
       "posts": [
-        "Danyang Paragliding Guide Soaring Over the S-Curve River 2026",
-        "Seoul Most Beautiful Libraries for Book Lovers 2026",
-        "Traditional Paper Hanji Making Workshops in Jeonju 2026",
-        "Winter Ski Resorts Comparison Vivaldi Park vs Yongpyong vs Alpensia 2026",
-        "Busan Night Markets Guide Best Food and Shopping Spots 2026"
+        "Spring in Korea Cherry Blossoms and Festivals",
+        "Summer Beach Destinations and Water Activities",
+        "Autumn Colors Best Hiking and Photography Spots",
+        "Winter Activities Ski Resorts and Ice Festivals",
+        "Monsoon Season Travel Tips and Indoor Activities"
       ]
     },
     {
-      "name": "K-Culture - Modern Trends",
-      "category": "K-Culture",
+      "name": "Travel & Tourism - Seasonal 2",
+      "category": "Travel & Tourism",
       "posts": [
-        "The Rise of K-Webtoons Where to Experience Manhwa Culture in Seoul 2026",
-        "Korean Wedding Traditions What to Expect at a Local Wedding 2026",
-        "The Philosophy of Nunchi Understanding Korea Social Superpower 2026",
-        "Modern Korean Art Scene Top Contemporary Galleries in Hannam-dong 2026",
-        "Bonsai and Zen Gardens Finding Peace in Korea Traditional Greenery 2026"
+        "Best Time to Visit Korea Month-by-Month Weather",
+        "Off-Season Travel Perks Lower Prices Fewer Crowds",
+        "Korea's Flower Festivals Tulips Roses and Cosmos",
+        "Winter Sports Skiing Snowboarding and Ice Climbing",
+        "Summer Night Markets and Outdoor Concerts"
       ]
     },
     {
-      "name": "K-Culture - Social Phenomena",
-      "category": "K-Culture",
+      "name": "Travel & Tourism - Travel Styles 1",
+      "category": "Travel & Tourism",
       "posts": [
-        "Why Koreans Love MBTI The Psychology Behind the Trend 2026",
-        "Hallyu 4.0 What Next for the Global Korean Wave 2026",
-        "Traditional Tea Ceremonies A Beginner Guide to Korean Darye 2026",
-        "K-Indie and Underground Music Best Live Venues in Hongdae 2026",
-        "The History of Kimchi More Than Just a Side Dish 2026"
+        "Solo Travel in Korea Safety Tips and Meetup Groups",
+        "Budget Backpacking Korea Hostels Street Food and Free Activities",
+        "Luxury Travel Seoul Michelin Restaurants and 5-Star Hotels",
+        "Family-Friendly Attractions Theme Parks and Museums",
+        "Romantic Couple Getaways Honeymoon Destinations"
       ]
     },
     {
-      "name": "K-Culture - Arts and Entertainment",
-      "category": "K-Culture",
+      "name": "Travel & Tourism - Travel Styles 2",
+      "category": "Travel & Tourism",
       "posts": [
-        "Calligraphy Classes in Seoul Learning the Art of Hangeul 2026",
-        "Korean Cinema Beyond Bong Joon-ho Must-Watch Directors 2026",
-        "Collecting K-Pop Photocards The Global Market and Trading Etiquette 2026",
-        "Learning Konglish Common English Words Used Differently in Korea 2026",
-        "Korean Parenting Styles Understanding the Tiger Mom vs New Trends 2026"
+        "Digital Nomad Guide Coworking Spaces and Cafes",
+        "Adventure Travel Rock Climbing Paragliding and Rafting",
+        "Cultural Immersion Programs Language and Craft Workshops",
+        "Photography Tours Best Spots and Golden Hour Timing",
+        "Food Tours Beyond Korean BBQ Street Food Adventures"
       ]
     },
     {
-      "name": "K-Culture - Traditional Arts",
-      "category": "K-Culture",
+      "name": "Travel & Tourism - Travel Styles 3",
+      "category": "Travel & Tourism",
       "posts": [
-        "Traditional Martial Arts Trying Taekwondo vs Taekkyeon 2026",
-        "The Evolution of Hanbok From Dynasty to Modern Streetwear 2026",
-        "Korean Funeral Traditions Understanding Death and Remembrance 2026",
-        "Gaming Culture Visiting LoL Park and PC Bang Pro Centers 2026",
-        "K-Literature in English Top Books to Understand Modern Korea 2026"
+        "Senior-Friendly Travel Accessible Routes and Slow Pace",
+        "LGBTQ+ Travel Safe Neighborhoods and Inclusive Venues",
+        "Pet-Friendly Travel Hotels and Parks for Dogs",
+        "Camping in Korea Glamping vs Traditional Sites",
+        "Spiritual Retreats Buddhist Temples and Wellness Centers"
       ]
     },
     {
-      "name": "K-Culture - Lifestyle and Beliefs",
-      "category": "K-Culture",
+      "name": "K-Culture - K-Drama & Film 1",
+      "category": "K-Culture & Entertainment",
       "posts": [
-        "Fortune Telling in Korea Saju vs Tarot My Experience in Sinsa 2026",
-        "The Importance of Uri We Understanding Korean Collectivism 2026",
-        "Korean Crafts Making Your Own Mother-of-Pearl Najeon-chilgi Art 2026",
-        "Seasonal Gift-Giving Etiquette in Korea Chuseok and Seollal 2026",
-        "K-Beauty for Men Breaking the Stigma of Male Makeup 2026"
+        "K-Drama Filming Locations You Can Actually Visit",
+        "Historic Kdrama Sets Folk Villages and Palaces",
+        "How to Attend Live K-Drama Tapings Ticket Info",
+        "K-Drama Themed Cafes and Pop-Up Stores",
+        "Korean Film Festivals Calendar for International Visitors"
       ]
     },
     {
-      "name": "K-Culture - Urban and Performing Arts",
-      "category": "K-Culture",
+      "name": "K-Culture - K-Drama & Film 2",
+      "category": "K-Culture & Entertainment",
       "posts": [
-        "Exploring Korea Independent Bookstores Dongne-chaekbang 2026",
-        "The Sound of Korea Pansori and Samulnori Performance Guide 2026",
-        "Celebrity-Owned Cafes and Restaurants in Seoul You Can Actually Visit 2026",
-        "Urban Legends and Ghost Stories of Seoul Historical Sites 2026",
-        "Korean Street Art and Graffiti Culture in Ihwa Mural Village 2026"
+        "Independent Cinema Guide Art House Theaters in Seoul",
+        "Behind the Scenes K-Drama Production Tours",
+        "K-Drama OST Concerts Where to Buy Tickets",
+        "Korean Webtoon to Drama Adaptations Timeline",
+        "Historical Accuracy in Period Dramas Fact vs Fiction"
       ]
     },
     {
-      "name": "Shopping & K-Beauty - Personalized Services",
-      "category": "Shopping & K-Beauty",
+      "name": "K-Culture - K-Drama & Film 3",
+      "category": "K-Culture & Entertainment",
       "posts": [
-        "Personal Color Analysis in Seoul Is it Worth 150 Dollars Review 2026",
-        "Vegan K-Beauty Brands The Best Animal-Free Skincare 2026",
-        "Sustainable Fashion in Seoul Best Eco-Friendly Local Brands 2026",
-        "How to Spot Fake K-Beauty Products A Guide for Online Shoppers 2026",
-        "The Best Skincare for Maskne and Sensitive Skin Clinic Approved 2026"
+        "K-Drama Actors Fan Meetings How to Attend",
+        "Korean Movie Theaters vs Western Cinemas Differences",
+        "K-Drama Fashion Where to Buy Similar Outfits",
+        "Korean Film Awards Shows Attending as a Tourist",
+        "K-Drama Cafe Culture Scene Filming Locations"
       ]
     },
     {
-      "name": "Shopping & K-Beauty - Luxury and Custom",
-      "category": "Shopping & K-Beauty",
+      "name": "K-Culture - K-Pop 1",
+      "category": "K-Culture & Entertainment",
       "posts": [
-        "Korean High-End Skincare Is Sulwhasoo The History of Whoo Worth It 2026",
-        "Shopping for Curvy Sizes in Korea Where to Find Inclusive Fashion 2026",
-        "Smart Shopping at Olive Young Using the App and Maximizing Sales 2026",
-        "Korean Fragrance Brands Why Tamburins and Granhand are Trending 2026",
-        "Customized Skincare Getting a Professional Skin Analysis in Seoul 2026"
+        "K-Pop Dance Classes for Beginners Cover Dance Studios",
+        "How to Get K-Pop Concert Tickets Ticketing Guide",
+        "K-Pop Entertainment Company Tours SM JYP HYBE",
+        "K-Pop Merchandise Shopping Myeongdong vs Online",
+        "K-Pop Random Play Dance Events in Seoul"
       ]
     },
     {
-      "name": "Shopping & K-Beauty - Ingredients and Men",
-      "category": "Shopping & K-Beauty",
+      "name": "K-Culture - K-Pop 2",
+      "category": "K-Culture & Entertainment",
       "posts": [
-        "K-Beauty Ingredients Deep Dive Mugwort Propolis and Heartleaf 2026",
-        "Men Grooming Guide Best Hair Wax BB Cream and Skincare for Guys 2026",
-        "Seoul Best Eyewear Stores Getting Prescription Glasses in 30 Minutes 2026",
-        "Hanbok Fusion Fashion Where to Buy Modern Hanbok for Daily Wear 2026",
-        "Korean Stationery Shopping Best Items from Kyobo and Artbox 2026"
+        "K-Pop Karaoke Noraebang Song Requests in English",
+        "K-Pop Music Video Filming Locations Map",
+        "K-Pop Fan Cafe Culture Daum vs Weverse",
+        "K-Pop Lightstick Guide Official vs Unofficial",
+        "K-Pop Busking Hongdae Street Performance Schedule"
       ]
     },
     {
-      "name": "Shopping & K-Beauty - Tech and Diversity",
-      "category": "Shopping & K-Beauty",
+      "name": "K-Culture - K-Pop 3",
+      "category": "K-Culture & Entertainment",
       "posts": [
-        "High-Tech Beauty Gadgets Leading Devices for Home Use 2026",
-        "Shopping at The Hyundai Seoul A Guide to Korea Coolest Mall 2026",
-        "Best Korean Foundations for Darker Skin Tones The Honest Truth 2026",
-        "DIY Jewelry Workshops in Seongsu-dong Create Your Own Rings 2026",
-        "How to Ship K-Beauty Globally Best International Shipping Services 2026"
+        "K-Pop Themed Cafes BTS TXT Blackpink",
+        "K-Pop Album Unboxing Culture Photocards and Inclusions",
+        "K-Pop Fan Meeting Events How to Participate",
+        "K-Pop Music Shows Attending Inkigayo and Music Bank",
+        "K-Pop Cover Contest Events Open Participation"
       ]
     },
     {
-      "name": "Shopping & K-Beauty - Hair and Designer",
-      "category": "Shopping & K-Beauty",
+      "name": "K-Culture - Traditional",
+      "category": "K-Culture & Entertainment",
       "posts": [
-        "The Glass Hair Routine Korean Hair Care Products for Ultimate Shine 2026",
-        "Shopping for Local Designer Brands in Dongdaemun Design Plaza DDP 2026",
-        "Korean Sunscreens for Oily Skin No White Cast No Greasiness 2026",
-        "Best Under-the-Radar K-Beauty Brands Gaining Popularity in 2026",
-        "The Ultimate Guide to Korean Spatula Makeup Application 2026"
+        "Korean Traditional Music Gugak Performance Venues",
+        "Hanbok Rental Complete Guide Styles and Pricing",
+        "Korean Calligraphy Classes Learning Hangeul Art",
+        "Traditional Tea Ceremony Experiences in Seoul",
+        "Korean Mask Dance Drama Where to Watch"
       ]
     },
     {
-      "name": "Shopping & K-Beauty - Secondhand and Luxury",
-      "category": "Shopping & K-Beauty",
+      "name": "K-Culture - Traditional 2",
+      "category": "K-Culture & Entertainment",
       "posts": [
-        "Thrifting in Seoul Best Charity Shops and Flea Markets 2026",
-        "Korean Home Fragrance and Candles Bringing the Seoul Scent Home 2026",
-        "Beauty Empties 10 Products I Keep Re-buying in Korea 2026",
-        "Luxury Resale Market in Korea Shopping for Pre-loved Designer Bags 2026",
-        "Custom Perfume Making in Seoul Designing Your Signature Scent 2026"
+        "Pansori and Traditional Storytelling Performances",
+        "Traditional Korean Games Yutnori and Jegichagi",
+        "Korean Paper Art Hanji Crafts Workshops",
+        "Traditional Instrument Workshops Gayageum and Janggu",
+        "Korean Traditional Architecture Palace Tour Guide"
       ]
     },
     {
-      "name": "Living in Korea - Relocation Essentials",
+      "name": "K-Culture - Modern",
+      "category": "K-Culture & Entertainment",
+      "posts": [
+        "PC Bang Culture Korean Gaming Cafes",
+        "Korean Webtoon Platforms and Popular Titles",
+        "Korean Indie Music Scene Live Music Venues",
+        "Stand-Up Comedy in Seoul English Shows",
+        "Korean Podcast Culture Recommendations for Learners"
+      ]
+    },
+    {
+      "name": "K-Culture - Modern 2",
+      "category": "K-Culture & Entertainment",
+      "posts": [
+        "Korean YouTube Culture Popular Creators and Trends",
+        "Korean Esports Attending Live Gaming Tournaments",
+        "Korean Street Art and Graffiti Culture",
+        "Korean Fashion Weeks Attending as a Visitor",
+        "Korean Design Districts Seongsu-dong and Samcheong-dong"
+      ]
+    },
+    {
+      "name": "Living in Korea - Visa & Residency 1",
       "category": "Living in Korea",
       "posts": [
-        "Moving to Korea with a Pet Quarantine Paperwork and Flights 2026",
-        "How to Invest in Korean Real Estate as a Foreigner Legal Steps 2026",
-        "Learning Korean via Apps vs KIIP Which is Better for Your Visa 2026",
-        "Mental Health Support for Expats English-Speaking Therapy in Seoul 2026",
-        "Korean Tax Return Guide for Foreigners How to Get Money Back 2026"
+        "Digital Nomad Visa Korea Requirements and Application",
+        "Teaching English in Korea E-2 Visa Process",
+        "F-Visa Family Reunion Requirements",
+        "D-Visa Student Visa and Part-Time Work Rules",
+        "H-1 Working Holiday Visa Complete Guide"
       ]
     },
     {
-      "name": "Living in Korea - Housing and Apps",
+      "name": "Living in Korea - Visa & Residency 2",
       "category": "Living in Korea",
       "posts": [
-        "Living in a Goshiwon vs Officetel Pros Cons and Costs 2026",
-        "How to Use Karrot Danggeun Korea Favorite Second-hand App 2026",
-        "Understanding Pali-Pali Culture in the Korean Workplace 2026",
-        "Recycling in Korea A Complicated Guide for New Expats 2026",
-        "Top International Hospitals in Seoul Where to Go for Emergencies 2026"
+        "Alien Registration Card Application Process",
+        "Visa Extension Online vs In-Person Methods",
+        "Changing Visa Status While in Korea",
+        "F-6 Marriage Visa Requirements and Interview",
+        "D-10 Job Seeker Visa After Graduation"
       ]
     },
     {
-      "name": "Living in Korea - Daily Life",
+      "name": "Living in Korea - Visa & Residency 3",
       "category": "Living in Korea",
       "posts": [
-        "Getting a Post-Paid Phone Plan Without a Long-Term Contract 2026",
-        "Finding Community Top Expat Clubs and Networking Events in Seoul 2026",
-        "Korean Grocery Shopping Hacks E-mart Market Kurly and Local Marts 2026",
-        "Homeschooling and Alternative Education for Expats in Korea 2026",
-        "How to Register Your Foreign Address Change Online and Offline 2026"
+        "Long-Term Tourist Visa Options for Retirees",
+        "Permanent Residency Requirements F-5 Visa",
+        "Korean Citizenship Naturalization Process",
+        "Visa Run Strategies Leaving and Re-entering",
+        "Employer-Sponsored Visa E-7 Professional"
       ]
     },
     {
-      "name": "Living in Korea - Work and Finance",
+      "name": "Living in Korea - Housing 1",
       "category": "Living in Korea",
       "posts": [
-        "Korean Labor Laws Your Rights as a Foreign Employee 2026",
-        "Dealing with Yellow Dust and Air Quality Best Apps and Masks 2026",
-        "Buying a Used Car in Korea K-Car vs Encar Guide 2026",
-        "Korean Retirement System for Foreigners National Pension Refunds 2026",
-        "Learning to Cook Korean Food at Home Essential Pantry Items 2026"
+        "Jeonse vs Wolse Korean Rental System Explained",
+        "Finding Apartments Real Estate Apps in English",
+        "Negotiating Rent with Korean Landlords",
+        "Utilities Setup Internet Gas Electricity Water",
+        "Furniture Shopping IKEA vs Korean Brands"
       ]
     },
     {
-      "name": "Living in Korea - Services and Lifestyle",
+      "name": "Living in Korea - Housing 2",
       "category": "Living in Korea",
       "posts": [
-        "Public Library Services for Foreigners Free Books and Media 2026",
-        "How to Get a Credit Card in Korea as an Expat 2026",
-        "Volunteer Opportunities for English Speakers in Seoul 2026",
-        "Korean Etiquette for Business Meetings Business Cards and Bowing 2026",
-        "Using Coupang Like a Pro Rocket Delivery and Subscriptions 2026"
+        "Home Insurance for Expats What to Cover",
+        "Dealing with Korean Landlords Common Issues",
+        "Moving Companies in Korea International vs Local",
+        "Short-Term Rentals Goshiwon vs Officetels",
+        "Buying Property in Korea Foreign Ownership Rules"
       ]
     },
     {
-      "name": "Living in Korea - Health and Family",
+      "name": "Living in Korea - Finance",
       "category": "Living in Korea",
       "posts": [
-        "Navigating the National Health Insurance NHIS Website 2026",
-        "Best Weekend Getaways for Expats to Beat City Burnout 2026",
-        "The Digital Nomad Guide to Jeju Island Best Cafes and Internet Speed 2026",
-        "Korean Banking Apps Best User Interface for Foreigners 2026",
-        "Pregnancy and Childbirth in Korea A Guide for Foreign Mothers 2026"
+        "Opening a Korean Bank Account for Foreigners",
+        "Sending Money Abroad Bank Transfer vs Wise",
+        "Credit Cards in Korea Which Banks Accept Foreigners",
+        "Korean Stock Market Investing as an Expat",
+        "Tax Returns for Foreign Workers in Korea"
       ]
     },
     {
-      "name": "Food & Dining - Etiquette and Drinks",
-      "category": "Food & Dining",
+      "name": "Living in Korea - Finance 2",
+      "category": "Living in Korea",
       "posts": [
-        "Table Etiquette in Korea Why You Should Not Pick Up Your Rice Bowl 2026",
-        "The Ultimate Soju Guide Different Brands and Best Food Pairings 2026",
-        "Korean Convenience Store Recipes Hacks from TikTok and YouTube 2026",
-        "Finding Halal Food in Seoul Top Restaurants and Supermarkets 2026",
-        "The World of Anju Best Snacks for Different Types of Alcohol 2026"
+        "Korean Pension System Understanding Deductions",
+        "Cryptocurrency in Korea Exchanges and Regulations",
+        "Insurance for Expats Health vs National Health",
+        "Buying a Car Financing and Registration",
+        "Retirement Planning for Long-Term Expats"
       ]
     },
     {
-      "name": "Food & Dining - Fine Dining and Seasonal",
-      "category": "Food & Dining",
+      "name": "Living in Korea - Daily Life 1",
+      "category": "Living in Korea",
       "posts": [
-        "Modern Korean Fine Dining A New Generation of Michelin Chefs 2026",
-        "A Guide to Korean Seasonal Fish What to Eat in Spring Summer Fall Winter 2026",
-        "The Best Pajeon and Makgeolli Spots for a Rainy Day in Seoul 2026",
-        "Zero-Sugar Soju and Healthy Drinking Trends in Korea 2026",
-        "Korean Soup Culture A Guide to Kimchi-jjigae Doenjang-jjigae and More 2026"
+        "Korean Phone Plans SK vs KT vs LG U Plus",
+        "Gym Memberships in Korea Pricing and Contracts",
+        "Korean Post Office International Shipping Guide",
+        "Recycling Rules in Korea Sorting and Penalties",
+        "Pet Ownership in Korea Vet Care and Pet Hotels"
       ]
     },
     {
-      "name": "Food & Dining - Solo and Hidden Gems",
-      "category": "Food & Dining",
+      "name": "Living in Korea - Daily Life 2",
+      "category": "Living in Korea",
       "posts": [
-        "Best Spots for Solo Dining Hon-bap in Busy Districts 2026",
-        "Exploring Gisa-sikdang The Hidden Gem Driver Restaurants 2026",
-        "Korean Fermented Foods Beyond Kimchi Cheonggukjang and Meju 2026",
-        "The Best Specialty Coffee Roasters in Seongsu and Yeonnam-dong 2026",
-        "Korean Beef Hanwoo Guide Why its More Expensive Than Wagyu 2026"
+        "Korean Healthcare System Using National Health Insurance",
+        "Finding English-Speaking Doctors in Seoul",
+        "Korean Driving License Conversion Process",
+        "Dealing with Korean Bureaucracy ARC to Taxes",
+        "Social Life Making Korean Friends as an Expat"
       ]
     },
     {
-      "name": "Food & Dining - Home Cooking and Vegan",
-      "category": "Food & Dining",
+      "name": "Living in Korea - Daily Life 3",
+      "category": "Living in Korea",
       "posts": [
-        "How to Host a Korean BBQ at Home Meat Cuts and Dipping Sauces 2026",
-        "Vegan Temple Food Classes Learning from Monks in Seoul 2026",
-        "The Art of Somaek How to Make the Perfect Beer-Soju Mix 2026",
-        "Exploring Korea Traditional Market Street Food Tours 2026",
-        "Best Dessert Cafes in Seoul 2026 Beyond Bingsu"
+        "Language Exchange Meetups and Apps",
+        "Expat Communities Facebook Groups and Forums",
+        "Korean Holiday Calendar Navigating Closed Days",
+        "Dealing with Loneliness Mental Health Resources",
+        "Korean Work Culture Office Etiquette for Foreigners"
       ]
     },
     {
-      "name": "Food & Dining - Local Flavors and Budget",
+      "name": "Food & Dining - Regional Cuisine 1",
       "category": "Food & Dining",
       "posts": [
-        "Korean Breakfast Culture What Locals Actually Eat in the Morning 2026",
-        "Top 5 All-You-Can-Eat Buffet Restaurants in Seoul 2026",
-        "A Guide to Korean Regional Flavors Jeolla-do vs Gyeongsang-do 2026",
-        "Best Food Apps for English Speakers TableCheck vs CatchTable 2026",
-        "Korean Ginseng and Health Tonics What to Buy for Energy 2026"
+        "Busan Seafood Guide Fresh Fish Markets and Restaurants",
+        "Jeonju Bibimbap Trail Authentic Restaurants",
+        "Jeju Black Pork Where to Eat on the Island",
+        "Gyeongju Traditional Cuisine Historic Recipes",
+        "Andong Jjimdak Best Restaurants in the Hometown"
       ]
     },
     {
-      "name": "Food & Dining - Modern Trends and Markets",
+      "name": "Food & Dining - Regional Cuisine 2",
       "category": "Food & Dining",
       "posts": [
-        "The Evolution of Korean Fried Chicken New Flavors and Brands 2026",
-        "Eating on a Budget Best Value-for-Money Lunch Specials Jeomsim-teukseon 2026",
-        "Korean Tea Houses Dabang vs Modern Cafes 2026",
-        "The Best Fresh Seafood in Busan Jagalchi Market 2026",
-        "Korean Summer Noodles Cold Buckwheat Naengmyeon vs Spicy Bibim 2026"
+        "Gwangjang Market Complete Food Guide",
+        "Tongyeong Oyster Specialties Coastal Delicacies",
+        "Gangneung Coffee Street Artisan Roasters",
+        "Incheon Chinatown Jajangmyeon Origins",
+        "Suwon Galbi Best Barbecue Restaurants"
+      ]
+    },
+    {
+      "name": "Food & Dining - Regional Cuisine 3",
+      "category": "Food & Dining",
+      "posts": [
+        "Mokpo Seafood Specialties Octopus and Skate",
+        "Daegu Makchang Grilled Intestines Culture",
+        "Chuncheon Dakgalbi Street Food District",
+        "Sokcho Squid and Abai Sundae",
+        "Namwon Chueotang Mudfish Soup"
+      ]
+    },
+    {
+      "name": "Food & Dining - Korean Cuisine Deep Dive 1",
+      "category": "Food & Dining",
+      "posts": [
+        "Korean Royal Court Cuisine Where to Try Hanjeongshik",
+        "Korean Temple Food Vegetarian Buddhist Meals",
+        "Korean Noodle Guide Naengmyeon Jajangmyeon Kalguksu",
+        "Korean Soup Culture Gamjatang Galbitang Seolleongtang",
+        "Korean Pancake Variations Pajeon Bindaetteok Kimchijeon"
+      ]
+    },
+    {
+      "name": "Food & Dining - Korean Cuisine Deep Dive 2",
+      "category": "Food & Dining",
+      "posts": [
+        "Korean Side Dish Culture Understanding Banchan",
+        "Korean Fermented Foods Beyond Kimchi Doenjang Gochujang",
+        "Korean Rice Dishes Bibimbap Dolsot Kongnamul-bap",
+        "Korean Street Food Classics Tteokbokki Hotteok Sundae",
+        "Korean Chicken Culture Yangnyeom vs Fried"
+      ]
+    },
+    {
+      "name": "Food & Dining - Korean Cuisine Deep Dive 3",
+      "category": "Food & Dining",
+      "posts": [
+        "Korean Seafood Delicacies Raw Fish to Grilled Shellfish",
+        "Korean Stew Variations Jjigae Jeongol Hotpot",
+        "Korean Breakfast Foods Traditional Morning Meals",
+        "Korean Drinking Snacks Anju Pairing Guide",
+        "Korean Dessert Evolution Traditional vs Modern Sweets"
+      ]
+    },
+    {
+      "name": "Food & Dining - Restaurant Guide",
+      "category": "Food & Dining",
+      "posts": [
+        "Michelin-Starred Korean Restaurants Worth the Price",
+        "Hidden Gem Restaurants Locals Recommendations",
+        "Korean Buffet Culture All-You-Can-Eat Options",
+        "Late-Night Dining 24-Hour Restaurants in Seoul",
+        "Halal Korean Food Muslim-Friendly Restaurants"
+      ]
+    },
+    {
+      "name": "Food & Dining - Restaurant Guide 2",
+      "category": "Food & Dining",
+      "posts": [
+        "Vegetarian and Vegan Korean Cuisine",
+        "Gluten-Free Dining in Korea Celiac-Safe Options",
+        "Kid-Friendly Restaurants with Play Areas",
+        "Romantic Date Night Restaurants",
+        "Group Dining Best Places for Large Parties"
+      ]
+    },
+    {
+      "name": "Food & Dining - Drinking Culture 1",
+      "category": "Food & Dining",
+      "posts": [
+        "Korean Drinking Etiquette Pouring and Toasting",
+        "Soju Brands Comparison Taste and Alcohol Content",
+        "Korean Craft Beer Scene Microbreweries",
+        "Makgeolli Bars Traditional Rice Wine Culture",
+        "Korean Wine Culture Domestic and Imported"
+      ]
+    },
+    {
+      "name": "Food & Dining - Drinking Culture 2",
+      "category": "Food & Dining",
+      "posts": [
+        "Cocktail Bars Speakeasies and Rooftop Lounges",
+        "Korean Drinking Games Rules and Fun",
+        "Korean Bar Snacks Pairing Food with Drinks",
+        "Pojangmacha Street Tent Bars Experience",
+        "Korean Hangover Cures Haejangguk and Remedies"
+      ]
+    },
+    {
+      "name": "Shopping & K-Beauty - Shopping Districts 1",
+      "category": "Shopping & K-Beauty",
+      "posts": [
+        "Myeongdong Shopping Guide Beauty and Fashion",
+        "Hongdae Shopping Street Indie Brands and Vintage",
+        "Gangnam Underground Shopping Complex",
+        "Dongdaemun Wholesale Fashion Market Tips",
+        "Insadong Traditional Crafts and Souvenirs"
+      ]
+    },
+    {
+      "name": "Shopping & K-Beauty - Shopping Districts 2",
+      "category": "Shopping & K-Beauty",
+      "posts": [
+        "Itaewon Global Brands and Import Shops",
+        "Garosu-gil Boutique Shopping in Sinsa-dong",
+        "Ewha Womans University Shopping Street",
+        "COEX Mall Complete Shopping and Dining Guide",
+        "Lotte Department Store Flagship Locations"
+      ]
+    },
+    {
+      "name": "Shopping & K-Beauty - Shopping Districts 3",
+      "category": "Shopping & K-Beauty",
+      "posts": [
+        "Hyundai Department Store Luxury Shopping",
+        "Starfield Mall Entertainment and Shopping",
+        "Shinsegae Duty Free Best Deals for Tourists",
+        "Korean Outlet Malls Designer Discounts",
+        "Namdaemun Market Bargaining Tips"
+      ]
+    },
+    {
+      "name": "Shopping & K-Beauty - K-Beauty Products 1",
+      "category": "Shopping & K-Beauty",
+      "posts": [
+        "Korean Skincare Ingredients Snail Mucin to Centella",
+        "Korean Sunscreen Guide Chemical vs Physical",
+        "Korean Sheet Mask Comparison Brands and Prices",
+        "Korean Toner vs Essence What's the Difference",
+        "Korean Cleansing Oil Double Cleanse Method"
+      ]
+    },
+    {
+      "name": "Shopping & K-Beauty - K-Beauty Products 2",
+      "category": "Shopping & K-Beauty",
+      "posts": [
+        "Korean Acne Treatments Pimple Patches and Serums",
+        "Korean Anti-Aging Retinol vs Peptides",
+        "Korean Moisturizers Cream vs Gel Formulas",
+        "Korean Eye Cream Under-Eye Care Guide",
+        "Korean Lip Care Treatments and Tints"
+      ]
+    },
+    {
+      "name": "Shopping & K-Beauty - K-Beauty Products 3",
+      "category": "Shopping & K-Beauty",
+      "posts": [
+        "Korean Body Care From Head to Toe",
+        "Korean Hair Care Shampoo Scalp Treatments",
+        "Korean Makeup Trends Cushion Foundation to Glass Skin",
+        "Korean Men's Grooming Products Skincare Essentials",
+        "Korean Beauty Clinics Gangnam Skincare Guide"
+      ]
+    },
+    {
+      "name": "Shopping & K-Beauty - Practical Shopping",
+      "category": "Shopping & K-Beauty",
+      "posts": [
+        "Duty-Free Shopping in Seoul Best Prices and Process",
+        "Korean Beauty Store Comparison Olive Young vs Lalavla",
+        "Online Shopping in Korea Coupang vs Gmarket",
+        "Shipping Korean Products Home Customs and Costs",
+        "Korean Clothing Sizes Conversion Chart"
+      ]
+    },
+    {
+      "name": "Shopping & K-Beauty - Practical Shopping 2",
+      "category": "Shopping & K-Beauty",
+      "posts": [
+        "Bargaining Culture Where and How to Negotiate",
+        "Korean Department Store Rewards Points and VIP",
+        "Tax Refund for Tourists How to Claim",
+        "Korean Counterfeit Products How to Spot Fakes",
+        "Personal Shopping Services English-Speaking Help"
+      ]
+    },
+    {
+      "name": "Shopping & K-Beauty - Specialty Shopping 1",
+      "category": "Shopping & K-Beauty",
+      "posts": [
+        "Best Areas to Stay Near Shopping Districts",
+        "Hotels with Beauty Services Spa and Salon",
+        "Accommodation Near Traditional Markets",
+        "Serviced Apartments vs Hotels for Shopping Trips",
+        "Korean Stationery Culture Cute School Supplies"
+      ]
+    },
+    {
+      "name": "Shopping & K-Beauty - Specialty Shopping 2",
+      "category": "Shopping & K-Beauty",
+      "posts": [
+        "Korean Home Decor Where to Buy Modern Hanok Style",
+        "Korean Eyewear Fashion Glasses Sunglasses Contacts",
+        "Korean Book Stores English Section Guide",
+        "Korean Toy Stores Unique Collectibles",
+        "Pet-Friendly Hotels and Shopping Areas"
       ]
     }
   ]

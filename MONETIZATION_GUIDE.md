@@ -1605,8 +1605,945 @@ export default function RevenueDashboard() {
 
 ---
 
+---
+
+## 🤖 어필리에이트 자동화 시스템 구현 계획
+
+> **목적**: 수천, 수만 개의 블로그 글에 수작업 없이 자동으로 적절한 어필리에이트 상품 삽입  
+> **원칙**: 콘텐츠 작성과 수익화 완전 분리  
+> **구현 시점**: Phase 1 안정화 후 (블로그 200+ 글, 월 수익 $500+ 달성 시)
+
+### 📐 시스템 아키텍처
+
+```
+콘텐츠 작성 (마크다운)
+    ↓
+Frontmatter에 힌트만 추가 (5초 작업)
+    ↓
+빌드 시 AI 매칭 엔진 작동
+    ↓
+적절한 어필리에이트 자동 삽입
+    ↓
+렌더링 (사용자에게 노출)
+```
+
+---
+
+### 🗂️ Phase 0: 중앙 데이터베이스 구축
+
+**목표**: 모든 어필리에이트 상품을 한 곳에서 관리
+
+#### 파일 생성: `lib/affiliate-database.ts`
+
+```typescript
+// lib/affiliate-database.ts
+export interface AffiliateProduct {
+  id: string;                      // 고유 ID: 'klook-77005'
+  provider: 'klook' | 'booking' | 'amazon' | 'agoda' | 'viator';
+  type: 'tour' | 'hotel' | 'product' | 'activity';
+  category: string[];              // ['dmz', 'history', 'day-trip']
+  keywords: string[];              // ['DMZ', '비무장지대', '3rd tunnel']
+  title: string;
+  description: string;
+  price: number;
+  currency: 'USD' | 'KRW';
+  rating: number;
+  reviewCount: number;
+  url: string;                     // Affiliate URL with tracking
+  imageUrl?: string;
+  highlights?: string[];
+  priority: number;                // 1-10 (높을수록 우선 노출)
+  regions?: string[];              // ['seoul', 'gangnam', 'myeongdong']
+  seasons?: string[];              // ['spring', 'winter', 'all']
+  minBudget?: number;              // 예산 필터링용
+  maxBudget?: number;
+  tags?: string[];                 // 추가 메타데이터
+}
+
+export const AFFILIATE_DATABASE: Record<string, AffiliateProduct[]> = {
+  // ===== TOURS =====
+  'dmz-tours': [
+    {
+      id: 'klook-77005',
+      provider: 'klook',
+      type: 'tour',
+      category: ['dmz', 'history', 'day-trip', 'seoul'],
+      keywords: ['DMZ', '비무장지대', '3rd tunnel', 'infiltration', 'north korea'],
+      title: 'DMZ & 3rd Infiltration Tunnel Tour',
+      description: 'Explore the DMZ, visit the 3rd Tunnel, and see Dora Observatory',
+      price: 47,
+      currency: 'USD',
+      rating: 5.0,
+      reviewCount: 10179,
+      url: 'https://www.klook.com/activity/77005-dmz-3rd-invasion-tunnel-suspension-bridge-one-day-tour-from-seoul/?aid=110604',
+      highlights: [
+        'Round-trip transportation from Seoul',
+        'Visit 3rd Infiltration Tunnel',
+        'Expert English-speaking guide'
+      ],
+      priority: 10,
+      regions: ['seoul'],
+      seasons: ['all'],
+      minBudget: 40,
+      maxBudget: 60,
+    },
+    {
+      id: 'klook-216',
+      provider: 'klook',
+      type: 'tour',
+      category: ['dmz', 'history', 'day-trip', 'seoul'],
+      keywords: ['DMZ', 'suspension bridge', 'defector', 'north korea'],
+      title: 'DMZ Tour with Suspension Bridge',
+      description: 'Visit DMZ, meet North Korean defector, walk on suspension bridge',
+      price: 50,
+      currency: 'USD',
+      rating: 4.9,
+      reviewCount: 31841,
+      url: 'https://www.klook.com/activity/216-dmz-tour-gyeonggi-do/?aid=110604',
+      highlights: [
+        'Private tour available',
+        'North Korean defector meet-up optional',
+        'Hotel pick-up included'
+      ],
+      priority: 9,
+      regions: ['seoul'],
+      seasons: ['all'],
+      minBudget: 45,
+      maxBudget: 70,
+    }
+  ],
+
+  'nami-island-tours': [
+    {
+      id: 'klook-8962',
+      provider: 'klook',
+      type: 'tour',
+      category: ['nami-island', 'nature', 'kdrama', 'day-trip'],
+      keywords: ['nami', 'petite france', 'rail bike', 'winter sonata', 'kdrama'],
+      title: 'Nami Island & Petite France Day Trip',
+      description: 'Visit famous K-drama filming locations',
+      price: 54,
+      currency: 'USD',
+      rating: 4.8,
+      reviewCount: 5881,
+      url: 'https://www.klook.com/activity/8962-nami-island-petite-france-railbike-garden-of-morning-calm-day-tour-seoul/?aid=110604',
+      highlights: [
+        'Hotel pickup & drop-off in Seoul',
+        'Visit Petite France & Rail Bike',
+        'English speaking guide'
+      ],
+      priority: 9,
+      regions: ['seoul', 'gangwon'],
+      seasons: ['all'],
+      minBudget: 50,
+      maxBudget: 70,
+    },
+    {
+      id: 'klook-2528',
+      provider: 'klook',
+      type: 'tour',
+      category: ['nami-island', 'nature', 'garden', 'day-trip'],
+      keywords: ['nami', 'garden of morning calm', 'nature', 'photography'],
+      title: 'Nami Island & Garden of Morning Calm',
+      description: 'Explore iconic tree-lined roads and beautiful garden',
+      price: 28,
+      currency: 'USD',
+      rating: 4.8,
+      reviewCount: 31620,
+      url: 'https://www.klook.com/activity/2528-nami-island-garden-morning-calm-seoul/?aid=110604',
+      highlights: [
+        'Most popular Nami Island tour',
+        'Garden of Morning Calm included',
+        'English guided tour'
+      ],
+      priority: 10,
+      regions: ['seoul', 'gangwon'],
+      seasons: ['spring', 'fall', 'winter'],
+      minBudget: 25,
+      maxBudget: 40,
+    }
+  ],
+
+  // ===== HOTELS (Booking.com - 승인 후 추가) =====
+  'gangnam-hotels': [
+    // {
+    //   id: 'booking-123456',
+    //   provider: 'booking',
+    //   type: 'hotel',
+    //   category: ['hotel', 'gangnam', 'medical-tourism'],
+    //   keywords: ['gangnam', 'plastic surgery', 'medical', 'luxury hotel'],
+    //   title: 'Grand InterContinental Seoul Parnas',
+    //   ...
+    // }
+  ],
+
+  // ===== ACTIVITIES (추후 확장) =====
+  'seoul-activities': [],
+  
+  // ===== PRODUCTS (Amazon Associates - Phase 2) =====
+  'kbeauty-products': [],
+};
+
+// Helper function: 카테고리로 상품 검색
+export function getProductsByCategory(category: string): AffiliateProduct[] {
+  return AFFILIATE_DATABASE[category] || [];
+}
+
+// Helper function: 키워드로 상품 검색
+export function searchProducts(keywords: string[]): AffiliateProduct[] {
+  const results: AffiliateProduct[] = [];
+  
+  Object.values(AFFILIATE_DATABASE).flat().forEach(product => {
+    const matches = keywords.some(keyword => 
+      product.keywords.some(k => 
+        k.toLowerCase().includes(keyword.toLowerCase())
+      )
+    );
+    if (matches) results.push(product);
+  });
+  
+  // 우선순위로 정렬
+  return results.sort((a, b) => b.priority - a.priority);
+}
+
+// Helper function: 타입으로 필터링
+export function getProductsByType(
+  type: AffiliateProduct['type']
+): AffiliateProduct[] {
+  return Object.values(AFFILIATE_DATABASE)
+    .flat()
+    .filter(p => p.type === type);
+}
+```
+
+**작업 시간**: 1-2시간 (초기 데이터 입력)  
+**유지보수**: 새 상품 추가 시 10분
+
+---
+
+### 🧠 Phase 1: AI 매칭 엔진
+
+**목표**: 블로그 글 내용을 분석해서 적절한 상품 자동 매칭
+
+#### 파일 생성: `lib/affiliate-matcher.ts`
+
+```typescript
+// lib/affiliate-matcher.ts
+import { AFFILIATE_DATABASE, AffiliateProduct, searchProducts } from './affiliate-database';
+
+export interface MatchResult {
+  product: AffiliateProduct;
+  score: number;              // 0-100 매칭 점수
+  reason: string;             // 매칭 이유 (디버깅용)
+  placement: 'auto' | 'hint'; // 자동 vs 힌트 기반
+}
+
+export interface AffiliateHints {
+  categories?: string[];      // ['dmz', 'nami-island']
+  keywords?: string[];        // ['day trip', 'tour']
+  budget?: { min: number; max: number };
+  region?: string;            // 'seoul', 'gangnam'
+  season?: string;            // 'spring', 'winter'
+  limit?: number;             // 최대 상품 수 (기본 3개)
+}
+
+/**
+ * 블로그 글 내용 + 힌트를 분석해서 최적의 어필리에이트 상품 찾기
+ */
+export async function matchAffiliates(
+  content: string,
+  hints?: AffiliateHints
+): Promise<MatchResult[]> {
+  const results: MatchResult[] = [];
+  
+  // 1. Hint 기반 매칭 (명시적) - 가장 높은 우선순위
+  if (hints?.categories) {
+    hints.categories.forEach(category => {
+      const products = AFFILIATE_DATABASE[category] || [];
+      products.forEach(product => {
+        results.push({
+          product,
+          score: 95, // 힌트 매칭은 높은 점수
+          reason: `Explicit category hint: ${category}`,
+          placement: 'hint',
+        });
+      });
+    });
+  }
+  
+  // 2. 키워드 기반 매칭
+  if (hints?.keywords) {
+    const matched = searchProducts(hints.keywords);
+    matched.forEach(product => {
+      results.push({
+        product,
+        score: 85,
+        reason: `Keyword match: ${hints.keywords.join(', ')}`,
+        placement: 'hint',
+      });
+    });
+  }
+  
+  // 3. 콘텐츠 분석 기반 자동 매칭
+  const autoMatched = await analyzeContentAndMatch(content);
+  results.push(...autoMatched);
+  
+  // 4. 예산 필터링
+  const filtered = hints?.budget 
+    ? results.filter(r => 
+        r.product.price >= hints.budget!.min && 
+        r.product.price <= hints.budget!.max
+      )
+    : results;
+  
+  // 5. 중복 제거 + 점수 순 정렬
+  const unique = deduplicateByProductId(filtered);
+  const sorted = unique.sort((a, b) => b.score - a.score);
+  
+  // 6. 제한 적용
+  const limit = hints?.limit || 3;
+  return sorted.slice(0, limit);
+}
+
+/**
+ * 콘텐츠 텍스트를 분석해서 관련 키워드 추출 후 매칭
+ */
+async function analyzeContentAndMatch(content: string): Promise<MatchResult[]> {
+  const results: MatchResult[] = [];
+  
+  // 간단한 키워드 추출 (실제로는 NLP 라이브러리 사용 가능)
+  const keywords = extractKeywords(content);
+  
+  // 각 키워드로 상품 검색
+  Object.values(AFFILIATE_DATABASE).flat().forEach(product => {
+    let matchCount = 0;
+    keywords.forEach(keyword => {
+      if (product.keywords.some(k => 
+        k.toLowerCase().includes(keyword.toLowerCase())
+      )) {
+        matchCount++;
+      }
+    });
+    
+    if (matchCount > 0) {
+      const score = Math.min(75, matchCount * 15); // 최대 75점
+      results.push({
+        product,
+        score,
+        reason: `Auto-matched ${matchCount} keywords`,
+        placement: 'auto',
+      });
+    }
+  });
+  
+  return results;
+}
+
+/**
+ * 텍스트에서 주요 키워드 추출
+ */
+function extractKeywords(text: string): string[] {
+  const keywords: string[] = [];
+  
+  // DMZ 관련
+  if (/\b(DMZ|비무장지대|demilitarized|3rd tunnel|panmunjom)\b/i.test(text)) {
+    keywords.push('dmz', 'history', 'north korea');
+  }
+  
+  // 남이섬 관련
+  if (/\b(nami island|남이섬|petite france|winter sonata)\b/i.test(text)) {
+    keywords.push('nami', 'nature', 'kdrama');
+  }
+  
+  // 서울 관련
+  if (/\b(seoul|서울|gangnam|myeongdong|hongdae)\b/i.test(text)) {
+    keywords.push('seoul', 'city', 'urban');
+  }
+  
+  // 투어 관련
+  if (/\b(day trip|tour|guide|excursion)\b/i.test(text)) {
+    keywords.push('tour', 'day-trip');
+  }
+  
+  // 호텔 관련
+  if (/\b(hotel|accommodation|stay|lodging)\b/i.test(text)) {
+    keywords.push('hotel', 'accommodation');
+  }
+  
+  return keywords;
+}
+
+/**
+ * 동일 상품 중복 제거 (가장 높은 점수만 유지)
+ */
+function deduplicateByProductId(results: MatchResult[]): MatchResult[] {
+  const map = new Map<string, MatchResult>();
+  
+  results.forEach(result => {
+    const existing = map.get(result.product.id);
+    if (!existing || result.score > existing.score) {
+      map.set(result.product.id, result);
+    }
+  });
+  
+  return Array.from(map.values());
+}
+
+/**
+ * 섹션별 최적 배치 위치 추천
+ */
+export function suggestPlacement(content: string, sectionTitle: string): boolean {
+  const lowerSection = sectionTitle.toLowerCase();
+  const lowerContent = content.toLowerCase();
+  
+  // "How to Get There" 섹션 뒤 → 투어 추천
+  if (lowerSection.includes('how to get') || lowerSection.includes('transportation')) {
+    return true;
+  }
+  
+  // "Where to Stay" 섹션 뒤 → 호텔 추천
+  if (lowerSection.includes('where to stay') || lowerSection.includes('accommodation')) {
+    return true;
+  }
+  
+  // "Practical Tips" 섹션 뒤 → 관련 상품 추천
+  if (lowerSection.includes('practical tips') || lowerSection.includes('tips')) {
+    return true;
+  }
+  
+  return false;
+}
+```
+
+**작업 시간**: 2-3시간  
+**고도화**: NLP 라이브러리 추가 시 정확도 향상
+
+---
+
+### 🎨 Phase 2: 자동 삽입 컴포넌트
+
+**목표**: 매칭된 상품을 자동으로 렌더링
+
+#### 파일 생성: `components/AutoAffiliate.tsx`
+
+```typescript
+// components/AutoAffiliate.tsx
+'use client';
+
+import { useEffect, useState } from 'react';
+import { TourCard } from './affiliate/TourCard';
+import { matchAffiliates, AffiliateHints, MatchResult } from '@/lib/affiliate-matcher';
+
+interface AutoAffiliateProps {
+  content: string;           // 블로그 글 전체 텍스트
+  hints?: AffiliateHints;    // Frontmatter에서 전달된 힌트
+  layout?: 'grid' | 'list';  // 레이아웃 스타일
+  debug?: boolean;           // 디버그 모드 (매칭 이유 표시)
+}
+
+export function AutoAffiliate({ 
+  content, 
+  hints, 
+  layout = 'grid',
+  debug = false 
+}: AutoAffiliateProps) {
+  const [matches, setMatches] = useState<MatchResult[]>([]);
+  const [loading, setLoading] = useState(true);
+  
+  useEffect(() => {
+    async function loadMatches() {
+      try {
+        const results = await matchAffiliates(content, hints);
+        setMatches(results);
+      } catch (error) {
+        console.error('Failed to match affiliates:', error);
+      } finally {
+        setLoading(false);
+      }
+    }
+    
+    loadMatches();
+  }, [content, hints]);
+  
+  if (loading) {
+    return <div className="animate-pulse">Loading recommendations...</div>;
+  }
+  
+  if (matches.length === 0) {
+    return null; // 매칭 없으면 아무것도 표시 안 함
+  }
+  
+  const gridClass = layout === 'grid' 
+    ? 'grid grid-cols-1 md:grid-cols-2 gap-6'
+    : 'flex flex-col gap-4';
+  
+  return (
+    <div className="my-8">
+      {debug && (
+        <div className="mb-4 p-3 bg-yellow-50 border border-yellow-200 rounded text-sm">
+          <strong>Debug Info:</strong>
+          <ul className="mt-2 space-y-1">
+            {matches.map(m => (
+              <li key={m.product.id}>
+                {m.product.title} - Score: {m.score} - {m.reason}
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+      
+      <div className={gridClass}>
+        {matches.map(match => (
+          <TourCard
+            key={match.product.id}
+            name={match.product.title}
+            description={match.product.description}
+            priceFrom={match.product.price}
+            duration="Full day" // TODO: DB에 추가
+            rating={match.product.rating}
+            reviewCount={match.product.reviewCount}
+            klookUrl={match.product.url}
+            highlights={match.product.highlights}
+          />
+        ))}
+      </div>
+    </div>
+  );
+}
+```
+
+**작업 시간**: 1시간
+
+---
+
+### 📝 Phase 3: 블로그 글 작성 워크플로우
+
+**목표**: 콘텐츠 작성자가 5초만에 어필리에이트 활성화
+
+#### 기존 마크다운 파일에 Frontmatter 추가
+
+```markdown
+---
+title: "Best Day Trips from Seoul 2026"
+date: 2026-02-01
+excerpt: "Discover amazing day trips from Seoul..."
+category: Travel & Tourism
+author: Korea Experience Team
+
+# ===== 어필리에이트 자동화 설정 =====
+autoAffiliate: true                    # 자동 삽입 활성화
+affiliateHints:
+  categories: ['dmz-tours', 'nami-island-tours']
+  keywords: ['day trip', 'tour', 'seoul']
+  budget: { min: 25, max: 100 }
+  region: 'seoul'
+  limit: 4                             # 최대 4개 상품 추천
+affiliateDebug: false                  # 개발 시 true로 설정
+---
+
+# Best Day Trips from Seoul 2026
+
+서울에서 떠나는 당일치기 여행...
+
+## DMZ Tour
+
+DMZ는 한국의 역사적 장소입니다...
+
+<!-- AFFILIATE_ZONE: dmz -->
+<!-- 여기에 자동으로 DMZ 투어 카드가 삽입됩니다 -->
+
+## Nami Island
+
+남이섬은 아름다운 자연...
+
+<!-- AFFILIATE_ZONE: nami -->
+<!-- 여기에 자동으로 남이섬 투어 카드가 삽입됩니다 -->
+```
+
+**작업 시간**: 글당 30초 (Frontmatter만 복사/수정)
+
+---
+
+### ⚙️ Phase 4: MDX 처리 로직 업데이트
+
+**목표**: 빌드 시 AFFILIATE_ZONE 마커를 실제 컴포넌트로 교체
+
+#### 파일 수정: `components/MDXContent.tsx`
+
+```typescript
+// components/MDXContent.tsx
+import { AutoAffiliate } from './AutoAffiliate';
+import { AffiliateHints } from '@/lib/affiliate-matcher';
+
+// Custom components에 추가
+const components = {
+  // ... 기존 컴포넌트들 ...
+  
+  TourCard: TourCard,
+  AutoAffiliate: AutoAffiliate,
+};
+
+interface MDXContentProps {
+  source: string;
+  frontmatter?: {
+    autoAffiliate?: boolean;
+    affiliateHints?: AffiliateHints;
+    affiliateDebug?: boolean;
+  };
+}
+
+export default async function MDXContent({ source, frontmatter }: MDXContentProps) {
+  let processedSource = source;
+  
+  // autoAffiliate가 활성화된 경우 AFFILIATE_ZONE 마커 처리
+  if (frontmatter?.autoAffiliate) {
+    processedSource = await processAffiliateZones(
+      source, 
+      frontmatter.affiliateHints,
+      frontmatter.affiliateDebug
+    );
+  }
+  
+  return (
+    <div className="prose prose-lg max-w-none">
+      <MDXRemote 
+        source={processedSource} 
+        components={components}
+        options={{
+          mdxOptions: {
+            remarkPlugins: [remarkGfm],
+            rehypePlugins: [
+              rehypeHighlight,
+              rehypeSlug,
+              [rehypeAutolinkHeadings, { behavior: 'wrap' }],
+            ],
+          },
+        }}
+      />
+    </div>
+  );
+}
+
+/**
+ * AFFILIATE_ZONE 마커를 AutoAffiliate 컴포넌트로 교체
+ */
+async function processAffiliateZones(
+  source: string, 
+  hints?: AffiliateHints,
+  debug?: boolean
+): Promise<string> {
+  // <!-- AFFILIATE_ZONE: dmz --> 같은 마커 찾기
+  const zoneRegex = /<!-- AFFILIATE_ZONE: (\w+) -->/g;
+  
+  let processed = source;
+  const matches = source.matchAll(zoneRegex);
+  
+  for (const match of matches) {
+    const [fullMatch, category] = match;
+    
+    // 카테고리별 힌트 생성
+    const categoryHints: AffiliateHints = {
+      ...hints,
+      categories: [category],
+      limit: 2, // Zone당 2개 상품
+    };
+    
+    // AutoAffiliate 컴포넌트로 교체
+    const component = `
+<AutoAffiliate 
+  content="${source.substring(0, 500)}" 
+  hints={${JSON.stringify(categoryHints)}}
+  debug={${debug}}
+/>`;
+    
+    processed = processed.replace(fullMatch, component);
+  }
+  
+  return processed;
+}
+```
+
+**작업 시간**: 1-2시간
+
+---
+
+### 🔧 Phase 5: CLI 도구 개발
+
+**목표**: 기존 글 일괄 처리 스크립트
+
+#### 파일 생성: `scripts/inject-affiliates.ts`
+
+```typescript
+// scripts/inject-affiliates.ts
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
+import { matchAffiliates } from '../lib/affiliate-matcher';
+
+interface Options {
+  category?: string;    // 특정 카테고리만 처리
+  dryRun?: boolean;     // 실제 수정 안 함 (미리보기)
+  force?: boolean;      // 기존 AFFILIATE_ZONE도 덮어쓰기
+  limit?: number;       // 처리할 글 개수 제한
+}
+
+async function injectAffiliates(options: Options = {}) {
+  const postsDir = path.join(process.cwd(), 'content/posts');
+  const files = fs.readdirSync(postsDir).filter(f => f.endsWith('.md'));
+  
+  console.log(`📝 Found ${files.length} blog posts\n`);
+  
+  let processed = 0;
+  let skipped = 0;
+  
+  for (const file of files) {
+    if (options.limit && processed >= options.limit) break;
+    
+    const filePath = path.join(postsDir, file);
+    const content = fs.readFileSync(filePath, 'utf-8');
+    const { data: frontmatter, content: markdown } = matter(content);
+    
+    // 카테고리 필터링
+    if (options.category && frontmatter.category !== options.category) {
+      skipped++;
+      continue;
+    }
+    
+    // 이미 autoAffiliate가 있으면 스킵 (force 옵션 없을 경우)
+    if (frontmatter.autoAffiliate && !options.force) {
+      console.log(`⏭️  Skipped: ${file} (already has autoAffiliate)`);
+      skipped++;
+      continue;
+    }
+    
+    // AI 매칭으로 적절한 힌트 생성
+    const matches = await matchAffiliates(markdown);
+    
+    if (matches.length === 0) {
+      console.log(`⚠️  No matches: ${file}`);
+      skipped++;
+      continue;
+    }
+    
+    // 힌트 생성
+    const categories = [...new Set(matches.map(m => m.product.category).flat())];
+    const keywords = [...new Set(matches.flatMap(m => m.product.keywords))].slice(0, 5);
+    
+    // Frontmatter 업데이트
+    const updatedFrontmatter = {
+      ...frontmatter,
+      autoAffiliate: true,
+      affiliateHints: {
+        categories: categories.slice(0, 3),
+        keywords: keywords,
+        limit: 3,
+      },
+    };
+    
+    // AFFILIATE_ZONE 마커 추가 (적절한 위치 찾기)
+    let updatedMarkdown = markdown;
+    
+    // "Practical Tips" 섹션 찾기
+    const tipsMatch = markdown.match(/## (Practical Tips|Getting There|How to Visit)/i);
+    if (tipsMatch && tipsMatch.index) {
+      const insertPos = tipsMatch.index;
+      const zone = `\n\n<!-- AFFILIATE_ZONE: ${categories[0]} -->\n\n`;
+      updatedMarkdown = 
+        markdown.slice(0, insertPos) + 
+        zone + 
+        markdown.slice(insertPos);
+    }
+    
+    // 새 파일 내용
+    const newContent = matter.stringify(updatedMarkdown, updatedFrontmatter);
+    
+    if (options.dryRun) {
+      console.log(`\n🔍 DRY RUN: ${file}`);
+      console.log(`   Categories: ${categories.join(', ')}`);
+      console.log(`   Keywords: ${keywords.join(', ')}`);
+      console.log(`   Matches: ${matches.length}`);
+    } else {
+      fs.writeFileSync(filePath, newContent);
+      console.log(`✅ Updated: ${file}`);
+    }
+    
+    processed++;
+  }
+  
+  console.log(`\n📊 Summary:`);
+  console.log(`   Processed: ${processed}`);
+  console.log(`   Skipped: ${skipped}`);
+  console.log(`   Total: ${files.length}`);
+}
+
+// CLI 실행
+const args = process.argv.slice(2);
+const options: Options = {
+  category: args.find(a => a.startsWith('--category='))?.split('=')[1],
+  dryRun: args.includes('--dry-run'),
+  force: args.includes('--force'),
+  limit: parseInt(args.find(a => a.startsWith('--limit='))?.split('=')[1] || '0') || undefined,
+};
+
+injectAffiliates(options);
+```
+
+#### package.json 스크립트 추가
+
+```json
+{
+  "scripts": {
+    "affiliate:inject": "tsx scripts/inject-affiliates.ts",
+    "affiliate:inject:dry": "tsx scripts/inject-affiliates.ts --dry-run",
+    "affiliate:inject:travel": "tsx scripts/inject-affiliates.ts --category='Travel & Tourism'",
+    "affiliate:inject:medical": "tsx scripts/inject-affiliates.ts --category='Medical Tourism'"
+  }
+}
+```
+
+**작업 시간**: 2-3시간  
+**사용법**:
+```bash
+# 미리보기 (실제 수정 안 함)
+npm run affiliate:inject:dry
+
+# 여행 카테고리만 처리
+npm run affiliate:inject:travel
+
+# 전체 처리
+npm run affiliate:inject
+
+# 처음 10개만 테스트
+npm run affiliate:inject -- --limit=10
+```
+
+---
+
+### 📊 Phase 6: 성과 추적 & 최적화
+
+**목표**: 어떤 상품이 클릭률 높은지 자동 분석 후 최적화
+
+#### 파일 생성: `scripts/optimize-affiliates.ts`
+
+```typescript
+// scripts/optimize-affiliates.ts
+import { google } from 'googleapis';
+
+/**
+ * Google Analytics 4 데이터 가져와서 클릭률 분석
+ */
+async function analyzePerformance() {
+  // GA4 API 연동 (생략 - 복잡함)
+  
+  // 분석 결과:
+  // - 클릭률 5% 이상: 우선순위 +1
+  // - 클릭률 1% 이하: 우선순위 -1 또는 제거
+  
+  console.log('📈 Performance Analysis:');
+  console.log('   Top performer: Klook DMZ Tour (7.2% CTR)');
+  console.log('   Low performer: Expensive hotel (0.5% CTR)');
+  console.log('   Action: Increase DMZ tour priority to 10');
+}
+
+/**
+ * 저성과 상품 자동 교체
+ */
+async function replaceUnderperformers() {
+  // 클릭률 낮은 상품을 비슷한 카테고리의 다른 상품으로 교체
+}
+
+// 매주 실행 (Cron job 또는 GitHub Actions)
+```
+
+**작업 시간**: 3-4시간 (GA4 API 연동 포함)
+
+---
+
+### 🚀 Phase 7: 고급 기능 (선택적)
+
+#### A. A/B 테스팅
+```typescript
+// 같은 카테고리 상품 2개를 번갈아 표시하고 클릭률 비교
+affiliateMode: 'ab-test'
+```
+
+#### B. 시즌별 자동 전환
+```typescript
+// 겨울에는 스키 투어, 봄에는 벚꽃 투어 자동 표시
+if (currentSeason === 'winter') {
+  prioritize(['ski', 'snow', 'winter-festival']);
+}
+```
+
+#### C. 사용자 맞춤 추천
+```typescript
+// 쿠키 기반으로 사용자 관심사 추적 후 맞춤 상품 추천
+if (userHistory.includes('medical-tourism')) {
+  prioritize(['gangnam-hotels', 'clinic-tours']);
+}
+```
+
+---
+
+## 📋 구현 순서 요약
+
+### 즉시 구현 가능 (Phase 1 안정화 후)
+1. ✅ **Week 1**: `lib/affiliate-database.ts` 생성 (2시간)
+2. ✅ **Week 1**: 기존 투어 4개 데이터 입력 (30분)
+3. ✅ **Week 2**: `lib/affiliate-matcher.ts` 개발 (3시간)
+4. ✅ **Week 2**: `components/AutoAffiliate.tsx` 개발 (1시간)
+5. ✅ **Week 3**: `MDXContent.tsx` 업데이트 (2시간)
+6. ✅ **Week 3**: 테스트 글 3개로 검증 (1시간)
+
+### 단계적 확장 (월간)
+7. ✅ **Month 1**: `scripts/inject-affiliates.ts` 개발 (3시간)
+8. ✅ **Month 1**: 기존 글 50개 일괄 적용 (30분)
+9. ✅ **Month 2**: Booking.com 호텔 데이터 추가 (1시간)
+10. ✅ **Month 2**: HotelCard 자동 삽입 추가 (2시간)
+
+### 고도화 (분기별)
+11. ⏳ **Q2**: GA4 연동 성과 분석 (4시간)
+12. ⏳ **Q2**: 저성과 상품 자동 교체 (3시간)
+13. ⏳ **Q3**: A/B 테스팅 시스템 (5시간)
+14. ⏳ **Q3**: 시즌별 자동 전환 (2시간)
+
+---
+
+## 💰 ROI 계산
+
+### 수작업 vs 자동화
+
+**수작업 (현재 방식)**
+- 새 블로그 글당: 20분 (상품 검색 + URL 복사 + 코드 삽입)
+- 1,000개 글: 333시간 (약 42일 full-time)
+- 상품 가격 업데이트: 1,000개 × 2분 = 33시간
+- 총 비용: 366시간
+
+**자동화 (제안 시스템)**
+- 초기 구축: 20시간
+- 새 블로그 글당: 30초 (Frontmatter만 수정)
+- 1,000개 글: 8.3시간 + 20시간 구축 = 28.3시간
+- 상품 가격 업데이트: DB 한 곳만 수정 = 5분
+- 총 비용: 28.3시간
+
+**절약**: 366 - 28.3 = **337.7시간** (92% 절감) 🎉
+
+---
+
+## 📌 구현 시작 조건
+
+다음 조건 충족 시 구현 시작 권장:
+
+- ✅ Phase 1 안정화 (Klook + Booking.com 정상 작동)
+- ✅ 블로그 글 200개 이상
+- ✅ 월 방문자 10,000+ 
+- ✅ 월 수익 $500+ (어필리에이트 효과 입증)
+- ✅ 개발 시간 확보 (20시간 집중 작업)
+
+---
+
 **작성자**: AI Assistant  
 **최종 업데이트**: 2026-02-03  
-**문서 버전**: 1.0
+**문서 버전**: 2.0
 
 **다음 단계**: 2-4주 후 AdSense 신청 → 승인 → 첫 수익! 🚀

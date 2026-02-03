@@ -176,7 +176,7 @@ Here's a comparison of the main long-term benefit and the most common expat refu
 | Feature               | Old-Age Pension                                  | Departure Lump-Sum Refund                   |
 | :-------------------- | :----------------------------------------------- | :------------------------------------------ |
 | Purpose               | Long-term retirement income                      | One-time payment upon permanent departure   |
-| Eligibility           | 10+ years contribution, retirement age (60-65)   | Foreigner, leaving Korea, usually <10 years |
+| Eligibility           | 10+ years contribution, retirement age (60-65)   | Foreigner, leaving Korea, usually under 10 years |
 | Who can claim         | Contributor                                      | Contributor (foreigner)                     |
 | Payment Type          | Monthly installments                             | Single payment                              |
 | Reciprocal Agreements | Can count Korean contributions in SSA countries  | Dependent on reciprocal refund agreements   |

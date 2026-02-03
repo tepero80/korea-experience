@@ -157,16 +157,12 @@ To help you visualize the distinct offerings of Hongdae's shopping landscape, he
 | **Sustainability** | Generally higher (support local, often ethical)       | Very High (repurposing, recycling)                     | Lower (high production volume, potential waste)           |
 | **Shopping Exp.** | Curated, inspiring, direct designer connection         | Treasure hunt, discovery, often requires patience      | Convenient, quick, easy to browse                         |
 
-<br>
-
 | Category of Item     | Typical Price Range (KRW) - Indie Boutiques                | Typical Price Range (KRW) - Vintage Shops                   |
 | :------------------- | :--------------------------------------------------------- | :---------------------------------------------------------- |
 | **T-shirts/Tops**    | 30,000 - 80,000                                            | 15,000 - 50,000                                             |
 | **Dresses/Skirts**   | 70,000 - 200,000                                           | 30,000 - 120,000                                            |
 | **Jackets/Outerwear** | 100,000 - 400,000                                          | 50,000 - 300,000 (designer vintage significantly higher)    |
 | **Accessories**      | 20,000 - 150,000 (jewelry, bags, etc.)                     | 10,000 - 80,000 (jewelry, scarves, small bags)              |
-
-<br>
 
 | Shopping District | Primary Focus                                        | Vibe/Aesthetic                                        | Best For                                                  |
 | :---------------- | :--------------------------------------------------- | :---------------------------------------------------- | :-------------------------------------------------------- |
