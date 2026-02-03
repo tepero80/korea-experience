@@ -2,7 +2,7 @@
 title: "Best Rhinoplasty Clinics in Gangnam, Seoul 2026: Complete Guide"
 date: "2026-01-15"
 excerpt: "Discover the top-rated rhinoplasty clinics in Gangnam, Seoul. Expert reviews, pricing, before/after results, and everything you need to know for a successful nose job in Korea."
-category: "Medical Tourism"
+category: Medical Tourism
 author: "Korea Experience Team"
 readTime: "12 min"
 ---
