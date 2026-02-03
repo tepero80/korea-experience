@@ -52,11 +52,11 @@ Independent travel to the DMZ is restricted, so you **must** join an organized t
   <TourCard 
     name="DMZ & 3rd Infiltration Tunnel Tour"
     description="Explore the DMZ, visit the 3rd Tunnel, and see Dora Observatory with an expert guide"
-    priceFrom={45}
+    priceFrom={47}
     duration="6-8 hours"
-    rating={4.7}
-    reviewCount={12500}
-    klookUrl="https://www.klook.com/activity/1221-dmz-tour-seoul/?aid=110604"
+    rating={5.0}
+    reviewCount={10179}
+    klookUrl="https://www.klook.com/activity/77005-dmz-3rd-invasion-tunnel-suspension-bridge-one-day-tour-from-seoul/?aid=110604"
     highlights={[
       "Round-trip transportation from Seoul",
       "Visit 3rd Infiltration Tunnel",
@@ -64,17 +64,17 @@ Independent travel to the DMZ is restricted, so you **must** join an organized t
     ]}
   />
   <TourCard 
-    name="DMZ & JSA Panmunjom Tour"
-    description="Stand at the border with North Korea at the Joint Security Area"
-    priceFrom={85}
+    name="DMZ Tour with Suspension Bridge"
+    description="Visit DMZ, meet North Korean defector, and walk on the scenic suspension bridge"
+    priceFrom={50}
     duration="7-9 hours"
-    rating={4.8}
-    reviewCount={8900}
-    klookUrl="https://www.klook.com/activity/3448-dmz-jsa-panmunjom-tour-seoul/?aid=110604"
+    rating={4.9}
+    reviewCount={31841}
+    klookUrl="https://www.klook.com/activity/216-dmz-tour-gyeonggi-do/?aid=110604"
     highlights={[
-      "Visit JSA (Panmunjom)",
-      "See soldiers face-to-face",
-      "Strict dress code required"
+      "Private tour available",
+      "North Korean defector meet-up optional",
+      "Hotel pick-up included"
     ]}
   />
 </div>
@@ -117,29 +117,29 @@ Both locations are in Gapyeong, Gyeonggi Province, making them easily accessible
   <TourCard 
     name="Nami Island & Petite France Day Trip"
     description="Visit famous K-drama filming locations including Nami Island and the colorful French village"
-    priceFrom={38}
+    priceFrom={54}
     duration="10-11 hours"
-    rating={4.6}
-    reviewCount={15200}
-    klookUrl="https://www.klook.com/activity/1222-nami-island-petite-france-tour-seoul/?aid=110604"
+    rating={4.8}
+    reviewCount={5881}
+    klookUrl="https://www.klook.com/activity/8962-nami-island-petite-france-railbike-garden-of-morning-calm-day-tour-seoul/?aid=110604"
     highlights={[
       "Hotel pickup & drop-off in Seoul",
-      "Nami Island ferry included",
-      "Visit Petite France & Garden of Morning Calm"
+      "Visit Petite France & Rail Bike",
+      "English speaking guide"
     ]}
   />
   <TourCard 
-    name="Nami Island & Rail Bike Experience"
-    description="Combine nature with adventure on the Gangchon Rail Bike along scenic riverside trails"
-    priceFrom={42}
+    name="Nami Island & Garden of Morning Calm"
+    description="Explore the iconic tree-lined roads of Nami Island and visit Korea's beautiful garden"
+    priceFrom={28}
     duration="10 hours"
-    rating={4.7}
-    reviewCount={9800}
-    klookUrl="https://www.klook.com/activity/2638-nami-island-rail-bike-seoul/?aid=110604"
+    rating={4.8}
+    reviewCount={31620}
+    klookUrl="https://www.klook.com/activity/2528-nami-island-garden-morning-calm-seoul/?aid=110604"
     highlights={[
-      "Gangchon Rail Bike experience",
-      "Nami Island exploration",
-      "English & Chinese speaking guide"
+      "Most popular Nami Island tour",
+      "Garden of Morning Calm included",
+      "English guided tour"
     ]}
   />
 </div>
