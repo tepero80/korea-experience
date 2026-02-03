@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "tsx scripts/generate-search-index.ts",
     "build": "next build",
     "start": "next start",
     "generate": "tsx scripts/generate-content.ts",
@@ -12,6 +13,7 @@
   },
   "dependencies": {
     "@vercel/og": "^0.8.6",
+    "fuse.js": "^7.1.0",
     "gray-matter": "^4.0.3",
     "next": "16.1.6",
     "next-mdx-remote": "^5.0.0",
