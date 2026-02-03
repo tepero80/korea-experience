@@ -46,6 +46,39 @@ Independent travel to the DMZ is restricted, so you **must** join an organized t
 *   **Photography:** Follow your guide's instructions regarding photography, as certain areas are off-limits.
 *   **Timing:** Morning tours are generally recommended to avoid crowds later in the day.
 
+### 🎫 Book Your DMZ Tour
+
+<div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
+  <TourCard 
+    name="DMZ & 3rd Infiltration Tunnel Tour"
+    description="Explore the DMZ, visit the 3rd Tunnel, and see Dora Observatory with an expert guide"
+    priceFrom={45}
+    duration="6-8 hours"
+    rating={4.7}
+    reviewCount={12500}
+    klookUrl="https://www.klook.com/activity/1221-dmz-tour-seoul/?aid=110604"
+    highlights={[
+      "Round-trip transportation from Seoul",
+      "Visit 3rd Infiltration Tunnel",
+      "Expert English-speaking guide"
+    ]}
+  />
+  <TourCard 
+    name="DMZ & JSA Panmunjom Tour"
+    description="Stand at the border with North Korea at the Joint Security Area"
+    priceFrom={85}
+    duration="7-9 hours"
+    rating={4.8}
+    reviewCount={8900}
+    klookUrl="https://www.klook.com/activity/3448-dmz-jsa-panmunjom-tour-seoul/?aid=110604"
+    highlights={[
+      "Visit JSA (Panmunjom)",
+      "See soldiers face-to-face",
+      "Strict dress code required"
+    ]}
+  />
+</div>
+
 ## Nami Island & Garden of Morning Calm: Nature's Embrace and K-Drama Magic
 
 For a gentler, more serene escape, Nami Island (Naminara Republic) and the Garden of Morning Calm offer stunning natural beauty, artistic flair, and a touch of Korean drama nostalgia. These two destinations are often paired together for a full day of picturesque landscapes.
@@ -77,6 +110,39 @@ Both locations are in Gapyeong, Gyeonggi Province, making them easily accessible
 *   **Seasonal Beauty:** The Garden of Morning Calm is beautiful year-round, but spring (blooming flowers) and autumn (fall foliage) are particularly stunning. The winter Lighting Festival is also magical.
 *   **Footwear:** Wear comfortable walking shoes, as you'll be doing a lot of walking on both sites.
 *   **Food:** Nami Island has several restaurants and cafes, including the famous Chuncheon Dakgalbi (spicy stir-fried chicken) restaurants near Gapyeong.
+
+### 🎫 Book Your Nami Island Tour
+
+<div className="grid grid-cols-1 md:grid-cols-2 gap-6 my-8">
+  <TourCard 
+    name="Nami Island & Petite France Day Trip"
+    description="Visit famous K-drama filming locations including Nami Island and the colorful French village"
+    priceFrom={38}
+    duration="10-11 hours"
+    rating={4.6}
+    reviewCount={15200}
+    klookUrl="https://www.klook.com/activity/1222-nami-island-petite-france-tour-seoul/?aid=110604"
+    highlights={[
+      "Hotel pickup & drop-off in Seoul",
+      "Nami Island ferry included",
+      "Visit Petite France & Garden of Morning Calm"
+    ]}
+  />
+  <TourCard 
+    name="Nami Island & Rail Bike Experience"
+    description="Combine nature with adventure on the Gangchon Rail Bike along scenic riverside trails"
+    priceFrom={42}
+    duration="10 hours"
+    rating={4.7}
+    reviewCount={9800}
+    klookUrl="https://www.klook.com/activity/2638-nami-island-rail-bike-seoul/?aid=110604"
+    highlights={[
+      "Gangchon Rail Bike experience",
+      "Nami Island exploration",
+      "English & Chinese speaking guide"
+    ]}
+  />
+</div>
 
 ## Jeonju Hanok Village: Immerse in Traditional Korean Culture
 

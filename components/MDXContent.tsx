@@ -5,6 +5,7 @@ import rehypeHighlight from 'rehype-highlight';
 import rehypeSlug from 'rehype-slug';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import remarkGfm from 'remark-gfm';
+import { TourCard } from './affiliate/TourCard';
 
 // Custom components for MDX
 const components = {
@@ -137,6 +138,9 @@ const components = {
   em: (props: any) => (
     <em className="italic" {...props} />
   ),
+
+  // Affiliate Components
+  TourCard: TourCard,
 };
 
 interface MDXContentProps {
