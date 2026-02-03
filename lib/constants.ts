@@ -50,6 +50,7 @@ export const ALL_TOOLS = [
   { id: 15, href: '/tools/korean-age', title: 'Korean Age Calculator', category: 'Plan Your Korea Trip', difficulty: '⭐', viral: 85, description: 'Find out your age in Korean years', icon: '🎂', status: 'active' },
   { id: 16, href: '/tools/trip-budget', title: 'Korea Trip Budget Calculator', category: 'Plan Your Korea Trip', difficulty: '⭐⭐⭐', viral: 80, description: 'Plan your perfect Korea trip budget', icon: '✈️', status: 'active' },
   { id: 17, href: '/tools/medical-cost-estimator', title: 'Medical Tourism Cost Estimator', category: 'Plan Your Korea Trip', difficulty: '⭐⭐⭐', viral: 70, description: 'Estimate medical procedure costs', icon: '🏥', status: 'active' },
+  { id: 22, href: '/tools/convenience-store-meals', title: 'Convenience Store Meal Builder', category: 'Plan Your Korea Trip', difficulty: '⭐⭐', viral: 95, description: 'Build perfect Korean convenience store combos', icon: '🏪', status: 'active' },
   
   // Life in Korea
   { id: 18, href: '/tools/business-name', title: 'Korean Business Name Generator', category: 'Life in Korea', difficulty: '⭐⭐', viral: 65, description: 'Create the perfect business name', icon: '🏢', status: 'active' },
