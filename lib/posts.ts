@@ -101,3 +101,16 @@ export function getAllCategories(): string[] {
   const categories = allPosts.map((post) => post.category);
   return Array.from(new Set(categories));
 }
+
+// Get related posts (same category, excluding current post)
+export function getRelatedPosts(currentSlug: string, category: string, limit: number = 3): PostMetadata[] {
+  const allPosts = getAllPosts();
+  
+  // Filter: same category, not current post
+  const relatedPosts = allPosts.filter(
+    (post) => post.category === category && post.slug !== currentSlug
+  );
+  
+  // Return limited number of posts
+  return relatedPosts.slice(0, limit);
+}

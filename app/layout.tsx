@@ -90,6 +90,9 @@ export default function RootLayout({
           src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7793293419727384"
           crossOrigin="anonymous"
         />
+      </head>
+      <body className={`${inter.className} flex flex-col min-h-screen`}>
+        {/* JSON-LD Structured Data */}
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
@@ -98,8 +101,7 @@ export default function RootLayout({
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
         />
-      </head>
-      <body className={`${inter.className} flex flex-col min-h-screen`}>
+
         {/* Google Analytics */}
         <Script
           src="https://www.googletagmanager.com/gtag/js?id=G-8D8HNVWDR9"

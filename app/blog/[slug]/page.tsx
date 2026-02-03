@@ -1,11 +1,12 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getPostBySlug, getAllPosts } from '@/lib/posts';
+import { getPostBySlug, getAllPosts, getRelatedPosts } from '@/lib/posts';
 import { generateArticleSchema } from '@/lib/schema';
 import { SITE_CONFIG } from '@/lib/constants';
 import MDXContent from '@/components/MDXContent';
 import AuthorBox from '@/components/AuthorBox';
+import RelatedPosts from '@/components/RelatedPosts';
 
 type Params = Promise<{ slug: string }>;
 
@@ -83,6 +84,9 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     url: `${SITE_CONFIG.url}/blog/${slug}`,
   });
 
+  // Get related posts (same category, 3 posts)
+  const relatedPosts = getRelatedPosts(slug, post.category, 3);
+
   return (
     <main className="pt-20 pb-12">
       {/* JSON-LD Schema */}
@@ -142,6 +146,9 @@ export default async function BlogPostPage({ params }: { params: Params }) {
             professionals before making any medical decisions.
           </p>
         </div>
+
+        {/* Related Posts */}
+        <RelatedPosts posts={relatedPosts} />
       </article>
     </main>
   );
