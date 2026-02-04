@@ -16,32 +16,32 @@ From the vibrant heart of Seoul to the tranquil shores of Jeju Island and the hi
   items={[
     {
       time: "Seoul Central",
-      title: "Namsan Tower ??",
-      description: "Boys Over Flowers, My Love From the Star - Romantic love locks & panoramic views (\11,000)"
+      title: "Namsan Tower",
+      description: "Boys Over Flowers, My Love From the Star - Romantic love locks and panoramic views (â‚©11,000)"
     },
     {
       time: "Seoul North",
-      title: "Bukchon Hanok ??",
+      title: "Bukchon Hanok",
       description: "Goblin, Personal Taste - Traditional hanok houses, Line 3 Anguk (Free)"
     },
     {
       time: "Seoul East",
-      title: "Dongdaemun DDP ??",
+      title: "Dongdaemun DDP",
       description: "She Was Pretty - Futuristic architecture, LED rose garden (Free)"
     },
     {
       time: "Gyeonggi",
-      title: "Petite France ????",
-      description: "Secret Garden, My Love From the Star - French village, 60min from Seoul (\10,000)"
+      title: "Petite France",
+      description: "Secret Garden, My Love From the Star - French village, 60min from Seoul (â‚©10,000)"
     },
     {
       time: "Gyeonggi",
-      title: "Nami Island ??",
-      description: "Winter Sonata - Iconic tree-lined paths, ferry from Gapyeong (\16,000)"
+      title: "Nami Island",
+      description: "Winter Sonata - Iconic tree-lined paths, ferry from Gapyeong (â‚©16,000)"
     },
     {
       time: "Jeju Island",
-      title: "Hyeopjae Beach ???",
+      title: "Hyeopjae Beach",
       description: "My Name is Kim Sam-soon - White sand beach, turquoise waters (Free)"
     }
   ]}
@@ -49,11 +49,11 @@ From the vibrant heart of Seoul to the tranquil shores of Jeju Island and the hi
 
 | Location | Famous Dramas | How to Get There | Entry Fee |
 |:---------|:--------------|:-----------------|:----------|
-| **Namsan Tower** (Seoul) | Boys Over Flowers, My Love From the Star | Line 4 Myeongdong ¡æ Cable car | \11,000 |
+| **Namsan Tower** (Seoul) | Boys Over Flowers, My Love From the Star | Line 4 Myeongdong â†’ Cable car | â‚©11,000 |
 | **Bukchon Hanok** (Seoul) | Goblin, Personal Taste | Line 3 Anguk Exit 2 | Free |
 | **DDP** (Seoul) | She Was Pretty | Line 2/4/5 Dongdaemun | Free |
-| **Petite France** (Gyeonggi) | Secret Garden | Bus from Seoul (60min) | \10,000 |
-| **Nami Island** (Gyeonggi) | Winter Sonata | Ferry from Gapyeong | \16,000 |
+| **Petite France** (Gyeonggi) | Secret Garden | Bus from Seoul (60min) | â‚©10,000 |
+| **Nami Island** (Gyeonggi) | Winter Sonata | Ferry from Gapyeong | â‚©16,000 |
 | **Hyeopjae Beach** (Jeju) | My Name is Kim Sam-soon | Bus from Jeju City | Free |
 
 ## Seoul's Iconic K-Drama Filming Locations
@@ -159,7 +159,7 @@ Beyond the Korean Folk Village, several dedicated historical K-Drama filming loc
 
 ### Daejanggeum Park (Formerly MBC Dramia)
 
-Located in Yongin, Gyeonggi Province, Daejanggeum Park is one of Korea's largest open-air film sets, meticulously designed to re-create the architecture and atmosphere of the Three Kingdoms, Goryeo, and Joseon periods. It¡¯s famously where *Dae Jang Geum*, *Dong Yi*, *Jumong*, *The Moon Embracing the Sun*, and *Kingdom* were filmed.
+Located in Yongin, Gyeonggi Province, Daejanggeum Park is one of Korea's largest open-air film sets, meticulously designed to re-create the architecture and atmosphere of the Three Kingdoms, Goryeo, and Joseon periods. It is famously where *Dae Jang Geum*, *Dong Yi*, *Jumong*, *The Moon Embracing the Sun*, and *Kingdom* were filmed.
 
 *   **What to see:** Wander through palaces, traditional houses, fortresses, and market streets that feel incredibly real. There are various photo zones where you can try on traditional Korean costumes (hanbok) for a fee.
 *   **Getting there:** Take a subway to Gojan Station (Seoul Subway Line 4), then a local bus (Bus 105) to the park. A taxi from Gojan Station is also an option.

@@ -8,7 +8,7 @@ author: Korea Experience Team
 
 Travel to South Korea has evolved significantly over the last few years, and navigating the entry requirements in 2026 is the first step to a seamless journey. Whether you are planning a 7-day culinary tour through the bustling streets of Myeongdong or a month-long trekking adventure in Seoraksan National Park, the Korea Electronic Travel Authorization (K-ETA) remains a critical document for the vast majority of visa-free travelers.
 
-As we settle into 2026, the temporary exemptions that characterized the "Visit Korea Year" initiatives of the past have evolved into a more standardized system. Understanding who needs authorization, how much it costs, and exactly when to apply can save you from being denied boarding at your departure airport?”a fate that befalls approximately 1.5% of unprepared travelers annually.
+As we settle into 2026, the temporary exemptions that characterized the "Visit Korea Year" initiatives of the past have evolved into a more standardized system. Understanding who needs authorization, how much it costs, and exactly when to apply can save you from being denied boarding at your departure airport?ï¿½a fate that befalls approximately 1.5% of unprepared travelers annually.
 
 <KeyTakeaways 
   points={[
@@ -30,8 +30,8 @@ In 2026, the system processes over 35,000 applications daily. The K-ETA is valid
   title="K-ETA Statistics 2026"
   variant="gradient"
   stats={[
-    { value: "3 Years", label: "Validity Period", icon: "?“…" },
-    { value: "112", label: "Eligible Countries", icon: "?Œ" }
+    { value: "3 Years", label: "Validity Period", icon: "ðŸ“…" },
+    { value: "112", label: "Eligible Countries", icon: "ðŸŒ" }
   ]}
   source="Korea Immigration Service Data 2026"
 />
@@ -84,7 +84,7 @@ The most common reason for a delayed or rejected application in 2026 remains the
 
 The government fee for the K-ETA is fixed at **10,000 KRW** (South Korean Won). Unlike visa fees which vary by nationality, this price is uniform for all 112 countries.
 
-It is important to understand the exchange rate dynamics. As of early 2026, 10,000 KRW is roughly equivalent to **$7.50 USD** or **??.90 EUR**. However, your bank will likely charge a foreign transaction fee, usually around 2-3%.
+It is important to understand the exchange rate dynamics. As of early 2026, 10,000 KRW is roughly equivalent to **$7.50 USD** or **.90 EUR**. However, your bank will likely charge a foreign transaction fee, usually around 2-3%.
 
 If you use a third-party agency, you are essentially paying for data entry. Below is a comparison of doing it yourself versus using a concierge service.
 
@@ -92,14 +92,14 @@ If you use a third-party agency, you are essentially paying for data entry. Belo
   title="Application Cost Comparison (2026)"
   variant="dualism"
   items={[
-    { name: "Official Government Site", price: "??0,000", tag: "budget", description: "Direct application. No extra fees. Non-refundable." },
-    { name: "Agency Service", price: "??5,000+", tag: "luxury", description: "Includes photo resizing and manual review. High markup." }
+    { name: "Official Government Site", price: "0,000", tag: "budget", description: "Direct application. No extra fees. Non-refundable." },
+    { name: "Agency Service", price: "5,000+", tag: "luxury", description: "Includes photo resizing and manual review. High markup." }
   ]}
 />
 
 ## Timing: When Should You Apply?
 
-The official recommendation from the Ministry of Justice is to apply at least **72 hours** prior to boarding your flight. In reality, the K-ETA AI system processes straightforward applications much faster?”often within 45 to 90 minutes.
+The official recommendation from the Ministry of Justice is to apply at least **72 hours** prior to boarding your flight. In reality, the K-ETA AI system processes straightforward applications much faster?ï¿½often within 45 to 90 minutes.
 
 However, relying on instant approval is dangerous. Approximately 5-10% of applications are flagged for manual review. This usually happens if:
 1.  Your name matches a person on a watchlist.
@@ -111,9 +111,9 @@ If flagged for manual review, the process takes exactly what the government warn
 <Timeline
   title="Ideal Application Timeline"
   items={[
-    { time: "2 Weeks Before", title: "Apply Online", description: "Best time to apply to allow for corrections if rejected.", icon: "?“…" },
-    { time: "72 Hours Before", title: "Hard Deadline", description: "Applying after this creates a high risk of missing your flight.", icon: "? ï¸" },
-    { time: "Departure Day", title: "Check Status", description: "Print the K-ETA or save the screenshot on your phone.", icon: "?ˆï¸" }
+    { time: "2 Weeks Before", title: "Apply Online", description: "Best time to apply to allow for corrections if rejected.", icon: "ðŸ“" },
+    { time: "72 Hours Before", title: "Hard Deadline", description: "Applying after this creates a high risk of missing your flight.", icon: "â°" },
+    { time: "Departure Day", title: "Check Status", description: "Print the K-ETA or save the screenshot on your phone.", icon: "âœˆï¸" }
   ]}
 />
 
@@ -147,9 +147,9 @@ Travelers with K-ETA do not need to fill out the paper Arrival Card (the small w
 <QuickFacts
   title="Airport Transfer Facts"
   facts={[
-    { label: "AREX Express", value: "43 mins", icon: "?š†" },
-    { label: "Taxi to CBD", value: "60-80 mins", icon: "?š–" },
-    { label: "Bus Cost", value: "??7,000", icon: "?šŒ" }
+    { label: "AREX Express", value: "43 mins", icon: "ðŸš„" },
+    { label: "Taxi to CBD", value: "60-80 mins", icon: "ðŸš•" },
+    { label: "Bus Cost", value: "â‚©17,000", icon: "ðŸšŒ" }
   ]}
   columns={3}
 />
@@ -162,7 +162,7 @@ However, if you are flying directly into Jeju International Airport (CJU) from a
 
 <LocationCard
   name="Jeju International Airport"
-  nameKo="?œì£¼êµ? œê³µí•­"
+  nameKo="ì œì£¼êµ­ì œê³µí•­"
   type="Transport Hub"
   address="2 Gonghang-ro, Jeju-si, Jeju-do"
   hours="24 Hours"
@@ -196,7 +196,7 @@ While some travelers view the K-ETA as an extra hurdle, it offers distinct advan
 <ProsCons
   title="Is K-ETA Worth the Hassle?"
   pros={["Valid for 3 years (multiple trips)", "No paper arrival card required", "Faster immigration processing"]}
-  cons={["Non-refundable fee (??0,000)", "Requires digital application knowledge", "Risk of rejection delays flight"]}
+  cons={["Non-refundable fee (0,000)", "Requires digital application knowledge", "Risk of rejection delays flight"]}
   variant="cards"
 />
 

@@ -13,8 +13,8 @@ Seoul, a city that never truly sleeps, takes on a different, more introspective 
 <KeyTakeaways 
   points={[
     "Embrace Seoul's rainy charm by exploring cozy LP bars and traditional makgeolli houses for a unique cultural experience.",
-    "LP bars offer a diverse musical journey with average drink prices around ??2,000 and often a small cover charge of ??,000-??0,000.",
-    "Makgeolli houses provide a taste of Korea's oldest alcoholic beverage, with bottles typically costing ??,000-??5,000, best paired with savory Korean pancakes."
+    "LP bars offer a diverse musical journey with average drink prices around 2,000 and often a small cover charge of ,000-0,000.",
+    "Makgeolli houses provide a taste of Korea's oldest alcoholic beverage, with bottles typically costing ,000-5,000, best paired with savory Korean pancakes."
   ]}
   readTime={8}
   lastUpdated="2026-02-04"
@@ -24,10 +24,10 @@ Seoul, a city that never truly sleeps, takes on a different, more introspective 
 
 Rainy days in Seoul are not uncommon, especially during the monsoon season (June to July) or the transitional months of spring and autumn. The city averages around 100-110 rainy days per year, making the art of enjoying indoor activities a cherished local skill. When the skies open up, the vibrant energy of outdoor markets and scenic parks gives way to a more intimate, reflective side of Seoul. Locals and savvy visitors alike know that these evenings are perfect for seeking out establishments that offer warmth, good company, and a distinct cultural flavor.
 
-The appeal lies in the contrast: outside, the city is slick and cool; inside, a haven of warmth and sensory delight awaits. Whether you're a solo traveler seeking solace, a couple looking for a romantic hideaway, or friends eager for a memorable night out, Seoul's LP bars and makgeolli houses provide the perfect backdrop. You can expect to spend anywhere from ??0,000 to ??0,000 per person for a comfortable evening including drinks and light snacks, a great value for a unique cultural immersion.
+The appeal lies in the contrast: outside, the city is slick and cool; inside, a haven of warmth and sensory delight awaits. Whether you're a solo traveler seeking solace, a couple looking for a romantic hideaway, or friends eager for a memorable night out, Seoul's LP bars and makgeolli houses provide the perfect backdrop. You can expect to spend anywhere from 0,000 to 0,000 per person for a comfortable evening including drinks and light snacks, a great value for a unique cultural immersion.
 
 <InfoBox type="info" title="Seoul's Rainy Season Survival Guide">
-  Don't let the rain deter you! Pack a compact umbrella or grab one from any convenience store (they typically cost around ??,000-??0,000). Wear comfortable, waterproof shoes, as streets can become slick. Public transport, particularly the subway, remains efficient and is your best friend on a rainy day.
+  Don't let the rain deter you! Pack a compact umbrella or grab one from any convenience store (they typically cost around ,000-0,000). Wear comfortable, waterproof shoes, as streets can become slick. Public transport, particularly the subway, remains efficient and is your best friend on a rainy day.
 </InfoBox>
 
 ## II. Seoul's Sonic Sanctuaries: The Best LP Bars
@@ -38,14 +38,14 @@ Seoul's LP bars, or "record bars," are more than just places to grab a drink; th
 
 Seoul's LP bars stand out for their incredible diversity and commitment to the vinyl experience. Many boast collections exceeding 10,000 records, spanning genres from classic rock and jazz to obscure indie and K-pop. The atmosphere is typically dimly lit, cozy, and adorned with vintage posters, album art, and comfortable seating. Unlike noisy pubs, the focus here is on the music, fostering conversations in hushed tones, or simply allowing guests to get lost in the sound.
 
-The average cost for a standard drink like a beer or a simple cocktail ranges from ??,000 to ??5,000, while premium spirits or craft cocktails might go up to ??0,000. Some bars have a small cover charge, usually ??,000-??0,000, which sometimes includes a complimentary drink or snack. This fee contributes to maintaining their impressive record libraries and unique ambiance.
+The average cost for a standard drink like a beer or a simple cocktail ranges from ,000 to 5,000, while premium spirits or craft cocktails might go up to 0,000. Some bars have a small cover charge, usually ,000-0,000, which sometimes includes a complimentary drink or snack. This fee contributes to maintaining their impressive record libraries and unique ambiance.
 
 <QuickFacts
   title="LP Bar Essentials"
   facts={[
-    { label: "Average Drink Price", value: "??2,000", icon: "?��" },
-    { label: "Typical Cover Charge", value: "??,000-??0,000", icon: "?���? },
-    { label: "Music Genres", value: "Diverse", icon: "?��" }
+    { label: "Average Drink Price", value: "₩12,000", icon: "🍸" },
+    { label: "Typical Cover Charge", value: "₩5,000-₩10,000", icon: "🎫" },
+    { label: "Music Genres", value: "Diverse", icon: "🎵" }
   ]}
   columns={3}
 />
@@ -64,7 +64,7 @@ Located in the eclectic Hongdae area, Gopchangjeongol is famed for its authentic
 
 <LocationCard
   name="Gopchangjeongol"
-  nameKo="곱창?�골"
+  nameKo="곱창?�골"
   type="LP Bar"
   address="336-10 Sangsu-dong, Mapo-gu, Seoul"
   hours="19:00-02:00 (Closed Sundays)"
@@ -73,7 +73,7 @@ Located in the eclectic Hongdae area, Gopchangjeongol is famed for its authentic
   rating={4.4}
   transit="Exit 1 from Sangsu Station (Line 6), 5 min walk (approx. 350 meters)"
   highlights={["Extensive Classic Rock Collection", "Cozy, Dimly Lit Interior", "Friendly Owner-DJ"]}
-  tip="Arrive early on weekends to secure a good spot, as it can get quite popular after 9 PM. Cocktails average ??3,000."
+  tip="Arrive early on weekends to secure a good spot, as it can get quite popular after 9 PM. Cocktails average 3,000."
 />
 
 <ExpertTip 
@@ -82,7 +82,7 @@ Located in the eclectic Hongdae area, Gopchangjeongol is famed for its authentic
   type="local"
   verified={true}
 >
-  "Gopchangjeongol is my go-to when I want to escape the city's hustle. The owner has an uncanny ability to pick just the right track for the mood. Don't be shy to request a song ??that's part of the charm! I once requested a relatively obscure B-side, and he found it immediately."
+  "Gopchangjeongol is my go-to when I want to escape the city's hustle. The owner has an uncanny ability to pick just the right track for the mood. Don't be shy to request a song that's part of the charm! I once requested a relatively obscure B-side, and he found it immediately."
 </ExpertTip>
 
 #### 2. Music & Triplex
@@ -91,7 +91,7 @@ Nestled in the bustling Gangnam district, Music & Triplex offers a more upscale 
 
 <LocationCard
   name="Music & Triplex"
-  nameKo="뮤직?�트리플?�스"
+  nameKo="뮤직앤트리플렉스"
   type="LP Bar"
   address="605 Sinsa-dong, Gangnam-gu, Seoul (B1)"
   hours="18:00-03:00 (Daily)"
@@ -100,7 +100,7 @@ Nestled in the bustling Gangnam district, Music & Triplex offers a more upscale 
   rating={4.6}
   transit="Exit 8 from Sinsa Station (Line 3), 7 min walk (approx. 500 meters)"
   highlights={["High-Quality Sound System", "Premium Whiskey Selection", "Modern, Chic Ambiance"]}
-  tip="Their whiskey selection is excellent, with prices for a single malt starting around ??8,000. It's a great spot for a quieter conversation."
+  tip="Their whiskey selection is excellent, with prices for a single malt starting around 8,000. It's a great spot for a quieter conversation."
 />
 
 #### 3. Vinyl & Beer
@@ -109,7 +109,7 @@ A delightful blend of craft beer and vinyl music, Vinyl & Beer can be found in t
 
 <LocationCard
   name="Vinyl & Beer"
-  nameKo="바이?�앤비어"
+  nameKo="바이널앤비어"
   type="LP Bar"
   address="228-56 Itaewon 2-dong, Yongsan-gu, Seoul"
   hours="17:00-01:00 (Closed Mondays)"
@@ -118,7 +118,7 @@ A delightful blend of craft beer and vinyl music, Vinyl & Beer can be found in t
   rating={4.3}
   transit="Exit 2 from Noksapyeong Station (Line 6), 10 min uphill walk (approx. 700 meters)"
   highlights={["Extensive Craft Beer Menu", "Relaxed Atmosphere", "Eclectic Music Mix"]}
-  tip="Try one of their Korean craft beers, which range from ??,000 to ??6,000 per pint. They've been serving music and brews since 2014."
+  tip="Try one of their Korean craft beers, which range from ,000 to 6,000 per pint. They've been serving music and brews since 2014."
 />
 
 ### C. How to Choose the Perfect LP Bar
@@ -176,9 +176,9 @@ If the sophisticated quiet of an LP bar doesn't quite hit the spot, perhaps the 
 
 ### A. Understanding Makgeolli: Korea's Oldest Drink
 
-Makgeolli (막걸�? has been enjoyed by Koreans for centuries. Made from fermented rice, it's unfiltered, leaving a distinctive sediment at the bottom of the bottle which gives it its characteristic cloudy appearance. With an alcohol content typically ranging from 6% to 8%, it's lighter than soju but richer in flavor. Makgeolli is almost always consumed with food, particularly savory pancakes (jeon, ?? or tofu dishes, which perfectly balance its subtle sweetness and tartness.
+Makgeolli (막걸�? has been enjoyed by Koreans for centuries. Made from fermented rice, it's unfiltered, leaving a distinctive sediment at the bottom of the bottle which gives it its characteristic cloudy appearance. With an alcohol content typically ranging from 6% to 8%, it's lighter than soju but richer in flavor. Makgeolli is almost always consumed with food, particularly savory pancakes (jeon,  or tofu dishes, which perfectly balance its subtle sweetness and tartness.
 
-A standard bottle (around 750ml) typically costs between ??,000 and ??5,000, depending on its quality and whether it's a mass-produced or craft variety. Food platters, designed for sharing, can range from ??5,000 to ??0,000, making it an affordable and social dining experience.
+A standard bottle (around 750ml) typically costs between ,000 and 5,000, depending on its quality and whether it's a mass-produced or craft variety. Food platters, designed for sharing, can range from 5,000 to 0,000, making it an affordable and social dining experience.
 
 <InfoBox type="success" title="Types of Makgeolli">
   Beyond the standard variety, explore craft makgeolli made with various ingredients like chestnuts, corn, or even fruit. Some breweries offer "live" makgeolli (saeng makgeolli), which is unpasteurized and continues to ferment, offering a fresher, more complex flavor, but requires refrigeration.
@@ -190,11 +190,11 @@ These makgeolli houses offer an authentic taste of Korean tradition, perfect for
 
 #### 1. Wolhyang
 
-Wolhyang is a modern interpretation of a traditional makgeolli house, known for its extensive menu of various makgeolli types and creative anju (?�주, drinking snacks). They have multiple locations, but the Hongdae branch is particularly popular for its lively yet cozy atmosphere.
+Wolhyang is a modern interpretation of a traditional makgeolli house, known for its extensive menu of various makgeolli types and creative anju (?�주, drinking snacks). They have multiple locations, but the Hongdae branch is particularly popular for its lively yet cozy atmosphere.
 
 <LocationCard
   name="Wolhyang"
-  nameKo="?�향"
+  nameKo="월향"
   type="Makgeolli House"
   address="367-10 Seogyo-dong, Mapo-gu, Seoul (Hongdae Branch)"
   hours="17:00-02:00 (Daily)"
@@ -203,7 +203,7 @@ Wolhyang is a modern interpretation of a traditional makgeolli house, known for 
   rating={4.2}
   transit="Exit 9 from Hongik University Station (Line 2), 8 min walk (approx. 600 meters)"
   highlights={["Wide Variety of Craft Makgeolli", "Creative Anju Menu", "Modern Korean Ambiance"]}
-  tip="Their Kimchi Jeon (김치전, kimchi pancake) is a must-try, priced around ??8,000-??5,000. It pairs wonderfully with their basic fermented makgeolli, which costs about ??,000 a bottle."
+  tip="Their Kimchi Jeon (김치전, kimchi pancake) is a must-try, priced around 8,000-5,000. It pairs wonderfully with their basic fermented makgeolli, which costs about ,000 a bottle."
 />
 
 <ExpertTip 
@@ -221,7 +221,7 @@ Neurin Maeul stands out because it brews its makgeolli on-site, offering a uniqu
 
 <LocationCard
   name="Neurin Maeul Brewery & Pub"
-  nameKo="?�린마을 ?�조??????
+  nameKo="느린마을 양조장"
   type="Makgeolli House / Brewery"
   address="818-1 Yeoksam-dong, Gangnam-gu, Seoul (Gangnam Branch)"
   hours="11:30-23:00 (Daily)"
@@ -230,7 +230,7 @@ Neurin Maeul stands out because it brews its makgeolli on-site, offering a uniqu
   rating={4.5}
   transit="Exit 11 from Gangnam Station (Line 2), 3 min walk (approx. 250 meters)"
   highlights={["On-site Makgeolli Brewing", "Seasonal Makgeolli Tasting Flights", "Modern, Spacious Interior"]}
-  tip="Order the makgeolli tasting set (??5,000 for 4 types) to experience the different aging stages. Their Bossam (보쌈, boiled pork wraps) is delicious and typically costs ??5,000-??5,000."
+  tip="Order the makgeolli tasting set (5,000 for 4 types) to experience the different aging stages. Their Bossam (보쌈, boiled pork wraps) is delicious and typically costs 5,000-5,000."
 />
 
 #### 3. Baedari Makgeolli
@@ -239,7 +239,7 @@ For a truly traditional experience, Baedari Makgeolli in Jongno is a classic. It
 
 <LocationCard
   name="Baedari Makgeolli"
-  nameKo="배다�?막걸�?
+  nameKo="배다리 막걸리"
   type="Traditional Makgeolli House"
   address="14-4 Nagwon-dong, Jongno-gu, Seoul"
   hours="11:00-22:00 (Closed Sundays)"
@@ -248,7 +248,7 @@ For a truly traditional experience, Baedari Makgeolli in Jongno is a classic. It
   rating={4.0}
   transit="Exit 5 from Jongno 3-ga Station (Line 1, 3, 5), 6 min walk (approx. 400 meters)"
   highlights={["Historic Atmosphere", "Classic Makgeolli Recipe", "Generous Food Portions"]}
-  tip="Their makgeolli comes in a large kettle (주전?? jujeonja) for sharing, typically around ??8,000. It's best enjoyed with their Pajeon (?�전, green onion pancake), which costs ??5,000-??0,000."
+  tip="Their makgeolli comes in a large kettle (주전자 jujeonja) for sharing, typically around ₩8,000. It's best enjoyed with their Pajeon (파전, green onion pancake), which costs ₩15,000-₩20,000."
 />
 
 ### C. Ordering and Enjoying Makgeolli
@@ -263,16 +263,16 @@ Experiencing makgeolli is a ritual. Here's a simple guide to enhance your enjoym
     { 
       title: "Choose Your Makgeolli", 
       description: "Decide between traditional (classic milky, sweet-sour) or craft (often with added flavors or different fermentation methods). Don't hesitate to ask for recommendations.", 
-      tip: "If you're unsure, ask for 'saeng makgeolli' (?�막걸리) for a fresh, unpasteurized option." 
+      tip: "If you're unsure, ask for 'saeng makgeolli' (?�막걸리) for a fresh, unpasteurized option." 
     },
     { 
       title: "Order Anju (Food Pairings)", 
       description: "Makgeolli is almost always accompanied by food. Savory pancakes (jeon), dubu kimchi (tofu with stir-fried kimchi), or bossam are classic choices. Order 1-2 dishes for 2-3 people.", 
-      tip: "The average price for an anju dish is around ??0,000 to ??5,000, offering good value for sharing." 
+      tip: "The average price for an anju dish is around 0,000 to 5,000, offering good value for sharing." 
     },
     { 
       title: "Mix and Pour", 
-      description: "Before pouring, gently shake or stir the makgeolli bottle to mix the sediment at the bottom. Pour into small, traditional bowls (?�발, sabal) or cups.", 
+      description: "Before pouring, gently shake or stir the makgeolli bottle to mix the sediment at the bottom. Pour into small, traditional bowls (?�발, sabal) or cups.", 
       tip: "Pour only a small amount at a time, as it's meant to be sipped and savored, not gulped." 
     },
     { 
@@ -287,8 +287,8 @@ Experiencing makgeolli is a ritual. Here's a simple guide to enhance your enjoym
   title="Makgeolli Price Comparison"
   variant="dualism"
   items={[
-    { name: "Traditional Makgeolli (750ml)", price: "??,000-??0,000", tag: "classic", description: "Standard, widely available rice wine." },
-    { name: "Craft/Premium Makgeolli (750ml)", price: "??2,000-??0,000", tag: "premium", description: "Small-batch, unique flavor profiles." }
+    { name: "Traditional Makgeolli (750ml)", price: ",000-0,000", tag: "classic", description: "Standard, widely available rice wine." },
+    { name: "Craft/Premium Makgeolli (750ml)", price: "2,000-0,000", tag: "premium", description: "Small-batch, unique flavor profiles." }
   ]}
 />
 
@@ -296,8 +296,8 @@ Experiencing makgeolli is a ritual. Here's a simple guide to enhance your enjoym
   title="Makgeolli Popularity"
   variant="gradient"
   stats={[
-    { value: "85%", label: "Koreans who have tried Makgeolli", icon: "?��?��" },
-    { value: "6-8%", label: "Average Alcohol Content", icon: "?��" }
+    { value: "85%", label: "Koreans who have tried Makgeolli", icon: "🇰🇷" },
+    { value: "6-8%", label: "Average Alcohol Content", icon: "🍶" }
   ]}
   source="Korean Ministry of Agriculture, Food and Rural Affairs 2024"
 />
@@ -314,7 +314,7 @@ When faced with a rainy evening in Seoul, the choice between an LP bar and a mak
     { feature: "Primary Focus", option1: "Music discovery & listening", option2: "Traditional drink & food pairing" },
     { feature: "Ideal For", option1: "Solo reflection, romantic dates, quiet conversations", option2: "Group gatherings, casual meals, experiencing Korean food culture" },
     { feature: "Noise Level", option1: "Low to Moderate", option2: "Moderate to High" },
-    { feature: "Price Range (per person)", option1: "??0,000-??0,000", option2: "??5,000-??0,000" },
+    { feature: "Price Range (per person)", option1: "0,000-0,000", option2: "5,000-0,000" },
     { feature: "Typical Drinks", option1: "Cocktails, whiskey, beer, coffee", option2: "Makgeolli, soju, traditional Korean teas" },
     { feature: "Food Options", option1: "Light snacks, finger food", option2: "Hearty Korean dishes (jeon, bossam, stews)" }
   ]}
@@ -328,11 +328,11 @@ Conversely, if you're in the mood for a more social, authentic Korean culinary a
 
 Navigating Seoul on a rainy night is straightforward with a few considerations.
 
-*   **Transportation:** The Seoul subway system is incredibly efficient and covers almost the entire city. It's the safest and most convenient option on a rainy day. Taxis are also readily available, but expect longer wait times during peak rain, and surge pricing might apply to ride-hailing apps. A 20-minute subway ride typically costs around ??,250-??,550.
+*   **Transportation:** The Seoul subway system is incredibly efficient and covers almost the entire city. It's the safest and most convenient option on a rainy day. Taxis are also readily available, but expect longer wait times during peak rain, and surge pricing might apply to ride-hailing apps. A 20-minute subway ride typically costs around ,250-,550.
 *   **What to Wear:** Layers are always a good idea in Seoul. While inside these establishments will be warm, the walk to and from the subway or taxi can be chilly. A light waterproof jacket and comfortable, closed-toe shoes are recommended.
-*   **Payment Methods:** Most establishments in Seoul accept major credit cards (Visa, Mastercard, American Express). Carrying some cash (??0,000-??0,000) is always advisable for smaller purchases or establishments, although less common in LP bars and makgeolli houses.
+*   **Payment Methods:** Most establishments in Seoul accept major credit cards (Visa, Mastercard, American Express). Carrying some cash (0,000-0,000) is always advisable for smaller purchases or establishments, although less common in LP bars and makgeolli houses.
 *   **Reservations:** For popular LP bars or makgeolli houses, especially on weekend evenings, making a reservation can save you from waiting in the rain. Some places accept online bookings, while others prefer phone calls (English might be limited).
-*   **Language:** While many tourist-centric areas have English menus and staff, it's not guaranteed everywhere. Having a translation app like Papago on your phone is highly recommended. Learning a few basic Korean phrases like "juseyo" (주세?? please give me) or "gamsahamnida" (감사?�니?? thank you) can also go a long way.
+*   **Language:** While many tourist-centric areas have English menus and staff, it's not guaranteed everywhere. Having a translation app like Papago on your phone is highly recommended. Learning a few basic Korean phrases like "juseyo" (주세 please give me) or "gamsahamnida" (감사?�니 thank you) can also go a long way.
 
 <InfoBox type="arc-free" title="Embrace the Seoulite Spirit">
   Don't be afraid to try new things! Locals often embrace the unique charm of rainy evenings. Striking up a conversation with staff or fellow patrons (if the setting allows) can lead to truly memorable cultural exchanges. Over 70% of international tourists surveyed indicate a desire for unique local experiences beyond typical sightseeing.
@@ -355,7 +355,7 @@ A rainy evening in Seoul is far from a wasted one. It's an opportunity to dive d
     },
     { 
       question: "What's the typical budget for a rainy evening out in Seoul?", 
-      answer: "For an enjoyable evening including a few drinks and some food, you can expect to spend approximately ??0,000 to ??0,000 per person. This can vary based on the specific venue, your drink choices (cocktails vs. beer/makgeolli), and how much food you order. Makgeolli houses tend to be slightly more budget-friendly if you're sharing food." 
+      answer: "For an enjoyable evening including a few drinks and some food, you can expect to spend approximately 0,000 to 0,000 per person. This can vary based on the specific venue, your drink choices (cocktails vs. beer/makgeolli), and how much food you order. Makgeolli houses tend to be slightly more budget-friendly if you're sharing food." 
     },
     { 
       question: "Are these places open late?", 

@@ -30,7 +30,7 @@ South Korea operates as a highly cashless society. From major department stores 
   Korea is at the forefront of digital transactions. Relying solely on cash will severely limit your convenience. Using a local card streamlines transport, shopping, and dining experiences, often making transactions quicker and more secure than handling physical currency.
 </InfoBox>
 
-In 2026, the convergence of transport functionality with general payment features has become a key differentiator among these cards. Many travelers arrive with significant cash in their home currency and need efficient ways to convert it into Korean Won and spend it seamlessly. These tourist cards address this need, providing a bridge between your foreign funds and local spending. The average transaction value in Seoul using these cards for daily expenses like food and coffee typically falls between ??,000 and ??5,000, illustrating their utility for frequent small purchases.
+In 2026, the convergence of transport functionality with general payment features has become a key differentiator among these cards. Many travelers arrive with significant cash in their home currency and need efficient ways to convert it into Korean Won and spend it seamlessly. These tourist cards address this need, providing a bridge between your foreign funds and local spending. The average transaction value in Seoul using these cards for daily expenses like food and coffee typically falls between ,000 and 5,000, illustrating their utility for frequent small purchases.
 
 ## T-Money: The Enduring Classic for Public Transport
 
@@ -42,7 +42,7 @@ T-Money is a rechargeable smart card primarily used for public transportation. I
 
 ### Acquisition and Recharge
 
-Acquiring a T-Money card is straightforward. You can purchase one at most convenience stores (such as GS25, CU, 7-Eleven, E-Mart24) or from vending machines located within subway stations. The initial card cost is typically ??,500 to ??,000. Recharging the card can be done at these same locations. Subway station machines often offer English language support, making the process easier for foreigners.
+Acquiring a T-Money card is straightforward. You can purchase one at most convenience stores (such as GS25, CU, 7-Eleven, E-Mart24) or from vending machines located within subway stations. The initial card cost is typically ,500 to ,000. Recharging the card can be done at these same locations. Subway station machines often offer English language support, making the process easier for foreigners.
 
 <StepGuide
   title="How to Get and Recharge Your T-Money Card"
@@ -51,20 +51,20 @@ Acquiring a T-Money card is straightforward. You can purchase one at most conven
   steps={[
     { 
       title: "Purchase Your Card", 
-      description: "Visit any convenience store (CU, GS25, 7-Eleven) or a subway station vending machine. Request a 'T-Money card'. The initial card cost is around ??,000.", 
+      description: "Visit any convenience store (CU, GS25, 7-Eleven) or a subway station vending machine. Request a 'T-Money card'. The initial card cost is around ,000.", 
       tip: "Subway station machines usually accept credit cards for purchase, while convenience stores are typically cash-only for the card itself." 
     },
     { 
       title: "Load Funds", 
-      description: "At the convenience store, tell the cashier 'T-Money chungjeon' (ì¶©ì „) and the amount (e.g., 'iman-won' for ??0,000). At subway machines, select 'Recharge' and follow the on-screen instructions. You can typically load between ??,000 and ??0,000 at a time.", 
-      tip: "Start with ??0,000-??0,000. A typical Seoul subway fare is ??,400, and a bus fare is ??,200, so this amount will last several days for active travelers." 
+      description: "At the convenience store, tell the cashier 'T-Money chungjeon' (ì¶©ì „) and the amount (e.g., 'iman-won' for 0,000). At subway machines, select 'Recharge' and follow the on-screen instructions. You can typically load between ,000 and 0,000 at a time.", 
+      tip: "Start with 0,000-0,000. A typical Seoul subway fare is ,400, and a bus fare is ,200, so this amount will last several days for active travelers." 
     }
   ]}
 />
 
 ### T-Money Usage and Fares (2026)
 
-In 2026, standard adult fares for public transport using T-Money remain highly competitive. A single subway ride in Seoul typically costs ??,400 (base fare, additional for longer distances), while a local bus ride is around ??,200. These fares are approximately ??00-??00 cheaper than using single-use tickets, adding up to significant savings over a multi-day trip. With millions of daily transactions, the T-Money system processes an average of over 10 million transactions per day across the greater Seoul area, demonstrating its widespread acceptance and efficiency.
+In 2026, standard adult fares for public transport using T-Money remain highly competitive. A single subway ride in Seoul typically costs ,400 (base fare, additional for longer distances), while a local bus ride is around ,200. These fares are approximately 00-00 cheaper than using single-use tickets, adding up to significant savings over a multi-day trip. With millions of daily transactions, the T-Money system processes an average of over 10 million transactions per day across the greater Seoul area, demonstrating its widespread acceptance and efficiency.
 
 <ProsCons
   title="T-Money Card: Pros and Cons"
@@ -89,7 +89,7 @@ In 2026, standard adult fares for public transport using T-Money remain highly c
   type="local"
   verified={true}
 >
-  "Even with newer options, I still keep a T-Money card for its sheer simplicity and reliability. It's a lifesaver for quickly jumping on a bus or subway without fumbling for cash or worrying about app glitches. For short trips, it?™s often all you need for transport."
+  "Even with newer options, I still keep a T-Money card for its sheer simplicity and reliability. It's a lifesaver for quickly jumping on a bus or subway without fumbling for cash or worrying about app glitches. For short trips, it?ï¿½s often all you need for transport."
 </ExpertTip>
 
 ## Wowpass: The All-in-One Solution for Foreigners
@@ -108,14 +108,14 @@ Getting a Wowpass involves using dedicated kiosks, primarily found in major subw
   title="Wowpass Network Growth (2026 Projections)"
   variant="gradient"
   stats={[
-    { value: "150+", label: "Kiosk Locations", icon: "?“" },
-    { value: "95%", label: "Major Tourist Areas Covered", icon: "?—ºï¸? },
-    { value: "750K+", label: "Expected Monthly Users", icon: "?‘¥" }
+    { value: "150+", label: "Kiosk Locations", icon: "ðŸ“" },
+    { value: "95%", label: "Major Tourist Areas Covered", icon: "ðŸ—ºï¸" },
+    { value: "750K+", label: "Expected Monthly Users", icon: "ðŸ‘¥" }
   ]}
   source="Wowpass Official Data & Projections 2025/2026"
 />
 
-Using Wowpass for purchases is like using a local debit card. It's accepted anywhere a standard Korean credit/debit card is, which covers most establishments. For transport, simply tap the card reader like a regular T-Money. Maintaining two separate balances (Won for debit, Won for T-Money) requires a bit of attention, but the app simplifies management. For example, you can transfer funds from your debit balance to your T-Money balance via the app. A typical exchange transaction at a Wowpass kiosk, converting $100 USD, would yield approximately ??35,000 (depending on current exchange rates and the 1.5% average service fee).
+Using Wowpass for purchases is like using a local debit card. It's accepted anywhere a standard Korean credit/debit card is, which covers most establishments. For transport, simply tap the card reader like a regular T-Money. Maintaining two separate balances (Won for debit, Won for T-Money) requires a bit of attention, but the app simplifies management. For example, you can transfer funds from your debit balance to your T-Money balance via the app. A typical exchange transaction at a Wowpass kiosk, converting $100 USD, would yield approximately 35,000 (depending on current exchange rates and the 1.5% average service fee).
 
 <ProsCons
   title="Wowpass: Pros and Cons"
@@ -154,14 +154,14 @@ The Namane card is a prepaid debit card that includes a transportation function,
 
 ### Acquisition and Usage
 
-Namane cards are acquired at designated kiosks, often found in major subway stations, tourist information centers, and shopping malls. The process involves selecting your design via an app or kiosk, paying the card issuance fee (typically ??,000 to ??0,000 depending on design complexity), and then loading funds. The main differentiating factor is the design process, which can take about 2-3 minutes at the kiosk after selecting your image. Namane card kiosks are prevalent in Seoul, with over 50 locations across Gangnam, Hongdae, Myeongdong, and other popular districts by early 2026.
+Namane cards are acquired at designated kiosks, often found in major subway stations, tourist information centers, and shopping malls. The process involves selecting your design via an app or kiosk, paying the card issuance fee (typically â‚©5,000 to â‚©10,000 depending on design complexity), and then loading funds. The main differentiating factor is the design process, which can take about 2-3 minutes at the kiosk after selecting your image. Namane card kiosks are prevalent in Seoul, with over 50 locations across Gangnam, Hongdae, Myeongdong, and other popular districts by early 2026.
 
 <QuickFacts
   title="Namane Card Essentials"
   facts={[
-    { label: "Card Cost", value: "??,000 - ??0,000", icon: "?’³" },
-    { label: "Personalization Time", value: "2-3 minutes (kiosk)", icon: "?±ï¸" },
-    { label: "Transport Fare", value: "Standard T-Money Fares", icon: "?š‡" }
+    { label: "Card Cost", value: "â‚©5,000 - â‚©10,000", icon: "ðŸ’³" },
+    { label: "Personalization Time", value: "2-3 minutes (kiosk)", icon: "ðŸŽ¨" },
+    { label: "Transport Fare", value: "Standard T-Money Fares", icon: "ðŸš‡" }
   ]}
   columns={3}
 />
@@ -207,9 +207,9 @@ The first step is getting the card itself. Costs vary for the physical card and 
   title="Initial Card Costs & Setup"
   variant="dualism"
   items={[
-    { name: "T-Money", price: "??,500 - ??,000", tag: "Budget-Friendly", description: "Card purchase only, no minimum load required to buy." },
-    { name: "Wowpass", price: "??,000", tag: "Integrated Value", description: "Card purchase, often bundled with a minimum foreign currency exchange (e.g., $20 USD equivalent)." },
-    { name: "Namane Card", price: "??,000 - ??0,000", tag: "Premium Customization", description: "Card purchase including design customization fee." }
+    { name: "T-Money", price: ",500 - ,000", tag: "Budget-Friendly", description: "Card purchase only, no minimum load required to buy." },
+    { name: "Wowpass", price: ",000", tag: "Integrated Value", description: "Card purchase, often bundled with a minimum foreign currency exchange (e.g., $20 USD equivalent)." },
+    { name: "Namane Card", price: ",000 - 0,000", tag: "Premium Customization", description: "Card purchase including design customization fee." }
   ]}
 />
 
@@ -224,13 +224,13 @@ All three cards offer similar functionality for public transport, effectively ac
   headers={["Feature", "T-Money", "Wowpass (T-Money function)", "Namane (T-Money function)"]}
   rows={[
     { feature: "Subway/Bus Coverage", option1: "Nationwide", option2: "Nationwide", option3: "Nationwide" },
-    { feature: "Standard Adult Fare (Seoul)", option1: "??,400 (subway), ??,200 (bus)", option2: "??,400 (subway), ??,200 (bus)", option3: "??,400 (subway), ??,200 (bus)" },
+    { feature: "Standard Adult Fare (Seoul)", option1: ",400 (subway), ,200 (bus)", option2: ",400 (subway), ,200 (bus)", option3: ",400 (subway), ,200 (bus)" },
     { feature: "Transfer Benefits", option1: "Yes (free within 30-60 min)", option2: "Yes", option3: "Yes" },
     { feature: "Taxi Payment", option1: "Most taxis", option2: "Most taxis", option3: "Most taxis" }
   ]}
 />
 
-For transportation, there's no significant difference in terms of functionality or fares. The key distinction lies in how you load the transport balance. T-Money requires cash (Korean Won). Wowpass allows transfers from its general payment balance (converted from foreign currency). Namane also allows transfers from its general payment balance (which can be topped up via foreign credit card, though with fees). A typical daily commute in Seoul using public transport for a tourist could easily involve 4-6 taps, amounting to approximately ??,000-??,000.
+For transportation, there's no significant difference in terms of functionality or fares. The key distinction lies in how you load the transport balance. T-Money requires cash (Korean Won). Wowpass allows transfers from its general payment balance (converted from foreign currency). Namane also allows transfers from its general payment balance (which can be topped up via foreign credit card, though with fees). A typical daily commute in Seoul using public transport for a tourist could easily involve 4-6 taps, amounting to approximately ,000-,000.
 
 ### General Payment Convenience & Acceptance
 
@@ -248,7 +248,7 @@ This is a critical factor for international travelers managing foreign currency.
 
 *   **T-Money:** Requires Korean Won cash for all recharges. No direct foreign currency exchange or foreign card top-up.
 *   **Wowpass:** Primary benefit is direct foreign currency exchange at kiosks (USD, EUR, JPY, CNY, etc.). Also supports Korean debit card top-ups. Foreign credit card top-ups for the payment balance are generally not supported for security reasons, emphasizing cash exchange.
-*   **Namane Card:** Offers diverse top-up methods. Kiosks accept Korean Won cash or Korean debit cards. The mobile app allows for top-ups using international credit/debit cards, although be aware of potential foreign transaction fees (typically 3-5% on top of your bank's fees). This flexibility is a major plus for travelers who prefer to minimize carrying cash. For example, topping up ??0,000 via a foreign credit card might incur an additional ??,500-??,500 in fees.
+*   **Namane Card:** Offers diverse top-up methods. Kiosks accept Korean Won cash or Korean debit cards. The mobile app allows for top-ups using international credit/debit cards, although be aware of potential foreign transaction fees (typically 3-5% on top of your bank's fees). This flexibility is a major plus for travelers who prefer to minimize carrying cash. For example, topping up 0,000 via a foreign credit card might incur an additional ,500-,500 in fees.
 
 ### App Functionality & Management
 
@@ -264,11 +264,11 @@ The Wowpass and Namane apps significantly enhance user experience, providing tra
 
 What happens to your unused funds at the end of your trip?
 
-*   **T-Money:** Remaining balance (up to ??0,000) can be refunded at convenience stores for a small fee (typically ??00). For amounts over ??0,000, you need to visit a T-Money service center. The card itself is non-refundable.
+*   **T-Money:** Remaining balance (up to 0,000) can be refunded at convenience stores for a small fee (typically 00). For amounts over 0,000, you need to visit a T-Money service center. The card itself is non-refundable.
 *   **Wowpass:** Remaining Korean Won on your payment balance can be converted back to your original foreign currency at a kiosk, though exchange rates and fees apply. T-Money balance refund is separate, similar to a regular T-Money card. Be prepared for potential complexities and kiosk queues for refunds.
 *   **Namane Card:** The payment balance can be refunded to a Korean bank account (not ideal for tourists). For foreign card top-ups, refunds may be processed back to the original card, potentially incurring fees. T-Money balance refund is separate. This is arguably the most complex refund process for foreigners.
 
-For small remaining balances (under ??0,000), many travelers opt to spend it at a convenience store or just keep the card as a souvenir.
+For small remaining balances (under 0,000), many travelers opt to spend it at a convenience store or just keep the card as a souvenir.
 
 <ComparisonTable
   title="Comprehensive Tourist Card Comparison (2026)"
@@ -290,11 +290,11 @@ Choosing the best tourist card in Korea ultimately depends on your travel style,
 
 ### The Budget-Conscious Traveler: T-Money
 
-If your primary goal is affordable and efficient public transport, and you prefer to manage your general spending with a mix of international credit cards and cash, T-Money is your best bet. It has the lowest initial cost and is the easiest to acquire and recharge with Korean Won. You'll save on transport fares and transfers, making your daily commutes seamless. For a 7-day trip with daily public transport use, you could save approximately ??,000-??,500 on fares alone compared to single-use tickets.
+If your primary goal is affordable and efficient public transport, and you prefer to manage your general spending with a mix of international credit cards and cash, T-Money is your best bet. It has the lowest initial cost and is the easiest to acquire and recharge with Korean Won. You'll save on transport fares and transfers, making your daily commutes seamless. For a 7-day trip with daily public transport use, you could save approximately ,000-,500 on fares alone compared to single-use tickets.
 
 ### The All-Inclusive / Long-Term Stay Traveler: Wowpass
 
-For those seeking an integrated solution that covers transport, general payments, and convenient foreign currency exchange, Wowpass is ideal. It minimizes the need for multiple cards or frequent visits to money changers. It's particularly beneficial for longer stays (10+ days) or if you plan to visit multiple cities across Korea. The mobile app provides excellent financial oversight, giving you peace of mind. A traveler converting $500 USD over a two-week trip through Wowpass could save approximately ??5,000-??0,000 in exchange fees compared to airport kiosks.
+For those seeking an integrated solution that covers transport, general payments, and convenient foreign currency exchange, Wowpass is ideal. It minimizes the need for multiple cards or frequent visits to money changers. It's particularly beneficial for longer stays (10+ days) or if you plan to visit multiple cities across Korea. The mobile app provides excellent financial oversight, giving you peace of mind. A traveler converting $500 USD over a two-week trip through Wowpass could save approximately 5,000-0,000 in exchange fees compared to airport kiosks.
 
 <InfoBox type="success" title="Seamless Travel with Wowpass">
   If you're looking for the ultimate convenience and an almost entirely cashless experience as a foreigner in Korea, Wowpass is the leading choice. Its ability to convert foreign currency directly into spendable Korean Won, coupled with T-Money functionality, makes it an unrivaled option for modern travelers.
@@ -308,7 +308,7 @@ If personalization is a priority and you appreciate the flexibility of topping u
 
 Regardless of your choice, here are some universal tips to enhance your experience:
 
-*   **Always Carry Some Cash:** While Korea is cashless, some small vendors, traditional markets, or specific local eateries might still prefer cash. Having ??0,000-??0,000 in your wallet is a good practice.
+*   **Always Carry Some Cash:** While Korea is cashless, some small vendors, traditional markets, or specific local eateries might still prefer cash. Having 0,000-0,000 in your wallet is a good practice.
 *   **Check Your Balance Regularly:** Use the mobile apps (for Wowpass/Namane) or check at subway gates/convenience stores (for T-Money) to avoid running out of funds mid-journey or at checkout.
 *   **Guard Your Card:** Treat your tourist card like a debit card. If lost, your loaded funds could be gone. Neither T-Money, Wowpass, nor Namane offers robust protection against unauthorized use if the card is lost, unlike some international bank cards.
 *   **Understanding Transfer Rules:** For T-Money, transfers are free between different modes of transport (e.g., subway to bus, bus to bus) within a specific time (usually 30-60 minutes) and if you tap out and tap back in correctly. Tapping the same line or route twice without an intermediate transfer will incur a new charge. A single transit journey with one transfer might take 45 minutes on average across Seoul.
@@ -320,7 +320,7 @@ Regardless of your choice, here are some universal tips to enhance your experien
   type="editor"
   verified={true}
 >
-  "From personal experience, always have a small emergency fund on your card. Nothing is worse than getting off a bus only to realize you can't tap into the subway because your T-Money balance is insufficient. Also, for Wowpass, remember that the general payment balance and T-Money balance are separate on the same card ??it's a common oversight!"
+  "From personal experience, always have a small emergency fund on your card. Nothing is worse than getting off a bus only to realize you can't tap into the subway because your T-Money balance is insufficient. Also, for Wowpass, remember that the general payment balance and T-Money balance are separate on the same card it's a common oversight!"
 </ExpertTip>
 
 ## Future Outlook: What's New for Tourist Cards in 2026?
@@ -342,11 +342,11 @@ Ultimately, each card has its strengths. Consider your length of stay, your comf
     },
     { 
       question: "Is there a daily spending limit for Wowpass or Namane cards?", 
-      answer: "Yes, both Wowpass and Namane typically have daily spending limits for general purchases, usually around ??,000,000 (approximately $1,500 USD) and monthly limits of about ??0,000,000 (around $7,500 USD). These limits are in place for security and regulatory compliance. Always check the latest terms via their official apps." 
+      answer: "Yes, both Wowpass and Namane typically have daily spending limits for general purchases, usually around ,000,000 (approximately $1,500 USD) and monthly limits of about 0,000,000 (around $7,500 USD). These limits are in place for security and regulatory compliance. Always check the latest terms via their official apps." 
     },
     { 
       question: "Can I get a refund for my T-Money card balance at the airport?", 
-      answer: "Yes, you can typically get a refund for your T-Money card balance at convenience stores located within Incheon International Airport (Terminals 1 & 2), provided the balance is ??0,000 or less. A small service fee of ??00 will be deducted. For balances over ??0,000, you would need to visit a dedicated T-Money service center, which are not usually available at airports." 
+      answer: "Yes, you can typically get a refund for your T-Money card balance at convenience stores located within Incheon International Airport (Terminals 1 & 2), provided the balance is 0,000 or less. A small service fee of 00 will be deducted. For balances over 0,000, you would need to visit a dedicated T-Money service center, which are not usually available at airports." 
     },
     { 
       question: "Are T-Money, Wowpass, and Namane cards accepted outside of Seoul?", 
