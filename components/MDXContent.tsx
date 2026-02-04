@@ -5,6 +5,8 @@ import rehypeHighlight from 'rehype-highlight';
 import rehypeSlug from 'rehype-slug';
 import remarkGfm from 'remark-gfm';
 import { TourCard } from './affiliate/TourCard';
+
+// Original MDX Components
 import ImageGallery from './mdx/ImageGallery';
 import PriceComparisonChart from './mdx/PriceComparisonChart';
 import Timeline from './mdx/Timeline';
@@ -12,6 +14,19 @@ import InteractiveMap from './mdx/InteractiveMap';
 import BeforeAfter from './mdx/BeforeAfter';
 import ComparisonTable from './mdx/ComparisonTable';
 import ResponsiveTable from './mdx/ResponsiveTable';
+
+// New GEO-Optimized MDX Components (Deep Research Strategy)
+import KeyTakeaways from './mdx/KeyTakeaways';
+import InfoBox from './mdx/InfoBox';
+import QuickFacts from './mdx/QuickFacts';
+import StepGuide from './mdx/StepGuide';
+import PriceTable from './mdx/PriceTable';
+import LocationCard from './mdx/LocationCard';
+import ProsCons from './mdx/ProsCons';
+import DualismRoute from './mdx/DualismRoute';
+import StatCard from './mdx/StatCard';
+import ExpertTip from './mdx/ExpertTip';
+import FAQAccordion from './mdx/FAQAccordion';
 
 // Custom components for MDX
 const components = {
@@ -153,13 +168,37 @@ const components = {
   // Affiliate Components
   TourCard: TourCard,
   
-  // MDX Visual Components
+  // MDX Visual Components (Original)
   ImageGallery: ImageGallery,
   PriceComparisonChart: PriceComparisonChart,
   Timeline: Timeline,
   InteractiveMap: InteractiveMap,
   BeforeAfter: BeforeAfter,
   ComparisonTable: ComparisonTable,
+  
+  // GEO-Optimized Components (Deep Research Strategy)
+  // 1. KeyTakeaways - AI 인용 최적화 (40단어 핵심 요약)
+  KeyTakeaways: KeyTakeaways,
+  // 2. InfoBox - 팁/경고/성공/정보/ARC-Free 박스
+  InfoBox: InfoBox,
+  // 3. QuickFacts - 팩트 밀도 강화 (수치 기반 요약)
+  QuickFacts: QuickFacts,
+  // 4. StepGuide - HowTo 스키마 연동 단계별 가이드
+  StepGuide: StepGuide,
+  // 5. PriceTable - 럭셔리 vs 실속 가격 비교 (이원성)
+  PriceTable: PriceTable,
+  // 6. LocationCard - LocalBusiness 스키마 연동
+  LocationCard: LocationCard,
+  // 7. ProsCons - 장단점 시각화
+  ProsCons: ProsCons,
+  // 8. DualismRoute - 이원적 가치 경로 (고급 vs 실속)
+  DualismRoute: DualismRoute,
+  // 9. StatCard - 통계/수치 하이라이트
+  StatCard: StatCard,
+  // 10. ExpertTip - E-E-A-T 강화 (전문가/현지인 팁)
+  ExpertTip: ExpertTip,
+  // 11. FAQAccordion - FAQPage 스키마 연동
+  FAQAccordion: FAQAccordion,
 };
 
 interface MDXContentProps {

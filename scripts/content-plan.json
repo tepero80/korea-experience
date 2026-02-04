@@ -1,6 +1,37 @@
 {
   "batches": [
     {
+      "name": "Gemini 3 Pro Test - Deep Research Topics",
+      "category": "Mixed",
+      "posts": [
+        "How to Call a Taxi in Korea Without a Local Phone Number Kakao T Alternatives for Tourists",
+        "Affordable Fine Dining 5 Michelin-Starred Lunch Menus in Seoul for Under $50",
+        "K-Content Living How to Recreate Your Favorite K-Drama Convenience Store Dinner Like a Local",
+        "2026 Year of the Red Horse Special Exhibitions and Spiritual Spots to Visit for Luck",
+        "Do I Need a K-ETA in 2026 A Complete Guide for All 100+ Nationalities",
+        "Best Korea SIM Cards for Long-Term Travelers Beyond Airport Rentals and Prepaid Limits"
+      ]
+    },
+    {
+      "name": "FEATURED - Editor's Picks (Deep Research GEO)",
+      "category": "Mixed",
+      "posts": [
+        "T-Money vs Wowpass vs Namane A Data-Backed Comparison of the Best Tourist Cards in 2026",
+        "24 Hours in Seongsu-dong Luxury Dior Pop-up vs $5 Market Food A Dualism Route",
+        "How to Spend a Rainy Evening in Seoul Best LP Bars and Traditional Makgeolli Houses",
+        "K-Fandom Economy Where to Find Limited-Edition Goods Without a Fan Club Membership",
+        "How Much Does a 7-Day Trip to Korea Cost in 2026 Budget vs Luxury Breakdown",
+        "Foreign-Friendly Kiosk Survival Guide What to Do When Your Overseas Credit Card Is Rejected"
+      ]
+    },
+    {
+      "name": "TEST - GEO Components Sample",
+      "category": "Living in Korea",
+      "posts": [
+        "How to Use Baemin Without an ARC in 2026 Pay at the Door Methods and Alternatives"
+      ]
+    },
+    {
       "name": "Medical Tourism - Procedure Comparisons 1",
       "category": "Medical Tourism",
       "posts": [

@@ -4,8 +4,6 @@ date: 2026-01-01
 excerpt: "Master Seoul in 24 hours with this expert guide covering essential sights, food, and nightlife. Unlock the secrets to a dynamic day and night adventure."
 category: Travel & Tourism
 author: Korea Experience Team
-featured: true
-featuredOrder: 2
 ---
 
 ## Introduction: Conquering Seoul in Just 24 Hours

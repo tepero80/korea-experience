@@ -4,8 +4,6 @@ date: 2026-01-01
 excerpt: "Embark on a culinary journey through Korea with our ultimate guide to 50 essential dishes. Discover authentic flavors, where to eat, and insider tips for foodies."
 category: Food & Dining
 author: Korea Experience Team
-featured: true
-featuredOrder: 4
 ---
 
 # 50 Must-Try Korean Foods: Complete Guide 2026

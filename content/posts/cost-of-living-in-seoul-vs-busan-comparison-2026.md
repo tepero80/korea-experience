@@ -4,8 +4,6 @@ date: 2026-01-05
 excerpt: "Discover the 2026 cost of living differences between Seoul and Busan. Get expert insights on rent, food, transport, and lifestyle for expats and travelers."
 category: Living in Korea
 author: Korea Experience Team
-featured: true
-featuredOrder: 3
 ---
 
 ## Cost of Living Seoul vs Busan Comparison 2026 Guide

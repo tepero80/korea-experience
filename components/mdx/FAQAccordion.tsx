@@ -1,0 +1,188 @@
+'use client';
+
+/**
+ * FAQAccordion Component
+ * GEO 최적화: FAQPage 스키마와 연동
+ * Deep Research 전략: AI가 FAQ 섹션을 Featured Snippet으로 인용
+ */
+
+import { useState } from 'react';
+
+interface FAQItem {
+  /** 질문 */
+  question: string;
+  /** 답변 */
+  answer: string;
+}
+
+interface FAQAccordionProps {
+  /** 제목 */
+  title?: string;
+  /** FAQ 항목들 */
+  items: FAQItem[];
+  /** 기본 열린 항목 인덱스 */
+  defaultOpen?: number;
+  /** 스타일 변형 */
+  variant?: 'default' | 'minimal' | 'bordered';
+}
+
+export default function FAQAccordion({ 
+  title = "Frequently Asked Questions",
+  items, 
+  defaultOpen,
+  variant = 'default'
+}: FAQAccordionProps) {
+  const [openIndex, setOpenIndex] = useState<number | null>(defaultOpen ?? null);
+
+  const toggleItem = (index: number) => {
+    setOpenIndex(openIndex === index ? null : index);
+  };
+
+  // Minimal variant
+  if (variant === 'minimal') {
+    return (
+      <div className="my-8" itemScope itemType="https://schema.org/FAQPage">
+        {title && (
+          <h3 className="text-2xl font-bold text-gray-900 mb-6 flex items-center gap-2">
+            <span>❓</span> {title}
+          </h3>
+        )}
+        <div className="space-y-3">
+          {items.map((item, index) => (
+            <div 
+              key={index}
+              className="border border-gray-200 rounded-lg overflow-hidden"
+              itemScope
+              itemProp="mainEntity"
+              itemType="https://schema.org/Question"
+            >
+              <button
+                className="w-full flex items-center justify-between p-4 text-left hover:bg-gray-50 transition-colors"
+                onClick={() => toggleItem(index)}
+                aria-expanded={openIndex === index}
+              >
+                <span className="font-medium text-gray-900" itemProp="name">
+                  {item.question}
+                </span>
+                <span className={`text-2xl text-gray-400 transition-transform ${openIndex === index ? 'rotate-45' : ''}`}>
+                  +
+                </span>
+              </button>
+              {openIndex === index && (
+                <div 
+                  className="px-4 pb-4 text-gray-600"
+                  itemScope
+                  itemProp="acceptedAnswer"
+                  itemType="https://schema.org/Answer"
+                >
+                  <p itemProp="text" className="m-0">{item.answer}</p>
+                </div>
+              )}
+            </div>
+          ))}
+        </div>
+      </div>
+    );
+  }
+
+  // Default variant
+  return (
+    <div 
+      className="my-8 bg-white rounded-2xl shadow-lg border border-gray-200 overflow-hidden"
+      itemScope
+      itemType="https://schema.org/FAQPage"
+    >
+      {/* Header */}
+      <div className="bg-gradient-to-r from-blue-600 to-indigo-600 px-6 py-4">
+        <h3 className="text-xl font-bold text-white m-0 p-0 border-none flex items-center gap-2">
+          <span>❓</span> {title}
+        </h3>
+      </div>
+
+      {/* FAQ Items */}
+      <div className="divide-y divide-gray-100">
+        {items.map((item, index) => (
+          <div 
+            key={index}
+            itemScope
+            itemProp="mainEntity"
+            itemType="https://schema.org/Question"
+          >
+            <button
+              className="w-full flex items-start gap-4 p-5 text-left hover:bg-gray-50 transition-colors group"
+              onClick={() => toggleItem(index)}
+              aria-expanded={openIndex === index}
+            >
+              {/* Number */}
+              <span className={`flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold transition-colors ${
+                openIndex === index 
+                  ? 'bg-blue-500 text-white' 
+                  : 'bg-gray-100 text-gray-600 group-hover:bg-blue-100'
+              }`}>
+                {index + 1}
+              </span>
+              
+              {/* Question */}
+              <span 
+                className="flex-1 font-semibold text-gray-900 pt-1"
+                itemProp="name"
+              >
+                {item.question}
+              </span>
+              
+              {/* Toggle Icon */}
+              <span className={`flex-shrink-0 w-8 h-8 rounded-full bg-gray-100 flex items-center justify-center transition-all ${
+                openIndex === index ? 'rotate-180 bg-blue-100' : ''
+              }`}>
+                <svg 
+                  className="w-5 h-5 text-gray-600" 
+                  fill="none" 
+                  stroke="currentColor" 
+                  viewBox="0 0 24 24"
+                >
+                  <path 
+                    strokeLinecap="round" 
+                    strokeLinejoin="round" 
+                    strokeWidth={2} 
+                    d="M19 9l-7 7-7-7" 
+                  />
+                </svg>
+              </span>
+            </button>
+            
+            {/* Answer */}
+            <div 
+              className={`overflow-hidden transition-all duration-300 ${
+                openIndex === index ? 'max-h-96' : 'max-h-0'
+              }`}
+            >
+              <div 
+                className="px-5 pb-5 pl-16 text-gray-600 leading-relaxed"
+                itemScope
+                itemProp="acceptedAnswer"
+                itemType="https://schema.org/Answer"
+              >
+                <div 
+                  className="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg"
+                  itemProp="text"
+                >
+                  {item.answer}
+                </div>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+      
+      {/* Footer */}
+      <div className="bg-gray-50 border-t border-gray-100 px-6 py-4 text-center">
+        <p className="text-sm text-gray-600 m-0">
+          Have more questions? 
+          <a href="/contact" className="text-blue-600 hover:underline ml-1 font-medium">
+            Contact us →
+          </a>
+        </p>
+      </div>
+    </div>
+  );
+}

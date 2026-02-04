@@ -5,6 +5,9 @@ interface ComparisonRow {
   option1: string | boolean;
   option2: string | boolean;
   option3?: string | boolean;
+  option4?: string | boolean;
+  option5?: string | boolean;
+  option6?: string | boolean;
 }
 
 interface ComparisonTableProps {
@@ -14,7 +17,8 @@ interface ComparisonTableProps {
 }
 
 export default function ComparisonTable({ title, headers, rows }: ComparisonTableProps) {
-  const renderCell = (value: string | boolean) => {
+  const renderCell = (value: string | boolean | undefined) => {
+    if (value === undefined) return null;
     if (typeof value === 'boolean') {
       return value ? (
         <span className="text-2xl">✅</span>
@@ -23,6 +27,21 @@ export default function ComparisonTable({ title, headers, rows }: ComparisonTabl
       );
     }
     return <span className="text-sm text-gray-700">{value}</span>;
+  };
+
+  // Dynamically get option keys from the first row
+  const getOptionCells = (row: ComparisonRow) => {
+    const options: (string | boolean | undefined)[] = [
+      row.option1,
+      row.option2,
+      row.option3,
+      row.option4,
+      row.option5,
+      row.option6,
+    ];
+    
+    // Return only the options that correspond to headers (excluding "feature" header)
+    return options.slice(0, headers.length - 1);
   };
 
   return (
@@ -38,7 +57,7 @@ export default function ComparisonTable({ title, headers, rows }: ComparisonTabl
               {headers.map((header, index) => (
                 <th 
                   key={index}
-                  className="px-6 py-6 text-center text-xl font-black text-white uppercase tracking-wide"
+                  className="px-4 py-4 text-center text-sm md:text-lg font-black text-white uppercase tracking-wide"
                   style={{ backgroundColor: 'transparent' }}
                 >
                   {header}
@@ -47,27 +66,21 @@ export default function ComparisonTable({ title, headers, rows }: ComparisonTabl
             </tr>
           </thead>
           <tbody>
-            {rows.map((row, index) => (
+            {rows.map((row, rowIndex) => (
               <tr 
-                key={index}
+                key={rowIndex}
                 className={`${
-                  index % 2 === 0 ? 'bg-gray-50' : 'bg-white'
+                  rowIndex % 2 === 0 ? 'bg-gray-50' : 'bg-white'
                 } hover:bg-blue-50 transition-colors`}
               >
-                <td className="px-6 py-5 font-bold text-gray-900 text-base">
+                <td className="px-4 py-4 font-bold text-gray-900 text-sm md:text-base">
                   {row.feature}
                 </td>
-                <td className="px-6 py-5 text-base">
-                  {renderCell(row.option1)}
-                </td>
-                <td className="px-6 py-5 text-base">
-                  {renderCell(row.option2)}
-                </td>
-                {row.option3 !== undefined && (
-                  <td className="px-6 py-5 text-base">
-                    {renderCell(row.option3)}
+                {getOptionCells(row).map((option, cellIndex) => (
+                  <td key={cellIndex} className="px-4 py-4 text-center text-sm md:text-base">
+                    {renderCell(option)}
                   </td>
-                )}
+                ))}
               </tr>
             ))}
           </tbody>
