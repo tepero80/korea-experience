@@ -1,8 +1,8 @@
-ï»¿---
+---
 title: "K-Pop Busking Hongdae Street Performance Schedule Guide"
 date: 2026-01-22
 excerpt: "Uncover the magic of K-Pop busking in Hongdae, Seoul. This guide reveals performance hotspots, typical schedules, and insider tips for an unforgettable experience."
-category: K-Culture & Entertainment
+category: K-Culture
 author: Korea Experience Team
 ---
 
@@ -183,7 +183,7 @@ Hongdae, especially during peak busking hours, can be very crowded.
 
 ## The Unpredictable Charm of Hongdae Busking
 
-Itâ€™s crucial to approach the Hongdae busking scene with an understanding that it thrives on spontaneity. There is no official "K-Pop busking Hongdae street performance schedule" because the nature of street performance is inherently fluid.
+It¡¯s crucial to approach the Hongdae busking scene with an understanding that it thrives on spontaneity. There is no official "K-Pop busking Hongdae street performance schedule" because the nature of street performance is inherently fluid.
 
 ### Embracing the Serendipity
 

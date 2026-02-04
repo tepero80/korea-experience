@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Korean Palace Tour Guide: Architecture, History & Culture"
 date: 2026-01-20
 excerpt: "Explore Korea's majestic palaces, learn about traditional architecture, and discover their rich history and cultural significance on this essential tour guide."
-category: K-Culture & Entertainment
+category: K-Culture
 author: Korea Experience Team
 ---
 

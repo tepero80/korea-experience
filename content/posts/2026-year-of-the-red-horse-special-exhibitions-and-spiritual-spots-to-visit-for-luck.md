@@ -2,7 +2,7 @@
 title: "2026 Red Horse Year Exhibitions and Spiritual Spots Guide"
 date: 2026-02-04
 excerpt: "Discover the best 2026 Year of the Red Horse exhibitions and spiritual spots in Korea to maximize your luck and embrace fiery energy."
-category: Mixed
+category: K-Culture
 author: Korea Experience Team
 ---
 
@@ -29,7 +29,7 @@ Before diving into the itinerary, it is crucial to understand the cultural signi
   variant="gradient"
   stats={[
     { value: "60 Years", label: "Cycle Duration", icon: "qh" },
-    { value: "3rd", label: "Zodiac Popularity", icon: "ðŸ“Š" }
+    { value: "3rd", label: "Zodiac Popularity", icon: "?“Š" }
   ]}
   source="Cultural Heritage Administration 2026 Data"
 />
@@ -105,9 +105,9 @@ Traveling to Yangyang has become significantly easier. The KTX-Eum high-speed tr
 <QuickFacts
   title="Naksansa Visit Facts"
   facts={[
-    { label: "Entrance Fee", value: "4,000 KRW", icon: "ðŸŽŸï¸" },
-    { label: "Travel Time", value: "2 hrs from Seoul", icon: "ðŸš„" },
-    { label: "Best Sunrise", value: "07:20 AM (Feb)", icon: "ðŸŒ…" }
+    { label: "Entrance Fee", value: "4,000 KRW", icon: "?ŽŸï¸? },
+    { label: "Travel Time", value: "2 hrs from Seoul", icon: "?š„" },
+    { label: "Best Sunrise", value: "07:20 AM (Feb)", icon: "?Œ…" }
   ]}
   columns={3}
 />
@@ -116,7 +116,7 @@ The hallmark of Naksansa is the Haesugwaneumsang, a 16-meter tall granite statue
 
 ## Jeju Island: The Land of the Horse
 
-No guide to the Year of the Horse would be complete without mentioning Jeju Island. Historically, Jeju has been Korea's primary horse-breeding ground since the Goryeo Dynasty. The local breed, *Jorangmal*, is small but incredibly sturdy and resilientâ€”perfect symbols for 2026.
+No guide to the Year of the Horse would be complete without mentioning Jeju Island. Historically, Jeju has been Korea's primary horse-breeding ground since the Goryeo Dynasty. The local breed, *Jorangmal*, is small but incredibly sturdy and resilient?”perfect symbols for 2026.
 
 Jeju is home to over 100 horse riding parks. The flight from Seoul's Gimpo Airport to Jeju International Airport covers 450 kilometers and takes approximately 65 minutes, with ticket prices averaging 60,000 to 120,000 KRW depending on the season.
 
@@ -127,8 +127,8 @@ Travelers can choose between immersive cultural experiences or active riding.
   title="Jeju Horse Experience Comparison"
   variant="dualism"
   items={[
-    { name: "Premium Trail Ride", price: "â‚©150,000", tag: "luxury", description: "2-hour coastal trek, private guide, photos included." },
-    { name: "Short Track Experience", price: "â‚©35,000", tag: "budget", description: "20-minute guided walk, helmet rental, carrot feeding." }
+    { name: "Premium Trail Ride", price: "??50,000", tag: "luxury", description: "2-hour coastal trek, private guide, photos included." },
+    { name: "Short Track Experience", price: "??5,000", tag: "budget", description: "20-minute guided walk, helmet rental, carrot feeding." }
   ]}
 />
 
@@ -160,7 +160,7 @@ Most major temples open at 04:00 AM for morning chanting and close at sunset, th
   title="Transit Options to Spiritual Spots"
   headers={["Feature", "Rental Car", "KTX Train", "Express Bus"]}
   rows={[
-    { feature: "Cost (Seoul-East Coast)", option1: "â‚©120,000+", option2: "â‚©30,000", option3: "â‚©22,000" },
+    { feature: "Cost (Seoul-East Coast)", option1: "??20,000+", option2: "??0,000", option3: "??2,000" },
     { feature: "Flexibility", option1: "High", option2: "Medium", option3: "Low" },
     { feature: "Travel Time", option1: "3 Hours", option2: "2 Hours", option3: "3.5 Hours" }
   ]}

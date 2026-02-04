@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Unveiling K-Pop Magic SM JYP HYBE Company Tours"
 date: 2026-01-22
 excerpt: "Dreaming of K-Pop? Explore our guide to SM, JYP, and HYBE public spaces and experiences. Discover how to get closer to your favorite idols' worlds."
-category: K-Culture & Entertainment
+category: K-Culture
 author: Korea Experience Team
 ---
 
@@ -104,7 +104,7 @@ JYP Entertainment's modern headquarters, an impressive white building, is locate
 
 The area around the JYP building, particularly the Soul Cup Cafe, has become an unofficial gathering point for fans.
 *   **"Waiting" Spots:** While it's crucial to always prioritize safety, respect, and privacy, some dedicated fans might gather outside the building hoping for a glimpse of artists entering or exiting. This practice is entirely fan-driven and not officially sanctioned. If you choose to do this, always be mindful of local regulations, pedestrians, and artist privacy. Do not obstruct entrances or public pathways.
-*   **Nearby Attractions:** The JYP building is relatively close to Olympic Park, a large green space popular for concerts, events, and outdoor activities. This offers a good combination for a day out – visiting JYP in the morning and enjoying the park in the afternoon.
+*   **Nearby Attractions:** The JYP building is relatively close to Olympic Park, a large green space popular for concerts, events, and outdoor activities. This offers a good combination for a day out ? visiting JYP in the morning and enjoying the park in the afternoon.
 
 ### What to Buy and Experience
 

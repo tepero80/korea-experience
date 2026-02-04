@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Historical Accuracy in K-Dramas: Fact vs Fiction"
 date: 2026-01-10
 excerpt: "Explore the fascinating balance between historical facts and creative storytelling in Korean period dramas. Learn how to distinguish authenticity from artistic license, enhancing your viewing."
-category: K-Culture & Entertainment
+category: K-Culture
 author: Korea Experience Team
 ---
 **Introduction: The Magnetic Appeal of Korean Historical Dramas**
@@ -25,7 +25,7 @@ Visually, Korean historical dramas are often masterpieces. Lavish sets, meticulo
 
 ### Emotional Depth and Universal Themes
 
-While rooted in specific historical periods, sageuk often explore universal human experiences that transcend time and culture. The struggle for justice, the pursuit of power, the complexities of love, the resilience of the human spirit – these themes resonate with audiences regardless of their background. Whether it's the unwavering loyalty of a subject to their king, the forbidden romance between individuals from different social classes, or the arduous journey of a hero fighting for their people, these narratives tap into fundamental human emotions. This emotional depth is often amplified by the high stakes inherent in historical settings, where decisions can affect the fate of an entire nation, making the dramas incredibly gripping and impactful.
+While rooted in specific historical periods, sageuk often explore universal human experiences that transcend time and culture. The struggle for justice, the pursuit of power, the complexities of love, the resilience of the human spirit ? these themes resonate with audiences regardless of their background. Whether it's the unwavering loyalty of a subject to their king, the forbidden romance between individuals from different social classes, or the arduous journey of a hero fighting for their people, these narratives tap into fundamental human emotions. This emotional depth is often amplified by the high stakes inherent in historical settings, where decisions can affect the fate of an entire nation, making the dramas incredibly gripping and impactful.
 
 **Navigating Historical Accuracy in K-Dramas: The Spectrum**
 
@@ -157,7 +157,7 @@ At its core, a historical drama is a work of art. Limiting screenwriters and dir
 
 ### Exploring Universal Themes Through a Historical Lens
 
-Fictional elements allow dramas to explore universal human themes—love, loss, ambition, betrayal, justice, and the struggle for power—within a visually rich and culturally distinct historical setting. By creating fictional characters or embellishing historical ones, screenwriters can craft narratives that directly address these themes in a relatable and impactful way. The historical backdrop provides a unique context, adding gravitas and a sense of epic scale to these timeless human experiences. This blend of historical setting and universal themes is a key reason why sageuk connect so deeply with such a diverse global audience, proving that sometimes, fiction can illuminate truths beyond mere facts.
+Fictional elements allow dramas to explore universal human themes?love, loss, ambition, betrayal, justice, and the struggle for power?within a visually rich and culturally distinct historical setting. By creating fictional characters or embellishing historical ones, screenwriters can craft narratives that directly address these themes in a relatable and impactful way. The historical backdrop provides a unique context, adding gravitas and a sense of epic scale to these timeless human experiences. This blend of historical setting and universal themes is a key reason why sageuk connect so deeply with such a diverse global audience, proving that sometimes, fiction can illuminate truths beyond mere facts.
 
 **Comparison Table: Fictional vs. Historical Representation in K-Dramas**
 

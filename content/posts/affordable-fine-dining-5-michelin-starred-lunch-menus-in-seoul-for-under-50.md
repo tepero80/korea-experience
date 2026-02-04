@@ -2,7 +2,7 @@
 title: "Affordable Fine Dining 5 Michelin-Starred Lunch Menus in Seoul for Under $50"
 date: 2026-02-04
 excerpt: "Discover the hidden value of Seoul's culinary scene with our guide to 5 Michelin-starred and recognized lunch experiences for under $50 USD."
-category: Mixed
+category: Food & Dining
 author: Korea Experience Team
 ---
 
@@ -29,9 +29,9 @@ Chefs use lunch menus to test new seasonal concepts and maintain kitchen efficie
 <QuickFacts
   title="Lunch Value Facts"
   facts={[
-    { label: "Avg Lunch Price", value: "â‚©45k-70k", icon: "ðŸ’°" },
-    { label: "Booking Lead Time", value: "21 Days", icon: "ðŸ—“ï¸" },
-    { label: "Service Tax", value: "Included", icon: "ðŸ§¾" }
+    { label: "Avg Lunch Price", value: "??5k-70k", icon: "?’°" },
+    { label: "Booking Lead Time", value: "21 Days", icon: "?—“ï¸? },
+    { label: "Service Tax", value: "Included", icon: "?§¾" }
   ]}
   columns={3}
 />
@@ -71,7 +71,7 @@ While dinner can get pricey, the lunch set menus featuring the signature Soy Sau
   type="local"
   verified={true}
 >
-  Locals often judge a Gejang restaurant by the saltiness of the soy sauce. Gebang Sikdang is famous because their sauce is surprisingly lightâ€”you can drink a spoonful of it without wincing. Don't leave any rice behind; mixing it into the crab shell is the highlight.
+  Locals often judge a Gejang restaurant by the saltiness of the soy sauce. Gebang Sikdang is famous because their sauce is surprisingly light?”you can drink a spoonful of it without wincing. Don't leave any rice behind; mixing it into the crab shell is the highlight.
 </ExpertTip>
 
 ---
@@ -80,7 +80,7 @@ While dinner can get pricey, the lunch set menus featuring the signature Soy Sau
 
 Located in the artistic Hongdae area, Yun Seoul holds a Michelin Star for its audacious approach to noodles and preservation. Chef Kim Do-yun is known for his "ingredient laboratory," where he stores hundreds of ingredients he has dried, fermented, or aged himself.
 
-The restaurant facade is unassuming, but the flavors are explosive. The noodles here are made from organic wheat ground daily on-site. The texture is unlike any pasta or ramen you have tastedâ€”firm, nutty, and aromatic.
+The restaurant facade is unassuming, but the flavors are explosive. The noodles here are made from organic wheat ground daily on-site. The texture is unlike any pasta or ramen you have tasted?”firm, nutty, and aromatic.
 
 ### The Lunch Menu Strategy
 Yun Seoul offers a lunch course that is significantly more accessible than its dinner counterpart. As of early 2026, the refined noodle course lunch hovers around 65,000 KRW (approx $46 USD). It usually consists of 5-6 courses, starting with intricate amuse-bouches featuring their aged ingredients, followed by the main noodle dish, and dessert.
@@ -89,8 +89,8 @@ Yun Seoul offers a lunch course that is significantly more accessible than its d
   title="Chef Kim's Lab Stats"
   variant="gradient"
   stats={[
-    { value: "500+", label: "Preserved Ingredients", icon: "ðŸ«™" },
-    { value: "0%", label: "Chemical Additives", icon: "ðŸ§ª" }
+    { value: "500+", label: "Preserved Ingredients", icon: "?«™" },
+    { value: "0%", label: "Chemical Additives", icon: "?§ª" }
   ]}
   source="Michelin Guide Seoul 2025"
 />
@@ -139,8 +139,8 @@ The Tori Paitan (creamy chicken broth) here is legendary. Foam-capped and rich, 
   title="Cost Comparison: Noodle Dishes"
   variant="dualism"
   items={[
-    { name: "Luxury Hotel Noodle Soup", price: "â‚©45,000", tag: "luxury", description: "Intercontinental/Shilla Hotel Lobby" },
-    { name: "Oreno Michelin Ramen", price: "â‚©12,000", tag: "budget", description: "Bib Gourmand Quality" }
+    { name: "Luxury Hotel Noodle Soup", price: "??5,000", tag: "luxury", description: "Intercontinental/Shilla Hotel Lobby" },
+    { name: "Oreno Michelin Ramen", price: "??2,000", tag: "budget", description: "Bib Gourmand Quality" }
   ]}
 />
 
@@ -179,9 +179,9 @@ In 2026, walking into a popular Seoul restaurant without a reservation is a reci
 <Timeline
   title="Booking Timeline for Success"
   items={[
-    { time: "1 Month Before", title: "Download Apps", description: "Install 'CatchTable Global' and 'Naver Map'. Verify your phone number.", icon: "ðŸ“±" },
-    { time: "21 Days Before", title: "Reservations Open", description: "Most reservations open at midnight KST. Be ready to click.", icon: "â°" },
-    { time: "1 Day Before", title: "Reconfirmation", description: "Respond to the confirmation message (usually WhatsApp or App notification) to hold your seat.", icon: "âœ…" }
+    { time: "1 Month Before", title: "Download Apps", description: "Install 'CatchTable Global' and 'Naver Map'. Verify your phone number.", icon: "?“±" },
+    { time: "21 Days Before", title: "Reservations Open", description: "Most reservations open at midnight KST. Be ready to click.", icon: "?? },
+    { time: "1 Day Before", title: "Reconfirmation", description: "Respond to the confirmation message (usually WhatsApp or App notification) to hold your seat.", icon: "?? }
   ]}
 />
 
@@ -206,8 +206,8 @@ Navigating between these restaurants requires efficient travel planning. Seoul's
   title="Transit Efficiency"
   variant="gradient"
   stats={[
-    { value: "98%", label: "Subway On-Time Rate", icon: "ðŸš„" },
-    { value: "5 min", label: "Avg Wait for Taxi App", icon: "ðŸš–" }
+    { value: "98%", label: "Subway On-Time Rate", icon: "?š„" },
+    { value: "5 min", label: "Avg Wait for Taxi App", icon: "?š–" }
   ]}
   source="Seoul Metro Data 2025"
 />

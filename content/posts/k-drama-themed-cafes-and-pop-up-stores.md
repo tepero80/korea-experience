@@ -1,8 +1,8 @@
-ï»¿---
+---
 title: "Immerse Yourself in K-Drama Themed Cafes & Pop-Ups"
 date: 2026-01-13
 excerpt: "Dive into the world of K-Dramas in real life. Explore themed cafes and exciting pop-up stores for an unforgettable, immersive fan experience in Korea."
-category: K-Culture & Entertainment
+category: K-Culture
 author: Korea Experience Team
 ---
 
@@ -16,7 +16,7 @@ In this comprehensive guide, we will take you on a journey through the fascinati
 
 ## The Rise of K-Drama Themed Cafes and Pop-Up Stores: A Fan's Paradise
 
-The magnetic pull of K-Dramas extends far beyond their captivating plots and talented actors. It encompasses the entire aesthetic â€“ the fashion, the food, the stunning locations, and the emotional connection viewers form with the characters. It's this deep connection that fuels the demand for physical spaces where fans can continue their journey, long after the final episode has aired.
+The magnetic pull of K-Dramas extends far beyond their captivating plots and talented actors. It encompasses the entire aesthetic ? the fashion, the food, the stunning locations, and the emotional connection viewers form with the characters. It's this deep connection that fuels the demand for physical spaces where fans can continue their journey, long after the final episode has aired.
 
 ### From Screen to Reality: Why Themed Spaces?
 
@@ -152,12 +152,12 @@ Visiting K-Drama themed cafes and pop-ups can add up, so budget accordingly.
 
 ### Language Tips: Basic Korean Phrases for Ordering
 While many establishments in popular tourist areas will have staff with some English proficiency, knowing a few basic Korean phrases can enhance your experience and show respect.
-*   "Annyeonghaseyo" (ì•ˆë…•í•˜ì„¸ìš”): Hello
-*   "Gamsahamnida" (ê°ì‚¬í•©ë‹ˆë‹¤): Thank you
-*   "Igeo juseyo" (ì´ê±° ì£¼ì„¸ìš”): Please give me this (useful for pointing at menu items)
-*   "Ice Americano hana juseyo" (ì•„ì´ìŠ¤ ì•„ë©”ë¦¬ì¹´ë…¸ í•˜ë‚˜ ì£¼ì„¸ìš”): One iced Americano, please. (Replace "Iced Americano" with your preferred drink, "hana" means one)
-*   "Eolmayeyo?" (ì–¼ë§ˆì˜ˆìš”?): How much is it?
-*   "Yeogi-yo" (ì—¬ê¸°ìš”): Excuse me (to call staff)
+*   "Annyeonghaseyo" (¾È³çÇÏ¼¼¿ä): Hello
+*   "Gamsahamnida" (°¨»çÇÕ´Ï´Ù): Thank you
+*   "Igeo juseyo" (ÀÌ°Å ÁÖ¼¼¿ä): Please give me this (useful for pointing at menu items)
+*   "Ice Americano hana juseyo" (¾ÆÀÌ½º ¾Æ¸Ş¸®Ä«³ë ÇÏ³ª ÁÖ¼¼¿ä): One iced Americano, please. (Replace "Iced Americano" with your preferred drink, "hana" means one)
+*   "Eolmayeyo?" (¾ó¸¶¿¹¿ä?): How much is it?
+*   "Yeogi-yo" (¿©±â¿ä): Excuse me (to call staff)
 
 ## Comparison Tables for Your K-Drama Journey
 

@@ -1,8 +1,8 @@
-ï»¿---
+---
 title: "K-Drama Cafe Filming Locations: A Fan's Ultimate Guide"
 date: 2026-01-12
 excerpt: "Discover iconic K-drama cafe filming locations across Korea. Our guide helps international fans relive their favorite scenes with practical tips and insider insights."
-category: K-Culture & Entertainment
+category: K-Culture
 author: Korea Experience Team
 ---
 The global phenomenon of K-dramas has captivated millions, drawing viewers into intricate storylines, stunning visuals, and, often, beautifully designed cafes. From heart-fluttering first dates to dramatic confrontations and comforting solace, cafes serve as more than just backdrops; they are integral characters in the K-drama narrative. For international travelers and expats in Korea, visiting these real-life **K-drama cafe filming locations** offers a unique opportunity to step into their favorite scenes, sip on a delicious beverage, and experience the vibrant Korean cafe culture firsthand.
@@ -37,7 +37,7 @@ A true classic that cemented cafe culture in K-dramas, "Coffee Prince" (2007) fe
 
 ### Itaewon's Trendy Edge: The Itaewon Class Rooftop Bar & Cafe
 
-While primarily a rooftop bar, Oriole, located in the vibrant Itaewon district, served as the iconic "Danbam" (Sweet Night) restaurant in "Itaewon Class." The dramaâ€™s intense storyline and powerful characters made this location a pilgrimage site for fans. While "Danbam" was a set, Oriole provides the breathtaking rooftop views that became synonymous with Park Sae-ro-yi's ambition.
+While primarily a rooftop bar, Oriole, located in the vibrant Itaewon district, served as the iconic "Danbam" (Sweet Night) restaurant in "Itaewon Class." The drama¡¯s intense storyline and powerful characters made this location a pilgrimage site for fans. While "Danbam" was a set, Oriole provides the breathtaking rooftop views that became synonymous with Park Sae-ro-yi's ambition.
 
 *   **Location:** Huam-dong, Yongsan-gu, Seoul (check map apps for "Oriole" near Namsan Tower)
 *   **Featured in:** "Itaewon Class" (rooftop bar resembling Danbam's iconic views)

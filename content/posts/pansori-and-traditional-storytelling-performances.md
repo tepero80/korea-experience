@@ -1,8 +1,8 @@
-ï»¿---
+---
 title: "Pansori: Korea's Epic Musical Storytelling Journey"
 date: 2026-01-26
 excerpt: "Discover the captivating world of Pansori, Korea's unique operatic storytelling. Learn about its history, performances, and how to experience this UNESCO-recognized art form."
-category: K-Culture & Entertainment
+category: K-Culture
 author: Korea Experience Team
 ---
 
@@ -51,7 +51,7 @@ Unlike the other four, *Jeokbyeokga* (also known as *Sugunggwan* or *Hwaryongdo*
 
 ### Sugungga: Underwater Adventures and Trickery
 
-*Sugungga* is a whimsical and satirical tale about a Dragon King of the Underwater Palace who falls ill and needs a rabbit's liver to recover. A turtle volunteers to go to the human world to trick a rabbit into coming to the palace. The rabbit, through its cleverness, manages to escape, teaching lessons about wit, survival, and the folly of blind loyalty. Itâ€™s often performed with humor and vivid characterizations of animals.
+*Sugungga* is a whimsical and satirical tale about a Dragon King of the Underwater Palace who falls ill and needs a rabbit's liver to recover. A turtle volunteers to go to the human world to trick a rabbit into coming to the palace. The rabbit, through its cleverness, manages to escape, teaching lessons about wit, survival, and the folly of blind loyalty. It¡¯s often performed with humor and vivid characterizations of animals.
 
 ## The Pansori Performer: The Soul of the Story
 

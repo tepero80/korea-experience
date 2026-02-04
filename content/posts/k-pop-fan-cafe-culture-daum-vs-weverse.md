@@ -1,8 +1,8 @@
-﻿---
+---
 title: "K-Pop Fan Cafe Culture Daum vs Weverse Explained"
 date: 2026-01-22
 excerpt: "Unravel the complex world of K-Pop fan communication. Discover the differences between Daum Fancafes and Weverse, learn how to join, and enhance your fan experience."
-category: K-Culture & Entertainment
+category: K-Culture
 author: Korea Experience Team
 ---
 

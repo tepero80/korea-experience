@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Korean Street Art & Graffiti: Seoul's Urban Canvas"
 date: 2026-01-20
 excerpt: "Uncover the vibrant world of Korean street art and graffiti culture. Explore Seoul's hidden murals, public art, and the artists shaping its urban landscapes."
-category: K-Culture & Entertainment
+category: K-Culture
 author: Korea Experience Team
 ---
 **Korean Street Art and Graffiti Culture: A Vibrant Urban Canvas Awaits**

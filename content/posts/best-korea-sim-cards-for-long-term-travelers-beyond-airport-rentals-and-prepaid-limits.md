@@ -2,7 +2,7 @@
 title: "Best Korea SIM Cards for Long-Term Travelers Beyond Airport Rentals"
 date: 2026-02-04
 excerpt: "Discover the best Korea SIM cards for long-term stays. Compare MVNOs, postpaid plans, and verification steps to save money and stay connected."
-category: Mixed
+category: Living in Korea
 author: Korea Experience Team
 ---
 
@@ -30,8 +30,8 @@ Conversely, getting a local SIM card in the city can drop your monthly expense t
   title="Cost Efficiency Analysis"
   variant="gradient"
   stats={[
-    { value: "66,000 KRW", label: "Airport SIM (Monthly)", icon: "âœˆï¸" },
-    { value: "17,500 KRW", label: "Avg. MVNO Plan", icon: "ðŸ“±" }
+    { value: "66,000 KRW", label: "Airport SIM (Monthly)", icon: "?ˆï¸" },
+    { value: "17,500 KRW", label: "Avg. MVNO Plan", icon: "?“±" }
   ]}
   source="Korea Telecom Market Data 2026"
 />
@@ -40,7 +40,7 @@ Without verification, you cannot sign up for food delivery apps like Baedal Minj
 
 ## Understanding the "Alteul Phone" (MVNO) Revolution
 
-In Korea, budget-friendly plans are referred to as "Alteul Phones" (Frugal Phones). These MVNOs lease network space from the "Big Three" (SKT, KT, LG U+) and resell it at a fraction of the cost. The network quality is identicalâ€”you get the same 99.9% LTE/5G coverage across the peninsulaâ€”but you forfeit membership perks like movie theater discounts.
+In Korea, budget-friendly plans are referred to as "Alteul Phones" (Frugal Phones). These MVNOs lease network space from the "Big Three" (SKT, KT, LG U+) and resell it at a fraction of the cost. The network quality is identical?”you get the same 99.9% LTE/5G coverage across the peninsula?”but you forfeit membership perks like movie theater discounts.
 
 For a long-term traveler, these perks are negligible compared to the cash savings. Currently, there are over 20 active MVNOs in Korea.
 
@@ -69,7 +69,7 @@ Found in many foreign marts in districts like Ansan or Itaewon, these are simple
   title="Pre-ARC SIM Provider Comparison"
   headers={["Feature", "Woori Mobile", "Chingu Mobile", "Airport Roaming"]}
   rows={[
-    { feature: "Monthly Cost (Avg)", option1: "â‚©20,000", option2: "â‚©15,000", option3: "â‚©66,000" },
+    { feature: "Monthly Cost (Avg)", option1: "??0,000", option2: "??5,000", option3: "??6,000" },
     { feature: "Keep Number After ARC", option1: true, option2: true, option3: "Rarely" },
     { feature: "English Support", option1: "Fluent", option2: "Fluent", option3: "Basic" },
     { feature: "Contract Required", option1: "No", option2: "Min 3-4 months", option3: "No" }
@@ -101,10 +101,10 @@ Once your ARC is issued, the game changes. You officially exist in the Korean sy
 <Timeline
   title="The Identity Verification Journey"
   items={[
-    { time: "Week 1", title: "Arrival & Prepaid SIM", description: "Get a passport-based SIM from a provider like Woori Mobile.", icon: "ðŸ›¬" },
-    { time: "Week 2-4", title: "Apply for ARC", description: "Visit immigration. Processing takes 3-5 weeks.", icon: "ðŸ¢" },
-    { time: "Week 6", title: "Receive ARC", description: "Collect your physical residence card.", icon: "ðŸ†”" },
-    { time: "Week 7", title: "Authenticate SIM", description: "Return to your provider to link your ARC to your number.", icon: "âœ…" }
+    { time: "Week 1", title: "Arrival & Prepaid SIM", description: "Get a passport-based SIM from a provider like Woori Mobile.", icon: "?›¬" },
+    { time: "Week 2-4", title: "Apply for ARC", description: "Visit immigration. Processing takes 3-5 weeks.", icon: "?¢" },
+    { time: "Week 6", title: "Receive ARC", description: "Collect your physical residence card.", icon: "?†”" },
+    { time: "Week 7", title: "Authenticate SIM", description: "Return to your provider to link your ARC to your number.", icon: "?? }
   ]}
 />
 
@@ -136,8 +136,8 @@ If you are comfortable navigating basic Korean apps or have a Korean friend to h
   title="Postpaid Plan Comparison (Post-ARC)"
   variant="dualism"
   items={[
-    { name: "Major Carrier (SKT/KT)", price: "â‚©59,000", tag: "luxury", description: "Includes membership perks, full speed" },
-    { name: "MVNO (Liiv/Woori)", price: "â‚©22,000", tag: "budget", description: "Same data amount, no perks" }
+    { name: "Major Carrier (SKT/KT)", price: "??9,000", tag: "luxury", description: "Includes membership perks, full speed" },
+    { name: "MVNO (Liiv/Woori)", price: "??2,000", tag: "budget", description: "Same data amount, no perks" }
   ]}
 />
 
@@ -157,9 +157,9 @@ How much data do you actually need? Seoul is one of the most connected cities on
 <QuickFacts
   title="Data Consumption Quick Facts"
   facts={[
-    { label: "Subway Wi-Fi", value: "Free", icon: "ðŸš‡" },
-    { label: "Avg. User", value: "18GB/mo", icon: "ðŸ“Š" },
-    { label: "KakaoTalk Call", value: "0.5MB/min", icon: "ðŸ“ž" }
+    { label: "Subway Wi-Fi", value: "Free", icon: "?š‡" },
+    { label: "Avg. User", value: "18GB/mo", icon: "?“Š" },
+    { label: "KakaoTalk Call", value: "0.5MB/min", icon: "?“ž" }
   ]}
   columns={3}
 />

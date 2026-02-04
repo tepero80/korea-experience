@@ -1,8 +1,8 @@
-﻿---
+---
 title: "Journey Through K-Drama Production Tours in Korea"
 date: 2026-01-02
 excerpt: "Ever wondered what it's like behind the scenes of your favorite K-Dramas? Discover comprehensive guides to K-Drama production tours and iconic filming locations."
-category: K-Culture & Entertainment
+category: K-Culture
 author: Korea Experience Team
 ---
 

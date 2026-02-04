@@ -1,8 +1,8 @@
-Ôªø---
+---
 title: "Unraveling Yutnori and Jegichagi: Traditional Korean Games Explained"
 date: 2026-02-02
 excerpt: "Discover Yutnori and Jegichagi, two cherished traditional Korean games. Learn their rules, history, and where to experience these cultural treasures in Korea."
-category: K-Culture & Entertainment
+category: K-Culture
 author: Korea Experience Team
 ---
 
@@ -16,7 +16,7 @@ Yutnori, often simply referred to as "yut," is perhaps the most beloved and wide
 
 ### Origins and Cultural Significance of Yutnori
 
-The history of Yutnori stretches back to ancient times, with some scholars suggesting its roots lie in farming communities, possibly as a tool for divination concerning harvest fortunes. Its exact origins are debated, but records indicate its popularity dates back at least to the Three Kingdoms period (1st century BCE ‚Äì 7th century CE). Over time, it evolved from a simple fortune-telling ritual into a sophisticated board game enjoyed by people from all walks of life.
+The history of Yutnori stretches back to ancient times, with some scholars suggesting its roots lie in farming communities, possibly as a tool for divination concerning harvest fortunes. Its exact origins are debated, but records indicate its popularity dates back at least to the Three Kingdoms period (1st century BCE ? 7th century CE). Over time, it evolved from a simple fortune-telling ritual into a sophisticated board game enjoyed by people from all walks of life.
 
 Today, Yutnori is synonymous with familial bonding and festive gatherings. During Seollal, it's common to see multiple generations of a family huddled around a Yutnori board, their laughter and excited shouts filling the air. It's more than just a game; it's a social ritual that strengthens community ties and provides a fun, interactive way to pass on cultural traditions. The simple act of throwing the yut sticks carries a weight of tradition, connecting modern Koreans to their ancestors in a tangible, playful way.
 
@@ -37,12 +37,12 @@ Yutnori is typically played by two teams, but it can also be played individually
 **1. The Yut Sticks and Their Outcomes:**
 The four yut sticks can land in one of five combinations, each corresponding to a specific move:
 
-*   **Do (ÎèÑ):** One flat side up (one rounded side up). Move one space.
-*   **Gae (Í∞ú):** Two flat sides up (two rounded sides up). Move two spaces.
-*   **Geol (Í±∏):** Three flat sides up (one rounded side up). Move three spaces.
-*   **Yut (Ïú∑):** All four flat sides up. Move four spaces AND get another turn.
-*   **Mo (Î™®):** All four rounded sides up. Move five spaces AND get another turn.
-*   **Baekdo (Î∞±ÎèÑ):** (Optional/Special Rule) One stick has a marked flat side (often white). If only this marked side is up, and the other three are rounded, it's Baekdo. Move one space *backward*. This adds an exciting twist!
+*   **Do (µµ):** One flat side up (one rounded side up). Move one space.
+*   **Gae (∞≥):** Two flat sides up (two rounded sides up). Move two spaces.
+*   **Geol (∞…):** Three flat sides up (one rounded side up). Move three spaces.
+*   **Yut (¿∑):** All four flat sides up. Move four spaces AND get another turn.
+*   **Mo (∏):** All four rounded sides up. Move five spaces AND get another turn.
+*   **Baekdo (πÈµµ):** (Optional/Special Rule) One stick has a marked flat side (often white). If only this marked side is up, and the other three are rounded, it's Baekdo. Move one space *backward*. This adds an exciting twist!
 
 **2. Moving Markers on the Malpan:**
 Players start their markers off the board. The goal is to move all four of your team's markers around the entire board and off again before the opposing team does.
@@ -80,12 +80,12 @@ Over centuries, Jegichagi has remained a popular form of casual recreation. Its 
 
 ### The Jegichagi Shuttlecock: Anatomy and Making
 
-The "jegi" (Ï†úÍ∏∞), the shuttlecock used in Jegichagi, is a humble yet ingenious toy. It traditionally consists of:
+The "jegi" (¡¶±‚), the shuttlecock used in Jegichagi, is a humble yet ingenious toy. It traditionally consists of:
 
 *   **A Coin (or Metal Washer):** This provides the weight at the bottom, helping the jegi maintain its stability in the air.
 *   **Paper or Fabric Streamers:** These are typically strips of colorful hanji (traditional Korean paper) or cloth tied around the coin, forming a plume. The streamers act like feathers on a badminton shuttlecock, catching the air and slowing its descent, making it easier to kick.
 
-While you can purchase ready-made jegi at stationery stores, traditional markets, or souvenir shops (typically 1,000-5,000 Korean won per jegi), making one yourself is also a fun, authentic experience. All you need is a coin, some strong string or tape, and colorful paper or fabric strips. It‚Äôs a great activity to connect with the game's simple roots.
+While you can purchase ready-made jegi at stationery stores, traditional markets, or souvenir shops (typically 1,000-5,000 Korean won per jegi), making one yourself is also a fun, authentic experience. All you need is a coin, some strong string or tape, and colorful paper or fabric strips. It°Øs a great activity to connect with the game's simple roots.
 
 ### Mastering the Art of Jegichagi
 
@@ -151,7 +151,7 @@ On weekends and holidays, especially in warmer months, you might spontaneously e
 
 *   **Yeouido Hangang Park (Seoul):** You might spot groups playing Yutnori under trees or children kicking Jegichagi shuttlecocks.
 *   **Olympic Park (Seoul):** Another large park where community gatherings and casual games often take place.
-*   Look for any local park in residential areas; particularly older generations often gather to play. Don't be shy ‚Äì a friendly gesture and an attempt to communicate (even with limited Korean) might get you invited to join!
+*   Look for any local park in residential areas; particularly older generations often gather to play. Don't be shy ? a friendly gesture and an attempt to communicate (even with limited Korean) might get you invited to join!
 
 ### Festivals and Special Events
 
@@ -171,7 +171,7 @@ If you want to take a piece of Korean culture home, or practice on your own:
 
 ## Comparing the Two: Yutnori vs. Jegichagi
 
-While both are traditional Korean games, Yutnori and Jegichagi offer distinct experiences. Here‚Äôs a comparison to highlight their key differences and shared cultural significance.
+While both are traditional Korean games, Yutnori and Jegichagi offer distinct experiences. Here°Øs a comparison to highlight their key differences and shared cultural significance.
 
 | Feature             | Yutnori (The Game of Yut)                               | Jegichagi (Kick Shuttlecock)                                    |
 | :------------------ | :------------------------------------------------------ | :-------------------------------------------------------------- |

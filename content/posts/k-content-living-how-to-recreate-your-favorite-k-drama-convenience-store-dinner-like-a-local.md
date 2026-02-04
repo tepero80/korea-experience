@@ -2,11 +2,11 @@
 title: "K-Drama Convenience Store Dinner Guide for Travelers in Korea"
 date: 2026-02-04
 excerpt: "Master the art of Korean convenience store dining. Learn viral recipes, budget tips, and how to eat like a local in Seoul."
-category: Mixed
+category: K-Culture
 author: Korea Experience Team
 ---
 
-The chime of the door sensor as you walk into a bright, air-conditioned sanctuary at 2:00 AM is a sound synonymous with modern life in Seoul. For fans of K-Dramas, the Korean convenience storeâ€”or "pyeon-u-jeom"â€”is more than just a place to buy water; it is a critical plot device. It is where characters in *Crash Landing on You* bond over instant noodles, or where the cast of *Squid Game* shares a meager meal and a bottle of soju.
+The chime of the door sensor as you walk into a bright, air-conditioned sanctuary at 2:00 AM is a sound synonymous with modern life in Seoul. For fans of K-Dramas, the Korean convenience store?”or "pyeon-u-jeom"?”is more than just a place to buy water; it is a critical plot device. It is where characters in *Crash Landing on You* bond over instant noodles, or where the cast of *Squid Game* shares a meager meal and a bottle of soju.
 
 Recreating these iconic scenes is a top bucket-list item for international visitors. However, navigating the aisles of a GS25, CU, or 7-Eleven can be overwhelming due to the sheer volume of choices and unwritten social rules. This guide transforms you from a confused tourist into a savvy local, capable of crafting the perfect viral dinner combination.
 
@@ -24,14 +24,14 @@ Recreating these iconic scenes is a top bucket-list item for international visit
 
 In South Korea, convenience stores are ubiquitous. As of early 2026, the country boasts over 57,000 convenience store locations, resulting in one store for approximately every 900 residents. This density is one of the highest globally, meaning you are rarely more than a 3-minute walk (or roughly 200 meters) from the nearest glowing sign.
 
-The culture of eating at these stores is driven by the "Honbap" trendâ€”eating alone. Unlike in many Western countries where dining solo can feel isolating, Korean convenience stores are designed for it. Most locations feature bar-style seating along the window or folding tables outside, equipped with power outlets and high-speed Wi-Fi, making them a legitimate dining destination for students and salarymen alike.
+The culture of eating at these stores is driven by the "Honbap" trend?”eating alone. Unlike in many Western countries where dining solo can feel isolating, Korean convenience stores are designed for it. Most locations feature bar-style seating along the window or folding tables outside, equipped with power outlets and high-speed Wi-Fi, making them a legitimate dining destination for students and salarymen alike.
 
 <StatCard
   title="The Big Four Market Share"
   variant="gradient"
   stats={[
-    { value: "35%", label: "CU Stores", icon: "ðŸª" },
-    { value: "34%", label: "GS25 Stores", icon: "ðŸ”µ" }
+    { value: "35%", label: "CU Stores", icon: "?ª" },
+    { value: "34%", label: "GS25 Stores", icon: "?”µ" }
   ]}
   source="Korea Retail Association Data 2025"
 />
@@ -74,9 +74,9 @@ A popular local hack involves buying a "Samgak Gimbap" (Triangle Rice Ball), usu
 <QuickFacts
   title="Nutritional Reality Check"
   facts={[
-    { label: "Calories", value: "850-1100 kcal", icon: "ðŸ”¥" },
-    { label: "Sodium", value: "1,800mg+", icon: "ðŸ§‚" },
-    { label: "Cost", value: "â‚©6,500", icon: "ðŸ’°" }
+    { label: "Calories", value: "850-1100 kcal", icon: "?”¥" },
+    { label: "Sodium", value: "1,800mg+", icon: "?§‚" },
+    { label: "Cost", value: "??,500", icon: "?’°" }
   ]}
   columns={3}
 />
@@ -89,7 +89,7 @@ Located at 11 major parks along the river, the most popular being Yeouido and Ba
 
 <LocationCard
   name="Ministop Hangang Yeouido 2"
-  nameKo="ë¯¸ë‹ˆìŠ¤í†± í•œê°•ì—¬ì˜ë„ 2ì "
+  nameKo="ë¯¸ë‹ˆ?¤í†± ?œê°•?¬ì˜??2??
   type="Convenience Store"
   address="330 Yeouidong-ro, Yeongdeungpo-gu, Seoul"
   hours="24 Hours"
@@ -157,9 +157,9 @@ This is the most confusing part for foreigners. You will see a station with mult
 <Timeline
   title="The Cleanup Process"
   items={[
-    { time: "Step 1", title: "Empty Liquids", description: "Pour leftover soup/drink into the liquid waste bucket.", icon: "ðŸ’§" },
-    { time: "Step 2", title: "Separate", description: "Remove cup sleeve and lid. Separate plastic from paper.", icon: "â™»ï¸" },
-    { time: "Step 3", title: "Stack", description: "Nest your paper cups to save bin space.", icon: "ðŸ“¥" }
+    { time: "Step 1", title: "Empty Liquids", description: "Pour leftover soup/drink into the liquid waste bucket.", icon: "?’§" },
+    { time: "Step 2", title: "Separate", description: "Remove cup sleeve and lid. Separate plastic from paper.", icon: "?»ï¸" },
+    { time: "Step 3", title: "Stack", description: "Nest your paper cups to save bin space.", icon: "?“¥" }
   ]}
 />
 
@@ -171,8 +171,8 @@ Can you really save money eating at a convenience store? Absolutely. Here is a b
   title="Convenience Store Dining Tiers"
   variant="dualism"
   items={[
-    { name: "The Hungry Student", price: "â‚©3,800 ($2.80)", tag: "budget", description: "Shin Ramyun Cup + Triangle Gimbap + Water" },
-    { name: "The K-Drama Royal", price: "â‚©16,500 ($12.50)", tag: "luxury", description: "Premium Bento + Fried Chicken Leg + 4-Can Beer Bundle + Dessert" }
+    { name: "The Hungry Student", price: "??,800 ($2.80)", tag: "budget", description: "Shin Ramyun Cup + Triangle Gimbap + Water" },
+    { name: "The K-Drama Royal", price: "??6,500 ($12.50)", tag: "luxury", description: "Premium Bento + Fried Chicken Leg + 4-Can Beer Bundle + Dessert" }
   ]}
 />
 
@@ -214,7 +214,7 @@ Not all stores are created equal. Depending on what you are craving, you should 
 
 Eating at a convenience store in Korea is not a sign of desperation; it is a choice of convenience and flavor. Whether you are grabbing a quick "Samgak Gimbap" before a train ride to Busan (2.5 hours) or settling in for a late-night beer on a plastic chair in Gangnam, you are participating in the living, breathing rhythm of the city.
 
-The next time you watch a K-Drama and see the protagonist slurping noodles at a window counter, you won't just be watchingâ€”you'll be planning your next meal.
+The next time you watch a K-Drama and see the protagonist slurping noodles at a window counter, you won't just be watching?”you'll be planning your next meal.
 
 <FAQAccordion
   title="Frequently Asked Questions"
