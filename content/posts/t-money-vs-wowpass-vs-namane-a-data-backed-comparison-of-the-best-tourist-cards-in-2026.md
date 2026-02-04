@@ -89,7 +89,7 @@ In 2026, standard adult fares for public transport using T-Money remain highly c
   type="local"
   verified={true}
 >
-  "Even with newer options, I still keep a T-Money card for its sheer simplicity and reliability. It's a lifesaver for quickly jumping on a bus or subway without fumbling for cash or worrying about app glitches. For short trips, it?�s often all you need for transport."
+  "Even with newer options, I still keep a T-Money card for its sheer simplicity and reliability. It's a lifesaver for quickly jumping on a bus or subway without fumbling for cash or worrying about app glitches. For short trips, it's often all you need for transport."
 </ExpertTip>
 
 ## Wowpass: The All-in-One Solution for Foreigners

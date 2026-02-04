@@ -94,9 +94,9 @@ For truly rare or out-of-print limited-edition goods, the secondary market is a 
 
 Korea has highly active online second-hand marketplaces. These apps require a Korean phone number and often a Korean bank account for full functionality, but international visitors can navigate them with help or through specific strategies.
 
-*   **Bunjang (번개?�터):** This is one of the largest second-hand marketplaces, particularly popular for K-pop merchandise. You can find everything from rare photocards and signed albums to concert goods and fan club kits. Prices can vary wildly, but a limited edition album that originally sold for $25 might be listed for $50-150 depending on its rarity. Over 5 million active users browse Bunjang monthly.
-*   **Joonggonara (중고?�라):** Another massive platform, often described as Korea's Craigslist. It's used for a broader range of second-hand items but also has a very active K-pop and K-drama merchandise community. Listings are typically created by individual sellers, and direct messaging is common. Be prepared to use a translation app.
-*   **Daangn Market (?�근마켓):** While primarily focused on local neighborhood trades, Daangn Market (also known as Carrot Market) can be useful for finding local deals. If you're staying in a specific area, you might find nearby sellers offloading merchandise. This app is more about convenience and local pickup, often resulting in lower prices due to reduced shipping hassle.
+*   **Bunjang (번개장터):** This is one of the largest second-hand marketplaces, particularly popular for K-pop merchandise. You can find everything from rare photocards and signed albums to concert goods and fan club kits. Prices can vary wildly, but a limited edition album that originally sold for $25 might be listed for $50-150 depending on its rarity. Over 5 million active users browse Bunjang monthly.
+*   **Joonggonara (중고나라):** Another massive platform, often described as Korea's Craigslist. It's used for a broader range of second-hand items but also has a very active K-pop and K-drama merchandise community. Listings are typically created by individual sellers, and direct messaging is common. Be prepared to use a translation app.
+*   **Daangn Market (당근마켓):** While primarily focused on local neighborhood trades, Daangn Market (also known as Carrot Market) can be useful for finding local deals. If you're staying in a specific area, you might find nearby sellers offloading merchandise. This app is more about convenience and local pickup, often resulting in lower prices due to reduced shipping hassle.
 
 <StepGuide
   title="How to Navigate Korean Resale Apps (for Visitors)"
@@ -111,7 +111,7 @@ Korea has highly active online second-hand marketplaces. These apps require a Ko
     {
       title: "Use Translation Tools",
       description: "These apps are in Korean. Utilize real-time screen translation apps like Papago or Google Translate to understand listings and communicate with sellers. Keep messages concise and polite.",
-      tip: "Start conversations with a simple '?�녕?�세??(Hello)' and state your interest clearly. Have your questions pre-translated."
+      tip: "Start conversations with a simple '안녕하세요(Hello)' and state your interest clearly. Have your questions pre-translated."
     },
     {
       title: "Set Up Payment",

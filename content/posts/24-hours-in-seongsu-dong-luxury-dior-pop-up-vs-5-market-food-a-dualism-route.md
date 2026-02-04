@@ -116,7 +116,7 @@ Seongsu-dong is a treasure trove for unique fashion, handcrafted goods, and sust
 
 ## Lunch: A Glimpse of the Market Budget-Friendly Delights (3:00 PM - 5:00 PM)
 
-Now, it?�s time to shift gears and prepare for the authentic flavors of Seongsu-dong's local scene. While the morning was all about curated experiences and premium pricing, the afternoon focuses on value and authenticity. Our dualism route wouldn't be complete without diving into the bustling world of Korean market food.
+Now, it's time to shift gears and prepare for the authentic flavors of Seongsu-dong's local scene. While the morning was all about curated experiences and premium pricing, the afternoon focuses on value and authenticity. Our dualism route wouldn't be complete without diving into the bustling world of Korean market food.
 
 <PriceTable
   title="Cost Comparison: Luxury Cafe vs. Market Lunch"
@@ -152,7 +152,7 @@ Here, you can feast like a local for a fraction of the price of a luxury cafe sn
 *   **Gyeranppang (계�?�?:** A fluffy, slightly sweet bread with a whole egg baked inside. Approximately ,000 ($1.50 USD) each.
 *   **Kimbap (김�?:** Seaweed rice rolls, often sold in small, individual portions for ,000-,000 ($2.25-$3 USD).
 
-This is an experience where plastic chairs, shared tables, and the aroma of various foods define the ambiance. It?�s raw, authentic, and utterly charming.
+This is an experience where plastic chairs, shared tables, and the aroma of various foods define the ambiance. It's raw, authentic, and utterly charming.
 
 <StepGuide
   title="How to Order Street Food at a Korean Market"

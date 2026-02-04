@@ -64,7 +64,7 @@ Located in the eclectic Hongdae area, Gopchangjeongol is famed for its authentic
 
 <LocationCard
   name="Gopchangjeongol"
-  nameKo="곱창?�골"
+  nameKo="곡창전골"
   type="LP Bar"
   address="336-10 Sangsu-dong, Mapo-gu, Seoul"
   hours="19:00-02:00 (Closed Sundays)"
@@ -176,7 +176,7 @@ If the sophisticated quiet of an LP bar doesn't quite hit the spot, perhaps the 
 
 ### A. Understanding Makgeolli: Korea's Oldest Drink
 
-Makgeolli (막걸�? has been enjoyed by Koreans for centuries. Made from fermented rice, it's unfiltered, leaving a distinctive sediment at the bottom of the bottle which gives it its characteristic cloudy appearance. With an alcohol content typically ranging from 6% to 8%, it's lighter than soju but richer in flavor. Makgeolli is almost always consumed with food, particularly savory pancakes (jeon,  or tofu dishes, which perfectly balance its subtle sweetness and tartness.
+Makgeolli (막걸리) has been enjoyed by Koreans for centuries. Made from fermented rice, it's unfiltered, leaving a distinctive sediment at the bottom of the bottle which gives it its characteristic cloudy appearance. With an alcohol content typically ranging from 6% to 8%, it's lighter than soju but richer in flavor. Makgeolli is almost always consumed with food, particularly savory pancakes (jeon), or tofu dishes, which perfectly balance its subtle sweetness and tartness.
 
 A standard bottle (around 750ml) typically costs between ,000 and 5,000, depending on its quality and whether it's a mass-produced or craft variety. Food platters, designed for sharing, can range from 5,000 to 0,000, making it an affordable and social dining experience.
 
@@ -190,7 +190,7 @@ These makgeolli houses offer an authentic taste of Korean tradition, perfect for
 
 #### 1. Wolhyang
 
-Wolhyang is a modern interpretation of a traditional makgeolli house, known for its extensive menu of various makgeolli types and creative anju (?�주, drinking snacks). They have multiple locations, but the Hongdae branch is particularly popular for its lively yet cozy atmosphere.
+Wolhyang is a modern interpretation of a traditional makgeolli house, known for its extensive menu of various makgeolli types and creative anju (안주, drinking snacks). They have multiple locations, but the Hongdae branch is particularly popular for its lively yet cozy atmosphere.
 
 <LocationCard
   name="Wolhyang"
@@ -263,7 +263,7 @@ Experiencing makgeolli is a ritual. Here's a simple guide to enhance your enjoym
     { 
       title: "Choose Your Makgeolli", 
       description: "Decide between traditional (classic milky, sweet-sour) or craft (often with added flavors or different fermentation methods). Don't hesitate to ask for recommendations.", 
-      tip: "If you're unsure, ask for 'saeng makgeolli' (?�막걸리) for a fresh, unpasteurized option." 
+      tip: "If you're unsure, ask for 'saeng makgeolli' (생막걸리) for a fresh, unpasteurized option." 
     },
     { 
       title: "Order Anju (Food Pairings)", 
