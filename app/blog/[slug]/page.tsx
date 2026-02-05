@@ -82,6 +82,7 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     author: SITE_CONFIG.author,
     category: post.category,
     url: `${SITE_CONFIG.url}/blog/${slug}`,
+    imageUrl: `${SITE_CONFIG.url}/blog/${slug}/opengraph-image`,
   });
 
   // Generate Breadcrumb Schema

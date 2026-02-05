@@ -8,6 +8,7 @@ interface ArticleSchemaProps {
   author: string;
   category: string;
   url: string;
+  imageUrl?: string;
 }
 
 export function generateArticleSchema({
@@ -18,12 +19,13 @@ export function generateArticleSchema({
   author,
   category,
   url,
+  imageUrl,
 }: ArticleSchemaProps) {
   // Ensure ISO 8601 format for dates
   const publishDate = new Date(datePublished).toISOString();
   const modifiedDate = dateModified ? new Date(dateModified).toISOString() : publishDate;
 
-  return {
+  const schema: any = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: title,
@@ -31,6 +33,7 @@ export function generateArticleSchema({
     author: {
       '@type': 'Person',
       name: author || SITE_CONFIG.author,
+      url: SITE_CONFIG.url,
     },
     publisher: {
       '@type': 'Organization',
@@ -50,6 +53,16 @@ export function generateArticleSchema({
     articleSection: category,
     inLanguage: 'en-US',
   };
+
+  // Add image if provided
+  if (imageUrl) {
+    schema.image = {
+      '@type': 'ImageObject',
+      url: imageUrl,
+    };
+  }
+
+  return schema;
 }
 
 interface WebsiteSchemaProps {

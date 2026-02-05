@@ -104,8 +104,6 @@ export default function ExpertTip({
   return (
     <div 
       className={`my-8 ${config.bg} rounded-2xl border-2 ${config.border} overflow-hidden shadow-md`}
-      itemScope
-      itemType="https://schema.org/Comment"
     >
       {/* Header */}
       <div className={`bg-gradient-to-r ${config.gradient} px-5 py-3`}>
@@ -126,7 +124,6 @@ export default function ExpertTip({
                 src={avatar} 
                 alt={displayName}
                 className="w-14 h-14 rounded-full object-cover border-2 border-white shadow-md"
-                itemProp="image"
               />
             ) : (
               <div className={`w-14 h-14 rounded-full bg-gradient-to-br ${config.gradient} flex items-center justify-center text-white text-2xl font-bold shadow-md`}>
@@ -138,13 +135,8 @@ export default function ExpertTip({
           {/* Author Details */}
           <div className="flex-1">
             <div className="flex items-center gap-2 flex-wrap">
-              <span 
-                className="font-bold text-gray-900"
-                itemProp="author"
-                itemScope
-                itemType="https://schema.org/Person"
-              >
-                <span itemProp="name">{displayName}</span>
+              <span className="font-bold text-gray-900">
+                {displayName}
               </span>
               {verified && (
                 <span 
@@ -173,10 +165,7 @@ export default function ExpertTip({
         </div>
         
         {/* Tip Content */}
-        <div 
-          className="relative pl-5 border-l-4 border-gray-300"
-          itemProp="text"
-        >
+        <div className="relative pl-5 border-l-4 border-gray-300">
           <span className="absolute -left-3 -top-2 text-4xl text-gray-300 font-serif">"</span>
           <div className="text-gray-700 leading-relaxed italic">
             {typeof content === 'string' ? (
