@@ -4,6 +4,16 @@ import { SITE_CONFIG, ALL_TOOLS } from '@/lib/constants';
 
 export const dynamic = 'force-static';
 
+// Featured Deep Dive slugs (displayed on homepage)
+const FEATURED_DEEP_DIVE_SLUGS = [
+  'exosome-therapy-seoul-guide-2026',
+  'korea-cherry-blossom-forecast-2026',
+  'catchtable-global-michelin-reservation-guide-2026',
+  'korea-social-rules-local-guide-2026',
+  'olive-young-must-buys-2026',
+  'seoul-transit-climate-card-vs-tmoney-2026',
+];
+
 export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts();
   const baseUrl = SITE_CONFIG.url;
@@ -35,13 +45,23 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.7,
     }));
 
-  // Blog posts
-  const blogPosts = posts.map((post) => ({
-    url: `${baseUrl}/blog/${post.slug}`,
-    lastModified: new Date(post.date),
-    changeFrequency: 'monthly' as const,
-    priority: 0.6,
-  }));
+  // Blog posts with priority based on Deep Dive status
+  const blogPosts = posts.map((post) => {
+    let priority = 0.6; // Default for regular posts
+    
+    if (FEATURED_DEEP_DIVE_SLUGS.includes(post.slug)) {
+      priority = 0.9; // Featured Deep Dive (homepage)
+    } else if (post.deepDive) {
+      priority = 0.8; // Other Deep Dive posts
+    }
+    
+    return {
+      url: `${baseUrl}/blog/${post.slug}`,
+      lastModified: new Date(post.date),
+      changeFrequency: 'monthly' as const,
+      priority,
+    };
+  });
 
   return [...staticPages, ...toolPages, ...blogPosts];
 }

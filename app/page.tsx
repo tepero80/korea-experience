@@ -205,20 +205,20 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Featured Guides Section - NEW */}
+      {/* Featured Guides Section - Deep Dive */}
       <section className="py-20 bg-gradient-to-br from-gray-50 to-blue-50">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           {/* Section Header */}
           <div className="text-center max-w-3xl mx-auto mb-16">
             <div className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-100 to-cyan-100 px-4 py-2 rounded-full mb-4">
-              <span className="text-2xl">⭐</span>
-              <span className="text-sm font-semibold text-blue-700">Editor's Picks</span>
+              <span className="text-2xl">🔬</span>
+              <span className="text-sm font-semibold text-blue-700">Deep Dive Guides</span>
             </div>
             <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
-              Featured Korea Guides
+              In-Depth Korea Insights
             </h2>
             <p className="text-xl text-gray-600">
-              Expert-verified guides to help you navigate Korea with confidence
+              Comprehensive research-backed guides for navigating Korea like a local
             </p>
           </div>
 

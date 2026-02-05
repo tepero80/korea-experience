@@ -132,42 +132,54 @@ export function getAllCategories(): string[] {
   return Array.from(new Set(categories));
 }
 
-// Get related posts (same category, excluding current post)
+// Get related posts - now returns Deep Dive posts only
 export function getRelatedPosts(currentSlug: string, category: string, limit: number = 3): PostMetadata[] {
   const allPosts = getAllPosts();
   
-  // Filter: same category, not current post
-  const sameCategoryPosts = allPosts.filter(
-    (post) => post.category === category && post.slug !== currentSlug
+  // Filter to only Deep Dive posts, excluding current post
+  const deepDivePosts = allPosts.filter(
+    (post) => post.deepDive === true && post.slug !== currentSlug
   );
   
-  // Shuffle array to get random posts
-  const shuffled = sameCategoryPosts.sort(() => Math.random() - 0.5);
+  // Prioritize same category Deep Dive posts
+  const sameCategoryPosts = deepDivePosts.filter((post) => post.category === category);
+  const otherCategoryPosts = deepDivePosts.filter((post) => post.category !== category);
   
-  // If not enough posts in same category, add random posts from other categories
-  if (shuffled.length < limit) {
-    const otherPosts = allPosts
-      .filter((post) => post.category !== category && post.slug !== currentSlug)
-      .sort(() => Math.random() - 0.5);
-    
-    return [...shuffled, ...otherPosts].slice(0, limit);
-  }
+  // Shuffle both arrays for variety
+  const shuffledSameCategory = sameCategoryPosts.sort(() => Math.random() - 0.5);
+  const shuffledOther = otherCategoryPosts.sort(() => Math.random() - 0.5);
+  
+  // Combine: same category first, then others
+  const combined = [...shuffledSameCategory, ...shuffledOther];
   
   // Return limited number of posts
-  return shuffled.slice(0, limit);
+  return combined.slice(0, limit);
 }
 
-// Get featured posts for homepage
+// Get featured posts for homepage - now returns Deep Dive posts, one per category
 export function getFeaturedPosts(): PostMetadata[] {
   const allPosts = getAllPosts();
   
-  // Filter featured posts and sort by featuredOrder
-  const featuredPosts = allPosts
-    .filter((post) => post.featured === true)
-    .sort((a, b) => (a.featuredOrder || 999) - (b.featuredOrder || 999));
+  // Curated list of best Deep Dive articles, one per category
+  const featuredDeepDiveSlugs = [
+    'exosome-therapy-seoul-guide-2026',           // Medical Tourism
+    'korea-cherry-blossom-forecast-2026',         // Travel & Tourism
+    'catchtable-global-michelin-reservation-guide-2026', // Food & Dining
+    'korea-social-rules-local-guide-2026',        // K-Culture
+    'olive-young-must-buys-2026',                 // Shopping & K-Beauty
+    'seoul-transit-climate-card-vs-tmoney-2026',  // Living in Korea
+  ];
   
-  // Return up to 6 featured posts
-  return featuredPosts.slice(0, 6);
+  // Return posts in the curated order
+  const featuredPosts: PostMetadata[] = [];
+  for (const slug of featuredDeepDiveSlugs) {
+    const post = allPosts.find((p) => p.slug === slug);
+    if (post) {
+      featuredPosts.push(post);
+    }
+  }
+  
+  return featuredPosts;
 }
 
 // Get Deep Dive posts for homepage
