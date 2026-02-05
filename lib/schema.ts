@@ -19,15 +19,18 @@ export function generateArticleSchema({
   category,
   url,
 }: ArticleSchemaProps) {
+  // Ensure ISO 8601 format for dates
+  const publishDate = new Date(datePublished).toISOString();
+  const modifiedDate = dateModified ? new Date(dateModified).toISOString() : publishDate;
+
   return {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: title,
     description: description,
     author: {
-      '@type': 'Organization',
+      '@type': 'Person',
       name: author || SITE_CONFIG.author,
-      url: SITE_CONFIG.url,
     },
     publisher: {
       '@type': 'Organization',
@@ -38,8 +41,8 @@ export function generateArticleSchema({
         url: `${SITE_CONFIG.url}/logo.png`,
       },
     },
-    datePublished: datePublished,
-    dateModified: dateModified || datePublished,
+    datePublished: publishDate,
+    dateModified: modifiedDate,
     mainEntityOfPage: {
       '@type': 'WebPage',
       '@id': url,
