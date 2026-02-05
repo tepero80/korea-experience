@@ -71,6 +71,7 @@ Located in the eclectic Hongdae area, Gopchangjeongol is famed for its authentic
   phone="+82-2-337-2647"
   priceRange="$$"
   rating={4.4}
+  image="/images/lp-bar-vinyl-records.jpg"
   transit="Exit 1 from Sangsu Station (Line 6), 5 min walk (approx. 350 meters)"
   highlights={["Extensive Classic Rock Collection", "Cozy, Dimly Lit Interior", "Friendly Owner-DJ"]}
   tip="Arrive early on weekends to secure a good spot, as it can get quite popular after 9 PM. Cocktails average 3,000."
@@ -98,6 +99,7 @@ Nestled in the bustling Gangnam district, Music & Triplex offers a more upscale 
   phone="+82-2-545-0377"
   priceRange="$$$"
   rating={4.6}
+  image="/images/lp-bar-interior-cozy.jpg"
   transit="Exit 8 from Sinsa Station (Line 3), 7 min walk (approx. 500 meters)"
   highlights={["High-Quality Sound System", "Premium Whiskey Selection", "Modern, Chic Ambiance"]}
   tip="Their whiskey selection is excellent, with prices for a single malt starting around 8,000. It's a great spot for a quieter conversation."
@@ -116,6 +118,7 @@ A delightful blend of craft beer and vinyl music, Vinyl & Beer can be found in t
   phone="+82-70-4100-8469"
   priceRange="$$"
   rating={4.3}
+  image="/images/vinyl-beer-bar.jpg"
   transit="Exit 2 from Noksapyeong Station (Line 6), 10 min uphill walk (approx. 700 meters)"
   highlights={["Extensive Craft Beer Menu", "Relaxed Atmosphere", "Eclectic Music Mix"]}
   tip="Try one of their Korean craft beers, which range from ,000 to 6,000 per pint. They've been serving music and brews since 2014."
@@ -201,6 +204,7 @@ Wolhyang is a modern interpretation of a traditional makgeolli house, known for 
   phone="+82-2-336-1666"
   priceRange="$$"
   rating={4.2}
+  image="/images/makgeolli-house-interior.jpg"
   transit="Exit 9 from Hongik University Station (Line 2), 8 min walk (approx. 600 meters)"
   highlights={["Wide Variety of Craft Makgeolli", "Creative Anju Menu", "Modern Korean Ambiance"]}
   tip="Their Kimchi Jeon (김치전, kimchi pancake) is a must-try, priced around 8,000-5,000. It pairs wonderfully with their basic fermented makgeolli, which costs about ,000 a bottle."
@@ -228,6 +232,7 @@ Neurin Maeul stands out because it brews its makgeolli on-site, offering a uniqu
   phone="+82-2-582-7060"
   priceRange="$$$"
   rating={4.5}
+  image="/images/makgeolli-brewery-modern.jpg"
   transit="Exit 11 from Gangnam Station (Line 2), 3 min walk (approx. 250 meters)"
   highlights={["On-site Makgeolli Brewing", "Seasonal Makgeolli Tasting Flights", "Modern, Spacious Interior"]}
   tip="Order the makgeolli tasting set (5,000 for 4 types) to experience the different aging stages. Their Bossam (보쌈, boiled pork wraps) is delicious and typically costs 5,000-5,000."
@@ -246,6 +251,7 @@ For a truly traditional experience, Baedari Makgeolli in Jongno is a classic. It
   phone="+82-2-743-8555"
   priceRange="$$"
   rating={4.0}
+  image="/images/traditional-makgeolli-house.jpg"
   transit="Exit 5 from Jongno 3-ga Station (Line 1, 3, 5), 6 min walk (approx. 400 meters)"
   highlights={["Historic Atmosphere", "Classic Makgeolli Recipe", "Generous Food Portions"]}
   tip="Their makgeolli comes in a large kettle (주전자 jujeonja) for sharing, typically around ₩8,000. It's best enjoyed with their Pajeon (파전, green onion pancake), which costs ₩15,000-₩20,000."
