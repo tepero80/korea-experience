@@ -9,14 +9,18 @@ import { ReactNode } from 'react';
  */
 
 interface ExpertTipProps {
-  /** 전문가/작성자 이름 */
+  /** 전문가/작성자 이름 (name 또는 author 사용 가능) */
+  name?: string;
+  /** 전문가/작성자 이름 (deprecated, name 사용 권장) */
   author?: string;
   /** 전문가 역할/타이틀 */
   role?: string;
   /** 전문가 아바타 이미지 */
   avatar?: string;
-  /** 팁 내용 */
-  children: ReactNode;
+  /** 팁 내용 (quote 또는 children 사용 가능) */
+  children?: ReactNode;
+  /** 팁 내용 (문자열) */
+  quote?: string;
   /** 팁 유형 */
   type?: 'local' | 'expert' | 'warning' | 'personal' | 'travel' | 'influencer' | 'editor';
   /** 검증 상태 */
@@ -80,15 +84,21 @@ const typeConfig = {
 };
 
 export default function ExpertTip({
-  author = 'Korea Experience Team',
+  name,
+  author,
   role,
   avatar,
   children,
+  quote,
   type = 'expert',
   verified = false,
   experience,
   location,
 }: ExpertTipProps) {
+  // name 우선, 없으면 author, 둘 다 없으면 기본값
+  const displayName = name || author || 'Korea Experience Team';
+  // quote 우선, 없으면 children
+  const content = quote || children;
   const config = typeConfig[type];
   
   return (
@@ -114,13 +124,13 @@ export default function ExpertTip({
             {avatar ? (
               <img 
                 src={avatar} 
-                alt={author}
+                alt={displayName}
                 className="w-14 h-14 rounded-full object-cover border-2 border-white shadow-md"
                 itemProp="image"
               />
             ) : (
               <div className={`w-14 h-14 rounded-full bg-gradient-to-br ${config.gradient} flex items-center justify-center text-white text-2xl font-bold shadow-md`}>
-                {author.charAt(0)}
+                {displayName.charAt(0)}
               </div>
             )}
           </div>
@@ -132,7 +142,7 @@ export default function ExpertTip({
                 className="font-bold text-gray-900"
                 itemProp="author"
               >
-                {author}
+                {displayName}
               </span>
               {verified && (
                 <span 
@@ -167,10 +177,10 @@ export default function ExpertTip({
         >
           <span className="absolute -left-3 -top-2 text-4xl text-gray-300 font-serif">"</span>
           <div className="text-gray-700 leading-relaxed italic">
-            {typeof children === 'string' ? (
-              <p className="m-0">{children}</p>
+            {typeof content === 'string' ? (
+              <p className="m-0">{content}</p>
             ) : (
-              children
+              content
             )}
           </div>
         </div>

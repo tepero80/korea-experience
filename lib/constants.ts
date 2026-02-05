@@ -89,12 +89,12 @@ const generateNavTools = () => {
 // Navigation Links
 export const NAV_LINKS = [
   { href: '/', label: 'Home' },
+  { href: '/blog', label: 'Blog' },
   { 
     label: 'Tools',
     hasDropdown: true,
     items: generateNavTools()
   },
-  { href: '/blog', label: 'Blog' },
   { href: '/about', label: 'About' },
   { href: '/contact', label: 'Contact' },
 ];

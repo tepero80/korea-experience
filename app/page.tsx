@@ -104,109 +104,8 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Interactive Tools Showcase - NEW */}
-      <section className="py-20 bg-white">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          {/* Section Header */}
-          <div className="text-center max-w-3xl mx-auto mb-16">
-            <div className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-100 to-pink-100 px-4 py-2 rounded-full mb-4">
-              <span className="text-2xl">✨</span>
-              <span className="text-sm font-semibold text-purple-700">NEW: Interactive Tools</span>
-            </div>
-            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
-              Try Our Interactive Tools
-            </h2>
-            <p className="text-xl text-gray-600">
-              Fun quizzes, calculators, and generators loved by <span className="font-semibold text-purple-600">10,000+ users</span>
-            </p>
-          </div>
-
-          {/* Tools Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
-            {featuredTools.map((tool) => (
-              <Link
-                key={tool.id}
-                href={tool.href}
-                className="
-                  group relative bg-gradient-to-br from-gray-50 to-white
-                  rounded-2xl p-6 shadow-md hover:shadow-xl
-                  border-2 border-gray-100 hover:border-purple-300
-                  transition-all duration-300 hover:-translate-y-1
-                "
-              >
-                {/* Coming Soon Badge */}
-                {tool.status === 'coming' && (
-                  <div className="absolute top-4 right-4">
-                    <span className="inline-flex items-center gap-1 bg-purple-100 text-purple-700 text-xs font-semibold px-2.5 py-1 rounded-full">
-                      <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
-                        <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clipRule="evenodd" />
-                      </svg>
-                      Soon
-                    </span>
-                  </div>
-                )}
-
-                {/* Icon */}
-                <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">
-                  {tool.icon}
-                </div>
-
-                {/* Title */}
-                <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-purple-600 transition-colors">
-                  {tool.title}
-                </h3>
-
-                {/* Description */}
-                <p className="text-sm text-gray-600 mb-4 leading-relaxed">
-                  {tool.description}
-                </p>
-
-                {/* Stats */}
-                <div className="flex items-center justify-between text-xs text-gray-500">
-                  <div className="flex items-center gap-1">
-                    <span className="font-semibold text-purple-600">{tool.category}</span>
-                  </div>
-                  <div className="flex items-center gap-1">
-                    <span>{tool.difficulty}</span>
-                    <span>•</span>
-                    <span className="font-semibold">{tool.viral}% viral</span>
-                  </div>
-                </div>
-
-                {/* Hover Arrow */}
-                <div className="absolute bottom-6 right-6 opacity-0 group-hover:opacity-100 transition-opacity">
-                  <svg className="w-5 h-5 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-                  </svg>
-                </div>
-              </Link>
-            ))}
-          </div>
-
-          {/* View All Button */}
-          <div className="text-center">
-            <Link
-              href="/tools"
-              className="
-                inline-flex items-center gap-2
-                bg-gradient-to-r from-purple-600 to-pink-600
-                text-white px-8 py-4 rounded-xl font-semibold text-lg
-                hover:shadow-2xl hover:scale-105
-                transition-all duration-300
-                group
-              "
-            >
-              <span>View All Tools</span>
-              <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-              </svg>
-            </Link>
-          </div>
-        </div>
-      </section>
-
       {/* Featured Guides Section - Deep Dive */}
-      <section className="py-20 bg-gradient-to-br from-gray-50 to-blue-50">
+      <section className="py-20 bg-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           {/* Section Header */}
           <div className="text-center max-w-3xl mx-auto mb-16">
@@ -320,6 +219,107 @@ export default function Home() {
               "
             >
               <span>View All Articles</span>
+              <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+              </svg>
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      {/* Interactive Tools Showcase */}
+      <section className="py-20 bg-gradient-to-br from-gray-50 to-purple-50">
+        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+          {/* Section Header */}
+          <div className="text-center max-w-3xl mx-auto mb-16">
+            <div className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-100 to-pink-100 px-4 py-2 rounded-full mb-4">
+              <span className="text-2xl">✨</span>
+              <span className="text-sm font-semibold text-purple-700">Interactive Tools</span>
+            </div>
+            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
+              Try Our Interactive Tools
+            </h2>
+            <p className="text-xl text-gray-600">
+              Fun quizzes, calculators, and generators loved by <span className="font-semibold text-purple-600">10,000+ users</span>
+            </p>
+          </div>
+
+          {/* Tools Grid */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
+            {featuredTools.map((tool) => (
+              <Link
+                key={tool.id}
+                href={tool.href}
+                className="
+                  group relative bg-white
+                  rounded-2xl p-6 shadow-md hover:shadow-xl
+                  border-2 border-gray-100 hover:border-purple-300
+                  transition-all duration-300 hover:-translate-y-1
+                "
+              >
+                {/* Coming Soon Badge */}
+                {tool.status === 'coming' && (
+                  <div className="absolute top-4 right-4">
+                    <span className="inline-flex items-center gap-1 bg-purple-100 text-purple-700 text-xs font-semibold px-2.5 py-1 rounded-full">
+                      <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
+                        <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clipRule="evenodd" />
+                      </svg>
+                      Soon
+                    </span>
+                  </div>
+                )}
+
+                {/* Icon */}
+                <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">
+                  {tool.icon}
+                </div>
+
+                {/* Title */}
+                <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-purple-600 transition-colors">
+                  {tool.title}
+                </h3>
+
+                {/* Description */}
+                <p className="text-sm text-gray-600 mb-4 leading-relaxed">
+                  {tool.description}
+                </p>
+
+                {/* Stats */}
+                <div className="flex items-center justify-between text-xs text-gray-500">
+                  <div className="flex items-center gap-1">
+                    <span className="font-semibold text-purple-600">{tool.category}</span>
+                  </div>
+                  <div className="flex items-center gap-1">
+                    <span>{tool.difficulty}</span>
+                    <span>•</span>
+                    <span className="font-semibold">{tool.viral}% viral</span>
+                  </div>
+                </div>
+
+                {/* Hover Arrow */}
+                <div className="absolute bottom-6 right-6 opacity-0 group-hover:opacity-100 transition-opacity">
+                  <svg className="w-5 h-5 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                  </svg>
+                </div>
+              </Link>
+            ))}
+          </div>
+
+          {/* View All Button */}
+          <div className="text-center">
+            <Link
+              href="/tools"
+              className="
+                inline-flex items-center gap-2
+                bg-gradient-to-r from-purple-600 to-pink-600
+                text-white px-8 py-4 rounded-xl font-semibold text-lg
+                hover:shadow-2xl hover:scale-105
+                transition-all duration-300
+                group
+              "
+            >
+              <span>View All Tools</span>
               <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
               </svg>
