@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
       title: post.title,
       description: post.excerpt,
       type: 'article',
-      publishedTime: post.date,
+      publishedTime: new Date(post.date).toISOString(),
       authors: [SITE_CONFIG.author],
       url: url,
       siteName: SITE_CONFIG.name,

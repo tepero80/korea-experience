@@ -141,8 +141,10 @@ export default function ExpertTip({
               <span 
                 className="font-bold text-gray-900"
                 itemProp="author"
+                itemScope
+                itemType="https://schema.org/Person"
               >
-                {displayName}
+                <span itemProp="name">{displayName}</span>
               </span>
               {verified && (
                 <span 
