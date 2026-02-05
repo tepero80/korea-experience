@@ -26,7 +26,16 @@ export default function Search() {
     fetch('/search-index.json')
       .then(res => res.json())
       .then((data: SearchResult[]) => {
-        const fuseInstance = new Fuse<SearchResult>(data, {
+        // Sort data to prioritize Deep Dive articles
+        const sortedData = [...data].sort((a, b) => {
+          const aIsDeepDive = a.slug.includes('deep-dive') || (a as any).deepDive;
+          const bIsDeepDive = b.slug.includes('deep-dive') || (b as any).deepDive;
+          if (aIsDeepDive && !bIsDeepDive) return -1;
+          if (!aIsDeepDive && bIsDeepDive) return 1;
+          return 0;
+        });
+
+        const fuseInstance = new Fuse<SearchResult>(sortedData, {
           keys: [
             { name: 'title', weight: 2 },
             { name: 'excerpt', weight: 1.5 },
@@ -35,7 +44,22 @@ export default function Search() {
           ],
           threshold: 0.3,
           ignoreLocation: true,
-          includeScore: true
+          includeScore: true,
+          // Sort by score, then prioritize Deep Dive articles
+          sortFn: (a, b) => {
+            const aItem = sortedData[a.idx];
+            const bItem = sortedData[b.idx];
+            const aIsDeepDive = aItem.slug.includes('deep-dive') || (aItem as any).deepDive;
+            const bIsDeepDive = bItem.slug.includes('deep-dive') || (bItem as any).deepDive;
+            
+            // If scores are similar (within 0.1), prioritize Deep Dive
+            if (Math.abs(a.score! - b.score!) < 0.1) {
+              if (aIsDeepDive && !bIsDeepDive) return -1;
+              if (!aIsDeepDive && bIsDeepDive) return 1;
+            }
+            
+            return a.score! - b.score!;
+          }
         });
         setFuse(fuseInstance);
         setIsLoading(false);
@@ -174,26 +198,34 @@ export default function Search() {
                   Loading search index...
                 </div>
               ) : results.length > 0 ? (
-                results.map((result, index) => (
-                  <Link
-                    key={result.slug}
-                    href={`/blog/${result.slug}`}
-                    onClick={handleResultClick}
-                    className="block p-4 hover:bg-blue-50 border-b border-gray-100 transition-colors group"
-                  >
-                    <div className="flex items-center gap-2 mb-1">
-                      <span className="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded font-medium">
-                        {result.category}
-                      </span>
-                    </div>
-                    <h3 className="font-semibold text-gray-900 mb-1 group-hover:text-blue-600 transition">
-                      {result.title}
-                    </h3>
-                    <p className="text-sm text-gray-600 line-clamp-2">
-                      {result.excerpt}
-                    </p>
-                  </Link>
-                ))
+                results.map((result, index) => {
+                  const isDeepDive = result.slug.includes('deep-dive') || (result as any).deepDive;
+                  return (
+                    <Link
+                      key={result.slug}
+                      href={`/blog/${result.slug}`}
+                      onClick={handleResultClick}
+                      className={`block p-4 hover:bg-blue-50 border-b border-gray-100 transition-colors group ${isDeepDive ? 'bg-gradient-to-r from-blue-50/30 to-cyan-50/30' : ''}`}
+                    >
+                      <div className="flex items-center gap-2 mb-1">
+                        {isDeepDive && (
+                          <span className="text-xs px-2 py-1 bg-blue-600 text-white rounded font-semibold flex items-center gap-1">
+                            🔬 Deep Dive
+                          </span>
+                        )}
+                        <span className="text-xs px-2 py-1 bg-blue-100 text-blue-700 rounded font-medium">
+                          {result.category}
+                        </span>
+                      </div>
+                      <h3 className="font-semibold text-gray-900 mb-1 group-hover:text-blue-600 transition">
+                        {result.title}
+                      </h3>
+                      <p className="text-sm text-gray-600 line-clamp-2">
+                        {result.excerpt}
+                      </p>
+                    </Link>
+                  );
+                })
               ) : query ? (
                 <div className="p-8 text-center text-gray-500">
                   <svg className="w-12 h-12 mx-auto mb-3 text-gray-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
