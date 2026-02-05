@@ -128,14 +128,21 @@ export default function LocationCard({
           
           {/* Rating & Price */}
           <div className="flex flex-col items-end gap-1">
-            {rating && (
+            {rating && reviewCount && (
               <div className="flex items-center gap-2">
                 <div className="flex text-lg">{renderStars(rating)}</div>
                 <span className="text-sm text-gray-600" itemProp="aggregateRating" itemScope itemType="https://schema.org/AggregateRating">
                   <span itemProp="ratingValue">{rating}</span>
-                  {reviewCount && (
-                    <span className="text-gray-400"> (<span itemProp="reviewCount">{reviewCount}</span>)</span>
-                  )}
+                  <span itemProp="ratingCount">{reviewCount}</span>
+                  <span className="text-gray-400"> ({reviewCount})</span>
+                </span>
+              </div>
+            )}
+            {rating && !reviewCount && (
+              <div className="flex items-center gap-2">
+                <div className="flex text-lg">{renderStars(rating)}</div>
+                <span className="text-sm text-gray-600">
+                  {rating}
                 </span>
               </div>
             )}
