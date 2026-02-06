@@ -30,7 +30,7 @@ Write a comprehensive, SEO-optimized blog post about: "${keyword}"
 Requirements:
 - Category: ${category}
 - Language: English
-- Length: 2,500-3,500 words
+- Length: 3,000-3,500 words (MINIMUM 3,000 words - this is critical for SEO ranking)
 - Tone: Professional, informative, helpful with personal insights
 - Target audience: International travelers/expats interested in Korea
 - Include specific data points (prices, distances, times) every 150-200 words
@@ -233,16 +233,32 @@ Structure:
    - Use StepGuide for how-to sections
    - End with FAQAccordion (MANDATORY - 5 questions minimum)
 
-6. Sources Section (MANDATORY for E-E-A-T and AI citation):
-   - After the FAQ, add a horizontal rule (---) and a "## Sources" section
+6. Sources Section (MANDATORY - DO NOT SKIP):
+   - This section is REQUIRED. Articles WITHOUT a Sources section will be rejected.
+   - After the FAQ, add a horizontal rule (---) then "## Sources"
    - List 3-5 authoritative sources with markdown links
    - Use official Korean government sites, KTO, KMA, KORAIL, or recognized industry sources
    - Format: "- [Source Name](https://url) - Brief description of what data was referenced"
    - Example:
+     ---
      ## Sources
      - [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official tourism data and festival schedules
      - [Korea Meteorological Administration](https://www.kma.go.kr) - Weather and climate data
    - Do NOT invent fake URLs. Use well-known, real Korean government or industry websites only.
+   - VERIFICATION: Before finishing, confirm your article ends with ## Sources followed by 3-5 links.
+
+7. Internal Links (MANDATORY - DO NOT SKIP):
+   - Include 3-5 internal links to related articles throughout the content
+   - Use markdown format: [descriptive anchor text](/blog/slug-of-related-post)
+   - Spread links naturally within the body text, not clustered together
+   - Link to related topics using slugs from these common categories:
+     * Food: /blog/best-korean-bbq-restaurants-in-seoul-2026, /blog/50-must-try-korean-foods-complete-guide-2026
+     * Travel: /blog/best-day-trips-from-seoul-2026, /blog/cherry-blossom-forecast-korea-2026
+     * Living: /blog/cost-of-living-in-seoul-vs-other-korean-cities-2026, /blog/how-to-find-an-apartment-in-seoul-2026
+     * Medical: /blog/best-dermatology-clinics-in-seoul-for-foreigners, /blog/medical-tourism-visa-c33-2026
+     * Culture: /blog/best-k-pop-concert-venues-in-seoul, /blog/korean-language-learning-best-methods-2026
+   - Example in text: "If you're planning to try Korean BBQ, check out our [guide to the best BBQ restaurants in Seoul](/blog/best-korean-bbq-restaurants-in-seoul-2026) for specific recommendations."
+   - IMPORTANT: Only link to slugs that plausibly exist. Use category-relevant slugs.
 
 CRITICAL JSX SYNTAX RULES (MUST follow exactly):
 - Output ONLY the markdown content with embedded JSX components
