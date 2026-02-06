@@ -68,32 +68,32 @@ export default function Footer() {
             </h4>
             <ul className="space-y-3">
               <li>
-                <Link href="/blog?category=medical" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
+                <Link href="/blog/category/medical-tourism" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
                   → Medical Tourism
                 </Link>
               </li>
               <li>
-                <Link href="/blog?category=travel" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
+                <Link href="/blog/category/travel-tourism" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
                   → Travel Guides
                 </Link>
               </li>
               <li>
-                <Link href="/blog?category=culture" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
+                <Link href="/blog/category/k-culture" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
                   → K-Culture
                 </Link>
               </li>
               <li>
-                <Link href="/blog?category=living" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
+                <Link href="/blog/category/living-in-korea" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
                   → Living in Korea
                 </Link>
               </li>
               <li>
-                <Link href="/blog?category=food" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
+                <Link href="/blog/category/food-dining" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
                   → Food & Dining
                 </Link>
               </li>
               <li>
-                <Link href="/blog?category=shopping" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
+                <Link href="/blog/category/shopping-kbeauty" className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200">
                   → Shopping & K-Beauty
                 </Link>
               </li>

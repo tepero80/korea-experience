@@ -74,27 +74,81 @@ export default function Header() {
               >
                 {link.hasDropdown ? (
                   <>
-                    <button
-                      className="
-                        px-4 py-2 rounded-lg font-medium text-gray-700
-                        hover:text-blue-600 hover:bg-blue-50
-                        transition-all duration-200
-                        relative group flex items-center gap-1
-                      "
-                    >
-                      {link.label}
-                      <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                      </svg>
-                      <span className="
-                        absolute bottom-1 left-1/2 -translate-x-1/2 w-0 h-0.5 
-                        bg-gradient-to-r from-blue-600 to-cyan-500
-                        group-hover:w-2/3 transition-all duration-300
-                      " />
-                    </button>
+                    {link.href ? (
+                      <Link
+                        href={link.href}
+                        className="
+                          px-4 py-2 rounded-lg font-medium text-gray-700
+                          hover:text-blue-600 hover:bg-blue-50
+                          transition-all duration-200
+                          relative group flex items-center gap-1
+                        "
+                      >
+                        {link.label}
+                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                        </svg>
+                      </Link>
+                    ) : (
+                      <button
+                        className="
+                          px-4 py-2 rounded-lg font-medium text-gray-700
+                          hover:text-blue-600 hover:bg-blue-50
+                          transition-all duration-200
+                          relative group flex items-center gap-1
+                        "
+                      >
+                        {link.label}
+                        <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                        </svg>
+                        <span className="
+                          absolute bottom-1 left-1/2 -translate-x-1/2 w-0 h-0.5 
+                          bg-gradient-to-r from-blue-600 to-cyan-500
+                          group-hover:w-2/3 transition-all duration-300
+                        " />
+                      </button>
+                    )}
                     
-                    {/* Dropdown Menu */}
-                    {openDropdown === link.label && (
+                    {/* Blog Category Dropdown */}
+                    {openDropdown === link.label && link.dropdownType === 'blog' && (
+                      <div className="absolute top-full left-0 pt-2 w-56 z-50">
+                        <div className="bg-white rounded-xl shadow-2xl border border-gray-100 py-2 animate-in fade-in slide-in-from-top-2 duration-200">
+                          {link.blogCategories?.map((cat) => (
+                            <Link
+                              key={cat.href}
+                              href={cat.href}
+                              className="
+                                flex items-center gap-3 px-4 py-2.5 text-sm text-gray-700
+                                hover:bg-blue-50 hover:text-blue-600
+                                transition-all duration-150
+                              "
+                            >
+                              <span className="text-lg">{cat.icon}</span>
+                              <span className="font-medium">{cat.label}</span>
+                            </Link>
+                          ))}
+                          <div className="mt-1 pt-1 border-t border-gray-100">
+                            <Link
+                              href="/blog"
+                              className="
+                                flex items-center gap-2 px-4 py-2.5 text-sm text-blue-600
+                                hover:bg-blue-50 font-medium
+                              "
+                            >
+                              <span>📚</span>
+                              <span>All Articles</span>
+                              <svg className="w-4 h-4 ml-auto" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+                              </svg>
+                            </Link>
+                          </div>
+                        </div>
+                      </div>
+                    )}
+
+                    {/* Tools Dropdown */}
+                    {openDropdown === link.label && link.dropdownType === 'tools' && (
                       <div className="absolute top-full left-0 pt-2 w-[600px] z-50">
                         <div className="bg-white rounded-xl shadow-2xl border border-gray-100 p-6 animate-in fade-in slide-in-from-top-2 duration-200">
                           <div className="grid grid-cols-2 gap-6">
@@ -228,7 +282,37 @@ export default function Header() {
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
                       </svg>
                     </button>
-                    {openDropdown === link.label && (
+                    {openDropdown === link.label && link.dropdownType === 'blog' && (
+                      <div className="pl-4 mt-2 space-y-1">
+                        {link.blogCategories?.map((cat) => (
+                          <Link
+                            key={cat.href}
+                            href={cat.href}
+                            onClick={() => setIsMobileMenuOpen(false)}
+                            className="
+                              flex items-center gap-3 px-4 py-2 rounded-lg text-sm text-gray-600
+                              hover:bg-blue-50 hover:text-blue-600
+                              transition-all duration-200
+                            "
+                          >
+                            <span>{cat.icon}</span>
+                            <span>{cat.label}</span>
+                          </Link>
+                        ))}
+                        <Link
+                          href="/blog"
+                          onClick={() => setIsMobileMenuOpen(false)}
+                          className="
+                            flex items-center gap-3 px-4 py-2 text-sm text-blue-600 font-medium
+                            hover:bg-blue-50 rounded-lg
+                          "
+                        >
+                          <span>📚</span>
+                          <span>All Articles →</span>
+                        </Link>
+                      </div>
+                    )}
+                    {openDropdown === link.label && link.dropdownType === 'tools' && (
                       <div className="pl-4 mt-2 space-y-3">
                         {link.items?.map((category) => (
                           <div key={category.category}>

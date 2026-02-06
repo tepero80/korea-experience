@@ -5,6 +5,7 @@ import { useSearchParams, useRouter } from 'next/navigation';
 import { PostMetadata } from '@/lib/posts';
 import BlogCard from '@/components/BlogCard';
 import { useState, useMemo, useEffect } from 'react';
+import { CATEGORY_HUBS } from '@/lib/constants';
 
 interface BlogListProps {
   allPosts: PostMetadata[];
@@ -233,6 +234,22 @@ export default function BlogList({ allPosts }: BlogListProps) {
           <span>💄</span> Shopping & K-Beauty
         </Link>
       </div>
+
+      {/* Category Hub Links (crawlable static pages) */}
+      {!categorySlug && currentTab !== 'deep-dive' && (
+        <div className="mb-8 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3">
+          {CATEGORY_HUBS.map((cat) => (
+            <Link
+              key={cat.slug}
+              href={`/blog/category/${cat.slug}`}
+              className={`group bg-gradient-to-br ${cat.gradient} rounded-xl p-3 text-center text-white shadow-sm hover:shadow-lg transition-all hover:-translate-y-0.5`}
+            >
+              <div className="text-2xl mb-1 group-hover:scale-110 transition-transform">{cat.icon}</div>
+              <div className="text-xs font-semibold leading-tight">{cat.name}</div>
+            </Link>
+          ))}
+        </div>
+      )}
 
       {/* Results Count */}
       <div className="mb-6 text-sm text-gray-500">

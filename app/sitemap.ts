@@ -1,6 +1,6 @@
 import { MetadataRoute } from 'next';
 import { getAllPosts } from '@/lib/posts';
-import { SITE_CONFIG, ALL_TOOLS } from '@/lib/constants';
+import { SITE_CONFIG, ALL_TOOLS, CATEGORY_HUBS } from '@/lib/constants';
 
 export const dynamic = 'force-static';
 
@@ -66,5 +66,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
     };
   });
 
-  return [...staticPages, ...toolPages, ...blogPosts];
+  // Category Hub Pages — crawlable category index pages for SEO
+  const categoryPages = CATEGORY_HUBS.map((cat) => ({
+    url: `${baseUrl}/blog/category/${cat.slug}`,
+    lastModified: SITE_LAST_UPDATED,
+    changeFrequency: 'weekly' as const,
+    priority: 0.85,
+  }));
+
+  return [...staticPages, ...categoryPages, ...toolPages, ...blogPosts];
 }

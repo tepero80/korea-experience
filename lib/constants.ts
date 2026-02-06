@@ -86,13 +86,112 @@ const generateNavTools = () => {
   }));
 };
 
+// Blog Categories (legacy - for general reference)
+export const BLOG_CATEGORIES = [
+  'Medical Tourism',
+  'Plastic Surgery',
+  'Dermatology',
+  'Travel Guide',
+  'K-Culture',
+  'Living in Korea',
+  'Food & Dining',
+  'Shopping & K-Beauty',
+  'Visa & Immigration',
+  'Skincare',
+];
+
+// Blog Category Hub Pages — static routes for SEO
+export const CATEGORY_HUBS = [
+  {
+    slug: 'medical-tourism',
+    name: 'Medical Tourism',
+    icon: '🏥',
+    color: 'rose',
+    gradient: 'from-rose-500 to-red-600',
+    description: 'World-class medical procedures at competitive prices. From plastic surgery and dermatology to dental care and health checkups — your complete guide to medical tourism in Korea.',
+    metaTitle: 'Medical Tourism in Korea — Complete Guide 2026',
+    metaDescription: 'Explore Korea\'s top medical tourism options: plastic surgery, dermatology, dental care, health screenings, and more. Expert guides with costs, clinics, and tips.',
+  },
+  {
+    slug: 'travel-tourism',
+    name: 'Travel & Tourism',
+    icon: '✈️',
+    color: 'blue',
+    gradient: 'from-blue-500 to-indigo-600',
+    description: 'From Seoul\'s neon-lit streets to Jeju\'s volcanic landscapes — discover the best of Korea with insider travel tips, itineraries, and seasonal guides.',
+    metaTitle: 'Korea Travel Guide — Best Destinations & Tips 2026',
+    metaDescription: 'Plan your perfect Korea trip with expert travel guides. Seoul itineraries, day trips, seasonal festivals, transportation tips, and hidden gems.',
+  },
+  {
+    slug: 'k-culture',
+    name: 'K-Culture',
+    icon: '🎭',
+    color: 'purple',
+    gradient: 'from-purple-500 to-fuchsia-600',
+    description: 'K-Pop, K-Drama, traditional arts, and modern culture — dive deep into the cultural phenomena that have captivated the world.',
+    metaTitle: 'K-Culture Guide — K-Pop, K-Drama & Korean Culture 2026',
+    metaDescription: 'Your guide to Korean culture: K-Pop concerts, K-Drama filming locations, traditional customs, festivals, and the cultural trends shaping Korea.',
+  },
+  {
+    slug: 'living-in-korea',
+    name: 'Living in Korea',
+    icon: '🏠',
+    color: 'emerald',
+    gradient: 'from-emerald-500 to-teal-600',
+    description: 'Everything expats and long-term visitors need to know — from visa requirements and housing to banking, healthcare, and daily life tips.',
+    metaTitle: 'Living in Korea — Expat Guide 2026',
+    metaDescription: 'The essential expat guide to living in Korea. Visa info, housing, banking, healthcare, schools, and practical tips for daily life.',
+  },
+  {
+    slug: 'food-dining',
+    name: 'Food & Dining',
+    icon: '🍜',
+    color: 'orange',
+    gradient: 'from-orange-500 to-amber-600',
+    description: 'Korean BBQ, street food, Michelin restaurants, and regional specialties — your ultimate guide to eating well in Korea.',
+    metaTitle: 'Korean Food Guide — Best Restaurants & Street Food 2026',
+    metaDescription: 'Discover Korea\'s incredible food scene: Korean BBQ, street food markets, Michelin restaurants, regional cuisine, and dining etiquette.',
+  },
+  {
+    slug: 'shopping-kbeauty',
+    name: 'Shopping & K-Beauty',
+    icon: '💄',
+    color: 'pink',
+    gradient: 'from-pink-500 to-rose-600',
+    description: 'From Olive Young hauls to Myeongdong shopping tips — discover the best K-Beauty products, fashion trends, and shopping destinations in Korea.',
+    metaTitle: 'K-Beauty & Shopping Guide — Best Products & Stores 2026',
+    metaDescription: 'Your guide to shopping in Korea: K-Beauty must-buys, Olive Young essentials, Myeongdong tips, fashion districts, and duty-free shopping.',
+  },
+] as const;
+
+// Map from hub slug to actual frontmatter category name
+export const CATEGORY_SLUG_TO_NAME: Record<string, string> = {
+  'medical-tourism': 'Medical Tourism',
+  'travel-tourism': 'Travel & Tourism',
+  'k-culture': 'K-Culture',
+  'living-in-korea': 'Living in Korea',
+  'food-dining': 'Food & Dining',
+  'shopping-kbeauty': 'Shopping & K-Beauty',
+};
+
 // Navigation Links
 export const NAV_LINKS = [
   { href: '/', label: 'Home' },
-  { href: '/blog', label: 'Blog' },
+  { 
+    label: 'Blog',
+    href: '/blog',
+    hasDropdown: true,
+    dropdownType: 'blog' as const,
+    blogCategories: CATEGORY_HUBS.map(cat => ({
+      href: `/blog/category/${cat.slug}`,
+      label: cat.name,
+      icon: cat.icon,
+    })),
+  },
   { 
     label: 'Tools',
     hasDropdown: true,
+    dropdownType: 'tools' as const,
     items: generateNavTools()
   },
   { href: '/about', label: 'About' },
@@ -112,17 +211,3 @@ export const FOOTER_LINKS = {
     { href: '/contact', label: 'Contact' },
   ],
 };
-
-// Blog Categories
-export const BLOG_CATEGORIES = [
-  'Medical Tourism',
-  'Plastic Surgery',
-  'Dermatology',
-  'Travel Guide',
-  'K-Culture',
-  'Living in Korea',
-  'Food & Dining',
-  'Shopping & K-Beauty',
-  'Visa & Immigration',
-  'Skincare',
-];
