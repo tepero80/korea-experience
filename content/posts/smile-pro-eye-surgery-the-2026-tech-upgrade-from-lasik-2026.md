@@ -1,5 +1,5 @@
-﻿---
-title: "SMILE Pro Eye Surgery The 2026 Tech Upgrade"
+---
+title: "SMILE pro eye surgery the 2026 tech upgrade"
 date: 2026-01-30
 excerpt: "Discover SMILE Pro eye surgery in Korea, the 2026 tech upgrade from traditional LASIK. Learn its benefits, process, and why Korea is your top destination."
 category: Medical Tourism

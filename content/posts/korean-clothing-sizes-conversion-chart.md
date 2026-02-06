@@ -1,5 +1,5 @@
-﻿---
-title: "Korean Clothing Sizes Conversion Chart: The Ultimate Guide"
+---
+title: "Korean clothing sizes conversion chart: the ultimate guide"
 date: 2026-01-14
 excerpt: "Navigate Korean fashion with confidence! This ultimate guide provides a comprehensive Korean clothing sizes conversion chart for women, men, and shoes."
 category: Shopping & K-Beauty

@@ -1,5 +1,5 @@
-﻿---
-title: "Flying After Plastic Surgery: When Is It Safe?"
+---
+title: "Flying after plastic surgery: when is it safe?"
 date: 2026-01-08
 excerpt: "Understand the crucial safety timeline for flying after plastic surgery in Korea. Learn about risks, recovery, and essential tips for a smooth return journey."
 category: Medical Tourism

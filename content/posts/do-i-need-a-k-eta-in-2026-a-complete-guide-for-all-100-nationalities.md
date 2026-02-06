@@ -1,5 +1,5 @@
 ---
-title: "Do I Need a K-ETA in 2026 A Complete Guide for All 100+ Nationalities"
+title: "Do i need a K-ETA in 2026 a complete guide for all 100+ nationalities"
 date: 2026-02-04
 excerpt: "Discover if you need a K-ETA for South Korea in 2026 with our complete guide covering costs, application steps, and new rules for 112 eligible countries."
 category: Travel & Tourism

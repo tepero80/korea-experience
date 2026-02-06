@@ -12,6 +12,14 @@ interface ContentPlan {
 
 const PLAN_FILE = path.join(process.cwd(), 'scripts', 'content-plan.json');
 const PROGRESS_FILE = path.join(process.cwd(), 'scripts', 'generation-progress.json');
+const LOG_FILE = path.join(process.cwd(), 'scripts', 'generation-log.txt');
+
+function log(msg: string) {
+  const timestamp = new Date().toISOString().replace('T', ' ').slice(0, 19);
+  const line = `[${timestamp}] ${msg}`;
+  console.log(line);
+  fs.appendFileSync(LOG_FILE, line + '\n');
+}
 
 // 진행상황 로드
 function loadProgress(): Record<string, boolean> {
@@ -50,52 +58,129 @@ async function runBatch(batchIndex?: number) {
       const batch = plan.batches[i];
       console.log(`\n📦 배치 ${i + 1}/${plan.batches.length}: ${batch.name}\n`);
       
-      await processBatch(batch, progress);
+      const didWork = await processBatch(batch, progress);
       
-      if (i < plan.batches.length - 1) {
-        console.log('\n⏳ 다음 배치까지 5초 대기...\n');
-        await sleep(5000);
+      // 일일 할당량 초과 시 전체 중단
+      if (dailyQuotaExhausted) {
+        log(`\n🛑 일일 할당량 초과로 전체 프로세스를 종료합니다.`);
+        break;
+      }
+      
+      if (didWork && i < plan.batches.length - 1) {
+        log('\n⏳ 다음 배치까지 10초 대기...\n');
+        await sleep(10000);
       }
     }
   }
   
-  console.log('\n✅ 생성 완료!\n');
+  // 최종 요약
+  const summary = `\n${'='.repeat(60)}\n🏁 재생성 완료!\n  ✅ 성공: ${totalSuccess}\n  ❌ 실패: ${totalFailed}\n${'='.repeat(60)}`;
+  log(summary);
+  
+  if (failedPosts.length > 0) {
+    log('\n실패한 포스트:');
+    failedPosts.forEach(p => log(`  - ${p}`));
+  }
+  
   showProgress(plan, progress);
 }
 
-// 배치 처리
-async function processBatch(batch: { name: string; category: string; posts: string[] }, progress: Record<string, boolean>) {
+// 배치 처리 (리트라이 + 지수 백오프)
+const MAX_RETRIES = 3;
+const RETRY_DELAYS = [15000, 45000, 90000]; // 15s, 45s, 90s
+const POST_DELAY = 8000; // 8s between posts (rate limit 방지)
+const CONSECUTIVE_FAIL_LIMIT = 3; // 연속 실패 N회 시 일일 할당량 초과로 판단
+
+let totalSuccess = 0;
+let totalFailed = 0;
+let consecutiveFailures = 0; // 연속 실패 카운터
+let dailyQuotaExhausted = false;
+const failedPosts: string[] = [];
+
+function isDailyQuotaError(errorMsg: string): boolean {
+  return errorMsg.includes('generate_requests_per_model_per_day') ||
+         errorMsg.includes('429') && errorMsg.includes('quota');
+}
+
+async function processBatch(batch: { name: string; category: string; posts: string[] }, progress: Record<string, boolean>): Promise<boolean> {
+  let didGenerate = false;
   for (let i = 0; i < batch.posts.length; i++) {
     const keyword = batch.posts[i];
     const key = `${batch.category}:${keyword}`;
     
     if (progress[key]) {
-      console.log(`⏭️  건너뜀 (이미 생성됨): ${keyword}`);
+      continue;
+    }
+
+    // 일일 할당량 초과 감지 시 즉시 중단
+    if (dailyQuotaExhausted) {
+      log(`⛔ 일일 할당량 초과 — 스킵: ${keyword}`);
       continue;
     }
     
-    console.log(`\n📝 생성 중 (${i + 1}/${batch.posts.length}): ${keyword}`);
-    
-    try {
-      execSync(`npm run generate "${keyword}" "${batch.category}"`, {
-        stdio: 'inherit',
-        cwd: process.cwd()
-      });
-      
-      progress[key] = true;
-      saveProgress(progress);
-      
-      console.log(`✅ 완료: ${keyword}`);
-      
-      if (i < batch.posts.length - 1) {
-        console.log('⏳ 3초 대기...');
-        await sleep(3000);
+    let success = false;
+    for (let attempt = 0; attempt <= MAX_RETRIES; attempt++) {
+      if (attempt > 0) {
+        // 일일 할당량 에러면 리트라이 하지 않음
+        if (dailyQuotaExhausted) break;
+        const delay = RETRY_DELAYS[attempt - 1];
+        log(`🔄 리트라이 ${attempt}/${MAX_RETRIES} (${delay/1000}s 후): ${keyword}`);
+        await sleep(delay);
       }
-    } catch (error) {
-      console.error(`❌ 실패: ${keyword}`);
-      console.error(error);
+      
+      log(`📝 생성 중 (${i + 1}/${batch.posts.length}): ${keyword}`);
+      
+      try {
+        const output = execSync(`npx tsx scripts/generate-content.ts "${keyword}" "${batch.category}"`, {
+          cwd: process.cwd(),
+          timeout: 120000, // 2분 타임아웃
+          encoding: 'utf-8',
+          stdio: ['pipe', 'pipe', 'pipe']
+        });
+        
+        // 성공 시 stdout 출력
+        if (output) console.log(output);
+        
+        progress[key] = true;
+        saveProgress(progress);
+        totalSuccess++;
+        consecutiveFailures = 0; // 성공 시 연속 실패 리셋
+        log(`✅ 완료 [${totalSuccess}]: ${keyword}`);
+        success = true;
+        didGenerate = true;
+        break;
+      } catch (error: any) {
+        const errMsg = error.stderr?.toString() || error.stdout?.toString() || error.message || '';
+        const shortErr = (error.message || 'unknown').slice(0, 100);
+        log(`⚠️  시도 ${attempt + 1} 실패: ${keyword} — ${shortErr}`);
+        
+        // 일일 할당량 에러 감지
+        if (isDailyQuotaError(errMsg)) {
+          consecutiveFailures++;
+          if (consecutiveFailures >= CONSECUTIVE_FAIL_LIMIT) {
+            dailyQuotaExhausted = true;
+            log(`\n🛑 일일 API 할당량 초과 감지 (연속 ${consecutiveFailures}회 429 에러)`);
+            log(`🛑 내일 할당량 리셋 후 다시 실행하세요: npx tsx scripts/batch-generate.ts run-all`);
+            log(`🛑 현재까지 완료: ${totalSuccess}개\n`);
+            break;
+          }
+        }
+      }
+    }
+    
+    if (!success) {
+      totalFailed++;
+      failedPosts.push(`[${batch.category}] ${keyword}`);
+      if (!dailyQuotaExhausted) {
+        log(`❌ 최종 실패: ${keyword}`);
+      }
+    }
+    
+    if (success && i < batch.posts.length - 1) {
+      await sleep(POST_DELAY);
     }
   }
+  return didGenerate;
 }
 
 // 진행상황 표시

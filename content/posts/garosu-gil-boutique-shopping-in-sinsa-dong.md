@@ -1,5 +1,5 @@
-﻿---
-title: "Garosu-gil Boutique Shopping in Sinsa-dong: A Style Guide"
+---
+title: "Garosu-gil boutique shopping in sinsa-dong: a style guide"
 date: 2026-01-09
 excerpt: "Discover Garosu-gil in Sinsa-dong, Seoul's premier destination for boutique fashion, K-Beauty, and unique lifestyle finds for international travelers"
 category: Shopping & K-Beauty

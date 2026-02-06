@@ -1,5 +1,5 @@
-﻿---
-title: "Hanji Making Workshops in Jeonju 2026 A Timeless Craft"
+---
+title: "Hanji making workshops in jeonju 2026 a timeless craft"
 date: 2026-02-02
 excerpt: "Discover Jeonju's Hanji making workshops in 2026. Immerse yourself in Korea's ancient paper craft, learn traditional techniques, and create unique souvenirs."
 category: Travel & Tourism

@@ -1,5 +1,5 @@
-﻿---
-title: "Your Ultimate Guide to the Korean Spa Jjimjilbang Experience"
+---
+title: "Your Ultimate Guide to the Korean Spa jjimjilbang Experience"
 date: 2026-01-19
 excerpt: "Unlock the secrets of the jjimjilbang, Korea's unique spa culture. This guide covers everything from etiquette to relaxation, ensuring a perfect visit."
 category: Travel & Tourism

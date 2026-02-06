@@ -1,5 +1,5 @@
-﻿---
-title: "Gyeongju The Museum Without Walls: 2-Day Itinerary 2026"
+---
+title: "Gyeongju the museum without walls: 2-Day itinerary 2026"
 date: 2026-01-09
 excerpt: "Discover Gyeongju, Korea's ancient capital, with our expert 2-day historical itinerary for 2026. Explore UNESCO sites, Silla Dynasty treasures, and practical tips."
 category: Travel & Tourism

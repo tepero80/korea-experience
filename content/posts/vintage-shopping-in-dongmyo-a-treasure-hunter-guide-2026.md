@@ -1,5 +1,5 @@
-﻿---
-title: "Vintage Shopping Dongmyo: A Treasure Hunter Guide 2026"
+---
+title: "Vintage shopping dongmyo: a treasure hunter guide 2026"
 date: 2026-02-03
 excerpt: "Unearth unique finds in Dongmyo, Seoul's vintage paradise. This 2026 guide offers essential tips for international shoppers, revealing hidden gems and best practices."
 category: Travel & Tourism

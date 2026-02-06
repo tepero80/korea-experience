@@ -1,5 +1,5 @@
-﻿---
-title: "Korean Body Care From Head to Toe: The Ultimate Guide"
+---
+title: "Korean body care from head to toe: the ultimate guide"
 date: 2026-01-14
 excerpt: "Unlock the secrets of Korean body care, from invigorating scalp treatments to revitalizing foot masks. Discover products, rituals, and where to shop in Korea."
 category: Shopping & K-Beauty

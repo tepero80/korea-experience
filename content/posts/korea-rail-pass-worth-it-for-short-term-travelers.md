@@ -1,5 +1,5 @@
-﻿---
-title: "Is the Korea Rail Pass Worth It for Short-Term Trips?"
+---
+title: "Is the Korea rail pass worth it for short-term trips?"
 date: 2026-01-21
 excerpt: "Deciding if the Korea Rail Pass is a good deal for short visits to South Korea? This guide breaks down costs, benefits, and alternatives for your travel plans."
 category: Travel & Tourism

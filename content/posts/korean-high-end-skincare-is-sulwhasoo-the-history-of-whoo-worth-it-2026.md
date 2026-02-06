@@ -1,5 +1,5 @@
-﻿---
-title: "Sulwhasoo and The History of Whoo Worth It 2026 Review"
+---
+title: "Sulwhasoo and the history of whoo worth it 2026 review"
 date: 2026-01-17
 excerpt: "Exploring if high-end Korean skincare like Sulwhasoo and The History of Whoo offers true value for international travelers and expats in 2026."
 category: Shopping & K-Beauty

@@ -1,5 +1,5 @@
-﻿---
-title: "The Coffee Trail Exploring Gangneung Famous Cafe Street 2026"
+---
+title: "The coffee trail exploring Gangneung famous cafe street 2026"
 date: 2026-01-31
 excerpt: "Discover Gangneung Famous Cafe Street 2026, Korea's coffee capital. This guide covers top cafes, transport, hidden gems, and tips for your perfect caffeine journey."
 category: Travel & Tourism

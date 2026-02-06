@@ -1,5 +1,5 @@
-﻿---
-title: "Reading Korean Prescriptions: A Foreigner's 2026 Guide"
+---
+title: "Reading Korean prescriptions: a foreigner's 2026 guide"
 date: 2026-01-11
 excerpt: "Decode Korean medical prescriptions with this 2026 guide for foreigners. Learn symbols, dosage, and practical tips for healthcare in Korea. Your essential resource."
 category: Medical Tourism

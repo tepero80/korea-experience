@@ -1,5 +1,5 @@
-﻿---
-title: "Korea vs Thailand Medical Tourism: Which Is Better 2026?"
+---
+title: "Korea vs thailand medical tourism: which is better 2026?"
 date: 2026-01-21
 excerpt: "Deciding between Korea and Thailand for medical tourism in 2026? This guide offers an in-depth comparison of costs, quality, specialties, and practical tips."
 category: Medical Tourism

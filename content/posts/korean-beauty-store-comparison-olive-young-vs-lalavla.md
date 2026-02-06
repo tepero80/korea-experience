@@ -1,5 +1,5 @@
-﻿---
-title: "Olive Young vs Lalavla: The Ultimate K-Beauty Store Showdown"
+---
+title: "Olive young vs lalavla: the ultimate K-Beauty store showdown"
 date: 2026-01-14
 excerpt: "Unlock the secrets of Korea's top beauty stores, Olive Young and Lalavla. Discover where to find the best K-beauty deals, exclusive brands, and an unforgettable shopping experience tailored for international travelers and expats"
 category: Shopping & K-Beauty

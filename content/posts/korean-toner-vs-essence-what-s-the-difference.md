@@ -1,5 +1,5 @@
-﻿---
-title: "Korean Toner vs Essence What's The Difference Unveiling K-Beauty Secrets"
+---
+title: "Korean toner vs essence what's the difference unveiling K-Beauty secrets"
 date: 2026-01-20
 excerpt: "Unlock the mysteries of Korean toners and essences. This guide clarifies their roles, benefits, and how to seamlessly integrate them into your K-Beauty routine."
 category: Shopping & K-Beauty

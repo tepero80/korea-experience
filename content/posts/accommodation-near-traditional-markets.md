@@ -1,5 +1,5 @@
-﻿---
-title: "Accommodation Near Traditional Korean Markets: The Ultimate Guide"
+---
+title: "Accommodation near traditional Korean markets: the ultimate guide"
 date: 2026-01-01
 excerpt: "Discover the vibrant heart of Korea by staying near traditional markets. Find best hotels, guesthouses, and hanoks, with expert tips on food, shopping, and culture."
 category: Shopping & K-Beauty

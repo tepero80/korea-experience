@@ -1,5 +1,5 @@
-﻿---
-title: "Shopping at The Hyundai Seoul: Korea's Coolest Mall 2026"
+---
+title: "Shopping at the Hyundai Seoul: korea's coolest mall 2026"
 date: 2026-01-29
 excerpt: "Discover The Hyundai Seoul, Korea's premier shopping destination for 2026. A guide to K-Beauty, luxury fashion, dining, and futuristic experiences."
 category: Shopping & K-Beauty

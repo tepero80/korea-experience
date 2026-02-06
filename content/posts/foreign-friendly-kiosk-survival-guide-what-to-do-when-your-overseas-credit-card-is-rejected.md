@@ -1,5 +1,5 @@
 ---
-title: "Kiosk Survival Guide: What to Do When Your Overseas Credit Card Is Rejected in Korea"
+title: "Kiosk survival guide: what to do when your overseas credit card is rejected in Korea"
 date: 2026-02-04
 excerpt: "Don't let a rejected foreign credit card ruin your Korean adventure. This guide offers expert tips and practical solutions for navigating Korea's kiosk culture and ensuring smooth transactions."
 category: Living in Korea

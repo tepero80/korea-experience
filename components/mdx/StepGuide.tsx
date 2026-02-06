@@ -31,7 +31,7 @@ interface StepGuideProps {
   /** 예상 비용 */
   estimatedCost?: string;
   /** 난이도 */
-  difficulty?: 'easy' | 'medium' | 'hard';
+  difficulty?: 'easy' | 'medium' | 'hard' | string;
   /** 스타일 변형 */
   variant?: 'default' | 'numbered' | 'timeline';
 }
@@ -47,9 +47,10 @@ export default function StepGuide({
   steps, 
   totalTime,
   estimatedCost,
-  difficulty,
+  difficulty: rawDifficulty,
   variant = 'default'
 }: StepGuideProps) {
+  const difficulty = rawDifficulty?.toLowerCase() as 'easy' | 'medium' | 'hard' | undefined;
   return (
     <div 
       className="my-10"
@@ -85,9 +86,9 @@ export default function StepGuide({
               💰 {estimatedCost}
             </span>
           )}
-          {difficulty && (
-            <span className={`flex items-center gap-2 px-3 py-1.5 rounded-full font-medium ${difficultyConfig[difficulty].color}`}>
-              {difficultyConfig[difficulty].icon} {difficultyConfig[difficulty].label}
+          {difficulty && difficulty in difficultyConfig && (
+            <span className={`flex items-center gap-2 px-3 py-1.5 rounded-full font-medium ${difficultyConfig[difficulty as keyof typeof difficultyConfig].color}`}>
+              {difficultyConfig[difficulty as keyof typeof difficultyConfig].icon} {difficultyConfig[difficulty as keyof typeof difficultyConfig].label}
             </span>
           )}
           <span className="flex items-center gap-2 bg-gray-100 text-gray-700 px-3 py-1.5 rounded-full font-medium">
