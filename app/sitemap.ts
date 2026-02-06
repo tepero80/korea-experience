@@ -18,7 +18,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const posts = getAllPosts();
   const baseUrl = SITE_CONFIG.url;
 
-  // Static pages
+  // Static pages - use a fixed date (last significant site update)
+  // Do NOT use new Date() — it changes every build, sending false freshness signals to Google
+  const SITE_LAST_UPDATED = new Date('2025-06-20');
+
   const staticPages = [
     '',
     '/blog',
@@ -30,7 +33,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/tools',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
-    lastModified: new Date(),
+    lastModified: SITE_LAST_UPDATED,
     changeFrequency: 'weekly' as const,
     priority: route === '' ? 1 : 0.8,
   }));
@@ -40,7 +43,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     .filter(tool => tool.status === 'active')
     .map((tool) => ({
       url: `${baseUrl}${tool.href}`,
-      lastModified: new Date(),
+      lastModified: SITE_LAST_UPDATED,
       changeFrequency: 'monthly' as const,
       priority: 0.7,
     }));

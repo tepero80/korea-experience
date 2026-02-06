@@ -92,8 +92,8 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     { name: post.title, item: `${SITE_CONFIG.url}/blog/${slug}` },
   ]);
 
-  // Get related posts (same category, 3 posts)
-  const relatedPosts = getRelatedPosts(slug, post.category, 3);
+  // Get related posts — neighbor chain within same category
+  const relatedPosts = getRelatedPosts(slug, 6);
 
   return (
     <main className="pt-20 pb-12">

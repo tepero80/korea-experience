@@ -141,7 +141,7 @@ No Korean drinking game night is complete without the right beverages. Here’s 
 *   **Average Price:** You pay for the individual Soju and beer, then mix yourself!
 *   **Best For:** Titanic Game, or simply kicking off a lively night.
 
-For a deeper dive into the world of Korean beverages, consider reading our guide on [Exploring Korean Traditional Alcohol: Beyond Soju](/blog/korean-traditional-alcohol).
+For a deeper dive into the world of Korean beverages, consider reading our guide on [Korean Drinking Culture: Soju, Makgeolli, and Pocha Guide](/blog/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026).
 
 ## Where to Play Korean Drinking Games
 
@@ -224,4 +224,4 @@ Korean drinking games are more than just a way to consume alcohol; they are a vi
 
 From the simple flick of a Soju bottle cap to the rapid-fire rhythm of Bunny Bunny, each game provides a unique window into the playful and communal heart of Korea. Remember to approach these experiences with respect for local etiquette, an open mind, and a healthy dose of enthusiasm. Pace yourself, savor the delicious anju, and most importantly, embrace the fun!
 
-So, the next time you find yourself at a Korean restaurant, a lively hof, or a booming norebang, don't just watch from the sidelines. Step up, learn the rules, and join the chorus of "Geonbae!" You'll not only make new friends but also create truly authentic and unforgettable memories of your time in Korea. For more tips on navigating Korean social life, explore our other articles like [A Beginner's Guide to Korean Dining Etiquette](/blog/korean-dining-etiquette) or [The Ultimate Guide to Seoul's Nightlife Districts](/blog/seoul-nightlife-guide).
+So, the next time you find yourself at a Korean restaurant, a lively hof, or a booming norebang, don't just watch from the sidelines. Step up, learn the rules, and join the chorus of "Geonbae!" You'll not only make new friends but also create truly authentic and unforgettable memories of your time in Korea. For more tips on navigating Korean social life, explore our other articles like [Table Etiquette in Korea: Why You Should Not Pick Up Your Rice Bowl](/blog/table-etiquette-in-korea-why-you-should-not-pick-up-your-rice-bowl-2026) or [Seoul Nightlife Guide for International Visitors](/blog/seoul-nightlife-guide-for-international-visitors).

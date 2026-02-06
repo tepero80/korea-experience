@@ -4,11 +4,21 @@ import Link from 'next/link';
 import { useSearchParams, useRouter } from 'next/navigation';
 import { PostMetadata } from '@/lib/posts';
 import BlogCard from '@/components/BlogCard';
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 
 interface BlogListProps {
   allPosts: PostMetadata[];
 }
+
+// Valid category slugs for URL validation
+const VALID_CATEGORIES = [
+  'medicaltourism',
+  'traveltourism',
+  'kculture',
+  'living',
+  'food',
+  'shopping'
+];
 
 export default function BlogList({ allPosts }: BlogListProps) {
   const searchParams = useSearchParams();
@@ -17,6 +27,13 @@ export default function BlogList({ allPosts }: BlogListProps) {
   // Tab state from URL
   const currentTab = searchParams.get('tab') || 'deep-dive';
   const categorySlug = searchParams.get('category') || undefined;
+
+  // Redirect invalid category params to /blog (client-side)
+  useEffect(() => {
+    if (categorySlug && !VALID_CATEGORIES.includes(categorySlug)) {
+      router.replace('/blog');
+    }
+  }, [categorySlug, router]);
   
   // Map URL slugs to actual category names
   const categoryMap: Record<string, string> = {

@@ -329,7 +329,7 @@ Ensure your family's visa status in Korea allows your child to attend an interna
 
 #### 5. Consider Housing Near Your Chosen School
 
-Once you have a shortlist or a preferred school, consider focusing your housing search in nearby districts or areas well-served by the school's bus routes. This can significantly improve quality of life by reducing commute times. For detailed guidance on finding a home, you might want to check out our comprehensive guide on "[Finding Expat Housing in Seoul: Neighborhoods and Tips](https://www.koreaexperience.com/blog/expat-housing-seoul-guide)".
+Once you have a shortlist or a preferred school, consider focusing your housing search in nearby districts or areas well-served by the school's bus routes. This can significantly improve quality of life by reducing commute times. For detailed guidance on finding a home, you might want to check out our comprehensive guide on [Finding an Apartment in Korea: Complete Guide for Foreigners](/blog/finding-an-apartment-in-korea-complete-guide-for-foreigners).
 
 #### 6. Prepare Your Child for the Transition
 

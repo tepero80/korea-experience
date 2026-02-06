@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import { Suspense } from 'react';
-import { redirect } from 'next/navigation';
 import { getAllPosts } from '@/lib/posts';
 import BlogList from './BlogList';
 
@@ -9,28 +8,7 @@ export const metadata: Metadata = {
   description: 'Read our latest guides on medical tourism, travel, K-culture, living in Korea, food & dining, and shopping in Korea.',
 };
 
-// Valid category slugs
-const VALID_CATEGORIES = [
-  'medicaltourism',
-  'traveltourism',
-  'kculture',
-  'living',
-  'food',
-  'shopping'
-];
-
-export default function BlogPage({
-  searchParams,
-}: {
-  searchParams: { [key: string]: string | string[] | undefined };
-}) {
-  // Check if category parameter exists and is invalid
-  const category = searchParams?.category as string | undefined;
-  
-  if (category && !VALID_CATEGORIES.includes(category)) {
-    redirect('/blog');
-  }
-
+export default function BlogPage() {
   const allPosts = getAllPosts();
 
   return (

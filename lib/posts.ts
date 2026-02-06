@@ -132,28 +132,68 @@ export function getAllCategories(): string[] {
   return Array.from(new Set(categories));
 }
 
-// Get related posts - now returns Deep Dive posts only
-export function getRelatedPosts(currentSlug: string, category: string, limit: number = 3): PostMetadata[] {
+// Get related posts — guaranteed doubly-linked chain within each category
+// Post[i] ALWAYS recommends Post[i-1] and Post[i+1], forming an unbroken chain
+// Google crawler visiting any single post can traverse the entire category
+export function getRelatedPosts(currentSlug: string, limit: number = 6): PostMetadata[] {
   const allPosts = getAllPosts();
-  
-  // Filter to only Deep Dive posts, excluding current post
-  const deepDivePosts = allPosts.filter(
-    (post) => post.deepDive === true && post.slug !== currentSlug
-  );
-  
-  // Prioritize same category Deep Dive posts
-  const sameCategoryPosts = deepDivePosts.filter((post) => post.category === category);
-  const otherCategoryPosts = deepDivePosts.filter((post) => post.category !== category);
-  
-  // Shuffle both arrays for variety
-  const shuffledSameCategory = sameCategoryPosts.sort(() => Math.random() - 0.5);
-  const shuffledOther = otherCategoryPosts.sort(() => Math.random() - 0.5);
-  
-  // Combine: same category first, then others
-  const combined = [...shuffledSameCategory, ...shuffledOther];
-  
-  // Return limited number of posts
-  return combined.slice(0, limit);
+  const currentPost = allPosts.find((p) => p.slug === currentSlug);
+  if (!currentPost) return [];
+
+  // Same category sorted by date (newest first), INCLUDING current post for index lookup
+  const sameCatSorted = allPosts
+    .filter((p) => p.category === currentPost.category)
+    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+
+  const currentIdx = sameCatSorted.findIndex((p) => p.slug === currentSlug);
+  const result: PostMetadata[] = [];
+  const usedSlugs = new Set([currentSlug]);
+
+  // 1) Immediate prev & next — GUARANTEED chain links (never skipped)
+  if (currentIdx > 0) {
+    result.push(sameCatSorted[currentIdx - 1]);
+    usedSlugs.add(sameCatSorted[currentIdx - 1].slug);
+  }
+  if (currentIdx < sameCatSorted.length - 1) {
+    result.push(sameCatSorted[currentIdx + 1]);
+    usedSlugs.add(sameCatSorted[currentIdx + 1].slug);
+  }
+
+  // 2) Expand outward from current position to fill remaining slots
+  let offset = 2;
+  while (result.length < limit && offset < sameCatSorted.length) {
+    if (currentIdx - offset >= 0) {
+      const p = sameCatSorted[currentIdx - offset];
+      if (!usedSlugs.has(p.slug)) {
+        result.push(p);
+        usedSlugs.add(p.slug);
+      }
+    }
+    if (result.length < limit && currentIdx + offset < sameCatSorted.length) {
+      const p = sameCatSorted[currentIdx + offset];
+      if (!usedSlugs.has(p.slug)) {
+        result.push(p);
+        usedSlugs.add(p.slug);
+      }
+    }
+    offset++;
+  }
+
+  // 3) If same category not enough, fill from other categories (date-proximity)
+  if (result.length < limit) {
+    const currentDate = new Date(currentPost.date).getTime();
+    const otherCatPosts = allPosts
+      .filter((p) => !usedSlugs.has(p.slug) && p.category !== currentPost.category)
+      .sort(
+        (a, b) =>
+          Math.abs(new Date(a.date).getTime() - currentDate) -
+          Math.abs(new Date(b.date).getTime() - currentDate)
+      )
+      .slice(0, limit - result.length);
+    result.push(...otherCatPosts);
+  }
+
+  return result.slice(0, limit);
 }
 
 // Get featured posts for homepage - now returns Deep Dive posts, one per category
