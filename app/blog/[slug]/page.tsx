@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getPostBySlug, getAllPosts, getRelatedPosts } from '@/lib/posts';
 import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema } from '@/lib/schema';
-import { SITE_CONFIG } from '@/lib/constants';
+import { SITE_CONFIG, CATEGORY_NAME_TO_SLUG, CATEGORY_HUBS } from '@/lib/constants';
 import MDXContent from '@/components/MDXContent';
 import AuthorBox from '@/components/AuthorBox';
 import RelatedPosts from '@/components/RelatedPosts';
@@ -85,12 +85,20 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     imageUrl: `${SITE_CONFIG.url}/blog/${slug}/opengraph-image`,
   });
 
-  // Generate Breadcrumb Schema
-  const breadcrumbSchema = generateBreadcrumbSchema([
+  // Resolve category hub info
+  const categorySlug = CATEGORY_NAME_TO_SLUG[post.category];
+  const categoryHub = CATEGORY_HUBS.find(c => c.slug === categorySlug);
+
+  // Generate Breadcrumb Schema (Home > Blog > Category > Post)
+  const breadcrumbItems = [
     { name: 'Home', item: SITE_CONFIG.url },
     { name: 'Blog', item: `${SITE_CONFIG.url}/blog` },
-    { name: post.title, item: `${SITE_CONFIG.url}/blog/${slug}` },
-  ]);
+  ];
+  if (categorySlug) {
+    breadcrumbItems.push({ name: post.category, item: `${SITE_CONFIG.url}/blog/category/${categorySlug}` });
+  }
+  breadcrumbItems.push({ name: post.title, item: `${SITE_CONFIG.url}/blog/${slug}` });
+  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbItems);
 
   // Get related posts — neighbor chain within same category
   const relatedPosts = getRelatedPosts(slug, 6);
@@ -126,12 +134,20 @@ export default async function BlogPostPage({ params }: { params: Params }) {
       
       <article className="max-w-4xl mx-auto px-6">
         {/* Breadcrumbs */}
-        <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-gray-700">Home</Link>
+        <nav className="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
+          <Link href="/" className="hover:text-blue-600 transition-colors">Home</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-gray-700">Blog</Link>
+          <Link href="/blog" className="hover:text-blue-600 transition-colors">Blog</Link>
+          {categorySlug && (
+            <>
+              <span className="mx-2">/</span>
+              <Link href={`/blog/category/${categorySlug}`} className="hover:text-blue-600 transition-colors">
+                {categoryHub?.icon} {post.category}
+              </Link>
+            </>
+          )}
           <span className="mx-2">/</span>
-          <span className="text-gray-900">{post.title}</span>
+          <span className="text-gray-900 line-clamp-1 inline">{post.title}</span>
         </nav>
 
         {/* Article Header */}
@@ -175,6 +191,28 @@ export default async function BlogPostPage({ params }: { params: Params }) {
               and does not constitute medical advice. Always consult with qualified healthcare
               professionals before making any medical decisions.
             </p>
+          </div>
+        )}
+
+        {/* Browse Category Hub */}
+        {categorySlug && categoryHub && (
+          <div className="mt-10 p-6 bg-gradient-to-r from-gray-50 to-blue-50 border border-gray-200 rounded-xl">
+            <div className="flex items-center gap-3 mb-2">
+              <span className="text-2xl">{categoryHub.icon}</span>
+              <h3 className="text-lg font-semibold text-gray-900">
+                Explore more in {post.category}
+              </h3>
+            </div>
+            <p className="text-sm text-gray-600 mb-4">{categoryHub.description}</p>
+            <Link
+              href={`/blog/category/${categorySlug}`}
+              className="inline-flex items-center gap-2 px-5 py-2.5 bg-gradient-to-r from-blue-600 to-cyan-500 text-white text-sm font-medium rounded-lg hover:from-blue-700 hover:to-cyan-600 transition-all shadow-sm hover:shadow-md"
+            >
+              Browse All {post.category} Articles
+              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
+              </svg>
+            </Link>
           </div>
         )}
 

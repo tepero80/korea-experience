@@ -174,6 +174,11 @@ export const CATEGORY_SLUG_TO_NAME: Record<string, string> = {
   'shopping-kbeauty': 'Shopping & K-Beauty',
 };
 
+// Reverse: frontmatter category name → hub slug
+export const CATEGORY_NAME_TO_SLUG: Record<string, string> = Object.fromEntries(
+  Object.entries(CATEGORY_SLUG_TO_NAME).map(([slug, name]) => [name, slug])
+);
+
 // Navigation Links
 export const NAV_LINKS = [
   { href: '/', label: 'Home' },
