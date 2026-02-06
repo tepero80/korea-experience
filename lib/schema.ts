@@ -27,7 +27,7 @@ export function generateArticleSchema({
 
   const schema: any = {
     '@context': 'https://schema.org',
-    '@type': 'Article',
+    '@type': 'BlogPosting',
     headline: title,
     description: description,
     author: {

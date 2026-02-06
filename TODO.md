@@ -12,6 +12,17 @@
 - [x] ExpertTip Comment schema 제거
 - [x] LocalBusiness aggregateRating 조건부 처리
 - [x] 유효하지 않은 blog 카테고리 → /blog 리다이렉트
+- [x] **1단계: 내부 링크 + 크롤링 문제 해결** (commit df504f0)
+  - RelatedPosts 체인 링크 (645/645 커버리지, 고아 0개)
+  - Dead 내부 링크 15개 수정
+  - Sitemap lastmod 고정 날짜로 변경
+  - Math.random() 제거 (결정적 SSG 빌드)
+  - searchParams SSG 호환 (Next.js 16)
+- [x] **2단계: 스키마 최적화 + UX 개선**
+  - Article → BlogPosting 변경 (lib/schema.ts)
+  - FAQPage JSON-LD 자동 주입 (~37개 포스트, blog/[slug]/page.tsx)
+  - FAQAccordion microdata 제거 → JSON-LD 단일 소스로 통일
+  - Medical Disclaimer: Medical Tourism 카테고리만 표시
 
 ---
 
@@ -19,90 +30,70 @@
 
 | 문제 | 심각도 | 현실 |
 |---|---|---|
-| **645개 포스트가 서로 고립됨** | 🔴 치명적 | 내부 링크 거의 0. 크롤러가 관계 파악 불가. PageRank 전달 안 됨 |
-| **RelatedPosts가 Deep Dive 31개만 추천** | 🔴 치명적 | 614개 일반 포스트는 어디서도 추천되지 않음 → 크롤링 안 됨 |
-| **일부 내부 링크가 존재하지 않는 slug 참조** | 🟠 높음 | 404 에러 → Google 신뢰도 하락 |
-| **dateModified가 항상 datePublished와 동일** | 🟠 높음 | Google이 "업데이트 안 된 글"로 인식 |
-| **sitemap lastmod가 매 빌드마다 바뀜** | 🟠 높음 | 정적 페이지의 lastmod = new Date() → Google에 거짓 신호 |
+| ~~**645개 포스트가 서로 고립됨**~~ | ✅ 해결 | RelatedPosts 체인 링크로 645/645 커버리지 달성 |
+| ~~**RelatedPosts가 Deep Dive 31개만 추천**~~ | ✅ 해결 | 모든 포스트 포함, 카테고리별 이웃 체인 |
+| ~~**일부 내부 링크가 존재하지 않는 slug 참조**~~ | ✅ 해결 | 15개 dead link 수정 완료 |
+| **dateModified가 항상 datePublished와 동일** | 🏠 보류 | AI 전량 생성 워크플로. 재생성 스크립트 만들 때 자동 스탬프 |
+| ~~**sitemap lastmod가 매 빌드마다 바뀔**~~ | ✅ 해결 | 고정 날짜로 변경 |
 | **카테고리별 랜딩 페이지 없음** | 🟡 중간 | /blog?category=X는 크롤 불가. sitemap에도 없음 |
-| **FAQPage schema 함수만 있고 미사용** | 🟡 중간 | FAQAccordion 쓰는 포스트에도 JSON-LD 없음 |
+| ~~**FAQPage schema 함수만 있고 미사용**~~ | ✅ 해결 | ~37개 포스트에 JSON-LD 자동 주입 |
 
 ---
 
-## 🔴 1단계: 내부 링크 + 크롤링 문제 해결 (가장 급함)
+## ~~🔴 1단계: 내부 링크 + 크롤링 문제 해결~~ ✅ 완료 (commit df504f0)
 
-> **지금 645개 중 13개만 인덱싱된 근본 원인이 이것**
+> **645개 전체 포스트가 RelatedPosts 체인으로 연결됨. 고아 0개.**
 
 ### 1-1. RelatedPosts를 일반 포스트도 포함하도록 수정
-- [ ] `getRelatedPosts()`에서 `deepDive === true` 필터 제거
-- [ ] 같은 카테고리 포스트 중 최신순 3개 추천 (랜덤 제거 → 결정적으로)
-- [ ] `Math.random()` 제거 (SSG에서 빌드마다 결과 바뀌는 문제)
-- **왜 급함**: 614개 포스트가 어디서도 링크되지 않으면 Google이 크롤링 자체를 안 함
-- **효과**: 모든 포스트가 최소 3개 이상의 다른 포스트에서 링크됨 → 크롤링 속도 대폭 개선
+- [x] `getRelatedPosts()`에서 `deepDive === true` 필터 제거
+- [x] 같은 카테고리 내 이웃 체인 로직 (이전/다음 포스트 보장)
+- [x] `Math.random()` 제거 (SSG에서 빌드마다 결과 바뀌는 문제)
 
 ### 1-2. Dead 내부 링크 감사 및 수정
-- [ ] 스크립트: 모든 MD 파일에서 `/blog/...` 링크 추출 → 실제 slug 존재 여부 확인
-- [ ] 존재하지 않는 링크 제거 또는 올바른 slug로 수정
-- **왜 급함**: 404 링크는 Google 신뢰도를 직접 깎음
+- [x] 7개 파일에서 15개 dead link 수정
+- [x] yourwebsite.com / koreaexperience.com 절대 URL → 상대 경로
 
 ### 1-3. Sitemap lastmod 수정
-- [ ] 정적 페이지: `lastmod`를 실제 수정일로 고정 (new Date() 제거)
-- [ ] 블로그 포스트: frontmatter의 date 사용 (추후 lastUpdated 추가 시 반영)
-- **왜 급함**: 매 빌드마다 정적 페이지 lastmod 변경 → Google이 크롤 예산 낭비
+- [x] 정적 페이지: `lastmod`를 고정 날짜(2025-06-20)로 변경
+- [x] 블로그 포스트: frontmatter date 사용
 
 ---
 
-## 🟠 2단계: dateModified + Freshness 신호
+## ~~🟠 2단계: 스키마 최적화 + UX 개선~~ ✅ 완료
 
-### 2-1. lastUpdated 필드 추가
-- [ ] PostMetadata에 `lastUpdated?: string` 추가
-- [ ] frontmatter에서 `lastUpdated` 읽어오기
-- [ ] generateArticleSchema의 dateModified에 실제 lastUpdated 전달
-- [ ] sitemap.ts에서 lastUpdated가 있으면 그 날짜를 lastmod로 사용
-- [ ] Deep Dive 31개에 `lastUpdated: 2026-02-06` 추가
-- **효과**: Google Freshness 부스트. 특히 의료/비자 같은 시간 민감 콘텐츠
+> lastUpdated 수동 관리는 삭제. AI 전량 생성 워크플로에서 수작업 날짜 관리는 비현실적.
+> dateModified는 현재 datePublished와 동일 — 추후 재생성 스크립트 만들 때 자동 스탬프 고려.
 
-### 2-2. BlogCard에 "Updated" 날짜 표시
-- [ ] lastUpdated가 date와 다르면 "Updated Feb 6, 2026" 뱃지 표시
-- **효과**: 사용자 신뢰 + CTR 향상
+### 2-1. Article → BlogPosting 변경
+- [x] `@type: 'Article'` → `'BlogPosting'` (lib/schema.ts)
 
----
+### 2-2. FAQPage JSON-LD 주입
+- [x] 포스트 본문에서 FAQAccordion items 정규식 추출
+- [x] generateFAQSchema() JSON-LD 자동 주입 (~37개 포스트)
+- [x] FAQAccordion 컴포넌트에서 microdata 제거 → JSON-LD 단일 소스로 통일
 
-## 🟡 3단계: 스키마 최적화
-
-### 3-1. Article → BlogPosting 변경
-- [ ] `@type: 'Article'` → `'BlogPosting'`
-- **왜**: 블로그 콘텐츠에 더 정확한 타입. Google이 콘텐츠 유형을 정확히 분류
-
-### 3-2. reviewedBy 스키마 (의료 포스트 한정)
-- [ ] ArticleSchemaProps에 `reviewedBy` 추가
-- [ ] 의료 카테고리 포스트에만 적용
-- [ ] 포스트 상단에 "Reviewed by..." 배지 UI
-- **주의**: 실제 전문가 이름/자격이 있어야 의미 있음. 가짜 프로필은 역효과
-
-### 3-3. FAQPage JSON-LD 활용
-- [ ] FAQAccordion 쓰는 포스트에 generateFAQSchema() JSON-LD 주입
-- **효과**: FAQ 리치 결과 가능. 단 2026년부터 정부/보건 사이트 한정이라 효과 제한적
+### 2-3. Medical Disclaimer 조건부 표시
+- [x] Medical Tourism 카테고리만 표시 (기존: 모든 포스트에 표시)
 
 ---
 
-## 🟢 4단계: 콘텐츠 품질 향상
+## 🟢 3단계: 콘텐츠 품질 향상 (미실행)
 
-### 4-1. KeyTakeaways 적용 확대
+### 3-1. KeyTakeaways 적용 확대
 - [ ] 현재: 44/645 (6.8%) → 점진적 확대
 - [ ] 새로 생성하는 포스트에는 의무 적용
 - [ ] 기존 포스트는 중요도 높은 것부터 순차 추가
 - **현실**: 614개 일괄 수정은 비현실적. 점진적으로
 
-### 4-2. 카테고리별 필러 페이지
+### 3-2. 카테고리별 허브 페이지
 - [ ] /blog/guide/medical-tourism 같은 허브 페이지 생성
 - [ ] 3,000자+ 포괄 가이드 + 하위 포스트 링크 목록
 - [ ] sitemap에 추가
 - **효과**: 빅키워드 랭킹. 콘텐츠 제작 비용이 큼
 
-### 4-3. Medical Disclaimer 조건부 표시
-- [ ] 의료 관련 카테고리일 때만 표시
-- **효과**: UX 개선. SEO 직접 영향은 미미
+### 3-3. reviewedBy 스키마 (의료 포스트 한정)
+- [ ] 실제 전문가 이름/자격이 있어야 의미 있음
+- **주의**: 가짜 프로필은 역효과
 
 ---
 
@@ -127,13 +118,14 @@
 | 항목 | 수치 |
 |---|---|
 | 총 포스트 | 645 (Deep Dive 31 + 일반 614) |
-| 내부 링크 있는 포스트 | ~4개 (0.6%) ← **치명적** |
+| 내부 링크 있는 포스트 | **645/645 (100%)** ✅ |
 | KeyTakeaways 적용 | 44개 (6.8%) |
-| Google 인덱싱 | 13개 (2%) |
+| FAQPage JSON-LD 적용 | ~37개 ✅ |
+| Google 인덱싱 | 13개 (2%) — 크롤링 개선 후 증가 예상 |
 | Google 크롤링 대기 | 21개 |
 | Google 발견(미크롤링) | 129개 |
-| RelatedPosts 추천 대상 | Deep Dive 31개만 (일반 614개 제외됨) |
+| RelatedPosts 추천 대상 | **전체 645개** ✅ |
 
-> **결론: 지금 가장 급한 건 1단계(내부 링크)다.**
-> 645개 포스트가 서로 연결 안 되어 있어서 Google이 크롤링을 못 하고 있다.
-> 스키마 최적화, AI 인용 같은 건 Google이 우리 페이지를 먼저 크롤링해야 의미가 있다.
+> **결론: 1~2단계 완료. 크롤링 + 스키마 문제 해결됨.**
+> Google이 재크롤링하면서 인덱싱 수가 증가할 것으로 예상.
+> 다음 우선순위: 카테고리 허브 페이지 + KeyTakeaways 확대.

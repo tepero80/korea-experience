@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { getPostBySlug, getAllPosts, getRelatedPosts } from '@/lib/posts';
-import { generateArticleSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema } from '@/lib/schema';
 import { SITE_CONFIG } from '@/lib/constants';
 import MDXContent from '@/components/MDXContent';
 import AuthorBox from '@/components/AuthorBox';
@@ -95,6 +95,17 @@ export default async function BlogPostPage({ params }: { params: Params }) {
   // Get related posts — neighbor chain within same category
   const relatedPosts = getRelatedPosts(slug, 6);
 
+  // Extract FAQ items from post content for FAQPage JSON-LD
+  const faqItems: { question: string; answer: string }[] = [];
+  if (post.content.includes('FAQAccordion')) {
+    const faqRegex = /question:\s*"([^"]+)"\s*,\s*answer:\s*"([^"]+)"/g;
+    let match;
+    while ((match = faqRegex.exec(post.content)) !== null) {
+      faqItems.push({ question: match[1], answer: match[2] });
+    }
+  }
+  const faqSchema = faqItems.length > 0 ? generateFAQSchema(faqItems) : null;
+
   return (
     <main className="pt-20 pb-12">
       {/* JSON-LD Schemas */}
@@ -106,6 +117,12 @@ export default async function BlogPostPage({ params }: { params: Params }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
+      {faqSchema && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+        />
+      )}
       
       <article className="max-w-4xl mx-auto px-6">
         {/* Breadcrumbs */}
@@ -147,17 +164,19 @@ export default async function BlogPostPage({ params }: { params: Params }) {
         {/* Author Box */}
         <AuthorBox />
 
-        {/* Medical Disclaimer */}
-        <div className="mt-8 p-6 bg-red-50 border border-red-200 rounded-lg">
-          <h3 className="text-lg font-semibold text-red-800 mb-2">
-            ⚠️ Medical Disclaimer
-          </h3>
-          <p className="text-sm text-red-700">
-            The information provided on this website is for general informational purposes only
-            and does not constitute medical advice. Always consult with qualified healthcare
-            professionals before making any medical decisions.
-          </p>
-        </div>
+        {/* Medical Disclaimer — Medical Tourism only */}
+        {post.category === 'Medical Tourism' && (
+          <div className="mt-8 p-6 bg-red-50 border border-red-200 rounded-lg">
+            <h3 className="text-lg font-semibold text-red-800 mb-2">
+              ⚠️ Medical Disclaimer
+            </h3>
+            <p className="text-sm text-red-700">
+              The information provided on this website is for general informational purposes only
+              and does not constitute medical advice. Always consult with qualified healthcare
+              professionals before making any medical decisions.
+            </p>
+          </div>
+        )}
 
         {/* Related Posts */}
         <RelatedPosts posts={relatedPosts} />

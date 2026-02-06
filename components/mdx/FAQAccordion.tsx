@@ -2,7 +2,7 @@
 
 /**
  * FAQAccordion Component
- * GEO 최적화: FAQPage 스키마와 연동
+ * GEO 최적화: FAQPage JSON-LD는 blog/[slug]/page.tsx에서 자동 주입
  * Deep Research 전략: AI가 FAQ 섹션을 Featured Snippet으로 인용
  */
 
@@ -41,7 +41,7 @@ export default function FAQAccordion({
   // Minimal variant
   if (variant === 'minimal') {
     return (
-      <div className="my-8" itemScope itemType="https://schema.org/FAQPage">
+      <div className="my-8">
         {title && (
           <h3 className="text-2xl font-bold text-gray-900 mb-6 flex items-center gap-2">
             <span>❓</span> {title}
@@ -52,16 +52,13 @@ export default function FAQAccordion({
             <div 
               key={index}
               className="border border-gray-200 rounded-lg overflow-hidden"
-              itemScope
-              itemProp="mainEntity"
-              itemType="https://schema.org/Question"
             >
               <button
                 className="w-full flex items-center justify-between p-4 text-left hover:bg-gray-50 transition-colors"
                 onClick={() => toggleItem(index)}
                 aria-expanded={openIndex === index}
               >
-                <span className="font-medium text-gray-900" itemProp="name">
+                <span className="font-medium text-gray-900">
                   {item.question}
                 </span>
                 <span className={`text-2xl text-gray-400 transition-transform ${openIndex === index ? 'rotate-45' : ''}`}>
@@ -71,11 +68,8 @@ export default function FAQAccordion({
               {openIndex === index && (
                 <div 
                   className="px-4 pb-4 text-gray-600"
-                  itemScope
-                  itemProp="acceptedAnswer"
-                  itemType="https://schema.org/Answer"
                 >
-                  <p itemProp="text" className="m-0">{item.answer}</p>
+                  <p className="m-0">{item.answer}</p>
                 </div>
               )}
             </div>
@@ -89,8 +83,6 @@ export default function FAQAccordion({
   return (
     <div 
       className="my-8 bg-white rounded-2xl shadow-lg border border-gray-200 overflow-hidden"
-      itemScope
-      itemType="https://schema.org/FAQPage"
     >
       {/* Header */}
       <div className="bg-gradient-to-r from-blue-600 to-indigo-600 px-6 py-4">
@@ -104,9 +96,6 @@ export default function FAQAccordion({
         {items.map((item, index) => (
           <div 
             key={index}
-            itemScope
-            itemProp="mainEntity"
-            itemType="https://schema.org/Question"
           >
             <button
               className="w-full flex items-start gap-4 p-5 text-left hover:bg-gray-50 transition-colors group"
@@ -125,7 +114,6 @@ export default function FAQAccordion({
               {/* Question */}
               <span 
                 className="flex-1 font-semibold text-gray-900 pt-1"
-                itemProp="name"
               >
                 {item.question}
               </span>
@@ -158,13 +146,9 @@ export default function FAQAccordion({
             >
               <div 
                 className="px-5 pb-5 pl-16 text-gray-600 leading-relaxed"
-                itemScope
-                itemProp="acceptedAnswer"
-                itemType="https://schema.org/Answer"
               >
                 <div 
                   className="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg"
-                  itemProp="text"
                 >
                   {item.answer}
                 </div>
