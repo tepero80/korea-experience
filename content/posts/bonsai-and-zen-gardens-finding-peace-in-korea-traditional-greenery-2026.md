@@ -220,3 +220,12 @@ For the international traveler, a visit to these sites provides more than just p
     { question: "Is winter a good time to visit Korean gardens?", answer: "Yes, if you enjoy solitude. While there are no flowers, the structure of the Bunjae and the evergreen pines look striking against the snow, and crowds are minimal." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

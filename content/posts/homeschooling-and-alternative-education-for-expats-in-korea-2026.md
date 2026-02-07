@@ -228,3 +228,12 @@ By stepping off the traditional treadmill, you open up the opportunity to explor
     { question: "What is the best visa for homeschooling families?", answer: "Most homeschooling families are here on F-series visas (F-2, F-4, F-5, F-6) or E-7/E-2 working visas where one parent works and the other educates. There is no specific 'homeschooling visa'." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

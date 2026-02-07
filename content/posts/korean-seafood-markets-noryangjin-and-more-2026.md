@@ -256,3 +256,12 @@ However, the visceral experience of walking the wet floors, dodging handcarts, a
     { question: "What is the best time to see the auction?", answer: "The live fish auction starts at 1:00 AM and peaks around 3:00 AM. It is early and chaotic. Most tourists prefer the retail market hours (after 9:00 AM)." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

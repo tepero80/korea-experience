@@ -246,3 +246,12 @@ Joining these groups before you board your flight can make the difference betwee
     { question: "What is the best group for meeting people socially?", answer: "For general socializing, 'Every Expat in Korea' is good, but neighborhood-specific groups (e.g., 'Bundang Social Club' or 'Songdo Expats') often host more successful, intimate offline meetups." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

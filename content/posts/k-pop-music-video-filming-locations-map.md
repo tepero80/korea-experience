@@ -209,3 +209,12 @@ When planning your trip, digital tools are your best friend. Google Maps is ofte
     { question: "Are these locations wheelchair accessible?", answer: "Seoul locations like COEX and Laundry Pizza are accessible. However, Yongma Land has uneven ground, and the BTS Bus Stop involves sand, making wheelchair access difficult without assistance." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

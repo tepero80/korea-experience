@@ -239,3 +239,12 @@ For 2026, **KEB Hana** and **Shinhan** remain your best bets. Prepare your docum
     { question: "What happens to my credit card debt if I leave Korea?", answer: "You must pay it off. Leaving with unpaid debt is a crime and will result in a permanent ban from re-entering Korea and potential legal action in your home country via international collection agencies." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

@@ -229,3 +229,12 @@ By observing the silence between words and the space between people, you unlock 
     { question: "Does Nunchi apply to texting?", answer: "Yes. Reply speed is crucial. Also, using appropriate emoticons to soften the tone is part of digital Nunchi in 2026." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

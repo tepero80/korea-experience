@@ -213,3 +213,12 @@ From the adrenaline of eating live octopus to the comfort of a spicy fish stew (
     { question: "How much is King Crab in Korea?", answer: "King Crab is an import (usually from Russia) and is expensive. Expect to pay between 80,000 KRW and 130,000 KRW per kilogram depending on supply and season." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -269,3 +269,12 @@ For most travelers and expats, a combination of both works best. Use local clini
     { question: "How much does an MRI cost in Seoul?", answer: "Without insurance, a brain MRI at a major hospital typically costs between 600,000 KRW and 900,000 KRW ($450-$675 USD), which is significantly cheaper than the $2,000+ often charged in the US." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

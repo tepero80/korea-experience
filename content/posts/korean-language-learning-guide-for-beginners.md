@@ -229,3 +229,12 @@ Learning Korean is a journey that pays dividends immediately. The moment you can
     { question: "How much does a private tutor cost in Korea?", answer: "Private 1-on-1 tutoring typically ranges from 30,000 KRW to 60,000 KRW ($22-$45 USD) per hour depending on the tutor's experience and location." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

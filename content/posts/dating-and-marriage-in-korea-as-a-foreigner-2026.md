@@ -210,3 +210,12 @@ The rise in international marriages is partly driven by the "sampo generation" (
 
 ### Final Thoughts on Dating in Korea
 Dating and marrying in Korea as a foreigner in 2026 is an adventure that blends high-tech convenience with deep-rooted Confucian traditions. While the financial barriers (housing deposits averaging ₩100 million in Seoul) and cultural expectations can be daunting, the infrastructure for international couples is better than ever. Approach the relationship with patience, learn the language, and respect the family dynamics to ensure a successful journey from the first "Some" to the wedding hall.
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

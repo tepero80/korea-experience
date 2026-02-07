@@ -231,3 +231,12 @@ Remember, the key to success is preparation. Download the apps, check the schedu
     { question: "What is the best time of year for drama events?", answer: "May (Baeksang Awards) and December (Network Year-End Awards) are the peak times. September/October is also popular for the Busan International Film Festival (BIFF)." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

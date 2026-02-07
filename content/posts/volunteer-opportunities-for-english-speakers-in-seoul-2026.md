@@ -213,3 +213,12 @@ For those without Korean skills or an ARC, platforms like **Meetup.com**, **Crai
 />
 
 Volunteering in Seoul offers a unique vantage point into the heart of Korean society. It moves you from the position of an observer to a participant. Whether you are walking a rescue dog along the Han River or serving warm rice to the elderly in Cheongnyangni, the time you invest will return to you tenfold in the form of *Jeong*, cultural insight, and lifelong friendships.
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

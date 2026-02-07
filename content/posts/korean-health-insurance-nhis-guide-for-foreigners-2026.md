@@ -245,3 +245,12 @@ When it is time to leave Korea permanently, you must cancel your insurance to st
 />
 
 Living in Korea in 2026 means embracing the local systems, and the NHIS is one of the best perks of residency. While the monthly premium might feel like a pinch, the peace of mind knowing that a sudden trip to the ER won't bankrupt you is invaluable. Ensure your payments are automated, keep your documentation in order, and take advantage of the biennial health checks to stay healthy while exploring this beautiful country.
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

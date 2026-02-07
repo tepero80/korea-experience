@@ -234,3 +234,12 @@ For the best experience in 2026, we recommend mixing one major "Open Set" day tr
     { question: "What is the best app for finding filming locations?", answer: "Naver Maps is essential for navigation. For finding specific locations, 'Korean Dramaland' is an excellent user-curated database that provides exact addresses to input into Naver Maps." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

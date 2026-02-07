@@ -206,3 +206,12 @@ For the food-obsessed traveler, Seoul is no longer a detour; it is the destinati
     { question: "Do taxi drivers know these restaurant locations?", answer: "Not always. It is highly recommended to have the address written in Korean (Hangul) or use the Naver Map app to show the driver. Uber is available but KakaoT is faster." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

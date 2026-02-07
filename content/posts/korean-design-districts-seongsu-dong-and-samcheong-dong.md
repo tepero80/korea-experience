@@ -235,3 +235,12 @@ According to 2024 urban planning data, the Seoul Metropolitan Government is inve
     { question: "How late do things stay open?", answer: "Seongsu-dong has a nightlife scene with bars open until 1:00 AM or later. Samcheong-dong is a residential heritage zone; most cafes close by 9:00 PM, and the streets become very quiet after dark." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

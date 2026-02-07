@@ -192,3 +192,12 @@ Whether you are browsing the bustling undergrounds of Myeongdong or refreshing a
     { question: "Are 'Pre-Order Benefits' (POBs) worth the investment?", answer: "POBs hold value better than album cards because they are only available for a 1-2 week window. However, they are volatile. If the photo is considered 'ugly' or basic by the fandom, the price can drop below the album cost shortly after release." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

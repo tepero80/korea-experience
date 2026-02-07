@@ -252,3 +252,12 @@ If you can handle the language barrier (translation apps are essential) and affo
     { question: "Is Jeju safe for solo female travelers?", answer: "Extremely safe. Korea consistently ranks as one of the safest countries globally. Violent crime is rare, and walking alone at night is generally very safe, though rural roads can be very dark due to lack of streetlights." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

@@ -237,3 +237,12 @@ By leveraging technology for learning and the government system for verification
     { question: "Can I take KIIP classes online?", answer: "Limited online spots are available, usually reserved for pregnant women, those with disabilities, or residents in remote areas (islands/mountains). 90% of applicants must attend in person." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

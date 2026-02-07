@@ -274,3 +274,12 @@ By focusing on temple cuisine, utilizing modern convenience stores, and masterin
     { question: "Can I trust the 'Vegetarian' label on menus?", answer: "Not implicitly. In Korea, 'Vegetarian' sometimes translates to 'lots of vegetables' but may still include ham or fish broth. Always verify specific ingredients using the phrases provided in this guide." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

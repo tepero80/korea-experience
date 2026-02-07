@@ -269,3 +269,12 @@ Navigating the Korean rental market is a rite of passage for expats. The system 
     { question: "How much is the agent fee?", answer: "The legal limit is roughly 0.4% to 0.5% of the transaction value. For a standard studio, expect to pay between 200,000 and 400,000 KRW." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

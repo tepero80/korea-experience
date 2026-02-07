@@ -222,3 +222,12 @@ The days of dreading Korean banking are over. With the current suite of apps, ma
     { question: "Can I use Toss Bank without a Korean phone number?", answer: "No. A Korean phone number verified under your exact legal name is the primary form of digital identity in Korea. You cannot use the banking features without it." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

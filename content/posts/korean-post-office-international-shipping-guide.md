@@ -254,3 +254,12 @@ Remember to pack securely, declare honestly, and double-check your battery situa
     { question: "How do I track my package?", answer: "Your receipt will have a tracking number starting with 'EM' (for EMS) or 'CP' (for Surface). You can track this on the Korea Post website or, once it leaves Korea, on your home country's postal website (e.g., USPS.com)." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

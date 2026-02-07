@@ -221,3 +221,12 @@ For the observer or the expat parent, Korea offers an environment that is safe, 
     { question: "Are 'No Kids Zones' still common?", answer: "They exist but are declining due to government pressure. However, quiet cafes in trendy areas may still restrict entry to children under 12. Always check the door for signage." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

@@ -332,6 +332,12 @@ STRICT JSX RULES - VIOLATIONS WILL BREAK THE BUILD:
    WRONG:   highlights.={[...]}  highlights_={[...]}
 
 6. All JSX components must be properly closed (self-closing with /> or matching </Tag>)
+
+7. HEADING RULES (CRITICAL):
+   - ALWAYS use ## (H2) for main section headings
+   - Use ### (H3) only as sub-headings UNDER an H2
+   - NEVER use ### (H3) as the top-level section heading
+   - Every article must have at least 4-6 ## H2 headings
 `;
 
 // ========== MDX 자동 검증/수정 ==========
@@ -478,7 +484,7 @@ function sanitizeMDX(content: string): { content: string; fixes: string[] } {
       const similar = existingSlugs.find(s => {
         const slugWords = slug.split('-').filter((w: string) => w.length > 3);
         const matchCount = slugWords.filter((w: string) => s.includes(w)).length;
-        return matchCount >= Math.ceil(slugWords.length * 0.6);
+        return slugWords.length >= 2 && matchCount >= Math.ceil(slugWords.length * 0.75);
       });
       if (similar) {
         fixes.push(`Link fixed: /blog/${slug} → /blog/${similar}`);
@@ -489,6 +495,138 @@ function sanitizeMDX(content: string): { content: string; fixes: string[] } {
       return anchorText;
     }
   );
+
+  // 8. Self-closing 태그 자동 수정 — /> 누락된 컴포넌트 수정
+  const SELF_CLOSING_COMPONENTS = [
+    'KeyTakeaways', 'QuickFacts', 'StepGuide', 'PriceTable',
+    'ComparisonTable', 'LocationCard', 'StatCard', 'Timeline',
+    'ProsCons', 'FAQAccordion', 'DualismRoute'
+  ];
+  // These components use self-closing /> (no children)
+  // ExpertTip and InfoBox use </ExpertTip> and </InfoBox> (have children)
+  for (const comp of SELF_CLOSING_COMPONENTS) {
+    // Find opening tags that are NOT self-closing and NOT followed by a closing tag
+    const tagRegex = new RegExp(
+      `(<${comp}\\b[\\s\\S]*?)(?:\\n\\s*\\]\\}\\s*\\n)(\\s*\\n)(?!\\s*/>)`,
+      'g'
+    );
+    // Simpler approach: find the component block and ensure it ends with />
+    const openRegex = new RegExp(`<${comp}\\b`, 'g');
+    let openMatch;
+    while ((openMatch = openRegex.exec(result)) !== null) {
+      const startIdx = openMatch.index;
+      // Find the end of this component's props
+      let depth = 0;
+      let inString = false;
+      let stringChar = '';
+      let endIdx = -1;
+      for (let ci = startIdx; ci < result.length; ci++) {
+        const ch = result[ci];
+        if (inString) {
+          if (ch === stringChar && result[ci - 1] !== '\\') inString = false;
+          continue;
+        }
+        if (ch === '"' || ch === "'") { inString = true; stringChar = ch; continue; }
+        if (ch === '{') depth++;
+        if (ch === '}') depth--;
+        if (ch === '>' && depth <= 0) {
+          endIdx = ci;
+          break;
+        }
+        if (ch === '/' && result[ci + 1] === '>' && depth <= 0) {
+          endIdx = ci + 1; // Already self-closing
+          break;
+        }
+      }
+      if (endIdx === -1) {
+        // Tag never closed — find last ]} before next component or heading
+        const afterTag = result.substring(startIdx);
+        const closingPattern = /\]\}\s*\n/g;
+        let lastBracket = -1;
+        let bm;
+        while ((bm = closingPattern.exec(afterTag)) !== null) {
+          // Check if still within this component's scope
+          const nextComp = afterTag.substring(bm.index + bm[0].length).match(/^\s*(<[A-Z]|##|\n##|---)/m);
+          if (nextComp) {
+            lastBracket = startIdx + bm.index + bm[0].length;
+            break;
+          }
+          lastBracket = startIdx + bm.index + bm[0].length;
+        }
+        if (lastBracket > 0) {
+          // Insert /> after the last ]}
+          result = result.substring(0, lastBracket) + '/>' + '\n' + result.substring(lastBracket);
+          fixes.push(`Auto-closed <${comp} /> (missing self-closing tag)`);
+          openRegex.lastIndex = lastBracket + 3; // Skip past insertion
+        }
+      }
+    }
+  }
+
+  // 9. Sources 섹션 자동 추가 (없으면 카테고리별 공식 사이트 삽입)
+  if (!result.includes('## Sources')) {
+    // Extract category from frontmatter
+    const catMatch = result.match(/^category:\s*(.+)$/m);
+    const postCategory = catMatch ? catMatch[1].trim() : '';
+    
+    const CATEGORY_SOURCES: Record<string, string[]> = {
+      'Travel & Tourism': [
+        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official tourism information, travel guides, and festival schedules',
+        '- [Visit Seoul](https://english.visitseoul.net) - Seoul Metropolitan Government official tourism portal',
+        '- [Incheon International Airport](https://www.airport.kr/co_en/index.do) - Airport services and transportation information',
+        '- [KORAIL](https://www.letskorail.com) - Korea Railroad Corporation official site for train schedules and passes',
+        '- [Korea Meteorological Administration](https://www.kma.go.kr) - Official weather and climate data',
+      ],
+      'Food & Dining': [
+        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides',
+        '- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information',
+        '- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea',
+        '- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources',
+      ],
+      'Medical Tourism': [
+        '- [Korea Health Industry Development Institute (KHIDI)](https://www.khidi.or.kr) - Medical tourism statistics and policy',
+        '- [Visit Medical Korea](https://www.medicalkorea.or.kr/en) - Official government medical tourism portal',
+        '- [Ministry of Food and Drug Safety](https://www.mfds.go.kr) - Drug and medical device regulations',
+        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Medical tourism visitor information',
+      ],
+      'Living in Korea': [
+        '- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information',
+        '- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents',
+        '- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats',
+        '- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents',
+      ],
+      'K-Culture': [
+        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides',
+        '- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul',
+        '- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion',
+        '- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage',
+      ],
+      'Shopping & K-Beauty': [
+        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Shopping guides and tax refund information',
+        '- [Olive Young Global](https://global.oliveyoung.com) - Korea\'s largest health and beauty retailer',
+        '- [Visit Seoul](https://english.visitseoul.net) - Shopping districts and market guides',
+        '- [Incheon International Airport Duty Free](https://www.airport.kr/co_en/index.do) - Duty-free shopping information',
+      ],
+    };
+    
+    // Find best match or use default
+    let sources = CATEGORY_SOURCES[postCategory];
+    if (!sources) {
+      // Try partial match
+      const catKey = Object.keys(CATEGORY_SOURCES).find(k => 
+        postCategory.toLowerCase().includes(k.toLowerCase().split(' ')[0]) ||
+        k.toLowerCase().includes(postCategory.toLowerCase().split(' ')[0])
+      );
+      sources = catKey ? CATEGORY_SOURCES[catKey] : [
+        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official tourism and cultural information',
+        '- [Visit Seoul](https://english.visitseoul.net) - Seoul Metropolitan Government tourism portal',
+        '- [Korea.net](https://www.korea.net) - Official gateway to information about Korea',
+      ];
+    }
+    
+    result = result.trimEnd() + '\n\n---\n\n## Sources\n\n' + sources.join('\n') + '\n';
+    fixes.push(`Added Sources section (${sources.length} sources for ${postCategory || 'default'})`);
+  }
 
   return { content: result, fixes };
 }

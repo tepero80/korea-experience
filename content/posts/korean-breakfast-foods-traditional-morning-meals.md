@@ -218,3 +218,12 @@ By trading your croissant for a bowl of *Seolleongtang*, you aren't just eating 
     { question: "Is tipping required at breakfast restaurants?", answer: "No. Tipping is not part of Korean culture. The price on the menu is the final price." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

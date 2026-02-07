@@ -247,3 +247,12 @@ Remember, for life-threatening issues, dial 119 immediately. For everything else
     { question: "What if I get COVID-19 or a contagious disease?", answer: "Korea has strict protocols for infectious diseases. You may be directed to a specific isolation ward. Treatment costs for quarantine diseases are often subsidized by the government, but policies change, so check current 2026 guidelines." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

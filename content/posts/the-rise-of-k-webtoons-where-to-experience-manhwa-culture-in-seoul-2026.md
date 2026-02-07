@@ -192,3 +192,12 @@ In 2024, the government announced a 1.2 trillion KRW investment plan to nurture 
     { question: "Is this suitable for children?", answer: "Yes! Places like the Seoul Animation Center are built for kids. However, standard Manhwa Bangs like Beoltoon are generally quiet zones better suited for teenagers and adults. 'Graphic' in Itaewon is strictly 19+." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

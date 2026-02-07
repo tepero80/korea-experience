@@ -257,3 +257,12 @@ For the best experience in 2026, remember the golden rules: book online to save 
     { question: "Can I wear Hanbok at night?", answer: "Yes! Gyeongbokgung Palace opens for special 'Night Viewings' in spring and autumn. Renting a Hanbok for these evening sessions is magical, but verify the shop's closing time first." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

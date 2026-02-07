@@ -231,3 +231,12 @@ Remember, the Immigration Contact Center (1345) is your best resource for clarif
     { question: "Do I need to surrender my old Alien Registration Card?", answer: "Yes. When you change your visa status (e.g., D-2 to D-10), you must turn in your old card. You will be without a physical ID card for roughly 3-4 weeks, so keep a high-quality color scan of your old card and passport with you." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

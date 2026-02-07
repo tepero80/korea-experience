@@ -242,3 +242,12 @@ The key in 2026 is preparation and persistence. With digital tools, online submi
     { question: "Do agencies pay for my flight if I pass an online audition?", answer: "Generally, yes. If you pass the final round of online auditions and they want to sign you as a trainee, major agencies (Big 4) will usually cover your flight to Korea for the final in-person meeting and contract signing." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

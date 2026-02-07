@@ -238,3 +238,12 @@ Korea is rapidly evolving into a destination that respects dietary diversity. Wh
     { question: "What is the best app for finding vegan food in Korea?", answer: "HappyCow is excellent for dedicated vegan restaurants. However, Naver Maps is essential for navigation and finding general restaurants; search for 'Bigeon' (Vegan) in Korean script to find local spots." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

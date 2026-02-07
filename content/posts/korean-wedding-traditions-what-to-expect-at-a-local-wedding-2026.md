@@ -212,3 +212,12 @@ Attending a Korean wedding in 2026 is a whirlwind experience of cultural efficie
     { question: "What do I do with the meal ticket if I'm not eating?", answer: "If you cannot stay for the meal, you can return the ticket or decline it at the desk. Sometimes, the venue provides a small return gift (like a bottle of wine or high-quality cookies) for guests who do not eat." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

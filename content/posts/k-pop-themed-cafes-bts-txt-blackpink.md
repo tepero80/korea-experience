@@ -250,3 +250,12 @@ By budgeting approximately 50,000 KRW per day for cafe hopping and using local a
     { question: "How much is a typical latte in Seoul?", answer: "As of 2026, the average price for a Café Latte in a themed cafe is between 6,000 KRW and 7,500 KRW. Takeout chains are cheaper (2,000-3,000 KRW), but you pay for the atmosphere in K-Pop spots." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

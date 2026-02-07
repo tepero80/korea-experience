@@ -257,3 +257,12 @@ After **2 years** on an F-6 visa in Korea, you are eligible to apply for the F-5
 />
 
 Securing an F-6 visa is a marathon, not a sprint. The volume of paperwork can feel overwhelming—often resulting in a stack of paper **2 to 3 centimeters thick**. However, by organizing your documents month by month and ensuring your financial and communication proofs are solid, you can navigate this process successfully. Good luck with your application!
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

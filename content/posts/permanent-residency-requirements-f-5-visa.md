@@ -237,3 +237,12 @@ If you meet the requirements, 2026 is the year to apply. Regulations rarely get 
     { question: "How much money do I need in the bank?", answer: "For most F-5 applications (F-5-1, F-5-10, F-5-16), there is no specific savings requirement, only an annual income requirement. However, having assets can sometimes help in borderline cases." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

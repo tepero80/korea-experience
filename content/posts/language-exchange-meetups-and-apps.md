@@ -217,3 +217,12 @@ Start with the apps to get your bearings, but do not hide behind the screen. The
     { question: "Is it better to pay cash or card at the door?", answer: "Cash is often preferred for speed and sometimes offers a slight discount (e.g., 10,000 KRW cash vs 11,000 KRW card), but major credit cards are accepted at organized venues." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

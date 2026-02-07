@@ -235,3 +235,12 @@ In Korea, credit card bills are almost exclusively paid via automatic withdrawal
 Securing a credit card in Korea as an expat in 2026 is a rite of passage. It signifies financial stability and makes living in this hyper-modern society significantly smoother. While the paperwork can be frustrating, the benefits—from interest-free installments to seamless transport payments—are well worth the effort.
 
 Start by building a relationship with your main bank, keep your documents pristine, and if all else fails, the Secured Card route is a guaranteed entry point into the Korean credit system. Happy spending!
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

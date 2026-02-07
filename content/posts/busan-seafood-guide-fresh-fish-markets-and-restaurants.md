@@ -238,3 +238,12 @@ Busan's geography is stretched along the coast, meaning travel times between sea
 />
 
 Busan offers a seafood experience that is visceral, loud, and incredibly delicious. Whether you are bargaining for crab in Gijang or watching the city lights reflect off the water in Cheongsapo, the connection between the city and the sea is undeniable. Come hungry, bring cash, and don't be afraid to try the octopus.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -218,3 +218,12 @@ Navigating Seoul's cafe scene requires digital literacy. Cash is almost obsolete
 />
 
 Seoul's dessert scene in 2026 is a testament to the city's relentless pursuit of innovation. It is a place where a simple donut becomes a queued event and a rice cake becomes a luxury gift. Whether you are spending ₩5,000 or ₩50,000, the quality and attention to detail remain consistently world-class. Forget the diet—Seoul is best experienced one bite at a time.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

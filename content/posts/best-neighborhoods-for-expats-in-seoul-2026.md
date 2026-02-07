@@ -243,3 +243,12 @@ Seoul is a city that reinvents itself every few years. In 2026, the blend of hyp
     { question: "How much should I budget for utilities?", answer: "For a single person in a studio, budget around 150,000 KRW ($110 USD) per month average across the year to cover electricity, gas, water, and internet." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

@@ -220,3 +220,12 @@ When you visit, remember that you are walking through someone's living room. The
     { question: "Do the cafes accept foreign credit cards?", answer: "Yes, almost all cafes and the uniform rental shops in Ihwa accept international credit cards (Visa/Mastercard) and T-Money cards. However, small craft stalls may prefer cash." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

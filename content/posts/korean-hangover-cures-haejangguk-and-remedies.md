@@ -230,3 +230,12 @@ When you sit down for a bowl of Haejangguk, look around. You will likely see a b
     { question: "Is it safe to eat the blood in Seonji Gukbap?", answer: "Yes, it is boiled thoroughly at high temperatures. The texture is firm like tofu. It is hygienically prepared and very high in iron, though the metallic taste is an acquired preference." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

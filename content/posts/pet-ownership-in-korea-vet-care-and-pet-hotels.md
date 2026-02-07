@@ -233,3 +233,12 @@ Owning a pet in Korea in 2026 is a rewarding experience, supported by world-clas
     { question: "How much does it cost to fly a pet out of Korea?", answer: "Exporting a pet is expensive. Between the vet health certificates (approx 200,000 KRW), crate costs, and airline cargo fees, expect to pay between 500,000 to 1,500,000 KRW depending on destination and size." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

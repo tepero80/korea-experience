@@ -242,3 +242,12 @@ In 2026, even as AI manages the guestbook and digital screens display the deceas
     { question: "Is it okay to take photos?", answer: "Absolutely not. Taking photos inside the memorial room or of the grieving family is extremely taboo and disrespectful. Put your phone on silent and keep it in your pocket." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

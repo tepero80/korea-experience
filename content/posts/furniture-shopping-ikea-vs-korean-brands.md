@@ -232,3 +232,12 @@ In a country where convenience is king, the "service included" model of Korean b
     { question: "How do I dispose of old furniture in Korea?", answer: "You cannot just throw it out. You must buy a 'sticker' from your local district office (gu-cheong) or convenience store, costing 2,000 to 15,000 KRW depending on the item size, and attach it before leaving it at the designated dump site." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

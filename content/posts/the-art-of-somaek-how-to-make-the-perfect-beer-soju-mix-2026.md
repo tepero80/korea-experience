@@ -240,3 +240,12 @@ Remember to drink responsibly. The sweetness of the mix is deceptive, and the "B
     { question: "How do I ask for Somaek in Korean?", answer: "You don't usually order 'Somaek' as a pre-mixed drink. You order a bottle of Soju ('Soju han-byeong') and a bottle of Beer ('Maekju han-byeong') and mix it yourself at the table." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

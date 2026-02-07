@@ -219,3 +219,12 @@ Don't rely solely on your landlord's insurance, which protects their asset, not 
     { question: "Is my bicycle covered against theft outside my home?", answer: "Usually, no. Standard home insurance covers theft inside the home. You need a specific leisure/bicycle rider for external theft, though many local district offices (Gu-庁) provide free bicycle insurance for residents automatically." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

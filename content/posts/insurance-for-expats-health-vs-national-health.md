@@ -270,3 +270,12 @@ For the long-term resident (over 6 months), the **"NHIS + Catastrophic Private"*
     { question: "How much is the penalty for late payment?", answer: "Late fees are calculated as a percentage of the unpaid premium. More importantly, if you are in arrears, you cannot extend your visa, and your assets (like bank accounts or car deposits) can technically be seized." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

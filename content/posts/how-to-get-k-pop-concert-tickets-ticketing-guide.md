@@ -248,3 +248,12 @@ The concert day is an event in itself. It is not just about the 2-3 hour perform
 Getting K-Pop concert tickets is a challenging but rewarding process. It requires preparation, speed, and a bit of luck. By utilizing the Global sites, verifying your identity early, and ensuring your technical setup is optimized, you drastically increase your odds. Remember, thousands of fans are in the same boat—don't get discouraged if you don't succeed on your first try. Keep checking for cancelled tickets, and you might just find yourself screaming the fan chants in the heart of Seoul.
 
 *Good luck, and see you in the queue!*
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

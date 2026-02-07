@@ -205,3 +205,12 @@ The "K-Fashion" market is projected to grow by another 15% by 2027. The Hanbok i
     { question: "Do rental shops have plus sizes?", answer: "Yes, most major rental shops near the palaces stock sizes up to 2XL or 3XL. However, the selection might be more limited than standard sizes. It is wise to email ahead." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

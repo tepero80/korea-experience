@@ -229,3 +229,12 @@ If you are committed to making Korea your permanent home, start organizing your 
     { question: "Can I travel abroad while my application is pending?", answer: "Yes, you can travel, but you must maintain your valid alien registration status. Also, notify the immigration officer if you plan to be away for a long period, as missing your interview summons can lead to rejection." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

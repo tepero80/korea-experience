@@ -221,3 +221,12 @@ Whether you are there to climb the ranked ladder in League of Legends, catch up 
     { question: "Do I need a VPN to play games?", answer: "No, but be aware that you are on the Korean server. For games like League of Legends, you need a Korean Riot account (which requires a Korean phone number/ID) to play on the KR server. However, you can switch regions to NA or EU, though latency (ping) will be high (150ms+)." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

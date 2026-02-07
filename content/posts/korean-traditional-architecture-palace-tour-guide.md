@@ -219,3 +219,12 @@ While you cannot see it from the outside, the foundational genius of these build
 />
 
 By following this Korean Traditional Architecture Palace Tour Guide, you are not just sightseeing; you are stepping into a carefully preserved narrative of a dynasty that lasted 500 years. The juxtaposition of the serene palaces against the bustling modern city of Seoul offers a travel experience found nowhere else in the world. Remember to wear comfortable walking shoes—the gravel paths are historic, but unforgiving on the feet!
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

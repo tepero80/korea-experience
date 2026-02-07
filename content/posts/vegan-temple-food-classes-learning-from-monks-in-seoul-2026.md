@@ -208,3 +208,12 @@ While the experience is enriching, it has its challenges.
 Participating in **Vegan Temple Food Classes Learning From Monks In Seoul 2026** is more than a culinary activity; it is a lesson in mindfulness. Whether you choose the structured environment of the Korean Temple Food Center near Anguk Station or the misty mountains of Jingwansa, you will walk away with more than just recipes. You will gain a new perspective on the relationship between nature, health, and the human spirit.
 
 For the best experience, mark your calendar for the 15th of the month to secure your booking, pack modest clothing, and arrive with an empty stomach and an open mind. Seoul's monks are ready to welcome you into their kitchens.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

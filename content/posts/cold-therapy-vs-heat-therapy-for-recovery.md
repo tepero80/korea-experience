@@ -235,3 +235,12 @@ Remember, the key to Korean wellness is consistency. Don't just walk the streets
 <InfoBox type="success" title="Ready to Book?">
   Most major Jjimjilbangs accept walk-ins and payment via credit card or T-Money transport cards. For Cryotherapy clinics, it is best to book at least 2 days in advance via Naver Maps or Instagram DM.
 </InfoBox>
+
+---
+
+## Sources
+
+- [Korea Health Industry Development Institute (KHIDI)](https://www.khidi.or.kr) - Medical tourism statistics and policy
+- [Visit Medical Korea](https://www.medicalkorea.or.kr/en) - Official government medical tourism portal
+- [Ministry of Food and Drug Safety](https://www.mfds.go.kr) - Drug and medical device regulations
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Medical tourism visitor information

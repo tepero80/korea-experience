@@ -280,3 +280,12 @@ As we move through 2026, the preservation of these arts relies on active partici
     { question: "Is photography allowed?", answer: "At outdoor venues like Andong, photography is generally encouraged. At indoor theaters, it is usually strictly forbidden until curtain call. Always check the venue rules upon entry." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

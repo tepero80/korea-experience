@@ -209,3 +209,12 @@ Whether you choose a polished 70-minute show at Jeongdong Theater or a raw acous
     { question: "How long is a typical performance?", answer: "Tourist-oriented shows are usually 70 to 90 minutes. Traditional recitals can range from 2 to 4 hours. Festivals may have shorter 30-minute showcases." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

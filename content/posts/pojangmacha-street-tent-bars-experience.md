@@ -230,3 +230,12 @@ Bring cash, bring an adventurous appetite, and drink in the atmosphere of Seoul'
     { question: "What if I don't drink alcohol?", answer: "You can still visit, but you must order food. Order a soda (Cider or Cola) instead of alcohol. However, the culture is heavily centered around drinking, so you might feel slightly out of place." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -237,3 +237,12 @@ The Korean used car market in 2026 is safer, faster, and more digital than ever 
     { question: "How much is the annual vehicle tax?", answer: "Vehicle tax is paid twice a year (June and December). For a 2.0L engine, it's roughly 520,000 KRW per year. For a 1.6L engine, it's about 290,000 KRW. Older cars get a discount on this tax each year." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

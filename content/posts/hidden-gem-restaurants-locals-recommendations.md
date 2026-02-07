@@ -216,3 +216,12 @@ Remember the golden rules: follow the office workers at lunch, check the break t
     { question: "Is water free in Korean restaurants?", answer: "Yes, water is always free. It is usually self-service. Look for a water cooler and a stack of stainless steel cups." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

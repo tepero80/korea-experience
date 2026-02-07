@@ -239,3 +239,12 @@ By 2026, the Korean public library system has solidified itself as an essential 
     { question: "Are there children's sections in English?", answer: "Absolutely. Almost every district library has a 'Children’s Room' with a dedicated section for English picture books and young adult novels." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

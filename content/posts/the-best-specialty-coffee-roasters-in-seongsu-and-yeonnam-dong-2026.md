@@ -247,3 +247,12 @@ For the true enthusiast, we recommend dedicating one full day to each neighborho
     { question: "Do I need to tip?", answer: "No. Tipping is not part of Korean culture and can even be seen as awkward. The price you see is the final price." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

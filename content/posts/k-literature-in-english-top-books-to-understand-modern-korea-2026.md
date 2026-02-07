@@ -219,3 +219,12 @@ The reason K-Literature is booming in 2026 is thanks to superstar translators li
 />
 
 Understanding Korea through its literature allows you to see past the neon lights of Gangnam and the palaces of Jongno. It connects you to the people riding the subway next to you. So, pick up a book, grab a seat at a cafe, and start reading your way through Seoul.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

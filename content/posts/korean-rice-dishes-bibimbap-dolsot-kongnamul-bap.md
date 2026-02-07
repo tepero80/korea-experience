@@ -231,3 +231,12 @@ Korean restaurants usually serve water in small metal cups. Spicy food intensifi
 </InfoBox>
 
 By understanding the nuances between these three dishes, you engage deeper with Korean culture. Whether you choose the scorching heat of a Dolsot, the balanced beauty of Bibimbap, or the savory simplicity of Kongnamul Bap, you are partaking in a culinary tradition that values balance, health, and communal enjoyment.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

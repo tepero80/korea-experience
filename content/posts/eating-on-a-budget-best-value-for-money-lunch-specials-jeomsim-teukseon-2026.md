@@ -232,3 +232,12 @@ Eat like a CEO for lunch, and explore the street food markets for dinner. That i
     { question: "What happens if I arrive at 2:30 PM?", answer: "You will likely be turned away or told you can order but must finish by 3:00 PM. The 'Break Time' culture is very strict in Korea as staff use this time to rest and prep for dinner. It is disrespectful to linger past the break time start." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

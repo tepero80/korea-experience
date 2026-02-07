@@ -217,3 +217,12 @@ Traffic in Seoul is heavy. Always prefer the subway over taxis during rush hours
 />
 
 Taking a cooking class in Seoul is more than just learning a recipe; it is an immersion into the Korean philosophy of food as medicine and community. Whether you are haggling over chilies in Gyeongdong Market or plating a delicate radish salad in a Gangnam high-rise, the memories created here will flavor your kitchen back home for years to come.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

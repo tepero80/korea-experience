@@ -237,3 +237,12 @@ Start planning your 2026 trip now—the red carpet awaits.
     { question: "What is the dress code for festival screenings?", answer: "For general screenings, casual attire is perfectly acceptable (jeans and t-shirts). If you are attending the Opening or Closing Ceremony and have a red carpet ticket, 'smart casual' or semi-formal attire is recommended." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

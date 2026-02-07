@@ -225,3 +225,12 @@ While Korea is incredibly safe, scams do exist. The hyperlocal nature of Karrot 
 />
 
 By mastering Karrot, you unlock a layer of Korean life that most tourists miss. It is affordable, sustainable, and surprisingly social—a true window into the daily lives of your Korean neighbors. Happy trading!
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

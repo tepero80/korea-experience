@@ -238,3 +238,12 @@ As you navigate Seoul in 2026, let the length of the line be your guide. If you 
     { question: "Why do older Koreans eat this in winter?", answer: "Historically, Naengmyeon was a winter dish. Buckwheat is harvested in late autumn, and before modern refrigeration, icy dongchimi broth could only be made naturally in winter." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

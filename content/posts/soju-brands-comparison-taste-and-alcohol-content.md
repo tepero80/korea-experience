@@ -240,3 +240,12 @@ In 2026, the market offers more choice than ever before. From zero-sugar trends 
     { question: "What is the strongest soju available?", answer: "In standard stores, Hwayo 53 (53% ABV) or Andong Soju (45% ABV) are typically the strongest. Traditional 'green bottles' top out around 20.1% for the 'Original' red-cap versions." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

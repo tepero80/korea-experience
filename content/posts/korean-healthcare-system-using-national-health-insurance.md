@@ -254,3 +254,12 @@ By paying your premiums on time and utilizing local clinics for primary care, yo
     { question: "Can I add my family to my insurance?", answer: "Yes. If you are an Employee Insured or Local Subscriber, you can register your spouse and minor children as dependents at no extra cost, provided they do not have their own income." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

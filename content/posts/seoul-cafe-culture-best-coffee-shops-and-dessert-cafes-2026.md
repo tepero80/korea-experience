@@ -206,3 +206,12 @@ Whether you are budgeting 5,000 KRW or 50,000 KRW, there is a space curated exac
     { question: "Can I bring outside food into a cafe?", answer: "Strictly no. Bringing outside food or drinks is considered very rude. The only exception might be a birthday cake if you have asked permission, but you generally cannot eat it there without ordering drinks for everyone." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

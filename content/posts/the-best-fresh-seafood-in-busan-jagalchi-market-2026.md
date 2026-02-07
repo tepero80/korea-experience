@@ -238,3 +238,12 @@ Finding the best fresh seafood in Busan Jagalchi Market 2026 is an adventure tha
 The price tag for a King Crab feast may seem steep compared to street food, but you are paying for an experience that dates back to the post-war era—a cultural ritual of selecting your meal alive and sharing it in a communal setting. Whether you choose the polished 2nd floor of the main building or the smoky charm of the outdoor eel tents, the flavors of Busan’s ocean will remain with you long after you leave the port city.
 
 Plan your visit for a weekday lunch to avoid the crowds, bring your appetite, and prepare to taste the freshest catch South Korea has to offer.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

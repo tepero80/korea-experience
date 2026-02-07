@@ -242,3 +242,12 @@ While prices can be steep compared to Europe, the service, atmosphere, and the u
     { question: "What is the best app for wine in Korea?", answer: "Vivino works well for scanning. For buying/ordering, 'Pocket CU' (convenience store), 'Daily Shot' (liquor pickup), and 'CatchTable' (restaurant reservations with corkage info) are essential." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -238,3 +238,12 @@ For a first-time visitor in 2026, we recommend a **one-day Taekwondo experience*
     { question: "How much is a taxi from Incheon Airport to Kukkiwon?", answer: "In 2026, a standard taxi will cost approximately ₩75,000 - ₩85,000 and take about 70-80 minutes depending on traffic." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

@@ -257,3 +257,12 @@ Ordering food alone was once taboo, but in 2026, *Honbap* (eating alone) is norm
 />
 
 By mastering these phrases and understanding the flow of service, you transform from a confused tourist into a confident diner. Korea's culinary scene is fast, efficient, and incredibly rewarding. So go ahead, press that button, and shout "Sajangnim!" with confidence.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

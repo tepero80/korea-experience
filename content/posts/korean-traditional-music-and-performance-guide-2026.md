@@ -262,3 +262,12 @@ Remember to book your NCKTPA tickets at least three weeks in advance, pack a sma
     { question: "Do I need to tip the performers?", answer: "No, tipping is not a part of Korean culture. The best way to show appreciation is through enthusiastic applause and shouting 'Chuimsae' (encouragement) at appropriate times during folk performances." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

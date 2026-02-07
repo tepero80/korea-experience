@@ -227,3 +227,12 @@ Whether it is the 100-meter visibility of the air in Gangwon-do or the slow-food
     { question: "Do I need an International Driving Permit (IDP) for Jeju?", answer: "Yes, absolutely. South Korea does not recognize foreign licenses directly for short-term rentals. You must have a physical IDP issued in your home country (Geneva Convention)." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

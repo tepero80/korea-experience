@@ -234,3 +234,12 @@ For 2026, the sweet spot for value remains the **lunch menus at 1-star and 2-sta
     { question: "What happens if I am late?", answer: "If you are more than 15-20 minutes late without notice, your reservation may be cancelled as 'No Show' and your deposit forfeited. Seoul traffic is unpredictable, so take the subway if possible." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

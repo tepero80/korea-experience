@@ -250,3 +250,12 @@ While most restaurants accept international credit cards (Visa/Mastercard), the 
 />
 
 Exploring Mokpo seafood specialties octopus and skate is more than just a meal; it is a dive into the deep, fermented soul of Korean cuisine. Whether you fall in love with the refreshing snap of the octopus or survive the ammonia punch of the skate, you will leave Mokpo with a story that few other travelers possess.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

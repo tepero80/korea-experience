@@ -225,3 +225,12 @@ For travelers, the recommendation is clear: Start with a Ban-Ban set at a major 
     { question: "Is tip expected for delivery drivers?", answer: "No. Tipping is not part of Korean culture. The delivery fee you pay in the app covers the service." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

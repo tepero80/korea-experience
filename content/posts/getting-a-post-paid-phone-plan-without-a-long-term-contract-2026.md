@@ -258,3 +258,12 @@ Even in 2026, technology isn't perfect. Here are common hurdles expats face:
 />
 
 Getting connected in Korea doesn't have to mean signing a burdensome contract. By leveraging the competitive "Alteul" phone market in 2026, you can enjoy the full digital benefits of Korean life—including that essential identity verification—while keeping your budget in check and your commitment flexible. Welcome to the world of hyper-connectivity!
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

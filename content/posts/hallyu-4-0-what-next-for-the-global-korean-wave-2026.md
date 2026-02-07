@@ -224,3 +224,12 @@ The "K-Culture Valley" projects in Gyeonggi province are set to open fully by la
 />
 
 Hallyu 4.0 represents the maturation of the Korean Wave. It is a sophisticated, tech-enabled, and deeply experiential phenomenon. Whether you are coming to dance, to eat, to heal, or to work, Korea in 2026 offers an infrastructure that makes the "fan fantasy" a tangible reality. The barrier between the screen and the street has never been thinner.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

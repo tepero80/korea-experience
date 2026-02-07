@@ -223,3 +223,12 @@ Your ability to negotiate heavily depends on the building type.
 />
 
 Negotiating rent in Korea is a blend of mathematics and social grace. By respecting the *Budongsan’s* role, understanding the deposit-to-rent conversion ratios, and spotting the right building types (like older Villas), you can secure a home that fits your budget and lifestyle. Remember, everything is negotiable until the stamp hits the paper—so don't be afraid to ask.
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

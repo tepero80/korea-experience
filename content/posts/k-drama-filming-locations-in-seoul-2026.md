@@ -253,3 +253,12 @@ Remember to wear comfortable walking shoes—Seoul is hilly—and keep your came
     { question: "Are drones allowed for photography?", answer: "Generally, no. Seoul has strict no-fly zones, especially near government buildings (Gyeongbokgung area) and military installations. Flying a drone without a permit can result in heavy fines." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

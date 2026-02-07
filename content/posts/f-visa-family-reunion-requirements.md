@@ -253,3 +253,12 @@ Securing an F-Visa for family reunion in Korea is a rigorous process, demanding 
     { question: "Can I apply for the F-6 visa while on a tourist (B-2) visa?", answer: "Strictly speaking, no. You must apply at the Korean embassy in your home country. Exceptions are made only for humanitarian reasons (pregnancy, childbirth) or if you are already on a long-term visa (like E-2 or D-2) in Korea." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

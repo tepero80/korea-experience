@@ -234,3 +234,12 @@ For the long-term expat who has built a life, friendships, and perhaps a family 
     { question: "Does the National Health Insurance cover dental?", answer: "It covers basic extraction and treatment, and scales (cleaning) once a year. However, it does not cover implants or crowns for those under 65. For seniors 65+, there is partial coverage for implants (limit 2 teeth) and dentures." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

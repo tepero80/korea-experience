@@ -236,3 +236,12 @@ The next time you are planning a Korea itinerary, dedicate a day to Andong. Take
     { question: "What is the best time to visit to avoid crowds?", answer: "Weekdays between 14:00 and 16:00 are the quietest. Avoid weekends between 12:00-13:30 and 18:00-19:30, as wait times can spike to over an hour." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

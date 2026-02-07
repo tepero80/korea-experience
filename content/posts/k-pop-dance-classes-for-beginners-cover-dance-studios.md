@@ -259,3 +259,12 @@ To ensure you are fully prepared for your K Pop dance classes for beginners cove
 Taking a K-Pop dance class in Seoul is more than just learning steps; it is about stepping out of your comfort zone and physically connecting with a culture that has captivated the world. Whether you trip over your feet at 1MILLION or nail the choreography at YGX, the adrenaline rush of dancing in Seoul is a souvenir that lasts longer than any merchandise.
 
 Remember, every idol started as a beginner. Tie your laces, hydrate, and get ready to dance. Seoul is waiting for you.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

@@ -211,3 +211,12 @@ Korea is waiting for your performance. With the right song, precise practice, an
     { question: "Is there an age limit for participation?", answer: "Most contests are open to all ages, but participants under 18 usually need parental consent forms. The average age range of participants is typically 16 to 25." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

@@ -218,3 +218,12 @@ Furthermore, verify your employer's policy on data security. Some Western compan
     { question: "What happens if I lose my remote job while in Korea?", answer: "Technically, your F-1-D visa is tied to your ability to prove income/employment. If you cannot maintain the income requirement upon renewal, your visa extension may be denied. You generally do not have to leave immediately mid-visa, but you cannot renew without a job." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

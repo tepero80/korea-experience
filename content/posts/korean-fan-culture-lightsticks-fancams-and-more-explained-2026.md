@@ -240,3 +240,12 @@ For the international traveler in 2026, participating in these activities offers
     { question: "Is it safe to buy tickets from Twitter/X resellers?", answer: "It is highly risky. Korea has strict laws against scalping ('am-pyo'). Many tickets require identity verification at the venue entrance that matches the purchaser's name. If caught with a transferred ticket, you will be denied entry." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

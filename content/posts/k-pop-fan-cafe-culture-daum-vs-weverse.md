@@ -200,3 +200,12 @@ As we move deeper into 2026, a new trend is emerging: **b.stage**. Some mid-tier
 />
 
 The choice between Daum and Weverse is rarely a choice for the fan—you go where your idol is. However, knowing the quirks of the platform can be the difference between seeing your favorite artist from the front row or watching them on a screen outside the venue. Prepare your accounts, verify your ID, and good luck with the ticketing war.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

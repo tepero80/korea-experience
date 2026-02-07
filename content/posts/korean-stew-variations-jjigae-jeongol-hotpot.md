@@ -228,3 +228,12 @@ Known for deeper, funkier flavors using older fermentation.
 Navigating the world of Korean stew variations—Jjigae, Jeongol, and Hotpot—is an adventure in texture, temperature, and timing. Whether you are grabbing a quick 9,000 KRW Tuna Kimchi-jjigae in a bustling alleyway or settling in for a two-hour, 50,000 KRW Gopchang-jeongol feast with friends, you are participating in the heartbeat of Korean culture.
 
 Remember the golden rule: Jjigae is for sustenance, Jeongol is for bonding. And no matter which you choose, never skip the fried rice at the end.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

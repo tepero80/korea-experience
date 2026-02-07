@@ -251,3 +251,12 @@ Whether you are navigating the neon streets of Gangnam or hiking the peaks of Se
     { question: "Can I make friends at work?", answer: "Yes, but it is complicated by hierarchy. Work relationships are often formal. However, joining after-work dinners (Hoesik) is the best way to bond with colleagues in a more casual setting." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

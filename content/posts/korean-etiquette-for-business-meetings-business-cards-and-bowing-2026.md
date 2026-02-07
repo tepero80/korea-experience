@@ -227,3 +227,12 @@ By mastering the physical exchange of cards, understanding the seating dynamics,
     { question: "How do I address people?", answer: "Never use first names unless invited. Use their Title + Family Name (e.g., Manager Kim, Director Lee). If you don't know the title, 'Mr./Ms. + Family Name' is acceptable but less prestigious." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

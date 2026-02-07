@@ -239,3 +239,12 @@ The moment you sign a contract, you must switch to an E-7 (or E-1/E-2/E-3 depend
 ---
 
 *Disclaimer: Immigration laws in South Korea are subject to change without notice. While this guide is updated for 2026, always consult the official HiKorea website or call the 1345 Immigration Contact Center for the most current regulations.*
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

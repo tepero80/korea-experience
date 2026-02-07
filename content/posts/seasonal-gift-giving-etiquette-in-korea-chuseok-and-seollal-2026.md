@@ -216,3 +216,12 @@ Mastering the art of gift-giving for Seollal and Chuseok in 2026 will deepen you
     { question: "How much should I spend on a teacher?", answer: "Be very careful. Under the anti-corruption law, you generally cannot give gifts to school teachers. A handwritten card is the only risk-free option." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

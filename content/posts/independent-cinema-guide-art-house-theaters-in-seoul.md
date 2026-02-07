@@ -227,3 +227,12 @@ Exploring the independent cinema guide art house theaters in Seoul reveals a sid
     { question: "Is it okay to bring food into art house theaters?", answer: "Generally, no. Unlike multiplexes, most indie theaters in Seoul only allow bottled water to preserve the viewing environment." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

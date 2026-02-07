@@ -222,3 +222,12 @@ As of 2026, the National Pension Service has implemented stricter digital verifi
 Claiming your pension refund is one of the most financially rewarding steps of leaving Korea. With the average English teacher or corporate expat taking home anywhere from **3,000,000 to 20,000,000 KRW**, it is money that you have earned and deserve to keep.
 
 By preparing your documents early and choosing the local office method, you can ensure a stress-free departure. Remember, the 2026 systems are more integrated than ever, so ensure your name on your bank account matches your passport exactly to avoid automated rejection. Safe travels!
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

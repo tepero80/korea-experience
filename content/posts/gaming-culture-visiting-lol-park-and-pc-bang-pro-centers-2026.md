@@ -224,3 +224,12 @@ Whether you are here to watch the pros or play like one, the infrastructure in S
     { question: "Can I print documents at a PC Bang?", answer: "Yes, but not all of them have printers. Look for the 'Print' (인쇄) sign on the window or ask the staff. Printing usually costs 200-500 KRW per page." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

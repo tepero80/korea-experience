@@ -274,3 +274,12 @@ Always remember your indoor shoes, prepare for the PT sales pitch, and enjoy the
     { question: "Are gyms open on public holidays (Chuseok/Seollal)?", answer: "Large commercial chains usually operate on shortened hours (e.g., 10 AM to 6 PM) during holidays. Small private gyms often close entirely for the 3-day holiday blocks." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

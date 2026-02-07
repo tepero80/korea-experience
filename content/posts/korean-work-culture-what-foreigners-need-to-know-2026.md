@@ -244,3 +244,12 @@ The Korean workplace in 2026 is a fascinating blend of the old and the new. Whil
     { question: "What is 'Gapjil'?", answer: "'Gapjil' refers to the abuse of power by a superior over a subordinate. Anti-bullying laws have been strengthened significantly by 2026, with anonymous reporting channels now mandatory in companies over a certain size." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

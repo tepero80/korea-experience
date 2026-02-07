@@ -219,3 +219,12 @@ By following this arc, you move from an outsider looking in to a fully integrate
     { question: "Is the 'flat tax' always better for foreigners?", answer: "Not always. The flat tax is 19% of GROSS income with zero deductions. The progressive tax allows for deductions (credit card usage, dependents, etc.). Usually, if you earn under 40-50 million KRW, the standard progressive tax is cheaper." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

@@ -273,3 +273,12 @@ Always work with a certified realtor and a judicial scrivener (legal scribe) to 
     { question: "Does buying a house help with Korean citizenship?", answer: "No. Owning property is not a direct path to naturalization. It can help prove financial stability during the application process, but it does not replace the residency or language requirements." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

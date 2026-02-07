@@ -229,3 +229,12 @@ Exploring these 50 foods offers a window into Korean history, geography, and mod
     { question: "Is it okay to eat alone?", answer: "Yes. The 'Hon-bap' (eating alone) culture is widespread now. Most restaurants have single-serving options, though some BBQ places may require a minimum order of two servings." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -246,3 +246,12 @@ Remember, patience is key. The tellers are following strict regulations, not try
     { question: "What happens to my account when I leave Korea?", answer: "If you leave permanently and surrender your ARC at the airport, your account may be frozen or restricted. It is best to close your account and transfer funds out before departing, or switch it to a non-resident account if you plan to return." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

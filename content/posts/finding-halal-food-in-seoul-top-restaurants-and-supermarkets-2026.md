@@ -247,3 +247,12 @@ Whether you are enjoying the sizzling sounds of Halal lamb BBQ in Gangnam or sav
     { question: "How much should I budget for food per day?", answer: "For a comfortable trip in 2026 eating Halal food, budget approximately 50,000 KRW to 70,000 KRW ($38-$53 USD) per person per day. This covers a cafe breakfast, a nice lunch, and a BBQ dinner." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

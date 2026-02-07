@@ -207,3 +207,12 @@ Despite these modern innovations, the heart of kimchi remains its history—a te
     { question: "Why does my kimchi taste fizzy?", answer: "The fizz comes from carbon dioxide produced during fermentation by lactic acid bacteria. It is natural, safe, and a sign that the kimchi is alive and rich in probiotics." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

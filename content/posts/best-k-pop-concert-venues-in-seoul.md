@@ -233,3 +233,12 @@ K-Pop concerts in Seoul are efficient, high-energy, and loud. The production val
     { question: "How long is a typical K-Pop concert?", answer: "They are long! Expect a minimum of 2.5 hours, but many run for 3 to 3.5 hours, especially if the group talks a lot during the 'ment' (speaking) segments." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

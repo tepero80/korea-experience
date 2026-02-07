@@ -245,3 +245,12 @@ This requires living in areas like Jeonbuk, Gyeongbuk, or Chungnam provinces—r
 Retiring in Korea is a bold choice that rewards the adventurous. While the lack of a dedicated retirement visa presents a hurdle, the investment and digital nomad pathways offer viable routes for those who can meet the financial criteria. The combination of safety, medical excellence, and dynamic culture makes the effort worthwhile for many global citizens.
 
 If you are considering this move, we recommend starting with a 3-month "test drive" on a tourist visa to see if the lifestyle—and the climate—suits you before committing to a long-term investment.
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

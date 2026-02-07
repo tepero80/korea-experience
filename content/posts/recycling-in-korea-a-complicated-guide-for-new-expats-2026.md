@@ -259,3 +259,12 @@ However, once you establish a routine, it becomes second nature. You will likely
     { question: "My food waste bag smells terrible. What can I do?", answer: "Many locals keep their food waste bag in the freezer until disposal day to prevent smell and fruit flies. Alternatively, you can buy a dedicated airtight food waste bin (lock-and-lock style) to hold the bag." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

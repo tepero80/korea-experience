@@ -229,3 +229,12 @@ If you are planning this trip for 2026, start budgeting now. Allocate roughly $3
     { question: "Are cameras allowed inside the theater?", answer: "Generally, no. Professional cameras are banned for audience members. Smartphone photography is tolerated during breaks but strictly forbidden during the live broadcast." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

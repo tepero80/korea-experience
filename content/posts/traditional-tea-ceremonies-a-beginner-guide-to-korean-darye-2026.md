@@ -253,3 +253,12 @@ Participating in a Korean tea ceremony in 2026 offers a rare commodity: silence.
 <InfoBox type="success" title="Ready to Book?">
 For the most authentic experience, we recommend booking a "Temple Stay" program which almost always includes a monk-led tea ceremony. Search for programs at Jingwansa (Seoul) or Woljeongsa (Pyeongchang).
 </InfoBox>
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

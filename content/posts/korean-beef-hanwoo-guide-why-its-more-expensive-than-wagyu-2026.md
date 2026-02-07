@@ -218,3 +218,12 @@ Whether you choose a smoky market stall in Majang-dong or a crystal-chandeliered
     { question: "How much should I budget for a Hanwoo dinner in 2026?", answer: "For a satisfying meal with alcohol and side dishes, budget approximately 100,000 KRW to 150,000 KRW ($75-$115 USD) per person at a mid-range specialized restaurant." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

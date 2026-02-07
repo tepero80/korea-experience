@@ -233,3 +233,12 @@ By preparing your documents early, budgeting for the "Queen's treatment" at a ca
     { question: "What is the 'First Meeting Voucher'?", answer: "It is a 2 million KRW grant given upon birth. While all Korean nationals get it, foreign residents are usually only eligible if they hold F-5 (Permanent) or F-6 (Marriage) visas." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

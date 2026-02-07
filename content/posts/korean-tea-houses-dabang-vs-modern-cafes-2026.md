@@ -257,3 +257,12 @@ However, the core distinction remains: one is a pause button, and the other is a
     { question: "What is the average price of a cafe date in Seoul?", answer: "For a couple visiting a nice cafe, expect to spend around 20,000 to 25,000 KRW ($15-19 USD). This typically covers two specialty drinks and one shared dessert." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

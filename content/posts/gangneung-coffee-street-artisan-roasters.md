@@ -226,3 +226,12 @@ Whether you are a coffee snob hunting for the perfect Geisha roast or a casual t
     { question: "Do I need a reservation?", answer: "No, cafes do not take reservations. It is first-come, first-served. On weekends, you may have to hover near a table for a few minutes to snag a window seat." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

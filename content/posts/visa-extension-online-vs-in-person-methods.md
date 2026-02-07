@@ -235,3 +235,12 @@ However, the **In-Person** method remains a necessary evil for complex cases, fi
     { question: "What if I cannot find an appointment slot before my visa expires?", answer: "Check the website every morning at 7 AM or 8 AM for cancellations. If you truly cannot find one, you must visit the office as a walk-in on the day of expiration, but expect a long wait and a stern lecture. Some offices restrict walk-ins entirely, so call 1345 for emergency guidance." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

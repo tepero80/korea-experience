@@ -241,3 +241,12 @@ Whether you write the word "Love" (*Sarang*) or your own name, the brush remembe
     { question: "How much does a typical class cost?", answer: "Expect to pay between 40,000 KRW ($30 USD) for a basic group class and up to 150,000 KRW ($115 USD) for a private master session with tea ceremony." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

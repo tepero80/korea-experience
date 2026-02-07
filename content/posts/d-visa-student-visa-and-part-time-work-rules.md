@@ -240,3 +240,12 @@ Remember, the rules regarding TOPIK scores are strict. If you want to work more 
     { question: "Do I need permission to volunteer?", answer: "If the volunteering is unpaid and purely charitable, permission is usually not required. However, if you receive 'transportation fees' or 'meal allowances' that resemble a salary, it can be a grey area. Always consult 1345 (Immigration Hotline)." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

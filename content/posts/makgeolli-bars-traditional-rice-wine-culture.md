@@ -244,3 +244,12 @@ To wrap up your guide to Korean rice wine culture, here are the most common ques
 />
 
 Exploring Makgeolli bars offers a lens into the Korean soul—a blend of deep-rooted tradition and rapid modernization. Whether you are cheering with a brass bowl in a noisy alley or savoring a vintage pour in a quiet room, you are participating in a ritual that has bonded Koreans for a millennium. Drink responsibly, respect the etiquette, and enjoy the creamy, complex world of Korean rice wine.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

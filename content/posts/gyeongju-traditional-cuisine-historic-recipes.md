@@ -206,3 +206,12 @@ Gyeongju traditional cuisine historic recipes offer a window into a millennium o
     { question: "What is the best season for food in Gyeongju?", answer: "Spring (April-May) and Autumn (September-October) are best. Spring brings fresh mountain herbs and wild greens for Ssambap, while Autumn is the harvest season for rice and fruits, offering the best quality produce." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

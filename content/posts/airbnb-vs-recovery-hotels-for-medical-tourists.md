@@ -260,3 +260,12 @@ This strategy saves you approximately **KRW 1,000,000 ($750 USD)** over a 10-day
 />
 
 Deciding between an Airbnb and a recovery hotel is about managing risk versus reward. By assessing your specific surgery type and budget, you can tailor a recovery plan that ensures you return home not just looking better, but feeling healthy and rested. Safe travels and a speedy recovery!
+
+---
+
+## Sources
+
+- [Korea Health Industry Development Institute (KHIDI)](https://www.khidi.or.kr) - Medical tourism statistics and policy
+- [Visit Medical Korea](https://www.medicalkorea.or.kr/en) - Official government medical tourism portal
+- [Ministry of Food and Drug Safety](https://www.mfds.go.kr) - Drug and medical device regulations
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Medical tourism visitor information

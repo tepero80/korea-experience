@@ -256,3 +256,12 @@ Remember, the law is designed to protect you, regardless of your Korean language
     { question: "What if my employer refuses to give me a contract?", answer: "Report them to the MOEL. It is a criminal offense to not provide a written statement of working conditions. You can be fined, but the employer faces much stiffer penalties." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

@@ -221,3 +221,12 @@ Choosing the right neighborhood dictates the vibe of your night. Here is a break
     { question: "Can vegetarians survive a Korean drinking session?", answer: "It is challenging but possible. Most 'Anju' is meat-heavy. At a Pocha, order Gyeran-mari (rolled eggs), Tofu Kimchi (ask for no meat in the kimchi), or scorched rice soup (Nurungji). In Makgeolli bars, Potato Pancakes (Gamja-jeon) are usually safe." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

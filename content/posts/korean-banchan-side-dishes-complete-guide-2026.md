@@ -249,3 +249,12 @@ A common question from travelers is, "Can I take this home?"
 />
 
 Banchan is more than just side dishes; it is a cultural expression of care ("Jeong"). Whether you are dining in a bustling market in Seoul or a quiet seaside town in Busan, the array of small plates invites you to slow down, mix flavors, and share the experience. So, the next time you sit down for a meal in Korea, don't just focus on the main dish. Explore the sides—you might just find your new favorite flavor there.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

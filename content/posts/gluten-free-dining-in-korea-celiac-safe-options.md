@@ -239,3 +239,12 @@ To help you visualize a successful day, here is a suggested itinerary for your a
 />
 
 Visiting Korea with Celiac disease requires preparation, a strong will, and a good backpack full of snacks. However, the reward is experiencing a vibrant culture that is slowly but surely becoming more inclusive of dietary needs. By sticking to whole foods, utilizing specialized bakeries, and advocating for yourself with proper translation tools, you can have an unforgettable and safe Korean adventure.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

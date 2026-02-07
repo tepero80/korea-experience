@@ -200,3 +200,12 @@ For high-end collectors, Hanji lamps by master craftsmen can range from **200,00
 />
 
 Participating in a Hanji workshop connects you to the tactile history of Korea. It is a slow, deliberate art form that contrasts with the high-speed modernity of Seoul. Whether you leave with a simple coaster or an elaborate lamp, the object will forever carry the memory of the time and patience you poured into it.
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

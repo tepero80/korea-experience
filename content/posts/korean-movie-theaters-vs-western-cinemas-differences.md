@@ -229,3 +229,12 @@ Whether you choose a 4DX thrill ride or a relaxing evening in a Gold Class recli
     { question: "What is a Photo Ticket?", answer: "It is a customizable plastic ticket (credit card size) that you can print at the kiosk. You can upload your own photo to the app and print it as a souvenir for 1,000 KRW ($0.75 USD)." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
+- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
+- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
+- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

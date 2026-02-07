@@ -255,3 +255,12 @@ By weighing the heavy deposit of the Officetel against the cramped quarters of t
     { question: "What happens if I break my Officetel contract early?", answer: "In Korea, if you leave before your contract ends, you are usually responsible for finding a new tenant to take over your lease, and you must pay the realtor fee for the new tenant. Otherwise, you must pay rent until the contract expires." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
+- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
+- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
+- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

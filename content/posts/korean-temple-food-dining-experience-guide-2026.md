@@ -238,3 +238,12 @@ As you plan your 2026 trip to Korea, dedicate at least one meal to this ancient 
     { question: "Can I drink alcohol with temple food?", answer: "In a strict temple setting, alcohol is forbidden. However, some commercial temple food restaurants in the city may serve traditional alcohols like Makgeolli, though it is not traditional to the cuisine itself." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

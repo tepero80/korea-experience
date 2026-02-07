@@ -214,3 +214,12 @@ The Korean convenience store is more than a retail space; it is a canvas for cul
     { question: "What is the 1+1 or 2+1 sticker on the shelf?", answer: "These are buy-one-get-one-free or buy-two-get-one-free promotions. They are essential for saving money on drinks and snacks." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

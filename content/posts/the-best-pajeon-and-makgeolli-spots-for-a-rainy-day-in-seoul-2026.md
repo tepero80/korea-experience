@@ -258,3 +258,12 @@ Whether you choose the raucous energy of Hoegi, the endless variety of Gongdeok,
     { question: "Do these places accept credit cards?", answer: "Yes. Even the older establishments in Hoegi and Gongdeok accept international credit cards (Visa/Mastercard) and mobile payments like Apple Pay, which has become widely accepted in Seoul by 2026." }
   ]}
 />
+
+---
+
+## Sources
+
+- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
+- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
+- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
+- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources
