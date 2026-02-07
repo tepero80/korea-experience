@@ -11,6 +11,29 @@ import * as path from 'path';
 // .env.local 파일 로드
 config({ path: '.env.local' });
 
+// ========== 기존 포스트 슬러그 동적 로딩 ==========
+function getExistingSlugs(): { all: string[]; byCategory: Record<string, string[]> } {
+  const postsDir = path.join(process.cwd(), 'content', 'posts');
+  const files = fs.readdirSync(postsDir).filter(f => f.endsWith('.md'));
+  const all: string[] = [];
+  const byCategory: Record<string, string[]> = {};
+
+  for (const file of files) {
+    const slug = file.replace(/\.md$/, '');
+    all.push(slug);
+    try {
+      const head = fs.readFileSync(path.join(postsDir, file), 'utf-8').substring(0, 500);
+      const catMatch = head.match(/^category:\s*(.+)$/m);
+      if (catMatch) {
+        const cat = catMatch[1].trim();
+        if (!byCategory[cat]) byCategory[cat] = [];
+        byCategory[cat].push(slug);
+      }
+    } catch { /* skip unreadable */ }
+  }
+  return { all, byCategory };
+}
+
 // API 키 확인
 const apiKey = process.env.GEMINI_API_KEY;
 if (!apiKey) {
@@ -251,14 +274,28 @@ Structure:
    - Include 3-5 internal links to related articles throughout the content
    - Use markdown format: [descriptive anchor text](/blog/slug-of-related-post)
    - Spread links naturally within the body text, not clustered together
-   - Link to related topics using slugs from these common categories:
-     * Food: /blog/best-korean-bbq-restaurants-in-seoul-2026, /blog/50-must-try-korean-foods-complete-guide-2026
-     * Travel: /blog/best-day-trips-from-seoul-2026, /blog/cherry-blossom-forecast-korea-2026
-     * Living: /blog/cost-of-living-in-seoul-vs-other-korean-cities-2026, /blog/how-to-find-an-apartment-in-seoul-2026
-     * Medical: /blog/best-dermatology-clinics-in-seoul-for-foreigners, /blog/medical-tourism-visa-c33-2026
-     * Culture: /blog/best-k-pop-concert-venues-in-seoul, /blog/korean-language-learning-best-methods-2026
-   - Example in text: "If you're planning to try Korean BBQ, check out our [guide to the best BBQ restaurants in Seoul](/blog/best-korean-bbq-restaurants-in-seoul-2026) for specific recommendations."
-   - IMPORTANT: Only link to slugs that plausibly exist. Use category-relevant slugs.
+   - CRITICAL: You MUST ONLY use slugs from the list below. Do NOT invent or guess slugs.
+   - Pick 3-5 slugs that are most relevant to the current article topic.
+
+   AVAILABLE SLUGS (use ONLY these):
+${(() => {
+    const { all, byCategory } = getExistingSlugs();
+    // Build category-grouped slug list for the prompt
+    const lines: string[] = [];
+    const currentSlug = keyword.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    for (const [cat, slugs] of Object.entries(byCategory)) {
+      // Show up to 15 slugs per category, excluding current post
+      const filtered = slugs.filter(s => s !== currentSlug).slice(0, 15);
+      if (filtered.length > 0) {
+        lines.push(`     [${cat}]`);
+        filtered.forEach(s => lines.push(`       /blog/${s}`));
+      }
+    }
+    return lines.join('\n');
+  })()}
+
+   - Example: "Check out our [guide to Korean BBQ](/blog/best-korean-bbq-restaurants-in-seoul-2026) for recommendations."
+   - WARNING: Any slug NOT in the above list will be automatically removed during post-processing.
 
 CRITICAL JSX SYNTAX RULES (MUST follow exactly):
 - Output ONLY the markdown content with embedded JSX components
@@ -427,6 +464,29 @@ function sanitizeMDX(content: string): { content: string; fixes: string[] } {
     (match, indent, attr) => {
       fixes.push(`${attr}.= → ${attr}=`);
       return `${indent}${attr}=`;
+    }
+  );
+
+  // 7. 내부 링크 검증 — 존재하지 않는 슬러그 제거
+  const { all: existingSlugs } = getExistingSlugs();
+  const slugSet = new Set(existingSlugs);
+  result = result.replace(
+    /\[([^\]]+)\]\(\/blog\/([a-z0-9-]+)\)/g,
+    (match, anchorText, slug) => {
+      if (slugSet.has(slug)) return match; // 유효한 링크
+      // 유사 슬러그 찾기 (Levenshtein 대신 간단한 포함 매칭)
+      const similar = existingSlugs.find(s => {
+        const slugWords = slug.split('-').filter((w: string) => w.length > 3);
+        const matchCount = slugWords.filter((w: string) => s.includes(w)).length;
+        return matchCount >= Math.ceil(slugWords.length * 0.6);
+      });
+      if (similar) {
+        fixes.push(`Link fixed: /blog/${slug} → /blog/${similar}`);
+        return `[${anchorText}](/blog/${similar})`;
+      }
+      // 유사한 것도 없으면 링크 제거하고 텍스트만 남김
+      fixes.push(`Link removed (no match): /blog/${slug}`);
+      return anchorText;
     }
   );
 

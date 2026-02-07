@@ -1,5 +1,6 @@
 ---
 title: "The Ultimate 2026 Guide to Finding a Licensed Medical Coordinator in Korea: How to Skip the Scams and Get the Treatment You Deserve"
+
 date: 2026-02-05
 excerpt: "Finding a licensed medical coordinator is all about verifying their registration with the Ministry of Health and Welfare and ensuring they hold a national IMC license. In 2026, with over a million medical tourists hitting Seoul, sticking to government-approved pros is the only way to stay safe and legally protected."
 category: Medical Tourism
@@ -9,6 +10,8 @@ deepDiveOrder: 25
 ---
 
 So, you've decided to head to South Korea for medical treatment—maybe it's the world-class plastic surgery, maybe it's a comprehensive health checkup, or maybe it's specialized cancer treatment. Whatever your reason, **the single most important decision you'll make isn't which clinic to choose—it's who helps you navigate the system.** A licensed medical coordinator can be the difference between a life-changing experience and a nightmare of hidden fees, language barriers, and legal vulnerability.
+
+Before booking a coordinator, secure your visa. See our guide to [applying for a Korea medical tourism visa](/blog/korea-medical-tourism-visa-how-to-apply).
 
 <KeyTakeaways 
   points={[
@@ -41,6 +44,8 @@ These brokers are dangerous for three reasons:
 3. **No insurance coverage** — Licensed agencies must carry ₩100M in malpractice insurance. Unlicensed brokers carry zero.
 
 In early 2026, the National Police Agency launched a massive 9-month crackdown on illegal "office hospitals"—unlicensed clinics run by non-doctors. The crackdown is ongoing, and many tourists who booked through unlicensed brokers are finding themselves at clinics that no longer exist.
+
+Wondering about all-in-one packages? Read our analysis of [whether medical tourism packages are worth it](/blog/medical-tourism-package-deals-worth-it-or-tourist-trap).
 
 <Timeline
   title="Korean Medical Tourism Regulation History"
@@ -108,6 +113,8 @@ These are private companies like Docfinderkorea or Himedi that act as your "medi
 
 **Option C: In-House Clinic Coordinator**
 Big plastic surgery clinics in Gangnam (JK, ID Hospital, etc.) have their own licensed coordinators on staff. These people know their specific surgeons' styles inside out. Fast communication, but obviously they only recommend their own clinic.
+
+Already have a coordinator? Browse our list of [best plastic surgery clinics for foreigners in Seoul](/blog/best-plastic-surgery-clinics-for-foreigners-in-seoul).
 
 <ProsCons
   title="Using a Licensed Coordinator"

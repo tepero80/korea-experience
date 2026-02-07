@@ -2,6 +2,7 @@
 title: "How to Recycle in Korea 2026: The Complete Bun-ri-su-geo Guide for Expats and Travelers"
 date: 2026-02-05
 excerpt: "The short answer? Korea's recycling system is incredibly strict—you need to separate everything from food waste to clear PET bottles, and if you mess it up, you could face fines up to ₩1,000,000. Here's your complete guide to mastering Bun-ri-su-geo (separation and disposal) like a local."
+
 category: Living in Korea
 author: Korea Experience Team
 deepDive: true
@@ -9,6 +10,12 @@ deepDiveOrder: 28
 ---
 
 So, you've just moved into your new Korean apartment, and you're staring at a collection of bags, bins, and mysterious recycling instructions in a language you don't fully understand. Welcome to **Bun-ri-su-geo** (분리수거)—Korea's famously meticulous waste separation system. **The short answer is: Korea has one of the world's highest recycling rates (65%+), and they got there by making everyone sort their trash into 5-10 different categories.** Mess it up, and you could face fines. Get it right, and you'll feel like an environmental hero.
+
+For the official rules and penalty structure, see our guide to [recycling rules in Korea including sorting and penalties](/blog/recycling-rules-in-korea-sorting-and-penalties).
+
+Still looking for a place? Start with our guide to [finding apartments with English-friendly real estate apps](/blog/finding-apartments-real-estate-apps-in-english).
+
+Recycling is just one aspect of apartment life. Learn about [Korean apartment etiquette](/blog/korean-apartment-etiquette-what-neighbors-expect-2026).
 
 <KeyTakeaways 
   points={[

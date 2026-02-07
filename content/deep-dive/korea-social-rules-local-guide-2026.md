@@ -58,6 +58,10 @@ But here's the twist: the 2024 Martial Law crisis and the subsequent impeachment
 
 So, in 2026, you have this fascinating friction. You have traditional values—like removing your shoes indoors to keep the "sacred" floor clean—clashing with a "Pixelated Life" where people divide their day into tiny units of digital experience. You'll see an office worker bowing deeply to their boss on a Zoom call, then immediately hopping onto a "Silent Exit" from a stressful KakaoTalk group chat.
 
+For professional settings specifically, see our guide to [Korean business meeting etiquette](/blog/korean-etiquette-for-business-meetings-business-cards-and-bowing-2026).
+
+If you are working in Korea, also read our guide to [Korean work culture and office etiquette](/blog/korean-work-culture-office-etiquette-for-foreigners).
+
 ## Transit and Tech Options Compared
 
 Here's the deal: navigating Korea as a tourist is basically a game of "App Management." If you try to use Google Maps, you're going to have a bad time—it doesn't work well here due to national security restrictions on map data. Instead, you need Naver Maps or Kakao Maps.
@@ -184,6 +188,7 @@ Here's the real talk: Korea is one of the most convenient places on Earth, but o
 
 And the biggest "local" hack: **learn the "Silent Exit" etiquette on KakaoTalk**. If you're in a group chat that's getting annoying, don't just leave and let everyone see the notification; use the silent exit feature to slip away like a social ninja.
 
+
 ## Frequently Asked Questions
 
 <FAQAccordion
@@ -210,6 +215,9 @@ And the biggest "local" hack: **learn the "Silent Exit" etiquette on KakaoTalk**
     }
   ]}
 />
+
+
+Living with Korean neighbors? Read about [Korean apartment etiquette and what neighbors expect](/blog/korean-apartment-etiquette-what-neighbors-expect-2026).
 
 ## Your Action Plan for the First 24 Hours
 

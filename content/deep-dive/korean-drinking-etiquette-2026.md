@@ -10,6 +10,8 @@ deepDiveOrder: 21
 
 So, you've finally made it to Seoul. You're sitting at a table with some new Korean friends or colleagues, the grill is sizzling with pork belly, and someone reaches for a green bottle of soju. Your heart starts racing—what was that thing you read about two hands? Don't panic. Look, **the short answer to mastering Korean drinking etiquette is that it's all about not being the center of attention.** In Western culture, we're taught to pour for ourselves and be independent. In Korea, you are part of a collective. If your glass is empty, you're waiting for the group to acknowledge you. If someone else's is empty, it's your job to take care of them.
 
+Drinking and BBQ go hand in hand. Find the [best Korean BBQ restaurants in Seoul](/blog/best-korean-bbq-restaurants-in-seoul-2026) for the perfect pairing.
+
 <KeyTakeaways 
   points={[
     "The short answer is: Respect and hierarchy are everything. Always use two hands for everything involving a bottle or a glass, and if you're drinking with someone older, turn your head away to take a sip. It's all about showing that you know the 'social code.'",
@@ -77,6 +79,8 @@ But here's the cool part for 2026: we are in the middle of a massive "Sool Renai
 Look, picking the right spot is half the battle. If you're staying for a week, you'll probably see three main types of places.
 
 First, the **Suljip or Pocha**. These are your standard bars. They range from neon-drenched modern spots to the older, gritty ones. In 2026, many of these have gone "cyberpunk" or "retro," especially in areas like Euljiro (nicknamed 'Hip-jiro').
+
+For a deeper dive into the drinks themselves, see our guide to [Korean drinking culture with soju, makgeolli, and pocha](/blog/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026).
 
 Then you have the **Hof**. This is the Korean version of a German beer hall. If you want "Chimaek" (Chicken and Maekju), this is where you go. They serve big pitchers of draft beer, and the vibe is super loud and friendly.
 

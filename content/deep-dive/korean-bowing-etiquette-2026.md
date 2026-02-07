@@ -1,5 +1,6 @@
 ---
 title: "The 15-Degree Tilt: Why This Tiny Move Is Your Secret Weapon for Mastering Korea in 2026"
+
 date: 2026-02-05
 excerpt: "If you're heading to Seoul, that 15-degree bow is way more than just a polite nod—it's the ultimate social lubricant that opens doors, scores you better service, and proves you're not just another clueless tourist."
 category: K-Culture
@@ -9,6 +10,11 @@ deepDiveOrder: 27
 ---
 
 So, you've finally made it to Seoul. You're standing at the entrance of a tiny, steaming-hot Gukbap restaurant in Yeonnam-dong, and the grandmother running the place greets you with a quick, rhythmic bow. What do you do? **The short answer is: tilt your upper body forward about 15 degrees, drop your eyes for a split second, and say "Annyeonghaseyo."** That's it. That tiny gesture is your golden ticket to being treated like a local instead of a tourist.
+
+For the full business context, see our guide to [Korean business meeting etiquette including cards and bowing](/blog/korean-etiquette-for-business-meetings-business-cards-and-bowing-2026).
+Bowing extends into the workplace. Learn more about [Korean work culture and office etiquette](/blog/korean-work-culture-office-etiquette-for-foreigners).
+
+Social bowing also appears in drinking settings. Explore our guide to [Korean drinking culture and etiquette](/blog/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026).
 
 <KeyTakeaways 
   points={[

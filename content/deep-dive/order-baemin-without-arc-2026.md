@@ -1,5 +1,6 @@
 ---
 title: "2026 Insider Guide: How to Order Baemin Like a Local Without an ARC or Korean Phone Number"
+
 date: 2026-02-05
 excerpt: "So, you're staring at your phone at 11 PM, dying for some fried chicken, but you don't have a Korean ID? Don't worry, I've got you—as of 2026, Baemin has finally gone full 'foreigner-friendly' with AI translations and guest checkout!"
 category: Food & Dining
@@ -9,6 +10,12 @@ deepDiveOrder: 4
 ---
 
 So, look, here's the thing. You've just landed in Seoul, you're staying in a gorgeous hotel in Myeongdong or a cozy Airbnb in Hongdae, and it's 11 PM. You've seen the K-dramas where someone orders a massive spread of fried chicken and beer with just a few taps on their phone. You want that life. But then you download the app, and it starts shouting at you in Korean, asking for an Alien Registration Card (ARC) or a local phone number linked to your identity. 
+
+Prefer eating out? Learn the essential phrases in our guide to [ordering food in Korean restaurants with useful phrases](/blog/how-to-order-food-in-korean-restaurants-phrases-guide-2026).
+
+For a full app-by-app comparison, see our guide to [Korean food delivery apps from Coupang Eats to Baemin](/blog/korean-food-delivery-apps-coupang-eats-to-baemin-guide-2026).
+
+Not sure what to order? Browse our list of [50 must-try Korean foods](/blog/50-must-try-korean-foods-complete-guide-2026) for inspiration.
 
 **The short answer—the one you came here for—is that you can now order Baemin as a guest without an ARC.** In May 2024, Baedal Minjok (Baemin) officially opened up its platform to allow guest orders with international credit cards. And as of February 2026, they've added AI-powered English, Chinese, and Japanese support, so you don't even need to be able to read Hangul to find the best tteokbokki in town.
 

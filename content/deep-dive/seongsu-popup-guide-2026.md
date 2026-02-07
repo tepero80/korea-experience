@@ -1,5 +1,6 @@
 ---
 title: "The 2026 Survival Guide to Seongsu-dong Pop-ups: How to Beat the Waitlists and Score Merch Without a Korean ID"
+
 date: 2026-02-05
 excerpt: "In 2026, Seongsu-dong has become pop-up ground zero—with over 200 pop-ups operating in rotation, from global fashion houses to K-pop merch 'scoop events.' But if you don't have a Korean phone number, you're going to need some creative strategies to actually get past those digital gates."
 category: Shopping & K-Beauty
@@ -9,6 +10,9 @@ deepDiveOrder: 18
 ---
 
 The short answer is: Stop trying to use Kakao or Naver booking systems without a local ID; instead, show up at the venue an hour early and look for the 'Foreigner Kiosk' QR code that many 2026 pop-ups now offer. Alternatively, use a professional proxy service like Global SH to reserve your slot remotely before you even land in Seoul.
+
+For another trendy shopping destination, check out our guide to [shopping at The Hyundai Seoul, Korea's coolest mall](/blog/shopping-at-the-hyundai-seoul-a-guide-to-korea-coolest-mall-2026).
+Want a full day plan? Follow our [24-hour Seongsu-dong itinerary from luxury pop-ups to street food](/blog/24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route).
 
 <KeyTakeaways 
   points={[
@@ -151,6 +155,9 @@ Here is the reality: In 2026, Seongsu-dong has become the pop-up capital of Asia
 The problem? About 70% of these pop-ups use a "reservation-only" system that requires a Korean phone number for identity verification. If you're a tourist or overseas fan without an ARC (Alien Registration Card), you're going to hit a digital wall when you try to book a slot via the Kakao Channel or Naver Booking systems that most venues use.
 
 ---
+
+
+Seongsu is a cafe paradise. Discover more of the [best coffee shops in Seoul](/blog/best-coffee-shops-in-seoul-2026).
 
 ## Sources
 

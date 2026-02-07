@@ -10,6 +10,8 @@ deepDiveOrder: 16
 
 Don't panic. While the main Kakao T app used to be a nightmare for tourists, the new K.Ride app and the updated Uber (UT) app let you sign up with your home country's number and use international credit cards without needing a local ID or a Korean SIM.
 
+For a full app-by-app breakdown, see our guide to [Korean taxi apps including Kakao T and Uber alternatives](/blog/taxi-apps-in-korea-kakao-vs-uber-alternatives).
+
 <KeyTakeaways 
   points={[
     "The short answer is: Don't panic. While the main Kakao T app used to be a nightmare for tourists, the new K.Ride app and the updated Uber (UT) app let you sign up with your home country's number and use international credit cards without needing a local ID or a Korean SIM.",
@@ -146,6 +148,10 @@ If you don't have a Korean number, do not try to use the standard "Kakao T" app 
 ## Your Complete Taxi Guide
 
 So, you're standing on a busy street in Myeongdong, it's getting late, and you've realized that your "Global" ride-sharing app isn't working quite like you expected. Honestly, I've been there, and it's a bit of a panic moment. But here is the short answer: You can call a taxi without a Korean phone number or an ARC, and in 2026, it is easier than it has ever been. The secret is that Korea has finally built "tourist-only" bridges into their taxi system.
+
+Taxis are one piece of the puzzle. See our complete [Seoul transportation for tourists](/blog/seoul-transportation-guide-for-tourists-2026) guide.
+
+No Korean phone number? Read our specific guide to [calling a taxi in Korea without a local phone number](/blog/how-to-call-a-taxi-in-korea-without-a-local-phone-number-kakao-t-alternatives-for-tourists).
 
 Look, the "big player" in Korea is Kakao Mobility. For years, their main app (Kakao T) was a fortress that only people with a local Korean phone number could enter. But they recently launched K.Ride, and this is your new best friend. You can sign up with your US, UK, or Australian number, and it doesn't ask for a Korean ID. The other heavy hitter is Uber. If you already have Uber on your phone, just open it up. It won't show you private cars like it does in London or New York, but it will show you licensed "Uber Taxis".
 

@@ -10,6 +10,10 @@ deepDiveOrder: 30
 
 The short answer is simple: **YES, Seoul's vintage markets are absolute goldmines.** Dongmyo Flea Market and Gwangjang Market represent two completely different thrifting experiences, and in 2026, both are better than ever for tourists who know what they're doing.
 
+Want even more secondhand spots? Browse our guide to [thrifting in Seoul with charity shops and flea markets](/blog/thrifting-in-seoul-best-charity-shops-and-flea-markets-2026).
+
+For Dongmyo-specific tips, see our detailed [vintage shopping in Dongmyo](/blog/vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026) guide.
+
 <KeyTakeaways 
   points={[
     "Dongmyo is the ₩1,000-₩10,000 paradise: We're talking massive outdoor piles of clothes where you dig with your bare hands and score 80s vintage for literally $1. It's raw, it's chaotic, and it's pure treasure-hunting adrenaline.",
@@ -236,6 +240,9 @@ The beauty of Gwangjang is that the vintage arcade and food market are in the sa
     }
   ]}
 />
+
+
+After thrifting at Gwangjang, refuel with our [Gwangjang Market food guide](/blog/gwangjang-market-complete-food-guide).
 
 <FAQAccordion
   items={[

@@ -104,7 +104,11 @@ Here's the deal: Myeongdong is roughly 2 to 3 times more expensive than Gwangjan
   role="Local Food Blogger"
   experience="12 years living in Seoul"
   quote="In 2026, the real 'pro move' isn't choosing between Myeongdong and Gwangjang—it's visiting Namdaemun Market for Hotteok and then walking to Myeongdong just for the photos. Never eat your full dinner in the Myeongdong main alley unless you want to pay a 40% 'tourist tax' on the atmosphere."
+
 />
+
+For guided market experiences, see our guide to [traditional market street food tours](/blog/exploring-korea-traditional-market-street-food-tours-2026).
+
 
 <InfoBox type="tip" title="Pro Tip: 4 PM at Gwangjang">
 Go to Gwangjang Market around 4 PM. You miss the heavy lunch rush of office workers and beat the evening dinner crowd. You'll actually get a seat at the famous "Netflix Lady's" noodle stall without a 30-minute wait.
@@ -147,7 +151,11 @@ If you don't have a Korean ID (ARC) or a local 010 phone number, KakaoPay and Na
 
 So, you're standing in the middle of Myeongdong, the neon lights are flashing, and you see a guy blowtorching a lobster tail covered in cheese. It looks incredible. Then you see the sign: ₩18,000. You do the quick math in your head—that's about $12 USD. For a single snack. On a stick. You think, "Wait, didn't I read somewhere that Korean street food was supposed to be cheap?"
 
+Not sure what to eat? Start with our list of [30 Korean street foods you must try](/blog/korean-street-food-guide-30-foods-to-try-2026).
+
 Honestly, here's the reality of 2026: Seoul has become a city of two extremes. The short answer is that Myeongdong is significantly more expensive than Gwangjang Market—sometimes triple the price—but it offers a totally different "Street Food 2.0" experience. In Myeongdong, you're looking at an average price of ₩10,000 to ₩15,000 for popular meat and seafood items. If you head to Gwangjang, that same ₩15,000 isn't just a snack; it's a full meal that includes a massive mung bean pancake (₩5,000), a roll of mayak gimbap (₩3,000), and a bowl of hand-cut noodles (₩5,000) with change to spare.
+
+Prefer a sit-down market meal? Explore our guide to [Seoul's food markets from Gwangjang to Noryangjin](/blog/seoul-food-markets-guide-gwangjang-to-noryangjin-2026).
 
 ---
 

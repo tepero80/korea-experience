@@ -1,5 +1,6 @@
 ---
 title: "7 Best Vegan-Friendly Hanok Restaurants in Seoul: The 2026 Guide to Plant-Based Time Travel"
+
 date: 2026-02-05
 excerpt: "Seoul has perfectly blended its 600-year-old temple food traditions with a trendy 'Newtro' Hanok revival, making spots like Balwoo Gongyang and Vegan Insa the absolute gold standard for vegan dining in 2026. If you want 'Glass Skin' from the inside out while sitting in a beautiful wooden palace, these are the only places you need to know."
 category: Food & Dining
@@ -9,6 +10,11 @@ deepDiveOrder: 11
 ---
 
 So, look, if you're a vegan traveling to Korea in 2026, you've probably heard the rumors: "Everything has fish sauce," "They think spam is a vegetable," or "You'll be living on white rice and seaweed." Honestly, that might have been true ten years ago, but in 2026? **Seoul is basically a playground for plant-based foodies, especially if you know where to look.**
+
+Want more options beyond hanok settings? Read our [vegetarian and vegan Korean cuisine overview](/blog/vegetarian-and-vegan-korean-cuisine).
+For a spiritual dining experience, explore [Korean temple food and vegetarian Buddhist meals](/blog/korean-temple-food-vegetarian-buddhist-meals).
+
+For a broader dietary guide, see our [vegan and vegetarian guide to Korean food](/blog/vegan-and-vegetarian-guide-to-korean-food-2026).
 
 **The secret isn't in the generic Western-style salad bars in Gangnam; it's in the quiet, atmospheric alleyways of the Hanok villages.** Korean Temple Food (*Sachal Eumsik*) is the original vegan diet, and it's making a massive comeback.
 

@@ -1,5 +1,6 @@
 ---
 title: "The 2026 Complete Guide to Renting a Car in Jeju Without an Alien Registration Card: Rules, Hacks, and Hidden Costs"
+
 date: 2026-02-05
 excerpt: "In 2026, you can absolutely rent a car in Jeju without an ARC—but only if you have an International Driving Permit (IDP) and navigate the new 'e-Arrival Card' digital ID system that replaced the old paper forms."
 category: Travel & Tourism
@@ -9,6 +10,8 @@ deepDiveOrder: 20
 ---
 
 The short answer: Yes, you can rent a car in Jeju without an ARC by using an International Driving Permit (IDP) from your home country plus your national driver's license. As of 2026, the major rental agencies (Lotte, SK, AJ) have fully integrated the 'e-Arrival Card' system, which means tourists no longer need a Korean phone number to complete the rental process—just your passport, IDP, and an international credit card.
+
+For a full island overview, see our [complete Jeju Island travel guide](/blog/jeju-island-complete-travel-guide-best-time-to-visit-2026).
 
 <KeyTakeaways 
   points={[
@@ -108,8 +111,12 @@ The short answer: Yes, you can rent a car in Jeju without an ARC by using an Int
   name="Sarah Kim"
   role="Jeju Tourism Consultant"
   experience="9 years working with international visitors"
+
   quote="The biggest mistake tourists make is not reading the insurance fine print. Many think they're 'fully covered,' but the basic CDW has a deductible of ₩1,000,000. If you want true peace of mind, pay for the 'Super CDW' or 'Zero Deductible' option. It's expensive, but Jeju's narrow roads and aggressive local drivers make it worth every won."
 />
+
+Working remotely from Jeju? Check our [digital nomad guide to Jeju](/blog/the-digital-nomad-guide-to-jeju-island-best-cafes-and-internet-speed-2026) for the best cafes and Wi-Fi.
+
 
 <InfoBox type="tip" title="Pro Tip: Avoid Peak Hours at Gas Stations">
 Gas stations near popular tourist spots (like Seongsan Sunrise Peak or Hallasan National Park) get insanely busy between 10 AM and 2 PM. Fill up early in the morning or late in the evening to skip the lines.
@@ -155,6 +162,8 @@ So, you've decided to visit Jeju Island—Korea's "Hawaii," famous for its volca
 Here's the reality: In 2026, renting a car in Jeju without an ARC is not only possible—it's actually easier than it's ever been. The Korean government has streamlined the process for tourists by introducing the 'e-Arrival Card' system, which digitally verifies your legal entry into the country. This means you no longer need to carry around a paper immigration slip or worry about rental agencies rejecting you because you're not a resident.
 
 The truth is, Jeju Island is designed for road trips. Public transportation exists, but it's painfully slow and doesn't reach many of the island's best spots. If you want to see Seongsan Sunrise Peak at dawn, hit up a lava tube cave, and then catch the sunset at Hyeopjae Beach all in one day, you need a car. Period.
+
+For car-free alternatives, explore our guide to [bicycle rental systems including Jeju](/blog/bicycle-rental-systems-seoul-busan-jeju).
 
 ---
 

@@ -26,7 +26,11 @@ The global landscape of healthcare travel has undergone a seismic shift, and as 
 
 This matters profoundly to the modern traveler because the 2026 requirements have moved toward a fully digitalized, high-transparency model. Statistics from the Korea Health Industry Development Institute (KHIDI) reveal that the country welcomed a record-breaking **1.17 million international patients in 2024**, a figure that nearly doubled from the previous year. Furthermore, by the end of 2025, international patient spending reached a historic peak of 2.08 trillion KRW, signaling that the market has moved beyond pandemic recovery into a phase of unprecedented expansion.
 
+Plan your recovery too. Read about [medical tourism recovery hotels and aftercare](/blog/korean-medical-tourism-recovery-hotels-and-aftercare-guide-2026).
+
 For the 2026 traveler, the C-3-3 visa is not merely a piece of paper but a comprehensive legal safeguard. It ensures that the patient is receiving care from one of the hundreds of hospitals and clinics that are strictly regulated under the Medical Service Act. These institutions are required to carry medical malpractice insurance and provide multilingual support, which is critical in an era where patient expectations for safety and communication have never been higher.
+
+Once your visa is approved, browse our list of [best plastic surgery clinics for foreigners](/blog/best-plastic-surgery-clinics-for-foreigners-in-seoul).
 
 The average medical tourism patient spent approximately **6.41 million KRW (~$4,600 USD)** in 2024, reflecting the shift toward high-value procedures, including oncology, organ transplantation, and complex reconstructive surgeries. However, a significant majority of patients—nearly 57%—now visit for dermatological and aesthetic "wellness" procedures, which has led to the recent "souvenir-ization" of Korean medicine, where medical-grade skincare and pharmaceutical products are as sought after as the procedures themselves.
 
@@ -102,6 +106,8 @@ This route is essential for patients bringing family members, as the C-3-3 careg
 ## The 2026 Step-by-Step Application Process
 
 The 2026 application process is defined by its digitalization. Prospective patients must no longer rely on physical mailing of sensitive documents to hospitals; instead, a secure digital workflow has been established.
+
+For a streamlined application walkthrough, see our [step-by-step Korea medical tourism visa application](/blog/korea-medical-tourism-visa-how-to-apply) guide.
 
 <StepGuide
   title="Navigating the 2026 Medical Entry Process"
@@ -184,6 +190,7 @@ For any medical tourist in 2026, the "No-ARC" solution is the most vital piece o
 
 Unlike postpaid contracts, these do not require an ARC and can be activated with just a passport. Furthermore, while the Mobile ARC launched in 2025 has revolutionized banking for long-term residents, short-term C-3-3 holders can still open "limited" bank accounts at branches with dedicated foreigner desks, such as Hana Bank in Itaewon, using only their passport and a local phone number.
 
+
 ## Frequently Asked Questions
 
 <FAQAccordion
@@ -210,6 +217,9 @@ Unlike postpaid contracts, these do not require an ARC and can be activated with
     }
   ]}
 />
+
+
+Muslim travelers can find specialized support. See our guide to [halal medical tourism and Muslim-friendly clinics in Korea](/blog/halal-medical-tourism-finding-muslim-friendly-clinics).
 
 ## Conclusion
 

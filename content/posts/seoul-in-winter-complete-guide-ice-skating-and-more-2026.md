@@ -260,7 +260,7 @@ While planning your **Seoul in Winter Complete Guide Ice Skating and More 2026**
 *   [Busan Travel Guide: Beaches, Temples, and Street Food](/blog/busan-travel-guide-beaches-temples-and-street-food-2026)
 *   [Korean Street Food Guide: 30 Foods to Try](/blog/korean-street-food-guide-30-foods-to-try-2026)
 *   [Best Day Trips from Seoul 2026](/blog/best-day-trips-from-seoul-2026)
-*   [Korean Bowing Etiquette 2026](/blog/korean-bowing-etiquette-2026)
+*   [Korean bowing and business etiquette](/blog/korean-etiquette-for-business-meetings-business-cards-and-bowing-2026)
 
 ## Frequently Asked Questions (FAQ) about Seoul in Winter 2026
 

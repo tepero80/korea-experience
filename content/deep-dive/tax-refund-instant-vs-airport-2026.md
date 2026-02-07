@@ -1,5 +1,6 @@
 ---
 title: "South Korea Tax Refund Guide 2026: The Ultimate 'Instant vs. Airport' Strategy to Save Your Won"
+
 date: 2026-02-05
 excerpt: "Here is the deal: if your receipt is under ₩1,000,000, always ask for an immediate tax refund at the register to save time. For the big-ticket luxury hauls, you will need to head to the airport kiosks, but don't worry—I've got the 2026 blueprint to make it painless."
 category: Shopping & K-Beauty
@@ -9,6 +10,8 @@ deepDiveOrder: 24
 ---
 
 So, you've just blown through your shopping budget at Olive Young and you're wondering if you can actually get some of that money back. **The short answer is a resounding YES—and if you do it right, you can get 5-8% of your purchase price refunded instantly at the register.** The key is understanding which refund method to use and when, because in 2026, the Korean tax refund system has gotten both simpler and more complicated depending on what you're buying.
+
+For step-by-step instructions, see our guide on [how to claim your Korea tax refund as a tourist](/blog/tax-refund-for-tourists-how-to-claim).
 
 <KeyTakeaways 
   points={[
@@ -65,6 +68,10 @@ For purchases over ₩1,000,000—like that Chanel bag or high-end electronics�
 
 **Option A: Immediate In-Store Refund**
 This is your gold standard for everyday shopping. When you see a "Tax-Free" sign at Olive Young, Daiso, or department stores, the cashier can deduct the tax immediately. That ₩100,000 jacket becomes ₩93,000 at the register. No forms, no kiosks, no drama.
+
+For brand-specific deals, see our guide to [Shinsegae duty-free best deals for tourists](/blog/shinsegae-duty-free-best-deals-for-tourists).
+
+Tax refunds and duty-free are different strategies. Compare with our [duty-free shopping in Korea](/blog/duty-free-shopping-in-korea-complete-guide-2026) guide.
 
 The catch? Maximum ₩1,000,000 per receipt and ₩5,000,000 for your entire trip. Once you hit that 5-million-won limit, the system forces you to use the airport method.
 

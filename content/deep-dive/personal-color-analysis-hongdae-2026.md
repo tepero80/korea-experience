@@ -1,5 +1,6 @@
 ---
 title: "Personal Color Analysis in Hongdae 2026: Complete Guide to the Top 3 Studios"
+
 date: 2026-02-05
 excerpt: "The Hongdae district in Seoul has emerged as the definitive global hub for personal color analysis, with studios like Color Of You, Color Society, and Vivid Hue offering everything from 21-type precision draping to custom perfume creation. Here's your complete insider guide to getting the best K-beauty diagnosis in 2026."
 category: Shopping & K-Beauty
@@ -9,6 +10,10 @@ deepDiveOrder: 12
 ---
 
 Personal color analysis has exploded from a niche beauty service into a primary driver of international beauty tourism in Korea. By 2026, the **Hongdae district** in Seoul has emerged as the definitive global hub for these services, distinguished by its concentration of high-caliber studios, proximity to elite design institutions, and role as a testing ground for AI in cosmetic personalization.
+
+After your session, explore the [Hongdae shopping street with indie brands and vintage finds](/blog/hongdae-shopping-street-indie-brands-and-vintage) nearby.
+
+For mainstream K-beauty shopping, see our [Myeongdong shopping guide for beauty and fashion](/blog/myeongdong-shopping-guide-beauty-and-fashion).
 
 **The short answer: If you want the most accurate color diagnosis that will transform your shopping and makeup forever, head to Hongdae and choose based on your priorities—Color Of You for academic prestige and scent branding, Color Society for technical makeup audits, or Vivid Hue for holistic proportion engineering.**
 
@@ -33,6 +38,8 @@ When a subject is presented with drapes that harmonize with their natural undert
   ]}
   columns={3}
 />
+
+Is it worth the investment? Read our honest review of [whether personal color analysis in Seoul is worth $150](/blog/personal-color-analysis-in-seoul-is-it-worth-150-dollars-review-2026).
 
 ## The 2026 Market Context
 

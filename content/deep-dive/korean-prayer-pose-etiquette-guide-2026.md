@@ -1,5 +1,6 @@
 ---
 title: "Why You Should Never Use the 'Prayer Pose' in South Korea: Your 2026 Essential Guide to Not Being 'That' Tourist"
+
 date: 2026-02-05
 excerpt: "Put your hands down! While it looks polite elsewhere, using the 'prayer pose' in Korea is actually a major cultural blunder that makes you look like you're either begging for your life or think all Asian cultures are exactly the same."
 category: K-Culture
@@ -9,6 +10,9 @@ deepDiveOrder: 9
 ---
 
 So, you're standing in the middle of Myeong-dong, you've just bought a legendary street-food egg bread, and you want to thank the vendor. You've seen it in movies—maybe a quick bow with your palms pressed together at your chest, right? **Stop right there.**
+
+For proper greeting gestures in professional settings, see our guide to [Korean business etiquette including bowing](/blog/korean-etiquette-for-business-meetings-business-cards-and-bowing-2026).
+Gestures matter in the workplace too. Read about [Korean work culture for foreigners](/blog/korean-work-culture-office-etiquette-for-foreigners).
 
 **The short answer is: never do the prayer pose in South Korea unless you are literally inside a Buddhist temple.** If you do it on the street, people aren't going to think you're being polite; they're going to think you're confused, or worse, that you're mocking them.
 

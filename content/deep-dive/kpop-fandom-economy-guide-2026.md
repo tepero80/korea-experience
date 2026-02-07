@@ -1,5 +1,6 @@
 ---
 title: "The 2026 Ultimate Guide to the K-pop Fandom Economy: How to Score Limited Goods and Survive the Recommerce Revolution"
+
 date: 2026-02-05
 excerpt: "Scoring limited K-pop goods in 2026 is a high-stakes game of speed, strategy, and logistics. This guide breaks down how to navigate the 8 trillion won market, bypass Korean-only restrictions, and use the latest recommerce tech to build your dream collection."
 category: K-Culture
@@ -9,6 +10,10 @@ deepDiveOrder: 15
 ---
 
 To get the rarest limited goods, you need a multi-platform strategy that combines official apps like Weverse and JYP Fans with secondary re-commerce hubs like Bunjang Global. The days of just hitting "buy" on a website are over; in 2026, you're looking at a mix of "daeri" (proxy) buying, real-time resale monitoring, and navigating new anti-scalping laws that have finally started to cool down the 40x price markups.
+
+Attending a live show? Read our guide to [getting K-Pop concert tickets](/blog/how-to-get-k-pop-concert-tickets-ticketing-guide).
+Ready to shop? Compare your options with our guide to [K-Pop merchandise shopping in Myeongdong vs online](/blog/k-pop-merchandise-shopping-myeongdong-vs-online).
+For rare finds, see our guide to [finding limited-edition K-Pop goods without a fan club membership](/blog/k-fandom-economy-where-to-find-limited-edition-goods-without-a-fan-club-membership).
 
 <KeyTakeaways 
   points={[
