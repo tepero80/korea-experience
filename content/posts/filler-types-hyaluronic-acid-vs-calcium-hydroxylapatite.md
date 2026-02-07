@@ -10,6 +10,8 @@ South Korea has firmly established itself as the global capital of aesthetic med
 
 Understanding the chemical and functional differences between these two injectables is crucial before you step onto a plane. This guide breaks down everything you need to know about these filler types to ensure your medical tourism experience in Korea is safe, effective, and transformative.
 
+For more details, check out our guide on [Laser Treatment in Korea](/blog/laser-treatment-in-korea-types-and-prices).
+
 <KeyTakeaways 
   points={[
     "HA fillers are reversible and hydrate the skin, ideal for first-timers.",

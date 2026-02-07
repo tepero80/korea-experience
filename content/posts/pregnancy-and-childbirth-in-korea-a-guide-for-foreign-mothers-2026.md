@@ -10,7 +10,11 @@ Navigating pregnancy and childbirth in a foreign country can be equal parts exhi
 
 If you are planning to grow your family in the Land of the Morning Calm, you are in for a medical experience that often surpasses what is available in the West, particularly regarding ultrasound frequency and postpartum care. However, the administrative hurdles and cultural nuances require preparation.
 
+For more details, check out our guide on [Buying property in Korea foreign ownership rules guide](/blog/buying-property-in-korea-foreign-ownership-rules).
+
 This comprehensive guide covers everything from the moment you see a positive test result to registering your newborn, tailored specifically for the 2026 landscape.
+
+You might also enjoy our article about [Kiosk survival guide](/blog/foreign-friendly-kiosk-survival-guide-what-to-do-when-your-overseas-credit-card-is-rejected).
 
 <KeyTakeaways 
   points={[
@@ -26,7 +30,11 @@ This comprehensive guide covers everything from the moment you see a positive te
 
 The journey begins with confirmation. Unlike in many Western countries where you might wait until 8 or 10 weeks for a first appointment, in Korea, you can see a doctor immediately.
 
+Learn more in our comprehensive guide to [How to register your foreign address change online and of...](/blog/how-to-register-your-foreign-address-change-online-and-offline-2026).
+
 Most women visit a specialized "Women's Hospital" or a local OBGYN clinic rather than a general hospital for the initial check. These clinics are ubiquitous; in Seoul, you are rarely more than a **15-minute taxi ride** (approx. 4km) from a specialist.
+
+Learn more in our comprehensive guide to [Korean labor laws your rights as a foreign employee](/blog/korean-labor-laws-your-rights-as-a-foreign-employee-2026).
 
 Upon your first visit, usually around **5 to 6 weeks**, the doctor will perform a transvaginal ultrasound to confirm the fetal heartbeat. If confirmed, you will receive a "Pregnancy Confirmation Certificate." This piece of paper is your golden ticket to government benefits.
 

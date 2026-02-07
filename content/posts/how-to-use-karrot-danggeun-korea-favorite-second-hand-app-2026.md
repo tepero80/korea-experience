@@ -26,6 +26,8 @@ Karrot, or *Danggeun Market* (당근마켓), is a hyperlocal community app. The 
 
 In 2026, the app's dominance is absolute. Recent data indicates that 85% of all second-hand peer-to-peer transactions in South Korea occur on Karrot. The average user spends approximately 25 minutes per day on the app, not just shopping, but browsing community boards. This hyperlocal focus creates a safer environment because users must verify their location via GPS once every 30 days to maintain trading privileges.
 
+For more details, check out our guide on [Baemin Without an ARC in 2026](/blog/how-to-use-baemin-without-an-arc-in-2026-pay-at-the-door-methods-and-alternatives).
+
 <StatCard
   title="Karrot Statistics 2026"
   variant="gradient"

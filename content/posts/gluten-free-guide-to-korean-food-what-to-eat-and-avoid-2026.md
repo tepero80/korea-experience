@@ -10,6 +10,8 @@ Navigating the culinary landscape of South Korea can be a daunting task for trav
 
 The primary culprit is not bread or pasta, but rather the fermented sauces—specifically soy sauce (ganjang) and chili paste (gochujang)—which are used in approximately 80% of savory Korean dishes. However, with the right preparation and knowledge, you can still experience the depth of Korean flavors without compromising your health. This guide is designed to be your comprehensive companion for a safe and delicious journey through the peninsula.
 
+You might also enjoy our article about [Gluten free dining in Korea celiac safe options guide](/blog/gluten-free-dining-in-korea-celiac-safe-options).
+
 <KeyTakeaways 
   points={[
     "Soy sauce and Gochujang are the main hidden sources of gluten in Korean cuisine",
@@ -23,6 +25,8 @@ The primary culprit is not bread or pasta, but rather the fermented sauces—spe
 ## Understanding the Korean Gluten Landscape
 
 To successfully eat in Korea, you must understand the ingredients. Unlike Western cuisine, where gluten is often structural (bread, pasta), in Korea, it is foundational. The fermentation starters used for sauces often contain wheat.
+
+For more details, check out our guide on [Korean Seasonal Fish Guide 2026 Best Seafood by Season](/blog/a-guide-to-korean-seasonal-fish-what-to-eat-in-spring-summer-fall-winter-2026).
 
 ### The "Big Three" Hazards
 1.  **Ganjang (Soy Sauce):** Almost all commercial Korean soy sauce contains wheat. It is used in marinades, soups, side dishes, and dipping sauces.
@@ -41,9 +45,13 @@ To successfully eat in Korea, you must understand the ingredients. Unlike Wester
 
 Despite these risks, the market size for gluten-free products in Korea has grown to over 50 billion KRW annually, indicating a slow but steady shift toward inclusivity.
 
+You might also enjoy our article about [Best food apps for English speakers TableCheck vs CatchTable](/blog/best-food-apps-for-english-speakers-tablecheck-vs-catchtable-2026).
+
 ## What to Avoid: The Danger Zone
 
 Before we discuss what you can eat, it is crucial to identify dishes that are almost never safe unless prepared in a dedicated gluten-free kitchen.
+
+Related reading: [Best Korean Convenience Store Food Must Try Items](/blog/best-korean-convenience-store-food-must-try-items-2026).
 
 ### Noodle Dishes
 Avoid **Jajangmyeon** (Black bean noodles), **Kalguksu** (Knife-cut noodles), and **Ramyeon** (Instant noodles). Even noodles made from buckwheat, like **Naengmyeon**, often contain a mix of buckwheat and wheat flour (usually a 70:30 or 50:50 ratio) to maintain texture. A standard bowl of Naengmyeon costs between 12,000 KRW and 16,000 KRW, but the risk of cross-contamination in the boiling water is extremely high.

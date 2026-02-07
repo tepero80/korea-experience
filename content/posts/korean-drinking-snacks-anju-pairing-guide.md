@@ -18,6 +18,14 @@ author: Korea Experience Team
 
 In South Korea, drinking is rarely a solitary act involving just a glass of liquid; it is a culinary event anchored by *Anju*. To truly understand Korean nightlife and dining culture, you must master the art of Anju—a term referring to food consumed specifically with alcohol. Unlike Western pub culture where pretzels or peanuts might suffice, Anju is often a substantial meal, meticulously paired to complement the specific profile of the liquor being served.
 
+For more details, check out our guide on [Korean bar snacks pairing food with drinks guide](/blog/korean-bar-snacks-pairing-food-with-drinks).
+
+Related reading: [Mastering Korean drinking games rules and fun for travelers](/blog/korean-drinking-games-rules-and-fun).
+
+Related reading: [The world of anju best snacks for different types of alcohol](/blog/the-world-of-anju-best-snacks-for-different-types-of-alcohol-2026).
+
+Learn more in our comprehensive guide to [Korean drinking culture Soju Makgeolli and pocha guide](/blog/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026).
+
 For international travelers, navigating a Korean menu can be daunting. With over 600,000 restaurants across the peninsula, understanding which dish matches your drink elevates a simple night out into a cultural immersion. Whether you are sipping green-bottle Soju in a bustling tent bar (Pocha) or enjoying craft Makgeolli in a refined bistro, the right pairing enhances the flavor of both the food and the drink.
 
 <StatCard

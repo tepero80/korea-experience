@@ -8,7 +8,11 @@ author: Korea Experience Team
 
 Navigating South Korea as a vegan or vegetarian has historically been viewed as a culinary obstacle course. For decades, the country was jokingly referred to as a "meat republic," where even vegetable dishes came seasoned with brined shrimp or beef powder. However, the landscape has shifted dramatically. As of early 2026, the vegan market in South Korea has expanded by over 35% annually, driven by health-conscious younger generations and a surge in eco-tourism.
 
+Related reading: [Vegan temple food classes learning from monks in Seoul](/blog/vegan-temple-food-classes-learning-from-monks-in-seoul-2026).
+
 Today, Seoul offers a vibrant mix of Michelin-starred temple cuisine, high-tech plant-based meat startups, and traditional dishes that are naturally plant-forward. Whether you are a strict ethical vegan or a flexitarian traveler, this guide provides the roadmap to eating well in Korea without compromising your dietary principles.
+
+You might also enjoy our article about [Vegetarian and vegan Korean cuisine a complete travel guide](/blog/vegetarian-and-vegan-korean-cuisine).
 
 <KeyTakeaways 
   points={[
@@ -23,6 +27,8 @@ Today, Seoul offers a vibrant mix of Michelin-starred temple cuisine, high-tech 
 ## The Hidden Landscape: Understanding Korean Ingredients
 
 Before you step into a restaurant, it is crucial to understand that Korean cuisine relies heavily on fermentation and seafood-based seasonings. What looks like a simple bowl of tofu stew often contains "invisible" animal products.
+
+You might also enjoy our article about [Best food apps for English speakers TableCheck vs CatchTable](/blog/best-food-apps-for-english-speakers-tablecheck-vs-catchtable-2026).
 
 <InfoBox type="warning" title="The Broth Trap">
   The most common pitfall for vegetarians in Korea is soup bases. Even vegetable stews (Doenjang-jjigae) usually use <strong>Myeolchi-yuksu</strong> (anchovy broth) as a base. Always confirm if the stock is made with plain water (Maeng-mul) or vegetable stock (Chae-su).

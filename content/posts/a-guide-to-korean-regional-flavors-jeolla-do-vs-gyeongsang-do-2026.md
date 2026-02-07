@@ -28,6 +28,8 @@ To understand the food, you must understand the land. The Baekdudaegan mountain 
 
 Jeolla-do, situated in the southwest, is blessed with Korea's widest granaries and mild weather. This abundance led to a culture of excess and artistry. Food here isn't just sustenance; it's a display of prosperity. In 2026, the region still produces over 40% of the nation's rice and distinct salt-fermented seafoods known as *jeotgal*.
 
+For more details, check out our guide on [The evolution of Korean fried chicken new flavors and brands](/blog/the-evolution-of-korean-fried-chicken-new-flavors-and-brands-2026).
+
 In contrast, Gyeongsang-do in the southeast is mountainous and coastal. Historically, food preservation was critical due to warmer temperatures. This necessitated the use of heavy salt and strong spices to prevent spoilage. The result is a cuisine that is unapologetically bold, often described by locals as "salty and spicy."
 
 <StatCard

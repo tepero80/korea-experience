@@ -8,7 +8,11 @@ author: Korea Experience Team
 
 Navigating the immigration system in South Korea can feel like maneuvering through a labyrinth, especially when the goal is as personal and significant as family reunification. Whether you are a foreign resident looking to bring your spouse and children to Seoul, or you have recently married a South Korean national, understanding the specific F-visa requirements is the first step toward a stable life together in the Land of the Morning Calm.
 
+Learn more in our comprehensive guide to [F 6 marriage visa requirements and interview comprehensiv...](/blog/f-6-marriage-visa-requirements-and-interview).
+
 The "Family Reunion" category generally encompasses two major visa types: the **F-6 (Marriage Immigrant)** for those married to Korean nationals, and the **F-3 (Dependent Family)** for spouses and minor children of long-term visa holders (like E-7 or D-8). As of early 2026, the Korea Immigration Service has tightened documentation standards while streamlining digital processing, making accuracy more critical than ever.
+
+Learn more in our comprehensive guide to [Korea Permanent Residency Requirements F 5 Visa Complete ...](/blog/permanent-residency-requirements-f-5-visa).
 
 <KeyTakeaways 
   points={[

@@ -10,7 +10,11 @@ Navigating government bureaucracy is rarely a highlight of living abroad, but in
 
 The NHIS is mandatory for any foreign resident staying in Korea for more than six months. Failure to pay premiums can result in visa extension denials and asset seizure. While the system provides world-class healthcare access—covering approximately 70% of medical bills—accessing your information online requires patience and specific knowledge.
 
+Related reading: [Expat Health Insurance vs National Health in Korea](/blog/insurance-for-expats-health-vs-national-health).
+
 In this guide, we break down exactly how to navigate the 2026 version of the NHIS website and mobile app, ensuring you stay insured, avoid late fees, and access the benefits you are paying for.
+
+Learn more in our comprehensive guide to [Korean health insurance nhis guide for foreigners](/blog/korean-health-insurance-nhis-guide-for-foreigners-2026).
 
 <KeyTakeaways 
   points={[
@@ -26,7 +30,11 @@ In this guide, we break down exactly how to navigate the 2026 version of the NHI
 
 The National Health Insurance Service has undergone a digital transformation. The primary portal (`nhis.or.kr`) acts as the central hub for eligibility checks, premium payments, and health checkup records. In 2026, the user interface is cleaner, but the "English" version of the site still offers only about 15% of the functionality found on the Korean version. To fully manage your account, you must navigate the Korean interface.
 
+For more details, check out our guide on [Korean Healthcare System Guide](/blog/korean-healthcare-system-using-national-health-insurance).
+
 The system now serves over 51 million users, processing terabytes of data daily. For expats, the integration between the NHIS database and the Immigration Office is seamless. If you miss payments, immigration knows instantly.
+
+For more details, check out our guide on [Navigating Korean bureaucracy from ARC to taxes](/blog/dealing-with-korean-bureaucracy-arc-to-taxes).
 
 <StatCard
   title="NHIS Digital Usage 2026"

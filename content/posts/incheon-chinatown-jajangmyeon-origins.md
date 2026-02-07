@@ -10,6 +10,8 @@ Every day, over 7 million bowls of Jajangmyeon are consumed across South Korea, 
 
 Here, amidst the red lanterns and golden architectural accents of Incheon's Jung-gu district, lies the birthplace of Jajangmyeon. This dish tells the story of early immigrants, the opening of the port in 1883, and the evolution of a quick meal for laborers into a national culinary treasure.
 
+Related reading: [Korean Noodle Guide Naengmyeon Jajangmyeon Kalguksu](/blog/korean-noodle-guide-naengmyeon-jajangmyeon-kalguksu).
+
 <KeyTakeaways 
   points={[
     "Jajangmyeon originated in Incheon Chinatown around 1905 at a restaurant named Gonghwachun",
@@ -24,7 +26,11 @@ Here, amidst the red lanterns and golden architectural accents of Incheon's Jung
 
 The history of Jajangmyeon is inextricably linked to the opening of Incheon Port in 1883. Following the establishment of the Qing Consulate, Chinese laborers, known as coolies, and merchants from the Shandong province began to settle in the area. By the early 1900s, the Chinese population in this district had swelled to over 6,000 residents, creating a demand for food that was cheap, nutritious, and quick to eat.
 
+Related reading: [Jeju black pork where to eat on the island](/blog/jeju-black-pork-where-to-eat-on-the-island).
+
 The original Chinese dish, *zhajiangmian* (literally "fried sauce noodles"), was a salty noodle dish served with a bean paste unique to the Shandong region. However, the Korean iteration we know today began to take shape around 1905. Chinese immigrants adapted the recipe to suit Korean palates, adding caramel to the black bean paste (chunjang) to make it sweeter and darker, and incorporating onions and meat to create a more viscous, hearty sauce.
+
+You might also enjoy our article about [Best Korean Ramyeon Guide Top Instant Noodle Brands](/blog/korean-ramyeon-guide-best-instant-noodle-brands-2026).
 
 <StatCard
   title="Jajangmyeon Consumption"

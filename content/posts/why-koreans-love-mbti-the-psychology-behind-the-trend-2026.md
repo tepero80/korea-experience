@@ -26,6 +26,8 @@ To understand the 2026 obsession, we must look at the cultural vacuum it filled.
 
 The MBTI, with its 16 distinct archetypes, offered a higher resolution picture of the self. By early 2026, data suggests that nearly **93% of Koreans aged 18-35** have taken the test, with approximately **60%** able to recite their type instantly upon introduction. This represents a significant shift from ambiguous superstition to a system that feels (even if debated scientifically) more analytical and precise.
 
+Learn more in our comprehensive guide to [Behind the scenes K-Drama production tours 2026 guide](/blog/behind-the-scenes-k-drama-production-tours).
+
 <StatCard
   title="MBTI Adoption Rates 2026"
   variant="gradient"

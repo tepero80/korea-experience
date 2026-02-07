@@ -12,6 +12,8 @@ Often referred to as the "bridge visa," the D-10 allows you to stay in Korea to 
 
 Whether you have just tossed your graduation cap or are months away from finishing your thesis, this guide covers everything you need to know about securing your stay in the Land of the Morning Calm.
 
+For more details, check out our guide on [D 10 Job Seeker Visa Korea 2026 Complete Application Guide](/blog/d-10-job-seeker-visa-korea-complete-guide-2026).
+
 <KeyTakeaways 
   points={[
     "You must score at least 60 points out of a possible 190 on the evaluation scale to qualify",
@@ -32,6 +34,8 @@ There are two primary tracks for this visa:
 
 This guide focuses primarily on the **D-10-1**, which is the most common route for recent graduates.
 
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
+
 <QuickFacts
   title="Visa Snapshot 2026"
   facts={[
@@ -50,6 +54,8 @@ Eligibility is not automatic just because you graduated. The D-10 operates on a 
 
 Most international students will fall under the second category. If you are applying immediately after graduation from a Korean university, the process is slightly more lenient than applying from abroad, but the documentation burden remains high.
 
+You might also enjoy our article about [D visa student visa and part time work rules guide](/blog/d-visa-student-visa-and-part-time-work-rules).
+
 ## The Point System (Jumsu System) Explained
 
 The heart of your application is the Point System. You must score a total of **60 points** or higher. However, it is not just about the total score; there are mandatory baselines you must meet.
@@ -66,6 +72,8 @@ The heart of your application is the Point System. You must score a total of **6
 
 ### 1. Age (Maximum 25 Points)
 Your age is calculated based on your international age at the time of application.
+
+Learn more in our comprehensive guide to [Digital Nomad Visa Korea Requirements and Application](/blog/digital-nomad-visa-korea-requirements-and-application).
 *   **20-29 years:** 25 points (The "Golden Age" for applicants)
 *   **30-34 years:** 20 points
 *   **35-39 years:** 15 points

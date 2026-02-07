@@ -71,7 +71,7 @@ While dinner can get pricey, the lunch set menus featuring the signature Soy Sau
   type="local"
   verified={true}
 >
-  Locals often judge a Gejang restaurant by the saltiness of the soy sauce. Gebang Sikdang is famous because their sauce is surprisingly light?�you can drink a spoonful of it without wincing. Don't leave any rice behind; mixing it into the crab shell is the highlight.
+  Locals often judge a Gejang restaurant by the saltiness of the soy sauce. Gebang Sikdang is famous because their sauce is surprisingly light—you can drink a spoonful of it without wincing. Don't leave any rice behind; mixing it into the crab shell is the highlight.
 </ExpertTip>
 
 ---
@@ -80,7 +80,7 @@ While dinner can get pricey, the lunch set menus featuring the signature Soy Sau
 
 Located in the artistic Hongdae area, Yun Seoul holds a Michelin Star for its audacious approach to noodles and preservation. Chef Kim Do-yun is known for his "ingredient laboratory," where he stores hundreds of ingredients he has dried, fermented, or aged himself.
 
-The restaurant facade is unassuming, but the flavors are explosive. The noodles here are made from organic wheat ground daily on-site. The texture is unlike any pasta or ramen you have tasted?�firm, nutty, and aromatic.
+The restaurant facade is unassuming, but the flavors are explosive. The noodles here are made from organic wheat ground daily on-site. The texture is unlike any pasta or ramen you have tasted—firm, nutty, and aromatic.
 
 ### The Lunch Menu Strategy
 Yun Seoul offers a lunch course that is significantly more accessible than its dinner counterpart. As of early 2026, the refined noodle course lunch hovers around 65,000 KRW (approx $46 USD). It usually consists of 5-6 courses, starting with intricate amuse-bouches featuring their aged ingredients, followed by the main noodle dish, and dessert.

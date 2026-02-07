@@ -10,6 +10,8 @@ For many expatriate families moving to or living in South Korea, the education c
 
 The educational landscape in Korea is famous for its intensity. With students spending an average of 12 to 16 hours a day on academic pursuits, many expat parents—and an increasing number of Korean parents—are seeking balance. Whether you are a digital nomad family on a one-year stay or long-term residents holding F-series visas, navigating the non-traditional education sector requires specific knowledge of legal grey areas, resource allocation, and community building.
 
+Related reading: [Best neighborhoods for expats in Seoul](/blog/best-neighborhoods-for-expats-in-seoul-2026).
+
 <KeyTakeaways 
   points={[
     "Homeschooling remains a legal grey area for Koreans but is generally overlooked for expat children holding foreign passports",
@@ -24,9 +26,15 @@ The educational landscape in Korea is famous for its intensity. With students sp
 
 The most pressing question for any parent considering this path is: "Is it legal?" The answer in 2026 remains nuanced, often described as a "permissive grey area" for foreign nationals.
 
+You might also enjoy our article about [Best weekend getaways for expats to beat city burnout](/blog/best-weekend-getaways-for-expats-to-beat-city-burnout-2026).
+
 Under the Elementary and Secondary Education Act, education is compulsory for Korean nationals from ages 6 to 15 (covering elementary through middle school). Technically, keeping a Korean child out of school is a violation of this law. However, for foreign nationals (children holding non-Korean passports), the South Korean government generally does not enforce compulsory education laws.
 
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
+
 If your child holds dual citizenship (Korean and another nationality), the situation is more complex. The local district office (*Gu-office*) may inquire why a Korean citizen is not enrolled. In 2026, the fine for non-attendance for Korean citizens is technically up to 1 million KRW (approximately $750 USD), though it is rarely enforced if the parents can prove alternative educational arrangements are being made.
+
+For more details, check out our guide on [Home insurance for expats what to cover in Korea](/blog/home-insurance-for-expats-what-to-cover).
 
 <InfoBox type="warning" title="Dual Citizen Warning">
   If your child is a dual citizen, they are treated as a Korean national while inside Korea. To homeschool a dual citizen without harassment from local education boards, some families choose to temporarily suspend their Korean residency notification or apply for a deferment based on "study abroad" if they travel frequently. Always consult an immigration lawyer for your specific case.

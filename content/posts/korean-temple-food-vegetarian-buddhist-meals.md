@@ -10,6 +10,8 @@ Korean temple food has transcended its humble origins within mountain monasterie
 
 Unlike standard Korean BBQ or spicy stews, temple cuisine is entirely vegetarian (often vegan) and omits the "five pungent spices" believed to distract the mind during meditation. It is slow food in its purest form, relying on fermentation, seasonal foraging, and time—sometimes soy sauces aged for over 5 to 10 years. Whether you are seeking a Michelin-starred dining experience in Gangnam or an authentic meal during a temple stay, this guide covers everything you need to know.
 
+For more details, check out our guide on [Korean Temple Food Dining Experience Guide](/blog/korean-temple-food-dining-experience-guide-2026).
+
 <KeyTakeaways 
   points={[
     "Strictly vegetarian cuisine avoiding five specific pungent spices",
@@ -24,7 +26,11 @@ Unlike standard Korean BBQ or spicy stews, temple cuisine is entirely vegetarian
 
 Korean temple food, known locally as *Sachal Eamsik*, is built on the Buddhist philosophy of non-violence and mindfulness. It is not just about what you eat, but how the food is grown, prepared, and consumed. The cuisine dates back to 372 AD when Buddhism was first introduced to the Korean peninsula. Today, approximately 17% of South Korea's population identifies as Buddhist, yet this cuisine is enjoyed by food lovers regardless of religion due to its health benefits and clean flavors.
 
+Related reading: [Vegan and vegetarian guide to Korean food 2026 essential ...](/blog/vegan-and-vegetarian-guide-to-korean-food-2026).
+
 The fundamental principle is that food is medicine for the body and mind. Chefs use natural seasonings like kelp, mushroom powder, and wild sesame seeds rather than artificial enhancers. A typical meal consists of 5 to 7 side dishes (*banchan*), a soup, and rice, totaling around 400-600 calories per standard serving, making it significantly lighter than average restaurant fare.
+
+Related reading: [Vegan temple food classes learning from monks in Seoul](/blog/vegan-temple-food-classes-learning-from-monks-in-seoul-2026).
 
 <QuickFacts
   title="Temple Food Fundamentals"
@@ -38,6 +44,8 @@ The fundamental principle is that food is medicine for the body and mind. Chefs 
 
 ### The Forbidden Five (Oshinchae)
 The most distinct characteristic of temple food is the absence of *Oshinchae*, or the five pungent vegetables. While garlic and onions are the backbone of secular Korean cooking, they are strictly banned in temples.
+
+You might also enjoy our article about [Best food apps for English speakers TableCheck vs CatchTable](/blog/best-food-apps-for-english-speakers-tablecheck-vs-catchtable-2026).
 
 <InfoBox type="note" title="Why No Garlic?">
 Buddhists believe that these five strong spices create excessive heat in the body. If eaten raw, they are said to disturb the temper; if eaten cooked, they are believed to act as an aphrodisiac, disturbing the calm mind required for meditation.

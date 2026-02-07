@@ -10,6 +10,8 @@ Deciding between the electric pulse of the capital and the laid-back coastal vib
 
 In this comprehensive guide, we break down every aspect of your potential budget, from high-rise apartment deposits to the price of a latte in Gangnam versus Haeundae. Whether you are a digital nomad, an English teacher, or a corporate expat, understanding these financial nuances is crucial for planning your move.
 
+For more details, check out our guide on [Living in a goshiwon vs officetel pros cons and costs](/blog/living-in-a-goshiwon-vs-officetel-pros-cons-and-costs-2026).
+
 <KeyTakeaways 
   points={[
     "Busan's housing costs are approximately 30-40% lower than Seoul for comparable quality apartments in 2026.",
@@ -23,6 +25,8 @@ In this comprehensive guide, we break down every aspect of your potential budget
 ## The Housing Market: Rent and Deposits
 
 The single largest differentiator in the cost of living between Seoul and Busan is housing. In 2026, Seoul's real estate market remains one of the most competitive in Asia, driven by high demand in key districts like Gangnam, Mapo, and Yongsan. Conversely, Busan offers a renter's market where your Won stretches significantly further, often affording you ocean views for the price of a semi-basement in the capital.
+
+For more details, check out our guide on [Sending money abroad bank transfer vs wise comparison](/blog/sending-money-abroad-bank-transfer-vs-wise).
 
 ### Understanding the Deposit System
 Before comparing monthly rents, it is essential to address the "Key Money" system. In Korea, you typically pay a large deposit (Bojeung-geum) to lower your monthly rent (Wolse).

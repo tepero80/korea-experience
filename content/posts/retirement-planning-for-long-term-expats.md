@@ -10,7 +10,11 @@ Retiring in South Korea was once considered an anomaly for Western expats. The t
 
 Retirement planning for expats in Korea is a complex puzzle involving visa stability, the National Pension Service (NPS), private annuities, and navigating a unique housing market. Unlike retiring in Southeast Asia, Korea is not a budget destination; it is a premium lifestyle choice that requires strategic financial planning. To retire comfortably in Seoul as a couple, financial experts estimate a necessary monthly income of approximately 3.5 million to 4.5 million KRW, assuming housing is already secured.
 
+For more details, check out our guide on [Best Korea SIM Cards for Long-Term Travelers Beyond Airpo...](/blog/best-korea-sim-cards-for-long-term-travelers-beyond-airport-rentals-and-prepaid-limits).
+
 Whether you are a university professor, a corporate executive, or a business owner, understanding the nuances of the Korean retirement ecosystem is critical to ensuring your golden years are as comfortable as your working ones.
+
+Related reading: [Getting a post paid phone plan without a long term contract](/blog/getting-a-post-paid-phone-plan-without-a-long-term-contract-2026).
 
 <KeyTakeaways 
   points={[
@@ -26,8 +30,12 @@ Whether you are a university professor, a corporate executive, or a business own
 
 Before discussing finances, we must address the most critical hurdle: the visa. You cannot simply "retire" in Korea on a tourist visa or standard work visa. Korea does not currently offer a specific "Retirement Visa" like Thailand or Malaysia. Therefore, long-term expats must secure Permanent Residency (F-5).
 
+Learn more in our comprehensive guide to [Korean pension refund guide 2026 for foreigners and expats](/blog/korean-retirement-system-for-foreigners-national-pension-refunds-2026).
+
 ### The F-5 Permanent Residency Route
 The F-5 visa is the gold standard for retirees. It allows you to stay in Korea indefinitely without a sponsoring employer and gives you access to the local job market if you choose to work part-time.
+
+For more details, check out our guide on [Retiring in Korea Long Term Visa Guide for Seniors](/blog/long-term-tourist-visa-options-for-retirees).
 
 There are several pathways to the F-5, but the most common for long-term residents is the **F-5-10** (for those with a Bachelor's degree who have lived in Korea for 5+ years) or the **F-5-1** (General Permanent Residency).
 

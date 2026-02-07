@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 The shimmering iridescence of mother-of-pearl has captivated Korean artistry for over a millennium. As we step into 2026, the ancient craft of **Najeon Chilgi** (lacquerware inlaid with mother-of-pearl) is experiencing a massive resurgence, fueled by the "New-tro" (New + Retro) trend sweeping through Seoul. For international travelers, making your own mother-of-pearl art is no longer just a museum observation—it is one of the most sought-after hands-on experiences in South Korea.
 
+For more details, check out our guide on [Mastering Korean Paper Art Hanji Crafts Workshops](/blog/korean-paper-art-hanji-crafts-workshops).
+
+Learn more in our comprehensive guide to [Calligraphy classes in Seoul mastering Hangeul art](/blog/calligraphy-classes-in-seoul-learning-the-art-of-hangeul-2026).
+
+Related reading: [Independent cinema guide art house theaters in Seoul](/blog/independent-cinema-guide-art-house-theaters-in-seoul).
+
+Related reading: [Korean Calligraphy Classes Learning Hangeul Art](/blog/korean-calligraphy-classes-learning-hangeul-art).
+
 Unlike mass-produced souvenirs, a Najeon Chilgi workshop allows you to embed a piece of your own soul into a traditional artifact. Whether you are crafting a hand mirror, a jewelry box, or a smartphone grip tok, the process is meditative, culturally immersive, and incredibly rewarding.
 
 <KeyTakeaways 

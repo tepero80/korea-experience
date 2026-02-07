@@ -10,6 +10,8 @@ The global music industry may have pivoted to streaming, but in South Korea, the
 
 At the heart of this phenomenon is the "Poca" (photocard)—a trading card-sized selfie of an idol that has spawned a multi-billion dollar secondary market. Understanding the nuances of versions, pre-order benefits, and lucky draws is essential for anyone looking to immerse themselves in this vibrant aspect of Hallyu culture. Whether you are hunting for a specific member in Myeongdong or navigating the trading apps, this guide covers everything you need to know.
 
+Learn more in our comprehensive guide to [Collecting K-Pop photocards the global market and trading...](/blog/collecting-k-pop-photocards-the-global-market-and-trading-etiquette-2026).
+
 <KeyTakeaways 
   points={[
     "Standard K-Pop albums cost between 15,000 to 25,000 KRW in Korea",
@@ -24,10 +26,16 @@ At the heart of this phenomenon is the "Poca" (photocard)—a trading card-sized
 
 Unlike Western jewel cases, a Korean pop album is often a substantial box set, weighing anywhere from 250 grams to over 1 kilogram depending on the version. When you purchase an album, you are essentially buying a merchandise package that happens to include a CD.
 
+Learn more in our comprehensive guide to [K-Pop fan cafe culture daum vs weverse guide for global fans](/blog/k-pop-fan-cafe-culture-daum-vs-weverse).
+
 Most groups release multiple versions of the same album—typically 2 to 4 standard versions—each with different concepts, photoshoots, and color schemes. In 2025, the average K-Pop album contained at least five distinct types of items.
+
+Related reading: [Best K-Pop concert venues in Seoul ultimate guide](/blog/best-k-pop-concert-venues-in-seoul).
 
 ### Common Inclusions
 The excitement of unboxing comes from the randomization. While the photobook (usually 80 to 120 pages) is fixed per version, almost everything else is random.
+
+Learn more in our comprehensive guide to [Gaming culture visiting lol park and PC bang pro centers](/blog/gaming-culture-visiting-lol-park-and-pc-bang-pro-centers-2026).
 
 *   **Photobook:** High-quality photo spreads matching the album's concept.
 *   **CD-R:** Often designed with unique art.

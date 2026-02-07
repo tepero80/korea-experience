@@ -24,6 +24,8 @@ Unlike generic versions found elsewhere, Namwon Chueotang is a culinary institut
 
 Chueotang translates literally to "Autumn Fish Soup." The mudfish, or loach, is a freshwater fish found in rice paddies and streams. Historically, farmers would catch these fish after the autumn harvest to replenish the energy lost during the grueling farming season. The fish are rich in protein, calcium, and minerals, making them a prized ingredient for physical restoration.
 
+Related reading: [Mastering Korean drinking games rules and fun for travelers](/blog/korean-drinking-games-rules-and-fun).
+
 In Namwon, the preparation is meticulous. The mudfish are boiled until tender and then sieved or ground to remove bones and skins, creating a smooth, creamy base. This sets the Namwon style apart from other regional variations where the fish might be left whole. The broth is then simmered with *siraegi* (dried radish greens), soybean paste, and perilla powder. The result is a soup that tastes nutty, savory, and deeply comforting, with zero "fishy" odor when prepared correctly.
 
 <StatCard
@@ -39,6 +41,8 @@ In Namwon, the preparation is meticulous. The mudfish are boiled until tender an
 ## Why Namwon is the Capital of Mudfish Soup
 
 While you can find Chueotang anywhere in South Korea, Namwon is the undisputed capital. The geography plays a crucial role. Namwon is situated at the foot of Jirisan Mountain, bordered by the Seomjin River. The clean waterways and tributaries historically provided an abundance of high-quality mudfish.
+
+Related reading: [Korean Drinking Snacks Anju Pairing Guide for Travelers](/blog/korean-drinking-snacks-anju-pairing-guide).
 
 Furthermore, the climatic conditions in Namwon are ideal for drying radish greens. The freeze-thaw cycles of the Jirisan foothills create *siraegi* that is soft in texture but rich in fiber. A typical bowl in Namwon contains nearly 200 grams of these vegetables, providing a substantial meal that aids digestion. Currently, the city produces over 60% of the domestically distributed Chueotang products in Korea.
 
@@ -56,6 +60,8 @@ Furthermore, the climatic conditions in Namwon are ideal for drying radish green
 
 It is essential to understand that not all mudfish soups are created equal. Travelers often confuse the different regional styles. If you have tried Chueotang in Seoul or Wonju and found it too spicy or the texture difficult, the Namwon style might change your mind.
 
+You might also enjoy our article about [Korean Soup Culture Guide 2026 Kimchi Jjigae Doenjang Jjigae](/blog/korean-soup-culture-a-guide-to-kimchi-jjigae-doenjang-jjigae-and-more-2026).
+
 Namwon style is defined by the use of *doenjang* (soybean paste) and perilla seed powder, making it milder, nuttier, and thicker. Seoul style usually involves a beef broth base with red chili paste, resembling a spicy mushroom soup. Wonju style often serves the soup in a large communal pot with vegetables and requires boiling at the table, sometimes with whole fish options.
 
 <ComparisonTable
@@ -72,6 +78,8 @@ Namwon style is defined by the use of *doenjang* (soybean paste) and perilla see
 ## Exploring Namwon Chueotang Street
 
 The epicenter of this culinary tradition is "Namwon Chueotang Street" (Namwon Chueotang-geori). Located centrally near the famous Gwanghallu Garden, this area houses over 40 specialized restaurants within a 500-meter radius. As you walk down the street, you will see large tanks of live mudfish outside the establishments, a testament to freshness.
+
+You might also enjoy our article about [Korean Soup Culture Guide Gamjatang Galbitang Seolleongtang](/blog/korean-soup-culture-gamjatang-galbitang-seolleongtang).
 
 Most restaurants here open early, around 8:00 or 9:00 AM, and close by 9:00 PM. The busiest times are lunch hours between 12:00 PM and 1:30 PM, where wait times can range from 15 to 30 minutes at popular spots. The proximity to Gwanghallu Garden makes it a perfect itinerary stop; you can explore the 600-year-old garden and then walk 5 minutes to refuel.
 

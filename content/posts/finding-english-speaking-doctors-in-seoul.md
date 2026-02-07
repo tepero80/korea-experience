@@ -10,6 +10,8 @@ Navigating a healthcare system in a foreign language can be one of the most daun
 
 In 2026, the landscape of medical care for foreigners in Korea has evolved significantly. With over 30 major general hospitals operating dedicated International Healthcare Centers (IHCs) in the capital area alone, the barrier to entry has lowered. However, understanding the difference between a primary clinic, a specialized hospital, and a tertiary university hospital is vital for saving time and money.
 
+You might also enjoy our article about [Finding apartments real estate apps in English in Korea](/blog/finding-apartments-real-estate-apps-in-english).
+
 <KeyTakeaways 
   points={[
     "International Healthcare Centers (IHC) at major hospitals offer guaranteed English service but charge a premium (approx. $50-100 consult fee).",
@@ -24,9 +26,15 @@ In 2026, the landscape of medical care for foreigners in Korea has evolved signi
 
 Before rushing to the nearest hospital, it is essential to understand the tiered system of Korean healthcare. The efficiency here is staggering; the average wait time for a scheduled appointment at a primary clinic is often less than 15 minutes.
 
+You might also enjoy our article about [Mental health support for expats English speaking therapy...](/blog/mental-health-support-for-expats-english-speaking-therapy-in-seoul-2026).
+
 Korea classifies medical institutions into three tiers. Primary care includes local neighborhood clinics (called "Uiwon"). Secondary care covers medium-sized hospitals with specialists. Tertiary care refers to large university hospitals (like Severance or Samsung). 
 
+You might also enjoy our article about [Finding an apartment in Korea complete guide for foreigners](/blog/finding-an-apartment-in-korea-complete-guide-for-foreigners).
+
 If you have Korean National Health Insurance (NHIS), you typically need a referral letter from a primary doctor to visit a tertiary hospital and receive full insurance benefits. Without this letter, you will pay 100% of the medical costs out-of-pocket, which can range from 150,000 KRW to 250,000 KRW ($110-$185 USD) for an initial consultation alone.
+
+Related reading: [Finding community top expat clubs and networking events i...](/blog/finding-community-top-expat-clubs-and-networking-events-in-seoul-2026).
 
 <ExpertTip 
   author="Dr. Sarah Kim"

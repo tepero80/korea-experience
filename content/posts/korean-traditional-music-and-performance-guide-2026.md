@@ -10,6 +10,8 @@ Korean traditional music, or *Gugak*, is the heartbeat of the nation's history, 
 
 With the recent surge in global interest—highlighted by a 40% increase in foreign ticket reservations for traditional performances in late 2025—securing your seat at these cultural spectacles requires more planning than before. From the haunting vibrations of the *Gayageum* to the thunderous beats of *Samulnori*, we will explore where to go, how much to pay, and how to truly appreciate the sound of Korea.
 
+For more details, check out our guide on [Korean Traditional Music Gugak Performance Venues Guide](/blog/korean-traditional-music-gugak-performance-venues).
+
 <KeyTakeaways 
   points={[
     "Book tickets for major venues like NCKTPA at least 3 weeks in advance for 2026 shows",
@@ -24,7 +26,11 @@ With the recent surge in global interest—highlighted by a 40% increase in fore
 
 To appreciate the performance, one must understand the philosophy. *Gugak* literally translates to "national music." Unlike Western music, which often prioritizes harmony and chords, Korean traditional music emphasizes melody and rhythm, specifically the concept of *Han*—a complex emotion of deep sorrow and resentment that transforms into hope.
 
+For more details, check out our guide on [Bonsai and Zen gardens finding peace in Korea traditional...](/blog/bonsai-and-zen-gardens-finding-peace-in-korea-traditional-greenery-2026).
+
 In 2026, the definition of Gugak has expanded. While preservation remains key, venues are increasingly adopting "Neo-Gugak," utilizing projection mapping and surround sound systems. A standard performance now lasts between 70 to 90 minutes, a reduction from the historical multi-hour sessions, catering to modern attention spans while maintaining artistic integrity.
+
+Related reading: [Ultimate Guide to K-Pop Music Show Recordings in Seoul](/blog/how-to-attend-k-pop-music-show-recordings-in-seoul-2026).
 
 <StatCard
   title="Gugak Audience Growth"
@@ -39,6 +45,8 @@ In 2026, the definition of Gugak has expanded. While preservation remains key, v
 ### The Two Pillars: Court Music vs. Folk Music
 
 Korean music is historically divided into two main categories: *Jeongak* (Court Music) and *Minsogak* (Folk Music).
+
+Related reading: [Rainy Seoul Evenings](/blog/how-to-spend-a-rainy-evening-in-seoul-best-lp-bars-and-traditional-makgeolli-houses).
 
 **Jeongak** was enjoyed by the royalty and aristocracy. It is slow, solemn, and highly formalized. The tempo is often incredibly slow, with one beat sometimes lasting up to 3 seconds. This music was designed to cultivate a peaceful mind.
 

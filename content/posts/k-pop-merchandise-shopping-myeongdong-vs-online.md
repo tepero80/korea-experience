@@ -207,7 +207,7 @@ To maximize your K-Pop merchandise hunt, consider these practical tips for both 
     *   **Source:** Buy from reputable stores, not random street vendors for high-value items.
 *   **Payment Methods:** Most larger official stores accept international credit cards. However, smaller independent shops or street stalls might prefer or only accept Korean Won cash. It's always wise to carry a mix of cash and cards. Ensure you notify your bank about your travel plans to avoid card freezes.
 *   **Carrier Bags:** Bring a reusable shopping bag. You'll likely accumulate many items, and plastic bags incur a fee in many Korean stores.
-*   **Shipping from Korea:** If you buy too much to carry, look into international shipping services available in Seoul. The Korean Post Office ( ¿ìÃ¼±¹ - Ucheguk) offers EMS (Express Mail Service) for relatively reliable and fast international shipping. Some stationery stores or convenience stores might also offer basic shipping services.
+*   **Shipping from Korea:** If you buy too much to carry, look into international shipping services available in Seoul. The Korean Post Office ( ìš°ì²´êµ­ - Ucheguk) offers EMS (Express Mail Service) for relatively reliable and fast international shipping. Some stationery stores or convenience stores might also offer basic shipping services.
 
 ### Online Tips: Shipping Costs, Customs Duties, Reputable Sellers, Payment Methods, Pre-Order Timelines
 

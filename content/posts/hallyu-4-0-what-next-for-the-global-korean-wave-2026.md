@@ -24,6 +24,8 @@ For the international traveler, Hallyu is no longer just about watching *Squid G
 
 To navigate the cultural landscape of 2026, it helps to understand how we arrived here. The first wave (1.0) was driven by K-Dramas exporting to Asia. The second (2.0) saw K-Pop break into global markets. The third (3.0) was the OTT (streaming) era, where platforms like Netflix made Korean storytelling ubiquitous.
 
+Learn more in our comprehensive guide to [Collecting K-Pop photocards the global market and trading...](/blog/collecting-k-pop-photocards-the-global-market-and-trading-etiquette-2026).
+
 **Hallyu 4.0** is the "Lifestyle Era." It is the convergence of K-Culture with K-Tech, K-Beauty, and K-Food, creating a holistic ecosystem. In 2026, the South Korean government aims to attract 30 million international tourists, capitalizing on this wave. The focus has shifted to high-value experiences: luxury wellness retreats, VIP K-Pop packages, and long-term "workcations."
 
 <StatCard
@@ -41,6 +43,8 @@ To navigate the cultural landscape of 2026, it helps to understand how we arrive
 In 2026, the K-Pop experience has transcended the concert hall. With the industry recovering fully from the military hiatuses of major 3rd generation groups, agencies have pivoted to creating permanent physical spaces for fans.
 
 Visiting Seoul now often involves a pilgrimage to "entertainment districts." The fan experience has become streamlined. Pop-up stores in Seongsu-dong now average 500+ daily visitors, with wait times managed entirely via mobile apps, eliminating the physical queues of the past.
+
+Learn more in our comprehensive guide to [K-Pop fan cafe culture daum vs weverse guide for global fans](/blog/k-pop-fan-cafe-culture-daum-vs-weverse).
 
 ### The Rise of Immersive Venues
 Agencies have invested heavily in mixed-use complexes. These aren't just office buildings; they are museums, cafes, and hologram concert halls all in one.

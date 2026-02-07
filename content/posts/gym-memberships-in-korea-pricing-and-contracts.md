@@ -41,6 +41,8 @@ Most gyms in Korea fall into three main categories:
 
 When you first walk into a gym, do not expect the price listed on the website (if they even have one) to be the final offer. The Korean gym industry operates heavily on "Event Prices."
 
+Related reading: [Korean labor laws your rights as a foreign employee](/blog/korean-labor-laws-your-rights-as-a-foreign-employee-2026).
+
 ## Decoding Gym Pricing: The "Event" Culture
 
 In Western countries, a gym might have a flat monthly rate of $50. In Korea, the pricing model is designed almost exclusively to lock you into a long-term contract. It is common to see a banner advertising "30,000 KRW per month," but this rate is only valid if you sign up for 12 months upfront.
@@ -58,6 +60,8 @@ If you ask for a single month, you might be quoted 90,000 to 120,000 KRW (approx
 
 ### Payment Methods
 Almost all gyms require the full contract amount to be paid upfront. Monthly direct debits are rare for independent gyms, though some large franchises are beginning to adopt subscription models. If you have a Korean credit card, you can often pay in "installments" (hal-bu) over 3 to 6 months interest-free, which eases the burden of the lump sum.
+
+You might also enjoy our article about [Buying a used car in Korea K Car vs Encar guide](/blog/buying-a-used-car-in-korea-k-car-vs-encar-guide-2026).
 
 <ExpertTip 
   author="Min-su Kim"
@@ -95,6 +99,8 @@ Choosing the right type of facility depends on your budget and your schedule. Th
 
 ### Commercial Chains (SpoAny, Goto, Bodystar)
 These are the most convenient options for expats. Brands like SpoAny have over 90 branches across Korea.
+
+For more details, check out our guide on [Credit cards in Korea which banks accept foreigners 2026 guide](/blog/credit-cards-in-korea-which-banks-accept-foreigners).
 *   **Pros:** Open 24/7 (usually), modern equipment, English-speaking staff are more likely.
 *   **Cons:** Can be extremely crowded during peak hours (7:00 PM – 9:00 PM).
 *   **Average Cost:** 350,000 – 450,000 KRW per year.
@@ -167,6 +173,8 @@ Foreigners can easily sign up for gyms, but you need specific documentation. Whi
 ## Important Gym Etiquette
 
 Korean social rules apply heavily inside the gym. Breaking these rules can lead to awkward confrontations or even membership termination.
+
+For more details, check out our guide on [D 10 Job Seeker Visa Korea 2026 Complete Application Guide](/blog/d-10-job-seeker-visa-korea-complete-guide-2026).
 
 ### 1. The Indoor Shoe Rule
 This is the most critical rule. You **cannot** wear the shoes you wore outside into the gym workout area. You must bring a clean pair of sneakers that have never touched the street. You will change into these in the locker room or entryway.

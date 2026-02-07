@@ -10,6 +10,8 @@ Living in South Korea offers a dynamic lifestyle, from the high-speed KTX trains
 
 For many expats, the barrier to entry feels high due to language differences and complex banking authentication systems. However, as of 2026, regulatory changes and fintech advancements have made accessibility significantly better than it was just five years ago. Whether you are looking to buy shares in global giants like Samsung Electronics or participate in the volatile but exciting biotech sector, this guide covers everything you need to know.
 
+Related reading: [Best Expat Communities Facebook Groups and Forums in Korea](/blog/expat-communities-facebook-groups-and-forums).
+
 <KeyTakeaways 
   points={[
     "Foreign residents can legally invest in Korean stocks with an ARC and local bank account",
@@ -24,9 +26,15 @@ For many expats, the barrier to entry feels high due to language differences and
 
 The South Korean stock market is often classified as an emerging market by MSCI, though it has the infrastructure of a developed nation. The primary index, KOSPI (Korea Composite Stock Price Index), hosts major conglomerates known as "chaebols," while the KOSDAQ hosts technology and small-to-mid-cap enterprises.
 
+Related reading: [Finding community top expat clubs and networking events i...](/blog/finding-community-top-expat-clubs-and-networking-events-in-seoul-2026).
+
 One of the most compelling reasons to invest locally is the ease of asset management. Transferring money out of Korea can be cumbersome. Banks often require documentation for transfers exceeding $5,000 USD per transaction or $50,000 USD per year. By investing KRW directly into Korean brokerages, you avoid the friction of remittance limits and exchange rate fees, which generally hover around 1.75% to 2.5% depending on your bank's spread.
 
+You might also enjoy our article about [How to get a credit card in Korea as an expat](/blog/how-to-get-a-credit-card-in-korea-as-an-expat-2026).
+
 Furthermore, the "Korea Discount"—a phenomenon where Korean companies have lower valuations compared to global peers due to geopolitical risks and governance structures—can offer attractive entry points. For example, the price-to-earnings (P/E) ratio of the KOSPI often fluctuates between 9.0 and 11.0, significantly lower than the S&P 500, which historically averages around 18.0 to 22.0.
+
+Related reading: [Expat Health Insurance vs National Health in Korea](/blog/insurance-for-expats-health-vs-national-health).
 
 <StatCard
   title="Market Overview 2026"

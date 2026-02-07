@@ -10,7 +10,11 @@ Understanding the nightlife in Seoul goes far beyond knowing which club to visit
 
 South Korea consistently ranks among the top nations globally for alcohol consumption per capita, with the average adult consuming roughly 53 bottles of Soju annually. However, drinking here is rarely a solitary act. It is a communal bonding experience known as *hoesik* (company dinners) or general gatherings among friends. The games serve a specific purpose: they break the ice, dismantle social hierarchies, and accelerate the bonding process.
 
+Related reading: [Korean Drinking Snacks Anju Pairing Guide for Travelers](/blog/korean-drinking-snacks-anju-pairing-guide).
+
 Whether you are a solo traveler looking to make friends at a guesthouse or an expat navigating your first office dinner, this guide will transform you from a confused observer into the life of the party.
+
+Learn more in our comprehensive guide to [Korean drinking culture Soju Makgeolli and pocha guide](/blog/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026).
 
 <KeyTakeaways 
   points={[
@@ -26,7 +30,11 @@ Whether you are a solo traveler looking to make friends at a guesthouse or an ex
 
 Before diving into the chaotic fun of the games, you must understand the rigid structure that supports Korean drinking culture. Unlike Western drinking cultures where individual autonomy is key, Korean drinking is collective.
 
+Learn more in our comprehensive guide to [Korean drinking etiquette pouring and toasting guide](/blog/korean-drinking-etiquette-pouring-and-toasting).
+
 The most critical rule involves pouring. You should never pour your own drink. This is considered bad luck. Instead, you must scan the table. If you see a companion’s glass is empty (or less than 20% full), offer to refill it. When someone pours for you, hold your glass with both hands—or support your right wrist with your left hand—as a sign of respect. This applies even if the pourer is younger than you, though the strictness relaxes with close friends.
+
+You might also enjoy our article about [Makgeolli Bars Traditional Rice Wine Culture Guide for Tr...](/blog/makgeolli-bars-traditional-rice-wine-culture).
 
 <InfoBox type="warning" title="The Empty Glass Rule">
 Never leave a glass completely empty unless you want a refill immediately. In Korea, an empty glass is an invitation to pour. If you need a break, leave about 15-20% of the alcohol in your glass.

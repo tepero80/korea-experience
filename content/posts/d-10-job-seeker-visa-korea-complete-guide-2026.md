@@ -10,6 +10,8 @@ Securing a job in South Korea remains a primary goal for many international grad
 
 Whether you are transitioning from a D-2 Student Visa or applying from abroad with previous experience, navigating the D-10 requirements is the critical first step toward your E-7 (Professional Employment) or F-2 (Resident) future. This guide breaks down every document, cost, and strategy you need to secure your stay in the Land of the Morning Calm.
 
+For more details, check out our guide on [D 10 Job Seeker Visa After Graduation in 2026 Guide](/blog/d-10-job-seeker-visa-after-graduation).
+
 <KeyTakeaways 
   points={[
     "You need a minimum of 60 points out of 190 to qualify for the D-10-1 visa",
@@ -24,11 +26,15 @@ Whether you are transitioning from a D-2 Student Visa or applying from abroad wi
 
 The D-10 visa is strictly for individuals engaging in job-seeking activities or paid internships required for finding a job in a field that qualifies for an E-1 through E-7 visa. It is not a work visa; it is a *preparation* visa. In 2026, the scrutiny on "sincere job seeking" has intensified. Immigration officers now require more detailed plans than in previous years.
 
+Learn more in our comprehensive guide to [Digital Nomad Visa Korea Requirements and Application](/blog/digital-nomad-visa-korea-requirements-and-application).
+
 There are two main types of D-10 visas:
 1.  **D-10-1 (General Job Seeker):** For those seeking employment in professional fields.
 2.  **D-10-2 (Technology Startup):** For those preparing to launch a business (linked to the OASIS program).
 
 This guide focuses primarily on the **D-10-1**, which is the most common route for expats.
+
+Learn more in our comprehensive guide to [Alien Registration Card Application Process in Korea](/blog/alien-registration-card-application-process).
 
 <QuickFacts
   title="D-10 Visa Quick Stats"
@@ -43,6 +49,8 @@ This guide focuses primarily on the **D-10-1**, which is the most common route f
 ## The Points-Based Eligibility System
 
 The core of the D-10-1 application is the **Points-Based System**. Introduced to ensure high-quality applicants, you must score a total of **60 points** or higher out of a possible 190 points to be eligible.
+
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
 
 If you are a graduate of a Korean university (D-2 holder) seeking to switch to D-10, you are generally exempt from the strict points calculation *if* you apply immediately after graduation. However, for renewals or those applying from abroad, the points are mandatory.
 

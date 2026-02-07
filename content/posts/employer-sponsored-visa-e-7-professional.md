@@ -10,6 +10,8 @@ Securing a professional career in South Korea is a dream for many, but the burea
 
 Unlike the temporary working holiday visas or the student visas, the E-7 is a pathway to long-term residency and financial stability in the Land of the Morning Calm. However, in 2026, the requirements have become more stringent regarding salary thresholds and company quotas. Whether you are a software engineer eyeing a position in Gangnam or a marketing manager looking at a startup in Seongsu-dong, understanding the nuances of this visa is critical for your success.
 
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
+
 <KeyTakeaways 
   points={[
     "The E-7 visa covers 87 specific job codes, requiring a match between your degree and the role",
@@ -24,7 +26,11 @@ Unlike the temporary working holiday visas or the student visas, the E-7 is a pa
 
 The E-7 visa is officially known as the "Specific Activity" visa. It is designed to allow Korean companies to hire foreign experts when a suitable Korean candidate cannot be found. This visa is strictly tied to your employer; if you quit your job, your visa is effectively cancelled unless you find a new employer within a specific timeframe or switch to a job-seeking visa (D-10).
 
+For more details, check out our guide on [D 10 Job Seeker Visa After Graduation in 2026 Guide](/blog/d-10-job-seeker-visa-after-graduation).
+
 The Ministry of Justice categorizes the E-7 visa into four main types based on the skill level of the occupation. As of January 2026, there are exactly **87 allowed occupations**. If your job description does not fall neatly into one of these codes, your application will almost certainly be rejected.
+
+For more details, check out our guide on [D 10 Job Seeker Visa Korea 2026 Complete Application Guide](/blog/d-10-job-seeker-visa-korea-complete-guide-2026).
 
 <StatCard
   title="E-7 Visa Categories"
@@ -40,6 +46,8 @@ The Ministry of Justice categorizes the E-7 visa into four main types based on t
 
 ### The Importance of the Job Code
 The most common category for our readers is **E-7-1 (Professional)**. This includes roles like Overseas Sales Manager, Translator, Software Developer, and Designer. It is vital to note that the Immigration Office reviews your university transcript to ensure a direct correlation between your major and the job code you are applying for. For example, a History major applying for a Software Engineering E-7 visa will face immediate scrutiny unless they have significant, documented work experience in coding (usually **5 years** or more).
+
+You might also enjoy our article about [D visa student visa and part time work rules guide](/blog/d-visa-student-visa-and-part-time-work-rules).
 
 ## Eligibility Criteria: Do You Qualify?
 

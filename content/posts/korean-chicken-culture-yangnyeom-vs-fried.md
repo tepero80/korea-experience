@@ -24,15 +24,21 @@ This rivalry—often jokingly referred to as the greatest civil war in Korean cu
 
 To understand the Korean chicken culture Yangnyeom vs Fried rivalry, you must first understand that Korean fried chicken differs significantly from its American counterpart. The secret lies in the frying technique. Korean chicken is typically fried twice. The first fry renders out the fat from the skin, while the second fry creates the signature "shatteringly crisp" crust that stays crunchy even when coated in sauce.
 
+Learn more in our comprehensive guide to [Best Korean fried chicken places in Seoul 2026 guide](/blog/best-korean-fried-chicken-places-in-seoul-2026).
+
 ### The Purist's Choice: Original Fried
 Original Fried chicken is the baseline by which all chicken joints are judged. It features a thin, almost translucent batter that relies on the quality of the oil and the freshness of the chicken (usually smaller birds, sized 10, roughly 1.0kg, to ensure tender meat).
 
 The flavor profile is savory, slightly salty, and heavily reliant on the "crunch factor." Without the masking agent of a sauce, any imperfections in the oil or the meat are immediately apparent. A standard order of Original Fried contains approximately 1,800 to 2,000 calories per whole chicken and is best enjoyed with a pinch of salt and pepper mixed with sesame seeds, usually provided on the side.
 
+For more details, check out our guide on [The evolution of Korean fried chicken new flavors and brands](/blog/the-evolution-of-korean-fried-chicken-new-flavors-and-brands-2026).
+
 ### The Flavor Bomb: Yangnyeom Chicken
 "Yangnyeom" translates to "seasoned." Invented in the early 1980s to mask the slightly gamey smell of chicken and to appeal to Korean palates that crave bold flavors, this variation is coated in a sticky, red sauce made from gochujang (chili paste), ketchup, garlic, sugar, and various aromatics.
 
 Despite its red appearance, traditional Yangnyeom is rarely aggressively spicy; it leans more toward sweet and tangy. The coating process usually adds about 300 to 500 calories to the bird, bringing a whole Yangnyeom chicken to roughly 2,200 to 2,500 calories. The magic of Yangnyeom is that, thanks to the double-frying method, the crust retains some texture despite being drenched in sauce.
+
+You might also enjoy our article about [Chuncheon Dakgalbi Street Guide South Korea Spicy Chicken...](/blog/chuncheon-dakgalbi-street-food-district).
 
 <ProsCons
   title="Fried vs. Yangnyeom Breakdown"
@@ -56,6 +62,8 @@ Despite its red appearance, traditional Yangnyeom is rarely aggressively spicy; 
 The evolution of Korean chicken culture is a timeline of rapid industrialization and cultural adaptation. While fried chicken existed in various forms, the modern iteration traces its roots to the post-Korean War era and the stationing of US troops. However, the commercial explosion truly began in the late 1970s.
 
 The first franchise, Lims Chicken, opened in 1977 in the Shinsegae Department Store basement, marking the beginning of the "Fried" era. However, the true turning point in the Korean chicken culture Yangnyeom vs Fried narrative occurred in 1982. Yoon Jong-gye, the founder of Pelicana Chicken, noticed that customers often struggled with the greasy aftertaste of pure fried chicken. He experimented with kimchi-based marinades before settling on the now-iconic gochujang and ketchup blend.
+
+Learn more in our comprehensive guide to [Daegu Makchang guide the ultimate grilled intestines expe...](/blog/daegu-makchang-grilled-intestines-culture).
 
 <Timeline
   title="The Evolution of K-Chicken"

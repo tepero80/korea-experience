@@ -10,6 +10,8 @@ Welcome to Seoul, the beating heart of the Hallyu wave and the home ground of th
 
 For international fans, a pilgrimage to Seoul isn't just a vacation; it's a journey through the history of seven boys who started in a cramped garage and ended up conquering the world. This guide is your definitive 2026 roadmap, curated to maximize your time, budget, and emotional connection to the band.
 
+Learn more in our comprehensive guide to [K-Drama Filming Locations You Can Actually Visit](/blog/k-drama-filming-locations-you-can-actually-visit).
+
 <KeyTakeaways 
   points={[
     "HYBE Insight now requires booking 3 weeks in advance for 2026 slots",
@@ -24,7 +26,11 @@ For international fans, a pilgrimage to Seoul isn't just a vacation; it's a jour
 
 The towering skyscraper in Yongsan is the physical manifestation of BTS's success. While the actual office floors are strictly off-limits, the surrounding area and the HYBE Insight museum (relocated and revamped for 2026) are mandatory stops.
 
+Learn more in our comprehensive guide to [K-Drama locations tour guide from Itaewon class to squid ...](/blog/k-drama-locations-tour-itaewon-class-to-squid-game-2026).
+
 Located just 600 meters from Sinyongsan Station, this 19-story building dominates the skyline. In 2026, the fan culture around the building has become more organized.
+
+Learn more in our comprehensive guide to [2026 Red Horse Year Exhibitions and Spiritual Spots Guide](/blog/2026-year-of-the-red-horse-special-exhibitions-and-spiritual-spots-to-visit-for-luck).
 
 <LocationCard
   name="HYBE Headquarters & Insight"
@@ -42,6 +48,8 @@ Located just 600 meters from Sinyongsan Station, this 19-story building dominate
 
 ### The 2026 HYBE Insight Experience
 The museum experience has been upgraded. It now features an immersive AR journey through the "Golden" and "Indigo" eras. Tickets are priced at roughly 35,000 KRW ($26 USD) per person. The tour lasts approximately 90 to 120 minutes.
+
+Related reading: [BLACKPINK in Seoul fan tour guide 2026 for BLINKs](/blog/blackpink-in-seoul-fan-tour-guide-2026).
 
 <InfoBox type="warning" title="Booking Alert">
   Tickets for HYBE Insight open on the 1st of every month for the following month. In 2026, slots sell out within 15 minutes. Ensure you have the Global Interpark app installed and your payment method verified beforehand.

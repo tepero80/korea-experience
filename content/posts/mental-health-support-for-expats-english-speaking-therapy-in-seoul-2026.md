@@ -24,6 +24,8 @@ Finding the right support system is crucial for your longevity and happiness on 
 
 The conversation around mental health in South Korea has shifted dramatically over the last five years. In 2026, the stigma previously associated with seeking help is diminishing, particularly among the younger generation and in international hubs like Seoul. However, the system can still be confusing for newcomers.
 
+You might also enjoy our article about [Korea mental health resources guide dealing with loneliness](/blog/dealing-with-loneliness-mental-health-resources).
+
 The most important distinction to understand is the difference between a Psychiatrist (medical doctor) and a Counselor/Psychologist. In Korea, only Psychiatrists at hospitals or clinics can prescribe medication. Counseling centers generally focus on talk therapy and cannot write prescriptions.
 
 <StatCard
@@ -38,12 +40,16 @@ The most important distinction to understand is the difference between a Psychia
 
 Navigating this distinction is vital for your budget. A visit to a psychiatrist is considered a medical treatment and is covered by National Health Insurance (NHI), usually costing under 20,000 KRW ($15 USD) for a consultation and medication. In contrast, counseling is often considered a private service, with costs exceeding 150,000 KRW ($110 USD) per hour.
 
+Learn more in our comprehensive guide to [Finding English speaking doctors in Seoul the complete guide](/blog/finding-english-speaking-doctors-in-seoul).
+
 ## Top English-Speaking Counseling Centers in Seoul
 
 If you are looking for talk therapy, CBT (Cognitive Behavioral Therapy), or marriage counseling, private centers are your best option. These centers employ licensed professionals, many of whom were trained in the US, UK, or Australia, ensuring cultural fluency alongside language proficiency.
 
 ### 1. Adaptation Service (AHS)
 Located in the heart of Seoul, AHS has long been a gold standard for expat therapy. They specialize in adjustment issues, depression, and anxiety specifically within the expat context.
+
+Related reading: [Expat Health Insurance vs National Health in Korea](/blog/insurance-for-expats-health-vs-national-health).
 
 <LocationCard
   name="Adaptation Service (AHS)"
@@ -63,6 +69,8 @@ AHS typically charges between 180,000 KRW and 220,000 KRW per 50-minute session.
 
 ### 2. Seoul Counseling Center
 This center offers a wide range of therapists with varying price points depending on their level of experience. It is a favorite among English teachers and corporate expats due to its flexible scheduling and bilingual staff.
+
+Related reading: [Best neighborhoods for expats in Seoul](/blog/best-neighborhoods-for-expats-in-seoul-2026).
 
 <QuickFacts
   title="Seoul Counseling Center Details"

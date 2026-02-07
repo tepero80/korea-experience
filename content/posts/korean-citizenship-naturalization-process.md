@@ -10,6 +10,8 @@ Becoming a citizen of South Korea is a transformative milestone for long-term re
 
 As of 2026, the Ministry of Justice continues to uphold strict standards for naturalization to ensure that new citizens possess a strong understanding of Korean culture, language, and legal systems. Whether you are a long-term expat, married to a Korean national, or a professional with exceptional talent, navigating this process requires patience and precision.
 
+Related reading: [Korean Driving License Conversion Process Guide for Expats](/blog/korean-driving-license-conversion-process).
+
 <KeyTakeaways 
   points={[
     "General Naturalization requires 5 consecutive years of residency",
@@ -24,7 +26,11 @@ As of 2026, the Ministry of Justice continues to uphold strict standards for nat
 
 Before gathering documents, you must identify which naturalization category applies to your situation. The South Korean government divides naturalization into three distinct tracks, each with different residency and documentation requirements.
 
+Learn more in our comprehensive guide to [Alien Registration Card Application Process in Korea](/blog/alien-registration-card-application-process).
+
 The vast majority of international residents without family ties to Korea will fall under **General Naturalization**. This path is the most common but also the most demanding regarding residency duration.
+
+Related reading: [Best neighborhoods for expats in Seoul](/blog/best-neighborhoods-for-expats-in-seoul-2026).
 
 <ComparisonTable
   title="Naturalization Categories at a Glance"
@@ -39,6 +45,8 @@ The vast majority of international residents without family ties to Korea will f
 
 ### 1. General Naturalization (Ilban Gwithwa)
 This category is for foreigners who have lived in Korea for more than **5 consecutive years**. You must hold a valid alien registration status throughout this period. It is the standard route for holders of E-7 (Special Occupation) or F-2 (Resident) visas who wish to upgrade to full citizenship rather than just permanent residency (F-5).
+
+You might also enjoy our article about [Best weekend getaways for expats to beat city burnout](/blog/best-weekend-getaways-for-expats-to-beat-city-burnout-2026).
 
 ### 2. Simple Naturalization (Gani Gwithwa)
 This path is expedited for individuals with ties to Korea. It applies primarily to:

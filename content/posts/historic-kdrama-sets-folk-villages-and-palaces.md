@@ -24,6 +24,8 @@ Whether you are chasing the zombie-ridden trails of *Kingdom* or the romantic co
 
 When discussing historic Kdrama sets folk villages and palaces, one must start with the "Big Five" palaces of Seoul. Unlike artificial sets, these are authentic historical sites dating back to the late 14th century. They serve as the primary filming grounds for productions requiring genuine architectural grandeur.
 
+For more details, check out our guide on [Korean street art guide hidden alleys to mural villages](/blog/korean-street-art-and-graffiti-culture).
+
 ### Gyeongbokgung Palace
 
 Built in 1395, Gyeongbokgung is the largest and most iconic of the Five Grand Palaces. It has served as the backdrop for massive hits like *Kingdom*, *Goblin*, and *The Moon Embracing the Sun*. The sheer scale of the compound, covering roughly 40 hectares (approx. 100 acres), allows production crews to film wide-angle shots that convey imperial power.

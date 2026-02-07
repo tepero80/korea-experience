@@ -10,6 +10,8 @@ South Korea’s cinema industry has exploded onto the global stage, transforming
 
 Whether you are hoping to catch a glimpse of the cast of "Squid Game" or see the directors who are reshaping global cinema, this guide provides a comprehensive roadmap. From the coastal glamour of the Busan International Film Festival (BIFF) to the high-stakes exclusivity of the Blue Dragon Film Awards in Seoul, we break down exactly how a tourist can participate in these prestigious events.
 
+Related reading: [K-Pop music shows attending inkigayo and music bank](/blog/k-pop-music-shows-attending-inkigayo-and-music-bank).
+
 <KeyTakeaways 
   points={[
     "The Busan International Film Festival (BIFF) is the most tourist-friendly event, offering over 300 screenings and public outdoor events in October.",
@@ -24,14 +26,20 @@ Whether you are hoping to catch a glimpse of the cast of "Squid Game" or see the
 
 Before booking your flight, it is crucial to understand the hierarchy of Korean film events. The industry revolves around three major pillars, each with a distinct vibe and accessibility level for foreigners. The South Korean film market, valued at approximately 1.2 trillion KRW annually, pours significant resources into these galas.
 
+For more details, check out our guide on [Korean Esports Guide Live Gaming Tournaments in Seoul](/blog/korean-esports-attending-live-gaming-tournaments).
+
 ### 1. Busan International Film Festival (BIFF)
 Held annually in early to mid-October, this is the largest film festival in Asia. It is less of a single awards show and more of a 10-day celebration.
+
+For more details, check out our guide on [Korean fashion weeks attending as a visitor](/blog/korean-fashion-weeks-attending-as-a-visitor).
 *   **Accessibility:** High. Tickets are allocated specifically for on-site purchase, and many events are open to the public.
 *   **Location:** Busan (Centum City & Haeundae).
 *   **Best For:** Cinephiles who want to see films, not just celebrities.
 
 ### 2. The Blue Dragon Film Awards
 Usually held in late November, this is often considered the most prestigious "critics' choice" award.
+
+You might also enjoy our article about [Korean film festivals calendar for international visitors](/blog/korean-film-festivals-calendar-for-international-visitors).
 *   **Accessibility:** Low. It is an invite-heavy industry event.
 *   **Location:** Seoul (often KBS Hall in Yeouido).
 *   **Best For:** Seeing the absolute A-list elite of Chungmuro (Korea's Hollywood).

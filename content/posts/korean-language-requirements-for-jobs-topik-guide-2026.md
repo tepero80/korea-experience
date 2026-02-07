@@ -10,6 +10,8 @@ Finding employment in South Korea has evolved significantly over the last decade
 
 The Test of Proficiency in Korean (TOPIK) remains the gold standard for measuring these skills. However, 2026 brings major updates to testing formats, scoring weights, and industry expectations. This guide cuts through the noise to provide you with the exact data, strategies, and requirements you need to navigate the Korean job market this year.
 
+Learn more in our comprehensive guide to [Digital Nomad Visa Korea Requirements and Application](/blog/digital-nomad-visa-korea-requirements-and-application).
+
 <KeyTakeaways 
   points={[
     "TOPIK II (Level 3+) is now the baseline for 70% of non-teaching professional visas",
@@ -24,7 +26,11 @@ The Test of Proficiency in Korean (TOPIK) remains the gold standard for measurin
 
 In the past, "conversational Korean" listed on a resume might have sufficed. Today, Immigration and HR departments rely almost exclusively on standardized test scores. The TOPIK exam is administered by the National Institute for International Education (NIIED) and serves two primary functions: qualifying for visa points and verifying ability for employers.
 
+Learn more in our comprehensive guide to [F 2 resident visa Korea requirements and process](/blog/f-2-resident-visa-korea-requirements-and-process-2026).
+
 As of January 2026, the exam fee for TOPIK I is 40,000 KRW (approx. $30 USD), while TOPIK II costs 55,000 KRW (approx. $42 USD). The certification is valid for exactly two years from the result announcement date, meaning long-term residents must recertify periodically.
+
+Learn more in our comprehensive guide to [F 6 marriage visa requirements and interview comprehensiv...](/blog/f-6-marriage-visa-requirements-and-interview).
 
 <StatCard
   title="2026 Applicant Statistics"
@@ -39,6 +45,8 @@ As of January 2026, the exam fee for TOPIK I is 40,000 KRW (approx. $30 USD), wh
 ### Understanding the Levels: I vs. II
 
 The exam is split into two distinct tiers. Understanding which one targets your employment goals is critical to saving time and money.
+
+Learn more in our comprehensive guide to [F Visa Family Reunion Requirements Guide for](/blog/f-visa-family-reunion-requirements).
 
 **TOPIK I (Beginner)**
 *   **Levels:** 1 and 2

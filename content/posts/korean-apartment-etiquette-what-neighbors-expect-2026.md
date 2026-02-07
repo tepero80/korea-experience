@@ -10,6 +10,8 @@ Living in a Korean apartment complex (known locally as "apateu") is a distinct c
 
 Unlike housing in many Western countries, Korean apartments are high-density vertical villages where sound travels easily and community rules are strictly enforced. Understanding the nuances of "Cheunggan-soeum" (inter-floor noise) and the meticulous "Jongnyangje" (volume-based waste disposal system) isn't just about following laws—it is about showing respect to the people living 20 centimeters above and below you.
 
+You might also enjoy our article about [Finding an apartment in Korea complete guide for foreigners](/blog/finding-an-apartment-in-korea-complete-guide-for-foreigners).
+
 <KeyTakeaways 
   points={[
     "Floor noise is the #1 cause of neighbor disputes; walking softly is mandatory",
@@ -24,7 +26,11 @@ Unlike housing in many Western countries, Korean apartments are high-density ver
 
 The single most significant source of conflict in Korean apartment buildings is inter-floor noise. In 2025 alone, the Ministry of Environment reported over 212,000 official complaints regarding residential noise. The construction style of many Korean apartments involves concrete slabs that transmit impact sounds—like footsteps or dropping items—remarkably well.
 
+You might also enjoy our article about [Korean Business Etiquette 2026 Guide to Cards and Bowing](/blog/korean-etiquette-for-business-meetings-business-cards-and-bowing-2026).
+
 To combat this, the government has set strict legal limits. As of 2026, the direct impact noise limit is 39 decibels (dB) during the day and 34 dB at night. To put this in perspective, a quiet library registers around 40 dB. Surpassing these levels can lead to mediation by the Noise Dispute Arbitration Center or civil lawsuits.
+
+You might also enjoy our article about [Korean work culture office etiquette for foreigners maste...](/blog/korean-work-culture-office-etiquette-for-foreigners).
 
 <StatCard
   title="Noise Complaint Statistics"

@@ -10,6 +10,8 @@ South Korea has long been considered one of the most challenging destinations fo
 
 While navigating the food scene requires vigilance, it is entirely possible to enjoy the rich flavors of Korea without compromising your health. This comprehensive guide will walk you through safe dining strategies, vetted restaurants, and practical tips for survival in a wheat-heavy culture.
 
+For more details, check out our guide on [Gluten Free Guide to Korean Food What to Eat and Avoid](/blog/gluten-free-guide-to-korean-food-what-to-eat-and-avoid-2026).
+
 <KeyTakeaways 
   points={[
     "Traditional Korean soy sauce almost always contains wheat; assume all marinades are unsafe unless specified.",
@@ -24,13 +26,19 @@ While navigating the food scene requires vigilance, it is entirely possible to e
 
 To eat safely, you must understand the enemy. In Western cooking, wheat is often obvious (bread, pasta). In Korean cuisine, it is invisible. The primary culprit is the fermentation process.
 
+Related reading: [Affordable Fine Dining 5 Michelin-Starred Lunch Menus in ...](/blog/affordable-fine-dining-5-michelin-starred-lunch-menus-in-seoul-for-under-50).
+
 ### The "Jang" Trinity
 The backbone of Korean flavor profiles consists of three pastes/sauces:
+
+For more details, check out our guide on [Best spots for solo dining hon-bap in busy districts](/blog/best-spots-for-solo-dining-hon-bap-in-busy-districts-2026).
 1.  **Ganjang (Soy Sauce):** Commercial Korean soy sauce typically contains about 20-30% wheat.
 2.  **Gochujang (Red Chili Paste):** Wheat flour or barley malt is used as a thickener and fermentation agent.
 3.  **Doenjang (Soybean Paste):** While traditionally gluten-free, factory-made versions often include wheat flour to speed up production.
 
 Because these ingredients are used in soups, side dishes (*Banchan*), and meat marinades, cross-contamination is the highest risk factor. A study conducted in late 2025 showed that over 85% of restaurant-served *Kimchi* in Seoul contained trace amounts of wheat-based thickeners or was prepared in facilities processing noodles.
+
+Related reading: [Group dining best places for large parties in Seoul](/blog/group-dining-best-places-for-large-parties).
 
 <InfoBox type="warning" title="The Barley Tea Trap">
   Water is often served free in Korean restaurants, but it is frequently *Boricha* (Barley Tea). It looks like water or weak tea but contains gluten. Always ask for "Saeng-su" (plain bottled water) or check if the water is clear before drinking.

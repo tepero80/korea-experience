@@ -10,7 +10,11 @@ Moving to South Korea is an exciting adventure, but navigating the bureaucratic 
 
 Traditionally, the "Big Three" carriers—SK Telecom, KT, and LG U+—dominated the market, often requiring strict 24-month contracts with hefty cancellation fees. For digital nomads, students on semester exchanges, or expats on one-year contracts, these long-term commitments were a significant pain point. Fortunately, the landscape has shifted dramatically. The rise of "Alteul" phones (MVNOs) has democratized access to mobile data, offering flexible, post-paid plans without the dreaded long-term handcuffs.
 
+For more details, check out our guide on [Best Korea SIM Cards for Long-Term Travelers Beyond Airpo...](/blog/best-korea-sim-cards-for-long-term-travelers-beyond-airport-rentals-and-prepaid-limits).
+
 In this comprehensive guide, we will walk you through exactly how to secure a post-paid phone plan without a contract in 2026, ensuring you get the vital "identity verification" capability without signing your life away for two years.
+
+For more details, check out our guide on [Retiring in Korea Long Term Visa Guide for Seniors](/blog/long-term-tourist-visa-options-for-retirees).
 
 <KeyTakeaways 
   points={[
@@ -26,7 +30,11 @@ In this comprehensive guide, we will walk you through exactly how to secure a po
 
 Before diving into *how* to get a plan, it is crucial to understand *why* you need a specific type of plan. In Korea, there is a massive distinction between a "Pre-paid SIM" (often sold at the airport to tourists) and a "Post-paid Plan" (registered to your identity).
 
+You might also enjoy our article about [Retirement planning for long term expats in south Korea](/blog/retirement-planning-for-long-term-expats).
+
 The "Post-paid" status allows for **Online Identity Verification** (Bonin-injeung). Approximately 95% of Korean online services—from setting up a KakaoBank account to ordering groceries on Coupang or buying KTX tickets—require this verification. If you rely solely on a tourist pre-paid SIM, you are digitally invisible.
+
+You might also enjoy our article about [Getting a Korean driver license as a foreigner](/blog/getting-a-korean-driver-license-as-a-foreigner-2026).
 
 <ExpertTip 
   author="Sarah Jenkins"

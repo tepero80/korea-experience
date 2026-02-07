@@ -24,6 +24,8 @@ As we move through 2026, the culture of Somaek has evolved. While the classic "g
 
 Somaek is a cocktail consisting of two simple ingredients: Soju and light lager beer. The magic, however, lies in the alchemy. Soju on its own, typically around 16.5% to 17% ABV (Alcohol By Volume) in 2026, can be harsh for the uninitiated. Korean mass-market beer, often criticized for being watery, usually sits at 4.5% ABV.
 
+Related reading: [Korean Craft Beer Scene Microbreweries Guide for](/blog/korean-craft-beer-scene-microbreweries).
+
 When combined, the sweetness of the soju cuts the bitterness of the hops, while the carbonation of the beer masks the chemical bite of the spirits. The result is a dangerously drinkable concoction that usually hovers around 7% to 9% ABV—strong enough to induce a buzz quickly, but smooth enough to drink in rapid succession.
 
 <StatCard
@@ -38,12 +40,16 @@ When combined, the sweetness of the soju cuts the bitterness of the hops, while 
 
 According to 2026 industry data, nearly 72% of company dinners (*hweshik*) involve Somaek as the starting beverage. It serves a specific purpose: to accelerate the collective intoxication of the group, thereby breaking down hierarchical barriers faster than beer or soju could achieve individually.
 
+Learn more in our comprehensive guide to [Korean drinking culture Soju Makgeolli and pocha guide](/blog/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026).
+
 ## The Hardware: Choosing Your Ingredients
 
 To create the perfect Somaek, you cannot simply grab any spirit and any ale. The chemistry relies on specific flavor profiles. In 2026, the landscape of available brands has expanded, but the classics remain king for a reason.
 
 ### The Soju
 You want a "diluted" soju (green bottle). Premium distilled sojus (like Hwayo or Won Soju) are generally too flavorful and expensive for mixing.
+
+Learn more in our comprehensive guide to [Top Romantic Restaurants in Seoul for Perfect Date Nights](/blog/romantic-date-night-restaurants).
 *   **Chamisul Fresh:** The standard. Clean, slightly sweet, and ubiquitous. (16.5% ABV)
 *   **Jinro Is Back:** A retro-style soju with a smoother, zero-sugar finish that has dominated the market since 2024. (16% ABV)
 *   **Chum Churum:** Known for being made with alkaline water, offering a softer mouthfeel. (16.5% ABV)
@@ -65,6 +71,8 @@ You need a high-carbonation, light American-style adjunct lager. Heavy IPAs or S
 />
 
 In a typical convenience store (CU or GS25), a 360ml bottle of Soju costs approximately 1,900 KRW ($1.40), while a 500ml can of beer costs about 2,800 KRW ($2.10). However, in restaurants, these prices jump significantly.
+
+For more details, check out our guide on [Soju brands comparison taste and alcohol content guide](/blog/soju-brands-comparison-taste-and-alcohol-content).
 
 ## The Golden Ratio: The Science of the Mix
 

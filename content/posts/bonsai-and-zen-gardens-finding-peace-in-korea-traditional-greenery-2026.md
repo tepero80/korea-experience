@@ -10,6 +10,8 @@ In the hyper-modern landscape of 2026 Korea, where digital connectivity dominate
 
 Korean gardening culture differs significantly from its neighbors. Unlike the highly stylized and controlled aesthetic of Japanese gardens, or the grand, imposing scale of Chinese landscaping, Korean traditional gardens emphasize "borrowing from nature." The goal is not to force nature into a shape, but to create a space where humanity and nature coexist seamlessly. Whether you are a horticulture enthusiast or simply seeking a quiet corner to meditate, this guide explores the best spots for *Bunjae* and traditional gardens across the peninsula.
 
+Related reading: [Rainy Seoul Evenings](/blog/how-to-spend-a-rainy-evening-in-seoul-best-lp-bars-and-traditional-makgeolli-houses).
+
 <KeyTakeaways 
   points={[
     "Korea's version of Bonsai is called Bunjae, emphasizing rugged, natural stems over stylized perfection.",
@@ -24,7 +26,11 @@ Korean gardening culture differs significantly from its neighbors. Unlike the hi
 
 To appreciate the greenery you will encounter in 2026, it is crucial to understand the terminology. While international travelers search for "Bonsai," in Korea, you are looking for *Bunjae*. The art form dates back to the Goryeo Dynasty (918–1392), with records showing miniature landscapes being cultivated well before the widespread popularization of the term Bonsai in the West.
 
+Related reading: [Korean Traditional Architecture Palace Tour Guide and Tips](/blog/korean-traditional-architecture-palace-tour-guide).
+
 The philosophy of *Bunjae* focuses on the "aesthetic of waiting." A typical high-quality *Bunjae* specimen in Korea is often between 30 to 100 years old, with some masterworks exceeding 300 years in age. The visual difference lies in the trunk. While Japanese Bonsai often seeks an idealized, triangular perfection, Korean *Bunjae* prizes the *Gok* (curve) and *Yeobaek* (empty space), mimicking trees that have survived harsh winds on a cliff edge.
+
+Learn more in our comprehensive guide to [Korean traditional music and performance guide](/blog/korean-traditional-music-and-performance-guide-2026).
 
 <ComparisonTable
   title="Garden Philosophy Comparison"
@@ -40,6 +46,8 @@ The philosophy of *Bunjae* focuses on the "aesthetic of waiting." A typical high
 ## The Spirited Garden: Jeju Island's Green Masterpiece
 
 Located on the volcanic island of Jeju, The Spirited Garden is arguably the premier destination for *Bunjae* in the world. Established in 1968 by Director Sung Bum-young, this garden transformed a barren wasteland of rocks and thorns into a lush paradise. Spanning approximately 39,000 square meters, it houses over 2,000 *Bunjae* artworks.
+
+For more details, check out our guide on [Korean Traditional Music Gugak Performance Venues Guide](/blog/korean-traditional-music-gugak-performance-venues).
 
 In 2026, admission fees have adjusted slightly to reflect inflation, currently sitting at 14,000 KRW for adults. The garden is divided into seven distinct themes, featuring waterfalls, stone bridges, and the signature black basalt walls of Jeju. It is not just a garden; it is a philosophy class in physical form. The trees here are not kept in pots indoors but are displayed outdoors, battling the strong Jeju winds, which gives them their characteristic rugged beauty.
 

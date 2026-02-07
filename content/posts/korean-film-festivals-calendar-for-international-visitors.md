@@ -24,6 +24,8 @@ For international travelers, navigating these festivals can be a challenge due t
 
 Held annually in early to mid-October, the Busan International Film Festival is undisputed as the most significant film festival in Asia. Located in Korea's second-largest city, 325 kilometers southeast of Seoul, BIFF transforms the coastal city into a bustling hub of stars, directors, and industry professionals.
 
+Related reading: [Korean film awards shows attending as a tourist guide](/blog/korean-film-awards-shows-attending-as-a-tourist).
+
 ### What to Expect at BIFF
 The festival centers around the Busan Cinema Center, an architectural marvel holding the Guinness World Record for the longest cantilever roof. Each year, the festival screens approximately 200 to 300 films from 70+ countries. For international visitors, the atmosphere is electric yet accessible. The festival is divided into several programs, including "Gala Presentation" for high-profile premieres and "New Currents" for up-and-coming Asian directors.
 

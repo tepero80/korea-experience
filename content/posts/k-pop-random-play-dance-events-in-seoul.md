@@ -10,6 +10,8 @@ The electric energy of a synthesizer bass line cuts through the humid air of a S
 
 For international travelers and K-Pop enthusiasts, witnessing or participating in these impromptu performances is a bucket-list item. It is the ultimate manifestation of the Hallyu wave—a shared language of movement that transcends nationality. Whether you are a seasoned dancer ready to jump in for the "killing part" or a spectator soaking in the atmosphere, understanding the ecosystem of these street events is crucial for a seamless experience.
 
+For more details, check out our guide on [K-Pop Cover Contest Events Open Participation Guide](/blog/k-pop-cover-contest-events-open-participation).
+
 <KeyTakeaways 
   points={[
     "Hongdae Shopping Street is the epicenter, hosting major events every weekend between 2 PM and 8 PM.",
@@ -24,7 +26,11 @@ For international travelers and K-Pop enthusiasts, witnessing or participating i
 
 Random Play Dance (RPD) originated from Korean variety shows like *Weekly Idol*, where idol groups were tasked with dancing to their own songs shuffled randomly. Today, it has evolved into a street culture staple. A DJ plays a mix of K-Pop choruses—ranging from first-generation classics to the latest 2026 chart-toppers—and anyone who knows the choreography runs to the center to dance.
 
+You might also enjoy our article about [K-Pop dance class guide learn from real choreographers](/blog/k-pop-dance-class-guide-learn-from-real-choreographers-2026).
+
 The typical event lasts between **45 to 90 minutes**. Songs are usually cut to the highlight medley, lasting approximately **30 to 45 seconds** per track. This rapid-fire format keeps the energy high and allows for over **50 different songs** to be played in a single session.
+
+Related reading: [Top K-Pop dance classes for beginners cover dance studios...](/blog/k-pop-dance-classes-for-beginners-cover-dance-studios).
 
 <StatCard
   title="RPD Event Statistics"
@@ -39,6 +45,8 @@ The typical event lasts between **45 to 90 minutes**. Songs are usually cut to t
 ## Prime Locations for RPD Events
 
 Finding K Pop Random Play Dance events in Seoul requires knowing exactly where to look. While they can pop up anywhere, 90% of consistent events occur in specific high-traffic zones.
+
+Related reading: [K-Pop fan meeting events how to participate guide](/blog/k-pop-fan-meeting-events-how-to-participate).
 
 ### 1. Hongdae Shopping Street (Eoulmadang-ro)
 

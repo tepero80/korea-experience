@@ -10,6 +10,8 @@ Meeting your favorite K-Drama actor in person is the ultimate bucket list item f
 
 This guide covers everything you need to know about K Drama actors fan meetings and how to attend them, ensuring you are fully prepared when your favorite star announces their next event in Seoul.
 
+For more details, check out our guide on [How to attend live K-Drama tapings ticket info guide](/blog/how-to-attend-live-k-drama-tapings-ticket-info).
+
 <KeyTakeaways 
   points={[
     "Official Fan Club membership often grants pre-sale access 24-48 hours early",
@@ -24,7 +26,11 @@ This guide covers everything you need to know about K Drama actors fan meetings 
 
 Before diving into logistics, it is crucial to understand what you are buying. A "Fan Meeting" is distinct from a concert or a fan sign event. While K-Pop idols perform music, actors engage in storytelling.
 
+Learn more in our comprehensive guide to [Behind the scenes K-Drama production tours 2026 guide](/blog/behind-the-scenes-k-drama-production-tours).
+
 A typical fan meeting lasts approximately **120 to 150 minutes**. During this time, the actor will answer fan questions, play interactive games (sometimes inviting fans on stage), sing 1-2 songs, and often conclude with a "Hi-Bye" session—where every attendee walks past the actor for a quick wave or high-five.
+
+Related reading: [BLACKPINK in Seoul fan tour guide 2026 for BLINKs](/blog/blackpink-in-seoul-fan-tour-guide-2026).
 
 <ComparisonTable
   title="Event Type Comparison"
@@ -50,6 +56,8 @@ A typical fan meeting lasts approximately **120 to 150 minutes**. During this ti
 ## The Pre-Requisites: Fan Clubs and Memberships
 
 For A-list actors like Kim Soo-hyun, Park Eun-bin, or Byeon Woo-seok, general public sales are virtually impossible to secure because tickets sell out during the Fan Club Pre-sale.
+
+Related reading: [Ultimate Guide to K-Pop Music Show Recordings in Seoul](/blog/how-to-attend-k-pop-music-show-recordings-in-seoul-2026).
 
 ### Official Membership (The "Ace" Status)
 Most agencies now use platforms like **Weverse** or **Daum Cafe** to recruit official fans. Joining the official fan club usually requires an annual fee, typically ranging from **30,000 to 45,000 KRW** (approx. $22-$33 USD).

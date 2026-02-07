@@ -10,6 +10,8 @@ Walking into a Korean restaurant for the first time can be a disorienting experi
 
 Understanding banchan is essential to truly experiencing Korea. It is not merely a garnish or an appetizer; it is a fundamental pillar of the nutritional balance and flavor philosophy of *Hansik* (Korean food). Whether you are a traveler looking to navigate a busy lunch rush in Gangnam or an expat hoping to stock your fridge, this guide covers everything you need to know.
 
+You might also enjoy our article about [Korean Banchan Side Dishes Complete Guide](/blog/korean-banchan-side-dishes-complete-guide-2026).
+
 <KeyTakeaways 
   points={[
     "Banchan are shared side dishes served with almost every Korean meal and are usually refillable for free",
@@ -24,7 +26,11 @@ Understanding banchan is essential to truly experiencing Korea. It is not merely
 
 At its core, banchan refers to the small side dishes served alongside rice and soup in Korean cuisine. Historically, the number of banchan served was a status symbol. During the Joseon Dynasty, a king's meal, known as *Surasang*, typically featured 12 distinct dishes (12-cheop), not counting the rice, soup, and stew.
 
+Learn more in our comprehensive guide to [Daegu Makchang guide the ultimate grilled intestines expe...](/blog/daegu-makchang-grilled-intestines-culture).
+
 Today, the number of dishes generally correlates with the formality of the restaurant. A casual lunch spot might serve 3 to 5 dishes, while a formal *Hanjeongsik* (full-course meal) restaurant can serve upwards of 20 to 30 plates.
+
+You might also enjoy our article about [Korean breakfast culture what locals eat in the morning](/blog/korean-breakfast-culture-what-locals-actually-eat-in-the-morning-2026).
 
 <StatCard
   title="Banchan by the Numbers"
@@ -37,6 +43,8 @@ Today, the number of dishes generally correlates with the formality of the resta
 />
 
 The philosophy behind this spread is nutritional balance and flavor contrast. The main dish might be spicy and hot, so the banchan will often include mild, cool, or vinegary options to cleanse the palate. With the average Korean meal containing approximately 500 to 700 calories, these vegetable-heavy sides play a crucial role in providing fiber and satiety without excessive caloric density.
+
+Related reading: [Korean Buffet Culture All You Can Eat Options Guide](/blog/korean-buffet-culture-all-you-can-eat-options).
 
 ## The Major Categories of Banchan
 

@@ -10,6 +10,8 @@ South Korea's drinking culture has undergone a seismic shift over the last few y
 
 Walking into a convenience store (CU or GS25) in 2026, you will notice that the shelves look different than they did five years ago. The branding is sleeker, the alcohol content is slightly lower, and the "Zero Sugar" label is ubiquitous. This isn't just a passing fad; it is a fundamental change in consumer behavior driven by health-conscious Millennials and Gen Z drinkers who want to enjoy social gatherings without compromising their dietary goals.
 
+Learn more in our comprehensive guide to [Korean drinking culture Soju Makgeolli and pocha guide](/blog/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026).
+
 <KeyTakeaways 
   points={[
     "Zero Sugar Soju uses stevia or erythritol, cutting calories by roughly 20-30% compared to traditional versions.",
@@ -22,11 +24,17 @@ Walking into a convenience store (CU or GS25) in 2026, you will notice that the 
 
 For international travelers, understanding this landscape is crucial for navigating modern Korean dining. Whether you are at a BBQ restaurant in Gangnam or a pocha in Euljiro, ordering the right bottle is part of the cultural experience. In this guide, we will break down everything you need to know about the healthy drinking trends dominating Korea in 2026.
 
+Learn more in our comprehensive guide to [Korean drinking etiquette pouring and toasting guide](/blog/korean-drinking-etiquette-pouring-and-toasting).
+
 ## The Science and Appeal of Zero Sugar Soju
 
 So, what exactly makes these drinks "Zero Sugar"? Traditional soju was often sweetened with fructose or sugar to mask the harsh taste of ethanol. However, the new wave of soju utilizes alternative sweeteners like stevia and erythritol. These compounds provide the necessary sweetness to balance the spirit but are not metabolized by the body in the same way sugar is.
 
+Related reading: [Mastering Korean drinking games rules and fun for travelers](/blog/korean-drinking-games-rules-and-fun).
+
 The primary appeal is, of course, the calorie count. A standard bottle of regular soju (360ml) historically contained about 400 to 410 calories. In contrast, the 2026 formulations of Zero Sugar Soju average between **310 and 320 calories per bottle**. While this might not sound like a massive difference per bottle, considering the communal nature of Korean drinking where one might consume one or two bottles over a long dinner, the deficit adds up quickly.
+
+Related reading: [Korean Drinking Snacks Anju Pairing Guide for Travelers](/blog/korean-drinking-snacks-anju-pairing-guide).
 
 <StatCard
   title="2026 Market Impact"

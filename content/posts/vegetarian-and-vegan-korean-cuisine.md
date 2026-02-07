@@ -10,6 +10,8 @@ Vegetarian and vegan travel in South Korea has undergone a radical transformatio
 
 For the international traveler, navigating this landscape requires a mix of cultural understanding and practical know-how. While Korean cuisine is heavily vegetable-focused (*Namul*), the hidden ingredients like fish sauce (*Aecjeot*) and meat extracts can be tricky. This guide provides the definitive roadmap to enjoying authentic Korean flavors without compromising your dietary ethics.
 
+Related reading: [Vegan and vegetarian guide to Korean food 2026 essential ...](/blog/vegan-and-vegetarian-guide-to-korean-food-2026).
+
 <KeyTakeaways 
   points={[
     "Temple cuisine is the safest and most authentic vegan dining option in Korea",
@@ -24,7 +26,11 @@ For the international traveler, navigating this landscape requires a mix of cult
 
 Is Korea vegan-friendly? The short answer is yes, but with caveats. Historically, Korea has a rich tradition of plant-based eating rooted in Buddhism. However, modern Korean dining is highly social and often centers around BBQ culture.
 
+You might also enjoy our article about [7 Best Vegan-Friendly Hanok Restaurants in Seoul](/blog/vegan-hanok-restaurants-seoul-2026).
+
 The most critical distinction for travelers is between "Temple Food" (*Sachal Eumsik*) and general Korean food. Temple food is strictly vegan and also excludes five pungent vegetables (garlic, green onion, leek, chive, and onion) believed to hinder spiritual practice. This cuisine is not only safe for vegans but is considered the pinnacle of Korean gastronomy.
+
+Related reading: [Gyeongju Traditional Cuisine Historic Recipes and Dining ...](/blog/gyeongju-traditional-cuisine-historic-recipes).
 
 <StatCard
   title="The Rise of Plant-Based Korea"
@@ -37,6 +43,8 @@ The most critical distinction for travelers is between "Temple Food" (*Sachal Eu
 />
 
 Conversely, standard restaurants often use beef powder (*Dasida*) or anchovy broth (*Myeolchi-yuksu*) in seemingly vegetarian dishes like stews. Awareness is improving, but assumption is the enemy of the vegan traveler here.
+
+Related reading: [Korean royal court cuisine where to try authentic dishes](/blog/korean-royal-court-cuisine-where-to-try-authentic-dishes-2026).
 
 ## Essential Survival Vocabulary
 

@@ -10,6 +10,8 @@ Relocating to South Korea remains one of the most exciting yet complex decisions
 
 This guide acts as your master blueprint. We move beyond generic advice to provide specific costs, timelines, and local insights that usually take months to learn. From navigating the strict waste disposal laws to securing a "Jeonse" or "Wolse" housing contract, here is everything you need to know to launch your life in Korea.
 
+For more details, check out our guide on [Korean work culture what foreigners need to know](/blog/korean-work-culture-what-foreigners-need-to-know-2026).
+
 <KeyTakeaways 
   points={[
     "Secure your Residence Card (formerly ARC) appointment 4 weeks before arrival.",
@@ -24,8 +26,12 @@ This guide acts as your master blueprint. We move beyond generic advice to provi
 
 Before you book a flight, you must secure your legal right to reside in Korea. In 2026, immigration enforcement is stricter regarding tourist visa runs, so obtaining the correct long-term visa is non-negotiable.
 
+Learn more in our comprehensive guide to [Moving Companies in Korea](/blog/moving-companies-in-korea-international-vs-local).
+
 ### Choosing the Right Visa
 South Korea offers several visa pathways. The requirements for these have seen slight income adjustments for the 2026 fiscal year to match inflation.
+
+You might also enjoy our article about [Moving to Korea with a Pet](/blog/moving-to-korea-with-a-pet-quarantine-paperwork-and-flights-2026).
 
 <StatCard
   title="2026 Visa Income Requirements"

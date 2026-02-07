@@ -20,7 +20,11 @@ For international residents eyeing long-term settlement in South Korea, the year
 
 However, the debate regarding **Learning Korean Via Apps Vs Kiip Which Is Better For Your Visa 2026** has evolved. With the explosion of Generative AI language tutors and immersive VR learning platforms, self-study has never been easier. Yet, the Ministry of Justice maintains strict requirements for "Social Integration."
 
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
+
 In this comprehensive guide, we analyze the data, costs, and time investments required for both paths to help you secure your future in Korea.
+
+For more details, check out our guide on [Credit cards in Korea which banks accept foreigners 2026 ...](/blog/credit-cards-in-korea-which-banks-accept-foreigners).
 
 <StatCard
   title="Visa Point Weighting 2026"
@@ -36,7 +40,11 @@ In this comprehensive guide, we analyze the data, costs, and time investments re
 
 Before comparing the methods, we must understand the stakes. In 2026, the point threshold for the F-2-7 visa remains fixed at 80 points out of a possible 120+. However, the criteria for age and income have tightened.
 
+For more details, check out our guide on [D 10 Job Seeker Visa After Graduation in 2026 Guide](/blog/d-10-job-seeker-visa-after-graduation).
+
 Consequently, Korean language proficiency has become the "make or break" factor for 65% of applicants. A beginner level (TOPIK I - Level 1) nets you a mere 3 points, while an advanced level (KIIP Level 5 or TOPIK II - Level 5) grants a massive 20 points. That 17-point difference is equivalent to earning an additional 30 million KRW in annual salary under the current point scale.
+
+For more details, check out our guide on [D 10 Job Seeker Visa Korea 2026 Complete Application Guide](/blog/d-10-job-seeker-visa-korea-complete-guide-2026).
 
 <InfoBox type="warning" title="Validity Check">
 As of January 2026, KIIP completion certificates do not expire for visa renewals, whereas TOPIK scores are still only valid for two years for initial applications. Plan your timing carefully.

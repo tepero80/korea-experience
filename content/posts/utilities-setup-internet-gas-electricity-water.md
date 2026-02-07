@@ -24,6 +24,8 @@ South Korea boasts some of the world's most efficient infrastructure. Once conne
 
 In Korea, how you set up and pay for utilities depends heavily on your housing type. If you are living in an **Officetel** (studio apartment) or a managed apartment complex, many utilities might be bundled into a monthly maintenance fee known as "Gwanlibi." In contrast, if you rent a **Villa** (low-rise brick building) or a standalone house, you are likely responsible for setting up individual accounts for gas and electricity.
 
+Learn more in our comprehensive guide to [Jeju Digital Nomad Guide Best Cafes Internet Speed](/blog/the-digital-nomad-guide-to-jeju-island-best-cafes-and-internet-speed-2026).
+
 The billing cycle is generally monthly. Bills arrive via post (Giro), text message, or app notifications. Most payments are due near the end of the month, specifically between the 20th and the 25th.
 
 <QuickFacts

@@ -10,6 +10,8 @@ Stepping into Seoul feels remarkably like walking onto the set of your favorite 
 
 The global explosion of Korean content has transformed local coffee shops and retail spaces into pilgrimage sites. In 2025 alone, the Korea Tourism Organization reported that over 14.3 million international visitors cited K-content as a primary motivation for their trip. However, navigating this landscape requires insider knowledge. Pop-up stores in districts like Seongsu-dong can vanish in two weeks, while iconic filming locations in Paju might require a 90-minute commute from central Seoul. This guide serves as your strategic roadmap to experiencing the best K-drama atmospheres Korea has to offer.
 
+For more details, check out our guide on [Ultimate Guide to K-Pop Themed Cafes BTS TXT Blackpink](/blog/k-pop-themed-cafes-bts-txt-blackpink).
+
 <KeyTakeaways 
   points={[
     "Seongsu-dong is the current epicenter for limited-time K-drama pop-up stores",
@@ -24,7 +26,11 @@ The global explosion of Korean content has transformed local coffee shops and re
 
 Korea's cafe culture is distinctively different from the grab-and-go style of the West. Here, cafes are "third spaces"—elaborately designed environments meant for lingering, socializing, and consuming visual aesthetics alongside caffeine. This aligns perfectly with K-drama production needs, which require visually stunning locations to frame emotional narrative arcs.
 
+Learn more in our comprehensive guide to [Behind the scenes K-Drama production tours 2026 guide](/blog/behind-the-scenes-k-drama-production-tours).
+
 When a drama becomes a hit, the filming location sees an immediate surge in foot traffic. For example, following the massive success of *Queen of Tears* in 2024, the locations featured saw a visitor increase of nearly 300% within the first three months. These venues are generally divided into two categories: **Permanent Filming Locations** (operating cafes that were rented for shooting) and **Temporary Pop-Up Stores** (marketing events created specifically to sell merchandise and offer interactive experiences).
+
+Related reading: [Best K-Pop concert venues in Seoul ultimate guide](/blog/best-k-pop-concert-venues-in-seoul).
 
 <StatCard
   title="K-Drama Tourism Impact"
@@ -39,6 +45,8 @@ When a drama becomes a hit, the filming location sees an immediate surge in foot
 ## Top Permanent K-Drama Cafe Locations
 
 While pop-ups are fleeting, several cafes have established themselves as permanent landmarks for Hallyu fans. These locations have maintained their aesthetics to allow fans to recreate iconic scenes.
+
+Related reading: [Celebrity owned cafes and restaurants in Seoul you can ac...](/blog/celebrity-owned-cafes-and-restaurants-in-seoul-you-can-actually-visit-2026).
 
 ### 1. Cafe Zino (Paju) - The Goblin's Mansion
 For fans of the legendary drama *Guardian: The Lonely and Great God* (Goblin), Cafe Zino in Paju represents the ultimate pilgrimage. The cafe's interior features dark wood paneling, high ceilings, and European antique furniture, serving as the interior for the Canadian steakhouse scenes in the drama. It was also featured in *Crash Landing on You*.

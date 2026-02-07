@@ -10,6 +10,8 @@ When international travelers think of Korean cuisine, the "Holy Trinity" of ferm
 
 For the true gastronome, the magic lies in the lesser-known jars. From the rapid-fire fermentation of *Cheonggukjang* to the saline complexity of *Jeotgal*, these foods offer a masterclass in preservation and flavor depth. This guide explores the savory, salty, and sometimes challenging flavors that define the true Korean palate, providing you with the knowledge to order like a local and appreciate the science behind the smell.
 
+You might also enjoy our article about [Korean fermented foods beyond Kimchi cheonggukjang and meju](/blog/korean-fermented-foods-beyond-kimchi-cheonggukjang-and-meju-2026).
+
 <KeyTakeaways 
   points={[
     "Cheonggukjang is a quick-fermented soybean paste offering 100x more probiotics than typical yogurt.",
@@ -24,7 +26,11 @@ For the true gastronome, the magic lies in the lesser-known jars. From the rapid
 
 If Doenjang is the slow-aged wisdom of the Korean kitchen, *Cheonggukjang* is its energetic, impulsive cousin. Unlike Doenjang, which ferments for months or years, Cheonggukjang is a quick-fermented soybean paste, typically ready to eat in just 2 to 3 days.
 
+You might also enjoy our article about [Korean Soup Culture Guide 2026 Kimchi Jjigae Doenjang Jjigae](/blog/korean-soup-culture-a-guide-to-kimchi-jjigae-doenjang-jjigae-and-more-2026).
+
 The result is a texture that remains largely whole—you can see and chew the individual soybeans—and a smell that is undeniably potent. Often compared to pungent French cheeses or Japanese *Natto*, Cheonggukjang contains a specific bacterium, *Bacillus subtilis*, which creates a sticky, stringy mucilage responsible for its distinctive texture and health benefits.
+
+For more details, check out our guide on [50 Must Try Korean Foods Complete Guide](/blog/50-must-try-korean-foods-complete-guide-2026).
 
 <QuickFacts
   title="Cheonggukjang Profile"
@@ -38,6 +44,8 @@ The result is a texture that remains largely whole—you can see and chew the in
 
 ### The Health Paradox
 Despite its strong odor, Cheonggukjang is widely considered one of the healthiest foods in the Korean diet. A 2024 study by the Korea Food Research Institute highlighted that a single serving (approx. 200g) of Cheonggukjang stew contains significantly higher levels of polyglutamic acid—a powerful immune booster—compared to long-fermented pastes. It is particularly revered for its thrombolytic enzymes, which help dissolve blood clots.
+
+Related reading: [Best dessert cafes in Seoul 2026 beyond Bingsu](/blog/best-dessert-cafes-in-seoul-2026-beyond-bingsu).
 
 <InfoBox type="tip" title="Pro Tip">
   If you are sensitive to strong smells but want the health benefits, look for "Odorless Cheonggukjang" (Naemse-eomneun Cheonggukjang) in supermarkets. It retains 90% of the nutrients with only 20% of the pungency.

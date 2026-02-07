@@ -10,6 +10,8 @@ Korean soup culture is not merely a side dish; it is the foundation of the Korea
 
 In this comprehensive guide, we explore the savory depth of Kimchi Jjigae, the earthy richness of Doenjang Jjigae, and the restorative powers of specialized broths. Whether you are navigating a bustling lunch crowd in Gangnam or seeking a hangover cure in Hongdae, this guide ensures you order with confidence.
 
+Related reading: [Korean Fermented Foods Beyond Kimchi Doenjang Gochujang](/blog/korean-fermented-foods-beyond-kimchi-doenjang-gochujang).
+
 <KeyTakeaways 
   points={[
     "Soup is a main course, not a starter, essential to the Korean table setting (Bansang)",
@@ -23,6 +25,8 @@ In this comprehensive guide, we explore the savory depth of Kimchi Jjigae, the e
 ## Understanding the Terminology: Guk vs. Tang vs. Jjigae
 
 To navigate a Korean menu effectively, you must first distinguish between the three main categories of liquid dishes. While they may look similar to the untrained eye, the ratio of liquid to solid ingredients and the method of serving differ significantly.
+
+You might also enjoy our article about [Korean Soup Culture Guide Gamjatang Galbitang Seolleongtang](/blog/korean-soup-culture-gamjatang-galbitang-seolleongtang).
 
 **Guk** has the highest liquid-to-solid ratio. It is usually lighter, served in individual bowls, and accompanies rice. **Tang** is a more formal term for soup, often requiring longer cooking times (8 to 12 hours for bone broths) and is frequently shared or served in larger earthenware pots. **Jjigae** is the thickest of the three, seasoned heavily with chili paste or soybean paste, and is undeniably the most popular choice for a hearty lunch.
 
@@ -50,9 +54,13 @@ To navigate a Korean menu effectively, you must first distinguish between the th
 
 When visiting Korea in 2026, three specific stews dominate the culinary landscape. These are available in roughly 90% of general Korean restaurants and constitute the daily fuel for millions of locals.
 
+Learn more in our comprehensive guide to [Daegu Makchang guide the ultimate grilled intestines expe...](/blog/daegu-makchang-grilled-intestines-culture).
+
 ### 1. Kimchi Jjigae (Kimchi Stew)
 
 Kimchi Jjigae is the quintessential comfort food. It is spicy, savory, and tangy. The primary ingredient is aged kimchi—fermented for at least 6 months to a year—which provides a depth of flavor that fresh kimchi cannot achieve. It is typically boiled with pork belly, tuna, or spam, and tofu.
+
+You might also enjoy our article about [Korean breakfast culture what locals eat in the morning](/blog/korean-breakfast-culture-what-locals-actually-eat-in-the-morning-2026).
 
 The dish is served boiling hot, usually around 85°C to 95°C (185°F - 203°F). It is affectionately known as a "Bap-doduk" or "Rice Thief," meaning it is so delicious that you will consume bowl after bowl of rice without noticing.
 

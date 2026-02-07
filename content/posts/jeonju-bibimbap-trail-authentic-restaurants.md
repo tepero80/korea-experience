@@ -10,6 +10,8 @@ Jeonju, designated a UNESCO City of Gastronomy in 2012, is widely considered the
 
 For international travelers, navigating the hundreds of restaurants in the Jeonju Hanok Village can be overwhelming. Many places cater specifically to tourists with diluted flavors, while the true gems—often run by designated Food Masters—offer an experience that transcends a simple meal. This guide takes you through the "Jeonju Bibimbap Trail," highlighting the most authentic establishments where history, culture, and flavor converge.
 
+Related reading: [Andong Jjimdak best restaurants in the hometown guide](/blog/andong-jjimdak-best-restaurants-in-the-hometown).
+
 <KeyTakeaways 
   points={[
     "Jeonju Bibimbap rice is cooked in beef broth, not water, for deeper flavor",
@@ -24,7 +26,11 @@ For international travelers, navigating the hundreds of restaurants in the Jeonj
 
 Before diving into the specific restaurants, it is crucial to understand what justifies the price point and reputation of this regional specialty. While a standard bibimbap in Seoul might cost 8,000 KRW (approx. $6.00 USD), a bowl in Jeonju averages 15,000 KRW (approx. $11.25 USD). The difference lies entirely in the complexity of preparation.
 
+Related reading: [Best Korean BBQ Restaurants in Seoul 2026 Ultimate Guide](/blog/best-korean-bbq-restaurants-in-seoul-2026).
+
 Authentic Jeonju Bibimbap is distinct because the rice is not steamed in plain water. Instead, it is cooked in a rich beef brisket broth, often infused with bean sprouts for texture. Furthermore, the dish is traditionally served in a heavy brass bowl (*yugi*) rather than a hot stone pot (*dolsot*), although many modern restaurants offer both. The brass bowl is pre-heated to keep the food warm without cooking the ingredients further, preserving the fresh texture of the delicate vegetables.
+
+Learn more in our comprehensive guide to [Best Korean BBQ Restaurants Seoul Gangnam Edition](/blog/best-korean-bbq-restaurants-seoul-gangnam-edition-2026).
 
 <QuickFacts
   title="Dish Profile: Jeonju Bibimbap"
@@ -37,6 +43,8 @@ Authentic Jeonju Bibimbap is distinct because the rice is not steamed in plain w
 />
 
 Another key differentiator is the topping. The crown jewel of a true Jeonju bowl is *Yukhoe* (seasoned raw beef tartare), though cooked beef options are always available. You will also find *Hwangpo Mook*, a yellow mung bean jelly stained with gardenia seeds, which is a rare ingredient essential to the authentic recipe.
+
+You might also enjoy our article about [Busan seafood guide fresh fish markets and restaurants](/blog/busan-seafood-guide-fresh-fish-markets-and-restaurants).
 
 <InfoBox type="info" title="The Brass Bowl Tradition">
 Jeonju Bibimbap is traditionally served in 'Yugi' (brassware). Unlike the stone pot which sizzles and crisps the rice, the brass bowl is heated gently to maintain the temperature at exactly 65°C—the optimal temperature for tasting the intricate blend of sesame oil and gochujang.

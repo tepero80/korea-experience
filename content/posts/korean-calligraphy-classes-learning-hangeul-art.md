@@ -8,7 +8,11 @@ author: Korea Experience Team
 
 The stroke of a brush against mulberry paper is more than just writing; in Korea, it is a reflection of the mind. As interest in Korean culture surges globally, travelers are looking beyond K-pop and street food to find deeper, meditative experiences. **Korean calligraphy classes learning Hangeul art** have emerged as a top cultural activity, offering a unique blend of history, artistic expression, and mindfulness.
 
+Related reading: [Independent cinema guide art house theaters in Seoul](/blog/independent-cinema-guide-art-house-theaters-in-seoul).
+
 Whether you are a complete beginner or an artist looking to expand your medium, Seoul offers a diverse range of workshops that make this ancient art form accessible. From the bustling alleys of Insadong to the quiet hanoks of Bukchon, the opportunity to write your name in Hangeul (the Korean alphabet) using traditional methods is a souvenir that lasts a lifetime.
+
+Related reading: [Top K-Pop dance classes for beginners cover dance studios...](/blog/k-pop-dance-classes-for-beginners-cover-dance-studios).
 
 <KeyTakeaways 
   points={[
@@ -23,6 +27,8 @@ Whether you are a complete beginner or an artist looking to expand your medium, 
 ## The Art of Seoye: Understanding Korean Calligraphy
 
 Before diving into where to take a class, it is essential to understand what you are learning. Korean calligraphy, known as *Seoye*, has evolved over centuries. While it shares roots with Chinese calligraphy, the invention of Hangeul by King Sejong the Great in 1443 transformed the art form, giving it a distinct geometric beauty characterized by circles, lines, and squares.
+
+For more details, check out our guide on [Korean crafts making your own mother of pearl najeon chil...](/blog/korean-crafts-making-your-own-mother-of-pearl-najeon-chilgi-art-2026).
 
 *Seoye* is not just about pretty handwriting; it is about *Ki* (energy) and discipline. A single stroke requires the coordination of breathing, posture, and mind. It is estimated that over 65% of regular calligraphy practitioners in Korea cite "mental clarity" as their primary motivation for continued practice.
 

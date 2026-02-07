@@ -10,6 +10,8 @@ Dining in South Korea is a communal symphony of sizzling grills, endless side di
 
 The most common mistake Western travelers make is instinctively lifting their rice bowl to their mouth to eat. In Japan or China, this is acceptable and even encouraged. In Korea, however, it is considered rude. This comprehensive guide will explore why the bowl stays down, how to navigate the metal chopsticks, and everything you need to know to dine like a local in 2026.
 
+Learn more in our comprehensive guide to [Korean drinking etiquette pouring and toasting guide](/blog/korean-drinking-etiquette-pouring-and-toasting).
+
 <KeyTakeaways 
   points={[
     "Never lift your rice bowl; leave it on the table and use your spoon.",
@@ -25,7 +27,11 @@ The most common mistake Western travelers make is instinctively lifting their ri
 
 In Korean dining culture, the rice bowl (*bap-gonggi*) must remain on the table throughout the meal. Lifting the bowl to your mouth is historically associated with the behavior of beggars or uneducated classes who had to eat quickly on the move. In a dignified setting, you bring the food to you using utensils, rather than bringing the vessel to your mouth.
 
+For more details, check out our guide on [Korean Rice Dishes Bibimbap Dolsot Kongnamul Bap Guide](/blog/korean-rice-dishes-bibimbap-dolsot-kongnamul-bap).
+
 This distinction is rooted in the utensils themselves. Unlike other East Asian countries that primarily use chopsticks for rice, Koreans use a long-handled spoon (*sujeo*) specifically for rice and soups. The average Korean spoon handle is approximately 21 to 22 centimeters long, providing ample reach from the table to your mouth without the need to lift the bowl.
+
+You might also enjoy our article about [Makgeolli Bars Traditional Rice Wine Culture Guide for Tr...](/blog/makgeolli-bars-traditional-rice-wine-culture).
 
 <InfoBox type="warning" title="Cultural Context">
 Do not confuse Korean etiquette with Japanese etiquette. In Japan, lifting the bowl is polite. In Korea, keep the bowl planted firmly on the table. Only lift your bowl if you are drinking the last dregs of a broth-heavy soup, and even then, use discretion.

@@ -10,6 +10,8 @@ Moving to South Korea offers an incredible blend of high-tech convenience and de
 
 Understanding the logical flow of Korean administration is essential. It is not just about filling out forms; it is about establishing a verifiable digital identity. Once you crack this code, life in Korea becomes infinitely smoother. This guide provides a comprehensive roadmap from your first week to your first tax season, ensuring you spend less time at immigration offices and more time exploring the peninsula.
 
+Related reading: [Dealing with Korean landlords common issues and solutions](/blog/dealing-with-korean-landlords-common-issues).
+
 <KeyTakeaways 
   points={[
     "The Residence Card (formerly ARC) is the foundational key to all services, taking 3-5 weeks to process.",
@@ -24,7 +26,11 @@ Understanding the logical flow of Korean administration is essential. It is not 
 
 The Card formerly known as the "Alien Registration Card" (ARC) is now officially the "Residence Card." Regardless of the name change, its function remains the absolute bedrock of your life in Korea. Without this card, you cannot sign a long-term phone contract, open a full-service bank account, or even order food delivery efficiently.
 
+You might also enjoy our article about [Korea mental health resources guide dealing with loneliness](/blog/dealing-with-loneliness-mental-health-resources).
+
 Legally, you must apply for this card within **90 days** of arrival if you intend to stay longer than that period. However, experienced expats know you should apply within your first week.
+
+Related reading: [Dealing with yellow dust and air quality best apps and masks](/blog/dealing-with-yellow-dust-and-air-quality-best-apps-and-masks-2026).
 
 <QuickFacts
   title="Residence Card Application Facts"
@@ -37,6 +43,8 @@ Legally, you must apply for this card within **90 days** of arrival if you inten
 />
 
 The most critical step is securing an appointment at your jurisdiction's Immigration Office. You cannot simply walk in. Appointments on the HiKorea website often book out **2 to 4 weeks** in advance, especially during university semester starts (March and September).
+
+For more details, check out our guide on [Baemin Without an ARC in 2026](/blog/how-to-use-baemin-without-an-arc-in-2026-pay-at-the-door-methods-and-alternatives).
 
 <StepGuide
   title="How to Secure Your Residence Card"

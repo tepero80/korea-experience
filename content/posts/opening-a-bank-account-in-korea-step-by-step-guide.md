@@ -12,6 +12,8 @@ Opening a bank account in Korea is a rite of passage for long-term residents. Wi
 
 This guide provides a detailed, step-by-step walkthrough to ensure you walk out of the branch with a functioning account and debit card.
 
+Related reading: [Opening a Korean bank account for foreigners complete guide](/blog/opening-a-korean-bank-account-for-foreigners).
+
 <KeyTakeaways 
   points={[
     "You need an ARC (Alien Registration Card) for a full-service account.",
@@ -37,6 +39,8 @@ Living in Korea on cash or a foreign credit card is technically possible for sho
 />
 
 When you arrive, your first priority after housing should be banking. Most landlords require monthly rent to be transferred via bank transfer, not cash. Furthermore, to set up automatic bill payments for gas, electricity, and internet—which average around 150,000 to 200,000 KRW combined for a one-room studio—you need a local routing number.
+
+For more details, check out our guide on [Sending money abroad bank transfer vs wise comparison](/blog/sending-money-abroad-bank-transfer-vs-wise).
 
 ## Types of Bank Accounts for Foreigners
 

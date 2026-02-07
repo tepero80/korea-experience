@@ -26,6 +26,8 @@ Seongsu-dong has rapidly evolved from a manufacturing hub for handmade shoes int
 
 In the 1960s, this area was home to over 1,000 small factories. Today, roughly 300 traditional shoe manufacturers remain, coexisting with high-end brands like Dior and innovative startups. This mixture creates a unique "raw" aesthetic where exposed concrete and rusted steel are celebrated rather than hidden.
 
+Learn more in our comprehensive guide to [Modern Korean art scene top contemporary galleries in han...](/blog/modern-korean-art-scene-top-contemporary-galleries-in-hannam-dong-2026).
+
 <QuickFacts
   title="Seongsu-dong Overview"
   facts={[

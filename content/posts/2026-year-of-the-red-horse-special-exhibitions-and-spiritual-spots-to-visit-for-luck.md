@@ -116,7 +116,7 @@ The hallmark of Naksansa is the Haesugwaneumsang, a 16-meter tall granite statue
 
 ## Jeju Island: The Land of the Horse
 
-No guide to the Year of the Horse would be complete without mentioning Jeju Island. Historically, Jeju has been Korea's primary horse-breeding ground since the Goryeo Dynasty. The local breed, *Jorangmal*, is small but incredibly sturdy and resilient?�perfect symbols for 2026.
+No guide to the Year of the Horse would be complete without mentioning Jeju Island. Historically, Jeju has been Korea's primary horse-breeding ground since the Goryeo Dynasty. The local breed, *Jorangmal*, is small but incredibly sturdy and resilient—perfect symbols for 2026.
 
 Jeju is home to over 100 horse riding parks. The flight from Seoul's Gimpo Airport to Jeju International Airport covers 450 kilometers and takes approximately 65 minutes, with ticket prices averaging 60,000 to 120,000 KRW depending on the season.
 

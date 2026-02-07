@@ -10,6 +10,8 @@ Navigating the bureaucratic landscape of South Korea is a rite of passage for ev
 
 Choosing between the **Visa Extension Online Vs In Person Methods** is not merely a matter of preference; it often depends on your specific visa type, your patience with digital infrastructure, and the urgency of your application. While the government aims to digitize 80% of administrative tasks by 2027, certain nuances make the physical visit necessary for some. This guide breaks down every cost, minute, and document involved to help you decide which path ensures you remain in the Land of the Morning Calm legally and stress-free.
 
+You might also enjoy our article about [Visa run strategies leaving and re entering south Korea g...](/blog/visa-run-strategies-leaving-and-re-entering).
+
 <KeyTakeaways 
   points={[
     "Online applications save approximately 3 to 4 hours of travel and waiting time compared to in-person visits",
@@ -24,9 +26,15 @@ Choosing between the **Visa Extension Online Vs In Person Methods** is not merel
 
 Before diving into the methods, it is crucial to understand the current state of immigration services. As of early 2026, the registered foreign population in South Korea has surpassed 2.5 million. To manage this volume, the Korea Immigration Service has heavily incentivized online processing.
 
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
+
 The central hub for all immigration matters is the **Hikorea** portal. While it was once notorious for requiring Internet Explorer and endless security plugins, the 2026 version is significantly more stable, supporting Chrome, Edge, and Safari. However, the system still operates on strict logic: if your documents do not match the exact specifications, rejection is instantaneous.
 
+For more details, check out our guide on [D 10 Job Seeker Visa After Graduation in 2026 Guide](/blog/d-10-job-seeker-visa-after-graduation).
+
 Conversely, the physical Immigration Offices, located in major districts like Omokgyo (Seoul Southern) or Sejong-ro, operate on a strict reservation-only basis. Walk-ins are virtually non-existent unless you are pregnant, disabled, or picking up a ready-made card.
+
+For more details, check out our guide on [D 10 Job Seeker Visa Korea 2026 Complete Application Guide](/blog/d-10-job-seeker-visa-korea-complete-guide-2026).
 
 <StatCard
   title="2026 Immigration Processing Stats"

@@ -10,6 +10,8 @@ South Korea is rapidly evolving into a cashless society, where digital transacti
 
 While obtaining a simple withdrawal card is relatively straightforward, securing a true credit card (with a line of credit) remains one of the most challenging financial hurdles for non-Koreans. The landscape in 2026 has shifted slightly with the rise of digital banks, yet the traditional "Big 4" banks remain the gatekeepers for most expatriate financial services.
 
+Related reading: [Korea phone plans and sim cards for foreigners](/blog/korea-phone-plans-and-sim-cards-for-foreigners-2026).
+
 <KeyTakeaways 
   points={[
     "KEB Hana and Shinhan Bank have the highest approval rates for foreign visa holders in 2026",
@@ -24,9 +26,15 @@ While obtaining a simple withdrawal card is relatively straightforward, securing
 
 Before diving into specific banks, it is crucial to understand the distinction between the two primary types of cards available in South Korea: the Check Card and the Credit Card. This distinction affects nearly 2.5 million foreign residents currently living in the peninsula.
 
+For more details, check out our guide on [Best Korea SIM Cards for Long-Term Travelers Beyond Airpo...](/blog/best-korea-sim-cards-for-long-term-travelers-beyond-airport-rentals-and-prepaid-limits).
+
 A **Check Card** is equivalent to a debit card in Western banking. It draws funds directly from your bank account instantly. These are easy to obtain; typically, you only need your Alien Registration Card (ARC) and a minimum deposit of around 10,000 KRW to 20,000 KRW.
 
+You might also enjoy our article about [Finding an apartment in Korea complete guide for foreigners](/blog/finding-an-apartment-in-korea-complete-guide-for-foreigners).
+
 A **Credit Card**, however, operates on a "buy now, pay later" monthly settlement system. This requires a credit check, proof of repayment ability, and often a specific visa type. The rejection rate for initial credit card applications for holders of E-2 (Language Instructor) or D-2 (Student) visas can be as high as 40% without proper preparation.
+
+You might also enjoy our article about [Kiosk survival guide](/blog/foreign-friendly-kiosk-survival-guide-what-to-do-when-your-overseas-credit-card-is-rejected).
 
 <InfoBox type="info" title="The Visa Factor">
 Your visa type is the single most significant factor in your application. F-series visas (F-2, F-4, F-5, F-6) are viewed as "residents" and have approval criteria similar to Korean citizens. E-series visas (E-2, E-7) usually require additional proof of employment and contract longevity.

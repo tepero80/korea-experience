@@ -10,6 +10,8 @@ Navigating the financial landscape of a new country is often the first major hur
 
 Without a local account, you cannot order food delivery via Baedal Minjok, pay for online shopping on Coupang, or even pay your monthly rent efficiently. While international cards are widely accepted at merchants, they are useless for domestic transfers, which are the backbone of the Korean economy.
 
+You might also enjoy our article about [Opening a bank account in Korea step by step guide](/blog/opening-a-bank-account-in-korea-step-by-step-guide).
+
 <KeyTakeaways 
   points={[
     "Tourists can only open restricted accounts with a withdrawal limit of 300,000 KRW ($225 USD) per day",
@@ -24,14 +26,20 @@ Without a local account, you cannot order food delivery via Baedal Minjok, pay f
 
 Before walking into a branch, it is vital to understand the "Dualism" of the Korean banking system for foreigners. Since regulations tightened in recent years to combat voice phishing and money laundering, banks have become incredibly strict about who opens an account and why.
 
+For more details, check out our guide on [Credit cards in Korea which banks accept foreigners 2026 ...](/blog/credit-cards-in-korea-which-banks-accept-foreigners).
+
 ### 1. The Restricted Account (Han-do Je-han)
 If you do not have an Alien Registration Card (ARC)—now officially called the Residence Card—or cannot provide proof of income/employment, you will be given a "Restricted Account."
+
+You might also enjoy our article about [Finding an apartment in Korea complete guide for foreigners](/blog/finding-an-apartment-in-korea-complete-guide-for-foreigners).
 
 *   **ATM Withdrawal Limit:** 300,000 KRW (approx. $225 USD) per day.
 *   **Online Transfer Limit:** 300,000 KRW per day.
 *   **In-Branch Limit:** 1,000,000 KRW (approx. $750 USD) per day.
 
 This is the default starting point for 90% of new arrivals. While frustrating, it is functional for basic spending like groceries and subway fares.
+
+Related reading: [Korea phone plans and sim cards for foreigners](/blog/korea-phone-plans-and-sim-cards-for-foreigners-2026).
 
 ### 2. The General Account (Unrestricted)
 To unlock normal transaction limits (usually starting at 5,000,000 KRW or $3,750 USD per day), you must prove your financial identity. This requires a Residence Card and "Proof of Purpose," such as a verified employment contract or a Certificate of Enrollment from a university.

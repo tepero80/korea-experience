@@ -12,6 +12,8 @@ For the estimated 2.2 million foreigners currently residing in South Korea, unde
 
 Whether you are an English teacher, an engineer at a conglomerate, or a corporate executive, maximizing your refund requires strategic planning throughout the year.
 
+For more details, check out our guide on [Buying property in Korea foreign ownership rules guide](/blog/buying-property-in-korea-foreign-ownership-rules).
+
 <KeyTakeaways 
   points={[
     "Foreigners can choose between a 19% flat tax rate or the standard progressive tax rate (6-45%)",
@@ -27,6 +29,8 @@ Whether you are an English teacher, an engineer at a conglomerate, or a corporat
 The concept of the year-end tax settlement is relatively straightforward. Throughout the fiscal year (January 1 to December 31), your employer withholds income tax from your monthly paycheck based on a standardized table. However, this withholding does not account for your specific life circumstances, such as medical expenses, housing costs, or charitable donations.
 
 The settlement process in January and February reconciles what you *should* have paid (based on actual deductions) versus what you *did* pay.
+
+You might also enjoy our article about [Kiosk survival guide](/blog/foreign-friendly-kiosk-survival-guide-what-to-do-when-your-overseas-credit-card-is-rejected).
 
 If you paid more taxes than necessary, you receive a refund. If you paid too little, you must pay the difference. According to NTS data from 2025, approximately 67% of foreign workers received a refund, with the average payout being roughly 540,000 KRW (South Korean Won). However, those who failed to submit proper documentation often faced an average additional payment of 200,000 KRW.
 
@@ -44,11 +48,15 @@ If you paid more taxes than necessary, you receive a refund. If you paid too lit
 
 One of the most significant advantages for foreign workers in Korea is the special taxation rule. Foreign employees can choose to have their income taxed at a flat rate of 19% applied to their total gross income, rather than the progressive tax rates that apply to Korean nationals.
 
+Learn more in our comprehensive guide to [How to register your foreign address change online and of...](/blog/how-to-register-your-foreign-address-change-online-and-offline-2026).
+
 This is a critical distinction because the standard progressive tax rates in Korea range from 6% to 45% depending on income brackets.
 
 ### When Should You Choose the Flat Rate?
 
 The 19% flat rate is generally beneficial for high-income earners. The break-even point usually hovers around an annual gross income of 140,000,000 KRW (approximately $105,000 USD).
+
+Learn more in our comprehensive guide to [Korean labor laws your rights as a foreign employee](/blog/korean-labor-laws-your-rights-as-a-foreign-employee-2026).
 
 If you earn less than this amount, the standard progressive rate—combined with the various deductions available—will usually result in a lower effective tax rate than 19%.
 

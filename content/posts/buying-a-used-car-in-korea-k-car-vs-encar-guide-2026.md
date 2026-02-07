@@ -22,11 +22,15 @@ However, for the estimated 2.2 million foreign residents living in Korea in 2026
 
 In this comprehensive guide, we will dismantle the complexities of the Korean used car market, pitting the two industry heavyweights against each other to help you decide which platform suits your expatriate lifestyle.
 
+Related reading: [Buying a car in Korea financing and registration guide](/blog/buying-a-car-financing-and-registration).
+
 ## The Landscape: Why Buy Used in Korea?
 
 Buying a used car in Korea is often a smarter financial move than buying new, especially for expats on contracts ranging from one to three years. New cars in Korea, particularly popular models like the Hyundai Grandeur or Kia Sorento, can have waiting periods stretching from 3 to 10 months due to lingering supply chain tightropes.
 
 Conversely, the used market is flooded with high-quality inventory. Koreans tend to take exceptional care of their vehicles, and the average turnover rate is high. A 3-year-old vehicle in Korea often has fewer than 40,000 kilometers on the odometer, significantly lower than the global average of 15,000 to 20,000 kilometers per year.
+
+For more details, check out our guide on [Buying property in Korea foreign ownership rules guide](/blog/buying-property-in-korea-foreign-ownership-rules).
 
 <StatCard
   title="Korean Used Car Market 2026"

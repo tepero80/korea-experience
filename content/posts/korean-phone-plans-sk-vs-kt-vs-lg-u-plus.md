@@ -27,6 +27,8 @@ In South Korea, mobile connectivity is not just a utility; it is a lifestyle nec
 ### SK Telecom (SKT)
 SK Telecom is the market leader, commanding approximately 40% of the market share. They are traditionally viewed as the premium option. Historically, SKT has held the reputation for the best call quality and deepest coverage, particularly in mountainous regions and remote islands.
 
+Related reading: [Korea phone plans and sim cards for foreigners](/blog/korea-phone-plans-and-sim-cards-for-foreigners-2026).
+
 <StatCard
   title="SK Telecom Market Dominance"
   variant="gradient"
@@ -43,6 +45,8 @@ If your itinerary involves hiking effectively anywhere in the 70% of Korea that 
 KT holds the second-largest market share, hovering around 24-25%. As a former state-owned enterprise, KT owns the most extensive landline and fiber optic infrastructure in the country. Their distinct advantage lies in their Wi-Fi network. KT subscribers gain free access to "KT WiFi" zones, which are ubiquitous in subways, cafes, and public landmarks.
 
 For foreigners, KT is often the most accessible. Their "Global Stores" in areas like Gangnam, Hongdae, and Gwanghwamun specifically cater to English speakers, and their roaming centers at Incheon Airport are the largest.
+
+Related reading: [Getting a post paid phone plan without a long term contract](/blog/getting-a-post-paid-phone-plan-without-a-long-term-contract-2026).
 
 ### LG U Plus
 LG U Plus is the challenger brand with about 20% market share. To compete with the larger two, LG U Plus often aggressively prices their bundles. They are famous for integrating heavy data usage with lifestyle perks, such as free subscriptions to Netflix, YouTube Premium, or Disney+.

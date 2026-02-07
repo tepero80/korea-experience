@@ -22,7 +22,11 @@ Seoul has rapidly transformed from a city dominated by green bottles of soju int
 
 The cocktail culture in Korea has matured significantly over the last decade. Historically, drinking in Korea was communal and volume-focused, centering on *Hoesik* (company dinners). However, a shift toward "drinking for flavor" has seen the market for premium spirits grow by over 12% annually since 2023. Today, the average price for a signature cocktail at a mid-tier bar in Seoul sits around 22,000 KRW ($16 USD), while premium venues in Gangnam can charge upwards of 35,000 KRW ($26 USD) per drink.
 
+You might also enjoy our article about [Makgeolli Bars Traditional Rice Wine Culture Guide for Tr...](/blog/makgeolli-bars-traditional-rice-wine-culture).
+
 This shift is driven by a generation of bartenders who have trained globally and returned to open intimate venues that prioritize hospitality, ice quality, and local ingredients. Travelers will find that English proficiency in these establishments is exceptionally high compared to general restaurants, with approximately 90% of bartenders in the top-tier venues speaking fluent English.
+
+For more details, check out our guide on [Pojangmacha street tent bars](/blog/pojangmacha-street-tent-bars-experience).
 
 <StatCard
   title="Seoul Nightlife Stats"

@@ -10,6 +10,8 @@ Tongyeong, often affectionately referred to as the "Naples of Korea," is not jus
 
 For the international traveler, a visit to Tongyeong during the winter season offers a gastronomic pilgrimage unlike any other. The oysters here, grown in the plankton-rich waters of the Hallyeo Marine National Park, are celebrated for their distinctive briny sweetness and creamy texture. Whether you are a gourmand seeking a multi-course fine dining experience or an adventurer looking to haggle in bustling fish markets, Tongyeong provides a culinary landscape that is as deep and varied as the ocean itself.
 
+Related reading: [Korean seafood guide from raw fish to grilled shellfish](/blog/korean-seafood-delicacies-raw-fish-to-grilled-shellfish).
+
 <KeyTakeaways 
   points={[
     "Tongyeong produces 80% of Korea's oysters, with the peak season running from November to February",
@@ -23,6 +25,8 @@ For the international traveler, a visit to Tongyeong during the winter season of
 ## Why Tongyeong Oysters Are World-Class
 
 Before diving into where to eat, it is essential to understand *why* you are eating here. The geography of Tongyeong creates a perfect storm for aquaculture. The coastline is jagged (ria coast), providing calm, sheltered waters that protect oyster farms from harsh currents while allowing tidal flows to bring in abundant nutrients.
+
+For more details, check out our guide on [Mokpo seafood specialties octopus and skate guide](/blog/mokpo-seafood-specialties-octopus-and-skate).
 
 According to 2025 agricultural data, the region produces over 41,000 tons of oysters annually. These waters are also some of the few in Asia certified by the US FDA (Food and Drug Administration) for sanitation, meaning the raw consumption of these shellfish is generally considered safer here than in many other parts of the world.
 

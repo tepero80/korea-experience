@@ -10,6 +10,8 @@ Hanji, often referred to as "the paper of a thousand years," is more than just a
 
 Whether you are exploring the narrow alleys of Bukchon Hanok Village or venturing south to the paper capital of Jeonju, a hands-on session offers a meditative break from the bustling city. In this guide, we explore the best studios, cost breakdowns, and the intricate process of turning mulberry bark into a masterpiece.
 
+Learn more in our comprehensive guide to [Calligraphy classes in Seoul mastering Hangeul art](/blog/calligraphy-classes-in-seoul-learning-the-art-of-hangeul-2026).
+
 <KeyTakeaways 
   points={[
     "Most beginner workshops cost between 15,000 and 50,000 KRW per person.",
@@ -24,6 +26,8 @@ Whether you are exploring the narrow alleys of Bukchon Hanok Village or venturin
 
 Before diving into the workshops, it is crucial to understand why this material is so revered. Hanji is created from the inner bark of the paper mulberry tree, known locally as *Dak*. While modern acidic paper yellows and crumbles within 50 to 100 years, Hanji is pH neutral (approximately 7.0 to 7.2) and can last over 1,000 years. This durability is why the "Mugujeonggwang Daedarani-gyeong," the world's oldest surviving woodblock print dating back to 751 AD, remains intact today.
 
+For more details, check out our guide on [Korean crafts making your own mother of pearl najeon chil...](/blog/korean-crafts-making-your-own-mother-of-pearl-najeon-chilgi-art-2026).
+
 <QuickFacts
   title="Hanji Characteristics"
   facts={[
@@ -36,9 +40,13 @@ Before diving into the workshops, it is crucial to understand why this material 
 
 The traditional production process involves 99 distinct steps, with the final touch of the user being the 100th step. This labor-intensive method results in a fabric-like texture that allows for air ventilation while retaining heat—a dual property that made it essential for traditional Korean architecture (Hanok) windows and doors.
 
+Related reading: [Independent cinema guide art house theaters in Seoul](/blog/independent-cinema-guide-art-house-theaters-in-seoul).
+
 ## Types of Hanji Crafts You Can Learn
 
 When booking a workshop, you will typically encounter three distinct styles of paper art. Understanding these distinctions helps you choose the class that fits your artistic interest.
+
+Related reading: [Korean Calligraphy Classes Learning Hangeul Art](/blog/korean-calligraphy-classes-learning-hangeul-art).
 
 <ComparisonTable
   title="Hanji Craft Styles"

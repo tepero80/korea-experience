@@ -8,7 +8,7 @@ author: Korea Experience Team
 
 # The Epic Journey: Korean Webtoon to K-Drama Adaptations Timeline
 
-Welcome to the vibrant world where digital comics leap from your screen into captivating television series, sweeping global audiences. Korean webtoons ? digital comics optimized for vertical scrolling on smartphones ? have become an indispensable source of inspiration for K-dramas, fueling the Hallyu wave with fresh narratives and compelling characters. For international travelers and expats living in Korea, understanding this unique symbiotic relationship offers a deeper appreciation of the country¡¯s dynamic pop culture.
+Welcome to the vibrant world where digital comics leap from your screen into captivating television series, sweeping global audiences. Korean webtoons ? digital comics optimized for vertical scrolling on smartphones ? have become an indispensable source of inspiration for K-dramas, fueling the Hallyu wave with fresh narratives and compelling characters. For international travelers and expats living in Korea, understanding this unique symbiotic relationship offers a deeper appreciation of the country's dynamic pop culture.
 
 This comprehensive guide will take you on a chronological journey through the "Korean Webtoon to Drama Adaptations Timeline," exploring how this creative synergy has evolved, the iconic series it has produced, and the profound impact it has had on both the webtoon industry and global entertainment. You will learn about the pioneers, the game-changers, and the future trends shaping this exciting landscape, gaining insider knowledge to enhance your K-culture experience.
 
@@ -76,7 +76,7 @@ This period showcased the immense potential of webtoons to create universally ap
 
 *   **2020: "Itaewon Class"**
     *   **Original Webtoon:** By Gwang Jin. This drama was a monumental success, propelled by its compelling story of an underdog rising against a powerful conglomerate. Its unique characters, vibrant setting in Itaewon, and themes of perseverance, diversity, and justice struck a chord globally. The drama stayed visually faithful to the webtoon's distinct art style, which was highly praised.
-    *   **Practical Tip:** You can still visit many of the filming locations in Itaewon, including the famous Noksapyeong Bridge with its iconic Seoul Tower view, which featured prominently in the drama. It¡¯s a great way to relive your favorite scenes!
+    *   **Practical Tip:** You can still visit many of the filming locations in Itaewon, including the famous Noksapyeong Bridge with its iconic Seoul Tower view, which featured prominently in the drama. It's a great way to relive your favorite scenes!
 *   **2020: "Sweet Home" (Netflix Original)**
     *   **Original Webtoon:** By Kim Carnby and Hwang Young-chan. A groundbreaking horror-thriller that pushed boundaries with its creature designs and apocalyptic setting. "Sweet Home" proved that complex, effects-heavy webtoons could be adapted into high-quality, binge-worthy series, garnering massive international viewership for Netflix.
 *   **2021: "Yumi's Cells"**

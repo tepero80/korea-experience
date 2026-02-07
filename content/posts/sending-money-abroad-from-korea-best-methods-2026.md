@@ -10,6 +10,8 @@ Moving to South Korea offers an incredible lifestyle, but navigating its banking
 
 As we step into 2026, the landscape has shifted significantly from traditional bank dominance to agile fintech solutions. While major banks like Shinhan and KEB Hana still hold the keys to large-scale transfers, specialized apps have captured over 70% of the expat remittance market due to lower fees and English-friendly interfaces.
 
+For more details, check out our guide on [Sending money abroad bank transfer vs wise comparison](/blog/sending-money-abroad-bank-transfer-vs-wise).
+
 <KeyTakeaways 
   points={[
     "Fintech apps (Sentbe, WireBarley) are 90% cheaper than traditional banks for transfers under $5,000.",
@@ -24,7 +26,11 @@ As we step into 2026, the landscape has shifted significantly from traditional b
 
 South Korea's financial regulations are unique. Unlike many Western countries where you can freely move capital, Korea tracks outflows strictly to prevent capital flight and money laundering. As an expat, you must operate within the **Foreign Exchange Transaction Act**.
 
+For more details, check out our guide on [Baemin Without an ARC in 2026](/blog/how-to-use-baemin-without-an-arc-in-2026-pay-at-the-door-methods-and-alternatives).
+
 In 2026, the average cost to send 1,000,000 KRW (approximately $750 USD) through a traditional bank via SWIFT is roughly 35,000 KRW when including cable fees, commission, and intermediate bank charges. In contrast, fintech apps have driven this cost down to an average of 5,000 KRW or less.
+
+You might also enjoy our article about [Korean Tax Return for Foreigners](/blog/korean-tax-return-guide-for-foreigners-how-to-get-money-back-2026).
 
 <StatCard
   title="2026 Market Shift"
@@ -39,6 +45,8 @@ In 2026, the average cost to send 1,000,000 KRW (approximately $750 USD) through
 ### Understanding the "Designated Bank" Rule
 
 Before you download any app or visit a branch, you must understand the concept of the **Designated Foreign Exchange Bank**. Korean law dictates that a foreigner can only have *one* designated bank for overseas remittances at a time.
+
+Learn more in our comprehensive guide to [Visa extension online vs in person methods in south Korea](/blog/visa-extension-online-vs-in-person-methods).
 
 <InfoBox type="warning" title="Designation is Mandatory">
 You cannot use multiple banks to send money abroad simultaneously. If you designate KEB Hana Bank today, and then try to verify your identity on the Sentbe app tomorrow, the app will likely ask you to change your designation to their partner bank digitally. You can change your designated bank, but you can usually only do this once per quarter or via a visit to the branch.

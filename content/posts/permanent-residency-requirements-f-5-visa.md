@@ -24,6 +24,8 @@ As of 2026, the immigration landscape has tightened slightly, making preparation
 
 The F-5 visa is the highest status a foreigner can hold in South Korea without becoming a naturalized citizen. It effectively treats you as a quasi-citizen in terms of employment and residence rights. Once obtained, you do not need to visit the immigration office for visa extensions. Instead, you only need to renew your physical alien registration card every 10 years, a simple administrative process that takes less than 30 minutes.
 
+Learn more in our comprehensive guide to [Digital Nomad Visa Korea Requirements and Application](/blog/digital-nomad-visa-korea-requirements-and-application).
+
 The most significant advantage is the decoupling of your visa from your employer. On an E-7 or E-2 visa, losing your job means you have 14 to 30 days to find new employment or leave the country. With an F-5, you can be unemployed, freelance, start a business, or take a sabbatical without risking your residency.
 
 <StatCard
@@ -38,12 +40,16 @@ The most significant advantage is the decoupling of your visa from your employer
 
 However, achieving this status requires navigating a complex web of eligibility categories. There are over 20 different pathways to the F-5 visa, ranging from the "General" track (F-5-1) to the "High Investor" track (F-5-5). For the vast majority of expats, the focus will be on three main routes: the **General Residency (F-5-1)**, the **Academic/Degree Holder (F-5-10)**, and the **Points-Based conversion (F-5-16)**.
 
+Learn more in our comprehensive guide to [F 2 resident visa Korea requirements and process](/blog/f-2-resident-visa-korea-requirements-and-process-2026).
+
 ## Core Requirements: The "Big Three"
 
 Regardless of which specific F-5 code you apply for, immigration officers will scrutinize three main pillars of your life in Korea. Failing to meet the threshold in any one of these areas results in immediate rejection.
 
 ### 1. Income Eligibility (The GNI Standard)
 The financial requirement is the most common hurdle. For most F-5 categories, your annual income must meet or exceed the Gross National Income (GNI) per capita for the previous year. For 2026 applications, this is based on 2025 statistics.
+
+Learn more in our comprehensive guide to [F 6 marriage visa requirements and interview comprehensiv...](/blog/f-6-marriage-visa-requirements-and-interview).
 
 *   **F-5-1 (General):** Must earn **2x** the GNI.
 *   **F-5-10 (Advanced Degree):** Must earn **1x** the GNI.
@@ -63,6 +69,8 @@ The GNI figure is updated annually by the Bank of Korea, usually in March or Apr
 
 ### 2. Korean Language Proficiency (KIIP)
 Unless you are a high-value investor or hold a PhD in specific fields, you must prove your ability to integrate into Korean society. This is done through the **Korea Immigration and Integration Program (KIIP)**.
+
+Learn more in our comprehensive guide to [F Visa Family Reunion Requirements Guide for](/blog/f-visa-family-reunion-requirements).
 
 You generally need a **Level 5 Completion Certificate** (permanent residency track). This requires passing a comprehensive exam covering Korean language, history, culture, and politics. The Level 5 course is 70 hours long (60 hours basic + 10 hours specialized).
 

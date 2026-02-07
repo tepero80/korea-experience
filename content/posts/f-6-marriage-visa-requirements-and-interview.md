@@ -10,6 +10,8 @@ Getting married is a milestone of love, but securing an F-6 Marriage Visa in Sou
 
 As we move through 2026, immigration policies have tightened slightly regarding income thresholds and language proficiency verification. This guide is your roadmap through the bureaucracy, designed to help you prepare a flawless application package.
 
+Learn more in our comprehensive guide to [Digital Nomad Visa Korea Requirements and Application](/blog/digital-nomad-visa-korea-requirements-and-application).
+
 <KeyTakeaways 
   points={[
     "Income requirement base is approx. 22.1 million KRW for 2-person households",
@@ -24,11 +26,15 @@ As we move through 2026, immigration policies have tightened slightly regarding 
 
 Before diving into the requirements, it is crucial to identify which specific sub-category of the F-6 visa applies to your situation. The requirements differ slightly for each.
 
+Learn more in our comprehensive guide to [F 2 resident visa Korea requirements and process](/blog/f-2-resident-visa-korea-requirements-and-process-2026).
+
 *   **F-6-1 (Spouse of a Korean National):** The standard visa for those maintaining a normal marital relationship.
 *   **F-6-2 (Child Raising):** For those raising a minor child born between a Korean national and a foreign national (even if not married or divorced).
 *   **F-6-3 (Spouse after Divorce/Death):** For those who cannot maintain the marriage due to the death of the Korean spouse or other causes where the foreign spouse is not at fault.
 
 The F-6 visa allows you to work legally in almost any field without a separate sponsor. The initial validity period is usually **1 year**, after which you can extend it for periods of **1 to 3 years** at a time.
+
+Learn more in our comprehensive guide to [F Visa Family Reunion Requirements Guide for](/blog/f-visa-family-reunion-requirements).
 
 <StatCard
   title="F-6 Visa Statistics"
@@ -43,6 +49,8 @@ The F-6 visa allows you to work legally in almost any field without a separate s
 ## Prerequisite: Legal Marriage Registration
 
 You cannot apply for the F-6 visa until you are legally married to your Korean partner. This means your marriage must be registered in South Korea ("Honin-singgo").
+
+Learn more in our comprehensive guide to [Korea Permanent Residency Requirements F 5 Visa Complete ...](/blog/permanent-residency-requirements-f-5-visa).
 
 It is **not required** to be registered in your home country to apply for the visa, but it must be registered in Korea. The registration process at a local Gu-office (District Office) takes approximately **3 to 5 business days**.
 

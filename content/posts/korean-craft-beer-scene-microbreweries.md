@@ -38,6 +38,8 @@ Once these regulations were lifted, the number of breweries skyrocketed. By 2020
 
 The market is currently dominated by the MZ Generation (Millennials and Gen Z), who prioritize flavor and "instagrammability" over the sheer volume drinking associated with traditional *hoesik* (company dinners). This shift has pushed prices higher, but quality has followed suit.
 
+For more details, check out our guide on [The art of somaek how to make the perfect beer Soju mix](/blog/the-art-of-somaek-how-to-make-the-perfect-beer-soju-mix-2026).
+
 ## Seoul: The Heart of the Hops
 
 Seoul is undeniably the epicenter of the Korean craft beer scene. The city is massive, spanning over 605 square kilometers, so it is best to tackle your beer tour by neighborhood. The distance between these major hubs can take 30 to 45 minutes by subway, so planning your route is essential to maximize drinking time and minimize transit fatigue.

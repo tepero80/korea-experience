@@ -10,7 +10,11 @@ Navigating the cultural landscape of death and remembrance in a foreign country 
 
 As we move through 2026, these traditions are evolving. While the core rituals remain, the logistics have modernized, with over 90% of services now held in specialized hospital funeral centers rather than private homes. Understanding these nuances is crucial, not just to avoid social faux pas, but to genuinely connect with Korean friends or colleagues during their most vulnerable moments.
 
+You might also enjoy our article about [Korean parenting styles understanding the tiger mom vs ne...](/blog/korean-parenting-styles-understanding-the-tiger-mom-vs-new-trends-2026).
+
 This guide provides an exhaustive look at what to expect, how to behave, and the deeper meanings behind the rituals you will witness.
+
+Learn more in our comprehensive guide to [Korean wedding traditions what to expect at a local wedding](/blog/korean-wedding-traditions-what-to-expect-at-a-local-wedding-2026).
 
 <KeyTakeaways 
   points={[
@@ -26,6 +30,8 @@ This guide provides an exhaustive look at what to expect, how to behave, and the
 
 The most distinct feature of a Korean funeral is its duration. It is almost universally a three-day process (*Sam-il-jang*), operating 24 hours a day. This ensures that distant relatives and busy colleagues have ample time to pay their respects.
 
+Learn more in our comprehensive guide to [Understanding Uri We in Korean Culture 2026 Guide](/blog/the-importance-of-uri-we-understanding-korean-collectivism-2026).
+
 <Timeline
   title="The Three-Day Funeral Timeline"
   items={[
@@ -37,6 +43,8 @@ The most distinct feature of a Korean funeral is its duration. It is almost univ
 
 ### Day 1: Immediate Action
 Upon death, the body is immediately transferred to a funeral hall, typically located in the basement or annex of a major hospital. By 2026, the average cost for a standard room rental for three days in Seoul has reached approximately 2.5 million KRW ($1,850 USD), excluding food and services. The chief mourner (*Sangju*), usually the eldest son, begins contacting relatives.
+
+Related reading: [The philosophy of nunchi understanding Korea social super...](/blog/the-philosophy-of-nunchi-understanding-korea-social-superpower-2026).
 
 ### Day 2: The Main Event
 This is when you, as a friend or colleague, are expected to visit. Unlike Western funerals with a set service time, you can arrive anytime, though staying between 10:00 AM and 10:00 PM is standard for non-close friends. The atmosphere can be surprisingly lively; the noise is believed to comfort the spirit of the deceased, ensuring they do not feel lonely.

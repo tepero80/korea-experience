@@ -10,6 +10,8 @@ Korean temple food, known locally as *sachal eumsik*, has evolved from a humble 
 
 Unlike standard Korean cuisine, which is famous for its fiery spice and bold garlic flavors, temple food is mild, clean, and deeply complex. It completely avoids the "Five Pungent Spices" (*osinchae*): garlic, green onions, leeks, chives, and onions. Monks believe these ingredients hinder spiritual practice by generating excessive heat and libido in the body. Instead, flavor is achieved through time—specifically, the art of fermentation using soy sauce (*ganjang*), soybean paste (*doenjang*), and chili paste (*gochujang*) aged for years in earthenware pots.
 
+For more details, check out our guide on [Korean Temple Food Guide Best Vegetarian Buddhist Meals](/blog/korean-temple-food-vegetarian-buddhist-meals).
+
 <KeyTakeaways 
   points={[
     "Temple food is strictly vegan and excludes five pungent spices including garlic and onion",
@@ -21,6 +23,8 @@ Unlike standard Korean cuisine, which is famous for its fiery spice and bold gar
 />
 
 In this comprehensive guide, we will navigate the best places to experience this cuisine in 2026, ranging from accessible restaurants in the heart of Seoul to immersive temple stays deep in the mountains. Whether you are a dedicated vegan or a gourmand seeking Michelin-recognized flavors, this guide covers every aspect of the dining journey.
+
+Related reading: [Vegan temple food classes learning from monks in Seoul](/blog/vegan-temple-food-classes-learning-from-monks-in-seoul-2026).
 
 <QuickFacts
   title="Temple Food at a Glance"
@@ -36,7 +40,11 @@ In this comprehensive guide, we will navigate the best places to experience this
 
 To eat temple food is to consume nature in its most respectful form. The philosophy rests on three pillars: clarity of mind, sustainability, and gratitude. In 2026, with the global climate crisis intensifying, the zero-waste principles of Korean temple cooking have gained massive traction. Not a single part of the vegetable is wasted; roots, stems, and leaves are all utilized in broths or side dishes (*banchan*).
 
+You might also enjoy our article about [Halal-Certified Dining in Itaewon 2026](/blog/halal-dining-itaewon-2026).
+
 The seasoning is deliberately subtle to allow the natural essence of the ingredients to shine. For example, a simple shiitake mushroom is braised not to mask its flavor, but to enhance its inherent earthiness. This creates a dining experience that is surprisingly savory and rich in umami, despite the lack of meat or alliums.
+
+Related reading: [Affordable Fine Dining 5 Michelin-Starred Lunch Menus in ...](/blog/affordable-fine-dining-5-michelin-starred-lunch-menus-in-seoul-for-under-50).
 
 <ExpertTip 
   author="Chef Min-su Kim"

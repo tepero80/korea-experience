@@ -20,12 +20,18 @@ Living in South Korea offers an incredible blend of high-tech convenience and dy
 
 In this comprehensive guide, we have curated the ultimate list of weekend getaways specifically designed to lower cortisol levels and recharge your mental batteries. We analyze travel times, projected 2026 costs, and the specific "vibe" of each location to help you choose the perfect antidote to urban stress.
 
+Related reading: [Best neighborhoods for expats in Seoul](/blog/best-neighborhoods-for-expats-in-seoul-2026).
+
 ## 1. Sokcho & Seoraksan: The Nature Cure
 
 For many expats, the ultimate remedy for skyscraper fatigue is the sight of the East Sea horizon meeting the jagged peaks of Seoraksan National Park. As of 2026, the improved connectivity to Gangwon-do makes this the premier choice for nature lovers.
 
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
+
 ### Getting There and Logistics
 The travel landscape to Sokcho has transformed. The KTX-Eum high-speed train now connects parts of the Gyeongchun line more efficiently. Driving from Seoul typically takes 2 hours and 30 minutes via the Seoul-Yangyang Expressway, covering approximately 158 kilometers. However, weekend traffic can extend this to 3.5 hours if you leave after 9:00 AM on a Saturday.
+
+For more details, check out our guide on [Home insurance for expats what to cover in Korea](/blog/home-insurance-for-expats-what-to-cover).
 
 <QuickFacts
   title="Trip Logistics: Seoul to Sokcho"
@@ -39,6 +45,8 @@ The travel landscape to Sokcho has transformed. The KTX-Eum high-speed train now
 
 ### The Burnout Cure: Seoraksan Hiking
 Mount Seorak is not just a hike; it is a spiritual reset. The park entrance fee was abolished in recent years, making access easier, though parking remains around 6,000 KRW per day. For a low-stress experience, bypass the grueling Daecheongbong Peak climb. Instead, take the cable car (15,000 KRW round trip) to Gwongeumseong Fortress. The ride takes only 5 minutes, yet lifts you 700 meters above sea level, offering panoramic views that instantly put city worries into perspective.
+
+For more details, check out our guide on [Homeschooling and Alternative Education in Korea 2026 Guide](/blog/homeschooling-and-alternative-education-for-expats-in-korea-2026).
 
 <InfoBox type="tip" title="Pro Tip">
   To beat the queues for the Seoraksan Cable Car, arrive by 8:00 AM. Tickets are sold on a first-come, first-served basis, and wait times can exceed 2 hours by noon on weekends.

@@ -10,6 +10,8 @@ The soul of Korean cuisine does not lie in BBQ, despite its international fame. 
 
 While they may look similar to the untrained eye, the differences in preparation, serving style, price, and cultural etiquette are distinct. A Jjigae is often a solitary or intimate affair, a concentrated flavor bomb served boiling hot. Jeongol, conversely, is an elaborate communal ritual, cooked slowly at the table. Understanding these nuances not only prevents ordering mishaps but ensures you appreciate the depth of Korea's soup culture.
 
+For more details, check out our guide on [Korean Pancake Variations Guide Pajeon Bindaetteok Kimchi...](/blog/korean-pancake-variations-pajeon-bindaetteok-kimchijeon).
+
 <KeyTakeaways 
   points={[
     "Jjigae is a concentrated stew often served in individual pots (approx. 9,000 KRW).",
@@ -23,6 +25,8 @@ While they may look similar to the untrained eye, the differences in preparation
 ## The Liquid Hierarchy: Guk, Tang, Jjigae, and Jeongol
 
 To understand Jjigae and Jeongol, one must first grasp the Korean "Liquid Hierarchy." Korean dining categorizes soup dishes based on the ratio of liquid to solid ingredients and how the dish is served.
+
+You might also enjoy our article about [Korean Soup Culture Guide 2026 Kimchi Jjigae Doenjang Jjigae](/blog/korean-soup-culture-a-guide-to-kimchi-jjigae-doenjang-jjigae-and-more-2026).
 
 **Guk** is a soup with a high liquid-to-solid ratio (roughly 70:30). It is not shared; it is served in individual bowls alongside rice.
 **Tang** is similar to Guk but often implies a longer simmering time or a specific main ingredient (like Galbi-tang, short rib soup).

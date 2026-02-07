@@ -10,6 +10,8 @@ The global phenomenon of Korean dramas has transformed the way international tra
 
 However, the reality of Korean production is often different from what fans expect. Unlike Hollywood's Universal Studios, the Korean drama industry is decentralized, with filming locations scattered across the peninsula, ranging from high-tech digital cities to remote open sets in the countryside. Navigating this landscape requires precise planning, understanding of geography, and insider knowledge.
 
+For more details, check out our guide on [How to attend live K-Drama tapings ticket info guide](/blog/how-to-attend-live-k-drama-tapings-ticket-info).
+
 <KeyTakeaways 
   points={[
     "MBC Daejanggeum Park is the largest accessible historical set, located 90 minutes from Seoul.",
@@ -23,6 +25,8 @@ However, the reality of Korean production is often different from what fans expe
 ## The Reality of K-Drama Filming Locations
 
 Before booking your tickets, it is crucial to understand the two distinct types of production tours available in Korea: "Open Sets" and "Broadcast Stations." 
+
+You might also enjoy our article about [K-Drama Convenience Store Dinner Guide for Travelers in K...](/blog/k-content-living-how-to-recreate-your-favorite-k-drama-convenience-store-dinner-like-a-local).
 
 **Open Sets** are large-scale, permanent outdoor locations built primarily for historical dramas (Sageuk). Because these productions require period-specific architecture without modern skyscrapers in the background, they are often located in provinces like Gyeonggi-do or Chungcheongnam-do.
 
@@ -40,9 +44,13 @@ Before booking your tickets, it is crucial to understand the two distinct types 
 
 According to 2025 tourism data, over 1.2 million international visitors listed a filming location as a primary destination. However, the geographic spread is vast. A trip to a major coastal filming site like the one used in *Hometown Cha-Cha-Cha* (Pohang) involves a 270-kilometer journey from Seoul, taking approximately 2.5 hours by KTX train and costing around 53,000 KRW ($40 USD) one way. Understanding these distances is key to building a viable itinerary.
 
+For more details, check out our guide on [K-Drama actors fan meetings how to attend guide](/blog/k-drama-actors-fan-meetings-how-to-attend).
+
 ## MBC Daejanggeum Park: The King of Historical Sets
 
 If you only have time for one behind-the-scenes experience, MBC Daejanggeum Park is the industry standard. Located in Yongin, roughly 45 kilometers south of Seoul, this is the largest historical drama open set in Korea.
+
+For more details, check out our guide on [K-Drama Cafe Culture Scene Filming Locations Guide](/blog/k-drama-cafe-culture-scene-filming-locations).
 
 Unlike a theme park, this is a functioning production facility. It spans over 2,500,000 square meters. Iconic dramas filmed here include *The Moon Embracing the Sun*, *Empress Ki*, and the music video for BTS Suga's *Daechwita*.
 

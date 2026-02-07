@@ -10,6 +10,8 @@ In 2026, the global culinary landscape has been undeniably transformed by the "K
 
 Whether you are an expat adjusting to life in Seoul or a food enthusiast abroad, building your Korean pantry is an investment in flavor. While the initial setup might seem daunting, the longevity of these ingredients makes them incredibly cost-effective. A single tub of fermented paste can last upwards of a year, unlocking hundreds of meals. By securing just a dozen core items, you can successfully recreate over 80% of the most popular Korean dishes, from Kimchi Jjigae to Bibimbap.
 
+For more details, check out our guide on [Home insurance for expats what to cover in Korea](/blog/home-insurance-for-expats-what-to-cover).
+
 <KeyTakeaways 
   points={[
     "The 'Big Three' fermented sauces (Gochujang, Doenjang, Ganjang) form the flavor base of 90% of Korean dishes",
@@ -24,9 +26,13 @@ Whether you are an expat adjusting to life in Seoul or a food enthusiast abroad,
 
 At the heart of Korean cuisine lies "Jang," the collective term for fermented sauces. These are not merely condiments; they are the soul of the food, providing the savory umami, heat, and depth that define the palate. Historically, these were made in earthenware pots called *onggi* in the courtyards of traditional homes. Today, in 2026, while modern manufacturing has taken over, the fermentation principles remain critical.
 
+For more details, check out our guide on [Learning Korean via apps vs KIIP which is better for your...](/blog/learning-korean-via-apps-vs-kiip-which-is-better-for-your-visa-2026).
+
 ### 1. Gochujang (Korean Red Chili Paste)
 
 Gochujang is perhaps the most famous Korean ingredient globally. It is a savory, sweet, and spicy fermented paste made from chili powder, glutinous rice, fermented soybean powder, barley malt powder, and salt. Unlike hot sauces like Tabasco or Sriracha, Gochujang is a thick paste meant to be used as a base for stews, marinades, and sauces, rather than a finishing drizzle.
+
+Learn more in our comprehensive guide to [Tax returns for foreign workers in Korea essential guide](/blog/tax-returns-for-foreign-workers-in-korea).
 
 In 2026, the market offers various heat levels, usually numbered 1 through 5 on the packaging. For beginners, a level 3 (Medium Hot) is the most versatile starting point. A standard 500g (1.1 lb) tub typically retails between $7.50 and $9.00 depending on your region.
 

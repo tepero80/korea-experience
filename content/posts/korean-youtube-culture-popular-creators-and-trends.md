@@ -10,6 +10,8 @@ South Korea is arguably the most digitally connected society on Earth, and nowhe
 
 In 2026, YouTube remains the dominant video platform in South Korea, with usage rates surpassing even domestic giants like KakaoTalk for time spent. For the traveler, understanding these trends provides context to the sights you see: why people are queuing for hours at a specific bagel shop (a YouTuber reviewed it), or why you see students filming themselves studying in cafes.
 
+Learn more in our comprehensive guide to [Gaming culture visiting lol park and PC bang pro centers](/blog/gaming-culture-visiting-lol-park-and-pc-bang-pro-centers-2026).
+
 <KeyTakeaways 
   points={[
     "YouTube is Korea's second largest search engine, used by 81% of the population daily",
@@ -24,7 +26,11 @@ In 2026, YouTube remains the dominant video platform in South Korea, with usage 
 
 To understand the magnitude of YouTube in Korea, one must look at the numbers. As of early 2026, South Korea has a smartphone penetration rate of over 97%, one of the highest in the world. This infrastructure supports a massive viewer base. Recent data indicates that the average South Korean spends approximately 40 to 45 hours per month watching YouTube content, a figure that jumps to over 50 hours for the Gen Z demographic.
 
+For more details, check out our guide on [K-Drama Cafe Culture Scene Filming Locations Guide](/blog/k-drama-cafe-culture-scene-filming-locations).
+
 Unlike in many Western countries where Google is the primary search engine, Koreans often turn to YouTube first to search for "how-to" content, restaurant reviews, and travel tips. If you are looking for the best *Kimchi-jjigae* in Gangnam, a text blog is good, but a 4K video showing the steam rising from the pot is preferred.
+
+For more details, check out our guide on [K-Pop album unboxing culture photocards and inclusions guide](/blog/k-pop-album-unboxing-culture-photocards-and-inclusions).
 
 <StatCard
   title="K-YouTube Market Penetration"
@@ -37,6 +43,8 @@ Unlike in many Western countries where Google is the primary search engine, Kore
 />
 
 This saturation has led to a highly competitive creator economy. It is estimated that 1 in every 500 Koreans has uploaded a video with the intent of becoming a creator. This density creates rapid trend cycles, where a specific video format (like "Tanghulu" cooking videos) can saturate the market within 2 weeks and vanish just as quickly.
+
+Learn more in our comprehensive guide to [K-Pop fan cafe culture daum vs weverse guide for global fans](/blog/k-pop-fan-cafe-culture-daum-vs-weverse).
 
 ## Mukbang: The Titan of Korean Content
 

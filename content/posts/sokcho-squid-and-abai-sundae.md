@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 Sokcho is a culinary jewel on South Korea’s northeast coast, located approximately 120 miles (193 kilometers) from Seoul. While the city is famous for the majestic Seoraksan National Park, the true heartbeat of this coastal hub is found in its distinctive cuisine. Specifically, two dishes define the region's gastronomic identity: *Ojing-eo Sundae* (Squid Sundae) and *Abai Sundae* (Hamgyong-style Blood Sausage).
 
+Related reading: [Korean Street Food Classics Tteokbokki Hotteok Sundae Guide](/blog/korean-street-food-classics-tteokbokki-hotteok-sundae).
+
+You might also enjoy our article about [Best food apps for English speakers TableCheck vs CatchTable](/blog/best-food-apps-for-english-speakers-tablecheck-vs-catchtable-2026).
+
+Related reading: [Best Korean Convenience Store Food Must Try Items](/blog/best-korean-convenience-store-food-must-try-items-2026).
+
+You might also enjoy our article about [Chuncheon Dakgalbi Street Guide South Korea Spicy Chicken...](/blog/chuncheon-dakgalbi-street-food-district).
+
 These dishes are not merely food; they are edible history, born from the displacement of the Korean War and the abundance of the East Sea. For the international traveler, tasting these specialties offers a direct link to the resilience and creativity of the Korean people. Whether you are navigating the bustling alleys of the Sokcho Tourist Fishery Market or crossing the harbor on a manual *Gaetbae* boat to Abai Village, you are participating in a tradition that has sustained this community for over 70 years.
 
 <KeyTakeaways 

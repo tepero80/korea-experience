@@ -10,6 +10,8 @@ Seoul is a metropolis defined by its striking duality. While the neon skyline of
 
 Beneath the polished surface of K-Pop and cosmetic clinics lies a city that has witnessed 600 years of dynastic bloodshed, colonial occupation, and war. These events have birthed a rich tapestry of folklore that locals still whisper about today. Whether you are a skeptic or a believer, visiting these sites adds a layer of atmospheric depth to your travel itinerary. From the weeping spirits of the palaces to the dark echoes of former prisons, this guide uncovers the spectral side of South Korea's capital.
 
+You might also enjoy our article about [BTS tour in Seoul 2026 ultimate ARMY guide to holy sites](/blog/bts-tour-in-seoul-army-must-visit-locations-2026).
+
 <KeyTakeaways 
   points={[
     "Gyeongbokgung Palace night tours (April-October 2026) offer the most atmospheric ghost-hunting experience.",
@@ -23,6 +25,8 @@ Beneath the polished surface of K-Pop and cosmetic clinics lies a city that has 
 ## Gyeongbokgung Palace: The Cursed Axis
 
 Gyeongbokgung is not just the main royal palace; it is the epicenter of Seoul's most enduring urban legends. The primary legend revolves around the Feng Shui war waged during the early 20th century. Historical accounts suggest that during the Japanese colonial period (1910–1945), the occupiers deliberately severed the "vein of energy" (Baekdudaegan) flowing from Bugaksan Mountain to the palace to suppress the Korean spirit.
+
+For more details, check out our guide on [Historical Accuracy in K-Dramas](/blog/historical-accuracy-in-period-dramas-fact-vs-fiction).
 
 <InfoBox type="info" title="The Iron Stakes Legend">
 A persistent rumor claims that iron stakes were driven into the ground throughout the palace complex and surrounding mountains to cut off the earth's energy. While the South Korean government conducted a massive removal project in the 1990s and 2000s, removing dozens of stakes, legends persist that many remain hidden deep underground, causing restless energy in the area.

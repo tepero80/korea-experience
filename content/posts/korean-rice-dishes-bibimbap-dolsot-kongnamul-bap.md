@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 In Korea, the word for rice, "bap," is synonymous with the word for meal. To ask "Have you eaten?" is to ask "Have you had rice?" This linguistic connection underscores the fundamental role rice plays in Korean cuisine. While plain steamed white rice is the canvas for most meals, Korean culinary history has evolved to create sophisticated one-bowl rice dishes that are visually stunning, nutritionally balanced, and incredibly flavorful.
 
+For more details, check out our guide on [Best spots for solo dining hon-bap in busy districts](/blog/best-spots-for-solo-dining-hon-bap-in-busy-districts-2026).
+
+For more details, check out our guide on [Jeonju Bibimbap Trail Authentic Restaurants Guide](/blog/jeonju-bibimbap-trail-authentic-restaurants).
+
+You might also enjoy our article about [Korean Banchan Side Dishes Complete Guide](/blog/korean-banchan-side-dishes-complete-guide-2026).
+
+Related reading: [Korean royal court cuisine where to try authentic dishes](/blog/korean-royal-court-cuisine-where-to-try-authentic-dishes-2026).
+
 For international travelers, navigating the menu can be daunting. The distinctions between standard Bibimbap, the sizzling Dolsot Bibimbap, and the humble yet comforting Kongnamul Bap are significant. This guide explores these three pillars of Korean rice cuisine, offering you the historical context, etiquette tips, and specific restaurant recommendations to elevate your dining experience in Seoul and beyond.
 
 <KeyTakeaways 

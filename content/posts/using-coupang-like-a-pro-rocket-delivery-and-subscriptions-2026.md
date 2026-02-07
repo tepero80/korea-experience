@@ -26,6 +26,8 @@ In 2026, Coupang is not just a retailer; it is a logistics miracle. With over 10
 
 The service has captured over 24 million active users, representing nearly half of the country's population. For the international resident, the appeal lies in the "Rocket" promise: order today, receive it tomorrow (or even later tonight). The sheer volume of goods moving through this network is staggering, with daily deliveries exceeding 4.5 million parcels as of early 2026.
 
+For more details, check out our guide on [Korean Healthcare System Guide](/blog/korean-healthcare-system-using-national-health-insurance).
+
 <StatCard
   title="Coupang Reach 2026"
   variant="gradient"

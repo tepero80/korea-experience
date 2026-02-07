@@ -10,6 +10,8 @@ There is an unspoken rule in South Korea that transcends generations: when the r
 
 If you are visiting Seoul and the skies open up, consider it a blessing. It is your invitation to participate in one of the city's most cherished communal activities. From the gritty, graffiti-covered walls of university alleys to the sleek, modern bars of Gangnam serving premium craft brews, the options are endless.
 
+For more details, check out our guide on [Best spots for solo dining hon-bap in busy districts](/blog/best-spots-for-solo-dining-hon-bap-in-busy-districts-2026).
+
 <KeyTakeaways 
   points={[
     "Pajeon Alley in Hoegi offers the best value with set menus under 30,000 KRW",
@@ -22,9 +24,13 @@ If you are visiting Seoul and the skies open up, consider it a blessing. It is y
 
 In this comprehensive guide, we will navigate the winding alleys of Seoul to find the absolute best spots to enjoy this iconic pairing. We have curated locations based on atmosphere, taste, and accessibility for international travelers.
 
+Learn more in our comprehensive guide to [Korean drinking culture Soju Makgeolli and pocha guide](/blog/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026).
+
 ## Why Pajeon and Makgeolli? The Science and Culture
 
 Before diving into the locations, it is helpful to understand why this pairing is non-negotiable during a downpour. The tradition is not just folklore; it is rooted in agricultural history and physiology. Farmers, unable to work in the fields during heavy rain, would gather to consume fermented rice wine (which provided 6-8% alcohol and high caloric energy) and fry pancakes using easily accessible scallions and flour.
+
+For more details, check out our guide on [Korean Pancake Variations Guide Pajeon Bindaetteok Kimchi...](/blog/korean-pancake-variations-pajeon-bindaetteok-kimchijeon).
 
 <StatCard
   title="Rainy Day Economics"
@@ -37,6 +43,8 @@ Before diving into the locations, it is helpful to understand why this pairing i
 />
 
 Scientifically, the humidity on rainy days helps spread the smell of frying oil more effectively, while the drop in serotonin levels caused by lack of sunlight causes the body to crave carbohydrates. A standard *Haemul Pajeon* (Seafood Scallion Pancake) contains roughly 600-800 calories, providing the "comfort food" effect needed on a gloomy afternoon.
+
+You might also enjoy our article about [Makgeolli Bars Traditional Rice Wine Culture Guide for Tr...](/blog/makgeolli-bars-traditional-rice-wine-culture).
 
 <InfoBox type="info" title="Cultural Context">
 The word "Jeon" refers to the entire category of pan-fried battered dishes. "Pajeon" specifically means scallion pancake. You will often see "Bindae-tteok" (mung bean pancake) served alongside them, which is slightly thicker and grittier in texture.

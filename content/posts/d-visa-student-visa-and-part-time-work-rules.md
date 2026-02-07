@@ -10,6 +10,8 @@ Studying in South Korea offers a dynamic blend of high-tech modern living and de
 
 However, the Korea Immigration Service maintains strict oversight on student employment. Violating these rules can lead to heavy fines or deportation. This guide breaks down exactly how to legally work under D-2 (Degree) and D-4 (Language Trainee) visas, ensuring you stay compliant while earning.
 
+For more details, check out our guide on [Buying property in Korea foreign ownership rules guide](/blog/buying-property-in-korea-foreign-ownership-rules).
+
 <KeyTakeaways 
   points={[
     "You must apply for 'Part-Time Work Permission' (S-3) before starting any job",
@@ -24,13 +26,19 @@ However, the Korea Immigration Service maintains strict oversight on student emp
 
 Before discussing work permits, it is essential to distinguish between the two primary student visas, as their work privileges differ significantly. The South Korean government issued over 200,000 student visas in the last fiscal year, with regulations tightening slightly in 2026 regarding attendance records.
 
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
+
 ### D-2 Visa (Degree Seeking)
 This visa is for individuals enrolled in Junior Colleges, Universities, or Graduate Schools.
+
+For more details, check out our guide on [D 10 Job Seeker Visa After Graduation in 2026 Guide](/blog/d-10-job-seeker-visa-after-graduation).
 *   **Work Eligibility:** Generally eligible immediately upon arrival, provided you have the permission from your university and immigration office.
 *   **GPA Requirement:** You must maintain a GPA of C (2.0/4.5) or higher to apply for work permission.
 
 ### D-4 Visa (General Trainee/Language)
 This visa is primarily for students studying Korean at a university-affiliated language institute.
+
+For more details, check out our guide on [D 10 Job Seeker Visa Korea 2026 Complete Application Guide](/blog/d-10-job-seeker-visa-korea-complete-guide-2026).
 *   **Work Eligibility:** strictly prohibited for the first 6 months of your stay.
 *   **Attendance:** You must maintain over 90% attendance to qualify for work permission after the 6-month waiting period.
 

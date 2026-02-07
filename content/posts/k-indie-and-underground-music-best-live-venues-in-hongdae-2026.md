@@ -10,6 +10,8 @@ Hongdae remains the undisputed heartbeat of South Korea’s indie music scene in
 
 The landscape has evolved significantly over the last few years. Post-pandemic recovery has solidified, and 2026 sees a mix of legendary institutions standing strong alongside new, high-tech performance spaces. Whether you are looking for shoegaze, punk, jazz, or acoustic ballads, the 2-kilometer radius surrounding the university pulses with live sound every night of the week.
 
+For more details, check out our guide on [Korean Indie Music Scene Live Music Venues Guide](/blog/korean-indie-music-scene-live-music-venues).
+
 <KeyTakeaways 
   points={[
     "Live Club Day occurs on the last Friday of every month, offering access to 10+ venues for one flat rate of roughly 35,000 KRW.",
@@ -24,7 +26,11 @@ The landscape has evolved significantly over the last few years. Post-pandemic r
 
 To understand where to go in 2026, one must understand how the geography of Hongdae has shifted. Gentrification has pushed some smaller experimental venues toward the neighboring Hapjeong and Sangsu areas, creating a wider "Greater Hongdae" music belt. However, the core identity remains intact.
 
+For more details, check out our guide on [Korean Traditional Music Gugak Performance Venues Guide](/blog/korean-traditional-music-gugak-performance-venues).
+
 Currently, there are approximately 45 active live clubs operating within a 15-minute walk of Hongik University Station (Line 2). This concentration is unique in East Asia. The average entry fee for a regular lineup show has adjusted for inflation, sitting between 30,000 KRW and 44,000 KRW ($23–$33 USD) depending on the lineup's popularity.
+
+Related reading: [Best K-Pop concert venues in Seoul ultimate guide](/blog/best-k-pop-concert-venues-in-seoul).
 
 <StatCard
   title="Hongdae Music Economy 2026"
@@ -39,6 +45,8 @@ Currently, there are approximately 45 active live clubs operating within a 15-mi
 ## Legendary Institutions: The Big Halls
 
 These venues are the pillars of the K-Indie scene. They boast professional sound systems, higher capacities (standing 300-600), and often host bands that are on the verge of mainstream success.
+
+Related reading: [Ultimate Guide to K-Pop Music Show Recordings in Seoul](/blog/how-to-attend-k-pop-music-show-recordings-in-seoul-2026).
 
 ### KT&G Sangsang Madang Live Hall
 

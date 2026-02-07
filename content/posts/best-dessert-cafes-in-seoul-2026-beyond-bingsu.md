@@ -8,6 +8,8 @@ author: Korea Experience Team
 
 Seoul’s café culture has evolved rapidly, transforming the city into a global epicenter for confectionary innovation. While *bingsu* (shaved ice) remains a summer staple, the culinary landscape of 2026 has shifted toward textural complexity, architectural aesthetics, and a revival of traditional flavors known as "New Retro." For the sophisticated traveler, the quest for the perfect dessert now involves navigating a labyrinth of reservations, limited-edition drops, and neighborhoods like Seongsu and Hannam-dong that boast the highest density of cafes per square kilometer in the world.
 
+For more details, check out our guide on [Seoul cafe culture best coffee shops and dessert cafes](/blog/seoul-cafe-culture-best-coffee-shops-and-dessert-cafes-2026).
+
 <KeyTakeaways 
   points={[
     "Traditional Yakgwa and Gaeseong Juak have replaced macarons as the premium gift of 2026",
@@ -20,9 +22,13 @@ Seoul’s café culture has evolved rapidly, transforming the city into a global
 
 As we navigate the current year, international visitors are often surprised by the sheer scale of the dessert economy here. Recent tourism data indicates that the average traveler in Seoul spends approximately ₩45,000 ($33 USD) daily solely on café visits, a 20% increase from 2023 statistics. This guide moves beyond the standard recommendations to explore the avant-garde, the traditional-fusion, and the hyper-local sweet spots defining Seoul right now.
 
+Learn more in our comprehensive guide to [Korean dessert evolution traditional vs modern sweets guide](/blog/korean-dessert-evolution-traditional-vs-modern-sweets).
+
 ## The "Nu-Tro" Revolution: Premium Traditional Sweets
 
 The biggest trend dominating 2026 is the elevation of *han-gwa* (traditional Korean confections) into luxury goods. Moving past the initial craze of 2023, traditional desserts like *Yakgwa* (honey cookies) and *Gaeseong Juak* (juicy rice donuts) have been refined with French pastry techniques. These aren't just market snacks anymore; they are packaged like jewelry and priced to match.
+
+You might also enjoy our article about [Korean fermented foods beyond Kimchi cheonggukjang and meju](/blog/korean-fermented-foods-beyond-kimchi-cheonggukjang-and-meju-2026).
 
 <InfoBox type="info" title="Cultural Context">
   "Nu-Tro" is a portmanteau of "New" and "Retro." It refers to the Gen Z trend of reinterpreting vintage Korean culture with a modern, often luxury, twist.

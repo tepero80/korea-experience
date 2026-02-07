@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 Finding the perfect officetel or villa in Seoul is an exhilarating milestone, but signing the contract is only the beginning of your journey. For many international residents and expats, the relationship with a Korean landlord (Imdaein) can be the most complex aspect of living on the peninsula. Cultural nuances, language barriers, and a unique rental system often create friction points that differ significantly from Western housing markets.
 
+For more details, check out our guide on [Navigating Korean bureaucracy from ARC to taxes](/blog/dealing-with-korean-bureaucracy-arc-to-taxes).
+
+You might also enjoy our article about [Korea mental health resources guide dealing with loneliness](/blog/dealing-with-loneliness-mental-health-resources).
+
+Related reading: [Dealing with yellow dust and air quality best apps and masks](/blog/dealing-with-yellow-dust-and-air-quality-best-apps-and-masks-2026).
+
+Related reading: [Negotiating rent with Korean landlords guide](/blog/negotiating-rent-with-korean-landlords).
+
 While the majority of Korean landlords are reasonable and law-abiding, misunderstandings regarding maintenance, privacy, and the return of significant deposits (Bojungeum) occur frequently. In 2025 alone, housing dispute filings by foreign residents increased by 14% across the Seoul Metropolitan Area. Understanding your rights and the unspoken rules of Korean tenancy is crucial for a stress-free stay.
 
 <KeyTakeaways 

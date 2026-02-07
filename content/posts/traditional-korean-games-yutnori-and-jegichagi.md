@@ -10,6 +10,8 @@ Exploring the vibrant landscape of Korean culture goes far beyond K-Pop and BBQ.
 
 Whether you are an expat living in Seoul or a traveler looking to dive deeper into local traditions, learning these games offers a unique pathway to social connection. Unlike complex modern board games, these traditional activities are accessible, requiring minimal equipment that can be purchased for less than 5,000 KRW ($3.80 USD) at local convenience stores or markets.
 
+For more details, check out our guide on [Bonsai and Zen gardens finding peace in Korea traditional...](/blog/bonsai-and-zen-gardens-finding-peace-in-korea-traditional-greenery-2026).
+
 <KeyTakeaways 
   points={[
     "Yutnori is a strategic board game played with 4 wooden sticks, essential for Seollal celebrations.",
@@ -24,7 +26,11 @@ Whether you are an expat living in Seoul or a traveler looking to dive deeper in
 
 Yutnori is arguably the most popular traditional board game in Korea. While it may look simple—tossing sticks to move tokens around a board—it involves a surprising amount of strategy, alliance-making, and betrayal. The game dates back to the Three Kingdoms period (57 BCE – 668 CE), making it over 2,000 years old. It was traditionally played to predict the fortunes of the coming agricultural year.
 
+Related reading: [Rainy Seoul Evenings](/blog/how-to-spend-a-rainy-evening-in-seoul-best-lp-bars-and-traditional-makgeolli-houses).
+
 The game is played on a board called a *malpan*, which features 29 stations. The goal is simple: be the first team to move all four of your tokens (*mal*) around the board and back to the start. However, the movement is determined by tossing four wooden sticks called *yut*, which are flat on one side and round on the other.
+
+Related reading: [Korean Traditional Architecture Palace Tour Guide and Tips](/blog/korean-traditional-architecture-palace-tour-guide).
 
 <QuickFacts
   title="Yutnori Overview"
@@ -39,6 +45,8 @@ The game is played on a board called a *malpan*, which features 29 stations. The
 ### Understanding the Scoring System
 
 The movement in Yutnori is determined by how the four sticks land. This acts as a binary generator, creating five possible outcomes. Understanding these combinations is the first step to mastering the game.
+
+Learn more in our comprehensive guide to [Korean traditional music and performance guide](/blog/korean-traditional-music-and-performance-guide-2026).
 
 *   **Do (1 space):** One flat side up, three round sides up.
 *   **Gae (2 spaces):** Two flat sides up, two round sides up.

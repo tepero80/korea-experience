@@ -10,6 +10,8 @@ South Korea consistently ranks among the top nations globally for healthcare eff
 
 Understanding how to utilize this system is crucial for your financial well-being and peace of mind. Whether you are teaching English, working for a multinational corporation, or studying at a university, the NHI ensures that a broken bone or a sudden illness won’t bankrupt you. The system is characterized by high speed—often referred to as the "Bali-Bali" (hurry-hurry) culture—meaning wait times are significantly shorter than in countries like the UK or Canada.
 
+Related reading: [Expat Health Insurance vs National Health in Korea](/blog/insurance-for-expats-health-vs-national-health).
+
 <KeyTakeaways 
   points={[
     "Enrollment is mandatory for foreigners residing in Korea for 6 months or more.",
@@ -24,8 +26,12 @@ Understanding how to utilize this system is crucial for your financial well-bein
 
 The National Health Insurance Service (NHIS) operates on a single-payer model, funded by contributions from the insured, government subsidies, and tobacco surcharges. It is designed to be universal and mandatory.
 
+You might also enjoy our article about [Navigating the national health insurance nhis website](/blog/navigating-the-national-health-insurance-nhis-website-2026).
+
 ### Who Must Enroll?
 In the past, foreigners could choose whether to enroll. However, regulations tightened significantly in recent years. As of 2026, any foreign national residing in South Korea for **six months or longer** is automatically enrolled in the NHI. This applies to holders of D (Student), E (Employment), and F (Residency/Marriage) visas.
+
+Learn more in our comprehensive guide to [Korean health insurance nhis guide for foreigners](/blog/korean-health-insurance-nhis-guide-for-foreigners-2026).
 
 <QuickFacts
   title="Enrollment Quick Facts"
@@ -38,6 +44,8 @@ In the past, foreigners could choose whether to enroll. However, regulations tig
 />
 
 Exceptions exist for A-1, A-2, and A-3 visa holders, or those who can prove they have equivalent coverage from their home country (though the exemption process is rigorous). Failure to pay premiums can result in visa extension denials and asset seizure.
+
+Learn more in our comprehensive guide to [Korean pension refund guide 2026 for foreigners and expats](/blog/korean-retirement-system-for-foreigners-national-pension-refunds-2026).
 
 <InfoBox type="warning" title="Visa Extension Risk">
   Immigration officers check your NHIS payment history when you apply for a visa extension. Even a strictly unpaid balance of 10,000 KRW can cause your application to be rejected until the debt is cleared.

@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 For many international residents, digital nomads, and long-term travelers in South Korea, the "visa run" is an inevitable ritual. Whether you are resetting a tourist waiver or transitioning between visa types, leaving and re-entering the country requires precision, preparation, and a clear understanding of immigration policies. In 2026, border control measures have become more sophisticated, making the "wing it" approach risky. A successful visa run is no longer just about buying a cheap ticket; it is a strategic operation involving timing, documentation, and demeanor.
 
+Learn more in our comprehensive guide to [Visa extension online vs in person methods in south Korea](/blog/visa-extension-online-vs-in-person-methods).
+
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
+
+For more details, check out our guide on [D 10 Job Seeker Visa After Graduation in 2026 Guide](/blog/d-10-job-seeker-visa-after-graduation).
+
+For more details, check out our guide on [D 10 Job Seeker Visa Korea 2026 Complete Application Guide](/blog/d-10-job-seeker-visa-korea-complete-guide-2026).
+
 The concept is simple in theory: depart South Korea, enter a third country, and return to receive a new period of stay. However, with the Korea Electronic Travel Authorization (K-ETA) system fully integrated and scrutiny on "perpetual tourists" increasing, travelers must navigate this process with care. This guide covers the most efficient routes, cost breakdowns, and critical strategies to ensure your re-entry is smooth and successful.
 
 <KeyTakeaways 

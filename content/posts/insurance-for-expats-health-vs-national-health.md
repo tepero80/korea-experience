@@ -10,6 +10,8 @@ Navigating a new healthcare system is often the most daunting aspect of moving a
 
 Understanding the interplay between this mandatory public coverage and private expat health insurance is crucial for your financial planning and peace of mind. While the NHIS covers the essentials, significant gaps remain that can lead to unexpected out-of-pocket expenses.
 
+For more details, check out our guide on [Korean Healthcare System Guide](/blog/korean-healthcare-system-using-national-health-insurance).
+
 <KeyTakeaways 
   points={[
     "NHIS is mandatory for foreigners after 6 months of residence",
@@ -22,11 +24,17 @@ Understanding the interplay between this mandatory public coverage and private e
 
 This guide breaks down the costs, benefits, and strategic necessity of holding both National Health Insurance and private expat policies, ensuring you are fully covered while living in the Land of the Morning Calm.
 
+You might also enjoy our article about [Navigating the national health insurance nhis website](/blog/navigating-the-national-health-insurance-nhis-website-2026).
+
 ## The Foundation: National Health Insurance Service (NHIS)
 
 The National Health Insurance Service (NHIS) is a compulsory social insurance program that covers approximately 97% of the South Korean population. It functions on a single-payer system where contributions are collected from the insured and subsidies are provided by the government.
 
+For more details, check out our guide on [Home insurance for expats what to cover in Korea](/blog/home-insurance-for-expats-what-to-cover).
+
 For international residents, the system is designed to provide the same level of care accessible to Korean citizens. This includes general check-ups, surgeries, hospitalization, and even Traditional Korean Medicine (acupuncture and cupping) at designated clinics.
+
+Learn more in our comprehensive guide to [Korean health insurance nhis guide for foreigners](/blog/korean-health-insurance-nhis-guide-for-foreigners-2026).
 
 <QuickFacts
   title="NHIS Quick Facts"

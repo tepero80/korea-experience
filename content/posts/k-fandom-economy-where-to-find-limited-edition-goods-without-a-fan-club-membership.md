@@ -243,7 +243,7 @@ A significant hurdle for international visitors is the language barrier and paym
 ### Language Assistance
 
 *   **Translation Apps:** Papago (Naver's translator) is highly recommended for Korean-English translation and often performs better than Google Translate for nuances. Use its image translation feature for menus or signs.
-*   **Basic Korean Phrases:** Learning a few basic phrases like "?�마?�요? (Eolmayeyo? - How much is it?)" or "?�거 주세??(Igeo juseyo - Please give me this)" can go a long way.
+*   **Basic Korean Phrases:** Learning a few basic phrases like "얼마예요? (Eolmayeyo? - How much is it?)" or "이거 주세요 (Igeo juseyo - Please give me this)" can go a long way.
 *   **Help from Locals:** Don't hesitate to politely ask for help from store staff (many younger staff in tourist areas speak some English) or even friendly locals, especially students.
 
 ### Payment Methods
@@ -308,7 +308,7 @@ Navigating the K-fandom economy in Korea as an international traveler without a 
     },
     {
       question: "Are limited-edition items much more expensive than regular merchandise?",
-      answer: "Yes, often. Limited-edition goods, especially rare photocards or special event items, can command significantly higher prices on the secondary market?�sometimes 50% to 300% above their original retail price. In official stores or pop-ups, they might be priced similarly to regular merchandise, but their scarcity makes them highly valued."
+      answer: "Yes, often. Limited-edition goods, especially rare photocards or special event items, can command significantly higher prices on the secondary market—sometimes 50% to 300% above their original retail price. In official stores or pop-ups, they might be priced similarly to regular merchandise, but their scarcity makes them highly valued."
     },
     {
       question: "How can I find out about upcoming K-pop pop-up stores or events?",

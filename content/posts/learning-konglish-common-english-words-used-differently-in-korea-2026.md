@@ -10,6 +10,8 @@ You have landed at Incheon International Airport, eager to start your Korean adv
 
 Konglish (Korean + English) refers to English loanwords that have been adopted into the Korean language but often with shifted meanings, abbreviated forms, or entirely new definitions. In 2026, as South Korea continues to be a global cultural hub, understanding these nuances is as vital as learning "Hello" (Annyeonghaseyo). This guide is your comprehensive resource to decoding the English words used differently in Korea, ensuring your travel experience is seamless and culturally rich.
 
+Learn more in our comprehensive guide to [Calligraphy classes in Seoul mastering Hangeul art](/blog/calligraphy-classes-in-seoul-learning-the-art-of-hangeul-2026).
+
 <KeyTakeaways 
   points={[
     "Konglish words often retain English pronunciation but have completely different definitions",
@@ -24,7 +26,11 @@ Konglish (Korean + English) refers to English loanwords that have been adopted i
 
 Konglish is not merely "broken English"; it is a legitimate subset of the Korean lexicon. Linguists estimate that over 90% of foreign loanwords used in modern Korea are derived from English. However, because Korean phonology differs from English, the pronunciation often changes (e.g., "coffee" becomes "keo-pi"). More importantly, the usage evolves to fit local cultural contexts.
 
+For more details, check out our guide on [K literature in English top books to understand modern Korea](/blog/k-literature-in-english-top-books-to-understand-modern-korea-2026).
+
 Understanding Konglish is crucial for navigation, shopping, and dining. It bridges the gap between total fluency and being a confused tourist. In 2026, with the rise of digital kiosks and "untact" (contactless) services, recognizing these terms written in English or Romanized characters is more important than ever.
+
+For more details, check out our guide on [K-Pop karaoke noraebang song requests in English guide](/blog/k-pop-karaoke-noraebang-song-requests-in-english).
 
 <StatCard
   title="Linguistic Landscape 2026"
@@ -39,6 +45,8 @@ Understanding Konglish is crucial for navigation, shopping, and dining. It bridg
 ## Food and Cafe Culture: Ordering Like a Local
 
 The most immediate place you will encounter Konglish is in Korea's bustling cafe scene. With over 90,000 coffee shops in the country as of 2026, you are never more than 100 meters away from a caffeine fix. However, the menu might surprise you.
+
+Related reading: [Korean Calligraphy Classes Learning Hangeul Art](/blog/korean-calligraphy-classes-learning-hangeul-art).
 
 ### 1. Service (Seo-bi-su)
 In the West, "service" usually refers to the waitstaff's performance. In Korea, **Service** refers to a free item given on the house. If a waiter brings you a free soda or a side dish and says "Service," they are not complimenting their own work; they are telling you it is free of charge (0 KRW). This practice is common in restaurants when you order a large meal, typically exceeding 50,000 KRW ($38 USD).

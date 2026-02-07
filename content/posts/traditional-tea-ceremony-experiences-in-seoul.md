@@ -10,6 +10,8 @@ Seoul is a city defined by its frenetic energy, yet tucked away within its bustl
 
 While coffee shops currently dominate the streets of Seoul—with over 18,000 cafes operating in the capital alone as of 2025—the resurgence of traditional tea culture is palpable in districts like Jongno-gu. Whether you are looking for a casual sip in a 100-year-old Hanok or a formal masterclass in etiquette, Seoul offers a spectrum of experiences.
 
+Related reading: [Traditional tea ceremonies a beginner guide to Korean darye](/blog/traditional-tea-ceremonies-a-beginner-guide-to-korean-darye-2026).
+
 <KeyTakeaways 
   points={[
     "Top tea districts are Bukchon and Insadong, accessible via Anguk Station",
@@ -24,7 +26,11 @@ While coffee shops currently dominate the streets of Seoul—with over 18,000 ca
 
 Before diving into specific venues, it is crucial to understand what distinguishes *Darye* (literally "Etiquette for Tea"). Originating over 1,000 years ago during the Silla Dynasty, Korean tea culture peaked during the Goryeo Dynasty (918–1392) before being suppressed during the Confucian-heavy Joseon era. Today, it is experiencing a renaissance.
 
+For more details, check out our guide on [Bonsai and Zen gardens finding peace in Korea traditional...](/blog/bonsai-and-zen-gardens-finding-peace-in-korea-traditional-greenery-2026).
+
 The primary difference lies in the tea itself and the atmosphere. Korean ceremonies predominantly use loose-leaf green tea (*Nokcha*), particularly strictly graded leaves like *Woojeon* (picked before April 20th). The water temperature is cooled to approximately 60-70 degrees Celsius (140-158°F) to prevent bitterness, a stark contrast to the boiling water used for black teas.
+
+Learn more in our comprehensive guide to [Gaming culture visiting lol park and PC bang pro centers](/blog/gaming-culture-visiting-lol-park-and-pc-bang-pro-centers-2026).
 
 <StatCard
   title="Tea Grading Metrics"
@@ -37,6 +43,8 @@ The primary difference lies in the tea itself and the atmosphere. Korean ceremon
 />
 
 The setting is equally important. Most traditional experiences take place in a *Hanok* (traditional house), where the architecture utilizes wood and paper (*Hanji*) to create a breathable environment. You will often sit on the floor, though many modern tea houses now offer table seating to accommodate travelers uncomfortable with cross-legged sitting for the typical 60 to 90-minute duration.
+
+Related reading: [Rainy Seoul Evenings](/blog/how-to-spend-a-rainy-evening-in-seoul-best-lp-bars-and-traditional-makgeolli-houses).
 
 <InfoBox type="tip" title="Pro Tip">
 If you choose a floor-seating venue, wear loose, comfortable trousers. Skirts can be cumbersome, though most venues provide aprons or blankets for modesty.

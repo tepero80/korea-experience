@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 Navigating the workplace in a foreign country can be daunting, but understanding your legal footing is the first step toward a successful professional life in South Korea. As the expat community continues to grow—surpassing 2.5 million residents in late 2025—the South Korean government has rigorously updated the Labor Standards Act (LSA) to ensure fair treatment for all workers, regardless of nationality.
 
+For more details, check out our guide on [Buying property in Korea foreign ownership rules guide](/blog/buying-property-in-korea-foreign-ownership-rules).
+
+You might also enjoy our article about [Kiosk survival guide](/blog/foreign-friendly-kiosk-survival-guide-what-to-do-when-your-overseas-credit-card-is-rejected).
+
+Learn more in our comprehensive guide to [How to register your foreign address change online and of...](/blog/how-to-register-your-foreign-address-change-online-and-offline-2026).
+
+You might also enjoy our article about [Pregnancy and childbirth in Korea a guide for foreign mot...](/blog/pregnancy-and-childbirth-in-korea-a-guide-for-foreign-mothers-2026).
+
 Whether you are an English teacher on an E-2 visa, a tech professional on an E-7, or a resident on an F-series visa, the law applies to you equally. In 2026, the landscape of Korean labor law emphasizes strict adherence to working hours, clear severance mandates, and protection against workplace harassment. Ignorance of the law is not a valid defense for employers, nor should it be a vulnerability for employees.
 
 <KeyTakeaways 

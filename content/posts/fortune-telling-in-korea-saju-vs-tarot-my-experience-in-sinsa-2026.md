@@ -10,6 +10,8 @@ Seoul in 2026 is a city of dualities, where hyper-futuristic technology sits com
 
 For the uninitiated traveler, the choice often comes down to two main disciplines: **Saju** (traditional Korean astrology based on the four pillars of destiny) and **Tarot** (Western-style card reading adapted to Korean sensibilities). During my recent trip to Sinsa-dong in January 2026, I decided to experience both back-to-back to understand which method offers better insights for the modern traveler.
 
+For more details, check out our guide on [K-Food Cooking Class 2026 Guide to Korean Home Cooking](/blog/k-food-cooking-class-korean-home-cooking-experience-2026).
+
 <KeyTakeaways 
   points={[
     "Saju analyzes your lifelong destiny using birth date and exact time",
@@ -24,6 +26,8 @@ For the uninitiated traveler, the choice often comes down to two main discipline
 
 Fortune telling, or *Jeom*, is not seen merely as superstition in Korea; it is a form of counseling and social entertainment. According to a 2025 survey by TrendMonitor, 72% of Koreans aged 19 to 39 visited a fortune teller at least once in the past year. This cultural phenomenon is deeply rooted, yet it has modernized significantly. In 2026, you are just as likely to see a Saju master using a high-end tablet and AI-assisted software as you are to see them using an old paper almanac.
 
+For more details, check out our guide on [The rise of k webtoons best manhwa spots in Seoul](/blog/the-rise-of-k-webtoons-where-to-experience-manhwa-culture-in-seoul-2026).
+
 <StatCard
   title="Industry Statistics 2026"
   variant="gradient"
@@ -35,6 +39,8 @@ Fortune telling, or *Jeom*, is not seen merely as superstition in Korea; it is a
 />
 
 The density of these establishments is staggering. In popular districts like Gangnam and Mapo-gu, you can find a fortune telling booth or cafe every 50 to 100 meters. This accessibility makes it an easy, albeit intimidating, activity for tourists.
+
+For more details, check out our guide on [Traditional Korean Hanbok experience in Seoul complete guide](/blog/traditional-korean-hanbok-experience-in-seoul).
 
 <InfoBox type="arc-free" title="Cultural Context">
 In Korea, visiting a fortune teller is common before major life events: university entrance exams (Suneung), marriage, starting a business, or the beginning of the Lunar New Year (Seollal). It is treated as strategic advice rather than absolute magic.

@@ -10,6 +10,8 @@ Gyeongju, known as the "Museum Without Walls," offers more than just tumuli park
 
 The culinary landscape here is distinct from Seoul or Busan. It is characterized by clean flavors, an abundance of seasonal vegetables, and a presentation style that reflects the formality of the Silla court. Whether you are seeking the complex fermentation of Gyeongju Beopju rice wine or the humble comfort of Hwangnam bread, this guide navigates the deep history and practical dining reality of Korea's Golden City.
 
+Related reading: [Affordable Fine Dining 5 Michelin-Starred Lunch Menus in ...](/blog/affordable-fine-dining-5-michelin-starred-lunch-menus-in-seoul-for-under-50).
+
 <KeyTakeaways 
   points={[
     "Gyeongju cuisine is heavily influenced by 1,000 years of Silla Dynasty court culture",
@@ -24,7 +26,11 @@ The culinary landscape here is distinct from Seoul or Busan. It is characterized
 
 To understand Gyeongju's food, one must understand its geography and history. Located in the southeastern province of Gyeongsangbuk-do, approximately 370 kilometers southeast of Seoul, the region benefits from fertile inland soil and proximity to the East Sea. This allowed the Silla royalty to access fresh seafood, grains, and mountain herbs.
 
+For more details, check out our guide on [Best spots for solo dining hon-bap in busy districts](/blog/best-spots-for-solo-dining-hon-bap-in-busy-districts-2026).
+
 Unlike the spicy, bold flavors often associated with southern Korean cuisine, Gyeongju traditional cuisine historic recipes often lean toward milder, more savory profiles. This restraint was considered a sign of refinement among the aristocracy. Today, over 250 distinct recipes are recognized as part of the region's culinary heritage, with many restaurants boasting recipes passed down for 3 to 4 generations.
+
+Learn more in our comprehensive guide to [Exploring Korea Traditional Market Street Food Tours](/blog/exploring-korea-traditional-market-street-food-tours-2026).
 
 <StatCard
   title="Silla Culinary Heritage"
@@ -39,6 +45,8 @@ Unlike the spicy, bold flavors often associated with southern Korean cuisine, Gy
 ## Surasim: The Royal Table Experience
 
 The pinnacle of Gyeongju dining is the "Surasim" or Royal Table. Historically, the King was served a table known as *Sib-i-cheop bansang*, consisting of 12 distinct side dishes in addition to rice, soup, and stew.
+
+You might also enjoy our article about [Gluten free dining in Korea celiac safe options guide](/blog/gluten-free-dining-in-korea-celiac-safe-options).
 
 In modern Gyeongju, this experience is replicated in high-end Hanjeongsik (Korean Table d'hote) restaurants. These meals are not designed to be eaten quickly; the average dining duration is between 90 to 120 minutes. The layout follows a strict cosmology involving five colors (red, green, yellow, white, black) representing the five elements, ensuring nutritional balance.
 

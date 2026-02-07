@@ -22,8 +22,12 @@ South Korea’s nightlife is legendary, a neon-soaked tapestry woven with histor
 
 Soju is undisputed as the national drink of Korea. In 2025 alone, domestic consumption exceeded 2.3 billion bottles. While often compared to vodka, Soju has a sweeter, smoother profile and a lower alcohol content, making it dangerously easy to drink throughout a long dinner.
 
+You might also enjoy our article about [Makgeolli Bars Traditional Rice Wine Culture Guide for Tr...](/blog/makgeolli-bars-traditional-rice-wine-culture).
+
 ### The Green Bottle vs. Premium Distillates
 Most visitors are familiar with the ubiquitous green bottles found in every convenience store (GS25, CU, 7-Eleven). These are typically diluted spirits made from ethanol processed from sweet potatoes or tapioca, with added sweeteners like stevia. However, 2026 sees a massive surge in "Premium Soju"—traditional distilled rice spirits that offer complex floral and earthy notes.
+
+Learn more in our comprehensive guide to [Zero sugar Soju and healthy drinking trends in Korea](/blog/zero-sugar-soju-and-healthy-drinking-trends-in-korea-2026).
 
 <QuickFacts
   title="Soju Basics 2026"
@@ -36,6 +40,8 @@ Most visitors are familiar with the ubiquitous green bottles found in every conv
 />
 
 Standard green-bottle Soju (360ml) generally costs between 1,800 and 2,000 KRW ($1.35-$1.50 USD) at retail stores, while restaurants charge between 5,000 and 7,000 KRW. In contrast, premium distilled Soju, often aged in pottery, starts at 15,000 KRW and can reach upwards of 80,000 KRW per bottle depending on the heritage of the distillery.
+
+Learn more in our comprehensive guide to [Daegu Makchang guide the ultimate grilled intestines expe...](/blog/daegu-makchang-grilled-intestines-culture).
 
 <ComparisonTable
   title="Diluted vs. Distilled Soju"
@@ -50,6 +56,8 @@ Standard green-bottle Soju (360ml) generally costs between 1,800 and 2,000 KRW (
 
 ### The Art of Somaek
 If straight Soju is too harsh, you must try *Somaek* (Soju + Maekju/Beer). The Golden Ratio for 2026, widely accepted by younger generations in areas like Hongdae, is 3 parts Soju to 7 parts beer. This concoction is refreshing and hits harder than beer alone.
+
+You might also enjoy our article about [Korean breakfast culture what locals eat in the morning](/blog/korean-breakfast-culture-what-locals-actually-eat-in-the-morning-2026).
 
 <ExpertTip 
   author="Min-ji Kim"

@@ -10,7 +10,11 @@ Moving to a new apartment in South Korea is an exhilarating experience. Whether 
 
 As of 2026, the South Korean government remains strict regarding the residency tracking of foreign nationals. Failing to report your new address within the mandated timeframe is not just a minor clerical error; it is a violation of the Immigration Control Act that carries significant financial penalties.
 
+For more details, check out our guide on [Buying property in Korea foreign ownership rules guide](/blog/buying-property-in-korea-foreign-ownership-rules).
+
 Navigating Korean bureaucracy can feel daunting, especially with language barriers. However, the systems have become increasingly digitized and user-friendly over the last few years. Whether you prefer the face-to-face interaction of a local community center or the convenience of the HiKorea website, this guide covers every specific detail, cost, and document you need to ensure a smooth transition.
+
+You might also enjoy our article about [Kiosk survival guide](/blog/foreign-friendly-kiosk-survival-guide-what-to-do-when-your-overseas-credit-card-is-rejected).
 
 <KeyTakeaways 
   points={[
@@ -26,7 +30,11 @@ Navigating Korean bureaucracy can feel daunting, especially with language barrie
 
 If you remember nothing else from this guide, remember the number **14**. According to Article 36 of the Immigration Control Act, all registered foreigners must report their change of residence within 14 days of moving in.
 
+Learn more in our comprehensive guide to [Korean labor laws your rights as a foreign employee](/blog/korean-labor-laws-your-rights-as-a-foreign-employee-2026).
+
 This is not 14 business days; it is **14 calendar days**. The count begins the day after the "move-in date" specified on your housing contract. For example, if your lease starts on January 1st, you have until January 15th to complete the registration.
+
+You might also enjoy our article about [Pregnancy and childbirth in Korea a guide for foreign mot...](/blog/pregnancy-and-childbirth-in-korea-a-guide-for-foreign-mothers-2026).
 
 ### Why is this strict?
 The Korean government utilizes your Residence Card (formerly Alien Registration Card or ARC) as the primary method of identity verification. Your address determines your local government jurisdiction, tax obligations, and national health insurance allocation. In 2025 alone, over 12,000 fines were issued to foreign residents solely for missing this deadline, generating significant revenue for the immigration office.

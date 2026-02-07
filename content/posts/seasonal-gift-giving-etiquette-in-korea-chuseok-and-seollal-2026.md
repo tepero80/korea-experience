@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 Navigating the intricacies of Korean social etiquette can be challenging for international residents and travelers, but nowhere is this more apparent than during the two major national holidays: Seollal (Lunar New Year) and Chuseok (Korean Thanksgiving). As we approach the 2026 holiday season, the traditions of gift-giving remain a vital pillar of Korean society, serving as a tangible expression of *Jeong* (deep emotional connection) and respect.
 
+Learn more in our comprehensive guide to [Collecting K-Pop photocards the global market and trading...](/blog/collecting-k-pop-photocards-the-global-market-and-trading-etiquette-2026).
+
+You might also enjoy our article about [The 15-Degree Tilt](/blog/korean-bowing-etiquette-2026).
+
+For more details, check out our guide on [Bottoms Up in Seoul](/blog/korean-drinking-etiquette-2026).
+
+For more details, check out our guide on [Why You Should Never Use the 'Prayer Pose' in South Korea](/blog/korean-prayer-pose-etiquette-guide-2026).
+
 For the year 2026, the calendar presents specific opportunities for preparation. Seollal falls on February 17, creating a prime gifting window in early February, while Chuseok arrives on September 25, meaning summer is the time to start planning your logistics. Understanding what to give, whom to give it to, and how to present it can determine the success of your personal and professional relationships in Korea.
 
 <KeyTakeaways 

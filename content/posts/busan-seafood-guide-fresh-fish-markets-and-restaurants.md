@@ -10,6 +10,8 @@ Busan is synonymous with the ocean. As South Korea's second-largest city with a 
 
 Navigating this aquatic culinary landscape can be intimidating for international visitors. The systems for buying, the language barriers, and the sheer variety of marine life on display require a bit of insider knowledge. This comprehensive Busan seafood guide serves as your roadmap to finding the freshest fish, understanding the "siga" (market price) system, and dining like a true local.
 
+Learn more in our comprehensive guide to [The best fresh seafood in Busan jagalchi market](/blog/the-best-fresh-seafood-in-busan-jagalchi-market-2026).
+
 <KeyTakeaways 
   points={[
     "Jagalchi Market handles over 30% of Korea's seafood production daily",
@@ -24,7 +26,11 @@ Navigating this aquatic culinary landscape can be intimidating for international
 
 Jagalchi Market is not just a market; it is a cultural institution and the largest seafood market in South Korea. Located in the Nampo-dong district, the market's history dates back to the Korean War, making it a symbol of the city's resilience. The facility is split into two distinct areas: the modern 7-story main building (completed in 2006) and the sprawling outdoor street market that stretches for nearly 1 kilometer along the waterfront.
 
+For more details, check out our guide on [Korean Seasonal Fish Guide 2026 Best Seafood by Season](/blog/a-guide-to-korean-seasonal-fish-what-to-eat-in-spring-summer-fall-winter-2026).
+
 The ground floor of the main building houses hundreds of live fish tanks. Here, you will find vendors selling flatfish, rockfish, sea bream, eels, and octopus. The energy is palpable, with the famous "Jagalchi Ajummas" (middle-aged female vendors) shouting to attract customers.
+
+Related reading: [Korean seafood guide from raw fish to grilled shellfish](/blog/korean-seafood-delicacies-raw-fish-to-grilled-shellfish).
 
 <QuickFacts
   title="Jagalchi Market Basics"
@@ -39,6 +45,8 @@ The ground floor of the main building houses hundreds of live fish tanks. Here, 
 ### How to Navigate the "Chojang-jip" System
 
 One of the most unique aspects of dining in Korean fish markets is the "Chojang-jip" system. This term refers to restaurants that provide the space, vegetable wraps, sauces (chojang), and spicy stew preparation for a set table fee, while you bring the main seafood element from the vendors below. This ensures you pay retail market prices for the fish rather than restaurant markups.
+
+Learn more in our comprehensive guide to [Korean seafood markets noryangjin and more](/blog/korean-seafood-markets-noryangjin-and-more-2026).
 
 <StepGuide
   title="How to Order and Eat at Jagalchi"

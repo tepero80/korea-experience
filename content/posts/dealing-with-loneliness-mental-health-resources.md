@@ -10,6 +10,8 @@ Moving to South Korea is often portrayed as a neon-lit adventure filled with end
 
 Seoul, a mega-city of over 9.7 million people, can paradoxically feel like the loneliest place on earth when you are navigating a language barrier and cultural differences. Whether you are a student, an English teacher, or a corporate expat, acknowledging that your mental health needs attention is the first and most crucial step. This guide breaks down exactly how to find help, from immediate crisis intervention to long-term therapy and community building.
 
+You might also enjoy our article about [Mental health support for expats English speaking therapy...](/blog/mental-health-support-for-expats-english-speaking-therapy-in-seoul-2026).
+
 <KeyTakeaways 
   points={[
     "English-speaking counseling is widely available in major cities like Seoul and Busan",
@@ -24,7 +26,11 @@ Seoul, a mega-city of over 9.7 million people, can paradoxically feel like the l
 
 Historically, South Korea has battled a stigma regarding mental health. However, the landscape in 2026 is vastly different from a decade ago. The government and private sectors have recognized the critical need for psychological support, specifically for the growing international population.
 
+For more details, check out our guide on [Navigating Korean bureaucracy from ARC to taxes](/blog/dealing-with-korean-bureaucracy-arc-to-taxes).
+
 While traditional cultural views prioritized resilience over seeking help, modern Korea has seen a 45% increase in mental health clinics over the last five years. For expats, the primary hurdle is no longer availability, but accessibility—finding providers who speak fluent English and understand the Western nuance of mental health care.
+
+Related reading: [Dealing with Korean landlords common issues and solutions](/blog/dealing-with-korean-landlords-common-issues).
 
 <StatCard
   title="Expat Mental Health Stats"
@@ -37,6 +43,8 @@ While traditional cultural views prioritized resilience over seeking help, moder
 />
 
 The feeling of isolation often peaks around the 3-month mark of residency. This is when the "honeymoon phase" ends. It is important to remember that feeling lonely is a biological signal, much like hunger or thirst, indicating a need for connection.
+
+Related reading: [Dealing with yellow dust and air quality best apps and masks](/blog/dealing-with-yellow-dust-and-air-quality-best-apps-and-masks-2026).
 
 ## Immediate Help: Crisis Resources and Hotlines
 

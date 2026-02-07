@@ -10,6 +10,8 @@ When international travelers think of Korean fermentation, Kimchi is invariably 
 
 In 2026, the global culinary scene has embraced fermentation not just for preservation, but for gut health and complex flavor profiles. While Kimchi has become a household name globally, Cheonggukjang remains the "final boss" for many expat palates due to its robust aroma. Yet, once acquired, it is an addiction that speaks to the rustic, hearty history of the Korean peninsula.
 
+Related reading: [Korean Fermented Foods Beyond Kimchi Doenjang Gochujang](/blog/korean-fermented-foods-beyond-kimchi-doenjang-gochujang).
+
 <KeyTakeaways 
   points={[
     "Cheonggukjang offers 3x higher probiotic content than standard yogurt",
@@ -24,7 +26,11 @@ In 2026, the global culinary scene has embraced fermentation not just for preser
 
 To understand any Korean fermented bean product, you must first understand Meju. Historically prepared in the late autumn (typically November), Meju consists of soybeans that have been boiled, crushed, and formed into brick-like blocks.
 
+For more details, check out our guide on [50 Must Try Korean Foods Complete Guide](/blog/50-must-try-korean-foods-complete-guide-2026).
+
 These blocks are then hung to dry and ferment naturally. The process relies on *Bacillus subtilis* and various fungi found naturally in the air, particularly in the Korean countryside.
+
+Related reading: [Best dessert cafes in Seoul 2026 beyond Bingsu](/blog/best-dessert-cafes-in-seoul-2026-beyond-bingsu).
 
 <QuickFacts
   title="Meju Production Specs"
@@ -37,6 +43,8 @@ These blocks are then hung to dry and ferment naturally. The process relies on *
 />
 
 The transformation of Meju is fascinating. A typical brick measures approximately **20cm x 15cm x 10cm**. During the drying phase, the outer layer hardens while the inside retains moisture, allowing beneficial molds to grow. By early 2026, artisanal producers in regions like Sunchang and Paju are selling premium Meju bricks for approximately **45,000 to 60,000 KRW** per block, a 15% increase from 2024 prices due to rising domestic soybean costs.
+
+For more details, check out our guide on [Korean Breakfast Foods Traditional Morning Meals Guide](/blog/korean-breakfast-foods-traditional-morning-meals).
 
 <InfoBox type="info" title="The Smell of Tradition">
   If you visit rural Korea in winter, you might see Meju blocks hanging from eaves. They emit a unique, musty odor. This is not spoilage; it is the smell of beneficial bacteria working to break down proteins into amino acids, creating the savory taste known as Umami.

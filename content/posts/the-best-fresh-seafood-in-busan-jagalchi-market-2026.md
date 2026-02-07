@@ -10,6 +10,8 @@ The salty tang of the ocean hits you the moment you step off Subway Line 1 at Ja
 
 For the international traveler, Jagalchi is more than a market; it is a sensory overload and a gastronomic pilgrimage. However, navigating the labyrinth of wet floors, aggressive sales pitches, and fluctuating market prices can be daunting. Finding the best fresh seafood in Busan Jagalchi Market requires insider knowledge. Whether you are hunting for the sweet, delicate flesh of a Red King Crab or the chewy resilience of live octopus (San-nakji), understanding the ecosystem of this 7-story landmark is crucial for a successful dining experience.
 
+You might also enjoy our article about [Busan seafood guide fresh fish markets and restaurants](/blog/busan-seafood-guide-fresh-fish-markets-and-restaurants).
+
 <KeyTakeaways 
   points={[
     "Market prices for King Crab in 2026 average 80,000-100,000 KRW per kg",
@@ -24,7 +26,11 @@ For the international traveler, Jagalchi is more than a market; it is a sensory 
 
 Jagalchi Market is the beating heart of Busan's Nampo-dong district. Historically formed by refugees during the Korean War in the 1950s, it has evolved into a modern seafood mecca. Today, approximately 30% of South Korea's total seafood production passes through this area. The market is divided into two distinct zones: the modern, seagull-shaped building constructed in 2006, and the sprawling outdoor street market that stretches for nearly 500 meters along the port.
 
+For more details, check out our guide on [Korean Seasonal Fish Guide 2026 Best Seafood by Season](/blog/a-guide-to-korean-seasonal-fish-what-to-eat-in-spring-summer-fall-winter-2026).
+
 While the outdoor market offers a rugged, authentic atmosphere where local grandmothers (known affectionately as "Jagalchi Ajimae") sell mackerel and dried fish on low wooden crates, the indoor market is where the premium live seafood action happens. Here, hundreds of tanks glow with blue lights, housing everything from flatfish to lobsters imported from Russia and Canada.
+
+Learn more in our comprehensive guide to [Exploring Korea Traditional Market Street Food Tours](/blog/exploring-korea-traditional-market-street-food-tours-2026).
 
 <QuickFacts
   title="Jagalchi Market Essentials"
@@ -38,6 +44,8 @@ While the outdoor market offers a rugged, authentic atmosphere where local grand
 
 ### The Modern Facility
 The main building, located at 52 Jagalchihaean-ro, consists of seven floors and two basement levels. For most travelers, the primary focus will be the 1st and 2nd floors. The 1st floor houses over 300 live seafood stalls, while the 2nd floor contains the "Chogunjip" (condiment restaurants) and dried seafood sections. The building is equipped with elevators and clean restrooms, making it a more accessible option for families or those wary of the wet, uneven pavement of the outdoor section.
+
+Related reading: [Gwangjang Market Complete Food Guide Best Stalls](/blog/gwangjang-market-complete-food-guide).
 
 <StatCard
   title="Visitor Statistics 2026"

@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 The landscape of Korean cuisine is often defined by its savory powerhouses—kimchi, barbecue, and spicy stews. However, a sugar-coated revolution has taken over the peninsula, transforming Seoul into one of the world's dessert capitals. For international travelers landing in 2026, the contrast is striking: you are just as likely to queue for 90 minutes for a traditional honey cookie from the Joseon Dynasty as you are for a hyper-modern, basil-infused croissant.
 
+Related reading: [Best dessert cafes in Seoul 2026 beyond Bingsu](/blog/best-dessert-cafes-in-seoul-2026-beyond-bingsu).
+
+Learn more in our comprehensive guide to [Exploring Korea Traditional Market Street Food Tours](/blog/exploring-korea-traditional-market-street-food-tours-2026).
+
+Related reading: [Gyeongju Traditional Cuisine Historic Recipes and Dining ...](/blog/gyeongju-traditional-cuisine-historic-recipes).
+
+For more details, check out our guide on [Korean Breakfast Foods Traditional Morning Meals Guide](/blog/korean-breakfast-foods-traditional-morning-meals).
+
 The Korean dessert evolution is not a replacement of the old by the new, but rather a dynamic coexistence known locally as "Newtro" (New + Retro). Understanding this duality is essential for any food lover visiting Korea. Whether you are seeking the subtle, earthy tones of a 500-year-old rice cake recipe or the visual explosion of a viral shaved ice tower, this guide explores how Korea's sweet scene has transformed from exclusive royal treats to a democratization of indulgence.
 
 <KeyTakeaways 

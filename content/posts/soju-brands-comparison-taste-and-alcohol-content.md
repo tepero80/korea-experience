@@ -10,6 +10,8 @@ When international travelers land at Incheon International Airport, they are oft
 
 Understanding the nuances between a bottle of Chamisul Fresh and a premium Hwayo 41 can be the difference between a delightful cultural immersion and a regrettable morning after. This comprehensive guide breaks down the major soju brands, comparing their specific taste profiles, alcohol by volume (ABV), and ingredients to help you navigate the aisles of a convenience store or the menu of a Gangnam pocha (tent bar) with confidence.
 
+You might also enjoy our article about [Ultimate Soju guide 2026 top brands and best food pairings](/blog/the-ultimate-soju-guide-different-brands-and-best-food-pairings-2026).
+
 <KeyTakeaways 
   points={[
     "Standard green bottle soju ranges from 15.5% to 16.5% ABV as of 2026",
@@ -24,7 +26,11 @@ Understanding the nuances between a bottle of Chamisul Fresh and a premium Hwayo
 
 Soju has undergone a massive transformation over the last few decades. Historically, soju was a rice-based distillate with an alcohol content hovering around 25% to 35%. However, due to rice shortages in the post-war era, the government banned using rice for alcohol, leading manufacturers to switch to tapioca, sweet potatoes, and other starches. This created "diluted soju"—ethanol extracted from these starches, diluted with water, and flavored with sweeteners.
 
+Learn more in our comprehensive guide to [Korean drinking culture Soju Makgeolli and pocha guide](/blog/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026).
+
 In recent years, the trend has been a "race to the bottom" regarding alcohol content. While 25% was standard in the 1990s, the average ABV of mainstream brands has dropped to approximately 16.0% in 2026. This lower percentage appeals to younger drinkers and allows for longer social sessions without immediate intoxication.
+
+You might also enjoy our article about [Best Korean Ramyeon Guide Top Instant Noodle Brands](/blog/korean-ramyeon-guide-best-instant-noodle-brands-2026).
 
 <StatCard
   title="Soju Market Statistics"
@@ -37,6 +43,8 @@ In recent years, the trend has been a "race to the bottom" regarding alcohol con
 />
 
 Currently, a standard 360ml bottle of green-bottle soju contains about 400 to 540 calories, depending on the sugar content. The price remains incredibly accessible, usually costing between 1,800 KRW to 2,100 KRW ($1.30–$1.50 USD) in convenience stores, though restaurant markups push this to 6,000 KRW to 7,000 KRW ($4.50–$5.20 USD).
+
+For more details, check out our guide on [The art of somaek how to make the perfect beer Soju mix](/blog/the-art-of-somaek-how-to-make-the-perfect-beer-soju-mix-2026).
 
 ## Mainstream Green Bottles: The Big Rivalry
 

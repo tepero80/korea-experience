@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 When you close your eyes and listen to the heartbeat of Korea, you don't hear K-Pop synthesizers; you hear the thunderous resonance of a drum and the raw, guttural wail of a storyteller. The sound of Korea is defined by two distinct yet interconnected traditions: **Pansori** (musical storytelling) and **Samulnori** (percussion quartet).
 
+You might also enjoy our article about [K-Pop Busking Hongdae Street Performance Schedule Guide](/blog/k-pop-busking-hongdae-street-performance-schedule).
+
+Learn more in our comprehensive guide to [Korean traditional music and performance guide](/blog/korean-traditional-music-and-performance-guide-2026).
+
+For more details, check out our guide on [Korean Traditional Music Gugak Performance Venues Guide](/blog/korean-traditional-music-gugak-performance-venues).
+
+You might also enjoy our article about [Pansori and traditional storytelling performances guide](/blog/pansori-and-traditional-storytelling-performances).
+
 For travelers visiting in 2026, witnessing a live performance is not just a cultural checkbox—it is a visceral entry point into the Korean spirit, known locally as *Han* and *Heung*. Whether you are sitting in a grand theater in Seoul or an open-air pavilion in Jeonju, the energy is palpable. However, navigating the traditional music scene can be daunting for non-Korean speakers. This guide breaks down exactly where to go, what to listen for, and how to book the best seats in the house.
 
 <KeyTakeaways 

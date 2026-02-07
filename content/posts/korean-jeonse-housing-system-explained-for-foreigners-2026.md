@@ -10,6 +10,8 @@ Moving to South Korea offers an exciting cultural immersion, but it also present
 
 As of 2026, the Jeonse market has stabilized following the volatility of previous years, but it remains a complex financial maneuver for foreigners. Understanding this system is crucial for maximizing your budget and living in higher-quality accommodation than standard monthly rent (Wolse) would allow. This guide covers everything from securing loans to avoiding scams.
 
+Related reading: [Jeonse vs wolse Korean rental system explained](/blog/jeonse-vs-wolse-korean-rental-system-explained).
+
 <KeyTakeaways 
   points={[
     "Jeonse requires a deposit of 50-80% of the property's market value",
@@ -24,9 +26,15 @@ As of 2026, the Jeonse market has stabilized following the volatility of previou
 
 The Jeonse system is a housing lease arrangement unique to South Korea. Instead of paying a landlord monthly rent, the tenant provides a large deposit—typically between **50% to 80% of the property's sale price**—for a fixed contract period, usually two years.
 
+Learn more in our comprehensive guide to [Korean pension refund guide 2026 for foreigners and expats](/blog/korean-retirement-system-for-foreigners-national-pension-refunds-2026).
+
 The landlord invests this capital to earn interest or uses it for other investments during the lease term. At the end of the contract, the landlord returns the principal amount to the tenant in full. Essentially, you are lending the landlord money interest-free in exchange for living in their property rent-free.
 
+For more details, check out our guide on [Credit cards in Korea which banks accept foreigners 2026 ...](/blog/credit-cards-in-korea-which-banks-accept-foreigners).
+
 In 2026, the average Jeonse price for an 84-square-meter apartment in Seoul hovers around **600 million KRW ($450,000 USD)**, while smaller studio apartments (officetels) in popular districts average **200 million KRW ($150,000 USD)**.
+
+For more details, check out our guide on [Crypto in Korea Exchanges and Regulations Explained](/blog/cryptocurrency-in-korea-exchanges-and-regulations).
 
 <StatCard
   title="2026 Market Snapshot"

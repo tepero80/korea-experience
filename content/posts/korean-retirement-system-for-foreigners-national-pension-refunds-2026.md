@@ -10,6 +10,8 @@ Leaving South Korea after a stint of teaching, engineering, or corporate work ma
 
 For many expats, the pension contribution—automatically deducted at a rate of 4.5% from your monthly paycheck—feels like a tax. But unlike a tax, this money (plus your employer's matching 4.5% contribution) is essentially a forced savings account that you can cash out upon departure, provided your country has a reciprocity agreement with South Korea.
 
+Related reading: [Expat Health Insurance vs National Health in Korea](/blog/insurance-for-expats-health-vs-national-health).
+
 <KeyTakeaways 
   points={[
     "You are entitled to 100% of contributions (9% of salary) plus interest if eligible.",
@@ -24,7 +26,11 @@ For many expats, the pension contribution—automatically deducted at a rate of 
 
 The National Pension Service (NPS) is a mandatory social security scheme. In 2026, the contribution rate remains steady at **9% of your monthly reported income**. This is split evenly between you and your employer.
 
+For more details, check out our guide on [Korean Healthcare System Guide](/blog/korean-healthcare-system-using-national-health-insurance).
+
 If you are an employee, you pay **4.5%**, and your company pays **4.5%**. If you are a freelancer or business owner, you are responsible for the full **9%**.
+
+For more details, check out our guide on [Korean jeonse housing system explained for foreigners](/blog/korean-jeonse-housing-system-explained-for-foreigners-2026).
 
 <StatCard
   title="2026 Contribution Stats"
@@ -39,6 +45,8 @@ If you are an employee, you pay **4.5%**, and your company pays **4.5%**. If you
 
 ### The Value of Your Refund
 Let’s break down the math. If your monthly salary was 3,000,000 KRW (approximately $2,220 USD), your monthly contribution was 135,000 KRW. Your employer matched this with another 135,000 KRW. That is a total of **270,000 KRW per month** going into your pension pot.
+
+Related reading: [Korean Pension System Understanding Deductions](/blog/korean-pension-system-understanding-deductions).
 
 Over a typical one-year contract, that totals **3,240,000 KRW** (roughly $2,400 USD). If you stayed for three years, you are looking at nearly **10,000,000 KRW** plus accrued interest, which in 2026 is averaging around 3.2% annually.
 

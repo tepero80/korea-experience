@@ -10,6 +10,8 @@ Navigating the healthcare system in a foreign country is often cited as one of t
 
 For international residents, understanding the NHIS is no longer optional; it is a mandatory legal requirement for anyone staying in Korea long-term. Whether you are an English teacher in Seoul, a digital nomad in Busan, or a student in Daegu, this system guarantees you access to world-class medical care at a fraction of the full cost.
 
+You might also enjoy our article about [Navigating the national health insurance nhis website](/blog/navigating-the-national-health-insurance-nhis-website-2026).
+
 <KeyTakeaways 
   points={[
     "Enrollment is mandatory for foreigners after 6 months of residency (immediate for some visas).",
@@ -24,7 +26,11 @@ For international residents, understanding the NHIS is no longer optional; it is
 
 The National Health Insurance Service (NHIS) is a state-run social security system. In Korea, healthcare is not free, but it is heavily subsidized. When you are covered by NHIS, the government pays approximately 70% to 80% of your medical bills for covered treatments, leaving you responsible for a copayment of just 20% to 30%.
 
+Related reading: [Expat Health Insurance vs National Health in Korea](/blog/insurance-for-expats-health-vs-national-health).
+
 The system covers the entire population of over 51 million people, including registered foreigners. The infrastructure is massive, connecting over 98,000 medical institutions across the peninsula. From the moment you walk into a clinic, your Alien Registration Card (ARC) connects directly to the central database, verifying your eligibility in less than 3 seconds.
+
+For more details, check out our guide on [Korean Healthcare System Guide](/blog/korean-healthcare-system-using-national-health-insurance).
 
 <StatCard
   title="NHIS Usage Stats"
@@ -39,6 +45,8 @@ The system covers the entire population of over 51 million people, including reg
 ## Mandatory Enrollment: Who and When?
 
 As of 2026, the rules for enrollment are strictly enforced based on your visa type and length of stay. The days of "flying under the radar" are over.
+
+For more details, check out our guide on [Credit cards in Korea which banks accept foreigners 2026 ...](/blog/credit-cards-in-korea-which-banks-accept-foreigners).
 
 ### The 6-Month Rule vs. Immediate Enrollment
 For most general visa holders, enrollment becomes automatic and mandatory once you have resided in Korea for **six months**. However, this timeline varies significantly by visa type.

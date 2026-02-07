@@ -24,6 +24,8 @@ In 2026, the Korean housing market continues to evolve, with rising interest rat
 
 The Korean housing market is defined by a spectrum between two poles: Jeonse and Wolse. While Westerners are accustomed to paying a small security deposit (usually one month's rent) and a monthly fee, Korea places a heavy emphasis on "Key Money" (Bojeung-geum).
 
+For more details, check out our guide on [Korean jeonse housing system explained for foreigners](/blog/korean-jeonse-housing-system-explained-for-foreigners-2026).
+
 The fundamental concept relies on the landlord's ability to invest your deposit. In the past, when Korean interest rates were high (often above 10%), landlords preferred large deposits they could bank to earn interest. Today, this system persists, though it has become more complex.
 
 <QuickFacts
@@ -40,6 +42,8 @@ The fundamental concept relies on the landlord's ability to invest your deposit.
 
 Jeonse is a system unique to South Korea. Instead of paying monthly rent, the tenant provides a massive lump-sum deposit to the landlord for the duration of the contract—typically **two years**.
 
+For more details, check out our guide on [Crypto in Korea Exchanges and Regulations Explained](/blog/cryptocurrency-in-korea-exchanges-and-regulations).
+
 *   **How it works:** You pay typically 50% to 80% of the property's market value.
 *   **The Benefit:** You pay **zero** monthly rent. You only pay for utilities and maintenance fees (Guallibi).
 *   **The Return:** At the end of the contract, the landlord returns the **full** deposit amount to you.
@@ -49,6 +53,8 @@ Essentially, you are lending the landlord a large sum of money interest-free in 
 ### Wolse: The Monthly Rent System
 
 Wolse is closer to the Western concept of renting, but with a twist: the security deposits are significantly higher.
+
+For more details, check out our guide on [Korean Healthcare System Guide](/blog/korean-healthcare-system-using-national-health-insurance).
 
 *   **How it works:** You pay a deposit (Bojeung-geum) plus monthly rent.
 *   **The Ratio:** The higher your deposit, the lower your monthly rent.
@@ -72,6 +78,8 @@ Jeonse is often baffling to foreigners. Why would a landlord give a house for "f
 
 ### The Financial Requirements
 To secure a Jeonse contract in Seoul in 2026, you need significant liquidity.
+
+Related reading: [Korean Pension System Understanding Deductions](/blog/korean-pension-system-understanding-deductions).
 *   **Small Studio:** 150 million - 250 million KRW ($115,000 - $190,000 USD)
 *   **Two-Bedroom Villa:** 300 million - 500 million KRW ($230,000 - $380,000 USD)
 *   **Three-Bedroom Apartment:** 600 million KRW - 1.5 Billion+ KRW ($460,000 - $1.15M+ USD)

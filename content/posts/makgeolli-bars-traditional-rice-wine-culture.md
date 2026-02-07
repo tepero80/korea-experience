@@ -10,6 +10,8 @@ Makgeolli, Korea's oldest traditional liquor, is currently experiencing a massiv
 
 For travelers visiting Korea in 2026, exploring the vibrant culture of Makgeolli bars is no longer just a dining option; it is an essential cultural immersion. Whether you are navigating the neon-lit streets of Gangnam or the artistic alleyways of Hongdae, you will find establishments ranging from rustic, rain-battered taverns to sleek, Michelin-recognized gastropubs dedicated to this fermented elixir.
 
+Learn more in our comprehensive guide to [Korean drinking culture Soju Makgeolli and pocha guide](/blog/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026).
+
 <KeyTakeaways 
   points={[
     "Makgeolli is a fermented rice wine with 6-9 percent ABV, known for its milky appearance and probiotic benefits.",
@@ -24,7 +26,11 @@ For travelers visiting Korea in 2026, exploring the vibrant culture of Makgeolli
 
 Makgeolli dates back to the Goryeo Dynasty (918–1392), making it a staple of Korean history for over 1,100 years. However, the modern iteration of this drink is vastly different from what was consumed even two decades ago. The shift began in the early 2010s when artisanal brewers started returning to traditional methods, eschewing artificial sweeteners like aspartame in favor of high-quality rice, water, and *nuruk* (a traditional fermentation starter).
 
+You might also enjoy our article about [Korean wine culture domestic and imported a complete guide](/blog/korean-wine-culture-domestic-and-imported).
+
 Today, the market is split between mass-market green bottles found in convenience stores for under 2,000 KRW ($1.50 USD) and premium craft bottles that can fetch upwards of 120,000 KRW ($90 USD) in high-end restaurants. This bifurcation has created a rich landscape for travelers. You can experience the rugged charm of a university town dive bar or sip a champagne-like sparkling Makgeolli in a Gangnam lounge.
+
+Related reading: [Cocktail bars speakeasies and rooftop lounges in Seoul](/blog/cocktail-bars-speakeasies-and-rooftop-lounges).
 
 <StatCard
   title="Makgeolli Market Growth"
@@ -37,6 +43,8 @@ Today, the market is split between mass-market green bottles found in convenienc
 />
 
 The alcohol content typically ranges from 6% to 9% for standard varieties, making it stronger than beer but lighter than soju or wine. However, premium "Genshu" (undiluted) versions can reach 12% to 18% ABV, offering a heavy, yogurt-like viscosity that is often sipped slowly over ice.
+
+Learn more in our comprehensive guide to [Daegu Makchang guide the ultimate grilled intestines expe...](/blog/daegu-makchang-grilled-intestines-culture).
 
 ## Understanding the Drink: Ingredients and Types
 

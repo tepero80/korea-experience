@@ -28,6 +28,8 @@ Before attempting to negotiate, you must understand the financial ecosystem of K
 
 The primary lever for negotiation in Korea is the sliding scale between your deposit and your monthly rent. This is an almost mathematical standard across Seoul and Busan.
 
+Related reading: [Dealing with Korean landlords common issues and solutions](/blog/dealing-with-korean-landlords-common-issues).
+
 If a listing asks for **10,000,000 KRW** deposit and **700,000 KRW** monthly rent, you can often propose:
 1.  **20,000,000 KRW** deposit / **650,000 KRW** rent
 2.  **30,000,000 KRW** deposit / **600,000 KRW** rent

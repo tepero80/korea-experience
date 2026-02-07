@@ -26,6 +26,8 @@ The infrastructure for English-speaking tourists has improved significantly. Acc
 
 Most classes are strategically located near major tourist hubs like Insadong, Myeongdong, and Gangnam, usually within 500 meters of a subway station, minimizing your travel time.
 
+Related reading: [Vegan temple food classes learning from monks in Seoul](/blog/vegan-temple-food-classes-learning-from-monks-in-seoul-2026).
+
 <StatCard
   title="Seoul Culinary Tourism Stats"
   variant="gradient"

@@ -10,6 +10,8 @@ Navigating the professional landscape in South Korea can feel like learning a co
 
 Seoul, a bustling metropolis of over 9.4 million people, serves as the economic heartbeat of the nation. Here, the lines between professional duty and personal sacrifice often blur. However, the landscape is shifting. With the rise of the "MZ Generation" (Millennials and Gen Z), traditional rigidity is slowly meeting modern flexibility. Yet, for a foreigner entering this space, mastering the foundational rules of etiquette is the key to respect and success. Whether you are negotiating a contract in Gangnam or starting a teaching job in Busan, this guide covers every facet of office life.
 
+For more details, check out our guide on [Korean work culture what foreigners need to know](/blog/korean-work-culture-what-foreigners-need-to-know-2026).
+
 <KeyTakeaways 
   points={[
     "Hierarchy dictates all interactions; always identify titles before names.",
@@ -24,10 +26,16 @@ Seoul, a bustling metropolis of over 9.4 million people, serves as the economic 
 
 In Korean work culture, age and job title are the coordinates that determine your position in the social universe. Unlike flat organizational structures common in Western tech companies, Korean companies operate on a strict vertical hierarchy. This concept is fueled by Confucianism, where respect for seniors (*seonbae*) by juniors (*hubae*) is absolute.
 
+For more details, check out our guide on [Credit cards in Korea which banks accept foreigners 2026 ...](/blog/credit-cards-in-korea-which-banks-accept-foreigners).
+
 When you enter a Korean office, you aren't just an employee; you are a specific rank. Addressing someone by their first name is a major faux pas unless you are very close friends of the same age outside of work. In the office, you must use their title.
+
+You might also enjoy our article about [D visa student visa and part time work rules guide](/blog/d-visa-student-visa-and-part-time-work-rules).
 
 ### Common Corporate Titles
 Understanding the ladder is essential. Here is the typical progression in a Korean conglomerate (*Chaebol*):
+
+You might also enjoy our article about [Finding an apartment in Korea complete guide for foreigners](/blog/finding-an-apartment-in-korea-complete-guide-for-foreigners).
 *   **Sawon:** Staff/Entry-level employee (usually 0-4 years experience).
 *   **Daeri:** Assistant Manager (usually promoted after 4 years).
 *   **Gwajang:** Manager (requires roughly 7-8 years total experience).

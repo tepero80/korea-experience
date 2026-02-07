@@ -10,6 +10,8 @@ In the hyper-connected, fast-paced landscape of South Korea in 2026, there remai
 
 Nunchi (눈치) literally translates to "eye-measure." It is the ability to instantaneously gauge the thoughts, feelings, and mood of others to respond appropriately. It is not merely empathy; it is a high-speed calculation of social hierarchy, emotional atmosphere, and unspoken context. For the international traveler or expat, mastering Nunchi is the difference between being a confused outsider and a welcomed guest.
 
+Related reading: [Korean funeral traditions understanding death and remembr...](/blog/korean-funeral-traditions-understanding-death-and-remembrance-2026).
+
 <KeyTakeaways 
   points={[
     "Nunchi is the art of sensing the room and others' emotions without verbal communication",
@@ -24,7 +26,11 @@ Nunchi (눈치) literally translates to "eye-measure." It is the ability to inst
 
 At its heart, Nunchi is about survival and harmony. In a country with a population density of approximately 515 people per square kilometer (as of 2026 data), maintaining social friction at a minimum is essential. Nunchi is the lubricant that keeps the complex gears of Korean society turning smoothly.
 
+You might also enjoy our article about [Korean parenting styles understanding the tiger mom vs ne...](/blog/korean-parenting-styles-understanding-the-tiger-mom-vs-new-trends-2026).
+
 In 2026, while 98% of Koreans own a smartphone and digital interactions are ubiquitous, the physical rules of Nunchi have actually intensified. The ability to read the air is considered a sign of emotional intelligence and maturity. Someone who has "quick Nunchi" (nunchi ppareuda) is seen as sharp and competent. Someone with "no Nunchi" (nunchi eopda) is often viewed as clueless or selfish.
+
+Learn more in our comprehensive guide to [Understanding Uri We in Korean Culture 2026 Guide](/blog/the-importance-of-uri-we-understanding-korean-collectivism-2026).
 
 <StatCard
   title="The Impact of Non-Verbal Cues"
@@ -37,6 +43,8 @@ In 2026, while 98% of Koreans own a smartphone and digital interactions are ubiq
 />
 
 When you enter a room in Korea, you must immediately assess:
+
+You might also enjoy our article about [The 2026 Expat Guide to South Korea](/blog/korea-social-rules-local-guide-2026).
 1. Who is the most senior person?
 2. What is the current mood (tense, celebratory, somber)?
 3. What is my role here?

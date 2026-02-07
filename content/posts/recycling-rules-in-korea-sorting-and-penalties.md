@@ -10,6 +10,8 @@ Moving to South Korea comes with a distinct learning curve, and surprisingly, on
 
 Failing to adhere to these rules isn't just a social faux pas; it can result in significant financial penalties and uncollected rubbish rotting on your doorstep. However, once you understand the logic behind the colors and categories, it becomes a seamless part of daily life. This comprehensive guide will walk you through every aspect of recycling in Korea, from distinguishing between food waste and general trash to using high-tech disposal machines.
 
+For more details, check out our guide on [Buying property in Korea foreign ownership rules guide](/blog/buying-property-in-korea-foreign-ownership-rules).
+
 <KeyTakeaways 
   points={[
     "You must buy district-specific standard bags (20L averages 490 KRW) for general waste",
@@ -24,7 +26,11 @@ Failing to adhere to these rules isn't just a social faux pas; it can result in 
 
 Introduced in 1995 to reduce pollution and encourage recycling, the Volume-Based Waste Fee System forces residents to pay for the trash they generate. You cannot simply use black plastic bags or grocery sacks for your garbage. You must purchase government-issued standard plastic bags.
 
+For more details, check out our guide on [Crypto in Korea Exchanges and Regulations Explained](/blog/cryptocurrency-in-korea-exchanges-and-regulations).
+
 The revenue from these bag sales covers the cost of collection and incineration or landfill management. According to 2024 government statistics, this system has helped Korea achieve a recycling rate of over 86% for municipal waste, one of the highest in the OECD.
+
+You might also enjoy our article about [D visa student visa and part time work rules guide](/blog/d-visa-student-visa-and-part-time-work-rules).
 
 <QuickFacts
   title="Trash Bag Specifications"
@@ -38,6 +44,8 @@ The revenue from these bag sales covers the cost of collection and incineration 
 
 ### Buying the Right Bags
 You can purchase these bags at local convenience stores (CU, GS25, 7-Eleven) or supermarkets like Lotte Mart and EMart. However, there is a catch: **bags are district-specific**. A standard garbage bag purchased in Gangnam-gu cannot be used in Mapo-gu. The district name is printed on the bag, and sanitation workers will refuse to collect bags from outside their jurisdiction.
+
+Related reading: [Jeonse vs wolse Korean rental system explained](/blog/jeonse-vs-wolse-korean-rental-system-explained).
 
 Prices vary slightly by district, but generally, a 10-liter standard garbage bag costs around 250 KRW ($0.19 USD), while a 20-liter bag costs approximately 490 KRW ($0.37 USD). For larger households, 50-liter bags are available for about 1,250 KRW ($0.95 USD).
 

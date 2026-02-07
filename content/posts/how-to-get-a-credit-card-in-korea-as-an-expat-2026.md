@@ -10,6 +10,8 @@ Navigating the financial landscape of South Korea can be one of the most dauntin
 
 As we move into 2026, the barriers for expats obtaining local credit cards have shifted. While digital integration has made management easier, stricter credit scoring algorithms and anti-money laundering regulations have added layers of complexity to the application process. Whether you are an English teacher, a corporate expat, or a digital nomad on a Workcation visa, having a local credit card opens doors to everything from easy online grocery delivery to paying for high-speed KTX trains.
 
+You might also enjoy our article about [Kiosk survival guide](/blog/foreign-friendly-kiosk-survival-guide-what-to-do-when-your-overseas-credit-card-is-rejected).
+
 <KeyTakeaways 
   points={[
     "Most banks require a minimum remaining visa validity of 6 months",
@@ -24,7 +26,11 @@ As we move into 2026, the barriers for expats obtaining local credit cards have 
 
 South Korea's banking sector has evolved significantly over the last few years. The days of walking into a branch and leaving with a credit card purely based on a handshake are gone. Today, banks utilize AI-driven credit scoring models that analyze your visa type, employment stability, and spending patterns.
 
+Learn more in our comprehensive guide to [Alien Registration Card Application Process in Korea](/blog/alien-registration-card-application-process).
+
 For expats, the "Credit Card Hump" remains the biggest obstacle: you need a credit history to get a card, but you need a card to build history. However, with the expatriate population in Korea crossing 2.5 million in 2025, major banks have established specific protocols to cater to foreign residents, provided you have the right documentation.
+
+For more details, check out our guide on [Credit cards in Korea which banks accept foreigners 2026 ...](/blog/credit-cards-in-korea-which-banks-accept-foreigners).
 
 <StatCard
   title="Expat Banking Stats 2026"
@@ -39,6 +45,8 @@ For expats, the "Credit Card Hump" remains the biggest obstacle: you need a cred
 ## Essential Prerequisites: The "Big Three"
 
 Before you even step foot in a bank branch, you must ensure you possess the "Big Three" documents. Attempting to apply without these is the primary reason for immediate rejection.
+
+Related reading: [Best Expat Communities Facebook Groups and Forums in Korea](/blog/expat-communities-facebook-groups-and-forums).
 
 1.  **Alien Registration Card (ARC):** This is your digital identity key. In 2026, many banks accept the Mobile ARC, but bringing the physical card is still safer. Your visa status (E-2, E-7, F-series) dictates your eligibility.
 2.  **Proof of Income/Employment:** A simple contract isn't enough anymore. You need a Certificate of Employment and often tax proofs (Receipt of Wage & Salary Income Taxes).

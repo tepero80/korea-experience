@@ -10,6 +10,8 @@ South Korea’s dessert culture has evolved into a global phenomenon, transformi
 
 Whether you are navigating the neon-lit streets of Myeongdong or the quiet, artisanal alleys of Ikseon-dong, the options are overwhelming. This guide cuts through the noise to bring you the definitive list of must-try Korean desserts, combining traditional flavors with the hyper-modern aesthetics that define the 2026 dining scene.
 
+Related reading: [Best dessert cafes in Seoul 2026 beyond Bingsu](/blog/best-dessert-cafes-in-seoul-2026-beyond-bingsu).
+
 <KeyTakeaways 
   points={[
     "Bingsu and Hotteok remain the top two must-try desserts for 2026 travelers",
@@ -24,11 +26,17 @@ Whether you are navigating the neon-lit streets of Myeongdong or the quiet, arti
 
 Bingsu is not merely shaved ice; it is a cultural institution. Unlike the gritty texture of snow cones found in the West, Korean Bingsu—specifically "Nun-kkot Bingsu" or Snowflake Bingsu—utilizes a specialized machine that shaves frozen milk into a texture resembling freshly fallen snow. This creates a base that dissolves instantly upon contact with the tongue, offering a light yet creamy experience.
 
+Related reading: [Korean Street Food Classics Tteokbokki Hotteok Sundae Guide](/blog/korean-street-food-classics-tteokbokki-hotteok-sundae).
+
 In 2026, the Bingsu market is dominated by two distinct categories: the traditional Red Bean (Patbingsu) and the modern fruit-heavy variations. The average serving size is substantial, typically meant for two people, weighing in at around 400 to 500 grams.
+
+Learn more in our comprehensive guide to [Korean tea houses dabang vs modern cafes 2026 guide](/blog/korean-tea-houses-dabang-vs-modern-cafes-2026).
 
 ### Sulbing: The Standard Bearer
 
 No discussion of Bingsu is complete without mentioning Sulbing. With over 490 locations across the country, it is the most accessible and reliable spot for first-timers. Their signature dish, the Injeolmi Bingsu, is dusted with roasted soybean powder and topped with chewy rice cakes and almond slivers.
+
+For more details, check out our guide on [Seoul cafe culture best coffee shops and dessert cafes](/blog/seoul-cafe-culture-best-coffee-shops-and-dessert-cafes-2026).
 
 <LocationCard
   name="Sulbing Hongdae Station Branch"

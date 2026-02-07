@@ -24,6 +24,8 @@ For travelers and expats settling in Korea, understanding these nuances can tran
 
 The most immediate difference between Korean movie theaters and Western cinemas lies in the booking process. In many Western countries, particularly in suburban areas, walking up to the box office 15 minutes before showtime is standard practice. In Korea, however, the process is overwhelmingly digital and mobile-first.
 
+Related reading: [Independent cinema guide art house theaters in Seoul](/blog/independent-cinema-guide-art-house-theaters-in-seoul).
+
 Korean moviegoers are "super-planners" regarding entertainment. Tickets for major releases often open weeks in advance, and prime seats are snatched up within minutes. Approximately 85% to 90% of all movie tickets in Korea are purchased via mobile applications like the CGV, Lotte Cinema, or Megabox apps, or through third-party platforms like Naver.
 
 <StatCard

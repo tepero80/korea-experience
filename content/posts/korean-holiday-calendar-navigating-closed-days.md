@@ -10,6 +10,8 @@ Arriving in Seoul only to find your dream restaurant shuttered or the palaces ov
 
 The contrast is stark: on a standard Tuesday, the Gangnam district is a hive of activity with over 1 million commuters. On Chuseok morning, that same district can resemble a ghost town, while the highways out of Seoul become the world's largest parking lot.
 
+For more details, check out our guide on [Best Korea SIM Cards for Long-Term Travelers Beyond Airpo...](/blog/best-korea-sim-cards-for-long-term-travelers-beyond-airport-rentals-and-prepaid-limits).
+
 <KeyTakeaways 
   points={[
     "Seollal and Chuseok are the only times most family-owned businesses close for 3 days straight.",
@@ -24,7 +26,11 @@ The contrast is stark: on a standard Tuesday, the Gangnam district is a hive of 
 
 In Korea, public holidays are colloquially known as "Red Days." While many Western countries have bank holidays that result in long weekends, the Korean system is slightly more rigid yet evolving. There are roughly 15 public holidays designated by the government each year.
 
+For more details, check out our guide on [Navigating Korean bureaucracy from ARC to taxes](/blog/dealing-with-korean-bureaucracy-arc-to-taxes).
+
 The most critical distinction for travelers is between **Solar Holidays** (fixed dates like Christmas on December 25) and **Lunar Holidays** (Seollal and Chuseok, which change dates every year).
+
+Learn more in our comprehensive guide to [H 1 Working Holiday Visa Korea Complete Guide](/blog/h-1-working-holiday-visa-complete-guide).
 
 <StatCard
   title="Holiday Business Impact"
@@ -37,6 +43,8 @@ The most critical distinction for travelers is between **Solar Holidays** (fixed
 />
 
 On minor holidays like Children's Day (May 5th) or Independence Movement Day (March 1st), the disruption is minimal. You might find banks and government offices closed, but restaurants, cafes, and malls operate normally. In fact, these days often see a 30% surge in foot traffic at major attractions like Lotte World or Everland.
+
+You might also enjoy our article about [Navigating the national health insurance nhis website](/blog/navigating-the-national-health-insurance-nhis-website-2026).
 
 However, the "Big Two"—Seollal (Lunar New Year) and Chuseok (Korean Thanksgiving)—operate differently. These involve a massive national migration where over 30 million people (more than half the population) travel to their hometowns.
 

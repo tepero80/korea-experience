@@ -10,6 +10,8 @@ The sound of rain hitting the pavement triggers a very specific craving in the h
 
 While many international visitors are familiar with the generic "seafood pancake" found in overseas Korean restaurants, the world of Jeon is vast, intricate, and deeply regional. From the mung bean-based Bindaetteok of the chaotic Gwangjang Market to the refined Haemul Pajeon of coastal towns, understanding these variations is key to unlocking a true Korean culinary adventure.
 
+Learn more in our comprehensive guide to [Korean Stew Variations Jjigae Jeongol Hotpot Guide](/blog/korean-stew-variations-jjigae-jeongol-hotpot).
+
 <KeyTakeaways 
   points={[
     "Jeon consumption spikes during rain due to the auditory similarity between sizzling oil and rainfall.",
@@ -23,6 +25,8 @@ While many international visitors are familiar with the generic "seafood pancake
 ## The Cultural Significance of Jeon
 
 To understand Korean pancakes, you must first understand the concept of *Anju*. Anju refers to food specifically consumed with alcohol. Jeon is arguably the king of Anju, particularly when paired with Makgeolli, a milky, unrefined rice wine.
+
+Related reading: [The best pajeon and Makgeolli spots for a rainy day in Seoul](/blog/the-best-pajeon-and-makgeolli-spots-for-a-rainy-day-in-seoul-2026).
 
 Historically, Jeon was a dish served to royalty and used in ancestral rites (*Jesa*). Today, it is the ultimate comfort food. The preparation involves coating ingredients—meat, seafood, vegetables—in a flour and egg batter and pan-frying them until golden.
 

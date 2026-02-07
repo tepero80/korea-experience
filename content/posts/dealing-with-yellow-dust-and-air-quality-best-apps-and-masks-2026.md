@@ -8,7 +8,11 @@ author: Korea Experience Team
 
 Spring in South Korea is a visually stunning season, characterized by cherry blossoms and warmer temperatures. However, for residents and travelers in 2026, it also signals the arrival of "Hwangsa" (Yellow Dust) and "Mise-monji" (Fine Dust). Navigating the air quality in Seoul and beyond is no longer just a suggestion; it is a daily necessity for maintaining long-term health. As we move into 2026, technology and filtration standards have evolved, making it easier to manage, provided you have the right tools and knowledge.
 
+Related reading: [Dealing with Korean landlords common issues and solutions](/blog/dealing-with-korean-landlords-common-issues).
+
 This comprehensive guide covers everything from the science behind the pollution to the most accurate localized apps and the most comfortable, effective masks available on the Korean market today.
+
+You might also enjoy our article about [Korea mental health resources guide dealing with loneliness](/blog/dealing-with-loneliness-mental-health-resources).
 
 <KeyTakeaways 
   points={[
@@ -23,6 +27,8 @@ This comprehensive guide covers everything from the science behind the pollution
 ## Understanding the Air: Yellow Dust vs. Fine Dust
 
 To effectively combat air pollution in Korea, you must first distinguish between the two main types of pollutants. While often used interchangeably by visitors, they have different origins and health implications.
+
+You might also enjoy our article about [Finding apartments real estate apps in English in Korea](/blog/finding-apartments-real-estate-apps-in-english).
 
 **Yellow Dust (Hwangsa):** This is a seasonal meteorological phenomenon where strong winds carry dust from the deserts of Mongolia and northern China. It usually occurs between **March and May**. The particles are larger (PM10) and can cause eye irritation and respiratory issues. In 2025 alone, Seoul recorded **14 days** of Yellow Dust warnings.
 

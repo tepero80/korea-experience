@@ -10,6 +10,8 @@ Finding accommodation in South Korea is the first major hurdle for any expat, st
 
 As of early 2026, the housing market in Korea has shifted, with rental prices seeing a 4.2% increase year-over-year. Understanding the nuances between these two housing types is critical for managing your budget and expectations. Whether you are looking to save money in a compact space or seeking a modern apartment experience, this guide breaks down everything you need to know.
 
+Learn more in our comprehensive guide to [Cost of living in Seoul vs Busan comparison](/blog/cost-of-living-in-seoul-vs-busan-comparison-2026).
+
 <KeyTakeaways 
   points={[
     "Goshiwons require no deposit and start around $300 USD monthly",
@@ -24,7 +26,11 @@ As of early 2026, the housing market in Korea has shifted, with rental prices se
 
 Historically, a **Goshiwon** (or Goshitel) was a tiny study room used by students preparing for government exams ("Goshi"). In 2026, they have evolved into the primary form of budget, short-term housing for foreigners and students.
 
+For more details, check out our guide on [Korean Healthcare System Guide](/blog/korean-healthcare-system-using-national-health-insurance).
+
 Imagine a dormitory-style setup. You rent a private room, which is often very small (typically 3 to 6 square meters or 30-65 square feet). The defining feature is the shared infrastructure. While premium "Goshitels" now include private showers and toilets inside the room, the kitchen and laundry facilities remain communal.
+
+Related reading: [Short term rentals goshiwon vs officetels comprehensive g...](/blog/short-term-rentals-goshiwon-vs-officetels).
 
 <QuickFacts
   title="Goshiwon Snapshot 2026"

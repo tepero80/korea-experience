@@ -10,6 +10,8 @@ South Korea’s public library system has undergone a massive digital transforma
 
 While the perception might be that Korean libraries are strictly for Korean speakers, the reality is vastly different. The government has invested heavily in "Global Zones" and foreign language collections to support the growing international population, which topped 2.5 million residents earlier this year. Whether you are looking for the latest English bestseller, a quiet place to study, or free access to expensive design software, the local library is an underutilized goldmine.
 
+For more details, check out our guide on [Credit cards in Korea which banks accept foreigners 2026 ...](/blog/credit-cards-in-korea-which-banks-accept-foreigners).
+
 <KeyTakeaways 
   points={[
     "Foreign residents with a Residence Card (ARC) can join for free",
@@ -24,7 +26,11 @@ While the perception might be that Korean libraries are strictly for Korean spea
 
 The Korean library infrastructure is defined by its density and connectivity. As of 2026, there are over 1,250 public libraries across the nation, meaning most urban residents live within a 10-minute walk or short bus ride of a facility. Unlike many Western systems that may struggle with funding, Korean libraries are aggressively modernized, often featuring robotic baristas, automated book sanitizers, and expansive media centers.
 
+You might also enjoy our article about [Finding an apartment in Korea complete guide for foreigners](/blog/finding-an-apartment-in-korea-complete-guide-for-foreigners).
+
 For the foreign community, the primary appeal lies in cost efficiency. Accessing English books in Korea can be expensive, with imported paperbacks often costing between 25,000 to 35,000 KRW (approx. $18-$25 USD) at major bookstores like Kyobo or Aladin. Public libraries bridge this gap entirely for free. Furthermore, the integration of the "Smart Library" system allows users to reserve books via an app and pick them up from automated lockers at subway stations and community centers 24 hours a day, bypassing operating hours entirely.
+
+Related reading: [Korea phone plans and sim cards for foreigners](/blog/korea-phone-plans-and-sim-cards-for-foreigners-2026).
 
 <StatCard
   title="Library Network 2026"
@@ -39,6 +45,8 @@ For the foreign community, the primary appeal lies in cost efficiency. Accessing
 ## Eligibility and Registration Process
 
 To borrow physical materials, you generally need to be a registered resident. However, even short-term visitors can usually enter public libraries, read books on-site, and use the Wi-Fi without a membership.
+
+For more details, check out our guide on [Korean banking apps best user interface for foreigners](/blog/korean-banking-apps-best-user-interface-for-foreigners-2026).
 
 For full borrowing privileges, you must possess a Residence Card (formerly known as the ARC). In 2026, the integration between the Immigration Office database and library systems is nearly seamless, allowing for instant identity verification at many major branches.
 

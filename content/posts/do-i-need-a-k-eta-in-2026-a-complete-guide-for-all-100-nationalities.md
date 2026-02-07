@@ -8,7 +8,7 @@ author: Korea Experience Team
 
 Travel to South Korea has evolved significantly over the last few years, and navigating the entry requirements in 2026 is the first step to a seamless journey. Whether you are planning a 7-day culinary tour through the bustling streets of Myeongdong or a month-long trekking adventure in Seoraksan National Park, the Korea Electronic Travel Authorization (K-ETA) remains a critical document for the vast majority of visa-free travelers.
 
-As we settle into 2026, the temporary exemptions that characterized the "Visit Korea Year" initiatives of the past have evolved into a more standardized system. Understanding who needs authorization, how much it costs, and exactly when to apply can save you from being denied boarding at your departure airport?�a fate that befalls approximately 1.5% of unprepared travelers annually.
+As we settle into 2026, the temporary exemptions that characterized the "Visit Korea Year" initiatives of the past have evolved into a more standardized system. Understanding who needs authorization, how much it costs, and exactly when to apply can save you from being denied boarding at your departure airport—a fate that befalls approximately 1.5% of unprepared travelers annually.
 
 <KeyTakeaways 
   points={[
@@ -99,7 +99,7 @@ If you use a third-party agency, you are essentially paying for data entry. Belo
 
 ## Timing: When Should You Apply?
 
-The official recommendation from the Ministry of Justice is to apply at least **72 hours** prior to boarding your flight. In reality, the K-ETA AI system processes straightforward applications much faster?�often within 45 to 90 minutes.
+The official recommendation from the Ministry of Justice is to apply at least **72 hours** prior to boarding your flight. In reality, the K-ETA AI system processes straightforward applications much faster—often within 45 to 90 minutes.
 
 However, relying on instant approval is dangerous. Approximately 5-10% of applications are flagged for manual review. This usually happens if:
 1.  Your name matches a person on a watchlist.

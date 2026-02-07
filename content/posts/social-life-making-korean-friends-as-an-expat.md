@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 Moving to South Korea offers a vibrant mix of neon-lit nightlife, serene mountain escapes, and a culinary scene that rivals any in the world. However, for many international residents, the true challenge lies not in navigating the subway system, but in navigating the social landscape. Building a genuine social circle and making Korean friends as an expat requires understanding specific cultural nuances, utilizing the right digital tools, and knowing exactly where to look.
 
+Related reading: [Best Expat Communities Facebook Groups and Forums in Korea](/blog/expat-communities-facebook-groups-and-forums).
+
+Related reading: [Finding community top expat clubs and networking events i...](/blog/finding-community-top-expat-clubs-and-networking-events-in-seoul-2026).
+
+You might also enjoy our article about [How to get a credit card in Korea as an expat](/blog/how-to-get-a-credit-card-in-korea-as-an-expat-2026).
+
+Related reading: [Expat Health Insurance vs National Health in Korea](/blog/insurance-for-expats-health-vs-national-health).
+
 Contrary to the "lonely expat" myth, Korea is an incredibly social society. The concept of *Jeong*—a deep feeling of attachment and bond—is central to Korean relationships. While breaking the ice can take effort, the resulting friendships are often fiercely loyal and deeply rewarding. Whether you are a student, an English teacher, or a corporate professional, this guide will walk you through the practical steps of building a thriving social life in the Land of the Morning Calm.
 
 <KeyTakeaways 

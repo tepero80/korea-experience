@@ -10,6 +10,8 @@ While K-Pop fills stadiums globally, the beating heart of Korea's musical creati
 
 This guide provides an exhaustive look at the top live music venues in 2026, encompassing everything from legendary rock halls to hidden rooftop acoustic lounges. We break down the costs, the culture, and the logistics to ensure your night out is seamless.
 
+For more details, check out our guide on [K indie and underground music best live venues in Hongdae](/blog/k-indie-and-underground-music-best-live-venues-in-hongdae-2026).
+
 <KeyTakeaways 
   points={[
     "Hongdae and Hapjeong in Mapo-gu host over 80% of Seoul's indie venues",
@@ -24,7 +26,11 @@ This guide provides an exhaustive look at the top live music venues in 2026, enc
 
 To understand the Korean indie music scene, you must first understand its geography. The scene is hyper-concentrated. Approximately **80% of all active live clubs** in Seoul are located within the Mapo District (Mapo-gu), specifically clustered around three subway stations: Hongik University (Hongdae), Hapjeong, and Sangsu.
 
+For more details, check out our guide on [Korean Traditional Music Gugak Performance Venues Guide](/blog/korean-traditional-music-gugak-performance-venues).
+
 This concentration is a logistical blessing for travelers. The distance between the furthest venues in this cluster is rarely more than **1.5 kilometers**, or a **20-minute walk**. You can easily catch an early acoustic set in Sangsu at 5:00 PM and make it to a punk rock show in Hongdae by 7:30 PM without needing a taxi.
+
+Related reading: [Best K-Pop concert venues in Seoul ultimate guide](/blog/best-k-pop-concert-venues-in-seoul).
 
 <StatCard
   title="Mapo-gu Music Density"
@@ -37,6 +43,8 @@ This concentration is a logistical blessing for travelers. The distance between 
 />
 
 The area has evolved significantly over the last decade. While the immediate vicinity of Hongik University Station (Exit 9) has become commercialized with busking zones and fashion retail, the "authentic" live club scene has migrated slightly south towards Hapjeong and Sangsu Stations.
+
+Related reading: [Ultimate Guide to K-Pop Music Show Recordings in Seoul](/blog/how-to-attend-k-pop-music-show-recordings-in-seoul-2026).
 
 <ExpertTip 
   author="Min-ji Kim"

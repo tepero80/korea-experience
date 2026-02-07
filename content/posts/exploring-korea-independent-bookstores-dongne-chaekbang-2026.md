@@ -38,6 +38,8 @@ The economics of these spaces have also shifted. To survive the digital age, 70%
 ## Seochon and Bukchon: History Between the Pages
 If you are beginning your journey in Seoul, the neighborhoods of Seochon and Bukchon offer the perfect blend of traditional Hanok architecture and literary culture. Located just west of Gyeongbokgung Palace, Seochon has historically been home to artists and writers.
 
+Related reading: [Independent cinema guide art house theaters in Seoul](/blog/independent-cinema-guide-art-house-theaters-in-seoul).
+
 ### Boan Books (Boan Yeogwan)
 Perhaps the most iconic stop is Boan Books. Originally an inn (Yeogwan) that opened in 1942, it hosted famous poets like Seo Jeong-ju. Today, it stands as a multi-complex cultural space. The bookstore is located on the second floor, connected by a glass bridge to the old inn structure.
 

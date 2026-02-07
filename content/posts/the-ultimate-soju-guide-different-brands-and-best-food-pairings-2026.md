@@ -10,6 +10,8 @@ Soju is more than just a spirit; it is the social fuel of South Korea. By 2026, 
 
 Understanding soju is the fastest way to understand Korean social dynamics. Whether you are sealing a business deal in Gangnam or sharing a late-night meal in a plastic tent (pojangmacha) in Hongdae, knowing what you are drinking—and how to drink it—is essential. This guide covers everything from the latest 2026 brand rankings to scientifically backed food pairings.
 
+For more details, check out our guide on [Soju brands comparison taste and alcohol content guide](/blog/soju-brands-comparison-taste-and-alcohol-content).
+
 <KeyTakeaways 
   points={[
     "Mass-market soju costs roughly 1,900 KRW ($1.40) at stores, while premium bottles average 15,000 KRW ($11.00).",
@@ -24,7 +26,11 @@ Understanding soju is the fastest way to understand Korean social dynamics. Whet
 
 Soju is a clear, colorless distilled beverage of Korean origin. Traditionally, it was made from rice, wheat, or barley. However, following a rice shortage in the 1960s, the government banned using pure rice for alcohol, forcing producers to switch to starches like tapioca and sweet potato. This created the modern "diluted soju" characterized by a sharp, slightly sweet taste and a heavy reliance on additives like stevia or fructose.
 
+You might also enjoy our article about [Best food apps for English speakers TableCheck vs CatchTable](/blog/best-food-apps-for-english-speakers-tablecheck-vs-catchtable-2026).
+
 Today, the ban is long gone, leading to a bifurcation in the market: the **Diluted Soju** (mass-market, green bottles, usually 16-17% ABV) and **Distilled Soju** (traditional method, premium, 20-53% ABV). As of 2026, the average alcohol by volume (ABV) for standard soju has dropped to approximately 16.0% to appeal to health-conscious younger drinkers, a significant decrease from the 25% standard of the 1990s.
+
+Related reading: [Best Korean Convenience Store Food Must Try Items](/blog/best-korean-convenience-store-food-must-try-items-2026).
 
 <StatCard
   title="Soju Market Statistics"
@@ -39,6 +45,8 @@ Today, the ban is long gone, leading to a bifurcation in the market: the **Dilut
 ## The "Green Bottle" Giants: Mass Market Brands
 
 When you walk into a Korean convenience store like CU or GS25, you are greeted by rows of green bottles. These are the workhorses of Korean nightlife. They are affordable, accessible, and designed to be consumed with food.
+
+You might also enjoy our article about [Chuncheon Dakgalbi Street Guide South Korea Spicy Chicken...](/blog/chuncheon-dakgalbi-street-food-district).
 
 ### 1. Chamisul Fresh (Jinro)
 Produced by HiteJinro, this is the undisputed king of soju. It utilizes bamboo charcoal filtration to ensure purity. In 2026, the "Fresh" variant dominates, clocking in at 16% ABV. It is crisp, slightly sweet, and leaves a recognizable ethanol burn that cuts through fatty foods. A standard 360ml bottle retails for about 1,950 KRW ($1.50) in convenience stores.

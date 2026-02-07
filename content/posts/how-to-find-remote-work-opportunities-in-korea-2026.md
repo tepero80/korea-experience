@@ -22,7 +22,11 @@ Finding remote work opportunities in Korea has evolved from a niche aspiration i
 
 As of early 2026, South Korea has aggressively positioned itself as Asia's premier digital nomad hub. The government's initiative to attract global talent has resulted in a 40% increase in coworking spaces across major cities compared to 2023. While the traditional corporate culture in Korea remains office-centric, the sector open to international remote workers has expanded significantly.
 
+You might also enjoy our article about [D visa student visa and part time work rules guide](/blog/d-visa-student-visa-and-part-time-work-rules).
+
 The primary avenue for most foreigners is "importing" their job. This means maintaining employment with a company based in the US, Europe, or elsewhere, and performing that work physically from Korea. However, a growing sector of Korean startups, particularly in Gangnam and Pangyo (Korea's Silicon Valley), are hiring remote international talent for development, marketing, and global expansion roles.
+
+You might also enjoy our article about [Korean work culture office etiquette for foreigners maste...](/blog/korean-work-culture-office-etiquette-for-foreigners).
 
 <StatCard
   title="Digital Nomad Growth 2026"
@@ -38,7 +42,11 @@ The primary avenue for most foreigners is "importing" their job. This means main
 
 To work remotely in Korea legally for more than 90 days, you generally need the Digital Nomad (Workcation) Visa, officially known as the F-1-D. Introduced largely in 2024 and refined in 2026, this visa allows you to stay for up to one year, renewable for a second year.
 
+For more details, check out our guide on [Korean work culture what foreigners need to know](/blog/korean-work-culture-what-foreigners-need-to-know-2026).
+
 The critical distinction is that this visa does **not** allow you to take up local employment with a Korean company for a monthly salary in Won unless you switch to a specific work visa (E-7). It is strictly for generating income from abroad.
+
+For more details, check out our guide on [Volunteer opportunities for English speakers in Seoul](/blog/volunteer-opportunities-for-english-speakers-in-seoul-2026).
 
 ### Financial Requirements
 To qualify, applicants must prove an annual income double the Korean GNI per capita. In 2026, this threshold sits at approximately **85 million KRW** (roughly **$64,000 - $66,000 USD**, depending on exchange rates). You must also hold private health insurance with coverage of at least **100 million KRW** for emergency treatment and evacuation.

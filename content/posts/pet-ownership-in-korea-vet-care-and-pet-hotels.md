@@ -10,6 +10,8 @@ Living in South Korea as an expat comes with unique challenges, but raising a pe
 
 This guide provides a comprehensive breakdown of pet ownership in Korea, focusing on veterinary care and accommodation services for 2026. whether you are relocating with a furry friend or adopting locally, understanding these logistics is crucial for a stress-free experience.
 
+For more details, check out our guide on [Buying property in Korea foreign ownership rules guide](/blog/buying-property-in-korea-foreign-ownership-rules).
+
 <KeyTakeaways 
   points={[
     "Vet consultations in Seoul average 30,000 to 50,000 KRW ($22-37 USD) for basic visits.",
@@ -23,6 +25,8 @@ This guide provides a comprehensive breakdown of pet ownership in Korea, focusin
 ## The Korean Pet Landscape: Rules and Registration
 
 Before diving into care options, you must understand the legal framework. Since 2014, animal registration has been mandatory nationwide. The system is designed to prevent abandonment and help reunite lost pets with owners.
+
+You might also enjoy our article about [Moving to Korea with a Pet](/blog/moving-to-korea-with-a-pet-quarantine-paperwork-and-flights-2026).
 
 ### Mandatory Dog Registration
 If you own a dog older than two months, you are legally required to register it with the local district office (Gu-office). While cats are currently part of a pilot registration program in specific districts, dogs are the primary focus of enforcement.

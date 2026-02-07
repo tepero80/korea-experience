@@ -10,6 +10,8 @@ Located on the southwestern tip of the Korean Peninsula, roughly 350 kilometers 
 
 For the international traveler, these two dishes represent a spectrum of Korean gastronomy—from the ultra-fresh vitality of live octopus to the deep, challenging complexity of fermented skate. Navigating these delicacies requires local knowledge, as pricing, seasonality, and eating etiquette vary significantly. A trip to Mokpo is incomplete without braving these flavors, and the KTX train ride, which takes approximately 2 hours and 25 minutes from Yongsan Station, is a small investment for a world-class gastronomic adventure.
 
+For more details, check out our guide on [Korean Seasonal Fish Guide 2026 Best Seafood by Season](/blog/a-guide-to-korean-seasonal-fish-what-to-eat-in-spring-summer-fall-winter-2026).
+
 <KeyTakeaways 
   points={[
     "Mokpo Thin-Legged Octopus is distinct from common octopus, known for tenderness and consumed whole.",
@@ -24,7 +26,11 @@ For the international traveler, these two dishes represent a spectrum of Korean 
 
 To understand Mokpo seafood specialties octopus and skate, you must understand the geography. Mokpo sits adjacent to the immense tidal flats of the Yellow Sea (West Sea). These nutrient-rich mudflats, known as *getbol*, provide the perfect habitat for the octopus, while the nearby Heuksando Island is the historic epicenter of the skate trade.
 
+You might also enjoy our article about [Busan seafood guide fresh fish markets and restaurants](/blog/busan-seafood-guide-fresh-fish-markets-and-restaurants).
+
 Historically, before modern refrigeration, skate was the only fish that could be transported from the islands to the mainland without spoiling—it simply fermented in its own uric acid. This preservation method created a delicacy that defines the Jeolla province's palate. Today, over 2,500 tons of skate are consumed annually in this region alone.
+
+Related reading: [Korean seafood guide from raw fish to grilled shellfish](/blog/korean-seafood-delicacies-raw-fish-to-grilled-shellfish).
 
 <StatCard
   title="Mokpo Seafood Statistics"
@@ -39,6 +45,8 @@ Historically, before modern refrigeration, skate was the only fish that could be
 ## Sebal Nakji: The Thin-Legged Octopus
 
 The term *Sebal Nakji* is often mistranslated as "three-legged octopus" due to the Korean word "Se" sounding like the number three. However, here "Se" means "thin." These are not baby octopuses, but a specific growth stage of the mud octopus characterized by incredibly slender, long legs and a soft head.
+
+Learn more in our comprehensive guide to [Korean seafood markets noryangjin and more](/blog/korean-seafood-markets-noryangjin-and-more-2026).
 
 Unlike the chewier common octopus found in Seoul, Mokpo's variety is celebrated for being tender enough to be swallowed whole—a feat of culinary bravery known as *Tong-Nakji*. These creatures are harvested from the mudflats using traditional methods, often by hand or small traps, ensuring the highest quality.
 

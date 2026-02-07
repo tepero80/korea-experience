@@ -10,6 +10,8 @@ Experience the culinary majesty of the Joseon Dynasty through **Korean Royal Cou
 
 For international travelers, navigating the world of Hanjeongshik can be daunting. From understanding the symbolic "12 Cheop" (12 side dishes) setting to securing reservations at Michelin-starred establishments in Seoul, this guide provides the essential roadmap. Whether you are looking for a $30 lunch special or a $300 full-course gastronomic journey, we interpret the menu, the etiquette, and the locations to ensure your dining experience is flawless.
 
+Related reading: [Korean royal court cuisine where to try authentic dishes](/blog/korean-royal-court-cuisine-where-to-try-authentic-dishes-2026).
+
 <KeyTakeaways 
   points={[
     "Hanjeongshik represents the Joseon Dynasty's royal table, featuring 12+ dishes served simultaneously or in courses.",
@@ -24,6 +26,8 @@ For international travelers, navigating the world of Hanjeongshik can be dauntin
 
 To truly appreciate Hanjeongshik, one must understand its origins in *Surasang*, the royal table set for the King. Unlike the spicy, red-pepper-heavy dishes often associated with modern Korean street food, Royal Court Cuisine is subtle, emphasizing the natural flavors of ingredients. It was established during the Joseon Dynasty (1392–1910) and follows a philosophy of balance.
 
+For more details, check out our guide on [50 Must Try Korean Foods Complete Guide](/blog/50-must-try-korean-foods-complete-guide-2026).
+
 <StatCard
   title="The Royal Table"
   variant="gradient"
@@ -36,8 +40,12 @@ To truly appreciate Hanjeongshik, one must understand its origins in *Surasang*,
 
 The meal is built around the philosophy of *Obangsaek*, utilizing five cardinal colors—red, yellow, white, black, and blue/green—representing the five elements of the universe. Historically, the King received this table three times a day, with the main meal served at 10:00 AM and 5:00 PM. Today, modern interpretations condense this into a singular, luxurious dining event lasting between 90 to 120 minutes.
 
+Related reading: [Best Korean Convenience Store Food Must Try Items](/blog/best-korean-convenience-store-food-must-try-items-2026).
+
 ### The Significance of Regional Tributes
 The ingredients used in royal cuisine were not sourced from a single market. They were tributes sent from the eight provinces of the Korean peninsula. This meant the King's table was a literal map of his kingdom.
+
+Related reading: [Gyeongju Traditional Cuisine Historic Recipes and Dining ...](/blog/gyeongju-traditional-cuisine-historic-recipes).
 *   **Seafood** arrived from the coastal provinces, traveling over 300 kilometers to reach Hanyang (modern-day Seoul).
 *   **Grains** came from the fertile Jeolla province, roughly 200 kilometers south.
 *   **Mountain herbs** were harvested from the Gangwon region, at elevations exceeding 1,000 meters.

@@ -10,6 +10,8 @@ For many international travelers, the dream of living in South Korea extends far
 
 This visa allows young people from 25 participating countries to reside in South Korea for up to 12 months, with the legal ability to work part-time to supplement their travel funds. Unlike a student visa or a strict employment visa, the H-1 offers a unique balance of freedom and cultural immersion. However, the bureaucratic hurdles can be daunting. From proving your financial stability to navigating the local immigration office for your Alien Registration Card (ARC), the process requires meticulous planning.
 
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
+
 <KeyTakeaways 
   points={[
     "Eligibility is strictly 18-30 years old (up to 35 for UK, Canada, Australia, etc.)",
@@ -25,7 +27,11 @@ This visa allows young people from 25 participating countries to reside in South
 
 The H-1 Visa is designed primarily for tourism, with work being a secondary privilege to cover travel expenses. It is based on bilateral agreements between South Korea and partner nations. As of January 2026, the quota for most countries ranges from 200 to 4,000 participants annually per country, meaning spots can fill up quickly in popular regions like France or Canada.
 
+For more details, check out our guide on [D 10 Job Seeker Visa After Graduation in 2026 Guide](/blog/d-10-job-seeker-visa-after-graduation).
+
 The core philosophy of this visa is "travel first, work second." This distinction is crucial because immigration officers scrutinize your "Activity Plan" to ensure you intend to tour the country rather than work full-time in a corporate setting. The maximum stay is generally 12 months from the date of entry, and unlike other visas, it usually cannot be extended (with very specific exceptions for U.S. citizens regarding duration).
+
+For more details, check out our guide on [D 10 Job Seeker Visa Korea 2026 Complete Application Guide](/blog/d-10-job-seeker-visa-korea-complete-guide-2026).
 
 <StatCard
   title="Visa Statistics 2026"
@@ -41,6 +47,8 @@ The core philosophy of this visa is "travel first, work second." This distinctio
 ## Eligibility Requirements
 
 Before booking a flight to Incheon International Airport (ICN), you must verify that you meet the strict criteria set by the Ministry of Justice. The requirements are generally consistent, though local embassies may request slight variations in documentation.
+
+You might also enjoy our article about [D visa student visa and part time work rules guide](/blog/d-visa-student-visa-and-part-time-work-rules).
 
 ### Age Restrictions
 The standard age range is 18 to 30 years old at the time of application. This means you must submit your application before your 31st birthday. However, recent bilateral updates have expanded this for certain nations. Citizens of the United Kingdom, Canada, Australia, and New Zealand can now apply up to age 35.

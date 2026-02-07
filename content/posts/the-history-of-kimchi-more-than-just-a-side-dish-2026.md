@@ -26,6 +26,8 @@ The story of kimchi begins long before the introduction of the chili pepper. His
 
 Originally, kimchi was called *ji* or *chimchae*, meaning "submerged vegetables." It was a simple dish, consisting of radish, cucumber, or cabbage salted and preserved in brine. It bore no resemblance to the fiery red dish we know today. It was white, salty, and purely functional—designed to provide essential vitamins and minerals during the barren winter months.
 
+Related reading: [Behind the scenes K-Drama production tours 2026 guide](/blog/behind-the-scenes-k-drama-production-tours).
+
 <InfoBox type="info" title="Historical Note">
   The earliest written record of kimchi appears in the <em>Samguk Sagi</em> (History of the Three Kingdoms). It mentions that fermented vegetables were widely consumed alongside soybean paste and salt as early as the establishment of the Silla Kingdom.
 </InfoBox>
@@ -71,6 +73,8 @@ Historically, a single household might prepare 50 to 100 heads of cabbage to las
 
 In 2026, while urbanization has reduced the scale of Kimjang for many city dwellers, the tradition persists. Many families still gather to make smaller batches, while others order "Kimjang kits" online—packages containing salted cabbage and pre-made seasoning—averaging 80,000 KRW (approx. $60 USD) for 10kg.
 
+Related reading: [Why koreans love mbti the psychology behind the trend](/blog/why-koreans-love-mbti-the-psychology-behind-the-trend-2026).
+
 ## Regional Varieties: A Geography of Taste
 
 Korea's geography significantly influences kimchi styles. The climate gets warmer as you move south, affecting fermentation speeds and ingredient availability.
@@ -82,6 +86,8 @@ The weather in the north is colder, meaning fermentation is slower. Consequently
 
 ### Southern Style (Jeolla, Gyeongsang)
 Warmer southern temperatures require more salt and stronger spices to prevent the kimchi from spoiling too quickly. The flavor is robust, pungent, and deeply savory.
+
+You might also enjoy our article about [Korean traditional music and performance guide](/blog/korean-traditional-music-and-performance-guide-2026).
 *   **Key Ingredients:** Heavy salted anchovy sauce (*myeolchi-jeot*), salted shrimp, generous amounts of garlic and chili powder.
 *   **Famous Dish:** *Gat-kimchi* (Mustard Leaf Kimchi).
 
@@ -104,6 +110,8 @@ A standard serving of properly fermented kimchi contains over 100 million lactic
 
 ### The Innovation of the Kimchi Refrigerator
 To maintain the perfect fermentation environment year-round, Korea invented the specialized "Kimchi Refrigerator." Unlike standard fridges that fluctuate in temperature, kimchi refrigerators maintain a precise, constant temperature (usually between -1°C and 0°C) and mimic the environment of the traditional clay pots (*onggi*) buried underground. In 2026, over 90% of Korean households own a specialized kimchi refrigerator, with premium models costing upwards of 3,000,000 KRW ($2,250 USD).
+
+Related reading: [Stand up comedy in Seoul English shows venues and tickets](/blog/stand-up-comedy-in-seoul-english-shows).
 
 <ExpertTip 
   author="Dr. Park Min-soo"

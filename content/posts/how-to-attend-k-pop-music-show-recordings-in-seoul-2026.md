@@ -10,6 +10,8 @@ Seoul remains the beating heart of the global Hallyu wave, and for many internat
 
 Seeing your favorite idols perform less than 20 feet away is an electrifying experience, but it requires strategy. The competition is fierce—broadcast halls like the SBS Prism Tower only hold approximately 250 to 300 standing audience members per recording. This guide will navigate you through the verified methods of securing your spot, from global tour packages to official fan club lotteries.
 
+Related reading: [K-Pop music shows attending inkigayo and music bank](/blog/k-pop-music-shows-attending-inkigayo-and-music-bank).
+
 <KeyTakeaways 
   points={[
     "Tour packages remain the only guaranteed entry method for short-term tourists",
@@ -24,7 +26,11 @@ Seeing your favorite idols perform less than 20 feet away is an electrifying exp
 
 Before attempting to book tickets, you must understand the weekly schedule. Seoul hosts six major televised music programs, each filmed at different broadcasting centers across the city. The schedule runs from Tuesday to Sunday, with Monday typically being a rest day for the industry.
 
+Related reading: [Ultimate K-Pop Music Video Filming Locations Map Guide](/blog/k-pop-music-video-filming-locations-map).
+
 In 2026, the most accessible shows for foreigners are **SBS M's "The Show"** and **Mnet's "M Countdown"**, as they actively allocate a specific percentage of tickets to global travel partners. In contrast, public broadcast shows like KBS Music Bank rely heavily on strict lottery systems that prioritize Korean residents or holders of Alien Registration Cards (ARC).
+
+Related reading: [Best K-Pop concert venues in Seoul ultimate guide](/blog/best-k-pop-concert-venues-in-seoul).
 
 <ComparisonTable
   title="Weekly Music Show Schedule 2026"
@@ -52,6 +58,8 @@ In 2026, the most accessible shows for foreigners are **SBS M's "The Show"** and
 ## Method 1: Global Tour Packages (The Guaranteed Route)
 
 For travelers visiting Seoul for less than two weeks, purchasing a "K-Pop Experience Package" is the most reliable method. These packages are officially sanctioned by the broadcasting networks to promote tourism. While this method costs money—unlike the free fan club lotteries—it guarantees admission without the stress of navigating Korean-language apps or queuing at 4:00 AM.
+
+Learn more in our comprehensive guide to [Collecting K-Pop photocards the global market and trading...](/blog/collecting-k-pop-photocards-the-global-market-and-trading-etiquette-2026).
 
 As of early 2026, the average price for these packages ranges between **$85 and $150 USD** (approx. 115,000 to 200,000 KRW). These packages often bundle the music show ticket with a mini-tour of the broadcasting station or a cultural activity near the Digital Media City (DMC) complex.
 

@@ -24,10 +24,14 @@ Traditional instrument workshops, specifically for the **Gayageum** (12-string z
 
 Before booking a session, it is vital to understand what you are signing up for. The Korean musical landscape is vast, but these two instruments represent the dualism of the culture: the melodic, emotional grace of the Gayageum and the rhythmic, communal energy of the Janggu.
 
+For more details, check out our guide on [Bonsai and Zen gardens finding peace in Korea traditional...](/blog/bonsai-and-zen-gardens-finding-peace-in-korea-traditional-greenery-2026).
+
 ### The Gayageum: Strings of the Heart
 The Gayageum is arguably the most recognized traditional Korean instrument. It consists of 12 silk strings stretched over a soundboard made of paulownia wood. The instrument measures approximately 160 centimeters (63 inches) in length. Unlike western string instruments where you press strings against a fretboard, the Gayageum requires you to press the strings to the left of movable bridges (anjok) to bend the pitch.
 
 This bending technique, known as *nonghyun*, mimics the modulation of the human voice. Most one-day classes for tourists utilize the *Sanjo Gayageum*, which is slightly smaller and designed for faster, folk-style music compared to the larger court instruments.
+
+Related reading: [Rainy Seoul Evenings](/blog/how-to-spend-a-rainy-evening-in-seoul-best-lp-bars-and-traditional-makgeolli-houses).
 
 ### The Janggu: The Rhythm of Nature
 The Janggu is an hourglass-shaped drum that serves as the rhythmic backbone of traditional music. It represents the harmony of man and woman, or heaven and earth. The left head is covered with thick leather (cow or horse) to produce low sounds, while the right head uses thin leather (dog or horse) for sharp, high-pitched sounds.
@@ -44,10 +48,14 @@ The Janggu is an hourglass-shaped drum that serves as the rhythmic backbone of t
 
 Playing the Janggu involves using a mallet in the left hand (gungchae) and a bamboo stick in the right (yeolchae), creating complex polyrhythms that often mimic the sound of rain.
 
+You might also enjoy our article about [K-Drama Convenience Store Dinner Guide for Travelers in K...](/blog/k-content-living-how-to-recreate-your-favorite-k-drama-convenience-store-dinner-like-a-local).
+
 ## Where to Learn: The National Gugak Center
 For those seeking the most authoritative and academic experience, the National Gugak Center in Seocho-gu is the premier destination. As the headquarters of traditional Korean music, their "Foreigner Gugak Academy" is legendary.
 
 Located just 600 meters from Nambu Bus Terminal Station (Line 3), the center offers structured programs. While they focus on 10-week courses for residents, they frequently host Saturday experience programs for short-term visitors. These sessions usually last 120 minutes.
+
+For more details, check out our guide on [Mastering Korean Paper Art Hanji Crafts Workshops](/blog/korean-paper-art-hanji-crafts-workshops).
 
 <LocationCard
   name="National Gugak Center"

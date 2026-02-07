@@ -10,6 +10,8 @@ Seoul has firmly established itself as a global gastronomic capital, currently b
 
 The evolution of *Hansik* (Korean cuisine) has bifurcated into two distinct streams: the strictly traditional, which focuses on preserving royal court recipes from the Joseon Dynasty, and the "New Korean" contemporary movement, which blends indigenous fermentation techniques with Western plating and molecular gastronomy. With dinner courses averaging 2.5 to 3 hours in duration, selecting the right venue is critical for your itinerary.
 
+Related reading: [Affordable Fine Dining 5 Michelin-Starred Lunch Menus in ...](/blog/affordable-fine-dining-5-michelin-starred-lunch-menus-in-seoul-for-under-50).
+
 <KeyTakeaways 
   points={[
     "Lunch menus offer 30-40% savings compared to dinner at the same venues",
@@ -23,6 +25,8 @@ The evolution of *Hansik* (Korean cuisine) has bifurcated into two distinct stre
 ## The Landscape of Seoul's Michelin Scene
 
 Before booking, it is essential to understand the financial landscape of Seoul's fine dining. In 2026, the average cost for a 2-star Michelin dinner in Gangnam ranges between 280,000 KRW and 350,000 KRW ($210–$265 USD). While this is high, it is statistically about 15-20% cheaper than comparable dining experiences in New York or Paris when factoring in that tax and service charges are almost always included in the menu price in Korea.
+
+Related reading: [Michelin Star Korean Restaurants Seoul 2026 Guide](/blog/michelin-star-korean-restaurants-seoul-2026).
 
 <StatCard
   title="Seoul Fine Dining Stats"
@@ -40,7 +44,11 @@ Before booking, it is essential to understand the financial landscape of Seoul's
 
 Mingles has consistently held its rank as one of Asia's 50 Best Restaurants and maintains 2 Michelin stars. Chef Kang Min-goo's philosophy harmonizes traditional Korean fermentation (*Jang*) with modern techniques. This is arguably the most "worth it" splurge in Seoul because it presents flavors you literally cannot experience elsewhere.
 
+Related reading: [Andong Jjimdak best restaurants in the hometown guide](/blog/andong-jjimdak-best-restaurants-in-the-hometown).
+
 The restaurant is located roughly 600 meters from the Gangnam-gu Office subway station. The signature experience revolves around their "Mingles Bansang," a main course spread that elevates the traditional Korean table setting to an art form.
+
+Related reading: [Best Korean BBQ Restaurants in Seoul 2026 Ultimate Guide](/blog/best-korean-bbq-restaurants-in-seoul-2026).
 
 <LocationCard
   name="Mingles"

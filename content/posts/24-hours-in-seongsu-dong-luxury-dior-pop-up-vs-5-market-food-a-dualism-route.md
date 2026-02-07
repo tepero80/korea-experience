@@ -8,7 +8,7 @@ featured: true
 featuredOrder: 2
 ---
 
-Welcome to Seongsu-dong, Seoul's captivating district that effortlessly blends the gritty charm of industrial past with the glittering allure of high fashion and cutting-edge culture. This isn't just another trendy neighborhood; it's a testament to Seoul's dynamic spirit, where repurposed factories now house luxury brand pop-ups and artisan cafes, coexisting just blocks away from bustling traditional markets serving delicious, budget-friendly street food. Our "24 Hours in Seongsu-dong: Luxury Dior Pop-up vs $5 Market Food - A Dualism Route" is designed for the curious international traveler, the expat seeking authentic Korean experiences, or anyone eager to witness Seoul?�s vibrant contrasts firsthand. Prepare to navigate a fascinating journey from designer elegance to local flavors, proving that in Seongsu, you truly can have it all.
+Welcome to Seongsu-dong, Seoul's captivating district that effortlessly blends the gritty charm of industrial past with the glittering allure of high fashion and cutting-edge culture. This isn't just another trendy neighborhood; it's a testament to Seoul's dynamic spirit, where repurposed factories now house luxury brand pop-ups and artisan cafes, coexisting just blocks away from bustling traditional markets serving delicious, budget-friendly street food. Our "24 Hours in Seongsu-dong: Luxury Dior Pop-up vs $5 Market Food - A Dualism Route" is designed for the curious international traveler, the expat seeking authentic Korean experiences, or anyone eager to witness Seoul's vibrant contrasts firsthand. Prepare to navigate a fascinating journey from designer elegance to local flavors, proving that in Seongsu, you truly can have it all.
 
 <KeyTakeaways 
   points={[
@@ -38,7 +38,7 @@ Seongsu-dong, often dubbed the "Brooklyn of Seoul," has undergone a remarkable t
 The appeal of Seongsu-dong for international visitors lies in its ability to offer a diverse range of experiences within a compact area. You can browse high-end fashion and art installations one moment, then immerse yourself in the authentic flavors and sounds of a traditional market the next. This duality isn't just about contrasting experiences; it's about understanding the multifaceted nature of modern Seoul itself. The district is incredibly accessible, located just a few stops from major transport hubs, making it an ideal destination for a day trip or an extended exploration. From Seongsu Station, many key attractions are within a 5-15 minute walk.
 
 <InfoBox type="tip" title="Getting to Seongsu-dong">
-  The easiest way to reach Seongsu-dong is via Seoul Subway Line 2 (the green line). Get off at Seongsu Station (?�수. Most of the trendy cafes and shops are concentrated around Exits 3 and 4. Ttukseom Station (?�섬, also on Line 2, is convenient for the western part of the district and some markets.
+  The easiest way to reach Seongsu-dong is via Seoul Subway Line 2 (the green line). Get off at Seongsu Station (성수). Most of the trendy cafes and shops are concentrated around Exits 3 and 4. Ttukseom Station (뚝섬, also on Line 2, is convenient for the western part of the district and some markets.
 </InfoBox>
 
 ## Morning: The Luxury Immersion Dior and High-End Cafes (9:00 AM - 12:00 PM)
@@ -73,7 +73,7 @@ The atmosphere is undeniably luxurious, with attentive staff and exquisite displ
 
 After your Dior experience, or perhaps as an alternative if reservations are full, Seongsu-dong boasts an impressive array of high-end cafes housed in renovated industrial buildings. These spaces are known for their spacious interiors, unique architectural features, and premium coffee and bakery items.
 
-Cafes like Café Onion Seongsu (?�니?�수) or Daelim Warehouse (?�림창�? offer a distinct blend of industrial chic and cozy comfort. They often serve specialty pour-over coffees, artisanal breads, and brunch menus that go beyond a simple croissant. The average price for a coffee in these establishments is around ,000-,000 ($4.50-$6 USD), and a pastry can add another ,000-,000 ($3.50-$5 USD). A full brunch plate might cost 5,000-0,000 ($11-$15 USD).
+Cafes like Café Onion Seongsu (어니언성수) or Daelim Warehouse (대림창고) offer a distinct blend of industrial chic and cozy comfort. They often serve specialty pour-over coffees, artisanal breads, and brunch menus that go beyond a simple croissant. The average price for a coffee in these establishments is around ,000-,000 ($4.50-$6 USD), and a pastry can add another ,000-,000 ($3.50-$5 USD). A full brunch plate might cost 5,000-0,000 ($11-$15 USD).
 
 <LocationCard
   name="Cafe Onion Seongsu"
@@ -130,7 +130,7 @@ Now, it's time to shift gears and prepare for the authentic flavors of Seongsu-d
 
 ### Ttukseom Market: A Taste of Traditional Korea
 
-Ttukseom Market (?�섬 ?�장) is one of the local gems that perfectly embodies the traditional side of Seongsu-dong. Unlike the highly curated luxury spaces, this market offers a sensory overload of sights, sounds, and smells. It's where locals shop for fresh produce, household goods, and, most importantly, delicious and affordable street food.
+Ttukseom Market (뚝섬 시장) is one of the local gems that perfectly embodies the traditional side of Seongsu-dong. Unlike the highly curated luxury spaces, this market offers a sensory overload of sights, sounds, and smells. It's where locals shop for fresh produce, household goods, and, most importantly, delicious and affordable street food.
 
 <LocationCard
   name="Ttukseom Market"
@@ -147,10 +147,10 @@ Ttukseom Market (?�섬 ?�장) is one of the local gems that perfectly embodi
 />
 
 Here, you can feast like a local for a fraction of the price of a luxury cafe snack. Popular items include:
-*   **Tteokbokki (?�볶:** Spicy rice cakes, often served with fish cakes (eomuk). A generous portion costs around ,000-,000 ($3-$3.75 USD).
-*   **Odeng (?�뎅):** Fish cakes on skewers, simmered in a savory broth. Usually ,000 ($0.75 USD) per skewer.
-*   **Gyeranppang (계�?�?:** A fluffy, slightly sweet bread with a whole egg baked inside. Approximately ,000 ($1.50 USD) each.
-*   **Kimbap (김�?:** Seaweed rice rolls, often sold in small, individual portions for ,000-,000 ($2.25-$3 USD).
+*   **Tteokbokki (떡볶이):** Spicy rice cakes, often served with fish cakes (eomuk). A generous portion costs around ,000-,000 ($3-$3.75 USD).
+*   **Odeng (오뎅):** Fish cakes on skewers, simmered in a savory broth. Usually ,000 ($0.75 USD) per skewer.
+*   **Gyeranppang (계란빵):** A fluffy, slightly sweet bread with a whole egg baked inside. Approximately ,000 ($1.50 USD) each.
+*   **Kimbap (김밥):** Seaweed rice rolls, often sold in small, individual portions for ,000-,000 ($2.25-$3 USD).
 
 This is an experience where plastic chairs, shared tables, and the aroma of various foods define the ambiance. It's raw, authentic, and utterly charming.
 
@@ -204,7 +204,7 @@ For dinner, you have the choice of continuing your budget-friendly market explor
 Seongsu-dong's nightlife mirrors its daytime duality.
 
 *   **High-End Bars:** Several sophisticated bars have emerged, often with mixologists crafting unique cocktails in stylish, industrial-chic settings. A custom cocktail can cost anywhere from 8,000 to 5,000 ($13-$18 USD). These venues focus on atmosphere, premium ingredients, and a relaxed, upscale vibe.
-*   **Local Soju Tents (Pojangmacha):** For a more authentic, budget-friendly Korean experience, look for a 'pojangmacha' (?�장마차) or a casual local pub. These often serve soju (,000 per bottle, ~$3.75 USD), beer (,000-,000 per bottle), and affordable anju (?�주 - snacks to accompany drinks) like gyeranmari (rolled omelet) for 5,000 ($11 USD) or golbaengi-muchim (spicy sea snail salad) for 5,000 ($18 USD). It's a lively, unpretentious way to experience Korean drinking culture.
+*   **Local Soju Tents (Pojangmacha):** For a more authentic, budget-friendly Korean experience, look for a 'pojangmacha' (포장마차) or a casual local pub. These often serve soju (,000 per bottle, ~$3.75 USD), beer (,000-,000 per bottle), and affordable anju (안주 - snacks to accompany drinks) like gyeranmari (rolled omelet) for 5,000 ($11 USD) or golbaengi-muchim (spicy sea snail salad) for 5,000 ($18 USD). It's a lively, unpretentious way to experience Korean drinking culture.
 
 <StatCard
   title="Seongsu-dong's Economic Impact"
@@ -219,7 +219,7 @@ Seongsu-dong's nightlife mirrors its daytime duality.
 
 ## Crafting Your 24-Hour Dualism Route in Seongsu-dong
 
-Here?�s a suggested timeline to maximize your experience of Seongsu-dong's unique contrasts. Remember, these are flexible and can be adapted to your preferences.
+Here's a suggested timeline to maximize your experience of Seongsu-dong's unique contrasts. Remember, these are flexible and can be adapted to your preferences.
 
 <Timeline
   title="Seongsu-dong Dualism Itinerary"

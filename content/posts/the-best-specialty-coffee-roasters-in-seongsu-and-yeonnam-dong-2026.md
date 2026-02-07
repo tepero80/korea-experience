@@ -10,6 +10,8 @@ Seoul’s transformation into a global coffee capital is complete. By 2026, the 
 
 While Myeongdong and Gangnam offer convenience, Seongsu and Yeonnam are where the true artisans roast small-batch beans that score 85+ on the SCA scale. This guide cuts through the hype to deliver the absolute best specialty coffee experiences available in 2026, optimized for your palate and your travel itinerary.
 
+For more details, check out our guide on [Gangneung Coffee Street Artisan Roasters Guide](/blog/gangneung-coffee-street-artisan-roasters).
+
 <KeyTakeaways 
   points={[
     "Seongsu offers industrial-scale cafes; Yeonnam provides cozy, park-side vibes",
@@ -23,6 +25,8 @@ While Myeongdong and Gangnam offer convenience, Seongsu and Yeonnam are where th
 ## The Coffee Landscape of 2026: What to Expect
 
 Before diving into specific locations, it is crucial to understand the logistical reality of coffee hunting in Seoul in 2026. The average price for a standard Americano in specialty shops has stabilized around 6,000 KRW ($4.50 USD), while premium Geisha varietals or experimental fermentation lots often command prices between 12,000 and 20,000 KRW ($9.00 - $15.00 USD).
+
+For more details, check out our guide on [Seoul cafe culture best coffee shops and dessert cafes](/blog/seoul-cafe-culture-best-coffee-shops-and-dessert-cafes-2026).
 
 <StatCard
   title="Seoul Coffee Index 2026"

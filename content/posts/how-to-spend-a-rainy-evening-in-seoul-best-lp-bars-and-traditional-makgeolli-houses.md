@@ -272,7 +272,7 @@ Experiencing makgeolli is a ritual. Here's a simple guide to enhance your enjoym
     },
     { 
       title: "Mix and Pour", 
-      description: "Before pouring, gently shake or stir the makgeolli bottle to mix the sediment at the bottom. Pour into small, traditional bowls (?�발, sabal) or cups.", 
+      description: "Before pouring, gently shake or stir the makgeolli bottle to mix the sediment at the bottom. Pour into small, traditional bowls (사발, sabal) or cups.", 
       tip: "Pour only a small amount at a time, as it's meant to be sipped and savored, not gulped." 
     },
     { 
@@ -332,7 +332,7 @@ Navigating Seoul on a rainy night is straightforward with a few considerations.
 *   **What to Wear:** Layers are always a good idea in Seoul. While inside these establishments will be warm, the walk to and from the subway or taxi can be chilly. A light waterproof jacket and comfortable, closed-toe shoes are recommended.
 *   **Payment Methods:** Most establishments in Seoul accept major credit cards (Visa, Mastercard, American Express). Carrying some cash (0,000-0,000) is always advisable for smaller purchases or establishments, although less common in LP bars and makgeolli houses.
 *   **Reservations:** For popular LP bars or makgeolli houses, especially on weekend evenings, making a reservation can save you from waiting in the rain. Some places accept online bookings, while others prefer phone calls (English might be limited).
-*   **Language:** While many tourist-centric areas have English menus and staff, it's not guaranteed everywhere. Having a translation app like Papago on your phone is highly recommended. Learning a few basic Korean phrases like "juseyo" (주세 please give me) or "gamsahamnida" (감사?�니 thank you) can also go a long way.
+*   **Language:** While many tourist-centric areas have English menus and staff, it's not guaranteed everywhere. Having a translation app like Papago on your phone is highly recommended. Learning a few basic Korean phrases like "juseyo" (주세 please give me) or "gamsahamnida" (감사합니다, thank you) can also go a long way.
 
 <InfoBox type="arc-free" title="Embrace the Seoulite Spirit">
   Don't be afraid to try new things! Locals often embrace the unique charm of rainy evenings. Striking up a conversation with staff or fellow patrons (if the setting allows) can lead to truly memorable cultural exchanges. Over 70% of international tourists surveyed indicate a desire for unique local experiences beyond typical sightseeing.

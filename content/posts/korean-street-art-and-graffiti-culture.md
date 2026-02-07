@@ -10,6 +10,8 @@ When travelers picture South Korea, the image often oscillates between the ancie
 
 While South Korea maintains a reputation for strict order and cleanliness, its urban art scene creates a fascinating paradox. It is a visual dialogue between the raw energy of underground hip-hop culture and government-sponsored "beautification" projects known as Mural Villages (*Maeul Misul*). Exploring these streets offers a lens into the soul of modern Korea that you won't find in standard guidebooks.
 
+You might also enjoy our article about [Korean street art and graffiti culture in ihwa mural village](/blog/korean-street-art-and-graffiti-culture-in-ihwa-mural-village-2026).
+
 <KeyTakeaways 
   points={[
     "Seoul features over 100 distinct mural villages and graffiti zones",
@@ -24,7 +26,11 @@ While South Korea maintains a reputation for strict order and cleanliness, its u
 
 To understand Korean street art, you must distinguish between "Graffiti" and "Mural Villages." The latter exploded in popularity around 2006, when the Ministry of Culture, Sports and Tourism launched the "Art in City" project. The goal was simple: take decaying hillside neighborhoods (often called *Daldongne* or "Moon Villages" because they are high up near the moon) and revitalize them with paint rather than bulldozers.
 
+Learn more in our comprehensive guide to [Calligraphy classes in Seoul mastering Hangeul art](/blog/calligraphy-classes-in-seoul-learning-the-art-of-hangeul-2026).
+
 Conversely, authentic graffiti culture grew alongside the rise of K-Hip Hop in the 1990s. Initially viewed purely as vandalism, it has slowly gained respect as a legitimate art form, with famous Korean artists like KOMA and ROYAL DOG gaining international acclaim. Today, the market for urban art in Korea is booming, with the annual "Urban Break" art fair attracting over 50,000 visitors in 2025 alone.
+
+Learn more in our comprehensive guide to [Gaming culture visiting lol park and PC bang pro centers](/blog/gaming-culture-visiting-lol-park-and-pc-bang-pro-centers-2026).
 
 <StatCard
   title="The Mural Effect"
@@ -39,6 +45,8 @@ Conversely, authentic graffiti culture grew alongside the rise of K-Hip Hop in t
 ## Hongdae: The Heartbeat of Youth Culture
 
 If Seoul has a canvas, it is Hongdae. Located near Hongik University, the country’s premier arts college, this neighborhood is saturated with artistic expression. The most famous stretch is "Hongdae Mural Street" (often called Picasso Street). Here, the walls change almost weekly, reflecting current trends, political satire, and abstract expressionism.
+
+Learn more in our comprehensive guide to [Historic kdrama sets folk villages and palaces travel guide](/blog/historic-kdrama-sets-folk-villages-and-palaces).
 
 Walking through Hongdae isn't just about seeing art; it's about the atmosphere. The area spans roughly 2 square kilometers of dense commercial and residential mix. You will likely walk about 5,000 to 8,000 steps just exploring the main artistic alleys.
 

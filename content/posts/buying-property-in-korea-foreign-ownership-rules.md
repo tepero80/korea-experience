@@ -10,6 +10,8 @@ South Korea remains one of the most dynamic real estate markets in Asia, offerin
 
 Unlike many other Asian nations that restrict foreigners to leasehold titles or condo-only ownership, South Korea allows foreigners to own land and buildings freehold. However, the process involves navigating the *Foreigner's Land Acquisition Act*, strict reporting requirements, and a tax system that can be aggressive toward multiple-home owners. As of early 2026, foreign ownership of South Korean land has stabilized at approximately 0.26% of the total national land area, representing over 260 square kilometers.
 
+Related reading: [Buying a car in Korea financing and registration guide](/blog/buying-a-car-financing-and-registration).
+
 <KeyTakeaways 
   points={[
     "Foreigners can own freehold land and property in Korea with almost the same rights as citizens.",
@@ -25,10 +27,16 @@ Unlike many other Asian nations that restrict foreigners to leasehold titles or 
 
 The short answer is yes. The *Foreigner's Land Acquisition Act* governs the purchase of real estate by non-Koreans. The South Korean government categorizes foreign buyers into three groups: resident foreigners (with an Alien Registration Card), non-resident foreigners, and foreign corporations.
 
+For more details, check out our guide on [Buying a used car in Korea K Car vs Encar guide](/blog/buying-a-used-car-in-korea-k-car-vs-encar-guide-2026).
+
 The regulations generally favor openness. You do not need to be a resident or hold a specific visa to purchase property. However, the bureaucratic procedure differs based on the type of land and the buyer's status.
+
+You might also enjoy our article about [D visa student visa and part time work rules guide](/blog/d-visa-student-visa-and-part-time-work-rules).
 
 ### Notification vs. Permission
 For most residential and commercial properties, the process is based on **Notification**, not Permission.
+
+You might also enjoy our article about [Kiosk survival guide](/blog/foreign-friendly-kiosk-survival-guide-what-to-do-when-your-overseas-credit-card-is-rejected).
 
 1.  **Notification System:** For general residential apartments, office buildings, or commercial land, you simply sign the contract and report the transaction to the head of the *Si/Gun/Gu* (city/county/district) office within 60 days.
 2.  **Permission System:** If the land is located in a military installation reservation area, cultural heritage protection zone, or ecosystem preservation district, you must obtain permission *before* entering into a contract. Failure to do so can result in the contract being voided and potential imprisonment of up to 2 years or a fine of up to 20 million KRW ($15,000 USD).

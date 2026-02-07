@@ -10,6 +10,8 @@ Welcome to the vibrant, flavorful, and often overwhelming world of **Banchan** (
 
 For the uninitiated traveler, these small plates can be a mystery. Which ones are spicy? Which ones are raw? Can I ask for more? This guide is your definitive resource for navigating the Korean table with confidence. From the crunch of fermented radish to the nutty aroma of seasoned spinach, we explore the history, etiquette, and essential varieties you must try during your visit to Korea.
 
+Related reading: [Korean Side Dish Culture Understanding Banchan Guide](/blog/korean-side-dish-culture-understanding-banchan).
+
 <KeyTakeaways 
   points={[
     "Banchan are complimentary side dishes served with almost every Korean meal",
@@ -24,7 +26,11 @@ For the uninitiated traveler, these small plates can be a mystery. Which ones ar
 
 In Western dining, side dishes are often optional add-ons that cost extra—think $5 for fries or $8 for a side salad. In Korea, this logic is flipped upside down. Banchan is fundamental to the meal structure, known as *Bansang*. Historically rooted in the Three Kingdoms period (57 BC – 668 AD), the number of side dishes served was once a status symbol. Kings were served *Surasang* (royal table) featuring 12 specific dishes, while commoners typically ate three to five.
 
+For more details, check out our guide on [Korean Rice Dishes Bibimbap Dolsot Kongnamul Bap Guide](/blog/korean-rice-dishes-bibimbap-dolsot-kongnamul-bap).
+
 Today, even in 2026, this tradition of abundance persists. Whether you are paying 8,000 KRW ($6 USD) for a Kimchi stew or 150,000 KRW ($115 USD) for high-end beef, Banchan is inclusive. The philosophy is based on balance—balancing the plain taste of white rice (*Bap*) with salty, spicy, and tangy flavors.
+
+Related reading: [Korean royal court cuisine where to try authentic dishes](/blog/korean-royal-court-cuisine-where-to-try-authentic-dishes-2026).
 
 <StatCard
   title="Banchan by the Numbers"

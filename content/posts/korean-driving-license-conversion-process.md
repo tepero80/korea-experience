@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 Navigating the roads of the Korean Peninsula offers a freedom that public transport, efficient as it is, simply cannot match. From the winding coastal roads of Gangwon-do to the volcanic landscapes of Jeju Island, having a valid driving license is your ticket to exploring the real Korea. However, for long-term residents holding an Alien Registration Card (ARC), relying on an International Driving Permit (IDP) is a temporary solution that expires strictly after one year.
 
+You might also enjoy our article about [Korean Citizenship Naturalization Process Guide for Expats](/blog/korean-citizenship-naturalization-process).
+
+Learn more in our comprehensive guide to [Alien Registration Card Application Process in Korea](/blog/alien-registration-card-application-process).
+
+Related reading: [Best neighborhoods for expats in Seoul](/blog/best-neighborhoods-for-expats-in-seoul-2026).
+
+You might also enjoy our article about [Best weekend getaways for expats to beat city burnout](/blog/best-weekend-getaways-for-expats-to-beat-city-burnout-2026).
+
 Converting your foreign license to a Korean one is a rite of passage for many expats. While the bureaucracy can seem daunting, the process is streamlined if you prepare the correct paperwork. As of 2026, the South Korean government (via the KoROAD authority) has digitized much of the process, yet the physical exchange remains a mandatory in-person event. Whether you are teaching English, working in a corporate office in Pangyo, or settling down for retirement, obtaining a local license is essential for compliance and convenience.
 
 <KeyTakeaways 

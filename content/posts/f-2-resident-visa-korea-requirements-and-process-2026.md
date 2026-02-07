@@ -10,6 +10,8 @@ Securing long-term residency in South Korea is the ultimate goal for many expatr
 
 As we move into 2026, the South Korean Ministry of Justice has refined the criteria for this coveted status. With the Gross National Income (GNI) per capita rising and demographic shifts influencing immigration policy, understanding the nuances of the new point system is critical. Whether you are an English teacher looking for autonomy or a tech professional aiming for stability, navigating the F-2-7 (Points-Based) or F-2-99 (Long-Term Residency) pathways requires precision and strategy.
 
+Learn more in our comprehensive guide to [Digital Nomad Visa Korea Requirements and Application](/blog/digital-nomad-visa-korea-requirements-and-application).
+
 <KeyTakeaways 
   points={[
     "The minimum passing score for the F-2-7 visa remains 80 points out of a possible 135 in 2026.",
@@ -24,7 +26,11 @@ As we move into 2026, the South Korean Ministry of Justice has refined the crite
 
 While most expats refer simply to the "F-2," there are actually several sub-categories. The two most common pathways for international residents in 2026 are the **F-2-7 (Points-Based Resident)** and the **F-2-99 (Long-Term Resident)**.
 
+Learn more in our comprehensive guide to [F 6 marriage visa requirements and interview comprehensiv...](/blog/f-6-marriage-visa-requirements-and-interview).
+
 The F-2-7 is the most popular because it is merit-based. You do not necessarily need to have lived in Korea for a decade to qualify. In fact, highly qualified candidates can apply after just **1 year** of residence if they meet the point threshold. Conversely, the F-2-99 is designed for those who have lived in Korea continuously for **5 years** or more but may not have the high income or advanced degrees required for the points system.
+
+Learn more in our comprehensive guide to [F Visa Family Reunion Requirements Guide for](/blog/f-visa-family-reunion-requirements).
 
 <ComparisonTable
   title="F-2-7 vs F-2-99 Visa Comparison"
@@ -40,6 +46,8 @@ The F-2-7 is the most popular because it is merit-based. You do not necessarily 
 ## The 2026 F-2-7 Points System Breakdown
 
 To qualify for the F-2-7 visa, you must score at least **80 points** out of a total of 135. The system is divided into common criteria (Age, Education, Korean Ability) and additional criteria (Income, Bonus Points).
+
+Learn more in our comprehensive guide to [Korea Permanent Residency Requirements F 5 Visa Complete ...](/blog/permanent-residency-requirements-f-5-visa).
 
 ### 1. Age (Max 25 Points)
 The immigration policy favors young professionals who can contribute to the economy for decades. In 2026, the sweet spot for age remains between **30 and 34 years old**, which nets you the maximum 25 points.

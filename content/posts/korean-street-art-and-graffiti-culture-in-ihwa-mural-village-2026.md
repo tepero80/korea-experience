@@ -10,7 +10,11 @@ Perched high on the slopes of Naksan Park, Ihwa Mural Village represents one of 
 
 Located just 15 minutes by foot from the bustling Daehangno theater district, this area offers more than just Instagram backdrops; it provides a panoramic view of Seoul’s evolution. While the street art scene here has shifted from massive wall murals to more subtle, integrated artistic expressions to respect the locals, it remains a premier destination for those seeking the artistic soul of the city.
 
+For more details, check out our guide on [Korean street art guide hidden alleys to mural villages](/blog/korean-street-art-and-graffiti-culture).
+
 With over 60 distinct art installations currently active and a restriction on large tour buses implemented since late 2024 to preserve the atmosphere, visiting Ihwa in 2026 requires a deeper understanding of its etiquette and geography. This guide covers the logistics, the costs, and the hidden gems of Seoul's highest art gallery.
+
+Learn more in our comprehensive guide to [Calligraphy classes in Seoul mastering Hangeul art](/blog/calligraphy-classes-in-seoul-learning-the-art-of-hangeul-2026).
 
 <KeyTakeaways 
   points={[
@@ -26,7 +30,11 @@ With over 60 distinct art installations currently active and a restriction on la
 
 To understand the graffiti and mural culture here, one must understand the history. The term *daldongne* refers to villages located high on hilltops where residents have a better view of the moon than the city below. Following the Korean War (1950-1953), refugees settled here, building unplanned, dense housing.
 
+Learn more in our comprehensive guide to [Gaming culture visiting lol park and PC bang pro centers](/blog/gaming-culture-visiting-lol-park-and-pc-bang-pro-centers-2026).
+
 In 2006, the Ministry of Culture, Sports and Tourism launched the "Art in City" project to revitalize the area. Roughly 70 artists installed paintings and sculptures, transforming the decaying walls into a tourist hotspot. However, by 2016, residents overwhelmed by noise and litter painted over famous murals (like the iconic carp staircase and sunflowers).
+
+Related reading: [Independent cinema guide art house theaters in Seoul](/blog/independent-cinema-guide-art-house-theaters-in-seoul).
 
 <QuickFacts
   title="Ihwa Mural Village 2026 Snapshot"

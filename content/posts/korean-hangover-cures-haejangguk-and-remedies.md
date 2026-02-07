@@ -26,6 +26,8 @@ Whether you overindulged on Soju or simply want to experience a cornerstone of l
 
 Before you even reach a restaurant for soup, your journey to recovery likely begins at a convenience store like CU, GS25, or 7-Eleven. These stores are ubiquitous in Korea, usually found within 100 meters of any nightlife district. The refrigerator section is stocked with small glass bottles and cans dedicated entirely to liver health and alcohol processing.
 
+You might also enjoy our article about [Incheon chinatown jajangmyeon origins the black noodle history](/blog/incheon-chinatown-jajangmyeon-origins).
+
 These drinks are often powered by specific ingredients: Hovenia dulcis (oriental raisin tree), turmeric, and taurine.
 
 <StatCard
@@ -45,6 +47,8 @@ This is the market leader. It utilizes oriental raisin tree extract to speed up 
 
 **2. Dawn 808 (Yeomyong 808)**
 You cannot miss the can; it features the inventor's face printed directly on the front. This is an all-natural tea remedy made from alder and hazelnut.
+
+Learn more in our comprehensive guide to [Korean Rice Dishes Bibimbap Dolsot Kongnamul Bap Guide](/blog/korean-rice-dishes-bibimbap-dolsot-kongnamul-bap).
 *Warning:* The taste is intensely herbal and bitter, often described by expats as "liquid earth." However, it is widely regarded as the most effective option for severe cases. The price point is higher, sitting at approximately 6,000 KRW ($4.60 USD) per 140ml can.
 
 **3. Ready Q**
@@ -117,6 +121,8 @@ Dried pollock is a staple in Korean households. When boiled for hours, the dried
 
 This is the advanced level. *Seonji* refers to congealed ox blood. It looks like blocks of dark red or brown jelly. The texture is firm, similar to pudding or tofu, and it has a metallic, irony taste.
 
+Related reading: [Korean drinking etiquette pouring and toasting guide](/blog/korean-drinking-etiquette-pouring-and-toasting).
+
 While the description may daunt international travelers, it is a nutritional powerhouse. The high iron and protein content helps restore energy levels rapidly. This dish is particularly famous in the Jongno district of Seoul, where some restaurants have been serving it for nearly 90 years.
 
 <ComparisonTable
@@ -165,6 +171,8 @@ Seoul is dotted with thousands of soup restaurants, but a few hold legendary sta
 ## Beyond Food: The Jjimjilbang (Korean Sauna)
 
 Sometimes, soup is not enough. You need to sweat the toxins out. This brings us to the *Jjimjilbang*, the Korean public bathhouse.
+
+Related reading: [Affordable Fine Dining 5 Michelin-Starred Lunch Menus in Seoul...](/blog/affordable-fine-dining-5-michelin-starred-lunch-menus-in-seoul-for-under-50).
 
 Visiting a Jjimjilbang is a multi-hour commitment. Most admission fees range from 12,000 to 18,000 KRW ($9-$14 USD). Once inside, you are given a uniform (shorts and a t-shirt). You can sleep on heated floors, sit in kilns ranging from 40°C to 80°C (104°F - 176°F), and drink cold *Sikhye* (sweet rice punch).
 

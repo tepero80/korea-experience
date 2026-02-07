@@ -40,6 +40,8 @@ The average size of a one-room officetel in Seoul hovers between **20 to 30 squa
 
 Furthermore, Korean apartments usually feature built-in wardrobes and storage units. This means you likely won't need to purchase large armoires. Instead, your budget will focus on beds, dining tables, and seating. It is crucial to measure your designated space down to the millimeter. A standard Korean "Super Single" bed is **110cm wide**, slightly larger than a US Twin but smaller than a Full, designed specifically for these compact rooms.
 
+Learn more in our comprehensive guide to [Korean grocery shopping hacks e mart market kurly and loc...](/blog/korean-grocery-shopping-hacks-e-mart-market-kurly-and-local-marts-2026).
+
 ## IKEA in Korea: The Familiar Giant
 
 IKEA entered the Korean market in late 2014 with its flagship store in Gwangmyeong, creating a massive shift in the local furniture industry. For expats, IKEA represents a safety net—familiar aesthetics, English instructions, and transparent pricing.

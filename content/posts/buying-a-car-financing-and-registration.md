@@ -22,7 +22,11 @@ Navigating the automotive landscape in South Korea can be a daunting task for in
 
 The Korean automotive market is dominated by domestic manufacturers, specifically Hyundai and Kia, which account for over 70% of vehicles on the road. For expats, this is advantageous because maintenance costs for domestic cars are significantly lower—often 40% to 50% cheaper—than for imported brands like BMW or Mercedes-Benz.
 
+For more details, check out our guide on [Buying a used car in Korea K Car vs Encar guide](/blog/buying-a-used-car-in-korea-k-car-vs-encar-guide-2026).
+
 When deciding between new and used vehicles, consider depreciation. A brand-new Hyundai Grandeur typically loses 15% to 20% of its value within the first year. Consequently, the "used car" market (known locally as *jung-go-cha*) is robust and highly active.
+
+Learn more in our comprehensive guide to [Alien Registration Card Application Process in Korea](/blog/alien-registration-card-application-process).
 
 <StatCard
   title="Market Snapshot 2026"
@@ -36,6 +40,8 @@ When deciding between new and used vehicles, consider depreciation. A brand-new 
 
 ### Where to Look: Digital Platforms
 The search usually begins online. The most trusted platforms for foreigners are **SK Encar** and **K Car**. SK Encar acts as a marketplace for dealers (similar to AutoTrader), while K Car owns its inventory, offering higher reliability but slightly higher prices.
+
+For more details, check out our guide on [Buying property in Korea foreign ownership rules guide](/blog/buying-property-in-korea-foreign-ownership-rules).
 
 <ComparisonTable
   title="Car Buying Platform Comparison"

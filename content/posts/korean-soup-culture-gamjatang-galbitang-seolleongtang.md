@@ -10,6 +10,8 @@ For international travelers landing in Seoul, the culinary landscape goes far be
 
 Understanding these three dishes is the key to unlocking the authentic Korean dining experience. Whether you are seeking a spicy hangover cure after a night in Hongdae or a nourishing, mild breakfast to start a day of palace tours, these soups offer a window into the local lifestyle.
 
+You might also enjoy our article about [Korean Soup Culture Guide 2026 Kimchi Jjigae Doenjang Jjigae](/blog/korean-soup-culture-a-guide-to-kimchi-jjigae-doenjang-jjigae-and-more-2026).
+
 <KeyTakeaways 
   points={[
     "Gamjatang is a spicy, communal pork bone stew best for groups and evening dining",
@@ -24,7 +26,11 @@ Understanding these three dishes is the key to unlocking the authentic Korean di
 
 In Korea, a meal is rarely considered complete without soup. Historically, during times of scarcity, boiling ingredients in large pots of water was the most efficient way to feed large families and communities. Today, this tradition has evolved into a sophisticated culinary art form.
 
+Learn more in our comprehensive guide to [Daegu Makchang guide the ultimate grilled intestines expe...](/blog/daegu-makchang-grilled-intestines-culture).
+
 The distinction between "Guk" (soup) and "Tang" (stew/rich soup) is subtle but important. Generally, **Tang** refers to soups that have been boiled for extended periods—often 12 to 24 hours—to extract collagen, calcium, and deep flavors from bones. This long cooking process is why these dishes are revered not just for taste, but for stamina.
+
+You might also enjoy our article about [Korean breakfast culture what locals eat in the morning](/blog/korean-breakfast-culture-what-locals-actually-eat-in-the-morning-2026).
 
 <StatCard
   title="The Soup Economy"
@@ -37,6 +43,8 @@ The distinction between "Guk" (soup) and "Tang" (stew/rich soup) is subtle but i
 />
 
 When you order these dishes, they arrive boiling vigorously in stone or earthenware pots (Ddukbaegi). This retains heat throughout the meal, ensuring the temperature stays above 80°C (176°F) for at least 15 minutes, allowing you to enjoy the meal hot until the last spoonful.
+
+Related reading: [Korean Buffet Culture All You Can Eat Options Guide](/blog/korean-buffet-culture-all-you-can-eat-options).
 
 ## Gamjatang: The Spicy Pork Back-Bone Stew
 

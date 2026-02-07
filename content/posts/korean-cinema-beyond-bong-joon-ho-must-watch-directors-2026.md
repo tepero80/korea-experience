@@ -10,6 +10,8 @@ While Bong Joon Ho's historic Oscar sweep for *Parasite* shattered the "one-inch
 
 However, navigating the depths of Korean film history and the current indie scene can be daunting for newcomers. This guide goes beyond the mainstream hits to introduce you to the auteurs defining the 2026 cinematic landscape, along with practical travel advice on where to experience these films in their homeland.
 
+You might also enjoy our article about [BTS tour in Seoul 2026 ultimate ARMY guide to holy sites](/blog/bts-tour-in-seoul-army-must-visit-locations-2026).
+
 <KeyTakeaways 
   points={[
     "Park Chan-wook and Lee Chang-dong remain essential pillars of Korean auteurism in 2026.",
@@ -25,9 +27,13 @@ However, navigating the depths of Korean film history and the current indie scen
 
 To truly appreciate the current state of Korean cinema, one must recognize the giants who built the foundation alongside Bong Joon Ho. These directors have distinct styles that have influenced a generation of filmmakers globally.
 
+Related reading: [Independent cinema guide art house theaters in Seoul](/blog/independent-cinema-guide-art-house-theaters-in-seoul).
+
 ### Park Chan-wook: The Stylish Provocateur
 
 If Bong Joon Ho is the master of genre-bending social satire, Park Chan-wook is the virtuoso of aesthetic violence and romantic obsession. Famous for *Oldboy* and *The Handmaiden*, Park's recent works continue to dazzle audiences with intricate plotting and visual splendor.
+
+You might also enjoy our article about [Korean mask dance drama where to watch best venues](/blog/korean-mask-dance-drama-where-to-watch).
 
 In 2026, Park remains a dominant force. His films are characterized by meticulous set designs—often costing upwards of **2 billion KRW** (approx. $1.5 million USD) for production design alone—and complex moral dilemmas.
 

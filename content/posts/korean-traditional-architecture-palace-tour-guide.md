@@ -10,6 +10,8 @@ Seoul is a city of striking contrasts, where glass skyscrapers reflect the curve
 
 This comprehensive Korean Traditional Architecture Palace Tour Guide will navigate you through the intricate designs, historical significance, and practical logistics of visiting Seoul's royal heritage sites. Whether you are an architecture enthusiast or a casual traveler, this guide ensures you maximize your experience with precise data and local insights.
 
+Related reading: [BLACKPINK in Seoul fan tour guide 2026 for BLINKs](/blog/blackpink-in-seoul-fan-tour-guide-2026).
+
 <KeyTakeaways 
   points={[
     "The Royal Palace Pass saves 4,000 KRW and covers all 5 palaces plus Jongmyo Shrine",
@@ -24,7 +26,11 @@ This comprehensive Korean Traditional Architecture Palace Tour Guide will naviga
 
 To truly appreciate a palace tour, one must first understand the principles of *Hanok* (Korean traditional house) architecture. Unlike Western architecture which often seeks to dominate the landscape, Korean architecture strives for harmony with nature. This concept is known as *Baesanimsu*—positioning a structure with a mountain behind it to block cold winds and a river in front for access to water.
 
+For more details, check out our guide on [Bonsai and Zen gardens finding peace in Korea traditional...](/blog/bonsai-and-zen-gardens-finding-peace-in-korea-traditional-greenery-2026).
+
 The most visually striking element you will notice is *Dancheong*, the decorative coloring on wooden buildings. Historically, five basic colors (blue, red, yellow, white, and black) were used to protect the wood from insects and weathering while symbolizing the dignity of royalty. The application of these pigments involves over 20 distinct steps and can last for decades.
+
+You might also enjoy our article about [BTS tour in Seoul 2026 ultimate ARMY guide to holy sites](/blog/bts-tour-in-seoul-army-must-visit-locations-2026).
 
 <StatCard
   title="Architectural Scale"
@@ -39,6 +45,8 @@ The most visually striking element you will notice is *Dancheong*, the decorativ
 ## Gyeongbokgung: The Palace of Greatly Blessed Brilliance
 
 Gyeongbokgung is the primary palace of the Joseon Dynasty and the undisputed centerpiece of any Korean traditional architecture palace tour. Built in 1395, just three years after the dynasty's founding, it sits at the heart of the capital, backed by the majestic Bugaksan Mountain. It spans roughly 40 hectares (400,000 square meters), making it the largest of the five palaces.
+
+Related reading: [Rainy Seoul Evenings](/blog/how-to-spend-a-rainy-evening-in-seoul-best-lp-bars-and-traditional-makgeolli-houses).
 
 The layout of Gyeongbokgung is strictly symmetrical, reflecting Confucian order. The main gate, Gwanghwamun, aligns perfectly with the throne hall (Geunjeongjeon) and the king's office. However, the rear garden, Amisan, features a more relaxed, natural aesthetic with terraced chimneys.
 

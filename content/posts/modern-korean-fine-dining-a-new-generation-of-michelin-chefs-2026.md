@@ -10,6 +10,8 @@ Seoul’s gastronomic landscape has undergone a seismic shift over the last deca
 
 For international travelers, navigating this scene requires more than just an appetite; it requires strategy. The competition for reservations is fierce, the price points have adjusted to match global inflation, and the geography of dining has expanded beyond the luxury enclave of Cheongdam-dong.
 
+Related reading: [Affordable Fine Dining 5 Michelin-Starred Lunch Menus in ...](/blog/affordable-fine-dining-5-michelin-starred-lunch-menus-in-seoul-for-under-50).
+
 <KeyTakeaways 
   points={[
     "Average dinner prices for starred venues now range from ₩250,000 to ₩400,000 ($180-$290 USD)",
@@ -24,7 +26,11 @@ For international travelers, navigating this scene requires more than just an ap
 
 In 2026, the definition of "Fine Dining" in Korea has transcended the table. It is now an immersive cultural experience. The data reflects this surge: Seoul now boasts 36 Michelin-starred establishments, a 12% increase from 2024. Of these, seven restaurants hold two stars or more, concentrating the highest density of luxury dining in the Gangnam and Yongsan districts.
 
+For more details, check out our guide on [Best spots for solo dining hon-bap in busy districts](/blog/best-spots-for-solo-dining-hon-bap-in-busy-districts-2026).
+
 The most significant trend this year is the rise of the "Chef-Owner" model among younger talents. Chefs in their early 30s, having trained at heavyweights like Mingles or Mosu, are opening intimate counter-style restaurants (often with fewer than 16 seats) that focus on hyper-seasonality.
+
+You might also enjoy our article about [Gluten free dining in Korea celiac safe options guide](/blog/gluten-free-dining-in-korea-celiac-safe-options).
 
 <StatCard
   title="Seoul Fine Dining Growth 2026"
@@ -38,6 +44,8 @@ The most significant trend this year is the rise of the "Chef-Owner" model among
 
 ### The "New Korean" Identity
 Unlike the fusion trends of the early 2010s, the 2026 cohort focuses on *Jang* (fermented sauces) and indigenous herbs. Ingredients that were once considered rustic—such as *dureup* (fatsia shoots) and aged *ggan-jang* (soy sauce)—are now centerpieces of 12-course tasting menus.
+
+Related reading: [Group dining best places for large parties in Seoul](/blog/group-dining-best-places-for-large-parties).
 
 ## The Titans: 3-Star Excellence
 

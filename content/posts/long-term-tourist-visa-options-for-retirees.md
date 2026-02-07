@@ -10,6 +10,8 @@ South Korea is rapidly becoming a bucket-list destination for active seniors and
 
 For international seniors wishing to spend their golden years in the Land of the Morning Calm, navigating the immigration system can feel daunting. Whether you are looking to invest in property on Jeju Island or planning an extended "slow travel" experience, understanding your visa options is critical to a successful transition.
 
+For more details, check out our guide on [Best Korea SIM Cards for Long-Term Travelers Beyond Airpo...](/blog/best-korea-sim-cards-for-long-term-travelers-beyond-airport-rentals-and-prepaid-limits).
+
 <KeyTakeaways 
   points={[
     "Korea has no direct Retirement Visa; investment or long-term tourist strategies are required.",
@@ -24,7 +26,11 @@ For international seniors wishing to spend their golden years in the Land of the
 
 The first thing to understand is that the South Korean immigration system is primarily designed to attract young labor, high-tech talent, and students. As of 2026, the demographic shift in Korea has opened some doors, but barriers remain high for those without active employment.
 
+Related reading: [Getting a post paid phone plan without a long term contract](/blog/getting-a-post-paid-phone-plan-without-a-long-term-contract-2026).
+
 If you are a retiree without Korean heritage (F-4 visa) or a Korean spouse (F-6 visa), your options are generally limited to significant financial investment or maintaining a semi-retired status where you can prove active income from abroad.
+
+You might also enjoy our article about [Retirement planning for long term expats in south Korea](/blog/retirement-planning-for-long-term-expats).
 
 <StatCard
   title="Retirement Landscape 2026"
@@ -37,6 +43,8 @@ If you are a retiree without Korean heritage (F-4 visa) or a Korean spouse (F-6 
 />
 
 Despite these hurdles, the number of silver expats is growing. In 2025 alone, over 4,500 foreign nationals over the age of 60 were granted long-term residency through investment channels, a 12% increase from previous years.
+
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
 
 ## Option 1: The "Golden Visa" (Real Estate Investment)
 

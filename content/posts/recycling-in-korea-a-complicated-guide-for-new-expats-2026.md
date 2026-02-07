@@ -10,7 +10,11 @@ Moving to South Korea comes with many culture shocks, but few are as immediately
 
 Korea boasts one of the world's most rigorous recycling infrastructures. It is not merely a suggestion here; it is a legal requirement strictly enforced by surveillance and fines. The "Jongnyangje" (Volume-Based Waste Fee System), introduced in 1995, has evolved into a high-tech operation involving RFID food waste bins and transparent PET bottle mandates. Failing to comply can result in your trash being left on the curb—or worse, a fine arriving in your mailbox.
 
+Related reading: [How to Recycle in Korea 2026](/blog/korea-recycling-bunrisugeo-guide-2026).
+
 This guide is your definitive handbook for 2026, breaking down every bag color, disposal time, and sorting rule to keep your household running smoothly and your wallet safe from penalties.
+
+Related reading: [Best neighborhoods for expats in Seoul](/blog/best-neighborhoods-for-expats-in-seoul-2026).
 
 <KeyTakeaways 
   points={[
@@ -27,7 +31,11 @@ This guide is your definitive handbook for 2026, breaking down every bag color, 
 
 The foundation of Korean waste management is the "Pay-As-You-Throw" system. Unlike many Western countries where waste collection is covered by general municipal taxes, in Korea, you pay for the waste you generate by purchasing specific government-issued bags.
 
+You might also enjoy our article about [Best weekend getaways for expats to beat city burnout](/blog/best-weekend-getaways-for-expats-to-beat-city-burnout-2026).
+
 The philosophy is simple: the more you throw away, the more you pay. This policy has been incredibly effective, raising the national recycling rate to nearly 60% as of 2026. However, for a new expat, this means you cannot simply toss a black garbage bag onto the street.
+
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
 
 <QuickFacts
   title="Standard Trash Bag (General Waste) Facts"

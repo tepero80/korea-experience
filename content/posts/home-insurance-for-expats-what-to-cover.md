@@ -10,7 +10,11 @@ Securing a place to live is often the most significant milestone for any expatri
 
 Many expats assume their landlord's insurance covers everything. This is a dangerous misconception. In Korea, specific liability laws mean that if a fire starts in your unit and spreads to a neighbor's, you could be held financially responsible for their damages, regardless of intent. With the density of Korean apartment complexes—often housing over 2,000 units within a 500-meter radius—the potential liability can be astronomical.
 
+Related reading: [Expat Health Insurance vs National Health in Korea](/blog/insurance-for-expats-health-vs-national-health).
+
 This guide details exactly what you need to cover, how to navigate the Korean insurance market, and the specific cost breakdowns you can expect in 2026.
+
+Related reading: [Best neighborhoods for expats in Seoul](/blog/best-neighborhoods-for-expats-in-seoul-2026).
 
 <KeyTakeaways 
   points={[
@@ -26,7 +30,11 @@ This guide details exactly what you need to cover, how to navigate the Korean in
 
 The Korean legal framework regarding property damage is unique. Under Article 758 of the Korean Civil Act, the possessor (tenant) of a property is primarily liable for damages caused by defects in the property unless they can prove they exercised due care.
 
+You might also enjoy our article about [Best weekend getaways for expats to beat city burnout](/blog/best-weekend-getaways-for-expats-to-beat-city-burnout-2026).
+
 Furthermore, the "Act on the Indemnification for Fire-Caused Loss" stipulates that if a fire breaks out in your residence due to negligence (which is interpreted broadly), you are liable for damages to your unit and surrounding units. In a high-rise apartment in Seoul, where the average unit price exceeds 1.2 billion KRW ($900,000 USD), the financial ruin resulting from a single incident can be immediate without proper coverage.
+
+Learn more in our comprehensive guide to [Changing visa status while in Korea guide for expats](/blog/changing-visa-status-while-in-korea).
 
 <StatCard
   title="Korean Housing Risks"

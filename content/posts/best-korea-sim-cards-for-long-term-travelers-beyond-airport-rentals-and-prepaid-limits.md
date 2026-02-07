@@ -40,7 +40,7 @@ Without verification, you cannot sign up for food delivery apps like Baedal Minj
 
 ## Understanding the "Alteul Phone" (MVNO) Revolution
 
-In Korea, budget-friendly plans are referred to as "Alteul Phones" (Frugal Phones). These MVNOs lease network space from the "Big Three" (SKT, KT, LG U+) and resell it at a fraction of the cost. The network quality is identical?�you get the same 99.9% LTE/5G coverage across the peninsula?�but you forfeit membership perks like movie theater discounts.
+In Korea, budget-friendly plans are referred to as "Alteul Phones" (Frugal Phones). These MVNOs lease network space from the "Big Three" (SKT, KT, LG U+) and resell it at a fraction of the cost. The network quality is identical—you get the same 99.9% LTE/5G coverage across the peninsula—but you forfeit membership perks like movie theater discounts.
 
 For a long-term traveler, these perks are negligible compared to the cash savings. Currently, there are over 20 active MVNOs in Korea.
 

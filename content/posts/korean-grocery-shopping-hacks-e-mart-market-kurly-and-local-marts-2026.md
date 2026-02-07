@@ -10,6 +10,8 @@ Navigating the grocery aisles in a foreign country can be a daunting task, but i
 
 The cost of living in Seoul has stabilized somewhat, but food prices remain significant, with the average monthly grocery bill for a single expat hovering between 450,000 and 600,000 KRW depending on dietary habits. Whether you are craving imported cheese, searching for the freshest seasonal strawberries, or simply need 24-hour delivery, Korea offers a solution. This guide breaks down the "Big Three" of Korean grocery shopping: The Hypermarkets, The Online Giants, and The Local Marts, providing you with actionable hacks to save time and money.
 
+Learn more in our comprehensive guide to [Furniture shopping IKEA vs Korean brands your ultimate guide](/blog/furniture-shopping-ikea-vs-korean-brands).
+
 <KeyTakeaways 
   points={[
     "Online Dawn Delivery services now cover 92 percent of the country with 7 AM guarantees",
@@ -24,7 +26,11 @@ The cost of living in Seoul has stabilized somewhat, but food prices remain sign
 
 When you first arrive in Korea, your safest bet for a "one-stop-shop" experience is one of the major hypermarkets. These are massive, multi-story complexes that sell everything from Samsung televisions to fresh Kimchi. As of 2026, E-Mart remains the market leader, followed closely by Homeplus and Lotte Mart. These stores are typically located near major subway stations, often connected directly via underground heavy-traffic passages.
 
+For more details, check out our guide on [Korean stock market investing as an expat](/blog/korean-stock-market-investing-as-an-expat).
+
 The shopping experience here is distinct. You will often encounter "tasting ladies" offering samples of dumplings, noodles, or bulgogi. Statistically, shoppers who engage with these sample stations spend approximately 20 minutes longer in the store but report higher satisfaction with their purchases.
+
+Learn more in our comprehensive guide to [Moving Companies in Korea](/blog/moving-companies-in-korea-international-vs-local).
 
 <StatCard
   title="Hypermarket Market Share 2026"
@@ -38,6 +44,8 @@ The shopping experience here is distinct. You will often encounter "tasting ladi
 
 ### The Mandatory Closing Day Rule
 One critical hack every resident must know is the government-mandated closing schedule. To protect traditional markets, major hypermarkets are required to close twice a month, typically on the second and fourth Sundays. In 2026, this regulation remains strictly enforced. Attempting to shop on these days will result in finding locked doors.
+
+Related reading: [The Ultimate 2026 Guide to Hailing a Korean Taxi](/blog/korean-taxi-guide-no-arc-2026).
 
 <InfoBox type="warning" title="Check the Calendar">
   Always check your map app (Naver Map or KakaoMap) before heading out on a Sunday. If a specific branch is closed, the app will usually display a "Closed" badge in red. The closure dates affect over 400 major locations nationwide.

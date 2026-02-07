@@ -10,6 +10,8 @@ Korean literature, once a niche interest for academics, has exploded into a glob
 
 Whether you are looking for the surrealist horror of Han Kang or the comforting embrace of "healing fiction," this guide curates the essential reading list for 2026. We also cover practical tips on where to find these English translations in Seoul and how to immerse yourself in the city's vibrant book culture.
 
+For more details, check out our guide on [K-Pop karaoke noraebang song requests in English guide](/blog/k-pop-karaoke-noraebang-song-requests-in-english).
+
 <KeyTakeaways 
   points={[
     "Han Kang's 2024 Nobel win sparked a massive surge in translation availability",
@@ -24,11 +26,17 @@ Whether you are looking for the surrealist horror of Han Kang or the comforting 
 
 It is impossible to discuss Korean literature in 2026 without acknowledging the seismic shift caused by Han Kang winning the Nobel Prize in Literature in 2024. Her victory was not just a personal triumph but a validation of Korean translators who have worked tirelessly for decades. For the traveler, her works provide a visceral, sometimes painful, look at the historical trauma and societal pressures underlying modern Korea.
 
+You might also enjoy our article about [Learning konglish common English words used differently i...](/blog/learning-konglish-common-english-words-used-differently-in-korea-2026).
+
 **Essential Read: *The Vegetarian* (New 2026 Anniversary Edition)**
 While originally published years ago, the 2026 anniversary edition includes new essays on eco-feminism in Seoul. The story of Yeong-hye, who decides to stop eating meat, spirals into a nightmare of control and desire. It is a metaphor for the stifling conformity often felt in Korean society.
 
+Learn more in our comprehensive guide to [Modern Korean art scene top contemporary galleries in han...](/blog/modern-korean-art-scene-top-contemporary-galleries-in-hannam-dong-2026).
+
 **Essential Read: *Human Acts***
 If you are visiting Gwangju, located 268 kilometers (166 miles) south of Seoul, this book is mandatory. It details the 1980 Gwangju Uprising. Reading this before visiting the 5.18 National Cemetery changes the experience from a sightseeing trip to a pilgrimage. The high-speed KTX train to Gwangju takes approximately 1 hour and 50 minutes from Yongsan Station.
+
+For more details, check out our guide on [Stand up comedy in Seoul English shows venues and tickets](/blog/stand-up-comedy-in-seoul-english-shows).
 
 <QuickFacts
   title="Han Kang Collection Facts"

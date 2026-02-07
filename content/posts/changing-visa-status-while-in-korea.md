@@ -8,6 +8,14 @@ author: Korea Experience Team
 
 Navigating the immigration system is often cited as the most daunting aspect of expat life in South Korea. Whether you are a student looking to become a job seeker, or a professional aiming for long-term residency, understanding how to change your visa status while remaining in the country is crucial. The days of casual "visa runs" are becoming less necessary for some, but strict adherence to procedure is more important than ever.
 
+Related reading: [Best neighborhoods for expats in Seoul](/blog/best-neighborhoods-for-expats-in-seoul-2026).
+
+You might also enjoy our article about [Best weekend getaways for expats to beat city burnout](/blog/best-weekend-getaways-for-expats-to-beat-city-burnout-2026).
+
+For more details, check out our guide on [D 10 Job Seeker Visa After Graduation in 2026 Guide](/blog/d-10-job-seeker-visa-after-graduation).
+
+For more details, check out our guide on [D 10 Job Seeker Visa Korea 2026 Complete Application Guide](/blog/d-10-job-seeker-visa-korea-complete-guide-2026).
+
 In 2026, the Korea Immigration Service continues to digitize and streamline processes, yet the complexity of the "Change of Status of Sojourn" remains high. This guide provides a comprehensive roadmap for legally and efficiently changing your visa status without leaving the peninsula.
 
 <KeyTakeaways 
