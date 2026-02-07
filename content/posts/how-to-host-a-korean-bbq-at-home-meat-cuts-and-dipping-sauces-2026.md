@@ -238,12 +238,3 @@ Hosting a Korean BBQ at home in 2026 is an accessible luxury. It breaks down the
     { question: "Where can I buy these specific cuts of meat?", answer: "Most standard supermarkets now carry pork belly. However, for specific cuts like thinly sliced brisket (Chadolbaegi) or flanken-cut short ribs, you usually need to visit an Asian grocery store (like H-Mart) or a specialized butcher. Ask your local butcher to slice the meat 'shabu-shabu style' or for 'Korean BBQ thickness'." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -209,12 +209,3 @@ By planning your reservations 60 days out and utilizing the local digital tools 
     { question: "Are children allowed?", answer: "Most fine dining establishments in Seoul have an age limit, typically restricting entry to children under 10 or 12 years old. However, hotel restaurants like La Yeon may have private rooms where children are permitted." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

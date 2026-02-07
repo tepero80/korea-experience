@@ -205,12 +205,3 @@ A traditional tea ceremony in Seoul is a bridge between the city's dynastic past
     { question: "What is the best time of day to visit?", answer: "Go at opening time (usually 11:00 AM) to avoid crowds and get the best window seats. The light in Hanok structures is also most beautiful in the late morning." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

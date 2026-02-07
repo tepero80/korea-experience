@@ -243,12 +243,3 @@ To wrap up this guide, here are three high-level tips to elevate your shopping e
 />
 
 Seoul offers a beauty shopping experience that is unmatched in speed, variety, and innovation. By focusing your time on the right neighborhoods like Seongsu and Myeongdong, utilizing the tax refund systems smartly, and targeting the 2026 trend categories, you will return home not just with products, but with a revamped lifestyle. Happy shopping!
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

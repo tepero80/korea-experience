@@ -252,12 +252,3 @@ For most English speakers, the DIY route is manageable because the major Examina
 Obtaining your Korean driver's license is more than just a bureaucratic checkbox; it is a gateway to autonomy in the Land of the Morning Calm. While the paperwork—specifically the Apostille—requires patience, the actual visit to the Examination Office is efficient and structured. 
 
 By following this guide, budgeting around 30,000 KRW for local fees, and preparing your documents in advance, you can join the millions of drivers navigating everything from the bustling streets of Seoul to the serene coastal highways of the East Sea. Safe driving!
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

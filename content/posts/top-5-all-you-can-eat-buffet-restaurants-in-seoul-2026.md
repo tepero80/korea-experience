@@ -241,12 +241,3 @@ Remember that dining in Seoul is fast-paced. The food is abundant, the service i
     { question: "How strict are the time limits?", answer: "Very strict. At Viking's Wharf and crowded hotel buffets, staff will gently remind you 15 minutes before your time is up. This is necessary to clean and reset for the next seating." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

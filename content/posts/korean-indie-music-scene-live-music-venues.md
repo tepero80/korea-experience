@@ -231,12 +231,3 @@ The scene is vibrant, but it has its quirks. Being prepared for the "Cons" will 
 />
 
 Exploring the Korean indie music scene offers a texture and depth to your travel experience that K-Pop tourism cannot match. It is gritty, emotional, and undeniably authentic. Whether you are banging your head at Rolling Hall or swaying to a saxophone at Club Evans, you are witnessing the raw creative spirit of modern Korea. Grab a ticket, stand in the queue, and let the music speak for itself.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

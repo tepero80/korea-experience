@@ -230,12 +230,3 @@ Many experienced travelers unbox their albums in their hotel room, keep the phot
     { question: "What is a 'K-Pop Orphanage'?", answer: "This is a slang term for spaces in cafes or public areas where fans leave their extra unsealed albums for others to take for free. This is done to reduce waste after bulk buying for photocards." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

@@ -250,12 +250,3 @@ Choose an **Officetel** if you value privacy, need a professional work environme
     { question: "Is it safe for solo female travelers?", answer: "Yes. Premium Goshiwons have CCTV in hallways and digital locks on every floor. Many even have 'Female Only' floors. Officetels are very safe, usually having a security guard (Gyeongbi-ajeossi) in the lobby and secure entry systems." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

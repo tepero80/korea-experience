@@ -208,12 +208,3 @@ These spaces prove that in one of the most technologically advanced nations on e
     { question: "Is it okay to read a book without buying it?", answer: "In large chains like Kyobo, yes. In small indie bookstores, it is rude to read a book cover-to-cover without buying it. Browsing for 10-15 minutes is acceptable, but if you plan to sit and read, you should purchase the book or a drink." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

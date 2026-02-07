@@ -256,21 +256,7 @@ Structure:
    - Use StepGuide for how-to sections
    - End with FAQAccordion (MANDATORY - 5 questions minimum)
 
-6. Sources Section (MANDATORY - DO NOT SKIP):
-   - This section is REQUIRED. Articles WITHOUT a Sources section will be rejected.
-   - After the FAQ, add a horizontal rule (---) then "## Sources"
-   - List 3-5 authoritative sources with markdown links
-   - Use official Korean government sites, KTO, KMA, KORAIL, or recognized industry sources
-   - Format: "- [Source Name](https://url) - Brief description of what data was referenced"
-   - Example:
-     ---
-     ## Sources
-     - [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official tourism data and festival schedules
-     - [Korea Meteorological Administration](https://www.kma.go.kr) - Weather and climate data
-   - Do NOT invent fake URLs. Use well-known, real Korean government or industry websites only.
-   - VERIFICATION: Before finishing, confirm your article ends with ## Sources followed by 3-5 links.
-
-7. Internal Links (MANDATORY - DO NOT SKIP):
+6. Internal Links (MANDATORY - DO NOT SKIP):
    - Include 3-5 internal links to related articles throughout the content
    - Use markdown format: [descriptive anchor text](/blog/slug-of-related-post)
    - Spread links naturally within the body text, not clustered together
@@ -563,70 +549,8 @@ function sanitizeMDX(content: string): { content: string; fixes: string[] } {
     }
   }
 
-  // 9. Sources 섹션 자동 추가 (없으면 카테고리별 공식 사이트 삽입)
-  if (!result.includes('## Sources')) {
-    // Extract category from frontmatter
-    const catMatch = result.match(/^category:\s*(.+)$/m);
-    const postCategory = catMatch ? catMatch[1].trim() : '';
-    
-    const CATEGORY_SOURCES: Record<string, string[]> = {
-      'Travel & Tourism': [
-        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official tourism information, travel guides, and festival schedules',
-        '- [Visit Seoul](https://english.visitseoul.net) - Seoul Metropolitan Government official tourism portal',
-        '- [Incheon International Airport](https://www.airport.kr/co_en/index.do) - Airport services and transportation information',
-        '- [KORAIL](https://www.letskorail.com) - Korea Railroad Corporation official site for train schedules and passes',
-        '- [Korea Meteorological Administration](https://www.kma.go.kr) - Official weather and climate data',
-      ],
-      'Food & Dining': [
-        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides',
-        '- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information',
-        '- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea',
-        '- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources',
-      ],
-      'Medical Tourism': [
-        '- [Korea Health Industry Development Institute (KHIDI)](https://www.khidi.or.kr) - Medical tourism statistics and policy',
-        '- [Visit Medical Korea](https://www.medicalkorea.or.kr/en) - Official government medical tourism portal',
-        '- [Ministry of Food and Drug Safety](https://www.mfds.go.kr) - Drug and medical device regulations',
-        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Medical tourism visitor information',
-      ],
-      'Living in Korea': [
-        '- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information',
-        '- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents',
-        '- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats',
-        '- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents',
-      ],
-      'K-Culture': [
-        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides',
-        '- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul',
-        '- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion',
-        '- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage',
-      ],
-      'Shopping & K-Beauty': [
-        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Shopping guides and tax refund information',
-        '- [Olive Young Global](https://global.oliveyoung.com) - Korea\'s largest health and beauty retailer',
-        '- [Visit Seoul](https://english.visitseoul.net) - Shopping districts and market guides',
-        '- [Incheon International Airport Duty Free](https://www.airport.kr/co_en/index.do) - Duty-free shopping information',
-      ],
-    };
-    
-    // Find best match or use default
-    let sources = CATEGORY_SOURCES[postCategory];
-    if (!sources) {
-      // Try partial match
-      const catKey = Object.keys(CATEGORY_SOURCES).find(k => 
-        postCategory.toLowerCase().includes(k.toLowerCase().split(' ')[0]) ||
-        k.toLowerCase().includes(postCategory.toLowerCase().split(' ')[0])
-      );
-      sources = catKey ? CATEGORY_SOURCES[catKey] : [
-        '- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official tourism and cultural information',
-        '- [Visit Seoul](https://english.visitseoul.net) - Seoul Metropolitan Government tourism portal',
-        '- [Korea.net](https://www.korea.net) - Official gateway to information about Korea',
-      ];
-    }
-    
-    result = result.trimEnd() + '\n\n---\n\n## Sources\n\n' + sources.join('\n') + '\n';
-    fixes.push(`Added Sources section (${sources.length} sources for ${postCategory || 'default'})`);
-  }
+  // Sources 섹션 자동 추가 로직 제거됨 (2026-02-07)
+  // AI 생성 sources는 품질이 낮고 반복적이어서 제거하기로 결정
 
   return { content: result, fixes };
 }

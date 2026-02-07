@@ -231,12 +231,3 @@ Whether you are standing under a yellow tarp in the rain in Hongdae or navigatin
     { question: "What time do street stalls close?", answer: "Most stalls operate until 10:00 PM or 11:00 PM. In nightlife districts like Hongdae or Gangnam, some may stay open until 1:00 AM or 2:00 AM to cater to the post-drinking crowd." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

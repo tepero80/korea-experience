@@ -226,12 +226,3 @@ By following this guide, setting up your accounts early, and understanding the v
     { question: "Is the Global Interpark site in English?", answer: "Yes, Global Interpark, Melon Ticket Global, and Yes24 Global all have English interfaces. However, the customer service inquiry forms may sometimes require translation tools." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

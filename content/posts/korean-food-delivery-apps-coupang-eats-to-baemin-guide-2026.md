@@ -249,12 +249,3 @@ This is the ultimate experience. You cannot just say "Han River Park." You must 
 Navigating the world of Korean food delivery in 2026 is an adventure in itself. It opens up a culinary map that extends far beyond the tourist restaurants of Myeongdong. Whether you are using the English-friendly Coupang Eats or hacking your way through Baemin with screenshots, the reward—steaming hot, delicious Korean food delivered to your door at 2 AM—is well worth the effort.
 
 Remember to prepare your payment method, know your exact address format, and always keep your phone sound on to catch that "arriving now" notification. Happy eating!
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -266,12 +266,3 @@ Living in Korea on a D-10 visa is a unique experience. You have freedom from cla
 The D-10 Job Seeker Visa is your lifeline to a future career in South Korea. While the paperwork may seem daunting, thousands of international students successfully navigate this path every year. The key is preparation—maintaining your GPA, keeping your TOPIK score active, and saving enough funds to cover the transition period.
 
 Remember, the D-10 is a marathon, not a sprint. Use the time wisely to network, refine your resume for the Korean market, and build the skills that will make you an undeniable asset to a Korean company. Good luck!
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

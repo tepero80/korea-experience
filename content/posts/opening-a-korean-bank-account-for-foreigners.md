@@ -233,12 +233,3 @@ However, if you plan to receive a deposit (like a security deposit return) *afte
     { question: "How much money do I need to deposit to open the account?", answer: "There is no minimum balance requirement to open a checking account. You can open it with 0 KRW, though depositing 10,000 KRW to test the card immediately is recommended." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

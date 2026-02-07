@@ -1,0 +1,1767 @@
+{
+  "meta": {
+    "version": "1.0",
+    "totalSources": 328,
+    "categories": 6,
+    "lastUpdated": "2026-02-07",
+    "description": "Curated authoritative English-language sources for Korea Experience blog"
+  },
+  "categories": {
+    "Medical Tourism": {
+      "subcategories": {
+        "Government & Official Portals": [
+          {
+            "name": "Medical Korea Official Portal",
+            "url": "www.medicalkorea.or.kr",
+            "desc": "Official government medical tourism portal"
+          },
+          {
+            "name": "KHIDI",
+            "url": "www.khidi.or.kr",
+            "desc": "Korea Health Industry Development Institute"
+          },
+          {
+            "name": "VisitKorea Medical & Wellness",
+            "url": "english.visitkorea.or.kr",
+            "desc": "KTO medical wellness section"
+          },
+          {
+            "name": "Gangnam Medical Tour Center",
+            "url": "medicaltour.gangnam.go.kr",
+            "desc": "Gangnam district medical tourism center"
+          },
+          {
+            "name": "Busan Medical Tourism",
+            "url": "english.busan.go.kr",
+            "desc": "Busan city medical tourism"
+          },
+          {
+            "name": "Jeju Medical Tourism",
+            "url": "www.visitjeju.net",
+            "desc": "Jeju medical wellness"
+          },
+          {
+            "name": "KOIHA",
+            "url": "www.koiha.or.kr",
+            "desc": "Korea Institute for Healthcare Accreditation"
+          }
+        ],
+        "Major University Hospitals": [
+          {
+            "name": "Asan Medical Center",
+            "url": "eng.amc.seoul.kr",
+            "desc": "Top-ranked hospital, complex disease treatment"
+          },
+          {
+            "name": "Seoul National University Hospital",
+            "url": "www.snuh.org",
+            "desc": "National central hospital"
+          },
+          {
+            "name": "Samsung Medical Center",
+            "url": "www.samsunghospital.com",
+            "desc": "Patient-centered precision medicine"
+          },
+          {
+            "name": "Severance Hospital (Yonsei)",
+            "url": "yuhs.severance.healthcare",
+            "desc": "Pioneer in international healthcare"
+          },
+          {
+            "name": "SNU Bundang Hospital",
+            "url": "www.snubh.org",
+            "desc": "Digital healthcare innovation"
+          },
+          {
+            "name": "Korea University Anam Hospital",
+            "url": "anam.kumc.or.kr",
+            "desc": "Precision medicine, robotic surgery"
+          },
+          {
+            "name": "Kyung Hee University Medical Center",
+            "url": "www.khmc.or.kr",
+            "desc": "Integrative East-West medicine"
+          },
+          {
+            "name": "Konkuk University Medical Center",
+            "url": "www.kuh.ac.kr",
+            "desc": "Cardiovascular and senior care"
+          },
+          {
+            "name": "Ewha Womans University Medical Center",
+            "url": "www.eumc.ac.kr",
+            "desc": "Women's health specialty"
+          },
+          {
+            "name": "Ajou University Hospital",
+            "url": "global.ajoumc.or.kr",
+            "desc": "Trauma center, emergency medicine"
+          },
+          {
+            "name": "Pusan National University Hospital",
+            "url": "www.pnuh.or.kr",
+            "desc": "Southern region major hospital"
+          },
+          {
+            "name": "Chonnam National University Hospital",
+            "url": "www.cnuh.com",
+            "desc": "Jeonnam regional hospital"
+          },
+          {
+            "name": "Inha University Hospital",
+            "url": "www.inha.com",
+            "desc": "Incheon university hospital"
+          },
+          {
+            "name": "Gangnam Severance Hospital",
+            "url": "gs.severance.healthcare",
+            "desc": "Gangnam branch of Severance"
+          },
+          {
+            "name": "Gachon University Gil Medical Center",
+            "url": "www.gilhospital.com",
+            "desc": "Incheon major hospital"
+          }
+        ],
+        "Plastic Surgery Clinics": [
+          {
+            "name": "JK Plastic Surgery",
+            "url": "www.jkplastic.com",
+            "desc": "Government-certified plastic surgery"
+          },
+          {
+            "name": "Banobagi Plastic Surgery",
+            "url": "eng.banobagi.com",
+            "desc": "Global reputation, aftercare system"
+          },
+          {
+            "name": "ID Hospital",
+            "url": "eng.idhospital.com",
+            "desc": "Facial contouring specialist"
+          },
+          {
+            "name": "Wonjin Plastic Surgery",
+            "url": "wonjinbeauty.com",
+            "desc": "Comprehensive plastic surgery"
+          },
+          {
+            "name": "View Plastic Surgery",
+            "url": "www.viewclinic.com",
+            "desc": "Facial surgery specialist"
+          },
+          {
+            "name": "Grand Plastic Surgery",
+            "url": "eng.grandsurgery.com",
+            "desc": "Plastic surgery clinic"
+          },
+          {
+            "name": "BK Plastic Surgery",
+            "url": "english.bkhospital.com",
+            "desc": "Plastic surgery hospital"
+          },
+          {
+            "name": "Banobagi Petit Clinic",
+            "url": "www.petitbanobagi.com",
+            "desc": "Non-surgical aesthetics"
+          },
+          {
+            "name": "Meclinic Seoul",
+            "url": "www.meclinic.net",
+            "desc": "Medical aesthetics clinic"
+          }
+        ],
+        "Dermatology Clinics": [
+          {
+            "name": "Oracle Dermatology",
+            "url": "www.oraclemedicalgroup.com",
+            "desc": "Large dermatology group"
+          },
+          {
+            "name": "Arumdaun Nara Dermatology",
+            "url": "www.anclinic.com",
+            "desc": "Dermatology clinic chain"
+          },
+          {
+            "name": "Hus'hu Dermatology",
+            "url": "hushuskin.com",
+            "desc": "Skin clinic"
+          },
+          {
+            "name": "Renewme Skin Clinic",
+            "url": "www.rnmeskin.com",
+            "desc": "Skin treatment clinic"
+          },
+          {
+            "name": "Leaders Dermatology",
+            "url": "www.beautyleaders.co.kr",
+            "desc": "Beauty dermatology"
+          },
+          {
+            "name": "CNP Skin Clinic",
+            "url": "www.cnpskin.com",
+            "desc": "Dermatology clinic"
+          },
+          {
+            "name": "Toxnfill",
+            "url": "www.toxnfill.com",
+            "desc": "Botox and filler specialist"
+          }
+        ],
+        "Eye & Dental Clinics": [
+          {
+            "name": "B&VIIT Eye Center",
+            "url": "english.bnviit.com",
+            "desc": "AI vision correction"
+          },
+          {
+            "name": "Bright Eye Clinic",
+            "url": "en.brighteyesclinic.com",
+            "desc": "LASIK/LASEK clinic"
+          },
+          {
+            "name": "HanGil Eye Hospital",
+            "url": "www.hangileye.co.kr",
+            "desc": "MOHW designated eye hospital"
+          },
+          {
+            "name": "SNU Dental Hospital",
+            "url": "www.snudh.org",
+            "desc": "National dental hospital"
+          }
+        ],
+        "Specialty & Fertility": [
+          {
+            "name": "CHA Fertility Center",
+            "url": "seoul.chamc.co.kr",
+            "desc": "World-class fertility treatment"
+          },
+          {
+            "name": "Maria Fertility Hospital",
+            "url": "www.mariababy.com",
+            "desc": "Fertility specialist"
+          },
+          {
+            "name": "MizMedi Women's Hospital",
+            "url": "www.mizmedi.com",
+            "desc": "Women's health hospital"
+          },
+          {
+            "name": "Wooridul Spine Hospital",
+            "url": "wooridul.com",
+            "desc": "Spine treatment specialist"
+          },
+          {
+            "name": "Jaseng Hospital of Korean Medicine",
+            "url": "www.jaseng.net",
+            "desc": "Non-surgical spine treatment"
+          },
+          {
+            "name": "Himchan Hospital",
+            "url": "www.himchanhospital.com",
+            "desc": "Joint specialist"
+          },
+          {
+            "name": "Nanoori Hospital",
+            "url": "en.nanoori.co.kr",
+            "desc": "Spine specialist"
+          }
+        ],
+        "Wellness & Traditional Medicine": [
+          {
+            "name": "Taekwondowon Wellness",
+            "url": "www.tpf.or.kr",
+            "desc": "Taekwondo and wellness"
+          },
+          {
+            "name": "Healience Seonmaeul",
+            "url": "www.healience.co.kr",
+            "desc": "Digital detox wellness facility"
+          },
+          {
+            "name": "Seoul K-Medi Center",
+            "url": "kmedi.ddm.go.kr",
+            "desc": "Traditional medicine experience"
+          },
+          {
+            "name": "Donguibogam Village",
+            "url": "donguibogam-village.sancheong.go.kr",
+            "desc": "Traditional medicine village"
+          }
+        ],
+        "Medical Facilitators & Information": [
+          {
+            "name": "Seoul Guide Medical",
+            "url": "seoulguidemedical.com",
+            "desc": "Medical tourism facilitator"
+          },
+          {
+            "name": "Himedi",
+            "url": "himedi.com",
+            "desc": "Medical platform"
+          },
+          {
+            "name": "MFDS",
+            "url": "www.mfds.go.kr",
+            "desc": "Ministry of Food and Drug Safety"
+          },
+          {
+            "name": "HIRA",
+            "url": "www.hira.or.kr",
+            "desc": "Health Insurance Review & Assessment"
+          },
+          {
+            "name": "NHIS",
+            "url": "www.nhis.or.kr",
+            "desc": "National Health Insurance Service"
+          },
+          {
+            "name": "Korean Medical Association",
+            "url": "www.kma.org",
+            "desc": "National medical association"
+          },
+          {
+            "name": "Medical Korea Info Center",
+            "url": "www.medicalkorea.or.kr",
+            "desc": "Support center for medical tourists"
+          },
+          {
+            "name": "JCI Accredited (Korea)",
+            "url": "www.jointcommissioninternational.org",
+            "desc": "International hospital accreditation"
+          },
+          {
+            "name": "Newsweek Best Hospitals Korea",
+            "url": "www.newsweek.com",
+            "desc": "Hospital ranking reference"
+          },
+          {
+            "name": "KIHASA",
+            "url": "www.kihasa.re.kr",
+            "desc": "Korea Institute for Health and Social Affairs"
+          }
+        ]
+      }
+    },
+    "Travel & Tourism": {
+      "subcategories": {
+        "Government & Major Portals": [
+          {
+            "name": "VisitKorea",
+            "url": "english.visitkorea.or.kr",
+            "desc": "Official Korea tourism portal"
+          },
+          {
+            "name": "Korea Tourism Organization",
+            "url": "knto.or.kr",
+            "desc": "KTO corporate site"
+          },
+          {
+            "name": "MCST",
+            "url": "www.mcst.go.kr",
+            "desc": "Ministry of Culture, Sports and Tourism"
+          },
+          {
+            "name": "Korea Heritage Service",
+            "url": "english.khs.go.kr",
+            "desc": "Cultural heritage administration"
+          },
+          {
+            "name": "1330 Korea Travel Helpline",
+            "url": "english.visitkorea.or.kr",
+            "desc": "24/7 travel helpline"
+          },
+          {
+            "name": "Imagine Your Korea (YouTube)",
+            "url": "www.youtube.com",
+            "desc": "Official tourism YouTube"
+          },
+          {
+            "name": "K-ETA",
+            "url": "www.k-eta.go.kr",
+            "desc": "Electronic Travel Authorization"
+          }
+        ],
+        "City & Regional Tourism": [
+          {
+            "name": "Visit Seoul",
+            "url": "english.visitseoul.net",
+            "desc": "Seoul tourism portal"
+          },
+          {
+            "name": "Visit Busan",
+            "url": "www.visitbusan.net",
+            "desc": "Busan tourism portal"
+          },
+          {
+            "name": "Visit Jeju",
+            "url": "www.visitjeju.net",
+            "desc": "Jeju tourism portal"
+          },
+          {
+            "name": "Visit Incheon",
+            "url": "itour.incheon.go.kr",
+            "desc": "Incheon tourism portal"
+          },
+          {
+            "name": "Gyeongju Tourism",
+            "url": "www.gyeongju.go.kr",
+            "desc": "Ancient capital tourism"
+          },
+          {
+            "name": "Visit Gangwon",
+            "url": "www.gangwon.to",
+            "desc": "Gangwon province tourism"
+          },
+          {
+            "name": "Visit Gyeonggi",
+            "url": "www.ggtour.or.kr",
+            "desc": "Gyeonggi province tourism"
+          },
+          {
+            "name": "Visit Daegu",
+            "url": "tour.daegu.go.kr",
+            "desc": "Daegu city tourism"
+          },
+          {
+            "name": "Visit Gwangju",
+            "url": "tour.gwangju.go.kr",
+            "desc": "Gwangju city tourism"
+          },
+          {
+            "name": "Visit Daejeon",
+            "url": "www.daejeon.go.kr",
+            "desc": "Daejeon city tourism"
+          },
+          {
+            "name": "Visit Ulsan",
+            "url": "tour.ulsan.go.kr",
+            "desc": "Ulsan city tourism"
+          },
+          {
+            "name": "Visit Suwon",
+            "url": "www.suwon.go.kr",
+            "desc": "Suwon city tourism"
+          },
+          {
+            "name": "Visit Jeonju",
+            "url": "tour.jeonju.go.kr",
+            "desc": "Jeonju city tourism"
+          },
+          {
+            "name": "Visit Gyeongsangbuk-do",
+            "url": "tour.gb.go.kr",
+            "desc": "Gyeongsangbuk province"
+          },
+          {
+            "name": "Visit Jeollanam-do",
+            "url": "www.namdokorea.com",
+            "desc": "Jeollanam province"
+          },
+          {
+            "name": "Visit Chungnam",
+            "url": "tour.chungnam.go.kr",
+            "desc": "Chungnam province"
+          },
+          {
+            "name": "Andong City Tourism",
+            "url": "www.andong.go.kr",
+            "desc": "Andong traditional culture"
+          },
+          {
+            "name": "Pyeongchang Tour",
+            "url": "tour.pc.go.kr",
+            "desc": "Olympic legacy tourism"
+          }
+        ],
+        "Transportation": [
+          {
+            "name": "KORAIL (KTX)",
+            "url": "www.letskorail.com",
+            "desc": "National railway system"
+          },
+          {
+            "name": "SRT",
+            "url": "etk.srail.kr",
+            "desc": "High-speed rail from Suseo"
+          },
+          {
+            "name": "Incheon International Airport",
+            "url": "www.airport.kr",
+            "desc": "Main international airport"
+          },
+          {
+            "name": "Gimpo International Airport",
+            "url": "www.airport.co.kr",
+            "desc": "Domestic & short-haul airport"
+          },
+          {
+            "name": "T-money",
+            "url": "www.t-money.co.kr",
+            "desc": "Transit card system"
+          },
+          {
+            "name": "Expressway Corporation",
+            "url": "www.ex.co.kr",
+            "desc": "Highway information"
+          },
+          {
+            "name": "Seoul Metro",
+            "url": "www.seoulmetro.co.kr",
+            "desc": "Seoul subway system"
+          },
+          {
+            "name": "Busan Port Authority",
+            "url": "www.busanpa.com",
+            "desc": "Cruise and ferry port"
+          },
+          {
+            "name": "Korean Air",
+            "url": "www.koreanair.com",
+            "desc": "Flag carrier airline"
+          },
+          {
+            "name": "Asiana Airlines",
+            "url": "flyasiana.com",
+            "desc": "Major airline"
+          },
+          {
+            "name": "Air Busan",
+            "url": "www.airbusan.com",
+            "desc": "Busan-based LCC"
+          },
+          {
+            "name": "T'way Air",
+            "url": "www.twayair.com",
+            "desc": "Budget airline"
+          },
+          {
+            "name": "Jin Air",
+            "url": "www.jinair.com",
+            "desc": "Korean Air subsidiary LCC"
+          }
+        ],
+        "Accommodation": [
+          {
+            "name": "TempleStay Official",
+            "url": "eng.templestay.com",
+            "desc": "Temple stay program"
+          },
+          {
+            "name": "Lotte Hotels & Resorts",
+            "url": "www.lottehotel.com",
+            "desc": "Major hotel chain"
+          },
+          {
+            "name": "Shilla Hotels",
+            "url": "www.shilla.net",
+            "desc": "Premium hotel brand"
+          },
+          {
+            "name": "Paradise City",
+            "url": "www.p-city.com",
+            "desc": "Art-tainment resort near airport"
+          },
+          {
+            "name": "High1 Resort",
+            "url": "www.high1.com",
+            "desc": "Mountain resort with casino"
+          },
+          {
+            "name": "Yongpyong Resort",
+            "url": "www.yongpyong.co.kr",
+            "desc": "Ski resort"
+          },
+          {
+            "name": "LEGOLAND Korea",
+            "url": "www.legoland.kr",
+            "desc": "Family theme park resort"
+          },
+          {
+            "name": "Benikea",
+            "url": "www.benikea.com",
+            "desc": "KTO certified hotel brand"
+          },
+          {
+            "name": "Josun Hotels & Resorts",
+            "url": "www.josunhotel.com",
+            "desc": "Heritage hotel brand"
+          },
+          {
+            "name": "Walkerhill Hotels",
+            "url": "www.walkerhill.com",
+            "desc": "River-view luxury hotel"
+          },
+          {
+            "name": "Four Seasons Seoul",
+            "url": "www.fourseasons.com",
+            "desc": "International luxury hotel"
+          }
+        ],
+        "Landmarks & Attractions": [
+          {
+            "name": "Lotte World Adventure",
+            "url": "adventure.lotteworld.com",
+            "desc": "Indoor/outdoor theme park"
+          },
+          {
+            "name": "Everland Resort",
+            "url": "www.everland.com",
+            "desc": "Korea's largest theme park"
+          },
+          {
+            "name": "N Seoul Tower",
+            "url": "www.nseoultower.co.kr",
+            "desc": "Iconic landmark tower"
+          },
+          {
+            "name": "COEX Aquarium",
+            "url": "www.coexaqua.com",
+            "desc": "Urban aquarium"
+          },
+          {
+            "name": "National Museum of Korea",
+            "url": "www.museum.go.kr",
+            "desc": "National museum"
+          },
+          {
+            "name": "War Memorial of Korea",
+            "url": "www.warmemo.or.kr",
+            "desc": "Military history museum"
+          },
+          {
+            "name": "Garden of Morning Calm",
+            "url": "www.morningcalm.co.kr",
+            "desc": "Botanical garden"
+          },
+          {
+            "name": "Nami Island",
+            "url": "namisum.com",
+            "desc": "Scenic island destination"
+          }
+        ],
+        "Travel Tools & Booking": [
+          {
+            "name": "Discover Seoul Pass",
+            "url": "www.discoverseoulpass.com",
+            "desc": "Tourist attraction pass"
+          },
+          {
+            "name": "WOWPASS",
+            "url": "www.wowpass.io",
+            "desc": "All-in-one tourist card"
+          },
+          {
+            "name": "Trazy",
+            "url": "www.trazy.com",
+            "desc": "Korea travel booking"
+          },
+          {
+            "name": "Klook Korea",
+            "url": "www.klook.com",
+            "desc": "Activity booking platform"
+          },
+          {
+            "name": "Lonely Planet Korea",
+            "url": "www.lonelyplanet.com",
+            "desc": "Travel guide"
+          },
+          {
+            "name": "TripAdvisor South Korea",
+            "url": "www.tripadvisor.com",
+            "desc": "Review platform"
+          },
+          {
+            "name": "TimeOut Seoul",
+            "url": "www.timeout.com",
+            "desc": "City guide"
+          }
+        ]
+      }
+    },
+    "K-Culture": {
+      "subcategories": {
+        "Major Cultural Institutions": [
+          {
+            "name": "Korea.net",
+            "url": "www.korea.net",
+            "desc": "Official Korea information hub"
+          },
+          {
+            "name": "Korea Foundation",
+            "url": "www.kf.or.kr",
+            "desc": "Public diplomacy foundation"
+          },
+          {
+            "name": "Academy of Korean Studies",
+            "url": "www.aks.ac.kr",
+            "desc": "Korean studies research"
+          },
+          {
+            "name": "National Museum of Korea",
+            "url": "www.museum.go.kr",
+            "desc": "National museum"
+          },
+          {
+            "name": "Korea Heritage Service",
+            "url": "www.khs.go.kr",
+            "desc": "Heritage administration"
+          },
+          {
+            "name": "King Sejong Institute",
+            "url": "www.ksif.or.kr",
+            "desc": "Korean language education"
+          },
+          {
+            "name": "National Library of Korea",
+            "url": "www.nl.go.kr",
+            "desc": "National library"
+          },
+          {
+            "name": "Arts Council Korea",
+            "url": "www.arko.or.kr",
+            "desc": "Arts support council"
+          },
+          {
+            "name": "KOCCA",
+            "url": "www.kocca.kr",
+            "desc": "Korea Creative Content Agency"
+          },
+          {
+            "name": "K-Heritage TV",
+            "url": "www.k-heritage.tv",
+            "desc": "Heritage video platform"
+          }
+        ],
+        "Entertainment & K-Pop": [
+          {
+            "name": "HYBE Official",
+            "url": "www.hybecorp.com",
+            "desc": "BTS, NewJeans label"
+          },
+          {
+            "name": "SM Entertainment",
+            "url": "www.smentertainment.com",
+            "desc": "K-Pop pioneer label"
+          },
+          {
+            "name": "JYP Entertainment",
+            "url": "www.jype.com",
+            "desc": "TWICE, Stray Kids label"
+          },
+          {
+            "name": "CJ ENM",
+            "url": "www.cjenm.com",
+            "desc": "Global entertainment conglomerate"
+          },
+          {
+            "name": "Studio Dragon",
+            "url": "www.studiodragon.net",
+            "desc": "K-Drama production"
+          },
+          {
+            "name": "Kakao Entertainment",
+            "url": "www.kakaoent.com",
+            "desc": "Entertainment platform"
+          },
+          {
+            "name": "Mnet Plus",
+            "url": "www.mnetplus.world",
+            "desc": "K-Pop fan platform"
+          },
+          {
+            "name": "Weverse",
+            "url": "weverse.io",
+            "desc": "Fan community platform"
+          },
+          {
+            "name": "Circle Chart",
+            "url": "circlechart.kr",
+            "desc": "Official music chart"
+          },
+          {
+            "name": "Hanteo Global",
+            "url": "www.hanteochart.com",
+            "desc": "Album sales chart"
+          },
+          {
+            "name": "Soompi",
+            "url": "www.soompi.com",
+            "desc": "K-Pop/K-Drama news"
+          },
+          {
+            "name": "Allkpop",
+            "url": "www.allkpop.com",
+            "desc": "K-Pop news portal"
+          },
+          {
+            "name": "Koreaboo",
+            "url": "www.koreaboo.com",
+            "desc": "K-Pop news and content"
+          }
+        ],
+        "Museums & Arts": [
+          {
+            "name": "National Folk Museum",
+            "url": "www.nfm.go.kr",
+            "desc": "Traditional life museum"
+          },
+          {
+            "name": "MMCA",
+            "url": "www.mmca.go.kr",
+            "desc": "Modern and Contemporary Art"
+          },
+          {
+            "name": "National Palace Museum",
+            "url": "www.gogung.go.kr",
+            "desc": "Royal treasures museum"
+          },
+          {
+            "name": "SeMA (Seoul Museum of Art)",
+            "url": "sema.seoul.go.kr",
+            "desc": "Seoul city art museum"
+          },
+          {
+            "name": "Leeum Samsung Museum",
+            "url": "www.leeum.org",
+            "desc": "Samsung art museum"
+          },
+          {
+            "name": "Seoul Arts Center",
+            "url": "www.sac.or.kr",
+            "desc": "Performing arts complex"
+          },
+          {
+            "name": "Sejong Center",
+            "url": "www.sejongpac.or.kr",
+            "desc": "Major performance venue"
+          },
+          {
+            "name": "National Theater of Korea",
+            "url": "www.ntok.go.kr",
+            "desc": "National theater"
+          },
+          {
+            "name": "National Gugak Center",
+            "url": "www.gugak.go.kr",
+            "desc": "Traditional music center"
+          },
+          {
+            "name": "Lotte Concert Hall",
+            "url": "www.lotteconcerthall.com",
+            "desc": "Classical music venue"
+          },
+          {
+            "name": "DDP (Dongdaemun Design Plaza)",
+            "url": "ddp.or.kr",
+            "desc": "Design and culture hub"
+          }
+        ],
+        "UNESCO & Heritage Sites": [
+          {
+            "name": "UNESCO World Heritage Korea",
+            "url": "heritage.unesco.or.kr",
+            "desc": "UNESCO sites in Korea"
+          },
+          {
+            "name": "Hwaseong Fortress",
+            "url": "www.swcf.or.kr",
+            "desc": "Suwon world heritage"
+          },
+          {
+            "name": "Hahoe Folk Village",
+            "url": "www.hahoe.or.kr",
+            "desc": "UNESCO folk village"
+          },
+          {
+            "name": "Bulguksa Temple",
+            "url": "www.bulguksa.or.kr",
+            "desc": "UNESCO Buddhist temple"
+          },
+          {
+            "name": "Haeinsa Temple",
+            "url": "www.haeinsa.or.kr",
+            "desc": "Tripitaka Koreana temple"
+          }
+        ],
+        "Language & Education": [
+          {
+            "name": "Study in Korea",
+            "url": "www.studyinkorea.go.kr",
+            "desc": "Official study abroad portal"
+          },
+          {
+            "name": "TOPIK Official",
+            "url": "www.topik.go.kr",
+            "desc": "Korean proficiency test"
+          },
+          {
+            "name": "Talk To Me In Korean",
+            "url": "talktomeinkorean.com",
+            "desc": "Popular Korean learning platform"
+          },
+          {
+            "name": "KoreanClass101",
+            "url": "www.koreanclass101.com",
+            "desc": "Korean learning resource"
+          },
+          {
+            "name": "Duolingo Korean",
+            "url": "www.duolingo.com",
+            "desc": "Free Korean learning"
+          }
+        ],
+        "Film & Literature": [
+          {
+            "name": "KOFIC",
+            "url": "www.koreanfilm.or.kr",
+            "desc": "Korean Film Council"
+          },
+          {
+            "name": "BIFF",
+            "url": "www.biff.kr",
+            "desc": "Busan International Film Festival"
+          },
+          {
+            "name": "BIFAN",
+            "url": "www.bifan.kr",
+            "desc": "Bucheon Fantastic Film Festival"
+          },
+          {
+            "name": "HanCinema",
+            "url": "www.hancinema.net",
+            "desc": "Korean movie database"
+          },
+          {
+            "name": "LTI Korea",
+            "url": "www.ltikorea.or.kr",
+            "desc": "Literature Translation Institute"
+          },
+          {
+            "name": "Naver Webtoon",
+            "url": "www.webtoons.com",
+            "desc": "Webtoon platform"
+          },
+          {
+            "name": "Viki",
+            "url": "www.viki.com",
+            "desc": "K-Drama streaming"
+          },
+          {
+            "name": "Kocowa",
+            "url": "www.kocowa.com",
+            "desc": "K-Content streaming"
+          }
+        ],
+        "Cultural Centers Abroad": [
+          {
+            "name": "Korean Cultural Center NY",
+            "url": "www.koreanculture.org",
+            "desc": "NYC Korean culture center"
+          },
+          {
+            "name": "Korean Cultural Center London",
+            "url": "london.korean-culture.org",
+            "desc": "London Korean culture center"
+          },
+          {
+            "name": "Korea Society",
+            "url": "www.koreasociety.org",
+            "desc": "Korea-US cultural exchange"
+          },
+          {
+            "name": "Kimchikan Museum",
+            "url": "www.kimchikan.com",
+            "desc": "Kimchi museum"
+          }
+        ]
+      }
+    },
+    "Living in Korea": {
+      "subcategories": {
+        "Immigration & Government": [
+          {
+            "name": "Hi Korea",
+            "url": "www.hikorea.go.kr",
+            "desc": "Main expat government portal"
+          },
+          {
+            "name": "Korea Immigration Service",
+            "url": "www.immigration.go.kr",
+            "desc": "Immigration agency"
+          },
+          {
+            "name": "Gov.kr (Foreigners)",
+            "url": "www.gov.kr",
+            "desc": "Central government services"
+          },
+          {
+            "name": "NHIS",
+            "url": "www.nhis.or.kr",
+            "desc": "National Health Insurance"
+          },
+          {
+            "name": "National Pension Service",
+            "url": "www.nps.or.kr",
+            "desc": "Pension service"
+          },
+          {
+            "name": "Hometax (NTS)",
+            "url": "www.nts.go.kr",
+            "desc": "Tax service portal"
+          },
+          {
+            "name": "Korea Customs Service",
+            "url": "www.customs.go.kr",
+            "desc": "Customs information"
+          },
+          {
+            "name": "Consumer Agency Korea",
+            "url": "www.kca.go.kr",
+            "desc": "Consumer protection"
+          },
+          {
+            "name": "Korean Police (Eng)",
+            "url": "www.police.go.kr",
+            "desc": "Police services"
+          }
+        ],
+        "Expat Support Centers": [
+          {
+            "name": "Seoul Global Center",
+            "url": "global.seoul.go.kr",
+            "desc": "Seoul expat support"
+          },
+          {
+            "name": "Danuri",
+            "url": "www.liveinkorea.kr",
+            "desc": "Multicultural family support"
+          },
+          {
+            "name": "Busan Global City Foundation",
+            "url": "www.bfic.kr",
+            "desc": "Busan expat support"
+          },
+          {
+            "name": "Incheon Global Center",
+            "url": "www.incheon.go.kr",
+            "desc": "Incheon expat support"
+          },
+          {
+            "name": "Support Center for Foreign Workers",
+            "url": "www.migrantok.org",
+            "desc": "Worker rights support"
+          }
+        ],
+        "Banking & Finance": [
+          {
+            "name": "Hana Bank",
+            "url": "www.kebhana.com",
+            "desc": "Foreign-friendly bank"
+          },
+          {
+            "name": "Shinhan Bank",
+            "url": "www.shinhan.com",
+            "desc": "SOL Global app"
+          },
+          {
+            "name": "KB Kookmin Bank",
+            "url": "omoney.kbstar.com",
+            "desc": "KB Welcome account"
+          },
+          {
+            "name": "Woori Bank",
+            "url": "spib.wooribank.com",
+            "desc": "Foreign-friendly banking"
+          },
+          {
+            "name": "IBK Industrial Bank",
+            "url": "www.ibk.co.kr",
+            "desc": "Worker remittance bank"
+          },
+          {
+            "name": "Wise",
+            "url": "wise.com",
+            "desc": "International money transfer"
+          },
+          {
+            "name": "SentBe",
+            "url": "www.sentbe.com",
+            "desc": "Expat remittance service"
+          },
+          {
+            "name": "WireBarley",
+            "url": "www.wirebarley.com",
+            "desc": "Remittance service"
+          }
+        ],
+        "Communication & Utilities": [
+          {
+            "name": "KT Global",
+            "url": "roaming.kt.com",
+            "desc": "Telecom provider"
+          },
+          {
+            "name": "SK Telecom",
+            "url": "www.sktelecom.com",
+            "desc": "Major telecom"
+          },
+          {
+            "name": "K-water",
+            "url": "www.kwater.or.kr",
+            "desc": "Water services"
+          },
+          {
+            "name": "KEPCO",
+            "url": "www.kepco.co.kr",
+            "desc": "Electricity provider"
+          },
+          {
+            "name": "Korea Post",
+            "url": "www.epost.go.kr",
+            "desc": "Postal and shipping"
+          },
+          {
+            "name": "KakaoTalk",
+            "url": "www.kakaocorp.com",
+            "desc": "Essential messaging app"
+          }
+        ],
+        "Employment": [
+          {
+            "name": "EPIK",
+            "url": "www.epik.go.kr",
+            "desc": "English teaching program"
+          },
+          {
+            "name": "CONTACT KOREA (KOTRA)",
+            "url": "www.kotra.or.kr",
+            "desc": "KOTRA job matching"
+          }
+        ],
+        "International Schools": [
+          {
+            "name": "Seoul Foreign School",
+            "url": "www.seoulforeign.org",
+            "desc": "Oldest international school"
+          },
+          {
+            "name": "Dwight School Seoul",
+            "url": "www.dwight.or.kr",
+            "desc": "IB curriculum school"
+          },
+          {
+            "name": "Dulwich College Seoul",
+            "url": "seoul.dulwich.org",
+            "desc": "British curriculum"
+          },
+          {
+            "name": "Korea International School",
+            "url": "www.kis.or.kr",
+            "desc": "Major international school"
+          },
+          {
+            "name": "Chadwick International",
+            "url": "www.chadwickinternational.org",
+            "desc": "Songdo campus"
+          },
+          {
+            "name": "NLCS Jeju",
+            "url": "www.nlcsjeju.kr",
+            "desc": "British school in Jeju"
+          },
+          {
+            "name": "Branksome Hall Asia",
+            "url": "www.branksome.asia",
+            "desc": "IB school in Jeju"
+          }
+        ],
+        "Universities": [
+          {
+            "name": "Seoul National University",
+            "url": "en.snu.ac.kr",
+            "desc": "Top national university"
+          },
+          {
+            "name": "KAIST",
+            "url": "www.kaist.ac.kr",
+            "desc": "Science and technology institute"
+          },
+          {
+            "name": "Yonsei University",
+            "url": "www.yonsei.ac.kr",
+            "desc": "Top private university"
+          },
+          {
+            "name": "Korea University",
+            "url": "www.korea.ac.kr",
+            "desc": "SKY university"
+          },
+          {
+            "name": "Sungkyunkwan University",
+            "url": "www.skku.edu",
+            "desc": "Historic university"
+          }
+        ],
+        "Housing": [
+          {
+            "name": "Seoul Homes",
+            "url": "seoulhomes.kr",
+            "desc": "Expat housing service"
+          },
+          {
+            "name": "LH Corporation",
+            "url": "www.lh.or.kr",
+            "desc": "National housing corp"
+          }
+        ],
+        "Emergency & Safety": [
+          {
+            "name": "Air Korea",
+            "url": "www.airkorea.or.kr",
+            "desc": "Air quality monitoring"
+          },
+          {
+            "name": "Safe Korea",
+            "url": "www.safekorea.go.kr",
+            "desc": "Disaster safety portal"
+          },
+          {
+            "name": "KDCA",
+            "url": "www.kdca.go.kr",
+            "desc": "Disease control agency"
+          }
+        ],
+        "News & Community": [
+          {
+            "name": "Arirang TV",
+            "url": "www.arirang.com",
+            "desc": "English-language broadcaster"
+          },
+          {
+            "name": "KBS World",
+            "url": "world.kbs.co.kr",
+            "desc": "Public broadcasting English"
+          },
+          {
+            "name": "Yonhap News",
+            "url": "en.yna.co.kr",
+            "desc": "National news agency"
+          },
+          {
+            "name": "The Korea Herald",
+            "url": "www.koreaherald.com",
+            "desc": "English daily newspaper"
+          },
+          {
+            "name": "The Korea Times",
+            "url": "www.koreatimes.co.kr",
+            "desc": "English daily newspaper"
+          },
+          {
+            "name": "JoongAng Daily",
+            "url": "koreajoongangdaily.joins.com",
+            "desc": "English daily newspaper"
+          },
+          {
+            "name": "Reddit r/korea",
+            "url": "www.reddit.com",
+            "desc": "Expat community"
+          }
+        ]
+      }
+    },
+    "Food & Dining": {
+      "subcategories": {
+        "Government & Organizations": [
+          {
+            "name": "Hansik Promotion Institute",
+            "url": "www.hansik.or.kr",
+            "desc": "Korean food globalization"
+          },
+          {
+            "name": "MAFRA",
+            "url": "www.mafra.go.kr",
+            "desc": "Agriculture and Food Ministry"
+          },
+          {
+            "name": "MFDS",
+            "url": "www.mfds.go.kr",
+            "desc": "Food safety authority"
+          },
+          {
+            "name": "Korea Food Research Institute",
+            "url": "www.kfri.re.kr",
+            "desc": "Food science research"
+          },
+          {
+            "name": "K-Food Guide (VisitKorea)",
+            "url": "english.visitkorea.or.kr",
+            "desc": "KTO food guide"
+          },
+          {
+            "name": "aT Center",
+            "url": "www.at.or.kr",
+            "desc": "Agro-food trade corporation"
+          },
+          {
+            "name": "KATI",
+            "url": "www.kati.net",
+            "desc": "K-Food export information"
+          },
+          {
+            "name": "RDA",
+            "url": "www.rda.go.kr",
+            "desc": "Rural Development Administration"
+          }
+        ],
+        "Major Food Brands": [
+          {
+            "name": "CJ CheilJedang (Bibigo)",
+            "url": "www.cj.co.kr",
+            "desc": "Global Korean food brand"
+          },
+          {
+            "name": "Ottogi",
+            "url": "www.ottogi.co.kr",
+            "desc": "Curry, ramen, sauces"
+          },
+          {
+            "name": "Samyang Foods",
+            "url": "www.samyangfoods.com",
+            "desc": "Buldak fire noodles"
+          },
+          {
+            "name": "Lotte Wellfood",
+            "url": "www.lottewellfood.com",
+            "desc": "Confectionery and food"
+          },
+          {
+            "name": "Pulmuone",
+            "url": "www.pulmuone.co.kr",
+            "desc": "Healthy food brand"
+          },
+          {
+            "name": "Daesang (Jongga)",
+            "url": "www.daesang.com",
+            "desc": "Kimchi and fermented foods"
+          },
+          {
+            "name": "Orion",
+            "url": "www.orionworld.com",
+            "desc": "Choco Pie maker"
+          },
+          {
+            "name": "SPC Group (Paris Baguette)",
+            "url": "www.spc.co.kr",
+            "desc": "Bakery conglomerate"
+          },
+          {
+            "name": "HiteJinro",
+            "url": "www.hitejinro.com",
+            "desc": "Soju and beer maker"
+          },
+          {
+            "name": "Kyochon Chicken",
+            "url": "www.kyochon.com",
+            "desc": "Korean fried chicken chain"
+          }
+        ],
+        "Restaurant Guide & Booking": [
+          {
+            "name": "Michelin Guide Seoul",
+            "url": "guide.michelin.com",
+            "desc": "Michelin rated restaurants"
+          },
+          {
+            "name": "Michelin Guide Busan",
+            "url": "guide.michelin.com",
+            "desc": "Michelin rated Busan"
+          },
+          {
+            "name": "HappyCow Seoul",
+            "url": "www.happycow.net",
+            "desc": "Vegan restaurant guide"
+          },
+          {
+            "name": "Shuttle Delivery",
+            "url": "www.shuttledelivery.co.kr",
+            "desc": "English food delivery"
+          },
+          {
+            "name": "Maangchi",
+            "url": "www.maangchi.com",
+            "desc": "Most popular Korean cooking site"
+          },
+          {
+            "name": "My Korean Kitchen",
+            "url": "mykoreankitchen.com",
+            "desc": "Korean recipe blog"
+          },
+          {
+            "name": "Korean Bapsang",
+            "url": "www.koreanbapsang.com",
+            "desc": "Korean home cooking recipes"
+          },
+          {
+            "name": "O'ngo Food Communications",
+            "url": "ongofood.com",
+            "desc": "Food tours and classes"
+          }
+        ],
+        "Restaurants & Chains": [
+          {
+            "name": "Paris Baguette",
+            "url": "parisbaguette.com",
+            "desc": "Global bakery chain"
+          },
+          {
+            "name": "Genesis BBQ",
+            "url": "bbq.co.kr",
+            "desc": "Korean chicken chain"
+          },
+          {
+            "name": "Mom's Touch",
+            "url": "momstouch.co.kr",
+            "desc": "Burger and chicken chain"
+          }
+        ],
+        "Traditional Drinks": [
+          {
+            "name": "The Sool Gallery",
+            "url": "thesool.com",
+            "desc": "Traditional liquor gallery"
+          },
+          {
+            "name": "O'sulloc",
+            "url": "www.osulloc.com",
+            "desc": "Jeju tea brand"
+          }
+        ],
+        "Markets & Street Food": [
+          {
+            "name": "Noryangjin Fish Market",
+            "url": "www.susansijang.co.kr",
+            "desc": "Seafood market"
+          },
+          {
+            "name": "Traditional Markets (KTO)",
+            "url": "english.visitkorea.or.kr",
+            "desc": "Market guide"
+          }
+        ],
+        "Regional Food Guides": [
+          {
+            "name": "Jeju Food Guide",
+            "url": "www.visitjeju.net",
+            "desc": "Jeju cuisine guide"
+          },
+          {
+            "name": "Busan Seafood Guide",
+            "url": "www.visitbusan.net",
+            "desc": "Busan seafood guide"
+          },
+          {
+            "name": "Halal Food Guide (KTO)",
+            "url": "english.visitkorea.or.kr",
+            "desc": "Muslim-friendly food guide"
+          }
+        ]
+      }
+    },
+    "Shopping & K-Beauty": {
+      "subcategories": {
+        "Beauty Retail Platforms": [
+          {
+            "name": "Olive Young Global",
+            "url": "global.oliveyoung.com",
+            "desc": "Korea's #1 beauty retailer"
+          },
+          {
+            "name": "StyleKorean",
+            "url": "www.stylekorean.com",
+            "desc": "K-Beauty e-commerce"
+          },
+          {
+            "name": "YesStyle K-Beauty",
+            "url": "www.yesstyle.com",
+            "desc": "Fashion and beauty platform"
+          },
+          {
+            "name": "Soko Glam",
+            "url": "sokoglam.com",
+            "desc": "Curated K-Beauty"
+          },
+          {
+            "name": "Wishtrend",
+            "url": "www.wishtrend.com",
+            "desc": "Ingredient-focused beauty"
+          },
+          {
+            "name": "Jolse",
+            "url": "jolse.com",
+            "desc": "K-Beauty direct purchase"
+          },
+          {
+            "name": "Stylevana",
+            "url": "www.stylevana.com",
+            "desc": "Asian beauty platform"
+          },
+          {
+            "name": "Roseroseshop",
+            "url": "www.roseroseshop.com",
+            "desc": "Wholesale K-Beauty"
+          }
+        ],
+        "Prestige & Luxury Brands": [
+          {
+            "name": "Sulwhasoo",
+            "url": "www.sulwhasoo.com",
+            "desc": "Hanbang luxury skincare"
+          },
+          {
+            "name": "The History of Whoo",
+            "url": "www.whoo.co.kr",
+            "desc": "Royal anti-aging"
+          },
+          {
+            "name": "Laneige",
+            "url": "www.laneige.com",
+            "desc": "Water science skincare"
+          },
+          {
+            "name": "IOPE",
+            "url": "www.iope.com",
+            "desc": "Cushion foundation pioneer"
+          },
+          {
+            "name": "Hera",
+            "url": "www.hera.com",
+            "desc": "Contemporary Seoul beauty"
+          },
+          {
+            "name": "Amorepacific Group",
+            "url": "www.amorepacific.com",
+            "desc": "Major beauty conglomerate"
+          }
+        ],
+        "Road Shop & Popular Brands": [
+          {
+            "name": "Innisfree",
+            "url": "www.innisfree.com",
+            "desc": "Jeju naturalism brand"
+          },
+          {
+            "name": "Etude House",
+            "url": "www.etude.com",
+            "desc": "Fun makeup brand"
+          },
+          {
+            "name": "Missha",
+            "url": "www.missha.com",
+            "desc": "Affordable quality skincare"
+          },
+          {
+            "name": "Nature Republic",
+            "url": "www.naturerepublic.com",
+            "desc": "Nature-powered skincare"
+          },
+          {
+            "name": "Tonymoly",
+            "url": "www.tonymoly.com",
+            "desc": "Creative packaging beauty"
+          },
+          {
+            "name": "Banila Co",
+            "url": "www.banila.com",
+            "desc": "Clean It Zero cleansing"
+          },
+          {
+            "name": "Clio Professional",
+            "url": "clubclio.shop",
+            "desc": "Pro makeup brand"
+          },
+          {
+            "name": "Too Cool For School",
+            "url": "toocoolforschool.us",
+            "desc": "Artsy beauty brand"
+          },
+          {
+            "name": "Skinfood",
+            "url": "theskinfood.us",
+            "desc": "Food-inspired skincare"
+          }
+        ],
+        "Indie & Derma Brands": [
+          {
+            "name": "COSRX",
+            "url": "www.cosrx.com",
+            "desc": "Minimalist problem-skin solutions"
+          },
+          {
+            "name": "Dr. Jart+",
+            "url": "www.drjart.com",
+            "desc": "Derma tech skincare"
+          },
+          {
+            "name": "Beauty of Joseon",
+            "url": "beautyofjoseon.com",
+            "desc": "Modern hanbang beauty"
+          },
+          {
+            "name": "Round Lab",
+            "url": "roundlab.com",
+            "desc": "Korean-ingredient minimal beauty"
+          },
+          {
+            "name": "Anua",
+            "url": "anua.us",
+            "desc": "Heartleaf soothing specialist"
+          },
+          {
+            "name": "Rom&nd",
+            "url": "romand.us",
+            "desc": "Gen-Z lip tint brand"
+          },
+          {
+            "name": "Mediheal",
+            "url": "medihealus.com",
+            "desc": "Sheet mask pioneer"
+          },
+          {
+            "name": "Some By Mi",
+            "url": "www.somebymi.com",
+            "desc": "AHA/BHA/PHA miracle line"
+          },
+          {
+            "name": "Dear Klairs",
+            "url": "www.klairscosmetics.com",
+            "desc": "Sensitive skin care"
+          },
+          {
+            "name": "Neogen",
+            "url": "www.neogenlab.com",
+            "desc": "Dermalogy skincare"
+          },
+          {
+            "name": "Medicube",
+            "url": "medicube.us",
+            "desc": "Device + skincare brand"
+          },
+          {
+            "name": "Isntree",
+            "url": "isntree.com",
+            "desc": "Clean skincare brand"
+          }
+        ],
+        "Fashion Platforms": [
+          {
+            "name": "Musinsa Global",
+            "url": "global.musinsa.com",
+            "desc": "Korea's top fashion platform"
+          },
+          {
+            "name": "W Concept",
+            "url": "us.wconcept.com",
+            "desc": "Designer fashion platform"
+          },
+          {
+            "name": "Gentle Monster",
+            "url": "www.gentlemonster.com",
+            "desc": "Iconic eyewear brand"
+          },
+          {
+            "name": "Tamburins",
+            "url": "www.tamburins.com",
+            "desc": "Aromatic lifestyle brand"
+          },
+          {
+            "name": "Nonfiction",
+            "url": "nonfiction-beauty.com",
+            "desc": "Fragrance and body care"
+          },
+          {
+            "name": "Andersson Bell",
+            "url": "en.anderssonbell.com",
+            "desc": "Unisex fashion brand"
+          },
+          {
+            "name": "Thisisneverthat",
+            "url": "thisisneverthat.com",
+            "desc": "Streetwear brand"
+          },
+          {
+            "name": "Kooding",
+            "url": "www.kooding.com",
+            "desc": "K-Fashion for international"
+          }
+        ],
+        "Department Stores": [
+          {
+            "name": "Lotte Department Store",
+            "url": "www.lotteshopping.com",
+            "desc": "Major department store"
+          },
+          {
+            "name": "Shinsegae Department Store",
+            "url": "www.shinsegae.com",
+            "desc": "Premium department store"
+          },
+          {
+            "name": "Hyundai Department Store",
+            "url": "www.ehyundai.com",
+            "desc": "Innovative retail spaces"
+          }
+        ],
+        "Duty Free": [
+          {
+            "name": "Lotte Duty Free",
+            "url": "eng.lottedfs.com",
+            "desc": "Major duty free operator"
+          },
+          {
+            "name": "Shilla Duty Free",
+            "url": "www.shilladfs.com",
+            "desc": "Samsung group duty free"
+          },
+          {
+            "name": "Shinsegae Duty Free",
+            "url": "www.ssgdf.com",
+            "desc": "Shinsegae duty free"
+          },
+          {
+            "name": "Incheon Airport Duty Free",
+            "url": "www.airport.kr",
+            "desc": "Airport duty free"
+          }
+        ],
+        "Online Shopping": [
+          {
+            "name": "Gmarket Global",
+            "url": "global.gmarket.co.kr",
+            "desc": "Global e-commerce"
+          },
+          {
+            "name": "Coupang",
+            "url": "www.coupang.com",
+            "desc": "Korea's Amazon equivalent"
+          },
+          {
+            "name": "Ktown4u",
+            "url": "www.ktown4u.com",
+            "desc": "K-Pop merchandise"
+          },
+          {
+            "name": "Yes24 Global",
+            "url": "global.yes24.com",
+            "desc": "Books and culture goods"
+          },
+          {
+            "name": "K-Pop Town",
+            "url": "www.kpoptown.com",
+            "desc": "K-Pop official merchandise"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -220,12 +220,3 @@ For the international traveler, the key is managing expectations. Do not come ex
     { question: "What is the best time of year to visit?", answer: "Spring (April-May) and Autumn (September-October) offer the best seasonal ingredients, such as wild mountain herbs and pine mushrooms, which feature heavily in royal courses." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

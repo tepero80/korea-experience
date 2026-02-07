@@ -246,12 +246,3 @@ Whether you are sampling a bubbling clay pot in a back alley of Jongno or taking
     { question: "How long does Cheonggukjang paste last in the fridge?", answer: "Fresh Cheonggukjang is perishable. It lasts about 1-2 weeks in the fridge before it becomes too sour. For long-term storage, freeze it in portion-sized chunks; it keeps for 6+ months." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -239,12 +239,3 @@ Investing in Korean real estate is a powerful way to diversify a portfolio and g
     { question: "What is the 'comprehensive real estate tax'?", answer: "It is a wealth tax for owners holding expensive property. If the total assessed value of your properties exceeds 1.2 Billion KRW (for a single home owner), you pay this annual tax ranging from 0.5% to 5.0%." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

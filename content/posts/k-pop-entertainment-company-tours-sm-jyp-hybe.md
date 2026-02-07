@@ -270,12 +270,3 @@ While the agencies have moved, the history remains in Cheongdam-dong. If you hav
 />
 
 Visiting the **K Pop entertainment company tours SM JYP HYBE** is a rite of passage. While the buildings are often closed to the public, the surrounding infrastructure—cafes, flagship stores, and the sheer energy of being where the magic happens—makes the journey worthwhile. Plan your route, manage your budget, and respect the local neighborhood rules for the best experience.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

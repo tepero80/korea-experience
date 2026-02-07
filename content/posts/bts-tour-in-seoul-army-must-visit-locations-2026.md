@@ -238,12 +238,3 @@ In 2026, specialized "Hallyu Taxi" services are very popular.
 Exploring Seoul through the lens of BTS offers a unique way to see the city. You aren't just visiting tourist traps; you are walking the same streets where RM drafted lyrics, where Suga produced beats, and where the group dreamed of a future that has now become reality.
 
 Pack your lightstick, download Naver Map, and get ready for an unforgettable journey. Borahae!
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

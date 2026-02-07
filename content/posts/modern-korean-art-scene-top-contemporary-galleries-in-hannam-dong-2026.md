@@ -242,12 +242,3 @@ However, the crowds have not diminished. The sheer popularity of visual culture 
 />
 
 Hannam-dong in 2026 remains the definitive destination for those looking to understand the modern Korean aesthetic. It is a place where the pristine white cube of the gallery meets the textured red brick of the city, creating an atmosphere that is uniquely Seoul. Whether you are there to buy, to learn, or simply to see, the Art Valley awaits.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

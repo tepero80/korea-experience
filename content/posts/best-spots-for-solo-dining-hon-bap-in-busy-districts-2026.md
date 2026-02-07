@@ -225,12 +225,3 @@ However, etiquette matters.
 />
 
 Solo dining in Seoul is no longer just a necessity; it is a cultural experience. Whether you are grabbing a quick bowl of noodles in a standing booth in Myeongdong or grilling premium beef in a private cubicle in Gangnam, the city in 2026 is designed to accommodate the solo traveler with efficiency and flavor. Enjoy your meal—or as Koreans say, *Jal Meok-get-seumnida*!
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

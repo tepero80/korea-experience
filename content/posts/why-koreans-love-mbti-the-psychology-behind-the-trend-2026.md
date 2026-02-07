@@ -200,12 +200,3 @@ When you visit, don't be afraid of the question "What's your MBTI?" Embrace it. 
     { question: "How much does a professional MBTI test cost in Seoul?", answer: "A full clinical assessment with a psychologist typically costs between ₩100,000 and ₩150,000 ($75-$110 USD)." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

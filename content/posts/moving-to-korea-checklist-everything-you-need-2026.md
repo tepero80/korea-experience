@@ -230,12 +230,3 @@ Moving to Korea in 2026 is an adventure in duality. You will experience the futu
     { question: "Can I bring my pet?", answer: "Yes, but it requires microchipping, rabies titer tests, and strict paperwork. Also, finding pet-friendly housing is significantly harder and may require a larger security deposit." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

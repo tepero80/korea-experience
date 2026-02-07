@@ -238,12 +238,3 @@ When you take that first bite, remember that you are tasting the result of centu
     { question: "Is it safe to eat the raw beef (Yukhoe)?", answer: " generally yes. These high-traffic restaurants have very high turnover rates, ensuring the beef is extremely fresh. However, pregnant women or those with compromised immunity should opt for the cooked beef version." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

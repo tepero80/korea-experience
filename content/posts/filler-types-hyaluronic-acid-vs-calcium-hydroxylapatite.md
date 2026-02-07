@@ -215,12 +215,3 @@ However, if you are an experienced aesthetic patient looking for significant str
     { question: "Does it hurt?", answer: "Korean clinics are very generous with pain management. They apply a strong numbing cream for 20-30 minutes. Most modern fillers also contain lidocaine (an anesthetic) within the gel itself, making the procedure uncomfortable but rarely painful." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Health Industry Development Institute (KHIDI)](https://www.khidi.or.kr) - Medical tourism statistics and policy
-- [Visit Medical Korea](https://www.medicalkorea.or.kr/en) - Official government medical tourism portal
-- [Ministry of Food and Drug Safety](https://www.mfds.go.kr) - Drug and medical device regulations
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Medical tourism visitor information

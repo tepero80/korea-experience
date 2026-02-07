@@ -218,12 +218,3 @@ When you visit Incheon Chinatown, you aren't just eating lunch. You are tasting 
     { question: "What is the best time of year to visit?", answer: "Spring (April-May) and Autumn (September-October) are ideal. The weather is perfect for the walking tour, and the humidity is lower than in summer." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -211,12 +211,3 @@ When planning your trip, flexibility is key. While the stalwarts like *Sanmotung
     { question: "Are these cafes kid-friendly?", answer: "Many trendy cafes, especially those with expensive antiques or rooftop hazards, operate as 'No Kids Zones' (usually under 12 or 13). Check their Instagram bio for 'No Kids Zone' notices." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

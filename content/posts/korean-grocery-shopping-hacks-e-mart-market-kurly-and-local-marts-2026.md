@@ -203,12 +203,3 @@ Remember, the best approach is a hybrid one: buy your heavy staples online, your
     { question: "Is tap water safe to drink, or should I buy bottled water?", answer: "Tap water in Korea is safe to drink by international standards, but most locals prefer boiling it or using filtered water. Buying bottled water in bulk (2L x 6 packs) is very common and cheap, costing around 3,000 to 4,000 KRW per pack." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

@@ -225,12 +225,3 @@ Ultimately, both cities offer a safe, modern, and dynamic lifestyle that is comp
     { question: "Can I use the same transportation card in both cities?", answer: "Yes. T-Money and Cashbee cards work universally across all Korean subways, buses, and most taxis, regardless of the city." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

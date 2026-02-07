@@ -195,12 +195,3 @@ Just remember: look with your eyes, capture with your camera, but unless you are
     { question: "Is English spoken in these art districts?", answer: "In Hongdae and Seongsu, English is widely understood in cafes and shops. In older areas like Mullae or Ihwa, translation apps (Papago) are recommended." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

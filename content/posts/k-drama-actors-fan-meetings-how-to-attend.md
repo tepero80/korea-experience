@@ -249,12 +249,3 @@ Since fan meetings often finish late (around 9:30 PM or 10:00 PM) and the Hi-Bye
 />
 
 Attending a K-Drama actor's fan meeting is a sophisticated, heartwarming experience that differs vastly from the high-energy chaos of K-Pop concerts. It requires precision in ticketing and respect for etiquette, but the reward is a genuine connection with the stars who bring your favorite characters to life. Prepare your browser, sync your clock, and good luck!
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

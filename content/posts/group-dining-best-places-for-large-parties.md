@@ -257,12 +257,3 @@ Book early using CatchTable, respect the reservation times, and choose a venue t
     { question: "Are children allowed in these group venues?", answer: "Most BBQ places and Buffets are family-friendly. However, high-end Omakase or 'Speakeasy' style bars often have 'No Kids Zones.' Always check the venue's policy on Naver Map or CatchTable." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

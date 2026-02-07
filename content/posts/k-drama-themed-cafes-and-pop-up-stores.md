@@ -235,12 +235,3 @@ Visit Ikseon-dong Hanok Village. The narrow alleys are a staple in dramas. Look 
     { question: "How do I find out about current pop-up stores?", answer: "Twitter (X) and Instagram are the best real-time sources. Search for 'Seoul Pop Up' or follow specific accounts dedicated to 'Popups in Seoul'. The official Instagram accounts of the broadcasting networks (tvN, SBS, Netflix Korea) also announce dates." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

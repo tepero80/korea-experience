@@ -227,12 +227,3 @@ For the traveler, taking the time to learn these games changes you from a specta
     { question: "Are these games played year-round?", answer: "While they are most strongly associated with Seollal (Lunar New Year) and Chuseok (Harvest Festival), they are played year-round at cultural centers, folk villages, and increasingly in schools as part of cultural education." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

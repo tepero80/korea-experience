@@ -245,12 +245,3 @@ Remember, a visa run is a temporary solution. If you love Korea enough to live h
     { question: "Is it cheaper to book flights last minute?", answer: "Rarely. For routes like Incheon to Osaka or Tokyo, booking 3-4 weeks in advance usually secures the best price (around 250,000 KRW). Last-minute bookings can spike to over 500,000 KRW." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

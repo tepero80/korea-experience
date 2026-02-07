@@ -222,12 +222,3 @@ The most important data point to remember is this: The expat community in Korea 
     { question: "Do university hospitals offer psychiatric care for foreigners?", answer: "Yes, major hospitals like Severance (Yonsei) and Seoul St. Mary's have International Healthcare Centers. The wait times are longer (2-4 weeks), but the care is top-tier." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

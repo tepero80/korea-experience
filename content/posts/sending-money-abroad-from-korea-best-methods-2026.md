@@ -260,12 +260,3 @@ If you use WireBarley for $30,000 and Sentbe for $25,000 in the same year, you m
 Sending money abroad from Korea in 2026 is faster and cheaper than ever before, provided you step away from the traditional teller counter and embrace the fintech revolution. By using services like Sentbe or WireBarley, you can save hundreds of dollars a year—money much better spent on enjoying Korean BBQ or a weekend trip to Jeju Island.
 
 Remember the golden rule: **Designate one provider, watch your annual $50,000 limit, and always ensure your name matches exactly across all platforms.** Safe transfers!
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

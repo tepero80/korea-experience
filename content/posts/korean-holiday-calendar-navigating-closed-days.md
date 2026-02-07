@@ -257,12 +257,3 @@ By aligning your schedule with the rhythm of the "Red Days," you can avoid the f
     { question: "Can I use foreign credit cards during holidays?", answer: "Yes, card acceptance is automated and works 24/7. However, ensure you have some cash (50,000 - 100,000 KRW) for street food or emergency transport, as some older machines might have maintenance downtime." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

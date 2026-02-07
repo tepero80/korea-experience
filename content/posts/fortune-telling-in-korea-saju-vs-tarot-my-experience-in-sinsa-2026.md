@@ -241,12 +241,3 @@ Don't be offended if the Saju master comments on your personality flaws. In Kore
     { question: "Can I do Saju online?", answer: "Yes, many apps exist in 2026, but they lack the nuance of a face-to-face reading where the master reads your physiognomy (face reading) alongside your chart." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

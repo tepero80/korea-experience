@@ -221,12 +221,3 @@ In 2026, the barrier to entry has never been lower. With improved English ticket
     { question: "What is the best time of year to watch Gugak?", answer: "Spring (April-May) and Autumn (September-October) are ideal, especially for outdoor performances at the Palaces (Gyeongbokgung/Changdeokgung) which hold special evening concerts." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

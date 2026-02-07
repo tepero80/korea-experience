@@ -225,12 +225,3 @@ Start with 15 minutes today. Your ears—and your future Korean friends—will t
     { question: "How much data does streaming a podcast use?", answer: "High-quality audio streaming typically consumes about 60MB to 90MB per hour. It is recommended to download episodes while on Wi-Fi before your commute." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

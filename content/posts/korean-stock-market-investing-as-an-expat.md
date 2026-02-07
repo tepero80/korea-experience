@@ -245,12 +245,3 @@ This is a common concern. What happens when your contract ends and you move back
 Investing in the Korean stock market as an expat is a rewarding way to engage with the local economy and potentially grow your savings. While the initial setup—navigating the ARC verification and banking apps—can be frustrating, the long-term benefits of low transaction costs and tax-free capital gains (for most) make it worthwhile.
 
 Remember to start small, perhaps with a budget of 500,000 KRW to 1,000,000 KRW, to get comfortable with the interface and the T+2 settlement cycle (meaning if you sell today, the cash is available for withdrawal two business days later). With patience and the right tools, you can navigate the KOSPI just as confidently as you navigate the Seoul Metro.
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

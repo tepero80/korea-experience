@@ -236,12 +236,3 @@ Korean webtoons offer a vibrant, colorful window into the country's imagination.
     { question: "Do webtoon apps work offline?", answer: "Yes, most major apps like WEBTOON and Tapas allow you to download episodes temporarily (usually for 30 days) to read without an internet connection—perfect for flights." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

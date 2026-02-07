@@ -226,12 +226,3 @@ By 2026, the world of soju has expanded to offer something for everyone. Whether
     { question: "What is fruit soju?", answer: "Fruit soju is a flavored cocktail-like variation with a lower ABV (around 13%). Popular flavors include Grapefruit, Green Grape, and Peach. It is very sweet and popular among travelers, but locals warn it causes worse hangovers due to the high sugar content." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

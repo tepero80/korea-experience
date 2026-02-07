@@ -273,11 +273,3 @@ For those planning an extended stay to complete a full treatment cycle, checking
     { question: "What is the best time of year to visit for laser treatment?", answer: "Late Autumn (October-November) or Winter is ideal. The UV index is lower, reducing the risk of sun damage during recovery. Summer (July-August) is hot and humid, which increases infection risk due to sweat." }
   ]}
 />
-
----
-
-## Sources
-- [Korea Health Industry Development Institute](https://www.khidi.or.kr/eps) - Medical tourism statistics and accreditation standards.
-- [Visit Medical Korea](https://english.visitmedicalkorea.com) - Official government portal for medical tourists.
-- [Korean Dermatological Association](https://www.derma.or.kr) - Standards of care and board certification details.
-- [Global Tax Free Korea](https://web.gtf.co.kr) - Tax refund regulations for cosmetic procedures.

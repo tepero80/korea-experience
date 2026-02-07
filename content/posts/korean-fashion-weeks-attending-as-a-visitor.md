@@ -228,12 +228,3 @@ Is it worth carving out two days of your Korean vacation for this?
 Attending Korean Fashion Weeks as a visitor is less about seeing the clothes on the runway and more about witnessing the culture on the pavement. It is a spectacle of vanity, art, and commerce that captures the hyper-fast pace of Seoul perfectly.
 
 Whether you manage to snag a lottery ticket or simply spend the afternoon people-watching with an iced Americano in hand, the energy of the DDP during Fashion Week is an experience found nowhere else in Asia. Prepare your outfit, charge your camera, and get ready to walk the blue carpet.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

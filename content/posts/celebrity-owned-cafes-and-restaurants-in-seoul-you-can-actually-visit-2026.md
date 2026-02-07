@@ -232,12 +232,3 @@ When you visit, you are not just buying a coffee; you are participating in the p
     { question: "Do I need to book in advance?", answer: "For cafes, no bookings are taken; it is first-come, first-served. For BBQ restaurants like 401, reservations are highly recommended for dinner service on Fridays and Saturdays." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

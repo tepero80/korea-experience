@@ -273,12 +273,3 @@ By respecting these rules, you contribute to the cleanliness of your neighborhoo
     { question: "How do I throw away a suitcase?", answer: "A suitcase is 'Large Waste.' You must buy a disposal sticker from the district office, website, or community center and attach it to the suitcase before placing it outside." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

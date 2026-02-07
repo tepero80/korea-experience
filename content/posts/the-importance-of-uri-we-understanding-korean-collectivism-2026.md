@@ -187,12 +187,3 @@ In 2026, Korea is a futuristic nation running on ancient software. The buildings
     { question: "How do I handle the bill if a Korean friend invites me out?", answer: "If they invite you, they likely expect to pay. You should offer to pay, but if they insist, accept graciously. To reciprocate the 'Uri' spirit, offer to pay for the coffee or dessert at the next stop." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

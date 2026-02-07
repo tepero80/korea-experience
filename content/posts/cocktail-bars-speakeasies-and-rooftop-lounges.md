@@ -205,12 +205,3 @@ Seoul offers a nightlife experience that rivals New York or Tokyo, characterized
     { question: "What is the average price of a cocktail?", answer: "In 2026, expect to pay between 20,000 KRW and 30,000 KRW ($15-$22 USD) for a cocktail in major nightlife districts. Beer and wine will be cheaper, usually around 10,000-15,000 KRW." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -247,12 +247,3 @@ By following this guide, you will ensure your home is warm, powered, and connect
     { question: "Why is my gas bill so high in winter?", answer: "Korean homes use gas for floor heating (Ondol). Heating a home 24/7 consumes a massive amount of gas. Use a heated blanket for sleeping and keep the room thermostat around 20-22°C to save money." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

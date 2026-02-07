@@ -220,12 +220,3 @@ For the casual fan, the palaces in Seoul provide a perfect, accessible taste of 
     { question: "Do the staff speak English?", answer: "At major Seoul palaces, ticket staff and guides speak English. At provincial sets like Nonsan or Naju, English proficiency is limited. Downloading Naver Papago for translation is highly recommended." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

@@ -232,12 +232,3 @@ For travelers, the key is to experiment. Do not just stick to the original fried
     { question: "What do I do with the leftovers?", answer: "Koreans rarely leave leftovers, but you can ask for 'Pojang' (Takeout). They will box it up for you. Cold fried chicken is a popular breakfast snack the next day!" }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -278,12 +278,3 @@ The Korean rental market is fast-paced and efficient, but it punishes the uninfo
     { question: "Is the deposit refundable if I break the lease early?", answer: "The landlord is not legally obligated to return the deposit until the contract end date. If you leave early, you typically must find a new tenant to take over your lease. Once the new tenant pays their deposit, the landlord returns yours. You also usually have to pay the real estate agent fees for the new tenant." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

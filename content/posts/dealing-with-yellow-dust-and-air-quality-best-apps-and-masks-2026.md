@@ -208,12 +208,3 @@ By preparing with the right apps, stocking up on KF94 masks, and managing your i
     { question: "Does the government do anything about the dust?", answer: "Yes. On high-dust days, the government issues 'Emergency Reduction Measures,' limiting vehicle operation (based on license plate numbers) and shortening construction site hours." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

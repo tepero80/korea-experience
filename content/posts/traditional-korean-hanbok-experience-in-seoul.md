@@ -236,12 +236,3 @@ By budgeting approximately **₩35,000** and allotting **3 to 4 hours**, you can
     { question: "Do I need to clean the Hanbok before returning?", answer: "No. The rental fee covers standard cleaning. However, if you rip the skirt or spill dark coffee/food that leaves a permanent stain, you may be charged a damage fee ranging from ₩10,000 to full replacement cost." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

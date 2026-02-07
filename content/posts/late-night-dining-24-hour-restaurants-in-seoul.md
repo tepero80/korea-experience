@@ -221,12 +221,3 @@ So, next time you find yourself awake at 3:00 AM in Seoul, don't just order room
     { question: "How do I order if I don't speak Korean?", answer: "Most modern 24-hour restaurants use tablet kiosks at the table with English language options. If not, pointing at the menu and using translation apps like Papago works perfectly." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

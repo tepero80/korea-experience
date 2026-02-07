@@ -220,12 +220,3 @@ If you create a large piece or buy a heavy ink stone, utilize the Korean Post Of
 />
 
 Mastering the art of Hangeul calligraphy is more than a tourist activity; it is a gateway to understanding the Korean soul. In the fast-paced world of 2026, taking two hours to slow down, breathe, and focus on the tip of a brush offers a rare moment of tranquility. Whether you leave with a masterpiece or a paper full of abstract blots, the experience of connecting with Korea's living history is the true souvenir.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

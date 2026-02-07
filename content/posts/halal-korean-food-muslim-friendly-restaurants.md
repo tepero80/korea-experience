@@ -259,12 +259,3 @@ By utilizing the KTO certification system, leveraging local apps, and sticking t
     { question: "Do I need to tip in Korean restaurants?", answer: "No. Tipping is not a custom in South Korea and can sometimes be seen as rude. The price you see on the menu is the final price, including tax and service." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

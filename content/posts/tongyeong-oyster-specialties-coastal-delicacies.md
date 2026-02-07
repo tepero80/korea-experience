@@ -211,12 +211,3 @@ However, Norovirus is a genuine concern with winter shellfish. The Korean govern
 />
 
 Tongyeong offers a winter culinary adventure that rivals any seafood destination in Asia. The combination of high-quality ingredients, affordable pricing, and the sheer variety of preparation methods makes the 4-hour journey from Seoul entirely worth the effort. Whether you are slurping raw oysters at a plastic table in the market or enjoying a refined course overlooking the harbor, the taste of the Tongyeong sea is a memory that will linger long after you return home.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

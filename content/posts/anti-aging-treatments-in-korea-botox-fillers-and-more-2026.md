@@ -243,12 +243,3 @@ However, manage your expectations. A "factory clinic" will not give you an hour 
     { question: "What if I don't speak Korean?", answer: "Stick to the major clinics marketed towards foreigners (often found on apps like Gangnam Unni or Google Maps with English reviews). They have dedicated interpreters. Smaller, local neighborhood clinics may not be able to communicate effectively." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Health Industry Development Institute (KHIDI)](https://www.khidi.or.kr) - Medical tourism statistics and policy
-- [Visit Medical Korea](https://www.medicalkorea.or.kr/en) - Official government medical tourism portal
-- [Ministry of Food and Drug Safety](https://www.mfds.go.kr) - Drug and medical device regulations
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Medical tourism visitor information

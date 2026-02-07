@@ -189,12 +189,3 @@ Before committing hundreds of thousands of dollars, weigh the benefits against t
 />
 
 Navigating the Jeonse system requires patience and significant capital, but it remains the smartest financial move for long-term residents in Korea. By securing a loan and ensuring your deposit is insured, you can live in high-standard accommodation for a fraction of the monthly cost found in other global cities.
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

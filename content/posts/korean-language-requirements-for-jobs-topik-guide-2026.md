@@ -283,12 +283,3 @@ The road to Level 6 is long, often frustrating, and filled with complex grammar 
     { question: "Can I take TOPIK outside of Korea?", answer: "Yes, TOPIK is administered in over 80 countries. However, the frequency is much lower (usually once or twice a year) compared to the 6+ times it is held within Korea." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

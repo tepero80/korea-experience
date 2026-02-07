@@ -246,12 +246,3 @@ Whether you are negotiating the price of "padding" in Dongdaemun or charging you
     { question: "Why do Koreans say 'Fighting'?", answer: "Pronounced 'Hwaiting', this is the ultimate Konglish encouragement. It means 'Go for it!', 'Good luck!', or 'Cheer up!'. It is derived from the English word 'fight' but carries no aggressive connotation." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

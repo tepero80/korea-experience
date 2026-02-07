@@ -226,12 +226,3 @@ You will see colorful tags on shelf rails.
 />
 
 Whether you are grabbing a quick **Samgak Gimbap** before a train ride or sitting down for a full **Ramyeon** meal by the Han River, Korean convenience stores offer a unique, tasty, and affordable window into local life. Don't be afraid to try the weirdest flavor you see—it might just be your new favorite.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -225,12 +225,3 @@ Remember, in 2026, while technology has advanced (expect robot servers in many B
     { question: "Is it okay to eat while walking?", answer: "Generally, no. Except for specific street food zones (like Myeongdong Street Food Alley), it is considered polite to stand near the stall to eat your food before moving on." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

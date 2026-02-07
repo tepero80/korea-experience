@@ -218,12 +218,3 @@ Don't be afraid to try the scary-looking red packages—just keep a carton of mi
     { question: "What is the calorie count for a typical pack?", answer: "A standard fried noodle packet (like Shin Ramyun) is roughly 500-510 calories. The soupless stir-fried types (like Buldak) can be higher, around 530-550 calories. Air-dried options are around 350 calories." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

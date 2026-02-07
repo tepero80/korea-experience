@@ -201,12 +201,3 @@ Venturing into these flavors requires a sense of adventure. The smells may be st
     { question: "Why is Jangajji sometimes brown and sometimes clear?", answer: "Brown Jangajji is pickled in a soy sauce brine. Clear or pinkish Jangajji is usually pickled in vinegar, sugar, and salt brine." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -199,12 +199,3 @@ Merchandise lines at concert venues like the Gocheok Sky Dome or the KSPO Dome c
     { question: "How much is a taxi from Incheon Airport to Hongdae?", answer: "Expect to pay between 55,000 and 70,000 KRW depending on traffic. The AREX Express train is a faster and cheaper alternative at roughly 9,500 KRW." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

@@ -209,12 +209,3 @@ To maximize your efficiency, cluster your visits by district.
 />
 
 By blending the nostalgia of *Itaewon Class* with the modern grit of *Squid Game*, a tour of Seoul's drama locations offers a unique lens into the city's soul. Whether you are spending 1,400 KRW on a subway ride or 100,000 KRW on a luxury dining experience, the city offers a scene for every traveler. Pack your walking shoes, charge your camera, and get ready to step into the screen.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

@@ -217,12 +217,3 @@ Is it worth the 60-kilometer round trip from Seoul just for lunch?
 Visiting the Suwon Galbi best barbecue restaurants is more than just a meal; it is a cultural immersion into Korea's dining heritage. While the price point is high, the combination of the massive "King" ribs, the table-filling royal side dishes, and the charcoal-infused flavor profile creates a memory that far surpasses standard BBQ experiences in Seoul.
 
 For the first-time visitor, **Kabojung** offers the most accessible and visually impressive experience due to its English support and incredible banchan. For the hardcore meat lover who cares only about flavor, **Bonsuwon** remains the undefeated champion of the grill. Whichever you choose, ensure you arrive with an empty stomach—Suwon hospitality does not believe in small portions.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -221,12 +221,3 @@ Whether you hear the weeping of a queen in the palace or simply enjoy the cool n
     { question: "Do Koreans actually believe in these ghosts?", answer: "Belief varies. While many younger Koreans view these as mere stories, shamanism is still an active practice. Many people will still avoid moving on 'inauspicious days' or writing names in red ink, showing a cultural respect for the supernatural." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

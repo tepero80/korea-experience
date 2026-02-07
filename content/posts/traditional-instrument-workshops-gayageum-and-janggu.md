@@ -220,12 +220,3 @@ Whether you choose the elegant strumming of the Gayageum or the heartbeat rhythm
     { question: "Can I record a video of my playing?", answer: "Yes! Instructors usually encourage it. They often offer to film you playing your final 'performance' of Arirang at the end of the class." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

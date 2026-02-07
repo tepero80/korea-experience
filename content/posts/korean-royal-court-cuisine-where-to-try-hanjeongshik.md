@@ -228,12 +228,3 @@ Hanjeongshik is traditionally a communal meal served for a minimum of 2 people. 
 />
 
 By understanding the history, etiquette, and options available, you transform a simple dinner into a cultural immersion. Whether you choose the historical accuracy of Jihwaja in Seoul or the abundant tables of Jeonju, Hanjeongshik remains the ultimate expression of Korean hospitality.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -236,12 +236,3 @@ For the international traveler, the barrier to entry is low. Menus often have pi
     { question: "Are vegetarian Anju options available?", answer: "It can be difficult. Dubu Kimchi contains pork. However, Potato Pancakes (Gamja Jeon) and Corn Cheese are safe bets. Always ask if the Kimchi or sauces contain fish sauce or meat." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

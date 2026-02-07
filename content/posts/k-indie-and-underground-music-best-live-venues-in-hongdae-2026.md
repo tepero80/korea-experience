@@ -224,12 +224,3 @@ Regarding etiquette: "Moshing" is common at punk shows but is generally respectf
 />
 
 Hongdae in 2026 remains a vibrant testament to the resilience of live music. While the skyline changes and prices inch upward, the energy in the basements remains electric. Whether you are a dedicated K-Indie fan or just a traveler looking for a good beat, the streets of Mapo-gu are waiting for you.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

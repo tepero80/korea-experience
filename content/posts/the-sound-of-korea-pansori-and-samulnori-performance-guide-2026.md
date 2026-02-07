@@ -253,12 +253,3 @@ Pansori teaches you about the history of the heart, while Samulnori aligns your 
 <InfoBox type="success" title="Ready to explore?">
 Check the official National Gugak Center website (gugak.go.kr) for the latest 2026 schedules. Booking 2-3 weeks in advance is highly recommended for weekend shows.
 </InfoBox>
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

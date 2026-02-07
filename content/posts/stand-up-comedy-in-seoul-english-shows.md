@@ -220,12 +220,3 @@ With tickets averaging the price of two coffees and venues located in the most v
     { question: "How late do the shows run?", answer: "A typical showcase starts at 9:00 PM and ends by 10:45 PM. Open mics might run later depending on the number of sign-ups." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

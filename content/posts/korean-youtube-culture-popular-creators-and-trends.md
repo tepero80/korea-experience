@@ -225,12 +225,3 @@ Just remember: respect the privacy laws, keep your edits fast, and never underes
     { question: "How much can I earn as a YouTuber in Korea?", answer: "CPM (Cost Per Mille) in Korea varies, but usually averages around $2-$4 USD per 1,000 views. However, brand deals (sponsorships) are where the real money is, often paying 1,000,000 KRW+ even for micro-influencers." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

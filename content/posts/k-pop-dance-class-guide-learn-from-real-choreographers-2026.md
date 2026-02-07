@@ -252,12 +252,3 @@ One of the most stressful parts of a K-Pop class for foreigners is the filming s
 Taking a dance class in Seoul is about more than just exercise; it is about immersing yourself in the discipline and community that built the K-Pop industry. Whether you stumble through the steps or make it into the "Select Group," the sweat and shared energy in that room will be a highlight of your Korean journey.
 
 Prepare your knees, pack your cleanest sneakers, and book that ticket. The studio floor is waiting.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

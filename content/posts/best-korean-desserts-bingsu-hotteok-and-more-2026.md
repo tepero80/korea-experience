@@ -217,12 +217,3 @@ While veganism is growing in Seoul, traditional Korean desserts can be tricky.
 />
 
 Exploring the dessert landscape of Korea is an adventure in texture, temperature, and aesthetics. From the scorching hot syrup of a winter Hotteok to the bone-chilling refreshment of a summer Bingsu, these treats offer a direct line into the heart of modern Korean culture. Whether you are budgeting 5,000 KRW or 50,000 KRW, there is a sweet experience waiting for you around every corner in 2026.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

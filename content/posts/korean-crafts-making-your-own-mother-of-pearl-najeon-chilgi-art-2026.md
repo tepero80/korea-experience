@@ -226,12 +226,3 @@ However, the soul of the craft remains the **patience**. The act of picking up a
 Engaging in **Korean Crafts Making Your Own Mother Of Pearl Najeon Chilgi Art 2026** is more than a pastime; it is a bridge between the regal history of the Joseon Dynasty and the modern creative spirit of Seoul. Whether you spend ₩35,000 or ₩150,000, the value lies in the focus and tranquility you find during the process.
 
 When you hold your finished piece up to the sunlight and see the flash of pink, green, and silver, you aren't just looking at a souvenir. You are looking at a memory of Seoul that will last a lifetime.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

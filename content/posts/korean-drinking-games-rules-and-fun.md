@@ -277,12 +277,3 @@ Whether you are flicking a wire tail off a green bottle cap or anxiously watchin
     { question: "What if I don't know the rules during the game?", answer: "Don't worry! Koreans love teaching foreigners these games. Just ask for a 'practice round' (Game start!) and they will happily demonstrate." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

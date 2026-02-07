@@ -244,12 +244,3 @@ Remember to pack your emergency snacks, download Papago, and carry your allergy 
     { question: "What is the emergency number in Korea?", answer: "119 is for ambulance and fire. Operators usually have translation services available if you have a severe allergic reaction." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

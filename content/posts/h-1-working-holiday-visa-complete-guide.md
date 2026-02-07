@@ -282,12 +282,3 @@ The H-1 Working Holiday Visa is a challenging but rewarding path. It forces you 
     { question: "What happens if I work more than 25 hours?", answer: "If caught, you and your employer will be fined. Repeated offenses can lead to visa cancellation. Immigration performs random crackdowns, especially in areas with many foreigners." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

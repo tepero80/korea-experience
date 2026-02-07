@@ -272,12 +272,3 @@ Doing a hike or walk before the meal helps build the appetite necessary to tackl
 Daegu Makchang is more than just grilled offal; it is a testament to Korean resilience and culinary ingenuity. Turning a discarded cut of meat into a nationally treasured delicacy requires skill, patience, and a culture that values gathering together over a hot grill.
 
 For the international traveler, sitting in Anjirang Alley, surrounded by the clamor of clinking glasses and the aroma of charcoal, offers an authenticity that sophisticated fine dining cannot replicate. It is messy, it is loud, and it is undeniably delicious. When you visit Korea, take the train south, bring your appetite, and discover why Daegu remains the fiery heart of Korean cuisine.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

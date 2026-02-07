@@ -268,12 +268,3 @@ Take the time in January to log into Hometax, check your card spending, and ensu
 <InfoBox type="success" title="Disclaimer">
 This article is for informational purposes only and does not constitute professional financial or legal advice. Tax laws in South Korea are subject to change. Always consult with a certified tax professional or the NTS for your specific situation.
 </InfoBox>
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

@@ -256,12 +256,3 @@ Remember, the schedule is a guideline, not a strict timetable. Technical difficu
     { question: "What happens if it rains?", answer: "Busking is almost immediately cancelled during rain for safety reasons, as the painted road surface becomes extremely slippery for dancers. Indoor activities like Noraebang are better options on rainy days." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

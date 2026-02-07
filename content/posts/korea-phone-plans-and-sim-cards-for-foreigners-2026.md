@@ -215,12 +215,3 @@ While useful, public Wi-Fi is not a substitute for a data plan if you need relia
 />
 
 Navigating the mobile landscape in Korea is the first step toward a successful trip or life abroad. By understanding the distinction between simple traveler connectivity and the complex identity-verification ecosystem for residents, you can choose the plan that saves you both money and headaches. Whether you opt for the premium service of SKT or the budget-friendly savvy of an MVNO, you are now equipped to stay connected in one of the world's most wired nations.
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

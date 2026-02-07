@@ -221,12 +221,3 @@ For the international resident, the 7,890 KRW Wow membership is essentially a "c
     { question: "Can I pay with cash on delivery?", answer: "No. Coupang is a cashless platform. You must use a credit/debit card, bank transfer, or mobile payment." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

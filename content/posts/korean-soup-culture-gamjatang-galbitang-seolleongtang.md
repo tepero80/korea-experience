@@ -242,12 +242,3 @@ By understanding these categories, you can better plan your culinary itinerary. 
 />
 
 Exploring Gamjatang, Galbitang, and Seolleongtang offers more than just sustenance; it provides a deep connection to Korean history and daily life. From the communal bonding over a bubbling pot of pork bones to the solitary ritual of salting your morning ox bone broth, these soups are the true flavor of Korea.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

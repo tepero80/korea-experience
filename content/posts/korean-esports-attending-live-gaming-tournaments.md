@@ -232,12 +232,3 @@ Tickets for ASL are generally easier to acquire than LCK tickets, often availabl
 The energy of a Korean esports crowd is unlike anything else in the sporting world. It is a mix of idol culture fandom and traditional sports hooliganism (minus the violence). By preparing your ticketing accounts early, understanding the geography of Seoul’s gaming districts, and embracing the local PC Bang culture, you can immerse yourself in the digital heart of Korea.
 
 Whether you witness a "Penta Kill" at LoL Park or simply enjoy a late-night gaming session in Hongdae with a bowl of ramyeon, you are participating in a cultural phenomenon that defines modern Korea. Good luck on the Rift, and may your click speed be fast enough to secure that ticket.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

@@ -223,12 +223,3 @@ The fashion cycle in Korea is incredibly fast—trends change every 2-3 weeks. I
     { question: "What are the operating hours for clothing stores?", answer: "Department stores close early (8:00 PM or 8:30 PM). Street shops in Hongdae/Myeongdong stay open until 10:00 PM or 11:00 PM. Dongdaemun is open overnight." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

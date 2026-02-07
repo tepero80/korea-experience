@@ -207,12 +207,3 @@ Before you head to Chuncheon, keep these logistical details in mind to ensure a 
 />
 
 Chuncheon Myeongdong Dakgalbi Street offers a sensory overload of sights, sounds, and flavors that defines the Korean dining experience. It is loud, messy, and incredibly delicious—a perfect day trip for anyone looking to go beyond the boundaries of Seoul.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

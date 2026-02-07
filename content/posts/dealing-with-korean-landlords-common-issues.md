@@ -215,12 +215,3 @@ Remember the golden rule of Korean renting: **Document everything.** A friendly 
     { question: "How do I pay rent if I don't have a Korean bank account yet?", answer: "Most landlords require bank transfers. You can use services like Wise or remit via a friend, but ensure the 'Sender Name' matches the tenant's name on the contract exactly. Inform the landlord immediately if the name differs." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

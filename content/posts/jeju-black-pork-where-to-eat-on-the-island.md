@@ -230,12 +230,3 @@ For food enthusiasts, the price premium is justified by the distinct flavor prof
     { question: "Do I need to tip the staff for grilling the meat?", answer: "No. Tipping is not a custom in South Korea. The service of grilling the meat is included in the premium price of the pork. A simple 'Kamsahamnida' (Thank you) is sufficient." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

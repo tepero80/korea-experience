@@ -218,12 +218,3 @@ The Employer Sponsored Visa E 7 Professional is the backbone of the foreign prof
     { question: "Can I apply for an E-7 visa without a degree?", answer: "It is very difficult. You would need at least 5 years of documented work experience in that specific field. For certain industries like IT, this scrutiny is high." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

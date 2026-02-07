@@ -224,12 +224,3 @@ Choosing between SKT, KT, and LG U Plus ultimately depends on your specific situ
 *   **Choose an MVNO (Budget Phone) if:** You are a resident on a budget, have a Korean friend to help with setup, and don't care about membership perks.
 
 Whichever you choose, you will be connecting to one of the world's most robust digital ecosystems. Welcome to the hyper-connected life in Korea.
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

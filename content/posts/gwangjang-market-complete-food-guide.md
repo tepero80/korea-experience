@@ -242,12 +242,3 @@ If the crowds at Gwangjang are too overwhelming (density often exceeds 4 people 
 />
 
 Gwangjang Market is a rite of passage for any traveler in Korea. It serves as a living museum where the exhibits are edible and the history is still being written, one sizzling pancake at a time. Arrive hungry, bring cash, and don't be afraid to squeeze onto a bench—it's part of the charm.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -234,12 +234,3 @@ As you explore Korea in 2026, do not just treat soup as a prelude. Order it as t
     { question: "What is the best time to eat Samgyetang?", answer: "While traditional on 'Boknal' (hottest days), it is available year-round. It makes an excellent lunch if you have a busy afternoon of sightseeing ahead, as it provides sustained energy without the heavy 'food coma' of greasy foods." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

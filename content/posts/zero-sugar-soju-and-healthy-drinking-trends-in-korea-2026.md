@@ -239,12 +239,3 @@ So, when you raise your glass for a toast of *Gunbae* (Cheers), you can do so kn
     { question: "What is the best food pairing for Zero Sugar Soju?", answer: "Because it has a cleaner, less sweet finish, it pairs exceptionally well with lighter dishes like raw fish (Hwe), grilled clams, or vegetable-heavy stews, rather than just heavy oily pork." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

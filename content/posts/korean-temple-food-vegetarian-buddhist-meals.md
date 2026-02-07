@@ -225,12 +225,3 @@ For the international traveler, it is arguably the most "Korean" meal you can ha
     { question: "Is it gluten-free?", answer: "Not automatically. Soy sauce (*Ganjang*) and soybean paste (*Doenjang*) often contain wheat or are processed in facilities with wheat. Barley is also common. You must communicate gluten allergies clearly." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

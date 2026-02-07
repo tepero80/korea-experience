@@ -232,12 +232,3 @@ Seoul's markets in 2026 offer a dynamic blend of the past and present. Whether y
     { question: "What is the best time of day to visit food markets?", answer: "For atmosphere, 6:00 PM to 8:00 PM is peak dining time. For photography and avoiding crowds, 10:00 AM to 11:00 AM is ideal. Note that Noryangjin is open 24 hours, but the restaurant floor closes around 10:00 PM." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

@@ -253,12 +253,3 @@ Remember to check the machine brand (TJ or KY), look for the English search togg
     { question: "Are microphones wireless?", answer: "Yes, almost exclusively. They run on batteries. If your mic cuts out or the battery icon flashes, call the front desk or look for the battery charging station usually located near the monitor." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

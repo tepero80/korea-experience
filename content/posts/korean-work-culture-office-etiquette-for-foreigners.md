@@ -287,12 +287,3 @@ The keys are humility and observation. When in doubt, bow, smile, and follow the
     { question: "Can I leave work before my boss?", answer: "Ideally, no. If you must leave and they are still working, approach them, bow slightly, and say 'Meonjeo deureogagesseumnida' (I am leaving first/excuse me for leaving first). It acknowledges the breach of protocol." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

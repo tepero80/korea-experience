@@ -215,12 +215,3 @@ The classification of your home country dictates the difficulty of your journey.
 />
 
 Obtaining your Korean driver’s license in 2026 is a rite of passage that offers immense rewards. Whether you are navigating the coastal roads of Gangneung (200km from Seoul) or just doing a Costco run in Gwangmyeong, the license is your key to convenience. While the paperwork—particularly the Apostille—can be tedious, the efficiency of the Korean testing centers makes the actual issuance remarkably fast. Drive safe!
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

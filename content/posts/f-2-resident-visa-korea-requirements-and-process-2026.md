@@ -278,12 +278,3 @@ For F-2 renewals, you must maintain the 80-point threshold. If you age out of th
 />
 
 Navigating the F-2 visa process in 2026 requires diligence, but the reward of stability and freedom in Korea is unmatched. Ensure your documents are immaculate, your taxes are paid, and your points are calculated conservatively. Welcome to your new life in Korea.
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

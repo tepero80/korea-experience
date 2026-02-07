@@ -250,12 +250,3 @@ Buying a car in Korea requires navigating a maze of paperwork and financial chec
     { question: "Can I buy a car on a tourist visa?", answer: "Technically yes, you can buy and own a car, but you cannot register it without an Alien Registration Card (ARC) or a local guarantor, effectively making it impossible for tourists to legally drive their own purchased car." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

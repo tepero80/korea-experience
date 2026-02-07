@@ -214,12 +214,3 @@ Remember that the perfect apartment hunt in Korea is a sprint, not a marathon. U
     { question: "How much money do I need upfront to move in?", answer: "For a standard studio, you need: Deposit (5M-10M KRW) + First Month Rent (600k-900k KRW) + Realtor Fee (300k-500k KRW). Total liquid cash needed is roughly 6 million to 12 million KRW ($4,500 - $9,000 USD)." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

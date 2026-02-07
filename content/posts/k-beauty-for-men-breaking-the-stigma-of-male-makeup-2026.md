@@ -202,12 +202,3 @@ Whether you purchase a simple lip balm at Olive Young or commit to a full groomi
     { question: "Are the men's products actually different from women's?", answer: "Functionally, skincare is unisex. However, products marketed to men in Korea often have lighter textures, faster absorption rates, and oil-control properties to suit thicker, oilier male skin." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

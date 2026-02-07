@@ -215,12 +215,3 @@ Using Wise in Korea is a game-changer for monthly savings or paying bills back h
     { question: "Which Korean bank works best with Wise?", answer: "Most major banks (Shinhan, Woori, Hana, KB) work fine. However, internet-only banks like KakaoBank or Toss Bank offer very easy interface for sending the domestic funding transfer to Wise." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

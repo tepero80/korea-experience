@@ -222,12 +222,3 @@ In 2026, the options are more diverse than ever. Whether you choose the efficien
     { question: "Is coffee included with breakfast meals?", answer: "Generally, no. Traditional restaurants provide water (and sometimes a free sweet mix-coffee machine at the exit). You usually buy your 'real' coffee at a separate cafe after the meal." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

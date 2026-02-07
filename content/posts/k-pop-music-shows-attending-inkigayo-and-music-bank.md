@@ -235,12 +235,3 @@ The "Ending Fairy" (Ending Fairy) culture—where the camera zooms in on one mem
     { question: "What happens if I am late?", answer: "You will be denied entry. Live broadcasts run on a second-by-second schedule. Once the doors close (usually 30 minutes before airtime), no one enters." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

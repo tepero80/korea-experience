@@ -225,12 +225,3 @@ Remember, the NHIS system is linked directly to your visa status. Treating this 
     { question: "How do I print a proof of insurance payment?", answer: "Log in, go to 'Civil Petitions' (민원여기요) > 'Certificate Issuance' (증명서 발급) > 'Payment Confirmation' (납부확인서). You can print this as a PDF in English or Korean." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

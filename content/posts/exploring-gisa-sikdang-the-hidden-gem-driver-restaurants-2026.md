@@ -220,12 +220,3 @@ In 2026, as travel becomes more curated and expensive, these driver restaurants 
     { question: "What is the best time to visit?", answer: "Avoid the peak lunch rush (12:00 PM - 1:00 PM). The sweet spot is 11:00 AM for early lunch or after 1:30 PM. Many are open 24 hours, making them great for late-night meals." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

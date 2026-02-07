@@ -227,12 +227,3 @@ Once you have satisfied your appetite, Sokcho offers stunning natural landscapes
 />
 
 Sokcho’s culinary landscape is a testament to the region's ability to turn hardship into heritage. The combination of the chewy, egg-battered squid and the rich, history-laden Abai sausage creates a flavor profile you cannot find anywhere else in the world. Whether you are a dedicated foodie or a curious traveler, a trip to the East Coast is incomplete without this meal.
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

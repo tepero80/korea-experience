@@ -259,12 +259,3 @@ Navigating the "Dong-office" is a rite of passage for every expat in Korea. It i
     { question: "Does the post office update my address automatically?", answer: "No. Changing your address for immigration does not forward your mail. You must visit the Korea Post website separately for mail forwarding services (costs approx. 7,000 KRW for 3 months)." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Immigration Service](https://www.immigration.go.kr/immigration_eng/index.do) - Visa and immigration information
-- [HiKorea](https://www.hikorea.go.kr) - Government portal for foreign residents
-- [Seoul Metropolitan Government](https://english.seoul.go.kr) - City services for residents and expats
-- [National Health Insurance Service](https://www.nhis.or.kr/english.do) - Health insurance for foreign residents

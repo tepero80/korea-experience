@@ -244,12 +244,3 @@ For energy that radiates from the outside in, the Sulwhasoo Spa in Gangnam offer
 By 2026, the Korean health tonic market has evolved into a sophisticated blend of ancient tradition and modern convenience. Whether you choose the luxury of a CheongKwanJang set, the raw authenticity of Gyeongdong Market roots, or the quick fix of a convenience store Bacchus, you are participating in a culture that deeply values vitality.
 
 The key to buying the right product lies in checking the label for "6-Year-Grown Red Ginseng" and ensuring high ginsenoside content. Invest in your health while in Korea—it is the one souvenir that continues to pay dividends long after your trip has ended. Stay energetic, travel far, and drink up!
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

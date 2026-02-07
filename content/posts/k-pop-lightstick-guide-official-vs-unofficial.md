@@ -212,12 +212,3 @@ Remember the golden rules: buy from certified retailers like WithMuu or Weverse,
     { question: "Are unofficial lightsticks illegal?", answer: "Owning one is not illegal, but selling counterfeit goods is illegal in Korea. Fans generally frown upon using fakes at concerts because it disrupts the visual effects planned by the artists." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

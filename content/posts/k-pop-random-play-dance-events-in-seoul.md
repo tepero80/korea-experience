@@ -253,12 +253,3 @@ By preparing with the right timing, location knowledge, and etiquette, you can t
     { question: "Are there age limits?", answer: "None at all. You will see participants ranging from elementary school students to energetic seniors, though the core demographic is 15-30 years old." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

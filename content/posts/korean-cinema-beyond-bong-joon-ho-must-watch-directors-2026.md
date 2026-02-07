@@ -236,12 +236,3 @@ By exploring the works of Park Chan-wook, Lee Chang-dong, and the rising indie d
     { question: "Are eating and drinking allowed in Korean cinemas?", answer: "Yes, and it is a big part of the culture. You can bring popcorn, squid, nachos, and even beer bought at the concession stand. However, bringing strong-smelling outside food is generally discouraged." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Korean culture, K-Pop, and entertainment guides
-- [Visit Seoul](https://visit.seoul.kr) - Cultural events and experiences in Seoul
-- [Korean Cultural Center](https://www.kocis.go.kr/eng) - Korean culture and arts promotion
-- [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - English-language Korean news and culture coverage

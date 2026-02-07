@@ -201,12 +201,3 @@ The Korean buffet culture all you can eat options provide a unique window into t
     { question: "Is English spoken at these restaurants?", answer: "At luxury hotels, staff speak excellent English. At franchise buffets (Ashley, Dookki, Myeongnyun), staff usually know basic English terms, and ordering is often done via tablet with language options. At local Kisa Sikdangs, expect zero English—use translation apps like Papago." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources

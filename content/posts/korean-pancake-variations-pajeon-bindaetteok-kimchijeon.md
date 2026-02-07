@@ -226,12 +226,3 @@ Whether you are tearing into a thick Pajeon in a university alleyway or enjoying
     { question: "Do Jeon restaurants have vegetarian options?", answer: "It can be tricky. While the names imply vegetables (Green Onion Pancake), many batters use seafood stock or contain hidden shrimp/squid. Gamjajeon (potato) is your safest bet, but always ask if the batter contains meat or seafood stock." }
   ]}
 />
-
----
-
-## Sources
-
-- [Korea Tourism Organization](https://english.visitkorea.or.kr) - Official Korean food and restaurant guides
-- [Visit Seoul](https://english.visitseoul.net) - Seoul dining guides and market information
-- [Michelin Guide Korea](https://guide.michelin.com/kr/en) - Restaurant ratings and reviews for Korea
-- [Korean Food Foundation](https://www.hansik.or.kr) - Traditional Korean cuisine and food culture resources
