@@ -100,7 +100,7 @@ export default function QuickFacts({
   return (
     <div className="my-8 bg-white rounded-2xl border-2 border-gray-200 overflow-hidden shadow-lg">
       <div className="bg-stone-800 px-6 py-4">
-        <h3 className="text-xl font-bold text-white m-0 p-0 border-none flex items-center gap-2">
+        <h3 className="text-xl font-bold text-white m-0 p-0 border-none flex items-center gap-2" style={{ color: 'white' }}>
           <span>📋</span> {title}
         </h3>
       </div>

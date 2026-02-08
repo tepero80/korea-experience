@@ -87,7 +87,7 @@ export default function ComparisonTable({ title, headers, rows, items }: Compari
                 <th 
                   key={index}
                   className="px-4 py-4 text-center text-sm md:text-lg font-black text-white uppercase tracking-wide"
-                  style={{ backgroundColor: 'transparent' }}
+                  style={{ backgroundColor: 'transparent', color: 'white' }}
                 >
                   {header}
                 </th>

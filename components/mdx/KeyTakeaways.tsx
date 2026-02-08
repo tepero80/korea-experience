@@ -31,12 +31,12 @@ export default function KeyTakeaways({
       role="region"
       aria-label="Key Takeaways"
     >
-      {/* Header with gradient */}
+      {/* Header */}
       <div className="bg-stone-800 px-6 py-4">
         <div className="flex items-center justify-between flex-wrap gap-2">
           <div className="flex items-center gap-3">
             <span className="text-2xl">💡</span>
-            <h2 className="text-xl font-bold text-white m-0 p-0 border-none">
+            <h2 className="text-xl font-bold text-white m-0 p-0 border-none" style={{ color: 'white' }}>
               {title}
             </h2>
           </div>
