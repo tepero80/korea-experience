@@ -32,11 +32,11 @@ export default function KeyTakeaways({
       aria-label="Key Takeaways"
     >
       {/* Header */}
-      <div className="bg-stone-800 px-6 py-4">
+      <div className="bg-gradient-to-r from-stone-700 via-stone-800 to-stone-700 px-6 py-3">
         <div className="flex items-center justify-between flex-wrap gap-2">
           <div className="flex items-center gap-3">
             <span className="text-2xl">💡</span>
-            <h2 className="text-xl font-bold text-white m-0 p-0 border-none" style={{ color: 'white' }}>
+            <h2 className="text-xl font-bold text-white m-0 p-0 border-none" style={{ color: 'white', margin: 0, padding: 0, border: 'none', fontSize: '1.25rem' }}>
               {title}
             </h2>
           </div>

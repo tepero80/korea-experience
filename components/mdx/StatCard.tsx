@@ -149,8 +149,8 @@ export default function StatCard({
   return (
     <div className="my-8 bg-white rounded-2xl shadow-lg border border-gray-200 overflow-hidden">
       {title && (
-        <div className="bg-stone-800 px-6 py-4">
-          <h3 className="text-xl font-bold text-white m-0 p-0 border-none flex items-center gap-2" style={{ color: 'white' }}>
+        <div className="bg-gradient-to-r from-stone-700 via-stone-800 to-stone-700 px-6 py-4">
+          <h3 className="text-xl font-bold text-white m-0 p-0 border-none flex items-center gap-2" style={{ color: 'white', margin: 0, padding: 0, border: 'none', fontSize: '1.25rem' }}>
             <span>📊</span> {title}
           </h3>
         </div>

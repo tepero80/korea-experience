@@ -81,12 +81,12 @@ export default function ComparisonTable({ title, headers, rows, items }: Compari
       
       <div className="overflow-x-auto">
         <table className="w-full border-collapse bg-white shadow-lg rounded-lg overflow-hidden">
-          <thead style={{ background: '#292524' }}>
+          <thead style={{ background: 'linear-gradient(to right, #44403c, #292524, #44403c)' }}>
             <tr>
               {resolvedHeaders.map((header, index) => (
                 <th 
                   key={index}
-                  className="px-4 py-4 text-center text-sm md:text-lg font-black text-white uppercase tracking-wide"
+                  className="px-4 py-3 text-center text-sm md:text-lg font-black text-white uppercase tracking-wide"
                   style={{ backgroundColor: 'transparent', color: 'white' }}
                 >
                   {header}

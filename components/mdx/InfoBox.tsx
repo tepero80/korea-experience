@@ -109,7 +109,7 @@ export default function InfoBox({ type, title, children, text, icon }: InfoBoxPr
           >
             {icon || config.icon}
           </span>
-          <h4 className="text-lg font-bold text-white m-0 p-0 border-none" style={{ color: 'white' }}>
+          <h4 className="text-lg font-bold text-white m-0 p-0 border-none" style={{ color: 'white', margin: 0, padding: 0, border: 'none', fontSize: '1.125rem' }}>
             {title || config.defaultTitle}
           </h4>
         </div>

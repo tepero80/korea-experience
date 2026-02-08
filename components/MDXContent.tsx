@@ -150,11 +150,11 @@ const components = {
   ),
   
   thead: (props: any) => (
-    <thead className="bg-stone-800" {...props} />
+    <thead className="bg-gradient-to-r from-stone-700 via-stone-800 to-stone-700 [&_tr]:!bg-transparent [&_tr:hover]:!bg-transparent" {...props} />
   ),
   
   th: (props: any) => (
-    <th className="text-white font-bold px-6 py-4 text-left text-sm uppercase tracking-wide" {...props} />
+    <th className="text-white font-bold px-6 py-3 text-left text-sm md:text-lg uppercase tracking-wide" style={{ color: 'white' }} {...props} />
   ),
   
   td: (props: any) => (
