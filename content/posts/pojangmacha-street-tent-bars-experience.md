@@ -4,6 +4,16 @@ date: 2026-01-26
 excerpt: "Discover the authentic charm of Korea's pojangmacha. A complete guide to tent bar locations, menu prices, etiquette, and tips for 2026."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Banking"
+  - "Budget Travel"
+readTime: "13 min read"
+featured: false
 ---
 
 The sun sets over Seoul, casting long shadows across the Han River. As the gleaming skyscrapers of the financial district dim their lights, a different kind of city awakens at street level. They appear almost magically around 6:00 PM—bright orange tarpaulins, plastic stools, and the savory steam of fish cake soup wafting into the cool night air. These are the **Pojangmacha**, Korea's iconic street tent bars, and they offer one of the most authentic cultural experiences available to international travelers.
@@ -18,7 +28,7 @@ Related reading: [Cocktail bars speakeasies and rooftop lounges in Seoul](/blog/
 
 <KeyTakeaways 
   points={[
-    "Most Pojangmacha are cash-only venues; carry at least 50,000 KRW per person.",
+    "Most Pojangmacha are cash-only venues; carry at least ₩50,000 per person.",
     "Restrooms are rarely on-site; you will rely on nearby subway stations or public toilets.",
     "The iconic Jongno 3-ga area hosts over 50 tents within a 300-meter radius."
   ]}
@@ -43,8 +53,8 @@ Learn more in our comprehensive guide to [Exploring Korea Traditional Market Str
   title="Pojangmacha Economics"
   variant="gradient"
   stats={[
-    { value: "5,000 KRW", label: "Avg Soju Price", icon: "🍾" },
-    { value: "20,000 KRW", label: "Avg Dish Price", icon: "plate" }
+    { value: "₩5,000", label: "Avg Soju Price", icon: "🍾" },
+    { value: "₩20,000", label: "Avg Dish Price", icon: "plate" }
   ]}
   source="Seoul Market Data 2026"
 />
@@ -94,7 +104,7 @@ For a slightly less chaotic experience, the Mapo area provides a great alternati
 
 The menu in a Pojangmacha is vast, but it centers on *Anju*—food specifically meant to be eaten with alcohol. Do not expect a bowl of rice here; this is savory, salty, spicy food designed to cut through the bitterness of Soju.
 
-Most dishes fall into the price range of **15,000 KRW to 25,000 KRW** ($11 to $19 USD).
+Most dishes fall into the price range of **₩15,000 to ₩25,000** ($11 to $19 USD).
 
 <PriceTable
   title="Popular Menu Items & Prices"
@@ -144,7 +154,7 @@ A common misconception among travelers is that street food equates to cheap food
   columns={3}
 />
 
-If you are a group of two, expect to spend roughly **50,000 to 70,000 KRW** ($35 - $50 USD) for two main dishes and two or three bottles of alcohol. This is comparable to, and sometimes more expensive than, a standard brick-and-mortar restaurant. You are paying for the atmosphere and the unique experience.
+If you are a group of two, expect to spend roughly **50,000 to ₩70,000** ($35 - $50 USD) for two main dishes and two or three bottles of alcohol. This is comparable to, and sometimes more expensive than, a standard brick-and-mortar restaurant. You are paying for the atmosphere and the unique experience.
 
 ## Etiquette and Cultural Nuances
 

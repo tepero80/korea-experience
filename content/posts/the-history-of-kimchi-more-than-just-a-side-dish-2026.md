@@ -4,6 +4,16 @@ date: 2026-02-01
 excerpt: "Discover the 3000 year history of kimchi, from ancient preservation to modern superfood. Includes 2026 travel tips, museum guides, and cooking class costs."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "12 min read"
+featured: false
 ---
 
 Kimchi is not merely a fermented vegetable dish; it is the soul of Korean cuisine, a symbol of national identity, and a global superfood that has transcended borders. As we step into 2026, the global fascination with this spicy, tangy staple has reached new heights, yet its profound history remains a mystery to many. To understand Korea is to understand kimchi—a culinary journey that spans over three millennia, surviving wars, modernizing through technology, and retaining its status as a daily necessity on dining tables from Seoul to New York.
@@ -71,7 +81,7 @@ Historically, a single household might prepare 50 to 100 heads of cabbage to las
   source="World Institute of Kimchi 2025 Report"
 />
 
-In 2026, while urbanization has reduced the scale of Kimjang for many city dwellers, the tradition persists. Many families still gather to make smaller batches, while others order "Kimjang kits" online—packages containing salted cabbage and pre-made seasoning—averaging 80,000 KRW (approx. $60 USD) for 10kg.
+In 2026, while urbanization has reduced the scale of Kimjang for many city dwellers, the tradition persists. Many families still gather to make smaller batches, while others order "Kimjang kits" online—packages containing salted cabbage and pre-made seasoning—averaging ₩80,000 (approx. $60 USD) for 10kg.
 
 Related reading: [Why koreans love mbti the psychology behind the trend](/blog/why-koreans-love-mbti-the-psychology-behind-the-trend-2026).
 
@@ -109,7 +119,7 @@ In 2026, kimchi is celebrated globally not just for taste, but for its health be
 A standard serving of properly fermented kimchi contains over 100 million lactic acid bacteria per gram—more than many commercially available yogurts. These probiotics aid digestion, boost the immune system, and are linked to anti-aging properties.
 
 ### The Innovation of the Kimchi Refrigerator
-To maintain the perfect fermentation environment year-round, Korea invented the specialized "Kimchi Refrigerator." Unlike standard fridges that fluctuate in temperature, kimchi refrigerators maintain a precise, constant temperature (usually between -1°C and 0°C) and mimic the environment of the traditional clay pots (*onggi*) buried underground. In 2026, over 90% of Korean households own a specialized kimchi refrigerator, with premium models costing upwards of 3,000,000 KRW ($2,250 USD).
+To maintain the perfect fermentation environment year-round, Korea invented the specialized "Kimchi Refrigerator." Unlike standard fridges that fluctuate in temperature, kimchi refrigerators maintain a precise, constant temperature (usually between -1°C and 0°C) and mimic the environment of the traditional clay pots (*onggi*) buried underground. In 2026, over 90% of Korean households own a specialized kimchi refrigerator, with premium models costing upwards of ₩3,000,000 ($2,250 USD).
 
 Related reading: [Stand up comedy in Seoul English shows venues and tickets](/blog/stand-up-comedy-in-seoul-english-shows).
 
@@ -180,7 +190,7 @@ Bringing kimchi home is a popular souvenir choice. However, because kimchi conti
 </InfoBox>
 
 **Where to Buy:**
-1.  **Department Stores (Lotte, Shinsegae):** High-end, premium ingredients. They offer professional vacuum packing services for travel (cost: approx. 2,000 KRW per pack).
+1.  **Department Stores (Lotte, Shinsegae):** High-end, premium ingredients. They offer professional vacuum packing services for travel (cost: approx. ₩2,000 per pack).
 2.  **Duty-Free Shops:** Convenient but limited variety. Prices are roughly 15-20% higher than local marts.
 3.  **Local Marts (Emart, Lotte Mart):** Best value. Look for brands like *Jongga* or *Bibigo*.
 

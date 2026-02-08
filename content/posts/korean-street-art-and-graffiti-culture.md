@@ -4,6 +4,16 @@ date: 2026-01-20
 excerpt: "Discover the vibrant world of Korean street art, from the legal graffiti tunnels of Apgujeong to the controversial history of Ihwa Mural Village."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "10 min read"
+featured: false
 ---
 
 When travelers picture South Korea, the image often oscillates between the ancient curves of Gyeongbokgung Palace and the futuristic LED glow of Gangnam skyscrapers. However, nestled in the forgotten alleyways, industrial complexes, and riverside tunnels lies a vibrant, rebellious, and increasingly sophisticated subculture: Korean street art and graffiti.
@@ -15,7 +25,7 @@ You might also enjoy our article about [Korean street art and graffiti culture i
 <KeyTakeaways 
   points={[
     "Seoul features over 100 distinct mural villages and graffiti zones",
-    "Fines for illegal graffiti can reach 20 million KRW ($15,000 USD)",
+    "Fines for illegal graffiti can reach ₩20 million ($15,000 USD)",
     "Hongdae and Seongsu-dong are the top hubs for urban art hunting"
   ]}
   readTime={12}
@@ -69,7 +79,7 @@ Walking through Hongdae isn't just about seeing art; it's about the atmosphere. 
 </InfoBox>
 
 ### What to Expect in Hongdae
-The journey usually starts from Hongik University Station Exit 9. As you navigate the winding backstreets behind the university, you'll encounter layers of wheat paste posters, sticker art, and elaborate spray-paint pieces. The average cost for a coffee in this area is **6,000 KRW ($4.50 USD)**, and street food snacks like *Tteokbokki* run about **4,000 KRW ($3.00 USD)**.
+The journey usually starts from Hongik University Station Exit 9. As you navigate the winding backstreets behind the university, you'll encounter layers of wheat paste posters, sticker art, and elaborate spray-paint pieces. The average cost for a coffee in this area is **₩6,000 ($4.50 USD)**, and street food snacks like *Tteokbokki* run about **₩4,000 ($3.00 USD)**.
 
 ## Mullae Art Village: Steel and Spray Paint
 
@@ -152,14 +162,14 @@ This tunnel stretches approximately **300 meters**. It is one of the few "legal 
 It is crucial for visitors to understand the legal severity of graffiti in South Korea. Unlike in some European cities where tagging might result in a slap on the wrist, Korea treats unsanctioned graffiti as "Damage to Property."
 
 <InfoBox type="danger" title="Legal Warning">
-  Creating unsanctioned graffiti in South Korea can lead to fines up to <strong>20 million KRW ($15,000 USD)</strong> or up to <strong>3 years in prison</strong>. Deportation is also a very real possibility for foreigners caught tagging.
+  Creating unsanctioned graffiti in South Korea can lead to fines up to <strong>₩20 million ($15,000 USD)</strong> or up to <strong>3 years in prison</strong>. Deportation is also a very real possibility for foreigners caught tagging.
 </InfoBox>
 
 In 2018, a tourist was arrested for spray-painting a subway train, resulting in a significant fine and an immediate ban from re-entering the country. The country utilizes an extensive network of CCTV cameras—over **1.3 million** operate publicly across the nation—making it nearly impossible to paint illegally without being tracked.
 
 ## Festivals and DIY Experiences
 
-If you want to get involved, do it legally. South Korea hosts several urban art festivals. "Urban Break" is the largest, usually held at the COEX Convention Center in July or August. Tickets typically cost around **20,000 KRW ($15 USD)**.
+If you want to get involved, do it legally. South Korea hosts several urban art festivals. "Urban Break" is the largest, usually held at the COEX Convention Center in July or August. Tickets typically cost around **₩20,000 ($15 USD)**.
 
 For a hands-on experience, you can visit graffiti workshops. One popular option is **Paint Rabbit** in Hongdae or Seongsu, where you are given a protective suit, goggles, and spray paints to unleash your creativity on a designated wall or canvas.
 
@@ -177,7 +187,7 @@ For a hands-on experience, you can visit graffiti workshops. One popular option 
 
 1.  **Best Time to Visit:** Spring (April-May) and Autumn (September-October) offer the best weather for walking tours. Summer temperatures often exceed **30°C (86°F)** with high humidity, making mural hunting exhausting.
 2.  **Navigation:** Google Maps is often inaccurate in Korea. Download **Naver Map** or **KakaoMap**. Search for "Mural Village" or "Byeokhwa Maeul" (벽화마을).
-3.  **Connectivity:** Ensure you have a SIM card or Pocket Wi-Fi. Uploading high-res photos of murals consumes data quickly. A 5-day unlimited data SIM usually costs around **27,000 KRW ($20 USD)**.
+3.  **Connectivity:** Ensure you have a SIM card or Pocket Wi-Fi. Uploading high-res photos of murals consumes data quickly. A 5-day unlimited data SIM usually costs around **₩27,000 ($20 USD)**.
 
 ## Conclusion
 
@@ -188,7 +198,7 @@ Just remember: look with your eyes, capture with your camera, but unless you are
 <FAQAccordion
   title="Frequently Asked Questions"
   items={[
-    { question: "Is graffiti legal in South Korea?", answer: "Generally, no. Unsanctioned graffiti is considered property damage and carries heavy fines (up to 20M KRW) and potential jail time. Only paint in designated legal zones or workshops." },
+    { question: "Is graffiti legal in South Korea?", answer: "Generally, no. Unsanctioned graffiti is considered property damage and carries heavy fines (up to 20M ₩) and potential jail time. Only paint in designated legal zones or workshops." },
     { question: "Where is the best place to see street art in Seoul?", answer: "Hongdae (Picasso Street) for youth culture, Mullae Art Village for industrial vibes, and Seongsu-dong for large-scale commercial murals." },
     { question: "Are the mural villages free to visit?", answer: "Yes, almost all mural villages like Ihwa and Mullae are public residential areas and are free to enter. However, you should respect the residents' privacy." },
     { question: "How much time should I allocate for Ihwa Mural Village?", answer: "Plan for about 1.5 to 2 hours. This includes the 20-minute uphill walk from the station, time to explore the alleys, and a stop at a cafe with a view." },

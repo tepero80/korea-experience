@@ -32,13 +32,13 @@ Korean men’s grooming products have evolved from niche curiosity to a global p
 ## The Rise of K-Grooming: Why Korean Men Care
 Historically, Korean men have been some of the world's highest per-capita spenders on skincare. In 2026, this trend has only accelerated. Walk through the streets of Gangnam or Hongdae, and you will notice that the "groomed" look is the standard, not the exception. This isn't just about vanity; it is deeply rooted in the concept of *kwan-ri* (self-management). Clear skin and neat hair imply that a man is disciplined and takes care of his life.
 
-Recent market data from early 2026 suggests the South Korean male grooming market is valued at over 1.5 trillion KRW (approximately $1.1 billion USD). Unlike Western markets where grooming is often limited to shaving and showering, the Korean approach is holistic. It involves barrier protection, UV defense, and subtle color correction.
+Recent market data from early 2026 suggests the South Korean male grooming market is valued at over 1.5 trillion won (approximately $1.1 billion USD). Unlike Western markets where grooming is often limited to shaving and showering, the Korean approach is holistic. It involves barrier protection, UV defense, and subtle color correction.
 
 <StatCard
   title="Men's Beauty Market 2026"
   variant="gradient"
   stats={[
-    { value: "1.5T", label: "Market Size (KRW)", icon: "💰" },
+    { value: "1.5T", label: "Market Size (₩)", icon: "💰" },
     { value: "45%", label: "Use Color Makeup", icon: "🎨" }
   ]}
   source="K-Beauty Industry Report 2026"

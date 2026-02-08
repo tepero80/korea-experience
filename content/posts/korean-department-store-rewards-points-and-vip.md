@@ -22,7 +22,7 @@ Understanding the loyalty landscape of Korea’s "Big Three" department stores�
   points={[
     "Tourists should prioritize Instant Tax Refunds (6-8% return) over point accumulation (0.1-1% return).",
     "Full membership apps (L.Point, Shinsegae, H.Point) strictly require an ARC and Korean mobile number.",
-    "Entry-level VIP status starts at roughly 4 million KRW annual spend at Shinsegae (Red Grade).",
+    "Entry-level VIP status starts at roughly ₩4 million annual spend at Shinsegae (Red Grade).",
     "VIP perks include free parking, valet service, and access to private lounges with complimentary refreshments."
   ]}
   readTime={15}
@@ -33,7 +33,7 @@ Understanding the loyalty landscape of Korea’s "Big Three" department stores�
 
 In South Korea, department stores are not merely places to buy clothes; they are cultural behemoths that anchor the lifestyle of the upper-middle class. In 2026, the sector is dominated by three giants: Lotte, Shinsegae, and Hyundai.
 
-The scale of these operations is massive. Shinsegae Gangnam, for instance, became the first single department store location in the world to surpass 3 trillion KRW (approx. $2.3 billion USD) in annual sales. Because the spending volume is so high, the rewards programs are aggressively tiered to retain high-net-worth individuals.
+The scale of these operations is massive. Shinsegae Gangnam, for instance, became the first single department store location in the world to surpass 3 trillion won (approx. $2.3 billion USD) in annual sales. Because the spending volume is so high, the rewards programs are aggressively tiered to retain high-net-worth individuals.
 
 For the international traveler or expat, the primary challenge is digital identity. Korea’s online ecosystem relies heavily on "Real Name Verification" tied to a domestic phone number.
 
@@ -84,7 +84,7 @@ Lotte is the most ubiquitous brand, with locations ranging from the luxury flags
 ### The Ecosystem
 L.Point is powerful because it connects the entire Lotte conglomerate: Lotte Mart (groceries), Lotte Cinema, Lotte Hotels, and Lotte World Tower.
 *   **Accumulation Rate:** Generally 0.1% to 0.5% depending on payment method.
-*   **Value:** 1 Point = 1 KRW. Usable like cash at checkout once you have over 10 points (varies by merchant).
+*   **Value:** 1 Point = ₩1. Usable like cash at checkout once you have over 10 points (varies by merchant).
 
 ### Lotte MVG (Most Valuable Guest) Tiers
 Lotte’s VIP system is traditionally called MVG, though rebranding to "Avenuel" for top tiers is common.
@@ -92,7 +92,7 @@ Lotte’s VIP system is traditionally called MVG, though rebranding to "Avenuel"
     *   *Benefits:* 3 hours free parking, access to the "Ace Lounge" (takeout coffee/snacks).
 2.  **Crown:** Requires approx. ₩20,000,000 spend.
     *   *Benefits:* Valet parking, Crown Lounge access (seated service).
-3.  **Prestige & Lenith:** The top tiers requiring ₩50,000,000 to 100,000,000+ KRW.
+3.  **Prestige & Lenith:** The top tiers requiring ₩50,000,000 to ₩100,000,000.
     *   *Benefits:* Private personal shoppers, invite-only events, luxury lounge access.
 
 <LocationCard
@@ -208,7 +208,7 @@ Department stores in Korea host "Culture Centers" (Munhwa Center) offering class
     "Cleanest restrooms in the city are often inside VIP lounges"
   ]}
   cons={[
-    "Requires massive spending (4M+ KRW) for entry-level perks",
+    "Requires massive spending (4M+ ₩) for entry-level perks",
     "Points expire (usually after 2-5 years)",
     "Strictly requires ARC for full benefits"
   ]}

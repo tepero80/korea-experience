@@ -30,7 +30,7 @@ Ascending Namsan Tower for golden hour is an absolute must for any photographer.
     *   **Love Locks:** The famous 'Love Lock' fences around the tower are also popular. Capture the intricate locks bathed in golden light, symbolizing enduring affection.
 *   **Practical Information:**
     *   **Getting There:** Take the Namsan Cable Car from Myeongdong, or a Namsan Sunhwan Shuttle Bus (routes 01, 02, 03, 05) from various subway stations. Walking up from Namsan Park is also an option for those seeking a more scenic route, but be prepared for an uphill climb.
-    *   **Cost:** Cable car ticket (around 11,000 KRW round trip), Namsan Tower observation deck ticket (around 16,000 KRW). Prices are subject to change, so check their official website for 2026 rates.
+    *   **Cost:** Cable car ticket (around ₩11,000 round trip), Namsan Tower observation deck ticket (around ₩16,000). Prices are subject to change, so check their official website for 2026 rates.
     *   **Crowd Level:** Expect significant crowds, especially on weekends and holidays. Arrive early to secure a good spot.
 *   **Insider Tip:** While the main observation decks are fantastic, don't overlook the outdoor terraces for unique angles and a chance to include the actual tower structure in your golden hour frame.
 
@@ -82,7 +82,7 @@ Gyeongbokgung Palace is the largest and most impressive of Seoul's Five Grand Pa
     *   **Architectural Details:** Focus on the intricate Dancheong (traditional Korean decorative coloring on wooden buildings) patterns and rooflines as the light enhances their colors.
 *   **Practical Information:**
     *   **Getting There:** Gyeongbokgung Station (Subway Line 3, Exit 5) or Gwanghwamun Station (Subway Line 5, Exit 2).
-    *   **Cost:** General admission is around 3,000 KRW. Special night openings may have separate ticketing. Always check the official cultural heritage administration website for 2026 schedules and pricing.
+    *   **Cost:** General admission is around ₩3,000. Special night openings may have separate ticketing. Always check the official cultural heritage administration website for 2026 schedules and pricing.
     *   **Crowd Level:** Very popular, expect crowds even during late afternoon.
 *   **Insider Tip:** Rent a *Hanbok* (traditional Korean dress) for your photoshoot. Wearing a *Hanbok* grants free entry to the palaces, and the vibrant colors truly pop against the golden light and traditional architecture.
 
@@ -131,7 +131,7 @@ Lotte World Tower stands as a beacon of modern Seoul, piercing the sky at 555 me
     *   **Shadow Play:** Look for the long shadows cast by other buildings during the golden hour, creating interesting geometric patterns.
 *   **Practical Information:**
     *   **Getting There:** Jamsil Station (Subway Line 2, 8) connects directly to Lotte World Tower and Mall.
-    *   **Cost:** Seoul Sky tickets are around 27,000-30,000 KRW, depending on the booking method. Booking in advance online is highly recommended, especially for popular golden hour slots, as they can sell out.
+    *   **Cost:** Seoul Sky tickets are around ₩27,000 - ₩30,000, depending on the booking method. Booking in advance online is highly recommended, especially for popular golden hour slots, as they can sell out.
     *   **Crowd Level:** Very popular, especially around sunset. Expect queues for elevators.
 *   **Insider Tip:** The "Sky Bridge" or "Glass Floor" experiences offer unique, thrilling photo opportunities, but be mindful of reflections on the glass. Consider a circular polarizer filter to minimize glare.
 

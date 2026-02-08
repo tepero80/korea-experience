@@ -4,6 +4,16 @@ date: 2026-01-16
 excerpt: "Discover the deep flavors of Cheonggukjang, Jeotgal, and Jangajji. A comprehensive guide to Korea's lesser-known fermented treasures for foodies."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "10 min read"
+featured: false
 ---
 
 When international travelers think of Korean cuisine, the "Holy Trinity" of fermentation—Kimchi, Doenjang (soybean paste), and Gochujang (red chili paste)—dominates the conversation. While these three pillars are fundamental, they represent only a fraction of Korea's fermentation universe, known locally as *balhyo*. In 2025, culinary surveys indicated that while 98% of tourists try kimchi, fewer than 15% venture into the deeper, more pungent, and often more medicinal world of Korea's other fermented specialties.
@@ -88,7 +98,7 @@ While you can find it in supermarkets, the best Cheonggukjang is found in specia
 />
 
 ### The Culinary Usage
-In contemporary Seoul dining, chefs are elevating Jeotgal beyond a simple side dish. You will now find Myeongnan pasta in Gangnam cafes priced around 18,000 KRW to 24,000 KRW, or *Saeu-jeot* (salted shrimp) used to season premium pork belly at BBQ restaurants.
+In contemporary Seoul dining, chefs are elevating Jeotgal beyond a simple side dish. You will now find Myeongnan pasta in Gangnam cafes priced around ₩18,000 to ₩24,000, or *Saeu-jeot* (salted shrimp) used to season premium pork belly at BBQ restaurants.
 
 <ExpertTip 
   author="Chef Park Min-su"
@@ -128,7 +138,7 @@ No discussion of Korean fermentation is complete without the liquid courage that
 Unlike Soju, which is distilled, Makgeolli is brewed using *Nuruk*—a fermentation starter cake made of wheat, rice, and water containing wild yeasts, molds, and bacteria. This complex microbial ecosystem gives Makgeolli its signature flavor profile: sweet, sour, bitter, and astringent.
 
 ### The Makgeolli Renaissance
-Ten years ago, a bottle of Makgeolli in a convenience store cost 1,200 KRW ($0.90 USD). While those budget options still exist, the market has exploded with premium artisanal brews. Craft Makgeolli bars in neighborhoods like Hongdae and Seongsu now serve bottles aged for 30 to 90 days, with prices ranging from 15,000 KRW to over 80,000 KRW ($11 - $60 USD).
+Ten years ago, a bottle of Makgeolli in a convenience store cost ₩1,200 ($0.90 USD). While those budget options still exist, the market has exploded with premium artisanal brews. Craft Makgeolli bars in neighborhoods like Hongdae and Seongsu now serve bottles aged for 30 to 90 days, with prices ranging from ₩15,000 to over ₩80,000 ($11 - $60 USD).
 
 <StatCard
   title="Makgeolli Market Trends"
@@ -168,7 +178,7 @@ The most famous is *Maesil-cheong* (Green Plum Syrup). It is a household essenti
 For travelers wishing to bring these fermented goods back to their home countries, careful planning is required. Fermented foods are "alive," meaning they can produce gas and expand during flight.
 
 ### Packing Guidelines
-1.  **Vacuum Seal:** Always ask the vendor for "Vacuum po-jang" (vacuum packing). Most traditional markets charge 1,000 KRW to 2,000 KRW for this service.
+1.  **Vacuum Seal:** Always ask the vendor for "Vacuum po-jang" (vacuum packing). Most traditional markets charge ₩1,000 to ₩2,000 for this service.
 2.  **Hard Containers:** For Jeotgal or soybean pastes, transfer vacuum-sealed bags into hard plastic Tupperware to prevent crushing.
 3.  **Check-in Luggage:** Pastes and liquids (including moist kimchi and jeotgal) exceeding 100ml are strictly prohibited in carry-on bags at Incheon International Airport. You must check them in.
 

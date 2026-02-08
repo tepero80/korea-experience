@@ -74,7 +74,7 @@ Recovery from non-incisional double eyelid surgery is generally quick and manage
 
 ### Cost Considerations for Non-Incisional Surgery in Korea
 
-The cost of non-incisional double eyelid surgery in Korea varies based on the clinic's reputation, the surgeon's experience, and the complexity of the individual case. On average, you can expect prices to range from **1,500,000 KRW to 3,000,000 KRW (approximately 1,100 - 2,200 USD)**. It's important to remember these are estimates, and a personalized quote will be provided after an in-depth consultation. (For more details on medical tourism budgeting, consider reading our guide on financing your trip to Korea).
+The cost of non-incisional double eyelid surgery in Korea varies based on the clinic's reputation, the surgeon's experience, and the complexity of the individual case. On average, you can expect prices to range from **₩1,500,000 to ₩3,000,000 (approximately 1,100 - 2,200 USD)**. It's important to remember these are estimates, and a personalized quote will be provided after an in-depth consultation. (For more details on medical tourism budgeting, consider reading our guide on financing your trip to Korea).
 
 ## The Incisional Double Eyelid Method (Full Incision Method)
 
@@ -121,7 +121,7 @@ Recovery from incisional double eyelid surgery is longer than the non-incisional
 
 ### Cost Considerations for Incisional Surgery in Korea
 
-Incisional double eyelid surgery typically ranges from **2,000,000 KRW to 4,000,000 KRW (approximately 1,500 - 3,000 USD)** in Korea. The price can be higher if combined with other procedures like ptosis correction or fat repositioning. These figures are estimates and will vary by clinic and individual case complexity.
+Incisional double eyelid surgery typically ranges from **₩2,000,000 to ₩4,000,000 (approximately 1,500 - 3,000 USD)** in Korea. The price can be higher if combined with other procedures like ptosis correction or fat repositioning. These figures are estimates and will vary by clinic and individual case complexity.
 
 ## Partial Incisional Double Eyelid Method: A Middle Ground
 
@@ -204,9 +204,9 @@ Many top clinics catering to international patients offer dedicated patient coor
 
 Seoul's **Gangnam** and **Apgujeong** districts are the heart of Korea's plastic surgery industry, featuring hundreds of renowned clinics. When budgeting, consider these general estimated price ranges (in Korean Won and approximate USD, subject to fluctuation):
 
-*   **Non-Incisional Double Eyelid Surgery:** 1,500,000 KRW - 3,000,000 KRW (approx. 1,100 USD - 2,200 USD)
-*   **Partial Incisional Double Eyelid Surgery:** 1,800,000 KRW - 3,500,000 KRW (approx. 1,350 USD - 2,600 USD)
-*   **Incisional Double Eyelid Surgery:** 2,000,000 KRW - 4,000,000 KRW (approx. 1,500 USD - 3,000 USD)
+*   **Non-Incisional Double Eyelid Surgery:** ₩1,500,000 - ₩3,000,000 (approx. 1,100 USD - 2,200 USD)
+*   **Partial Incisional Double Eyelid Surgery:** ₩1,800,000 - ₩3,500,000 (approx. 1,350 USD - 2,600 USD)
+*   **Incisional Double Eyelid Surgery:** ₩2,000,000 - ₩4,000,000 (approx. 1,500 USD - 3,000 USD)
 *   *Note: Prices can increase if combined with other procedures like ptosis correction, epicanthoplasty, or lateral canthoplasty.*
 
 ## Double Eyelid Surgery Techniques Comparison
@@ -222,7 +222,7 @@ To further clarify the distinctions, here are detailed comparison tables summari
 | **Scarring**      | Virtually no visible external scar                                   | Fine incision line, fades significantly over time                     |
 | **Longevity**     | Good, but can loosen or fade over time; potentially reversible        | Permanent and stable                                                  |
 | **Recovery Time** | Faster (1-2 weeks initial, 1-3 months final)                         | Longer (2-4 weeks initial, 3-6 months+ final)                         |
-| **Cost (KRW)**    | 1,500,000 - 3,000,000                                                | 2,000,000 - 4,000,000                                                 |
+| **Cost (₩)**    | 1,500,000 - 3,000,000                                                | 2,000,000 - 4,000,000                                                 |
 | **Fat/Skin Removal** | No                                                                   | Yes, allows for significant removal                                   |
 | **Suitability**   | Thin eyelids, minimal fat/skin, younger patients, natural look        | Thick eyelids, excess fat/skin, older patients, definitive crease     |
 

@@ -116,7 +116,7 @@ For the traveler with limited luggage space and a strict budget, you likely only
 
 ## Where to Buy for the Best Value in 2026
 
-Pricing in Korea is vastly different from pricing at Sephora in the US or luxury retailers in Europe. Due to the weak Korean Won (KRW) against the USD in early 2026, buying locally is a financial no-brainer.
+Pricing in Korea is vastly different from pricing at Sephora in the US or luxury retailers in Europe. Due to the weak Korean Won (₩) against the USD in early 2026, buying locally is a financial no-brainer.
 
 ### 1. Duty-Free Shops (The Best Value)
 Locations like **Lotte Duty-Free** (Myeongdong) or **The Shilla Duty-Free** (Jangchung-dong) offer the lowest base prices.

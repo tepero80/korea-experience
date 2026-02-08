@@ -176,8 +176,8 @@ If you are buying a single toner, go to Olive Young. If you are buying a 6-month
 
 ### 1. Currency Matters
 Shinsegae charges in US Dollars (USD), but your credit card will convert it.
-*   **Pro Tip:** If your credit card asks "Pay in KRW or USD?", choose **USD** at Duty Free shops to avoid Double Dynamic Currency Conversion (DCC), although the base currency of the store is technically USD.
-*   *Note:* Exchange rates are set daily. If the KRW is weak against the USD, locals stop shopping at Duty Free, but it makes little difference to tourists whose home currency is USD.
+*   **Pro Tip:** If your credit card asks "Pay in won (₩) or USD?", choose **USD** at Duty Free shops to avoid Double Dynamic Currency Conversion (DCC), although the base currency of the store is technically USD.
+*   *Note:* Exchange rates are set daily. If the won is weak against the USD, locals stop shopping at Duty Free, but it makes little difference to tourists whose home currency is USD.
 
 ### 2. Time Your Visit
 The Myeongdong store opens at 10:30 AM. Arriving at 10:40 AM guarantees a peaceful 45 minutes before the tour buses arrive at 11:30 AM. The lunch rush clears out around 2:00 PM, but stock on popular items (like specific lip tint shades) might be depleted by then.

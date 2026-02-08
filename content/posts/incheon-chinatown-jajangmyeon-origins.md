@@ -4,6 +4,16 @@ date: 2026-01-11
 excerpt: "Discover the savory history of Jajangmyeon in Incheon Chinatown. Explore the origins, top restaurants like Gonghwachun, and the Jajangmyeon Museum."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 Every day, over 7 million bowls of Jajangmyeon are consumed across South Korea, making it arguably the nation's most beloved comfort food. Yet, this iconic dish—characterized by its thick, savory black bean sauce and chewy noodles—is not traditionally Korean in the strictest sense, nor is it entirely Chinese. To understand the soul of this dish, one must travel 40 kilometers west of Seoul to Incheon, specifically to the vibrant streets of South Korea's only official Chinatown.
@@ -15,7 +25,7 @@ Related reading: [Korean Noodle Guide Naengmyeon Jajangmyeon Kalguksu](/blog/kor
 <KeyTakeaways 
   points={[
     "Jajangmyeon originated in Incheon Chinatown around 1905 at a restaurant named Gonghwachun",
-    "The Jajangmyeon Museum offers a 60-minute historical tour for just 1,000 KRW admission",
+    "The Jajangmyeon Museum offers a 60-minute historical tour for just ₩1,000 admission",
     "Mandabok serves the unique 100-year-old White Jajang style not found elsewhere"
   ]}
   readTime={12}
@@ -57,14 +67,14 @@ The restaurant operated successfully for decades, becoming a landmark of Incheon
 <QuickFacts
   title="Jajangmyeon Museum Essentials"
   facts={[
-    { label: "Admission", value: "1,000 KRW", icon: "🎟️" },
+    { label: "Admission", value: "₩1,000", icon: "🎟️" },
     { label: "Hours", value: "09:00 - 18:00", icon: "⏰" },
     { label: "Closed", value: "Mondays", icon: "📅" }
   ]}
   columns={3}
 />
 
-The museum is a two-story brick building located just 250 meters from the Chinatown main gate. It meticulously recreates the kitchen and dining rooms of the 1930s. Exhibits display the evolution of "chunjang" (black bean paste), the types of flour used, and the fluctuating price of Jajangmyeon over the last century—from 15 KRW in the 1960s to an average of 7,000 KRW in 2026.
+The museum is a two-story brick building located just 250 meters from the Chinatown main gate. It meticulously recreates the kitchen and dining rooms of the 1930s. Exhibits display the evolution of "chunjang" (black bean paste), the types of flour used, and the fluctuating price of Jajangmyeon over the last century—from ₩15 in the 1960s to an average of ₩7,000 in 2026.
 
 <ExpertTip 
   author="Kim Min-ji"
@@ -83,10 +93,10 @@ Incheon Chinatown is not a place for a singular culinary experience. The restaur
   title="Jajangmyeon Varieties Guide"
   headers={["Type", "Characteristics", "Best For", "Avg Price"]}
   rows={[
-    { feature: "Standard Jajang", option1: "Starchy, pre-cooked sauce", option2: "Quick lunch", option3: "7,000 KRW" },
-    { feature: "Ganjajang", option1: "Sauce stir-fried to order, no water added", option2: "Texture lovers", option3: "9,000 KRW" },
-    { feature: "Uni-Jajang", option1: "Minced meat and vegetables", option2: "Softer texture", option3: "10,000 KRW" },
-    { feature: "Baek-Jajang", option1: "White soybean paste (original style)", option2: "History buffs", option3: "11,000 KRW" }
+    { feature: "Standard Jajang", option1: "Starchy, pre-cooked sauce", option2: "Quick lunch", option3: "₩7,000" },
+    { feature: "Ganjajang", option1: "Sauce stir-fried to order, no water added", option2: "Texture lovers", option3: "₩9,000" },
+    { feature: "Uni-Jajang", option1: "Minced meat and vegetables", option2: "Softer texture", option3: "₩10,000" },
+    { feature: "Baek-Jajang", option1: "White soybean paste (original style)", option2: "History buffs", option3: "₩11,000" }
   ]}
 />
 
@@ -154,7 +164,7 @@ Eating Jajangmyeon is a ritual. The sensory experience begins the moment the bow
 />
 
 ### Side Dishes to Pair
-You rarely order Jajangmyeon alone. The classic pairing is **Tangsuyuk** (Sweet and Sour Pork). Incheon Chinatown is famous for a crispier, glutinous rice version of this dish, often called *Guobaorou* style. Another essential side is **Gun-mandu** (Fried Dumplings), which are often provided as "service" (free of charge) for large group orders, though in Chinatown, you usually have to pay for high-quality handmade ones (approx. 8,000 KRW for 8 pieces).
+You rarely order Jajangmyeon alone. The classic pairing is **Tangsuyuk** (Sweet and Sour Pork). Incheon Chinatown is famous for a crispier, glutinous rice version of this dish, often called *Guobaorou* style. Another essential side is **Gun-mandu** (Fried Dumplings), which are often provided as "service" (free of charge) for large group orders, though in Chinatown, you usually have to pay for high-quality handmade ones (approx. ₩8,000 for 8 pieces).
 
 ## Travel Logistics: Visiting Incheon Chinatown
 
@@ -213,7 +223,7 @@ When you visit Incheon Chinatown, you aren't just eating lunch. You are tasting 
   items={[
     { question: "Is Jajangmyeon spicy?", answer: "No, standard Jajangmyeon is savory and slightly sweet. However, 'Sacheon Jajang' is a variation that includes chili oil and is quite spicy." },
     { question: "Can vegetarians eat Jajangmyeon?", answer: "Traditionally, the sauce is made with pork fat (lard) and minced pork. You must specifically look for restaurants offering 'Vegetarian Jajang' or ask if their sauce contains meat, though fully vegetarian options are rare in traditional shops." },
-    { question: "How far is Incheon Chinatown from Incheon Airport?", answer: "It is relatively close. A taxi takes about 30-40 minutes (approx. 30,000 KRW). By public transport, take the Airport Railroad to Geomam, then transfer to Incheon Subway Line 2, taking about 60 minutes total." },
+    { question: "How far is Incheon Chinatown from Incheon Airport?", answer: "It is relatively close. A taxi takes about 30-40 minutes (approx. ₩30,000). By public transport, take the Airport Railroad to Geomam, then transfer to Incheon Subway Line 2, taking about 60 minutes total." },
     { question: "Do the restaurants accept credit cards?", answer: "Yes, almost all established restaurants in Incheon Chinatown accept international credit cards (Visa/Mastercard). Street food vendors, however, usually require cash." },
     { question: "What is the best time of year to visit?", answer: "Spring (April-May) and Autumn (September-October) are ideal. The weather is perfect for the walking tour, and the humidity is lower than in summer." }
   ]}

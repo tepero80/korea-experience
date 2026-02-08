@@ -4,6 +4,16 @@ date: 2026-01-13
 excerpt: "A complete breakdown of Korea medical tourism packages for 2026. Discover costs, inclusions from surgery to accommodation, and hidden fees."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Banking"
+  - "Botox"
+readTime: "14 min read"
+featured: false
 ---
 
 <InfoBox type="warning" title="Medical Disclaimer">
@@ -42,14 +52,14 @@ When you see a "Medical Tourism Package" advertised for 2026, it is rarely a fix
 
 ### 1. The Core Medical Component
 This is the anchor of the package. In 2026, pricing transparency is strictly enforced by the Korean government. The medical portion covers:
-*   **Pre-op Consultation:** Comprehensive analysis (CT scans, X-rays, or 3D skin analysis). A standalone CT scan can cost between 50,000 and 150,000 KRW, but is included here.
-*   **The Procedure:** The surgery or treatment itself, including anesthesia fees (local or sedation). General anesthesia often incurs an additional surcharge of 200,000 to 500,000 KRW if not explicitly bundled.
+*   **Pre-op Consultation:** Comprehensive analysis (CT scans, X-rays, or 3D skin analysis). A standalone CT scan can cost between 50,000 and ₩150,000, but is included here.
+*   **The Procedure:** The surgery or treatment itself, including anesthesia fees (local or sedation). General anesthesia often incurs an additional surcharge of 200,000 to ₩500,000 if not explicitly bundled.
 *   **Doctor's Fee:** The surgeon's honorarium.
 
 ### 2. The Logistics Component (Concierge)
 This is where the "package" value proposition lies. Navigating Seoul's complex transit system immediately after surgery is difficult.
-*   **Airport Transfer:** A private limousine van or black sedative from Incheon International Airport (ICN) to your hotel or clinic. The distance is roughly 60-70km, taking about 70-90 minutes. A standard taxi costs approx. 70,000 KRW, while private transfer services value this at 150,000 KRW.
-*   **Interpretation:** This is critical. By law, medical consent forms must be fully understood. Packages provide a dedicated coordinator who speaks your language fluent native-level (English, Chinese, Russian, Japanese, etc.). Standalone interpreters charge roughly 50,000 KRW per hour; packages offer unlimited support during clinic hours.
+*   **Airport Transfer:** A private limousine van or black sedative from Incheon International Airport (ICN) to your hotel or clinic. The distance is roughly 60-70km, taking about 70-90 minutes. A standard taxi costs approx. ₩70,000, while private transfer services value this at ₩150,000.
+*   **Interpretation:** This is critical. By law, medical consent forms must be fully understood. Packages provide a dedicated coordinator who speaks your language fluent native-level (English, Chinese, Russian, Japanese, etc.). Standalone interpreters charge roughly ₩50,000 per hour; packages offer unlimited support during clinic hours.
 
 <InfoBox type="tip" title="Pro Tip: Interpretation">
 Check if your package includes "medical" interpretation or just "general" interpretation. Medical interpreters in Korea must complete specific government-certified training. Ensure your coordinator is certified to avoid miscommunication during technical consultations.
@@ -65,12 +75,12 @@ These are the most common and comprehensive. They are designed for stays ranging
 *   **Inclusions:**
     *   Priority booking (skipping the 2-3 month waitlist for popular surgeons).
     *   One night of hospitalization (if required, e.g., for breast augmentation or facial contouring).
-    *   Deswelling treatments: SmartLux therapy, hyperbaric oxygen chambers (usually 3-5 sessions valued at 100,000 KRW each).
+    *   Deswelling treatments: SmartLux therapy, hyperbaric oxygen chambers (usually 3-5 sessions valued at ₩100,000 each).
     *   Pumpkin juice: A traditional Korean remedy for swelling, often provided by the box (30 pouches).
 
 *   **Exclusions:**
-    *   **Prescriptions:** Antibiotics and painkillers must be bought at a pharmacy. Expect to pay 30,000 to 80,000 KRW depending on the duration.
-    *   **Compression Garments:** Essential for liposuction or breast surgery. These cost between 100,000 and 200,000 KRW.
+    *   **Prescriptions:** Antibiotics and painkillers must be bought at a pharmacy. Expect to pay 30,000 to ₩80,000 depending on the duration.
+    *   **Compression Garments:** Essential for liposuction or breast surgery. These cost between 100,000 and ₩200,000.
 
 For those interested in specific procedures, you can read our guide on [best plastic surgery clinics for foreigners in Seoul](/blog/best-plastic-surgery-clinics-for-foreigners-in-seoul) to understand the baseline costs before packaging.
 
@@ -84,7 +94,7 @@ These are shorter, often labeled as "One-Day Beautification" packages.
     *   Combination treatments (e.g., Ulthera + Botox + Skin Booster).
     *   Tax Refund Slip (Immediate deduction or airport refund).
 *   **Exclusions:**
-    *   Transport is rarely included for single-day treatments unless the total spend exceeds roughly 3,000,000 KRW ($2,200 USD).
+    *   Transport is rarely included for single-day treatments unless the total spend exceeds roughly ₩3,000,000 ($2,200 USD).
 
 <QuickFacts
   title="Dermatology Package Facts"
@@ -101,7 +111,7 @@ If you are looking for specific skin clinics, check out our insights on [best de
 ### C. Comprehensive Health Checkups
 Korea is famous for its efficient "Executive Health Screenings." These are extremely popular with visitors from the USA and Russia due to the cost-efficiency.
 
-*   **Cost:** 500,000 KRW (Basic) to 4,000,000 KRW (VIP).
+*   **Cost:** ₩500,000 (Basic) to ₩4,000,000 (VIP).
 *   **Inclusions:**
     *   Head-to-toe analysis: MRI, MRA, CT, Endoscopy (gastroscopy/colonoscopy), and blood work (50+ markers).
     *   Porridge (Juk) meal after fasting.
@@ -187,7 +197,7 @@ Beyond surgery, Korea offers "Wellness" packages that combine traditional medici
 *   **Inclusions:**
     *   Pulse diagnosis and Sasang constitution analysis.
     *   Acupuncture and Moxibustion sessions.
-    *   Personalized herbal medicine (brewed and shipped to your home country, shipping fees of roughly 100,000 KRW usually apply).
+    *   Personalized herbal medicine (brewed and shipped to your home country, shipping fees of roughly ₩100,000 usually apply).
     *   Tea therapy sessions.
 
 These packages focus on chronic fatigue, anti-aging, and skin health from the inside out. For those interested in non-invasive anti-aging, our article on [anti-aging treatments in Korea](/blog/anti-aging-treatments-in-korea-botox-fillers-and-more-2026) covers modern alternatives.
@@ -252,8 +262,8 @@ To help you visualize the inclusions, here is a timeline of a typical Rhinoplast
 ## Hidden Costs to Watch Out For
 
 Even in "All-Inclusive" packages, the definition of "All" has limits. Be prepared for these out-of-pocket expenses:
-1.  **Food:** Unless you are an inpatient (hospitalized), you buy your own food. Budget 30,000 KRW/day for delivery apps like Coupang Eats or Baemin.
-2.  **Blood Tests:** Pre-op blood tests are usually included, but if you have a specific condition (e.g., thyroid issues) requiring extra panels, there is a surcharge (approx. 50,000 KRW).
+1.  **Food:** Unless you are an inpatient (hospitalized), you buy your own food. Budget ₩30,000/day for delivery apps like Coupang Eats or Baemin.
+2.  **Blood Tests:** Pre-op blood tests are usually included, but if you have a specific condition (e.g., thyroid issues) requiring extra panels, there is a surcharge (approx. ₩50,000).
 3.  **Bank Fees:** Wiring a deposit internationally incurs SWIFT fees. The receiving bank in Korea also charges a fee. You are usually responsible for covering both to ensure the full deposit amount arrives.
 
 ## Shopping and Tourism Add-ons

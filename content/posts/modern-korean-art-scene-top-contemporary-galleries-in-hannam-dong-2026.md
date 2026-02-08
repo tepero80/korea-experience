@@ -4,6 +4,16 @@ date: 2026-01-25
 excerpt: "Explore the epicenter of Seoul's art world. Our 2026 guide covers Hannam-dong's top galleries, from Leeum to Pace, with walking routes and dining tips."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Budget Travel"
+  - "Coffee"
+readTime: "13 min read"
+featured: false
 ---
 
 By 2026, Hannam-dong has definitively cemented its status as the beating heart of the Asian art market. While Gangnam offers slick commercialism and Samcheong-dong holds onto traditional charm, Hannam-dong represents the perfect synthesis of Seoul's past and its hyper-modern future. Nestled between Namsan Mountain and the Han River, this neighborhood creates a unique "Art Valley" where blue-chip international heavyweights sit shoulder-to-shoulder with cutting-edge domestic curators.
@@ -69,7 +79,7 @@ Inside, the digital guide (Leeum D.O.) uses ultra-wideband technology to automat
   type="local"
   verified={true}
 >
-Don't skip the lobby shop. Leeum collaborates with contemporary Korean artisans to create souvenirs that are actually high-quality design objects. The celadon-inspired diffusers (approx. 45,000 KRW) are the best gift you can take home.
+Don't skip the lobby shop. Leeum collaborates with contemporary Korean artisans to create souvenirs that are actually high-quality design objects. The celadon-inspired diffusers (approx. ₩45,000) are the best gift you can take home.
 </ExpertTip>
 
 ## The International Heavyweights
@@ -150,7 +160,7 @@ Hannam-dong’s art crowd needs fuel. The neighborhood’s culinary scene is as 
 ### Sounds Hannam
 This is not just a building; it is a "urban resort." The brick complex houses a flower shop, the Aesop signature store, a high-end audio store, and several eateries. It is the perfect resting spot. The central courtyard is an architectural marvel, providing a quiet acoustic shelter from the city noise.
 
-*   **Cost:** Coffee approx. 7,000 KRW; Meals 20,000 - 35,000 KRW.
+*   **Cost:** Coffee approx. ₩7,000; Meals 20,000 - ₩35,000.
 *   **Vibe:** Sophisticated, influential, relaxed.
 
 ### Anthracite Coffee (Hannam Branch)
@@ -176,7 +186,7 @@ Visiting Hannam-dong requires a bit of logistical planning, primarily due to the
 
 ### Transportation
 *   **Subway:** The main artery is **Line 6 (Brown Line)**. **Hangangjin Station** is your primary hub. Exit 1 leads to Leeum; Exit 3 leads to the main gallery strip.
-*   **Taxi:** Taxis are plentiful, but traffic on Itaewon-ro can be gridlocked on Saturday afternoons. From Gangnam Station, a taxi will cost approximately 12,000 - 15,000 KRW and take 15-20 minutes across the Hannam Bridge.
+*   **Taxi:** Taxis are plentiful, but traffic on Itaewon-ro can be gridlocked on Saturday afternoons. From Gangnam Station, a taxi will cost approximately 12,000 - ₩15,000 and take 15-20 minutes across the Hannam Bridge.
 *   **Bus:** The Blue Bus 110A or 405 services this area well, offering a scenic route around Namsan Mountain.
 
 ### Cost of Visiting
@@ -233,7 +243,7 @@ However, the crowds have not diminished. The sheer popularity of visual culture 
 <FAQAccordion
   title="Hannam-dong Gallery Guide FAQ"
   items={[
-    { question: "Do I need to pay entrance fees for the commercial galleries?", answer: "Generally, no. Galleries like Pace, Lehmann Maupin, and Thaddaeus Ropac are free to the public. Leeum Museum and D Museum usually charge admission fees ranging from 10,000 to 18,000 KRW." },
+    { question: "Do I need to pay entrance fees for the commercial galleries?", answer: "Generally, no. Galleries like Pace, Lehmann Maupin, and Thaddaeus Ropac are free to the public. Leeum Museum and D Museum usually charge admission fees ranging from 10,000 to ₩18,000." },
     { question: "Is Hannam-dong suitable for children?", answer: "Leeum Museum is family-friendly and offers educational programs. However, the smaller commercial galleries are quiet, contemplative spaces filled with fragile works. Sounds Hannam is a great spot for families to take a break." },
     { question: "What is the best time of year to visit?", answer: "September is the peak art season in Seoul due to Frieze Seoul and Kiaf art fairs. The weather is perfect for walking. However, galleries will be crowded. April and May are also excellent for the spring weather." },
     { question: "Can I buy art on the spot?", answer: "Technically yes, but for major artists, works are often pre-sold to established collectors. However, galleries are always happy to add you to their mailing list or discuss available works in the secondary market." },

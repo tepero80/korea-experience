@@ -4,6 +4,16 @@ date: 2026-01-16
 excerpt: "Discover the deep flavors of Korean fermented foods beyond kimchi. A comprehensive 2026 guide to Cheonggukjang and Meju for adventurous travelers."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "12 min read"
+featured: false
 ---
 
 When international travelers think of Korean fermentation, Kimchi is invariably the first dish that comes to mind. However, to truly understand the soul of Korean cuisine (Hansik), one must venture deeper into the pantry, past the red chili flakes, and into the earthy, pungent world of *Jang* (fermented sauces and pastes). Specifically, the foundational blocks of Korean flavor: **Meju** (dried soybean bricks) and the intensely aromatic **Cheonggukjang** (fast-fermented bean paste).
@@ -42,7 +52,7 @@ Related reading: [Best dessert cafes in Seoul 2026 beyond Bingsu](/blog/best-des
   columns={3}
 />
 
-The transformation of Meju is fascinating. A typical brick measures approximately **20cm x 15cm x 10cm**. During the drying phase, the outer layer hardens while the inside retains moisture, allowing beneficial molds to grow. By early 2026, artisanal producers in regions like Sunchang and Paju are selling premium Meju bricks for approximately **45,000 to 60,000 KRW** per block, a 15% increase from 2024 prices due to rising domestic soybean costs.
+The transformation of Meju is fascinating. A typical brick measures approximately **20cm x 15cm x 10cm**. During the drying phase, the outer layer hardens while the inside retains moisture, allowing beneficial molds to grow. By early 2026, artisanal producers in regions like Sunchang and Paju are selling premium Meju bricks for approximately **45,000 to ₩60,000** per block, a 15% increase from 2024 prices due to rising domestic soybean costs.
 
 For more details, check out our guide on [Korean Breakfast Foods Traditional Morning Meals Guide](/blog/korean-breakfast-foods-traditional-morning-meals).
 
@@ -184,7 +194,7 @@ Located approximately **260 kilometers** south of Seoul, the journey takes about
   ]}
 />
 
-The Sunchang region is geologically unique; the water and climate here are said to possess the perfect humidity and mineral content for fermentation. In 2026, the Sunchang Fermentation Theme Park charges an admission of **5,000 KRW** and offers immersive exhibits on the microbiology of Meju.
+The Sunchang region is geologically unique; the water and climate here are said to possess the perfect humidity and mineral content for fermentation. In 2026, the Sunchang Fermentation Theme Park charges an admission of **₩5,000** and offers immersive exhibits on the microbiology of Meju.
 
 ## Cheonggukjang Powder and Pills: The Modern Solution
 
@@ -199,7 +209,7 @@ These products are freeze-dried, which preserves the live bacteria while elimina
   variant="cards"
 />
 
-A bottle of premium Cheonggukjang pills (typically a 30-day supply) costs between **25,000 and 40,000 KRW** at duty-free shops or Olive Young drugstores. The powder form, often mixed into milk or yogurt as a breakfast shake, costs around **20,000 KRW** for a 500g bag.
+A bottle of premium Cheonggukjang pills (typically a 30-day supply) costs between **25,000 and ₩40,000** at duty-free shops or Olive Young drugstores. The powder form, often mixed into milk or yogurt as a breakfast shake, costs around **₩20,000** for a 500g bag.
 
 ## Cooking Tips for the Brave: Managing the Odor
 

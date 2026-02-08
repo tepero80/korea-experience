@@ -1,7 +1,7 @@
 ---
 title: "Korea tax refund guide for tourists: Immediate and airport claims 2026"
 date: 2026-01-31
-excerpt: "Save up to 10% on shopping in Korea. Learn the 2026 tax refund rules, including the new ₩30,000 minimum and 1M KRW immediate refund limit per item."
+excerpt: "Save up to 10% on shopping in Korea. Learn the 2026 tax refund rules, including the new ₩30,000 minimum and ₩1M immediate refund limit per item."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 tags:
@@ -130,7 +130,7 @@ This is the catch-all method for any purchases that didn't qualify for immediate
     },
     { 
       title: "Step 5: Cash Pickup (Airside)", 
-      description: "Locate the Tax Refund Zone (Gate 28 in T1, Gate 253 in T2). Scan your passport at the kiosk or staffed desk to receive your cash (KRW, USD, CNY) or refund to card.", 
+      description: "Locate the Tax Refund Zone (Gate 28 in T1, Gate 253 in T2). Scan your passport at the kiosk or staffed desk to receive your cash (, USD, CNY) or refund to card.", 
     }
   ]}
 />
@@ -288,7 +288,7 @@ To help you decide which method fits your travel style, here is a quick comparis
   rows={[
     { feature: "Convenience", option1: "High", option2: "Low" },
     { feature: "Passport Required", option1: "Yes (Physical)", option2: "Yes + Boarding Pass" },
-    { feature: "Limit", option1: "1M KRW/item", option2: "No Limit" },
+    { feature: "Limit", option1: "₩1M/item", option2: "No Limit" },
     { feature: "Cash in Hand", option1: "Instant Discount", option2: "Wait in Line" }
   ]}
 />
@@ -305,7 +305,7 @@ Whether you are buying the latest K-Beauty trends or investing in a designer han
   title="Tax Refund System Summary"
   pros={[
     "Immediate discount at register saves airport time",
-    "High limits (5M KRW) cover most tourist needs",
+    "High limits (5M ₩) cover most tourist needs",
     "Medical tourism inclusion offers massive savings",
     "Integrated kiosks at Incheon simplify processing"
   ]}

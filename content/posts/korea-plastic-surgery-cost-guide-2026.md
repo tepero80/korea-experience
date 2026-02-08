@@ -122,7 +122,7 @@ In contrast, non-invasive anti-aging treatments are perfect for travelers with l
 *   **Thermage FLX (600 shots):** ₩2,000,000 – ₩3,000,000 ($1,500 – $2,250 USD).
 
 <InfoBox type="tip" title="Pro Tip: Cash vs. Card">
-  Many clinics offer a small discount (often 5-10%) if you pay in cash (KRW or USD). However, paying by credit card offers better consumer protection. Always ask for a formal receipt (Hyeon-geum Yeong-su-jeung) to ensure eligibility for the Tax Refund.
+  Many clinics offer a small discount (often 5-10%) if you pay in cash ( or USD). However, paying by credit card offers better consumer protection. Always ask for a formal receipt (Hyeon-geum Yeong-su-jeung) to ensure eligibility for the Tax Refund.
 </InfoBox>
 
 ## Body Contouring and Breast Surgery

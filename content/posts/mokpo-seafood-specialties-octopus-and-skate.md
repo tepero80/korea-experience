@@ -4,6 +4,16 @@ date: 2026-01-25
 excerpt: "Discover the ultimate guide to Mokpo seafood specialties octopus and skate. Learn where to eat, how to order, and the costs of these Korean delicacies."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Banking"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 Located on the southwestern tip of the Korean Peninsula, roughly 350 kilometers from Seoul, Mokpo is a city defined by its relationship with the sea. Known domestically as "The City of Flavor," Mokpo holds a distinct culinary reputation that rivals the more internationally famous Jeonju. While the city boasts nine official distinct tastes, two ingredients stand out as the absolute crown jewels of the region: the wriggling "thin-legged" octopus (*Sebal Nakji*) and the pungent, fermented skate (*Hongeo*).
@@ -70,7 +80,7 @@ While eating it whole is the most famous method, there are three primary ways lo
 
 ### Pricing and Availability
 
-The price of *Sebal Nakji* fluctuates daily based on the catch. As of early 2026, you can expect to pay between 10,000 KRW and 20,000 KRW per octopus at a restaurant. If you buy directly from the Mokpo North Port Seafood Market, prices drop to roughly 7,000 to 9,000 KRW per creature, though you will pay a "table setting fee" to eat it on-site.
+The price of *Sebal Nakji* fluctuates daily based on the catch. As of early 2026, you can expect to pay between ₩10,000 and ₩20,000 per octopus at a restaurant. If you buy directly from the Mokpo North Port Seafood Market, prices drop to roughly 7,000 to ₩9,000 per creature, though you will pay a "table setting fee" to eat it on-site.
 
 <InfoBox type="warning" title="Seasonal Alert">
 During the summer breeding months (June to July), catching these octopuses is restricted to protect the population. The octopus available during this time is often frozen or imported, lacking the signature tenderness of the local catch. Always visit between September and December for the authentic experience.
@@ -159,10 +169,10 @@ Featured in numerous international food documentaries, Deokin Jip is famous for 
 For travelers who prefer a raw, bustling atmosphere, the Mokpo Northern Port Seafood Center (Bukhang Hoe Center) is the place to be. Here, you can select your own octopus from the tanks.
 
 The process is simple:
-1.  **Choose your vendor:** Walk the ground floor. Prices are generally uniform, fluctuating by about 5,000 KRW across stalls.
+1.  **Choose your vendor:** Walk the ground floor. Prices are generally uniform, fluctuating by about ₩5,000 across stalls.
 2.  **Purchase:** Pay for the seafood.
 3.  **Go Upstairs:** Take your purchase to the designated dining area on the second floor.
-4.  **Pay the Fee:** You will pay a "table setting fee" (Sang-charim bi), usually 4,000 to 5,000 KRW per person, plus costs for any soup preparation or alcohol.
+4.  **Pay the Fee:** You will pay a "table setting fee" (Sang-charim bi), usually 4,000 to ₩5,000 per person, plus costs for any soup preparation or alcohol.
 
 <ExpertTip 
   author="Min-su Kim"
@@ -193,13 +203,13 @@ Deciding between a formal restaurant and the market depends on your comfort leve
 Mokpo is the terminus of the Honam KTX line. Accessibility has improved drastically in recent years.
 
 *   **Train:** Depart from Seoul Station or Yongsan Station.
-    *   Cost: ~53,100 KRW (Economy), ~74,300 KRW (First Class).
+    *   Cost: ~₩53,100 (Economy), ~₩74,300 (First Class).
     *   Frequency: Every 40-60 minutes.
 *   **Bus:** Depart from Central City Terminal (Seoul).
-    *   Cost: ~35,000 KRW (Premium Bus).
+    *   Cost: ~₩35,000 (Premium Bus).
     *   Duration: 4 hours (traffic dependent).
 
-Once in Mokpo, the city is compact. Most taxi rides between key tourist spots (Mokpo Station, Ghatbawi Rock, North Port) will cost under 10,000 KRW.
+Once in Mokpo, the city is compact. Most taxi rides between key tourist spots (Mokpo Station, Ghatbawi Rock, North Port) will cost under ₩10,000.
 
 <Timeline
   title="The Foodie Day Trip Itinerary"
@@ -228,12 +238,12 @@ Is a trip to Mokpo strictly for food worth it? Here is a balanced look for the i
 To fully enjoy Mokpo seafood specialties octopus and skate, you should budget accordingly. While cheaper than Seoul, premium seafood is still a luxury item.
 
 A couple traveling to Mokpo for a one-night, two-day food trip in 2026 should expect to spend roughly:
-*   **Transport (KTX):** 212,000 KRW (Round trip for two)
-*   **Accommodation:** 80,000 - 150,000 KRW (Mid-range hotel)
-*   **Food:** 200,000 - 300,000 KRW (Including one premium skate meal and one octopus meal)
+*   **Transport (KTX):** ₩212,000 (Round trip for two)
+*   **Accommodation:** 80,000 - ₩150,000 (Mid-range hotel)
+*   **Food:** 200,000 - ₩300,000 (Including one premium skate meal and one octopus meal)
 
 <InfoBox type="tip" title="Payment Tip">
-While most restaurants accept international credit cards (Visa/Mastercard), the seafood markets (buying the fish downstairs) often prefer cash or local bank transfers. Always carry at least 100,000 KRW in cash when visiting the markets.
+While most restaurants accept international credit cards (Visa/Mastercard), the seafood markets (buying the fish downstairs) often prefer cash or local bank transfers. Always carry at least ₩100,000 in cash when visiting the markets.
 </InfoBox>
 
 ## Frequently Asked Questions

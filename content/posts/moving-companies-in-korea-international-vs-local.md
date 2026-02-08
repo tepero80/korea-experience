@@ -154,13 +154,13 @@ International moves are typically priced based on cubic meter (CBM) for sea frei
 Local moving costs in Korea are influenced by the volume of items, distance, type of service (*Pojang Isa* vs. *Yongdal Isa*), floor level (elevator vs. stairs), and date (weekends/month-end are more expensive).
 
 *   **Yongdal Isa (Truck-only with driver assist):**
-    *   **Studio/small 1-room:** 100,000 - 250,000 KRW (approx. 75 - 190 USD). This assumes you do all packing and most heavy lifting.
+    *   **Studio/small 1-room:** ₩100,000 - ₩250,000 (approx. 75 - 190 USD). This assumes you do all packing and most heavy lifting.
     *   *Suitable for:* Minimal items, short distances.
 
 *   **Pojang Isa (Full Packing Move):**
-    *   **Studio/small 1-bedroom apartment:** 300,000 - 600,000 KRW (approx. 225 - 450 USD).
-    *   **2-bedroom apartment:** 600,000 - 1,200,000 KRW (approx. 450 - 900 USD).
-    *   **3-bedroom apartment/house:** 1,000,000 - 2,000,000+ KRW (approx. 750 - 1,500+ USD).
+    *   **Studio/small 1-bedroom apartment:** ₩300,000 - ₩600,000 (approx. 225 - 450 USD).
+    *   **2-bedroom apartment:** ₩600,000 - ₩1,200,000 (approx. 450 - 900 USD).
+    *   **3-bedroom apartment/house:** 1,000,000 - ₩2,000,000 (approx. 750 - 1,500+ USD).
     *   *Factors influencing cost:* Volume of goods, distance between locations (e.g., Gangnam to Ilsan vs. within Gangnam), number of movers, day of the week, floor level (especially if no elevator).
     *   *Timeline:* Usually completed in a single day.
 
@@ -226,7 +226,7 @@ Moving can be stressful, but with careful planning and these insider tips, you c
 *   **Understand Customs Regulations:** Familiarize yourself with Korea's customs rules for household goods. Prohibited items (e.g., certain foods, weapons) or restricted items (e.g., alcohol, tobacco, medicines) can cause significant delays and fines. Your moving company should provide a list, but cross-reference it.
 *   **Separate Essentials:** Pack a "first night" box or suitcase with immediate necessities: toiletries, clothes, medications, important documents, chargers, and anything you need within the first 24-48 hours. Ship this separately via air freight or carry it with you.
 *   **Keep Important Documents Handy:** Passports, visas, lease agreements, school enrollment, and contact lists should be in your carry-on luggage, not packed with your household goods.
-*   **Currency & Banking:** Have some Korean Won (KRW) ready upon arrival. Research opening a Korean bank account for smooth financial transitions. (Internal linking opportunity: "Setting Up Banking in Korea for Expats").
+*   **Currency & Banking:** Have some Korean Won (₩) ready upon arrival. Research opening a Korean bank account for smooth financial transitions. (Internal linking opportunity: "Setting Up Banking in Korea for Expats").
 *   **Apartment Size:** Be mindful that apartments in Korea, especially in major cities like Seoul, can be smaller than what you are used to. Consider this when deciding what furniture to bring.
 
 ### For Local Moves within Korea:
@@ -256,7 +256,7 @@ For sea freight, expect transit times of 4 to 8 weeks, depending on the origin c
 While your moving company's local agent will handle most of the paperwork, you might be required to be physically present at the customs office at Incheon International Airport or a specific port for an interview or to sign documents, especially for first-time entries or complex shipments. It's best to confirm this requirement with your chosen moving company well in advance.
 
 ### 3. What's the average cost of a local "Pojang Isa" (full packing move) in Seoul?
-The average cost for a "Pojang Isa" in Seoul for a 2-bedroom apartment typically ranges from 600,000 to 1,200,000 KRW (approximately 450 - 900 USD), depending on the volume of items, distance, building access (elevator/stairs), and the day of the week. Always get an in-person quote for accuracy.
+The average cost for a "Pojang Isa" in Seoul for a 2-bedroom apartment typically ranges from ₩600,000 to ₩1,200,000 (approximately 450 - 900 USD), depending on the volume of items, distance, building access (elevator/stairs), and the day of the week. Always get an in-person quote for accuracy.
 
 ### 4. Can moving companies help with visa documents or residential permits for Korea?
 No, moving companies specialize in logistics and household goods. They cannot assist with personal visa applications or residential permits. However, international moving companies will guide you on the specific customs documentation required for importing your household goods based on your visa status (e.g., long-term resident, corporate transferee). For visa and residency help, consult immigration lawyers or your sponsoring employer. (Internal linking opportunity: "Visa and Immigration Guide for Korea").

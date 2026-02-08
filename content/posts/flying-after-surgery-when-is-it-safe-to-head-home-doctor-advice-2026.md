@@ -4,6 +4,16 @@ date: 2026-01-08
 excerpt: "Comprehensive guide on flying after surgery in Korea. Learn safe timelines, DVT prevention, and doctor-approved tips for your flight home in 2026."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "14 min read"
+featured: false
 ---
 
 For international patients visiting Korea for medical procedures, the most pressing question isn't usually about the surgery itself, but rather the journey home. Determining when it is safe to fly after surgery depends entirely on the type of procedure, the duration of the flight, and your individual healing progress. In general, for minor non-invasive procedures, patients can often fly within 24 to 48 hours. However, for major surgeries involving the chest, abdomen, or complex facial bone contouring, doctors in Korea typically mandate a grounding period of 10 to 14 days to monitor for complications like deep vein thrombosis (DVT) and to ensure sutures are stable against cabin pressure changes.
@@ -102,7 +112,7 @@ If you look visibly injured (bandages, casts, wheelchair), airline staff at Inch
   totalTime="2-3 days"
   difficulty="medium"
   steps={[
-    { title: "Request the Letter", description: "Ask your surgeon for a 'Fit to Fly' letter (Bihaeng-gi Tapseungheoga-seo) in English. It must state you are stable and the date of surgery.", tip: "Most global clinics provide this free; general hospitals charge ~20,000 KRW." },
+    { title: "Request the Letter", description: "Ask your surgeon for a 'Fit to Fly' letter (Bihaeng-gi Tapseungheoga-seo) in English. It must state you are stable and the date of surgery.", tip: "Most global clinics provide this free; general hospitals charge ~₩20,000." },
     { title: "Contact the Airline", description: "If you need special assistance (wheelchair, extra legroom), contact the airline 48 hours prior. For major conditions, submit the MEDIF form.", tip: "Korean Air and Asiana have dedicated medical desks." },
     { title: "Pharmacy Run", description: "Visit a Korean pharmacy (Yakguk) for painkillers, anti-inflammatory meds, and compression socks.", tip: "Look for the 'Olive Young' or localized pharmacies near your clinic." }
   ]}
@@ -124,7 +134,7 @@ The flight from Seoul to Los Angeles is roughly 11 hours; to London, it's about 
   type="local"
   verified={true}
 >
-  "Do not rely on the airline's standard economy seating. If Business Class is out of budget (usually 3-5 million KRW more), look for 'Economy Smartium' on Asiana or 'Front Zone' on Korean Air. For about 150,000 KRW extra, you get significantly more legroom. Also, avoid the window seat. You need to get up every hour, and you don't want to climb over sleeping passengers with fresh incisions."
+  "Do not rely on the airline's standard economy seating. If Business Class is out of budget (usually 3-₩5 million more), look for 'Economy Smartium' on Asiana or 'Front Zone' on Korean Air. For about ₩150,000 extra, you get significantly more legroom. Also, avoid the window seat. You need to get up every hour, and you don't want to climb over sleeping passengers with fresh incisions."
 </ExpertTip>
 
 ### Hydration and Diet
@@ -161,7 +171,7 @@ For patients recovering from body surgery (tummy tucks, liposuction), the **Airp
 If your doctor advises against flying, you need a comfortable place to stay. While hotels offer luxury, they lack kitchen facilities. Airbnbs offer freedom but lack service.
 
 For medical tourists, the "officetel" (studio apartment) rentals in Gangnam or Sinsa are ideal. They are usually located right next to clinics.
-*   **Cost:** 80,000 - 150,000 KRW per night.
+*   **Cost:** 80,000 - ₩150,000 per night.
 *   **Amenities:** Washing machines, floor heating (ondol), and elevators.
 *   **Warning:** Check if the building has a strict "no trash disposal" policy that requires complex recycling, which might be hard if you have limited mobility.
 
@@ -188,7 +198,7 @@ If you experience chest pain, shortness of breath, or severe bleeding before you
 
 *   **119:** Ambulance and Fire (Free, available 24/7). They have translation services.
 *   **1339:** Korea Disease Control and Prevention Agency (Medical advice and hospital finder, English available).
-*   **Emergency Rooms:** Major university hospitals (Yonsei Severance, Samsung Medical Center, Asan Medical Center) have International Healthcare Centers. The base cost for a foreigner entering the ER is roughly 150,000 to 200,000 KRW before tests/treatment.
+*   **Emergency Rooms:** Major university hospitals (Yonsei Severance, Samsung Medical Center, Asan Medical Center) have International Healthcare Centers. The base cost for a foreigner entering the ER is roughly 150,000 to ₩200,000 before tests/treatment.
 
 <ProsCons
   title="Pros and Cons of Staying Longer in Korea"

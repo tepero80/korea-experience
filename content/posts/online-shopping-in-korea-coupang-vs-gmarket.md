@@ -34,7 +34,7 @@ Finding your way around the digital aisles of South Korean e-commerce can be jus
 
 South Korea is arguably the most connected nation on Earth. With an internet penetration rate hovering around 99.2% in 2026 and 5G networks covering every corner of the country (including subway tunnels), online shopping isn't just a convenience; it is the primary way of life. The "Ppalli-Ppalli" (Hurry-Hurry) culture translates directly into logistics. In many Western countries, "fast shipping" means 2-3 days. In Korea, if a package takes more than 24 hours, consumers get restless.
 
-The market volume for online shopping in Korea has surpassed 230 trillion KRW (approximately $175 billion USD), with mobile transactions accounting for over 75% of that volume. For a foreigner, this high-tech environment is a double-edged sword. The infrastructure is incredible, but the digital gates—specifically identity verification systems—are high.
+The market volume for online shopping in Korea has surpassed 230 trillion won (approximately $175 billion USD), with mobile transactions accounting for over 75% of that volume. For a foreigner, this high-tech environment is a double-edged sword. The infrastructure is incredible, but the digital gates—specifically identity verification systems—are high.
 
 <StatCard
   title="Korea E-Commerce Stats 2026"
@@ -134,7 +134,7 @@ Gmarket requires messaging the specific seller. If a seller speaks no English, y
   totalTime="10 minutes"
   difficulty="easy"
   steps={[
-    { title: "Download & Language", description: "Download the Gmarket app. Click the globe icon and select 'English' and 'USD' or 'KRW'.", tip: "Keep currency in KRW to avoid double conversion fees from your bank." },
+    { title: "Download & Language", description: "Download the Gmarket app. Click the globe icon and select 'English' and 'USD' or '₩'.", tip: "Keep currency in won (₩) to avoid double conversion fees from your bank." },
     { title: "Sign Up", description: "Click 'Register'. You can use an email address. You do NOT need a Korean phone verification for a basic account." },
     { title: "Address Input", description: "Enter your Korean address in English. The system usually auto-matches the postal code." },
     { title: "Add Payment", description: "Go to My Page > Payment Methods. Add your foreign Visa/Mastercard or link PayPal." }

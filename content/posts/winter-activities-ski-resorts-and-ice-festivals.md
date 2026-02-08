@@ -22,7 +22,7 @@ As Korea's first and largest ski resort, Yongpyong is often hailed as the "Alps 
 *   **Slope Diversity:** With 28 slopes, including the formidable Rainbow Paradise run (5.6 kilometers, Korea's longest single slope), and 14 lifts, Yongpyong offers immense variety. Beginners can enjoy the wide and gentle Mega Green slope, while experts can tackle the challenging Gold and Silver series runs.
 *   **Facilities:** The resort boasts excellent infrastructure, including gondolas, a ski house, numerous restaurants, cafes, and diverse accommodation options ranging from condominiums to hotels. It also features a water park, Dragon Peak restaurant at the mountain's summit (accessible by gondola, offering breathtaking views), and various entertainment facilities.
 *   **Accessibility:** Approximately 2.5-3 hours drive from Seoul. Shuttle buses are available from major cities, making it relatively easy to access.
-*   **Pricing (Approximate):** Full-day lift passes typically range from 75,000-90,000 Korean Won (KRW). Equipment rental is extra, usually 30,000-40,000 KRW per day.
+*   **Pricing (Approximate):** Full-day lift passes typically range from 75,000-90,000 Korean Won (₩). Equipment rental is extra, usually ₩30,000 - ₩40,000 per day.
 
 ### Alpensia Ski Resort: Olympic Glamour and Family Fun
 
@@ -31,7 +31,7 @@ Adjacent to Yongpyong, Alpensia is another gem in Pyeongchang, known for its ele
 *   **Slope Diversity:** Alpensia has fewer slopes (6 runs) compared to Yongpyong, but they are exceptionally well-maintained and ideal for beginners and intermediate skiers. Its focus on family comfort makes it perfect for those learning to ski or traveling with children.
 *   **Facilities:** Beyond skiing, Alpensia offers a magnificent intercontinental hotel, a convention center, a concert hall, and an outdoor spa. The resort complex itself is a destination, with numerous dining options and activities.
 *   **Accessibility:** Similar to Yongpyong, around 2.5-3 hours from Seoul, with shuttle bus services available.
-*   **Pricing (Approximate):** Full-day lift passes are generally 65,000-80,000 KRW. Equipment rental is in a similar range to Yongpyong.
+*   **Pricing (Approximate):** Full-day lift passes are generally ₩65,000 - ₩80,000. Equipment rental is in a similar range to Yongpyong.
 
 ### Vivaldi Park Ski World: Seoul's Closest Major Ski Haven
 
@@ -40,7 +40,7 @@ Vivaldi Park, located in Hongcheon, Gangwon Province, is a highly popular choice
 *   **Slope Diversity:** Vivaldi Park offers 12 slopes and 10 lifts, including three dedicated for beginners and multiple intermediate and advanced runs. Its "Snowy Land" offers various snow-themed activities beyond skiing, such as snow sledding.
 *   **Facilities:** This resort is a full-fledged entertainment complex, housing Ocean World (a large indoor/outdoor water park), a bowling alley, a shopping mall, and a variety of restaurants and accommodations. It's known for its vibrant nightlife and youth-friendly vibe.
 *   **Accessibility:** One of its biggest advantages is its proximity to Seoul, approximately 1-1.5 hours by car. Direct shuttle buses operate frequently from various points in Seoul.
-*   **Pricing (Approximate):** Full-day lift passes typically range from 70,000-85,000 KRW. Equipment rental around 30,000-40,000 KRW.
+*   **Pricing (Approximate):** Full-day lift passes typically range from ₩70,000 - ₩85,000. Equipment rental around ₩30,000 - ₩40,000.
 
 ### High1 Resort: High Altitude and Stunning Views
 
@@ -49,7 +49,7 @@ Nestled in Jeongseon, Gangwon Province, High1 Resort is a modern, environmentall
 *   **Slope Diversity:** With 18 slopes and 16 lifts, High1 offers a balanced mix of runs for all skill levels, including excellent beginner-friendly areas and challenging expert slopes. Its ski-in/ski-out accommodations are a major draw.
 *   **Facilities:** Beyond skiing, High1 features a casino, golf course, a variety of hotels and condominiums, and the "Sky Walk" observation deck offering panoramic views. Its extensive dining options cater to diverse tastes.
 *   **Accessibility:** High1 is further from Seoul, about 3-3.5 hours by car. Shuttle buses are available, and there's a train station (Gohan Station) nearby with connecting shuttles.
-*   **Pricing (Approximate):** Full-day lift passes are generally 70,000-85,000 KRW. Equipment rental around 30,000-40,000 KRW.
+*   **Pricing (Approximate):** Full-day lift passes are generally ₩70,000 - ₩85,000. Equipment rental around ₩30,000 - ₩40,000.
 
 ### Ski Resort Comparison Table
 
@@ -61,7 +61,7 @@ Nestled in Jeongseon, Gangwon Province, High1 Resort is a modern, environmentall
 | **Skill Level**  | All levels (extensive expert options)               | Beginner to Intermediate                          | All levels (popular for young adults)             | All levels (good for varied groups)               |
 | **Distance from Seoul** | ~2.5-3 hours                                        | ~2.5-3 hours                                      | ~1-1.5 hours (closest major resort)               | ~3-3.5 hours                                      |
 | **Key Attraction** | Largest resort, Dragon Peak gondola               | European village aesthetics, family focus         | Ocean World, vibrant nightlife, easy access       | Stunning views, casino, modern facilities         |
-| **Full-Day Lift Pass (Approx. KRW)** | 75,000-90,000                                       | 65,000-80,000                                     | 70,000-85,000                                     | 70,000-85,000                                     |
+| **Full-Day Lift Pass (Approx. ₩)** | 75,000-90,000                                       | 65,000-80,000                                     | 70,000-85,000                                     | 70,000-85,000                                     |
 
 ## Thrilling Ice Festivals and Snow Adventures
 

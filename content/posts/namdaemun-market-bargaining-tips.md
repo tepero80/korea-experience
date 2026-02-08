@@ -20,7 +20,7 @@ Can you bargain at Namdaemun Market? Yes, but with specific cultural nuances tha
 
 <KeyTakeaways 
   points={[
-    "Always carry cash (KRW) as credit cards often incur a 10% surcharge or void bargaining power",
+    "Always carry cash (₩) as credit cards often incur a 10% surcharge or void bargaining power",
     "The Korean concept of 'Service' (free gifts) is often easier to get than a price reduction",
     "Avoid bargaining at the very first sale of the day (Gaese) unless you definitely intend to buy"
   ]}

@@ -73,7 +73,7 @@ Korea is home to hundreds of temples, many of which offer Templestay programs. H
 | **Activities**    | Yebul, Chamseon, Barugongyang, dharma talks, temple chores | Optional participation in some activities, free time, nature walks |
 | **Schedule**      | Structured, early mornings, full participation expected | Flexible, more personal time                        |
 | **Intensity**     | Moderate to High                                      | Low to Moderate                                    |
-| **Typical Cost**  | 50,000 - 100,000 KRW/night (approx. 40-80 USD)        | 50,000 - 90,000 KRW/night (approx. 40-75 USD)      |
+| **Typical Cost**  | ₩50,000 - ₩100,000/night (approx. 40-80 USD)        | ₩50,000 - ₩90,000/night (approx. 40-75 USD)      |
 | **Ideal For**     | Serious practitioners, cultural immersion seekers     | Stress relief, quiet contemplation, gentle introduction |
 
 ## Deepening Your Practice: Meditation and Mindfulness Retreats
@@ -132,7 +132,7 @@ While specific program availability and pricing can change, here are types of we
 | **Primary Focus** | Comprehensive rejuvenation, pampering, holistic health | Mind-body connection through nature, specific therapeutic programs |
 | **Activities**    | Spa treatments, Hanbang, yoga, fitness, gourmet healthy dining | Forest therapy, meditation, organic farming, hiking, light exercise |
 | **Amenities**     | High-end accommodations, pools, saunas, gyms, medical spa facilities | Comfortable lodging, communal spaces, direct access to nature trails |
-| **Typical Cost**  | 200,000 - 500,000+ KRW/night (approx. 160-400+ USD)   | 100,000 - 300,000 KRW/night (approx. 80-240 USD)    |
+| **Typical Cost**  | 200,000 - ₩500,000/night (approx. 160-400+ USD)   | ₩100,000 - ₩300,000/night (approx. 80-240 USD)    |
 | **Ideal For**     | Relaxation with luxury, specific health goals, couples | Stress reduction, nature lovers, mental clarity, digital detox |
 
 ## Planning Your Spiritual Journey: Practical Tips and Insider Knowledge
@@ -219,7 +219,7 @@ These retreats offer a different pathway to mindfulness, using artistic creation
 | **Activities**        | Tea ceremonies, crafts, traditional music, quiet reflection | Farming, nature walks, organic cooking, rural exploration | Pottery, calligraphy, painting, photography, workshops |
 | **Location**          | Traditional villages, historical areas             | Rural countryside, agricultural regions         | Art studios, specialized workshops, scenic areas |
 | **Duration**          | 1 night to several days                            | 2 days to a week                                | Weekend workshops to week-long immersions     |
-| **Typical Cost**      | 70,000 - 200,000 KRW/night (approx. 55-160 USD)    | 80,000 - 250,000 KRW/night (approx. 65-200 USD) | Varies greatly by program (workshops often separate) |
+| **Typical Cost**      | ₩70,000 - ₩200,000/night (approx. 55-160 USD)    | ₩80,000 - ₩250,000/night (approx. 65-200 USD) | Varies greatly by program (workshops often separate) |
 | **Ideal For**         | Culture enthusiasts, slow travelers, couples       | Nature lovers, families, ethical travelers       | Artists, hobbyists, those seeking a creative outlet |
 
 ## Frequently Asked Questions about Spiritual Retreats in Korea
@@ -232,8 +232,8 @@ No, absolutely not. Templestays are open to people of all faiths, beliefs, and b
 
 The cost varies widely depending on the type of retreat.
 *   **Templestays** are generally the most affordable, ranging from 50,000 to 100,000 Korean Won (approx. 40-80 USD) for a one-night, two-day program, including accommodation, meals, and activities.
-*   **Nature-integrated healing centers** might range from 100,000 to 300,000 KRW per night (approx. 80-240 USD).
-*   **Luxury spa and wellness resorts** can cost 200,000 to 500,000+ KRW per night (approx. 160-400+ USD), often including more extensive treatments and amenities.
+*   **Nature-integrated healing centers** might range from ₩100,000 to ₩300,000 per night (approx. 80-240 USD).
+*   **Luxury spa and wellness resorts** can cost 200,000 to ₩500,000 per night (approx. 160-400+ USD), often including more extensive treatments and amenities.
 Always check the specific program's website for current pricing.
 
 ### Q3: Are these retreats suitable for beginners in meditation?

@@ -60,7 +60,7 @@ Your passport serves as your primary form of identification and proof of your le
 
 ### International Credit Card
 
-A major international credit card (Visa, MasterCard, American Express, JCB) is almost always required for rental car bookings. This is used for payment, but more importantly, for holding a security deposit. The name on the credit card must match the primary driver's name. Debit cards are generally not accepted for the security deposit, though some companies might allow them for final payment. Ensure your credit card has sufficient credit limit to cover the rental cost and the deposit, which can range from 300,000 KRW to 1,000,000 KRW (approx. 220-750 USD).
+A major international credit card (Visa, MasterCard, American Express, JCB) is almost always required for rental car bookings. This is used for payment, but more importantly, for holding a security deposit. The name on the credit card must match the primary driver's name. Debit cards are generally not accepted for the security deposit, though some companies might allow them for final payment. Ensure your credit card has sufficient credit limit to cover the rental cost and the deposit, which can range from ₩300,000 to ₩1,000,000 (approx. 220-750 USD).
 
 ### Age Requirements and Surcharges
 
@@ -117,7 +117,7 @@ Basic liability insurance (Third Party Liability) is legally mandated and includ
 
 CDW is highly recommended, if not essential. It reduces your financial responsibility for damage to the rental vehicle itself. Rental companies typically offer different levels of CDW:
 
-*   **Standard CDW:** Reduces your liability to a certain deductible amount (e.g., 300,000 KRW - 500,000 KRW). If the damage costs less than the deductible, you pay the full amount. If it costs more, you pay up to the deductible.
+*   **Standard CDW:** Reduces your liability to a certain deductible amount (e.g., ₩300,000 - ₩500,000). If the damage costs less than the deductible, you pay the full amount. If it costs more, you pay up to the deductible.
 *   **Super CDW (or Full Coverage CDW):** Further reduces or completely waives your deductible, meaning you pay little to nothing for covered damages. This is often the most expensive option but provides the most comprehensive protection.
 *   **Complete Coverage (or similar names):** Sometimes offered as a premium package, it may include roadside assistance and tire/glass damage not always covered by standard CDW.
 
@@ -221,38 +221,38 @@ Finding a fueling station (주유소 - Ju-yu-so) is easy, especially outside cen
 
 Rates vary widely based on vehicle type, rental duration, season, and rental company.
 
-*   **Compact Car (e.g., Hyundai Avante/Kia K3):** 50,000 - 80,000 KRW per day
-*   **Mid-size Sedan (e.g., Hyundai Sonata/Kia K5):** 70,000 - 120,000 KRW per day
-*   **SUV (e.g., Hyundai Tucson/Kia Sportage):** 80,000 - 150,000 KRW per day
-*   **Luxury/Premium:** 150,000 KRW+ per day
+*   **Compact Car (e.g., Hyundai Avante/Kia K3):** ₩50,000 - ₩80,000 per day
+*   **Mid-size Sedan (e.g., Hyundai Sonata/Kia K5):** ₩70,000 - ₩120,000 per day
+*   **SUV (e.g., Hyundai Tucson/Kia Sportage):** ₩80,000 - ₩150,000 per day
+*   **Luxury/Premium:** ₩150,000+ per day
 
 **Note:** Weekly or long-term rentals often have lower daily rates. Prices can surge during peak seasons (e.g., summer, Chuseok, Lunar New Year).
 
 ### Additional Fees
 
-*   **Young Driver Surcharge:** 10,000 - 20,000 KRW per day (if applicable).
+*   **Young Driver Surcharge:** ₩10,000 - ₩20,000 per day (if applicable).
 *   **Navigation System:** Usually included, but confirm.
-*   **Child Safety Seat:** 10,000 - 20,000 KRW per rental.
-*   **One-Way Rental Fee:** Can be significant (e.g., 50,000 - 100,000 KRW or more) depending on distance.
-*   **Additional Driver:** Often a small daily fee (5,000 - 10,000 KRW). All drivers must present their IDP and national license.
-*   **Insurance (CDW):** Super CDW can add 15,000 - 30,000 KRW per day.
+*   **Child Safety Seat:** ₩10,000 - ₩20,000 per rental.
+*   **One-Way Rental Fee:** Can be significant (e.g., ₩50,000 - ₩100,000 or more) depending on distance.
+*   **Additional Driver:** Often a small daily fee (₩5,000 - ₩10,000). All drivers must present their IDP and national license.
+*   **Insurance (CDW):** Super CDW can add ₩15,000 - ₩30,000 per day.
 
 ### Fuel Costs Estimation
 
 Fuel prices fluctuate. As a general guide (as of early 2020s):
 
-*   **Gasoline:** Approx. 1,600 - 1,800 KRW per liter
-*   **Diesel:** Approx. 1,500 - 1,700 KRW per liter
-*   **LPG:** Approx. 900 - 1,000 KRW per liter
+*   **Gasoline:** Approx. ₩1,600 - ₩1,800 per liter
+*   **Diesel:** Approx. ₩1,500 - ₩1,700 per liter
+*   **LPG:** Approx. ₩900 - ₩1,000 per liter
 
 A compact car might consume 1 liter per 10-15 km, while an SUV might be 1 liter per 8-12 km.
 
 ### Toll and Parking Expenses
 
-*   **Tolls:** A trip from Seoul to Busan can cost around 20,000 - 30,000 KRW one way. Shorter expressways or bridges (like Incheon Bridge) have their own fees.
-*   **Parking:** In Seoul, hourly rates can be 3,000 - 6,000 KRW. Daily maximums exist but can still be high. Outside major cities, parking is generally cheaper or free.
+*   **Tolls:** A trip from Seoul to Busan can cost around ₩20,000 - ₩30,000 one way. Shorter expressways or bridges (like Incheon Bridge) have their own fees.
+*   **Parking:** In Seoul, hourly rates can be ₩3,000 - ₩6,000. Daily maximums exist but can still be high. Outside major cities, parking is generally cheaper or free.
 
-| Item                 | Estimated Daily Cost (KRW) | Notes                                    |
+| Item                 | Estimated Daily Cost (₩) | Notes                                    |
 | :------------------- | :-------------------------- | :--------------------------------------- |
 | Compact Car Rental   | 50,000 - 80,000             | Varies by season, duration, company      |
 | Super CDW Insurance  | 15,000 - 30,000             | Highly recommended for peace of mind     |

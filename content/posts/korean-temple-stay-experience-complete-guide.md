@@ -175,7 +175,7 @@ The most reliable and comprehensive resource for booking your **Korean Temple St
 *   **Online Booking:** Most bookings can be made directly through the website, often requiring payment upfront.
 
 ### Costs & Inclusions
-*   **Price Range:** A typical overnight Temple Stay can range from approximately 50,000 KRW to 100,000 KRW per person per night (roughly 40-80 USD, depending on exchange rates and temple). Day programs are usually less expensive.
+*   **Price Range:** A typical overnight Temple Stay can range from approximately ₩50,000 to ₩100,000 per person per night (roughly 40-80 USD, depending on exchange rates and temple). Day programs are usually less expensive.
 *   **What's Included:** The fee usually covers accommodation (simple shared rooms, often ondol-style flooring), all meals (vegetarian), and participation in all scheduled activities. Temple robes may also be provided for use during your stay.
 *   **Value:** Considering the unique cultural immersion, accommodation, and all meals, the Temple Stay offers excellent value for money.
 

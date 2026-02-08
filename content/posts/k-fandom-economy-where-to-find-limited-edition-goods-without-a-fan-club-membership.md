@@ -261,7 +261,7 @@ A significant hurdle for international visitors is the language barrier and paym
 
 <ComparisonTable
   title="Payment Method Compatibility"
-  headers={["Feature", "International Credit/Debit", "Cash (KRW)", "Kakao Pay / Naver Pay"]}
+  headers={["Feature", "International Credit/Debit", "Cash (₩)", "Kakao Pay / Naver Pay"]}
   rows={[
     { feature: "Acceptance in Big Stores", option1: true, option2: true, option3: true },
     { feature: "Acceptance in Small Shops", option1: true, option2: true, option3: false },

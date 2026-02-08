@@ -40,10 +40,10 @@ For a truly Korean experience, or an adventure in nature, unique accommodations 
 
 | Accommodation Type         | Price Range (Approx. per night) | Pet Policy Examples                                       | Pros                                                           | Cons                                                              |
 | :------------------------- | :------------------------------ | :-------------------------------------------------------- | :------------------------------------------------------------- | :---------------------------------------------------------------- |
-| Luxury Hotels              | 250,000 - 600,000 KRW+          | Small to medium dogs, additional fees, specific pet kits  | Premium services, designated pet areas, upscale amenities      | High cost, strict weight limits, limited pet-friendly rooms       |
-| Boutique/Mid-Range Hotels  | 100,000 - 250,000 KRW           | Varies by hotel, often small dogs, additional fees        | Good value, modern facilities, convenient locations            | Policies can be inconsistent, fewer dedicated pet amenities       |
-| Pensions                   | 80,000 - 300,000 KRW            | Widely varied, often more flexible for larger dogs        | More space, often direct access to nature, personalized service | Quality varies greatly, requires direct communication, less urban |
-| Glamping Sites             | 150,000 - 400,000 KRW           | Generally pet-friendly, specific site rules for leash/waste | Outdoor adventure, unique experience, often spacious           | Weather dependent, requires own pet supplies, may be remote       |
+| Luxury Hotels              | ₩250,000 - ₩600,000+          | Small to medium dogs, additional fees, specific pet kits  | Premium services, designated pet areas, upscale amenities      | High cost, strict weight limits, limited pet-friendly rooms       |
+| Boutique/Mid-Range Hotels  | ₩100,000 - ₩250,000           | Varies by hotel, often small dogs, additional fees        | Good value, modern facilities, convenient locations            | Policies can be inconsistent, fewer dedicated pet amenities       |
+| Pensions                   | ₩80,000 - ₩300,000            | Widely varied, often more flexible for larger dogs        | More space, often direct access to nature, personalized service | Quality varies greatly, requires direct communication, less urban |
+| Glamping Sites             | ₩150,000 - ₩400,000           | Generally pet-friendly, specific site rules for leash/waste | Outdoor adventure, unique experience, often spacious           | Weather dependent, requires own pet supplies, may be remote       |
 
 *Note: Prices are approximate and subject to change based on season, demand, and room type.*
 
@@ -247,7 +247,7 @@ Yes, it is legally required to keep your dog on a leash in all public areas in K
 In major cities like Seoul, Busan, and Daegu, you can often find veterinary clinics with English-speaking staff. It is best to search online for "English speaking vet Korea" or "animal hospital [city name]" and check their websites or call ahead to confirm.
 
 ### 4. What are the average costs for pet-friendly hotels?
-Pet-friendly hotels can range widely in price. Luxury hotels might cost 250,000 KRW to 600,000 KRW or more per night, with additional pet fees. Mid-range hotels or pensions could be 80,000 KRW to 250,000 KRW, also with pet fees. Glamping sites are usually in the 150,000 KRW to 400,000 KRW range. Pet fees typically range from 20,000 KRW to 50,000 KRW per night.
+Pet-friendly hotels can range widely in price. Luxury hotels might cost ₩250,000 to ₩600,000 or more per night, with additional pet fees. Mid-range hotels or pensions could be ₩80,000 to ₩250,000, also with pet fees. Glamping sites are usually in the ₩150,000 to ₩400,000 range. Pet fees typically range from ₩20,000 to ₩50,000 per night.
 
 ### 5. Are all parks in Korea dog-friendly?
 No, not all parks in Korea are dog-friendly. While many large urban parks permit leashed dogs in general areas (like Seoul Forest or Olympic Park), some smaller parks or specific sensitive ecological zones may prohibit them. National parks often have strict rules against pets. Always look for signage or check park websites before visiting.

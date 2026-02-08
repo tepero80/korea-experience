@@ -4,6 +4,16 @@ date: 2026-01-18
 excerpt: "Discover the best Korean rice dishes including Bibimbap, Dolsot, and Kongnamul Bap. Essential guide for travelers on where to eat and how to enjoy them."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "10 min read"
+featured: false
 ---
 
 In Korea, the word for rice, "bap," is synonymous with the word for meal. To ask "Have you eaten?" is to ask "Have you had rice?" This linguistic connection underscores the fundamental role rice plays in Korean cuisine. While plain steamed white rice is the canvas for most meals, Korean culinary history has evolved to create sophisticated one-bowl rice dishes that are visually stunning, nutritionally balanced, and incredibly flavorful.
@@ -22,7 +32,7 @@ For international travelers, navigating the menu can be daunting. The distinctio
   points={[
     "Bibimbap symbolizes harmony with its five-color arrangement representing the elements",
     "Dolsot Bibimbap is served in a stone pot heated to 200°C to create a crispy rice crust",
-    "Kongnamul Bap is a savory, budget-friendly staple often costing under 9,000 KRW"
+    "Kongnamul Bap is a savory, budget-friendly staple often costing under ₩9,000"
   ]}
   readTime={12}
   lastUpdated="2026-02-06"
@@ -98,7 +108,7 @@ While Bibimbap steals the international spotlight, Kongnamul Bap (Soybean Sprout
 Unlike Bibimbap, which uses Gochujang (red chili paste), Kongnamul Bap is almost exclusively served with a seasoned soy sauce (yangnyeom-jang) containing chopped green onions, sesame seeds, garlic, and chili powder. It is often served with a clear beef or bean sprout soup.
 
 ### Why Travelers Should Try It
-It provides a break from the spicy, heavy flavors often associated with Korean BBQ or stews. It is also significantly cheaper. In 2026, while a premium Dolsot Bibimbap might cost 15,000 KRW, a hearty bowl of Kongnamul Bap can often be found for 8,000 to 9,000 KRW in local markets.
+It provides a break from the spicy, heavy flavors often associated with Korean BBQ or stews. It is also significantly cheaper. In 2026, while a premium Dolsot Bibimbap might cost ₩15,000, a hearty bowl of Kongnamul Bap can often be found for 8,000 to ₩9,000 in local markets.
 
 <ComparisonTable
   title="Rice Dish Comparison"

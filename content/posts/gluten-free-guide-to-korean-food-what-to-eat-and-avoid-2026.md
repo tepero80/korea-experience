@@ -4,6 +4,16 @@ date: 2026-01-09
 excerpt: "The ultimate 2026 guide for navigating South Korea with celiac disease. Discover safe dishes, restaurant recommendations, and essential travel tips."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Fillers"
+readTime: "12 min read"
+featured: false
 ---
 
 Navigating the culinary landscape of South Korea can be a daunting task for travelers with celiac disease or gluten sensitivity. In a culture where sharing dishes is the norm and fermented sauces are the backbone of nearly every meal, the presence of hidden wheat is ubiquitous. As we move into 2026, awareness of dietary restrictions in Korea has improved significantly compared to a decade ago, yet it remains one of the most challenging destinations for gluten-free travelers.
@@ -43,7 +53,7 @@ For more details, check out our guide on [Korean Seasonal Fish Guide 2026 Best S
   source="K-Food Industry Report 2025"
 />
 
-Despite these risks, the market size for gluten-free products in Korea has grown to over 50 billion KRW annually, indicating a slow but steady shift toward inclusivity.
+Despite these risks, the market size for gluten-free products in Korea has grown to over ₩50 billion annually, indicating a slow but steady shift toward inclusivity.
 
 You might also enjoy our article about [Best food apps for English speakers TableCheck vs CatchTable](/blog/best-food-apps-for-english-speakers-tablecheck-vs-catchtable-2026).
 
@@ -54,7 +64,7 @@ Before we discuss what you can eat, it is crucial to identify dishes that are al
 Related reading: [Best Korean Convenience Store Food Must Try Items](/blog/best-korean-convenience-store-food-must-try-items-2026).
 
 ### Noodle Dishes
-Avoid **Jajangmyeon** (Black bean noodles), **Kalguksu** (Knife-cut noodles), and **Ramyeon** (Instant noodles). Even noodles made from buckwheat, like **Naengmyeon**, often contain a mix of buckwheat and wheat flour (usually a 70:30 or 50:50 ratio) to maintain texture. A standard bowl of Naengmyeon costs between 12,000 KRW and 16,000 KRW, but the risk of cross-contamination in the boiling water is extremely high.
+Avoid **Jajangmyeon** (Black bean noodles), **Kalguksu** (Knife-cut noodles), and **Ramyeon** (Instant noodles). Even noodles made from buckwheat, like **Naengmyeon**, often contain a mix of buckwheat and wheat flour (usually a 70:30 or 50:50 ratio) to maintain texture. A standard bowl of Naengmyeon costs between ₩12,000 and ₩16,000, but the risk of cross-contamination in the boiling water is extremely high.
 
 ### Breaded Items and Stews
 **Donkkaseu** (Pork Cutlet) is heavily breaded and deep-fried. Furthermore, many stews known as **Jjigae** (like Kimchi Jjigae or Budae Jjigae) are seasoned with gochujang or contain processed meats like spam and sausages that may have wheat fillers.
@@ -90,7 +100,7 @@ This is your safest and most social bet. Stick to non-marinated meats.
 *   **Gimbap:** Seaweed rice rolls. Caution is needed here as the imitation crab meat often contains wheat, and the burdock root might be braised in soy sauce. Look for simple versions or convenience store versions labeled clearly (using translation apps).
 
 ### 3. Soups (Tang/Guk)
-*   **Samgyetang:** Ginseng Chicken Soup. A whole young chicken stuffed with glutinous rice (sweet rice), garlic, and ginseng. It is typically not seasoned, served with salt on the side. *Note:* Ensure it is not a version containing noodles. The average price is roughly 18,000 KRW to 22,000 KRW.
+*   **Samgyetang:** Ginseng Chicken Soup. A whole young chicken stuffed with glutinous rice (sweet rice), garlic, and ginseng. It is typically not seasoned, served with salt on the side. *Note:* Ensure it is not a version containing noodles. The average price is roughly ₩18,000 to ₩22,000.
 *   **Seolleongtang:** Ox Bone Soup. The broth is milky white and usually unseasoned. You add salt and green onions yourself. *Critical:* Do not add the noodles that often come with it.
 
 <ExpertTip 
@@ -124,7 +134,7 @@ Located in the trendy Seongsu district, roughly 500 meters from Seoul Forest Sta
 />
 
 ### Plant (Itaewon & Yeonnam)
-While primarily a vegan restaurant, Plant clearly labels all allergens. Their menu changes seasonally, but they always have GF bowls and lentil-based dishes. A hearty meal here costs between 15,000 KRW and 20,000 KRW.
+While primarily a vegan restaurant, Plant clearly labels all allergens. Their menu changes seasonally, but they always have GF bowls and lentil-based dishes. A hearty meal here costs between ₩15,000 and ₩20,000.
 
 ### Jyoti Indian Restaurant (Sinchon)
 When you need a break from checking ingredients in Korean food, Indian cuisine is a great alternative. Jyoti offers chickpea-based curries and rice. Avoid the Naan and stick to rice.
@@ -143,8 +153,8 @@ When you need a break from checking ingredients in Korean food, Indian cuisine i
 Korea's convenience stores (CU, GS25, 7-Eleven, Emart24) are found every 100 meters in cities. They are open 24 hours and are lifesavers for breakfast or late-night snacks.
 
 ### What to Buy
-1.  **Roasted Eggs (Gam-dong-ran):** Sold in packs of two for about 2,200 KRW. They are pre-salted and safe.
-2.  **Sweet Potatoes:** Look for hot warming cabinets in winter. A roasted sweet potato costs roughly 2,500 KRW.
+1.  **Roasted Eggs (Gam-dong-ran):** Sold in packs of two for about ₩2,200. They are pre-salted and safe.
+2.  **Sweet Potatoes:** Look for hot warming cabinets in winter. A roasted sweet potato costs roughly ₩2,500.
 3.  **Bananas and Fresh Fruit:** usually sold individually or in small packs.
 4.  **Soy Milk:** Brands like "Vegamil" (Black Soybean variety) are usually safe, but check labels for barley malt.
 5.  **CJ Hetbahn (Instant Rice):** Microwaveable white rice bowls. 100% rice.
@@ -181,7 +191,7 @@ If you plan to stay in an Airbnb or residence with a kitchen, cooking your own m
 *   **SSG Food Market:** Premium market with more imported and organic goods.
 
 ### Buying GF Soy Sauce
-You can find gluten-free tamari or soy sauce in the imported sections of major department stores (Shinsegae, Hyundai). Look for the brand **Sempio**, which has a specific line of gluten-free soy sauce, though it is often 3x the price of regular soy sauce (approx. 12,000 KRW for 500ml).
+You can find gluten-free tamari or soy sauce in the imported sections of major department stores (Shinsegae, Hyundai). Look for the brand **Sempio**, which has a specific line of gluten-free soy sauce, though it is often 3x the price of regular soy sauce (approx. ₩12,000 for 500ml).
 
 <ComparisonTable
   title="Accommodation Options for Celiacs"
@@ -200,7 +210,7 @@ Drinking is a huge part of Korean social culture (Hoesik).
 *   **Beer (Maekju):** Almost all Korean beers (Cass, Terra, Kelly) are wheat/barley-based. **Avoid.**
 *   **Soju:** The green bottles. Most commercial soju (Chamisul, Chum-Churum) is made from tapioca, sweet potato, and rice ethanol. It is generally considered gluten-free by ingredients, but some celiacs report reactions due to cross-contamination or unspecified additives. Proceed with caution.
 *   **Makgeolli (Rice Wine):** Traditionally made from rice, but the fermentation starter (Nuruk) is almost always wheat-based. **Avoid** unless it is a premium brand explicitly stating "Rice Nuruk."
-*   **Wine:** Imported wines are widely available at convenience stores. A decent bottle of red wine starts at 15,000 KRW.
+*   **Wine:** Imported wines are widely available at convenience stores. A decent bottle of red wine starts at ₩15,000.
 
 ## Cultural Nuances and E-E-A-T
 

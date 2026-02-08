@@ -72,7 +72,7 @@ Upon entry, you are greeted by valets and doormen. You will take a ticket and wa
 />
 
 **The Experience:**
-In 2026, Kangcas holds the largest inventory of Hermès Birkin and Kelly bags in Asia outside of private auctions. You can inspect the bags with white gloves. The transparency is absolute; they will point out microscopic scratches you might miss. Prices are fixed, but fair. A Chanel Classic Flap (Medium, Caviar leather) that retails for over 16 million KRW might be found here in "Unused" condition for 13-14 million KRW, or in "Excellent" condition for 11 million KRW.
+In 2026, Kangcas holds the largest inventory of Hermès Birkin and Kelly bags in Asia outside of private auctions. You can inspect the bags with white gloves. The transparency is absolute; they will point out microscopic scratches you might miss. Prices are fixed, but fair. A Chanel Classic Flap (Medium, Caviar leather) that retails for over ₩16 million might be found here in "Unused" condition for 13-₩14 million, or in "Excellent" condition for ₩11 million.
 
 ### 2. The Franchise Giant: Gugus (구구스)
 
@@ -210,7 +210,7 @@ If you spot these items in a vintage shop in Hongdae or Apgujeong, grab them. Th
 <FAQAccordion
   title="Frequently Asked Questions"
   items={[
-    { question: "Are the bags in Korea 100% authentic?", answer: "Major department stores like Kangcas and Gugus offer a 100% authenticity guarantee (often 1 billion KRW indemnity). Small street stalls in non-reputable areas should be avoided, but the organized resale market is extremely safe." },
+    { question: "Are the bags in Korea 100% authentic?", answer: "Major department stores like Kangcas and Gugus offer a 100% authenticity guarantee (often ₩1 billion indemnity). Small street stalls in non-reputable areas should be avoided, but the organized resale market is extremely safe." },
     { question: "How much tax refund can I get?", answer: "You can typically get between 6% to 8% back. The VAT is 10%, but global blue/tax-free companies take a service fee. Ensure you bring your passport for instant deduction." },
     { question: "Can I bargain at these stores?", answer: "At major department stores like Kangcas, prices are fixed. At smaller vintage shops in Hongdae or individual sellers, you might be able to negotiate 5-10% off, especially if paying cash." },
     { question: "What is the best time of year to shop?", answer: "January and February are excellent as people sell unwanted holiday gifts. Similarly, post-summer (September) sees an influx of items as wardrobes transition to autumn." },

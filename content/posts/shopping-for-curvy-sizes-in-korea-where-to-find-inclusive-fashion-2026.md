@@ -66,7 +66,7 @@ Online shopping has revolutionized the way curvy individuals access fashion in K
 
 These websites are your absolute best bet for finding trendy and diverse curvy fashion. They specialize in larger sizes and often provide detailed measurement charts.
 
-*   **Hotping (핫핑):** One of the pioneers and most popular online stores for plus-size fashion in Korea. Hotping offers a vast range of styles from casual to formal, with new arrivals frequently updated. They clearly list detailed measurements for each item and often feature models of various sizes. They ship internationally, making them a great option even before you arrive in Korea. Expect prices for a dress to range from 30,000 KRW to 80,000 KRW.
+*   **Hotping (핫핑):** One of the pioneers and most popular online stores for plus-size fashion in Korea. Hotping offers a vast range of styles from casual to formal, with new arrivals frequently updated. They clearly list detailed measurements for each item and often feature models of various sizes. They ship internationally, making them a great option even before you arrive in Korea. Expect prices for a dress to range from ₩30,000 to ₩80,000.
 *   **J-Style (제이스타일):** Another highly regarded online mall for plus-size clothing. J-Style focuses on stylish and comfortable pieces, mirroring current Korean fashion trends but adapted for larger sizes. Their aesthetic tends to be slightly more mature or sophisticated than some others, offering elegant office wear, chic casuals, and beautiful dresses. Prices are similar to Hotping.
 *   **09Women (공구우먼):** While not exclusively plus-size, 09Women has significantly expanded its larger size offerings and often includes a dedicated "big size" (빅사이즈) section. They are known for their fast fashion approach, offering trendy items at very affordable prices. This is a great place to pick up basics or experiment with new styles without breaking the bank.
 *   **Cherryville (체리빌):** A newer player gaining popularity, Cherryville focuses on contemporary and feminine styles. They feature detailed sizing information and a good range of models. Their aesthetic leans towards romantic and chic, perfect for those seeking a softer, more delicate look.
@@ -92,11 +92,11 @@ While online shopping offers unparalleled convenience, there's nothing quite lik
 
 ### Key Shopping Districts and What to Expect
 
-*   **Dongdaemun Design Plaza (DDP) and Fashion Town (동대문):** Dongdaemun is synonymous with fashion in Seoul. While much of it caters to wholesale or "free size," dedicated sections and individual stores for larger sizes do exist, particularly in the lower levels of some multi-story shopping malls like Doota Mall (두타몰) or Migliore (밀리오레). You'll need to search, but you might find independent boutiques. Look for signs that say "빅사이즈" (big size). Bargaining might be possible in some smaller stalls. Prices can vary wildly depending on the store and quality, from 15,000 KRW for a top to 100,000 KRW for a coat.
+*   **Dongdaemun Design Plaza (DDP) and Fashion Town (동대문):** Dongdaemun is synonymous with fashion in Seoul. While much of it caters to wholesale or "free size," dedicated sections and individual stores for larger sizes do exist, particularly in the lower levels of some multi-story shopping malls like Doota Mall (두타몰) or Migliore (밀리오레). You'll need to search, but you might find independent boutiques. Look for signs that say "빅사이즈" (big size). Bargaining might be possible in some smaller stalls. Prices can vary wildly depending on the store and quality, from ₩15,000 for a top to ₩100,000 for a coat.
 *   **Hongdae (홍대):** Known for its youthful, trendy, and artistic vibe, Hongdae offers a mix of independent boutiques and larger chain stores. While mainstream stores here typically carry smaller sizes, you can occasionally stumble upon a hidden gem. Keep an eye out for stores that might have a small "plus size" rack or more oversized, loose-fitting styles that work well for various body types. The key here is patience and exploration.
 *   **Ewha Womans University Shopping Street (이대):** Similar to Hongdae, this area is popular with students and young adults. It's generally geared towards smaller sizes, but the sheer volume of independent shops means there's always a slight chance of finding something. The focus here is on affordability and current trends.
 *   **Underground Shopping Malls (지하상가):** Major subway stations often have extensive underground shopping malls (e.g., Gangnam Station, Express Bus Terminal, Jamsil Station). These malls feature countless small boutiques. While "free size" dominates, some stores are starting to stock larger items. The Express Bus Terminal Underground Shopping Center (고속터미널 지하상가) is particularly vast and known for its affordable fashion. Searching here is like finding a needle in a haystack, but prices are often significantly lower than department stores.
-*   **Department Stores (백화점):** High-end department stores like Lotte, Shinsegae, and Hyundai generally carry a more limited range of plus sizes within their regular brands. However, some may have a dedicated "special size" or "casual plus" section, usually on a specific floor. While more expensive, the quality and shopping environment are superior. Staff are generally more helpful. Expect higher prices, starting from 80,000 KRW for a basic top to several hundred thousand for a dress.
+*   **Department Stores (백화점):** High-end department stores like Lotte, Shinsegae, and Hyundai generally carry a more limited range of plus sizes within their regular brands. However, some may have a dedicated "special size" or "casual plus" section, usually on a specific floor. While more expensive, the quality and shopping environment are superior. Staff are generally more helpful. Expect higher prices, starting from ₩80,000 for a basic top to several hundred thousand for a dress.
 
 ### Specific Brands and Stores with Inclusive Offerings
 
@@ -143,10 +143,10 @@ When finding the perfect fit off-the-rack proves challenging, tailoring (수선,
 
 ### Tailoring Costs (Estimates):
 
-*   **Pants Hemming:** 5,000 - 10,000 KRW
-*   **Waist Adjustment:** 10,000 - 20,000 KRW
-*   **Basic Top/Dress Adjustment:** 15,000 - 30,000 KRW
-*   **Complex Alterations:** 30,000 KRW+ (depending on the garment and work required)
+*   **Pants Hemming:** ₩5,000 - ₩10,000
+*   **Waist Adjustment:** ₩10,000 - ₩20,000
+*   **Basic Top/Dress Adjustment:** ₩15,000 - ₩30,000
+*   **Complex Alterations:** ₩30,000+ (depending on the garment and work required)
 
 ### Tips for Tailoring:
 
@@ -208,7 +208,7 @@ A2: "Free size" (프리 사이즈, peuri saijeu) in Korea typically means "one s
 A3: Major international fast-fashion brands like H&M and Zara have a presence in Korea and often carry a wider range of sizes than local Korean brands. However, even their "plus size" selections might be more limited compared to what you'd find in their stores in Western countries. Online international retailers that ship to Korea might be a better option.
 
 **Q4: Are Korean tailors expensive for alterations?**
-A4: Generally, Korean tailors, especially those at local dry cleaners or small shops, are quite affordable and offer good quality work. Basic alterations like hemming pants typically cost between 5,000 to 10,000 KRW, making it a very cost-effective way to get a perfect fit.
+A4: Generally, Korean tailors, especially those at local dry cleaners or small shops, are quite affordable and offer good quality work. Basic alterations like hemming pants typically cost between ₩5,000 to ₩10,000, making it a very cost-effective way to get a perfect fit.
 
 **Q5: What are the best cities for curvy shopping in Korea?**
 A5: Seoul offers the most comprehensive options due to its size and diverse shopping districts. Busan also has some good options, particularly online retailers that have physical pop-ups or stores there. For other cities, online shopping will likely be your primary and most successful avenue.

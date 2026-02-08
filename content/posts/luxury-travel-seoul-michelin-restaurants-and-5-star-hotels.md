@@ -38,7 +38,7 @@ When planning your **luxury travel Seoul Michelin restaurants and 5-star hotels*
 *   **Location:** The Shilla Seoul, 23 Jangchungdan-ro, Jung-gu, Seoul
 *   **Ambiance:** Elegant, refined, with stunning city views from the 23rd floor.
 *   **Signature:** La Yeon is renowned for meticulously reinterpreting traditional Korean dishes with contemporary flair. Expect delicate appetizers, perfectly balanced main courses, and exquisite desserts. Their focus on the purity of ingredients shines through every dish. A tasting menu typically features seasonal ingredients.
-*   **Estimated Price Range (Tasting Menu):** 200,000 - 300,000 KRW per person, excluding beverages.
+*   **Estimated Price Range (Tasting Menu):** ₩200,000 - ₩300,000 per person, excluding beverages.
 *   **Insider Tip:** Reservations are essential, often needing to be made several months in advance, especially for weekend evenings. Request a window table for the best views.
 
 ### Gaon (3 Michelin Stars)
@@ -47,7 +47,7 @@ When planning your **luxury travel Seoul Michelin restaurants and 5-star hotels*
 *   **Location:** B1F, Horim Art Center, 317 Dosan-daero, Gangnam-gu, Seoul
 *   **Ambiance:** Serene, sophisticated, and exclusive, often featuring private dining rooms designed to evoke a traditional Korean home.
 *   **Signature:** Gaon presents Korean cuisine in its most traditional and luxurious form, emphasizing seasonal ingredients and ancient cooking methods. They offer two distinct *Jeongsik* (full course meal) menus: Gaon and Onnal. Each dish is a work of art, showcasing the depth and complexity of *Hansik*.
-*   **Estimated Price Range (Tasting Menu):** 250,000 - 400,000 KRW per person, excluding beverages.
+*   **Estimated Price Range (Tasting Menu):** ₩250,000 - ₩400,000 per person, excluding beverages.
 *   **Insider Tip:** Gaon aims to offer a holistic cultural experience. Dress code is smart casual to formal. The wine pairing features a thoughtful selection of traditional Korean alcoholic beverages like *Makgeolli* and *Soju* alongside international wines.
 
 ### Mosu Seoul (2 Michelin Stars)
@@ -56,7 +56,7 @@ When planning your **luxury travel Seoul Michelin restaurants and 5-star hotels*
 *   **Location:** 26 Eonju-ro 164-gil, Gangnam-gu, Seoul
 *   **Ambiance:** Sleek, minimalist, and contemporary, with an open kitchen that provides a glimpse into the culinary artistry.
 *   **Signature:** Chef Sung Anh, who previously ran a successful restaurant in San Francisco, brings a unique perspective to Korean ingredients. His tasting menu is a creative exploration of textures and flavors, often featuring innovative dishes like his signature "Abalone Taco" or meticulously crafted seasonal preparations. It's a culinary journey that surprises and delights.
-*   **Estimated Price Range (Tasting Menu):** 180,000 - 250,000 KRW per person, excluding beverages.
+*   **Estimated Price Range (Tasting Menu):** ₩180,000 - ₩250,000 per person, excluding beverages.
 *   **Insider Tip:** Mosu is known for its inventive flavor combinations. Be open to new culinary experiences. The restaurant's intimate setting makes it perfect for special occasions.
 
 ### Mingles (2 Michelin Stars)
@@ -65,17 +65,17 @@ When planning your **luxury travel Seoul Michelin restaurants and 5-star hotels*
 *   **Location:** 2F, 19 Dosan-daero 67-gil, Gangnam-gu, Seoul
 *   **Ambiance:** Chic, modern, and warm, with a sophisticated yet welcoming atmosphere.
 *   **Signature:** Chef Kang Min-goo is celebrated for his "Mingling" of Korean culinary traditions with Western techniques and ingredients. Expect dishes that are both familiar and innovative, such as his famed *Doenjang* Creme Brulee. Each plate tells a story, balancing traditional fermented flavors with modern plating.
-*   **Estimated Price Range (Tasting Menu):** 160,000 - 220,000 KRW per person, excluding beverages.
+*   **Estimated Price Range (Tasting Menu):** ₩160,000 - ₩220,000 per person, excluding beverages.
 *   **Insider Tip:** Mingles is an excellent choice for those looking for a contemporary interpretation of Korean flavors. Their wine list is extensive, and the sommelier can offer excellent pairings.
 
 ### Michelin Star Restaurant Comparison Table
 
 | Restaurant | Michelin Stars | Cuisine Type             | Estimated Price Range (Tasting Menu) | Vibe/Atmosphere        | Noteworthy                 |
 | :--------- | :------------- | :----------------------- | :----------------------------------- | :--------------------- | :------------------------- |
-| La Yeon    | 3-Stars        | Modern Royal Korean      | 200,000 - 300,000 KRW                | Elegant, Refined, Views | Classic, meticulous        |
-| Gaon       | 3-Stars        | Traditional Korean       | 250,000 - 400,000 KRW                | Serene, Exclusive      | Deeply traditional         |
-| Mosu Seoul | 2-Stars        | Modern Korean/Californian| 180,000 - 250,000 KRW                | Sleek, Contemporary    | Innovative, creative       |
-| Mingles    | 2-Stars        | Contemporary Korean Fusion| 160,000 - 220,000 KRW                | Chic, Modern           | Harmonious East-West fusion|
+| La Yeon    | 3-Stars        | Modern Royal Korean      | ₩200,000 - ₩300,000                | Elegant, Refined, Views | Classic, meticulous        |
+| Gaon       | 3-Stars        | Traditional Korean       | ₩250,000 - ₩400,000                | Serene, Exclusive      | Deeply traditional         |
+| Mosu Seoul | 2-Stars        | Modern Korean/Californian| ₩180,000 - ₩250,000                | Sleek, Contemporary    | Innovative, creative       |
+| Mingles    | 2-Stars        | Contemporary Korean Fusion| ₩160,000 - ₩220,000                | Chic, Modern           | Harmonious East-West fusion|
 
 *Prices are indicative and subject to change. Always check the official restaurant website for the most current information.*
 
@@ -89,7 +89,7 @@ Complementing Seoul's exceptional dining scene are its world-class 5-star hotels
 *   **Key Features:** A timeless icon of luxury, The Shilla is renowned for its elegant design, exceptional service, and comprehensive facilities. It boasts the Michelin 3-star restaurant La Yeon, a beautiful urban *Hanok* (traditional Korean house) for events, an indoor/outdoor pool with cabanas, a luxurious spa, and a state-of-the-art fitness center.
 *   **Rooms/Suites:** Features various room types from deluxe to opulent suites, all furnished with premium amenities and often offering stunning city or Namsan Park views.
 *   **Service Highlights:** Personalized concierge service, limousine transfers, exclusive lounge access for club level guests.
-*   **Estimated Price Range:** 400,000 - 1,000,000+ KRW per night.
+*   **Estimated Price Range:** 400,000 - ₩1,000,000 per night.
 *   **Best For:** Travelers seeking classic, understated luxury with a blend of traditional Korean hospitality and modern amenities. Its serene location near Namsan is a huge plus.
 
 ### Four Seasons Hotel Seoul
@@ -98,7 +98,7 @@ Complementing Seoul's exceptional dining scene are its world-class 5-star hotels
 *   **Key Features:** Modern luxury at its finest. The Four Seasons offers multiple acclaimed dining options (including Italian, Cantonese, and a sophisticated bar), a stunning spa, three indoor pools, and a cutting-edge fitness center. Its design is contemporary Korean, blending traditional patterns with sleek finishes.
 *   **Rooms/Suites:** Spacious rooms with floor-to-ceiling windows, luxurious marble bathrooms, and customizable Four Seasons beds. The suites are exceptionally well-appointed.
 *   **Service Highlights:** Legendary Four Seasons service, highly attentive and intuitive. Excellent for business travelers due to its connectivity and meeting facilities.
-*   **Estimated Price Range:** 500,000 - 1,200,000+ KRW per night.
+*   **Estimated Price Range:** 500,000 - ₩1,200,000 per night.
 *   **Best For:** Modern luxury seekers who appreciate impeccable service, a central location for exploring historical sites, and diverse high-end dining within the hotel.
 
 ### SIGNIEL Seoul
@@ -107,7 +107,7 @@ Complementing Seoul's exceptional dining scene are its world-class 5-star hotels
 *   **Key Features:** True sky-high luxury. SIGNIEL boasts the world's highest swimming pool, a luxurious Evian Spa, a refined lounge, and Michelin-starred French restaurant STAY by Yannick Alléno (1 Michelin star). The design is sleek, sophisticated, and focused on maximizing the breathtaking views.
 *   **Rooms/Suites:** Every room offers spectacular views of the city, mountains, or river. High-tech amenities, premium bedding, and sophisticated decor are standard.
 *   **Service Highlights:** Personal butler service for all guests, bespoke amenities, direct access to the Lotte World Mall and Aquarium.
-*   **Estimated Price Range:** 450,000 - 1,500,000+ KRW per night.
+*   **Estimated Price Range:** 450,000 - ₩1,500,000 per night.
 *   **Best For:** Travelers seeking unparalleled views, ultra-modern luxury, and a sense of exclusivity. Ideal for romantic getaways or celebrating special occasions.
 
 ### Park Hyatt Seoul
@@ -116,17 +116,17 @@ Complementing Seoul's exceptional dining scene are its world-class 5-star hotels
 *   **Key Features:** Understated contemporary design with a focus on natural light and materials. The hotel features an exquisite indoor pool with city views, a serene spa, and excellent dining options, including a Japanese restaurant. Its intimate scale offers a more boutique luxury experience.
 *   **Rooms/Suites:** Floor-to-ceiling windows are a hallmark, offering dynamic views of Gangnam. Rooms are designed with a residential feel, featuring deep soaking tubs and thoughtful amenities.
 *   **Service Highlights:** Personalized and discreet service. The hotel's smaller size allows for more individualized attention.
-*   **Estimated Price Range:** 350,000 - 800,000+ KRW per night.
+*   **Estimated Price Range:** 350,000 - ₩800,000 per night.
 *   **Best For:** Discerning travelers who prefer a boutique luxury experience in the vibrant Gangnam district, with easy access to high-end shopping and entertainment.
 
 ### 5-Star Hotel Comparison Table
 
 | Hotel              | District    | Key Feature                      | Estimated Price Range (Per Night) | Best For                                    | Noteworthy                               |
 | :----------------- | :---------- | :------------------------------- | :-------------------------------- | :------------------------------------------ | :--------------------------------------- |
-| The Shilla Seoul   | Jung-gu     | Classic Korean luxury, Namsan views | 400,000 - 1,000,000+ KRW          | Timeless elegance, serene escape            | Michelin 3-star restaurant La Yeon       |
-| Four Seasons Seoul | Jongno-gu   | Modern design, historical access | 500,000 - 1,200,000+ KRW          | Impeccable service, central exploration     | Multiple award-winning restaurants        |
-| SIGNIEL Seoul      | Songpa-gu   | Sky-high views from Lotte Tower  | 450,000 - 1,500,000+ KRW          | Exclusive experience, breathtaking panoramas| Personal butler, highest pool            |
-| Park Hyatt Seoul   | Gangnam-gu  | Boutique luxury, Gangnam vibrancy | 350,000 - 800,000+ KRW            | Contemporary style, intimate service        | Overlooks Bongeunsa Temple, intimate feel|
+| The Shilla Seoul   | Jung-gu     | Classic Korean luxury, Namsan views | 400,000 - ₩1,000,000          | Timeless elegance, serene escape            | Michelin 3-star restaurant La Yeon       |
+| Four Seasons Seoul | Jongno-gu   | Modern design, historical access | 500,000 - ₩1,200,000          | Impeccable service, central exploration     | Multiple award-winning restaurants        |
+| SIGNIEL Seoul      | Songpa-gu   | Sky-high views from Lotte Tower  | 450,000 - ₩1,500,000          | Exclusive experience, breathtaking panoramas| Personal butler, highest pool            |
+| Park Hyatt Seoul   | Gangnam-gu  | Boutique luxury, Gangnam vibrancy | 350,000 - ₩800,000            | Contemporary style, intimate service        | Overlooks Bongeunsa Temple, intimate feel|
 
 *Prices are indicative and subject to change based on season, demand, and room type.*
 
@@ -194,7 +194,7 @@ Seoul is a shopper's paradise.
 
 ### Luxury Experience Cost Estimate Table
 
-| Item                       | Estimated Cost (KRW)        | Notes                                                              |
+| Item                       | Estimated Cost (₩)        | Notes                                                              |
 | :------------------------- | :-------------------------- | :----------------------------------------------------------------- |
 | 5-Star Hotel (1 night)     | 400,000 - 1,500,000+        | Varies by hotel, room type, and season                             |
 | Michelin 3-Star Dinner (per person) | 200,000 - 400,000+          | Tasting menu, excluding high-end beverages or wine pairing         |
@@ -212,7 +212,7 @@ A flawless **luxury travel Seoul Michelin restaurants and 5-star hotels** experi
 ### Essential Pre-Trip Planning
 
 *   **Visa Requirements:** Check your country's visa requirements for South Korea well in advance.
-*   **Currency:** The local currency is the Korean Won (KRW). Major credit cards (Visa, Mastercard, Amex, JCB) are widely accepted at luxury establishments. It's advisable to carry some cash for smaller purchases or local markets, although less critical in high-end settings.
+*   **Currency:** The local currency is the Korean Won (₩). Major credit cards (Visa, Mastercard, Amex, JCB) are widely accepted at luxury establishments. It's advisable to carry some cash for smaller purchases or local markets, although less critical in high-end settings.
 *   **Best Time to Visit:** Spring (April-May) and Autumn (September-November) offer the most pleasant weather for sightseeing. Summer can be hot and humid, while winter is cold. Peak travel seasons may require earlier bookings.
 
 ### Dining Etiquette in Fine Establishments
@@ -246,7 +246,7 @@ A1: For 2-star and 3-star Michelin restaurants, it's highly recommended to book 
 A2: No, tipping is generally not customary in South Korea, even in high-end establishments. A service charge is usually included in your bill at luxury hotels and fine dining restaurants. There's no need to offer additional gratuity.
 
 **Q3: What is the typical cost of a luxury 5-star hotel per night in Seoul?**
-A3: The typical cost for a luxury 5-star hotel in Seoul can range from approximately 350,000 KRW to 1,500,000+ KRW per night, depending on the hotel, room or suite type, season, and demand. Iconic hotels like The Shilla, Four Seasons, and SIGNIEL typically fall into the higher end of this spectrum.
+A3: The typical cost for a luxury 5-star hotel in Seoul can range from approximately ₩350,000 to ₩1,500,000 per night, depending on the hotel, room or suite type, season, and demand. Iconic hotels like The Shilla, Four Seasons, and SIGNIEL typically fall into the higher end of this spectrum.
 
 **Q4: What's the best way to get around Seoul for a luxury traveler?**
 A4: For luxury travelers, the most convenient and comfortable options are private car services (arranged through your hotel or a dedicated company), hotel limousines, or "Mobeom Taxi" (deluxe black taxis). These offer direct routes, comfort, and professional drivers. While the subway is efficient, private transport saves time and offers a more exclusive experience.

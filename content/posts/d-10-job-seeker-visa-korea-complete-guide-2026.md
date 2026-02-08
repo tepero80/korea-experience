@@ -4,6 +4,16 @@ date: 2026-01-06
 excerpt: "The definitive guide to the D-10 Job Seeker Visa in South Korea for 2026. Learn the points system, financial requirements, and renewal process."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 Securing a job in South Korea remains a primary goal for many international graduates and professionals. However, the gap between graduating or arriving in Korea and actually signing an employment contract can be daunting. Enter the D-10 Job Seeker Visa, often referred to as the bridge to professional life in Korea. As we move into 2026, the regulations surrounding the D-10 have become more streamlined yet strictly points-based, reflecting the Ministry of Justice's focus on attracting high-caliber talent.
@@ -15,7 +25,7 @@ For more details, check out our guide on [D 10 Job Seeker Visa After Graduation 
 <KeyTakeaways 
   points={[
     "You need a minimum of 60 points out of 190 to qualify for the D-10-1 visa",
-    "Proof of funds requirement is approx 5 million KRW for 6 months coverage",
+    "Proof of funds requirement is approx ₩5 million for 6 months coverage",
     "Maximum validity is 2 years, renewable in 6-month intervals"
   ]}
   readTime={15}
@@ -39,7 +49,7 @@ Learn more in our comprehensive guide to [Alien Registration Card Application Pr
 <QuickFacts
   title="D-10 Visa Quick Stats"
   facts={[
-    { label: "Application Fee", value: "130,000 KRW", icon: "💸" },
+    { label: "Application Fee", value: "₩130,000", icon: "💸" },
     { label: "Processing", value: "2-4 Weeks", icon: "⏳" },
     { label: "Max Validity", value: "2 Years", icon: "📅" }
   ]}
@@ -77,14 +87,14 @@ If you are a graduate of a Korean university (D-2 holder) seeking to switch to D
 *   Global talent (graduates of top global unis) get extra leverage.
 
 <InfoBox type="warning" title="The Penalty System">
-  Be careful! Points can be deducted for violations of the Immigration Control Act. A single fine of 100,000 KRW or more within the last 2 years can result in a deduction of 5 to 10 points, potentially disqualifying you.
+  Be careful! Points can be deducted for violations of the Immigration Control Act. A single fine of ₩100,000 or more within the last 2 years can result in a deduction of 5 to 10 points, potentially disqualifying you.
 </InfoBox>
 
 ## Financial Requirements: The Cost of Job Seeking
 
 In 2026, the financial requirement is tied to the cost of living index. You must prove you can support yourself without working illegally.
 
-Immigration generally requires proof of funds equivalent to **roughly 900,000 KRW to 1,000,000 KRW per month** of your stay. Since the D-10 is issued in 6-month increments, you need to show liquidity for that period.
+Immigration generally requires proof of funds equivalent to **roughly ₩900,000 to ₩1,000,000 per month** of your stay. Since the D-10 is issued in 6-month increments, you need to show liquidity for that period.
 
 <PriceTable
   title="Estimated Initial Costs (First 6 Months)"
@@ -138,7 +148,7 @@ Navigating the immigration system requires patience. The standard processing tim
   items={[
     { time: "D-30 Days", title: "Document Gathering", description: "Order apostilles and request bank statements.", icon: "📂" },
     { time: "D-14 Days", title: "HiKorea Reservation", description: "Book your visit. Slots fill up fast in Seoul.", icon: "📅" },
-    { time: "Day 0", title: "Submission", description: "Visit the office. Pay 130,000 KRW (cash only for revenue stamps).", icon: "🏢" },
+    { time: "Day 0", title: "Submission", description: "Visit the office. Pay ₩130,000 (cash only for revenue stamps).", icon: "🏢" },
     { time: "Day 21", title: "Pickup", description: "Receive your new ARC with D-10 status.", icon: "🆔" }
   ]}
 />
@@ -159,7 +169,7 @@ To renew, you must prove you have been *actively* seeking employment.
 *   **Quantity:** Aim for at least **2 to 3 documented activities per month**.
 
 <InfoBox type="danger" title="Internship Rules">
-  You can do an internship on a D-10 visa, but it must be reported to immigration BEFORE you start. The internship cannot exceed 6 months, and the pay must meet minimum wage standards (approx. 9,860 KRW per hour in 2024/2025 terms, adjusted slightly higher for 2026). If you work without reporting it, you face deportation.
+  You can do an internship on a D-10 visa, but it must be reported to immigration BEFORE you start. The internship cannot exceed 6 months, and the pay must meet minimum wage standards (approx. ₩9,860 per hour in 2024/2025 terms, adjusted slightly higher for 2026). If you work without reporting it, you face deportation.
 </InfoBox>
 
 ## Living in Korea on a D-10: Survival Guide
@@ -167,11 +177,11 @@ To renew, you must prove you have been *actively* seeking employment.
 Living without a steady income in Korea is challenging. The D-10 allows you to stay, but it doesn't solve the rent issue.
 
 ### Housing on a Budget
-Most "One-room" (Studio) apartments require a deposit (Key money) of **5,000,000 to 10,000,000 KRW**. If you are preserving cash, look for *Goshiwons*.
+Most "One-room" (Studio) apartments require a deposit (Key money) of **5,000,000 to ₩10,000,000**. If you are preserving cash, look for *Goshiwons*.
 
 <ComparisonTable
   title="Housing Options for Job Seekers"
-  headers={["Type", "Deposit (KRW)", "Monthly Rent (KRW)", "Features"]}
+  headers={["Type", "Deposit (₩)", "Monthly Rent (₩)", "Features"]}
   rows={[
     { feature: "One-Room (Studio)", option1: "5M - 10M", option2: "500k - 800k", option3: "Private kitchen/bath" },
     { feature: "Share House", option1: "1M - 2M", option2: "400k - 600k", option3: "Social, shared utilities" },
@@ -212,7 +222,7 @@ Is the D-10 right for you, or should you return home and apply for an E-7 from t
 The moment you sign a contract, you must switch to an E-7 (or E-1/E-2/E-3 depending on the field).
 1.  **Contract Signing:** Ensure the company meets the foreigner hiring ratio (usually 20% max of Korean staff).
 2.  **Visa Change:** You do *not* need to leave Korea. You apply for a "Change of Status of Sojourn" at your local immigration office.
-3.  **Fee:** Another **130,000 KRW** (100k for application, 30k for card).
+3.  **Fee:** Another **₩130,000** (100k for application, 30k for card).
 
 <ExpertTip 
   author="James Lee"
@@ -220,7 +230,7 @@ The moment you sign a contract, you must switch to an E-7 (or E-1/E-2/E-3 depend
   type="local"
   verified={true}
 >
-  When negotiating your salary for the E-7 visa, remember the GNI (Gross National Income) rule. For most E-7 codes, your salary must be at least 80% of the previous year's GNI per capita. In 2026, this threshold is approximately 35 million KRW to 40 million KRW annually. If your contract is below this, the visa will be denied regardless of your D-10 status.
+  When negotiating your salary for the E-7 visa, remember the GNI (Gross National Income) rule. For most E-7 codes, your salary must be at least 80% of the previous year's GNI per capita. In 2026, this threshold is approximately ₩35 million to ₩40 million annually. If your contract is below this, the visa will be denied regardless of your D-10 status.
 </ExpertTip>
 
 ## Frequently Asked Questions

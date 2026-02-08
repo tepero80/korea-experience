@@ -4,11 +4,21 @@ date: 2026-01-07
 excerpt: "Unlock premium dining at half the price. Your ultimate guide to Jeomsim Teukseon lunch specials in Korea for 2026, from Hanwoo beef to Omakase."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "10 min read"
+featured: false
 ---
 
 Dining out in South Korea is a culinary adventure, but as we move through 2026, global inflation has impacted menu prices in Seoul just as it has in New York or London. However, Korea holds a secret weapon for the savvy gastronomic traveler: **Jeomsim Teukseon** (점심특선). Literally translating to "Lunch Special," this dining culture allows you to experience high-end meals—including premium Korean BBQ and elaborate course meals—for a fraction of the dinner price.
 
-While a standard dinner at a top-tier Gangnam beef restaurant might set you back 150,000 KRW (approx. $115 USD) per person, the same establishment often serves a lunch set containing similar quality cuts for 35,000 to 50,000 KRW ($27-$38 USD). Understanding how to navigate these offers is the single most effective way to maximize your travel budget while sacrificing nothing in terms of taste or experience.
+While a standard dinner at a top-tier Gangnam beef restaurant might set you back ₩150,000 (approx. $115 USD) per person, the same establishment often serves a lunch set containing similar quality cuts for 35,000 to ₩50,000 ($27-$38 USD). Understanding how to navigate these offers is the single most effective way to maximize your travel budget while sacrificing nothing in terms of taste or experience.
 
 <KeyTakeaways 
   points={[
@@ -38,13 +48,13 @@ In 2026, the standard lunch hour rush in business districts like Yeouido and Teh
   source="Korea Food Service Industry Assoc. 2026"
 />
 
-The strategic advantage for travelers is immense. Data from early 2026 suggests that the average traveler saves approximately 350,000 KRW ($270 USD) over a 7-day trip simply by shifting their "big splurge" meals from dinner to lunch.
+The strategic advantage for travelers is immense. Data from early 2026 suggests that the average traveler saves approximately ₩350,000 ($270 USD) over a 7-day trip simply by shifting their "big splurge" meals from dinner to lunch.
 
 You might also enjoy our article about [Michelin Guide Seoul 2026](/blog/michelin-seoul-lunch-under-50-2026).
 
 ## The Economics of Eating Out in 2026
 
-"Lunchflation" (Lunch + Inflation) has been a buzzword in Korean media for the past three years. As of January 2026, the average price of a standard Bibimbap in Seoul has risen to roughly 13,000 KRW ($10 USD). However, Jeomsim Teukseon menus have remained competitively priced to ensure volume sales.
+"Lunchflation" (Lunch + Inflation) has been a buzzword in Korean media for the past three years. As of January 2026, the average price of a standard Bibimbap in Seoul has risen to roughly ₩13,000 ($10 USD). However, Jeomsim Teukseon menus have remained competitively priced to ensure volume sales.
 
 <PriceTable
   title="Dinner vs. Lunch: The Price Gap"
@@ -61,21 +71,21 @@ You might also enjoy our article about [Michelin Guide Seoul 2026](/blog/micheli
 
 ## Best Categories for Lunch Specials
 
-Not all lunch specials are created equal. While a simple noodle shop might offer a 1,000 KRW discount, the real value lies in luxury dining categories.
+Not all lunch specials are created equal. While a simple noodle shop might offer a ₩1,000 discount, the real value lies in luxury dining categories.
 
 ### 1. Hanwoo (Korean Native Beef)
 This is the gold standard of Jeomsim Teukseon. A typical lunch set includes high-quality charcoal-grilled beef, a stew (Doenjang-jjigae or Kimchi-jjigae), rice (often stone-pot rice), and various banchan (side dishes).
-*   **Average Cost:** 25,000 – 45,000 KRW ($19 - $35 USD).
+*   **Average Cost:** 25,000 – ₩45,000 ($19 - $35 USD).
 *   **Time Limit:** Usually 60 to 90 minutes.
 
 ### 2. Sushi Omakase
-Seoul's "Entry-level Omakase" scene is thriving in 2026. A dinner course that costs 120,000 KRW often has a lunch counterpart for 50,000 – 60,000 KRW.
-*   **Average Cost:** 45,000 – 70,000 KRW ($35 - $54 USD).
+Seoul's "Entry-level Omakase" scene is thriving in 2026. A dinner course that costs ₩120,000 often has a lunch counterpart for 50,000 – ₩60,000.
+*   **Average Cost:** 45,000 – ₩70,000 ($35 - $54 USD).
 *   **Requirement:** Reservations are almost mandatory via apps like CatchTable.
 
 ### 3. Hanjeongsik (Traditional Full Course)
 These table-filling feasts are perfect for experiencing Korean culinary history. Lunch menus often provide 80% of the dishes found on the dinner menu for 50% of the price.
-*   **Average Cost:** 20,000 – 35,000 KRW ($15 - $27 USD).
+*   **Average Cost:** 20,000 – ₩35,000 ($15 - $27 USD).
 
 <QuickFacts
   title="Lunch Special Logistics"
@@ -97,7 +107,7 @@ Navigating the streets of Seoul requires a keen eye. Look for X-banners (vertica
   difficulty="easy"
   steps={[
     { title: "Scan for Banners", description: "Look for banners outside displaying time ranges (e.g., 11:30~15:00) and prices.", tip: "Look for the text '점심특선' (Jeomsim Teukseon)." },
-    { title: "Check the Price", description: "Good value sets are usually priced between 12,000 and 25,000 KRW.", tip: "Avoid places with no prices listed outside." },
+    { title: "Check the Price", description: "Good value sets are usually priced between 12,000 and ₩25,000.", tip: "Avoid places with no prices listed outside." },
     { title: "Use the Kiosk", description: "Select the 'Lunch' tab on the tablet. Most 2026 kiosks have an English toggle in the top right corner." }
   ]}
 />
@@ -152,14 +162,14 @@ For those exploring the palaces near Gyeongbokgung, this Hanjeongsik restaurant 
   rating={4.6}
   transit="Exit 6 from Anguk Station, 5 min walk"
   highlights={["20-Dish Spread", "Grilled Mackerel", "Soybean Paste Stew"]}
-  tip="The lunch special here (18,000 KRW) includes refillable side dishes."
+  tip="The lunch special here (₩18,000) includes refillable side dishes."
 />
 
 ## Comparison: The Worker's Lunch vs. The Traveler's Lunch
 
 It is important to distinguish between a "Baekban" (simple meal) and a "Jeomsim Teukseon" (Special Set).
 
-A Baekban is a sustenance meal for workers, typically costing 9,000 to 11,000 KRW ($7-$8.50). It is fast, filling, and simple. A Jeomsim Teukseon at a premium restaurant is an *experience*, typically costing 20,000 to 40,000 KRW.
+A Baekban is a sustenance meal for workers, typically costing 9,000 to ₩11,000 ($7-$8.50). It is fast, filling, and simple. A Jeomsim Teukseon at a premium restaurant is an *experience*, typically costing 20,000 to ₩40,000.
 
 <ComparisonTable
   title="Lunch Types Compared"

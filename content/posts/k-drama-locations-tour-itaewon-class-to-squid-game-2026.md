@@ -4,6 +4,16 @@ date: 2026-01-13
 excerpt: "Discover iconic K Drama locations from Itaewon Class to Squid Game season 2. Your ultimate 2026 guide to filming spots in Seoul and beyond."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "10 min read"
+featured: false
 ---
 
 South Korea’s cultural influence has only deepened since the Hallyu wave first crashed onto global shores. By 2026, the landscape of K-Drama tourism has evolved from a niche hobby into a primary travel motivation for over 45% of international visitors to Seoul. Whether you are retracing the steps of Park Sae-ro-yi from the 2020 classic *Itaewon Class* or hunting for the dystopian backdrops of *Squid Game* Season 2, Seoul serves as a living, breathing soundstage.
@@ -35,7 +45,7 @@ Even six years after its release, *Itaewon Class* remains the quintessential Seo
 ### The Namsan Park Fortress Wall
 This location, where the protagonists often walked while overlooking Seoul Tower, offers one of the best panoramic views of the city. The specific spot is near Baekbeom Square Park.
 
-**Logistics:** It is a steep 20-minute walk from Hoehyeon Station (Line 4), Exit 4. Alternatively, the Namsan Sunhwan Shuttle Bus No. 01 costs 1,400 KRW (approx. $1.10) and drops you nearby.
+**Logistics:** It is a steep 20-minute walk from Hoehyeon Station (Line 4), Exit 4. Alternatively, the Namsan Sunhwan Shuttle Bus No. 01 costs ₩1,400 (approx. $1.10) and drops you nearby.
 
 <InfoBox type="tip" title="Pro Tip">
   Visit the fortress wall at sunset (around 19:30 in summer) to capture the transition from day to night, exactly as it appeared in the drama's most emotional scenes.
@@ -65,7 +75,7 @@ With the explosive success of *Squid Game* Season 2 in late 2024 and the subsequ
 ### Ssangmun-dong: The Hometown
 Gi-hun’s neighborhood, Ssangmun-dong in Dobong-gu, captures the nostalgia of old Seoul. It is located in the northern part of the city, approximately 50 minutes from Gangnam by subway.
 
-**Baek Woon Market:** This traditional market is where Sang-woo’s mother operated her fish shop. Prices here are significantly lower than in tourist districts; you can buy a hearty portion of tteokbokki (spicy rice cakes) for just 3,000 KRW ($2.20).
+**Baek Woon Market:** This traditional market is where Sang-woo’s mother operated her fish shop. Prices here are significantly lower than in tourist districts; you can buy a hearty portion of tteokbokki (spicy rice cakes) for just ₩3,000 ($2.20).
 
 <ExpertTip 
   author="Kim Min-ji"
@@ -77,7 +87,7 @@ Gi-hun’s neighborhood, Ssangmun-dong in Dobong-gu, captures the nostalgia of o
 </ExpertTip>
 
 ### Citizen's Forest Station (Yangjae)
-Featured heavily in the recruitment scenes where the "Ddakhji" game is played, the modern glass architecture of the Shinbundang Line stations provides the cold, sterile aesthetic seen in the show. From Gangnam Station, it is only a 4-minute ride (one stop) costing 1,400 KRW.
+Featured heavily in the recruitment scenes where the "Ddakhji" game is played, the modern glass architecture of the Shinbundang Line stations provides the cold, sterile aesthetic seen in the show. From Gangnam Station, it is only a 4-minute ride (one stop) costing ₩1,400.
 
 <StatCard
   title="Squid Game Tourism Impact"
@@ -96,7 +106,7 @@ The 2024-2025 era of K-Dramas brought us massive hits like *Queen of Tears* and 
 ### The Hyundai Seoul (Queen of Tears)
 Scenes depicting the Queens Department Store were filmed at The Hyundai Seoul in Yeouido. As of 2026, this remains the largest department store in Seoul, covering 89,100 square meters.
 
-**Why Visit:** aside from the drama connection, the "Sounds Forest" on the 5th floor is an indoor botanical garden perfect for escaping the city heat. Coffee prices here average 6,500 KRW ($4.80), which is slightly higher than the city average.
+**Why Visit:** aside from the drama connection, the "Sounds Forest" on the 5th floor is an indoor botanical garden perfect for escaping the city heat. Coffee prices here average ₩6,500 ($4.80), which is slightly higher than the city average.
 
 <QuickFacts
   title="The Hyundai Seoul Facts"
@@ -111,7 +121,7 @@ Scenes depicting the Queens Department Store were filmed at The Hyundai Seoul in
 ### Suwon Hwaseong Fortress (Lovely Runner)
 *Lovely Runner* utilized the timeless backdrop of Suwon to depict different timelines. The Hwaseong Fortress, a UNESCO World Heritage site, is located 30 kilometers south of Seoul.
 
-**Travel Data:** The Mugunghwa train from Seoul Station to Suwon takes 30 minutes and costs 2,700 KRW ($2.00). The KTX is faster (20 minutes) but costs 8,400 KRW ($6.20).
+**Travel Data:** The Mugunghwa train from Seoul Station to Suwon takes 30 minutes and costs ₩2,700 ($2.00). The KTX is faster (20 minutes) but costs ₩8,400 ($6.20).
 
 **The Fortress Walk:** The perimeter is 5.7 kilometers long. Walking the entire circuit takes about 2 to 2.5 hours.
 
@@ -132,8 +142,8 @@ The main royal palace is the setting for countless sageuk (historical dramas). B
   difficulty="easy"
   steps={[
     { title: "Find a Rental Shop", description: "Locate a Hanbok rental shop near Gyeongbokgung Station Exit 4.", tip: "Book in advance on Klook or Trazy for a 15% discount." },
-    { title: "Select Your Style", description: "Choose between 'Traditional' or 'Themed' (gold accents). Themed rentals cost approx 25,000 KRW for 4 hours." },
-    { title: "Enter the Palace", description: "Walk to the ticket booth. Anyone wearing a Hanbok gets their 3,000 KRW entry fee waived automatically." }
+    { title: "Select Your Style", description: "Choose between 'Traditional' or 'Themed' (gold accents). Themed rentals cost approx ₩25,000 for 4 hours." },
+    { title: "Enter the Palace", description: "Walk to the ticket booth. Anyone wearing a Hanbok gets their ₩3,000 entry fee waived automatically." }
   ]}
 />
 
@@ -158,7 +168,7 @@ Google Maps works better in Korea now than in previous years, but Naver Map and 
 />
 
 ### Budget Breakdown
-An average day of "drama hunting" (visiting 3 locations, eating 2 meals, and cafe stops) costs approximately 65,000 KRW ($48 USD) per person if using public transport.
+An average day of "drama hunting" (visiting 3 locations, eating 2 meals, and cafe stops) costs approximately ₩65,000 ($48 USD) per person if using public transport.
 
 <PriceTable
   title="Daily Budget Comparison (1 Day)"
@@ -208,4 +218,4 @@ To maximize your efficiency, cluster your visits by district.
   ]}
 />
 
-By blending the nostalgia of *Itaewon Class* with the modern grit of *Squid Game*, a tour of Seoul's drama locations offers a unique lens into the city's soul. Whether you are spending 1,400 KRW on a subway ride or 100,000 KRW on a luxury dining experience, the city offers a scene for every traveler. Pack your walking shoes, charge your camera, and get ready to step into the screen.
+By blending the nostalgia of *Itaewon Class* with the modern grit of *Squid Game*, a tour of Seoul's drama locations offers a unique lens into the city's soul. Whether you are spending ₩1,400 on a subway ride or ₩100,000 on a luxury dining experience, the city offers a scene for every traveler. Pack your walking shoes, charge your camera, and get ready to step into the screen.

@@ -4,6 +4,16 @@ date: 2026-01-27
 excerpt: "Master the strict South Korean recycling system. Learn about sorting categories, specific colored bags, disposal schedules, and how to avoid heavy fines."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Coffee"
+readTime: "15 min read"
+featured: false
 ---
 
 Moving to South Korea comes with a distinct learning curve, and surprisingly, one of the steepest challenges for new arrivals is mastering the art of taking out the trash. Unlike many Western countries where recycling is a casual suggestion, South Korea operates one of the most rigorous and successful waste management systems in the world. The system, known as *Jongnyangje* (Volume-Based Waste Fee System), requires residents to purchase specific district-issued bags for general waste and strictly sort recyclables into detailed categories.
@@ -14,8 +24,8 @@ For more details, check out our guide on [Buying property in Korea foreign owner
 
 <KeyTakeaways 
   points={[
-    "You must buy district-specific standard bags (20L averages 490 KRW) for general waste",
-    "Fines for illegal dumping or improper sorting start at 100,000 KRW",
+    "You must buy district-specific standard bags (20L averages ₩490) for general waste",
+    "Fines for illegal dumping or improper sorting start at ₩100,000",
     "Food waste must be separated unless it is hard matter like bones or shells"
   ]}
   readTime={15}
@@ -35,7 +45,7 @@ You might also enjoy our article about [D visa student visa and part time work r
 <QuickFacts
   title="Trash Bag Specifications"
   facts={[
-    { label: "Standard Bag Cost", value: "490 KRW (20L)", icon: "💰" },
+    { label: "Standard Bag Cost", value: "₩490 (20L)", icon: "💰" },
     { label: "Bag Sizes", value: "5L to 100L", icon: "📏" },
     { label: "Availability", value: "Convenience Stores", icon: "🏪" }
   ]}
@@ -47,7 +57,7 @@ You can purchase these bags at local convenience stores (CU, GS25, 7-Eleven) or 
 
 Related reading: [Jeonse vs wolse Korean rental system explained](/blog/jeonse-vs-wolse-korean-rental-system-explained).
 
-Prices vary slightly by district, but generally, a 10-liter standard garbage bag costs around 250 KRW ($0.19 USD), while a 20-liter bag costs approximately 490 KRW ($0.37 USD). For larger households, 50-liter bags are available for about 1,250 KRW ($0.95 USD).
+Prices vary slightly by district, but generally, a 10-liter standard garbage bag costs around ₩250 ($0.19 USD), while a 20-liter bag costs approximately ₩490 ($0.37 USD). For larger households, 50-liter bags are available for about ₩1,250 ($0.95 USD).
 
 <InfoBox type="warning" title="Relocation Warning">
 If you move to a new district (Gu), you cannot use your old trash bags. However, you can visit your local community center (Dong office) to get "transfer stickers" that validate your old bags for the new district.
@@ -90,8 +100,8 @@ Many foreigners accidentally face fines because they put the following items in 
 
 ### How to Dispose of Food Waste
 The method depends on your housing type:
-1.  **Special Bags:** Yellow or orange bags purchased at convenience stores (distinct from general waste bags). A 2-liter food bag costs roughly 190 KRW.
-2.  **RFID Bins:** Common in modern apartments. You scan a card, the bin opens, you dump the food (without a bag), and the machine weighs it. You are billed monthly based on the weight (approx. 35 KRW per kg).
+1.  **Special Bags:** Yellow or orange bags purchased at convenience stores (distinct from general waste bags). A 2-liter food bag costs roughly ₩190.
+2.  **RFID Bins:** Common in modern apartments. You scan a card, the bin opens, you dump the food (without a bag), and the machine weighs it. You are billed monthly based on the weight (approx. ₩35 per kg).
 3.  **Designated Buckets:** In some older neighborhoods, you buy a plastic bucket, put a payment sticker (chip) on it, and leave it out for collection.
 
 <ExpertTip 
@@ -174,10 +184,10 @@ South Korea utilizes a surveillance-heavy approach to enforce recycling laws. CC
 
 ### Financial Consequences
 The fines are not trivial. Under the Wastes Control Act, fines can be levied for various infractions.
-*   **Mixing Food in General Waste:** Approximately 100,000 KRW ($75 USD).
-*   **Illegal Dumping (No official bag):** 200,000 KRW ($150 USD).
-*   **Burning Trash:** Up to 1,000,000 KRW ($750 USD).
-*   **Disposing Outside Designated Time:** 100,000 KRW ($75 USD).
+*   **Mixing Food in General Waste:** Approximately ₩100,000 ($75 USD).
+*   **Illegal Dumping (No official bag):** ₩200,000 ($150 USD).
+*   **Burning Trash:** Up to ₩1,000,000 ($750 USD).
+*   **Disposing Outside Designated Time:** ₩100,000 ($75 USD).
 
 Recently, the government has introduced "Bounty Hunter" programs (Paparazzi system) where citizens can report illegal dumping via smartphone apps. If you capture video evidence of someone dumping trash illegally, you can receive a reward of up to 20% of the fine imposed.
 
@@ -196,7 +206,7 @@ Recently, the government has introduced "Bounty Hunter" programs (Paparazzi syst
 What do you do with a broken suitcase, an old mattress, or a fan? You cannot put these in bags. These are classified as *Daeryong Pye-gimul* (Large Waste).
 
 To dispose of these, you must pay a fee to the district office.
-1.  **Offline:** Visit your local community center (Dong office) or a designated mart. Tell them what you are throwing away (e.g., "King size mattress"). You pay the fee (ranging from 2,000 KRW for a fan to 15,000 KRW for a bed) and receive a sticker. Stick it on the item and place it outside.
+1.  **Offline:** Visit your local community center (Dong office) or a designated mart. Tell them what you are throwing away (e.g., "King size mattress"). You pay the fee (ranging from ₩2,000 for a fan to ₩15,000 for a bed) and receive a sticker. Stick it on the item and place it outside.
 2.  **Online:** Visit your district office's website (e.g., Gangnam-gu Office). Navigate to the waste section, pay by credit card, print the certificate, and tape it to the item.
 3.  **App:** Apps like "Yeogiro" (여기로) allow you to upload a photo, pay via mobile, and get a code to write on the item.
 
@@ -217,7 +227,7 @@ Here is how it works:
 1.  Bring clean, label-free PET bottles or aluminum cans.
 2.  Insert them one by one into the machine's port.
 3.  The AI analyzes the item. If accepted, it crushes it.
-4.  You earn 10 points (10 KRW) per item.
+4.  You earn 10 points (₩10) per item.
 5.  Once you accumulate 2,000 points, you can convert it to cash sent to your bank account.
 
 This gamification has made recycling popular among students and the elderly. However, there is usually a daily limit (often 30 to 50 items per person) to prevent hoarding.
@@ -229,7 +239,7 @@ This gamification has made recycling popular among students and the elderly. How
   address="Various locations (Check Superbin App)"
   hours="24 Hours (usually)"
   phone="1600-6217"
-  priceRange="Earn 10 KRW/item"
+  priceRange="Earn ₩10/item"
   rating={4.8}
   transit="Available at most District Offices"
   highlights={["Cash Rewards", "AI Sorting", "Instant Processing"]}

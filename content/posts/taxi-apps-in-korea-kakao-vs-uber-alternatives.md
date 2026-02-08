@@ -267,11 +267,11 @@ Understanding taxi fares is crucial for budgeting your trip. While apps provide 
 Fares are determined by a combination of a base fare and a metered rate based on distance and time. The type of taxi significantly impacts the base fare and the per-kilometer rate.
 
 *   **Standard Taxi (일반 택시):**
-    *   **Base Fare:** Approximately 3,800 - 4,800 Korean Won (KRW) in Seoul (as of recent adjustments). This covers the first 1.6 - 2 kilometers.
-    *   **Per Kilometer/Time:** Increases by roughly 100 KRW for every 131-132 meters or 30-31 seconds when speed drops below 15 km/h.
+    *   **Base Fare:** Approximately 3,800 - 4,800 Korean Won (₩) in Seoul (as of recent adjustments). This covers the first 1.6 - 2 kilometers.
+    *   **Per Kilometer/Time:** Increases by roughly ₩100 for every 131-132 meters or 30-31 seconds when speed drops below 15 km/h.
 *   **Deluxe Taxi (모범 택시) / Jumbo Taxi (점보 택시):**
-    *   **Base Fare:** Approximately 6,500 - 7,000 KRW. This covers the first 3 kilometers.
-    *   **Per Kilometer/Time:** Increases by roughly 200 KRW for every 151 meters or 36 seconds. Significantly higher than standard taxis.
+    *   **Base Fare:** Approximately ₩6,500 - ₩7,000. This covers the first 3 kilometers.
+    *   **Per Kilometer/Time:** Increases by roughly ₩200 for every 151 meters or 36 seconds. Significantly higher than standard taxis.
 *   **International Taxi (국제 택시):**
     *   **Fares:** Primarily operate on fixed-fare zones, especially for airport transfers. For city rides, they usually follow Deluxe Taxi meter rates but with English-speaking drivers.
 
@@ -291,25 +291,25 @@ Fares are determined by a combination of a base fare and a metered rate based on
 Please note these are *estimates* and can fluctuate based on traffic, exact starting/ending points, and time of day (surcharges).
 
 *   **Incheon International Airport (ICN) to Central Seoul (e.g., Myeongdong, Gangnam):**
-    *   **Standard Taxi:** 60,000 - 80,000 KRW (includes toll fees and potential late-night surcharge).
-    *   **Deluxe/Jumbo Taxi:** 90,000 - 120,000 KRW (fixed fares often apply for International/Jumbo taxis).
-    *   **International Taxi:** Fixed fares exist, e.g., Zone A (Gangnam, Seocho) 80,000 KRW, Zone B (Jongno, Myeongdong) 75,000 KRW.
+    *   **Standard Taxi:** ₩60,000 - ₩80,000 (includes toll fees and potential late-night surcharge).
+    *   **Deluxe/Jumbo Taxi:** ₩90,000 - ₩120,000 (fixed fares often apply for International/Jumbo taxis).
+    *   **International Taxi:** Fixed fares exist, e.g., Zone A (Gangnam, Seocho) ₩80,000, Zone B (Jongno, Myeongdong) ₩75,000.
 *   **Gimpo International Airport (GMP) to Central Seoul (e.g., Hongdae, Myeongdong):**
-    *   **Standard Taxi:** 25,000 - 40,000 KRW.
+    *   **Standard Taxi:** ₩25,000 - ₩40,000.
 *   **Gangnam to Myeongdong (within Seoul):**
-    *   **Standard Taxi:** 10,000 - 15,000 KRW (daytime).
-    *   **Deluxe Taxi:** 20,000 - 25,000 KRW (daytime).
+    *   **Standard Taxi:** ₩10,000 - ₩15,000 (daytime).
+    *   **Deluxe Taxi:** ₩20,000 - ₩25,000 (daytime).
 *   **Hongdae to Itaewon (within Seoul):**
-    *   **Standard Taxi:** 8,000 - 12,000 KRW (daytime).
+    *   **Standard Taxi:** ₩8,000 - ₩12,000 (daytime).
 
 ### Pricing Table: Overview of Taxi Fares in Seoul
 
 | Taxi Type        | Base Fare (Daytime) | Per Distance/Time Rate (Approx.) | Late-Night Surcharge (10 PM - 4 AM) | Key Benefit                                    |
 | :--------------- | :------------------ | :------------------------------- | :---------------------------------- | :--------------------------------------------- |
-| **Standard**     | 4,800 KRW (2 km)    | 100 KRW / 131 m or 30 sec       | 20-40%                              | Most common, affordable                       |
-| **Deluxe / Jumbo** | 7,000 KRW (3 km)    | 200 KRW / 151 m or 36 sec       | None                                | Premium comfort, no night surcharge, groups   |
+| **Standard**     | ₩4,800 (2 km)    | ₩100 / 131 m or 30 sec       | 20-40%                              | Most common, affordable                       |
+| **Deluxe / Jumbo** | ₩7,000 (3 km)    | ₩200 / 151 m or 36 sec       | None                                | Premium comfort, no night surcharge, groups   |
 | **International**| Fixed Fares / Deluxe| Fixed Fares / Deluxe             | Varies by service                  | English-speaking drivers, fixed airport fares  |
-| **Kakao Blue**   | 5,500 KRW (2 km)    | Similar to Standard              | Yes (20-40%)                        | Guaranteed dispatch, no refusal               |
+| **Kakao Blue**   | ₩5,500 (2 km)    | Similar to Standard              | Yes (20-40%)                        | Guaranteed dispatch, no refusal               |
 
 ### App-Based Fare Estimates vs. Metered Fares
 

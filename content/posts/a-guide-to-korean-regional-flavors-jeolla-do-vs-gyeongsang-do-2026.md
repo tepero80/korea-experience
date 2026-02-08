@@ -4,6 +4,16 @@ date: 2026-01-01
 excerpt: "Discover the ultimate culinary rivalry of South Korea. A comprehensive comparison of Jeolla-do feasts vs Gyeongsang-do bold flavors for 2026 travelers."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 South Korea is a monolith of modernity, but beneath the neon lights of Seoul lies a culinary map deeply divided by geography, history, and fermentation jars. For the international gourmand traveling in 2026, the most significant rivalry isn't between K-Pop fandoms, but between the two southern titans of taste: Jeolla-do (the Southwest) and Gyeongsang-do (the Southeast).

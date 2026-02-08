@@ -51,7 +51,7 @@ Skyview Glamping Resort is a beacon of modern luxury, perfectly blending contemp
 *   **Family-Friendly Amenities:** A heated outdoor swimming pool (seasonal), a children's play area, and various nature walks make it ideal for families.
 *   **Activities:** Nearby attractions include Nami Island, Petite France, and the Garden of Morning Calm, easily accessible for day trips.
 
-**Estimated Price Range (2026):** 300,000 - 600,000 KRW per night, depending on the season and specific dome features.
+**Estimated Price Range (2026):** ₩300,000 - ₩600,000 per night, depending on the season and specific dome features.
 **Accessibility:** Best reached by car. Public transport via ITX train to Gapyeong Station, followed by a local bus or taxi.
 **Ideal For:** Couples, families, those seeking modern amenities and stunning views.
 
@@ -68,7 +68,7 @@ For those who prioritize an immersive, eco-conscious experience without sacrific
 *   **Wellness Programs:** Yoga and meditation sessions are often available, enhancing the serene and rejuvenating atmosphere.
 *   **Art and Craft Workshops:** Engage in pottery or natural dyeing workshops, connecting with local crafts.
 
-**Estimated Price Range (2026):** 250,000 - 550,000 KRW per night, influenced by accommodation type and included programs.
+**Estimated Price Range (2026):** ₩250,000 - ₩550,000 per night, influenced by accommodation type and included programs.
 **Accessibility:** A car is highly recommended for the most convenient access. Express bus services to Chuncheon terminal are available from Seoul, followed by a taxi.
 **Ideal For:** Eco-conscious travelers, nature lovers, those seeking tranquility and wellness.
 
@@ -85,7 +85,7 @@ Nestled along the serene Namhangang River, Riverside Premium Glamp in Yangpyeong
 *   **Cafe and Lounge:** An inviting communal cafe and lounge area offer a cozy spot to relax, read, or enjoy refreshments with panoramic river views.
 *   **Nearby Attractions:** Yangpyeong is known for its beautiful cycling paths along the river, as well as various art galleries and local markets.
 
-**Estimated Price Range (2026):** 280,000 - 580,000 KRW per night, varying by unit type and season.
+**Estimated Price Range (2026):** ₩280,000 - ₩580,000 per night, varying by unit type and season.
 **Accessibility:** Easily accessible by car. Direct intercity bus services from Seoul to Yangpyeong Bus Terminal are also frequent, followed by a short taxi ride.
 **Ideal For:** Couples, families, those who enjoy water activities and scenic river views.
 
@@ -102,7 +102,7 @@ Mountain Mist Glamping Retreat in Paju offers a blend of minimalist luxury and c
 *   **Proximity to Unique Attractions:** Located near the Demilitarized Zone (DMZ) attractions, Heyri Art Village, and Paju Book City, guests can easily combine their glamping trip with cultural excursions.
 *   **Quiet and Secluded:** The emphasis here is on a peaceful atmosphere, making it ideal for those seeking solitude or a deep reset.
 
-**Estimated Price Range (2026):** 200,000 - 450,000 KRW per night, depending on the selected accommodation.
+**Estimated Price Range (2026):** ₩200,000 - ₩450,000 per night, depending on the selected accommodation.
 **Accessibility:** Best accessed by car. Public bus routes to Paju are available, but a taxi for the final leg to the retreat is usually necessary.
 **Ideal For:** Couples, solo travelers, culture enthusiasts, those seeking a quiet retreat.
 
@@ -119,7 +119,7 @@ Starlight Oasis Glamping in Pocheon is a stargazer's paradise, offering unique, 
 *   **Hot Spring Proximity:** Pocheon is famous for its natural hot springs (e.g., Sanjeong Lake hot springs), and guests can easily visit nearby facilities for a relaxing soak.
 *   **Gourmet Breakfast Baskets:** Delivered directly to your dome, these baskets are filled with fresh, local ingredients to start your day right.
 
-**Estimated Price Range (2026):** 320,000 - 650,000 KRW per night, highly dependent on dome features and stargazing packages.
+**Estimated Price Range (2026):** ₩320,000 - ₩650,000 per night, highly dependent on dome features and stargazing packages.
 **Accessibility:** A car is strongly recommended. Express buses run from Seoul to Pocheon, but onward travel to the resort may require a taxi.
 **Ideal For:** Couples, stargazing enthusiasts, those seeking a unique and romantic experience.
 
@@ -180,9 +180,9 @@ To help you quickly compare the luxury glamping sites mentioned, here are a few 
 | Mountain Mist Retreat    | 1.5 hours                          | Car (recommended), Local Bus + Taxi | Public buses to Paju available, taxi for final stretch.    |
 | Starlight Oasis Glamping | 1.5 hours                          | Car (recommended), Express Bus + Taxi | Express bus to Pocheon, then taxi. Final leg can be remote. |
 
-### Table 3: Estimated Price Range (KRW, per night, 2026) & Key Highlights
+### Table 3: Estimated Price Range (₩, per night, 2026) & Key Highlights
 
-| Glamping Site            | Estimated Low-End (KRW) | Estimated High-End (KRW) | Unique Selling Proposition                                |
+| Glamping Site            | Estimated Low-End (₩) | Estimated High-End (₩) | Unique Selling Proposition                                |
 | :----------------------- | :---------------------- | :----------------------- | :-------------------------------------------------------- |
 | Skyview Glamping Resort  | 300,000                 | 600,000                  | Modern domes, private jacuzzis, proximity to Gapyeong sites |
 | Forest Haven Eco-Glamp   | 250,000                 | 550,000                  | Sustainable practices, organic dining, forest immersion   |

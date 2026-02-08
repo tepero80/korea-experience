@@ -22,7 +22,7 @@ Jagalchi Market, Korea's largest seafood market, is an sensory explosion. Locate
 
 *   **What to Experience:**
     *   **Live Seafood Selection:** Walk through the aisles, marvel at the incredible diversity of marine life, and pick out your desired ingredients.
-    *   **Instant Dining:** Many vendors offer to cook your selected seafood on the spot, usually for a small preparation fee. You can take your bounty upstairs to one of the numerous restaurants that specialize in preparing it just for you, often with side dishes (banchan) included. Expect to pay around 20,000 KRW to 50,000 KRW per person, depending on your choice of seafood.
+    *   **Instant Dining:** Many vendors offer to cook your selected seafood on the spot, usually for a small preparation fee. You can take your bounty upstairs to one of the numerous restaurants that specialize in preparing it just for you, often with side dishes (banchan) included. Expect to pay around ₩20,000 to ₩50,000 per person, depending on your choice of seafood.
     *   **Upper Floor Restaurants:** Even if you don't select fresh seafood downstairs, the upper floors feature many restaurants serving set menus and popular Korean seafood dishes like spicy fish stew (maeuntang) or grilled fish.
 *   **Location:** 52 Jagalchihaean-ro, Jung-gu, Busan. Easily accessible via Jagalchi Station (Busan Metro Line 1, Exit 10).
 *   **Tips:** Don't be afraid to bargain politely, especially if you're buying a larger quantity. Visit in the morning for the freshest selection.
@@ -48,7 +48,7 @@ Nambu Market has been a significant trading post for over a century, offering fr
 
 *   **What to Experience:**
     *   **Traditional Market Delights:** Explore the ground floor for fresh produce, dried goods, "banchan" (side dishes), and traditional Korean snacks. This is where locals shop for their daily needs.
-    *   **Jeonju's Signature Dishes:** Seek out stalls offering authentic Jeonju "bibimbap" (mixed rice with vegetables and meat) – often considered its birthplace. Try local varieties of "kongnamul gukbap" (bean sprout soup with rice), another Jeonju specialty perfect for a hearty breakfast. Prices for these dishes typically range from 8,000 KRW to 12,000 KRW.
+    *   **Jeonju's Signature Dishes:** Seek out stalls offering authentic Jeonju "bibimbap" (mixed rice with vegetables and meat) – often considered its birthplace. Try local varieties of "kongnamul gukbap" (bean sprout soup with rice), another Jeonju specialty perfect for a hearty breakfast. Prices for these dishes typically range from ₩8,000 to ₩12,000.
     *   **Youth Mall:** Ascend to the second floor to find the Youth Mall, a collection of quirky cafes, independent shops, art studios, and fusion restaurants run by young entrepreneurs. It offers a trendy, artistic contrast to the traditional market below.
     *   **Night Market:** On Friday and Saturday evenings, Nambu Market transforms into a bustling night market, offering a wider array of street food, performances, and handmade goods.
 *   **Location:** 24 Cheongnyeon Mall 1-gil, Wansan-gu, Jeonju-si, Jeollabuk-do. It’s a short walk from the Jeonju Hanok Village.
@@ -65,7 +65,7 @@ Gyeongju Jungang Market is the city's largest traditional market, a vibrant hub 
 *   **What to Experience:**
     *   **Local Produce and Goods:** Discover seasonal fruits, vegetables, seafood, and locally produced goods. It’s an excellent place to see what's fresh and in season in the Gyeongsangbuk-do region.
     *   **Gyeongju Specialties:** Look for "Gyeongju "hwangnam-ppang" (a traditional red bean paste pastry) and "chalbori-ppang" (barley bread), both famous local delicacies. Many stalls sell freshly made versions.
-    *   **Affordable Eats:** Enjoy hearty and budget-friendly meals at the market's many food stalls. Common offerings include various "gukbap" (rice soup) options, "kalguksu" (knife-cut noodles), and "mandu" (dumplings). A meal typically costs between 6,000 KRW and 10,000 KRW.
+    *   **Affordable Eats:** Enjoy hearty and budget-friendly meals at the market's many food stalls. Common offerings include various "gukbap" (rice soup) options, "kalguksu" (knife-cut noodles), and "mandu" (dumplings). A meal typically costs between ₩6,000 and ₩10,000.
     *   **Night Market:** Like Nambu, Gyeongju Jungang Market also hosts a popular night market on specific evenings (usually Fridays and Saturdays), offering a range of creative street foods and lively atmosphere.
 *   **Location:** 23 Wonhyo-ro, Gyeongju-si, Gyeongsangbuk-do. Accessible by local bus from major tourist sites.
 *   **Tips:** Combine your market visit with exploring nearby historical sites like the Cheonmachong Tomb or Daereungwon Tomb Complex.
@@ -81,7 +81,7 @@ This market is a vibrant nexus of fresh seafood from the East Sea, local agricul
 *   **What to Experience:**
     *   **Fresh Seafood:** A plethora of fresh fish, squid, and shellfish line the market stalls. You can often buy fresh seafood to take home or have it prepared on-site at one of the many restaurants.
     *   **Sokcho's Abalone Porridge:** Try the local "jeonbokjuk" (abalone porridge), a nutritious and flavorful dish.
-    *   **Dakgangjeong Alley:** Sokcho Jungang Market is particularly famous for its "dakgangjeong" (sweet and crispy fried chicken). Several well-known stalls compete for the best recipe, offering various levels of sweetness and spice. It's a popular take-out item. A small box costs around 10,000 KRW, a large box 18,000 KRW.
+    *   **Dakgangjeong Alley:** Sokcho Jungang Market is particularly famous for its "dakgangjeong" (sweet and crispy fried chicken). Several well-known stalls compete for the best recipe, offering various levels of sweetness and spice. It's a popular take-out item. A small box costs around ₩10,000, a large box ₩18,000.
     *   **Ojingeo Sundae:** Don't miss "ojingeo sundae" (squid sausage), a Sokcho specialty where seasoned rice and vegetables are stuffed into a whole squid and then steamed or pan-fried.
 *   **Location:** 12 Saessak-ro, Sokcho-si, Gangwon-do. Easily reachable from Sokcho Intercity Bus Terminal by local bus or taxi.
 *   **Tips:** If visiting during peak season (summer or fall foliage), expect crowds, especially at popular "dakgangjeong" stalls. Prepare for queues.
@@ -95,7 +95,7 @@ Andong, often considered the spiritual capital of Korea, is rich in Confucian tr
 Andong Gu Market is a bustling, expansive market that serves as a central hub for locals and tourists alike, offering a genuine taste of Andong's unique flavors and community spirit.
 
 *   **What to Experience:**
-    *   **Andong Jjimdak Alley:** The market is famous for its "Andong jjimdak" (braised chicken with vegetables and glass noodles in a savory soy sauce). Numerous restaurants within the market specialize in this dish, each with its own secret recipe. A large portion, suitable for 2-3 people, typically costs 25,000 KRW to 35,000 KRW.
+    *   **Andong Jjimdak Alley:** The market is famous for its "Andong jjimdak" (braised chicken with vegetables and glass noodles in a savory soy sauce). Numerous restaurants within the market specialize in this dish, each with its own secret recipe. A large portion, suitable for 2-3 people, typically costs ₩25,000 to ₩35,000.
     *   **Andong Soju:** Sample or purchase traditional "Andong soju," a high-proof distilled liquor with a history dating back centuries. It's known for its potent and pure flavor.
     *   **Heotjesabap:** Look for restaurants offering "Heotjesabap," a special kind of "bibimbap" that resembles the food served during ancestral rites, often featuring seasoned vegetables, fried tofu, and beef, accompanied by a clear soup.
     *   **Traditional Goods:** Explore stalls selling local agricultural products, traditional crafts, and unique Andong souvenirs, including Hahoe masks.
@@ -128,7 +128,7 @@ To help you choose which markets best suit your travel style, here's a compariso
 | **Primary Focus** | Seafood, coastal dining          | Traditional food, youth culture, arts | Island specialties, seafood, night market |
 | **Best For**      | Seafood lovers, bustling atmosphere | Foodies, culture seekers, youth trend | Island explorers, unique flavors       |
 | **Unique Find**   | Live octopus, instant seafood BBQ | Jeonju bibimbap, Youth Mall crafts  | Black pork, Hallabong tangerines     |
-| **Approx. Meal Cost** | 20,000-50,000 KRW (seafood)      | 8,000-15,000 KRW                     | 10,000-30,000 KRW (depending on dish) |
+| **Approx. Meal Cost** | ₩20,000 - ₩50,000 (seafood)      | ₩8,000 - ₩15,000                     | ₩10,000 - ₩30,000 (depending on dish) |
 | **Night Market**  | No, but lively evening seafood    | Yes (Fri/Sat)                        | Yes (daily, 'Olle Market' section)   |
 | **Vibe**          | Raw, energetic, authentic          | Historic with modern twist           | Lively, island charm                 |
 

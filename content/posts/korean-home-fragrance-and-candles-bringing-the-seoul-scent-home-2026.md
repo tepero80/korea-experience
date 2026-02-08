@@ -30,7 +30,7 @@ In the bustling streets of Seoul, the olfactory experience has become just as im
 
 ## The Evolution of Scent Culture in Korea
 
-Korea's relationship with fragrance has undergone a massive transformation over the last decade. Historically, heavy perfumes were not favored in Korean culture, where the preference leaned toward the smell of "clean skin" or soap. However, the home fragrance boom, accelerated by the "stay-at-home" culture of the early 2020s, has created a sophisticated market valued at over 650 billion KRW (approximately $485 million USD) as of late 2025.
+Korea's relationship with fragrance has undergone a massive transformation over the last decade. Historically, heavy perfumes were not favored in Korean culture, where the preference leaned toward the smell of "clean skin" or soap. However, the home fragrance boom, accelerated by the "stay-at-home" culture of the early 2020s, has created a sophisticated market valued at over ₩650 billion (approximately $485 million USD) as of late 2025.
 
 In 2026, the trend is "spatial curation." It is not just about making a room smell good; it is about defining the architecture of the space through scent. Korean brands excel in packaging design, often treating hand creams, sanitizers, and candles as sculptural art objects. This makes them the perfect souvenir—beautiful to look at and evocative to smell.
 

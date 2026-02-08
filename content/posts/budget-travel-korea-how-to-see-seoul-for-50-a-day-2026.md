@@ -1,7 +1,7 @@
 ---
 title: "Budget Travel Korea: How to See Seoul for $50 a Day in 2026"
 date: 2026-01-04
-excerpt: "Learn to explore Seoul on a $50 daily budget in 2026. Includes cost breakdowns for hostels, the Climate Card transit pass, and cheap eats under 7000 KRW."
+excerpt: "Learn to explore Seoul on a $50 daily budget in 2026. Includes cost breakdowns for hostels, the Climate Card transit pass, and cheap eats under ₩7000."
 category: Travel & Tourism
 author: Korea Experience Team
 tags:
@@ -46,7 +46,7 @@ The "Golden Ratio" for a budget traveler in Seoul is 40% Accommodation, 30% Food
 />
 
 ### Understanding the Currency
-As of 2026, the Korean Won (KRW) trades at roughly ₩1,400 to $1 USD. This means a ₩1,000 bill is roughly equivalent to $0.70. A common mistake travelers make is rounding ₩1,000 to $1.00, which leads to overestimating costs. By mentally adjusting to the $0.70 valuation, you will realize that a ₩5,000 coffee is actually $3.50, not $5.00, making the city feel much more affordable.
+As of 2026, the Korean Won (₩) trades at roughly ₩1,400 to $1 USD. This means a ₩1,000 bill is roughly equivalent to $0.70. A common mistake travelers make is rounding ₩1,000 to $1.00, which leads to overestimating costs. By mentally adjusting to the $0.70 valuation, you will realize that a ₩5,000 coffee is actually $3.50, not $5.00, making the city feel much more affordable.
 
 <InfoBox type="tip" title="Cash vs. Card">
   While 95% of Seoul accepts international credit cards (Visa/Mastercard), street food vendors and T-Money card recharge machines strictly require cash. Always keep ₩50,000 in cash on you.
@@ -242,7 +242,7 @@ In 2026, with the help of the Climate Card and the incredibly high standard of "
   items={[
     { question: "Is $50 a day enough for a tourist in Seoul?", answer: "Yes, $50 (approx ₩70,000) covers a hostel bed, 3 local meals, transport, and one paid attraction per day comfortably." },
     { question: "Do I need to tip in South Korea?", answer: "No. Tipping is not part of Korean culture and can even be considered rude. The price you see is the price you pay, which helps keep your budget predictable." },
-    { question: "Can I use US Dollars in Seoul?", answer: "No. You must use Korean Won (KRW). Very few places accept USD cash. Exchange money at Myeongdong money changers for the best rates, not the airport." },
+    { question: "Can I use US Dollars in Seoul?", answer: "No. You must use Korean Won (₩). Very few places accept USD cash. Exchange money at Myeongdong money changers for the best rates, not the airport." },
     { question: "Is street food safe to eat?", answer: "Generally, yes. Korea has high hygiene standards. Look for stalls with high turnover (lots of customers) to ensure freshness. Gwangjang Market and Myeongdong are safe bets." },
     { question: "What is the cheapest way to get internet?", answer: "Relying on the extensive free public WiFi network (on subways, buses, and in cafes) is free. The next cheapest is an eSIM data-only plan." }
   ]}

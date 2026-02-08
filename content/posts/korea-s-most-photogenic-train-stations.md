@@ -116,9 +116,9 @@ Away from the urban sprawl and popular coastal routes, many smaller, unassuming 
 
 | Train Type    | Speed        | Comfort Level | Typical Cost (Seoul-Busan) | Scenic Potential | Best For                                 |
 | :------------ | :----------- | :------------ | :------------------------- | :--------------- | :--------------------------------------- |
-| **KTX**       | High-speed   | High          | ~59,800 KRW                | Low (quick)      | Efficient travel, major cities, business |
-| **ITX-Saemaul** | Express      | Medium-High   | ~42,600 KRW                | Medium           | Longer journeys, specific routes (e.g., Gapyeong) |
-| **Mugunghwa-ho** | Local/Slow | Medium        | ~28,600 KRW                | High (window views) | Budget travel, scenic routes, local experience |
+| **KTX**       | High-speed   | High          | ~₩59,800                | Low (quick)      | Efficient travel, major cities, business |
+| **ITX-Saemaul** | Express      | Medium-High   | ~₩42,600                | Medium           | Longer journeys, specific routes (e.g., Gapyeong) |
+| **Mugunghwa-ho** | Local/Slow | Medium        | ~₩28,600                | High (window views) | Budget travel, scenic routes, local experience |
 
 ## Table 2: Photogenic Stations Comparison
 

@@ -58,7 +58,7 @@ Launched experimentally in 2024 and fully matured by 2026, the Digital Nomad (Wo
 **Requirements:**
 1.  **Income:** You must earn twice the Korean GNI (Gross National Income) per capita. In 2026, this threshold is approximately ₩85,000,000 (roughly $64,000 USD) per year.
 2.  **Employment:** Proof of employment with a non-Korean company.
-3.  **Insurance:** Private health insurance coverage of at least 100 million KRW for hospital treatments.
+3.  **Insurance:** Private health insurance coverage of at least ₩100 million for hospital treatments.
 
 <StepGuide
   title="Getting Connected on Arrival"
@@ -124,7 +124,7 @@ Where you work determines your vibe. Seoul has distinct "villages," each caterin
 ### 1. Gangnam & Teheran-ro: The Hustler’s Hub
 This is the Silicon Valley of Korea. The street connecting Gangnam Station and Samseong Station (Teheran-ro) is lined with skyscrapers hosting Google, Facebook Korea, and thousands of crypto startups.
 *   **Pros:** endless networking, high energy, best transport links.
-*   **Cons:** Expensive lunch (average 12,000+ KRW), crowded subways.
+*   **Cons:** Expensive lunch (average 12,000+ ₩), crowded subways.
 
 ### 2. Seongsu-dong: The Brooklyn of Seoul
 Once a shoe-making factory district, Seongsu is now the trendiest neighborhood in Seoul. Old warehouses have been converted into massive cafes and art galleries.
@@ -247,7 +247,7 @@ Budgeting is critical. While Korea is not as cheap as Thailand or Vietnam, it of
 **Housing Costs:**
 *   **Goshiwon:** 350,000 - ₩600,000/month. (Tiny room, shared kitchen, free rice/kimchi). No deposit usually required.
 *   **Airbnb:** 1,500,000 - ₩2,500,000/month for a studio in Mapo or Gangnam.
-*   **Officetel (via Estate Agent):** 800,000 - ₩1,200,000/month, but requires a massive deposit (Key Money) of 10M - 20M KRW.
+*   **Officetel (via Estate Agent):** 800,000 - ₩1,200,000/month, but requires a massive deposit (Key Money) of 10M - ₩20M.
 
 **Food Costs:**
 *   **Kimbap (Roll):** ₩4,000.
@@ -266,7 +266,7 @@ The key to success is integration. Don't just work *in* Korea; work *with* the r
   items={[
     { question: "Is it safe to leave my laptop unattended in a cafe?", answer: "Yes, generally. Korea has one of the lowest theft rates in the world due to widespread CCTV. It is common to see laptops, phones, and wallets left on tables while owners go to the restroom. However, exercise reasonable caution in very crowded tourist areas." },
     { question: "Do I need to speak Korean to join a coworking space?", answer: "Not for the major global brands like WeWork or large local ones like FASTFIVE. They all have English-speaking community managers. Smaller indie spaces might have limited English support, but the signup process is usually digital." },
-    { question: "Can I get a refund on the F-1-D visa if rejected?", answer: "Generally, visa application fees are non-refundable. Ensure you meet the income requirements (approx. 85M KRW/year) before applying." },
+    { question: "Can I get a refund on the F-1-D visa if rejected?", answer: "Generally, visa application fees are non-refundable. Ensure you meet the income requirements (approx. ₩85M/year) before applying." },
     { question: "What is the best way to pay for things?", answer: "Korea is nearly cashless. International Visa/Mastercards work in 99% of places. However, for public transport, you need a T-Money card (loaded with cash) or a specialized WOWPASS card for tourists." },
     { question: "Are coworking spaces open 24/7?", answer: "Most have 24/7 access for monthly members via keycard or fingerprint. However, staff and A/C might only operate 9 AM to 6 PM. 'Study Cafes' are almost always 24/7." }
   ]}

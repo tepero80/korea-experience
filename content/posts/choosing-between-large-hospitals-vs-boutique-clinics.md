@@ -4,6 +4,16 @@ date: 2026-01-05
 excerpt: "A complete guide comparing the Big 5 university hospitals against Gangnam boutique clinics, covering safety, costs, and 2026 medical tourism trends."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Banking"
+  - "Budget Travel"
+readTime: "14 min read"
+featured: false
 ---
 
 Deciding where to undergo a medical procedure in South Korea is the single most critical choice a medical tourist will make. The market is generally divided into two distinct tiers: the massive, multidisciplinary General University Hospitals (often referred to as the "Big 5") and the specialized, agile private institutions known as "Boutique Clinics." Your choice depends entirely on the complexity of your procedure, your budget, and your need for personalized aesthetic customization versus strict medical infrastructure.
@@ -109,7 +119,7 @@ To help you visualize the differences, we've broken down the key metrics. Note t
 Cost is a major factor. Below is a comparison for a standard Rhinoplasty (Nose Job) and Full Face Facelift. Note that boutique prices fluctuate heavily based on promotions and seasons.
 
 <PriceTable
-  title="Procedure Cost Comparison (KRW)"
+  title="Procedure Cost Comparison (₩)"
   variant="dualism"
   items={[
     { name: "University Hospital Rhinoplasty", price: "₩9,000,000+", tag: "Safety Premium", description: "Includes admission & general anesthesia fees" },

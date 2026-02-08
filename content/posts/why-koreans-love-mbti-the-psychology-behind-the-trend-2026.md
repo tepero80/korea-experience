@@ -4,6 +4,16 @@ date: 2026-02-03
 excerpt: "Discover why MBTI dominates Korean culture in 2026. From dating apps to hiring, we explore the psychology behind the 16 personality types trend."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Budget Travel"
+  - "Coffee"
+readTime: "10 min read"
+featured: false
 ---
 
 If you have visited Seoul recently, or even just browsed Korean social media, you likely encountered a four-letter code almost immediately. In 2026, the Myers-Briggs Type Indicator (MBTI) is no longer just a psychology test in South Korea; it is a fundamental pillar of social interaction, dating, and even professional recruitment.

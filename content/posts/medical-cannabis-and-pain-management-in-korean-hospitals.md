@@ -4,6 +4,16 @@ date: 2026-01-24
 excerpt: "A comprehensive guide to Korea's strict medical cannabis laws and advanced alternative pain management treatments available to foreigners in 2026."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "12 min read"
+featured: false
 ---
 
 For international travelers and expatriates accustomed to the increasingly liberal cannabis laws in North America and Europe, navigating the medical landscape in South Korea can be a jarring experience. If you are searching for information on accessing medical marijuana for chronic pain, anxiety, or post-surgical recovery in Seoul, the reality is strictly regulated and vastly different from Western standards. While South Korea became the first country in East Asia to legalize medical cannabis in late 2018, the implementation of this law is exceptionally narrow.
@@ -89,7 +99,7 @@ This is the gold standard of Korean pain management. It involves injecting an an
 *   **Guidance:** Almost all injections are done under C-Arm (fluoroscope) or Ultrasound guidance for 100% accuracy.
 *   **Time:** The procedure takes 10 to 20 minutes.
 *   **Recovery:** Patients usually rest for 30 minutes and walk out.
-*   **Cost:** For those with National Health Insurance (NHI), a nerve block might cost 10,000 to 20,000 KRW ($7-$15 USD). For foreigners without insurance, it typically ranges from 100,000 to 150,000 KRW ($75-$115 USD)—still a fraction of US costs.
+*   **Cost:** For those with National Health Insurance (NHI), a nerve block might cost 10,000 to ₩20,000 ($7-$15 USD). For foreigners without insurance, it typically ranges from 100,000 to ₩150,000 ($75-$115 USD)—still a fraction of US costs.
 
 ### Prolotherapy and DNA Injections
 For joint pain and ligament damage, clinics often use Prolotherapy (sugar water injection to stimulate healing) or PDRN (DNA injections derived from salmon sperm). These are regenerative treatments popular among Korean athletes and seniors.

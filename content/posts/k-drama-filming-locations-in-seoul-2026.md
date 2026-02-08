@@ -4,6 +4,16 @@ date: 2026-01-12
 excerpt: "Explore the most iconic K Drama filming locations in Seoul for 2026. From Queen of Tears to Goblin, discover prices, transit tips, and photo spots."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "13 min read"
+featured: false
 ---
 
 Seoul is not just a bustling metropolis; it is a living, breathing film set. For millions of international fans, walking through the streets of South Korea's capital feels like stepping into a familiar dream. As we enter 2026, the allure of K-Drama tourism has evolved from niche hobby to a primary travel motivation. Whether you are hunting for the emotional landmarks from recent mega-hits like *Queen of Tears* and *Lovely Runner*, or revisiting the timeless streets of *Goblin* and *Itaewon Class*, Seoul offers a tangible connection to the stories that captured the world's heart.

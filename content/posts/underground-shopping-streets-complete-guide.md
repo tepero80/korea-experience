@@ -131,7 +131,7 @@ You'll be doing a lot of walking, so prioritize comfortable footwear. While the 
 
 ### 2. Cash is King (or at least very convenient)
 
-While most shops accept credit cards (especially major ones like Visa, Mastercard), smaller kiosks and street vendors might prefer cash. Having some Korean Won (KRW) on hand, particularly in smaller denominations, can expedite transactions and is sometimes necessary for tiny purchases. Some shops might offer a small discount for cash payments.
+While most shops accept credit cards (especially major ones like Visa, Mastercard), smaller kiosks and street vendors might prefer cash. Having some Korean Won (₩) on hand, particularly in smaller denominations, can expedite transactions and is sometimes necessary for tiny purchases. Some shops might offer a small discount for cash payments.
 
 ### 3. Bargaining is Not Common (but discounts might be)
 
@@ -228,7 +228,7 @@ One of the primary appeals of underground shopping is its affordability. Here's 
 
 ### Tax Refunds
 
-For tourists, Korea offers a tax refund system on purchases over a certain amount (usually 30,000 KRW at a single store). Look for stores displaying "Tax Free" or "Tax Refund" signs. While many smaller underground shops might not participate, larger stores or specific chains within the underground centers often do. Ask at the counter if a tax refund is available and ensure you get the necessary paperwork to claim your refund at the airport.
+For tourists, Korea offers a tax refund system on purchases over a certain amount (usually ₩30,000 at a single store). Look for stores displaying "Tax Free" or "Tax Refund" signs. While many smaller underground shops might not participate, larger stores or specific chains within the underground centers often do. Ask at the counter if a tax refund is available and ensure you get the necessary paperwork to claim your refund at the airport.
 
 ### Comparison Shopping
 
@@ -242,7 +242,7 @@ Many shops have tables or racks outside their storefronts offering items at even
 
 | Payment Method | Small Kiosks / Independent Shops | Mid-sized Boutiques | Chain Stores / Larger Eateries |
 | :------------- | :------------------------------- | :------------------ | :---------------------------- |
-| **Cash (KRW)** | **Highly Preferred / Essential** | Accepted            | Accepted                      |
+| **Cash (₩)** | **Highly Preferred / Essential** | Accepted            | Accepted                      |
 | **Credit Card**  | Often Accepted, but sometimes minimum purchase amount or preferred cash | **Standard**        | **Standard**                  |
 | **Mobile Pay**   | Less common                      | Increasing acceptance | Widely accepted (e.g., Kakao Pay, Naver Pay) |
 

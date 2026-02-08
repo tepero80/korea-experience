@@ -4,6 +4,16 @@ date: 2026-01-04
 excerpt: "Discover the ultimate 2026 BTS tour in Seoul. Explore 15+ must-visit locations, from HYBE HQ to rookie-era eateries, with costs and travel tips."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Budget Travel"
+  - "Busan"
+readTime: "10 min read"
+featured: false
 ---
 
 Welcome to Seoul, the beating heart of the Hallyu wave and the home ground of the 21st-century pop icons, BTS. As we enter 2026, the landscape of "Bangtan Tours" has evolved. With the members fully returned from military service and embarking on their Chapter 2 era, the city is more vibrant than ever with ARMY energy.
@@ -47,7 +57,7 @@ Learn more in our comprehensive guide to [2026 Red Horse Year Exhibitions and Sp
 />
 
 ### The 2026 HYBE Insight Experience
-The museum experience has been upgraded. It now features an immersive AR journey through the "Golden" and "Indigo" eras. Tickets are priced at roughly 35,000 KRW ($26 USD) per person. The tour lasts approximately 90 to 120 minutes.
+The museum experience has been upgraded. It now features an immersive AR journey through the "Golden" and "Indigo" eras. Tickets are priced at roughly ₩35,000 ($26 USD) per person. The tour lasts approximately 90 to 120 minutes.
 
 Related reading: [BLACKPINK in Seoul fan tour guide 2026 for BLINKs](/blog/blackpink-in-seoul-fan-tour-guide-2026).
 
@@ -55,7 +65,7 @@ Related reading: [BLACKPINK in Seoul fan tour guide 2026 for BLINKs](/blog/black
   Tickets for HYBE Insight open on the 1st of every month for the following month. In 2026, slots sell out within 15 minutes. Ensure you have the Global Interpark app installed and your payment method verified beforehand.
 </InfoBox>
 
-Behind the building, you will find a cluster of cafes dedicated to the members. **Marine Coffee** and **Black Drum** are two standouts where the walls are plastered with photos. An iced americano here costs about 4,500 KRW ($3.40), a small price to pay for the atmosphere.
+Behind the building, you will find a cluster of cafes dedicated to the members. **Marine Coffee** and **Black Drum** are two standouts where the walls are plastered with photos. An iced americano here costs about ₩4,500 ($3.40), a small price to pay for the atmosphere.
 
 ## 2. Origins: The Nonhyeon-dong Nostalgia Route
 
@@ -69,7 +79,7 @@ The interior is a chaotic, beautiful collage of stickers, posters, and messages 
 <QuickFacts
   title="Yoojung Sikdang Stats"
   facts={[
-    { label: "Avg Meal Price", value: "12,000 KRW", icon: "💰" },
+    { label: "Avg Meal Price", value: "₩12,000", icon: "💰" },
     { label: "Wait Time", value: "40-60 mins", icon: "⏱️" },
     { label: "Must Order", value: "Black Pork", icon: "🥓" }
   ]}
@@ -114,7 +124,7 @@ The cafe owners have preserved the original structure of the rooms. You can drin
   tip="Check the sticky notes on the wall to see which room belonged to which member."
 />
 
-The signature Salt Bread costs 3,800 KRW ($2.90). The cafe is spacious, covering about 200 square meters, but seating fills up by 1:00 PM on weekends.
+The signature Salt Bread costs ₩3,800 ($2.90). The cafe is spacious, covering about 200 square meters, but seating fills up by 1:00 PM on weekends.
 
 ## 4. Iconic Filming Locations & 2026 Hotspots
 
@@ -123,8 +133,8 @@ Moving away from the dorms, Seoul itself is a massive set for their music videos
 ### Gyeongbokgung Palace (Geunjeongjeon Hall)
 This was the stage for their legendary 2020 performance of "IDOL" on The Tonight Show.
 
-*   **Entry Fee:** 3,000 KRW ($2.25)
-*   **Rental Hanbok:** 25,000 KRW ($19) for 4 hours
+*   **Entry Fee:** ₩3,000 ($2.25)
+*   **Rental Hanbok:** ₩25,000 ($19) for 4 hours
 *   **Size:** 40 hectares
 
 <StepGuide
@@ -143,7 +153,7 @@ This floating Starbucks on the Han River is where the "Butter" choreography vide
 
 *   **Location:** Jamwon-dong
 *   **Best Time:** Sunset (around 19:30 in summer)
-*   **Coffee Price:** 6,000 - 8,000 KRW ($4.50 - $6.00)
+*   **Coffee Price:** 6,000 - ₩8,000 ($4.50 - $6.00)
 
 <InfoBox type="tip" title="Night View">
   Visit in the evening to see the building illuminated with changing LED lights. It is a 15-minute walk from Jamwon Station (Line 3).
@@ -156,12 +166,12 @@ By 2026, individual member hobbies have created specific sub-tours within Seoul.
 ### RM's Namjooning Tour (Art & Nature)
 RM's love for art has put several museums on the map.
 1.  **Seoul Museum of Art (Seosomun):** Frequently visited by RM. Free general admission.
-2.  **Leeum Museum of Art:** Located in Hannam-dong. Features contemporary art. Entry is approx 15,000 KRW.
+2.  **Leeum Museum of Art:** Located in Hannam-dong. Features contemporary art. Entry is approx ₩15,000.
 
 ### Jimin & Jungkook's Food Tour
 If you want to eat like the "Busan Boys," head to **Geumdwaezi Sikdang (Gold Pig Restaurant)**. This Michelin-guide restaurant is famous for pork belly.
 *   **Wait Time:** 2+ hours (Use the 'CatchTable' app to queue remotely).
-*   **Cost:** Approx 22,000 KRW ($16.50) per 150g serving of pork.
+*   **Cost:** Approx ₩22,000 ($16.50) per 150g serving of pork.
 
 <ProsCons
   title="Geumdwaezi Sikdang Analysis"

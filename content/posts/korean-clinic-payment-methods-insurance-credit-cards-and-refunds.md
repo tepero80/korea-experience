@@ -16,7 +16,7 @@ featured: false
 
 Most international travelers visiting Korean clinics can pay using major international credit cards (Visa, Mastercard), cash (Korean Won or USD), or wire transfers. However, coverage by international insurance is rare for outpatient cosmetic procedures, meaning you will likely pay upfront and claim reimbursement later. Importantly, tourists are eligible for a **10% VAT tax refund** on cosmetic surgeries if the clinic is a registered medical tourism provider.
 
-**The short answer: You should bring a Visa or Mastercard with no foreign transaction fees, but carrying cash (USD or KRW) can often secure a 5-10% discount on non-insured procedures. Always ask for a tax refund slip for cosmetic treatments.**
+**The short answer: You should bring a Visa or Mastercard with no foreign transaction fees, but carrying cash (USD or ₩) can often secure a 5-10% discount on non-insured procedures. Always ask for a tax refund slip for cosmetic treatments.**
 
 <KeyTakeaways 
   points={[
@@ -49,7 +49,7 @@ When you walk into a clinic in Apgujeong or a general hospital in Jongno, you ne
 South Korea is nearly a cashless society for locals, with credit card penetration exceeding 90%.
 *   **Accepted Networks:** Visa and Mastercard are accepted at 99% of clinics. JCB is widely accepted due to the high volume of Japanese tourists.
 *   **American Express/Discover:** Acceptance is hit-or-miss. Major university hospitals (Samsung Medical Center, Severance) accept Amex, but smaller dermatology or dental clinics often do not due to higher merchant fees (around 2.5-3%).
-*   **DCC (Dynamic Currency Conversion):** When you hand over your foreign card, the terminal may ask if you want to pay in KRW or your home currency (e.g., USD, EUR). **Always choose KRW.** Paying in your home currency triggers DCC, which allows the merchant's bank to set a terrible exchange rate, often costing you an extra 3-5% on top of your bank's fees.
+*   **DCC (Dynamic Currency Conversion):** When you hand over your foreign card, the terminal may ask if you want to pay in won (₩) or your home currency (e.g., USD, EUR). **Always choose won (₩).** Paying in your home currency triggers DCC, which allows the merchant's bank to set a terrible exchange rate, often costing you an extra 3-5% on top of your bank's fees.
 
 <ExpertTip 
   author="Sarah Kim"
@@ -60,9 +60,9 @@ South Korea is nearly a cashless society for locals, with credit card penetratio
   Before traveling, call your bank to authorize large transactions in South Korea. I've seen patients unable to pay for their $5,000 surgery because their bank flagged the transaction as fraud. Also, check your daily spending limit—many cards cap at $2,000 or $3,000 per day.
 </ExpertTip>
 
-### 2. Cash Payments (KRW vs. USD)
+### 2. Cash Payments (₩ vs. USD)
 Cash remains king in the medical tourism districts.
-*   **Korean Won (KRW):** This is the safest and most standard method.
+*   **Korean Won (₩):** This is the safest and most standard method.
 *   **US Dollars/Euros/Yen:** Many plastic surgery and dermatology clinics in tourist zones (Gangnam, Myeongdong) accept foreign currency directly. They will apply the day's exchange rate, which is usually fair but verify it against a live source like XE.com.
 *   **The "Cash Discount":** It is an open secret that paying in cash can sometimes yield a discount. Clinics save on credit card processing fees (2-3%) and may pass that savings to you. However, ensure you still receive a receipt.
 
@@ -105,7 +105,7 @@ Not all medicine is tax-free. The refund specifically targets *cosmetic* and *ae
     { title: "Pay & Request Slip", description: "After paying the full amount (including VAT) at the clinic, present your passport and request the 'Certificate of Selling Medical Service for Overseas Patient' (Tax Refund Slip).", tip: "Check that your name matches your passport exactly." },
     { title: "Airport Kiosk", description: "At Incheon or Gimpo Airport, go to the Tax Refund Kiosks (usually near Customs or Gate 27/28). Scan your passport and the refund slip." },
     { title: "Customs Inspection", description: "For refunds under ₩75,000, the kiosk processes it automatically. For larger amounts, you may need a customs officer to stamp your receipt." },
-    { title: "Receive Cash", description: "Go to the refund counter to receive your cash in KRW, USD, or have it refunded to your credit card." }
+    { title: "Receive Cash", description: "Go to the refund counter to receive your cash in won (₩), USD, or have it refunded to your credit card." }
   ]}
 />
 
@@ -254,7 +254,7 @@ For those interested in specific treatments, our deep dive into [Anti-Aging Trea
   title="Frequently Asked Questions"
   items={[
     { question: "Can I pay in installments?", answer: "Generally, no. Korean credit cards offer interest-free installments (hal-bu), but foreign international cards must pay the full amount upfront. You can, however, arrange an installment plan with your own bank back home after the charge hits." },
-    { question: "Do Korean clinics accept Cryptocurrency?", answer: "Directly? No. It is legally complex for businesses to accept crypto. However, some medical tourism agencies facilitate crypto payments by converting them to KRW before paying the clinic." },
+    { question: "Do Korean clinics accept Cryptocurrency?", answer: "Directly? No. It is legally complex for businesses to accept crypto. However, some medical tourism agencies facilitate crypto payments by converting them to won before paying the clinic." },
     { question: "Why was my card declined in Korea?", answer: "Common reasons: 1) Fraud protection triggered by overseas location, 2) Daily spending limit exceeded, 3) The terminal is an older local-only network (rare in 2026). Always carry a backup card and some cash." },
     { question: "Is the price negotiable?", answer: "In large university hospitals, no. In private plastic surgery and dermatology clinics, yes—especially if you are paying cash or doing multiple procedures (e.g., eyes + nose together)." },
     { question: "Can I use my friend's credit card to pay?", answer: "Clinics are strict about identity. If you use a card that doesn't match your passport name, they may require a photo ID of the cardholder and a signed authorization letter, or they may simply refuse it to prevent chargebacks." }

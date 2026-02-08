@@ -138,25 +138,25 @@ Korea's bus network connects all major tourist destinations. Here are some of th
 ### Seoul to Busan (Korea's Classic Route)
 *   **Terminals:** Seoul Express Bus Terminal (Gangnam) or Dongseoul Bus Terminal (for some intercity routes) to Busan Central Bus Terminal (Nopo-dong).
 *   **Travel Time:** Approximately 4 to 5 hours.
-*   **Price:** Around 20,000 - 40,000 KRW depending on bus class (Standard, Excellent, Premium).
+*   **Price:** Around ₩20,000 - ₩40,000 depending on bus class (Standard, Excellent, Premium).
 *   **Why Go:** Explore Busan's beaches (Haeundae, Gwangalli), vibrant markets (Jagalchi), cultural villages (Gamcheon), and fresh seafood.
 
 ### Seoul to Gyeongju (Historical Capital)
 *   **Terminals:** Seoul Express Bus Terminal or Dongseoul Bus Terminal to Gyeongju Express Bus Terminal or Gyeongju Intercity Bus Terminal. They are very close to each other.
 *   **Travel Time:** Approximately 3.5 to 4 hours.
-*   **Price:** Around 20,000 - 30,000 KRW.
+*   **Price:** Around ₩20,000 - ₩30,000.
 *   **Why Go:** Immerse yourself in ancient Silla Dynasty history, visit Bulguksa Temple, Seokguram Grotto, Daereungwon Tomb Complex, and enjoy the picturesque Anapji Pond.
 
 ### Seoul to Jeonju (Food and Hanok Village)
 *   **Terminals:** Seoul Express Bus Terminal or Dongseoul Bus Terminal to Jeonju Express Bus Terminal or Jeonju Intercity Bus Terminal.
 *   **Travel Time:** Approximately 2.5 to 3 hours.
-*   **Price:** Around 15,000 - 25,000 KRW.
+*   **Price:** Around ₩15,000 - ₩25,000.
 *   **Why Go:** Indulge in Jeonju's legendary bibimbap and other regional delicacies, explore the charming Jeonju Hanok Village, and experience traditional Korean culture.
 
 ### Seoul to Sokcho/Gangneung (East Coast)
 *   **Terminals:** Dongseoul Bus Terminal is the primary terminal for East Coast routes to Sokcho Express Bus Terminal or Gangneung Intercity Bus Terminal.
 *   **Travel Time:** Approximately 2.5 to 3 hours to Gangneung, 2.5 to 3.5 hours to Sokcho.
-*   **Price:** Around 15,000 - 25,000 KRW.
+*   **Price:** Around ₩15,000 - ₩25,000.
 *   **Why Go:** Enjoy stunning East Sea views, fresh seafood, explore Seoraksan National Park (near Sokcho), visit beaches, or relax at famous spots like Jeongdongjin (Gangneung).
 
 ### Other Notable Routes:

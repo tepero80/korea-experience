@@ -38,7 +38,7 @@ For the international traveler, this means you no longer have to compromise on t
   title="K-Beauty Market Shift 2026"
   variant="gradient"
   stats={[
-    { value: "4.5T", label: "Market Size (KRW)", icon: "💰" },
+    { value: "4.5T", label: "Market Size (₩)", icon: "💰" },
     { value: "1,200+", label: "Certified Brands", icon: "🏷️" }
   ]}
   source="Korea Cosmetic Association Data 2026"
@@ -128,7 +128,7 @@ This is the massive flagship store. In 2026, they introduced a dedicated "Clean 
 <QuickFacts
   title="Olive Young Shopping Facts"
   facts={[
-    { label: "Tax Refund", value: "Instant >30k KRW", icon: "💸" },
+    { label: "Tax Refund", value: "Instant >₩30k", icon: "💸" },
     { label: "Sale Period", value: "1st Week/Month", icon: "🗓️" },
     { label: "Bag Fee", value: "₩100", icon: "🛍️" }
   ]}

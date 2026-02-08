@@ -32,7 +32,7 @@ Finding pet-friendly hotels and shopping areas in Korea was once a significant c
 
 The term "Pet-Fam" has become a buzzword in South Korean marketing and society, reflecting a shift where pets are viewed as integral family members rather than just animals. As of 2026, it is estimated that over 15 million Koreans own a pet, representing roughly 25-30% of households. This cultural shift has forced the hospitality and retail industries to adapt rapidly.
 
-In the past, bringing a dog into a shopping mall was unheard of. Today, you will frequently see "gae-mucha" (dog strollers) in high-end districts like Gangnam and Hannam-dong. The market for pet-related goods in Korea has surpassed 6 trillion KRW (approximately $4.5 billion USD), driving competition among hotels and malls to offer the most attractive amenities for pet owners.
+In the past, bringing a dog into a shopping mall was unheard of. Today, you will frequently see "gae-mucha" (dog strollers) in high-end districts like Gangnam and Hannam-dong. The market for pet-related goods in Korea has surpassed 6 trillion won (approximately $4.5 billion USD), driving competition among hotels and malls to offer the most attractive amenities for pet owners.
 
 <StatCard
   title="Korea Pet Market Growth"

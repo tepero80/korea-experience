@@ -4,6 +4,16 @@ date: 2026-01-31
 excerpt: "Master the art of Somaek with our 2026 guide to the perfect Korean beer and soju mix. Discover the golden ratio, best brands, and essential drinking etiquette."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Busan"
+readTime: "13 min read"
+featured: false
 ---
 
 In the vibrant, neon-lit alleyways of Seoul, from the bustling streets of Hongdae to the corporate dinners in Gangnam, there is a unifying lubricant that powers the city's social engine: Somaek. A portmanteau of *Soju* (Korea's national distilled spirit) and *Maekju* (beer), this cocktail is far more than just a drink; it is a cultural ritual, a rite of passage, and for many travelers, the defining flavor of a night out in South Korea.
@@ -13,7 +23,7 @@ As we move through 2026, the culture of Somaek has evolved. While the classic "g
 <KeyTakeaways 
   points={[
     "The Golden Ratio for 2026 is 3 parts Soju to 7 parts Beer",
-    "Average cost per serving in Seoul is roughly 1,500 KRW ($1.10 USD)",
+    "Average cost per serving in Seoul is roughly ₩1,500 ($1.10 USD)",
     "Carbonation is the catalyst; successful mixing requires the spoon hit"
   ]}
   readTime={12}
@@ -70,7 +80,7 @@ You need a high-carbonation, light American-style adjunct lager. Heavy IPAs or S
   ]}
 />
 
-In a typical convenience store (CU or GS25), a 360ml bottle of Soju costs approximately 1,900 KRW ($1.40), while a 500ml can of beer costs about 2,800 KRW ($2.10). However, in restaurants, these prices jump significantly.
+In a typical convenience store (CU or GS25), a 360ml bottle of Soju costs approximately ₩1,900 ($1.40), while a 500ml can of beer costs about ₩2,800 ($2.10). However, in restaurants, these prices jump significantly.
 
 For more details, check out our guide on [Soju brands comparison taste and alcohol content guide](/blog/soju-brands-comparison-taste-and-alcohol-content).
 
@@ -124,9 +134,9 @@ One of the reasons Somaek remains the champion of Korean nightlife is its cost-e
   ]}
 />
 
-In a standard restaurant in districts like Mapo-gu or Jongno-gu, a bottle of Soju costs between 5,000 to 6,000 KRW ($3.70 - $4.50). A 500ml bottle of beer (Cass/Terra) costs roughly 6,000 KRW ($4.50).
+In a standard restaurant in districts like Mapo-gu or Jongno-gu, a bottle of Soju costs between 5,000 to ₩6,000 ($3.70 - $4.50). A 500ml bottle of beer (Cass/Terra) costs roughly ₩6,000 ($4.50).
 
-This means a mixed round of Somaek for four people costs roughly 17,000 KRW ($12.50), significantly cheaper than four cocktails at a speakeasy, which would run upwards of 80,000 KRW ($60.00).
+This means a mixed round of Somaek for four people costs roughly ₩17,000 ($12.50), significantly cheaper than four cocktails at a speakeasy, which would run upwards of ₩80,000 ($60.00).
 
 ## Best Places to Experience Somaek Culture
 
@@ -222,7 +232,7 @@ Once you have mastered the basics, you can try these party tricks to elevate the
   ]}
 />
 
-Transportation is crucial. By 11:00 PM in Seoul, getting a taxi can be difficult. The base fare for a taxi in Seoul in 2026 is 4,800 KRW ($3.60), with a night surcharge of 20-40% applied between 10:00 PM and 4:00 AM. KakaoTaxi or Uber (UT) are essential apps to have installed.
+Transportation is crucial. By 11:00 PM in Seoul, getting a taxi can be difficult. The base fare for a taxi in Seoul in 2026 is ₩4,800 ($3.60), with a night surcharge of 20-40% applied between 10:00 PM and 4:00 AM. KakaoTaxi or Uber (UT) are essential apps to have installed.
 
 ## Conclusion
 

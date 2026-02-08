@@ -126,7 +126,7 @@ Unlike the cosmetic focus of the first two, Modoodoc covers general medicine, de
   type="local"
   verified={true}
 >
-  "Many foreigners download Gangnam Unni but give up because of the language barrier. Here is a pro tip: Take screenshots of the 'Before & After' photos and the pricing tables, then run them through Papago Image Translate. The numbers don't lie. If a clinic quotes you 3 million KRW for a procedure listed on the app for 1.5 million KRW, show them the app screenshot. 90% of the time, they will match the 'Event Price'."
+  "Many foreigners download Gangnam Unni but give up because of the language barrier. Here is a pro tip: Take screenshots of the 'Before & After' photos and the pricing tables, then run them through Papago Image Translate. The numbers don't lie. If a clinic quotes you ₩3 million for a procedure listed on the app for ₩1.5 million, show them the app screenshot. 90% of the time, they will match the 'Event Price'."
 </ExpertTip>
 
 ## Price Transparency and the "Foreigner Tax"

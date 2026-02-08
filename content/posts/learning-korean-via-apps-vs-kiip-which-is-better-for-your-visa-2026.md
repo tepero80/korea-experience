@@ -4,6 +4,16 @@ date: 2026-01-23
 excerpt: "Compare KIIP and language apps for Korean visa points. Discover the best strategy for F2 and F5 visas in 2026 with cost and time analysis."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 <KeyTakeaways 
@@ -42,7 +52,7 @@ Before comparing the methods, we must understand the stakes. In 2026, the point 
 
 For more details, check out our guide on [D 10 Job Seeker Visa After Graduation in 2026 Guide](/blog/d-10-job-seeker-visa-after-graduation).
 
-Consequently, Korean language proficiency has become the "make or break" factor for 65% of applicants. A beginner level (TOPIK I - Level 1) nets you a mere 3 points, while an advanced level (KIIP Level 5 or TOPIK II - Level 5) grants a massive 20 points. That 17-point difference is equivalent to earning an additional 30 million KRW in annual salary under the current point scale.
+Consequently, Korean language proficiency has become the "make or break" factor for 65% of applicants. A beginner level (TOPIK I - Level 1) nets you a mere 3 points, while an advanced level (KIIP Level 5 or TOPIK II - Level 5) grants a massive 20 points. That 17-point difference is equivalent to earning an additional ₩30 million in annual salary under the current point scale.
 
 For more details, check out our guide on [D 10 Job Seeker Visa Korea 2026 Complete Application Guide](/blog/d-10-job-seeker-visa-korea-complete-guide-2026).
 
@@ -182,7 +192,7 @@ If you decide to skip the lower levels (highly recommended), you must navigate t
   steps={[
     { title: "Create Socinet Account", description: "Visit www.socinet.go.kr. You must have your Alien Registration Card (ARC) ready.", tip: "The site requires specific browser plugins. Use Edge or Chrome with IE compatibility mode if it glitches." },
     { title: "Apply for Evaluation", description: "Click 'Join' -> 'Level Test'. Tests open 2 months in advance and fill up in roughly 3 minutes." },
-    { title: "Pay the Fee", description: "The level test costs 30,000 KRW. Payment must be made immediately via virtual account." },
+    { title: "Pay the Fee", description: "The level test costs ₩30,000. Payment must be made immediately via virtual account." },
     { title: "Download Ticket", description: "Print your test ticket 3 days before the exam date." }
   ]}
 />

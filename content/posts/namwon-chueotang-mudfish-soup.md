@@ -4,6 +4,16 @@ date: 2026-01-25
 excerpt: "Discover the savory depth of Namwon Chueotang, Korea famous mudfish soup known for stamina and health benefits in the heart of Jeollabuk-do."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Autumn"
+  - "Busan"
+readTime: "12 min read"
+featured: false
 ---
 
 Namwon, a serene city located approximately 250 kilometers south of Seoul in Jeollabuk-do province, is famed for two things: the legendary love story of Chunhyang and its distinctive local cuisine, *Chueotang*. For the uninitiated, the concept of "mudfish soup" might sound intimidating, but this hearty, nutrient-dense dish is the ultimate comfort food for Koreans, particularly as a source of stamina during the changing seasons.
@@ -14,7 +24,7 @@ Unlike generic versions found elsewhere, Namwon Chueotang is a culinary institut
   points={[
     "Namwon style grinds the fish completely, resulting in a thick, chowder-like texture with no visible fish parts",
     "The city hosts a dedicated Chueotang Street with over 40 specialized restaurants concentrated near Gwanghallu Garden",
-    "A standard bowl costs between 12,000 and 15,000 KRW, making it an affordable premium meal"
+    "A standard bowl costs between 12,000 and ₩15,000, making it an affordable premium meal"
   ]}
   readTime={12}
   lastUpdated="2026-02-06"
@@ -51,7 +61,7 @@ Furthermore, the climatic conditions in Namwon are ideal for drying radish green
   facts={[
     { label: "Distance from Seoul", value: "250 km", icon: "🚄" },
     { label: "KTX Travel Time", value: "2 hr 10 min", icon: "⏱️" },
-    { label: "Avg Meal Cost", value: "13,000 KRW", icon: "💰" }
+    { label: "Avg Meal Cost", value: "₩13,000", icon: "💰" }
   ]}
   columns={3}
 />
@@ -149,7 +159,7 @@ However, the premium side dish to order is *Chueo-twi-gim* (Fried Mudfish). Whol
 
 Namwon is highly accessible for travelers. The KTX (Korea Train eXpress) connects Seoul (Yongsan Station) to Namwon Station directly. The journey takes approximately 2 hours and 10 minutes to 2 hours and 20 minutes.
 
-As of early 2026, a standard economy class one-way ticket costs approximately 44,800 KRW. Trains run frequently, about 10-12 times a day. Once you arrive at Namwon Station, a taxi to Chueotang Street takes about 10-12 minutes and costs roughly 8,000 to 10,000 KRW.
+As of early 2026, a standard economy class one-way ticket costs approximately ₩44,800. Trains run frequently, about 10-12 times a day. Once you arrive at Namwon Station, a taxi to Chueotang Street takes about 10-12 minutes and costs roughly 8,000 to ₩10,000.
 
 <Timeline
   title="Day Trip Itinerary"
@@ -186,7 +196,7 @@ For the international traveler, dedication to a single food item might seem exce
 
 While the soup is the star, specialized restaurants in Namwon offer other mudfish variations. *Chueo-sukhoe* is a dish where parboiled mudfish are wrapped with vegetables and dipped in a spicy vinegar-pepper paste. This is considered a delicacy for older generations but can be challenging for tourists due to the visual of the whole fish.
 
-Another variation is *Chueo-mandu* (dumplings), where the filling includes ground mudfish meat mixed with pork and vegetables. This is an excellent entry-level option for children or those hesitant about the soup. A plate of dumplings usually costs around 8,000 KRW.
+Another variation is *Chueo-mandu* (dumplings), where the filling includes ground mudfish meat mixed with pork and vegetables. This is an excellent entry-level option for children or those hesitant about the soup. A plate of dumplings usually costs around ₩8,000.
 
 <InfoBox type="tip" title="Best Season to Visit">
 While available year-round, the "prime" season for Chueotang is late autumn (October-November). This is when the mudfish have fattened up for winter hibernation, offering the richest flavor and highest nutritional content.
@@ -197,7 +207,7 @@ While available year-round, the "prime" season for Chueotang is late autumn (Oct
 1.  **Clothing:** Wear dark clothes. The soup is bubbly and red/brown. Splatters happen, and stains are stubborn. Aprons are always available on the walls—use them.
 2.  **Solo Dining:** Namwon is very friendly to solo diners (*hon-bap*). You will be welcomed warmly even if you are alone.
 3.  **Refills:** Some restaurants offer free refills of the soup broth (without the solid ingredients) if you ask nicely.
-4.  **Takeout:** Vacuum-packed pouches are sold at almost every restaurant (approx. 10,000 KRW). However, check your country's customs regulations regarding meat/fish products before buying them for international travel. They are fine to take back to your hotel in Seoul.
+4.  **Takeout:** Vacuum-packed pouches are sold at almost every restaurant (approx. ₩10,000). However, check your country's customs regulations regarding meat/fish products before buying them for international travel. They are fine to take back to your hotel in Seoul.
 
 ## Conclusion
 
@@ -210,6 +220,6 @@ Namwon Chueotang is more than just a soup; it is the soul of Jeollabuk-do. It re
     { question: "Can I eat the bones?", answer: "In Namwon style, the fish is ground so finely that you cannot feel the bones. It has the texture of a thick chowder or porridge. If you order 'Whole Mudfish Soup' (Tong-chueotang), you will eat the soft bones." },
     { question: "Is it suitable for vegetarians?", answer: "No. It contains fish and the broth often utilizes meat-based stocks or fish extracts. Even though it is heavy on vegetables (siraegi), it is a pescatarian dish." },
     { question: "Do I need to make a reservation?", answer: "For groups of 4 or less, reservations are usually not needed, but expect a queue during lunch (12:00-13:30). For larger groups, it is recommended to call ahead." },
-    { question: "What is the difference between Chueotang and Jangeo-tang?", answer: "Chueotang is made from freshwater mudfish (loach). Jangeo-tang is made from eel. Eel soup is generally more expensive (18,000+ KRW) and much oilier/richer, while Chueotang is lighter and earthier." }
+    { question: "What is the difference between Chueotang and Jangeo-tang?", answer: "Chueotang is made from freshwater mudfish (loach). Jangeo-tang is made from eel. Eel soup is generally more expensive (18,000+ ₩) and much oilier/richer, while Chueotang is lighter and earthier." }
   ]}
 />

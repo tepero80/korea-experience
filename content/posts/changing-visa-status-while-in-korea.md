@@ -4,6 +4,16 @@ date: 2026-01-04
 excerpt: "A complete guide to changing your visa status within South Korea, covering requirements, HiKorea reservations, and D-10 to E-7 transitions."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Gangnam"
+readTime: "13 min read"
+featured: false
 ---
 
 Navigating the immigration system is often cited as the most daunting aspect of expat life in South Korea. Whether you are a student looking to become a job seeker, or a professional aiming for long-term residency, understanding how to change your visa status while remaining in the country is crucial. The days of casual "visa runs" are becoming less necessary for some, but strict adherence to procedure is more important than ever.
@@ -22,7 +32,7 @@ In 2026, the Korea Immigration Service continues to digitize and streamline proc
   points={[
     "Tourist visas (B-1/B-2) generally cannot switch to long-term visas inside Korea",
     "HiKorea reservations are mandatory and must be booked 2-4 weeks in advance",
-    "The standard application fee for changing status is 100,000 KRW plus card fees"
+    "The standard application fee for changing status is ₩100,000 plus card fees"
   ]}
   readTime={15}
   lastUpdated="2026-02-06"
@@ -80,13 +90,13 @@ The D-10 visa is a bridge visa allowing you to stay in Korea for **6 months** at
 
 To qualify, you need a minimum number of points on the Point-Based Eligibility Evaluation. As of early 2026, the threshold sits at **60 points** out of a total 190, but a critical **20 points** must come from the "Basic Items" category (Age + Education).
 
-The cost to process this change involves a **100,000 KRW** revenue stamp and a **30,000 KRW** card fee. You must also prove financial stability. Previously, this required showing approximately **4.2 million KRW** (roughly $3,100 USD) per month of stay applied for, but for D-10, a flat balance of roughly **5 million KRW** is often accepted for the initial switch, provided you have a graduation certificate from a Korean university.
+The cost to process this change involves a **₩100,000** revenue stamp and a **₩30,000** card fee. You must also prove financial stability. Previously, this required showing approximately **₩4.2 million** (roughly $3,100 USD) per month of stay applied for, but for D-10, a flat balance of roughly **₩5 million** is often accepted for the initial switch, provided you have a graduation certificate from a Korean university.
 
 ### 2. Job Seeker (D-10) to Professional Work (E-7)
 
 This is the "Holy Grail" for many young professionals. The E-7 visa is tied to a specific employer and job code. The transition requires a signed employment contract.
 
-The most critical data point here is the salary requirement. To obtain an E-7 visa, your contracted salary must be at least **80% of the previous year's GNI** (Gross National Income) per capita. If the GNI is roughly **44 million KRW**, your salary must exceed roughly **35.2 million KRW** annually (approx **2.93 million KRW** per month). Small and Medium Enterprises (SMEs) may sometimes pay **70% of GNI**, but this is heavily scrutinized.
+The most critical data point here is the salary requirement. To obtain an E-7 visa, your contracted salary must be at least **80% of the previous year's GNI** (Gross National Income) per capita. If the GNI is roughly **₩44 million**, your salary must exceed roughly **₩35.2 million** annually (approx **₩2.93 million** per month). Small and Medium Enterprises (SMEs) may sometimes pay **70% of GNI**, but this is heavily scrutinized.
 
 <ComparisonTable
   title="Visa Type Comparison"
@@ -102,7 +112,7 @@ The most critical data point here is the salary requirement. To obtain an E-7 vi
 
 The F-2-7 is a "quasi-permanent" residency that frees you from being tied to a single employer. It is purely points-based. You generally need **80 points** out of 120+ to qualify.
 
-Income is the biggest multiplier. Earning over **40 million KRW** gives you significantly more points than earning **30 million KRW**. Age also plays a factor; applicants between **20 and 29** receive the maximum age points.
+Income is the biggest multiplier. Earning over **₩40 million** gives you significantly more points than earning **₩30 million**. Age also plays a factor; applicants between **20 and 29** receive the maximum age points.
 
 <ExpertTip 
   author="Min-ji Kim"
@@ -139,13 +149,13 @@ While every visa differs, the "Core Four" documents are required for almost ever
 3.  **Application Form (No. 34):** Available at the office or downloadable from HiKorea.
 4.  **Standard Photo:** One color photo (**3.5mm x 4.5mm**) taken within the last **6 months** against a white background.
 
-Failure to bring a recent photo is the most common reason for delays. If your photo looks identical to the one on your current card issued **2 years** ago, the officer will reject it. There are photo booths at most immigration offices, costing roughly **10,000 KRW** for a set of 6, but lines can be long.
+Failure to bring a recent photo is the most common reason for delays. If your photo looks identical to the one on your current card issued **2 years** ago, the officer will reject it. There are photo booths at most immigration offices, costing roughly **₩10,000** for a set of 6, but lines can be long.
 
 ## Fees and Costs
 
 Changing your visa status is not free, and unlike many digital services in Korea, immigration offices often require specific payment methods for specific fees.
 
-The total cost generally comes to **130,000 KRW** (approx. $95 USD), broken down into a processing fee and a card issuance fee. If you opt for the mail-delivery service (highly recommended to avoid a second trip), there is an additional shipping fee of roughly **4,000 to 5,000 KRW**.
+The total cost generally comes to **₩130,000** (approx. $95 USD), broken down into a processing fee and a card issuance fee. If you opt for the mail-delivery service (highly recommended to avoid a second trip), there is an additional shipping fee of roughly **4,000 to ₩5,000**.
 
 <PriceTable
   title="Cost Breakdown"
@@ -157,7 +167,7 @@ The total cost generally comes to **130,000 KRW** (approx. $95 USD), broken down
 />
 
 <InfoBox type="tip" title="Cash is King">
-  Always bring at least 150,000 KRW in cash. While some desks accept cards, the automated revenue stamp machines frequently reject foreign cards or encounter system errors.
+  Always bring at least ₩150,000 in cash. While some desks accept cards, the automated revenue stamp machines frequently reject foreign cards or encounter system errors.
 </InfoBox>
 
 ## Processing Times and Collection
@@ -172,7 +182,7 @@ You can check the status of your application on HiKorea under "Application Statu
 
 Korea's immigration laws are strictly enforced. Working on a visa that does not permit it (e.g., freelancing on a student visa without permission) or overstaying your period of sojourn carries heavy fines.
 
-Fines for overstaying start at **100,000 KRW** for the first few days and escalate rapidly. An overstay of **1 month** can result in a fine of roughly **2,000,000 KRW** ($1,500 USD). Furthermore, receiving a fine greater than **3,000,000 KRW** creates a permanent "strike" on your record that can disqualify you from future visa renewals or the F-2-7 point system.
+Fines for overstaying start at **₩100,000** for the first few days and escalate rapidly. An overstay of **1 month** can result in a fine of roughly **₩2,000,000** ($1,500 USD). Furthermore, receiving a fine greater than **₩3,000,000** creates a permanent "strike" on your record that can disqualify you from future visa renewals or the F-2-7 point system.
 
 <StatCard
   title="Enforcement Stats"
@@ -217,7 +227,7 @@ Is it always better to change your visa in Korea? Generally, yes, but there are 
 
 ## Conclusion
 
-Changing your visa status in Korea is a rite of passage for long-term residents. While the paperwork can be voluminous and the HiKorea website frustrating, the system is consistent. By preparing your documents early, securing a reservation **3 weeks** out, and ensuring your financial proof meets the precise KRW figures required, you can navigate the transition smoothly.
+Changing your visa status in Korea is a rite of passage for long-term residents. While the paperwork can be voluminous and the HiKorea website frustrating, the system is consistent. By preparing your documents early, securing a reservation **3 weeks** out, and ensuring your financial proof meets the precise won figures required, you can navigate the transition smoothly.
 
 Remember, the Immigration Contact Center (1345) is your best resource for clarification. They offer interpretation in 20 languages and operate from **9:00 AM to 10:00 PM** (check current hours as they fluctuate). When in doubt, call 1345 before you go.
 
@@ -227,7 +237,7 @@ Remember, the Immigration Contact Center (1345) is your best resource for clarif
     { question: "Can I work while my visa change is processing?", answer: "Generally, no. You are bound by the terms of your PREVIOUS visa until the new one is approved. If your previous visa (e.g., D-10) does not allow work, you cannot start your new job until the E-7 is officially granted." },
     { question: "What happens if my visa expires before my appointment?", answer: "This is a dangerous situation. You must visit the immigration office as a walk-in emergency immediately. You may be fined for overstaying if you pass the expiry date, even if you have an appointment booked for a later date." },
     { question: "Can I change from a Tourist Visa (B-2) to a Work Visa (E-7) inside Korea?", answer: "In 99% of cases, no. You must leave Korea, apply for the E-7 at a Korean consulate in your home country (or a third country like Japan), and re-enter. Exceptions are extremely rare." },
-    { question: "How much bank balance do I need for a D-10 visa?", answer: "As of 2026, the general requirement is approximately 4.5 to 5 million KRW, representing roughly $3,500 USD. This figure is adjusted annually based on the cost of living index." },
+    { question: "How much bank balance do I need for a D-10 visa?", answer: "As of 2026, the general requirement is approximately 4.5 to ₩5 million, representing roughly $3,500 USD. This figure is adjusted annually based on the cost of living index." },
     { question: "Do I need to surrender my old Alien Registration Card?", answer: "Yes. When you change your visa status (e.g., D-2 to D-10), you must turn in your old card. You will be without a physical ID card for roughly 3-4 weeks, so keep a high-quality color scan of your old card and passport with you." }
   ]}
 />

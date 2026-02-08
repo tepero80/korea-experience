@@ -4,6 +4,16 @@ date: 2026-01-03
 excerpt: "Compare online booking vs walk-in for Korean clinics. Data on wait times (15 min vs 2 hours), deposit costs (₩50k-100k), and success rates for 2026."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Banking"
+  - "Botox"
+readTime: "15 min read"
+featured: false
 ---
 
 For international travelers visiting South Korea in 2026, the question of whether to book medical consultations online in advance or simply walk into a clinic is one of the most common logistical dilemmas.

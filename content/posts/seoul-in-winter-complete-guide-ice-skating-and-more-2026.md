@@ -22,7 +22,7 @@ Located right in front of Seoul City Hall, the **Seoul Plaza Ice Rink** is undou
 
 *   **Location:** 110 Sejong-daero, Jung-gu, Seoul (서울 중구 세종대로 110)
 *   **Operating Hours (Estimated 2026):** Daily, 10:00 AM – 9:30 PM (subject to change, check official website)
-*   **Admission (Estimated 2026):** Approximately 1,000 KRW per hour (including skate rental and helmet). This exceptionally low price makes it accessible to everyone.
+*   **Admission (Estimated 2026):** Approximately ₩1,000 per hour (including skate rental and helmet). This exceptionally low price makes it accessible to everyone.
 *   **Facilities:** Skate rental, locker rooms, rest areas, first-aid station, food stalls selling hot drinks and snacks.
 *   **Practical Tip:** Weekends and evenings can get very crowded. For a more relaxed experience, visit during weekday mornings or early afternoons.
 
@@ -32,7 +32,7 @@ For those seeking an indoor ice skating experience, or combining skating with a 
 
 *   **Location:** 240 Olympic-ro, Songpa-gu, Seoul (서울 송파구 올림픽로 240) – B3F Lotte World Adventure
 *   **Operating Hours (Estimated 2026):** Daily, 10:00 AM – 10:30 PM (hours may vary with theme park operations)
-*   **Admission (Estimated 2026):** Approximately 15,000 KRW for a 3-hour session (includes skate rental). Discounts may apply with Lotte World admission ticket.
+*   **Admission (Estimated 2026):** Approximately ₩15,000 for a 3-hour session (includes skate rental). Discounts may apply with Lotte World admission ticket.
 *   **Facilities:** Skate rental, lockers, cafes overlooking the rink, easy access to Lotte World attractions and Lotte Department Store.
 *   **Insider Tip:** Purchase a Lotte World Magic Pass or combination ticket for better value if you plan to visit the theme park as well.
 
@@ -42,7 +42,7 @@ If you're looking for a more upscale and romantic ice skating experience, the **
 
 *   **Location:** 322 Sowol-ro, Yongsan-gu, Seoul (서울 용산구 소월로 322)
 *   **Operating Hours (Estimated 2026):** Typically December to February, 12:00 PM – 9:00 PM (weekdays), 10:00 AM – 9:00 PM (weekends/holidays)
-*   **Admission (Estimated 2026):** Approximately 35,000 KRW for a 2-hour session (includes skate rental). Prices are higher due to the premium experience and location.
+*   **Admission (Estimated 2026):** Approximately ₩35,000 for a 2-hour session (includes skate rental). Prices are higher due to the premium experience and location.
 *   **Facilities:** Skate rental, luxurious changing rooms, access to the hotel's restaurants and cafes, stunning photo opportunities.
 *   **Recommendation:** Book a table at one of the hotel's dining establishments for a perfect post-skate meal with a view.
 
@@ -52,7 +52,7 @@ If you're looking for a more upscale and romantic ice skating experience, the **
 | :---------------- | :------------------------- | :--------------------------- | :------------------------- |
 | **Location**      | Downtown, City Hall        | Indoor, Lotte World Theme Park | Namsan Mountain, Hotel     |
 | **Vibe**          | Festive, Public, Lively    | Dynamic, Family-friendly     | Romantic, Upscale, Scenic  |
-| **Pricing (per session)** | 1,000 KRW                  | 15,000 KRW                   | 35,000 KRW                 |
+| **Pricing (per session)** | ₩1,000                  | ₩15,000                   | ₩35,000                 |
 | **Duration**      | 1 hour                     | 3 hours                      | 2 hours                    |
 | **Skate Rental**  | Included                   | Included                     | Included                   |
 | **Best For**      | Budget, Downtown Experience | Theme Park Visitors, All Ages | Couples, Special Occasions |
@@ -78,7 +78,7 @@ Just a short trip from Seoul, the **Garden of Morning Calm Lighting Festival** i
 *   **Location:** 432 Sumokwon-ro, Sang-myeon, Gapyeong-gun, Gyeonggi-do (경기도 가평군 상면 수목원로 432)
 *   **Dates (Estimated 2026):** Early December to mid-March.
 *   **Operating Hours:** Sunset to 9:00 PM (weekdays), Sunset to 11:00 PM (Saturdays and public holidays).
-*   **Admission (Estimated 2026):** 11,000 KRW for adults.
+*   **Admission (Estimated 2026):** ₩11,000 for adults.
 *   **Transportation:** Take a shuttle bus from Cheongpyeong Station or Gapyeong Station. The Garden is also part of the Gapyeong City Tour Bus route, which includes other popular spots like Nami Island. Consider booking a guided tour from Seoul for convenience.
 
 ### Christmas Markets and Department Store Displays
@@ -99,8 +99,8 @@ When the winter chill sets in, Seoul offers countless ways to warm up and relax.
 A **jjimjilbang** (Korean public bathhouse and spa) is an absolute must-do during winter. These multi-story complexes offer various hot and cold baths, saunas with different temperatures and materials (salt, charcoal, jade), communal sleeping areas, and often restaurants and entertainment facilities. It’s a unique cultural experience that will leave you feeling refreshed and warm.
 
 *   **Recommended Jjimjilbangs:**
-    *   **Dragon Hill Spa & Resort:** A massive, tourist-friendly jjimjilbang near Yongsan Station. Features a variety of saunas, a swimming pool, and a cinema. (Estimated 2026 Admission: 18,000 – 22,000 KRW for day/night entry).
-    *   **Siloam Sauna:** Another large, well-known jjimjilbang near Seoul Station, popular with locals and travelers alike. (Estimated 2026 Admission: 15,000 – 20,000 KRW).
+    *   **Dragon Hill Spa & Resort:** A massive, tourist-friendly jjimjilbang near Yongsan Station. Features a variety of saunas, a swimming pool, and a cinema. (Estimated 2026 Admission: 18,000 – ₩22,000 for day/night entry).
+    *   **Siloam Sauna:** Another large, well-known jjimjilbang near Seoul Station, popular with locals and travelers alike. (Estimated 2026 Admission: 15,000 – ₩20,000).
 *   **What to expect:** You'll receive a uniform (t-shirt and shorts) upon entry. Gender-segregated bathing areas are clothing-optional (don't be shy!). The communal areas, where you wear your uniform, are for relaxing, eating, and socializing.
 *   **Practical Tip:** Don't forget to try the "sikhye" (sweet rice drink) and "maekbanseok gyeran" (baked eggs) while relaxing in the communal area.
 
@@ -125,7 +125,7 @@ Winter adds a unique layer of beauty to Seoul's historical and cultural sites. I
 
 *   **Location:** 161 Sajik-ro, Jongno-gu, Seoul (서울 종로구 사직로 161)
 *   **Operating Hours:** Typically 9:00 AM – 5:00 PM (closed Tuesdays). Hours may vary, so check in advance.
-*   **Admission (Estimated 2026):** 3,000 KRW for adults. Free if you wear a **hanbok** (traditional Korean dress).
+*   **Admission (Estimated 2026):** ₩3,000 for adults. Free if you wear a **hanbok** (traditional Korean dress).
 *   **Practical Tip:** Renting a hanbok is a popular activity, and wearing one will keep you surprisingly warm over layers of clothing. There are numerous rental shops around the palace.
 
 ### Bukchon Hanok Village: Step Back in Time
@@ -157,7 +157,7 @@ While Seoul itself doesn't have ski resorts, several excellent options are just 
 *   **Travel Time from Seoul:** Approximately 1.5 - 2 hours by subway or shuttle bus.
 *   **Slopes:** 10 slopes (2 for beginners, 6 for intermediates, 2 for advanced).
 *   **Facilities:** Ski/snowboard rental, lessons, food court, gondolas, children's facilities.
-*   **Estimated 2026 Price:** A half-day lift pass and rental package typically starts around 70,000 - 90,000 KRW.
+*   **Estimated 2026 Price:** A half-day lift pass and rental package typically starts around ₩70,000 - ₩90,000.
 *   **Tip:** Book a ski package that includes transportation from Seoul for a hassle-free experience.
 
 ### Vivaldi Park Ski World: Fun for All Ages
@@ -168,7 +168,7 @@ While Seoul itself doesn't have ski resorts, several excellent options are just 
 *   **Travel Time from Seoul:** Approximately 1.5 - 2 hours by shuttle bus.
 *   **Slopes:** 12 slopes, including beginner-friendly and challenging advanced runs.
 *   **Facilities:** Ski/snowboard rental, various lessons, resort hotels, cafes, restaurants, Ocean World (indoor water park section open year-round).
-*   **Estimated 2026 Price:** A half-day lift pass and rental package typically starts around 80,000 - 110,000 KRW.
+*   **Estimated 2026 Price:** A half-day lift pass and rental package typically starts around ₩80,000 - ₩110,000.
 *   **Recommendation:** Consider an overnight stay to fully enjoy the resort's amenities.
 
 #### Ski Resort Comparison (Estimated 2026)
@@ -192,24 +192,24 @@ Winter is the perfect time to indulge in Seoul's comforting and delicious food s
 
 The bustling street food stalls are a lifeline in winter, offering quick and cheap ways to warm up.
 
-*   **Hotteok:** A sweet, pan-fried pancake filled with brown sugar syrup, cinnamon, and nuts. Absolutely divine on a cold day. Look for them in Myeongdong, Insadong, or any busy street. (Estimated Price: 1,500 - 2,500 KRW).
-*   **Tteokbokki:** Spicy stir-fried rice cakes. A Korean staple that provides a satisfying kick of heat. (Estimated Price: 3,000 - 5,000 KRW).
-*   **Eomuk (Fish Cakes):** Skewered fish cakes served in a savory broth. You'll find these at almost every street food cart, and the broth itself is wonderfully warming. (Estimated Price: 1,000 KRW per skewer).
-*   **Gyeranppang (Egg Bread):** A small, fluffy loaf of bread with a whole egg baked inside, often topped with parsley or sesame seeds. Sweet and savory. (Estimated Price: 1,500 - 2,000 KRW).
-*   **Roasted Chestnuts (Gungoguma):** A classic winter snack. The warm, slightly smoky flavor is incredibly comforting. (Estimated Price: 3,000 - 5,000 KRW per bag).
+*   **Hotteok:** A sweet, pan-fried pancake filled with brown sugar syrup, cinnamon, and nuts. Absolutely divine on a cold day. Look for them in Myeongdong, Insadong, or any busy street. (Estimated Price: ₩1,500 - ₩2,500).
+*   **Tteokbokki:** Spicy stir-fried rice cakes. A Korean staple that provides a satisfying kick of heat. (Estimated Price: ₩3,000 - ₩5,000).
+*   **Eomuk (Fish Cakes):** Skewered fish cakes served in a savory broth. You'll find these at almost every street food cart, and the broth itself is wonderfully warming. (Estimated Price: ₩1,000 per skewer).
+*   **Gyeranppang (Egg Bread):** A small, fluffy loaf of bread with a whole egg baked inside, often topped with parsley or sesame seeds. Sweet and savory. (Estimated Price: ₩1,500 - ₩2,000).
+*   **Roasted Chestnuts (Gungoguma):** A classic winter snack. The warm, slightly smoky flavor is incredibly comforting. (Estimated Price: ₩3,000 - ₩5,000 per bag).
 
 ### Hearty Korean Stews and Soups
 
 Nothing beats a piping hot bowl of Korean stew or soup to ward off the winter chill.
 
-*   **Sundubu Jjigae (Soft Tofu Stew):** A bubbling hot pot of silken tofu, sometimes with seafood or meat, in a spicy broth. (Estimated Price: 8,000 - 10,000 KRW).
-*   **Kimchi Jjigae (Kimchi Stew):** Another quintessential Korean stew made with kimchi, pork or tuna, and tofu. Deeply flavorful and warming. (Estimated Price: 7,000 - 9,000 KRW).
-*   **Samgyetang (Ginseng Chicken Soup):** While traditionally eaten in summer to combat heat, many also enjoy this nourishing chicken soup in winter for its health benefits and warmth. (Estimated Price: 15,000 - 20,000 KRW).
-*   **Budae Jjigae (Army Stew):** A hearty and savory stew with various ingredients like ham, sausage, baked beans, kimchi, ramyeon noodles, and gochujang (chili paste) in a rich broth. Perfect for sharing. (Estimated Price: 20,000 - 30,000 KRW for 2 people).
+*   **Sundubu Jjigae (Soft Tofu Stew):** A bubbling hot pot of silken tofu, sometimes with seafood or meat, in a spicy broth. (Estimated Price: ₩8,000 - ₩10,000).
+*   **Kimchi Jjigae (Kimchi Stew):** Another quintessential Korean stew made with kimchi, pork or tuna, and tofu. Deeply flavorful and warming. (Estimated Price: ₩7,000 - ₩9,000).
+*   **Samgyetang (Ginseng Chicken Soup):** While traditionally eaten in summer to combat heat, many also enjoy this nourishing chicken soup in winter for its health benefits and warmth. (Estimated Price: ₩15,000 - ₩20,000).
+*   **Budae Jjigae (Army Stew):** A hearty and savory stew with various ingredients like ham, sausage, baked beans, kimchi, ramyeon noodles, and gochujang (chili paste) in a rich broth. Perfect for sharing. (Estimated Price: ₩20,000 - ₩30,000 for 2 people).
 
 #### Winter Street Food Must-Try (Estimated 2026)
 
-| Food Item      | Description                                         | Typical Price Range (KRW) | Where to Find                                 |
+| Food Item      | Description                                         | Typical Price Range (₩) | Where to Find                                 |
 | :------------- | :-------------------------------------------------- | :------------------------ | :-------------------------------------------- |
 | **Hotteok**    | Sweet, pan-fried pancake with syrup/nuts            | 1,500 - 2,500             | Myeongdong, Insadong, Namdaemun Market        |
 | **Eomuk**      | Fish cakes on skewers in savory broth               | 1,000 per skewer          | Anywhere with street food carts               |

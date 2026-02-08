@@ -284,7 +284,7 @@ If you are recovering from these treatments and want to enjoy Seoul without stre
     { question: "Can I do Ultherapy and Shurink together?", answer: "Generally, no. They are both HIFU technologies targeting the same layer. Doing them together risks over-treatment and burns. However, you can do Ultherapy for the deep layer and Shurink 'Booster' mode for the surface layer, but this requires a skilled doctor." },
     { question: "How long until I see results?", answer: "Thermage offers some immediate tightening, but real results peak at 3-6 months. Ultherapy results appear gradually over 2-3 months as collagen rebuilds. Shurink results are usually visible within 2-4 weeks." },
     { question: "Is it safe to fly after treatment?", answer: "Yes, it is perfectly safe to fly immediately after any of these treatments. There are no incisions or pressure issues. However, keep your skin hydrated as cabin air is dry." },
-    { question: "Do Korean clinics accept foreign credit cards?", answer: "Yes, almost all clinics in Gangnam accept Visa, Mastercard, and Amex. However, some offer small discounts (5-10%) for cash payments in KRW." },
+    { question: "Do Korean clinics accept foreign credit cards?", answer: "Yes, almost all clinics in Gangnam accept Visa, Mastercard, and Amex. However, some offer small discounts (5-10%) for cash payments in won (₩)." },
     { question: "What is 'Titanium Lifting' that I see advertised?", answer: "Titanium Lifting is a newer trend in Korea (using a device like Soprano Titanium). It combines three laser wavelengths to lift and brighten simultaneously with zero downtime and zero pain. It is becoming a popular alternative to Shurink for event prep." }
   ]}
 />

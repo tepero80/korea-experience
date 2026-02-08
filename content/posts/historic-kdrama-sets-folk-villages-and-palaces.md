@@ -4,6 +4,16 @@ date: 2026-01-10
 excerpt: "Discover the best historic Kdrama sets folk villages and palaces. A comprehensive guide to filming locations for Kingdom, Mr. Sunshine, and The Red Sleeve."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "12 min read"
+featured: false
 ---
 
 For international fans of Korean culture, the allure of *Sageuk* (historical dramas) lies not just in the intricate plotlines, but in the breathtaking visual storytelling. Stepping onto historic Kdrama sets folk villages and palaces allows travelers to transcend the screen and walk the same soil as their favorite Joseon Dynasty characters. From the regal architecture of Seoul's grand palaces to the rustic charm of purpose-built folk villages in the provinces, these locations offer an immersive journey into Korea's past.
@@ -39,11 +49,11 @@ The Changing of the Guard ceremony, performed exactly as it was during the Joseo
   address="161 Sajik-ro, Jongno-gu, Seoul"
   hours="09:00-17:00 (Winter), 09:00-18:00 (Summer), Closed Tuesdays"
   phone="+82-2-3700-3900"
-  priceRange="$ (3,000 KRW)"
+  priceRange="$ (₩3,000)"
   rating={4.8}
   transit="Gyeongbokgung Station (Line 3), Exit 5"
   highlights={["Geunjeongjeon Hall", "Gyeonghoeru Pavilion", "Hyangwonjeong Pavilion"]}
-  tip="Entry is free if you are wearing a Hanbok. Rent one nearby for 15,000-20,000 KRW."
+  tip="Entry is free if you are wearing a Hanbok. Rent one nearby for 15,000-₩20,000."
 />
 
 <InfoBox type="tip" title="Pro Tip">
@@ -59,8 +69,8 @@ The highlight is the Huwon (Secret Garden), which occupies 60% of the palace gro
 <QuickFacts
   title="Changdeokgung Logistics"
   facts={[
-    { label: "Palace Entry", value: "3,000 KRW", icon: "🎟️" },
-    { label: "Garden Entry", value: "5,000 KRW", icon: "🌳" },
+    { label: "Palace Entry", value: "₩3,000", icon: "🎟️" },
+    { label: "Garden Entry", value: "₩5,000", icon: "🌳" },
     { label: "Walking Distance", value: "2.5 km / 1.5 mi", icon: "walk" }
   ]}
   columns={3}
@@ -87,7 +97,7 @@ Because it is a working set, you might stumble upon a live production. The park 
   title="Daejanggeum Park Stats"
   variant="gradient"
   stats={[
-    { value: "9,500", label: "Entry Fee (KRW)", icon: "💰" },
+    { value: "9,500", label: "Entry Fee (₩)", icon: "💰" },
     { value: "2.5M", label: "Area (sq meters)", icon: "aaa" }
   ]}
   source="MBC Official Data 2025"
@@ -102,8 +112,8 @@ The journey here is an adventure in itself. There is no direct subway line. The 
   totalTime="2 hours"
   difficulty="medium"
   steps={[
-    { title: "Bus to Baekam", description: "Take intercity bus from Seoul Nambu Terminal to Baekam. Departures every 20 mins.", tip: "Cost is approx. 5,200 KRW." },
-    { title: "Local Transfer", description: "At Baekam, take Bus 105 or a taxi.", tip: "Taxi costs ~10,000 KRW and takes 15 mins. Bus runs only 4 times a day." }
+    { title: "Bus to Baekam", description: "Take intercity bus from Seoul Nambu Terminal to Baekam. Departures every 20 mins.", tip: "Cost is approx. ₩5,200." },
+    { title: "Local Transfer", description: "At Baekam, take Bus 105 or a taxi.", tip: "Taxi costs ~₩10,000 and takes 15 mins. Bus runs only 4 times a day." }
   ]}
 />
 
@@ -113,14 +123,14 @@ Also located in Yongin, but distinct from the Daejanggeum Park, is the Korean Fo
 
 This location is famous for *100 Days My Prince* and *My Love from the Star*. The key differentiator here is the daily performance schedule. Visitors can witness tightrope walking (Jultagi), equestrian feats, and traditional weddings. It feels less like a ghost town and more like a functioning village.
 
-The entry fee is steeper than other locations, currently priced at 32,000 KRW for an adult day pass. However, this includes access to all performances and the onsite museum. Food prices inside are reasonable, with a hearty bowl of Bibimbap costing around 11,000 to 13,000 KRW at the marketplace food court.
+The entry fee is steeper than other locations, currently priced at ₩32,000 for an adult day pass. However, this includes access to all performances and the onsite museum. Food prices inside are reasonable, with a hearty bowl of Bibimbap costing around 11,000 to ₩13,000 at the marketplace food court.
 
 <ComparisonTable
   title="Yongin Showdown: Daejanggeum vs. Folk Village"
   headers={["Feature", "Daejanggeum Park", "Korean Folk Village"]}
   rows={[
     { feature: "Primary Purpose", option1: "Filming Set", option2: "Cultural Education" },
-    { feature: "Entry Cost", option1: "9,500 KRW", option2: "32,000 KRW" },
+    { feature: "Entry Cost", option1: "₩9,500", option2: "₩32,000" },
     { feature: "Live Performances", option1: "None", option2: "Daily (3-4 types)" },
     { feature: "Accessibility from Seoul", option1: "Difficult (2 hrs)", option2: "Moderate (1.5 hrs)" },
     { feature: "Authenticity", option1: "Replica Sets", option2: "Relocated Real Houses" }
@@ -135,7 +145,7 @@ The entry fee is steeper than other locations, currently priced at 32,000 KRW fo
 
 Moving away from the Joseon Dynasty, the Sunshine Studio in Nonsan offers a unique glimpse into the early 1900s (Hanmal period). This open set was built specifically for the blockbuster drama *Mr. Sunshine*. It recreates the atmosphere of Hanseong (old Seoul) during the modernization period, featuring red brick buildings, vintage trams, and western-style hotels.
 
-Located about 160 kilometers (100 miles) south of Seoul, this destination requires dedication. The set features the Glory Hotel, where you can actually sit for coffee. The prices are premium, with an Americano costing about 6,000 KRW, but you are paying for the atmosphere. The studio is adjacent to the Nonsan Sunshine Land, a military experience park, making it a diverse destination.
+Located about 160 kilometers (100 miles) south of Seoul, this destination requires dedication. The set features the Glory Hotel, where you can actually sit for coffee. The prices are premium, with an Americano costing about ₩6,000, but you are paying for the atmosphere. The studio is adjacent to the Nonsan Sunshine Land, a military experience park, making it a diverse destination.
 
 <LocationCard
   name="Sunshine Studio"
@@ -144,11 +154,11 @@ Located about 160 kilometers (100 miles) south of Seoul, this destination requir
   address="102 Bonghwang-ro, Yeonmu-eup, Nonsan-si, Chungnam"
   hours="10:00-18:00 (Closed Wednesdays)"
   phone="+82-41-746-8480"
-  priceRange="$$ (10,000 KRW)"
+  priceRange="$$ (₩10,000)"
   rating={4.7}
   transit="KTX to Nonsan Station, then Bus 201"
   highlights={["Glory Hotel", "Hwawolru Pub", "Electric Tram"]}
-  tip="Rent a 'Modern Boy/Girl' costume on-site (20,000 KRW for 2 hours) to match the 1900s aesthetic."
+  tip="Rent a 'Modern Boy/Girl' costume on-site (₩20,000 for 2 hours) to match the 1900s aesthetic."
 />
 
 ## Mungyeong Saejae Open Set: The Raw History
@@ -157,11 +167,11 @@ For fans of gritty, realistic historical dramas like *Kingdom* (Season 1 & 2) an
 
 The open set here differs from Yongin because it is nestled deep within a provincial park, surrounded by dramatic mountain peaks. The scenery is rugged and authentic. The set includes a Gwanghwamun Gate replica and a village of thatched-roof houses often used to depict the lives of commoners.
 
-Entry to the provincial park is free, but admission to the Open Set is incredibly affordable at just 2,000 KRW for adults. To reach the set from the parking lot, you can walk about 1.5 kilometers (0.9 miles) or take an electric shuttle cart for 2,000 KRW one way.
+Entry to the provincial park is free, but admission to the Open Set is incredibly affordable at just ₩2,000 for adults. To reach the set from the parking lot, you can walk about 1.5 kilometers (0.9 miles) or take an electric shuttle cart for ₩2,000 one way.
 
 <ProsCons
   title="Mungyeong Saejae Pros and Cons"
-  pros={["Incredible natural scenery with mountain backdrops", "Extremely low entrance fee (2,000 KRW)", "Combines hiking with K-drama sightseeing"]}
+  pros={["Incredible natural scenery with mountain backdrops", "Extremely low entrance fee (₩2,000)", "Combines hiking with K-drama sightseeing"]}
   cons={["Far from Seoul (2.5 hours via bus)", "Limited English signage compared to Seoul", "Fewer food options inside the set area"]}
   variant="cards"
 />
@@ -170,7 +180,7 @@ Entry to the provincial park is free, but admission to the Open Set is incredibl
 
 While most sets focus on the Joseon Dynasty (1392–1910), the Naju Image Theme Park specializes in the Three Kingdoms period, specifically Goguryeo. This is where the legendary drama *Jumong* was filmed. The architecture here is distinctively different—more fortress-like, using wood and stone with bolder, rougher aesthetics compared to the refined structures of Joseon sets.
 
-Located in Jeollanam-do province, approximately 300 kilometers (186 miles) south of Seoul, this is a commitment for any traveler. The park covers 150,000 square meters. Due to its age (built around 2006), some areas show wear, but the massive fortress walls remain impressive. Admission is 4,000 KRW.
+Located in Jeollanam-do province, approximately 300 kilometers (186 miles) south of Seoul, this is a commitment for any traveler. The park covers 150,000 square meters. Due to its age (built around 2006), some areas show wear, but the massive fortress walls remain impressive. Admission is ₩4,000.
 
 <Timeline
   title="The Evolution of K-Drama Sets"
@@ -200,9 +210,9 @@ Planning a trip to visit multiple historic Kdrama sets folk villages and palaces
 
 ### Hanbok Rental: The Essential Experience
 
-Visiting these locations is inextricably linked with Hanbok rental. In Seoul palaces (Gyeongbokgung, Changdeokgung), wearing a Hanbok grants you free entry. The average rental price is 15,000 to 30,000 KRW for 4 hours, depending on the intricacy of the design ("Theme" Hanbok vs. "Traditional" Hanbok).
+Visiting these locations is inextricably linked with Hanbok rental. In Seoul palaces (Gyeongbokgung, Changdeokgung), wearing a Hanbok grants you free entry. The average rental price is 15,000 to ₩30,000 for 4 hours, depending on the intricacy of the design ("Theme" Hanbok vs. "Traditional" Hanbok).
 
-Rental shops are clustered near the subway exits closest to the palaces. For locations outside Seoul like Yongin or Jeonju, rental shops are usually located in the parking lots or immediate entrance areas. Most shops offer hair styling services (braids with ribbons and pearls) for an additional 3,000 to 5,000 KRW.
+Rental shops are clustered near the subway exits closest to the palaces. For locations outside Seoul like Yongin or Jeonju, rental shops are usually located in the parking lots or immediate entrance areas. Most shops offer hair styling services (braids with ribbons and pearls) for an additional 3,000 to ₩5,000.
 
 ## Conclusion
 
@@ -213,7 +223,7 @@ For the casual fan, the palaces in Seoul provide a perfect, accessible taste of 
 <FAQAccordion
   title="Frequently Asked Questions"
   items={[
-    { question: "Can I use a credit card at these locations?", answer: "Yes, major credit cards (Visa, Mastercard) are accepted at ticket booths and most restaurants. However, bring cash (KRW) for small street food stalls or vending machines inside the sets." },
+    { question: "Can I use a credit card at these locations?", answer: "Yes, major credit cards (Visa, Mastercard) are accepted at ticket booths and most restaurants. However, bring cash (₩) for small street food stalls or vending machines inside the sets." },
     { question: "Are these locations wheelchair accessible?", answer: "The palaces in Seoul have designated wheelchair routes and ramps. However, locations like Mungyeong Saejae and Yongin Daejanggeum Park feature steep hills and unpaved dirt roads, making wheelchair access difficult in many areas." },
     { question: "How much time should I allocate for Yongin Daejanggeum Park?", answer: "Allocating at least 3 to 4 hours is recommended to see the major sets without rushing. If you include travel time from Seoul, it is a full-day activity (6-7 hours total)." },
     { question: "Is photography allowed everywhere?", answer: "General photography is encouraged. However, commercial shooting (using tripods, reflectors, or costume changes for professional shoots) may require a special permit. Drones are strictly prohibited at all locations without military clearance." },

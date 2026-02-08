@@ -266,7 +266,7 @@ To help you decide which winter adventure suits you best, here's a quick compari
 
 ### Major Ski Resorts Quick Comparison
 
-| Resort           | Distance from Seoul (approx.) | Best For                         | Key Features                                                                   | Approx. Full-Day Lift Pass (KRW) |
+| Resort           | Distance from Seoul (approx.) | Best For                         | Key Features                                                                   | Approx. Full-Day Lift Pass (₩) |
 | :--------------- | :---------------------------- | :------------------------------- | :----------------------------------------------------------------------------- | :------------------------------- |
 | Yongpyong        | 2.5 - 3.5 hours               | All skill levels, Olympic legacy | Largest resort, 28 slopes, long runs, diverse accommodation                     | 70,000 - 90,000                  |
 | Alpensia         | 2.5 - 3.5 hours               | Beginners, families, upscale     | Olympic hub, resort village feel, gentler slopes, luxury hotels                 | 65,000 - 85,000                  |

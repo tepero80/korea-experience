@@ -4,6 +4,16 @@ date: 2026-01-20
 excerpt: "Discover the holy trinity of Korean street food. Essential guide to Tteokbokki, Hotteok, and Sundae including best spots, prices, and eating tips."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Busan"
+readTime: "13 min read"
+featured: false
 ---
 
 The vibrant orange tarps of a *Pojangmacha* (street tent) are as iconic to the Korean landscape as the ancient palaces that stand behind them. For international travelers, the sensory overload of steam rising into the cold air, the rhythmic chopping of scissors, and the pungent aroma of spicy pepper paste is the true welcome to Korea. While the culinary scene in Seoul has evolved into a powerhouse of Michelin stars and fusion dining, the heart of the nation's food culture remains firmly planted on the sidewalk.
@@ -12,9 +22,9 @@ At the core of this street food ecosystem lies a "Holy Trinity" that every visit
 
 <KeyTakeaways 
   points={[
-    "The Tteokbokki-Sundae-Tempura combo costs roughly 10,000 to 12,000 KRW ($7-9 USD)",
+    "The Tteokbokki-Sundae-Tempura combo costs roughly 10,000 to ₩12,000 ($7-9 USD)",
     "Most street stalls open after 2:00 PM and close around 11:00 PM daily",
-    "Cash is still king at smaller stalls; always carry 1,000 and 5,000 KRW bills"
+    "Cash is still king at smaller stalls; always carry 1,000 and ₩5,000 bills"
   ]}
   readTime={12}
   lastUpdated="2026-02-06"
@@ -81,7 +91,7 @@ If you travel 325 kilometers southeast to Busan, the style changes. The sauce be
 Often intimidating to Western travelers, Sundae (pronounced soon-deh) is a blood sausage that shares little in common with the ice cream dessert of the same spelling. It is made by steaming cow or pig intestines stuffed with various ingredients. The most common street version, *Dangmyeon Sundae*, is filled primarily with glass noodles (vermicelli), barley, and pork blood.
 
 ### Flavor Profile and Texture
-Contrary to expectations, street Sundae does not have a strong metallic or "bloody" taste. The glass noodles dominate the flavor profile, making it mild, savory, and slightly earthy. The texture is soft with a slight bounce from the casing. A standard serving weighs approximately 250 to 300 grams and costs between 4,500 and 5,000 KRW.
+Contrary to expectations, street Sundae does not have a strong metallic or "bloody" taste. The glass noodles dominate the flavor profile, making it mild, savory, and slightly earthy. The texture is soft with a slight bounce from the casing. A standard serving weighs approximately 250 to 300 grams and costs between 4,500 and ₩5,000.
 
 <ComparisonTable
   title="Sundae Varieties"
@@ -125,7 +135,7 @@ The vendor tears off a handful of dough, stuffs it with a mixture of brown sugar
 />
 
 ### Seasonal Availability and Pricing
-Unlike Tteokbokki which is a year-round staple, Hotteok is distinctly seasonal. While tourist areas sell them all year, neighborhood stalls typically only operate from October to April. The price has risen due to inflation; what was once 1,000 KRW is now typically 2,000 to 2,500 KRW in 2026.
+Unlike Tteokbokki which is a year-round staple, Hotteok is distinctly seasonal. While tourist areas sell them all year, neighborhood stalls typically only operate from October to April. The price has risen due to inflation; what was once ₩1,000 is now typically 2,000 to ₩2,500 in 2026.
 
 Specialty versions include the *Ssiat Hotteok* (Seed Hotteok) famous in Busan, which is cut open after frying and stuffed with sunflower seeds, pumpkin seeds, and almonds. This adds a crunchy texture and nutritional density, raising the calorie count from roughly 230 to nearly 350 calories per pancake.
 
@@ -156,7 +166,7 @@ Located in Jongno-gu, this is the oldest traditional market in Seoul. The centra
 ### 2. Myeongdong Street Food Alley (The Tourist Buffet)
 While purists critique Myeongdong for being commercialized, the variety is unmatched. The main street stretches 400 meters and transforms into a food market after 4:00 PM.
 *   **Best for:** Variety. You can find Tteokbokki alongside grilled lobster, tornado potatoes, and egg bread.
-*   **Price Premium:** Expect to pay 20-30% more than neighborhood stalls. Tteokbokki here averages 5,000 to 6,000 KRW.
+*   **Price Premium:** Expect to pay 20-30% more than neighborhood stalls. Tteokbokki here averages 5,000 to ₩6,000.
 *   **Transit:** Myeongdong Station (Line 4), Exit 6.
 
 ### 3. Tongin Market (The Unique Experience)
@@ -200,7 +210,7 @@ The barrier to entry for street food can feel high due to language differences, 
 />
 
 ### The "Combo" Culture
-If you visit a franchise street food restaurant (like *Jaws Tteokbokki* or *Mimine*), you will often see "Set Menus." A common term is "Tteok-Twul-Sun," which is an abbreviation for Tteokbokki, Twigim (Tempura), and Sundae. This set typically costs around 13,000 to 15,000 KRW and serves 2-3 people comfortably.
+If you visit a franchise street food restaurant (like *Jaws Tteokbokki* or *Mimine*), you will often see "Set Menus." A common term is "Tteok-Twul-Sun," which is an abbreviation for Tteokbokki, Twigim (Tempura), and Sundae. This set typically costs around 13,000 to ₩15,000 and serves 2-3 people comfortably.
 
 <InfoBox type="warning" title="Spiciness Warning">
   The red color of Tteokbokki can be deceiving. The brightness comes from the pepper powder, not necessarily the heat level. However, if you see the sauce is a dark, maroon crimson, it likely contains Capsaicin extract and will be extremely spicy. Ask "Mae-wo-yo?" (Is it spicy?) before ordering.
@@ -225,7 +235,7 @@ Whether you are standing under a yellow tarp in the rain in Hongdae or navigatin
   title="Frequently Asked Questions"
   items={[
     { question: "Is street food safe for vegetarians?", answer: "Generally, no. Tteokbokki sauce usually contains fish cake broth or anchovy stock. Sundae contains pig blood and often pork mince. Hotteok is usually safe, but check if the grill is greased with animal fat or vegetable oil." },
-    { question: "Can I pay with a credit card at street stalls?", answer: "At major tourist hubs like Myeongdong, about 70% of stalls now accept cards or have QR codes. However, at neighborhood stalls or traditional markets, cash is still essential. Always carry 10,000 KRW in small bills." },
+    { question: "Can I pay with a credit card at street stalls?", answer: "At major tourist hubs like Myeongdong, about 70% of stalls now accept cards or have QR codes. However, at neighborhood stalls or traditional markets, cash is still essential. Always carry ₩10,000 in small bills." },
     { question: "Is it rude to walk and eat?", answer: "In the past, it was considered slightly improper, but in street food zones like Myeongdong, it is completely normal. However, it is polite to stand near the stall while you eat to avoid bumping into people with hot food." },
     { question: "How spicy is 'normal' Tteokbokki?", answer: "On a scale of 1-10, standard street Tteokbokki is about a 4. It is comparable to a Jalapeño pepper. If you have a low tolerance, look for 'Gungjung Tteokbokki' (soy sauce based) or 'Rose Tteokbokki' (cream based)." },
     { question: "What time do street stalls close?", answer: "Most stalls operate until 10:00 PM or 11:00 PM. In nightlife districts like Hongdae or Gangnam, some may stay open until 1:00 AM or 2:00 AM to cater to the post-drinking crowd." }

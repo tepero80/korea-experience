@@ -4,6 +4,16 @@ date: 2026-01-08
 excerpt: "A complete guide to South Korea F-6 and F-3 family visas. Learn income thresholds, document lists, and application steps for expats."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "12 min read"
+featured: false
 ---
 
 Navigating the immigration system in South Korea can feel like maneuvering through a labyrinth, especially when the goal is as personal and significant as family reunification. Whether you are a foreign resident looking to bring your spouse and children to Seoul, or you have recently married a South Korean national, understanding the specific F-visa requirements is the first step toward a stable life together in the Land of the Morning Calm.
@@ -16,7 +26,7 @@ Learn more in our comprehensive guide to [Korea Permanent Residency Requirements
 
 <KeyTakeaways 
   points={[
-    "The 2025-2026 income requirement for a 2-person F-6 household is approx. 22.1 million KRW",
+    "The 2025-2026 income requirement for a 2-person F-6 household is approx. ₩22.1 million",
     "F-6 applicants must prove communication ability via TOPIK Level 1 or designated courses",
     "Dependent F-3 visas do not automatically grant work permission in Korea"
   ]}
@@ -101,7 +111,7 @@ You must prove you have a suitable place to live. This does not mean you must ow
 
 The space must be suitable for two adults. If the property is rented, the lease must be in the name of the Korean spouse, the foreign applicant, or the Korean spouse's immediate family (parents/siblings).
 
-*   **Average Studio Deposit:** 5,000,000 to 10,000,000 KRW in Seoul.
+*   **Average Studio Deposit:** 5,000,000 to ₩10,000,000 in Seoul.
 *   **Required Document:** Certified Copy of Real Estate Register (*Deunggi-bu-deungbon*).
 
 ## F-3 Dependent Family Visa Requirements
@@ -123,7 +133,7 @@ Only the legal spouse and unmarried minor children (under Korean age 19) are eli
 
 ### Required Documents for F-3
 1.  **Marriage/Birth Certificates:** These must be apostilled or consular verified from your home country. This is the most time-consuming step, often taking 4 to 8 weeks depending on your country of origin.
-2.  **Financial Proof:** The main visa holder must show proof of employment and income (usually exceeding the GNI per capita, approx. 44 million KRW as of late 2025 data).
+2.  **Financial Proof:** The main visa holder must show proof of employment and income (usually exceeding the GNI per capita, approx. ₩44 million as of late 2025 data).
 3.  **Tuberculosis Test:** Applicants from high-risk countries must provide a TB test result issued by a designated hospital in Korea or their home country.
 
 ## The Application Process: Step-by-Step
@@ -137,7 +147,7 @@ Whether applying for F-6 or F-3, the procedure varies slightly depending on whet
   steps={[
     { title: "Gather Documents", description: "Collect income tax proof, background checks, and marriage certificates. Ensure Apostilles are present.", tip: "Do this 2 months before your current visa expires." },
     { title: "Book Appointment", description: "Log into the HiKorea website to reserve a visit slot. Walk-ins are no longer accepted.", tip: "Book at least 3 weeks in advance; slots fill fast." },
-    { title: "Submit & Pay", description: "Visit the office. Pay the 100,000 KRW revenue stamp fee + 30,000 KRW card fee.", tip: "Bring exact cash for the revenue stamps." },
+    { title: "Submit & Pay", description: "Visit the office. Pay the ₩100,000 revenue stamp fee + ₩30,000 card fee.", tip: "Bring exact cash for the revenue stamps." },
     { title: "Waiting Period", description: "Processing takes 2 to 6 weeks. You cannot leave Korea during this time." }
   ]}
 />
@@ -176,13 +186,13 @@ However, the **F-1-5** visa allows parents of F-6 holders to stay in Korea speci
 
 Budgeting for your visa run is essential. Beyond the emotional toll, there are hard costs involved.
 
-*   **Application Fee (In Korea):** 100,000 KRW (approx. $75 USD).
-*   **Registration Card Fee:** 30,000 KRW (approx. $23 USD).
-*   **Medical Checkup:** 50,000 - 120,000 KRW (depending on the hospital).
-*   **Translation/Notary:** 30,000 - 50,000 KRW per page.
-*   **TB Test:** 20,000 - 30,000 KRW.
+*   **Application Fee (In Korea):** ₩100,000 (approx. $75 USD).
+*   **Registration Card Fee:** ₩30,000 (approx. $23 USD).
+*   **Medical Checkup:** 50,000 - ₩120,000 (depending on the hospital).
+*   **Translation/Notary:** 30,000 - ₩50,000 per page.
+*   **TB Test:** 20,000 - ₩30,000.
 
-If you hire an administrative agent (*Haeng-jeong-sa*), expect to pay between 500,000 KRW and 1,500,000 KRW depending on the complexity of your case.
+If you hire an administrative agent (*Haeng-jeong-sa*), expect to pay between ₩500,000 and ₩1,500,000 depending on the complexity of your case.
 
 ## Common Rejection Reasons to Avoid
 
@@ -221,14 +231,14 @@ Once you have the F-6, it is not permanent yet.
 2.  **First Renewal:** Usually 1 year.
 3.  **Subsequent Renewals:** Can be 2 or 3 years if you have children or demonstrate good income stability.
 
-To renew, you must visit the immigration office *before* the expiration date printed on the back of your ARC. The renewal fee is 60,000 KRW.
+To renew, you must visit the immigration office *before* the expiration date printed on the back of your ARC. The renewal fee is ₩60,000.
 
 ## Transitioning to F-5 (Permanent Residency)
 
 The ultimate goal for many is the F-5 Permanent Residency. F-6 holders can apply for F-5-2 after:
 *   Living in Korea for 2 years as an F-6 holder.
 *   Passing the KIIP (Korea Immigration and Integration Program) Level 5.
-*   Showing an income equal to the GNI per capita (approx. 44-45 million KRW).
+*   Showing an income equal to the GNI per capita (approx. 44-₩45 million).
 
 <ExpertTip 
   author="Mark Thompson"

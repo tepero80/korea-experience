@@ -178,9 +178,9 @@ Your choice of accommodation significantly impacts your solo female travel exper
 
 | Accommodation Type | Safety Features                      | Social Opportunity | Privacy Level | Cost (per night approx.) | Best For                                    |
 | :----------------- | :----------------------------------- | :----------------- | :------------ | :----------------------- | :------------------------------------------ |
-| **Hotels**         | 24/7 reception, secure access, in-room safe | Low                | High          | 70,000 - 300,000 KRW+    | Comfort, privacy, no-fuss experience        |
-| **Guesthouses / Hostels** | Keycard access, lockers, female-only dorms | High               | Medium        | 20,000 - 50,000 KRW      | Budget, meeting other travelers, social vibe |
-| **Serviced Apartments / Airbnbs** | Depends on host/building, review heavily | Low                | High          | 50,000 - 150,000 KRW     | Longer stays, home-like feel, cooking       |
+| **Hotels**         | 24/7 reception, secure access, in-room safe | Low                | High          | ₩70,000 - ₩300,000+    | Comfort, privacy, no-fuss experience        |
+| **Guesthouses / Hostels** | Keycard access, lockers, female-only dorms | High               | Medium        | ₩20,000 - ₩50,000      | Budget, meeting other travelers, social vibe |
+| **Serviced Apartments / Airbnbs** | Depends on host/building, review heavily | Low                | High          | ₩50,000 - ₩150,000     | Longer stays, home-like feel, cooking       |
 
 ## Handling Emergencies and Staying Connected
 

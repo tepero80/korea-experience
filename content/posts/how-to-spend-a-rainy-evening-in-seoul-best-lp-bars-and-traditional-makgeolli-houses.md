@@ -6,6 +6,15 @@ category: K-Culture
 author: Korea Experience Team
 featured: true
 featuredOrder: 3
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "19 min read"
 ---
 
 Seoul, a city that never truly sleeps, takes on a different, more introspective charm when the rain begins to fall. The bustling streets quiet down, the neon lights reflect in puddles, and a sense of coziness descends upon its vibrant neighborhoods. For the international traveler or expat, a rainy evening isn't a signal to retreat indoors and stay bored; it's an invitation to explore Seoul's unique indoor havens, offering warmth, culture, and unforgettable experiences. This guide from KoreaExperience delves into two quintessential Korean experiences perfect for such an occasion: the nostalgic embrace of an LP bar and the comforting tradition of a makgeolli house. Prepare to immerse yourself in the city's soulful rhythm, one record spin and one hearty bowl of rice wine at a time.

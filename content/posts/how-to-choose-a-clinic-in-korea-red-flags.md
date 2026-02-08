@@ -4,6 +4,16 @@ date: 2026-01-11
 excerpt: "Essential guide to avoiding ghost doctors, broker scams, and unsafe clinics in Korea. Learn the 10 red flags before booking surgery. Data updated for 2026."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Botox"
+  - "Fillers"
+readTime: "15 min read"
+featured: false
 ---
 
 Identifying red flags when choosing a clinic in Korea requires a keen eye for specific warning signs: lack of CCTV in operating rooms, refusal to provide a detailed breakdown of costs (VAT refunds), consultants preventing you from speaking directly with the doctor for more than five minutes, and signage that fails to distinguish between board-certified specialists and general practitioners. While South Korea offers world-class medical care, the density of clinics—particularly in Gangnam, where over 500 clinics operate within a 2-kilometer radius—means that profit-driven entities exist alongside reputable institutions. The most critical red flag in 2026 remains the "shadow doctor" (ghost surgery) risk, where a different doctor performs the surgery than the one you consulted with.
@@ -38,7 +48,7 @@ Legitimate clinics in 2026 will openly advertise their "CCTV Safe Zone" status. 
   variant="gradient"
   stats={[
     { value: "98%", label: "Clinics with CCTV", icon: "📹" },
-    { value: "50M", label: "Max Fine (KRW)", icon: "⚖️" }
+    { value: "50M", label: "Max Fine (₩)", icon: "⚖️" }
   ]}
   source="Ministry of Health and Welfare 2025"
 />
@@ -52,7 +62,7 @@ Another massive red flag is the lack of transparent pricing. While it is standar
 Furthermore, illegal "foreigner pricing" is a rampant issue. While slight premiums for interpretation services are normal, a markup of 2-3 times the local price is predatory.
 
 ### Understanding the Tax Refund (VAT)
-Legitimate clinics registered to treat foreign patients are part of the Tax Refund system. Foreign tourists are eligible for a refund of the 10% Value Added Tax (VAT) on cosmetic procedures totaling more than 30,000 KRW (approx. $23 USD).
+Legitimate clinics registered to treat foreign patients are part of the Tax Refund system. Foreign tourists are eligible for a refund of the 10% Value Added Tax (VAT) on cosmetic procedures totaling more than ₩30,000 (approx. $23 USD).
 
 A major red flag is a clinic that says, "If you pay cash, we will give you a discount, but no receipt." This usually means they are under-reporting income to the National Tax Service and are likely not insuring your procedure properly. Without a receipt, you have zero legal standing if something goes wrong.
 
@@ -109,7 +119,7 @@ For more insights on how to prepare for this meeting, read our article on [booki
 
 ## 5. Illegal Brokers and Commission Traps
 
-The medical tourism industry in Korea is supported by registered agencies, but it is also plagued by illegal brokers. A registered medical tourism facilitator is licensed by the government and carries insurance (guarantee insurance of over 100 million KRW).
+The medical tourism industry in Korea is supported by registered agencies, but it is also plagued by illegal brokers. A registered medical tourism facilitator is licensed by the government and carries insurance (guarantee insurance of over ₩100 million).
 
 **Red Flag:** A broker who meets you at a subway station, communicates only via WeChat/WhatsApp/KakaoTalk without a business website, or asks you to pay them directly rather than paying the clinic.
 

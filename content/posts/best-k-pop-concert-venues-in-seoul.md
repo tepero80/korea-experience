@@ -4,6 +4,16 @@ date: 2026-01-03
 excerpt: "Discover the top K Pop concert venues in Seoul. From Gocheok Dome to KSPO, get essential tips, seating charts, and transport info for the perfect show."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Budget Travel"
+  - "Coffee"
+readTime: "12 min read"
+featured: false
 ---
 
 Experiencing a K-Pop concert in Seoul is a pilgrimage for fans worldwide. It is not merely a musical performance; it is a meticulously choreographed spectacle of light, sound, and fan synchronization that is unlike anything else in the global music industry. However, navigating the logistics of Seoul's concert infrastructure can be daunting for first-time visitors. From the cavernous echoes of Gocheok Sky Dome to the intimate acoustics of university halls, knowing your venue is half the battle in securing the perfect concert experience.
@@ -189,7 +199,7 @@ Security at Korean venues is strict. Professional cameras (DSLRs with detachable
 
 ### Lockers and Storage
 Every major venue has lockers, but they are limited.
-*   **KSPO Dome:** Has approx. **500 lockers** outside. They cost **2,000 - 4,000 KRW** (cash only mostly, though some accept cards now).
+*   **KSPO Dome:** Has approx. **500 lockers** outside. They cost **2,000 - ₩4,000** (cash only mostly, though some accept cards now).
 *   **Subway Stations:** If venue lockers are full, use the lockers at the subway station. The T-Locker app allows you to reserve subway lockers in advance, which is a lifesaver.
 
 <Timeline
@@ -208,7 +218,7 @@ Every major venue has lockers, but they are limited.
 Attending a concert is physically draining. The "Post-Concert Depression" (PCD) is real, but so is the physical exhaustion.
 
 *   **Accommodation:** If you are attending consecutive days (Saturday and Sunday), stay near the venue. For KSPO Dome, look for hotels in **Jamsil**. For Gocheok, stay in **Yeongdeungpo** or **Sindorim**.
-*   **Weather:** In winter, venues are heated, but waiting outside for 3 hours for merchandise is freezing. Heat packs (Hot packs) are sold at every convenience store (CU, GS25) for **1,000 KRW**. Buy three: one for each pocket and one to hold.
+*   **Weather:** In winter, venues are heated, but waiting outside for 3 hours for merchandise is freezing. Heat packs (Hot packs) are sold at every convenience store (CU, GS25) for **₩1,000**. Buy three: one for each pocket and one to hold.
 
 <ExpertTip 
   author="Minji Choi"

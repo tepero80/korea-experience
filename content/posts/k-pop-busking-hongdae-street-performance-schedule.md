@@ -4,6 +4,16 @@ date: 2026-01-22
 excerpt: "The ultimate guide to the K Pop busking Hongdae street performance schedule, best viewing spots on Red Road, and insider tips for Seoul nightlife."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Banking"
+readTime: "12 min read"
+featured: false
 ---
 
 The energy in Hongdae is palpable the moment you step out of the subway station. It is a vibrating mix of bass-heavy beats, cheering crowds, and the electric anticipation of seeing the next big K-Pop star before they debut. For international travelers and K-Culture enthusiasts, the Hongdae busking zone isn't just a street; it is the beating heart of Seoul's youth culture and the unofficial training ground for the country's immense entertainment industry.
@@ -16,7 +26,7 @@ Related reading: [Best K-Pop concert venues in Seoul ultimate guide](/blog/best-
   points={[
     "Peak performances run daily from 5:00 PM to 10:00 PM, with weekends being the busiest.",
     "The main busking zone is now officially designated as 'Red Road' along Eoulmadang-ro.",
-    "Performances are free, but bringing 1,000-5,000 KRW cash for tips or following social accounts is encouraged."
+    "Performances are free, but bringing 1,000-₩5,000 cash for tips or following social accounts is encouraged."
   ]}
   readTime={12}
   lastUpdated="2026-02-06"
@@ -165,7 +175,7 @@ Often found in the quieter zones or later at night (after 9:00 PM). They cover K
 
 While the performances are free, a night in Hongdae involves other costs. The area is a consumer paradise, and you will likely spend money on food and drinks while watching.
 
-The "tipping" culture for busking in Korea is unique. You rarely see open guitar cases for cash. Instead, performers display placards with QR codes for KakaoPay or bank transfers. However, international travelers are not expected to tip digitally. If you really want to support them, a small cash bill (1,000 to 5,000 KRW) handed to a staff member (usually filming or managing the music) is acceptable.
+The "tipping" culture for busking in Korea is unique. You rarely see open guitar cases for cash. Instead, performers display placards with QR codes for KakaoPay or bank transfers. However, international travelers are not expected to tip digitally. If you really want to support them, a small cash bill (1,000 to ₩5,000) handed to a staff member (usually filming or managing the music) is acceptable.
 
 <PriceTable
   title="Hongdae Night Out Costs"
@@ -178,8 +188,8 @@ The "tipping" culture for busking in Korea is unique. You rarely see open guitar
 
 ### Nearby Refreshments
 You cannot drink alcohol openly in the designated busking circles during performances (it is frowned upon and technically regulated), but you can grab snacks.
-*   **Street Food:** A skewer of *Dak-kkochi* (chicken skewer) costs roughly 4,000 - 5,000 KRW.
-*   **Cafes:** An Iced Americano at a nearby mega-chain like Mega Coffee is about 2,000 KRW, while aesthetic cafes charge 6,000+ KRW.
+*   **Street Food:** A skewer of *Dak-kkochi* (chicken skewer) costs roughly 4,000 - ₩5,000.
+*   **Cafes:** An Iced Americano at a nearby mega-chain like Mega Coffee is about ₩2,000, while aesthetic cafes charge ₩6,000.
 
 ## Busking Etiquette and Rules
 
@@ -203,10 +213,10 @@ The busking typically wraps up by 10:00 PM due to noise ordinances enforced by M
 
 ### Late Night Options
 *   **Coin Noraebang (Karaoke):** Hongdae has the highest concentration of Coin Noraebangs in Seoul.
-    *   *Cost:* 1,000 KRW for 2-3 songs.
+    *   *Cost:* ₩1,000 for 2-3 songs.
     *   *Location:* Look for signs saying "코노" (Ko-No).
 *   **Photo Booths:** A massive trend in 2025-2026. Shops like "Photoism" or "Life4Cuts" are on every corner.
-    *   *Cost:* 4,000 - 5,000 KRW per sheet.
+    *   *Cost:* 4,000 - ₩5,000 per sheet.
     *   *Time:* Open 24 hours usually.
 
 <InfoBox type="warning" title="Transportation Warning">

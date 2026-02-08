@@ -4,6 +4,16 @@ date: 2026-01-10
 excerpt: "Complete guide to K-Pop auditions in 2026. Learn about global castings, the Big 4 agencies, and essential tips for international applicants."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Budget Travel"
+  - "Concert"
+readTime: "12 min read"
+featured: false
 ---
 
 The landscape of K-Pop recruitment has shifted dramatically as we enter 2026. With the industry's explosive global expansion, the "Big 4" agencies—HYBE, SM, JYP, and YG—along with rising mid-tier companies, have streamlined their processes to scout international talent more aggressively than ever before. For aspiring idols living outside of South Korea, the dream is no longer just a fantasy; it is a structured, competitive career path that requires strategic planning, financial preparation, and immense dedication.
@@ -148,7 +158,7 @@ When you enter the audition room, you are usually in a group of 10. You will hav
 
 If you aren't ready for a direct agency audition, enrolling in a K-Pop training academy is a viable strategy. These academies often hold private auditions for agencies exclusively for their students.
 
-Prices for these comprehensive programs have risen. A one-month intensive course including accommodation, vocal lessons, and dance training now averages around 3,500,000 KRW ($2,600 USD). This usually includes 10-15 dance classes per week and 2 private vocal sessions.
+Prices for these comprehensive programs have risen. A one-month intensive course including accommodation, vocal lessons, and dance training now averages around ₩3,500,000 ($2,600 USD). This usually includes 10-15 dance classes per week and 2 private vocal sessions.
 
 <PriceTable
   title="Audition Trip Budget (2 Weeks)"
@@ -184,7 +194,7 @@ If you pass the audition (a process that can take 3-4 rounds over 2 months), you
 
 *   **Average Training Period:** 3 to 5 years.
 *   **Weekly Practice:** 60 to 80 hours.
-*   **Debt:** While major agencies like HYBE, SM, and JYP have largely abolished "trainee debt" (charging trainees for lessons/housing upon debut), many mid-tier agencies still utilize this system. Investment per trainee can exceed 100,000,000 KRW ($75,000) per year.
+*   **Debt:** While major agencies like HYBE, SM, and JYP have largely abolished "trainee debt" (charging trainees for lessons/housing upon debut), many mid-tier agencies still utilize this system. Investment per trainee can exceed ₩100,000,000 ($75,000) per year.
 
 <StatCard
   title="The Funnel"

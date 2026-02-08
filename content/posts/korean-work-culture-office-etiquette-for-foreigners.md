@@ -4,6 +4,16 @@ date: 2026-01-21
 excerpt: "Master the nuances of Korean work culture with our comprehensive guide on office etiquette, hierarchy, and business customs for international professionals."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Autumn"
+  - "Banking"
+readTime: "15 min read"
+featured: false
 ---
 
 Navigating the professional landscape in South Korea can feel like learning a complex dance where every step, bow, and silence holds significant meaning. For international professionals, expats, and business travelers, understanding Korean work culture is just as vital as your technical skills. While the "Hallyu" wave has popularized Korean music and food, the corporate environment remains deeply rooted in Neo-Confucian values, prioritizing hierarchy, harmony, and the collective group over the individual.
@@ -100,8 +110,8 @@ The official hours might be 9:00 AM to 6:00 PM, but leaving exactly at 6:00 PM i
 
 ### The Reality of Commuting
 Seoul has one of the longest average commutes in the OECD. The average one-way commute in the Greater Seoul Metropolitan Area is approximately 50 to 60 minutes.
-*   **Subway Cost:** Basic fare starts at roughly $1.10 (1,400 KRW).
-*   **Taxi Cost:** Basic fare is around $3.60 (4,800 KRW), but traffic can triple the travel time during rush hour (8:00 AM and 6:30 PM).
+*   **Subway Cost:** Basic fare starts at roughly $1.10 (₩1,400).
+*   **Taxi Cost:** Basic fare is around $3.60 (₩4,800), but traffic can triple the travel time during rush hour (8:00 AM and 6:30 PM).
 
 <Timeline
   title="Typical Daily Schedule"
@@ -260,7 +270,7 @@ Navigating this environment requires patience. You will make mistakes, but Korea
 1.  **Learn the Alphabet:** Learning *Hangul* takes about 3 hours. Being able to read names and menu items instantly elevates your status.
 2.  **Be Punctual:** In Korea, "on time" is late. Arrive 10 minutes early.
 3.  **Communal Cleaning:** In smaller offices, it is common for staff to spend 10 minutes cleaning their area or the common space before work starts. Do not sit and watch; grab a rag.
-4.  **Lunch is Sacred:** Do not eat a sandwich at your desk alone. Join your team. It is the primary time for bonding without alcohol. Lunch usually costs between $7 and $12 (10,000 - 15,000 KRW).
+4.  **Lunch is Sacred:** Do not eat a sandwich at your desk alone. Join your team. It is the primary time for bonding without alcohol. Lunch usually costs between $7 and $12 (10,000 - ₩15,000).
 
 <ExpertTip 
   author="James Park"

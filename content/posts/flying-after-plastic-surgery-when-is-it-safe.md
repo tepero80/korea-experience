@@ -4,6 +4,16 @@ date: 2026-01-08
 excerpt: "Understand the crucial safety timeline for flying after plastic surgery in Korea. Learn about risks, recovery, and essential tips for a smooth return journey."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Botox"
+  - "Budget Travel"
+readTime: "19 min read"
+featured: false
 ---
 
 ## Flying After Plastic Surgery: When Is It Safe? Your Essential Guide for Medical Tourists in Korea

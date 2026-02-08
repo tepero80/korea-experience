@@ -59,11 +59,11 @@ Finding suitable accommodation is often one of the biggest challenges for travel
 
 ### Luxury Pet-Friendly Hotels
 
-For those seeking an indulgent stay, several high-end hotel chains in major cities like Seoul and Busan now offer pet-friendly rooms and services. These often come with dedicated amenities such as pet beds, bowls, and even gourmet pet menus. Chains like Four Seasons Hotel Seoul and some branches of the Grand Hyatt or L7 Hotels in upscale districts like Gangnam or Myeongdong have specific pet programs. These hotels typically have designated floors or rooms for guests with pets to minimize disturbance to other guests. Expect to pay a non-refundable pet fee, which can range from approximately 50,000 KRW to 150,000 KRW per stay or per night, depending on the hotel and the size of your pet. Advanced booking and direct communication with the hotel about their specific pet policy are crucial.
+For those seeking an indulgent stay, several high-end hotel chains in major cities like Seoul and Busan now offer pet-friendly rooms and services. These often come with dedicated amenities such as pet beds, bowls, and even gourmet pet menus. Chains like Four Seasons Hotel Seoul and some branches of the Grand Hyatt or L7 Hotels in upscale districts like Gangnam or Myeongdong have specific pet programs. These hotels typically have designated floors or rooms for guests with pets to minimize disturbance to other guests. Expect to pay a non-refundable pet fee, which can range from approximately ₩50,000 to ₩150,000 per stay or per night, depending on the hotel and the size of your pet. Advanced booking and direct communication with the hotel about their specific pet policy are crucial.
 
 ### Boutique and Mid-Range Options
 
-Beyond the luxury segment, a rising number of boutique hotels and mid-range options are opening their doors to pets. These might not offer the same extensive services as their luxury counterparts but provide comfortable and clean accommodations. Many are found in trendy neighborhoods like Hongdae or Itaewon in Seoul, or Haeundae in Busan, offering convenient access to local attractions and pet-friendly cafes. Pet policies at these establishments can vary widely, with some welcoming small pets free of charge, while others impose a modest daily or one-time fee, typically between 20,000 KRW and 70,000 KRW. Always confirm weight limits, the number of pets allowed, and any specific rules before booking.
+Beyond the luxury segment, a rising number of boutique hotels and mid-range options are opening their doors to pets. These might not offer the same extensive services as their luxury counterparts but provide comfortable and clean accommodations. Many are found in trendy neighborhoods like Hongdae or Itaewon in Seoul, or Haeundae in Busan, offering convenient access to local attractions and pet-friendly cafes. Pet policies at these establishments can vary widely, with some welcoming small pets free of charge, while others impose a modest daily or one-time fee, typically between ₩20,000 and ₩70,000. Always confirm weight limits, the number of pets allowed, and any specific rules before booking.
 
 ### Pet Guesthouses and Vacation Rentals
 
@@ -168,7 +168,7 @@ For greater convenience and flexibility, taxis and ride-sharing services are oft
 ### Rental Cars with Pet Policies
 
 Renting a car offers the most freedom for exploring Korea with your pet, especially for trips outside major cities.
-*   **Major Car Rental Companies:** International brands like Hertz or Avis, and local companies like Lotte Rent-a-Car or SK Rent-a-Car, sometimes have specific pet policies. These usually involve a cleaning fee (approximately 20,000 KRW to 50,000 KRW) and a requirement for pets to be crated or contained to prevent damage and excessive pet hair.
+*   **Major Car Rental Companies:** International brands like Hertz or Avis, and local companies like Lotte Rent-a-Car or SK Rent-a-Car, sometimes have specific pet policies. These usually involve a cleaning fee (approximately ₩20,000 to ₩50,000) and a requirement for pets to be crated or contained to prevent damage and excessive pet hair.
 *   **Booking in Advance:** Always inform the rental company about your pet when making a reservation to ensure you select a pet-friendly vehicle and understand their specific terms.
 *   **Preparation:** Bring your pet's bed or a blanket to protect the car seats, and ensure your pet is calm during the ride.
 
@@ -183,7 +183,7 @@ If you plan to travel between mainland Korea and Jeju Island, or other domestic 
 
 ### Table 2: Pet Transportation Options Comparison in Korea
 
-| Transportation Method      | Pet Type/Size (General)      | Pros                                         | Cons                                                                                                        | Estimated Cost (Approx. in KRW)   |
+| Transportation Method      | Pet Type/Size (General)      | Pros                                         | Cons                                                                                                        | Estimated Cost (Approx. in ₩)   |
 | :------------------------- | :--------------------------- | :------------------------------------------- | :---------------------------------------------------------------------------------------------------------- | :-------------------------------- |
 | **Subway/Bus (Public)**    | Small, in fully enclosed carrier | Cheapest, widespread routes                  | Very restrictive, no large pets, potential for refusal, stress for pet                                       | 1,250 - 2,000 (human fare only)   |
 | **Standard Taxi**          | Small/Medium (in carrier)    | Convenient, direct                             | Driver discretion, not guaranteed, can be refused for larger pets or without carrier                        | 5,000 - 50,000+                     |
@@ -256,13 +256,13 @@ The cost can vary significantly. Key expenses include:
 *   **Veterinary fees:** For health checks, vaccinations, microchipping, and rabies antibody tests (hundreds to over a thousand USD, depending on location and services).
 *   **Government endorsement fees:** For health certificates (e.g., USDA endorsement fees, around 50-150 USD).
 *   **Airline cargo fees:** Can range from a few hundred to several thousand USD depending on pet size, airline, and flight distance.
-*   **Quarantine fees:** If applicable, can be 10,000-30,000 KRW per day.
+*   **Quarantine fees:** If applicable, can be ₩10,000 - ₩30,000 per day.
 *   **Pet relocation services:** If you use one, expect to pay several thousand USD.
 
 Overall, budget anywhere from 1,000 USD to 5,000 USD or more for the entire import process.
 
 ### 4. Are there pet sitters or daycares available in Korea?
-Yes, pet sitting and daycare services are increasingly available, especially in major cities like Seoul, Busan, and Daegu. Many vet clinics offer boarding services, and there are dedicated pet hotels and daycares. Online platforms and expat communities are excellent resources for finding reputable pet sitters or services that cater to international clients. Prices vary based on location, service, and pet size/needs, ranging from 20,000-50,000 KRW per day for daycare and 30,000-80,000 KRW per night for boarding.
+Yes, pet sitting and daycare services are increasingly available, especially in major cities like Seoul, Busan, and Daegu. Many vet clinics offer boarding services, and there are dedicated pet hotels and daycares. Online platforms and expat communities are excellent resources for finding reputable pet sitters or services that cater to international clients. Prices vary based on location, service, and pet size/needs, ranging from ₩20,000 - ₩50,000 per day for daycare and ₩30,000 - ₩80,000 per night for boarding.
 
 ### 5. What are the most pet-friendly cities in Korea?
 Seoul is by far the most pet-friendly city, offering the widest range of pet-friendly cafes, parks (like Seoul Forest's dog park), hotels, and specialized services (pet taxis, vets). Busan also has a growing number of pet-friendly amenities, particularly around its beach areas and trendy districts. Jeju Island is becoming increasingly popular for pet owners seeking nature and tranquility, with many unique pet-friendly guesthouses and trails. Smaller cities are catching up but may have fewer dedicated facilities.

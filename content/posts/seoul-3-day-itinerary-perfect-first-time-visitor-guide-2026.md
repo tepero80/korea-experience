@@ -37,12 +37,12 @@ Seoul boasts one of the world's most efficient public transportation systems.
 *   **Buses:** Extensive network, great for shorter distances or specific routes not covered by the subway.
 *   **Taxis:** Readily available and reasonably priced, especially for groups or late-night travel.
 
-**Must-have:** Purchase a T-money card upon arrival (at subway stations or convenience stores). Load it with funds for seamless tap-and-go travel on subways, buses, and even some taxis. Expect to spend around 5,000 KRW (approx. 4 USD) for the card itself, then load 20,000-30,000 KRW for a 3-day trip.
+**Must-have:** Purchase a T-money card upon arrival (at subway stations or convenience stores). Load it with funds for seamless tap-and-go travel on subways, buses, and even some taxis. Expect to spend around ₩5,000 (approx. 4 USD) for the card itself, then load ₩20,000 - ₩30,000 for a 3-day trip.
 
 ### Connectivity: Staying Online
 
 Don't underestimate the importance of staying connected.
-*   **Pocket Wi-Fi / SIM Card:** Rent a pocket Wi-Fi device at Incheon International Airport (ICN) or purchase a local SIM card. This is essential for using navigation apps like Naver Maps or KakaoMap (Google Maps is limited in Korea), translation apps, and staying in touch. A 3-day unlimited data SIM card usually costs around 10,000-15,000 KRW (approx. 8-12 USD).
+*   **Pocket Wi-Fi / SIM Card:** Rent a pocket Wi-Fi device at Incheon International Airport (ICN) or purchase a local SIM card. This is essential for using navigation apps like Naver Maps or KakaoMap (Google Maps is limited in Korea), translation apps, and staying in touch. A 3-day unlimited data SIM card usually costs around ₩10,000 - ₩15,000 (approx. 8-12 USD).
 
 ## Day 1: Royal Heritage and Urban Charms
 
@@ -52,7 +52,7 @@ Your first day focuses on Seoul's rich history and iconic cultural landmarks, pe
 
 Start your day at **Gyeongbokgung Palace**, the largest and most magnificent of Seoul's Five Grand Palaces. Built in 1395, it served as the main royal palace of the Joseon Dynasty.
 *   **What to See:** Explore the Geunjeongjeon (Throne Hall), Gyeonghoeru (Royal Banquet Hall), and Hyangwonjeong (pond with a pavilion). Don't miss the **Royal Guard Changing Ceremony**, held daily (except Tuesdays) at 10:00 AM and 2:00 PM at the main Gwanghwamun Gate.
-*   **Hanbok Experience:** Enhance your visit by renting a traditional Korean Hanbok (traditional attire). Wearing a Hanbok grants you free entry to Gyeongbokgung Palace and other palaces. Rental shops are abundant around the palace entrance, with prices ranging from 15,000-30,000 KRW (approx. 12-25 USD) for a 2-4 hour rental.
+*   **Hanbok Experience:** Enhance your visit by renting a traditional Korean Hanbok (traditional attire). Wearing a Hanbok grants you free entry to Gyeongbokgung Palace and other palaces. Rental shops are abundant around the palace entrance, with prices ranging from ₩15,000 - ₩30,000 (approx. 12-25 USD) for a 2-4 hour rental.
 
 ### Lunch: Traditional Flavors in Samcheongdong
 
@@ -82,7 +82,7 @@ Day two balances deep dives into Korean culture with a taste of Seoul's modern, 
 Start with a spiritual and culinary experience.
 *   **Jogyesa Temple:** Located in the heart of the city, Jogyesa is the chief temple of the Jogye Order of Korean Buddhism. It's a peaceful oasis adorned with colorful lanterns and ancient trees, a stark contrast to the surrounding urban landscape. Witness monks in traditional robes and observe the tranquil rituals. Entry is free.
 *   **Gwangjang Market:** One of Korea's oldest and largest traditional markets. This bustling market is a must-visit for foodies. Dive into a sensory overload of sights, sounds, and smells.
-    *   **Must-Try Foods:** Bindae-tteok (mung bean pancakes), Mayak Gimbap (addictive mini seaweed rice rolls), Tteokbokki (spicy rice cakes), Sundae (blood sausage), and a variety of fresh Kimchi. Pull up a stool at one of the many food stalls and enjoy an authentic Korean street food experience. Expect to spend 5,000-15,000 KRW (approx. 4-12 USD) per dish.
+    *   **Must-Try Foods:** Bindae-tteok (mung bean pancakes), Mayak Gimbap (addictive mini seaweed rice rolls), Tteokbokki (spicy rice cakes), Sundae (blood sausage), and a variety of fresh Kimchi. Pull up a stool at one of the many food stalls and enjoy an authentic Korean street food experience. Expect to spend ₩5,000 - ₩15,000 (approx. 4-12 USD) per dish.
 
 ### Lunch: Exploring Local Delicacies at Gwangjang
 
@@ -121,7 +121,7 @@ Gangnam offers a plethora of dining options, from chic cafes to high-end restaur
 
 Experience Seoul from its highest point.
 *   **Lotte World Tower:** South Korea's tallest building and the 5th tallest in the world. Ascend to the Seoul Sky observation deck on the 117th-123rd floors. The views are absolutely spectacular, offering a bird's-eye perspective of the entire city.
-*   **Sky Bridge (Optional but Recommended):** For the truly adventurous, participate in the Sky Bridge tour, where you can walk on a bridge connecting the two spires of the tower, over 500 meters above ground! (Pre-booking required, separate fee applies, approximately 120,000 KRW or 95 USD).
+*   **Sky Bridge (Optional but Recommended):** For the truly adventurous, participate in the Sky Bridge tour, where you can walk on a bridge connecting the two spires of the tower, over 500 meters above ground! (Pre-booking required, separate fee applies, approximately ₩120,000 or 95 USD).
 *   **Lotte World Mall:** Below the tower, you'll find the extensive Lotte World Mall, offering a vast array of shopping, dining, and entertainment options.
 
 ### Evening: Farewell Dinner and Reflective Stroll
@@ -136,7 +136,7 @@ For your last evening, choose a dining experience that suits your mood.
 Beyond the itinerary, these practical tips will make your **Seoul 3-day trip** even smoother.
 
 *   **Language Barrier:** While many young people and those in tourist areas speak some English, it's not universally spoken. Learning a few basic Korean phrases (hello: Annyeonghaseyo, thank you: Gamsahamnida, excuse me: Jeogiyo) can be incredibly helpful and appreciated.
-*   **Cash vs. Card:** South Korea is very card-friendly; credit cards are accepted almost everywhere. However, it's good to carry some cash (Korean Won, KRW) for smaller street vendors or specific market stalls.
+*   **Cash vs. Card:** South Korea is very card-friendly; credit cards are accepted almost everywhere. However, it's good to carry some cash (Korean Won, ₩) for smaller street vendors or specific market stalls.
 *   **Internet Access:** As mentioned, secure a SIM card or pocket Wi-Fi. Free Wi-Fi is widely available in cafes and public spaces, but having your own data is best for navigation.
 *   **Walking Shoes:** You'll be doing a lot of walking! Comfortable shoes are essential.
 *   **Emergency Numbers:** Dial 119 for emergencies (fire, ambulance), 112 for police. For tourist inquiries, dial 1330.
@@ -164,12 +164,12 @@ Understanding the potential costs is vital for planning your **Seoul 3-day itine
 
 ### Estimated Costs for Key Attractions & Activities (2026)
 
-| Attraction/Activity        | Estimated Cost (KRW) | Estimated Cost (USD) | Notes                                      |
+| Attraction/Activity        | Estimated Cost (₩) | Estimated Cost (USD) | Notes                                      |
 | :------------------------- | :------------------- | :------------------- | :----------------------------------------- |
 | Gyeongbokgung Palace       | 3,000                | 2.50                 | Free with Hanbok rental                   |
 | Hanbok Rental (2-4 hours)  | 15,000-30,000        | 12-25                | Varies by quality/shop                    |
 | Namsan Seoul Tower (Observatory) | 16,000             | 13                   | Cable car extra                           |
-| Lotte World Tower (Seoul Sky) | 29,000             | 24                   | Sky Bridge is extra (120,000 KRW)         |
+| Lotte World Tower (Seoul Sky) | 29,000             | 24                   | Sky Bridge is extra (₩120,000)         |
 | T-money Card (initial)     | 5,000                | 4                    | Recharge as needed                        |
 | Street Food Dish           | 3,000-10,000         | 2.50-8               | Per item (e.g., Tteokbokki, Gimbap)       |
 | Subway Fare (single trip)  | 1,250-1,500          | 1-1.25               | Based on distance                         |

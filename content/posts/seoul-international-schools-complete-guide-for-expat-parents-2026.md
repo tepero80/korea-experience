@@ -52,7 +52,7 @@ Here, we delve into some of the most prominent international schools in Seoul, h
 *   **Curriculum:** British (Key Stages 1-5, IGCSE, A-Levels) and American (AP, High School Diploma). IB Diploma Program (DP) in High School.
 *   **Grades:** Pre-Kindergarten to Grade 12
 *   **Highlights:** Established in 1912, SFS is the oldest international school in Korea. It boasts a beautiful, sprawling campus with excellent facilities, strong academic programs, and a diverse student body representing over 50 nationalities. Known for its comprehensive arts and athletics programs.
-*   **Estimated Annual Tuition (2026):** Range from approximately 25,000,000 KRW to 39,000,000 KRW, depending on grade level, plus additional fees.
+*   **Estimated Annual Tuition (2026):** Range from approximately ₩25,000,000 to ₩39,000,000, depending on grade level, plus additional fees.
 
 #### Seoul International School (SIS)
 
@@ -60,7 +60,7 @@ Here, we delve into some of the most prominent international schools in Seoul, h
 *   **Curriculum:** American, with AP courses, leading to an American high school diploma.
 *   **Grades:** Pre-Kindergarten to Grade 12
 *   **Highlights:** Founded in 1973, SIS is known for its strong college preparatory program, with a high percentage of graduates matriculating to top universities worldwide. It has a modern campus and a strong emphasis on academic achievement and extracurricular involvement.
-*   **Estimated Annual Tuition (2026):** Range from approximately 23,000,000 KRW to 36,000,000 KRW, plus additional fees.
+*   **Estimated Annual Tuition (2026):** Range from approximately ₩23,000,000 to ₩36,000,000, plus additional fees.
 
 #### Yongsan International School of Seoul (YISS)
 
@@ -68,7 +68,7 @@ Here, we delve into some of the most prominent international schools in Seoul, h
 *   **Curriculum:** American, offering AP courses.
 *   **Grades:** Kindergarten to Grade 12
 *   **Highlights:** YISS is a Christian-based school with a strong community feel. It emphasizes academic excellence, spiritual development, and service learning. The campus is well-equipped with modern facilities, and its central location in Yongsan is highly convenient for many expat families.
-*   **Estimated Annual Tuition (2026):** Range from approximately 21,000,000 KRW to 35,000,000 KRW, plus additional fees.
+*   **Estimated Annual Tuition (2026):** Range from approximately ₩21,000,000 to ₩35,000,000, plus additional fees.
 
 #### Dwight School Seoul
 
@@ -76,7 +76,7 @@ Here, we delve into some of the most prominent international schools in Seoul, h
 *   **Curriculum:** Full International Baccalaureate (IB) continuum (PYP, MYP, DP).
 *   **Grades:** Nursery to Grade 12
 *   **Highlights:** Part of the global Dwight Schools network, Dwight School Seoul offers a personalized learning approach and a commitment to nurturing each student's "spark of genius." It features state-of-the-art facilities and a strong focus on innovation and global citizenship.
-*   **Estimated Annual Tuition (2026):** Range from approximately 28,000,000 KRW to 39,000,000 KRW, plus additional fees.
+*   **Estimated Annual Tuition (2026):** Range from approximately ₩28,000,000 to ₩39,000,000, plus additional fees.
 
 #### Dulwich College Seoul (DCSL)
 
@@ -84,7 +84,7 @@ Here, we delve into some of the most prominent international schools in Seoul, h
 *   **Curriculum:** British, following the English National Curriculum, leading to IGCSE and A-Levels.
 *   **Grades:** Nursery to Year 13 (equivalent to Grade 12)
 *   **Highlights:** Part of the Dulwich College International family, DCSL offers a rigorous British independent school education with a focus on academic achievement, sports, and performing arts. Its modern, purpose-built campus is located in a prime expat residential area.
-*   **Estimated Annual Tuition (2026):** Range from approximately 29,000,000 KRW to 41,000,000 KRW, plus additional fees.
+*   **Estimated Annual Tuition (2026):** Range from approximately ₩29,000,000 to ₩41,000,000, plus additional fees.
 
 #### Chadwick International School
 
@@ -92,13 +92,13 @@ Here, we delve into some of the most prominent international schools in Seoul, h
 *   **Curriculum:** Full International Baccalaureate (IB) continuum (PYP, MYP, DP).
 *   **Grades:** Pre-Kindergarten to Grade 12
 *   **Highlights:** While not in Seoul, Chadwick International is a popular choice for expat families due to its world-class facilities and strong IB program. It offers a unique village school concept within Songdo, emphasizing experiential learning and outdoor education. Many families live in Songdo or commute from western Seoul.
-*   **Estimated Annual Tuition (2026):** Range from approximately 27,000,000 KRW to 39,000,000 KRW, plus additional fees.
+*   **Estimated Annual Tuition (2026):** Range from approximately ₩27,000,000 to ₩39,000,000, plus additional fees.
 
 ---
 
 **Comparison Table 1: Key Features of Top Seoul International Schools (Estimated 2026)**
 
-| School Name                 | Primary Curriculum        | Grades Offered              | General Location                | Est. Annual Tuition Range (KRW) | Notes                                      |
+| School Name                 | Primary Curriculum        | Grades Offered              | General Location                | Est. Annual Tuition Range (₩) | Notes                                      |
 | :-------------------------- | :------------------------ | :-------------------------- | :------------------------------ | :-------------------------------- | :----------------------------------------- |
 | Seoul Foreign School (SFS)  | British, American, IB DP  | PK-G12                      | Seodaemun District              | 25M - 39M                         | Oldest, diverse programs, large campus     |
 | Seoul International School (SIS) | American (AP)             | PK-G12                      | Seongnam (South of Seoul)       | 23M - 36M                         | Strong college prep, modern facilities     |
@@ -165,23 +165,23 @@ Education at Seoul International Schools represents a significant financial inve
 
 A typical breakdown of costs associated with international schools includes:
 
-1.  **Application Fee:** A non-refundable fee paid when submitting the application (e.g., 200,000 - 500,000 KRW).
-2.  **Enrollment/Registration Fee:** A one-time, non-refundable fee paid upon acceptance to secure the student's place (e.g., 1,000,000 - 5,000,000 KRW).
-3.  **Capital Levy/Development Fee:** An annual or one-time fee to contribute to the school's facilities and infrastructure. This can be substantial (e.g., 5,000,000 - 15,000,000 KRW annually, or a one-time fee of 20,000,000+ KRW). Some schools offer a refundable debenture option.
+1.  **Application Fee:** A non-refundable fee paid when submitting the application (e.g., ₩200,000 - ₩500,000).
+2.  **Enrollment/Registration Fee:** A one-time, non-refundable fee paid upon acceptance to secure the student's place (e.g., ₩1,000,000 - ₩5,000,000).
+3.  **Capital Levy/Development Fee:** An annual or one-time fee to contribute to the school's facilities and infrastructure. This can be substantial (e.g., ₩5,000,000 - ₩15,000,000 annually, or a one-time fee of 20,000,000+ ₩). Some schools offer a refundable debenture option.
 4.  **Tuition Fee:** The main annual cost covering academic instruction. This varies significantly by grade level.
-5.  **Bus Fee:** If using school transport, this is an additional annual cost (e.g., 2,000,000 - 4,000,000 KRW).
+5.  **Bus Fee:** If using school transport, this is an additional annual cost (e.g., ₩2,000,000 - ₩4,000,000).
 6.  **Parents' Association Fee (PTA/PTO):** A small annual fee supporting parent-teacher initiatives.
 7.  **Technology Fee:** For access to school technology, software, and sometimes devices.
-8.  **Lunch Program:** Optional, but often convenient (e.g., 1,000,000 - 2,000,000 KRW annually).
+8.  **Lunch Program:** Optional, but often convenient (e.g., ₩1,000,000 - ₩2,000,000 annually).
 
 #### Average Annual Tuition Ranges (2026 Estimates)
 
 As indicated in the school-specific sections, annual tuition fees for international schools in Seoul typically range:
 
-*   **Early Years (Pre-K/Kindergarten):** 20,000,000 - 30,000,000 KRW
-*   **Elementary School (Grade 1-5):** 25,000,000 - 35,000,000 KRW
-*   **Middle School (Grade 6-8):** 30,000,000 - 38,000,000 KRW
-*   **High School (Grade 9-12):** 35,000,000 - 42,000,000 KRW
+*   **Early Years (Pre-K/Kindergarten):** ₩20,000,000 - ₩30,000,000
+*   **Elementary School (Grade 1-5):** ₩25,000,000 - ₩35,000,000
+*   **Middle School (Grade 6-8):** ₩30,000,000 - ₩38,000,000
+*   **High School (Grade 9-12):** ₩35,000,000 - ₩42,000,000
 
 These figures are for tuition only and do not include the other mandatory or optional fees mentioned above.
 
@@ -201,12 +201,12 @@ These figures are for tuition only and do not include the other mandatory or opt
 
 | Fee Type            | SFS (High School) | SIS (High School) | YISS (High School) | DCSL (Year 13) |
 | :------------------ | :---------------- | :---------------- | :----------------- | :------------- |
-| Application Fee     | 400,000 KRW       | 400,000 KRW       | 400,000 KRW        | 400,000 KRW    |
-| Enrollment Fee      | 4,000,000 KRW     | 4,000,000 KRW     | 4,000,000 KRW      | 4,000,000 KRW  |
-| Capital Levy (Annual) | 12,000,000 KRW    | 10,000,000 KRW    | 8,000,000 KRW      | 15,000,000 KRW |
-| Annual Tuition      | 39,000,000 KRW    | 36,000,000 KRW    | 35,000,000 KRW     | 41,000,000 KRW |
-| Est. Bus Fee        | 3,500,000 KRW     | 3,000,000 KRW     | 3,000,000 KRW      | 3,500,000 KRW  |
-| **Total Est. First Year** | **58,900,000 KRW** | **53,400,000 KRW** | **50,400,000 KRW** | **63,900,000 KRW** |
+| Application Fee     | ₩400,000       | ₩400,000       | ₩400,000        | ₩400,000    |
+| Enrollment Fee      | ₩4,000,000     | ₩4,000,000     | ₩4,000,000      | ₩4,000,000  |
+| Capital Levy (Annual) | ₩12,000,000    | ₩10,000,000    | ₩8,000,000      | ₩15,000,000 |
+| Annual Tuition      | ₩39,000,000    | ₩36,000,000    | ₩35,000,000     | ₩41,000,000 |
+| Est. Bus Fee        | ₩3,500,000     | ₩3,000,000     | ₩3,000,000      | ₩3,500,000  |
+| **Total Est. First Year** | **₩58,900,000** | **₩53,400,000** | **₩50,400,000** | **₩63,900,000** |
 
 *Note: These are illustrative estimates for a high school student and do not include all possible fees or variations based on grade level or specific programs. Capital levies can sometimes be a one-time fee or a refundable debenture instead of an annual payment. Always refer to the school's official fee schedule for the most accurate and up-to-date information.*
 

@@ -4,6 +4,16 @@ date: 2026-01-11
 excerpt: "A complete guide to updating your Korean address for ARC holders. Learn the 14-day rule, HiKorea online methods, and offline procedures to avoid fines."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Gangnam"
+readTime: "13 min read"
+featured: false
 ---
 
 Moving to a new apartment in South Korea is an exhilarating experience. Whether you are upgrading from a compact *gosiwon* to a spacious *officetel* in Gangnam or moving into a university dormitory in Sinchon, the change of scenery is refreshing. However, amidst the chaos of packing boxes and hiring moving trucks, there is one critical bureaucratic hurdle that every foreigner must clear: the Notification of Change of Place of Residence.
@@ -19,7 +29,7 @@ You might also enjoy our article about [Kiosk survival guide](/blog/foreign-frie
 <KeyTakeaways 
   points={[
     "You must report your address change within 14 calendar days of moving",
-    "Fines for late reporting start at 100,000 KRW and can reach 1,000,000 KRW",
+    "Fines for late reporting start at ₩100,000 and can reach ₩1,000,000",
     "You can report offline at a Community Center or online via HiKorea"
   ]}
   readTime={12}
@@ -112,7 +122,7 @@ The biggest advantage is the **immediate update**. The officer writes the new ad
 <QuickFacts
   title="Offline Registration Facts"
   facts={[
-    { label: "Cost", value: "Free (0 KRW)", icon: "💰" },
+    { label: "Cost", value: "Free (₩0)", icon: "💰" },
     { label: "Wait Time", value: "10-20 mins", icon: "⏱️" },
     { label: "Instant Proof", value: "Yes", icon: "✅" }
   ]}
@@ -183,7 +193,7 @@ Choosing the right method depends on your schedule and proximity to the deadline
 
 The South Korean government takes residency tracking seriously. The fines for late reporting are strictly enforced and operate on a sliding scale. The longer you wait, the more you pay.
 
-It is important to note that these fines are administrative. While a fine of **100,000 KRW** (approx. $75 USD) might not seem life-ruining, having an immigration violation on your record can negatively impact future visa points (F-2-7 visa) or permanent residency applications.
+It is important to note that these fines are administrative. While a fine of **₩100,000** (approx. $75 USD) might not seem life-ruining, having an immigration violation on your record can negatively impact future visa points (F-2-7 visa) or permanent residency applications.
 
 <PriceTable
   title="Late Reporting Penalty Schedule (2026)"
@@ -253,9 +263,9 @@ Navigating the "Dong-office" is a rite of passage for every expat in Korea. It i
   title="Frequently Asked Questions"
   items={[
     { question: "What if I am out of the country during the move?", answer: "The 14-day rule applies from the date you moved in. However, if you were physically outside Korea when the lease started, the 14-day count usually begins from the date of your re-entry into Korea. You must provide flight tickets as proof." },
-    { question: "Do I need a new ARC card when I move?", answer: "No. You keep the same plastic card. The officer will just write the new address on the back. If the back is full, they will add a white sticker or, in rare cases, ask you to order a reissue (fee: 30,000 KRW)." },
+    { question: "Do I need a new ARC card when I move?", answer: "No. You keep the same plastic card. The officer will just write the new address on the back. If the back is full, they will add a white sticker or, in rare cases, ask you to order a reissue (fee: ₩30,000)." },
     { question: "Can a friend register for me?", answer: "Generally, yes, if they have a Power of Attorney (Wi-im-jang) signed by you, your ARC, and their ID. However, policies vary by local office, so it is safer to go yourself." },
-    { question: "I missed the deadline by 2 days. What should I do?", answer: "Go to the Immigration Office (not the community center) immediately. Community centers often cannot process late applications that require fine payments. You will likely have to pay the minimum fine (100,000 KRW)." },
-    { question: "Does the post office update my address automatically?", answer: "No. Changing your address for immigration does not forward your mail. You must visit the Korea Post website separately for mail forwarding services (costs approx. 7,000 KRW for 3 months)." }
+    { question: "I missed the deadline by 2 days. What should I do?", answer: "Go to the Immigration Office (not the community center) immediately. Community centers often cannot process late applications that require fine payments. You will likely have to pay the minimum fine (₩100,000)." },
+    { question: "Does the post office update my address automatically?", answer: "No. Changing your address for immigration does not forward your mail. You must visit the Korea Post website separately for mail forwarding services (costs approx. ₩7,000 for 3 months)." }
   ]}
 />

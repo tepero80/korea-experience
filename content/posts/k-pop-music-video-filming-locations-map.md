@@ -4,6 +4,16 @@ date: 2026-01-22
 excerpt: "Discover the top K Pop music video filming locations in Korea with our detailed map, transport tips, and budget advice for the ultimate fan pilgrimage."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "10 min read"
+featured: false
 ---
 
 For K-Pop fans worldwide, South Korea is not just a travel destination; it is a pilgrimage site. The phenomenon known locally as "Seongji Sullye" (pilgrimage) involves visiting the exact spots where iconic music videos, album jackets, and variety shows were filmed. From the neon-lit streets of Seoul to the serene beaches of Gangwon-do, the K Pop music video filming locations map covers the entire peninsula.
@@ -47,9 +57,9 @@ Learn more in our comprehensive guide to [K-Drama Filming Locations You Can Actu
   phone="+82-2-436-5800"
   priceRange="$$"
   rating={4.8}
-  transit="15 min taxi from Mangu Station (approx. 6,000 KRW)"
+  transit="15 min taxi from Mangu Station (approx. ₩6,000)"
   highlights={["Merry-Go-Round", "Retro Viking Ship", "TWICE Filming Spot"]}
-  tip="Pay an extra 30,000 KRW to the owner to turn on the merry-go-round lights after dark."
+  tip="Pay an extra ₩30,000 to the owner to turn on the merry-go-round lights after dark."
 />
 
 <ExpertTip 
@@ -61,13 +71,13 @@ Learn more in our comprehensive guide to [K-Drama Filming Locations You Can Actu
   While the official closing time is 6:00 PM, the owner is very friendly to photographers. If you arrive around 4:30 PM in winter, you can capture the "Golden Hour" sunlight and stay a bit later for the light-up experience. It is a favorite trick among local influencers.
 </ExpertTip>
 
-The entrance fee is currently **10,000 KRW (approx. 7.50 USD)** per person. It is situated about **12 kilometers** from central Myeongdong, and a taxi ride will take approximately **40 minutes** depending on traffic, costing around **18,000 KRW (13.50 USD)**.
+The entrance fee is currently **₩10,000 (approx. 7.50 USD)** per person. It is situated about **12 kilometers** from central Myeongdong, and a taxi ride will take approximately **40 minutes** depending on traffic, costing around **₩18,000 (13.50 USD)**.
 
 ### Laundry Pizza: The Colorful Retro Diner
 
 Located in the heart of Gangnam, Laundry Pizza is instantly recognizable by its yellow and orange aesthetic and laundry-themed decor. This spot is a holy grail for fans of 3rd and 4th generation K-Pop. It has hosted shoots for BTS ("Love Yourself: Her" concept photos), IOI ("Very Very Very"), GOT7, and SHINee's Key.
 
-The venue functions as a real pizzeria. A slice of pepperoni pizza costs **6,500 KRW (4.80 USD)**, and a full pie runs about **48,000 KRW (36.00 USD)**. The space is relatively small, approximately **80 square meters**, so it fills up quickly during lunch hours (12:00 PM - 1:30 PM).
+The venue functions as a real pizzeria. A slice of pepperoni pizza costs **₩6,500 (4.80 USD)**, and a full pie runs about **₩48,000 (36.00 USD)**. The space is relatively small, approximately **80 square meters**, so it fills up quickly during lunch hours (12:00 PM - 1:30 PM).
 
 <InfoBox type="tip" title="Photography Etiquette">
   Since Laundry Pizza is an operating restaurant, you must order food before taking photos. Do not disturb other diners. The best wall for photos (the one with the washing machines) is often occupied, so try visiting on a weekday between 3:00 PM and 5:00 PM for an empty shot.
@@ -81,14 +91,14 @@ Venturing just outside of Seoul opens up locations with grander architecture and
 
 Pocheon Art Valley is a former granite quarry transformed into a culture and arts park. The sheer cliffs and the emerald "Cheonjuho" lake create a breathtaking backdrop seen in dramas like *Moon Lovers: Scarlet Heart Ryeo* and various music videos. The sheer scale of the cliffs, reaching **50 meters** in height, creates a dramatic acoustic and visual effect.
 
-Travel time from Seoul is roughly **1 hour 45 minutes** by public transit. You must take a bus from Gangbyeon Station. The admission fee is **5,000 KRW (3.75 USD)** for adults. The monorail round trip costs an additional **4,500 KRW**.
+Travel time from Seoul is roughly **1 hour 45 minutes** by public transit. You must take a bus from Gangbyeon Station. The admission fee is **₩5,000 (3.75 USD)** for adults. The monorail round trip costs an additional **₩4,500**.
 
 <QuickFacts
   title="Pocheon Art Valley Stats"
   facts={[
     { label: "Distance", value: "45km from Seoul", icon: "📍" },
     { label: "Travel Time", value: "1hr 45min", icon: "🚌" },
-    { label: "Entry Fee", value: "5,000 KRW", icon: "🎟️" }
+    { label: "Entry Fee", value: "₩5,000", icon: "🎟️" }
   ]}
   columns={3}
 />
@@ -97,14 +107,14 @@ Travel time from Seoul is roughly **1 hour 45 minutes** by public transit. You m
 
 Located near Incheon International Airport, Paradise City is a luxury resort complex that screams opulence. It was the filming location for BLACKPINK's Rose "On The Ground" and various scenes involving supercars and high fashion. The European-inspired architecture and the massive "Chroma" club building are distinct landmarks.
 
-The complex spans over **330,000 square meters**. While staying at the hotel can cost upwards of **400,000 KRW (300 USD)** per night, walking through the Plaza and the Art Space is free. The shuttle bus from Incheon Airport Terminal 1 takes just **5 minutes** and runs every **20 minutes**.
+The complex spans over **330,000 square meters**. While staying at the hotel can cost upwards of **₩400,000 (300 USD)** per night, walking through the Plaza and the Art Space is free. The shuttle bus from Incheon Airport Terminal 1 takes just **5 minutes** and runs every **20 minutes**.
 
 <ComparisonTable
   title="Filming Location Accessibility"
   headers={["Feature", "Yongma Land", "Laundry Pizza", "Paradise City"]}
   rows={[
     { feature: "Subway Access", option1: false, option2: true, option3: true },
-    { feature: "Entry Cost", option1: "10,000 KRW", option2: "Price of Meal", option3: "Free (Plaza)" },
+    { feature: "Entry Cost", option1: "₩10,000", option2: "Price of Meal", option3: "Free (Plaza)" },
     { feature: "Time from Center", option1: "50 min", option2: "30 min", option3: "60 min" }
   ]}
 />
@@ -122,8 +132,8 @@ Located in Gangneung, the BTS Bus Stop is not a functioning bus station but a ph
   totalTime="2 hours 30 minutes"
   difficulty="medium"
   steps={[
-    { title: "KTX to Gangneung", description: "Take the KTX-Eum from Seoul Station to Gangneung Station. Cost: 27,600 KRW. Time: 2 hours.", tip: "Book tickets 2 weeks in advance on Let's Korail." },
-    { title: "Local Bus / Taxi", description: "From Gangneung Station, take bus 300 or 314 to Jumunjin Beach (40 mins) or a taxi (20 mins, approx 20,000 KRW)." }
+    { title: "KTX to Gangneung", description: "Take the KTX-Eum from Seoul Station to Gangneung Station. Cost: ₩27,600. Time: 2 hours.", tip: "Book tickets 2 weeks in advance on Let's Korail." },
+    { title: "Local Bus / Taxi", description: "From Gangneung Station, take bus 300 or 314 to Jumunjin Beach (40 mins) or a taxi (20 mins, approx ₩20,000)." }
   ]}
 />
 
@@ -176,7 +186,7 @@ The Underwood Hall at Yonsei University is covered in ivy and looks straight out
 Kyung Hee is famous for the Grand Peace Hall, a massive cathedral-like structure that seats **4,500 people**. It is often used for year-end award shows and showcases, but the exterior appears in MVs requiring a majestic, royal aesthetic.
 
 <InfoBox type="warning" title="Climbing Hazard">
-  The walk from the main gate of Kyung Hee University to the Grand Peace Hall involves a very steep hill. It is recommended to take the campus shuttle bus (green bus) for 1,200 KRW if you are carrying heavy camera equipment.
+  The walk from the main gate of Kyung Hee University to the Grand Peace Hall involves a very steep hill. It is recommended to take the campus shuttle bus (green bus) for ₩1,200 if you are carrying heavy camera equipment.
 </InfoBox>
 
 ## Practical Planning Tips for 2026

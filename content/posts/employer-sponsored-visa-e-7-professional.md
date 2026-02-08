@@ -4,6 +4,16 @@ date: 2026-01-07
 excerpt: "Master the E-7 visa process for Korea. Learn eligibility, GNI salary rules, and application steps for 2026 to secure your career in Seoul."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Gangnam"
+readTime: "12 min read"
+featured: false
 ---
 
 Securing a professional career in South Korea is a dream for many, but the bureaucratic hurdles can often feel like navigating a labyrinth without a map. For skilled international professionals, the "Employer Sponsored Visa E 7 Professional" (commonly referred to as the E-7 Visa) is the golden ticket. It is the designated visa for foreign nationals contracting with public or private organizations in Korea to perform activities that require specific knowledge or skills.
@@ -15,7 +25,7 @@ Learn more in our comprehensive guide to [Changing visa status while in Korea gu
 <KeyTakeaways 
   points={[
     "The E-7 visa covers 87 specific job codes, requiring a match between your degree and the role",
-    "Minimum salary must meet 80 percent of the previous year's GNI, approx 35.5 million KRW annually",
+    "Minimum salary must meet 80 percent of the previous year's GNI, approx ₩35.5 million annually",
     "Processing typically takes 3 to 4 weeks, with a success rate heavily dependent on company sponsorship ratios"
   ]}
   readTime={12}
@@ -80,14 +90,14 @@ As of 2026, the GNI per capita has adjusted slightly upwards. For most E-7-1 app
 <QuickFacts
   title="Salary Requirements 2026"
   facts={[
-    { label: "Est. GNI", value: "44.5M KRW", icon: "📉" },
-    { label: "Min. Salary", value: "35.6M KRW", icon: "💰" },
-    { label: "Monthly", value: "2.97M KRW", icon: "🗓️" }
+    { label: "Est. GNI", value: "₩44.5M", icon: "📉" },
+    { label: "Min. Salary", value: "₩35.6M", icon: "💰" },
+    { label: "Monthly", value: "₩2.97M", icon: "🗓️" }
   ]}
   columns={3}
 />
 
-If your employment contract lists a salary of **2,700,000 KRW** per month, you will likely be rejected because it falls below the threshold (approx **2,966,000 KRW** per month is the safe zone for 2026). Small to Medium Enterprises (SMEs) can sometimes apply for a reduced threshold (70% of GNI) if they meet specific innovation criteria, but this is rare.
+If your employment contract lists a salary of **₩2,700,000** per month, you will likely be rejected because it falls below the threshold (approx **₩2,966,000** per month is the safe zone for 2026). Small to Medium Enterprises (SMEs) can sometimes apply for a reduced threshold (70% of GNI) if they meet specific innovation criteria, but this is rare.
 
 ## The Application Process: Step-by-Step
 
@@ -125,7 +135,7 @@ Your contract must be drafted perfectly. It must include:
 *   Salary clearly above the GNI threshold.
 
 ### Step 3: Submission and Fees
-The employer submits the application to the local Immigration Office having jurisdiction over their workplace. The application fee is roughly **130,000 KRW** (approx $95 USD) if done in Korea. If you are applying from abroad, the employer gets a "Visa Issuance Number," which you then take to the Korean Consulate in your home country.
+The employer submits the application to the local Immigration Office having jurisdiction over their workplace. The application fee is roughly **₩130,000** (approx $95 USD) if done in Korea. If you are applying from abroad, the employer gets a "Visa Issuance Number," which you then take to the Korean Consulate in your home country.
 
 <StepGuide
   title="How to Apply from Abroad"
@@ -141,7 +151,7 @@ The employer submits the application to the local Immigration Office having juri
 
 ## Costs Involved
 
-Applying for the E-7 is an investment. While the employer often covers the legal fees if they use an immigration lawyer (which can cost between **1,500,000 KRW** and **3,000,000 KRW**), you may be responsible for document costs.
+Applying for the E-7 is an investment. While the employer often covers the legal fees if they use an immigration lawyer (which can cost between **₩1,500,000** and **₩3,000,000**), you may be responsible for document costs.
 
 <PriceTable
   title="Estimated Applicant Costs"
@@ -167,7 +177,7 @@ One of the major benefits of the E-7 is the ability to sponsor your spouse and m
 *   **Restriction**: F-3 holders strictly **cannot work** in Korea without obtaining their own separate work permission, which is difficult.
 
 <InfoBox type="warning" title="Address Changes">
-If you move apartments, you must report your new address to the local district office (Gu-office) or Immigration within 14 days. Failure to do so results in a fine starting at roughly 100,000 KRW and escalating quickly based on delay duration.
+If you move apartments, you must report your new address to the local district office (Gu-office) or Immigration within 14 days. Failure to do so results in a fine starting at roughly ₩100,000 and escalating quickly based on delay duration.
 </InfoBox>
 
 ## Comparison: E-7 vs. Other Visas
@@ -199,7 +209,7 @@ The **F-2-7 points-based resident visa** is the ultimate goal for many E-7 holde
 ## Common Reasons for Rejection
 
 Rejections are becoming more common in 2026 as immigration tightens verification.
-1.  **Low Salary**: The most common reason. If the contract is even **10,000 KRW** below the GNI requirement, it is an automatic denial.
+1.  **Low Salary**: The most common reason. If the contract is even **₩10,000** below the GNI requirement, it is an automatic denial.
 2.  **Company Ineligibility**: The company does not pay taxes or lacks the 20% Korean national ratio.
 3.  **Degree Mismatch**: An English Literature major applying for a Marketing role without specific marketing experience.
 4.  **Necessity Not Proven**: The "Employment Necessity Statement" written by the company was too vague and did not convince the officer why a Korean national could not do the job.

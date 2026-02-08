@@ -201,7 +201,7 @@ To help you decide, here is a direct feature comparison between the two options 
     { feature: "Stain Resistance", option1: "Low (stains over time)", option2: "High (glass-like)" },
     { feature: "Reversibility", option1: "Yes (usually)", option2: "No (enamel removed)" },
     { feature: "Repairability", option1: "Easy (patchable)", option2: "Hard (must replace)" },
-    { feature: "Cost (KRW)", option1: "₩150k - 350k", option2: "₩450k - 800k" }
+    { feature: "Cost (₩)", option1: "₩150k - 350k", option2: "₩450k - 800k" }
   ]}
 />
 

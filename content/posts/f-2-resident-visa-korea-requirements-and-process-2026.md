@@ -4,6 +4,16 @@ date: 2026-01-07
 excerpt: "Complete guide to the 2026 F-2 resident visa in South Korea. Learn points requirements, income thresholds, and application steps for long-term residency."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Budget Travel"
+readTime: "12 min read"
+featured: false
 ---
 
 Securing long-term residency in South Korea is the ultimate goal for many expatriates. The F-2 Resident Visa, often referred to as the "point-based visa" or the "bridge to permanent residency," offers a level of freedom that standard work visas simply cannot match. Unlike the rigid E-2 or E-7 visas, which tie you to a specific employer, the F-2 visa grants you the liberty to switch jobs, freelance, or even start your own business without constant immigration headaches.
@@ -15,7 +25,7 @@ Learn more in our comprehensive guide to [Digital Nomad Visa Korea Requirements 
 <KeyTakeaways 
   points={[
     "The minimum passing score for the F-2-7 visa remains 80 points out of a possible 135 in 2026.",
-    "Income requirements are now strictly tied to the previous year's GNI per capita (approx. 45.2 million KRW).",
+    "Income requirements are now strictly tied to the previous year's GNI per capita (approx. ₩45.2 million).",
     "KIIP Level 4 or higher is now practically mandatory to secure renewal terms longer than one year."
   ]}
   readTime={12}
@@ -95,14 +105,14 @@ Proficiency in Korean is measured via the TOPIK (Test of Proficiency in Korean) 
 ### 4. Annual Income (Max 60 Points)
 This is the most heavily weighted category and the one that changed most significantly in 2026 due to inflation and GNI adjustments. The points are calculated based on your income relative to the GNI per capita.
 
-For 2026 applications, immigration officers look at your income tax certificate (Certificate of Income) from the previous year (2025). With the GNI per capita hovering around **45.2 million KRW**, earning below 30 million KRW yields very few points.
+For 2026 applications, immigration officers look at your income tax certificate (Certificate of Income) from the previous year (2025). With the GNI per capita hovering around **₩45.2 million**, earning below ₩30 million yields very few points.
 
-*   Under 30 million KRW: 10 points
-*   30m - 40m KRW: 30 points
-*   40m - 50m KRW: 40 points
-*   50m - 60m KRW: 50 points
-*   60m - 70m KRW: 55 points
-*   Over 70m KRW: 60 points
+*   Under ₩30 million: 10 points
+*   30m - ₩40M: 30 points
+*   40m - ₩50M: 40 points
+*   50m - ₩60M: 50 points
+*   60m - ₩70M: 55 points
+*   Over ₩70M: 60 points
 
 <ExpertTip 
   author="Ji-hoon Kim"
@@ -138,7 +148,7 @@ You can boost your score with bonus points, but you must also be wary of penalti
 
 ## Financial Requirements and the "GNI" Factor
 
-Understanding the GNI (Gross National Income) is vital for the 2026 application cycle. The Bank of Korea releases the official GNI per capita annually. For 2026 visa processing, the benchmark is approximately **45,200,000 KRW** (estimated based on 2025 data).
+Understanding the GNI (Gross National Income) is vital for the 2026 application cycle. The Bank of Korea releases the official GNI per capita annually. For 2026 visa processing, the benchmark is approximately **₩45,200,000** (estimated based on 2025 data).
 
 If you are applying for the F-2-99 visa, your income must equal or exceed the GNI per capita. However, for the F-2-7, your income simply determines how many points you receive.
 
@@ -168,7 +178,7 @@ Applying for the F-2 visa involves gathering significant paperwork. The process 
     },
     { 
       title: "Submit and Pay", 
-      description: "Visit the office, submit documents, and pay the 130,000 KRW fees (stamp + card).",
+      description: "Visit the office, submit documents, and pay the ₩130,000 fees (stamp + card).",
       tip: "Bring cash. The revenue stamp machines often do not accept foreign cards." 
     }
   ]}
@@ -205,7 +215,7 @@ The cost of changing your visa status in 2026 has remained relatively stable com
 />
 
 <InfoBox type="warning" title="Hidden Costs">
-Remember to budget for notarization and apostille services if you need to submit new criminal background checks or degrees from abroad. These can cost between <strong>50,000 to 200,000 KRW</strong> per document depending on your home country.
+Remember to budget for notarization and apostille services if you need to submit new criminal background checks or degrees from abroad. These can cost between <strong>50,000 to ₩200,000</strong> per document depending on your home country.
 </InfoBox>
 
 ## Pros and Cons of the F-2 Visa
@@ -247,7 +257,7 @@ Level 5 involves 70 hours of "Understanding Korean Society" classes. Unlike prev
 
 ## Renewals and the Path to F-5 (Permanent Residency)
 
-Once you have the F-2-7, the clock starts ticking for Permanent Residency (F-5-10). To upgrade to F-5 from F-2-7, you generally need to maintain your F-2 status for **3 years**. However, the income requirement doubles: you typically need **2x GNI** (approx. 90 million KRW) to qualify for F-5, unless you have a specific degree from a Korean university.
+Once you have the F-2-7, the clock starts ticking for Permanent Residency (F-5-10). To upgrade to F-5 from F-2-7, you generally need to maintain your F-2 status for **3 years**. However, the income requirement doubles: you typically need **2x GNI** (approx. ₩90 million) to qualify for F-5, unless you have a specific degree from a Korean university.
 
 For F-2 renewals, you must maintain the 80-point threshold. If you age out of the 30-34 bracket and lose points, you must make up for it with higher income or better Korean skills. Failure to maintain 80 points will result in a denial of extension, forcing you back to a work visa (E-7) or a job-seeker visa (D-10).
 

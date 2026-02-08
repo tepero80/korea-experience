@@ -45,7 +45,7 @@ The landscape of medical tourism in Korea has evolved significantly over the las
 
 Korean OBGYNs perform thousands of these procedures annually, resulting in a level of surgical dexterity that is hard to match globally. Furthermore, the stigma is rapidly vanishing. Clinics are designed with discreet entrances and private recovery rooms, ensuring that you never have to sit in a crowded waiting room feeling exposed.
 
-From a financial perspective, the value is undeniable. A comprehensive surgical vaginoplasty that might cost $8,000 to $12,000 in New York or London typically ranges from 3 million to 6 million KRW ($2,200 to $4,500 USD) in Seoul, without compromising on safety or hygiene standards.
+From a financial perspective, the value is undeniable. A comprehensive surgical vaginoplasty that might cost $8,000 to $12,000 in New York or London typically ranges from 3 million to ₩6 million ($2,200 to $4,500 USD) in Seoul, without compromising on safety or hygiene standards.
 
 <InfoBox type="tip" title="Pro Tip">
 Many clinics offer "Woman-to-Woman" care. When booking, explicitly request a female doctor if that makes you more comfortable. In 2026, approximately 70% of aesthetic gynecology specialists in Gangnam are women.

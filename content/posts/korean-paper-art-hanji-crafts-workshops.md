@@ -4,6 +4,16 @@ date: 2026-01-18
 excerpt: "Discover the best Hanji paper craft workshops in Seoul and Jeonju. Learn pricing, locations, and expert tips for this 1000-year-old art form."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Budget Travel"
+  - "Insadong"
+readTime: "10 min read"
+featured: false
 ---
 
 Hanji, often referred to as "the paper of a thousand years," is more than just a writing surface in Korea; it is a resilient cultural fabric that has adorned windows, floors, and ancient texts for centuries. For international travelers, participating in a Korean paper art Hanji crafts workshop is one of the most tactile and rewarding ways to connect with the peninsula's history. Unlike standard origami, Hanji crafts involve a unique texturing and pasting technique that renders paper as durable as leather.
@@ -14,7 +24,7 @@ Learn more in our comprehensive guide to [Calligraphy classes in Seoul mastering
 
 <KeyTakeaways 
   points={[
-    "Most beginner workshops cost between 15,000 and 50,000 KRW per person.",
+    "Most beginner workshops cost between 15,000 and ₩50,000 per person.",
     "The average session lasts 60 to 90 minutes, making it perfect for short itineraries.",
     "Bukchon Hanok Village and Insadong are the primary hubs for English-friendly classes."
   ]}
@@ -82,7 +92,7 @@ Nestled among traditional houses, these studios offer an atmospheric backdrop. T
   tip="Go on a weekday morning (around 10:30 AM) to avoid the tourist rush."
 />
 
-Here, a simple rectangular plate or hand mirror class usually costs **15,000 KRW** and takes about **40 minutes**. More complex items, like an octagonal tea table, can cost upwards of **60,000 KRW** and take **2 to 3 hours**.
+Here, a simple rectangular plate or hand mirror class usually costs **₩15,000** and takes about **40 minutes**. More complex items, like an octagonal tea table, can cost upwards of **₩60,000** and take **2 to 3 hours**.
 
 <ExpertTip 
   author="Min-ji Park"
@@ -98,7 +108,7 @@ Here, a simple rectangular plate or hand mirror class usually costs **15,000 KRW
 Insadong is the commercial heart of traditional crafts. While slightly more commercialized, the accessibility is unbeatable. Several small studios are tucked away in the side alleys off the main street (Insadong-gil).
 
 <InfoBox type="tip" title="Pro Tip">
-  When in Insadong, look for the "Hanji Chueok" (Hanji Memory) signs. These smaller studios often offer a 10% discount if you pay in cash. Always carry roughly 50,000 KRW in cash per person for these impromptu classes.
+  When in Insadong, look for the "Hanji Chueok" (Hanji Memory) signs. These smaller studios often offer a 10% discount if you pay in cash. Always carry roughly ₩50,000 in cash per person for these impromptu classes.
 </InfoBox>
 
 ## The Crafting Process: What to Expect
@@ -134,7 +144,7 @@ If your itinerary allows for a trip 200 kilometers south of Seoul, Jeonju is the
   source="Jeonju Cultural Foundation 2025"
 />
 
-In Jeonju, workshops are often cheaper and more authentic. You can experience the *Bal* (bamboo screen) technique of lifting paper pulp from water tanks. A KTX train from Seoul to Jeonju Station takes roughly **1 hour and 40 minutes** and costs approximately **34,600 KRW** one way.
+In Jeonju, workshops are often cheaper and more authentic. You can experience the *Bal* (bamboo screen) technique of lifting paper pulp from water tanks. A KTX train from Seoul to Jeonju Station takes roughly **1 hour and 40 minutes** and costs approximately **₩34,600** one way.
 
 ## Cost Breakdown and Budgeting
 
@@ -149,7 +159,7 @@ Travelers often worry about hidden costs. Hanji workshops are generally transpar
   ]}
 />
 
-Note that shipping large items like lamps back home can be expensive. A small box sent via EMS from Korea to the USA or Europe typically starts at **35,000 KRW**. We recommend sticking to flat items (plates, mirrors) or foldable items (fans) if you have limited luggage space.
+Note that shipping large items like lamps back home can be expensive. A small box sent via EMS from Korea to the USA or Europe typically starts at **₩35,000**. We recommend sticking to flat items (plates, mirrors) or foldable items (fans) if you have limited luggage space.
 
 ## Pros and Cons of Hanji Workshops
 
@@ -164,7 +174,7 @@ Is it worth the time on a tight schedule? Here is a balanced look to help you de
 
 ## DIY Kits vs. Studio Classes
 
-For those who run out of time, many studios sell DIY kits. These kits come with pre-cut frames, paper, and glue powder. A standard kit costs between **8,000 and 20,000 KRW**, which is roughly **40% cheaper** than taking the class. However, without the instructor's guidance on water-tearing and glue consistency, the results can be mixed.
+For those who run out of time, many studios sell DIY kits. These kits come with pre-cut frames, paper, and glue powder. A standard kit costs between **8,000 and ₩20,000**, which is roughly **40% cheaper** than taking the class. However, without the instructor's guidance on water-tearing and glue consistency, the results can be mixed.
 
 <InfoBox type="warning" title="Glue Consistency Warning">
   If you buy a DIY kit to take home, be careful with the glue mixing. The starch powder must be mixed with cold water first, then heated until translucent. Using it raw will result in white, flaky residue on your artwork.
@@ -172,9 +182,9 @@ For those who run out of time, many studios sell DIY kits. These kits come with 
 
 ## Purchasing Hanji Souvenirs
 
-If you prefer buying finished masterpieces rather than making them, head to "Paper Garden" (Jihyeong) in Insadong or the gift shop at the National Museum of Korea. High-quality Hanji stationary sets start at **10,000 KRW**, while professional calligraphy paper can cost **2,000 KRW per sheet**.
+If you prefer buying finished masterpieces rather than making them, head to "Paper Garden" (Jihyeong) in Insadong or the gift shop at the National Museum of Korea. High-quality Hanji stationary sets start at **₩10,000**, while professional calligraphy paper can cost **₩2,000 per sheet**.
 
-For high-end collectors, Hanji lamps by master craftsmen can range from **200,000 KRW to 1,000,000 KRW**, reflecting the weeks of labor required to create the intricate lattice designs.
+For high-end collectors, Hanji lamps by master craftsmen can range from **₩200,000 to ₩1,000,000**, reflecting the weeks of labor required to create the intricate lattice designs.
 
 <Timeline
   title="Ideal Hanji Itinerary (Afternoon)"

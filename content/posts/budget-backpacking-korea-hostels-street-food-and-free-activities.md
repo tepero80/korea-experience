@@ -277,7 +277,7 @@ Backpacking Korea in 2026 is an exercise in smart choices, not deprivation. The 
 <FAQAccordion
   title="Frequently Asked Questions"
   items={[
-    { question: "Do I need cash or can I use cards everywhere?", answer: "While credit cards are accepted in 95% of places (even convenience stores and taxis), you absolutely need cash (KRW) for street food stalls and recharging your T-Money transit card. Keep about ₩50,000 in cash on you." },
+    { question: "Do I need cash or can I use cards everywhere?", answer: "While credit cards are accepted in 95% of places (even convenience stores and taxis), you absolutely need cash (₩) for street food stalls and recharging your T-Money transit card. Keep about ₩50,000 in cash on you." },
     { question: "Is tap water safe to drink in Korea?", answer: "Yes, tap water in Korea is safe to drink. However, many locals prefer boiled or filtered water due to old pipes in some buildings. Public drinking fountains in parks and subway stations are monitored and safe." },
     { question: "What is the cheapest way to get from Incheon Airport to Seoul?", answer: "The AREX All-Stop Train (commuter line) is the cheapest option at approximately ₩4,750. It takes about 60 minutes to reach Seoul Station." },
     { question: "Are hostels in Korea safe for solo female travelers?", answer: "Yes, extremely safe. Most hostels have female-only dorm rooms, and Korea is generally one of the safest countries in the world. CCTV is ubiquitous." },

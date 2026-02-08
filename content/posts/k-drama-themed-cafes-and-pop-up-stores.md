@@ -4,6 +4,16 @@ date: 2026-01-13
 excerpt: "Explore the most iconic K-drama filming locations and trending pop-up stores in Seoul. A comprehensive travel guide for 2026."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Banking"
+  - "Budget Travel"
+readTime: "12 min read"
+featured: false
 ---
 
 Stepping into Seoul feels remarkably like walking onto the set of your favorite television series. For international fans, the line between fiction and reality blurs in the capital's vibrant cafe scene. Whether you are hunting for the romantic backdrop of a confession scene or seeking limited-edition merchandise at a fleeting pop-up event, K-drama themed cafes and stores offer an immersive cultural experience that goes far beyond a simple cup of coffee.
@@ -51,7 +61,7 @@ Related reading: [Celebrity owned cafes and restaurants in Seoul you can ac...](
 ### 1. Cafe Zino (Paju) - The Goblin's Mansion
 For fans of the legendary drama *Guardian: The Lonely and Great God* (Goblin), Cafe Zino in Paju represents the ultimate pilgrimage. The cafe's interior features dark wood paneling, high ceilings, and European antique furniture, serving as the interior for the Canadian steakhouse scenes in the drama. It was also featured in *Crash Landing on You*.
 
-Located approximately 45 kilometers northwest of Seoul, visiting Zino requires dedication. The average taxi fare from Hongdae is roughly 50,000 KRW one way, making it a premium excursion. However, the preservation of the set is immaculate, justifying the journey for die-hard fans.
+Located approximately 45 kilometers northwest of Seoul, visiting Zino requires dedication. The average taxi fare from Hongdae is roughly ₩50,000 one way, making it a premium excursion. However, the preservation of the set is immaculate, justifying the journey for die-hard fans.
 
 <LocationCard
   name="Cafe Zino"
@@ -64,13 +74,13 @@ Located approximately 45 kilometers northwest of Seoul, visiting Zino requires d
   rating={4.7}
   transit="Taxi from Geumchon Station (Gyeongui-Jungang Line), approx 20 mins"
   highlights={["Goblin Filming Spot", "European Antique Interior", "Piano Used by Actors"]}
-  tip="Must take off shoes at entrance. Beverages are pricey (10,000 KRW+) as admission fee."
+  tip="Must take off shoes at entrance. Beverages are pricey (₩10,000+) as admission fee."
 />
 
 ### 2. Daeo Bookstore (Seochon) - Nostalgic Romance
 While not a cafe in the modern sense, Daeo Bookstore is the oldest second-hand bookstore in Seoul and a beloved filming location for dramas like *Shark* and music videos by IU. It captures the retro aesthetic of 1950s Seoul. Though you cannot sit and read for hours due to its popularity, the courtyard is a photo hotspot.
 
-The entrance fee is typically the purchase of a beverage coupon (around 6,000 KRW). The venue is small, accommodating perhaps 15 to 20 people comfortably at one time, so expect a queue on weekends.
+The entrance fee is typically the purchase of a beverage coupon (around ₩6,000). The venue is small, accommodating perhaps 15 to 20 people comfortably at one time, so expect a queue on weekends.
 
 <InfoBox type="note" title="Preservation Rules">
   Daeo Bookstore is a cultural heritage site. Photography is allowed only with cell phones (no professional DSLRs) to preserve the quiet atmosphere for the owners who still reside on the property.
@@ -130,7 +140,7 @@ International travelers often get confused by the queuing system. You rarely sta
 
 Visiting these locations can range from a cheap coffee run to an expensive day trip. The transportation costs to places like Paju or Suwon add up, as do the merchandise purchases at pop-ups.
 
-Merchandise at pop-up stores is priced at a premium. A simple acrylic stand typically costs 15,000 to 20,000 KRW, while plush dolls can range from 35,000 to 55,000 KRW. Limited edition items often sell out within the first hour of daily operations.
+Merchandise at pop-up stores is priced at a premium. A simple acrylic stand typically costs 15,000 to ₩20,000, while plush dolls can range from 35,000 to ₩55,000. Limited edition items often sell out within the first hour of daily operations.
 
 Below is a comparison of costs for different types of K-drama experiences.
 
@@ -203,7 +213,7 @@ Arrive early to register for the latest drama pop-up on B2. While waiting for yo
 
 **12:30 PM - Lunch at Itaewon**
 Head to the Itaewon area. While the specific *Itaewon Class* pub "Danbam" has changed ownership and branding multiple times, the Gyeongnidan-gil street offers the iconic views of Namsan Tower featured in the show.
-*   *Transit:* Taxi from Yeouido (approx. 15,000 KRW, 20 mins).
+*   *Transit:* Taxi from Yeouido (approx. ₩15,000, 20 mins).
 
 **03:00 PM - Hotel Seine (Ikseon-dong) or similar**
 Visit Ikseon-dong Hanok Village. The narrow alleys are a staple in dramas. Look for cafes with the "Hotel Del Luna" retro-modern vibe. (Note: The actual Hotel Seine location changes concepts often, so check Naver Maps).

@@ -4,6 +4,16 @@ date: 2026-01-14
 excerpt: "Discover the delicious dilemma of Korean chicken culture Yangnyeom vs Fried. Compare flavors, prices, and history in this ultimate foodie guide."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Itaewon"
+readTime: "13 min read"
+featured: false
 ---
 
 Korean Fried Chicken is not just a meal; it is a national institution, a social lubricant, and a culinary heavyweight champion that has taken the world by storm. However, for travelers arriving in Seoul for the first time, the menu presents an immediate and difficult dilemma: the choice between the original, crispy "Fried" chicken and the sticky, sweet-and-spicy "Yangnyeom" chicken.

@@ -4,6 +4,16 @@ date: 2026-01-05
 excerpt: "Find the best medical compression garments in Seoul for post-surgery recovery. Detailed guide on locations, prices, and sizing in Gangnam and beyond."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "14 min read"
+featured: false
 ---
 
 If you are looking for where to buy compression garments in Seoul, the most reliable locations are the specialized medical supply stores located in the **Apgujeong** and **Sinsa-dong** districts of Gangnam, specifically near plastic surgery clinics. For general compression stockings or travel socks, **Jongno 5-ga's Medical Instrument Street** offers the widest selection at wholesale prices. Most plastic surgery clinics will offer to sell them to you directly, but purchasing independently from a medical supply store often saves you 20% to 40% while providing a wider range of sizing options.
@@ -13,7 +23,7 @@ If you are looking for where to buy compression garments in Seoul, the most reli
 <KeyTakeaways 
   points={[
     "Specialized stores in Gangnam offer custom fitting for post-op patients",
-    "Buying directly from a medical supply store saves 30-50k KRW vs. clinics",
+    "Buying directly from a medical supply store saves 30-₩50k vs. clinics",
     "Jongno 5-ga is the best hub for generic compression stockings and socks",
     "Korean sizes run 1-2 sizes smaller than US/EU standards"
   ]}
@@ -48,7 +58,7 @@ The area specifically between **Apgujeong Station (Line 3)** and **Sinsa Station
 ### What to Expect in Gangnam Stores
 These shops are not typical retail spaces. They often look clinical, with fitting rooms designed for patients who may still have drains or bandages. The staff are accustomed to seeing fresh surgical wounds and will help you into the garment—a process that can be physically difficult to do alone immediately after surgery.
 
-*   **Average Cost:** 100,000 KRW to 250,000 KRW ($75 - $190 USD) for a full-body suit.
+*   **Average Cost:** ₩100,000 to ₩250,000 ($75 - $190 USD) for a full-body suit.
 *   **Service:** Professional measuring and fitting included.
 *   **Turnaround:** Immediate for standard sizes; 1-2 days for custom alterations.
 
@@ -79,7 +89,7 @@ Located north of the Han River, this area is famous for its wholesale pharmacy s
 ### Why Go to Jongno?
 The primary advantage here is price and variety of brands. You will find major international brands like Sigvaris and Jobst alongside high-quality domestic Korean brands. Prices here can be 30% to 50% lower than in Gangnam or department stores.
 
-*   **Average Cost:** 25,000 KRW to 60,000 KRW ($19 - $45 USD) for knee-high or thigh-high stockings.
+*   **Average Cost:** ₩25,000 to ₩60,000 ($19 - $45 USD) for knee-high or thigh-high stockings.
 *   **Vibe:** Chaotic, busy, wholesale market atmosphere.
 *   **Language:** Less English support than Gangnam; having a picture of what you want is helpful.
 
@@ -142,32 +152,32 @@ Seoul's market caters to specific procedures. Here is what you can find and the 
 ### 1. Facial Bands (Ddaeng-gimi)
 Used for V-line surgery, jaw reduction, or facial liposuction.
 *   **Where to buy:** Pharmacies in Gangnam or specialized stores.
-*   **Price:** 15,000 KRW - 45,000 KRW.
+*   **Price:** ₩15,000 - ₩45,000.
 *   **Note:** These are widely available even in larger Olive Young stores sometimes, but medical-grade ones from pharmacies offer better tension.
 
 ### 2. Arm Sleeves (Boleros)
 Used for arm liposuction (brachioplasty). These often connect across the back to prevent slipping.
 *   **Where to buy:** Specialized stores only.
-*   **Price:** 80,000 KRW - 120,000 KRW.
+*   **Price:** ₩80,000 - ₩120,000.
 *   **Fit Tip:** Ensure the underarm area is not digging in, as this can damage lymph nodes.
 
 ### 3. Abdominal Binders
 Used for tummy tucks or abdominal liposuction.
 *   **Where to buy:** Medical supply stores near major hospitals (Asan Medical Center, Samsung Medical Center) or Gangnam specialized shops.
-*   **Price:** 40,000 KRW - 90,000 KRW.
+*   **Price:** ₩40,000 - ₩90,000.
 *   **Design:** Look for ones with multiple velcro panels for adjustable tension.
 
 ### 4. Full Body Suits (Fajas)
 The standard for lower body liposuction.
 *   **Where to buy:** Specialized Gangnam stores.
-*   **Price:** 120,000 KRW - 250,000 KRW.
+*   **Price:** ₩120,000 - ₩250,000.
 *   **Feature:** Many Korean brands feature a "crotchless" or zipper design for bathroom ease, which is essential.
 
 ## Custom-Made Garments: The Ultimate Fit
 
 For patients with unique body proportions (e.g., a very small waist but wide hips, typical of BBL patients), off-the-rack garments may not work. Seoul offers rapid custom manufacturing.
 
-Several shops in Apgujeong offer a "rush" custom service. They will measure you in the morning and have a custom-sewn garment ready by the next afternoon. This service typically costs an additional 30,000 to 50,000 KRW but is worth it to prevent skin necrosis from ill-fitting pressure points.
+Several shops in Apgujeong offer a "rush" custom service. They will measure you in the morning and have a custom-sewn garment ready by the next afternoon. This service typically costs an additional 30,000 to ₩50,000 but is worth it to prevent skin necrosis from ill-fitting pressure points.
 
 <Timeline
   title="Custom Garment Process"
@@ -225,7 +235,7 @@ While you will find international giants, keep an eye out for these domestic Kor
 
 *   **Marena:** Technically international, but the dominant player in the Korean post-op market. High quality, comfortable, higher price.
 *   **Lipomed:** Another premium standard often sold in clinics.
-*   **Local "Shop Brands":** Many of the medical supply stores in Apgujeong manufacture their own "house brand" garments. These are often unbranded but are made of excellent, durable Powernet fabric and are significantly cheaper (80,000 KRW vs 150,000 KRW). Do not dismiss them; they are often made in the same factories as the premium brands.
+*   **Local "Shop Brands":** Many of the medical supply stores in Apgujeong manufacture their own "house brand" garments. These are often unbranded but are made of excellent, durable Powernet fabric and are significantly cheaper (₩80,000 vs ₩150,000). Do not dismiss them; they are often made in the same factories as the premium brands.
 
 <ComparisonTable
   title="Brand Comparison"

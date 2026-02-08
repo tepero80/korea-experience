@@ -4,6 +4,16 @@ date: 2026-01-22
 excerpt: "The ultimate guide to attending live K-Pop broadcasts. Discover how to navigate lotteries, tour packages, and fan culture at SBS and KBS."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Banking"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 Attending a live broadcast is the holy grail of K-Pop fandom. It is where the polished gloss of music videos meets the raw energy of live performance, fan chants, and the intricate machinery of Korean television. Among the six major weekly music programs, SBS **Inkigayo** and KBS **Music Bank** stand as the titans of public broadcasting. However, for international travelers, the barrier to entry can feel insurmountable, involving complex lottery systems, language barriers, and early morning queues.
@@ -80,7 +90,7 @@ Even if you cannot secure a ticket for the show, Music Bank is famous for its "A
   The 'Music Bank Way' is unique globally. To get a front-row spot at the barriers, fans arrive as early as 4:30 AM or 5:00 AM. However, if you arrive around 8:00 AM, you can still see groups entering from the back rows. Bring a small step stool if you are short!
 </ExpertTip>
 
-The distance from the nearest subway station, National Assembly Station (Line 9), is roughly 350 meters, taking about 5 minutes on foot. The subway fare from Gangnam to here is approximately 1,400 KRW using a T-Money card.
+The distance from the nearest subway station, National Assembly Station (Line 9), is roughly 350 meters, taking about 5 minutes on foot. The subway fare from Gangnam to here is approximately ₩1,400 using a T-Money card.
 
 ### Getting Tickets for Music Bank
 There are two primary ways to enter:
@@ -147,7 +157,7 @@ The dilemma for most travelers is balancing budget against certainty. If you are
   ]}
 />
 
-Tour packages often include transportation from a central hub (like Myeongdong or Hongdae) to the venue. A typical taxi ride from Myeongdong to the SBS Hall in Gayang would cost about 25,000 KRW one way and take 40 minutes, so the package transport adds some value.
+Tour packages often include transportation from a central hub (like Myeongdong or Hongdae) to the venue. A typical taxi ride from Myeongdong to the SBS Hall in Gayang would cost about ₩25,000 one way and take 40 minutes, so the package transport adds some value.
 
 ## Essential Preparation for Attendees
 
@@ -194,7 +204,7 @@ Yeouido is a modern district. The **The Hyundai Seoul**, Seoul's largest departm
 />
 
 ### Near SBS (Gayang)
-The area around SBS is more residential. However, **Homeplus** (a large supermarket complex) is located right next to the SBS Hall. It has a food court in the basement offering meals for 8,000 to 12,000 KRW.
+The area around SBS is more residential. However, **Homeplus** (a large supermarket complex) is located right next to the SBS Hall. It has a food court in the basement offering meals for 8,000 to ₩12,000.
 
 ## Which Show Should You Choose?
 
@@ -228,7 +238,7 @@ The "Ending Fairy" (Ending Fairy) culture—where the camera zooms in on one mem
 <FAQAccordion
   title="Frequently Asked Questions"
   items={[
-    { question: "Can I bring my luggage to the broadcast hall?", answer: "No. Security is tight and space is very limited. There are coin lockers at Gayang Station (for Inkigayo) and National Assembly Station (for Music Bank), costing about 2,000-4,000 KRW for 4 hours." },
+    { question: "Can I bring my luggage to the broadcast hall?", answer: "No. Security is tight and space is very limited. There are coin lockers at Gayang Station (for Inkigayo) and National Assembly Station (for Music Bank), costing about 2,000-₩4,000 for 4 hours." },
     { question: "Do I need to understand Korean to attend?", answer: "Not strictly, but it helps. Staff instructions are shouted in Korean. If you are with a tour package, your guide will translate. If you are alone, follow the crowd and have Google Translate ready." },
     { question: "Can I give gifts to the idols?", answer: "Generally, no. Most agencies and broadcast stations have banned direct gift-giving at the venue due to safety and schedule concerns. Letters are sometimes accepted by fan club managers outside." },
     { question: "Is there a specific dress code?", answer: "Smart casual is safe. Avoid flip-flops, pajamas, or overly revealing clothing. Broadcast stations reserve the right to deny entry if attire is deemed inappropriate for television." },

@@ -4,6 +4,16 @@ date: 2026-01-09
 excerpt: "A complete guide to Halal-certified medical care in Korea, featuring prayer rooms, pork-free meals, and female doctors. Updated for 2026 travelers."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "14 min read"
+featured: false
 ---
 
 Finding truly Halal-friendly medical care in a non-Muslim country can be daunting, but South Korea has made significant strides in 2026 to accommodate Muslim patients through specific "Muslim-Friendly" certifications in major hospitals.

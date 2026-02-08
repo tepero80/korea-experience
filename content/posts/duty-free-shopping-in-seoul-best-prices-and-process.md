@@ -4,6 +4,16 @@ date: 2026-01-07
 excerpt: "A complete guide to duty free shopping in Seoul including downtown stores, airport pickup processes, and 2026 tax refund limits to save up to 20%."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "K-Beauty"
+  - "Shopping"
+  - "Seoul"
+  - "Skincare"
+  - "Korean Fashion"
+  - "Banking"
+  - "Busan"
+readTime: "16 min read"
+featured: false
 ---
 
 Travelers often find themselves confused by the dual system of shopping in Korea: "Duty-Free" (Myeong-se-jeom) versus "Tax-Free" (Tax Refund). Understanding the distinction is the single most important factor in maximizing your savings. Duty-free shopping in Seoul allows international travelers to purchase luxury goods, cosmetics, and liquor without paying the import duties and local taxes that usually inflate prices by 10% to 40%. The process involves purchasing goods at designated downtown stores or online portals and picking them up at the airport gate upon departure, or buying directly at Incheon Airport.
@@ -16,7 +26,7 @@ Travelers often find themselves confused by the dual system of shopping in Korea
     "You must bring your passport and flight e-ticket number to enter downtown duty-free shops.",
     "International brands bought downtown cannot be taken immediately; they must be picked up at the airport departure gate.",
     "Korean local brands (cosmetics, ginseng) can often be taken immediately after purchase in downtown stores.",
-    "The 2026 instant tax refund limit at local shops is 1,000,000 KRW per transaction."
+    "The 2026 instant tax refund limit at local shops is ₩1,000,000 per transaction."
   ]}
   readTime={15}
   lastUpdated="2026-02-07"
@@ -36,12 +46,12 @@ Before diving into where to shop, it is critical to understand the mechanics of 
 ### Tax-Free (Tax Refund)
 "Tax-Free" refers to a refund of the 10% VAT included in the price of goods sold at regular local shops.
 *   **Locations:** Olive Young, Nike, Adidas, independent boutiques, and regular department store floors.
-*   **Currency:** Prices are in Korean Won (KRW).
+*   **Currency:** Prices are in Korean Won (₩).
 *   **Process:** You pay the full price (including tax) and get a refund either immediately (if the store offers it) or at the airport kiosk.
 *   **Pickup:** You take the goods with you immediately.
 
 <InfoBox type="info" title="2026 Policy Update">
-As of January 2026, the ceiling for "Immediate Tax Refund" at local stores has been raised. You can now get an instant tax deduction at the register for purchases up to 1,000,000 KRW (approx. $750 USD) per transaction, with a total trip limit of 5,000,000 KRW.
+As of January 2026, the ceiling for "Immediate Tax Refund" at local stores has been raised. You can now get an instant tax deduction at the register for purchases up to ₩1,000,000 (approx. $750 USD) per transaction, with a total trip limit of ₩5,000,000.
 </InfoBox>
 
 ## Downtown Duty-Free Stores: The "Big Three"
@@ -143,7 +153,7 @@ To enter a downtown duty-free store or buy online, you strictly need:
 *   **Timing:** You can buy up to 60 days in advance of your flight.
 
 ### 2. Payment
-*   **Currency:** Prices are displayed in USD but can be paid in KRW or by credit card. The store will apply their own daily exchange rate.
+*   **Currency:** Prices are displayed in USD but can be paid in won (₩) or by credit card. The store will apply their own daily exchange rate.
 *   **Strategy:** If your home currency is strong against the USD, pay in USD via credit card. If the Won is weak, paying in Won might save you a slight margin depending on your bank's fees.
 
 ### 3. Immediate vs. Airport Pickup
@@ -176,7 +186,7 @@ If you didn't have time to shop downtown, Incheon Airport (ICN) is a shopping pa
   facts={[
     { label: "Opening Hours", value: "06:30 - 21:30", icon: "⏰" },
     { label: "24H Stores", value: "Selected Liquor/Tobacco", icon: "🌙" },
-    { label: "Currency", value: "USD/KRW/EUR/JPY", icon: "💵" }
+    { label: "Currency", value: "USD/₩/EUR/JPY", icon: "💵" }
   ]}
   columns={3}
 />
@@ -256,7 +266,7 @@ For luxury fashion lovers, check out our guide to [Seongsu-dong luxury pop-ups](
 />
 
 1.  **Use the Lockers:** Lotte and Shinsegae duty-free floors are crowded. Wear light clothing (it gets hot inside) and store your heavy coats/bags in the subway lockers at Euljiro 1-ga or Myeongdong station before going up.
-2.  **Check the Exchange Rate:** Duty-free prices are pegged to the USD. If the KRW is very weak (e.g., 1400 KRW = 1 USD), it might actually be cheaper to buy "Tax-Free" in KRW at a department store than "Duty-Free" in USD. Use a currency converter app.
+2.  **Check the Exchange Rate:** Duty-free prices are pegged to the USD. If the won is very weak (e.g., ₩1400 = 1 USD), it might actually be cheaper to buy "Tax-Free" in won (₩) at a department store than "Duty-Free" in USD. Use a currency converter app.
 3.  **Don't Miss the Gate:** Allow at least **30 minutes** for duty-free pickup at the airport. The counters for Lotte and Shilla are right next to each other, but the queues can be long during morning rush hour (8:00 AM - 10:00 AM).
 
 ## Frequently Asked Questions

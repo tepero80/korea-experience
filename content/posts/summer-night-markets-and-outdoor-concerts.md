@@ -21,10 +21,10 @@ Korean night markets are more than just places to eat; they are vibrant social h
 Seoul, as the heart of Korea, offers an array of night markets, each with its own special charm and focus, perfect for experiencing the lively **Korean summer night markets**.
 
 #### Dongdaemun Design Plaza (DDP) Night Market
-Located around the futuristic architecture of the Dongdaemun Design Plaza, this market offers a blend of fashion, design, and food. It’s particularly known for its late operating hours, catering to night owls. Here, you can find emerging fashion designers selling unique clothing and accessories, alongside a diverse selection of food trucks (`Keong-cha`). The DDP market provides a chic, urban night market experience, often accompanied by DJ sets or small performances that create a dynamic atmosphere. It's a fantastic spot for trendsetters and those looking for something a bit more contemporary than traditional markets. Expect prices for street food items to range from 5,000 to 15,000 Korean Won (KRW).
+Located around the futuristic architecture of the Dongdaemun Design Plaza, this market offers a blend of fashion, design, and food. It’s particularly known for its late operating hours, catering to night owls. Here, you can find emerging fashion designers selling unique clothing and accessories, alongside a diverse selection of food trucks (`Keong-cha`). The DDP market provides a chic, urban night market experience, often accompanied by DJ sets or small performances that create a dynamic atmosphere. It's a fantastic spot for trendsetters and those looking for something a bit more contemporary than traditional markets. Expect prices for street food items to range from 5,000 to 15,000 Korean Won (₩).
 
 #### Myeongdong Street Night Market
-While Myeongdong is primarily a shopping district by day, it transforms into one of Seoul's most famous street food havens by night. This market is a must-visit for foodies, teeming with vendors selling an incredible variety of Korean street food. From classic `Tteokbokki` (spicy rice cakes) and `Hotteok` (sweet pancakes) to more adventurous options like grilled lobster tails and cheese `Dakkochi` (chicken skewers), Myeongdong offers a comprehensive taste of Korean street cuisine. The atmosphere is energetic and bustling, attracting both tourists and locals. Due to its popularity, it can be quite crowded, especially on weekends, but the sheer volume and variety of food make it worth the visit. Prices are generally affordable, with most items ranging from 3,000 to 10,000 KRW.
+While Myeongdong is primarily a shopping district by day, it transforms into one of Seoul's most famous street food havens by night. This market is a must-visit for foodies, teeming with vendors selling an incredible variety of Korean street food. From classic `Tteokbokki` (spicy rice cakes) and `Hotteok` (sweet pancakes) to more adventurous options like grilled lobster tails and cheese `Dakkochi` (chicken skewers), Myeongdong offers a comprehensive taste of Korean street cuisine. The atmosphere is energetic and bustling, attracting both tourists and locals. Due to its popularity, it can be quite crowded, especially on weekends, but the sheer volume and variety of food make it worth the visit. Prices are generally affordable, with most items ranging from ₩3,000 to ₩10,000.
 
 #### Seoul Bamdokkaebi Night Market (Seasonal)
 The `Bamdokkaebi` Night Market is a unique concept, operating at various locations across Seoul, primarily during the spring to autumn seasons, focusing on **summer night markets**. `Bamdokkaebi` translates to "night goblin," reflecting its whimsical and ephemeral nature. Each location – such as Yeouido Han River Park, Banpo Han River Park, DDP, and Cheonggyecheon Stream – has a different theme, offering distinct experiences. Yeouido, for example, often features international food trucks and artisan craft stalls against the backdrop of the Han River, while DDP focuses on fashion and design. Banpo is famous for its Moonlight Rainbow Fountain show, creating a magical setting. It’s important to check the official website or local tourism announcements for specific dates, times, and locations, as these markets are seasonal and subject to change or temporary suspension due to weather or public health concerns. They are excellent for families and groups looking for a vibrant, outdoor evening with diverse food and entertainment options.
@@ -120,10 +120,10 @@ Korea boasts an excellent public transportation system, making it easy to reach 
 
 **Korean summer night markets** and **outdoor concerts** offer a range of price points.
 
-*   **Street Food:** Generally very affordable. Expect to pay 3,000 KRW to 10,000 KRW per item. A satisfying meal could be had for 10,000 KRW to 20,000 KRW.
-*   **Crafts/Souvenirs:** Small items might start from 5,000 KRW, with more elaborate crafts costing 20,000 KRW or more.
-*   **Concerts/Festivals:** Free performances are abundant. Ticketed concerts vary widely: small indie shows might be 20,000-50,000 KRW, while major festivals like Seoul Jazz Festival or Pentaport Rock Festival can range from 80,000 KRW to 150,000+ KRW for a single day pass.
-*   **Transportation:** A single subway ride typically costs 1,250 KRW (using `T-Money`). Taxis can range from 10,000 KRW for short trips to 30,000+ KRW for longer late-night journeys.
+*   **Street Food:** Generally very affordable. Expect to pay ₩3,000 to ₩10,000 per item. A satisfying meal could be had for ₩10,000 to ₩20,000.
+*   **Crafts/Souvenirs:** Small items might start from ₩5,000, with more elaborate crafts costing ₩20,000 or more.
+*   **Concerts/Festivals:** Free performances are abundant. Ticketed concerts vary widely: small indie shows might be ₩20,000 - ₩50,000, while major festivals like Seoul Jazz Festival or Pentaport Rock Festival can range from ₩80,000 to ₩150,000 for a single day pass.
+*   **Transportation:** A single subway ride typically costs ₩1,250 (using `T-Money`). Taxis can range from ₩10,000 for short trips to ₩30,000 for longer late-night journeys.
 
 ### Essential Apps and Local Etiquette
 
@@ -207,7 +207,7 @@ Night markets and popular **outdoor concerts** can become very crowded, especial
 
 ### Comparison Table 3: Common Korean Street Food Price Guide
 
-| Item         | English Explanation        | Estimated Price (KRW) |
+| Item         | English Explanation        | Estimated Price (₩) |
 |--------------|----------------------------|-----------------------|
 | Tteokbokki   | Spicy rice cakes           | 4,000 - 7,000         |
 | Hotteok      | Sweet pancake              | 2,000 - 3,000         |

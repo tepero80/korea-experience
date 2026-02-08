@@ -20,7 +20,7 @@ If you are looking for the best Korean grooming products for men in 2026, the ma
 
 <KeyTakeaways 
   points={[
-    "Men's grooming market in Korea reached 1.3 trillion KRW in 2026",
+    "Men's grooming market in Korea reached 1.3 trillion won in 2026",
     "Top hair trend is the 'Ivy League Cut' requiring strong matte wax",
     "Olive Young Sale periods (early March/June/Sept/Dec) offer 30-50% off"
   ]}

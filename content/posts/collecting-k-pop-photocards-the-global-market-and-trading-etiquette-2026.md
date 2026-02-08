@@ -181,7 +181,7 @@ Collecting photocards is more than consumerism; it is a form of digital-age conn
 <QuickFacts
   title="Quick Facts: Collecting in Korea"
   facts={[
-    { label: "Tax Refund", value: "Available >30k KRW", icon: "💰" },
+    { label: "Tax Refund", value: "Available >₩30k", icon: "💰" },
     { label: "Store Hours", value: "11AM - 9PM", icon: "⏱️" },
     { label: "Best App", value: "Papago (Trans)", icon: "📱" }
   ]}
@@ -196,7 +196,7 @@ Whether you are browsing the bustling undergrounds of Myeongdong or refreshing a
     { question: "What is a 'Member Set' and is it worth it?", answer: "A Member Set includes all photocards of a specific member from a specific album era. Buying a set is usually 15-20% cheaper than buying each card individually, as sellers want to move inventory quickly." },
     { question: "Can I trade cards at concerts in Korea?", answer: "Yes! 'Trading zones' naturally form outside concert venues like KSPO Dome or Gocheok Sky Dome. Fans sit on picnic mats with their binders open. It is a great way to trade without shipping fees." },
     { question: "What does 'WTS', 'WTB', and 'WTT' mean?", answer: "These are standard acronyms used on social media: WTS (Want To Sell), WTB (Want To Buy), and WTT (Want To Trade). Filters for these tags are essential for navigating the market." },
-    { question: "How do I pay for cards if I don't have a Korean bank account?", answer: "For direct trades, PayPal (Goods & Services) is the global standard. However, when buying from Korean platforms like Bunjang, you must use a proxy service that accepts foreign credit cards or PayPal and pays the seller in KRW on your behalf." },
+    { question: "How do I pay for cards if I don't have a Korean bank account?", answer: "For direct trades, PayPal (Goods & Services) is the global standard. However, when buying from Korean platforms like Bunjang, you must use a proxy service that accepts foreign credit cards or PayPal and pays the seller in won (₩) on your behalf." },
     { question: "Are 'Pre-Order Benefits' (POBs) worth the investment?", answer: "POBs hold value better than album cards because they are only available for a 1-2 week window. However, they are volatile. If the photo is considered 'ugly' or basic by the fandom, the price can drop below the album cost shortly after release." }
   ]}
 />

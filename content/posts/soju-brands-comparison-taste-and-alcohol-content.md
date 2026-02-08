@@ -4,6 +4,16 @@ date: 2026-01-30
 excerpt: "The ultimate guide to Korean soju brands, comparing taste profiles, alcohol percentages, and prices for travelers in 2026."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "12 min read"
+featured: false
 ---
 
 When international travelers land at Incheon International Airport, they are often prepared for the kimchi, the BBQ, and the bustling streets of Seoul. However, nothing quite prepares the palate for the sheer ubiquity of the "green bottle." Soju is not just a drink in South Korea; it is the social lubricant that powers the nation's nightlife, seals business deals, and accompanies almost every communal meal. By 2026, the global export of this clear spirit has skyrocketed, yet the domestic landscape remains complex for the uninitiated.
@@ -42,7 +52,7 @@ You might also enjoy our article about [Best Korean Ramyeon Guide Top Instant No
   source="Korea Alcohol & Liquor Industry Association 2026"
 />
 
-Currently, a standard 360ml bottle of green-bottle soju contains about 400 to 540 calories, depending on the sugar content. The price remains incredibly accessible, usually costing between 1,800 KRW to 2,100 KRW ($1.30–$1.50 USD) in convenience stores, though restaurant markups push this to 6,000 KRW to 7,000 KRW ($4.50–$5.20 USD).
+Currently, a standard 360ml bottle of green-bottle soju contains about 400 to 540 calories, depending on the sugar content. The price remains incredibly accessible, usually costing between ₩1,800 to ₩2,100 ($1.30–$1.50 USD) in convenience stores, though restaurant markups push this to ₩6,000 to ₩7,000 ($4.50–$5.20 USD).
 
 For more details, check out our guide on [The art of somaek how to make the perfect beer Soju mix](/blog/the-art-of-somaek-how-to-make-the-perfect-beer-soju-mix-2026).
 
@@ -118,7 +128,7 @@ Produced by the Kwangjuyo Group (a famous ceramic company), Hwayo is the gold st
 ### Won Soju
 Launched by hip-hop artist Jay Park, Won Soju caused massive queues in Seoul in 2022 and remains a top seller in 2026. It uses Totomi rice from Wonju.
 *   **Profile:** It is unaged, meaning it has a distinct yeasty, toasted rice aroma (often compared to sake or makgeolli notes) but with a clean finish.
-*   **Price:** Roughly 12,900 KRW to 14,900 KRW ($10–$11 USD) per bottle.
+*   **Price:** Roughly ₩12,900 to ₩14,900 ($10–$11 USD) per bottle.
 
 ### Andong Soju
 This is a protected geographical indication. It represents the most traditional style, often boasting 45% ABV. It has a strong, earthy, and savory character that can be challenging for first-timers but is deeply respected by connoisseurs.
@@ -200,7 +210,7 @@ If you are accustomed to vodka or gin, soju will taste different.
 
 ## Hangover Management
 
-Given that soju is 16-20% ABV and is often consumed rapidly in shots, hangovers are common. The Korean "hangover cure" market is valued at over 200 billion KRW annually.
+Given that soju is 16-20% ABV and is often consumed rapidly in shots, hangovers are common. The Korean "hangover cure" market is valued at over ₩200 billion annually.
 
 <ExpertTip 
   author="Min-ji Kim"
@@ -208,7 +218,7 @@ Given that soju is 16-20% ABV and is often consumed rapidly in shots, hangovers 
   type="local"
   verified={true}
 >
-  Don't go to sleep without drinking 'Condition' (컨디션) or 'Dawn 808' (여명808). You can find these small brown bottles in the refrigerator section of any convenience store. Drink one before you start drinking and one before bed. It costs about 5,000 KRW, but it saves your next day!
+  Don't go to sleep without drinking 'Condition' (컨디션) or 'Dawn 808' (여명808). You can find these small brown bottles in the refrigerator section of any convenience store. Drink one before you start drinking and one before bed. It costs about ₩5,000, but it saves your next day!
 </ExpertTip>
 
 ## Timeline of a Typical Korean Night Out

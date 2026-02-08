@@ -4,6 +4,16 @@ date: 2026-01-13
 excerpt: "Complete guide to obtaining a C-3-3 or G-1-10 medical visa for Korea. Includes 2026 financial requirements, agency lists, and processing times."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Autumn"
+  - "Banking"
+readTime: "13 min read"
+featured: false
 ---
 
 Applying for a Korea medical tourism visa is the critical first step for thousands of international patients seeking world-class healthcare in Seoul each year. Unlike a standard tourist visa, the medical visa (specifically the C-3-3 and G-1-10 categories) requires a direct sponsorship or "invitation" from a registered Korean hospital or medical facilitator. To successfully apply, you must first secure a consultation and appointment with a government-registered medical institution, which will then issue a "Certificate of Admission" or confirmation of visa issuance. You cannot apply for this visa using a simple doctor's note; the electronic invitation from the hospital is the mandatory trigger for the entire process.
@@ -61,7 +71,7 @@ This is the single most important document. You cannot generate this yourself. I
 
 ### Financial capability proof
 You must prove you can cover your living expenses and medical costs.
-*   **Bank Statement:** Typically, you need to show a balance of at least **$3,000 USD** (approx. 4,200,000 KRW) for short-term stays. For long-term stays (G-1-10), authorities may request proof of funds exceeding **$10,000 USD**.
+*   **Bank Statement:** Typically, you need to show a balance of at least **$3,000 USD** (approx. ₩4,200,000) for short-term stays. For long-term stays (G-1-10), authorities may request proof of funds exceeding **$10,000 USD**.
 *   **Transaction History:** A specialized requirement often seen now is the need for the last **3 to 6 months** of transaction history to prove the funds were not just deposited yesterday to pass the check.
 
 <QuickFacts
@@ -133,8 +143,8 @@ Holders of C-3-3 visas may be asked specifically about their treatment plans at 
 
 ### Transportation to the city
 Most major hospitals are located in Gangnam-gu or Seocho-gu. From Incheon Airport to Gangnam takes approximately **60 to 80 minutes**.
-*   **Taxi:** A standard taxi costs about **60,000 - 80,000 KRW**. A black "Jumbo" or "Luxury" taxi will cost **100,000 - 130,000 KRW**.
-*   **Limousine Bus:** The most comfortable budget option. Buses like the 6009 or 6006 cost around **17,000 KRW**.
+*   **Taxi:** A standard taxi costs about **60,000 - ₩80,000**. A black "Jumbo" or "Luxury" taxi will cost **100,000 - ₩130,000**.
+*   **Limousine Bus:** The most comfortable budget option. Buses like the 6009 or 6006 cost around **₩17,000**.
 
 For a detailed comparison of transport options, read our analysis on [Airport Limousine Bus vs AREX Express Train](/blog/airport-limousine-bus-vs-arex-express-train).
 

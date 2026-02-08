@@ -4,6 +4,16 @@ date: 2026-01-11
 excerpt: "Master Karrot (Danggeun Market) in 2026. Complete guide for expats on buying, selling, and navigating Korea's top second-hand app with safety tips."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Budget Travel"
+readTime: "12 min read"
+featured: false
 ---
 
 In 2026, living in Korea without the Karrot app (known locally as *Danggeun Market*) is almost unimaginable. Whether you are an exchange student looking for a cheap rice cooker, an expat furnishing a new apartment in Gangnam, or a traveler wanting to offload gear before flying out, Karrot is the undisputed king of the Korean circular economy. Unlike anonymous marketplaces, Karrot relies on strict location verification, ensuring you are trading with actual neighbors within a 2 to 6-kilometer radius.
@@ -120,7 +130,7 @@ Most Karrot deals are face-to-face (Jik-georae). Sellers usually prefer you come
     { time: "0 min", title: "Spot Item", description: "Send chat immediately. Check Manner Temp.", icon: "👀" },
     { time: "10 mins", title: "Negotiation", description: "Agree on price and meeting spot (usually seller's turf).", icon: "💬" },
     { time: "24-48 hrs", title: "Meeting", description: "Inspect item in person. Check for defects not in photos.", icon: "🤝" },
-    { time: "Payment", title: "Transfer", description: "Send KRW via Bank App or Karrot Pay. Confirm receipt.", icon: "💸" },
+    { time: "Payment", title: "Transfer", description: "Send won (₩) via Bank App or Karrot Pay. Confirm receipt.", icon: "💸" },
     { time: "Post-Deal", title: "Review", description: "Leave a review to boost Manner Temps.", icon: "⭐" }
   ]}
 />
@@ -130,8 +140,8 @@ Most Karrot deals are face-to-face (Jik-georae). Sellers usually prefer you come
 While meeting in person is standard, "Non-face-to-face" (Bi-dae-myeon) deals are increasing, especially for small items. In 2026, two main delivery methods dominate the Karrot ecosystem.
 
 ### GS25 / CU Half-Price Delivery (Ban-gap Taekbae)
-This is a game-changer for items under 5kg. Instead of shipping to your door (which costs 4,000+ KRW), the seller ships to a convenience store near you. You pick it up using a QR code.
-*   **Cost:** 1,800 KRW (0-500g) to 2,600 KRW (up to 5kg).
+This is a game-changer for items under 5kg. Instead of shipping to your door (which costs 4,000+ ₩), the seller ships to a convenience store near you. You pick it up using a QR code.
+*   **Cost:** ₩1,800 (0-500g) to ₩2,600 (up to 5kg).
 *   **Time:** 3-5 days (slower than standard post).
 
 <ComparisonTable
@@ -150,7 +160,7 @@ This is a game-changer for items under 5kg. Instead of shipping to your door (wh
 For expats leaving Korea, Karrot is the most efficient way to empty an apartment. However, large furniture disposal requires strategy because disposing of furniture in Korea costs money (buying stickers from the district office).
 
 <InfoBox type="warning" title="The Sticker Rule">
-  If you cannot sell your furniture, you must pay to throw it away. You must buy a waste disposal sticker (pye-gi-mul sticker) from a local mart or district website. A large wardrobe sticker can cost 15,000 KRW. Offering the item for "Free" (Nanum) on Karrot saves you this cost and the labor of hauling it to the curb.
+  If you cannot sell your furniture, you must pay to throw it away. You must buy a waste disposal sticker (pye-gi-mul sticker) from a local mart or district website. A large wardrobe sticker can cost ₩15,000. Offering the item for "Free" (Nanum) on Karrot saves you this cost and the labor of hauling it to the curb.
 </InfoBox>
 
 ### Creating a Listing
@@ -171,7 +181,7 @@ For expats leaving Korea, Karrot is the most efficient way to empty an apartment
 Karrot has expanded significantly. It is no longer just a flea market.
 
 ### Karrot Alba (Part-time Jobs)
-The "Alba" section connects locals with short-term gigs. Common listings include dog walking, English tutoring, or helping move furniture. Wages are typically hourly, averaging 11,000 KRW to 20,000 KRW depending on the task.
+The "Alba" section connects locals with short-term gigs. Common listings include dog walking, English tutoring, or helping move furniture. Wages are typically hourly, averaging ₩11,000 to ₩20,000 depending on the task.
 
 ### Karrot Real Estate
 You can find direct listings for apartments (One-rooms) without paying the hefty realtor fees (bok-bi). However, legal verification is riskier without a realtor.

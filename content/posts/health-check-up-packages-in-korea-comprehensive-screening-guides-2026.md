@@ -4,6 +4,16 @@ date: 2026-01-10
 excerpt: "Discover 2026 prices and details for health check up packages in Korea. Full body screenings start at $380 with results in 3-5 days."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Budget Travel"
+  - "Dental"
+readTime: "16 min read"
+featured: false
 ---
 
 Medical tourism in South Korea has evolved beyond just cosmetic procedures. In 2026, the country stands as a global leader in preventative medicine, offering high-tech, efficient, and surprisingly affordable comprehensive health screenings. For international travelers and expats, navigating the vast array of hospital packages can be overwhelming, but the value proposition is undeniable.

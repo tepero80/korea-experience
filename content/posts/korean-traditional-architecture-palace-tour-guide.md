@@ -4,6 +4,16 @@ date: 2026-01-20
 excerpt: "Explore Seouls 5 Grand Palaces with our expert guide to Korean traditional architecture. Discover hidden spots, Secret Garden tips, and Royal Pass details."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Cherry Blossom"
+readTime: "11 min read"
+featured: false
 ---
 
 Seoul is a city of striking contrasts, where glass skyscrapers reflect the curved eaves of 600-year-old wooden structures. For the international traveler, understanding Korean traditional architecture—specifically the "Five Grand Palaces" of the Joseon Dynasty—is the key to unlocking the soul of this metropolis. These architectural marvels are not just static museums; they are living testaments to Confucian philosophy, geomancy, and aesthetic harmony with nature.
@@ -14,8 +24,8 @@ Related reading: [BLACKPINK in Seoul fan tour guide 2026 for BLINKs](/blog/black
 
 <KeyTakeaways 
   points={[
-    "The Royal Palace Pass saves 4,000 KRW and covers all 5 palaces plus Jongmyo Shrine",
-    "Wearing a Hanbok grants free admission to all palaces (saving up to 3,000 KRW per entry)",
+    "The Royal Palace Pass saves ₩4,000 and covers all 5 palaces plus Jongmyo Shrine",
+    "Wearing a Hanbok grants free admission to all palaces (saving up to ₩3,000 per entry)",
     "Changdeokgung Secret Garden tickets must be booked online exactly 6 days in advance at 10:00 AM KST"
   ]}
   readTime={15}
@@ -51,7 +61,7 @@ Related reading: [Rainy Seoul Evenings](/blog/how-to-spend-a-rainy-evening-in-se
 The layout of Gyeongbokgung is strictly symmetrical, reflecting Confucian order. The main gate, Gwanghwamun, aligns perfectly with the throne hall (Geunjeongjeon) and the king's office. However, the rear garden, Amisan, features a more relaxed, natural aesthetic with terraced chimneys.
 
 ### Visitor Logistics and Timing
-The Royal Guard Changing Ceremony is a must-see. It takes place at 10:00 and 14:00 daily, lasting approximately 20 minutes. The palace is closed on Tuesdays. Regular admission is 3,000 KRW for adults (ages 19-64).
+The Royal Guard Changing Ceremony is a must-see. It takes place at 10:00 and 14:00 daily, lasting approximately 20 minutes. The palace is closed on Tuesdays. Regular admission is ₩3,000 for adults (ages 19-64).
 
 <LocationCard
   name="Gyeongbokgung Palace"
@@ -105,7 +115,7 @@ Deoksugung Palace offers a unique architectural narrative. Located right next to
 This palace is significantly smaller, covering only about 61,500 square meters, but it is famous for its stone-wall road (*Deoksugung Doldam-gil*), a romantic walking path that stretches 1,100 meters.
 
 ### Night Viewing Experience
-Deoksugung is the only palace regularly open until 21:00 (last admission 20:00). Seeing the traditional eaves illuminated against the backdrop of modern office buildings provides a stunning visual contrast. Admission is just 1,000 KRW.
+Deoksugung is the only palace regularly open until 21:00 (last admission 20:00). Seeing the traditional eaves illuminated against the backdrop of modern office buildings provides a stunning visual contrast. Admission is just ₩1,000.
 
 <QuickFacts
   title="Deoksugung Quick Stats"
@@ -151,11 +161,11 @@ It grants entry to:
   ]}
 />
 
-The pass saves you 4,000 KRW (approx $3.00 USD), representing a 28% discount. More importantly, it acts as a souvenir and streamlines entry. You can purchase this pass at the ticket booth of any of the five sites.
+The pass saves you ₩4,000 (approx $3.00 USD), representing a 28% discount. More importantly, it acts as a souvenir and streamlines entry. You can purchase this pass at the ticket booth of any of the five sites.
 
 ## The Hanbok Experience: Immersion and Savings
 
-Renting a Hanbok (traditional Korean attire) has become a massive trend, with over 100 rental shops located near Gyeongbokgung alone. Prices range from 15,000 KRW to 50,000 KRW for a 4-hour rental, depending on the elaborateness of the design.
+Renting a Hanbok (traditional Korean attire) has become a massive trend, with over 100 rental shops located near Gyeongbokgung alone. Prices range from ₩15,000 to ₩50,000 for a 4-hour rental, depending on the elaborateness of the design.
 
 The government encourages this by offering **free admission** to all palaces for anyone wearing a Hanbok. This applies to both men and women.
 
@@ -189,7 +199,7 @@ Covering all five palaces in one day is physically exhausting and mentally overw
     { time: "11:30", title: "Bukchon Hanok Village", description: "Walk 15 mins east. Lunch at a traditional restaurant.", icon: "food" },
     { time: "13:30", title: "Changdeokgung", description: "Enter the main palace. Head to the Secret Garden for your 14:30 reservation.", icon: "walk" },
     { time: "16:30", title: "Insadong", description: "Walk south 15 mins. Enjoy traditional tea.", icon: "tea" },
-    { time: "18:30", title: "Deoksugung (Optional)", description: "Take a taxi (approx 6,000 KRW) for night viewing if you have energy left.", icon: "moon" }
+    { time: "18:30", title: "Deoksugung (Optional)", description: "Take a taxi (approx ₩6,000) for night viewing if you have energy left.", icon: "moon" }
   ]}
 />
 
@@ -211,7 +221,7 @@ While you cannot see it from the outside, the foundational genius of these build
   title="Frequently Asked Questions"
   items={[
     { question: "Is it worth visiting all five palaces?", answer: "For general tourists, no. Gyeongbokgung (scale) and Changdeokgung (beauty) are the essentials. Visit Deoksugung if you enjoy night views or western fusion. Skip Changgyeonggung and Gyeonghuigung unless you are a history buff or have the Royal Pass." },
-    { question: "Do I need a tour guide?", answer: "Free guided tours are available in English at specific times (usually twice daily). While signage is decent, a guide is highly recommended to understand the symbolism of the architecture. The audio guide rentals (3,000 KRW) are also excellent alternatives." },
+    { question: "Do I need a tour guide?", answer: "Free guided tours are available in English at specific times (usually twice daily). While signage is decent, a guide is highly recommended to understand the symbolism of the architecture. The audio guide rentals (₩3,000) are also excellent alternatives." },
     { question: "Can I bring food inside the palaces?", answer: "Non-alcoholic beverages in sealable containers are allowed. Food is generally restricted to prevent pest issues and protect the wooden structures. There are small cafes and souvenir shops inside Gyeongbokgung and Changdeokgung." },
     { question: "What is the best season for photography?", answer: "Autumn (late October to early November) is spectacular as the foliage turns red and yellow, contrasting with the Dancheong paint. Spring (early April) is also popular for cherry blossoms and plum blossoms, especially at Changgyeonggung." },
     { question: "Are there restrooms inside the palace grounds?", answer: "Yes, modern, clean restrooms are available throughout the grounds of all major palaces. They are usually located near the main gates and major halls. Look for the sign 'Haewoo-so' (traditional term) or the standard restroom symbol." }

@@ -82,17 +82,17 @@ While the entire 5.7 km wall is a highlight, certain points offer particularly c
 
 Suwon Hwaseong Fortress is not just for observation; it's for participation.
 
-*   **Archery Experience:** At Yeonmudae, you can try your hand at traditional Korean archery. For a small fee (approximately 2,000 KRW for 10 arrows in 2025, expect similar in 2026), it's a fun and challenging activity for all ages.
+*   **Archery Experience:** At Yeonmudae, you can try your hand at traditional Korean archery. For a small fee (approximately ₩2,000 for 10 arrows in 2025, expect similar in 2026), it's a fun and challenging activity for all ages.
 *   **Traditional Performances:** Throughout the year, especially on weekends and public holidays, the fortress hosts various cultural performances, including martial arts demonstrations ("Muyedobotongji"), royal guard changing ceremonies, and traditional music concerts at Hwaseong Haenggung or Yeonmudae. Check the official Suwon Cultural Foundation website for the latest schedules.
 *   **Walking the Walls:** The ultimate immersive experience. The entire loop is approximately 5.7 km and takes about 2-3 hours to walk at a leisurely pace. You can also opt for shorter sections.
-*   **Hwaseong Trolley (Hwaseong Eochal):** For those seeking a less strenuous way to explore, the Hwaseong Trolley offers a themed ride around key sections of the fortress, providing an audio guide in multiple languages. It departs from Yeonmudae and Paldalmun. Fares are approximately 4,000 KRW for adults.
+*   **Hwaseong Trolley (Hwaseong Eochal):** For those seeking a less strenuous way to explore, the Hwaseong Trolley offers a themed ride around key sections of the fortress, providing an audio guide in multiple languages. It departs from Yeonmudae and Paldalmun. Fares are approximately ₩4,000 for adults.
 
 ### Practical Visitor Information (2026 Estimates)
 
 Planning your visit requires some practical details to ensure a smooth experience.
 
 *   **Operating Hours:** The fortress walls are generally open 24/7. However, specific attractions like Hwaseong Haenggung Palace have defined hours, typically 9:00 AM - 6:00 PM (last admission at 5:30 PM), with slightly extended hours in summer and shorter in winter. Please verify current hours closer to your travel date.
-*   **Entrance Fees:** Access to the fortress walls themselves is free. There is a separate entrance fee for Hwaseong Haenggung Palace (approx. 1,500 KRW for adults) and some specific attractions or experiences like the Hwaseong Trolley or archery. A combined ticket for Hwaseong Haenggung and the trolley might be available, offering a slight discount.
+*   **Entrance Fees:** Access to the fortress walls themselves is free. There is a separate entrance fee for Hwaseong Haenggung Palace (approx. ₩1,500 for adults) and some specific attractions or experiences like the Hwaseong Trolley or archery. A combined ticket for Hwaseong Haenggung and the trolley might be available, offering a slight discount.
 *   **Guided Tours:** Free guided tours in English are often available at Hwaseong Haenggung. Check the Suwon Cultural Foundation website for schedules and booking information. Audio guides are also typically available for rent.
 *   **Visitor Center:** Located near Hwaseomun, it provides maps, brochures, and assistance.
 
@@ -152,10 +152,10 @@ Here's an example of guided tour options you might find:
 | Tour Option               | Duration      | Highlights                                                                         | Estimated Cost (2026) | Notes                                                                                   |
 | :------------------------ | :------------ | :--------------------------------------------------------------------------------- | :-------------------- | :-------------------------------------------------------------------------------------- |
 | Self-Guided Wall Walk     | 2-3 hours     | Complete fortress loop, panoramic views, historical markers.                       | Free (except Haenggung) | Requires good walking shoes, map/audio guide recommended.                               |
-| Hwaseong Trolley Tour     | 40-60 minutes | Covers key sections like Janganmun, Hwaseomun, Yeonmudae with audio commentary.     | 4,000 KRW             | Good for those with limited mobility or time, provides an overview.                     |
-| Hwaseong Haenggung Tour   | 1-1.5 hours   | Detailed exploration of the temporary palace, royal life, cultural performances.   | 1,500 KRW             | Includes English guided tours (check schedule), insightful for King Jeongjo's personal story. |
-| Archery Experience        | 30 minutes    | Hands-on traditional archery at Yeonmudae.                                         | 2,000 KRW             | Fun activity, suitable for all ages, no prior experience needed.                       |
-| Full Day Suwon Hwaseong & Folk Village Tour | 8-9 hours     | Includes fortress, Hwaseong Haenggung, and Korean Folk Village (outside Suwon).    | 70,000-100,000 KRW    | Package tour from Seoul, good for comprehensive cultural immersion.                   |
+| Hwaseong Trolley Tour     | 40-60 minutes | Covers key sections like Janganmun, Hwaseomun, Yeonmudae with audio commentary.     | ₩4,000             | Good for those with limited mobility or time, provides an overview.                     |
+| Hwaseong Haenggung Tour   | 1-1.5 hours   | Detailed exploration of the temporary palace, royal life, cultural performances.   | ₩1,500             | Includes English guided tours (check schedule), insightful for King Jeongjo's personal story. |
+| Archery Experience        | 30 minutes    | Hands-on traditional archery at Yeonmudae.                                         | ₩2,000             | Fun activity, suitable for all ages, no prior experience needed.                       |
+| Full Day Suwon Hwaseong & Folk Village Tour | 8-9 hours     | Includes fortress, Hwaseong Haenggung, and Korean Folk Village (outside Suwon).    | ₩70,000 - ₩100,000    | Package tour from Seoul, good for comprehensive cultural immersion.                   |
 
 ## Insider Tips for a Deeper Experience
 
@@ -205,7 +205,7 @@ Yes, you can! The entire fortress wall loop is approximately 5.7 kilometers long
 The most convenient and economical way is by Seoul Metropolitan Subway Line 1 (dark blue line) directly to Suwon Station. The journey takes about an hour from central Seoul. From Suwon Station, you can easily take a local bus (numerous routes go directly to the fortress gates or Hwaseong Haenggung) or a short taxi ride to your desired starting point within the fortress area.
 
 ### 5. Are there any entrance fees for Suwon Hwaseong Fortress?
-Access to the magnificent fortress walls themselves is generally free of charge. However, there are separate, modest entrance fees for specific attractions within the fortress area. The main site with an admission fee is Hwaseong Haenggung Palace, which costs approximately 1,500 KRW for adults. Activities like the Hwaseong Trolley ride or the traditional archery experience also have separate charges. A combined pass might be available for multiple attractions.
+Access to the magnificent fortress walls themselves is generally free of charge. However, there are separate, modest entrance fees for specific attractions within the fortress area. The main site with an admission fee is Hwaseong Haenggung Palace, which costs approximately ₩1,500 for adults. Activities like the Hwaseong Trolley ride or the traditional archery experience also have separate charges. A combined pass might be available for multiple attractions.
 
 ## Conclusion: Embrace the King Jeongjo Legacy in Suwon 2026
 

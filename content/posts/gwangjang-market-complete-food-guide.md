@@ -4,6 +4,16 @@ date: 2026-01-09
 excerpt: "Discover the ultimate Gwangjang Market food guide featuring top stalls, prices, operating hours, and local tips for Seoul's oldest traditional market."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Banking"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 Gwangjang Market is not just a market; it is the beating culinary heart of Seoul. Established in 1905, making it over 120 years old, this sprawling complex is the nation's first permanent traditional market. While it sells textiles and vintage clothing, 90% of international visitors flock here for one reason: the "Meokjagolmok" (Food Alley).
@@ -77,7 +87,7 @@ As you walk through the central intersection, you will hear the grinding of trad
   tip="Buy a bottle of Makgeolli (rice wine) to cut through the grease."
 />
 
-**Cost Analysis:** As of early 2026, the price for one Bindaetteok has stabilized at 5,000 KRW (approx. $3.80 USD). The meatball version (Wanjajeon) usually costs the same or slightly more. This makes it one of the most caloric-dense value meals in Seoul.
+**Cost Analysis:** As of early 2026, the price for one Bindaetteok has stabilized at ₩5,000 (approx. $3.80 USD). The meatball version (Wanjajeon) usually costs the same or slightly more. This makes it one of the most caloric-dense value meals in Seoul.
 
 ### 2. Yukhoe (Beef Tartare)
 
@@ -102,7 +112,7 @@ For the adventurous gourmet, "Yukhoe" is non-negotiable. This is raw beef, seaso
 
 Despite the name, there are no illegal substances here. "Mayak" means drug/narcotic, implying these bite-sized seaweed rice rolls are addictive. Unlike standard Gimbap, these are mini-rolls filled only with carrot, pickled radish, and spinach. The secret lies in the dipping sauce—a mixture of soy sauce and spicy mustard (hot mustard).
 
-**Portion and Price:** A standard serving contains 6 to 8 mini rolls and costs 4,000 KRW ($3.00 USD). You will find these sold at almost every stall, but look for the vendors who brush the sesame oil on right before serving.
+**Portion and Price:** A standard serving contains 6 to 8 mini rolls and costs ₩4,000 ($3.00 USD). You will find these sold at almost every stall, but look for the vendors who brush the sesame oil on right before serving.
 
 <StepGuide
   title="How to Eat Mayak Gimbap Like a Pro"
@@ -131,7 +141,7 @@ The noodles are hand-cut on the spot. The broth is anchovy-based, deep, and savo
   source="Local Observation Jan 2026"
 />
 
-**The Verdict:** Is it worth the wait? Yes, if you value the story and the atmosphere. However, purely culinary-speaking, there are 5 other stalls within 20 meters serving comparable noodles for the same price of 7,000 KRW ($5.30 USD) with zero wait time.
+**The Verdict:** Is it worth the wait? Yes, if you value the story and the atmosphere. However, purely culinary-speaking, there are 5 other stalls within 20 meters serving comparable noodles for the same price of ₩7,000 ($5.30 USD) with zero wait time.
 
 <InfoBox type="tip" title="Alternate Option">
   If the line at Stall #70 is too long, head to **Stall #41**. Their Kimchi Mandu (dumplings) are widely considered by locals to be spicier and more flavorful, and you can usually sit down immediately.
@@ -142,12 +152,12 @@ The noodles are hand-cut on the spot. The broth is anchovy-based, deep, and savo
 Once you have covered the basics, explore the dishes that older Korean locals are actually eating. These dishes offer a deeper dive into Korean gastronomy.
 
 ### Soondae (Blood Sausage)
-At Gwangjang, the Soondae is "Grandma style"—massive, thick sausages stuffed with glass noodles and pig's blood, steamed to perfection. A serving costs roughly 8,000 KRW. Unlike the factory-made versions sold at convenience stores, these are handmade and have a rich, earthy flavor.
+At Gwangjang, the Soondae is "Grandma style"—massive, thick sausages stuffed with glass noodles and pig's blood, steamed to perfection. A serving costs roughly ₩8,000. Unlike the factory-made versions sold at convenience stores, these are handmade and have a rich, earthy flavor.
 
 ### Kkwabaegi (Twisted Donuts)
 Located at the entrance of the market (North Gate), **Gwangjang Kkwabaegi** creates lines that block traffic. These donuts are made with glutinous rice flour, dusted with sugar and cinnamon.
 
-*   **Price:** 1,000 KRW ($0.75 USD) per donut.
+*   **Price:** ₩1,000 ($0.75 USD) per donut.
 *   **Wait Time:** 20-30 minutes.
 *   **Throughput:** They sell over 2,000 donuts on a typical Saturday.
 
@@ -173,7 +183,7 @@ Most seating consists of heated benches attached directly to the stall. You will
 
 ### Payment Methods
 While Korea is a credit-card-heavy society, traditional markets are the exception.
-*   **Cash:** Essential. Carry 10,000 KRW and 1,000 KRW bills.
+*   **Cash:** Essential. Carry ₩10,000 and ₩1,000 bills.
 *   **Bank Transfer:** Locals use direct bank transfers via mobile apps, but this is inaccessible to most tourists.
 *   **Credit Cards:** Accepted at larger restaurants (like Buchon Yukhoe) but rarely at the open-air stalls.
 
@@ -192,7 +202,7 @@ While Korea is a credit-card-heavy society, traditional markets are the exceptio
 
 Seoul has become more expensive in recent years, but Gwangjang Market remains a value destination. However, prices have risen approximately 15-20% between 2023 and 2026 due to ingredient inflation.
 
-A solo traveler can leave completely full for under 20,000 KRW ($15 USD). A couple sharing dishes can experience a feast for 35,000 KRW ($26 USD).
+A solo traveler can leave completely full for under ₩20,000 ($15 USD). A couple sharing dishes can experience a feast for ₩35,000 ($26 USD).
 
 <PriceTable
   title="Sample Budget for Two People"

@@ -4,6 +4,16 @@ date: 2026-01-20
 excerpt: "Explore the revitalized Ihwa Mural Village in Seoul. A complete 2026 guide to street art, Naksan Park views, and local cafe culture."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 Perched high on the slopes of Naksan Park, Ihwa Mural Village represents one of Seoul’s most fascinating cultural paradoxes. Once a slate-roofed "Moon Village" (daldongne) slated for demolition, it transformed into a vibrant canvas of Korean street art, only to face a struggle between overtourism and residential peace. As we step into 2026, Ihwa has reinvented itself yet again, finding a harmonious balance between being a living gallery and a quiet residential neighborhood.
@@ -58,7 +68,7 @@ Ihwa Mural Village is located in the Jongno District, roughly 450 meters uphill 
   difficulty="easy"
   steps={[
     { title: "Subway Arrival", description: "Take Line 4 (Light Blue) to Hyehwa Station. Exit 2 is your starting point.", tip: "Use the elevator near Exit 2 if you have luggage." },
-    { title: "Catch the Village Bus", description: "Walk straight for 50 meters to the bus stop near Marronnier Park. Look for the green 'Jongno 08' bus.", tip: "Bus fare is 1,200 KRW with a T-Money card." },
+    { title: "Catch the Village Bus", description: "Walk straight for 50 meters to the bus stop near Marronnier Park. Look for the green 'Jongno 08' bus.", tip: "Bus fare is ₩1,200 with a T-Money card." },
     { title: "Ride to the Top", description: "Ride the bus for approximately 10 minutes. Get off at the 'Naksan Park Museum' stop, which is the last stop.", tip: "This drops you at the top, allowing you to walk DOWN through the village." }
   ]}
 />
@@ -78,7 +88,7 @@ While the original angel wings were removed years ago due to overcrowding, new d
 Perhaps the most famous remaining installation is the silhouette sculpture of a man and his dog walking into the sky. It projects out from the hillside, symbolizing the dreams of the residents looking out over the city. It is located roughly 100 meters down from the Naksan Park entrance.
 
 ### Hidden Alley Galleries
-Small indoor galleries have popped up inside renovated homes. These often charge a small admission fee (typically 2,000 to 4,000 KRW) or require a beverage purchase. They showcase local resident art, bridging the gap between tourists and locals.
+Small indoor galleries have popped up inside renovated homes. These often charge a small admission fee (typically 2,000 to ₩4,000) or require a beverage purchase. They showcase local resident art, bridging the gap between tourists and locals.
 
 <ExpertTip 
   author="Min-ji Park"
@@ -108,10 +118,10 @@ The cafe scene in Ihwa is characterized by rooftop terraces offering some of the
 />
 
 ### Price Index for Cafe Hopping
-Expect to spend approximately **15,000 KRW to 20,000 KRW** per person if you plan to visit two cafes and buy a snack. 
-*   **Americano:** 5,500 KRW
-*   **Signature Latte:** 7,000 KRW
-*   **Slice of Cake:** 8,000 KRW
+Expect to spend approximately **₩15,000 to ₩20,000** per person if you plan to visit two cafes and buy a snack. 
+*   **Americano:** ₩5,500
+*   **Signature Latte:** ₩7,000
+*   **Slice of Cake:** ₩8,000
 
 ## The Korean School Uniform Experience
 
@@ -129,7 +139,7 @@ There are three major rental shops located near the entrance of the village (clo
 />
 
 <InfoBox type="tip" title="Rental Logistics">
-  Most rental shops require a valid ID (Passport) as a deposit. They close around 19:00, so ensure you return your gear on time to avoid late fees of roughly 5,000 KRW per 30 minutes.
+  Most rental shops require a valid ID (Passport) as a deposit. They close around 19:00, so ensure you return your gear on time to avoid late fees of roughly ₩5,000 per 30 minutes.
 </InfoBox>
 
 ## Naksan Park and The Seoul City Wall
@@ -185,7 +195,7 @@ Because a visit to Ihwa typically takes only 90 minutes to 2 hours, it is best p
 3.  **14:30 - 16:00:** Walk down through Ihwa Mural Village, taking photos.
 4.  **16:00 - 17:30:** Stop at a rooftop cafe for rest and views.
 5.  **17:30 - 18:30:** Walk down to the Daehangno theater district.
-6.  **19:00:** Dinner in Daehangno (Average meal cost: 12,000 - 18,000 KRW).
+6.  **19:00:** Dinner in Daehangno (Average meal cost: 12,000 - ₩18,000).
 
 <Timeline
   title="The Golden Hour Strategy"
@@ -200,9 +210,9 @@ Because a visit to Ihwa typically takes only 90 minutes to 2 hours, it is best p
 
 While there are no hotels directly inside the mural village (due to zoning laws), the base of the hill near Hyehwa Station offers excellent options.
 
-*   **Mayplace Hotel Seoul:** Located 1.5km away. Approximately 120,000 KRW/night.
-*   **Orakai Daehangno Hotel:** Located 1.2km away. Approximately 140,000 KRW/night.
-*   **Local Guesthouses:** Several hanok stays are available in the nearby Bukchon area, a 15-minute taxi ride (approx 8,000 KRW) away.
+*   **Mayplace Hotel Seoul:** Located 1.5km away. Approximately ₩120,000/night.
+*   **Orakai Daehangno Hotel:** Located 1.2km away. Approximately ₩140,000/night.
+*   **Local Guesthouses:** Several hanok stays are available in the nearby Bukchon area, a 15-minute taxi ride (approx ₩8,000) away.
 
 ## Final Thoughts on the 2026 Experience
 

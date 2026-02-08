@@ -139,7 +139,7 @@ Korean hospitals often have excellent physical therapy (재활치료 - *jaehwal-
 
 *   **Guided Rehabilitation:** A physical therapist (PT) will assess your progress, design a personalized exercise program, and guide you through safe movements. They can advise you on when it's safe to resume **gym** activities and which specific exercises are appropriate.
 *   **Specialized Clinics:** Beyond hospitals, many independent PT clinics (*cheonghyeong-oe-gwa uiwon* - often combined with orthopedic doctors) offer rehabilitation services, particularly in cities like Seoul and Busan. You might need a referral from your surgeon.
-*   **Cost:** Physical therapy sessions can vary, but for international patients, it's advisable to check with your insurance provider. A typical session might range from 50,000 KRW to 150,000 KRW or more depending on the clinic and intensity.
+*   **Cost:** Physical therapy sessions can vary, but for international patients, it's advisable to check with your insurance provider. A typical session might range from ₩50,000 to ₩150,000 or more depending on the clinic and intensity.
 
 Here's a table outlining safe gym activities post-op:
 
@@ -178,10 +178,10 @@ Not all gyms are created equal for post-op recovery.
 
 Gym prices in Korea vary significantly.
 
-*   **Public Facilities:** *Bogeonso* facilities can be as low as 10,000-30,000 KRW per month.
-*   **Local Gyms:** Mid-range gyms might cost 50,000-100,000 KRW per month, often with discounts for longer commitments.
-*   **Premium Chains/Hotel Gyms:** Can range from 100,000 KRW to 300,000 KRW+ per month.
-*   **Personal Training:** Expect 50,000-100,000 KRW per session, often with package deals.
+*   **Public Facilities:** *Bogeonso* facilities can be as low as ₩10,000 - ₩30,000 per month.
+*   **Local Gyms:** Mid-range gyms might cost ₩50,000 - ₩100,000 per month, often with discounts for longer commitments.
+*   **Premium Chains/Hotel Gyms:** Can range from ₩100,000 to ₩300,000+ per month.
+*   **Personal Training:** Expect ₩50,000 - ₩100,000 per session, often with package deals.
 
 Consider short-term memberships or day passes initially if you're not sure how long your recovery will take or if you're only in Korea for a limited time.
 
@@ -189,10 +189,10 @@ Here's a comparison table of gym types for post-op recovery:
 
 | Gym Type           | Suitability for Early Post-Op | Pros                                    | Cons                                      | Cost (Monthly Est.) |
 | :----------------- | :---------------------------- | :-------------------------------------- | :---------------------------------------- | :------------------ |
-| **Public Health Ctr.** | High                          | Quiet, affordable, basic equipment, safe | Limited English, less specialized equip.  | 10,000-30,000 KRW   |
-| **Small Studios (Pilates/Yoga)** | High (if rehab-focused) | Personalized attention, expert guidance | Higher cost, limited equipment beyond focus | 150,000-300,000 KRW |
+| **Public Health Ctr.** | High                          | Quiet, affordable, basic equipment, safe | Limited English, less specialized equip.  | ₩10,000 - ₩30,000   |
+| **Small Studios (Pilates/Yoga)** | High (if rehab-focused) | Personalized attention, expert guidance | Higher cost, limited equipment beyond focus | ₩150,000 - ₩300,000 |
 | **Hotel Gym**      | Moderate                      | Convenient, often quiet                 | Limited equipment, no staff guidance      | Often included/high |
-| **Commercial Gyms** | Moderate-Low                  | Wide equipment range, flexible hours    | Busy, less personal attention, language   | 50,000-150,000 KRW  |
+| **Commercial Gyms** | Moderate-Low                  | Wide equipment range, flexible hours    | Busy, less personal attention, language   | ₩50,000 - ₩150,000  |
 
 ### Special Considerations for Specific Procedures
 

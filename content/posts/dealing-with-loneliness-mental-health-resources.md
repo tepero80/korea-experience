@@ -4,6 +4,16 @@ date: 2026-01-06
 excerpt: "Discover comprehensive mental health resources in Korea. From English speaking therapists to crisis hotlines, find support for dealing with loneliness."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Budget Travel"
+  - "Busan"
+readTime: "10 min read"
+featured: false
 ---
 
 Moving to South Korea is often portrayed as a neon-lit adventure filled with endless culinary delights and efficient public transport. However, once the initial adrenaline of landing at Incheon International Airport fades, a quiet reality often sets in. For many international residents, the "foreigner bubble" can quickly transform from a safety net into a wall of isolation. Dealing with loneliness is a significant challenge for expats, but you are not alone, and there is a robust infrastructure of mental health resources available if you know where to look.
@@ -101,7 +111,7 @@ Most international clinics operate on a scheduled appointment basis. The average
 
 Financial concerns often deter people from seeking help. The cost structure in Korea is dualistic: National Health Insurance (NHIS) versus Private/Out-of-Pocket.
 
-If you are employed in Korea, you are likely enrolled in the NHIS. Using this at a local psychiatrist (who can prescribe medication) is incredibly affordable. A standard consultation with medication might cost between 15,000 KRW and 25,000 KRW ($11-$19 USD).
+If you are employed in Korea, you are likely enrolled in the NHIS. Using this at a local psychiatrist (who can prescribe medication) is incredibly affordable. A standard consultation with medication might cost between ₩15,000 and ₩25,000 ($11-$19 USD).
 
 However, counseling centers (psychotherapy) often operate outside the insurance system.
 
@@ -145,7 +155,7 @@ You must actively seek out "Third Places"—locations that are neither work nor 
 ### Interest-Based Groups
 The app "Meetup" is active in Korea, but Naver Café and KakaoTalk Open Chats are where the locals and long-term expats congregate.
 *   **Running Crews:** The Han River running groups meet usually at 7:30 PM on weekdays near Yeouido or Banpo Hangang Park.
-*   **Language Exchange:** While hit-or-miss, these events often take place in cafes in Hongdae or Gangnam. Entry usually costs the price of a drink (approx. 6,000 KRW).
+*   **Language Exchange:** While hit-or-miss, these events often take place in cafes in Hongdae or Gangnam. Entry usually costs the price of a drink (approx. ₩6,000).
 
 <ProsCons
   title="Language Exchange Apps (HelloTalk/Meeff)"
@@ -190,7 +200,7 @@ If your doctor prescribes medication, the process in Korea is incredibly efficie
 
 1.  **Prescription:** You receive a paper prescription from the clinic.
 2.  **Dispensing:** Hand it to the pharmacist. They will package your pills in individual daily packets (morning, lunch, dinner).
-3.  **Cost:** With NHIS, a month's supply of standard antidepressants or anti-anxiety medication typically costs under 15,000 KRW ($11 USD).
+3.  **Cost:** With NHIS, a month's supply of standard antidepressants or anti-anxiety medication typically costs under ₩15,000 ($11 USD).
 
 <Timeline
   title="Clinic Visit Process"
@@ -216,7 +226,7 @@ The most important data point to remember is this: The expat community in Korea 
   title="Frequently Asked Questions"
   items={[
     { question: "Will visiting a psychiatrist affect my visa status?", answer: " generally, no. Medical records are private. Unless you are applying for very specific visas (like E-2 teaching visas that require a health check), standard visits do not trigger immigration alerts. However, severe diagnoses requiring hospitalization may be reviewed during renewals." },
-    { question: "How much does therapy cost without insurance?", answer: "Without Korean National Health Insurance, expect to pay between 120,000 KRW and 200,000 KRW ($90-$150 USD) per 50-minute session at an English-speaking private clinic." },
+    { question: "How much does therapy cost without insurance?", answer: "Without Korean National Health Insurance, expect to pay between ₩120,000 and ₩200,000 ($90-$150 USD) per 50-minute session at an English-speaking private clinic." },
     { question: "Can I bring my own antidepressants to Korea?", answer: "Yes, but you must bring the original prescription and a doctor's note. You are generally limited to a 3-month supply. Psychotropics (amphetamines) require special permission from the Narcotics Control Division." },
     { question: "Is online therapy like BetterHelp legal to use in Korea?", answer: "Yes, you can use international telehealth platforms. Just be mindful of the time zone difference and ensure your connection is stable." },
     { question: "Do university hospitals offer psychiatric care for foreigners?", answer: "Yes, major hospitals like Severance (Yonsei) and Seoul St. Mary's have International Healthcare Centers. The wait times are longer (2-4 weeks), but the care is top-tier." }

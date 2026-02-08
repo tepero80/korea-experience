@@ -155,7 +155,7 @@ While the **E-2 Visa process** is straightforward on paper, real-world applicati
 
 #### Financial Considerations
 
-*   **Tip:** Save enough money for initial expenses. You'll need funds for your flight, initial settling-in costs (food, transportation), and until your first paycheck (which could be a month or more after arrival). A typical safe amount is around 2,000,000 to 3,000,000 Korean Won (KRW).
+*   **Tip:** Save enough money for initial expenses. You'll need funds for your flight, initial settling-in costs (food, transportation), and until your first paycheck (which could be a month or more after arrival). A typical safe amount is around 2,000,000 to 3,000,000 Korean Won (₩).
 *   **Tip:** Understand that some schools provide housing, while others offer a housing allowance. If housing isn't provided, you'll need funds for key money (Jeonse/Wolse deposit, **Jeonse** is a large, refundable lump sum deposit, while **Wolse** involves a smaller deposit and monthly rent).
 
 #### Adapting to Korean Work Culture
@@ -176,8 +176,8 @@ Once your **E-2 Visa process** is complete and you're settled, a vibrant new lif
 #### Finding Accommodation
 
 Many Hagwons provide accommodation, usually a small studio apartment (Officetel or Goshiwon). If not, you'll need to find your own.
-*   **Jeonse (전세):** A lump-sum deposit (often tens or hundreds of millions of KRW) returned at the end of the lease, with no monthly rent. Requires significant savings.
-*   **Wolse (월세):** A smaller deposit (typically 5-20 million KRW) plus monthly rent. More common for expats.
+*   **Jeonse (전세):** A lump-sum deposit (often tens or hundreds of millions of ₩) returned at the end of the lease, with no monthly rent. Requires significant savings.
+*   **Wolse (월세):** A smaller deposit (typically 5-₩20 million) plus monthly rent. More common for expats.
 *   **Tip:** Utilize real estate agents (**Budongsan**) but be prepared for high deposits. Expat Facebook groups often have housing listings without key money requirements, especially for short-term stays.
 
 #### Setting Up Your Life
@@ -201,13 +201,13 @@ Salaries for E-2 visa holders are generally competitive enough to live comfortab
 
 | Category               | Hagwon Teacher (Entry-level) | Public School Teacher (EPIK) | Seoul (Mid-range) | Busan (Mid-range) |
 | :--------------------- | :--------------------------- | :--------------------------- | :---------------- | :---------------- |
-| **Salary (KRW)**       | 2,100,000 - 2,500,000        | 2,000,000 - 2,700,000        | N/A               | N/A               |
+| **Salary (₩)**       | 2,100,000 - 2,500,000        | 2,000,000 - 2,700,000        | N/A               | N/A               |
 | **Rent (provided)**    | Often provided               | Often provided               | N/A               | N/A               |
 | **Rent (if not provided)** | 500,000 - 800,000            | 400,000 - 700,000            | 600,000 - 1,000,000 | 500,000 - 800,000 |
 | **Utilities**          | 100,000 - 150,000            | 100,000 - 150,000            | 100,000 - 150,000 | 80,000 - 120,000  |
 | **Food & Groceries**   | 400,000 - 600,000            | 400,000 - 600,000            | 500,000 - 700,000 | 400,000 - 600,000 |
 | **Transportation**     | 50,000 - 100,000             | 50,000 - 100,000             | 70,000 - 120,000  | 60,000 - 100,000  |
-| **Total Living Costs (KRW)** | 1,050,000 - 1,650,000 (if rent provided) | 1,050,000 - 1,650,000 (if rent provided) | 1,270,000 - 1,970,000 | 1,080,000 - 1,620,000 |
+| **Total Living Costs (₩)** | 1,050,000 - 1,650,000 (if rent provided) | 1,050,000 - 1,650,000 (if rent provided) | 1,270,000 - 1,970,000 | 1,080,000 - 1,620,000 |
 *(Note: These are general estimates and can vary significantly based on lifestyle, location, and individual choices.)*
 
 ### Estimated Initial Costs for Moving to Korea

@@ -4,6 +4,16 @@ date: 2026-01-09
 excerpt: "Discover the ultimate guide to gluten free dining in Korea with celiac safe options, restaurant recommendations, and essential travel tips for 2026."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Busan"
+readTime: "11 min read"
+featured: false
 ---
 
 South Korea has long been considered one of the most challenging destinations for travelers with celiac disease or severe gluten intolerance. The culinary landscape here is dominated by *Ganjang* (soy sauce) and *Gochujang* (red chili paste), both of which traditionally rely on wheat as a primary fermentation starter. However, the narrative is changing rapidly. As we move through 2026, Seoul and other major Korean cities are seeing a surge in health-conscious dining, leading to a small but dedicated ecosystem of gluten-free establishments.
@@ -62,7 +72,7 @@ Plant has been a pioneer in the plant-based scene, but they are also a haven for
   rating={4.8}
   transit="Itaewon Station (Line 6), Exit 4, 7 min walk"
   highlights={["Hummus Salad Bowls", "GF Lentil Burrito Bowls", "English Speaking Staff"]}
-  tip="The Lentil Bowl costs approx. 14,500 KRW and is highly filling."
+  tip="The Lentil Bowl costs approx. ₩14,500 and is highly filling."
 />
 
 ### 2. Sunny Bread (Seongsu-dong)
@@ -95,7 +105,7 @@ Sunny Bread is arguably the most famous gluten-free bakery in Korea. The owner h
 ### 3. Jyoti Indian Restaurant (Sinchon)
 When you need a break from navigating Korean ingredients, Indian cuisine is a safe harbor. Jyoti uses chickpea flour (besan) for many dishes and offers excellent curries naturally free of gluten.
 
-*   **Average Cost:** 15,000 - 25,000 KRW per person.
+*   **Average Cost:** 15,000 - ₩25,000 per person.
 *   **Safety:** Stick to rice-based dishes and avoid Naan. Their Tandoori chicken is generally safe, but verify the marinade does not use commercial soy sauce (rare in Indian cooking, but ask).
 
 ## Traditional Korean Food: What Is Safe?
@@ -135,7 +145,7 @@ Bibimbap consists of rice, vegetables, egg, and meat. The danger is the *Gochuja
 ### Soup Dishes (Proceed with Caution)
 Most red soups are off-limits due to Gochujang. Clear soups are safer but often use soy sauce for seasoning.
 *   **Samgyetang (Ginseng Chicken Soup):** This is often the safest traditional soup. It is a whole chicken stuffed with glutinous rice (which is gluten-free despite the name), garlic, and dates.
-*   **Check:** Verify they do not add wheat flour to thicken the broth (common in cheaper places). A bowl typically costs between 18,000 and 22,000 KRW.
+*   **Check:** Verify they do not add wheat flour to thicken the broth (common in cheaper places). A bowl typically costs between 18,000 and ₩22,000.
 
 <ExpertTip 
   author="Ji-min Kim"
@@ -169,9 +179,9 @@ In Korea, convenience stores (CU, GS25, 7-Eleven, Emart24) are everywhere—lite
   columns={3}
 />
 
-*   **Roasted Eggs:** usually 2,000 KRW for a pack of two.
-*   **Bananas:** 1,500 KRW per piece.
-*   **Microwavable Rice:** 1,800 KRW. (Check ingredients, but most "Hat-ban" white rice is safe).
+*   **Roasted Eggs:** usually ₩2,000 for a pack of two.
+*   **Bananas:** ₩1,500 per piece.
+*   **Microwavable Rice:** ₩1,800. (Check ingredients, but most "Hat-ban" white rice is safe).
 *   **Warning:** Processed sausages and crab sticks (mat-sal) almost always contain wheat.
 
 ## Beyond Seoul: Busan and Jeju
@@ -179,7 +189,7 @@ In Korea, convenience stores (CU, GS25, 7-Eleven, Emart24) are everywhere—lite
 ### Busan
 Busan, Korea's second-largest city, is famous for seafood.
 *   **Jagalchi Market:** You can buy fresh seafood downstairs and have it steamed upstairs. Steaming is the safest method. Ensure they do not add soy sauce to the steamer.
-*   **Distance:** Busan is 2.5 hours from Seoul via KTX (approx. 59,800 KRW one way).
+*   **Distance:** Busan is 2.5 hours from Seoul via KTX (approx. ₩59,800 one way).
 
 ### Jeju Island
 Jeju is excellent for fresh produce and seafood.

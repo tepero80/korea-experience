@@ -46,7 +46,7 @@ The standard contribution rate for the National Pension Service is currently set
 
 Your NPS contributions are not based on your gross salary, but rather on your "standard monthly income." This is typically your average monthly earnings, excluding certain irregular payments like overtime, bonuses, or severance pay. There are minimum and maximum income thresholds for calculation.
 
-For example, if your standard monthly income is 3,000,000 Korean Won (KRW), the total monthly contribution to the NPS would be 9% of this amount, which is 270,000 KRW.
+For example, if your standard monthly income is 3,000,000 Korean Won (₩), the total monthly contribution to the NPS would be 9% of this amount, which is ₩270,000.
 
 ### Employer and Employee Shares
 
@@ -55,21 +55,21 @@ A significant aspect of the NPS contribution system is the sharing of the burden
 *   **Employee Share:** 4.5% of your standard monthly income, which is directly deducted from your salary.
 *   **Employer Share:** 4.5% of your standard monthly income, which the employer pays in addition to your salary.
 
-Using our previous example of a 3,000,000 KRW standard monthly income:
-*   Your monthly deduction: 135,000 KRW (4.5% of 3,000,000 KRW)
-*   Your employer's contribution: 135,000 KRW (4.5% of 3,000,000 KRW)
-*   Total contribution to your NPS account: 270,000 KRW
+Using our previous example of a ₩3,000,000 standard monthly income:
+*   Your monthly deduction: ₩135,000 (4.5% of ₩3,000,000)
+*   Your employer's contribution: ₩135,000 (4.5% of ₩3,000,000)
+*   Total contribution to your NPS account: ₩270,000
 
 ### Income Thresholds and Maximum Contributions
 
 The NPS system includes minimum and maximum standard monthly income limits for contribution calculation. These thresholds are adjusted periodically, usually annually.
 
-As of recent adjustments (e.g., in 2023/2024), the approximate minimum standard monthly income for calculation is around 370,000 KRW, and the maximum is approximately 5,900,000 KRW. This means:
+As of recent adjustments (e.g., in 2023/2024), the approximate minimum standard monthly income for calculation is around ₩370,000, and the maximum is approximately ₩5,900,000. This means:
 
 *   If your standard monthly income is below the minimum, your contribution will be based on the minimum threshold.
 *   If your standard monthly income exceeds the maximum, your contribution will be capped at the maximum threshold.
 
-For example, an employee with a standard monthly income of 7,000,000 KRW would still have their 4.5% contribution calculated based on the 5,900,000 KRW maximum, resulting in a deduction of 265,500 KRW (4.5% of 5,900,000 KRW). This ensures a degree of fairness and predictability in the system.
+For example, an employee with a standard monthly income of ₩7,000,000 would still have their 4.5% contribution calculated based on the ₩5,900,000 maximum, resulting in a deduction of ₩265,500 (4.5% of ₩5,900,000). This ensures a degree of fairness and predictability in the system.
 
 Here's a quick overview of the contribution rates:
 

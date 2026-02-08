@@ -4,6 +4,16 @@ date: 2026-01-04
 excerpt: "A comprehensive guide comparing teardrop vs round implants in Korean plastic surgery, analyzing costs, 2026 trends, and the rise of Motiva Ergonomix."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Autumn"
+  - "Botox"
+readTime: "14 min read"
+featured: false
 ---
 
 When patients consider breast augmentation in South Korea, the primary decision beyond choosing a surgeon is selecting the implant shape: teardrop (anatomical) or round. While round implants provide fullness in the upper pole for a lifted look, teardrop implants are designed to mimic the natural slope of the breast, offering a more subtle enhancement. However, the landscape of Korean plastic surgery in 2026 has evolved significantly with the dominance of "hybrid" implants like Motiva Ergonomix, which change shape based on gravity, effectively bridging the gap between the two traditional categories.
@@ -118,7 +128,7 @@ For those planning their logistics, choosing the right accommodation is vital. Y
 
 Pricing in Korea is generally 30-50% lower than in the United States, but higher than in Thailand. The variation in price depends largely on the implant brand and the complexity of the case (e.g., if a breast lift is also needed).
 
-In 2026, the exchange rate fluctuates, but roughly 1,400 KRW = 1 USD. The prices below are estimates for the surgery package, often including anesthesia, interpreter services, and airport pickup for premium packages.
+In 2026, the exchange rate fluctuates, but roughly ₩1,400 = 1 USD. The prices below are estimates for the surgery package, often including anesthesia, interpreter services, and airport pickup for premium packages.
 
 <PriceTable
   title="Implant Price Comparison (Seoul 2026)"

@@ -29,10 +29,10 @@ Seoul, as the nation's capital, is a natural starting point for any exploration 
 One of Korea's oldest and largest traditional markets, Gwangjang Market transforms into a bustling food paradise every evening. Known for its lively atmosphere and iconic dishes, it's a must-visit for any food enthusiast. The market is particularly famous for its communal dining experience, where strangers share tables and stories over steaming plates.
 
 *   **Must-Try Foods:**
-    *   **Bindaetteok (Mung Bean Pancake):** Crispy on the outside, soft on the inside, these savory pancakes are fried to perfection. Often served with a soy-vinegar dipping sauce and chopped onions. Prices typically range from 5,000 to 10,000 KRW per pancake.
-    *   **Mayak Gimbap (Drug Gimbap):** Named for its addictively delicious taste, these mini seaweed rice rolls are served with a spicy mustard dipping sauce. A small plate usually costs around 3,000 to 5,000 KRW.
-    *   **Sundae (Korean Blood Sausage):** A unique Korean delicacy, often served with steamed pig intestines and liver. You can find both the traditional steamed variety and stir-fried sundae with vegetables. Prices vary but generally start from 7,000 KRW.
-    *   **Tteokbokki (Spicy Rice Cakes) and Odeng (Fish Cakes):** Staples of Korean street food, widely available and always satisfying. Expect to pay 3,000-5,000 KRW for a generous serving.
+    *   **Bindaetteok (Mung Bean Pancake):** Crispy on the outside, soft on the inside, these savory pancakes are fried to perfection. Often served with a soy-vinegar dipping sauce and chopped onions. Prices typically range from ₩5,000 to ₩10,000 per pancake.
+    *   **Mayak Gimbap (Drug Gimbap):** Named for its addictively delicious taste, these mini seaweed rice rolls are served with a spicy mustard dipping sauce. A small plate usually costs around ₩3,000 to ₩5,000.
+    *   **Sundae (Korean Blood Sausage):** A unique Korean delicacy, often served with steamed pig intestines and liver. You can find both the traditional steamed variety and stir-fried sundae with vegetables. Prices vary but generally start from ₩7,000.
+    *   **Tteokbokki (Spicy Rice Cakes) and Odeng (Fish Cakes):** Staples of Korean street food, widely available and always satisfying. Expect to pay ₩3,000 - ₩5,000 for a generous serving.
 *   **Vibe:** Bustling, authentic, communal, historic.
 *   **Location:** 88 Changgyeonggung-ro, Jongno 4-ga, Jongno-gu, Seoul. Easily accessible by subway (Jongno 5-ga Station, Exit 7 or 8).
 *   **Operating Hours:** Food stalls typically operate daily from 9:00 AM to 11:00 PM, though some close earlier.
@@ -61,7 +61,7 @@ Bupyeong Kkangtong Market (also known as Kkangtong Market) is a historical landm
 
 *   **Must-Try Foods:**
     *   **Eomuk (Busan Fish Cakes):** Busan is legendary for its fish cakes. You'll find them in various shapes and forms, often skewered and served in a hot broth.
-    *   **Ssiat Hotteok (Seed Hotteok):** A Busan specialty, this sweet pancake is filled with a brown sugar syrup and then stuffed with an assortment of seeds (sunflower, pumpkin, etc.) after frying, giving it a delightful crunch. A truly unique regional treat. Expect to pay around 1,500-2,000 KRW.
+    *   **Ssiat Hotteok (Seed Hotteok):** A Busan specialty, this sweet pancake is filled with a brown sugar syrup and then stuffed with an assortment of seeds (sunflower, pumpkin, etc.) after frying, giving it a delightful crunch. A truly unique regional treat. Expect to pay around ₩1,500 - ₩2,000.
     *   **Bibim Dangmyeon (Spicy Mixed Glass Noodles):** A simple yet flavorful dish of glass noodles tossed with a spicy sauce, vegetables, and fish cakes.
     *   **Chop Steak:** Tender steak pieces cooked on a griddle with vegetables, often served in a cup.
 *   **Vibe:** Lively, historic, diverse, great for people-watching.
@@ -73,7 +73,7 @@ Bupyeong Kkangtong Market (also known as Kkangtong Market) is a historical landm
 Adjacent to Bupyeong Kkangtong Market, Gukje Market (International Market) is another historic market that arose after the Korean War, acting as a major distribution point for various goods. While it’s renowned for shopping, its surrounding streets and alleys burst with street food vendors, especially in the evenings.
 
 *   **Must-Try Foods:**
-    *   **Dwaeji Gukbap (Pork Rice Soup):** While not exclusively a night market item, many stalls around Gukje Market specialize in this hearty Busan comfort food. It's a must-try, especially on a chilly evening. Prices around 7,000-9,000 KRW.
+    *   **Dwaeji Gukbap (Pork Rice Soup):** While not exclusively a night market item, many stalls around Gukje Market specialize in this hearty Busan comfort food. It's a must-try, especially on a chilly evening. Prices around ₩7,000 - ₩9,000.
     *   **Milmyeon (Busan Wheat Noodles):** A unique Busan noodle dish, similar to Naengmyeon (cold noodles) but made with wheat flour, served in a tangy, icy broth.
     *   **Grilled Shellfish:** Given Busan’s coastal location, you'll find plenty of fresh grilled seafood options.
 *   **Vibe:** Traditional, bustling, excellent for both food and souvenir hunting.
@@ -125,7 +125,7 @@ Jeju Island, Korea's volcanic island paradise, offers **night markets regional s
 Jeju Dongmun Traditional Market is the island's largest and oldest market. Its night market section is a relatively new but incredibly popular addition, drawing visitors with fresh seafood, island-specific produce, and creative street food.
 
 *   **Must-Try Foods:**
-    *   **Black Pork Skewers:** Jeju is famous for its black pork. You'll find succulent grilled black pork skewers, often served with unique island seasonings. Prices around 5,000-10,000 KRW.
+    *   **Black Pork Skewers:** Jeju is famous for its black pork. You'll find succulent grilled black pork skewers, often served with unique island seasonings. Prices around ₩5,000 - ₩10,000.
     *   **Fresh Seafood Sashimi and Grilled Seafood:** Given its island location, incredibly fresh seafood like abalone, octopus, and various fish are readily available, often grilled on the spot.
     *   **Jeju Citrus Delights:** From Hallabong (a type of tangerine) juice to citrus-flavored ice cream and traditional snacks.
     *   **Peanut Ice Cream (Udo Peanut):** While Udo Island is known for its peanuts, you can often find this specialty at Dongmun Market's night section, offering a sweet, nutty treat.
@@ -153,7 +153,7 @@ Exploring **Korea's night markets regional street food scenes** is an exhilarati
 ### Practical Tips for the Savvy Food Traveler
 
 *   **Go Hungry:** This is perhaps the most crucial tip! Portions can be generous, and you'll want to try as many different items as possible.
-*   **Bring Cash (Korean Won):** While some larger stalls or those in more tourist-heavy areas might accept card payments, many smaller vendors are cash-only. Having a good stash of 1,000, 5,000, and 10,000 KRW notes will make your transactions smoother.
+*   **Bring Cash (Korean Won):** While some larger stalls or those in more tourist-heavy areas might accept card payments, many smaller vendors are cash-only. Having a good stash of 1,000, 5,000, and ₩10,000 notes will make your transactions smoother.
 *   **Try Small Portions:** Many vendors offer smaller, sampler-sized portions, perfect for sharing and tasting a wider variety of foods without getting too full too quickly.
 *   **Embrace the Communal Experience:** Don't be shy about sitting at shared tables with locals. It's a great way to soak in the atmosphere and maybe even learn a few Korean phrases or get recommendations.
 *   **Use Public Transportation:** Most night markets are easily accessible by subway or bus. This avoids the hassle of parking and allows you to truly immerse yourself in the bustling environment.
@@ -181,7 +181,7 @@ Exploring **Korea's night markets regional street food scenes** is an exhilarati
 **A3:** While Korean cuisine is heavily meat and seafood-centric, you can find some vegetarian-friendly options. Look for dishes like Hoddeok (sweet pancakes, but confirm filling), Gyeranppang (egg bread), some types of Pajeon (savory pancakes – inquire about meat/seafood content), fresh fruit, or specific vegetable skewers. Vegan options are more challenging as many broths and sauces contain meat or fish products.
 
 ### Q4: How much does street food typically cost at Korean night markets?
-**A4:** Most individual street food items range from 3,000 KRW to 10,000 KRW (approximately $2.50 to $8 USD), depending on the item and size. Larger, more gourmet items like grilled lobster might be more expensive. You can enjoy a satisfying meal with a variety of dishes for 15,000 KRW to 25,000 KRW per person.
+**A4:** Most individual street food items range from ₩3,000 to ₩10,000 (approximately $2.50 to $8 USD), depending on the item and size. Larger, more gourmet items like grilled lobster might be more expensive. You can enjoy a satisfying meal with a variety of dishes for ₩15,000 to ₩25,000 per person.
 
 ### Q5: Are night markets safe for solo travelers?
 **A5:** Yes, Korean night markets are generally very safe, even for solo travelers. Korea has a low crime rate, and the markets are bustling with people, creating a lively and secure environment. As with any crowded place, it's always wise to be aware of your belongings, but you can feel comfortable exploring them alone.

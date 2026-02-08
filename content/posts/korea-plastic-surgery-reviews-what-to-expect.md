@@ -207,7 +207,7 @@ Check the visa requirements for South Korea based on your nationality well in ad
 ### Finances and Payment
 
 *   **Payment Methods:** Clinics typically accept major credit cards (Visa, Mastercard, American Express) and international bank transfers. Confirm acceptable payment methods and any transaction fees.
-*   **Currency Exchange:** While credit cards are widely accepted, having some Korean Won (KRW) for smaller purchases or emergencies is advisable. Exchange at banks or official money changers.
+*   **Currency Exchange:** While credit cards are widely accepted, having some Korean Won (₩) for smaller purchases or emergencies is advisable. Exchange at banks or official money changers.
 *   **Negotiation:** While package deals might be offered, surgical costs are generally fixed. Attempting to haggle over procedure prices is not customary in medical settings in Korea.
 
 ### Health and Travel Insurance

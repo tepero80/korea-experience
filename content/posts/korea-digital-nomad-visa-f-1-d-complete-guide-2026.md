@@ -43,7 +43,7 @@ Meeting the specific eligibility criteria is paramount for a successful applicat
 
 ### Financial Stability Proof
 This is one of the most critical aspects. Applicants must prove they have sufficient funds to support themselves (and any accompanying family members) during their stay without needing to seek local employment.
-*   **Minimum Income Threshold**: For 2026, the projected minimum annual income threshold is approximately 80 million Korean Won (KRW), which is roughly equivalent to USD 60,000-65,000, depending on exchange rates. This figure is typically set at twice the Korean gross national income (GNI) per capita.
+*   **Minimum Income Threshold**: For 2026, the projected minimum annual income threshold is approximately 80 million Korean Won (₩), which is roughly equivalent to USD 60,000-65,000, depending on exchange rates. This figure is typically set at twice the Korean gross national income (GNI) per capita.
 *   **Proof of Funds**: This can be demonstrated through bank statements, employment contracts, and tax returns covering the past 6-12 months. Documents must clearly show consistent income well above the minimum threshold.
 
 ### Employment Status and Documentation
@@ -55,7 +55,7 @@ This is one of the most critical aspects. Applicants must prove they have suffic
     *   **Business Registration**: For self-employed individuals, proof of business registration in your home country or country of operation.
 
 ### Health and Criminal Record Checks
-*   **Health Insurance**: Mandatory proof of comprehensive private health insurance coverage for your entire intended stay in Korea, with a minimum coverage value typically around KRW 100 million (approximately USD 75,000-80,000) for medical evacuation and treatment.
+*   **Health Insurance**: Mandatory proof of comprehensive private health insurance coverage for your entire intended stay in Korea, with a minimum coverage value typically around ₩100 million (approximately USD 75,000-80,000) for medical evacuation and treatment.
 *   **Clean Criminal Record**: A certificate of good conduct or a criminal record check from your home country and any country where you have resided for more than six months in the past five years. This is a non-negotiable requirement.
 
 ### Table: F-1-D Visa vs. Other Common Visa Types (2026 Projections)
@@ -65,7 +65,7 @@ This is one of the most critical aspects. Applicants must prove they have suffic
 | **Purpose**             | Remote work for foreign entity     | Tourism, short visits       | Local employment in Korea          |
 | **Max Initial Stay**    | 1 year                           | 90 days (typically)         | 1-3 years (varies by E-type)       |
 | **Work Permitted**      | Yes (remote, foreign employer)   | No                          | Yes (local employer)               |
-| **Income Requirement**  | High (approx. KRW 80M/year)      | None                        | Set by local labor laws/contract   |
+| **Income Requirement**  | High (approx. ₩80M/year)      | None                        | Set by local labor laws/contract   |
 | **Family Inclusion**    | Yes (spouse, minor children)     | No                          | Yes (for some E-types)             |
 | **Residency Potential** | Medium (renewable)               | Low (no extension for work) | High                               |
 | **Application Process** | Moderate (extensive documents)   | Simple (basic documents)    | Complex (employer sponsorship)     |
@@ -86,7 +86,7 @@ Begin collecting all necessary documents well in advance. These generally includ
     *   Bank statements showing salary deposits (last 6-12 months).
     *   Tax returns (last 1-2 years).
     *   For freelancers: Client contracts, invoices, and bank statements.
-*   **Proof of Financial Capability**: Bank statements showing sufficient savings in addition to income, or a combination of both to meet the KRW 80 million annual income threshold.
+*   **Proof of Financial Capability**: Bank statements showing sufficient savings in addition to income, or a combination of both to meet the ₩80 million annual income threshold.
 *   **Criminal Record Check**: Apostilled or legalized by your local authorities.
 *   **Health Insurance Policy**: Proof of comprehensive international health insurance with required coverage limits.
 *   **Proof of Accommodation**: Initial booking for at least the first few weeks or a signed lease agreement if you have one.
@@ -126,29 +126,29 @@ The cost of living varies considerably between cities. Seoul, as a major global 
 
 #### Accommodation
 *   **Seoul**:
-    *   **Studio Apartment (One-room)**: KRW 700,000 - 1,500,000 per month (USD 530 - 1,150). Prices vary greatly by district (Gangnam and Jamsil are pricier than Hongdae or Sinchon).
-    *   **Officetel (Studio/Small Apt.)**: KRW 800,000 - 1,800,000 per month.
-    *   **Deposit (Jeonse/Wolse)**: Expect to pay a large upfront deposit (key money), often 10-20 times the monthly rent for Wolse (monthly rent) or significantly more for Jeonse (lump-sum deposit, no monthly rent). Budget for at least KRW 5,000,000 - 10,000,000 (USD 3,800 - 7,600) for a standard deposit, though lower deposit options exist, usually with higher monthly rent.
+    *   **Studio Apartment (One-room)**: ₩700,000 - 1,500,000 per month (USD 530 - 1,150). Prices vary greatly by district (Gangnam and Jamsil are pricier than Hongdae or Sinchon).
+    *   **Officetel (Studio/Small Apt.)**: ₩800,000 - 1,800,000 per month.
+    *   **Deposit (Jeonse/Wolse)**: Expect to pay a large upfront deposit (key money), often 10-20 times the monthly rent for Wolse (monthly rent) or significantly more for Jeonse (lump-sum deposit, no monthly rent). Budget for at least ₩5,000,000 - 10,000,000 (USD 3,800 - 7,600) for a standard deposit, though lower deposit options exist, usually with higher monthly rent.
 *   **Busan/Other Major Cities**:
-    *   **Studio Apartment**: KRW 400,000 - 800,000 per month (USD 300 - 600). Deposits are also lower.
-*   **Co-living Spaces/Guesthouses (Short-term)**: KRW 500,000 - 900,000 per month for initial weeks.
+    *   **Studio Apartment**: ₩400,000 - 800,000 per month (USD 300 - 600). Deposits are also lower.
+*   **Co-living Spaces/Guesthouses (Short-term)**: ₩500,000 - 900,000 per month for initial weeks.
 
 #### Utilities and Connectivity
-*   **Utilities (Electricity, Gas, Water)**: KRW 100,000 - 200,000 per month (USD 75 - 150) for a single person.
-*   **Internet**: High-speed internet is incredibly affordable and fast, typically KRW 25,000 - 40,000 per month (USD 20 - 30).
-*   **Mobile Phone**: Plans with unlimited data start from KRW 30,000 - 50,000 per month (USD 25 - 40).
+*   **Utilities (Electricity, Gas, Water)**: ₩100,000 - 200,000 per month (USD 75 - 150) for a single person.
+*   **Internet**: High-speed internet is incredibly affordable and fast, typically ₩25,000 - 40,000 per month (USD 20 - 30).
+*   **Mobile Phone**: Plans with unlimited data start from ₩30,000 - 50,000 per month (USD 25 - 40).
 
 #### Food and Groceries
-*   **Groceries**: KRW 300,000 - 500,000 per month (USD 230 - 380) for cooking at home. Fresh produce can be expensive.
-*   **Eating Out**: Affordable street food (KRW 5,000 - 10,000), casual restaurants (KRW 10,000 - 20,000 per meal). Fine dining is comparable to Western prices.
+*   **Groceries**: ₩300,000 - 500,000 per month (USD 230 - 380) for cooking at home. Fresh produce can be expensive.
+*   **Eating Out**: Affordable street food (₩5,000 - 10,000), casual restaurants (₩10,000 - 20,000 per meal). Fine dining is comparable to Western prices.
 
 #### Transportation
-*   **Public Transport**: Highly efficient and affordable. A single subway/bus ride in Seoul is around KRW 1,250 - 1,450 (USD 1-1.15). A T-Money card is essential.
-*   **Taxis**: More expensive but still reasonable compared to many Western cities. Starting fare around KRW 4,800.
+*   **Public Transport**: Highly efficient and affordable. A single subway/bus ride in Seoul is around ₩1,250 - 1,450 (USD 1-1.15). A T-Money card is essential.
+*   **Taxis**: More expensive but still reasonable compared to many Western cities. Starting fare around ₩4,800.
 
 ### Table: Estimated Monthly Expenses for a Single Digital Nomad (2026)
 
-| Category         | Seoul (KRW)        | Busan (KRW)        | Average USD Equivalent (Seoul) |
+| Category         | Seoul (₩)        | Busan (₩)        | Average USD Equivalent (Seoul) |
 | :--------------- | :----------------- | :----------------- | :----------------------------- |
 | **Rent (Studio)**| 800,000 - 1,500,000| 400,000 - 800,000  | 600 - 1,150                    |
 | **Utilities**    | 120,000 - 200,000  | 80,000 - 150,000   | 90 - 150                       |
@@ -159,7 +159,7 @@ The cost of living varies considerably between cities. Seoul, as a major global 
 | **Transport**    | 70,000 - 100,000   | 50,000 - 80,000    | 55 - 75                        |
 | **Misc./Leisure**| 200,000 - 500,000  | 150,000 - 300,000  | 150 - 380                      |
 | **TOTAL**        | **2,100,000 - 3,490,000** | **1,190,000 - 2,220,000** | **1,450 - 2,665**              |
-*Note: Exchange rate KRW 1,300 = USD 1 used for estimation. Prices are indicative for 2026.*
+*Note: Exchange rate ₩1,300 = USD 1 used for estimation. Prices are indicative for 2026.*
 
 ### Financial Planning Tips
 *   **Emergency Fund**: Always have at least 3-6 months' worth of living expenses saved up.
@@ -172,7 +172,7 @@ Embracing life as a digital nomad in South Korea is an exciting journey. Beyond 
 
 ### Work-Life Balance and Coworking Spaces
 Korea's strong work ethic is well-known, but as a digital nomad, you dictate your own hours.
-*   **Coworking Spaces**: Seoul, Busan, and even smaller cities boast numerous modern coworking spaces like WeWork, Fast Five, and local independent hubs. These offer reliable internet, professional environments, and networking opportunities. Prices typically range from KRW 200,000 - 400,000 per month.
+*   **Coworking Spaces**: Seoul, Busan, and even smaller cities boast numerous modern coworking spaces like WeWork, Fast Five, and local independent hubs. These offer reliable internet, professional environments, and networking opportunities. Prices typically range from ₩200,000 - 400,000 per month.
 *   **Cafes**: Korea is famous for its vibrant cafe culture. Many cafes offer free Wi-Fi and comfortable seating, making them popular spots for remote work.
 
 ### High-Speed Connectivity
@@ -212,7 +212,7 @@ Securing housing can be one of the most challenging initial hurdles due to the u
 
 ### Healthcare System
 With the F-1-D visa, you'll need to ensure you have adequate health coverage.
-*   **Private International Health Insurance**: Mandatory for the F-1-D visa. Ensure your policy meets the Korean government's minimum coverage requirements (e.g., KRW 100 million for medical and evacuation).
+*   **Private International Health Insurance**: Mandatory for the F-1-D visa. Ensure your policy meets the Korean government's minimum coverage requirements (e.g., ₩100 million for medical and evacuation).
 *   **National Health Insurance Service (NHIS)**: After receiving your Alien Registration Card (ARC) and residing in Korea for a certain period (typically 6 months), foreign residents generally become eligible and are required to enroll in the NHIS. The monthly premiums are affordable, and coverage is comprehensive.
 *   **Healthcare Quality**: Korea boasts an excellent healthcare system with highly skilled doctors, modern facilities, and advanced technology. Wait times are generally short, and costs are reasonable, especially with NHIS.
 
@@ -271,7 +271,7 @@ A1: No, you generally cannot. The **Korea Digital Nomad Visa F-1-D** must be app
 A2: While there isn't an upper age limit, applicants must be 18 years or older. The emphasis is on professional experience and financial stability rather than age.
 
 ### Q3: What if my income fluctuates? How do I prove the minimum income requirement?
-A3: The immigration authorities will look for consistent income over the past 6-12 months. If your income fluctuates, ensure your bank statements and tax returns for the past 1-2 years clearly demonstrate that your average annual income consistently meets or exceeds the minimum KRW 80 million threshold. Providing a mix of pay stubs, bank statements, and tax documents will strengthen your case.
+A3: The immigration authorities will look for consistent income over the past 6-12 months. If your income fluctuates, ensure your bank statements and tax returns for the past 1-2 years clearly demonstrate that your average annual income consistently meets or exceeds the minimum ₩80 million threshold. Providing a mix of pay stubs, bank statements, and tax documents will strengthen your case.
 
 ### Q4: Can my family (spouse and children) join me on the F-1-D visa?
 A4: Yes, the **Korea Digital Nomad Visa F-1-D** program typically allows accompanying family members (spouse and minor children) to apply for dependent visas (usually F-1-D dependent). You will need to provide proof of family relation (marriage certificate, birth certificates) and demonstrate sufficient financial means to support them.

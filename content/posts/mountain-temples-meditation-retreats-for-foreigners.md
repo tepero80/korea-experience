@@ -112,7 +112,7 @@ To ensure a smooth and enriching experience, a little preparation goes a long wa
 
 ### Booking and Cost
 *   **Booking:** It's highly recommended to book your Templestay in advance, especially during peak seasons (spring and autumn) or for popular temples. The official Templestay website ([eng.templestay.com](http://eng.templestay.com)) is the best resource for finding temples, checking program availability, and making reservations.
-*   **Cost:** Prices vary depending on the temple, program duration, and type. Generally, a 1-night/2-day experiential program ranges from 50,000 KRW to 100,000 KRW (approximately $40-$80 USD). Longer retreats will be more. This fee usually includes accommodation, meals, and all program activities.
+*   **Cost:** Prices vary depending on the temple, program duration, and type. Generally, a 1-night/2-day experiential program ranges from ₩50,000 to ₩100,000 (approximately $40-$80 USD). Longer retreats will be more. This fee usually includes accommodation, meals, and all program activities.
 
 ### What to Pack
 Pack light, practical, and modest clothing. Remember, you'll be sitting on the floor, bowing, and doing light chores.
@@ -157,8 +157,8 @@ Deciding on the perfect retreat involves considering your goals, desired level o
 ### Understanding the Cost Structure
 Templestay costs are generally very reasonable, offering incredible value for the experience.
 
-*   **Standard Programs (1-2 nights):** Expect to pay between 50,000 KRW to 100,000 KRW per person. This covers accommodation, all meals, and participation in the scheduled activities.
-*   **Longer Retreats:** These can range from 150,000 KRW to 300,000 KRW or more for several nights, depending on the exclusivity and duration.
+*   **Standard Programs (1-2 nights):** Expect to pay between ₩50,000 to ₩100,000 per person. This covers accommodation, all meals, and participation in the scheduled activities.
+*   **Longer Retreats:** These can range from ₩150,000 to ₩300,000 or more for several nights, depending on the exclusivity and duration.
 *   **Special Programs:** Some temples offer specialized programs, such as those focusing on specific meditation techniques or artistic expression, which might have different pricing.
 *   **Discounts:** Occasionally, temples or the Templestay organization offer seasonal promotions or discounts for specific groups (e.g., students, seniors). Always check the official website.
 

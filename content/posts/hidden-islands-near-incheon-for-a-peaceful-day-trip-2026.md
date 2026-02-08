@@ -171,11 +171,11 @@ While designed for day trips, many of these islands offer charming guesthouses, 
 
 | Island Name    | Main Activities                           | Estimated Day Trip Cost (Transport + Food) | Vibe                                      | Internal Transport |
 | :------------- | :---------------------------------------- | :----------------------------------------- | :---------------------------------------- | :----------------- |
-| Muuido Island  | Beach walks, tidal flat exploring, ATV, hiking | 30,000 - 50,000 KRW                       | Lively but peaceful, accessible           | Bus, taxi, walk    |
-| Ganghwado Island | Historic sites, temple visits, hiking, luge | 40,000 - 70,000 KRW                       | Cultural, active, diverse                 | Bus, taxi, car rental |
-| Seonjaedo Island | Tidal road walk, coastal views, seafood    | 35,000 - 60,000 KRW                       | Quaint, serene, natural wonder           | Walk, limited bus  |
-| Deokjeokdo Island | Beach relaxation, swimming, hiking, seafood | 50,000 - 80,000 KRW (includes ferry)      | Secluded, natural, truly peaceful         | Bus, taxi, walk    |
-| Socheongdo/Baengnyeongdo | Geological exploration, seal spotting, history | 100,000 - 150,000+ KRW (includes ferry) | Remote, adventurous, historically rich | Bus, taxi          |
+| Muuido Island  | Beach walks, tidal flat exploring, ATV, hiking | ₩30,000 - ₩50,000                       | Lively but peaceful, accessible           | Bus, taxi, walk    |
+| Ganghwado Island | Historic sites, temple visits, hiking, luge | ₩40,000 - ₩70,000                       | Cultural, active, diverse                 | Bus, taxi, car rental |
+| Seonjaedo Island | Tidal road walk, coastal views, seafood    | ₩35,000 - ₩60,000                       | Quaint, serene, natural wonder           | Walk, limited bus  |
+| Deokjeokdo Island | Beach relaxation, swimming, hiking, seafood | ₩50,000 - ₩80,000 (includes ferry)      | Secluded, natural, truly peaceful         | Bus, taxi, walk    |
+| Socheongdo/Baengnyeongdo | Geological exploration, seal spotting, history | 100,000 - ₩150,000 (includes ferry) | Remote, adventurous, historically rich | Bus, taxi          |
 
 *Note: Costs are approximate for a single person for a day trip in 2026, excluding accommodation, and can vary significantly based on individual choices.*
 

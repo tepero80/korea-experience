@@ -4,6 +4,16 @@ date: 2026-01-20
 excerpt: "Discover the serenity of Korean temple food. A complete guide to vegetarian Buddhist cuisine, Michelin-starred restaurants, and etiquette."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 Korean temple food has transcended its humble origins within mountain monasteries to become a global culinary phenomenon. Once a strictly ascetic practice reserved for monks and nuns, this 1,700-year-old tradition gained international acclaim after Chef Jeong Kwan was featured on Netflix's *Chef's Table*. For international travelers and expats, exploring this cuisine offers a rare intersection of history, wellness, and gastronomy.
@@ -62,7 +72,7 @@ Instead, flavor is built using *Doenjang* (soybean paste), *Ganjang* (soy sauce)
 
 ## Top Temple Food Restaurants in Seoul
 
-You do not need to hike up a mountain to experience high-end temple cuisine. Seoul is home to several world-class restaurants, including one that has held a Michelin star. These venues offer course meals ranging from 45,000 KRW to 150,000 KRW ($35 to $115 USD).
+You do not need to hike up a mountain to experience high-end temple cuisine. Seoul is home to several world-class restaurants, including one that has held a Michelin star. These venues offer course meals ranging from ₩45,000 to ₩150,000 ($35 to $115 USD).
 
 ### 1. Balwoo Gongyang
 Run directly by the Jogye Order of Korean Buddhism, this is the gold standard for temple cuisine in the city. Located on the 5th floor of the Temple Stay Information Center across from Jogyesa Temple, it offers a serene atmosphere despite being in the city center.
@@ -81,7 +91,7 @@ Run directly by the Jogye Order of Korean Buddhism, this is the gold standard fo
   tip="Reservations are mandatory. Book at least 3 weeks in advance for dinner slots."
 />
 
-The menus here change seasonally. A standard lunch course starts at roughly 45,000 KRW ($35), while the premium dinner course runs about 95,000 KRW ($73). The meal progresses from a porridge starter to salads, pancakes, deep-fried vegetables, and a final rice meal with soup.
+The menus here change seasonally. A standard lunch course starts at roughly ₩45,000 ($35), while the premium dinner course runs about ₩95,000 ($73). The meal progresses from a porridge starter to salads, pancakes, deep-fried vegetables, and a final rice meal with soup.
 
 ### 2. A Flower Blossom on the Rice
 Located in the charming Insadong neighborhood, this restaurant offers a slightly more accessible approach to organic, eco-friendly eating. It is one of the few places with a "Green Star" from Michelin for sustainability. 95% of their ingredients come directly from certified organic farms.
@@ -96,7 +106,7 @@ If you find traditional temple food too bland, 'A Flower Blossom on the Rice' is
 </ExpertTip>
 
 ### 3. Dooreyoo
-Situated in the traditional Bukchon Hanok Village, Dooreyoo is led by Chef Tony Yoo. While not strictly a "temple" restaurant, his "Star Chef" menu leans heavily on temple philosophy combined with royal court cuisine. It provides a stunning visual experience inside a traditional Korean house (*Hanok*). Expect to pay around 120,000 KRW ($90) for the full dinner tasting menu.
+Situated in the traditional Bukchon Hanok Village, Dooreyoo is led by Chef Tony Yoo. While not strictly a "temple" restaurant, his "Star Chef" menu leans heavily on temple philosophy combined with royal court cuisine. It provides a stunning visual experience inside a traditional Korean house (*Hanok*). Expect to pay around ₩120,000 ($90) for the full dinner tasting menu.
 
 <PriceTable
   title="Dining Cost Comparison"
@@ -114,8 +124,8 @@ For travelers who want to go beyond a restaurant meal, a Temple Stay program off
 ### Jingwansa Temple
 Located in Bukhansan National Park, roughly 45 minutes from central Seoul, Jingwansa is famous for its fermentation jars. The nuns here are renowned for their culinary skills. A "Templestay" here typically includes a tea ceremony and a formal monastic meal.
 
-*   **Cost:** Overnight stay approx. 70,000 - 100,000 KRW ($54 - $77).
-*   **Day Program:** Approx. 50,000 KRW ($38) for 4 hours.
+*   **Cost:** Overnight stay approx. 70,000 - ₩100,000 ($54 - $77).
+*   **Day Program:** Approx. ₩50,000 ($38) for 4 hours.
 
 <StatCard
   title="Jingwansa Statistics"

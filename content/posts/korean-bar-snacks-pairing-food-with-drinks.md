@@ -4,6 +4,16 @@ date: 2026-01-13
 excerpt: "Master the art of Anju with our comprehensive guide to pairing Korean food with alcohol, from Chimaek to Makgeolli and Jeon."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Busan"
+readTime: "11 min read"
+featured: false
 ---
 
 In South Korea, drinking is rarely a solitary act, and it almost never happens without food. This cultural cornerstone is known as *Anju*—a term specifically referring to food consumed with alcohol. Unlike Western pub culture where peanuts or pretzels might suffice, Korean Anju is a culinary universe unto itself, ranging from light dried snacks to heavy, simmering stews that could constitute a full meal.

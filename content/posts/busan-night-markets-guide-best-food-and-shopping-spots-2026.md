@@ -21,7 +21,7 @@ If you are looking for the absolute best night market experience in Busan for 20
 <KeyTakeaways 
   points={[
     "Bupyeong Kkangtong is the only permanent night market open daily from 7:30 PM",
-    "Bring cash (KRW) as many small stalls do not accept foreign credit cards",
+    "Bring cash (₩) as many small stalls do not accept foreign credit cards",
     "Most street food items cost between 3,000 and ₩6,000 in 2026"
   ]}
   readTime={15}
@@ -288,7 +288,7 @@ Remember to bring cash, wear comfortable shoes, and arrive with an empty stomach
   title="Frequently Asked Questions"
   items={[
     { question: "Is it safe to eat street food in Busan?", answer: "Yes, generally street food hygiene in Korea is high. In 2026, regulations are strict. However, stick to stalls with high turnover and hot, cooked food if you have a sensitive stomach." },
-    { question: "Can I use US Dollars or Euros at the market?", answer: "No. Vendors only accept Korean Won (KRW). You must exchange money beforehand. There are exchange booths in Nampo-dong, but they close early." },
+    { question: "Can I use US Dollars or Euros at the market?", answer: "No. Vendors only accept Korean Won (₩). You must exchange money beforehand. There are exchange booths in Nampo-dong, but they close early." },
     { question: "Are the night markets open on holidays like Chuseok?", answer: "Bupyeong Kkangtong usually operates year-round, even on holidays, though some individual stalls might take a day off. It is one of the most reliable spots for holiday travelers." },
     { question: "Is there vegetarian food available?", answer: "It can be difficult. Many 'vegetable' dishes use fish sauce or meat broth. However, items like Mozzarella Cheese skewers, Grilled Corn, and Sweet Potato sticks are safe options. Always ask 'Gogi isseo-yo?' (Is there meat?)" },
     { question: "What is the best time to arrive to avoid crowds?", answer: "Arrive right at opening time (19:30) or late at night (22:00). The peak crowd is between 20:00 and 21:00." }

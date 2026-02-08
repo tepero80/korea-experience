@@ -122,11 +122,11 @@ The total cost of breast reduction surgery in Korea is influenced by several var
 *   **Inclusions in the Package:** Some clinics offer all-inclusive packages that cover pre-operative tests, surgery, anesthesia, post-operative care, compression garments, and even translator services or initial consultations. Others may itemize each component.
 
 ### Average Price Ranges (2026 Estimates)
-As of 2026, the estimated average cost for breast reduction surgery in Korea typically ranges from **7,000,000 KRW to 12,000,000 KRW (approximately 5,500 USD to 9,500 USD)**. It's important to remember these are general estimates, and individual quotes will vary. For significant reductions or complex cases, prices could be higher.
+As of 2026, the estimated average cost for breast reduction surgery in Korea typically ranges from **₩7,000,000 to ₩12,000,000 (approximately 5,500 USD to 9,500 USD)**. It's important to remember these are general estimates, and individual quotes will vary. For significant reductions or complex cases, prices could be higher.
 
 #### Table 2: Estimated Cost Breakdown for Breast Reduction in Korea (2026)
 
-| Item                            | Estimated Cost Range (KRW) | Estimated Cost Range (USD) | Notes                                                                   |
+| Item                            | Estimated Cost Range (₩) | Estimated Cost Range (USD) | Notes                                                                   |
 | :------------------------------ | :------------------------- | :------------------------- | :---------------------------------------------------------------------- |
 | **Surgeon's Fee**               | 4,000,000 - 7,000,000      | 3,200 - 5,600              | Varies greatly by surgeon experience and complexity                     |
 | **Anesthesia Fee**              | 1,000,000 - 1,500,000      | 800 - 1,200                | Typically general anesthesia                                            |

@@ -189,7 +189,7 @@ To help you visualize the differences, here are a few comparison tables.
 
 ### Table 2: Estimated Pricing Snapshot (Full Day, 2026)
 
-| Item              | Vivaldi Park Ski World (KRW) | Yongpyong Ski Resort (KRW) | Alpensia Ski Resort (KRW) |
+| Item              | Vivaldi Park Ski World (₩) | Yongpyong Ski Resort (₩) | Alpensia Ski Resort (₩) |
 | :---------------- | :--------------------------- | :------------------------- | :------------------------ |
 | **Lift Pass**     | 80,000 - 100,000             | 85,000 - 110,000           | 75,000 - 95,000           |
 | **Equipment Rental** | 40,000 - 50,000              | 45,000 - 55,000            | 35,000 - 45,000           |

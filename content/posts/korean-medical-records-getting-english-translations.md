@@ -4,19 +4,29 @@ date: 2026-01-17
 excerpt: "A complete guide to requesting English medical records in Korea. Costs, processing times, and legal requirements for travelers and expats in 2026."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Botox"
+  - "Budget Travel"
+readTime: "15 min read"
+featured: false
 ---
 
 Navigating the healthcare system in a foreign country can be daunting, but retrieving your medical history in a language you understand is often the most critical step for continuity of care. Whether you have undergone a complex surgery in Gangnam or visited a local clinic for a sudden illness, obtaining **Korean medical records with English translations** is a specific administrative process that differs significantly from Western systems.
 
-**The short answer: Major university hospitals in Korea (Tier 3) can issue an "English Medical Certificate" (diagnosis summary) immediately upon request for 15,000-20,000 KRW. However, detailed operative notes and daily charts are usually in Korean and require third-party translation for official use abroad.**
+**The short answer: Major university hospitals in Korea (Tier 3) can issue an "English Medical Certificate" (diagnosis summary) immediately upon request for 15,000-₩20,000. However, detailed operative notes and daily charts are usually in Korean and require third-party translation for official use abroad.**
 
 <KeyTakeaways 
   points={[
     "English Medical Certificates (diagnosis/treatment summary) are widely available at major hospitals.",
     "Detailed daily charts and nursing notes are legal documents kept in Korean and require certified translation.",
     "You must present a valid passport or ARC to request records due to strict privacy laws.",
-    "Fees range from 1,000 KRW per page for copies to 20,000 KRW for English certificates.",
-    "Copies of MRI/CT scans are provided on CD/DVD (10,000-20,000 KRW) and usually follow DICOM standards."
+    "Fees range from ₩1,000 per page for copies to ₩20,000 for English certificates.",
+    "Copies of MRI/CT scans are provided on CD/DVD (10,000-₩20,000) and usually follow DICOM standards."
   ]}
   readTime={15}
   lastUpdated="2026-02-07"
@@ -31,11 +41,11 @@ When international patients ask for "medical records," there is often a miscommu
 
 1.  **Medical Certificate (Jinhdan-seo / Soyeon-seo):** This is a formal summary written by the doctor. It includes the final diagnosis code (ICD-10), the treatment period, and a brief summary of the procedure or medication.
     *   **Availability in English:** High. Most "General Hospitals" (2nd Tier) and "Tertiary Hospitals" (3rd Tier) have a system to generate this in English.
-    *   **Cost:** Approximately 15,000 KRW to 20,000 KRW ($11-$15 USD).
+    *   **Cost:** Approximately ₩15,000 to ₩20,000 ($11-$15 USD).
 
 2.  **Medical Charts/Copy of Records (Uiryo-girok-sa-bon):** These are the raw daily logs, nursing notes, operative reports, and anesthesia records.
     *   **Availability in English:** Low. While medical terms (like "Appendicitis" or "Propofol") might be in English or Latin, the surrounding grammar and nursing observations are in Korean.
-    *   **Cost:** Usually 1,000 KRW to 3,000 KRW for the first few pages, and 100 KRW per page thereafter.
+    *   **Cost:** Usually ₩1,000 to ₩3,000 for the first few pages, and ₩100 per page thereafter.
 
 <StatCard
   title="Medical Language Stats"
@@ -98,7 +108,7 @@ Hospitals often provide *interpreters* (people who speak to you) for free or a s
 *   **The Solution:** You must hire a certified medical translator.
 
 <InfoBox type="warning" title="Translation Validity">
-  For legal purposes or international insurance disputes, a self-translated document is invalid. You must use a "Certified Administrative Translator" (Haeng-jeong-sa) authorized by the Korean government. The cost averages <strong>30,000 KRW to 50,000 KRW</strong> per page (roughly $25-$40 USD).
+  For legal purposes or international insurance disputes, a self-translated document is invalid. You must use a "Certified Administrative Translator" (Haeng-jeong-sa) authorized by the Korean government. The cost averages <strong>₩30,000 to ₩50,000</strong> per page (roughly $25-$40 USD).
 </InfoBox>
 
 ### Where to Find Translators
@@ -111,7 +121,7 @@ Hospitals often provide *interpreters* (people who speak to you) for free or a s
 Unlike paper records, medical imaging is universal. Korea uses the **DICOM (Digital Imaging and Communications in Medicine)** standard, which is the global norm.
 
 When you request your images:
-1.  You will pay between **10,000 KRW and 20,000 KRW**.
+1.  You will pay between **₩10,000 and ₩20,000**.
 2.  You will receive a CD, DVD, or sometimes a USB drive.
 3.  The disc usually contains a built-in "Viewer" program (like a light version of PACS software).
 4.  **Important:** Do not try to open these files on your phone. You need a Windows PC to execute the viewer software properly.
@@ -257,7 +267,7 @@ If you visit a Traditional Korean Medicine clinic for acupuncture or herbal trea
   title="Frequently Asked Questions"
   items={[
     { question: "Can I get my medical records emailed to me after I leave Korea?", answer: "Generally, no. Due to privacy laws, hospitals verify identity in person. Some major hospitals have developed online portals (like 'My Chart'), but these often require a Korean mobile number or 'Public Digital Certificate' (joint certificate) to access, which most tourists do not have." },
-    { question: "How much does it cost to translate a full medical chart?", answer: "Hospitals charge for the copies (cheap), but they do not translate the charts. Private certified translators charge per page, usually around 30,000 to 50,000 KRW. A 20-page record could cost $500+ to translate officially." },
+    { question: "How much does it cost to translate a full medical chart?", answer: "Hospitals charge for the copies (cheap), but they do not translate the charts. Private certified translators charge per page, usually around 30,000 to ₩50,000. A 20-page record could cost $500+ to translate officially." },
     { question: "Do Korean doctors write in English?", answer: "Korean doctors learn medicine in English and Korean. Diagnosis codes (ICD-10) and drug names are in English. However, the narrative notes (patient history, observations) are usually in Korean. It is a mix often called 'Medical Konglish'." },
     { question: "Is the 'Medical Certificate' enough for my travel insurance?", answer: "Usually, yes. The 'Medical Certificate' (Jin-dan-seo) contains the diagnosis, dates of treatment, and cost summary. This is the standard document for reimbursement. You rarely need the full daily charts unless there is a legal dispute or a complex ongoing medical condition." },
     { question: "What if I lost my receipt?", answer: "Receipts (Young-su-jeung) can be re-issued at the hospital. Unlike medical records, receipts are sometimes easier to get, but still usually require an in-person visit or a proxy with proper documentation." }

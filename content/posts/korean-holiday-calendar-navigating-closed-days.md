@@ -4,6 +4,16 @@ date: 2026-01-17
 excerpt: "Master the Korean holiday system. Learn which days shops close, how to book transport during Chuseok, and survival tips for Red Days in Seoul."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Budget Travel"
+readTime: "14 min read"
+featured: false
 ---
 
 Arriving in Seoul only to find your dream restaurant shuttered or the palaces overrun with crowds is a classic rookie mistake. South Korea's holiday calendar is a complex mix of fixed solar dates, shifting lunar festivals, and the government's unique "substitution holiday" system. For travelers and expats, understanding these "Red Days" (marked in red on Korean calendars) is not just about knowing when to celebrate—it is about logistical survival.
@@ -15,7 +25,7 @@ For more details, check out our guide on [Best Korea SIM Cards for Long-Term Tra
 <KeyTakeaways 
   points={[
     "Seollal and Chuseok are the only times most family-owned businesses close for 3 days straight.",
-    "Royal Palaces usually remain open and free during major holidays, saving you 3,000 KRW per ticket.",
+    "Royal Palaces usually remain open and free during major holidays, saving you ₩3,000 per ticket.",
     "KTX train tickets for major holidays sell out within 20 minutes of release, usually one month in advance."
   ]}
   readTime={15}
@@ -66,7 +76,7 @@ During these major holidays, the population density of Seoul drops dramatically.
 ### The Substitution Holiday Rule
 Introduced to boost domestic consumption and ensure workers get rest, the Substitution Holiday system applies if a major holiday falls on a weekend. The government designates the following Monday as a "Red Day."
 *   **Impact:** This creates a 3-day or 4-day weekend.
-*   **Travel Cost:** Domestic flight prices to Jeju Island often triple during these extended weekends, with round-trip tickets jumping from an average of 80,000 KRW to over 250,000 KRW.
+*   **Travel Cost:** Domestic flight prices to Jeju Island often triple during these extended weekends, with round-trip tickets jumping from an average of ₩80,000 to over ₩250,000.
 
 <Timeline
   title="Typical Chuseok Timeline"
@@ -93,8 +103,8 @@ Planning a trip for 2026? Here is the landscape you need to navigate. Knowing th
 
 ### January & February: The Lunar New Year (Seollal)
 In 2026, Seollal falls mid-February. This is the coldest time of the year, with temperatures often dropping to -10°C (14°F).
-*   **Travel Tip:** Ski resorts in Gangwon-do will be at maximum capacity. Lift pass prices remain standard (approx. 80,000 KRW for a day pass), but accommodation costs surge by 150%.
-*   **City Life:** Seoul becomes quiet. It is the best time to visit the Five Grand Palaces, which are not only open but offer free admission. You save the standard 3,000 KRW entry fee, but more importantly, you get to see traditional performances that only happen during this window.
+*   **Travel Tip:** Ski resorts in Gangwon-do will be at maximum capacity. Lift pass prices remain standard (approx. ₩80,000 for a day pass), but accommodation costs surge by 150%.
+*   **City Life:** Seoul becomes quiet. It is the best time to visit the Five Grand Palaces, which are not only open but offer free admission. You save the standard ₩3,000 entry fee, but more importantly, you get to see traditional performances that only happen during this window.
 
 ### May: The Month of Family
 May is packed with holidays: Labor Day (May 1st - not a Red Day but banks close), Children's Day (May 5th), and Buddha's Birthday.
@@ -111,7 +121,7 @@ May is packed with holidays: Labor Day (May 1st - not a Red Day but banks close)
 </ExpertTip>
 
 ### September/October: Chuseok and Golden Weeks
-Chuseok involves gift-giving. If you are visiting friends, bring fruit sets or spam sets (yes, Spam is a premium gift here, costing between 30,000 to 50,000 KRW for a gift box).
+Chuseok involves gift-giving. If you are visiting friends, bring fruit sets or spam sets (yes, Spam is a premium gift here, costing between 30,000 to ₩50,000 for a gift box).
 *   **The Golden Week Phenomenon:** Occasionally, Chuseok aligns with National Foundation Day (Oct 3) or Hangeul Day (Oct 9), creating a "Golden Week" of 7-10 days off. During these rare events, Incheon Airport processes over 200,000 passengers daily. Arrive at the airport 4 hours early, not the usual 2.5 hours.
 
 ## Transportation: The Battle for Tickets
@@ -121,7 +131,7 @@ The most stressful aspect of Korean holidays is inter-city transport. If you pla
 ### The KTX/SRT Ticketing War
 Train tickets for the holidays are released roughly one month in advance.
 *   **Success Rate:** For popular routes (Seoul to Busan), tickets sell out in less than 20 minutes.
-*   **The 'Standing' Option:** If you miss a reserved seat, you can buy a standing ticket. This costs roughly 15% less (approx. 50,000 KRW vs 59,800 KRW for Seoul-Busan), but standing for 2.5 hours in a crowded vestibule is grueling.
+*   **The 'Standing' Option:** If you miss a reserved seat, you can buy a standing ticket. This costs roughly 15% less (approx. ₩50,000 vs ₩59,800 for Seoul-Busan), but standing for 2.5 hours in a crowded vestibule is grueling.
 
 <StepGuide
   title="How to Secure Holiday Train Tickets"
@@ -131,14 +141,14 @@ Train tickets for the holidays are released roughly one month in advance.
     { title: "Check Release Date", description: "Korail announces the specific 'Holiday Ticket' opening date on their website 2 weeks prior. Mark your calendar.", tip: "Set an alarm for 6:50 AM KST." },
     { title: "Use the App", description: "Download the KorailTalk app. The English version is stable. Pre-register your credit card to save 60 seconds during checkout." },
     { title: "The Queue", description: "Log in at 7:00 AM sharp. You will see a queue number (e.g., 'You are number 14,502'). Do not refresh." },
-    { title: "Backup Plan: Express Bus", description: "If trains fail, check the Kobus app for Premium Buses. They cost about 40,000-50,000 KRW and are very comfortable." }
+    { title: "Backup Plan: Express Bus", description: "If trains fail, check the Kobus app for Premium Buses. They cost about 40,000-₩50,000 and are very comfortable." }
   ]}
 />
 
 ### Highway Conditions
 If you choose to drive or take a bus, be prepared for "Gui-seong-gil" (the homecoming road).
 *   **Duration:** The drive from Seoul to Busan, normally 4.5 hours, can take 8 to 10 hours.
-*   **Rest Stops:** Highway rest stops are an experience in themselves, selling over 10,000 "Sotteok Sotteok" (sausage and rice cake skewers) per day during holidays. A skewer costs about 4,500 KRW.
+*   **Rest Stops:** Highway rest stops are an experience in themselves, selling over 10,000 "Sotteok Sotteok" (sausage and rice cake skewers) per day during holidays. A skewer costs about ₩4,500.
 
 ## Where to Eat When Everything is Closed
 
@@ -173,7 +183,7 @@ Dining out on a holiday can range from a cheap convenience store run to a luxury
   ]}
 />
 
-Convenience stores (GS25, CU, 7-Eleven) are the lifeline of the city. During holidays, they stock special "Holiday Feast" bento boxes featuring traditional foods like Jeon (pancakes) and Japchae (glass noodles) for under 10,000 KRW, allowing solo travelers to taste the holiday cuisine without a family invite.
+Convenience stores (GS25, CU, 7-Eleven) are the lifeline of the city. During holidays, they stock special "Holiday Feast" bento boxes featuring traditional foods like Jeon (pancakes) and Japchae (glass noodles) for under ₩10,000, allowing solo travelers to taste the holiday cuisine without a family invite.
 
 ## Attractions: The "Reverse Psychology" Strategy
 
@@ -183,14 +193,14 @@ Locals go to the amusement park? You go to the museum.
 
 ### The Palaces and Museums
 As mentioned, the grand palaces (Gyeongbokgung, Changdeokgung) are open and often free. The National Museum of Korea is also open (closed only on Jan 1st usually, but check specific holiday schedules).
-*   **Distance:** Gyeongbokgung to Changdeokgung is a 1.5 km walk or a 5-minute taxi ride (base fare approx. 4,800 KRW).
+*   **Distance:** Gyeongbokgung to Changdeokgung is a 1.5 km walk or a 5-minute taxi ride (base fare approx. ₩4,800).
 *   **Crowds:** While the grounds are large enough to absorb crowds, the changing of the guard ceremony will be packed. Arrive 20 minutes early (ceremonies at 10 AM and 2 PM).
 
 ### Theme Parks (Everland / Lotte World)
 <ProsCons
   title="Visiting Theme Parks on Holidays"
   pros={["Special parades and fireworks", "Extended opening hours (often until 10 PM)"]}
-  cons={["Extreme wait times (2+ hours per ride)", "Ticket prices are full price (approx 65,000 KRW)", "Crowded restaurants inside the park"]}
+  cons={["Extreme wait times (2+ hours per ride)", "Ticket prices are full price (approx ₩65,000)", "Crowded restaurants inside the park"]}
   variant="cards"
 />
 
@@ -200,7 +210,7 @@ Getting sick is never planned, but if it happens on a holiday, you need to know 
 
 *   **Emergency Number:** Dial 119 for ambulance/fire. Dial 1339 for the KCDC (disease control) and hospital information. They have English interpretation services available.
 *   **Pharmacies:** Look for pharmacies with a "Public Night Pharmacy" sticker, or search for "Hue-il Jik-im Yak-guk" (Holiday Duty Pharmacy) online. Many pharmacies near major bus terminals and train stations remain open.
-*   **Cost:** Be aware that visiting an Emergency Room (ER) for non-life-threatening issues carries a surcharge. On holidays, medical fees see a surcharge of 30% to 50%. A basic consultation that usually costs 20,000 KRW might cost 30,000 KRW, but ER base fees are significantly higher (often starting at 60,000+ KRW before treatment).
+*   **Cost:** Be aware that visiting an Emergency Room (ER) for non-life-threatening issues carries a surcharge. On holidays, medical fees see a surcharge of 30% to 50%. A basic consultation that usually costs ₩20,000 might cost ₩30,000, but ER base fees are significantly higher (often starting at ₩60,000 before treatment).
 
 ## Shopping: The Duty-Free Loophole
 
@@ -230,11 +240,11 @@ Koreans are masters of the "Sandwich Day." This refers to a workday that falls b
 
 If you are invited to a Korean home for Seollal or Chuseok, it is a high honor.
 *   **Dress:** Modest casual is fine, but socks are mandatory (you will take your shoes off).
-*   **Gift:** Do not arrive empty-handed. A box of high-quality fruit (apples or pears, costing 30,000-50,000 KRW) or health supplements is standard.
+*   **Gift:** Do not arrive empty-handed. A box of high-quality fruit (apples or pears, costing 30,000-₩50,000) or health supplements is standard.
 *   **Customs:** You might witness "Charye" (ancestral rites). You are not expected to participate in the bowing unless invited, but stand respectfully and silently.
 
 <InfoBox type="tip" title="Money Envelopes">
-On Seollal, elders give money to children (Sebaet-don) after they bow. As a guest, you are not expected to give money unless you are very close to the family and there are young children, in which case a crisp 10,000 KRW or 50,000 KRW bill is appropriate.
+On Seollal, elders give money to children (Sebaet-don) after they bow. As a guest, you are not expected to give money unless you are very close to the family and there are young children, in which case a crisp ₩10,000 or ₩50,000 bill is appropriate.
 </InfoBox>
 
 ## Summary: The "Answer First" Approach to Holidays
@@ -252,8 +262,8 @@ By aligning your schedule with the rhythm of the "Red Days," you can avoid the f
   items={[
     { question: "Are convenience stores open on Seollal and Chuseok?", answer: "Yes, virtually all convenience stores (CU, GS25, 7-Eleven) remain open 24/7, even on major holidays. They are a reliable source of food and basic necessities." },
     { question: "Do subways and buses run on holidays?", answer: "Yes, public transport operates 365 days a year. During major holidays like Chuseok, subways often run extended hours (until 2 AM) to accommodate returning travelers, though frequencies may vary slightly." },
-    { question: "Is it worth visiting Lotte World or Everland on a public holiday?", answer: "Generally, no. It is incredibly crowded. Wait times for popular rides can exceed 2 to 3 hours. If you must go, purchase a 'Magic Pass' or 'Q-Pass' (express entry) in advance, though these cost extra (approx. 50,000+ KRW)." },
+    { question: "Is it worth visiting Lotte World or Everland on a public holiday?", answer: "Generally, no. It is incredibly crowded. Wait times for popular rides can exceed 2 to 3 hours. If you must go, purchase a 'Magic Pass' or 'Q-Pass' (express entry) in advance, though these cost extra (approx. 50,000+ ₩)." },
     { question: "Are banks open on Substitution Holidays?", answer: "No. Banks are strictly closed on all Red Days, including Substitution Holidays. ATMs remain accessible for withdrawals, but counter services are unavailable." },
-    { question: "Can I use foreign credit cards during holidays?", answer: "Yes, card acceptance is automated and works 24/7. However, ensure you have some cash (50,000 - 100,000 KRW) for street food or emergency transport, as some older machines might have maintenance downtime." }
+    { question: "Can I use foreign credit cards during holidays?", answer: "Yes, card acceptance is automated and works 24/7. However, ensure you have some cash (50,000 - ₩100,000) for street food or emergency transport, as some older machines might have maintenance downtime." }
   ]}
 />

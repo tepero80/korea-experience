@@ -4,6 +4,16 @@ date: 2026-01-15
 excerpt: "Discover the sweet journey from royal court treats to viral cafe sensations in this comprehensive guide to Korean dessert culture."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Coffee"
+readTime: "11 min read"
+featured: false
 ---
 
 The landscape of Korean cuisine is often defined by its savory powerhouses—kimchi, barbecue, and spicy stews. However, a sugar-coated revolution has taken over the peninsula, transforming Seoul into one of the world's dessert capitals. For international travelers landing in 2026, the contrast is striking: you are just as likely to queue for 90 minutes for a traditional honey cookie from the Joseon Dynasty as you are for a hyper-modern, basil-infused croissant.

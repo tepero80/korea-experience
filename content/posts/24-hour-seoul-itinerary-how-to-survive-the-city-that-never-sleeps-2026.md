@@ -58,11 +58,11 @@ Your 24-hour Seoul adventure kicks off bright and early, embracing the city's qu
 
 ### Sunrise Serenity at Gyeongbokgung Palace
 
-Begin your day at [Gyeongbokgung Palace](https://english.cha.go.kr/html/HtmlPage.do?pg_idx=36). As the largest and most beautiful of Seoul's Five Grand Palaces, Gyeongbokgung offers a majestic start. Arriving shortly after its opening (usually 9:00 AM, but check the official website for 2026 updates as opening times can vary slightly seasonally), allows you to witness the palace grounds bathed in soft morning light, offering incredible photo opportunities with fewer people. Spend an hour exploring the main courtytyards, the Throne Hall (Geunjeongjeon), and the scenic Gyeonghoeru Pavilion. Don't miss the chance to rent a Hanbok (traditional Korean dress) from one of the many shops nearby; wearing one often grants free entry to the palace, and it makes for a memorable experience and stunning photos. Rental costs typically range from 10,000 to 30,000 Korean Won (KRW) for a few hours.
+Begin your day at [Gyeongbokgung Palace](https://english.cha.go.kr/html/HtmlPage.do?pg_idx=36). As the largest and most beautiful of Seoul's Five Grand Palaces, Gyeongbokgung offers a majestic start. Arriving shortly after its opening (usually 9:00 AM, but check the official website for 2026 updates as opening times can vary slightly seasonally), allows you to witness the palace grounds bathed in soft morning light, offering incredible photo opportunities with fewer people. Spend an hour exploring the main courtytyards, the Throne Hall (Geunjeongjeon), and the scenic Gyeonghoeru Pavilion. Don't miss the chance to rent a Hanbok (traditional Korean dress) from one of the many shops nearby; wearing one often grants free entry to the palace, and it makes for a memorable experience and stunning photos. Rental costs typically range from 10,000 to 30,000 Korean Won (₩) for a few hours.
 
 *   **Location:** 161 Sajik-ro, Jongno-gu, Seoul
 *   **Operating Hours:** 9:00 AM - 5:00 PM (closed Tuesdays, exact hours vary by season)
-*   **Admission:** 3,000 KRW (adults), free with Hanbok
+*   **Admission:** ₩3,000 (adults), free with Hanbok
 *   **Insider Tip:** The Changing of the Royal Guard Ceremony (10:00 AM and 2:00 PM) is spectacular, but if you're on a strict 24-hour schedule, you might prioritize exploring the palace grounds itself before the ceremony starts.
 
 ### Wander Through Bukchon Hanok Village
@@ -77,7 +77,7 @@ Just a short walk from Gyeongbokgung Palace, [Bukchon Hanok Village](https://han
 
 After your historical immersion, it's time to refuel with an authentic Korean breakfast. Instead of opting for a quick Western bite, dive into local flavors.
 *   **Recommended Spot:** Look for small, local restaurants around Insadong or Samcheongdong, both close to Bukchon.
-*   **Dish Suggestion:** _Gukbap_ (hot soup with rice), often pork or beef based, offers a hearty and warming start. A bowl typically costs between 7,000 to 12,000 KRW. Alternatively, a simple _Kimbap_ (seaweed rice roll) and a hot coffee from a local cafe can also be a good on-the-go option, costing around 4,000-6,000 KRW.
+*   **Dish Suggestion:** _Gukbap_ (hot soup with rice), often pork or beef based, offers a hearty and warming start. A bowl typically costs between ₩7,000 to ₩12,000. Alternatively, a simple _Kimbap_ (seaweed rice roll) and a hot coffee from a local cafe can also be a good on-the-go option, costing around ₩4,000 - ₩6,000.
 
 ## 09:00 AM - 01:00 PM: Cultural Immersion & Market Delights
 
@@ -89,7 +89,7 @@ From Bukchon, make your way to [Insadong](https://www.insadong.or.kr/english/). 
 
 *   **Location:** Insadong-gil, Jongno-gu, Seoul
 *   **Admission:** Free to browse
-*   **Insider Tip:** Try a traditional Korean tea at one of the cozy tea houses. Many offer a peaceful respite and an authentic cultural experience for around 5,000 - 8,000 KRW per cup.
+*   **Insider Tip:** Try a traditional Korean tea at one of the cozy tea houses. Many offer a peaceful respite and an authentic cultural experience for around ₩5,000 - ₩8,000 per cup.
 
 **Your 24-Hour Route:**
 
@@ -105,10 +105,10 @@ From Bukchon, make your way to [Insadong](https://www.insadong.or.kr/english/). 
 No 24-hour Seoul itinerary is complete without a visit to [Gwangjang Market](https://www.kwangjangmarket.co.kr/english). As one of Korea's oldest and largest traditional markets, it's a sensory overload in the best way possible. This is where you truly taste the soul of Seoul.
 
 *   **Must-Try Foods:**
-    *   **Bindaetteok:** Mung bean pancakes, freshly fried and crispy. A plate costs around 5,000 - 8,000 KRW.
-    *   **Mayak Gimbap:** "Drug Gimbap" (named for its addictive qualities), small rolls served with a special mustard sauce. Around 3,000 - 5,000 KRW per serving.
-    *   **Tteokbokki:** Spicy rice cakes, a staple Korean street food. 3,000 - 5,000 KRW.
-    *   **Eomuk:** Fish cakes on a skewer, perfect with the broth. Around 1,000 KRW per skewer.
+    *   **Bindaetteok:** Mung bean pancakes, freshly fried and crispy. A plate costs around ₩5,000 - ₩8,000.
+    *   **Mayak Gimbap:** "Drug Gimbap" (named for its addictive qualities), small rolls served with a special mustard sauce. Around ₩3,000 - ₩5,000 per serving.
+    *   **Tteokbokki:** Spicy rice cakes, a staple Korean street food. ₩3,000 - ₩5,000.
+    *   **Eomuk:** Fish cakes on a skewer, perfect with the broth. Around ₩1,000 per skewer.
 *   **Location:** 88 Changgyeonggung-ro, Jongno-gu, Seoul
 *   **Operating Hours:** 9:00 AM - 6:00 PM (food stalls often open later), closed Sundays (check for specific stall hours).
 *   **Insider Tip:** Be adventurous! Point to what looks good, pull up a stool at a bustling stall, and enjoy the lively atmosphere. Cash is often preferred here.
@@ -134,7 +134,7 @@ Head south to [Myeongdong](https://www.myeongdong.co.kr/en/), Seoul's premier sh
 
 *   **Location:** Myeongdong-gil, Jung-gu, Seoul
 *   **Activities:** Shop for K-beauty products, trendy clothes, and unique accessories. Enjoy some more street food snacks (skewered chicken, hotteok - sweet pancakes).
-*   **Insider Tip:** Many stores offer tax refunds on the spot for purchases over a certain amount (typically 30,000 KRW). Carry your passport for this.
+*   **Insider Tip:** Many stores offer tax refunds on the spot for purchases over a certain amount (typically ₩30,000). Carry your passport for this.
 
 ### Architectural Wonders at Dongdaemun Design Plaza (DDP)
 
@@ -171,16 +171,16 @@ You cannot leave Seoul without experiencing Korean barbecue, specifically _Samgy
     *   **Hongdae:** Known for its youthful vibe, live music, and endless dining options. You'll find many excellent Samgyeopsal restaurants here.
     *   **Gangnam:** Offers a more upscale and trendy dining scene, also with fantastic BBQ joints.
     *   **Sinchon:** Similar to Hongdae, popular with university students and offers good value.
-*   **Typical Cost:** Expect to pay around 15,000 - 25,000 KRW per person, depending on the cuts of meat and how much you eat. This usually includes various _Banchan_ (side dishes), often refillable.
+*   **Typical Cost:** Expect to pay around ₩15,000 - ₩25,000 per person, depending on the cuts of meat and how much you eat. This usually includes various _Banchan_ (side dishes), often refillable.
 *   **Insider Tip:** Look for restaurants that specialize in _aged_ pork belly for a richer flavor. Don't be shy about asking for more Banchan – it's typically free! Ordering _Soju_ (Korean distilled spirit) or _Maekju_ (beer) to enjoy with your BBQ is also part of the experience.
 
 ### Sunset & Night Views from Namsan Seoul Tower
 
-After dinner, make your way to [Namsan Seoul Tower](https://www.seoultower.co.kr/en/) for breathtaking panoramic views of the entire city as day turns to night. Take the Namsan cable car up for a scenic ride (round trip around 11,000 KRW). Once at the top, explore the Lock of Love area and enjoy the stunning 360-degree vistas from the observatory.
+After dinner, make your way to [Namsan Seoul Tower](https://www.seoultower.co.kr/en/) for breathtaking panoramic views of the entire city as day turns to night. Take the Namsan cable car up for a scenic ride (round trip around ₩11,000). Once at the top, explore the Lock of Love area and enjoy the stunning 360-degree vistas from the observatory.
 
 *   **Location:** 105 Namsangongwon-gil, Yongsan-gu, Seoul
 *   **Operating Hours:** 10:00 AM - 11:00 PM (observatory)
-*   **Admission:** Approximately 16,000 KRW for observatory access.
+*   **Admission:** Approximately ₩16,000 for observatory access.
 *   **Insider Tip:** Aim to arrive about 30-45 minutes before sunset to witness both the daylight transition and the glittering city lights.
 
 ## 09:00 PM - 01:00 AM: Seoul's Vibrant Nightlife
@@ -191,10 +191,10 @@ Seoul truly comes alive after dark. This is where you experience the "city that 
 
 Seoul offers diverse nightlife districts, each with its own distinct atmosphere.
 
-*   **Hongdae:** The epicenter of youth culture, live music, street performances, and indie clubs. Perfect for those looking for an energetic, casual night out. Expect prices for drinks (beer/cocktails) around 5,000 - 15,000 KRW.
+*   **Hongdae:** The epicenter of youth culture, live music, street performances, and indie clubs. Perfect for those looking for an energetic, casual night out. Expect prices for drinks (beer/cocktails) around ₩5,000 - ₩15,000.
 *   **Itaewon:** Known for its international flair, diverse restaurants, pubs, and clubs catering to a global crowd. Great for bar hopping and finding unique venues.
 *   **Gangnam:** Home to upscale clubs, trendy lounges, and celebrity-spotting opportunities. More expensive but offers a sophisticated party scene.
-*   **Noraebang (Karaoke Room):** A quintessential Korean experience. Rent a private room with friends, sing your heart out, and enjoy snacks and drinks. Rooms cost about 15,000 - 30,000 KRW per hour, often with service time included.
+*   **Noraebang (Karaoke Room):** A quintessential Korean experience. Rent a private room with friends, sing your heart out, and enjoy snacks and drinks. Rooms cost about ₩15,000 - ₩30,000 per hour, often with service time included.
 *   **Hof (Korean Pub):** Casual pubs where you can enjoy beer (Maekju) and fried chicken (Chimaek) or other snacks. A relaxing way to unwind and observe local life.
 
 *   **Insider Tip:** Transportation after midnight can become challenging. Subway lines generally stop around 12:00 AM - 1:00 AM. Taxis are available but can be expensive and hard to hail during peak hours. Consider using apps like Kakao Taxi or planning to stay in the nightlife district until the subway reopens in the morning.
@@ -203,9 +203,9 @@ Seoul offers diverse nightlife districts, each with its own distinct atmosphere.
 
 | District | Vibe & Atmosphere                                   | Best For                                     | Typical Cost (Drinks)    | Transportation (Late Night) |
 | :------- | :-------------------------------------------------- | :------------------------------------------- | :----------------------- | :-------------------------- |
-| **Hongdae** | Youthful, artistic, vibrant, live music, street performers | Indie clubs, casual pubs, K-pop clubs, karaoke | 5,000 - 12,000 KRW       | Night buses, taxis (can be difficult to hail) |
-| **Itaewon** | Diverse, international, trendy, multi-cultural      | Bar hopping, international pubs, lounges     | 8,000 - 18,000 KRW       | Night buses, taxis (easier than Hongdae) |
-| **Gangnam** | Upscale, fashionable, luxurious, celebrity sightings | Exclusive clubs, chic lounges, high-end bars | 10,000 - 25,000 KRW      | Night buses, taxis (often premium rates) |
+| **Hongdae** | Youthful, artistic, vibrant, live music, street performers | Indie clubs, casual pubs, K-pop clubs, karaoke | ₩5,000 - ₩12,000       | Night buses, taxis (can be difficult to hail) |
+| **Itaewon** | Diverse, international, trendy, multi-cultural      | Bar hopping, international pubs, lounges     | ₩8,000 - ₩18,000       | Night buses, taxis (easier than Hongdae) |
+| **Gangnam** | Upscale, fashionable, luxurious, celebrity sightings | Exclusive clubs, chic lounges, high-end bars | ₩10,000 - ₩25,000      | Night buses, taxis (often premium rates) |
 
 ## 01:00 AM - 05:00 AM: Late-Night Bites & Rejuvenation
 
@@ -215,7 +215,7 @@ The night is still young in Seoul! For those determined to fully embrace the "ci
 
 For a unique and affordable late-night experience, try a [PC Bang](https://en.wikipedia.org/wiki/PC_bang). These internet cafes are ubiquitous in Seoul and are far more than just places to browse the web. They are high-spec gaming heavens, often with comfortable chairs, snacks, and drinks available for purchase. It's a popular way for locals to spend a few hours, whether playing games or simply relaxing.
 
-*   **Cost:** Extremely affordable, usually around 1,000 - 2,000 KRW per hour.
+*   **Cost:** Extremely affordable, usually around ₩1,000 - ₩2,000 per hour.
 *   **Location:** Found in virtually every neighborhood, especially near university areas like Hongdae, Sinchon, and Gangnam.
 *   **Insider Tip:** Many PC Bangs operate 24 hours. You can rent a computer by the hour and even order food directly to your station.
 
@@ -227,7 +227,7 @@ If you're feeling tired but aren't ready for a full hotel check-in, a _Jjimjilba
     *   **Spa Land Centum City (Busan):** While this is in Busan, Seoul has many equivalents.
     *   **Dragon Hill Spa & Resort (Yongsan, Seoul):** A very popular and tourist-friendly option. This specific location may have changed ownership or closed/reopened since 2020. Always check the latest information for 2026.
     *   **Siloam Sauna (Jungnim-dong, Seoul):** Another well-known and often recommended option.
-*   **Cost:** Entry fees typically range from 15,000 - 25,000 KRW for an overnight stay (up to 12 hours).
+*   **Cost:** Entry fees typically range from ₩15,000 - ₩25,000 for an overnight stay (up to 12 hours).
 *   **What to Expect:** Upon entry, you receive a uniform (t-shirt and shorts) and a key for your locker. You can enjoy the baths and saunas, then sleep in the communal areas.
 *   **Insider Tip:** Try the _Sikhye_ (sweet fermented rice drink) and _Maekbanseok Gyeran_ (roasted eggs) often sold inside. Be respectful of the quiet in sleeping areas.
 
@@ -235,7 +235,7 @@ If you're feeling tired but aren't ready for a full hotel check-in, a _Jjimjilba
 
 For a quick and easy bite, Seoul's 24-hour convenience stores (GS25, CU, 7-Eleven, Emart24) are lifesavers. You can find instant ramen, gimbap, sandwiches, coffee, and a wide array of snacks. Many have seating areas where you can eat your purchases. This is a common late-night ritual for many Koreans.
 
-*   **Cost:** Very affordable, usually a few thousand KRW for a meal.
+*   **Cost:** Very affordable, usually a few thousand won for a meal.
 *   **Location:** Everywhere! You're rarely more than a block away from one.
 
 ## 05:00 AM - 06:00 AM: Witnessing the Sunrise & Farewell

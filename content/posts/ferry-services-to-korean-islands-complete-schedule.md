@@ -62,7 +62,7 @@ For tourists without an ARC, you have two primary options:
     { title: "Check Schedule Online", description: "Use Naver Maps to find the 'Yeonan Yeoak Terminal' (Coastal Ferry Terminal). Schedules are usually accurate on Naver Maps.", tip: "Search specifically for the terminal name, not just the city." },
     { title: "Arrival", description: "Arrive at least 60-90 minutes before departure. Ticket counters close 10-20 minutes before boarding.", tip: "Morning queues can be long, especially 07:00-09:00." },
     { title: "Fill Out Manifest", description: "Find the 'Boarding Declaration' form. You must write your Name, Gender, Date of Birth, and Phone Number.", tip: "Write clearly in English block letters." },
-    { title: "Payment", description: "Present your passport and the form. Global credit cards are generally accepted at manned counters, but have cash (KRW) ready as backup." }
+    { title: "Payment", description: "Present your passport and the form. Global credit cards are generally accepted at manned counters, but have cash (₩) ready as backup." }
   ]}
 />
 

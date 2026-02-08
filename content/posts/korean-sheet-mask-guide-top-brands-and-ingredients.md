@@ -39,7 +39,7 @@ The Korean sheet mask market has undergone a significant transformation over the
   variant="gradient"
   stats={[
     { value: "72%", label: "Korean women using masks weekly", icon: "👩" },
-    { value: "₩2.5T", label: "Market Size (KRW)", icon: "📈" }
+    { value: "₩2.5T", label: "Market Size (₩)", icon: "📈" }
   ]}
   source="K-Beauty Industry Report 2026"
 />

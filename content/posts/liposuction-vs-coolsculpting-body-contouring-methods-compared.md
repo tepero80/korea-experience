@@ -166,15 +166,15 @@ Understanding the key differences between these two powerful body contouring met
 The cost of both procedures in Korea is highly competitive and generally lower than in North America or Europe for comparable quality. However, it varies significantly based on clinic reputation, location, the surgeon's experience, the number of areas treated, and the specific technique used.
 
 *   **Liposuction Cost:**
-    *   **Small Area (e.g., chin, armpit):** Approximately 1,000,000 - 2,000,000 Korean Won (KRW) per area.
-    *   **Medium Area (e.g., abdomen, thighs, arms):** Approximately 2,000,000 - 5,000,000 KRW per area.
-    *   **Multiple Areas/Larger Volumes:** Can range from 5,000,000 - 15,000,000 KRW or more.
+    *   **Small Area (e.g., chin, armpit):** Approximately 1,000,000 - 2,000,000 Korean Won (₩) per area.
+    *   **Medium Area (e.g., abdomen, thighs, arms):** Approximately ₩2,000,000 - ₩5,000,000 per area.
+    *   **Multiple Areas/Larger Volumes:** Can range from ₩5,000,000 - ₩15,000,000 or more.
     *   These prices generally include anesthesia, the procedure, and some post-operative care. VASER or laser-assisted techniques might be at the higher end.
     *   *For a deeper dive into pricing, consider our upcoming article "Understanding the Cost of Plastic Surgery in Seoul".*
 
 *   **Coolsculpting Cost:**
-    *   **Per Cycle/Applicator:** Approximately 200,000 - 500,000 KRW per cycle.
-    *   **Treatment Plan:** A full treatment plan, often involving multiple cycles and sessions, can range from 1,000,000 - 5,000,000 KRW or more, depending on the number of areas and applicators used.
+    *   **Per Cycle/Applicator:** Approximately ₩200,000 - ₩500,000 per cycle.
+    *   **Treatment Plan:** A full treatment plan, often involving multiple cycles and sessions, can range from ₩1,000,000 - ₩5,000,000 or more, depending on the number of areas and applicators used.
     *   Clinics often offer packages for multiple cycles, which can be more cost-effective.
 
 It is crucial to get a detailed quote during your consultation, as prices are always subject to individual needs and clinic policies.

@@ -4,6 +4,16 @@ date: 2026-01-06
 excerpt: "Discover the best DIY jewelry workshops in Seongsu-dong for 2026. Create custom silver rings from ₩35,000 in 90 minutes with our complete guide."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "K-Beauty"
+  - "Shopping"
+  - "Seoul"
+  - "Skincare"
+  - "Korean Fashion"
+  - "Banking"
+  - "Budget Travel"
+readTime: "13 min read"
+featured: false
 ---
 
 If you are looking for a unique, hands-on souvenir from Seoul, **DIY jewelry workshops in Seongsu-dong** offer the perfect blend of artisan culture and memorable experiences. Located primarily around Seongsu Station (Line 2) and Ttukseom Station, these "gongbang" (workshops) allow travelers to craft 99.9% pure silver or 925 sterling silver rings, bracelets, and necklaces in a single session. Most sessions last between 90 minutes to 2 hours, with same-day pickup available for basic designs.

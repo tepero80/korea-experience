@@ -111,10 +111,10 @@ Jeju Island's accommodations are spread across the island, with popular areas of
 
 | Accommodation Type | Best For                       | Average Price Range (per night, 2026 estimate) | Pros                                 | Cons                                 |
 | :----------------- | :----------------------------- | :--------------------------------------------- | :----------------------------------- | :----------------------------------- |
-| **Luxury Resorts** | Couples, families, spa lovers  | 200,000 - 500,000 KRW+                         | Premium amenities, scenic views, comfort | Most expensive, often isolated       |
-| **Boutique Hotels** | Couples, design enthusiasts   | 100,000 - 250,000 KRW                          | Unique design, personalized service  | Fewer facilities than resorts        |
-| **Pensions/Guesthouses** | Budget travelers, groups, families | 50,000 - 150,000 KRW                           | Homey feel, kitchen access, local charm | Variable quality, limited services   |
-| **Hostels/Guesthouses (dorm)** | Solo travelers, backpackers    | 25,000 - 45,000 KRW                            | Very affordable, social atmosphere   | Less privacy, shared facilities      |
+| **Luxury Resorts** | Couples, families, spa lovers  | ₩200,000 - ₩500,000+                         | Premium amenities, scenic views, comfort | Most expensive, often isolated       |
+| **Boutique Hotels** | Couples, design enthusiasts   | ₩100,000 - ₩250,000                          | Unique design, personalized service  | Fewer facilities than resorts        |
+| **Pensions/Guesthouses** | Budget travelers, groups, families | ₩50,000 - ₩150,000                           | Homey feel, kitchen access, local charm | Variable quality, limited services   |
+| **Hostels/Guesthouses (dorm)** | Solo travelers, backpackers    | ₩25,000 - ₩45,000                            | Very affordable, social atmosphere   | Less privacy, shared facilities      |
 
 ### What to Eat
 Jeju cuisine is a highlight of any trip. Don't leave without trying:
@@ -134,7 +134,7 @@ Jeju is a relatively large island, and efficient transportation is key to maximi
 ### Rental Car
 *   **Pros:** Most flexible and convenient option, especially for exploring remote areas or if you're traveling with family. Offers freedom to set your own pace.
 *   **Cons:** Requires an international driving permit (IDP) and experience driving in Korea. Parking can be challenging in popular areas.
-*   **Booking:** Book well in advance, especially during peak seasons. Major rental companies include Lotte Rent-a-Car and Jeju Rent-a-Car. Prices for a compact car typically range from 40,000-80,000 KRW per day, not including insurance or fuel.
+*   **Booking:** Book well in advance, especially during peak seasons. Major rental companies include Lotte Rent-a-Car and Jeju Rent-a-Car. Prices for a compact car typically range from ₩40,000 - ₩80,000 per day, not including insurance or fuel.
 *   **Navigation:** Use Korean navigation apps like KakaoMap or Naver Maps, as Google Maps has limited functionality in Korea.
 
 ### Public Transportation
@@ -143,12 +143,12 @@ Jeju is a relatively large island, and efficient transportation is key to maximi
     *   **Green Buses (Branch Routes):** Serve smaller villages and attractions.
     *   **Red Buses (Express Routes):** Connect Jeju City and Seogwipo City directly.
     *   **Tourist Shuttle Buses:** Some routes cater specifically to tourists, stopping at popular sites.
-*   **Fares:** Bus fares are affordable, typically 1,200 - 4,000 KRW depending on the distance. A T-Money card (rechargeable public transport card) is highly recommended for convenience.
+*   **Fares:** Bus fares are affordable, typically ₩1,200 - ₩4,000 depending on the distance. A T-Money card (rechargeable public transport card) is highly recommended for convenience.
 *   **Tip:** Use KakaoBus or Naver Map for real-time bus information and routes.
 
 ### Taxis
 *   **Availability:** Readily available in major cities and towns. Can be a good option for shorter distances or when traveling in a group to split costs.
-*   **Fares:** Metered. Starting fare is around 3,800 KRW, increasing with distance. Long-distance rides can be expensive.
+*   **Fares:** Metered. Starting fare is around ₩3,800, increasing with distance. Long-distance rides can be expensive.
 *   **Kakao Taxi:** A widely used app in Korea, similar to Uber. Convenient for hailing a taxi and paying through the app.
 
 ### Guided Tours
@@ -160,10 +160,10 @@ Jeju is a relatively large island, and efficient transportation is key to maximi
 
 | Mode of Transport | Flexibility | Convenience | Cost (per day/trip estimate) | Best For                                 |
 | :---------------- | :---------- | :---------- | :--------------------------- | :--------------------------------------- |
-| **Rental Car**    | High        | High        | 40,000-80,000 KRW+           | Families, groups, off-the-beaten-path explorers |
-| **Public Bus**    | Low         | Moderate    | 5,000-15,000 KRW             | Budget travelers, solo travelers, main attractions |
-| **Taxi**          | Moderate    | High        | 10,000-50,000 KRW (per trip) | Short distances, quick transfers, groups of 2-3 |
-| **Guided Tours**  | Low         | High        | 70,000-150,000 KRW+          | First-time visitors, no-stress travel    |
+| **Rental Car**    | High        | High        | ₩40,000 - ₩80,000+           | Families, groups, off-the-beaten-path explorers |
+| **Public Bus**    | Low         | Moderate    | ₩5,000 - ₩15,000             | Budget travelers, solo travelers, main attractions |
+| **Taxi**          | Moderate    | High        | ₩10,000 - ₩50,000 (per trip) | Short distances, quick transfers, groups of 2-3 |
+| **Guided Tours**  | Low         | High        | ₩70,000 - ₩150,000+          | First-time visitors, no-stress travel    |
 
 ## Practical Tips for an Unforgettable Jeju Adventure
 
@@ -171,7 +171,7 @@ To ensure a smooth and enjoyable trip, here are some essential practical tips:
 
 *   **International Driving Permit (IDP):** If you plan to rent a car, you absolutely need an IDP along with your national driver's license. Obtain it in your home country before you travel.
 *   **Connectivity:** Purchase a local SIM card or rent a portable Wi-Fi egg at Jeju International Airport (CJU) upon arrival. This is essential for navigation, communication, and looking up information.
-*   **Cash vs. Card:** Credit cards are widely accepted, but it's always good to carry some Korean Won (KRW) for smaller purchases at markets or local eateries.
+*   **Cash vs. Card:** Credit cards are widely accepted, but it's always good to carry some Korean Won (₩) for smaller purchases at markets or local eateries.
 *   **Korean Apps:** Download KakaoMap or Naver Map for navigation, Kakao Taxi for cabs, and Papago for translation. Google Maps functionality is limited in Korea.
 *   **Learn Basic Korean Phrases:** While many tourist-facing staff speak English, knowing simple phrases like "Annyeonghaseyo" (hello), "Gamsahamnida" (thank you), and "Juseyo" (please give me) can enhance your experience.
 *   **Dress in Layers:** Jeju's weather can be unpredictable, especially if you're hiking. Dressing in layers allows you to adapt to changing temperatures.

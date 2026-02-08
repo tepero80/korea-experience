@@ -71,7 +71,7 @@ The single most effective step you can take to avoid fakes is choosing the right
 
 ## Analyzing the Price: The "Too Good to Be True" Calculation
 
-In 2026, inflation and raw material costs in Korea have stabilized certain price points. If you know the base price in Korean Won (KRW), you can calculate a realistic USD price.
+In 2026, inflation and raw material costs in Korea have stabilized certain price points. If you know the base price in Korean Won (₩), you can calculate a realistic USD price.
 
 A standard bottle of high-quality serum typically costs between ₩25,000 and ₩35,000 ($18–$26 USD) in Seoul. If you see that same serum selling for $8.99 on a random website, it is mathematically impossible for it to be genuine. Shipping a standard 150ml toner bottle internationally costs roughly $5-$10 in logistics fees alone. A product price that doesn't cover the cost of the liquid and the shipping is a major red flag.
 

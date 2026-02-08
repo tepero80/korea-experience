@@ -4,6 +4,16 @@ date: 2026-01-17
 excerpt: "Discover the best venues to watch Korean Mask Dance Drama (Talchum). From Andong Hahoe Village to Seoul's theaters, find schedules and ticket info."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "14 min read"
+featured: false
 ---
 
 The rhythmic clashing of the *kkwaenggwari* (small gong) cuts through the air, signaling the start of a performance that has captivated audiences for centuries. Korean Mask Dance Drama, known locally as *Talchum*, is not merely a dance; it is a vibrant, satirical, and energetic theatrical tradition that offers a window into the soul of historic Korea. Designated as a UNESCO Intangible Cultural Heritage of Humanity in November 2022, *Talchum* has seen a resurgence in popularity among international visitors seeking authentic cultural experiences.
@@ -93,7 +103,7 @@ The acoustics at Namsan Gukakdang are entirely natural (unamplified) for many sh
 
 For a comprehensive cultural evening, Korea House offers a dinner-and-show package. Established in 1957, it is a government-run venue designed to showcase Korean culture to dignitaries and tourists. The performance usually includes a variety of arts, including *Pansori* (musical storytelling) and a segment of *Talchum* (often the Bongsan style).
 
-The dinner features Royal Court Cuisine, with prices ranging from 50,000 KRW to over 150,000 KRW depending on the menu course selected. The performance alone is usually priced around 50,000 KRW.
+The dinner features Royal Court Cuisine, with prices ranging from ₩50,000 to over ₩150,000 depending on the menu course selected. The performance alone is usually priced around ₩50,000.
 
 <PriceTable
   title="Korea House Options"
@@ -131,7 +141,7 @@ The permanent performance venue at Hahoe Village hosts shows regularly. As of 20
 *   **Days:** Tuesday through Sunday (Closed Mondays).
 *   **Time:** 14:00 (2:00 PM).
 *   **Duration:** 60 minutes.
-*   **Cost:** The performance itself is free; you only pay the admission fee to enter Hahoe Village (5,000 KRW for adults).
+*   **Cost:** The performance itself is free; you only pay the admission fee to enter Hahoe Village (₩5,000 for adults).
 
 <StepGuide
   title="How to Get to Andong Hahoe Village from Seoul"
@@ -190,7 +200,7 @@ The festival attracts performing groups not just from Korea, but from over 20 co
 
 *   **Scale:** Over 1 million visitors annually.
 *   **Venue:** Mask Dance Park (downtown Andong) and Hahoe Village.
-*   **Ticket Price:** General admission to the festival grounds is often free, but main stage performances cost around 7,000 to 10,000 KRW.
+*   **Ticket Price:** General admission to the festival grounds is often free, but main stage performances cost around 7,000 to ₩10,000.
 
 <InfoBox type="tip" title="Festival Pro Tip">
 During the festival, accommodation in Andong sells out 2-3 months in advance. If you cannot find a hotel in Andong, look for stays in nearby Yeongju or plan to take the late train back to Seoul or Daegu.
@@ -224,7 +234,7 @@ The dance is driven by a band called *Samulnori* or a larger ensemble. Pay atten
 
 For venues in Seoul like the National Gugak Center, tickets can be booked online via global platforms like Interpark Ticket or Klook. However, for smaller venues or regional performances, tickets are often sold on-site.
 
-*   **Average Cost:** 20,000 KRW - 50,000 KRW for theater shows.
+*   **Average Cost:** ₩20,000 - ₩50,000 for theater shows.
 *   **Free Options:** Seoul Nori Madang (outdoors near Lotte World) offers free traditional performances on weekends from April to October, usually at 3:00 PM.
 *   **Discounts:** Seniors (65+) and those wearing *Hanbok* (traditional dress) often receive 20-50% discounts at government-run venues.
 
@@ -258,7 +268,7 @@ Outdoor performances (like at Andong or Seoul Nori Madang) are strictly weather-
 If you have a choice, always choose a "Madang" style venue (arena seating) over a proscenium stage (movie theater style). *Talchum* was designed for 360-degree viewing. Seeing the back of the mask or the interaction between the dancer and the musicians behind them adds depth.
 
 **3. Souvenirs**
-Authentic masks are expensive. A high-quality carved wooden mask from Andong can cost between 150,000 KRW and 500,000 KRW. Cheap plastic replicas are available for 10,000 KRW, but if you want a true keepsake, look for "Hahoe Tal" certified by local artisans. The "Yangban" mask is the most popular souvenir.
+Authentic masks are expensive. A high-quality carved wooden mask from Andong can cost between ₩150,000 and ₩500,000. Cheap plastic replicas are available for ₩10,000, but if you want a true keepsake, look for "Hahoe Tal" certified by local artisans. The "Yangban" mask is the most popular souvenir.
 
 <InfoBox type="warning" title="Warning: Transport Time">
 If traveling to Andong for a day trip, be aware that the last KTX back to Seoul often leaves around 20:00 or 21:00. Missing this train means a 3-4 hour bus ride or an overnight stay. Always book your return ticket in advance.

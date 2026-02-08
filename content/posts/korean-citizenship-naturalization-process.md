@@ -4,6 +4,16 @@ date: 2026-01-14
 excerpt: "A complete guide to becoming a Korean citizen including requirements, the KIIP program, costs, and the interview process."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Budget Travel"
+  - "Phone"
+readTime: "12 min read"
+featured: false
 ---
 
 Becoming a citizen of South Korea is a transformative milestone for long-term residents. It represents the ultimate commitment to life on the peninsula, granting you the right to vote, access to comprehensive welfare benefits, and the security of a passport that consistently ranks among the most powerful globally. However, the path to obtaining a Korean passport is rigorous, bureaucratic, and demands significant preparation.
@@ -16,7 +26,7 @@ Related reading: [Korean Driving License Conversion Process Guide for Expats](/b
   points={[
     "General Naturalization requires 5 consecutive years of residency",
     "Application processing times currently average 18 to 24 months",
-    "Applicants must prove financial assets exceeding 60 million KRW or GNI capability"
+    "Applicants must prove financial assets exceeding ₩60 million or GNI capability"
   ]}
   readTime={15}
   lastUpdated="2026-02-06"
@@ -67,8 +77,8 @@ The financial barrier is often the most challenging hurdle for General Naturaliz
 As of early 2026, the financial threshold is tied to the Gross National Income (GNI) per capita. For General Naturalization, you must prove an annual income equal to or greater than the previous year's GNI per capita.
 
 ### Financial Benchmarks
-*   **Income Requirement:** Approximately **44.5 million KRW** (based on 2025 GNI data).
-*   **Asset Requirement:** Alternatively, you can show net assets worth over **60 million KRW**. This can include real estate deposits (Jeonse/Wolse), savings, or property ownership.
+*   **Income Requirement:** Approximately **₩44.5 million** (based on 2025 GNI data).
+*   **Asset Requirement:** Alternatively, you can show net assets worth over **₩60 million**. This can include real estate deposits (Jeonse/Wolse), savings, or property ownership.
 *   **Employment:** Proof of employment or business registration certificate is mandatory.
 
 <QuickFacts
@@ -76,12 +86,12 @@ As of early 2026, the financial threshold is tied to the Gross National Income (
   facts={[
     { label: "Minimum Age", value: "19 Years", icon: "🎂" },
     { label: "Residency", value: "5+ Years", icon: "🏠" },
-    { label: "Asset Proof", value: "60M KRW", icon: "💰" }
+    { label: "Asset Proof", value: "₩60M", icon: "💰" }
   ]}
   columns={3}
 />
 
-You must also maintain "Good Conduct." This implies you possess no criminal record. Even minor fines (such as traffic violations exceeding **100,000 KRW**) can negatively impact your evaluation. A criminal background check from your home country, apostilled and translated, is required.
+You must also maintain "Good Conduct." This implies you possess no criminal record. Even minor fines (such as traffic violations exceeding **₩100,000**) can negatively impact your evaluation. A criminal background check from your home country, apostilled and translated, is required.
 
 ## The KIIP Requirement (Korea Immigration and Integration Program)
 
@@ -120,7 +130,7 @@ Once you have your KIIP completion certificate and financial documents ready, th
   steps={[
     { title: "Gather Documents", description: "Collect Application Form, Passport, ARC, Family Relation Certificate, Financial Proof, KIIP Certificate, and Criminal Background Check.", tip: "All foreign documents must be translated into Korean." },
     { title: "Reserve Visit", description: "Book an appointment at HiKorea.go.kr. Walk-ins are generally not accepted for naturalization.", tip: "Book 3-4 weeks in advance." },
-    { title: "Submit & Pay", description: "Submit documents to the officer. The application fee is 300,000 KRW. You will receive a receipt number.", tip: "Payment is usually by revenue stamps (inji) bought on-site." },
+    { title: "Submit & Pay", description: "Submit documents to the officer. The application fee is ₩300,000. You will receive a receipt number.", tip: "Payment is usually by revenue stamps (inji) bought on-site." },
     { title: "Review Period", description: "The Ministry of Justice reviews your file. This takes 10 to 18 months. You may be asked for additional documents." },
     { title: "Interview", description: "You will be summoned for an interview to test your language and loyalty.", tip: "Memorize the National Anthem (Aegukga)." },
     { title: "Final Notification", description: "If approved, you receive a Notice of Permission for Naturalization." }

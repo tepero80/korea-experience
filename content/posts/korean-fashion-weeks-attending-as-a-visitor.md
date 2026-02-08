@@ -4,6 +4,16 @@ date: 2026-01-16
 excerpt: "A complete guide to attending Seoul Fashion Week 2026 as a visitor. Learn how to get tickets, where to spot celebrities, and navigating DDP like a pro."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Banking"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 Seoul has rapidly ascended the ranks to become the fashion capital of Asia, rivaling Tokyo and Shanghai with its distinct blend of high-end luxury and edgy streetwear. For international travelers and K-culture enthusiasts, attending Korean Fashion Weeks as a visitor is a bucket-list experience that offers a front-row seat to the country's aesthetic explosion.
@@ -73,7 +83,7 @@ The epicenter of Korean fashion is the DDP. This silver, spaceship-like structur
   tip="Exit 1 connects directly to the plaza ground level where the photographers gather."
 />
 
-The distance from the subway platform to the main "blue carpet" area is approximately 250 meters. There are lockers available inside the Design Lab if you need to store heavy coats or luggage, costing roughly 2,000 KRW to 4,000 KRW ($1.50 - $3.00 USD) for 4 hours.
+The distance from the subway platform to the main "blue carpet" area is approximately 250 meters. There are lockers available inside the Design Lab if you need to store heavy coats or luggage, costing roughly ₩2,000 to ₩4,000 ($1.50 - $3.00 USD) for 4 hours.
 
 ## How to Get Tickets to Runway Shows
 
@@ -94,7 +104,7 @@ However, Seoul operates a public invitation lottery system.
 />
 
 ### The "Scalper" Reality
-While strictly prohibited, ticket trading does happen on platforms like Twitter (X) or Bungaejangter (Korean secondhand market app). Prices can range from 30,000 KRW to 150,000 KRW ($22 - $110 USD) depending on the celebrity lineup attending the show. We strongly advise against this due to high scam risks and ID checks at the door.
+While strictly prohibited, ticket trading does happen on platforms like Twitter (X) or Bungaejangter (Korean secondhand market app). Prices can range from ₩30,000 to ₩150,000 ($22 - $110 USD) depending on the celebrity lineup attending the show. We strongly advise against this due to high scam risks and ID checks at the door.
 
 <ExpertTip 
   author="Sarah Kim"
@@ -147,9 +157,9 @@ Seoul is generally affordable compared to Tokyo or New York, but Fashion Week br
 
 ### Accommodation Strategy
 Hotels within a 1km radius of DDP often increase prices by 25-40% during Fashion Week.
-*   **Novotel Ambassador Dongdaemun:** High-end, often hosts designers. Approx. 350,000 KRW/night.
-*   **Sotetsu Hotels The Splaisir:** Mid-range, 5-minute walk. Approx. 150,000 KRW/night.
-*   **Mangwon/Hongdae Area:** Stay here and commute (20 mins via Line 2). Approx. 80,000 KRW/night.
+*   **Novotel Ambassador Dongdaemun:** High-end, often hosts designers. Approx. ₩350,000/night.
+*   **Sotetsu Hotels The Splaisir:** Mid-range, 5-minute walk. Approx. ₩150,000/night.
+*   **Mangwon/Hongdae Area:** Stay here and commute (20 mins via Line 2). Approx. ₩80,000/night.
 
 ## Logistics: Food & Connectivity
 
@@ -157,7 +167,7 @@ Spending 4-6 hours standing at DDP is exhausting. You need a survival plan.
 
 **Wi-Fi & Data:**
 You will need data to upload content instantly. DDP provides free public Wi-Fi (`Public WiFi Seoul`), but it gets congested with 30,000 people.
-*   **Recommendation:** Rent a portable Wi-Fi egg or buy an eSIM (approx. 5,500 KRW per day for unlimited data).
+*   **Recommendation:** Rent a portable Wi-Fi egg or buy an eSIM (approx. ₩5,500 per day for unlimited data).
 
 **Coffee & Food:**
 There are cafes inside the DDP Design Lab, but lines can exceed 30 minutes.

@@ -211,7 +211,7 @@ The area around Bonghwasan Station has several local bakeries and cafes, perfect
 
 ## Cost Comparison: Getting to the Trails (Approximate One-Way)
 
-| Mountain Name | Primary Transport | Estimated Cost (KRW) | Notes                                                               |
+| Mountain Name | Primary Transport | Estimated Cost (₩) | Notes                                                               |
 | :------------ | :---------------- | :------------------- | :------------------------------------------------------------------ |
 | **Suraesan**  | Subway            | 1,500 - 2,000        | T-Money card recommended for subway.                                |
 | **Yongmasan** | Subway            | 1,300 - 1,800        | T-Money card recommended for subway.                                |

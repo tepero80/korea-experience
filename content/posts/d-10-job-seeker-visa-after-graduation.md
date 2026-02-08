@@ -4,6 +4,16 @@ date: 2026-01-06
 excerpt: "A complete guide to securing the D 10 Job Seeker Visa in Korea. Learn the point system requirements, documents needed, and application steps for 2026."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Budget Travel"
+readTime: "12 min read"
+featured: false
 ---
 
 Graduating from a university in South Korea is a monumental achievement, but for international students, the celebration is often accompanied by the looming anxiety of visa expiration. The transition from student life (D-2 visa) to the professional world (E-7 visa) is rarely seamless. This is where the **D 10 Job Seeker Visa** becomes your most critical asset.
@@ -18,7 +28,7 @@ For more details, check out our guide on [D 10 Job Seeker Visa Korea 2026 Comple
   points={[
     "You must score at least 60 points out of a possible 190 on the evaluation scale to qualify",
     "The visa is issued in 6-month increments, extendable up to a maximum of 2 years",
-    "Financial proof of approximately 5 million KRW is required for the application"
+    "Financial proof of approximately ₩5 million is required for the application"
   ]}
   readTime={12}
   lastUpdated="2026-02-06"
@@ -39,7 +49,7 @@ Learn more in our comprehensive guide to [Changing visa status while in Korea gu
 <QuickFacts
   title="Visa Snapshot 2026"
   facts={[
-    { label: "Application Fee", value: "130,000 KRW", icon: "💰" },
+    { label: "Application Fee", value: "₩130,000", icon: "💰" },
     { label: "Valid For", value: "6 Months", icon: "⏱️" },
     { label: "Max Extension", value: "2 Years", icon: "📅" }
   ]}
@@ -137,7 +147,7 @@ Missing a single document usually results in a rejection or a request to return 
 6.  **Job Seeking Plan:** A detailed monthly plan of how you will search for a job.
 7.  **Proof of Residence:** Lease agreement in your name or a "Confirmation of Residence/Accommodation" form.
 8.  **Financial Statement:** Proof that you can support yourself.
-9.  **Fee:** 130,000 KRW in cash (100,000 for stamps, 30,000 for the new card).
+9.  **Fee:** ₩130,000 in cash (100,000 for stamps, 30,000 for the new card).
 
 <ExpertTip 
   author="Sarah Jenkins"
@@ -151,7 +161,7 @@ Do not leave your 'Job Seeking Plan' vague. Instead of writing 'Search on Linked
 ### Step 2: Financial Requirements
 As of 2026, the financial requirement is tied to the cost of living index. You generally need to prove you have liquid assets covering 6 months of living expenses.
 
-Currently, the safe amount to show in your Korean bank account is approximately **4.6 million to 5 million KRW** (roughly $3,500 - $3,800 USD). This money must be in your account at the time the bank statement is issued.
+Currently, the safe amount to show in your Korean bank account is approximately **4.6 million to ₩5 million** (roughly $3,500 - $3,800 USD). This money must be in your account at the time the bank statement is issued.
 
 <StepGuide
   title="How to Secure Proof of Finance"

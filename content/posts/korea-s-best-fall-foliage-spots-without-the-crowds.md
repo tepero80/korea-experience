@@ -27,7 +27,7 @@ The path leading to Woljeongsa Temple (Woljeongsa Jeonnamu Supgil) is an iconic 
 *   **Crowd Level:** Moderate near the temple entrance, significantly less crowded deeper into the park's hiking trails.
 *   **Activities:** Gentle forest walks, temple stay programs at Woljeongsa, meditation, hiking to Birosan Peak for panoramic views.
 *   **Getting There:** From Dong Seoul Bus Terminal, take a bus to Jinbu Intercity Bus Terminal (approx. 2 hours). From Jinbu, local buses to Woljeongsa Temple run regularly (approx. 20-30 minutes).
-*   **Estimated Costs:** Woljeongsa Temple cultural asset fee: 5,000 Korean Won (KRW) per adult. Bus fares vary but expect around 15,000-20,000 KRW one-way from Seoul to Jinbu.
+*   **Estimated Costs:** Woljeongsa Temple cultural asset fee: 5,000 Korean Won (₩) per adult. Bus fares vary but expect around ₩15,000 - ₩20,000 one-way from Seoul to Jinbu.
 
 ### Sangwonsa Temple and Birobong Peak
 
@@ -47,7 +47,7 @@ Located on the southwestern side of Jirisan, **Piagol Valley** is legendary for 
 *   **Crowd Level:** Moderate on weekends, very peaceful on weekdays.
 *   **Activities:** Hiking, photography, visiting Yonkoksa Temple, enjoying local Gurye persimmons (a seasonal specialty).
 *   **Getting There:** From Seoul Nambu Bus Terminal, take a bus to Gurye Intercity Bus Terminal (approx. 3.5 hours). From Gurye, local buses go towards Piagol (check schedules as they can be infrequent). Taxis are also available.
-*   **Estimated Costs:** No entry fee for the park itself, but some facilities or specific trails might have small charges. Bus from Seoul to Gurye: 25,000-30,000 KRW one-way.
+*   **Estimated Costs:** No entry fee for the park itself, but some facilities or specific trails might have small charges. Bus from Seoul to Gurye: ₩25,000 - ₩30,000 one-way.
 
 ### Hwaeomsa Temple and Jungsan-ri
 
@@ -67,7 +67,7 @@ The valley leading up to Haeinsa Temple is beautiful in autumn, but the real gem
 *   **Crowd Level:** Moderate near Haeinsa, significantly less crowded on higher trails or further from the temple.
 *   **Activities:** Exploring Haeinsa Temple, hiking to Sangwangbong Peak, photography, enjoying the serene atmosphere.
 *   **Getting There:** From Daegu Seobu Bus Terminal, take a bus directly to Haeinsa Temple (approx. 1.5 hours). From Seoul, take a bus to Daegu, then transfer.
-*   **Estimated Costs:** Haeinsa Temple cultural asset fee: 3,000 KRW per adult. Bus from Daegu to Haeinsa: around 8,000 KRW one-way.
+*   **Estimated Costs:** Haeinsa Temple cultural asset fee: ₩3,000 per adult. Bus from Daegu to Haeinsa: around ₩8,000 one-way.
 
 ### Hongnyudong Valley
 
@@ -87,7 +87,7 @@ The **Deokju Valley** is one of Woraksan's most picturesque areas, especially in
 *   **Crowd Level:** Low to moderate, primarily domestic hikers.
 *   **Activities:** Hiking, photography, exploring Deokjusa Temple, enjoying the pristine nature.
 *   **Getting There:** From Dong Seoul Bus Terminal, take a bus to Jecheon Intercity Bus Terminal (approx. 2 hours). From Jecheon, take a local bus towards Deokjusa Temple (check schedules, as they can be infrequent). Taxis are also an option.
-*   **Estimated Costs:** No entry fee for the park. Bus from Seoul to Jecheon: around 12,000 KRW one-way.
+*   **Estimated Costs:** No entry fee for the park. Bus from Seoul to Jecheon: around ₩12,000 one-way.
 
 ### Songgye Valley
 
@@ -107,7 +107,7 @@ Another fantastic option within Woraksan is the **Songgye Valley**. This valley 
 *   **Crowd Level:** Moderate near the temple, light on surrounding trails.
 *   **Activities:** Temple visit, hiking, photography, enjoying traditional Korean architecture.
 *   **Getting There:** From Dong Seoul Bus Terminal, take a bus to Boeun Intercity Bus Terminal (approx. 2 hours). From Boeun, take a local bus to Songnisan National Park (approx. 30 minutes).
-*   **Estimated Costs:** Beopjusa Temple cultural asset fee: 5,000 KRW per adult. Bus from Seoul to Boeun: around 11,000 KRW one-way.
+*   **Estimated Costs:** Beopjusa Temple cultural asset fee: ₩5,000 per adult. Bus from Seoul to Boeun: around ₩11,000 one-way.
 
 ### Ssanggok Valley
 
@@ -127,7 +127,7 @@ The main trail through **Juwang Valley** is relatively easy and flat, making it 
 *   **Crowd Level:** Moderate on weekends, light on weekdays.
 *   **Activities:** Hiking, waterfall viewing, photography, exploring Daejeonsa Temple.
 *   **Getting There:** From Dong Seoul Bus Terminal, take a bus to Cheongsong Intercity Bus Terminal (approx. 4 hours). From Cheongsong, local buses run regularly to Juwangsan National Park (approx. 30 minutes).
-*   **Estimated Costs:** Juwangsan National Park entry fee: 3,500 KRW per adult. Bus from Seoul to Cheongsong: around 25,000 KRW one-way.
+*   **Estimated Costs:** Juwangsan National Park entry fee: ₩3,500 per adult. Bus from Seoul to Cheongsong: around ₩25,000 one-way.
 
 ### Jeolgol Valley
 
@@ -165,10 +165,10 @@ To help you decide which tranquil spot is best for your autumn adventure, here a
 
 | Item                       | Odaesan         | Jirisan           | Gayasan           | Woraksan          | Songnisan         | Juwangsan         |
 | :------------------------- | :-------------- | :---------------- | :---------------- | :---------------- | :---------------- | :---------------- |
-| **Transport (RT Bus)**     | 30,000 KRW      | 55,000 KRW        | 40,000 KRW        | 25,000 KRW        | 22,000 KRW        | 50,000 KRW        |
-| **Park/Temple Entry**      | 5,000 KRW       | Free              | 3,000 KRW         | Free              | 5,000 KRW         | 3,500 KRW         |
-| **Local Bus/Taxi**         | 5,000 KRW       | 10,000 KRW        | 0-5,000 KRW       | 5,000 KRW         | 5,000 KRW         | 5,000 KRW         |
-| **Total Estimated (per person)** | **40,000 KRW**  | **70,000 KRW**    | **43,000 KRW**    | **30,000 KRW**    | **32,000 KRW**    | **58,500 KRW**    |
+| **Transport (RT Bus)**     | ₩30,000      | ₩55,000        | ₩40,000        | ₩25,000        | ₩22,000        | ₩50,000        |
+| **Park/Temple Entry**      | ₩5,000       | Free              | ₩3,000         | Free              | ₩5,000         | ₩3,500         |
+| **Local Bus/Taxi**         | ₩5,000       | ₩10,000        | ₩0 - ₩5,000       | ₩5,000         | ₩5,000         | ₩5,000         |
+| **Total Estimated (per person)** | **₩40,000**  | **₩70,000**    | **₩43,000**    | **₩30,000**    | **₩32,000**    | **₩58,500**    |
 | *(Approx. USD)*           | *30 USD*        | *52 USD*          | *32 USD*          | *22 USD*          | *24 USD*          | *44 USD*          |
 
 *Note: These are rough estimates and actual prices may vary based on specific bus routes, taxi usage, and exchange rates.*

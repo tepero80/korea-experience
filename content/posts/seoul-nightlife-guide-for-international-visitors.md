@@ -89,7 +89,7 @@ A Noraebang is a private room equipped with a large screen, microphones, a songb
 #### How to Use a Noraebang:
 
 1.  **Find a Noraebang:** They are ubiquitous, especially in nightlife districts. Look for brightly lit signs.
-2.  **Rent a Room:** Tell the counter staff how many people are in your group and how long you want the room (e.g., "Han shigan juseyo" - one hour, please). Prices typically range from 15,000 KRW to 30,000 KRW per hour, depending on the time, location, and room size.
+2.  **Rent a Room:** Tell the counter staff how many people are in your group and how long you want the room (e.g., "Han shigan juseyo" - one hour, please). Prices typically range from ₩15,000 to ₩30,000 per hour, depending on the time, location, and room size.
 3.  **Choose Songs:** Use the remote control and songbook (often available in English, Japanese, and Chinese). Enter the song number, then press the "start" or "play" button.
 4.  **Order Drinks/Snacks:** Most Noraebang offer bottled water, soft drinks, and sometimes basic snacks for purchase.
 5.  **Sing!** Embrace the fun, even if you are not a professional singer. The goal is to have a good time.
@@ -140,7 +140,7 @@ Seoul's clubbing scene is legendary, often rivaling major cities like Tokyo or B
 
 **Vibe:** High-energy, glamorous, often very crowded.
 **Music:** Primarily EDM, house, techno.
-**What to Expect:** Gangnam is home to some of Asia's largest and most technologically advanced clubs. Expect multiple dance floors, renowned international DJs, elaborate light shows, and bottle service sections. Entrance fees typically range from 20,000 KRW to 50,000 KRW, often including one free drink. Dress code can be strict – smart casual is generally recommended.
+**What to Expect:** Gangnam is home to some of Asia's largest and most technologically advanced clubs. Expect multiple dance floors, renowned international DJs, elaborate light shows, and bottle service sections. Entrance fees typically range from ₩20,000 to ₩50,000, often including one free drink. Dress code can be strict – smart casual is generally recommended.
 **Notable Examples (always check current status as clubs change):** Club Face (formerly Octagon), Arena (check local listings, as major clubs can be transient). These clubs attract a mostly local Korean crowd, with a fair share of international visitors.
 **Insider Tip:** Weekends are busiest. Arrive earlier (around 10-11 PM) to avoid long lines, or much later (2-3 AM) once the initial rush subsides.
 
@@ -170,7 +170,7 @@ Seoul's nightlife extends far beyond just drinking and dancing. For those lookin
 **Experience:** After cleansing in the public bath areas (gender-separated and nude, as is customary), you can relax in different themed saunas (e.g., salt, charcoal, jade), unwind in lounge areas, or even stay overnight for a budget accommodation option.
 **Highlights:** A unique cultural experience, perfect for relaxation after a long day or night out. Try "Sikhye" (식혜, a sweet rice punch) and "Maekbanseok Gyelan" (맥반석 계란, roasted eggs).
 **Location:** Dragon Hill Spa in Yongsan is famous, but smaller local ones are ubiquitous.
-**Price Level:** Affordable (10,000 - 20,000 KRW for entry).
+**Price Level:** Affordable (₩10,000 - ₩20,000 for entry).
 
 #### Late-Night Shopping
 

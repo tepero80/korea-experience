@@ -43,13 +43,13 @@ The EPIK application process is rigorous and can take several months. There are 
 
 #### EPIK Salary and Benefits
 EPIK offers a competitive package that includes:
-*   **Monthly Salary:** Typically ranges from 2.0 million KRW to 2.7 million KRW, depending on your qualifications (e.g., advanced degrees, teaching experience, teaching license).
+*   **Monthly Salary:** Typically ranges from ₩2.0 million to ₩2.7 million, depending on your qualifications (e.g., advanced degrees, teaching experience, teaching license).
 *   **Housing:** A rent-free single apartment is provided by the school or provincial office of education. This is a significant benefit, as housing costs can be substantial in Korea.
 *   **Severance Pay:** Upon successful completion of your contract (one year), you receive a severance bonus equivalent to one month's salary.
-*   **Entrance and Exit Allowances:** Often, one-time allowances (around 1.3 million KRW each) are provided for initial setup and return travel, though this can vary.
+*   **Entrance and Exit Allowances:** Often, one-time allowances (around ₩1.3 million each) are provided for initial setup and return travel, though this can vary.
 *   **Vacation:** Approximately 18-26 paid vacation days per year, in addition to all Korean national holidays. EPIK teachers generally follow the public school calendar, offering generous breaks.
 *   **Health Insurance and Pension:** You are enrolled in Korea's national health insurance program and national pension scheme, with premiums partially covered by your employer.
-*   **Settlement Allowance:** A small one-time allowance (e.g., 300,000 KRW) for initial expenses.
+*   **Settlement Allowance:** A small one-time allowance (e.g., ₩300,000) for initial expenses.
 
 #### Pros and Cons of EPIK
 
@@ -97,8 +97,8 @@ When searching, be thorough in researching specific Hagwons. Look for reviews fr
 
 #### Hagwon Salary and Benefits
 Hagwon packages vary widely but generally include:
-*   **Monthly Salary:** Typically ranges from 2.1 million KRW to 2.8 million KRW or more for experienced teachers. High-end Hagwons in prime locations with specialized curricula might offer even higher salaries.
-*   **Housing:** Many Hagwons provide a rent-free studio apartment. Some offer a housing allowance (e.g., 400,000-500,000 KRW per month) if you prefer to find your own accommodation. It's crucial to clarify this upfront.
+*   **Monthly Salary:** Typically ranges from ₩2.1 million to ₩2.8 million or more for experienced teachers. High-end Hagwons in prime locations with specialized curricula might offer even higher salaries.
+*   **Housing:** Many Hagwons provide a rent-free studio apartment. Some offer a housing allowance (e.g., ₩400,000 - ₩500,000 per month) if you prefer to find your own accommodation. It's crucial to clarify this upfront.
 *   **Severance Pay:** Mandatory by Korean law for contracts of one year or more, equivalent to one month's salary upon completion.
 *   **Flights:** Round-trip airfare or a one-way allowance may be offered by some Hagwons, especially for first-time teachers. This is less common now but still exists.
 *   **Vacation:** Generally less than EPIK, typically 10 paid vacation days per year, plus Korean national holidays. These days are often split into a few days in summer and a few in winter.
@@ -135,7 +135,7 @@ Hagwon packages vary widely but generally include:
 | **Location**      | Assigned (can prefer, but not guaranteed)            | More choice, specific city/district often guaranteed           |
 | **Support**       | Formal orientation, co-teacher support, government   | Varies by Hagwon, often less formal support from management |
 | **Target Ages**   | Elementary, Middle, High School students             | All ages (preschoolers, elementary, middle, high, adults)     |
-| **Salary Range**  | 2.0 - 2.7 million KRW                                | 2.1 - 2.8+ million KRW                                        |
+| **Salary Range**  | 2.0 - ₩2.7 million                                | 2.1 - 2.8+ million won                                        |
 | **Application**   | Centralized, annual intakes                        | Decentralized, ongoing throughout the year                    |
 
 ### The Application Journey: A Step-by-Step Guide for Both
@@ -180,11 +180,11 @@ Teaching English in Korea is more than just a job; it's an immersive cultural ex
 #### Cost of Living in Korea
 The cost of living varies significantly depending on your location. Seoul is generally the most expensive, while cities like Busan, Daegu, Gwangju, or smaller towns offer more affordable living.
 
-*   **Rent:** If housing isn't provided (e.g., some Hagwons offer allowance), a studio apartment (`one-room` in Korean) in Seoul can range from 500,000 to 800,000 KRW per month, plus a significant deposit (`key money` or `jeonse`), often 5-10 million KRW, which is returned at the end of your lease. Outside Seoul, these costs can be 30-50% lower. EPIK teachers generally don't pay rent, saving a lot.
-*   **Utilities:** Electricity, gas, and internet usually cost 100,000 - 200,000 KRW per month, depending on usage (especially heating in winter).
-*   **Food:** Eating out can be very affordable, especially local Korean food. A meal at a casual restaurant (e.g., `kimbap` or `bibimbap`) might be 7,000-10,000 KRW. Groceries can be more expensive for Western goods. Budget 300,000-500,000 KRW per month.
-*   **Transportation:** Korea has an excellent public transportation system. A single subway or bus ride in major cities costs around 1,250 KRW. Monthly passes are available. Taxis are also relatively affordable compared to Western countries. Budget 50,000-100,000 KRW per month.
-*   **Saving Potential:** With careful budgeting, many teachers can save between 500,000 KRW and 1,000,000 KRW per month, particularly those with provided housing.
+*   **Rent:** If housing isn't provided (e.g., some Hagwons offer allowance), a studio apartment (`one-room` in Korean) in Seoul can range from ₩500,000 to ₩800,000 per month, plus a significant deposit (`key money` or `jeonse`), often 5-₩10 million, which is returned at the end of your lease. Outside Seoul, these costs can be 30-50% lower. EPIK teachers generally don't pay rent, saving a lot.
+*   **Utilities:** Electricity, gas, and internet usually cost ₩100,000 - ₩200,000 per month, depending on usage (especially heating in winter).
+*   **Food:** Eating out can be very affordable, especially local Korean food. A meal at a casual restaurant (e.g., `kimbap` or `bibimbap`) might be ₩7,000 - ₩10,000. Groceries can be more expensive for Western goods. Budget ₩300,000 - ₩500,000 per month.
+*   **Transportation:** Korea has an excellent public transportation system. A single subway or bus ride in major cities costs around ₩1,250. Monthly passes are available. Taxis are also relatively affordable compared to Western countries. Budget ₩50,000 - ₩100,000 per month.
+*   **Saving Potential:** With careful budgeting, many teachers can save between ₩500,000 and ₩1,000,000 per month, particularly those with provided housing.
 
 #### Cultural Immersion and Social Life
 Korea is a fascinating country to explore.
@@ -238,7 +238,7 @@ No, a Bachelor's degree (or higher) is a mandatory requirement for obtaining the
 For EPIK, the application windows typically open in February-March for the Fall intake (starting late August/early September) and August-September for the Spring intake (starting late February/early March of the following year). It's best to apply as early as possible within these windows, as positions fill up quickly.
 
 **4. How much money can I save in Korea as an English teacher?**
-With an average salary and provided housing, many teachers can save between 500,000 KRW and 1,000,000 KRW (approximately 375-750 USD) per month, after covering living expenses and some leisure activities. Savings depend heavily on individual spending habits, especially for travel and eating out.
+With an average salary and provided housing, many teachers can save between ₩500,000 and ₩1,000,000 (approximately 375-750 USD) per month, after covering living expenses and some leisure activities. Savings depend heavily on individual spending habits, especially for travel and eating out.
 
 **5. What are the biggest challenges for new teachers in Korea?**
 Common challenges include initial culture shock, homesickness, adjusting to a new work environment (especially the hierarchical Korean workplace culture), language barriers outside of work, and navigating public transportation or bureaucracy. However, most teachers find these challenges are overcome with time, an open mind, and support from expat communities.

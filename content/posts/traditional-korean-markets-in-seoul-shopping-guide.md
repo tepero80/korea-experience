@@ -166,14 +166,14 @@ To make your experience at traditional Korean markets in Seoul as smooth and enj
 
 | Market Name       | Best For                                     | Vibe                                                                  | Must-Try Food                                     | Avg. Cost (per person, food) |
 | :---------------- | :------------------------------------------- | :-------------------------------------------------------------------- | :------------------------------------------------ | :--------------------------- |
-| Gwangjang Market  | Authentic Korean Street Food, Hanbok         | Lively, bustling, sensory overload, very tourist-friendly             | Bindaetteok, Mayak Gimbap, Tteokbokki             | 10,000 - 20,000 KRW          |
-| Namdaemun Market  | Shopping (clothes, souvenirs, household items)| Massive, sprawling, traditional bazaar, great for bargains             | Kalguksu, Hotteok, Galchi Jorim                   | 8,000 - 15,000 KRW           |
-| Tongin Market     | Unique "Dosirak Cafe" coin experience        | Quaint, local, interactive, perfect for sampling many dishes          | Oil Tteokbokki, Jeon, Gyeran Mari                 | 5,000 - 10,000 KRW           |
-| Mangwon Market    | Local experience, fresh produce, casual food | Neighborhood charm, less crowded, affordable, authentic local vibe     | Dakgangjeong, Korean Croquettes, Fresh Juices     | 5,000 - 12,000 KRW           |
+| Gwangjang Market  | Authentic Korean Street Food, Hanbok         | Lively, bustling, sensory overload, very tourist-friendly             | Bindaetteok, Mayak Gimbap, Tteokbokki             | ₩10,000 - ₩20,000          |
+| Namdaemun Market  | Shopping (clothes, souvenirs, household items)| Massive, sprawling, traditional bazaar, great for bargains             | Kalguksu, Hotteok, Galchi Jorim                   | ₩8,000 - ₩15,000           |
+| Tongin Market     | Unique "Dosirak Cafe" coin experience        | Quaint, local, interactive, perfect for sampling many dishes          | Oil Tteokbokki, Jeon, Gyeran Mari                 | ₩5,000 - ₩10,000           |
+| Mangwon Market    | Local experience, fresh produce, casual food | Neighborhood charm, less crowded, affordable, authentic local vibe     | Dakgangjeong, Korean Croquettes, Fresh Juices     | ₩5,000 - ₩12,000           |
 
 ### Top Korean Market Food Delicacies
 
-| Dish Name             | Description                                                                                                   | Typical Price Range (KRW) |
+| Dish Name             | Description                                                                                                   | Typical Price Range (₩) |
 | :-------------------- | :------------------------------------------------------------------------------------------------------------ | :------------------------ |
 | Bindaetteok           | Savory mung bean pancakes, crispy on the outside, soft inside, often served with dipping sauce.               | 5,000 - 8,000             |
 | Mayak Gimbap          | Small, addictive rice rolls, minimally filled, served with a tangy mustard sauce.                              | 3,000 - 5,000             |
@@ -201,7 +201,7 @@ To make your experience at traditional Korean markets in Seoul as smooth and enj
 Bargaining is generally not as common or aggressive as in some other Asian countries. In Namdaemun Market, you might find some room for negotiation, especially if you're buying multiple items from the same vendor. However, for food stalls, fresh produce, and items with clearly marked prices, bargaining is usually not expected or accepted. A polite inquiry about a discount for a bulk purchase is acceptable.
 
 ### 2. Should I use cash or card when visiting the markets?
-It's highly recommended to carry a good amount of Korean Won in small denominations (1,000, 5,000, 10,000 KRW notes). While larger, more established stalls and restaurants are increasingly accepting credit cards, many smaller street food vendors and independent shops still operate on a cash-only basis. Having cash will ensure a smoother and more authentic experience.
+It's highly recommended to carry a good amount of Korean Won in small denominations (1,000, 5,000, ₩10,000 notes). While larger, more established stalls and restaurants are increasingly accepting credit cards, many smaller street food vendors and independent shops still operate on a cash-only basis. Having cash will ensure a smoother and more authentic experience.
 
 ### 3. Are the markets safe for tourists?
 Yes, traditional Korean markets are generally very safe for tourists. Petty theft is rare, and the atmosphere is usually friendly and welcoming. However, like any crowded place, it's always wise to be aware of your surroundings, keep your valuables secure, and avoid flashing large amounts of cash.

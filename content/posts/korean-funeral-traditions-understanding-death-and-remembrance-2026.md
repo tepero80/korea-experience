@@ -4,6 +4,16 @@ date: 2026-01-16
 excerpt: "A comprehensive guide to Korean funeral etiquette, the three-day vigil, and condolence money customs for international travelers and expats in 2026."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Busan"
+  - "Hanbok"
+readTime: "13 min read"
+featured: false
 ---
 
 Navigating the cultural landscape of death and remembrance in a foreign country can be one of the most daunting experiences for an expat or traveler. In South Korea, funeral traditions—known as *Jangrye*—are a profound blend of deep-rooted Confucian values and hyper-modern efficiency. Unlike Western services that often last a few hours, a Korean funeral is an immersive three-day event that emphasizes communal mourning, filial piety, and the collective sharing of grief.
@@ -19,7 +29,7 @@ Learn more in our comprehensive guide to [Korean wedding traditions what to expe
 <KeyTakeaways 
   points={[
     "Korean funerals typically last three days with visitors attending on days 1 and 2",
-    "Condolence money (Bu-ui-geum) must be given in odd-numbered amounts, starting at 50,000 KRW",
+    "Condolence money (Bu-ui-geum) must be given in odd-numbered amounts, starting at ₩50,000",
     "The standard bowing ritual involves two full bows to the deceased and one half-bow to the family"
   ]}
   readTime={12}
@@ -42,7 +52,7 @@ Learn more in our comprehensive guide to [Understanding Uri We in Korean Culture
 />
 
 ### Day 1: Immediate Action
-Upon death, the body is immediately transferred to a funeral hall, typically located in the basement or annex of a major hospital. By 2026, the average cost for a standard room rental for three days in Seoul has reached approximately 2.5 million KRW ($1,850 USD), excluding food and services. The chief mourner (*Sangju*), usually the eldest son, begins contacting relatives.
+Upon death, the body is immediately transferred to a funeral hall, typically located in the basement or annex of a major hospital. By 2026, the average cost for a standard room rental for three days in Seoul has reached approximately ₩2.5 million ($1,850 USD), excluding food and services. The chief mourner (*Sangju*), usually the eldest son, begins contacting relatives.
 
 Related reading: [The philosophy of nunchi understanding Korea social super...](/blog/the-philosophy-of-nunchi-understanding-korea-social-superpower-2026).
 
@@ -80,7 +90,7 @@ A black dress, skirt suit, or pant suit is appropriate. Hemlines should be below
 
 ## The Ritual of Condolence Money (Bu-ui-geum)
 
-Perhaps the most anxiety-inducing aspect for foreigners is the "envelope culture." Giving money is mandatory; it helps the family cover the high costs of the funeral, which average 15 million KRW ($11,200 USD) in metropolitan areas like Seoul and Busan.
+Perhaps the most anxiety-inducing aspect for foreigners is the "envelope culture." Giving money is mandatory; it helps the family cover the high costs of the funeral, which average ₩15 million ($11,200 USD) in metropolitan areas like Seoul and Busan.
 
 ### The Rules of Numbers
 The amount you give is dictated by your relationship to the deceased and, crucially, must involve odd numbers (3, 5, 7, 10). In Korean culture, odd numbers represent yang (positivity) and becoming, while even numbers are associated with yin. Note that 10 is considered a lucky number comprising two 5s, so it is an exception.

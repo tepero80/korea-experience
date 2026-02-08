@@ -4,6 +4,16 @@ date: 2026-02-02
 excerpt: "Discover Jeonju's Hanji making workshops in 2026. Immerse yourself in Korea's ancient paper craft, learn traditional techniques, and create unique souvenirs."
 category: Travel & Tourism
 author: Korea Experience Team
+tags:
+  - "Travel Tips"
+  - "Seoul"
+  - "Korea Travel"
+  - "Tourism"
+  - "Budget Travel"
+  - "Autumn"
+  - "Busan"
+readTime: "20 min read"
+featured: false
 ---
 # Unraveling Tradition: Traditional Paper Hanji Making Workshops in Jeonju 2026
 
@@ -76,7 +86,7 @@ The Hanji Museum Jeonju is perhaps the most comprehensive resource for understan
     *   Scooping pulp onto screens (webalttugi).
     *   Pressing and drying your freshly made Hanji sheet.
     *   Sometimes, additional craft activities like making a Hanji fan or small notebook.
-*   **Price Range (Estimate for 2026):** Basic paper-making sessions might range from 15,000 KRW to 30,000 KRW per person, while more extensive craft workshops could be 30,000 KRW to 60,000 KRW. Group discounts may be available.
+*   **Price Range (Estimate for 2026):** Basic paper-making sessions might range from ₩15,000 to ₩30,000 per person, while more extensive craft workshops could be ₩30,000 to ₩60,000. Group discounts may be available.
 *   **Duration:** Introductory sessions are often 1-1.5 hours. More detailed workshops can last 2-3 hours.
 *   **Booking:** Highly recommended to book in advance, especially for groups or during peak tourist seasons in 2026. Their official website or a quick call would be the best way to secure your spot.
 
@@ -89,7 +99,7 @@ Another excellent venue dedicated to Hanji is the Jeonju Hanji Center, often loc
     *   Natural dyeing of Hanji.
     *   Creating intricate Hanji crafts like small lamps, traditional dolls, or decorative boxes.
     *   Advanced paper-making techniques for those seeking a deeper dive.
-*   **Price Range (Estimate for 2026):** Similar to the Hanji Museum, with basic programs around 20,000 KRW - 35,000 KRW and specialized craft programs potentially going up to 70,000 KRW, depending on materials and complexity.
+*   **Price Range (Estimate for 2026):** Similar to the Hanji Museum, with basic programs around ₩20,000 - ₩35,000 and specialized craft programs potentially going up to ₩70,000, depending on materials and complexity.
 *   **Duration:** Programs typically range from 1.5 to 3 hours.
 *   **Booking:** Advance booking is essential, particularly for the more specialized craft workshops, as space might be limited.
 
@@ -106,13 +116,13 @@ Beyond the larger institutions, Jeonju is home to several smaller, more intimate
     *   **Hanji Fan Decoration:** Learn to decorate a traditional Korean fan (Bujeon) with Hanji and various art techniques.
     *   **Hanji Doll Making:** Construct small, charming dolls using Hanji.
     *   **Hanji Accessories:** Design unique jewelry or stationery items.
-*   **Price Range (Estimate for 2026):** Prices can vary widely based on the complexity of the craft and the studio, from 25,000 KRW for a simple craft to 80,000 KRW for a more elaborate item like a lamp.
+*   **Price Range (Estimate for 2026):** Prices can vary widely based on the complexity of the craft and the studio, from ₩25,000 for a simple craft to ₩80,000 for a more elaborate item like a lamp.
 *   **Duration:** Usually 1 to 2.5 hours.
 *   **Booking:** Often require direct contact, sometimes by phone or in-person. Flexibility might be greater than at larger institutions, but confirming availability is always best.
 
 **Comparison Table: Jeonju Hanji Workshop Options (Estimated for 2026)**
 
-| Workshop Location          | Primary Focus                        | Price Range (KRW)        | Typical Duration | Booking Recommendation | Notes                                       |
+| Workshop Location          | Primary Focus                        | Price Range (₩)        | Typical Duration | Booking Recommendation | Notes                                       |
 | :------------------------- | :----------------------------------- | :----------------------- | :--------------- | :--------------------- | :------------------------------------------ |
 | Hanji Museum Jeonju        | Comprehensive paper making, history  | 15,000 - 60,000          | 1 - 3 hours      | High (online/phone)    | Excellent for beginners and families        |
 | Jeonju Hanji Center        | Traditional techniques, diverse crafts | 20,000 - 70,000          | 1.5 - 3 hours    | High (online/phone)    | Focus on deeper craft exploration           |

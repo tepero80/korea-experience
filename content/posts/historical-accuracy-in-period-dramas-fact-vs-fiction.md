@@ -90,11 +90,11 @@ Despite the necessary artistic liberties, many Korean historical dramas are comm
 One of the most impressive aspects of sageuk is their often-stunning and historically resonant architecture. While sets are built, many dramas are filmed on location at actual historical palaces and villages, or at meticulously recreated historical sets. This gives viewers a tangible sense of the grandeur and design of past eras.
 
 *   **Gyeongbokgung Palace (Seoul):** The main royal palace of the Joseon Dynasty, often featured as the primary setting for dramas about Joseon kings and queens. Its grand scale and iconic gates like Gwanghwamun are instantly recognizable.
-    *   **Practical Info:** Open daily except Tuesdays, typically 9 AM - 5 PM (seasonal variations apply). Admission is approximately KRW 3,000 for adults.
+    *   **Practical Info:** Open daily except Tuesdays, typically 9 AM - 5 PM (seasonal variations apply). Admission is approximately ₩3,000 for adults.
 *   **Changdeokgung Palace (Seoul):** A UNESCO World Heritage site known for its exquisite Secret Garden (Huwon), offering a more natural and serene setting. It was the primary palace for many Joseon kings after Gyeongbokgung.
-    *   **Practical Info:** Open daily except Mondays, typically 9 AM - 6 PM (seasonal variations apply). Admission is approximately KR3,000 for the palace, and an additional KRW 5,000 for a guided tour of the Secret Garden.
+    *   **Practical Info:** Open daily except Mondays, typically 9 AM - 6 PM (seasonal variations apply). Admission is approximately KR3,000 for the palace, and an additional ₩5,000 for a guided tour of the Secret Garden.
 *   **Suwon Hwaseong Fortress (Suwon):** Another UNESCO site, this massive fortress surrounds the city of Suwon and was built by King Jeongjo. It's often used for large-scale battle scenes or scenes depicting royal processions outside the capital.
-    *   **Practical Info:** The fortress walls are largely open 24/7. Specific attractions within the fortress have varying hours (9 AM - 6 PM) and small admission fees (approx. KRW 1,000-2,000 per site).
+    *   **Practical Info:** The fortress walls are largely open 24/7. Specific attractions within the fortress have varying hours (9 AM - 6 PM) and small admission fees (approx. ₩1,000-2,000 per site).
 *   **Bukchon Hanok Village (Seoul):** A preserved traditional Korean village nestled between Gyeongbokgung and Changdeokgung, offering a glimpse into the homes of Joseon nobility. While not a palace, it's often used for scenes depicting everyday life in the capital.
     *   **Practical Info:** Always open, free to explore. Remember it's a residential area, so be respectful of residents.
 *   **Namsangol Hanok Village (Seoul):** A collection of five traditional houses from different social classes and time periods, relocated and restored to showcase various aspects of Joseon life.
@@ -138,9 +138,9 @@ Here's a recap of some key locations and their relevance:
 
 | Historical Site         | Relevance to K-Dramas                                      | Location                   | Typical Operating Hours             | Approx. Adult Admission |
 | :---------------------- | :--------------------------------------------------------- | :------------------------- | :---------------------------------- | :---------------------- |
-| Gyeongbokgung Palace    | Joseon Dynasty royal palace; often main drama setting      | Seoul                      | 9 AM - 5 PM (seasonal); Closed Tue  | KRW 3,000               |
-| Changdeokgung Palace    | Joseon palace with Secret Garden; often for royal intrigue | Seoul                      | 9 AM - 6 PM (seasonal); Closed Mon  | KRW 3,000 (palace) + KRW 5,000 (garden tour) |
-| Suwon Hwaseong Fortress | Joseon fortress built by King Jeongjo; battle/procession scenes | Suwon (near Seoul)         | Walls open 24/7; Sites 9 AM - 6 PM | KRW 1,000-2,000 per site |
+| Gyeongbokgung Palace    | Joseon Dynasty royal palace; often main drama setting      | Seoul                      | 9 AM - 5 PM (seasonal); Closed Tue  | ₩3,000               |
+| Changdeokgung Palace    | Joseon palace with Secret Garden; often for royal intrigue | Seoul                      | 9 AM - 6 PM (seasonal); Closed Mon  | ₩3,000 (palace) + ₩5,000 (garden tour) |
+| Suwon Hwaseong Fortress | Joseon fortress built by King Jeongjo; battle/procession scenes | Suwon (near Seoul)         | Walls open 24/7; Sites 9 AM - 6 PM | ₩1,000-2,000 per site |
 | Bukchon Hanok Village   | Traditional noble homes; daily life in Joseon capital      | Seoul                      | Always open                          | Free                    |
 | Namsangol Hanok Village | Collection of traditional houses; broader Joseon life      | Seoul                      | 9 AM - 6 PM; Closed Mon             | Free                    |
 | National Museum of Korea| Extensive collection of historical artifacts & exhibitions | Seoul                      | 10 AM - 6/9 PM (seasonal); Closed Jan 1, Lunar New Year | Free (special exhibitions may charge) |

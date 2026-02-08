@@ -4,6 +4,16 @@ date: 2026-01-19
 excerpt: "Master the intricate world of Korean side dishes with our comprehensive guide to banchan varieties, dining etiquette, and the best places to buy them in Seoul."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 Walking into a Korean restaurant for the first time can be a disorienting experience for the uninitiated. You order a single main dish—perhaps a bubbling Kimchi-jjigae or sizzling Bulgogi—yet within 10 minutes, your table is crowded with anywhere from five to twelve small plates containing colorful vegetables, ferments, and savory bites. This is the world of **Banchan**, the cornerstone of Korean cuisine that transforms a simple meal into a communal feast.
@@ -16,7 +26,7 @@ You might also enjoy our article about [Korean Banchan Side Dishes Complete Guid
   points={[
     "Banchan are shared side dishes served with almost every Korean meal and are usually refillable for free",
     "A standard meal includes 3-5 varieties, while royal table settings can feature up to 12 distinct dishes",
-    "Traditional markets offer the best value, with 3 packs typically costing around 10,000 KRW ($7.50)"
+    "Traditional markets offer the best value, with 3 packs typically costing around ₩10,000 ($7.50)"
   ]}
   readTime={12}
   lastUpdated="2026-02-06"
@@ -119,14 +129,14 @@ Banchan plates are placed in the center of the table (usually within a 60-80cm r
 
 ## Where to Buy Banchan: Markets vs. Department Stores
 
-For expats living in Korea or travelers staying in Airbnbs with kitchens, buying banchan is a great way to eat healthy and save money. The banchan market in South Korea is massive, estimated to be worth over 2.5 trillion KRW ($1.9 billion USD) as of 2026.
+For expats living in Korea or travelers staying in Airbnbs with kitchens, buying banchan is a great way to eat healthy and save money. The banchan market in South Korea is massive, estimated to be worth over 2.5 trillion won ($1.9 billion USD) as of 2026.
 
 ### Traditional Markets (Sijang)
 This is where you get the best value and "son-mat" (hand taste/homemade flavor). Popular markets like **Gwangjang Market**, **Mangwon Market**, and **Tongin Market** have dedicated banchan alleys.
 
 **Average Pricing:**
-*   3 small packs: 10,000 KRW ($7.50)
-*   1 kg Kimchi: 12,000 - 15,000 KRW ($9 - $11)
+*   3 small packs: ₩10,000 ($7.50)
+*   1 kg Kimchi: 12,000 - ₩15,000 ($9 - $11)
 
 <LocationCard
   name="Mangwon Market Banchan Alley"
@@ -138,7 +148,7 @@ This is where you get the best value and "son-mat" (hand taste/homemade flavor).
   priceRange="$"
   rating={4.7}
   transit="Mangwon Station (Line 6), Exit 2, 7 min walk"
-  highlights={["3 packs for 10k KRW", "Spicy Crab", "Perilla Leaf Kimchi"]}
+  highlights={["3 packs for ₩10k", "Spicy Crab", "Perilla Leaf Kimchi"]}
   tip="Bring cash! Many vendors give more generous portions for cash payments."
 />
 
@@ -146,8 +156,8 @@ This is where you get the best value and "son-mat" (hand taste/homemade flavor).
 The basement food courts of department stores like **Hyundai** (The Seoul), **Shinsegae**, and **Lotte** offer premium banchan. These are often made with high-quality, domestic ingredients and have milder, more refined flavors.
 
 **Average Pricing:**
-*   1 small pack: 5,000 - 8,000 KRW ($3.75 - $6.00)
-*   Premium Kimchi (500g): 15,000 KRW+ ($11.25)
+*   1 small pack: 5,000 - ₩8,000 ($3.75 - $6.00)
+*   Premium Kimchi (500g): ₩15,000+ ($11.25)
 
 <PriceTable
   title="Banchan Shopping Comparison"

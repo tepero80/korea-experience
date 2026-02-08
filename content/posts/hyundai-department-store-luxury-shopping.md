@@ -106,7 +106,7 @@ The Apgujeong store offers premium concierge services that are less crowded than
 The Trade Center Store is the logistic favorite for business travelers. It is physically connected to the COEX Convention Center, the Grand InterContinental Hotel, and the City Airport Terminal. This makes it the most convenient option for duty-free shopping right before a flight.
 
 ### Connectivity and Duty-Free
-The 8th, 9th, and 10th floors house the **Hyundai Department Store Duty Free**. Here, you can shop for international brands in USD without paying tax, provided you have your passport and flight ticket. The goods are then picked up at the airport gate. This is distinct from the "Tax Refund" shopping done on lower floors, where you buy in KRW and get a refund later.
+The 8th, 9th, and 10th floors house the **Hyundai Department Store Duty Free**. Here, you can shop for international brands in USD without paying tax, provided you have your passport and flight ticket. The goods are then picked up at the airport gate. This is distinct from the "Tax Refund" shopping done on lower floors, where you buy in won (₩) and get a refund later.
 
 For a broader look at the surrounding area, our [COEX Mall complete shopping and dining guide](/blog/coex-mall-complete-shopping-and-dining-guide) details how to combine your department store visit with the famous Starfield Library and Aquarium.
 

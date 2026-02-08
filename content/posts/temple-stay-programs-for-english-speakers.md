@@ -271,11 +271,11 @@ Embarking on a Temple Stay is an investment in yourself and your cultural unders
 
 The cost of Temple Stay programs is generally very reasonable, especially considering that it includes accommodation, all meals, and guided activities. Prices vary depending on the temple, the length of the program, and the specific activities offered.
 
-*   **One-night, two-day experiential programs:** Typically range from 50,000 to 80,000 Korean Won (KRW) per person (approximately 40-65 USD, subject to exchange rates).
-*   **Two-night, three-day programs:** Usually around 100,000 to 150,000 KRW (approximately 80-120 USD).
+*   **One-night, two-day experiential programs:** Typically range from 50,000 to 80,000 Korean Won (₩) per person (approximately 40-65 USD, subject to exchange rates).
+*   **Two-night, three-day programs:** Usually around ₩100,000 to ₩150,000 (approximately 80-120 USD).
 *   **Longer resting programs:** Costs per night tend to decrease slightly for extended stays, or are calculated on a weekly/monthly basis.
 
-These prices offer exceptional value for a unique cultural immersion and spiritual retreat. Most temples prefer payment in KRW, either in cash upon arrival or via online payment during the booking process on the official website.
+These prices offer exceptional value for a unique cultural immersion and spiritual retreat. Most temples prefer payment in won (₩), either in cash upon arrival or via online payment during the booking process on the official website.
 
 ### How to Book: Your Gateway to Tranquility
 

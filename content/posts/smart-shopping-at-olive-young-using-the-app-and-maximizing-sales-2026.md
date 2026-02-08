@@ -89,7 +89,7 @@ This is where most travelers get confused. There are two apps: **Olive Young Glo
   rows={[
     { feature: "Language", option1: "English/Spanish", option2: "Korean Only" },
     { feature: "Inventory", option1: "Export Only Items", option2: "Real-time Store Stock" },
-    { feature: "Pricing", option1: "USD (Higher Markups)", option2: "KRW (Local Sales)" },
+    { feature: "Pricing", option1: "USD (Higher Markups)", option2: "₩ (Local Sales)" },
     { feature: "Pickup Service", option1: false, option2: "Yes (Today's Pickup)" }
   ]}
 />

@@ -4,6 +4,16 @@ date: 2026-01-13
 excerpt: "Master Korean apartment etiquette in 2026. From strict recycling rules to noise control, learn how to be the perfect neighbor in Korea."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Busan"
+  - "Gangnam"
+readTime: "11 min read"
+featured: false
 ---
 
 Living in a Korean apartment complex (known locally as "apateu") is a distinct cultural experience that defines the lifestyle of over 51% of the country's population. By 2026, the standards for community living have evolved, blending traditional Confucian values of respect with high-tech smart living systems. For international residents, navigating these unwritten rules is crucial to avoiding conflict and enjoying a harmonious life in Seoul or Busan.
@@ -15,7 +25,7 @@ You might also enjoy our article about [Finding an apartment in Korea complete g
 <KeyTakeaways 
   points={[
     "Floor noise is the #1 cause of neighbor disputes; walking softly is mandatory",
-    "Recycling requires strict separation; fines start at 100,000 KRW for violations",
+    "Recycling requires strict separation; fines start at ₩100,000 for violations",
     "Quiet hours generally run from 10:00 PM to 6:00 AM daily"
   ]}
   readTime={12}
@@ -98,7 +108,7 @@ Recycling areas in apartment complexes are usually monitored by CCTV and securit
   steps={[
     { title: "Identify the Item", description: "Items like suitcases, tables, or broken chairs require a sticker.", tip: "Small electronics are often free." },
     { title: "Visit District Office or Website", description: "Go to your local Gu-office website or app to report large waste disposal.", tip: "Apps like 'Yeogi-ro' simplify this." },
-    { title: "Pay the Fee", description: "Fees range from 2,000 to 15,000 KRW depending on size.", tip: "Payment can be mobile." },
+    { title: "Pay the Fee", description: "Fees range from 2,000 to ₩15,000 depending on size.", tip: "Payment can be mobile." },
     { title: "Attach Sticker & Discharge", description: "Write the code on a paper or attach the printed sticker. Place item in designated area." }
   ]}
 />
@@ -118,7 +128,7 @@ When entering the elevator, it is polite to lightly bow or nod to existing passe
 </InfoBox>
 
 ### Hallways and Stairwells
-Personal items should never obstruct the hallway. While you might see a bicycle or a stroller parked outside a door in older buildings, strict fire safety regulations in 2026 enforce clear paths. Inspections are frequent, and fines for blocking fire escapes start at 300,000 KRW.
+Personal items should never obstruct the hallway. While you might see a bicycle or a stroller parked outside a door in older buildings, strict fire safety regulations in 2026 enforce clear paths. Inspections are frequent, and fines for blocking fire escapes start at ₩300,000.
 
 ## Parking: The "Neutral Gear" Phenomenon
 
@@ -141,7 +151,7 @@ Failure to leave a contact number is a major breach of etiquette. Most drivers d
 
 Living in an apartment comes with a monthly bill called "Gwanlibi" (maintenance fee). This is separate from your rent and individual utility usage. It covers the security guards, elevator maintenance, cleaning of common areas, and increasingly, the upkeep of community gyms and libraries.
 
-For a standard 84-square-meter (approx. 25 pyeong) apartment, the average maintenance fee in 2026 hovers between 200,000 KRW and 350,000 KRW per month, varying by the age of the building and the number of units sharing the cost.
+For a standard 84-square-meter (approx. 25 pyeong) apartment, the average maintenance fee in 2026 hovers between ₩200,000 and ₩350,000 per month, varying by the age of the building and the number of units sharing the cost.
 
 <ComparisonTable
   title="Housing Maintenance Fee Comparison"
@@ -170,7 +180,7 @@ Modern Korean apartments are fortresses of technology. 85% of new builds feature
 
 Smoking inside apartments, including on balconies and in bathrooms, is strictly taboo and often prohibited by the complex's regulations. Cigarette smoke travels through vents and open windows, affecting neighbors instantly.
 
-In 2026, many apartment complexes are designated as "Non-Smoking Buildings." If caught smoking in prohibited areas (corridors, stairs, elevators, underground parking), the fine is 100,000 KRW. Smokers must go to designated outdoor smoking booths, which are usually located at least 10 meters away from the building entrances and playgrounds.
+In 2026, many apartment complexes are designated as "Non-Smoking Buildings." If caught smoking in prohibited areas (corridors, stairs, elevators, underground parking), the fine is ₩100,000. Smokers must go to designated outdoor smoking booths, which are usually located at least 10 meters away from the building entrances and playgrounds.
 
 <ProsCons
   title="Ground Floor Living"

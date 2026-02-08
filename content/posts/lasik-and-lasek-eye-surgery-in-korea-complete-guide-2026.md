@@ -147,8 +147,8 @@ One of the most attractive aspects of undergoing eye surgery in Korea is the exc
 
 ### General Price Ranges
 
-*   **Standard LASIK/LASEK**: Expect to pay approximately 1,500,000 KRW to 2,500,000 KRW (roughly 1,100 USD to 1,900 USD) per eye.
-*   **Customized/Advanced Procedures (e.g., Wavefront-optimized, SMILE)**: These can range from 2,500,000 KRW to 4,000,000 KRW (roughly 1,900 USD to 3,000 USD) per eye.
+*   **Standard LASIK/LASEK**: Expect to pay approximately ₩1,500,000 to ₩2,500,000 (roughly 1,100 USD to 1,900 USD) per eye.
+*   **Customized/Advanced Procedures (e.g., Wavefront-optimized, SMILE)**: These can range from ₩2,500,000 to ₩4,000,000 (roughly 1,900 USD to 3,000 USD) per eye.
 
 **Factors Affecting Cost**:
 *   **Clinic Reputation and Location**: Highly sought-after clinics in prime areas like Gangnam may be slightly pricier.
@@ -185,7 +185,7 @@ These are general estimates for standard LASIK/LASEK and can vary widely based o
 ### Tips for Budgeting and Payment
 
 *   **Get Detailed Quotes**: Always request a full breakdown of costs from potential clinics, clearly stating what is included and excluded.
-*   **Currency Exchange**: Be aware of the current Korean Won (KRW) exchange rates to accurately estimate costs in your home currency.
+*   **Currency Exchange**: Be aware of the current Korean Won (₩) exchange rates to accurately estimate costs in your home currency.
 *   **Payment Methods**: Most clinics accept major credit cards (Visa, MasterCard) and international bank transfers. Confirm acceptable payment methods in advance.
 *   **Travel Insurance**: Consider purchasing comprehensive travel and medical insurance that might cover complications, though elective surgery is rarely covered.
 

@@ -4,6 +4,16 @@ date: 2026-01-24
 excerpt: "Navigating Korea's healthcare system in 2026? We analyze costs (₩50k-150k/hr), hospital tiers, and when you absolutely need a certified medical interpreter."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Botox"
+  - "Budget Travel"
+readTime: "14 min read"
+featured: false
 ---
 
 When planning a medical trip to South Korea or seeking treatment as an expat, the language barrier is often the single biggest source of anxiety. While South Korea boasts some of the most advanced medical technology in the world—ranking 4th globally in the sheer number of MRI units per capita and hosting over 300,000 medical tourists annually—English proficiency varies drastically depending on where you go.

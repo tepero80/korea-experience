@@ -76,7 +76,7 @@ The price gap is substantial. If you are doing a large area, the cost of importe
 <QuickFacts
   title="Filler Facts in Seoul"
   facts={[
-    { label: "Avg Price (KRW)", value: "₩150k/cc", icon: "💰" },
+    { label: "Avg Price (₩)", value: "₩150k/cc", icon: "💰" },
     { label: "Procedure Time", value: "20 Mins", icon: "⏱️" },
     { label: "Anesthesia", value: "Cream", icon: "💉" }
   ]}

@@ -35,7 +35,7 @@ Constructed in 1395, just three years after the Joseon Dynasty was founded, Gyeo
 
 *   **Location:** 161 Sajik-ro, Jongno-gu, Seoul. Easily accessible via Gyeongbokgung Station (Subway Line 3, Exit 5) or Gwanghwamun Station (Subway Line 5, Exit 2).
 *   **Operating Hours (subject to change in 2026):** Generally 9:00 AM - 5:00 PM or 6:00 PM. Closed on Tuesdays. Check the official website for the most up-to-date schedule.
-*   **Entry Fee (2026 estimate):** Adults (ages 19-64) approximately 3,000 Korean Won (KRW). Youth (ages 7-18) approximately 1,500 KRW. Free entry for children under 7, seniors (65+), and those wearing a Hanbok (traditional Korean attire).
+*   **Entry Fee (2026 estimate):** Adults (ages 19-64) approximately 3,000 Korean Won (₩). Youth (ages 7-18) approximately ₩1,500. Free entry for children under 7, seniors (65+), and those wearing a Hanbok (traditional Korean attire).
 *   **Guided Tours:** Free English tours are usually available multiple times a day. Inquire at the main entrance.
 *   **Don't Miss:** The Royal Guard Changing Ceremony performed at the Gwanghwamun Gate multiple times daily (except Tuesdays). This colorful spectacle offers fantastic photo opportunities.
 *   **Insider Tip:** Rent a Hanbok from one of the many shops near the palace. Not only is it a fun cultural experience, but you also gain free entry to Gyeongbokgung and other palaces! Allocate at least 2-3 hours to explore Gyeongbokgung thoroughly.
@@ -59,7 +59,7 @@ The Huwon, or "Secret Garden," is Changdeokgung's crowning jewel and a masterpie
 
 *   **Location:** 99 Yulgok-ro, Jongno-gu, Seoul. Accessible from Anguk Station (Subway Line 3, Exit 3) or Jongno 3-ga Station (Subway Lines 1, 3, 5, Exit 6).
 *   **Operating Hours (subject to change in 2026):** Generally 9:00 AM - 5:00 PM or 6:00 PM. Closed on Mondays. Huwon tour times vary; check the official website for precise schedules and booking information.
-*   **Entry Fee (2026 estimate):** Adults (ages 19-64) approximately 3,000 KRW for the palace, and an additional 5,000 KRW for the Huwon Secret Garden tour. Free entry for Hanbok wearers to the palace, but Huwon tour still requires a separate ticket.
+*   **Entry Fee (2026 estimate):** Adults (ages 19-64) approximately ₩3,000 for the palace, and an additional ₩5,000 for the Huwon Secret Garden tour. Free entry for Hanbok wearers to the palace, but Huwon tour still requires a separate ticket.
 *   **Guided Tours:** English tours for the palace are usually available, but the Huwon tour is the highlight and highly recommended. Book Huwon tickets online in advance or arrive early to secure a spot.
 *   **Insider Tip:** Autumn (October-November) is breathtaking in Huwon as the foliage turns vibrant red and gold. Spring also offers beautiful blossoms. Plan to spend 2-3 hours here, including the Huwon tour.
 
@@ -81,7 +81,7 @@ Built in 1483 by King Seongjong for his grandmother, mother, and other elder roy
 
 *   **Location:** 185 Changgyeonggung-ro, Jongno-gu, Seoul. Accessible from Hyehwa Station (Subway Line 4, Exit 4) or Anguk Station (Subway Line 3, Exit 3, then a 15-20 minute walk).
 *   **Operating Hours (subject to change in 2026):** Generally 9:00 AM - 5:00 PM or 6:00 PM. Closed on Mondays.
-*   **Entry Fee (2026 estimate):** Adults (ages 19-64) approximately 1,000 KRW. Free entry for children under 7, seniors (65+), and those wearing a Hanbok.
+*   **Entry Fee (2026 estimate):** Adults (ages 19-64) approximately ₩1,000. Free entry for children under 7, seniors (65+), and those wearing a Hanbok.
 *   **Insider Tip:** Changgyeonggung connects directly to Changdeokgung via a pathway, making it easy to visit both in one trip. It's especially beautiful during the evening openings, which typically occur a few times a year, offering a magical ambiance with illuminated buildings. Allow 1-1.5 hours.
 
 ## Deoksugung Palace A Fusion of East and West
@@ -103,7 +103,7 @@ Deoksugung gained prominence in the late 19th and early 20th centuries, particul
 
 *   **Location:** 99 Sejong-daero, Jung-gu, Seoul. Directly accessible via City Hall Station (Subway Lines 1 and 2, Exit 2 or 3).
 *   **Operating Hours (subject to change in 2026):** Generally 9:00 AM - 5:30 PM. Closed on Wednesdays.
-*   **Entry Fee (2026 estimate):** Adults (ages 19-64) approximately 1,000 KRW. Free entry for children under 7, seniors (65+), and those wearing a Hanbok.
+*   **Entry Fee (2026 estimate):** Adults (ages 19-64) approximately ₩1,000. Free entry for children under 7, seniors (65+), and those wearing a Hanbok.
 *   **Don't Miss:** The Changing of the Royal Guard Ceremony at Daehanmun Gate (main entrance). It's a colorful and historically accurate reenactment, performed multiple times a day (except Wednesdays) and is a must-see.
 *   **Insider Tip:** Deoksugung is particularly beautiful in autumn when the ginkgo trees along the stone wall road (Deoksugung Doldam-gil) turn golden. The MMCA branch here is a bonus for art lovers. Allow 1-1.5 hours for the palace, plus extra for the museum if interested.
 
@@ -137,7 +137,7 @@ To make your exploration of these magnificent **Korean Palaces Guide Gyeongbokgu
 
 If you plan to visit multiple palaces, consider purchasing the **Palace Combination Ticket**. This ticket typically covers Gyeongbokgung Palace, Changdeokgung Palace (excluding Huwon Secret Garden), Changgyeonggung Palace, Deoksugung Palace, and Jongmyo Shrine (a UNESCO World Heritage royal ancestral shrine).
 
-*   **Price (2026 estimate):** Approximately 10,000 KRW for adults.
+*   **Price (2026 estimate):** Approximately ₩10,000 for adults.
 *   **Validity:** Usually 3 months from the date of purchase.
 *   **Where to Buy:** At the ticket booths of any participating palace.
 *   **Benefit:** Saves you money compared to buying individual tickets and offers flexibility to visit over several days. Remember to still purchase the separate Huwon Secret Garden tour ticket for Changdeokgung if you want to experience it.
@@ -181,10 +181,10 @@ Seoul's public transportation system is excellent, clean, and efficient, making 
 
 | Palace              | Estimated Entry Fee (Adult) | Closed On    | Main Attraction/Tip                           | Integrated Ticket Coverage |
 | :------------------ | :-------------------------- | :----------- | :-------------------------------------------- | :------------------------- |
-| Gyeongbokgung       | 3,000 KRW                   | Tuesdays     | Royal Guard Ceremony, Hanbok free entry       | Yes                        |
-| Changdeokgung       | 3,000 KRW (+ 5,000 Huwon)   | Mondays      | Huwon Secret Garden (separate ticket)         | Yes (Palace only)          |
-| Changgyeonggung     | 1,000 KRW                   | Mondays      | Connects to Changdeokgung, evening viewings   | Yes                        |
-| Deoksugung          | 1,000 KRW                   | Wednesdays   | Changing of the Royal Guard, East-West blend  | Yes                        |
+| Gyeongbokgung       | ₩3,000                   | Tuesdays     | Royal Guard Ceremony, Hanbok free entry       | Yes                        |
+| Changdeokgung       | ₩3,000 (+ 5,000 Huwon)   | Mondays      | Huwon Secret Garden (separate ticket)         | Yes (Palace only)          |
+| Changgyeonggung     | ₩1,000                   | Mondays      | Connects to Changdeokgung, evening viewings   | Yes                        |
+| Deoksugung          | ₩1,000                   | Wednesdays   | Changing of the Royal Guard, East-West blend  | Yes                        |
 | Gyeonghuigung       | Free                        | Mondays      | Peaceful, less crowded, Seoul History Museum  | No                         |
 
 *Note: All prices and operating hours are estimates for 2026 and subject to change. Always verify on official palace websites before your visit.*

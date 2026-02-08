@@ -42,13 +42,13 @@ A zero-waste cafe goes beyond just recycling. It actively works to minimize wast
 While Seoul remains the epicenter of the zero-waste movement, other major cities and even smaller towns are seeing an increase in eco-conscious cafes.
 
 ##### Seoul's Sustainable Sips
-*   **The Green Bean Roastery (Hongdae, Seoul):** A pioneer in Seoul's zero-waste movement since 2024. Offers a wide selection of ethically sourced, fair-trade coffee beans available for purchase in bulk if you bring your own container. Dine-in options come in beautiful ceramic ware, and for takeout, they have a "Cup Circle" deposit system (KRW 1,000 deposit, refundable upon return to any participating cafe). Prices for Americano: KRW 5,000-6,000.
-*   **Eco Grounds (Seongsu-dong, Seoul):** Known for its minimalist aesthetic and commitment to local ingredients. All pastries are made in-house using locally sourced flour and seasonal fruits. They encourage customers to bring their own containers for food and drink, offering a 10% discount. They also host workshops on composting and sustainable living. Prices for Latte: KRW 6,500.
-*   **Harvest Home (Gangnam, Seoul):** A more upscale option focusing on organic teas and plant-based desserts. They emphasize minimal packaging, reusable napkins, and have partnered with a local farm for their organic produce. Reservations recommended for peak hours. Prices for Specialty Tea: KRW 8,000-10,000.
+*   **The Green Bean Roastery (Hongdae, Seoul):** A pioneer in Seoul's zero-waste movement since 2024. Offers a wide selection of ethically sourced, fair-trade coffee beans available for purchase in bulk if you bring your own container. Dine-in options come in beautiful ceramic ware, and for takeout, they have a "Cup Circle" deposit system (₩1,000 deposit, refundable upon return to any participating cafe). Prices for Americano: ₩5,000-6,000.
+*   **Eco Grounds (Seongsu-dong, Seoul):** Known for its minimalist aesthetic and commitment to local ingredients. All pastries are made in-house using locally sourced flour and seasonal fruits. They encourage customers to bring their own containers for food and drink, offering a 10% discount. They also host workshops on composting and sustainable living. Prices for Latte: ₩6,500.
+*   **Harvest Home (Gangnam, Seoul):** A more upscale option focusing on organic teas and plant-based desserts. They emphasize minimal packaging, reusable napkins, and have partnered with a local farm for their organic produce. Reservations recommended for peak hours. Prices for Specialty Tea: ₩8,000-10,000.
 
 ##### Beyond Seoul: Sustainable Spots
-*   **Busan Breeze Cafe (Haeundae, Busan):** Overlooking the famous Haeundae Beach, this cafe provides metal straws, reusable cups, and composts all organic waste. They actively participate in beach clean-ups and use recycled materials for their interior decor. Offers discounts for travelers using public transport. Prices for Cold Brew: KRW 5,500.
-*   **Jeju Earth Cafe (Jeju City, Jeju Island):** Celebrates Jeju's unique agricultural produce. Serves drinks and snacks made with local tangerines, green tea, and black pork. Focuses on minimizing food waste through innovative menu design and offers "ugly produce" discounts. Prices for Tangerine Smoothie: KRW 7,000.
+*   **Busan Breeze Cafe (Haeundae, Busan):** Overlooking the famous Haeundae Beach, this cafe provides metal straws, reusable cups, and composts all organic waste. They actively participate in beach clean-ups and use recycled materials for their interior decor. Offers discounts for travelers using public transport. Prices for Cold Brew: ₩5,500.
+*   **Jeju Earth Cafe (Jeju City, Jeju Island):** Celebrates Jeju's unique agricultural produce. Serves drinks and snacks made with local tangerines, green tea, and black pork. Focuses on minimizing food waste through innovative menu design and offers "ugly produce" discounts. Prices for Tangerine Smoothie: ₩7,000.
 
 #### Tips for a Zero-Waste Cafe Experience
 *   **BYO:** Always carry your own reusable tumbler/cup and a reusable bag. Many cafes offer discounts for bringing your own.
@@ -72,12 +72,12 @@ Green hotels adhere to strict environmental standards, often verified by interna
 #### Top Eco-Hotel Picks for 2026
 
 ##### Seoul's Sustainable Stays
-*   **EcoStay Seoul (Jongno District, Seoul):** This LEED-certified hotel opened in 2025, boasting solar panels, a rooftop garden, and advanced wastewater treatment. Rooms feature refillable toiletries, filtered tap water, and smart energy management systems. They offer complimentary bicycle rentals and guide guests to sustainable local experiences. Price Range: KRW 180,000 - 350,000 per night.
-*   **Hanok Harmony Guest House (Bukchon Hanok Village, Seoul):** A beautifully restored traditional Korean Hanok, this guesthouse combines cultural heritage with modern sustainability. Uses traditional heating (ondol) efficiently, minimizes plastic, and serves a breakfast made with ingredients from local markets. Offers cultural workshops with local artisans. Price Range: KRW 120,000 - 250,000 per night.
+*   **EcoStay Seoul (Jongno District, Seoul):** This LEED-certified hotel opened in 2025, boasting solar panels, a rooftop garden, and advanced wastewater treatment. Rooms feature refillable toiletries, filtered tap water, and smart energy management systems. They offer complimentary bicycle rentals and guide guests to sustainable local experiences. Price Range: ₩180,000 - 350,000 per night.
+*   **Hanok Harmony Guest House (Bukchon Hanok Village, Seoul):** A beautifully restored traditional Korean Hanok, this guesthouse combines cultural heritage with modern sustainability. Uses traditional heating (ondol) efficiently, minimizes plastic, and serves a breakfast made with ingredients from local markets. Offers cultural workshops with local artisans. Price Range: ₩120,000 - 250,000 per night.
 
 ##### Green Getaways Beyond the Capital
-*   **Jeju Sanctuary Resort (Seogwipo, Jeju Island):** Nestled amidst Jeju's pristine nature, this resort is Green Key certified. It boasts its own organic farm supplying the restaurant, uses rainwater harvesting for irrigation, and has a strict no single-use plastic policy. Guests are encouraged to join nature walks and participate in island conservation efforts. Price Range: KRW 250,000 - 600,000 per night.
-*   **Busan Eco Lodge (Gamcheon Culture Village, Busan):** A charming, smaller lodge focused on community tourism and environmental responsibility. It uses upcycled materials for its decor, offers vegetarian and vegan breakfast options, and provides guests with reusable T-Money cards for public transport. Actively supports local artists and craftsmen within the village. Price Range: KRW 90,000 - 180,000 per night.
+*   **Jeju Sanctuary Resort (Seogwipo, Jeju Island):** Nestled amidst Jeju's pristine nature, this resort is Green Key certified. It boasts its own organic farm supplying the restaurant, uses rainwater harvesting for irrigation, and has a strict no single-use plastic policy. Guests are encouraged to join nature walks and participate in island conservation efforts. Price Range: ₩250,000 - 600,000 per night.
+*   **Busan Eco Lodge (Gamcheon Culture Village, Busan):** A charming, smaller lodge focused on community tourism and environmental responsibility. It uses upcycled materials for its decor, offers vegetarian and vegan breakfast options, and provides guests with reusable T-Money cards for public transport. Actively supports local artists and craftsmen within the village. Price Range: ₩90,000 - 180,000 per night.
 
 #### Comparison of Sustainable Accommodation Features
 
@@ -88,7 +88,7 @@ Green hotels adhere to strict environmental standards, often verified by interna
 | **Key Eco Features**    | Solar, greywater recycling, bikes | Traditional ondol, local food     | Organic farm, rainwater harvest   | Upcycled decor, vegan options, T-Money |
 | **Single-Use Plastics** | Minimal (refillable amenities)     | Minimal (traditional focus)       | Strict no-plastic policy          | Minimized, encourages BYO            |
 | **Community Impact**    | Local guides, sustainable tours   | Cultural workshops, local crafts  | Island conservation, local staff  | Supports local artists, community tours |
-| **Price Range (KRW)**   | 180,000 - 350,000                 | 120,000 - 250,000                 | 250,000 - 600,000                 | 90,000 - 180,000                     |
+| **Price Range (₩)**   | 180,000 - 350,000                 | 120,000 - 250,000                 | 250,000 - 600,000                 | 90,000 - 180,000                     |
 
 #### Essential Tips for Choosing and Staying in Eco-Accommodations
 *   **Do your research:** Look for certifications and read reviews specifically mentioning sustainability practices.

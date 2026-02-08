@@ -198,7 +198,7 @@ International visitors can claim a refund on the value-added tax (VAT) for purch
 ### Payment Methods
 
 *   **Credit Cards:** Visa, Mastercard, American Express, and JCB are widely accepted throughout Seoul, even at many street vendors.
-*   **Cash:** While credit cards are ubiquitous, having some Korean Won (KRW) cash is useful for smaller purchases, street food, and some independent market stalls.
+*   **Cash:** While credit cards are ubiquitous, having some Korean Won (₩) cash is useful for smaller purchases, street food, and some independent market stalls.
 *   **Mobile Payments:** Services like KakaoPay or Naver Pay are popular locally, but international mobile payment apps (like Apple Pay or Google Pay) are becoming more accepted in larger stores.
 
 ### Best Times to Shop

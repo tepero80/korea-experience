@@ -4,6 +4,16 @@ date: 2026-01-18
 excerpt: "Compare SKT, KT, and LG U Plus phone plans for travelers and expats in 2026 to find the best data speeds, coverage, and value."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Budget Travel"
+readTime: "12 min read"
+featured: false
 ---
 
 South Korea is globally renowned for possessing one of the world's most advanced telecommunications infrastructures. For international travelers and expatriates arriving in 2026, the prospect of navigating the mobile landscape can be both exciting and slightly overwhelming. With 5G coverage extending to over 96% of the population and average download speeds consistently exceeding 800 Mbps in major metropolitan areas, staying connected is seamless—once you choose the right provider.
@@ -39,7 +49,7 @@ Related reading: [Korea phone plans and sim cards for foreigners](/blog/korea-ph
   source="Korea Ministry of Science and ICT 2025"
 />
 
-If your itinerary involves hiking effectively anywhere in the 70% of Korea that is mountainous, or visiting remote areas like Ulleungdo, SKT is often the safest bet. Their customer service is top-tier, though their plans can sometimes cost 5,000 to 10,000 KRW more per month than competitors for similar tiers.
+If your itinerary involves hiking effectively anywhere in the 70% of Korea that is mountainous, or visiting remote areas like Ulleungdo, SKT is often the safest bet. Their customer service is top-tier, though their plans can sometimes cost 5,000 to ₩10,000 more per month than competitors for similar tiers.
 
 ### KT (Korea Telecom)
 KT holds the second-largest market share, hovering around 24-25%. As a former state-owned enterprise, KT owns the most extensive landline and fiber optic infrastructure in the country. Their distinct advantage lies in their Wi-Fi network. KT subscribers gain free access to "KT WiFi" zones, which are ubiquitous in subways, cafes, and public landmarks.
@@ -70,7 +80,7 @@ The most critical factor in choosing a plan is your visa status. The Korean mobi
 
 ### Short-Term Travelers (Prepaid)
 If you are visiting for less than 90 days, you will rely on prepaid travel SIMs or eSIMs.
-*   **Cost:** Approximately 60,000 to 72,000 KRW ($45-$55 USD) for 30 days of unlimited data.
+*   **Cost:** Approximately 60,000 to ₩72,000 ($45-$55 USD) for 30 days of unlimited data.
 *   **Limitations:** These usually provide data only. Voice calls and SMS (crucial for reservations and delivery apps) often cost extra or require a specific "Voice + Data" SIM type.
 *   **Convenience:** Can be picked up instantly at the airport.
 
@@ -80,7 +90,7 @@ If you are visiting for less than 90 days, you will rely on prepaid travel SIMs 
 
 ### Long-Term Residents (Postpaid)
 If you have an Alien Registration Card (ARC) and a Korean bank account, you should switch to a postpaid plan immediately.
-*   **Cost:** Vary widely, from 30,000 KRW to 90,000 KRW monthly.
+*   **Cost:** Vary widely, from ₩30,000 to ₩90,000 monthly.
 *   **Contract:** Usually 12 or 24 months.
 *   **Benefits:** Full identity verification capabilities, cheaper rates per gigabyte, and device subsidies.
 
@@ -117,7 +127,7 @@ These companies rent the network towers from SKT, KT, and LG U Plus. This means 
   type="local"
   verified={true}
 >
-  I switched to a 'Woori Mobile' MVNO plan using the KT network three years ago. I pay 17,000 KRW a month for 15GB of data plus unlimited throttled data (3Mbps) after that. It saves me over 600,000 KRW a year compared to my old contract. If you have a Korean friend to help you sign up, this is the smartest financial move.
+  I switched to a 'Woori Mobile' MVNO plan using the KT network three years ago. I pay ₩17,000 a month for 15GB of data plus unlimited throttled data (3Mbps) after that. It saves me over ₩600,000 a year compared to my old contract. If you have a Korean friend to help you sign up, this is the smartest financial move.
 </ExpertTip>
 
 ## Buying at the Airport vs. The City
@@ -170,7 +180,7 @@ If you are signing a contract (Postpaid) with SK, KT, or LG, you must know about
 
 By law, if you do not take a device subsidy (i.e., you bring your own unlocked phone), the carrier **must** offer you a 25% discount on your monthly service fee.
 *   **Requirement:** Commit to a 1-year or 2-year contract.
-*   **Benefit:** A 69,000 KRW plan becomes 51,750 KRW.
+*   **Benefit:** A ₩69,000 plan becomes ₩51,750.
 *   **Action:** Explicitly ask for the "25% discount" when signing up.
 
 <InfoBox type="tip" title="Pro Tip: Unlocking Your Phone">

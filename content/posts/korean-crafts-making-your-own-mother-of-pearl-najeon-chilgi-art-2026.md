@@ -4,6 +4,16 @@ date: 2026-01-15
 excerpt: "Discover the magic of Najeon Chilgi in Seoul. A complete 2026 guide to booking classes, prices, and making your own mother of pearl masterpiece."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "11 min read"
+featured: false
 ---
 
 The shimmering iridescence of mother-of-pearl has captivated Korean artistry for over a millennium. As we step into 2026, the ancient craft of **Najeon Chilgi** (lacquerware inlaid with mother-of-pearl) is experiencing a massive resurgence, fueled by the "New-tro" (New + Retro) trend sweeping through Seoul. For international travelers, making your own mother-of-pearl art is no longer just a museum observation—it is one of the most sought-after hands-on experiences in South Korea.

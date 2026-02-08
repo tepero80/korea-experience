@@ -134,7 +134,7 @@ If a store doesn't offer immediate deduction, you pay the full price (including 
 *   Keep these receipts safe.
 *   At the airport (before or after security), scan your passport and receipts at the **Tax Refund Kiosks**.
 *   For refunds under ₩75,000 per receipt, you usually don't need to show the goods to customs.
-*   The kiosk dispenses cash (KRW, USD) or refunds to your credit card/Alipay.
+*   The kiosk dispenses cash (, USD) or refunds to your credit card/Alipay.
 
 <QuickFacts
   title="2026 Tax Refund Limits"
@@ -203,7 +203,7 @@ This is the #1 gift from Korea. Duty-free shops carry the "Royal" line of Cheong
 While international scotch is competitively priced, the real value is **Korean premium soju** (like Hwayo or Andong Soju) and cigarettes. A carton of foreign cigarettes (Marlboro, Mevius) typically costs around $30-$35 in Korean duty-free, which is half the price of many Western countries.
 
 ### 4. Luxury Goods (Exchange Rate Dependent)
-In 2026, the USD/KRW exchange rate plays a massive role. If the Won is weak (e.g., 1 USD = 1,350+ KRW), buying European luxury goods (Gucci, Prada) in Korea can be 10-15% cheaper than in the US, even before the tax exemption. Always check the current rate.
+In 2026, the USD/ exchange rate plays a massive role. If the Won is weak (e.g., 1 USD = 1,350+ ₩), buying European luxury goods (Gucci, Prada) in Korea can be 10-15% cheaper than in the US, even before the tax exemption. Always check the current rate.
 
 For advice on getting to the airport to haul your loot, read our comparison: [Airport Limousine Bus vs AREX Express Train](/blog/airport-limousine-bus-vs-arex-express-train).
 
@@ -245,7 +245,7 @@ All duty-free shops accept:
 *   Credit Cards (Visa, Mastercard, Amex, JCB, UnionPay).
 *   Mobile Pay (AliPay, WeChat Pay, Apple Pay - widely accepted in 2026).
 *   Korean Won (Cash) and US Dollars (Cash).
-**Pro Tip:** Always choose to pay in **Korean Won (KRW)** on your credit card to let your bank handle the conversion. Paying in USD at the terminal usually incurs a terrible "Dynamic Currency Conversion" (DCC) rate set by the merchant.
+**Pro Tip:** Always choose to pay in **Korean Won (₩)** on your credit card to let your bank handle the conversion. Paying in USD at the terminal usually incurs a terrible "Dynamic Currency Conversion" (DCC) rate set by the merchant.
 
 ### 3. Digital Passports
 In 2026, Korea is trialing digital ID recognition. However, for duty-free, the physical passport is still the gold standard. Do not leave it at the hotel. A photocopy is **not** accepted for duty-free purchases (though sometimes accepted for small tax refunds).

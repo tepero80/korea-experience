@@ -4,6 +4,16 @@ date: 2026-01-04
 excerpt: "Explore the ultimate Busan seafood guide. Discover Jagalchi Market, Gwangalli raw fish centers, and top local restaurants for fresh catches."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "12 min read"
+featured: false
 ---
 
 Busan is synonymous with the ocean. As South Korea's second-largest city with a population of approximately 3.3 million, this coastal metropolis serves as the country's primary maritime gateway. For culinary travelers, this means one thing above all else: impeccable seafood. The phrase "alive five minutes ago" isn't a marketing slogan here; it is the standard operating procedure. From the chaotic energy of Jagalchi Market to the refined clam grills of Cheongsapo, the Busan seafood scene offers a spectrum of flavors that define the city's identity.
@@ -53,10 +63,10 @@ Learn more in our comprehensive guide to [Korean seafood markets noryangjin and 
   totalTime="45 minutes"
   difficulty="medium"
   steps={[
-    { title: "Select Your Seafood", description: "Wander the ground floor (Floor 1). Choose your fish from the tanks. Negotiate the price.", tip: "Ask for 'Service' (free extras) if buying over 50,000 KRW." },
+    { title: "Select Your Seafood", description: "Wander the ground floor (Floor 1). Choose your fish from the tanks. Negotiate the price.", tip: "Ask for 'Service' (free extras) if buying over ₩50,000." },
     { title: "Payment and Tagging", description: "Pay the vendor. They will give you a numbered paddle or assign a runner to escort you.", tip: "Cash is preferred for better deals, but cards are accepted." },
     { title: "Move to the Restaurant", description: "Go to the 2nd floor. The runner will deliver your live fish to the kitchen assigned to your vendor.", tip: "The view of the port from the 2nd floor is excellent." },
-    { title: "Pay the Table Fee", description: "Enjoy your meal. At the end, pay the restaurant separately for the table fee (approx 5,000 KRW/person) and drinks.", tip: "Spicy stew (Maeuntang) usually costs an extra 10,000 KRW." }
+    { title: "Pay the Table Fee", description: "Enjoy your meal. At the end, pay the restaurant separately for the table fee (approx ₩5,000/person) and drinks.", tip: "Spicy stew (Maeuntang) usually costs an extra ₩10,000." }
   ]}
 />
 
@@ -82,7 +92,7 @@ Learn more in our comprehensive guide to [Korean seafood markets noryangjin and 
 
 While Jagalchi is historic, the Millak Raw Fish Center in the Gwangalli Beach area offers a different appeal: spectacular views of the Diamond Bridge (Gwangandaegyo). Located about 11 kilometers east of Jagalchi, this building is a skyscraper of sashimi. The ground floor functions similarly to a wet market, while the upper floors (floors 2 through 10) are filled with independent restaurants.
 
-The vibe here is younger and more energetic, especially in the evenings when the bridge lights up. Many locals prefer Millak for a night out because you can purchase a platter of sashimi (Hwe) on the ground floor for roughly 30,000 to 40,000 KRW, take it to the nearby "Waterfront Park" (Minrak Subyeon Gongwon), and eat picnic-style by the ocean. *Note: As of mid-2023, alcohol consumption in certain zones of the park has been restricted, so check current signage.*
+The vibe here is younger and more energetic, especially in the evenings when the bridge lights up. Many locals prefer Millak for a night out because you can purchase a platter of sashimi (Hwe) on the ground floor for roughly 30,000 to ₩40,000, take it to the nearby "Waterfront Park" (Minrak Subyeon Gongwon), and eat picnic-style by the ocean. *Note: As of mid-2023, alcohol consumption in certain zones of the park has been restricted, so check current signage.*
 
 <ExpertTip 
   author="Min-ji Kim"
@@ -90,7 +100,7 @@ The vibe here is younger and more energetic, especially in the evenings when the
   type="local"
   verified={true}
 >
-"If you go to Millak, don't just stop at the main building. Walk 200 meters further to the smaller stalls near the breakwater. The 'Hanyeo' (female divers) often sell sea squirts and conch right out of their baskets for 10,000 KRW plates."
+"If you go to Millak, don't just stop at the main building. Walk 200 meters further to the smaller stalls near the breakwater. The 'Hanyeo' (female divers) often sell sea squirts and conch right out of their baskets for ₩10,000 plates."
 </ExpertTip>
 
 ### Comparing the Major Markets
@@ -114,7 +124,7 @@ If you are willing to travel about 25 kilometers north of downtown Busan (roughl
 
 During the peak winter season (November to March), the streets of Gijang are lined with steamers billowing white clouds into the air. While crab is expensive everywhere in Korea, Gijang is widely considered the most affordable place to get high-quality crustaceans due to direct distribution channels.
 
-Prices vary by season and weight. As of early 2026, you can expect to pay between 50,000 KRW and 80,000 KRW per kilogram for Snow Crab. A standard King Crab might range from 90,000 KRW to 120,000 KRW per kilogram.
+Prices vary by season and weight. As of early 2026, you can expect to pay between ₩50,000 and ₩80,000 per kilogram for Snow Crab. A standard King Crab might range from ₩90,000 to ₩120,000 per kilogram.
 
 <PriceTable
   title="Crab Feast Price Breakdown (Estimated)"
@@ -126,7 +136,7 @@ Prices vary by season and weight. As of early 2026, you can expect to pay betwee
 />
 
 <InfoBox type="tip" title="The Fried Rice Finish">
-Never skip the "Bokkeumbap" (Fried Rice) at a crab restaurant. After you finish the meat, they take the crab shell with the remaining roe and innards, mix it with rice, seaweed, and sesame oil, and serve it back in the shell. It usually costs 3,000 KRW extra and is the highlight of the meal.
+Never skip the "Bokkeumbap" (Fried Rice) at a crab restaurant. After you finish the meat, they take the crab shell with the remaining roe and innards, mix it with rice, seaweed, and sesame oil, and serve it back in the shell. It usually costs ₩3,000 extra and is the highlight of the meal.
 </InfoBox>
 
 ## Must-Try Seafood Dishes in Busan
@@ -135,22 +145,22 @@ Busan's menu extends far beyond simple raw fish. To truly experience the city, y
 
 ### 1. Hwe (Korean Sashimi)
 Unlike Japanese sashimi which is often aged for texture, Korean Hwe is prized for its "chewy" texture and extreme freshness. It is typically dipped in Chojang (vinegar chili paste) rather than just soy sauce and wasabi.
-*   **Average Cost:** 30,000 - 50,000 KRW (Small/Medium Platter)
+*   **Average Cost:** 30,000 - ₩50,000 (Small/Medium Platter)
 
 ### 2. Jogae-gui (Grilled Clams)
 This is a social dining experience. You grill scallops, cockles, and large clams over open briquettes at your table. The shells are often topped with butter, onions, and cheese.
 *   **Best Location:** Cheongsapo or Taejongdae.
-*   **Average Cost:** 40,000 - 60,000 KRW per set.
+*   **Average Cost:** 40,000 - ₩60,000 per set.
 
 ### 3. San-nakji (Live Octopus)
 Famous globally, this dish consists of small octopus chopped while alive and served immediately with sesame oil and salt. The suction cups still stick to your chopsticks (and mouth).
 *   **Safety:** Chew thoroughly.
-*   **Average Cost:** 15,000 - 20,000 KRW per plate.
+*   **Average Cost:** 15,000 - ₩20,000 per plate.
 
 ### 4. Komjangeo (Hagfish)
 A Busan specialty that might look unappealing to the uninitiated but is beloved by locals. It is usually stir-fried in a spicy red pepper sauce (Yangnyeom) or grilled over straw (Jipbul).
 *   **Texture:** Crunchy and firm.
-*   **Average Cost:** 40,000 KRW for 2 people.
+*   **Average Cost:** ₩40,000 for 2 people.
 
 <StatCard
   title="Busan Seafood Consumption"
@@ -172,7 +182,7 @@ Located on the second floor of the Jagalchi Market building, Jacky's has gained 
 
 ### Suminine (Cheongsapo)
 Cheongsapo is a small fishing port located between Haeundae and Songjeong beaches. Suminine is the most famous spot here for Jogae-gui (grilled clams) and eel. The restaurant features both indoor seating and a semi-outdoor tented area that captures the quintessential Korean "Pocha" (food stall) vibe.
-*   **Distance:** 10-minute taxi from Haeundae Beach (approx 6,000 KRW).
+*   **Distance:** 10-minute taxi from Haeundae Beach (approx ₩6,000).
 
 <LocationCard
   name="Suminine"
@@ -205,7 +215,7 @@ Eating seasonally is crucial in Korea. While modern logistics ensure availabilit
 ## Practical Tips for Travelers
 
 ### The Art of Haggling
-Is haggling acceptable? Yes, but within reason. In places like Jagalchi or Gijang, you can ask, "Jom-kkakka-juseyo?" (Please give me a discount). However, vendors often prefer giving "Service" (extra fish or shellfish) rather than lowering the cash price. If you are buying a 100,000 KRW King Crab, asking for a few scallops or razor clams thrown in for free is standard practice.
+Is haggling acceptable? Yes, but within reason. In places like Jagalchi or Gijang, you can ask, "Jom-kkakka-juseyo?" (Please give me a discount). However, vendors often prefer giving "Service" (extra fish or shellfish) rather than lowering the cash price. If you are buying a ₩100,000 King Crab, asking for a few scallops or razor clams thrown in for free is standard practice.
 
 ### Payment Methods
 While South Korea is a credit-card-heavy society, traditional markets prefer cash. Vendors may offer a slight discount (5-10%) if you pay in cash. The restaurants upstairs (Chojang-jip) always accept international credit cards like Visa and Mastercard.
@@ -221,8 +231,8 @@ While South Korea is a credit-card-heavy society, traditional markets prefer cas
 
 Busan's geography is stretched along the coast, meaning travel times between seafood hubs can be significant.
 
-*   **Jagalchi to Haeundae:** This is a cross-town journey. It takes about 50-60 minutes by Subway Line 1 (transfer at Seomyeon) to Line 2. Taxi cost is roughly 20,000 - 25,000 KRW depending on traffic.
-*   **Haeundae to Gijang:** Use the Donghae Line (light rail). It connects Bexco/Haeundae to Gijang Station in about 20 minutes, costing under 2,000 KRW.
+*   **Jagalchi to Haeundae:** This is a cross-town journey. It takes about 50-60 minutes by Subway Line 1 (transfer at Seomyeon) to Line 2. Taxi cost is roughly 20,000 - ₩25,000 depending on traffic.
+*   **Haeundae to Gijang:** Use the Donghae Line (light rail). It connects Bexco/Haeundae to Gijang Station in about 20 minutes, costing under ₩2,000.
 
 ## FAQs: Mastering Busan Seafood
 
@@ -232,7 +242,7 @@ Busan's geography is stretched along the coast, meaning travel times between sea
     { question: "Is it safe to eat raw fish in street markets?", answer: "Generally, yes. Turnover in places like Jagalchi is incredibly high, meaning fish doesn't sit long. However, if you have a sensitive stomach, stick to cooked dishes like grilled fish or spicy stews during the hot summer months (July-August)." },
     { question: "Do the vendors speak English?", answer: "In major hubs like Jagalchi, vendors know basic numbers and fish names in English, Japanese, and Chinese. Using a calculator app to agree on price is the universal language." },
     { question: "What if I don't eat seafood?", answer: "You will have limited options at the specialized markets. However, Jagalchi has sections selling dried fish and nuts. Nearby Nampo-dong has thousands of non-seafood street food options like Ssiat Hotteok (seed pancakes)." },
-    { question: "How much is the table setting fee usually?", answer: "The 'Sang-charim' fee is typically 5,000 to 6,000 KRW per person. This covers water, side dishes (banchan), lettuce, and sauces." },
+    { question: "How much is the table setting fee usually?", answer: "The 'Sang-charim' fee is typically 5,000 to ₩6,000 per person. This covers water, side dishes (banchan), lettuce, and sauces." },
     { question: "Can I take the seafood to my hotel?", answer: "Yes. Ask for 'Po-jang' (takeout). They will pack the sashimi on a bed of ice with styrofoam insulation. It stays fresh for about 1-2 hours." }
   ]}
 />

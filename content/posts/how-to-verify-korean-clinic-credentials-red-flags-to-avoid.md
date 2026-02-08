@@ -4,6 +4,16 @@ date: 2026-01-11
 excerpt: "Don't risk your safety. Learn how to verify board certifications, spot ghost doctors, and navigate the 2026 medical tourism laws with our 10-step safety guide."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Gangnam"
+  - "Korean BBQ"
+readTime: "16 min read"
+featured: false
 ---
 
 Finding a clinic in South Korea can feel overwhelming, but verifying credentials is actually a structured process if you know where to look. To verify a Korean clinic immediately, you should cross-reference the clinic's registration number on the "Visit Medical Korea" portal (run by the Korea Health Industry Development Institute), check for the Board Certified Plastic Surgeon logo (a specific square emblem with the Taegeuk mark), and ensure the clinic is registered to accept foreign patients. Do not rely solely on Instagram before and after photos; instead, look for the surgeon's name on the Korean Association of Plastic Surgeons (KAPS) "Search a Surgeon" tool.
@@ -54,7 +64,7 @@ In this case, the words "Plastic Surgery" (Seong-hyeong Oeg-wa) come *before* th
 
 ### The "Generalist" Signage
 If the doctor is a General Practitioner performing plastic surgery, the sign legally MUST read:
-**[Clinic Name] Clinic / Subject: Plastic Surgery**
+**the clinic name Clinic / Subject: Plastic Surgery**
 *(Korean: OOO Ui-won Jin-ryo Gwa-mok Seong-hyeong Oeg-wa)*
 
 Here, the word "Clinic" (Ui-won) comes first. The words "Plastic Surgery" are relegated to a smaller subtitle or a section that says "Medical Subject: Plastic Surgery." If you see the clinic name followed immediately by "Ui-won" and then the specialty listed separately, you are likely not dealing with a board-certified specialist in that field.

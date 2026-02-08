@@ -4,6 +4,16 @@ date: 2026-01-24
 excerpt: "A comprehensive guide to FFS, VFS, and top surgery in Seoul for 2026. Includes costs, recovery times, and clinic recommendations for international patients."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Banking"
+  - "Botox"
+readTime: "14 min read"
+featured: false
 ---
 
 Seoul has established itself as a global leader for gender-affirming surgeries, specifically excelling in Facial Feminization Surgery (FFS) and Voice Feminization Surgery (VFS), offering advanced techniques that prioritize natural aesthetics and functionality. While Thailand remains a major hub for genital reconstruction, South Korea is increasingly the preferred destination for transgender individuals seeking facial contouring, vocal pitch alteration, and body sculpting due to the country's unmatched expertise in bone structure modification and maxillofacial surgery.
@@ -55,7 +65,7 @@ The "V-Line" surgery, which combines mandible (jaw) reduction with genioplasty (
 *   **Hospitalization:** 1 night required
 *   **Stitch Removal:** 7 to 14 days
 
-The cost for V-Line surgery in Seoul typically ranges from **$6,000 to $10,000 USD** (approx. 8-13 million KRW). This is significantly lower than the **$15,000 to $20,000 USD** often charged in the United States or Europe.
+The cost for V-Line surgery in Seoul typically ranges from **$6,000 to $10,000 USD** (approx. 8-₩13 million). This is significantly lower than the **$15,000 to $20,000 USD** often charged in the United States or Europe.
 
 ### Forehead reduction and brow bone shaving
 The forehead is a major gender marker. Males typically have a protruding brow ridge and a higher hairline. Korean techniques often involve an endoscopic brow lift combined with brow bone shaving (or type 3 reconstruction for thicker bones) and hairline lowering.
@@ -86,7 +96,7 @@ The "Yeson technique" (Vocal Fold Shortening and Retrodisplacement of the Anteri
 *   **Technique:** Endoscopic (through the mouth)
 *   **Time:** Approximately 60 to 90 minutes
 *   **Hospital Stay:** Not usually required (outpatient), or 1 night for observation
-*   **Cost:** **$7,500 to $9,500 USD** (approx. 10-12.5 million KRW)
+*   **Cost:** **$7,500 to $9,500 USD** (approx. 10-₩12.5 million)
 
 <StepGuide
   title="VFS Recovery Timeline"
@@ -152,8 +162,8 @@ International patients often worry about accessing hormones while in Korea for s
 ### How to get a prescription
 1.  **Bring your home prescription:** Bring a notarized English letter from your doctor at home stating your diagnosis (Gender Dysphoria) and current regimen.
 2.  **Visit a global clinic:** Visit the International Health Care Center at major hospitals (like Severance or Asan) or an expat-friendly clinic in Itaewon.
-3.  **Cost:** A consultation is roughly **30,000 to 50,000 KRW** ($25-$40 USD).
-4.  **Medication Cost:** Hormones are relatively affordable. A month's supply of oral estrogen or blockers might cost **20,000 to 40,000 KRW** ($15-$30 USD). Injectable testosterone is available but requires a doctor's visit for administration in some cases.
+3.  **Cost:** A consultation is roughly **30,000 to ₩50,000** ($25-$40 USD).
+4.  **Medication Cost:** Hormones are relatively affordable. A month's supply of oral estrogen or blockers might cost **20,000 to ₩40,000** ($15-$30 USD). Injectable testosterone is available but requires a doctor's visit for administration in some cases.
 
 <ExpertTip 
   author="Dr. Kim Min-su"

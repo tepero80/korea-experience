@@ -4,11 +4,21 @@ date: 2026-02-02
 excerpt: "Master the rules of Yutnori and Jegichagi. Discover the history, gameplay strategies, and best places to experience traditional Korean culture."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Budget Travel"
+  - "Hanbok"
+readTime: "12 min read"
+featured: false
 ---
 
 Exploring the vibrant landscape of Korean culture goes far beyond K-Pop and BBQ. To truly understand the communal spirit of Korea, one must look at how families celebrate major holidays like Seollal (Lunar New Year) and Chuseok (Korean Thanksgiving). At the heart of these gatherings are two iconic traditional games: Yutnori and Jegichagi. These games are not merely pastimes; they are centuries-old vessels of history, strategy, and physical dexterity that continue to bring generations together.
 
-Whether you are an expat living in Seoul or a traveler looking to dive deeper into local traditions, learning these games offers a unique pathway to social connection. Unlike complex modern board games, these traditional activities are accessible, requiring minimal equipment that can be purchased for less than 5,000 KRW ($3.80 USD) at local convenience stores or markets.
+Whether you are an expat living in Seoul or a traveler looking to dive deeper into local traditions, learning these games offers a unique pathway to social connection. Unlike complex modern board games, these traditional activities are accessible, requiring minimal equipment that can be purchased for less than ₩5,000 ($3.80 USD) at local convenience stores or markets.
 
 For more details, check out our guide on [Bonsai and Zen gardens finding peace in Korea traditional...](/blog/bonsai-and-zen-gardens-finding-peace-in-korea-traditional-greenery-2026).
 
@@ -111,7 +121,7 @@ There are several styles of play:
 
 ### Making Your Own Jegi
 
-While you can buy a jegi at almost any stationary store in Korea for under 2,000 KRW ($1.50 USD), making one is a popular craft activity for children and tourists.
+While you can buy a jegi at almost any stationary store in Korea for under ₩2,000 ($1.50 USD), making one is a popular craft activity for children and tourists.
 
 <Timeline
   title="DIY Jegi Process"
@@ -158,7 +168,7 @@ For a more immersive experience, the Korean Folk Village in Yongin (about 40km s
   rating={4.6}
   transit="Shuttle bus from Suwon Station (Exit 4)"
   highlights={["Interactive Characters", "Daily Competitions", "Seasonal Festivals"]}
-  tip="The entry fee is 32,000 KRW, but you can get up to 50% off by wearing a Hanbok."
+  tip="The entry fee is ₩32,000, but you can get up to 50% off by wearing a Hanbok."
 />
 
 ## Buying Traditional Games: Costs and Options
@@ -202,7 +212,7 @@ Understanding how these games compare to Western equivalents can help new player
 
 In an era dominated by smartphones and PC bangs (gaming cafes), one might assume traditional games are fading. However, statistics suggest otherwise. During the Seollal holiday, major online retailers consistently report a 200% to 300% spike in sales for traditional board games.
 
-This resilience is due to the social fabric of Korean culture. Known as *Jeong* (a deep connection or bond), the act of playing these games reinforces family hierarchy and solidarity. It is common for grandparents to teach grandchildren the rules, bridging a 60-year age gap through play. Furthermore, betting small amounts of money—often 10,000 KRW to 50,000 KRW per game—adds a layer of tension and excitement that keeps even the teenagers engaged.
+This resilience is due to the social fabric of Korean culture. Known as *Jeong* (a deep connection or bond), the act of playing these games reinforces family hierarchy and solidarity. It is common for grandparents to teach grandchildren the rules, bridging a 60-year age gap through play. Furthermore, betting small amounts of money—often ₩10,000 to ₩50,000 per game—adds a layer of tension and excitement that keeps even the teenagers engaged.
 
 <ProsCons
   title="Playing Traditional Games"

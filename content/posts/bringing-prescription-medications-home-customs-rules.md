@@ -4,6 +4,16 @@ date: 2026-01-04
 excerpt: "A complete guide to taking prescription drugs out of Korea and through customs. Includes limits, documentation, and specific country rules for 2026."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Botox"
+  - "Budget Travel"
+readTime: "14 min read"
+featured: false
 ---
 
 Travelers leaving South Korea after medical treatment, or expatriates returning home, often face a complex dilemma: how to legally transport prescription medications across international borders. Whether you are carrying painkillers following plastic surgery in Gangnam, a 3-month supply of dermatological medication, or managing a chronic condition, navigating the intersection of Korean exit laws and your home country's entry regulations is critical. Failing to prepare the correct documentation can result in confiscation of expensive medicines, heavy fines, or even detention at airport security.
@@ -124,7 +134,7 @@ Canada has similar rules to the US but focuses heavily on the "Single Course of 
 ### 3. Australia (TGA Rules)
 Australia has some of the strictest biosecurity and drug importation laws in the world.
 
-*   **Declaration:** You **MUST** check "Yes" on the Incoming Passenger Card regarding "Medicine, steroids, illegal pornography, firearms, weapons or illicit drugs." Do not be afraid of checking "Yes"—it simply prompts a conversation. If you check "No" and are caught with prescription painkillers, you face an on-the-spot fine of over **AUD 3,000** (approx. 2.7M KRW).
+*   **Declaration:** You **MUST** check "Yes" on the Incoming Passenger Card regarding "Medicine, steroids, illegal pornography, firearms, weapons or illicit drugs." Do not be afraid of checking "Yes"—it simply prompts a conversation. If you check "No" and are caught with prescription painkillers, you face an on-the-spot fine of over **AUD 3,000** (approx. 2.7M ₩).
 *   **Quantity:** Maximum 3-month supply.
 *   **Documentation:** An English letter from your Korean doctor is mandatory for anything controlled.
 

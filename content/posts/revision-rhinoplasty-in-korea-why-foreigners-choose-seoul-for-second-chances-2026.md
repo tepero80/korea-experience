@@ -69,7 +69,7 @@ When budgeting for your trip, you must look beyond the surgical fee.
 *   **VAT Refund:** Foreign tourists are eligible for a roughly 10% tax refund on cosmetic surgeries. Ensure your clinic issues the "Certificate of Medical Tour Service" upon payment.
 
 <InfoBox type="tip" title="Pro Tip: Currency Exchange">
-  Most clinics in Gangnam accept major credit cards, but some offer small discounts for cash payments. Always pay in Korean Won (KRW) if using a card to avoid poor dynamic currency conversion rates.
+  Most clinics in Gangnam accept major credit cards, but some offer small discounts for cash payments. Always pay in Korean Won (₩) if using a card to avoid poor dynamic currency conversion rates.
 </InfoBox>
 
 For a deeper dive into selecting the right facility, read our guide on [best rhinoplasty clinics in Gangnam 2026](/blog/best-rhinoplasty-clinics-gangnam-2026), which breaks down the top centers by specialty.

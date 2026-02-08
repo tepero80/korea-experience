@@ -185,7 +185,7 @@ While this guide aims to simplify the process, some situations are complex. If y
 *   Are a high-income earner.
 *   Have difficulty with the Korean language or the Hometax system.
 
-Consider hiring a professional tax accountant (Korean: Segyesa). Many accounting firms in major cities like Seoul and Busan have English-speaking staff who specialize in expat taxes. While there's a fee involved (typically 100,000 - 300,000 KRW for a standard filing, more for complex cases), the potential for maximizing your refund and ensuring compliance often outweighs the cost. You can find English-speaking tax accountants through expat community forums or by searching online.
+Consider hiring a professional tax accountant (Korean: Segyesa). Many accounting firms in major cities like Seoul and Busan have English-speaking staff who specialize in expat taxes. While there's a fee involved (typically ₩100,000 - ₩300,000 for a standard filing, more for complex cases), the potential for maximizing your refund and ensuring compliance often outweighs the cost. You can find English-speaking tax accountants through expat community forums or by searching online.
 
 ### Understanding Refund Timelines
 

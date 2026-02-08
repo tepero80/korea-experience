@@ -83,7 +83,7 @@ Related reading: [Best neighborhoods for expats in Seoul](/blog/best-neighborhoo
 <QuickFacts
   title="Seoul Counseling Center Details"
   facts={[
-    { label: "Session Cost", value: "120k-200k KRW", icon: "💰" },
+    { label: "Session Cost", value: "120k-₩200k", icon: "💰" },
     { label: "Duration", value: "50 Minutes", icon: "⏱️" },
     { label: "Location", value: "Pyeongtaek & Seoul", icon: "📍" }
   ]}
@@ -137,7 +137,7 @@ Not everyone can afford private therapy rates of ₩200,000. Fortunately, Seoul 
 ### Seoul Global Center & Village Centers
 The Seoul Global Center (located in Jongno) and various Global Village Centers (Itaewon, Yeoksam, Seorae) offer free professional counseling services. These are funded by the Seoul Metropolitan Government.
 
-*   **Cost:** Free (0 KRW).
+*   **Cost:** Free (₩0).
 *   **Waitlist:** High demand means waitlists can be 3 to 5 weeks.
 *   **Duration:** Usually capped at 5 to 10 sessions per person to allow access for others.
 *   **Location:** The Itaewon center is a 3-minute walk from Itaewon Station Exit 2.

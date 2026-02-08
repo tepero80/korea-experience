@@ -4,6 +4,16 @@ date: 2026-01-22
 excerpt: "The ultimate 2026 guide to visiting SM, JYP, and HYBE headquarters. Discover locations, cafes, and merchandise tips for the perfect K-Pop pilgrimage."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Budget Travel"
+  - "Coffee"
+readTime: "12 min read"
+featured: false
 ---
 
 For international fans, Seoul is more than just a capital city; it is the beating heart of the Hallyu wave. A pilgrimage to the headquarters of the "Big 4" agencies—SM, JYP, HYBE, and YG—is a bucket-list item for millions. However, the landscape of **K Pop entertainment company tours SM JYP HYBE** has changed dramatically in recent years. Agencies have moved neighborhoods, museums have closed or relocated, and new flagship stores have opened.
@@ -42,7 +52,7 @@ Gone are the days when you could walk down "K-Star Road" in Cheongdam-dong and h
   source="Seoul Tourism Organization 2025"
 />
 
-To visit all major agencies effectively, you need to understand their locations relative to the Han River. **SM Entertainment** is in Seongsu (East Seoul), **HYBE** is in Yongsan (Central Seoul), **YG** is in Hapjeong (West Seoul), and **JYP** is in Gangdong-gu (Far East Seoul). The average subway travel time between YG in the west and JYP in the east is approximately **65 to 75 minutes**, costing around **1,500 KRW ($1.10 USD)** per trip on a T-Money card.
+To visit all major agencies effectively, you need to understand their locations relative to the Han River. **SM Entertainment** is in Seongsu (East Seoul), **HYBE** is in Yongsan (Central Seoul), **YG** is in Hapjeong (West Seoul), and **JYP** is in Gangdong-gu (Far East Seoul). The average subway travel time between YG in the west and JYP in the east is approximately **65 to 75 minutes**, costing around **₩1,500 ($1.10 USD)** per trip on a T-Money card.
 
 <InfoBox type="tip" title="Pro Tip">
   Do not attempt to visit all four major agencies in a single day unless you have a private car charter. We recommend splitting your pilgrimage into "West Seoul" (YG & HYBE) and "East Seoul" (SM & JYP) over two days.
@@ -74,7 +84,7 @@ The space features a massive transparent OLED signage floor and media displays. 
 />
 
 ### Costs and Logistics
-*   **Merchandise Prices:** Albums average **19,300 KRW ($14.50)**, while official lightsticks range from **42,000 to 55,000 KRW ($31-$41)** depending on the artist.
+*   **Merchandise Prices:** Albums average **₩19,300 ($14.50)**, while official lightsticks range from **42,000 to ₩55,000 ($31-$41)** depending on the artist.
 *   **Nearby:** The building is directly connected to Seoul Forest Park, a massive 1.16 million square meter green space perfect for recreating idol photoshoots.
 *   **Transit:** It is a **2-minute walk** from the subway exit underground connector.
 
@@ -94,7 +104,7 @@ The space features a massive transparent OLED signage floor and media displays. 
 The home of BTS, SEVENTEEN, TXT, Le Sserafim, and NewJeans is located in Yongsan. However, managing expectations is crucial here. The massive 19-story building is notorious for its high security.
 
 ### The Current Reality
-Previously, the building housed **HYBE Insight**, a museum in the basement levels. However, as of 2026, the permanent museum location in Yongsan is **closed** to the public and the space has been converted into artist practice studios and training facilities. HYBE Insight now operates as a pop-up exhibition in various locations around Seoul (often in Gangnam or near Myeongdong), costing roughly **35,000 KRW ($26)** per ticket when active.
+Previously, the building housed **HYBE Insight**, a museum in the basement levels. However, as of 2026, the permanent museum location in Yongsan is **closed** to the public and the space has been converted into artist practice studios and training facilities. HYBE Insight now operates as a pop-up exhibition in various locations around Seoul (often in Gangnam or near Myeongdong), costing roughly **₩35,000 ($26)** per ticket when active.
 
 Fans still flock to the Yongsan building, but the experience is limited to taking photos of the exterior and visiting the "fan ecosystem" that has sprung up around it.
 
@@ -119,7 +129,7 @@ The most popular stop is a convenience store or cafe directly behind the buildin
 
 *   **Location:** 42 Hangang-daero, Yongsan-gu.
 *   **Transit:** Sinyongsan Station (Line 4), Exit 2. It is a straight **650-meter walk** towards the Han River.
-*   **Taxi Fare:** From Myeongdong to HYBE is approximately **8,000 KRW ($6)** and takes 15 minutes.
+*   **Taxi Fare:** From Myeongdong to HYBE is approximately **₩8,000 ($6)** and takes 15 minutes.
 
 ---
 
@@ -130,7 +140,7 @@ JYP Entertainment, led by Park Jin-young, is located in the quiet residential ar
 ### The Cafe Situation
 Originally, the ground floor housed the "Soul Cup" cafe, which was open to fans. This location has **closed**. However, the building itself remains a major photo spot. The exterior features a massive red "JYP" logo that is lit up at night.
 
-Fans now congregate at the **Dunkin' Donuts** directly opposite the JYP building. The walls of this specific Dunkin' are adorned with fan messages, and it offers the best vantage point to watch the building entrance without disturbing business operations. A coffee and donut here will cost approximately **6,500 KRW ($4.80)**.
+Fans now congregate at the **Dunkin' Donuts** directly opposite the JYP building. The walls of this specific Dunkin' are adorned with fan messages, and it offers the best vantage point to watch the building entrance without disturbing business operations. A coffee and donut here will cost approximately **₩6,500 ($4.80)**.
 
 <LocationCard
   name="JYP Headquarters"
@@ -166,15 +176,15 @@ The building was designed so that the second-floor balcony and windows look dire
   difficulty="easy"
   steps={[
     { title: "Arrival", description: "Take Subway Line 2 or 6 to Hapjeong Station, Exit 8.", tip: "It is a 10-minute walk (700m) past residential villas." },
-    { title: "Ordering", description: "Order at the kiosk on the 1st floor. An Iced Americano is 5,500 KRW.", tip: "Check the display cases for signed merchandise." },
+    { title: "Ordering", description: "Order at the kiosk on the 1st floor. An Iced Americano is ₩5,500.", tip: "Check the display cases for signed merchandise." },
     { title: "The View", description: "Head to the 2nd floor. Seats facing the window are premium real estate.", tip: "Binoculars are not encouraged, but phone zoom is common." }
   ]}
 />
 
 ### Cost Analysis
-*   **Drinks:** 5,000 - 7,000 KRW.
-*   **Merch:** Limited selection compared to SM's Kwangya, mostly focusing on BLACKPINK and TREASURE character goods (approx **15,000 - 30,000 KRW**).
-*   **Donuts:** They sell specialized donuts for around **3,500 KRW** each.
+*   **Drinks:** 5,000 - ₩7,000.
+*   **Merch:** Limited selection compared to SM's Kwangya, mostly focusing on BLACKPINK and TREASURE character goods (approx **15,000 - ₩30,000**).
+*   **Donuts:** They sell specialized donuts for around **₩3,500** each.
 
 ---
 
@@ -209,7 +219,7 @@ To help you plan, we have structured two distinct itineraries based on geography
 
 ### Option A: The "Big Agency" Day (East Seoul)
 *   **Target:** SM Entertainment & JYP Entertainment + Lotte World Tower.
-*   **Budget:** **50,000 KRW ($37)** per person (excluding major merch purchases).
+*   **Budget:** **₩50,000 ($37)** per person (excluding major merch purchases).
 *   **Logistics:**
     1.  Start at **Seoul Forest** (SM Kwangya). Spend 1.5 hours.
     2.  Subway to **Jamsil** (20 mins). Visit Lotte World Mall for the Soul Cup branch.
@@ -218,7 +228,7 @@ To help you plan, we have structured two distinct itineraries based on geography
 
 ### Option B: The "Hipster" Day (West/Central Seoul)
 *   **Target:** YG Entertainment & HYBE + Hongdae Shopping.
-*   **Budget:** **40,000 KRW ($30)** per person.
+*   **Budget:** **₩40,000 ($30)** per person.
 *   **Logistics:**
     1.  Start at **Hapjeong** (YG - The SameE). Coffee and photos.
     2.  Walk/Subway to **Hongdae** (1 stop). Shop at "WithMuu" for multi-fandom albums.

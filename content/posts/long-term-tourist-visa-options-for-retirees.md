@@ -4,6 +4,16 @@ date: 2026-01-23
 excerpt: "A comprehensive guide to long-term stay options for retirees in South Korea, including investment visas, costs, and healthcare access."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Budget Travel"
+readTime: "12 min read"
+featured: false
 ---
 
 South Korea is rapidly becoming a bucket-list destination for active seniors and retirees. With its world-class healthcare system, safe streets, and vibrant blend of tradition and modernity, it offers an exceptional quality of life. However, unlike Thailand or the Philippines, South Korea does not offer a specific "Retirement Visa" for foreign nationals. This unique regulatory landscape requires potential expats to be strategic in how they approach long-term residency.
@@ -15,7 +25,7 @@ For more details, check out our guide on [Best Korea SIM Cards for Long-Term Tra
 <KeyTakeaways 
   points={[
     "Korea has no direct Retirement Visa; investment or long-term tourist strategies are required.",
-    "Real Estate Investment (F-2) requires approx. $750,000 USD (1 Billion KRW) in specific zones.",
+    "Real Estate Investment (F-2) requires approx. $750,000 USD (1 Billion ₩) in specific zones.",
     "The F-1-D Workcation Visa allows a 1-2 year stay if annual income exceeds $64,000 USD."
   ]}
   readTime={15}
@@ -71,7 +81,7 @@ You cannot simply buy an apartment in Seoul to qualify. The investment must be i
 4.  **Yeosu (Gyeongdo):** A scenic coastal city famous for its night seas and islands.
 
 ### Financial Requirements
-As of 2026, the investment threshold is set at **1 Billion KRW** (approximately **$750,000 USD**, depending on exchange rates). This amount was raised from 500 million KRW in late 2023 to curb property speculation.
+As of 2026, the investment threshold is set at **1 billion won** (approximately **$750,000 USD**, depending on exchange rates). This amount was raised from ₩500 million in late 2023 to curb property speculation.
 
 <InfoBox type="warning" title="Depreciation Warning">
   Investment properties eligible for this visa are often "condotels" or tourist accommodation facilities. These may not appreciate in value as reliably as standard residential apartments in Seoul. View this as the cost of the visa rather than a high-yield financial investment.
@@ -96,7 +106,7 @@ While not strictly for retirees, it is age-neutral. If you are 65 but still serv
 />
 
 ### Income Thresholds
-To qualify, you must prove an annual income of at least double the Korean GNI (Gross National Income) per capita. In 2026, this requirement sits at approximately **85 million KRW** (roughly **$64,000 USD**) per year. You must provide tax returns or bank statements from your home country to verify this.
+To qualify, you must prove an annual income of at least double the Korean GNI (Gross National Income) per capita. In 2026, this requirement sits at approximately **₩85 million** (roughly **$64,000 USD**) per year. You must provide tax returns or bank statements from your home country to verify this.
 
 <ExpertTip 
   author="Sarah Jenkins"
@@ -111,7 +121,7 @@ To qualify, you must prove an annual income of at least double the Korean GNI (G
 
 For the active retiree who wants to run a small business—perhaps a consulting firm, a gallery, or an import-export business—the D-8 Corporate Investment visa is a viable route.
 
-This requires a minimum foreign direct investment (FDI) of **100 million KRW** (approx. **$75,000 USD**). You must incorporate a company in Korea and prove that the business is legitimate and operational.
+This requires a minimum foreign direct investment (FDI) of **₩100 million** (approx. **$75,000 USD**). You must incorporate a company in Korea and prove that the business is legitimate and operational.
 
 <ProsCons
   title="D-8 Visa for Retirees"
@@ -162,8 +172,8 @@ Korea offers a "first-world infrastructure at a mid-tier price point." While Seo
 
 ### Housing (The Wolse vs. Jeonse System)
 Retirees typically opt for *Wolse* (monthly rent with deposit).
-*   **Deposit:** 10 million - 50 million KRW ($7,500 - $37,000 USD).
-*   **Monthly Rent:** 800,000 - 2 million KRW ($600 - $1,500 USD) for a modern 1-bedroom or officetel in a good district.
+*   **Deposit:** 10 million - ₩50 million ($7,500 - $37,000 USD).
+*   **Monthly Rent:** 800,000 - ₩2 million ($600 - $1,500 USD) for a modern 1-bedroom or officetel in a good district.
 
 <LocationCard
   name="The Classic 500"
@@ -180,9 +190,9 @@ Retirees typically opt for *Wolse* (monthly rent with deposit).
 />
 
 ### Daily Expenses
-*   **Public Transport:** Seniors over 65 (mostly citizens/permanent residents) ride subways free, but foreigners usually pay roughly **1,400 KRW ($1.05)** per trip.
-*   **Groceries:** Local markets are 30% cheaper than supermarkets. A basket of fruit costs roughly **20,000 KRW ($15)**.
-*   **Dining Out:** A hearty Korean stew (*jjigae*) costs about **10,000 KRW ($7.50)**.
+*   **Public Transport:** Seniors over 65 (mostly citizens/permanent residents) ride subways free, but foreigners usually pay roughly **₩1,400 ($1.05)** per trip.
+*   **Groceries:** Local markets are 30% cheaper than supermarkets. A basket of fruit costs roughly **₩20,000 ($15)**.
+*   **Dining Out:** A hearty Korean stew (*jjigae*) costs about **₩10,000 ($7.50)**.
 
 ## How to Prepare: A Step-by-Step Guide
 

@@ -46,11 +46,11 @@ Planning your visit to the **Gangneung Famous Cafe Street 2026** requires a bit 
 
 Gangneung is well-connected to Seoul and other major Korean cities. Here's a comparison of the most common transport methods:
 
-| Transportation Type | Approximate Cost (KRW / USD) | Travel Time (from Seoul) | Convenience | Notes |
+| Transportation Type | Approximate Cost (₩ / USD) | Travel Time (from Seoul) | Convenience | Notes |
 | :------------------ | :---------------------------- | :----------------------- | :---------- | :---- |
 | KTX High-Speed Train | ₩27,000 / 20 USD | 1.5 - 2 hours | Very High | Fastest, comfortable. Requires transfer to bus/taxi in Gangneung. |
 | Intercity Bus | ₩15,000 / 11 USD | 2.5 - 3 hours | High | More direct to Gangneung Intercity Bus Terminal. Economical. |
-| Rental Car | Varies (50,000+ KRW/day) | 2.5 - 3 hours | High | Offers flexibility for exploring surrounding areas. Parking can be an issue near cafes. |
+| Rental Car | Varies (₩50,000/day) | 2.5 - 3 hours | High | Offers flexibility for exploring surrounding areas. Parking can be an issue near cafes. |
 
 Once in Gangneung, reaching Anmok Beach Cafe Street is straightforward. From Gangneung Station (KTX) or Gangneung Intercity Bus Terminal, a local bus (such as bus numbers 200, 202, 206, 207, 211, 230) will take you directly to Anmok Beach (안목해변). Taxis are also readily available and offer a quick ride for around 8,000-₩10,000 (6-8 USD).
 

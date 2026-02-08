@@ -119,7 +119,7 @@ In addition to the universal requirements, you will need specific documents base
 | Original Passport + Photocopy     | Yes               | Yes            | Yes            | Yes                   |
 | Passport-Sized Photo (1)          | Yes               | Yes            | Yes            | Yes                   |
 | Proof of Residence                | Yes               | Yes            | Yes            | Yes                   |
-| Application Fee (30,000 KRW)      | Yes               | Yes            | Yes            | Yes                   |
+| Application Fee (₩30,000)      | Yes               | Yes            | Yes            | Yes                   |
 | Certificate of Admission          | Yes               | No             | No             | No                    |
 | Proof of Tuition Payment          | Yes               | No             | No             | No                    |
 | University/Institute Business Reg | Yes               | No             | No             | No                    |
@@ -169,7 +169,7 @@ On the day of your appointment, arrive early (at least 15-20 minutes before your
     *   **Suwon Immigration Office (수원출입국·외국인청):** Yeongtong-gu, Suwon.
 2.  **Check-in:** Upon arrival, find the designated check-in area for online reservations. You'll usually need to input your reservation number into a kiosk or show it to a staff member to receive a waiting ticket.
 3.  **Wait for Your Turn:** Immigration Offices can be busy. Be prepared to wait, even with an appointment.
-4.  **Payment:** While waiting, you may be instructed to pay the 30,000 KRW application fee. Often, there's a small bank or a revenue stamp counter within the office.
+4.  **Payment:** While waiting, you may be instructed to pay the ₩30,000 application fee. Often, there's a small bank or a revenue stamp counter within the office.
 5.  **Go to Your Assigned Counter:** When your number is called, proceed to the counter.
 
 ### Step 4: The Interview/Submission Process
@@ -222,7 +222,7 @@ You can check the status of your application online through the Hikorea website.
 There are generally two methods for receiving your finished ARC:
 
 1.  **In-Person Pick-up:** This is the most common method. The Immigration Office will provide you with a specific date and time window for pick-up when your card is ready. You'll need to bring your passport and the application receipt.
-2.  **Mail Delivery (Optional, Fee-Based):** Some Immigration Offices offer a mail delivery service (등기우편) for an additional fee (usually around 3,000-5,000 KRW). If available, you can request this service when you submit your application. This can be a convenient option, especially if your Immigration Office is far from your residence.
+2.  **Mail Delivery (Optional, Fee-Based):** Some Immigration Offices offer a mail delivery service (등기우편) for an additional fee (usually around ₩3,000 - ₩5,000). If available, you can request this service when you submit your application. This can be a convenient option, especially if your Immigration Office is far from your residence.
 
 ### What Your ARC Contains
 
@@ -284,7 +284,7 @@ Navigating bureaucratic processes in a new country can be challenging, but these
 
 1.  **Book Your Appointment Early:** As soon as you arrive in Korea and have your proof of residence, hop on Hikorea and book an appointment. Slots fill up fast, especially at popular Immigration Offices like Seoul and Suwon. Aim to book within your first few weeks.
 2.  **Double-Check All Documents:** Before your appointment, go through your document checklist meticulously. A single missing or incorrect document can mean your application is rejected, forcing you to rebook and wait again. Make sure photocopies are clear.
-3.  **Prepare for Payment:** Have the 30,000 KRW application fee ready. It's often easiest to pay by a Korean debit card or purchase revenue stamps at the Immigration Office or nearby post office.
+3.  **Prepare for Payment:** Have the ₩30,000 application fee ready. It's often easiest to pay by a Korean debit card or purchase revenue stamps at the Immigration Office or nearby post office.
 4.  **Dress Neatly and Be Polite:** While not a strict requirement, presenting yourself professionally and maintaining a polite demeanor can contribute to a positive experience.
 5.  **Bring a Korean Speaker (If Necessary):** While many immigration officers speak some English, bringing a Korean-speaking friend or colleague can be incredibly helpful for clarity, especially if complex questions arise. The 1345 hotline also offers interpretation services if you call beforehand.
 6.  **Patience is Key:** Immigration offices are busy. Even with an appointment, expect some waiting time. Bring a book, charger, or something to keep you occupied.
@@ -306,7 +306,7 @@ Navigating bureaucratic processes in a new country can be challenging, but these
 | **Unclear Proof of Residence**         | Ensure your housing contract clearly shows your name, address, and landlord details. If subletting, get a notarized agreement. |
 | **Jurisdiction Error**                 | Ensure you book at the Immigration Office serving your residential district. Call 1345 if unsure.          |
 | **Late for Appointment**               | You might lose your slot and have to rebook. Arrive 15-20 minutes early.                                  |
-| **No Cash/Card for Fee**               | Bring a Korean debit card or cash (30,000 KRW) for revenue stamps/payment.                                 |
+| **No Cash/Card for Fee**               | Bring a Korean debit card or cash (₩30,000) for revenue stamps/payment.                                 |
 | **Language Barrier**                   | Use a translation app, bring a Korean-speaking friend, or utilize the 1345 hotline's interpretation service. |
 | **Changes Not Reported**               | Report changes (address, school, workplace) within 14-15 days.                                             |
 
@@ -318,7 +318,7 @@ Navigating bureaucratic processes in a new country can be challenging, but these
 It is generally not recommended to travel internationally while your ARC application is pending. Your original passport will be returned to you after the application, but without the physical ARC, re-entry can be complicated and may require a re-entry permit depending on your visa type. It's safest to wait until you receive your physical ARC.
 
 ### 2. What if I lose my Alien Registration Card?
-You must report the loss to the nearest Immigration Office or police station within 14 days of realizing it's lost. You will then need to apply for a reissuance of your ARC, following a similar process to the initial application, including booking an appointment and submitting documents (passport, new photo, proof of loss, and the 30,000 KRW fee).
+You must report the loss to the nearest Immigration Office or police station within 14 days of realizing it's lost. You will then need to apply for a reissuance of your ARC, following a similar process to the initial application, including booking an appointment and submitting documents (passport, new photo, proof of loss, and the ₩30,000 fee).
 
 ### 3. Can someone else apply for the ARC on my behalf?
 Generally, no. The applicant must appear in person at the Immigration Office for fingerprinting and to confirm their identity. Exceptions are extremely rare and typically only granted under very specific, documented medical emergencies or for children under a certain age (often under 17, with a parent applying on their behalf). Always confirm with 1345.

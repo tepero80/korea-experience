@@ -180,7 +180,7 @@ This is the easiest part of Korean dining etiquette, yet often confusing for Ame
   rows={[
     { feature: "Credit Card (Visa/Master)", option1: "99%", option2: "High", option3: "Accepted everywhere except street stalls" },
     { feature: "T-Money Card", option1: "40%", option2: "Medium", option3: "Mostly convenience stores & fast food" },
-    { feature: "Cash (KRW)", option1: "100%", option2: "Medium", option3: "Essential for street markets" },
+    { feature: "Cash (₩)", option1: "100%", option2: "Medium", option3: "Essential for street markets" },
     { feature: "Mobile Pay (Apple/Samsung)", option1: "95%", option2: "High", option3: "Very common in Seoul" }
   ]}
 />

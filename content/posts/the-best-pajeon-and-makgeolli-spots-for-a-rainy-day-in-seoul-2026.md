@@ -4,6 +4,16 @@ date: 2026-01-31
 excerpt: "Discover the ultimate guide to savory pancakes and rice wine in Seoul. Top spots, craft brews, and local tips for a perfect rainy day experience."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "13 min read"
+featured: false
 ---
 
 There is an unspoken rule in South Korea that transcends generations: when the rain begins to fall, you must eat *pajeon* (scallion pancakes) and drink *makgeolli* (rice wine). This cultural phenomenon is so deeply ingrained that on rainy days in 2026, searches for these venues spike by over 300% across local navigation apps. The auditory connection is often cited as the reason; the sound of rain hitting the pavement mimics the sizzling sound of batter frying in oil, triggering a Pavlovian response for savory, crispy pancakes.
@@ -14,7 +24,7 @@ For more details, check out our guide on [Best spots for solo dining hon-bap in 
 
 <KeyTakeaways 
   points={[
-    "Pajeon Alley in Hoegi offers the best value with set menus under 30,000 KRW",
+    "Pajeon Alley in Hoegi offers the best value with set menus under ₩30,000",
     "Gongdeok Market is the top choice for variety, offering over 50 types of fried jeon",
     "Craft Makgeolli bars in Gangnam are trending in 2026, serving chemical-free brews"
   ]}
@@ -57,7 +67,7 @@ The word "Jeon" refers to the entire category of pan-fried battered dishes. "Paj
 If you want volume, history, and a lively atmosphere, the Pajeon Alley near Hoegi Station (Line 1) is the undisputed champion. Located near Kyung Hee University, this alley has been serving hungry students since the 1970s. The pancakes here are distinct; they are often called "Don-kaseu Pajeon" because they are thick, deep-fried, and crispy, resembling a pork cutlet more than a traditional thin pancake.
 
 ### The Atmosphere and Cost
-The vibe here is raucous and energetic. In 2026, despite gentrification elsewhere, Hoegi retains its retro charm. You can expect to pay approximately 15,000 KRW ($11.50 USD) for a massive pancake that easily feeds 2-3 people. Most shops offer "Set Menus" ranging from 25,000 to 30,000 KRW ($19 - $23 USD) that include a pancake, a pot of steamed eggs, corn cheese, and a bottle of makgeolli.
+The vibe here is raucous and energetic. In 2026, despite gentrification elsewhere, Hoegi retains its retro charm. You can expect to pay approximately ₩15,000 ($11.50 USD) for a massive pancake that easily feeds 2-3 people. Most shops offer "Set Menus" ranging from 25,000 to ₩30,000 ($19 - $23 USD) that include a pancake, a pot of steamed eggs, corn cheese, and a bottle of makgeolli.
 
 <LocationCard
   name="Nakseo Pajeon"
@@ -92,7 +102,7 @@ Hoegi style is not for the health-conscious. It is deep-fried comfort. If you fi
 For travelers who suffer from decision paralysis or want to try everything, Gongdeok Market is the ultimate destination. Located at a major transportation hub where four subway lines intersect (Line 5, 6, Airport Railroad, Gyeongui-Jungang), this market features a unique "pick-your-own" system.
 
 ### How the System Works
-Upon arrival, you are handed a basket and tongs. You walk along a 50-meter display of pre-fried items ranging from battered spam, chili peppers, sesame leaves stuffed with meat, to shrimp and meatballs. You pick what you want, hand it to the staff who weigh it (roughly 2,500 KRW per 100g), and they re-fry it to ensure it is hot and crispy before serving it to your table.
+Upon arrival, you are handed a basket and tongs. You walk along a 50-meter display of pre-fried items ranging from battered spam, chili peppers, sesame leaves stuffed with meat, to shrimp and meatballs. You pick what you want, hand it to the staff who weigh it (roughly ₩2,500 per 100g), and they re-fry it to ensure it is hot and crispy before serving it to your table.
 
 <StepGuide
   title="How to Order at Gongdeok Market"
@@ -106,7 +116,7 @@ Upon arrival, you are handed a basket and tongs. You walk along a 50-meter displ
 />
 
 ### The "Jokbal" Connection
-Gongdeok is also famous for *Jokbal* (braised pig's trotters). Many locals will do a "round one" at a Jeon house and a "round two" at a Jokbal house next door. The average spend per person here is about 20,000 KRW ($15 USD) including alcohol.
+Gongdeok is also famous for *Jokbal* (braised pig's trotters). Many locals will do a "round one" at a Jeon house and a "round two" at a Jokbal house next door. The average spend per person here is about ₩20,000 ($15 USD) including alcohol.
 
 <LocationCard
   name="Cheonghakdong Jeon"
@@ -129,7 +139,7 @@ Gongdeok is also famous for *Jokbal* (braised pig's trotters). Many locals will 
 If your goal is to capture the perfect Instagram photo while enjoying high-quality food, Ikseon-dong is the place to be. This neighborhood consists of renovated Hanok (traditional Korean houses) from the 1920s. On a rainy day, the sight of water dripping off the curved tiled roofs adds a layer of melancholy beauty that is unmatched.
 
 ### The Aesthetic vs. The Price
-Dining here comes at a premium. Expect to pay 25,000 to 35,000 KRW ($19 - $26 USD) for a single pancake. However, the ingredients are generally higher quality, often featuring organic chives, abundant shrimp, and artisanal batter. The makgeolli selection here often includes regional specialties from across the peninsula, not just the standard Seoul brands.
+Dining here comes at a premium. Expect to pay 25,000 to ₩35,000 ($19 - $26 USD) for a single pancake. However, the ingredients are generally higher quality, often featuring organic chives, abundant shrimp, and artisanal batter. The makgeolli selection here often includes regional specialties from across the peninsula, not just the standard Seoul brands.
 
 <QuickFacts
   title="Ikseon-dong Insights"
@@ -157,7 +167,7 @@ The narrow alleys of Ikseon-dong are barely 2 meters wide, so umbrellas can be c
 By 2026, the "Premium Makgeolli" revolution has fully matured. Gone are the days when makgeolli was considered a cheap headache-inducer for the elderly. A new wave of bistro-pubs, primarily in Sinsa-dong (Gangnam) and Yeonnam-dong (Hongdae), treat rice wine with the same reverence as French wine.
 
 ### Understanding Premium Makgeolli
-Commercial mass-market makgeolli usually costs under 2,000 KRW at a store and contains aspartame (artificial sweetener) to speed up fermentation and stabilize taste. Premium craft makgeolli, however, uses only rice, water, and *nuruk* (fermentation starter). The result is a beverage that is creamy, complex, and boasts floral or fruity notes without added flavorings.
+Commercial mass-market makgeolli usually costs under ₩2,000 at a store and contains aspartame (artificial sweetener) to speed up fermentation and stabilize taste. Premium craft makgeolli, however, uses only rice, water, and *nuruk* (fermentation starter). The result is a beverage that is creamy, complex, and boasts floral or fruity notes without added flavorings.
 
 <PriceTable
   title="Makgeolli Tiers"

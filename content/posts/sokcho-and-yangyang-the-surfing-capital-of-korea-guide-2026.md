@@ -94,10 +94,10 @@ Here's a comparison of typical surf school offerings:
 
 | Surf School Example (Hypothetical) | Location       | Avg. Price (1 Group Lesson) | English Available | Board/Wetsuit Incl. | Specialization         |
 | :--------------------------------- | :------------- | :-------------------------- | :---------------- | :------------------ | :--------------------- |
-| Jukdo Surf School                  | Jukdo Beach    | 65,000 KRW                  | Yes               | Yes                 | Beginner & Intermediate |
-| Ingu Wave Riders                   | Ingu Beach     | 60,000 KRW                  | Limited           | Yes                 | Beginner-friendly       |
-| East Sea Surf Academy              | Dongsan Beach  | 70,000 KRW                  | Yes               | Yes                 | All Levels, Private Lessons |
-| Sokcho Surf Base                   | Oeongchi Beach | 55,000 KRW                  | Yes               | Yes                 | Beginner, Quieter Spot  |
+| Jukdo Surf School                  | Jukdo Beach    | ₩65,000                  | Yes               | Yes                 | Beginner & Intermediate |
+| Ingu Wave Riders                   | Ingu Beach     | ₩60,000                  | Limited           | Yes                 | Beginner-friendly       |
+| East Sea Surf Academy              | Dongsan Beach  | ₩70,000                  | Yes               | Yes                 | All Levels, Private Lessons |
+| Sokcho Surf Base                   | Oeongchi Beach | ₩55,000                  | Yes               | Yes                 | Beginner, Quieter Spot  |
 
 *Note: Prices are estimates for 2026 and subject to change.*
 
@@ -156,9 +156,9 @@ Here’s a comparison of transportation options from Seoul:
 
 | Transportation Mode | Avg. Time (from Seoul) | Avg. Price (One-Way) | Notes                                    |
 | :------------------ | :--------------------- | :------------------- | :--------------------------------------- |
-| Express Bus         | 2.5 - 3 hours          | 18,000 - 25,000 KRW  | Direct, frequent, comfortable.           |
-| KTX (to Gangneung) + Local Transfer | 2 hours (KTX) + 30-60 min (transfer) | 30,000 KRW (KTX) + 5,000-10,000 KRW (transfer) | Faster KTX leg, but requires a transfer. |
-| Rental Car          | 2.5 - 3 hours          | 60,000 - 100,000 KRW/day (car) + tolls/gas | Most flexible, ideal for exploring.      |
+| Express Bus         | 2.5 - 3 hours          | ₩18,000 - ₩25,000  | Direct, frequent, comfortable.           |
+| KTX (to Gangneung) + Local Transfer | 2 hours (KTX) + 30-60 min (transfer) | ₩30,000 (KTX) + ₩5,000 - ₩10,000 (transfer) | Faster KTX leg, but requires a transfer. |
+| Rental Car          | 2.5 - 3 hours          | ₩60,000 - ₩100,000/day (car) + tolls/gas | Most flexible, ideal for exploring.      |
 
 *Note: Prices are estimates for 2026 and subject to change.*
 
@@ -166,7 +166,7 @@ Here’s a comparison of transportation options from Seoul:
 
 Korea can be an affordable travel destination, but costs can vary significantly based on your travel style. Here’s an estimated daily budget:
 
-| Category          | Low End (KRW) | High End (KRW) | Notes                                        |
+| Category          | Low End (₩) | High End (₩) | Notes                                        |
 | :---------------- | :------------ | :------------- | :------------------------------------------- |
 | Accommodation (per person) | 25,000        | 150,000        | Guesthouse dorm vs. Mid-range hotel          |
 | Food & Drink      | 30,000        | 80,000         | Local eateries/convenience store vs. Restaurants/cafes |
@@ -176,7 +176,7 @@ Korea can be an affordable travel destination, but costs can vary significantly 
 | Activities (non-surfing) | 0             | 30,000         | Free hikes vs. Entrance fees/experiences     |
 | **Total Daily Estimate** | **80,000 - 140,000** | **200,000 - 390,000** | *Excluding travel to/from Seoul.*      |
 
-*Note: 1,000 KRW is roughly 0.75 - 0.85 USD as of late 2023, subject to currency fluctuations.*
+*Note: ₩1,000 is roughly 0.75 - 0.85 USD as of late 2023, subject to currency fluctuations.*
 
 ### Essential Packing List
 

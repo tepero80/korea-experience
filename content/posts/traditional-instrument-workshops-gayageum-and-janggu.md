@@ -4,6 +4,16 @@ date: 2026-02-02
 excerpt: "Discover the soul of Korea through sound. A complete guide to booking and experiencing traditional Gayageum and Janggu classes in Seoul."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Budget Travel"
+  - "Insadong"
+readTime: "11 min read"
+featured: false
 ---
 
 The sound of Korea is distinct. It is the deep, resonant thrum of silk strings against paulownia wood and the heart-pounding vibration of hourglass drums. For international travelers, listening to traditional Korean music (Gugak) is a moving experience, but learning to play these instruments offers a connection to the culture that sightseeing alone cannot provide.
@@ -13,7 +23,7 @@ Traditional instrument workshops, specifically for the **Gayageum** (12-string z
 <KeyTakeaways 
   points={[
     "Gayageum classes are beginner-friendly and often teach the folk song Arirang in under 60 minutes",
-    "Workshops typically range from 30,000 to 70,000 KRW ($23-53 USD) per session",
+    "Workshops typically range from 30,000 to ₩70,000 ($23-53 USD) per session",
     "No musical theory knowledge is required; instruction uses intuitive tablature systems"
   ]}
   readTime={12}
@@ -71,7 +81,7 @@ For more details, check out our guide on [Mastering Korean Paper Art Hanji Craft
   tip="Check their website 3 weeks in advance as Saturday classes fill up quickly."
 />
 
-The facilities here are state-of-the-art. You are learning on professional-grade instruments that can cost upwards of 3,000,000 KRW ($2,250 USD), ensuring the sound quality is pristine.
+The facilities here are state-of-the-art. You are learning on professional-grade instruments that can cost upwards of ₩3,000,000 ($2,250 USD), ensuring the sound quality is pristine.
 
 ## Where to Learn: Bukchon Hanok Village Studios
 For a more atmospheric experience, the winding alleys of Bukchon Hanok Village offer private studios set within traditional Korean houses (Hanoks). These classes are generally more intimate, with class sizes often capped at 4 to 6 participants.
@@ -175,10 +185,10 @@ Still undecided between the zither and the drum? Here is a breakdown to help you
 
 For those who fall in love with the sound, buying an instrument is the ultimate souvenir. However, these are large items.
 
-A beginner *Sanjo Gayageum* starts around 500,000 KRW ($375 USD). A professional model exceeds 2,000,000 KRW.
-A standard *Janggu* costs between 200,000 and 400,000 KRW ($150-$300 USD).
+A beginner *Sanjo Gayageum* starts around ₩500,000 ($375 USD). A professional model exceeds ₩2,000,000.
+A standard *Janggu* costs between 200,000 and ₩400,000 ($150-$300 USD).
 
-If you purchase one, you must visit the Nakwon Instrument Arcade near Insadong (Jongno-3-ga Station, Exit 5). It is the world's largest musical instrument mall. Most shops there can arrange international shipping (EMS), which typically costs an additional 150,000 to 250,000 KRW depending on the destination and weight.
+If you purchase one, you must visit the Nakwon Instrument Arcade near Insadong (Jongno-3-ga Station, Exit 5). It is the world's largest musical instrument mall. Most shops there can arrange international shipping (EMS), which typically costs an additional 150,000 to ₩250,000 depending on the destination and weight.
 
 <ComparisonTable
   title="Souvenir Options"

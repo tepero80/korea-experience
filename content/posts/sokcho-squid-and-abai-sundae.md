@@ -4,6 +4,16 @@ date: 2026-01-30
 excerpt: "Discover the authentic taste of Sokcho with our guide to Squid Sundae and Abai Sundae. Explore history, best restaurants, and travel tips."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Autumn"
+  - "Budget Travel"
+readTime: "11 min read"
+featured: false
 ---
 
 Sokcho is a culinary jewel on South Korea’s northeast coast, located approximately 120 miles (193 kilometers) from Seoul. While the city is famous for the majestic Seoraksan National Park, the true heartbeat of this coastal hub is found in its distinctive cuisine. Specifically, two dishes define the region's gastronomic identity: *Ojing-eo Sundae* (Squid Sundae) and *Abai Sundae* (Hamgyong-style Blood Sausage).
@@ -22,7 +32,7 @@ These dishes are not merely food; they are edible history, born from the displac
   points={[
     "Abai Village is the historic epicenter for authentic North Korean-style sundae.",
     "Squid Sundae (Ojing-eo Sundae) is distinctively pan-fried in egg batter, unlike steamed varieties.",
-    "The manual Gaetbae boat costs only 500 KRW and saves a 20-minute walk."
+    "The manual Gaetbae boat costs only ₩500 and saves a 20-minute walk."
   ]}
   readTime={12}
   lastUpdated="2026-02-06"
@@ -40,13 +50,13 @@ Unlike the chewy, glass-noodle-filled sausages found in Seoul street stalls, Sok
 </InfoBox>
 
 ### Seasonality and Pricing
-While squid is available year-round, the peak season for fresh squid in the East Sea runs from June to November. During these months, the squid is most tender. Due to changing ocean temperatures, squid prices have fluctuated in recent years. As of early 2026, a single serving of Ojing-eo Sundae typically costs between 15,000 KRW and 20,000 KRW ($11.50 - $15.00 USD), depending on the size of the squid and the prestige of the restaurant.
+While squid is available year-round, the peak season for fresh squid in the East Sea runs from June to November. During these months, the squid is most tender. Due to changing ocean temperatures, squid prices have fluctuated in recent years. As of early 2026, a single serving of Ojing-eo Sundae typically costs between ₩15,000 and ₩20,000 ($11.50 - $15.00 USD), depending on the size of the squid and the prestige of the restaurant.
 
 <StatCard
   title="Sokcho Squid Statistics"
   variant="gradient"
   stats={[
-    { value: "15K", label: "Avg Price (KRW)", icon: "💰" },
+    { value: "15K", label: "Avg Price (₩)", icon: "💰" },
     { value: "20+", label: "Specialty Shops", icon: "🏪" }
   ]}
   source="Sokcho Tourism Data 2026"
@@ -80,7 +90,7 @@ Travelers often ask: "How is this different from the street food I ate in Myeong
     { feature: "Primary Filling", option1: "Glutinous Rice, Veggies, Blood", option2: "Glass Noodles (Dangmyeon)" },
     { feature: "Texture", option1: "Soft, Creamy, Rich", option2: "Chewy, Bouncy" },
     { feature: "Cooking Method", option1: "Steamed", option2: "Steamed" },
-    { feature: "Avg Price (Serving)", option1: "20,000 KRW", option2: "5,000 KRW" }
+    { feature: "Avg Price (Serving)", option1: "₩20,000", option2: "₩5,000" }
   ]}
 />
 
@@ -102,7 +112,7 @@ Dancheon Sikdang became nationally famous after being featured on the popular Ko
   rating={4.6}
   transit="Abai Village Ferry Drop-off, 2 min walk"
   highlights={["Mixed Sundae Platter", "Cold Noodle Soup (Naengmyeon)", "English Menu Available"]}
-  tip="The Mixed Platter (Modum Sundae) gives you both Squid and Abai Sundae for about 30,000 KRW."
+  tip="The Mixed Platter (Modum Sundae) gives you both Squid and Abai Sundae for about ₩30,000."
 />
 
 ### 2. Sindasin
@@ -150,7 +160,7 @@ The distance is short—only about 50 meters—and the ride takes less than 5 mi
 <QuickFacts
   title="Gaetbae Boat Facts"
   facts={[
-    { label: "Cost (One Way)", value: "500 KRW", icon: "💰" },
+    { label: "Cost (One Way)", value: "₩500", icon: "💰" },
     { label: "Duration", value: "5 Mins", icon: "⏱️" },
     { label: "Payment", value: "Cash Only", icon: "💵" }
   ]}
@@ -193,7 +203,7 @@ Traveling to Sokcho has become significantly easier in recent years. The most po
   ]}
 />
 
-Upon arriving at the Sokcho Express Bus Terminal, Abai Village is a short 5-minute taxi ride (approx. 5,000 KRW) or a scenic 20-minute walk along the coast.
+Upon arriving at the Sokcho Express Bus Terminal, Abai Village is a short 5-minute taxi ride (approx. ₩5,000) or a scenic 20-minute walk along the coast.
 
 <Timeline
   title="Ideal Sokcho Food Itinerary"
@@ -220,7 +230,7 @@ Once you have satisfied your appetite, Sokcho offers stunning natural landscapes
   items={[
     { question: "Is Sokcho Squid Sundae spicy?", answer: "No, the squid sundae itself is savory and mild. However, it is served with fermented pollack (sikhae) which has a spicy kick. You can eat the sundae without the spicy garnish if you prefer." },
     { question: "Can I eat Abai Sundae if I don't like blood sausage?", answer: "Abai Sundae does contain pig blood, which gives it a dark color and rich taste. If you are sensitive to the metallic taste of blood or the texture, stick to the Ojing-eo (Squid) Sundae, which is generally more approachable for foreigners." },
-    { question: "Do these restaurants accept credit cards?", answer: "Yes, almost all established restaurants in Abai Village and the Central Market accept international credit cards (Visa/Mastercard). However, the Gaetbae boat requires 500 KRW in cash (coins)." },
+    { question: "Do these restaurants accept credit cards?", answer: "Yes, almost all established restaurants in Abai Village and the Central Market accept international credit cards (Visa/Mastercard). However, the Gaetbae boat requires ₩500 in cash (coins)." },
     { question: "Is there a vegetarian version of Sundae?", answer: "Traditionally, no. Both Abai and Squid Sundae usually contain minced pork or are cooked in contact with meat products. Vegetarians might struggle in traditional sundae shops, though some market stalls sell vegetable pancakes (bindaetteok)." },
     { question: "Can I take Squid Sundae back to Seoul?", answer: "Yes! Vendors will pack it for you. If traveling by bus, ask for it to be cooled down first so it doesn't smell too strong. Reheat it in a frying pan with a little oil—do not microwave it, as the squid will become rubbery." }
   ]}

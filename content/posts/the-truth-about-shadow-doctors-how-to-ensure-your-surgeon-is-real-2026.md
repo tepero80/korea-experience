@@ -48,7 +48,7 @@ However, loopholes exist. Some clinics may claim "technical difficulties" with c
   variant="gradient"
   stats={[
     { value: "98%", label: "CCTV Compliance", icon: "📹" },
-    { value: "50M", label: "Max Fine (KRW)", icon: "⚖️" }
+    { value: "50M", label: "Max Fine (₩)", icon: "⚖️" }
   ]}
   source="Ministry of Health and Welfare 2026"
 />

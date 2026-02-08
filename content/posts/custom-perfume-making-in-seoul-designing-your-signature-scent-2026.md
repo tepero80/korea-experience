@@ -4,11 +4,21 @@ date: 2026-01-05
 excerpt: "Create your own fragrance in Seoul. A complete guide to 2026 prices (avg ₩50,000), top studios in Bukchon and Seongsu, and booking tips for travelers."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "K-Beauty"
+  - "Shopping"
+  - "Seoul"
+  - "Skincare"
+  - "Korean Fashion"
+  - "Budget Travel"
+  - "Coffee"
+readTime: "13 min read"
+featured: false
 ---
 
 Custom perfume making has established itself as the quintessential hands-on experience for travelers visiting Seoul in 2026. While K-Beauty skincare has long dominated the shopping lists of international visitors, the trend has shifted toward personalized, immersive experiences that result in a unique souvenir. In Seoul, a one-day perfume class typically involves a 60 to 90-minute session where you consult with a professional perfumer to select from 30 to 80 distinct scent bases, blend them according to specific ratios, and bottle your creation.
 
-**The short answer: Expect to pay between 50,000 KRW ($38 USD) and 80,000 KRW ($60 USD) for a standard 50ml custom perfume workshop in Seoul. The most popular neighborhoods for these classes are Bukchon Hanok Village, Seongsu-dong, and Hongdae, with most requiring reservations at least 3-5 days in advance via Naver, CatchTable, or Instagram DM.**
+**The short answer: Expect to pay between ₩50,000 ($38 USD) and ₩80,000 ($60 USD) for a standard 50ml custom perfume workshop in Seoul. The most popular neighborhoods for these classes are Bukchon Hanok Village, Seongsu-dong, and Hongdae, with most requiring reservations at least 3-5 days in advance via Naver, CatchTable, or Instagram DM.**
 
 <KeyTakeaways 
   points={[
@@ -30,13 +40,13 @@ Unlike the intimidating, high-stakes environment of European perfumery schools, 
   title="Korean Fragrance Market 2026"
   variant="gradient"
   stats={[
-    { value: "650B", label: "Market Size (KRW)", icon: "💰" },
+    { value: "650B", label: "Market Size (₩)", icon: "💰" },
     { value: "300+", label: "Active Workshops", icon: "beaker" }
   ]}
   source="K-Beauty Industry Report 2026"
 />
 
-The experience connects deeply with the Korean concept of *So-hwak-haeng* (small but certain happiness). Spending 50,000 KRW to create something that is entirely "yours" provides a high satisfaction-to-cost ratio. Furthermore, the studios themselves are often architectural gems, tucked away in renovated Hanoks (traditional houses) or industrial-chic warehouses, making the visit a sightseeing tour in itself.
+The experience connects deeply with the Korean concept of *So-hwak-haeng* (small but certain happiness). Spending ₩50,000 to create something that is entirely "yours" provides a high satisfaction-to-cost ratio. Furthermore, the studios themselves are often architectural gems, tucked away in renovated Hanoks (traditional houses) or industrial-chic warehouses, making the visit a sightseeing tour in itself.
 
 ## How to Choose the Right Workshop
 
@@ -84,7 +94,7 @@ Located north of the Han River, this area offers the most atmospheric classes. I
   tip="Arrive 15 minutes early to take photos in the courtyard garden."
 />
 
-Aromind remains a heavy hitter in 2026. Their 50ml Eau de Parfum course costs roughly 60,000 KRW. The class structure is impeccable, utilizing a blind smelling test to ensure you pick scents based on instinct rather than brand bias. It is located just a short walk from the palaces, making it easy to combine with other sightseeing.
+Aromind remains a heavy hitter in 2026. Their 50ml Eau de Parfum course costs roughly ₩60,000. The class structure is impeccable, utilizing a blind smelling test to ensure you pick scents based on instinct rather than brand bias. It is located just a short walk from the palaces, making it easy to combine with other sightseeing.
 
 If you are interested in exploring more about the quiet, cultural side of this area, you might enjoy visiting independent bookstores nearby.
 [Check out our guide to exploring Korea independent bookstores](/blog/exploring-korea-independent-bookstores-dongne-chaekbang-2026) for a perfect quiet afternoon itinerary.
@@ -114,7 +124,7 @@ For a full day plan in this district, read our guide on [24 hours in Seongsu-don
 If you are on a budget or looking for a casual date spot, Hongdae is the place. The prices here are generally 10-15% lower than in Gangnam or Bukchon.
 
 **121 Le M (Hongdae Branch)**
-Located about 400 meters from Hongik Univ. Station Exit 3, 121 Le M offers a very straightforward customization service. While less "educational" than Aromind, it allows for quick customization of bottle caps and leather labels. The price for 50ml hovers around 45,000 - 55,000 KRW.
+Located about 400 meters from Hongik Univ. Station Exit 3, 121 Le M offers a very straightforward customization service. While less "educational" than Aromind, it allows for quick customization of bottle caps and leather labels. The price for 50ml hovers around 45,000 - ₩55,000.
 
 ## The Step-by-Step Experience: What to Expect
 
@@ -154,9 +164,9 @@ Is it worth paying double for a premium class? Let's break down the economics of
 />
 
 ### Hidden Costs
-*   **Upgrade to Eau de Parfum (EDP):** Base prices often cover "Eau de Toilette" (5-10% oil). Upgrading to EDP (15-20% oil) usually costs an extra 10,000 KRW.
-*   **Fancy Caps:** Some studios charge 3,000 KRW extra for marble or wooden caps.
-*   **Gifting Box:** Basic packaging is free, but rigid gift boxes may cost 5,000 KRW.
+*   **Upgrade to Eau de Parfum (EDP):** Base prices often cover "Eau de Toilette" (5-10% oil). Upgrading to EDP (15-20% oil) usually costs an extra ₩10,000.
+*   **Fancy Caps:** Some studios charge ₩3,000 extra for marble or wooden caps.
+*   **Gifting Box:** Basic packaging is free, but rigid gift boxes may cost ₩5,000.
 
 <InfoBox type="warning" title="Duty Free Warning">
   If you make more than 60ml of perfume, technically it falls under liquid restrictions for carry-on bags. Always put your custom perfume in checked luggage to avoid confiscation at Incheon Airport.
@@ -223,7 +233,7 @@ After smelling 10 scents, your nose will go "blind." This is called olfactory fa
 ## Extending the Experience: Diffusers and Sachets
 
 If you don't wear perfume, most studios offer alternatives.
-*   **Reed Diffusers:** 100ml - 150ml. Usually cheaper (30,000 - 40,000 KRW). Great for home offices.
+*   **Reed Diffusers:** 100ml - 150ml. Usually cheaper (30,000 - ₩40,000). Great for home offices.
 *   **Fabric Mists:** Lower alcohol concentration, meant for spraying on bedding or curtains.
 *   **Sachet Bags:** Traditional pouches filled with scented volcanic stone or wood chips. These make excellent, lightweight gifts for friends back home.
 

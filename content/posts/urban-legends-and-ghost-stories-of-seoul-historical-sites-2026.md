@@ -4,6 +4,16 @@ date: 2026-02-02
 excerpt: "Explore the chilling history of Seoul through haunted palaces and dark tourism spots. Discover ghost stories and practical visiting tips for 2026."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "K-Pop"
+  - "K-Drama"
+  - "Korean Culture"
+  - "Seoul"
+  - "Hallyu"
+  - "Autumn"
+  - "Banking"
+readTime: "14 min read"
+featured: false
 ---
 
 Seoul is a metropolis defined by its striking duality. While the neon skyline of Gangnam represents the future, the ancient alleyways and palaces north of the Han River harbor centuries of secrets. For international travelers in 2026, exploring the urban legends and ghost stories of Seoul historical sites offers a compelling alternative to standard sightseeing. It provides a window into the Korean psyche, where shamanism, Confucian tragedy, and modern history collide.
@@ -15,7 +25,7 @@ You might also enjoy our article about [BTS tour in Seoul 2026 ultimate ARMY gui
 <KeyTakeaways 
   points={[
     "Gyeongbokgung Palace night tours (April-October 2026) offer the most atmospheric ghost-hunting experience.",
-    "Seodaemun Prison requires a respectful demeanor; it is a memorial site with an entry fee of 4,000 KRW.",
+    "Seodaemun Prison requires a respectful demeanor; it is a memorial site with an entry fee of ₩4,000.",
     "Shamanistic rituals are still performed on Inwangsan Mountain, a 338-meter peak accessible via a 1.5-hour hike."
   ]}
   readTime={15}
@@ -41,7 +51,7 @@ To experience the eerie beauty of Gyeongbokgung, the "Starlight Tour" is highly 
 <QuickFacts
   title="Gyeongbokgung Night Tour Facts"
   facts={[
-    { label: "Entry Fee", value: "3,000 KRW", icon: "💰" },
+    { label: "Entry Fee", value: "₩3,000", icon: "💰" },
     { label: "Night Hours", value: "19:00 - 21:30", icon: "🌙" },
     { label: "Last Entry", value: "20:30", icon: "⏱️" }
   ]}
@@ -74,7 +84,7 @@ Feng Shui masters have long argued that the location of the Blue House is geogra
   variant="gradient"
   stats={[
     { value: "5.2M", label: "Annual Visitors", icon: "👥" },
-    { value: "0", label: "Entry Cost (KRW)", icon: "🎟️" }
+    { value: "0", label: "Entry Cost (₩)", icon: "🎟️" }
   ]}
   source="Cultural Heritage Administration 2026"
 />
@@ -108,7 +118,7 @@ The exhibits at Seodaemun Prison are graphic and emotionally heavy. The basement
   totalTime="90 minutes"
   difficulty="medium"
   steps={[
-    { title: "Start at the Exhibition Hall", description: "Learn the history of the independence movement. The timeline covers 1908 to 1987.", tip: "Rent the English audio guide for 3,000 KRW." },
+    { title: "Start at the Exhibition Hall", description: "Learn the history of the independence movement. The timeline covers 1908 to 1987.", tip: "Rent the English audio guide for ₩3,000." },
     { title: "Walk the Cell Blocks", description: "Enter the red brick buildings. Cells are preserved in their original state. The temperature is naturally 2-3 degrees cooler inside.", tip: "Look for the knocking communication codes on the walls." },
     { title: "The Execution Ground", description: "Located at the back of the complex. Observe the 'Wailing Poplar Tree' which legend says refused to grow due to the grudges of the executed.", tip: "Silence is strictly observed here." }
   ]}
@@ -125,7 +135,7 @@ The exhibits at Seodaemun Prison are graphic and emotionally heavy. The basement
   rating={4.6}
   transit="Dongnimmun Station (Line 3), Exit 5"
   highlights={["Cell Block 11", "Execution Building", "Torture Chamber Basement"]}
-  tip="Tickets are 4,000 KRW for adults. Visit on weekday mornings to avoid school groups."
+  tip="Tickets are ₩4,000 for adults. Visit on weekday mornings to avoid school groups."
 />
 
 ## Inwangsan Mountain: The Shaman's Stronghold
@@ -179,7 +189,7 @@ Changdeokgung Palace is a UNESCO World Heritage site, beloved for its Biwon (Sec
 ### The Well of the Concubines
 Deep within the garden lies areas where court ladies were said to have been drowned or executed for treason. The most persistent story involves the spirits of ladies-in-waiting who were silenced to protect royal secrets. Tour guides will not explicitly tell ghost stories during the standard tour, but those with a keen eye can spot the talisman papers sometimes tucked into the eaves of older, restoration-pending structures on the periphery of the grounds.
 
-Visiting the Secret Garden requires a separate ticket (5,000 KRW) in addition to the general palace admission (3,000 KRW). The tour takes 90 minutes and involves walking approximately 2.5 kilometers over uneven terrain.
+Visiting the Secret Garden requires a separate ticket (₩5,000) in addition to the general palace admission (₩3,000). The tour takes 90 minutes and involves walking approximately 2.5 kilometers over uneven terrain.
 
 <ComparisonTable
   title="Palace Ghost Vibes Comparison"

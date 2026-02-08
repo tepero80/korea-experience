@@ -36,7 +36,7 @@ Korea's affinity for technology, high internet penetration, and a strong gaming 
 
 ## Top Cryptocurrency Exchanges in Korea
 
-For anyone looking to engage with the Korean crypto market, choosing the right exchange is paramount. The "Big Four" exchanges are the only ones currently licensed to offer fiat-to-crypto services, meaning they are the only platforms where you can directly deposit and withdraw Korean Won (KRW). All require a real-name verified bank account from a specific Korean bank to comply with anti-money laundering regulations.
+For anyone looking to engage with the Korean crypto market, choosing the right exchange is paramount. The "Big Four" exchanges are the only ones currently licensed to offer fiat-to-crypto services, meaning they are the only platforms where you can directly deposit and withdraw Korean Won (₩). All require a real-name verified bank account from a specific Korean bank to comply with anti-money laundering regulations.
 
 ### Upbit
 
@@ -87,7 +87,7 @@ For anyone looking to engage with the Korean crypto market, choosing the right e
 | **User Base**     | Largest in Korea                            | Second largest                            | Significant                               | Growing, established                      |
 | **Mobile App**    | Yes                                         | Yes                                       | Yes                                     | Yes                                       |
 
-**Practical Tip:** The single most critical requirement for accessing any of these exchanges for fiat transactions is a real-name verified bank account with their designated partner bank, under your name, and matching your Alien Registration Card. Without this, you cannot deposit or withdraw KRW.
+**Practical Tip:** The single most critical requirement for accessing any of these exchanges for fiat transactions is a real-name verified bank account with their designated partner bank, under your name, and matching your Alien Registration Card. Without this, you cannot deposit or withdraw won.
 
 ## Navigating Regulatory Frameworks for Crypto in Korea
 
@@ -98,7 +98,7 @@ Korea's regulatory stance on cryptocurrency has evolved significantly, moving to
 The cornerstone of Korea's cryptocurrency regulation is the **Act on Reporting and Using Specified Financial Transaction Information (SFTIA)**, which came into effect in March 2021. This act brought virtual asset service providers (VASPs), including cryptocurrency exchanges, under the purview of financial regulations.
 **Key Provisions:**
 *   **Registration Requirements:** All VASPs operating in Korea must register with the Financial Intelligence Unit (FIU) under the Financial Services Commission (FSC). This requires them to meet strict requirements related to information security management systems (ISMS) and anti-money laundering (AML) protocols.
-*   **Real-Name Bank Accounts:** The SFTIA mandates the use of real-name verified bank accounts for all fiat (KRW) deposits and withdrawals on exchanges. This links a user's crypto activity directly to their traditional banking identity, making it harder for illicit funds to move through the system.
+*   **Real-Name Bank Accounts:** The SFTIA mandates the use of real-name verified bank accounts for all fiat (₩) deposits and withdrawals on exchanges. This links a user's crypto activity directly to their traditional banking identity, making it harder for illicit funds to move through the system.
 *   **AML/CFT Obligations:** VASPs are required to implement robust Anti-Money Laundering (AML) and Counter-Terrorism Financing (CFT) measures, including enhanced customer due diligence (CDD) and suspicious transaction reporting (STR).
 
 ### Financial Services Commission (FSC) and Financial Intelligence Unit (FIU) Role
@@ -107,11 +107,11 @@ The **Financial Services Commission (FSC)** is the top financial regulator in Ko
 
 ### Anti-Money Laundering (AML) and Counter-Terrorism Financing (CFT) Measures
 
-Korea is a member of the Financial Action Task Force (FATF), an intergovernmental organization that sets international standards to combat money laundering and terrorist financing. The SFTIA was largely enacted to bring Korea's crypto regulations in line with FATF recommendations. This includes the controversial "Travel Rule," which requires VASPs to share customer information for transactions above a certain threshold (typically 1 million KRW, or approximately 750 USD) when transferring assets between exchanges. This rule aims to prevent anonymous transfers and enhance traceability.
+Korea is a member of the Financial Action Task Force (FATF), an intergovernmental organization that sets international standards to combat money laundering and terrorist financing. The SFTIA was largely enacted to bring Korea's crypto regulations in line with FATF recommendations. This includes the controversial "Travel Rule," which requires VASPs to share customer information for transactions above a certain threshold (typically ₩1 million, or approximately 750 USD) when transferring assets between exchanges. This rule aims to prevent anonymous transfers and enhance traceability.
 
 ### Foreigner Eligibility for Korean Exchanges
 
-While the SFTIA has clarified the regulatory landscape, it has also introduced hurdles for foreigners. To open an account on a compliant Korean exchange and utilize KRW on/off ramps, foreign residents generally need:
+While the SFTIA has clarified the regulatory landscape, it has also introduced hurdles for foreigners. To open an account on a compliant Korean exchange and utilize won on/off ramps, foreign residents generally need:
 1.  **Alien Registration Card (ARC):** A valid, long-term residency card.
 2.  **Korean Bank Account:** A real-name verified account with one of the partner banks of the specific exchange (Kbank for Upbit/Coinone, NH Nonghyup for Bithumb, Shinhan Bank for Korbit). This account must be under the same name as your ARC.
 3.  **Korean Mobile Phone Number:** Essential for two-factor authentication (2FA) and identity verification.
@@ -138,14 +138,14 @@ Understanding the tax implications of cryptocurrency is essential for any expat 
 ### Income Tax on Crypto Gains
 
 As of January 1, 2025 (postponed from 2023), income derived from virtual assets will be subject to a capital gains tax in Korea. This means that profits realized from the buying, selling, or exchanging of cryptocurrencies will be considered taxable income.
-*   **Taxable Event:** The moment you sell or exchange your crypto for fiat currency (KRW) or other cryptocurrencies, realizing a gain.
+*   **Taxable Event:** The moment you sell or exchange your crypto for fiat currency (₩) or other cryptocurrencies, realizing a gain.
 *   **Scope:** This applies to income earned from virtual assets, including capital gains from trading, staking rewards, mining income, and airdrops, under specific conditions.
 
 ### Capital Gains Tax
 
-The capital gains tax rate for virtual assets is set at **20%**, plus an additional 2% local income tax, totaling **22%**. There is an annual basic deduction of **2.5 million KRW** (approximately 1,800-2,000 USD, depending on exchange rates) on these gains. This means only gains exceeding 2.5 million KRW within a calendar year will be subject to the 22% tax.
+The capital gains tax rate for virtual assets is set at **20%**, plus an additional 2% local income tax, totaling **22%**. There is an annual basic deduction of **₩2.5 million** (approximately 1,800-2,000 USD, depending on exchange rates) on these gains. This means only gains exceeding ₩2.5 million within a calendar year will be subject to the 22% tax.
 
-**Example:** If you make a profit of 5 million KRW from crypto trading in a year, 2.5 million KRW will be tax-free. The remaining 2.5 million KRW will be taxed at 22%, resulting in a tax liability of 550,000 KRW.
+**Example:** If you make a profit of ₩5 million from crypto trading in a year, ₩2.5 million will be tax-free. The remaining ₩2.5 million will be taxed at 22%, resulting in a tax liability of ₩550,000.
 
 ### Other Potential Taxes
 
@@ -165,9 +165,9 @@ Foreign residents earning income in Korea, including crypto gains, are generally
 
 | Category                     | Taxable Event                                         | Tax Rate (Total) | Annual Basic Deduction | Key Point for Expats                                              |
 | :--------------------------- | :---------------------------------------------------- | :--------------- | :--------------------- | :---------------------------------------------------------------- |
-| **Capital Gains**            | Selling or exchanging virtual assets for profit       | 22% (20% Income + 2% Local) | 2.5 million KRW        | Applies to net gains exceeding deduction; meticulous records vital. |
-| **Mining/Staking Income**    | Earning new coins/tokens through mining or staking    | 22%              | 2.5 million KRW        | Considered income when realized; specific rules may apply.          |
-| **Airdrops/Forks**           | Receiving free assets from airdrops or hard forks     | 22%              | 2.5 million KRW        | Value at time of receipt may be taxable upon sale.                 |
+| **Capital Gains**            | Selling or exchanging virtual assets for profit       | 22% (20% Income + 2% Local) | ₩2.5 million        | Applies to net gains exceeding deduction; meticulous records vital. |
+| **Mining/Staking Income**    | Earning new coins/tokens through mining or staking    | 22%              | ₩2.5 million        | Considered income when realized; specific rules may apply.          |
+| **Airdrops/Forks**           | Receiving free assets from airdrops or hard forks     | 22%              | ₩2.5 million        | Value at time of receipt may be taxable upon sale.                 |
 | **Gift Tax**                 | Receiving virtual assets as a gift                    | Progressive (10-50%) | Varies based on relationship and amount | Consult a tax professional for exact thresholds and rates.          |
 | **Inheritance Tax**          | Inheriting virtual assets                             | Progressive (10-50%) | Varies based on relationship and amount | Part of total inheritance; valuation at death.                      |
 
@@ -177,7 +177,7 @@ Navigating the Korean cryptocurrency market as a foreigner requires more than ju
 
 ### Setting Up a Real-Name Bank Account
 
-This is the most critical prerequisite. Without a real-name verified Korean bank account from a specific partner bank, you cannot deposit or withdraw KRW from major exchanges.
+This is the most critical prerequisite. Without a real-name verified Korean bank account from a specific partner bank, you cannot deposit or withdraw won from major exchanges.
 *   **Required Documents:** To open a bank account in Korea as a foreigner, you will typically need:
     *   **Alien Registration Card (ARC):** Essential for long-term residents.
     *   **Passport:** For identification.
@@ -251,13 +251,13 @@ Here are some frequently asked questions about cryptocurrency in Korea for inter
 Yes, cryptocurrency trading and ownership are legal in Korea. The Act on Reporting and Using Specified Financial Transaction Information (SFTIA) legally recognized virtual assets and established a regulatory framework for virtual asset service providers (VASPs), including exchanges, to operate within the country.
 
 ### Can I use a foreign bank account to trade crypto in Korea?
-No. To deposit or withdraw Korean Won (KRW) on regulated Korean cryptocurrency exchanges, you must use a real-name verified bank account with a specific Korean bank that partners with the exchange. Foreign bank accounts are not accepted for fiat on/off ramps.
+No. To deposit or withdraw Korean Won (₩) on regulated Korean cryptocurrency exchanges, you must use a real-name verified bank account with a specific Korean bank that partners with the exchange. Foreign bank accounts are not accepted for fiat on/off ramps.
 
 ### What documents do I need to open a crypto account as a foreigner?
 As a foreign resident, you will typically need a valid Alien Registration Card (ARC), a Korean mobile phone number, and a real-name verified Korean bank account from the exchange's partner bank (e.g., Kbank for Upbit, NH Nonghyup for Bithumb). Short-term visitors without an ARC usually cannot open such accounts.
 
 ### How are crypto gains taxed for foreigners in Korea?
-As of January 1, 2025, capital gains from virtual asset trading are subject to a 22% tax (20% income tax + 2% local income tax). There is an annual basic deduction of 2.5 million KRW. You must report these gains annually as part of your comprehensive income tax return if you are a tax resident in Korea. It's advisable to consult a tax professional.
+As of January 1, 2025, capital gains from virtual asset trading are subject to a 22% tax (20% income tax + 2% local income tax). There is an annual basic deduction of ₩2.5 million. You must report these gains annually as part of your comprehensive income tax return if you are a tax resident in Korea. It's advisable to consult a tax professional.
 
 ### Is it safe to trade on Korean crypto exchanges?
 The major Korean exchanges (Upbit, Bithumb, Coinone, Korbit) are regulated and required to adhere to strict security and anti-money laundering (AML) standards set by the Financial Intelligence Unit (FIU). They also maintain Information Security Management System (ISMS) certifications. While no system is 100% immune to risks, these exchanges are considered reputable and secure, provided users also follow personal security best practices.

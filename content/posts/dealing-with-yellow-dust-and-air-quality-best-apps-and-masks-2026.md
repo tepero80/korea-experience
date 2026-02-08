@@ -4,6 +4,16 @@ date: 2026-01-06
 excerpt: "The ultimate guide to surviving Korea's yellow dust season in 2026. Top apps, KF94 mask recommendations, and health tips for expats."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Budget Travel"
+  - "Cherry Blossom"
+readTime: "10 min read"
+featured: false
 ---
 
 Spring in South Korea is a visually stunning season, characterized by cherry blossoms and warmer temperatures. However, for residents and travelers in 2026, it also signals the arrival of "Hwangsa" (Yellow Dust) and "Mise-monji" (Fine Dust). Navigating the air quality in Seoul and beyond is no longer just a suggestion; it is a daily necessity for maintaining long-term health. As we move into 2026, technology and filtration standards have evolved, making it easier to manage, provided you have the right tools and knowledge.
@@ -57,7 +67,7 @@ In 2026, relying on general weather apps is insufficient because they often aver
 
 *   **Accuracy:** Pulls data from **400+ monitoring stations** across the peninsula.
 *   **User Experience:** English support is fully integrated as of the 2025 update.
-*   **Cost:** Free (Ad-supported) or **3,500 KRW** (approx. $2.60) for the premium version.
+*   **Cost:** Free (Ad-supported) or **₩3,500** (approx. $2.60) for the premium version.
 
 ### 2. AirVisual (IQAir)
 For those who want a global context, AirVisual is excellent. It provides a forecast for up to **7 days**, allowing you to plan outdoor hikes or trips. However, its station density in rural Korea is lower than MiseMise.
@@ -98,7 +108,7 @@ When in Korea, do as the Koreans do: wear a KF mask. "KF" stands for "Korea Filt
 <ProsCons
   title="KF94 vs. Standard Surgical Masks"
   pros={["Filters 94% of ultrafine particles", "3D structure prevents lip contact", "Tighter seal around nose and chin"]}
-  cons={["More expensive (approx 500 KRW each)", "Can feel stuffy during humid summers"]}
+  cons={["More expensive (approx ₩500 each)", "Can feel stuffy during humid summers"]}
   variant="cards"
 />
 
@@ -133,7 +143,7 @@ Beyond masks and apps, dealing with air quality requires adjustments to your hom
 
 ### Air Purifiers: A Household Essential
 If you are staying in Korea for more than **3 months**, an air purifier is non-negotiable. The market is dominated by LG, Samsung, Coway, and Winix.
-*   **Rental vs. Buying:** Korea has a unique "rental service" culture. For about **30,000 to 50,000 KRW** per month, companies like Coway will rent you a high-end machine and visit your home every **2 to 3 months** to change the filters and clean the unit. This is often preferred over buying a **600,000 KRW** unit and managing filters yourself.
+*   **Rental vs. Buying:** Korea has a unique "rental service" culture. For about **30,000 to ₩50,000** per month, companies like Coway will rent you a high-end machine and visit your home every **2 to 3 months** to change the filters and clean the unit. This is often preferred over buying a **₩600,000** unit and managing filters yourself.
 
 ### Ventilation Strategy
 A common misconception is that windows should remain sealed shut 24/7 during spring. This leads to a buildup of CO2 and indoor pollutants (cooking fumes).
@@ -154,8 +164,8 @@ If you experience persistent coughing, sore throat, or eye irritation, do not ig
 
 ### When to See a Doctor
 Visit an ENT (Ear, Nose, and Throat) clinic if symptoms persist for more than **3 days**. In Korean, this is called "I-bi-in-hu-gwa".
-*   **Consultation Cost:** With National Health Insurance (NHI), a visit costs approximately **4,000 to 6,000 KRW** ($3-$4.50).
-*   **Without Insurance:** Expect to pay **25,000 to 40,000 KRW** ($19-$30).
+*   **Consultation Cost:** With National Health Insurance (NHI), a visit costs approximately **4,000 to ₩6,000** ($3-$4.50).
+*   **Without Insurance:** Expect to pay **25,000 to ₩40,000** ($19-$30).
 *   **Wait Times:** Walk-ins are standard. Wait times are usually under **30 minutes**.
 
 <LocationCard

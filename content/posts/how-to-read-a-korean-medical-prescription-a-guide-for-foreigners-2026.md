@@ -4,6 +4,16 @@ date: 2026-01-11
 excerpt: "Decode your Korean medicine packets with our comprehensive 2026 guide. Learn to read dosage instructions, identify pills, and understand pharmacy costs."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Medical Tourism"
+  - "Seoul"
+  - "Plastic Surgery"
+  - "K-Beauty"
+  - "Healthcare"
+  - "Budget Travel"
+  - "Busan"
+readTime: "13 min read"
+featured: false
 ---
 
 Navigating the healthcare system in a foreign country can be daunting, but in South Korea, the challenge often continues even after you leave the doctor's office. You are handed a paper prescription, you walk into a pharmacy, and instead of a familiar amber bottle with a clear English label, you are given a paper envelope or a long strip of plastic packets containing a colorful assortment of pills. For many international travelers and expats, this is the moment of confusion. Understanding exactly what you are taking and how to take it is crucial for your health and recovery.
@@ -221,6 +231,6 @@ By understanding the "30 minutes after meal" rule, recognizing the packet system
     { question: "What if I lose my medicine packet?", answer: "You cannot simply get a refill from the pharmacy. You must return to the clinic, pay for another consultation, and get a new prescription issued. Explain that you lost the medication." },
     { question: "Is it safe to take all the pills in the packet at once?", answer: "Yes, that is the design. The pharmacist has already checked for drug interactions. However, drink plenty of water, as swallowing 4-5 pills at once can be difficult." },
     { question: "Why are there so many pills for a simple cold?", answer: "Korean prescribing culture is often aggressive with symptom management. A cold packet might include a cough suppressant, expectorant, antihistamine, anti-inflammatory, and a digestive aid. It is comprehensive relief." },
-    { question: "Do Korean pharmacies accept foreign credit cards?", answer: "Yes, almost all pharmacies in 2026 accept Visa, Mastercard, and mobile payments like Apple Pay. However, for very small purchases (under 3,000 KRW), cash is sometimes appreciated but not required." }
+    { question: "Do Korean pharmacies accept foreign credit cards?", answer: "Yes, almost all pharmacies in 2026 accept Visa, Mastercard, and mobile payments like Apple Pay. However, for very small purchases (under ₩3,000), cash is sometimes appreciated but not required." }
   ]}
 />

@@ -4,6 +4,16 @@ date: 2026-01-03
 excerpt: "Discover the hidden gems of Korean skincare and makeup for 2026. From Seongsu pop-ups to clinical formulas, here are the rising stars priced from ₩18,000."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "K-Beauty"
+  - "Shopping"
+  - "Seoul"
+  - "Skincare"
+  - "Korean Fashion"
+  - "Budget Travel"
+  - "Duty Free"
+readTime: "13 min read"
+featured: false
 ---
 
 If you have walked into an Olive Young in Myeongdong recently, you likely saw shelves dominated by the global giants: COSRX, Innisfree, and Laneige. While these brands are staples for a reason, the true magic of Korean beauty lies in its rapid innovation cycle. In 2026, a new wave of "indie" brands—previously known only to locals and hardcore beauty enthusiasts in Seoul—is beginning to surface. These brands are prioritizing minimalist aesthetics, vegan formulations, and high-efficacy clinical ingredients like PDRN and Exosomes over flashy marketing.

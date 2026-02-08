@@ -4,6 +4,16 @@ date: 2026-01-18
 excerpt: "Master the art of sending packages from Korea. A complete guide to EMS, box sizes, customs apps, and shipping costs for expats and travelers."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Budget Travel"
+readTime: "13 min read"
+featured: false
 ---
 
 Navigating the *Woocheguk* (Korea Post) is a quintessential experience for anyone living in or visiting South Korea. Whether you are an expat moving home, a student sending winter clothes back, or a traveler whose suitcase is overflowing with skincare products and K-pop merchandise, the Korean postal system is widely regarded as one of the most efficient, affordable, and user-friendly services in the world.
@@ -44,7 +54,7 @@ EMS is the gold standard for international shipping from Korea. It is prioritize
 
 Learn more in our comprehensive guide to [Moving Companies in Korea](/blog/moving-companies-in-korea-international-vs-local).
 *   **Speed:** Very fast. Most packages to North America or Europe arrive within 4 to 6 business days.
-*   **Cost:** Premium. Sending a 5kg box to the United States costs approximately 115,000 KRW ($85 USD).
+*   **Cost:** Premium. Sending a 5kg box to the United States costs approximately ₩115,000 ($85 USD).
 *   **Reliability:** Highest. Includes tracking and basic insurance.
 
 ### International Parcel (Air)
@@ -57,7 +67,7 @@ Learn more in our comprehensive guide to [Seoul International Schools Complete G
 ### Surface Mail (Ship)
 This is the budget option for sending heavy items where time is not a factor, such as moving boxes or winter coats in summer.
 *   **Speed:** Slow. It goes by cargo container ship. To North America, it takes 2 to 3 months. To Europe, it can take up to 4 months.
-*   **Cost:** Very Cheap. A 10kg box to the USA might cost only 45,000 KRW ($33 USD), compared to over 200,000 KRW for EMS.
+*   **Cost:** Very Cheap. A 10kg box to the USA might cost only ₩45,000 ($33 USD), compared to over ₩200,000 for EMS.
 
 <InfoBox type="warning" title="Surface Mail Warning">
 Surface mail boxes are handled roughly during their months at sea. Use double-walled boxes and excessive tape. Do not ship electronics or fragile items via Surface mail as they are prone to damage from humidity and impact.
@@ -72,10 +82,10 @@ You must purchase a standard Korea Post box. These are sturdy, standardized card
 <QuickFacts
   title="Standard Box Specs"
   facts={[
-    { label: "Box #1 (Tiny)", value: "700 KRW", icon: "📦" },
-    { label: "Box #3 (Medium)", value: "1,200 KRW", icon: "📦" },
-    { label: "Box #5 (Large)", value: "2,300 KRW", icon: "📦" },
-    { label: "Box #6 (X-Large)", value: "2,900 KRW", icon: "📦" }
+    { label: "Box #1 (Tiny)", value: "₩700", icon: "📦" },
+    { label: "Box #3 (Medium)", value: "₩1,200", icon: "📦" },
+    { label: "Box #5 (Large)", value: "₩2,300", icon: "📦" },
+    { label: "Box #6 (X-Large)", value: "₩2,900", icon: "📦" }
   ]}
   columns={4}
 />
@@ -158,8 +168,8 @@ Here is a comparative look at pricing for a typical 10kg (22 lbs) package sent t
 />
 
 For lighter items, the "Small Packet" options (under 2kg) are available:
-*   **K-Packet (Air):** ~30,000 KRW for 1.5kg.
-*   **Registered Small Packet:** ~22,000 KRW for 1.5kg.
+*   **K-Packet (Air):** ~₩30,000 for 1.5kg.
+*   **Registered Small Packet:** ~₩22,000 for 1.5kg.
 
 <StatCard
   title="Inflation Note"
@@ -229,7 +239,7 @@ To ensure your package doesn't get stuck in the dreaded "Incheon Customs Hold," 
 
 *   **Be Descriptive:** Never write just "Gifts" or "Personal Effects" on the customs form. Customs agents hate this. Write "Used Clothes," "Korean Snacks," or "Books."
 *   **The 'Used' Trick:** If you are sending your own clothes home, explicitly write "Used Personal Clothes" and set the value lower (e.g., $1-5 per item) to avoid being taxed on them as if they were new imports.
-*   **Insurance:** EMS comes with automatic insurance up to a certain value (usually around 70,000 KRW). If your items are valuable, ask for additional insurance (*Bo-heom*). It is very cheap (roughly 3,000 KRW for 500,000 KRW coverage).
+*   **Insurance:** EMS comes with automatic insurance up to a certain value (usually around ₩70,000). If your items are valuable, ask for additional insurance (*Bo-heom*). It is very cheap (roughly ₩3,000 for ₩500,000 coverage).
 
 <InfoBox type="tip" title="Hangeul Helper">
 If you need help, show this to the staff:
@@ -247,8 +257,8 @@ Remember to pack securely, declare honestly, and double-check your battery situa
   title="Frequently Asked Questions"
   items={[
     { question: "Can I send Kimchi or food abroad?", answer: "Yes, but it is restricted. You must use a specialized fermentation-proof can or container sold at larger post offices. Some countries (like Australia) may still reject it at their border. Dry snacks (Ramyun, seaweed) are generally fine." },
-    { question: "Does the post office provide boxes?", answer: "Yes, they sell 6 different standard sizes ranging from 700 KRW to 2,900 KRW. They also provide tape, scissors, and bubble wrap for free at the packing station." },
-    { question: "Can I use my foreign credit card to pay?", answer: "Yes, almost all Korean post offices accept international Visa and Mastercards. However, it is always wise to carry some cash (KRW) just in case of system errors." },
+    { question: "Does the post office provide boxes?", answer: "Yes, they sell 6 different standard sizes ranging from ₩700 to ₩2,900. They also provide tape, scissors, and bubble wrap for free at the packing station." },
+    { question: "Can I use my foreign credit card to pay?", answer: "Yes, almost all Korean post offices accept international Visa and Mastercards. However, it is always wise to carry some cash (₩) just in case of system errors." },
     { question: "What happens if my package is returned?", answer: "If your package contains a prohibited item (like a battery) or the address is wrong, it will be returned to the sender address you listed. You will likely have to pay the shipping fee again to resend it, but you won't be refunded the original fee." },
     { question: "Is there a weight limit?", answer: "Yes. For most countries, the maximum weight per box is 30kg (66 lbs). If you have 50kg of stuff, you must split it into two boxes." },
     { question: "How do I track my package?", answer: "Your receipt will have a tracking number starting with 'EM' (for EMS) or 'CP' (for Surface). You can track this on the Korea Post website or, once it leaves Korea, on your home country's postal website (e.g., USPS.com)." }

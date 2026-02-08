@@ -4,6 +4,16 @@ date: 2026-01-25
 excerpt: "Discover the 2026 guide to modern Korean fine dining. From 3-star masters to rising chefs, explore the best culinary experiences in Seoul."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "10 min read"
+featured: false
 ---
 
 Seoul’s gastronomic landscape has undergone a seismic shift over the last decade, culminating in 2026 as one of the world’s most dynamic culinary capitals. The era of purely traditional *Hansik* has evolved into "New Korean" cuisine—a genre defined by chefs who respect heritage while boldly applying global techniques. With the release of the Michelin Guide Seoul 2026, we see a distinct passing of the torch and a solidification of Korean fine dining as a global powerhouse.

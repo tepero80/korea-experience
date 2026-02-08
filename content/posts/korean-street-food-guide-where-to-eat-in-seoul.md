@@ -125,7 +125,7 @@ A successful street food adventure in Seoul requires a bit of preparation and cu
 
 ### Payment Methods
 
-While many larger stores and restaurants in Seoul are cashless, street food vendors predominantly operate on cash. It is highly recommended to carry small denominations of Korean Won (1,000, 5,000, 10,000 KRW notes) for convenience. Some popular vendors in tourist-heavy areas like Myeongdong might accept card payments or even mobile payment apps, but do not rely on it.
+While many larger stores and restaurants in Seoul are cashless, street food vendors predominantly operate on cash. It is highly recommended to carry small denominations of Korean Won (1,000, 5,000, ₩10,000 notes) for convenience. Some popular vendors in tourist-heavy areas like Myeongdong might accept card payments or even mobile payment apps, but do not rely on it.
 
 ### Hygiene and Safety
 
@@ -162,7 +162,7 @@ While the classics are a must, Seoul's street food scene is constantly evolving,
 
 Here is an approximate guide to the cost of popular street food items in Seoul. Prices can vary slightly depending on the vendor, location, and portion size.
 
-| Dish                  | Approximate Price Range (KRW) | Notes                                           |
+| Dish                  | Approximate Price Range (₩) | Notes                                           |
 | :-------------------- | :---------------------------- | :---------------------------------------------- |
 | Tteokbokki            | 3,000 - 5,000                 | Price per serving, often with fish cakes        |
 | Odeng / Eomuk         | 1,000 - 2,000                 | Price per skewer, includes broth                |
@@ -196,11 +196,11 @@ Yes, generally Korean street food is very safe to eat. Vendors prioritize freshn
 
 ### How much does Korean street food cost?
 
-Korean street food is generally very affordable. Most individual items range from 1,000 KRW to 8,000 KRW, making it a budget-friendly way to sample a wide variety of dishes. A satisfying meal could cost you anywhere from 5,000 KRW to 15,000 KRW, depending on how many items you try.
+Korean street food is generally very affordable. Most individual items range from ₩1,000 to ₩8,000, making it a budget-friendly way to sample a wide variety of dishes. A satisfying meal could cost you anywhere from ₩5,000 to ₩15,000, depending on how many items you try.
 
 ### Do street food vendors accept credit cards?
 
-While larger establishments and some modern street food trucks in tourist areas might accept cards, the vast majority of traditional street food vendors operate on cash. It is highly recommended to carry Korean Won in small denominations (1,000, 5,000, 10,000 KRW notes) for a hassle-free experience.
+While larger establishments and some modern street food trucks in tourist areas might accept cards, the vast majority of traditional street food vendors operate on cash. It is highly recommended to carry Korean Won in small denominations (1,000, 5,000, ₩10,000 notes) for a hassle-free experience.
 
 ### What are some vegetarian options available?
 

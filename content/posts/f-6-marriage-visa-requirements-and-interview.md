@@ -4,6 +4,16 @@ date: 2026-01-07
 excerpt: "Complete guide to South Korea F-6 marriage visa requirements including income limits, language tests, and interview tips for 2026 applicants."
 category: Living in Korea
 author: Korea Experience Team
+tags:
+  - "Expat Life"
+  - "Seoul"
+  - "Korean Culture"
+  - "Visa"
+  - "Living Abroad"
+  - "Banking"
+  - "Phone"
+readTime: "12 min read"
+featured: false
 ---
 
 Getting married is a milestone of love, but securing an F-6 Marriage Visa in South Korea is a milestone of paperwork. For international spouses wishing to reside in Korea, the F-6 visa is often considered the "golden ticket" because it offers significantly more freedom than work-sponsored visas. However, the application process is rigorous, data-intensive, and designed to strictly weed out sham marriages.
@@ -14,7 +24,7 @@ Learn more in our comprehensive guide to [Digital Nomad Visa Korea Requirements 
 
 <KeyTakeaways 
   points={[
-    "Income requirement base is approx. 22.1 million KRW for 2-person households",
+    "Income requirement base is approx. ₩22.1 million for 2-person households",
     "Application processing takes 3 to 10 weeks depending on the embassy",
     "Language proficiency (TOPIK 1) is mandatory unless exempt"
   ]}
@@ -81,7 +91,7 @@ The Korean spouse must provide an "Income Amount Certificate" (Sodeuk-geumaek-je
 3.  **Financial Assets:** Interest or dividends.
 4.  **Property:** If the income is insufficient, you can use assets. **5%** of the value of assets (savings, real estate) held for more than **6 months** can be converted into income.
 
-*Example:* If you are short by **5,000,000 KRW**, you can cover this gap by showing savings of **100,000,000 KRW** (5% of 100M = 5M).
+*Example:* If you are short by **₩5,000,000**, you can cover this gap by showing savings of **₩100,000,000** (5% of 100M = 5M).
 
 <ExpertTip 
   author="Min-ji Park"
@@ -126,7 +136,7 @@ Both spouses must submit certain health and background checks. This is a recipro
 
 *   **Criminal Record:** The foreign spouse must provide a nationwide criminal record check from their home country (e.g., FBI Channeler check for US citizens). This must be Apostilled.
 *   **Health Check:** Both spouses need a health examination from a designated hospital. This includes screening for STDs, mental health issues, and Tuberculosis.
-*   **Cost:** The health check in Korea typically costs between **80,000 KRW and 120,000 KRW**.
+*   **Cost:** The health check in Korea typically costs between **₩80,000 and ₩120,000**.
 
 <InfoBox type="danger" title="Tuberculosis Note">
 Applicants from high-risk TB countries (19-35 countries depending on current list) must submit a specific TB certificate issued by a hospital designated by the Korean embassy in their country.
@@ -149,12 +159,12 @@ The application generally takes place at the Korean Embassy in the foreign spous
 
 ### Applying from Overseas (Embassy)
 1.  **Download Forms:** Get the specific F-6 application packet from your local embassy website.
-2.  **Fee:** Usually **$40 - $60 USD** (approx. **55,000 - 85,000 KRW**) depending on currency exchange rates.
+2.  **Fee:** Usually **$40 - $60 USD** (approx. **55,000 - ₩85,000**) depending on currency exchange rates.
 3.  **Wait Time:** Currently averaging **4 to 8 weeks**.
 
 ### Changing Status in Korea
 1.  **Reservation:** Book a visit at HiKorea.go.kr. Slots fill up **2-4 weeks** in advance.
-2.  **Fee:** **100,000 KRW** (Revenue stamps) + **30,000 KRW** (ARC card fee).
+2.  **Fee:** **₩100,000** (Revenue stamps) + **₩30,000** (ARC card fee).
 3.  **Processing:** Usually processed within **3 to 6 weeks**.
 
 ## The Dreaded Interview
@@ -201,7 +211,7 @@ You should prepare a portfolio (often **20-30 pages**) containing:
 
 Once your visa is approved, you must enter Korea (if applying from abroad) within **90 days** of visa issuance.
 
-Upon arrival, or if you changed status in Korea, you must visit the Immigration Office to register your fingerprints and receive your Alien Registration Card (ARC). The card usually arrives via mail within **3 weeks** after this visit. The delivery fee is **4,000 KRW** payable in cash upon delivery.
+Upon arrival, or if you changed status in Korea, you must visit the Immigration Office to register your fingerprints and receive your Alien Registration Card (ARC). The card usually arrives via mail within **3 weeks** after this visit. The delivery fee is **₩4,000** payable in cash upon delivery.
 
 <LocationCard
   name="Seoul Immigration Office (Omokgyo)"
@@ -252,7 +262,7 @@ After **2 years** on an F-6 visa in Korea, you are eligible to apply for the F-5
     { question: "My Korean spouse is a student/unemployed. Can we apply?", answer: "Yes, but you still need to meet the income requirement. You can use the Korean spouse's parents' income/assets if you can prove you live with them or receive support, or use the 5% asset conversion rule." },
     { question: "What happens to my visa if we get divorced?", answer: "If the divorce is by mutual agreement and you do not have children, your F-6 will generally be cancelled, and you must leave Korea or switch visas. If you have children or the divorce was due to the Korean spouse's severe fault (domestic violence), you may be able to switch to F-6-2 or F-6-3." },
     { question: "Do I need a return flight ticket when entering Korea on F-6?", answer: "No. Since the F-6 is a long-term residency visa, a one-way ticket is acceptable." },
-    { question: "How much savings do I need if we have zero income?", answer: "For a 2-person household requiring roughly 22 million KRW income, you would need roughly 440 million KRW in assets (as 5% of 440M = 22M). This is why proving income is usually easier than proving assets." }
+    { question: "How much savings do I need if we have zero income?", answer: "For a 2-person household requiring roughly ₩22 million income, you would need roughly ₩440 million in assets (as 5% of 440M = 22M). This is why proving income is usually easier than proving assets." }
   ]}
 />
 

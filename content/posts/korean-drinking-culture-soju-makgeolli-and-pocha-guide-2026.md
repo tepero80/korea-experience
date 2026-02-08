@@ -4,13 +4,23 @@ date: 2026-01-15
 excerpt: "The ultimate 2026 guide to Korean drinking culture. Discover top Soju brands, best Makgeolli bars, and how to navigate Seoul Pocha streets like a local."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Coffee"
+readTime: "11 min read"
+featured: false
 ---
 
 South Korea’s nightlife is legendary, a neon-soaked tapestry woven with history, hierarchy, and hedonism. For international travelers landing in 2026, understanding the nuances of *Hoesik* (dining together) and the distinct characteristics of local spirits is as essential as learning "Hello." The Korean drinking culture is not merely about consumption; it is the social lubricant that powers business deals, strengthens friendships, and helps the nation unwind. Whether you are eyeing the green bottles of Soju in a convenience store or navigating the orange tarps of a street-side Pocha, this guide covers everything you need to know.
 
 <KeyTakeaways 
   points={[
-    "Soju prices in restaurants have stabilized around 6,000 KRW ($4.50 USD) in 2026.",
+    "Soju prices in restaurants have stabilized around ₩6,000 ($4.50 USD) in 2026.",
     "Jongno 3-ga remains the epicenter of authentic Pocha culture, peaking at 8:00 PM.",
     "Zero-sugar Soju now commands over 65% of the domestic market share."
   ]}
@@ -33,13 +43,13 @@ Learn more in our comprehensive guide to [Zero sugar Soju and healthy drinking t
   title="Soju Basics 2026"
   facts={[
     { label: "Standard ABV", value: "16.0-16.5%", icon: "🧪" },
-    { label: "Retail Price", value: "1,900 KRW", icon: "🏷️" },
+    { label: "Retail Price", value: "₩1,900", icon: "🏷️" },
     { label: "Serving Temp", value: "3-5°C", icon: "❄️" }
   ]}
   columns={3}
 />
 
-Standard green-bottle Soju (360ml) generally costs between 1,800 and 2,000 KRW ($1.35-$1.50 USD) at retail stores, while restaurants charge between 5,000 and 7,000 KRW. In contrast, premium distilled Soju, often aged in pottery, starts at 15,000 KRW and can reach upwards of 80,000 KRW per bottle depending on the heritage of the distillery.
+Standard green-bottle Soju (360ml) generally costs between 1,800 and ₩2,000 ($1.35-$1.50 USD) at retail stores, while restaurants charge between 5,000 and ₩7,000. In contrast, premium distilled Soju, often aged in pottery, starts at ₩15,000 and can reach upwards of ₩80,000 per bottle depending on the heritage of the distillery.
 
 Learn more in our comprehensive guide to [Daegu Makchang guide the ultimate grilled intestines expe...](/blog/daegu-makchang-grilled-intestines-culture).
 
@@ -79,7 +89,7 @@ Unlike Soju, Makgeolli is a living brew. "Draft" or fresh Makgeolli (Saeng Makge
   Do not pack fresh Makgeolli (Saeng) in your checked luggage for flights home. The active fermentation releases gas, and the bottles are prone to exploding under pressure. Look for "Sterilized Makgeolli" (Sal-gyun) for souvenirs, which has a shelf life of 1 year.
 </InfoBox>
 
-The average alcohol content sits between 6% and 9%, making it a lighter alternative to Soju. A standard 750ml plastic bottle costs roughly 2,500 KRW ($1.90 USD) in supermarkets, while craft breweries sell premium glass-bottled versions for 12,000 to 30,000 KRW.
+The average alcohol content sits between 6% and 9%, making it a lighter alternative to Soju. A standard 750ml plastic bottle costs roughly ₩2,500 ($1.90 USD) in supermarkets, while craft breweries sell premium glass-bottled versions for 12,000 to ₩30,000.
 
 <LocationCard
   name="Wolhyang"
@@ -152,7 +162,7 @@ The Korean alcohol landscape evolves rapidly. The days of simply enduring harsh 
 Driven by health-conscious millennials and Gen Z, **Zero-Sugar Soju** (sweetened with erythritol or stevia) has completely dominated the market. Brands like "Saero" and "Jinro Zero" are now the default option at 80% of BBQ restaurants in Seoul.
 
 ### Highball Hype
-The "Highball" (Whiskey and soda) craze that started in 2023 has matured. In 2026, you will find "Earl Grey Highballs" and "Yuzu Highballs" in almost every pub (Hof). They are priced between 8,000 and 12,000 KRW ($6-$9 USD).
+The "Highball" (Whiskey and soda) craze that started in 2023 has matured. In 2026, you will find "Earl Grey Highballs" and "Yuzu Highballs" in almost every pub (Hof). They are priced between 8,000 and ₩12,000 ($6-$9 USD).
 
 <Timeline
   title="A Night Out in Seoul: The Rounds (Cha)"
@@ -180,7 +190,7 @@ Seoul nightlife can be incredibly cheap or surprisingly expensive depending on y
 
 Koreans drink hard, but they recover harder. *Haejang* refers to the practice of chasing a hangover.
 
-The convenience store industry for hangover cures is worth over 300 billion KRW annually. Before drinking, locals buy small bottles of turmeric or oriental raisin tree extracts (like "Condition" or "Morning Care"), costing 4,500 to 6,000 KRW.
+The convenience store industry for hangover cures is worth over ₩300 billion annually. Before drinking, locals buy small bottles of turmeric or oriental raisin tree extracts (like "Condition" or "Morning Care"), costing 4,500 to ₩6,000.
 
 The morning after, the go-to cure is **Haejang-guk** (Hangover Soup). This is typically a spicy beef broth with congealed ox blood and cabbage, or a Bean Sprout Soup (*Kongnamul-guk*).
 

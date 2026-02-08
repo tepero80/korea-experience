@@ -52,8 +52,8 @@ Results from Glutathione IV drips are not instantaneous and vary from person to 
 
 The cost of Glutathione IV drips in Korea varies widely depending on the clinic's reputation, location, the specific formulation (sometimes mixed with other vitamins like Vitamin C), and the number of sessions purchased in a package.
 
-*   **Per Session:** A single Glutathione IV drip session in a reputable clinic in Seoul can range from **50,000 KRW to 150,000 KRW (approximately 40-120 USD)**.
-*   **Packages:** Most clinics offer discounted packages for multiple sessions (e.g., 5, 10, or 20 sessions), which significantly reduces the cost per drip. A package of 10 sessions might cost **400,000 KRW to 1,000,000 KRW (approximately 320-800 USD)**.
+*   **Per Session:** A single Glutathione IV drip session in a reputable clinic in Seoul can range from **₩50,000 to ₩150,000 (approximately 40-120 USD)**.
+*   **Packages:** Most clinics offer discounted packages for multiple sessions (e.g., 5, 10, or 20 sessions), which significantly reduces the cost per drip. A package of 10 sessions might cost **₩400,000 to ₩1,000,000 (approximately 320-800 USD)**.
 *   **Factors influencing cost:**
     *   **Clinic Location:** Clinics in prime areas like Gangnam or Apgujeong tend to be more expensive.
     *   **Included Ingredients:** Some drips combine Glutathione with high doses of Vitamin C, B vitamins, or other antioxidants, increasing the price.
@@ -109,11 +109,11 @@ Topical treatments generally offer a more gradual and localized approach to skin
 
 Korea offers a vast range of topical products at various price points, making them accessible to different budgets.
 
-*   **Drugstore Brands (Olive Young, Lalavla):** High-quality serums, creams, and masks can range from **15,000 KRW to 50,000 KRW (approximately 12-40 USD)** per product.
-*   **Mid-Range Brands:** Products from popular brands often found in department stores or specialty beauty shops might cost **50,000 KRW to 150,000 KRW (approximately 40-120 USD)**.
-*   **High-End/Luxury Brands:** Premium serums or creams can exceed **150,000 KRW (120 USD+)**.
+*   **Drugstore Brands (Olive Young, Lalavla):** High-quality serums, creams, and masks can range from **₩15,000 to ₩50,000 (approximately 12-40 USD)** per product.
+*   **Mid-Range Brands:** Products from popular brands often found in department stores or specialty beauty shops might cost **₩50,000 to ₩150,000 (approximately 40-120 USD)**.
+*   **High-End/Luxury Brands:** Premium serums or creams can exceed **₩150,000 (120 USD+)**.
 
-Building a complete brightening routine (cleanser, toner, serum, moisturizer, sunscreen) might cost anywhere from **50,000 KRW to 300,000 KRW (approximately 40-240 USD)** initially, with products lasting for 1-3 months.
+Building a complete brightening routine (cleanser, toner, serum, moisturizer, sunscreen) might cost anywhere from **₩50,000 to ₩300,000 (approximately 40-240 USD)** initially, with products lasting for 1-3 months.
 
 ## Comparing Effectiveness: Glutathione IV vs. Topical Treatments
 
@@ -179,13 +179,13 @@ When considering skin brightening treatments in Korea, it's vital to look beyond
 ### Detailed Cost Breakdown
 
 **Glutathione IV Drips:**
-*   **Single Session:** 50,000 KRW - 150,000 KRW (40-120 USD)
-*   **Package (e.g., 10 sessions):** 400,000 KRW - 1,000,000 KRW (320-800 USD)
+*   **Single Session:** ₩50,000 - ₩150,000 (40-120 USD)
+*   **Package (e.g., 10 sessions):** ₩400,000 - ₩1,000,000 (320-800 USD)
     *   *Consider:* The frequency needed (often 1-2 times a week initially, then less for maintenance) and the duration of results. This can be a significant investment over several months or years.
 
 **Topical Treatments:**
-*   **Basic Brightening Serum:** 15,000 KRW - 50,000 KRW (12-40 USD)
-*   **Premium Brightening Serum/Cream:** 50,000 KRW - 150,000 KRW+ (40-120+ USD)
+*   **Basic Brightening Serum:** ₩15,000 - ₩50,000 (12-40 USD)
+*   **Premium Brightening Serum/Cream:** ₩50,000 - ₩150,000+ (40-120+ USD)
     *   *Consider:* A full routine involves multiple products (cleanser, toner, serum, moisturizer, SPF). This is an ongoing monthly/quarterly expense.
 
 ### Long-term vs. Short-term Investment
@@ -235,7 +235,7 @@ Embarking on a medical tourism journey in Korea for skin brightening can be an e
 
 *   **Transportation:** Seoul has an excellent public transportation system (subways and buses). Use apps like KakaoMap or Naver Map (both available in English) for navigation.
 *   **Accommodation:** Consider staying in areas like Gangnam, Myeongdong, or Hongdae for easy access to clinics and tourist attractions.
-*   **Currency:** Korea uses the Korean Won (KRW). Credit cards are widely accepted, but it's always good to have some cash.
+*   **Currency:** Korea uses the Korean Won (₩). Credit cards are widely accepted, but it's always good to have some cash.
 
 ### Post-Treatment Care
 

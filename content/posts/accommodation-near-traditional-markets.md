@@ -4,6 +4,16 @@ date: 2026-01-01
 excerpt: "A complete guide to hotels and guesthouses near Gwangjang, Namdaemun, and Jagalchi markets. Includes prices, transit tips, and noise levels for 2026."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "K-Beauty"
+  - "Shopping"
+  - "Seoul"
+  - "Skincare"
+  - "Korean Fashion"
+  - "Budget Travel"
+  - "Busan"
+readTime: "13 min read"
+featured: false
 ---
 
 Finding accommodation near traditional markets in Korea is the ultimate travel hack for foodies and culture seekers. Instead of relying on hotel breakfast buffets, you step out of your lobby and into a world of steaming *hotteok*, fresh *kimbap*, and vibrant local energy.
@@ -101,7 +111,7 @@ The subway station serving Namdaemun is Hoehyeon (Line 4). This area is hilly bu
 Located right at the entrance of the market's "Galchi Jorim" (Braised Cutlassfish) Alley, this hotel chain offers Japanese-style efficiency. The rooms are compact but clean.
 *   **Distance to Market:** 0 meters (You are in it).
 *   **Distance to Myeongdong:** 7 minutes walking.
-*   **Price:** Roughly 120,000 KRW ($90 USD) per night.
+*   **Price:** Roughly ₩120,000 ($90 USD) per night.
 
 <InfoBox type="tip" title="Luggage Strategy">
 Namdaemun is famous for children's clothes and kitchenware. If you stay here, you can buy bulky items, drop them off at your hotel room in 5 minutes, and head back out. This "drop-and-go" capability is invaluable compared to hauling bags across the subway system.
@@ -130,7 +140,7 @@ This is a residential neighborhood that gentrified into a cafe hotspot. Staying 
 />
 
 ### Accommodation Advice
-Look for listings near Mangwon Station Exit 2. The further you go towards the river, the quieter it gets, but the walk to the subway becomes longer (up to 20 minutes). If you plan to enjoy the nightlife in Hongdae, a taxi back to Mangwon at night only costs about 8,000 KRW ($6 USD), making it a great budget alternative.
+Look for listings near Mangwon Station Exit 2. The further you go towards the river, the quieter it gets, but the walk to the subway becomes longer (up to 20 minutes). If you plan to enjoy the nightlife in Hongdae, a taxi back to Mangwon at night only costs about ₩8,000 ($6 USD), making it a great budget alternative.
 
 For those planning a packed schedule, see our [24-hour Seoul itinerary](/blog/24-hour-seoul-itinerary-how-to-survive-the-city-that-never-sleeps-2026) to see how Mangwon fits into a wider trip.
 
@@ -172,7 +182,7 @@ Staying near Dongmun Market (approx. 10-15 minutes from Jeju International Airpo
   type="local"
   verified={true}
 >
-"Many tourists stay in Seogwipo (South), but if you have an early flight, stay near Dongmun Market in Jeju City. You can enjoy the Night Market until 11 PM, sleep, and take a 5,000 KRW taxi ride to the airport in the morning. It removes all travel stress."
+"Many tourists stay in Seogwipo (South), but if you have an early flight, stay near Dongmun Market in Jeju City. You can enjoy the Night Market until 11 PM, sleep, and take a ₩5,000 taxi ride to the airport in the morning. It removes all travel stress."
 </ExpertTip>
 
 ## How to Book: A Step-by-Step Guide

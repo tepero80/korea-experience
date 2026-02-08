@@ -146,7 +146,7 @@ Unlike fixed-price retail stores, many vendors in Dongmyo operate on a flexible 
 Negotiating in a foreign market can feel intimidating, but it's part of the fun in Dongmyo.
 
 1.  **Be Polite and Friendly:** A smile and a respectful demeanor go a long way. Start with *Kamsahamnida* (Thank you) and use your few Korean phrases.
-2.  **Start Slightly Lower:** If a vendor quotes 15,000 Korean Won (KRW) for a shirt, you might counter with ₩10,000, aiming to settle around 12,000-₩13,000. Don't go ridiculously low, as it can be considered rude.
+2.  **Start Slightly Lower:** If a vendor quotes 15,000 Korean Won (₩) for a shirt, you might counter with ₩10,000, aiming to settle around 12,000-₩13,000. Don't go ridiculously low, as it can be considered rude.
 3.  **Use the "Buying Multiple Items" Tactic:** Point to 2-3 items and ask *Igeo-jugeo gachi eolmayeyo?* (How much for these together?). This is a strong negotiation point.
 4.  **Know When to Walk Away (Temporarily):** If the price isn't budging, politely say *Gamsahamnida* and start to walk away. Sometimes, the vendor will call you back with a better offer.
 5.  **Small Denominations:** It's easier to negotiate with smaller cash amounts ready, showing you're serious.

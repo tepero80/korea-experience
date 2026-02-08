@@ -4,12 +4,22 @@ date: 2026-01-15
 excerpt: "Master the art of Korean Anju pairings with our expert guide to Soju, Makgeolli, and Beer snacks for the ultimate local dining experience"
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "13 min read"
+featured: false
 ---
 
 <KeyTakeaways 
   points={[
     "Anju is the mandatory food served with alcohol, crucial for digestion and social bonding",
-    "Soju pairs best with fatty pork or spicy stews (average cost 15,000 KRW per dish)",
+    "Soju pairs best with fatty pork or spicy stews (average cost ₩15,000 per dish)",
     "Rainy days trigger a cultural tradition of drinking Makgeolli with pancakes (Jeon)"
   ]}
   readTime={15}
@@ -53,10 +63,10 @@ From a physiological perspective, this approach is practical. A typical bottle o
 Soju is the undisputed king of Korean liquor. It is a clear, distilled spirit, traditionally made from rice but now often produced from sweet potatoes or tapioca. Because standard mass-market Soju has a sharp, antiseptic finish and a relatively high alcohol content compared to beer or wine, it requires Anju that is either greasy and savory (to coat the stomach) or spicy and hot (to wash away the bitterness).
 
 ### Samgyeopsal (Grilled Pork Belly)
-The "Soju and Samgyeopsal" combination is the gold standard of Korean dining. The rich, rendered fat of the grilled pork belly (approximately 18,000 to 20,000 KRW per 150g serving in Seoul) coats the palate, making the sharp shot of Soju taste surprisingly sweet and refreshing. This interaction is chemically satisfying; the alcohol cuts through the grease, cleansing the palate for the next bite of pork wrapped in lettuce.
+The "Soju and Samgyeopsal" combination is the gold standard of Korean dining. The rich, rendered fat of the grilled pork belly (approximately 18,000 to ₩20,000 per 150g serving in Seoul) coats the palate, making the sharp shot of Soju taste surprisingly sweet and refreshing. This interaction is chemically satisfying; the alcohol cuts through the grease, cleansing the palate for the next bite of pork wrapped in lettuce.
 
 ### Kimchi Jjigae (Kimchi Stew)
-For those who prefer soup, a bubbling pot of Kimchi Jjigae is the classic accompaniment. The stew is served boiling hot (around 95°C) and typically costs between 9,000 and 12,000 KRW. The intense sodium and spice levels in the soup encourage drinking, while the warm broth helps soothe the stomach lining.
+For those who prefer soup, a bubbling pot of Kimchi Jjigae is the classic accompaniment. The stew is served boiling hot (around 95°C) and typically costs between 9,000 and ₩12,000. The intense sodium and spice levels in the soup encourage drinking, while the warm broth helps soothe the stomach lining.
 
 <PriceTable
   title="Soju Experience Comparison"
@@ -87,8 +97,8 @@ This association is so strong that sales of Makgeolli and pancake flour spike by
 
 ### Jeon (Korean Pancakes)
 Jeon refers to ingredients coated in flour and egg wash, then pan-fried. The oiliness of the pancake pairs perfectly with the carbonation and acidity of the Makgeolli.
-*   **Haemul Pajeon:** Seafood and green onion pancake. A large serving, roughly 30cm in diameter, typically costs 18,000 to 25,000 KRW.
-*   **Kimchi Jeon:** Kimchi pancake. Slightly cheaper, usually around 15,000 KRW, offering a spicy kick that cuts through the creamy rice wine.
+*   **Haemul Pajeon:** Seafood and green onion pancake. A large serving, roughly 30cm in diameter, typically costs 18,000 to ₩25,000.
+*   **Kimchi Jeon:** Kimchi pancake. Slightly cheaper, usually around ₩15,000, offering a spicy kick that cuts through the creamy rice wine.
 
 <ExpertTip 
   author="Min-seok Kim"
@@ -126,7 +136,7 @@ A standard order serves 2-3 people. Due to the high sodium and oil content, the 
 
 ### Dried Anju (Mareun Anju)
 If you are at a "Hof" (a German-style Korean beer hall) and have already eaten dinner, you might opt for dried snacks. These are chewy, salty, and designed to make you thirsty.
-*   **Nogari:** Dried young pollock. Very cheap, often sold for 1,500 to 3,000 KRW per fish in specialized alleys.
+*   **Nogari:** Dried young pollock. Very cheap, often sold for 1,500 to ₩3,000 per fish in specialized alleys.
 *   **Dried Squid:** Served with a dipping sauce of mayonnaise, soy sauce, and chopped hot green peppers (Cheongyang peppers).
 
 <ComparisonTable
@@ -149,10 +159,10 @@ Korean nightlife operates in "rounds" (Cha). You rarely stay in one place for th
 For the 2nd round, heavy meals are impossible. The Anju shifts to lighter fare.
 
 ### Fruit Platters (Hwache)
-A bowl of fruit punch or a platter of sliced seasonal fruits. While expensive for what it is (often 20,000 to 25,000 KRW), it provides necessary hydration and natural sugars to combat the alcohol consumed in the first round.
+A bowl of fruit punch or a platter of sliced seasonal fruits. While expensive for what it is (often 20,000 to ₩25,000), it provides necessary hydration and natural sugars to combat the alcohol consumed in the first round.
 
 ### Fish Cake Soup (Eomuk Tang)
-Often sold at street carts or Izakaya-style pubs. A pot of Eomuk Tang costs roughly 15,000 KRW in a bar (or 1,000 KRW per skewer on the street). The savory, warm broth is considered a hangover preventative.
+Often sold at street carts or Izakaya-style pubs. A pot of Eomuk Tang costs roughly ₩15,000 in a bar (or ₩1,000 per skewer on the street). The savory, warm broth is considered a hangover preventative.
 
 <Timeline
   title="A Typical Friday Night Timeline"
@@ -178,7 +188,7 @@ To experience authentic Anju culture, you should visit specialized alleys where 
   priceRange="$"
   rating={4.7}
   transit="Euljiro 3-ga Station (Line 2/3), Exit 3 or 4"
-  highlights={["Manseon Hof", "1,500 KRW Nogari", "Crowded Outdoor Seating"]}
+  highlights={["Manseon Hof", "₩1,500 Nogari", "Crowded Outdoor Seating"]}
   tip="Arrive by 6:30 PM to get an outdoor table. The atmosphere is loud and energetic."
 />
 
@@ -186,7 +196,7 @@ To experience authentic Anju culture, you should visit specialized alleys where 
 Located near Gongdeok Station, this area is famous for Galmaegisal (pork skirt meat) and salt-grilled pork. The restaurants here are old-school, featuring round drum tables. The average distance between competing BBQ joints is less than 10 meters, ensuring consistent quality.
 
 ### Jeonju Makgeolli Alley (Regional Trip)
-If you travel 200km south to Jeonju, visit the Makgeolli Alley. Here, you pay for the kettle of Makgeolli (about 25,000 KRW), and the food is free. As you order more kettles, the quality of the food improves—from corn and edamame in the first round to crab, skate, and expensive beef dishes by the third kettle.
+If you travel 200km south to Jeonju, visit the Makgeolli Alley. Here, you pay for the kettle of Makgeolli (about ₩25,000), and the food is free. As you order more kettles, the quality of the food improves—from corn and edamame in the first round to crab, skate, and expensive beef dishes by the third kettle.
 
 ## Convenience Store Anju: The Budget Traveler's Secret
 
@@ -201,9 +211,9 @@ You do not need a restaurant to experience Anju. Korean convenience stores (CU, 
 
 Popular convenience store Anju includes:
 1.  **String Cheese:** Microwaved for 10 seconds.
-2.  **Hot Bar:** Vacuum-packed sausages or fish cakes (2,000 - 3,000 KRW).
-3.  **Cup Ramyeon:** The spicy broth is the ultimate budget soup Anju (1,500 KRW).
-4.  **Gam-dong-ran:** Seasoned soft-boiled eggs (2,200 KRW for two).
+2.  **Hot Bar:** Vacuum-packed sausages or fish cakes (2,000 - ₩3,000).
+3.  **Cup Ramyeon:** The spicy broth is the ultimate budget soup Anju (₩1,500).
+4.  **Gam-dong-ran:** Seasoned soft-boiled eggs (₩2,200 for two).
 
 ## Etiquette and Practical Tips
 
@@ -218,7 +228,7 @@ When enjoying Anju and alcohol in Korea, distinct social rules apply.
 
 ## Conclusion
 
-The world of Korean Anju is vast, ranging from a 1,500 KRW dried fish on the street to a 100,000 KRW premium beef platter in Gangnam. Understanding the pairing logic—grease with Soju, oil with Makgeolli, crunch with Beer—unlocks the true flavor of Korean cuisine. The next time you find yourself in Seoul, look beyond the glass in your hand and focus on the plate next to it. That is where the real culture lies.
+The world of Korean Anju is vast, ranging from a ₩1,500 dried fish on the street to a ₩100,000 premium beef platter in Gangnam. Understanding the pairing logic—grease with Soju, oil with Makgeolli, crunch with Beer—unlocks the true flavor of Korean cuisine. The next time you find yourself in Seoul, look beyond the glass in your hand and focus on the plate next to it. That is where the real culture lies.
 
 <FAQAccordion
   title="Frequently Asked Questions"

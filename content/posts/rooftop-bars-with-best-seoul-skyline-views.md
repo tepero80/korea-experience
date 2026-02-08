@@ -28,7 +28,7 @@ The Heights Lounge boasts a sleek, contemporary design with plush seating, warm 
 *   **Signature Cocktails:** Master mixologists craft innovative cocktails using premium spirits and local ingredients. Try their "Gangnam Glow," a sparkling concoction designed to reflect the city's vibrancy.
 *   **Gastronomic Delights:** A curated menu of gourmet small plates and appetizers, perfect for sharing, complements the drink selection. Think modern Korean fusion tapas.
 *   **Prime Views:** The panoramic windows and open-air terrace offer incredible vistas of Apgujeong, Cheongdam-dong, and the broader Gangnam district. On a clear night, you can even spot distant mountains.
-*   **Price Range:** High-end. Cocktails typically range from 25,000 to 35,000 Korean Won (KRW). Small plates are priced similarly.
+*   **Price Range:** High-end. Cocktails typically range from 25,000 to 35,000 Korean Won (₩). Small plates are priced similarly.
 *   **Location:** Gangnam District, near Apgujeong Rodeo Station.
 *   **Dress Code:** Smart casual to formal. Jackets for men are recommended but not always mandatory.
 *   **Insider Tip:** Make reservations, especially on weekends or for window-side tables. Arrive just before sunset for the breathtaking transition from daylight to city lights.
@@ -45,7 +45,7 @@ Skyline Serenity features a charming, slightly more laid-back yet elegant atmosp
 *   **Curated Wine List:** Beyond cocktails, they boast an impressive selection of wines, perfect for pairing with their European-inspired sharing platters.
 *   **Dessert Focus:** Indulge in their gourmet dessert menu, a sweet accompaniment to the starry sky and city lights.
 *   **Prime Views:** The star attraction is undoubtedly Namsan Tower, perfectly framed against the backdrop of the older parts of Seoul.
-*   **Price Range:** Mid-to-high. Cocktails from 20,000 to 30,000 KRW. Wine bottles starting around 80,000 KRW.
+*   **Price Range:** Mid-to-high. Cocktails from ₩20,000 to ₩30,000. Wine bottles starting around ₩80,000.
 *   **Location:** Jongno District, short walk from Euljiro 3-ga Station.
 *   **Dress Code:** Smart casual.
 *   **Insider Tip:** Request a table specifically with a Namsan Tower view when booking. The best time to visit is just after sunset, when the tower lights up.
@@ -62,7 +62,7 @@ Riverbend Terrace strikes a balance between lively and relaxed. It's often frequ
 *   **Craft Beer Selection:** Alongside cocktails, they often feature a robust selection of local and international craft beers, appealing to a broader audience.
 *   **Heartier Bar Bites:** Their menu might include more substantial casual fare like gourmet burgers, pizzas, or Korean-inspired fried chicken, perfect for a longer evening.
 *   **Prime Views:** Uninterrupted views of the Han River, several iconic bridges, and the contrasting skylines of Mapo and Yeouido.
-*   **Price Range:** Mid-range. Cocktails from 18,000 to 25,000 KRW. Craft beers from 10,000 to 15,000 KRW.
+*   **Price Range:** Mid-range. Cocktails from ₩18,000 to ₩25,000. Craft beers from ₩10,000 to ₩15,000.
 *   **Location:** Mapo District, near Mapo Station.
 *   **Dress Code:** Casual chic.
 *   **Insider Tip:** Check their schedule for special events or DJ nights. The views of the Banpo Bridge Rainbow Fountain are breathtaking during its operational seasons, so plan your visit accordingly.
@@ -79,7 +79,7 @@ Urban Echoes is typically buzzing with an international crowd, offering a vibran
 *   **Diverse Drink Menu:** Expect a wide range of spirits, classic cocktails, and perhaps even some unique shots or themed drinks reflecting Itaewon's global vibe.
 *   **Pub Grub with a Twist:** Their food menu often features international comfort food, perfect for late-night munchies.
 *   **Prime Views:** A unique patchwork view of Itaewon's hilly streets, the city lights spreading out, and often a distinctive profile of Namsan Tower from the south.
-*   **Price Range:** Mid-range. Cocktails from 15,000 to 22,000 KRW.
+*   **Price Range:** Mid-range. Cocktails from ₩15,000 to ₩22,000.
 *   **Location:** Itaewon District, a short walk from Itaewon Station.
 *   **Dress Code:** Casual.
 *   **Insider Tip:** Itaewon is on a hill, so many of its rooftops offer excellent views even from lower floors. Explore a few spots in the area if you have time. Getting there by subway is easy, but consider a taxi for convenience due to the hilly terrain.
@@ -96,7 +96,7 @@ Industrial Glow exudes a cool, artsy, and effortlessly trendy vibe. It's popular
 *   **Artisanal Drinks:** Focus on unique craft beers, natural wines, and innovative cocktails that often incorporate less common ingredients.
 *   **Fusion Snacks:** The food menu typically features small, creative fusion dishes that complement the artisanal drink selection.
 *   **Prime Views:** A fascinating perspective on Seongsu's evolving landscape, the Han River in the distance, and the high-rise apartments of neighboring areas. It's a view that feels more grounded yet equally captivating.
-*   **Price Range:** Mid-range. Cocktails from 18,000 to 25,000 KRW. Craft beers from 10,000 to 14,000 KRW.
+*   **Price Range:** Mid-range. Cocktails from ₩18,000 to ₩25,000. Craft beers from ₩10,000 to ₩14,000.
 *   **Location:** Seongsu-dong, near Seongsu Station.
 *   **Dress Code:** Stylish casual, reflecting the neighborhood's trendy vibe.
 *   **Insider Tip:** Combine your visit with an exploration of Seongsu-dong's unique cafes, boutique shops, and art galleries during the day. This area is less touristy but incredibly rewarding.
@@ -112,7 +112,7 @@ Utterly luxurious and awe-inspiring. The atmosphere is hushed, refined, and excl
 *   **Highest Viewpoint:** Located hundreds of meters above ground, offering a truly panoramic, 360-degree view of Seoul, stretching to the horizon.
 *   **Premium Drinks:** A sophisticated menu of top-shelf spirits, champagne, and meticulously crafted cocktails.
 *   **Elegant Service:** Impeccable service expected from a world-class establishment.
-*   **Price Range:** Very High-end. Cocktails typically 30,000 to 50,000 KRW.
+*   **Price Range:** Very High-end. Cocktails typically ₩30,000 to ₩50,000.
 *   **Location:** Songpa District, atop Lotte World Tower, connecting directly to Jamsil Station.
 *   **Dress Code:** Smart casual to formal.
 *   **Insider Tip:** While reservations are often recommended, seating might be first-come, first-served depending on the specific bar's policy. Consider visiting just before sunset for the truly magical transition from day to night. Combine this with a visit to the Seoul Sky observation deck for an even grander experience.
@@ -123,12 +123,12 @@ To help you choose the perfect spot for your evening, here's a quick comparison 
 
 | Rooftop Bar       | View Type                    | Ambiance           | Price Range (Cocktails) | Best For                  |
 | :---------------- | :--------------------------- | :----------------- | :---------------------- | :------------------------ |
-| The Heights Lounge | Gangnam Skyscrapers          | Glamorous, Upscale | High (25,000-35,000 KRW)| Luxury, Special Occasions |
-| Skyline Serenity | Namsan Tower, Historic City  | Romantic, Elegant  | Mid-High (20,000-30,000 KRW)| Dates, Quiet Evenings     |
-| Riverbend Terrace | Han River, Bridges, Mapo/Yeouido | Lively, Trendy     | Mid (18,000-25,000 KRW) | Socializing, Craft Beer   |
-| Urban Echoes      | Itaewon, Mixed City, Namsan | Vibrant, Eclectic  | Mid (15,000-22,000 KRW) | Casual Meetups, Expats    |
-| Industrial Glow   | Seongsu Urban, Han River (Dist.)| Artsy, Trendy      | Mid (18,000-25,000 KRW) | Unique Experience, Creatives |
-| Cloud Nine        | Panoramic 360 City View      | Luxurious, Exclusive | Very High (30,000-50,000 KRW) | Ultimate Views, Indulgence |
+| The Heights Lounge | Gangnam Skyscrapers          | Glamorous, Upscale | High (₩25,000 - ₩35,000)| Luxury, Special Occasions |
+| Skyline Serenity | Namsan Tower, Historic City  | Romantic, Elegant  | Mid-High (₩20,000 - ₩30,000)| Dates, Quiet Evenings     |
+| Riverbend Terrace | Han River, Bridges, Mapo/Yeouido | Lively, Trendy     | Mid (₩18,000 - ₩25,000) | Socializing, Craft Beer   |
+| Urban Echoes      | Itaewon, Mixed City, Namsan | Vibrant, Eclectic  | Mid (₩15,000 - ₩22,000) | Casual Meetups, Expats    |
+| Industrial Glow   | Seongsu Urban, Han River (Dist.)| Artsy, Trendy      | Mid (₩18,000 - ₩25,000) | Unique Experience, Creatives |
+| Cloud Nine        | Panoramic 360 City View      | Luxurious, Exclusive | Very High (₩30,000 - ₩50,000) | Ultimate Views, Indulgence |
 
 ## Practical Tips for Your Seoul Rooftop Bar Adventure
 
@@ -160,7 +160,7 @@ While many **Seoul rooftop bars** are fashionable, dress codes vary.
 
 ### Budgeting
 Seoul can be expensive, and rooftop bars are a premium experience.
-*   **Cocktail Prices:** Expect to pay between 15,000 KRW and 35,000 KRW per cocktail.
+*   **Cocktail Prices:** Expect to pay between ₩15,000 and ₩35,000 per cocktail.
 *   **Service Charge:** Some venues may add a service charge.
 *   **Happy Hour:** Look out for happy hour deals, which can significantly reduce costs.
 

@@ -107,7 +107,7 @@ The most strict rule in Dongdaemun is the MOQ.
 
 ### Rule #2: Cash is Absolute
 Do not ask to pay by card. These transactions are designed for speed and low margins.
-*   Bring Korean Won (KRW) in cash.
+*   Bring Korean Won (₩) in cash.
 *   While some vendors are beginning to accept WeChat Pay or AliPay due to the high volume of Chinese buyers, Visa/Mastercard are virtually non-existent for small purchases.
 *   ATMs in the area often have long lines or run out of cash by 2:00 AM. Withdraw money *before* you enter the zone.
 

@@ -49,7 +49,7 @@ South Korea is home to world-class theme parks that are incredibly popular with 
 
 ### Lotte World (Seoul)
 Lotte World, an indoor and outdoor theme park located in the heart of Seoul, is famous for its unique structure and Magic Island.
-*   **Stroller Rentals:** Lotte World offers stroller rentals near the main entrance (B1 level). As of 2024, rental costs were around 5,000 Korean Won (KRW) for a standard stroller, with a refundable deposit. Expect similar pricing in 2026. These are typically basic umbrella strollers, suitable for toddlers.
+*   **Stroller Rentals:** Lotte World offers stroller rentals near the main entrance (B1 level). As of 2024, rental costs were around 5,000 Korean Won (₩) for a standard stroller, with a refundable deposit. Expect similar pricing in 2026. These are typically basic umbrella strollers, suitable for toddlers.
 *   **Accessibility:** The indoor 'Adventure' section is largely flat and well-suited for strollers. Elevators and escalators connect different floors. Magic Island, the outdoor section, involves crossing a bridge and has slightly more varied terrain, but remains generally stroller-friendly.
 *   **Queues:** While strollers cannot be taken into ride queues, designated stroller parking areas are often available near ride entrances. Ensure you park your stroller securely and take valuables with you.
 *   **"Magic Pass":** Lotte World's fast-pass system (available via their mobile app) can be incredibly useful to minimize wait times, especially with impatient little ones. Some rides have child swap options.
@@ -57,7 +57,7 @@ Lotte World, an indoor and outdoor theme park located in the heart of Seoul, is 
 
 ### Everland (Yongin)
 Everland, Korea's largest theme park located in Yongin (about an hour's drive from Seoul), offers expansive outdoor areas, a zoo, and thrilling rides.
-*   **Stroller Rentals:** Similar to Lotte World, Everland provides stroller rentals near the main entrance. Prices are comparable, typically around 5,000-6,000 KRW for a basic stroller, plus a deposit. They also offer electric scooters for adults, but not child strollers.
+*   **Stroller Rentals:** Similar to Lotte World, Everland provides stroller rentals near the main entrance. Prices are comparable, typically around ₩5,000 - ₩6,000 for a basic stroller, plus a deposit. They also offer electric scooters for adults, but not child strollers.
 *   **Shuttle Buses & Lifts:** The park is built on a hill, so navigating without assistance can be tiring. Everland utilizes internal shuttle buses and a "Skyway" chairlift/gondola system to transport guests between different zones. Strollers typically need to be folded on these transport options.
 *   **Steep Hills:** Be prepared for some uphill and downhill walking, especially if you venture beyond the main thoroughfares. A sturdy, easily maneuverable stroller is recommended.
 *   **"Q-Pass":** Everland's version of a fast-pass system is also available via their mobile app for select attractions, helping to reduce queue times.
@@ -83,7 +83,7 @@ Deciding whether to rent a stroller in Korea or bring your own is a common dilem
 
 | Feature            | Bringing Your Own Stroller                                | Renting a Stroller in Korea                                |
 | :----------------- | :-------------------------------------------------------- | :--------------------------------------------------------- |
-| **Cost**           | Initial purchase cost; potential airline baggage fees.    | Daily rental fee (approx. 5,000-10,000 KRW), plus deposit. |
+| **Cost**           | Initial purchase cost; potential airline baggage fees.    | Daily rental fee (approx. ₩5,000 - ₩10,000), plus deposit. |
 | **Familiarity**    | Child is familiar and comfortable.                        | Child may be less comfortable or unfamiliar.               |
 | **Availability**   | Always available when you need it (airport, transit, etc.). | Only available at specific attractions (theme parks, malls). |
 | **Type/Quality**   | Your preferred model (lightweight, sturdy, reclining, etc.). | Basic umbrella strollers; limited features.                |
@@ -93,7 +93,7 @@ Deciding whether to rent a stroller in Korea or bring your own is a common dilem
 
 ### Table: Typical Stroller Rental Information at Major Theme Parks (Estimate for 2026)
 
-| Theme Park      | Rental Location          | Estimated Daily Cost (KRW) | Deposit (KRW)    | Stroller Type                                  | Notes                                                        |
+| Theme Park      | Rental Location          | Estimated Daily Cost (₩) | Deposit (₩)    | Stroller Type                                  | Notes                                                        |
 | :-------------- | :----------------------- | :------------------------- | :--------------- | :--------------------------------------------- | :----------------------------------------------------------- |
 | Lotte World     | B1 Level, Main Entrance  | 5,000                      | 1,000 (Refundable) | Basic Umbrella Stroller (for toddlers)         | Limited availability on peak days.                           |
 | Everland        | Main Entrance Area       | 5,000 - 6,000              | 1,000 (Refundable) | Basic Umbrella Stroller (for toddlers)         | Can be cumbersome on Everland's hills; consider internal transport. |

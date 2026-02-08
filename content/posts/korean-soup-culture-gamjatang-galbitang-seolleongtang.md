@@ -4,6 +4,16 @@ date: 2026-01-19
 excerpt: "Discover the heart of Korean dining with our deep dive into Gamjatang, Galbitang, and Seolleongtang. Learn where to eat, how to order, and local etiquette."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Gangnam"
+  - "Hongdae"
+readTime: "12 min read"
+featured: false
 ---
 
 For international travelers landing in Seoul, the culinary landscape goes far beyond Korean BBQ and Kimchi. The true soul of Korean cuisine resides in its soups and stews, specifically the "Tang" culture. Unlike Western dining, where soup is often a starter, in Korea, it is the main event, a communal anchor, and a restorative remedy all in one. Among the vast repertoire of broths, three distinct varieties stand out for their popularity, historical significance, and robust flavors: **Gamjatang** (Pork Bone Stew), **Galbitang** (Short Rib Soup), and **Seolleongtang** (Ox Bone Soup).
@@ -16,7 +26,7 @@ You might also enjoy our article about [Korean Soup Culture Guide 2026 Kimchi Jj
   points={[
     "Gamjatang is a spicy, communal pork bone stew best for groups and evening dining",
     "Seolleongtang requires self-seasoning with salt and is the standard Korean breakfast",
-    "Galbitang offers a premium, clear broth experience costing 15,000 to 25,000 KRW"
+    "Galbitang offers a premium, clear broth experience costing 15,000 to ₩25,000"
   ]}
   readTime={12}
   lastUpdated="2026-02-06"
@@ -63,7 +73,7 @@ The broth is a rich red, seasoned with gochugaru (red chili flakes), gochujang (
   columns={3}
 />
 
-A standard small pot (serving 2 people) typically costs between **30,000 KRW and 35,000 KRW ($22-$26 USD)**. It usually includes:
+A standard small pot (serving 2 people) typically costs between **₩30,000 and ₩35,000 ($22-$26 USD)**. It usually includes:
 *   Pork spine bones
 *   Potatoes
 *   Napa cabbage leaves (Ugeoji)
@@ -118,7 +128,7 @@ If Gamjatang is the rowdy, spicy food of the common people, Galbitang is its ref
 ### The Clear Broth Appeal
 The broth is transparent but deeply flavorful, achieved by boiling beef ribs with Korean radish, onions, garlic, and ginger for roughly **4 to 5 hours**. Unlike the milky Seolleongtang, Galbitang retains a clear consistency.
 
-A single serving typically costs between **15,000 KRW and 25,000 KRW ($11-$19 USD)**, reflecting the high cost of beef in Korea. Despite the price, it remains a popular lunch option for office workers in Gangnam and Yeouido, where average lunch spending has risen to **12,000 KRW** in 2025.
+A single serving typically costs between **₩15,000 and ₩25,000 ($11-$19 USD)**, reflecting the high cost of beef in Korea. Despite the price, it remains a popular lunch option for office workers in Gangnam and Yeouido, where average lunch spending has risen to **₩12,000** in 2025.
 
 <InfoBox type="tip" title="Bone Management">
   In Galbitang, the meat is usually still attached to the bone. Use the provided tongs to hold the bone and your scissors to snip the meat off into bite-sized pieces directly into your soup before you start eating. Do not gnaw on the bone directly unless you are in a very casual setting.
@@ -126,8 +136,8 @@ A single serving typically costs between **15,000 KRW and 25,000 KRW ($11-$19 US
 
 ### Variations and Add-ins
 While the classic version is pure beef, you may encounter:
-*   **Jeonbok Galbitang:** Includes whole abalone (add approx **5,000 KRW**).
-*   **Nakji Galbitang:** Includes small octopus (add approx **4,000 KRW**).
+*   **Jeonbok Galbitang:** Includes whole abalone (add approx **₩5,000**).
+*   **Nakji Galbitang:** Includes small octopus (add approx **₩4,000**).
 *   **Wang Galbitang:** Features massive, "King" size ribs that protrude from the bowl.
 
 <PriceTable
@@ -159,7 +169,7 @@ The most critical aspect of eating Seolleongtang is that *you* are the chef at t
 />
 
 ### The Importance of Kkakdugi
-You cannot discuss Seolleongtang without Kkakdugi (cubed radish kimchi). Because the soup is mild and creamy, the sharp, crunchy, sour radish provides the necessary texture and acid balance. Restaurants are often judged more on their Kkakdugi than the soup itself. A standard bowl costs **11,000 KRW to 14,000 KRW ($8-$10 USD)**.
+You cannot discuss Seolleongtang without Kkakdugi (cubed radish kimchi). Because the soup is mild and creamy, the sharp, crunchy, sour radish provides the necessary texture and acid balance. Restaurants are often judged more on their Kkakdugi than the soup itself. A standard bowl costs **₩11,000 to ₩14,000 ($8-$10 USD)**.
 
 ### Where to Eat: Imun Seolnongtang
 This is the oldest registered restaurant in Korea, opening its doors in **1904**. It has survived wars and modernization, serving the same recipe for over 120 years.

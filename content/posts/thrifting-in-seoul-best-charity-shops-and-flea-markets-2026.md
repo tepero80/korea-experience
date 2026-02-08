@@ -205,7 +205,7 @@ If you buy from Dongmyo, do not wear the item immediately. These clothes have be
 <QuickFacts
   title="Thrifting Essentials Checklist"
   facts={[
-    { label: "Currency", value: "Cash (KRW)", icon: "💵" },
+    { label: "Currency", value: "Cash (₩)", icon: "💵" },
     { label: "Navigation", value: "Naver Map", icon: "🗺️" },
     { label: "Bag", value: "Large Ikea Bag", icon: "🛍️" }
   ]}

@@ -4,6 +4,16 @@ date: 2026-01-15
 excerpt: "The ultimate guide to Korean drinking games rules, etiquette, and culture. Learn how to play Titanic, Soju Cap, and more like a local expert."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Korean Culture"
+  - "Travel Tips"
+  - "Restaurant Guide"
+  - "Budget Travel"
+  - "Gangnam"
+readTime: "15 min read"
+featured: false
 ---
 
 Understanding the nightlife in Seoul goes far beyond knowing which club to visit in Gangnam or which craft beer pub is trending in Itaewon. The true heartbeat of Korean social socialization is found around a round metal table, laden with green bottles, where the atmosphere is electric with chanting and laughter. If you want to truly integrate into the local culture, mastering Korean drinking games rules and fun etiquette is not just a party trick—it is an essential travel skill.
