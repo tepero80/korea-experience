@@ -27,7 +27,9 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   const url = `${SITE_CONFIG.url}/blog/category/${slug}`;
 
   return {
-    title: hub.metaTitle,
+    title: {
+      absolute: hub.metaTitle,
+    },
     description: hub.metaDescription,
     openGraph: {
       title: hub.metaTitle,

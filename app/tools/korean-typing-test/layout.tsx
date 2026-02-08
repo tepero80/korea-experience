@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Korean Typing Speed Test | Test Your Hangul Typing Skills',
+  title: { absolute: 'Korean Typing Speed Test | Hangul Skills | Korea Experience' },
   description: 'Test your Korean typing speed and accuracy! Measure your WPM (words per minute) with beginner, intermediate, and advanced Korean texts. Track your progress and improve your Hangul typing skills.',
   keywords: [
     'korean typing test',

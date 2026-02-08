@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'K-Pop Stage Name Generator - Find Your Perfect Idol Name | Korea Experience',
+  title: { absolute: 'K-Pop Stage Name Generator - Your Idol Name | Korea Experience' },
   description: 'Discover your K-pop idol stage name! Choose your concept (cute, cool, elegant, powerful) and get a personalized stage name with Korean translation, meaning, and similar K-pop idols. Perfect for K-pop fans!',
   keywords: [
     'kpop stage name generator',

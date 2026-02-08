@@ -30,7 +30,9 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
   const url = `${SITE_CONFIG.url}/blog/${slug}`;
 
   return {
-    title: post.title,
+    title: {
+      absolute: post.title,
+    },
     description: post.excerpt,
     authors: [{ name: SITE_CONFIG.author }],
     keywords: [post.category, 'Korea', 'travel', 'medical tourism'],

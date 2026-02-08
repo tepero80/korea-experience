@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Korean Name Generator - Get Your Authentic Korean Name | Korea Experience',
+  title: { absolute: 'Korean Name Generator | Get Your Korean Name | Korea Experience' },
   description: 'Generate your perfect Korean name based on your English name! Choose from male, female, or unisex options. Discover the meaning behind each Korean name. Free Korean name generator with cultural insights.',
   keywords: [
     'korean name generator',

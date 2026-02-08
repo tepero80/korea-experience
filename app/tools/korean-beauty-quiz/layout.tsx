@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Korean Beauty Routine Quiz | Find Your Perfect K-Beauty Skincare | Korea Experience',
+  title: { absolute: 'Korean Beauty Routine Quiz | K-Beauty Skincare | Korea Experience' },
   description: 'Discover your skin type and get a personalized Korean beauty routine! Take our 5-question quiz to receive custom K-beauty product recommendations and expert tips. ✨',
   keywords: [
     'korean beauty quiz',

@@ -113,15 +113,23 @@ ARTICLE BODY (Section 1~5 + Conclusion)
 
 ```yaml
 ---
-title: "[TITLE 섹션의 내용 - 따옴표로 감싸기]"
+title: "[SEO 최적화된 제목 - 반드시 70자 이내]"
 date: [변환 당일 날짜, 예: 2026-02-08]
-excerpt: "[EXCERPT 섹션의 내용]"
+excerpt: "[핵심 요약 - 반드시 160자 이내]"
 category: [CATEGORY 섹션의 내용]  # 6개 중 하나 (정확히 일치해야 함)
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: [다음 순번]  # 기존 파일들의 deepDiveOrder 확인 후 +1
 ---
 ```
+
+**⚠️ SEO 필수 길이 제한 (Bing/Google 검색 노출 기준):**
+- **title: 반드시 70자 이내** (70자 초과 시 검색 결과에서 잘림)
+- **excerpt: 반드시 160자 이내** (160자 초과 시 meta description 잘림)
+- 드래프트 원본의 TITLE은 보통 길기 때문에, 핵심 키워드를 살려서 짧게 재작성
+- 예시: ❌ "The 2026 Seoul Exosome Revolution: Why Korea is Officially the World Capital of Regenerative Beauty" (99자)
+- 예시: ✅ "Exosome Therapy in Seoul 2026: Clinics, Costs & What to Know" (60자)
+- excerpt도 마찬가지로 첫 1~2문장만 추려서 160자 이내로 작성
 
 **deepDiveOrder 결정 방법:**
 ```powershell
@@ -705,9 +713,9 @@ value: "₩5,000 (1d) to ₩20,000 (7d)"
 
 ```mdx
 ---
-title: "[제목]"
+title: "[제목 - 70자 이내, 핵심 키워드 포함]"
 date: [변환 당일 날짜]
-excerpt: "[발췌문]"
+excerpt: "[요약 - 160자 이내, 구체적 데이터 포함]"
 category: [카테고리]
 author: Korea Experience Team
 deepDive: true
@@ -934,11 +942,15 @@ npm run dev
 
 ## 🚀 작업 완료 후 체크리스트
 
-1. ☐ 이 README의 "이미 변환 완료된 파일" 목록 업데이트
-2. ☐ `npm run build`로 빌드 검증 통과
-3. ☐ 개발 서버에서 페이지 렌더링 확인
-4. ☐ 모든 컴포넌트가 제대로 표시되는지 확인
-5. ☐ **드래프트 원본 파일 유지** (삭제하지 않음!)
+1. ☐ **title이 70자 이내인지 확인** (SEO 필수)
+2. ☐ **excerpt가 160자 이내인지 확인** (SEO 필수)
+3. ☐ 이 README의 "이미 변환 완료된 파일" 목록 업데이트
+4. ☐ `npm run build`로 빌드 검증 통과
+5. ☐ 개발 서버에서 페이지 렌더링 확인
+6. ☐ 모든 컴포넌트가 제대로 표시되는지 확인
+7. ☐ **드래프트 원본 파일 유지** (삭제하지 않음!)
+
+> 💡 전수검사: `node scripts/seo-audit.js` 로 전체 포스트의 title/excerpt 길이를 한번에 확인할 수 있습니다.
 
 ---
 

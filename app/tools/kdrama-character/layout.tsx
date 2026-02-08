@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Which K-Drama Character Are You? | Korea Experience',
+  title: { absolute: 'Which K-Drama Character Are You? | Korea Experience' },
   description: 'Take our fun personality quiz to discover which K-Drama character archetype matches you! From chaebol heirs to prosecutors, find your K-Drama match.',
   keywords: [
     'kdrama character quiz',

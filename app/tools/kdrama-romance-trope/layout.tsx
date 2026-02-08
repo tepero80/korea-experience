@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Your K-Drama Romance Trope | Which Love Story Matches You? | Korea Experience',
+  title: { absolute: 'Your K-Drama Romance Trope | Love Story Quiz | Korea Experience' },
   description: 'Discover your perfect K-Drama romance trope! From chaebol romance to enemies-to-lovers, find out which classic Korean drama love story matches your personality. Take the quiz now!',
   keywords: [
     'kdrama romance trope',

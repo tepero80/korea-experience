@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Korean Couple Name Combiner | Create Your Perfect Couple Nickname | Korea Experience',
+  title: { absolute: 'Korean Couple Name Combiner - Cute Nicknames | Korea Experience' },
   description: 'Combine two names to create the perfect couple nickname! Get 5 unique variations in English and Korean. Perfect for couples, best friends, and K-drama fans. 💕',
   keywords: [
     'couple name combiner',

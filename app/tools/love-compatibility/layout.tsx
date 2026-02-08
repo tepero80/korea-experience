@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Korean Love Compatibility Calculator - Zodiac & Blood Type Match | Korea Experience',
+  title: { absolute: 'Korean Love Compatibility - Zodiac & Blood Type | Korea Experience' },
   description: 'Check your love compatibility using Korean zodiac signs, blood types, and birth dates! Get detailed relationship advice, strengths, weaknesses, and your couple nickname. Based on Korean traditional compatibility methods.',
   keywords: [
     'korean love compatibility',

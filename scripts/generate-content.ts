@@ -61,22 +61,28 @@ Requirements:
 Structure:
 1. Frontmatter (YAML format) - IMPORTANT formatting rules:
    ---
-   title: "[Natural sentence-case title with main keyword, max 60 chars]"
+   title: "[Natural sentence-case title with main keyword, MUST be ≤70 chars]"
    date: ${existingDate || new Date().toISOString().split('T')[0]}
-   excerpt: "[Compelling summary with specific data, 150-155 characters]"
+   excerpt: "[Compelling summary with specific data, MUST be ≤160 chars]"
    category: ${category}
    author: Korea Experience Team
    ---
    
    TITLE RULES (CRITICAL):
+   - MUST be 70 characters or less (titles over 70 chars get truncated in Bing/Google search results)
    - Use natural sentence case, NOT mechanical Title Case
-   - CORRECT: "Best Korean BBQ restaurants in Seoul 2026"
-   - CORRECT: "How to get a Korean driving license as a foreigner"
-   - CORRECT: "Zero-sugar soju and healthy drinking trends in Korea 2026"
+   - CORRECT: "Best Korean BBQ restaurants in Seoul 2026" (41 chars ✓)
+   - CORRECT: "How to get a Korean driving license as a foreigner" (50 chars ✓)
    - WRONG: "Best Korean BBQ Restaurants In Seoul 2026" (mechanical Title Case)
-   - WRONG: "How To Get A Korean Driving License As A Foreigner" (every word capitalized)
+   - WRONG: "The Complete Ultimate Guide to Every Korean BBQ Restaurant in Seoul and Surrounding Areas 2026" (too long!)
    - Only capitalize: first word, proper nouns (Korea, Seoul, BTS, K-Pop), and acronyms
    - Include the main keyword naturally
+   
+   EXCERPT RULES (CRITICAL):
+   - MUST be 160 characters or less (this becomes the meta description tag)
+   - Include specific data points (prices, percentages, year)
+   - Make it compelling enough to click from search results
+   - Do NOT use colons (:) inside the excerpt
    
    CRITICAL YAML RULES:
    - ALWAYS wrap title in double quotes "like this"

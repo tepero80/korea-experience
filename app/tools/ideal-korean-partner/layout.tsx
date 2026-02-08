@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
-  title: 'Your Ideal Korean Partner Type',
+  title: { absolute: 'Your Ideal Korean Partner Type | Korea Experience' },
   description: 'Discover your ideal Korean partner type based on personality and values. Take our quiz to find out what kind of Korean partner matches your relationship style and preferences perfectly!',
   keywords: ['ideal Korean partner', 'Korean dating quiz', 'Korean relationship', 'Korean partner type', 'dating in Korea', 'Korean romance', 'partner quiz'],
   openGraph: {

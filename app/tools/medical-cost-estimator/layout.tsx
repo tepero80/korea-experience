@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
-  title: 'Medical Tourism Cost Estimator',
+  title: { absolute: 'Medical Tourism Cost Estimator | Korea Experience' },
   description: 'Calculate your medical procedure costs in Korea including accommodation, meals, and travel expenses. Estimate costs for plastic surgery, dental, dermatology, and ophthalmology procedures in Seoul and Gangnam.',
   keywords: ['Korea medical tourism', 'medical cost calculator', 'plastic surgery Korea', 'Gangnam clinic', 'medical tourism cost', 'Korea surgery price', 'medical procedure estimate'],
   openGraph: {

@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Korea Trip Budget Calculator - Plan Your Perfect Korea Vacation',
+  title: { absolute: 'Korea Trip Budget Calculator | Korea Experience' },
   description: 'Calculate your Korea trip budget with our interactive tool. Get detailed cost estimates for accommodation, food, activities, transportation, and shopping. Plan your perfect Korean adventure in 2026.',
   keywords: [
     'korea trip budget calculator',

@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'What Korean Food Matches Your Personality? | Korea Experience',
+  title: { absolute: 'What Korean Food Matches Your Personality? | Korea Experience' },
   description: 'Take our fun personality quiz to discover which Korean food perfectly represents you! From kimchi to bulgogi, find your Korean food soulmate based on your unique traits.',
   keywords: [
     'korean food quiz',

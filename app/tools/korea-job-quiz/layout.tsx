@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'What Job Would You Have in Korea? - Career Quiz | Korea Experience',
+  title: { absolute: 'What Job Would You Have in Korea? - Career Quiz | Korea Experience' },
   description: 'Take our fun quiz to discover your perfect Korean career! From K-pop idol to Samsung engineer, find out which Korean job matches your personality. 16 detailed job results with salary info and career paths.',
   keywords: [
     'korea job quiz',
