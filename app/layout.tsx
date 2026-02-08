@@ -46,6 +46,11 @@ export const metadata: Metadata = {
     creator: SITE_CONFIG.social.twitter,
     images: ["/og-image.png"],
   },
+  verification: {
+    other: {
+      "naver-site-verification": "752414d46da5987d29ae23c93b4665e604a39109",
+    },
+  },
   robots: {
     index: true,
     follow: true,
