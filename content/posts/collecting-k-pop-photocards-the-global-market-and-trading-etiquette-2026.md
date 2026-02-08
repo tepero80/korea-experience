@@ -201,4 +201,3 @@ Whether you are browsing the bustling undergrounds of Myeongdong or refreshing a
   ]}
 />
 
-</QuickFacts>

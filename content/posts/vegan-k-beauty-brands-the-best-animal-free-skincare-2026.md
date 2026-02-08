@@ -147,8 +147,6 @@ While Amore Pacific owns many non-vegan brands (like Sulwhasoo), their Seongsu c
   "Many travelers don't know that the 'Clean Beauty' sticker at Olive Young doesn't always equal 100% vegan. It implies non-toxic. Always flip the box and look for the 'EVE Vegan' mark specifically if you want to avoid beeswax or honey completely."
 </ExpertTip>
 
-</QuickFacts>
-
 ## Best Vegan Products by Category
 
 To help you build a shopping list, here is a breakdown of the best-in-class items for 2026.

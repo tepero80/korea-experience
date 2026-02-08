@@ -173,7 +173,6 @@ Your hotel location should dictate your transport choice. Here is our breakdown 
   recommendation="Choose the bus if you have luggage > 15kg. Choose the train if arriving during rush hour (5-7 PM)."
 />
 
-</DualismRoute>
 
 ## How to Purchase Tickets (2026 Guide)
 

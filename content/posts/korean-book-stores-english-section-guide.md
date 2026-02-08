@@ -251,7 +251,6 @@ If you are looking for a specific textbook, search by ISBN on the bookstore's we
   variant="cards"
 />
 
-</QuickFacts>
 
 ## Best Areas for a Book Crawl
 

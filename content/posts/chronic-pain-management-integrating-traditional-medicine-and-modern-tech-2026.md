@@ -163,7 +163,6 @@ Managing chronic pain in Korea isn't a quick fix; it is a process of re-engineer
   ]}
 />
 
-</Timeline>
 
 ## Cost Analysis: Is It Worth the Trip?
 

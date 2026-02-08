@@ -228,8 +228,6 @@ Korean retail service is exceptional, but there are unwritten rules in fragrance
   variant="cards"
 />
 
-</ProsCons>
-
 ## Conclusion
 
 By 2026, buying home fragrance in Seoul has become as essential to the travel itinerary as eating Korean BBQ or visiting a palace. It is an exploration of modern Korean identity—sophisticated, nature-loving, and aesthetically rigorous. Whether you choose a rustic sachet from Granhand to hang in your closet or a sculptural candle from Tamburins to display on your coffee table, you are bringing a piece of Seoul’s atmosphere home with you.

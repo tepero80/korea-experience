@@ -83,13 +83,15 @@ export default function StatCard({
   // Gradient variant
   if (variant === 'gradient') {
     return (
-      <div className="my-8">
+      <div className="my-8 bg-gray-50 rounded-2xl shadow-lg border border-gray-200 overflow-hidden">
         {title && (
-          <h3 className="text-2xl font-bold text-gray-900 mb-6 flex items-center gap-2">
-            <span>📊</span> {title}
-          </h3>
+          <div className="px-6 pt-6 pb-2">
+            <h3 className="text-2xl font-bold text-gray-900 m-0 p-0 border-none flex items-center gap-2" style={{ margin: 0, padding: 0, border: 'none' }}>
+              <span>📊</span> {title}
+            </h3>
+          </div>
         )}
-        <div className={`grid ${gridCols[columns]} gap-4`}>
+        <div className={`grid ${gridCols[columns]} gap-4 p-6`}>
           {stats.map((stat, index) => {
             const gradients = [
               'from-amber-500 to-orange-600',
@@ -121,7 +123,7 @@ export default function StatCard({
           })}
         </div>
         {(source || asOf) && (
-          <div className="text-xs text-gray-500 mt-4 text-right">
+          <div className="bg-gray-100 border-t border-gray-200 px-6 py-3 text-xs text-gray-500">
             {source && <span>Source: {source}</span>}
             {source && asOf && <span> • </span>}
             {asOf && <span>As of {asOf}</span>}

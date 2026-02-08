@@ -195,8 +195,6 @@ Related reading: [Korean drinking etiquette pouring and toasting guide](/blog/ko
 *   **Cost:** Extremely high. A single ball can cost 30,000 to ₩50,000 ($22 - $38 USD).
 *   **Efficacy:** Known for immediate energy restoration and mental clarity. Often bought for students before the CSAT (university entrance exam).
 
-</StepGuide>
-
 ## Pros and Cons of Forms
 
 When deciding what to buy, consider how you will consume it. The taste of pure extract is incredibly bitter—earthy, dirt-like, and sharp.

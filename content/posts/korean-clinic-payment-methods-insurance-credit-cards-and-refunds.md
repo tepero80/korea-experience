@@ -143,8 +143,6 @@ If you are living in Korea on a visa (E-2, F-4, F-6, etc.) for more than 6 month
 
 For expats settling in, our article on [Credit Cards in Korea: Which Banks Accept Foreigners](/blog/credit-cards-in-korea-which-banks-accept-foreigners) is essential reading for setting up your financial life to pay these premiums.
 
-</ComparisonTable>
-
 ## Deposits and Cancellation Refunds
 
 When booking surgery, clinics will require a deposit (Ye-yak-geum), typically **10% of the total surgery cost**. This locks in your surgery date and the doctor's time.
