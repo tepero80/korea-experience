@@ -31,6 +31,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/terms',
     '/disclaimer',
     '/tools',
+    '/blog/category',
   ].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: SITE_LAST_UPDATED,

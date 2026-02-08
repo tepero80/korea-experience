@@ -1,8 +1,9 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Privacy Policy - Korea Experience',
-  description: 'Privacy Policy for Korea Experience website. Learn how we collect, use, and protect your data.',
+  title: 'Privacy Policy',
+  description: 'Privacy Policy for Korea Experience. Learn how we collect, use, and protect your personal data.',
+  alternates: { canonical: 'https://koreaexperience.com/privacy' },
 };
 
 export default function PrivacyPage() {

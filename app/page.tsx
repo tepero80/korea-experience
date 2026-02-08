@@ -1,6 +1,11 @@
 import Link from 'next/link';
+import { Metadata } from 'next';
 import { SITE_CONFIG, ALL_TOOLS, BLOG_CATEGORIES } from '@/lib/constants';
 import { getFeaturedPosts } from '@/lib/posts';
+
+export const metadata: Metadata = {
+  alternates: { canonical: 'https://koreaexperience.com' },
+};
 
 export default function Home() {
   // Get top 6 featured tools

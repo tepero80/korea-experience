@@ -1,8 +1,9 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Medical Disclaimer - Korea Experience',
-  description: 'Important medical disclaimer for Korea Experience website.',
+  title: 'Medical Disclaimer',
+  description: 'Important medical disclaimer for Korea Experience. This site provides general information, not medical advice.',
+  alternates: { canonical: 'https://koreaexperience.com/disclaimer' },
 };
 
 export default function DisclaimerPage() {

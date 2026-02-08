@@ -4,8 +4,14 @@ import { getAllPosts } from '@/lib/posts';
 import BlogList from './BlogList';
 
 export const metadata: Metadata = {
-  title: 'Blog - Korea Experience',
-  description: 'Read our latest guides on medical tourism, travel, K-culture, living in Korea, food & dining, and shopping in Korea.',
+  title: { absolute: 'Korea Blog — Medical Tourism, Travel & Culture Guides' },
+  description: 'Read 650+ expert guides on medical tourism, travel, K-culture, food, shopping, and living in Korea. Updated weekly.',
+  alternates: { canonical: 'https://koreaexperience.com/blog' },
+  openGraph: {
+    title: 'Korea Blog — Medical Tourism, Travel & Culture Guides',
+    description: 'Read 650+ expert guides on medical tourism, travel, K-culture, food, shopping, and living in Korea.',
+    url: 'https://koreaexperience.com/blog',
+  },
 };
 
 export default function BlogPage() {

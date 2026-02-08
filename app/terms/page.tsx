@@ -1,8 +1,9 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Terms of Service - Korea Experience',
-  description: 'Terms of Service for using Korea Experience website.',
+  title: 'Terms of Service',
+  description: 'Terms of Service for Korea Experience. Read the rules and conditions for using our website and tools.',
+  alternates: { canonical: 'https://koreaexperience.com/terms' },
 };
 
 export default function TermsPage() {

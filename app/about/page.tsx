@@ -1,8 +1,14 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'About Us - Korea Experience',
+  title: 'About Us',
   description: 'Learn about Korea Experience, your trusted guide for medical tourism, travel, and Korean culture.',
+  alternates: { canonical: 'https://koreaexperience.com/about' },
+  openGraph: {
+    title: 'About Us | Korea Experience',
+    description: 'Learn about Korea Experience, your trusted guide for medical tourism, travel, and Korean culture.',
+    url: 'https://koreaexperience.com/about',
+  },
 };
 
 export default function AboutPage() {

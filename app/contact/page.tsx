@@ -1,8 +1,14 @@
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Contact Us - Korea Experience',
+  title: 'Contact Us',
   description: 'Get in touch with Korea Experience for questions, suggestions, or partnerships.',
+  alternates: { canonical: 'https://koreaexperience.com/contact' },
+  openGraph: {
+    title: 'Contact Us | Korea Experience',
+    description: 'Get in touch with Korea Experience for questions, suggestions, or partnerships.',
+    url: 'https://koreaexperience.com/contact',
+  },
 };
 
 export default function ContactPage() {

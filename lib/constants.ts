@@ -2,7 +2,8 @@
 export const SITE_CONFIG = {
   name: 'Korea Experience',
   title: 'Korea Experience - Medical Tourism, Travel & K-Culture Guide',
-  description: 'Discover everything about Korea - from world-class medical tourism and K-beauty to authentic travel experiences, living guides, and cultural insights. Your trusted companion for exploring Korea.',
+  description: 'Your guide to Korea: medical tourism, K-beauty clinics, travel tips, cultural insights, and expat living guides. Plan your perfect Korean experience.',
+  // ↑ 160 chars max for SEO meta description
   url: 'https://koreaexperience.com',
   author: 'Korea Experience Team',
   email: 'contact@koreaexperience.com',
@@ -110,7 +111,7 @@ export const CATEGORY_HUBS = [
     gradient: 'from-rose-500 to-red-600',
     description: 'World-class medical procedures at competitive prices. From plastic surgery and dermatology to dental care and health checkups — your complete guide to medical tourism in Korea.',
     metaTitle: 'Medical Tourism in Korea — Complete Guide 2026',
-    metaDescription: 'Explore Korea\'s top medical tourism options: plastic surgery, dermatology, dental care, health screenings, and more. Expert guides with costs, clinics, and tips.',
+    metaDescription: 'Explore Korea\'s top medical tourism options: plastic surgery, dermatology, dental care, health screenings & more. Expert guides with costs and tips.',
   },
   {
     slug: 'travel-tourism',
