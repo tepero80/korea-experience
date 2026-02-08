@@ -1,6 +1,6 @@
 import { ImageResponse } from 'next/og';
 
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 export const dynamic = 'force-static';
 export const alt = 'Korean Military Service Calculator - Korea Experience';
 export const size = {

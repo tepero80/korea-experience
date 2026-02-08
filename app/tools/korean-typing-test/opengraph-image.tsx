@@ -1,7 +1,7 @@
 import { ImageResponse } from 'next/og';
 
 export const dynamic = 'force-static';
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 export const alt = 'Korean Typing Speed Test';
 export const size = {
   width: 1200,

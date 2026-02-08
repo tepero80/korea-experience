@@ -64,6 +64,11 @@ export default async function Image({ params }: { params: Promise<{ slug: string
     }
   }
 
+  // Sanitize text for OG image rendering (₩ symbol not in default Satori font)
+  const sanitize = (text: string) => text.replace(/₩/g, 'Won ');
+  const title = sanitize(post.title);
+  const excerpt = sanitize(post.excerpt);
+
   // Fallback: generate OG image with code
   return new ImageResponse(
     (
@@ -106,7 +111,7 @@ export default async function Image({ params }: { params: Promise<{ slug: string
         >
           <h1
             style={{
-              fontSize: post.title.length > 60 ? 52 : 64,
+              fontSize: title.length > 60 ? 52 : 64,
               fontWeight: 800,
               color: 'white',
               lineHeight: 1.2,
@@ -114,7 +119,7 @@ export default async function Image({ params }: { params: Promise<{ slug: string
               maxWidth: '1000px',
             }}
           >
-            {post.title}
+            {title}
           </h1>
           <p
             style={{
@@ -125,7 +130,7 @@ export default async function Image({ params }: { params: Promise<{ slug: string
               maxWidth: '900px',
             }}
           >
-            {post.excerpt.length > 120 ? post.excerpt.substring(0, 120) + '...' : post.excerpt}
+            {excerpt.length > 120 ? excerpt.substring(0, 120) + '...' : excerpt}
           </p>
         </div>
 
