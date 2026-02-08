@@ -1,5 +1,7 @@
 import { ImageResponse } from 'next/og';
 import { getPostBySlug, getAllPosts } from '@/lib/posts';
+import { readFileSync, existsSync } from 'fs';
+import { join } from 'path';
 
 // Use Node.js runtime since we need to read files
 export const runtime = 'nodejs';
@@ -47,6 +49,21 @@ export default async function Image({ params }: { params: Promise<{ slug: string
     );
   }
 
+  // If the post has a custom cover image, use it directly
+  if (post.image) {
+    const imagePath = join(process.cwd(), 'public', post.image);
+    if (existsSync(imagePath)) {
+      const imageBuffer = readFileSync(imagePath);
+      return new Response(imageBuffer, {
+        headers: {
+          'Content-Type': 'image/png',
+          'Cache-Control': 'public, max-age=31536000, immutable',
+        },
+      });
+    }
+  }
+
+  // Fallback: generate OG image with code
   return new ImageResponse(
     (
       <div

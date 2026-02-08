@@ -7,6 +7,7 @@ import { SITE_CONFIG, CATEGORY_NAME_TO_SLUG, CATEGORY_HUBS } from '@/lib/constan
 import MDXContent from '@/components/MDXContent';
 import AuthorBox from '@/components/AuthorBox';
 import RelatedPosts from '@/components/RelatedPosts';
+import Image from 'next/image';
 
 type Params = Promise<{ slug: string }>;
 
@@ -84,7 +85,9 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     author: SITE_CONFIG.author,
     category: post.category,
     url: `${SITE_CONFIG.url}/blog/${slug}`,
-    imageUrl: `${SITE_CONFIG.url}/blog/${slug}/opengraph-image`,
+    imageUrl: post.image
+      ? `${SITE_CONFIG.url}${post.image}`
+      : `${SITE_CONFIG.url}/blog/${slug}/opengraph-image`,
   });
 
   // Resolve category hub info
@@ -173,6 +176,20 @@ export default async function BlogPostPage({ params }: { params: Params }) {
             {post.excerpt}
           </p>
         </header>
+
+        {/* Hero Image (Nano Banana generated cover) */}
+        {post.image && (
+          <div className="relative w-full aspect-[16/9] rounded-xl overflow-hidden mb-10 shadow-lg">
+            <Image
+              src={post.image}
+              alt={post.title}
+              fill
+              className="object-cover"
+              priority
+              sizes="(max-width: 896px) 100vw, 896px"
+            />
+          </div>
+        )}
 
         {/* Article Content */}
         <div className="mb-12">

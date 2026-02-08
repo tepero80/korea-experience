@@ -178,6 +178,97 @@ Write exactly 3 key points (conversational, not formal):
 
 ---
 
+## COVER IMAGE
+
+Provide visual concept details for the blog cover image:
+
+**Short Title:** [2-4 words that capture the essence of this article — used as text overlay on the cover image]
+
+**Scene:** [One vivid sentence describing a concrete, photographic scene that visually represents this topic. Be specific with setting, subjects, and action. e.g., "A surgeon's gloved hands holding a scalpel under bright operating room lights with Seoul cityscape visible through the window"]
+
+**Key Objects:** [3-4 specific, visually distinct objects that should appear naturally in the scene, comma-separated. e.g., "surgical mask, hospital corridor, medical chart, Korean won bills"]
+
+**Mood:** [Choose ONE: dramatic / warm / clinical / vibrant / serene / energetic / mysterious / cozy / luxurious]
+
+**Color Palette:** [2-3 dominant colors that fit the mood. e.g., "sterile blue, white, deep red accent"]
+
+---
+
+## OPTIONAL SECTIONS (Include ONLY if relevant to this topic!)
+
+⚠️ The following sections are NOT required for every article. Include them ONLY when they genuinely fit the topic. Skip sections that don't apply.
+
+### LOCATIONS (Include if the topic involves specific places: clinics, restaurants, shops, venues)
+
+For EACH important location mentioned in the article, provide:
+
+```
+Location 1:
+- Name (English): [Name]
+- Name (Korean): [한국어 이름]
+- Type: [Restaurant / Clinic / Shop / Venue / Cafe / Market / etc.]
+- Address: [Full address in English]
+- Hours: [Operating hours, e.g., 10:00-21:00]
+- Phone: [+82-X-XXXX-XXXX]
+- Price Range: [$ / $$ / $$$ / $$$$]
+- Rating: [X.X out of 5, from Google/Naver]
+- Nearest Transit: [Station name + exit number + walking time]
+- Highlights: [3 notable features, comma-separated]
+- Insider Tip: [One sentence practical advice]
+```
+
+(Include 2-5 locations. Focus on places a tourist would actually visit.)
+
+### PRICE TABLE (Include if comparing prices across tiers: luxury vs budget, different clinics, etc.)
+
+⚠️ MUST be a proper markdown table:
+
+| Option | Price | Category | Description |
+|--------|-------|----------|-------------|
+| [Luxury option] | [₩/$ amount] | luxury | [1-sentence what you get] |
+| [Mid-range option] | [₩/$ amount] | mid | [1-sentence what you get] |
+| [Budget option] | [₩/$ amount] | budget | [1-sentence what you get] |
+
+(Include 3-6 price tiers. Use "luxury", "mid", or "budget" for Category.)
+
+### KEY STATISTICS (Include if there are impressive numbers that deserve visual emphasis)
+
+Provide 3-4 standout statistics:
+
+| Statistic | Value | Label | Source |
+|-----------|-------|-------|--------|
+| [What's measured] | [Number with unit] | [Short label] | [Where this data comes from] |
+| [What's measured] | [Number with unit] | [Short label] | [Source] |
+| [What's measured] | [Number with unit] | [Short label] | [Source] |
+
+### ROUTE COMPARISON (Include ONLY for travel/tourism topics comparing luxury vs budget itineraries)
+
+```
+Route Title: [e.g., "24 Hours in Gangnam: Luxury Meets Budget"]
+Area: [Neighborhood/district]
+Total Time: [Duration]
+Luxury Total Budget: [$XX]
+Budget Total Budget: [$XX]
+
+Stop 1:
+- Name: [Place name]
+- Type: [luxury / budget]
+- Description: [1-2 sentences]
+- Cost: [$XX]
+
+Stop 2:
+- Name: [Place name]
+- Type: [luxury / budget]
+- Description: [1-2 sentences]
+- Cost: [$XX]
+```
+
+(Include 4-8 stops alternating between luxury and budget options.)
+
+Recommendation: [1-2 sentences on how to mix the best of both.]
+
+---
+
 ## SOURCES
 
 ⚠️ THIS SECTION IS REQUIRED - Do not skip!
@@ -253,6 +344,11 @@ Before submitting, verify you have:
 - [ ] Article body (5 sections + conclusion, each 400-600 words)
 - [ ] **Minimum 6,000 words total** (aim for 7,000+)
 - [ ] **Conversational tone throughout** (not academic!)
+- [ ] Optional: LOCATIONS (if topic involves specific places - clinics, restaurants, venues)
+- [ ] Optional: PRICE TABLE (if comparing prices across tiers)
+- [ ] Optional: KEY STATISTICS (if impressive numbers deserve emphasis)
+- [ ] Optional: ROUTE COMPARISON (if travel topic with luxury vs budget itinerary)
+- [ ] **COVER IMAGE section** (Short Title, Scene, Key Objects, Mood, Color Palette)
 
 ---
 
