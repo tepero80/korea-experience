@@ -81,7 +81,7 @@ export default function ComparisonTable({ title, headers, rows, items }: Compari
       
       <div className="overflow-x-auto">
         <table className="w-full border-collapse bg-white shadow-lg rounded-lg overflow-hidden">
-          <thead style={{ background: 'linear-gradient(to right, #1e3a8a, #1e40af)' }}>
+          <thead style={{ background: '#292524' }}>
             <tr>
               {resolvedHeaders.map((header, index) => (
                 <th 
@@ -100,7 +100,7 @@ export default function ComparisonTable({ title, headers, rows, items }: Compari
                 key={rowIndex}
                 className={`${
                   rowIndex % 2 === 0 ? 'bg-gray-50' : 'bg-white'
-                } hover:bg-blue-50 transition-colors`}
+                } hover:bg-amber-50 transition-colors`}
               >
                 <td className="px-4 py-4 font-bold text-gray-900 text-sm md:text-base">
                   {row.feature}

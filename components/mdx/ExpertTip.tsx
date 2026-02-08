@@ -35,16 +35,16 @@ const typeConfig = {
   local: {
     label: 'Local Insider Tip',
     icon: '🏠',
-    gradient: 'from-cyan-500 to-blue-500',
-    bg: 'bg-gradient-to-br from-cyan-50 to-blue-50',
-    border: 'border-cyan-200',
+    gradient: 'from-amber-500 to-orange-500',
+    bg: 'bg-gradient-to-br from-amber-50 to-orange-50',
+    border: 'border-amber-200',
   },
   expert: {
     label: 'Expert Advice',
     icon: '🎓',
-    gradient: 'from-purple-500 to-indigo-500',
-    bg: 'bg-gradient-to-br from-purple-50 to-indigo-50',
-    border: 'border-purple-200',
+    gradient: 'from-stone-600 to-stone-700',
+    bg: 'bg-gradient-to-br from-stone-50 to-stone-100',
+    border: 'border-stone-200',
   },
   warning: {
     label: 'Heads Up',
@@ -56,9 +56,9 @@ const typeConfig = {
   personal: {
     label: 'Personal Experience',
     icon: '💬',
-    gradient: 'from-pink-500 to-rose-500',
-    bg: 'bg-gradient-to-br from-pink-50 to-rose-50',
-    border: 'border-pink-200',
+    gradient: 'from-orange-500 to-amber-500',
+    bg: 'bg-gradient-to-br from-orange-50 to-amber-50',
+    border: 'border-orange-200',
   },
   travel: {
     label: 'Traveler Tip',
@@ -70,16 +70,16 @@ const typeConfig = {
   influencer: {
     label: 'Influencer Insight',
     icon: '📸',
-    gradient: 'from-pink-500 to-purple-500',
-    bg: 'bg-gradient-to-br from-pink-50 to-purple-50',
-    border: 'border-pink-200',
+    gradient: 'from-orange-500 to-amber-600',
+    bg: 'bg-gradient-to-br from-orange-50 to-amber-50',
+    border: 'border-orange-200',
   },
   editor: {
     label: "Editor's Pick",
     icon: '✍️',
-    gradient: 'from-blue-600 to-indigo-600',
-    bg: 'bg-gradient-to-br from-blue-50 to-indigo-50',
-    border: 'border-blue-200',
+    gradient: 'from-stone-700 to-stone-800',
+    bg: 'bg-gradient-to-br from-stone-50 to-stone-100',
+    border: 'border-stone-200',
   },
 };
 
@@ -155,7 +155,7 @@ export default function ExpertTip({
               </span>
               {verified && (
                 <span 
-                  className="bg-blue-500 text-white text-xs px-2 py-0.5 rounded-full font-medium flex items-center gap-1"
+                  className="bg-amber-600 text-white text-xs px-2 py-0.5 rounded-full font-medium flex items-center gap-1"
                   title="Verified Local Expert"
                 >
                   ✓ Verified

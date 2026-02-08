@@ -82,7 +82,7 @@ export default function PriceComparisonChart({
                 <span className="w-24 text-sm text-gray-600">{japanLabel}</span>
                 <div className="flex-1 bg-gray-100 rounded-full h-8 relative overflow-hidden">
                   <div
-                    className="absolute inset-y-0 left-0 bg-gradient-to-r from-purple-500 to-purple-600 flex items-center justify-end px-3 text-white font-semibold text-sm transition-all duration-500"
+                    className="absolute inset-y-0 left-0 bg-gradient-to-r from-amber-500 to-amber-600 flex items-center justify-end px-3 text-white font-semibold text-sm transition-all duration-500"
                     style={{ width: `${(item.japan / maxValue) * 100}%` }}
                   >
                     {formatPrice(item.japan)}

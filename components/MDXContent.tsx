@@ -63,7 +63,7 @@ const components = {
     return (
       <Link 
         href={href || '#'}
-        className="text-blue-600 hover:text-blue-700 underline underline-offset-2 font-medium transition-colors"
+        className="text-amber-700 hover:text-amber-800 underline underline-offset-2 font-medium transition-colors"
         target={isExternal ? '_blank' : undefined}
         rel={isExternal ? 'noopener noreferrer' : undefined}
         {...props}
@@ -87,7 +87,7 @@ const components = {
   // Blockquotes
   blockquote: (props: any) => (
     <blockquote 
-      className="border-l-4 border-blue-500 pl-6 py-2 my-6 italic text-gray-600 bg-blue-50 rounded-r-lg" 
+      className="border-l-4 border-amber-400 pl-6 py-2 my-6 italic text-gray-600 bg-amber-50 rounded-r-lg" 
       {...props} 
     />
   ),
@@ -150,7 +150,7 @@ const components = {
   ),
   
   thead: (props: any) => (
-    <thead className="bg-gradient-to-r from-blue-800 to-blue-600" {...props} />
+    <thead className="bg-stone-800" {...props} />
   ),
   
   th: (props: any) => (
@@ -162,7 +162,7 @@ const components = {
   ),
   
   tr: (props: any) => (
-    <tr className="even:bg-gray-50 hover:bg-blue-50 transition-colors" {...props} />
+    <tr className="even:bg-gray-50 hover:bg-amber-50 transition-colors" {...props} />
   ),
 
   // Affiliate Components

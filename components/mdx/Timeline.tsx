@@ -25,20 +25,20 @@ export default function Timeline({ items, events, title }: TimelineProps) {
       
       <div className="relative">
         {/* Vertical Line */}
-        <div className="absolute left-8 top-0 bottom-0 w-0.5 bg-gradient-to-b from-blue-500 via-cyan-500 to-blue-500" />
+        <div className="absolute left-8 top-0 bottom-0 w-0.5 bg-stone-300" />
         
         <div className="space-y-8">
           {data.map((item, index) => (
             <div key={index} className="relative flex gap-6">
               {/* Icon/Bullet */}
-              <div className="relative z-10 flex-shrink-0 w-16 h-16 bg-gradient-to-br from-blue-500 to-cyan-500 rounded-full flex items-center justify-center text-2xl shadow-lg">
+              <div className="relative z-10 flex-shrink-0 w-16 h-16 bg-amber-600 rounded-full flex items-center justify-center text-2xl shadow-lg">
                 {item.icon || '📍'}
               </div>
               
               {/* Content */}
               <div className="flex-1 pb-8">
                 {(item.time || item.year) && (
-                  <div className="text-sm font-semibold text-blue-600 mb-1">
+                  <div className="text-sm font-semibold text-amber-700 mb-1">
                     {item.time || item.year}
                   </div>
                 )}

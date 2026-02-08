@@ -27,12 +27,12 @@ export default function KeyTakeaways({
 }: KeyTakeawaysProps) {
   return (
     <div 
-      className="my-8 bg-gradient-to-br from-blue-50 via-indigo-50 to-purple-50 rounded-2xl border-2 border-blue-200 overflow-hidden shadow-lg"
+      className="my-8 bg-amber-50 rounded-2xl border-2 border-amber-200 overflow-hidden shadow-lg"
       role="region"
       aria-label="Key Takeaways"
     >
       {/* Header with gradient */}
-      <div className="bg-gradient-to-r from-blue-600 via-indigo-600 to-purple-600 px-6 py-4">
+      <div className="bg-stone-800 px-6 py-4">
         <div className="flex items-center justify-between flex-wrap gap-2">
           <div className="flex items-center gap-3">
             <span className="text-2xl">💡</span>
@@ -40,7 +40,7 @@ export default function KeyTakeaways({
               {title}
             </h2>
           </div>
-          <div className="flex items-center gap-4 text-sm text-blue-100">
+          <div className="flex items-center gap-4 text-sm text-stone-300">
             {readTime && (
               <span className="flex items-center gap-1">
                 <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -69,7 +69,7 @@ export default function KeyTakeaways({
               key={index}
               className="flex items-start gap-4 text-gray-800 leading-relaxed"
             >
-              <span className="flex-shrink-0 w-7 h-7 bg-gradient-to-br from-blue-500 to-indigo-600 text-white rounded-full flex items-center justify-center text-sm font-bold shadow-md">
+              <span className="flex-shrink-0 w-7 h-7 bg-amber-600 text-white rounded-full flex items-center justify-center text-sm font-bold shadow-md">
                 {index + 1}
               </span>
               <span className="text-lg pt-0.5">{renderInlineMarkdown(point)}</span>

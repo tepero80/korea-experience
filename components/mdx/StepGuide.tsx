@@ -75,7 +75,7 @@ export default function StepGuide({
         <div className="flex flex-wrap gap-4 text-sm">
           {totalTime && (
             <span 
-              className="flex items-center gap-2 bg-blue-100 text-blue-700 px-3 py-1.5 rounded-full font-medium"
+              className="flex items-center gap-2 bg-amber-100 text-amber-700 px-3 py-1.5 rounded-full font-medium"
               itemProp="totalTime"
               content={totalTime}
             >
@@ -106,7 +106,7 @@ export default function StepGuide({
       {/* Steps */}
       <div className="relative">
         {variant !== 'numbered' && (
-          <div className="absolute left-6 top-0 bottom-0 w-0.5 bg-gradient-to-b from-blue-500 via-purple-500 to-pink-500" />
+          <div className="absolute left-6 top-0 bottom-0 w-0.5 bg-stone-300" />
         )}
         
         <div className="space-y-6">
@@ -120,7 +120,7 @@ export default function StepGuide({
             >
               {/* Step Number */}
               {variant !== 'numbered' ? (
-                <div className="absolute left-0 w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-600 rounded-full flex items-center justify-center text-white font-bold text-lg shadow-lg z-10">
+                <div className="absolute left-0 w-12 h-12 bg-amber-600 rounded-full flex items-center justify-center text-white font-bold text-lg shadow-lg z-10">
                   {step.icon || index + 1}
                 </div>
               ) : null}
@@ -130,7 +130,7 @@ export default function StepGuide({
                 className={`bg-white rounded-xl border-2 border-gray-200 p-6 shadow-md hover:shadow-lg transition-shadow ${variant === 'numbered' ? 'flex gap-4' : ''}`}
               >
                 {variant === 'numbered' && (
-                  <div className="flex-shrink-0 w-12 h-12 bg-gradient-to-br from-blue-500 to-purple-600 rounded-xl flex items-center justify-center text-white font-bold text-lg">
+                  <div className="flex-shrink-0 w-12 h-12 bg-amber-600 rounded-xl flex items-center justify-center text-white font-bold text-lg">
                     {step.icon || index + 1}
                   </div>
                 )}

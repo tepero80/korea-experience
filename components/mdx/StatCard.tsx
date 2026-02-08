@@ -62,15 +62,15 @@ export default function StatCard({
   if (variant === 'hero' && stats.length > 0) {
     const mainStat = stats[0];
     return (
-      <div className="my-8 bg-gradient-to-br from-blue-600 via-indigo-600 to-purple-700 rounded-2xl p-8 text-white text-center shadow-xl">
+      <div className="my-8 bg-gradient-to-br from-stone-700 via-stone-800 to-stone-900 rounded-2xl p-8 text-white text-center shadow-xl">
         {mainStat.icon && <div className="text-5xl mb-4">{mainStat.icon}</div>}
         <div className="text-6xl md:text-7xl font-black mb-2">{mainStat.value}</div>
-        <div className="text-xl text-blue-200 font-medium">{mainStat.label}</div>
+        <div className="text-xl text-amber-200 font-medium">{mainStat.label}</div>
         {mainStat.description && (
-          <p className="text-blue-100 mt-4 max-w-md mx-auto">{mainStat.description}</p>
+          <p className="text-amber-100 mt-4 max-w-md mx-auto">{mainStat.description}</p>
         )}
         {(source || asOf) && (
-          <div className="text-xs text-blue-200/60 mt-6">
+          <div className="text-xs text-amber-200/60 mt-6">
             {source && <span>Source: {source}</span>}
             {source && asOf && <span> • </span>}
             {asOf && <span>As of {asOf}</span>}
@@ -92,9 +92,9 @@ export default function StatCard({
         <div className={`grid ${gridCols[columns]} gap-4`}>
           {stats.map((stat, index) => {
             const gradients = [
-              'from-blue-500 to-indigo-600',
+              'from-amber-500 to-orange-600',
               'from-emerald-500 to-teal-600',
-              'from-purple-500 to-pink-600',
+              'from-orange-500 to-amber-600',
               'from-amber-500 to-orange-600',
             ];
             const gradient = gradients[index % gradients.length];
@@ -149,7 +149,7 @@ export default function StatCard({
   return (
     <div className="my-8 bg-white rounded-2xl shadow-lg border border-gray-200 overflow-hidden">
       {title && (
-        <div className="bg-gradient-to-r from-gray-800 to-gray-900 px-6 py-4">
+        <div className="bg-stone-800 px-6 py-4">
           <h3 className="text-xl font-bold text-white m-0 p-0 border-none flex items-center gap-2">
             <span>📊</span> {title}
           </h3>

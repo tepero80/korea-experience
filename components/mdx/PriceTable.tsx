@@ -78,10 +78,10 @@ export default function PriceTable({
     // 컬럼 색상: 기본 amber/green, 자동감지 시 blue/violet
     const isAutoDetect = leftLabel !== luxuryLabel;
     const leftColors = isAutoDetect 
-      ? { bg: 'from-blue-50 to-indigo-50', border: 'border-blue-200', header: 'from-blue-500 to-indigo-500', price: 'text-blue-600' }
+      ? { bg: 'from-amber-50 to-orange-50', border: 'border-amber-200', header: 'from-amber-500 to-orange-500', price: 'text-amber-600' }
       : { bg: 'from-amber-50 to-yellow-50', border: 'border-amber-200', header: 'from-amber-500 to-yellow-500', price: 'text-amber-600' };
     const rightColors = isAutoDetect
-      ? { bg: 'from-violet-50 to-purple-50', border: 'border-violet-200', header: 'from-violet-500 to-purple-500', price: 'text-violet-600' }
+      ? { bg: 'from-orange-50 to-amber-50', border: 'border-orange-200', header: 'from-orange-500 to-amber-600', price: 'text-orange-600' }
       : { bg: 'from-green-50 to-emerald-50', border: 'border-green-200', header: 'from-green-500 to-emerald-500', price: 'text-green-600' };
     
     return (
@@ -151,14 +151,14 @@ export default function PriceTable({
               key={index}
               className={`relative rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow ${
                 item.recommended 
-                  ? 'border-2 border-blue-500 ring-4 ring-blue-100' 
+                  ? 'border-2 border-amber-500 ring-4 ring-amber-100' 
                   : 'border border-gray-200'
               }`}
             >
               {item.tag && (
                 <div className={`absolute top-4 right-4 px-3 py-1 rounded-full text-xs font-bold ${
                   item.recommended 
-                    ? 'bg-blue-500 text-white' 
+                    ? 'bg-amber-500 text-white' 
                     : 'bg-gray-100 text-gray-700'
                 }`}>
                   {item.tag}
@@ -207,7 +207,7 @@ export default function PriceTable({
       <div className="overflow-x-auto">
         <table className="w-full border-collapse bg-white rounded-xl overflow-hidden shadow-lg">
           <thead>
-            <tr className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white">
+            <tr className="bg-stone-800 text-white">
               <th className="px-6 py-4 text-left font-bold">Item</th>
               <th className="px-6 py-4 text-right font-bold">Price</th>
               <th className="px-6 py-4 text-left font-bold hidden md:table-cell">Notes</th>
@@ -217,7 +217,7 @@ export default function PriceTable({
             {items.map((item, index) => (
               <tr 
                 key={index}
-                className={`hover:bg-blue-50 transition-colors ${item.recommended ? 'bg-blue-50' : ''}`}
+                className={`hover:bg-amber-50 transition-colors ${item.recommended ? 'bg-amber-50' : ''}`}
               >
                 <td className="px-6 py-4">
                   <div className="flex items-center gap-3">
@@ -225,7 +225,7 @@ export default function PriceTable({
                     {item.tag && (
                       <span className={`text-xs px-2 py-1 rounded-full ${
                         item.recommended 
-                          ? 'bg-blue-500 text-white' 
+                          ? 'bg-amber-500 text-white' 
                           : 'bg-gray-100 text-gray-600'
                       }`}>
                         {item.tag}

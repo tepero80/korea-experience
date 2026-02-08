@@ -89,7 +89,7 @@ export default function FAQAccordion({
       className="my-8 bg-white rounded-2xl shadow-lg border border-gray-200 overflow-hidden"
     >
       {/* Header */}
-      <div className="bg-gradient-to-r from-blue-600 to-indigo-600 px-6 py-4">
+      <div className="bg-stone-800 px-6 py-4">
         <h3 className="text-xl font-bold text-white m-0 p-0 border-none flex items-center gap-2">
           <span>❓</span> {title}
         </h3>
@@ -109,8 +109,8 @@ export default function FAQAccordion({
               {/* Number */}
               <span className={`flex-shrink-0 w-8 h-8 rounded-full flex items-center justify-center text-sm font-bold transition-colors ${
                 openIndex === index 
-                  ? 'bg-blue-500 text-white' 
-                  : 'bg-gray-100 text-gray-600 group-hover:bg-blue-100'
+                  ? 'bg-amber-600 text-white' 
+                  : 'bg-gray-100 text-gray-600 group-hover:bg-amber-100'
               }`}>
                 {index + 1}
               </span>
@@ -124,7 +124,7 @@ export default function FAQAccordion({
               
               {/* Toggle Icon */}
               <span className={`flex-shrink-0 w-8 h-8 rounded-full bg-gray-100 flex items-center justify-center transition-all ${
-                openIndex === index ? 'rotate-180 bg-blue-100' : ''
+                openIndex === index ? 'rotate-180 bg-amber-100' : ''
               }`}>
                 <svg 
                   className="w-5 h-5 text-gray-600" 
@@ -152,7 +152,7 @@ export default function FAQAccordion({
                 className="px-5 pb-5 pl-16 text-gray-600 leading-relaxed"
               >
                 <div 
-                  className="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-r-lg"
+                  className="bg-amber-50 border-l-4 border-amber-400 p-4 rounded-r-lg"
                 >
                   {item.answer}
                 </div>
@@ -166,7 +166,7 @@ export default function FAQAccordion({
       <div className="bg-gray-50 border-t border-gray-100 px-6 py-4 text-center">
         <p className="text-sm text-gray-600 m-0">
           Have more questions? 
-          <a href="/contact" className="text-blue-600 hover:underline ml-1 font-medium">
+          <a href="/contact" className="text-amber-700 hover:underline ml-1 font-medium">
             Contact us →
           </a>
         </p>

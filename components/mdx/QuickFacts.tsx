@@ -75,14 +75,14 @@ export default function QuickFacts({
           {resolvedFacts.map((fact, index) => (
             <div 
               key={index}
-              className="bg-gradient-to-br from-blue-600 to-indigo-700 rounded-xl p-5 text-white shadow-lg hover:shadow-xl transition-shadow"
+              className="bg-gradient-to-br from-stone-700 to-stone-800 rounded-xl p-5 text-white shadow-lg hover:shadow-xl transition-shadow"
             >
               <div className="flex items-start justify-between">
                 <div>
-                  <p className="text-blue-200 text-sm font-medium mb-1">{fact.label}</p>
+                  <p className="text-stone-300 text-sm font-medium mb-1">{fact.label}</p>
                   <p className="text-2xl font-bold">{fact.value}</p>
                   {fact.note && (
-                    <p className="text-blue-200 text-xs mt-2">{fact.note}</p>
+                    <p className="text-stone-300 text-xs mt-2">{fact.note}</p>
                   )}
                 </div>
                 {fact.icon && (
@@ -99,7 +99,7 @@ export default function QuickFacts({
   // Default variant
   return (
     <div className="my-8 bg-white rounded-2xl border-2 border-gray-200 overflow-hidden shadow-lg">
-      <div className="bg-gradient-to-r from-blue-600 to-indigo-600 px-6 py-4">
+      <div className="bg-stone-800 px-6 py-4">
         <h3 className="text-xl font-bold text-white m-0 p-0 border-none flex items-center gap-2">
           <span>📋</span> {title}
         </h3>
@@ -109,7 +109,7 @@ export default function QuickFacts({
         {resolvedFacts.map((fact, index) => (
           <div 
             key={index}
-            className="p-5 hover:bg-gray-50 transition-colors group"
+            className="p-5 hover:bg-amber-50 transition-colors group"
           >
             <div className="flex items-start gap-4">
               {fact.icon && (

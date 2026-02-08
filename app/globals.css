@@ -2,12 +2,12 @@
 
 /* Custom Design System for Korea Experience */
 :root {
-  /* Premium Color Palette - Medical & Beauty */
-  --color-primary: #2563eb; /* Professional Blue */
-  --color-primary-dark: #1e40af;
-  --color-primary-light: #dbeafe;
-  --color-secondary: #06b6d4; /* Accent Cyan */
-  --color-accent: #8b5cf6; /* Premium Purple */
+  /* Premium Color Palette - Warm Korean Aesthetic */
+  --color-primary: #d97706; /* Amber-600 */
+  --color-primary-dark: #b45309;
+  --color-primary-light: #fef3c7;
+  --color-secondary: #ea580c; /* Orange-600 */
+  --color-accent: #f59e0b; /* Amber-500 */
   
   /* Neutral Palette */
   --color-gray-50: #f9fafb;
@@ -43,12 +43,12 @@ body {
 
 /* Selection Styling */
 ::selection {
-  @apply bg-blue-600 text-white;
+  @apply bg-amber-600 text-white;
 }
 
 /* Focus Styles */
 *:focus-visible {
-  @apply outline-none ring-2 ring-blue-500 ring-offset-2 rounded;
+  @apply outline-none ring-2 ring-amber-500 ring-offset-2 rounded;
 }
 
 /* Headings */
@@ -81,11 +81,11 @@ a {
 
 /* Custom Utilities */
 .gradient-primary {
-  background: linear-gradient(135deg, #2563eb 0%, #06b6d4 100%);
+  background: linear-gradient(135deg, #d97706 0%, #ea580c 100%);
 }
 
 .gradient-accent {
-  background: linear-gradient(135deg, #8b5cf6 0%, #ec4899 100%);
+  background: linear-gradient(135deg, #f59e0b 0%, #ea580c 100%);
 }
 
 .gradient-overlay {
@@ -94,7 +94,7 @@ a {
 
 .text-gradient {
   @apply bg-clip-text text-transparent;
-  background-image: linear-gradient(135deg, #2563eb 0%, #06b6d4 100%);
+  background-image: linear-gradient(135deg, #d97706 0%, #ea580c 100%);
 }
 
 .card-hover {
@@ -102,22 +102,22 @@ a {
 }
 
 .btn-primary {
-  @apply bg-blue-600 text-white px-6 py-3 rounded-lg font-semibold;
-  @apply hover:bg-blue-700 active:bg-blue-800;
+  @apply bg-amber-600 text-white px-6 py-3 rounded-lg font-semibold;
+  @apply hover:bg-amber-700 active:bg-amber-800;
   @apply transition-all duration-200 shadow-md hover:shadow-lg;
-  @apply focus:ring-2 focus:ring-blue-500 focus:ring-offset-2;
+  @apply focus:ring-2 focus:ring-amber-500 focus:ring-offset-2;
 }
 
 .btn-secondary {
-  @apply border-2 border-blue-600 text-blue-600 px-6 py-3 rounded-lg font-semibold;
-  @apply hover:bg-blue-50 active:bg-blue-100;
+  @apply border-2 border-amber-600 text-amber-600 px-6 py-3 rounded-lg font-semibold;
+  @apply hover:bg-amber-50 active:bg-amber-100;
   @apply transition-all duration-200;
-  @apply focus:ring-2 focus:ring-blue-500 focus:ring-offset-2;
+  @apply focus:ring-2 focus:ring-amber-500 focus:ring-offset-2;
 }
 
 .input-field {
   @apply w-full px-4 py-3 rounded-lg border border-gray-300;
-  @apply focus:border-blue-500 focus:ring-2 focus:ring-blue-200;
+  @apply focus:border-amber-500 focus:ring-2 focus:ring-amber-200;
   @apply transition-all duration-200;
   @apply placeholder:text-gray-400;
 }
@@ -149,7 +149,7 @@ a {
 }
 
 .prose a {
-  @apply text-blue-600 hover:text-blue-700 underline underline-offset-2;
+  @apply text-amber-700 hover:text-amber-800 underline underline-offset-2;
 }
 
 .prose strong {
@@ -161,7 +161,7 @@ a {
 }
 
 .prose blockquote {
-  @apply border-l-4 border-blue-500 pl-6 py-2 my-6 italic text-gray-600;
+  @apply border-l-4 border-amber-400 pl-6 py-2 my-6 italic text-gray-600;
 }
 
 .prose img {
@@ -201,7 +201,7 @@ a {
 
 /* Loading Spinner */
 .spinner {
-  @apply inline-block w-6 h-6 border-3 border-gray-300 border-t-blue-600 rounded-full;
+  @apply inline-block w-6 h-6 border-3 border-gray-300 border-t-amber-600 rounded-full;
   animation: spin 0.8s linear infinite;
 }
 
@@ -407,14 +407,14 @@ code.hljs {
 
 /* Action Buttons */
 .btn-download {
-  @apply px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 
-         text-white rounded-lg font-semibold hover:from-purple-700 
-         hover:to-pink-700 transition-all duration-200 hover:scale-105;
+  @apply px-6 py-3 bg-gradient-to-r from-amber-600 to-orange-600 
+         text-white rounded-lg font-semibold hover:from-amber-700 
+         hover:to-orange-700 transition-all duration-200 hover:scale-105;
 }
 
 .btn-reset {
-  @apply px-6 py-3 bg-white border-2 border-purple-600 text-purple-600 
-         rounded-lg font-semibold hover:bg-purple-50 transition-all;
+  @apply px-6 py-3 bg-white border-2 border-amber-600 text-amber-600 
+         rounded-lg font-semibold hover:bg-amber-50 transition-all;
 }
 
 .btn-secondary {
@@ -436,11 +436,11 @@ code.hljs {
 }
 
 .progress-bar-fill {
-  @apply h-full bg-purple-600 transition-all duration-300;
+  @apply h-full bg-amber-600 transition-all duration-300;
 }
 
 .progress-bar-fill.bg-gradient {
-  @apply bg-gradient-to-r from-purple-600 to-pink-600;
+  @apply bg-gradient-to-r from-amber-600 to-orange-600;
 }
 
 /* Toast Animations */
