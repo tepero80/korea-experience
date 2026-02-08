@@ -4,6 +4,14 @@ date: 2026-01-14
 excerpt: "Discover the secrets of Korean body care, from 15-step scalp spas to traditional milk scrubs. Learn routine steps, costs, and best products for 2026."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "14 min read"
+featured: false
 ---
 
 Korean body care is a holistic, multi-step discipline that treats the skin on the body with the same reverence as the face, utilizing a combination of rigorous exfoliation (seshin), specialized hydration layers, and advanced dermatological treatments to achieve a "glass skin" effect from head to toe. While K-Beauty for the face focuses on glow and pores, body care in Korea prioritizes texture refinement, circulation, and barrier repair, often involving professional treatments like scalp scaling and body botox alongside daily home rituals.
@@ -12,7 +20,7 @@ Korean body care is a holistic, multi-step discipline that treats the skin on th
 
 <KeyTakeaways 
   points={[
-    "Traditional 'Seshin' (body scrubbing) is the foundation of Korean body care, usually costing 25,000 KRW at local bathhouses.",
+    "Traditional 'Seshin' (body scrubbing) is the foundation of Korean body care, usually costing ₩25,000 at local bathhouses.",
     "Scalp scaling is now a mainstream treatment, essential for hair health, with sessions lasting 60-90 minutes.",
     "Body hydration follows facial skincare rules, utilizing essences, chemically exfoliating washes, and ceramide-rich creams.",
     "Inner beauty supplements (collagen and glutathione) are considered the final step of the routine."

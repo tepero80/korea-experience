@@ -4,6 +4,14 @@ date: 2026-01-21
 excerpt: "Explore the fascinating journey of Korean webtoons transforming into global K-drama sensations."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "15 min read"
+featured: false
 ---
 
 # The Epic Journey: Korean Webtoon to K-Drama Adaptations Timeline

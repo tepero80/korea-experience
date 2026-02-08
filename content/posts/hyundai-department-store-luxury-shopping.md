@@ -4,6 +4,14 @@ date: 2026-01-11
 excerpt: "The complete guide to The Hyundai Seoul, Apgujeong, and Trade Center stores. Discover luxury brands, tax refunds, and VIP services for travelers in 2026."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "14 min read"
+featured: false
 ---
 
 For international travelers and luxury connoisseurs, shopping at Hyundai Department Store offers an experience that transcends mere retail; it is a deep dive into Korea's sophisticated consumer culture, architectural innovation, and premium hospitality. Whether you are hunting for global luxury houses like Hermès and Chanel or seeking the trendiest K-fashion pop-ups, Hyundai’s portfolio of stores dominates the Seoul retail landscape.
@@ -119,9 +127,9 @@ One of the biggest incentives for shopping at Hyundai Department Store is the se
 ### Understanding the System
 Korea operates two main refund types: **"Immediate Duty-Free"** (discount applied at the register) and **"Tax Refund"** (pay full price, get money back at a kiosk/airport). Hyundai Department Store excels at the latter.
 
-*   **Minimum Purchase:** ₩30,000 KRW (approx. $23 USD).
+*   **Minimum Purchase:** ₩₩30,000 (approx. $23 USD).
 *   **Refund Rate:** Approximately 6-7% of the purchase price, depending on the bracket.
-*   **Immediate Refund Limit:** Up to ₩500,000 KRW per transaction can be refunded instantly at the store, with a total trip limit of ₩2,500,000 KRW.
+*   **Immediate Refund Limit:** Up to ₩₩500,000 per transaction can be refunded instantly at the store, with a total trip limit of ₩₩2,500,000.
 
 <StepGuide
   title="How to Claim Tax Refunds at Hyundai"

@@ -1,9 +1,17 @@
 ---
 title: "K-beauty ingredients deep dive: mugwort propolis and heartleaf 2026"
 date: 2026-01-12
-excerpt: "We analyze the top soothing ingredients of 2026: Mugwort, Propolis, and Heartleaf. Discover which 30,000 KRW serum best suits your skin type."
+excerpt: "We analyze the top soothing ingredients of 2026: Mugwort, Propolis, and Heartleaf. Discover which ₩30,000 serum best suits your skin type."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "13 min read"
+featured: false
 ---
 
 If you have walked into an Olive Young in Myeongdong or Seongsu-dong lately, you might have noticed that the shelves are no longer dominated solely by snail mucin or chemically exfoliants. In 2026, the K-Beauty landscape has firmly pivoted back to *Hanbang* (traditional Korean herbal medicine) roots, specifically focusing on barrier repair and soothing inflammation. The three heavyweights dominating the market this year are Mugwort (Artemisia), Propolis, and Heartleaf (Houttuynia Cordata). But with hundreds of ampoules, toners, and masks featuring these star ingredients, understanding which one specifically targets your skin concerns—whether it be fungal acne, dehydration, or rosacea—is crucial before you open your wallet.

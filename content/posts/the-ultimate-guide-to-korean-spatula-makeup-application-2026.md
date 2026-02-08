@@ -4,6 +4,14 @@ date: 2026-02-01
 excerpt: "Master the 2026 Korean spatula makeup trend for glass skin. Learn the 90-degree technique, best tools under ₩20,000, and Olive Young shopping tips."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "13 min read"
+featured: false
 ---
 
 For anyone chasing the elusive "glass skin" look that defines K-Beauty in 2026, the makeup spatula (or "spatula technique") is the single most transformative tool you can add to your kit.
@@ -56,7 +64,7 @@ Wakemake, an Olive Young house brand, offers a fantastic alternative. Their 2026
 *   **Price:** ₩11,000 (approx. $8.50 USD) - often on sale for ₩8,900.
 *   **Best For:** Travelers on a budget who want high quality.
 
-### 3. The Daiso Duel: The "5,000 Won" Wonder
+### 3. The Daiso Duel: The "₩5,000" Wonder
 Yes, even Daiso Korea has entered the chat with a luxury-tier dupe. While the steel is slightly thinner and the edges less rounded (meaning you must be gentler), it is an incredible value at just ₩5,000 ($3.80 USD).
 
 <PriceTable

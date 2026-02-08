@@ -4,18 +4,26 @@ date: 2026-01-17
 excerpt: "Discover where to buy modern Hanok decor in Seoul. From handmade Soban tables ($150) to minimalist ceramics, find the best artisan shops and shipping tips."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "13 min read"
+featured: false
 ---
 
 Finding authentic Korean home decor that blends traditional aesthetics with modern functionality can be challenging for international visitors. You might see beautiful *Soban* tables in cafes or minimalist ceramics in K-Dramas, but finding where to purchase them—and how to get them home—is a different story.
 
-**The short answer: To buy Modern Hanok style decor, head to the quiet side streets of Anguk-dong and Bukchon for high-end artisan crafts, visit the KCDF Gallery in Insadong for certified quality goods, or shop at JAJU (often called the "Korean Muji") for affordable mass-market items. Expect to pay between 150,000 KRW ($110 USD) for a small wooden table and roughly 50,000 KRW ($35 USD) for quality ceramic-ware.**
+**The short answer: To buy Modern Hanok style decor, head to the quiet side streets of Anguk-dong and Bukchon for high-end artisan crafts, visit the KCDF Gallery in Insadong for certified quality goods, or shop at JAJU (often called the "Korean Muji") for affordable mass-market items. Expect to pay between ₩150,000 ($110 USD) for a small wooden table and roughly ₩50,000 ($35 USD) for quality ceramic-ware.**
 
 <KeyTakeaways 
   points={[
     "Samcheong-dong and Anguk are the prime districts for high-end, artisan decor shops",
     "JAJU is the best budget-friendly chain for modern Korean minimalist homeware",
-    "EMS shipping rates for furniture average 20,000 KRW per kg to North America",
-    "Authentic Soban tables range from 150,000 to 800,000 KRW depending on wood type"
+    "EMS shipping rates for furniture average ₩20,000 per kg to North America",
+    "Authentic Soban tables range from 150,000 to ₩800,000 depending on wood type"
   ]}
   readTime={15}
   lastUpdated="2026-02-08"
@@ -60,7 +68,7 @@ While the main street of Insadong can feel touristy, the side alleys and the are
 />
 
 <InfoBox type="tip" title="Pro Tip: Tax Refunds">
-  Many higher-end shops in Insadong and Gangnam offer immediate tax refunds for purchases over 30,000 KRW. Always carry your physical passport when shopping for high-value decor items.
+  Many higher-end shops in Insadong and Gangnam offer immediate tax refunds for purchases over ₩30,000. Always carry your physical passport when shopping for high-value decor items.
 </InfoBox>
 
 ### 2. Samcheong-dong: The Boutique Artisan Experience
@@ -107,9 +115,9 @@ The *Soban* is perhaps the most iconic piece of Korean furniture. Traditionally 
 
 ### Korean Ceramics: The Moon Jar
 
-The Moon Jar (*Dal-hangari*) is a white porcelain jar that resembles a full moon. It represents purity and modesty. While an original from a master can cost upwards of 10,000,000 KRW ($7,500 USD), many modern ceramicists make smaller, affordable versions.
+The Moon Jar (*Dal-hangari*) is a white porcelain jar that resembles a full moon. It represents purity and modesty. While an original from a master can cost upwards of ₩10,000,000 ($7,500 USD), many modern ceramicists make smaller, affordable versions.
 
-Look for "Buncheong" ware as well—a grayish-blue ceramic with white slip that looks earthy and modern. A good Buncheong mug usually costs around 30,000 to 45,000 KRW ($22-$33 USD).
+Look for "Buncheong" ware as well—a grayish-blue ceramic with white slip that looks earthy and modern. A good Buncheong mug usually costs around 30,000 to ₩45,000 ($22-$33 USD).
 
 ### Bojagi (Traditional Wrapping Cloths)
 
@@ -118,7 +126,7 @@ If you are tight on luggage space, *Bojagi* is the perfect purchase. These are s
 *   **Ramie (Mosi):** Translucent, stiff, and airy. Perfect for summer vibes.
 *   **Silk:** Luxurious and colorful.
 
-You can find excellent Bojagi at **Dongdaemun Shopping Complex** (5th floor) for a fraction of the price of boutique stores. Expect to pay about 8,000 to 15,000 KRW per yard for fabric, or 25,000 KRW for a finished piece.
+You can find excellent Bojagi at **Dongdaemun Shopping Complex** (5th floor) for a fraction of the price of boutique stores. Expect to pay about 8,000 to ₩15,000 per yard for fabric, or ₩25,000 for a finished piece.
 
 <ExpertTip 
   author="Min-ji Park"
@@ -164,8 +172,8 @@ Buying a table is easy; getting it to New York or London is the hard part. Here 
 
 ### Korea Post (EMS)
 For items under 30kg (approx 66 lbs) and under certain dimensions (length + girth < 3 meters), Korea Post EMS is reliable and relatively fast (3-7 days).
-*   **Cost:** Sending a 10kg box to the USA costs approximately 130,000 - 150,000 KRW ($100-$115 USD).
-*   **Process:** You can use the Korea Post app or visit any local post office. Most boxes and packing materials are sold on-site for under 2,000 KRW.
+*   **Cost:** Sending a 10kg box to the USA costs approximately 130,000 - ₩150,000 ($100-$115 USD).
+*   **Process:** You can use the Korea Post app or visit any local post office. Most boxes and packing materials are sold on-site for under ₩2,000.
 
 ### Private Cargo Services
 If you buy a large piece of furniture, like a vintage wooden chest (*Bandaji*), you cannot use the post office. You will need a freight forwarder. The antique street in **Dapsimni** has specialized shippers who handle crating and customs.
@@ -240,7 +248,7 @@ Remember that the best items are often found by wandering slightly off the main 
   title="Frequently Asked Questions"
   items={[
     { question: "Can I bring plants or seeds back from Korea for decor?", answer: "Generally, no. Most countries (USA, UK, Australia, EU) strictly prohibit bringing soil, live plants, or seeds without complex phytosanitary certificates. Stick to dried flower art or artificial plants." },
-    { question: "Is it safe to ship ceramics via EMS?", answer: "Yes, if packed correctly. Korean post office staff are experts at packing. However, always buy insurance for items over 100,000 KRW. The breakage rate is low, but not zero." },
+    { question: "Is it safe to ship ceramics via EMS?", answer: "Yes, if packed correctly. Korean post office staff are experts at packing. However, always buy insurance for items over ₩100,000. The breakage rate is low, but not zero." },
     { question: "Where can I buy a traditional Korean mattress (Yo)?", answer: "You can find these at Gwangjang Market in the bedding section. They are bulky, but many shops there are accustomed to vacuum-packing them for travelers." },
     { question: "Do these shops accept credit cards?", answer: "Yes, 99% of shops in Seoul, even small ones, accept Visa and Mastercard. However, for a better price (sometimes a 5-10% discount), offering cash is a common practice in smaller artisan boutiques." },
     { question: "What is the difference between celadon and white porcelain?", answer: "Celadon (Goryeo dynasty style) is jade-green and often features complex inlays. White porcelain (Joseon dynasty style) is minimalist, white, and austere. Modern Hanok style usually favors white porcelain." }

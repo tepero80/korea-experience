@@ -4,6 +4,14 @@ date: 2026-01-14
 excerpt: "A definitive guide to the K-Beauty retail landscape in 2026. We compare Olive Young dominance with the legacy of Lalavla and new luxury rivals like Chicor."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "12 min read"
+featured: false
 ---
 
 If you are planning a trip to Korea in 2026 with the intention of stocking up on skincare, you have likely come across two major names in your research: Olive Young and Lalavla. For over a decade, these two retailers were the primary combatants in the "drugstore wars" of South Korea. However, the landscape has shifted dramatically.
@@ -65,8 +73,8 @@ If you are building a routine, check out our [guide to the 10-step Korean skinca
 ### Pricing and The "Big Bang" Sales
 One area where Olive Young shines is its aggressive promotional calendar. Products are rarely sold at full MSRP (Manufacturer's Suggested Retail Price).
 
-*   **Average Sheet Mask Price:** 1,000 KRW to 4,000 KRW ($0.75 - $3.00 USD).
-*   **Average Serum Price:** 20,000 KRW to 35,000 KRW ($15 - $26 USD).
+*   **Average Sheet Mask Price:** ₩1,000 to ₩4,000 ($0.75 - $3.00 USD).
+*   **Average Serum Price:** ₩20,000 to ₩35,000 ($15 - $26 USD).
 
 <ExpertTip 
   author="Minji Kim"
@@ -154,7 +162,7 @@ Travelers often underestimate how quickly small purchases add up. A basket of "c
 One major advantage that Olive Young has perfected is the **Immediate Tax Refund** system. In the past, you had to keep your receipts and visit a kiosk at the airport. Now, the discount is applied directly at the register.
 
 ### How Immediate Tax Refund Works
-As of 2026, the minimum purchase amount for a tax refund has been lowered to **15,000 KRW** (approx. $11 USD) to encourage spending.
+As of 2026, the minimum purchase amount for a tax refund has been lowered to **₩15,000** (approx. $11 USD) to encourage spending.
 
 <StepGuide
   title="How to Get Immediate Tax Refund"
@@ -162,7 +170,7 @@ As of 2026, the minimum purchase amount for a tax refund has been lowered to **1
   difficulty="easy"
   steps={[
     { title: "Bring Your Passport", description: "You physically need your original passport. Photos or copies are rarely accepted at the register." },
-    { title: "Spend Over 15,000 KRW", description: "Ensure your pre-tax total is at least 15,000 KRW. The maximum for immediate refund is usually 500,000 KRW per transaction." },
+    { title: "Spend Over ₩15,000", description: "Ensure your pre-tax total is at least ₩15,000. The maximum for immediate refund is usually ₩500,000 per transaction." },
     { title: "Ask the Cashier", description: "Before they scan items, say 'Tax Free, please' and hand over your passport." },
     { title: "Pay the Net Price", description: "The VAT (approx 6-7% effective return) is deducted instantly. You pay the discounted amount." }
   ]}
@@ -187,7 +195,7 @@ While Olive Young is everywhere, not all stores are created equal. The stock var
 <QuickFacts
   title="Shopping Logistics"
   facts={[
-    { label: "Bag Cost", value: "100-200 KRW", icon: "🛍️" },
+    { label: "Bag Cost", value: "100-₩200", icon: "🛍️" },
     { label: "Open Hours", value: "10am - 10:30pm", icon: "⏰" },
     { label: "Payment", value: "Cards & Cash", icon: "💳" }
   ]}

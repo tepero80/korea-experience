@@ -4,6 +4,14 @@ date: 2026-01-30
 excerpt: "Compare Starfield COEX and Suwon malls in 2026. Find the best K-fashion, Aqufield spas, and the iconic Starfield Library. Prices and transport info included."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "13 min read"
+featured: false
 ---
 
 Starfield Mall represents the pinnacle of the modern Korean "shopping theme park" concept, a destination where retail therapy meets cultural immersion, gourmet dining, and high-energy entertainment. For international travelers in 2026, the brand is synonymous with the iconic Starfield Library—specifically the original at COEX Mall in Seoul and the newer, grander version in Starfield Suwon. However, navigating these massive complexes requires insider knowledge to distinguish between the tourist-heavy COEX, the trend-setting Suwon, and the family-centric Hanam and Goyang branches.
@@ -61,7 +69,7 @@ In 2026, the library continues to host light shows after sunset (usually 7:00 PM
 />
 
 ### COEX Aquarium and Cinema
-Beyond books, COEX houses a Megabox cinema with boutique suites and the COEX Aquarium. The aquarium hosts 40,000 sea creatures across 183 display tanks. Tickets in 2026 average 33,000 KRW for adults, though discounts are often available for foreigners via travel apps.
+Beyond books, COEX houses a Megabox cinema with boutique suites and the COEX Aquarium. The aquarium hosts 40,000 sea creatures across 183 display tanks. Tickets in 2026 average ₩33,000 for adults, though discounts are often available for foreigners via travel apps.
 
 For a deep dive into navigating this underground maze, read our [complete guide to COEX Mall shopping and dining](/blog/coex-mall-complete-shopping-and-dining-guide).
 
@@ -77,7 +85,7 @@ The best angle for the Suwon Starfield Library is from the 6th-floor balcony loo
 </InfoBox>
 
 ### Vinyl Suwon
-Exclusive to the Suwon branch is "Vinyl," a trendy LP café where you can select a record, put on headphones, and enjoy a coffee while overlooking the library. The entrance fee includes a drink and is typically around 18,500 KRW per person. It is a quintessential Korean "healing" experience.
+Exclusive to the Suwon branch is "Vinyl," a trendy LP café where you can select a record, put on headphones, and enjoy a coffee while overlooking the library. The entrance fee includes a drink and is typically around ₩18,500 per person. It is a quintessential Korean "healing" experience.
 
 <ComparisonTable
   title="COEX vs. Suwon: Which to Visit?"
@@ -96,9 +104,9 @@ Exclusive to the Suwon branch is "Vinyl," a trendy LP café where you can select
 Starfield malls are structured to maximize dwell time. You won't just find luxury brands; the focus is heavily on "accessible premium" and domestic Korean brands that are gaining global traction.
 
 ### K-Fashion Must-Visits
-1.  **A-Land:** Found in both COEX and Hanam, this is a multi-brand concept store featuring up-and-coming Korean designers. Prices range from 30,000 KRW to 150,000 KRW per item. It’s perfect for unique streetwear.
-2.  **8Seconds:** Samsung C&T’s answer to H&M or Zara, but with fits designed specifically for Asian body types. Expect to pay 40,000 to 80,000 KRW for trendy outerwear.
-3.  **Musinsa Standard:** While Musinsa started online, their offline stores in Starfield locations are wildly popular for minimalist basics (slacks, blazers) at aggressive price points (e.g., slacks for 39,000 KRW).
+1.  **A-Land:** Found in both COEX and Hanam, this is a multi-brand concept store featuring up-and-coming Korean designers. Prices range from ₩30,000 to ₩150,000 per item. It’s perfect for unique streetwear.
+2.  **8Seconds:** Samsung C&T’s answer to H&M or Zara, but with fits designed specifically for Asian body types. Expect to pay 40,000 to ₩80,000 for trendy outerwear.
+3.  **Musinsa Standard:** While Musinsa started online, their offline stores in Starfield locations are wildly popular for minimalist basics (slacks, blazers) at aggressive price points (e.g., slacks for ₩39,000).
 
 ### K-Beauty Havens
 While you can find individual brand stores like Innisfree or Etude, the real draws are the mega-editors:
@@ -147,10 +155,10 @@ For those interested in more adrenaline-fueled activities beyond the mall, consi
 Starfield divides its dining into two zones: "Gourmet Street" (ground floor, restaurant style) and "EATopia" (top floor, upscale food court).
 
 ### Best Eats in Starfield (General)
-1.  **Hyundai Ok (현대옥):** Famous for Jeonju-style bean sprout soup (Kongnamul Gukbap). A hangover cure and a hearty breakfast for roughly 11,000 KRW.
-2.  **Gatden Sushi:** A conveyor belt sushi chain that always has a line. Plates range from 2,000 KRW to 8,000 KRW.
+1.  **Hyundai Ok (현대옥):** Famous for Jeonju-style bean sprout soup (Kongnamul Gukbap). A hangover cure and a hearty breakfast for roughly ₩11,000.
+2.  **Gatden Sushi:** A conveyor belt sushi chain that always has a line. Plates range from ₩2,000 to ₩8,000.
 3.  **London Bagel Museum (Suwon):** The Suwon branch hosts this viral bagel shop. Warning: The waiting list opens at 10:00 AM, and slots often fill by 11:00 AM.
-4.  **Knotted Donut:** Famous for cream-filled donuts (approx. 3,500 - 4,000 KRW).
+4.  **Knotted Donut:** Famous for cream-filled donuts (approx. 3,500 - ₩4,000).
 
 <InfoBox type="warning" title="Queue Management">
 Popular restaurants in Starfield use a tablet queuing system (CatchTable or Tableling). You input your Korean phone number to get a queue number. If you don't have a Korean SIM, ask the staff to input a placeholder number, but you must stay close by to hear your number called.
@@ -188,7 +196,7 @@ If you are an expat living in Korea or a traveler with a rental car, Hanam and G
 
 ### Tax Refunds
 Starfield Malls are excellent for Tax-Free shopping.
-*   **Immediate Refund:** Many stores (Olive Young, A-Land, Uniqlo) offer immediate tax deduction at the register if you present your passport. The purchase must be between 30,000 KRW and 500,000 KRW.
+*   **Immediate Refund:** Many stores (Olive Young, A-Land, Uniqlo) offer immediate tax deduction at the register if you present your passport. The purchase must be between ₩30,000 and ₩500,000.
 *   **Kiosk Refund:** If you paid full price, look for the "Tax Refund Kiosks" usually located near the Customer Service Center or major exits. You scan your passport and receipts to get cash back or a credit refund.
 
 <StepGuide
@@ -196,15 +204,15 @@ Starfield Malls are excellent for Tax-Free shopping.
   totalTime="15 minutes"
   difficulty="easy"
   steps={[
-    { title: "Shop", description: "Spend over 30,000 KRW at a participating store.", tip: "Ask 'Tax Free?' before paying." },
+    { title: "Shop", description: "Spend over ₩30,000 at a participating store.", tip: "Ask 'Tax Free?' before paying." },
     { title: "Collect Receipts", description: "Keep the specific tax-free receipt given by the cashier." },
     { title: "Find Kiosk", description: "Locate the kiosk (usually near Information Desk). Scan passport, then scan receipts." },
-    { title: "Airport", description: "If the refund amount is large (over 75,000 KRW refund value), you may need to scan receipts again at the airport customs." }
+    { title: "Airport", description: "If the refund amount is large (over ₩75,000 refund value), you may need to scan receipts again at the airport customs." }
   ]}
 />
 
 ### Lockers and Luggage
-*   **COEX:** Tons of lockers throughout the mall. Small lockers are often free or very cheap (1,000 KRW). Large luggage lockers are near the City Airport Terminal section.
+*   **COEX:** Tons of lockers throughout the mall. Small lockers are often free or very cheap (₩1,000). Large luggage lockers are near the City Airport Terminal section.
 *   **Suwon/Hanam:** Lockers are available but fill up quickly on weekends.
 
 ### Stroller and Wheelchair Rental

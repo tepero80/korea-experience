@@ -4,6 +4,14 @@ date: 2026-01-27
 excerpt: "Discover the best delivery apps and healing foods for post-surgery recovery in Seoul. From pumpkin juice to premium porridge, here is your 2026 guide."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Shopping"
+  - "Medical Tourism"
+  - "Travel Tips"
+readTime: "15 min read"
+featured: false
 ---
 
 Finding nutritious, soft, and healing food while recovering from surgery in a foreign country can be the most stressful part of the medical tourism journey. In Seoul, the most efficient way to secure post-surgery recovery meals in 2026 is through the "Big Two" delivery applications: **Baedal Minjok (Baemin)** and **Coupang Eats**. While Baemin offers the widest variety of local vendors (over 200,000 listings in Seoul), Coupang Eats provides a superior English-friendly interface and real-time GPS tracking. For patients unable to navigate apps, specialized concierge services and hotel room service remain viable, albeit more expensive, alternatives.
@@ -48,7 +56,7 @@ Navigating Korean apps can be daunting due to language barriers and complex iden
 ### Coupang Eats: The Traveler's Choice
 Coupang Eats is widely considered the best option for tourists in 2026. Unlike its competitors, it offers a substantial portion of its interface in English (if your phone's system language is English). It accepts international credit cards more reliably than other platforms.
 
-*   **Average Delivery Fee:** 2,000 KRW to 4,000 KRW ($1.50 - $3.00 USD).
+*   **Average Delivery Fee:** ₩2,000 to ₩4,000 ($1.50 - $3.00 USD).
 *   **Speed:** Extremely fast; "Cheetah Delivery" often arrives in under 20 minutes.
 *   **Tracking:** Real-time GPS tracking of the driver, similar to Uber Eats.
 
@@ -63,7 +71,7 @@ Baemin holds the largest market share. While the UI is predominantly Korean, the
 Shuttle is a service specifically designed for the expat community. Everything is in perfect English, and their customer service speaks English.
 
 *   **Coverage:** Limited mostly to Seoul (Itaewon, Gangnam, Hongdae) and Pyeongtaek.
-*   **Cost:** Slightly higher menu prices and delivery fees (starting at 5,000 KRW).
+*   **Cost:** Slightly higher menu prices and delivery fees (starting at ₩5,000).
 *   **Reliability:** 100% success rate with foreign cards.
 
 <ComparisonTable
@@ -84,9 +92,9 @@ When ordering delivery for recovery, you aren't just looking for "food"; you are
 ### 1. Juk (Traditional Korean Porridge)
 *Juk* is the cornerstone of Korean patient food. It is rice slow-cooked with water or stock until it breaks down into a smooth, easily digestible texture. It is ideal for patients who cannot chew heavily due to jaw or facial surgery.
 
-*   **Abalone Porridge (Jeonbok-juk):** Rich in protein and minerals, considered a stamina food. Average price: 12,000 KRW.
-*   **Pumpkin Porridge (Hobak-juk):** Sweet and smooth, excellent for reducing swelling. Average price: 9,000 KRW.
-*   **Beef and Vegetable Porridge (Sogogi-yachae-juk):** A balanced meal with iron and vitamins. Average price: 10,000 KRW.
+*   **Abalone Porridge (Jeonbok-juk):** Rich in protein and minerals, considered a stamina food. Average price: ₩12,000.
+*   **Pumpkin Porridge (Hobak-juk):** Sweet and smooth, excellent for reducing swelling. Average price: ₩9,000.
+*   **Beef and Vegetable Porridge (Sogogi-yachae-juk):** A balanced meal with iron and vitamins. Average price: ₩10,000.
 
 <InfoBox type="tip" title="Ordering Tip">
   When ordering Juk via apps, you can often customize the consistency. Look for options like "Grind completely" (Gal-a-juseyo) if you are on a liquid-only diet post-jaw surgery.
@@ -96,7 +104,7 @@ When ordering delivery for recovery, you aren't just looking for "food"; you are
 If you walk into any pharmacy in Gangnam, you will see boxes of pumpkin juice. It is famously used to reduce post-surgical swelling (edema). It is not a "juice" in the Western sense but a medicinal extract.
 
 *   **Taste:** Earthy, slightly sweet, distinct.
-*   **How to buy:** You can order boxes of 30 pouches via "B-Mart" (Baemin's grocery service) or Coupang Fresh for roughly 25,000 KRW ($19 USD).
+*   **How to buy:** You can order boxes of 30 pouches via "B-Mart" (Baemin's grocery service) or Coupang Fresh for roughly ₩25,000 ($19 USD).
 *   **Usage:** Most patients drink 2-3 pouches daily.
 
 For more insights on traditional dietary approaches, check our guide on [best Korean healing foods for surgery recovery](/blog/best-korean-healing-foods-for-surgery-recovery).
@@ -105,7 +113,7 @@ For more insights on traditional dietary approaches, check our guide on [best Ko
 For those in the later stages of recovery who need protein, *Samgyetang* is a whole young chicken stuffed with glutinous rice, ginseng, garlic, and jujube. The meat is boiled until it falls off the bone, requiring almost no chewing.
 
 *   **Nutritional Value:** High protein, collagen-rich broth.
-*   **Average Price:** 16,000 - 20,000 KRW per serving.
+*   **Average Price:** 16,000 - ₩20,000 per serving.
 
 ## Best Restaurant Chains to Search For
 
@@ -115,7 +123,7 @@ Instead of gambling on unknown restaurants, stick to these established chains th
 The Starbucks of porridge in Korea. There is one on almost every block in Seoul.
 *   **Why it's great:** Consistent quality, hygienic packaging, and customizable salt/grind levels.
 *   **Must-try:** Premium Abalone Porridge (Teuk-Jeonbok-juk) with 2x abalone.
-*   **Price Range:** 10,000 KRW - 24,000 KRW.
+*   **Price Range:** ₩10,000 - ₩24,000.
 
 <LocationCard
   name="Bonjuk & Bibimbap Cafe (Gangnam Station)"
@@ -135,7 +143,7 @@ The Starbucks of porridge in Korea. There is one on almost every block in Seoul.
 While these are bakeries, they offer excellent soup and salad options for light recovery meals.
 *   **Menu Items:** Mushroom soup, sweet pumpkin soup, soft milk bread (shokupan).
 *   **Accessibility:** Extremely high; available on all apps.
-*   **Price Range:** Soups cost roughly 4,000 - 6,000 KRW.
+*   **Price Range:** Soups cost roughly 4,000 - ₩6,000.
 
 ### Sul-bing (For Cooling)
 If your doctor recommends cold foods to reduce swelling or soothe the throat (common after tonsil or throat procedures), *Sul-bing* offers finely shaved milk ice.
@@ -165,8 +173,8 @@ Sometimes you don't need a full meal; you need water, yogurt, protein shakes, or
 ### B-Mart (via Baemin App)
 B-Mart is a dark-store grocery service. It is incredibly fast (often 30-45 minutes).
 *   **Best for:** 2L Water bottles (crucial for hydration), Greek yogurt, bananas, soft tofu, and instant porridge pouches.
-*   **Minimum Order:** Usually 10,000 KRW.
-*   **Delivery Fee:** Free for orders over 30,000 KRW; otherwise ~3,000 KRW.
+*   **Minimum Order:** Usually ₩10,000.
+*   **Delivery Fee:** Free for orders over ₩30,000; otherwise ~₩3,000.
 
 ### Convenience Store Delivery (CU, GS25)
 Both Coupang Eats and Baemin allow you to order from local convenience stores.

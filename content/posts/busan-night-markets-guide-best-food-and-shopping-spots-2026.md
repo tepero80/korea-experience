@@ -4,6 +4,14 @@ date: 2026-01-04
 excerpt: "Discover the best Busan night markets in 2026. From Bupyeong Kkangtong's street food to Haeundae's seafood, find prices, hours, and transport tips."
 category: Travel & Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "15 min read"
+featured: false
 ---
 
 If you are looking for the absolute best night market experience in Busan for 2026, the clear winner is the Bupyeong Kkangtong Night Market. While the city offers several evening hotspots, Kkangtong provides the most concentrated variety of international and Korean street foods, operating daily from 19:30 to 23:30 with over 30 dedicated food stalls packed into a 110-meter alleyway.
@@ -14,7 +22,7 @@ If you are looking for the absolute best night market experience in Busan for 20
   points={[
     "Bupyeong Kkangtong is the only permanent night market open daily from 7:30 PM",
     "Bring cash (KRW) as many small stalls do not accept foreign credit cards",
-    "Most street food items cost between 3,000 and 6,000 KRW in 2026"
+    "Most street food items cost between 3,000 and ₩6,000 in 2026"
   ]}
   readTime={15}
   lastUpdated="2026-02-08"
@@ -69,7 +77,7 @@ The variety here is staggering. In 2026, the trend has shifted slightly towards 
 **Navigation Tip:** The market is crowded. The rule of thumb is to keep moving. If you stop to eat, tuck yourself between the stalls to avoid blocking the flow of traffic. There are trash bins located at the ends of the arcade—do not leave trash on the vendors' counters.
 
 <InfoBox type="warning" title="Cash is King">
-While some larger stalls in 2026 accept WOWPASS or credit cards, nearly 70% of the mobile carts at Kkangtong still prefer or require cash. Always carry at least 50,000 KRW in small denominations (1,000 and 5,000 bills) per person.
+While some larger stalls in 2026 accept WOWPASS or credit cards, nearly 70% of the mobile carts at Kkangtong still prefer or require cash. Always carry at least ₩50,000 in small denominations (1,000 and 5,000 bills) per person.
 </InfoBox>
 
 ### 2. BIFF Square (Busan International Film Festival Square)

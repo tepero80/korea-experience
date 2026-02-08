@@ -4,6 +4,14 @@ date: 2026-01-14
 excerpt: "Comprehensive guide to paying for medical procedures in Korea."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "15 min read"
+featured: false
 ---
 
 Most international travelers visiting Korean clinics can pay using major international credit cards (Visa, Mastercard), cash (Korean Won or USD), or wire transfers. However, coverage by international insurance is rare for outpatient cosmetic procedures, meaning you will likely pay upfront and claim reimbursement later. Importantly, tourists are eligible for a **10% VAT tax refund** on cosmetic surgeries if the clinic is a registered medical tourism provider.
@@ -59,7 +67,7 @@ Cash remains king in the medical tourism districts.
 *   **The "Cash Discount":** It is an open secret that paying in cash can sometimes yield a discount. Clinics save on credit card processing fees (2-3%) and may pass that savings to you. However, ensure you still receive a receipt.
 
 ### 3. Wire Transfers
-For major surgeries (orthopedic, comprehensive plastic surgery) costing over 5,000,000 KRW ($3,800 USD), clinics often prefer wire transfers beforehand to secure the booking.
+For major surgeries (orthopedic, comprehensive plastic surgery) costing over ₩5,000,000 ($3,800 USD), clinics often prefer wire transfers beforehand to secure the booking.
 *   **Swift Transfers:** Traditional bank transfers take 3-5 business days. You must cover the "intermediary bank fees" so the clinic receives the full amount.
 *   **Fintech Apps (Wise/Remitly):** These are increasingly accepted and offer much better exchange rates than traditional banks. However, you need the clinic's specific business registration number to process these transfers in Korea.
 
@@ -81,7 +89,7 @@ One of the biggest financial incentives for getting procedures done in Korea is 
 To qualify, you must meet **all** the following criteria:
 1.  You are a foreigner (non-resident) staying in Korea for less than 6 months.
 2.  The clinic is registered with the Ministry of Health and Welfare as a "Medical Tourism Institution."
-3.  The medical expense exceeds 30,000 KRW (approx. $23 USD).
+3.  The medical expense exceeds ₩30,000 (approx. $23 USD).
 4.  You depart Korea within 3 months of the procedure.
 
 ### Covered Procedures
@@ -96,7 +104,7 @@ Not all medicine is tax-free. The refund specifically targets *cosmetic* and *ae
   steps={[
     { title: "Pay & Request Slip", description: "After paying the full amount (including VAT) at the clinic, present your passport and request the 'Certificate of Selling Medical Service for Overseas Patient' (Tax Refund Slip).", tip: "Check that your name matches your passport exactly." },
     { title: "Airport Kiosk", description: "At Incheon or Gimpo Airport, go to the Tax Refund Kiosks (usually near Customs or Gate 27/28). Scan your passport and the refund slip." },
-    { title: "Customs Inspection", description: "For refunds under 75,000 KRW, the kiosk processes it automatically. For larger amounts, you may need a customs officer to stamp your receipt." },
+    { title: "Customs Inspection", description: "For refunds under ₩75,000, the kiosk processes it automatically. For larger amounts, you may need a customs officer to stamp your receipt." },
     { title: "Receive Cash", description: "Go to the refund counter to receive your cash in KRW, USD, or have it refunded to your credit card." }
   ]}
 />
@@ -111,14 +119,14 @@ The insurance landscape in Korea is strictly divided between residents and visit
 Most Korean clinics do **not** do direct billing with international insurance companies (e.g., Cigna Global, Aetna International), with the exception of the International Healthcare Centers at "Big 5" hospitals (Asan, Samsung, Seoul National, Severance, St. Mary's).
 
 *   **Process:** You must pay the full bill upfront out-of-pocket.
-*   **Documentation:** The clinic will provide an English invoice and a detailed medical report (sometimes for a fee of 10,000 - 20,000 KRW).
+*   **Documentation:** The clinic will provide an English invoice and a detailed medical report (sometimes for a fee of 10,000 - ₩20,000).
 *   **Claim:** You submit these documents to your insurer back home for reimbursement.
 *   **Exclusions:** Travel insurance almost never covers elective cosmetic procedures (Botox, Lasik, Plastic Surgery). It covers accidents and acute illnesses.
 
 ### 2. National Health Insurance Service (NHIS) (For Residents)
 If you are living in Korea on a visa (E-2, F-4, F-6, etc.) for more than 6 months, enrollment in the NHIS is mandatory.
-*   **Cost:** The average monthly premium for foreigners is roughly 150,000 KRW ($115 USD) as of 2026, though this varies by income and visa type.
-*   **Coverage:** NHIS covers roughly 50-80% of medical costs. A doctor's visit might cost you only 5,000 KRW ($4 USD) out of pocket.
+*   **Cost:** The average monthly premium for foreigners is roughly ₩150,000 ($115 USD) as of 2026, though this varies by income and visa type.
+*   **Coverage:** NHIS covers roughly 50-80% of medical costs. A doctor's visit might cost you only ₩5,000 ($4 USD) out of pocket.
 *   **Dental:** Basic dental (scaling once a year, extractions) is covered. Implants are generally not covered for those under 65.
 
 <ComparisonTable
@@ -129,11 +137,13 @@ If you are living in Korea on a visa (E-2, F-4, F-6, etc.) for more than 6 month
     { feature: "Eligibility", option1: "Tourists", option2: "Residents (>6 mo)" },
     { feature: "Cosmetic Surgery", option1: "No", option2: "No" },
     { feature: "Dental Basic", option1: "Emergency Only", option2: "Yes" },
-    { feature: "Monthly Cost", option1: "$50-100 (varies)", option2: "~150,000 KRW" }
+    { feature: "Monthly Cost", option1: "$50-100 (varies)", option2: "~₩150,000" }
   ]}
 />
 
 For expats settling in, our article on [Credit Cards in Korea: Which Banks Accept Foreigners](/blog/credit-cards-in-korea-which-banks-accept-foreigners) is essential reading for setting up your financial life to pay these premiums.
+
+</ComparisonTable>
 
 ## Deposits and Cancellation Refunds
 
@@ -200,7 +210,7 @@ Many tourists use agencies (like Docfinderkorea, Eunogo, etc.) to book appointme
 ### 1. Currency Exchange Strategy
 Do not exchange all your money at your home airport; the rates are terrible.
 *   **Best Rate:** Exchange a small amount ($100) at Incheon Airport for transport, then exchange the rest at money changers in Myeongdong or Insadong. The spread there is often less than 1%.
-*   **ATMs:** Global ATMs are everywhere (look for the "Global" sign). The withdrawal limit is usually 1,000,000 KRW ($760) per transaction and 6,000,000 KRW ($4,600) per day.
+*   **ATMs:** Global ATMs are everywhere (look for the "Global" sign). The withdrawal limit is usually ₩1,000,000 ($760) per transaction and ₩6,000,000 ($4,600) per day.
 
 ### 2. Using Pre-paid Cards
 Services like **NAMANE** or **WOWPASS** are incredibly popular in 2026. You can load these cards with foreign currency cash, and they act like a local Korean debit card. This is excellent for paying for smaller treatments (facials, skincare) without incurring multiple foreign transaction fees on your home credit card.

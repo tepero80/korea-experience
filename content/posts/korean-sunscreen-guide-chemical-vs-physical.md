@@ -4,6 +4,14 @@ date: 2026-01-20
 excerpt: "A comprehensive guide to Korean chemical vs physical sunscreens. Compare SPF ratings, ingredients, and prices (₩15,000+) to find your perfect match in 2026."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "14 min read"
+featured: false
 ---
 
 Understanding the difference between Korean chemical and physical sunscreens is the first step to mastering the famous "glass skin" routine. If you are shopping at Olive Young or browsing Duty-Free at Incheon Airport, the sheer volume of options can be overwhelming.

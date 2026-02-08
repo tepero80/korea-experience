@@ -1,20 +1,28 @@
 ---
 title: "Korea tax refund guide for tourists: Immediate and airport claims 2026"
 date: 2026-01-31
-excerpt: "Save up to 10% on shopping in Korea. Learn the 2026 tax refund rules, including the new 30,000 KRW minimum and 1M KRW immediate refund limit per item."
+excerpt: "Save up to 10% on shopping in Korea. Learn the 2026 tax refund rules, including the new ₩30,000 minimum and 1M KRW immediate refund limit per item."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "14 min read"
+featured: false
 ---
 
-Getting a tax refund in South Korea is one of the most effective ways to stretch your travel budget, offering you a refund of approximately 6% to 9% on your purchases after service fees. The system applies to almost all tangible goods purchased at participating "Tax Free" stores when you spend a minimum of **30,000 KRW** (approximately $22 USD) in a single transaction. There are two primary ways to claim this money back: the **Immediate Tax Refund**, where the tax is deducted instantly at the cashier (the most convenient method), and the **Airport/Port Refund**, where you collect your money at your point of departure.
+Getting a tax refund in South Korea is one of the most effective ways to stretch your travel budget, offering you a refund of approximately 6% to 9% on your purchases after service fees. The system applies to almost all tangible goods purchased at participating "Tax Free" stores when you spend a minimum of **₩30,000** (approximately $22 USD) in a single transaction. There are two primary ways to claim this money back: the **Immediate Tax Refund**, where the tax is deducted instantly at the cashier (the most convenient method), and the **Airport/Port Refund**, where you collect your money at your point of departure.
 
-**The short answer: To claim a tax refund in Korea, you must present your physical passport at checkout for purchases over 30,000 KRW. You can either get an instant deduction at participating stores (up to 1,000,000 KRW per item) or scan your receipts at airport kiosks before departing to receive cash or a card refund.**
+**The short answer: To claim a tax refund in Korea, you must present your physical passport at checkout for purchases over ₩30,000. You can either get an instant deduction at participating stores (up to ₩1,000,000 per item) or scan your receipts at airport kiosks before departing to receive cash or a card refund.**
 
 <KeyTakeaways 
   points={[
-    "Minimum spend is 30,000 KRW per transaction to qualify",
-    "Immediate refund limit is 1,000,000 KRW per purchase (raised in 2026)",
-    "Total trip immediate refund limit is 5,000,000 KRW",
+    "Minimum spend is ₩30,000 per transaction to qualify",
+    "Immediate refund limit is ₩1,000,000 per purchase (raised in 2026)",
+    "Total trip immediate refund limit is ₩5,000,000",
     "You must have your physical passport with you while shopping",
     "Goods must leave Korea within 3 months of purchase"
   ]}
@@ -38,9 +46,9 @@ You qualify for a tax refund if you fall into one of these categories:
   title="2026 Refund Limits"
   variant="gradient"
   stats={[
-    { value: "30,000 KRW", label: "Min. Spend", icon: "🛒" },
-    { value: "1,000,000 KRW", label: "Max Immediate Item", icon: "💳" },
-    { value: "5,000,000 KRW", label: "Max Total Immediate", icon: "💰" }
+    { value: "₩30,000", label: "Min. Spend", icon: "🛒" },
+    { value: "₩1,000,000", label: "Max Immediate Item", icon: "💳" },
+    { value: "₩5,000,000", label: "Max Total Immediate", icon: "💰" }
   ]}
   source="Korea Customs Service 2026"
 />
@@ -59,7 +67,7 @@ The "Immediate Tax Refund" system is the most traveler-friendly option. Introduc
 
 ### How it Works
 1.  Find a store with the "Tax Free" or "Tax Refund" logo (Global Blue, Global Tax Free, Easy Tax Free).
-2.  Select items totaling at least **30,000 KRW**.
+2.  Select items totaling at least **₩30,000**.
 3.  Present your passport to the cashier *before* the transaction begins.
 4.  The cashier scans your passport.
 5.  The payment terminal automatically subtracts the VAT.
@@ -71,8 +79,8 @@ The "Immediate Tax Refund" system is the most traveler-friendly option. Introduc
 
 ### 2026 Limits for Immediate Refunds
 The government has raised the limits to make shopping easier:
-*   **Per Purchase:** Up to **1,000,000 KRW** (previously 500,000 KRW).
-*   **Total for Trip:** Up to **5,000,000 KRW** (previously 2,500,000 KRW).
+*   **Per Purchase:** Up to **₩1,000,000** (previously ₩500,000).
+*   **Total for Trip:** Up to **₩5,000,000** (previously ₩2,500,000).
 
 If you exceed these limits, you must pay the full price (including tax) and claim the refund at the airport (Method 3).
 
@@ -110,7 +118,7 @@ This is the catch-all method for any purchases that didn't qualify for immediate
     },
     { 
       title: "Step 2: Customs Kiosk (Landside)", 
-      description: "Go to the Oversized Baggage counter or Customs Declaration desk. Scan your passport and receipts at the kiosk. If purchases are under 75,000 KRW, no inspection is usually needed. If prompted, show goods to the customs officer.", 
+      description: "Go to the Oversized Baggage counter or Customs Declaration desk. Scan your passport and receipts at the kiosk. If purchases are under ₩75,000, no inspection is usually needed. If prompted, show goods to the customs officer.", 
     },
     { 
       title: "Step 3: Drop Bags", 
@@ -189,11 +197,11 @@ Even experienced travelers make mistakes. Here is how to avoid them.
 This is the most common error.
 *   **Scenario:** You pack your new coat in your suitcase, check it in at the airline counter, and *then* go to the tax refund kiosk.
 *   **Problem:** The customs officer might demand to see the item. If you can't show it (because it's on the plane), they can deny the refund.
-*   **Solution:** Always scan receipts at the landside kiosk *before* dropping your bag. If the machine flags a receipt for inspection (usually for high-value items >75,000 KRW), the officer is right there.
+*   **Solution:** Always scan receipts at the landside kiosk *before* dropping your bag. If the machine flags a receipt for inspection (usually for high-value items >₩75,000), the officer is right there.
 
 ### 2. The "Combined Receipt" Trap
-You cannot combine receipts from different days to meet the 30,000 KRW minimum.
-*   **Rule:** The minimum spend of 30,000 KRW applies to a *single* receipt.
+You cannot combine receipts from different days to meet the ₩30,000 minimum.
+*   **Rule:** The minimum spend of ₩30,000 applies to a *single* receipt.
 *   **Exception:** Some large department stores (Lotte, Shinsegae) allow you to combine receipts from different counters *within the same store on the same day* by visiting their Customer Service center before you leave the building.
 
 ### 3. Missing the 3-Month Window
@@ -302,7 +310,7 @@ Whether you are buying the latest K-Beauty trends or investing in a designer han
     "Integrated kiosks at Incheon simplify processing"
   ]}
   cons={[
-    "Strict 30,000 KRW minimum per receipt",
+    "Strict ₩30,000 minimum per receipt",
     "Service fees reduce the 10% VAT to approx 7%",
     "Airport queues can be long during peak seasons",
     "Must carry physical passport everywhere"

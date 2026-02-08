@@ -4,6 +4,14 @@ date: 2026-01-27
 excerpt: "Comprehensive guide to mental health resources for medical tourists in Korea. Find English-speaking counselors, recovery centers, and costs in 2026."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "14 min read"
+featured: false
 ---
 
 Finding psychological support for post-surgery depression in foreign patients in Korea involves a combination of pre-arranged hospital services, private English-speaking counseling centers, and specialized recovery accommodations. As of 2026, the Korean medical tourism industry has integrated mental wellness into physical recovery packages, recognizing that "post-op blues" affect approximately 30-40% of international patients. Immediate support is available through International Healthcare Centers at major university hospitals, private therapy practices in foreign-friendly districts like Itaewon and Gangnam, and digital telehealth platforms designed specifically for short-term visitors.

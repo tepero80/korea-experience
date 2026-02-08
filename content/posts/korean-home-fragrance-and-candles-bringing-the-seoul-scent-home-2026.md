@@ -4,6 +4,14 @@ date: 2026-01-17
 excerpt: "Discover the top Korean candle brands and fragrance shops in Seoul. From Granhand to Tamburins, find the perfect scent souvenir. Prices start at ₩15,000."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "18 min read"
+featured: false
 ---
 
 In the bustling streets of Seoul, the olfactory experience has become just as important as the visual one. By 2026, the Korean home fragrance market has evolved into a global phenomenon, moving far beyond simple air fresheners into the realm of high-art lifestyle objects. Whether you are walking through the trendy alleys of Seongsu-dong or the quiet, winding paths of Bukchon Hanok Village, the scent of Korea is distinct—often characterized by woody notes, wet earth, mugwort (ssuk), and subtle citrus. For travelers, bringing these scents home is the ultimate way to combat post-trip blues.
@@ -219,6 +227,8 @@ Korean retail service is exceptional, but there are unwritten rules in fragrance
   cons={["Glass containers are heavy and fragile for luggage", "Liquids >100ml require checked baggage", "Some niche brands have limited stock"]}
   variant="cards"
 />
+
+</ProsCons>
 
 ## Conclusion
 

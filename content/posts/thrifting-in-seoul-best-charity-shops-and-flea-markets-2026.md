@@ -4,6 +4,14 @@ date: 2026-02-01
 excerpt: "Discover the best thrifting in Seoul for 2026. From Dongmyo's $1 piles to Seongsu's vintage boutiques, find hidden gems and luxury brands for under ₩50,000."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "13 min read"
+featured: false
 ---
 
 Searching for vintage Burberry coats for under $30 or unique Y2K fashion pieces that no one else has? Seoul’s thrifting scene has exploded in 2026, shifting from a niche hobby for the elderly to a massive trend among Gen Z and eco-conscious travelers. The best thrifting in Seoul is found in the chaotic piles of Dongmyo Flea Market, the curated racks of Gwangjang Market’s vintage arcade, and the organized charity shops like The Beautiful Store scattered across the city.

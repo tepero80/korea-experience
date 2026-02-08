@@ -4,11 +4,19 @@ date: 2026-01-24
 excerpt: "A complete guide to securing medical second opinions in Seoul's top hospitals. Costs, required documents, and booking steps for 2026 travelers."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Shopping"
+  - "Medical Tourism"
+  - "Travel Tips"
+readTime: "16 min read"
+featured: false
 ---
 
 Getting a medical second opinion in Seoul involves contacting the International Healthcare Center (IHC) of a tertiary hospital, submitting your existing medical records (specifically DICOM files for imaging and a doctor's referral letter), and scheduling a consultation which can often be arranged within 1 to 2 weeks. Seoul's medical infrastructure allows international patients to bypass standard domestic wait times through dedicated tracks, utilizing top-tier institutions like Asan Medical Center or Samsung Medical Center where English, Russian, Arabic, and Chinese interpretation services are integrated into the booking process.
 
-**The short answer: You must book through an International Healthcare Center at a major university hospital, bring your medical records on a USB drive (DICOM format), and expect to pay between 150,000 KRW and 350,000 KRW ($110-$260 USD) for the initial consultation.**
+**The short answer: You must book through an International Healthcare Center at a major university hospital, bring your medical records on a USB drive (DICOM format), and expect to pay between ₩150,000 and ₩350,000 ($110-$260 USD) for the initial consultation.**
 
 <KeyTakeaways 
   points={[
@@ -188,7 +196,7 @@ As of 2026, the landscape of telemedicine in Korea has evolved. While strict law
 
 Several major hospitals now offer "Remote Second Opinion" services via video call.
 *   **The Process:** You upload your DICOM files to a secure hospital portal.
-*   **The Cost:** Slightly lower than in-person, typically around 150,000 KRW - 250,000 KRW.
+*   **The Cost:** Slightly lower than in-person, typically around ₩150,000 - ₩250,000.
 *   **The Deliverable:** A written report in English and a 15-20 minute video call with the professor.
 
 This is an excellent option if you are unsure whether travel to Korea is necessary. You can pay for the remote opinion first; if the doctor suggests a treatment that is only available in Seoul, you can then plan the trip.

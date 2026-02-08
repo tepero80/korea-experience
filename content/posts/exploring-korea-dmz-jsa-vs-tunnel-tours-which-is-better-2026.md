@@ -4,6 +4,14 @@ date: 2026-01-07
 excerpt: "Compare DMZ Tunnel tours ($50) vs JSA Panmunjom ($120). Discover the best Korean border experience, booking rules, and passport requirements for 2026."
 category: Travel & Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "15 min read"
+featured: false
 ---
 
 Deciding between a standard DMZ (Demilitarized Zone) tour that includes the Third Infiltration Tunnel and the more elusive JSA (Joint Security Area) Panmunjom tour is the most common dilemma for travelers visiting Korea in 2026.
@@ -64,7 +72,7 @@ The highlight is the tunnel itself. It is located 73 meters (240 feet) undergrou
 The walk back up is strenuous. It is a steady, steep incline that leaves many visitors out of breath. There is a monorail option for those with limited mobility, but tickets for the monorail are limited and often sell out immediately upon the ticket office opening at 9:00 AM.
 
 ### Dora Observatory
-Included in this tour is the Dora Observatory. In 2026, the observatory features high-powered digital binoculars (some free, some coin-operated at 500 KRW). From here, you can clearly see the North Korean propaganda village of Kijong-dong, the Kaesong Industrial Complex, and the bronze statue of Kim Il-sung on a clear day. The distance to Kijong-dong is only about 1.2 kilometers.
+Included in this tour is the Dora Observatory. In 2026, the observatory features high-powered digital binoculars (some free, some coin-operated at ₩500). From here, you can clearly see the North Korean propaganda village of Kijong-dong, the Kaesong Industrial Complex, and the bronze statue of Kim Il-sung on a clear day. The distance to Kijong-dong is only about 1.2 kilometers.
 
 ### Dorasan Station
 This is the northernmost railway station in South Korea, completed in 2002. It stands empty, waiting for the day trains might run to Pyongyang (205km away) and eventually onto the Trans-Siberian Railway. It is a hauntingly beautiful, modern, yet silent facility.

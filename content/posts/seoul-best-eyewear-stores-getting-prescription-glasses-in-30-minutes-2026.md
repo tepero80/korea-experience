@@ -4,9 +4,17 @@ date: 2026-01-28
 excerpt: "Get prescription glasses in Seoul in 20 minutes for under $50. Our 2026 guide covers Davich, Namdaemun market, and luxury brands with prices and locations."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "13 min read"
+featured: false
 ---
 
-Getting prescription glasses in Seoul is arguably one of the most efficient and satisfying shopping experiences a traveler can have in 2026. Yes, it is entirely possible—and standard practice—to walk into an optical store, have a comprehensive eye exam, pick out stylish frames, and walk out with fully fitted prescription lenses in under 30 minutes. The average cost for a complete pair of high-quality glasses with blue-light blocking lenses in Seoul is between 50,000 KRW ($38 USD) and 120,000 KRW ($90 USD), which is roughly 60-80% cheaper than comparable prices in North America or Western Europe.
+Getting prescription glasses in Seoul is arguably one of the most efficient and satisfying shopping experiences a traveler can have in 2026. Yes, it is entirely possible—and standard practice—to walk into an optical store, have a comprehensive eye exam, pick out stylish frames, and walk out with fully fitted prescription lenses in under 30 minutes. The average cost for a complete pair of high-quality glasses with blue-light blocking lenses in Seoul is between ₩50,000 ($38 USD) and ₩120,000 ($90 USD), which is roughly 60-80% cheaper than comparable prices in North America or Western Europe.
 
 **The short answer: Visit large chains like Davich Optical or the wholesale district of Namdaemun Market for the fastest service (20-30 minutes) and best prices ($40-$100 total), while trendy spots like Gentle Monster offer style but require longer wait times for prescription fitting.**
 
@@ -67,7 +75,7 @@ If you have a very high astigmatism or a prescription stronger than -8.00, it mi
 If you are nervous about bargaining or want a guaranteed standard of service, franchise chains are your best bet. They offer fixed pricing models so you know exactly what you are paying.
 
 ### Davich Optical (Myeongdong & Nationwide)
-Davich is the "Starbucks" of Korean eyewear. They are famous for their "1/3/5/7/9" pricing system. This means frames are categorized into sections costing 10,000, 30,000, 50,000, 70,000, and 90,000 KRW. You pick a frame from a section, and you know the price instantly.
+Davich is the "Starbucks" of Korean eyewear. They are famous for their "1/3/5/7/9" pricing system. This means frames are categorized into sections costing 10,000, 30,000, 50,000, 70,000, and ₩90,000. You pick a frame from a section, and you know the price instantly.
 
 <LocationCard
   name="Davich Optical Myeongdong"
@@ -83,7 +91,7 @@ Davich is the "Starbucks" of Korean eyewear. They are famous for their "1/3/5/7/
   tip="Go to the 2nd floor for the cafe while you wait."
 />
 
-At Davich, a basic set of lenses starts at roughly 20,000 KRW ($15). Even the highest tier locally made lenses rarely exceed 100,000 KRW ($75). They have a computerized record system, so if you visit another branch in Busan or Jeju later, they can pull up your records.
+At Davich, a basic set of lenses starts at roughly ₩20,000 ($15). Even the highest tier locally made lenses rarely exceed ₩100,000 ($75). They have a computerized record system, so if you visit another branch in Busan or Jeju later, they can pull up your records.
 
 ### Look Optical
 Marketed as a "fast fashion" eyewear brand, Look Optical stores are massive and often feature fun, oversized branding. Their slogan "Glasses are the face" reflects their fashion-forward approach. They are excellent for trendy, younger styles like clear frames or retro-aviators. They carry a huge variety of sizes, including XL and XXL frames which can sometimes be harder to find in traditional boutiques.
@@ -104,7 +112,7 @@ For the absolute best prices and the widest selection, you must visit Namdaemun 
 Unlike the fixed-price chains, Namdaemun allows for a bit of negotiation, especially if you are buying multiple pairs. For more on how to handle transactions here, read our guide on [bargaining culture in Korea](/blog/bargaining-culture-where-and-how-to-negotiate).
 
 ### Kookje Optical & Namdaemun Optical
-These are two long-standing pillars of the market. They carry everything from cheap 10,000 KRW frames to imported luxury brands like Lindberg, Cartier, and Chrome Hearts at prices significantly lower than department stores.
+These are two long-standing pillars of the market. They carry everything from cheap ₩10,000 frames to imported luxury brands like Lindberg, Cartier, and Chrome Hearts at prices significantly lower than department stores.
 
 **The Wholesale Advantage:** Because many lens manufacturers distribute directly to Namdaemun, the turnaround time here is lightning fast. You can often get glasses in 15-20 minutes. It is chaotic, loud, and energetic—a stark contrast to the clinical feel of a department store.
 
@@ -130,7 +138,7 @@ However, a critical distinction must be made: **Gentle Monster stores are genera
   variant="cards"
 />
 
-**Pro Strategy for Gentle Monster:** Buy the frames at the Gentle Monster showroom to ensure authenticity and get the tax refund. Then, take the frames to a local optician (like a Davich or a glass shop in Gangnam) to have prescription lenses fitted. They will charge you only for the lenses (approx. 40,000 - 60,000 KRW) and do it in 20 minutes.
+**Pro Strategy for Gentle Monster:** Buy the frames at the Gentle Monster showroom to ensure authenticity and get the tax refund. Then, take the frames to a local optician (like a Davich or a glass shop in Gangnam) to have prescription lenses fitted. They will charge you only for the lenses (approx. 40,000 - ₩60,000) and do it in 20 minutes.
 
 ### Tamburins and Nuance
 Emerging competitors to Gentle Monster are appearing in Seongsu-dong and Hannam-dong. These areas are great for finding unique, independent designer brands that haven't hit the global market yet. If you are exploring these neighborhoods, check our guide on [shopping districts](/blog/best-areas-to-stay-near-shopping-districts).
@@ -158,7 +166,7 @@ When you sit down to choose your lenses, the optician will show you a price list
 ### Mandatory Coatings
 In 2026, **Blue Light Blocking** (often called "Cheong-gwang" lenses in Korean) is standard. It filters out harmful light from phones and computers. Most shops include UV protection and scratch resistance by default.
 
-**Photochromic Lenses (Transitions):** These change from clear to dark in sunlight. In Korea, these are very affordable, adding only about 30,000 - 50,000 KRW to the bill, compared to a $150 surcharge in the US.
+**Photochromic Lenses (Transitions):** These change from clear to dark in sunlight. In Korea, these are very affordable, adding only about 30,000 - ₩50,000 to the bill, compared to a $150 surcharge in the US.
 
 ## Detailed Neighborhood Guide for Eyewear
 
@@ -194,7 +202,7 @@ While you can buy lenses easily, be aware of your home country's customs regulat
 ## Tax Refunds and Payments
 
 To maximize your savings, you must utilize the Tax Refund system.
-1.  **Immediate Refund:** Many large optical chains (like Davich Myeongdong) offer "Immediate Tax Refund." If you present your passport and the purchase is between 30,000 KRW and 500,000 KRW, they deduct the tax instantly from your bill.
+1.  **Immediate Refund:** Many large optical chains (like Davich Myeongdong) offer "Immediate Tax Refund." If you present your passport and the purchase is between ₩30,000 and ₩500,000, they deduct the tax instantly from your bill.
 2.  **Airport Refund:** Smaller shops will give you a receipt with a QR code. You scan this at the kiosks at Incheon Airport before departure to get your cash back.
 
 *   **Payment Methods:** International credit cards (Visa/Mastercard) are accepted everywhere. Apple Pay is becoming more common in 2026 but physical cards are still safer.
@@ -219,7 +227,7 @@ To maximize your savings, you must utilize the Tax Refund system.
   title="Frequently Asked Questions"
   items={[
     { question: "Do I need to bring my prescription from home?", answer: "No. Korean opticians can test your eyes on the spot for free. However, if you have a complex history, bringing your current prescription is helpful." },
-    { question: "Can I just replace lenses in my own frames?", answer: "Yes! This is a very popular service. Bring your old frames (or luxury frames bought elsewhere), and they will fit new lenses in 20 minutes for roughly 30,000 - 60,000 KRW." },
+    { question: "Can I just replace lenses in my own frames?", answer: "Yes! This is a very popular service. Bring your old frames (or luxury frames bought elsewhere), and they will fit new lenses in 20 minutes for roughly 30,000 - ₩60,000." },
     { question: "What about progressive lenses (multifocals)?", answer: "Progressive lenses typically take 3 to 7 days to manufacture because they are custom-made. They cannot be done in 30 minutes. Some shops offer international shipping for these." },
     { question: "Are the eye tests accurate?", answer: "Yes, Korean optometry equipment is world-class. The opticians are licensed professionals. The automated machines are extremely precise." },
     { question: "Can I bargain at optical stores?", answer: "At fixed-price chains like Davich, no. At independent stalls in Namdaemun Market, yes, especially if buying multiple pairs." }

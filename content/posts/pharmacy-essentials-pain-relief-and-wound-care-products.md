@@ -4,6 +4,14 @@ date: 2026-01-26
 excerpt: "The complete guide to buying pain relief and wound care in Korea. Prices, brands, and how to find 'Yakguk' pharmacies for travelers in 2026."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "14 min read"
+featured: false
 ---
 
 If you are currently experiencing pain or have a minor injury in Korea, you do not need a prescription for most standard painkillers, muscle patches, or wound care ointments. **Go to any store with a "Yak" (약) sign; pharmacists are generally helpful and many speak basic English.**

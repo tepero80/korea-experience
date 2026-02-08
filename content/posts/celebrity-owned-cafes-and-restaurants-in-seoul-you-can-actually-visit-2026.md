@@ -4,6 +4,14 @@ date: 2026-01-04
 excerpt: "Discover the top celebrity owned cafes and restaurants in Seoul for 2026. From K-Pop idol cafes to actor owned dining, get verified locations and prices."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Pop"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "12 min read"
+featured: false
 ---
 
 Seoul is not just the heart of the global Hallyu wave; it is a sprawling metropolis where the lines between fandom and fine dining blur. For international travelers and K-Culture enthusiasts, visiting a venue owned by a favorite idol or actor offers a tangible connection to the stars. However, the landscape of celebrity businesses is notoriously volatile. As we step into 2026, many iconic spots have changed hands or closed, while new, sophisticated venues have emerged.
@@ -15,7 +23,7 @@ Learn more in our comprehensive guide to [K-Drama Filming Locations You Can Actu
 <KeyTakeaways 
   points={[
     "Most celebrity venues are concentrated in Gangnam, Seongsu, and Hongdae districts",
-    "Average coffee prices at idol cafes run 6,000 to 9,000 KRW, roughly 20% higher than chains",
+    "Average coffee prices at idol cafes run 6,000 to ₩9,000, roughly 20% higher than chains",
     "Weekdays between 2 PM and 4 PM offer the lowest wait times for popular spots"
   ]}
   readTime={12}
@@ -65,7 +73,7 @@ Located in the bustling district of Seongsu-dong, often called the "Brooklyn of 
   tip="The best time to visit is weekday mornings before 11 AM to secure the window seats."
 />
 
-As of early 2026, the average price for an Iced Americano here is 5,500 KRW, while their signature cakes range from 7,500 to 9,000 KRW. The venue is approximately 50 meters from the subway exit, making it incredibly accessible. Unlike many cramped cafes, it offers reliable Wi-Fi and power outlets, making it a popular spot for digital nomads as well as fans.
+As of early 2026, the average price for an Iced Americano here is ₩5,500, while their signature cakes range from 7,500 to ₩9,000. The venue is approximately 50 meters from the subway exit, making it incredibly accessible. Unlike many cramped cafes, it offers reliable Wi-Fi and power outlets, making it a popular spot for digital nomads as well as fans.
 
 ### Mouse Rabbit (Yesung)
 While Haru & One Day offers industrial chic, Mouse Rabbit in Gwangjin-gu offers a cozy, subterranean hideaway vibe. Operated by Yesung and his brother, this cafe is famous for its "rabbit hole" basement seating.
@@ -74,7 +82,7 @@ While Haru & One Day offers industrial chic, Mouse Rabbit in Gwangjin-gu offers 
 Mouse Rabbit spans multiple floors including a basement. The stairs are steep and narrow, which may be difficult for travelers with large luggage or mobility issues.
 </InfoBox>
 
-The menu features a variety of seasonal drinks. Their "Summer Latte" (approx. 7,000 KRW) remains a bestseller. The cafe is located near Konkuk University, ensuring a youthful, vibrant crowd. It is about a 10-minute walk (600 meters) from Konkuk University Station, situated in a quieter residential alley.
+The menu features a variety of seasonal drinks. Their "Summer Latte" (approx. ₩7,000) remains a bestseller. The cafe is located near Konkuk University, ensuring a youthful, vibrant crowd. It is about a 10-minute walk (600 meters) from Konkuk University Station, situated in a quieter residential alley.
 
 ## 2. EXO Kai's Family Legacy: Kamong
 
@@ -94,7 +102,7 @@ Kamong is arguably one of the most famous idol-family-owned cafes in Seoul. Run 
   tip="Their waffles are massive. One order is enough for two people to share."
 />
 
-The cafe underwent a renovation in late 2024, adopting a stark, modern black-and-white theme. The star attraction is the waffle menu. A standard waffle set with ice cream costs approximately 16,000 KRW. While slightly pricier than average, the portion size justifies the cost. The cafe is roughly a 300-meter walk uphill from the main road, offering a quieter atmosphere than the main Gangnam strip.
+The cafe underwent a renovation in late 2024, adopting a stark, modern black-and-white theme. The star attraction is the waffle menu. A standard waffle set with ice cream costs approximately ₩16,000. While slightly pricier than average, the portion size justifies the cost. The cafe is roughly a 300-meter walk uphill from the main road, offering a quieter atmosphere than the main Gangnam strip.
 
 <ExpertTip 
   author="Sarah Kim"
@@ -112,7 +120,7 @@ Actors tend to invest in full-service restaurants rather than cafes. These spots
 ### 401 Restaurant (Haha & Kim Jong Kook)
 Owned by running Man stars Haha and Kim Jong Kook, this BBQ joint is a rite of passage for variety show fans. They have multiple branches, but the Hongdae location remains the most energetic.
 
-The restaurant specializes in Jeju black pork. A standard serving (150g-180g) of pork belly costs around 19,000 KRW in 2026. This is competitive for the Hongdae area, where premium BBQ often exceeds 22,000 KRW per serving.
+The restaurant specializes in Jeju black pork. A standard serving (150g-180g) of pork belly costs around ₩19,000 in 2026. This is competitive for the Hongdae area, where premium BBQ often exceeds ₩22,000 per serving.
 
 <QuickFacts
   title="401 Restaurant Essentials"
@@ -127,7 +135,7 @@ The restaurant specializes in Jeju black pork. A standard serving (150g-180g) of
 ### Hongcheol Chaekpang (Noh Hong-chul)
 Noh Hong-chul, known for his eccentric personality, brings that exact energy to his bakery-cafe, Hongcheol Chaekpang. Located in Huam-dong near Seoul Station, this venue is a hybrid of a bakery and a bookstore.
 
-The interior features a giant golden face of the owner—you literally cannot miss it. The bread is baked fresh daily, with items selling out by 3:00 PM. Access involves a walk up a steep hill (approx. 15 minutes from the subway), or a quick taxi ride costing about 4,800 KRW from Seoul Station.
+The interior features a giant golden face of the owner—you literally cannot miss it. The bread is baked fresh daily, with items selling out by 3:00 PM. Access involves a walk up a steep hill (approx. 15 minutes from the subway), or a quick taxi ride costing about ₩4,800 from Seoul Station.
 
 <ComparisonTable
   title="Celebrity Food Spots Comparison"
@@ -147,7 +155,7 @@ The Korean Hip-Hop scene has heavily invested in the "American Casual" dining se
 ### Teisty Burger (Tei)
 Ballad singer Tei, known for his voracious appetite and culinary skills, runs Teisty Burger in the Hongdae area. Unlike many celebrity spots that rely on fame, this burger joint has earned a 4.5/5 rating on local map apps purely for taste.
 
-The "Egg-mani Burger" (Egg-heavy burger) is the signature dish, featuring a fluffy brioche bun and scrambled eggs. Prices range from 8,500 KRW to 12,000 KRW for a burger. It is a small shop, seating only about 20 people, so visiting during off-peak hours (3:00 PM - 5:00 PM) is advisable.
+The "Egg-mani Burger" (Egg-heavy burger) is the signature dish, featuring a fluffy brioche bun and scrambled eggs. Prices range from ₩8,500 to ₩12,000 for a burger. It is a small shop, seating only about 20 people, so visiting during off-peak hours (3:00 PM - 5:00 PM) is advisable.
 
 <StepGuide
   title="How to Order at K-Celeb Restaurants"
@@ -163,7 +171,7 @@ The "Egg-mani Burger" (Egg-heavy burger) is the signature dish, featuring a fluf
 ### The Famous Burger (Loco)
 Rapper Loco's joint, The Famous Burger (TFB), has locations in Hongdae and Sinsa. It captures the AOMG hip-hop vibe perfectly. On Friday and Saturday nights, the Sinsa branch often features DJ sets.
 
-A set meal including fries and a drink costs approximately 16,000 KRW. The venue is open until 10:00 PM on weekends, making it a great pre-clubbing dinner spot.
+A set meal including fries and a drink costs approximately ₩16,000. The venue is open until 10:00 PM on weekends, making it a great pre-clubbing dinner spot.
 
 ## 5. Strategic Itinerary: The Ultimate "Star Tour"
 
@@ -183,7 +191,7 @@ Here is an optimized one-day route that minimizes travel time and maximizes expe
 
 ## 6. Budgeting for Your Visit
 
-Seoul in 2026 is becoming increasingly expensive, and celebrity premiums do exist. While a standard cafe latte in Seoul averages 4,500 KRW, celebrity cafes average 6,000 KRW.
+Seoul in 2026 is becoming increasingly expensive, and celebrity premiums do exist. While a standard cafe latte in Seoul averages ₩4,500, celebrity cafes average ₩6,000.
 
 <PriceTable
   title="Fan Tour Budget Breakdown (Per Person)"
@@ -195,7 +203,7 @@ Seoul in 2026 is becoming increasingly expensive, and celebrity premiums do exis
 />
 
 <InfoBox type="warning" title="Merchandise Warning">
-Many celebrity cafes sell exclusive tumblers, mugs, or beans. These items often sell out within hours of restocking. If you want merch, verify stock on their official Instagram pages before traveling. Prices for a tumbler can range from 35,000 KRW to 50,000 KRW.
+Many celebrity cafes sell exclusive tumblers, mugs, or beans. These items often sell out within hours of restocking. If you want merch, verify stock on their official Instagram pages before traveling. Prices for a tumbler can range from ₩35,000 to ₩50,000.
 </InfoBox>
 
 ## 7. Insider Tips and Etiquette

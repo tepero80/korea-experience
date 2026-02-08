@@ -4,6 +4,14 @@ date: 2026-01-29
 excerpt: "Your 2026 guide to finding Korean designer brands at DDP. Discover Doota Mall, the Design Lab, and hidden showrooms with prices and opening hours."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "12 min read"
+featured: false
 ---
 
 If you are looking for local Korean designer brands at Dongdaemun Design Plaza (DDP) in 2026, you will find the highest concentration of curated retail stores in the **DDP Design Store** (located within the Design Lab) and the **Doota Mall** directly across the street. While the surrounding wholesale markets (like APM and nu:zon) operate primarily at night for bulk buyers, DDP and Doota offer retail-friendly shopping experiences for individual travelers, featuring rising stars of Seoul Fashion Week and high-quality "Made in Korea" goods from 10:30 AM to midnight.
@@ -15,7 +23,7 @@ If you are looking for local Korean designer brands at Dongdaemun Design Plaza (
     "Doota Mall is the primary retail hub for 100+ local designer clothing brands",
     "The DDP Design Store specializes in goods by top Seoul-based industrial designers",
     "Retail shopping hours represent a dualism: DDP closes at 9 PM, Doota stays open until midnight",
-    "Tax refunds are instant at Doota kiosks for purchases over 30,000 KRW"
+    "Tax refunds are instant at Doota kiosks for purchases over ₩30,000"
   ]}
   readTime={15}
   lastUpdated="2026-02-08"

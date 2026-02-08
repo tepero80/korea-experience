@@ -4,6 +4,14 @@ date: 2026-02-01
 excerpt: "Worried about ghost surgery in Korea? Here is the complete 2026 guide to verifying your surgeon, utilizing CCTV laws, and avoiding factory clinics safely."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "13 min read"
+featured: false
 ---
 
 A "shadow doctor" (or ghost surgeon) is a substitute practitioner who performs surgery on a sedated patient after the hired, famous surgeon leaves the operating room. For international patients traveling to South Korea for medical procedures in 2026, this remains the single biggest anxiety, despite the country's world-class reputation for aesthetic excellence. While the vast majority of Korean surgeons are ethical and highly skilled, the "factory clinic" model still exists, prioritizing volume over patient safety.
@@ -228,7 +236,7 @@ By verifying your doctor's board certification, avoiding factory-style assembly 
   items={[
     { question: "Is ghost surgery still common in Korea in 2026?", answer: "It has decreased significantly due to the mandatory CCTV laws implemented in late 2023, but it still exists in unethical high-volume 'factory' clinics. Vigilance is still required." },
     { question: "Can I copy the CCTV footage to my phone?", answer: "Generally, no. Due to privacy laws protecting the medical staff, you are usually permitted to view the footage at the clinic in a secure room, but taking a digital copy home often requires a police warrant or a lawsuit." },
-    { question: "How much does it cost to check the CCTV?", answer: "Clinics are allowed to charge a processing fee for preparing the viewing room and blurring other staff faces if necessary. This usually costs between 20,000 to 50,000 KRW ($15-$40 USD)." },
+    { question: "How much does it cost to check the CCTV?", answer: "Clinics are allowed to charge a processing fee for preparing the viewing room and blurring other staff faces if necessary. This usually costs between 20,000 to ₩50,000 ($15-$40 USD)." },
     { question: "What is the website to check if a doctor is a specialist?", answer: "You can check the 'Korean Society of Plastic and Reconstructive Surgeons' website at prskorea.co.kr. They have an English 'Search Surgeon' function." },
     { question: "Do university hospitals do plastic surgery for tourists?", answer: "Yes. University hospitals (like Asan, Samsung, or SNU Hospital) are the safest options regarding ghost surgery (virtually zero risk), but they are significantly more expensive and may focus more on reconstructive rather than purely cosmetic aesthetics." }
   ]}

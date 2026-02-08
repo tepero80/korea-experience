@@ -4,6 +4,14 @@ date: 2026-02-01
 excerpt: "Discover the 7-step Korean glass hair routine for 2026. A complete guide to scalp scaling, water treatments, and top products starting at ₩18,000."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "12 min read"
+featured: false
 ---
 
 Achieving "Glass Hair"—that intensely reflective, liquid-smooth texture seen on K-Pop idols and in K-Dramas—is not merely about using a flat iron; it is the result of a meticulous regimen focused on scalp health and hydration layering. In 2026, the trend has evolved from simple styling to the "skinification" of hair, treating the scalp with the same rigor as the face using acids, essences, and ampoules.

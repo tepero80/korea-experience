@@ -4,6 +4,14 @@ date: 2026-01-07
 excerpt: "Maximize your travel budget with this guide to duty free and tax refunds in Korea."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "14 min read"
+featured: false
 ---
 
 Duty free shopping in Korea is a dual-system landscape consisting of "Duty-Free" shops (which exempt import taxes and are restricted to international travelers) and "Tax-Free" or "Tax Refund" shopping (which refunds the 10% VAT paid at regular retailers). To get the absolute best prices in 2026, international travelers should utilize **Online Duty-Free Stores** (Lotte, Shilla, Shinsegae apps) roughly 30 to 60 days before departure to accumulate daily points, often reducing prices by an additional 15-30% off the face value, then pick up the goods at the airport gate upon leaving the country.

@@ -4,6 +4,14 @@ date: 2026-01-19
 excerpt: "Discover the benefits of top Korean skincare ingredients like Snail Mucin and Centella. Learn what to buy in Seoul for under $20 in 2026."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "15 min read"
+featured: false
 ---
 
 Korean skincare ingredients focus primarily on barrier repair, hydration, and soothing inflammation rather than harsh exfoliation. If you are looking to understand the labels on products at Olive Young, the most essential ingredients to know are Snail Mucin for repair, Centella Asiatica (Cica) for soothing, and Propolis for glow.

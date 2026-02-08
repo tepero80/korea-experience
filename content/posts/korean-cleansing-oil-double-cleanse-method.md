@@ -4,6 +4,14 @@ date: 2026-01-14
 excerpt: "Master the 2-step K-Beauty ritual for glass skin. Learn why 92% of Korean women double cleanse, best products for 2026, and how to shop at Olive Young."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "15 min read"
+featured: false
 ---
 
 The Korean double cleanse method is a two-step skincare ritual that involves using an oil-based cleanser followed by a water-based cleanser to thoroughly remove impurities, sunscreen, and makeup without stripping the skin's natural moisture barrier. This foundational pillar of K-Beauty is the primary reason behind the "glass skin" phenomenon, ensuring that pores are free of sebum plugs and canvas-ready for subsequent skincare steps like toners and essences.
@@ -110,7 +118,7 @@ Fragrance-free is non-negotiable here. Look for simple ingredient lists.
 The market in Korea moves fast. While classics like Sulwhasoo remain popular, indie brands often dominate the charts at Olive Young. In 2026, the trend has shifted heavily towards "Clean Beauty" and "Vegan" formulations.
 
 ### The Budget vs. Luxury Debate
-Is a 60,000 KRW ($45 USD) cleanser really better than a 20,000 KRW ($15 USD) one? Generally, luxury brands offer more elegant textures and signature herbal scents (Hanbang), but budget options perform the cleansing function just as well.
+Is a ₩60,000 ($45 USD) cleanser really better than a ₩20,000 ($15 USD) one? Generally, luxury brands offer more elegant textures and signature herbal scents (Hanbang), but budget options perform the cleansing function just as well.
 
 <PriceTable
   title="Market Price Comparison (2026)"
@@ -130,7 +138,7 @@ Buying skincare in Korea is an experience in itself. The price difference betwee
 ### Olive Young
 This is the Sephora of Korea, but more ubiquitous. You will find an Olive Young on almost every block in major districts.
 *   **Strategy:** Look for "1+1" (Buy One Get One Free) deals, which are very common for cleansing oils.
-*   **Tourists:** Bring your passport for immediate tax refunds at the register on purchases between 30,000 KRW and 500,000 KRW.
+*   **Tourists:** Bring your passport for immediate tax refunds at the register on purchases between ₩30,000 and ₩500,000.
 
 <LocationCard
   name="Olive Young Gangnam Flagship"

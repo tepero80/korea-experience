@@ -4,16 +4,24 @@ date: 2026-01-16
 excerpt: "Discover why Tamburins and Granhand are dominating the 2026 scent market with prices from $35 and immersive retail spaces in Seoul."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "14 min read"
+featured: false
 ---
 
 Korean fragrance brands have transcended simple perfumery to become immersive art installations and essential fashion accessories, with Tamburins and Granhand leading a sensory revolution that focuses on "space marketing" and hyper-curated brand identities. The primary reason these brands are trending in 2026 is their shift away from traditional luxury marketing toward "experience retail"—Tamburins offers avant-garde, gallery-like spaces associated with K-pop icons like Jennie, while Granhand provides a slower, artisanal experience centered on nature and personalization in traditional Hanok settings.
 
-**The short answer: Tamburins and Granhand are trending because they offer affordable luxury (entry prices around 35,000 KRW) wrapped in highly Instagrammable retail experiences that serve as the ultimate travel souvenir, distinct from Western luxury brands.**
+**The short answer: Tamburins and Granhand are trending because they offer affordable luxury (entry prices around ₩35,000) wrapped in highly Instagrammable retail experiences that serve as the ultimate travel souvenir, distinct from Western luxury brands.**
 
 <KeyTakeaways 
   points={[
-    "Tamburins dominates the fashion-forward crowd with prices starting at 38,000 KRW for hand creams",
-    "Granhand focuses on volume and personalization, offering 200ml multi-perfumes for roughly 45,000 KRW",
+    "Tamburins dominates the fashion-forward crowd with prices starting at ₩38,000 for hand creams",
+    "Granhand focuses on volume and personalization, offering 200ml multi-perfumes for roughly ₩45,000",
     "The 2026 trend is driven by 'Space Marketing' where store interiors are as important as the scent itself"
   ]}
   readTime={15}
@@ -56,10 +64,10 @@ Tamburins is famous for scents that challenge the norm.
 *   **Berga Sandal:** A sharper mix of bergamot and sandalwood, popular with male customers.
 
 **2026 Pricing Snapshot:**
-*   **Egg Perfume (14ml):** Approx. 45,000 KRW ($34 USD)
-*   **Perfume (50ml):** Approx. 139,000 KRW ($105 USD)
-*   **Perfume Hand Cream:** Approx. 32,000 KRW ($24 USD)
-*   **Perfume Soap:** Approx. 28,000 KRW ($21 USD)
+*   **Egg Perfume (14ml):** Approx. ₩45,000 ($34 USD)
+*   **Perfume (50ml):** Approx. ₩139,000 ($105 USD)
+*   **Perfume Hand Cream:** Approx. ₩32,000 ($24 USD)
+*   **Perfume Soap:** Approx. ₩28,000 ($21 USD)
 
 The pricing strategy is brilliant. While a full bottle of perfume might be an investment, the hand creams and soaps are perfectly priced for "small luxury" gifting, allowing tourists to buy 5-10 items for friends back home without breaking the bank.
 
@@ -98,10 +106,10 @@ Granhand scents are generally more nature-inspired and approachable than Tamburi
 *   **Kyujang:** A deep, woody scent inspired by an old library, featuring fig leaf, patchouli, and wood.
 
 **2026 Pricing Snapshot:**
-*   **Multi-Perfume (100ml):** Approx. 35,000 KRW ($26 USD)
-*   **Multi-Perfume (200ml):** Approx. 45,000 KRW ($34 USD)
-*   **Hand Cream:** Approx. 25,000 KRW ($19 USD)
-*   **Sachet (Fragrance Bag):** Approx. 18,000 KRW ($13 USD)
+*   **Multi-Perfume (100ml):** Approx. ₩35,000 ($26 USD)
+*   **Multi-Perfume (200ml):** Approx. ₩45,000 ($34 USD)
+*   **Hand Cream:** Approx. ₩25,000 ($19 USD)
+*   **Sachet (Fragrance Bag):** Approx. ₩18,000 ($13 USD)
 
 <InfoBox type="success" title="The Stamping Service">
 The distinct feature of Granhand is their complimentary stamping service. When you buy a perfume, you can have a name or short message (up to 10 characters) hand-stamped onto the label in different colors. This takes 5-10 minutes and makes it the perfect personalized souvenir.
@@ -172,21 +180,21 @@ While Tamburins and Granhand are the market leaders, the Korean fragrance scene 
 Nonfiction bridges the gap between the two. It is cleaner and more minimal than Tamburins but more polished than Granhand.
 *   **Vibe:** Clean aesthetic, focus on high-quality ingredients.
 *   **Bestseller:** Santal Cream (Sandalwood and Vetiver).
-*   **Price:** ~59,000 KRW for 30ml.
+*   **Price:** ~₩59,000 for 30ml.
 *   **Location:** Hannam-dong and Seongsu.
 
 ### Pesade
 A newer player that emerged around 2024 and peaked in 2026. Pesade focuses on "Mid-century Modern" aesthetics.
 *   **Vibe:** Retro-cool, intellectual, sophisticated.
 *   **Bestseller:** The New Error (Citrus, Rum, Cedarwood).
-*   **Price:** ~64,000 KRW for 30ml.
+*   **Price:** ~₩64,000 for 30ml.
 *   **Location:** Hannam-dong flagship.
 
 ### BorntoStandOut (BTSO)
 The rebel of the group. Their store in Hannam-dong is filled with provocative art and red porcelain.
 *   **Vibe:** Edgy, sexual, loud.
 *   **Bestseller:** Dirty Rice (Basmati rice, milk, musk).
-*   **Price:** Higher end, ~180,000 KRW for 50ml.
+*   **Price:** Higher end, ~₩180,000 for 50ml.
 
 ## Practical Shopping Guide for Tourists
 

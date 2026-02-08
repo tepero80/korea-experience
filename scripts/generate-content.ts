@@ -66,6 +66,12 @@ Structure:
    excerpt: "[Compelling summary with specific data, MUST be ≤160 chars]"
    category: ${category}
    author: Korea Experience Team
+   tags:
+     - "[Relevant tag 1, e.g. Korean Food, K-Beauty, Seoul, Shopping, Medical Tourism, Travel Tips, K-Pop]"
+     - "[Relevant tag 2]"
+     - "[Relevant tag 3]"
+   readTime: "[Estimated read time, e.g. 8 min read]"
+   featured: false
    ---
    
    TITLE RULES (CRITICAL):
@@ -294,6 +300,18 @@ CRITICAL JSX SYNTAX RULES (MUST follow exactly):
 - Do NOT wrap the content in code blocks
 - Start directly with --- for frontmatter
 - DO NOT include any Korean characters in the content - use English only
+
+CURRENCY AND PRICE RULES (CRITICAL):
+- ALWAYS use the ₩ symbol BEFORE the number for Korean Won prices: ₩50,000 (CORRECT)
+- NEVER write "50,000 KRW" or "50,000 won" - always use ₩ prefix format
+- CORRECT: "₩15,000", "₩3,500", "₩1,200,000"
+- WRONG: "15,000 KRW", "15,000 won", "15000 KRW"
+- Use USD only when comparing: "₩50,000 (approximately $37 USD)"
+
+PHONE NUMBER AND CONTACT RULES:
+- NEVER use placeholder phone numbers like +82-2-1234-5678 or 02-1234-5678
+- If you don't know the real phone number, write "(check official website for contact details)" instead
+- Only include verifiable, real contact information
 
 STRICT JSX RULES - VIOLATIONS WILL BREAK THE BUILD:
 1. Array props MUST be wrapped in curly braces:

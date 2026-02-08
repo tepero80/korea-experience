@@ -4,6 +4,14 @@ date: 2026-01-20
 excerpt: "Discover the best Korean toy stores for unique collectibles in 2026. Find anime figures, Gundam models, and rare vintage toys in Seoul with our expert map."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "15 min read"
+featured: false
 ---
 
 For collectors and hobbyists visiting Seoul, the landscape of Korean toy stores offering unique collectibles is vast, ranging from pristine, high-end galleries in Gangnam to dusty, treasure-filled aisles in vintage markets. The best places to buy collectibles in Korea are concentrated in three main districts: **Hongdae** (for anime character goods and blind boxes), **Yongsan** (for Gundam models and hobby kits), and **Nambu Terminal** (for rare, second-hand figures).

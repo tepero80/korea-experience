@@ -4,6 +4,14 @@ date: 2026-01-06
 excerpt: "A complete guide to handling medical emergencies and surgical complications in Korea, including 119 services, translation help, and hospital costs."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "13 min read"
+featured: false
 ---
 
 If you are experiencing a medical emergency in South Korea, **dial 119 immediately** for ambulance and fire services. This service is free, available 24/7, and has interpretation services available in 19 languages. For non-emergency medical consultations, hospital referrals, or advice on handling complications from a procedure, **dial 1339** (Korea Disease Control and Prevention Agency Call Center).
@@ -154,9 +162,9 @@ One of the biggest anxieties for travelers dealing with medical complications is
 
 ### Emergency Room Pricing
 If you do not have Korean National Health Insurance (NHIS), you are considered a "General Patient" (Ilban).
-*   **Base ER Fee:** 60,000 KRW – 100,000 KRW ($45 - $75 USD).
-*   **Consultation & Treatment:** Varies wildly. A simple stitch-up might cost 200,000 KRW ($150), while an MRI can cost 800,000 KRW ($600).
-*   **Deposit:** Most large hospitals require a deposit for international patients upon admission, often ranging from 500,000 KRW to 1,000,000 KRW ($375 - $750).
+*   **Base ER Fee:** ₩60,000 – ₩100,000 ($45 - $75 USD).
+*   **Consultation & Treatment:** Varies wildly. A simple stitch-up might cost ₩200,000 ($150), while an MRI can cost ₩800,000 ($600).
+*   **Deposit:** Most large hospitals require a deposit for international patients upon admission, often ranging from ₩500,000 to ₩1,000,000 ($375 - $750).
 
 ### Payment Methods
 Hospitals accept major credit cards (Visa, Mastercard, Amex). However, some smaller clinics handling minor complications might prefer cash or domestic transfers.
@@ -178,7 +186,7 @@ Not every complication requires an ER visit. Perhaps your incision site is itchy
 
 ### Pharmacies (Yakkuk / 약국)
 Korean pharmacists are highly trained and can prescribe stronger medication than what is available over the counter in many Western countries. Look for the "약" sign.
-*   **Cost:** A consultation is free. Medication is cheap (3,000 - 6,000 KRW for antibiotics or painkillers).
+*   **Cost:** A consultation is free. Medication is cheap (3,000 - ₩6,000 for antibiotics or painkillers).
 *   **Hours:** Most close by 8:00 PM or 9:00 PM. Sundays are often closed.
 *   **Language:** Use Papago or Google Translate. Pharmacists often read English medical terms well even if they don't speak fluently.
 
@@ -278,7 +286,7 @@ Dealing with medical complications in a foreign country is frightening, but Kore
   items={[
     { question: "Is the ambulance ride free for tourists in Korea?", answer: "Yes, 119 ambulance services are generally free for everyone, including tourists, for transport to the hospital. However, you will have to pay for the medical treatment received at the hospital." },
     { question: "Do Korean emergency rooms accept foreign insurance?", answer: "Direct billing is rare unless you have specific expat insurance (like Cigna Global or Aetna International) and go to a major hospital's International Center. Usually, you must pay upfront and claim reimbursement later." },
-    { question: "Can I buy antibiotics over the counter in Korea?", answer: "No. Antibiotics are strictly prescription-only in Korea. You must see a doctor at a clinic (approx. 10,000-20,000 KRW consultation fee) to get a prescription." },
+    { question: "Can I buy antibiotics over the counter in Korea?", answer: "No. Antibiotics are strictly prescription-only in Korea. You must see a doctor at a clinic (approx. 10,000-₩20,000 consultation fee) to get a prescription." },
     { question: "What if I lose my passport during a medical emergency?", answer: "If you are admitted to a hospital without a passport, a copy or a photo usually suffices for initial admission. Contact your embassy immediately to arrange emergency travel documents." },
     { question: "Do 119 operators speak English?", answer: "They have access to 24/7 interpretation services. When you call, say 'English' clearly, and they will conference in an interpreter within seconds." }
   ]}

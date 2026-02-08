@@ -4,6 +4,14 @@ date: 2026-01-26
 excerpt: "Compare Coupang and Gmarket for online shopping in Korea. We analyze delivery speeds, English support, and payment methods for expats in 2026."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "17 min read"
+featured: false
 ---
 
 Finding your way around the digital aisles of South Korean e-commerce can be just as daunting as navigating the bustling streets of Gangnam during rush hour. For international residents, expats, and travelers, the question isn't just "Where can I buy this?" but "Which app will actually accept my foreign credit card and deliver to my Airbnb?" The battle for dominance in the Korean e-commerce market is primarily fought between two giants: the speed-obsessed **Coupang** and the global-friendly **Gmarket**. Whether you need next-day delivery of fresh groceries or are hunting for K-beauty exclusives to ship back home, choosing the right platform determines whether your package arrives in 12 hours or gets stuck in payment gateway purgatory.
@@ -58,7 +66,7 @@ The primary selling point of Gmarket is accessibility. It is one of the few plat
 
 ### The Downsides of Gmarket
 However, Gmarket feels like a legacy platform compared to its younger rivals.
-*   **Split Shipping:** Since you are buying from different sellers, if you buy toothpaste, socks, and ramyeon, they might arrive in three different boxes on three different days, each with a separate shipping fee (usually 3,000 KRW per seller).
+*   **Split Shipping:** Since you are buying from different sellers, if you buy toothpaste, socks, and ramyeon, they might arrive in three different boxes on three different days, each with a separate shipping fee (usually ₩3,000 per seller).
 *   **Clunky UI:** The interface can feel cluttered with coupons and flashing banners, reminiscent of the early 2010s internet.
 *   **The Coupon Game:** The price you see is rarely the price you pay—in a confusing way. You have to manually download and apply coupons to get the "real" market price.
 
@@ -107,7 +115,7 @@ Let's break down the differences across the metrics that matter most to internat
 />
 
 ### 1. Pricing and "The Coupon Game"
-**Gmarket** relies heavily on a coupon system. A shirt might be listed at 40,000 KRW, but after downloading the "Super Deal" coupon, it drops to 32,000 KRW. You must be vigilant to click all the download buttons.
+**Gmarket** relies heavily on a coupon system. A shirt might be listed at ₩40,000, but after downloading the "Super Deal" coupon, it drops to ₩32,000. You must be vigilant to click all the download buttons.
 **Coupang** generally uses dynamic pricing similar to Amazon. The price listed is the final price. For daily essentials like water, toilet paper, and rice, Coupang is statistically 5-10% cheaper than Gmarket due to their direct sourcing.
 
 ### 2. The User Interface (UI)
@@ -148,6 +156,8 @@ Registering for Coupang is where the "authentication" drama begins.
 >
 If your verification fails on Coupang, check your phone bill. Sometimes telecom clerks type names as 'LASTNAMEFIRSTNAME' with no spaces. You must type it exactly that way in the verification window for it to work.
 </ExpertTip>
+
+</StepGuide>
 
 ## The Vital Role of the PCCC
 
@@ -277,6 +287,6 @@ For more tips on settling into life in the city, check out our guide to the [bes
     { question: "Does Gmarket ship to the USA?", answer: "Yes, Gmarket Global ships to over 80 countries including the USA. They use EMS and SF Express. Shipping fees are calculated by weight, so it is often cheaper to bundle multiple items into one shipment." },
     { question: "Why does my payment keep failing on Gmarket?", answer: "The most common reasons are: 1) Your foreign bank is blocking the transaction (call them), 2) The 3D Secure pop-up is being blocked by your browser (disable ad-blockers), or 3) You are trying to buy a restricted item (liquor, certain electronics) that requires age verification via Korean ID." },
     { question: "What is the 'PCCC' and do I need it?", answer: "PCCC stands for Personal Customs Clearance Code. You only need it if you are importing goods from outside Korea INTO Korea (e.g., buying vitamins from the US via Coupang Global). You do not need it for buying domestic Korean goods like water or milk." },
-    { question: "Is Coupang Rocket Membership worth it?", answer: "At approximately 7,890 KRW (prices subject to change), it is worth it if you order more than twice a month. The free shipping on all Rocket items (no minimum spend) and free returns usually pay for the membership fee very quickly." }
+    { question: "Is Coupang Rocket Membership worth it?", answer: "At approximately ₩7,890 (prices subject to change), it is worth it if you order more than twice a month. The free shipping on all Rocket items (no minimum spend) and free returns usually pay for the membership fee very quickly." }
   ]}
 />

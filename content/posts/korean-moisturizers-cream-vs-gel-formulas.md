@@ -1,9 +1,17 @@
 ---
 title: "Korean Moisturizer Guide: Gel vs Cream Formulas for Your Skin Type"
 date: 2026-01-18
-excerpt: "Compare Korean gel vs cream moisturizers. Find the perfect formula for Seoul's 80% summer humidity or dry winters. Prices from 15,000 KRW."
+excerpt: "Compare Korean gel vs cream moisturizers. Find the perfect formula for Seoul's 80% summer humidity or dry winters. Prices from ₩15,000."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "14 min read"
+featured: false
 ---
 
 Walking into an Olive Young in Myeongdong or Gangnam can be an overwhelming experience for the uninitiated traveler. With over 1,300 locations across the peninsula, these beauty havens are packed with rows of jars, tubes, and pumps, all promising the coveted "chok-chok" (dewy) complexion. However, the most critical decision you will make isn't just about the brand—it is about the texture. The battle between Korean moisturizers comes down to two distinct heavyweights: the lightweight, water-based Gel versus the rich, occlusive Cream. Choosing the wrong one for the Korean climate or your specific skin type can lead to breakouts in the humid summer or flaking skin during the Siberian-wind winters.
@@ -106,7 +114,7 @@ Korean creams distinguish themselves from Western counterparts by focusing on ba
 
 ### Top Recommendations in 2026
 *   **AESTURA Atobarrier 365 Cream:** The gold standard for barrier repair. It contains visible white capsules of ceramide that melt into the skin.
-*   **Illiyoon Ceramide Ato Concentrate Cream:** A budget-friendly, body-and-face giant often sold in large 200ml-500ml tubs for under 20,000 KRW.
+*   **Illiyoon Ceramide Ato Concentrate Cream:** A budget-friendly, body-and-face giant often sold in large 200ml-500ml tubs for under ₩20,000.
 *   **Sulwhasoo Concentrated Ginseng Renewing Cream:** The luxury choice. Uses Hanbang (traditional herbal medicine) to revitalize aging skin.
 
 ## The Hybrid: Gel-Creams and Emulsions
@@ -137,7 +145,7 @@ Where you buy your moisturizer determines the brand selection and price. In 2026
 The Sephora of Korea, but more ubiquitous. You are rarely more than 500 meters from one in Seoul.
 *   **Best for:** Trendy, derm-backed brands (Dr.G, Torriden, Round Lab, AESTURA).
 *   **Tip:** Look for the "Best Pick" tags on the shelves. These are based on real-time sales data.
-*   **Tax Refund:** Instant tax refunds are available at the register for purchases between 30,000 KRW and 500,000 KRW. You must have your passport.
+*   **Tax Refund:** Instant tax refunds are available at the register for purchases between ₩30,000 and ₩500,000. You must have your passport.
 
 <LocationCard
   name="Olive Young Myeongdong Flagship"

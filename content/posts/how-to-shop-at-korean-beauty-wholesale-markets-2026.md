@@ -4,6 +4,14 @@ date: 2026-01-11
 excerpt: "Save 30-70% on skincare by visiting Dongdaemun and Hwagok wholesale centers. We reveal pricing, locations, and the 2026 rules for bulk buying."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "13 min read"
+featured: false
 ---
 
 Shopping for K-beauty at wholesale markets in Seoul is the ultimate hack for skincare enthusiasts and aspiring resellers who want to bypass the retail markups of Myeongdong and Olive Young. If you are looking to buy popular brands like COSRX, Dr.Jart+, and Sulwhasoo at 30% to 70% off retail prices, you need to head to the specific wholesale districts that operate primarily at night.

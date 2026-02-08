@@ -4,6 +4,14 @@ date: 2026-01-08
 excerpt: "The ultimate 2026 guide to Gangnam Station Underground Shopping Center. Discover 200+ stores, fashion trends under ₩15,000, and insider navigation tips."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "13 min read"
+featured: false
 ---
 
 If you are looking for the epicenter of fast fashion trends in Seoul, look no further than the subterranean maze beneath Seoul’s busiest subway station. While the streets of Gangnam above ground are lined with high-end skyscrapers, plastic surgery clinics, and corporate headquarters, the Gangnam Underground Shopping Complex offers a completely different ecosystem: a sprawling, high-energy marketplace dedicated to affordable K-fashion, cosmetics, and accessories.

@@ -4,6 +4,14 @@ date: 2026-01-06
 excerpt: "A complete guide to barrier-free hospitals and medical tourism in Korea for travelers with disabilities, featuring the top 5 accessible facilities."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "12 min read"
+featured: false
 ---
 
 Finding reliable, high-quality medical care abroad is a challenge for any traveler, but for those with disabilities or limited mobility, the stakes are significantly higher. You aren't just looking for a good doctor; you need to know if the corridors are wide enough for a wheelchair, if there are accessible restrooms on every floor, and if the staff is trained to assist with transfer and mobility needs.
@@ -63,7 +71,7 @@ Located in the Irwon-dong area of Gangnam, Samsung Medical Center (SMC) is often
   tip="Use the direct underground connection from Irwon Station to avoid outdoor weather/hills."
 />
 
-SMC provides a seamless experience from the subway station. The connection from Line 3 is fully elevator-accessible. Inside, the hospital utilizes automated guided vehicles (AGVs) for logistics, meaning corridors are kept exceptionally wide (exceeding the standard 1.8 meters) and clutter-free. Their International Healthcare Center (IHC) assigns coordinators who can arrange for porter service upon arrival. Consultation fees for international patients generally start around 50,000 to 70,000 KRW, depending on the specialist.
+SMC provides a seamless experience from the subway station. The connection from Line 3 is fully elevator-accessible. Inside, the hospital utilizes automated guided vehicles (AGVs) for logistics, meaning corridors are kept exceptionally wide (exceeding the standard 1.8 meters) and clutter-free. Their International Healthcare Center (IHC) assigns coordinators who can arrange for porter service upon arrival. Consultation fees for international patients generally start around 50,000 to ₩70,000, depending on the specialist.
 
 ### Asan Medical Center (Songpa)
 Asan is the largest hospital in Korea by bed count (over 2,700 beds). Located near the Han River, it offers a tranquil environment which is excellent for recovery.
@@ -132,7 +140,7 @@ Seoul operates a fleet of accessible taxis, often referred to as "Call Taxis" fo
 
 **The Solution: Private Mobility Services (Papa Taxi / i.M)**
 Apps like "Papa" (similar to Uber/Grab) offer specific vehicle types like "Papa Escort" or vans that are wheelchair friendly.
-*   **Cost:** Base fare is higher than regular taxis (starting around 7,000 - 10,000 KRW), and a trip from Myeongdong to Gangnam might cost 30,000 - 40,000 KRW.
+*   **Cost:** Base fare is higher than regular taxis (starting around 7,000 - ₩10,000), and a trip from Myeongdong to Gangnam might cost 30,000 - ₩40,000.
 *   **Availability:** You can book these via their apps with foreign credit cards.
 
 <QuickFacts
@@ -178,7 +186,7 @@ Every major hospital has an IHC. These are not just translation desks; they are 
 *   **Visa Support:** They can issue the documents required for a Medical Visa (G-1) if your treatment requires a long stay.
 
 ### Rental Equipment
-If you need to rent a wheelchair, crutches, or a hospital bed for your hotel room, companies like "Medical Supply Korea" or specific pharmacies near major hospitals offer rentals. A manual wheelchair rental typically costs about 30,000 KRW per week.
+If you need to rent a wheelchair, crutches, or a hospital bed for your hotel room, companies like "Medical Supply Korea" or specific pharmacies near major hospitals offer rentals. A manual wheelchair rental typically costs about ₩30,000 per week.
 
 ## Accessible accommodation strategies
 
@@ -201,7 +209,7 @@ For detailed neighborhood breakdowns, check out our guide on [best neighborhoods
 
 ### 1. The "Guardian" Culture
 In Korea, hospitals expect a "guardian" (family member or friend) to stay with the patient, even during inpatient stays. While nurses provide medical care, non-medical needs (emptying specialized waste, getting water, helping with meals) are often the guardian's duty.
-*   *Tip:* If you are traveling solo, you may need to hire a "Caregiver" (Ganbyeongin). The IHC can arrange this, costing approximately 120,000 - 150,000 KRW per 24-hour shift.
+*   *Tip:* If you are traveling solo, you may need to hire a "Caregiver" (Ganbyeongin). The IHC can arrange this, costing approximately 120,000 - ₩150,000 per 24-hour shift.
 
 ### 2. Digital Accessibility
 Download **Naver Map** or **KakaoMap**. These apps have specific settings to avoid stairs. When planning a route, look for the "Wheelchair" icon which routes you through elevators and ramps, avoiding overhead bridges that lack lifts.

@@ -1,9 +1,17 @@
 ---
 title: "Top 30 Korean Skincare Products Worth Buying in 2026"
 date: 2026-02-01
-excerpt: "Discover the best K-beauty products for 2026. From viral sunscreens ($15) to barrier creams, here is the ultimate shopping guide with prices and skin type matches."
+excerpt: "Discover the best K-beauty products for 2026. From viral sunscreens ($15) to barrier creams, here is the ultimate shopping guide with prices and skin type"
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "15 min read"
+featured: false
 ---
 
 Finding the right Korean skincare products can be overwhelming given the sheer volume of choices available in 2026. Whether you are browsing the shelves of Olive Young in Myeongdong or scrolling through online shops, knowing exactly which formulations are currently dominating the market is essential for getting the best value and results.

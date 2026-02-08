@@ -4,6 +4,14 @@ date: 2026-01-01
 excerpt: "Complete 2026 guide to Andong Hahoe Village including KTX schedules, hanok stay costs (avg ₩120,000), mask dance times, and best local food spots."
 category: Travel & Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Shopping"
+  - "Travel Tips"
+  - "Korean Culture"
+readTime: "15 min read"
+featured: false
 ---
 
 Andong Hahoe Village is often mistaken for a museum or a film set, but it is something far more rare: a living, breathing community that has maintained its architectural and cultural integrity for over 600 years. Located approximately 180 kilometers southeast of Seoul, this UNESCO World Heritage site is home to the Ryu clan of Pungsan, who still reside in the tile-roofed nobility houses and thatched-roof commoner dwellings that cluster within the S-shaped bend of the Nakdong River. For travelers in 2026, visiting Hahoe offers a distinct counterpoint to the neon-lit futurism of Seoul—a chance to step into a Joseon Dynasty landscape that hasn't just been preserved, but is actively lived.

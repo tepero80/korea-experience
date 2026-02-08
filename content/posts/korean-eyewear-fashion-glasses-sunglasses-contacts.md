@@ -4,6 +4,14 @@ date: 2026-01-16
 excerpt: "A complete guide to buying eyewear in Korea. Discover prices, 20-minute prescription glasses, trending brands like Gentle Monster, and contact lens tips."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "14 min read"
+featured: false
 ---
 
 If you are wondering whether you should buy glasses or contact lenses while visiting South Korea, the answer is an absolute yes. Getting prescription eyewear in Korea is significantly faster, cheaper, and more stylish than in North America or Europe, with most prescription glasses ready for pickup in as little as 20 minutes.

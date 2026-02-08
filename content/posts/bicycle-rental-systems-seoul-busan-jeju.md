@@ -1,22 +1,30 @@
 ---
 title: "Bicycle Rental Systems in Korea: Seoul, Busan, and Jeju Guide 2026"
 date: 2026-01-03
-excerpt: "Complete guide to Korea's bike rentals. Master Seoul's Ttareungi (1,000 KRW), ride Busan's coast, and cycle Jeju's 234km path with our 2026 expert tips."
+excerpt: "Complete guide to Korea's bike rentals. Master Seoul's Ttareungi (₩1,000), ride Busan's coast, and cycle Jeju's 234km path with our 2026 expert tips."
 category: Travel & Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Pop"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "15 min read"
+featured: false
 ---
 
 Cycling through South Korea offers an intimate perspective of the country that subways and taxis simply cannot match. Whether you are navigating the Han River parks in Seoul, cruising the coastline of Busan, or attempting the grand circle tour of Jeju Island, the infrastructure for cyclists is world-class. However, for international travelers in 2026, navigating the distinct rental systems of each major region can be confusing due to varying apps, payment methods, and local regulations.
 
-**The short answer: Seoul relies on the government-run "Ttareungi" (Seoul Bike) app which costs just 1,000 KRW per hour; Busan utilizes a mix of private shops and dockless apps like Kakao T Bike; while Jeju Island requires professional private rentals for its 234km "Fantasy Bike Path."**
+**The short answer: Seoul relies on the government-run "Ttareungi" (Seoul Bike) app which costs just ₩1,000 per hour; Busan utilizes a mix of private shops and dockless apps like Kakao T Bike; while Jeju Island requires professional private rentals for its 234km "Fantasy Bike Path."**
 
 This comprehensive guide will break down exactly how to access these systems, how to pay with foreign credit cards, and the specific routes that make rental efforts worthwhile.
 
 <KeyTakeaways 
   points={[
-    "Seoul's Ttareungi costs 1,000 KRW ($0.75) per hour and accepts foreign Visa/Mastercards via the app.",
+    "Seoul's Ttareungi costs ₩1,000 ($0.75) per hour and accepts foreign Visa/Mastercards via the app.",
     "Busan lacks a unified public system like Seoul; rely on Kakao T Bike (dockless electric) or private shops at Haeundae.",
-    "Jeju's Fantasy Bike Path covers 234km; reserve high-end hybrids (30,000 KRW/day) 2 weeks in advance.",
+    "Jeju's Fantasy Bike Path covers 234km; reserve high-end hybrids (₩30,000/day) 2 weeks in advance.",
     "Helmets are legally mandatory nationwide, though enforcement varies strictly by region."
   ]}
   readTime={15}
@@ -33,9 +41,9 @@ The system primarily uses a QR-code-based lock. The bikes are sturdy, heavy util
 <QuickFacts
   title="Ttareungi (Seoul Bike) Facts"
   facts={[
-    { label: "Base Rate", value: "1,000 KRW / 1hr", icon: "💰" },
-    { label: "Day Pass", value: "5,000 KRW / 24hr", icon: "🎟️" },
-    { label: "Overage Fee", value: "200 KRW / 5min", icon: "⚠️" }
+    { label: "Base Rate", value: "₩1,000 / 1hr", icon: "💰" },
+    { label: "Day Pass", value: "₩5,000 / 24hr", icon: "🎟️" },
+    { label: "Overage Fee", value: "₩200 / 5min", icon: "⚠️" }
   ]}
   columns={3}
 />
@@ -50,14 +58,14 @@ The biggest hurdle for travelers used to be the requirement of a Korean phone nu
   steps={[
     { title: "Download the App", description: "Search for 'Seoul Public Bike' or 'Ttareungi' on App Store/Play Store. Ensure location services are on.", tip: "The app icon is green with a white bicycle symbol." },
     { title: "Select Non-Member", description: "On the launch screen, choose 'Foreigner' or 'Non-Member' purchase. You do not need to create a full account with ARC verification." },
-    { title: "Purchase a Voucher", description: "Select your pass type (1 hour, 2 hours, or 24 hours). Enter your email address carefully; this is your login ID.", tip: "The 24-hour pass (5,000 KRW) allows unlimited re-rentals, as long as you check in every hour." },
+    { title: "Purchase a Voucher", description: "Select your pass type (1 hour, 2 hours, or 24 hours). Enter your email address carefully; this is your login ID.", tip: "The 24-hour pass (₩5,000) allows unlimited re-rentals, as long as you check in every hour." },
     { title: "Payment", description: "Select 'Credit Card' (International). Input your card details. 3D Secure verification is usually required." },
     { title: "Unlock and Ride", description: "Tap 'Rent' in the app, scan the QR code located under the seat or on the handlebars. The lock will snap open." }
   ]}
 />
 
 <InfoBox type="warning" title="The 1-Hour Rule">
-Buying a "24-hour pass" does NOT mean you can keep one bike for 24 continuous hours. It means you have access to the system for 24 hours. You must return the bike to *any* station within 60 minutes (or 120 minutes if you bought the premium voucher) to reset the timer. If you exceed the time, you are charged 200 KRW every 5 minutes.
+Buying a "24-hour pass" does NOT mean you can keep one bike for 24 continuous hours. It means you have access to the system for 24 hours. You must return the bike to *any* station within 60 minutes (or 120 minutes if you bought the premium voucher) to reset the timer. If you exceed the time, you are charged ₩200 every 5 minutes.
 </InfoBox>
 
 ### Best Seoul Cycling Routes
@@ -91,7 +99,7 @@ In Busan, "Dualism" exists between leisure riding and transportation. If you wan
   headers={["Feature", "Private Shop (Haeundae)", "Kakao T Bike (App)"]}
   rows={[
     { feature: "Bike Type", option1: "Hybrid/MTB/City", option2: "Electric Assist (Yellow)" },
-    { feature: "Cost (1 hr)", option1: "5,000 - 8,000 KRW", option2: "~6,000 KRW (Time based)" },
+    { feature: "Cost (1 hr)", option1: "5,000 - ₩8,000", option2: "~₩6,000 (Time based)" },
     { feature: "Return Loc", option1: "Same Shop", option2: "Any designated zone" },
     { feature: "Best For", option1: "Leisure/Sightseeing", option2: "Transport/Hills" }
   ]}
@@ -107,11 +115,11 @@ Start at the Oncheoncheon Stream or Suyeong River bike path near Centum City. Ri
 <DualismRoute
   title="Busan Coastal Ride: Morning vs. Evening"
   area="Haeundae District"
-  totalBudget={{ luxury: "15,000 KRW", budget: "6,000 KRW" }}
+  totalBudget={{ luxury: "₩15,000", budget: "₩6,000" }}
   totalTime="2 hours"
   stops={[
-    { name: "Morning Ride", type: "budget", description: "Start at Suyeong River, quiet paths, coffee at Gwangalli.", cost: "6,000 KRW", icon: "☀️" },
-    { name: "Night Ride", type: "luxury", description: "Rent high-end E-bike, ride Marine City skyline, cocktail finish.", cost: "15,000 KRW", icon: "🌙" }
+    { name: "Morning Ride", type: "budget", description: "Start at Suyeong River, quiet paths, coffee at Gwangalli.", cost: "₩6,000", icon: "☀️" },
+    { name: "Night Ride", type: "luxury", description: "Rent high-end E-bike, ride Marine City skyline, cocktail finish.", cost: "₩15,000", icon: "🌙" }
   ]}
   recommendation="Choose evening for the spectacular LED lights of Gwangan Bridge."
 />
@@ -126,7 +134,7 @@ For a deeper dive into the city's geography and where to refuel after a ride, re
 Jeju Island is the crown jewel of Korean cycling. The "Jeju Fantasy Bike Path" is a dedicated bicycle lane that circumnavigates the entire island, stretching approximately 234 kilometers. It is mostly flat, follows the coastline, and offers some of the most stunning ocean views in Asia.
 
 ### Rental Infrastructure in Jeju
-Unlike Seoul's 1,000 KRW commuter bikes, Jeju cycling is a premium leisure activity. You do not want a heavy city bike for a multi-day trip. You need a lightweight hybrid, road bike, or a high-capacity electric bike.
+Unlike Seoul's ₩1,000 commuter bikes, Jeju cycling is a premium leisure activity. You do not want a heavy city bike for a multi-day trip. You need a lightweight hybrid, road bike, or a high-capacity electric bike.
 
 **Key Rental Shops:**
 1.  **Jeju Hiking (Boxer):** Located near the airport. Very famous among foreigners. They provide panniers, helmets, and repair kits.
@@ -137,13 +145,13 @@ Unlike Seoul's 1,000 KRW commuter bikes, Jeju cycling is a premium leisure activ
   title="Jeju Bike Rental Prices (Daily)"
   variant="dualism"
   items={[
-    { name: "Performance Road Bike", price: "35,000 KRW", tag: "Speed", description: "Carbon fork, lightweight" },
-    { name: "Long-Range E-Bike", price: "50,000 KRW", tag: "Ease", description: "100km+ range per charge" }
+    { name: "Performance Road Bike", price: "₩35,000", tag: "Speed", description: "Carbon fork, lightweight" },
+    { name: "Long-Range E-Bike", price: "₩50,000", tag: "Ease", description: "100km+ range per charge" }
   ]}
 />
 
 ### The Certification System
-Korea operates a "Grand Slam" cycling certification system. You purchase a "Bike Passport" (approx 4,500 KRW) at the Jeju Certification Center near the airport. As you ride the 234km loop, there are 10 red phone booth-style checkpoints. You stamp your passport at each one. Collecting all 10 gets you a shiny certification sticker and a medal (for a fee) proving you circled the island.
+Korea operates a "Grand Slam" cycling certification system. You purchase a "Bike Passport" (approx ₩4,500) at the Jeju Certification Center near the airport. As you ride the 234km loop, there are 10 red phone booth-style checkpoints. You stamp your passport at each one. Collecting all 10 gets you a shiny certification sticker and a medal (for a fee) proving you circled the island.
 
 ### Suggested Itinerary (3 Days / 2 Nights)
 Most cyclists ride **counter-clockwise**. This keeps the ocean on your immediate right side and generally works better with the prevailing winds.
@@ -181,11 +189,11 @@ Cycling in Korea comes with specific rules that are strictly enforced in 2026, l
 
 ### The Helmet Law
 Legally, wearing a helmet is mandatory for *all* cyclists in Korea.
-*   **Seoul (Ttareungi):** While legally required, enforcement on Ttareungi users is currently lenient, but police spot-checks are increasing. Most Ttareungi stations do *not* provide helmets for hygiene reasons. If you plan to ride a lot, bring a collapsible helmet or buy a cheap one at Daiso (5,000 KRW).
+*   **Seoul (Ttareungi):** While legally required, enforcement on Ttareungi users is currently lenient, but police spot-checks are increasing. Most Ttareungi stations do *not* provide helmets for hygiene reasons. If you plan to ride a lot, bring a collapsible helmet or buy a cheap one at Daiso (₩5,000).
 *   **Jeju:** Rental shops will strictly require you to take a helmet. Police on the fantasy path do issue fines.
 
 ### Alcohol Limits
-Biking under the influence (DUI) is illegal. The blood alcohol limit is 0.03%. Police frequently conduct crackdowns at Hangang parks near convenience stores where people drink beer and then try to ride home. The fine starts at 30,000 KRW but can affect your visa status if the violation is severe.
+Biking under the influence (DUI) is illegal. The blood alcohol limit is 0.03%. Police frequently conduct crackdowns at Hangang parks near convenience stores where people drink beer and then try to ride home. The fine starts at ₩30,000 but can affect your visa status if the violation is severe.
 
 ### Bike Lanes vs. Sidewalks
 In Korea, if there is no dedicated bike lane, cyclists are generally tolerated on the sidewalk if they ride slowly and yield to pedestrians. However, legally, bikes are vehicles and should be on the rightmost lane of the road. In reality, riding on the road in heavy Seoul traffic is dangerous for beginners. Stick to the parks and designated paths whenever possible.
@@ -201,9 +209,9 @@ In Korea, if there is no dedicated bike lane, cyclists are generally tolerated o
 
 To help you plan, here is a realistic breakdown of costs associated with cycling in Korea. This assumes you are bringing your own cycling clothes but renting the hardware.
 
-*   **Seoul Leisure:** 5,000 KRW (24h pass) + 10,000 KRW (Food/Drinks) = **15,000 KRW / day**.
-*   **Busan Day Trip:** 20,000 KRW (Private rental 3 hrs) + 15,000 KRW (Cafe stops) = **35,000 KRW / day**.
-*   **Jeju Tour:** 50,000 KRW (E-bike rental) + 40,000 KRW (Accommodation) + 30,000 KRW (Food) = **120,000 KRW / day**.
+*   **Seoul Leisure:** ₩5,000 (24h pass) + ₩10,000 (Food/Drinks) = **₩15,000 / day**.
+*   **Busan Day Trip:** ₩20,000 (Private rental 3 hrs) + ₩15,000 (Cafe stops) = **₩35,000 / day**.
+*   **Jeju Tour:** ₩50,000 (E-bike rental) + ₩40,000 (Accommodation) + ₩30,000 (Food) = **₩120,000 / day**.
 
 For a broader look at how costs differ between the two biggest cities, see our comparison on [cost of living in Seoul vs Busan](/blog/cost-of-living-in-seoul-vs-busan-comparison-2026).
 
@@ -219,7 +227,7 @@ Don't forget to stock up on energy. Korean convenience stores are a cyclist's be
 
 ## Final Thoughts
 
-Cycling in Korea is a study in contrasts. You have the hyper-efficient, government-subsidized system of Seoul that integrates seamlessly into daily life, and the rugged, adventurous spirit of the Jeju Fantasy Path. Whether you are spending 1,000 KRW to ride from Hongdae to Yeouido, or investing three days to circle Jeju, the experience connects you to the geography of the peninsula in a way that a tour bus never could.
+Cycling in Korea is a study in contrasts. You have the hyper-efficient, government-subsidized system of Seoul that integrates seamlessly into daily life, and the rugged, adventurous spirit of the Jeju Fantasy Path. Whether you are spending ₩1,000 to ride from Hongdae to Yeouido, or investing three days to circle Jeju, the experience connects you to the geography of the peninsula in a way that a tour bus never could.
 
 Remember to download Naver Map, set up your payment method before you leave your hotel Wi-Fi, and always check the air quality index (AQI) before a long ride.
 

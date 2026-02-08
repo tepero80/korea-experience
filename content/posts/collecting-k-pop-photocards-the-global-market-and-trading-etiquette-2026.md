@@ -4,6 +4,14 @@ date: 2026-01-05
 excerpt: "Master the art of K Pop photocard collecting in 2026 with our guide to global markets, trading etiquette, and exclusive Seoul shopping spots."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Pop"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "11 min read"
+featured: false
 ---
 
 The world of K-Pop fandom has always been passionate, but as we enter 2026, the specific subculture of photocard collecting has evolved into a sophisticated global marketplace comparable to sports trading cards or luxury goods. What started as a simple CD inclusion has morphed into a multi-million dollar asset class where rare pieces of cardboard featuring idols like BTS, BLACKPINK, NewJeans, or the latest 5th-generation stars can command prices rivaling high-end electronics.
@@ -62,7 +70,7 @@ You might also enjoy our article about [Hallyu 4.0 Guide Future of Korean Wave](
 For travelers coming to Korea, buying photocards offline is a bucket-list experience. Seoul is dotted with shops that function like consignment stores. Sellers rent small acrylic boxes (cubes) to display their cards, and the shop handles the transaction. The quintessential experience is no longer just finding the card, but finding it at the right price among hundreds of vendors.
 
 <InfoBox type="tip" title="Currency Prep">
-  While many modern shops in Seoul accept cards, the best deals in underground shopping centers or flea markets are often cash-only. Always carry around 50,000 to 100,000 KRW in mixed bills when going on a "poca tour."
+  While many modern shops in Seoul accept cards, the best deals in underground shopping centers or flea markets are often cash-only. Always carry around 50,000 to ₩100,000 in mixed bills when going on a "poca tour."
 </InfoBox>
 
 ### Myeongdong Underground Shopping Center
@@ -80,7 +88,7 @@ Located directly connected to Myeongdong Station (Subway Line 4), this undergrou
   rating={4.2}
   transit="Connected to Myeongdong Station Exits 3-6"
   highlights={["Bulk Discounts", "Rare Old Albums", "Instant Tax Refund"]}
-  tip="Compare prices across at least 3 stalls before buying; prices for the same card can vary by 5,000 KRW within 50 meters."
+  tip="Compare prices across at least 3 stalls before buying; prices for the same card can vary by ₩5,000 within 50 meters."
 />
 
 ### Hongdae: The Gen-Z Hub
@@ -192,3 +200,5 @@ Whether you are browsing the bustling undergrounds of Myeongdong or refreshing a
     { question: "Are 'Pre-Order Benefits' (POBs) worth the investment?", answer: "POBs hold value better than album cards because they are only available for a 1-2 week window. However, they are volatile. If the photo is considered 'ugly' or basic by the fandom, the price can drop below the album cost shortly after release." }
   ]}
 />
+
+</QuickFacts>

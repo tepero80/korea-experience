@@ -4,6 +4,14 @@ date: 2026-01-20
 excerpt: "Confused by K-beauty steps? We break down the 15% concentration difference and texture variations between toners and essences for your 2026 routine."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "14 min read"
+featured: false
 ---
 
 If you have ever walked into an Olive Young in Myeongdong or Gangnam, you know the sensation of "skincare paralysis." With over 20,000 products lining the shelves, the distinction between a "skin," a "toner," and an "essence" can seem nonexistent. You might pick up two bottles that look identical—clear, watery liquids—only to find one costs ₩15,000 ($11 USD) and the other ₩65,000 ($48 USD).

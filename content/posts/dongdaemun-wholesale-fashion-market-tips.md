@@ -4,6 +4,14 @@ date: 2026-01-06
 excerpt: "Master the art of shopping at Seoul's massive night market. Learn the rules of MOQ, best buildings for quality."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "15 min read"
+featured: false
 ---
 
 Shopping at Dongdaemun Wholesale Fashion Market requires navigating a complex, nocturnal ecosystem that operates primarily from 8:00 PM to 5:00 AM, where cash is mandatory, fitting rooms are non-existent, and minimum order quantities (MOQ)—usually two pieces per style—are strictly enforced. Unlike the retail malls (like Doota or Hyundai City Outlets) located just across the street, the wholesale zone is a professional trading ground for global buyers, meaning patience, specific etiquette, and a distinct strategy are required to secure high-quality Korean fashion at 40-60% off retail prices.
@@ -115,7 +123,7 @@ You don't need to be fluent in Korean, but knowing three words helps.
   type="local"
   verified={true}
 >
-  If you really want a single item, look for stalls that have 'Sample Sale' signs (usually handwritten). Also, buying 'one piece' is sometimes possible if you pay a premium—usually 3,000 to 5,000 KRW extra per item—but this depends entirely on the vendor's mood and how busy they are.
+  If you really want a single item, look for stalls that have 'Sample Sale' signs (usually handwritten). Also, buying 'one piece' is sometimes possible if you pay a premium—usually 3,000 to ₩5,000 extra per item—but this depends entirely on the vendor's mood and how busy they are.
 </ExpertTip>
 
 ## Step-by-Step Shopping Guide

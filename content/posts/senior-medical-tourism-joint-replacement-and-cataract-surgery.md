@@ -4,6 +4,14 @@ date: 2026-01-28
 excerpt: "A complete guide to senior joint replacement and cataract surgery in Korea. Save 40-60% on robotic procedures with world-class care and recovery facilities."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Pop"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "13 min read"
+featured: false
 ---
 
 For international seniors facing long wait times or exorbitant costs at home, South Korea has emerged as the premier destination for high-quality, efficient joint replacement and cataract surgeries. In 2026, the combination of advanced robotic technology, comprehensive post-operative care, and transparent pricing makes Korea a superior choice for orthopedic and ophthalmologic procedures.

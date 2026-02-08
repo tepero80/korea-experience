@@ -4,6 +4,14 @@ date: 2026-01-24
 excerpt: "A complete guide to high-BMI surgery in Korea. Discover specialized clinics, safety protocols for BMI 30+, and realistic cost estimates for 2026."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "15 min read"
+featured: false
 ---
 
 Finding a Korean medical clinic that specializes in plus-size patients (BMI 30+) requires navigating a landscape where standard beauty norms often dictate facility capabilities, but it is entirely possible and increasingly common in 2026. While many smaller neighborhood clinics in Gangnam may turn away patients with a BMI over 30 due to anesthesia risks or equipment limitations, specific university hospitals and Tier-1 specialized centers have dedicated "safe surgery" protocols, reinforced operating tables, and specialized anesthesiologists to handle higher BMIs safely. The key is knowing which facilities have the infrastructure—specifically High-Flow Oxygen systems and dantrolene stocks—to manage complex cases.
@@ -57,7 +65,7 @@ Before you book a flight that takes 11-14 hours from North America or Europe, yo
 Do not guess your weight. Specialized clinics require a current weight reading within 0.5kg accuracy. In 2026, many clinics ask for an InBody scan result (available at most local gyms) sent via WhatsApp or Line before you arrive. This helps them calculate the volume of fat to be removed or the anesthesia dosage required.
 
 ### 2. The "Safety Surcharge" Explained
-If your BMI is over 30, you will likely see a line item on your invoice labeled "High BMI Surcharge" or "Special Anesthesia Fee." This typically ranges from 500,000 KRW to 2,000,000 KRW ($375 - $1,500 USD).
+If your BMI is over 30, you will likely see a line item on your invoice labeled "High BMI Surcharge" or "Special Anesthesia Fee." This typically ranges from ₩500,000 to ₩2,000,000 ($375 - $1,500 USD).
 
 <QuickFacts
   title="Why the Extra Cost?"
@@ -189,7 +197,7 @@ Instead, look for "Serviced Residences" in Gangnam or Yeoksam. These are apartme
 For more details on navigating the city with mobility concerns, which applies to post-surgery recovery as well, check our article on [accessible Seoul best routes for wheelchair and limited mobility](/blog/accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026).
 
 ### Transportation Considerations
-*   **Taxis:** The standard orange or silver taxis are Hyundai Sonatas (mid-size sedans). If you have mobility issues post-surgery, opt for the "Kakao Taxi Venti" or "Uber Black" (often Kia Carnivals), which are spacious vans. The base fare is higher (approx. 7,000 KRW vs 4,800 KRW), but the comfort is necessary.
+*   **Taxis:** The standard orange or silver taxis are Hyundai Sonatas (mid-size sedans). If you have mobility issues post-surgery, opt for the "Kakao Taxi Venti" or "Uber Black" (often Kia Carnivals), which are spacious vans. The base fare is higher (approx. ₩7,000 vs ₩4,800), but the comfort is necessary.
 *   **Subway:** Seoul subway seats are notoriously narrow (43cm width). During rush hour (8-9 AM, 6-7 PM), you will be shoulder-to-shoulder. Plan your clinic visits for mid-day (11 AM - 2 PM) to avoid the crush.
 
 ## Diet and Nutrition During Recovery
@@ -197,7 +205,7 @@ For more details on navigating the city with mobility concerns, which applies to
 Korean food is generally healthy, but post-surgery sodium levels must be managed to reduce swelling.
 
 ### The "Pumpkin Juice" Phenomenon
-You will see "Pumpkin Juice" (Hobak-jeup) everywhere. It is the holy grail of Korean post-surgery recovery, believed to reduce swelling rapidly. It is sold in convenient pouches at every pharmacy and convenience store for about 1,500 KRW ($1.10).
+You will see "Pumpkin Juice" (Hobak-jeup) everywhere. It is the holy grail of Korean post-surgery recovery, believed to reduce swelling rapidly. It is sold in convenient pouches at every pharmacy and convenience store for about ₩1,500 ($1.10).
 
 <ComparisonTable
   title="Recovery Food Options"

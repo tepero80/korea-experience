@@ -1,9 +1,17 @@
 ---
-title: "Adventure travel in Korea: Paragliding, rafting, and climbing guide 2026"
+title: "Adventure Travel Korea: Paragliding, Rafting & More"
 date: 2026-01-01
 excerpt: "Discover Korea's best adventure spots. From paragliding in Danyang ($85) to rafting in Inje, get complete guides, prices, and booking tips for 2026."
 category: Travel & Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Shopping"
+  - "Medical Tourism"
+  - "Travel Tips"
+readTime: "12 min read"
+featured: false
 ---
 
 For international travelers, South Korea is often synonymous with neon-lit cityscapes, ancient palaces, and culinary tours, but the country's mountainous terrain (covering 70% of the landmass) makes it a premier, yet underrated, destination for high-octane adventure sports. If you are looking for paragliding over winding rivers, whitewater rafting through granite gorges, or world-class rock climbing on polished granite, Korea offers accessible, affordable, and safe options often within 2 to 3 hours of Seoul.

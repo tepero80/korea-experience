@@ -14,6 +14,8 @@ export interface Post {
   content: string;
   image?: string;
   author?: string;
+  tags?: string[];
+  readTime?: string;
   featured?: boolean;
   featuredOrder?: number;
   deepDive?: boolean;
@@ -28,6 +30,8 @@ export interface PostMetadata {
   category: string;
   image?: string;
   author?: string;
+  tags?: string[];
+  readTime?: string;
   featured?: boolean;
   featuredOrder?: number;
   deepDive?: boolean;
@@ -57,6 +61,8 @@ function readPostsFromDirectory(directory: string): PostMetadata[] {
         category: data.category || 'Uncategorized',
         image: data.image,
         author: data.author,
+        tags: data.tags || [],
+        readTime: data.readTime,
         featured: data.featured || false,
         featuredOrder: data.featuredOrder,
         deepDive: data.deepDive || false,
@@ -108,6 +114,8 @@ export function getPostBySlug(slug: string): Post | null {
       content,
       image: data.image,
       author: data.author,
+      tags: data.tags || [],
+      readTime: data.readTime,
       featured: data.featured || false,
       featuredOrder: data.featuredOrder,
       deepDive: data.deepDive || false,

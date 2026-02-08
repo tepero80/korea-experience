@@ -4,6 +4,14 @@ date: 2026-01-14
 excerpt: "Your ultimate guide to Gangnam skincare clinics. Compare factory vs. luxury dermatology, check 2026 prices for Rejuran and Botox, and book like a local."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "12 min read"
+featured: false
 ---
 
 For international travelers landing in Seoul, the district of Gangnam represents the global epicenter of aesthetic dermatology. With over 500 registered clinics concentrated within a 10-square-kilometer radius, Gangnam offers the highest density of skincare technology and expertise on the planet. Whether you are looking for a quick "lunchtime laser" to brighten your complexion or a comprehensive anti-aging regimen involving the latest injectables, navigating this massive ecosystem can be overwhelming. You are likely searching for which specific treatments deliver the best results, how to distinguish between "factory" clinics and private specialists, and exactly how much you should budget for a transformative skin experience in 2026.
@@ -14,7 +22,7 @@ For international travelers landing in Seoul, the district of Gangnam represents
   points={[
     "Factory clinics offer prices 50-70% lower than Western averages due to high volume",
     "Rejuran Healer and Potenza are the top trending treatments for 2026",
-    "Tourists are eligible for an immediate 10% VAT refund on procedures over 30,000 KRW",
+    "Tourists are eligible for an immediate 10% VAT refund on procedures over ₩30,000",
     "Board-certified dermatologists (only 2% of clinics) are identified by specific signage"
   ]}
   readTime={15}
@@ -76,19 +84,19 @@ If you are visiting Gangnam this year, you will want to know what the locals are
 Rejuran remains the undisputed king of Korean skin boosters in 2026. Derived from salmon DNA (polynucleotides), it repairs the skin barrier, reduces inflammation, and increases collagen thickness.
 *   **Target:** Fine lines, acne scars, thin skin.
 *   **Pain Level:** High (6/10) - Numbing cream is mandatory.
-*   **Cost:** Approx. 250,000 - 350,000 KRW for 2cc.
+*   **Cost:** Approx. 250,000 - ₩350,000 for 2cc.
 
 ### 2. Potenza (Radiofrequency Microneedling)
 Potenza has largely replaced older microneedling methods. It uses ultrafine needles to deliver radiofrequency energy deep into the dermis, often pumping boosters like exosomes or Rejuran directly into the skin during the process.
 *   **Target:** Enlarged pores, active acne, skin texture.
 *   **Downtime:** Redness for 2-3 days.
-*   **Cost:** Approx. 300,000 - 500,000 KRW per session.
+*   **Cost:** Approx. 300,000 - ₩500,000 per session.
 
 ### 3. InMode FX and Forma
 For facial contouring without surgery, InMode is the go-to. The "FX" mode melts fat in the double chin and jawline using high-voltage energy, while "Forma" tightens the skin.
 *   **Target:** Double chin, chubby cheeks (jowls).
 *   **Pain Level:** Moderate (feels like a hot pinch).
-*   **Cost:** Approx. 100,000 - 200,000 KRW per mode.
+*   **Cost:** Approx. 100,000 - ₩200,000 per mode.
 
 <InfoBox type="tip" title="Pain Management">
 Most clinics offer a "Painless Rejuran" option using a specialized injector gun (like the Rejuran HB Plus) which contains lidocaine. It costs about 20% more but reduces pain significantly compared to manual injection.
@@ -135,7 +143,7 @@ Located just 200 meters from Gangnam Station Exit 10, Muse is iconic for its low
   type="Dermatology Clinic"
   address="808-1 Yeoksam-dong, Gangnam-gu, Seoul"
   hours="10:30-21:00 (Weekdays)"
-  phone="+82-2-1234-5678"
+  phone="(check official website for phone number)"
   priceRange="$"
   rating={4.2}
   transit="Gangnam Station Exit 10, 3 min walk"
@@ -156,7 +164,7 @@ For those prioritizing comfort and doctor interaction, The Heal offers a sanctua
   rating={4.8}
   transit="Sinsa Station Exit 8, 5 min walk"
   highlights={["1:1 Doctor Consult", "Private Rooms", "Visia Skin Analysis"]}
-  tip="Consultations here are paid (approx. 30,000 KRW) but deductible from treatment costs."
+  tip="Consultations here are paid (approx. ₩30,000) but deductible from treatment costs."
 />
 
 ## Step-by-Step Guide: From Booking to Recovery
@@ -199,7 +207,7 @@ It is an open secret that some clinics charge foreigners more than locals. This 
 Avoid booking through unregistered third-party "medical concierge" services found on Instagram unless they are official partners. They often add a 30-50% commission to your bill. Booking directly with the clinic via KakaoTalk is almost always cheaper.
 </InfoBox>
 
-If a clinic quotes you 600,000 KRW for a treatment that is listed as 190,000 KRW on their Korean website, walk away. A 10-20% service fee for translation is standard; a 200% markup is a scam.
+If a clinic quotes you ₩600,000 for a treatment that is listed as ₩190,000 on their Korean website, walk away. A 10-20% service fee for translation is standard; a 200% markup is a scam.
 
 ## Aftercare: Protecting Your Investment
 
@@ -242,6 +250,6 @@ Remember to book early, clarify pricing upfront, and budget downtime for recover
     { question: "Can I wear makeup immediately after treatment?", answer: "For most lasers (like Pico Toning), yes. For microneedling (Potenza) or injections (Rejuran), you must wait at least 24 hours to avoid infection." },
     { question: "Do clinics accept foreign credit cards?", answer: "Yes, almost all clinics in Gangnam accept Visa and Mastercard. However, bring your physical card, as Apple Pay support is still inconsistent in some medical terminals." },
     { question: "Is it safe to get filler in a factory clinic?", answer: "Generally yes, as they use authentic products. However, for complex areas like the nose or under-eyes, the expertise of a private specialist is recommended over a factory clinic doctor." },
-    { question: "How much is the tax refund?", answer: "You get approximately 7-10% of the procedure cost back. You need to spend a minimum of 30,000 KRW to qualify." }
+    { question: "How much is the tax refund?", answer: "You get approximately 7-10% of the procedure cost back. You need to spend a minimum of ₩30,000 to qualify." }
   ]}
 />

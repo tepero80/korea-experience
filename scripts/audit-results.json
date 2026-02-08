@@ -1,0 +1,995 @@
+{
+  "date": "2026-02-08",
+  "total_posts": 158,
+  "files_with_issues": 8,
+  "total_issues": 11,
+  "critical": 0,
+  "warnings": 0,
+  "results": [
+    {
+      "file": "how-to-shop-at-korean-beauty-wholesale-markets-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "how-to-spot-fake-k-beauty-products-a-guide-for-online-shoppers-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "hyundai-department-store-luxury-shopping.md",
+      "mtime": "23:54",
+      "issues": {
+        "won_symbol": [
+          "Line 130: ₩ symbol with no number following - '₩'",
+          "Line 132: ₩ symbol with no number following - '₩'",
+          "Line 132: ₩ symbol with no number following - '₩'"
+        ]
+      },
+      "count": 3
+    },
+    {
+      "file": "innisfree-shopping-guide-best-products-and-store-locations-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "insadong-traditional-crafts-and-souvenirs.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-acne-treatments-pimple-patches-and-serums.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-anti-aging-retinol-vs-peptides.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-body-care-from-head-to-toe.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-book-stores-english-section-guide.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-cleansing-oil-double-cleanse-method.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-counterfeit-products-how-to-spot-fakes.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-cushion-foundation-guide-best-products-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-department-store-rewards-points-and-vip.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-double-cleansing-method-complete-guide-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-essence-vs-serum-what-s-the-difference-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-eye-cream-under-eye-care-guide.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-fragrance-brands-why-tamburins-and-granhand-are-trending-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "affordable-fine-dining-5-michelin-starred-lunch-menus-in-seoul-for-under-50.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "best-areas-to-stay-near-shopping-districts.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "best-korean-convenience-store-food-must-try-items-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "bonsai-and-zen-gardens-finding-peace-in-korea-traditional-greenery-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "celebrity-owned-cafes-and-restaurants-in-seoul-you-can-actually-visit-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "chronic-pain-management-integrating-traditional-medicine-and-modern-tech-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "coex-mall-complete-shopping-and-dining-guide.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "collecting-k-pop-photocards-the-global-market-and-trading-etiquette-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "disability-friendly-medical-facilities-in-korea.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "dongdaemun-wholesale-fashion-market-tips.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "duty-free-shopping-in-korea-complete-guide-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "fat-grafting-vs-fillers-for-face-volume.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "fertility-treatments-ivf-in-korea-success-rates-and-international-patient-care-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "gangnam-underground-shopping-complex.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "gangnam-vs-apgujeong-vs-cheongdam-which-district-for-your-procedure.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "gyeongju-traditional-cuisine-historic-recipes.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "historical-accuracy-in-period-dramas-fact-vs-fiction.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "holistic-wellness-retreats-combining-medical-care-with-zen-experiences-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "how-much-does-a-7-day-trip-to-korea-cost-in-2026-budget-vs-luxury-breakdown.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "itaewon-global-brands-and-import-shops.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "k-drama-filming-locations-you-can-actually-visit.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "k-fandom-economy-where-to-find-limited-edition-goods-without-a-fan-club-membership.md",
+      "mtime": "23:54",
+      "issues": {
+        "won_symbol": [
+          "Line 259: ₩ symbol with no number following - '₩'"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "file": "korean-beauty-clinics-gangnam-skincare-guide.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-clinic-payment-methods-insurance-credit-cards-and-refunds.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-drinking-etiquette-pouring-and-toasting.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-eyewear-fashion-glasses-sunglasses-contacts.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-ginseng-and-health-tonics-what-to-buy-for-energy-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-liposuction-and-body-contouring-guide-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-ramyeon-guide-best-instant-noodle-brands-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-skin-care-treatments-what-clinics-offer.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-webtoon-to-drama-adaptations-timeline.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-wine-culture-domestic-and-imported.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "managing-bruising-and-scarring-korean-skincare-approach.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "medical-procedures-under-local-vs-general-anesthesia.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "medical-second-opinions-how-to-get-them-in-seoul.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "medical-tourism-for-plus-size-patients-korean-clinics-that-specialize.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "mental-health-and-plastic-surgery-managing-expectations.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "mental-health-support-for-expats-english-speaking-therapy-in-seoul-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "non-invasive-skin-tightening-ultherapy-vs-shurink-vs-thermage-prices-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "post-surgery-recovery-meals-best-delivery-options-for-healing-in-seoul-2026.md",
+      "mtime": "23:54",
+      "issues": {
+        "price_consistency": [
+          "Inconsistent base prices: Line 74: ₩5,000; Line 176: ₩10,000"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "file": "prp-vs-pdo-thread-lift-natural-face-rejuvenation-options.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "psychological-support-for-post-surgery-depression-in-foreign-patients-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "public-library-services-for-foreigners-free-books-and-media-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "revision-rhinoplasty-in-korea-why-foreigners-choose-seoul-for-second-chances-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "table-etiquette-in-korea-why-you-should-not-pick-up-your-rice-bowl-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "the-coffee-trail-exploring-gangneung-famous-cafe-street-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "tongyeong-oyster-specialties-coastal-delicacies.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "ultherapy-vs-thermage-vs-shurink-which-face-lifting-treatment-works-best.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "vaginal-rejuvenation-and-women-wellness-clinics-in-seoul-for-expats-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "customized-skincare-getting-a-professional-skin-analysis-in-seoul-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "dental-veneers-porcelain-vs-composite-resin.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-orthodontics-guide-invisalign-vs-local-clear-aligner-costs-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "pharmacy-essentials-pain-relief-and-wound-care-products.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "dealing-with-complications-who-to-contact-in-emergencies.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-beauty-store-comparison-olive-young-vs-lalavla.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "reading-korean-medical-reviews-naver-blog-vs-real-patient-experiences.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "the-truth-about-shadow-doctors-how-to-ensure-your-surgeon-is-real-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "senior-medical-tourism-joint-replacement-and-cataract-surgery.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-skincare-clinic-vs-hospital-where-should-you-go-for-botox-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "scalp-micropigmentation-smp-in-korea-best-clinics-for-hair-density-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korea-plastic-surgery-cost-guide-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "acne-scar-treatment-korea-best-options.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-clothing-sizes-conversion-chart.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-high-end-skincare-is-sulwhasoo-the-history-of-whoo-worth-it-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-home-decor-where-to-buy-modern-hanok-style.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-home-fragrance-and-candles-bringing-the-seoul-scent-home-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-lip-care-treatments-and-tints.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-makeup-trends-2026-what-s-hot-in-k-beauty.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-makeup-trends-cushion-foundation-to-glass-skin.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-men-s-grooming-products-skincare-essentials.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-men-skincare-routine-and-products-guide-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-outlet-malls-designer-discounts.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-sheet-mask-guide-top-brands-and-ingredients.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-skincare-ingredients-snail-mucin-to-centella.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-snail-mucin-products-do-they-really-work-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-stationery-shopping-best-items-from-kyobo-and-artbox-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-sunscreen-guide-chemical-vs-physical.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-sunscreens-for-oily-skin-no-white-cast-no-greasiness-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-toner-vs-essence-what-s-the-difference.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-toy-stores-unique-collectibles.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "laneige-vs-sulwhasoo-korean-skincare-brand-comparison-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "luxury-resale-market-in-korea-shopping-for-pre-loved-designer-bags-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "men-grooming-guide-best-hair-wax-bb-cream-and-skincare-for-guys-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "myeongdong-shopping-guide-beauty-and-fashion.md",
+      "mtime": "23:54",
+      "issues": {
+        "price_consistency": [
+          "Inconsistent base prices: Line 4: ₩4,000; Line 173: ₩30,000"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "file": "namdaemun-market-bargaining-tips.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "online-shopping-in-korea-coupang-vs-gmarket.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "personal-color-analysis-in-seoul-is-it-worth-150-dollars-review-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "personal-shopping-services-english-speaking-help.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "pet-friendly-hotels-and-shopping-areas.md",
+      "mtime": "23:54",
+      "issues": {
+        "price_consistency": [
+          "Inconsistent base prices: Line 4: ₩250,000; Line 188: ₩8,000"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "file": "seoul-best-eyewear-stores-getting-prescription-glasses-in-30-minutes-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "serviced-apartments-vs-hotels-for-shopping-trips.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "shipping-korean-products-home-customs-and-costs.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "shopping-at-the-hyundai-seoul-a-guide-to-korea-coolest-mall-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "smart-shopping-at-olive-young-using-the-app-and-maximizing-sales-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "starfield-mall-entertainment-and-shopping.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "sustainable-fashion-in-seoul-best-eco-friendly-local-brands-2026.md",
+      "mtime": "23:54",
+      "issues": {
+        "price_consistency": [
+          "Inconsistent base prices: Line 76: ₩60,000; Line 113: ₩89,000"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "file": "the-best-skincare-for-maskne-and-sensitive-skin-clinic-approved-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "the-glass-hair-routine-korean-hair-care-products-for-ultimate-shine-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "the-ultimate-guide-to-korean-spatula-makeup-application-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "thrifting-in-seoul-best-charity-shops-and-flea-markets-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "vegan-k-beauty-brands-the-best-animal-free-skincare-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026.md",
+      "mtime": "23:54",
+      "issues": {
+        "price_consistency": [
+          "Inconsistent base prices: Line 52: ₩1,400; Line 75: ₩4,800"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "file": "airport-limousine-bus-vs-arex-express-train.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "andong-hahoe-village-experiencing-korea-living-heritage-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "autumn-colors-best-hiking-and-photography-spots.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "best-coffee-shops-in-seoul-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "best-coworking-spaces-in-seoul-for-short-term-travelers-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "best-day-trips-from-seoul-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "best-time-to-visit-korea-month-by-month-weather.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "budget-travel-korea-how-to-see-seoul-for-50-a-day-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "busan-night-markets-guide-best-food-and-shopping-spots-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "busan-travel-guide-beaches-temples-and-street-food-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "camping-in-korea-glamping-vs-traditional-sites.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "cherry-blossom-season-in-korea-when-and-where-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "coastal-bike-routes-scenic-seaside-cycling.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "danyang-paragliding-guide-soaring-over-the-s-curve-river-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "digital-nomad-guide-coworking-spaces-and-cafes.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "family-friendly-attractions-theme-parks-and-museums.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "ferry-services-to-korean-islands-complete-schedule.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "food-tours-beyond-korean-bbq-street-food-adventures.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026.md",
+      "mtime": "23:54",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "k-beauty-ingredients-deep-dive-mugwort-propolis-and-heartleaf-2026.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-hair-care-shampoo-scalp-treatments.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-moisturizers-cream-vs-gel-formulas.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-sheet-mask-comparison-brands-and-prices.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "korean-stationery-culture-cute-school-supplies.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "olive-young-shopping-guide-must-buy-k-beauty-products.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "tax-refund-for-tourists-how-to-claim.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "bicycle-rental-systems-seoul-busan-jeju.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "lotte-department-store-flagship-locations.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "shinsegae-duty-free-best-deals-for-tourists.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "adventure-travel-rock-climbing-paragliding-and-rafting.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "budget-backpacking-korea-hostels-street-food-and-free-activities.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "cultural-immersion-programs-language-and-craft-workshops.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "top-30-korean-skincare-products-worth-buying-2026.md",
+      "mtime": "23:56",
+      "issues": {},
+      "count": 0
+    },
+    {
+      "file": "foreign-friendly-kiosk-survival-guide-what-to-do-when-your-overseas-credit-card-is-rejected.md",
+      "mtime": "23:56",
+      "issues": {
+        "won_symbol": [
+          "Line 145: ₩ symbol with no number following - '₩'"
+        ],
+        "mdx_syntax": [
+          "Mismatched <QuickFacts>: 2 opens (1 self-closing), 0 closes"
+        ]
+      },
+      "count": 2
+    }
+  ]
+}

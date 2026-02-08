@@ -4,6 +4,14 @@ date: 2026-02-01
 excerpt: "Discover the culinary heart of Korea's south coast with our guide to Tongyeong oysters."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Pop"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "11 min read"
+featured: false
 ---
 
 Tongyeong, often affectionately referred to as the "Naples of Korea," is not just a visual spectacle of azure waters and emerald islands; it is the undisputed capital of Korean oyster production. Located approximately 380 kilometers (236 miles) south of Seoul, this coastal city is responsible for producing nearly 80% of South Korea's oysters and exporting thousands of tons globally every year.
@@ -15,7 +23,7 @@ Related reading: [Korean seafood guide from raw fish to grilled shellfish](/blog
 <KeyTakeaways 
   points={[
     "Tongyeong produces 80% of Korea's oysters, with the peak season running from November to February",
-    "A full oyster course meal (Gul-Course) typically costs between 25,000 KRW and 35,000 KRW ($18-25 USD) per person",
+    "A full oyster course meal (Gul-Course) typically costs between ₩25,000 and ₩35,000 ($18-25 USD) per person",
     "Most famous oyster restaurants are clustered around the Ganggu-an Harbor and Jungang Market area"
   ]}
   readTime={12}
@@ -53,7 +61,7 @@ According to 2025 agricultural data, the region produces over 41,000 tons of oys
 
 The quintessential way to experience Tongyeong's specialty is through a *Gul-Course* (Oyster Course Meal). Unlike western dining where you might order a dozen raw oysters on ice, the Korean approach is holistic. A single restaurant visit will present the key ingredient prepared in five to seven distinct ways.
 
-A standard B-Course usually starts at around 25,000 KRW ($18 USD), while a premium A-Course, which often includes larger servings or additional seafood sides like grilled fish or raw sashmi, averages 30,000 KRW to 35,000 KRW ($22-26 USD).
+A standard B-Course usually starts at around ₩25,000 ($18 USD), while a premium A-Course, which often includes larger servings or additional seafood sides like grilled fish or raw sashmi, averages ₩30,000 to ₩35,000 ($22-26 USD).
 
 ### The Progression of the Meal
 
@@ -125,7 +133,7 @@ For travelers seeking a slightly more traditional atmosphere, Gaetbeol offers a 
 
 While restaurants offer comfort, the Jungang Traditional Market offers immersion. Located just steps from the harbor, this market is a sensory overload of splashing water, shouting vendors, and the freshest seafood imaginable.
 
-Here, you can buy oysters by weight. As of the winter 2025 season, 1 kilogram (2.2 lbs) of freshly shucked oysters typically costs between 15,000 KRW and 20,000 KRW ($11-15 USD). Unshucked oysters in the shell are cheaper by weight but require tools to open.
+Here, you can buy oysters by weight. As of the winter 2025 season, 1 kilogram (2.2 lbs) of freshly shucked oysters typically costs between ₩15,000 and ₩20,000 ($11-15 USD). Unshucked oysters in the shell are cheaper by weight but require tools to open.
 
 <QuickFacts
   title="Jungang Market Stats"
@@ -143,7 +151,7 @@ Here, you can buy oysters by weight. As of the winter 2025 season, 1 kilogram (2
   difficulty="medium"
   steps={[
     { title: "Purchase Oysters", description: "Walk through the wet market. Look for vendors shucking oysters on the spot. Buy 1kg for 2 people.", tip: "Cash is preferred and often gets you a little extra service (deom)." },
-    { title: "Find a Sauce House", description: "Look for signs saying 'Chojang-jip' (초장집) upstairs or nearby. These restaurants charge a 'setting fee' to let you eat your market purchases there.", tip: "Setting fee is usually 5,000 KRW per person." },
+    { title: "Find a Sauce House", description: "Look for signs saying 'Chojang-jip' (초장집) upstairs or nearby. These restaurants charge a 'setting fee' to let you eat your market purchases there.", tip: "Setting fee is usually ₩5,000 per person." },
     { title: "Order Sides", description: "Once seated, the restaurant will provide sauces, lettuce, and garlic. You can order rice, soup, or alcohol (Soju) from their menu.", tip: "" }
   ]}
 />
@@ -176,7 +184,7 @@ Getting to Tongyeong requires a bit of planning, as there is no KTX (high-speed 
 
 While oysters are the star, a trip to Tongyeong is incomplete without trying its other two culinary pillars: *Chungmu Gimbap* and *Omisul* (Honey Bread).
 
-**Chungmu Gimbap** is a distinct variation of the classic Korean roll. Originating from fishermen who needed food that wouldn't spoil quickly in the sun, the rice and seaweed are rolled plain, with spicy squid and radish kimchi served on the side rather than inside. A portion costs about 6,000 KRW ($4.50 USD).
+**Chungmu Gimbap** is a distinct variation of the classic Korean roll. Originating from fishermen who needed food that wouldn't spoil quickly in the sun, the rice and seaweed are rolled plain, with spicy squid and radish kimchi served on the side rather than inside. A portion costs about ₩6,000 ($4.50 USD).
 
 **Tongyeong Honey Bread (Kkulppang)** is a fried dough ball filled with red bean paste and coated in sticky syrup and sesame seeds. It pairs perfectly as a dessert after a salty oyster meal.
 

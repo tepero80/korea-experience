@@ -4,6 +4,14 @@ date: 2026-01-05
 excerpt: "Discover Korea's top coastal cycling routes. From the 234km Jeju Fantasy Path to the East Coast trail, get maps, rental costs, and itinerary tips."
 category: Travel & Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Pop"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "12 min read"
+featured: false
 ---
 
 Korea’s coastal bike routes offer some of the most spectacular cycling infrastructure in Asia, with the **East Coast Bike Path (Gangwon section)** and the **Jeju Fantasy Bike Path** standing out as the premier choices for international cyclists in 2026. These dedicated "Blue Roads" feature over 80% separated cycling lanes, ample supply stops, and certification booths that allow you to track your journey with a physical passport.

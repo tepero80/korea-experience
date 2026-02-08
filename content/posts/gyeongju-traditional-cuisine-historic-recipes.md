@@ -4,6 +4,14 @@ date: 2026-01-09
 excerpt: "Explore Gyeongju traditional cuisine historic recipes. Discover royal Silla Dynasty dishes, famous ssambap alleys."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Shopping"
+  - "Travel Tips"
+  - "Korean Culture"
+readTime: "11 min read"
+featured: false
 ---
 
 Gyeongju, known as the "Museum Without Walls," offers more than just tumuli parks and ancient observatories. As the capital of the Silla Dynasty for nearly 1,000 years (57 BC – 935 AD), this city cultivated a gastronomic heritage that rivals its architectural wonders. For the international traveler, exploring Gyeongju traditional cuisine historic recipes is a journey into the aristocratic palate of ancient Korea, preserved through centuries of family lineages and adapted for the modern table.
@@ -15,7 +23,7 @@ Related reading: [Affordable Fine Dining 5 Michelin-Starred Lunch Menus in ...](
 <KeyTakeaways 
   points={[
     "Gyeongju cuisine is heavily influenced by 1,000 years of Silla Dynasty court culture",
-    "Expect to pay 15,000 to 30,000 KRW per person for a standard Ssambap meal",
+    "Expect to pay 15,000 to ₩30,000 per person for a standard Ssambap meal",
     "Most authentic traditional restaurants are located in the Hwangnam-dong district"
   ]}
   readTime={12}
@@ -87,7 +95,7 @@ While royal cuisine is for special occasions, *Ssambap* (Rice Wrapped in Greens)
 
 A typical Ssambap meal in Gyeongju includes a main protein (usually Bulgogi or spicy pork), a soybean paste stew (*Doenjang-jjigae*), and a basket containing 8 to 12 different types of leafy vegetables. These can range from familiar lettuce and perilla leaves to pumpkin leaves, kelp, and steamed cabbage.
 
-The famous "Ssambap Alley" is located near the Cheomseongdae Observatory. Here, roughly 15 to 20 restaurants compete side-by-side. The average price point is highly competitive, generally hovering around 18,000 KRW per person, making it an accessible option for travelers.
+The famous "Ssambap Alley" is located near the Cheomseongdae Observatory. Here, roughly 15 to 20 restaurants compete side-by-side. The average price point is highly competitive, generally hovering around ₩18,000 per person, making it an accessible option for travelers.
 
 <StepGuide
   title="How to Eat Ssambap Like a Local"
@@ -140,7 +148,7 @@ For those interested in traditional alcohol, Gyeongju Beopju is a must-try. This
 
 The production of Beopju follows a strict traditional method using only glutinous rice, water, and *nuruk* (fermentation starter). The fermentation process takes approximately 100 days, resulting in a clear, golden liquor with an alcohol content of roughly 16% to 17%. Unlike mass-produced Makgeolli, Beopju has a clean, crisp finish with subtle notes of fruit and grain.
 
-A standard 700ml bottle of premium Gyeongju Beopju costs between 35,000 KRW and 50,000 KRW in retail shops, though rare vintage batches can exceed 100,000 KRW.
+A standard 700ml bottle of premium Gyeongju Beopju costs between ₩35,000 and ₩50,000 in retail shops, though rare vintage batches can exceed ₩100,000.
 
 <ExpertTip 
   author="Kim Min-seok"
@@ -180,16 +188,16 @@ For the experiential traveler, simply eating is not enough. Several cultural cen
   ]}
 />
 
-Classes generally cost between 50,000 KRW and 80,000 KRW per person. Most require booking at least 3 days in advance.
+Classes generally cost between ₩50,000 and ₩80,000 per person. Most require booking at least 3 days in advance.
 
 ## Practical Logistics for Foodies
 
-Gyeongju is accessible via the KTX (high-speed train). The journey from Seoul Station to Singyeongju Station takes approximately 2 hours and 10 minutes, costing around 49,300 KRW for an economy seat.
+Gyeongju is accessible via the KTX (high-speed train). The journey from Seoul Station to Singyeongju Station takes approximately 2 hours and 10 minutes, costing around ₩49,300 for an economy seat.
 
-From Singyeongju Station, the main culinary districts are about 10 to 12 kilometers away. A taxi ride will take 20 minutes and cost roughly 15,000 to 18,000 KRW. Alternatively, buses 50, 51, or 70 connect the station to the city center in about 35 minutes.
+From Singyeongju Station, the main culinary districts are about 10 to 12 kilometers away. A taxi ride will take 20 minutes and cost roughly 15,000 to ₩18,000. Alternatively, buses 50, 51, or 70 connect the station to the city center in about 35 minutes.
 
 <InfoBox type="note" title="Payment Methods">
-While Hwangnidan-gil is very card-friendly, some smaller traditional stalls in Jungang Market or street food vendors selling Gyeongju bread may prefer cash. Always carry about 30,000 KRW in cash per person.
+While Hwangnidan-gil is very card-friendly, some smaller traditional stalls in Jungang Market or street food vendors selling Gyeongju bread may prefer cash. Always carry about ₩30,000 in cash per person.
 </InfoBox>
 
 ## Conclusion

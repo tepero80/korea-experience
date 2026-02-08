@@ -4,6 +4,14 @@ date: 2026-01-10
 excerpt: "Explore the fascinating balance between historical facts and creative storytelling in Korean period dramas."
 category: K-Culture
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "25 min read"
+featured: false
 ---
 **Introduction: The Magnetic Appeal of Korean Historical Dramas**
 

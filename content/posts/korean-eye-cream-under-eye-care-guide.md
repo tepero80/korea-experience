@@ -4,6 +4,14 @@ date: 2026-01-15
 excerpt: "Discover the best Korean eye creams for dark circles and wrinkles. Our 2026 guide covers ingredients, prices, and shopping tips for 15+ top brands."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "13 min read"
+featured: false
 ---
 
 The most effective Korean eye care routine relies on a combination of lightweight, fermentation-based ingredients and a gentle "tapping" application method rather than heavy, occlusive creams. Unlike Western standards that often focus on retinol-heavy formulations, the Korean approach prioritizes hydration barrier repair using ginseng, snail mucin, and peptides to plump the delicate under-eye area, which is approximately 0.5mm thick—about one-tenth the thickness of facial skin. For 2026, the market leaders are AHC (for all-over application), Sulwhasoo (for herbal anti-aging), and COSRX (for texture repair), with most products priced between ₩25,000 and ₩80,000 ($18–$60 USD).

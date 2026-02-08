@@ -4,6 +4,14 @@ date: 2026-01-17
 excerpt: "Master the 2026 glass skin look with our guide to Korean cushion foundations. Discover top brands, application tips, and shopping spots in Seoul."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "13 min read"
+featured: false
 ---
 
 If you have ever walked through the bustling streets of Myeongdong or watched a high-definition K-Drama, you have likely noticed one undeniable fact: the complexion of Korean women often appears flawless, luminous, and impossibly hydrated. This is not accidental. It is the result of a meticulously evolved beauty philosophy that bridges the gap between skincare and makeup, centered primarily around the "Glass Skin" phenomenon and the revolutionary cushion foundation. For travelers and expats in 2026, understanding this trend is the key to unlocking the secrets of K-Beauty shopping.

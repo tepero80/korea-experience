@@ -1,19 +1,27 @@
 ---
 title: "Korean hair care shampoo scalp treatments guide for travelers 2026"
 date: 2026-01-16
-excerpt: "Discover the 15-step Korean head spa experience, best anti-hair loss shampoos, and scalp scaling clinics in Seoul with prices starting at 50,000 KRW."
+excerpt: "Discover the 15-step Korean head spa experience, best anti-hair loss shampoos, and scalp scaling clinics in Seoul with prices starting at ₩50,000."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "13 min read"
+featured: false
 ---
 
-Korean hair care shampoo scalp treatments generally refer to a two-part beauty philosophy: the "Head Spa" (a professional 15-step salon service involving deep exfoliation, massage, and nutrient infusion) and specialized home-care products focusing on "scalp scaling" rather than just hair washing. Unlike Western hair care that prioritizes the hair shaft's shine and styling, Korean hair care operates on the principle of "skin-ification," treating the scalp with the same rigorous multi-step attention as facial skin. Travelers in Seoul can experience professional head spas ranging from basic 60-minute scaling sessions for around 50,000 KRW ($38 USD) to luxury 120-minute stem-cell therapies costing upwards of 250,000 KRW ($190 USD).
+Korean hair care shampoo scalp treatments generally refer to a two-part beauty philosophy: the "Head Spa" (a professional 15-step salon service involving deep exfoliation, massage, and nutrient infusion) and specialized home-care products focusing on "scalp scaling" rather than just hair washing. Unlike Western hair care that prioritizes the hair shaft's shine and styling, Korean hair care operates on the principle of "skin-ification," treating the scalp with the same rigorous multi-step attention as facial skin. Travelers in Seoul can experience professional head spas ranging from basic 60-minute scaling sessions for around ₩50,000 ($38 USD) to luxury 120-minute stem-cell therapies costing upwards of ₩250,000 ($190 USD).
 
 **The short answer: Korean scalp treatments focus on exfoliating the scalp skin ("scaling") to prevent hair loss and boost volume, utilizing ingredients like salicylic acid, ginseng, and green tea in a process that mimics a facial for your head.**
 
 <KeyTakeaways 
   points={[
     "Head Spas are 15-step treatments including microscope analysis and deep scaling",
-    "Average scaling treatment costs 50,000 to 150,000 KRW ($38-$115 USD)",
+    "Average scaling treatment costs 50,000 to ₩150,000 ($38-$115 USD)",
     "Top ingredients to look for are biotin, salicylic acid, and dexpanthenol",
     "Most popular home-care brands include Dr.FORHAIR, Aromatica, and Ryo",
     "Book at least 2 weeks in advance for popular Gangnam clinics"
@@ -103,7 +111,7 @@ This is the flagship clinic of the famous shampoo brand. It is less "spa" and mo
 
 ### 3. Park Seung Chol Hair Studio (Myeongdong)
 A reliable, accessible chain. While they are a general hair salon, their "Smart Scalp Care" package is excellent for first-timers and is more affordable.
-*   **Price:** Around 80,000 KRW ($60 USD).
+*   **Price:** Around ₩80,000 ($60 USD).
 *   **Accessibility:** Staff are used to tourists and often speak basic English.
 
 If you are interested in broader beauty treatments while in the area, check out our guide to [best Korean skin clinics in Gangnam](/blog/best-korean-skin-clinics-in-gangnam-2026) to pair your scalp treatment with a facial.
@@ -148,13 +156,13 @@ Here are the top contenders for 2026:
 The absolute market leader for years. It contains biotin, ceramide, and saw palmetto extract.
 *   **Best for:** Thinning hair, oily scalp.
 *   **Scent:** Morphine-like floral (clean, clinical scent).
-*   **Price:** ~18,000 KRW ($13 USD) for 500ml.
+*   **Price:** ~₩18,000 ($13 USD) for 500ml.
 
 ### 2. Aromatica Rosemary Scalp Scaling Shampoo
 A vegan favorite. It uses decoction extraction methods with rosemary and BHAs (salicylic acid) to gently exfoliate.
 *   **Best for:** Sensitive scalps, vegans, eco-conscious shoppers.
 *   **Scent:** Strong, natural herbal rosemary.
-*   **Price:** ~22,000 KRW ($16 USD) for 400ml.
+*   **Price:** ~₩22,000 ($16 USD) for 400ml.
 
 ### 3. Labo-H Probiotics Hair Loss Relief
 Owned by Amorepacific, this brand focuses on the scalp microbiome using green tea probiotics from Jeju Island.
@@ -247,7 +255,7 @@ For those with significant budget and hair concerns, Korean clinics offer MTS (M
 
 This is often paired with "Exosome" therapy—a buzzword in 2026 K-Beauty. Exosomes are cell-signaling molecules derived from stem cells that signal your hair follicles to "wake up."
 
-*   **Cost:** 200,000 - 400,000 KRW per session.
+*   **Cost:** 200,000 - ₩400,000 per session.
 *   **Downtime:** None, though the scalp may be red for a few hours.
 *   **Pain:** Minimal (numbing spray is used).
 

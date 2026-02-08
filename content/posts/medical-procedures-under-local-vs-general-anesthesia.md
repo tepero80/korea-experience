@@ -4,6 +4,14 @@ date: 2026-01-24
 excerpt: "A comprehensive guide to anesthesia types in Korean medical tourism, costs, safety protocols, and what to expect during surgery. Average read time 15 mins."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "14 min read"
+featured: false
 ---
 
 Deciding on a medical procedure in South Korea involves more than just selecting a surgeon or a clinic; understanding the type of anesthesia used is crucial for your safety, comfort, and recovery speed. In the context of Korean medical tourism, the choice between local anesthesia, sedation (often called "sleep anesthesia" locally), and general anesthesia is determined by the invasiveness of the surgery, the duration of the procedure, and patient anxiety levels. While minor treatments like thread lifts or simple blepharoplasty are almost exclusively performed under local anesthesia, major skeletal surgeries like jaw contouring mandate general anesthesia with intubation.
@@ -136,7 +144,7 @@ If you request Sleep Anesthesia for a procedure usually done under Local Anesthe
   ]}
 />
 
-*Note: Exchange rate approx. 1,450 KRW = 1 USD (2026 estimate).*
+*Note: Exchange rate approx. ₩1,450 = 1 USD (2026 estimate).*
 
 ## Safety Standards: The "Shadow Doctor" Concern & CCTV
 

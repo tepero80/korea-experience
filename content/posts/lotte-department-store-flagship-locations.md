@@ -1,9 +1,17 @@
 ---
-title: "Lotte Department Store flagship locations in Seoul and Busan guide 2026"
+title: "Lotte Department Store Seoul: Complete Flagship Guide 2026"
 date: 2026-01-23
 excerpt: "Discover the best Lotte Department Store flagship locations. Compare Myeongdong vs Jamsil, find 2026 luxury brands, food courts, and duty-free prices."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "14 min read"
+featured: false
 ---
 
 If you are looking for the absolute best Lotte Department Store experience in Korea, the **Main Store in Myeongdong** and the **Jamsil Store (connected to Lotte World Tower)** are the two undisputed flagship locations you must visit. The Myeongdong Main Store is the historic hub of Korean retail, offering the highest concentration of duty-free goods and acting as a bridge to the famous Myeongdong shopping district. Conversely, the Jamsil location offers a more modern, spacious luxury experience, integrated with the massive Lotte World Mall, Aquarium, and Theme Park.
@@ -14,7 +22,7 @@ If you are looking for the absolute best Lotte Department Store experience in Ko
   points={[
     "Myeongdong Main Store is best for Duty-Free shopping with the largest inventory in Seoul",
     "Jamsil Store connects to Lotte World Tower and offers a less crowded, premium luxury vibe",
-    "Tourists get immediate tax refunds of roughly 6-8% on purchases between 30,000 and 500,000 KRW",
+    "Tourists get immediate tax refunds of roughly 6-8% on purchases between 30,000 and ₩500,000",
     "The basement food courts (Food Avenue) close at 8:00 PM on weekdays and 8:30 PM on weekends"
   ]}
   readTime={15}
@@ -150,7 +158,7 @@ Lotte Department Stores offer **Immediate Tax Refund** services.
   totalTime="5 minutes"
   difficulty="easy"
   steps={[
-    { title: "Check Price", description: "Ensure item is over 30,000 KRW (approx $22).", tip: "Look for the 'Tax Free' logo at the register." },
+    { title: "Check Price", description: "Ensure item is over ₩30,000 (approx $22).", tip: "Look for the 'Tax Free' logo at the register." },
     { title: "Present Passport", description: "Hand your passport to the cashier BEFORE they scan the item.", tip: "Digital copies are usually rejected." },
     { title: "Verification", description: "The system checks your entry date into Korea.", tip: "Must be within 3 months of entry." },
     { title: "Payment", description: "Pay the net price (minus the roughly 6-8% tax)." }

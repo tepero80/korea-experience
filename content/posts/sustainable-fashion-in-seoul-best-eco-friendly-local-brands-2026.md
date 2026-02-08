@@ -4,6 +4,14 @@ date: 2026-01-30
 excerpt: "Discover Seoul's top eco-friendly brands for 2026. From upcycled streetwear to vegan leather, explore where to shop sustainably with prices and locations."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Travel Tips"
+readTime: "14 min read"
+featured: false
 ---
 
 For eco-conscious travelers visiting Korea in 2026, the most pressing question is often where to find authentic sustainable fashion that goes beyond mere greenwashing. You can find the best sustainable fashion in Seoul concentrated in the **Seongsu-dong** and **Hannam-dong** districts, where brands like **RE;CODE**, **PLEATS MAMA**, and **Marhen.J** have established flagship stores dedicated to upcycling, zero-waste knitting, and vegan materials.
@@ -15,7 +23,7 @@ For eco-conscious travelers visiting Korea in 2026, the most pressing question i
     "Seongsu-dong is the epicenter of eco-fashion with 15+ sustainable brand showrooms",
     "RE;CODE and PLEATS MAMA are the two must-visit local pioneers in 2026",
     "Expect to pay 20-30% more for certified eco-friendly items compared to fast fashion",
-    "Most stores offer immediate tax refunds for purchases over 30,000 KRW"
+    "Most stores offer immediate tax refunds for purchases over ₩30,000"
   ]}
   readTime={18}
   lastUpdated="2026-02-08"

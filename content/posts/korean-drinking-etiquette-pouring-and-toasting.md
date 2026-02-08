@@ -4,6 +4,14 @@ date: 2026-01-15
 excerpt: "Master Korean drinking etiquette pouring and toasting rules. Learn the essential customs, from the two-hand pour to the senior turn."
 category: Food & Dining
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "Shopping"
+  - "Medical Tourism"
+  - "Travel Tips"
+readTime: "14 min read"
+featured: false
 ---
 
 Understanding Korean drinking etiquette pouring and toasting customs is the fastest way to bridge the cultural gap and earn respect in South Korea. Alcohol acts as the primary social lubricant in Korean society, breaking down hierarchical stiffness and fostering deeper bonds between colleagues and friends.
@@ -89,7 +97,7 @@ While craft cocktails and wine are growing in popularity in districts like Hanna
 ### Soju: The National Spirit
 Soju is a clear, distilled liquor traditionally made from rice, but now often produced from sweet potatoes or tapioca. It has a neutral taste, similar to vodka but sweeter and with a lower viscosity.
 *   **ABV:** Typically 16% to 20%.
-*   **Price:** Very affordable. In a convenience store, a bottle costs roughly 1,800 to 2,000 KRW ($1.35 - $1.50 USD).
+*   **Price:** Very affordable. In a convenience store, a bottle costs roughly 1,800 to ₩2,000 ($1.35 - $1.50 USD).
 *   **Serving:** Always served chilled and neat in small shot glasses.
 
 ### Maekju (Beer)
@@ -172,7 +180,7 @@ If you wake up foggy after a night of Soju, look for "Haejangguk" (Hangover Soup
   tip="This is one of Seoul's oldest restaurants. The ox blood soup is famous for curing hangovers instantly."
 />
 
-A bowl of Haejangguk typically costs between 10,000 and 14,000 KRW ($7.50 - $10.50 USD). It is usually eaten between 7:00 AM and 10:00 AM by office workers recovering before the workday begins.
+A bowl of Haejangguk typically costs between 10,000 and ₩14,000 ($7.50 - $10.50 USD). It is usually eaten between 7:00 AM and 10:00 AM by office workers recovering before the workday begins.
 
 ## Paying the Bill
 
@@ -213,7 +221,7 @@ When navigating the nightlife, safety and logistics are important. Public transp
 *   **Subways:** Most lines stop around 12:30 AM on weekdays and slightly earlier on weekends.
 *   **Taxis:** After 11:00 PM, finding a taxi can be difficult in areas like Gangnam or Itaewon.
 *   **KakaoTaxi:** It is highly recommended to download the Kakao T app. You can link foreign credit cards.
-*   **Surcharges:** There is a late-night taxi surcharge of 20% to 40% between 10:00 PM and 4:00 AM. A ride that normally costs 15,000 KRW might cost 20,000 KRW during these hours.
+*   **Surcharges:** There is a late-night taxi surcharge of 20% to 40% between 10:00 PM and 4:00 AM. A ride that normally costs ₩15,000 might cost ₩20,000 during these hours.
 
 <ComparisonTable
   title="Transport Options After Midnight"

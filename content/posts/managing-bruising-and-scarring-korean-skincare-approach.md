@@ -4,6 +4,14 @@ date: 2026-01-24
 excerpt: "A complete guide to Korean post-procedure care, featuring top pharmacy creams, deswelling treatments, and recovery protocols with 2026 pricing data."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "13 min read"
+featured: false
 ---
 
 The Korean approach to managing bruising and scarring differs significantly from Western methods because it is proactive rather than reactive, utilizing a combination of pharmaceutical-grade ointments, specialized "deswelling" diets, and in-clinic LED therapies immediately after a procedure. While many Western patients are told to simply "wait it out" with an ice pack, Korean medical culture treats the recovery phase as an active extension of the surgery itself, employing a multi-step regimen to reduce downtime by up to 50% compared to natural healing.
@@ -12,7 +20,7 @@ The Korean approach to managing bruising and scarring differs significantly from
 
 <KeyTakeaways 
   points={[
-    "Korean pharmacies sell over-the-counter 'bruise creams' like Venalisa for under 15,000 KRW",
+    "Korean pharmacies sell over-the-counter 'bruise creams' like Venalisa for under ₩15,000",
     "Pumpkin juice is the #1 consumed recovery drink in Korea to reduce facial swelling",
     "Most Gangnam clinics include 1-2 complimentary deswelling laser sessions in surgery packages"
   ]}
@@ -27,7 +35,7 @@ In Korean medical aesthetics, there is a concept known as "Golden Time" (Gol-deu
 Unlike the passive "rest and wait" approach, Korean patients are encouraged to mobilize specifically to aid lymphatic drainage. Statistics from major clinics in Gangnam-gu show that patients who follow the active "K-Recovery" protocol report a 40% reduction in visible swelling by day 5 compared to those who do not.
 
 <InfoBox type="tip" title="Pro Tip">
-  Don't rely solely on the ice packs provided by the clinic. Korean pharmacies sell specific "cooling eye masks" (Gel An-dae) for roughly 5,000 KRW that conform better to facial contours than standard medical ice packs.
+  Don't rely solely on the ice packs provided by the clinic. Korean pharmacies sell specific "cooling eye masks" (Gel An-dae) for roughly ₩5,000 that conform better to facial contours than standard medical ice packs.
 </InfoBox>
 
 ### The Three Pillars of K-Recovery
@@ -42,13 +50,13 @@ If you are visiting Korea for medical tourism, your first stop after the clinic 
 ### 1. The Bruise Erasers: Amorphous Aescin
 The gold standard for bruising in Korea involves gels containing Amorphous Aescin (derived from horse chestnut) or Heparin Sodium. These ingredients work to break down coagulated blood beneath the skin and accelerate absorption.
 
-*   **Venalisa (Beneurisa):** This is perhaps the most famous gel among Korean women. It strengthens capillary walls and reduces inflammation. A 20g tube typically costs between 10,000 and 12,000 KRW.
+*   **Venalisa (Beneurisa):** This is perhaps the most famous gel among Korean women. It strengthens capillary walls and reduces inflammation. A 20g tube typically costs between 10,000 and ₩12,000.
 *   **Mung-S (Bruise-S):** A popular alternative often found in smaller pharmacies. It specifically targets the yellow/green phase of bruising.
 
 ### 2. The Scar Faders: Heparin and Silicone
 Once the wound has closed and stitches are removed (usually day 5-7), the focus shifts immediately to scar prevention.
 
-*   **Noscarana Gel:** This is ubiquitous in Korea. It contains heparin sodium, allantoin, and dexpanthenol. Unlike standard antibiotic ointments, this is specifically designed to flatten hypertrophic scars and reduce redness. It retails for approximately 20,000 KRW for a 20g tube.
+*   **Noscarana Gel:** This is ubiquitous in Korea. It contains heparin sodium, allantoin, and dexpanthenol. Unlike standard antibiotic ointments, this is specifically designed to flatten hypertrophic scars and reduce redness. It retails for approximately ₩20,000 for a 20g tube.
 *   **Dermatix Ultra:** While an international brand, the formulation sold in Korea is often preferred by surgeons here for its silicone content. It creates a barrier that hydrates the scar tissue, preventing it from raising.
 
 <PriceTable
@@ -94,10 +102,10 @@ Almost every clinic in Gangnam utilizes LED light therapy.
 *   **Red Light (630-660nm):** Used for skin regeneration and wound healing.
 *   **Blue Light:** Used if there is any risk of acne or infection near the surgical site.
 
-Sessions usually last 15-20 minutes. If you are paying out of pocket, a session costs roughly 30,000 to 50,000 KRW, but most surgical packages include 2-3 sessions for free.
+Sessions usually last 15-20 minutes. If you are paying out of pocket, a session costs roughly 30,000 to ₩50,000, but most surgical packages include 2-3 sessions for free.
 
 ### Hyperbaric Oxygen Therapy
-For larger procedures like liposuction or facelifts, premium clinics offer Hyperbaric Oxygen Chambers. Sitting in these pressurized capsules increases the oxygen saturation in your blood, speeding up tissue repair. A 30-minute session costs between 100,000 and 150,000 KRW.
+For larger procedures like liposuction or facelifts, premium clinics offer Hyperbaric Oxygen Chambers. Sitting in these pressurized capsules increases the oxygen saturation in your blood, speeding up tissue repair. A 30-minute session costs between 100,000 and ₩150,000.
 
 <QuickFacts
   title="Aftercare Treatment Data"
@@ -122,13 +130,13 @@ Managing a scar in Korea is a marathon, not a sprint. The timeline is adhered to
 *   **Goal:** Flatten tissue and reduce vascularity.
 *   **Action:** Apply Noscarana or Dermatix twice daily.
 *   **Clinic Option:** If the scar remains red, Koreans will undergo "V-Beam" or "Genesis" laser treatments. These vascular lasers target the hemoglobin in the red scar, collapsing the vessels and returning the skin to a normal color.
-    *   *Cost:* Approx 100,000 - 200,000 KRW per small area (5cm).
+    *   *Cost:* Approx 100,000 - ₩200,000 per small area (5cm).
 
 ### Month 3-6: Texture and Pigmentation
 *   **Goal:** Address Hyperpigmentation (PIH).
 *   **Action:** Strict UV protection.
 *   **Korean Method:** "Laser Toning" (Q-Switched Nd:YAG) is used to break up brown pigment that forms around incision lines. This is gentle and can be done weekly.
-    *   *Cost:* Extremely affordable in Korea, often 30,000 - 50,000 KRW per session as part of a package.
+    *   *Cost:* Extremely affordable in Korea, often 30,000 - ₩50,000 per session as part of a package.
 
 <StepGuide
   title="Daily Scar Care Routine (Post-Stitch Removal)"
@@ -176,7 +184,7 @@ Rejuran is a polynucleotide (PN) derived from salmon DNA. While often used for a
 *   **Process:** Injected into the dermis.
 *   **Pain:** High (unless done under sedation).
 *   **Result:** Improves skin thickness and elasticity, helping scars blend better with surrounding tissue.
-*   **Cost:** Approx 250,000 - 350,000 KRW for 2cc.
+*   **Cost:** Approx 250,000 - ₩350,000 for 2cc.
 
 ### Exosomes
 Exosomes are cell-signaling molecules that tell damaged cells to regenerate. In 2026, topical exosome application immediately after laser treatments is standard in high-end clinics to reduce downtime from 7 days to 3 days.

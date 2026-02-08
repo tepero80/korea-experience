@@ -4,6 +4,14 @@ date: 2026-02-03
 excerpt: "Unearth unique finds in Dongmyo, Seoul's vintage paradise. This 2026 guide offers essential tips for international shoppers."
 category: Travel & Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "K-Pop"
+  - "Shopping"
+readTime: "20 min read"
+featured: false
 ---
 
 # Vintage Shopping in Dongmyo: A Treasure Hunter Guide 2026
@@ -138,11 +146,11 @@ Unlike fixed-price retail stores, many vendors in Dongmyo operate on a flexible 
 Negotiating in a foreign market can feel intimidating, but it's part of the fun in Dongmyo.
 
 1.  **Be Polite and Friendly:** A smile and a respectful demeanor go a long way. Start with *Kamsahamnida* (Thank you) and use your few Korean phrases.
-2.  **Start Slightly Lower:** If a vendor quotes 15,000 Korean Won (KRW) for a shirt, you might counter with 10,000 KRW, aiming to settle around 12,000-13,000 KRW. Don't go ridiculously low, as it can be considered rude.
+2.  **Start Slightly Lower:** If a vendor quotes 15,000 Korean Won (KRW) for a shirt, you might counter with ₩10,000, aiming to settle around 12,000-₩13,000. Don't go ridiculously low, as it can be considered rude.
 3.  **Use the "Buying Multiple Items" Tactic:** Point to 2-3 items and ask *Igeo-jugeo gachi eolmayeyo?* (How much for these together?). This is a strong negotiation point.
 4.  **Know When to Walk Away (Temporarily):** If the price isn't budging, politely say *Gamsahamnida* and start to walk away. Sometimes, the vendor will call you back with a better offer.
 5.  **Small Denominations:** It's easier to negotiate with smaller cash amounts ready, showing you're serious.
-6.  **Don't Over-Negotiate Small Amounts:** If you're haggling over 1,000 KRW (less than 1 USD), it might not be worth the effort for either party.
+6.  **Don't Over-Negotiate Small Amounts:** If you're haggling over ₩1,000 (less than 1 USD), it might not be worth the effort for either party.
 
 ### Inspecting Your Finds: Tips for Quality and Authenticity
 
@@ -165,7 +173,7 @@ Due to the "as is" nature of sales, a thorough inspection is crucial.
 
 ### Payment Methods and Carrying Your Haul
 
-*   **Cash is King:** While some larger indoor shops might accept credit cards, the vast majority of street vendors operate on a cash-only basis. Have plenty of Korean Won in smaller denominations (1,000, 5,000, 10,000 KRW notes). There are ATMs around Dongmyo Station if you need to withdraw cash.
+*   **Cash is King:** While some larger indoor shops might accept credit cards, the vast majority of street vendors operate on a cash-only basis. Have plenty of Korean Won in smaller denominations (1,000, 5,000, ₩10,000 notes). There are ATMs around Dongmyo Station if you need to withdraw cash.
 *   **Bring Your Own Bag:** Most vendors will provide small plastic bags, but they are often flimsy. If you plan on buying a lot, bring a sturdy reusable shopping bag or a backpack to carry your treasures comfortably.
 *   **Consider a Trolley:** For serious haulers, especially those buying bulk or heavy items, a small foldable trolley can be a lifesaver.
 
@@ -181,7 +189,7 @@ Right in the heart of the market chaos lies a serene oasis: Dongmyo Shrine (Dong
 
 All that treasure hunting works up an appetite! Dongmyo doesn't disappoint when it comes to delicious and affordable food options.
 
-*   **Street Food Stalls:** Throughout the market, you'll find numerous street food vendors selling classic Korean treats. Look for *tteokbokki* (spicy rice cakes), *eomuk* (fish cakes on skewers), *mandu* (dumplings), *hotteok* (sweet pancakes), and various fried snacks. Prices are very reasonable, typically ranging from 1,000-5,000 KRW per item.
+*   **Street Food Stalls:** Throughout the market, you'll find numerous street food vendors selling classic Korean treats. Look for *tteokbokki* (spicy rice cakes), *eomuk* (fish cakes on skewers), *mandu* (dumplings), *hotteok* (sweet pancakes), and various fried snacks. Prices are very reasonable, typically ranging from 1,000-₩5,000 per item.
 *   **Gukbap Restaurants:** The area is also known for its local *gukbap* (rice soup) restaurants. These eateries serve hearty, warming bowls of soup with rice, often featuring pork or blood sausage. They are perfect for a substantial and authentic Korean lunch. Look for signs that say *Sundae Gukbap* or *Dwaeji Gukbap*.
 *   **Cafes:** If you need a caffeine fix or a place to rest your feet, there are several small cafes interspersed among the shops where you can grab a coffee or a sweet treat.
 

@@ -4,6 +4,14 @@ date: 2026-01-21
 excerpt: "Comprehensive 2026 guide to plastic surgery costs in Korea. Compare prices for rhinoplasty, blepharoplasty, and facelifts in Seoul vs. global rates."
 category: Medical Tourism
 author: Korea Experience Team
+tags:
+  - "Korean Food"
+  - "Seoul"
+  - "K-Beauty"
+  - "Shopping"
+  - "Medical Tourism"
+readTime: "13 min read"
+featured: false
 ---
 
 Planning a medical trip to Seoul involves navigating a complex landscape of pricing, procedure types, and clinic tiers. You likely want to know exactly how much to budget for plastic surgery in Korea in 2026 to ensure you aren't overcharged while maintaining the highest safety standards.
