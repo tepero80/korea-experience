@@ -5,7 +5,7 @@ export default function Footer() {
   const currentYear = new Date().getFullYear();
 
   return (
-    <footer className="bg-gradient-to-b from-gray-900 to-gray-950 text-gray-300 mt-auto">
+    <footer className="bg-gradient-to-b from-stone-900 to-stone-950 text-gray-300 mt-auto">
       {/* Main Footer Content */}
       <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-16">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-12">
@@ -13,8 +13,8 @@ export default function Footer() {
           <div className="lg:col-span-4">
             <div className="flex items-center gap-3 mb-6">
               <div className="relative">
-                <div className="absolute inset-0 bg-blue-600 rounded-xl blur opacity-50" />
-                <div className="relative bg-blue-600 p-2 rounded-xl">
+                <div className="absolute inset-0 bg-amber-600 rounded-xl blur opacity-50" />
+                <div className="relative bg-gradient-to-br from-amber-600 to-orange-700 p-2 rounded-xl">
                   <svg width="26" height="26" viewBox="0 0 26 26" fill="none" className="w-6 h-6">
                     <circle cx="13" cy="14" r="8.5" stroke="white" strokeWidth="1.5" opacity="0.4"/>
                     <ellipse cx="13" cy="14" rx="4" ry="8.5" stroke="white" strokeWidth="1" opacity="0.3"/>
@@ -42,7 +42,7 @@ export default function Footer() {
           <div className="lg:col-span-2">
             <h4 className="text-white font-semibold text-lg mb-6 relative inline-block">
               Quick Links
-              <span className="absolute bottom-0 left-0 w-12 h-0.5 bg-gradient-to-r from-blue-500 to-cyan-400" />
+              <span className="absolute bottom-0 left-0 w-12 h-0.5 bg-gradient-to-r from-amber-500 to-orange-400" />
             </h4>
             <ul className="space-y-3">
               {FOOTER_LINKS.resources.map((link) => (
@@ -62,7 +62,7 @@ export default function Footer() {
           <div className="lg:col-span-3">
             <h4 className="text-white font-semibold text-lg mb-6 relative inline-block">
               Categories
-              <span className="absolute bottom-0 left-0 w-12 h-0.5 bg-gradient-to-r from-blue-500 to-cyan-400" />
+              <span className="absolute bottom-0 left-0 w-12 h-0.5 bg-gradient-to-r from-amber-500 to-orange-400" />
             </h4>
             <ul className="space-y-3">
               {CATEGORY_HUBS.map((cat) => (
@@ -82,7 +82,7 @@ export default function Footer() {
           <div className="lg:col-span-3">
             <h4 className="text-white font-semibold text-lg mb-6 relative inline-block">
               Legal
-              <span className="absolute bottom-0 left-0 w-12 h-0.5 bg-gradient-to-r from-blue-500 to-cyan-400" />
+              <span className="absolute bottom-0 left-0 w-12 h-0.5 bg-gradient-to-r from-amber-500 to-orange-400" />
             </h4>
             <ul className="space-y-3">
               {FOOTER_LINKS.legal.map((link) => (

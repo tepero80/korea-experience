@@ -74,6 +74,7 @@ const generateNavTools = () => {
   
   return categories.map(category => ({
     category,
+    slug: category.toLowerCase().replace(/[&]/g, '').replace(/\s+/g, '-'),
     icon: CATEGORY_ICONS[category],
     tools: ALL_TOOLS
       .filter(t => t.category === category && t.status === 'active')

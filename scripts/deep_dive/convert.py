@@ -75,6 +75,52 @@ STRUCTURE: Opening paragraph → KeyTakeaways → QuickFacts → Body (4-6 H2s) 
 Timeline → ComparisonTable → ProsCons → StepGuide → ExpertTip →
 InfoBox (arc-free MANDATORY) → FAQAccordion (MANDATORY) → Conclusion → Sources
 
+═══════════════════════════════════════════════
+COMPONENT PROP SPECIFICATIONS (MUST follow EXACTLY):
+═══════════════════════════════════════════════
+
+<KeyTakeaways points={{["point 1", "point 2"]}} />
+  - points: string[] (REQUIRED)
+
+<QuickFacts facts={{[{{ label: "Price", value: "₩50,000", icon: "💰" }}]}} />
+  - facts: {{ label, value, icon?, note? }}[] (REQUIRED — NOT "data")
+
+<Timeline items={{[{{ time: "2024", title: "Event", description: "Details" }}]}} />
+  - items: {{ time?, title, description, icon? }}[] (REQUIRED — NOT "events", NOT "year"/"event")
+
+<ComparisonTable headers={{['Feature', 'Option A', 'Option B']}} rows={{[{{ feature: 'Speed', option1: 'Fast', option2: 'Slow' }}]}} />
+  - headers: string[] (REQUIRED)
+  - rows: {{ feature, option1, option2, option3?, ... }}[] (REQUIRED — NOT "items", NOT "cell1"/"item1")
+
+<ProsCons pros={{["pro 1", "pro 2"]}} cons={{["con 1", "con 2"]}} />
+  - pros: string[] (REQUIRED)
+  - cons: string[] (REQUIRED)
+
+<StepGuide title="Guide Title" steps={{[{{ title: "Step 1", description: "Details", tip: "Helpful tip" }}]}} />
+  - title: string (REQUIRED)
+  - steps: {{ title, description, tip?, duration?, icon? }}[] (REQUIRED — use "description" NOT "text")
+
+<ExpertTip name="Expert Name" role="Title, X years experience" quote="Quote text here" />
+  - name: string (REQUIRED)
+  - role: string (REQUIRED)
+  - quote: string (REQUIRED)
+  - Do NOT include avatar prop (no avatar images exist)
+
+<InfoBox type="tip" title="Title">Content here</InfoBox>
+  - type: "tip" | "warning" | "info" | "danger" | "note" | "arc-free" (REQUIRED)
+  - Content goes as CHILDREN between tags, NOT as a "text" prop
+
+<FAQAccordion items={{[{{ question: "Q?", answer: "A." }}]}} />
+  - items: {{ question, answer }}[] (REQUIRED — NOT "questions")
+
+PROP RULES (CRITICAL — violations cause runtime errors):
+- ALWAYS use the EXACT prop names listed above
+- String props with apostrophes: use backslash escape \\'
+- Do NOT invent prop names like "data", "events", "questions", "text", "cell1"
+- Do NOT add avatar prop to ExpertTip
+- InfoBox content MUST be children, not a text="" prop
+═══════════════════════════════════════════════
+
 {link_section}
 
 LATEX CONVERSION: Remove ALL LaTeX $ delimiters, keep currency $ signs.
@@ -106,6 +152,97 @@ def sanitize_mdx(content: str) -> tuple[str, list[str]]:
         content = re.sub(r"^```(?:markdown|mdx)?\n", "", content)
         content = re.sub(r"\n```\s*$", "", content)
         fixes.append("Removed code block wrapper")
+
+    # ── 잘못된 prop 이름 교정 ──
+    prop_fixes = [
+        # QuickFacts: data → facts
+        (r'(<QuickFacts\b[^>]*)\bdata\s*=', r'\1facts=', 'QuickFacts: data → facts'),
+        # Timeline: events → items, year → time, event → title
+        (r'(<Timeline\b[^>]*)\bevents\s*=', r'\1items=', 'Timeline: events → items'),
+        # ComparisonTable: items → rows
+        (r'(<ComparisonTable\b[^>]*)\bitems\s*=\s*\{', r'\1rows={', 'ComparisonTable: items → rows'),
+        # FAQAccordion: questions → items
+        (r'(<FAQAccordion\b[^>]*)\bquestions\s*=', r'\1items=', 'FAQAccordion: questions → items'),
+    ]
+    for pattern, repl, desc in prop_fixes:
+        new_content = re.sub(pattern, repl, content)
+        if new_content != content:
+            fixes.append(desc)
+            content = new_content
+
+    # Timeline 객체 키 교정: year → time, event → title
+    # Only within <Timeline ...> blocks
+    timeline_block = re.search(r'<Timeline\b[^>]*items=\{[^}]*\}[^/]*/>', content, re.DOTALL)
+    if not timeline_block:
+        timeline_block = re.search(r'<Timeline\b.*?/>', content, re.DOTALL)
+    if timeline_block:
+        block = timeline_block.group(0)
+        new_block = block
+        if re.search(r'\byear\s*:', new_block):
+            new_block = re.sub(r'\byear\s*:', 'time:', new_block)
+            fixes.append('Timeline keys: year → time')
+        if re.search(r'\bevent\s*:', new_block):
+            new_block = re.sub(r'\bevent\s*:', 'title:', new_block)
+            fixes.append('Timeline keys: event → title')
+        if new_block != block:
+            content = content.replace(block, new_block)
+
+    # ComparisonTable 객체 키 교정: cell* → option*, item* → option*
+    comp_blocks = list(re.finditer(r'<ComparisonTable\b.*?/>', content, re.DOTALL))
+    for m in reversed(comp_blocks):
+        block = m.group(0)
+        new_block = block
+        for i in range(1, 7):
+            if f'cell{i}:' in new_block:
+                new_block = new_block.replace(f'cell{i}:', f'option{i}:')
+                fixes.append(f'ComparisonTable keys: cell{i} → option{i}')
+            if f'item{i}:' in new_block:
+                new_block = new_block.replace(f'item{i}:', f'option{i}:')
+                fixes.append(f'ComparisonTable keys: item{i} → option{i}')
+        if new_block != block:
+            content = content.replace(block, new_block)
+
+    # StepGuide 키 교정: text → description
+    step_blocks = list(re.finditer(r'<StepGuide\b.*?/>', content, re.DOTALL))
+    for m in reversed(step_blocks):
+        block = m.group(0)
+        if re.search(r"\btext\s*:", block):
+            new_block = re.sub(r'\btext\s*:', 'description:', block)
+            content = content.replace(block, new_block)
+            fixes.append('StepGuide keys: text → description')
+
+    # ExpertTip avatar prop 제거
+    if re.search(r'(<ExpertTip\b[^>]*)\s+avatar="[^"]*"', content):
+        content = re.sub(r'(<ExpertTip\b[^>]*)\s+avatar="[^"]*"', r'\1', content)
+        fixes.append('ExpertTip: removed avatar prop')
+
+    # InfoBox: text="..." → children 변환
+    infobox_text_pat = re.compile(r'<InfoBox\b([^>]*)\btext="([^"]*)"([^>]*)/>',  re.DOTALL)
+    def fix_infobox_text(m):
+        attrs = m.group(1) + m.group(3)
+        text_content = m.group(2)
+        fixes.append('InfoBox: text prop → children')
+        return f'<InfoBox{attrs}>{text_content}</InfoBox>'
+    content = infobox_text_pat.sub(fix_infobox_text, content)
+
+    # InfoBox: type 누락 시 title로 추론
+    def fix_infobox_type(m):
+        attrs = m.group(1)
+        if 'type=' not in attrs:
+            title_match = re.search(r'title="([^"]*)"', attrs)
+            title = title_match.group(1).lower() if title_match else ''
+            if 'warning' in title or 'caution' in title or 'danger' in title:
+                inferred = 'warning'
+            elif 'tip' in title or 'pro tip' in title:
+                inferred = 'tip'
+            elif 'arc' in title:
+                inferred = 'arc-free'
+            else:
+                inferred = 'info'
+            attrs = f' type="{inferred}"' + attrs
+            fixes.append(f'InfoBox: added type="{inferred}"')
+        return f'<InfoBox{attrs}>'
+    content = re.sub(r'<InfoBox\b([^>]*>)', fix_infobox_type, content)
 
     # difficulty 대소문자 수정
     def fix_difficulty(m):

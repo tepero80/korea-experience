@@ -103,7 +103,6 @@ export default function BusinessNameGenerator() {
       title="Korean Business Name Generator"
       description="Generate the perfect Korean business name for your brand"
       emoji="🏢"
-      gradient="from-sky-500 via-blue-500 to-violet-600"
     >
       <div className="max-w-4xl mx-auto space-y-8">
         {!selectedName ? (
@@ -122,8 +121,8 @@ export default function BusinessNameGenerator() {
                       onClick={() => setCategory(key as keyof typeof BUSINESS_CATEGORIES)}
                       className={`p-4 rounded-xl border-2 transition-all text-left ${
                         category === key
-                          ? 'border-blue-500 bg-blue-50 text-blue-700'
-                          : 'border-gray-200 hover:border-blue-300 text-gray-700'
+                          ? 'border-amber-500 bg-amber-50 text-amber-700'
+                          : 'border-gray-200 hover:border-amber-300 text-gray-700'
                       }`}
                     >
                       <div className="font-semibold text-sm">{data.name}</div>
@@ -144,8 +143,8 @@ export default function BusinessNameGenerator() {
                       onClick={() => setStyle(s as typeof style)}
                       className={`p-3 rounded-lg border-2 transition-all ${
                         style === s
-                          ? 'border-violet-500 bg-violet-50 text-violet-700'
-                          : 'border-gray-200 hover:border-violet-300 text-gray-700'
+                          ? 'border-amber-500 bg-amber-50 text-amber-700'
+                          : 'border-gray-200 hover:border-amber-300 text-gray-700'
                       }`}
                     >
                       <div className="font-semibold text-sm capitalize">{s}</div>
@@ -164,7 +163,7 @@ export default function BusinessNameGenerator() {
                   value={keyword}
                   onChange={(e) => setKeyword(e.target.value)}
                   placeholder="e.g., dream, star, fresh..."
-                  className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-blue-500 focus:outline-none"
+                  className="w-full px-4 py-3 border-2 border-gray-200 rounded-xl focus:border-amber-500 focus:outline-none"
                 />
                 <p className="text-xs text-gray-500 mt-1">
                   Add a keyword to personalize your business name
@@ -175,7 +174,7 @@ export default function BusinessNameGenerator() {
               <button
                 onClick={handleGenerate}
                 disabled={isGenerating}
-                className="w-full bg-gradient-to-r from-sky-500 to-violet-600 text-white px-8 py-4 rounded-xl font-semibold text-lg hover:from-sky-600 hover:to-violet-700 transition-all duration-200 shadow-lg hover:shadow-xl disabled:opacity-50"
+                className="w-full bg-gradient-to-r from-amber-500 to-orange-600 text-white px-8 py-4 rounded-xl font-semibold text-lg hover:from-amber-600 hover:to-orange-700 transition-all duration-200 shadow-lg hover:shadow-xl disabled:opacity-50"
               >
                 {isGenerating ? '✨ Generating...' : '🎯 Generate Business Names'}
               </button>
@@ -200,7 +199,7 @@ export default function BusinessNameGenerator() {
                       <div className="text-lg text-gray-600 mb-2">
                         {name.english}
                       </div>
-                      <div className="text-sm text-blue-600 font-semibold">
+                      <div className="text-sm text-amber-700 font-semibold">
                         {name.tagline}
                       </div>
                     </button>
@@ -213,7 +212,7 @@ export default function BusinessNameGenerator() {
           /* Result Display */
           <div className="space-y-6">
             {/* Main Result Card */}
-            <div className="bg-gradient-to-br from-sky-500 to-violet-600 rounded-3xl p-8 text-center text-white shadow-2xl">
+            <div className="bg-gradient-to-br from-amber-500 to-orange-600 rounded-3xl p-8 text-center text-white shadow-2xl">
               <div className="text-6xl mb-4">🏢</div>
               <h2 className="text-4xl font-bold mb-2">{selectedName.korean}</h2>
               <p className="text-2xl mb-1 opacity-90">{selectedName.english}</p>
@@ -249,7 +248,7 @@ export default function BusinessNameGenerator() {
                 {selectedName.vibe.map((v, index) => (
                   <span
                     key={index}
-                    className="bg-blue-100 text-blue-700 px-4 py-2 rounded-full text-sm font-medium"
+                    className="bg-amber-100 text-amber-700 px-4 py-2 rounded-full text-sm font-medium"
                   >
                     {v}
                   </span>
@@ -291,7 +290,7 @@ export default function BusinessNameGenerator() {
                   href={`https://www.instagram.com/`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-pink-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+                  className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-orange-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
                 >
                   <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
@@ -319,7 +318,7 @@ export default function BusinessNameGenerator() {
                     navigator.clipboard.writeText('https://koreaexperience.com/tools/business-name');
                     alert('Link copied to clipboard!');
                   }}
-                  className="w-full bg-gradient-to-r from-sky-600 to-violet-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+                  className="w-full bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
@@ -329,7 +328,7 @@ export default function BusinessNameGenerator() {
 
                 <button
                   onClick={handleDownload}
-                  className="w-full bg-white text-blue-600 font-semibold py-3 px-6 rounded-lg border-2 border-blue-600 hover:bg-blue-50 transition-colors flex items-center justify-center gap-2"
+                  className="w-full bg-white text-amber-700 font-semibold py-3 px-6 rounded-lg border-2 border-amber-600 hover:bg-amber-50 transition-colors flex items-center justify-center gap-2"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
@@ -351,7 +350,7 @@ export default function BusinessNameGenerator() {
             </button>
 
             {/* Try More Interactive Tools */}
-            <div className="bg-gradient-to-r from-sky-100 to-violet-100 rounded-2xl p-8 text-center border-2 border-sky-200 mt-8">
+            <div className="bg-gradient-to-r from-amber-100 to-amber-100 rounded-2xl p-8 text-center border-2 border-amber-200 mt-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">
                 Try More Interactive Tools!
               </h3>
@@ -360,7 +359,7 @@ export default function BusinessNameGenerator() {
               </p>
               <Link
                 href="/tools"
-                className="inline-block bg-gradient-to-r from-sky-600 to-violet-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+                className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
               >
                 Explore All Tools
               </Link>

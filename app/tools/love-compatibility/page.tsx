@@ -75,9 +75,9 @@ export default function LoveCompatibilityPage() {
 
     // Background gradient
     const gradient = ctx.createLinearGradient(0, 0, 800, 500);
-    gradient.addColorStop(0, '#ec4899'); // pink-600
-    gradient.addColorStop(0.5, '#a855f7'); // purple-600
-    gradient.addColorStop(1, '#ec4899'); // pink-600
+    gradient.addColorStop(0, '#d97706'); // pink-600
+    gradient.addColorStop(0.5, '#ea580c'); // purple-600
+    gradient.addColorStop(1, '#d97706'); // pink-600
     ctx.fillStyle = gradient;
     ctx.fillRect(0, 0, 800, 500);
 
@@ -141,7 +141,7 @@ export default function LoveCompatibilityPage() {
         /* Input Form */
         <form onSubmit={handleCalculate} className="space-y-8">
           {/* Person 1 */}
-          <div className="bg-pink-50 rounded-xl p-6 border-2 border-pink-200">
+          <div className="bg-orange-50 rounded-xl p-6 border-2 border-orange-200">
             <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
               <span className="text-2xl">👤</span> Person 1
             </h3>
@@ -156,7 +156,7 @@ export default function LoveCompatibilityPage() {
                   value={person1.name}
                   onChange={(e) => setPerson1({ ...person1, name: e.target.value })}
                   placeholder="Enter name"
-                  className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-pink-500 focus:ring-2 focus:ring-pink-200 outline-none transition-all"
+                  className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-orange-500 focus:ring-2 focus:ring-amber-200 outline-none transition-all"
                   required
                 />
               </div>
@@ -169,7 +169,7 @@ export default function LoveCompatibilityPage() {
                   <select
                     value={person1.birthYear}
                     onChange={(e) => setPerson1({ ...person1, birthYear: parseInt(e.target.value) })}
-                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-pink-500 outline-none"
+                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-orange-500 outline-none"
                   >
                     {years.map(year => (
                       <option key={year} value={year}>{year}</option>
@@ -178,7 +178,7 @@ export default function LoveCompatibilityPage() {
                   <select
                     value={person1.birthMonth}
                     onChange={(e) => setPerson1({ ...person1, birthMonth: parseInt(e.target.value) })}
-                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-pink-500 outline-none"
+                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-orange-500 outline-none"
                   >
                     {months.map(month => (
                       <option key={month} value={month}>Month {month}</option>
@@ -187,7 +187,7 @@ export default function LoveCompatibilityPage() {
                   <select
                     value={person1.birthDay}
                     onChange={(e) => setPerson1({ ...person1, birthDay: parseInt(e.target.value) })}
-                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-pink-500 outline-none"
+                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-orange-500 outline-none"
                   >
                     {days.map(day => (
                       <option key={day} value={day}>Day {day}</option>
@@ -208,7 +208,7 @@ export default function LoveCompatibilityPage() {
                       onClick={() => setPerson1({ ...person1, bloodType: type })}
                       className={`py-3 rounded-lg font-semibold transition-all ${
                         person1.bloodType === type
-                          ? 'bg-pink-600 text-white shadow-lg'
+                          ? 'bg-orange-600 text-white shadow-lg'
                           : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                       }`}
                     >
@@ -226,7 +226,7 @@ export default function LoveCompatibilityPage() {
           </div>
 
           {/* Person 2 */}
-          <div className="bg-purple-50 rounded-xl p-6 border-2 border-purple-200">
+          <div className="bg-amber-50 rounded-xl p-6 border-2 border-amber-200">
             <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
               <span className="text-2xl">👤</span> Person 2
             </h3>
@@ -241,7 +241,7 @@ export default function LoveCompatibilityPage() {
                   value={person2.name}
                   onChange={(e) => setPerson2({ ...person2, name: e.target.value })}
                   placeholder="Enter name"
-                  className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-purple-500 focus:ring-2 focus:ring-purple-200 outline-none transition-all"
+                  className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-amber-500 focus:ring-2 focus:ring-amber-200 outline-none transition-all"
                   required
                 />
               </div>
@@ -254,7 +254,7 @@ export default function LoveCompatibilityPage() {
                   <select
                     value={person2.birthYear}
                     onChange={(e) => setPerson2({ ...person2, birthYear: parseInt(e.target.value) })}
-                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-purple-500 outline-none"
+                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-amber-500 outline-none"
                   >
                     {years.map(year => (
                       <option key={year} value={year}>{year}</option>
@@ -263,7 +263,7 @@ export default function LoveCompatibilityPage() {
                   <select
                     value={person2.birthMonth}
                     onChange={(e) => setPerson2({ ...person2, birthMonth: parseInt(e.target.value) })}
-                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-purple-500 outline-none"
+                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-amber-500 outline-none"
                   >
                     {months.map(month => (
                       <option key={month} value={month}>Month {month}</option>
@@ -272,7 +272,7 @@ export default function LoveCompatibilityPage() {
                   <select
                     value={person2.birthDay}
                     onChange={(e) => setPerson2({ ...person2, birthDay: parseInt(e.target.value) })}
-                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-purple-500 outline-none"
+                    className="px-3 py-3 border-2 border-gray-200 rounded-lg focus:border-amber-500 outline-none"
                   >
                     {days.map(day => (
                       <option key={day} value={day}>Day {day}</option>
@@ -293,7 +293,7 @@ export default function LoveCompatibilityPage() {
                       onClick={() => setPerson2({ ...person2, bloodType: type })}
                       className={`py-3 rounded-lg font-semibold transition-all ${
                         person2.bloodType === type
-                          ? 'bg-purple-600 text-white shadow-lg'
+                          ? 'bg-amber-600 text-white shadow-lg'
                           : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                       }`}
                     >
@@ -308,7 +308,7 @@ export default function LoveCompatibilityPage() {
           {/* Calculate Button */}
           <button
             type="submit"
-            className="w-full bg-gradient-to-r from-pink-600 via-purple-600 to-pink-600 text-white py-4 rounded-xl font-bold text-lg hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
+            className="w-full bg-gradient-to-r from-amber-600 via-orange-600 to-amber-600 text-white py-4 rounded-xl font-bold text-lg hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
           >
             💕 Calculate Love Compatibility
           </button>
@@ -324,8 +324,8 @@ export default function LoveCompatibilityPage() {
           </div>
 
           {/* Score */}
-          <div className="text-center bg-gradient-to-r from-pink-100 via-purple-100 to-pink-100 rounded-xl p-8">
-            <div className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-purple-600 mb-2">
+          <div className="text-center bg-gradient-to-r from-orange-100 via-amber-100 to-orange-100 rounded-xl p-8">
+            <div className="text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 mb-2">
               {result.score}%
             </div>
             <div className="text-2xl font-semibold text-gray-800 mb-2">
@@ -337,12 +337,12 @@ export default function LoveCompatibilityPage() {
           </div>
 
           {/* Couple Nickname */}
-          <div className="bg-gradient-to-r from-pink-50 to-purple-50 rounded-xl p-6 border-2 border-pink-200">
+          <div className="bg-gradient-to-r from-orange-50 to-amber-50 rounded-xl p-6 border-2 border-orange-200">
             <div className="flex items-start gap-3">
               <div className="text-2xl">💝</div>
               <div>
                 <h3 className="font-bold text-gray-900 mb-2">Your Couple Nickname</h3>
-                <div className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-purple-600">
+                <div className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600">
                   {result.coupleNickname}
                 </div>
                 <div className="text-xl text-gray-700 mt-1">
@@ -394,7 +394,7 @@ export default function LoveCompatibilityPage() {
                 <ul className="space-y-2">
                   {result.strengths.map((strength, idx) => (
                     <li key={idx} className="flex items-start gap-2">
-                      <span className="text-green-600 mt-1">•</span>
+                      <span className="text-amber-600 mt-1">•</span>
                       <span className="text-gray-700">{strength}</span>
                     </li>
                   ))}
@@ -422,7 +422,7 @@ export default function LoveCompatibilityPage() {
           </div>
 
           {/* Advice */}
-          <div className="bg-blue-50 rounded-xl p-6">
+          <div className="bg-amber-50 rounded-xl p-6">
             <div className="flex items-start gap-3">
               <div className="text-2xl">💡</div>
               <div>
@@ -465,7 +465,7 @@ export default function LoveCompatibilityPage() {
 
                 <button
                   onClick={() => alert('Instagram story sharing feature coming soon! For now, take a screenshot and share on Instagram! 📸')}
-                  className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-pink-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+                  className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-orange-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
                 >
                   <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
@@ -493,7 +493,7 @@ export default function LoveCompatibilityPage() {
                     navigator.clipboard.writeText('https://koreaexperience.com/tools/love-compatibility');
                     alert('Link copied to clipboard! 📋');
                   }}
-                  className="w-full bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+                  className="w-full bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
@@ -503,7 +503,7 @@ export default function LoveCompatibilityPage() {
 
                 <button
                   onClick={handleDownloadImage}
-                  className="w-full bg-white text-purple-600 font-semibold py-3 px-6 rounded-lg border-2 border-purple-600 hover:bg-purple-50 transition-colors flex items-center justify-center gap-2"
+                  className="w-full bg-white text-amber-700 font-semibold py-3 px-6 rounded-lg border-2 border-amber-600 hover:bg-amber-50 transition-colors flex items-center justify-center gap-2"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
@@ -523,7 +523,7 @@ export default function LoveCompatibilityPage() {
           </button>
 
           {/* Other Tools CTA */}
-          <div className="bg-gradient-to-r from-purple-100 to-pink-100 rounded-2xl p-8 text-center border-2 border-purple-200 mt-6">
+          <div className="bg-gradient-to-r from-amber-100 to-orange-100 rounded-2xl p-8 text-center border-2 border-amber-200 mt-6">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">
               Try More Interactive Tools!
             </h3>
@@ -532,7 +532,7 @@ export default function LoveCompatibilityPage() {
             </p>
             <Link
               href="/tools"
-              className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+              className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
             >
               Explore All Tools
             </Link>
@@ -542,7 +542,7 @@ export default function LoveCompatibilityPage() {
 
       {/* Info Section */}
       {!result && (
-        <div className="mt-8 bg-gradient-to-r from-pink-50 to-purple-50 rounded-xl p-6 border-2 border-pink-100">
+        <div className="mt-8 bg-gradient-to-r from-orange-50 to-amber-50 rounded-xl p-6 border-2 border-orange-100">
           <h3 className="text-lg font-bold text-gray-900 mb-3">About Korean Love Compatibility</h3>
           <div className="space-y-2 text-gray-700 text-sm">
             <p>

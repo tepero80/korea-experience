@@ -108,7 +108,7 @@ export default async function CategoryHubPage({ params }: { params: Params }) {
       />
 
       {/* Hero Section */}
-      <section className={`relative overflow-hidden bg-gradient-to-br ${hub.gradient} py-16 md:py-24`}>
+      <section className="relative overflow-hidden bg-gradient-to-br from-amber-600 to-orange-700 py-16 md:py-24">
         {/* Pattern overlay */}
         <div className="absolute inset-0 opacity-10">
           <div
@@ -158,8 +158,8 @@ export default async function CategoryHubPage({ params }: { params: Params }) {
                 className={`
                   flex items-center gap-1.5 whitespace-nowrap px-4 py-2 rounded-full text-sm font-medium transition-all
                   ${cat.slug === slug
-                    ? 'bg-gray-900 text-white shadow-sm'
-                    : 'text-gray-600 hover:bg-gray-100 hover:text-gray-900'
+                    ? 'bg-amber-600 text-white shadow-sm'
+                    : 'text-stone-600 hover:bg-amber-50 hover:text-amber-700'
                   }
                 `}
               >
@@ -175,7 +175,7 @@ export default async function CategoryHubPage({ params }: { params: Params }) {
       {deepDivePosts.length > 0 && (
         <section className="max-w-7xl mx-auto px-4 sm:px-6 pt-12 pb-6">
           <div className="flex items-center gap-3 mb-8">
-            <div className="flex items-center gap-2 bg-blue-50 text-blue-700 px-4 py-2 rounded-full">
+            <div className="flex items-center gap-2 bg-amber-50 text-amber-700 px-4 py-2 rounded-full">
               <span className="text-lg">🔬</span>
               <span className="font-semibold text-sm">Deep Dive Series</span>
             </div>

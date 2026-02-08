@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import { Metadata } from 'next';
 import { SITE_CONFIG, ALL_TOOLS, BLOG_CATEGORIES } from '@/lib/constants';
-import { getFeaturedPosts } from '@/lib/posts';
+import { getFeaturedPosts, getLatestDeepDivePerCategory } from '@/lib/posts';
 
 export const metadata: Metadata = {
   alternates: { canonical: 'https://koreaexperience.com' },
@@ -14,41 +14,45 @@ export default function Home() {
   // Get featured posts (6 hand-picked articles)
   const featuredPosts = getFeaturedPosts();
   
+  // Get latest deep dive per category (excluding featured)
+  const featuredSlugs = featuredPosts.map(p => p.slug);
+  const categoryLatest = getLatestDeepDivePerCategory(featuredSlugs);
+  
   return (
     <div className="pt-20"> {/* Padding for fixed header */}
       
-      {/* Hero Section - Premium Design */}
+      {/* Hero Section - Warm Korean Aesthetic */}
       <section className="relative overflow-hidden text-white">
         {/* Background Image */}
         <div className="absolute inset-0">
           <img
-            src="/images/hero-seoul.webp"
-            alt="Seoul skyline at twilight"
+            src="/images/hero-korea.webp"
+            alt="Traditional Korean hanok village with Seoul skyline at golden hour"
             className="w-full h-full object-cover"
           />
-          {/* Dark overlay for text readability */}
-          <div className="absolute inset-0 bg-gradient-to-r from-blue-900/80 via-blue-900/60 to-blue-900/40" />
-          <div className="absolute inset-0 bg-gradient-to-t from-blue-900/70 via-transparent to-blue-900/30" />
+          {/* Warm overlay for text readability */}
+          <div className="absolute inset-0 bg-gradient-to-r from-stone-900/80 via-stone-900/55 to-amber-900/35" />
+          <div className="absolute inset-0 bg-gradient-to-t from-stone-900/60 via-transparent to-stone-900/20" />
         </div>
 
         <div className="relative container mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-32">
           <div className="max-w-4xl mx-auto text-center">
             {/* Badge */}
             <div className="inline-flex items-center gap-2 bg-white/10 backdrop-blur-sm px-4 py-2 rounded-full mb-8 border border-white/20">
-              <span className="w-2 h-2 bg-green-400 rounded-full animate-pulse" />
-              <span className="text-sm font-medium">Trusted by 10,000+ International Visitors</span>
+              <span className="w-2 h-2 bg-amber-400 rounded-full animate-pulse" />
+              <span className="text-sm font-medium text-amber-50">Trusted by 10,000+ International Visitors</span>
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-7xl font-bold mb-6 leading-tight">
-              Your Complete Guide to the
-              <span className="block mt-2 bg-gradient-to-r from-cyan-300 to-blue-200 bg-clip-text text-transparent">
-                Korea Experience
+              <span className="block bg-gradient-to-r from-amber-200 to-orange-200 bg-clip-text text-transparent">Experience Korea</span>
+              <span className="block mt-2 bg-gradient-to-r from-amber-200 to-orange-200 bg-clip-text text-transparent">
+                Like a Local
               </span>
             </h1>
             
-            <p className="text-xl md:text-2xl mb-10 text-blue-100 leading-relaxed max-w-3xl mx-auto">
-              From world-class medical tourism and K-beauty clinics to travel guides, 
-              cultural experiences, living guides, and authentic Korean food
+            <p className="text-xl md:text-2xl mb-10 text-amber-50/90 leading-relaxed max-w-3xl mx-auto">
+              Your insider guide to Korean travel, medical tourism, 
+              K-culture, food, and living — curated by experts who call Korea home
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
@@ -56,7 +60,7 @@ export default function Home() {
                 href="/blog"
                 className="
                   group relative inline-flex items-center gap-2
-                  bg-white text-blue-600 px-8 py-4 rounded-xl font-semibold text-lg
+                  bg-white text-stone-800 px-8 py-4 rounded-xl font-semibold text-lg
                   hover:shadow-2xl hover:scale-105
                   transition-all duration-300
                 "
@@ -83,21 +87,21 @@ export default function Home() {
             </div>
 
             {/* Trust Badges */}
-            <div className="mt-12 flex flex-wrap justify-center gap-8 text-sm text-blue-100">
+            <div className="mt-12 flex flex-wrap justify-center gap-8 text-sm text-amber-50/80">
               <div className="flex items-center gap-2">
-                <svg className="w-5 h-5 text-green-400" fill="currentColor" viewBox="0 0 20 20">
+                <svg className="w-5 h-5 text-amber-300" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
                 <span>Expert Verified</span>
               </div>
               <div className="flex items-center gap-2">
-                <svg className="w-5 h-5 text-green-400" fill="currentColor" viewBox="0 0 20 20">
+                <svg className="w-5 h-5 text-amber-300" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
                 <span>Regularly Updated</span>
               </div>
               <div className="flex items-center gap-2">
-                <svg className="w-5 h-5 text-green-400" fill="currentColor" viewBox="0 0 20 20">
+                <svg className="w-5 h-5 text-amber-300" fill="currentColor" viewBox="0 0 20 20">
                   <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
                 </svg>
                 <span>10+ Languages</span>
@@ -212,20 +216,105 @@ export default function Home() {
             })}
           </div>
 
-          {/* View All Button */}
-          <div className="text-center">
+          {/* Latest Deep Dive per Category */}
+          {categoryLatest.length > 0 && (
+            <div className="mb-12">
+              <div className="text-center mb-8">
+                <div className="inline-flex items-center gap-2 bg-gradient-to-r from-green-100 to-emerald-100 px-4 py-2 rounded-full mb-4">
+                  <span className="text-2xl">🆕</span>
+                  <span className="text-sm font-semibold text-green-700">Fresh from Research</span>
+                </div>
+                <h3 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
+                  Latest Deep Dives by Category
+                </h3>
+                <p className="text-xl text-gray-600">
+                  The newest research-backed deep dives across every topic
+                </p>
+              </div>
+              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                {categoryLatest.map((post) => {
+                  const getCategoryStyle = (category: string) => {
+                    const styles: Record<string, { icon: string; color: string; gradient: string }> = {
+                      'Medical Tourism': { icon: '🏥', color: 'text-rose-600', gradient: 'from-rose-500 via-red-400 to-orange-400' },
+                      'Travel & Tourism': { icon: '✈️', color: 'text-blue-600', gradient: 'from-sky-500 via-blue-500 to-indigo-500' },
+                      'Food & Dining': { icon: '🍜', color: 'text-orange-600', gradient: 'from-orange-400 via-amber-400 to-yellow-400' },
+                      'K-Culture': { icon: '🎭', color: 'text-purple-600', gradient: 'from-purple-500 via-fuchsia-500 to-pink-400' },
+                      'Living in Korea': { icon: '🏠', color: 'text-emerald-600', gradient: 'from-emerald-500 via-green-500 to-teal-400' },
+                      'Shopping & K-Beauty': { icon: '💄', color: 'text-pink-600', gradient: 'from-pink-500 via-rose-400 to-fuchsia-400' },
+                    };
+                    return styles[category] || { icon: '📖', color: 'text-slate-600', gradient: 'from-slate-500 via-gray-500 to-slate-400' };
+                  };
+                  const style = getCategoryStyle(post.category);
+                  return (
+                    <Link
+                      key={post.slug}
+                      href={`/blog/${post.slug}`}
+                      className="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-gray-100"
+                    >
+                      {post.image && (
+                        <div className="relative aspect-[16/9] overflow-hidden">
+                          <img
+                            src={post.image}
+                            alt={post.title}
+                            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
+                          />
+                        </div>
+                      )}
+                      <div className="p-5">
+                        <div className="flex items-center gap-2 mb-3">
+                          <span className={`inline-flex items-center gap-1 text-xs font-semibold ${style.color}`}>
+                            <span>{style.icon}</span>
+                            <span>{post.category}</span>
+                          </span>
+                          {post.deepDive && (
+                            <span className="text-xs font-semibold text-blue-600 bg-blue-50 px-2 py-0.5 rounded-full">
+                              🔬 Deep Dive
+                            </span>
+                          )}
+                        </div>
+                        <div className="text-base font-bold text-gray-900 mb-2 line-clamp-2 group-hover:text-blue-600 transition-colors leading-snug">
+                          {post.title}
+                        </div>
+                        <p className="text-sm text-gray-500 mb-4 line-clamp-2 leading-relaxed">
+                          {post.excerpt}
+                        </p>
+                        <div className="flex items-center justify-between text-xs pt-3 border-t border-gray-100">
+                          <div className="flex items-center gap-1.5 text-gray-400">
+                            <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
+                            </svg>
+                            <span>{new Date(post.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
+                          </div>
+                          <div className="flex items-center gap-1 text-blue-600 font-semibold group-hover:gap-2 transition-all">
+                            <span>Read</span>
+                            <svg className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                            </svg>
+                          </div>
+                        </div>
+                      </div>
+                    </Link>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
+          {/* Explore All Guides */}
+          <div className="text-center mt-4">
             <Link
               href="/blog"
               className="
-                inline-flex items-center gap-2
-                bg-gradient-to-r from-blue-600 to-cyan-600
-                text-white px-8 py-4 rounded-xl font-semibold text-lg
-                hover:shadow-2xl hover:scale-105
+                inline-flex items-center gap-3
+                bg-white text-gray-900 border-2 border-gray-200
+                px-10 py-4 rounded-full font-semibold text-lg
+                hover:border-blue-500 hover:text-blue-600 hover:shadow-lg
                 transition-all duration-300
                 group
               "
             >
-              <span>View All Articles</span>
+              <span>📚</span>
+              <span>Explore All 650+ Guides</span>
               <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
               </svg>
@@ -235,98 +324,111 @@ export default function Home() {
       </section>
 
       {/* Interactive Tools Showcase */}
-      <section className="py-20 bg-gradient-to-br from-gray-50 to-purple-50">
+      <section className="pt-8 pb-20 bg-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          {/* Section Header */}
+          {/* Section Header - same style as Deep Dive */}
           <div className="text-center max-w-3xl mx-auto mb-16">
             <div className="inline-flex items-center gap-2 bg-gradient-to-r from-purple-100 to-pink-100 px-4 py-2 rounded-full mb-4">
               <span className="text-2xl">✨</span>
               <span className="text-sm font-semibold text-purple-700">Interactive Tools</span>
             </div>
-            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
-              Try Our Interactive Tools
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
+              Discover Korea, Your Way
             </h2>
             <p className="text-xl text-gray-600">
-              Fun quizzes, calculators, and generators loved by <span className="font-semibold text-purple-600">10,000+ users</span>
+              Quizzes, calculators, and generators loved by <span className="font-semibold text-purple-600">10,000+</span> users worldwide
             </p>
           </div>
 
-          {/* Tools Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mb-12">
-            {featuredTools.map((tool) => (
-              <Link
-                key={tool.id}
-                href={tool.href}
-                className="
-                  group relative bg-white
-                  rounded-2xl p-6 shadow-md hover:shadow-xl
-                  border-2 border-gray-100 hover:border-purple-300
-                  transition-all duration-300 hover:-translate-y-1
-                "
-              >
-                {/* Coming Soon Badge */}
-                {tool.status === 'coming' && (
-                  <div className="absolute top-4 right-4">
-                    <span className="inline-flex items-center gap-1 bg-purple-100 text-purple-700 text-xs font-semibold px-2.5 py-1 rounded-full">
-                      <svg className="w-3 h-3" fill="currentColor" viewBox="0 0 20 20">
-                        <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-12a1 1 0 10-2 0v4a1 1 0 00.293.707l2.828 2.829a1 1 0 101.415-1.415L11 9.586V6z" clipRule="evenodd" />
-                      </svg>
-                      Soon
-                    </span>
+          {/* Tools Grid - same card style as blog posts */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+            {featuredTools.map((tool) => {
+              const getToolColor = (category: string) => {
+                const colors: Record<string, string> = {
+                  'Discover Yourself': 'text-purple-600',
+                  'Love & Relationships': 'text-rose-600',
+                  'Fun & Entertainment': 'text-orange-600',
+                  'Plan Your Korea Trip': 'text-blue-600',
+                  'Life in Korea': 'text-emerald-600',
+                };
+                return colors[category] || 'text-gray-600';
+              };
+
+              // Derive slug from href: /tools/korean-name → korean-name
+              const toolSlug = tool.href.replace('/tools/', '');
+              const toolImage = `/images/tools/${toolSlug}.webp`;
+
+              return (
+                <Link
+                  key={tool.id}
+                  href={tool.href}
+                  className="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-gray-100"
+                >
+                  {/* Cover Image */}
+                  <div className="relative aspect-[16/9] overflow-hidden">
+                    <img
+                      src={toolImage}
+                      alt={tool.title}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
+                    />
                   </div>
-                )}
 
-                {/* Icon */}
-                <div className="text-5xl mb-4 group-hover:scale-110 transition-transform">
-                  {tool.icon}
-                </div>
+                  {/* Content below - matching blog card structure */}
+                  <div className="p-5">
+                    {/* Category & Viral Score */}
+                    <div className="flex items-center gap-2 mb-3">
+                      <span className={`inline-flex items-center gap-1 text-xs font-semibold ${getToolColor(tool.category)}`}>
+                        <span>{tool.icon}</span>
+                        <span>{tool.category}</span>
+                      </span>
+                      <span className="text-xs font-semibold text-purple-600 bg-purple-50 px-2 py-0.5 rounded-full">
+                        🔥 {tool.viral}% viral
+                      </span>
+                    </div>
 
-                {/* Title */}
-                <h3 className="text-xl font-bold text-gray-900 mb-2 group-hover:text-purple-600 transition-colors">
-                  {tool.title}
-                </h3>
+                    {/* Title */}
+                    <div className="text-base font-bold text-gray-900 mb-2 line-clamp-2 group-hover:text-blue-600 transition-colors leading-snug">
+                      {tool.title}
+                    </div>
 
-                {/* Description */}
-                <p className="text-sm text-gray-600 mb-4 leading-relaxed">
-                  {tool.description}
-                </p>
+                    {/* Description */}
+                    <p className="text-sm text-gray-500 mb-4 line-clamp-2 leading-relaxed">
+                      {tool.description}
+                    </p>
 
-                {/* Stats */}
-                <div className="flex items-center justify-between text-xs text-gray-500">
-                  <div className="flex items-center gap-1">
-                    <span className="font-semibold text-purple-600">{tool.category}</span>
+                    {/* Meta - matching blog card bottom */}
+                    <div className="flex items-center justify-between text-xs pt-3 border-t border-gray-100">
+                      <div className="flex items-center gap-1.5 text-gray-400">
+                        <span>{tool.difficulty}</span>
+                      </div>
+                      <div className="flex items-center gap-1 text-blue-600 font-semibold group-hover:gap-2 transition-all">
+                        <span>Try Now</span>
+                        <svg className="w-3.5 h-3.5 group-hover:translate-x-0.5 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+                        </svg>
+                      </div>
+                    </div>
                   </div>
-                  <div className="flex items-center gap-1">
-                    <span>{tool.difficulty}</span>
-                    <span>•</span>
-                    <span className="font-semibold">{tool.viral}% viral</span>
-                  </div>
-                </div>
-
-                {/* Hover Arrow */}
-                <div className="absolute bottom-6 right-6 opacity-0 group-hover:opacity-100 transition-opacity">
-                  <svg className="w-5 h-5 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-                  </svg>
-                </div>
-              </Link>
-            ))}
+                </Link>
+              );
+            })}
           </div>
 
-          {/* View All Button */}
+          {/* View All Button - same style as Explore All Guides */}
           <div className="text-center">
             <Link
               href="/tools"
               className="
-                inline-flex items-center gap-2
-                bg-gradient-to-r from-purple-600 to-pink-600
-                text-white px-8 py-4 rounded-xl font-semibold text-lg
-                hover:shadow-2xl hover:scale-105
+                inline-flex items-center gap-3
+                bg-white text-gray-900 border-2 border-gray-200
+                px-10 py-4 rounded-full font-semibold text-lg
+                hover:border-purple-500 hover:text-purple-600 hover:shadow-lg
                 transition-all duration-300
                 group
               "
             >
-              <span>View All Tools</span>
+              <span>✨</span>
+              <span>Explore All Tools</span>
               <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
               </svg>
@@ -335,218 +437,101 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Features Section - Card Grid */}
+      {/* Stats + CTA Combined Section */}
       <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="text-center max-w-3xl mx-auto mb-16">
-            <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-6">
-              Everything You Need for Your
-              <span className="text-gradient"> Korea Journey</span>
+          {/* Stats Row */}
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-12 mb-20">
+            <div className="text-center space-y-2">
+              <div className="inline-flex items-center justify-center w-12 h-12 bg-blue-100 rounded-2xl mb-2">
+                <svg className="w-6 h-6 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                </svg>
+              </div>
+              <div className="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">650+</div>
+              <div className="text-sm text-gray-500 font-medium">Expert Guides</div>
+            </div>
+            <div className="text-center space-y-2">
+              <div className="inline-flex items-center justify-center w-12 h-12 bg-cyan-100 rounded-2xl mb-2">
+                <svg className="w-6 h-6 text-cyan-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 19.128a9.38 9.38 0 002.625.372 9.337 9.337 0 004.121-.952 4.125 4.125 0 00-7.533-2.493M15 19.128v-.003c0-1.113-.285-2.16-.786-3.07M15 19.128v.106A12.318 12.318 0 018.624 21c-2.331 0-4.512-.645-6.374-1.766l-.001-.109a6.375 6.375 0 0111.964-3.07M12 6.375a3.375 3.375 0 11-6.75 0 3.375 3.375 0 016.75 0zm8.25 2.25a2.625 2.625 0 11-5.25 0 2.625 2.625 0 015.25 0z" />
+                </svg>
+              </div>
+              <div className="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">10k+</div>
+              <div className="text-sm text-gray-500 font-medium">Monthly Visitors</div>
+            </div>
+            <div className="text-center space-y-2">
+              <div className="inline-flex items-center justify-center w-12 h-12 bg-purple-100 rounded-2xl mb-2">
+                <svg className="w-6 h-6 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M10.5 21l5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 016-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 01-3.827-5.802" />
+                </svg>
+              </div>
+              <div className="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">10+</div>
+              <div className="text-sm text-gray-500 font-medium">Languages</div>
+            </div>
+            <div className="text-center space-y-2">
+              <div className="inline-flex items-center justify-center w-12 h-12 bg-green-100 rounded-2xl mb-2">
+                <svg className="w-6 h-6 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M11.48 3.499a.562.562 0 011.04 0l2.125 5.111a.563.563 0 00.475.345l5.518.442c.499.04.701.663.321.988l-4.204 3.602a.563.563 0 00-.182.557l1.285 5.385a.562.562 0 01-.84.61l-4.725-2.885a.563.563 0 00-.586 0L6.982 20.54a.562.562 0 01-.84-.61l1.285-5.386a.562.562 0 00-.182-.557l-4.204-3.602a.563.563 0 01.321-.988l5.518-.442a.563.563 0 00.475-.345L11.48 3.5z" />
+                </svg>
+              </div>
+              <div className="text-4xl md:text-5xl font-bold text-gray-900 tracking-tight">98%</div>
+              <div className="text-sm text-gray-500 font-medium">Satisfaction</div>
+            </div>
+          </div>
+
+          {/* CTA Card */}
+          <div className="max-w-4xl mx-auto bg-white rounded-3xl border border-gray-200 shadow-lg p-10 md:p-16 text-center">
+            <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4 leading-tight">
+              Ready to Experience Korea?
             </h2>
-            <p className="text-xl text-gray-600">
-              Comprehensive, expert-verified guides covering all aspects of experiencing Korea
+            <p className="text-lg text-gray-500 mb-10 max-w-2xl mx-auto leading-relaxed">
+              Join thousands of travelers and medical tourists who trust our comprehensive, research-backed guides
             </p>
-          </div>
-
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
-            {/* Medical Tourism Card */}
-            <div className="group bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
-              <div className="w-16 h-16 bg-gradient-to-br from-red-500 to-pink-500 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
-                </svg>
-              </div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">Medical Tourism</h3>
-              <p className="text-gray-600 mb-6 leading-relaxed">
-                World-renowned plastic surgery, dermatology clinics, and beauty treatments with detailed price guides
-              </p>
-              <Link href="/blog?category=medical" className="text-red-500 font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">
-                Learn More
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Link 
+                href="/blog"
+                className="
+                  inline-flex items-center justify-center gap-2
+                  bg-amber-600 text-white px-8 py-4 rounded-full font-semibold text-lg
+                  hover:bg-amber-700 hover:shadow-lg hover:scale-105
+                  transition-all duration-300 group
+                "
+              >
+                <span>Browse All Guides</span>
+                <svg className="w-5 h-5 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
                 </svg>
               </Link>
-            </div>
-
-            {/* Travel Guide Card */}
-            <div className="group bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
-              <div className="w-16 h-16 bg-gradient-to-br from-green-500 to-emerald-500 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-                </svg>
-              </div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">Travel Guides</h3>
-              <p className="text-gray-600 mb-6 leading-relaxed">
-                Insider tips on Seoul hotspots, hidden gems, authentic Korean food, and seasonal travel
-              </p>
-              <Link href="/blog?category=travel" className="text-green-600 font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">
-                Explore
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                </svg>
+              <Link 
+                href="/contact"
+                className="
+                  inline-flex items-center justify-center gap-2
+                  border-2 border-gray-200 text-gray-700 px-8 py-4 rounded-full font-semibold text-lg
+                  hover:border-amber-500 hover:text-amber-600 hover:shadow-lg
+                  transition-all duration-300
+                "
+              >
+                Contact Expert
               </Link>
-            </div>
-
-            {/* K-Culture Card */}
-            <div className="group bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
-              <div className="w-16 h-16 bg-gradient-to-br from-purple-500 to-indigo-500 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
-                </svg>
-              </div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">K-Culture</h3>
-              <p className="text-gray-600 mb-6 leading-relaxed">
-                K-pop, K-drama filming locations, Korean language learning, and cultural experiences
-              </p>
-              <Link href="/blog?category=culture" className="text-purple-600 font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">
-                Discover
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                </svg>
-              </Link>
-            </div>
-
-            {/* Living in Korea Card */}
-            <div className="group bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
-              <div className="w-16 h-16 bg-gradient-to-br from-green-500 to-emerald-500 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
-                </svg>
-              </div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">Living in Korea</h3>
-              <p className="text-gray-600 mb-6 leading-relaxed">
-                Visa guides, housing tips, cost of living, expat life, and settling in Korea
-              </p>
-              <Link href="/blog?category=living" className="text-green-600 font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">
-                Explore
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                </svg>
-              </Link>
-            </div>
-
-            {/* Food & Dining Card */}
-            <div className="group bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
-              <div className="w-16 h-16 bg-gradient-to-br from-orange-500 to-red-500 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
-                </svg>
-              </div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">Food & Dining</h3>
-              <p className="text-gray-600 mb-6 leading-relaxed">
-                Korean cuisine, restaurant guides, food markets, cooking classes, and culinary experiences
-              </p>
-              <Link href="/blog?category=food" className="text-orange-600 font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">
-                Taste
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                </svg>
-              </Link>
-            </div>
-
-            {/* Shopping & K-Beauty Card */}
-            <div className="group bg-white rounded-2xl p-8 shadow-lg hover:shadow-2xl transition-all duration-300 hover:-translate-y-2 border border-gray-100">
-              <div className="w-16 h-16 bg-gradient-to-br from-pink-500 to-rose-500 rounded-2xl flex items-center justify-center mb-6 group-hover:scale-110 transition-transform">
-                <svg className="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" />
-                </svg>
-              </div>
-              <h3 className="text-2xl font-bold text-gray-900 mb-3">Shopping & K-Beauty</h3>
-              <p className="text-gray-600 mb-6 leading-relaxed">
-                K-beauty products, shopping districts, fashion, cosmetics, and beauty trends
-              </p>
-              <Link href="/blog?category=shopping" className="text-pink-600 font-semibold flex items-center gap-2 group-hover:gap-3 transition-all">
-                Shop
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
-                </svg>
-              </Link>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* Stats Section */}
-      <section className="py-16 bg-gradient-to-r from-blue-600 to-cyan-600 text-white">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
-            <div className="space-y-2">
-              <div className="text-4xl md:text-5xl font-bold">200+</div>
-              <div className="text-blue-100">Expert Guides</div>
-            </div>
-            <div className="space-y-2">
-              <div className="text-4xl md:text-5xl font-bold">10k+</div>
-              <div className="text-blue-100">Monthly Visitors</div>
-            </div>
-            <div className="space-y-2">
-              <div className="text-4xl md:text-5xl font-bold">10+</div>
-              <div className="text-blue-100">Languages</div>
-            </div>
-            <div className="space-y-2">
-              <div className="text-4xl md:text-5xl font-bold">98%</div>
-              <div className="text-blue-100">Satisfaction</div>
-            </div>
-          </div>
-        </div>
-      </section>
-
-      {/* CTA Section */}
-      <section className="py-20 bg-white">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-4xl mx-auto bg-gradient-to-br from-blue-600 to-purple-600 rounded-3xl p-12 md:p-16 text-center text-white shadow-2xl relative overflow-hidden">
-            {/* Decorative Elements */}
-            <div className="absolute top-0 right-0 w-64 h-64 bg-white/10 rounded-full -translate-y-32 translate-x-32" />
-            <div className="absolute bottom-0 left-0 w-48 h-48 bg-white/10 rounded-full translate-y-24 -translate-x-24" />
-            
-            <div className="relative z-10">
-              <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold mb-6">
-                Ready to Start Your Korea Journey?
-              </h2>
-              <p className="text-xl md:text-2xl mb-10 text-blue-100 max-w-2xl mx-auto">
-                Join thousands of travelers and medical tourists who trust our comprehensive guides
-              </p>
-              <div className="flex flex-col sm:flex-row gap-4 justify-center">
-                <Link 
-                  href="/blog"
-                  className="
-                    bg-white text-blue-600 px-8 py-4 rounded-xl font-semibold text-lg
-                    hover:shadow-2xl hover:scale-105
-                    transition-all duration-300 inline-block
-                  "
-                >
-                  Browse All Guides
-                </Link>
-                <Link 
-                  href="/contact"
-                  className="
-                    border-2 border-white text-white px-8 py-4 rounded-xl font-semibold text-lg
-                    hover:bg-white hover:text-blue-600
-                    transition-all duration-300 inline-block
-                  "
-                >
-                  Contact Expert
-                </Link>
-              </div>
             </div>
           </div>
         </div>
       </section>
 
       {/* Medical Disclaimer */}
-      <section className="py-8 bg-amber-50 border-t border-amber-200">
+      <section className="py-6 bg-gray-50 border-t border-gray-200">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="max-w-4xl mx-auto flex items-start gap-4">
-            <svg className="w-6 h-6 text-amber-600 flex-shrink-0 mt-1" fill="currentColor" viewBox="0 0 20 20">
+          <div className="max-w-4xl mx-auto flex items-start gap-3">
+            <svg className="w-5 h-5 text-amber-500 flex-shrink-0 mt-0.5" fill="currentColor" viewBox="0 0 20 20">
               <path fillRule="evenodd" d="M8.257 3.099c.765-1.36 2.722-1.36 3.486 0l5.58 9.92c.75 1.334-.213 2.98-1.742 2.98H4.42c-1.53 0-2.493-1.646-1.743-2.98l5.58-9.92zM11 13a1 1 0 11-2 0 1 1 0 012 0zm-1-8a1 1 0 00-1 1v3a1 1 0 002 0V6a1 1 0 00-1-1z" clipRule="evenodd" />
             </svg>
-            <div>
-              <p className="text-sm text-gray-700">
-                <strong className="font-semibold">Medical Disclaimer:</strong> This website provides informational content only 
-                and does not constitute medical advice. Always consult qualified healthcare professionals 
-                before making medical decisions. Read our full{' '}
-                <Link href="/disclaimer" className="text-blue-600 hover:underline font-semibold">Medical Disclaimer</Link>.
-              </p>
-            </div>
+            <p className="text-xs text-gray-500 leading-relaxed">
+              <strong className="font-semibold text-gray-600">Medical Disclaimer:</strong> This website provides informational content only
+              and does not constitute medical advice. Always consult qualified healthcare professionals
+              before making medical decisions. Read our full{' '}
+              <Link href="/disclaimer" className="text-blue-600 hover:underline font-medium">Medical Disclaimer</Link>.
+            </p>
           </div>
         </div>
       </section>

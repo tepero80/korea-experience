@@ -1,6 +1,6 @@
 'use client';
 
-import { ReactNode } from 'react';
+import { ReactNode, useState } from 'react';
 
 /**
  * ExpertTip Component
@@ -83,6 +83,27 @@ const typeConfig = {
   },
 };
 
+function AvatarWithFallback({ src, name, gradient }: { src?: string; name: string; gradient: string }) {
+  const [failed, setFailed] = useState(false);
+
+  if (!src || failed) {
+    return (
+      <div className={`w-14 h-14 rounded-full bg-gradient-to-br ${gradient} flex items-center justify-center text-white text-2xl font-bold shadow-md`}>
+        {name.charAt(0)}
+      </div>
+    );
+  }
+
+  return (
+    <img
+      src={src}
+      alt={name}
+      className="w-14 h-14 rounded-full object-cover border-2 border-white shadow-md"
+      onError={() => setFailed(true)}
+    />
+  );
+}
+
 export default function ExpertTip({
   name,
   author,
@@ -119,17 +140,11 @@ export default function ExpertTip({
         <div className="flex items-start gap-4 mb-4">
           {/* Avatar */}
           <div className="flex-shrink-0">
-            {avatar ? (
-              <img 
-                src={avatar} 
-                alt={displayName}
-                className="w-14 h-14 rounded-full object-cover border-2 border-white shadow-md"
-              />
-            ) : (
-              <div className={`w-14 h-14 rounded-full bg-gradient-to-br ${config.gradient} flex items-center justify-center text-white text-2xl font-bold shadow-md`}>
-                {displayName.charAt(0)}
-              </div>
-            )}
+            <AvatarWithFallback
+              src={avatar}
+              name={displayName}
+              gradient={config.gradient}
+            />
           </div>
           
           {/* Author Details */}

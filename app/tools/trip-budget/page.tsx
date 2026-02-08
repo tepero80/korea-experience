@@ -142,7 +142,7 @@ export default function TripBudgetCalculator() {
   const itinerary = result ? getRecommendedItinerary(budgetLevel, preferences.days) : [];
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-600 via-pink-600 to-purple-700 py-12 px-4">
+    <div className="min-h-screen bg-gradient-to-br from-amber-600 via-orange-600 to-amber-700 py-12 px-4">
       <div className="max-w-4xl mx-auto">
         {/* Header */}
         <div className="text-center mb-8">
@@ -171,7 +171,7 @@ export default function TripBudgetCalculator() {
           {/* Days */}
           <div className="mb-6">
             <label className="block text-sm font-semibold text-gray-700 mb-3">
-              📅 How many days? <span className="text-blue-600">{preferences.days} days</span>
+              📅 How many days? <span className="text-amber-700">{preferences.days} days</span>
             </label>
             <input
               type="range"
@@ -179,7 +179,7 @@ export default function TripBudgetCalculator() {
               max="30"
               value={preferences.days}
               onChange={(e) => setPreferences({ ...preferences, days: Number(e.target.value) })}
-              className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-blue-600"
+              className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-amber-600"
             />
             <div className="flex justify-between text-xs text-gray-500 mt-1">
               <span>1 day</span>
@@ -199,7 +199,7 @@ export default function TripBudgetCalculator() {
                   onClick={() => setPreferences({ ...preferences, accommodation: type })}
                   className={`p-4 rounded-lg border-2 transition-all ${
                     preferences.accommodation === type
-                      ? 'border-blue-600 bg-blue-50 text-blue-700'
+                      ? 'border-amber-600 bg-amber-50 text-amber-700'
                       : 'border-gray-200 hover:border-gray-300'
                   }`}
                 >
@@ -226,7 +226,7 @@ export default function TripBudgetCalculator() {
                   onClick={() => setPreferences({ ...preferences, meals: type })}
                   className={`p-4 rounded-lg border-2 transition-all ${
                     preferences.meals === type
-                      ? 'border-blue-600 bg-blue-50 text-blue-700'
+                      ? 'border-amber-600 bg-amber-50 text-amber-700'
                       : 'border-gray-200 hover:border-gray-300'
                   }`}
                 >
@@ -253,7 +253,7 @@ export default function TripBudgetCalculator() {
                   onClick={() => setPreferences({ ...preferences, activities: type })}
                   className={`p-4 rounded-lg border-2 transition-all ${
                     preferences.activities === type
-                      ? 'border-blue-600 bg-blue-50 text-blue-700'
+                      ? 'border-amber-600 bg-amber-50 text-amber-700'
                       : 'border-gray-200 hover:border-gray-300'
                   }`}
                 >
@@ -271,7 +271,7 @@ export default function TripBudgetCalculator() {
           {/* Shopping Budget */}
           <div className="mb-6">
             <label className="block text-sm font-semibold text-gray-700 mb-3">
-              🛍️ Shopping Budget (Total) <span className="text-blue-600">${preferences.shopping}</span>
+              🛍️ Shopping Budget (Total) <span className="text-amber-700">${preferences.shopping}</span>
             </label>
             <input
               type="range"
@@ -280,7 +280,7 @@ export default function TripBudgetCalculator() {
               step="50"
               value={preferences.shopping}
               onChange={(e) => setPreferences({ ...preferences, shopping: Number(e.target.value) })}
-              className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-blue-600"
+              className="w-full h-2 bg-gray-200 rounded-lg appearance-none cursor-pointer accent-amber-600"
             />
             <div className="flex justify-between text-xs text-gray-500 mt-1">
               <span>$0</span>
@@ -292,7 +292,7 @@ export default function TripBudgetCalculator() {
           <div className="flex gap-3">
             <button
               onClick={handleCalculate}
-              className="flex-1 bg-gradient-to-r from-blue-600 to-cyan-600 text-white font-bold py-4 px-8 rounded-xl hover:from-blue-700 hover:to-cyan-700 transition-all shadow-lg hover:shadow-xl"
+              className="flex-1 bg-gradient-to-r from-amber-600 to-orange-600 text-white font-bold py-4 px-8 rounded-xl hover:from-amber-700 hover:to-orange-700 transition-all shadow-lg hover:shadow-xl"
             >
               Calculate My Budget 💰
             </button>
@@ -311,7 +311,7 @@ export default function TripBudgetCalculator() {
         {showResults && result && (
           <div ref={resultRef} className="space-y-6">
             {/* Total Budget */}
-            <div className="bg-gradient-to-br from-blue-600 to-cyan-600 rounded-2xl shadow-xl p-8 text-white">
+            <div className="bg-gradient-to-br from-amber-600 to-orange-600 rounded-2xl shadow-xl p-8 text-white">
               <div className="text-center">
                 <div className="text-lg font-semibold mb-2">Your Total Trip Budget</div>
                 <div className="text-6xl font-bold mb-4">${result.total.toLocaleString()}</div>
@@ -344,14 +344,14 @@ export default function TripBudgetCalculator() {
                         <div className="text-xs text-gray-500">{item.desc}</div>
                       </div>
                     </div>
-                    <div className="text-xl font-bold text-blue-600">${item.amount.toLocaleString()}</div>
+                    <div className="text-xl font-bold text-amber-700">${item.amount.toLocaleString()}</div>
                   </div>
                 ))}
               </div>
             </div>
 
             {/* Flight Info */}
-            <div className="bg-blue-50 rounded-2xl p-6 border-2 border-blue-100">
+            <div className="bg-amber-50 rounded-2xl p-6 border-2 border-amber-100">
               <div className="flex items-start gap-3">
                 <span className="text-3xl">✈️</span>
                 <div>
@@ -362,7 +362,7 @@ export default function TripBudgetCalculator() {
             </div>
 
             {/* Seasonal Advice */}
-            <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-2xl p-6 border-2 border-purple-100">
+            <div className="bg-gradient-to-br from-amber-50 to-orange-50 rounded-2xl p-6 border-2 border-amber-100">
               <div className="flex items-start gap-3">
                 <span className="text-3xl">📅</span>
                 <div>
@@ -390,7 +390,7 @@ export default function TripBudgetCalculator() {
               <h3 className="text-2xl font-bold text-gray-900 mb-6">💡 Money-Saving Tips</h3>
               <div className="space-y-4">
                 {savingTips.map((tip, index) => (
-                  <div key={index} className="bg-gradient-to-r from-green-50 to-emerald-50 p-4 rounded-lg border-l-4 border-green-500">
+                  <div key={index} className="bg-gradient-to-r from-amber-50 to-orange-50 p-4 rounded-lg border-l-4 border-amber-500">
                     <div className="font-semibold text-gray-900 mb-1">{tip.category}</div>
                     <p className="text-gray-700 text-sm">{tip.tip}</p>
                   </div>
@@ -399,14 +399,14 @@ export default function TripBudgetCalculator() {
             </div>
 
             {/* Booking.com Link */}
-            <div className="bg-gradient-to-br from-orange-50 to-red-50 rounded-2xl p-8 border-2 border-orange-200 text-center">
+            <div className="bg-gradient-to-br from-orange-50 to-amber-50 rounded-2xl p-8 border-2 border-orange-200 text-center">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Ready to Book Your Trip?</h3>
               <p className="text-gray-700 mb-6">Find the best hotel deals in Korea on Booking.com</p>
               <a
                 href="https://www.booking.com/city/kr/seoul.html"
                 target="_blank"
                 rel="noopener noreferrer nofollow"
-                className="inline-block bg-gradient-to-r from-blue-600 to-cyan-600 text-white font-bold py-4 px-8 rounded-xl hover:from-blue-700 hover:to-cyan-700 transition-all shadow-lg hover:shadow-xl"
+                className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white font-bold py-4 px-8 rounded-xl hover:from-amber-700 hover:to-orange-700 transition-all shadow-lg hover:shadow-xl"
               >
                 Browse Seoul Hotels 🏨
               </a>
@@ -442,7 +442,7 @@ export default function TripBudgetCalculator() {
 
                   <button
                     onClick={() => handleShare('instagram')}
-                    className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-pink-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+                    className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-orange-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
                   >
                     <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                       <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
@@ -464,7 +464,7 @@ export default function TripBudgetCalculator() {
                 {/* Download Button */}
                 <button
                   onClick={handleDownloadImage}
-                  className="w-full bg-white text-purple-600 font-semibold py-3 px-6 rounded-lg border-2 border-purple-600 hover:bg-purple-50 transition-colors flex items-center justify-center gap-2"
+                  className="w-full bg-white text-amber-700 font-semibold py-3 px-6 rounded-lg border-2 border-amber-600 hover:bg-amber-50 transition-colors flex items-center justify-center gap-2"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
@@ -477,7 +477,7 @@ export default function TripBudgetCalculator() {
         )}
 
         {/* Other Tools CTA */}
-        <div className="bg-gradient-to-r from-purple-100 to-pink-100 rounded-2xl p-8 text-center border-2 border-purple-200 mt-8">
+        <div className="bg-gradient-to-r from-amber-100 to-orange-100 rounded-2xl p-8 text-center border-2 border-amber-200 mt-8">
           <h3 className="text-2xl font-bold text-gray-900 mb-4">
             Try More Interactive Tools!
           </h3>
@@ -486,7 +486,7 @@ export default function TripBudgetCalculator() {
           </p>
           <Link
             href="/tools"
-            className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+            className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
           >
             Explore All Tools
           </Link>
@@ -495,7 +495,7 @@ export default function TripBudgetCalculator() {
         {/* Info Section */}
         <div className="mt-12 bg-white rounded-2xl shadow-xl p-8">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">About This Calculator</h2>
-          <div className="prose prose-blue max-w-none text-gray-700">
+          <div className="prose prose-amber max-w-none text-gray-700">
             <p>
               Our Korea Trip Budget Calculator helps you plan the perfect Korean adventure by providing realistic cost estimates based on your travel style. All prices are in USD and updated for 2026.
             </p>

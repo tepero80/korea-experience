@@ -85,7 +85,7 @@ export default function KoreanAgePage() {
 
     // Background gradient
     const gradient = ctx.createLinearGradient(0, 0, 800, 600);
-    gradient.addColorStop(0, '#ec4899');
+    gradient.addColorStop(0, '#d97706');
     gradient.addColorStop(1, '#8b5cf6');
     ctx.fillStyle = gradient;
     ctx.fillRect(0, 0, 800, 600);
@@ -132,9 +132,9 @@ export default function KoreanAgePage() {
   const famousPeople = result ? getFamousPeople(result.birthYear) : [];
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-pink-50 via-white to-purple-50">
+    <div className="min-h-screen bg-white">
       {/* Header */}
-      <div className="pt-20 pb-10 bg-gradient-to-r from-pink-600 to-purple-600 text-white">
+      <div className="pt-20 pb-10 bg-gradient-to-r from-amber-600 to-orange-600 text-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <Link
             href="/tools"
@@ -160,11 +160,11 @@ export default function KoreanAgePage() {
           /* Input Form */
           <div className="max-w-2xl mx-auto">
             {/* Info Card */}
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-lg mb-8">
-              <h3 className="text-lg font-bold text-blue-900 mb-2">
+            <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-lg mb-8">
+              <h3 className="text-lg font-bold text-stone-900 mb-2">
                 🎂 About Korean Age System
               </h3>
-              <p className="text-blue-800 text-sm leading-relaxed">
+              <p className="text-stone-800 text-sm leading-relaxed">
                 Korea traditionally used a unique age system where everyone became 1 year old at birth 
                 and gained a year every January 1st. As of <strong>June 2023</strong>, Korea officially 
                 switched to the international age system (만 나이)! However, the traditional system 
@@ -173,7 +173,7 @@ export default function KoreanAgePage() {
             </div>
 
             {/* Input Card */}
-            <div className="bg-white rounded-2xl shadow-xl p-8 border-2 border-pink-100">
+            <div className="bg-white rounded-2xl shadow-xl p-8 border-2 border-orange-100">
               <h2 className="text-2xl font-bold text-gray-900 mb-6 text-center">
                 Enter Your Birth Date
               </h2>
@@ -192,7 +192,7 @@ export default function KoreanAgePage() {
                     max={new Date().toISOString().split('T')[0]}
                     className="
                       w-full px-4 py-3 text-lg border-2 border-gray-300 rounded-xl
-                      focus:ring-4 focus:ring-pink-200 focus:border-pink-500
+                      focus:ring-4 focus:ring-amber-200 focus:border-orange-500
                       transition-all duration-200
                     "
                     required
@@ -211,9 +211,9 @@ export default function KoreanAgePage() {
                 <button
                   type="submit"
                   className="
-                    w-full bg-gradient-to-r from-pink-600 to-purple-600 text-white
+                    w-full bg-gradient-to-r from-amber-600 to-orange-600 text-white
                     font-bold py-4 px-6 rounded-xl text-lg
-                    hover:from-pink-700 hover:to-purple-700
+                    hover:from-amber-700 hover:to-orange-700
                     transform hover:scale-[1.02] active:scale-[0.98]
                     transition-all duration-200 shadow-lg
                   "
@@ -245,9 +245,9 @@ export default function KoreanAgePage() {
           /* Result Display */
           <div className="max-w-4xl mx-auto">
             {/* Main Result Card */}
-            <div className="bg-white rounded-2xl shadow-2xl overflow-hidden mb-8 border-2 border-pink-200">
+            <div className="bg-white rounded-2xl shadow-2xl overflow-hidden mb-8 border-2 border-orange-200">
               {/* Result Header */}
-              <div className="bg-gradient-to-r from-pink-600 to-purple-600 text-white p-8 text-center">
+              <div className="bg-gradient-to-r from-amber-600 to-orange-600 text-white p-8 text-center">
                 <div className="text-8xl mb-4">{result?.zodiacSign.emoji}</div>
                 <h2 className="text-3xl font-bold mb-2">Your Ages</h2>
                 <p className="text-lg text-white/90">
@@ -260,29 +260,29 @@ export default function KoreanAgePage() {
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-8">
                   {/* International Age */}
                   <div className="text-center p-6 bg-green-50 rounded-xl border-2 border-green-200">
-                    <div className="text-sm font-semibold text-green-700 mb-2">🌏 International Age</div>
+                    <div className="text-sm font-semibold text-amber-700 mb-2">🌏 International Age</div>
                     <div className="text-5xl font-bold text-green-900 mb-2">{result?.internationalAge}</div>
-                    <div className="text-xs text-green-600">Official since 2023</div>
+                    <div className="text-xs text-amber-600">Official since 2023</div>
                   </div>
 
                   {/* Korean Age */}
-                  <div className="text-center p-6 bg-pink-50 rounded-xl border-2 border-pink-200">
-                    <div className="text-sm font-semibold text-pink-700 mb-2">🎉 Korean Age</div>
-                    <div className="text-5xl font-bold text-pink-900 mb-2">{result?.koreanAge}</div>
-                    <div className="text-xs text-pink-600">Traditional system</div>
+                  <div className="text-center p-6 bg-orange-50 rounded-xl border-2 border-orange-200">
+                    <div className="text-sm font-semibold text-orange-700 mb-2">🎉 Korean Age</div>
+                    <div className="text-5xl font-bold text-stone-900 mb-2">{result?.koreanAge}</div>
+                    <div className="text-xs text-orange-600">Traditional system</div>
                   </div>
 
                   {/* Year Age */}
-                  <div className="text-center p-6 bg-purple-50 rounded-xl border-2 border-purple-200">
-                    <div className="text-sm font-semibold text-purple-700 mb-2">📅 Year Age</div>
-                    <div className="text-5xl font-bold text-purple-900 mb-2">{result?.yearAge}</div>
-                    <div className="text-xs text-purple-600">Year difference</div>
+                  <div className="text-center p-6 bg-amber-50 rounded-xl border-2 border-amber-200">
+                    <div className="text-sm font-semibold text-amber-700 mb-2">📅 Year Age</div>
+                    <div className="text-5xl font-bold text-amber-900 mb-2">{result?.yearAge}</div>
+                    <div className="text-xs text-amber-700">Year difference</div>
                   </div>
                 </div>
 
                 {/* Age Difference Explanation */}
-                <div className="bg-blue-50 border-l-4 border-blue-500 p-4 rounded-lg mb-8">
-                  <p className="text-blue-800 text-sm leading-relaxed">
+                <div className="bg-amber-50 border-l-4 border-amber-500 p-4 rounded-lg mb-8">
+                  <p className="text-stone-800 text-sm leading-relaxed">
                     {result && getAgeDifferenceExplanation(result)}
                   </p>
                 </div>
@@ -292,7 +292,7 @@ export default function KoreanAgePage() {
                   <h3 className="text-2xl font-bold text-gray-900 mb-4 text-center">
                     Your Zodiac Sign (띠)
                   </h3>
-                  <div className="bg-gradient-to-br from-purple-50 to-pink-50 rounded-xl p-6 border-2 border-purple-200">
+                  <div className="bg-gradient-to-br from-amber-50 to-orange-50 rounded-xl p-6 border-2 border-amber-200">
                     <div className="text-center mb-4">
                       <div className="text-6xl mb-2">{result?.zodiacSign.emoji}</div>
                       <h4 className="text-2xl font-bold text-gray-900">{result?.zodiacSign.korean}</h4>
@@ -301,15 +301,15 @@ export default function KoreanAgePage() {
                     
                     <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-6">
                       <div>
-                        <div className="text-sm font-semibold text-purple-700 mb-1">✨ Personality</div>
+                        <div className="text-sm font-semibold text-amber-700 mb-1">✨ Personality</div>
                         <p className="text-gray-700">{result?.zodiacSign.personality}</p>
                       </div>
                       <div>
-                        <div className="text-sm font-semibold text-purple-700 mb-1">🎨 Lucky Colors</div>
+                        <div className="text-sm font-semibold text-amber-700 mb-1">🎨 Lucky Colors</div>
                         <p className="text-gray-700">{result?.zodiacSign.luckyColor}</p>
                       </div>
                       <div className="md:col-span-2">
-                        <div className="text-sm font-semibold text-purple-700 mb-1">💕 Best Match</div>
+                        <div className="text-sm font-semibold text-amber-700 mb-1">💕 Best Match</div>
                         <p className="text-gray-700">{result?.zodiacSign.compatibility.join(', ')}</p>
                       </div>
                     </div>
@@ -363,7 +363,7 @@ export default function KoreanAgePage() {
 
                     <button
                       onClick={handleShareInstagram}
-                      className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-pink-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+                      className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-orange-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
                     >
                       <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                         <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
@@ -386,7 +386,7 @@ export default function KoreanAgePage() {
                   <div className="space-y-2">
                     <button
                       onClick={handleCopyLink}
-                      className="w-full bg-gradient-to-r from-pink-600 to-purple-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+                      className="w-full bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
                     >
                       <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
@@ -396,7 +396,7 @@ export default function KoreanAgePage() {
 
                     <button
                       onClick={handleDownload}
-                      className="w-full bg-white text-pink-600 font-semibold py-3 px-6 rounded-lg border-2 border-pink-600 hover:bg-pink-50 transition-colors flex items-center justify-center gap-2"
+                      className="w-full bg-white text-orange-600 font-semibold py-3 px-6 rounded-lg border-2 border-orange-600 hover:bg-orange-50 transition-colors flex items-center justify-center gap-2"
                     >
                       <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
@@ -417,7 +417,7 @@ export default function KoreanAgePage() {
             </div>
 
             {/* Other Tools CTA */}
-            <div className="bg-gradient-to-r from-pink-100 to-purple-100 rounded-2xl p-8 text-center border-2 border-pink-200">
+            <div className="bg-gradient-to-r from-orange-100 to-amber-100 rounded-2xl p-8 text-center border-2 border-orange-200">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">
                 Try More Interactive Tools!
               </h3>
@@ -426,7 +426,7 @@ export default function KoreanAgePage() {
               </p>
               <Link
                 href="/tools"
-                className="inline-block bg-gradient-to-r from-pink-600 to-purple-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+                className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
               >
                 Explore All Tools
               </Link>

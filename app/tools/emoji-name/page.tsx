@@ -40,8 +40,8 @@ export default function KoreanEmojiNamePage() {
 
     // Rainbow gradient background
     const gradient = ctx.createLinearGradient(0, 0, 800, 500);
-    gradient.addColorStop(0, '#ec4899'); // pink
-    gradient.addColorStop(0.25, '#a855f7'); // purple
+    gradient.addColorStop(0, '#d97706'); // pink
+    gradient.addColorStop(0.25, '#ea580c'); // purple
     gradient.addColorStop(0.5, '#3b82f6'); // blue
     gradient.addColorStop(0.75, '#10b981'); // green
     gradient.addColorStop(1, '#f59e0b'); // yellow
@@ -108,7 +108,6 @@ export default function KoreanEmojiNamePage() {
       title="Your Korean Emoji Name"
       description="Transform your name into beautiful emojis! Perfect for Instagram bios, social media, and making your name stand out."
       emoji="✨"
-      gradient="from-pink-500 via-purple-500 via-blue-500 via-green-500 to-yellow-500"
     >
       <div className="space-y-8">
         {/* Input Section */}
@@ -126,7 +125,7 @@ export default function KoreanEmojiNamePage() {
                 value={name}
                 onChange={(e) => setName(e.target.value)}
                 placeholder="e.g., Sarah"
-                className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-purple-500 focus:outline-none text-lg"
+                className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-amber-500 focus:outline-none text-lg"
                 maxLength={20}
               />
               <p className="text-sm text-gray-500 mt-1">
@@ -146,8 +145,8 @@ export default function KoreanEmojiNamePage() {
                     onClick={() => setSelectedStyle(style.id as any)}
                     className={`p-4 rounded-lg border-2 transition-all ${
                       selectedStyle === style.id
-                        ? 'border-purple-500 bg-purple-50'
-                        : 'border-gray-200 hover:border-purple-300'
+                        ? 'border-amber-500 bg-amber-50'
+                        : 'border-gray-200 hover:border-amber-300'
                     }`}
                   >
                     <div className="text-3xl mb-2">{style.emoji}</div>
@@ -162,7 +161,7 @@ export default function KoreanEmojiNamePage() {
             <button
               onClick={handleGenerate}
               disabled={!name.trim()}
-              className="w-full py-4 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:from-purple-600 hover:to-pink-600 transition-all duration-200 font-bold text-lg shadow-lg disabled:opacity-50 disabled:cursor-not-allowed"
+              className="w-full py-4 bg-gradient-to-r from-amber-500 to-orange-500 text-white rounded-lg hover:from-amber-700 hover:to-orange-700 transition-all duration-200 font-bold text-lg shadow-lg disabled:opacity-50 disabled:cursor-not-allowed"
             >
               ✨ Generate Emoji Name
             </button>
@@ -173,13 +172,13 @@ export default function KoreanEmojiNamePage() {
         {result && (
           <div className="space-y-6">
             {/* Main Result */}
-            <div className="bg-gradient-to-r from-pink-500 via-purple-500 to-blue-500 rounded-2xl p-8 text-white text-center">
+            <div className="bg-gradient-to-r from-orange-500 via-purple-500 to-amber-500 rounded-2xl p-8 text-white text-center">
               <div className="text-8xl mb-4">{result.emojis}</div>
               <h3 className="text-3xl font-bold mb-2">{result.style}</h3>
               <p className="text-xl opacity-90">{result.styleKo}</p>
               <button
                 onClick={() => handleCopy(result.emojis)}
-                className="mt-6 px-8 py-3 bg-white text-purple-600 rounded-lg hover:bg-gray-100 transition-colors font-bold"
+                className="mt-6 px-8 py-3 bg-white text-amber-700 rounded-lg hover:bg-gray-100 transition-colors font-bold"
               >
                 📋 Copy Emojis
               </button>
@@ -202,7 +201,7 @@ export default function KoreanEmojiNamePage() {
                     {result.bestFor.map((item, index) => (
                       <span
                         key={index}
-                        className="px-3 py-1 bg-purple-100 text-purple-700 rounded-full text-sm"
+                        className="px-3 py-1 bg-amber-100 text-amber-700 rounded-full text-sm"
                       >
                         {item}
                       </span>
@@ -213,7 +212,7 @@ export default function KoreanEmojiNamePage() {
             </div>
 
             {/* Alternatives */}
-            <div className="bg-purple-50 rounded-xl p-8">
+            <div className="bg-amber-50 rounded-xl p-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Alternative Versions ✨</h3>
               <div className="space-y-3">
                 {result.alternatives.map((alt, index) => (
@@ -221,7 +220,7 @@ export default function KoreanEmojiNamePage() {
                     <span className="text-4xl">{alt}</span>
                     <button
                       onClick={() => handleCopy(alt)}
-                      className="px-4 py-2 bg-purple-500 text-white rounded-lg hover:bg-purple-600 transition-colors"
+                      className="px-4 py-2 bg-amber-500 text-white rounded-lg hover:bg-amber-600 transition-colors"
                     >
                       Copy
                     </button>
@@ -238,7 +237,7 @@ export default function KoreanEmojiNamePage() {
                   href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(currentUrl)}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="px-6 py-3 bg-blue-400 text-white rounded-lg hover:bg-blue-500 transition-colors font-medium"
+                  className="px-6 py-3 bg-amber-500 text-white rounded-lg hover:bg-amber-500 transition-colors font-medium"
                 >
                   Share on Twitter
                 </a>
@@ -246,7 +245,7 @@ export default function KoreanEmojiNamePage() {
                   href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(currentUrl)}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
+                  className="px-6 py-3 bg-amber-600 text-white rounded-lg hover:bg-amber-700 transition-colors font-medium"
                 >
                   Share on Facebook
                 </a>
@@ -254,7 +253,7 @@ export default function KoreanEmojiNamePage() {
                   href={`https://www.instagram.com/`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:from-purple-600 hover:to-pink-600 transition-colors font-medium"
+                  className="px-6 py-3 bg-gradient-to-r from-amber-500 to-orange-500 text-white rounded-lg hover:from-amber-700 hover:to-orange-700 transition-colors font-medium"
                 >
                   Share on Instagram
                 </a>
@@ -277,7 +276,7 @@ export default function KoreanEmojiNamePage() {
                 </button>
                 <button
                   onClick={handleDownloadImage}
-                  className="px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:from-purple-600 hover:to-pink-600 transition-colors font-medium"
+                  className="px-6 py-3 bg-gradient-to-r from-amber-500 to-orange-500 text-white rounded-lg hover:from-amber-700 hover:to-orange-700 transition-colors font-medium"
                 >
                   💾 Download Image
                 </button>
@@ -291,21 +290,21 @@ export default function KoreanEmojiNamePage() {
                   setName('');
                   setResult(null);
                 }}
-                className="px-8 py-4 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-xl hover:from-purple-600 hover:to-pink-600 transition-all duration-200 font-bold text-lg shadow-lg"
+                className="px-8 py-4 bg-gradient-to-r from-amber-500 to-orange-500 text-white rounded-xl hover:from-amber-700 hover:to-orange-700 transition-all duration-200 font-bold text-lg shadow-lg"
               >
                 🔄 Try Another Name
               </button>
             </div>
 
             {/* CTA */}
-            <div className="bg-gradient-to-r from-violet-100 to-pink-100 rounded-xl p-8 text-center">
+            <div className="bg-gradient-to-r from-amber-100 to-orange-100 rounded-xl p-8 text-center">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Try More Tools!</h3>
               <p className="text-gray-600 mb-4">
                 Discover more fun and interactive Korean culture tools
               </p>
               <a
                 href="/tools"
-                className="inline-block px-6 py-3 bg-gradient-to-r from-violet-600 to-pink-600 text-white rounded-lg hover:from-violet-700 hover:to-pink-700 transition-colors font-medium"
+                className="inline-block px-6 py-3 bg-gradient-to-r from-amber-600 to-orange-600 text-white rounded-lg hover:from-amber-700 hover:to-orange-700 transition-colors font-medium"
               >
                 Explore All Tools →
               </a>

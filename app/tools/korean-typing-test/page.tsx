@@ -118,7 +118,7 @@ export default function KoreanTypingTest() {
       
       if (index < typedText.length) {
         if (typedText[index] === char) {
-          className = 'text-green-600'; // correct
+          className = 'text-amber-600'; // correct
         } else {
           className = 'text-red-600 bg-red-100'; // incorrect
         }
@@ -148,8 +148,8 @@ export default function KoreanTypingTest() {
 
     // Gradient background
     const gradient = ctx.createLinearGradient(0, 0, 800, 500);
-    gradient.addColorStop(0, '#8B5CF6'); // purple
-    gradient.addColorStop(1, '#EC4899'); // pink
+    gradient.addColorStop(0, '#d97706'); // purple
+    gradient.addColorStop(1, '#d97706'); // pink
     ctx.fillStyle = gradient;
     ctx.fillRect(0, 0, 800, 500);
 
@@ -203,7 +203,6 @@ export default function KoreanTypingTest() {
       title="Korean Typing Speed Test"
       description="Test your Korean typing speed and accuracy! 한글 타자 속도를 측정해보세요 ⌨️"
       emoji="⌨️"
-      gradient="from-purple-500 via-pink-500 to-purple-600"
     >
       <div className="max-w-4xl mx-auto">
 
@@ -219,8 +218,8 @@ export default function KoreanTypingTest() {
                 onClick={() => setDifficulty('beginner')}
                 className={`p-6 rounded-xl border-2 transition-all ${
                   difficulty === 'beginner'
-                    ? 'border-purple-500 bg-purple-50'
-                    : 'border-gray-200 hover:border-purple-300'
+                    ? 'border-amber-500 bg-amber-50'
+                    : 'border-gray-200 hover:border-amber-300'
                 }`}
               >
                 <div className="text-3xl mb-2">🌱</div>
@@ -235,8 +234,8 @@ export default function KoreanTypingTest() {
                 onClick={() => setDifficulty('intermediate')}
                 className={`p-6 rounded-xl border-2 transition-all ${
                   difficulty === 'intermediate'
-                    ? 'border-purple-500 bg-purple-50'
-                    : 'border-gray-200 hover:border-purple-300'
+                    ? 'border-amber-500 bg-amber-50'
+                    : 'border-gray-200 hover:border-amber-300'
                 }`}
               >
                 <div className="text-3xl mb-2">📚</div>
@@ -251,8 +250,8 @@ export default function KoreanTypingTest() {
                 onClick={() => setDifficulty('advanced')}
                 className={`p-6 rounded-xl border-2 transition-all ${
                   difficulty === 'advanced'
-                    ? 'border-purple-500 bg-purple-50'
-                    : 'border-gray-200 hover:border-purple-300'
+                    ? 'border-amber-500 bg-amber-50'
+                    : 'border-gray-200 hover:border-amber-300'
                 }`}
               >
                 <div className="text-3xl mb-2">🚀</div>
@@ -281,7 +280,7 @@ export default function KoreanTypingTest() {
 
             <button
               onClick={startTest}
-              className="w-full bg-gradient-to-r from-purple-500 to-pink-500 text-white py-4 px-8 rounded-xl text-xl font-bold hover:from-purple-600 hover:to-pink-600 transition-all shadow-lg"
+              className="w-full bg-gradient-to-r from-amber-500 to-orange-500 text-white py-4 px-8 rounded-xl text-xl font-bold hover:from-amber-700 hover:to-orange-700 transition-all shadow-lg"
             >
               Start Test (60 seconds)
             </button>
@@ -295,7 +294,7 @@ export default function KoreanTypingTest() {
             <div className="flex justify-between items-center mb-6 pb-4 border-b">
               <div className="text-center">
                 <div className="text-sm text-gray-600">Time Left</div>
-                <div className="text-3xl font-bold text-purple-600">{timeLeft}s</div>
+                <div className="text-3xl font-bold text-amber-700">{timeLeft}s</div>
               </div>
               <div className="text-center">
                 <div className="text-sm text-gray-600">Level</div>
@@ -319,7 +318,7 @@ export default function KoreanTypingTest() {
               ref={inputRef}
               value={typedText}
               onChange={handleTyping}
-              className="w-full p-4 border-2 border-purple-300 rounded-lg text-lg font-mono focus:outline-none focus:border-purple-500"
+              className="w-full p-4 border-2 border-amber-300 rounded-lg text-lg font-mono focus:outline-none focus:border-amber-500"
               rows={4}
               placeholder="Start typing here... 여기에 타이핑하세요..."
               disabled={!isActive}
@@ -345,17 +344,17 @@ export default function KoreanTypingTest() {
 
             {/* Stats Grid */}
             <div className="grid md:grid-cols-2 gap-6 mb-8">
-              <div className="bg-gradient-to-br from-purple-50 to-pink-50 p-6 rounded-xl">
+              <div className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 rounded-xl">
                 <div className="text-sm text-gray-600 mb-1">Typing Speed</div>
-                <div className="text-4xl font-bold text-purple-600 mb-1">
+                <div className="text-4xl font-bold text-amber-700 mb-1">
                   {result.wpm} CPM
                 </div>
                 <div className="text-xs text-gray-500">Characters Per Minute</div>
               </div>
 
-              <div className="bg-gradient-to-br from-green-50 to-emerald-50 p-6 rounded-xl">
+              <div className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 rounded-xl">
                 <div className="text-sm text-gray-600 mb-1">Accuracy</div>
-                <div className="text-4xl font-bold text-green-600 mb-1">
+                <div className="text-4xl font-bold text-amber-600 mb-1">
                   {result.accuracy}%
                 </div>
                 <div className="text-xs text-gray-500">
@@ -363,9 +362,9 @@ export default function KoreanTypingTest() {
                 </div>
               </div>
 
-              <div className="bg-gradient-to-br from-blue-50 to-cyan-50 p-6 rounded-xl">
+              <div className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 rounded-xl">
                 <div className="text-sm text-gray-600 mb-1">Rating</div>
-                <div className="text-2xl font-bold text-blue-600">
+                <div className="text-2xl font-bold text-amber-700">
                   {result.rating}
                 </div>
               </div>
@@ -426,7 +425,7 @@ export default function KoreanTypingTest() {
                   href={`https://www.instagram.com/`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-pink-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+                  className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-orange-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
                 >
                   <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
@@ -454,7 +453,7 @@ export default function KoreanTypingTest() {
                     navigator.clipboard.writeText(shareUrl);
                     alert('Link copied to clipboard!');
                   }}
-                  className="w-full bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+                  className="w-full bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
@@ -464,7 +463,7 @@ export default function KoreanTypingTest() {
 
                 <button
                   onClick={downloadImage}
-                  className="w-full bg-white text-purple-600 font-semibold py-3 px-6 rounded-lg border-2 border-purple-600 hover:bg-purple-50 transition-colors flex items-center justify-center gap-2"
+                  className="w-full bg-white text-amber-700 font-semibold py-3 px-6 rounded-lg border-2 border-amber-600 hover:bg-amber-50 transition-colors flex items-center justify-center gap-2"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
@@ -517,7 +516,7 @@ export default function KoreanTypingTest() {
                           {index > 2 && `#${index + 1}`}
                         </span>
                       </td>
-                      <td className="py-3 px-4 font-bold text-purple-600">
+                      <td className="py-3 px-4 font-bold text-amber-700">
                         {entry.wpm} CPM
                       </td>
                       <td className="py-3 px-4">{entry.accuracy}%</td>
@@ -536,7 +535,7 @@ export default function KoreanTypingTest() {
         )}
 
         {/* Try More Interactive Tools */}
-        <div className="bg-gradient-to-r from-purple-100 to-pink-100 rounded-2xl p-8 text-center border-2 border-purple-200 mt-8">
+        <div className="bg-gradient-to-r from-amber-100 to-orange-100 rounded-2xl p-8 text-center border-2 border-amber-200 mt-8">
           <h3 className="text-2xl font-bold text-gray-900 mb-4">
             Try More Interactive Tools!
           </h3>
@@ -545,7 +544,7 @@ export default function KoreanTypingTest() {
           </p>
           <Link
             href="/tools"
-            className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+            className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
           >
             Explore All Tools
           </Link>

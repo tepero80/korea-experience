@@ -161,21 +161,21 @@ export default function KoreanBeautyQuizPage() {
           <div className="bg-white rounded-xl shadow-lg p-8 mb-8">
             <div className="text-center">
               <div className="text-6xl mb-4">{result.icon}</div>
-              <h2 className="text-4xl font-bold mb-3 bg-gradient-to-r from-pink-500 to-purple-600 bg-clip-text text-transparent">
+              <h2 className="text-4xl font-bold mb-3 bg-gradient-to-r from-amber-500 to-orange-600 bg-clip-text text-transparent">
                 {result.skinType}
               </h2>
               <p className="text-xl text-gray-700 mb-6">{result.description}</p>
             </div>
 
             {/* Characteristics */}
-            <div className="bg-pink-50 rounded-xl p-6 mb-6">
-              <h3 className="text-2xl font-bold text-pink-800 mb-4">
+            <div className="bg-orange-50 rounded-xl p-6 mb-6">
+              <h3 className="text-2xl font-bold text-orange-800 mb-4">
                 🎯 Your Skin Characteristics
               </h3>
               <ul className="space-y-2">
                 {result.characteristics.map((char, index) => (
                   <li key={index} className="flex items-start">
-                    <span className="text-pink-500 mr-2">•</span>
+                    <span className="text-orange-500 mr-2">•</span>
                     <span className="text-gray-700">{char}</span>
                   </li>
                 ))}
@@ -200,7 +200,7 @@ export default function KoreanBeautyQuizPage() {
                 onClick={() => setShowMorning(false)}
                 className={`px-8 py-3 rounded-lg font-semibold transition-all ${
                   !showMorning
-                    ? 'bg-gradient-to-r from-purple-600 to-blue-600 text-white'
+                    ? 'bg-gradient-to-r from-amber-600 to-orange-600 text-white'
                     : 'bg-gray-200 text-gray-600 hover:bg-gray-300'
                 }`}
               >
@@ -211,9 +211,9 @@ export default function KoreanBeautyQuizPage() {
             {/* Routine Steps */}
             <div className="space-y-4">
               {(showMorning ? result.morningRoutine : result.eveningRoutine).map((step) => (
-                <div key={step.step} className="bg-gradient-to-r from-pink-50 to-purple-50 rounded-xl p-5">
+                <div key={step.step} className="bg-gradient-to-r from-orange-50 to-amber-50 rounded-xl p-5">
                   <div className="flex items-start gap-4">
-                    <div className="bg-pink-500 text-white w-10 h-10 rounded-full flex items-center justify-center font-bold flex-shrink-0">
+                    <div className="bg-orange-500 text-white w-10 h-10 rounded-full flex items-center justify-center font-bold flex-shrink-0">
                       {step.step}
                     </div>
                     <div className="flex-1">
@@ -223,7 +223,7 @@ export default function KoreanBeautyQuizPage() {
                         {step.products.map((product, idx) => (
                           <span
                             key={idx}
-                            className="bg-white px-3 py-1 rounded-full text-sm text-gray-700 border border-pink-200"
+                            className="bg-white px-3 py-1 rounded-full text-sm text-gray-700 border border-orange-200"
                           >
                             {product}
                           </span>
@@ -243,7 +243,7 @@ export default function KoreanBeautyQuizPage() {
             </h3>
             <div className="space-y-6">
               {result.productRecommendations.map((category, index) => (
-                <div key={index} className="border-l-4 border-pink-500 pl-6">
+                <div key={index} className="border-l-4 border-orange-500 pl-6">
                   <h4 className="text-xl font-bold text-gray-800 mb-3">{category.category}</h4>
                   <div className="mb-3">
                     <p className="text-sm font-semibold text-gray-600 mb-2">Product Types:</p>
@@ -251,7 +251,7 @@ export default function KoreanBeautyQuizPage() {
                       {category.products.map((product, idx) => (
                         <span
                           key={idx}
-                          className="bg-pink-100 text-pink-800 px-3 py-1 rounded-full text-sm"
+                          className="bg-orange-100 text-orange-800 px-3 py-1 rounded-full text-sm"
                         >
                           {product}
                         </span>
@@ -264,7 +264,7 @@ export default function KoreanBeautyQuizPage() {
                       {category.koreanBrands.map((brand, idx) => (
                         <span
                           key={idx}
-                          className="bg-purple-100 text-purple-800 px-3 py-1 rounded-full text-sm"
+                          className="bg-amber-100 text-amber-800 px-3 py-1 rounded-full text-sm"
                         >
                           {brand}
                         </span>
@@ -277,7 +277,7 @@ export default function KoreanBeautyQuizPage() {
           </div>
 
           {/* Korean Tips */}
-          <div className="bg-gradient-to-r from-pink-100 to-purple-100 rounded-xl shadow-lg p-8 mb-8">
+          <div className="bg-gradient-to-r from-orange-100 to-amber-100 rounded-xl shadow-lg p-8 mb-8">
             <h3 className="text-2xl font-bold text-gray-800 mb-6">
               💎 K-Beauty Expert Tips
             </h3>
@@ -307,19 +307,19 @@ export default function KoreanBeautyQuizPage() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-4">
               <button
                 onClick={() => handleShare('twitter')}
-                className="bg-blue-400 hover:bg-blue-500 text-white font-semibold py-3 px-4 rounded-lg transition-all"
+                className="bg-amber-500 hover:bg-amber-500 text-white font-semibold py-3 px-4 rounded-lg transition-all"
               >
                 Twitter
               </button>
               <button
                 onClick={() => handleShare('facebook')}
-                className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg transition-all"
+                className="bg-amber-600 hover:bg-amber-700 text-white font-semibold py-3 px-4 rounded-lg transition-all"
               >
                 Facebook
               </button>
               <button
                 onClick={() => handleShare('linkedin')}
-                className="bg-blue-700 hover:bg-blue-800 text-white font-semibold py-3 px-4 rounded-lg transition-all"
+                className="bg-amber-700 hover:bg-amber-800 text-white font-semibold py-3 px-4 rounded-lg transition-all"
               >
                 LinkedIn
               </button>
@@ -339,7 +339,7 @@ export default function KoreanBeautyQuizPage() {
               </button>
               <button
                 onClick={handleDownload}
-                className="bg-pink-600 hover:bg-pink-700 text-white font-semibold py-3 px-4 rounded-lg transition-all"
+                className="bg-orange-600 hover:bg-orange-700 text-white font-semibold py-3 px-4 rounded-lg transition-all"
               >
                 💾 Download Result
               </button>
@@ -367,13 +367,13 @@ export default function KoreanBeautyQuizPage() {
             <span className="text-sm font-semibold text-gray-600">
               Question {currentQuestion + 1} of {QUIZ_QUESTIONS.length}
             </span>
-            <span className="text-sm font-semibold text-pink-600">
+            <span className="text-sm font-semibold text-orange-600">
               {Math.round(progress)}%
             </span>
           </div>
           <div className="w-full bg-gray-200 rounded-full h-3">
             <div
-              className="bg-gradient-to-r from-pink-500 to-purple-600 h-3 rounded-full transition-all duration-300"
+              className="bg-gradient-to-r from-amber-500 to-orange-600 h-3 rounded-full transition-all duration-300"
               style={{ width: `${progress}%` }}
             />
           </div>
@@ -390,13 +390,13 @@ export default function KoreanBeautyQuizPage() {
               <button
                 key={index}
                 onClick={() => handleAnswer(option.skinType)}
-                className="w-full p-5 rounded-xl border-2 border-gray-200 hover:border-pink-500 hover:bg-pink-50 transition-all text-left group"
+                className="w-full p-5 rounded-xl border-2 border-gray-200 hover:border-orange-500 hover:bg-orange-50 transition-all text-left group"
               >
                 <div className="flex items-center justify-between">
-                  <span className="text-lg text-gray-700 group-hover:text-pink-700 font-medium">
+                  <span className="text-lg text-gray-700 group-hover:text-orange-700 font-medium">
                     {option.text}
                   </span>
-                  <span className="text-pink-500 opacity-0 group-hover:opacity-100 transition-opacity">
+                  <span className="text-orange-500 opacity-0 group-hover:opacity-100 transition-opacity">
                     →
                   </span>
                 </div>
@@ -406,7 +406,7 @@ export default function KoreanBeautyQuizPage() {
         </div>
 
         {/* Info Box */}
-        <div className="bg-gradient-to-r from-pink-50 to-purple-50 border border-pink-200 rounded-xl p-6">
+        <div className="bg-gradient-to-r from-orange-50 to-amber-50 border border-orange-200 rounded-xl p-6">
           <p className="text-center text-gray-700">
             ✨ Answer honestly for the most accurate K-beauty routine recommendations!
           </p>

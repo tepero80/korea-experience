@@ -19,7 +19,9 @@ interface FAQAccordionProps {
   /** 제목 */
   title?: string;
   /** FAQ 항목들 */
-  items: FAQItem[];
+  items?: FAQItem[];
+  /** FAQ 항목들 (alias) */
+  questions?: FAQItem[];
   /** 기본 열린 항목 인덱스 */
   defaultOpen?: number;
   /** 스타일 변형 */
@@ -28,10 +30,12 @@ interface FAQAccordionProps {
 
 export default function FAQAccordion({ 
   title = "Frequently Asked Questions",
-  items, 
+  items,
+  questions,
   defaultOpen,
   variant = 'default'
 }: FAQAccordionProps) {
+  const data = items ?? questions ?? [];
   const [openIndex, setOpenIndex] = useState<number | null>(defaultOpen ?? null);
 
   const toggleItem = (index: number) => {
@@ -48,7 +52,7 @@ export default function FAQAccordion({
           </h3>
         )}
         <div className="space-y-3">
-          {items.map((item, index) => (
+          {data.map((item, index) => (
             <div 
               key={index}
               className="border border-gray-200 rounded-lg overflow-hidden"
@@ -93,7 +97,7 @@ export default function FAQAccordion({
 
       {/* FAQ Items */}
       <div className="divide-y divide-gray-100">
-        {items.map((item, index) => (
+        {data.map((item, index) => (
           <div 
             key={index}
           >

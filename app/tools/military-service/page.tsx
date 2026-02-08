@@ -217,7 +217,7 @@ export default function KoreanMilitaryServicePage() {
             {/* Calculate Button */}
             <button
               onClick={handleCalculate}
-              className="w-full bg-gradient-to-r from-green-600 to-green-700 text-white text-xl font-bold py-4 px-8 rounded-xl hover:from-green-700 hover:to-green-800 transition-all shadow-lg hover:shadow-xl"
+              className="w-full bg-gradient-to-r from-amber-600 to-orange-700 text-white text-xl font-bold py-4 px-8 rounded-xl hover:from-green-700 hover:to-green-800 transition-all shadow-lg hover:shadow-xl"
             >
               Calculate Service Requirements 🪖
             </button>
@@ -247,9 +247,9 @@ export default function KoreanMilitaryServicePage() {
             </div>
 
             {/* Age Status */}
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-5 mb-6">
-              <div className="font-semibold text-blue-900 mb-1">Age Status</div>
-              <div className="text-blue-800">{result.ageStatus}</div>
+            <div className="bg-amber-50 border-l-4 border-amber-500 p-5 mb-6">
+              <div className="font-semibold text-stone-900 mb-1">Age Status</div>
+              <div className="text-stone-800">{result.ageStatus}</div>
             </div>
 
             {/* Exemption Info */}
@@ -278,7 +278,7 @@ export default function KoreanMilitaryServicePage() {
               <ul className="space-y-3">
                 {result.tips.map((tip, index) => (
                   <li key={index} className="flex items-start">
-                    <span className="text-green-600 mr-2">•</span>
+                    <span className="text-amber-600 mr-2">•</span>
                     <span className="text-gray-700">{tip}</span>
                   </li>
                 ))}
@@ -303,19 +303,19 @@ export default function KoreanMilitaryServicePage() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-4">
             <button
               onClick={() => handleShare('twitter')}
-              className="bg-blue-400 hover:bg-blue-500 text-white font-semibold py-3 px-4 rounded-lg transition-all"
+              className="bg-amber-500 hover:bg-amber-500 text-white font-semibold py-3 px-4 rounded-lg transition-all"
             >
               Twitter
             </button>
             <button
               onClick={() => handleShare('facebook')}
-              className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg transition-all"
+              className="bg-amber-600 hover:bg-amber-700 text-white font-semibold py-3 px-4 rounded-lg transition-all"
             >
               Facebook
             </button>
             <button
               onClick={() => handleShare('linkedin')}
-              className="bg-blue-700 hover:bg-blue-800 text-white font-semibold py-3 px-4 rounded-lg transition-all"
+              className="bg-amber-700 hover:bg-amber-800 text-white font-semibold py-3 px-4 rounded-lg transition-all"
             >
               LinkedIn
             </button>
@@ -345,11 +345,11 @@ export default function KoreanMilitaryServicePage() {
         </div>
 
         {/* Information Box */}
-        <div className="mt-8 bg-blue-50 border border-blue-200 rounded-xl p-6">
-          <h3 className="text-lg font-bold text-blue-900 mb-3">
+        <div className="mt-8 bg-amber-50 border border-amber-200 rounded-xl p-6">
+          <h3 className="text-lg font-bold text-stone-900 mb-3">
             📋 About Korean Military Service
           </h3>
-          <div className="text-blue-800 space-y-2">
+          <div className="text-stone-800 space-y-2">
             <p>
               • All Korean men aged 18-35 must complete mandatory military service
             </p>

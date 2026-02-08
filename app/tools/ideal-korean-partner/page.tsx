@@ -51,9 +51,9 @@ export default function IdealKoreanPartnerQuiz() {
 
     // Background gradient
     const gradient = ctx.createLinearGradient(0, 0, 800, 500);
-    gradient.addColorStop(0, '#9333ea'); // purple-600
-    gradient.addColorStop(0.5, '#ec4899'); // pink-600
-    gradient.addColorStop(1, '#9333ea'); // purple-600
+    gradient.addColorStop(0, '#d97706'); // purple-600
+    gradient.addColorStop(0.5, '#d97706'); // pink-600
+    gradient.addColorStop(1, '#d97706'); // purple-600
     ctx.fillStyle = gradient;
     ctx.fillRect(0, 0, 800, 500);
 
@@ -74,7 +74,7 @@ export default function IdealKoreanPartnerQuiz() {
 
     // Korean name
     ctx.font = '24px Arial';
-    ctx.fillStyle = '#9333ea';
+    ctx.fillStyle = '#d97706';
     ctx.fillText(result.nameKo, 400, 235);
 
     // Description (wrapped)
@@ -102,7 +102,7 @@ export default function IdealKoreanPartnerQuiz() {
 
     // Website URL
     ctx.font = 'bold 16px Arial';
-    ctx.fillStyle = '#9333ea';
+    ctx.fillStyle = '#d97706';
     ctx.fillText('koreaexperience.com/tools/ideal-korean-partner', 400, 450);
 
     // Download
@@ -135,12 +135,12 @@ export default function IdealKoreanPartnerQuiz() {
             <div className="text-center mb-8">
               <div className="text-8xl mb-4">{result.emoji}</div>
               <h2 className="text-4xl font-bold text-gray-900 mb-2">{result.name}</h2>
-              <p className="text-2xl text-purple-600 font-semibold mb-4">{result.nameKo}</p>
+              <p className="text-2xl text-amber-700 font-semibold mb-4">{result.nameKo}</p>
               <p className="text-lg text-gray-700 leading-relaxed">{result.description}</p>
             </div>
 
             {/* Personality Traits */}
-            <div className="bg-gradient-to-r from-purple-50 to-pink-50 rounded-xl p-6 mb-6">
+            <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-6 mb-6">
               <h3 className="text-xl font-bold text-gray-900 mb-4">✨ Personality Traits</h3>
               <div className="grid grid-cols-2 gap-3">
                 {result.personality.map((trait, index) => (
@@ -152,24 +152,24 @@ export default function IdealKoreanPartnerQuiz() {
             </div>
 
             {/* Ideal Date */}
-            <div className="bg-purple-50 rounded-xl p-6 mb-6">
+            <div className="bg-amber-50 rounded-xl p-6 mb-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">💝 Ideal Date</h3>
               <p className="text-gray-700">{result.idealDate}</p>
             </div>
 
             {/* Celebrity Reference */}
-            <div className="bg-pink-50 rounded-xl p-6 mb-6">
+            <div className="bg-orange-50 rounded-xl p-6 mb-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">🌟 Celebrity Vibe</h3>
               <p className="text-gray-700">{result.celebrity}</p>
             </div>
 
             {/* Strengths */}
-            <div className="bg-gradient-to-r from-blue-50 to-purple-50 rounded-xl p-6 mb-6">
+            <div className="bg-gradient-to-r from-amber-50 to-amber-50 rounded-xl p-6 mb-6">
               <h3 className="text-xl font-bold text-gray-900 mb-4">💪 Relationship Strengths</h3>
               <ul className="space-y-2">
                 {result.strengths.map((strength, index) => (
                   <li key={index} className="flex items-start gap-2">
-                    <span className="text-purple-600 font-bold">•</span>
+                    <span className="text-amber-700 font-bold">•</span>
                     <span className="text-gray-700">{strength}</span>
                   </li>
                 ))}
@@ -183,13 +183,13 @@ export default function IdealKoreanPartnerQuiz() {
             </div>
 
             {/* Love Language */}
-            <div className="bg-rose-50 rounded-xl p-6 mb-6">
+            <div className="bg-orange-50 rounded-xl p-6 mb-6">
               <h3 className="text-xl font-bold text-gray-900 mb-3">💕 Love Language</h3>
               <p className="text-gray-700 font-semibold">{result.loveLanguage}</p>
             </div>
 
             {/* Compatibility */}
-            <div className="bg-gradient-to-r from-pink-50 to-purple-50 rounded-xl p-6 mb-8">
+            <div className="bg-gradient-to-r from-orange-50 to-amber-50 rounded-xl p-6 mb-8">
               <h3 className="text-xl font-bold text-gray-900 mb-3">🎯 Best Compatible With</h3>
               <p className="text-gray-700">{result.compatibility}</p>
             </div>
@@ -227,7 +227,7 @@ export default function IdealKoreanPartnerQuiz() {
 
                   <button
                     onClick={() => alert('Instagram story sharing feature coming soon! For now, take a screenshot and share on Instagram! 📸')}
-                    className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-pink-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+                    className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-orange-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
                   >
                     <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                       <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
@@ -255,7 +255,7 @@ export default function IdealKoreanPartnerQuiz() {
                       navigator.clipboard.writeText('https://koreaexperience.com/tools/ideal-korean-partner');
                       alert('Link copied to clipboard! 📋');
                     }}
-                    className="w-full bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+                    className="w-full bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
                   >
                     <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
@@ -265,7 +265,7 @@ export default function IdealKoreanPartnerQuiz() {
 
                   <button
                     onClick={handleDownloadImage}
-                    className="w-full bg-white text-purple-600 font-semibold py-3 px-6 rounded-lg border-2 border-purple-600 hover:bg-purple-50 transition-colors flex items-center justify-center gap-2"
+                    className="w-full bg-white text-amber-700 font-semibold py-3 px-6 rounded-lg border-2 border-amber-600 hover:bg-amber-50 transition-colors flex items-center justify-center gap-2"
                   >
                     <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
@@ -285,7 +285,7 @@ export default function IdealKoreanPartnerQuiz() {
             </button>
 
             {/* Other Tools CTA */}
-            <div className="bg-gradient-to-r from-purple-100 to-pink-100 rounded-2xl p-8 text-center border-2 border-purple-200 mt-6">
+            <div className="bg-gradient-to-r from-amber-100 to-orange-100 rounded-2xl p-8 text-center border-2 border-amber-200 mt-6">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">
                 Try More Interactive Tools!
               </h3>
@@ -294,7 +294,7 @@ export default function IdealKoreanPartnerQuiz() {
               </p>
               <Link
                 href="/tools"
-                className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+                className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
               >
                 Explore All Tools
               </Link>
@@ -315,7 +315,7 @@ export default function IdealKoreanPartnerQuiz() {
         {/* Progress Bar */}
         <div className="bg-white/30 rounded-full h-3 mb-8">
           <div
-            className="bg-gradient-to-r from-pink-500 to-purple-600 rounded-full h-3 transition-all duration-300"
+            className="bg-gradient-to-r from-amber-500 to-orange-600 rounded-full h-3 transition-all duration-300"
             style={{ width: `${progress}%` }}
           />
         </div>
@@ -338,8 +338,8 @@ export default function IdealKoreanPartnerQuiz() {
                 onClick={() => handleAnswer(index)}
                 className={`w-full text-left p-6 rounded-xl border-2 transition-all ${
                   answers[currentQuestion].includes(index)
-                    ? 'border-purple-600 bg-purple-50 scale-[1.02]'
-                    : 'border-gray-200 hover:border-purple-300 hover:bg-purple-50'
+                    ? 'border-amber-600 bg-amber-50 scale-[1.02]'
+                    : 'border-gray-200 hover:border-amber-300 hover:bg-amber-50'
                 }`}
               >
                 <span className="text-lg text-gray-900">{option.text}</span>

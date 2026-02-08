@@ -41,11 +41,11 @@ export default function KpopStageNamePage() {
     : '';
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-purple-50 via-pink-50 to-blue-50 py-8 px-4 sm:px-6 lg:px-8">
+    <div className="min-h-screen bg-white py-8 px-4 sm:px-6 lg:px-8">
       <div className="max-w-3xl mx-auto">
         <Link 
           href="/tools"
-          className="inline-flex items-center gap-2 text-purple-600 hover:text-purple-800 mb-6 font-medium transition-colors"
+          className="inline-flex items-center gap-2 text-amber-700 hover:text-amber-900 mb-6 font-medium transition-colors"
         >
           <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
@@ -55,10 +55,10 @@ export default function KpopStageNamePage() {
 
         <div className="bg-white rounded-2xl shadow-2xl overflow-hidden">
           {/* Header */}
-          <div className="bg-gradient-to-r from-purple-600 via-pink-600 to-purple-700 text-white px-8 py-12 text-center">
+          <div className="bg-gradient-to-r from-amber-600 via-orange-600 to-amber-700 text-white px-8 py-12 text-center">
             <div className="text-5xl mb-4">🎤</div>
             <h1 className="text-4xl font-bold mb-3">K-Pop Stage Name Generator</h1>
-            <p className="text-purple-100 text-lg max-w-2xl mx-auto">
+            <p className="text-amber-100 text-lg max-w-2xl mx-auto">
               Discover your perfect K-pop idol stage name! Choose your concept and get a name that matches your star potential ✨
             </p>
           </div>
@@ -78,7 +78,7 @@ export default function KpopStageNamePage() {
                       value={firstName}
                       onChange={(e) => setFirstName(e.target.value)}
                       placeholder="e.g., John"
-                      className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-purple-500 focus:ring-2 focus:ring-purple-200 outline-none transition-all"
+                      className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-amber-500 focus:ring-2 focus:ring-amber-200 outline-none transition-all"
                       required
                     />
                   </div>
@@ -91,7 +91,7 @@ export default function KpopStageNamePage() {
                       value={lastName}
                       onChange={(e) => setLastName(e.target.value)}
                       placeholder="e.g., Smith"
-                      className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-purple-500 focus:ring-2 focus:ring-purple-200 outline-none transition-all"
+                      className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-amber-500 focus:ring-2 focus:ring-amber-200 outline-none transition-all"
                       required
                     />
                   </div>
@@ -110,7 +110,7 @@ export default function KpopStageNamePage() {
                         onClick={() => setGender(g)}
                         className={`px-4 py-3 rounded-lg font-medium transition-all ${
                           gender === g
-                            ? 'bg-purple-600 text-white shadow-lg'
+                            ? 'bg-amber-600 text-white shadow-lg'
                             : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                         }`}
                       >
@@ -133,7 +133,7 @@ export default function KpopStageNamePage() {
                         onClick={() => setConcept(c)}
                         className={`px-4 py-3 rounded-lg font-medium transition-all ${
                           concept === c
-                            ? 'bg-gradient-to-r from-purple-600 to-pink-600 text-white shadow-lg'
+                            ? 'bg-gradient-to-r from-amber-600 to-orange-600 text-white shadow-lg'
                             : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                         }`}
                       >
@@ -149,7 +149,7 @@ export default function KpopStageNamePage() {
                 {/* Submit Button */}
                 <button
                   type="submit"
-                  className="w-full bg-gradient-to-r from-purple-600 to-pink-600 text-white py-4 rounded-xl font-bold text-lg hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
+                  className="w-full bg-gradient-to-r from-amber-600 to-orange-600 text-white py-4 rounded-xl font-bold text-lg hover:shadow-2xl transform hover:scale-105 transition-all duration-300"
                 >
                   ✨ Generate My Stage Name
                 </button>
@@ -158,9 +158,9 @@ export default function KpopStageNamePage() {
               /* Results */
               <div className="space-y-6">
                 {/* Stage Name */}
-                <div className="text-center bg-gradient-to-r from-purple-100 to-pink-100 rounded-xl p-8">
-                  <div className="text-sm text-purple-600 font-semibold mb-2">YOUR K-POP STAGE NAME</div>
-                  <div className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-600 to-pink-600 mb-3">
+                <div className="text-center bg-gradient-to-r from-amber-100 to-orange-100 rounded-xl p-8">
+                  <div className="text-sm text-amber-700 font-semibold mb-2">YOUR K-POP STAGE NAME</div>
+                  <div className="text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 mb-3">
                     {result.stageName}
                   </div>
                   <div className="text-3xl text-gray-700 font-medium">
@@ -170,7 +170,7 @@ export default function KpopStageNamePage() {
 
                 {/* Concept Badge */}
                 <div className="flex justify-center">
-                  <span className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white px-6 py-2 rounded-full font-semibold">
+                  <span className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white px-6 py-2 rounded-full font-semibold">
                     {result.concept === 'Cute' && '🌸 Cute Concept'}
                     {result.concept === 'Cool' && '😎 Cool Concept'}
                     {result.concept === 'Elegant' && '💎 Elegant Concept'}
@@ -179,7 +179,7 @@ export default function KpopStageNamePage() {
                 </div>
 
                 {/* Meaning */}
-                <div className="bg-purple-50 rounded-xl p-6">
+                <div className="bg-amber-50 rounded-xl p-6">
                   <div className="flex items-start gap-3">
                     <div className="text-2xl">💫</div>
                     <div>
@@ -190,14 +190,14 @@ export default function KpopStageNamePage() {
                 </div>
 
                 {/* Idol Similarity */}
-                <div className="bg-pink-50 rounded-xl p-6">
+                <div className="bg-orange-50 rounded-xl p-6">
                   <div className="flex items-start gap-3">
                     <div className="text-2xl">⭐</div>
                     <div className="flex-1">
                       <h3 className="font-bold text-gray-900 mb-2">Similar K-Pop Idol</h3>
                       <div className="flex items-center gap-3 mb-2">
-                        <span className="text-lg font-semibold text-purple-600">{result.similarity.idol}</span>
-                        <span className="bg-purple-600 text-white px-3 py-1 rounded-full text-sm font-bold">
+                        <span className="text-lg font-semibold text-amber-700">{result.similarity.idol}</span>
+                        <span className="bg-amber-600 text-white px-3 py-1 rounded-full text-sm font-bold">
                           {result.similarity.percentage}% Match
                         </span>
                       </div>
@@ -207,12 +207,12 @@ export default function KpopStageNamePage() {
                 </div>
 
                 {/* Group Suggestion */}
-                <div className="bg-blue-50 rounded-xl p-6">
+                <div className="bg-amber-50 rounded-xl p-6">
                   <div className="flex items-start gap-3">
                     <div className="text-2xl">👥</div>
                     <div>
                       <h3 className="font-bold text-gray-900 mb-2">Suggested Group Name</h3>
-                      <div className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600 mb-1">
+                      <div className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 mb-1">
                         {result.groupSuggestion.groupName}
                       </div>
                       <div className="text-lg text-gray-700 font-medium mb-2">
@@ -256,7 +256,7 @@ export default function KpopStageNamePage() {
 
                       <button
                         onClick={() => alert('Instagram story sharing feature coming soon! For now, take a screenshot and share on Instagram! 📸')}
-                        className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-pink-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+                        className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-orange-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
                       >
                         <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                           <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
@@ -284,7 +284,7 @@ export default function KpopStageNamePage() {
                           navigator.clipboard.writeText('https://koreaexperience.com/tools/kpop-stage-name');
                           alert('Link copied to clipboard! 📋');
                         }}
-                        className="w-full bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+                        className="w-full bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
                       >
                         <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
@@ -294,7 +294,7 @@ export default function KpopStageNamePage() {
 
                       <button
                         onClick={() => alert('Screenshot and share your result! 📸')}
-                        className="w-full bg-white text-purple-600 font-semibold py-3 px-6 rounded-lg border-2 border-purple-600 hover:bg-purple-50 transition-colors flex items-center justify-center gap-2"
+                        className="w-full bg-white text-amber-700 font-semibold py-3 px-6 rounded-lg border-2 border-amber-600 hover:bg-amber-50 transition-colors flex items-center justify-center gap-2"
                       >
                         <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
@@ -314,7 +314,7 @@ export default function KpopStageNamePage() {
                 </button>
 
                 {/* Other Tools CTA */}
-                <div className="bg-gradient-to-r from-purple-100 to-pink-100 rounded-2xl p-8 text-center border-2 border-purple-200 mt-6">
+                <div className="bg-gradient-to-r from-amber-100 to-orange-100 rounded-2xl p-8 text-center border-2 border-amber-200 mt-6">
                   <h3 className="text-2xl font-bold text-gray-900 mb-4">
                     Try More Interactive Tools!
                   </h3>
@@ -323,7 +323,7 @@ export default function KpopStageNamePage() {
                   </p>
                   <Link
                     href="/tools"
-                    className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+                    className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
                   >
                     Explore All Tools
                   </Link>

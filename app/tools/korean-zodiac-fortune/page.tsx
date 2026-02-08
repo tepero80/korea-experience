@@ -80,9 +80,9 @@ export default function KoreanZodiacFortunePage() {
 
     // Background gradient
     const gradient = ctx.createLinearGradient(0, 0, 800, 600);
-    gradient.addColorStop(0, '#7c3aed'); // violet-600
-    gradient.addColorStop(0.5, '#a855f7'); // purple-600
-    gradient.addColorStop(1, '#c026d3'); // fuchsia-600
+    gradient.addColorStop(0, '#d97706'); // violet-600
+    gradient.addColorStop(0.5, '#ea580c'); // purple-600
+    gradient.addColorStop(1, '#ea580c'); // fuchsia-600
     ctx.fillStyle = gradient;
     ctx.fillRect(0, 0, 800, 600);
 
@@ -141,7 +141,6 @@ export default function KoreanZodiacFortunePage() {
       title="Korean Zodiac Fortune Today"
       description="Check your daily fortune based on Korean zodiac (띠)! Get insights on love, wealth, health, and career. 🔮"
       emoji="🔮"
-      gradient="from-violet-600 via-purple-600 to-fuchsia-600"
     >
       {!fortune ? (
         /* Input Form */
@@ -154,7 +153,7 @@ export default function KoreanZodiacFortunePage() {
               id="birthYear"
               value={birthYear}
               onChange={(e) => setBirthYear(Number(e.target.value))}
-              className="w-full px-4 py-3 text-lg border-2 border-purple-200 rounded-xl focus:ring-2 focus:ring-purple-500 focus:border-transparent transition-all"
+              className="w-full px-4 py-3 text-lg border-2 border-amber-200 rounded-xl focus:ring-2 focus:ring-amber-500 focus:border-transparent transition-all"
             >
               {years.map((year) => (
                 <option key={year} value={year}>
@@ -166,7 +165,7 @@ export default function KoreanZodiacFortunePage() {
 
           <button
             type="submit"
-            className="w-full bg-gradient-to-r from-violet-600 to-fuchsia-600 text-white py-4 px-8 rounded-xl font-bold text-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200"
+            className="w-full bg-gradient-to-r from-amber-600 to-orange-600 text-white py-4 px-8 rounded-xl font-bold text-lg shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-200"
           >
             ✨ Check Today's Fortune ✨
           </button>
@@ -180,7 +179,7 @@ export default function KoreanZodiacFortunePage() {
         /* Result Display */
         <div ref={resultRef} className="space-y-6">
           {/* Zodiac Header */}
-          <div className="text-center bg-gradient-to-r from-violet-100 via-purple-100 to-fuchsia-100 rounded-2xl p-8 border-2 border-purple-200">
+          <div className="text-center bg-gradient-to-r from-amber-100 via-amber-100 to-orange-100 rounded-2xl p-8 border-2 border-amber-200">
             <div className="text-8xl mb-4">{fortune.zodiac.emoji}</div>
             <h2 className="text-3xl font-bold text-gray-900 mb-2">
               {fortune.zodiac.english} ({fortune.zodiac.korean})
@@ -190,7 +189,7 @@ export default function KoreanZodiacFortunePage() {
           </div>
 
           {/* Overall Fortune Score */}
-          <div className="bg-gradient-to-r from-violet-600 to-fuchsia-600 text-white rounded-2xl p-8 text-center shadow-xl">
+          <div className="bg-gradient-to-r from-amber-600 to-orange-600 text-white rounded-2xl p-8 text-center shadow-xl">
             <div className="text-6xl font-bold mb-2">{fortune.overallScore}/100</div>
             <div className="text-2xl mb-4">
               {getFortuneGrade(fortune.overallScore).emoji} {getFortuneGrade(fortune.overallScore).text}
@@ -207,16 +206,16 @@ export default function KoreanZodiacFortunePage() {
           {/* Detailed Fortunes Grid */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {/* Love */}
-            <div className="bg-pink-50 rounded-xl p-6 border-2 border-pink-200">
+            <div className="bg-orange-50 rounded-xl p-6 border-2 border-orange-200">
               <div className="flex items-center justify-between mb-3">
                 <h3 className="text-lg font-bold text-gray-900 flex items-center gap-2">
                   💕 Love Fortune
                 </h3>
-                <span className="text-2xl font-bold text-pink-600">{fortune.loveScore}</span>
+                <span className="text-2xl font-bold text-orange-600">{fortune.loveScore}</span>
               </div>
-              <div className="bg-pink-200 rounded-full h-2 mb-3 overflow-hidden">
+              <div className="bg-orange-200 rounded-full h-2 mb-3 overflow-hidden">
                 <div 
-                  className="bg-pink-600 h-full rounded-full"
+                  className="bg-orange-600 h-full rounded-full"
                   style={{ width: `${fortune.loveScore}%` }}
                 ></div>
               </div>
@@ -246,7 +245,7 @@ export default function KoreanZodiacFortunePage() {
                 <h3 className="text-lg font-bold text-gray-900 flex items-center gap-2">
                   🏥 Health Fortune
                 </h3>
-                <span className="text-2xl font-bold text-green-600">{fortune.healthScore}</span>
+                <span className="text-2xl font-bold text-amber-600">{fortune.healthScore}</span>
               </div>
               <div className="bg-green-200 rounded-full h-2 mb-3 overflow-hidden">
                 <div 
@@ -258,16 +257,16 @@ export default function KoreanZodiacFortunePage() {
             </div>
 
             {/* Career */}
-            <div className="bg-blue-50 rounded-xl p-6 border-2 border-blue-200">
+            <div className="bg-amber-50 rounded-xl p-6 border-2 border-amber-200">
               <div className="flex items-center justify-between mb-3">
                 <h3 className="text-lg font-bold text-gray-900 flex items-center gap-2">
                   💼 Career Fortune
                 </h3>
-                <span className="text-2xl font-bold text-blue-600">{fortune.careerScore}</span>
+                <span className="text-2xl font-bold text-amber-700">{fortune.careerScore}</span>
               </div>
-              <div className="bg-blue-200 rounded-full h-2 mb-3 overflow-hidden">
+              <div className="bg-amber-200 rounded-full h-2 mb-3 overflow-hidden">
                 <div 
-                  className="bg-blue-600 h-full rounded-full"
+                  className="bg-amber-600 h-full rounded-full"
                   style={{ width: `${fortune.careerScore}%` }}
                 ></div>
               </div>
@@ -278,7 +277,7 @@ export default function KoreanZodiacFortunePage() {
           {/* Lucky Elements */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             {/* Lucky Color */}
-            <div className="bg-white rounded-xl p-6 border-2 border-purple-200 text-center">
+            <div className="bg-white rounded-xl p-6 border-2 border-amber-200 text-center">
               <div className="text-2xl mb-2">🎨</div>
               <h3 className="text-lg font-bold text-gray-900 mb-3">Lucky Color</h3>
               <div 
@@ -291,10 +290,10 @@ export default function KoreanZodiacFortunePage() {
             </div>
 
             {/* Lucky Number */}
-            <div className="bg-white rounded-xl p-6 border-2 border-purple-200 text-center">
+            <div className="bg-white rounded-xl p-6 border-2 border-amber-200 text-center">
               <div className="text-2xl mb-2">🔢</div>
               <h3 className="text-lg font-bold text-gray-900 mb-3">Lucky Number</h3>
-              <div className="text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-violet-600 to-fuchsia-600 mb-3">
+              <div className="text-7xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-amber-600 to-orange-600 mb-3">
                 {fortune.luckyNumber}
               </div>
               <p className="text-sm text-gray-600">This number brings you good fortune today!</p>
@@ -302,7 +301,7 @@ export default function KoreanZodiacFortunePage() {
           </div>
 
           {/* Advice */}
-          <div className="bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl p-6 border-2 border-blue-200">
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-6 border-2 border-amber-200">
             <h3 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
               💡 Today's Advice
             </h3>
@@ -310,7 +309,7 @@ export default function KoreanZodiacFortunePage() {
           </div>
 
           {/* Warning */}
-          <div className="bg-gradient-to-r from-orange-50 to-red-50 rounded-xl p-6 border-2 border-orange-200">
+          <div className="bg-gradient-to-r from-orange-50 to-amber-50 rounded-xl p-6 border-2 border-orange-200">
             <h3 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
               ⚠️ Be Careful Of
             </h3>
@@ -318,7 +317,7 @@ export default function KoreanZodiacFortunePage() {
           </div>
 
           {/* Share Section */}
-          <div className="bg-gradient-to-r from-purple-50 to-pink-50 rounded-xl p-6 border-2 border-purple-200">
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-6 border-2 border-amber-200">
             <h3 className="text-lg font-bold text-gray-900 mb-4 text-center">
               📢 Share Your Fortune!
             </h3>
@@ -346,7 +345,7 @@ export default function KoreanZodiacFortunePage() {
 
               <button
                 onClick={handleShareInstagram}
-                className="bg-gradient-to-r from-purple-600 to-pink-600 text-white py-3 px-4 rounded-lg font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+                className="bg-gradient-to-r from-amber-600 to-orange-600 text-white py-3 px-4 rounded-lg font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
               >
                 <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                   <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"></path>
@@ -378,7 +377,7 @@ export default function KoreanZodiacFortunePage() {
 
               <button
                 onClick={handleDownloadImage}
-                className="bg-gradient-to-r from-purple-600 to-pink-600 text-white py-3 px-4 rounded-lg font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+                className="bg-gradient-to-r from-amber-600 to-orange-600 text-white py-3 px-4 rounded-lg font-semibold hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
               >
                 <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
@@ -391,14 +390,14 @@ export default function KoreanZodiacFortunePage() {
           {/* Try Again Button */}
           <button
             onClick={handleReset}
-            className="w-full bg-white text-purple-600 border-2 border-purple-600 py-4 px-8 rounded-xl font-bold text-lg hover:bg-purple-50 transition-colors flex items-center justify-center gap-2"
+            className="w-full bg-white text-amber-700 border-2 border-amber-600 py-4 px-8 rounded-xl font-bold text-lg hover:bg-amber-50 transition-colors flex items-center justify-center gap-2"
           >
             <span className="text-xl">🔄</span>
             Check Tomorrow's Fortune
           </button>
 
           {/* Try More Tools CTA */}
-          <div className="bg-gradient-to-r from-indigo-50 to-purple-50 rounded-xl p-6 border-2 border-indigo-200 text-center">
+          <div className="bg-gradient-to-r from-amber-50 to-amber-50 rounded-xl p-6 border-2 border-amber-200 text-center">
             <h3 className="text-lg font-bold text-gray-900 mb-2">
               🎯 Try More Interactive Tools!
             </h3>
@@ -407,7 +406,7 @@ export default function KoreanZodiacFortunePage() {
             </p>
             <a
               href="/tools"
-              className="inline-block bg-gradient-to-r from-indigo-600 to-purple-600 text-white py-3 px-6 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+              className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white py-3 px-6 rounded-lg font-semibold hover:opacity-90 transition-opacity"
             >
               Browse All Tools
             </a>

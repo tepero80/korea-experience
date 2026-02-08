@@ -128,9 +128,9 @@ export default function KoreaJobQuizPage() {
   const currentQuestionData = QUIZ_QUESTIONS[currentQuestion];
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-purple-50 via-white to-pink-50">
+    <div className="min-h-screen bg-white">
       {/* Header */}
-      <div className="pt-20 pb-10 bg-gradient-to-r from-purple-600 to-pink-600 text-white">
+      <div className="pt-20 pb-10 bg-gradient-to-r from-amber-600 to-orange-600 text-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <Link
             href="/tools"
@@ -161,20 +161,20 @@ export default function KoreaJobQuizPage() {
                 <span className="text-sm font-semibold text-gray-600">
                   Question {currentQuestion + 1} of {QUIZ_QUESTIONS.length}
                 </span>
-                <span className="text-sm font-semibold text-purple-600">
+                <span className="text-sm font-semibold text-amber-700">
                   {progress}% Complete
                 </span>
               </div>
               <div className="w-full bg-gray-200 rounded-full h-3 overflow-hidden">
                 <div
-                  className="bg-gradient-to-r from-purple-600 to-pink-600 h-full transition-all duration-500 ease-out"
+                  className="bg-gradient-to-r from-amber-600 to-orange-600 h-full transition-all duration-500 ease-out"
                   style={{ width: `${progress}%` }}
                 />
               </div>
             </div>
 
             {/* Question Card */}
-            <div className="bg-white rounded-2xl shadow-xl p-8 mb-8 border-2 border-purple-100">
+            <div className="bg-white rounded-2xl shadow-xl p-8 mb-8 border-2 border-amber-100">
               <h2 className="text-2xl md:text-3xl font-bold text-gray-900 mb-8 text-center">
                 {currentQuestionData.question}
               </h2>
@@ -187,7 +187,7 @@ export default function KoreaJobQuizPage() {
                     onClick={() => handleAnswer(index)}
                     className="
                       w-full text-left p-6 rounded-xl border-2 border-gray-200
-                      hover:border-purple-400 hover:bg-purple-50
+                      hover:border-amber-400 hover:bg-amber-50
                       transition-all duration-200
                       hover:shadow-lg hover:scale-[1.02]
                       active:scale-[0.98]
@@ -195,11 +195,11 @@ export default function KoreaJobQuizPage() {
                     "
                   >
                     <div className="flex items-center justify-between">
-                      <span className="text-lg font-medium text-gray-800 group-hover:text-purple-700">
+                      <span className="text-lg font-medium text-gray-800 group-hover:text-amber-700">
                         {option.text}
                       </span>
                       <svg
-                        className="w-6 h-6 text-gray-400 group-hover:text-purple-600 transition-colors"
+                        className="w-6 h-6 text-gray-400 group-hover:text-amber-700 transition-colors"
                         fill="none"
                         stroke="currentColor"
                         viewBox="0 0 24 24"
@@ -220,7 +220,7 @@ export default function KoreaJobQuizPage() {
                     setCurrentQuestion(Math.max(0, currentQuestion - 1));
                     setAnswers(answers.slice(0, -1));
                   }}
-                  className="text-purple-600 hover:text-purple-700 font-semibold flex items-center gap-2 mx-auto"
+                  className="text-amber-700 hover:text-amber-700 font-semibold flex items-center gap-2 mx-auto"
                 >
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
@@ -234,9 +234,9 @@ export default function KoreaJobQuizPage() {
           /* Result Mode */
           <div ref={resultRef} className="max-w-4xl mx-auto">
             {/* Result Card */}
-            <div className="bg-white rounded-2xl shadow-2xl overflow-hidden mb-8 border-2 border-purple-200">
+            <div className="bg-white rounded-2xl shadow-2xl overflow-hidden mb-8 border-2 border-amber-200">
               {/* Result Header */}
-              <div className="bg-gradient-to-r from-purple-600 to-pink-600 text-white p-8 text-center">
+              <div className="bg-gradient-to-r from-amber-600 to-orange-600 text-white p-8 text-center">
                 <div className="text-8xl mb-4">{result?.emoji}</div>
                 <h2 className="text-4xl md:text-5xl font-bold mb-2">{result?.title}</h2>
                 <p className="text-2xl text-white/90 mb-4">{result?.titleKorean}</p>
@@ -255,12 +255,12 @@ export default function KoreaJobQuizPage() {
 
                 {/* Quick Stats */}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mb-8">
-                  <div className="bg-purple-50 rounded-xl p-4 border border-purple-200">
-                    <div className="text-sm font-semibold text-purple-700 mb-1">💰 Salary Range</div>
+                  <div className="bg-amber-50 rounded-xl p-4 border border-amber-200">
+                    <div className="text-sm font-semibold text-amber-700 mb-1">💰 Salary Range</div>
                     <div className="text-lg font-bold text-gray-900">{result?.salary}</div>
                   </div>
-                  <div className="bg-pink-50 rounded-xl p-4 border border-pink-200">
-                    <div className="text-sm font-semibold text-pink-700 mb-1">📍 Location</div>
+                  <div className="bg-orange-50 rounded-xl p-4 border border-orange-200">
+                    <div className="text-sm font-semibold text-orange-700 mb-1">📍 Location</div>
                     <div className="text-lg font-bold text-gray-900">{result?.location}</div>
                   </div>
                 </div>
@@ -268,13 +268,13 @@ export default function KoreaJobQuizPage() {
                 {/* Pros & Cons */}
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
                   <div>
-                    <h3 className="text-lg font-bold text-green-700 mb-3 flex items-center gap-2">
+                    <h3 className="text-lg font-bold text-amber-700 mb-3 flex items-center gap-2">
                       <span className="text-2xl">✅</span> Pros
                     </h3>
                     <ul className="space-y-2">
                       {result?.pros.map((pro, index) => (
                         <li key={index} className="flex items-start gap-2">
-                          <span className="text-green-600 mt-1">•</span>
+                          <span className="text-amber-600 mt-1">•</span>
                           <span className="text-gray-700">{pro}</span>
                         </li>
                       ))}
@@ -302,7 +302,7 @@ export default function KoreaJobQuizPage() {
                     {result?.skills.map((skill, index) => (
                       <span
                         key={index}
-                        className="bg-purple-100 text-purple-700 px-4 py-2 rounded-full text-sm font-semibold"
+                        className="bg-amber-100 text-amber-700 px-4 py-2 rounded-full text-sm font-semibold"
                       >
                         {skill}
                       </span>
@@ -338,7 +338,7 @@ export default function KoreaJobQuizPage() {
 
                     <button
                       onClick={handleShareInstagram}
-                      className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-pink-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
+                      className="flex items-center justify-center gap-2 bg-gradient-to-r from-purple-600 via-orange-600 to-orange-500 text-white px-4 py-3 rounded-lg font-semibold hover:opacity-90 transition-opacity"
                     >
                       <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                         <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z" />
@@ -361,7 +361,7 @@ export default function KoreaJobQuizPage() {
                   <div className="space-y-2">
                     <button
                       onClick={handleCopyLink}
-                      className="w-full bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
+                      className="w-full bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-6 rounded-lg hover:opacity-90 transition-opacity flex items-center justify-center gap-2"
                     >
                       <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
@@ -371,7 +371,7 @@ export default function KoreaJobQuizPage() {
 
                     <button
                       onClick={handleDownload}
-                      className="w-full bg-white text-purple-600 font-semibold py-3 px-6 rounded-lg border-2 border-purple-600 hover:bg-purple-50 transition-colors flex items-center justify-center gap-2"
+                      className="w-full bg-white text-amber-700 font-semibold py-3 px-6 rounded-lg border-2 border-amber-600 hover:bg-amber-50 transition-colors flex items-center justify-center gap-2"
                     >
                       <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
@@ -392,7 +392,7 @@ export default function KoreaJobQuizPage() {
             </div>
 
             {/* Other Tools CTA */}
-            <div className="bg-gradient-to-r from-purple-100 to-pink-100 rounded-2xl p-8 text-center border-2 border-purple-200">
+            <div className="bg-gradient-to-r from-amber-100 to-orange-100 rounded-2xl p-8 text-center border-2 border-amber-200">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">
                 Try More Interactive Tools!
               </h3>
@@ -401,7 +401,7 @@ export default function KoreaJobQuizPage() {
               </p>
               <Link
                 href="/tools"
-                className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+                className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
               >
                 Explore All Tools
               </Link>

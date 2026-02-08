@@ -39,7 +39,7 @@ export default function BlogPage() {
   };
 
   return (
-    <div className="pt-20">
+    <div className="pt-20 min-h-screen bg-white">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
@@ -48,13 +48,23 @@ export default function BlogPage() {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(collectionSchema) }}
       />
-      <div className="container mx-auto px-4 py-12">
-        <div className="max-w-4xl mx-auto mb-12">
-          <h1 className="text-4xl font-bold mb-4">Korea Experience Blog</h1>
-          <p className="text-xl text-gray-600">
+      {/* Hero Section */}
+      <div className="container mx-auto px-4 sm:px-6 lg:px-8">
+        <div className="max-w-6xl mx-auto pt-10 pb-6">
+          <div className="inline-flex items-center gap-2 bg-amber-100 px-4 py-2 rounded-full mb-4">
+            <span className="text-2xl">📝</span>
+            <span className="text-sm font-semibold text-amber-700">{allPosts.length}+ Expert Guides</span>
+          </div>
+          <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-stone-900 mb-3">
+            Korea Experience Blog
+          </h1>
+          <p className="text-lg md:text-xl text-stone-500 max-w-2xl">
             Expert guides and insights on medical tourism, travel, K-culture, and more.
           </p>
         </div>
+      </div>
+
+      <div className="container mx-auto px-4 sm:px-6 lg:px-8 pb-12">
 
         <Suspense fallback={<div>Loading...</div>}>
           <BlogList allPosts={allPosts} />

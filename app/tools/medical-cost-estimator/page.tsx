@@ -55,9 +55,9 @@ export default function MedicalCostEstimatorPage() {
 
     // Purple-Pink gradient background
     const gradient = ctx.createLinearGradient(0, 0, 800, 600);
-    gradient.addColorStop(0, '#9333ea');
-    gradient.addColorStop(0.5, '#ec4899');
-    gradient.addColorStop(1, '#9333ea');
+    gradient.addColorStop(0, '#d97706');
+    gradient.addColorStop(0.5, '#d97706');
+    gradient.addColorStop(1, '#d97706');
     ctx.fillStyle = gradient;
     ctx.fillRect(0, 0, 800, 600);
 
@@ -78,7 +78,7 @@ export default function MedicalCostEstimatorPage() {
     ctx.fillText(result.procedure.name, 400, 180);
 
     // Korean name
-    ctx.fillStyle = '#9333ea';
+    ctx.fillStyle = '#d97706';
     ctx.font = '24px Arial';
     ctx.fillText(result.procedure.nameKo, 400, 215);
 
@@ -103,7 +103,7 @@ export default function MedicalCostEstimatorPage() {
     ctx.fillText('Estimated Total Cost', 400, 315);
 
     // USD amount
-    ctx.fillStyle = '#9333ea';
+    ctx.fillStyle = '#d97706';
     ctx.font = 'bold 36px Arial';
     ctx.fillText(`$${result.grandTotal.usd.toLocaleString()}`, 400, 365);
 
@@ -118,7 +118,7 @@ export default function MedicalCostEstimatorPage() {
     ctx.fillText(`Recommended Stay: ${result.totalTripDays} days`, 400, 445);
 
     // Website URL
-    ctx.fillStyle = '#9333ea';
+    ctx.fillStyle = '#d97706';
     ctx.font = 'bold 18px Arial';
     ctx.fillText('KoreaExperience.com', 400, 530);
 
@@ -166,12 +166,12 @@ export default function MedicalCostEstimatorPage() {
                 <button
                   key={category.id}
                   onClick={() => handleCategorySelect(category.id)}
-                  className="p-6 bg-white rounded-xl border-2 border-gray-200 hover:border-purple-500 hover:shadow-lg transition-all text-left group"
+                  className="p-6 bg-white rounded-xl border-2 border-gray-200 hover:border-amber-500 hover:shadow-lg transition-all text-left group"
                 >
                   <div className="flex items-center space-x-4">
                     <span className="text-5xl">{category.icon}</span>
                     <div>
-                      <h3 className="text-xl font-bold text-gray-900 group-hover:text-purple-600 transition-colors">
+                      <h3 className="text-xl font-bold text-gray-900 group-hover:text-amber-700 transition-colors">
                         {category.name}
                       </h3>
                       <p className="text-gray-600">{category.nameKo}</p>
@@ -189,7 +189,7 @@ export default function MedicalCostEstimatorPage() {
             <div className="flex items-center justify-between mb-6">
               <button
                 onClick={() => setStep('category')}
-                className="text-purple-600 hover:text-purple-700 font-semibold"
+                className="text-amber-700 hover:text-amber-700 font-semibold"
               >
                 ← Back to Categories
               </button>
@@ -209,18 +209,18 @@ export default function MedicalCostEstimatorPage() {
                 <button
                   key={procedure.id}
                   onClick={() => handleProcedureSelect(procedure)}
-                  className="p-6 bg-white rounded-xl border-2 border-gray-200 hover:border-purple-500 hover:shadow-lg transition-all text-left"
+                  className="p-6 bg-white rounded-xl border-2 border-gray-200 hover:border-amber-500 hover:shadow-lg transition-all text-left"
                 >
                   <div className="flex justify-between items-start mb-3">
                     <div>
                       <h3 className="text-xl font-bold text-gray-900 mb-1">
                         {procedure.name}
                       </h3>
-                      <p className="text-purple-600 font-medium">{procedure.nameKo}</p>
+                      <p className="text-amber-700 font-medium">{procedure.nameKo}</p>
                     </div>
                     <div className="text-right">
                       <div className="text-sm text-gray-500">Starting from</div>
-                      <div className="text-xl font-bold text-purple-600">
+                      <div className="text-xl font-bold text-amber-700">
                         ${procedure.priceRange.budget.min.toLocaleString()}
                       </div>
                     </div>
@@ -241,7 +241,7 @@ export default function MedicalCostEstimatorPage() {
             <div className="flex items-center justify-between mb-6">
               <button
                 onClick={() => setStep('procedure')}
-                className="text-purple-600 hover:text-purple-700 font-semibold"
+                className="text-amber-700 hover:text-amber-700 font-semibold"
               >
                 ← Back to Procedures
               </button>
@@ -263,11 +263,11 @@ export default function MedicalCostEstimatorPage() {
               {/* Budget Tier */}
               <button
                 onClick={() => handleTierSelect('budget')}
-                className="p-6 bg-white rounded-xl border-2 border-gray-200 hover:border-blue-500 hover:shadow-lg transition-all text-center"
+                className="p-6 bg-white rounded-xl border-2 border-gray-200 hover:border-amber-500 hover:shadow-lg transition-all text-center"
               >
                 <div className="text-4xl mb-3">💰</div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Budget</h3>
-                <div className="text-2xl font-bold text-blue-600 mb-3">
+                <div className="text-2xl font-bold text-amber-700 mb-3">
                   ${selectedProcedure.priceRange.budget.min.toLocaleString()} - $
                   {selectedProcedure.priceRange.budget.max.toLocaleString()}
                 </div>
@@ -282,14 +282,14 @@ export default function MedicalCostEstimatorPage() {
               {/* Standard Tier */}
               <button
                 onClick={() => handleTierSelect('standard')}
-                className="p-6 bg-white rounded-xl border-2 border-purple-500 hover:border-purple-600 hover:shadow-xl transition-all text-center relative"
+                className="p-6 bg-white rounded-xl border-2 border-amber-500 hover:border-amber-600 hover:shadow-xl transition-all text-center relative"
               >
-                <div className="absolute top-2 right-2 bg-purple-500 text-white text-xs px-2 py-1 rounded-full">
+                <div className="absolute top-2 right-2 bg-amber-500 text-white text-xs px-2 py-1 rounded-full">
                   Popular
                 </div>
                 <div className="text-4xl mb-3">⭐</div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Standard</h3>
-                <div className="text-2xl font-bold text-purple-600 mb-3">
+                <div className="text-2xl font-bold text-amber-700 mb-3">
                   ${selectedProcedure.priceRange.standard.min.toLocaleString()} - $
                   {selectedProcedure.priceRange.standard.max.toLocaleString()}
                 </div>
@@ -304,11 +304,11 @@ export default function MedicalCostEstimatorPage() {
               {/* Premium Tier */}
               <button
                 onClick={() => handleTierSelect('premium')}
-                className="p-6 bg-white rounded-xl border-2 border-gray-200 hover:border-pink-500 hover:shadow-lg transition-all text-center"
+                className="p-6 bg-white rounded-xl border-2 border-gray-200 hover:border-orange-500 hover:shadow-lg transition-all text-center"
               >
                 <div className="text-4xl mb-3">💎</div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Premium</h3>
-                <div className="text-2xl font-bold text-pink-600 mb-3">
+                <div className="text-2xl font-bold text-orange-600 mb-3">
                   ${selectedProcedure.priceRange.premium.min.toLocaleString()} - $
                   {selectedProcedure.priceRange.premium.max.toLocaleString()}
                 </div>
@@ -337,31 +337,31 @@ export default function MedicalCostEstimatorPage() {
             </div>
 
             {/* Main Cost Card */}
-            <div className="bg-gradient-to-br from-purple-500 to-pink-500 rounded-2xl p-8 text-white text-center shadow-xl">
+            <div className="bg-gradient-to-br from-amber-500 to-orange-500 rounded-2xl p-8 text-white text-center shadow-xl">
               <div className="text-6xl mb-4">
                 {categories.find(c => c.id === result.procedure.category)?.icon}
               </div>
               <h3 className="text-2xl font-bold mb-2">{result.procedure.name}</h3>
-              <p className="text-purple-100 mb-6">{result.procedure.nameKo}</p>
+              <p className="text-amber-100 mb-6">{result.procedure.nameKo}</p>
               
               <div className="bg-white/20 backdrop-blur-sm rounded-xl p-6 mb-4">
-                <div className="text-sm text-purple-100 mb-2">Estimated Total Cost</div>
+                <div className="text-sm text-amber-100 mb-2">Estimated Total Cost</div>
                 <div className="text-5xl font-bold mb-2">
                   ${result.grandTotal.usd.toLocaleString()}
                 </div>
-                <div className="text-xl text-purple-100">
+                <div className="text-xl text-amber-100">
                   ₩{result.grandTotal.krw.toLocaleString()}
                 </div>
               </div>
 
               <div className="flex justify-center items-center space-x-6 text-sm">
                 <div>
-                  <div className="text-purple-100">Recovery</div>
+                  <div className="text-amber-100">Recovery</div>
                   <div className="font-bold">{result.recoveryDays} days</div>
                 </div>
                 <div className="w-px h-8 bg-white/30"></div>
                 <div>
-                  <div className="text-purple-100">Total Trip</div>
+                  <div className="text-amber-100">Total Trip</div>
                   <div className="font-bold">{result.totalTripDays} days</div>
                 </div>
               </div>
@@ -373,7 +373,7 @@ export default function MedicalCostEstimatorPage() {
               <div className="space-y-3">
                 <div className="flex justify-between items-center pb-3 border-b">
                   <span className="text-gray-600">Medical Procedure</span>
-                  <span className="font-bold text-purple-600">
+                  <span className="font-bold text-amber-700">
                     ${result.estimatedCost.usd.toLocaleString()}
                   </span>
                 </div>
@@ -395,7 +395,7 @@ export default function MedicalCostEstimatorPage() {
                 </div>
                 <div className="flex justify-between items-center pt-2">
                   <span className="text-lg font-bold text-gray-900">Grand Total</span>
-                  <span className="text-2xl font-bold text-purple-600">
+                  <span className="text-2xl font-bold text-amber-700">
                     ${result.grandTotal.usd.toLocaleString()}
                   </span>
                 </div>
@@ -408,7 +408,7 @@ export default function MedicalCostEstimatorPage() {
               <ul className="space-y-2">
                 {result.procedure.whatToExpect.map((item, index) => (
                   <li key={index} className="flex items-start">
-                    <span className="text-purple-600 mr-2">•</span>
+                    <span className="text-amber-700 mr-2">•</span>
                     <span className="text-gray-700">{item}</span>
                   </li>
                 ))}
@@ -422,7 +422,7 @@ export default function MedicalCostEstimatorPage() {
                 {result.procedure.popularClinics.map((clinic, index) => (
                   <div
                     key={index}
-                    className="bg-purple-50 rounded-lg p-3 text-center text-purple-900 font-medium"
+                    className="bg-amber-50 rounded-lg p-3 text-center text-amber-900 font-medium"
                   >
                     {clinic}
                   </div>
@@ -431,12 +431,12 @@ export default function MedicalCostEstimatorPage() {
             </div>
 
             {/* Pro Tips */}
-            <div className="bg-gradient-to-br from-blue-50 to-purple-50 rounded-xl p-6 border-2 border-purple-200">
+            <div className="bg-gradient-to-br from-amber-50 to-amber-50 rounded-xl p-6 border-2 border-amber-200">
               <h3 className="text-xl font-bold text-gray-900 mb-4">💡 Pro Tips</h3>
               <ul className="space-y-2">
                 {result.procedure.tips.map((tip, index) => (
                   <li key={index} className="flex items-start">
-                    <span className="text-purple-600 mr-2">✓</span>
+                    <span className="text-amber-700 mr-2">✓</span>
                     <span className="text-gray-700">{tip}</span>
                   </li>
                 ))}
@@ -444,7 +444,7 @@ export default function MedicalCostEstimatorPage() {
             </div>
 
             {/* Share Section - Following Standard Layout */}
-            <div className="mt-8 bg-gradient-to-br from-purple-50 to-pink-50 rounded-2xl p-8 border-2 border-purple-200">
+            <div className="mt-8 bg-gradient-to-br from-amber-50 to-orange-50 rounded-2xl p-8 border-2 border-amber-200">
               <h3 className="text-2xl font-bold text-center text-gray-900 mb-6">
                 Share Your Estimate!
               </h3>
@@ -480,7 +480,7 @@ export default function MedicalCostEstimatorPage() {
                 {/* Instagram */}
                 <button
                   onClick={() => alert('💡 Tip: Screenshot this result and share on Instagram! Tag @koreaexperience for a chance to be featured!')}
-                  className="flex items-center justify-center space-x-2 bg-gradient-to-r from-purple-500 via-pink-500 to-orange-500 hover:from-purple-600 hover:via-pink-600 hover:to-orange-600 text-white px-6 py-3 rounded-xl font-semibold transition-all"
+                  className="flex items-center justify-center space-x-2 bg-gradient-to-r from-amber-500 via-orange-500 to-amber-600 hover:from-amber-700 hover:via-orange-600 hover:to-orange-600 text-white px-6 py-3 rounded-xl font-semibold transition-all"
                 >
                   <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
                     <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/>
@@ -506,7 +506,7 @@ export default function MedicalCostEstimatorPage() {
                   navigator.clipboard.writeText(shareUrl);
                   alert('Link copied to clipboard! 📋');
                 }}
-                className="w-full bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white px-6 py-3 rounded-xl font-semibold transition-all mb-3"
+                className="w-full bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white px-6 py-3 rounded-xl font-semibold transition-all mb-3"
               >
                 📋 Copy Link
               </button>
@@ -514,7 +514,7 @@ export default function MedicalCostEstimatorPage() {
               {/* Download Image Button */}
               <button
                 onClick={handleDownloadImage}
-                className="w-full bg-white hover:bg-gray-50 text-purple-600 border-2 border-purple-600 px-6 py-3 rounded-xl font-semibold transition-all"
+                className="w-full bg-white hover:bg-gray-50 text-amber-700 border-2 border-amber-600 px-6 py-3 rounded-xl font-semibold transition-all"
               >
                 📸 Download Result Image
               </button>
@@ -524,21 +524,21 @@ export default function MedicalCostEstimatorPage() {
             <div className="text-center">
               <button
                 onClick={handleRestart}
-                className="bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white px-8 py-3 rounded-xl font-bold transition-all inline-flex items-center space-x-2"
+                className="bg-gradient-to-r from-amber-600 to-orange-600 hover:from-amber-700 hover:to-orange-700 text-white px-8 py-3 rounded-xl font-bold transition-all inline-flex items-center space-x-2"
               >
                 <span>🔄 Try Again</span>
               </button>
             </div>
 
             {/* CTA - Following Standard */}
-            <div className="mt-8 bg-gradient-to-r from-purple-600 to-pink-600 rounded-2xl p-8 text-center text-white">
+            <div className="mt-8 bg-gradient-to-r from-amber-600 to-orange-600 rounded-2xl p-8 text-center text-white">
               <h3 className="text-2xl font-bold mb-3">Try More Interactive Tools!</h3>
-              <p className="text-purple-100 mb-6">
+              <p className="text-amber-100 mb-6">
                 Discover your Korean name, K-pop stage name, compatibility and more
               </p>
               <Link
                 href="/tools"
-                className="inline-block bg-white text-purple-600 px-8 py-3 rounded-xl font-bold hover:bg-gray-100 transition-colors"
+                className="inline-block bg-white text-amber-700 px-8 py-3 rounded-xl font-bold hover:bg-gray-100 transition-colors"
               >
                 Explore All Tools →
               </Link>

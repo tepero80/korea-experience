@@ -107,7 +107,7 @@ export default function KoreanNicknamePage() {
                     onClick={() => setStyle('cute')}
                     className={`px-4 py-3 rounded-lg font-medium transition-all ${
                       style === 'cute'
-                        ? 'bg-purple-600 text-white'
+                        ? 'bg-amber-600 text-white'
                         : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                     }`}
                   >
@@ -118,7 +118,7 @@ export default function KoreanNicknamePage() {
                     onClick={() => setStyle('cool')}
                     className={`px-4 py-3 rounded-lg font-medium transition-all ${
                       style === 'cool'
-                        ? 'bg-purple-600 text-white'
+                        ? 'bg-amber-600 text-white'
                         : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                     }`}
                   >
@@ -129,7 +129,7 @@ export default function KoreanNicknamePage() {
                     onClick={() => setStyle('unique')}
                     className={`px-4 py-3 rounded-lg font-medium transition-all ${
                       style === 'unique'
-                        ? 'bg-purple-600 text-white'
+                        ? 'bg-amber-600 text-white'
                         : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                     }`}
                   >
@@ -140,7 +140,7 @@ export default function KoreanNicknamePage() {
 
               <button
                 type="submit"
-                className="w-full px-6 py-3 bg-gradient-to-r from-purple-600 to-pink-600 text-white rounded-lg font-semibold hover:from-purple-700 hover:to-pink-700 transition-all"
+                className="w-full px-6 py-3 bg-gradient-to-r from-amber-600 to-orange-600 text-white rounded-lg font-semibold hover:from-amber-700 hover:to-orange-700 transition-all"
               >
                 Generate Nicknames
               </button>
@@ -154,9 +154,9 @@ export default function KoreanNicknamePage() {
                     <button
                       key={idx}
                       onClick={() => handleSelect(option)}
-                      className="p-4 bg-gradient-to-br from-purple-50 to-pink-50 border-2 border-purple-200 rounded-xl hover:border-purple-400 hover:shadow-md transition-all text-left"
+                      className="p-4 bg-gradient-to-br from-amber-50 to-orange-50 border-2 border-amber-200 rounded-xl hover:border-amber-400 hover:shadow-md transition-all text-left"
                     >
-                      <div className="text-2xl font-bold text-purple-700">
+                      <div className="text-2xl font-bold text-amber-700">
                         {option.nickname}
                       </div>
                       <div className="text-lg text-gray-700 mt-1">
@@ -195,7 +195,7 @@ export default function KoreanNicknamePage() {
         )}
 
         {/* Try More Interactive Tools CTA */}
-        <div className="bg-gradient-to-r from-purple-100 to-pink-100 rounded-2xl p-8 text-center border-2 border-purple-200 mt-12">
+        <div className="bg-gradient-to-r from-amber-100 to-orange-100 rounded-2xl p-8 text-center border-2 border-amber-200 mt-12">
           <h3 className="text-2xl font-bold text-gray-900 mb-4">
             Try More Interactive Tools!
           </h3>
@@ -204,7 +204,7 @@ export default function KoreanNicknamePage() {
           </p>
           <Link
             href="/tools"
-            className="inline-block bg-gradient-to-r from-purple-600 to-pink-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
+            className="inline-block bg-gradient-to-r from-amber-600 to-orange-600 text-white font-semibold py-3 px-8 rounded-lg hover:opacity-90 transition-opacity"
           >
             Explore All Tools
           </Link>

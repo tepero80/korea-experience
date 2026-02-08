@@ -31,7 +31,7 @@ export default function ContactPage() {
               type="text"
               id="name"
               name="name"
-              className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-amber-500 focus:border-transparent"
               placeholder="John Doe"
               required
             />
@@ -45,7 +45,7 @@ export default function ContactPage() {
               type="email"
               id="email"
               name="email"
-              className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-amber-500 focus:border-transparent"
               placeholder="john@example.com"
               required
             />
@@ -59,7 +59,7 @@ export default function ContactPage() {
               type="text"
               id="subject"
               name="subject"
-              className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-amber-500 focus:border-transparent"
               placeholder="How can we help?"
               required
             />
@@ -73,7 +73,7 @@ export default function ContactPage() {
               id="message"
               name="message"
               rows={6}
-              className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+              className="w-full px-4 py-2 border border-gray-300 rounded-md focus:ring-2 focus:ring-amber-500 focus:border-transparent"
               placeholder="Tell us more about your inquiry..."
               required
             />
@@ -81,7 +81,7 @@ export default function ContactPage() {
 
           <button
             type="submit"
-            className="w-full bg-blue-600 text-white font-semibold py-3 px-6 rounded-md hover:bg-blue-700 transition-colors"
+            className="w-full bg-amber-600 text-white font-semibold py-3 px-6 rounded-md hover:bg-amber-700 transition-colors"
           >
             Send Message
           </button>
@@ -92,7 +92,7 @@ export default function ContactPage() {
           <div className="space-y-2 text-gray-600">
             <p>
               <strong>Email:</strong>{' '}
-              <a href="mailto:contact@koreaexperience.com" className="text-blue-600 hover:underline">
+              <a href="mailto:contact@koreaexperience.com" className="text-amber-700 hover:underline">
                 contact@koreaexperience.com
               </a>
             </p>
@@ -101,7 +101,7 @@ export default function ContactPage() {
         </div>
       </div>
 
-      <div className="mt-8 bg-blue-50 border-l-4 border-blue-400 p-6">
+      <div className="mt-8 bg-amber-50 border-l-4 border-amber-400 p-6">
         <h3 className="text-lg font-semibold mb-2">Business Inquiries</h3>
         <p className="text-sm text-gray-700">
           For partnership opportunities, advertising, or business proposals, please include 

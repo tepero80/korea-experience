@@ -240,3 +240,26 @@ export function getDeepDivePosts(limit: number = 3): PostMetadata[] {
   
   return deepDivePosts.slice(0, limit);
 }
+
+// Get the latest deep dive post per category, excluding given slugs
+export function getLatestDeepDivePerCategory(excludeSlugs: string[] = [], perCategory: number = 2): PostMetadata[] {
+  const allPosts = getAllPosts();
+  const excluded = new Set(excludeSlugs);
+
+  const deepDivePosts = allPosts
+    .filter((p) => p.deepDive === true && !excluded.has(p.slug))
+    .sort((a, b) => (a.date < b.date ? 1 : -1));
+
+  const countMap = new Map<string, number>();
+  const result: PostMetadata[] = [];
+
+  for (const post of deepDivePosts) {
+    const count = countMap.get(post.category) ?? 0;
+    if (count < perCategory) {
+      countMap.set(post.category, count + 1);
+      result.push(post);
+    }
+  }
+
+  return result;
+}

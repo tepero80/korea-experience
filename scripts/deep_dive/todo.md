@@ -39,7 +39,7 @@
 37. [M] Plastic Surgery Shadow Doctors  | done  | RIC  | 2026-02-08
 38. [T] KORAIL PASS+ guide  | done  | RIC  | 2026-02-08
 39. [K] Lovely Runner filming locations  | done  | RIC  | 2026-02-08
-40. [L] How to identify cult recruitment
+40. [L] How to identify cult recruitment  | done  | RIC  | 2026-02-08
 41. [F] Drinking etiquette: pour and receive
 42. [S] K-pop hair salon: booking in English
 43. [M] 24-hour English pharmacies in Seoul

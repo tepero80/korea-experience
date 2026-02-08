@@ -57,9 +57,9 @@ export default function KDramaRomanceTropePage() {
 
     // Gradient background (romantic pink-purple)
     const gradient = ctx.createLinearGradient(0, 0, 800, 500);
-    gradient.addColorStop(0, '#ec4899'); // pink-500
-    gradient.addColorStop(0.5, '#d946ef'); // fuchsia-500
-    gradient.addColorStop(1, '#ec4899'); // pink-500
+    gradient.addColorStop(0, '#d97706'); // pink-500
+    gradient.addColorStop(0.5, '#ea580c'); // fuchsia-500
+    gradient.addColorStop(1, '#d97706'); // pink-500
     ctx.fillStyle = gradient;
     ctx.fillRect(0, 0, 800, 500);
 
@@ -144,7 +144,6 @@ export default function KDramaRomanceTropePage() {
       title="Your K-Drama Romance Trope"
       description="Discover which K-Drama romance trope perfectly matches your love story preferences!"
       emoji="💕"
-      gradient="from-pink-500 via-fuchsia-500 to-pink-500"
     >
       {showQuiz ? (
         <div className="space-y-8">
@@ -156,7 +155,7 @@ export default function KDramaRomanceTropePage() {
             </div>
             <div className="h-2 bg-gray-200 rounded-full overflow-hidden">
               <div 
-                className="h-full bg-gradient-to-r from-pink-500 to-fuchsia-500 transition-all duration-300"
+                className="h-full bg-gradient-to-r from-orange-500 to-fuchsia-500 transition-all duration-300"
                 style={{ width: `${((currentQuestion + 1) / quizQuestions.length) * 100}%` }}
               />
             </div>
@@ -173,9 +172,9 @@ export default function KDramaRomanceTropePage() {
                 <button
                   key={index}
                   onClick={() => handleAnswer(index)}
-                  className="w-full text-left p-4 rounded-lg border-2 border-gray-200 hover:border-pink-500 hover:bg-pink-50 transition-all duration-200 group"
+                  className="w-full text-left p-4 rounded-lg border-2 border-gray-200 hover:border-orange-500 hover:bg-orange-50 transition-all duration-200 group"
                 >
-                  <span className="text-gray-700 group-hover:text-pink-700 font-medium">
+                  <span className="text-gray-700 group-hover:text-orange-700 font-medium">
                     {option.text}
                   </span>
                 </button>
@@ -187,7 +186,7 @@ export default function KDramaRomanceTropePage() {
           {currentQuestion > 0 && (
             <button
               onClick={() => setCurrentQuestion(currentQuestion - 1)}
-              className="text-gray-600 hover:text-pink-600 font-medium"
+              className="text-gray-600 hover:text-orange-600 font-medium"
             >
               ← Previous Question
             </button>
@@ -196,7 +195,7 @@ export default function KDramaRomanceTropePage() {
       ) : result && (
         <div ref={resultRef} className="space-y-8">
           {/* Result Header */}
-          <div className="bg-gradient-to-r from-pink-500 via-fuchsia-500 to-pink-500 rounded-2xl p-8 text-white text-center">
+          <div className="bg-gradient-to-r from-amber-500 via-orange-500 to-amber-500 rounded-2xl p-8 text-white text-center">
             <div className="text-7xl mb-4">{result.emoji}</div>
             <h2 className="text-4xl font-bold mb-2">{result.name}</h2>
             <p className="text-2xl opacity-90 mb-3">{result.nameKo}</p>
@@ -210,8 +209,8 @@ export default function KDramaRomanceTropePage() {
           </div>
 
           {/* Storyline */}
-          <div className="bg-pink-50 rounded-xl p-8">
-            <h3 className="text-2xl font-bold text-pink-900 mb-4">The Classic Storyline</h3>
+          <div className="bg-orange-50 rounded-xl p-8">
+            <h3 className="text-2xl font-bold text-stone-900 mb-4">The Classic Storyline</h3>
             <p className="text-gray-700 leading-relaxed">{result.storyline}</p>
           </div>
 
@@ -221,7 +220,7 @@ export default function KDramaRomanceTropePage() {
             <ul className="space-y-3">
               {result.iconicMoments.map((moment, index) => (
                 <li key={index} className="flex items-start space-x-3">
-                  <span className="text-pink-500 text-xl">✨</span>
+                  <span className="text-orange-500 text-xl">✨</span>
                   <span className="text-gray-700 leading-relaxed">{moment}</span>
                 </li>
               ))}
@@ -229,8 +228,8 @@ export default function KDramaRomanceTropePage() {
           </div>
 
           {/* Representative Dramas */}
-          <div className="bg-fuchsia-50 rounded-xl p-8">
-            <h3 className="text-2xl font-bold text-fuchsia-900 mb-6">Must-Watch Dramas 📺</h3>
+          <div className="bg-orange-50 rounded-xl p-8">
+            <h3 className="text-2xl font-bold text-stone-900 mb-6">Must-Watch Dramas 📺</h3>
             <div className="space-y-4">
               {result.representativeDramas.map((drama, index) => (
                 <div key={index} className="bg-white rounded-lg p-4 shadow-sm">
@@ -250,7 +249,7 @@ export default function KDramaRomanceTropePage() {
           </div>
 
           {/* Your Scenario */}
-          <div className="bg-gradient-to-r from-pink-100 to-fuchsia-100 rounded-xl p-8">
+          <div className="bg-gradient-to-r from-orange-100 to-orange-100 rounded-xl p-8">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">If You Were the Main Character 🌟</h3>
             <p className="text-gray-700 leading-relaxed italic">{result.yourScenario}</p>
           </div>
@@ -260,7 +259,7 @@ export default function KDramaRomanceTropePage() {
             <h3 className="text-2xl font-bold text-gray-900 mb-6">Romantic Highlights 💖</h3>
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
               {result.romanticHighlights.map((highlight, index) => (
-                <div key={index} className="bg-pink-50 rounded-lg p-4">
+                <div key={index} className="bg-orange-50 rounded-lg p-4">
                   <span className="text-gray-700">{highlight}</span>
                 </div>
               ))}
@@ -273,7 +272,7 @@ export default function KDramaRomanceTropePage() {
             <ul className="space-y-3">
               {result.challenges.map((challenge, index) => (
                 <li key={index} className="flex items-start space-x-3">
-                  <span className="text-fuchsia-500 text-xl">⚡</span>
+                  <span className="text-orange-500 text-xl">⚡</span>
                   <span className="text-gray-700">{challenge}</span>
                 </li>
               ))}
@@ -281,7 +280,7 @@ export default function KDramaRomanceTropePage() {
           </div>
 
           {/* Happy Ending */}
-          <div className="bg-gradient-to-r from-yellow-100 to-pink-100 rounded-xl p-8">
+          <div className="bg-gradient-to-r from-yellow-100 to-orange-100 rounded-xl p-8">
             <h3 className="text-2xl font-bold text-gray-900 mb-4">Your Happy Ending 💕</h3>
             <p className="text-gray-700 leading-relaxed">{result.happyEnding}</p>
           </div>
@@ -294,7 +293,7 @@ export default function KDramaRomanceTropePage() {
                 href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(currentUrl)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-6 py-3 bg-blue-400 text-white rounded-lg hover:bg-blue-500 transition-colors font-medium"
+                className="px-6 py-3 bg-amber-500 text-white rounded-lg hover:bg-amber-500 transition-colors font-medium"
               >
                 Share on Twitter
               </a>
@@ -302,7 +301,7 @@ export default function KDramaRomanceTropePage() {
                 href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(currentUrl)}`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
+                className="px-6 py-3 bg-amber-600 text-white rounded-lg hover:bg-amber-700 transition-colors font-medium"
               >
                 Share on Facebook
               </a>
@@ -310,7 +309,7 @@ export default function KDramaRomanceTropePage() {
                 href={`https://www.instagram.com/`}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:from-purple-600 hover:to-pink-600 transition-colors font-medium"
+                className="px-6 py-3 bg-gradient-to-r from-amber-500 to-orange-500 text-white rounded-lg hover:from-amber-700 hover:to-orange-700 transition-colors font-medium"
               >
                 Share on Instagram
               </a>
@@ -333,7 +332,7 @@ export default function KDramaRomanceTropePage() {
               </button>
               <button
                 onClick={handleDownloadImage}
-                className="px-6 py-3 bg-gradient-to-r from-pink-500 to-fuchsia-500 text-white rounded-lg hover:from-pink-600 hover:to-fuchsia-600 transition-colors font-medium"
+                className="px-6 py-3 bg-gradient-to-r from-orange-500 to-fuchsia-500 text-white rounded-lg hover:from-amber-700 hover:to-orange-700 transition-colors font-medium"
               >
                 💾 Download Result Image
               </button>
@@ -344,21 +343,21 @@ export default function KDramaRomanceTropePage() {
           <div className="text-center pt-4">
             <button
               onClick={handleRestart}
-              className="px-8 py-4 bg-gradient-to-r from-pink-500 to-fuchsia-500 text-white rounded-xl hover:from-pink-600 hover:to-fuchsia-600 transition-all duration-200 font-bold text-lg shadow-lg"
+              className="px-8 py-4 bg-gradient-to-r from-orange-500 to-fuchsia-500 text-white rounded-xl hover:from-amber-700 hover:to-orange-700 transition-all duration-200 font-bold text-lg shadow-lg"
             >
               🔄 Try Again
             </button>
           </div>
 
           {/* CTA */}
-          <div className="bg-gradient-to-r from-violet-100 to-pink-100 rounded-xl p-8 text-center">
+          <div className="bg-gradient-to-r from-amber-100 to-orange-100 rounded-xl p-8 text-center">
             <h3 className="text-xl font-bold text-gray-900 mb-3">Try More Interactive Tools!</h3>
             <p className="text-gray-600 mb-4">
               Discover more about Korean culture and entertainment
             </p>
             <a
               href="/tools"
-              className="inline-block px-6 py-3 bg-gradient-to-r from-violet-600 to-pink-600 text-white rounded-lg hover:from-violet-700 hover:to-pink-700 transition-colors font-medium"
+              className="inline-block px-6 py-3 bg-gradient-to-r from-amber-600 to-orange-600 text-white rounded-lg hover:from-amber-700 hover:to-orange-700 transition-colors font-medium"
             >
               Explore All Tools →
             </a>

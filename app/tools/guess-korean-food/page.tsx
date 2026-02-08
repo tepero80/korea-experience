@@ -199,7 +199,7 @@ export default function GuessKoreanFoodPage() {
           <div className="bg-white rounded-xl shadow-lg p-8 mb-8">
             <div className="text-center">
               <div className="text-7xl mb-4">{gameResult.rankEmoji}</div>
-              <h2 className="text-4xl font-bold mb-3 bg-gradient-to-r from-orange-500 to-red-600 bg-clip-text text-transparent">
+              <h2 className="text-4xl font-bold mb-3 bg-gradient-to-r from-amber-600 to-orange-600 bg-clip-text text-transparent">
                 {gameResult.rank}
               </h2>
               <div className="text-6xl font-bold text-gray-800 mb-2">
@@ -212,7 +212,7 @@ export default function GuessKoreanFoodPage() {
               {/* Score Bar */}
               <div className="w-full bg-gray-200 rounded-full h-4 mb-6">
                 <div
-                  className="bg-gradient-to-r from-orange-500 to-red-600 h-4 rounded-full transition-all"
+                  className="bg-gradient-to-r from-amber-600 to-orange-600 h-4 rounded-full transition-all"
                   style={{ width: `${gameResult.percentage}%` }}
                 />
               </div>
@@ -247,7 +247,7 @@ export default function GuessKoreanFoodPage() {
                   </h4>
                   <ul className="space-y-2">
                     {gameResult.foodsGuessed.map((food, index) => (
-                      <li key={index} className="text-green-700">
+                      <li key={index} className="text-amber-700">
                         • {food}
                       </li>
                     ))}
@@ -275,7 +275,7 @@ export default function GuessKoreanFoodPage() {
             {/* Play Again Button */}
             <button
               onClick={handleReset}
-              className="w-full mt-6 bg-gradient-to-r from-orange-500 to-red-600 text-white text-xl font-bold py-4 px-8 rounded-xl hover:from-orange-600 hover:to-red-700 transition-all shadow-lg"
+              className="w-full mt-6 bg-gradient-to-r from-amber-600 to-orange-600 text-white text-xl font-bold py-4 px-8 rounded-xl hover:from-orange-600 hover:to-red-700 transition-all shadow-lg"
             >
               Play Again 🎮
             </button>
@@ -289,19 +289,19 @@ export default function GuessKoreanFoodPage() {
             <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-4">
               <button
                 onClick={() => handleShare('twitter')}
-                className="bg-blue-400 hover:bg-blue-500 text-white font-semibold py-3 px-4 rounded-lg transition-all"
+                className="bg-amber-500 hover:bg-amber-500 text-white font-semibold py-3 px-4 rounded-lg transition-all"
               >
                 Twitter
               </button>
               <button
                 onClick={() => handleShare('facebook')}
-                className="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-4 rounded-lg transition-all"
+                className="bg-amber-600 hover:bg-amber-700 text-white font-semibold py-3 px-4 rounded-lg transition-all"
               >
                 Facebook
               </button>
               <button
                 onClick={() => handleShare('linkedin')}
-                className="bg-blue-700 hover:bg-blue-800 text-white font-semibold py-3 px-4 rounded-lg transition-all"
+                className="bg-amber-700 hover:bg-amber-800 text-white font-semibold py-3 px-4 rounded-lg transition-all"
               >
                 LinkedIn
               </button>
@@ -356,7 +356,7 @@ export default function GuessKoreanFoodPage() {
             </div>
             <div className="w-full bg-gray-200 rounded-full h-3">
               <div
-                className="bg-gradient-to-r from-orange-500 to-red-600 h-3 rounded-full transition-all duration-300"
+                className="bg-gradient-to-r from-amber-600 to-orange-600 h-3 rounded-full transition-all duration-300"
                 style={{ width: `${progress}%` }}
               />
             </div>
@@ -389,7 +389,7 @@ export default function GuessKoreanFoodPage() {
                 
                 if (showFeedback) {
                   if (isCorrect) {
-                    buttonClass = 'bg-green-100 border-2 border-green-500';
+                    buttonClass = 'bg-green-100 border-2 border-amber-500';
                   } else if (isSelected && !isCorrect) {
                     buttonClass = 'bg-red-100 border-2 border-red-500';
                   }
@@ -409,7 +409,7 @@ export default function GuessKoreanFoodPage() {
                       {option.koreanName}
                     </div>
                     {showFeedback && isCorrect && (
-                      <div className="text-sm text-green-700 mt-2">
+                      <div className="text-sm text-amber-700 mt-2">
                         ✅ Correct! {option.funFact}
                       </div>
                     )}
@@ -435,7 +435,7 @@ export default function GuessKoreanFoodPage() {
         <div className="bg-white rounded-xl shadow-lg p-8 mb-8">
           <div className="text-center mb-8">
             <div className="text-7xl mb-4">🍜</div>
-            <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-orange-500 to-red-600 bg-clip-text text-transparent">
+            <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-amber-600 to-orange-600 bg-clip-text text-transparent">
               Guess Korean Food Photo
             </h2>
             <p className="text-xl text-gray-600">
@@ -475,7 +475,7 @@ export default function GuessKoreanFoodPage() {
           {/* Start Button */}
           <button
             onClick={startGame}
-            className="w-full bg-gradient-to-r from-orange-500 to-red-600 text-white text-2xl font-bold py-5 px-8 rounded-xl hover:from-orange-600 hover:to-red-700 transition-all shadow-lg hover:shadow-xl"
+            className="w-full bg-gradient-to-r from-amber-600 to-orange-600 text-white text-2xl font-bold py-5 px-8 rounded-xl hover:from-orange-600 hover:to-red-700 transition-all shadow-lg hover:shadow-xl"
           >
             Start Quiz! 🎮
           </button>

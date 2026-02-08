@@ -41,9 +41,9 @@ export default function KoreanCoupleNamePage() {
 
     // Pink-Rose gradient
     const gradient = ctx.createLinearGradient(0, 0, 800, 500);
-    gradient.addColorStop(0, '#ec4899'); // pink-500
-    gradient.addColorStop(0.5, '#f43f5e'); // rose-500
-    gradient.addColorStop(1, '#ec4899'); // pink-500
+    gradient.addColorStop(0, '#d97706'); // pink-500
+    gradient.addColorStop(0.5, '#ea580c'); // rose-500
+    gradient.addColorStop(1, '#d97706'); // pink-500
     ctx.fillStyle = gradient;
     ctx.fillRect(0, 0, 800, 500);
 
@@ -105,7 +105,6 @@ export default function KoreanCoupleNamePage() {
       title="Korean Couple Name Combiner"
       description="Create the perfect couple nickname by combining two names! Perfect for couples, best friends, and K-drama fans."
       emoji="💕"
-      gradient="from-pink-500 via-rose-500 to-pink-500"
     >
       <div className="space-y-8">
         {/* Input Section */}
@@ -124,7 +123,7 @@ export default function KoreanCoupleNamePage() {
                   value={name1}
                   onChange={(e) => setName1(e.target.value)}
                   placeholder="e.g., Sarah"
-                  className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-pink-500 focus:outline-none text-lg"
+                  className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-orange-500 focus:outline-none text-lg"
                   maxLength={20}
                 />
               </div>
@@ -138,7 +137,7 @@ export default function KoreanCoupleNamePage() {
                   value={name2}
                   onChange={(e) => setName2(e.target.value)}
                   placeholder="e.g., John"
-                  className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-pink-500 focus:outline-none text-lg"
+                  className="w-full px-4 py-3 border-2 border-gray-200 rounded-lg focus:border-orange-500 focus:outline-none text-lg"
                   maxLength={20}
                 />
               </div>
@@ -148,7 +147,7 @@ export default function KoreanCoupleNamePage() {
             <button
               onClick={handleGenerate}
               disabled={!name1.trim() || !name2.trim()}
-              className="w-full py-4 bg-gradient-to-r from-pink-500 to-rose-500 text-white rounded-lg hover:from-pink-600 hover:to-rose-600 transition-all duration-200 font-bold text-lg shadow-lg disabled:opacity-50 disabled:cursor-not-allowed"
+              className="w-full py-4 bg-gradient-to-r from-orange-500 to-orange-500 text-white rounded-lg hover:from-amber-700 hover:to-orange-700 transition-all duration-200 font-bold text-lg shadow-lg disabled:opacity-50 disabled:cursor-not-allowed"
             >
               💕 Generate Couple Names
             </button>
@@ -159,7 +158,7 @@ export default function KoreanCoupleNamePage() {
         {results.length > 0 && (
           <div className="space-y-6">
             {/* Main Result */}
-            <div className="bg-gradient-to-r from-pink-500 to-rose-500 rounded-2xl p-8 text-white text-center">
+            <div className="bg-gradient-to-r from-orange-500 to-orange-500 rounded-2xl p-8 text-white text-center">
               <div className="text-2xl mb-3">{name1} + {name2}</div>
               <div className="text-6xl mb-4">💕</div>
               <div className="text-5xl font-bold mb-2">{results[0].name}</div>
@@ -168,7 +167,7 @@ export default function KoreanCoupleNamePage() {
               <p className="text-white/90 mb-6">{results[0].description}</p>
               <button
                 onClick={() => handleCopy(results[0].name)}
-                className="px-8 py-3 bg-white text-pink-600 rounded-lg hover:bg-gray-100 transition-colors font-bold"
+                className="px-8 py-3 bg-white text-orange-600 rounded-lg hover:bg-gray-100 transition-colors font-bold"
               >
                 📋 Copy This Name
               </button>
@@ -181,7 +180,7 @@ export default function KoreanCoupleNamePage() {
                 {results.map((result, index) => (
                   <div
                     key={result.id}
-                    className="bg-gradient-to-r from-pink-50 to-rose-50 rounded-lg p-6 border border-pink-200"
+                    className="bg-gradient-to-r from-orange-50 to-orange-50 rounded-lg p-6 border border-orange-200"
                   >
                     <div className="flex items-start justify-between">
                       <div className="flex-1">
@@ -192,14 +191,14 @@ export default function KoreanCoupleNamePage() {
                             <p className="text-lg text-gray-600">{result.nameKo}</p>
                           </div>
                         </div>
-                        <p className="text-sm font-medium text-pink-600 mb-2">{result.method}</p>
+                        <p className="text-sm font-medium text-orange-600 mb-2">{result.method}</p>
                         <p className="text-gray-700 mb-2">{result.description}</p>
                         <p className="text-sm text-gray-500">Vibe: {result.vibe}</p>
                         <p className="text-sm text-gray-400 italic mt-1">Example: {result.example}</p>
                       </div>
                       <button
                         onClick={() => handleCopy(result.name)}
-                        className="ml-4 px-4 py-2 bg-pink-500 text-white rounded-lg hover:bg-pink-600 transition-colors whitespace-nowrap"
+                        className="ml-4 px-4 py-2 bg-orange-500 text-white rounded-lg hover:bg-orange-600 transition-colors whitespace-nowrap"
                       >
                         Copy
                       </button>
@@ -210,7 +209,7 @@ export default function KoreanCoupleNamePage() {
             </div>
 
             {/* Couple Emojis */}
-            <div className="bg-pink-50 rounded-xl p-8">
+            <div className="bg-orange-50 rounded-xl p-8">
               <h3 className="text-2xl font-bold text-gray-900 mb-4">Couple Emojis to Add 💕</h3>
               <div className="grid grid-cols-5 md:grid-cols-10 gap-3">
                 {emojis.map((emoji, index) => (
@@ -234,7 +233,7 @@ export default function KoreanCoupleNamePage() {
                   <button
                     key={index}
                     onClick={() => handleCopy(term)}
-                    className="px-4 py-2 bg-pink-100 text-pink-700 rounded-lg hover:bg-pink-200 transition-colors text-sm font-medium"
+                    className="px-4 py-2 bg-orange-100 text-orange-700 rounded-lg hover:bg-orange-200 transition-colors text-sm font-medium"
                   >
                     {term}
                   </button>
@@ -250,7 +249,7 @@ export default function KoreanCoupleNamePage() {
                   href={`https://twitter.com/intent/tweet?text=${encodeURIComponent(shareText)}&url=${encodeURIComponent(currentUrl)}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="px-6 py-3 bg-blue-400 text-white rounded-lg hover:bg-blue-500 transition-colors font-medium"
+                  className="px-6 py-3 bg-amber-500 text-white rounded-lg hover:bg-amber-500 transition-colors font-medium"
                 >
                   Share on Twitter
                 </a>
@@ -258,7 +257,7 @@ export default function KoreanCoupleNamePage() {
                   href={`https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(currentUrl)}`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="px-6 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors font-medium"
+                  className="px-6 py-3 bg-amber-600 text-white rounded-lg hover:bg-amber-700 transition-colors font-medium"
                 >
                   Share on Facebook
                 </a>
@@ -266,7 +265,7 @@ export default function KoreanCoupleNamePage() {
                   href={`https://www.instagram.com/`}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="px-6 py-3 bg-gradient-to-r from-purple-500 to-pink-500 text-white rounded-lg hover:from-purple-600 hover:to-pink-600 transition-colors font-medium"
+                  className="px-6 py-3 bg-gradient-to-r from-amber-500 to-orange-500 text-white rounded-lg hover:from-amber-700 hover:to-orange-700 transition-colors font-medium"
                 >
                   Share on Instagram
                 </a>
@@ -289,7 +288,7 @@ export default function KoreanCoupleNamePage() {
                 </button>
                 <button
                   onClick={handleDownloadImage}
-                  className="px-6 py-3 bg-gradient-to-r from-pink-500 to-rose-500 text-white rounded-lg hover:from-pink-600 hover:to-rose-600 transition-colors font-medium"
+                  className="px-6 py-3 bg-gradient-to-r from-orange-500 to-orange-500 text-white rounded-lg hover:from-amber-700 hover:to-orange-700 transition-colors font-medium"
                 >
                   💾 Download Image
                 </button>
@@ -304,21 +303,21 @@ export default function KoreanCoupleNamePage() {
                   setName2('');
                   setResults([]);
                 }}
-                className="px-8 py-4 bg-gradient-to-r from-pink-500 to-rose-500 text-white rounded-xl hover:from-pink-600 hover:to-rose-600 transition-all duration-200 font-bold text-lg shadow-lg"
+                className="px-8 py-4 bg-gradient-to-r from-orange-500 to-orange-500 text-white rounded-xl hover:from-amber-700 hover:to-orange-700 transition-all duration-200 font-bold text-lg shadow-lg"
               >
                 🔄 Try New Names
               </button>
             </div>
 
             {/* CTA */}
-            <div className="bg-gradient-to-r from-violet-100 to-pink-100 rounded-xl p-8 text-center">
+            <div className="bg-gradient-to-r from-amber-100 to-orange-100 rounded-xl p-8 text-center">
               <h3 className="text-xl font-bold text-gray-900 mb-3">Try More Tools!</h3>
               <p className="text-gray-600 mb-4">
                 Discover more fun and interactive Korean culture tools
               </p>
               <a
                 href="/tools"
-                className="inline-block px-6 py-3 bg-gradient-to-r from-violet-600 to-pink-600 text-white rounded-lg hover:from-violet-700 hover:to-pink-700 transition-colors font-medium"
+                className="inline-block px-6 py-3 bg-gradient-to-r from-amber-600 to-orange-600 text-white rounded-lg hover:from-amber-700 hover:to-orange-700 transition-colors font-medium"
               >
                 Explore All Tools →
               </a>

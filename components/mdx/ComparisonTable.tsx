@@ -14,6 +14,12 @@ interface ComparisonRow {
   item4?: string | boolean;
   item5?: string | boolean;
   item6?: string | boolean;
+  cell1?: string | boolean;
+  cell2?: string | boolean;
+  cell3?: string | boolean;
+  cell4?: string | boolean;
+  cell5?: string | boolean;
+  cell6?: string | boolean;
 }
 
 interface ComparisonTableProps {
@@ -44,7 +50,8 @@ export default function ComparisonTable({ title, headers, rows, items }: Compari
     const cols = ['Feature'];
     for (let i = 1; i <= 6; i++) {
       if (first[`option${i}` as keyof ComparisonRow] !== undefined ||
-          first[`item${i}` as keyof ComparisonRow] !== undefined) {
+          first[`item${i}` as keyof ComparisonRow] !== undefined ||
+          first[`cell${i}` as keyof ComparisonRow] !== undefined) {
         cols.push(`Option ${i}`);
       }
     }
@@ -54,12 +61,12 @@ export default function ComparisonTable({ title, headers, rows, items }: Compari
   // Dynamically get option cells, supporting both option* and item* keys
   const getOptionCells = (row: ComparisonRow) => {
     const options: (string | boolean | undefined)[] = [
-      row.option1 ?? row.item1,
-      row.option2 ?? row.item2,
-      row.option3 ?? row.item3,
-      row.option4 ?? row.item4,
-      row.option5 ?? row.item5,
-      row.option6 ?? row.item6,
+      row.option1 ?? row.item1 ?? row.cell1,
+      row.option2 ?? row.item2 ?? row.cell2,
+      row.option3 ?? row.item3 ?? row.cell3,
+      row.option4 ?? row.item4 ?? row.cell4,
+      row.option5 ?? row.item5 ?? row.cell5,
+      row.option6 ?? row.item6 ?? row.cell6,
     ];
     
     // Return only the options that correspond to headers (excluding "feature" header)

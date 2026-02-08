@@ -73,7 +73,7 @@ export default function ConvenienceStoreMealsPage() {
       const gradient = ctx.createLinearGradient(0, 0, canvas.width, canvas.height);
       gradient.addColorStop(0, '#10B981');
       gradient.addColorStop(0.5, '#3B82F6');
-      gradient.addColorStop(1, '#8B5CF6');
+      gradient.addColorStop(1, '#d97706');
       ctx.fillStyle = gradient;
       ctx.fillRect(0, 0, canvas.width, canvas.height);
       
@@ -112,7 +112,6 @@ export default function ConvenienceStoreMealsPage() {
       title="Korean Convenience Store Meal Builder"
       description="Build the perfect Korean convenience store combo! Mix ramen, kimbap, drinks and snacks. Get authentic meal ideas from GS25, CU, and 7-Eleven. 🏪"
       emoji="🏪"
-      gradient="from-green-500 via-blue-500 to-purple-500"
     >
       {!meal ? (
         /* Input Form */
@@ -135,8 +134,8 @@ export default function ConvenienceStoreMealsPage() {
                   onClick={() => setPurpose(option.value)}
                   className={`p-4 rounded-xl border-2 transition-all text-left ${
                     purpose === option.value
-                      ? 'border-purple-500 bg-purple-50 shadow-md'
-                      : 'border-gray-200 hover:border-purple-300'
+                      ? 'border-amber-500 bg-amber-50 shadow-md'
+                      : 'border-gray-200 hover:border-amber-300'
                   }`}
                 >
                   <div className="text-3xl mb-2">{option.emoji}</div>
@@ -164,7 +163,7 @@ export default function ConvenienceStoreMealsPage() {
                   onClick={() => setBudget(option.value)}
                   className={`p-4 rounded-xl border-2 transition-all text-center ${
                     budget === option.value
-                      ? 'border-green-500 bg-green-50 shadow-md'
+                      ? 'border-amber-500 bg-green-50 shadow-md'
                       : 'border-gray-200 hover:border-green-300'
                   }`}
                 >
@@ -179,7 +178,7 @@ export default function ConvenienceStoreMealsPage() {
           {/* Generate Button */}
           <button
             type="submit"
-            className="w-full bg-gradient-to-r from-green-500 via-blue-500 to-purple-500 text-white py-4 px-6 rounded-xl font-bold text-lg hover:shadow-lg transition-all"
+            className="w-full bg-gradient-to-r from-amber-500 via-orange-500 to-amber-600 text-white py-4 px-6 rounded-xl font-bold text-lg hover:shadow-lg transition-all"
           >
             🎲 Generate My Combo!
           </button>
@@ -192,7 +191,7 @@ export default function ConvenienceStoreMealsPage() {
         /* Result Display */
         <div ref={resultRef} className="space-y-6">
           {/* Combo Header */}
-          <div className="text-center bg-gradient-to-r from-green-100 via-blue-100 to-purple-100 rounded-2xl p-8 border-2 border-purple-200">
+          <div className="text-center bg-gradient-to-r from-amber-100 via-orange-100 to-amber-100 rounded-2xl p-8 border-2 border-amber-200">
             <div className="text-8xl mb-4">{meal.combo.emoji}</div>
             <h2 className="text-3xl font-bold text-gray-900 mb-2">
               {meal.combo.name}
@@ -203,7 +202,7 @@ export default function ConvenienceStoreMealsPage() {
             <div className="flex items-center justify-center gap-6 flex-wrap">
               <div className="bg-white px-6 py-3 rounded-xl shadow-sm">
                 <div className="text-sm text-gray-600 mb-1">Total Price</div>
-                <div className="text-2xl font-bold text-green-600">{priceFormatted?.krw}</div>
+                <div className="text-2xl font-bold text-amber-600">{priceFormatted?.krw}</div>
                 <div className="text-sm text-gray-500">{priceFormatted?.usd}</div>
               </div>
               <div className="bg-white px-6 py-3 rounded-xl shadow-sm">
@@ -223,7 +222,7 @@ export default function ConvenienceStoreMealsPage() {
               {meal.items.map((item, index) => (
                 <div 
                   key={index}
-                  className="flex items-center justify-between p-4 bg-gradient-to-r from-gray-50 to-blue-50 rounded-lg border border-gray-200"
+                  className="flex items-center justify-between p-4 bg-gradient-to-r from-gray-50 to-amber-50 rounded-lg border border-gray-200"
                 >
                   <div className="flex-1">
                     <div className="font-bold text-gray-900">{item.name}</div>
@@ -237,7 +236,7 @@ export default function ConvenienceStoreMealsPage() {
                     </div>
                   </div>
                   <div className="text-right">
-                    <div className="font-bold text-green-600">₩{item.price.toLocaleString()}</div>
+                    <div className="font-bold text-amber-600">₩{item.price.toLocaleString()}</div>
                     <div className="text-xs text-gray-500">${(item.price / 1300).toFixed(2)}</div>
                   </div>
                 </div>
@@ -246,7 +245,7 @@ export default function ConvenienceStoreMealsPage() {
           </div>
 
           {/* Pro Tips */}
-          <div className="bg-gradient-to-r from-blue-50 to-cyan-50 rounded-xl p-6 border-2 border-blue-200">
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-6 border-2 border-amber-200">
             <h3 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
               💡 Pro Tips
             </h3>
@@ -254,7 +253,7 @@ export default function ConvenienceStoreMealsPage() {
           </div>
 
           {/* Store Availability */}
-          <div className="bg-gradient-to-r from-green-50 to-emerald-50 rounded-xl p-6 border-2 border-green-200">
+          <div className="bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-6 border-2 border-green-200">
             <h3 className="text-lg font-bold text-gray-900 mb-3 flex items-center gap-2">
               🏪 Where to Buy
             </h3>
@@ -262,7 +261,7 @@ export default function ConvenienceStoreMealsPage() {
               {meal.stores.map((store, index) => (
                 <span
                   key={index}
-                  className="bg-white px-4 py-2 rounded-lg border-2 border-green-300 font-semibold text-green-700"
+                  className="bg-white px-4 py-2 rounded-lg border-2 border-green-300 font-semibold text-amber-700"
                 >
                   {store}
                 </span>
@@ -300,7 +299,7 @@ export default function ConvenienceStoreMealsPage() {
 
       {/* About Section */}
       {!meal && (
-        <div className="mt-12 bg-gradient-to-r from-purple-50 to-pink-50 rounded-xl p-6 border-2 border-purple-200">
+        <div className="mt-12 bg-gradient-to-r from-amber-50 to-orange-50 rounded-xl p-6 border-2 border-amber-200">
           <h3 className="text-lg font-bold text-gray-900 mb-3">About Korean Convenience Stores 🏪</h3>
           <div className="space-y-2 text-gray-700 text-sm">
             <p>
@@ -320,14 +319,14 @@ export default function ConvenienceStoreMealsPage() {
 
       {/* CTA Section */}
       {meal && (
-        <div className="mt-12 bg-gradient-to-br from-purple-500 via-pink-500 to-red-500 rounded-2xl p-8 text-center text-white shadow-xl">
+        <div className="mt-12 bg-gradient-to-br from-amber-500 via-orange-500 to-amber-600 rounded-2xl p-8 text-center text-white shadow-xl">
           <h3 className="text-2xl font-bold mb-3">Try More Interactive Tools! 🎯</h3>
           <p className="text-lg mb-6 text-white/90">
             Discover Korean culture with our fun tools and quizzes
           </p>
           <Link 
             href="/tools"
-            className="inline-block bg-white text-purple-600 px-8 py-3 rounded-xl font-bold text-lg hover:shadow-lg transition-all"
+            className="inline-block bg-white text-amber-700 px-8 py-3 rounded-xl font-bold text-lg hover:shadow-lg transition-all"
           >
             Explore All Tools →
           </Link>
