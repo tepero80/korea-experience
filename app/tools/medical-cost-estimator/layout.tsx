@@ -3,7 +3,7 @@ import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Medical Tourism Cost Estimator | Korea Experience' },
-  description: 'Calculate your medical procedure costs in Korea including accommodation, meals, and travel expenses. Estimate costs for plastic surgery, dental, dermatology, and ophthalmology procedures in Seoul and Gangnam.',
+  description: 'Estimate your medical procedure costs in Korea: plastic surgery, dental, dermatology, and more. Includes accommodation and travel costs.',
   keywords: ['Korea medical tourism', 'medical cost calculator', 'plastic surgery Korea', 'Gangnam clinic', 'medical tourism cost', 'Korea surgery price', 'medical procedure estimate'],
   openGraph: {
     title: 'Medical Tourism Cost Estimator | Korea Experience',

@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Zodiac Fortune | Daily Horoscope by 띠 | Korea Experience' },
-  description: 'Check your daily fortune based on Korean zodiac (띠)! Get personalized insights on love, wealth, health, and career. Discover your lucky color and number. Updated daily! 🔮',
+  description: 'Check your daily Korean zodiac fortune (띠)! Get personalized insights on love, wealth, health, career, plus your lucky color and number.',
   keywords: [
     'korean zodiac fortune',
     'korean horoscope',

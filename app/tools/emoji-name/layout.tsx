@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Emoji Name Generator | Transform Your Name | Korea Experience' },
-  description: 'Turn your name into beautiful emojis! Choose from cute, cool, or elegant styles. Perfect for Instagram bios, social media profiles, and making your name stand out. ✨',
+  description: 'Turn your name into beautiful Korean-style emojis! Choose cute, cool, or elegant styles. Perfect for Instagram bios and social media profiles.',
   keywords: [
     'emoji name generator',
     'korean emoji name',

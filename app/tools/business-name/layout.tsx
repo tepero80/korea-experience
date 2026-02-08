@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Business Name Generator | Korea Experience' },
-  description: 'Generate the perfect Korean business name for your cafe, restaurant, beauty salon, or startup. Get creative Korean and English names with meanings and brand stories.',
+  description: 'Generate creative Korean business names for your cafe, restaurant, or startup. Get unique Korean-English name combos with brand stories.',
   keywords: [
     'korean business name generator',
     'korean business name',

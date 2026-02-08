@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: { absolute: 'Which Korean City Should You Live In? | Korea Experience' },
-  description: 'Take our interactive quiz to discover which Korean city matches your lifestyle! From Seoul to Jeju Island, find your perfect Korean home based on career, budget, and preferences.',
+  description: 'Seoul, Busan, or Jeju? Take our lifestyle quiz to discover which Korean city matches your personality, career goals, and budget.',
   keywords: [
     'korean city quiz',
     'where to live in korea',

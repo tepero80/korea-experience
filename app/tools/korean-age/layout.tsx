@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Age & Zodiac Sign Calculator | Korea Experience' },
-  description: 'Calculate your Korean age instantly! Discover the difference between international age and Korean age (세는 나이). Find your Chinese zodiac sign (띠) with personality traits, lucky colors, and compatibility. Learn about Korea\'s 2023 age system change.',
+  description: 'Calculate your Korean age instantly and discover your Chinese zodiac sign (띠) with personality traits, lucky colors, and compatibility.',
   keywords: [
     'korean age calculator',
     'korean age',

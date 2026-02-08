@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Military Service Calculator | Korea Experience' },
-  description: 'Calculate your Korean military service requirements based on age and health. Find out service duration, branch options, and important deadlines. Essential for Korean men aged 18-35. 🪖',
+  description: 'Calculate Korean military service requirements based on age and health. Find service duration, branch options, and important deadlines.',
   keywords: [
     'korean military service',
     'military service calculator',

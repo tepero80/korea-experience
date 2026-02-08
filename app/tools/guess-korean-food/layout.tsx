@@ -2,7 +2,7 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: { absolute: 'Guess Korean Food Quiz | Test K-Food Knowledge | Korea Experience' },
-  description: 'Test your Korean food knowledge! Can you identify these delicious Korean dishes? Play our interactive quiz with 20 Korean foods. Learn fun facts about kimchi, bibimbap, and more! 🍜',
+  description: 'Can you identify 20 Korean dishes from photos? Test your K-food knowledge with our interactive quiz and learn fun facts about each dish.',
   keywords: [
     'korean food quiz',
     'guess korean food',
