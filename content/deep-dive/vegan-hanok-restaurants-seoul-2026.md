@@ -7,6 +7,7 @@ category: Food & Dining
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 11
+image: "/images/deep-dive/vegan-hanok-restaurants-seoul-2026.webp"
 ---
 
 So, look, if you're a vegan traveling to Korea in 2026, you've probably heard the rumors: "Everything has fish sauce," "They think spam is a vegetable," or "You'll be living on white rice and seaweed." Honestly, that might have been true ten years ago, but in 2026? **Seoul is basically a playground for plant-based foodies, especially if you know where to look.**

@@ -196,6 +196,7 @@ export const NAV_LINKS = [
   },
   { 
     label: 'Tools',
+    href: '/tools',
     hasDropdown: true,
     dropdownType: 'tools' as const,
     items: generateNavTools()

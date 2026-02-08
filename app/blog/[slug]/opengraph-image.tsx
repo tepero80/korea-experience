@@ -54,9 +54,10 @@ export default async function Image({ params }: { params: Promise<{ slug: string
     const imagePath = join(process.cwd(), 'public', post.image);
     if (existsSync(imagePath)) {
       const imageBuffer = readFileSync(imagePath);
+      const contentType = post.image.endsWith('.webp') ? 'image/webp' : 'image/png';
       return new Response(imageBuffer, {
         headers: {
-          'Content-Type': 'image/png',
+          'Content-Type': contentType,
           'Cache-Control': 'public, max-age=31536000, immutable',
         },
       });

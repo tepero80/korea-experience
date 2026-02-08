@@ -6,6 +6,7 @@ category: Food & Dining
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 17
+image: "/images/deep-dive/seoul-street-food-prices-2026.webp"
 ---
 
 Here's the deal: Myeongdong is roughly 2 to 3 times more expensive than Gwangjang Market for "luxury" items like lobster or steak, but Gwangjang is no longer the dirt-cheap secret it used to be. You'll need at least ₩30,000 ($20 USD) for a satisfying multi-snack run in Myeongdong, whereas ₩15,000 ($10 USD) can still get you a multi-course "feast" at Gwangjang if you stick to the basics like mung bean pancakes and gimbap.

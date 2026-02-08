@@ -7,6 +7,7 @@ category: Medical Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 25
+image: "/images/deep-dive/licensed-medical-coordinator-guide-2026.webp"
 ---
 
 So, you've decided to head to South Korea for medical treatment—maybe it's the world-class plastic surgery, maybe it's a comprehensive health checkup, or maybe it's specialized cancer treatment. Whatever your reason, **the single most important decision you'll make isn't which clinic to choose—it's who helps you navigate the system.** A licensed medical coordinator can be the difference between a life-changing experience and a nightmare of hidden fees, language barriers, and legal vulnerability.

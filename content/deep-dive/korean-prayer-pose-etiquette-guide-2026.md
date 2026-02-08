@@ -7,6 +7,7 @@ category: K-Culture
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 9
+image: "/images/deep-dive/korean-prayer-pose-etiquette-guide-2026.webp"
 ---
 
 So, you're standing in the middle of Myeong-dong, you've just bought a legendary street-food egg bread, and you want to thank the vendor. You've seen it in movies—maybe a quick bow with your palms pressed together at your chest, right? **Stop right there.**

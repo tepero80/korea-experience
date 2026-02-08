@@ -261,7 +261,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
       {filteredPosts.length > 0 ? (
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {filteredPosts.map((post) => (
-            <BlogCard key={post.slug} post={post} showDeepDiveBadge={currentTab !== 'deep-dive' && post.deepDive} />
+            <BlogCard key={post.slug} post={post} />
           ))}
         </div>
       ) : (

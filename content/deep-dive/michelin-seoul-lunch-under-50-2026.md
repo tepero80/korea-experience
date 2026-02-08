@@ -7,6 +7,7 @@ category: Food & Dining
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 29
+image: "/images/deep-dive/michelin-seoul-lunch-under-50-2026.webp"
 ---
 
 Everyone thinks that eating at a Michelin restaurant means you need to sell a kidney for the tasting menu. But honestly, that couldn't be further from the truth in Seoul. **The short answer is a resounding YES—you can absolutely eat like a gourmet for under $50, and most Bib Gourmand spots will charge you less than ₩20,000 for a lunch that will probably be the highlight of your trip.**

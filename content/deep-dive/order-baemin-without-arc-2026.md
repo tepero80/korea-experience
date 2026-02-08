@@ -7,6 +7,7 @@ category: Food & Dining
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 31
+image: "/images/deep-dive/order-baemin-without-arc-2026.webp"
 ---
 
 So, look, here's the thing. You've just landed in Seoul, you're staying in a gorgeous hotel in Myeongdong or a cozy Airbnb in Hongdae, and it's 11 PM. You've seen the K-dramas where someone orders a massive spread of fried chicken and beer with just a few taps on their phone. You want that life. But then you download the app, and it starts shouting at you in Korean, asking for an Alien Registration Card (ARC) or a local phone number linked to your identity. 

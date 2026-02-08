@@ -6,6 +6,7 @@ category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 30
+image: "/images/deep-dive/vintage-thrifting-dongmyo-gwangjang-2026.webp"
 ---
 
 The short answer is simple: **YES, Seoul's vintage markets are absolute goldmines.** Dongmyo Flea Market and Gwangjang Market represent two completely different thrifting experiences, and in 2026, both are better than ever for tourists who know what they're doing.

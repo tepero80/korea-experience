@@ -6,6 +6,7 @@ category: Food & Dining
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 36
+image: "/images/deep-dive/ordering-food-traditional-markets-papago-2026.webp"
 ---
 
 So, you're standing in the middle of a bustling Seoul market, the smell of sizzling mung bean pancakes is hitting you, and you're staring at a sign that looks like a beautiful but totally unreadable scribble. Here's the short answer: **Yes, you can order like an absolute pro using Papago in 2026, but only if you use the right "modes."**

@@ -7,6 +7,7 @@ category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 20
+image: "/images/deep-dive/jeju-car-rental-no-arc-2026.webp"
 ---
 
 The short answer: Yes, you can rent a car in Jeju without an ARC by using an International Driving Permit (IDP) from your home country plus your national driver's license. As of 2026, the major rental agencies (Lotte, SK, AJ) have fully integrated the 'e-Arrival Card' system, which means tourists no longer need a Korean phone number to complete the rental process—just your passport, IDP, and an international credit card.

@@ -7,6 +7,7 @@ category: K-Culture
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 15
+image: "/images/deep-dive/kpop-fandom-economy-guide-2026.webp"
 ---
 
 To get the rarest limited goods, you need a multi-platform strategy that combines official apps like Weverse and JYP Fans with secondary re-commerce hubs like Bunjang Global. The days of just hitting "buy" on a website are over; in 2026, you're looking at a mix of "daeri" (proxy) buying, real-time resale monitoring, and navigating new anti-scalping laws that have finally started to cool down the 40x price markups.

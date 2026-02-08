@@ -7,6 +7,7 @@ category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 14
+image: "/images/deep-dive/dmz-visit-guide-2026.webp"
 ---
 
 The short answer is: Yes, you can absolutely visit the DMZ right now, but the famous blue conference buildings at the JSA (Panmunjom) are still closed to the general public. You'll want to pivot your plans toward the Third Infiltration Tunnel in Paju or the high-tech Aegibong Peace Park if you want to see into the North.

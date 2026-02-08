@@ -184,6 +184,7 @@ export default async function BlogPostPage({ params }: { params: Params }) {
               src={post.image}
               alt={post.title}
               fill
+              unoptimized
               className="object-cover"
               priority
               sizes="(max-width: 896px) 100vw, 896px"

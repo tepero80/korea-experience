@@ -6,6 +6,7 @@ category: K-Culture
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 34
+image: "/images/deep-dive/korean-table-manners-chopstick-taboo-2026.webp"
 ---
 
 So, you've finally made it to Seoul. You're sitting in a beautiful restaurant, the smell of sizzling pork belly is everywhere, and you're feeling like a total pro because you've already mastered the "Annyeong-haseyo" (Hello). But then, you do it. You're talking, your hands are busy, and you stick your chopsticks vertically into your bowl of rice to keep them steady. Suddenly, the table goes quiet. Your Korean friend looks like they just saw a ghost.

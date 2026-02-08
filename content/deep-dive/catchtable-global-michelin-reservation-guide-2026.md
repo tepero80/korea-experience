@@ -6,6 +6,7 @@ category: Food & Dining
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 5
+image: "/images/deep-dive/catchtable-global-michelin-reservation-guide-2026.webp"
 ---
 
 So, you've just landed at Incheon, you're hungry for some world-class Hansik, and you're staring at a "No Reservations Available" screen on Naver. Honestly, I've been there, and it's incredibly frustrating. But here is the deal: the secret to eating at Korea's top-tier restaurants in 2026 isn't a secret handshake or a local friend—it's knowing how to navigate the "two-app system."

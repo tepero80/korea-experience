@@ -6,6 +6,7 @@ category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 1
+image: "/images/deep-dive/why-google-maps-doesnt-work-in-korea.webp"
 ---
 
 You've just landed at Incheon International Airport, your bags are packed with dreams of K-beauty hauls and street food, and you pull out your phone to find the way to your hotel. You open Google Maps, type in your destination, and... nothing. No walking directions. No turn-by-turn driving guidance. Just a lonely blue dot on a very blurry map. It's a frustrating "Welcome to Korea" moment that almost every traveler experiences. **The short answer is that Google Maps is crippled in South Korea because of strict national security laws that prevent high-precision map data from being stored on overseas servers.** Because Google refuses to move its mapping data onto servers physically located within Korean borders, the government restricts them to a low-detail map that simply cannot support the navigation features you're used to back home.
