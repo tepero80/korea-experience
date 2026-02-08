@@ -17,13 +17,47 @@
 
 ---
 
-## ✅ 이미 변환 완료된 파일
+## ✅ 이미 변환 완료된 파일 (31개)
 
-| # | 드래프트 파일명 | MDX 파일명 | 변환일 |
-|---|----------------|-----------|--------|
-| 1 | `1. [M] Medical Tourism Visa (C-3-3) 2026 requirements.txt` | `medical-tourism-visa-c33-2026.md` | 2026-02-05 |
-| 2 | `2. [T] Climate Card vs. T-money Which transit pass is best.txt` | `seoul-transit-climate-card-vs-tmoney-2026.md` | 2026-02-05 |
-| 3 | `3. [K] 10 social rules that will make you look like a local.txt` | `korea-social-rules-local-guide-2026.md` | 2026-02-05 |
+| Order | MDX 파일명 | 카테고리 |
+|-------|-----------|----------|
+| 1 | `why-google-maps-doesnt-work-in-korea.md` | Travel & Tourism |
+| 2 | `medical-tourism-visa-c33-2026.md` | Medical Tourism |
+| 3 | `seoul-transit-climate-card-vs-tmoney-2026.md` | Travel & Tourism |
+| 4 | `korea-social-rules-local-guide-2026.md` | K-Culture |
+| 5 | `catchtable-global-michelin-reservation-guide-2026.md` | Food & Dining |
+| 6 | `olive-young-must-buys-2026.md` | Shopping & K-Beauty |
+| 7 | `exosome-therapy-seoul-guide-2026.md` | Medical Tourism |
+| 8 | `korea-cherry-blossom-forecast-2026.md` | Travel & Tourism |
+| 9 | `korean-prayer-pose-etiquette-guide-2026.md` | K-Culture |
+| 10 | `namane-vs-wowpass-guide-2026.md` | Travel & Tourism |
+| 11 | `vegan-hanok-restaurants-seoul-2026.md` | Food & Dining |
+| 12 | `personal-color-analysis-hongdae-2026.md` | Shopping & K-Beauty |
+| 13 | `pdrn-salmon-dna-vs-juvelook-2026.md` | Medical Tourism |
+| 14 | `dmz-visit-guide-2026.md` | Travel & Tourism |
+| 15 | `kpop-fandom-economy-guide-2026.md` | K-Culture |
+| 16 | `korean-taxi-guide-no-arc-2026.md` | Travel & Tourism |
+| 17 | `seoul-street-food-prices-2026.md` | Food & Dining |
+| 18 | `seongsu-popup-guide-2026.md` | Shopping & K-Beauty |
+| 19 | `smile-pro-vs-lasik-seoul-2026.md` | Medical Tourism |
+| 20 | `jeju-car-rental-no-arc-2026.md` | Travel & Tourism |
+| 21 | `korean-drinking-etiquette-2026.md` | K-Culture |
+| 22 | `kiosk-card-rejection-guide-2026.md` | Living in Korea |
+| 23 | `halal-dining-itaewon-2026.md` | Food & Dining |
+| 24 | `tax-refund-instant-vs-airport-2026.md` | Shopping & K-Beauty |
+| 25 | `licensed-medical-coordinator-guide-2026.md` | Medical Tourism |
+| 26 | `incheon-airport-survival-guide-2026.md` | Travel & Tourism |
+| 27 | `korean-bowing-etiquette-2026.md` | K-Culture |
+| 28 | `korea-recycling-bunrisugeo-guide-2026.md` | Living in Korea |
+| 29 | `michelin-seoul-lunch-under-50-2026.md` | Food & Dining |
+| 30 | `vintage-thrifting-dongmyo-gwangjang-2026.md` | Shopping & K-Beauty |
+| 31 | `order-baemin-without-arc-2026.md` | Food & Dining |
+| 32 | `vat-tax-refund-plastic-surgery-2026.md` | Medical Tourism |
+| 33 | `solo-travel-safety-index-2026.md` | Travel & Tourism |
+| 34 | `korean-table-manners-chopstick-taboo-2026.md` | K-Culture |
+| 35 | `korean-pharmacies-otc-meds-tourists-2026.md` | Living in Korea |
+| 36 | `ordering-food-traditional-markets-papago-2026.md` | Food & Dining |
+| 37 | `gentle-monster-vs-blue-elephant-eyewear-2026.md` | Shopping & K-Beauty |
 
 > ⚠️ **중요**: 새로 변환할 때마다 이 목록을 업데이트하세요!
 
@@ -80,7 +114,7 @@ ARTICLE BODY (Section 1~5 + Conclusion)
 ```yaml
 ---
 title: "[TITLE 섹션의 내용 - 따옴표로 감싸기]"
-date: 2026-02-05  # 변환 당일 날짜
+date: [변환 당일 날짜, 예: 2026-02-08]
 excerpt: "[EXCERPT 섹션의 내용]"
 category: [CATEGORY 섹션의 내용]  # 6개 중 하나 (정확히 일치해야 함)
 author: Korea Experience Team
@@ -94,7 +128,7 @@ deepDiveOrder: [다음 순번]  # 기존 파일들의 deepDiveOrder 확인 후 +
 # 기존 파일들의 deepDiveOrder 확인
 Select-String -Path "C:\kc\korea-experience\content\deep-dive\*.md" -Pattern "deepDiveOrder" | Sort-Object
 ```
-현재 가장 높은 값 + 1을 사용합니다. (현재: 4가 마지막)
+현재 가장 높은 값 + 1을 사용합니다. (현재: 37이 마지막 → 다음은 38)
 
 **카테고리 옵션 (정확히 이 중 하나만 사용):**
 - `Medical Tourism`
@@ -164,7 +198,7 @@ KEY TAKEAWAYS
     "세 번째 포인트 내용"
   ]}
   readTime={12}
-  lastUpdated="2026-02-05"
+  lastUpdated="[변환 당일 날짜]"
 />
 ```
 
@@ -363,7 +397,7 @@ Role: Urban Mobility Consultant, 12 years in Seoul
 Quote: "The biggest mistake tourists make is..."
 ```
 
-**MDX 변환:**
+**MDX 변환 (Deep-Dive 스타일 - self-closing):**
 ```jsx
 <ExpertTip
   name="Ji-hoon Park"
@@ -372,6 +406,17 @@ Quote: "The biggest mistake tourists make is..."
   quote="The biggest mistake tourists make is... [전체 인용문]"
 />
 ```
+
+> 💡 **참고**: `ExpertTip` 컴포넌트는 두 가지 사용 패턴을 지원합니다:
+>
+> | 패턴 | props | 사용처 |
+> |------|-------|--------|
+> | Deep-Dive 스타일 | `name` + `role` + `experience` + `quote` (self-closing) | Deep-Dive 글 |
+> | AI 생성 스타일 | `author` + `role` + `type` + `verified` + children 블록 | AI 생성 글 |
+>
+> Deep-Dive 변환 시에는 **Deep-Dive 스타일**을 사용합니다. 두 패턴 모두 빌드에 문제없습니다.
+>
+> 추가 가능 props: `location` (선택사항)
 
 ---
 
@@ -415,7 +460,88 @@ WARNINGS AND TIPS
 
 ---
 
-### 9. FAQAccordion
+### 10. LocationCard (장소/맛집 정보)
+
+**드래프트에서 주소, 영업시간, 교통편 등 장소 정보가 있을 때 사용:**
+
+```jsx
+<LocationCard
+  name="Place Name"
+  nameKo="한국어 이름"
+  type="Restaurant"
+  address="123 Street, Gangnam-gu, Seoul"
+  hours="11:00-22:00"
+  phone="+82-2-1234-5678"
+  priceRange="$$"
+  rating={4.5}
+  transit="Exit 3 from Gangnam Station, 5 min walk"
+  highlights={["Signature Dish", "Vegetarian Options", "English Menu"]}
+  tip="Best to visit during lunch for smaller crowds."
+/>
+```
+
+---
+
+### 11. PriceTable (가격 비교표)
+
+**드래프트에서 가격 옵션 비교가 있을 때 사용 (특히 Dualism 콘텐츠):**
+
+```jsx
+<PriceTable
+  title="Price Comparison"
+  variant="dualism"
+  items={[
+    { name: "Luxury Option", price: "₩150,000", tag: "luxury", description: "Premium experience" },
+    { name: "Budget Option", price: "₩25,000", tag: "budget", description: "Great value" }
+  ]}
+/>
+```
+
+> `variant` 옵션: `"default"` (일반), `"dualism"` (Luxury vs Budget 비교)
+
+---
+
+### 12. StatCard (핵심 통계)
+
+**드래프트에서 중요 수치/통계를 강조할 때 사용:**
+
+```jsx
+<StatCard
+  title="Key Statistics"
+  variant="gradient"
+  stats={[
+    { value: "85%", label: "Success Rate", icon: "📊" },
+    { value: "2.5M", label: "Monthly Users", icon: "👥" }
+  ]}
+  source="Official Data 2026"
+/>
+```
+
+---
+
+### 13. DualismRoute (Travel & Tourism 전용)
+
+**여행 코스에서 럭셔리 vs 버짓 경로 비교 시 사용:**
+
+```jsx
+<DualismRoute
+  title="24 Hours in Seongsu: Luxury Meets Budget"
+  area="Seongsu-dong"
+  totalBudget={{ luxury: "$200", budget: "$40" }}
+  totalTime="8 hours"
+  stops={[
+    { name: "Luxury Cafe", type: "luxury", description: "...", cost: "$15", icon: "💎" },
+    { name: "Street Food", type: "budget", description: "...", cost: "$3", icon: "💰" }
+  ]}
+  recommendation="This route balances premium experiences with authentic local discoveries."
+/>
+```
+
+> ⚠️ `totalBudget`은 이중 중괄호 `{{ }}` 주의!
+
+---
+
+### 14. FAQAccordion
 
 **드래프트 형식:**
 ```
@@ -445,7 +571,37 @@ Answer here.
 
 ---
 
-## 📝 본문 마크다운 요소 가이드
+## � Internal Links (내부 링크) 가이드
+
+모든 Deep-Dive 글에는 **3-5개의 내부 링크**를 본문에 자연스럽게 포함해야 합니다.
+
+**형식:**
+```markdown
+[설명 텍스트](/blog/slug-of-related-post)
+```
+
+**규칙:**
+- 관련 있는 기존 블로그 글로만 링크
+- 본문 중간에 자연스럽게 분산 배치 (한 곳에 몰지 않기)
+- 실제 존재하는 slug만 사용 (존재하지 않는 URL은 빌드 후처리에서 제거됨)
+
+**예시:**
+```markdown
+Drinking and BBQ go hand in hand. Find the [best Korean BBQ restaurants in Seoul](/blog/best-korean-bbq-restaurants-in-seoul-2026) for the perfect pairing.
+
+Want to save more? Learn about [smart shopping at Olive Young](/blog/smart-shopping-at-olive-young-using-the-app-and-maximizing-sales-2026).
+```
+
+**사용 가능한 slug 확인 방법:**
+```powershell
+Get-ChildItem "C:\kc\korea-experience\content\posts\*.md" | ForEach-Object { $_.BaseName } | Sort-Object
+```
+
+> 💡 **팁**: `content/posts/` 의 파일명 = slug입니다. 예: `best-korean-bbq-restaurants-in-seoul-2026.md` → `/blog/best-korean-bbq-restaurants-in-seoul-2026`
+
+---
+
+## �📝 본문 마크다운 요소 가이드
 
 컴포넌트 외에도 일반 마크다운 요소를 적절히 사용합니다:
 
@@ -550,7 +706,7 @@ value: "₩5,000 (1d) to ₩20,000 (7d)"
 ```mdx
 ---
 title: "[제목]"
-date: 2026-02-05
+date: [변환 당일 날짜]
 excerpt: "[발췌문]"
 category: [카테고리]
 author: Korea Experience Team
@@ -569,7 +725,7 @@ deepDiveOrder: [순번]
     "세 번째 포인트"
   ]}
   readTime={12}
-  lastUpdated="2026-02-05"
+  lastUpdated="[변환 당일 날짜]"
 />
 
 ## [첫 번째 섹션 제목]
@@ -715,6 +871,9 @@ deepDiveOrder: [순번]
 ## Sources
 
 > ⚠️ **중요**: Sources 섹션은 반드시 `---` 구분선으로 본문과 분리합니다!
+> 
+> Deep-Dive 글은 Google Deep Research가 실제 조사한 출처이므로 **반드시 유지**합니다.
+> (참고: AI 생성 글(content/posts/)에서는 Sources 섹션이 제거되었지만, Deep-Dive는 다릅니다)
 
 - [Source 1](URL) - What data came from here
 - [Source 2](URL) - What data came from here
@@ -799,4 +958,4 @@ A: 파일 크기가 0이거나, 내용이 TITLE/EXCERPT 등 구조만 있고 실
 
 ---
 
-*마지막 업데이트: 2026-02-05*
+*마지막 업데이트: 2026-02-08*

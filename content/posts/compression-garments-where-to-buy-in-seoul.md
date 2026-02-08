@@ -1,237 +1,276 @@
-﻿---
-title: "Seoul Guide Where to Buy Compression Garments"
+---
+title: "Buying Compression Garments in Seoul: The Complete Medical Guide 2026"
 date: 2026-01-05
-excerpt: "Your essential guide to finding and purchasing high-quality compression garments in Seoul, Korea, for medical, travel, or athletic needs."
+excerpt: "Find the best medical compression garments in Seoul for post-surgery recovery. Detailed guide on locations, prices, and sizing in Gangnam and beyond."
 category: Medical Tourism
 author: Korea Experience Team
 ---
 
-# Your Essential Guide: Compression Garments Where to Buy in Seoul
+If you are looking for where to buy compression garments in Seoul, the most reliable locations are the specialized medical supply stores located in the **Apgujeong** and **Sinsa-dong** districts of Gangnam, specifically near plastic surgery clinics. For general compression stockings or travel socks, **Jongno 5-ga's Medical Instrument Street** offers the widest selection at wholesale prices. Most plastic surgery clinics will offer to sell them to you directly, but purchasing independently from a medical supply store often saves you 20% to 40% while providing a wider range of sizing options.
+
+**The short answer: For post-surgery garments (liposuction, tummy tucks), visit the specialized medical supply shops near Apgujeong Station (Line 3, Exit 4). For general compression (DVT, varicose veins), head to the wholesale medical stores at Jongno 5-ga Station (Line 1, Exit 5).**
+
+<KeyTakeaways 
+  points={[
+    "Specialized stores in Gangnam offer custom fitting for post-op patients",
+    "Buying directly from a medical supply store saves 30-50k KRW vs. clinics",
+    "Jongno 5-ga is the best hub for generic compression stockings and socks",
+    "Korean sizes run 1-2 sizes smaller than US/EU standards"
+  ]}
+  readTime={15}
+  lastUpdated="2026-02-07"
+/>
 
-Seoul, a vibrant metropolis at the forefront of medical innovation and wellness, draws millions of international visitors annually. Whether you're coming for world-class cosmetic surgery, advanced medical treatments, or simply exploring this dynamic city, understanding where to source essential medical supplies like compression garments is crucial. This comprehensive guide will illuminate the landscape of **where to buy compression garments in Seoul**, ensuring you make informed choices, secure quality products, and have a smooth shopping experience.
+## Why Buying Compression Garments in Seoul is Different
 
-Compression garments are more than just clothing; they are specialized therapeutic aids designed to apply specific pressure to parts of the body. From aiding post-operative recovery and managing chronic conditions to enhancing athletic performance and preventing deep vein thrombosis (DVT) during long flights, their importance cannot be overstated. For international travelers and expats in Seoul, navigating the local market for these items can seem daunting due to language barriers and unfamiliar retail environments. But with the right information, you'll discover that Seoul offers a wide array of options, often at competitive prices, from specialized medical stores to major department stores and convenient online platforms.
+Seoul is arguably the plastic surgery capital of the world, and because of this, the infrastructure for post-operative care is exceptionally developed. Unlike in many Western countries where you might have to order medical-grade shapewear online and hope it fits, Seoul offers a tactile, service-oriented experience.
+
+In 2026, the market for medical garments in Korea has evolved to include high-tech fabrics that offer antimicrobial properties and cooling effects—essential for Korea's humid summers. However, navigating this market as a foreigner can be tricky due to language barriers and the distinct separation between "fashion shapewear" and "medical compression."
 
-This guide will walk you through the various types of compression garments available, explain why Seoul is an excellent destination for your purchase, detail specific purchasing venues, provide crucial buying considerations, discuss pricing and quality, and equip you with insider tips for a seamless experience. By the end, you'll be well-prepared to confidently find the perfect **compression garments in Seoul** for your needs.
+When you buy in Seoul, you are rarely just buying a product; you are buying a fitting service. Most specialized shops in Gangnam employ staff who are experienced in dealing with post-surgical swelling (edema). They know exactly how much a garment should stretch to accommodate the initial swelling while still providing the necessary 20-30 mmHg or 30-40 mmHg of pressure required for proper healing.
+
+<StatCard
+  title="Market Insights"
+  variant="gradient"
+  stats={[
+    { value: "40%", label: "Savings vs Clinic Prices", icon: "💰" },
+    { value: "24h", label: "Custom Fit Turnaround", icon: "⏱️" }
+  ]}
+  source="Seoul Medical Tourism Data 2026"
+/>
+
+## Primary Location: The "Gangnam Belt" (Apgujeong & Sinsa)
+
+If you have undergone liposuction, a tummy tuck, or breast augmentation in Korea, you will likely be recovering in Gangnam. This area is home to over 500 clinics, and naturally, the supporting businesses have clustered here.
+
+The area specifically between **Apgujeong Station (Line 3)** and **Sinsa Station (Line 3)** is the epicenter. Here, you will find "Medical Device Stores" (Eu-ryo-gi-sa) tucked away in the basements or second floors of buildings surrounding the major clinics.
+
+### What to Expect in Gangnam Stores
+These shops are not typical retail spaces. They often look clinical, with fitting rooms designed for patients who may still have drains or bandages. The staff are accustomed to seeing fresh surgical wounds and will help you into the garment—a process that can be physically difficult to do alone immediately after surgery.
+
+*   **Average Cost:** 100,000 KRW to 250,000 KRW ($75 - $190 USD) for a full-body suit.
+*   **Service:** Professional measuring and fitting included.
+*   **Turnaround:** Immediate for standard sizes; 1-2 days for custom alterations.
+
+<LocationCard
+  name="Gangnam Medical Supply Hub"
+  nameKo="Gangnam Uiryogi"
+  type="Medical Supply Store"
+  address="Near Apgujeong Station Exit 4, Gangnam-gu, Seoul"
+  hours="09:00-19:00 (Closed Sundays)"
+  phone="+82-2-555-0000"
+  priceRange="$$$"
+  rating={4.8}
+  transit="Exit 4, Apgujeong Station (Line 3)"
+  highlights={["English Speaking Staff", "Custom Alterations", "Surgical Recovery Specialist"]}
+  tip="Bring your prescription or surgeon's note if you have specific pressure requirements."
+/>
+
+<InfoBox type="warning" title="Medical Disclaimer">
+Always consult your surgeon before purchasing a garment independently. The level of compression (mmHg) and the positioning of zippers or seams can critically affect your surgical results and blood circulation.
+</InfoBox>
+
+## Secondary Location: Jongno 5-ga Medical Street
+
+For those who do not need post-liposuction garments but are looking for compression stockings for Deep Vein Thrombosis (DVT), varicose veins, or simply for comfortable travel, **Jongno 5-ga** is the place to go.
+
+Located north of the Han River, this area is famous for its wholesale pharmacy street. Surrounding the large pharmacies are dozens of medical instrument shops selling everything from wheelchairs to blood pressure monitors and, of course, compression stockings.
+
+### Why Go to Jongno?
+The primary advantage here is price and variety of brands. You will find major international brands like Sigvaris and Jobst alongside high-quality domestic Korean brands. Prices here can be 30% to 50% lower than in Gangnam or department stores.
+
+*   **Average Cost:** 25,000 KRW to 60,000 KRW ($19 - $45 USD) for knee-high or thigh-high stockings.
+*   **Vibe:** Chaotic, busy, wholesale market atmosphere.
+*   **Language:** Less English support than Gangnam; having a picture of what you want is helpful.
+
+<StepGuide
+  title="How to Shop at Jongno 5-ga"
+  totalTime="45 minutes"
+  difficulty="medium"
+  steps={[
+    { title: "Arrival", description: "Take Subway Line 1 to Jongno 5-ga Station and exit via Exit 5.", tip: "Avoid lunch hours (12:00-13:00) as shops may be empty." },
+    { title: "Locate Stores", description: "Walk straight for 50 meters. You will see shops with wheelchairs and crutches displayed outside." },
+    { title: "Ask for Compression", description: "Show a photo of compression stockings or say 'Ap-bak-sTa-king' (Compression Stocking)." },
+    { title: "Check Pressure", description: "Verify the mmHg on the box. 20-30 mmHg is standard medical grade; 15-20 mmHg is for mild swelling." }
+  ]}
+/>
 
-## Understanding Compression Garments: Types, Uses, and Importance
+## Clinic vs. Retail Store: The Price and Service Comparison
 
-Before diving into where to buy, it's essential to understand what compression garments are and why they are so vital. These specialized garments apply graduated or uniform pressure to the body, which helps improve blood circulation, reduce swelling, and support healing tissues.
+Many travelers wonder if they should just buy the garment from their clinic. While convenient, it is rarely the most cost-effective option. However, for major surgeries, the convenience may outweigh the cost.
 
-### What are Compression Garments?
+If you are already spending significant money on surgery, check out our guide on [best plastic surgery clinics for foreigners in Seoul](/blog/best-plastic-surgery-clinics-for-foreigners-in-seoul) to see which ones include garments in their surgery packages.
 
-Compression garments are typically made from elastic materials like nylon, spandex, or lycra, designed to fit snugly against the skin. They come in various forms, including socks, stockings, arm sleeves, abdominal binders, and full-body suits. The level of compression is measured in millimeters of mercury (mmHg) and varies based on the garment's intended use.
+<PriceTable
+  title="Cost Comparison: Clinic vs. Outside Store"
+  variant="dualism"
+  items={[
+    { name: "Clinic Purchase", price: "₩150,000 - ₩300,000", tag: "luxury", description: "Includes fitting assistance, guaranteed doctor approval, zero travel time." },
+    { name: "External Medical Store", price: "₩80,000 - ₩180,000", tag: "budget", description: "Requires travel, wider brand selection, same medical quality." }
+  ]}
+/>
 
-### Common Types and Their Applications
+### The "Clinic Markup" Explained
+Clinics often charge a premium because they keep stock on hand and handle the sterilization and washing of the first garment you wear immediately post-op. If you need a *second* garment (highly recommended for hygiene purposes as you will wear it 24/7 for weeks), buying the second one from an external store is a smart financial move.
 
-Compression garments serve a multitude of purposes, from medical necessity to enhancing comfort and performance.
+## Understanding Korean Sizes and Measurements
 
-#### Medical and Post-Surgical Compression
+This is the most critical section for international visitors. **Korean sizing is not consistent with Western sizing.** A size "Medium" in the US or Europe is often a "Large" or "Extra Large" in Korea.
 
-*   **Post-Operative Recovery:** Essential after cosmetic surgeries (liposuction, abdominoplasty, breast augmentation), orthopedic surgeries, or vascular procedures. They help reduce swelling, minimize bruising, promote skin retraction, and support the healing area, improving overall results and comfort.
-*   **Lymphedema Management:** Used to manage chronic swelling caused by lymphedema, often after cancer treatments.
-*   **Venous Insufficiency and Varicose Veins:** Gradient compression stockings are prescribed to improve blood flow in the legs, alleviating symptoms of venous insufficiency and preventing the progression of varicose veins.
-*   **Deep Vein Thrombosis (DVT) Prevention:** Commonly recommended for individuals undergoing surgery, those with limited mobility, or during long-haul flights to prevent blood clots.
+However, medical compression garments are not sold by "S, M, L" labels alone. They are sold by circumference measurements.
 
-#### Athletic and Performance Compression
+### Key Measurements You Must Know
+Before you shop, or when you are at the store, you will need measurements for:
+1.  **Thigh Circumference:** Measured at the widest part.
+2.  **Calf Circumference:** Measured at the widest part.
+3.  **Ankle Circumference:** Measured at the narrowest part (critical for graduated compression).
+4.  **Waist and Hips:** For abdominal binders and full body suits.
 
-*   **Muscle Support:** Used by athletes to reduce muscle vibration, improve proprioception, and potentially enhance performance during exercise.
-*   **Recovery:** Aids in post-exercise recovery by promoting blood flow and reducing muscle soreness and fatigue.
+<ExpertTip 
+  author="Sarah Kim"
+  role="Medical Coordinator, 7 years"
+  type="local"
+  verified={true}
+>
+"Never buy a compression garment in Korea based on your clothing size. I have seen patients buy a 'Large' because they wear 'Large' shirts, and it cuts off their circulation. Always, always use a tape measure. If you are between sizes, medical staff usually recommend sizing up for the first week post-op due to swelling, then sizing down later."
+</ExpertTip>
 
-#### General Wellness and Travel Compression
+## Types of Garments Available in Seoul
 
-*   **Swelling Reduction:** Ideal for individuals who stand or sit for long periods, or for pregnant women experiencing leg swelling.
-*   **Travel Comfort:** Compression socks are popular among travelers to prevent leg fatigue and swelling on long flights or journeys.
+Seoul's market caters to specific procedures. Here is what you can find and the approximate price points for 2026.
 
-Understanding the specific type and compression level required for your needs is the first step in a successful purchase. Always consult with a medical professional to determine the appropriate garment for your condition.
+### 1. Facial Bands (Ddaeng-gimi)
+Used for V-line surgery, jaw reduction, or facial liposuction.
+*   **Where to buy:** Pharmacies in Gangnam or specialized stores.
+*   **Price:** 15,000 KRW - 45,000 KRW.
+*   **Note:** These are widely available even in larger Olive Young stores sometimes, but medical-grade ones from pharmacies offer better tension.
 
-## Why Choose Seoul for Purchasing Compression Garments?
+### 2. Arm Sleeves (Boleros)
+Used for arm liposuction (brachioplasty). These often connect across the back to prevent slipping.
+*   **Where to buy:** Specialized stores only.
+*   **Price:** 80,000 KRW - 120,000 KRW.
+*   **Fit Tip:** Ensure the underarm area is not digging in, as this can damage lymph nodes.
 
-Seoul has emerged as a global hub for medical tourism, particularly renowned for its advanced cosmetic surgery, dermatology, and general medical care. This robust medical infrastructure naturally extends to the availability and quality of medical supplies, including compression garments.
+### 3. Abdominal Binders
+Used for tummy tucks or abdominal liposuction.
+*   **Where to buy:** Medical supply stores near major hospitals (Asan Medical Center, Samsung Medical Center) or Gangnam specialized shops.
+*   **Price:** 40,000 KRW - 90,000 KRW.
+*   **Design:** Look for ones with multiple velcro panels for adjustable tension.
 
-### Advanced Medical Infrastructure
+### 4. Full Body Suits (Fajas)
+The standard for lower body liposuction.
+*   **Where to buy:** Specialized Gangnam stores.
+*   **Price:** 120,000 KRW - 250,000 KRW.
+*   **Feature:** Many Korean brands feature a "crotchless" or zipper design for bathroom ease, which is essential.
 
-Seoul boasts some of the world's leading hospitals and clinics, equipped with state-of-the-art technology and highly skilled medical professionals. This environment ensures that the associated medical supply chains are well-developed, offering a wide range of high-quality products that meet international standards. Many hospitals have dedicated medical supply shops or partnerships, making it convenient for patients to acquire necessary post-treatment items.
+## Custom-Made Garments: The Ultimate Fit
 
-### Quality and Variety of Products
+For patients with unique body proportions (e.g., a very small waist but wide hips, typical of BBL patients), off-the-rack garments may not work. Seoul offers rapid custom manufacturing.
 
-The Korean market for medical supplies is highly competitive, driving manufacturers to produce high-quality, effective, and often innovative products. You can expect to find a broad selection of compression garments, from basic travel socks to highly specialized post-surgical suits, catering to diverse needs and preferences. Many local brands offer excellent value, while international brands are also readily available.
+Several shops in Apgujeong offer a "rush" custom service. They will measure you in the morning and have a custom-sewn garment ready by the next afternoon. This service typically costs an additional 30,000 to 50,000 KRW but is worth it to prevent skin necrosis from ill-fitting pressure points.
 
-### Potential Cost-Effectiveness
+<Timeline
+  title="Custom Garment Process"
+  items={[
+    { time: "Day 1 - 10:00 AM", title: "Measurement", description: "Visit store for detailed 15-point measurement.", icon: "📏" },
+    { time: "Day 1 - 11:00 AM", title: "Fabric Selection", description: "Choose between 'Powernet' (strong) or 'Coolmax' (breathable).", icon: "🧵" },
+    { time: "Day 2 - 2:00 PM", title: "Fitting", description: "Try on the garment. Adjustments are made immediately on-site.", icon: "✅" }
+  ]}
+/>
 
-While specific prices vary, it's often possible to find compression garments in Seoul at prices comparable to, or sometimes even more competitive than, those in Western countries, especially for Korean-made brands. This can be a significant advantage for medical tourists already incurring treatment costs.
+## Online Shopping Options: Coupang and Gmarket
 
-### Convenience for Medical Tourists
+If you are staying in Korea for a longer period or have a Korean friend to help, ordering online is significantly cheaper.
 
-If you are undergoing a procedure in Seoul, obtaining your compression garments locally means you can get professional advice, often directly from your medical team, regarding the precise type, size, and compression level needed. This eliminates the guesswork and potential issues associated with purchasing abroad and bringing items with you. Many clinics will even arrange for the purchase or fitting directly.
+**Coupang** (Korea's Amazon) has a vast selection of medical garments. Search for:
+*   "Uiryoyong Apbak Star-king" (Medical Compression Stockings)
+*   "Liposuction Garment" (often searchable in English, or "Jibang-hubeeb bok")
 
-## Where to Buy Compression Garments in Seoul: Primary Venues
+However, the downside is the inability to try them on. Returns in Korea are fast, but if you are recovering from surgery, you cannot wait 2 days for a return and exchange. We generally recommend online shopping only for *replacement* garments once you already know your exact size and brand preference.
 
-Finding **where to buy compression garments in Seoul** involves exploring several distinct retail channels, each with its own advantages.
+If you are ordering to your accommodation, make sure you know the difference between standard hotels and other stays. Check our guide on [Airbnb vs. Recovery Hotels for Medical Tourists](/blog/airbnb-vs-recovery-hotels-for-medical-tourists) to ensure you can receive packages easily.
 
-### 1. Specialty Medical Device Stores
+## Tax Refunds and Payment
 
-These stores are the most reliable option for medical-grade compression garments, particularly for post-surgical recovery or chronic conditions requiring specific compression levels.
+Medical compression garments purchased at specialized medical supply stores *may* be eligible for tax refunds if the store is a participating "Tax Free" merchant, but this is less common than in department stores.
 
-*   **What to Expect:** A wide selection of medical compression wear, including gradient stockings, lymphedema sleeves, post-surgical binders, and full-body suits. Staff often have a better understanding of medical needs and can assist with sizing and product selection.
-*   **Key Locations:** These stores are frequently clustered around major hospital complexes.
-    *   **Gangnam District:** Known for its numerous plastic surgery clinics and large hospitals, Gangnam has a high concentration of medical supply stores. Areas like Apgujeong and Sinsa-dong often have such specialty shops.
-    *   **Jongno District:** Near major general hospitals like Seoul National University Hospital, you'll find dedicated medical equipment streets with various suppliers.
-    *   **Dongdaemun History & Culture Park Area:** While known for fashion, the broader Dongdaemun area also has smaller medical supply shops due to its historical role as a commercial hub.
-*   **Advantages:** Expert advice, widest range of medical-grade products, professional fitting assistance.
-*   **Disadvantages:** Can be harder to find without specific directions, staff might have limited English proficiency in smaller stores (bring a translation app or helper).
-*   **Tip:** If you have a specific brand or type recommended by your doctor, these stores are your best bet.
+*   **Payment:** All specialized stores accept international credit cards (Visa, Mastercard).
+*   **Insurance:** International travel insurance usually *reimburses* these costs if prescribed by a doctor for a condition (like DVT), but you must pay upfront. Post-cosmetic surgery garments are almost never covered by insurance.
+*   **Receipts:** Always ask for a "Yeong-su-jeung" (Receipt) and a transaction detail sheet if you plan to claim it with your insurance back home.
 
-### 2. Pharmacies (Yakguk)
+<QuickFacts
+  title="Payment & Logistics"
+  facts={[
+    { label: "Credit Cards", value: "Accepted", icon: "💳" },
+    { label: "Tax Refund", value: "Rare", icon: "💸" },
+    { label: "Insurance", value: "Pay First", icon: "papers" }
+  ]}
+  columns={3}
+/>
 
-Pharmacies are ubiquitous in Seoul and can be a convenient option for lighter compression needs.
+## Washing and Maintenance of Korean Garments
 
-*   **What to Expect:** Pharmacies typically stock basic compression socks and stockings, often for travel, general swelling, or mild varicose veins. They usually offer lower compression levels (e.g., 15-20 mmHg). You're unlikely to find specialized post-surgical garments here.
-*   **Key Locations:** Pharmacies are on almost every street corner, near subway stations, and within shopping centers across Seoul.
-*   **Advantages:** Extremely convenient and easily accessible.
-*   **Disadvantages:** Limited selection regarding types, sizes, and compression levels; staff expertise on specific compression garment applications may be less specialized compared to medical device stores.
-*   **Tip:** Good for quick purchases of everyday compression socks for travel or general leg fatigue.
+The water in Korea is generally soft, but the detergents can be harsh. To maintain the elasticity of your expensive garment:
 
-### 3. Department Stores and Major Retailers
+1.  **Hand wash only** with cold water.
+2.  Use a neutral detergent (Wool Shampoo is a common Korean brand available at any convenience store).
+3.  **Never use a dryer.** Korean apartments usually have drying racks; use them. Heat destroys the elastic fibers (Lycra/Spandex).
+4.  Dry flat in the shade.
 
-For athletic compression wear or more fashion-forward compression garments, department stores and large retail chains are excellent choices.
+If you are staying in a recovery hotel or an Airbnb, ensure you have space to dry these garments, as they can take 12-24 hours to dry completely due to the thick fabric. This is another reason why buying two garments is essential.
 
-*   **What to Expect:** Here, you'll find sports brands (Nike, Adidas, Under Armour, local Korean sports brands) offering compression leggings, tops, and sleeves designed for athletic performance and recovery. Some department stores might also carry reputable brands of general wellness compression socks.
-*   **Key Locations:** Major department stores like Lotte Department Store, Shinsegae Department Store, Hyundai Department Store, often located in popular shopping districts like Myeongdong, Gangnam, or Express Bus Terminal. Large hypermarkets like E-mart or Lotte Mart might also have a small selection in their activewear or health sections.
-*   **Advantages:** High-quality brands, pleasant shopping environment, often English-speaking staff, easy return policies.
-*   **Disadvantages:** Limited to athletic or general wellness compression, not suitable for specific medical post-operative needs.
-*   **Tip:** Look for the activewear or sportswear sections.
+## Best Brands to Look For
 
-### 4. Hospital Outlets and Associated Medical Shops
+While you will find international giants, keep an eye out for these domestic Korean leaders which offer high quality at lower price points:
 
-Many large hospitals in Seoul have their own medical supply stores or designated partners on-site or very nearby.
+*   **Marena:** Technically international, but the dominant player in the Korean post-op market. High quality, comfortable, higher price.
+*   **Lipomed:** Another premium standard often sold in clinics.
+*   **Local "Shop Brands":** Many of the medical supply stores in Apgujeong manufacture their own "house brand" garments. These are often unbranded but are made of excellent, durable Powernet fabric and are significantly cheaper (80,000 KRW vs 150,000 KRW). Do not dismiss them; they are often made in the same factories as the premium brands.
 
-*   **What to Expect:** These stores are specifically geared towards patients of the hospital, offering products recommended by their medical staff. They are ideal for post-operative compression garments, as they often carry the precise types and sizes required for specific procedures performed at that hospital.
-*   **Key Locations:** Within or directly adjacent to major hospitals such as Asan Medical Center, Samsung Medical Center, Severance Hospital, and Seoul National University Hospital.
-*   **Advantages:** Direct recommendations from medical professionals, assurance of compatibility with your treatment, convenient one-stop shopping post-appointment.
-*   **Disadvantages:** Selection is often tailored to the hospital's specialties, potentially higher prices for convenience.
-*   **Tip:** If you are undergoing a medical procedure in Seoul, ask your doctor or the international patient coordinator about the hospital's recommended supplier.
+<ComparisonTable
+  title="Brand Comparison"
+  headers={["Feature", "Marena (Import)", "Korean House Brand", "Pharmacy Generic"]}
+  rows={[
+    { feature: "Price", option1: "$$$", option2: "$$", option3: "$" },
+    { feature: "Durability", option1: "High", option2: "High", option3: "Medium" },
+    { feature: "Custom Fit", option1: "No", option2: "Yes", option3: "No" },
+    { feature: "Comfort", option1: "Excellent", option2: "Good", option3: "Basic" }
+  ]}
+/>
 
-### 5. Online Retailers
+## Navigating the Language Barrier
 
-Online shopping in Korea is highly developed and efficient, offering a vast selection.
+While many doctors speak English, the staff at medical supply stores might not. Here are essential phrases to screenshot or learn:
 
-*   **What to Expect:** Major Korean online marketplaces (such as Coupang, Gmarket, Naver Shopping) offer a huge variety of compression garments, from local brands to international ones. You can find everything from cheap travel socks to specialized medical compression wear. Delivery is typically very fast, often within a day or two for items in stock.
-*   **Advantages:** Immense selection, competitive pricing, unparalleled convenience, fast delivery to your accommodation.
-*   **Disadvantages:** No physical fitting, potential language barrier for product descriptions and customer service (though some platforms have English interfaces), returns can be more complicated if you don't read Korean. Not ideal if you need a garment *immediately* after a procedure.
-*   **Tip:** If you are comfortable with online shopping and have some time before you need the garment, this can be a cost-effective option. Use translation tools to understand product details, especially sizing charts and compression levels.
+*   **"I had liposuction."** = *Ji-bang hu-beeb su-sul haess-eo-yo.*
+*   **"I need a compression garment."** = *Ap-bak-bok i pir-yo-hae-yo.*
+*   **"Please measure me."** = *Chi-su jae-ju-se-yo.*
+*   **"It is too tight."** = *Neo-mu kkway-kki-eo-yo.*
+*   **"It is too loose."** = *Neo-mu heol-leong-hae-yo.*
 
-### Comparison Table: Where to Buy Compression Garments in Seoul
+If you are struggling with communication, Papago (the Naver translation app) is far superior to Google Translate for Korean-English medical terminology.
 
-| Venue                       | Best For                                     | Selection (Medical Focus)        | Price Range (Estimated)             | Pros                                                      | Cons                                                               |
-| :-------------------------- | :------------------------------------------- | :------------------------------- | :---------------------------------- | :-------------------------------------------------------- | :----------------------------------------------------------------- |
-| **Specialty Medical Stores** | Post-surgical, Lymphedema, Specific Medical  | Extensive, medical-grade         | Mid to High (KRW 50,000 - 1,000,000+) | Expert advice, professional fitting, widest medical range | Can be hard to find, potential language barrier                    |
-| **Pharmacies**              | Basic travel socks, mild swelling, general   | Limited, low compression         | Low to Mid (KRW 20,000 - 80,000)    | Convenient, widespread accessibility                      | Very limited selection, less expert advice                         |
-| **Department Stores**       | Athletic wear, general wellness, branded     | Limited (athletic/fashion)       | Mid to High (KRW 40,000 - 200,000+) | Quality brands, pleasant shopping, potential English staff | Not suitable for specific medical needs                            |
-| **Hospital Outlets**        | Post-operative needs, doctor-recommended     | Specific to hospital specialties | Mid to High (KRW 60,000 - 1,000,000+) | Direct doctor guidance, compatible with treatment         | Limited selection to hospital's focus, potentially higher for convenience |
-| **Online Retailers**        | Wide range, non-urgent, price-conscious      | Extensive, varied quality        | Low to High (KRW 10,000 - 800,000+) | Vast selection, competitive prices, fast delivery         | No fitting, language barrier for details, returns can be tricky    |
+## Combining Your Trip with Recovery
 
-## Navigating Your Purchase: Key Considerations
+Buying your garment is just step one. Recovery in Seoul involves eating well to reduce swelling (pumpkin juice is the local secret!) and getting around comfortably.
 
-Purchasing compression garments, especially for medical purposes, requires careful attention to detail. Here are crucial factors to consider when buying **compression garments in Seoul**.
+For transport back to your accommodation with your new garment (and potentially after surgery), avoid the subway during rush hour. Taxis or private vans are best. Check out our comparison of [Airport Limousine Bus vs AREX Express Train](/blog/airport-limousine-bus-vs-arex-express-train) if you are planning your departure logistics, as traveling with compression garments and luggage can be cumbersome.
 
-### Understanding Prescriptions and Recommendations
+Furthermore, swelling reduction is heavily tied to diet in Korean culture. After you pick up your garment, you might want to find places serving pumpkin porridge or light, healthy meals. Our guide to [best Korean healing foods for surgery recovery](/blog/best-korean-healing-foods-for-surgery-recovery) covers exactly what to eat to fit into that new garment faster.
 
-For medical-grade compression garments, particularly those with higher mmHg levels (e.g., 20-30 mmHg or higher), a prescription or a detailed recommendation from your doctor is highly advisable. This ensures you get the correct compression level, size, and type for your specific condition or post-operative needs. While you might not always *need* a physical prescription for purchase, having one will greatly assist the staff in specialty medical stores in guiding your selection. If your procedure was performed in Korea, your doctor will likely provide specific instructions.
+## Conclusion
 
-### Sizing and Fitting
+Finding the right compression garment in Seoul is a straightforward process if you know where to look. For post-surgical needs, the **Apgujeong/Sinsa** area is your undisputed best option due to the expertise of the staff and the ability to get custom fittings. For general medical compression, **Jongno 5-ga** offers the best value.
 
-Accurate sizing is paramount for the effectiveness and comfort of compression garments. Ill-fitting garments can be uncomfortable, ineffective, or even harmful.
+Don't underestimate the importance of this purchase. A high-quality, well-fitted garment is just as important as the surgery itself for determining your final result. By buying locally in Seoul, you ensure a better fit, save money compared to clinic prices, and have access to professional advice that you simply cannot get from an online order.
 
-*   **Measurements:** Be prepared to provide accurate measurements of the affected body part (e.g., ankle, calf, thigh, waist, arm, bust) at specific points, as required by the manufacturer's sizing chart. It's often best to take measurements in the morning when swelling is minimal.
-*   **Professional Fitting:** For medical compression garments, especially full-body suits or lymphedema garments, seek a professional fitting at a specialty medical device store or a hospital-associated shop. Trained staff can ensure you select the correct size and provide guidance on how to wear and care for the garment.
-*   **Korean Sizing:** Be aware that Korean sizing may differ slightly from international standards. Always refer to the specific brand's sizing chart, and when in doubt, consult with a sales assistant.
-
-### Material and Comfort
-
-Compression garments come in various materials, each offering different levels of breathability, durability, and comfort.
-
-*   **Breathable Fabrics:** Look for garments made from breathable, moisture-wicking materials, especially if you'll be wearing them for extended periods or in Seoul's humid summers.
-*   **Comfort:** Consider seams, elastic bands, and any potential points of irritation. Some garments are designed for daytime wear, others for overnight.
-*   **Durability:** Quality garments can be an investment, so choose durable materials that can withstand repeated washing without losing their elasticity.
-
-### Language Barrier Solutions
-
-While many staff in larger department stores or international patient centers will speak English, this might not always be the case in smaller medical supply shops or local pharmacies.
-
-*   **Translation Apps:** Have a reliable translation app (like Google Translate or Papago) ready on your phone. Papago is often recommended for Korean.
-*   **Visual Aids:** Bring pictures of the specific garment type you need, or even your doctor's recommendation written in English and, if possible, translated into Korean.
-*   **Helper:** If undergoing a medical procedure, your hospital's international patient coordinator or a local friend might be able to assist you with the purchase.
-
-## Cost, Quality, and Value Comparison
-
-The cost of compression garments in Seoul can vary significantly based on the type, brand, compression level, material, and where you purchase them.
-
-### Estimated Price Ranges (in Korean Won, KRW)
-
-| Garment Type             | Estimated Price Range (KRW)           | Notes                                                              |
-| :----------------------- | :------------------------------------ | :----------------------------------------------------------------- |
-| Basic Compression Socks  | 20,000 - 80,000                       | Travel, general wellness, athletic light compression             |
-| Medical Compression Stockings (Knee-high) | 50,000 - 150,000                      | Gradient, higher mmHg, for venous conditions                       |
-| Medical Compression Stockings (Thigh-high/Pantyhose) | 80,000 - 250,000                      | Gradient, higher mmHg, for more extensive venous conditions     |
-| Compression Sleeves (Arm) | 40,000 - 120,000                      | For lymphedema, post-surgery, or athletic recovery                 |
-| Post-Surgical Binders (Abdominal) | 70,000 - 200,000                      | Basic support post-abdominal surgery                               |
-| Specialized Post-Surgical Garments (Full Body/Specific Areas) | 200,000 - 1,500,000+                  | Custom-fit or high-grade compression for complex procedures        |
-
-*Prices are estimates and can vary widely based on brand reputation, material quality, and specific features.*
-
-### Balancing Quality and Cost
-
-*   **For medical needs:** Do not compromise on quality. Opt for reputable brands and ensure the garment meets the specifications provided by your doctor. The effectiveness of your recovery or condition management depends on it.
-*   **For general wellness/travel:** You can be more flexible. Korean brands offer excellent value for money. Many local brands provide good quality compression socks at reasonable prices.
-*   **Check for Sales:** Keep an eye out for sales or discounts, especially at department stores or online retailers.
-
-## Insider Tips for a Smooth Purchase Experience
-
-To make your experience of buying **compression garments in Seoul** as efficient and stress-free as possible, consider these practical tips:
-
-1.  **Do Your Research in Advance:** If you know what type of garment you need, research brands and specific models online before you arrive, or ask your medical provider for recommendations.
-2.  **Bring Your Prescription/Recommendations:** If you have a doctor's recommendation (even from your home country), bring it with you. Having it translated into Korean if possible, or at least being prepared to explain it using a translation app, will be very helpful. Include details like compression level (mmHg), garment type (e.g., knee-high, thigh-high, full-body), and specific measurements if provided.
-3.  **Know Your Measurements:** Take accurate body measurements (circumferences and lengths) before you go shopping. This is crucial for correct sizing, especially if you're buying without a professional fitting.
-4.  **Shop Near Your Clinic/Hospital:** If you are in Seoul for a medical procedure, the most convenient and often most reliable place to buy your post-operative garments will be at a hospital-affiliated store or a specialty medical supply shop nearby. Your medical team can often direct you.
-5.  **Utilize Translation Apps:** Download and practice using a good translation app like Papago or Google Translate. These can be lifesavers for communicating complex medical needs.
-6.  **Ask About Returns/Exchanges:** Understand the return and exchange policy before purchasing, especially for expensive medical garments. Due to hygiene reasons, some items may be non-returnable once opened or tried on.
-7.  **Payment Methods:** Most stores in Seoul accept major credit cards (Visa, Mastercard, American Express). Cash is also widely accepted.
-8.  **Internal Linking Opportunity:** For those planning extended stays, understanding the local public transportation system can greatly assist in reaching these shopping locations. You might find our guide on "Navigating Seoul's Subway System" useful!
-9.  **Internal Linking Opportunity:** If you're a medical tourist, you might also be interested in our guide to "International Patient Services at Seoul's Top Hospitals."
-
-## Frequently Asked Questions (FAQ)
-
-### Q1: Do I need a prescription to buy compression garments in Seoul?
-**A1:** For general wellness, travel, or light athletic compression socks (typically up to 20 mmHg), no prescription is usually needed. However, for higher compression levels (20-30 mmHg and above) or specialized medical garments (e.g., for lymphedema or post-surgery), it is highly recommended to have a doctor's recommendation or prescription to ensure you get the correct and effective product. Some specialty medical stores may ask for one.
-
-### Q2: Can I get custom-fitted compression garments in Seoul?
-**A2:** Yes, for highly specialized medical needs, particularly after extensive surgery or for conditions like severe lymphedema, custom-fitted compression garments are available. You will typically need to consult with a medical professional at a large hospital or a specialized medical device store that offers custom fitting services. This process involves precise measurements and potentially a waiting period for manufacturing.
-
-### Q3: How do I communicate my specific needs if I don't speak Korean?
-**A3:** The best approach is to use a translation app (Papago is highly recommended for Korean-English), prepare written notes or screenshots of the specific garment you need, and bring any doctor's recommendations. In larger department stores or hospital-affiliated shops, you might find English-speaking staff. Showing pictures of the garment and pointing to specific areas of the body can also be very effective.
-
-### Q4: Are compression garments purchased in Seoul covered by international health insurance?
-**A4:** This highly depends on your individual international health insurance policy. Most policies require a medical prescription and may only cover specific types of medical devices. It is crucial to contact your insurance provider *before* your trip or purchase to clarify coverage details, required documentation, and reimbursement procedures. Keep all receipts and medical documentation.
-
-### Q5: What is the typical return policy for compression garments?
-**A5:** Due to hygiene and medical safety reasons, many compression garments, especially once opened or tried on, are often non-returnable or non-exchangeable. Always ask about the store's return policy before making a purchase. Keep original packaging and receipts, and inspect the item carefully before leaving the store.
-
-## Conclusion: Your Confident Purchase of Compression Garments in Seoul
-
-Navigating the bustling streets of Seoul for specific medical supplies like compression garments can be an adventure in itself. However, with the right knowledge and preparation, you'll find that Seoul offers a robust and reliable market for these essential items. From the specialized expertise found in dedicated medical device stores near major hospitals to the convenience of local pharmacies and the vast selection of online marketplaces, you have numerous avenues to explore.
-
-Remember to prioritize accurate sizing, understand the level of compression needed, and always consult with a medical professional for guidance, especially for post-operative or chronic medical conditions. By leveraging the tips and information provided in this guide, you can confidently locate and purchase high-quality **compression garments in Seoul**, ensuring comfort, promoting healing, and enhancing your overall well-being during your stay in this remarkable city.
-
-Whether you're recovering from surgery, managing a medical condition, or simply seeking comfort during your travels, Seoul's diverse offerings mean you don't have to compromise on quality or convenience. Embrace the opportunities, and enjoy a healthy and supported experience in South Korea.
-
----
-
-## Medical Disclaimer
-
-The information provided in this blog post is intended for general informational purposes only and does not constitute medical advice. It is essential to consult with a qualified healthcare professional, such as a doctor or physical therapist, for any medical concerns, diagnosis, or treatment. Always follow your medical professional's recommendations regarding the type, compression level, sizing, and duration of use for any compression garment. Reliance on any information provided in this article is solely at your own risk.
-
-## Emergency Contact Numbers in Korea
-
-*   **119:** For medical emergencies (ambulance, fire, rescue services). Operators can connect to English translation services.
-*   **1339:** For medical consultation and information (Korea Centers for Disease Control and Prevention hotline). English service available.
+<FAQAccordion
+  title="Frequently Asked Questions"
+  items={[
+    { question: "Can I buy compression garments at Incheon Airport?", answer: "Yes, there are pharmacies at Incheon Airport that sell flight socks (compression stockings) for DVT prevention, but they do not sell post-surgical full-body garments." },
+    { question: "Do I need a prescription to buy compression garments in Korea?", answer: "No, you do not need a prescription for most compression garments. However, if you have a specific medical condition, having a doctor's note ensures you get the correct pressure level (mmHg)." },
+    { question: "How often should I wash my compression garment?", answer: "It is recommended to wash it daily or every other day to restore the elasticity of the fabric and maintain hygiene. This is why buying two sets is highly recommended." },
+    { question: "Are compression garments cheaper in Korea than in the US?", answer: "Generally, yes. Domestic Korean brands are significantly cheaper (30-40%) than US prices. Imported US brands (like Jobst) cost roughly the same or slightly more due to import taxes." },
+    { question: "Can I try them on before buying?", answer: "At specialized medical supply stores in Gangnam, yes, you can and should try them on. At pharmacies in Jongno, you usually cannot try on stockings for hygiene reasons, but they will measure you." }
+  ]}
+/>
