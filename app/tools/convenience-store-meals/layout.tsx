@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Convenience Store Meal Builder | Korea Experience' },
@@ -34,5 +36,30 @@ export default function ConvenienceStoreMealsLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Convenience Store Meal Builder',
+    description: 'Build the perfect Korean convenience store meal combo! Pick your budget and meal type to get curated GS25, CU, and 7-Eleven recommendations.',
+    url: `${SITE_CONFIG.url}/tools/convenience-store-meals`,
+    imageUrl: `${SITE_CONFIG.url}/tools/convenience-store-meals/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Convenience Store Meal Builder', item: `${SITE_CONFIG.url}/tools/convenience-store-meals` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

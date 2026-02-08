@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Couple Name Combiner - Cute Nicknames | Korea Experience' },
@@ -49,5 +51,30 @@ export const metadata: Metadata = {
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Korean Couple Name Combiner',
+    description: 'Combine two names to create the perfect couple nickname! Get 5 unique variations in English and Korean. Perfect for couples, best friends, and K-drama fans. 💕',
+    url: `${SITE_CONFIG.url}/tools/couple-name`,
+    imageUrl: `${SITE_CONFIG.url}/tools/couple-name/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Korean Couple Name Combiner', item: `${SITE_CONFIG.url}/tools/couple-name` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

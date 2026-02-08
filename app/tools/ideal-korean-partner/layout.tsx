@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
 import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
@@ -34,5 +35,30 @@ export const metadata: Metadata = {
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Your Ideal Korean Partner Type',
+    description: 'Take our personality quiz to discover your ideal Korean partner type. Find out what kind of Korean partner matches your relationship style.',
+    url: `${SITE_CONFIG.url}/tools/ideal-korean-partner`,
+    imageUrl: `${SITE_CONFIG.url}/tools/ideal-korean-partner/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Your Ideal Korean Partner Type', item: `${SITE_CONFIG.url}/tools/ideal-korean-partner` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

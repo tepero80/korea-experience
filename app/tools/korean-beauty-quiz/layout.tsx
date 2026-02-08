@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Beauty Routine Quiz | K-Beauty Skincare | Korea Experience' },
@@ -49,5 +51,30 @@ export const metadata: Metadata = {
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Korean Beauty Routine Quiz',
+    description: 'Find your perfect K-Beauty skincare routine! Take our 5-question skin type quiz for personalized Korean beauty product recommendations.',
+    url: `${SITE_CONFIG.url}/tools/korean-beauty-quiz`,
+    imageUrl: `${SITE_CONFIG.url}/tools/korean-beauty-quiz/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Korean Beauty Routine Quiz', item: `${SITE_CONFIG.url}/tools/korean-beauty-quiz` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

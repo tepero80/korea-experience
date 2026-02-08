@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Your K-Drama Romance Trope | Love Story Quiz | Korea Experience' },
@@ -49,5 +51,30 @@ export const metadata: Metadata = {
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Your K-Drama Romance Trope',
+    description: 'Which K-Drama romance trope is yours? From chaebol love to enemies-to-lovers, discover your perfect Korean drama love story match.',
+    url: `${SITE_CONFIG.url}/tools/kdrama-romance-trope`,
+    imageUrl: `${SITE_CONFIG.url}/tools/kdrama-romance-trope/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Your K-Drama Romance Trope', item: `${SITE_CONFIG.url}/tools/kdrama-romance-trope` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

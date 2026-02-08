@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'What Job Would You Have in Korea? - Career Quiz | Korea Experience' },
@@ -46,5 +48,30 @@ export default function KoreaJobQuizLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'What Would Your Job Be in Korea?',
+    description: 'What job would you have in Korea? Take our career personality quiz to discover your ideal Korean job with salary info and career paths.',
+    url: `${SITE_CONFIG.url}/tools/korea-job-quiz`,
+    imageUrl: `${SITE_CONFIG.url}/tools/korea-job-quiz/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'What Would Your Job Be in Korea?', item: `${SITE_CONFIG.url}/tools/korea-job-quiz` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

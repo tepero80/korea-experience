@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Business Name Generator | Korea Experience' },
@@ -47,5 +49,30 @@ export default function BusinessNameLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Korean Business Name Generator',
+    description: 'Generate creative Korean business names for your cafe, restaurant, or startup. Get unique Korean-English name combos with brand stories.',
+    url: `${SITE_CONFIG.url}/tools/business-name`,
+    imageUrl: `${SITE_CONFIG.url}/tools/business-name/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Korean Business Name Generator', item: `${SITE_CONFIG.url}/tools/business-name` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

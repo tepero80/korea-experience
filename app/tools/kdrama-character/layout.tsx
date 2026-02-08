@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Which K-Drama Character Are You? | Korea Experience' },
@@ -47,5 +49,30 @@ export default function KDramaCharacterLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Which K-Drama Character Are You?',
+    description: 'Take our fun personality quiz to discover which K-Drama character archetype matches you! From chaebol heirs to prosecutors, find your K-Drama match.',
+    url: `${SITE_CONFIG.url}/tools/kdrama-character`,
+    imageUrl: `${SITE_CONFIG.url}/tools/kdrama-character/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Which K-Drama Character Are You?', item: `${SITE_CONFIG.url}/tools/kdrama-character` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

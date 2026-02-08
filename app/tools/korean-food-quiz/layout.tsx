@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'What Korean Food Matches Your Personality? | Korea Experience' },
@@ -47,5 +49,30 @@ export default function KoreanFoodQuizLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'What Korean Food Matches You?',
+    description: 'Which Korean food matches your personality? Take our fun quiz to find your K-food soulmate — from kimchi to bulgogi and beyond.',
+    url: `${SITE_CONFIG.url}/tools/korean-food-quiz`,
+    imageUrl: `${SITE_CONFIG.url}/tools/korean-food-quiz/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'What Korean Food Matches You?', item: `${SITE_CONFIG.url}/tools/korean-food-quiz` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

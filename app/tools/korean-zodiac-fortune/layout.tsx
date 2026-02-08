@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Zodiac Fortune | Daily Horoscope by 띠 | Korea Experience' },
@@ -49,5 +51,30 @@ export const metadata: Metadata = {
 };
 
 export default function Layout({ children }: { children: React.ReactNode }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Korean Zodiac Fortune Today',
+    description: 'Check your daily Korean zodiac fortune (띠)! Get personalized insights on love, wealth, health, career, plus your lucky color and number.',
+    url: `${SITE_CONFIG.url}/tools/korean-zodiac-fortune`,
+    imageUrl: `${SITE_CONFIG.url}/tools/korean-zodiac-fortune/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Korean Zodiac Fortune Today', item: `${SITE_CONFIG.url}/tools/korean-zodiac-fortune` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

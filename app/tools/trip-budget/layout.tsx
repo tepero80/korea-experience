@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korea Trip Budget Calculator | Korea Experience' },
@@ -48,5 +50,30 @@ export default function TripBudgetLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Korea Trip Budget Calculator',
+    description: 'Plan your Korea trip budget with cost estimates for hotels, food, activities, transport, and shopping. Customize by travel style and duration.',
+    url: `${SITE_CONFIG.url}/tools/trip-budget`,
+    imageUrl: `${SITE_CONFIG.url}/tools/trip-budget/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Korea Trip Budget Calculator', item: `${SITE_CONFIG.url}/tools/trip-budget` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

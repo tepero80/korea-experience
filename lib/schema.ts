@@ -59,6 +59,8 @@ export function generateArticleSchema({
     schema.image = {
       '@type': 'ImageObject',
       url: imageUrl,
+      width: 1200,
+      height: 630,
     };
   }
 
@@ -210,6 +212,54 @@ export function generateHowToSchema({
 
   if (totalTime) schema.totalTime = totalTime;
   if (estimatedCost) schema.estimatedCost = estimatedCost;
+
+  return schema;
+}
+
+// WebApplication Schema (for interactive tools)
+interface WebApplicationSchemaProps {
+  name: string;
+  description: string;
+  url: string;
+  imageUrl?: string;
+}
+
+export function generateWebApplicationSchema({
+  name,
+  description,
+  url,
+  imageUrl,
+}: WebApplicationSchemaProps) {
+  const schema: any = {
+    '@context': 'https://schema.org',
+    '@type': 'WebApplication',
+    name,
+    description,
+    url,
+    applicationCategory: 'UtilityApplication',
+    operatingSystem: 'Any',
+    browserRequirements: 'Requires JavaScript',
+    offers: {
+      '@type': 'Offer',
+      price: '0',
+      priceCurrency: 'USD',
+    },
+    provider: {
+      '@type': 'Organization',
+      name: SITE_CONFIG.name,
+      url: SITE_CONFIG.url,
+    },
+    inLanguage: 'en-US',
+  };
+
+  if (imageUrl) {
+    schema.image = {
+      '@type': 'ImageObject',
+      url: imageUrl,
+      width: 1200,
+      height: 630,
+    };
+  }
 
   return schema;
 }

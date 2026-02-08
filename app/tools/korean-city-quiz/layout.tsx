@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Which Korean City Should You Live In? | Korea Experience' },
@@ -47,5 +49,30 @@ export default function KoreanCityQuizLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Which Korean City Should You Live In?',
+    description: 'Seoul, Busan, or Jeju? Take our lifestyle quiz to discover which Korean city matches your personality, career goals, and budget.',
+    url: `${SITE_CONFIG.url}/tools/korean-city-quiz`,
+    imageUrl: `${SITE_CONFIG.url}/tools/korean-city-quiz/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Which Korean City Should You Live In?', item: `${SITE_CONFIG.url}/tools/korean-city-quiz` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

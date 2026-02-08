@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Love Compatibility - Zodiac & Blood Type | Korea Experience' },
@@ -47,5 +49,30 @@ export default function LoveCompatibilityLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Korean Love Compatibility Calculator',
+    description: 'Check your Korean love compatibility using zodiac signs, blood types, and birth dates. Get relationship advice and your couple nickname.',
+    url: `${SITE_CONFIG.url}/tools/love-compatibility`,
+    imageUrl: `${SITE_CONFIG.url}/tools/love-compatibility/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Korean Love Compatibility Calculator', item: `${SITE_CONFIG.url}/tools/love-compatibility` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

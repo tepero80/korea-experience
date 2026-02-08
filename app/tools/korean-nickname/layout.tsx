@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Nickname Generator | Korea Experience' },
@@ -34,5 +36,30 @@ export default function KoreanNicknameLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Korean Nickname Generator',
+    description: 'Generate cute, cool, or unique Korean nicknames based on your name! Get personalized Korean-style nicknames with Hangul spelling and meanings.',
+    url: `${SITE_CONFIG.url}/tools/korean-nickname`,
+    imageUrl: `${SITE_CONFIG.url}/tools/korean-nickname/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Korean Nickname Generator', item: `${SITE_CONFIG.url}/tools/korean-nickname` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }

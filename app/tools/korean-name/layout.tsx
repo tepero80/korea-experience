@@ -1,4 +1,6 @@
 import { Metadata } from 'next';
+import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
+import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Name Generator | Get Your Korean Name | Korea Experience' },
@@ -46,5 +48,30 @@ export default function KoreanNameLayout({
 }: {
   children: React.ReactNode;
 }) {
-  return children;
+  const toolSchema = generateWebApplicationSchema({
+    name: 'Korean Name Generator',
+    description: 'Get your authentic Korean name based on your English name! Choose male, female, or unisex options with cultural meanings and Hangul spelling.',
+    url: `${SITE_CONFIG.url}/tools/korean-name`,
+    imageUrl: `${SITE_CONFIG.url}/tools/korean-name/opengraph-image`,
+  });
+
+  const breadcrumbSchema = generateBreadcrumbSchema([
+    { name: 'Home', item: SITE_CONFIG.url },
+    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
+    { name: 'Korean Name Generator', item: `${SITE_CONFIG.url}/tools/korean-name` },
+  ]);
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+      />
+      {children}
+    </>
+  );
 }
