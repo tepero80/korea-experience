@@ -2,21 +2,29 @@
 
 interface ComparisonRow {
   feature: string;
-  option1: string | boolean;
-  option2: string | boolean;
+  option1?: string | boolean;
+  option2?: string | boolean;
   option3?: string | boolean;
   option4?: string | boolean;
   option5?: string | boolean;
   option6?: string | boolean;
+  item1?: string | boolean;
+  item2?: string | boolean;
+  item3?: string | boolean;
+  item4?: string | boolean;
+  item5?: string | boolean;
+  item6?: string | boolean;
 }
 
 interface ComparisonTableProps {
   title?: string;
-  headers: string[];
-  rows: ComparisonRow[];
+  headers?: string[];
+  rows?: ComparisonRow[];
+  items?: ComparisonRow[];
 }
 
-export default function ComparisonTable({ title, headers, rows }: ComparisonTableProps) {
+export default function ComparisonTable({ title, headers, rows, items }: ComparisonTableProps) {
+  const data = rows ?? items ?? [];
   const renderCell = (value: string | boolean | undefined) => {
     if (value === undefined) return null;
     if (typeof value === 'boolean') {
@@ -29,19 +37,33 @@ export default function ComparisonTable({ title, headers, rows }: ComparisonTabl
     return <span className="text-sm text-gray-700">{value}</span>;
   };
 
-  // Dynamically get option keys from the first row
+  // Auto-generate headers from first row keys if not provided
+  const resolvedHeaders = headers ?? (() => {
+    if (data.length === 0) return ['Feature'];
+    const first = data[0];
+    const cols = ['Feature'];
+    for (let i = 1; i <= 6; i++) {
+      if (first[`option${i}` as keyof ComparisonRow] !== undefined ||
+          first[`item${i}` as keyof ComparisonRow] !== undefined) {
+        cols.push(`Option ${i}`);
+      }
+    }
+    return cols;
+  })();
+
+  // Dynamically get option cells, supporting both option* and item* keys
   const getOptionCells = (row: ComparisonRow) => {
     const options: (string | boolean | undefined)[] = [
-      row.option1,
-      row.option2,
-      row.option3,
-      row.option4,
-      row.option5,
-      row.option6,
+      row.option1 ?? row.item1,
+      row.option2 ?? row.item2,
+      row.option3 ?? row.item3,
+      row.option4 ?? row.item4,
+      row.option5 ?? row.item5,
+      row.option6 ?? row.item6,
     ];
     
     // Return only the options that correspond to headers (excluding "feature" header)
-    return options.slice(0, headers.length - 1);
+    return options.slice(0, resolvedHeaders.length - 1);
   };
 
   return (
@@ -54,7 +76,7 @@ export default function ComparisonTable({ title, headers, rows }: ComparisonTabl
         <table className="w-full border-collapse bg-white shadow-lg rounded-lg overflow-hidden">
           <thead style={{ background: 'linear-gradient(to right, #1e3a8a, #1e40af)' }}>
             <tr>
-              {headers.map((header, index) => (
+              {resolvedHeaders.map((header, index) => (
                 <th 
                   key={index}
                   className="px-4 py-4 text-center text-sm md:text-lg font-black text-white uppercase tracking-wide"
@@ -66,7 +88,7 @@ export default function ComparisonTable({ title, headers, rows }: ComparisonTabl
             </tr>
           </thead>
           <tbody>
-            {rows.map((row, rowIndex) => (
+            {data.map((row, rowIndex) => (
               <tr 
                 key={rowIndex}
                 className={`${

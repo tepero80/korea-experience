@@ -51,8 +51,38 @@ export default function PriceTable({
 }: PriceTableProps) {
   // Dualism variant - 이원적 가치 비교
   if (variant === 'dualism') {
-    const luxuryItems = items.filter(item => item.tag?.toLowerCase().includes('luxury') || item.tag?.toLowerCase().includes('premium'));
-    const budgetItems = items.filter(item => item.tag?.toLowerCase().includes('budget') || item.tag?.toLowerCase().includes('value'));
+    let luxuryItems = items.filter(item => item.tag?.toLowerCase().includes('luxury') || item.tag?.toLowerCase().includes('premium'));
+    let budgetItems = items.filter(item => item.tag?.toLowerCase().includes('budget') || item.tag?.toLowerCase().includes('value'));
+    
+    // 태그 자동 감지: luxury/budget 매칭 실패 시 고유 태그 기반으로 자동 분류
+    let leftLabel = luxuryLabel;
+    let rightLabel = budgetLabel;
+    
+    if (luxuryItems.length === 0 && budgetItems.length === 0 && items.length > 0) {
+      const uniqueTags = [...new Set(items.map(item => item.tag).filter(Boolean))] as string[];
+      if (uniqueTags.length >= 2) {
+        luxuryItems = items.filter(item => item.tag === uniqueTags[0]);
+        budgetItems = items.filter(item => item.tag === uniqueTags[1]);
+        leftLabel = `${uniqueTags[0]}`;
+        rightLabel = `${uniqueTags[1]}`;
+      } else {
+        // 태그가 1개이거나 없으면 절반으로 분할
+        const mid = Math.ceil(items.length / 2);
+        luxuryItems = items.slice(0, mid);
+        budgetItems = items.slice(mid);
+        leftLabel = luxuryItems[0]?.tag || 'Option A';
+        rightLabel = budgetItems[0]?.tag || 'Option B';
+      }
+    }
+
+    // 컬럼 색상: 기본 amber/green, 자동감지 시 blue/violet
+    const isAutoDetect = leftLabel !== luxuryLabel;
+    const leftColors = isAutoDetect 
+      ? { bg: 'from-blue-50 to-indigo-50', border: 'border-blue-200', header: 'from-blue-500 to-indigo-500', price: 'text-blue-600' }
+      : { bg: 'from-amber-50 to-yellow-50', border: 'border-amber-200', header: 'from-amber-500 to-yellow-500', price: 'text-amber-600' };
+    const rightColors = isAutoDetect
+      ? { bg: 'from-violet-50 to-purple-50', border: 'border-violet-200', header: 'from-violet-500 to-purple-500', price: 'text-violet-600' }
+      : { bg: 'from-green-50 to-emerald-50', border: 'border-green-200', header: 'from-green-500 to-emerald-500', price: 'text-green-600' };
     
     return (
       <div className="my-8">
@@ -62,47 +92,43 @@ export default function PriceTable({
         {description && <p className="text-gray-600 mb-6">{description}</p>}
         
         <div className="grid md:grid-cols-2 gap-6">
-          {/* Luxury Column */}
-          <div className="bg-gradient-to-br from-amber-50 to-yellow-50 rounded-2xl border-2 border-amber-200 overflow-hidden">
-            <div className="bg-gradient-to-r from-amber-500 to-yellow-500 px-5 py-3 text-white font-bold text-lg">
-              {luxuryLabel}
+          {/* Left Column */}
+          <div className={`bg-gradient-to-br ${leftColors.bg} rounded-2xl border-2 ${leftColors.border} overflow-hidden`}>
+            <div className={`bg-gradient-to-r ${leftColors.header} px-5 py-3 text-white font-bold text-lg`}>
+              {leftLabel}
             </div>
             <div className="p-5 space-y-4">
-              {luxuryItems.length > 0 ? luxuryItems.map((item, idx) => (
+              {luxuryItems.map((item, idx) => (
                 <div key={idx} className="bg-white rounded-lg p-4 shadow-sm">
                   <div className="flex justify-between items-start mb-2">
                     <span className="font-semibold text-gray-900">{item.name}</span>
-                    <span className="text-amber-600 font-bold">{item.price}</span>
+                    <span className={`${leftColors.price} font-bold`}>{item.price}</span>
                   </div>
                   {item.description && (
                     <p className="text-sm text-gray-600">{item.description}</p>
                   )}
                 </div>
-              )) : (
-                <p className="text-gray-500 italic">Add items with tag "luxury" or "premium"</p>
-              )}
+              ))}
             </div>
           </div>
 
-          {/* Budget Column */}
-          <div className="bg-gradient-to-br from-green-50 to-emerald-50 rounded-2xl border-2 border-green-200 overflow-hidden">
-            <div className="bg-gradient-to-r from-green-500 to-emerald-500 px-5 py-3 text-white font-bold text-lg">
-              {budgetLabel}
+          {/* Right Column */}
+          <div className={`bg-gradient-to-br ${rightColors.bg} rounded-2xl border-2 ${rightColors.border} overflow-hidden`}>
+            <div className={`bg-gradient-to-r ${rightColors.header} px-5 py-3 text-white font-bold text-lg`}>
+              {rightLabel}
             </div>
             <div className="p-5 space-y-4">
-              {budgetItems.length > 0 ? budgetItems.map((item, idx) => (
+              {budgetItems.map((item, idx) => (
                 <div key={idx} className="bg-white rounded-lg p-4 shadow-sm">
                   <div className="flex justify-between items-start mb-2">
                     <span className="font-semibold text-gray-900">{item.name}</span>
-                    <span className="text-green-600 font-bold">{item.price}</span>
+                    <span className={`${rightColors.price} font-bold`}>{item.price}</span>
                   </div>
                   {item.description && (
                     <p className="text-sm text-gray-600">{item.description}</p>
                   )}
                 </div>
-              )) : (
-                <p className="text-gray-500 italic">Add items with tag "budget" or "value"</p>
-              )}
+              ))}
             </div>
           </div>
         </div>

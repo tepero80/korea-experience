@@ -1,6 +1,7 @@
 'use client';
 
 import { ReactNode } from 'react';
+import { renderInlineMarkdown } from './utils';
 
 /**
  * InfoBox Component
@@ -12,11 +13,13 @@ type InfoType = 'tip' | 'warning' | 'success' | 'info' | 'danger' | 'note' | 'ar
 
 interface InfoBoxProps {
   /** 박스 타입 */
-  type: InfoType;
+  type?: InfoType;
   /** 제목 (선택) */
   title?: string;
   /** 내용 */
-  children: ReactNode;
+  children?: ReactNode;
+  /** 텍스트 내용 (children 대체) */
+  text?: string;
   /** 이모지 오버라이드 */
   icon?: string;
 }
@@ -87,8 +90,10 @@ const typeConfig: Record<InfoType, {
   },
 };
 
-export default function InfoBox({ type, title, children, icon }: InfoBoxProps) {
-  const config = typeConfig[type];
+export default function InfoBox({ type, title, children, text, icon }: InfoBoxProps) {
+  const resolvedType = type ?? (title?.toLowerCase().includes('warning') ? 'warning' : 'info');
+  const config = typeConfig[resolvedType];
+  const content = children ?? text;
   
   return (
     <div 
@@ -112,10 +117,10 @@ export default function InfoBox({ type, title, children, icon }: InfoBoxProps) {
       
       {/* Content */}
       <div className="p-5 text-gray-700 leading-relaxed">
-        {typeof children === 'string' ? (
-          <p className="m-0 text-base">{children}</p>
+        {typeof content === 'string' ? (
+          <div className="m-0 text-base whitespace-pre-line">{renderInlineMarkdown(content)}</div>
         ) : (
-          children
+          content
         )}
       </div>
     </div>

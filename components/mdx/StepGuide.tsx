@@ -1,5 +1,7 @@
 'use client';
 
+import { renderInlineMarkdown } from './utils';
+
 /**
  * StepGuide Component
  * GEO 최적화: HowTo 스키마와 연동되는 단계별 가이드
@@ -10,7 +12,9 @@ interface Step {
   /** 단계 제목 */
   title: string;
   /** 상세 설명 */
-  description: string;
+  description?: string;
+  /** 상세 설명 (alias) */
+  text?: string;
   /** 이미지 URL (선택) */
   image?: string;
   /** 소요 시간 (선택) */
@@ -23,7 +27,7 @@ interface Step {
 
 interface StepGuideProps {
   /** 가이드 제목 */
-  title: string;
+  title?: string;
   /** 단계 배열 */
   steps: Step[];
   /** 총 소요 시간 */
@@ -58,6 +62,7 @@ export default function StepGuide({
       itemType="https://schema.org/HowTo"
     >
       {/* Header */}
+      {title && (
       <div className="mb-6">
         <h3 
           className="text-2xl font-bold text-gray-900 mb-4"
@@ -96,6 +101,7 @@ export default function StepGuide({
           </span>
         </div>
       </div>
+      )}
 
       {/* Steps */}
       <div className="relative">
@@ -148,7 +154,7 @@ export default function StepGuide({
                     className="text-gray-600 leading-relaxed m-0"
                     itemProp="text"
                   >
-                    {step.description}
+                    {renderInlineMarkdown(step.description || step.text || '')}
                   </p>
                   
                   {step.tip && (

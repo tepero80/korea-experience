@@ -1,5 +1,7 @@
 'use client';
 
+import { renderInlineMarkdown } from './utils';
+
 /**
  * KeyTakeaways Component
  * GEO 최적화: AI 엔진이 즉시 인용할 수 있는 40단어 내외의 핵심 요약 박스
@@ -70,7 +72,7 @@ export default function KeyTakeaways({
               <span className="flex-shrink-0 w-7 h-7 bg-gradient-to-br from-blue-500 to-indigo-600 text-white rounded-full flex items-center justify-center text-sm font-bold shadow-md">
                 {index + 1}
               </span>
-              <span className="text-lg pt-0.5">{point}</span>
+              <span className="text-lg pt-0.5">{renderInlineMarkdown(point)}</span>
             </li>
           ))}
         </ul>

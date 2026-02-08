@@ -21,7 +21,9 @@ interface QuickFactsProps {
   /** 제목 */
   title?: string;
   /** 팩트 배열 */
-  facts: Fact[];
+  facts?: Fact[];
+  /** 팩트 배열 (alias) */
+  data?: Fact[];
   /** 열 수 (기본 2) */
   columns?: 2 | 3 | 4;
   /** 강조 스타일 */
@@ -30,10 +32,12 @@ interface QuickFactsProps {
 
 export default function QuickFacts({ 
   title = "Quick Facts", 
-  facts, 
+  facts,
+  data,
   columns = 2,
   variant = 'default'
 }: QuickFactsProps) {
+  const resolvedFacts = facts ?? data ?? [];
   const gridCols = {
     2: 'grid-cols-1 sm:grid-cols-2',
     3: 'grid-cols-1 sm:grid-cols-2 lg:grid-cols-3',
@@ -47,7 +51,7 @@ export default function QuickFacts({
           <span>📋</span> {title}
         </h3>
         <dl className={`grid ${gridCols[columns]} gap-4`}>
-          {facts.map((fact, index) => (
+          {resolvedFacts.map((fact, index) => (
             <div key={index} className="flex items-center gap-3">
               {fact.icon && <span className="text-xl">{fact.icon}</span>}
               <div>
@@ -68,7 +72,7 @@ export default function QuickFacts({
           <span>📊</span> {title}
         </h3>
         <div className={`grid ${gridCols[columns]} gap-4`}>
-          {facts.map((fact, index) => (
+          {resolvedFacts.map((fact, index) => (
             <div 
               key={index}
               className="bg-gradient-to-br from-blue-600 to-indigo-700 rounded-xl p-5 text-white shadow-lg hover:shadow-xl transition-shadow"
@@ -102,7 +106,7 @@ export default function QuickFacts({
       </div>
       
       <div className={`grid ${gridCols[columns]} gap-0 divide-x divide-y divide-gray-100`}>
-        {facts.map((fact, index) => (
+        {resolvedFacts.map((fact, index) => (
           <div 
             key={index}
             className="p-5 hover:bg-gray-50 transition-colors group"

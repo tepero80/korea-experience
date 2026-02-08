@@ -1,5 +1,7 @@
 'use client';
 
+import { renderInlineMarkdown } from './utils';
+
 /**
  * ProsCons Component
  * GEO 최적화: 장단점의 구조화된 표시
@@ -42,7 +44,7 @@ export default function ProsCons({
               {pros.map((pro, idx) => (
                 <li key={idx} className="flex items-start gap-2 text-sm text-gray-700">
                   <span className="text-green-500 mt-0.5">✓</span>
-                  {pro}
+                  {renderInlineMarkdown(pro)}
                 </li>
               ))}
             </ul>
@@ -55,7 +57,7 @@ export default function ProsCons({
               {cons.map((con, idx) => (
                 <li key={idx} className="flex items-start gap-2 text-sm text-gray-700">
                   <span className="text-red-500 mt-0.5">✗</span>
-                  {con}
+                  {renderInlineMarkdown(con)}
                 </li>
               ))}
             </ul>
@@ -82,7 +84,7 @@ export default function ProsCons({
                   <span className="flex-shrink-0 w-6 h-6 bg-green-500 text-white rounded-full flex items-center justify-center text-sm font-bold">
                     ✓
                   </span>
-                  <span className="text-gray-700 leading-relaxed">{pro}</span>
+                  <span className="text-gray-700 leading-relaxed">{renderInlineMarkdown(pro)}</span>
                 </li>
               ))}
             </ul>
@@ -100,7 +102,7 @@ export default function ProsCons({
                   <span className="flex-shrink-0 w-6 h-6 bg-red-500 text-white rounded-full flex items-center justify-center text-sm font-bold">
                     ✗
                   </span>
-                  <span className="text-gray-700 leading-relaxed">{con}</span>
+                  <span className="text-gray-700 leading-relaxed">{renderInlineMarkdown(con)}</span>
                 </li>
               ))}
             </ul>
@@ -134,7 +136,7 @@ export default function ProsCons({
                 <span className="flex-shrink-0 mt-1 w-5 h-5 bg-green-100 text-green-600 rounded-full flex items-center justify-center text-xs font-bold group-hover:bg-green-500 group-hover:text-white transition-colors">
                   ✓
                 </span>
-                <span className="text-gray-700">{pro}</span>
+                <span className="text-gray-700">{renderInlineMarkdown(pro)}</span>
               </li>
             ))}
           </ul>
@@ -154,7 +156,7 @@ export default function ProsCons({
                 <span className="flex-shrink-0 mt-1 w-5 h-5 bg-red-100 text-red-600 rounded-full flex items-center justify-center text-xs font-bold group-hover:bg-red-500 group-hover:text-white transition-colors">
                   ✗
                 </span>
-                <span className="text-gray-700">{con}</span>
+                <span className="text-gray-700">{renderInlineMarkdown(con)}</span>
               </li>
             ))}
           </ul>
