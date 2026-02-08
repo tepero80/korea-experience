@@ -1,5 +1,5 @@
 ---
-title: "Affordable Fine Dining 5 Michelin-Starred Lunch Menus in Seoul for Under $50"
+title: "Affordable Fine Dining 5 Michelin-Starred Lunch Menus in Seoul for..."
 date: 2026-02-04
 excerpt: "Discover the hidden value of Seoul's culinary scene with our guide to 5 Michelin-starred and recognized lunch experiences for under $50 USD."
 category: Food & Dining

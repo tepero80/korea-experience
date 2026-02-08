@@ -1,7 +1,7 @@
 ---
-title: "The 2026 Ultimate Guide to South Korea's Medical Tourism Visa (C-3-3) and Entry Requirements"
+title: "The 2026 Ultimate Guide to South Korea's Medical Tourism Visa..."
 date: 2026-02-05
-excerpt: "The 2026 regulatory framework for South Korea's C-3-3 Medical Tourism Visa mandates a digital-first approach, requiring an electronic invitation and the newly compulsory e-Arrival Card for all international patients. This report details the shift toward high-frequency dermatological care and the critical legislative changes affecting cosmetic VAT refunds and digital identity verification."
+excerpt: "The 2026 regulatory framework for South Korea's C-3-3 Medical Tourism Visa mandates a digital-first approach."
 category: Medical Tourism
 author: Korea Experience Team
 deepDive: true

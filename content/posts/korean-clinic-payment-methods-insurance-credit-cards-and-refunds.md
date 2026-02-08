@@ -1,7 +1,7 @@
 ---
 title: "Korean Clinic Payment Guide: Insurance, Cards, and Refunds 2026"
 date: 2026-01-14
-excerpt: "Comprehensive guide to paying for medical procedures in Korea. Learn about credit card acceptance, 10% VAT tax refunds, insurance coverage, and cancellation policies."
+excerpt: "Comprehensive guide to paying for medical procedures in Korea."
 category: Medical Tourism
 author: Korea Experience Team
 ---

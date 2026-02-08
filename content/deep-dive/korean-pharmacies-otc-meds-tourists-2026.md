@@ -1,7 +1,7 @@
 ---
-title: "Everything You Need to Know About Hitting Up a Korean Pharmacy in 2026: The Ultimate Tourist Survival Guide to OTC Meds"
+title: "Everything You Need to Know About Hitting Up a Korean Pharmacy in 2026"
 date: 2026-02-08
-excerpt: "So, you are in Seoul, your head is pounding from that 14-hour flight, or maybe you went a little too hard on the spicy tteokbokki—don't worry, I have got you. Accessing medicine in Korea is actually super easy and surprisingly cheap, but things work a bit differently here!"
+excerpt: "So, you are in Seoul, your head is pounding from that 14-hour flight, or maybe you went a little too hard on the spicy tteokbokki—don't worry, I have got you."
 category: Living in Korea
 author: Korea Experience Team
 deepDive: true

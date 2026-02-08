@@ -1,5 +1,5 @@
 ---
-title: "Korean clothing sizes conversion chart: The complete shopping guide 2026"
+title: "Korean Clothing Sizes Conversion Chart: A Foreigner's Guide"
 date: 2026-01-14
 excerpt: "Master Korean shopping with our 2026 size conversion charts. From women's '55' sizes to millimeter shoe measurements, get the perfect fit every time."
 category: Shopping & K-Beauty

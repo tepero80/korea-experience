@@ -1,5 +1,5 @@
 ---
-title: "Fertility treatments IVF in Korea success rates and international patient care 2026"
+title: "Fertility treatments IVF in Korea success rates and international..."
 date: 2026-01-08
 excerpt: "South Korea offers world-class IVF with 50-60% success rates for under-35s at 30% of US costs. Here is the complete guide to clinics, costs, and care."
 category: Medical Tourism

@@ -1,8 +1,8 @@
 ---
-title: "The 2026 Survival Guide to Seongsu-dong Pop-ups: How to Beat the Waitlists and Score Merch Without a Korean ID"
+title: "The 2026 Survival Guide to Seongsu-dong Pop-ups"
 
 date: 2026-02-05
-excerpt: "In 2026, Seongsu-dong has become pop-up ground zero—with over 200 pop-ups operating in rotation, from global fashion houses to K-pop merch 'scoop events.' But if you don't have a Korean phone number, you're going to need some creative strategies to actually get past those digital gates."
+excerpt: "In 2026, Seongsu-dong has become pop-up ground zero—with over 200 pop-ups operating in rotation, from global fashion houses to K-pop merch 'scoop events."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true

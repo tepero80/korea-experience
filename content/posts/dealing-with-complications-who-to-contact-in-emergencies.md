@@ -1,5 +1,5 @@
 ---
-title: "Emergency contacts in Korea: Who to call for medical complications 2026"
+title: "Medical Complications in Korea: Emergency Contacts & What to Do"
 date: 2026-01-06
 excerpt: "A complete guide to handling medical emergencies and surgical complications in Korea, including 119 services, translation help, and hospital costs."
 category: Medical Tourism

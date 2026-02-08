@@ -1,5 +1,5 @@
 ---
-title: "Disability friendly medical facilities in Korea and accessible care guide 2026"
+title: "Disability friendly medical facilities in Korea and accessible care"
 date: 2026-01-06
 excerpt: "A complete guide to barrier-free hospitals and medical tourism in Korea for travelers with disabilities, featuring the top 5 accessible facilities."
 category: Medical Tourism

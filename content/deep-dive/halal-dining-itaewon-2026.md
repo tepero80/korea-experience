@@ -1,8 +1,8 @@
 ---
-title: "Halal-Certified Dining in Itaewon 2026: The Complete Guide to Seoul's Muslim Food District"
+title: "Halal-Certified Dining in Itaewon 2026: A Muslim Visitor's Guide"
 
 date: 2026-02-05
-excerpt: "The short answer? Head to Usadan-ro 10-gil near the Seoul Central Mosque for the highest concentration of KMF-certified halal restaurants. In 2026, Itaewon offers everything from authentic Korean bibimbap to Turkish kebabs, all prepared according to strict Islamic dietary laws."
+excerpt: "The short answer? Head to Usadan-ro 10-gil near the Seoul Central Mosque for the highest concentration of KMF-certified halal restaurants."
 category: Food & Dining
 author: Korea Experience Team
 deepDive: true

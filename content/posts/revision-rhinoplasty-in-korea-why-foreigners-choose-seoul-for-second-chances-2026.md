@@ -1,7 +1,7 @@
 ---
-title: "Revision rhinoplasty in Korea why foreigners choose Seoul for second chances 2026"
+title: "Revision rhinoplasty in Korea why foreigners choose Seoul for..."
 date: 2026-01-27
-excerpt: "A complete guide to revision nose surgery in Seoul including 2026 costs, recovery timelines, rib cartilage techniques, and how to find board-certified specialists."
+excerpt: "A complete guide to revision nose surgery in Seoul including 2026 costs, recovery timelines, rib cartilage techniques."
 category: Medical Tourism
 author: Korea Experience Team
 ---

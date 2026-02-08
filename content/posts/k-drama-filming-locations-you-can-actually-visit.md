@@ -1,7 +1,7 @@
 ---
 title: "K-Drama Filming Locations You Can Actually Visit"
 date: 2026-01-13
-excerpt: "Explore iconic K-Drama filming locations across Korea. Discover Seoul's romantic spots, Jeju's scenic beauty, and Gyeonggi's diverse sets. Plan your ultimate K-Drama tour."
+excerpt: "Explore iconic K-Drama filming locations across Korea. Discover Seoul's romantic spots, Jeju's scenic beauty, and Gyeonggi's diverse sets."
 category: K-Culture
 author: Korea Experience Team
 ---

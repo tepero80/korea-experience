@@ -1,5 +1,5 @@
 ---
-title: "Gangnam underground shopping complex guide 2026: Fashion, food, and tips"
+title: "Gangnam underground shopping complex guide 2026"
 date: 2026-01-08
 excerpt: "The ultimate 2026 guide to Gangnam Station Underground Shopping Center. Discover 200+ stores, fashion trends under ₩15,000, and insider navigation tips."
 category: Shopping & K-Beauty

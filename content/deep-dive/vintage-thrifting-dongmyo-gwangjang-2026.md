@@ -1,7 +1,7 @@
 ---
-title: "The Ultimate 2026 Guide to Seoul Thrifting: Scoring ₩1,000 Gems in Dongmyo and Designer Vintage in Gwangjang"
+title: "The Ultimate 2026 Guide to Seoul Thrifting"
 date: 2026-02-05
-excerpt: "Is it really possible to find amazing vintage clothes for practically nothing in Seoul? Can you actually walk away with a Burberry trench coat for $20? The short answer is absolutely yes—and this guide will show you exactly how to navigate these overwhelming (but incredibly rewarding) vintage markets."
+excerpt: "Is it really possible to find amazing vintage clothes for practically nothing in Seoul? Can you actually walk away with a Burberry trench coat for $20?"
 category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true

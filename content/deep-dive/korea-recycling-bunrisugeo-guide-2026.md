@@ -1,7 +1,7 @@
 ---
-title: "How to Recycle in Korea 2026: The Complete Bun-ri-su-geo Guide for Expats and Travelers"
+title: "How to Recycle in Korea 2026: A Foreigner's Bunrisugeo Guide"
 date: 2026-02-05
-excerpt: "The short answer? Korea's recycling system is incredibly strict—you need to separate everything from food waste to clear PET bottles, and if you mess it up, you could face fines up to ₩1,000,000. Here's your complete guide to mastering Bun-ri-su-geo (separation and disposal) like a local."
+excerpt: "The short answer? Korea's recycling system is incredibly strict—you need to separate everything from food waste to clear PET bottles, and if you mess it up."
 
 category: Living in Korea
 author: Korea Experience Team

@@ -1,5 +1,5 @@
 ---
-title: "Dental veneers in Korea: Porcelain vs composite resin costs and durability 2026"
+title: "Dental Veneers in Korea: Porcelain vs. Composite Resin Compared"
 date: 2026-01-06
 excerpt: "Compare porcelain vs composite veneers in Korea for 2026. Discover costs starting at ₩150,000, durability data, and the 1-day procedure in Gangnam."
 category: Medical Tourism

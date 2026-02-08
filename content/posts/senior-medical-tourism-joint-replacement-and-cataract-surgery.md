@@ -1,5 +1,5 @@
 ---
-title: "Senior medical tourism in Korea: Joint replacement and cataract surgery guide 2026"
+title: "Senior Medical Tourism in Korea: Joint Replacement & Cataract Surgery"
 date: 2026-01-28
 excerpt: "A complete guide to senior joint replacement and cataract surgery in Korea. Save 40-60% on robotic procedures with world-class care and recovery facilities."
 category: Medical Tourism

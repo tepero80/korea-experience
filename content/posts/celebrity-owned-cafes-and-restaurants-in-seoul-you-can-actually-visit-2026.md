@@ -1,5 +1,5 @@
 ---
-title: "Celebrity owned cafes and restaurants in Seoul you can actually visit 2026"
+title: "Celebrity owned cafes and restaurants in Seoul you can actually visit"
 date: 2026-01-04
 excerpt: "Discover the top celebrity owned cafes and restaurants in Seoul for 2026. From K-Pop idol cafes to actor owned dining, get verified locations and prices."
 category: K-Culture

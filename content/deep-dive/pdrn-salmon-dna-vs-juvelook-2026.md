@@ -1,7 +1,7 @@
 ---
 title: "PDRN Salmon DNA vs. Juvelook in 2026: The Ultimate Seoul Insider Guide"
 date: 2026-02-05
-excerpt: "Choose Rejuran (PDRN) if your skin is screaming for a 'reset button' because it's sensitive or damaged, but pick Juvelook if you want to stimulate your own collagen for a long-term structural upgrade. In 2026, Seoul clinics are basically mixing them like a high-tech cocktail."
+excerpt: "Choose Rejuran (PDRN) if your skin is screaming for a 'reset button' because it's sensitive or damaged."
 
 category: Medical Tourism
 author: Korea Experience Team

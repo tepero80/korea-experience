@@ -1,5 +1,5 @@
 ---
-title: "Collecting K-Pop photocards the global market and trading etiquette 2026"
+title: "Collecting K-Pop photocards the global market and trading etiquette"
 date: 2026-01-05
 excerpt: "Master the art of K Pop photocard collecting in 2026 with our guide to global markets, trading etiquette, and exclusive Seoul shopping spots."
 category: K-Culture

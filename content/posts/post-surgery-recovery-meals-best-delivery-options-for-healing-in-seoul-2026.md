@@ -1,5 +1,5 @@
 ---
-title: "Post surgery recovery meals best delivery options for healing in Seoul 2026"
+title: "Post surgery recovery meals best delivery options for healing in Seoul"
 date: 2026-01-27
 excerpt: "Discover the best delivery apps and healing foods for post-surgery recovery in Seoul. From pumpkin juice to premium porridge, here is your 2026 guide."
 category: Medical Tourism

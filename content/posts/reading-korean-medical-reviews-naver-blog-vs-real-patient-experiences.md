@@ -1,7 +1,7 @@
 ---
-title: "Reading Korean medical reviews: Naver blog vs real patient experiences 2026"
+title: "Korean Medical Reviews: Naver Blog vs. Real Patient Experiences"
 date: 2026-01-27
-excerpt: "Stop relying on Google Translate. Here is the ultimate 2026 guide to decoding real Korean medical reviews, spotting fake specialized blogs, and using local apps."
+excerpt: "Stop relying on Google Translate. Here is the ultimate 2026 guide to decoding real Korean medical reviews, spotting fake specialized blogs."
 category: Medical Tourism
 author: Korea Experience Team
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Duty free shopping in Korea complete guide 2026"
 date: 2026-01-07
-excerpt: "Maximize your travel budget with this guide to duty free and tax refunds in Korea. Save up to 40% on luxury goods and K-beauty with 2026 limits and online hacks."
+excerpt: "Maximize your travel budget with this guide to duty free and tax refunds in Korea."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 ---

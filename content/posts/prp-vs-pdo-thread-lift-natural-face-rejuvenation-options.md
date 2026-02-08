@@ -1,5 +1,5 @@
 ---
-title: "Prp vs pdo thread lift natural face rejuvenation options: A complete guide 2026"
+title: "Prp vs pdo thread lift natural face rejuvenation options"
 date: 2026-01-27
 excerpt: "Compare PRP and PDO thread lifts in Korea with costs, recovery times, and results. A detailed guide for medical tourists seeking natural rejuvenation."
 category: Medical Tourism

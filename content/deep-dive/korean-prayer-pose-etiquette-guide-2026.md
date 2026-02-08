@@ -1,8 +1,8 @@
 ---
-title: "Why You Should Never Use the 'Prayer Pose' in South Korea: Your 2026 Essential Guide to Not Being 'That' Tourist"
+title: "Why You Should Never Use the 'Prayer Pose' in South Korea"
 
 date: 2026-02-05
-excerpt: "Put your hands down! While it looks polite elsewhere, using the 'prayer pose' in Korea is actually a major cultural blunder that makes you look like you're either begging for your life or think all Asian cultures are exactly the same."
+excerpt: "Put your hands down! While it looks polite elsewhere, using the 'prayer pose' in Korea is actually a major cultural blunder that makes you look like you're..."
 category: K-Culture
 author: Korea Experience Team
 deepDive: true

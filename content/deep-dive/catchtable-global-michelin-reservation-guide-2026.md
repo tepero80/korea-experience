@@ -1,7 +1,7 @@
 ---
-title: "CatchTable Global Guide 2026: The Ultimate Insider's Manual to Snagging Michelin Tables"
+title: "CatchTable Global: Book Michelin Restaurants in Korea (2026)"
 date: 2026-02-05
-excerpt: "The short answer is that you absolutely do not need a Korean phone number or an ARC to book the country's best meals—you just need the specific 'CatchTable Global' app, a foreign credit card, and the inside scoop on the new 2026 no-show regulations."
+excerpt: "The short answer is that you absolutely do not need a Korean phone number or an ARC to book the country's best meals—you just need the specific 'CatchTable..."
 category: Food & Dining
 author: Korea Experience Team
 deepDive: true

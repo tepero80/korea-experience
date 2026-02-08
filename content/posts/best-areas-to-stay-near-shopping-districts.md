@@ -1,7 +1,7 @@
 ---
 title: "Best areas to stay in Seoul near shopping districts 2026"
 date: 2026-01-02
-excerpt: "A strategic guide to choosing the best accommodation in Seoul based on your shopping style, covering Myeongdong, Gangnam, Hongdae, and Seongsu with 2026 pricing."
+excerpt: "A strategic guide to choosing the best accommodation in Seoul based on your shopping style, covering Myeongdong, Gangnam, Hongdae."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 ---

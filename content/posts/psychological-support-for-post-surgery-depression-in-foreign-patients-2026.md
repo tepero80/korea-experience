@@ -1,5 +1,5 @@
 ---
-title: "Psychological support for post-surgery depression in foreign patients 2026"
+title: "Psychological support for post-surgery depression in foreign patients"
 date: 2026-01-27
 excerpt: "Comprehensive guide to mental health resources for medical tourists in Korea. Find English-speaking counselors, recovery centers, and costs in 2026."
 category: Medical Tourism

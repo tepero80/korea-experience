@@ -1,8 +1,8 @@
 ---
-title: "2026 Korea Cherry Blossom Forecast: Complete Guide to Timing, Locations & Peak Bloom"
+title: "2026 Korea Cherry Blossom Forecast: Peak Bloom Dates & Best Spots"
 
 date: 2026-02-05
-excerpt: "The 2026 cherry blossom season is expected to arrive 3-8 days earlier than average across Korea. This comprehensive guide covers exact bloom dates for Seoul, Jinhae, Jeju, and Busan, plus the best viewing spots and how to navigate the massive crowds."
+excerpt: "The 2026 cherry blossom season is expected to arrive 3-8 days earlier than average across Korea."
 category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true

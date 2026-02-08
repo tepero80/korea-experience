@@ -1,5 +1,5 @@
 ---
-title: "Korea plastic surgery cost guide 2026: Complete price list and budgeting tips"
+title: "Korea Plastic Surgery Cost Guide 2026: Procedures & Price Ranges"
 date: 2026-01-21
 excerpt: "Comprehensive 2026 guide to plastic surgery costs in Korea. Compare prices for rhinoplasty, blepharoplasty, and facelifts in Seoul vs. global rates."
 category: Medical Tourism

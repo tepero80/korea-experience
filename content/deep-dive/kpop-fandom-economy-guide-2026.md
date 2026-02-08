@@ -1,8 +1,8 @@
 ---
-title: "The 2026 Ultimate Guide to the K-pop Fandom Economy: How to Score Limited Goods and Survive the Recommerce Revolution"
+title: "The 2026 Ultimate Guide to the K-pop Fandom Economy"
 
 date: 2026-02-05
-excerpt: "Scoring limited K-pop goods in 2026 is a high-stakes game of speed, strategy, and logistics. This guide breaks down how to navigate the 8 trillion won market, bypass Korean-only restrictions, and use the latest recommerce tech to build your dream collection."
+excerpt: "Scoring limited K-pop goods in 2026 is a high-stakes game of speed, strategy, and logistics."
 category: K-Culture
 author: Korea Experience Team
 deepDive: true

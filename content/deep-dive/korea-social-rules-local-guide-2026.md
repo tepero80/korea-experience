@@ -1,7 +1,7 @@
 ---
-title: "The 2026 Expat Guide to South Korea: 10 Essential Social Rules to Look Like a Local"
+title: "Unwritten Social Rules in South Korea: A 2026 Expat Guide"
 date: 2026-02-05
-excerpt: "So, you want to stop standing out like a tourist and start navigating Seoul like you've lived here for a decade? The secret isn't just about where you eat, but how you handle the invisible social gears—like knowing why you should never tip or how to 'read the room' using nunchi."
+excerpt: "So, you want to stop standing out like a tourist and start navigating Seoul like you've lived here for a decade?"
 category: K-Culture
 author: Korea Experience Team
 deepDive: true

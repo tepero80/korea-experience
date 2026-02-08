@@ -1,7 +1,7 @@
 ---
 title: "Mental health and plastic surgery in Korea: Managing expectations 2026"
 date: 2026-01-24
-excerpt: "Managing expectations for plastic surgery in Korea reduces post-op depression by 40%. Learn how to handle cultural differences, recovery isolation, and mental readiness."
+excerpt: "Managing expectations for plastic surgery in Korea reduces post-op depression by 40%."
 category: Medical Tourism
 author: Korea Experience Team
 ---

@@ -1,7 +1,7 @@
 ---
-title: "The 2026 K-Beauty Tax Guide: Navigating the End of Medical VAT Refunds in South Korea"
+title: "VAT Tax Refund on Plastic Surgery in Korea: 2026 Guide"
 date: 2026-02-08
-excerpt: "So, here is the big news: as of January 1, 2026, the official government VAT refund for plastic surgery is officially a thing of the past, but don't panic yet because there are still some clever ways to save your 10% through private cashback and retail hacks."
+excerpt: "So, here is the big news: as of January 1, 2026, the official government VAT refund for plastic surgery is officially a thing of the past."
 category: Medical Tourism
 author: Korea Experience Team
 deepDive: true

@@ -1,8 +1,8 @@
 ---
-title: "The 2026 Complete Guide to Renting a Car in Jeju Without an Alien Registration Card: Rules, Hacks, and Hidden Costs"
+title: "The 2026 Complete Guide to Renting a Car in Jeju Without an Alien..."
 
 date: 2026-02-05
-excerpt: "In 2026, you can absolutely rent a car in Jeju without an ARC—but only if you have an International Driving Permit (IDP) and navigate the new 'e-Arrival Card' digital ID system that replaced the old paper forms."
+excerpt: "In 2026, you can absolutely rent a car in Jeju without an ARC—but only if you have an International Driving Permit (IDP) and navigate the new 'e-Arrival..."
 category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true

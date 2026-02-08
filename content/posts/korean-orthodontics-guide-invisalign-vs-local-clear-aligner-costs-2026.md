@@ -1,5 +1,5 @@
 ---
-title: "Korean orthodontics guide: Invisalign vs local clear aligner costs 2026"
+title: "Korean Orthodontics 2026: Invisalign vs. Local Clear Aligner Costs"
 date: 2026-01-18
 excerpt: "Compare 2026 prices for clear aligners in Seoul. Save up to 50% with local brands (₩1.5M+) vs Invisalign (₩3.5M+) while enjoying world-class dental care."
 category: Medical Tourism

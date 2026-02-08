@@ -1,5 +1,5 @@
 ---
-title: "Korea Pharmacy Essentials: Best Pain Relief and Wound Care Products 2026"
+title: "Korea Pharmacy Essentials: Pain Relief & Wound Care for Tourists"
 date: 2026-01-26
 excerpt: "The complete guide to buying pain relief and wound care in Korea. Prices, brands, and how to find 'Yakguk' pharmacies for travelers in 2026."
 category: Medical Tourism

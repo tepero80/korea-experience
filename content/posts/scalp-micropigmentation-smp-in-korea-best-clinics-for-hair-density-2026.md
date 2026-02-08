@@ -1,7 +1,7 @@
 ---
-title: "Scalp Micropigmentation SMP in Korea: Best Clinics for Hair Density 2026"
+title: "Scalp Micropigmentation (SMP) in Korea 2026: Best Clinics & Costs"
 date: 2026-01-28
-excerpt: "The ultimate guide to SMP in Seoul for 2026. Discover costs, top clinics in Gangnam, and why Korea's dotting technique offers the most natural hair density results."
+excerpt: "The ultimate guide to SMP in Seoul for 2026. Discover costs, top clinics in Gangnam."
 category: Medical Tourism
 author: Korea Experience Team
 ---

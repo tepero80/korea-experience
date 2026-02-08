@@ -1,7 +1,7 @@
 ---
 title: "Michelin Guide Seoul 2026: How to Eat Like a King for Under $50"
 date: 2026-02-05
-excerpt: "So you want to eat at a Michelin-rated spot in Seoul without blowing your entire travel budget? In 2026, the short answer is that the Bib Gourmand list is your best friend—you can score a legendary meal for under ₩45,000 ($33) and still have cash left for a fancy latte."
+excerpt: "So you want to eat at a Michelin-rated spot in Seoul without blowing your entire travel budget?"
 
 category: Food & Dining
 author: Korea Experience Team

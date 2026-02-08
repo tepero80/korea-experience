@@ -1,8 +1,8 @@
 ---
-title: "SMILE Pro vs. LASIK in Seoul 2026: The Ultimate Guide to Vision Correction Without Wasting Your Money on Outdated Tech"
+title: "SMILE Pro vs. LASIK in Seoul 2026: Cost, Recovery & Results"
 
 date: 2026-02-05
-excerpt: "SMILE Pro is the new gold standard for vision correction in Seoul, offering faster recovery and fewer side effects than traditional LASIK, but it costs about ₩500,000 more per eye. This guide breaks down when that premium is worth it—and when it's just marketing hype."
+excerpt: "SMILE Pro is the new gold standard for vision correction in Seoul, offering faster recovery and fewer side effects than traditional LASIK."
 category: Medical Tourism
 author: Korea Experience Team
 deepDive: true

@@ -1,5 +1,5 @@
 ---
-title: "Korean liposuction and body contouring guide 2026: Costs, clinics, and recovery"
+title: "Korean liposuction and body contouring guide 2026"
 date: 2026-01-17
 excerpt: "A comprehensive guide to body contouring in Korea. Compare LAMS vs. traditional liposuction, analyze 2026 pricing, and find top-rated Gangnam clinics."
 category: Medical Tourism

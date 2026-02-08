@@ -1,7 +1,7 @@
 ---
 title: "Korean Webtoon to K-Drama Timeline: The Evolution"
 date: 2026-01-21
-excerpt: "Explore the fascinating journey of Korean webtoons transforming into global K-drama sensations. Discover the timeline, key adaptations, and the impact of this unique cultural phenomenon."
+excerpt: "Explore the fascinating journey of Korean webtoons transforming into global K-drama sensations."
 category: K-Culture
 author: Korea Experience Team
 ---

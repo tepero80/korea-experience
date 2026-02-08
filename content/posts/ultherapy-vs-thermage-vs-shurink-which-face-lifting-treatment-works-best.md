@@ -1,5 +1,5 @@
 ---
-title: "Ultherapy vs Thermage vs Shurink which face lifting treatment works best"
+title: "Ultherapy vs Thermage vs Shurink which face lifting treatment works..."
 date: 2026-02-02
 excerpt: "Compare Ultherapy, Thermage, and Shurink costs and results. Discover why Seoul offers treatments at 30-50% less than global rates with our 2026 guide."
 category: Medical Tourism

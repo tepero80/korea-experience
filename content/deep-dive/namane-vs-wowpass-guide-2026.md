@@ -1,8 +1,8 @@
 ---
-title: "Namane vs. Wowpass 2026: The Ultimate Guide to Your Secret 'Korean Bank Account'"
+title: "Namane vs. Wowpass 2026: Which Korea Travel Card Is Better?"
 
 date: 2026-02-05
-excerpt: "The short answer is: pick WOWPASS if you want to turn your home cash into Korean Won in 10 seconds at the airport, but choose Namane if you want to recharge via your phone while lying in bed. With the 2026 KORAIL integration and Climate Card expansion, the choice has never been more competitive."
+excerpt: "The short answer is: pick WOWPASS if you want to turn your home cash into Korean Won in 10 seconds at the airport."
 category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true

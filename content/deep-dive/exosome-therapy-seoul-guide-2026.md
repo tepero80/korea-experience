@@ -1,8 +1,8 @@
 ---
-title: "The 2026 Seoul Exosome Revolution: Why Korea is Officially the World Capital of Regenerative Beauty"
+title: "Exosome Therapy in Seoul 2026: Clinics, Costs & What to Know"
 
 date: 2026-02-05
-excerpt: "Seoul has basically hacked the biological clock by combining high-speed 'K-Biotech' with the world's most aggressive regulatory fast-track, making exosome therapy 60% cheaper and twice as advanced as anything you'll find in the West in 2026."
+excerpt: "Seoul has basically hacked the biological clock by combining high-speed 'K-Biotech' with the world's most aggressive regulatory fast-track."
 category: Medical Tourism
 author: Korea Experience Team
 deepDive: true

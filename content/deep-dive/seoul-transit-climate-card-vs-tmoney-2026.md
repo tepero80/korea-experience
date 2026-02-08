@@ -1,8 +1,8 @@
 ---
-title: "Seoul Transit Showdown 2026: Climate Card vs. T-money – The Ultimate Insider Guide"
+title: "Climate Card vs. T-Money 2026: Best Seoul Transit Card Compared"
 
 date: 2026-02-05
-excerpt: "If you're planning to hit more than three spots a day in Seoul, the Climate Card is your absolute best friend, but don't ditch that T-money card just yet—you'll still need it for the airport run and those spontaneous trips to Busan or the DMZ!"
+excerpt: "If you're planning to hit more than three spots a day in Seoul, the Climate Card is your absolute best friend."
 category: Living in Korea
 author: Korea Experience Team
 deepDive: true

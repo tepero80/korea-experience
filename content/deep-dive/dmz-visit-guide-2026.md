@@ -1,8 +1,8 @@
 ---
-title: "Borderline Reality: Your Ultimate No-Nonsense Guide to Visiting the DMZ in 2026"
+title: "DMZ Visit Guide 2026: Tours, Tips & What to Expect"
 
 date: 2026-02-05
-excerpt: "Planning a trip to the edge of North Korea this year? Here is everything you need to know about the current JSA closure, the brand-new 2026 transit rules, and why your coffee run now involves a military checkpoint."
+excerpt: "Planning a trip to the edge of North Korea this year? Here is everything you need to know about the current JSA closure, the brand-new 2026 transit rules."
 category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true

@@ -1,8 +1,8 @@
 ---
-title: "Personal Color Analysis in Hongdae 2026: Complete Guide to the Top 3 Studios"
+title: "Personal Color Analysis in Hongdae 2026: Where to Get Tested"
 
 date: 2026-02-05
-excerpt: "The Hongdae district in Seoul has emerged as the definitive global hub for personal color analysis, with studios like Color Of You, Color Society, and Vivid Hue offering everything from 21-type precision draping to custom perfume creation. Here's your complete insider guide to getting the best K-beauty diagnosis in 2026."
+excerpt: "The Hongdae district in Seoul has emerged as the definitive global hub for personal color analysis, with studios like Color Of You, Color Society."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true

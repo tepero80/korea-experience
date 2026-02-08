@@ -1,7 +1,7 @@
 ---
 title: "The ultimate guide to Korean spatula makeup application 2026"
 date: 2026-02-01
-excerpt: "Master the art of Korean spatula makeup application for a flawless, long-lasting K-Beauty base. Learn expert techniques, select the best tools, and achieve your perfect skin."
+excerpt: "Master the art of Korean spatula makeup application for a flawless, long-lasting K-Beauty base."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 ---

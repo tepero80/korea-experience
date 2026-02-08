@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate 2026 Guide to Finding a Licensed Medical Coordinator in Korea: How to Skip the Scams and Get the Treatment You Deserve"
+title: "The Ultimate 2026 Guide to Finding a Licensed Medical Coordinator..."
 
 date: 2026-02-05
-excerpt: "Finding a licensed medical coordinator is all about verifying their registration with the Ministry of Health and Welfare and ensuring they hold a national IMC license. In 2026, with over a million medical tourists hitting Seoul, sticking to government-approved pros is the only way to stay safe and legally protected."
+excerpt: "Finding a licensed medical coordinator is all about verifying their registration with the Ministry of Health and Welfare and ensuring they hold a national..."
 category: Medical Tourism
 author: Korea Experience Team
 deepDive: true

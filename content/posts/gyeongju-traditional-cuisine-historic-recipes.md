@@ -1,7 +1,7 @@
 ---
 title: "Gyeongju Traditional Cuisine Historic Recipes and Dining Guide"
 date: 2026-01-09
-excerpt: "Explore Gyeongju traditional cuisine historic recipes. Discover royal Silla Dynasty dishes, famous ssambap alleys, and local specialties in Korea ancient capital."
+excerpt: "Explore Gyeongju traditional cuisine historic recipes. Discover royal Silla Dynasty dishes, famous ssambap alleys."
 category: Food & Dining
 author: Korea Experience Team
 ---

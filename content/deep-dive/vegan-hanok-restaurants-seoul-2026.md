@@ -1,8 +1,8 @@
 ---
-title: "7 Best Vegan-Friendly Hanok Restaurants in Seoul: The 2026 Guide to Plant-Based Time Travel"
+title: "7 Best Vegan-Friendly Hanok Restaurants in Seoul"
 
 date: 2026-02-05
-excerpt: "Seoul has perfectly blended its 600-year-old temple food traditions with a trendy 'Newtro' Hanok revival, making spots like Balwoo Gongyang and Vegan Insa the absolute gold standard for vegan dining in 2026. If you want 'Glass Skin' from the inside out while sitting in a beautiful wooden palace, these are the only places you need to know."
+excerpt: "Seoul has perfectly blended its 600-year-old temple food traditions with a trendy 'Newtro' Hanok revival."
 category: Food & Dining
 author: Korea Experience Team
 deepDive: true

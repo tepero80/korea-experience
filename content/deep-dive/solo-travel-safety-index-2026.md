@@ -1,7 +1,7 @@
 ---
-title: "The 2026 Solo Travel Safety Index: Why South Korea is Still Your Best Bet (and the Few Scams to Watch Out For)"
+title: "Is Korea Safe for Solo Travelers? 2026 Safety Index"
 date: 2026-02-08
-excerpt: "The short answer is that South Korea remains one of the safest places on the planet for solo travelers in 2026, boasting a safety index that beats out almost every Western capital—but you still need to be digital-savvy to avoid the local hurdles like the dreaded Korean phone number requirement."
+excerpt: "The short answer is that South Korea remains one of the safest places on the planet for solo travelers in 2026."
 category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true

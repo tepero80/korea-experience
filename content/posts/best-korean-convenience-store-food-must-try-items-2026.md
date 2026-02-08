@@ -1,7 +1,7 @@
 ---
 title: "Best Korean Convenience Store Food Must Try Items 2026"
 date: 2026-01-02
-excerpt: "Discover the ultimate guide to Korean convenience store food in 2026. From viral Yonsei cream bread to Hangang ramyeon, explore top eats at CU, GS25, and 7-Eleven."
+excerpt: "Discover the ultimate guide to Korean convenience store food in 2026."
 category: Food & Dining
 author: Korea Experience Team
 ---

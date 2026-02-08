@@ -1,7 +1,7 @@
 ---
 title: "K-Fandom Economy: Limited Goods Without Membership"
 date: 2026-02-04
-excerpt: "Unlock access to rare K-pop, K-drama, and K-beauty limited-edition merchandise in Korea without needing a fan club membership. Discover top spots and strategies for collectors."
+excerpt: "Unlock access to rare K-pop, K-drama, and K-beauty limited-edition merchandise in Korea without needing a fan club membership."
 category: K-Culture
 author: Korea Experience Team
 featured: true

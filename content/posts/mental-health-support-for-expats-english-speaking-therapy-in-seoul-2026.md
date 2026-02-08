@@ -1,5 +1,5 @@
 ---
-title: "Mental health support for expats English speaking therapy in Seoul 2026"
+title: "Mental health support for expats English speaking therapy in Seoul"
 date: 2026-01-24
 excerpt: "A complete guide to finding English-speaking therapy in Seoul. Covers costs, insurance, top clinics, and mental health resources for expats in 2026."
 category: Living in Korea

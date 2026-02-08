@@ -1,7 +1,7 @@
 ---
-title: "Incheon International Airport 2026: The Ultimate Survival Guide to the 100-Million-Passenger Mega-Hub"
+title: "Incheon Airport Survival Guide 2026: Tips for First-Time Arrivals"
 date: 2026-02-05
-excerpt: "So, you're landing at Incheon Airport in 2026 and everything looks different—Asiana has moved, your face is now your boarding pass, and there are three different transit cards staring at you. Don't sweat it; I've got you covered with every hack from skipping security lines to ordering fried chicken without a Korean phone number."
+excerpt: "So, you're landing at Incheon Airport in 2026 and everything looks different—Asiana has moved, your face is now your boarding pass."
 
 category: Travel & Tourism
 author: Korea Experience Team

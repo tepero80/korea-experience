@@ -1,5 +1,5 @@
 ---
-title: "Bonsai and Zen gardens finding peace in Korea traditional greenery 2026"
+title: "Bonsai and Zen gardens finding peace in Korea traditional greenery"
 date: 2026-01-03
 excerpt: "Discover the tranquility of Korean Bunjae and traditional gardens. A complete 2026 guide to finding peace in Korea's lush landscapes and hidden green gems."
 category: K-Culture

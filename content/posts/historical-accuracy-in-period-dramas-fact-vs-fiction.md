@@ -1,7 +1,7 @@
 ---
 title: "Historical Accuracy in K-Dramas: Fact vs Fiction"
 date: 2026-01-10
-excerpt: "Explore the fascinating balance between historical facts and creative storytelling in Korean period dramas. Learn how to distinguish authenticity from artistic license, enhancing your viewing."
+excerpt: "Explore the fascinating balance between historical facts and creative storytelling in Korean period dramas."
 category: K-Culture
 author: Korea Experience Team
 ---

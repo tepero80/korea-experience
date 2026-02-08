@@ -1,7 +1,7 @@
 ---
-title: "The 2026 Master Guide to Korean Table Manners: Navigating the Chopstick Taboos and Digital Dining Landscape"
+title: "The 2026 Master Guide to Korean Table Manners"
 date: 2026-02-08
-excerpt: "Sticking your chopsticks vertically into your rice is the ultimate no-no in Korea because it looks exactly like a funeral ritual—honestly, it is like inviting a ghost to lunch! This guide breaks down every taboo you need to know, plus how to handle the new 2026 digital reservation rules without a local ID."
+excerpt: "Sticking your chopsticks vertically into your rice is the ultimate no-no in Korea because it looks exactly like a funeral ritual—honestly."
 category: K-Culture
 author: Korea Experience Team
 deepDive: true

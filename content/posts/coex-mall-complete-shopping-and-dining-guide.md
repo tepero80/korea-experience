@@ -1,7 +1,7 @@
 ---
 title: "Coex Mall complete shopping and dining guide 2026"
 date: 2026-01-05
-excerpt: "The ultimate guide to navigating Starfield Coex Mall. Includes floor plans, best K-fashion spots, dining recommendations, and the famous library. 165,000sqm of indoor space."
+excerpt: "The ultimate guide to navigating Starfield Coex Mall. Includes floor plans, best K-fashion spots, dining recommendations, and the famous library."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Non invasive skin tightening Ultherapy vs Shurink vs Thermage prices 2026"
+title: "Non invasive skin tightening Ultherapy vs Shurink vs Thermage prices"
 date: 2026-01-25
 excerpt: "Compare 2026 costs for Ultherapy ($800+), Shurink ($100+), and Thermage in Seoul. Expert guide to pain levels, results, and choosing the right clinic."
 category: Medical Tourism

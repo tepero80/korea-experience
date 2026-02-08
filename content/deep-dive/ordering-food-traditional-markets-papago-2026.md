@@ -1,7 +1,7 @@
 ---
-title: "2026 Guide to Ordering Like a Local: Mastering Korean Traditional Markets with Papago and AI"
+title: "Ordering Food at Korean Traditional Markets Using Papago (2026)"
 date: 2026-02-08
-excerpt: "So, you want to dive into the sizzling world of Gwangjang or Namdaemun without the lost in translation panic? In 2026, Papago isn't just a basic translator anymore—it is a high-tech AI food scout that handles everything from messy handwritten menus to noisy market banter."
+excerpt: "So, you want to dive into the sizzling world of Gwangjang or Namdaemun without the lost in translation panic?"
 category: Food & Dining
 author: Korea Experience Team
 deepDive: true

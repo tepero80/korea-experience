@@ -1,8 +1,8 @@
 ---
-title: "South Korea Tax Refund Guide 2026: The Ultimate 'Instant vs. Airport' Strategy to Save Your Won"
+title: "South Korea Tourist Tax Refund 2026: Instant vs. Airport"
 
 date: 2026-02-05
-excerpt: "Here is the deal: if your receipt is under ₩1,000,000, always ask for an immediate tax refund at the register to save time. For the big-ticket luxury hauls, you will need to head to the airport kiosks, but don't worry—I've got the 2026 blueprint to make it painless."
+excerpt: "Here is the deal: if your receipt is under ₩1,000,000, always ask for an immediate tax refund at the register to save time."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true

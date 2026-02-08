@@ -1,8 +1,8 @@
 ---
-title: "The Kiosk Survival Framework: Why Your Foreign Card Gets Rejected in Korea (And How to Fix It in 2026)"
+title: "Foreign Card Rejected at Korean Kiosks? Here's How to Fix It"
 
 date: 2026-02-05
-excerpt: "The short answer? Korean kiosks reject foreign cards because of 3D Secure authentication failures, IC chip mismatches, and midnight maintenance windows. In 2026, the solution is a three-tier strategy: get a WOWPASS for domestic transactions, use Wise/Revolut for ATMs, and know the functional Korean phrases to request manual processing when tech fails you."
+excerpt: "The short answer? Korean kiosks reject foreign cards because of 3D Secure authentication failures, IC chip mismatches, and midnight maintenance windows."
 category: Living in Korea
 author: Korea Experience Team
 deepDive: true

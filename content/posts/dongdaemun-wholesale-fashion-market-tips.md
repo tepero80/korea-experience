@@ -1,7 +1,7 @@
 ---
 title: "Dongdaemun wholesale fashion market tips and shopping guide 2026"
 date: 2026-01-06
-excerpt: "Master the art of shopping at Seoul's massive night market. Learn the rules of MOQ, best buildings for quality, and how to navigate the 2026 wholesale ecosystem."
+excerpt: "Master the art of shopping at Seoul's massive night market. Learn the rules of MOQ, best buildings for quality."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 ---

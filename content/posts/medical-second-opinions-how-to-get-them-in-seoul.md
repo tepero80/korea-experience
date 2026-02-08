@@ -1,5 +1,5 @@
 ---
-title: "Medical second opinions how to get them in Seoul for international patients"
+title: "Medical second opinions how to get them in Seoul for international..."
 date: 2026-01-24
 excerpt: "A complete guide to securing medical second opinions in Seoul's top hospitals. Costs, required documents, and booking steps for 2026 travelers."
 category: Medical Tourism

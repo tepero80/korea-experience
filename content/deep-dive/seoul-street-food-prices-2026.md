@@ -1,7 +1,7 @@
 ---
-title: "The 2026 Seoul Street Food Showdown: Is Myeongdong a Tourist Trap or is Gwangjang Secretly Spiking Prices too?"
+title: "Seoul Street Food Prices 2026: What Everything Costs"
 date: 2026-02-05
-excerpt: "The short answer? Gwangjang remains the king of value for traditional eats, but Myeongdong's 'luxury' snacks are undergoing a major 2026 price-tag revolution to curb tourist gouging."
+excerpt: "The short answer? Gwangjang remains the king of value for traditional eats."
 category: Food & Dining
 author: Korea Experience Team
 deepDive: true

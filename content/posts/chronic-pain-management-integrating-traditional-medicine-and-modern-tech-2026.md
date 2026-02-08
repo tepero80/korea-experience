@@ -1,5 +1,5 @@
 ---
-title: "Chronic pain management integrating traditional medicine and modern tech 2026"
+title: "Chronic pain management integrating traditional medicine and modern..."
 date: 2026-01-05
 excerpt: "Discover how Korea's 2026 hybrid medical protocols combine AI diagnostics with ancient Hanbang treatments to solve chronic pain, saving patients over 60%."
 category: Medical Tourism

@@ -1,5 +1,5 @@
 ---
-title: "Medical Procedures Under Local Vs General Anesthesia in Korea: A Patient's Guide 2026"
+title: "Medical Procedures Under Local Vs General Anesthesia in Korea"
 date: 2026-01-24
 excerpt: "A comprehensive guide to anesthesia types in Korean medical tourism, costs, safety protocols, and what to expect during surgery. Average read time 15 mins."
 category: Medical Tourism

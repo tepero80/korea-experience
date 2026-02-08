@@ -1,7 +1,7 @@
 ---
-title: "The Ultimate 2026 Guide to Hailing a Korean Taxi: How to Get Around Without a Local Number or an ARC"
+title: "The Ultimate 2026 Guide to Hailing a Korean Taxi"
 date: 2026-02-05
-excerpt: "The short answer is yes, you can absolutely call a taxi without a local number by using apps like K.Ride or Uber (UT). In this guide, I'll show you the exact workarounds for the 'no local phone number' headache and how to pay like a local in 2026."
+excerpt: "The short answer is yes, you can absolutely call a taxi without a local number by using apps like K.Ride or Uber (UT)."
 category: Living in Korea
 author: Korea Experience Team
 deepDive: true

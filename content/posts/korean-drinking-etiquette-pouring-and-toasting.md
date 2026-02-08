@@ -1,7 +1,7 @@
 ---
 title: "Korean drinking etiquette pouring and toasting guide 2026"
 date: 2026-01-15
-excerpt: "Master Korean drinking etiquette pouring and toasting rules. Learn the essential customs, from the two-hand pour to the senior turn, for a respectful experience."
+excerpt: "Master Korean drinking etiquette pouring and toasting rules. Learn the essential customs, from the two-hand pour to the senior turn."
 category: Food & Dining
 author: Korea Experience Team
 ---

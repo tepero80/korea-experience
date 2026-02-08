@@ -1,5 +1,5 @@
 ---
-title: "Gangnam vs Apgujeong vs Cheongdam which district is best for your procedure"
+title: "Gangnam vs Apgujeong vs Cheongdam which district is best for your..."
 date: 2026-01-08
 excerpt: "Compare Seoul's top medical districts: Gangnam for value, Apgujeong for expertise, and Cheongdam for luxury. Find the right fit for your 2026 surgery."
 category: Medical Tourism

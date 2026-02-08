@@ -1,5 +1,5 @@
 ---
-title: "The Truth About Shadow Doctors: How to Ensure Your Surgeon Is Real 2026"
+title: "Shadow Doctors in Korea: How to Ensure Your Surgeon Is Real (2026)"
 date: 2026-02-01
 excerpt: "Worried about ghost surgery in Korea? Here is the complete 2026 guide to verifying your surgeon, utilizing CCTV laws, and avoiding factory clinics safely."
 category: Medical Tourism

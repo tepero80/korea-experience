@@ -1,7 +1,7 @@
 ---
-title: "The Blue Dot Blues: Why Google Maps Doesn't Work in Korea (2026 Edition)"
+title: "Why Google Maps Doesn't Work in Korea (And What to Use)"
 date: 2026-02-04
-excerpt: "Google Maps is restricted in Korea due to national security laws that prevent high-precision map data from being exported to global servers. For turn-by-turn navigation, travelers must use local apps like Naver Map or KakaoMap."
+excerpt: "Google Maps is restricted in Korea due to national security laws that prevent high-precision map data from being exported to global servers."
 category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true

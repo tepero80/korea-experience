@@ -1,5 +1,5 @@
 ---
-title: "Medical tourism for plus size patients in Korea: Top clinics and safety guide 2026"
+title: "Medical tourism for plus size patients in Korea"
 date: 2026-01-24
 excerpt: "A complete guide to high-BMI surgery in Korea. Discover specialized clinics, safety protocols for BMI 30+, and realistic cost estimates for 2026."
 category: Medical Tourism

@@ -1,5 +1,5 @@
 ---
-title: "Customized skincare: Getting a professional skin analysis in Seoul 2026"
+title: "Professional Skin Analysis in Seoul 2026: Customized Skincare Guide"
 date: 2026-01-05
 excerpt: "Discover how AI-powered skin analysis in Seoul creates your perfect routine. We review top clinics, costs (₩50,000+), and booking tips for 2026."
 category: Shopping & K-Beauty

@@ -1,7 +1,7 @@
 ---
 title: "Korean wine culture domestic and imported a complete guide"
 date: 2026-01-21
-excerpt: "Explore the booming Korean wine culture domestic and imported. From Seoul natural wine bars to Yeongdong vineyards, discover prices, corkage rules, and hidden gems."
+excerpt: "Explore the booming Korean wine culture domestic and imported."
 category: Food & Dining
 author: Korea Experience Team
 ---

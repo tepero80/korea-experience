@@ -1,5 +1,5 @@
 ---
-title: "Korean skin care treatments what clinics offer: A complete guide for 2026"
+title: "Korean skin care treatments what clinics offer"
 date: 2026-01-19
 excerpt: "Discover the top Korean skin care treatments for 2026, from Rejuran Healer to InMode lifting. Detailed costs, pain levels, and clinic guides included."
 category: Medical Tourism

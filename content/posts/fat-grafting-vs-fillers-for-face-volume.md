@@ -1,5 +1,5 @@
 ---
-title: "Fat grafting vs fillers for face volume in Korea: The complete guide 2026"
+title: "Fat grafting vs fillers for face volume in Korea"
 date: 2026-01-07
 excerpt: "Compare costs, recovery timelines, and longevity of fat grafting vs fillers in Seoul. Find out which facial volume treatment fits your needs and budget."
 category: Medical Tourism

@@ -1,5 +1,5 @@
 ---
-title: "Korean beauty store comparison: Olive Young vs Lalavla and 2026 alternatives"
+title: "Korean Beauty Store Comparison: Olive Young vs. Lalavla"
 date: 2026-01-14
 excerpt: "A definitive guide to the K-Beauty retail landscape in 2026. We compare Olive Young dominance with the legacy of Lalavla and new luxury rivals like Chicor."
 category: Shopping & K-Beauty

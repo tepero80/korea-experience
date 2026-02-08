@@ -1,8 +1,8 @@
 ---
-title: "The Ultimate 2026 Olive Young Bible: What You Actually Need to Buy (and What's Just Hype!)"
+title: "The Ultimate 2026 Olive Young Must-Buys Guide for Tourists"
 
 date: 2026-02-05
-excerpt: "Look, don't get overwhelmed by the rows of neon—I've narrowed down the 2026 Olive Young must-buys to the science-backed heavy hitters like salmon DNA serums and 'Slow Aging' essentials. If you want that post-clinic glow without the needles, these are the only products that actually belong in your suitcase!"
+excerpt: "Look, don't get overwhelmed by the rows of neon—I've narrowed down the 2026 Olive Young must-buys to the science-backed heavy hitters like salmon DNA serums..."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true

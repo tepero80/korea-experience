@@ -1,7 +1,7 @@
 ---
-title: "Bottoms Up in Seoul: The Ultimate 2026 Guide to Master Korean Drinking Etiquette, Avoid Social Faux Pas, and Drink Like a Local (Even Without an ARC!)"
+title: "Korean Drinking Etiquette 2026: Rules Every Visitor Should Know"
 date: 2026-02-05
-excerpt: "The short answer? Always use two hands when pouring or receiving a drink and never, ever fill your own glass—it's the fastest way to signal you're a tourist. In 2026, Korean drinking culture is a wild mix of high-tech apps and ancient Confucian respect, but don't worry, I've got the inside scoop to help you navigate it like a pro."
+excerpt: "The short answer? Always use two hands when pouring or receiving a drink and never, ever fill your own glass—it's the fastest way to signal you're a tourist."
 category: K-Culture
 author: Korea Experience Team
 deepDive: true

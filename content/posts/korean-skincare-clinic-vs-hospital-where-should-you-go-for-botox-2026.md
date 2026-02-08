@@ -1,5 +1,5 @@
 ---
-title: "Korean skincare clinic vs hospital: Where should you go for Botox in 2026"
+title: "Korean Clinic vs. Hospital: Where to Get Botox in Seoul (2026)"
 date: 2026-01-19
 excerpt: "Comparing prices (₩30k vs ₩200k), safety protocols, and service quality to help you choose between clinics and hospitals for Botox in Seoul."
 category: Medical Tourism

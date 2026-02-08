@@ -1,5 +1,5 @@
 ---
-title: "Acne Scar Treatment Korea Best Options: The 2026 Guide to Potenza, Lasers, and Skin Boosters"
+title: "Acne Scar Treatment in Korea: Best Options and Clinic Guide"
 date: 2026-01-01
 excerpt: "A complete guide to acne scar treatment in Korea for 2026. Discover prices, top clinics, and advanced therapies like Potenza and JuveLook."
 category: Medical Tourism

@@ -1,7 +1,7 @@
 ---
-title: "Gentle Monster vs. Blue Elephant in 2026: The Ultimate Korean Eyewear Showdown (IP Lawsuits, Google XR, and ₩7.8B Frozen)"
+title: "Gentle Monster vs. Blue Elephant in 2026"
 date: 2026-02-08
-excerpt: "One brand builds 14-story museums and partners with Google on AI smart glasses. The other sells nearly identical frames at one-fifth the price and just had billions in assets frozen by the court. Welcome to the wildest fashion fight in Seoul right now."
+excerpt: "One brand builds 14-story museums and partners with Google on AI smart glasses."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true

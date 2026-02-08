@@ -1,8 +1,8 @@
 ---
-title: "The 15-Degree Tilt: Why This Tiny Move Is Your Secret Weapon for Mastering Korea in 2026"
+title: "Korean Bowing Etiquette: When and How Deep to Bow in 2026"
 
 date: 2026-02-05
-excerpt: "If you're heading to Seoul, that 15-degree bow is way more than just a polite nod—it's the ultimate social lubricant that opens doors, scores you better service, and proves you're not just another clueless tourist."
+excerpt: "If you're heading to Seoul, that 15-degree bow is way more than just a polite nod—it's the ultimate social lubricant that opens doors."
 category: K-Culture
 author: Korea Experience Team
 deepDive: true

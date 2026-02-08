@@ -1,7 +1,7 @@
 ---
 title: "Itaewon global brands and import shops guide 2026"
 date: 2026-01-12
-excerpt: "Discover the best foreign food marts, vintage fashion, and luxury import shops in Itaewon. Your complete guide to international shopping in Seoul with prices and locations."
+excerpt: "Discover the best foreign food marts, vintage fashion, and luxury import shops in Itaewon."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 ---

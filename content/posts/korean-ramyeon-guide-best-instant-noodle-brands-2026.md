@@ -1,7 +1,7 @@
 ---
 title: "Best Korean Ramyeon Guide Top Instant Noodle Brands 2026"
 date: 2026-01-18
-excerpt: "The ultimate 2026 guide to Korean ramyeon. From spicy Shin Ramyun to creamy Carbonara Buldak, discover the best instant noodles and how to cook them like a local."
+excerpt: "The ultimate 2026 guide to Korean ramyeon. From spicy Shin Ramyun to creamy Carbonara Buldak."
 category: Food & Dining
 author: Korea Experience Team
 ---

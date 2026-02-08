@@ -1,7 +1,7 @@
 ---
 title: "Korea Trip Cost 2026: 7-Day Budget vs Luxury Breakdown"
 date: 2026-02-04
-excerpt: "Unpack the real cost of a 7-day trip to Korea in 2026. This guide details budget to luxury expenses for flights, hotels, food, and activities, ensuring your perfect adventure."
+excerpt: "Unpack the real cost of a 7-day trip to Korea in 2026. This guide details budget to luxury expenses for flights, hotels, food, and activities."
 category: Travel & Tourism
 author: Korea Experience Team
 featured: true

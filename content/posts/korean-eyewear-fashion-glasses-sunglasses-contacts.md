@@ -1,5 +1,5 @@
 ---
-title: "Korean eyewear fashion buying guide 2026: Glasses, sunglasses, and contacts"
+title: "Korean eyewear fashion buying guide 2026"
 date: 2026-01-16
 excerpt: "A complete guide to buying eyewear in Korea. Discover prices, 20-minute prescription glasses, trending brands like Gentle Monster, and contact lens tips."
 category: Shopping & K-Beauty

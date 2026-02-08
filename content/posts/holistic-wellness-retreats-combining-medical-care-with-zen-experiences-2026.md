@@ -1,5 +1,5 @@
 ---
-title: "Holistic wellness retreats combining medical care with zen experiences 2026"
+title: "Holistic wellness retreats combining medical care with zen experiences"
 date: 2026-01-10
 excerpt: "Discover Korea's top 2026 hybrid retreats blending state-of-the-art medical checkups with temple stays and forest healing for under $2,000/week."
 category: Medical Tourism

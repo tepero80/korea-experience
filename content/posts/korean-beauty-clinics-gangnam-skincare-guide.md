@@ -1,5 +1,5 @@
 ---
-title: "Korean Beauty Clinics Gangnam Skincare Guide: Best Treatments and Prices 2026"
+title: "Korean Beauty Clinics Gangnam Skincare Guide"
 date: 2026-01-14
 excerpt: "Your ultimate guide to Gangnam skincare clinics. Compare factory vs. luxury dermatology, check 2026 prices for Rejuran and Botox, and book like a local."
 category: Shopping & K-Beauty

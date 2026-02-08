@@ -1,7 +1,7 @@
 ---
 title: "Tongyeong Oyster Specialties Coastal Delicacies Guide"
 date: 2026-02-01
-excerpt: "Discover the culinary heart of Korea's south coast with our guide to Tongyeong oysters. From full course meals to market finds, explore the ultimate seafood journey."
+excerpt: "Discover the culinary heart of Korea's south coast with our guide to Tongyeong oysters."
 category: Food & Dining
 author: Korea Experience Team
 ---

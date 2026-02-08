@@ -1,5 +1,5 @@
 ---
-title: "Table etiquette in Korea why you should not pick up your rice bowl 2026"
+title: "Table etiquette in Korea why you should not pick up your rice bowl"
 date: 2026-01-31
 excerpt: "Master Korean dining rules and learn why lifting your rice bowl is a cultural taboo. Essential guide for travelers in 2026."
 category: Food & Dining

@@ -1,8 +1,8 @@
 ---
-title: "2026 Insider Guide: How to Order Baemin Like a Local Without an ARC or Korean Phone Number"
+title: "How to Order on Baemin Without an ARC in Korea (2026)"
 
 date: 2026-02-05
-excerpt: "So, you're staring at your phone at 11 PM, dying for some fried chicken, but you don't have a Korean ID? Don't worry, I've got you—as of 2026, Baemin has finally gone full 'foreigner-friendly' with AI translations and guest checkout!"
+excerpt: "So, you're staring at your phone at 11 PM, dying for some fried chicken, but you don't have a Korean ID?"
 category: Food & Dining
 author: Korea Experience Team
 deepDive: true

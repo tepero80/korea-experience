@@ -1,5 +1,5 @@
 ---
-title: "Managing bruising and scarring Korean skincare approach after surgery 2026"
+title: "Managing bruising and scarring Korean skincare approach after surgery"
 date: 2026-01-24
 excerpt: "A complete guide to Korean post-procedure care, featuring top pharmacy creams, deswelling treatments, and recovery protocols with 2026 pricing data."
 category: Medical Tourism
