@@ -14,6 +14,7 @@ tags:
   - "Day Trips"
 readTime: "18 min read"
 featured: false
+image: "/images/posts/winter-activities-ski-resorts-and-ice-festivals.webp"
 ---
 
 Winter in South Korea offers a crisp, exhilarating escape that transforms the peninsula into a wonderland of snowy peaks and frozen rivers. The best winter activities in Korea are centered around the mountainous Gangwon-do province for world-class skiing and snowboarding, and the northern regions for unique cultural experiences like the Hwacheon Sancheoneo Ice Festival. Travelers can expect ski seasons running from early December through early March, with peak powder conditions in January, while major ice festivals typically operate from early to late January.

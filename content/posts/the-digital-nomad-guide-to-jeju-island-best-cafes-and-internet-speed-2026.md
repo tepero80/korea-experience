@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/the-digital-nomad-guide-to-jeju-island-best-cafes-and-internet-speed-2026.webp"
 ---
 
 Jeju Island has long been known as the "Hawaii of Korea," but by 2026, it has successfully rebranded itself as the "Silicon Valley of the Sea." With the South Korean government fully implementing the dedicated Digital Nomad (Workation) Visa in late 2024, the island has seen an influx of remote workers swapping skyscrapers for sea views.

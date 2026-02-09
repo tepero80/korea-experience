@@ -13,6 +13,7 @@ tags:
   - "Living in Korea"
 readTime: "18 min read"
 featured: false
+image: "/images/posts/intercity-bus-travel-booking-apps-and-routes.webp"
 ---
 
 Navigating South Korea's extensive bus network is the most affordable and often the most scenic way to explore the peninsula, yet the distinction between "Express" and "Intercity" buses often confuses first-time visitors.

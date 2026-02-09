@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/incheon-chinatown-jajangmyeon-origins.webp"
 ---
 
 Every day, over 7 million bowls of Jajangmyeon are consumed across South Korea, making it arguably the nation's most beloved comfort food. Yet, this iconic dish—characterized by its thick, savory black bean sauce and chewy noodles—is not traditionally Korean in the strictest sense, nor is it entirely Chinese. To understand the soul of this dish, one must travel 40 kilometers west of Seoul to Incheon, specifically to the vibrant streets of South Korea's only official Chinatown.

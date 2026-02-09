@@ -14,6 +14,7 @@ tags:
   - "Family Travel"
 readTime: "16 min read"
 featured: false
+image: "/images/posts/senior-friendly-travel-accessible-routes-and-slow-pace.webp"
 ---
 
 Traveling to Korea as a senior, or with older family members, is surprisingly convenient thanks to the country's rapid modernization and deep cultural respect for elders. While the hilly terrain of the Korean peninsula can seem daunting initially, the infrastructure in major cities like Seoul and Busan has been optimized for accessibility. You can expect elevators at 95% of subway stations, priority seating on all public transport, and significant discounts for those over age 65.

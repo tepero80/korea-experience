@@ -12,6 +12,7 @@ tags:
   - "Korean Apps"
 readTime: "16 min read"
 featured: false
+image: "/images/posts/rent-a-car-in-korea-international-license-and-navigation-app-guide-2026.webp"
 ---
 
 Renting a car in South Korea offers a level of freedom that public transportation simply cannot match, especially when exploring the coastal roads of Jeju Island, the mountainous terrain of Gangwon-do, or the historic sites of Gyeongju. However, driving in Korea comes with a unique set of challenges for international visitors, ranging from strict International Driving Permit (IDP) requirements to navigation apps that function differently than the Google Maps ecosystem you might be used to.

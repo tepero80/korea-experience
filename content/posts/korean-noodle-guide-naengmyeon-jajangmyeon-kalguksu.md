@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/korean-noodle-guide-naengmyeon-jajangmyeon-kalguksu.webp"
 ---
 
 While Korean BBQ and Kimchi often steal the international spotlight, the true soul of Korean cuisine lies in its noodles. For travelers and expats, navigating the vast world of *myeon* (noodles) can be overwhelming. This comprehensive Korean Noodle Guide Naengmyeon Jajangmyeon Kalguksu breaks down the "Big Three" noodle dishes that define Korea's culinary landscape.

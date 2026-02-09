@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/k-literature-in-english-top-books-to-understand-modern-korea-2026.webp"
 ---
 
 Korean literature, once a niche interest for academics, has exploded into a global phenomenon comparable to K-Pop and K-Drama. By 2026, the "K-Lit" wave has firmly established itself on international bookshelves, driven by prestigious award wins and a hunger to understand the cultural nuance behind the headlines. For travelers and expats planning a trip to the peninsula, reading local literature offers a backdoor into the Korean psyche, revealing the anxieties, joys, and history of a nation that moved from poverty to an economic powerhouse in less than 50 years.

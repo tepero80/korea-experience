@@ -12,6 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/post-surgery-recovery-meals-best-delivery-options-for-healing-in-seoul-2026.webp"
 ---
 
 Finding nutritious, soft, and healing food while recovering from surgery in a foreign country can be the most stressful part of the medical tourism journey. In Seoul, the most efficient way to secure post-surgery recovery meals in 2026 is through the "Big Two" delivery applications: **Baedal Minjok (Baemin)** and **Coupang Eats**. While Baemin offers the widest variety of local vendors (over 200,000 listings in Seoul), Coupang Eats provides a superior English-friendly interface and real-time GPS tracking. For patients unable to navigate apps, specialized concierge services and hotel room service remain viable, albeit more expensive, alternatives.

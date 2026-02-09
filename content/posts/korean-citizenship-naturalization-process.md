@@ -14,6 +14,7 @@ tags:
   - "Phone"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-citizenship-naturalization-process.webp"
 ---
 
 Becoming a citizen of South Korea is a transformative milestone for long-term residents. It represents the ultimate commitment to life on the peninsula, granting you the right to vote, access to comprehensive welfare benefits, and the security of a passport that consistently ranks among the most powerful globally. However, the path to obtaining a Korean passport is rigorous, bureaucratic, and demands significant preparation.

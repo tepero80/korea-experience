@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026.webp"
 ---
 
 South Korea’s nightlife is legendary, a neon-soaked tapestry woven with history, hierarchy, and hedonism. For international travelers landing in 2026, understanding the nuances of *Hoesik* (dining together) and the distinct characteristics of local spirits is as essential as learning "Hello." The Korean drinking culture is not merely about consumption; it is the social lubricant that powers business deals, strengthens friendships, and helps the nation unwind. Whether you are eyeing the green bottles of Soju in a convenience store or navigating the orange tarps of a street-side Pocha, this guide covers everything you need to know.

@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/the-best-pajeon-and-makgeolli-spots-for-a-rainy-day-in-seoul-2026.webp"
 ---
 
 There is an unspoken rule in South Korea that transcends generations: when the rain begins to fall, you must eat *pajeon* (scallion pancakes) and drink *makgeolli* (rice wine). This cultural phenomenon is so deeply ingrained that on rainy days in 2026, searches for these venues spike by over 300% across local navigation apps. The auditory connection is often cited as the reason; the sound of rain hitting the pavement mimics the sizzling sound of batter frying in oil, triggering a Pavlovian response for savory, crispy pancakes.

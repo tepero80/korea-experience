@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/opening-a-korean-bank-account-for-foreigners.webp"
 ---
 
 Navigating the financial landscape of a new country is often the first major hurdle for expats, and South Korea is no exception. While Korea is a hyper-digital society where cash is rapidly disappearing, the banking system can feel surprisingly analog and bureaucratic for newcomers. Whether you are a student at Yonsei University, an English teacher in Gangnam, or a digital nomad on a working holiday visa, securing a local bank account is arguably the most critical step in settling down.

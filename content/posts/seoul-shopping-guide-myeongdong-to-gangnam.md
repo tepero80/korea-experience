@@ -14,6 +14,7 @@ tags:
   - "Korean Fashion"
 readTime: "16 min read"
 featured: false
+image: "/images/posts/seoul-shopping-guide-myeongdong-to-gangnam.webp"
 ---
 
 If you are planning a shopping spree in Seoul, the two most critical districts to understand are Myeongdong and Gangnam, as they represent the two distinct poles of Korea's retail identity.

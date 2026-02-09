@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/korean-cinema-beyond-bong-joon-ho-must-watch-directors-2026.webp"
 ---
 
 While Bong Joon Ho's historic Oscar sweep for *Parasite* shattered the "one-inch tall barrier of subtitles," Korean cinema has been a powerhouse of creativity for decades. As we move through 2026, the landscape of K-Cinema is more vibrant than ever, offering international travelers and expats a unique lens through which to understand the peninsula. From the neon-noir alleys of Seoul to the windswept coasts of Busan, film is intrinsic to the Korean cultural experience.

@@ -12,6 +12,7 @@ tags:
   - "Shopping"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/korean-body-care-from-head-to-toe.webp"
 ---
 
 Korean body care is a holistic, multi-step discipline that treats the skin on the body with the same reverence as the face, utilizing a combination of rigorous exfoliation (seshin), specialized hydration layers, and advanced dermatological treatments to achieve a "glass skin" effect from head to toe. While K-Beauty for the face focuses on glow and pores, body care in Korea prioritizes texture refinement, circulation, and barrier repair, often involving professional treatments like scalp scaling and body botox alongside daily home rituals.

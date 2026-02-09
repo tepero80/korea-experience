@@ -14,6 +14,7 @@ tags:
   - "Cherry Blossom"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/korean-traditional-architecture-palace-tour-guide.webp"
 ---
 
 Seoul is a city of striking contrasts, where glass skyscrapers reflect the curved eaves of 600-year-old wooden structures. For the international traveler, understanding Korean traditional architecture—specifically the "Five Grand Palaces" of the Joseon Dynasty—is the key to unlocking the soul of this metropolis. These architectural marvels are not just static museums; they are living testaments to Confucian philosophy, geomancy, and aesthetic harmony with nature.

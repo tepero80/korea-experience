@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/korean-driving-license-conversion-process.webp"
 ---
 
 Navigating the roads of the Korean Peninsula offers a freedom that public transport, efficient as it is, simply cannot match. From the winding coastal roads of Gangwon-do to the volcanic landscapes of Jeju Island, having a valid driving license is your ticket to exploring the real Korea. However, for long-term residents holding an Alien Registration Card (ARC), relying on an International Driving Permit (IDP) is a temporary solution that expires strictly after one year.

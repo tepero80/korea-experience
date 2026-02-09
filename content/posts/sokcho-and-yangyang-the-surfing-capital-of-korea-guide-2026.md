@@ -13,6 +13,7 @@ tags:
   - "Korean Food"
 readTime: "18 min read"
 featured: false
+image: "/images/posts/sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026.webp"
 ---
 
 For international travelers asking where to find the best surfing in Korea in 2026, the answer is unequivocally the eastern coastline of Gangwon Province, specifically the stretch between Yangyang and Sokcho. While Busan and Jeju Island have their merits, Yangyang has developed into the undisputed "Surfing Capital of Korea," boasting over 20 surf shops per square kilometer in key districts and dedicated surf-only beaches. The area offers consistent knee-to-waist high waves for beginners during the summer (June–August) and powerful head-high swells for advanced riders during the winter season (November–March).

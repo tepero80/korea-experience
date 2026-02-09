@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-wedding-traditions-what-to-expect-at-a-local-wedding-2026.webp"
 ---
 
 Attending a wedding in South Korea is a fascinating cultural experience that differs significantly from Western nuptials. It is a unique blend of modern "factory-style" efficiency and deep-rooted Confucian traditions. If you have received an invitation for a wedding in Seoul or beyond in 2026, you might be surprised to learn that the entire ceremony often lasts less than 30 minutes, and there is no bridal party standing at the altar.

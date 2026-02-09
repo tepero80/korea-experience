@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/the-history-of-kimchi-more-than-just-a-side-dish-2026.webp"
 ---
 
 Kimchi is not merely a fermented vegetable dish; it is the soul of Korean cuisine, a symbol of national identity, and a global superfood that has transcended borders. As we step into 2026, the global fascination with this spicy, tangy staple has reached new heights, yet its profound history remains a mystery to many. To understand Korea is to understand kimchi—a culinary journey that spans over three millennia, surviving wars, modernizing through technology, and retaining its status as a daily necessity on dining tables from Seoul to New York.

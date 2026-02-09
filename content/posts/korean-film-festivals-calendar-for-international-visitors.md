@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-film-festivals-calendar-for-international-visitors.webp"
 ---
 
 South Korea has rapidly ascended to the pinnacle of global cinema, driven by the historic success of films like *Parasite* and the cultural phenomenon of *Squid Game*. However, for true cinephiles, the real magic happens not on Netflix, but at Korea's vibrant array of international film festivals. From the glitz of the Busan International Film Festival (BIFF) to the indie spirit of Jeonju and the genre-bending atmosphere of Bucheon, Korea offers a cinematic calendar that spans the entire year.

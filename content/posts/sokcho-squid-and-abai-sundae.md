@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/sokcho-squid-and-abai-sundae.webp"
 ---
 
 Sokcho is a culinary jewel on South Korea’s northeast coast, located approximately 120 miles (193 kilometers) from Seoul. While the city is famous for the majestic Seoraksan National Park, the true heartbeat of this coastal hub is found in its distinctive cuisine. Specifically, two dishes define the region's gastronomic identity: *Ojing-eo Sundae* (Squid Sundae) and *Abai Sundae* (Hamgyong-style Blood Sausage).

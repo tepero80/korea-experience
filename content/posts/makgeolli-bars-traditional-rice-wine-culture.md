@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/makgeolli-bars-traditional-rice-wine-culture.webp"
 ---
 
 Makgeolli, Korea's oldest traditional liquor, is currently experiencing a massive renaissance that has transformed it from a farmer's drink into a sophisticated, premium beverage. Once regarded as a cheap, headache-inducing option for the older generation, the cloudy, sweet-and-tangy rice wine has captured the hearts of the MZ generation (Millennials and Gen Z) and international connoisseurs alike.

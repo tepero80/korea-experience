@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/how-to-read-a-korean-medical-prescription-a-guide-for-foreigners-2026.webp"
 ---
 
 Navigating the healthcare system in a foreign country can be daunting, but in South Korea, the challenge often continues even after you leave the doctor's office. You are handed a paper prescription, you walk into a pharmacy, and instead of a familiar amber bottle with a clear English label, you are given a paper envelope or a long strip of plastic packets containing a colorful assortment of pills. For many international travelers and expats, this is the moment of confusion. Understanding exactly what you are taking and how to take it is crucial for your health and recovery.

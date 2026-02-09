@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-summer-noodles-cold-buckwheat-naengmyeon-vs-spicy-bibim-2026.webp"
 ---
 
 When the humid blanket of the Korean summer descends upon the peninsula, with temperatures in Seoul frequently soaring above 35°C (95°F) by mid-July, the local appetite shifts dramatically. While tourists might seek out air-conditioned malls, locals flock to specific restaurants identified by long queues winding around the block. Their destination? A stainless steel bowl filled with icy broth or fiery sauce and thin, chewy noodles.

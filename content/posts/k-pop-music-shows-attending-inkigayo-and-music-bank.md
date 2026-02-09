@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/k-pop-music-shows-attending-inkigayo-and-music-bank.webp"
 ---
 
 Attending a live broadcast is the holy grail of K-Pop fandom. It is where the polished gloss of music videos meets the raw energy of live performance, fan chants, and the intricate machinery of Korean television. Among the six major weekly music programs, SBS **Inkigayo** and KBS **Music Bank** stand as the titans of public broadcasting. However, for international travelers, the barrier to entry can feel insurmountable, involving complex lottery systems, language barriers, and early morning queues.

@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-indie-music-scene-live-music-venues.webp"
 ---
 
 While K-Pop fills stadiums globally, the beating heart of Korea's musical creativity thrives in the basement clubs and intimate halls of Seoul. The Korean indie music scene is a visceral, electric experience that offers travelers a side of the country rarely seen on television. If you want to trade synchronized choreography for raw guitar riffs, experimental jazz, and shoegaze dissonance, you must head to the Hongdae and Hapjeong areas of Mapo-gu.

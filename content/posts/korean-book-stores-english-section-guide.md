@@ -12,6 +12,7 @@ tags:
   - "Shopping"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/korean-book-stores-english-section-guide.webp"
 ---
 
 Finding English-language reading material in Korea used to be a challenge akin to finding a decent bagel in 2010. However, the landscape has shifted dramatically. Whether you are a traveler looking for a bestseller to read on the KTX, a student hunting for academic texts, or an expat missing the smell of a Western bookstore, Seoul and major Korean cities now offer impressive options. You don't need to rely solely on expensive international shipping or Kindle downloads; the physical bookstore culture in Korea is thriving, and the English sections are larger than ever.

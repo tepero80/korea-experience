@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/soju-brands-comparison-taste-and-alcohol-content.webp"
 ---
 
 When international travelers land at Incheon International Airport, they are often prepared for the kimchi, the BBQ, and the bustling streets of Seoul. However, nothing quite prepares the palate for the sheer ubiquity of the "green bottle." Soju is not just a drink in South Korea; it is the social lubricant that powers the nation's nightlife, seals business deals, and accompanies almost every communal meal. By 2026, the global export of this clear spirit has skyrocketed, yet the domestic landscape remains complex for the uninitiated.

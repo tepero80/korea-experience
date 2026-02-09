@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-pancake-variations-pajeon-bindaetteok-kimchijeon.webp"
 ---
 
 The sound of rain hitting the pavement triggers a very specific craving in the hearts of Koreans: the sizzling, crackling sound of batter hitting hot oil. This phenomenon is so culturally ingrained that on rainy days, sales of flour and Makgeolli (rice wine) spike significantly across the peninsula. Known collectively as *Jeon* or *Buchimgae*, Korean pancakes are a pillar of the nation's cuisine, offering a savory, crispy, and communal dining experience that transcends social classes.

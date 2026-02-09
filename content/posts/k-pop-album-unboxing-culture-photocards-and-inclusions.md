@@ -14,6 +14,7 @@ tags:
   - "Concert"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/k-pop-album-unboxing-culture-photocards-and-inclusions.webp"
 ---
 
 The global music industry may have pivoted to streaming, but in South Korea, the physical album market is thriving, driven by a unique and addictive culture: album unboxing. For international fans and travelers visiting Korea, purchasing a K-Pop album is rarely just about listening to the CD. It is a tactile experience, a treasure hunt for random "inclusions," and a community ritual.

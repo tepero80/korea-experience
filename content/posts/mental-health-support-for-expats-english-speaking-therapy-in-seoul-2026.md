@@ -12,6 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/mental-health-support-for-expats-english-speaking-therapy-in-seoul-2026.webp"
 ---
 
 Moving to South Korea is an exhilarating adventure, but the adjustment to life in Seoul can be mentally taxing. Between the "Bali-bali" (hurry-hurry) culture, language barriers, and workplace intensity, burnout is a common reality for international residents. In 2026, the landscape of mental health support has evolved significantly, offering more accessible English-speaking resources than ever before.

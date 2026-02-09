@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "15 min read"
 featured: true
+image: "/images/posts/korean-street-food-guide-where-to-eat-in-seoul.webp"
 ---
 
 Seoul is a sensory overload in the best possible way, but nothing defines the city's soul quite like its street food culture. Walking through the neon-lit streets of Myeongdong or the steam-filled alleys of Gwangjang Market offers an immediate connection to Korean life that fine dining simply cannot replicate. For travelers landing in 2026, the street food scene has evolved, blending centuries-old traditional recipes with viral social media trends, creating a culinary landscape that is as diverse as it is delicious.

@@ -14,6 +14,7 @@ tags:
   - "Concert"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/k-pop-fan-meeting-events-how-to-participate.webp"
 ---
 
 Attending a K-Pop fan meeting in Korea is the holy grail for international fans. Unlike standard concerts, which focus primarily on performance, fan meetings are intimate events designed to foster a deep connection between the artists and their fandom. These events feature a mix of live performances, interactive games, talk sessions, and sometimes even high-touch events or group photos. However, navigating the ecosystem of Korean ticketing platforms, fan club verifications, and venue logistics can be daunting for non-locals.

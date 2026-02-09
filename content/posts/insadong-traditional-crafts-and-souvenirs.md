@@ -12,6 +12,7 @@ tags:
   - "Shopping"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/insadong-traditional-crafts-and-souvenirs.webp"
 ---
 
 If you are looking for authentic Korean heritage items, Insadong is the undisputed cultural capital of Seoul, but navigating its mix of genuine artisan workshops and mass-market souvenir stalls requires local knowledge. You will find everything from ₩1,000 ($0.75) keychains to ₩5,000,000 ($3,750) master-crafted ceramics along this 700-meter main street and its winding labyrinth of side alleys.

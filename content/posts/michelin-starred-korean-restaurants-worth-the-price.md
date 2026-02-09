@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/michelin-starred-korean-restaurants-worth-the-price.webp"
 ---
 
 Seoul has firmly established itself as a global gastronomic capital, currently boasting over 30 Michelin-starred establishments as of early 2026. For international travelers, the question isn't just about finding good food—it is about navigating the high-end landscape to determine which tasting menus justify the premium price tags, which often exceed ₩300,000 ($225 USD) per person.

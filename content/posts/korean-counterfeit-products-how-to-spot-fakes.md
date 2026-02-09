@@ -12,6 +12,7 @@ tags:
   - "Shopping"
 readTime: "16 min read"
 featured: false
+image: "/images/posts/korean-counterfeit-products-how-to-spot-fakes.webp"
 ---
 
 Walking through the bustling streets of Dongdaemun at 11:00 PM or navigating the crowded alleys of Namdaemun Market, you will inevitably encounter rows of goods that look suspiciously familiar. From handbags bearing the iconic "LV" monogram to sneakers that resemble the latest limited-edition Nike drops, Korea—specifically Seoul—has a complex relationship with counterfeit goods. For international travelers, the temptation can be high, but the risk of getting scammed, buying dangerous cosmetic ingredients, or facing customs issues upon returning home is higher. You might be wondering how to distinguish the "Super Fakes" (high-quality replicas) from the obvious knockoffs, or more importantly, how to ensure the expensive K-Beauty cream you just bought isn't a harmful duplicate.

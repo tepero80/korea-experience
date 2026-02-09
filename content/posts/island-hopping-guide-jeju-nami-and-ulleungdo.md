@@ -14,6 +14,7 @@ tags:
   - "Korean Culture"
 readTime: "16 min read"
 featured: false
+image: "/images/posts/island-hopping-guide-jeju-nami-and-ulleungdo.webp"
 ---
 
 Korea’s geography is defined by its peninsula nature, but its true scenic diversity lies in its islands. For international travelers, "island hopping" in Korea doesn't typically mean a single boat ride connecting archipelago points; rather, it involves distinct journeys to three radically different environments: the river-bound romance of **Nami Island**, the volcanic vacation capital of **Jeju Island**, and the mysterious, rugged frontier of **Ulleungdo**.

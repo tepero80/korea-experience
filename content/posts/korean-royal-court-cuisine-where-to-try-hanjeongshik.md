@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-royal-court-cuisine-where-to-try-hanjeongshik.webp"
 ---
 
 Experience the culinary majesty of the Joseon Dynasty through **Korean Royal Court Cuisine**, known locally as *Hanjeongshik*. This is not merely a meal; it is a meticulously choreographed cultural performance that spans over 500 years of history, bringing the King's table to your palate.

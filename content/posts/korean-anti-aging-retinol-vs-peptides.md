@@ -12,6 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-anti-aging-retinol-vs-peptides.webp"
 ---
 
 When deciding between Korean anti-aging retinol vs peptides, the choice ultimately depends on your skin's tolerance and specific aging concerns: Retinol is the powerhouse for resurfacing texture and deep wrinkles, while peptides are the gentle builders of skin density and barrier health.

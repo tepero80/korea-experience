@@ -14,6 +14,7 @@ tags:
   - "Banking"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/pansori-and-traditional-storytelling-performances.webp"
 ---
 
 The sound of a single drum beat resonates through the wooden hall, followed by a voice that seems to carry the weight of centuries. This is Pansori, often described as "Korean Opera," but in reality, it is something far more raw and intimate. For international travelers seeking to understand the "Han" (a complex emotion of grief and resentment) that underpins much of Korean culture, attending a Pansori performance is not just an activity; it is a rite of passage.

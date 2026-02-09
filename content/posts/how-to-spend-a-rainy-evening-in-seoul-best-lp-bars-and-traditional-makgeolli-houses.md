@@ -5,6 +5,7 @@ excerpt: "Discover how to best spend a rainy evening in Seoul, exploring cozy LP
 category: K-Culture
 author: Korea Experience Team
 featured: true
+image: "/images/posts/how-to-spend-a-rainy-evening-in-seoul-best-lp-bars-and-traditional-makgeolli-houses.webp"
 featuredOrder: 3
 tags:
   - "K-Pop"

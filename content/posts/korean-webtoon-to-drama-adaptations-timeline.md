@@ -12,6 +12,7 @@ tags:
   - "Shopping"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/korean-webtoon-to-drama-adaptations-timeline.webp"
 ---
 
 # The Epic Journey: Korean Webtoon to K-Drama Adaptations Timeline

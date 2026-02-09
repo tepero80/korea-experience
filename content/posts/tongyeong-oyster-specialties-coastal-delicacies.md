@@ -12,6 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/tongyeong-oyster-specialties-coastal-delicacies.webp"
 ---
 
 Tongyeong, often affectionately referred to as the "Naples of Korea," is not just a visual spectacle of azure waters and emerald islands; it is the undisputed capital of Korean oyster production. Located approximately 380 kilometers (236 miles) south of Seoul, this coastal city is responsible for producing nearly 80% of South Korea's oysters and exporting thousands of tons globally every year.

@@ -12,6 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "17 min read"
 featured: false
+image: "/images/posts/online-shopping-in-korea-coupang-vs-gmarket.webp"
 ---
 
 Finding your way around the digital aisles of South Korean e-commerce can be just as daunting as navigating the bustling streets of Gangnam during rush hour. For international residents, expats, and travelers, the question isn't just "Where can I buy this?" but "Which app will actually accept my foreign credit card and deliver to my Airbnb?" The battle for dominance in the Korean e-commerce market is primarily fought between two giants: the speed-obsessed **Coupang** and the global-friendly **Gmarket**. Whether you need next-day delivery of fresh groceries or are hunting for K-beauty exclusives to ship back home, choosing the right platform determines whether your package arrives in 12 hours or gets stuck in payment gateway purgatory.

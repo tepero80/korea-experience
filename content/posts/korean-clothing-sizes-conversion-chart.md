@@ -12,6 +12,7 @@ tags:
   - "Shopping"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/korean-clothing-sizes-conversion-chart.webp"
 ---
 
 You have just arrived in Seoul, ready to raid the trendy boutiques of Hongdae or the underground shopping malls of Gangnam, only to find that the tag on that perfect dress says "55" instead of Small, or the sneakers are listed as "240." Shopping for clothes in Korea is a highlight for many travelers, but the unique sizing system can be a major hurdle. If you don't understand how the local measurements work, you risk buying clothes that are too tight in the shoulders, too short in the sleeves, or shoes that pinch your toes.

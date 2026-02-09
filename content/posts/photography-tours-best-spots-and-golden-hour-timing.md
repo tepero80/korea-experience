@@ -12,6 +12,7 @@ tags:
   - "Jeju Island"
 readTime: "16 min read"
 featured: true
+image: "/images/posts/photography-tours-best-spots-and-golden-hour-timing.webp"
 ---
 
 Capturing the essence of South Korea through a lens requires more than just a good camera; it requires an intimate understanding of light, timing, and the unique juxtaposition of ancient tradition against hyper-modern architecture. Whether you are chasing the elusive "blue hour" over the Han River or waiting for the morning mist to clear at a 600-year-old temple, Korea offers a visual density that is rare in other parts of the world. However, the window for perfect light can be fleeting, and navigating the dense urban sprawl to find the perfect vantage point takes planning.

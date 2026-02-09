@@ -12,6 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/thrifting-in-seoul-best-charity-shops-and-flea-markets-2026.webp"
 ---
 
 Searching for vintage Burberry coats for under $30 or unique Y2K fashion pieces that no one else has? Seoul’s thrifting scene has exploded in 2026, shifting from a niche hobby for the elderly to a massive trend among Gen Z and eco-conscious travelers. The best thrifting in Seoul is found in the chaotic piles of Dongmyo Flea Market, the curated racks of Gwangjang Market’s vintage arcade, and the organized charity shops like The Beautiful Store scattered across the city.

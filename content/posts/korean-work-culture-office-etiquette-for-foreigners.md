@@ -14,6 +14,7 @@ tags:
   - "Banking"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/korean-work-culture-office-etiquette-for-foreigners.webp"
 ---
 
 Navigating the professional landscape in South Korea can feel like learning a complex dance where every step, bow, and silence holds significant meaning. For international professionals, expats, and business travelers, understanding Korean work culture is just as vital as your technical skills. While the "Hallyu" wave has popularized Korean music and food, the corporate environment remains deeply rooted in Neo-Confucian values, prioritizing hierarchy, harmony, and the collective group over the individual.

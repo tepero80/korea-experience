@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/medical-tourism-insurance-for-korea.webp"
 ---
 
 Planning a medical trip to South Korea is an exciting venture into the world’s leading hub for cosmetic surgery, dermatology, and advanced healthcare. However, one critical aspect that many international travelers overlook until it is too late is specifically designed medical tourism insurance. Most travelers assume their standard travel insurance or home country health plan will cover them abroad, but this is a dangerous misconception. Standard travel insurance policies universally exclude "elective medical procedures" and any complications arising from them. If you travel to Seoul for a rhinoplasty and develop an infection requiring hospitalization, a standard policy will deny your claim, leaving you with a bill that could run into millions of Korean Won (₩).

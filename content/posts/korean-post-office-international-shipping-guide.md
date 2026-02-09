@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-post-office-international-shipping-guide.webp"
 ---
 
 Navigating the *Woocheguk* (Korea Post) is a quintessential experience for anyone living in or visiting South Korea. Whether you are an expat moving home, a student sending winter clothes back, or a traveler whose suitcase is overflowing with skincare products and K-pop merchandise, the Korean postal system is widely regarded as one of the most efficient, affordable, and user-friendly services in the world.

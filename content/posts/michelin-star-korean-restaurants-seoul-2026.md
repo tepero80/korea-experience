@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/michelin-star-korean-restaurants-seoul-2026.webp"
 ---
 
 Seoul’s gastronomic landscape has evolved into a global powerhouse, and the 2026 Michelin Guide reflects a maturity that blends centuries-old royal cuisine with avant-garde innovation. For international travelers, securing a seat at these tables is not just about eating; it is about witnessing the cultural resurgence of "Hansik" (Korean cuisine) on the world stage.

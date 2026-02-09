@@ -12,6 +12,7 @@ tags:
   - "Living in Korea"
 readTime: "16 min read"
 featured: false
+image: "/images/posts/ktx-vs-srt-high-speed-train-comparison-and-booking.webp"
 ---
 
 If you are planning to travel between Seoul and other major Korean cities like Busan, Mokpo, or Gwangju, you have two primary high-speed rail options: the famous **KTX (Korea Train eXpress)** and the newer **SRT (Super Rapid Train)**. While both offer speeds exceeding 300 km/h, the choice largely depends on where you are staying in Seoul.

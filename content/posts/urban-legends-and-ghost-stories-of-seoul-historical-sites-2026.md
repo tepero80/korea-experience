@@ -14,6 +14,7 @@ tags:
   - "Banking"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/urban-legends-and-ghost-stories-of-seoul-historical-sites-2026.webp"
 ---
 
 Seoul is a metropolis defined by its striking duality. While the neon skyline of Gangnam represents the future, the ancient alleyways and palaces north of the Han River harbor centuries of secrets. For international travelers in 2026, exploring the urban legends and ghost stories of Seoul historical sites offers a compelling alternative to standard sightseeing. It provides a window into the Korean psyche, where shamanism, Confucian tragedy, and modern history collide.

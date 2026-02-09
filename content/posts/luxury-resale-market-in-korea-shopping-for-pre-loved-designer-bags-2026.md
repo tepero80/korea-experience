@@ -12,6 +12,7 @@ tags:
   - "Shopping"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/luxury-resale-market-in-korea-shopping-for-pre-loved-designer-bags-2026.webp"
 ---
 
 Finding high-quality, pre-loved designer luxury goods in South Korea has arguably become the world’s best-kept shopping secret for 2026. The short answer to your search is that **Seoul is currently the premier global destination for second-hand luxury shopping**, specifically for brands like Chanel, Hermès, and Louis Vuitton. This is due to the Korean cultural phenomenon of keeping items in "mint" condition and the rapid turnover of trends, which floods the market with barely-used inventory. While Tokyo has long been the vintage capital, Seoul has overtaken it in 2026 for *modern* resale—meaning bags from the last 1-5 years that look brand new but sell for 20-30% less than retail.

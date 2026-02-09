@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/seasonal-gift-giving-etiquette-in-korea-chuseok-and-seollal-2026.webp"
 ---
 
 Navigating the intricacies of Korean social etiquette can be challenging for international residents and travelers, but nowhere is this more apparent than during the two major national holidays: Seollal (Lunar New Year) and Chuseok (Korean Thanksgiving). As we approach the 2026 holiday season, the traditions of gift-giving remain a vital pillar of Korean society, serving as a tangible expression of *Jeong* (deep emotional connection) and respect.

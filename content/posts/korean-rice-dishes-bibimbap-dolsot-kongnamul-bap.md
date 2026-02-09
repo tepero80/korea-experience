@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "10 min read"
 featured: false
+image: "/images/posts/korean-rice-dishes-bibimbap-dolsot-kongnamul-bap.webp"
 ---
 
 In Korea, the word for rice, "bap," is synonymous with the word for meal. To ask "Have you eaten?" is to ask "Have you had rice?" This linguistic connection underscores the fundamental role rice plays in Korean cuisine. While plain steamed white rice is the canvas for most meals, Korean culinary history has evolved to create sophisticated one-bowl rice dishes that are visually stunning, nutritionally balanced, and incredibly flavorful.

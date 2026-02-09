@@ -12,6 +12,7 @@ tags:
   - "Shopping"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-stationery-culture-cute-school-supplies.webp"
 ---
 
 For many travelers landing at Incheon International Airport, the mission isn't just to eat kimchi or see a palace—it is to empty their suitcases and fill them with the world's most charming, high-quality, and affordable stationery. Korean stationery culture, or *munju* culture, is massive, ranging from practical ₩1,000 ($0.75 USD) study planners to designer sticker sheets that spark joy in students and professionals alike.

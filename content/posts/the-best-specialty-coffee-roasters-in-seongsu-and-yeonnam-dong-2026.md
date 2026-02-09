@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/the-best-specialty-coffee-roasters-in-seongsu-and-yeonnam-dong-2026.webp"
 ---
 
 Seoul’s transformation into a global coffee capital is complete. By 2026, the city is no longer just importing trends; it is setting them. For international travelers and serious coffee aficionados, the sheer density of high-quality roasters can be overwhelming. The coffee landscape in Seoul has bifurcated into two distinct spiritual homes: the industrial-chic warehouses of **Seongsu-dong** and the vibrant, park-side alleyways of **Yeonnam-dong**.

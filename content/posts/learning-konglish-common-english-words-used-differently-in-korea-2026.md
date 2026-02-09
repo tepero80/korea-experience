@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/learning-konglish-common-english-words-used-differently-in-korea-2026.webp"
 ---
 
 You have landed at Incheon International Airport, eager to start your Korean adventure. You speak English, so you assume you will get by easily. However, you walk into a cafe, ask for "cider," and are handed a lemon-lime soda instead of an alcoholic apple drink. You ask for a "napkin" at a restaurant, and the staff looks confused until you say "tissue." Welcome to the fascinating world of **Konglish**.

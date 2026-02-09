@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/social-life-making-korean-friends-as-an-expat.webp"
 ---
 
 Moving to South Korea offers a vibrant mix of neon-lit nightlife, serene mountain escapes, and a culinary scene that rivals any in the world. However, for many international residents, the true challenge lies not in navigating the subway system, but in navigating the social landscape. Building a genuine social circle and making Korean friends as an expat requires understanding specific cultural nuances, utilizing the right digital tools, and knowing exactly where to look.

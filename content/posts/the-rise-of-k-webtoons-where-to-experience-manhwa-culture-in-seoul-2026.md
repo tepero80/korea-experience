@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "9 min read"
 featured: false
+image: "/images/posts/the-rise-of-k-webtoons-where-to-experience-manhwa-culture-in-seoul-2026.webp"
 ---
 
 In 2026, the global influence of Korean culture has evolved beyond K-Pop and K-Drama into a new digital frontier: K-Webtoons. With the global market for webtoons projected to exceed $26.2 billion USD this year, Seoul has transformed into a pilgrimage site for fans of digital comics. What was once a niche hobby enjoyed on smartphones during subway commutes has exploded into physical spaces, from luxury reading lounges to immersive pop-up museums.

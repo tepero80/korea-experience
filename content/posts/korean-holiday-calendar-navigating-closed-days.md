@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/korean-holiday-calendar-navigating-closed-days.webp"
 ---
 
 Arriving in Seoul only to find your dream restaurant shuttered or the palaces overrun with crowds is a classic rookie mistake. South Korea's holiday calendar is a complex mix of fixed solar dates, shifting lunar festivals, and the government's unique "substitution holiday" system. For travelers and expats, understanding these "Red Days" (marked in red on Korean calendars) is not just about knowing when to celebrate—it is about logistical survival.

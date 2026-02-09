@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-street-food-classics-tteokbokki-hotteok-sundae.webp"
 ---
 
 The vibrant orange tarps of a *Pojangmacha* (street tent) are as iconic to the Korean landscape as the ancient palaces that stand behind them. For international travelers, the sensory overload of steam rising into the cold air, the rhythmic chopping of scissors, and the pungent aroma of spicy pepper paste is the true welcome to Korea. While the culinary scene in Seoul has evolved into a powerhouse of Michelin stars and fusion dining, the heart of the nation's food culture remains firmly planted on the sidewalk.

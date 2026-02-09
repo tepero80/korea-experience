@@ -12,6 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/pharmacy-essentials-pain-relief-and-wound-care-products.webp"
 ---
 
 If you are currently experiencing pain or have a minor injury in Korea, you do not need a prescription for most standard painkillers, muscle patches, or wound care ointments. **Go to any store with a "Yak" (약) sign; pharmacists are generally helpful and many speak basic English.**

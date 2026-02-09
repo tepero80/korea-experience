@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/k-pop-random-play-dance-events-in-seoul.webp"
 ---
 
 The electric energy of a synthesizer bass line cuts through the humid air of a Seoul evening. A crowd of hundreds forms a perfect circle, cameras raised in anticipation. As the chorus hits, three strangers dash into the center, executing perfect synchronization to NewJeans or BTS without exchanging a single word. This is the phenomenon of K Pop Random Play Dance events in Seoul, a cultural spectacle that has transformed from a niche hobby into a global tourist attraction.

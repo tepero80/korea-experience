@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-royal-court-cuisine-where-to-try-authentic-dishes-2026.webp"
 ---
 
 Stepping into the world of Korean Royal Court Cuisine, or *Kungjung Eumsik*, is far more than a simple dining experience; it is a time-traveling journey back to the Joseon Dynasty (1392–1910). Unlike the fiery, garlic-heavy dishes often associated with modern Korean street food, royal cuisine is defined by subtlety, balance, and mild flavors designed to be easily digested by the King. In 2026, the landscape of fine dining in Seoul has evolved, blending centuries-old recipes with modern gastronomic techniques, offering travelers a unique window into Korea's aristocratic past.

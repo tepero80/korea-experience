@@ -29,7 +29,7 @@ load_dotenv(PROJECT_ROOT / ".env.local")
 API_KEY = os.getenv("GEMINI_API_KEY", "")
 
 # ── 모델 ──
-IMAGE_MODEL = "gemini-3-pro-image-preview"      # 이미지 생성
+IMAGE_MODEL = "gemini-2.5-flash-image"             # 이미지 생성 (Nano Banana - 속도/할당량 최적화)
 SCENE_MODEL = "gemini-2.5-flash"                 # Scene description / 커버 요소
 CONVERT_MODEL = "gemini-3-pro-preview"           # MDX 변환
 RESEARCH_AGENT = "deep-research-pro-preview-12-2025"  # Deep Research API

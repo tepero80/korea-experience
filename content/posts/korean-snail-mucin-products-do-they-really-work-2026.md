@@ -12,6 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/korean-snail-mucin-products-do-they-really-work-2026.webp"
 ---
 
 If you have been scrolling through social media or walking the streets of Myeongdong lately, you have likely asked yourself: do those sticky, gooey Korean snail mucin products actually do anything for your skin, or is it just a gimmick?

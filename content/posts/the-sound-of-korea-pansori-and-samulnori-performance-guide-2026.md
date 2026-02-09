@@ -14,6 +14,7 @@ tags:
   - "Hongdae"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/the-sound-of-korea-pansori-and-samulnori-performance-guide-2026.webp"
 ---
 
 When you close your eyes and listen to the heartbeat of Korea, you don't hear K-Pop synthesizers; you hear the thunderous resonance of a drum and the raw, guttural wail of a storyteller. The sound of Korea is defined by two distinct yet interconnected traditions: **Pansori** (musical storytelling) and **Samulnori** (percussion quartet).

@@ -12,6 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/senior-medical-tourism-joint-replacement-and-cataract-surgery.webp"
 ---
 
 For international seniors facing long wait times or exorbitant costs at home, South Korea has emerged as the premier destination for high-quality, efficient joint replacement and cataract surgeries. In 2026, the combination of advanced robotic technology, comprehensive post-operative care, and transparent pricing makes Korea a superior choice for orthopedic and ophthalmologic procedures.

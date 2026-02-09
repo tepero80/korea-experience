@@ -14,6 +14,7 @@ tags:
   - "Banking"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/k-pop-busking-hongdae-street-performance-schedule.webp"
 ---
 
 The energy in Hongdae is palpable the moment you step out of the subway station. It is a vibrating mix of bass-heavy beats, cheering crowds, and the electric anticipation of seeing the next big K-Pop star before they debut. For international travelers and K-Culture enthusiasts, the Hongdae busking zone isn't just a street; it is the beating heart of Seoul's youth culture and the unofficial training ground for the country's immense entertainment industry.

@@ -12,6 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "16 min read"
 featured: false
+image: "/images/posts/medical-second-opinions-how-to-get-them-in-seoul.webp"
 ---
 
 Getting a medical second opinion in Seoul involves contacting the International Healthcare Center (IHC) of a tertiary hospital, submitting your existing medical records (specifically DICOM files for imaging and a doctor's referral letter), and scheduling a consultation which can often be arranged within 1 to 2 weeks. Seoul's medical infrastructure allows international patients to bypass standard domestic wait times through dedicated tracks, utilizing top-tier institutions like Asan Medical Center or Samsung Medical Center where English, Russian, Arabic, and Chinese interpretation services are integrated into the booking process.

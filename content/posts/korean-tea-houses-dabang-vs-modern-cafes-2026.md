@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-tea-houses-dabang-vs-modern-cafes-2026.webp"
 ---
 
 In 2026, the landscape of Korea's beverage culture is a fascinating study in contrasts. For international travelers landing at Incheon International Airport, the immediate immersion into a world where hyper-modernity brushes shoulders with centuries-old tradition is palpable. Nowhere is this more evident than in the battle for your beverage budget: the historic Korean tea houses (often referred to as *Dabang* or *Chatjip*) versus the ultra-modern, often tech-driven cafes that dominate the street corners of Seoul.

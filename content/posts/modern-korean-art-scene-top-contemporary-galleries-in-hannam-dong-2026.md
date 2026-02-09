@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/modern-korean-art-scene-top-contemporary-galleries-in-hannam-dong-2026.webp"
 ---
 
 By 2026, Hannam-dong has definitively cemented its status as the beating heart of the Asian art market. While Gangnam offers slick commercialism and Samcheong-dong holds onto traditional charm, Hannam-dong represents the perfect synthesis of Seoul's past and its hyper-modern future. Nestled between Namsan Mountain and the Han River, this neighborhood creates a unique "Art Valley" where blue-chip international heavyweights sit shoulder-to-shoulder with cutting-edge domestic curators.

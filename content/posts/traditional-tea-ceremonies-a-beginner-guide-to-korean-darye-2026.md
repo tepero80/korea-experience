@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/traditional-tea-ceremonies-a-beginner-guide-to-korean-darye-2026.webp"
 ---
 
 In the hyper-modern cityscape of Seoul, where digital billboards flash 8K advertisements and coffee chains occupy every corner, there exists a quiet, enduring counter-culture: Darye. Literally translating to "Etiquette for Tea," Darye is not merely about quenching thirst; it is a meditative practice that has survived over a thousand years of dynastic shifts. As we move through 2026, the global interest in "slow travel" and mindfulness has brought a resurgence of interest in traditional Korean tea culture among international visitors.

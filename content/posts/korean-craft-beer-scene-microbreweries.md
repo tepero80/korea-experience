@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-craft-beer-scene-microbreweries.webp"
 ---
 
 Gone are the days when a famous British chef jokingly compared South Korean mass-market beer to water. While giants like Cass and Terra still dominate the cheap lager market, the last decade has witnessed a seismic shift in the peninsula's brewing culture. Following a pivotal change in liquor tax laws in 2014, the Korean craft beer scene has exploded from a handful of pioneers to over 150 independent microbreweries operating nationwide as of early 2026.

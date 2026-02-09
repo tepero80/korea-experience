@@ -12,6 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/medical-tourism-for-plus-size-patients-korean-clinics-that-specialize.webp"
 ---
 
 Finding a Korean medical clinic that specializes in plus-size patients (BMI 30+) requires navigating a landscape where standard beauty norms often dictate facility capabilities, but it is entirely possible and increasingly common in 2026. While many smaller neighborhood clinics in Gangnam may turn away patients with a BMI over 30 due to anesthesia risks or equipment limitations, specific university hospitals and Tier-1 specialized centers have dedicated "safe surgery" protocols, reinforced operating tables, and specialized anesthesiologists to handle higher BMIs safely. The key is knowing which facilities have the infrastructure—specifically High-Flow Oxygen systems and dantrolene stocks—to manage complex cases.

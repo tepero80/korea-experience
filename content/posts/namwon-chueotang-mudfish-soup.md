@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/namwon-chueotang-mudfish-soup.webp"
 ---
 
 Namwon, a serene city located approximately 250 kilometers south of Seoul in Jeollabuk-do province, is famed for two things: the legendary love story of Chunhyang and its distinctive local cuisine, *Chueotang*. For the uninitiated, the concept of "mudfish soup" might sound intimidating, but this hearty, nutrient-dense dish is the ultimate comfort food for Koreans, particularly as a source of stamina during the changing seasons.

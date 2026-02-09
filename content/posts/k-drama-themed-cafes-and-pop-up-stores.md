@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/k-drama-themed-cafes-and-pop-up-stores.webp"
 ---
 
 Stepping into Seoul feels remarkably like walking onto the set of your favorite television series. For international fans, the line between fiction and reality blurs in the capital's vibrant cafe scene. Whether you are hunting for the romantic backdrop of a confession scene or seeking limited-edition merchandise at a fleeting pop-up event, K-drama themed cafes and stores offer an immersive cultural experience that goes far beyond a simple cup of coffee.

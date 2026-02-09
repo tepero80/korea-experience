@@ -14,6 +14,7 @@ tags:
   - "Phone"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-labor-laws-your-rights-as-a-foreign-employee-2026.webp"
 ---
 
 Navigating the workplace in a foreign country can be daunting, but understanding your legal footing is the first step toward a successful professional life in South Korea. As the expat community continues to grow—surpassing 2.5 million residents in late 2025—the South Korean government has rigorously updated the Labor Standards Act (LSA) to ensure fair treatment for all workers, regardless of nationality.

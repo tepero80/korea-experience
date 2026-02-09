@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/romantic-date-night-restaurants.webp"
 ---
 
 Seoul is a city that pulses with energy, but beneath its neon exterior lies a sophisticated landscape of intimate dining experiences perfectly designed for romance. Whether you are planning a marriage proposal, an anniversary celebration, or simply a memorable evening out, the Korean capital offers a spectrum of options that blend culinary excellence with breathtaking atmosphere. From the panoramic views of the Han River to the quiet alleys of traditional Hanok villages, choosing the right venue can elevate your trip from a simple vacation to a lifelong memory.

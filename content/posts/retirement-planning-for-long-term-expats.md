@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/retirement-planning-for-long-term-expats.webp"
 ---
 
 Retiring in South Korea was once considered an anomaly for Western expats. The traditional trajectory involved teaching English or working corporately for a few years before returning "home" to settle down. However, the paradigm has shifted. With South Korea’s world-class healthcare system, safe streets, and vibrant lifestyle, a growing number of long-term residents are choosing to make the peninsula their permanent home post-retirement.

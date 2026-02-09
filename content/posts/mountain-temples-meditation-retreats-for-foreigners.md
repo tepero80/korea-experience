@@ -13,6 +13,7 @@ tags:
   - "Seoul"
 readTime: "16 min read"
 featured: true
+image: "/images/posts/mountain-temples-meditation-retreats-for-foreigners.webp"
 ---
 
 For international travelers seeking a profound escape from the hyper-connected world, Korea’s mountain temple stays (Templestay) offer a unique blend of cultural immersion, spiritual healing, and breathtaking nature. Unlike expensive wellness resorts, these government-subsidized programs allow foreigners to live alongside Buddhist monks in centuries-old monasteries for as little as ₩50,000 to ₩100,000 per night. Whether you are looking to practice 108 prostrations, engage in *Sunmudo* martial arts, or simply drink tea in silence while gazing at a mountain vista, there is a specific program designed for you.

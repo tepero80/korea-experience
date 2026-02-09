@@ -13,6 +13,7 @@ tags:
   - "Living in Korea"
 readTime: "15 min read"
 featured: true
+image: "/images/posts/taxi-apps-in-korea-kakao-vs-uber-alternatives.webp"
 ---
 
 Navigating the bustling streets of Seoul or the coastal roads of Busan can be daunting if you don't speak the language, but the revolution in Korean taxi apps has made travel significantly easier for international visitors. While hailing a cab from the street is still possible, the convenience of inputting your destination in English and seeing an estimated fare beforehand is unbeatable. The primary dilemma for travelers in 2026 remains the choice between the local giant, Kakao T, and the globally familiar Uber.

@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-retirement-system-for-foreigners-national-pension-refunds-2026.webp"
 ---
 
 Leaving South Korea after a stint of teaching, engineering, or corporate work marks the end of a significant chapter. However, before you pack your bags and head to Incheon International Airport, there is one critical financial task that could net you thousands of dollars: claiming your National Pension Service (NPS) Lump-sum Refund. As we move into 2026, the process has become more streamlined digitally, yet the bureaucratic requirements remain strict.

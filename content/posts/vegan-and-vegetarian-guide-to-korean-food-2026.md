@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/vegan-and-vegetarian-guide-to-korean-food-2026.webp"
 ---
 
 Navigating South Korea as a vegan or vegetarian has historically been viewed as a culinary obstacle course. For decades, the country was jokingly referred to as a "meat republic," where even vegetable dishes came seasoned with brined shrimp or beef powder. However, the landscape has shifted dramatically. As of early 2026, the vegan market in South Korea has expanded by over 35% annually, driven by health-conscious younger generations and a surge in eco-tourism.

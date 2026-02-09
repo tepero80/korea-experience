@@ -12,6 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-department-store-rewards-points-and-vip.webp"
 ---
 
 Understanding the loyalty landscape of Korea’s "Big Three" department stores—Shinsegae, Lotte, and Hyundai—can significantly enhance your shopping experience, whether you are a short-term tourist looking for tax refunds or a long-term resident aiming for VIP lounge access. For international visitors, the system can seem opaque, often requiring a Korean phone number or Alien Registration Card (ARC) to fully participate, yet there are specific loopholes and global membership tiers available in 2026 that many overlook.

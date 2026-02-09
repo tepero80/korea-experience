@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-traditional-music-and-performance-guide-2026.webp"
 ---
 
 Korean traditional music, or *Gugak*, is the heartbeat of the nation's history, resonating through the palaces of Seoul and the folk villages of the countryside. As we enter the 2026 travel season, the landscape of Korean performance art has evolved, blending 5,000 years of history with cutting-edge digital scenography. Whether you are seeking the solemnity of royal court music or the energetic rhythm of a fusion percussion show, this guide serves as your comprehensive roadmap.

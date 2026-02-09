@@ -14,6 +14,7 @@ tags:
   - "Hidden Gems"
 readTime: "16 min read"
 featured: false
+image: "/images/posts/vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026.webp"
 ---
 
 Dongmyo Flea Market is Seoul’s premier destination for vintage shopping, offering everything from ₩2,000 clothing piles to curated luxury boutiques within a chaotic, vibrant historical district. Located just outside Exit 3 of Dongmyo Station, this market sprawls across 30,000 square meters and operates daily, though weekends are the peak time for inventory volume. Visitors in 2026 can expect to find genuine heritage brands like Carhartt, Ralph Lauren, and Burberry mixed in with unbranded goods, with prices ranging from ₩1,000 for accessories to ₩150,000 for rare leather pieces.

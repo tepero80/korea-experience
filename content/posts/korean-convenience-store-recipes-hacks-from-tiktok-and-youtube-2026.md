@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-convenience-store-recipes-hacks-from-tiktok-and-youtube-2026.webp"
 ---
 
 The culture of the *Pyeonuijeom* (convenience store) in South Korea has transcended mere necessity to become a culinary genre of its own. In 2026, the trend of "Mod-sumers"—consumers who modify standard products to create something entirely new—has reached fever pitch on platforms like TikTok and YouTube. For international travelers and expats, navigating a CU, GS25, or 7-Eleven is no longer just about grabbing a bottle of water; it is about participating in a gastronomic ritual that is distinctly Korean.

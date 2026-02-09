@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "10 min read"
 featured: false
+image: "/images/posts/k-pop-music-video-filming-locations-map.webp"
 ---
 
 For K-Pop fans worldwide, South Korea is not just a travel destination; it is a pilgrimage site. The phenomenon known locally as "Seongji Sullye" (pilgrimage) involves visiting the exact spots where iconic music videos, album jackets, and variety shows were filmed. From the neon-lit streets of Seoul to the serene beaches of Gangwon-do, the K Pop music video filming locations map covers the entire peninsula.

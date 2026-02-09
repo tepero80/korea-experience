@@ -14,6 +14,7 @@ tags:
   - "Hanbok"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-funeral-traditions-understanding-death-and-remembrance-2026.webp"
 ---
 
 Navigating the cultural landscape of death and remembrance in a foreign country can be one of the most daunting experiences for an expat or traveler. In South Korea, funeral traditions—known as *Jangrye*—are a profound blend of deep-rooted Confucian values and hyper-modern efficiency. Unlike Western services that often last a few hours, a Korean funeral is an immersive three-day event that emphasizes communal mourning, filial piety, and the collective sharing of grief.

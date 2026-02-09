@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-fermented-foods-beyond-kimchi-cheonggukjang-and-meju-2026.webp"
 ---
 
 When international travelers think of Korean fermentation, Kimchi is invariably the first dish that comes to mind. However, to truly understand the soul of Korean cuisine (Hansik), one must venture deeper into the pantry, past the red chili flakes, and into the earthy, pungent world of *Jang* (fermented sauces and pastes). Specifically, the foundational blocks of Korean flavor: **Meju** (dried soybean bricks) and the intensely aromatic **Cheonggukjang** (fast-fermented bean paste).

@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/medical-tourism-package-deals-worth-it-or-tourist-trap.webp"
 ---
 
 Deciding whether to book a medical tourism package or navigate Korea’s vast healthcare system independently is the first and most critical decision you will make before your trip. For many international visitors, the allure of an "all-inclusive" transformation vacation—where airport pickups, surgery, hotel stays, and aftercare are bundled into one price—is tempting. However, the markup on these packages can range significantly, and in some cases, travelers pay thousands of dollars more for services they could easily arrange themselves.

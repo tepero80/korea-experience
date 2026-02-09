@@ -12,6 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/korean-drinking-etiquette-pouring-and-toasting.webp"
 ---
 
 Understanding Korean drinking etiquette pouring and toasting customs is the fastest way to bridge the cultural gap and earn respect in South Korea. Alcohol acts as the primary social lubricant in Korean society, breaking down hierarchical stiffness and fostering deeper bonds between colleagues and friends.

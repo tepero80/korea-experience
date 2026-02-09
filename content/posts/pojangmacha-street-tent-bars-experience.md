@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/pojangmacha-street-tent-bars-experience.webp"
 ---
 
 The sun sets over Seoul, casting long shadows across the Han River. As the gleaming skyscrapers of the financial district dim their lights, a different kind of city awakens at street level. They appear almost magically around 6:00 PM—bright orange tarpaulins, plastic stools, and the savory steam of fish cake soup wafting into the cool night air. These are the **Pojangmacha**, Korea's iconic street tent bars, and they offer one of the most authentic cultural experiences available to international travelers.

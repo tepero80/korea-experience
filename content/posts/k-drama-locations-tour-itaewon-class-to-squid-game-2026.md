@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "10 min read"
 featured: false
+image: "/images/posts/k-drama-locations-tour-itaewon-class-to-squid-game-2026.webp"
 ---
 
 South Korea’s cultural influence has only deepened since the Hallyu wave first crashed onto global shores. By 2026, the landscape of K-Drama tourism has evolved from a niche hobby into a primary travel motivation for over 45% of international visitors to Seoul. Whether you are retracing the steps of Park Sae-ro-yi from the 2020 classic *Itaewon Class* or hunting for the dystopian backdrops of *Squid Game* Season 2, Seoul serves as a living, breathing soundstage.

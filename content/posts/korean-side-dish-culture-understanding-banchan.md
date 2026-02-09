@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/korean-side-dish-culture-understanding-banchan.webp"
 ---
 
 Walking into a Korean restaurant for the first time can be a disorienting experience for the uninitiated. You order a single main dish—perhaps a bubbling Kimchi-jjigae or sizzling Bulgogi—yet within 10 minutes, your table is crowded with anywhere from five to twelve small plates containing colorful vegetables, ferments, and savory bites. This is the world of **Banchan**, the cornerstone of Korean cuisine that transforms a simple meal into a communal feast.

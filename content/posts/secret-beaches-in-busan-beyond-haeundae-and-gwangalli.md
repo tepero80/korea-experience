@@ -12,6 +12,7 @@ tags:
   - "Gijang Cafes"
 readTime: "16 min read"
 featured: true
+image: "/images/posts/secret-beaches-in-busan-beyond-haeundae-and-gwangalli.webp"
 ---
 
 While Haeundae and Gwangalli are undeniably the poster children of Busan’s coastline, relying solely on them means missing out on the authentic coastal soul of South Korea's second-largest city. If you are looking for secret beaches in Busan, the answer lies in heading either far west to the sunset-soaked mudflats or north to the rugged cafe-lined cliffs of Gijang.

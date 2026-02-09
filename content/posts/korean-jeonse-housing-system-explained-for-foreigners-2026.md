@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "9 min read"
 featured: false
+image: "/images/posts/korean-jeonse-housing-system-explained-for-foreigners-2026.webp"
 ---
 
 Moving to South Korea offers an exciting cultural immersion, but it also presents one of the most unique real estate landscapes in the world. If you are planning to live here long-term, you will inevitably encounter the term **Jeonse**. Unlike the standard monthly rent system found in most Western countries, the Korean Jeonse housing system requires a massive lump-sum deposit—often reaching hundreds of thousands of dollars—in exchange for paying zero monthly rent.

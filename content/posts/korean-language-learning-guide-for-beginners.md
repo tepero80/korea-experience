@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/korean-language-learning-guide-for-beginners.webp"
 ---
 
 Learning a new language can be daunting, but Korean offers a unique advantage: its writing system, Hangul, was scientifically designed to be easy to learn. Unlike Chinese characters or the multiple scripts of Japanese, Hangul can often be deciphered by a complete beginner in a single afternoon. Whether you are planning a 10-day trip to Seoul or a year-long working holiday, understanding the basics of the language will transform your experience from that of a passive observer to an active participant in Korean culture.

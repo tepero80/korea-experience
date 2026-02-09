@@ -12,6 +12,7 @@ tags:
   - "Weekend Getaways"
 readTime: "16 min read"
 featured: true
+image: "/images/posts/the-coffee-trail-exploring-gangneung-famous-cafe-street-2026.webp"
 ---
 
 Gangneung Coffee Street, located along the pristine coastline of Anmok Beach, is South Korea’s premier destination for coffee enthusiasts, featuring over 30 specialized roasteries and cafes packed into a 500-meter stretch. Unlike the franchise-heavy streets of Seoul, this unique district offers artisanal brewing experiences where the average cup of hand-drip coffee costs between ₩6,000 and ₩9,000, served against a backdrop of the East Sea.

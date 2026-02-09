@@ -14,6 +14,7 @@ tags:
   - "Jeju"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/jeju-black-pork-where-to-eat-on-the-island.webp"
 ---
 
 Jeju Island, often termed the "Hawaii of Korea," is famous for its stunning volcanic landscapes, but for culinary travelers, it is synonymous with one thing: **Jeju Black Pork** (Heuk-dwaeji). Unlike standard pork found on the mainland, the native black pig of Jeju offers a distinct gastronomic experience characterized by a chewier texture, deeper flavor profile, and fat that renders into a savory, steak-like richness.

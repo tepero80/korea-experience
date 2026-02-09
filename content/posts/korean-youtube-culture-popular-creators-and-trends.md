@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/korean-youtube-culture-popular-creators-and-trends.webp"
 ---
 
 South Korea is arguably the most digitally connected society on Earth, and nowhere is this more evident than in its YouTube culture. For international travelers and expats, YouTube is not just an entertainment platform; it is a vital search engine, a cultural translator, and a window into the hyper-fast trends of Seoul. While the world knows K-Pop, the domestic ecosystem of creators—ranging from silent introverts documenting their study habits to high-energy hosts reviewing convenience store snacks—offers a much deeper look into the Korean psyche.

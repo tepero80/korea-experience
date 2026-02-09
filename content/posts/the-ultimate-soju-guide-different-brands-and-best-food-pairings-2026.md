@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/the-ultimate-soju-guide-different-brands-and-best-food-pairings-2026.webp"
 ---
 
 Soju is more than just a spirit; it is the social fuel of South Korea. By 2026, the landscape of this iconic clear liquor has evolved significantly, shifting from a market dominated purely by mass-produced "green bottles" to a sophisticated ecosystem of artisanal distillers and premium blends. While the ubiquitous green bottle remains the world's best-selling spirit—shifting over 90 million cases annually—travelers visiting Seoul, Busan, or Jeju today are just as likely to encounter smooth, barrel-aged varieties costing upwards of ₩30,000 ($23 USD) as they are the classic ₩1,900 ($1.40 USD) convenience store staples.

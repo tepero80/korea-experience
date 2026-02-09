@@ -14,6 +14,7 @@ tags:
   - "Concert"
 readTime: "10 min read"
 featured: false
+image: "/images/posts/k-pop-fan-cafe-culture-daum-vs-weverse.webp"
 ---
 
 For international K-Pop fans, the journey often begins with a music video on YouTube, but the true destination is the "Fan Cafe." This digital ecosystem is the beating heart of Korean fandom culture, a gated community where idols and fans interact directly. However, for the uninitiated—especially those planning a pilgrimage to Seoul—navigating the duality of the traditional **Daum Fan Cafe** and the modern global juggernaut **Weverse** can be overwhelming.

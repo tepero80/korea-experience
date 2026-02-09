@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/korean-crafts-making-your-own-mother-of-pearl-najeon-chilgi-art-2026.webp"
 ---
 
 The shimmering iridescence of mother-of-pearl has captivated Korean artistry for over a millennium. As we step into 2026, the ancient craft of **Najeon Chilgi** (lacquerware inlaid with mother-of-pearl) is experiencing a massive resurgence, fueled by the "New-tro" (New + Retro) trend sweeping through Seoul. For international travelers, making your own mother-of-pearl art is no longer just a museum observation—it is one of the most sought-after hands-on experiences in South Korea.

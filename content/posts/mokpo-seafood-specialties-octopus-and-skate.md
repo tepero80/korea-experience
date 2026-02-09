@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/mokpo-seafood-specialties-octopus-and-skate.webp"
 ---
 
 Located on the southwestern tip of the Korean Peninsula, roughly 350 kilometers from Seoul, Mokpo is a city defined by its relationship with the sea. Known domestically as "The City of Flavor," Mokpo holds a distinct culinary reputation that rivals the more internationally famous Jeonju. While the city boasts nine official distinct tastes, two ingredients stand out as the absolute crown jewels of the region: the wriggling "thin-legged" octopus (*Sebal Nakji*) and the pungent, fermented skate (*Hongeo*).

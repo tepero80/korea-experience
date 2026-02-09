@@ -12,6 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/korean-clinic-payment-methods-insurance-credit-cards-and-refunds.webp"
 ---
 
 Most international travelers visiting Korean clinics can pay using major international credit cards (Visa, Mastercard), cash (Korean Won or USD), or wire transfers. However, coverage by international insurance is rare for outpatient cosmetic procedures, meaning you will likely pay upfront and claim reimbursement later. Importantly, tourists are eligible for a **10% VAT tax refund** on cosmetic surgeries if the clinic is a registered medical tourism provider.

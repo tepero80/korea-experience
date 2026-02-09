@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/tattoo-removal-picosure-vs-q-switch-laser.webp"
 ---
 
 If you are looking to remove an unwanted tattoo while visiting Seoul, the primary decision you will face is choosing between the two dominant technologies: the traditional Q-Switch laser and the modern PicoSure laser.

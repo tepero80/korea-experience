@@ -14,6 +14,7 @@ tags:
   - "Insadong"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/traditional-instrument-workshops-gayageum-and-janggu.webp"
 ---
 
 The sound of Korea is distinct. It is the deep, resonant thrum of silk strings against paulownia wood and the heart-pounding vibration of hourglass drums. For international travelers, listening to traditional Korean music (Gugak) is a moving experience, but learning to play these instruments offers a connection to the culture that sightseeing alone cannot provide.

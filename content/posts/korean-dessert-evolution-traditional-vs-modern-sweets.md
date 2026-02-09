@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/korean-dessert-evolution-traditional-vs-modern-sweets.webp"
 ---
 
 The landscape of Korean cuisine is often defined by its savory powerhouses—kimchi, barbecue, and spicy stews. However, a sugar-coated revolution has taken over the peninsula, transforming Seoul into one of the world's dessert capitals. For international travelers landing in 2026, the contrast is striking: you are just as likely to queue for 90 minutes for a traditional honey cookie from the Joseon Dynasty as you are for a hyper-modern, basil-infused croissant.

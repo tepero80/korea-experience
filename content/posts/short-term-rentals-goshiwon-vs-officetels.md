@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/short-term-rentals-goshiwon-vs-officetels.webp"
 ---
 
 Finding the right accommodation in South Korea can be a daunting task for international travelers and digital nomads. The terminology is unique, the deposit systems are complex, and the sheer density of options—Seoul alone boasts over 16,000 people per square kilometer—can be overwhelming. When looking for short-term rentals (1 to 6 months), the choice usually narrows down to two distinct contenders: the ultra-budget **Goshiwon** (often rebranded as Goshitel) and the modern, private **Officetel**.

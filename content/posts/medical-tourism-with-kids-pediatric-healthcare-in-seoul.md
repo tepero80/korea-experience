@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/medical-tourism-with-kids-pediatric-healthcare-in-seoul.webp"
 ---
 
 Finding quality healthcare for your children while traveling or living abroad is a top priority for any parent. In Seoul, South Korea, accessing world-class pediatric care is not only possible but often more efficient and affordable than in many Western countries. Whether you are facing a sudden fever during a family vacation or planning a specific medical procedure for your child, Seoul offers a robust network of International Healthcare Centers (IHCs) within major university hospitals, as well as specialized local clinics designed to make the experience as stress-free as possible.

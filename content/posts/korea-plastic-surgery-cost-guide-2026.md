@@ -12,6 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korea-plastic-surgery-cost-guide-2026.webp"
 ---
 
 Planning a medical trip to Seoul involves navigating a complex landscape of pricing, procedure types, and clinic tiers. You likely want to know exactly how much to budget for plastic surgery in Korea in 2026 to ensure you aren't overcharged while maintaining the highest safety standards.

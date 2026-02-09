@@ -12,6 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/korean-cleansing-oil-double-cleanse-method.webp"
 ---
 
 The Korean double cleanse method is a two-step skincare ritual that involves using an oil-based cleanser followed by a water-based cleanser to thoroughly remove impurities, sunscreen, and makeup without stripping the skin's natural moisture barrier. This foundational pillar of K-Beauty is the primary reason behind the "glass skin" phenomenon, ensuring that pores are free of sebum plugs and canvas-ready for subsequent skincare steps like toners and essences.

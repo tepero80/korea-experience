@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-street-food-guide-30-foods-to-try-2026.webp"
 ---
 
 The streets of Seoul, Busan, and Jeonju are alive with the scent of grilling meats, simmering broths, and sweet pastries. In 2026, Korean street food culture has evolved from simple sustenance to a global culinary phenomenon. While inflation has adjusted prices slightly—with most snacks now averaging between ₩2,000 and ₩7,000—the quality and variety remain unmatched in Asia.

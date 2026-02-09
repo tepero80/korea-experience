@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/korean-banchan-side-dishes-complete-guide-2026.webp"
 ---
 
 Welcome to the vibrant, flavorful, and often overwhelming world of **Banchan** (Korean side dishes). If you have ever walked into a Korean restaurant, ordered a simple stew, and suddenly found your table crowded with six, twelve, or even twenty small plates, you have experienced the generosity of Korean dining culture. In 2026, the global fascination with Korean cuisine continues to skyrocket, yet Banchan remains the unsung hero that transforms a simple bowl of rice into a royal feast.

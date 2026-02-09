@@ -12,6 +12,7 @@ tags:
   - "Healing"
 readTime: "16 min read"
 featured: false
+image: "/images/posts/rural-farm-stays-agritourism-experiences.webp"
 ---
 
 For many international travelers, a trip to South Korea begins and ends within the neon-lit streets of Seoul or the coastal buzz of Busan. However, a massive shift in travel trends is directing visitors toward the quiet, mist-covered mountains and verdant valleys of the countryside. You are likely looking for how to access these authentic experiences, what they cost, and how to navigate the language barrier in rural areas.

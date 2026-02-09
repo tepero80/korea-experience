@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "10 min read"
 featured: false
+image: "/images/posts/living-in-a-goshiwon-vs-officetel-pros-cons-and-costs-2026.webp"
 ---
 
 Finding accommodation in South Korea is the first major hurdle for any expat, student, or digital nomad arriving in 2026. Two terms dominate the rental market conversation: **Goshiwon** and **Officetel**. While both provide viable housing solutions in dense urban areas like Seoul and Busan, they cater to vastly different budgets, lifestyles, and contract durations.
