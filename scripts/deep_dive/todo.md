@@ -47,7 +47,7 @@
 45. [K] Queen of Tears filming locations  | done  | RIC  | 2026-02-09
 46. [L] Climate Card: Is it worth it for 30 days?  | done  | RIC  | 2026-02-09
 47. [F] Convenience Store Must-Buys: GS25 vs. CU  | done  | RIC  | 2026-02-09
-48. [S] Korean glasses and lenses in 30 mins
+48. [S] Korean glasses and lenses in 30 mins  | done  | RIC  | 2026-02-09
 49. [M] Comparing Botox: Coretox vs. Innotox vs. Allergan
 50. [T] Temple Stay for non-Buddhists
 51. [K] Seoul's indie music hubs

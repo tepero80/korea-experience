@@ -147,6 +147,27 @@ def sanitize_mdx(content: str) -> tuple[str, list[str]]:
     """MDX 내용을 자동 검증/수정합니다."""
     fixes = []
 
+    # ── Frontmatter title/excerpt 따옴표 보정 ──
+    # 콜론, 앰퍼샌드 등 YAML 특수문자가 포함된 경우 따옴표로 감싸기
+    def quote_frontmatter_field(content, field):
+        pattern = re.compile(
+            rf'^({field}:\s*)(?!")(.+)$', re.MULTILINE
+        )
+        m = pattern.search(content)
+        if m and any(ch in m.group(2) for ch in [':', '&', '#', '{', '}', '[', ']', ',', '>', '|', '*', '?', '!', '%', '@', '`']):
+            val = m.group(2).strip().replace('"', '\\"')
+            content = content[:m.start()] + f'{m.group(1)}"{val}"' + content[m.end():]
+            fixes.append(f'Frontmatter: quoted {field} (special chars)')
+        return content
+
+    content = quote_frontmatter_field(content, 'title')
+    content = quote_frontmatter_field(content, 'excerpt')
+
+    # ── InfoBox 닫는 꺾쇠 중복 제거 (>> → >) ──
+    if re.search(r'<InfoBox\b[^>]*>>', content):
+        content = re.sub(r'(<InfoBox\b[^>]*?)>>', r'\1>', content)
+        fixes.append('InfoBox: removed duplicate closing bracket (>>)')
+
     # 코드블록 래퍼 제거
     if content.startswith("```markdown") or content.startswith("```mdx") or content.startswith("```"):
         content = re.sub(r"^```(?:markdown|mdx)?\n", "", content)

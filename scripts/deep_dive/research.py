@@ -79,10 +79,12 @@ def run_deep_research(prompt: str, api_key: str) -> str:
                 print(f"\n✅ 완료! ({mins}분 {secs}초, {len(result):,}자)")
                 return result
         
-        print(f"\n   (스트림 종료, 총 {event_count}개 이벤트 수신)")
+        # 스트림 끊김 - 상태 출력
+        current_text = "".join(full_text)
+        print(f"\n   (스트림 종료, 총 {event_count}개 이벤트 수신, 누적 텍스트: {len(current_text):,}자)")
         return None
 
-    # 1. 초기 스트림 시도
+    # 1. 초기 스트림 시도 (interaction_id 획득용)
     try:
         initial_stream = client.interactions.create(
             input=prompt, agent=RESEARCH_AGENT, background=True, stream=True,
@@ -96,41 +98,34 @@ def run_deep_research(prompt: str, api_key: str) -> str:
         import traceback
         traceback.print_exc()
 
-    # 2. 재개 루프 (최대 10회 시도)
-    max_retries = 10
-    retry_count = 0
-    
-    while not is_complete and interaction_id and retry_count < max_retries:
-        retry_count += 1
-        print(f"\n🔄 스트림 재개 중... (시도 {retry_count}/{max_retries}, event_id: {last_event_id})")
-        time.sleep(2)
-
-        try:
-            resume_stream = client.interactions.get(
-                id=interaction_id,
-                stream=True,
-                last_event_id=last_event_id
-            )
-            result = process_stream(resume_stream)
-            if result:
-                return result
-        except Exception as e:
-            print(f"⚠️ 재개 실패: {e}")
-
-    # 3. 재개 실패 시 최종 상태 확인
+    # 2. 스트림 끊김 → 즉시 폴링으로 전환
     if not is_complete and interaction_id:
-        print(f"\n🔍 재개 실패 - 서버 상태 확인 중...")
-        try:
-            final_interaction = client.interactions.get(interaction_id)
-            if final_interaction.status == "completed":
-                result = final_interaction.outputs[-1].text
+        print(f"\n🔄 스트림 끊김 → 폴링 모드로 전환 (30초 간격)")
+        poll_interval = 30
+        max_poll_time = 2400  # 최대 40분 대기
+        poll_start = time.time()
+        
+        while time.time() - poll_start < max_poll_time:
+            time.sleep(poll_interval)
+            try:
+                check = client.interactions.get(interaction_id)
                 elapsed = time.time() - start_time
                 mins, secs = int(elapsed // 60), int(elapsed % 60)
-                print(f"✅ 서버에서 완료됨! ({mins}분 {secs}초, {len(result):,}자)")
-                return result
-            else:
-                print(f"❌ 서버 상태: {final_interaction.status}")
-                raise RuntimeError(f"❌ 작업 미완료: {final_interaction.status}")
-        except Exception as e:
-            print(f"❌ 상태 확인 실패: {e}")
-            raise RuntimeError(f"❌ 스트림 재개 {max_retries}회 시도 후 실패")
+                status = check.status
+                print(f"   [{mins:02d}:{secs:02d}] 상태: {status}")
+                
+                if status == "completed":
+                    result = check.outputs[-1].text
+                    print(f"\n✅ 완료! ({mins}분 {secs}초, {len(result):,}자)")
+                    return result
+                elif status in ("failed", "cancelled"):
+                    raise RuntimeError(f"❌ 리서치 실패: {status}")
+                    
+            except RuntimeError:
+                raise
+            except Exception as e:
+                print(f"   ⚠️ 폴링 에러: {e}")
+        
+        raise RuntimeError(f"❌ 최대 대기 시간 초과 (총 {int((time.time()-start_time)//60)}분)")
+    
+    raise RuntimeError("❌ Interaction ID를 받지 못했습니다.")
