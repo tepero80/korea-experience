@@ -5,6 +5,7 @@ excerpt: "Unpack the real cost of a 7-day trip to Korea in 2026. This guide deta
 category: Travel & Tourism
 author: Korea Experience Team
 featured: true
+image: "/images/posts/how-much-does-a-7-day-trip-to-korea-cost-in-2026-budget-vs-luxury-breakdown.webp"
 featuredOrder: 5
 tags:
   - "Korean Food"

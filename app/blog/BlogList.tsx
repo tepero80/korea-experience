@@ -53,17 +53,20 @@ export default function BlogList({ allPosts }: BlogListProps) {
     allPosts
       .filter(post => post.deepDive === true)
       .sort((a, b) => {
-        // Sort by deepDiveOrder if available, otherwise by date
+        // Sort by date (newest first), then by deepDiveOrder
+        if (a.date !== b.date) return a.date < b.date ? 1 : -1;
         if (a.deepDiveOrder && b.deepDiveOrder) {
           return a.deepDiveOrder - b.deepDiveOrder;
         }
-        return a.date < b.date ? 1 : -1;
+        return 0;
       }),
     [allPosts]
   );
 
   const regularPosts = useMemo(() => 
-    allPosts.filter(post => post.deepDive !== true),
+    allPosts
+      .filter(post => post.deepDive !== true)
+      .sort((a, b) => (a.date < b.date ? 1 : -1)),
     [allPosts]
   );
 

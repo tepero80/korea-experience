@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/historic-kdrama-sets-folk-villages-and-palaces.webp"
 ---
 
 For international fans of Korean culture, the allure of *Sageuk* (historical dramas) lies not just in the intricate plotlines, but in the breathtaking visual storytelling. Stepping onto historic Kdrama sets folk villages and palaces allows travelers to transcend the screen and walk the same soil as their favorite Joseon Dynasty characters. From the regal architecture of Seoul's grand palaces to the rustic charm of purpose-built folk villages in the provinces, these locations offer an immersive journey into Korea's past.

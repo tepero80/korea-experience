@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/how-to-get-a-credit-card-in-korea-as-an-expat-2026.webp"
 ---
 
 Navigating the financial landscape of South Korea can be one of the most daunting challenges for international residents. In a country where 98% of retail transactions are cashless and digital wallets reign supreme, relying solely on cash or international cards with hefty transaction fees is no longer a viable long-term strategy.

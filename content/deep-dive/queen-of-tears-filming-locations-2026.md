@@ -73,7 +73,7 @@ If you are a "Romantic Soul" based in Europe or planning a Euro-trip, the German
 ]} />
 
 <ComparisonTable headers={['Feature', 'Seoul City Tour', 'Provincial Tour', 'Germany Tour']} rows={[
-  { feature: 'Cost', option1: '$$ (Public transit)', option2: '$$$ (KTX/Bus + fees)', option3: '$$$$$ (Flights + Euro)' },
+  { feature: 'Cost', option1: 'Low (₩5,000–₩10,000)', option2: 'Medium (₩30,000–₩80,000)', option3: 'High (€500+ flights)' },
   { feature: 'Time Required', option1: '1–2 Days', option2: '1 Full Day per city', option3: '5–7 Days' },
   { feature: 'Accessibility', option1: 'Very Easy (Subway)', option2: 'Medium (Train + Taxi)', option3: 'Medium (Intl Travel)' },
   { feature: 'Vibe', option1: 'Modern Luxury', option2: 'Rustic, Nature', option3: 'Romantic, Historic' },

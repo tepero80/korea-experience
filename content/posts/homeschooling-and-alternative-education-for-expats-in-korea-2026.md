@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/homeschooling-and-alternative-education-for-expats-in-korea-2026.webp"
 ---
 
 For many expatriate families moving to or living in South Korea, the education conversation typically revolves around two polarized options: the hyper-competitive local Korean public school system or the exorbitantly expensive international schools. However, as we move into 2026, a third path has widened significantly. Homeschooling and alternative education (known locally as *Daean Hakgyo*) have evolved from niche choices into robust, viable lifestyle strategies for global families residing in Seoul, Busan, and beyond.

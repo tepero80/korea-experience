@@ -14,6 +14,7 @@ tags:
   - "Fillers"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/how-to-choose-a-clinic-in-korea-red-flags.webp"
 ---
 
 Identifying red flags when choosing a clinic in Korea requires a keen eye for specific warning signs: lack of CCTV in operating rooms, refusal to provide a detailed breakdown of costs (VAT refunds), consultants preventing you from speaking directly with the doctor for more than five minutes, and signage that fails to distinguish between board-certified specialists and general practitioners. While South Korea offers world-class medical care, the density of clinics—particularly in Gangnam, where over 500 clinics operate within a 2-kilometer radius—means that profit-driven entities exist alongside reputable institutions. The most critical red flag in 2026 remains the "shadow doctor" (ghost surgery) risk, where a different doctor performs the surgery than the one you consulted with.

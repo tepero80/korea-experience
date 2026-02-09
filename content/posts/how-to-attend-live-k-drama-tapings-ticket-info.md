@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/how-to-attend-live-k-drama-tapings-ticket-info.webp"
 ---
 
 The dream of stumbling upon a bustling film set in the streets of Seoul or sitting in the audience as your favorite Hallyu stars accept a prestigious award is a driving force for many travelers visiting South Korea. With the global explosion of K-content, the demand to witness the magic of K-Dramas in person has skyrocketed. However, unlike K-Pop music shows which have established lottery systems, the world of drama production is notoriously secretive and guarded.

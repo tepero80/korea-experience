@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/home-insurance-for-expats-what-to-cover.webp"
 ---
 
 Securing a place to live is often the most significant milestone for any expatriate moving to South Korea. Whether you have navigated the high-deposit "Jeonse" system or the monthly rent "Wolse" system, protecting your new sanctuary is the next critical step. While South Korea is statistically one of the safest countries globally, with violent crime rates significantly lower than Western averages, the financial risks associated with housing are distinct and often misunderstood by foreigners.

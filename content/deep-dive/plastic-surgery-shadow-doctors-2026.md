@@ -78,7 +78,7 @@ Third, you have **University Hospitals** (like SNU or Asan). These are the safes
   title="Clinic Types: Where is the Risk?"
   headers={["Feature", "Factory Clinic", "Boutique Clinic", "University Hospital"]}
   rows={[
-    { feature: "Cost", option1: "Lowest ($-$$)", option2: "Mid to High ($$-$$$)", option3: "Highest ($$$$$)" },
+    { feature: "Cost", option1: "Lowest (₩1.5M–₩4M)", option2: "Mid to High (₩4M–₩10M)", option3: "Highest (₩10M+)" },
     { feature: "Consultation", option1: "Rushed (Consultant driven)", option2: "Detailed (Surgeon driven)", option3: "Very Formal & Thorough" },
     { feature: "Surgeon", option1: "Star Doctor on poster, random in OR", option2: "Doctor you meet operates", option3: "Top Professors" },
     { feature: "Safety Risk", option1: "High (Ghost surgery risk)", option2: "Low (Reputation based)", option3: "Extremely Low" },
