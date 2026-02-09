@@ -1,9 +1,13 @@
+'use client';
+
 import Link from 'next/link';
 import { PostMetadata } from '@/lib/posts';
+import { useState, useCallback } from 'react';
 
 interface BlogCardProps {
   post: PostMetadata;
   showDeepDiveBadge?: boolean;
+  priority?: boolean; // true for above-fold cards
 }
 
 // Category styles mapping
@@ -18,23 +22,44 @@ const categoryStyles: Record<string, { icon: string; color: string; gradient: st
 
 const defaultStyle = { icon: '📖', color: 'text-slate-600', gradient: 'from-slate-500 via-gray-500 to-slate-400', pattern: '■' };
 
-export default function BlogCard({ post, showDeepDiveBadge = true }: BlogCardProps) {
+export default function BlogCard({ post, showDeepDiveBadge = true, priority = false }: BlogCardProps) {
   const { slug, title, excerpt, category, date, image, deepDive } = post;
   const style = categoryStyles[category] || defaultStyle;
+  const [loaded, setLoaded] = useState(false);
+
+  // Ref callback: catch already-cached images that fire onLoad before hydration
+  const imgRef = useCallback((node: HTMLImageElement | null) => {
+    if (node?.complete && node.naturalHeight > 0) {
+      setLoaded(true);
+    }
+  }, []);
   
   return (
     <Link
       href={`/blog/${slug}`}
       className="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-xl transition-all duration-300 hover:-translate-y-1 border border-gray-100"
     >
-      {/* Cover Image - only show when available */}
-      {image && (
+      {/* Cover Image with lazy loading + gradient placeholder */}
+      {image ? (
         <div className="relative aspect-[16/9] overflow-hidden">
+          {/* White placeholder shown until image loads */}
+          <div
+            className={`absolute inset-0 bg-white transition-opacity duration-500 ${loaded ? 'opacity-0' : 'opacity-100'}`}
+            aria-hidden
+          />
           <img
+            ref={imgRef}
             src={image}
             alt={title}
-            className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700 ease-out"
+            loading={priority ? 'eager' : 'lazy'}
+            decoding="async"
+            onLoad={() => setLoaded(true)}
+            className={`w-full h-full object-cover group-hover:scale-105 transition-all duration-700 ease-out ${loaded ? 'opacity-100' : 'opacity-0'}`}
           />
+        </div>
+      ) : (
+        <div className="relative aspect-[16/9] bg-white flex items-center justify-center">
+          <span className="text-4xl opacity-40">{style.icon}</span>
         </div>
       )}
 

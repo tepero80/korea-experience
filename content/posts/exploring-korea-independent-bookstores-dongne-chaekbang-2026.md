@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/exploring-korea-independent-bookstores-dongne-chaekbang-2026.webp"
 ---
 
 The landscape of travel in South Korea has shifted dramatically over the last few years. While the neon lights of Myeongdong and the futuristic architecture of Dongdaemun still draw crowds, a quieter, more intimate trend has taken hold of the cultural narrative in 2026: the resurgence of the *Dongne Chaekbang* (neighborhood bookstore). These are not merely retail spaces for purchasing paperbacks; they are curated cultural salons, community hubs, and sanctuaries of silence in a bustling digital society.

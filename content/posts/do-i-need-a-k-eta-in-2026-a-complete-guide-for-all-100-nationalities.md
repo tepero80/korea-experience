@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/do-i-need-a-k-eta-in-2026-a-complete-guide-for-all-100-nationalities.webp"
 ---
 
 Travel to South Korea has evolved significantly over the last few years, and navigating the entry requirements in 2026 is the first step to a seamless journey. Whether you are planning a 7-day culinary tour through the bustling streets of Myeongdong or a month-long trekking adventure in Seoraksan National Park, the Korea Electronic Travel Authorization (K-ETA) remains a critical document for the vast majority of visa-free travelers.

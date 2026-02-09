@@ -14,6 +14,7 @@ tags:
   - "Phone"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/f-6-marriage-visa-requirements-and-interview.webp"
 ---
 
 Getting married is a milestone of love, but securing an F-6 Marriage Visa in South Korea is a milestone of paperwork. For international spouses wishing to reside in Korea, the F-6 visa is often considered the "golden ticket" because it offers significantly more freedom than work-sponsored visas. However, the application process is rigorous, data-intensive, and designed to strictly weed out sham marriages.

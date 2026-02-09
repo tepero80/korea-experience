@@ -12,6 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/airport-limousine-bus-vs-arex-express-train.webp"
 ---
 
 Deciding between the Airport Limousine Bus and the AREX Express Train is the first logistical hurdle travelers face when landing at Incheon International Airport (ICN). The right choice depends entirely on your final destination within Seoul, your budget, and how much luggage you are carrying.

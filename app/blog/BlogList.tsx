@@ -4,8 +4,10 @@ import Link from 'next/link';
 import { useSearchParams, useRouter } from 'next/navigation';
 import { PostMetadata } from '@/lib/posts';
 import BlogCard from '@/components/BlogCard';
-import { useState, useMemo, useEffect } from 'react';
+import { useState, useMemo, useEffect, useCallback } from 'react';
 import { CATEGORY_HUBS } from '@/lib/constants';
+
+const POSTS_PER_PAGE = 30;
 
 interface BlogListProps {
   allPosts: PostMetadata[];
@@ -248,25 +250,75 @@ export default function BlogList({ allPosts }: BlogListProps) {
         {categorySlug && ` in ${categoryMap[categorySlug]}`}
       </div>
 
-      {/* Blog Posts Grid */}
-      {filteredPosts.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {filteredPosts.map((post) => (
-            <BlogCard key={post.slug} post={post} />
-          ))}
-        </div>
-      ) : (
-        <div className="text-center py-12 bg-gray-50 rounded-2xl">
-          <div className="text-4xl mb-4">📭</div>
-          <p className="text-gray-500 text-lg">
-            No {currentTab === 'deep-dive' ? 'deep dive guides' : 'articles'} found
-            {categorySlug && ` in ${categoryMap[categorySlug]}`}.
-          </p>
-          <p className="text-gray-400 text-sm mt-2">
-            Try selecting a different category or check back soon!
-          </p>
+      {/* Blog Posts Grid with Load More pagination */}
+      <PaginatedGrid
+        posts={filteredPosts}
+        currentTab={currentTab}
+        categorySlug={categorySlug}
+        categoryMap={categoryMap}
+      />
+    </div>
+  );
+}
+
+// Paginated grid component
+function PaginatedGrid({ posts, currentTab, categorySlug, categoryMap }: {
+  posts: PostMetadata[];
+  currentTab: string;
+  categorySlug?: string;
+  categoryMap: Record<string, string>;
+}) {
+  const [visibleCount, setVisibleCount] = useState(POSTS_PER_PAGE);
+
+  // Reset visible count when filters change
+  useEffect(() => {
+    setVisibleCount(POSTS_PER_PAGE);
+  }, [currentTab, categorySlug]);
+
+  const visiblePosts = posts.slice(0, visibleCount);
+  const hasMore = visibleCount < posts.length;
+  const remaining = posts.length - visibleCount;
+
+  const loadMore = useCallback(() => {
+    setVisibleCount((prev) => Math.min(prev + POSTS_PER_PAGE, posts.length));
+  }, [posts.length]);
+
+  if (posts.length === 0) {
+    return (
+      <div className="text-center py-12 bg-gray-50 rounded-2xl">
+        <div className="text-4xl mb-4">📭</div>
+        <p className="text-gray-500 text-lg">
+          No {currentTab === 'deep-dive' ? 'deep dive guides' : 'articles'} found
+          {categorySlug && ` in ${categoryMap[categorySlug]}`}.
+        </p>
+        <p className="text-gray-400 text-sm mt-2">
+          Try selecting a different category or check back soon!
+        </p>
+      </div>
+    );
+  }
+
+  return (
+    <>
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {visiblePosts.map((post, index) => (
+          <BlogCard key={post.slug} post={post} priority={index < 3} />
+        ))}
+      </div>
+
+      {hasMore && (
+        <div className="mt-12 text-center">
+          <button
+            onClick={loadMore}
+            className="inline-flex items-center gap-2 px-8 py-3 bg-amber-600 text-white rounded-xl font-semibold hover:bg-amber-700 transition-colors shadow-sm hover:shadow-md"
+          >
+            <span>Load More</span>
+            <span className="text-sm bg-amber-500 px-2.5 py-0.5 rounded-full">
+              {Math.min(POSTS_PER_PAGE, remaining)} of {remaining} remaining
+            </span>
+          </button>
         </div>
       )}
-    </div>
+    </>
   );
 }

@@ -40,12 +40,12 @@
 38. [T] KORAIL PASS+ guide  | done  | RIC  | 2026-02-08
 39. [K] Lovely Runner filming locations  | done  | RIC  | 2026-02-08
 40. [L] How to identify cult recruitment  | done  | RIC  | 2026-02-08
-41. [F] Drinking etiquette: pour and receive
-42. [S] K-pop hair salon: booking in English
-43. [M] 24-hour English pharmacies in Seoul
-44. [T] Seoul Bike (Ddaereungi) without local number
-45. [K] Queen of Tears filming locations
-46. [L] Climate Card: Is it worth it for 30 days?
+41. [F] Drinking etiquette: pour and receive  | done  | RIC  | 2026-02-09
+42. [S] K-pop hair salon: booking in English  | done  | RIC  | 2026-02-09
+43. [M] 24-hour English pharmacies in Seoul  | done  | RIC  | 2026-02-09
+44. [T] Seoul Bike (Ddaereungi) without local number  | done  | RIC  | 2026-02-09
+45. [K] Queen of Tears filming locations  | done  | RIC  | 2026-02-09
+46. [L] Climate Card: Is it worth it for 30 days?  | done  | RIC  | 2026-02-09
 47. [F] Convenience Store Must-Buys: GS25 vs. CU
 48. [S] Korean glasses and lenses in 30 mins
 49. [M] Comparing Botox: Coretox vs. Innotox vs. Allergan

@@ -14,6 +14,7 @@ tags:
   - "Botox"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/breast-augmentation-teardrop-vs-round-implants.webp"
 ---
 
 When patients consider breast augmentation in South Korea, the primary decision beyond choosing a surgeon is selecting the implant shape: teardrop (anatomical) or round. While round implants provide fullness in the upper pole for a lifted look, teardrop implants are designed to mimic the natural slope of the breast, offering a more subtle enhancement. However, the landscape of Korean plastic surgery in 2026 has evolved significantly with the dominance of "hybrid" implants like Motiva Ergonomix, which change shape based on gravity, effectively bridging the gap between the two traditional categories.

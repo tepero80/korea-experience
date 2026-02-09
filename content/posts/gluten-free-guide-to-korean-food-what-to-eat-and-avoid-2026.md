@@ -14,6 +14,7 @@ tags:
   - "Fillers"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/gluten-free-guide-to-korean-food-what-to-eat-and-avoid-2026.webp"
 ---
 
 Navigating the culinary landscape of South Korea can be a daunting task for travelers with celiac disease or gluten sensitivity. In a culture where sharing dishes is the norm and fermented sauces are the backbone of nearly every meal, the presence of hidden wheat is ubiquitous. As we move into 2026, awareness of dietary restrictions in Korea has improved significantly compared to a decade ago, yet it remains one of the most challenging destinations for gluten-free travelers.

@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/halal-medical-tourism-finding-muslim-friendly-clinics.webp"
 ---
 
 Finding truly Halal-friendly medical care in a non-Muslim country can be daunting, but South Korea has made significant strides in 2026 to accommodate Muslim patients through specific "Muslim-Friendly" certifications in major hospitals.

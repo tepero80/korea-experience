@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "19 min read"
 featured: false
+image: "/images/posts/flying-after-plastic-surgery-when-is-it-safe.webp"
 ---
 
 ## Flying After Plastic Surgery: When Is It Safe? Your Essential Guide for Medical Tourists in Korea

@@ -14,6 +14,7 @@ tags:
   - "Korean BBQ"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/daegu-makchang-grilled-intestines-culture.webp"
 ---
 
 Daegu, the fourth-largest city in South Korea with a population of approximately 2.4 million residents, is often referred to as the city of heat. While this reputation stems from its location in a basin that traps humid summer air, culinary travelers know that the real heat comes from the charcoal grills lining its vibrant streets. If you travel 237 kilometers southeast of Seoul, you will find the undisputed capital of *Makchang*—Korean grilled intestines.

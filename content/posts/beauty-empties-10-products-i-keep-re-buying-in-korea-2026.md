@@ -14,6 +14,7 @@ tags:
   - "Duty Free"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/beauty-empties-10-products-i-keep-re-buying-in-korea-2026.webp"
 ---
 
 If you are looking for the absolute best K-beauty investments to make during your trip, here is the definitive list of products that locals and long-term residents actually finish and repurchase.

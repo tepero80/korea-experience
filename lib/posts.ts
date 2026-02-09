@@ -45,15 +45,17 @@ function readPostsFromDirectory(directory: string): PostMetadata[] {
   }
 
   const fileNames = fs.readdirSync(directory);
-  return fileNames
-    .filter((fileName) => fileName.endsWith('.md'))
-    .map((fileName) => {
+  const posts: PostMetadata[] = [];
+  
+  for (const fileName of fileNames) {
+    if (!fileName.endsWith('.md')) continue;
+    try {
       const slug = fileName.replace(/\.md$/, '');
       const fullPath = path.join(directory, fileName);
       const fileContents = fs.readFileSync(fullPath, 'utf8');
       const { data } = matter(fileContents);
 
-      return {
+      posts.push({
         slug,
         title: data.title || slug,
         date: data.date || new Date().toISOString(),
@@ -67,8 +69,13 @@ function readPostsFromDirectory(directory: string): PostMetadata[] {
         featuredOrder: data.featuredOrder,
         deepDive: data.deepDive || false,
         deepDiveOrder: data.deepDiveOrder,
-      };
-    });
+      });
+    } catch (error) {
+      console.error(`Error parsing ${fileName}:`, error);
+    }
+  }
+
+  return posts;
 }
 
 // Get all blog posts (from both posts and deep-dive directories)

@@ -14,6 +14,7 @@ tags:
   - "Botox"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/booking-medical-consultations-in-korea-online-vs-walk-in.webp"
 ---
 
 For international travelers visiting South Korea in 2026, the question of whether to book medical consultations online in advance or simply walk into a clinic is one of the most common logistical dilemmas.

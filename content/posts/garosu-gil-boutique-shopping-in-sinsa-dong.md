@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/garosu-gil-boutique-shopping-in-sinsa-dong.webp"
 ---
 
 If you are looking for the epicenter of sophisticated style in Seoul, the answer lies in the tree-lined avenues of Sinsa-dong. Specifically, **Garosu Gil boutique shopping in Sinsa Dong** offers a curated blend of high-end international flagships, cutting-edge domestic designer brands, and experiential K-beauty showrooms that you simply cannot find anywhere else in Asia.

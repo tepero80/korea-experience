@@ -14,6 +14,7 @@ tags:
   - "Cherry Blossom"
 readTime: "10 min read"
 featured: false
+image: "/images/posts/dealing-with-yellow-dust-and-air-quality-best-apps-and-masks-2026.webp"
 ---
 
 Spring in South Korea is a visually stunning season, characterized by cherry blossoms and warmer temperatures. However, for residents and travelers in 2026, it also signals the arrival of "Hwangsa" (Yellow Dust) and "Mise-monji" (Fine Dust). Navigating the air quality in Seoul and beyond is no longer just a suggestion; it is a daily necessity for maintaining long-term health. As we move into 2026, technology and filtration standards have evolved, making it easier to manage, provided you have the right tools and knowledge.

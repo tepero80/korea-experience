@@ -14,6 +14,7 @@ tags:
   - "Dental"
 readTime: "16 min read"
 featured: false
+image: "/images/posts/health-check-up-packages-in-korea-comprehensive-screening-guides-2026.webp"
 ---
 
 Medical tourism in South Korea has evolved beyond just cosmetic procedures. In 2026, the country stands as a global leader in preventative medicine, offering high-tech, efficient, and surprisingly affordable comprehensive health screenings. For international travelers and expats, navigating the vast array of hospital packages can be overwhelming, but the value proposition is undeniable.

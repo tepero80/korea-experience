@@ -12,6 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/dongdaemun-wholesale-fashion-market-tips.webp"
 ---
 
 Shopping at Dongdaemun Wholesale Fashion Market requires navigating a complex, nocturnal ecosystem that operates primarily from 8:00 PM to 5:00 AM, where cash is mandatory, fitting rooms are non-existent, and minimum order quantities (MOQ)—usually two pieces per style—are strictly enforced. Unlike the retail malls (like Doota or Hyundai City Outlets) located just across the street, the wholesale zone is a professional trading ground for global buyers, meaning patience, specific etiquette, and a distinct strategy are required to secure high-quality Korean fashion at 40-60% off retail prices.

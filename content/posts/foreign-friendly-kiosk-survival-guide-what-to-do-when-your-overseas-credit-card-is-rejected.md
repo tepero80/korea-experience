@@ -5,6 +5,7 @@ excerpt: "Don't let a rejected foreign credit card ruin your Korean adventure."
 category: Living in Korea
 author: Korea Experience Team
 featured: true
+image: "/images/posts/foreign-friendly-kiosk-survival-guide-what-to-do-when-your-overseas-credit-card-is-rejected.webp"
 featuredOrder: 6
 tags:
   - "Korean Food"

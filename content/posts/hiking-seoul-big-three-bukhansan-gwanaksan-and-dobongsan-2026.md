@@ -12,6 +12,7 @@ tags:
   - "Adventure Travel"
 readTime: "18 min read"
 featured: false
+image: "/images/posts/hiking-seoul-big-three-bukhansan-gwanaksan-and-dobongsan-2026.webp"
 ---
 
 Seoul offers a hiking experience unlike any other major metropolis in the world. The "Big Three"—Bukhansan, Dobongsan, and Gwanaksan—are the crown jewels of the city's topography, offering distinct challenges ranging from 632 meters to 836 meters in elevation. For international travelers in 2026, these mountains are not just physical challenges; they are cultural immersion points where history, nature, and the local "dwipuri" (after-hike party) culture converge. Each mountain is accessible via the Seoul Metropolitan Subway system for a fare of approximately ₩1,400 to ₩1,600, making world-class trekking available for less than the price of a cup of coffee.

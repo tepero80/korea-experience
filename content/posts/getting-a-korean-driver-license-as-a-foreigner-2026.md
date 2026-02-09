@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/getting-a-korean-driver-license-as-a-foreigner-2026.webp"
 ---
 
 Navigating the bustling streets of Seoul or exploring the serene coastal roads of Jeju Island offers a sense of freedom that public transport simply cannot match. While Korea’s subway system is world-class, holding a valid driver’s license opens up the 70% of the country that is mountainous, rural, and breathtakingly beautiful.

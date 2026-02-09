@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/gluten-free-dining-in-korea-celiac-safe-options.webp"
 ---
 
 South Korea has long been considered one of the most challenging destinations for travelers with celiac disease or severe gluten intolerance. The culinary landscape here is dominated by *Ganjang* (soy sauce) and *Gochujang* (red chili paste), both of which traditionally rely on wheat as a primary fermentation starter. However, the narrative is changing rapidly. As we move through 2026, Seoul and other major Korean cities are seeing a surge in health-conscious dining, leading to a small but dedicated ecosystem of gluten-free establishments.

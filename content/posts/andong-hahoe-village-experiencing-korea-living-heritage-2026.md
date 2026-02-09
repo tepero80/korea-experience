@@ -12,6 +12,7 @@ tags:
   - "Korean Culture"
 readTime: "15 min read"
 featured: false
+image: "/images/posts/andong-hahoe-village-experiencing-korea-living-heritage-2026.webp"
 ---
 
 Andong Hahoe Village is often mistaken for a museum or a film set, but it is something far more rare: a living, breathing community that has maintained its architectural and cultural integrity for over 600 years. Located approximately 180 kilometers southeast of Seoul, this UNESCO World Heritage site is home to the Ryu clan of Pungsan, who still reside in the tile-roofed nobility houses and thatched-roof commoner dwellings that cluster within the S-shaped bend of the Nakdong River. For travelers in 2026, visiting Hahoe offers a distinct counterpoint to the neon-lit futurism of Seoul—a chance to step into a Joseon Dynasty landscape that hasn't just been preserved, but is actively lived.

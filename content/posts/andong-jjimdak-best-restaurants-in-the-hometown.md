@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/andong-jjimdak-best-restaurants-in-the-hometown.webp"
 ---
 
 When travelers ask about the soulful cuisine of South Korea, many immediately think of BBQ or Kimchi stew. However, for those in the know, the true heart of Korean comfort food beats in the historic city of Andong. Here, specifically in the bustling Andong Gu Market, lies the origin of a dish that has captivated the nation: Andong Jjimdak. This savory, spicy, soy-sauce-braised chicken dish, voluminous with glass noodles and vegetables, offers a culinary experience that franchise restaurants in Seoul simply cannot replicate.

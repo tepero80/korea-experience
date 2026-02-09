@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/bargaining-culture-where-and-how-to-negotiate.webp"
 ---
 
 If you are planning a trip to Seoul in 2026, you are likely budgeting for significant shopping expenses. One of the most common questions international travelers ask is whether bargaining is acceptable in South Korea. The answer is nuanced: unlike the aggressive haggling cultures found in parts of Southeast Asia or the Middle East, Korean bargaining is subtler, situational, and heavily reliant on context. Generally, you can negotiate in traditional markets, underground shopping malls, and some electronics hubs, but never in department stores, franchise shops, or convenience stores. Understanding the unwritten rules of *heung-jeong* (negotiation) can save you approximately 10% to 20% on your purchases, but pushing too hard can be considered rude.

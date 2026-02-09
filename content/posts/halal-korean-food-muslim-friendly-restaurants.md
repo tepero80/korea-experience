@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/halal-korean-food-muslim-friendly-restaurants.webp"
 ---
 
 Finding authentic Halal Korean food was once a significant challenge for Muslim travelers, often limiting dining options to vegetarian bibimbap or seafood stews. However, the landscape of gastronomy in South Korea has transformed dramatically over the last decade. As of 2026, the Korea Tourism Organization (KTO) reports a 150% increase in Muslim-friendly certified establishments compared to 2020 statistics, driven by the influx of over 1.2 million Muslim tourists annually.

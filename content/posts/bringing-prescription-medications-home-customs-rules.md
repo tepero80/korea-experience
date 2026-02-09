@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/bringing-prescription-medications-home-customs-rules.webp"
 ---
 
 Travelers leaving South Korea after medical treatment, or expatriates returning home, often face a complex dilemma: how to legally transport prescription medications across international borders. Whether you are carrying painkillers following plastic surgery in Gangnam, a 3-month supply of dermatological medication, or managing a chronic condition, navigating the intersection of Korean exit laws and your home country's entry regulations is critical. Failing to prepare the correct documentation can result in confiscation of expensive medicines, heavy fines, or even detention at airport security.

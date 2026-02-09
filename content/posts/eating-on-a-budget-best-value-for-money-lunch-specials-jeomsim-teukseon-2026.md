@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "10 min read"
 featured: false
+image: "/images/posts/eating-on-a-budget-best-value-for-money-lunch-specials-jeomsim-teukseon-2026.webp"
 ---
 
 Dining out in South Korea is a culinary adventure, but as we move through 2026, global inflation has impacted menu prices in Seoul just as it has in New York or London. However, Korea holds a secret weapon for the savvy gastronomic traveler: **Jeomsim Teukseon** (점심특선). Literally translating to "Lunch Special," this dining culture allows you to experience high-end meals—including premium Korean BBQ and elaborate course meals—for a fraction of the dinner price.

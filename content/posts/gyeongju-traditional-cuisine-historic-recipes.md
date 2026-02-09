@@ -12,6 +12,7 @@ tags:
   - "Korean Culture"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/gyeongju-traditional-cuisine-historic-recipes.webp"
 ---
 
 Gyeongju, known as the "Museum Without Walls," offers more than just tumuli parks and ancient observatories. As the capital of the Silla Dynasty for nearly 1,000 years (57 BC – 935 AD), this city cultivated a gastronomic heritage that rivals its architectural wonders. For the international traveler, exploring Gyeongju traditional cuisine historic recipes is a journey into the aristocratic palate of ancient Korea, preserved through centuries of family lineages and adapted for the modern table.

@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/best-korean-healing-foods-for-surgery-recovery.webp"
 ---
 
 If you are recovering from surgery in South Korea, the absolute best healing foods to consume are **Hobak-juk (Sweet Pumpkin Porridge)** for reducing swelling and **Jeonbok-juk (Abalone Porridge)** for restoring vitality and tissue repair. These traditional dishes are soft, easy to digest, and rich in essential nutrients like Vitamin A and protein, making them the standard dietary prescription for patients in Korean medical culture.

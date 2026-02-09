@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "10 min read"
 featured: false
+image: "/images/posts/bts-tour-in-seoul-army-must-visit-locations-2026.webp"
 ---
 
 Welcome to Seoul, the beating heart of the Hallyu wave and the home ground of the 21st-century pop icons, BTS. As we enter 2026, the landscape of "Bangtan Tours" has evolved. With the members fully returned from military service and embarking on their Chapter 2 era, the city is more vibrant than ever with ARMY energy.

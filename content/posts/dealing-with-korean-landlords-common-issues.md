@@ -14,6 +14,7 @@ tags:
   - "Housing"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/dealing-with-korean-landlords-common-issues.webp"
 ---
 
 Finding the perfect officetel or villa in Seoul is an exhilarating milestone, but signing the contract is only the beginning of your journey. For many international residents and expats, the relationship with a Korean landlord (Imdaein) can be the most complex aspect of living on the peninsula. Cultural nuances, language barriers, and a unique rental system often create friction points that differ significantly from Western housing markets.

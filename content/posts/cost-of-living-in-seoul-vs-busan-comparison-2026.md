@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/cost-of-living-in-seoul-vs-busan-comparison-2026.webp"
 ---
 
 Deciding between the electric pulse of the capital and the laid-back coastal vibe of the southern port city is the most common dilemma for expats and long-term travelers in South Korea. As we enter 2026, the economic landscape of the peninsula has shifted, with inflation impacting housing and dining costs differently across regions. While Seoul offers unmatched career opportunities and global connectivity, Busan presents a compelling case for a higher quality of life at a significantly lower price point.

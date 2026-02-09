@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/exploring-gisa-sikdang-the-hidden-gem-driver-restaurants-2026.webp"
 ---
 
 For decades, the golden rule of dining in a new city has remained unchanged: if you want the best local food at the fairest prices, ask a taxi driver where they eat. In South Korea, this advice isn't just a figure of speech—it is a distinct culinary genre known as **Gisa Sikdang** (Driver Restaurants). As we move into 2026, these establishments have transcended their utilitarian roots to become the ultimate hidden gems for international travelers seeking authentic, inflation-proof dining experiences.

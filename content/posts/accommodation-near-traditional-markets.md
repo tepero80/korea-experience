@@ -14,6 +14,7 @@ tags:
   - "Busan"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/accommodation-near-traditional-markets.webp"
 ---
 
 Finding accommodation near traditional markets in Korea is the ultimate travel hack for foodies and culture seekers. Instead of relying on hotel breakfast buffets, you step out of your lobby and into a world of steaming *hotteok*, fresh *kimbap*, and vibrant local energy.

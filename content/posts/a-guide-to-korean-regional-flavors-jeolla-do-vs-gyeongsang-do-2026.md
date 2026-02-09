@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
+image: "/images/posts/a-guide-to-korean-regional-flavors-jeolla-do-vs-gyeongsang-do-2026.webp"
 ---
 
 South Korea is a monolith of modernity, but beneath the neon lights of Seoul lies a culinary map deeply divided by geography, history, and fermentation jars. For the international gourmand traveling in 2026, the most significant rivalry isn't between K-Pop fandoms, but between the two southern titans of taste: Jeolla-do (the Southwest) and Gyeongsang-do (the Southeast).

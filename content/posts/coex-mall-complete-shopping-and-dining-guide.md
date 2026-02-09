@@ -12,6 +12,7 @@ tags:
   - "Shopping"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/coex-mall-complete-shopping-and-dining-guide.webp"
 ---
 
 Coex Mall (Starfield Coex) is Asia's largest underground shopping mall, located in the heart of the Gangnam district in Seoul. It is a massive subterranean complex spanning over 165,000 square meters, housing over 320 retail stores, 100 restaurants, an aquarium, a cinema, and the iconic Starfield Library. For travelers, it serves as the perfect all-weather destination, offering a concentrated dose of K-fashion, K-beauty, and entertainment without stepping outside.

@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/expat-communities-facebook-groups-and-forums.webp"
 ---
 
 Navigating life in South Korea as an international resident requires more than just a map and a translation app; it requires a network. For the estimated 2.25 million foreigners residing in Korea as of early 2026, online expat communities are not just social hubs—they are essential lifelines for survival. Whether you are looking for a studio apartment in Mapo-gu, seeking advice on visa renewals, or simply craving a decent taco, the right Facebook group or forum can save you hours of frustration and millions of won.

@@ -14,6 +14,7 @@ tags:
   - "Coffee"
 readTime: "13 min read"
 featured: false
+image: "/images/posts/custom-perfume-making-in-seoul-designing-your-signature-scent-2026.webp"
 ---
 
 Custom perfume making has established itself as the quintessential hands-on experience for travelers visiting Seoul in 2026. While K-Beauty skincare has long dominated the shopping lists of international visitors, the trend has shifted toward personalized, immersive experiences that result in a unique souvenir. In Seoul, a one-day perfume class typically involves a 60 to 90-minute session where you consult with a professional perfumer to select from 30 to 80 distinct scent bases, blend them according to specific ratios, and bottle your creation.

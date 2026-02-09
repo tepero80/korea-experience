@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/best-korea-sim-cards-for-long-term-travelers-beyond-airport-rentals-and-prepaid-limits.webp"
 ---
 
 Landing at Incheon International Airport usually triggers a familiar ritual: rushing to the nearest roaming kiosk to secure connectivity. For tourists visiting for a week, these prepaid airport SIMs are convenient, albeit pricey. However, for digital nomads, exchange students, and expats planning to stay in South Korea for three months or longer, rely exclusively on airport rentals is a financial misstep.

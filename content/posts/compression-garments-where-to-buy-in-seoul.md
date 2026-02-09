@@ -14,6 +14,7 @@ tags:
   - "Gangnam"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/compression-garments-where-to-buy-in-seoul.webp"
 ---
 
 If you are looking for where to buy compression garments in Seoul, the most reliable locations are the specialized medical supply stores located in the **Apgujeong** and **Sinsa-dong** districts of Gangnam, specifically near plastic surgery clinics. For general compression stockings or travel socks, **Jongno 5-ga's Medical Instrument Street** offers the widest selection at wholesale prices. Most plastic surgery clinics will offer to sell them to you directly, but purchasing independently from a medical supply store often saves you 20% to 40% while providing a wider range of sizing options.

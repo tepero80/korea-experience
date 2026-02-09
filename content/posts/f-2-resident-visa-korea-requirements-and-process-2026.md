@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/f-2-resident-visa-korea-requirements-and-process-2026.webp"
 ---
 
 Securing long-term residency in South Korea is the ultimate goal for many expatriates. The F-2 Resident Visa, often referred to as the "point-based visa" or the "bridge to permanent residency," offers a level of freedom that standard work visas simply cannot match. Unlike the rigid E-2 or E-7 visas, which tie you to a specific employer, the F-2 visa grants you the liberty to switch jobs, freelance, or even start your own business without constant immigration headaches.

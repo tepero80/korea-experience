@@ -12,6 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "14 min read"
 featured: false
+image: "/images/posts/cherry-blossom-season-in-korea-when-and-where-2026.webp"
 ---
 
 For travelers planning to visit South Korea in 2026, the cherry blossom season is the most anticipated window of the year. Based on meteorological data and climate trends from the past five years, the 2026 cherry blossom front is expected to sweep across the peninsula starting from Jeju Island around March 22nd, reaching the southern coastal cities like Busan by March 26th, and arriving in Seoul for peak bloom between April 4th and April 10th. This fleeting natural spectacle lasts only about 7 to 10 days in any given location before the petals fall, making precise timing essential for your itinerary.

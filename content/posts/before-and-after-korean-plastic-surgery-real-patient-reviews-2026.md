@@ -14,6 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
+image: "/images/posts/before-and-after-korean-plastic-surgery-real-patient-reviews-2026.webp"
 ---
 
 Finding authentic, unfiltered information about cosmetic procedures abroad can be overwhelming. In 2026, the landscape of medical tourism in Korea has evolved significantly, with a massive shift toward transparency and patient safety. You are likely searching for proof of results and honest feedback from real people who have undergone surgery in Seoul this year.
