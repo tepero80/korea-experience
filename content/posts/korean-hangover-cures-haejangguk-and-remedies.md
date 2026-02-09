@@ -14,7 +14,7 @@ tags:
   - "Itaewon"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-hangover-cures-haejangguk-and-remedies.webp"
+image: "/images/korean-hangover-cures-haejangguk-and-remedies.webp"
 ---
 
 If you have spent even a single night out in Seoul, you likely understand why South Korea has developed the world's most sophisticated hangover recovery culture. With a vibrant nightlife where "Hoesik" (company dinners) often extend into the early hours, the morning after is treated with just as much ritualistic importance as the night before. 

@@ -14,7 +14,7 @@ tags:
   - "Coffee"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/korean-beef-hanwoo-guide-why-its-more-expensive-than-wagyu-2026.webp"
+image: "/images/korean-beef-hanwoo-guide-why-its-more-expensive-than-wagyu-2026.webp"
 ---
 
 For decades, the global culinary conversation regarding luxury beef has been dominated by Japanese Wagyu. However, as international tourism to South Korea surges—projected to hit 20 million visitors by the end of 2026—a new contender has taken the spotlight: Hanwoo. Often described as the "best kept secret" of the culinary world, this indigenous Korean cattle breed offers a flavor profile that many connoisseurs argue surpasses its Japanese counterpart.

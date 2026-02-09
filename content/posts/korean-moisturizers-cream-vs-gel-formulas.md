@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/korean-moisturizers-cream-vs-gel-formulas.webp"
+image: "/images/korean-moisturizers-cream-vs-gel-formulas.webp"
 ---
 
 Walking into an Olive Young in Myeongdong or Gangnam can be an overwhelming experience for the uninitiated traveler. With over 1,300 locations across the peninsula, these beauty havens are packed with rows of jars, tubes, and pumps, all promising the coveted "chok-chok" (dewy) complexion. However, the most critical decision you will make isn't just about the brand—it is about the texture. The battle between Korean moisturizers comes down to two distinct heavyweights: the lightweight, water-based Gel versus the rich, occlusive Cream. Choosing the wrong one for the Korean climate or your specific skin type can lead to breakouts in the humid summer or flaking skin during the Siberian-wind winters.

@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/korean-mask-dance-drama-where-to-watch.webp"
+image: "/images/korean-mask-dance-drama-where-to-watch.webp"
 ---
 
 The rhythmic clashing of the *kkwaenggwari* (small gong) cuts through the air, signaling the start of a performance that has captivated audiences for centuries. Korean Mask Dance Drama, known locally as *Talchum*, is not merely a dance; it is a vibrant, satirical, and energetic theatrical tradition that offers a window into the soul of historic Korea. Designated as a UNESCO Intangible Cultural Heritage of Humanity in November 2022, *Talchum* has seen a resurgence in popularity among international visitors seeking authentic cultural experiences.

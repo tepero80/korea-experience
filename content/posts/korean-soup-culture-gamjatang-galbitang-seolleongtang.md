@@ -14,7 +14,7 @@ tags:
   - "Hongdae"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-soup-culture-gamjatang-galbitang-seolleongtang.webp"
+image: "/images/korean-soup-culture-gamjatang-galbitang-seolleongtang.webp"
 ---
 
 For international travelers landing in Seoul, the culinary landscape goes far beyond Korean BBQ and Kimchi. The true soul of Korean cuisine resides in its soups and stews, specifically the "Tang" culture. Unlike Western dining, where soup is often a starter, in Korea, it is the main event, a communal anchor, and a restorative remedy all in one. Among the vast repertoire of broths, three distinct varieties stand out for their popularity, historical significance, and robust flavors: **Gamjatang** (Pork Bone Stew), **Galbitang** (Short Rib Soup), and **Seolleongtang** (Ox Bone Soup).

@@ -14,7 +14,7 @@ tags:
   - Korean Heritage
 readTime: "16 min read"
 featured: false
-image: "/images/posts/traditional-paper-hanji-making-workshops-in-jeonju-2026.webp"
+image: "/images/traditional-paper-hanji-making-workshops-in-jeonju-2026.webp"
 ---
 
 For travelers seeking the most authentic traditional paper Hanji making workshops in Jeonju in 2026, the premier destinations are the Jeonju Hanji Museum on the city's outskirts and the various artisan studios nestled within the Jeonju Hanok Village. While the museum offers a comprehensive industrial-to-traditional overview with free admission (charging only for the workshop), the Hanok Village provides intimate, craft-focused experiences where you can create lamps, fans, and plates using the paper you make.

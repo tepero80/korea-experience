@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/medical-cannabis-and-pain-management-in-korean-hospitals.webp"
+image: "/images/medical-cannabis-and-pain-management-in-korean-hospitals.webp"
 ---
 
 For international travelers and expatriates accustomed to the increasingly liberal cannabis laws in North America and Europe, navigating the medical landscape in South Korea can be a jarring experience. If you are searching for information on accessing medical marijuana for chronic pain, anxiety, or post-surgical recovery in Seoul, the reality is strictly regulated and vastly different from Western standards. While South Korea became the first country in East Asia to legalize medical cannabis in late 2018, the implementation of this law is exceptionally narrow.

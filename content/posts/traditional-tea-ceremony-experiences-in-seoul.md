@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/traditional-tea-ceremony-experiences-in-seoul.webp"
+image: "/images/traditional-tea-ceremony-experiences-in-seoul.webp"
 ---
 
 Seoul is a city defined by its frenetic energy, yet tucked away within its bustling alleyways lies a centuries-old antidote to the noise: the Korean traditional tea ceremony, or *Darye*. For international travelers seeking a profound connection with Korean history, engaging in a tea ceremony offers more than just a beverage; it is a meditative practice rooted in respect, harmony, and purity. Unlike the rigid formalities often associated with neighboring tea cultures, the Korean approach emphasizes naturalness and comfort, making it an accessible yet deeply spiritual experience for visitors.

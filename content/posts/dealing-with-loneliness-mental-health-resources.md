@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "10 min read"
 featured: false
-image: "/images/posts/dealing-with-loneliness-mental-health-resources.webp"
+image: "/images/dealing-with-loneliness-mental-health-resources.webp"
 ---
 
 Moving to South Korea is often portrayed as a neon-lit adventure filled with endless culinary delights and efficient public transport. However, once the initial adrenaline of landing at Incheon International Airport fades, a quiet reality often sets in. For many international residents, the "foreigner bubble" can quickly transform from a safety net into a wall of isolation. Dealing with loneliness is a significant challenge for expats, but you are not alone, and there is a robust infrastructure of mental health resources available if you know where to look.

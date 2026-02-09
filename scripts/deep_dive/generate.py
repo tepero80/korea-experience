@@ -44,7 +44,7 @@ from scripts.deep_dive.topics import (
     update_status, STEP_RESEARCH, STEP_IMAGE, STEP_CONVERT,
 )
 from scripts.deep_dive.research import (
-    build_prompt, run_deep_research, run_deep_research_streaming,
+    build_prompt, run_deep_research,
 )
 from scripts.deep_dive.convert import (
     convert_to_mdx, save_mdx, build_conversion_prompt,
@@ -165,7 +165,7 @@ def get_draft_filepath(num: int, items: dict) -> Path:
 
 # ── 메인 처리 ──
 
-def process_item(num, items, api_key, dry_run=False, stream=True,
+def process_item(num, items, api_key, dry_run=False,
                  no_image=False, image_only=False, no_convert=False, convert_only=False):
     """하나의 주제를 처리합니다."""
     if num not in items:
@@ -190,7 +190,7 @@ def process_item(num, items, api_key, dry_run=False, stream=True,
             return False
         draft_text = filepath.read_text(encoding="utf-8")
         img_path = IMAGES_DIR / f"{slug}.webp"
-        image_rel = f"/images/deep-dive/{slug}.webp" if img_path.exists() else None
+        image_rel = f"/images/{slug}.webp" if img_path.exists() else None
         if dry_run:
             print(f"\n🔍 [DRY RUN] deepDiveOrder: {get_next_deep_dive_order()}, 이미지: {image_rel or '없음'}")
             return True
@@ -243,7 +243,7 @@ def process_item(num, items, api_key, dry_run=False, stream=True,
 
         # Deep Research 실행
         try:
-            result = (run_deep_research_streaming if stream else run_deep_research)(prompt, api_key)
+            result = run_deep_research(prompt, api_key)
         except Exception as e:
             print(f"❌ 에러: {e}")
             update_status(num, error=f"research failed: {e}")
@@ -260,12 +260,12 @@ def process_item(num, items, api_key, dry_run=False, stream=True,
         img_path = IMAGES_DIR / f"{slug}.webp"
         if img_path.exists() and img_path.stat().st_size > 1000:
             print(f"⏭️  커버 이미지 이미 존재 ({img_path.stat().st_size // 1024}KB). 스킵.")
-            image_rel_path = f"/images/deep-dive/{slug}.webp"
+            image_rel_path = f"/images/{slug}.webp"
             update_status(num, add_step=STEP_IMAGE)
         else:
             img_result = generate_cover(slug, item["topic"], item["category"])
             if img_result:
-                image_rel_path = f"/images/deep-dive/{slug}.webp"
+                image_rel_path = f"/images/{slug}.webp"
                 update_status(num, add_step=STEP_IMAGE)
             else:
                 print("⚠️  커버 이미지 생성 실패.")
@@ -366,7 +366,7 @@ def backfill_covers(api_key, dry_run=False, limit=0):
             continue
 
         # frontmatter에 image 추가
-        image_rel = f"/images/deep-dive/{t['slug']}.webp"
+        image_rel = f"/images/{t['slug']}.webp"
         content = t["file"].read_text(encoding="utf-8")
         updated = re.sub(
             r"(deepDiveOrder:\s*\d+)",
@@ -421,7 +421,6 @@ def main():
     # 파이프라인 옵션
     pipe = parser.add_argument_group("파이프라인 옵션")
     pipe.add_argument("--dry-run", action="store_true", help="API 호출 없이 확인만")
-    pipe.add_argument("--no-stream", action="store_true", help="폴링 모드 (스트리밍 대신)")
     pipe.add_argument("--no-image", action="store_true", help="커버 이미지 건너뛰기")
     pipe.add_argument("--image-only", action="store_true", help="이미지만 생성")
     pipe.add_argument("--no-convert", action="store_true", help="MDX 변환 건너뛰기")
@@ -442,11 +441,10 @@ def main():
     items = parse_todo()
     done_count = sum(1 for i in items.values() if i.get("status") == "done")
     print(f"📋 todo.md: {len(items)}개 주제 ({done_count} 완료, {len(items) - done_count} 남음)")
-    use_stream = not args.no_stream
 
     # 공통 kwargs
     kwargs = dict(
-        dry_run=args.dry_run, stream=use_stream,
+        dry_run=args.dry_run,
         no_image=args.no_image, image_only=args.image_only,
         no_convert=args.no_convert, convert_only=args.convert_only,
     )

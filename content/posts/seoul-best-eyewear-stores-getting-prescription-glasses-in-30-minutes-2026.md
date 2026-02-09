@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/seoul-best-eyewear-stores-getting-prescription-glasses-in-30-minutes-2026.webp"
+image: "/images/seoul-best-eyewear-stores-getting-prescription-glasses-in-30-minutes-2026.webp"
 ---
 
 Getting prescription glasses in Seoul is arguably one of the most efficient and satisfying shopping experiences a traveler can have in 2026. Yes, it is entirely possible—and standard practice—to walk into an optical store, have a comprehensive eye exam, pick out stylish frames, and walk out with fully fitted prescription lenses in under 30 minutes. The average cost for a complete pair of high-quality glasses with blue-light blocking lenses in Seoul is between ₩50,000 ($38 USD) and ₩120,000 ($90 USD), which is roughly 60-80% cheaper than comparable prices in North America or Western Europe.

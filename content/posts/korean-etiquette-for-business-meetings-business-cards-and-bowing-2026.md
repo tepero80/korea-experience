@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-etiquette-for-business-meetings-business-cards-and-bowing-2026.webp"
+image: "/images/korean-etiquette-for-business-meetings-business-cards-and-bowing-2026.webp"
 ---
 
 Entering the Korean business landscape in 2026 requires a delicate balance of respecting deep-rooted Confucian traditions while navigating a hyper-modern, fast-paced corporate environment. While Seoul has solidified its status as a global tech and fashion capital, the underlying protocols of respect—specifically regarding hierarchy, bowing, and the exchange of business cards—remain the bedrock of professional relationships.

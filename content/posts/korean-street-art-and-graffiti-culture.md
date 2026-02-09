@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "10 min read"
 featured: false
-image: "/images/posts/korean-street-art-and-graffiti-culture.webp"
+image: "/images/korean-street-art-and-graffiti-culture.webp"
 ---
 
 When travelers picture South Korea, the image often oscillates between the ancient curves of Gyeongbokgung Palace and the futuristic LED glow of Gangnam skyscrapers. However, nestled in the forgotten alleyways, industrial complexes, and riverside tunnels lies a vibrant, rebellious, and increasingly sophisticated subculture: Korean street art and graffiti.

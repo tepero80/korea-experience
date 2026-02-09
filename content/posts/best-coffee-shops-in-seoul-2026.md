@@ -12,7 +12,7 @@ tags:
   - "Korean Culture"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/best-coffee-shops-in-seoul-2026.webp"
+image: "/images/best-coffee-shops-in-seoul-2026.webp"
 ---
 
 Seoul is arguably the coffee capital of Asia, boasting more cafes per capita than Seattle or Melbourne, with trends shifting rapidly from industrial warehouses to hyper-specialized espresso bars in 2026. The best coffee shops in Seoul for travelers are currently concentrated in Seongsu-dong, Hannam-dong, and the historic Jongno district, offering a mix of champion barista brews, stunning architectural interiors, and the ubiquitous "Eoljukah" (Iced Americano) culture.

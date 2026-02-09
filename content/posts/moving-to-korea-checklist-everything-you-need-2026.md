@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/moving-to-korea-checklist-everything-you-need-2026.webp"
+image: "/images/moving-to-korea-checklist-everything-you-need-2026.webp"
 ---
 
 Relocating to South Korea remains one of the most exciting yet complex decisions a global citizen can make. In 2026, the process has become more streamlined thanks to digital visa applications and improved English services, yet the competition for prime housing in Seoul and the nuances of the "pali-pali" (hurry-hurry) culture require meticulous preparation. Whether you are arriving as a student, an English teacher, or on the increasingly popular Workation Visa, success lies in the details.

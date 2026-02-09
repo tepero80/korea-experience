@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/f-visa-family-reunion-requirements.webp"
+image: "/images/f-visa-family-reunion-requirements.webp"
 ---
 
 Navigating the immigration system in South Korea can feel like maneuvering through a labyrinth, especially when the goal is as personal and significant as family reunification. Whether you are a foreign resident looking to bring your spouse and children to Seoul, or you have recently married a South Korean national, understanding the specific F-visa requirements is the first step toward a stable life together in the Land of the Morning Calm.

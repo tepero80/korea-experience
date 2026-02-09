@@ -7,7 +7,7 @@ category: Living in Korea
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 3
-image: "/images/deep-dive/seoul-transit-climate-card-vs-tmoney-2026.webp"
+image: "/images/seoul-transit-climate-card-vs-tmoney-2026.webp"
 ---
 
 So, you've just stepped off the plane, the neon lights of Seoul are calling, and you're staring at a rack of transit cards wondering which one is actually going to save you some serious won. Look, I've been there, and honestly, the answer depends entirely on how much of a "neighborhood hopper" you are.

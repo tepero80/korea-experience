@@ -14,7 +14,7 @@ tags:
   - "Dental"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/k-pop-karaoke-noraebang-song-requests-in-english.webp"
+image: "/images/k-pop-karaoke-noraebang-song-requests-in-english.webp"
 ---
 
 Walking into a Korean karaoke room, locally known as a *Noraebang*, is a rite of passage for any traveler visiting Seoul. Whether you are in the neon-soaked streets of Gangnam or the university district of Hongdae, the sound of muffled singing echoes from the 2nd and 3rd floors of almost every building. However, for non-Korean speakers, staring at a remote control filled with unfamiliar buttons can be daunting. Mastering K Pop karaoke Noraebang song requests in English is the key to unlocking an unforgettable night out.

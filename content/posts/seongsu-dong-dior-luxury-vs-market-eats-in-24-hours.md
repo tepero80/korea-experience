@@ -14,7 +14,7 @@ tags:
   - "Travel Tips"
 readTime: "16 min read"
 featured: true
-image: "/images/posts/seongsu-dong-dior-luxury-vs-market-eats-in-24-hours.webp"
+image: "/images/seongsu-dong-dior-luxury-vs-market-eats-in-24-hours.webp"
 ---
 
 Seongsu-dong is the definitive answer to the question, "Where is the coolest place in Seoul right now?" Often dubbed the "Brooklyn of Seoul," this neighborhood in eastern Seoul has successfully transformed from a gritty industrial hub of handmade shoe factories into the epicenter of K-fashion, café culture, and pop-up events in 2026. However, what makes Seongsu truly unique is its duality: you can sip a ₩12,000 artisanal latte next to a mechanic shop, or photograph the shimmering facade of the Dior concept store before walking two blocks to eat a ₩9,000 bowl of pork bone soup.

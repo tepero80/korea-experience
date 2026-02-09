@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "20 min read"
 featured: false
-image: "/images/posts/smile-pro-eye-surgery-the-2026-tech-upgrade-from-lasik-2026.webp"
+image: "/images/smile-pro-eye-surgery-the-2026-tech-upgrade-from-lasik-2026.webp"
 ---
 
 # SMILE Pro Eye Surgery: The 2026 Tech Upgrade Revolutionizing Vision Correction

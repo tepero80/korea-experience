@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "10 min read"
 featured: false
-image: "/images/posts/modern-korean-fine-dining-a-new-generation-of-michelin-chefs-2026.webp"
+image: "/images/modern-korean-fine-dining-a-new-generation-of-michelin-chefs-2026.webp"
 ---
 
 Seoul’s gastronomic landscape has undergone a seismic shift over the last decade, culminating in 2026 as one of the world’s most dynamic culinary capitals. The era of purely traditional *Hansik* has evolved into "New Korean" cuisine—a genre defined by chefs who respect heritage while boldly applying global techniques. With the release of the Michelin Guide Seoul 2026, we see a distinct passing of the torch and a solidification of Korean fine dining as a global powerhouse.

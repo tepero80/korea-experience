@@ -1,17 +1,18 @@
-﻿---
+---
 title: "Korean Tax Return for Foreigners: Get Money Back 2026"
 date: 2026-01-20
 excerpt: "Guide for foreigners on navigating Korea's tax return process for 2026. Learn how to claim deductions, file accurately, and maximize your refund."
 category: Living in Korea
 author: Korea Experience Team
+image: "/images/korean-tax-return-guide-for-foreigners-how-to-get-money-back-2026.webp"
 ---
-
 ## Korean Tax Return Guide for Foreigners: How to Get Money Back in 2026
 
 Navigating the complexities of a foreign tax system can feel like deciphering an ancient scroll, especially when you are thousands of miles from home. For many international residents and expats in South Korea, the annual tax return process can seem daunting, leading to missed opportunities for significant refunds. Are you an expat, a foreign worker, or an international traveler who earned income in Korea during the 2025 tax year? If so, you're likely facing your Korean tax return in 2026. This comprehensive guide is designed to demystify the process, helping you understand your obligations, unlock potential deductions, and ultimately, get money back.
 
 We know that taxes aren't the most exciting topic, but understanding your entitlements can put hundreds or even thousands of Korean Won back into your pocket. From understanding your residency status to leveraging tax treaties and utilizing the National Tax Service's online platform, Hometax, this guide will equip you with the knowledge and confidence to approach your 2026 Korean tax return efficiently and effectively. Let's dive in and turn what seems like a chore into a rewarding financial opportunity.
 
+image: "/images/korean-tax-return-guide-for-foreigners-how-to-get-money-back-2026.webp"
 ---
 
 ## Understanding Korea's Tax System for Foreigners in 2026

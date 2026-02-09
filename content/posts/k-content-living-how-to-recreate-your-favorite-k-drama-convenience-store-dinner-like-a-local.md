@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/k-content-living-how-to-recreate-your-favorite-k-drama-convenience-store-dinner-like-a-local.webp"
+image: "/images/k-content-living-how-to-recreate-your-favorite-k-drama-convenience-store-dinner-like-a-local.webp"
 ---
 
 The chime of the door sensor as you walk into a bright, air-conditioned sanctuary at 2:00 AM is a sound synonymous with modern life in Seoul. For fans of K-Dramas, the Korean convenience store—or "pyeon-u-jeom"—is more than just a place to buy water; it is a critical plot device. It is where characters in *Crash Landing on You* bond over instant noodles, or where the cast of *Squid Game* shares a meager meal and a bottle of soju.

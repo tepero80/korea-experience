@@ -14,7 +14,7 @@ tags:
   - "Botox"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/best-dermatology-clinics-in-seoul-for-foreigners.webp"
+image: "/images/best-dermatology-clinics-in-seoul-for-foreigners.webp"
 ---
 
 Finding the right dermatologist in Seoul can be overwhelming. With over 500 clinics concentrated in the Gangnam district alone, the sheer volume of choices often leaves international travelers paralyzed by decision fatigue. You are looking for a facility that offers the legendary "Korean Glass Skin" results, uses genuine equipment, provides clear pricing without "foreigner premiums," and, most importantly, communicates fluently in English.

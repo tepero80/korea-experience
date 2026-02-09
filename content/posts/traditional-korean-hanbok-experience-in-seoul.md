@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/traditional-korean-hanbok-experience-in-seoul.webp"
+image: "/images/traditional-korean-hanbok-experience-in-seoul.webp"
 ---
 
 Wearing a Hanbok, the traditional Korean attire, is more than just a tourist activity; it is a rite of passage for visitors to Seoul and a deeply respectful nod to the nation's vibrant history. As you walk through the bustling streets of Jongno-gu, surrounded by skyscrapers and ancient palaces, slipping into these elegant garments transports you back to the Joseon Dynasty.

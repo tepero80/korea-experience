@@ -12,7 +12,7 @@ tags:
   - "Korean Culture"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/food-tours-beyond-korean-bbq-street-food-adventures.webp"
+image: "/images/food-tours-beyond-korean-bbq-street-food-adventures.webp"
 ---
 
 While Korean BBQ and spicy street food like tteokbokki have rightfully earned their place on the global culinary stage, they represent only a fraction of South Korea’s 5,000-year-old gastronomic history. For the discerning traveler in 2026, the true adventure begins when you step away from the grill and into the world of artisanal brewing, temple cuisine, and royal court dining. From the fermentation jars of rural distilleries to the silent, mindful meals of mountain temples, Korea offers immersive food tours that provide a deeper understanding of its culture.

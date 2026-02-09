@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/gym-memberships-in-korea-pricing-and-contracts.webp"
+image: "/images/gym-memberships-in-korea-pricing-and-contracts.webp"
 ---
 
 Staying fit while living in South Korea has become significantly easier—and arguably more intense—over the last decade. The country has seen an explosion in fitness culture, driven by the "Body Profile" trend where individuals train like athletes for months to take professional photoshoot pictures. For expats and travelers, this means you are rarely more than 500 meters away from a high-quality fitness center, especially in major hubs like Seoul, Busan, or Daegu.

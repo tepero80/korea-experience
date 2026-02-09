@@ -12,7 +12,7 @@ tags:
   - "Korean Culture"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026.webp"
+image: "/images/dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026.webp"
 ---
 
 Visiting the Korean Demilitarized Zone (DMZ) remains the most popular day trip for international travelers in 2026, but the rules and accessibility have changed significantly over the last few years. To visit the DMZ from Seoul, you generally **must book a guided tour**, as individual travel beyond the Civilian Control Line is heavily restricted. As of early 2026, the standard DMZ tour (including the 3rd Infiltration Tunnel and Dora Observatory) is fully operational and runs daily (except Mondays and holidays), costing between **₩55,000 and ₩75,000** ($40–$55 USD) per person. However, the Joint Security Area (JSA/Panmunjom)—where soldiers stand face-to-face—remains subject to sudden closures due to geopolitical tensions and UN Command directives.

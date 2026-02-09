@@ -14,7 +14,7 @@ tags:
   - "Banking"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/h-1-working-holiday-visa-complete-guide.webp"
+image: "/images/h-1-working-holiday-visa-complete-guide.webp"
 ---
 
 For many international travelers, the dream of living in South Korea extends far beyond a two-week vacation. The allure of neon-lit streets in Gangnam, the serenity of ancient palaces, and the dynamism of K-culture has led to a surge in long-term visitors. If you are between the ages of 18 and 30 (or 35 for select nationalities), the H-1 Working Holiday Visa is your golden ticket to experiencing life on the peninsula for a full year.

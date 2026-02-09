@@ -14,7 +14,7 @@ tags:
   - "Photography"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/historic-hanok-villages-beyond-bukchon.webp"
+image: "/images/historic-hanok-villages-beyond-bukchon.webp"
 ---
 
 While Bukchon Hanok Village is the poster child for traditional Korean architecture, smart travelers know that the true charm of the *Hanok* (traditional Korean house) is often found away from the crushing crowds of northern Seoul. If you are looking for tranquility, architectural diversity, and a deeper connection to Korean history without fighting for photo angles, you must venture beyond the main tourist trail.

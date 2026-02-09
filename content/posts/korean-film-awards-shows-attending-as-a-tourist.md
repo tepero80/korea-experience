@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/korean-film-awards-shows-attending-as-a-tourist.webp"
+image: "/images/korean-film-awards-shows-attending-as-a-tourist.webp"
 ---
 
 South Korea’s cinema industry has exploded onto the global stage, transforming local awards ceremonies into international spectacles. For film enthusiasts and Hallyu fans, attending a Korean film awards show is the ultimate bucket-list experience. However, navigating the ticketing ecosystem, understanding the venue logistics, and securing a spot near the red carpet can be daunting for international travelers.

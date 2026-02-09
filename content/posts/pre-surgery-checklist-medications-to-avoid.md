@@ -1,9 +1,10 @@
-﻿---
+---
 title: "Medications to Avoid Before Surgery in Korea"
 date: 2026-01-27
 excerpt: "Essential guide for international patients preparing for surgery in Korea. Learn which medications to stop, why it's critical, and how to plan effectively."
 category: Medical Tourism
 author: Korea Experience Team
+image: "/images/pre-surgery-checklist-medications-to-avoid.webp"
 ---
 Korea has emerged as a global leader in medical tourism, drawing thousands of international patients each year with its cutting-edge technology, highly skilled medical professionals, and world-class healthcare facilities. From advanced diagnostics to complex surgical procedures, the quality of care in Korea is exceptional. However, preparing for surgery in a foreign country, even one as sophisticated as Korea, requires meticulous planning, especially concerning your medication regimen.
 

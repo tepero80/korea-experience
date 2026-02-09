@@ -7,7 +7,7 @@ category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 18
-image: "/images/deep-dive/seongsu-popup-guide-2026.webp"
+image: "/images/seongsu-popup-guide-2026.webp"
 ---
 
 The short answer is: Stop trying to use Kakao or Naver booking systems without a local ID; instead, show up at the venue an hour early and look for the 'Foreigner Kiosk' QR code that many 2026 pop-ups now offer. Alternatively, use a professional proxy service like Global SH to reserve your slot remotely before you even land in Seoul.

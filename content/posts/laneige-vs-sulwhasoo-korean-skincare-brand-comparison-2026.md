@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/laneige-vs-sulwhasoo-korean-skincare-brand-comparison-2026.webp"
+image: "/images/laneige-vs-sulwhasoo-korean-skincare-brand-comparison-2026.webp"
 ---
 
 When standing in the gleaming aisles of an Olive Young in Myeongdong or the opulent halls of the Shinsegae Department Store, travelers are often faced with a difficult choice between two titans of the K-Beauty world: Laneige and Sulwhasoo. While both are owned by the massive conglomerate AmorePacific, they occupy vastly different worlds in terms of philosophy, pricing, and target audience. In 2026, the distinction between these brands has become even more refined, yet the choice remains challenging for newcomers to Korean skincare.

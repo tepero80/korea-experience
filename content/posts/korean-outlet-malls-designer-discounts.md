@@ -12,7 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/korean-outlet-malls-designer-discounts.webp"
+image: "/images/korean-outlet-malls-designer-discounts.webp"
 ---
 
 For international travelers seeking the best deals on luxury and sportswear, Korean outlet malls offer a sophisticated shopping experience with discounts ranging from 30% to 70% off retail prices. The three major players—Shinsegae, Lotte, and Hyundai—operate massive suburban complexes that rival those in Europe or the United States, often featuring distinct "East" and "West" zones connected by pedestrian bridges. Whether you are looking for high-end European fashion houses like Bottega Veneta and Saint Laurent, or functional sportswear from Nike and Adidas, these outlets provide substantial savings compared to department stores in Gangnam or Myeongdong.

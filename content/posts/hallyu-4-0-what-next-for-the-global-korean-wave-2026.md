@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/hallyu-4-0-what-next-for-the-global-korean-wave-2026.webp"
+image: "/images/hallyu-4-0-what-next-for-the-global-korean-wave-2026.webp"
 ---
 
 The global phenomenon known as the Korean Wave, or *Hallyu*, has never been static. What began in the late 1990s as a regional curiosity fueled by television dramas has metamorphosed into a global cultural juggernaut. As we step into 2026, we are witnessing the dawn of **Hallyu 4.0**—an era defined not just by the consumption of content, but by the seamless integration of lifestyle, technology, and immersive "deep travel" experiences.

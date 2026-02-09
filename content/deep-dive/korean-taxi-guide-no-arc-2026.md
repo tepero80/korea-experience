@@ -6,7 +6,7 @@ category: Living in Korea
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 16
-image: "/images/deep-dive/korean-taxi-guide-no-arc-2026.webp"
+image: "/images/korean-taxi-guide-no-arc-2026.webp"
 ---
 
 Don't panic. While the main Kakao T app used to be a nightmare for tourists, the new K.Ride app and the updated Uber (UT) app let you sign up with your home country's number and use international credit cards without needing a local ID or a Korean SIM.

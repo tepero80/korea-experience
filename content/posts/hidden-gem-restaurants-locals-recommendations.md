@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/hidden-gem-restaurants-locals-recommendations.webp"
+image: "/images/hidden-gem-restaurants-locals-recommendations.webp"
 ---
 
 Finding the soul of Korean cuisine requires stepping off the main thoroughfares of Myeongdong and Gangnam. While famous guidebooks point you toward glossy establishments, the true culinary magic happens in the nondescript alleys, basement dwellings, and unmarked doorways where Seoulites actually dine. This guide explores hidden gem restaurants locals recommendations, curating a list that balances flavor, authenticity, and that thrill of discovery.

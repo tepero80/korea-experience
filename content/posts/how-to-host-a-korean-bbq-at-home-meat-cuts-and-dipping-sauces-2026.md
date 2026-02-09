@@ -14,7 +14,7 @@ tags:
   - "Itaewon"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/how-to-host-a-korean-bbq-at-home-meat-cuts-and-dipping-sauces-2026.webp"
+image: "/images/how-to-host-a-korean-bbq-at-home-meat-cuts-and-dipping-sauces-2026.webp"
 ---
 
 Bringing the vibrant energy of a Seoul grill house into your own dining room is one of the most rewarding culinary experiences you can curate for friends and family. As we move through 2026, the global fascination with Korean culture has evolved from a trend into a staple of international dining, yet many enthusiasts still hesitate to replicate the experience at home. Hosting a Korean BBQ (K-BBQ) is not just about cooking meat; it is a communal ritual that emphasizes "Jeong"—a deep emotional connection built through shared experiences.

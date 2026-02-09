@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/korean-eyewear-fashion-glasses-sunglasses-contacts.webp"
+image: "/images/korean-eyewear-fashion-glasses-sunglasses-contacts.webp"
 ---
 
 If you are wondering whether you should buy glasses or contact lenses while visiting South Korea, the answer is an absolute yes. Getting prescription eyewear in Korea is significantly faster, cheaper, and more stylish than in North America or Europe, with most prescription glasses ready for pickup in as little as 20 minutes.

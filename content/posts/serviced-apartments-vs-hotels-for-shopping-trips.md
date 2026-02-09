@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/serviced-apartments-vs-hotels-for-shopping-trips.webp"
+image: "/images/serviced-apartments-vs-hotels-for-shopping-trips.webp"
 ---
 
 When planning a dedicated shopping trip to South Korea, choosing between a serviced apartment (often called a "Residence" in Korea) and a traditional hotel is the single most important logistical decision you will make. It affects your budget, your ability to pack, and your daily comfort.

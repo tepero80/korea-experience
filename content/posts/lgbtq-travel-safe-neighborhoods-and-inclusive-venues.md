@@ -14,7 +14,7 @@ tags:
   - "Itaewon"
 readTime: "18 min read"
 featured: false
-image: "/images/posts/lgbtq-travel-safe-neighborhoods-and-inclusive-venues.webp"
+image: "/images/lgbtq-travel-safe-neighborhoods-and-inclusive-venues.webp"
 ---
 
 South Korea presents a unique paradox for LGBTQ+ travelers: it is statistically one of the safest countries in the world regarding violent crime, yet remains socially conservative regarding open expressions of queer identity. For international travelers arriving in 2026, navigating this landscape requires knowing exactly where to go to feel not just safe, but celebrated.

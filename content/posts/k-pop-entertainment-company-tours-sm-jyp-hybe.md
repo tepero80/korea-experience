@@ -14,7 +14,7 @@ tags:
   - "Coffee"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/k-pop-entertainment-company-tours-sm-jyp-hybe.webp"
+image: "/images/k-pop-entertainment-company-tours-sm-jyp-hybe.webp"
 ---
 
 For international fans, Seoul is more than just a capital city; it is the beating heart of the Hallyu wave. A pilgrimage to the headquarters of the "Big 4" agencies—SM, JYP, HYBE, and YG—is a bucket-list item for millions. However, the landscape of **K Pop entertainment company tours SM JYP HYBE** has changed dramatically in recent years. Agencies have moved neighborhoods, museums have closed or relocated, and new flagship stores have opened.

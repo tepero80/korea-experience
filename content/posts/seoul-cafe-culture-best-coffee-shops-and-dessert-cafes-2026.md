@@ -14,7 +14,7 @@ tags:
   - "Coffee"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/seoul-cafe-culture-best-coffee-shops-and-dessert-cafes-2026.webp"
+image: "/images/seoul-cafe-culture-best-coffee-shops-and-dessert-cafes-2026.webp"
 ---
 
 Seoul is not merely a city that drinks coffee; it is a metropolis that lives and breathes cafe culture. By 2026, the South Korean capital has solidified its reputation as the global epicenter of specialty coffee and aesthetic interiors, boasting over 18,000 cafes within the city limits alone. For international travelers, navigating this caffeinated landscape offers a window into the soul of modern Korea, where a cup of coffee is rarely just a beverage—it is a ticket to a carefully curated spatial experience.

@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-buffet-culture-all-you-can-eat-options.webp"
+image: "/images/korean-buffet-culture-all-you-can-eat-options.webp"
 ---
 
 South Korea has revolutionized the concept of dining out with its unique "Muhan Refill" culture. Unlike standard Western buffets where quality often takes a backseat to quantity, the Korean buffet scene offers a sophisticated blend of high-quality ingredients, specialized themes, and incredible value for money. Whether you are craving premium cuts of pork belly, endless customized tteokbokki, or a luxurious seafood spread at a 5-star hotel, Seoul and its surrounding cities offer an all-you-can-eat experience that caters to every palate and budget.

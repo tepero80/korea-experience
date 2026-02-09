@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/smart-shopping-at-olive-young-using-the-app-and-maximizing-sales-2026.webp"
+image: "/images/smart-shopping-at-olive-young-using-the-app-and-maximizing-sales-2026.webp"
 ---
 
 To maximize savings at Olive Young in 2026, you must combine the quarterly "Big Bang" sales (March, June, September, December) with the immediate tax refund system available at the register for purchases over ₩30,000. While the global app is excellent for browsing, the smartest strategy involves using the Korean app's "Today's Pickup" feature to secure stock at sale prices before visiting physical flagship stores in Myeongdong or Gangnam, ensuring you never miss out on viral items that sell out by noon.

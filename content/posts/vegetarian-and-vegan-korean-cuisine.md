@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "10 min read"
 featured: false
-image: "/images/posts/vegetarian-and-vegan-korean-cuisine.webp"
+image: "/images/vegetarian-and-vegan-korean-cuisine.webp"
 ---
 
 Vegetarian and vegan travel in South Korea has undergone a radical transformation over the last decade. Once considered a culinary challenge due to the ubiquity of bone broths and salted shrimp in side dishes, Korea is now emerging as a sophisticated destination for plant-based dining. As of 2026, the number of vegan-friendly establishments in Seoul alone has surpassed 950, reflecting a growing domestic interest in health and sustainability.

@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/korean-stew-variations-jjigae-jeongol-hotpot.webp"
+image: "/images/korean-stew-variations-jjigae-jeongol-hotpot.webp"
 ---
 
 The soul of Korean cuisine does not lie in BBQ, despite its international fame. It resides in the bubbling, steaming earthenware pots filled with rich broths, spicy pastes, and communal warmth. For any traveler or expat navigating the culinary landscape of the peninsula, understanding Korean stew variations—specifically the distinction between Jjigae, Jeongol, and Hotpot—is the key to unlocking the true local dining experience.

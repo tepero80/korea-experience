@@ -13,7 +13,7 @@ tags:
   - "Airport Guide"
 readTime: "18 min read"
 featured: true
-image: "/images/posts/korea-travel-sim-cards-vs-esim-comparison.webp"
+image: "/images/korea-travel-sim-cards-vs-esim-comparison.webp"
 ---
 
 Deciding how to stay connected in South Korea is the very first technical challenge every traveler faces. With South Korea boasting the world's fastest average mobile internet speeds (often exceeding 100 Mbps on standard LTE and 600+ Mbps on 5G), being disconnected here isn't just inconvenient—it renders you invisible in a digital-first society. You need a connection to hail a KakaoTaxi, translate menus with Papago, navigate the complex subway system via Naver Map, and increasingly, to order food at kiosks.

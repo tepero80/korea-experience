@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/korean-bar-snacks-pairing-food-with-drinks.webp"
+image: "/images/korean-bar-snacks-pairing-food-with-drinks.webp"
 ---
 
 In South Korea, drinking is rarely a solitary act, and it almost never happens without food. This cultural cornerstone is known as *Anju*—a term specifically referring to food consumed with alcohol. Unlike Western pub culture where peanuts or pretzels might suffice, Korean Anju is a culinary universe unto itself, ranging from light dried snacks to heavy, simmering stews that could constitute a full meal.

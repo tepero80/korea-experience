@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "15 min read"
 featured: true
-image: "/images/posts/night-markets-regional-street-food-scenes.webp"
+image: "/images/night-markets-regional-street-food-scenes.webp"
 ---
 
 The quintessential Korean nightlife experience isn't found in a club in Gangnam, but rather under the yellow tent lights of a bustling night market. For travelers asking where to find the best street food scenes in 2026, the answer varies significantly by region. Seoul offers a mix of hyper-modern food trucks and traditional wet markets, Busan dominates the seafood and multicultural snack scene, while Daegu and Jeonju offer deeply traditional flavors at lower price points.

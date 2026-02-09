@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/kid-friendly-restaurants-with-play-areas.webp"
+image: "/images/kid-friendly-restaurants-with-play-areas.webp"
 ---
 
 Traveling to Korea with children offers a unique set of joys and challenges, particularly when it comes to dining. While the country is renowned for its culinary scene, navigating meal times with energetic toddlers or bored elementary schoolers can be daunting. Fortunately, Korea has perfected the art of the "Yes Kids Zone," offering a plethora of kid-friendly restaurants with play areas that rival small theme parks.

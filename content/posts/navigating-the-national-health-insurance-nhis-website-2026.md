@@ -14,7 +14,7 @@ tags:
   - "Dental"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/navigating-the-national-health-insurance-nhis-website-2026.webp"
+image: "/images/navigating-the-national-health-insurance-nhis-website-2026.webp"
 ---
 
 Navigating government bureaucracy is rarely a highlight of living abroad, but in South Korea, mastering the National Health Insurance Service (NHIS) website is not just a convenience—it is a necessity. By 2026, the NHIS digital infrastructure has evolved significantly, moving away from the clunky ActiveX controls of the past toward a more streamlined, mobile-first ecosystem. However, for the estimated 2.6 million foreign residents currently living in Korea, the language barrier and strict authentication protocols remain significant hurdles.

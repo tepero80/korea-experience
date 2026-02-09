@@ -5,7 +5,7 @@ excerpt: "Unlock access to rare K-pop, K-drama, and K-beauty limited-edition mer
 category: K-Culture
 author: Korea Experience Team
 featured: true
-image: "/images/posts/k-fandom-economy-where-to-find-limited-edition-goods-without-a-fan-club-membership.webp"
+image: "/images/k-fandom-economy-where-to-find-limited-edition-goods-without-a-fan-club-membership.webp"
 featuredOrder: 4
 tags:
   - "Korean Food"

@@ -6,7 +6,7 @@ category: Food & Dining
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 41
-image: "/images/deep-dive/drinking-etiquette-pour-and-receive.webp"
+image: "/images/drinking-etiquette-pour-and-receive.webp"
 ---
 
 So, you’re in Seoul. The neon lights are humming, the smell of grilled pork belly (Samgyeopsal) is wafting through the air, and you’ve just sat down with your new Korean friends or colleagues. A green bottle appears. What do you do?

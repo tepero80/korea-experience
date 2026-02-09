@@ -14,7 +14,7 @@ tags:
   - "Culture"
 readTime: "15 min read"
 featured: true
-image: "/images/posts/seoul-nightlife-guide-for-international-visitors.webp"
+image: "/images/seoul-nightlife-guide-for-international-visitors.webp"
 ---
 
 Seoul is a city that truly never sleeps, offering a spectrum of nocturnal activities that range from high-energy electronic dance music festivals to serene, moonlit walks along ancient palace walls. If you are looking for the best places to experience the capital after dark, the short answer is that your destination depends entirely on your budget and musical preference.

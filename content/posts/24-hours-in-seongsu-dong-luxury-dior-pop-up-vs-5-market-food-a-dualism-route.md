@@ -5,7 +5,7 @@ excerpt: "Experience Seongsu-dong's unique dualism: from high-fashion Dior pop-u
 category: Travel & Tourism
 author: Korea Experience Team
 featured: true
-image: "/images/posts/24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route.webp"
+image: "/images/24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route.webp"
 featuredOrder: 2
 tags:
   - "Travel Tips"

@@ -13,7 +13,7 @@ tags:
   - "Traditional Markets"
 readTime: "18 min read"
 featured: true
-image: "/images/posts/traditional-korean-markets-in-seoul-shopping-guide.webp"
+image: "/images/traditional-korean-markets-in-seoul-shopping-guide.webp"
 ---
 
 Seoul’s traditional markets are the beating heart of the city, offering an unfiltered glimpse into Korean life that you simply cannot find in the polished corridors of department stores like The Hyundai Seoul or Lotte World Mall. Whether you are looking for vintage clothing, medicinal herbs, fresh sashimi, or the world-famous Korean street food, the city's markets provide the most authentic experiences. In 2026, these markets have evolved to become even more accessible to international visitors, yet they retain the gritty, energetic charm that makes them unique.

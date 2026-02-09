@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/furniture-shopping-ikea-vs-korean-brands.webp"
+image: "/images/furniture-shopping-ikea-vs-korean-brands.webp"
 ---
 
 Moving to South Korea is an exhilarating adventure, but once the initial excitement of landing in Seoul or Busan fades, the reality of settling in begins. For many expats and international residents, the first major hurdle is transforming an empty apartment or "officetel" into a comfortable home. The dilemma is immediate: Do you stick with the familiar blue-and-yellow aisles of IKEA, or do you dive into the local market dominated by giants like Hanssem and Livart?

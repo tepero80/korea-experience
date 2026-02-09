@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/gangnam-underground-shopping-complex.webp"
+image: "/images/gangnam-underground-shopping-complex.webp"
 ---
 
 If you are looking for the epicenter of fast fashion trends in Seoul, look no further than the subterranean maze beneath Seoul’s busiest subway station. While the streets of Gangnam above ground are lined with high-end skyscrapers, plastic surgery clinics, and corporate headquarters, the Gangnam Underground Shopping Complex offers a completely different ecosystem: a sprawling, high-energy marketplace dedicated to affordable K-fashion, cosmetics, and accessories.

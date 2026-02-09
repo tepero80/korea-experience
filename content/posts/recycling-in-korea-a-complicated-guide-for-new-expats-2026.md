@@ -14,7 +14,7 @@ tags:
   - "Coffee"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/recycling-in-korea-a-complicated-guide-for-new-expats-2026.webp"
+image: "/images/recycling-in-korea-a-complicated-guide-for-new-expats-2026.webp"
 ---
 
 Moving to South Korea comes with many culture shocks, but few are as immediately practical and potentially frustrating as the waste management system. If you have just arrived in Seoul or Busan in 2026, you might find yourself staring at a pile of trash, confused by an array of colorful bags and strict collection times. You are not alone; even locals sometimes struggle with the evolving regulations.

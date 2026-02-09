@@ -6,7 +6,7 @@ category: Medical Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 43
-image: "/images/deep-dive/24-hour-english-pharmacies-in-seoul.webp"
+image: "/images/24-hour-english-pharmacies-in-seoul.webp"
 ---
 
 So, you ate way too much spicy tteokbokki at 2 AM and now you're regretting every life choice, or maybe that scratchy throat just hit you out of nowhere? Don't panic—finding a pharmacy open past midnight in Seoul is tricky but totally doable if you know the secret "Simya" system. While Seoul is a city that never sleeps, its medical infrastructure has historically followed a stricter schedule. However, with the 2026 updates to the Public Night Pharmacy program, you have more options than ever before—if you know where to look.

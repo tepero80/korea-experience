@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/korean-apartment-etiquette-what-neighbors-expect-2026.webp"
+image: "/images/korean-apartment-etiquette-what-neighbors-expect-2026.webp"
 ---
 
 Living in a Korean apartment complex (known locally as "apateu") is a distinct cultural experience that defines the lifestyle of over 51% of the country's population. By 2026, the standards for community living have evolved, blending traditional Confucian values of respect with high-tech smart living systems. For international residents, navigating these unwritten rules is crucial to avoiding conflict and enjoying a harmonious life in Seoul or Busan.

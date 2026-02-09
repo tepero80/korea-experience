@@ -14,7 +14,7 @@ tags:
   - "Botox"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/insurance-claims-for-medical-tourists-can-you-get-reimbursed-2026.webp"
+image: "/images/insurance-claims-for-medical-tourists-can-you-get-reimbursed-2026.webp"
 ---
 
 Reimbursing medical costs incurred while traveling to Korea for treatment is the number one financial question we receive from international patients. The reality of getting money back from your insurance provider depends entirely on the nature of your procedure—specifically, the distinction between "medically necessary" and "elective cosmetic." For the majority of medical tourists visiting Korea in 2026, standard international health insurance will **not** reimburse elective plastic surgery or dermatology procedures. However, specialized medical complication insurance and the Korean government's aggressive VAT refund system offer alternative ways to recoup costs.

@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/d-10-job-seeker-visa-after-graduation.webp"
+image: "/images/d-10-job-seeker-visa-after-graduation.webp"
 ---
 
 Graduating from a university in South Korea is a monumental achievement, but for international students, the celebration is often accompanied by the looming anxiety of visa expiration. The transition from student life (D-2 visa) to the professional world (E-7 visa) is rarely seamless. This is where the **D 10 Job Seeker Visa** becomes your most critical asset.

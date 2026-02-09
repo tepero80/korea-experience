@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/korean-fashion-weeks-attending-as-a-visitor.webp"
+image: "/images/korean-fashion-weeks-attending-as-a-visitor.webp"
 ---
 
 Seoul has rapidly ascended the ranks to become the fashion capital of Asia, rivaling Tokyo and Shanghai with its distinct blend of high-end luxury and edgy streetwear. For international travelers and K-culture enthusiasts, attending Korean Fashion Weeks as a visitor is a bucket-list experience that offers a front-row seat to the country's aesthetic explosion.

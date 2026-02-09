@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/finding-an-apartment-in-korea-complete-guide-for-foreigners.webp"
+image: "/images/finding-an-apartment-in-korea-complete-guide-for-foreigners.webp"
 ---
 
 Finding an apartment in South Korea is notoriously fast-paced and operates on a unique rental system that often baffles international arrivals. Unlike many Western countries where you might secure a lease months in advance with a modest security deposit, the Korean market moves at lightning speed—often within 1 to 2 weeks—and requires significant capital upfront. Whether you are moving to Seoul for work, study, or a long-term sabbatical, understanding the nuances of *Jeonse* (key money) and *Wolse* (monthly rent) is critical to your success.

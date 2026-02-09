@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/how-to-use-karrot-danggeun-korea-favorite-second-hand-app-2026.webp"
+image: "/images/how-to-use-karrot-danggeun-korea-favorite-second-hand-app-2026.webp"
 ---
 
 In 2026, living in Korea without the Karrot app (known locally as *Danggeun Market*) is almost unimaginable. Whether you are an exchange student looking for a cheap rice cooker, an expat furnishing a new apartment in Gangnam, or a traveler wanting to offload gear before flying out, Karrot is the undisputed king of the Korean circular economy. Unlike anonymous marketplaces, Karrot relies on strict location verification, ensuring you are trading with actual neighbors within a 2 to 6-kilometer radius.

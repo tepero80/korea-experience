@@ -6,7 +6,7 @@ category: K-Culture
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 45
-image: "/images/deep-dive/queen-of-tears-filming-locations.webp"
+image: "/images/queen-of-tears-filming-locations.webp"
 ---
 
 So you binged all 16 episodes, cried your eyes out over Hae-in and Hyun-woo, and now you want to walk in their footsteps? You are not alone. *Queen of Tears* became a global phenomenon not just for its acting, but for its breathtaking visuals. I’ve tracked down every major filming spot from Seoul to Germany—including the actual "Queens Department Store" and that dreamy wedding venue—so you can relive the romance (without the terminal illness scare, hopefully).

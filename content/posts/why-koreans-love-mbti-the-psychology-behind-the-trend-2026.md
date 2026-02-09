@@ -14,7 +14,7 @@ tags:
   - "Coffee"
 readTime: "10 min read"
 featured: false
-image: "/images/posts/why-koreans-love-mbti-the-psychology-behind-the-trend-2026.webp"
+image: "/images/why-koreans-love-mbti-the-psychology-behind-the-trend-2026.webp"
 ---
 
 If you have visited Seoul recently, or even just browsed Korean social media, you likely encountered a four-letter code almost immediately. In 2026, the Myers-Briggs Type Indicator (MBTI) is no longer just a psychology test in South Korea; it is a fundamental pillar of social interaction, dating, and even professional recruitment.

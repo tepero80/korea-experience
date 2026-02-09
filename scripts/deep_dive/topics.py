@@ -226,12 +226,12 @@ def get_deep_dive_posts() -> list[dict]:
         title = re.search(r'title:\s*"(.+?)"', fm)
         category = re.search(r'category:\s*(.+)', fm)
         excerpt = re.search(r'excerpt:\s*"(.+?)"', fm)
-        image = re.search(r'image:\s*"?(/images/deep-dive/[^"\s]+)"?', fm)
+        image = re.search(r'image:\s*"?(/images/[^"\s]+)"?', fm)
 
         if not title or not image:
             continue
 
-        slug = image.group(1).replace("/images/deep-dive/", "").replace(".webp", "")
+        slug = image.group(1).replace("/images/", "").replace(".webp", "")
 
         posts.append({
             "slug": slug,

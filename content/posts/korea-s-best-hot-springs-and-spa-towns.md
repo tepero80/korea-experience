@@ -14,7 +14,7 @@ tags:
   - "Korean Culture"
 readTime: "16 min read"
 featured: true
-image: "/images/posts/korea-s-best-hot-springs-and-spa-towns.webp"
+image: "/images/korea-s-best-hot-springs-and-spa-towns.webp"
 ---
 
 For international travelers seeking the ultimate relaxation experience, Korea's hot spring culture offers a unique blend of therapeutic healing, historical significance, and modern luxury. While Japan is often the first country associated with *onsen*, Korea possesses a deep-rooted bathing culture (*oncheon*) dating back over a millennium, featuring water rich in germanium, sulfur, and alkaline minerals essential for skin health and stress relief.

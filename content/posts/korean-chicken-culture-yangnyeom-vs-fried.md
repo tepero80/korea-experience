@@ -14,7 +14,7 @@ tags:
   - "Itaewon"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/korean-chicken-culture-yangnyeom-vs-fried.webp"
+image: "/images/korean-chicken-culture-yangnyeom-vs-fried.webp"
 ---
 
 Korean Fried Chicken is not just a meal; it is a national institution, a social lubricant, and a culinary heavyweight champion that has taken the world by storm. However, for travelers arriving in Seoul for the first time, the menu presents an immediate and difficult dilemma: the choice between the original, crispy "Fried" chicken and the sticky, sweet-and-spicy "Yangnyeom" chicken.

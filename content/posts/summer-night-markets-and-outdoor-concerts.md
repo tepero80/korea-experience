@@ -14,7 +14,7 @@ tags:
   - "Summer Travel"
 readTime: "16 min read"
 featured: true
-image: "/images/posts/summer-night-markets-and-outdoor-concerts.webp"
+image: "/images/summer-night-markets-and-outdoor-concerts.webp"
 ---
 
 The quintessential Korean summer experience isn't found in air-conditioned malls or midday tours; it comes alive when the sun goes down. **The short answer: The best summer night markets in 2026 are the Hangang Moonlight Market (Banpo) and Seoul Bamnokkae (DDP), while top outdoor concerts include the Waterbomb Festival and free performances at Yeouido Floating Stage.**

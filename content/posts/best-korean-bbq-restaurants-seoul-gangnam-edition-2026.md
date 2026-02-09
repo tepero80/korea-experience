@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/best-korean-bbq-restaurants-seoul-gangnam-edition-2026.webp"
+image: "/images/best-korean-bbq-restaurants-seoul-gangnam-edition-2026.webp"
 ---
 
 Seoul's Gangnam district remains the undisputed epicenter of global gastronomy in 2026, particularly when it comes to the art of Korean Barbecue (Gogi-gui). While the city is filled with thousands of grills, Gangnam offers a unique blend of high-end luxury beef experiences and trendy, dry-aged pork establishments that set the standard for the rest of the country.

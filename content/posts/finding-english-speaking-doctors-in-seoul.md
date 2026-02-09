@@ -14,7 +14,7 @@ tags:
   - "Dental"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/finding-english-speaking-doctors-in-seoul.webp"
+image: "/images/finding-english-speaking-doctors-in-seoul.webp"
 ---
 
 Navigating a healthcare system in a foreign language can be one of the most daunting aspects of living abroad or traveling. Fortunately, Seoul boasts a world-class medical infrastructure that is efficient, technologically advanced, and increasingly accessible to international patients. Whether you are dealing with a sudden flu, need a routine check-up, or require specialized care, finding an English-speaking doctor in Seoul is easier than you might think—provided you know where to look.

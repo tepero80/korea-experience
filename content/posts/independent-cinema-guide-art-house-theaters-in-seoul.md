@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/independent-cinema-guide-art-house-theaters-in-seoul.webp"
+image: "/images/independent-cinema-guide-art-house-theaters-in-seoul.webp"
 ---
 
 While South Korea's blockbuster hits like *Parasite* and *Squid Game* have captured global attention, the true soul of Korean filmmaking resides in the quiet, dimly lit auditoriums of Seoul's independent cinemas. For the cinephile traveler, the "Independent Cinema Guide Art House Theaters In Seoul" is not just a list of venues; it is a roadmap to the city's artistic underbelly, where storytelling triumphs over spectacle.

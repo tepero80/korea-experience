@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Alien Registration Card Application Process in Korea"
 date: 2026-01-01
 excerpt: "Unlock your life in Korea with this complete guide to the Alien Registration Card application process, ensuring a smooth transition and legal stay."
 category: Living in Korea
 author: Korea Experience Team
+image: "/images/alien-registration-card-application-process.webp"
 ---
-
 # Your Essential Guide to the Alien Registration Card Application Process in Korea
 
 Embarking on a new chapter in South Korea is an exhilarating prospect, brimming with vibrant culture, innovative technology, and unparalleled experiences. However, like any international move, navigating the administrative landscape is a critical first step. For anyone planning a long-term stay, understanding the **Alien Registration Card application process** is not just important; it's essential for a smooth, legal, and stress-free life in this dynamic nation.
@@ -109,6 +109,7 @@ In addition to the universal requirements, you will need specific documents base
 
 **Important Note:** Always check the Hikorea website or call the 1345 Immigration Contact Center (dial 1345 from within Korea) for the most up-to-date document requirements, as they can sometimes change without prior notice. It's better to over-prepare than to be turned away for a missing document.
 
+image: "/images/alien-registration-card-application-process.webp"
 ---
 
 **Table 1: Document Checklist by Common Visa Type**

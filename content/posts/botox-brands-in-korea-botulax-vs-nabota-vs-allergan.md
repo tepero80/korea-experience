@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/botox-brands-in-korea-botulax-vs-nabota-vs-allergan.webp"
+image: "/images/botox-brands-in-korea-botulax-vs-nabota-vs-allergan.webp"
 ---
 
 When planning a trip to Seoul for aesthetic treatments, the most common question travelers ask is whether to stick with the globally recognized Allergan or switch to a domestic Korean brand like Botulax or Nabota. The choice largely depends on your budget, your history with toxin treatments, and your specific aesthetic goals.

@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/hanbok-rental-complete-guide-styles-and-pricing.webp"
+image: "/images/hanbok-rental-complete-guide-styles-and-pricing.webp"
 ---
 
 Renting a Hanbok and strolling through Seoul's ancient palaces is widely considered the quintessential Korean travel experience. Whether you are visiting Gyeongbokgung Palace or wandering the narrow alleys of Bukchon Hanok Village, wearing traditional Korean attire immerses you in the culture and offers a unique perk: free admission to Seoul's major royal palaces.

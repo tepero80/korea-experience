@@ -13,7 +13,7 @@ tags:
   - "Walking Tour"
 readTime: "18 min read"
 featured: true
-image: "/images/posts/korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026.webp"
+image: "/images/korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026.webp"
 ---
 
 Deciding between visiting Gyeongbokgung Palace or Changdeokgung Palace in 2026 comes down to your specific travel style and schedule, but the optimal strategy is to visit both as they offer distinctly different experiences located just 1.2 kilometers apart. Gyeongbokgung is the main royal palace, famous for its massive scale, symmetrical architecture, and the Changing of the Guard ceremony, making it essential for first-time visitors. Changdeokgung, a UNESCO World Heritage site, is renowned for its harmonious design with nature and the exclusive Secret Garden (Huwon), which requires a separate reservation.

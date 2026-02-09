@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/how-to-call-a-taxi-in-korea-without-a-local-phone-number-kakao-t-alternatives-for-tourists.webp"
+image: "/images/how-to-call-a-taxi-in-korea-without-a-local-phone-number-kakao-t-alternatives-for-tourists.webp"
 ---
 
 Navigating the vibrant streets of Seoul or the coastal roads of Busan can be an exhilarating experience, but the logistics of transportation often present a significant hurdle for international travelers. While the subway system is world-class, there are times—especially with heavy luggage, late-night arrivals, or group travel—when a taxi is indispensable. A common panic point for visitors is realizing that the dominant local app, Kakao T, often requires a Korean phone number for full functionality.

@@ -14,7 +14,7 @@ tags:
   - "Hanbok"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/the-evolution-of-hanbok-from-dynasty-to-modern-streetwear-2026.webp"
+image: "/images/the-evolution-of-hanbok-from-dynasty-to-modern-streetwear-2026.webp"
 ---
 
 The silhouette of the *Hanbok* is unmistakable. With its gentle curves, vibrant colors, and voluminous skirts, it serves as the enduring symbol of Korean identity. However, walking through the streets of Seoul in 2026, you will notice something fascinating. The Hanbok is no longer confined to historical dramas or weddings. It has spilled onto the streets of Hongdae and Gangnam, reimagined as high-fashion streetwear that bridges a 600-year gap between tradition and modernity.

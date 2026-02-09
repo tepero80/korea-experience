@@ -12,7 +12,7 @@ tags:
   - "Korean Culture"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/best-day-trips-from-seoul-2026.webp"
+image: "/images/best-day-trips-from-seoul-2026.webp"
 ---
 
 Finding the perfect escape from the bustling capital requires knowing exactly where to go and how to navigate South Korea's rapidly evolving transport network.

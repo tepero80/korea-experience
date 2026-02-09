@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/best-spots-for-solo-dining-hon-bap-in-busy-districts-2026.webp"
+image: "/images/best-spots-for-solo-dining-hon-bap-in-busy-districts-2026.webp"
 ---
 
 Seoul has undergone a culinary revolution. By 2026, the stigma once associated with eating alone has not only evaporated but has been replaced by a celebration of independence known as *Hon Bap* (solo dining). With single-person households in South Korea surpassing 42% of the population this year, restaurants have rapidly adapted. From Gangnam's high-tech automated booths to Hongdae's cozy fusion counters, the city is now a haven for the solo traveler.

@@ -14,7 +14,7 @@ tags:
   - "Fillers"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/filler-types-hyaluronic-acid-vs-calcium-hydroxylapatite.webp"
+image: "/images/filler-types-hyaluronic-acid-vs-calcium-hydroxylapatite.webp"
 ---
 
 South Korea has firmly established itself as the global capital of aesthetic medicine. Walking through the streets of Gangnam in Seoul, you are never more than 50 meters away from a dermatology clinic. For international travelers, the allure isn't just the K-Pop aesthetic; it is the combination of advanced technology, skilled practitioners, and competitive pricing. One of the most common dilemmas visitors face when booking their treatments is choosing between filler types: Hyaluronic Acid (HA) versus Calcium Hydroxylapatite (CaHA).

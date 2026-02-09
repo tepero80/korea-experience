@@ -12,7 +12,7 @@ tags:
   - "Korean Food"
 readTime: "16 min read"
 featured: false
-image: "/images/posts/rooftop-bars-with-best-seoul-skyline-views.webp"
+image: "/images/rooftop-bars-with-best-seoul-skyline-views.webp"
 ---
 
 Finding the perfect vantage point to soak in Seoul’s sprawling metropolis is a quest that tops the bucket list of almost every traveler. The city’s unique topography—a dramatic blend of jagged granite mountains, the winding Han River, and futuristic skyscrapers—creates a skyline that is visually distinct from any other in Asia. Whether you are looking to sip a handcrafted cocktail while watching the sunset over Namsan Tower or seeking a pulsing electronic beat amidst the glitter of Gangnam, Seoul’s rooftop bar scene has evolved into a world-class attraction.

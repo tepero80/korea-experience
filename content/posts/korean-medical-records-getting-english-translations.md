@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/korean-medical-records-getting-english-translations.webp"
+image: "/images/korean-medical-records-getting-english-translations.webp"
 ---
 
 Navigating the healthcare system in a foreign country can be daunting, but retrieving your medical history in a language you understand is often the most critical step for continuity of care. Whether you have undergone a complex surgery in Gangnam or visited a local clinic for a sudden illness, obtaining **Korean medical records with English translations** is a specific administrative process that differs significantly from Western systems.

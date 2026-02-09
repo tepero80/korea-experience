@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/best-korean-toners-for-every-skin-type-2026.webp"
+image: "/images/best-korean-toners-for-every-skin-type-2026.webp"
 ---
 
 Finding the perfect toner is the single most transformative step in a K-Beauty routine, acting as the critical bridge between cleansing and moisturizing. If you are looking for the best Korean toners in 2026, the market has shifted toward barrier repair and fermentation, with the **Anua Heartleaf 77% Soothing Toner** remaining the top choice for acne-prone skin, while the **Laneige Cream Skin Cerapeptide Refiner** dominates the category for dry skin types.

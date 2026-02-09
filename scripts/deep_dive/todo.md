@@ -46,7 +46,7 @@
 44. [T] Seoul Bike (Ddaereungi) without local number  | done  | RIC  | 2026-02-09
 45. [K] Queen of Tears filming locations  | done  | RIC  | 2026-02-09
 46. [L] Climate Card: Is it worth it for 30 days?  | done  | RIC  | 2026-02-09
-47. [F] Convenience Store Must-Buys: GS25 vs. CU
+47. [F] Convenience Store Must-Buys: GS25 vs. CU  | done  | RIC  | 2026-02-09
 48. [S] Korean glasses and lenses in 30 mins
 49. [M] Comparing Botox: Coretox vs. Innotox vs. Allergan
 50. [T] Temple Stay for non-Buddhists

@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-seafood-delicacies-raw-fish-to-grilled-shellfish.webp"
+image: "/images/korean-seafood-delicacies-raw-fish-to-grilled-shellfish.webp"
 ---
 
 With over 2,413 kilometers of coastline surrounding the peninsula on three sides, South Korea boasts one of the most vibrant and diverse seafood cultures in the world. For international travelers, the sheer variety of marine delicacies—ranging from the freshest raw fish to sizzling grilled shellfish—can be both mesmerizing and overwhelming. Unlike Western seafood dining, which often emphasizes sauces and cooking techniques, Korean seafood culture prioritizes texture and absolute freshness, often serving catch that was swimming just minutes before it arrived at your table.

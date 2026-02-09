@@ -13,7 +13,7 @@ tags:
   - "Extreme Sports"
 readTime: "16 min read"
 featured: true
-image: "/images/posts/winter-sports-skiing-snowboarding-and-ice-climbing.webp"
+image: "/images/winter-sports-skiing-snowboarding-and-ice-climbing.webp"
 ---
 
 South Korea’s winter sports season typically runs from early December through early March, with the peak snow conditions occurring between mid-January and early February. For international travelers, the best skiing and snowboarding experiences are found in Gangwon-do Province, approximately 2 to 3 hours east of Seoul, where resorts like Yongpyong and High1 offer world-class facilities. Ice climbing enthusiasts should head to the Cheongsong Ice Valley in Gyeongsangbuk-do. Expect to budget between ₩60,000 and ₩100,000 per day for lift tickets, with equipment rentals adding another ₩25,000 to ₩40,000.

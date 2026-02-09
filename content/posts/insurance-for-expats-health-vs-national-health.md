@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/insurance-for-expats-health-vs-national-health.webp"
+image: "/images/insurance-for-expats-health-vs-national-health.webp"
 ---
 
 Navigating a new healthcare system is often the most daunting aspect of moving abroad. South Korea boasts one of the most efficient and high-quality healthcare infrastructures in the world, often ranking in the top 5 globally for healthcare efficiency. However, for expats, the landscape changed drastically in July 2019 when the government made enrollment in the National Health Insurance Service (NHIS) mandatory for foreign residents who have resided in the country for six months or longer.

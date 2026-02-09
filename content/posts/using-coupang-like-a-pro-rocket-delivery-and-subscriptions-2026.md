@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/using-coupang-like-a-pro-rocket-delivery-and-subscriptions-2026.webp"
+image: "/images/using-coupang-like-a-pro-rocket-delivery-and-subscriptions-2026.webp"
 ---
 
 If you live in South Korea, you quickly realize there are two types of existence: life before Coupang, and life after. Often dubbed the "Amazon of South Korea," Coupang has transcended being a mere shopping app to become an essential utility for daily survival. As we step into 2026, the platform has further solidified its dominance with even faster logistics, broader English support, and an ecosystem that rivals any global tech giant.

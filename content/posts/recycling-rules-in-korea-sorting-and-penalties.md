@@ -14,7 +14,7 @@ tags:
   - "Coffee"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/recycling-rules-in-korea-sorting-and-penalties.webp"
+image: "/images/recycling-rules-in-korea-sorting-and-penalties.webp"
 ---
 
 Moving to South Korea comes with a distinct learning curve, and surprisingly, one of the steepest challenges for new arrivals is mastering the art of taking out the trash. Unlike many Western countries where recycling is a casual suggestion, South Korea operates one of the most rigorous and successful waste management systems in the world. The system, known as *Jongnyangje* (Volume-Based Waste Fee System), requires residents to purchase specific district-issued bags for general waste and strictly sort recyclables into detailed categories.

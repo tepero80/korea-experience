@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/best-korean-bbq-restaurants-in-seoul-2026.webp"
+image: "/images/best-korean-bbq-restaurants-in-seoul-2026.webp"
 ---
 
 Seoul’s culinary landscape is constantly evolving, but the cornerstone of Korean dining remains the barbecue (gogi-gui). In 2026, the Korean BBQ scene has transcended simple grilling to become a sophisticated fusion of tradition, technology, and premium sourcing. Whether you are looking for the melt-in-your-mouth texture of 1++ Grade Hanwoo beef or the savory crunch of dry-aged pork belly, the capital offers an overwhelming number of choices.

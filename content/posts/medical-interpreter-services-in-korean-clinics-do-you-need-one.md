@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/medical-interpreter-services-in-korean-clinics-do-you-need-one.webp"
+image: "/images/medical-interpreter-services-in-korean-clinics-do-you-need-one.webp"
 ---
 
 When planning a medical trip to South Korea or seeking treatment as an expat, the language barrier is often the single biggest source of anxiety. While South Korea boasts some of the most advanced medical technology in the world—ranking 4th globally in the sheer number of MRI units per capita and hosting over 300,000 medical tourists annually—English proficiency varies drastically depending on where you go.

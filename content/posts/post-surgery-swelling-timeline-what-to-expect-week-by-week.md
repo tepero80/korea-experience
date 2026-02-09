@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Post-Surgery Swelling Timeline: Week by Week Guide"
 date: 2026-01-27
 excerpt: "Understand the Post-Surgery Swelling Timeline in Korea. Our week-by-week guide helps international patients manage recovery expectations for various procedures."
 category: Medical Tourism
 author: Korea Experience Team
+image: "/images/post-surgery-swelling-timeline-what-to-expect-week-by-week.webp"
 ---
-
 # Post-Surgery Swelling Timeline: What to Expect Week by Week in Korea
 
 Undergoing surgery, whether for aesthetic enhancement or medical necessity, is a significant decision. For many international patients, Korea has become the premier destination, offering world-class medical facilities, highly skilled surgeons, and advanced recovery protocols. However, a common and often underestimated aspect of the post-operative journey is managing **post-surgery swelling**.

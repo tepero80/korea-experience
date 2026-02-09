@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/hair-transplant-fue-vs-fut-method-comparison.webp"
+image: "/images/hair-transplant-fue-vs-fut-method-comparison.webp"
 ---
 
 When deciding between a hair transplant in South Korea, the choice ultimately narrows down to two primary methods: Follicular Unit Extraction (FUE) and Follicular Unit Transplantation (FUT). The main difference lies in how the hair follicles are harvested from the donor area. In FUE, individual follicles are extracted one by one using a micro-punch tool, leaving tiny, dot-like scars that are virtually invisible. In FUT (often called the "strip method"), a linear strip of skin containing hair is removed from the back of the scalp, which allows for a higher number of grafts to be harvested in a single session but leaves a fine linear scar. For international patients visiting Seoul in 2026, FUE is the overwhelmingly popular choice due to the faster recovery time and lack of visible scarring, though FUT remains a viable, cost-effective option for those requiring extensive coverage (4,000+ grafts) who do not plan to wear short hairstyles.

@@ -7,7 +7,7 @@ category: K-Culture
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 27
-image: "/images/deep-dive/korean-bowing-etiquette-2026.webp"
+image: "/images/korean-bowing-etiquette-2026.webp"
 ---
 
 So, you've finally made it to Seoul. You're standing at the entrance of a tiny, steaming-hot Gukbap restaurant in Yeonnam-dong, and the grandmother running the place greets you with a quick, rhythmic bow. What do you do? **The short answer is: tilt your upper body forward about 15 degrees, drop your eyes for a split second, and say "Annyeonghaseyo."** That's it. That tiny gesture is your golden ticket to being treated like a local instead of a tourist.

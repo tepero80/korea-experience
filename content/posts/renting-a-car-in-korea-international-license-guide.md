@@ -12,7 +12,7 @@ tags:
   - "Car Rental"
 readTime: "18 min read"
 featured: true
-image: "/images/posts/renting-a-car-in-korea-international-license-guide.webp"
+image: "/images/renting-a-car-in-korea-international-license-guide.webp"
 ---
 
 Can you rent a car in Korea with an international license? Yes, absolutely—but the bureaucratic hurdles can be surprisingly strict compared to other travel destinations. While Korea boasts one of the world's best public transportation systems, renting a car unlocks a side of the peninsula that the KTX and subway simply cannot reach. From the coastal highways of Gangwon-do to the volcanic landscapes of Jeju Island, driving offers freedom, though it comes with unique challenges like complex navigation apps and strict traffic enforcement.

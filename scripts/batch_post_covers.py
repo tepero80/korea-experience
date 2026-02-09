@@ -30,7 +30,7 @@ from scripts.deep_dive.config import RATE_LIMIT_DELAY, CATEGORY_VISUAL_HINTS
 from scripts.deep_dive.cover import generate_cover
 
 POSTS_DIR = PROJECT_ROOT / "content" / "posts"
-IMAGES_OUTPUT_DIR = PROJECT_ROOT / "public" / "images" / "posts"
+IMAGES_OUTPUT_DIR = PROJECT_ROOT / "public" / "images"
 PROGRESS_FILE = PROJECT_ROOT / "scripts" / "cover-progress-posts.json"
 
 
@@ -47,12 +47,27 @@ def save_progress(progress: dict):
     )
 
 
+def read_file_robust(file_path: Path) -> str:
+    """여러 인코딩을 시도하여 파일 읽기"""
+    encodings = ["utf-8", "cp1252", "latin-1"]
+    for enc in encodings:
+        try:
+            return file_path.read_text(encoding=enc)
+        except (UnicodeDecodeError, UnicodeError):
+            continue
+    # 최후의 수단: errors='replace'로 읽기
+    return file_path.read_text(encoding="utf-8", errors="replace")
+
+
 def get_all_posts() -> list[dict]:
     """content/posts의 모든 .md 파일에서 frontmatter 파싱"""
     posts = []
     for md_file in sorted(POSTS_DIR.glob("*.md")):
-        content = md_file.read_text(encoding="utf-8")
-        fm_match = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
+        content = read_file_robust(md_file)
+        # BOM 제거
+        content = content.lstrip('\ufeff')
+        # Windows CRLF와 Unix LF 모두 처리
+        fm_match = re.match(r"^---\r?\n(.*?)\r?\n---", content, re.DOTALL)
         if not fm_match:
             continue
 
@@ -82,8 +97,10 @@ def get_all_posts() -> list[dict]:
 
 def add_image_to_frontmatter(md_file: Path, image_path: str):
     """포스트 frontmatter에 image 필드 추가"""
-    content = md_file.read_text(encoding="utf-8")
-    fm_match = re.match(r"^(---\n)(.*?)(\n---)", content, re.DOTALL)
+    content = read_file_robust(md_file)
+    # BOM 제거
+    content = content.lstrip('\ufeff')
+    fm_match = re.match(r"^(---\r?\n)(.*?)(\r?\n---)", content, re.DOTALL)
     if not fm_match:
         return
 
@@ -137,17 +154,13 @@ def generate_post_cover(slug: str, title: str, category: str, excerpt: str) -> P
     print(f"  ✅ 배경: {bg_img.size[0]}x{bg_img.size[1]}")
     print(f"  🔤 오버레이...")
 
-    # overlay_text는 IMAGES_DIR에 저장하므로, 임시로 실행 후 파일 이동
+    # overlay_text는 IMAGES_DIR에 저장 (이제 동일한 디렉토리)
     result = overlay_text(bg_path, short_title, slug)
     if not result:
         print(f"  ❌ 오버레이 실패")
         return None
 
-    # deep-dive 디렉토리에서 posts 디렉토리로 이동
     final_path = IMAGES_OUTPUT_DIR / f"{slug}.webp"
-    if result != final_path:
-        import shutil
-        shutil.move(str(result), str(final_path))
 
     # raw 파일 정리
     for attempt in range(5):
@@ -224,7 +237,7 @@ def main():
 
             if result:
                 # frontmatter에 image 필드 추가
-                image_web_path = f"/images/posts/{post['slug']}.webp"
+                image_web_path = f"/images/{post['slug']}.webp"
                 add_image_to_frontmatter(post["file"], image_web_path)
                 print(f"  📝 frontmatter 업데이트 완료")
 

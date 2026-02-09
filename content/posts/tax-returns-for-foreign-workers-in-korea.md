@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/tax-returns-for-foreign-workers-in-korea.webp"
+image: "/images/tax-returns-for-foreign-workers-in-korea.webp"
 ---
 
 Navigating the tax system in a foreign country can be one of the most daunting aspects of expatriate life. In South Korea, however, the annual tax settlement season—known locally as *Yeonmal Jeongsan*—is often anticipated with a mix of anxiety and excitement. Frequently referred to as the "13th Month Salary," this process can result in a significant lump-sum refund if managed correctly, or a surprising bill if ignored.

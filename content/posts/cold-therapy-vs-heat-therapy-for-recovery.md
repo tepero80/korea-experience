@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "10 min read"
 featured: false
-image: "/images/posts/cold-therapy-vs-heat-therapy-for-recovery.webp"
+image: "/images/cold-therapy-vs-heat-therapy-for-recovery.webp"
 ---
 
 Recovery is an integral part of the Korean lifestyle. Whether you are recovering from plastic surgery, soothing muscles after hiking Bukhansan National Park, or simply battling jet lag, South Korea offers a dualistic approach to wellness: extreme heat and extreme cold.

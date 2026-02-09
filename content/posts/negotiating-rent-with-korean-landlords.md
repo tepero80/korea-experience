@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/negotiating-rent-with-korean-landlords.webp"
+image: "/images/negotiating-rent-with-korean-landlords.webp"
 ---
 
 Finding a place to live in South Korea is an adventure that blends high-tech convenience with traditional cultural nuances. For international residents, the housing market can initially seem rigid, dominated by the unique *Jeonse* (large lump-sum deposit) and *Wolse* (monthly rent) systems. However, contrary to popular belief, negotiating rent in Korea is not only possible but expected in specific contexts—provided you understand the rules of the game.

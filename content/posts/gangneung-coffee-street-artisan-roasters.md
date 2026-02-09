@@ -14,7 +14,7 @@ tags:
   - "Coffee"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/gangneung-coffee-street-artisan-roasters.webp"
+image: "/images/gangneung-coffee-street-artisan-roasters.webp"
 ---
 
 Gangneung is no longer just a seaside getaway; it has firmly established itself as the undisputed coffee capital of South Korea. While Seoul boasts the highest density of cafes per capita, Gangneung holds the soul of the country's artisan roasting culture. Located on the east coast, specifically along the 500-meter stretch of Anmok Beach, Gangneung Coffee Street offers a unique convergence of pine trees, ocean vistas, and the distinct aroma of freshly roasted Arabica beans.

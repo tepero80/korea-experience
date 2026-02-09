@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "18 min read"
 featured: false
-image: "/images/posts/korean-home-fragrance-and-candles-bringing-the-seoul-scent-home-2026.webp"
+image: "/images/korean-home-fragrance-and-candles-bringing-the-seoul-scent-home-2026.webp"
 ---
 
 In the bustling streets of Seoul, the olfactory experience has become just as important as the visual one. By 2026, the Korean home fragrance market has evolved into a global phenomenon, moving far beyond simple air fresheners into the realm of high-art lifestyle objects. Whether you are walking through the trendy alleys of Seongsu-dong or the quiet, winding paths of Bukchon Hanok Village, the scent of Korea is distinct—often characterized by woody notes, wet earth, mugwort (ssuk), and subtle citrus. For travelers, bringing these scents home is the ultimate way to combat post-trip blues.

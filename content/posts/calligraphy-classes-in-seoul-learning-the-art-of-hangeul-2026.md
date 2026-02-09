@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/calligraphy-classes-in-seoul-learning-the-art-of-hangeul-2026.webp"
+image: "/images/calligraphy-classes-in-seoul-learning-the-art-of-hangeul-2026.webp"
 ---
 
 Seoul in 2026 is a mesmerizing blend of hyper-modern technology and deeply rooted tradition. While the neon skyline of Gangnam continues to evolve, the quiet backstreets of Insadong and Bukchon Hanok Village remain the soulful guardians of Korea's past. For international travelers seeking a connection deeper than sightseeing, learning "Seoye"—the art of Korean calligraphy—has become the premier cultural experience of the year.

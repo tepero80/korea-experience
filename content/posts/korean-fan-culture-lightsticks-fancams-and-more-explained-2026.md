@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-fan-culture-lightsticks-fancams-and-more-explained-2026.webp"
+image: "/images/korean-fan-culture-lightsticks-fancams-and-more-explained-2026.webp"
 ---
 
 Korean fan culture has evolved from a niche hobby into a sophisticated, high-tech global phenomenon. By 2026, the ecosystem surrounding K-Pop fandoms (fandoms) has become an intricate mix of digital innovation and intense offline dedication. For international travelers and expats arriving in Seoul, understanding the mechanics of lightsticks, the precision of fanchants, and the competitive nature of music show attendance is essential to truly experiencing the culture.

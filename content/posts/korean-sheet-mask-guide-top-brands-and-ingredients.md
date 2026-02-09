@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/korean-sheet-mask-guide-top-brands-and-ingredients.webp"
+image: "/images/korean-sheet-mask-guide-top-brands-and-ingredients.webp"
 ---
 
 Sheet masks are arguably the most iconic symbol of K-Beauty. Whether you are walking through the neon-lit streets of Myeongdong or browsing the aisles of a local Olive Young, you will be bombarded with thousands of options promising everything from glass skin to instant lifting. For international travelers and expats, the sheer volume of choices can be paralyzed. Which ingredients actually work? Is a ₩10,000 mask really ten times better than a ₩1,000 one?

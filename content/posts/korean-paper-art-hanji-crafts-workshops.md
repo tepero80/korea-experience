@@ -14,7 +14,7 @@ tags:
   - "Insadong"
 readTime: "10 min read"
 featured: false
-image: "/images/posts/korean-paper-art-hanji-crafts-workshops.webp"
+image: "/images/korean-paper-art-hanji-crafts-workshops.webp"
 ---
 
 Hanji, often referred to as "the paper of a thousand years," is more than just a writing surface in Korea; it is a resilient cultural fabric that has adorned windows, floors, and ancient texts for centuries. For international travelers, participating in a Korean paper art Hanji crafts workshop is one of the most tactile and rewarding ways to connect with the peninsula's history. Unlike standard origami, Hanji crafts involve a unique texturing and pasting technique that renders paper as durable as leather.

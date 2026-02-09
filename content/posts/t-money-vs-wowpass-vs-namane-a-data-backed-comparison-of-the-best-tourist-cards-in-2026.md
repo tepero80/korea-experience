@@ -5,7 +5,7 @@ excerpt: "Choosing the best tourist card in Korea for 2026? This data-backed com
 category: Travel & Tourism
 author: Korea Experience Team
 featured: true
-image: "/images/posts/t-money-vs-wowpass-vs-namane-a-data-backed-comparison-of-the-best-tourist-cards-in-2026.webp"
+image: "/images/t-money-vs-wowpass-vs-namane-a-data-backed-comparison-of-the-best-tourist-cards-in-2026.webp"
 featuredOrder: 1
 tags:
   - "Travel Tips"

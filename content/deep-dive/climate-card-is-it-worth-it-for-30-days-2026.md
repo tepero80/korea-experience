@@ -6,7 +6,7 @@ category: Living in Korea
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 46
-image: "/images/deep-dive/climate-card-is-it-worth-it-for-30-days.webp"
+image: "/images/climate-card-is-it-worth-it-for-30-days.webp"
 ---
 
 Stop stressing about reload fees and transfer penalties—Seoul's unlimited transit pass might just be your new best friend. Here is the ultimate breakdown of whether the Climate Card saves you money or just headaches during a month-long stay in Korea, especially when compared to standard options like [T-Money](/blog/seoul-transit-climate-card-vs-tmoney-2026).

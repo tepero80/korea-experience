@@ -7,7 +7,7 @@ category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 10
-image: "/images/deep-dive/namane-vs-wowpass-guide-2026.webp"
+image: "/images/namane-vs-wowpass-guide-2026.webp"
 ---
 
 So, you're landing at Incheon and you've heard about these magical cards that let you spend money in Korea without a bank account. But which one should you get? **WOWPASS** or **Namane**?

@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/d-visa-student-visa-and-part-time-work-rules.webp"
+image: "/images/d-visa-student-visa-and-part-time-work-rules.webp"
 ---
 
 Studying in South Korea offers a dynamic blend of high-tech modern living and deep-rooted tradition, but financing that lifestyle is a primary concern for many international students. Navigating the D Visa Student Visa and Part Time Work Rules is critical for any expat looking to supplement their income while pursuing education. With the cost of living in Seoul averaging between 1.2 million to ₩1.5 million (approx. $900-$1,150 USD) per month excluding tuition, securing legal part-time employment is often a necessity, not a luxury.

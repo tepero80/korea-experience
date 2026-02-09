@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/korean-skincare-ingredients-snail-mucin-to-centella.webp"
+image: "/images/korean-skincare-ingredients-snail-mucin-to-centella.webp"
 ---
 
 Korean skincare ingredients focus primarily on barrier repair, hydration, and soothing inflammation rather than harsh exfoliation. If you are looking to understand the labels on products at Olive Young, the most essential ingredients to know are Snail Mucin for repair, Centella Asiatica (Cica) for soothing, and Propolis for glow.

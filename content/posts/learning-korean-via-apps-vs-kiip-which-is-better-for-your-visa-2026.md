@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/learning-korean-via-apps-vs-kiip-which-is-better-for-your-visa-2026.webp"
+image: "/images/learning-korean-via-apps-vs-kiip-which-is-better-for-your-visa-2026.webp"
 ---
 
 <KeyTakeaways 

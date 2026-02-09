@@ -12,7 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/how-to-shop-at-korean-beauty-wholesale-markets-2026.webp"
+image: "/images/how-to-shop-at-korean-beauty-wholesale-markets-2026.webp"
 ---
 
 Shopping for K-beauty at wholesale markets in Seoul is the ultimate hack for skincare enthusiasts and aspiring resellers who want to bypass the retail markups of Myeongdong and Olive Young. If you are looking to buy popular brands like COSRX, Dr.Jart+, and Sulwhasoo at 30% to 70% off retail prices, you need to head to the specific wholesale districts that operate primarily at night.

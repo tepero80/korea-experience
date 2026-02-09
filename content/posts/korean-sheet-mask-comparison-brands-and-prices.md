@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/korean-sheet-mask-comparison-brands-and-prices.webp"
+image: "/images/korean-sheet-mask-comparison-brands-and-prices.webp"
 ---
 
 Finding the perfect Korean sheet mask involves navigating a massive market ranging from budget-friendly daily masks costing ₩1,000 ($0.75 USD) to premium luxury treatments priced over ₩20,000 ($15 USD) per sheet. The best sheet mask for you depends entirely on your budget and skin concerns, but in 2026, the market is dominated by clinically backed "derma-cosmetic" brands like Mediheal, Torriden, and Abib, which offer the highest value-to-performance ratio at an average price point of ₩3,000 ($2.25 USD).

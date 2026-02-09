@@ -14,7 +14,7 @@ tags:
   - "Coffee"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/the-philosophy-of-nunchi-understanding-korea-social-superpower-2026.webp"
+image: "/images/the-philosophy-of-nunchi-understanding-korea-social-superpower-2026.webp"
 ---
 
 In the hyper-connected, fast-paced landscape of South Korea in 2026, there remains one ancient skill that no AI translator or navigation app can replace: **Nunchi**. Often described as the "art of reading the room," Nunchi is the invisible force that governs Korean social life, from the frantic morning commute on Seoul Metro Line 2 to high-stakes boardroom negotiations in Gangnam.

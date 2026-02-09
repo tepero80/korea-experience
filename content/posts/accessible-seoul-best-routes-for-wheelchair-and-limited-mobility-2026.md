@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026.webp"
+image: "/images/accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026.webp"
 ---
 
 Seoul is often perceived as a challenging destination for travelers with limited mobility due to its mountainous geography and endless staircases. However, by 2026, the city has made massive strides in infrastructure, becoming one of Asia’s most accessible metropolises if you know how to navigate it. The key lies not in avoiding the city, but in understanding which districts have been modernized with universal design and which specific transit routes offer seamless connections.

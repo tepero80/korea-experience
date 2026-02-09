@@ -7,7 +7,7 @@ category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 24
-image: "/images/deep-dive/tax-refund-instant-vs-airport-2026.webp"
+image: "/images/tax-refund-instant-vs-airport-2026.webp"
 ---
 
 So, you've just blown through your shopping budget at Olive Young and you're wondering if you can actually get some of that money back. **The short answer is a resounding YES—and if you do it right, you can get 5-8% of your purchase price refunded instantly at the register.** The key is understanding which refund method to use and when, because in 2026, the Korean tax refund system has gotten both simpler and more complicated depending on what you're buying.

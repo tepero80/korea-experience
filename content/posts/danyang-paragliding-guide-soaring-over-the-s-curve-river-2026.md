@@ -12,7 +12,7 @@ tags:
   - "Korean Culture"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/danyang-paragliding-guide-soaring-over-the-s-curve-river-2026.webp"
+image: "/images/danyang-paragliding-guide-soaring-over-the-s-curve-river-2026.webp"
 ---
 
 Standing at the edge of a cliff 600 meters above sea level, your heart pounds in rhythm with the wind rushing up the mountain face. Below you, the Namhan River winds in a perfect "S" shape, embracing the town of Danyang like a ribbon. This isn't just a scenic viewpoint; it is the runway for one of South Korea's most exhilarating travel experiences. Danyang has solidified its reputation as the paragliding capital of Korea, attracting over 1 million visitors annually to its skies. Whether you are an adrenaline junkie or a nervous first-timer, flying here offers a perspective of the Korean peninsula that no hiking trail can match.

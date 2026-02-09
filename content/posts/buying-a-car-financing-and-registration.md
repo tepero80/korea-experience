@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/buying-a-car-financing-and-registration.webp"
+image: "/images/buying-a-car-financing-and-registration.webp"
 ---
 
 Navigating the automotive landscape in South Korea can be a daunting task for international residents, yet the freedom it provides is unparalleled. While Seoul boasts a world-class public transportation system, exploring the remote coastlines of Gangwon-do or the hidden valleys of Jeolla-do often requires a private vehicle. This guide covers the end-to-end process of buying a car, securing financing, and handling registration as an expat in 2026.

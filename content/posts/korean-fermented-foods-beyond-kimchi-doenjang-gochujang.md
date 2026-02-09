@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "10 min read"
 featured: false
-image: "/images/posts/korean-fermented-foods-beyond-kimchi-doenjang-gochujang.webp"
+image: "/images/korean-fermented-foods-beyond-kimchi-doenjang-gochujang.webp"
 ---
 
 When international travelers think of Korean cuisine, the "Holy Trinity" of fermentation—Kimchi, Doenjang (soybean paste), and Gochujang (red chili paste)—dominates the conversation. While these three pillars are fundamental, they represent only a fraction of Korea's fermentation universe, known locally as *balhyo*. In 2025, culinary surveys indicated that while 98% of tourists try kimchi, fewer than 15% venture into the deeper, more pungent, and often more medicinal world of Korea's other fermented specialties.

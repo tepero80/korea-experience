@@ -13,7 +13,7 @@ tags:
   - "Shopping"
 readTime: "16 min read"
 featured: true
-image: "/images/posts/seoul-travel-guide-2026-hidden-gems.webp"
+image: "/images/seoul-travel-guide-2026-hidden-gems.webp"
 ---
 
 If you are looking for the best hidden gems in Seoul for your 2026 trip, you want to look beyond Myeongdong and Bukchon Hanok Village. The most vibrant, authentic, and "local" experiences are currently found in **Sindang-dong (the kitchenware market turned nightlife hub)**, **Mullae-dong (industrial art village)**, and the quiet alleys of **Seochon**.

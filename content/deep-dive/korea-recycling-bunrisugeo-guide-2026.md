@@ -7,7 +7,7 @@ category: Living in Korea
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 28
-image: "/images/deep-dive/korea-recycling-bunrisugeo-guide-2026.webp"
+image: "/images/korea-recycling-bunrisugeo-guide-2026.webp"
 ---
 
 So, you've just moved into your new Korean apartment, and you're staring at a collection of bags, bins, and mysterious recycling instructions in a language you don't fully understand. Welcome to **Bun-ri-su-geo** (분리수거)—Korea's famously meticulous waste separation system. **The short answer is: Korea has one of the world's highest recycling rates (65%+), and they got there by making everyone sort their trash into 5-10 different categories.** Mess it up, and you could face fines. Get it right, and you'll feel like an environmental hero.

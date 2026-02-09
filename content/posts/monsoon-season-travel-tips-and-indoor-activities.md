@@ -13,7 +13,7 @@ tags:
   - "Korean Culture"
 readTime: "16 min read"
 featured: false
-image: "/images/posts/monsoon-season-travel-tips-and-indoor-activities.webp"
+image: "/images/monsoon-season-travel-tips-and-indoor-activities.webp"
 ---
 
 You are likely reading this because you are planning a trip to Korea in June or July and are terrified by the weather forecast showing endless rain icons, or perhaps you are already here and looking out your hotel window at a torrential downpour. Do not panic. While Korea’s monsoon season, known locally as *Jangma*, is intense, it does not have to ruin your vacation. In fact, seeing Korea in the rain offers a moody, atmospheric beauty and a valid excuse to explore the country's world-class indoor infrastructure.

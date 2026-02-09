@@ -21,7 +21,7 @@ TODO_FILE = DEEP_DIVE_SCRIPTS / "todo.md"
 PROMPT_FILE = DRAFTS_DIR / "PROMPT.md"
 README_FILE = DRAFTS_DIR / "README.md"
 
-IMAGES_DIR = PROJECT_ROOT / "public" / "images" / "deep-dive"
+IMAGES_DIR = PROJECT_ROOT / "public" / "images"
 FONTS_DIR = DEEP_DIVE_SCRIPTS / "fonts"
 
 # ── 환경변수 ──
@@ -29,7 +29,7 @@ load_dotenv(PROJECT_ROOT / ".env.local")
 API_KEY = os.getenv("GEMINI_API_KEY", "")
 
 # ── 모델 ──
-IMAGE_MODEL = "gemini-2.5-flash-image"             # 이미지 생성 (Nano Banana - 속도/할당량 최적화)
+IMAGE_MODEL = "gemini-3-pro-image-preview"      # 이미지 생성 (Nano Banana Pro)
 SCENE_MODEL = "gemini-2.5-flash"                 # Scene description / 커버 요소
 CONVERT_MODEL = "gemini-3-pro-preview"           # MDX 변환
 RESEARCH_AGENT = "deep-research-pro-preview-12-2025"  # Deep Research API

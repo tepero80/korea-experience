@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/flying-after-surgery-when-is-it-safe-to-head-home-doctor-advice-2026.webp"
+image: "/images/flying-after-surgery-when-is-it-safe-to-head-home-doctor-advice-2026.webp"
 ---
 
 For international patients visiting Korea for medical procedures, the most pressing question isn't usually about the surgery itself, but rather the journey home. Determining when it is safe to fly after surgery depends entirely on the type of procedure, the duration of the flight, and your individual healing progress. In general, for minor non-invasive procedures, patients can often fly within 24 to 48 hours. However, for major surgeries involving the chest, abdomen, or complex facial bone contouring, doctors in Korea typically mandate a grounding period of 10 to 14 days to monitor for complications like deep vein thrombosis (DVT) and to ensure sutures are stable against cabin pressure changes.

@@ -14,7 +14,7 @@ tags:
   - "Banking"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/korea-medical-tourism-visa-how-to-apply.webp"
+image: "/images/korea-medical-tourism-visa-how-to-apply.webp"
 ---
 
 Applying for a Korea medical tourism visa is the critical first step for thousands of international patients seeking world-class healthcare in Seoul each year. Unlike a standard tourist visa, the medical visa (specifically the C-3-3 and G-1-10 categories) requires a direct sponsorship or "invitation" from a registered Korean hospital or medical facilitator. To successfully apply, you must first secure a consultation and appointment with a government-registered medical institution, which will then issue a "Certificate of Admission" or confirmation of visa issuance. You cannot apply for this visa using a simple doctor's note; the electronic invitation from the hospital is the mandatory trigger for the entire process.

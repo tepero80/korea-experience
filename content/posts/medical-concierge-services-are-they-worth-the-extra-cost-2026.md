@@ -14,7 +14,7 @@ tags:
   - "Botox"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/medical-concierge-services-are-they-worth-the-extra-cost-2026.webp"
+image: "/images/medical-concierge-services-are-they-worth-the-extra-cost-2026.webp"
 ---
 
 For many international travelers arriving at Incheon International Airport in 2026, the prospect of navigating a foreign healthcare system—even one as advanced as South Korea's—is daunting. Whether you are visiting for complex plastic surgery, cancer treatment, or a comprehensive health check-up, the question inevitably arises: Should you book directly with the clinic, or hire a medical concierge service? While booking directly can ostensibly save money on agency fees, medical concierge services offer a layer of logistical support, translation, and advocacy that can be crucial when you are vulnerable during recovery.

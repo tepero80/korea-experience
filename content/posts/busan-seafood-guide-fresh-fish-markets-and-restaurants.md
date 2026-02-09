@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/busan-seafood-guide-fresh-fish-markets-and-restaurants.webp"
+image: "/images/busan-seafood-guide-fresh-fish-markets-and-restaurants.webp"
 ---
 
 Busan is synonymous with the ocean. As South Korea's second-largest city with a population of approximately 3.3 million, this coastal metropolis serves as the country's primary maritime gateway. For culinary travelers, this means one thing above all else: impeccable seafood. The phrase "alive five minutes ago" isn't a marketing slogan here; it is the standard operating procedure. From the chaotic energy of Jagalchi Market to the refined clam grills of Cheongsapo, the Busan seafood scene offers a spectrum of flavors that define the city's identity.

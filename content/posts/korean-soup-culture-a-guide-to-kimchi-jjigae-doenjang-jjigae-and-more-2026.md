@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-soup-culture-a-guide-to-kimchi-jjigae-doenjang-jjigae-and-more-2026.webp"
+image: "/images/korean-soup-culture-a-guide-to-kimchi-jjigae-doenjang-jjigae-and-more-2026.webp"
 ---
 
 Korean soup culture is not merely a side dish; it is the foundation of the Korean dining table. Unlike Western meals where soup often serves as an appetizer, in Korea, a meal is rarely considered complete without a steaming bowl of *guk* (soup), *tang* (stew), or *jjigae* (thicker stew). For the international traveler in 2026, understanding this liquid landscape is the key to unlocking authentic local flavors.

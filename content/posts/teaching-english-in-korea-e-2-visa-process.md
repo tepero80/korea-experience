@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Teaching English in Korea E-2 Visa Process Guide"
 date: 2026-01-31
 excerpt: "Unlock your dream of teaching English in Korea with our comprehensive E-2 Visa guide. Learn requirements, steps, and insider tips for a smooth process."
 category: Living in Korea
 author: Korea Experience Team
+image: "/images/teaching-english-in-korea-e-2-visa-process.webp"
 ---
-
 ## Teaching English in Korea E-2 Visa Process Guide
 
 Dreaming of vibrant cityscapes, rich ancient traditions, and delectable street food? For many international adventurers, the idea of living and working in South Korea is a captivating prospect. One of the most common pathways to make this dream a reality is by **teaching English in Korea** through the **E-2 Visa process**.

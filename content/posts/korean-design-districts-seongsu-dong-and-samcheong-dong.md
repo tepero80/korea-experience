@@ -14,7 +14,7 @@ tags:
   - "Hanbok"
 readTime: "10 min read"
 featured: false
-image: "/images/posts/korean-design-districts-seongsu-dong-and-samcheong-dong.webp"
+image: "/images/korean-design-districts-seongsu-dong-and-samcheong-dong.webp"
 ---
 
 Seoul is a city defined by its duality—a metropolis where 600-year-old palaces sit in the shadow of 123-story skyscrapers. For design enthusiasts, international travelers, and culture seekers, this contrast is best experienced by exploring two distinct neighborhoods: the industrial-chic **Seongsu-dong** and the heritage-rich **Samcheong-dong**. While one represents the gritty, innovative future of Korean aesthetics, the other serves as the guardian of its elegant past.

@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/disability-friendly-medical-facilities-in-korea.webp"
+image: "/images/disability-friendly-medical-facilities-in-korea.webp"
 ---
 
 Finding reliable, high-quality medical care abroad is a challenge for any traveler, but for those with disabilities or limited mobility, the stakes are significantly higher. You aren't just looking for a good doctor; you need to know if the corridors are wide enough for a wheelchair, if there are accessible restrooms on every floor, and if the staff is trained to assist with transfer and mobility needs.

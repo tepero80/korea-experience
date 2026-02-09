@@ -6,7 +6,7 @@ category: K-Culture
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 21
-image: "/images/deep-dive/korean-drinking-etiquette-2026.webp"
+image: "/images/korean-drinking-etiquette-2026.webp"
 ---
 
 So, you've finally made it to Seoul. You're sitting at a table with some new Korean friends or colleagues, the grill is sizzling with pork belly, and someone reaches for a green bottle of soju. Your heart starts racing—what was that thing you read about two hands? Don't panic. Look, **the short answer to mastering Korean drinking etiquette is that it's all about not being the center of attention.** In Western culture, we're taught to pour for ourselves and be independent. In Korea, you are part of a collective. If your glass is empty, you're waiting for the group to acknowledge you. If someone else's is empty, it's your job to take care of them.

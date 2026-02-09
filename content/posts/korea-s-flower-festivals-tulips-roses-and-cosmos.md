@@ -12,7 +12,7 @@ tags:
   - "Seasonal Travel"
 readTime: "16 min read"
 featured: false
-image: "/images/posts/korea-s-flower-festivals-tulips-roses-and-cosmos.webp"
+image: "/images/korea-s-flower-festivals-tulips-roses-and-cosmos.webp"
 ---
 
 Korea’s major flower festivals typically occur in three distinct waves: Tulips dominate April (01/04–30/04), Roses peak in late May to mid-June (20/05–15/06), and Cosmos define the autumn landscape from late September to mid-October (20/09–15/10). The most famous locations are the Taean Tulip Festival for spring bulbs, the Jungnang Rose Park in Seoul for summer blooms, and Olympic Park for autumn wildflowers.

@@ -14,7 +14,7 @@ tags:
   - "Itaewon"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/dealing-with-korean-bureaucracy-arc-to-taxes.webp"
+image: "/images/dealing-with-korean-bureaucracy-arc-to-taxes.webp"
 ---
 
 Moving to South Korea offers an incredible blend of high-tech convenience and deep cultural history. However, before you can enjoy the café hopping in Seongsu-dong or the nightlife in Itaewon, you must confront the formidable gatekeeper of expat life: Korean bureaucracy. For many international residents, the administrative ecosystem in Korea is a paradox. It is simultaneously one of the most advanced digital governance systems in the world and a maze of Windows-based plugins and rigid paperwork requirements.

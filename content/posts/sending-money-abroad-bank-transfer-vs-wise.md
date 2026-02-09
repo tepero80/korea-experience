@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/sending-money-abroad-bank-transfer-vs-wise.webp"
+image: "/images/sending-money-abroad-bank-transfer-vs-wise.webp"
 ---
 
 Sending money out of South Korea can often feel like navigating a labyrinth of regulations, hidden fees, and strict banking hours. For international residents and expats living in Korea, the choice between a traditional **Bank Transfer (SWIFT)** and modern fintech solutions like **Wise** (formerly TransferWise) is a critical financial decision.

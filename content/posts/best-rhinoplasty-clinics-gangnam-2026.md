@@ -1,12 +1,12 @@
-﻿---
+---
 title: "Best Rhinoplasty Clinics in Gangnam, Seoul 2026: Complete Guide"
 date: "2026-01-15"
 excerpt: "Discover the top-rated rhinoplasty clinics in Gangnam, Seoul. Expert reviews, pricing, before/after results, and everything you need to know for a successful nose job in Korea."
 category: Medical Tourism
 author: "Korea Experience Team"
 readTime: "12 min"
+image: "/images/best-rhinoplasty-clinics-gangnam-2026.webp"
 ---
-
 ## Why Choose Gangnam for Rhinoplasty?
 
 Seoul's Gangnam district has earned its reputation as the **global capital of cosmetic surgery**. With over 500 plastic surgery clinics concentrated in this area alone, Gangnam offers:
@@ -26,6 +26,7 @@ According to the Korea Health Industry Development Institute:
 - **Rhinoplasty is the #1 requested procedure** among international patients
 - **Average cost savings: $3,500-6,000** compared to US/UK prices
 
+image: "/images/best-rhinoplasty-clinics-gangnam-2026.webp"
 ---
 
 ## Top 5 Rhinoplasty Clinics in Gangnam

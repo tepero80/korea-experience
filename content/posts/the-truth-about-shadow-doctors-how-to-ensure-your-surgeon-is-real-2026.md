@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/the-truth-about-shadow-doctors-how-to-ensure-your-surgeon-is-real-2026.webp"
+image: "/images/the-truth-about-shadow-doctors-how-to-ensure-your-surgeon-is-real-2026.webp"
 ---
 
 A "shadow doctor" (or ghost surgeon) is a substitute practitioner who performs surgery on a sedated patient after the hired, famous surgeon leaves the operating room. For international patients traveling to South Korea for medical procedures in 2026, this remains the single biggest anxiety, despite the country's world-class reputation for aesthetic excellence. While the vast majority of Korean surgeons are ethical and highly skilled, the "factory clinic" model still exists, prioritizing volume over patient safety.

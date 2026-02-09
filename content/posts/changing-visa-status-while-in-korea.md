@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/changing-visa-status-while-in-korea.webp"
+image: "/images/changing-visa-status-while-in-korea.webp"
 ---
 
 Navigating the immigration system is often cited as the most daunting aspect of expat life in South Korea. Whether you are a student looking to become a job seeker, or a professional aiming for long-term residency, understanding how to change your visa status while remaining in the country is crucial. The days of casual "visa runs" are becoming less necessary for some, but strict adherence to procedure is more important than ever.

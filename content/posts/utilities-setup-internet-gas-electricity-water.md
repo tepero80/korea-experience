@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/utilities-setup-internet-gas-electricity-water.webp"
+image: "/images/utilities-setup-internet-gas-electricity-water.webp"
 ---
 
 Moving to South Korea offers an exciting blend of ultra-modern convenience and deep-rooted tradition. However, before you can stream your favorite K-dramas at lightning speed or enjoy the cozy warmth of heated floors, you need to navigate the logistics of utilities setup internet gas electricity water. For international residents, this process can initially seem daunting due to language barriers and specific bureaucratic requirements like the Alien Registration Card (ARC).

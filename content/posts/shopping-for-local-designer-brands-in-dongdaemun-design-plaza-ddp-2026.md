@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026.webp"
+image: "/images/shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026.webp"
 ---
 
 If you are looking for local Korean designer brands at Dongdaemun Design Plaza (DDP) in 2026, you will find the highest concentration of curated retail stores in the **DDP Design Store** (located within the Design Lab) and the **Doota Mall** directly across the street. While the surrounding wholesale markets (like APM and nu:zon) operate primarily at night for bulk buyers, DDP and Doota offer retail-friendly shopping experiences for individual travelers, featuring rising stars of Seoul Fashion Week and high-quality "Made in Korea" goods from 10:30 AM to midnight.

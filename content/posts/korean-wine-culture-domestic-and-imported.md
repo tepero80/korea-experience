@@ -12,7 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/korean-wine-culture-domestic-and-imported.webp"
+image: "/images/korean-wine-culture-domestic-and-imported.webp"
 ---
 
 South Korea, once dominated by the green bottles of Soju and the golden fizz of Cass, has undergone a viticultural revolution. If you are visiting Seoul or Busan today, you are just as likely to see locals clinking glasses of Cabernet Sauvignon as you are shot glasses of rice liquor. However, the landscape of **Korean wine culture domestic and imported** is complex, influenced by unique taxation laws, a growing appreciation for natural wines, and a small but passionate domestic winemaking scene that defies the country's difficult climate.

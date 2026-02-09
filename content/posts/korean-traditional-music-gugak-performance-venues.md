@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-traditional-music-gugak-performance-venues.webp"
+image: "/images/korean-traditional-music-gugak-performance-venues.webp"
 ---
 
 The soulful resonance of the *gayageum* and the thunderous beat of *samulnori* percussion define the soundscape of Korea’s history. For international travelers, attending a **Korean traditional music Gugak performance** is not merely a concert; it is a portal into the spiritual and artistic heritage of the nation. As of early 2026, Seoul boasts over 15 specialized venues dedicated solely to preserving and evolving these art forms, ranging from intimate hanok theaters to grand, state-of-the-art concert halls.

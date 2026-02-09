@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/medical-procedures-under-local-vs-general-anesthesia.webp"
+image: "/images/medical-procedures-under-local-vs-general-anesthesia.webp"
 ---
 
 Deciding on a medical procedure in South Korea involves more than just selecting a surgeon or a clinic; understanding the type of anesthesia used is crucial for your safety, comfort, and recovery speed. In the context of Korean medical tourism, the choice between local anesthesia, sedation (often called "sleep anesthesia" locally), and general anesthesia is determined by the invasiveness of the surgery, the duration of the procedure, and patient anxiety levels. While minor treatments like thread lifts or simple blepharoplasty are almost exclusively performed under local anesthesia, major skeletal surgeries like jaw contouring mandate general anesthesia with intubation.

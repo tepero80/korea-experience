@@ -12,7 +12,7 @@ tags:
   - "Korean Culture"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/affordable-fine-dining-5-michelin-starred-lunch-menus-in-seoul-for-under-50.webp"
+image: "/images/affordable-fine-dining-5-michelin-starred-lunch-menus-in-seoul-for-under-50.webp"
 ---
 
 Seoul has rapidly ascended the ranks of global culinary capitals, offering a gastronomic landscape where ancient fermentation techniques meet avant-garde plating. For international travelers, the perception of Michelin-starred dining often comes with a fear of breaking the bank. However, Seoul remains a unique anomaly in the luxury dining world. Thanks to a favorable exchange rate and a culture of accessible lunch menus, it is entirely possible to experience world-class, Michelin-rated cuisine for under $50 USD (approximately ₩70,000 as of early 2026).

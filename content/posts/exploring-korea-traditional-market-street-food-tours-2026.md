@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/exploring-korea-traditional-market-street-food-tours-2026.webp"
+image: "/images/exploring-korea-traditional-market-street-food-tours-2026.webp"
 ---
 
 South Korea’s culinary landscape has evolved dramatically over the last decade, but the beating heart of its gastronomy remains its traditional markets. As we enter 2026, the popularity of street food tours has surged, with visitor numbers to major markets like Gwangjang and Namdaemun increasing by 22% compared to 2024. For the international traveler, these markets offer an unfiltered sensory experience that fine dining simply cannot replicate.

@@ -14,7 +14,7 @@ tags:
   - "Hongdae"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/korean-webtoon-platforms-and-popular-titles.webp"
+image: "/images/korean-webtoon-platforms-and-popular-titles.webp"
 ---
 
 The global rise of Korean culture is no longer limited to K-Pop and K-Dramas. In recent years, Korean webtoons (digital comics optimized for mobile scrolling) have exploded into a massive cultural phenomenon, influencing entertainment trends worldwide. For international travelers and expats in Korea, understanding this digital landscape offers a deeper connection to modern Korean storytelling and provides a gateway to the source material of many hit Netflix series.

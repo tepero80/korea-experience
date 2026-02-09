@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/choosing-between-large-hospitals-vs-boutique-clinics.webp"
+image: "/images/choosing-between-large-hospitals-vs-boutique-clinics.webp"
 ---
 
 Deciding where to undergo a medical procedure in South Korea is the single most critical choice a medical tourist will make. The market is generally divided into two distinct tiers: the massive, multidisciplinary General University Hospitals (often referred to as the "Big 5") and the specialized, agile private institutions known as "Boutique Clinics." Your choice depends entirely on the complexity of your procedure, your budget, and your need for personalized aesthetic customization versus strict medical infrastructure.

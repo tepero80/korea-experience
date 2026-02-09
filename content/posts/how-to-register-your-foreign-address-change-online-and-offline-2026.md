@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/how-to-register-your-foreign-address-change-online-and-offline-2026.webp"
+image: "/images/how-to-register-your-foreign-address-change-online-and-offline-2026.webp"
 ---
 
 Moving to a new apartment in South Korea is an exhilarating experience. Whether you are upgrading from a compact *gosiwon* to a spacious *officetel* in Gangnam or moving into a university dormitory in Sinchon, the change of scenery is refreshing. However, amidst the chaos of packing boxes and hiring moving trucks, there is one critical bureaucratic hurdle that every foreigner must clear: the Notification of Change of Place of Residence.

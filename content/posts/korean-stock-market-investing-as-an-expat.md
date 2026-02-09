@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/korean-stock-market-investing-as-an-expat.webp"
+image: "/images/korean-stock-market-investing-as-an-expat.webp"
 ---
 
 Living in South Korea offers a dynamic lifestyle, from the high-speed KTX trains connecting the country to the vibrant nightlife of Seoul. However, once you have settled in, secured your Alien Registration Card (ARC), and started earning income in Korean Won (₩), you might find yourself looking for ways to grow your savings. The Korean stock market, specifically the KOSPI and KOSDAQ, presents a unique opportunity for foreign residents to participate in the local economy.

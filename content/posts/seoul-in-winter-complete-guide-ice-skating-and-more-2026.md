@@ -14,7 +14,7 @@ tags:
   - "Jjimjilbang"
 readTime: "18 min read"
 featured: true
-image: "/images/posts/seoul-in-winter-complete-guide-ice-skating-and-more-2026.webp"
+image: "/images/seoul-in-winter-complete-guide-ice-skating-and-more-2026.webp"
 ---
 
 Winter in Seoul is a season of striking contrasts. While temperatures can drop significantly, the city comes alive with dazzling light festivals, steaming street food, and world-class ice skating rinks. If you are planning a trip between December 2025 and February 2026, you are in for a visually stunning experience, provided you are prepared for the chill. The air is crisp, the skies are often a brilliant piercing blue, and the snowy backdrop of Bukhansan Mountain framing the city offers photographers incredible opportunities.

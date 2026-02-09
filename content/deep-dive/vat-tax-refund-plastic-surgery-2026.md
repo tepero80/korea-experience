@@ -6,7 +6,7 @@ category: Medical Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 32
-image: "/images/deep-dive/vat-tax-refund-plastic-surgery-2026.webp"
+image: "/images/vat-tax-refund-plastic-surgery-2026.webp"
 ---
 
 Look, I know why you're here, and I'll give it to you straight: the "golden age" of getting an automatic 10% check from the Korean government for your Botox or nose job is officially over as of January 1, 2026. Honestly, I'm just as bummed as you are. For the last decade, you could walk into a fancy clinic in Gangnam, pay for your fillers, get a special piece of paper, and then scan it at Incheon Airport to get a nice wad of cash before flying home. But the government looked at the numbers—1.17 million medical tourists in 2024 alone—and decided that they didn't need to "bribe" us to come anymore.

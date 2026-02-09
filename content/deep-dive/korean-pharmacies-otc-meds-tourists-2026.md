@@ -6,7 +6,7 @@ category: Living in Korea
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 35
-image: "/images/deep-dive/korean-pharmacies-otc-meds-tourists-2026.webp"
+image: "/images/korean-pharmacies-otc-meds-tourists-2026.webp"
 ---
 
 So, here's the thing about being a tourist in Korea: you're going to be walking a lot—like, 20,000 steps a day a lot—and eating some of the most delicious, spiciest food of your life. Eventually, your body is going to put up a protest. When that happens, you're going to want to find a pharmacy, or what locals call a *Yakguk*. But if you walk into one expecting to see aisles and aisles of bottles like you would at a CVS or a Boots, you're in for a surprise.

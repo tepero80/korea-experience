@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/fat-grafting-vs-fillers-for-face-volume.webp"
+image: "/images/fat-grafting-vs-fillers-for-face-volume.webp"
 ---
 
 Deciding between fat grafting and dermal fillers for facial volume is one of the most common dilemmas for medical tourists visiting Korea. While both treatments aim to restore youthful contours and plumpness to the face, they are fundamentally different procedures with distinct timelines, costs, and results.

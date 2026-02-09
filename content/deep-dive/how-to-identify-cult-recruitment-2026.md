@@ -6,7 +6,7 @@ category: Living in Korea
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 40
-image: "/images/deep-dive/how-to-identify-cult-recruitment.webp"
+image: "/images/how-to-identify-cult-recruitment.webp"
 ---
 
 You just wanted to find the best tteokbokki in Hongdae or learn some Korean slang, but now you are being asked to fill out a "psychological survey" or talk about "God the Mother." If you spend any amount of time in major Korean cities, you will likely encounter this scenario.

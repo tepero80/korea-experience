@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/korean-hair-care-shampoo-scalp-treatments.webp"
+image: "/images/korean-hair-care-shampoo-scalp-treatments.webp"
 ---
 
 Korean hair care shampoo scalp treatments generally refer to a two-part beauty philosophy: the "Head Spa" (a professional 15-step salon service involving deep exfoliation, massage, and nutrient infusion) and specialized home-care products focusing on "scalp scaling" rather than just hair washing. Unlike Western hair care that prioritizes the hair shaft's shine and styling, Korean hair care operates on the principle of "skin-ification," treating the scalp with the same rigorous multi-step attention as facial skin. Travelers in Seoul can experience professional head spas ranging from basic 60-minute scaling sessions for around ₩50,000 ($38 USD) to luxury 120-minute stem-cell therapies costing upwards of ₩250,000 ($190 USD).

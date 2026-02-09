@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/gaming-culture-visiting-lol-park-and-pc-bang-pro-centers-2026.webp"
+image: "/images/gaming-culture-visiting-lol-park-and-pc-bang-pro-centers-2026.webp"
 ---
 
 South Korea remains the undisputed global capital of e-sports in 2026. For international visitors, the gaming culture here is not just a hobby; it is a fundamental pillar of modern social life, comparable to pub culture in the UK or cafe culture in France. Whether you are a die-hard League of Legends fan pilgrimage to LoL Park or a casual gamer wanting to experience the futuristic luxury of a "Pro Center" PC Bang, Seoul offers an infrastructure that is years ahead of the rest of the world.

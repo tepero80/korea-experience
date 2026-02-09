@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/cocktail-bars-speakeasies-and-rooftop-lounges.webp"
+image: "/images/cocktail-bars-speakeasies-and-rooftop-lounges.webp"
 ---
 
 Seoul has rapidly transformed from a city dominated by green bottles of soju into one of the world's premier destinations for high-end mixology. By 2026, the South Korean capital boasts multiple entries on the "Asia's 50 Best Bars" list, offering travelers a sophisticated blend of hidden speakeasies, breathtaking rooftop lounges, and traditional Hanok bars. Whether you are looking for a bespoke whiskey experience in Cheongdam or a panoramic sunset view in Hongdae, the city's nightlife landscape is as diverse as it is vibrant.

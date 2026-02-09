@@ -14,7 +14,7 @@ tags:
   - "Duty Free"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/best-under-the-radar-k-beauty-brands-gaining-popularity-in-2026.webp"
+image: "/images/best-under-the-radar-k-beauty-brands-gaining-popularity-in-2026.webp"
 ---
 
 If you have walked into an Olive Young in Myeongdong recently, you likely saw shelves dominated by the global giants: COSRX, Innisfree, and Laneige. While these brands are staples for a reason, the true magic of Korean beauty lies in its rapid innovation cycle. In 2026, a new wave of "indie" brands—previously known only to locals and hardcore beauty enthusiasts in Seoul—is beginning to surface. These brands are prioritizing minimalist aesthetics, vegan formulations, and high-efficacy clinical ingredients like PDRN and Exosomes over flashy marketing.

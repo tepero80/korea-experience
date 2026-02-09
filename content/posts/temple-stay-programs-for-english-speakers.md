@@ -12,7 +12,7 @@ tags:
   - "Budget Travel"
 readTime: "16 min read"
 featured: true
-image: "/images/posts/temple-stay-programs-for-english-speakers.webp"
+image: "/images/temple-stay-programs-for-english-speakers.webp"
 ---
 
 Finding a Temple Stay program in Korea with fluent English support is entirely possible and increasingly popular, with over 25 officially designated temples offering dedicated English programs as of 2026. The best way to secure a spot is through the official Templestay.com portal, which specifically filters for "Foreigner Friendly" locations. For first-timers, **Jogyesa** and **Bongeunsa** in Seoul offer the most accessible introduction with full English translation, while **Golgulsa** (famous for Sunmudo martial arts) and **Bulguksa** in Gyeongju offer deeply immersive experiences outside the capital. Most programs are categorized into "Experiential" (structured activities) or "Relaxation" (freestyle), typically costing between ₩50,000 and ₩100,000 per night depending on the location and program type.

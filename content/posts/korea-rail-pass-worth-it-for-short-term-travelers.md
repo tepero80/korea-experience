@@ -12,7 +12,7 @@ tags:
   - "Transport"
 readTime: "15 min read"
 featured: true
-image: "/images/posts/korea-rail-pass-worth-it-for-short-term-travelers.webp"
+image: "/images/korea-rail-pass-worth-it-for-short-term-travelers.webp"
 ---
 
 Deciding whether to purchase the Korea Rail Pass (KR Pass) used to be a simple decision for international travelers. For years, it was an automatic money-saver. However, following significant price adjustments by Korail in late 2024 and continuing into 2026, the math has changed dramatically. Travelers now face a complex landscape of ticket options, requiring a calculator rather than blind faith to ensure they aren't overspending.

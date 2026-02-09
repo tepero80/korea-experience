@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/korean-drinking-games-rules-and-fun.webp"
+image: "/images/korean-drinking-games-rules-and-fun.webp"
 ---
 
 Understanding the nightlife in Seoul goes far beyond knowing which club to visit in Gangnam or which craft beer pub is trending in Itaewon. The true heartbeat of Korean social socialization is found around a round metal table, laden with green bottles, where the atmosphere is electric with chanting and laughter. If you want to truly integrate into the local culture, mastering Korean drinking games rules and fun etiquette is not just a party trick—it is an essential travel skill.

@@ -14,7 +14,7 @@ tags:
   - "Concert"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/k-pop-lightstick-guide-official-vs-unofficial.webp"
+image: "/images/k-pop-lightstick-guide-official-vs-unofficial.webp"
 ---
 
 For any international fan traveling to South Korea for a concert, the lightstick—or *Eungwonbong*—is more than just a souvenir. It is your ticket to participating in the mesmerizing "ocean" of light that defines K-Pop concert culture. Whether you are a BTS ARMY, a STAY, or a BLINK, holding that glowing wand connects you to the artist and the thousands of fans surrounding you. However, the market is flooded with counterfeits that look frighteningly similar to the real deal but fail when it matters most: during the concert's central control sequences.

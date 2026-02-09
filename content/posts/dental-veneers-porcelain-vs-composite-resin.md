@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/dental-veneers-porcelain-vs-composite-resin.webp"
+image: "/images/dental-veneers-porcelain-vs-composite-resin.webp"
 ---
 
 Choosing between porcelain and composite resin veneers in Korea ultimately comes down to your budget, your timeline, and your long-term aesthetic goals. If you are looking for the "Korean Celebrity Smile" that dominates K-Dramas, you are likely seeing high-end porcelain laminates. However, composite resin offers a faster, non-invasive alternative that appeals to many travelers on tighter schedules. In Seoul's competitive dental market, the technology for both has advanced significantly, offering "One-Day" solutions that are rare in Western countries.

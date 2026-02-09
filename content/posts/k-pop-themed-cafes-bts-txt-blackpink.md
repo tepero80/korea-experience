@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/k-pop-themed-cafes-bts-txt-blackpink.webp"
+image: "/images/k-pop-themed-cafes-bts-txt-blackpink.webp"
 ---
 
 For international fans of the Hallyu wave, a trip to South Korea is effectively a modern pilgrimage. While visiting concert venues and agency headquarters is standard, the true heart of fandom culture lies in the vibrant ecosystem of K-Pop themed cafes. In 2026, the landscape of these cafes has evolved from simple fan-meet spots to high-end lifestyle destinations. Specifically, for followers of global powerhouses like BTS, TXT (Tomorrow X Together), and Blackpink, the cafe scene offers a unique blend of culinary excellence and fan devotion.

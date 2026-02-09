@@ -13,7 +13,7 @@ tags:
   - "K-Beauty"
 readTime: "15 min read"
 featured: true
-image: "/images/posts/korean-spa-jjimjilbang-experience-guide.webp"
+image: "/images/korean-spa-jjimjilbang-experience-guide.webp"
 ---
 
 A visit to a Korean bathhouse, known locally as a *jjimjilbang*, is arguably the most authentic cultural immersion you can experience in Korea. It is not just a spa; it is a community hub, a budget accommodation hack, a beauty ritual, and a place where social barriers melt away—along with your stress. However, the strict etiquette, the language barrier, and the mandatory nudity in the bathing areas can be intimidating for first-time visitors.

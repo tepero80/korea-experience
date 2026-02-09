@@ -14,7 +14,7 @@ tags:
   - "Concert"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/k-drama-fashion-where-to-buy-similar-outfits.webp"
+image: "/images/k-drama-fashion-where-to-buy-similar-outfits.webp"
 ---
 
 The global phenomenon of Korean dramas has transcended screen-time entertainment to dictate fashion trends worldwide. When a lead character in a hit series like *Queen of Tears* or *King the Land* wears a specific trench coat or pair of sunglasses, it often triggers an instant "sold-out" effect across retail platforms. For international travelers and fashion enthusiasts, finding these items is more than just shopping; it is a way to embody the elegance and style of their favorite characters.

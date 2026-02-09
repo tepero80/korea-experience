@@ -13,7 +13,7 @@ tags:
   - Driving in Korea
 readTime: "16 min read"
 featured: false
-image: "/images/posts/motorcycle-rental-for-experienced-riders.webp"
+image: "/images/motorcycle-rental-for-experienced-riders.webp"
 ---
 
 Renting a motorcycle in South Korea as a foreigner is entirely possible, but the experience differs significantly from riding in Europe, North America, or Southeast Asia due to unique legal restrictions and road hierarchies. For experienced riders looking to tour the peninsula on two wheels, the most critical factor is possessing a valid International Driving Permit (IDP) with a specific motorcycle stamp (Type A), as a standard car license (Type B) is legally insufficient for any machine over 125cc.

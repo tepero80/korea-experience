@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Moving to Korea with a Pet: Quarantine & Flights 2026"
 date: 2026-01-25
 excerpt: "Navigate the essential paperwork, quarantine rules, and flight arrangements for moving your beloved pet to Korea in 2026."
 category: Living in Korea
 author: Korea Experience Team
+image: "/images/moving-to-korea-with-a-pet-quarantine-paperwork-and-flights-2026.webp"
 ---
-
 ## Moving to Korea with a Pet: Navigating Quarantine Paperwork and Flights in 2026
 
 Embarking on a new adventure in South Korea is an exciting prospect, but for many, the journey isn't complete without their beloved furry companions. The thought of **moving to Korea with a pet** can seem daunting, conjuring images of complex paperwork, strict regulations, and stressful travel arrangements. Rest assured, while the process requires meticulous planning and attention to detail, it is entirely achievable. This comprehensive guide, updated for **2026**, is designed to demystify the process of bringing your pet to South Korea, focusing on essential **pet quarantine paperwork and flights**.

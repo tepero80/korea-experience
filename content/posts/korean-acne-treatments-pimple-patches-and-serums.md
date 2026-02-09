@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/korean-acne-treatments-pimple-patches-and-serums.webp"
+image: "/images/korean-acne-treatments-pimple-patches-and-serums.webp"
 ---
 
 Korean acne treatments, specifically pimple patches and soothing serums, represent the pinnacle of global skincare innovation by focusing on gentle healing rather than harsh drying. If you are struggling with breakouts while traveling or living in Korea, the local approach combines advanced hydrocolloid technology with powerful natural ingredients like Centella Asiatica and Tea Tree to treat inflammation at the source.

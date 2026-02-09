@@ -12,7 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/korean-home-decor-where-to-buy-modern-hanok-style.webp"
+image: "/images/korean-home-decor-where-to-buy-modern-hanok-style.webp"
 ---
 
 Finding authentic Korean home decor that blends traditional aesthetics with modern functionality can be challenging for international visitors. You might see beautiful *Soban* tables in cafes or minimalist ceramics in K-Dramas, but finding where to purchase them—and how to get them home—is a different story.

@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/acne-treatment-isotretinoin-vs-laser-vs-chemical-peels.webp"
+image: "/images/acne-treatment-isotretinoin-vs-laser-vs-chemical-peels.webp"
 ---
 
 Choosing the right acne treatment in South Korea can be overwhelming given the sheer volume of advanced options available. You are likely wondering which method offers the fastest results, the best long-term cure, or the most travel-friendly recovery time.

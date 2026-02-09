@@ -6,7 +6,7 @@ category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 44
-image: "/images/deep-dive/seoul-bike-ddaereungi-without-local-number.webp"
+image: "/images/seoul-bike-ddaereungi-without-local-number.webp"
 ---
 
 So, you're in Seoul, you see those cute green and white bikes zipping along the Han River, and you want in. But then the panic sets in—you don't have a Korean phone number (starting with 010), you don't have an Alien Registration Card (ARC), and everyone tells you that Korean apps are impossible for foreigners.

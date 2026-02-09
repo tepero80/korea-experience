@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/zero-sugar-soju-and-healthy-drinking-trends-in-korea-2026.webp"
+image: "/images/zero-sugar-soju-and-healthy-drinking-trends-in-korea-2026.webp"
 ---
 
 South Korea's drinking culture has undergone a seismic shift over the last few years. Gone are the days when specific green bottles were synonymous only with harsh hangovers and high calorie counts. By 2026, the "Healthy Pleasure" movement has firmly taken root in Seoul's nightlife, transforming how locals and travelers alike experience alcohol. The undisputed king of this revolution is **Zero Sugar Soju**.

@@ -12,7 +12,7 @@ tags:
   - "Korean Culture"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/table-etiquette-in-korea-why-you-should-not-pick-up-your-rice-bowl-2026.webp"
+image: "/images/table-etiquette-in-korea-why-you-should-not-pick-up-your-rice-bowl-2026.webp"
 ---
 
 Dining in South Korea is a communal symphony of sizzling grills, endless side dishes, and precise social rules. For the uninitiated traveler arriving in Seoul in 2026, the atmosphere can be electrifying, but the etiquette can feel like a minefield. While Korean locals are generally forgiving of foreigners, mastering the nuances of table manners—specifically the "Rice Bowl Rule"—distinguishes a tourist from a culturally respectful traveler.

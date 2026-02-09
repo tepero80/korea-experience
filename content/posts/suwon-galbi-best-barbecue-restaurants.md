@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/suwon-galbi-best-barbecue-restaurants.webp"
+image: "/images/suwon-galbi-best-barbecue-restaurants.webp"
 ---
 
 For international travelers and culinary enthusiasts, the city of Suwon represents the holy grail of Korean barbecue. Located approximately 34 kilometers (21 miles) south of Seoul, this historic city is famous for two things: the UNESCO World Heritage Hwaseong Fortress and "Suwon Wang Galbi" (King Ribs). While Korean BBQ is ubiquitous across the peninsula, the Suwon style is distinct, characterized by massive bone-in ribs, a unique salt-based seasoning rather than the soy-heavy marinade found elsewhere, and generous portions that justify the premium price tag.

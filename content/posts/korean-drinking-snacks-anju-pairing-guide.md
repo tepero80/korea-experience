@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/korean-drinking-snacks-anju-pairing-guide.webp"
+image: "/images/korean-drinking-snacks-anju-pairing-guide.webp"
 ---
 
 <KeyTakeaways 

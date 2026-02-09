@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Telemedicine for International Patients: Korea Follow-Up Care"
 date: 2026-01-08
 excerpt: "Explore Korea's advanced telemedicine options for international patients, ensuring seamless follow-up care wherever you are"
 category: Medical Tourism
 author: Korea Experience Team
+image: "/images/follow-up-care-for-international-patients-telemedicine-options.webp"
 ---
-
 # Follow-Up Care for International Patients Telemedicine Options in Korea
 
 Korea has firmly established itself as a global leader in medical tourism, attracting hundreds of thousands of international patients annually for everything from complex surgeries to advanced aesthetic procedures. The country's world-class hospitals, highly skilled medical professionals, and cutting-edge technology offer unparalleled healthcare experiences. However, for many international patients, the journey doesn't end when they leave Korea. A critical component of successful medical treatment is comprehensive **follow-up care for international patients telemedicine options**.
@@ -133,6 +133,7 @@ Selecting the appropriate provider for **follow-up care for international patien
 *   **Technical Reliability:** A user-friendly interface and stable connection are paramount.
 *   **Cost and Payment:** Understand the fee structure and accepted payment methods.
 
+image: "/images/follow-up-care-for-international-patients-telemedicine-options.webp"
 ---
 
 **Table 1: In-Person vs. Telemedicine Follow-up for International Patients**

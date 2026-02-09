@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-beauty-store-comparison-olive-young-vs-lalavla.webp"
+image: "/images/korean-beauty-store-comparison-olive-young-vs-lalavla.webp"
 ---
 
 If you are planning a trip to Korea in 2026 with the intention of stocking up on skincare, you have likely come across two major names in your research: Olive Young and Lalavla. For over a decade, these two retailers were the primary combatants in the "drugstore wars" of South Korea. However, the landscape has shifted dramatically.

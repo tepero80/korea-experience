@@ -14,7 +14,7 @@ tags:
   - "Korean BBQ"
 readTime: "16 min read"
 featured: false
-image: "/images/posts/how-to-verify-korean-clinic-credentials-red-flags-to-avoid.webp"
+image: "/images/how-to-verify-korean-clinic-credentials-red-flags-to-avoid.webp"
 ---
 
 Finding a clinic in South Korea can feel overwhelming, but verifying credentials is actually a structured process if you know where to look. To verify a Korean clinic immediately, you should cross-reference the clinic's registration number on the "Visit Medical Korea" portal (run by the Korea Health Industry Development Institute), check for the Board Certified Plastic Surgeon logo (a specific square emblem with the Taegeuk mark), and ensure the clinic is registered to accept foreign patients. Do not rely solely on Instagram before and after photos; instead, look for the surgeon's name on the Korean Association of Plastic Surgeons (KAPS) "Search a Surgeon" tool.

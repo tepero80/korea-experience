@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/reading-korean-medical-reviews-naver-blog-vs-real-patient-experiences.webp"
+image: "/images/reading-korean-medical-reviews-naver-blog-vs-real-patient-experiences.webp"
 ---
 
 Navigating the landscape of Korean medical tourism can feel like walking through a hall of mirrors; for every genuine patient testimonial, there are often a dozen carefully curated marketing posts designed to look like authentic experiences. If you are searching for plastic surgery, dermatology, or vision correction in Seoul using only English-language Google searches or Instagram hashtags, you are seeing less than 15% of the actual market—and usually the most expensive 15%. To truly access the "local" tier of quality and pricing, you must learn to navigate the domestic ecosystem of Naver Blogs, Gangnam Unni, and Babitalk.

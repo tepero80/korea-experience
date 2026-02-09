@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-makeup-trends-2026-what-s-hot-in-k-beauty.webp"
+image: "/images/korean-makeup-trends-2026-what-s-hot-in-k-beauty.webp"
 ---
 
 If you are looking for the definitive Korean makeup trends of 2026, the focus has shifted from the hyper-reflective "glass skin" of previous years to a more sophisticated, semi-matte finish known as "Protein Skin," paired with muted, cool-toned color palettes and AI-driven personalization.

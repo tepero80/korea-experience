@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/korean-calligraphy-classes-learning-hangeul-art.webp"
+image: "/images/korean-calligraphy-classes-learning-hangeul-art.webp"
 ---
 
 The stroke of a brush against mulberry paper is more than just writing; in Korea, it is a reflection of the mind. As interest in Korean culture surges globally, travelers are looking beyond K-pop and street food to find deeper, meditative experiences. **Korean calligraphy classes learning Hangeul art** have emerged as a top cultural activity, offering a unique blend of history, artistic expression, and mindfulness.

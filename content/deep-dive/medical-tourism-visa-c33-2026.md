@@ -6,7 +6,7 @@ category: Medical Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 2
-image: "/images/deep-dive/medical-tourism-visa-c33-2026.webp"
+image: "/images/medical-tourism-visa-c33-2026.webp"
 ---
 
 You've spent months researching the perfect clinic, saved up for that life-changing procedure, and now you're staring at a bewildering array of visa options. **The short answer is that the C-3-3 Medical Tourism Visa remains your primary legal pathway for medical procedures lasting up to 90 days, but as of January 1, 2026, it must be paired with a mandatory e-Arrival Card submitted at least 72 hours before departure.** This guide cuts through the bureaucratic maze to give you a clear roadmap for your 2026 medical journey to Korea.

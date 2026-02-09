@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/tax-refund-for-tourists-how-to-claim.webp"
+image: "/images/tax-refund-for-tourists-how-to-claim.webp"
 ---
 
 Getting a tax refund in South Korea is one of the most effective ways to stretch your travel budget, offering you a refund of approximately 6% to 9% on your purchases after service fees. The system applies to almost all tangible goods purchased at participating "Tax Free" stores when you spend a minimum of **₩30,000** (approximately $22 USD) in a single transaction. There are two primary ways to claim this money back: the **Immediate Tax Refund**, where the tax is deducted instantly at the cashier (the most convenient method), and the **Airport/Port Refund**, where you collect your money at your point of departure.

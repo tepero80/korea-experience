@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/visa-extension-online-vs-in-person-methods.webp"
+image: "/images/visa-extension-online-vs-in-person-methods.webp"
 ---
 
 Navigating the bureaucratic landscape of South Korea is a rite of passage for every long-term foreign resident. Whether you are an English teacher on an E-2 visa, a student on a D-2, or a long-term resident on an F-series visa, the expiration date on your Registration Card (formerly ARC) is a deadline you cannot ignore. In 2026, the Korean Ministry of Justice offers two primary pathways for extending your stay: the digital convenience of the Hikorea website or the traditional visit to a local Immigration Office.

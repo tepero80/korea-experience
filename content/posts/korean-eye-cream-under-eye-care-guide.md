@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/korean-eye-cream-under-eye-care-guide.webp"
+image: "/images/korean-eye-cream-under-eye-care-guide.webp"
 ---
 
 The most effective Korean eye care routine relies on a combination of lightweight, fermentation-based ingredients and a gentle "tapping" application method rather than heavy, occlusive creams. Unlike Western standards that often focus on retinol-heavy formulations, the Korean approach prioritizes hydration barrier repair using ginseng, snail mucin, and peptides to plump the delicate under-eye area, which is approximately 0.5mm thick—about one-tenth the thickness of facial skin. For 2026, the market leaders are AHC (for all-over application), Sulwhasoo (for herbal anti-aging), and COSRX (for texture repair), with most products priced between ₩25,000 and ₩80,000 ($18–$60 USD).

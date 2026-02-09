@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/gwangjang-market-complete-food-guide.webp"
+image: "/images/gwangjang-market-complete-food-guide.webp"
 ---
 
 Gwangjang Market is not just a market; it is the beating culinary heart of Seoul. Established in 1905, making it over 120 years old, this sprawling complex is the nation's first permanent traditional market. While it sells textiles and vintage clothing, 90% of international visitors flock here for one reason: the "Meokjagolmok" (Food Alley).

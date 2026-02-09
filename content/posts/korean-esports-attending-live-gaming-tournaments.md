@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-esports-attending-live-gaming-tournaments.webp"
+image: "/images/korean-esports-attending-live-gaming-tournaments.webp"
 ---
 
 For international gaming enthusiasts, South Korea is not just a destination; it is the pilgrimage site of modern esports. While the rest of the world has caught up in terms of infrastructure, Seoul remains the spiritual home where competitive gaming first transformed into a mainstream professional spectator sport. With the industry valued at over $13 billion globally, witnessing a live match in the city where legends like Faker were forged is a bucket-list experience.

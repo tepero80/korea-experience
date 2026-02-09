@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/korean-temple-food-vegetarian-buddhist-meals.webp"
+image: "/images/korean-temple-food-vegetarian-buddhist-meals.webp"
 ---
 
 Korean temple food has transcended its humble origins within mountain monasteries to become a global culinary phenomenon. Once a strictly ascetic practice reserved for monks and nuns, this 1,700-year-old tradition gained international acclaim after Chef Jeong Kwan was featured on Netflix's *Chef's Table*. For international travelers and expats, exploring this cuisine offers a rare intersection of history, wellness, and gastronomy.

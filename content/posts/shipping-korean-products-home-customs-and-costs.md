@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/shipping-korean-products-home-customs-and-costs.webp"
+image: "/images/shipping-korean-products-home-customs-and-costs.webp"
 ---
 
 The most reliable way to ship products from Korea to international destinations is through **Korea Post (Ucheguk)** using their EMS (Express Mail Service) for speed or Surface Mail (boat) for heavy, non-urgent items. For a 5kg box sent to North America or Europe, you can expect to pay approximately ₩80,000–₩110,000 ($60–$85 USD) via EMS, which takes 3–5 business days, while Surface Mail will cost around ₩35,000 ($26 USD) but takes 60–90 days. Private couriers like DHL and FedEx are available but typically cost 30–50% more than EMS for personal shipments.

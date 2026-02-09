@@ -14,7 +14,7 @@ tags:
   - "Markets"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-movie-theaters-vs-western-cinemas-differences.webp"
+image: "/images/korean-movie-theaters-vs-western-cinemas-differences.webp"
 ---
 
 Watching a blockbuster in Seoul is not merely a pastime; it is a meticulously designed lifestyle experience that often surprises international visitors. While the fundamental concept—watching a film on a big screen—remains the same, the ecosystem surrounding Korean movie theaters differs significantly from Western cinemas in terms of technology, service, food, and etiquette.

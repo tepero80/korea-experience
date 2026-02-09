@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/english-speaking-clinics-in-seoul-complete-list.webp"
+image: "/images/english-speaking-clinics-in-seoul-complete-list.webp"
 ---
 
 Finding medical care in a foreign country can be daunting, but Seoul possesses one of the most efficient and high-quality healthcare systems in the world. If you are looking for English-speaking clinics in Seoul, the most reliable options are the "International Healthcare Centers" (IHC) located within major university hospitals, followed by specialized private clinics in expat-friendly districts like Itaewon and Gangnam.

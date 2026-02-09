@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-breakfast-foods-traditional-morning-meals.webp"
+image: "/images/korean-breakfast-foods-traditional-morning-meals.webp"
 ---
 
 For many international travelers, the concept of a "Korean breakfast" is often the first cultural curveball they encounter upon landing in Seoul. Unlike the distinct separation between bacon-and-eggs for breakfast and steak for dinner found in the West, traditional Korean cuisine, or *Hansik*, operates on a different philosophy. Historically, the morning meal was simply a lighter version of the evening meal: rice, soup, and side dishes.

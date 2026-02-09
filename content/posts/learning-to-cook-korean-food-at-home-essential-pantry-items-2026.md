@@ -14,7 +14,7 @@ tags:
   - "Kimchi"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/learning-to-cook-korean-food-at-home-essential-pantry-items-2026.webp"
+image: "/images/learning-to-cook-korean-food-at-home-essential-pantry-items-2026.webp"
 ---
 
 In 2026, the global culinary landscape has been undeniably transformed by the "K-Food Wave," with Korean cuisine solidifying its place as a staple in households from New York to London. Cooking authentic Korean food at home is no longer an insurmountable challenge reserved for professional chefs; it is an accessible, rewarding journey that begins with a well-stocked pantry. The secret to that distinct, depth-filled flavor profile lies not in complex techniques, but in the specific fermentation and seasoning ingredients used.

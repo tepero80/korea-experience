@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/jeonju-bibimbap-trail-authentic-restaurants.webp"
+image: "/images/jeonju-bibimbap-trail-authentic-restaurants.webp"
 ---
 
 Jeonju, designated a UNESCO City of Gastronomy in 2012, is widely considered the culinary capital of South Korea. While the city offers a diverse array of delicacies, one dish stands above the rest as the undisputed icon of the region: Jeonju Bibimbap. Unlike the standard mixed rice dishes found elsewhere, the authentic Jeonju version is a sophisticated culinary masterpiece involving over 30 distinct ingredients and a painstaking preparation process that dates back hundreds of years.

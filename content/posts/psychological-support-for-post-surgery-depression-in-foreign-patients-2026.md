@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/psychological-support-for-post-surgery-depression-in-foreign-patients-2026.webp"
+image: "/images/psychological-support-for-post-surgery-depression-in-foreign-patients-2026.webp"
 ---
 
 Finding psychological support for post-surgery depression in foreign patients in Korea involves a combination of pre-arranged hospital services, private English-speaking counseling centers, and specialized recovery accommodations. As of 2026, the Korean medical tourism industry has integrated mental wellness into physical recovery packages, recognizing that "post-op blues" affect approximately 30-40% of international patients. Immediate support is available through International Healthcare Centers at major university hospitals, private therapy practices in foreign-friendly districts like Itaewon and Gangnam, and digital telehealth platforms designed specifically for short-term visitors.

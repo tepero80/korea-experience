@@ -14,7 +14,7 @@ tags:
   - "Botox"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/medical-procedures-for-transgender-patients-in-seoul.webp"
+image: "/images/medical-procedures-for-transgender-patients-in-seoul.webp"
 ---
 
 Seoul has established itself as a global leader for gender-affirming surgeries, specifically excelling in Facial Feminization Surgery (FFS) and Voice Feminization Surgery (VFS), offering advanced techniques that prioritize natural aesthetics and functionality. While Thailand remains a major hub for genital reconstruction, South Korea is increasingly the preferred destination for transgender individuals seeking facial contouring, vocal pitch alteration, and body sculpting due to the country's unmatched expertise in bone structure modification and maxillofacial surgery.

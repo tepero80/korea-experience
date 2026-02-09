@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/the-ultimate-guide-to-korean-spatula-makeup-application-2026.webp"
+image: "/images/the-ultimate-guide-to-korean-spatula-makeup-application-2026.webp"
 ---
 
 For anyone chasing the elusive "glass skin" look that defines K-Beauty in 2026, the makeup spatula (or "spatula technique") is the single most transformative tool you can add to your kit.

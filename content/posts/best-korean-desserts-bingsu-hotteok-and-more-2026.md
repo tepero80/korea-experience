@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/best-korean-desserts-bingsu-hotteok-and-more-2026.webp"
+image: "/images/best-korean-desserts-bingsu-hotteok-and-more-2026.webp"
 ---
 
 South Korea’s dessert culture has evolved into a global phenomenon, transforming Seoul into a pilgrimage site for those with a sweet tooth. As we enter 2026, the culinary landscape has shifted from simple post-meal treats to an elaborate, visual, and experiential journey. The market for dessert cafes in Korea has grown by approximately 18% over the last two years, with the average traveler spending roughly ₩35,000 (about $27 USD) daily on sweets alone.

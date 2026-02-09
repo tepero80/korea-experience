@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/mental-health-and-plastic-surgery-managing-expectations.webp"
+image: "/images/mental-health-and-plastic-surgery-managing-expectations.webp"
 ---
 
 Successful plastic surgery in Korea is not defined solely by the technical precision of the surgeon's scalpel, but by the psychological preparedness of the patient. Managing expectations involves bridging the gap between the "Gangnam Ideal"—a standardized aesthetic often marketed aggressively—and your unique anatomical reality, while also preparing for the "post-op blues," a period of emotional volatility that affects approximately 30-40% of patients during the acute recovery phase. Understanding the cultural nuances of Korean medical consultations, where directness about physical flaws is common, is crucial to maintaining mental well-being throughout the process.

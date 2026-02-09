@@ -6,7 +6,7 @@ category: K-Culture
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 4
-image: "/images/deep-dive/korea-social-rules-local-guide-2026.webp"
+image: "/images/korea-social-rules-local-guide-2026.webp"
 ---
 
 So, you've just landed at Incheon Airport, the smells of roasted seaweed and coffee are hitting you, and you're ready to dive into the neon-lit madness of Seoul. But here's the thing: Korea isn't just a place; it's a series of invisible social layers. **If you want to look like a local in 2026, the short answer is that you need to master Nunchi—the art of "reading the room."** Honestly, it's more important than knowing how to speak the language.

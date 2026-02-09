@@ -14,7 +14,7 @@ tags:
   - "Dental"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/pet-ownership-in-korea-vet-care-and-pet-hotels.webp"
+image: "/images/pet-ownership-in-korea-vet-care-and-pet-hotels.webp"
 ---
 
 Living in South Korea as an expat comes with unique challenges, but raising a pet shouldn't be one of them. Over the past decade, Korea has undergone a radical cultural shift regarding animal companionship. The rise of the "Pet-fam" (a portmanteau of Pet and Family) has transformed the landscape, making cities like Seoul increasingly pet-friendly. However, navigating the local veterinary system, finding reliable pet hotels, and understanding the nuances of pet etiquette requires specific local knowledge.

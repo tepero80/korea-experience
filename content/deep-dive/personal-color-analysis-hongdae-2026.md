@@ -7,7 +7,7 @@ category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 12
-image: "/images/deep-dive/personal-color-analysis-hongdae-2026.webp"
+image: "/images/personal-color-analysis-hongdae-2026.webp"
 ---
 
 Personal color analysis has exploded from a niche beauty service into a primary driver of international beauty tourism in Korea. By 2026, the **Hongdae district** in Seoul has emerged as the definitive global hub for these services, distinguished by its concentration of high-caliber studios, proximity to elite design institutions, and role as a testing ground for AI in cosmetic personalization.

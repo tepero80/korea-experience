@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/korean-sunscreen-guide-chemical-vs-physical.webp"
+image: "/images/korean-sunscreen-guide-chemical-vs-physical.webp"
 ---
 
 Understanding the difference between Korean chemical and physical sunscreens is the first step to mastering the famous "glass skin" routine. If you are shopping at Olive Young or browsing Duty-Free at Incheon Airport, the sheer volume of options can be overwhelming.

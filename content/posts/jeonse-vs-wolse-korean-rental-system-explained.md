@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/jeonse-vs-wolse-korean-rental-system-explained.webp"
+image: "/images/jeonse-vs-wolse-korean-rental-system-explained.webp"
 ---
 
 Moving to South Korea offers an exciting blend of modern convenience and rich tradition, but the housing market can be a significant culture shock for newcomers. Unlike the standardized monthly rent systems found in North America or Europe, Korea operates on a unique dual system: **Jeonse** (large lump-sum deposit) and **Wolse** (monthly rent with a high deposit). Understanding the nuance between these two is critical, not just for your budget, but for the safety of your substantial financial assets.

@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/traditional-martial-arts-trying-taekwondo-vs-taekkyeon-2026.webp"
+image: "/images/traditional-martial-arts-trying-taekwondo-vs-taekkyeon-2026.webp"
 ---
 
 When travelers land at Incheon International Airport, they are entering a nation where martial arts are not just sports but intrinsic parts of the national identity. In 2026, the interest in immersive cultural tourism has surged by over 35% compared to previous years, with visitors seeking more than just sightseeing—they want to sweat, learn, and embody the Korean spirit. The debate often lands on two distinct disciplines: the world-famous, Olympic-standard **Taekwondo**, and its ancient, rhythmic ancestor, **Taekkyeon**.

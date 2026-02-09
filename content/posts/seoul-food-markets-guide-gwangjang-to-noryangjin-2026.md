@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/seoul-food-markets-guide-gwangjang-to-noryangjin-2026.webp"
+image: "/images/seoul-food-markets-guide-gwangjang-to-noryangjin-2026.webp"
 ---
 
 Seoul’s culinary soul doesn't reside in its Michelin-starred restaurants in Gangnam, but rather in the steam-filled, chaotic, and utterly mesmerizing alleyways of its traditional markets. By 2026, the landscape of Seoul's food markets has evolved, blending centuries-old traditions with modern conveniences like QR payments and digital kiosks, yet the fundamental flavors remain unchanged. Whether you are hunting for the perfect crispy mung bean pancake or navigating the intricate auctions of a massive fish market, understanding the ecosystem of these culinary hubs is essential for any traveler.

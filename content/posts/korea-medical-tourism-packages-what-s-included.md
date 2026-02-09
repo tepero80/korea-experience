@@ -14,7 +14,7 @@ tags:
   - "Botox"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/korea-medical-tourism-packages-what-s-included.webp"
+image: "/images/korea-medical-tourism-packages-what-s-included.webp"
 ---
 
 <InfoBox type="warning" title="Medical Disclaimer">

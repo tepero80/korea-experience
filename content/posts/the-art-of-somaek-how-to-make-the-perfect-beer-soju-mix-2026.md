@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/the-art-of-somaek-how-to-make-the-perfect-beer-soju-mix-2026.webp"
+image: "/images/the-art-of-somaek-how-to-make-the-perfect-beer-soju-mix-2026.webp"
 ---
 
 In the vibrant, neon-lit alleyways of Seoul, from the bustling streets of Hongdae to the corporate dinners in Gangnam, there is a unifying lubricant that powers the city's social engine: Somaek. A portmanteau of *Soju* (Korea's national distilled spirit) and *Maekju* (beer), this cocktail is far more than just a drink; it is a cultural ritual, a rite of passage, and for many travelers, the defining flavor of a night out in South Korea.

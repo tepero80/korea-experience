@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Post-Op Exercise When to Resume Gym and Cardio Safely in Korea"
 date: 2026-01-27
 excerpt: "Navigating post-operative exercise in Korea requires careful planning and medical guidance. Learn safe timelines for gym and cardio, ensuring a healthy recovery."
 category: Medical Tourism
 author: Korea Experience Team
+image: "/images/post-op-exercise-when-to-resume-gym-and-cardio.webp"
 ---
-
 ## Post-Op Exercise When to Resume Gym and Cardio Safely in Korea
 
 Undergoing a medical procedure, whether a complex surgery or a minor intervention, is a significant event. For many international visitors and expats in Korea, the allure of the country's advanced medical facilities for everything from cosmetic enhancements to orthopedic repairs is undeniable. However, once the procedure is complete, a new set of questions often arises, particularly for those with an active lifestyle: "When can I resume post-op exercise? When is it safe to get back to the gym? And when can I pick up my cardio routine without risking my recovery?"

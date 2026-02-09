@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/korean-temple-food-dining-experience-guide-2026.webp"
+image: "/images/korean-temple-food-dining-experience-guide-2026.webp"
 ---
 
 Korean temple food, known locally as *sachal eumsik*, has evolved from a humble monastic necessity into one of the most respected culinary genres globally. By 2026, this cuisine has transcended mere sustenance to become a symbol of sustainability, mindfulness, and the slow food movement. For international travelers, experiencing a temple food meal is no longer just a dietary choice—it is a cultural imperative that offers a window into 1,700 years of Korean Buddhist history.

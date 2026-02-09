@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "19 min read"
 featured: false
-image: "/images/posts/how-to-use-baemin-without-an-arc-in-2026-pay-at-the-door-methods-and-alternatives.webp"
+image: "/images/how-to-use-baemin-without-an-arc-in-2026-pay-at-the-door-methods-and-alternatives.webp"
 ---
 
 Welcome to Korea, a country celebrated for its vibrant culture, cutting-edge technology, and, of course, its phenomenal food scene. For many international visitors and short-term residents, experiencing Korean cuisine often means diving into the world of food delivery apps. Baemin, or Baedal Minjok, stands as the undisputed giant in this arena, boasting over 85% market share in 2025. However, the convenience it offers often comes with a significant hurdle for those without an Alien Registration Card (ARC) – the required local verification and payment methods. As we look to 2026, the challenge persists, but so do the innovative solutions. This comprehensive guide will illuminate the best strategies for enjoying Korea's culinary delights without an ARC, focusing on reliable pay-at-the-door methods and effective Baemin alternatives.

@@ -7,10 +7,10 @@ for f in os.listdir(posts_dir):
         continue
     with open(os.path.join(posts_dir, f), 'r', encoding='utf-8') as fp:
         content = fp.read(2000)
-    m_img = re.search(r'image:\s*"?(/images/deep-dive/[^"\s]+)', content)
+    m_img = re.search(r'image:\s*"?(/images/[^"\s]+)', content)
     m_title = re.search(r'title:\s*"(.+?)"', content)
     if m_img and m_title:
-        slug = m_img.group(1).replace('/images/deep-dive/', '').replace('.webp', '')
+        slug = m_img.group(1).replace('/images/', '').replace('.webp', '')
         title = m_title.group(1)
         mapping.append((slug, title))
 

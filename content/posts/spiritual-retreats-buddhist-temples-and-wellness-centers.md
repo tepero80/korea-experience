@@ -14,7 +14,7 @@ tags:
   - "Luxury Travel"
 readTime: "16 min read"
 featured: false
-image: "/images/posts/spiritual-retreats-buddhist-temples-and-wellness-centers.webp"
+image: "/images/spiritual-retreats-buddhist-temples-and-wellness-centers.webp"
 ---
 
 Finding a spiritual retreat in Korea generally means choosing between two distinct paths: a traditional **Temple Stay** program run by the Jogye Order of Korean Buddhism, or a modern **Wellness Center** focused on "healing" (pronounced *hilling* in Korean). Temple stays offer austere, cultural immersion with structured schedules starting at ₩50,000–80,000 per night, typically involving 3:00 AM wake-up calls, vegan monastic meals, and meditation. Conversely, wellness centers are often luxury resorts costing ₩250,000 to over ₩600,000 per night, focusing on spa treatments, forest bathing, digital detoxes, and scientifically backed relaxation techniques.

@@ -24,15 +24,15 @@ if image_paths:
     for p in sorted(set(image_paths))[:10]:
         print(f'  {p}')
 
-# Check deep-dive images
-dd_dir = Path('public/images/deep-dive')
-if dd_dir.exists():
-    dd_images = list(dd_dir.glob('*'))
-    print(f'\nDeep-dive images: {len(dd_images)}')
-    for img in sorted(dd_images)[:5]:
+# Check images
+img_dir = Path('public/images')
+if img_dir.exists():
+    images = [f for f in img_dir.glob('*.webp') if '-raw' not in f.name]
+    print(f'\nTotal images: {len(images)}')
+    for img in sorted(images)[:5]:
         print(f'  {img.name} ({img.stat().st_size // 1024}KB)')
 else:
-    print('\nNo deep-dive images dir')
+    print('\nNo images dir')
 
 # Check OG image handling in blog
 print('\n--- OG image check ---')

@@ -14,7 +14,7 @@ tags:
   - "Luxury Travel"
 readTime: "16 min read"
 featured: true
-image: "/images/posts/korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026.webp"
+image: "/images/korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026.webp"
 ---
 
 For travelers seeking a visual journey through time, a Korean architecture tour offers one of the most dramatic contrasts in the world. In 2026, Seoul stands as a testament to rapid evolution, where 600-year-old wooden *Hanoks* sit in the shadow of neo-futuristic skyscrapers that pierce the clouds. This guide isn't just about looking at buildings; it’s about understanding the soul of a nation that rebuilt itself from the ashes of war into a global design powerhouse. Whether you are an architecture student, a photographer, or a traveler who appreciates aesthetic depth, traversing Seoul's skyline is a narrative of resilience and innovation.

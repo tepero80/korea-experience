@@ -12,7 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/coastal-bike-routes-scenic-seaside-cycling.webp"
+image: "/images/coastal-bike-routes-scenic-seaside-cycling.webp"
 ---
 
 Korea’s coastal bike routes offer some of the most spectacular cycling infrastructure in Asia, with the **East Coast Bike Path (Gangwon section)** and the **Jeju Fantasy Bike Path** standing out as the premier choices for international cyclists in 2026. These dedicated "Blue Roads" feature over 80% separated cycling lanes, ample supply stops, and certification booths that allow you to track your journey with a physical passport.

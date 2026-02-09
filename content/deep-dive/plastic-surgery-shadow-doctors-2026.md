@@ -6,7 +6,7 @@ category: Medical Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 38
-image: "/images/deep-dive/plastic-surgery-shadow-doctors.webp"
+image: "/images/plastic-surgery-shadow-doctors.webp"
 ---
 
 You’ve seen the viral makeovers and the flawless K-drama stars, but there’s a dark secret in Gangnam’s operating rooms that no brochure will tell you about. Before you book that flight to Seoul, we need to have a serious chat about "shadow doctors," the new CCTV laws, and how to make sure the surgeon you hired is the one actually holding the scalpel.

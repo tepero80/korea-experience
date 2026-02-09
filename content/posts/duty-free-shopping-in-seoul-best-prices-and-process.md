@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "16 min read"
 featured: false
-image: "/images/posts/duty-free-shopping-in-seoul-best-prices-and-process.webp"
+image: "/images/duty-free-shopping-in-seoul-best-prices-and-process.webp"
 ---
 
 Travelers often find themselves confused by the dual system of shopping in Korea: "Duty-Free" (Myeong-se-jeom) versus "Tax-Free" (Tax Refund). Understanding the distinction is the single most important factor in maximizing your savings. Duty-free shopping in Seoul allows international travelers to purchase luxury goods, cosmetics, and liquor without paying the import duties and local taxes that usually inflate prices by 10% to 40%. The process involves purchasing goods at designated downtown stores or online portals and picking them up at the airport gate upon departure, or buying directly at Incheon Airport.

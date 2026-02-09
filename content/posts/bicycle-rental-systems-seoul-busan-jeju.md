@@ -12,7 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/bicycle-rental-systems-seoul-busan-jeju.webp"
+image: "/images/bicycle-rental-systems-seoul-busan-jeju.webp"
 ---
 
 Cycling through South Korea offers an intimate perspective of the country that subways and taxis simply cannot match. Whether you are navigating the Han River parks in Seoul, cruising the coastline of Busan, or attempting the grand circle tour of Jeju Island, the infrastructure for cyclists is world-class. However, for international travelers in 2026, navigating the distinct rental systems of each major region can be confusing due to varying apps, payment methods, and local regulations.

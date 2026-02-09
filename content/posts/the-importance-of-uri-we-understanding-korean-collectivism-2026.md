@@ -14,7 +14,7 @@ tags:
   - "Coffee"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/the-importance-of-uri-we-understanding-korean-collectivism-2026.webp"
+image: "/images/the-importance-of-uri-we-understanding-korean-collectivism-2026.webp"
 ---
 
 When you land at Incheon International Airport, stepping into a society that moves with a distinct, harmonious rhythm, you are entering the world of *Uri* (우리). Directly translated as "us" or "we," this single syllable is the bedrock of Korean society. It explains why a Korean husband might refer to his spouse as "our wife" even when speaking to a stranger, or why a solo traveler might feel a sudden, warm inclusion—or a stark exclusion—in a bustling restaurant.

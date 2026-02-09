@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/buying-a-used-car-in-korea-k-car-vs-encar-guide-2026.webp"
+image: "/images/buying-a-used-car-in-korea-k-car-vs-encar-guide-2026.webp"
 ---
 
 Navigating the bustling streets of Seoul or exploring the tranquil coastlines of Gangwon-do becomes infinitely more accessible when you have your own set of wheels. While South Korea boasts one of the world's most efficient public transportation systems, with the Seoul Metro handling over 7 million passengers daily, the freedom of a personal vehicle opens up parts of the peninsula that trains and buses simply cannot reach.

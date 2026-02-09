@@ -6,7 +6,7 @@ category: K-Culture
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 39
-image: "/images/deep-dive/lovely-runner-filming-locations.webp"
+image: "/images/lovely-runner-filming-locations.webp"
 ---
 
 Still suffering from "Sun-jae sickness"? You are not alone. Even in 2026, the cultural impact of *Lovely Runner* continues to draw fans to South Korea. If you are ready to grab your yellow umbrella and tour the real-life spots where Im Sol and Ryu Sun-jae fell in love, you have come to the right place.

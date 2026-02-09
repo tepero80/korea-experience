@@ -14,7 +14,7 @@ tags:
   - "Coffee"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/credit-cards-in-korea-which-banks-accept-foreigners.webp"
+image: "/images/credit-cards-in-korea-which-banks-accept-foreigners.webp"
 ---
 
 South Korea is rapidly evolving into a cashless society, where digital transactions account for over 90% of all financial activity. For international residents, expats, and digital nomads, having a local credit card is not just a convenience—it is a necessity for full integration into the lifestyle. From automatic subway discounts to seamless food delivery payments on apps like Baedal Minjok, a domestic card unlocks the true Korean experience. However, navigating the banking system as a foreigner can often feel like a maze of bureaucracy.

@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/fortune-telling-in-korea-saju-vs-tarot-my-experience-in-sinsa-2026.webp"
+image: "/images/fortune-telling-in-korea-saju-vs-tarot-my-experience-in-sinsa-2026.webp"
 ---
 
 Seoul in 2026 is a city of dualities, where hyper-futuristic technology sits comfortably alongside centuries-old traditions. Nowhere is this more apparent than in the bustling alleys of Sinsa-dong and Hongdae, where young Koreans line up not just for the latest viral pastry, but to have their destinies read. Fortune telling in Korea is a massive industry, estimated to be worth over 4 trillion won (approximately 3 billion USD) annually, with over 300,000 registered practitioners across the peninsula.

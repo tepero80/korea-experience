@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "15 min read"
 featured: false
-image: "/images/posts/korean-sunscreens-for-oily-skin-no-white-cast-no-greasiness-2026.webp"
+image: "/images/korean-sunscreens-for-oily-skin-no-white-cast-no-greasiness-2026.webp"
 ---
 
 For international travelers and skincare enthusiasts with oily skin, the absolute best Korean sunscreens in 2026 that offer zero white cast and a non-greasy matte finish are the **Skin1004 Madagascar Centella Hyalu-Cica Water-Fit Sun Serum** (for hydration without shine), the **Beauty of Joseon Relief Sun: Rice + Probiotics** (new 2026 lightweight formulation), and the **Tocobo Cotton Soft Sun Stick** (for matte reapplication). These products utilize advanced chemical filters like Uvinul A Plus and Tinosorb S, which provide SPF 50+ PA++++ protection without the heavy, pore-clogging texture of traditional sunblocks.

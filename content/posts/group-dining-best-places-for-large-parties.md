@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/group-dining-best-places-for-large-parties.webp"
+image: "/images/group-dining-best-places-for-large-parties.webp"
 ---
 
 Finding a restaurant that can comfortably accommodate large groups while delivering exceptional food is a challenge in any major city. In Seoul, however, group dining is not just a logistical necessity; it is a fundamental cultural pillar. Whether you are planning a corporate retreat, a family reunion, or a celebratory dinner with a tour group, South Korea’s capital offers a staggering array of venues designed specifically for communal feasting.

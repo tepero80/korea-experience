@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/duty-free-shopping-in-korea-complete-guide-2026.webp"
+image: "/images/duty-free-shopping-in-korea-complete-guide-2026.webp"
 ---
 
 Duty free shopping in Korea is a dual-system landscape consisting of "Duty-Free" shops (which exempt import taxes and are restricted to international travelers) and "Tax-Free" or "Tax Refund" shopping (which refunds the 10% VAT paid at regular retailers). To get the absolute best prices in 2026, international travelers should utilize **Online Duty-Free Stores** (Lotte, Shilla, Shinsegae apps) roughly 30 to 60 days before departure to accumulate daily points, often reducing prices by an additional 15-30% off the face value, then pick up the goods at the airport gate upon leaving the country.

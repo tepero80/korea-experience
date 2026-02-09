@@ -7,7 +7,7 @@ category: Medical Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 7
-image: "/images/deep-dive/exosome-therapy-seoul-guide-2026.webp"
+image: "/images/exosome-therapy-seoul-guide-2026.webp"
 ---
 
 Look, if you've been scrolling through social media lately, you've probably seen the term "Glass Skin" more times than you can count. But in 2026, the secret isn't just a 10-step skincare routine; it's **exosomes**. And if you're asking why Seoul is the only place people are talking about, the short answer is that Korea has essentially created a "biotech fast-lane" that the rest of the world is still trying to figure out.

@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "16 min read"
 featured: false
-image: "/images/posts/scar-treatment-options-silicone-sheets-vs-laser.webp"
+image: "/images/scar-treatment-options-silicone-sheets-vs-laser.webp"
 ---
 
 When deciding between scar treatment options—specifically silicone sheets vs laser—the right choice depends entirely on the age, texture, and type of your scar, though for significant results, Korean laser technology offers a distinct advantage.

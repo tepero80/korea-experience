@@ -14,7 +14,7 @@ tags:
   - "Gangnam"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/employer-sponsored-visa-e-7-professional.webp"
+image: "/images/employer-sponsored-visa-e-7-professional.webp"
 ---
 
 Securing a professional career in South Korea is a dream for many, but the bureaucratic hurdles can often feel like navigating a labyrinth without a map. For skilled international professionals, the "Employer Sponsored Visa E 7 Professional" (commonly referred to as the E-7 Visa) is the golden ticket. It is the designated visa for foreign nationals contracting with public or private organizations in Korea to perform activities that require specific knowledge or skills.

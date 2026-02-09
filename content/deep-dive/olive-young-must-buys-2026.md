@@ -7,7 +7,7 @@ category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 6
-image: "/images/deep-dive/olive-young-must-buys-2026.webp"
+image: "/images/olive-young-must-buys-2026.webp"
 ---
 
 Look, if you're standing in the middle of a Seoul Olive Young right now and your head is spinning, I've got you. The short answer to what you should buy in 2026 is: **Regenerative Skincare**. We are talking about PDRN (Polydeoxyribonucleotide) and Exosomes. These are the fancy clinic-grade ingredients that have finally become affordable.

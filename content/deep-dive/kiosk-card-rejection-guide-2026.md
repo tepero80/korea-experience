@@ -7,7 +7,7 @@ category: Living in Korea
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 22
-image: "/images/deep-dive/kiosk-card-rejection-guide-2026.webp"
+image: "/images/kiosk-card-rejection-guide-2026.webp"
 ---
 
 So, you've just landed at Incheon, you're starving at a McDonald's in Myeongdong, and the kiosk just rejected your perfectly good Visa card for the third time. Don't panic—this is probably the most common frustration for every tourist in Korea. **The short answer is that Korean kiosks often can't complete the "handshake" between your foreign bank's security protocols and the local payment network.** It's not your card, it's not your PIN—it's a systemic communication failure between two very different financial ecosystems.

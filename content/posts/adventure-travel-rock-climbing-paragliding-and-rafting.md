@@ -12,7 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/adventure-travel-rock-climbing-paragliding-and-rafting.webp"
+image: "/images/adventure-travel-rock-climbing-paragliding-and-rafting.webp"
 ---
 
 For international travelers, South Korea is often synonymous with neon-lit cityscapes, ancient palaces, and culinary tours, but the country's mountainous terrain (covering 70% of the landmass) makes it a premier, yet underrated, destination for high-octane adventure sports. If you are looking for paragliding over winding rivers, whitewater rafting through granite gorges, or world-class rock climbing on polished granite, Korea offers accessible, affordable, and safe options often within 2 to 3 hours of Seoul.

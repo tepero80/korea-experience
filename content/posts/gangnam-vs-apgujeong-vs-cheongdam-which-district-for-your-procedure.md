@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/gangnam-vs-apgujeong-vs-cheongdam-which-district-for-your-procedure.webp"
+image: "/images/gangnam-vs-apgujeong-vs-cheongdam-which-district-for-your-procedure.webp"
 ---
 
 Deciding where to undergo a medical procedure in Seoul can be overwhelming, given that the city boasts over 500 plastic surgery clinics within a mere 15-square-kilometer radius. The choice between Gangnam Station, Apgujeong, and Cheongdam-dong isn't just about geography; it's about budget, specialization, and the level of service you require.

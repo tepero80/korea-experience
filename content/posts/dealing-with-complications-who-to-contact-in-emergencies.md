@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/dealing-with-complications-who-to-contact-in-emergencies.webp"
+image: "/images/dealing-with-complications-who-to-contact-in-emergencies.webp"
 ---
 
 If you are experiencing a medical emergency in South Korea, **dial 119 immediately** for ambulance and fire services. This service is free, available 24/7, and has interpretation services available in 19 languages. For non-emergency medical consultations, hospital referrals, or advice on handling complications from a procedure, **dial 1339** (Korea Disease Control and Prevention Agency Call Center).

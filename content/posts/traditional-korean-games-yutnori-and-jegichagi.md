@@ -14,7 +14,7 @@ tags:
   - "Hanbok"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/traditional-korean-games-yutnori-and-jegichagi.webp"
+image: "/images/traditional-korean-games-yutnori-and-jegichagi.webp"
 ---
 
 Exploring the vibrant landscape of Korean culture goes far beyond K-Pop and BBQ. To truly understand the communal spirit of Korea, one must look at how families celebrate major holidays like Seollal (Lunar New Year) and Chuseok (Korean Thanksgiving). At the heart of these gatherings are two iconic traditional games: Yutnori and Jegichagi. These games are not merely pastimes; they are centuries-old vessels of history, strategy, and physical dexterity that continue to bring generations together.

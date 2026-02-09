@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/best-weekend-getaways-for-expats-to-beat-city-burnout-2026.webp"
+image: "/images/best-weekend-getaways-for-expats-to-beat-city-burnout-2026.webp"
 ---
 
 Living in South Korea offers an incredible blend of high-tech convenience and dynamic culture, but the "palli-palli" (hurry-hurry) lifestyle of Seoul or Busan can eventually lead to significant city burnout. For expats navigating the high-pressure work environments of 2026, knowing where to disconnect is just as important as knowing where the best networking events are. With the expansion of the high-speed GTX lines and improved KTX-Eum services, escaping the concrete jungle has never been faster or more necessary.

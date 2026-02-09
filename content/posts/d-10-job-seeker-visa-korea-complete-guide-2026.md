@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/posts/d-10-job-seeker-visa-korea-complete-guide-2026.webp"
+image: "/images/d-10-job-seeker-visa-korea-complete-guide-2026.webp"
 ---
 
 Securing a job in South Korea remains a primary goal for many international graduates and professionals. However, the gap between graduating or arriving in Korea and actually signing an employment contract can be daunting. Enter the D-10 Job Seeker Visa, often referred to as the bridge to professional life in Korea. As we move into 2026, the regulations surrounding the D-10 have become more streamlined yet strictly points-based, reflecting the Ministry of Justice's focus on attracting high-caliber talent.

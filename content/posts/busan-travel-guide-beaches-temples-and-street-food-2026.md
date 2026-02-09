@@ -12,7 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/busan-travel-guide-beaches-temples-and-street-food-2026.webp"
+image: "/images/busan-travel-guide-beaches-temples-and-street-food-2026.webp"
 ---
 
 Busan, South Korea's second-largest city, offers a dynamic blend of coastal relaxation, urban energy, and deep-rooted tradition that rivals Seoul in every way. Located on the southeastern tip of the Korean peninsula, roughly 325 kilometers (202 miles) from the capital, this port city of 3.3 million people is the perfect destination for travelers seeking seafood feasts, golden beaches, and stunning cliffside temples. Whether you are looking to hike the Geumjeongsan mountain trails, party in Seomyeon, or simply relax by the ocean, Busan provides a distinct maritime culture that feels more laid-back than the frenetic pace of Seoul.

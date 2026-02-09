@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/managing-bruising-and-scarring-korean-skincare-approach.webp"
+image: "/images/managing-bruising-and-scarring-korean-skincare-approach.webp"
 ---
 
 The Korean approach to managing bruising and scarring differs significantly from Western methods because it is proactive rather than reactive, utilizing a combination of pharmaceutical-grade ointments, specialized "deswelling" diets, and in-clinic LED therapies immediately after a procedure. While many Western patients are told to simply "wait it out" with an ice pack, Korean medical culture treats the recovery phase as an active extension of the surgery itself, employing a multi-step regimen to reduce downtime by up to 50% compared to natural healing.

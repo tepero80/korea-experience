@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/hongdae-shopping-street-indie-brands-and-vintage.webp"
+image: "/images/hongdae-shopping-street-indie-brands-and-vintage.webp"
 ---
 
 For international travelers seeking the heartbeat of Korean youth fashion, Hongdae remains the undisputed champion. While Myeongdong focuses on skincare and Gangnam on luxury, Hongdae is the epicenter of streetwear, indie designers, and curated vintage. If you are looking for the specific locations of the best indie brands and vintage stores in this sprawling district, you have come to the right place.

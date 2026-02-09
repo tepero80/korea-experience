@@ -12,7 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026.webp"
+image: "/images/gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026.webp"
 ---
 
 For travelers seeking the historical soul of South Korea, a 2-day itinerary in Gyeongju is the perfect duration to explore the "Museum Without Walls." In 2026, the ideal strategy is to divide your trip geographically: spend **Day 1** exploring the pedestrian-friendly city center (Royal Tombs, Hwangnidan-gil, and Donggung Palace) and **Day 2** venturing to the mountain heritage sites (Bulguksa Temple and Seokguram Grotto). Located just 2 hours from Seoul via KTX, Gyeongju offers a seamless blend of ancient Silla Kingdom history and modern "New-tro" cafe culture.

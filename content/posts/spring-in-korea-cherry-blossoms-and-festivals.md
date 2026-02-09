@@ -12,7 +12,7 @@ tags:
   - "Festivals"
 readTime: "15 min read"
 featured: true
-image: "/images/posts/spring-in-korea-cherry-blossoms-and-festivals.webp"
+image: "/images/spring-in-korea-cherry-blossoms-and-festivals.webp"
 ---
 
 Spring in Korea is not merely a season; it is a cultural phenomenon that transforms the peninsula into a canvas of pastel pinks, vibrant yellows, and deep magentas. For international travelers planning a visit in 2026, the cherry blossom season (beotkkot) is the absolute peak of natural beauty, running generally from late March in the southern island of Jeju to mid-April in the northern metropolis of Seoul. While dates shift annually based on temperature, the window for viewing the "peak bloom" is notoriously short—usually lasting only 5 to 7 days in any given location before the petals fall like snow.

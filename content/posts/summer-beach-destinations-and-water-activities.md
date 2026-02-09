@@ -14,7 +14,7 @@ tags:
   - "Korean Culture"
 readTime: "16 min read"
 featured: false
-image: "/images/posts/summer-beach-destinations-and-water-activities.webp"
+image: "/images/summer-beach-destinations-and-water-activities.webp"
 ---
 
 Finding the perfect summer beach destination in South Korea can be surprising for international travelers who primarily associate the country with mountainous terrain and bustling megacities. However, as a peninsula surrounded by water on three sides, Korea boasts a diverse coastline ranging from the deep, clear waters of the East Sea to the mud-rich tidal flats of the West Coast and the subtropical paradise of Jeju Island. Whether you are looking for high-energy surfing communities, family-friendly resorts, or secluded snorkeling spots, the Korean summer (typically spanning late June to early September) offers specific destinations tailored to every type of water enthusiast.

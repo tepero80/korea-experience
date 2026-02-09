@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
-image: "/images/posts/finding-apartments-real-estate-apps-in-english.webp"
+image: "/images/finding-apartments-real-estate-apps-in-english.webp"
 ---
 
 Finding an apartment in South Korea can feel like navigating a labyrinth without a map, especially when the language barrier stands between you and your dream home. While Korea is one of the most digitally advanced nations in the world, the real estate market remains stubbornly local, with the vast majority of digital platforms operating exclusively in Korean. However, for the international traveler or expat planning to call Seoul, Busan, or Daegu home in 2026, the landscape is manageable if you know which digital tools to leverage.

@@ -1,9 +1,10 @@
-﻿---
+---
 title: "Shopping for Curvy Sizes in Korea Inclusive Fashion 2026"
 date: 2026-01-29
 excerpt: "Uncover where to find inclusive fashion in Korea for curvy sizes in 2026. This guide offers insights on sizing, top stores, and tips for successful shopping."
 category: Shopping & K-Beauty
 author: Korea Experience Team
+image: "/images/shopping-for-curvy-sizes-in-korea-where-to-find-inclusive-fashion-2026.webp"
 ---
 Navigating the vibrant fashion landscape of South Korea as an international visitor or expat with a curvy figure can, at times, feel like a unique challenge. While Korea is celebrated globally for its cutting-edge trends and diverse style, the perception often persists that its fashion industry caters primarily to a slimmer body type. However, the tides are turning. As we look towards 2026, Korea's fashion scene is increasingly embracing inclusivity, with more brands and retailers recognizing the demand for diverse sizing.
 

@@ -7,7 +7,7 @@ category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 8
-image: "/images/deep-dive/korea-cherry-blossom-forecast-2026.webp"
+image: "/images/korea-cherry-blossom-forecast-2026.webp"
 ---
 
 The 2026 cherry blossom (beotkkot) season in South Korea marks a pivotal moment for national tourism, with bloom dates expected **3-8 days earlier than the 30-year historical average** across most regions. This advancement isn't just a seasonal anomaly—it's a systemic reflection of elevated sea surface temperatures and persistent atmospheric patterns over the Korean Peninsula.

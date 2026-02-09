@@ -14,7 +14,7 @@ tags:
   - "Busan"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/pc-bang-culture-korean-gaming-cafes.webp"
+image: "/images/pc-bang-culture-korean-gaming-cafes.webp"
 ---
 
 Korea is synonymous with connectivity. When you land in Seoul, you are entering the world’s most wired society, where internet speeds dwarf global averages and gaming is a recognized national pastime. At the heart of this digital ecosystem lies the "PC Bang" (PC Room)—a cultural phenomenon that transcends the Western concept of an internet café.

@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "12 min read"
 featured: false
-image: "/images/posts/korean-high-end-skincare-is-sulwhasoo-the-history-of-whoo-worth-it-2026.webp"
+image: "/images/korean-high-end-skincare-is-sulwhasoo-the-history-of-whoo-worth-it-2026.webp"
 ---
 
 For many travelers landing at Incheon International Airport, the first thing that catches their eye isn't the architecture, but the massive, glowing advertisements for **Sulwhasoo** and **The History of Whoo**. These two titans represent the pinnacle of "Hanbang" (traditional Korean herbal medicine) skincare, commanding prices that often exceed $200 USD per bottle. But are they actually effective, or just expensive souvenirs in beautiful packaging?

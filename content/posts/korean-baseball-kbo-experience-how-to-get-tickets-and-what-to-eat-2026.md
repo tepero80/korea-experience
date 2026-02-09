@@ -13,7 +13,7 @@ tags:
   - "Family Travel"
 readTime: "18 min read"
 featured: true
-image: "/images/posts/korean-baseball-kbo-experience-how-to-get-tickets-and-what-to-eat-2026.webp"
+image: "/images/korean-baseball-kbo-experience-how-to-get-tickets-and-what-to-eat-2026.webp"
 ---
 
 The most reliable way to get Korean Baseball Organization (KBO) tickets in 2026 as a foreigner is through the **Ticketlink Global** or **Interpark Global** websites, which accept international credit cards. However, for sold-out weekend games involving popular teams like the LG Twins or Doosan Bears, buying standing-room tickets at the stadium box office 2 hours before the first pitch remains a viable backup plan.

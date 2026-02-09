@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "14 min read"
 featured: false
-image: "/images/posts/permanent-residency-requirements-f-5-visa.webp"
+image: "/images/permanent-residency-requirements-f-5-visa.webp"
 ---
 
 Securing the F-5 Permanent Residency visa is often considered the "Holy Grail" for expatriates living in South Korea. Unlike the E-series work visas or the F-2 point-based resident visa, the F-5 grants you an unprecedented level of freedom. You are no longer tied to a specific employer, you don't need to renew your status every year or two, and you gain access to local welfare systems. However, the barrier to entry is notoriously high, requiring a mix of financial stability, cultural integration, and impeccable conduct.

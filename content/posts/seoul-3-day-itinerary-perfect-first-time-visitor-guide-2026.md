@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "18 min read"
 featured: true
-image: "/images/posts/seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026.webp"
+image: "/images/seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026.webp"
 ---
 
 Planning a trip to Seoul can feel overwhelming due to the sheer size of the metropolis, but the most efficient 3-day strategy is to divide your time geographically: dedicate Day 1 to the historic Jongno district north of the Han River, Day 2 to the modern Gangnam district south of the river, and Day 3 to the youthful energy of Hongdae and the Han River parks. This approach minimizes travel time—which can take up to 60 minutes between districts—and maximizes your exposure to the city's diverse "faces," from 14th-century palaces to 22nd-century skyscrapers.

@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "25 min read"
 featured: false
-image: "/images/posts/historical-accuracy-in-period-dramas-fact-vs-fiction.webp"
+image: "/images/historical-accuracy-in-period-dramas-fact-vs-fiction.webp"
 ---
 **Introduction: The Magnetic Appeal of Korean Historical Dramas**
 

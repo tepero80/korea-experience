@@ -6,7 +6,7 @@ category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 37
-image: "/images/deep-dive/gentle-monster-vs-blue-elephant-eyewear-2026.webp"
+image: "/images/gentle-monster-vs-blue-elephant-eyewear-2026.webp"
 ---
 
 Let me cut straight to it: **Gentle Monster is a luxury art-tech empire charging $295–$375 per frame, and Blue Elephant is selling what looks like a 90% identical vibe for $45–$70.** One of them is being sued into oblivion. The other just partnered with Google to make AI smart glasses. This is the craziest brand war in Korean fashion right now, and if you're buying glasses in Seoul in 2026, you absolutely need to understand what's going on before you swipe your card.

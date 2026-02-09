@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Korean Pension System Understanding Deductions"
 date: 2026-01-18
 excerpt: "Navigate Korea's pension system with this essential guide. Understand deductions, eligibility, and how it impacts your finances as an expat or traveler."
 category: Living in Korea
 author: Korea Experience Team
+image: "/images/korean-pension-system-understanding-deductions.webp"
 ---
-
 ## Introduction: Demystifying Korea's National Pension System for Expats
 
 Welcome to Korea, a vibrant nation offering incredible experiences, career opportunities, and a unique cultural landscape. As you settle into life here, understanding the local financial systems, particularly the **Korean Pension System**, becomes paramount. For international residents, deciphering paystub deductions and planning for long-term financial security can often feel like navigating a complex maze. The National Pension Service (NPS) plays a significant role in every employed resident's financial life, but its intricacies, especially concerning deductions, are frequently misunderstood.
