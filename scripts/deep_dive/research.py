@@ -84,6 +84,20 @@ def run_deep_research(prompt: str, api_key: str) -> str:
         print(f"\n   (스트림 종료, 총 {event_count}개 이벤트 수신, 누적 텍스트: {len(current_text):,}자)")
         return None
 
+    def try_resume_stream() -> str | None:
+        """마지막 이벤트 ID로 스트림 재개 시도"""
+        if not interaction_id or not last_event_id:
+            return None
+
+        try:
+            resumed_stream = client.interactions.get(
+                interaction_id, stream=True, last_event_id=last_event_id
+            )
+            return process_stream(resumed_stream)
+        except Exception as e:
+            print(f"   ⚠️ 스트림 재개 실패: {type(e).__name__}: {e}")
+            return None
+
     # 1. 초기 스트림 시도 (interaction_id 획득용)
     try:
         initial_stream = client.interactions.create(
@@ -98,34 +112,41 @@ def run_deep_research(prompt: str, api_key: str) -> str:
         import traceback
         traceback.print_exc()
 
-    # 2. 스트림 끊김 → 즉시 폴링으로 전환
+    # 2. 스트림 끊김 → 재개 스트림 우선, 실패 시 폴링
     if not is_complete and interaction_id:
-        print(f"\n🔄 스트림 끊김 → 폴링 모드로 전환 (30초 간격)")
+        print(f"\n🔄 스트림 끊김 → 재개 스트림/폴링 모드로 전환 (30초 간격)")
         poll_interval = 30
         max_poll_time = 2400  # 최대 40분 대기
         poll_start = time.time()
-        
+
         while time.time() - poll_start < max_poll_time:
             time.sleep(poll_interval)
+
+            # 1) 상태 폴링
             try:
                 check = client.interactions.get(interaction_id)
                 elapsed = time.time() - start_time
                 mins, secs = int(elapsed // 60), int(elapsed % 60)
                 status = check.status
                 print(f"   [{mins:02d}:{secs:02d}] 상태: {status}")
-                
+
                 if status == "completed":
                     result = check.outputs[-1].text
                     print(f"\n✅ 완료! ({mins}분 {secs}초, {len(result):,}자)")
                     return result
                 elif status in ("failed", "cancelled"):
                     raise RuntimeError(f"❌ 리서치 실패: {status}")
-                    
+
             except RuntimeError:
                 raise
             except Exception as e:
                 print(f"   ⚠️ 폴링 에러: {e}")
-        
+
+            # 2) 가능한 경우 스트림 재개 시도
+            resumed = try_resume_stream()
+            if resumed:
+                return resumed
+
         raise RuntimeError(f"❌ 최대 대기 시간 초과 (총 {int((time.time()-start_time)//60)}분)")
     
     raise RuntimeError("❌ Interaction ID를 받지 못했습니다.")

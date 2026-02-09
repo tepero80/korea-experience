@@ -45,11 +45,8 @@ export default function BlogList({ allPosts }: BlogListProps) {
     'shopping': 'Shopping & K-Beauty'
   };
 
-  // All posts sorted by date (newest first)
-  const sortedPosts = useMemo(() => 
-    allPosts.sort((a, b) => (a.date < b.date ? 1 : -1)),
-    [allPosts]
-  );
+  // Posts are already sorted on the server; avoid mutating the prop array
+  const sortedPosts = useMemo(() => [...allPosts], [allPosts]);
   
   // Filter posts by category
   const filteredPosts = categorySlug
