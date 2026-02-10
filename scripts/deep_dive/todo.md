@@ -48,16 +48,16 @@
 46. [L] Climate Card: Is it worth it for 30 days?  | done  | RIC  | 2026-02-09
 47. [F] Convenience Store Must-Buys: GS25 vs. CU  | done  | RIC  | 2026-02-09
 48. [S] Korean glasses and lenses in 30 mins  | done  | RIC  | 2026-02-09
-49. [M] Comparing Botox: Coretox vs. Innotox vs. Allergan
-50. [T] Temple Stay for non-Buddhists
-51. [K] Seoul's indie music hubs
-52. [L] eSIM vs. USIM vs. Portable Wi-Fi
-53. [F] Fine dining for solo travelers (Hon-bap)
-54. [S] The Hyundai Seoul vs. Starfield COEX
-55. [M] Potenza vs. Morpheus8 costs
-56. [T] Budget: $50, $100, or $500 a day
-57. [K] Seoul's Hidden LP Bars
-58. [L] 24/7 coin laundromats guide
+49. [M] Comparing Botox: Coretox vs. Innotox vs. Allergan  | done  | RIC  | 2026-02-10
+50. [T] Temple Stay for non-Buddhists  | done  | RIC  | 2026-02-10
+51. [K] Seoul's indie music hubs  | done  | RIC  | 2026-02-10
+52. [L] eSIM vs. USIM vs. Portable Wi-Fi  | done  | RIC  | 2026-02-10
+53. [F] Fine dining for solo travelers (Hon-bap)  | done  | RIC  | 2026-02-10
+54. [S] The Hyundai Seoul vs. Starfield COEX  | failed  |   | 2026-02-10  | research failed: ❌ 최대 대기 시간 초과 (총 100분)
+55. [M] Potenza vs. Morpheus8 costs  | done  | RIC  | 2026-02-10
+56. [T] Budget: $50, $100, or $500 a day  | failed  |   | 2026-02-10  | research failed: ❌ 최대 대기 시간 초과 (총 100분)
+57. [K] Seoul's Hidden LP Bars  | done  | RIC  | 2026-02-10
+58. [L] 24/7 coin laundromats guide  | done  | RIC  | 2026-02-10
 59. [F] 24-hour Juk (porridge) for recovery
 60. [S] K-Fashion 2026: Ader Error, Recto
 61. [M] Breast Augmentation: Motiva vs. Sebbin

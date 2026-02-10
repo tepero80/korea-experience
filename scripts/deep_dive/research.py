@@ -116,7 +116,7 @@ def run_deep_research(prompt: str, api_key: str) -> str:
     if not is_complete and interaction_id:
         print(f"\n🔄 스트림 끊김 → 재개 스트림/폴링 모드로 전환 (30초 간격)")
         poll_interval = 30
-        max_poll_time = 2400  # 최대 40분 대기
+        max_poll_time = 5400  # 최대 90분 대기
         poll_start = time.time()
 
         while time.time() - poll_start < max_poll_time:

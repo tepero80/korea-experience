@@ -266,18 +266,4 @@ def generate_cover(slug: str, title: str, category: str, excerpt: str = "",
         file_size = result.stat().st_size
         print(f"  ✅ 완료: {result.name} ({file_size // 1024}KB)")
 
-    # raw 파일 정리 (Windows 파일 잠금 대비 재시도)
-    for attempt in range(5):
-        try:
-            if bg_path.exists():
-                time.sleep(0.5)
-                bg_path.unlink()
-                break
-        except OSError:
-            if attempt < 4:
-                time.sleep(1)
-            else:
-                if verbose:
-                    print(f"  ⚠️  raw 파일 삭제 실패: {bg_path.name}")
-
     return result
