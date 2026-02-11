@@ -53,21 +53,21 @@
 51. [K] Seoul's indie music hubs  | done  | RIC  | 2026-02-10
 52. [L] eSIM vs. USIM vs. Portable Wi-Fi  | done  | RIC  | 2026-02-10
 53. [F] Fine dining for solo travelers (Hon-bap)  | done  | RIC  | 2026-02-10
-54. [S] The Hyundai Seoul vs. Starfield COEX  | failed  |   | 2026-02-10  | research failed: ❌ 최대 대기 시간 초과 (총 100분)
+54. [S] The Hyundai Seoul vs. Starfield COEX  | failed  |   | 2026-02-11  | research failed: ❌ 최대 대기 시간 초과 (총 103분)
 55. [M] Potenza vs. Morpheus8 costs  | done  | RIC  | 2026-02-10
-56. [T] Budget: $50, $100, or $500 a day  | failed  |   | 2026-02-10  | research failed: ❌ 최대 대기 시간 초과 (총 100분)
+56. [T] Budget: $50, $100, or $500 a day  | failed  |   | 2026-02-11  | research failed: ❌ 최대 대기 시간 초과 (총 133분)
 57. [K] Seoul's Hidden LP Bars  | done  | RIC  | 2026-02-10
 58. [L] 24/7 coin laundromats guide  | done  | RIC  | 2026-02-10
-59. [F] 24-hour Juk (porridge) for recovery
-60. [S] K-Fashion 2026: Ader Error, Recto
-61. [M] Breast Augmentation: Motiva vs. Sebbin
-62. [T] Traveling during Chuseok 2026
-63. [K] K-pop buildings: JYP, HYBE, SM fan guide
-64. [L] Daiso Korea: Life-saving items
-65. [F] Chimaek: Han River picnic delivery
-66. [S] Skincare ingredients: Exosomes, PDRN, PLLA
-67. [M] Rhinoplasty for international patients
-68. [T] How to identify cult recruiters
+59. [F] 24-hour Juk (porridge) for recovery  | done  | RIC  | 2026-02-10
+60. [S] K-Fashion 2026: Ader Error, Recto  | done  | RIC  | 2026-02-10
+61. [M] Breast Augmentation: Motiva vs. Sebbin  | done  | RIC  | 2026-02-11
+62. [T] Traveling during Chuseok 2026  | failed  |   | 2026-02-11  | research failed: ❌ 최대 대기 시간 초과 (총 113분)
+63. [K] K-pop buildings: JYP, HYBE, SM fan guide  | done  | RIC  | 2026-02-11
+64. [L] Daiso Korea: Life-saving items  | done  | RIC  | 2026-02-11
+65. [F] Chimaek: Han River picnic delivery  | done  | RIC  | 2026-02-11
+66. [S] Skincare ingredients: Exosomes, PDRN, PLLA  | done  | RIC  | 2026-02-11
+67. [M] Rhinoplasty for international patients  | done  | RIC  | 2026-02-11
+68. [T] How to identify cult recruiters  | done  | RIC  | 2026-02-11
 69. [K] K-Pop Dance Classes: trainee experience
 70. [L] Coupang delivery without ARC
 71. [F] Culinary Class Wars 2 restaurants

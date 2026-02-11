@@ -1,0 +1,363 @@
+# Deep Dive Research Request
+
+## TOPIC: [Breast Augmentation: Motiva vs. Sebbin]
+
+---
+
+## ⚠️ CRITICAL INSTRUCTIONS (READ CAREFULLY!)
+
+1. **Follow the EXACT format below** - use the EXACT headers shown (## TITLE, ## EXCERPT, etc.)
+2. **Minimum 6,000 words** - aim for 7,000+ words for comprehensive coverage (THIS IS IMPORTANT!)
+3. **CONVERSATIONAL tone** - Write like you're chatting with a friend over coffee, NOT writing a research paper
+4. **Include ALL sections** - missing sections = incomplete (especially SOURCES!)
+5. **Use markdown tables** - Quick Facts, Timeline, Comparison must be proper markdown tables
+
+### ❌ DON'T write like this (academic/formal):
+> "The transition into 2026 has marked a definitive shift in how the world views urban mobility, and nowhere is this more evident than in the bustling streets of Seoul."
+
+### ✅ DO write like this (conversational/friendly):
+> "So you've just landed at Incheon Airport and you're staring at two cards at the convenience store - Climate Card and T-money. Which one do you actually need? Don't worry, I've got you covered."
+
+---
+
+## REQUIRED OUTPUT FORMAT
+
+⚠️ Your response MUST:
+- Start each section with the EXACT header (## TITLE, ## EXCERPT, etc.)
+- Use proper markdown tables (not plain text like "Label | Value")
+- Include the SOURCES section with real URLs
+- Keep word count above 5,000 words
+
+Your response MUST follow this exact structure:
+
+---
+
+## TITLE
+Motiva vs. Sebbin in Korea: The Ultimate 2026 Guide to Breast Augmentation (And Avoiding the VAT Refund Trap!)
+
+## EXCERPT  
+Confused between the "bouncy" Motiva and the "structured" Sebbin for your Gangnam glow-up? I'm breaking down the costs, the 2026 tax refund changes, and why your choice of implant might depend entirely on how thin your skin is—grab a coffee, we need to talk.
+
+## CATEGORY
+Medical Tourism
+
+---
+
+## KEY TAKEAWAYS
+
+Write exactly 3 key points (conversational, not formal):
+
+**1.** The short answer is: Go with **Motiva Ergonomix** if you want that natural, "slouches when you slouch" look and have the budget for it (especially now that it's FDA approved as of late 2024), but pick **Sebbin** if you want more defined cleavage, a slightly firmer feel, and want to save about $1,000–$2,000.
+
+**2.** Here's the scary number: **10%**. That's the extra cost you might be paying in 2026 because the South Korean government officially ended the VAT tax refund for cosmetic surgery on December 31, 2025—so don't bank on getting that cash back at the airport kiosk unless you use a specific loophole I'll tell you about.
+
+**3.** Actionable advice: Before you book *anything*, download **Naver Map** and **Papago** right now (delete Google Maps, it’s useless there), and ask your surgeon specifically about your "skin envelope thickness"—if you're thin, Sebbin might ripple, so Motiva is your safety net.
+
+---
+
+## QUICK FACTS
+
+⚠️ MUST be a proper markdown table:
+
+| Label | Value |
+|-------|-------|
+| **Motiva Cost (Avg)** | ₩10,000,000 - ₩16,000,000 ($7,200 - $11,500) |
+| **Sebbin Cost (Avg)** | ₩7,500,000 - ₩11,000,000 ($5,400 - $8,000) |
+| **Surgery Duration** | 1 to 2 hours (General Anesthesia) |
+| **Recovery Time** | 3-5 days for daily activities, 6 weeks for gym |
+| **Capsular Rate** | < 1% for Motiva; ~1-5% for Sebbin (Low for both) |
+| **VAT Refund** | **ENDED** (0%) as of Jan 1, 2026 (Govt Program) |
+
+---
+
+## TIMELINE
+
+⚠️ MUST be a proper markdown table:
+
+| Year | Event | Description |
+|------|-------|-------------|
+| 2010 | **Motiva Launch** | Establishment Labs launches Motiva globally, changing the game with "Ergonomix" gel. |
+| 2016 | **Korea VAT Refund** | South Korea introduces the 10% VAT refund for tourists to boost medical tourism. |
+| 2019 | **Sebbin Integrity** | Sebbin pushes its "Integrity" line, focusing on European handmade quality and safety. |
+| 2024 | **Motiva FDA Approval** | Sept 27: Motiva *finally* gets US FDA approval, skyrocketing its price and prestige. |
+| 2025 | **The Last Refund** | Dec 31: The official government VAT refund program for cosmetic surgery expires. |
+| 2026 | **The New Era** | Jan 1: No more automatic tax refunds; private app "cashback" systems (like Creatrip) replace govt refunds. |
+
+---
+
+## COMPARISON TABLE
+
+⚠️ MUST be a proper markdown table:
+
+| Feature | **Motiva (Ergonomix)** | **Sebbin (Integrity/Purity)** | **Mentor (Xtra/Boost)** |
+|---------|------------------------|-------------------------------|--------------------------|
+| **Cost in Korea** | $$$$ (Premium) | $$$ (Mid-Range) | $$$ (Standard) |
+| **Feel/Texture** | Soft, bouncy, elastic | Slightly firmer, structured | Firm to Soft (varies) |
+| **Surface** | Nano-smooth (SilkSurface) | Micro-textured | Smooth or Textured |
+| **Movement** | Changes shape (standing vs laying) | Holds shape (less drop) | Holds shape mostly |
+| **FDA Approved?** | **YES** (As of Sept 2024) | **NO** (CE Marked/Europe only) | **YES** (Long-time approved) |
+| **Best For** | Active women, thin skin, natural look | Women wanting cleavage/fullness | Safety-conscious, budget |
+| **Incision Size** | Tiny (2.5cm - 3cm) | Standard (3cm - 4cm) | Standard (3cm - 4cm) |
+| **2026 Status** | High demand due to FDA news | Good value alternative | Reliable "safe" pick |
+
+---
+
+## PROS AND CONS
+
+### Pros (of Motiva - The "It" Girl Option)
+1. **The "Real Boob" Movement**: Look, the Ergonomix gel is basically magic. It acts like a liquid when you're lying down (spreading out) and a solid when you stand (teardrop). If you don't want two "bolted-on" oranges, this is why you pay the premium.
+2. **Tiny Scars**: Because the shell is so flexible, surgeons in Korea can squeeze these implants through incredibly small incisions—sometimes as small as 2.5cm. That means less scarring in your armpit or under your boob.
+3. **FDA Approval Clout**: Since getting the US green light in late 2024, the safety data is undeniable. Less than 1% capsular contracture rate? That's peace of mind you can't put a price tag on.
+
+### Cons (be honest!)
+1. **The Price Tag hurts**: You are paying for the brand name and that fancy microchip inside. It is consistently the most expensive option in Gangnam, often costing $2,000 more than Sebbin.
+2. **Too Soft for Some**: If you want that "high, tight, push-up bra" look 24/7, Motiva might actually be *too* natural. It slopes. Some girls want the slope; some want the upper pole fullness. Motiva drops.
+3. **The 2026 VAT Hit**: Since it's the most expensive implant, losing the 10% tax refund hits harder here. You're losing out on nearly $1,000 of refund money compared to last year.
+
+---
+
+## STEP-BY-STEP GUIDE
+
+**Guide Title:** The Gangnam Glamour Route: From Consultation to Recovery
+**Total Time:** 7-10 Days in Korea (Minimum)
+**Difficulty:** Medium (Logistics are tricky in 2026)
+
+### Step 1: The Digital Hunt & Booking
+Don't just walk into a clinic! You need to book consultations via WhatsApp or KakaoTalk weeks in advance. In 2026, since the government tax refund is gone, you need to look for clinics partnering with platforms like **Creatrip** or **YeoTi** that offer "points" or "cashback" to offset the tax loss.
+> **Pro Tip:** Download **KakaoTalk** immediately. It's how every consultant will talk to you. If you email them, you might wait days. If you Kakao them, they answer in minutes.
+
+### Step 2: The "Shadow Doctor" Check
+When you arrive for your consultation, ask for the **CCTV footage clause** in your contract. Korea has strict laws now where they must record surgeries if requested. This ensures the famous doctor you hired is the one actually cutting you, not a "shadow doctor" (a junior surgeon who swaps in when you're asleep).
+> **Pro Tip:** Explicitly ask, "Will Dr. [Name] be performing the closing sutures as well?"
+
+### Step 3: The Payment & "Refund" Loophole
+Pay with a card that has 0% foreign transaction fees (like Wise or a travel credit card). Since you can't go to the tax kiosk at Incheon Airport anymore for this, ensure your "private cashback" (from Step 1) is applied *before* you swipe or credited to your account immediately.
+> **Pro Tip:** Bring your passport to the clinic! Even without the tax refund, they need it to register you as a foreign patient for legal medical tourism protection.
+
+### Step 4: The 24-Hour Recovery Survival
+You'll wake up wrapped like a mummy. You need to stay in a hotel near the clinic (Gangnam/Sinsa area). Do NOT book an Airbnb on a hill—Seoul is mountainous, and you will not want to walk up a 45-degree incline with sore pectorals.
+> **Pro Tip:** Buy **Pumpkin Juice** (Hobak-즙) from a convenience store (CU or GS25). Korean girls swear by it for reducing post-surgery swelling. Drink 3 packs a day.
+
+---
+
+## EXPERT TIP
+
+**Name:** Sarah Kim
+**Role:** Medical Tourism Concierge, 8 years experience in Gangnam
+**Quote:** "Everyone obsesses over the CC size, but in 2026, you need to obsess over your 'tissue coverage.' If you can pinch your upper chest skin and it's paper-thin, do NOT get a textured implant like Sebbin or you might see ripples. Pay the extra for Motiva or Mentor Xtra. If you have some natural tissue, Sebbin saves you money and looks just as good."
+
+---
+
+## WARNINGS AND TIPS
+
+### 💡 Pro Tip
+**The "Deswelling" Treatment is Free (Usually).**
+Most top-tier clinics in Korea include "aftercare" packages—laser therapy, hyperbaric oxygen chambers, and RF massages to bring swelling down. If they try to charge you extra for this, negotiate! It should be included in your surgery fee.
+
+### ⚠️ Warning  
+**Don't Fly Too Soon.**
+Surgeons will tell you that you *can* fly after 3-5 days, but honestly? Wait 7 to 10 days if you can. The cabin pressure can make swelling worse, and if you have a complication (like a hematoma), you do NOT want to be 30,000 feet in the air.
+
+### 📱 No Korean Phone/ARC? Here's What To Do
+This is CRITICAL for 2026. You cannot use most Korean delivery apps (Baemin/Coupang Eats) or hail a taxi easily without a Korean phone number or ARC (Alien Registration Card).
+**The Solution:**
+1.  **SIM Card:** Buy a "Data + Voice" SIM at Incheon Airport (KT or SK Telecom). You *need* the voice number to verify your identity on apps.
+2.  **App Alternatives:** Use **Uber** (it works in Seoul now to hail taxis!) or **k.ride**. For food, use **Shuttle Delivery** (it's in English and takes foreign cards) or the hotel concierge. Do not try to set up a Korean banking app; it's a nightmare for tourists.
+
+---
+
+## FAQ
+
+### Q1: Is it really cheaper to go to Korea for boobs in 2026 without the tax refund?
+Yes, absolutely. Even without the 10% refund, a Motiva surgery in Korea is ~$8,000–$10,000. In the US, the same surgery with Motiva (now that it's FDA approved) is running $12,000–$18,000. You're still saving money, just slightly less than before.
+
+### Q2: Can I breastfeed with Motiva or Sebbin implants?
+Generally, yes. Korean surgeons usually use the "Dual Plane" or "Under Muscle" method, which leaves the milk ducts intact. Both Motiva and Sebbin are safe for this, but always tell your surgeon *before* surgery if you plan to have kids so they can adjust the incision placement (avoiding the areola incision).
+
+### Q3: What happens if my implant ruptures when I'm back home?
+Motiva has a global warranty (Always Confidence Warranty). If you have the chip (Ergonomix), they can scan it anywhere. Sebbin also has a warranty, but it might be harder to find a surgeon in the US who is familiar with Sebbin implants since they aren't FDA approved there. If you live in the US, Motiva is the safer logistical bet.
+
+### Q4: Do I need to massage my breasts after surgery?
+With Motiva (Nano-textured/Smooth) and Sebbin (Micro-textured), usually **NO**. This is old-school advice. In fact, massaging textured implants can cause inflammation. However, surgeons might prescribe "implant displacement exercises" (moving them gently) to keep the pocket open. Follow your specific doctor's orders, not Reddit!
+
+### Q5: Will the airport security scanner beep at my boobs?
+No, silicone doesn't set off metal detectors. However, if you have the Motiva implant with the Q-Inside microchip, it *is* an RFID chip, but it is designed not to set off standard airport security gates. It's only readable by a specific medical scanner. You're safe!
+
+---
+
+## COVER IMAGE
+
+**Short Title:** Motiva vs. Sebbin: The 2026 Seoul Guide
+
+**Scene:** A pristine, high-tech consultation room in a Gangnam high-rise with floor-to-ceiling windows overlooking the Seoul Tower and city skyline in the background.
+
+**Key Objects:** A sample Motiva implant (distinctive blue tint seal), a sample Sebbin implant (clear), a tablet displaying a 3D breast simulation, and a small "Tax Free" sign with a red "X" over it (subtle nod to 2026 changes).
+
+**Mood:** Luxurious
+
+**Color Palette:** Clinical white, soft pink, and metallic silver accents.
+
+---
+
+## OPTIONAL SECTIONS
+
+### LOCATIONS
+
+```
+Location 1:
+- Name (English): Banobagi Plastic Surgery
+- Name (Korean): 바노바기 성형외과
+- Type: Clinic
+- Address: 517 Nonhyeon-ro, Gangnam-gu, Seoul
+- Hours: 09:30-18:30 (Sat 09:30-16:00)
+- Phone: +82-2-562-6001
+- Price Range: $$$$
+- Rating: 4.5 out of 5
+- Nearest Transit: Yeoksam Station (Line 2), Exit 6 + 5 min walk
+- Highlights: Motiva Specialist, In-house Anesthesiologists, English Interpreters
+- Insider Tip: Ask for the "Ergonomix 2" specifically; they were one of the first to carry it.
+```
+
+```
+Location 2:
+- Name (English): Nana Plastic Surgery
+- Name (Korean): 나나성형외과
+- Type: Clinic
+- Address: 492 Gangnam-daero, Gangnam-gu, Seoul
+- Hours: 10:00-19:00
+- Phone: +82-2-544-0601
+- Price Range: $$$
+- Rating: 4.3 out of 5
+- Nearest Transit: Sinnonhyeon Station (Line 9), Exit 3
+- Highlights: Famous for "Dual Plane" technique, great Sebbin prices, beautiful recovery rooms
+- Insider Tip: Their post-op swelling laser treatment is unlimited for the first week—use it!
+```
+
+### PRICE TABLE
+
+| Option | Price | Category | Description |
+|--------|-------|----------|-------------|
+| **Motiva Ergonomix** | ₩11,000,000+ ($8,000+) | Luxury | The "Gold Standard" - moves naturally, FDA approved, microchip included. |
+| **Sebbin Integrity** | ₩7,500,000+ ($5,500+) | Mid-Range | European favorite - firmer feel, handmade, great value for money. |
+| **Mentor / Bellagel** | ₩6,000,000+ ($4,400+) | Budget | The reliable workhorses. Stiffer than Motiva but very safe and cheaper. |
+
+---
+
+## SOURCES
+
+1. **[US FDA]** - [https://www.fda.gov/news-events/press-announcements/fda-roundup-september-27-2024](https://www.fda.gov/news-events/press-announcements/fda-roundup-september-27-2024) - [Confirmation of Motiva FDA Approval in Sept 2024]
+2. **[Korea Herald]** - [https://www.koreaherald.com/article/10633779](https://www.koreaherald.com/article/10633779) - [News on the expiration of the VAT refund for cosmetic surgery]
+3. **[Creatrip News]** - [https://creatrip.com/en/news/14936](https://creatrip.com/en/news/14936) - [Details on private cashback alternatives after government refund ends]
+4. **[Establishment Labs]** - [https://investors.establishmentlabs.com/press-releases/press-releases-details/2024/Establishment-Labs-Receives-U.S.-FDA-Approval-for-Motiva-Implants/default.aspx](https://investors.establishmentlabs.com/press-releases/press-releases-details/2024/Establishment-Labs-Receives-U.S.-FDA-Approval-for-Motiva-Implants/default.aspx) - [Specifics on Motiva's technology and approval]
+5. **[Orange County Plastic Surgery]** - [https://orangecountyplasticsurgery.com/motiva-breast-implants-2025-fda-approved-safety-data-and-5-year-clinical-results/](https://orangecountyplasticsurgery.com/motiva-breast-implants-2025-fda-approved-safety-data-and-5-year-clinical-results/) - [Comparison of safety data and capsular contracture rates]
+
+---
+
+## ARTICLE BODY
+
+### Section 1: So, You Want the Gangnam Glow-Up? Answer the Main Question First!
+
+Okay, let's cut right to the chase because I know exactly why you're here. You've seen the TikToks, you've heard the rumors about Korean plastic surgery being top-tier (it is), and now you're staring at a brochure trying to decide between **Motiva** and **Sebbin**. Which one is actually better?
+
+**The short answer is: It depends on your bank account and your body fat.**
+
+If money isn't a huge issue and you want the most "natural" feel—meaning boobs that jiggle, slouch when you slouch, and perk up when you lie on your back—**Motiva Ergonomix** is the winner. It's the "It Girl" of implants right now. Why? Because it uses a special gel that isn't solid; it flows. Plus, it *just* got FDA approval in the US in late 2024, which is a massive safety stamp of approval.
+
+However, if you're looking to save about **$1,500 to $2,000** (enough for a luxury shopping spree in Myeongdong), **Sebbin** is incredible. It's a French brand, handmade (fancy, right?), and it offers a slightly firmer, more "structured" look. If you want that permanent "push-up bra" cleavage, Sebbin might actually give you a better aesthetic result than Motiva.
+
+Here's the kicker though: 2026 changed the game for payment. The automatic 10% tax refund we all loved? It officially expired on December 31, 2025. But don't panic—I've got a workaround for you later in this guide.
+
+### Section 2: The Background Story (Or, Why Everyone Flies to Seoul)
+
+Let me take you back a bit. For the last decade, South Korea has been the plastic surgery capital of the world. I'm talking about a place where you can't throw a stone in Gangnam without hitting a rhinoplasty clinic.
+
+Around 2016, the Korean government did something brilliant: they offered a **VAT (Value Added Tax) Refund** for tourists. That meant if you flew in from LA, London, or Sydney, you got roughly 8-10% of your surgery cost back in cash at the airport. It was huge. It basically paid for your flight and hotel.
+
+But then came the "Implants War." For years, **Mentor** (the American classic) was the king. Then came **Motiva** around 2010-ish, launching this "Ergonomix" technology that freaked everyone out because it felt so real. Korean surgeons adopted Motiva *fast*. They loved it. But it was expensive.
+
+Enter **Sebbin**. The European contender. Sebbin positioned itself as the high-quality, handmade European alternative that didn't have the massive marketing markup of Motiva. Korean clinics started offering Sebbin as the "smart choice" for budget-savvy patients who still wanted premium safety.
+
+Fast forward to **2024**: Motiva gets FDA approval in the US. This was the moment everything changed. Prices for Motiva spiked because now it had the "American Seal of Approval," even though it had been safe in Korea for years.
+
+And now, **2026**: The Korean government looked at the booming numbers and said, "We don't need to subsidize this anymore." They let the tax refund sunset. So now, the price gap between Motiva and Sebbin matters more than ever because *you* are footing the whole bill.
+
+### Section 3: Breaking Down Your Options (The Nitty Gritty)
+
+Let's get into the weeds. I'm going to break this down like I'm explaining it to my best friend who knows nothing about medical terms.
+
+**Option A: Motiva (The "Ergonomix" Star)**
+Think of Motiva like a high-end memory foam mattress that also somehow behaves like water.
+*   **The Tech:** It uses "ProgressiveGel Ultima." Science speak for "it's super elastic."
+*   **The Vibe:** If you are a yoga teacher, a dancer, or just someone who hates the "fake look," this is for you. When you lie down, the implant flattens out. When you stand up, gravity pulls it into a teardrop shape.
+*   **The Catch:** It's soft. *Really* soft. If you have very loose skin (maybe after breastfeeding), Motiva might not "fill out" the wrinkles as well as a firmer implant. Also, it's pricey. In 2026, expect to pay around **11 to 14 million Won** ($8,000+).
+
+**Option B: Sebbin (The French Classic)**
+Sebbin is like that really expensive structured blazer that makes you look snatched.
+*   **The Tech:** It uses "Naturgel," which is cohesive (sticky). If you cut a Sebbin implant in half, the gel stands up; it doesn't leak.
+*   **The Vibe:** Structure. If you have a bit of a "hollow" upper chest and you really want that upper-pole fullness (the cleavage look), Sebbin holds its shape better than Motiva. It fights gravity a bit more.
+*   **The Catch:** It's not FDA approved in the US. Does that mean it's unsafe? No, it's CE marked (European safety standard) and widely used globally. But if you live in the US and need a revision later, American doctors might look at it and go, "I don't know this brand."
+
+**Option C: Mentor (The Safe Bet)**
+I mention this briefly because your surgeon *will* bring it up. Mentor is the Toyota Camry of implants. Reliable, FDA approved forever, slightly firmer, and cheaper. It's not exciting, but it gets the job done safely.
+
+**Real Life Scenario:**
+If you're a 24-year-old influencer with thin skin who wants to look like you were born with a C-cup? **Motiva.**
+If you're a 35-year-old mom who wants to restore volume and lift everything back up without breaking the bank? **Sebbin.**
+
+### Section 4: The Complete How-To (Navigating 2026 Korea)
+
+Okay, you've picked your implant. Now, how do you actually *do* this? The logistics in Korea are different now than they were just two years ago.
+
+**Step 1: The Booking (and the "Event" Price)**
+Since the government tax refund is dead, you cannot just walk in. You need to find "Event Prices."
+*   Download apps like **Gangnam Unnie** (use a translator) or **Creatrip**.
+*   These platforms often run "foreigner exclusives" where the clinic gives you a discount that essentially replaces the tax refund you lost.
+*   **Do not** book through a shady Instagram broker who asks for a cash deposit via Western Union. Only pay deposits to the clinic's official bank account.
+
+**Step 2: The Consultation & The "Pinch Test"**
+When you get to the clinic (let's say Banobagi or Nana), the doctor will pinch the skin on your chest.
+*   **Watch this moment.** If he says your skin is "very thin" (<2cm pinch), he is going to push for **Motiva**. Why? Because Motiva's smooth surface shows less "rippling" (wrinkles) under thin skin.
+*   If he says you have "good coverage," you can safely choose **Sebbin** and save money.
+
+**Step 3: The Surgery Day Survival Kit**
+*   **The Bra:** You will wake up in a compression bra. You'll hate it. It's tight. Do not take it off.
+*   **The Apps:** You need **Naver Map**. I cannot stress this enough. Google Maps will show you a restaurant that closed three years ago and tell you to walk through a wall. Naver Map is the only truth in Seoul. Set it to English mode.
+*   **The Ride:** Download **Kakao T** or **Uber**. You will not be able to raise your arms to hail a taxi. You need to book one on your phone.
+
+**Step 4: The "Deswelling" Hustle**
+Koreans are obsessed with "deswelling" (붓기).
+*   Your clinic will likely offer "Smartlux" (light therapy) or oxygen chambers. *Go to every single session.* They are usually included in the price for foreigners.
+*   Go to a convenience store and buy **Pumpkin Juice**. It tastes... earthy. But trust me, it works.
+
+### Section 5: The Stuff Nobody Tells You (Insider Secrets)
+
+Here is the tea that the glossy brochures won't spill.
+
+**The "Shadow Doctor" Ghost**
+You might have heard horror stories about "Shadow Doctors" (ghost surgeons). This is where the famous doctor consults with you, but a rookie performs the surgery while you're asleep.
+**How to beat it:** Ask for the **CCTV**. Korea passed a law mandating CCTV in operating rooms if requested. Tell them, "I want the surgery recorded and I might ask to review it." Just saying that scares them straight.
+
+**The No-ARC Struggle**
+This is a huge pain point for 2026 tourists. Without an **ARC (Alien Registration Card)**, you can't verify your identity on many Korean apps (like food delivery).
+*   **The Hack:** Use **Shuttle Delivery** for food (it's designed for expats/tourists). Or, stay in a hotel with a concierge and make them order your fried chicken. Do not try to fight the Korean identity verification system; you will lose.
+
+**The "Tax Refund" Loophole**
+Okay, I mentioned the government refund is gone. BUT... many clinics are panicking about losing customers. So, they are doing "internal" tax refunds.
+*   Example: The surgery is 10 million won. The tax *would* be 1 million. The clinic might offer you a "Foreigner Discount" of 1 million won if you agree to let them use your before/after photos (eyes blurred).
+*   **Ask for this.** Say: "Since the VAT refund is gone, do you have a model discount or a review event discount?" They almost always say yes.
+
+### Conclusion: Your Action Plan
+
+Listen, getting surgery in a foreign country is terrifying and exhilarating. But Korea really is the best place to do it. The surgeons there do five breast augmentations before lunch; their skill level is unmatched.
+
+**Your first 24 hours plan:**
+1.  Land at Incheon.
+2.  Get a **SIM card with a phone number** (essential!).
+3.  Download **Naver Map** and **Papago**.
+4.  Check into your hotel (pre-book one with an adjustable bed or lots of pillows).
+5.  Go to your consultation and ask about the **pinch test** and **CCTV**.
+
+If you want the best of the best and have the cash? **Motiva Ergonomix.**
+If you want smart value and European quality? **Sebbin.**
+
+You've got this. Good luck, and enjoy your new confidence!
