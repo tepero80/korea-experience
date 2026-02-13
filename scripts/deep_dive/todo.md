@@ -53,31 +53,28 @@
 51. [K] Seoul's indie music hubs  | done  | RIC  | 2026-02-10
 52. [L] eSIM vs. USIM vs. Portable Wi-Fi  | done  | RIC  | 2026-02-10
 53. [F] Fine dining for solo travelers (Hon-bap)  | done  | RIC  | 2026-02-10
-54. [S] The Hyundai Seoul vs. Starfield COEX  | failed  |   | 2026-02-11  | research failed: ❌ 최대 대기 시간 초과 (총 103분)
 55. [M] Potenza vs. Morpheus8 costs  | done  | RIC  | 2026-02-10
-56. [T] Budget: $50, $100, or $500 a day  | failed  |   | 2026-02-11  | research failed: ❌ 최대 대기 시간 초과 (총 133분)
 57. [K] Seoul's Hidden LP Bars  | done  | RIC  | 2026-02-10
 58. [L] 24/7 coin laundromats guide  | done  | RIC  | 2026-02-10
 59. [F] 24-hour Juk (porridge) for recovery  | done  | RIC  | 2026-02-10
 60. [S] K-Fashion 2026: Ader Error, Recto  | done  | RIC  | 2026-02-10
 61. [M] Breast Augmentation: Motiva vs. Sebbin  | done  | RIC  | 2026-02-11
-62. [T] Traveling during Chuseok 2026  | failed  |   | 2026-02-11  | research failed: ❌ 최대 대기 시간 초과 (총 113분)
 63. [K] K-pop buildings: JYP, HYBE, SM fan guide  | done  | RIC  | 2026-02-11
 64. [L] Daiso Korea: Life-saving items  | done  | RIC  | 2026-02-11
 65. [F] Chimaek: Han River picnic delivery  | done  | RIC  | 2026-02-11
 66. [S] Skincare ingredients: Exosomes, PDRN, PLLA  | done  | RIC  | 2026-02-11
 67. [M] Rhinoplasty for international patients  | done  | RIC  | 2026-02-11
 68. [T] How to identify cult recruiters  | done  | RIC  | 2026-02-11
-69. [K] K-Pop Dance Classes: trainee experience
-70. [L] Coupang delivery without ARC
-71. [F] Culinary Class Wars 2 restaurants
-72. [S] Olive Young discount hacks
-73. [M] Medical Tourism safety statistics 2026
-74. [T] Visiting Cheongwadae (Blue House)
-75. [K] Understanding Pali-Pali culture
-76. [L] Emergency Ready app: English alerts
-77. [F] Tabling app for waitlists
-78. [S] Tax Refund: ₩15,000 minimum 2026
+69. [K] K-Pop Dance Classes: trainee experience  | done  | RIC  | 2026-02-11
+70. [L] Coupang delivery without ARC  | failed  |   | 2026-02-11  | research failed: ❌ 최대 대기 시간 초과 (총 103분)
+71. [F] Culinary Class Wars 2 restaurants  | done  | RIC  | 2026-02-11
+72. [S] Olive Young discount hacks  | done  | RIC  | 2026-02-11
+73. [M] Medical Tourism safety statistics 2026  | failed  |   | 2026-02-11  | research failed: ❌ 최대 대기 시간 초과 (총 102분)
+74. [T] Visiting Cheongwadae (Blue House)  | done  | RIC  | 2026-02-11
+75. [K] Understanding Pali-Pali culture  | done  | RIC  | 2026-02-11
+76. [L] Emergency Ready app: English alerts  | done  | RIC  | 2026-02-11
+77. [F] Tabling app for waitlists  | done  | RIC  | 2026-02-11
+78. [S] Tax Refund: ₩15,000 minimum 2026  | done  | RIC  | 2026-02-11
 79. [M] Pre-op consultations via WhatsApp
 80. [T] Hiking Hallasan: booking reservation
 81. [K] Hon-bap (Solo Dining) culture

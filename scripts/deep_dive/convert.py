@@ -148,7 +148,37 @@ def sanitize_mdx(content: str) -> tuple[str, list[str]]:
     fixes = []
 
     # ── Frontmatter title/excerpt 따옴표 보정 ──
-    # 콜론, 앰퍼샌드 등 YAML 특수문자가 포함된 경우 따옴표로 감싸기
+    # 1. 이중 이스케이핑 제거: title: "\"Text\"" → title: "Text"
+    def fix_escaped_quotes(content, field):
+        # Pattern: title: "\"Text\"" or title:"\\"Text\\""
+        pattern = re.compile(
+            rf'^({field}:\s*)"\\\"(.+?)\\\""\s*$', re.MULTILINE
+        )
+        m = pattern.search(content)
+        if m:
+            cleaned_val = m.group(2)
+            content = content[:m.start()] + f'{m.group(1)}"{cleaned_val}"' + content[m.end():]
+            fixes.append(f'Frontmatter: removed escaped quotes from {field}')
+        return content
+    
+    content = fix_escaped_quotes(content, 'title')
+    content = fix_escaped_quotes(content, 'excerpt')
+    
+    # 2. 이중 따옴표로 끝나는 경우: title: "Text"" → title: "Text"
+    def fix_double_trailing(content, field):
+        pattern = re.compile(
+            rf'^({field}:\s*"[^"]+)""\s*$', re.MULTILINE
+        )
+        m = pattern.search(content)
+        if m:
+            content = content[:m.start()] + f'{m.group(1)}"' + content[m.end():]
+            fixes.append(f'Frontmatter: removed double trailing quote from {field}')
+        return content
+    
+    content = fix_double_trailing(content, 'title')
+    content = fix_double_trailing(content, 'excerpt')
+
+    # 3. 콜론, 앰퍼샌드 등 YAML 특수문자가 포함된 경우 따옴표로 감싸기
     def quote_frontmatter_field(content, field):
         pattern = re.compile(
             rf'^({field}:\s*)(?!")(.+)$', re.MULTILINE
