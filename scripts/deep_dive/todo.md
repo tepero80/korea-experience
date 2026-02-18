@@ -66,27 +66,25 @@
 67. [M] Rhinoplasty for international patients  | done  | RIC  | 2026-02-11
 68. [T] How to identify cult recruiters  | done  | RIC  | 2026-02-11
 69. [K] K-Pop Dance Classes: trainee experience  | done  | RIC  | 2026-02-11
-70. [L] Coupang delivery without ARC  | failed  |   | 2026-02-11  | research failed: ❌ 최대 대기 시간 초과 (총 103분)
 71. [F] Culinary Class Wars 2 restaurants  | done  | RIC  | 2026-02-11
 72. [S] Olive Young discount hacks  | done  | RIC  | 2026-02-11
-73. [M] Medical Tourism safety statistics 2026  | failed  |   | 2026-02-11  | research failed: ❌ 최대 대기 시간 초과 (총 102분)
+73. [M] Medical Tourism safety statistics 2026  | done  | RIC  | 2026-02-16
 74. [T] Visiting Cheongwadae (Blue House)  | done  | RIC  | 2026-02-11
 75. [K] Understanding Pali-Pali culture  | done  | RIC  | 2026-02-11
 76. [L] Emergency Ready app: English alerts  | done  | RIC  | 2026-02-11
 77. [F] Tabling app for waitlists  | done  | RIC  | 2026-02-11
 78. [S] Tax Refund: ₩15,000 minimum 2026  | done  | RIC  | 2026-02-11
-79. [M] Pre-op consultations via WhatsApp
-80. [T] Hiking Hallasan: booking reservation
-81. [K] Hon-bap (Solo Dining) culture
-82. [L] Bank accounts: NH vs. Hana for nomads
-83. [F] Han River delivery zones
-84. [S] K-Pop Goods without memberships
-85. [M] Medical emergencies: 1330 vs. 119
-86. [T] Subway apps: KakaoMetro vs. Seoul Subway
-87. [K] Why Koreans don't hold doors
-88. [L] Public transport fares and transfers
-89. [F] Papago image translation for menus
-90. [S] Tamburins Fragrances: GM Haus
+80. [T] Hiking Hallasan: booking reservation  | done  | RIC  | 2026-02-16
+81. [K] Hon-bap (Solo Dining) culture  | done  | RIC  | 2026-02-17
+82. [L] Bank accounts: NH vs. Hana for nomads  | done  | RIC  | 2026-02-17
+83. [F] Han River delivery zones  | failed  |   | 2026-02-17  | research failed: ❌ 최대 대기 시간 초과 (총 103분)
+84. [S] K-Pop Goods without memberships  | done  | RIC  | 2026-02-17
+85. [M] Medical emergencies: 1330 vs. 119  | done  | RIC  | 2026-02-17
+86. [T] Subway apps: KakaoMetro vs. Seoul Subway  | done  | RIC  | 2026-02-17
+87. [K] Why Koreans don't hold doors  | done  | RIC  | 2026-02-17
+88. [L] Public transport fares and transfers  | done  | RIC  | 2026-02-17
+89. [F] Papago image translation for menus  | failed  |   | 2026-02-17  | research failed: ❌ 최대 대기 시간 초과 (총 102분)
+90. [S] Tamburins Fragrances: GM Haus  | done  | RIC  | 2026-02-17
 91. [M] Telemedicine follow-ups
 92. [T] 1330 Travel Helpline: 8 languages
 93. [K] Why avoid loud conversations on subway
