@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Queen of Tears Filming Locations 2026: Ultimate Seoul & Germany Guide"
 date: 2026-02-09
 excerpt: "Visit the ₩100 million wedding venue and The Hyundai Seoul. This 2026 guide covers 17+ locations from Seoul to Germany with travel tips and cost breakdowns."

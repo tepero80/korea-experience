@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Mastering the Pour: The Ultimate 2026 Guide to Korean Drinking Etiquette"
 date: 2026-02-09
-excerpt: Master the two-hand tuck and polite turn. Learn why soju costs 7,000 KRW in 2026 and how to avoid the 50% refill rule mistake in this essential guide.
+excerpt: "Master the two-hand tuck and polite turn. Learn why soju costs 7,000 KRW in 2026 and how to avoid the 50% refill rule mistake in this essential guide."
 category: Food & Dining
 author: Korea Experience Team
 deepDive: true

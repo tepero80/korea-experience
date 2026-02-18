@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Seoul Climate Card 2026: Is the Unlimited Transit Pass Worth It?"
 date: 2026-02-09
 excerpt: "Save money in Seoul with the 2026 Climate Card. We analyze if the 62,000 KRW monthly pass beats T-Money for your 30-day stay based on 40 rides."

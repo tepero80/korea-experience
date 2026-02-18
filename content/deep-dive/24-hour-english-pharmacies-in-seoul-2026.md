@@ -1,7 +1,7 @@
-﻿---
+---
 title: "Seoul 24-Hour Pharmacies 2026: English Service & Emergency Meds Guide"
 date: 2026-02-09
-excerpt: Find open pharmacies in Seoul past 1 AM. Learn the 2026 Simya system, 30% night surcharges, and the 13 safety meds available at convenience stores.
+excerpt: "Find open pharmacies in Seoul past 1 AM. Learn the 2026 Simya system, 30% night surcharges, and the 13 safety meds available at convenience stores."
 category: Medical Tourism
 author: Korea Experience Team
 deepDive: true

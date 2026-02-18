@@ -147,7 +147,19 @@ def sanitize_mdx(content: str) -> tuple[str, list[str]]:
     """MDX 내용을 자동 검증/수정합니다."""
     fixes = []
 
-    # ── Frontmatter title/excerpt 따옴표 보정 ──
+    # ── BOM 제거 ──
+    if content.startswith('\ufeff'):
+        content = content[1:]
+        fixes.append('Removed UTF-8 BOM')
+
+    # ── Frontmatter 정규화 ──
+    # 0. 콜론 뒤 공백 정규화: title:"..." → title: "..."
+    for _field in ('title', 'excerpt', 'category', 'author'):
+        pattern = re.compile(rf'^({_field}):(?! )', re.MULTILINE)
+        if pattern.search(content):
+            content = pattern.sub(rf'\1: ', content)
+            fixes.append(f'Frontmatter: added space after {_field} colon')
+
     # 1. 이중 이스케이핑 제거: title: "\"Text\"" → title: "Text"
     def fix_escaped_quotes(content, field):
         # Pattern: title: "\"Text\"" or title:"\\"Text\\""
@@ -181,22 +193,30 @@ def sanitize_mdx(content: str) -> tuple[str, list[str]]:
     # 3. 콜론, 앰퍼샌드 등 YAML 특수문자가 포함된 경우 따옴표로 감싸기
     def quote_frontmatter_field(content, field):
         pattern = re.compile(
-            rf'^({field}:\s*)(?!")(.+)$', re.MULTILINE
+            rf'^({field}:\s*)(.+)$', re.MULTILINE
         )
         m = pattern.search(content)
-        if m and any(ch in m.group(2) for ch in [':', '&', '#', '{', '}', '[', ']', ',', '>', '|', '*', '?', '!', '%', '@', '`']):
-            val = m.group(2).strip().replace('"', '\\"')
-            content = content[:m.start()] + f'{m.group(1)}"{val}"' + content[m.end():]
+        if not m:
+            return content
+        val = m.group(2).strip()
+        # 이미 따옴표로 감싸져 있으면 스킵
+        if val.startswith('"') and val.endswith('"'):
+            return content
+        if any(ch in val for ch in [':', '&', '#', '{', '}', '[', ']', ',', '>', '|', '*', '?', '!', '%', '@', '`']):
+            val_escaped = val.replace('"', '\\"')
+            content = content[:m.start()] + f'{m.group(1)}"{val_escaped}"' + content[m.end():]
             fixes.append(f'Frontmatter: quoted {field} (special chars)')
         return content
 
     content = quote_frontmatter_field(content, 'title')
     content = quote_frontmatter_field(content, 'excerpt')
 
-    # ── InfoBox 닫는 꺾쇠 중복 제거 (>> → >) ──
-    if re.search(r'<InfoBox\b[^>]*>>', content):
-        content = re.sub(r'(<InfoBox\b[^>]*?)>>', r'\1>', content)
-        fixes.append('InfoBox: removed duplicate closing bracket (>>)')
+    # ── JSX 컴포넌트 닫는 꺾쇠 중복 제거 (>> → >) ──
+    for comp in VALID_COMPONENTS:
+        pat = re.compile(rf'(<{comp}\b[^>]*?)>>')
+        if pat.search(content):
+            content = pat.sub(r'\1>', content)
+            fixes.append(f'{comp}: removed duplicate closing bracket (>>)')
 
     # 코드블록 래퍼 제거
     if content.startswith("```markdown") or content.startswith("```mdx") or content.startswith("```"):
@@ -293,7 +313,7 @@ def sanitize_mdx(content: str) -> tuple[str, list[str]]:
             attrs = f' type="{inferred}"' + attrs
             fixes.append(f'InfoBox: added type="{inferred}"')
         return f'<InfoBox{attrs}>'
-    content = re.sub(r'<InfoBox\b([^>]*>)', fix_infobox_type, content)
+    content = re.sub(r'<InfoBox\b([^>]*?)>', fix_infobox_type, content)
 
     # difficulty 대소문자 수정
     def fix_difficulty(m):

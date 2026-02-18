@@ -427,12 +427,20 @@ def main():
     pipe.add_argument("--convert-only", action="store_true", help="MDX 변환만")
     pipe.add_argument("--backfill-covers", action="store_true", help="기존 MDX에 커버 일괄 생성")
     pipe.add_argument("--backfill-limit", type=int, default=0, help="backfill 최대 처리 수")
+    pipe.add_argument("--sanitize", action="store_true",
+                      help="기존 deep-dive MD 파일 전체를 sanitize_mdx로 정리")
+    pipe.add_argument("--sanitize-check", action="store_true",
+                      help="sanitize 필요 여부만 검사 (수정 없음, CI용)")
     args = parser.parse_args()
 
     api_key = API_KEY
-    if not api_key and not args.dry_run:
+    if not api_key and not args.dry_run and not args.sanitize and not args.sanitize_check:
         print("❌ GEMINI_API_KEY가 .env.local에 설정되지 않았습니다.")
         sys.exit(1)
+
+    if args.sanitize or args.sanitize_check:
+        sanitize_existing(dry_run=args.sanitize_check)
+        return
 
     if args.backfill_covers:
         backfill_covers(api_key, args.dry_run, args.backfill_limit)
@@ -494,6 +502,46 @@ def _get_pending_numbers(items: dict, limit: int = 0) -> list[int]:
         if items[num].get("status") != STATUS_DONE
     ]
     return pending if limit == 0 else pending[:limit]
+
+
+def sanitize_existing(dry_run: bool = False):
+    """기존 deep-dive MD 파일 전체를 sanitize_mdx로 정리합니다.
+
+    --sanitize       : 실제 수정
+    --sanitize-check : 수정 필요 여부 검출만 (CI / prebuild용)
+    """
+    from scripts.deep_dive.convert import sanitize_mdx
+
+    md_files = sorted(DEEP_DIVE_DIR.glob("*.md"))
+    mode = "CHECK" if dry_run else "FIX"
+    print(f"\n🔍 Deep-Dive Sanitize ({mode})\n{'='*60}")
+    print(f"📁 대상: {DEEP_DIVE_DIR}  ({len(md_files)}개 파일)\n")
+
+    total_fixes = 0
+    files_with_issues = []
+
+    for md_file in md_files:
+        content = md_file.read_text(encoding="utf-8")
+        sanitized, fixes = sanitize_mdx(content)
+
+        if fixes:
+            total_fixes += len(fixes)
+            files_with_issues.append((md_file.name, fixes))
+            print(f"  {'⚠️' if dry_run else '🔧'} {md_file.name}")
+            for f in fixes:
+                print(f"      • {f}")
+
+            if not dry_run:
+                md_file.write_text(sanitized, encoding="utf-8")
+
+    print(f"\n{'='*60}")
+    if files_with_issues:
+        print(f"📊 {len(files_with_issues)}개 파일, {total_fixes}건 {'발견' if dry_run else '수정'}")
+        if dry_run:
+            print("   → --sanitize 로 실행하면 자동 수정됩니다.")
+            sys.exit(1)  # CI에서 실패 감지용
+    else:
+        print("✅ 모든 파일 정상!")
 
 
 def _run_batch(targets: list[int], items: dict, api_key: str, kwargs: dict):

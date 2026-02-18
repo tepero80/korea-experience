@@ -1,4 +1,4 @@
-﻿---
+---
 title: "The Ultimate 2026 Guide to Booking K-Pop Hair Salons in Seoul"
 date: 2026-02-09
 excerpt: "Book top Seoul salons like Bit & Boot for $220–$450 without speaking Korean using 2026 apps. Learn the 3-week booking rule for the full idol experience."
