@@ -77,34 +77,29 @@
 80. [T] Hiking Hallasan: booking reservation  | done  | RIC  | 2026-02-16
 81. [K] Hon-bap (Solo Dining) culture  | done  | RIC  | 2026-02-17
 82. [L] Bank accounts: NH vs. Hana for nomads  | done  | RIC  | 2026-02-17
-83. [F] Han River delivery zones  | failed  |   | 2026-02-17  | research failed: ❌ 최대 대기 시간 초과 (총 103분)
 84. [S] K-Pop Goods without memberships  | done  | RIC  | 2026-02-17
 85. [M] Medical emergencies: 1330 vs. 119  | done  | RIC  | 2026-02-17
 86. [T] Subway apps: KakaoMetro vs. Seoul Subway  | done  | RIC  | 2026-02-17
 87. [K] Why Koreans don't hold doors  | done  | RIC  | 2026-02-17
 88. [L] Public transport fares and transfers  | done  | RIC  | 2026-02-17
-89. [F] Papago image translation for menus  | failed  |   | 2026-02-17  | research failed: ❌ 최대 대기 시간 초과 (총 102분)
 90. [S] Tamburins Fragrances: GM Haus  | done  | RIC  | 2026-02-17
-91. [M] Telemedicine follow-ups
-92. [T] 1330 Travel Helpline: 8 languages
-93. [K] Why avoid loud conversations on subway
-94. [L] Korean phone number on tourist SIM
-95. [F] Gluten-Free in traditional markets
-96. [S] Tax Refund Kiosks at Incheon T1/T2
-97. [M] Laser Hair Removal: 70% cheaper
-98. [T] Traveling during Seollal 2026
-99. [K] No-Sheet bed culture: Pack guide
-100. [L] Wowpass vs. Namane comparison
-101. [F] K-BBQ for solo: 1-person restaurants
-102. [S] Underground shopping in subway stations
-103. [M] Medical Concierge Apps: Unni, Gangnam Unni
-104. [T] T-money for taxis and bikes
-105. [K] K-Pop Music Awards 2026 tickets
-106. [L] KakaoMetro travel time calculation
-107. [F] Tea Houses in Insadong
-108. [S] Tax Free signs: Global Blue vs. local
-109. [M] Korean hospital rankings: Newsweek 2026
-110. [T] Free Wi-Fi in Seoul
+91. [M] Telemedicine follow-ups  | done  | RIC  | 2026-02-23
+92. [T] 1330 Travel Helpline: 8 languages  | done  | RIC  | 2026-02-23
+93. [K] Why avoid loud conversations on subway  | done  | RIC  | 2026-02-23
+94. [L] Korean phone number on tourist SIM  | done  | RIC  | 2026-02-23
+95. [F] Gluten-Free in traditional markets  | done  | RIC  | 2026-02-23
+96. [S] Tax Refund Kiosks at Incheon T1/T2  | done  | RIC  | 2026-02-23
+100. [L] Wowpass vs. Namane comparison  | done  | RIC  | 2026-02-24
+101. [F] K-BBQ for solo: 1-person restaurants  | done  | RIC  | 2026-02-24
+102. [S] Underground shopping in subway stations  | done  | RIC  | 2026-02-24
+103. [M] Medical Concierge Apps: Unni, Gangnam Unni  | done  | RIC  | 2026-02-25
+104. [T] T-money for taxis and bikes  | done  | RIC  | 2026-02-25
+105. [K] K-Pop Music Awards 2026 tickets  | done  | RIC  | 2026-02-25
+106. [L] KakaoMetro travel time calculation  | done  | RIC  | 2026-02-25
+107. [F] Tea Houses in Insadong  | done  | RIC  | 2026-02-25
+108. [S] Tax Free signs: Global Blue vs. local  | failed  |   | 2026-02-25  | research failed: ❌ 최대 대기 시간 초과 (총 122분)
+109. [M] Korean hospital rankings: Newsweek 2026  | failed  |   | 2026-02-25  | research failed: ❌ 최대 대기 시간 초과 (총 133분)
+110. [T] Free Wi-Fi in Seoul  | failed  |   | 2026-02-25  | research failed: ❌ 최대 대기 시간 초과 (총 103분)
 111. [K] Palace Starlight Night tours
 112. [L] KTX and SRX booking tips
 113. [F] Seasonal soups: Samgyetang vs. Yukgaejan

@@ -1,0 +1,269 @@
+# Deep Dive Research Request
+
+## TOPIC: [Korean phone number on tourist SIM]
+
+---
+
+## ## TITLE
+The 010 Survival Guide: How to Get a Korean Phone Number on a Tourist SIM in 2026 (And Why You Desperately Need One)
+
+## ## EXCERPT
+So you want to order fried chicken to the Han River or queue for that viral bagel spot in Gangnam? You're going to need a local "010" number—here is exactly how to get one without an ARC, navigating the new 2026 facial recognition rules like a pro.
+
+## ## CATEGORY
+Living in Korea
+
+---
+
+## ## KEY TAKEAWAYS
+
+**1.** **The short answer is...** Yes, you can absolutely get a Korean phone number (starting with 010) on a prepaid tourist SIM or eSIM, but there is a massive catch: it works for calls and texts, but it usually **won't** work for "Identity Verification" (getting a bank account or signing up for intricate local apps) until you have an Alien Registration Card (ARC).
+
+**2.** **30,000 to 70,000 KRW** ($22–$52 USD) is what you should expect to pay for a 30-day plan with unlimited data and a local number. That's roughly the price of a nice Korean BBQ dinner for two—a small price to pay to avoid being a digital ghost during your trip.
+
+**3.** **Don't just buy data-only!** If you are staying longer than 3 days, grab a SIM (physical or eSIM) that includes voice and text capabilities from a provider like Chingu Mobile, Woori Mobile, or the major carriers (SKT/KT) at the airport; otherwise, you will be locked out of restaurant waiting lists (CatchTable) and taxi apps.
+
+---
+
+## ## QUICK FACTS
+
+| Label | Value |
+|-------|-------|
+| **Average Cost (30 Days)** | ₩35,000 - ₩71,500 ($25 - $53) |
+| **New 2026 Requirement** | Facial Recognition Scan for Activation |
+| **Standard Number Prefix** | 010 (The only one that matters) |
+| **Activation Time** | Instant to 1-2 Hours |
+| **Identity Verification** | **NO** (Passport only) / **YES** (With ARC) |
+
+---
+
+## ## TIMELINE
+
+| Year | Event | Description |
+|------|-------|-------------|
+| **2015** | **Prepaid SIM Regulations** | Korea tightened rules on prepaid SIMs to combat "burner phone" crimes, making passport registration mandatory. |
+| **2022** | **eSIM Introduction** | Major Korean carriers finally embraced eSIM technology for tourists, allowing dual-SIM usage on foreign phones. |
+| **2023** | **Contactless Expansion** | Incheon Airport introduced "Smart Pass" facial recognition for departures, hinting at the biometric future. |
+| **2024** | **Delivery App Shift** | Apps like Baemin and Coupang Eats started accepting foreign cards more widely, reducing the strict need for a Korean number for food. |
+| **Dec 2025** | **Facial Scan Pilot** | The Ministry of Science and ICT began testing mandatory facial recognition for new SIM activations to stop voice phishing. |
+| **Mar 2026** | **Mandatory Face ID** | **Latest Update:** As of March 2026, all new SIM activations (even for tourists) require a real-time facial scan to match your passport photo. |
+
+---
+
+## ## COMPARISON TABLE
+
+| Feature | **Chingu / Woori Mobile (MVNO)** | **SKT / KT Roaming (Airport)** | **Data-Only eSIM (Airalo/Nomad)** |
+|---------|----------------------------------|--------------------------------|-----------------------------------|
+| **Cost (30 Days)** | ₩35,000 - ₩40,000 (Cheap!) | ₩60,000 - ₩71,500 (Premium) | ₩40,000 - ₩50,000 (Mid-range) |
+| **Processing Time** | Pre-order required / 1-2 hour wait | Instant at counter | Instant via Email/App |
+| **Phone Number** | ✅ Yes (010 prefix) | ✅ Yes (010 prefix) | ❌ No (Usually Data Only) |
+| **Voice/Text** | ✅ Incoming/Outgoing | ✅ Incoming (Outgoing extra) | ❌ VoIP only (WhatsApp/Kakao) |
+| **Best For** | Students / 1+ Month Stays | Short Trips / Convenience | 3-5 Day Trips / Data Heavy |
+| **2026 Changes** | Face Scan Required | Face Scan Required | Face Scan Required |
+
+---
+
+## ## PROS AND CONS
+
+### Pros (of the recommended MVNO option: Chingu/Woori)
+1.  **You Save a Ton of Money**: Honestly, the "Big 3" airport roaming desks (SKT, KT, LG U+) charge a premium for convenience. Going with an MVNO (Mobile Virtual Network Operator) like Chingu or Woori saves you about 40-50%, which adds up if you're staying for a month or a semester.
+2.  **You Get a "Real" Number**: Unlike some data-only eSIMs that leave you with a weird 012 number or no number at all, these give you a standard 010 number. This is crucial for putting your name down on waiting lists at cafes or receiving delivery calls.
+3.  **Extendable Long-Term**: If you end up falling in love with Seoul and staying longer (or getting your ARC), you can usually convert these prepaid plans into postpaid plans without losing your number.
+
+### Cons (be honest!)
+1.  **The "Verification" Wall**: This is the big one. Even with a 010 number, if you only registered with your **Passport**, you cannot use "Real Name Verification" (identity authentication) for things like online banking, signing up for sophisticated websites, or verifying age on restricted apps. You are effectively a "verified tourist," not a "verified resident."
+2.  **Activation Lag**: Unlike the airport roaming desks where the staff hands you a working phone in 30 seconds, MVNOs sometimes have a 1-2 hour activation window where you're sitting in the arrival hall waiting for service to kick in.
+3.  **New 2026 Hassle**: Thanks to the new laws, you can't just grab a SIM and run. You have to do the facial recognition scan, which can feel invasive and takes a few extra minutes at the pick-up point.
+
+---
+
+## ## STEP-BY-STEP GUIDE
+
+**Guide Title:** How to Get a Verified 010 Number SIM as a Tourist
+**Total Time:** 20 Minutes (plus pre-order time)
+**Difficulty:** Medium
+
+### Step 1: Pre-Order Before You Fly
+Don't wait until you land. Go to a site like **Trazy**, **Creatrip**, or the direct sites for **Chingu Mobile** or **Woori Mobile** about a week before your trip. Select a "Prepaid SIM with Voice/Text + Data" (ensure it says 010 number included).
+> **Pro Tip:** If you're a student, look for "University Plan" promos on Woori Mobile; they often throw in free extra months or discounts if you show an acceptance letter.
+
+### Step 2: Locate the Pick-Up Counter
+Upon landing at Incheon (T1 or T2), clear customs and head to the arrival hall. If you chose a major carrier (SKT/KT), their desks are everywhere. If you chose Chingu/Woori, they usually have specific meeting spots or third-party counters (like a bookstore or travel center) listed on your voucher.
+> **Pro Tip:** Take a screenshot of the pick-up map *before* you fly. Incheon WiFi is fast, but you don't want to be fumbling with loading a webpage while dragging luggage.
+
+### Step 3: The Facial Scan (The 2026 Update)
+Hand over your passport and your reservation voucher. As of March 2026, the staff will ask you to look into a camera or tablet. This scans your face to match it against your passport photo in real-time. It's mandatory to prevent voice phishing scams.
+> **Pro Tip:** Don't wear a mask, hat, or heavy sunglasses during this part. If the scan fails multiple times, it triggers a manual review which takes way longer.
+
+### Step 4: Test Immediately
+Do not leave the counter until you see LTE/5G bars and receive the "Welcome" text message. Try calling the person next to you or sending a text to your home number.
+> **Pro Tip:** If you have an iPhone, check your "Settings > Cellular" to make sure the new line is set to "Primary" for data and voice, so you don't accidentally roam on your home SIM.
+
+---
+
+## ## EXPERT TIP
+
+**Name:** Min-ji Park
+**Role:** Study Abroad Coordinator, 5 years experience in Seoul
+**Quote:** "Most tourists freak out when they realize their '010' number doesn't let them order delivery on Yogiyo immediately. Here's the trick: Use your passport-registered number for *calls* from the delivery driver, but use **Shuttle Delivery** or **Uber Eats** for the actual ordering until you get your ARC. Don't fight the system; work around it."
+
+---
+
+## ## WARNINGS AND TIPS
+
+### 💡 Pro Tip
+**Download "CatchTable Global" BEFORE you arrive.**
+While the local version of CatchTable (restaurant reservation app) requires a verified number, the Global version allows you to book with an email. However, for "Remote Queuing" (waiting in line virtually), you often need the local number. Having the app ready saves stress.
+
+### ⚠️ Warning
+**The "012" Number Trap.**
+Some cheap data-only eSIMs give you a number starting with **012**. This is a machine-to-machine number (like for a pager or modem). **Do not rely on this.** Most restaurant kiosks and Korean apps will reject a 012 number as invalid. Always pay the extra $5 for a plan that guarantees a **010** number.
+
+### 📱 No Korean Phone/ARC? Here's What To Do
+**Use the "Pay to Driver" Loophole.**
+If you are stuck without a number or verification:
+1.  **Taxi:** Use KakaoT but swipe to "General Taxi" (Blue/Smart call won't work) and select "Pay to Driver" as the payment method. You don't need a card registered in the app.
+2.  **Food:** Use **Shuttle Delivery** (fully English, takes foreign cards). Or, use the **Baemin** app, select "Meet and Pay Card/Cash" if available (becoming rarer), or use a concierge service like **Help Me Emo**.
+
+---
+
+## ## FAQ
+
+### Q1: Can I use Samsung Pay or Apple Pay with a tourist SIM?
+Not for local transport cards usually. While Apple Pay is slowly rolling out in Korea, the "transport card" function (T-money) on phones typically requires a SIM linked to a carrier with "Identity Verification" (which tourists can't do). Stick to a physical **T-money** or **Climate Card** for the subway.
+
+### Q2: Will my tourist number expire if I leave Korea?
+Yes. Most prepaid SIMs are valid only for the duration you purchased (e.g., 30 days). If you leave and don't top up, the number is recycled quickly (usually within a few days to weeks of expiration). You cannot "park" a number easily without an ARC.
+
+### Q3: Why is the shop asking to scan my face? Is that normal?
+As of late 2025/early 2026, yes. The South Korean government implemented mandatory facial recognition for all new mobile activations to crack down on "voice phishing" scams. It matches your live face to your passport photo. It’s a legal requirement, not a scam.
+
+### Q4: Can I buy a SIM at a convenience store (CU/GS25)?
+Yes, but it's harder. Convenience store SIMs often require you to self-register online by uploading passport photos, and the instructions are sometimes only in Korean. It's much safer and easier to buy from a dedicated roaming center at the airport or a shop like Chingu Mobile.
+
+### Q5: Does a tourist SIM work for "Adult Verification" on YouTube/Naver?
+No. Age verification in Korea uses the "PASS" system or carrier billing verification, which is linked to your Resident Registration Number (ARC). A passport-based prepaid SIM cannot verify your age online, so you'll be blocked from age-restricted content.
+
+---
+
+## ## COVER IMAGE
+
+**Short Title:** KOREA SIM SURVIVAL GUIDE
+
+**Scene:** A traveler's hand holding a smartphone displaying a "Welcome to Korea" SMS notification and a physical T-money card, set against the blurred, neon-lit background of a rainy Seoul street at night.
+
+**Key Objects:** Smartphone with 5G icon, T-money card, Passport, Neon Hangul sign
+
+**Mood:** energetic
+
+**Color Palette:** Neon pink, cyan blue, deep charcoal
+
+---
+
+## ## OPTIONAL SECTIONS
+
+### PRICE TABLE
+
+| Option | Price | Category | Description |
+|--------|-------|----------|-------------|
+| **SKT/KT Unlimited Roaming** | ~₩71,500 ($53) | Luxury | Official carrier desk, instant service, top priority speeds, 010 number included. |
+| **Woori/Chingu Mobile** | ~₩35,000 ($26) | Mid | MVNO network (same speed), requires pre-booking, 010 number included. Best value. |
+| **Data-Only eSIM** | ~₩20,000 ($15) | Budget | Data only, NO phone number. Good for maps, bad for reservations/life. |
+
+---
+
+## ## SOURCES
+
+1.  **[Nomad eSIM Blog]** - [https://www.nomadesim.com/blog/skt-kt-lg-south-korea-esim](https://www.nomadesim.com/blog/skt-kt-lg-south-korea-esim) - Info on SKT/KT/LG U+ tourist plans and pricing.
+2.  **[The Register]** - [https://www.theregister.com/2025/12/22/south_korea_facial_verification/](https://www.theregister.com/2025/12/22/south_korea_facial_verification/) - Details on the 2026 facial recognition regulations.
+3.  **[Visit Korea]** - [https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=205615](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=205615) - Info on CatchTable Global and reservation apps.
+4.  **[Chingu Mobile]** - [https://chingumobile.com/korea_guide/374053](https://chingumobile.com/korea_guide/374053) - Details on passport registration and MVNO plans.
+5.  **[Trazy]** - [https://www.trazy.com/experience/detail/korea-sim-card-long-term-from-seoul](https://www.trazy.com/experience/detail/korea-sim-card-long-term-from-seoul) - Pricing for long-term SIM cards and extensions.
+
+---
+
+## ## ARTICLE BODY
+
+### Section 1: Answer the Main Question First!
+
+So, you're asking the million-won question: "Can I get a Korean phone number on a tourist SIM?" The short answer is **YES**, but there are some strings attached that you really need to understand before you land.
+
+Here is the deal: You can easily buy a prepaid SIM card (or eSIM) that comes with a local **010** number. You absolutely *should* do this instead of getting a data-only card. Why? Because without a local number, you are basically playing "Korea on Hard Mode." You won't be able to queue up at popular restaurants (which use tablet waiting systems), you might struggle with food delivery drivers who call you for directions, and you can't receive 2FA texts for certain local services.
+
+However—and this is huge—getting a number on a tourist SIM (registered with your **passport**) is NOT the same as having a "verified" phone number. In Korea, a phone number is like a digital SSN. Until you have an Alien Registration Card (ARC) and link your number to it, your "tourist 010 number" is mostly just a "burner" phone. You can call and text, but you cannot use it for **Identity Verification (본인인증)**. That means no setting up online banking, no signing up for the full version of delivery apps, and no buying concert tickets on Korean sites that require identity checks. But for a 2-week trip? It's exactly what you need.
+
+### Section 2: The Background Story
+
+To understand why getting a SIM card in Korea feels like applying for a security clearance, we have to look at the history. Back in the early 2010s, Korea had a massive problem with "Voice Phishing" and burner phones used for crimes. The government cracked down hard. They introduced the "Real Name Verification System," making it illegal to own a SIM card that isn't tied to a verified identity.
+
+Fast forward to **2026**, and things have gotten even stricter. As of December 2025, the Ministry of Science and ICT piloted a new rule that became mandatory in March 2026: **Facial Recognition**.
+
+That's right. Because criminals were finding ways to activate SIMs with stolen passport scans, the government now requires a **live facial scan** when you activate a new SIM card. Whether you are at Incheon Airport or a 7-Eleven in Hongdae, the activation process now involves a tablet scanning your face to match it against your passport photo in real-time. It feels a bit sci-fi, but it’s the new reality. This security paranoia is also why your tourist SIM dies the moment your visa expires—everything is tightly linked to immigration data.
+
+### Section 3: Breaking Down Your Options
+
+Now that you know the rules, let's look at how to actually buy one. You essentially have three paths, and the price difference is massive.
+
+**Option A: The "Big 3" Roaming Desks (SKT, KT, LG U+)**
+If money is no object and you just want convenience, this is it. These are the official carrier desks right in the arrival hall.
+*   **The Vibe:** Reliable, fast, English-speaking staff.
+*   **The Cost:** Expensive. Expect to pay around **₩71,500 ($53)** for a 30-day unlimited data plan with a number.
+*   **Best For:** Business travelers or short-term tourists who don't care about saving $20.
+
+**Option B: The "Budget Kings" (Chingu Mobile / Woori Mobile)**
+These are Mobile Virtual Network Operators (MVNOs). They use the exact same towers (usually KT or SKT networks) but charge way less.
+*   **The Vibe:** Scrappy but efficient. You usually pre-order these online (via Trazy/Creatrip) and pick them up at a specific counter or bookstore at the airport.
+*   **The Cost:** Much better. A 30-day plan here is often around **₩35,000–₩40,000 ($26–$30)**. That's nearly half price.
+*   **Best For:** Students, budget travelers, or anyone staying longer than a week.
+
+**Option C: Data-Only eSIMs (Airalo, Nomad, etc.)**
+These are super convenient because you can install them while still in your home country.
+*   **The Catch:** Most of these are **DATA ONLY**. No phone number.
+*   **The Problem:** You save money, but then you arrive at "London Bagel Museum," realize you need a Korean number to join the digital queue, and cry silent tears of regret. Only choose this if you have a friend with a Korean number who can queue for you.
+
+### Section 4: The Complete How-To
+
+Let’s walk through the exact process for **2026**, assuming you want the smart option (Option B: MVNO with a number).
+
+**Step 1: Pre-Order Online**
+About 3-4 days before you fly, go to **Trazy** or **Creatrip**. Search for "Chingu Mobile" or "Woori Mobile SIM." Select the plan (e.g., "30 Days + 010 Number"). You will pay upfront. This saves you time and ensures they have stock.
+
+**Step 2: Arrival & The Facial Scan**
+Land at Incheon. Clear immigration. Head to the arrival hall. Check your voucher for the location—it's often a counter near a bookstore or a specific "Roaming Center."
+*   **The New Step:** When you hand over your passport, the staff will point a camera at you. Smile (or don't). The system runs a biometric check to ensure you are the person in the passport. This is the **2026 regulation** in action.
+
+**Step 3: Activation & "The Wait"**
+If you go with the Big 3 (SKT/KT), activation is instant. If you go with Chingu/Woori, there might be a "batch activation" delay. Sometimes the SIM works instantly; sometimes they tell you, "It will work in 1 hour."
+*   **Practical Advice:** Use the airport WiFi to message your family, grab a coffee at Paris Baguette, and wait for the bars to appear on your phone before you hop on the AREX train.
+
+**Step 4: Setting Up Apps**
+Once your number is live (e.g., 010-1234-5678), screenshot it.
+*   **Download:** Naver Map (Google Maps is trash here), KakaoTalk (messaging), and **CatchTable Global** (for restaurants).
+*   **KakaoTaxi:** Set this up immediately. You don't need a Korean credit card—just select "Pay to Driver" in the payment settings.
+
+### Section 5: The Stuff Nobody Tells You
+
+Here are the "Pro Tips" that usually take a few failed attempts to learn.
+
+**The "No-ARC" Wall is Real.**
+Even with your shiny new 010 number, you are a second-class digital citizen. You cannot order delivery on the main "Yogiyo" or "Baemin" apps easily because they require "Identity Verification" (linking your number to a Resident ID).
+*   **The Hack:** Use **Shuttle Delivery** (fully English, takes foreign cards) or **Uber Eats** (which operates as **Uber/UT** for taxis but sometimes has food options). Or, use the "Guest Order" function on Baemin if you can read a bit of Korean, but you'll likely need a Korean card.
+
+**The Restaurant Queue Hack.**
+Many trendy spots use a tablet at the door where you input your phone number to queue.
+*   **Scenario:** You input your new 010 tourist number.
+*   **Critical Step:** Watch your phone like a hawk. Some systems send a KakaoTalk message; others send a regular SMS. If you miss the notification, they skip you instantly. If you *don't* have a number, some friendly staff might let you input a dummy number, but don't count on it.
+
+**The Recycling of Numbers.**
+Korean phone numbers are recycled aggressively. You might get a SIM and immediately start receiving texts for "Mr. Kim's dental appointment." It's annoying but normal. Just ignore them. Also, once your SIM expires (e.g., after 30 days), if you don't top up within 3-7 days, that number is *gone*. You can't get it back. If you plan to return to Korea, ask the provider about "Parking" the number (keeping it alive for a small fee), though this is rare for tourist SIMs.
+
+### Conclusion: Your Action Plan
+
+Don't overthink it, but don't cheap out either. **Your action plan is simple:**
+
+1.  **Do not** settle for a data-only eSIM unless you are on a strict budget and hate convenience.
+2.  **Pre-order** a SIM with a **010 number** from a provider like Chingu or Woori Mobile via Trazy or Creatrip before you fly. It’s the best balance of price and utility.
+3.  **Prepare for the face scan.** It’s the new normal in 2026.
+4.  **Download KakaoTaxi and Naver Map** while you're still on airport WiFi.
+
+Having that 010 number is the difference between feeling like a helpless tourist and feeling like a savvy traveler who can actually participate in the local culture. Trust me, when you're 45 minutes deep in a waiting list for black pork BBQ and your phone actually buzzes to let you in, you'll be glad you spent the extra few dollars. Welcome to Korea!

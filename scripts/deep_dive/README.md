@@ -79,6 +79,9 @@ python -m scripts.deep_dive
 
 다음 미완료 주제 1개를 자동으로 찾아 처리합니다.
 
+### sanitize
+python -m scripts.deep_dive --sanitize
+
 ---
 
 ## 옵션
