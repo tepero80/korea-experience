@@ -121,8 +121,8 @@ export default function Home() {
       {/* Featured Guides Section - Deep Dive */}
       <section className="py-20 bg-white">
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
-          {/* Section Header */}
-          <div className="text-center max-w-3xl mx-auto mb-16">
+          {/* Section Header - Hidden */}
+          <div className="text-center max-w-3xl mx-auto mb-16" style={{ display: 'none' }}>
             <div className="inline-flex items-center gap-2 bg-gradient-to-r from-blue-100 to-cyan-100 px-4 py-2 rounded-full mb-4">
               <span className="text-2xl">🔬</span>
               <span className="text-sm font-semibold text-blue-700">Deep Dive Guides</span>
@@ -135,8 +135,8 @@ export default function Home() {
             </p>
           </div>
 
-          {/* Blog Posts Grid */}
-          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12">
+          {/* Blog Posts Grid - Hidden */}
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mb-12" style={{ display: 'none' }}>
             {featuredPosts.map((post) => {
               // Category icon and color mapping
               const getCategoryStyle = (category: string) => {

@@ -97,19 +97,16 @@
 105. [K] K-Pop Music Awards 2026 tickets  | done  | RIC  | 2026-02-25
 106. [L] KakaoMetro travel time calculation  | done  | RIC  | 2026-02-25
 107. [F] Tea Houses in Insadong  | done  | RIC  | 2026-02-25
-108. [S] Tax Free signs: Global Blue vs. local  | failed  |   | 2026-02-25  | research failed: ❌ 최대 대기 시간 초과 (총 122분)
-109. [M] Korean hospital rankings: Newsweek 2026  | failed  |   | 2026-02-25  | research failed: ❌ 최대 대기 시간 초과 (총 133분)
-110. [T] Free Wi-Fi in Seoul  | failed  |   | 2026-02-25  | research failed: ❌ 최대 대기 시간 초과 (총 103분)
-111. [K] Palace Starlight Night tours
-112. [L] KTX and SRX booking tips
-113. [F] Seasonal soups: Samgyetang vs. Yukgaejan
-114. [S] K-Beauty souvenirs: masks vs. serums
-115. [M] 2026 Vision: 700,000 medical patients
-116. [T] Korea Grand Sale 2026
-117. [K] K-drama convenience store dinners
-118. [L] Korean trash bags: Si-rip guide
-119. [F] Mart Attack: Lotte Mart snacks
-120. [S] Indie fashion in Musinsa Standard
+111. [K] Palace Starlight Night tours  | done  | RIC  | 2026-02-27
+112. [L] KTX and SRX booking tips  | failed  |   | 2026-02-27  | research failed: ❌ 최대 대기 시간 초과 (총 103분)
+113. [F] Seasonal soups: Samgyetang vs. Yukgaejan  | done  | RIC  | 2026-02-27
+114. [S] K-Beauty souvenirs: masks vs. serums  | done  | RIC  | 2026-02-27
+115. [M] 2026 Vision: 700,000 medical patients  | failed  |   | 2026-02-27  | research failed: ❌ 리서치 실패: cancelled
+116. [T] Korea Grand Sale 2026  | done  | RIC  | 2026-02-28
+117. [K] K-drama convenience store dinners  | done  | RIC  | 2026-02-28
+118. [L] Korean trash bags: Si-rip guide  | done  | RIC  | 2026-02-28
+119. [F] Mart Attack: Lotte Mart snacks  | done  | RIC  | 2026-02-28
+120. [S] Indie fashion in Musinsa Standard  | failed  | RI  | 2026-02-28  | mdx conversion failed
 121. [M] Gangnam vs. Daegu Dermatology prices
 122. [T] Managing weak KRW exchange rate
 123. [K] Saju vs. Modern Psychology
