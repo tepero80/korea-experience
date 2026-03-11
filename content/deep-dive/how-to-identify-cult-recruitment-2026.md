@@ -54,13 +54,13 @@ Then came the "Foreigner Boom." As more expats and tourists flooded into Korea, 
 
 By 2024 and heading into 2026, these groups had to evolve. Everyone in Korea knows the "Do you know the Dao?" (Do-eul A-shim-ni-kka?) line. It became a meme. So, they pivoted. Now they are "culture guides," "mental health advocates," and "language partners." They moved from the streets to **Tinder** and **HelloTalk**. They became digital, slicker, and harder to spot.
 
-<Timeline events={[
-  { year: '1984', title: 'Shincheonji Founded', description: 'Lee Man-hee establishes the Shincheonji Church of Jesus, which later becomes infamous for deceptive recruitment.' },
-  { year: '2014', title: 'Sewol Ferry Tragedy', description: 'The tragedy exposes the deep links between the ferry owners and the Salvation Sect (Guwonpa), bringing cults into the national spotlight.' },
-  { year: '2020', title: 'COVID-19 Patient 31', description: 'A massive COVID-19 outbreak in Daegu is traced to a Shincheonji super-spreader, leading to national outrage and exposure of their secretive tactics.' },
-  { year: '2023', title: 'JMS Netflix Documentary', description: '"In the Name of God: A Holy Betrayal" releases, exposing the sexual abuse and crimes of JMS leader Jung Myung-seok, sparking a new wave of vigilance.' },
-  { year: '2024', title: 'God the Mother Resurgence', description: 'WMSCOG (World Mission Society Church of God) ramps up aggressive street recruitment targeting foreigners in university districts like Hongdae and Sinchon.' },
-  { year: '2025/2026', title: 'Digital Pivot', description: 'Recruiters shift heavily to language exchange apps (HelloTalk, Tinder, Bumble) and "Cultural Experience" front groups to bypass street skepticism.' }
+<Timeline items={[
+  { time: '1984', title: 'Shincheonji Founded', description: 'Lee Man-hee establishes the Shincheonji Church of Jesus, which later becomes infamous for deceptive recruitment.' },
+  { time: '2014', title: 'Sewol Ferry Tragedy', description: 'The tragedy exposes the deep links between the ferry owners and the Salvation Sect (Guwonpa), bringing cults into the national spotlight.' },
+  { time: '2020', title: 'COVID-19 Patient 31', description: 'A massive COVID-19 outbreak in Daegu is traced to a Shincheonji super-spreader, leading to national outrage and exposure of their secretive tactics.' },
+  { time: '2023', title: 'JMS Netflix Documentary', description: '"In the Name of God: A Holy Betrayal" releases, exposing the sexual abuse and crimes of JMS leader Jung Myung-seok, sparking a new wave of vigilance.' },
+  { time: '2024', title: 'God the Mother Resurgence', description: 'WMSCOG (World Mission Society Church of God) ramps up aggressive street recruitment targeting foreigners in university districts like Hongdae and Sinchon.' },
+  { time: '2025/2026', title: 'Digital Pivot', description: 'Recruiters shift heavily to language exchange apps (HelloTalk, Tinder, Bumble) and "Cultural Experience" front groups to bypass street skepticism.' }
 ]} />
 
 ## Breaking Down Your Options: The Big Three
@@ -85,13 +85,13 @@ These guys are playing the long game.
 *   **The Scenario:** They often carry iPads showing verses about "the Bride" in the Bible. They are very active on university campuses. They will try to get you to come to their church immediately for a baptism. They also run volunteer groups like **ASEZ**, which look like legit environmental clubs (cleaning up trash, etc.), but are actually recruitment fronts.
 
 <ComparisonTable headers={['Feature', 'Legit Language Exchange', 'Cult Recruitment', 'Ancestor Rite Scam']} rows={[
-  { feature: 'Initial Contact', cell1: 'Organized meetup or app match', cell2: 'Street approach (pairs) or survey', cell3: 'Street approach asking for directions/energy' },
-  { feature: 'Location', cell1: 'Public cafes, bars, centers', cell2: 'Cafes, then moves to Study Rooms', cell3: 'Moves to a private house/apartment' },
-  { feature: 'Topic', cell1: 'Hobbies, food, daily life', cell2: 'Psychology, MBTI, God the Mother', cell3: 'Spiritual energy, Ancestors, Rites' },
-  { feature: 'Cost', cell1: 'Coffee or entry fee (₩10k)', cell2: 'Free (initially), then requires time', cell3: 'Demands cash for ceremony (₩50k+)' },
-  { feature: 'Vibe', cell1: 'Casual, noisy, disorganized', cell2: 'Intense eye contact, overly friendly', cell3: 'Eerie, persistent, focused on luck' },
-  { feature: 'Best For', cell1: 'Making friends', cell2: 'AVOID AT ALL COSTS', cell3: 'AVOID AT ALL COSTS' },
-  { feature: '2026 Changes', cell1: 'More digital nomads', cell2: 'Using AI/Tech surveys as hooks', cell3: 'Targeting tourists with Hanbok experiences' }
+  { feature: 'Initial Contact', option1: 'Organized meetup or app match', option2: 'Street approach (pairs) or survey', option3: 'Street approach asking for directions/energy' },
+  { feature: 'Location', option1: 'Public cafes, bars, centers', option2: 'Cafes, then moves to Study Rooms', option3: 'Moves to a private house/apartment' },
+  { feature: 'Topic', option1: 'Hobbies, food, daily life', option2: 'Psychology, MBTI, God the Mother', option3: 'Spiritual energy, Ancestors, Rites' },
+  { feature: 'Cost', option1: 'Coffee or entry fee (₩10k)', option2: 'Free (initially), then requires time', option3: 'Demands cash for ceremony (₩50k+)' },
+  { feature: 'Vibe', option1: 'Casual, noisy, disorganized', option2: 'Intense eye contact, overly friendly', option3: 'Eerie, persistent, focused on luck' },
+  { feature: 'Best For', option1: 'Making friends', option2: 'AVOID AT ALL COSTS', option3: 'AVOID AT ALL COSTS' },
+  { feature: '2026 Changes', option1: 'More digital nomads', option2: 'Using AI/Tech surveys as hooks', option3: 'Targeting tourists with Hanbok experiences' }
 ]} />
 
 ## High-Risk Zones: Where Recruiters Lurk
@@ -160,7 +160,7 @@ To put things in perspective, here is a quick breakdown of what you risk versus 
 
 ## FAQ
 
-<FAQAccordion questions={[
+<FAQAccordion items={[
   { question: 'Is it dangerous? Will they kidnap me?', answer: 'Generally, no. Korean cults are mostly focused on financial exploitation and labor, not violent kidnapping like in movies. However, the ancestor rite groups (Daesun Jinrihoe) will pressure you into a room and intimidate you into paying money. It is physically safe but psychologically abusive and expensive.' },
   { question: 'Why do they target foreigners?', answer: 'Foreigners are seen as "blank slates." You don\'t know the bad reputation these groups have in Korea. You are also likely lonely, looking for community, and eager to make Korean friends. This makes you the perfect target for "Love Bombing."' },
   { question: 'What is "God the Mother"?', answer: 'This is the recruitment tag for the World Mission Society Church of God (WMSCOG). They believe that just as there is a God the Father, there is a God the Mother (a Korean woman named Zahng Gil-jah). If you hear this phrase, you are dealing with WMSCOG.' },

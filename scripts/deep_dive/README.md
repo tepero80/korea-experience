@@ -219,3 +219,6 @@ pip install google-genai python-dotenv Pillow
 ## 환경변수
 
 `.env.local`에 `GEMINI_API_KEY` 설정 필요.
+
+
+C:\kc\korea-experience\content\deep-dive 폴더에 신규로 추가된 MD파일을 분석해서 문제가 없는지 확인 한 후 문제가 있으면 수정하고, 다시 문제 안생기게 수정하고, 빌드하고, 웹서버 띄우고 문제 없으면 전체 푸쉬해줘

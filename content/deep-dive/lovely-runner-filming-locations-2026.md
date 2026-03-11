@@ -19,7 +19,7 @@ Trust me, standing in front of *that* blue gate changes everything. While many t
   '**Download Naver Map immediately.** Do not—I repeat, do *not*—rely on Google Maps in Korea. It won’t give you walking directions. To find the exact alleyways and hidden murals from *Lovely Runner*, you need Naver Map or KakaoMap. Search for "Mong Ted" (Sol\'s house) to get started!'
 ]} />
 
-<QuickFacts data={[
+<QuickFacts facts={[
   { label: '📍 Primary Location', value: 'Suwon (Haenggung-dong)' },
   { label: '💰 Travel Cost', value: 'Approx. ₩3,000 ($2.20 USD)' },
   { label: '⏱️ Time Needed', value: '1 Full Day for Suwon loop' },
@@ -79,25 +79,25 @@ Third, the **"Video Rental Shop"** sign is not there anymore. The production cre
 
 **CRITICAL TIP regarding Transport:** If you do not have a Korean ARC (Alien Registration Card), you cannot just sign up for any Korean app. Make sure you have **Kakao T** installed for taxis, but set payment to "Pay to Driver." If you get stranded in Suwon late at night, hailing a taxi on the street can be tough in 2026. Having the app is a lifesaver. Also, get the **Climate Card** (unlimited transit card) if you are staying in Seoul for a while—it covers the subway ride to Suwon!
 
-<Timeline events={[
-  { year: '2023', event: 'Filming Begins', description: 'Production starts in Suwon and Seoul, capturing the distinct seasonal vibes seen in the show.' },
-  { year: '2024 (April)', event: 'Drama Premiere', description: 'Lovely Runner airs, sparking immediate interest in the "blue gate" house in Suwon.' },
-  { year: '2024 (May)', event: 'The "Mong Ted" Boom', description: 'The cafe used as Sol\'s house sees lines out the door as the drama hits peak popularity.' },
-  { year: '2025', event: 'Tourism Stabilization', description: 'Haenggung-dong solidifies itself as a major Hallyu hotspot; cafes add English menus for international fans.' },
-  { year: '2026', event: 'Current Status', description: 'The locations remain pristine; "Sun-jae" tours are now a staple for K-drama fans visiting Korea.' },
-  { year: '2026', event: 'New Transport Options', description: 'Expanded GTX lines make getting to outlying filming spots like Dongtan Lake Park faster than ever.' }
+<Timeline items={[
+  { time: '2023', title: 'Filming Begins', description: 'Production starts in Suwon and Seoul, capturing the distinct seasonal vibes seen in the show.' },
+  { time: '2024 (April)', title: 'Drama Premiere', description: 'Lovely Runner airs, sparking immediate interest in the "blue gate" house in Suwon.' },
+  { time: '2024 (May)', title: 'The "Mong Ted" Boom', description: 'The cafe used as Sol\'s house sees lines out the door as the drama hits peak popularity.' },
+  { time: '2025', title: 'Tourism Stabilization', description: 'Haenggung-dong solidifies itself as a major Hallyu hotspot; cafes add English menus for international fans.' },
+  { time: '2026', title: 'Current Status', description: 'The locations remain pristine; "Sun-jae" tours are now a staple for K-drama fans visiting Korea.' },
+  { time: '2026', title: 'New Transport Options', description: 'Expanded GTX lines make getting to outlying filming spots like Dongtan Lake Park faster than ever.' }
 ]} />
 
 ## Location Comparison
 
-<ComparisonTable items={[
-  { feature: 'Primary Scenes', item1: 'Sol/Sun-jae’s houses, Confession Bridge', item2: 'School, Concert Hall, Dates', item3: 'Ferris Wheel Date' },
-  { feature: 'Cost to Access', item1: 'Low (Subway/Bus)', item2: 'Low (Subway)', item3: 'Medium (Intercity Bus/Taxi)' },
-  { feature: 'Walkability', item1: '⭐⭐⭐⭐⭐ (Very High)', item2: '⭐⭐⭐⭐ (High)', item3: '⭐⭐ (Need taxi/car)' },
-  { feature: 'Crowd Level', item1: 'High (Weekends)', item2: 'Moderate', item3: 'Low to Moderate' },
-  { feature: 'Photo Ops', item1: 'Iconic (Yellow Umbrella spots)', item2: 'Nostalgic (School/Alleys)', item3: 'Cinematic (Night lights)' },
-  { feature: 'Best For', item1: 'The "Core" Pilgrimage', item2: 'Quick stops during city tour', item3: 'Dedicated day trippers' },
-  { feature: '2026 Changes', item1: 'More "Lovely Runner" themed cafes', item2: 'Continued restricted school entry', item3: 'Improved bus schedules' }
+<ComparisonTable rows={[
+  { feature: 'Primary Scenes', option1: 'Sol/Sun-jae’s houses, Confession Bridge', option2: 'School, Concert Hall, Dates', option3: 'Ferris Wheel Date' },
+  { feature: 'Cost to Access', option1: 'Low (Subway/Bus)', option2: 'Low (Subway)', option3: 'Medium (Intercity Bus/Taxi)' },
+  { feature: 'Walkability', option1: '⭐⭐⭐⭐⭐ (Very High)', option2: '⭐⭐⭐⭐ (High)', option3: '⭐⭐ (Need taxi/car)' },
+  { feature: 'Crowd Level', option1: 'High (Weekends)', option2: 'Moderate', option3: 'Low to Moderate' },
+  { feature: 'Photo Ops', option1: 'Iconic (Yellow Umbrella spots)', option2: 'Nostalgic (School/Alleys)', option3: 'Cinematic (Night lights)' },
+  { feature: 'Best For', option1: 'The "Core" Pilgrimage', option2: 'Quick stops during city tour', option3: 'Dedicated day trippers' },
+  { feature: '2026 Changes', option1: 'More "Lovely Runner" themed cafes', option2: 'Continued restricted school entry', option3: 'Improved bus schedules' }
 ]} />
 
 ## Pros and Cons of the Suwon Day Trip
@@ -118,10 +118,10 @@ Third, the **"Video Rental Shop"** sign is not there anymore. The production cre
 **Difficulty:** Easy
 
 <StepGuide steps={[
-  { title: 'Step 1: Get to Suwon and "Mong Ted"', text: 'Take the subway (Line 1 or Suin-Bundang Line) to **Suwon Station**. From there, hop on a bus (lots of options like 11, 13, or 35) to the **Hwaseong Haenggung** stop. Walk into the residential alleys of Haenggung-dong. Navigate to **Mong Ted** (Sol\'s House). Pro Tip: Go on a weekday morning if you can. On weekends, the line to take a photo in front of the yellow umbrella spot (if it\'s out) or the blue gate can get long!' },
-  { title: 'Step 2: The Blue Gate (Sun-jae’s House)', text: 'Literally, just turn around 180 degrees from Mong Ted. The house with the blue gate is right there. It is shockingly close—the drama made the street look slightly wider, but in reality, they are practically neighbors. Remember, people live here! Whisper, snap your pics quickly, and do not lean on their gate or doorbell.' },
-  { title: 'Step 3: The Confession Bridge (Suwoncheon Stream)', text: 'Walk towards the Hwahongmun Gate (the big water gate). Just slightly downstream, you will see the stepping stones and the small bridge where the famous confession scene happened. It is especially pretty at sunset. In summer, the stream is lush and green; in winter, it looks exactly like the tragic scenes in the drama. Dress accordingly!' },
-  { title: 'Step 4: Fortress Wall Walk & Yongyeon Pond', text: 'Walk up the stairs to the fortress walls. Head toward **Banghwasuryujeong Pavilion** and look down at **Yongyeon Pond**. This is where Sun-jae taught Sol how to ride a bike. It is gorgeous at night when the walls are lit up. Bring a picnic mat if the weather is nice. This is a huge hangout spot for locals, not just drama fans.' }
+  { title: 'Step 1: Get to Suwon and "Mong Ted"', description: 'Take the subway (Line 1 or Suin-Bundang Line) to **Suwon Station**. From there, hop on a bus (lots of options like 11, 13, or 35) to the **Hwaseong Haenggung** stop. Walk into the residential alleys of Haenggung-dong. Navigate to **Mong Ted** (Sol\'s House). Pro Tip: Go on a weekday morning if you can. On weekends, the line to take a photo in front of the yellow umbrella spot (if it\'s out) or the blue gate can get long!' },
+  { title: 'Step 2: The Blue Gate (Sun-jae’s House)', description: 'Literally, just turn around 180 degrees from Mong Ted. The house with the blue gate is right there. It is shockingly close—the drama made the street look slightly wider, but in reality, they are practically neighbors. Remember, people live here! Whisper, snap your pics quickly, and do not lean on their gate or doorbell.' },
+  { title: 'Step 3: The Confession Bridge (Suwoncheon Stream)', description: 'Walk towards the Hwahongmun Gate (the big water gate). Just slightly downstream, you will see the stepping stones and the small bridge where the famous confession scene happened. It is especially pretty at sunset. In summer, the stream is lush and green; in winter, it looks exactly like the tragic scenes in the drama. Dress accordingly!' },
+  { title: 'Step 4: Fortress Wall Walk & Yongyeon Pond', description: 'Walk up the stairs to the fortress walls. Head toward **Banghwasuryujeong Pavilion** and look down at **Yongyeon Pond**. This is where Sun-jae taught Sol how to ride a bike. It is gorgeous at night when the walls are lit up. Bring a picnic mat if the weather is nice. This is a huge hangout spot for locals, not just drama fans.' }
 ]} />
 
 <ExpertTip name="Ji-eun Kim" role="K-Drama Location Scout Guide, 5 years experience in Seoul" quote="Most tourists make the mistake of staying only in Seoul. But Suwon's Haenggung-dong is actually the heart of Lovely Runner. If you want that perfect shot, visit Mong Ted around 4:00 PM. The 'Golden Hour' light hits the yellow walls of the cafe beautifully, giving you that cinematic filter look without any editing. Also, don't skip the salt bread there—it's actually delicious." />
@@ -166,7 +166,7 @@ How much will this fandom trip cost you? Here is a quick look at the 2026 prices
 | **Subway to Suwon** | ₩3,000 | Budget | Using the subway/bus combo (approx 1.5 hours). |
 | **Amusement Park** | ₩35,000 | Mid | Ferris Wheel ride + snacks + roundtrip bus from Seoul. |
 
-<InfoBox title="Warnings and Tips" text="
+<InfoBox type="warning" title="Warnings and Tips"  >
 **Combine with 'Our Beloved Summer'**: If you're a multi-fandom stan, you should know that the same Haenggung-dong neighborhood was used for *Our Beloved Summer* (Yeon-su's house). You can knock out two top-tier drama locations in one afternoon!
 
 **The 'Video Rental Shop' isn't real.** In the drama, the ground floor of Sol's house is a video rental shop. In real life, Mong Ted is a cafe, and the layout is different. Don't walk in asking to rent a DVD—you'll just confuse the baristas!
@@ -175,7 +175,7 @@ How much will this fandom trip cost you? Here is a quick look at the 2026 prices
 1. **Data is Life:** Get a **USIM or eSIM** (LG U+ or KT are reliable) at Incheon Airport immediately upon arrival. You need a Korean number (usually starts with 010) for some restaurant waiting lists (CatchTable).
 2. **Payment:** You don't need a Korean bank account. Get a **WOWPASS** card at the airport or major subway stations. It acts like a debit card you can load with foreign currency, and it doubles as your T-Money transit card.
 3. **Taxi App:** Download **Kakao T**. You *can* use it without a Korean credit card by selecting 'Pay to Driver' and paying with cash or your WOWPASS.
-" />
+</InfoBox>
 
 ## FAQ
 

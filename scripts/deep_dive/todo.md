@@ -98,24 +98,22 @@
 106. [L] KakaoMetro travel time calculation  | done  | RIC  | 2026-02-25
 107. [F] Tea Houses in Insadong  | done  | RIC  | 2026-02-25
 111. [K] Palace Starlight Night tours  | done  | RIC  | 2026-02-27
-112. [L] KTX and SRX booking tips  | failed  |   | 2026-02-27  | research failed: ❌ 최대 대기 시간 초과 (총 103분)
 113. [F] Seasonal soups: Samgyetang vs. Yukgaejan  | done  | RIC  | 2026-02-27
 114. [S] K-Beauty souvenirs: masks vs. serums  | done  | RIC  | 2026-02-27
-115. [M] 2026 Vision: 700,000 medical patients  | failed  |   | 2026-02-27  | research failed: ❌ 리서치 실패: cancelled
 116. [T] Korea Grand Sale 2026  | done  | RIC  | 2026-02-28
 117. [K] K-drama convenience store dinners  | done  | RIC  | 2026-02-28
 118. [L] Korean trash bags: Si-rip guide  | done  | RIC  | 2026-02-28
 119. [F] Mart Attack: Lotte Mart snacks  | done  | RIC  | 2026-02-28
-120. [S] Indie fashion in Musinsa Standard  | failed  | RI  | 2026-02-28  | mdx conversion failed
-121. [M] Gangnam vs. Daegu Dermatology prices
-122. [T] Managing weak KRW exchange rate
-123. [K] Saju vs. Modern Psychology
-124. [L] 1330 for medical translation
-125. [F] Makgeolli brewery tastings
-126. [S] English Personal Color in Gangnam
-127. [M] Same-day dental implants
-128. [T] Taba Taxi and k.ride
-129. [K] 2026 Year of the Red Horse
+120. [S] Indie fashion in Musinsa Standard  | done  | RIC  | 2026-03-11
+121. [M] Gangnam vs. Daegu Dermatology prices  | done  | RIC  | 2026-03-11
+122. [T] Managing weak KRW exchange rate  | done  | RIC  | 2026-03-11
+123. [K] Saju vs. Modern Psychology  | done  | RIC  | 2026-03-11
+124. [L] 1330 for medical translation  | done  | RIC  | 2026-03-11
+125. [F] Makgeolli brewery tastings  | done  | RIC  | 2026-03-11
+126. [S] English Personal Color in Gangnam  | done  | RIC  | 2026-03-11
+127. [M] Same-day dental implants  | done  | RIC  | 2026-03-11
+128. [T] Taba Taxi and k.ride  | done  | RIC  | 2026-03-11
+129. [K] 2026 Year of the Red Horse  | done  | RIC  | 2026-03-11
 130. [L] CatchTable Global reservations
 131. [F] Korean BBQ by province: Jeju vs. Hanu
 132. [S] Ader Error Flagship Store
