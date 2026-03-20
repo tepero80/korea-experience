@@ -114,11 +114,11 @@
 127. [M] Same-day dental implants  | done  | RIC  | 2026-03-11
 128. [T] Taba Taxi and k.ride  | done  | RIC  | 2026-03-11
 129. [K] 2026 Year of the Red Horse  | done  | RIC  | 2026-03-11
-130. [L] CatchTable Global reservations
-131. [F] Korean BBQ by province: Jeju vs. Hanu
-132. [S] Ader Error Flagship Store
-133. [M] Recovery in a Hanok
-134. [T] Top 10 apps before flying
+130. [L] CatchTable Global reservations  | done  | RIC  | 2026-03-19
+131. [F] Korean BBQ by province: Jeju vs. Hanu  | done  | RIC  | 2026-03-19
+132. [S] Ader Error Flagship Store  | done  | RIC  | 2026-03-19
+133. [M] Recovery in a Hanok  | done  | RIC  | 2026-03-19
+134. [T] Top 10 apps before flying  | done  | RIC  | 2026-03-19
 135. [K] Culinary Class Wars 2 restaurants
 136. [L] Topping up T-money with cash
 137. [F] Naengmyeon styles across Seoul
