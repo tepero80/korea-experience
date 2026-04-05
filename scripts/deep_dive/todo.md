@@ -119,12 +119,12 @@
 132. [S] Ader Error Flagship Store  | done  | RIC  | 2026-03-19
 133. [M] Recovery in a Hanok  | done  | RIC  | 2026-03-19
 134. [T] Top 10 apps before flying  | done  | RIC  | 2026-03-19
-135. [K] Culinary Class Wars 2 restaurants
-136. [L] Topping up T-money with cash
-137. [F] Naengmyeon styles across Seoul
-138. [S] Custom Name Stamps (Dojang)
-139. [M] Scalp and Hair Loss treatments
-140. [T] Safety for women travelers
+135. [K] Culinary Class Wars 2 restaurants  | done  | RIC  | 2026-04-05
+136. [L] Topping up T-money with cash  | done  | RIC  | 2026-04-05
+137. [F] Naengmyeon styles across Seoul  | done  | RIC  | 2026-04-05
+138. [S] Custom Name Stamps (Dojang)  | done  | RIC  | 2026-04-05
+139. [M] Scalp and Hair Loss treatments  | done  | RIC  | 2026-04-05
+140. [T] Safety for women travelers  | done  | RIC  | 2026-04-05
 141. [K] Jeong culture in markets
 142. [L] Hidden coffee shops with fast Wi-Fi
 143. [F] Korean Dessert Trends

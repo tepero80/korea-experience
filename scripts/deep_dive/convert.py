@@ -152,6 +152,12 @@ def sanitize_mdx(content: str) -> tuple[str, list[str]]:
         content = content[1:]
         fixes.append('Removed UTF-8 BOM')
 
+    # ── 리서치 인용 태그 제거 ([cite: 1, 2, 3] 등) ──
+    cite_count = len(re.findall(r'\s*\[cite:\s*[\d,\s]+\]', content))
+    if cite_count:
+        content = re.sub(r'\s*\[cite:\s*[\d,\s]+\]', '', content)
+        fixes.append(f'Removed {cite_count} [cite:] research tags')
+
     # ── Frontmatter 정규화 ──
     # 0. 콜론 뒤 공백 정규화: title:"..." → title: "..."
     for _field in ('title', 'excerpt', 'category', 'author'):
