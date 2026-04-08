@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'What Job Would You Have in Korea? - Career Quiz',
     description: 'Take our fun quiz to discover your perfect Korean career! From K-pop idol to Samsung engineer. 16 detailed job results.',
-    url: 'https://www.koreaexperience.com/tools/korea-job-quiz',
+    url: 'https://koreaexperience.com/tools/korea-job-quiz',
     siteName: 'Korea Experience',
     type: 'website',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     images: ['/tools/korea-job-quiz/opengraph-image'],
   },
   alternates: {
-    canonical: 'https://www.koreaexperience.com/tools/korea-job-quiz',
+    canonical: 'https://koreaexperience.com/tools/korea-job-quiz',
   },
 };
 

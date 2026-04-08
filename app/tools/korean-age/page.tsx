@@ -45,30 +45,30 @@ export default function KoreanAgePage() {
   const handleShareTwitter = () => {
     if (!result) return;
     const text = encodeURIComponent(generateShareText(result));
-    const url = encodeURIComponent('https://www.koreaexperience.com/tools/korean-age');
+    const url = encodeURIComponent('https://koreaexperience.com/tools/korean-age');
     window.open(`https://twitter.com/intent/tweet?text=${text}&url=${url}`, '_blank');
   };
 
   const handleShareFacebook = () => {
-    const url = encodeURIComponent('https://www.koreaexperience.com/tools/korean-age');
+    const url = encodeURIComponent('https://koreaexperience.com/tools/korean-age');
     window.open(`https://www.facebook.com/sharer/sharer.php?u=${url}`, '_blank');
   };
 
   const handleShareInstagram = () => {
     if (!result) return;
-    const text = generateShareText(result) + ' https://www.koreaexperience.com/tools/korean-age';
+    const text = generateShareText(result) + ' https://koreaexperience.com/tools/korean-age';
     navigator.clipboard.writeText(text);
     alert('✅ Copied! Open Instagram and paste to share 📸');
   };
 
   const handleShareThreads = () => {
     if (!result) return;
-    const text = encodeURIComponent(generateShareText(result) + ' https://www.koreaexperience.com/tools/korean-age');
+    const text = encodeURIComponent(generateShareText(result) + ' https://koreaexperience.com/tools/korean-age');
     window.open(`https://threads.net/intent/post?text=${text}`, '_blank');
   };
 
   const handleCopyLink = () => {
-    navigator.clipboard.writeText('https://www.koreaexperience.com/tools/korean-age');
+    navigator.clipboard.writeText('https://koreaexperience.com/tools/korean-age');
     alert('✅ Link copied to clipboard!');
   };
 

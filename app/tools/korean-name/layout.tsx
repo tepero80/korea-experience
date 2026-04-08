@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Korean Name Generator - Get Your Authentic Korean Name',
     description: 'Generate your perfect Korean name based on your English name! Choose from male, female, or unisex options with cultural meanings.',
-    url: 'https://www.koreaexperience.com/tools/korean-name',
+    url: 'https://koreaexperience.com/tools/korean-name',
     siteName: 'Korea Experience',
     type: 'website',
     images: [
@@ -39,7 +39,7 @@ export const metadata: Metadata = {
     images: ['/tools/korean-name/opengraph-image'],
   },
   alternates: {
-    canonical: 'https://www.koreaexperience.com/tools/korean-name',
+    canonical: 'https://koreaexperience.com/tools/korean-name',
   },
 };
 

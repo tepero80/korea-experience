@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: 'Korean Couple Name Combiner | Create Your Perfect Nickname 💕',
     description: 'Combine two names to create the perfect couple nickname! Get 5 unique variations in English and Korean.',
     type: 'website',
-    url: 'https://www.koreaexperience.com/tools/couple-name',
+    url: 'https://koreaexperience.com/tools/couple-name',
     siteName: 'Korea Experience',
     locale: 'en_US',
     images: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     creator: '@koreaexperience',
   },
   alternates: {
-    canonical: 'https://www.koreaexperience.com/tools/couple-name',
+    canonical: 'https://koreaexperience.com/tools/couple-name',
   },
   authors: [{ name: 'Korea Experience' }],
   creator: 'Korea Experience',

@@ -44,27 +44,27 @@ export default function KoreanZodiacFortunePage() {
 
   const handleShareTwitter = () => {
     const text = encodeURIComponent(shareText);
-    const url = encodeURIComponent('https://www.koreaexperience.com/tools/korean-zodiac-fortune');
+    const url = encodeURIComponent('https://koreaexperience.com/tools/korean-zodiac-fortune');
     window.open(`https://twitter.com/intent/tweet?text=${text}&url=${url}`, '_blank');
   };
 
   const handleShareFacebook = () => {
-    const url = encodeURIComponent('https://www.koreaexperience.com/tools/korean-zodiac-fortune');
+    const url = encodeURIComponent('https://koreaexperience.com/tools/korean-zodiac-fortune');
     window.open(`https://www.facebook.com/sharer/sharer.php?u=${url}`, '_blank');
   };
 
   const handleShareInstagram = () => {
-    navigator.clipboard.writeText(shareText + ' https://www.koreaexperience.com/tools/korean-zodiac-fortune');
+    navigator.clipboard.writeText(shareText + ' https://koreaexperience.com/tools/korean-zodiac-fortune');
     alert('✅ Copied! Open Instagram and paste to share 📸');
   };
 
   const handleShareThreads = () => {
-    const text = encodeURIComponent(shareText + ' https://www.koreaexperience.com/tools/korean-zodiac-fortune');
+    const text = encodeURIComponent(shareText + ' https://koreaexperience.com/tools/korean-zodiac-fortune');
     window.open(`https://threads.net/intent/post?text=${text}`, '_blank');
   };
 
   const handleCopyLink = () => {
-    navigator.clipboard.writeText('https://www.koreaexperience.com/tools/korean-zodiac-fortune');
+    navigator.clipboard.writeText('https://koreaexperience.com/tools/korean-zodiac-fortune');
     alert('✅ Link copied to clipboard!');
   };
 

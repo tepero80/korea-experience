@@ -49,7 +49,7 @@ export default function KoreanNameGeneratorPage() {
   const shareText = selectedName 
     ? `My Korean name is ${selectedName.fullName.korean} (${selectedName.fullName.romanized})! Generate yours at` 
     : '';
-  const shareUrl = 'https://www.koreaexperience.com/tools/korean-name';
+  const shareUrl = 'https://koreaexperience.com/tools/korean-name';
   
   const handleShareTwitter = () => {
     if (!selectedName) return;

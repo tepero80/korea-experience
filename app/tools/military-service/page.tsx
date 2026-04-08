@@ -34,7 +34,7 @@ export default function KoreanMilitaryServicePage() {
   };
 
   const handleShare = (platform: string) => {
-    const url = 'https://www.koreaexperience.com/tools/military-service';
+    const url = 'https://koreaexperience.com/tools/military-service';
     const text = result 
       ? `I checked my Korean military service requirements! Service Type: ${result.serviceType}, Duration: ${result.duration}. Check yours at Korea Experience! 🇰🇷`
       : 'Calculate your Korean military service requirements at Korea Experience! 🇰🇷';
@@ -55,7 +55,7 @@ export default function KoreanMilitaryServicePage() {
   };
 
   const handleCopyLink = () => {
-    navigator.clipboard.writeText('https://www.koreaexperience.com/tools/military-service');
+    navigator.clipboard.writeText('https://koreaexperience.com/tools/military-service');
     alert('Link copied to clipboard!');
   };
 

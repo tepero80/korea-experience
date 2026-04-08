@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: 'Guess Korean Food Photo Quiz | Test Your Knowledge 🍜',
     description: 'Can you identify these Korean dishes? Test your K-food knowledge with our fun interactive quiz!',
     type: 'website',
-    url: 'https://www.koreaexperience.com/tools/guess-korean-food',
+    url: 'https://koreaexperience.com/tools/guess-korean-food',
     siteName: 'Korea Experience',
     locale: 'en_US',
     images: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     creator: '@koreaexperience',
   },
   alternates: {
-    canonical: 'https://www.koreaexperience.com/tools/guess-korean-food',
+    canonical: 'https://koreaexperience.com/tools/guess-korean-food',
   },
   authors: [{ name: 'Korea Experience' }],
   creator: 'Korea Experience',

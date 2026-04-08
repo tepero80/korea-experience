@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: 'Korean Zodiac Fortune Today | Daily Horoscope 🔮',
     description: 'Check your daily fortune based on Korean zodiac! Love, wealth, health & career insights. Get your lucky color & number! Updated every day! ✨',
     type: 'website',
-    url: 'https://www.koreaexperience.com/tools/korean-zodiac-fortune',
+    url: 'https://koreaexperience.com/tools/korean-zodiac-fortune',
     siteName: 'Korea Experience',
     locale: 'en_US',
     images: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     creator: '@koreaexperience',
   },
   alternates: {
-    canonical: 'https://www.koreaexperience.com/tools/korean-zodiac-fortune',
+    canonical: 'https://koreaexperience.com/tools/korean-zodiac-fortune',
   },
   authors: [{ name: 'Korea Experience' }],
   creator: 'Korea Experience',

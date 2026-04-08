@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: 'Korean Beauty Routine Quiz | Find Your Perfect K-Beauty ✨',
     description: 'Take our quiz to discover your skin type and get personalized Korean skincare recommendations!',
     type: 'website',
-    url: 'https://www.koreaexperience.com/tools/korean-beauty-quiz',
+    url: 'https://koreaexperience.com/tools/korean-beauty-quiz',
     siteName: 'Korea Experience',
     locale: 'en_US',
     images: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     creator: '@koreaexperience',
   },
   alternates: {
-    canonical: 'https://www.koreaexperience.com/tools/korean-beauty-quiz',
+    canonical: 'https://koreaexperience.com/tools/korean-beauty-quiz',
   },
   authors: [{ name: 'Korea Experience' }],
   creator: 'Korea Experience',

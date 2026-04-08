@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: 'Korean Military Service Calculator | Check Your Requirements 🪖',
     description: 'Calculate your Korean military service requirements. Find out service duration, branch options, and important deadlines.',
     type: 'website',
-    url: 'https://www.koreaexperience.com/tools/military-service',
+    url: 'https://koreaexperience.com/tools/military-service',
     siteName: 'Korea Experience',
     locale: 'en_US',
     images: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     creator: '@koreaexperience',
   },
   alternates: {
-    canonical: 'https://www.koreaexperience.com/tools/military-service',
+    canonical: 'https://koreaexperience.com/tools/military-service',
   },
   authors: [{ name: 'Korea Experience' }],
   creator: 'Korea Experience',

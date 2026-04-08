@@ -88,7 +88,7 @@ export default function GuessKoreanFoodPage() {
   };
 
   const handleShare = (platform: string) => {
-    const url = 'https://www.koreaexperience.com/tools/guess-korean-food';
+    const url = 'https://koreaexperience.com/tools/guess-korean-food';
     const text = gameResult 
       ? `I scored ${gameResult.score}/${gameResult.totalQuestions} (${gameResult.percentage}%) on the Guess Korean Food Quiz! ${gameResult.rankEmoji} ${gameResult.rank}. Can you beat my score? 🇰🇷🍜`
       : 'Test your Korean food knowledge! Can you guess these Korean dishes? 🇰🇷🍜';
@@ -109,7 +109,7 @@ export default function GuessKoreanFoodPage() {
   };
 
   const handleCopyLink = () => {
-    navigator.clipboard.writeText('https://www.koreaexperience.com/tools/guess-korean-food');
+    navigator.clipboard.writeText('https://koreaexperience.com/tools/guess-korean-food');
     alert('Link copied to clipboard!');
   };
 

@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: 'Korean Age Calculator - Find Your Korean Age & Zodiac Sign',
     description: 'Calculate your Korean age instantly! Discover your Chinese zodiac sign (띠) with personality traits and compatibility.',
-    url: 'https://www.koreaexperience.com/tools/korean-age',
+    url: 'https://koreaexperience.com/tools/korean-age',
     siteName: 'Korea Experience',
     type: 'website',
     images: [
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     images: ['/tools/korean-age/opengraph-image'],
   },
   alternates: {
-    canonical: 'https://www.koreaexperience.com/tools/korean-age',
+    canonical: 'https://koreaexperience.com/tools/korean-age',
   },
 };
 

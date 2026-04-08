@@ -40,7 +40,7 @@ export default function KoreanBeautyQuizPage() {
   };
 
   const handleShare = (platform: string) => {
-    const url = 'https://www.koreaexperience.com/tools/korean-beauty-quiz';
+    const url = 'https://koreaexperience.com/tools/korean-beauty-quiz';
     const text = result 
       ? `I discovered my skin type: ${result.skinType}! Take the Korean Beauty Routine Quiz at Korea Experience! 🇰🇷✨`
       : 'Take the Korean Beauty Routine Quiz to find your perfect K-beauty routine! 🇰🇷✨';
@@ -61,7 +61,7 @@ export default function KoreanBeautyQuizPage() {
   };
 
   const handleCopyLink = () => {
-    navigator.clipboard.writeText('https://www.koreaexperience.com/tools/korean-beauty-quiz');
+    navigator.clipboard.writeText('https://koreaexperience.com/tools/korean-beauty-quiz');
     alert('Link copied to clipboard!');
   };
 

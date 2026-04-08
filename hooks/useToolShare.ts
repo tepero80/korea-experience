@@ -20,7 +20,7 @@ export function useToolShare({
   shareText, 
   result 
 }: UseToolShareProps): UseToolShareReturn {
-  const baseUrl = 'https://www.koreaexperience.com';
+  const baseUrl = 'https://koreaexperience.com';
   const toolUrl = `${baseUrl}/tools/${toolSlug}`;
   
   const getText = useCallback(() => {

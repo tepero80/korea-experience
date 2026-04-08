@@ -44,7 +44,7 @@ export default function KDramaRomanceTropePage() {
     ? `My K-Drama romance trope is: ${result.name} (${result.nameKo})! ${result.emoji} ${result.tagline}`
     : '';
 
-  const currentUrl = typeof window !== 'undefined' ? window.location.href : 'https://www.koreaexperience.com/tools/kdrama-romance-trope';
+  const currentUrl = typeof window !== 'undefined' ? window.location.href : 'https://koreaexperience.com/tools/kdrama-romance-trope';
 
   const handleDownloadImage = () => {
     if (!result) return;

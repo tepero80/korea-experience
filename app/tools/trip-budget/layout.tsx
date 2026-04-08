@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: 'Korea Trip Budget Calculator - Plan Your Perfect Korea Vacation',
     description: 'Calculate your Korea trip budget with our interactive tool. Get detailed cost estimates for accommodation, food, activities, and more.',
     type: 'website',
-    url: 'https://www.koreaexperience.com/tools/trip-budget',
+    url: 'https://koreaexperience.com/tools/trip-budget',
     siteName: 'Korea Experience',
     images: [
       {
@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     images: ['/tools/trip-budget/opengraph-image'],
   },
   alternates: {
-    canonical: 'https://www.koreaexperience.com/tools/trip-budget',
+    canonical: 'https://koreaexperience.com/tools/trip-budget',
   },
 };
 

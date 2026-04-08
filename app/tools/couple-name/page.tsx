@@ -24,7 +24,7 @@ export default function KoreanCoupleNamePage() {
     alert('Copied to clipboard! 💕');
   };
 
-  const currentUrl = typeof window !== 'undefined' ? window.location.href : 'https://www.koreaexperience.com/tools/couple-name';
+  const currentUrl = typeof window !== 'undefined' ? window.location.href : 'https://koreaexperience.com/tools/couple-name';
 
   const shareText = results.length > 0
     ? `Our couple name is: ${results[0].name} 💕 Create yours!`

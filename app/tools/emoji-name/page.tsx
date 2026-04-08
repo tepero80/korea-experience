@@ -23,7 +23,7 @@ export default function KoreanEmojiNamePage() {
     alert('Copied to clipboard! 📋');
   };
 
-  const currentUrl = typeof window !== 'undefined' ? window.location.href : 'https://www.koreaexperience.com/tools/emoji-name';
+  const currentUrl = typeof window !== 'undefined' ? window.location.href : 'https://koreaexperience.com/tools/emoji-name';
 
   const shareText = result 
     ? `My emoji name is: ${result.emojis} ✨ Create yours!`

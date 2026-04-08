@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: 'Your K-Drama Romance Trope | Which Love Story Matches You? 💕',
     description: 'Discover your perfect K-Drama romance trope! From chaebol romance to enemies-to-lovers, find out which classic Korean drama love story is meant for you!',
     type: 'website',
-    url: 'https://www.koreaexperience.com/tools/kdrama-romance-trope',
+    url: 'https://koreaexperience.com/tools/kdrama-romance-trope',
     siteName: 'Korea Experience',
     locale: 'en_US',
     images: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     creator: '@koreaexperience',
   },
   alternates: {
-    canonical: 'https://www.koreaexperience.com/tools/kdrama-romance-trope',
+    canonical: 'https://koreaexperience.com/tools/kdrama-romance-trope',
   },
   authors: [{ name: 'Korea Experience' }],
   creator: 'Korea Experience',

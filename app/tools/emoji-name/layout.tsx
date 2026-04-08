@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     title: 'Your Korean Emoji Name | Transform Your Name ✨',
     description: 'Turn your name into beautiful emojis! Choose from cute, cool, or elegant styles. Perfect for Instagram bios!',
     type: 'website',
-    url: 'https://www.koreaexperience.com/tools/emoji-name',
+    url: 'https://koreaexperience.com/tools/emoji-name',
     siteName: 'Korea Experience',
     locale: 'en_US',
     images: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     creator: '@koreaexperience',
   },
   alternates: {
-    canonical: 'https://www.koreaexperience.com/tools/emoji-name',
+    canonical: 'https://koreaexperience.com/tools/emoji-name',
   },
   authors: [{ name: 'Korea Experience' }],
   creator: 'Korea Experience',

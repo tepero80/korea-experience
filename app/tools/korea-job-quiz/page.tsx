@@ -48,30 +48,30 @@ export default function KoreaJobQuizPage() {
   const handleShareTwitter = () => {
     if (!result) return;
     const text = encodeURIComponent(generateShareText(result));
-    const url = encodeURIComponent('https://www.koreaexperience.com/tools/korea-job-quiz');
+    const url = encodeURIComponent('https://koreaexperience.com/tools/korea-job-quiz');
     window.open(`https://twitter.com/intent/tweet?text=${text}&url=${url}`, '_blank');
   };
 
   const handleShareFacebook = () => {
-    const url = encodeURIComponent('https://www.koreaexperience.com/tools/korea-job-quiz');
+    const url = encodeURIComponent('https://koreaexperience.com/tools/korea-job-quiz');
     window.open(`https://www.facebook.com/sharer/sharer.php?u=${url}`, '_blank');
   };
 
   const handleShareInstagram = () => {
     if (!result) return;
-    const text = generateShareText(result) + ' https://www.koreaexperience.com/tools/korea-job-quiz';
+    const text = generateShareText(result) + ' https://koreaexperience.com/tools/korea-job-quiz';
     navigator.clipboard.writeText(text);
     alert('✅ Copied! Open Instagram and paste to share 📸');
   };
 
   const handleShareThreads = () => {
     if (!result) return;
-    const text = encodeURIComponent(generateShareText(result) + ' https://www.koreaexperience.com/tools/korea-job-quiz');
+    const text = encodeURIComponent(generateShareText(result) + ' https://koreaexperience.com/tools/korea-job-quiz');
     window.open(`https://threads.net/intent/post?text=${text}`, '_blank');
   };
 
   const handleCopyLink = () => {
-    navigator.clipboard.writeText('https://www.koreaexperience.com/tools/korea-job-quiz');
+    navigator.clipboard.writeText('https://koreaexperience.com/tools/korea-job-quiz');
     alert('✅ Link copied to clipboard!');
   };
 

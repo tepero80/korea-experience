@@ -17,7 +17,7 @@ export function generateToolMetadata({
   keywords,
   emoji
 }: ToolMetadataConfig): Metadata {
-  const baseUrl = 'https://www.koreaexperience.com';
+  const baseUrl = 'https://koreaexperience.com';
   const toolUrl = `${baseUrl}/tools/${slug}`;
   
   return {
