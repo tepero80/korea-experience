@@ -12,6 +12,7 @@ export const size = {
   width: 1200,
   height: 630,
 };
+// contentType is set dynamically per response; this is the fallback for generated images
 export const contentType = 'image/png';
 
 export async function generateStaticParams() {
