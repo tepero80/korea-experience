@@ -338,6 +338,63 @@ def sanitize_mdx(content: str) -> tuple[str, list[str]]:
         return f"{attr}={{["
     content = re.sub(array_pat, fix_array, content)
 
+    # ── JSX prop 내 escaped apostrophe (\') 수정 ──
+    # single-quoted JSX 속성 안의 \' → double-quoted 속성으로 전환
+    # e.g. name='Korea\'s best' → name="Korea's best"
+    def fix_escaped_apostrophe_in_jsx(content):
+        count = 0
+        # JSX 태그 안 single-quoted 속성에서 \' 포함된 것 찾기
+        # 패턴: attr='...\\'....'  →  attr="...'...."
+        tag_pat = re.compile(r"(<[A-Z]\w+\b[^>]*/>|<[A-Z]\w+\b[^>]*>)", re.DOTALL)
+        def fix_tag(m):
+            nonlocal count
+            tag = m.group(0)
+            if "\\'" not in tag:
+                return tag
+            # single-quoted prop 값 중 \' 포함된 것을 double-quoted로 전환
+            def fix_prop(pm):
+                nonlocal count
+                attr_name = pm.group(1)
+                val = pm.group(2)
+                if "\\'" in val:
+                    count += 1
+                    val = val.replace("\\'", "'")
+                    # 값 안의 double-quote 이스케이프
+                    val = val.replace('"', '&quot;')
+                    return f'{attr_name}="{val}"'
+                return pm.group(0)
+            tag = re.sub(r"(\w+)='((?:[^'\\]|\\.)*?)'", fix_prop, tag)
+            return tag
+        content = tag_pat.sub(fix_tag, content)
+        return content, count
+
+    content, esc_count = fix_escaped_apostrophe_in_jsx(content)
+    if esc_count:
+        fixes.append(f"JSX: fixed {esc_count} escaped apostrophe(s) in single-quoted props")
+
+    # Also fix \' inside JS object strings within items={{[...]}}
+    # e.g. description: 'Korea\'s first...' → description: "Korea's first..."
+    def fix_escaped_apostrophe_in_js_objects(content):
+        count = 0
+        def fix_js_string(m):
+            nonlocal count
+            prefix = m.group(1)
+            val = m.group(2)
+            count += 1
+            val = val.replace("\\'", "'")
+            val = val.replace('"', '\\"')
+            return f'{prefix}"{val}"'
+        # Match: key: '...\'...' patterns inside JSX expressions
+        content = re.sub(
+            r"(\b\w+:\s*)'((?:[^'\\]|\\.)*?\\'(?:[^'\\]|\\.)*?)'",
+            fix_js_string, content
+        )
+        return content, count
+
+    content, js_esc_count = fix_escaped_apostrophe_in_js_objects(content)
+    if js_esc_count:
+        fixes.append(f"JS objects: fixed {js_esc_count} escaped apostrophe(s) in single-quoted strings")
+
     # 잘못된 닫는 태그 수정
     def fix_closing_tag(m):
         tag = m.group(1)

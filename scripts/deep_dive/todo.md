@@ -125,12 +125,12 @@
 138. [S] Custom Name Stamps (Dojang)  | done  | RIC  | 2026-04-05
 139. [M] Scalp and Hair Loss treatments  | done  | RIC  | 2026-04-05
 140. [T] Safety for women travelers  | done  | RIC  | 2026-04-05
-141. [K] Jeong culture in markets
-142. [L] Hidden coffee shops with fast Wi-Fi
-143. [F] Korean Dessert Trends
-144. [S] The Hyundai Seoul photo spots
-145. [M] Health Check-ups: SNU vs. Severance
-146. [T] Dior Seongsu vs. Traditional Market
+141. [K] Jeong culture in markets  | done  | RIC  | 2026-04-15
+142. [L] Hidden coffee shops with fast Wi-Fi  | done  | RIC  | 2026-04-15
+143. [F] Korean Dessert Trends  | done  | RIC  | 2026-04-15
+144. [S] The Hyundai Seoul photo spots  | done  | RIC  | 2026-04-15
+145. [M] Health Check-ups: SNU vs. Severance  | done  | RIC  | 2026-04-15
+146. [T] Dior Seongsu vs. Traditional Market  | done  | RIC  | 2026-04-15
 147. [K] Hanbok modern styling tips
 148. [L] Hon-bap friendly spots
 149. [F] Sinsun seafood in Busan Yeongdo
