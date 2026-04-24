@@ -1,9 +1,41 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { imageSize } from 'image-size';
 
 const postsDirectory = path.join(process.cwd(), 'content/posts');
 const deepDiveDirectory = path.join(process.cwd(), 'content/deep-dive');
+const publicDir = path.join(process.cwd(), 'public');
+
+// Cache image dimensions at build time to avoid repeated disk reads
+const dimensionCache = new Map<string, { width: number; height: number } | null>();
+
+export function getImageDimensions(imagePath?: string): { width: number; height: number } | null {
+  if (!imagePath) return null;
+  if (dimensionCache.has(imagePath)) return dimensionCache.get(imagePath)!;
+
+  try {
+    // imagePath is like '/images/foo.webp' — strip leading slash
+    const rel = imagePath.startsWith('/') ? imagePath.slice(1) : imagePath;
+    const abs = path.join(publicDir, rel);
+    if (!fs.existsSync(abs)) {
+      dimensionCache.set(imagePath, null);
+      return null;
+    }
+    const buf = fs.readFileSync(abs);
+    const { width, height } = imageSize(buf);
+    if (!width || !height) {
+      dimensionCache.set(imagePath, null);
+      return null;
+    }
+    const dims = { width, height };
+    dimensionCache.set(imagePath, dims);
+    return dims;
+  } catch {
+    dimensionCache.set(imagePath, null);
+    return null;
+  }
+}
 
 export interface Post {
   slug: string;

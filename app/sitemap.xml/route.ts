@@ -1,5 +1,14 @@
-import { getAllPosts } from '@/lib/posts';
+import { getAllPosts, getImageDimensions } from '@/lib/posts';
 import { SITE_CONFIG, ALL_TOOLS, CATEGORY_HUBS } from '@/lib/constants';
+
+function xmlEscape(s: string): string {
+  return s
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
 
 export const dynamic = 'force-static';
 
@@ -84,10 +93,14 @@ export async function GET() {
     }
 
     const postDate = new Date(post.date).toISOString().split('T')[0];
-    const imageUrl = post.image
+    const dims = getImageDimensions(post.image);
+    const imageUrl = post.image && dims
       ? `${baseUrl}${post.image}`
       : `${baseUrl}/blog/${post.slug}/opengraph-image`;
-    const imageTitle = post.title.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+    const imageTitle = xmlEscape(post.title);
+    const captionTag = post.excerpt
+      ? `\n      <image:caption>${xmlEscape(post.excerpt)}</image:caption>`
+      : '';
 
     xml += `
   <url>
@@ -97,7 +110,7 @@ export async function GET() {
     <priority>${priority}</priority>
     <image:image>
       <image:loc>${imageUrl}</image:loc>
-      <image:title>${imageTitle}</image:title>
+      <image:title>${imageTitle}</image:title>${captionTag}
     </image:image>
   </url>`;
   }

@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getPostBySlug, getAllPosts, getRelatedPosts } from '@/lib/posts';
+import { getPostBySlug, getAllPosts, getRelatedPosts, getImageDimensions } from '@/lib/posts';
 import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema } from '@/lib/schema';
 import { SITE_CONFIG, CATEGORY_NAME_TO_SLUG, CATEGORY_HUBS } from '@/lib/constants';
 import MDXContent from '@/components/MDXContent';
@@ -30,6 +30,36 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
 
   const url = `${SITE_CONFIG.url}/blog/${slug}`;
 
+  // Prefer the real cover image (Nano Banana output) over the runtime-generated
+  // fallback — Google uses og:image as a strong signal for image indexing.
+  const coverDims = getImageDimensions(post.image);
+  const coverUrl = post.image ? `${SITE_CONFIG.url}${post.image}` : undefined;
+  const ogImages = coverUrl && coverDims
+    ? [
+        {
+          url: coverUrl,
+          width: coverDims.width,
+          height: coverDims.height,
+          alt: `${post.title} — cover image`,
+        },
+        // Keep the runtime OG as a secondary fallback for platforms that prefer 1200x630
+        {
+          url: `/blog/${slug}/opengraph-image`,
+          width: 1200,
+          height: 630,
+          alt: post.title,
+        },
+      ]
+    : [
+        {
+          url: `/blog/${slug}/opengraph-image`,
+          width: 1200,
+          height: 630,
+          alt: post.title,
+        },
+      ];
+  const twitterImages = coverUrl ? [coverUrl, `/blog/${slug}/opengraph-image`] : [`/blog/${slug}/opengraph-image`];
+
   return {
     title: {
       absolute: post.title,
@@ -46,21 +76,14 @@ export async function generateMetadata({ params }: { params: Params }): Promise<
       url: url,
       siteName: SITE_CONFIG.name,
       locale: 'en_US',
-      images: [
-        {
-          url: `/blog/${slug}/opengraph-image`,
-          width: 1200,
-          height: 630,
-          alt: post.title,
-        },
-      ],
+      images: ogImages,
     },
     twitter: {
       card: 'summary_large_image',
       title: post.title,
       description: post.excerpt,
       creator: SITE_CONFIG.social.twitter,
-      images: [`/blog/${slug}/opengraph-image`],
+      images: twitterImages,
     },
     alternates: {
       canonical: url,
@@ -76,7 +99,8 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     notFound();
   }
 
-  // Generate JSON-LD schema
+  // Generate JSON-LD schema (use real image dimensions when available)
+  const schemaDims = getImageDimensions(post.image);
   const articleSchema = generateArticleSchema({
     title: post.title,
     description: post.excerpt,
@@ -88,6 +112,8 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     imageUrl: post.image
       ? `${SITE_CONFIG.url}${post.image}`
       : `${SITE_CONFIG.url}/blog/${slug}/opengraph-image`,
+    imageWidth: schemaDims?.width,
+    imageHeight: schemaDims?.height,
   });
 
   // Resolve category hub info

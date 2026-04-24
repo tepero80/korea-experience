@@ -9,6 +9,8 @@ interface ArticleSchemaProps {
   category: string;
   url: string;
   imageUrl?: string;
+  imageWidth?: number;
+  imageHeight?: number;
 }
 
 export function generateArticleSchema({
@@ -20,6 +22,8 @@ export function generateArticleSchema({
   category,
   url,
   imageUrl,
+  imageWidth,
+  imageHeight,
 }: ArticleSchemaProps) {
   // Ensure ISO 8601 format for dates
   const publishDate = new Date(datePublished).toISOString();
@@ -54,13 +58,14 @@ export function generateArticleSchema({
     inLanguage: 'en-US',
   };
 
-  // Add image if provided
+  // Add image if provided — use actual dimensions when known so Google
+  // does not discard the schema for mismatched width/height.
   if (imageUrl) {
     schema.image = {
       '@type': 'ImageObject',
       url: imageUrl,
-      width: 1200,
-      height: 630,
+      width: imageWidth ?? 1200,
+      height: imageHeight ?? 630,
     };
   }
 
