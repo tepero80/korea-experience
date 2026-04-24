@@ -29,10 +29,10 @@ load_dotenv(PROJECT_ROOT / ".env.local")
 API_KEY = os.getenv("GEMINI_API_KEY", "")
 
 # ── 모델 ──
-IMAGE_MODEL = "gemini-3-pro-image-preview"      # 이미지 생성 (Nano Banana Pro)
-SCENE_MODEL = "gemini-2.5-flash"                 # Scene description / 커버 요소
-CONVERT_MODEL = "gemini-3-pro-preview"           # MDX 변환
-RESEARCH_AGENT = "deep-research-pro-preview-12-2025"  # Deep Research API
+IMAGE_MODEL = "gemini-3-pro-image-preview"        # 이미지 생성 (Nano Banana Pro)
+SCENE_MODEL = "gemini-2.5-flash"                  # Scene description / 커버 요소 / 링크 추천
+CONVERT_MODEL = "gemini-3.1-pro-preview"          # MDX 변환 (gemini-3-pro-preview는 2026-03-09 종료)
+RESEARCH_AGENT = "deep-research-preview-04-2026"  # Deep Research API (Interactions API)
 
 # ── 타이밍 ──
 RATE_LIMIT_DELAY = 5       # 이미지 생성 간 대기 (초)

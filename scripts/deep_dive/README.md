@@ -163,13 +163,13 @@ MDX 변환 시 관련 포스트를 자동으로 추천하여 내부 링크를 �
 ```
 todo.md (600 topics)
     │
-    ├─[R] Deep Research API (gemini-deep-research)
+    ├─[R] Deep Research API (deep-research-preview-04-2026)
     │     └→ content/deep-dive-drafts/{num}. [{code}] {topic}.txt
     │
     ├─[I] Cover Image (gemini-3-pro-image-preview → Pillow overlay)
     │     └→ public/images/deep-dive/{slug}.webp
     │
-    └─[C] MDX Conversion (gemini-3-pro-preview + 내부 링크 추천)
+    └─[C] MDX Conversion (gemini-3.1-pro-preview + 내부 링크 추천)
           └→ content/deep-dive/{slug}-2026.md
           └→ link-index.json 갱신
 ```
@@ -221,4 +221,5 @@ pip install google-genai python-dotenv Pillow
 `.env.local`에 `GEMINI_API_KEY` 설정 필요.
 
 
-C:\kc\korea-experience\content\deep-dive 폴더에 신규로 추가된 MD파일을 분석해서 문제가 없는지 확인 한 후 문제가 있으면 수정하고, 다시 문제 안생기게 수정하고, 빌드하고, 웹서버 띄우고 문제 없으면 전체 푸쉬해줘
+C:\kc\korea-experience\content\deep-dive 폴더에 신규로 추가된 MD파일을 분석해서 문제가 없는지 확인 한 후 문제가 있으면 수정하고, 다시 문제 안생기게 수정하고, 빌드하고, 웹서버 띄우고 문제 없으면 이미지 포함해서 전체 푸쉬해줘
+
