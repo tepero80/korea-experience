@@ -131,12 +131,12 @@
 144. [S] The Hyundai Seoul photo spots  | done  | RIC  | 2026-04-15
 145. [M] Health Check-ups: SNU vs. Severance  | done  | RIC  | 2026-04-15
 146. [T] Dior Seongsu vs. Traditional Market  | done  | RIC  | 2026-04-15
-147. [K] Hanbok modern styling tips
-148. [L] Hon-bap friendly spots
-149. [F] Sinsun seafood in Busan Yeongdo
-150. [S] Wowpass instant discounts
-151. [M] Stem cell regenerative medicine
-152. [T] 5 Hidden Hanok Villages
+147. [K] Hanbok modern styling tips  | done  | RIC  | 2026-04-24
+148. [L] Hon-bap friendly spots  | done  | RIC  | 2026-04-24
+149. [F] Sinsun seafood in Busan Yeongdo  | done  | RIC  | 2026-04-24
+150. [S] Wowpass instant discounts  | done  | RIC  | 2026-04-24
+151. [M] Stem cell regenerative medicine  | done  | RIC  | 2026-04-24
+152. [T] 5 Hidden Hanok Villages  | done  | RIC  | 2026-04-24
 153. [K] K-Style: Beauty, fashion, lifestyle
 154. [L] Coworking spaces: Yeouido to Hongdae
 155. [F] Chicken and Beer in Hangang parks
