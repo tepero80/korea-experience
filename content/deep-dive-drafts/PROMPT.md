@@ -7,10 +7,18 @@
 ## ⚠️ CRITICAL INSTRUCTIONS (READ CAREFULLY!)
 
 1. **Follow the EXACT format below** - use the EXACT headers shown (## TITLE, ## EXCERPT, etc.)
-2. **Minimum 6,000 words** - aim for 7,000+ words for comprehensive coverage (THIS IS IMPORTANT!)
+2. **Word budget: 6,000–8,000 words (HARD CAP at 8,000)** — DO NOT exceed. Quality over quantity.
 3. **CONVERSATIONAL tone** - Write like you're chatting with a friend over coffee, NOT writing a research paper
 4. **Include ALL sections** - missing sections = incomplete (especially SOURCES!)
 5. **Use markdown tables** - Quick Facts, Timeline, Comparison must be proper markdown tables
+
+### 🎯 EFFICIENCY RULES (critical — reduces bloat without losing value)
+- **NO verbose history**: Timeline table already covers chronology. In the ARTICLE BODY do NOT re-narrate 100+ years of background — 1 short paragraph max.
+- **NO redundant section intros/outros**: Every H2 should deliver information on line 1. Skip "In this section we will explore…" opening.
+- **NO repeating the Comparison Table in prose**: Just reference it ("see table above").
+- **NO padding phrases**: "It is important to note that…", "One must understand…", "In today's world…" — delete these.
+- **Prioritize SPECIFICS**: Every paragraph should contain at least one concrete number, price, name, or address. If a paragraph has none, cut it or replace it.
+- **Citations**: Keep inline citation markers as short as possible. Multiple citations for the same claim → cite once.
 
 ### ❌ DON'T write like this (academic/formal):
 > "The transition into 2026 has marked a definitive shift in how the world views urban mobility, and nowhere is this more evident than in the bustling streets of Seoul."
@@ -26,7 +34,7 @@
 - Start each section with the EXACT header (## TITLE, ## EXCERPT, etc.)
 - Use proper markdown tables (not plain text like "Label | Value")
 - Include the SOURCES section with real URLs
-- Keep word count above 5,000 words
+- Keep word count between 6,000 and 8,000 words (HARD CAP at 8,000 — do NOT exceed)
 
 Your response MUST follow this exact structure:
 
@@ -293,19 +301,19 @@ Recommendation: [1-2 sentences on how to mix the best of both.]
 - Use contractions (don't, won't, it's, you'll)
 
 ### [Section 1: Answer the Main Question First!]
-(500-600 words)
+(400-500 words)
 
 [Start with THE ANSWER in the first sentence. Then explain why. Include 2-3 specific numbers. Write like you're texting a friend who asked you this question.]
 
-### [Section 2: The Background Story]  
-(500-600 words)
+### [Section 2: The Background Story]
+(300-400 words — KEEP SHORT, Timeline table already covers dates)
 
-[How did this situation develop? Make history interesting - tell it like a story, not a textbook. Reference the timeline events but make them engaging.]
+[1-2 paragraphs only. Don't re-narrate history — focus on 1 surprising insight about how we got here.]
 
 ### [Section 3: Breaking Down Your Options]
 (500-600 words)
 
-[Walk through each option from the comparison table. Use real scenarios: "If you're only staying 3 days..." or "For digital nomads who..."]
+[Walk through each option from the comparison table. Use real scenarios: "If you're only staying 3 days..." or "For digital nomads who...". DO NOT repeat the table data — add context only.]
 
 ### [Section 4: The Complete How-To]
 (500-600 words)
@@ -318,7 +326,7 @@ Recommendation: [1-2 sentences on how to mix the best of both.]
 [Edge cases, exceptions, hacks. The "pro tips" section. MUST include the No-ARC/No-Korean-Phone solution prominently. What would a local friend tell you?]
 
 ### Conclusion: Your Action Plan
-(200-250 words)
+(150-200 words)
 
 [Clear, direct recommendation. Tell them exactly what to do in their first 24 hours. End with encouragement.]
 
@@ -341,9 +349,10 @@ Before submitting, verify you have:
 - [ ] Pro tip, Warning, and **No-ARC solution** (CRITICAL!)
 - [ ] 5 FAQs with conversational answers
 - [ ] **5 Sources with actual URLs** (DON'T SKIP THIS!)
-- [ ] Article body (5 sections + conclusion, each 400-600 words)
-- [ ] **Minimum 6,000 words total** (aim for 7,000+)
+- [ ] Article body (5 sections + conclusion)
+- [ ] **Total 6,000–8,000 words (HARD CAP at 8,000)**
 - [ ] **Conversational tone throughout** (not academic!)
+- [ ] **No padding, no redundant section intros/outros, no history re-narration**
 - [ ] Optional: LOCATIONS (if topic involves specific places - clinics, restaurants, venues)
 - [ ] Optional: PRICE TABLE (if comparing prices across tiers)
 - [ ] Optional: KEY STATISTICS (if impressive numbers deserve emphasis)

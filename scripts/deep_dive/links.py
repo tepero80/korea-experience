@@ -82,10 +82,11 @@ def build_index(force: bool = False) -> list[dict]:
     Returns:
         [{"slug", "title", "category", "excerpt", "keywords", "deep_dive"}]
     """
-    # 캐시 체크: 파일이 있고 1시간 이내면 재사용
+    # 캐시 체크: 파일이 있고 24시간 이내면 재사용
+    # (새 글 생성 시 convert.py가 refresh_index()로 수동 갱신하므로 TTL을 길게 가져가도 안전)
     if not force and INDEX_FILE.exists():
         age = time.time() - INDEX_FILE.stat().st_mtime
-        if age < 3600:
+        if age < 86400:
             data = json.loads(INDEX_FILE.read_text(encoding="utf-8"))
             return data
 

@@ -94,8 +94,15 @@ python -m scripts.deep_dive --sanitize
 | `--image-only` | 이미지만 생성 (드래프트 필요) |
 | `--no-convert` | MDX 변환 건너뛰기 (드래프트 + 이미지만) |
 | `--convert-only` | MDX 변환만 실행 (드래프트 필요) |
+| `--force-research` | 기존 드래프트가 있어도 Deep Research를 강제 재실행 (⚠️ 비용 추가 발생) |
 | `--backfill-covers` | 기존 MDX에 커버 이미지 일괄 생성 |
 | `--backfill-limit N` | backfill 최대 N개만 처리 |
+
+### 💰 비용 절감 동작 (기본)
+
+- **드래프트 재사용**: `content/deep-dive-drafts/{num}. [{code}] {topic}.txt`가 존재하면 Deep Research 단계 자동 스킵 (편당 ~$1.5-3 절약). 강제 재실행은 `--force-research` 사용.
+- **링크 인덱스 캐시**: 24시간 유지. 새 글 생성 시 `refresh_index()`로 자동 갱신.
+- **Research 출력 6,000~8,000 단어 상한**: `PROMPT.md`에 명시되어 있어 토큰 사용량이 약 40% 감소 (기존 10K+ 단어 출력 방지).
 
 ### 옵션 조합 예시
 

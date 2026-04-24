@@ -166,7 +166,8 @@ def get_draft_filepath(num: int, items: dict) -> Path:
 # ── 메인 처리 ──
 
 def process_item(num, items, api_key, dry_run=False,
-                 no_image=False, image_only=False, no_convert=False, convert_only=False):
+                 no_image=False, image_only=False, no_convert=False, convert_only=False,
+                 force_research=False):
     """하나의 주제를 처리합니다."""
     if num not in items:
         print(f"❌ #{num}번은 todo.md에 없습니다.")
@@ -227,9 +228,10 @@ def process_item(num, items, api_key, dry_run=False,
             update_status(num, error="image generation failed")
         return result is not None
 
-    # 기존 드래프트 확인
-    if filepath.exists() and filepath.stat().st_size > 500:
-        print(f"⏭️  드래프트 이미 존재 ({filepath.stat().st_size:,} bytes). 리서치 스킵.")
+    # 기존 드래프트 확인 (--force-research는 재사용 무시)
+    if filepath.exists() and filepath.stat().st_size > 500 and not force_research:
+        size_kb = filepath.stat().st_size // 1024
+        print(f"⏭️  드래프트 재사용 ({size_kb}KB). 리서치 API 스킵 → ~$1.5-3 절약.")
         result = filepath.read_text(encoding="utf-8")
         update_status(num, add_step=STEP_RESEARCH)
     else:
@@ -425,6 +427,8 @@ def main():
     pipe.add_argument("--image-only", action="store_true", help="이미지만 생성")
     pipe.add_argument("--no-convert", action="store_true", help="MDX 변환 건너뛰기")
     pipe.add_argument("--convert-only", action="store_true", help="MDX 변환만")
+    pipe.add_argument("--force-research", action="store_true",
+                      help="기존 드래프트가 있어도 Deep Research를 강제 재실행 (비용 추가 발생)")
     pipe.add_argument("--backfill-covers", action="store_true", help="기존 MDX에 커버 일괄 생성")
     pipe.add_argument("--backfill-limit", type=int, default=0, help="backfill 최대 처리 수")
     pipe.add_argument("--sanitize", action="store_true",
@@ -455,6 +459,7 @@ def main():
         dry_run=args.dry_run,
         no_image=args.no_image, image_only=args.image_only,
         no_convert=args.no_convert, convert_only=args.convert_only,
+        force_research=args.force_research,
     )
 
     # ① 특정 번호
