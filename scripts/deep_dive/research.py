@@ -187,10 +187,10 @@ def run_deep_research(prompt: str, api_key: str) -> str:
 def build_flash_research_prompt(topic: str, category: str, focus: str = "") -> str:
     """검색 grounding용으로 범위를 제한한 출처 중심 조사 프롬프트를 만듭니다."""
     focus_line = f"\nSpecific focus: {focus}" if focus else ""
-    return f"""Research this Korea guide topic for an editor: {topic}
+    return f"""Use the Google Search tool now; do not answer from memory. Search for current authoritative evidence for this Korea guide topic: {topic}
 Category: {category}{focus_line}
 
-Use Google Search. Return a compact evidence brief, not a finished article.
+Run multiple targeted web searches and cite the sources in the response using the tool's URL citations. Return a compact evidence brief, not a finished article. If the search tool does not return usable sources, state that clearly.
 Prioritize Korean government/public agencies, official venue/operator pages, and primary sources.
 For every material claim include: claim, exact source URL, source title/publisher, publication or update date if visible, and any uncertainty.
 Include useful first-party facts, practical reader questions, conflicting evidence, and what could not be verified.
@@ -231,7 +231,8 @@ def run_flash_grounded_research(prompt: str, api_key: str,
             continue
         for block in getattr(step, "content", None) or []:
             for annotation in getattr(block, "annotations", None) or []:
-                if getattr(annotation, "type", "") != "url_citation":
+                annotation_type = getattr(annotation, "type", "")
+                if getattr(annotation_type, "value", annotation_type) != "url_citation":
                     continue
                 url = getattr(annotation, "url", "")
                 if not url or url in seen_urls:

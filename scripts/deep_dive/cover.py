@@ -110,7 +110,7 @@ def generate_background_image(scene: str, slug: str) -> Path | None:
             input=prompt,
             response_format={
                 "type": "image",
-                "mime_type": "image/webp",
+                "mime_type": "image/jpeg",
                 "aspect_ratio": "16:9",
                 "image_size": "1K",
             },
@@ -118,14 +118,13 @@ def generate_background_image(scene: str, slug: str) -> Path | None:
 
         IMAGES_DIR.mkdir(parents=True, exist_ok=True)
         raw_path = IMAGES_DIR / f"{slug}-raw.webp"
-
-        for output in interaction.outputs or []:
-            if getattr(output, "type", None) == "image" and getattr(output, "data", None):
-                pil_img = PILImage.open(io.BytesIO(base64.b64decode(output.data)))
-                pil_img.convert("RGB").save(str(raw_path), format="WEBP", quality=90)
-                return raw_path
-
-        return None
+        output_image = getattr(interaction, "output_image", None)
+        image_data = getattr(output_image, "data", None)
+        if not image_data:
+            raise RuntimeError("Image response did not contain output_image.data")
+        pil_img = PILImage.open(io.BytesIO(base64.b64decode(image_data)))
+        pil_img.convert("RGB").save(str(raw_path), format="WEBP", quality=90)
+        return raw_path
     except Exception as e:
         print(f"  ❌ 이미지 생성 실패: {e}")
         return None

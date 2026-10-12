@@ -17,6 +17,9 @@
 /.next/
 /out/
 
+# Gemini cover pipeline intermediates (final covers omit the -raw suffix)
+/public/images/*-raw.webp
+
 # production
 /build
 
