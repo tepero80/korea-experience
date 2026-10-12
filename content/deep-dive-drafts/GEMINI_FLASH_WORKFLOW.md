@@ -32,6 +32,8 @@ python -m pip install -r scripts/deep_dive/requirements.txt
 python -m scripts.deep_dive topics list
 python -m scripts.deep_dive topics list --category T
 python -m scripts.deep_dive topics add --category T --title "Seoul airport transfer options for late arrivals"
+python -m scripts.deep_dive generate --topics-file scripts/deep_dive/topic_batch_2026-10.json --category T --count 5 --publish
+python -m scripts.deep_dive generate --topics-file scripts/deep_dive/topic_batch_2026-10.json --category M --count 5
 python -m scripts.deep_dive generate --topic "Seoul airport transfer options for late arrivals" --category T --dry-run
 python -m scripts.deep_dive generate --topic "Seoul airport transfer options for late arrivals" --category T
 python -m scripts.deep_dive generate --topic "Seoul airport transfer options for late arrivals" --category T --publish
@@ -43,6 +45,7 @@ python -m scripts.deep_dive improve --slug medical-emergencies-1330-vs-119-2026 
 
 - `topics list`: 새로 선별한 66개 주제 아이디어를 카테고리별로 보여 줍니다.
 - `topics add`: 사용자 주제를 검증하고 `todo.md`의 새 번호로 추가합니다.
+- 이번 30개 배치는 [topic_batch_2026-10.json](../../scripts/deep_dive/topic_batch_2026-10.json)에 저장되어 있습니다. 카테고리별 실행은 5개씩 나누며, 의료 주제(M)는 기본적으로 검토 초안에만 저장해야 합니다.
 - 민감한 의료·법률·비자·세금 글을 `--publish`하려면 1차 출처를 확인한 뒤 `--sensitive-reviewed`도 명시해야 합니다. 기존 글의 `--apply` 역시 원문을 직접 확인한 사람이 실행해야 합니다.
 - `generate`: 기본은 `content/deep-dive-drafts/flash-generated/`에 검토용 초안을 만듭니다. `--publish` 전에는 사이트 공개 폴더에 게시하지 않습니다.
 - 가장 안전한 운영은 기본 초안을 먼저 사람이 확인한 뒤 `publish --slug ...`로 승격하는 것입니다. 이 승격은 API를 다시 호출하지 않으며, 이미지 경로가 있으면 파일 존재도 검사합니다.

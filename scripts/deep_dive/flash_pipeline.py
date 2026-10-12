@@ -405,6 +405,7 @@ def build_parser() -> argparse.ArgumentParser:
     generate = commands.add_parser("generate", help="Create a grounded review draft or publish candidate")
     generate.add_argument("--number", "-n", type=int, help="Use a topic number from todo.md")
     generate.add_argument("--topic", help="Use a custom topic directly")
+    generate.add_argument("--topics-file", type=Path, help="JSON list of {code, topic} ideas for a batch")
     generate.add_argument("--category", "-c", choices=sorted(CATEGORY_CODE_MAP), help="Required for --topic")
     generate.add_argument("--count", type=int, default=1, help="How many pending topics to process (maximum 5 per run)")
     generate.add_argument("--publish", action="store_true", help="Write candidate to content/deep-dive after local checks")
@@ -449,7 +450,26 @@ def main(argv: list[str] | None = None) -> int:
 
     if args.command == "generate":
         targets = []
-        if args.topic:
+        if args.topics_file:
+            if args.topic or args.number:
+                raise SystemExit("Use only one of --topics-file, --topic, or --number.")
+            if args.count < 1 or args.count > 5:
+                raise SystemExit("--count must be between 1 and 5.")
+            entries = json.loads(args.topics_file.read_text(encoding="utf-8-sig"))
+            if not isinstance(entries, list):
+                raise SystemExit("--topics-file must contain a JSON array.")
+            targets = [
+                {"number": None, "topic": entry["topic"],
+                 "category": CATEGORY_CODE_MAP[entry["code"].upper()]}
+                for entry in entries
+                if isinstance(entry, dict)
+                and "topic" in entry and "code" in entry
+                and entry["code"].upper() in CATEGORY_CODE_MAP
+                and (not args.category or entry["code"].upper() == args.category)
+            ][:args.count]
+            if not targets:
+                raise SystemExit("No valid topic entries matched the category/count filters.")
+        elif args.topic:
             if not args.category:
                 raise SystemExit("--category is required with --topic")
             targets = [{"number": None, "topic": args.topic, "category": CATEGORY_CODE_MAP[args.category]}]
@@ -469,6 +489,7 @@ def main(argv: list[str] | None = None) -> int:
             if any(item["category"] == "Medical Tourism" or re.search(r"\b(visa|legal|immigration|tax|emergency|medical)\b", item["topic"], re.I) for item in targets):
                 raise SystemExit("Sensitive topics require --sensitive-reviewed after checking primary sources.")
         print(f"Model: {RESEARCH_MODEL}; review model: {REVIEW_MODEL}; image model: {IMAGE_MODEL}")
+        failures = 0
         for item in targets:
             topic = item["topic"]
             category = item["category"]
@@ -481,11 +502,17 @@ def main(argv: list[str] | None = None) -> int:
                 print(f"Existing review draft found: {existing_draft.relative_to(PROJECT_ROOT)}")
                 print(f"Inspect it, then run `python -m scripts.deep_dive publish --slug {slug}`; no repeat API call was made.")
                 continue
+            published_path = DEEP_DIVE_DIR / f"{slug}.md"
+            if args.publish and published_path.exists():
+                print(f"Published article already exists: {published_path.relative_to(PROJECT_ROOT)}; skipping before API calls.")
+                continue
             try:
                 success, _ = _run_topic(
                     topic, category, slug, publish=args.publish,
                     with_image=args.image, review=not args.skip_review,
                 )
+                if not success:
+                    failures += 1
                 if item.get("number") is not None:
                     completed = bool(success and args.publish)
                     _add_queue_status(
@@ -493,10 +520,11 @@ def main(argv: list[str] | None = None) -> int:
                         "draft saved; human review and explicit publish still required" if success and not completed else "",
                     )
             except Exception as exc:
+                failures += 1
                 print(f"Generation failed for {topic}: {exc}", file=sys.stderr)
                 if item.get("number") is not None:
                     _add_queue_status(item["number"], False, str(exc)[:180])
-        return 0
+        return 1 if failures else 0
 
     if bool(args.slug) == bool(args.slugs_file):
         raise SystemExit("Provide exactly one of --slug or --slugs-file.")

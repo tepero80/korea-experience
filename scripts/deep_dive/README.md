@@ -35,6 +35,10 @@ python -m scripts.deep_dive generate --topic "Seoul airport transfer options for
 # 기본: grounded research + 초안 생성 + 저비용 일관성 점검. 결과는 검수 폴더에 저장
 python -m scripts.deep_dive generate --topic "Seoul airport transfer options for late arrivals" --category T
 
+# 30개 선정 배치 중 카테고리별 5개 생성 (코드: M/T/K/L/F/S)
+python -m scripts.deep_dive generate --topics-file scripts/deep_dive/topic_batch_2026-10.json --category T --count 5 --publish
+python -m scripts.deep_dive generate --topics-file scripts/deep_dive/topic_batch_2026-10.json --category M --count 5
+
 # 사람이 초안을 검수한 다음 추가 API 호출 없이 발행
 python -m scripts.deep_dive publish --slug seoul-airport-transfer-options-for-late-arrivals
 
