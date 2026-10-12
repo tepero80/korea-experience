@@ -22,6 +22,15 @@ const VALID_CATEGORIES = [
   'shopping'
 ];
 
+const CATEGORY_HUB_PATHS: Record<string, string> = {
+  medicaltourism: '/blog/category/medical-tourism',
+  traveltourism: '/blog/category/travel-tourism',
+  kculture: '/blog/category/k-culture',
+  living: '/blog/category/living-in-korea',
+  food: '/blog/category/food-dining',
+  shopping: '/blog/category/shopping-kbeauty',
+};
+
 export default function BlogList({ allPosts }: BlogListProps) {
   const searchParams = useSearchParams();
   const router = useRouter();
@@ -56,20 +65,12 @@ export default function BlogList({ allPosts }: BlogListProps) {
       })
     : sortedPosts;
 
-  // Build URL with params
-  const buildUrl = (category?: string) => {
-    const params = new URLSearchParams();
-    if (category) params.set('category', category);
-    const queryString = params.toString();
-    return `/blog${queryString ? `?${queryString}` : ''}`;
-  };
-
   return (
     <div className="max-w-6xl mx-auto">
       {/* Category Filter */}
       <div className="mb-8 flex gap-2 flex-wrap items-center">
         <Link 
-          href={buildUrl(undefined)}
+          href="/blog"
           className={`px-4 py-2 rounded-full text-sm font-medium transition-colors ${
             !categorySlug 
               ? 'bg-amber-600 text-white' 
@@ -79,7 +80,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
           All Categories
         </Link>
         <Link 
-          href={buildUrl('medicaltourism')}
+          href={CATEGORY_HUB_PATHS.medicaltourism}
           className={`px-4 py-2 rounded-full text-sm font-medium transition-colors flex items-center gap-1.5 ${
             categorySlug === 'medicaltourism'
               ? 'bg-rose-500 text-white' 
@@ -89,7 +90,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
           <span>🏥</span> Medical Tourism
         </Link>
         <Link 
-          href={buildUrl('traveltourism')}
+          href={CATEGORY_HUB_PATHS.traveltourism}
           className={`px-4 py-2 rounded-full text-sm font-medium transition-colors flex items-center gap-1.5 ${
             categorySlug === 'traveltourism'
               ? 'bg-amber-500 text-white' 
@@ -99,7 +100,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
           <span>✈️</span> Travel & Tourism
         </Link>
         <Link 
-          href={buildUrl('kculture')}
+          href={CATEGORY_HUB_PATHS.kculture}
           className={`px-4 py-2 rounded-full text-sm font-medium transition-colors flex items-center gap-1.5 ${
             categorySlug === 'kculture'
               ? 'bg-orange-500 text-white' 
@@ -109,7 +110,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
           <span>🎭</span> K-Culture
         </Link>
         <Link 
-          href={buildUrl('living')}
+          href={CATEGORY_HUB_PATHS.living}
           className={`px-4 py-2 rounded-full text-sm font-medium transition-colors flex items-center gap-1.5 ${
             categorySlug === 'living'
               ? 'bg-emerald-500 text-white' 
@@ -119,7 +120,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
           <span>🏠</span> Living in Korea
         </Link>
         <Link 
-          href={buildUrl('food')}
+          href={CATEGORY_HUB_PATHS.food}
           className={`px-4 py-2 rounded-full text-sm font-medium transition-colors flex items-center gap-1.5 ${
             categorySlug === 'food'
               ? 'bg-orange-500 text-white' 
@@ -129,7 +130,7 @@ export default function BlogList({ allPosts }: BlogListProps) {
           <span>🍜</span> Food & Dining
         </Link>
         <Link 
-          href={buildUrl('shopping')}
+          href={CATEGORY_HUB_PATHS.shopping}
           className={`px-4 py-2 rounded-full text-sm font-medium transition-colors flex items-center gap-1.5 ${
             categorySlug === 'shopping'
               ? 'bg-amber-500 text-white' 
