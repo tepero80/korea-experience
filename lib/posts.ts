@@ -85,7 +85,12 @@ function readPostsFromDirectory(directory: string): PostMetadata[] {
       const slug = fileName.replace(/\.md$/, '');
       const fullPath = path.join(directory, fileName);
       const fileContents = fs.readFileSync(fullPath, 'utf8');
-      const { data } = matter(fileContents);
+      const { data, content } = matter(fileContents);
+
+      // Empty Markdown files should never become indexable pages or sitemap URLs.
+      if (!content.trim()) {
+        continue;
+      }
 
       posts.push({
         slug,
@@ -144,6 +149,11 @@ export function getPostBySlug(slug: string): Post | null {
     const fileContents = fs.readFileSync(fullPath, 'utf8');
     const { data, content } = matter(fileContents);
 
+    // A directly requested empty post is not a published article.
+    if (!content.trim()) {
+      return null;
+    }
+
     return {
       slug,
       title: data.title || slug,
@@ -179,68 +189,41 @@ export function getAllCategories(): string[] {
   return Array.from(new Set(categories));
 }
 
-// Get related posts — guaranteed doubly-linked chain within each category
-// Post[i] ALWAYS recommends Post[i-1] and Post[i+1], forming an unbroken chain
-// Google crawler visiting any single post can traverse the entire category
+// Get related posts based on actual topic overlap, not date adjacency.
 export function getRelatedPosts(currentSlug: string, limit: number = 6): PostMetadata[] {
   const allPosts = getAllPosts();
   const currentPost = allPosts.find((p) => p.slug === currentSlug);
   if (!currentPost) return [];
 
-  // Same category sorted by date (newest first), INCLUDING current post for index lookup
-  const sameCatSorted = allPosts
-    .filter((p) => p.category === currentPost.category)
-    .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  const stopWords = new Set([
+    'about', 'after', 'also', 'been', 'best', 'from', 'have', 'into', 'korea',
+    'korean', 'more', 'most', 'your', 'guide', '2026', 'with', 'this', 'that',
+    'their', 'what', 'when', 'where', 'which', 'while', 'will', 'visit', 'living',
+  ]);
+  const getTopicTokens = (post: PostMetadata) =>
+    `${post.title} ${post.excerpt}`
+      .toLowerCase()
+      .split(/[^a-z0-9]+/)
+      .filter((token) => token.length >= 4 && !stopWords.has(token));
 
-  const currentIdx = sameCatSorted.findIndex((p) => p.slug === currentSlug);
-  const result: PostMetadata[] = [];
-  const usedSlugs = new Set([currentSlug]);
-
-  // 1) Immediate prev & next — GUARANTEED chain links (never skipped)
-  if (currentIdx > 0) {
-    result.push(sameCatSorted[currentIdx - 1]);
-    usedSlugs.add(sameCatSorted[currentIdx - 1].slug);
-  }
-  if (currentIdx < sameCatSorted.length - 1) {
-    result.push(sameCatSorted[currentIdx + 1]);
-    usedSlugs.add(sameCatSorted[currentIdx + 1].slug);
-  }
-
-  // 2) Expand outward from current position to fill remaining slots
-  let offset = 2;
-  while (result.length < limit && offset < sameCatSorted.length) {
-    if (currentIdx - offset >= 0) {
-      const p = sameCatSorted[currentIdx - offset];
-      if (!usedSlugs.has(p.slug)) {
-        result.push(p);
-        usedSlugs.add(p.slug);
-      }
-    }
-    if (result.length < limit && currentIdx + offset < sameCatSorted.length) {
-      const p = sameCatSorted[currentIdx + offset];
-      if (!usedSlugs.has(p.slug)) {
-        result.push(p);
-        usedSlugs.add(p.slug);
-      }
-    }
-    offset++;
-  }
-
-  // 3) If same category not enough, fill from other categories (date-proximity)
-  if (result.length < limit) {
-    const currentDate = new Date(currentPost.date).getTime();
-    const otherCatPosts = allPosts
-      .filter((p) => !usedSlugs.has(p.slug) && p.category !== currentPost.category)
-      .sort(
-        (a, b) =>
-          Math.abs(new Date(a.date).getTime() - currentDate) -
-          Math.abs(new Date(b.date).getTime() - currentDate)
-      )
-      .slice(0, limit - result.length);
-    result.push(...otherCatPosts);
-  }
-
-  return result.slice(0, limit);
+  const currentTokens = new Set(getTopicTokens(currentPost));
+  return allPosts
+    .filter((post) => post.slug !== currentSlug)
+    .map((post) => {
+      const sharedTokens = new Set(getTopicTokens(post).filter((token) => currentTokens.has(token)));
+      return {
+        post,
+        sharedCount: sharedTokens.size,
+        sameCategory: post.category === currentPost.category,
+      };
+    })
+    // Do not fill slots with unrelated articles merely to reach a fixed link count.
+    .filter(({ sharedCount }) => sharedCount > 0)
+    .sort((a, b) =>
+      b.sharedCount - a.sharedCount || Number(b.sameCategory) - Number(a.sameCategory)
+    )
+    .slice(0, limit)
+    .map(({ post }) => post);
 }
 
 // Get featured posts for homepage - now returns Deep Dive posts, one per category

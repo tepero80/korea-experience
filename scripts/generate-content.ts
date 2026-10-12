@@ -1,6 +1,6 @@
 /**
- * AI Content Generator Script
- * Gemini API를 사용하여 고품질 블로그 포스트를 자동 생성합니다.
+ * AI Content Draft Generator
+ * 생성물은 편집자 검수 전까지 공개 콘텐츠로 저장하지 않습니다.
  */
 
 import { config } from 'dotenv';
@@ -48,24 +48,29 @@ const createPrompt = (keyword: string, category: string, existingDate?: string) 
 You are an expert content writer specializing in Korea-related content for international audiences.
 You are writing for KoreaExperience, a premium travel and lifestyle blog that differentiates itself through visual quality and GEO (Generative Engine Optimization).
 
-Write a comprehensive, SEO-optimized blog post about: "${keyword}"
+Write a useful, accurate editorial draft about: "${keyword}"
 
 Requirements:
 - Category: ${category}
 - Language: English
-- Length: 3,000-3,500 words (MINIMUM 3,000 words - this is critical for SEO ranking)
-- Tone: Professional, informative, helpful with personal insights
+- Length: As long as needed to answer the reader's question; do not pad for a word-count target
+- Tone: Clear, informative, and appropriately cautious. Do not claim first-hand experience.
 - Target audience: International travelers/expats interested in Korea
-- Include specific data points (prices, distances, times) every 150-200 words
+- Accuracy takes priority over SEO, length, and visual formatting.
+- Never invent or estimate prices, dates, legal/medical rules, statistics, addresses, opening hours, phone numbers, ratings, experts, quotes, or personal experiences.
+- Do not state time-sensitive facts as current unless supported by a directly relevant source URL and a verification date.
+- When reliable evidence is unavailable, say what could not be verified or omit the claim.
+- End with a "## Sources" section containing at least 3 unique, directly relevant source URLs; use official/primary sources for legal, medical, safety, and other time-sensitive claims. These URLs are unverified until a human editor checks them.
+- Any sample values in component syntax below are placeholders, not facts. Replace them with verified source-backed information or omit the component; never publish placeholder text.
 
 Structure:
 1. Frontmatter (YAML format) - IMPORTANT formatting rules:
    ---
    title: "[Natural sentence-case title with main keyword, MUST be ≤70 chars]"
    date: ${existingDate || new Date().toISOString().split('T')[0]}
-   excerpt: "[Compelling summary with specific data, MUST be ≤160 chars]"
+    excerpt: "[Accurate summary of the article, MUST be ≤160 chars]"
    category: ${category}
-   author: Korea Experience Team
+    author: Korea Experience Editorial Team
    tags:
      - "[Relevant tag 1, e.g. Korean Food, K-Beauty, Seoul, Shopping, Medical Tourism, Travel Tips, K-Pop]"
      - "[Relevant tag 2]"
@@ -86,7 +91,7 @@ Structure:
    
    EXCERPT RULES (CRITICAL):
    - MUST be 160 characters or less (this becomes the meta description tag)
-   - Include specific data points (prices, percentages, year)
+    - Do not add numerical details unless supported by a cited source
    - Make it compelling enough to click from search results
    - Do NOT use colons (:) inside the excerpt
    
@@ -102,7 +107,7 @@ Structure:
    ANSWER-FIRST STRUCTURE (MANDATORY):
    - The FIRST paragraph must contain a direct answer to what the reader is searching for
    - After the first paragraph, add a bold "**The short answer:**" line with a 1-2 sentence summary
-   - Example: "**The short answer: Zero-sugar soju has 20-30% fewer calories than regular soju, with Saero and Jinro Zero being the two dominant brands in 2026.**"
+  - Keep the example specific to the topic and include numbers only when cited sources support them.
    - Do NOT start with background history or general statements like "Korea has undergone a transformation..."
    - Start with the specific, actionable information the reader came for
 
@@ -110,11 +115,10 @@ Structure:
    <KeyTakeaways 
      points={[
        "First key insight (max 25 words)",
-       "Second key insight with specific data",
+        "Second key insight supported by the article",
        "Third practical takeaway"
      ]}
      readTime={8}
-     lastUpdated="${new Date().toISOString().split('T')[0]}"
    />
 
    B. Use InfoBox for important tips throughout:
@@ -128,9 +132,7 @@ Structure:
    <QuickFacts
      title="Quick Facts"
      facts={[
-       { label: "Average Cost", value: "$50-100", icon: "💰" },
-       { label: "Duration", value: "2-3 hours", icon: "⏱️" },
-       { label: "Best Time", value: "Spring/Fall", icon: "🗓️" }
+         { label: "Verified fact", value: "Use only sourced values", icon: "ℹ️" }
      ]}
      columns={3}
    />
@@ -138,7 +140,7 @@ Structure:
    D. Use StepGuide for how-to content:
    <StepGuide
      title="How to [Action]"
-     totalTime="30 minutes"
+    totalTime="Only include a verified duration when a reliable source supports it"
      difficulty="easy"
      steps={[
        { title: "Step Title", description: "Detailed instructions...", tip: "Pro tip..." },
@@ -151,24 +153,17 @@ Structure:
      title="Price Comparison"
      variant="dualism"
      items={[
-       { name: "Luxury Option", price: "₩150,000", tag: "luxury", description: "Premium experience" },
-       { name: "Budget Option", price: "₩25,000", tag: "budget", description: "Great value" }
+      { name: "Option from a cited source", price: "Verified price and date", tag: "source-backed", description: "Explain what the cited price includes" }
      ]}
    />
 
    F. Use LocationCard for venue/restaurant info:
    <LocationCard
-     name="Place Name"
-     nameKo="한국어 이름"
-     type="Restaurant"
-     address="123 Street, Gangnam-gu, Seoul"
-     hours="11:00-22:00"
-     phone="+82-2-1234-5678"
-     priceRange="$$"
-     rating={4.5}
-     transit="Exit 3 from Gangnam Station, 5 min walk"
-     highlights={["Signature Dish", "Vegetarian Options", "English Menu"]}
-     tip="Best to visit during lunch for smaller crowds."
+      name="Verified venue name"
+      type="Venue type"
+      address="Only include when verified from an official source"
+      hours="Only include when verified from an official source"
+      highlights={["Only verified details"]}
    />
 
    G. Use ProsCons for balanced analysis:
@@ -179,23 +174,14 @@ Structure:
      variant="cards"
    />
 
-   H. Use ExpertTip for E-E-A-T content:
-   <ExpertTip 
-     author="Local Expert Name"
-     role="Seoul Resident, 10+ years"
-     type="local"
-     verified={true}
-   >
-     Personal insight or local knowledge that AI cannot generate...
-   </ExpertTip>
+   H. ExpertTip is OPTIONAL. Omit it unless the real expert, role, and advice are directly supported by a source URL. Never invent names, credentials, quotations, or experience.
 
    I. Use StatCard for key statistics:
    <StatCard
      title="Key Statistics"
      variant="gradient"
      stats={[
-       { value: "85%", label: "Success Rate", icon: "📊" },
-       { value: "2.5M", label: "Monthly Users", icon: "👥" }
+        { value: "Verified value", label: "Source-backed statistic", icon: "📊" }
      ]}
      source="Official Data 2026"
    />
@@ -215,12 +201,11 @@ Structure:
    <Timeline
      title="Process Timeline"
      items={[
-       { time: "Step 1", title: "Download App", description: "Get the app from store", icon: "📱" },
-       { time: "Step 2", title: "Register", description: "Create account", icon: "✍️" }
+      { time: "Verified stage", title: "Process step", description: "Describe only steps supported by a reliable source", icon: "📌" }
      ]}
    />
 
-   L. End with FAQAccordion (MANDATORY):
+    L. FAQAccordion is OPTIONAL; use only for questions that add useful, supported information:
    <FAQAccordion
      title="Frequently Asked Questions"
      items={[
@@ -234,11 +219,10 @@ Structure:
    <DualismRoute
      title="24 Hours in [Area]: Luxury Meets Budget"
      area="Seongsu-dong"
-     totalBudget={{ luxury: "$200", budget: "$40" }}
-     totalTime="8 hours"
+    totalBudget={{ luxury: "Verified estimate", budget: "Verified estimate" }}
+    totalTime="Only when supported by a source"
      stops={[
-       { name: "Luxury Stop", type: "luxury", description: "...", cost: "$80", icon: "💎" },
-       { name: "Budget Stop", type: "budget", description: "...", cost: "$5", icon: "💰" }
+      { name: "Verified stop", type: "luxury", description: "Use verified details", cost: "Verified cost", icon: "💎" }
      ]}
      recommendation="This route balances premium experiences with authentic local discoveries."
    />
@@ -247,26 +231,25 @@ Structure:
 3. SEO & GEO Optimization:
    - Use the main keyword in title, first paragraph, and H2 headings
    - Include related long-tail keywords naturally
-   - Add specific numbers/statistics every 150-200 words (AI citation optimization)
+    - Include numbers only when a cited source supports them
    - Write descriptive, keyword-rich subheadings
    - Ensure Answer-First structure: Start each section with a direct answer
 
 4. Special Requirements:
-   ${category === 'Medical Tourism' ? '- Add medical disclaimer using <InfoBox type="warning">\n   - Include emergency contact numbers (119 for ambulance, 1339 for medical consultation)' : ''}
+  ${category === 'Medical Tourism' ? '- Add a medical disclaimer. Include emergency numbers only after checking a current official source; do not assume 1339 is still a separate service.' : ''}
    ${category.includes('ARC-Free') || keyword.toLowerCase().includes('arc') ? '- Use <InfoBox type="arc-free"> for ARC-free solutions' : ''}
    - Use Korean terms with English explanations where appropriate
-   - Include practical tips using <ExpertTip> components
-   - Add personal insights that demonstrate E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness)
+    - Do not create first-person anecdotes or imply human experience that was not supplied.
 
 5. Visual Component Guidelines:
-   - Use at least 5-7 visual components per article
+    - Use visual components only when they improve comprehension; never invent data to fill a component.
    - Place KeyTakeaways immediately after intro (MANDATORY)
    - Add QuickFacts in data-heavy sections
-   - Use InfoBox liberally for tips and warnings (3-5 per article)
+    - Use InfoBox sparingly and only for useful, supported information
    - Include at least one ComparisonTable or ProsCons
-   - Add ExpertTip for local insights (2-3 per article)
+    - ExpertTip is optional and must be source-backed
    - Use StepGuide for how-to sections
-   - End with FAQAccordion (MANDATORY - 5 questions minimum)
+    - FAQAccordion is optional; do not add repetitive or speculative questions
 
 6. Internal Links (MANDATORY - DO NOT SKIP):
    - Include 3-5 internal links to related articles throughout the content
@@ -579,7 +562,32 @@ function sanitizeMDX(content: string): { content: string; fixes: string[] } {
   return { content: result, fixes };
 }
 
-// 블로그 포스트 생성 함수
+function getDraftReviewWarnings(content: string): string[] {
+  const warnings: string[] = [];
+  const frontmatter = content.match(/^---\s*\r?\n([\s\S]*?)\r?\n---/);
+  if (!frontmatter) {
+    return ['Missing YAML frontmatter'];
+  }
+
+  for (const field of ['title', 'date', 'excerpt', 'category']) {
+    if (!new RegExp(`^${field}:\\s*\\S`, 'm').test(frontmatter[1])) {
+      warnings.push(`Missing required frontmatter field: ${field}`);
+    }
+  }
+
+  const sources = content.match(/^## Sources\s*$([\s\S]*?)(?=^##\s|$)/im)?.[1] ?? '';
+  const urls = [...new Set(sources.match(/https?:\/\/[^\s)\]>]+/g) ?? [])];
+  if (urls.length < 3) {
+    warnings.push(`Sources section has ${urls.length} URL(s); at least 3 are required for review`);
+  }
+  if (/<ExpertTip\b[^>]*verified=\{true\}/i.test(content)) {
+    warnings.push('ExpertTip is marked verified; verify the real expert and source before publication');
+  }
+
+  return warnings;
+}
+
+// 블로그 포스트 초안 생성 함수
 async function generateBlogPost(keyword: string, category: string, existingDate?: string): Promise<string> {
   console.log(`\n🤖 AI 콘텐츠 생성 중: "${keyword}"...`);
   if (existingDate) {
@@ -601,6 +609,12 @@ async function generateBlogPost(keyword: string, category: string, existingDate?
     } else {
       console.log('✅ MDX 검증 통과 — 수정 불필요');
     }
+
+    const reviewWarnings = getDraftReviewWarnings(sanitized);
+    if (reviewWarnings.length > 0) {
+      console.warn('⚠️ 편집자 검수 필요:');
+      reviewWarnings.forEach(warning => console.warn(`   • ${warning}`));
+    }
     
     console.log('✅ 콘텐츠 생성 완료!');
     return sanitized;
@@ -619,7 +633,9 @@ function saveToFile(content: string, keyword: string): string {
     .replace(/^-+|-+$/g, '');
   
   const filename = `${slug}.md`;
-  const filepath = path.join(process.cwd(), 'content', 'posts', filename);
+  const draftsDir = path.join(process.cwd(), 'content', 'drafts');
+  fs.mkdirSync(draftsDir, { recursive: true });
+  const filepath = path.join(draftsDir, filename);
   
   // UTF-8 인코딩으로 파일 저장 (BOM 없이)
   fs.writeFileSync(filepath, content, { encoding: 'utf-8' });
@@ -654,7 +670,7 @@ async function main() {
   }
   
   try {
-    console.log('🚀 AI 콘텐츠 생성 시작...');
+    console.log('📝 AI 콘텐츠 초안 생성 시작...');
     console.log(`📌 키워드: ${keyword}`);
     console.log(`📂 카테고리: ${category}`);
     
@@ -675,12 +691,12 @@ async function main() {
     const filename = saveToFile(content, keyword);
     
     console.log('\n✨ 완료!');
-    console.log(`📄 생성된 파일: content/posts/${filename}`);
+    console.log(`📄 검수 대기 초안: content/drafts/${filename}`);
     console.log('\n다음 단계:');
-    console.log('1. 생성된 파일을 열어서 내용 확인');
-    console.log('2. 필요시 수정 및 보완');
-    console.log('3. npm run build로 빌드 테스트');
-    console.log('4. git add, commit, push로 배포');
+    console.log('1. 출처 URL이 실제로 열리고 바로 앞의 주장을 뒷받침하는지 직접 확인');
+    console.log('2. 법률·의료·안전·가격·시간 등 변동 정보를 공식 출처와 대조하고 확인일 기록');
+    console.log('3. 허위 전문가 인용, 추정치, 반복 문구를 제거하고 편집·팩트체크');
+    console.log('4. 검수를 통과한 경우에만 content/posts 또는 content/deep-dive로 수동 승격');
     
   } catch (error) {
     console.error('\n❌ 오류 발생:', error);

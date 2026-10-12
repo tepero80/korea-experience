@@ -15,6 +15,16 @@ const postsDirectory = path.join(process.cwd(), 'content/posts');
 const deepDiveDirectory = path.join(process.cwd(), 'content/deep-dive');
 const outputPath = path.join(process.cwd(), 'public/search-index.json');
 
+function hasArticleBody(directory: string, fileName: string): boolean {
+  try {
+    const filePath = path.join(directory, fileName);
+    const { content } = matter(fs.readFileSync(filePath, 'utf8'));
+    return content.trim().length > 0;
+  } catch {
+    return false;
+  }
+}
+
 console.log('🔍 Generating search index...');
 
 try {
@@ -26,13 +36,19 @@ try {
 
   // Read regular posts
   const postFileNames = fs.readdirSync(postsDirectory);
-  const postMdFiles = postFileNames.filter(file => file.endsWith('.md'));
+  const postMdFiles = postFileNames.filter(
+    file => file.endsWith('.md') && hasArticleBody(postsDirectory, file)
+  );
   
   // Read deep dive posts
   const deepDiveFiles: string[] = [];
   if (fs.existsSync(deepDiveDirectory)) {
     const deepDiveFileNames = fs.readdirSync(deepDiveDirectory);
-    deepDiveFiles.push(...deepDiveFileNames.filter(file => file.endsWith('.md')));
+    deepDiveFiles.push(
+      ...deepDiveFileNames.filter(
+        file => file.endsWith('.md') && hasArticleBody(deepDiveDirectory, file)
+      )
+    );
   }
   
   console.log(`📚 Found ${postMdFiles.length} blog posts`);
