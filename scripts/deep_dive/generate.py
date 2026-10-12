@@ -31,6 +31,10 @@ import sys
 import time
 from pathlib import Path
 
+if hasattr(sys.stdout, "reconfigure"):
+    sys.stdout.reconfigure(encoding="utf-8")
+    sys.stderr.reconfigure(encoding="utf-8")
+
 # 프로젝트 루트를 sys.path에 추가
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
 
@@ -155,12 +159,16 @@ def make_slug(topic: str) -> str:
 
 def get_draft_filepath(num: int, items: dict) -> Path:
     """드래프트 파일 경로를 찾거나 생성합니다."""
-    existing = list(DRAFTS_DIR.glob(f"{num}.*txt"))
-    if existing:
-        return existing[0]
     item = items[num]
     filename = f"{num}. [{item['code']}] {item['topic']}.txt"
-    return DRAFTS_DIR / filename
+    expected = DRAFTS_DIR / filename
+    if expected.exists():
+        return expected
+
+    existing = [path for path in DRAFTS_DIR.glob(f"{num}.*txt") if path.stat().st_size > 0]
+    if len(existing) == 1:
+        return existing[0]
+    return expected
 
 
 # ── 메인 처리 ──

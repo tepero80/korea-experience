@@ -8,8 +8,8 @@ Gemini로 배경 이미지 생성 → Pillow로 텍스트 오버레이
 """
 
 import re
-import time
-import tempfile
+import base64
+import io
 from pathlib import Path
 
 from .config import (
@@ -99,33 +99,30 @@ def generate_scene_description(title: str, category: str, excerpt: str) -> str:
 def generate_background_image(scene: str, slug: str) -> Path | None:
     """텍스트 없는 배경 이미지 생성 (Gemini Image Model)"""
     from google import genai
-    from google.genai import types
     from PIL import Image as PILImage
 
     client = genai.Client(api_key=API_KEY)
     prompt = BG_IMAGE_TEMPLATE.format(scene=scene)
 
     try:
-        response = client.models.generate_content(
+        interaction = client.interactions.create(
             model=IMAGE_MODEL,
-            contents=[prompt],
-            config=types.GenerateContentConfig(
-                response_modalities=["IMAGE"],
-            ),
+            input=prompt,
+            response_format={
+                "type": "image",
+                "mime_type": "image/webp",
+                "aspect_ratio": "16:9",
+                "image_size": "1K",
+            },
         )
 
         IMAGES_DIR.mkdir(parents=True, exist_ok=True)
         raw_path = IMAGES_DIR / f"{slug}-raw.webp"
 
-        for part in response.parts:
-            if part.inline_data is not None:
-                image = part.as_image()
-                with tempfile.NamedTemporaryFile(suffix=".png", delete=False) as tmp:
-                    tmp_path = tmp.name
-                image.save(tmp_path)
-                pil_img = PILImage.open(tmp_path)
-                pil_img.save(str(raw_path), format="WEBP", quality=90)
-                Path(tmp_path).unlink(missing_ok=True)
+        for output in interaction.outputs or []:
+            if getattr(output, "type", None) == "image" and getattr(output, "data", None):
+                pil_img = PILImage.open(io.BytesIO(base64.b64decode(output.data)))
+                pil_img.convert("RGB").save(str(raw_path), format="WEBP", quality=90)
                 return raw_path
 
         return None

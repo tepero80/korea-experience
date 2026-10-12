@@ -1,232 +1,75 @@
-# Deep Dive Content Pipeline
+# Korea Experience 콘텐츠 생성기
 
-Gemini Deep Research API를 사용한 딥다이브 콘텐츠 자동 생성 파이프라인입니다.
+기본 경로는 Gemini Deep Research 대신 **Gemini 3.5 Flash-Lite + Google Search grounding**을 사용합니다. API 단계·공식 단가·66개 주제 아이디어는 [운영안](../../content/deep-dive-drafts/GEMINI_FLASH_WORKFLOW.md), 아이디어 원본은 [topic_ideas.json](./topic_ideas.json)에서 확인할 수 있습니다.
 
-## 구조
+## 준비
 
-```
-scripts/deep_dive/
-├── __init__.py          # 패키지 초기화
-├── __main__.py          # python -m scripts.deep_dive 진입점
-├── config.py            # 공유 설정 (경로, 모델, 카테고리 등)
-├── topics.py            # todo.md 파서, 상태 추적, 슬러그 유틸
-├── research.py          # Deep Research API 호출 (스트리밍/폴링)
-├── convert.py           # MDX 변환 (Gemini Pro) + 자동 검증
-├── cover.py             # 커버 이미지 생성 (Gemini → Pillow 오버레이)
-├── links.py             # 내부 링크 자동 추천 (deep-dive 우선)
-├── generate.py          # 전체 파이프라인 CLI (메인 진입점)
-├── batch_covers.py      # 커버 이미지 일괄 교체 CLI
-├── add_links.py         # 내부 링크 삽입 유틸 (레거시)
-├── audit.py             # MDX 품질 감사 유틸
-├── todo.md              # 600개 주제 목록 + 상태 추적
-├── link-index.json      # 포스트 인덱스 캐시 (자동 생성)
-├── README.md
-├── fonts/
-│   ├── Montserrat-Bold.ttf
-│   └── Montserrat-SemiBold.ttf
-└── _archive/            # 구 스크립트 백업
+PowerShell에서 프로젝트 루트로 이동한 뒤 `.env.local`에 `GEMINI_API_KEY`를 설정하고 의존성을 설치합니다.
+
+```powershell
+python -m pip install -r scripts/deep_dive/requirements.txt
 ```
 
----
+Python SDK: `google-genai>=2.24.0`. 모델은 환경 변수로 변경할 수 있습니다.
 
-## 실행 방법
-
-**프로젝트 루트에서 실행합니다:**
-
-```bash
-cd C:\kc\korea-experience
+```dotenv
+GEMINI_RESEARCH_MODEL=gemini-3.5-flash-lite
+GEMINI_REVIEW_MODEL=gemini-3.5-flash-lite
+GEMINI_CONVERT_MODEL=gemini-3.5-flash-lite
+GEMINI_IMAGE_MODEL=gemini-3.1-flash-lite-image
 ```
 
-### 1. 특정 번호 1개
+## 명령
 
-```bash
-python -m scripts.deep_dive -n 39
+```powershell
+# 66개 주제 전체 또는 카테고리별 목록
+python -m scripts.deep_dive topics list
+python -m scripts.deep_dive topics list --category T
+
+# 사용자 주제를 todo.md에 추가 (성공하면 다음 번호를 출력)
+python -m scripts.deep_dive topics add --category T --title "Seoul airport transfer options for late arrivals"
+
+# API를 부르지 않고 실행 계획 확인
+python -m scripts.deep_dive generate --topic "Seoul airport transfer options for late arrivals" --category T --dry-run
+
+# 기본: grounded research + 초안 생성 + 저비용 일관성 점검. 결과는 검수 폴더에 저장
+python -m scripts.deep_dive generate --topic "Seoul airport transfer options for late arrivals" --category T
+
+# 사람이 초안을 검수한 다음 추가 API 호출 없이 발행
+python -m scripts.deep_dive publish --slug seoul-airport-transfer-options-for-late-arrivals
+
+# 이미지 생성은 별도 비용이 있어 요청할 때만 사용
+python -m scripts.deep_dive generate --topic "Seoul airport transfer options for late arrivals" --category T --image
+
+# 기존 게시물은 우선 검토용 수정 초안만 생성
+python -m scripts.deep_dive improve --slug existing-post-slug --focus "recheck current official rules"
+
+# Search Console에서 내보낸 URL 또는 slug 목록을 최대 5개씩 처리
+python -m scripts.deep_dive improve --slugs-file gsc-slugs.txt --limit 3 --focus "verify claims with primary sources"
+
+# 사람이 원문을 확인하고 변경을 승인한 뒤에만 기존 글을 백업 후 교체
+python -m scripts.deep_dive improve --slug existing-post-slug --focus "verify current official rules" --apply
 ```
 
-todo.md의 39번 주제만 처리합니다.
+- 새 글 기본 출력: `content/deep-dive-drafts/flash-generated/`
+- 수정 글 기본 출력: `content/deep-dive-drafts/revisions/`
+- `--publish`로 바로 승격하거나 기존 글에 `--apply`하기 전에 사실·출처를 사람이 검토합니다. 의료·법률·비자·세금 등 민감 주제의 새 글은 `--sensitive-reviewed`가 추가로 필요합니다.
+- 처리량은 기본 1개, 최대 5개로 제한합니다. 초안이 이미 있으면 중복 API 호출을 하지 않고 기존 초안 검토를 안내합니다. “무제한 생성”은 모델 호출 한도·검색 과금·검수 역량 때문에 무제한 자동 게시를 뜻하지 않습니다.
 
-### 2. 범위 지정
+## 기존 Deep Research 경로
 
-```bash
-python -m scripts.deep_dive --from 39 --to 50
+기존 흐름은 다음 플래그를 명시한 경우에만 실행합니다.
+
+```powershell
+python -m scripts.deep_dive --legacy-deep-research -n 39
+python -m scripts.deep_dive --legacy-deep-research --from 39 --to 50
 ```
 
-39번부터 50번까지 순서대로 처리합니다 (이미 done인 항목 포함).
+## 품질·색인 안전장치
 
-### 3. 다음 미완료 N개
+- Google Search grounding에서 반환한 URL만 `Sources`에 허용하며, 최소 출처·길이·제목·요약·H2 품질을 로컬 검사합니다.
+- Flash 검토는 조사 결과와 초안의 일관성 검사이지 독립적인 사실 검증은 아닙니다. 공식 출처 원문을 사람이 확인해야 합니다.
+- `draft: true` 콘텐츠는 페이지 라우트, sitemap, 사이트 검색 및 내부 링크 인덱스에서 제외됩니다.
+- 과거 Deep Research prompt는 `content/deep-dive-drafts/PROMPT.md`에 남아 있으며, 구 파이프라인에서만 사용합니다.
 
-```bash
-python -m scripts.deep_dive -c 10
-python -m scripts.deep_dive -c 15
-```
-
-todo.md에서 아직 완료되지 않은 주제를 순서대로 10개(또는 15개) 처리합니다.
-`done` 상태는 자동 건너뛰고, `partial`/`failed` 항목은 재처리됩니다.
-
-### 4. 미완료 전체
-
-```bash
-python -m scripts.deep_dive --all
-```
-
-미완료 주제 전부를 한번에 처리합니다. `Ctrl+C`로 안전하게 중단할 수 있습니다.
-
-### 기본 (인자 없음)
-
-```bash
-python -m scripts.deep_dive
-```
-
-다음 미완료 주제 1개를 자동으로 찾아 처리합니다.
-
-### sanitize
-python -m scripts.deep_dive --sanitize
-
----
-
-## 옵션
-
-| 옵션 | 설명 |
-|------|------|
-| `--dry-run` | API 호출 없이 프롬프트만 확인 |
-| `--no-stream` | 스트리밍 대신 폴링 모드로 실행 |
-| `--no-image` | 커버 이미지 생성 건너뛰기 |
-| `--image-only` | 이미지만 생성 (드래프트 필요) |
-| `--no-convert` | MDX 변환 건너뛰기 (드래프트 + 이미지만) |
-| `--convert-only` | MDX 변환만 실행 (드래프트 필요) |
-| `--force-research` | 기존 드래프트가 있어도 Deep Research를 강제 재실행 (⚠️ 비용 추가 발생) |
-| `--backfill-covers` | 기존 MDX에 커버 이미지 일괄 생성 |
-| `--backfill-limit N` | backfill 최대 N개만 처리 |
-
-### 💰 비용 절감 동작 (기본)
-
-- **드래프트 재사용**: `content/deep-dive-drafts/{num}. [{code}] {topic}.txt`가 존재하면 Deep Research 단계 자동 스킵 (편당 ~$1.5-3 절약). 강제 재실행은 `--force-research` 사용.
-- **링크 인덱스 캐시**: 24시간 유지. 새 글 생성 시 `refresh_index()`로 자동 갱신.
-- **Research 출력 6,000~8,000 단어 상한**: `PROMPT.md`에 명시되어 있어 토큰 사용량이 약 40% 감소 (기존 10K+ 단어 출력 방지).
-
-### 옵션 조합 예시
-
-```bash
-# 다음 5개 확인만 (API 호출 없음)
-python -m scripts.deep_dive -c 5 --dry-run
-
-# 39번 이미지만 재생성
-python -m scripts.deep_dive -n 39 --image-only
-
-# 미완료 전체 MDX 재변환
-python -m scripts.deep_dive --all --convert-only
-
-# 39~50번 리서치만 (이미지/변환 건너뛰기)
-python -m scripts.deep_dive --from 39 --to 50 --no-image --no-convert
-```
-
----
-
-## todo.md 상태 추적
-
-각 항목의 진행 상태가 자동으로 기록됩니다:
-
-```markdown
-# 완료된 항목
-1. [M] Medical Tourism Visa  | done  | RIC  | 2026-02-08
-
-# 일부만 완료
-39. [K] Lovely Runner filming locations  | partial  | RI  | 2026-02-08
-
-# 실패한 항목 (에러 메시지 포함)
-40. [L] How to identify cult recruitment  | failed  | R  | 2026-02-08  | image API timeout
-
-# 미시작 항목
-41. [F] Drinking etiquette: pour and receive
-```
-
-| 필드 | 설명 |
-|------|------|
-| status | `done` / `partial` / `failed` / (없음=미시작) |
-| steps | `R`esearch / `I`mage / `C`onvert (완료된 단계) |
-| date | 마지막 업데이트 날짜 |
-| error | 실패 원인 (있을 때만) |
-
-- 3단계(RIC) 모두 완료 → 자동으로 `done`
-- 재시도 성공 시 에러 자동 클리어
-- `-c 10` 실행 시 `done`은 건너뛰고 `partial`/`failed`부터 재처리
-
----
-
-## 내부 링크 자동화
-
-MDX 변환 시 관련 포스트를 자동으로 추천하여 내부 링크를 삽입합니다:
-
-1. **인덱스 빌드**: 전체 포스트(deep-dive + 일반) 인덱스를 JSON으로 캐시
-2. **키워드 사전필터**: 주제 관련 후보 40개 추출 (deep-dive 가중치 +3)
-3. **Gemini Flash 선별**: 후보 중 5~8개를 최종 추천 (★ deep-dive 우선)
-4. **MDX 변환 프롬프트**에 추천 목록을 전달하여 자연스럽게 삽입
-5. **생성 완료 후 인덱스 갱신** → 다음 글에서 방금 만든 글도 추천 대상
-
----
-
-## 파이프라인 흐름
-
-```
-todo.md (600 topics)
-    │
-    ├─[R] Deep Research API (deep-research-preview-04-2026)
-    │     └→ content/deep-dive-drafts/{num}. [{code}] {topic}.txt
-    │
-    ├─[I] Cover Image (gemini-3-pro-image-preview → Pillow overlay)
-    │     └→ public/images/deep-dive/{slug}.webp
-    │
-    └─[C] MDX Conversion (gemini-3.1-pro-preview + 내부 링크 추천)
-          └→ content/deep-dive/{slug}-2026.md
-          └→ link-index.json 갱신
-```
-
-## 모듈별 임포트
-
-```python
-# 설정
-from scripts.deep_dive.config import API_KEY, IMAGE_MODEL, CATEGORY_CODE_MAP
-
-# 주제 관리 + 상태
-from scripts.deep_dive.topics import parse_todo, find_next_number, update_status
-from scripts.deep_dive.topics import STEP_RESEARCH, STEP_IMAGE, STEP_CONVERT
-
-# 리서치
-from scripts.deep_dive.research import build_prompt, run_deep_research_streaming
-
-# 내부 링크
-from scripts.deep_dive.links import build_index, recommend_links, refresh_index
-
-# MDX 변환
-from scripts.deep_dive.convert import convert_to_mdx, sanitize_mdx, save_mdx
-
-# 커버 이미지
-from scripts.deep_dive.cover import generate_cover, overlay_text
-```
-
-## 주제 추가
-
-1. `scripts/deep_dive/todo.md`에 새 주제 추가:
-   ```
-   601. [T] New Topic Name Here
-   ```
-   카테고리 코드: `[M]` Medical, `[T]` Travel, `[K]` K-Culture, `[L]` Living, `[F]` Food, `[S]` Shopping
-
-2. 실행:
-   ```bash
-   python -m scripts.deep_dive -n 601
-   ```
-
-## 필요 패키지
-
-```bash
-pip install google-genai python-dotenv Pillow
-```
-
-## 환경변수
-
-`.env.local`에 `GEMINI_API_KEY` 설정 필요.
-
-
-C:\kc\korea-experience\content\deep-dive 폴더에 신규로 추가된 MD파일을 분석해서 문제가 없는지 확인 한 후 문제가 있으면 수정하고, 다시 문제 안생기게 수정하고, 빌드하고, 웹서버 띄우고 문제 없으면 이미지 포함해서 전체 푸쉬해줘
-
+Google 모델, 가격, 검색 grounding 정책은 자주 변하므로 실행 전 [Gemini 모델](https://ai.google.dev/gemini-api/docs/models), [가격](https://ai.google.dev/gemini-api/docs/pricing), [Google Search grounding](https://ai.google.dev/gemini-api/docs/google-search)을 확인합니다.

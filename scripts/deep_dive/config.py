@@ -29,10 +29,15 @@ load_dotenv(PROJECT_ROOT / ".env.local")
 API_KEY = os.getenv("GEMINI_API_KEY", "")
 
 # ── 모델 ──
-IMAGE_MODEL = "gemini-3-pro-image-preview"        # 이미지 생성 (Nano Banana Pro)
-SCENE_MODEL = "gemini-2.5-flash"                  # Scene description / 커버 요소 / 링크 추천
-CONVERT_MODEL = "gemini-3.1-pro-preview"          # MDX 변환 (gemini-3-pro-preview는 2026-03-09 종료)
-RESEARCH_AGENT = "deep-research-preview-04-2026"  # Deep Research API (Interactions API)
+# Flash 파이프라인 기본값: Gemini 3.5 Flash-Lite + Google Search grounding.
+# 모델 ID는 Google Gemini API 모델·가격 문서 확인일(2026-10-12) 기준입니다.
+IMAGE_MODEL = os.getenv("GEMINI_IMAGE_MODEL", "gemini-3.1-flash-lite-image")
+SCENE_MODEL = os.getenv("GEMINI_UTILITY_MODEL", "gemini-3.5-flash-lite")
+RESEARCH_MODEL = os.getenv("GEMINI_RESEARCH_MODEL", "gemini-3.5-flash-lite")
+CONVERT_MODEL = os.getenv("GEMINI_CONVERT_MODEL", "gemini-3.5-flash-lite")
+REVIEW_MODEL = os.getenv("GEMINI_REVIEW_MODEL", "gemini-3.5-flash-lite")
+LEGACY_RESEARCH_AGENT = os.getenv("GEMINI_RESEARCH_AGENT", "deep-research-preview-04-2026")
+USE_LLM_LINK_RECOMMENDATIONS = os.getenv("GEMINI_LLM_LINKS", "0").lower() in {"1", "true", "yes"}
 
 # ── 타이밍 ──
 RATE_LIMIT_DELAY = 5       # 이미지 생성 간 대기 (초)

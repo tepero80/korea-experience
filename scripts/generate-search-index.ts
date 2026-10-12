@@ -18,8 +18,8 @@ const outputPath = path.join(process.cwd(), 'public/search-index.json');
 function hasArticleBody(directory: string, fileName: string): boolean {
   try {
     const filePath = path.join(directory, fileName);
-    const { content } = matter(fs.readFileSync(filePath, 'utf8'));
-    return content.trim().length > 0;
+    const { data, content } = matter(fs.readFileSync(filePath, 'utf8'));
+    return content.trim().length > 0 && data.draft !== true;
   } catch {
     return false;
   }

@@ -48,7 +48,9 @@ CRITICAL RULES:
 1. Output ONLY the MDX content. Start directly with --- for frontmatter.
 2. Do NOT wrap output in code blocks. No ```markdown or ```mdx.
 3. English only — no Korean characters in the output.
-4. All content from the draft must be preserved — do not omit information.
+4. Preserve supported facts, source URLs, caveats, and useful detail. Remove repetition, template filler, and unsupported claims.
+5. Never invent or "improve" prices, dates, experts, quotes, addresses, ratings, or source URLs.
+6. For volatile facts, retain the draft's verification date and uncertainty. Prefer official/primary sources in the Sources section.
 
 FRONTMATTER (exact format):
 ---
@@ -71,9 +73,10 @@ EXCERPT RULES:
 - Include specific data points (prices, percentages, year)
 - Do NOT use colons (:) inside the excerpt
 
-STRUCTURE: Opening paragraph → KeyTakeaways → QuickFacts → Body (4-6 H2s) →
-Timeline → ComparisonTable → ProsCons → StepGuide → ExpertTip →
-InfoBox (arc-free MANDATORY) → FAQAccordion (MANDATORY) → Conclusion → Sources
+STRUCTURE: Opening paragraph → KeyTakeaways → Body (4-6 H2s) →
+relevant supporting components → FAQAccordion → Conclusion → Sources.
+Use Timeline, ComparisonTable, ProsCons, StepGuide, ExpertTip, and InfoBox only when the
+draft contains sourced material that genuinely fits them. Never manufacture content to fill a component.
 
 ═══════════════════════════════════════════════
 COMPONENT PROP SPECIFICATIONS (MUST follow EXACTLY):
@@ -132,8 +135,14 @@ JSX RULES:
 - Boolean: rating={{4.5}} verified={{true}}
 - No double quotes inside strings — use single quotes
 
-MINIMUM: 3,000+ words, 5-7 components, 4-6 H2 sections,
-KeyTakeaways + FAQAccordion + InfoBox arc-free all MANDATORY.
+TARGET: 2,200-3,500 words, 3-6 relevant components, 4-6 H2 sections.
+KeyTakeaways + FAQAccordion are mandatory. InfoBox type="arc-free" is only for topics where
+Korean phone-number or residence-card access is a real reader constraint.
+
+SOURCES:
+- End with a "## Sources" section containing the draft's real source URLs.
+- Keep at least 5 directly relevant sources, including at least 2 official/primary sources for time-sensitive topics.
+- Do not cite a URL for a claim it does not support.
 
 ---
 
@@ -436,10 +445,51 @@ def sanitize_mdx(content: str) -> tuple[str, list[str]]:
     return content, fixes
 
 
+def validate_generated_mdx(content: str) -> list[str]:
+    """새로 생성된 MDX가 저장 가능한 최소 품질 기준을 충족하는지 검사합니다."""
+    errors = []
+    frontmatter = re.match(r"^---\s*\n(.*?)\n---", content, re.DOTALL)
+    if not frontmatter:
+        return ["frontmatter missing"]
+
+    metadata = frontmatter.group(1)
+    for field, limit in (("title", 70), ("excerpt", 160)):
+        match = re.search(rf'^{field}:\s*["\']?(.+?)["\']?\s*$', metadata, re.MULTILINE)
+        if not match:
+            errors.append(f"{field} missing")
+            continue
+        value = match.group(1).strip().strip('"\'')
+        if len(value) > limit:
+            errors.append(f"{field} exceeds {limit} characters ({len(value)})")
+
+    body = content[frontmatter.end():]
+    word_count = len(re.findall(r"\b[\w'-]+\b", body))
+    if word_count < 1800:
+        errors.append(f"body too short ({word_count} words; minimum 1,800)")
+
+    h2_count = len(re.findall(r"^##\s+", body, re.MULTILINE))
+    if h2_count < 4:
+        errors.append(f"too few H2 sections ({h2_count}; minimum 4)")
+
+    for component in ("KeyTakeaways", "FAQAccordion"):
+        if not re.search(rf"<{component}\b", body):
+            errors.append(f"{component} missing")
+
+    sources = re.search(r"^##\s+Sources\s*$([\s\S]*)", body, re.MULTILINE | re.IGNORECASE)
+    if not sources:
+        errors.append("Sources section missing")
+    else:
+        source_urls = set(re.findall(r"https?://[^\s)>\]]+", sources.group(1)))
+        if len(source_urls) < 5:
+            errors.append(f"too few source URLs ({len(source_urls)}; minimum 5)")
+
+    return errors
+
+
 def convert_to_mdx(draft_text: str, category: str, slug: str,
                    image_path: str | None, api_key: str = "",
                    topic: str = "") -> str | None:
-    """Gemini Pro를 사용하여 드래프트를 MDX로 변환합니다."""
+    """Gemini 텍스트 모델을 사용하여 드래프트를 MDX로 변환합니다."""
     from google import genai
     from google.genai import types
 
@@ -460,7 +510,7 @@ def convert_to_mdx(draft_text: str, category: str, slug: str,
         response = client.models.generate_content(
             model=CONVERT_MODEL,
             contents=[prompt],
-            config=types.GenerateContentConfig(temperature=0.3, max_output_tokens=65536),
+            config=types.GenerateContentConfig(temperature=0.2, max_output_tokens=16384),
         )
 
         result = response.text
@@ -475,6 +525,13 @@ def convert_to_mdx(draft_text: str, category: str, slug: str,
                 print(f"   • {f}")
         else:
             print("✅ MDX 검증 통과")
+
+        quality_errors = validate_generated_mdx(sanitized)
+        if quality_errors:
+            print("❌ MDX 품질 게이트 실패:")
+            for error in quality_errors:
+                print(f"   • {error}")
+            return None
 
         word_count = len(sanitized.split())
         print(f"   단어 수: ~{word_count:,}")

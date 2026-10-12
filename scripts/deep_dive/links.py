@@ -17,7 +17,7 @@ import time
 from pathlib import Path
 
 from .config import (
-    API_KEY, SCENE_MODEL,        # Flash 모델 — 빠르고 저렴
+    API_KEY, SCENE_MODEL, USE_LLM_LINK_RECOMMENDATIONS,
     DEEP_DIVE_DIR, POSTS_DIR,
     DEEP_DIVE_SCRIPTS,
 )
@@ -40,6 +40,9 @@ def _extract_frontmatter(filepath: Path) -> dict | None:
     if not fm_match:
         return None
     fm = fm_match.group(1)
+
+    if re.search(r"(?m)^draft:\s*true\s*$", fm, re.IGNORECASE):
+        return None
 
     title_m = re.search(r'title:\s*"?([^"\n]+)"?', fm)
     cat_m = re.search(r'category:\s*(.+)', fm)
@@ -213,6 +216,9 @@ def recommend_links(topic: str, category: str, slug: str = "",
     if not candidates:
         return []
 
+    if not USE_LLM_LINK_RECOMMENDATIONS:
+        return _fallback_recommend(candidates, count)
+
     # 후보 목록 포맷
     candidate_lines = []
     for c in candidates:
@@ -237,7 +243,7 @@ def recommend_links(topic: str, category: str, slug: str = "",
         )
 
         response = client.models.generate_content(
-            model=SCENE_MODEL,  # gemini-2.5-flash — 빠르고 저렴
+            model=SCENE_MODEL,
             contents=[prompt],
             config=types.GenerateContentConfig(temperature=0.2, max_output_tokens=1024),
         )

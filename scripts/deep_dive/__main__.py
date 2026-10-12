@@ -1,5 +1,12 @@
-"""python -m scripts.deep_dive 으로 실행 시 generate.main() 호출"""
-from scripts.deep_dive.generate import main
+"""python -m scripts.deep_dive runs the Flash workflow; Deep Research is legacy opt-in."""
+import sys
 
-if __name__ == "__main__":
+if "--legacy-deep-research" in sys.argv:
+    sys.argv.remove("--legacy-deep-research")
+    from scripts.deep_dive.generate import main
+
     main()
+else:
+    from scripts.deep_dive.flash_pipeline import main
+
+    raise SystemExit(main())

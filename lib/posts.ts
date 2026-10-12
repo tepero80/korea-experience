@@ -88,7 +88,7 @@ function readPostsFromDirectory(directory: string): PostMetadata[] {
       const { data, content } = matter(fileContents);
 
       // Empty Markdown files should never become indexable pages or sitemap URLs.
-      if (!content.trim()) {
+      if (!content.trim() || data.draft === true) {
         continue;
       }
 
@@ -150,7 +150,7 @@ export function getPostBySlug(slug: string): Post | null {
     const { data, content } = matter(fileContents);
 
     // A directly requested empty post is not a published article.
-    if (!content.trim()) {
+    if (!content.trim() || data.draft === true) {
       return null;
     }
 

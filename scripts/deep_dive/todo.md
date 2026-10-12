@@ -137,8 +137,7 @@
 150. [S] Wowpass instant discounts  | done  | RIC  | 2026-04-24
 151. [M] Stem cell regenerative medicine  | done  | RIC  | 2026-04-24
 152. [T] 5 Hidden Hanok Villages  | done  | RIC  | 2026-04-24
-
-153. [M] Hair transplant in Korea vs. Turkey: cost, FUE technique, 2026
+153. [M] Hair transplant in Korea vs. Turkey: cost, FUE technique, 2026  | partial  | RC  | 2026-09-22
 154. [M] IV drip bars in Gangnam: Cinderella, NAD+, glutathione menu guide
 155. [M] Dermatology aftercare: sunscreen, downtime, DO-NOT list after laser
 156. [M] Skin booster vs. mesotherapy vs. PRP: which for which skin type 2026
