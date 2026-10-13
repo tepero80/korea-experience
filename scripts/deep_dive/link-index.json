@@ -186,6 +186,18 @@
     "deep_dive": true
   },
   {
+    "slug": "choosing-a-registered-medical-institution-in-korea-official-verification-steps-f",
+    "title": "How to Verify a Medical Provider in Korea",
+    "category": "\"Medical Tourism\"",
+    "excerpt": "Learn what foreign-patient registration does—and does not prove—and how to ask a Korean provider for official details before booking.",
+    "keywords": [
+      "verify",
+      "medical",
+      "provider"
+    ],
+    "deep_dive": true
+  },
+  {
     "slug": "climate-card-is-it-worth-it-for-30-days-2026",
     "title": "Seoul Climate Card 2026: Is the Unlimited Transit Pass Worth It?",
     "category": "Living in Korea",
@@ -1045,6 +1057,18 @@
     "deep_dive": true
   },
   {
+    "slug": "korean-fragrance-boutiques-how-to-sample-scents-and-find-official-brand-stores",
+    "title": "How to Explore Korean Fragrance Boutiques in Seoul",
+    "category": "\"Shopping & K-Beauty\"",
+    "excerpt": "Plan a Seoul fragrance-shopping visit, use store locators to confirm current branches, and ask boutiques about testers and sample policies.",
+    "keywords": [
+      "explore",
+      "fragrance",
+      "boutiques"
+    ],
+    "deep_dive": true
+  },
+  {
     "slug": "korean-glasses-and-lenses-in-30-mins-2026",
     "title": "Korean Glasses & Lenses in 30 Mins: The 2026 Insider Guide",
     "category": "Shopping & K-Beauty",
@@ -1219,6 +1243,20 @@
     "deep_dive": true
   },
   {
+    "slug": "ktx-seat-and-luggage-guide-for-international-travelers",
+    "title": "KTX Luggage and Seat Guide for International Travelers",
+    "category": "\"Travel & Tourism\"",
+    "excerpt": "Know Korail's carry-on rule, where to ask about luggage space, and how to handle a lost item on a KTX trip.",
+    "keywords": [
+      "ktx",
+      "luggage",
+      "seat",
+      "international",
+      "travelers"
+    ],
+    "deep_dive": true
+  },
+  {
     "slug": "licensed-medical-coordinator-guide-2026",
     "title": "The Ultimate 2026 Guide to Finding a Licensed Medical Coordinator...",
     "category": "Medical Tourism",
@@ -1328,6 +1366,47 @@
       "medical",
       "emergencies",
       "strike"
+    ],
+    "deep_dive": true
+  },
+  {
+    "slug": "medical-records-for-international-patients-in-korea-translation-consent-and-copi",
+    "title": "Getting Medical Records in Korea: Copies and Translation",
+    "category": "\"Medical Tourism\"",
+    "excerpt": "Learn the general patient-access rule in Korea, what representatives may need, and why fees and English translation vary by hospital.",
+    "keywords": [
+      "getting",
+      "medical",
+      "records",
+      "copies",
+      "translation"
+    ],
+    "deep_dive": true
+  },
+  {
+    "slug": "medical-tourism-complaint-and-support-channels-in-korea-official-contacts-and-do",
+    "title": "Medical-Tourism Support and Dispute Channels in Korea",
+    "category": "\"Medical Tourism\"",
+    "excerpt": "Find official starting points for medical-tourism questions and learn the basic Korean medical-dispute application process.",
+    "keywords": [
+      "medical",
+      "tourism",
+      "support",
+      "dispute",
+      "channels"
+    ],
+    "deep_dive": true
+  },
+  {
+    "slug": "medical-tourism-consultation-checklist-questions-about-clinician-interpreter-and",
+    "title": "Medical Tourism Consultation Checklist for Korea",
+    "category": "\"Medical Tourism\"",
+    "excerpt": "Use these questions to clarify the treating clinician, interpreter, written estimate, consent, and follow-up before arranging care in Korea.",
+    "keywords": [
+      "medical",
+      "tourism",
+      "consultation",
+      "checklist"
     ],
     "deep_dive": true
   },
@@ -1516,6 +1595,20 @@
       "where",
       "get",
       "tested"
+    ],
+    "deep_dive": true
+  },
+  {
+    "slug": "planning-post-procedure-travel-from-korea-questions-to-ask-your-treating-clinici",
+    "title": "Planning Travel After Medical Treatment in Korea",
+    "category": "\"Medical Tourism\"",
+    "excerpt": "Plan post-treatment travel around your own recovery, follow-up needs, medical documents, and the treating clinician's advice.",
+    "keywords": [
+      "planning",
+      "travel",
+      "after",
+      "medical",
+      "treatment"
     ],
     "deep_dive": true
   },
