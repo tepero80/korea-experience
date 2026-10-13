@@ -92,7 +92,7 @@ export async function GET() {
       priority = '0.8';
     }
 
-    const postDate = new Date(post.date).toISOString().split('T')[0];
+    const postDate = new Date(post.updated || post.date).toISOString().split('T')[0];
     const dims = getImageDimensions(post.image);
     const imageUrl = post.image && dims
       ? `${baseUrl}${post.image}`

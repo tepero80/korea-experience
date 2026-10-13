@@ -14,9 +14,8 @@ export default function Home() {
   // Get featured posts (6 hand-picked articles)
   const featuredPosts = getFeaturedPosts();
   
-  // Get latest deep dive per category (excluding featured)
-  const featuredSlugs = featuredPosts.map(p => p.slug);
-  const categoryLatest = getLatestDeepDivePerCategory(featuredSlugs);
+  // Always show the newest Deep Dive in each category, even if it is featured above.
+  const categoryLatest = getLatestDeepDivePerCategory([], 1);
   
   return (
     <div className="pt-20"> {/* Padding for fixed header */}
@@ -283,7 +282,7 @@ export default function Home() {
                             <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z" />
                             </svg>
-                            <span>{new Date(post.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
+                            <span>{new Date(post.updated || post.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })}</span>
                           </div>
                           <div className="flex items-center gap-1 text-blue-600 font-semibold group-hover:gap-2 transition-all">
                             <span>Read</span>

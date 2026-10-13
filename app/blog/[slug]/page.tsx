@@ -105,7 +105,7 @@ export default async function BlogPostPage({ params }: { params: Params }) {
     title: post.title,
     description: post.excerpt,
     datePublished: post.date,
-    dateModified: post.date,
+    dateModified: post.updated || post.date,
     author: SITE_CONFIG.author,
     category: post.category,
     url: `${SITE_CONFIG.url}/blog/${slug}`,

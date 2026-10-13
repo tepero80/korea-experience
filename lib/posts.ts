@@ -41,6 +41,7 @@ export interface Post {
   slug: string;
   title: string;
   date: string;
+  updated?: string;
   excerpt: string;
   category: string;
   content: string;
@@ -58,6 +59,7 @@ export interface PostMetadata {
   slug: string;
   title: string;
   date: string;
+  updated?: string;
   excerpt: string;
   category: string;
   image?: string;
@@ -96,6 +98,7 @@ function readPostsFromDirectory(directory: string): PostMetadata[] {
         slug,
         title: data.title || slug,
         date: data.date || new Date().toISOString(),
+        updated: data.updated,
         excerpt: data.excerpt || data.description || '',
         category: data.category || 'Uncategorized',
         image: data.image,
@@ -115,6 +118,20 @@ function readPostsFromDirectory(directory: string): PostMetadata[] {
   return posts;
 }
 
+function comparePostRecency(a: PostMetadata, b: PostMetadata): number {
+  const aUpdated = Date.parse(a.updated || a.date) || 0;
+  const bUpdated = Date.parse(b.updated || b.date) || 0;
+  if (aUpdated !== bUpdated) return bUpdated - aUpdated;
+
+  const aPublished = Date.parse(a.date) || 0;
+  const bPublished = Date.parse(b.date) || 0;
+  if (aPublished !== bPublished) return bPublished - aPublished;
+
+  // Equal dates are common for same-day batch publishing. Return 0 for equal
+  // dates, with a stable slug tie-break so sorting never scrambles old/new posts.
+  return a.slug.localeCompare(b.slug);
+}
+
 // Get all blog posts (from both posts and deep-dive directories)
 export function getAllPosts(): PostMetadata[] {
   try {
@@ -123,8 +140,7 @@ export function getAllPosts(): PostMetadata[] {
     
     const allPostsData = [...regularPosts, ...deepDivePosts];
 
-    // Sort posts by date
-    return allPostsData.sort((a, b) => (a.date < b.date ? 1 : -1));
+    return allPostsData.sort(comparePostRecency);
   } catch (error) {
     console.error('Error reading posts:', error);
     return [];
@@ -158,6 +174,7 @@ export function getPostBySlug(slug: string): Post | null {
       slug,
       title: data.title || slug,
       date: data.date || new Date().toISOString(),
+      updated: data.updated,
       excerpt: data.excerpt || data.description || '',
       category: data.category || 'Uncategorized',
       content,
@@ -272,13 +289,13 @@ export function getDeepDivePosts(limit: number = 3): PostMetadata[] {
 }
 
 // Get the latest deep dive post per category, excluding given slugs
-export function getLatestDeepDivePerCategory(excludeSlugs: string[] = [], perCategory: number = 2): PostMetadata[] {
+export function getLatestDeepDivePerCategory(excludeSlugs: string[] = [], perCategory: number = 1): PostMetadata[] {
   const allPosts = getAllPosts();
   const excluded = new Set(excludeSlugs);
 
   const deepDivePosts = allPosts
     .filter((p) => p.deepDive === true && !excluded.has(p.slug))
-    .sort((a, b) => (a.date < b.date ? 1 : -1));
+    .sort(comparePostRecency);
 
   const countMap = new Map<string, number>();
   const result: PostMetadata[] = [];
