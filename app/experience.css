@@ -1,4 +1,39 @@
 @import '../styles/design-system.css';
+.tool-number {
+  color: var(--ke-muted);
+}
+.share-box {
+  background: #f3f8f5;
+  color: var(--ke-ink);
+  border: 1px solid var(--ke-line);
+  border-radius: 16px;
+}
+.share-box p {
+  color: var(--ke-muted);
+}
+.share-box .eyebrow,
+.share-box .share-source-url {
+  color: var(--ke-amber);
+}
+.share-box .share-source-url {
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.share-box .action-button {
+  background: #fff;
+  color: var(--ke-amber);
+  border-color: #b8d2cc;
+}
+.share-box .action-button:hover {
+  background: #07534f;
+  color: #fff;
+  border-color: #07534f;
+}
+.document-prose .button,
+.document-prose .button:hover {
+  color: white;
+  text-decoration: none;
+}
 .planner-fields {
   border: 0;
   padding: 0;
@@ -763,6 +798,48 @@ button:disabled {
   padding: 0;
   margin: 12px 0 18px;
   list-style: none;
+}
+.answer-box .eyebrow {
+  font-size: 11px;
+  line-height: 1.4;
+  margin: 0 0 10px;
+}
+.answer-box .opening-answer {
+  color: #214e44;
+  font-size: 18px;
+  line-height: 1.6;
+  margin: 14px 0 20px;
+}
+.article-opening .answer-box > h2 {
+  margin-top: 0;
+}
+.answer-box .quick-choices li {
+  font-size: 16px;
+  line-height: 1.5;
+  padding: 10px 0;
+}
+.answer-conditions {
+  margin-top: 12px;
+  border-top: 1px solid #cfe1da;
+  padding-top: 8px;
+}
+.answer-conditions summary {
+  font-size: 14px;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  color: var(--ke-amber);
+}
+.answer-conditions summary::before {
+  content: '+';
+  font-weight: 700;
+  margin-right: 8px;
+}
+.answer-conditions[open] summary::before {
+  content: '−';
 }
 .quick-choices li {
   display: grid;

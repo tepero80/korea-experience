@@ -28,12 +28,12 @@ jobs:
         with:
           name: traveler-quality-screens
           path: test-results/**/page.png
-          retention-days: 7
+          retention-days: 1
       - uses: actions/upload-artifact@v4
         if: failure()
         with:
           name: traveler-quality-failure
           path: |
-            playwright-report/
-            test-results/
-          retention-days: 7
+            test-results/**/*.png
+            test-results/**/error-context.md
+          retention-days: 1

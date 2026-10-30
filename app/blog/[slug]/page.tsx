@@ -116,30 +116,8 @@ export default async function Guide({ params }: { params: Params }) {
         <div className={e ? 'article-opening' : undefined}>
           {e ? (
             <section className="answer-box" aria-labelledby="quick-answer">
-              <p className="eyebrow">Start here</p>
-              <h2 id="quick-answer">
-                {e.quickChoices?.length ? e.quickTitle || 'Your next decision' : e.answer}
-              </h2>
-              {e.quickChoices?.length ? (
-                <ul className="quick-choices">
-                  {e.quickChoices.map((c) => (
-                    <li key={c.label}>
-                      <strong>{c.label}</strong>
-                      <span>{c.detail}</span>
-                    </li>
-                  ))}
-                </ul>
-              ) : null}
-              <p>
-                <strong>For:</strong> {e.forWhom}
-              </p>
-              {e.conditions.length ? (
-                <ul>
-                  {e.conditions.map((c) => (
-                    <li key={c}>{c}</li>
-                  ))}
-                </ul>
-              ) : null}
+              <h2 id="quick-answer">{e.quickTitle || 'Your quick answer'}</h2>
+              <p className="opening-answer">{e.answer}</p>
               <div className="article-actions no-print">
                 <SaveButton
                   id={post.id}
@@ -159,6 +137,33 @@ export default async function Guide({ params }: { params: Params }) {
               <a className="text-link" href="#guide-details">
                 See the steps & comparisons ↓
               </a>
+              <details className="answer-conditions">
+                <summary>
+                  {e.quickChoices?.length
+                    ? 'Compare the choices & key conditions'
+                    : 'Who this helps & key conditions'}
+                </summary>
+                {e.quickChoices?.length ? (
+                  <ul className="quick-choices">
+                    {e.quickChoices.map((c) => (
+                      <li key={c.label}>
+                        <strong>{c.label}</strong>
+                        <span>{c.detail}</span>
+                      </li>
+                    ))}
+                  </ul>
+                ) : null}
+                <p>
+                  <strong>For:</strong> {e.forWhom}
+                </p>
+                {e.conditions.length ? (
+                  <ul>
+                    {e.conditions.map((c) => (
+                      <li key={c}>{c}</li>
+                    ))}
+                  </ul>
+                ) : null}
+              </details>
             </section>
           ) : null}
           {post.image ? (

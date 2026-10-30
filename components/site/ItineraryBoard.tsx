@@ -567,7 +567,13 @@ export default function ItineraryBoard() {
                             setEditing(s.id);
                             document
                               .getElementById('stop-editor')
-                              ?.scrollIntoView({ block: 'start', behavior: 'smooth' });
+                              ?.scrollIntoView({
+                                block: 'start',
+                                behavior: window.matchMedia('(prefers-reduced-motion: reduce)')
+                                  .matches
+                                  ? 'auto'
+                                  : 'smooth',
+                              });
                           }}
                         >
                           Edit <span className="sr-only">{s.place}</span>

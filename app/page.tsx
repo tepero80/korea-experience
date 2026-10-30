@@ -149,9 +149,9 @@ export default function Home() {
             </Link>
           </div>
           <div className="tool-feature-list">
-            {PRIMARY_TRAVEL_TOOLS.map((t) => (
+            {PRIMARY_TRAVEL_TOOLS.map((t, index) => (
               <Link href={t.href} key={t.id}>
-                <span className="tool-number">{t.icon}</span>
+                <span className="tool-number">{String(index + 1).padStart(2, '0')}</span>
                 <div>
                   <h3>{t.title}</h3>
                   <p>{t.description}</p>

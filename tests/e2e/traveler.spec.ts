@@ -35,6 +35,7 @@ for (const path of [
     await expect(page.locator('h1')).toHaveCount(1);
     await expect(page.locator('h1')).toBeVisible();
     await page.evaluate(() => document.fonts.ready);
+    await page.screenshot({ path: testInfo.outputPath('page.png'), fullPage: true });
     expect(
       await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1),
     ).toBeTruthy();
@@ -42,7 +43,6 @@ for (const path of [
       .withTags(['wcag2a', 'wcag2aa', 'wcag21aa', 'wcag22aa'])
       .analyze();
     expect(violations).toEqual([]);
-    await page.screenshot({ path: testInfo.outputPath('page.png'), fullPage: true });
   });
 }
 test('search finds an arrival guide and Escape returns focus', async ({ page }) => {

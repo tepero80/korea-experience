@@ -398,7 +398,7 @@
     "categoryId": "airports-transport",
     "format": "decision",
     "checkedAt": "2026-10-31",
-    "answer": "Use the all-stop train for Hongdae, compare Express for Seoul Station, and choose a bus only when its stop solves your hotel journey. After the last usable connection, use a confirmed night-bus or authorized-taxi fallback.",
+    "answer": "Take the all-stop train for Hongdae. Compare Express at Seoul Station. Consider a bus for a stop near your hotel, or an authorized taxi for a difficult arrival.",
     "forWhom": "Visitors arriving at Incheon T1 or T2 for a Seoul hotel",
     "conditions": [
       "Train prices are per person; taxi prices are per vehicle.",
@@ -511,20 +511,16 @@
     "quickTitle": "Choose for the hotel door",
     "quickChoices": [
       {
-        "label": "Hongdae",
-        "detail": "Start with the all-stop train. Express does not stop at Hongik University."
-      },
-      {
-        "label": "Seoul Station",
-        "detail": "Express saves rail time; all-stop saves money. Compare per person."
+        "label": "Train",
+        "detail": "Hongdae: all-stop. Seoul Station: compare Express time and all-stop fare."
       },
       {
         "label": "Hotel-area bus",
-        "detail": "Choose a limousine bus when its stop avoids difficult transfers and a long walk."
+        "detail": "Check whether its actual stop saves a difficult hotel transfer."
       },
       {
-        "label": "Late or many bags",
-        "detail": "Keep an authorized taxi or confirmed night-bus connection as your fallback."
+        "label": "Late / many bags",
+        "detail": "Confirm a night bus or authorized taxi fallback."
       }
     ]
   },

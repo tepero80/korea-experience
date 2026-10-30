@@ -106,41 +106,47 @@ export default function ShareActions(props: Props) {
   async function download(story = false) {
     setBusy(true);
     try {
+      await Promise.all([
+        document.fonts.load('700 64px "KE Manrope"'),
+        document.fonts.load('400 30px "KE Sans"'),
+      ]);
       const canvas = document.createElement('canvas');
       canvas.width = 1080;
       canvas.height = story ? 1920 : 1350;
       const c = canvas.getContext('2d');
       if (!c) throw new Error('Canvas unavailable');
-      c.fillStyle = '#faf9f5';
+      c.fillStyle = '#ffffff';
       c.fillRect(0, 0, canvas.width, canvas.height);
-      c.fillStyle = '#20322e';
+      c.fillStyle = '#086b66';
       c.fillRect(0, 0, 1080, 34);
-      c.fillStyle = '#b15a25';
-      c.font = 'bold 22px Arial';
+      c.fillStyle = '#086b66';
+      c.font = '700 22px "KE Sans", Arial, sans-serif';
       c.fillText('KOREA EXPERIENCE  /  SAVE FOR YOUR TRIP', 80, 110);
-      c.font = '22px Arial';
-      c.fillStyle = '#62716b';
+      c.font = '400 22px "KE Sans", Arial, sans-serif';
+      c.fillStyle = '#546c68';
       c.fillText(props.category, 80, 175);
-      c.fillStyle = '#20322e';
-      c.font = story ? '64px Georgia' : '52px Georgia';
+      c.fillStyle = '#163632';
+      c.font = story
+        ? '700 64px "KE Manrope", Arial, sans-serif'
+        : '700 52px "KE Manrope", Arial, sans-serif';
       let y = lines(c, props.title, 80, 260, 900, story ? 77 : 64, 3) + 25;
-      c.font = '27px Arial';
-      c.fillStyle = '#62716b';
+      c.font = '400 27px "KE Sans", Arial, sans-serif';
+      c.fillStyle = '#546c68';
       y = lines(c, props.summary, 80, y, 900, 40, 3) + 25;
-      c.font = '30px Arial';
+      c.font = '400 30px "KE Sans", Arial, sans-serif';
       for (const fact of props.facts.slice(0, story ? 3 : 2)) {
-        c.fillStyle = '#e9eee7';
+        c.fillStyle = '#edf7f3';
         c.fillRect(65, y - 30, 950, 140);
-        c.fillStyle = '#20322e';
+        c.fillStyle = '#163632';
         lines(c, fact, 90, y + 10, 890, 42, 3);
         y += 165;
       }
-      c.fillStyle = '#62716b';
-      c.font = '21px Arial';
+      c.fillStyle = '#546c68';
+      c.font = '400 21px "KE Sans", Arial, sans-serif';
       if (props.checkedAt)
         c.fillText(`Checked ${props.checkedAt} · Conditions may change`, 80, canvas.height - 155);
       c.fillText('Find the full guide and official sources:', 80, canvas.height - 110);
-      c.font = '23px Arial';
+      c.font = '400 23px "KE Sans", Arial, sans-serif';
       lines(c, props.url.replace('https://', ''), 80, canvas.height - 65, 920, 27, 2);
       const blob = await new Promise<Blob>((resolve, reject) =>
         canvas.toBlob(

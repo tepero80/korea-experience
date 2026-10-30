@@ -167,8 +167,8 @@ export default function PlaceMap({ places, guideId }: { places: Place[]; guideId
                 <button onClick={() => copy(`${p.nameKo}${p.address ? '\n' + p.address : ''}`)}>
                   {p.address ? 'Copy address' : 'Copy map query'}
                 </button>
-                <button onClick={() => add(p)}>
-                  Add to trip board<span className="sr-only">: {p.name}</span>
+                <button onClick={() => add(p)} aria-label={`Add to trip board: ${p.name}`}>
+                  Add to trip board
                 </button>
               </div>
             </div>
