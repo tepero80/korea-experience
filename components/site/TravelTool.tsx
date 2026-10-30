@@ -12,11 +12,11 @@ import {
   type BudgetInput,
 } from '@/lib/travel-tools';
 import { track } from '@/lib/analytics';
-import ShareActions from './ShareActions';
+import ItineraryBoard from './ItineraryBoard';
 import type { Place } from '@/lib/content-types';
 import PlaceMap from './PlaceMap';
 import ToolResultShare from './ToolResultShare';
-import community from '@/data/community-config.json';
+import { budgetShareUrl, passShareUrl, readBudgetShare, readPassShare } from '@/lib/tool-share';
 type Props = { slug: string; title: string; description: string; places: Place[] };
 function NumberField({
   name,
@@ -77,12 +77,30 @@ function Select({
 }
 function Pass() {
   const [days, setDays] = useState(3),
+    [travelers, setTravelers] = useState(1),
+    [regularCardCost, setRegularCardCost] = useState(0),
     [journeys, setJourneys] = useState(8),
     [fare, setFare] = useState(1550),
     [card, setCard] = useState(true),
     [excluded, setExcluded] = useState(0),
     [result, setResult] = useState<ReturnType<typeof comparePass>>();
   const [error, setError] = useState('');
+  useEffect(() => {
+    try {
+      const input = readPassShare(window.location.search);
+      if (!input) return;
+      setDays(input.days);
+      setJourneys(input.journeys);
+      setFare(input.averageFare);
+      setCard(input.needsCard);
+      setExcluded(input.uncoveredCost);
+      setTravelers(input.travelers!);
+      setRegularCardCost(input.regularCardCost!);
+      setResult(comparePass(input));
+    } catch {
+      setError('Shared inputs could not be loaded. Enter your own travel conditions below.');
+    }
+  }, []);
   function submit(e: FormEvent) {
     e.preventDefault();
     try {
@@ -93,6 +111,8 @@ function Pass() {
           averageFare: fare,
           needsCard: card,
           uncoveredCost: excluded,
+          travelers,
+          regularCardCost,
         }),
       );
       setError('');
@@ -105,6 +125,14 @@ function Pass() {
     <>
       <form className="tool-form" onSubmit={submit}>
         <NumberField
+          name="pass-travelers"
+          label="Travelers with the same fare and travel pattern"
+          value={travelers}
+          set={setTravelers}
+          min={1}
+          max={30}
+        />
+        <NumberField
           name="pass-days"
           label="Consecutive service days (1–7)"
           value={days}
@@ -114,7 +142,7 @@ function Pass() {
         />
         <NumberField
           name="journeys"
-          label="Eligible charged journeys (after transfers)"
+          label="Eligible charged journeys PER TRAVELER (after transfers)"
           value={journeys}
           set={setJourneys}
           max={150}
@@ -129,17 +157,28 @@ function Pass() {
         />
         <NumberField
           name="excluded"
-          label="Other transport costs in either option (KRW)"
+          label="Other transport costs PER TRAVELER (KRW)"
           value={excluded}
           set={setExcluded}
         />
+        <NumberField
+          name="regular-card-cost"
+          label="Pay-as-you-go card purchase PER TRAVELER (KRW; 0 if already owned)"
+          value={regularCardCost}
+          set={setRegularCardCost}
+          max={100000}
+        />
         <label className="check-field">
           <input type="checkbox" checked={card} onChange={(e) => setCard(e.target.checked)} />
-          Add a new physical Climate Card (₩3,000)
+          Each traveler needs a new physical Climate Card (₩3,000 each)
         </label>
         <p className="field-note">
           ₩1,550 is an editable example, not a quote for every route. Count charged journeys, not
-          each vehicle after a free transfer.
+          each vehicle after a free transfer. Enter one person’s journeys, never the combined family
+          total. Each rider needs their own pass. Run a separate comparison for children or anyone
+          with a different fare, route or existing card. Split any shared taxi fare between
+          travelers before entering other costs. Add the actual card purchase cost to the
+          pay-as-you-go option if you need one.
         </p>
         <button className="button" type="submit">
           Compare my costs
@@ -148,7 +187,20 @@ function Pass() {
       </form>
       {result ? (
         <section className="tool-result" aria-live="polite">
-          <p className="eyebrow">Your planning comparison</p>
+          {JSON.stringify({
+            days,
+            journeys,
+            averageFare: fare,
+            needsCard: card,
+            uncoveredCost: excluded,
+            travelers,
+            regularCardCost,
+          }) !== JSON.stringify(result.assumptions) ? (
+            <p className="calculation-stale" role="status">
+              Inputs have changed. Compare your costs again to update these results.
+            </p>
+          ) : null}
+          <p className="eyebrow">Per traveler · {result.assumptions.journeys} journeys each</p>
           <h2>
             {result.saving > 0
               ? `Pass costs ${KRW.format(result.saving)} less`
@@ -164,16 +216,39 @@ function Pass() {
               <dd>{KRW.format(result.passCost)}</dd>
             </div>
             <div>
-              <dt>Eligible journeys paid individually</dt>
-              <dd>{KRW.format(result.regularCost)}</dd>
+              <dt>Eligible fares, per traveler</dt>
+              <dd>{KRW.format(result.regularFareCost)}</dd>
             </div>
             <div>
-              <dt>Pass + other transport</dt>
+              <dt>Pay-as-you-go card purchase, per traveler</dt>
+              <dd>{KRW.format(result.assumptions.regularCardCost)}</dd>
+            </div>
+            <div>
+              <dt>Pass + other transport, per traveler</dt>
               <dd>{KRW.format(result.passTripTotal)}</dd>
             </div>
             <div>
-              <dt>Pay as you go + other transport</dt>
+              <dt>Pay as you go + other transport, per traveler</dt>
               <dd>{KRW.format(result.regularTripTotal)}</dd>
+            </div>
+          </dl>
+          <h3>Whole party: {result.assumptions.travelers} travelers</h3>
+          <dl className="cost-list">
+            <div>
+              <dt>Pass option · {result.newCards} new cards included</dt>
+              <dd>{KRW.format(result.groupPassTripTotal)}</dd>
+            </div>
+            <div>
+              <dt>Pay as you go option</dt>
+              <dd>{KRW.format(result.groupRegularTripTotal)}</dd>
+            </div>
+            <div>
+              <dt>
+                {result.groupSaving >= 0
+                  ? 'Party saving with passes'
+                  : 'Party saving with pay as you go'}
+              </dt>
+              <dd>{KRW.format(Math.abs(result.groupSaving))}</dd>
             </div>
           </dl>
           <p>
@@ -187,11 +262,13 @@ function Pass() {
           </p>
           <ToolResultShare
             slug="transit-pass"
+            url={passShareUrl(result.assumptions)}
+            checkedAt={TRANSPORT_SOURCE.checkedAt}
             title="My Seoul transit comparison"
-            summary={`${result.assumptions.days} service days, ${result.assumptions.journeys} eligible charged journeys at ${KRW.format(result.assumptions.averageFare)} each.`}
+            summary={`${result.assumptions.travelers} travelers, ${result.assumptions.days} service days, ${result.assumptions.journeys} journeys PER TRAVELER at ${KRW.format(result.assumptions.averageFare)} each.`}
             facts={[
-              `Pass + card where needed: ${KRW.format(result.passCost)}. Individual eligible fares: ${KRW.format(result.regularCost)}.`,
-              `Other transport: ${KRW.format(result.assumptions.uncoveredCost)} in either option. Coverage must be verified.`,
+              `Party totals including other transport: pass option ${KRW.format(result.groupPassTripTotal)}, pay as you go ${KRW.format(result.groupRegularTripTotal)}. ${result.newCards} new cards included.`,
+              `Per traveler: ${KRW.format(result.passCost)} pass/card, ${KRW.format(result.assumptions.regularCardCost)} pay-as-you-go card purchase, ${KRW.format(result.assumptions.uncoveredCost)} other transport. Verify coverage.`,
             ]}
           />
         </section>
@@ -229,6 +306,31 @@ function Budget() {
   });
   const [r, setR] = useState<ReturnType<typeof calculateBudget>>(),
     [error, setError] = useState('');
+  const [comparison, setComparison] = useState<ReturnType<typeof calculateBudget>>();
+  const [saveNote, setSaveNote] = useState('');
+  useEffect(() => {
+    try {
+      const shared = readBudgetShare(location.search);
+      if (shared) {
+        setV(shared);
+        setR(calculateBudget(shared));
+        setSaveNote('Loaded the shared scenario. Amounts are assumptions, not live quotes.');
+        return;
+      }
+      const saved = localStorage.getItem('ke-budget-v1');
+      if (!saved) return;
+      const data = JSON.parse(saved);
+      if (data.version !== 1) return;
+      const result = calculateBudget(data.input);
+      setV(result.assumptions);
+      setR(result);
+      setSaveNote('Reopened your last calculation from this browser.');
+    } catch {
+      setSaveNote(
+        'Saved or shared inputs could not be loaded. Your starting values are shown below.',
+      );
+    }
+  }, []);
   const fields: [keyof BudgetInput, string, number, number][] = [
     ['days', 'Travel days', 1, 90],
     ['nights', 'Accommodation nights', 0, 90],
@@ -243,20 +345,73 @@ function Budget() {
   ];
   return (
     <>
+      <section className="budget-start" aria-labelledby="budget-start-title">
+        <h2 id="budget-start-title">Start with a sample, then make it yours</h2>
+        <p>
+          Hypothetical spending styles, not current market prices. Flights, insurance and shopping
+          are excluded unless you add them.
+        </p>
+        <div className="button-row">
+          {[
+            {
+              label: 'Lean',
+              roomNight: 80000,
+              foodDay: 25000,
+              transportDay: 10000,
+              activitiesDay: 10000,
+            },
+            {
+              label: 'Comfortable',
+              roomNight: 120000,
+              foodDay: 35000,
+              transportDay: 10000,
+              activitiesDay: 20000,
+            },
+            {
+              label: 'More room',
+              roomNight: 200000,
+              foodDay: 60000,
+              transportDay: 15000,
+              activitiesDay: 40000,
+            },
+          ].map(({ label, ...costs }) => (
+            <button
+              type="button"
+              className="action-button"
+              key={label}
+              onClick={() => setV((current) => ({ ...current, ...costs }))}
+            >
+              {label} sample
+            </button>
+          ))}
+        </div>
+      </section>
       <form
         className="tool-form"
         onSubmit={(e) => {
           e.preventDefault();
           try {
-            setR(calculateBudget(v));
+            const result = calculateBudget(v);
+            setR(result);
             setError('');
+            try {
+              localStorage.setItem(
+                'ke-budget-v1',
+                JSON.stringify({ version: 1, input: result.assumptions }),
+              );
+              setSaveNote('Last calculation saved in this browser.');
+            } catch {
+              setSaveNote(
+                'Calculation complete. This browser could not save it; use Print / PDF or copy the result.',
+              );
+            }
             track('tool_complete', { tool: 'trip-budget' });
           } catch (e) {
             setError((e as Error).message);
           }
         }}
       >
-        {fields.map(([key, label, min, max]) => (
+        {fields.slice(0, 5).map(([key, label, min, max]) => (
           <NumberField
             key={key}
             name={key}
@@ -267,6 +422,27 @@ function Budget() {
             set={(n) => setV({ ...v, [key]: n })}
           />
         ))}
+        <details className="field-wide budget-assumptions">
+          <summary>Adjust daily spending & contingency</summary>
+          <p>
+            Per person/day: food {KRW.format(v.foodDay)}, transport {KRW.format(v.transportDay)},
+            activities {KRW.format(v.activitiesDay)}. Other costs {KRW.format(v.oneOff)} per
+            person/trip; {v.bufferPercent}% contingency.
+          </p>
+          <div className="tool-form">
+            {fields.slice(5).map(([key, label, min, max]) => (
+              <NumberField
+                key={key}
+                name={key}
+                label={label}
+                value={v[key]}
+                min={min}
+                max={max}
+                set={(n) => setV((current) => ({ ...current, [key]: n }))}
+              />
+            ))}
+          </div>
+        </details>
         <p className="field-note">
           Starting values are hypothetical. Replace them with actual hotel quotes and your choices.
           Add flights, insurance and shopping under other costs.
@@ -276,8 +452,14 @@ function Budget() {
         </button>
         {error ? <p role="alert">{error}</p> : null}
       </form>
+      <p role="status">{saveNote}</p>
       {r ? (
         <section className="tool-result" aria-live="polite">
+          {JSON.stringify(v) !== JSON.stringify(r.assumptions) ? (
+            <p className="calculation-stale" role="status">
+              Inputs have changed. Build your budget again to update these results.
+            </p>
+          ) : null}
           <p className="eyebrow">Your editable estimate</p>
           <h2>{KRW.format(r.total)} for the party</h2>
           <p>
@@ -286,6 +468,7 @@ function Budget() {
           </p>
           <ToolResultShare
             slug="trip-budget"
+            url={budgetShareUrl(r.assumptions)}
             title={`My Korea budget: ${KRW.format(r.total)}`}
             summary={`${r.assumptions.travelers} travelers · ${r.assumptions.days} days · ${r.assumptions.nights} nights · ${r.assumptions.rooms} rooms. Editable hypothetical inputs, not live quotes.`}
             facts={[
@@ -315,7 +498,25 @@ function Budget() {
           </p>
           <button className="action-button no-print" onClick={() => window.print()}>
             Print / PDF
+          </button>{' '}
+          <button className="action-button no-print" onClick={() => setComparison(r)}>
+            Keep this scenario for comparison
           </button>
+          {comparison ? (
+            <aside className="scenario-comparison">
+              <h3>Compare your scenarios</h3>
+              <p>
+                Kept: {KRW.format(comparison.total)} for {comparison.assumptions.travelers}{' '}
+                travelers and {comparison.assumptions.days} days. Current: {KRW.format(r.total)} for{' '}
+                {r.assumptions.travelers} travelers and {r.assumptions.days} days.
+              </p>
+              <p>
+                {KRW.format(Math.abs(r.total - comparison.total))}{' '}
+                {r.total >= comparison.total ? 'more' : 'less'} in total. Compare the party size,
+                rooms and trip length as well as spending levels.
+              </p>
+            </aside>
+          ) : null}
         </section>
       ) : null}
     </>
@@ -472,242 +673,6 @@ function Airport() {
         </p>
         <p>Checked October 30, 2026. Confirm capacity, fares, tolls and nighttime conditions.</p>
       </aside>
-    </>
-  );
-}
-type Stop = { id: string; day: number; time: string; place: string; address: string; note: string };
-function Itinerary() {
-  const [items, setItems] = useState<Stop[]>([]),
-    [loaded, setLoaded] = useState(false),
-    [status, setStatus] = useState(''),
-    [day, setDay] = useState(1),
-    [time, setTime] = useState('10:00'),
-    [place, setPlace] = useState(''),
-    [address, setAddress] = useState(''),
-    [note, setNote] = useState('');
-  useEffect(() => {
-    try {
-      const p = JSON.parse(localStorage.getItem('ke-itinerary-v1') || '[]');
-      if (Array.isArray(p))
-        setItems(
-          p
-            .filter(
-              (x) =>
-                typeof x.id === 'string' &&
-                Number.isInteger(x.day) &&
-                x.day >= 1 &&
-                x.day <= 90 &&
-                typeof x.place === 'string' &&
-                typeof x.time === 'string' &&
-                typeof x.address === 'string' &&
-                typeof x.note === 'string',
-            )
-            .slice(0, 150),
-        );
-    } catch {
-      setStatus('The previous browser plan could not be read.');
-    }
-    setLoaded(true);
-  }, []);
-  function save(next: Stop[]) {
-    setItems(next);
-    try {
-      localStorage.setItem('ke-itinerary-v1', JSON.stringify(next));
-      setStatus('Saved on this browser.');
-    } catch {
-      setStatus('Storage unavailable. Download a backup before leaving.');
-    }
-  }
-  const sorted = [...items].sort((a, b) => a.day - b.day || a.time.localeCompare(b.time));
-  function download() {
-    const blob = new Blob([JSON.stringify({ version: 1, items: sorted }, null, 2)], {
-      type: 'application/json',
-    });
-    const url = URL.createObjectURL(blob),
-      a = document.createElement('a');
-    a.href = url;
-    a.download = 'korea-trip-plan-private.json';
-    a.click();
-    setTimeout(() => URL.revokeObjectURL(url), 1000);
-  }
-  return (
-    <>
-      <aside className="answer-box">
-        <strong>Private, saved in this browser.</strong>
-        <p>
-          No account or public link is created. Avoid passport numbers, booking codes and sensitive
-          details. Download a backup before clearing browser data.
-        </p>
-      </aside>
-      <form
-        className="tool-form"
-        onSubmit={(e) => {
-          e.preventDefault();
-          if (items.length >= 150) {
-            setStatus('Up to 150 stops; remove one first.');
-            return;
-          }
-          save([
-            ...items,
-            {
-              id: crypto.randomUUID(),
-              day,
-              time,
-              place: place.trim(),
-              address: address.trim(),
-              note: note.trim(),
-            },
-          ]);
-          setPlace('');
-          setAddress('');
-          setNote('');
-          track('tool_complete', { tool: 'itinerary' });
-        }}
-      >
-        <NumberField name="day" label="Trip day" value={day} set={setDay} min={1} max={90} />
-        <label className="field" htmlFor="stop-time">
-          <span>Planned arrival</span>
-          <input
-            id="stop-time"
-            type="time"
-            value={time}
-            required
-            onInput={(e) => setTime(e.currentTarget.value)}
-          />
-        </label>
-        <label className="field" htmlFor="place">
-          <span>Place</span>
-          <input
-            id="place"
-            value={place}
-            maxLength={120}
-            required
-            onChange={(e) => setPlace(e.target.value)}
-          />
-        </label>
-        <label className="field" htmlFor="address">
-          <span>Korean address / map search</span>
-          <input
-            id="address"
-            value={address}
-            maxLength={250}
-            onChange={(e) => setAddress(e.target.value)}
-          />
-        </label>
-        <label className="field field-wide" htmlFor="note">
-          <span>Reservation / opening / transfer reminder</span>
-          <textarea
-            id="note"
-            value={note}
-            maxLength={1000}
-            onChange={(e) => setNote(e.target.value)}
-            rows={3}
-          />
-        </label>
-        <button className="button" disabled={!loaded} type="submit">
-          Add stop & save locally
-        </button>
-      </form>
-      <section className="tool-result">
-        <div className="section-heading">
-          <h2>Your trip board</h2>
-          <div className="button-row no-print">
-            <button className="action-button" onClick={() => window.print()}>
-              Print / PDF
-            </button>
-            <button className="action-button" onClick={download}>
-              Download backup
-            </button>
-            {community.enabled ? (
-              <button
-                className="action-button"
-                onClick={async () => {
-                  try {
-                    const r = await fetch('/api/plans', {
-                      method: 'POST',
-                      headers: { 'Content-Type': 'application/json' },
-                      body: JSON.stringify({
-                        title: 'My Korea trip board',
-                        data: { items: sorted },
-                      }),
-                    });
-                    if (!r.ok)
-                      throw new Error(
-                        r.status === 401
-                          ? 'Sign in on the community account page, then save again.'
-                          : 'Your account copy could not be saved.',
-                      );
-                    setStatus(
-                      'Saved as a private account plan. Manage or share it from your account page.',
-                    );
-                  } catch (e) {
-                    setStatus((e as Error).message);
-                  }
-                }}
-              >
-                Save private account copy
-              </button>
-            ) : null}
-          </div>
-        </div>
-        {!sorted.length ? (
-          <p>Add a stop. Leave time for meals, travel and a weather alternative.</p>
-        ) : (
-          <ol className="itinerary-list">
-            {sorted.map((i) => (
-              <li key={i.id}>
-                <p className="eyebrow">
-                  Day {i.day} · {i.time}
-                </p>
-                <h3>{i.place}</h3>
-                {i.address ? <p lang="ko">{i.address}</p> : null}
-                <p className="preserve-lines">{i.note}</p>
-                <div className="button-row no-print">
-                  <a
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    href={`https://map.naver.com/p/search/${encodeURIComponent(i.address || i.place)}`}
-                  >
-                    Check location & route ↗
-                  </a>
-                  <button
-                    className="action-button"
-                    onClick={() => save(items.filter((x) => x.id !== i.id))}
-                  >
-                    Remove stop
-                  </button>
-                </div>
-              </li>
-            ))}
-          </ol>
-        )}
-        <p className="map-notice">
-          Times are your notes, not a validated route. Verify openings, reservations, travel time
-          and entrances.{' '}
-          {community.enabled ? (
-            <Link href="/community/account">
-              Manage private account copies and revocable sharing links ↗
-            </Link>
-          ) : (
-            'Account sync and public sharing await verified privacy controls.'
-          )}
-        </p>
-        <p role="status">{status}</p>
-        {sorted.length ? (
-          <ShareActions
-            id="trip-board"
-            title="My Korea trip route"
-            url="https://koreaexperience.com/tools/itinerary"
-            summary="Personal planning notes. The link opens the planner; it does not publish or reveal this private board."
-            facts={sorted
-              .slice(0, 3)
-              .map(
-                (i) => `Day ${i.day} · ${i.time} · ${i.place}. Confirm openings and travel time.`,
-              )}
-            category="Your itinerary"
-          />
-        ) : null}
-      </section>
     </>
   );
 }
@@ -917,7 +882,7 @@ export default function TravelTool({ slug, title, description, places }: Props) 
         ) : slug === 'trip-budget' ? (
           <Budget />
         ) : slug === 'itinerary' ? (
-          <Itinerary />
+          <ItineraryBoard />
         ) : slug === 'packing-checklist' ? (
           <Packing />
         ) : (

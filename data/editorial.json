@@ -3,12 +3,12 @@
     "id": "plan-first-trip",
     "categoryId": "plan-your-trip",
     "format": "how-to",
-    "checkedAt": "2026-10-30",
-    "answer": "Set your usable days, entry requirements, hotel base and arrival route before booking attractions.",
-    "forWhom": "International visitors planning or taking a short Korea trip",
+    "checkedAt": "2026-10-31",
+    "answer": "Check entry eligibility, count full usable days, choose a hotel base and solve the arrival journey before booking timed attractions.",
+    "forWhom": "First-time international visitors arranging a short Korea trip",
     "conditions": [
-      "Planning advice, not live availability or a booking quote.",
-      "Confirm current operator rules for your dates and needs."
+      "Entry rules depend on passport, purpose and arrival date.",
+      "The checked temporary K-ETA exemption ends 31 December 2026; 2027 is unverified."
     ],
     "regions": ["seoul"],
     "stages": ["before-you-go"],
@@ -33,43 +33,36 @@
         "reason": "Compare the complete journey to your hotel door, including the last connection, luggage and late check-in."
       }
     ],
-    "tools": ["packing-checklist", "airport-transfer"],
+    "tools": ["trip-budget", "packing-checklist"],
     "placeIds": [],
     "sources": [
       {
-        "id": "e-arrival",
-        "title": "Korea Immigration Service: e-Arrival Card filing guide",
-        "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E",
-        "checkedAt": "2026-10-30",
-        "note": "Do not infer all nationalities or all visa statuses require the same form."
-      },
-      {
-        "id": "keta-2026",
-        "title": "K-ETA official notice: temporary exemption extended through 2026",
-        "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y&locale=EN",
-        "checkedAt": "2026-10-30",
-        "note": "Do not apply to every passport or carry into 2027 without a new official notice. Entry eligibility is a legal question; keep nationality/date checks with the official navigator."
-      },
-      {
-        "id": "kto-climate",
-        "title": "Korea Tourism Organization: Climate and Seasons",
-        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140636",
-        "checkedAt": "2026-10-30",
+        "id": "visa-navigator",
+        "title": "Korea Visa Portal: Visa Navigator",
+        "url": "https://www.visa.go.kr/openPage.do?MENU_ID=10102",
+        "checkedAt": "2026-10-31",
         "note": ""
       },
       {
-        "id": "visitseoul-districts",
-        "title": "Seoul Tourism Organization: About Seoul districts",
-        "url": "https://english.visitseoul.net/AboutSeoul",
-        "checkedAt": "2026-10-30",
-        "note": "Useful geographic orientation; does not establish hotel quality, safety rankings, or travel times."
+        "id": "keta-2026",
+        "title": "K-ETA: temporary exemption through 31 December 2026",
+        "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y&locale=EN",
+        "checkedAt": "2026-10-31",
+        "note": "Listed nationalities only; does not establish 2027 rules."
       },
       {
-        "id": "airport-transport",
-        "title": "Incheon Airport: Public Transportation",
-        "url": "https://airinfo.airport.kr/ap_en/1499/subview.do",
-        "checkedAt": "2026-10-30",
-        "note": "Use exact operating-day results for a quoted fare or final departure; hub alone does not verify those numbers."
+        "id": "arrival-eligibility",
+        "title": "Korea Immigration: e-Arrival Card eligibility",
+        "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do?locale=E",
+        "checkedAt": "2026-10-31",
+        "note": ""
+      },
+      {
+        "id": "arrival-filing",
+        "title": "Korea Immigration: e-Arrival Card filing guide",
+        "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E",
+        "checkedAt": "2026-10-31",
+        "note": ""
       }
     ],
     "shareFacts": [
@@ -81,14 +74,30 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Bukchon Hanok Village 03.jpg",
-      "author": "Bgag",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_03.jpg",
-      "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "note": "Resized and converted to WebP. Photographed 2022-09-27. Historical image; not evidence of current access, prices, signage or availability."
+      "title": "서울역전경 2 2024.jpg",
+      "author": "Narubaru7",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:서울역전경_2_2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-10-17. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical photograph; check current signs, services and opening conditions separately."
     },
-    "gallery": []
+    "gallery": [],
+    "quickTitle": "Make these decisions in order",
+    "quickChoices": [
+      {
+        "label": "1 · Entry and dates",
+        "detail": "Check your passport rules and count full days after arrival and before departure."
+      },
+      {
+        "label": "2 · Base and arrival",
+        "detail": "Compare actual hotel addresses, then a transfer and late-arrival fallback."
+      },
+      {
+        "label": "3 · Daily anchors",
+        "detail": "Book the priority experience; leave space for weather, meals and rest."
+      }
+    ],
+    "heroMediaId": "seoul-station-exterior"
   },
   "best-time-to-visit-korea-month-by-month-weather": {
     "id": "plan-best-time",
@@ -200,8 +209,8 @@
       {
         "id": "national-museum",
         "title": "National Museum of Korea: Hours and Admissions",
-        "url": "https://www.museum.go.kr/ENG/contents/E0101000000.do",
-        "checkedAt": "2026-10-30",
+        "url": "https://www.museum.go.kr/ENG/contents/E0101010000.do",
+        "checkedAt": "2026-10-31",
         "note": "Check closure/temporary gallery notices before route publication. Do not make all-galleries-always-open claims."
       },
       {
@@ -388,12 +397,12 @@
     "id": "transport-airport",
     "categoryId": "airports-transport",
     "format": "decision",
-    "checkedAt": "2026-10-30",
-    "answer": "Compare the complete journey to your hotel door, including the last connection, luggage and late check-in.",
-    "forWhom": "International visitors planning or taking a short Korea trip",
+    "checkedAt": "2026-10-31",
+    "answer": "Use the all-stop train for Hongdae, compare Express for Seoul Station, and choose a bus only when its stop solves your hotel journey. After the last usable connection, use a confirmed night-bus or authorized-taxi fallback.",
+    "forWhom": "Visitors arriving at Incheon T1 or T2 for a Seoul hotel",
     "conditions": [
-      "Planning advice, not live availability or a booking quote.",
-      "Confirm current operator rules for your dates and needs."
+      "Train prices are per person; taxi prices are per vehicle.",
+      "Use terminal-exit time, including immigration and bags, for the last-service check."
     ],
     "regions": ["seoul"],
     "stages": ["arrival", "getting-around"],
@@ -422,63 +431,100 @@
     "placeIds": ["incheon-airport-t1", "incheon-airport-t2", "seoul-station"],
     "sources": [
       {
-        "id": "airport-transport",
-        "title": "Incheon Airport: Public Transportation",
-        "url": "https://airinfo.airport.kr/ap_en/1499/subview.do",
-        "checkedAt": "2026-10-30",
-        "note": "Use exact operating-day results for a quoted fare or final departure; hub alone does not verify those numbers."
+        "id": "arex-definitions",
+        "title": "AREX: service definitions and ticket terms",
+        "url": "https://www.airportrailroad.com/policy/transport",
+        "checkedAt": "2026-10-31"
       },
       {
-        "id": "airport-rail-luggage",
-        "title": "Incheon Airport: Airport Railroad Guide / T-Luggage",
-        "url": "https://airport.kr/ap_en/1512/subview.do",
-        "checkedAt": "2026-10-30",
-        "note": "Counter availability, bag acceptance, cutoff times and fees must be checked on the operator's booking date. Airport counter names/locations vary across old guides."
+        "id": "arex-express",
+        "title": "AREX: Express displayed fares and journey times",
+        "url": "https://www.airportrailroad.com/train/express/introduce",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "arex-fares",
+        "title": "AREX: adult all-stop transport-card fare table",
+        "url": "https://www.airportrailroad.com/train/normal/fare",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "arex-allstop",
+        "title": "AREX: all-stop service overview",
+        "url": "https://www.airportrailroad.com/train/normal/introduce",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "airport-rail",
+        "title": "Incheon Airport: terminal rail location",
+        "url": "https://www.airport.kr/ap_en/1512/subview.do",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "airport-bus",
+        "title": "Incheon Airport: bus route search",
+        "url": "https://www.airport.kr/ap_en/1502/subview.do",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "arex-express-time",
+        "title": "AREX: Express timetable",
+        "url": "https://www.airportrailroad.com/train/express/info",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "arex-t1-time",
+        "title": "AREX: T1 all-stop timetable",
+        "url": "https://www.airportrailroad.com/train/normal/info/100/0",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "arex-t2-time",
+        "title": "AREX: T2 all-stop timetable",
+        "url": "https://www.airportrailroad.com/train/normal/info/110/0",
+        "checkedAt": "2026-10-31"
       },
       {
         "id": "airport-taxi",
-        "title": "Incheon Airport: Taxi",
-        "url": "https://airport.kr/ap_en/1515/subview.do",
-        "checkedAt": "2026-10-30",
-        "note": "Do not extrapolate Seoul taxi tariff to Busan or other jurisdictions; no quoted trip total in this artifact."
-      },
-      {
-        "id": "seoul-climate",
-        "title": "Seoul Metropolitan Government: Climate Card",
-        "url": "https://world.seoul.go.kr/policy/transportation/climate-card/",
-        "checkedAt": "2026-10-30",
-        "note": "Updated coverage effective 2026-10-01. Older english.seoul.go.kr and existing site articles can be stale. Mobile availability and payment compatibility need traveler-specific confirmation."
+        "title": "Incheon Airport: taxi fares and boarding ranks",
+        "url": "https://www.airport.kr/ap_en/1515/subview.do",
+        "checkedAt": "2026-10-31"
       }
     ],
     "shareFacts": [
-      "Compare the complete route to the hotel door, including transfers and bags.",
-      "Use terminal exit time after immigration and baggage, rather than landing time.",
-      "Confirm the final onward connection and an independent late-arrival fallback."
+      "Hongdae: take the all-stop service; Express does not stop there.",
+      "Checked adult rail fares are per person; compare taxi costs for the whole vehicle.",
+      "Check the last train’s destination and the final hotel connection."
     ],
     "launchOrder": 6,
     "changeType": "rewrite",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Interior of AREX Class 2000 20240502093327.jpg",
-      "author": "TurnOnTheNight",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_AREX_Class_2000_20240502093327.jpg",
+      "title": "202403 AREX Express Train Concourse at Incheon International Airport Terminal 1 Station.jpg",
+      "author": "MNXANL",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:202403_AREX_Express_Train_Concourse_at_Incheon_International_Airport_Terminal_1_Station.jpg",
       "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "note": "Resized and converted to WebP. Photographed 2024-05-02. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-03-17. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical photograph; check current signs, services and opening conditions separately."
     },
-    "gallery": [
+    "heroMediaId": "airport-concourse",
+    "quickTitle": "Choose for the hotel door",
+    "quickChoices": [
       {
-        "src": "/images/editorial/bukchon-evening.webp",
-        "alt": "Bukchon-ro 11-gil street lined with traditional hanok houses showing Korean architecture, seen from below, at blue hour in Bukchon Hanok Village, Seoul, South Korea. Long-exposure photography (13 s)",
-        "credit": {
-          "kind": "photograph",
-          "title": "Bukchon-ro 11-gil street with hanok houses at blue hour in Bukchon Hanok Village Seoul.jpg",
-          "author": "Basile Morin",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "note": "Resized and converted to WebP. Photographed 2024-06-03. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
-        }
+        "label": "Hongdae",
+        "detail": "Start with the all-stop train. Express does not stop at Hongik University."
+      },
+      {
+        "label": "Seoul Station",
+        "detail": "Express saves rail time; all-stop saves money. Compare per person."
+      },
+      {
+        "label": "Hotel-area bus",
+        "detail": "Choose a limousine bus when its stop avoids difficult transfers and a long walk."
+      },
+      {
+        "label": "Late or many bags",
+        "detail": "Keep an authorized taxi or confirmed night-bus connection as your fallback."
       }
     ]
   },
@@ -766,12 +812,12 @@
     "id": "stay-seoul",
     "categoryId": "where-to-stay",
     "format": "decision",
-    "checkedAt": "2026-10-30",
-    "answer": "Choose the area that shortens your repeated journeys, then inspect the exact property entrance and room conditions.",
-    "forWhom": "International visitors planning or taking a short Korea trip",
+    "checkedAt": "2026-10-31",
+    "answer": "Choose the base that fits most of your days, then inspect the exact property, station exit, final walk and room conditions.",
+    "forWhom": "First-time Seoul visitors comparing a hotel base before choosing a property",
     "conditions": [
-      "Planning advice, not live availability or a booking quote.",
-      "Confirm current operator rules for your dates and needs."
+      "Area matches are editorial suggestions, not hotel-quality, safety or price rankings.",
+      "Map pins are station reference points, not hotel entrances or verified lift routes."
     ],
     "regions": ["seoul"],
     "stages": ["before-you-go"],
@@ -797,28 +843,61 @@
       }
     ],
     "tools": ["airport-transfer", "itinerary"],
-    "placeIds": ["insadong", "seoul-station", "seongsu-station"],
+    "placeIds": [
+      "anguk-station",
+      "myeongdong-station",
+      "hongik-university-station-line2",
+      "gangnam-station-line2"
+    ],
     "sources": [
       {
-        "id": "visitseoul-districts",
-        "title": "Seoul Tourism Organization: About Seoul districts",
+        "id": "seoul-districts",
+        "title": "Seoul Tourism: district orientation",
         "url": "https://english.visitseoul.net/AboutSeoul",
-        "checkedAt": "2026-10-30",
-        "note": "Useful geographic orientation; does not establish hotel quality, safety rankings, or travel times."
+        "checkedAt": "2026-10-31",
+        "note": ""
       },
       {
-        "id": "visitseoul-accommodation",
-        "title": "Seoul Tourism Organization: Accommodation",
-        "url": "https://english.visitseoul.net/Accommodation",
-        "checkedAt": "2026-10-30",
-        "note": "Directory source only. Room-level accessibility, bathrooms and heating must be confirmed with the property."
+        "id": "myeongdong",
+        "title": "Seoul Tourism: Myeongdong",
+        "url": "https://english.visitseoul.net/area/Myeong-dong/ENP000067",
+        "checkedAt": "2026-10-31",
+        "note": ""
       },
       {
-        "id": "airport-transport",
-        "title": "Incheon Airport: Public Transportation",
-        "url": "https://airinfo.airport.kr/ap_en/1499/subview.do",
-        "checkedAt": "2026-10-30",
-        "note": "Use exact operating-day results for a quoted fare or final departure; hub alone does not verify those numbers."
+        "id": "hongdae-evening",
+        "title": "Seoul Tourism: nighttime areas",
+        "url": "https://english.visitseoul.net/MapoArea/Nighttime-Adventures-in-Seoul/ENP000032",
+        "checkedAt": "2026-10-31",
+        "note": ""
+      },
+      {
+        "id": "coex",
+        "title": "Seoul Tourism: COEX",
+        "url": "https://english.visitseoul.net/gangnamarea/Coex-convention-center-en/ENP024663",
+        "checkedAt": "2026-10-31",
+        "note": ""
+      },
+      {
+        "id": "bukchon",
+        "title": "Seoul Tourism: Bukchon visitor restrictions",
+        "url": "https://english.visitseoul.net/hallyu/B-Hunters1e/ENNjzai4z",
+        "checkedAt": "2026-10-31",
+        "note": ""
+      },
+      {
+        "id": "station-coordinates",
+        "title": "Seoul Open Data: station coordinates",
+        "url": "https://data.seoul.go.kr/dataList/OA-21232/S/1/datasetView.do",
+        "checkedAt": "2026-10-31",
+        "note": "Representative station points, not entrances or accessible exits."
+      },
+      {
+        "id": "station-addresses",
+        "title": "Seoul Open Data: station addresses",
+        "url": "https://data.seoul.go.kr/dataList/OA-12035/S/1/datasetView.do",
+        "checkedAt": "2026-10-31",
+        "note": ""
       }
     ],
     "shareFacts": [
@@ -830,28 +909,34 @@
     "changeType": "rewrite",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Bukchon Hanok Village 03.jpg",
-      "author": "Bgag",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_03.jpg",
+      "title": "20260829 마포구 홍대로드4.jpg",
+      "author": "Striker9498",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260829_마포구_홍대로드4.jpg",
       "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "note": "Resized and converted to WebP. Photographed 2022-09-27. Historical image; not evidence of current access, prices, signage or availability."
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2026-08-29. Resized and converted to WebP. Public-domain dedication. Historical photograph; check current signs, services and opening conditions separately."
     },
-    "gallery": [
+    "gallery": [],
+    "quickTitle": "Start with your trip priorities",
+    "quickChoices": [
       {
-        "src": "/images/editorial/bukchon-evening.webp",
-        "alt": "Bukchon-ro 11-gil street lined with traditional hanok houses showing Korean architecture, seen from below, at blue hour in Bukchon Hanok Village, Seoul, South Korea. Long-exposure photography (13 s)",
-        "credit": {
-          "kind": "photograph",
-          "title": "Bukchon-ro 11-gil street with hanok houses at blue hour in Bukchon Hanok Village Seoul.jpg",
-          "author": "Basile Morin",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "note": "Resized and converted to WebP. Photographed 2024-06-03. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
-        }
+        "label": "Historic Seoul",
+        "detail": "Compare Jongno–Anguk for palaces and Insadong."
+      },
+      {
+        "label": "A central mixed itinerary",
+        "detail": "Compare Myeongdong–Euljiro and the actual station-to-door walk."
+      },
+      {
+        "label": "West-Seoul evenings",
+        "detail": "Compare Hongdae, with noise and station exits checked."
+      },
+      {
+        "label": "Southeast commitments",
+        "detail": "Choose the actual Gangnam Station or Samseong/COEX area you need."
       }
-    ]
+    ],
+    "heroMediaId": "hotel-hongdae-street"
   },
   "where-to-stay-in-busan-neighborhoods": {
     "id": "stay-busan",
@@ -1165,12 +1250,11 @@
     "id": "places-seoul",
     "categoryId": "places-itineraries",
     "format": "itinerary",
-    "checkedAt": "2026-10-30",
-    "answer": "Give each day one area and one main anchor; keep arrival day light and leave room for weather changes.",
-    "forWhom": "International visitors planning or taking a short Korea trip",
+    "checkedAt": "2026-10-31",
+    "answer": "Spend one day around Gyeongbokgung and Insadong, one around Seoul Forest and Seongsu, and one at the National Museum in Yongsan. Move the clusters to avoid closures; swap the outdoor day when the weather turns.",
+    "forWhom": "A first Seoul visit with three full sightseeing days and a central base",
     "conditions": [
-      "Planning advice, not live availability or a booking quote.",
-      "Confirm current operator rules for your dates and needs."
+      "Time blocks are suggestions; add your actual hotel journey and travel buffers."
     ],
     "regions": ["seoul"],
     "stages": ["exploring"],
@@ -1199,69 +1283,67 @@
     "placeIds": [
       "gyeongbokgung",
       "insadong",
+      "seoul-craft-museum",
       "seoul-forest",
       "seongsu-station",
       "national-museum-korea"
     ],
     "sources": [
       {
-        "id": "visitseoul-districts",
-        "title": "Seoul Tourism Organization: About Seoul districts",
-        "url": "https://english.visitseoul.net/AboutSeoul",
-        "checkedAt": "2026-10-30",
-        "note": "Useful geographic orientation; does not establish hotel quality, safety rankings, or travel times."
+        "id": "palace-2026-autumn",
+        "title": "Korea Heritage Service: October–November 2026 palace operations",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260930144202825885&schBcid=notice01&schM=view",
+        "checkedAt": "2026-10-31"
       },
       {
-        "id": "craft-museum",
-        "title": "Seoul Tourism Organization: Seoul Museum of Craft Art",
-        "url": "https://english.visitseoul.net/attractions/Seoul%20Museum%20of%20Craft_/38147",
-        "checkedAt": "2026-10-30",
-        "note": "Temporary hours are time-sensitive and not a permanent museum feature."
+        "id": "craft-autumn",
+        "title": "Seoul Museum of Craft Art: autumn 2026 evening opening",
+        "url": "https://craftmuseum.seoul.go.kr/introduce/news_view/NTT_0000000444",
+        "checkedAt": "2026-10-31"
       },
       {
         "id": "national-museum",
-        "title": "National Museum of Korea: Hours and Admissions",
-        "url": "https://www.museum.go.kr/ENG/contents/E0101000000.do",
-        "checkedAt": "2026-10-30",
-        "note": "Check closure/temporary gallery notices before route publication. Do not make all-galleries-always-open claims."
+        "title": "National Museum of Korea: visitor hours, fees and closure conditions",
+        "url": "https://www.museum.go.kr/ENG/contents/E0101010000.do",
+        "checkedAt": "2026-10-31"
       },
       {
         "id": "seoul-forest",
-        "title": "Seoul Tourism Organization: Seoul Forest",
+        "title": "Seoul Tourism Organization: Seoul Forest and seasonal facilities",
         "url": "https://english.visitseoul.net/nature/Seoul-Forest/ENP001838",
-        "checkedAt": "2026-10-30",
-        "note": "Do not describe every facility as 24 hours. Equipment rental availability must be confirmed."
+        "checkedAt": "2026-10-31"
       }
     ],
     "shareFacts": [
-      "Day 1: Jongno, a palace and Insadong; use the Craft Museum as a weather backup.",
-      "Day 2: Seoul Forest + Seongsu. Day 3: National Museum or your main interest.",
-      "Assumes three full days. Reorder for closures, bookings and your hotel base."
+      "Three full days: historic center, Seoul Forest/Seongsu and the National Museum.",
+      "Move the palace day off Tuesday; check museum closures before assigning dates.",
+      "Time blocks are editorial suggestions, with weather and rest alternatives."
     ],
     "launchOrder": 16,
     "changeType": "rewrite",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Gyeonghoeru (Royal Banquet Hall) at Gyeongbokgung Palace, Seoul.jpg",
-      "author": "Frank Schulenburg",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg",
+      "title": "Front view of the Imperial Throne Hall Geunjeongjeon at Gyeongbokgung Palace with blue sky in Seoul.jpg",
+      "author": "Basile Morin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_view_of_the_Imperial_Throne_Hall_Geunjeongjeon_at_Gyeongbokgung_Palace_with_blue_sky_in_Seoul.jpg",
       "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "note": "Resized and converted to WebP. Photographed 2018-11-05. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-06-05. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical photograph; check current signs, services and opening conditions separately."
     },
-    "gallery": [
+    "heroMediaId": "seoul-geunjeongjeon",
+    "quickTitle": "Three days, three areas",
+    "quickChoices": [
       {
-        "src": "/images/editorial/bukchon-evening.webp",
-        "alt": "Bukchon-ro 11-gil street lined with traditional hanok houses showing Korean architecture, seen from below, at blue hour in Bukchon Hanok Village, Seoul, South Korea. Long-exposure photography (13 s)",
-        "credit": {
-          "kind": "photograph",
-          "title": "Bukchon-ro 11-gil street with hanok houses at blue hour in Bukchon Hanok Village Seoul.jpg",
-          "author": "Basile Morin",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "note": "Resized and converted to WebP. Photographed 2024-06-03. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
-        }
+        "label": "Day 1 · Historic",
+        "detail": "Gyeongbokgung, lunch and Insadong. Move this cluster off Tuesday."
+      },
+      {
+        "label": "Day 2 · East Seoul",
+        "detail": "Seoul Forest and Seongsu. Shorten the park in rain or cold."
+      },
+      {
+        "label": "Day 3 · Yongsan",
+        "detail": "National Museum, a meal and time to rest. Check gallery closures first."
       }
     ]
   },
@@ -1459,16 +1541,16 @@
       {
         "id": "national-museum",
         "title": "National Museum of Korea: Hours and Admissions",
-        "url": "https://www.museum.go.kr/ENG/contents/E0101000000.do",
-        "checkedAt": "2026-10-30",
+        "url": "https://www.museum.go.kr/ENG/contents/E0101010000.do",
+        "checkedAt": "2026-10-31",
         "note": "Check closure/temporary gallery notices before route publication. Do not make all-galleries-always-open claims."
       },
       {
         "id": "craft-museum",
-        "title": "Seoul Tourism Organization: Seoul Museum of Craft Art",
-        "url": "https://english.visitseoul.net/attractions/Seoul%20Museum%20of%20Craft_/38147",
-        "checkedAt": "2026-10-30",
-        "note": "Temporary hours are time-sensitive and not a permanent museum feature."
+        "title": "Seoul Museum of Craft Art: visitor information",
+        "url": "https://craftmuseum.seoul.go.kr/preview/visit",
+        "checkedAt": "2026-10-31",
+        "note": "Current ordinary hours, public-holiday closure exception and dated evening opening are distinct."
       },
       {
         "id": "mmca",
@@ -1577,13 +1659,10 @@
     "id": "food-first-restaurant",
     "categoryId": "food-dining",
     "format": "decision",
-    "checkedAt": "2026-10-30",
-    "answer": "Check the selling unit, minimum order and payment method, then use the ordering system in front of you.",
-    "forWhom": "International visitors planning or taking a short Korea trip",
-    "conditions": [
-      "Planning advice, not live availability or a booking quote.",
-      "Confirm current operator rules for your dates and needs."
-    ],
+    "checkedAt": "2026-10-31",
+    "answer": "At a grill, confirm the minimum portions and whether rice costs extra. At a kiosk or table screen, check the basket and payment status before repeating an order. Keep the menu-unit table and Korean phrases below ready to show staff.",
+    "forWhom": "First-time diners, solo visitors and groups sharing a Korean meal",
+    "conditions": ["Confirm dietary needs and venue-specific ordering rules before you order."],
     "regions": ["seoul"],
     "stages": ["exploring"],
     "interests": ["food"],
@@ -1612,36 +1691,44 @@
     "sources": [
       {
         "id": "kto-dining",
-        "title": "About Korean Food — Visiting a Korean Restaurant",
+        "title": "Korea Tourism Organization: Visiting a Korean Restaurant",
         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=903&vcontsId=229195",
-        "checkedAt": "2026-10-30",
-        "note": "Article last-updated label is March2023. Practices vary: do not promise every table has a bell/drawer or that every menu item is refillable."
-      },
-      {
-        "id": "complaints",
-        "title": "Seoul Tourism Organization tourist complaints guidance",
-        "url": "https://english.visitseoul.net/business-partners-article/Seoul-Tourist-Complaints-en_/179",
-        "checkedAt": "2026-10-30",
-        "note": "Older contactdetails should be reconfirmed rather than copied asguaranteed current hotlines."
+        "checkedAt": "2026-10-31",
+        "note": "Source section dated March 2023. Venue-specific minimum orders, prices, ingredients and payment acceptance are not verified by this general guide."
       }
     ],
     "shareFacts": [
-      "Check the selling unit, minimum order and whether rice or extras are included.",
-      "Follow the ordering/payment system at the actual venue.",
-      "For serious dietary needs, confirm ingredients and preparation before ordering."
+      "One portion is not necessarily a complete meal: check minimum orders and rice.",
+      "Confirm the basket and payment status before repeating a kiosk order.",
+      "Show the Korean phrases; confirm dietary needs with the actual kitchen."
     ],
     "launchOrder": 21,
     "changeType": "rewrite",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Dongdaemun Shopping Complex, Seoul 4.jpg",
+      "title": "Korean BBQ Seoul.jpg",
       "author": "kallerna",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongdaemun_Shopping_Complex,_Seoul_4.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_BBQ_Seoul.jpg",
       "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "note": "Resized and converted to WebP. Photographed 2022-11-29. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-12-03. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical photograph; check current signs, services and opening conditions separately."
     },
-    "gallery": []
+    "heroMediaId": "seoul-bbq-table",
+    "quickTitle": "Three checks for an easier meal",
+    "quickChoices": [
+      {
+        "label": "Portions",
+        "detail": "At a grill, ask the minimum order and whether rice costs extra."
+      },
+      {
+        "label": "Ordering screen",
+        "detail": "Check your basket and payment status before repeating an order."
+      },
+      {
+        "label": "Paying",
+        "detail": "Check the itemized total and keep the receipt. Korean phrases are below."
+      }
+    ]
   },
   "korean-barbecue-ordering-guide-cuts-portions-grills-and-shared-side-dishes": {
     "id": "food-bbq",
@@ -1955,12 +2042,12 @@
     "id": "shopping-areas",
     "categoryId": "shopping-kbeauty",
     "format": "decision",
-    "checkedAt": "2026-10-30",
-    "answer": "Choose the district for the products you want, compare total costs and protect time for packing.",
-    "forWhom": "International visitors planning or taking a short Korea trip",
+    "checkedAt": "2026-10-31",
+    "answer": "Choose by purchase: Myeongdong for beauty browsing, Insadong for crafts, Namdaemun for market goods or Gangnam Station underground near a southeast-Seoul plan.",
+    "forWhom": "Visitors choosing a Seoul shopping area for a specific purchase and manageable route",
     "conditions": [
-      "Planning advice, not live availability or a booking quote.",
-      "Confirm current operator rules for your dates and needs."
+      "Seller hours, prices, stock and returns vary.",
+      "Tax refunds and flight packing require separate eligibility checks."
     ],
     "regions": ["seoul"],
     "stages": ["exploring"],
@@ -1986,49 +2073,35 @@
       }
     ],
     "tools": ["trip-budget"],
-    "placeIds": ["insadong", "namdaemun"],
+    "placeIds": ["myeongdong-station", "insadong", "namdaemun", "gangnam-station-line2"],
     "sources": [
       {
-        "id": "insadong",
-        "title": "Insadong Souvenir and Sightseeing Guide — Seoul Tourism Organization",
-        "url": "https://english.visitseoul.net/partners-en/seoul-goods-story/2025-seoul-souvi/ENN5k7gvz",
-        "checkedAt": "2026-10-30",
-        "note": "Use for neighborhood character, not current shop inventory or workshop availability."
-      },
-      {
-        "id": "ssamzigil",
-        "title": "Ssamzi-gil — official Seoul listing",
-        "url": "https://english.visitseoul.net/dongdaemunarea/Ssamzi-gil_/37935",
-        "checkedAt": "2026-10-30",
-        "note": "Confirm particular workshop booking, store hours and accessibility directly."
+        "id": "myeongdong",
+        "title": "Seoul Tourism: Myeongdong",
+        "url": "https://english.visitseoul.net/area/Myeong-dong/ENP000067",
+        "checkedAt": "2026-10-31",
+        "note": ""
       },
       {
         "id": "namdaemun",
-        "title": "Namdaemun Market — official Seoul listing",
+        "title": "Seoul Tourism: Namdaemun Market",
         "url": "https://english.visitseoul.net/shopping/Namdaemun-Market/ENP000085",
-        "checkedAt": "2026-10-30",
-        "note": "Do not use undated price promises or assume all shops issue tax-refund paperwork."
+        "checkedAt": "2026-10-31",
+        "note": "Sections and individual merchants differ; do not apply broad 24-hour language to all shops."
       },
       {
-        "id": "hongdae",
-        "title": "Hongdae — official Seoul area guide",
-        "url": "https://english.visitseoul.net/area/Nighttime-Adventures-in-Seoul/ENP000032",
-        "checkedAt": "2026-10-30",
-        "note": "No guarantee of spontaneous performances, popup dates or store inventory."
+        "id": "ssamzigil",
+        "title": "Seoul Tourism: Ssamzi-gil",
+        "url": "https://english.visitseoul.net/dongdaemunarea/Ssamzi-gil_/37935",
+        "checkedAt": "2026-10-31",
+        "note": ""
       },
       {
-        "id": "seongsu",
-        "title": "Seongsu Yeonmujang-gil — official Seoul guide",
-        "url": "https://english.visitseoul.net/other/Yeonmujang-gil/ENP7u7jrk",
-        "checkedAt": "2026-10-30",
-        "note": "Popup reservations and dates must be checked with organizers."
-      },
-      {
-        "id": "olive-members",
-        "title": "OLIVE YOUNG Global membership FAQ",
-        "url": "https://global.oliveyoung.com/display/page/membership",
-        "checkedAt": "2026-10-30",
-        "note": "No verified currently active sale, coupon, domestic membership benefit or SKU stock in this research."
+        "id": "gangnam-underground",
+        "title": "Seoul Tourism: Gangnam Station underground shopping",
+        "url": "https://english.visitseoul.net/shopping/Gangnam-Station-Underground-Shopping-Center/ENP017740",
+        "checkedAt": "2026-10-31",
+        "note": ""
       }
     ],
     "shareFacts": [
@@ -2040,14 +2113,30 @@
     "changeType": "rewrite",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Bukchon-ro 11-gil street with hanok houses at blue hour in Bukchon Hanok Village Seoul.jpg",
-      "author": "Basile Morin",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
+      "title": "Namdaemun shopping street.jpg",
+      "author": "Sgroey",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namdaemun_shopping_street.jpg",
       "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "note": "Resized and converted to WebP. Photographed 2024-06-03. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-08-22. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical photograph; check current signs, services and opening conditions separately."
     },
-    "gallery": []
+    "gallery": [],
+    "quickTitle": "Shop for a purpose",
+    "quickChoices": [
+      {
+        "label": "Beauty and chain stores",
+        "detail": "Start with Myeongdong; compare exact sizes, sets and final prices."
+      },
+      {
+        "label": "Crafts and gifts",
+        "detail": "Compare Insadong and Namdaemun; ask about maker, material and packing."
+      },
+      {
+        "label": "A southeast-Seoul stop",
+        "detail": "Consider Gangnam Station underground when it fits the rest of your route."
+      }
+    ],
+    "heroMediaId": "shopping-namdaemun"
   },
   "olive-young-must-buys-2026": {
     "id": "shopping-olive",
@@ -2354,12 +2443,12 @@
     "id": "culture-choose",
     "categoryId": "culture-events",
     "format": "decision",
-    "checkedAt": "2026-10-30",
-    "answer": "Choose between a flexible walk-in visit and a dated, language-specific experience before building the rest of the day.",
-    "forWhom": "International visitors planning or taking a short Korea trip",
+    "checkedAt": "2026-10-31",
+    "answer": "Choose one cultural anchor for a half-day. A flexible village or museum visit suits uncertain timing; a guided program needs a confirmed session, language and meeting point.",
+    "forWhom": "Travelers choosing between flexible sightseeing and a dated cultural session",
     "conditions": [
-      "Planning advice, not live availability or a booking quote.",
-      "Confirm current operator rules for your dates and needs."
+      "Past 2026 program pages do not establish a future session.",
+      "Verify date, language, age, capacity and ticket conditions with the operator."
     ],
     "regions": ["seoul"],
     "stages": ["exploring"],
@@ -2385,56 +2474,56 @@
       }
     ],
     "tools": ["itinerary"],
-    "placeIds": ["gyeongbokgung", "seoul-craft-museum", "national-museum-korea"],
+    "placeIds": ["namsangol"],
     "sources": [
       {
-        "id": "hanbok",
-        "title": "Royal Palaces hanbok free-entry guidelines",
-        "url": "https://royal.khs.go.kr/ROYAL/contents/R705000000.do",
-        "checkedAt": "2026-10-30",
-        "note": "Ordinary palace admission policy does not itself guarantee entry to ticketed special night tours."
+        "id": "namsangol-guide",
+        "title": "Namsangol operator: visitor and tour guide",
+        "url": "https://www.hanokmaeul.co.kr/en-guide",
+        "checkedAt": "2026-10-31",
+        "note": ""
       },
       {
-        "id": "palace-general",
-        "title": "2026 autumn Gyeongbokgung night viewing notice",
+        "id": "namsangol-ended",
+        "title": "Namsangol: 2026 craft program date range",
+        "url": "https://www.hanokmaeul.co.kr/2026e1",
+        "checkedAt": "2026-10-31",
+        "note": "Ended 25 October despite reservation button."
+      },
+      {
+        "id": "night-2026",
+        "title": "Royal Palaces: 2026 autumn Gyeongbokgung night viewing",
         "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?act=totalSearch&id=20260818101010114410&schGroupCode=gbg&schM=view",
-        "checkedAt": "2026-10-30",
-        "note": "ENDED asofOctober30. These historical rules are not a2027 forecast or live availability."
+        "checkedAt": "2026-10-31",
+        "note": "Ended 2 October."
       },
       {
-        "id": "palace-starlight",
-        "title": "2026 autumn Gyeongbokgung Starlight official event",
+        "id": "starlight-2026",
+        "title": "Royal Palaces: autumn Starlight program",
         "url": "https://royal.khs.go.kr/ROYAL/contents/R201000000.do?act=view&ceIdx=202608130292&undefined=",
-        "checkedAt": "2026-10-30",
-        "note": "ENDED asofOctober30; future season dates/prices notannounced here."
+        "checkedAt": "2026-10-31",
+        "note": "Ended 24 October."
       },
       {
-        "id": "palace-moonlight",
-        "title": "2026 autumn Changdeokgung Moonlight official event",
+        "id": "moonlight-2026",
+        "title": "Royal Palaces: autumn Moonlight program",
         "url": "https://royal.khs.go.kr/ROYAL/contents/R201000000.do?act=view&ceIdx=202608180295&undefined=",
-        "checkedAt": "2026-10-30",
-        "note": "ENDED asofOctober30; never infer next year's dates from this schedule."
+        "checkedAt": "2026-10-31",
+        "note": "Ended 17 October."
       },
       {
-        "id": "yes24",
-        "title": "YES24 Global Ticket official FAQ",
-        "url": "https://ticket.yes24.com/Pages/English/Guidance/FnFAQ.aspx",
-        "checkedAt": "2026-10-30",
-        "note": "Never submit users' passports/biometrics through this website. Link to official seller; do notpromise resale admissibility or ticket success."
+        "id": "craft-visit",
+        "title": "Seoul Museum of Craft Art: visitor guide",
+        "url": "https://craftmuseum.seoul.go.kr/preview/visit",
+        "checkedAt": "2026-10-31",
+        "note": ""
       },
       {
-        "id": "nmk",
-        "title": "National Museum of Korea visitor information",
+        "id": "national-museum-hours",
+        "title": "National Museum of Korea: hours and admission",
         "url": "https://www.museum.go.kr/ENG/contents/E0101010000.do",
-        "checkedAt": "2026-10-30",
-        "note": "Opening hours can change; source current notice controls. No copying museum images for commercial use without written permission."
-      },
-      {
-        "id": "ssamzigil",
-        "title": "Ssamzi-gil — official Seoul listing",
-        "url": "https://english.visitseoul.net/dongdaemunarea/Ssamzi-gil_/37935",
-        "checkedAt": "2026-10-30",
-        "note": "Confirm particular workshop booking, store hours and accessibility directly."
+        "checkedAt": "2026-10-31",
+        "note": ""
       }
     ],
     "shareFacts": [
@@ -2446,28 +2535,30 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Gyeonghoeru (Royal Banquet Hall) at Gyeongbokgung Palace, Seoul.jpg",
-      "author": "Frank Schulenburg",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-      "note": "Resized and converted to WebP. Photographed 2018-11-05. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+      "title": "Namsangol Hanok Village 20240409 094.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namsangol_Hanok_Village_20240409_094.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-04-09. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical photograph; check current signs, services and opening conditions separately."
     },
-    "gallery": [
+    "gallery": [],
+    "quickTitle": "Choose the commitment that fits",
+    "quickChoices": [
       {
-        "src": "/images/editorial/bukchon-evening.webp",
-        "alt": "Bukchon-ro 11-gil street lined with traditional hanok houses showing Korean architecture, seen from below, at blue hour in Bukchon Hanok Village, Seoul, South Korea. Long-exposure photography (13 s)",
-        "credit": {
-          "kind": "photograph",
-          "title": "Bukchon-ro 11-gil street with hanok houses at blue hour in Bukchon Hanok Village Seoul.jpg",
-          "author": "Basile Morin",
-          "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
-          "license": "CC BY-SA 4.0",
-          "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
-          "note": "Resized and converted to WebP. Photographed 2024-06-03. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
-        }
+        "label": "Keep the day flexible",
+        "detail": "Check ordinary palace, village or museum opening and closure days."
+      },
+      {
+        "label": "Join a guided session",
+        "detail": "Verify the actual date, language, age rules and capacity."
+      },
+      {
+        "label": "Book a special event",
+        "detail": "Confirm the season is current before paying or arranging the day around it."
       }
-    ]
+    ],
+    "heroMediaId": "culture-namsangol"
   },
   "palace-starlight-night-tours-2026": {
     "id": "culture-palace-night",
@@ -2774,12 +2865,12 @@
     "id": "essentials-troubleshooting",
     "categoryId": "travel-essentials",
     "format": "decision",
-    "checkedAt": "2026-10-30",
-    "answer": "Handle immediate danger first, then identify the operator and keep a clear record of the problem.",
-    "forWhom": "International visitors planning or taking a short Korea trip",
+    "checkedAt": "2026-10-31",
+    "answer": "Use 112 for police and 119 for ambulance/fire in an emergency. For travel problems, contact the actual operator or 1330 tourist help; do not wait for a forum reply.",
+    "forWhom": "International visitors needing the right first contact for a problem in Korea",
     "conditions": [
-      "Planning advice, not live availability or a booking quote.",
-      "Confirm current operator rules for your dates and needs."
+      "For immediate danger, use 112 or 119 and your current location.",
+      "1330 is non-emergency tourist assistance; language-service hours vary."
     ],
     "regions": ["seoul"],
     "stages": ["exploring"],
@@ -2808,39 +2899,39 @@
     "placeIds": [],
     "sources": [
       {
-        "id": "safety",
-        "title": "KTO Disaster Safety Services for International Visitors",
+        "id": "kto-emergency",
+        "title": "KTO: emergency services for international visitors",
         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
-        "checkedAt": "2026-10-30",
-        "note": "Older KTOFAQ erroneously routes generic emergencies to1339; don't use it. Do not make app a prerequisite to calling119."
+        "checkedAt": "2026-10-31",
+        "note": ""
       },
       {
-        "id": "emergency",
-        "title": "KTO emergency situations",
+        "id": "kto-1339",
+        "title": "KTO: emergency situations and 1339 distinction",
         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140042",
-        "checkedAt": "2026-10-30",
-        "note": "Do not label every hotline24/7 or all-language without verifying currentoperator."
+        "checkedAt": "2026-10-31",
+        "note": ""
       },
       {
-        "id": "money",
-        "title": "KTO currency and credit-card guide",
-        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140040",
-        "checkedAt": "2026-10-30",
-        "note": "No universal overseas-card success, ATM fee, exchange rate or issuer reimbursement verified."
+        "id": "kto-1330",
+        "title": "KTO: 1330 Korea Travel Helpline",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632",
+        "checkedAt": "2026-10-31",
+        "note": ""
       },
       {
-        "id": "naver-language",
-        "title": "NAVER Map language settings",
-        "url": "https://help.naver.com/service/5637/contents/8275?osType=MOBILE",
-        "checkedAt": "2026-10-30",
-        "note": "Labels/OS minimums vary byappversion; avoid describing full offline map availability."
+        "id": "airport-lost",
+        "title": "Incheon Airport: lost property",
+        "url": "https://airport.kr/ap_en/1549/subview.do",
+        "checkedAt": "2026-10-31",
+        "note": ""
       },
       {
-        "id": "pharmacy",
-        "title": "KTO pharmacy guide",
-        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=107&menuSn=923&vcontsId=217224",
-        "checkedAt": "2026-10-30",
-        "note": "Directories/hours must be checked directly; no specific24-hour English-speaking pharmacy verified. No medicine/dosage recommendation."
+        "id": "foreign-missions",
+        "title": "MOFA: foreign missions in Korea",
+        "url": "https://www.mofa.go.kr/eng/pgm/m_5789/uss/cnsrshp/inKoEmblgbdAdres.do",
+        "checkedAt": "2026-10-31",
+        "note": ""
       }
     ],
     "shareFacts": [
@@ -2852,14 +2943,30 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Incheon International Airport Terminal 1 Arrival 2.jpg",
-      "author": "ノボホショコロトソ",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_2.jpg",
-      "license": "CC BY 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
-      "note": "Resized and converted to WebP. Photographed 2023-09-28. Historical image; not evidence of current access, prices, signage or availability."
+      "title": "Inside of Seoul Station.jpg",
+      "author": "RyuMinjoo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Inside_of_Seoul_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-03-16. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical photograph; check current signs, services and opening conditions separately."
     },
-    "gallery": []
+    "gallery": [],
+    "quickTitle": "Find the right help",
+    "quickChoices": [
+      {
+        "label": "Immediate danger",
+        "detail": "112 for police; 119 for ambulance/fire. Give your current location first."
+      },
+      {
+        "label": "Non-emergency travel help",
+        "detail": "Use official 1330 voice/chat options and check language hours."
+      },
+      {
+        "label": "Lost property or passport",
+        "detail": "Contact the actual transport operator, or your own country’s consulate for a passport."
+      }
+    ],
+    "heroMediaId": "essentials-seoul-station"
   },
   "esim-vs-usim-vs-portable-wi-fi-2026": {
     "id": "essentials-sim",

@@ -1,6 +1,6 @@
 'use client';
 import Link from 'next/link';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useId, useRef, useState } from 'react';
 import Icon from './site/Icon';
 import { track } from '@/lib/analytics';
 import { searchIntent } from '@/lib/search-intents';
@@ -12,7 +12,8 @@ type Result = {
   reviewed?: boolean;
   content?: string;
 };
-export default function Search() {
+export default function Search({ variant = 'icon' }: { variant?: 'icon' | 'hero' }) {
+  const inputId = useId();
   const dialog = useRef<HTMLDialogElement>(null);
   const input = useRef<HTMLInputElement>(null);
   const trigger = useRef<HTMLButtonElement>(null);
@@ -32,14 +33,18 @@ export default function Search() {
   };
   useEffect(() => {
     const onKey = (event: KeyboardEvent) => {
-      if ((event.ctrlKey || event.metaKey) && event.key.toLowerCase() === 'k') {
+      if (
+        variant === 'icon' &&
+        (event.ctrlKey || event.metaKey) &&
+        event.key.toLowerCase() === 'k'
+      ) {
         event.preventDefault();
         open();
       }
     };
     document.addEventListener('keydown', onKey);
     return () => document.removeEventListener('keydown', onKey);
-  }, []);
+  }, [variant]);
   async function load() {
     if (index.current.length) return;
     setStatus('loading');
@@ -94,10 +99,16 @@ export default function Search() {
           open();
           void load();
         }}
-        className="icon-button"
+        className={variant === 'hero' ? 'home-search-trigger' : 'icon-button'}
         aria-label="Search guides"
       >
         <Icon name="search" />
+        {variant === 'hero' ? (
+          <>
+            <span>Where do you want to go?</span>
+            <span className="home-search-label">Search guides</span>
+          </>
+        ) : null}
       </button>
       <dialog
         ref={dialog}
@@ -111,14 +122,14 @@ export default function Search() {
         }}
       >
         <div className="search-dialog-top">
-          <label htmlFor="guide-search">What are you planning?</label>
+          <label htmlFor={inputId}>What are you planning?</label>
           <button className="icon-button" aria-label="Close search" onClick={close}>
             <Icon name="close" />
           </button>
         </div>
         <input
           ref={input}
-          id="guide-search"
+          id={inputId}
           name="guide-search"
           type="search"
           autoComplete="off"

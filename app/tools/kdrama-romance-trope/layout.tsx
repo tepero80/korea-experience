@@ -4,7 +4,8 @@ import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Your K-Drama Romance Trope | Love Story Quiz | Korea Experience' },
-  description: 'Which K-Drama romance trope is yours? From chaebol love to enemies-to-lovers, discover your perfect Korean drama love story match.',
+  description:
+    'Which K-Drama romance trope is yours? From chaebol love to enemies-to-lovers, discover your perfect Korean drama love story match.',
   keywords: [
     'kdrama romance trope',
     'kdrama romance quiz',
@@ -17,11 +18,12 @@ export const metadata: Metadata = {
     'kdrama love story test',
     'korean romance tropes',
     'which kdrama romance',
-    'kdrama personality quiz'
+    'kdrama personality quiz',
   ],
   openGraph: {
     title: 'Your K-Drama Romance Trope | Which Love Story Matches You? 💕',
-    description: 'Discover your perfect K-Drama romance trope! From chaebol romance to enemies-to-lovers, find out which classic Korean drama love story is meant for you!',
+    description:
+      'Discover your perfect K-Drama romance trope! From chaebol romance to enemies-to-lovers, find out which classic Korean drama love story is meant for you!',
     type: 'website',
     url: 'https://koreaexperience.com/tools/kdrama-romance-trope',
     siteName: 'Korea Experience',
@@ -31,16 +33,16 @@ export const metadata: Metadata = {
         url: '/tools/kdrama-romance-trope/opengraph-image',
         width: 1200,
         height: 630,
-        alt: 'Korea Experience - K-Drama Romance Trope Quiz'
-      }
-    ]
+        alt: 'Korea Experience - K-Drama Romance Trope Quiz',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Your K-Drama Romance Trope | Which Love Story Matches You? 💕',
-    description: 'Discover your perfect K-Drama romance trope! From chaebol romance to enemies-to-lovers, find out which love story is meant for you!',
+    description:
+      'Discover your perfect K-Drama romance trope! From chaebol romance to enemies-to-lovers, find out which love story is meant for you!',
     images: ['/tools/kdrama-romance-trope/opengraph-image'],
-    creator: '@koreaexperience',
   },
   alternates: {
     canonical: 'https://koreaexperience.com/tools/kdrama-romance-trope',
@@ -53,7 +55,8 @@ export const metadata: Metadata = {
 export default function Layout({ children }: { children: React.ReactNode }) {
   const toolSchema = generateWebApplicationSchema({
     name: 'Your K-Drama Romance Trope',
-    description: 'Which K-Drama romance trope is yours? From chaebol love to enemies-to-lovers, discover your perfect Korean drama love story match.',
+    description:
+      'Which K-Drama romance trope is yours? From chaebol love to enemies-to-lovers, discover your perfect Korean drama love story match.',
     url: `${SITE_CONFIG.url}/tools/kdrama-romance-trope`,
     imageUrl: `${SITE_CONFIG.url}/tools/kdrama-romance-trope/opengraph-image`,
   });

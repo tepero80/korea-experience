@@ -1,75 +1,73 @@
 ---
-title: 'Your First Korea Trip: The Decisions to Make Before Booking'
+title: 'Your First Korea Trip: A Practical Plan Before You Book'
 date: '2026-10-31'
 updated: '2026-10-31'
 excerpt: >-
-  Set your usable days, entry requirements, hotel base and arrival route before
-  booking attractions.
+  Count your usable days, check entry rules and choose a hotel base before
+  filling a Korea itinerary with tickets.
 category: plan-your-trip
-image: /images/editorial/bukchon.webp
+image: /images/editorial/seoul-station-exterior-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
   - planning
 draft: false
 ---
-A traveler landing late on a Friday and flying home Monday has two main sightseeing days, not four. Make the arrival evening a transfer, check-in and nearby meal; put the main palace visit on a full day.
 
-## Start with the trip you can actually fit
+**Make five decisions in this order: entry, usable days, hotel base, airport transfer, then dated activities.** This is an editorial planning sequence, not a set of official booking deadlines. It helps avoid paying for an attraction you cannot reach comfortably.
 
-Count usable days after arrival and before departure; list flight landing and hotel check-in separately.
+## Count full days, not dates on a flight booking
 
-For a short trip, a Seoul-only base keeps more time available for exploring. Add Busan only when you can give the cross-country transfer a real place in the schedule.
+Imagine landing Friday evening and flying home Monday afternoon. Friday is an arrival evening; Monday has checkout, an airport journey and an airline deadline. You have **two full sightseeing days**, plus whatever genuinely fits around those obligations.
 
-Write three priorities and one optional activity so weather or fatigue can remove a stop without breaking the trip.
+| Part of the trip | Put on the plan first                                    | Leave flexible                              |
+| ---------------- | -------------------------------------------------------- | ------------------------------------------- |
+| Arrival          | Immigration, bags, transfer, confirmed late check-in     | Nearby meal, short walk if you have energy  |
+| Full day         | One main area or booked experience                       | A nearby second stop and a rest break       |
+| Departure        | Checkout, bags, airport journey and airline requirements | A short local activity only if timing works |
 
-## Check entry eligibility before nonrefundable payments
+For a short first visit, one Seoul base is a useful starting option. Add another city when the travel time, hotel move and luggage arrangements fit the experience you actually want. A map with many pins is not yet an achievable itinerary.
 
-Use passport nationality, residence, travel purpose and arrival date in official immigration guidance; a travel blog cannot determine individual admission.
+## Check your passport and arrival date before paying
 
-Distinguish visa/authorization from arrival declaration; the 2026 exemption notice has a hard end date and limited eligible countries.
+Start with the official [Korea Visa Navigator](https://www.visa.go.kr/openPage.do?MENU_ID=10102), using your nationality, purpose and intended stay. Check the result with the relevant Korean diplomatic mission if your circumstances are unclear. This guide cannot determine admission.
 
-Keep a document folder containing passport identification copy, insurance, first hotel address in Korean and confirmed arrival/departure details.
+| Check                            | Official starting point                                                                                         | What not to assume                                                |
+| -------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| Visa or visa-free eligibility    | Visa Navigator and diplomatic mission                                                                           | Another traveler's passport has the same rules                    |
+| K-ETA authorization or exemption | [K-ETA notice](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y&locale=EN) | A temporary exemption covers every country or continues into 2027 |
+| Arrival declaration              | [e-Arrival Card eligibility](https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do?locale=E)           | A K-ETA exemption also exempts you from an arrival declaration    |
 
-**Check the operator:** [Korea Immigration Service: e-Arrival Card filing guide](https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E) · [K-ETA official notice: temporary exemption extended through 2026](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y&locale=EN).
+**Date-sensitive:** the checked K-ETA notice extends its listed countries' temporary exemption through **31 December 2026, Korean time**. It does not establish the rules for a 2027 arrival. Recheck before a nonrefundable purchase.
 
-## Choose a base from your real arrival route
+For travelers required to file, the official [e-Arrival Card guide](https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E) says filing is free and available from three days before arrival, using Korean time. Prepare your passport, email, arrival details and accommodation information. Follow the eligibility page for exceptions, including valid K-ETA holders.
 
-Compare hotel door-to-station access, lift/stairs and the final walk with luggage, not only station names.
+## Choose the base around repeated journeys
 
-For an arrival after normal rail connections, solve late-night transfer and late check-in before choosing a cheap remote hotel.
+Write down your three priorities, then compare [four practical Seoul bases](/blog/seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style). Check the exact property's station exit, final walk, stairs, room layout and reception hours. A familiar neighborhood name does not settle those questions.
 
-A short sightseeing trip usually gains more from a convenient base and fewer hotel moves than an extra district checked off.
+<GuidePhoto id="hongdae-station-exit" caption="A Hongik University station entrance illustrates the final part of a hotel journey. Confirm the exit and accessible route for your own property; this photo cannot establish its walking distance." />
 
-## Make connectivity and payment resilient
+Before committing to the room, open the [airport-to-hotel comparison](/blog/airport-limousine-bus-vs-arex-express-train). A late arrival needs both a usable transfer and confirmed check-in. Keep the hotel's Korean address offline.
 
-Prepare an offline copy of the hotel address, booking and return-flight details before landing.
+## Build a budget from units you can check
 
-Keep a second independent payment method and accessible transport funds. Foreign-card and phone-wallet acceptance can vary between a shop, kiosk, ATM and transport product.
+Separate **rooms × nights** from **travelers × spending days**. Two people sharing one room do not need two rooms, but both need food and fares. Keep flights, shopping, airport journeys and a contingency visible.
 
-Install a Korea-capable map and save the destination's Korean name; map setup is a separate detailed guide.
+Use the [editable budget planner](/tools/trip-budget) with actual room quotes and your spending choices. Sample scenarios are arithmetic examples, not current market quotes. Revisit the total after booking the hotel and any high-cost experience.
 
-## Build a first-day plan that survives delays
+## Book an anchor and keep a way to change the day
 
-Make the only fixed arrival-day tasks immigration, connectivity if needed, transport, check-in and a meal near the hotel.
+Use the [booking checklist](/blog/korea-trip-booking-checklist-eight-weeks) to record cancellation terms, ticket names, meeting points and age or language conditions. Confirm a program runs on your dates before treating a reservation button as proof of availability.
 
-Keep the first paid timed attraction after a recovery window; international arrival time is not the time you exit the terminal.
+Start with the [Seoul three-day route](/blog/seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026), then remove a day or area if your time is shorter. Save one [rain or cold alternative](/blog/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets), rather than moving between distant indoor attractions all day.
 
-Include a rain/cold alternative and an unbooked rest block rather than filling every hour.
+## Save this before leaving home
 
-## Final check and next actions
+- Passport/entry checks for the actual arrival date, with official pages saved.
+- Hotel name, Korean address, check-in instructions and cancellation terms.
+- Airport transfer plus a fallback if the usable connection is missed.
+- A working data plan, offline directions and an independent payment backup.
+- Confirmations and insurance assistance details stored privately.
 
-For travelers required to file, the official free e-Arrival Card opens three days before arrival in KST; follow its current eligibility guide.
-
-Recheck opening notices, transport routes and hotel check-in instructions near departure.
-
-## Before you go
-
-- Eligibility checked for passport and date
-- Cancelable accommodation chosen
-- Arrival transport plus backup saved
-- Korean hotel address available offline
-- Priority booking confirmed
-- Weather alternative ready
-
-Save the current operator notice and your own booking conditions offline. Recheck any dated information before paying or traveling.
+Do not put passport copies, card numbers or booking codes in a public itinerary or community question. Your next useful decision is the **hotel area**, then the complete journey to its door.

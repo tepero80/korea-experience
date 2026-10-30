@@ -8,7 +8,7 @@ export default function PhotoCredit({ credit }: { credit?: MediaCredit }) {
       </p>
     );
   return (
-    <p className="photo-credit">
+    <div className="photo-credit">
       Photo: {credit.author || 'See source'}
       {credit.sourceUrl ? (
         <>
@@ -28,7 +28,12 @@ export default function PhotoCredit({ credit }: { credit?: MediaCredit }) {
           </a>
         </>
       ) : null}
-      {credit.note ? <>. {credit.note}</> : null}
-    </p>
+      {credit.note ? (
+        <details>
+          <summary>Photo details & reuse</summary>
+          <p>{credit.note}</p>
+        </details>
+      ) : null}
+    </div>
   );
 }

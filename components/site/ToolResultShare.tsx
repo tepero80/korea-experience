@@ -5,11 +5,15 @@ export default function ToolResultShare({
   title,
   summary,
   facts,
+  url,
+  checkedAt,
 }: {
   slug: string;
   title: string;
   summary: string;
   facts: string[];
+  url?: string;
+  checkedAt?: string;
 }) {
   return (
     <ShareActions
@@ -18,8 +22,8 @@ export default function ToolResultShare({
       summary={summary}
       facts={facts}
       category="Your travel calculation"
-      url={'https://koreaexperience.com/tools/' + slug}
-      checkedAt="2026-10-30"
+      url={url || 'https://koreaexperience.com/tools/' + slug}
+      checkedAt={checkedAt}
     />
   );
 }

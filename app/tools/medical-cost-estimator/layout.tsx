@@ -1,64 +1,19 @@
-import { Metadata } from 'next';
-import { generateWebApplicationSchema, generateBreadcrumbSchema } from '@/lib/schema';
-import { SITE_CONFIG } from '@/lib/constants';
-
+import type { Metadata } from 'next';
+import { TOOL_REVIEWS } from '@/lib/tool-review';
 export const metadata: Metadata = {
-  title: { absolute: 'Medical Tourism Cost Estimator | Korea Experience' },
-  description: 'Estimate your medical procedure costs in Korea: plastic surgery, dental, dermatology, and more. Includes accommodation and travel costs.',
-  keywords: ['Korea medical tourism', 'medical cost calculator', 'plastic surgery Korea', 'Gangnam clinic', 'medical tourism cost', 'Korea surgery price', 'medical procedure estimate'],
+  title: TOOL_REVIEWS['medical-cost-estimator'].title,
+  description: TOOL_REVIEWS['medical-cost-estimator'].explanation,
+  robots: { index: false, follow: true },
+  alternates: { canonical: 'https://koreaexperience.com/tools/medical-cost-estimator' },
   openGraph: {
-    title: 'Medical Tourism Cost Estimator | Korea Experience',
-    description: 'Calculate your medical procedure costs in Korea including accommodation, meals, and travel expenses.',
-    url: `${SITE_CONFIG.url}/tools/medical-cost-estimator`,
-    siteName: SITE_CONFIG.name,
-    locale: 'en_US',
-    type: 'website',
-    images: [
-      {
-        url: '/tools/medical-cost-estimator/opengraph-image',
-        width: 1200,
-        height: 630,
-        alt: 'Medical Tourism Cost Estimator',
-      },
-    ],
+    title: TOOL_REVIEWS['medical-cost-estimator'].title,
+    description: TOOL_REVIEWS['medical-cost-estimator'].explanation,
   },
   twitter: {
-    card: 'summary_large_image',
-    title: 'Medical Tourism Cost Estimator',
-    description: 'Estimate medical procedure costs in Korea',
-    creator: SITE_CONFIG.social.twitter,
-    images: ['/tools/medical-cost-estimator/opengraph-image'],
-  },
-  alternates: {
-    canonical: `${SITE_CONFIG.url}/tools/medical-cost-estimator`,
+    title: TOOL_REVIEWS['medical-cost-estimator'].title,
+    description: TOOL_REVIEWS['medical-cost-estimator'].explanation,
   },
 };
-
 export default function Layout({ children }: { children: React.ReactNode }) {
-  const toolSchema = generateWebApplicationSchema({
-    name: 'Medical Tourism Cost Estimator',
-    description: 'Estimate your medical procedure costs in Korea: plastic surgery, dental, dermatology, and more. Includes accommodation and travel costs.',
-    url: `${SITE_CONFIG.url}/tools/medical-cost-estimator`,
-    imageUrl: `${SITE_CONFIG.url}/tools/medical-cost-estimator/opengraph-image`,
-  });
-
-  const breadcrumbSchema = generateBreadcrumbSchema([
-    { name: 'Home', item: SITE_CONFIG.url },
-    { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
-    { name: 'Medical Tourism Cost Estimator', item: `${SITE_CONFIG.url}/tools/medical-cost-estimator` },
-  ]);
-
-  return (
-    <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(toolSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      {children}
-    </>
-  );
+  return children;
 }

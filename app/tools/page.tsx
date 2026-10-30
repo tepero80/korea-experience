@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import { PRACTICAL_TOOLS, LEGACY_TOOLS } from '@/lib/constants';
+import { PRIMARY_TRAVEL_TOOLS, LEGACY_TOOLS } from '@/lib/constants';
+import { TOOL_REVIEWS } from '@/lib/tool-review';
 export const metadata = {
   title: 'Practical Korea travel tools',
   description:
@@ -19,7 +20,7 @@ export default function Tools() {
         <p>Useful planning tools with clear assumptions. No account needed to begin.</p>
       </header>
       <div className="tools-grid">
-        {PRACTICAL_TOOLS.map((t, i) => (
+        {PRIMARY_TRAVEL_TOOLS.map((t, i) => (
           <Link className="tool-card" href={t.href} key={t.href}>
             <span className="eyebrow">0{i + 1}</span>
             <h2>{t.title} ↗</h2>
@@ -38,7 +39,9 @@ export default function Tools() {
         <summary>Culture quizzes from the archive</summary>
         <p>Entertainment, separate from travel advice. Older quizzes are being reviewed.</p>
         <div className="archive-links">
-          {LEGACY_TOOLS.filter((t) => t.href !== '/tools/trip-budget').map((t) => (
+          {LEGACY_TOOLS.filter(
+            (t) => t.href !== '/tools/trip-budget' && !(t.href.split('/').pop()! in TOOL_REVIEWS),
+          ).map((t) => (
             <Link href={t.href} key={t.href}>
               {t.title}
             </Link>

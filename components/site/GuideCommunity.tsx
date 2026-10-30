@@ -2,6 +2,7 @@
 import { useEffect, useState, useRef } from 'react';
 import Link from 'next/link';
 import config from '@/data/community-config.json';
+import { readGuideDraft, writeGuideDraft } from '@/lib/guide-drafts';
 type Comment = { id: string; body: string; name: string | null; created_at: string };
 declare global {
   interface Window {
@@ -12,7 +13,7 @@ declare global {
     };
   }
 }
-export default function GuideCommunity({ id }: { id: string }) {
+export default function GuideCommunity({ id, slug }: { id: string; slug: string }) {
   const [items, setItems] = useState<Comment[]>([]),
     [signed, setSigned] = useState(false),
     [count, setCount] = useState(0),
@@ -21,10 +22,45 @@ export default function GuideCommunity({ id }: { id: string }) {
     [status, setStatus] = useState(''),
     [token, setToken] = useState(''),
     [key, setKey] = useState('');
+  const [active, setActive] = useState(false),
+    [draftLoaded, setDraftLoaded] = useState(false),
+    [submitting, setSubmitting] = useState(false),
+    [retry, setRetry] = useState(0);
+  const [apiState, setApiState] = useState<'idle' | 'loading' | 'ready' | 'error'>('idle'),
+    [spamError, setSpamError] = useState(false);
+  const section = useRef<HTMLElement>(null);
   const box = useRef<HTMLDivElement>(null),
     widget = useRef<string | undefined>(undefined);
   useEffect(() => {
-    if (!config.enabled) return;
+    if (!config.enabled || !section.current) return;
+    if (!('IntersectionObserver' in window)) {
+      setActive(true);
+      return;
+    }
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries.some((e) => e.isIntersecting)) {
+          setActive(true);
+          observer.disconnect();
+        }
+      },
+      { rootMargin: '400px' },
+    );
+    observer.observe(section.current);
+    return () => observer.disconnect();
+  }, []);
+  useEffect(() => {
+    try {
+      setBody(readGuideDraft(localStorage, id));
+    } catch {
+      setStatus('Local drafts are unavailable. Copy your text before leaving this page.');
+    } finally {
+      setDraftLoaded(true);
+    }
+  }, [id]);
+  useEffect(() => {
+    if (!config.enabled || !active) return;
+    setApiState('loading');
     let live = true;
     void Promise.all([
       fetch('/api/community?guide=' + encodeURIComponent(id)).then((r) =>
@@ -43,14 +79,18 @@ export default function GuideCommunity({ id }: { id: string }) {
         setLiked(reactions.mine === true);
         setSigned(me);
         setKey(settings.turnstileSiteKey);
+        setApiState('ready');
       })
       .catch(() => {
-        if (live) setStatus('Community is temporarily unavailable. The guide remains available.');
+        if (live) {
+          setApiState('error');
+          setStatus('Community is temporarily unavailable. The guide remains available.');
+        }
       });
     return () => {
       live = false;
     };
-  }, [id]);
+  }, [id, active]);
   useEffect(() => {
     if (!signed || !key || !box.current) return;
     let tries = 0,
@@ -58,17 +98,34 @@ export default function GuideCommunity({ id }: { id: string }) {
     function render() {
       if (removed || !box.current) return;
       if (window.turnstile) {
-        widget.current = window.turnstile.render(box.current, {
-          sitekey: key,
-          size: box.current.clientWidth < 300 ? 'compact' : 'normal',
-          callback: (value: string) => setToken(value),
-          'expired-callback': () => setToken(''),
-          'error-callback': () =>
-            setStatus('The anti-spam check could not load. Try the community page.'),
-        });
+        try {
+          widget.current = window.turnstile.render(box.current, {
+            sitekey: key,
+            size: box.current.clientWidth < 300 ? 'compact' : 'normal',
+            callback: (value: string) => {
+              setToken(value);
+              setSpamError(false);
+            },
+            'expired-callback': () => setToken(''),
+            'error-callback': () => {
+              setToken('');
+              setSpamError(true);
+              setStatus(
+                'The anti-spam check could not load. Retry the check, or return later. Your draft stays in this browser.',
+              );
+            },
+          });
+        } catch {
+          setSpamError(true);
+          setStatus('The anti-spam check could not start. Retry the check or return later.');
+        }
         return;
       }
       if (++tries < 40) setTimeout(render, 250);
+      else {
+        setSpamError(true);
+        setStatus('The anti-spam check could not load. Retry the check, or return later.');
+      }
     }
     if (!document.getElementById('ke-turnstile')) {
       const script = document.createElement('script');
@@ -80,9 +137,12 @@ export default function GuideCommunity({ id }: { id: string }) {
     render();
     return () => {
       removed = true;
-      if (widget.current && window.turnstile) window.turnstile.remove(widget.current);
+      try {
+        if (widget.current && window.turnstile) window.turnstile.remove(widget.current);
+      } catch {}
+      widget.current = undefined;
     };
-  }, [signed, key]);
+  }, [signed, key, retry]);
   if (!config.enabled) return null;
   async function helpful() {
     try {
@@ -105,11 +165,17 @@ export default function GuideCommunity({ id }: { id: string }) {
     }
   }
   return (
-    <section className="guide-discussion no-print">
+    <section className="guide-discussion no-print" id="discussion" ref={section}>
       <p className="eyebrow">Questions & useful updates</p>
       <h2>What would help your trip?</h2>
-      <button className="action-button" onClick={helpful} aria-pressed={liked}>
-        {liked ? 'Marked helpful' : 'This helped me'} · {count}
+      <button
+        className="action-button"
+        onClick={helpful}
+        aria-pressed={liked}
+        disabled={apiState !== 'ready'}
+      >
+        {liked ? 'Marked helpful' : 'This helped me'}
+        {apiState === 'ready' ? ` · ${count}` : ''}
       </button>
       {items.length ? (
         <ol className="discussion-list">
@@ -124,58 +190,130 @@ export default function GuideCommunity({ id }: { id: string }) {
           ))}
         </ol>
       ) : (
-        <p>No reviewed questions yet. Share a specific question or a dated correction.</p>
-      )}
-      {signed ? (
-        <form
-          onSubmit={async (e) => {
-            e.preventDefault();
-            try {
-              const r = await fetch('/api/contributions', {
-                method: 'POST',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ kind: 'comment', guideId: id, body, turnstileToken: token }),
-              });
-              const result = await r.json();
-              if (!r.ok) throw Error(result.error || 'The comment could not be submitted.');
-              setBody('');
-              setStatus('Received for review. Your comment will appear after moderation.');
-            } catch (e) {
-              setStatus((e as Error).message);
-            } finally {
-              setToken('');
-              if (widget.current) window.turnstile?.reset(widget.current);
-            }
-          }}
-        >
-          <label className="field" htmlFor="guide-comment">
-            <span>Your question or update</span>
-            <textarea
-              id="guide-comment"
-              rows={5}
-              required
-              minLength={10}
-              maxLength={5000}
-              value={body}
-              onChange={(e) => setBody(e.target.value)}
-            />
-          </label>
-          <p className="map-notice">
-            Include travel dates and the useful detail. Avoid personal documents, contact details or
-            booking codes. Comments and edits require review.
-          </p>
-          <div ref={box} />
-          <button className="button" type="submit" disabled={!token}>
-            Send for review
-          </button>
-        </form>
-      ) : (
         <p>
-          <Link className="button button-light" href="/community/account">
-            Sign in with Google or email
-          </Link>
+          {apiState === 'ready'
+            ? 'No reviewed questions yet. Share a specific question or a dated correction.'
+            : apiState === 'loading'
+              ? 'Loading reviewed questions…'
+              : 'Questions and updates appear here after review.'}
         </p>
       )}
+      <form
+        onSubmit={async (e) => {
+          e.preventDefault();
+          if (!signed || !token || submitting) return;
+          setSubmitting(true);
+          try {
+            const r = await fetch('/api/contributions', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ kind: 'comment', guideId: id, body, turnstileToken: token }),
+            });
+            const result = await r.json();
+            if (!r.ok)
+              throw Error(
+                typeof result.error === 'string'
+                  ? result.error
+                  : result.error?.message || 'The comment could not be submitted.',
+              );
+            setBody('');
+            try {
+              writeGuideDraft(localStorage, id, '');
+            } catch {}
+            setStatus('Received for review. Your comment will appear after moderation.');
+          } catch (e) {
+            setStatus((e as Error).message);
+          } finally {
+            setToken('');
+            setSubmitting(false);
+            if (widget.current) window.turnstile?.reset(widget.current);
+          }
+        }}
+      >
+        <label className="field" htmlFor="guide-comment">
+          <span>Your question or update</span>
+          <textarea
+            id="guide-comment"
+            rows={5}
+            required
+            minLength={10}
+            maxLength={5000}
+            value={body}
+            onChange={(e) => {
+              setBody(e.target.value);
+              try {
+                writeGuideDraft(localStorage, id, e.target.value);
+              } catch {
+                setStatus('Draft could not be saved here. Copy your text before signing in.');
+              }
+            }}
+            disabled={!draftLoaded}
+          />
+        </label>
+        <p className="map-notice">
+          Include travel dates and the useful detail. Avoid personal documents, contact details or
+          booking codes. Comments and edits require review.
+        </p>
+        <p className="map-notice">
+          Up to 20 drafts stay on this browser for 7 days. An email link opened on another device
+          cannot restore this draft.
+        </p>
+        {signed ? (
+          <>
+            <div ref={box} />
+            <button className="button" type="submit" disabled={!token || submitting}>
+              {submitting ? 'Sending…' : 'Send for review'}
+            </button>
+            {spamError ? (
+              <button
+                type="button"
+                className="action-button"
+                onClick={() => {
+                  setToken('');
+                  setSpamError(false);
+                  setRetry((n) => n + 1);
+                  setStatus('Retrying the anti-spam check…');
+                }}
+              >
+                Retry anti-spam check
+              </button>
+            ) : null}
+          </>
+        ) : (
+          <Link
+            className="button button-light"
+            href={`/community/account?returnTo=${encodeURIComponent('/blog/' + slug + '#discussion')}`}
+            onClick={(e) => {
+              try {
+                writeGuideDraft(localStorage, id, body);
+              } catch {
+                e.preventDefault();
+                setStatus('Copy your text before leaving. This browser could not save the draft.');
+              }
+            }}
+          >
+            Save draft & sign in with Google or email
+          </Link>
+        )}
+        {body ? (
+          <button
+            type="button"
+            className="action-button"
+            onClick={() => {
+              if (!confirm('Discard this local draft?')) return;
+              try {
+                writeGuideDraft(localStorage, id, '');
+                setBody('');
+                setStatus('Draft discarded.');
+              } catch {
+                setStatus('Draft could not be removed from browser storage.');
+              }
+            }}
+          >
+            Discard draft
+          </button>
+        ) : null}
+      </form>
       <p role="status">{status}</p>
     </section>
   );

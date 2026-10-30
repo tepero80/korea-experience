@@ -1,10 +1,10 @@
-import { MDXRemote, MDXRemoteProps } from 'next-mdx-remote/rsc';
-import Image from 'next/image';
+import { toString } from 'hast-util-to-string';
 import Link from 'next/link';
 import rehypeHighlight from 'rehype-highlight';
 import rehypeSlug from 'rehype-slug';
 import remarkGfm from 'remark-gfm';
 import { TourCard } from './affiliate/TourCard';
+import GuidePhoto from './site/GuidePhoto';
 
 // Original MDX Components
 import ImageGallery from './mdx/ImageGallery';
@@ -30,22 +30,16 @@ import FAQAccordion from './mdx/FAQAccordion';
 
 // Custom components for MDX
 const components = {
+  GuidePhoto,
   // Headings with anchor links
   h1: (props: any) => <h1 className="text-4xl font-bold text-gray-900 mb-6 mt-8" {...props} />,
   h2: (props: any) => (
     <h2
-      id={props.children?.toString().toLowerCase().replace(/\s+/g, '-')}
       className="text-3xl font-bold text-gray-900 mb-4 mt-10 pb-2 border-b-2 border-gray-200"
       {...props}
     />
   ),
-  h3: (props: any) => (
-    <h3
-      id={props.children?.toString().toLowerCase().replace(/\s+/g, '-')}
-      className="text-2xl font-semibold text-gray-900 mb-3 mt-8"
-      {...props}
-    />
-  ),
+  h3: (props: any) => <h3 className="text-2xl font-semibold text-gray-900 mb-3 mt-8" {...props} />,
   h4: (props: any) => <h4 className="text-xl font-semibold text-gray-900 mb-2 mt-6" {...props} />,
 
   // Paragraphs
@@ -190,23 +184,37 @@ interface MDXContentProps {
   source: string;
 }
 
+export async function compileGuideContent(source: string) {
+  const { compileMDX } = await import('next-mdx-remote/rsc');
+  const headings: { text: string; id: string }[] = [];
+  const collectHeadings = () => (tree: Parameters<typeof toString>[0]) => {
+    function visit(node: Parameters<typeof toString>[0]) {
+      if (
+        node.type === 'element' &&
+        node.tagName === 'h2' &&
+        typeof node.properties.id === 'string'
+      )
+        headings.push({ text: toString(node), id: node.properties.id });
+      if ('children' in node) for (const child of node.children) visit(child);
+    }
+    visit(tree);
+  };
+  const result = await compileMDX({
+    source,
+    components,
+    options: {
+      // Repository-authored MDX uses literal arrays/objects in component props.
+      // User/community text is never compiled as MDX.
+      blockJS: false,
+      blockDangerousJS: true,
+      mdxOptions: {
+        remarkPlugins: [remarkGfm],
+        rehypePlugins: [rehypeHighlight, rehypeSlug, collectHeadings],
+      },
+    },
+  });
+  return { content: <div className="prose prose-lg max-w-none">{result.content}</div>, headings };
+}
 export default async function MDXContent({ source }: MDXContentProps) {
-  return (
-    <div className="prose prose-lg max-w-none">
-      <MDXRemote
-        source={source}
-        components={components}
-        options={{
-          // Repository-authored MDX uses literal arrays/objects in component props.
-          // User/community text is never compiled as MDX.
-          blockJS: false,
-          blockDangerousJS: true,
-          mdxOptions: {
-            remarkPlugins: [remarkGfm],
-            rehypePlugins: [rehypeHighlight, rehypeSlug],
-          },
-        }}
-      />
-    </div>
-  );
+  return (await compileGuideContent(source)).content;
 }

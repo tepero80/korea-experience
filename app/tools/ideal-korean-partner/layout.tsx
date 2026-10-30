@@ -4,8 +4,17 @@ import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Your Ideal Korean Partner Type | Korea Experience' },
-  description: 'Take our personality quiz to discover your ideal Korean partner type. Find out what kind of Korean partner matches your relationship style.',
-  keywords: ['ideal Korean partner', 'Korean dating quiz', 'Korean relationship', 'Korean partner type', 'dating in Korea', 'Korean romance', 'partner quiz'],
+  description:
+    'Take our personality quiz to discover your ideal Korean partner type. Find out what kind of Korean partner matches your relationship style.',
+  keywords: [
+    'ideal Korean partner',
+    'Korean dating quiz',
+    'Korean relationship',
+    'Korean partner type',
+    'dating in Korea',
+    'Korean romance',
+    'partner quiz',
+  ],
   openGraph: {
     title: 'Your Ideal Korean Partner Type | Korea Experience',
     description: 'Find your perfect Korean partner type based on personality and values.',
@@ -26,7 +35,6 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'Your Ideal Korean Partner Type',
     description: 'Discover your ideal Korean partner',
-    creator: SITE_CONFIG.social.twitter,
     images: ['/tools/ideal-korean-partner/opengraph-image'],
   },
   alternates: {
@@ -37,7 +45,8 @@ export const metadata: Metadata = {
 export default function Layout({ children }: { children: React.ReactNode }) {
   const toolSchema = generateWebApplicationSchema({
     name: 'Your Ideal Korean Partner Type',
-    description: 'Take our personality quiz to discover your ideal Korean partner type. Find out what kind of Korean partner matches your relationship style.',
+    description:
+      'Take our personality quiz to discover your ideal Korean partner type. Find out what kind of Korean partner matches your relationship style.',
     url: `${SITE_CONFIG.url}/tools/ideal-korean-partner`,
     imageUrl: `${SITE_CONFIG.url}/tools/ideal-korean-partner/opengraph-image`,
   });
@@ -45,7 +54,10 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: 'Home', item: SITE_CONFIG.url },
     { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
-    { name: 'Your Ideal Korean Partner Type', item: `${SITE_CONFIG.url}/tools/ideal-korean-partner` },
+    {
+      name: 'Your Ideal Korean Partner Type',
+      item: `${SITE_CONFIG.url}/tools/ideal-korean-partner`,
+    },
   ]);
 
   return (

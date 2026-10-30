@@ -4,7 +4,8 @@ import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Emoji Name Generator | Transform Your Name | Korea Experience' },
-  description: 'Turn your name into beautiful Korean-style emojis! Choose cute, cool, or elegant styles. Perfect for Instagram bios and social media profiles.',
+  description:
+    'Turn your name into beautiful Korean-style emojis! Choose cute, cool, or elegant styles. Perfect for Instagram bios and social media profiles.',
   keywords: [
     'emoji name generator',
     'korean emoji name',
@@ -17,11 +18,12 @@ export const metadata: Metadata = {
     'emoji converter',
     'social media emojis',
     'emoji nickname',
-    'korean name emojis'
+    'korean name emojis',
   ],
   openGraph: {
     title: 'Your Korean Emoji Name | Transform Your Name ✨',
-    description: 'Turn your name into beautiful emojis! Choose from cute, cool, or elegant styles. Perfect for Instagram bios!',
+    description:
+      'Turn your name into beautiful emojis! Choose from cute, cool, or elegant styles. Perfect for Instagram bios!',
     type: 'website',
     url: 'https://koreaexperience.com/tools/emoji-name',
     siteName: 'Korea Experience',
@@ -31,16 +33,15 @@ export const metadata: Metadata = {
         url: '/tools/emoji-name/opengraph-image',
         width: 1200,
         height: 630,
-        alt: 'Korea Experience - Korean Emoji Name Generator'
-      }
-    ]
+        alt: 'Korea Experience - Korean Emoji Name Generator',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Your Korean Emoji Name | Transform Your Name ✨',
     description: 'Turn your name into beautiful emojis! Choose from cute, cool, or elegant styles.',
     images: ['/tools/emoji-name/opengraph-image'],
-    creator: '@koreaexperience',
   },
   alternates: {
     canonical: 'https://koreaexperience.com/tools/emoji-name',
@@ -53,7 +54,8 @@ export const metadata: Metadata = {
 export default function Layout({ children }: { children: React.ReactNode }) {
   const toolSchema = generateWebApplicationSchema({
     name: 'Your Korean Emoji Name',
-    description: 'Turn your name into beautiful Korean-style emojis! Choose cute, cool, or elegant styles. Perfect for Instagram bios and social media profiles.',
+    description:
+      'Turn your name into beautiful Korean-style emojis! Choose cute, cool, or elegant styles. Perfect for Instagram bios and social media profiles.',
     url: `${SITE_CONFIG.url}/tools/emoji-name`,
     imageUrl: `${SITE_CONFIG.url}/tools/emoji-name/opengraph-image`,
   });

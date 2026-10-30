@@ -6,71 +6,63 @@ excerpt: >-
   Give each day one area and one main anchor; keep arrival day light and leave
   room for weather changes.
 category: places-itineraries
-image: /images/editorial/gyeongbokgung.webp
+image: /images/editorial/seoul-geunjeongjeon-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
   - planning
 draft: false
 ---
-Day 1 can pair a confirmed palace opening with Jongno and Insadong; day 2 can use Seoul Forest and Seongsu; day 3 can center on the National Museum or a market according to weather and interests. Move the days when closure notices or bookings require it.
 
-## A three-day route skeleton
+This route is for **three full sightseeing days**, with a central-Seoul base and a comfortable walking pace. An international arrival day is extra: settle in rather than trying to fit a palace after baggage collection. First choose [a neighborhood that fits your trip](/blog/seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style), then assign dates to the clusters below.
 
-| Day | Main area and anchor | Meal / optional block | Weather or closure swap |
-| --- | --- | --- | --- |
-| 1 | Jongno: a confirmed palace visit | Insadong meal and browse | Craft Museum as the main anchor |
-| 2 | Seoul Forest and Seongsu | One meal, one café or shop | Shorten the park; confirm an indoor merchant |
-| 3 | Yongsan: National Museum | Nearby meal and a rest block | Keep the museum, reduce outdoor extensions |
+## Choose dates before choosing more stops
 
-These are editorial day blocks, not timed tickets or verified walking durations. Assign dates only after checking closures. The Craft Museum normally lists 10:00–18:00 with last entry 17:30 and Monday/January 1 closures; temporary late schedules have exceptions. The National Museum’s checked regular hours are 09:30–17:30, Wednesday/Saturday to 21:00, with final entry 30 minutes earlier. Permanent galleries are free; special exhibitions and children’s reservations are separate. Sources: [Seoul Tourism Organization: Seoul Museum of Craft Art](https://english.visitseoul.net/attractions/Seoul%20Museum%20of%20Craft_/38147) · [National Museum of Korea: Hours and Admissions](https://www.museum.go.kr/ENG/contents/E0101000000.do).
+| Cluster         | Start → main stops → finish                                | Suggested allowance                              | Change it when…                                                   |
+| --------------- | ---------------------------------------------------------- | ------------------------------------------------ | ----------------------------------------------------------------- |
+| Historic center | Gyeongbokgung area → palace → Insadong → Anguk             | 2 hours palace, lunch, 1–2 hours browsing        | The palace is closed on Tuesday; heavy rain makes a museum better |
+| East Seoul      | Seoul Forest → nearby lunch → Seongsu → Seongsu Station    | 1–2 hours park, lunch, 2 hours flexible browsing | Rain/cold means a shorter park visit and a confirmed indoor stop  |
+| Yongsan         | Ichon area → National Museum → meal/rest → return to hotel | 2–3 hours galleries, a meal, unhurried return    | A gallery closure or a booked exhibition changes access           |
 
-## Set the pace before choosing stops
+These are **editorial time budgets**, not timed tickets or verified walking durations. Add the actual hotel journey and rest time in your local map. Do not add another distant district just because a map marker looks close.
 
-Assume three full days, not an international arrival day plus two days; choose your hotel base and a walking pace that suits your group.
+**Closure check for this route:** Gyeongbokgung normally closes on Tuesdays. The National Museum’s permanent/special galleries list the first Monday of March, June, September and December as closed (with the published March 2026 exception). Confirm special closures for your dates using the [palace notice](https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260930144202825885&schBcid=notice01&schM=view) and [museum visitor information](https://www.museum.go.kr/ENG/contents/E0101010000.do).
 
-Use one main geographic cluster per day, a meal/rest window and at most one optional extension.
+## Day 1 · Gyeongbokgung, lunch and Insadong
 
-List reserved versus flexible stops so you know what can move when rain or closures intervene.
+**Start:** navigate to 경복궁, 서울 종로구 사직로 161, and confirm the public entrance and any accessibility needs in the current facility map. Visit the palace first so it is not squeezed against last admission. Use the open courtyard and main halls as your anchor; this plan does not require a separate night-program ticket or a hanbok rental.
 
-## Day one: historic-center decisions
+**For November 2026:** the palace’s notice lists 09:00–17:00, last entry 16:00. It also announces free opening from **29 October to 15 November 2026, excluding closed days**. That is a temporary offer, not a permanent admission rule. Check the [operator’s dated notice](https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260930144202825885&schBcid=notice01&schM=view) for your visit.
 
-Center the first full day on Jongno and Anguk: a chosen palace, lunch in the area and an Insadong walk. Keep the Craft Museum as an alternative or a replacement for the main outdoor block.
+After the palace, take a lunch break in Jongno, then browse Insadong-gil at your own pace. End around Anguk so the afternoon can finish without another large attraction. Find a meal you can comfortably order using our [restaurant menu and portion guide](/blog/how-to-order-food-in-korean-restaurants-phrases-guide-2026).
 
-Check the palace's current closed day, ticket and entry conditions before assigning this day. Move the whole cluster to another day if it conflicts with a closure or a confirmed reservation.
+<GuidePhoto id="seoul-insadong-walk" caption="Insadong works as a flexible browsing block after a palace visit. This March 2025 view shows the street setting; individual shops and their hours may have changed." />
 
-Craft Museum near Anguk provides a verified indoor anchor, subject to its closure/reservation rules.
+**Rain or Tuesday:** move the palace cluster to a different day. Around Anguk, the Seoul Museum of Craft Art is a possible indoor replacement **when open**, rather than a second mandatory museum. Its [autumn 2026 notice](https://craftmuseum.seoul.go.kr/introduce/news_view/NTT_0000000444) extends Exhibition Building 1 to 21:00 on Tuesday, Wednesday, Friday, Saturday and Sunday through 30 November; Monday is closed and Thursday closes at 18:00. Other buildings and the Children’s Museum are not included in that evening opening. Do not treat a general museum visit as a children’s reservation.
 
-**Check the operator:** [Seoul Tourism Organization: About Seoul districts](https://english.visitseoul.net/AboutSeoul) · [Seoul Tourism Organization: Seoul Museum of Craft Art](https://english.visitseoul.net/attractions/Seoul%20Museum%20of%20Craft_/38147).
+## Day 2 · Seoul Forest and Seongsu
 
-## Day two: Seongsu and Seoul Forest
+**Start:** choose a usable entrance to 서울숲 in your map, then keep the park and Seongsu together as one day. Walk a manageable section, have lunch nearby and use the afternoon for one or two cafés, shops or a currently open exhibition. Finish at Seongsu Station if it fits your hotel connection. The [Seongsu half-day guide](/blog/seongsu-dong-dior-luxury-vs-market-eats-in-24-hours) helps keep merchant stops flexible.
 
-Use Seoul Forest and Seongsu as one cluster rather than adding an unrelated cross-city morning.
+<GuidePhoto id="seoul-forest-spring" caption="Seoul Forest photographed in April 2024. These are spring flowers, not a preview of a winter visit. The route still works with a shorter park block in colder months." />
 
-Choose park-first or indoor-first based on weather and daylight; winter garden/fountain operations differ from the main park.
+**Cold or wet weather:** reduce outdoor time before leaving the hotel and confirm an indoor merchant’s actual opening. The [official Seoul Forest page](https://english.visitseoul.net/nature/Seoul-Forest/ENP001838) separates the general park from seasonal facilities: winter insect-garden hours and Monday closure differ, while fountains and the butterfly garden have seasonal conditions. An open park does not mean every facility is operating.
 
-Treat cafés and pop-ups as flexible merchant choices, not guaranteed permanent attractions.
+For a fuller indoor day, swap in the Yongsan museum cluster. Keep that as a replacement rather than commuting across Seoul and back just to preserve the original sequence.
 
-## Day three: choose culture or another priority
+## Day 3 · National Museum, with room to slow down
 
-Yongsan National Museum is a verified indoor option; budget a meaningful visit rather than a rushed photo stop.
+**Start:** navigate to 국립중앙박물관, then choose a few galleries you want to understand. Allow 2–3 hours instead of treating the building as a quick photo stop. Plan a meal and a rest window; add an outdoor extension only if weather and energy allow.
 
-Keep special-exhibition admission and Children's Museum reservations distinct from free permanent galleries.
+The [museum’s current visitor page](https://www.museum.go.kr/ENG/contents/E0101010000.do) lists 09:30–17:30 on Monday, Tuesday, Thursday, Friday and Sunday; Wednesday/Saturday extend to 21:00. Last entry is 30 minutes before closing. General permanent-gallery admission is free; paid special exhibitions and the Children’s Museum’s advance reservations are separate. Check the gallery closure notice before setting your date.
 
-An alternative district should replace the museum block, not add a second full itinerary on top.
+**With children:** reserve the actual Children’s Museum session if that is the reason for visiting. Do not promise entry from the general free-admission rule. **With limited walking:** choose fewer galleries and verify lifts, entrance and assistance with the venue before departure.
 
-## Join the days with real transport and meals
+## Turn the route into your own days
 
-Use the hotel as start/end for each route and check actual station connections and exit accessibility.
+1. Put each cluster on a date that passes its closure check.
+2. Add your hotel as the start/end, the actual transport connection and a generous travel/rest buffer.
+3. Mark reserved stops separately from cafés and browsing that can move.
+4. Keep the Korean place names and reservation confirmations available offline.
 
-Check journey times in a local map for your actual departure. The day blocks here are flexible planning suggestions, rather than a timed route.
-
-Choose lunch in the same area as the main attraction. Check the actual menu, opening and dietary requirements before relying on a restaurant.
-
-## Make the route adaptable
-
-If a key site closes, swap to the same-area indoor alternative; do not send everyone across Seoul in heavy rain.
-
-Use the trip board to save your chosen stops, Korean addresses and reservation reminders. Check each day against the hotel start and finish before adding another attraction.
-
-If you have another full day after the core Seoul plan, consider Suwon as a separate excursion. It adds a real return journey and exposed walking, so it should replace a spare day rather than be squeezed into an evening.
+Use the [day-by-day trip board](/tools/itinerary) to keep your selected places and notes together. If you have a fourth full day, [Suwon](/blog/suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026) deserves its own return journey; it is not an extra evening stop after this plan.

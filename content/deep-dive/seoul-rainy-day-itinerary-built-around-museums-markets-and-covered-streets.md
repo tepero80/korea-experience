@@ -13,20 +13,21 @@ tags:
   - planning
 draft: false
 ---
+
 In Jongno, check the Craft Museum first and choose lunch nearby. In Yongsan, the National Museum can be the main block. Do not replace one outdoor itinerary with four indoor venues across the city; transfers and wet approaches still consume the day.
 
 ## Two indoor anchors, with the conditions visible
 
-| Venue | Checked normal arrangement | Separate check |
-| --- | --- | --- |
-| Craft Museum, Anguk | General admission free; 10:00–18:00; last entry 17:30; Monday / January 1 closure | Temporary late openings and Children’s Museum booking |
-| National Museum, Yongsan | Permanent galleries free; 09:30–17:30; Wednesday / Saturday to 21:00; last entry 30 minutes earlier | Special exhibitions, children’s reservations and closure notices |
+| Venue                    | Checked normal arrangement                                                                                   | Separate check                                                   |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
+| Craft Museum, Anguk      | General admission free; 10:00–18:00; last entry 17:30; Monday (public-holiday exception) / January 1 closure | Temporary late openings and Children’s Museum booking            |
+| National Museum, Yongsan | Permanent galleries free; 09:30–17:30; Wednesday / Saturday to 21:00; last entry 30 minutes earlier          | Special exhibitions, children’s reservations and closure notices |
 
-A late-opening notice for autumn 2026 must not be treated as a permanent winter schedule. Sources: [Seoul Tourism Organization: Seoul Museum of Craft Art](https://english.visitseoul.net/attractions/Seoul%20Museum%20of%20Craft_/38147) · [National Museum of Korea: Hours and Admissions](https://www.museum.go.kr/ENG/contents/E0101000000.do).
+A late-opening notice for autumn 2026 must not be treated as a permanent winter schedule. Sources: [Seoul Museum of Craft Art: visitor information](https://craftmuseum.seoul.go.kr/preview/visit) · [National Museum of Korea: Hours and Admissions](https://www.museum.go.kr/ENG/contents/E0101010000.do).
 
 ## Pick a cluster, not a cross-city rescue list
 
-Ask where you starts, their interests, child ages and walking tolerance before choosing an indoor anchor.
+Choose your starting area, interests, child ages and walking tolerance before choosing an indoor anchor.
 
 Choose Anguk/Jongno or Yongsan rather than sending you between distant museums just to fill a list.
 
@@ -34,11 +35,11 @@ Indoor destinations still need outdoor transfers; show that honestly and keep a 
 
 ## Compare before you commit
 
-| Cluster | Anchor | Important condition |
-| --- | --- | --- |
-| Anguk / Jongno | Craft Museum | Monday closure; children's reservation |
-| Yongsan | National Museum | Special exhibition fees and closure notices |
-| Jongno alternative | MMCA Seoul | Current exhibition ticket/opening checks |
+| Cluster            | Anchor          | Important condition                         |
+| ------------------ | --------------- | ------------------------------------------- |
+| Anguk / Jongno     | Craft Museum    | Monday closure; children's reservation      |
+| Yongsan            | National Museum | Special exhibition fees and closure notices |
+| Jongno alternative | MMCA Seoul      | Current exhibition ticket/opening checks    |
 
 This comparison organizes the decision. It is not a guarantee of availability or an individual price quote.
 
@@ -50,7 +51,7 @@ Its Children's Museum is not a walk-in substitute; reserve when required.
 
 MMCA Seoul can be another chosen anchor after exhibition admission and opening conditions are checked, not an assumed free add-on.
 
-**Check the operator:** [National Museum of Korea: Hours and Admissions](https://www.museum.go.kr/ENG/contents/E0101000000.do) · [Seoul Tourism Organization: Seoul Museum of Craft Art](https://english.visitseoul.net/attractions/Seoul%20Museum%20of%20Craft_/38147).
+**Check the operator:** [National Museum of Korea: Hours and Admissions](https://www.museum.go.kr/ENG/contents/E0101010000.do) · [Seoul Museum of Craft Art: visitor information](https://craftmuseum.seoul.go.kr/preview/visit).
 
 ## Yongsan: give the National Museum enough time
 

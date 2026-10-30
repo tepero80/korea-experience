@@ -5,6 +5,14 @@ import { auth, authRequest } from './auth';
 import type { Env } from './env';
 import { Problem, hash, isSameOrigin, rate, text, turnstile, uid } from './security';
 import contentIds from '../../../data/content-ids.json';
+import { safeReturnTo } from '../../../lib/return-to';
+import { communityStyles } from './styles';
+import {
+  accountPlanData,
+  normalizePlan,
+  publicPlanData,
+  type ItineraryPlan,
+} from '../../../lib/itinerary';
 const guides = new Set(contentIds);
 type Profile = { id: string; name: string; blocked: number };
 type App = { Bindings: Env };
@@ -21,6 +29,8 @@ app.use(
       defaultSrc: ["'self'"],
       scriptSrc: ["'self'", 'https://challenges.cloudflare.com'],
       styleSrc: ["'self'"],
+      fontSrc: ["'self'", 'https://koreaexperience.com'],
+      imgSrc: ["'self'", 'https://koreaexperience.com'],
       connectSrc: ["'self'", 'https://challenges.cloudflare.com'],
       frameSrc: ['https://challenges.cloudflare.com'],
       objectSrc: ["'none'"],
@@ -346,11 +356,28 @@ app.get('/api/plans', async (c) => {
     ).results,
   });
 });
+app.get('/api/plans/:id', async (c) => {
+  const p = await member(c);
+  const row = await c.env.DB.prepare(
+    'SELECT id,title,data,updated_at FROM plan WHERE id=? AND profile_id=?',
+  )
+    .bind(c.req.param('id'), p.id)
+    .first();
+  if (!row) throw new Problem(404, 'Plan not found.');
+  return c.json(row);
+});
+function checkedPlan(value: unknown) {
+  try {
+    return accountPlanData(value);
+  } catch (error) {
+    throw new Problem(400, (error as Error).message);
+  }
+}
 app.post('/api/plans', async (c) => {
   const p = await member(c),
     d = await body(c);
   const title = text(d.title, 1, 100, 'Plan title'),
-    data = text(JSON.stringify(d.data), 2, 12000, 'Plan');
+    data = JSON.stringify(checkedPlan(d.data));
   const id = uid();
   const result = await c.env.DB.prepare(
     'INSERT INTO plan(id,profile_id,title,data) SELECT ?,?,?,? WHERE (SELECT COUNT(*) FROM plan WHERE profile_id=?)<20 RETURNING id',
@@ -363,12 +390,18 @@ app.post('/api/plans', async (c) => {
 app.put('/api/plans/:id', async (c) => {
   const p = await member(c),
     d = await body(c);
+  if (
+    !(await c.env.DB.prepare('SELECT id FROM plan WHERE id=? AND profile_id=?')
+      .bind(c.req.param('id'), p.id)
+      .first())
+  )
+    throw new Problem(404, 'Plan not found.');
   const row = await c.env.DB.prepare(
     'UPDATE plan SET title=?,data=?,updated_at=CURRENT_TIMESTAMP WHERE id=? AND profile_id=? RETURNING id',
   )
     .bind(
       text(d.title, 1, 100, 'Title'),
-      text(JSON.stringify(d.data), 2, 12000, 'Plan'),
+      JSON.stringify(checkedPlan(d.data)),
       c.req.param('id'),
       p.id,
     )
@@ -386,19 +419,35 @@ app.delete('/api/plans/:id', async (c) => {
 app.post('/api/plans/:id/share', async (c) => {
   const p = await member(c),
     id = c.req.param('id');
-  if (
-    !(await c.env.DB.prepare('SELECT id FROM plan WHERE id=? AND profile_id=?')
-      .bind(id, p.id)
-      .first())
-  )
-    throw new Problem(404, 'Plan not found.');
+  const row = await c.env.DB.prepare('SELECT title,data FROM plan WHERE id=? AND profile_id=?')
+    .bind(id, p.id)
+    .first<{ title: string; data: string }>();
+  if (!row) throw new Problem(404, 'Plan not found.');
+  const d = await body(c);
+  for (const key of ['includeNotes', 'includeAddresses', 'includeDates'])
+    if (typeof d[key] !== 'boolean')
+      throw new Problem(400, 'Review and explicitly choose the public sharing fields first.');
+  const privatePlan = checkedPlan(JSON.parse(row.data));
+  if (d.expectedData !== JSON.stringify(privatePlan))
+    throw new Problem(
+      409,
+      'The private plan changed. Reopen it and review the public version again.',
+    );
+  const snapshot = publicPlanData(privatePlan, {
+    includeNotes: d.includeNotes as boolean,
+    includeAddresses: d.includeAddresses as boolean,
+    includeDates: d.includeDates as boolean,
+  });
+  if (!snapshot.items.length && !snapshot.notes)
+    throw new Problem(400, 'The selected public version has no stops or notes.');
   const bytes = crypto.getRandomValues(new Uint8Array(32)),
     token = [...bytes].map((x) => x.toString(16).padStart(2, '0')).join('');
   await c.env.DB.batch([
     c.env.DB.prepare('DELETE FROM plan_share WHERE plan_id=?').bind(id),
-    c.env.DB.prepare('INSERT INTO plan_share(token_hash,plan_id) VALUES (?,?)').bind(
+    c.env.DB.prepare('INSERT INTO plan_share(token_hash,plan_id,public_data) VALUES (?,?,?)').bind(
       await hash(token),
       id,
+      JSON.stringify({ title: row.title, plan: snapshot }),
     ),
   ]);
   // Query strings are redacted by the Worker observability configuration.
@@ -515,19 +564,47 @@ function Shell({
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <meta name="robots" content={index ? 'index,follow' : 'noindex,follow'} />
         <title>{title} | Korea Experience</title>
+        <link rel="icon" type="image/svg+xml" href="https://koreaexperience.com/icon.svg" />
         <link rel="stylesheet" href="/api/community.css" />
       </head>
       <body>
+        <a href="#main-content" className="skip-link">
+          Skip to content
+        </a>
         <header>
-          <a href="https://koreaexperience.com/">Korea Experience</a>
-          <nav>
+          <a
+            href="https://koreaexperience.com/"
+            className="wordmark"
+            aria-label="Korea Experience home"
+          >
+            <span className="brand-mark" aria-hidden="true">
+              K<span>°</span>
+            </span>
+            <span>
+              Korea<span className="brand-second">Experience</span>
+            </span>
+          </a>
+          <nav className="community-desktop-nav" aria-label="Main navigation">
+            <a href="https://koreaexperience.com/blog/category/plan-your-trip">Plan your trip</a>
+            <a href="https://koreaexperience.com/destinations">Destinations</a>
             <a href="https://koreaexperience.com/blog">Guides</a>
             <a href="https://koreaexperience.com/tools">Travel tools</a>
             <a href="/community">Community</a>
             <a href="/community/account">My account</a>
           </nav>
+          <details className="community-menu">
+            <summary>Menu</summary>
+            <nav aria-label="Mobile navigation">
+              <a href="https://koreaexperience.com/blog/category/plan-your-trip">Plan your trip</a>
+              <a href="https://koreaexperience.com/destinations">Destinations</a>
+              <a href="https://koreaexperience.com/blog">Guides</a>
+              <a href="https://koreaexperience.com/tools">Travel tools</a>
+              <a href="/community">Community</a>
+              <a href="/community/account">My account</a>
+            </nav>
+          </details>
         </header>
-        <main>
+        <main id="main-content" tabIndex={-1}>
           <p id="auth-notice" role="alert" hidden />
           <p id="member-status" role="status" hidden />
           {children}
@@ -547,9 +624,9 @@ function Shell({
     </html>
   );
 }
-function Login() {
+function Login({ returnTo = '/community/account' }: { returnTo?: string } = {}) {
   return (
-    <section className="panel" id="login-panel">
+    <section className="panel" id="login-panel" data-return-to={returnTo}>
       <h2>Sign in to contribute</h2>
       <p>Google or a single-use email link. Reading does not require an account.</p>
       <button id="google-login" type="button" disabled>
@@ -715,10 +792,10 @@ app.get('/community/shared', async (c) => {
   const token = c.req.query('token') || '';
   if (!/^[a-f0-9]{64}$/.test(token)) return c.notFound();
   const p = await c.env.DB.prepare(
-    'SELECT p.title,p.data FROM plan p JOIN plan_share s ON s.plan_id=p.id WHERE s.token_hash=?',
+    'SELECT s.public_data FROM plan p JOIN plan_share s ON s.plan_id=p.id WHERE s.token_hash=?',
   )
     .bind(await hash(token))
-    .first<{ title: string; data: string }>();
+    .first<{ public_data: string | null }>();
   if (!p)
     return c.html(
       <Shell title="Plan unavailable">
@@ -726,11 +803,60 @@ app.get('/community/shared', async (c) => {
       </Shell>,
       404,
     );
+  if (!p.public_data)
+    return c.html(
+      <Shell title="Review the sharing snapshot">
+        <h1>This legacy link needs a new sharing snapshot.</h1>
+        <p>
+          Ask the owner to open their private plan and create a reviewed public link. Their original
+          notes are still private in their account.
+        </p>
+      </Shell>,
+    );
+  const snapshot = JSON.parse(p.public_data) as { title: string; plan: ItineraryPlan };
+  const plan = normalizePlan(snapshot.plan);
   return c.html(
-    <Shell title={p.title}>
-      <p className="eyebrow">Shared by its owner · unverified travel notes</p>
-      <h1>{p.title}</h1>
-      <pre className="panel preserve">{JSON.stringify(JSON.parse(p.data), null, 2)}</pre>
+    <Shell title={snapshot.title}>
+      <p className="eyebrow">Owner's shared snapshot · unverified personal itinerary</p>
+      <h1>{snapshot.title}</h1>
+      <p>
+        Korea time (Asia/Seoul). {plan.startDate ? `Starts ${plan.startDate}.` : ''} Check current
+        opening hours, reservations and travel times.
+      </p>
+      {plan.notes ? <p className="panel preserve">{plan.notes}</p> : null}
+      <ol className="shared-plan-list">
+        {plan.items.map((stop) => (
+          <li className="panel" key={stop.id}>
+            <p>
+              Day {stop.day}
+              {stop.time ? ` · ${stop.time}` : ''}
+            </p>
+            <h2>{stop.place}</h2>
+            {stop.address ? <p>{stop.address}</p> : null}
+            <p>
+              {stop.durationMinutes === null
+                ? 'Visit time not set'
+                : `${stop.durationMinutes} min visit`}{' '}
+              ·{' '}
+              {stop.travelBufferMinutes === null
+                ? 'Travel buffer not set'
+                : `${stop.travelBufferMinutes} min travel buffer`}
+            </p>
+            {stop.note ? <p className="preserve">{stop.note}</p> : null}
+            <a
+              href={`https://map.naver.com/p/search/${encodeURIComponent(stop.address || stop.place)}`}
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              Check location and route ↗
+            </a>
+          </li>
+        ))}
+      </ol>
+      <p>
+        Private changes are not published automatically. Ask the owner for an updated link if plans
+        change.
+      </p>
       <a href="https://koreaexperience.com/tools/itinerary">Create your own trip board</a>
     </Shell>,
   );
@@ -739,7 +865,17 @@ app.get('/community/account', (c) =>
   c.html(
     <Shell title="Your travel account">
       <h1>Your travel account</h1>
-      <Login />
+      {safeReturnTo(c.req.query('returnTo'), c.env.SITE_URL) !== '/community/account' ? (
+        <p>
+          <a
+            className="return-to-guide"
+            href={safeReturnTo(c.req.query('returnTo'), c.env.SITE_URL)}
+          >
+            Return to your guide or trip board →
+          </a>
+        </p>
+      ) : null}
+      <Login returnTo={safeReturnTo(c.req.query('returnTo'), c.env.SITE_URL)} />
       <section className="panel" data-member-only hidden>
         <h2>Profile</h2>
         <form data-action="profile">
@@ -760,7 +896,8 @@ app.get('/community/account', (c) =>
         <h2>Private plans</h2>
         <p>
           Plans are private until you explicitly create a public link. Revoke it at any time. Anyone
-          with that link can read the shared notes.
+          with that link can read the fields you select in the preview. Later private edits do not
+          change the shared snapshot.
         </p>
         <div id="my-plans" />
         <form data-action="plan">
@@ -812,11 +949,7 @@ app.get('/community/moderation', async (c) => {
   );
 });
 app.get('/api/community.css', (c) =>
-  c.text(
-    `*{box-sizing:border-box}body{margin:0;background:#faf9f5;color:#20322e;font:17px/1.75 Arial,sans-serif}header,footer,main{max-width:1040px;margin:auto;padding:28px}header{border-bottom:1px solid #dce2db;display:flex;justify-content:space-between;gap:25px;flex-wrap:wrap}nav{display:flex;gap:20px;flex-wrap:wrap}h1{font:clamp(35px,5vw,60px)/1.15 Georgia,serif;max-width:850px}h2,h3{font-family:Georgia,serif;line-height:1.3}a{color:#8b4520}button,input,select,textarea{font:inherit}button{background:#20322e;color:white;border:0;border-radius:3px;padding:12px 20px;min-height:48px;cursor:pointer;margin:5px 10px 5px 0}button:disabled{opacity:.5;cursor:wait}input,textarea,select{display:block;padding:12px;width:100%;max-width:700px;border:1px solid #aab9ad;background:#fff;margin:8px 0 20px}label{display:block;font-size:14px;font-weight:bold}.panel{background:white;border:1px solid #dce2db;padding:28px;margin:25px 0}.preserve{white-space:pre-wrap;overflow-wrap:anywhere;max-width:100%;font:inherit}pre{overflow:auto}.eyebrow{font-size:12px;text-transform:uppercase;letter-spacing:.1em;color:#62716b}footer{border-top:1px solid #dce2db;font-size:13px}summary{cursor:pointer;min-height:44px}*:focus-visible{outline:3px solid #b15a25;outline-offset:4px}[role=status]{min-height:25px;color:#8b4520}@media(max-width:600px){main,header,footer{padding:20px}.panel{padding:20px}}`,
-    200,
-    { 'Content-Type': 'text/css; charset=utf-8' },
-  ),
+  c.text(communityStyles, 200, { 'Content-Type': 'text/css; charset=utf-8' }),
 );
 import { clientScript } from './ui-client';
 app.get('/api/community-client.js', (c) =>

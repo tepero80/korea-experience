@@ -1,64 +1,66 @@
 ---
-title: 'Korea Travel Problems: What to Do When Plans Stop Working'
+title: 'Problems While Traveling in Korea: Who to Contact First'
 date: '2026-10-31'
 updated: '2026-10-31'
 excerpt: >-
-  Handle immediate danger first, then identify the operator and keep a clear
-  record of the problem.
+  Find the right emergency service, tourist help, lost-property operator or
+  consulate—and keep the details they need ready.
 category: travel-essentials
-image: /images/editorial/incheon-airport.webp
+image: /images/editorial/essentials-seoul-station-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
   - planning
 draft: false
 ---
-If a payment and connectivity problem happen together, use your saved hotel address and second payment method to reach a known place. Resolve one problem at a time. For immediate danger or urgent medical assistance, use the emergency service rather than a travel forum.
 
-## Separate danger from inconvenience
+**Immediate danger comes first: call 112 for police or 119 for ambulance/fire, and give your current location.** For a delayed train, declined card or lost bag, contact the responsible operator. A community question is useful for planning and experience; it cannot dispatch emergency help.
 
-Use 112 for police or 119 for fire and ambulance when life or property is threatened. For payment, reservation or transport problems, start with the responsible operator. Provide your location and do not wait for a community reply in an emergency.
+## Choose the right first contact
 
-## Compare before you commit
+| Situation                                          | First contact                                                                                               | Information to have ready                                               |
+| -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Crime or immediate threat                          | [112 — police](tel:112)                                                                                     | Current address/building, what happened, immediate danger               |
+| Medical emergency or fire                          | [119 — ambulance/fire](tel:119)                                                                             | Location, what is happening, people affected                            |
+| Non-emergency travel information or interpretation | [1330 Korea Travel Helpline](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632) | Destination/operator, language and question                             |
+| Bag left on a plane, train or bus                  | Airline or that transport operator                                                                          | Service, direction, time, seat/carriage and description                 |
+| Lost foreign passport                              | Your own country's embassy/consulate                                                                        | Nationality, location, travel date and identity evidence kept privately |
+| Card declined, lost or disputed                    | The issuer's official app/support                                                                           | Time, amount, currency and transaction status                           |
 
-| Problem | First action | Backup |
-| --- | --- | --- |
-| Danger | 112 or 119 and location | Ask staff to assist |
-| Data | Check line and activation | Provider support or known Wi-Fi |
-| Payment | Ask staff and check issuer | Alternative method or KRW |
-| Navigation | Korean name and branch | Show the address |
-| Routine care | Verify pharmacy or clinic | Insurance assistance |
+[KTO's emergency guidance](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145) distinguishes **112** and **119**. Ask for English or interpretation and state the location first. **1339 is infectious-disease information, not ambulance dispatch**, as explained in [KTO's emergency information](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140042).
 
-This comparison organizes the decision. It is not a guarantee of availability or an individual price quote.
+## If you need to explain your location
 
-## Prepare a small fallback kit
+Read the nearest building or business name and Korean address; use your phone's location if you can. Ask staff to help communicate. Do not give only your hotel address when the incident is somewhere else.
 
-Save accommodation name and Korean address, booking references and official support contacts. Keep critical instructions available without mobile data. Store passport and payment details securely, away from public screenshots or comments.
+> I need help. I am at [building / Korean address]. The problem is [what happened]. Please arrange English interpretation if possible.
 
-**Check the operator:** [KTO Disaster Safety Services for International Visitors](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145) · [KTO emergency situations](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140042).
+For [1330](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632), use the official page's voice/chat options and current language-service hours. It provides tourist information, interpretation and complaint assistance; it does not promise emergency dispatch or a guaranteed refund.
 
-## When mobile data fails
+## Lost property: identify who operated the place
 
-Check which line provides data and whether activation and roaming settings match the provider's instructions. Keep a known Wi-Fi and support fallback. Data-only connectivity does not establish local voice or SMS eligibility.
+If the item was left **on a plane**, contact the airline. On a **bus or train**, start with that operator and retain the route, direction and approximate time. An airport-terminal office is a different service.
 
-## When a payment fails
+The [Incheon Airport lost-property page](https://airport.kr/ap_en/1549/subview.do) lists terminal offices at **T1: +82-32-741-3110 / 3114**, **T2: +82-32-741-8988 / 8989**, **07:00–21:30**. Check the office and collection instructions before traveling there. Describe the item without posting identity documents or full booking details publicly.
 
-Ask staff about another authorized terminal or method and check issuer alerts. Keep a modest cash backup. Avoid repeatedly submitting while the transaction status is unclear.
+## Lost passport: contact your own consulate
 
-## When the place is difficult to find
+Use [MOFA's directory of foreign missions](https://www.mofa.go.kr/eng/pgm/m_5789/uss/cnsrshp/inKoEmblgbdAdres.do) to find your country's official mission. Verify emergency travel-document and appointment instructions on that mission's website. A listed office number is not necessarily a 24-hour emergency line.
 
-Search the Korean name or address, verify the branch and entrance, and show staff your destination. Check the actual starting point and time for transit. A translated name may identify another location.
+Before assuming you can fly, confirm the document and route with your consulate, airline and any transit-country requirements. Do not apply procedures for a Korean passport to a foreign visitor's passport.
 
-## When you need medical help
+## Data or payment failure: avoid making it bigger
 
-For routine needs, verify pharmacy or clinic hours and carry medication records and insurance information. Emergency dispatch, travel interpretation and infectious-disease information are different services. For an ambulance, call 119. The 1339 service is for infectious-disease information, rather than general ambulance dispatch.
+For data, check the provider's activation instructions and which SIM supplies data. Use known Wi-Fi or staff help to reach support. A data-only plan does not automatically provide a Korean voice/SMS number. The [SIM/eSIM comparison](/blog/esim-vs-usim-vs-portable-wi-fi-2026) explains the distinction.
 
-## Before you go
+For a declined payment, ask staff whether it completed before trying again. Check issuer alerts through its official app or the number on your card, then use an independent authorized payment method if needed. Keep the receipt, amount, currency and time. A pending entry is not necessarily a completed charge; a refund is not automatic. Use the [foreign-card and ATM guide](/blog/foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options) to plan a backup.
 
-- Save the Korean hotel address
-- Keep booking references
-- Carry payment backup
-- Know how to give your location
-- Keep medication records
+## Make a small offline help sheet now
 
-Save the current operator notice and your own booking conditions offline. Recheck any dated information before paying or traveling.
+- Hotel name, Korean address and reception contact.
+- Transport and booking references stored privately.
+- Insurance assistance and relevant medication records.
+- Your country's official consular page.
+- An independent payment method and data-provider support details.
+
+For routine pharmacy or clinic needs, use the [pharmacy and medical-help guide](/blog/korean-pharmacies-otc-meds-tourists-2026) and your insurer's assistance. For urgent danger, return to **112 or 119**, rather than waiting for a reply below.

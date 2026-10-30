@@ -4,7 +4,8 @@ import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Korean Couple Name Combiner - Cute Nicknames | Korea Experience' },
-  description: 'Combine two names to create the perfect couple nickname! Get 5 unique variations in English and Korean. Perfect for couples, best friends, and K-drama fans. 💕',
+  description:
+    'Combine two names to create the perfect couple nickname! Get 5 unique variations in English and Korean. Perfect for couples, best friends, and K-drama fans. 💕',
   keywords: [
     'couple name combiner',
     'couple nickname generator',
@@ -17,11 +18,12 @@ export const metadata: Metadata = {
     'cute couple names',
     'combine names together',
     'couple ship name',
-    'relationship name generator'
+    'relationship name generator',
   ],
   openGraph: {
     title: 'Korean Couple Name Combiner | Create Your Perfect Nickname 💕',
-    description: 'Combine two names to create the perfect couple nickname! Get 5 unique variations in English and Korean.',
+    description:
+      'Combine two names to create the perfect couple nickname! Get 5 unique variations in English and Korean.',
     type: 'website',
     url: 'https://koreaexperience.com/tools/couple-name',
     siteName: 'Korea Experience',
@@ -31,16 +33,16 @@ export const metadata: Metadata = {
         url: '/tools/couple-name/opengraph-image',
         width: 1200,
         height: 630,
-        alt: 'Korea Experience - Korean Couple Name Combiner'
-      }
-    ]
+        alt: 'Korea Experience - Korean Couple Name Combiner',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Korean Couple Name Combiner | Create Your Perfect Nickname 💕',
-    description: 'Combine two names to create the perfect couple nickname! Get 5 unique variations.',
+    description:
+      'Combine two names to create the perfect couple nickname! Get 5 unique variations.',
     images: ['/tools/couple-name/opengraph-image'],
-    creator: '@koreaexperience',
   },
   alternates: {
     canonical: 'https://koreaexperience.com/tools/couple-name',
@@ -53,7 +55,8 @@ export const metadata: Metadata = {
 export default function Layout({ children }: { children: React.ReactNode }) {
   const toolSchema = generateWebApplicationSchema({
     name: 'Korean Couple Name Combiner',
-    description: 'Combine two names to create the perfect couple nickname! Get 5 unique variations in English and Korean. Perfect for couples, best friends, and K-drama fans. 💕',
+    description:
+      'Combine two names to create the perfect couple nickname! Get 5 unique variations in English and Korean. Perfect for couples, best friends, and K-drama fans. 💕',
     url: `${SITE_CONFIG.url}/tools/couple-name`,
     imageUrl: `${SITE_CONFIG.url}/tools/couple-name/opengraph-image`,
   });

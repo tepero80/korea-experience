@@ -77,9 +77,7 @@
       "publisherType": "primary",
       "checkedAt": "2026-10-30",
       "access": "opened-full-page",
-      "verifiedClaims": [
-        "Official portal distinguishes hotel and traditional guesthouse options."
-      ],
+      "verifiedClaims": ["Official portal distinguishes hotel and traditional guesthouse options."],
       "notes": "Directory source only. Room-level accessibility, bathrooms and heating must be confirmed with the property."
     },
     {
@@ -89,9 +87,7 @@
       "publisherType": "primary",
       "checkedAt": "2026-10-30",
       "access": "opened-full-page",
-      "verifiedClaims": [
-        "Official preparation portal links practical travel information."
-      ],
+      "verifiedClaims": ["Official preparation portal links practical travel information."],
       "notes": "Navigation source only, not evidence for nationality-specific immigration eligibility."
     },
     {
@@ -286,7 +282,8 @@
         "Children's Museum requires reservations; closure dates and collection access vary.",
         "Commercial photography requires permission; visitor access does not grant image reuse."
       ],
-      "notes": "Check closure/temporary gallery notices before route publication. Do not make all-galleries-always-open claims."
+      "notes": "Check closure/temporary gallery notices before route publication. Do not make all-galleries-always-open claims.",
+      "supersededBy": "https://www.museum.go.kr/ENG/contents/E0101010000.do"
     },
     {
       "id": "craft-museum",
@@ -301,7 +298,8 @@
         "Children's Museum requires advance booking; general admission listed free.",
         "Address 4 Yulgok-ro 3-gil, Jongno-gu; Anguk Line 3 exit 1."
       ],
-      "notes": "Temporary hours are time-sensitive and not a permanent museum feature."
+      "notes": "Temporary hours are time-sensitive and not a permanent museum feature.",
+      "supersededBy": "https://craftmuseum.seoul.go.kr/preview/visit"
     },
     {
       "id": "mmca",
@@ -542,15 +540,8 @@
       ],
       "reviewDays": 90,
       "format": "practical-guide",
-      "tools": [
-        "visit-month-checklist",
-        "airport-transfer-selector"
-      ],
-      "relatedIds": [
-        "plan-booking-checklist",
-        "stay-seoul",
-        "transport-airport"
-      ],
+      "tools": ["visit-month-checklist", "airport-transfer-selector"],
+      "relatedIds": ["plan-booking-checklist", "stay-seoul", "transport-airport"],
       "checklist": [
         "Eligibility checked for passport and date",
         "Cancelable accommodation chosen",
@@ -576,9 +567,7 @@
         "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "kto-climate"
-      ],
+      "sourceIds": ["kto-climate"],
       "sections": [
         {
           "heading": "Choose by tolerance rather than a universal best month",
@@ -631,31 +620,17 @@
       ],
       "reviewDays": 90,
       "format": "comparison",
-      "tools": [
-        "visit-month-checklist"
-      ],
-      "relatedIds": [
-        "plan-winter-packing",
-        "places-rain",
-        "plan-budget"
-      ],
+      "tools": ["visit-month-checklist"],
+      "relatedIds": ["plan-winter-packing", "places-rain", "plan-budget"],
       "comparison": {
-        "columns": [
-          "Season",
-          "Good starting use",
-          "Planning tradeoff"
-        ],
+        "columns": ["Season", "Good starting use", "Planning tradeoff"],
         "rows": [
           [
             "Mar–May",
             "Walking and neighborhood exploration",
             "Variable temperatures; exact flowers uncertain"
           ],
-          [
-            "Jun–Aug",
-            "Longer daylight and indoor/outdoor mix",
-            "Humidity and rain flexibility"
-          ],
+          ["Jun–Aug", "Longer daylight and indoor/outdoor mix", "Humidity and rain flexibility"],
           [
             "Sep–Nov",
             "Walking with removable layers",
@@ -685,11 +660,7 @@
         "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "seoul-climate",
-        "national-museum",
-        "suwon-operator"
-      ],
+      "sourceIds": ["seoul-climate", "national-museum", "suwon-operator"],
       "sections": [
         {
           "heading": "Define people, nights and inclusions first",
@@ -742,15 +713,8 @@
       ],
       "reviewDays": 90,
       "format": "calculator-companion",
-      "tools": [
-        "trip-budget-planner",
-        "transit-pass-comparison"
-      ],
-      "relatedIds": [
-        "stay-seoul",
-        "transport-passes",
-        "plan-first-trip"
-      ],
+      "tools": ["trip-budget-planner", "transit-pass-comparison"],
+      "relatedIds": ["stay-seoul", "transport-passes", "plan-first-trip"],
       "workedExample": {
         "label": "Hypothetical inputs, not market averages or a price quote",
         "currency": "KRW",
@@ -787,11 +751,7 @@
         "subtotal": 796000,
         "reserveRate": 0.1,
         "totalPerPerson": 875600,
-        "excludes": [
-          "International flights",
-          "Intercity rail",
-          "Shopping"
-        ]
+        "excludes": ["International flights", "Intercity rail", "Shopping"]
       },
       "doNotClaim": [
         "Illustrative allowances are surveyed 2026 average prices.",
@@ -810,10 +770,7 @@
         "reason": "No close published article with the same task found; keep narrower related pages distinct."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "kto-climate",
-        "hanok-kto"
-      ],
+      "sourceIds": ["kto-climate", "hanok-kto"],
       "sections": [
         {
           "heading": "Pack for transitions, not just one temperature",
@@ -866,14 +823,8 @@
       ],
       "reviewDays": 90,
       "format": "checklist",
-      "tools": [
-        "visit-month-checklist"
-      ],
-      "relatedIds": [
-        "stay-winter",
-        "places-rain",
-        "stay-hanok"
-      ],
+      "tools": ["visit-month-checklist"],
+      "relatedIds": ["stay-winter", "places-rain", "stay-hanok"],
       "checklist": [
         "Removable thermal layers",
         "Weather-resistant outer layer",
@@ -901,12 +852,7 @@
         "reason": "No close published article with the same task found; keep narrower related pages distinct."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "e-arrival",
-        "keta-2026",
-        "airport-transport",
-        "signiel-faq"
-      ],
+      "sourceIds": ["e-arrival", "keta-2026", "airport-transport", "signiel-faq"],
       "sections": [
         {
           "heading": "Eight weeks: settle the constraints",
@@ -959,52 +905,21 @@
       ],
       "reviewDays": 90,
       "format": "timeline",
-      "tools": [
-        "visit-month-checklist",
-        "itinerary-board"
-      ],
-      "relatedIds": [
-        "plan-first-trip",
-        "transport-late-arrival",
-        "stay-family"
-      ],
+      "tools": ["visit-month-checklist", "itinerary-board"],
+      "relatedIds": ["plan-first-trip", "transport-late-arrival", "stay-family"],
       "comparison": {
-        "columns": [
-          "When",
-          "Action",
-          "Evidence to retain"
-        ],
+        "columns": ["When", "Action", "Evidence to retain"],
         "rows": [
           [
             "8 weeks",
             "Eligibility, dates, trip shape",
             "Official eligibility link and checked date"
           ],
-          [
-            "6 weeks",
-            "Room and base",
-            "Occupancy and cancellation confirmation"
-          ],
-          [
-            "4 weeks",
-            "Limited-capacity bookings",
-            "Operator calendar and fallback"
-          ],
-          [
-            "2 weeks",
-            "Airport, connectivity and payment",
-            "Saved route and Korean address"
-          ],
-          [
-            "3 days",
-            "Arrival declaration if required",
-            "Official submission record"
-          ],
-          [
-            "Arrival day",
-            "Choose live onward connection",
-            "Terminal and actual departure"
-          ]
+          ["6 weeks", "Room and base", "Occupancy and cancellation confirmation"],
+          ["4 weeks", "Limited-capacity bookings", "Operator calendar and fallback"],
+          ["2 weeks", "Airport, connectivity and payment", "Saved route and Korean address"],
+          ["3 days", "Arrival declaration if required", "Official submission record"],
+          ["Arrival day", "Choose live onward connection", "Terminal and actual departure"]
         ]
       },
       "doNotClaim": [
@@ -1024,12 +939,7 @@
         "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "airport-transport",
-        "airport-rail-luggage",
-        "airport-taxi",
-        "seoul-climate"
-      ],
+      "sourceIds": ["airport-transport", "airport-rail-luggage", "airport-taxi", "seoul-climate"],
       "sections": [
         {
           "heading": "Start with the hotel door and terminal",
@@ -1082,20 +992,10 @@
       ],
       "reviewDays": 90,
       "format": "comparison",
-      "tools": [
-        "airport-transfer-selector"
-      ],
-      "relatedIds": [
-        "transport-late-arrival",
-        "stay-seoul",
-        "transport-passes"
-      ],
+      "tools": ["airport-transfer-selector"],
+      "relatedIds": ["transport-late-arrival", "stay-seoul", "transport-passes"],
       "comparison": {
-        "columns": [
-          "Option",
-          "Best fit",
-          "What can break the journey"
-        ],
+        "columns": ["Option", "Best fit", "What can break the journey"],
         "rows": [
           [
             "Rail",
@@ -1136,12 +1036,7 @@
         "reason": "No close published article with the same task found; keep narrower related pages distinct."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "airport-late-t1",
-        "airport-transport",
-        "airport-taxi",
-        "airport-facilities"
-      ],
+      "sourceIds": ["airport-late-t1", "airport-transport", "airport-taxi", "airport-facilities"],
       "sections": [
         {
           "heading": "Judge by terminal exit time, not landing time",
@@ -1194,14 +1089,8 @@
       ],
       "reviewDays": 30,
       "format": "problem-solving",
-      "tools": [
-        "airport-transfer-selector"
-      ],
-      "relatedIds": [
-        "transport-airport",
-        "stay-winter",
-        "plan-first-trip"
-      ],
+      "tools": ["airport-transfer-selector"],
+      "relatedIds": ["transport-airport", "stay-winter", "plan-first-trip"],
       "checklist": [
         "Terminal confirmed",
         "Hotel late check-in accepted",
@@ -1228,9 +1117,7 @@
         "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "seoul-climate"
-      ],
+      "sourceIds": ["seoul-climate"],
       "sections": [
         {
           "heading": "Separate a stored-value card from a time pass",
@@ -1283,40 +1170,16 @@
       ],
       "reviewDays": 30,
       "format": "comparison",
-      "tools": [
-        "transit-pass-comparison"
-      ],
-      "relatedIds": [
-        "transport-airport",
-        "places-seoul",
-        "places-suwon"
-      ],
+      "tools": ["transit-pass-comparison"],
+      "relatedIds": ["transport-airport", "places-seoul", "places-suwon"],
       "comparison": {
-        "columns": [
-          "Decision input",
-          "Why it matters"
-        ],
+        "columns": ["Decision input", "Why it matters"],
         "rows": [
-          [
-            "Eligible station pairs and bus operators",
-            "Coverage precedes price"
-          ],
-          [
-            "Service days remaining",
-            "Recharge starts immediately"
-          ],
-          [
-            "Expected eligible journeys",
-            "Walking days may not justify a pass"
-          ],
-          [
-            "New physical card needed",
-            "Add KRW 3,000 card cost"
-          ],
-          [
-            "Uncovered airport/intercity journeys",
-            "Keep them outside the savings total"
-          ]
+          ["Eligible station pairs and bus operators", "Coverage precedes price"],
+          ["Service days remaining", "Recharge starts immediately"],
+          ["Expected eligible journeys", "Walking days may not justify a pass"],
+          ["New physical card needed", "Add KRW 3,000 card cost"],
+          ["Uncovered airport/intercity journeys", "Keep them outside the savings total"]
         ]
       },
       "duplicateAuditCandidates": [
@@ -1342,9 +1205,7 @@
         "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "airport-rail-luggage"
-      ],
+      "sourceIds": ["airport-rail-luggage"],
       "sections": [
         {
           "heading": "Replace the old brand-versus-brand premise",
@@ -1397,21 +1258,13 @@
       ],
       "reviewDays": 30,
       "format": "step-by-step",
-      "tools": [
-        "itinerary-board"
-      ],
-      "relatedIds": [
-        "stay-busan",
-        "places-busan",
-        "transport-luggage"
-      ],
+      "tools": ["itinerary-board"],
+      "relatedIds": ["stay-busan", "places-busan", "transport-luggage"],
       "publicationBlockers": [
         "Full Korail/MOLIT pages must be accessed for exact current booking window, app publisher/name, card handling and pass eligibility. Current research saw search snippets but official opens failed.",
         "Verify service-specific luggage dimensions and boarding-document requirements before quoting any."
       ],
-      "relatedExistingSlugs": [
-        "ktx-seat-and-luggage-guide-for-international-travelers"
-      ],
+      "relatedExistingSlugs": ["ktx-seat-and-luggage-guide-for-international-travelers"],
       "doNotClaim": [
         "Tickets universally open one month ahead.",
         "Every rail pass works on every high-speed service.",
@@ -1430,10 +1283,7 @@
         "reason": "No close published article with the same task found; keep narrower related pages distinct."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "airport-rail-luggage",
-        "airport-facilities"
-      ],
+      "sourceIds": ["airport-rail-luggage", "airport-facilities"],
       "sections": [
         {
           "heading": "Choose storage versus delivery first",
@@ -1486,36 +1336,15 @@
       ],
       "reviewDays": 30,
       "format": "choice-guide",
-      "tools": [
-        "itinerary-board"
-      ],
-      "relatedIds": [
-        "transport-ktx",
-        "transport-airport",
-        "places-seongsu"
-      ],
+      "tools": ["itinerary-board"],
+      "relatedIds": ["transport-ktx", "transport-airport", "places-seongsu"],
       "comparison": {
-        "columns": [
-          "Option",
-          "Best question to ask"
-        ],
+        "columns": ["Option", "Best question to ask"],
         "rows": [
-          [
-            "Hotel hold",
-            "Can I collect after checkout at my actual departure time?"
-          ],
-          [
-            "Station locker",
-            "Will my dimensions fit, and when can I access it?"
-          ],
-          [
-            "Staffed counter",
-            "What is the final same-day pickup time?"
-          ],
-          [
-            "Airport delivery",
-            "When will it arrive, and at which terminal/counter?"
-          ]
+          ["Hotel hold", "Can I collect after checkout at my actual departure time?"],
+          ["Station locker", "Will my dimensions fit, and when can I access it?"],
+          ["Staffed counter", "What is the final same-day pickup time?"],
+          ["Airport delivery", "When will it arrive, and at which terminal/counter?"]
         ]
       },
       "doNotClaim": [
@@ -1535,11 +1364,7 @@
         "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "visitseoul-districts",
-        "visitseoul-accommodation",
-        "airport-transport"
-      ],
+      "sourceIds": ["visitseoul-districts", "visitseoul-accommodation", "airport-transport"],
       "sections": [
         {
           "heading": "Choose the daily route before the room",
@@ -1593,21 +1418,10 @@
       ],
       "reviewDays": 90,
       "format": "comparison",
-      "tools": [
-        "airport-transfer-selector",
-        "itinerary-board"
-      ],
-      "relatedIds": [
-        "places-seoul",
-        "transport-airport",
-        "stay-family"
-      ],
+      "tools": ["airport-transfer-selector", "itinerary-board"],
+      "relatedIds": ["places-seoul", "transport-airport", "stay-family"],
       "comparison": {
-        "columns": [
-          "Base type",
-          "Priorities it can suit",
-          "Check before booking"
-        ],
+        "columns": ["Base type", "Priorities it can suit", "Check before booking"],
         "rows": [
           [
             "Jongno / Anguk",
@@ -1648,12 +1462,7 @@
         "reason": "No close published article with the same task found; keep narrower related pages distinct."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "seomyeon-shopping",
-        "nampo-shopping",
-        "dongbaek",
-        "kto-shopping"
-      ],
+      "sourceIds": ["seomyeon-shopping", "nampo-shopping", "dongbaek", "kto-shopping"],
       "sections": [
         {
           "heading": "Busan is a base-choice problem",
@@ -1706,36 +1515,18 @@
       ],
       "reviewDays": 90,
       "format": "comparison",
-      "tools": [
-        "itinerary-board"
-      ],
-      "relatedIds": [
-        "places-busan",
-        "transport-ktx",
-        "transport-luggage"
-      ],
+      "tools": ["itinerary-board"],
+      "relatedIds": ["places-busan", "transport-ktx", "transport-luggage"],
       "comparison": {
-        "columns": [
-          "Area",
-          "A useful fit",
-          "Tradeoff to check"
-        ],
+        "columns": ["Area", "A useful fit", "Tradeoff to check"],
         "rows": [
           [
             "Seomyeon",
             "Both west/old-port and eastern activities",
             "Busy setting and exact station exit"
           ],
-          [
-            "Nampo",
-            "Old-port markets and central walking",
-            "East-coast transfer time"
-          ],
-          [
-            "Haeundae",
-            "Beach mornings/evenings",
-            "Station walk and old-port day"
-          ],
+          ["Nampo", "Old-port markets and central walking", "East-coast transfer time"],
+          ["Haeundae", "Beach mornings/evenings", "Station walk and old-port day"],
           [
             "Busan Station area",
             "Awkward rail arrival/departure",
@@ -1760,10 +1551,7 @@
         "reason": "No close published article with the same task found; keep narrower related pages distinct."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "signiel-faq",
-        "lotte-family"
-      ],
+      "sourceIds": ["signiel-faq", "lotte-family"],
       "sections": [
         {
           "heading": "Do not book from the word family",
@@ -1816,14 +1604,8 @@
       ],
       "reviewDays": 90,
       "format": "checklist",
-      "tools": [
-        "trip-budget-planner"
-      ],
-      "relatedIds": [
-        "stay-seoul",
-        "stay-busan",
-        "transport-airport"
-      ],
+      "tools": ["trip-budget-planner"],
+      "relatedIds": ["stay-seoul", "stay-busan", "transport-airport"],
       "checklist": [
         "All travelers and child ages entered",
         "Room-level occupancy accepted",
@@ -1851,10 +1633,7 @@
         "reason": "No close published article with the same task found; keep narrower related pages distinct."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "hanok-kto",
-        "visitseoul-accommodation"
-      ],
+      "sourceIds": ["hanok-kto", "visitseoul-accommodation"],
       "sections": [
         {
           "heading": "Choose the experience with the physical needs visible",
@@ -1907,14 +1686,8 @@
       ],
       "reviewDays": 90,
       "format": "booking-guide",
-      "tools": [
-        "itinerary-board"
-      ],
-      "relatedIds": [
-        "stay-winter",
-        "stay-family",
-        "stay-seoul"
-      ],
+      "tools": ["itinerary-board"],
+      "relatedIds": ["stay-winter", "stay-family", "stay-seoul"],
       "checklist": [
         "Bed or floor bedding confirmed",
         "Heating controls and assistance confirmed",
@@ -1941,12 +1714,7 @@
         "reason": "No close published article with the same task found; keep narrower related pages distinct."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "kto-climate",
-        "hanok-kto",
-        "signiel-faq",
-        "lotte-family"
-      ],
+      "sourceIds": ["kto-climate", "hanok-kto", "signiel-faq", "lotte-family"],
       "sections": [
         {
           "heading": "Judge the whole winter day",
@@ -1999,44 +1767,17 @@
       ],
       "reviewDays": 90,
       "format": "comparison",
-      "tools": [
-        "visit-month-checklist"
-      ],
-      "relatedIds": [
-        "plan-winter-packing",
-        "stay-hanok",
-        "places-rain"
-      ],
+      "tools": ["visit-month-checklist"],
+      "relatedIds": ["plan-winter-packing", "stay-hanok", "places-rain"],
       "comparison": {
-        "columns": [
-          "Criterion",
-          "Question for the property"
-        ],
+        "columns": ["Criterion", "Question for the property"],
         "rows": [
-          [
-            "Heating",
-            "Can the actual room temperature be adjusted, and how?"
-          ],
-          [
-            "Bedding",
-            "What sleeping surface and blankets does each guest receive?"
-          ],
-          [
-            "Bath access",
-            "Is it ensuite with an entirely indoor route?"
-          ],
-          [
-            "Wet clothes",
-            "Where can coats/shoes dry safely?"
-          ],
-          [
-            "Transit",
-            "Which entrance/exit gives the simplest walk?"
-          ],
-          [
-            "Arrival",
-            "What happens if my flight is delayed?"
-          ]
+          ["Heating", "Can the actual room temperature be adjusted, and how?"],
+          ["Bedding", "What sleeping surface and blankets does each guest receive?"],
+          ["Bath access", "Is it ensuite with an entirely indoor route?"],
+          ["Wet clothes", "Where can coats/shoes dry safely?"],
+          ["Transit", "Which entrance/exit gives the simplest walk?"],
+          ["Arrival", "What happens if my flight is delayed?"]
         ]
       },
       "doNotClaim": [
@@ -2056,12 +1797,7 @@
         "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "visitseoul-districts",
-        "craft-museum",
-        "national-museum",
-        "seoul-forest"
-      ],
+      "sourceIds": ["visitseoul-districts", "craft-museum", "national-museum", "seoul-forest"],
       "sections": [
         {
           "heading": "Set the pace before choosing stops",
@@ -2114,43 +1850,27 @@
       ],
       "reviewDays": 90,
       "format": "itinerary",
-      "tools": [
-        "itinerary-board",
-        "rainy-day-selector"
-      ],
-      "relatedIds": [
-        "stay-seoul",
-        "places-seongsu",
-        "places-rain"
-      ],
+      "tools": ["itinerary-board", "rainy-day-selector"],
+      "relatedIds": ["stay-seoul", "places-seongsu", "places-rain"],
       "itinerary": {
         "assumption": "Three full days; exact route durations and palace rules still require trip-date verification",
         "days": [
           {
             "day": 1,
             "cluster": "Jongno / Anguk",
-            "core": [
-              "One verified palace/heritage anchor",
-              "Meal and historic-center walk"
-            ],
+            "core": ["One verified palace/heritage anchor", "Meal and historic-center walk"],
             "alternative": "Craft Museum subject to opening day"
           },
           {
             "day": 2,
             "cluster": "Seoul Forest / Seongsu",
-            "core": [
-              "Park block",
-              "Café/shoe-street neighborhood block"
-            ],
+            "core": ["Park block", "Café/shoe-street neighborhood block"],
             "alternative": "Shortened park plus verified indoor venue"
           },
           {
             "day": 3,
             "cluster": "Yongsan or a chosen priority",
-            "core": [
-              "National Museum or one replacement district",
-              "Easy evening near hotel"
-            ],
+            "core": ["National Museum or one replacement district", "Easy evening near hotel"],
             "alternative": "Adjust to museum closure and reservation rules"
           }
         ]
@@ -2172,10 +1892,7 @@
         "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "seongsu-course",
-        "seoul-forest"
-      ],
+      "sourceIds": ["seongsu-course", "seoul-forest"],
       "sections": [
         {
           "heading": "Replace the stale luxury-versus-cheap premise",
@@ -2228,21 +1945,12 @@
       ],
       "reviewDays": 90,
       "format": "half-day-itinerary",
-      "tools": [
-        "itinerary-board",
-        "rainy-day-selector"
-      ],
-      "relatedIds": [
-        "places-seoul",
-        "transport-luggage",
-        "places-rain"
-      ],
+      "tools": ["itinerary-board", "rainy-day-selector"],
+      "relatedIds": ["places-seoul", "transport-luggage", "places-rain"],
       "duplicateAuditCandidates": [
         "24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route"
       ],
-      "relatedExistingSlugs": [
-        "seongsu-popup-guide-2026"
-      ],
+      "relatedExistingSlugs": ["seongsu-popup-guide-2026"],
       "doNotClaim": [
         "A named temporary pop-up is still operating.",
         "The entire area is sheltered or step-free.",
@@ -2260,12 +1968,7 @@
         "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "dongbaek",
-        "nampo-shopping",
-        "seomyeon-shopping",
-        "kto-shopping"
-      ],
+      "sourceIds": ["dongbaek", "nampo-shopping", "seomyeon-shopping", "kto-shopping"],
       "sections": [
         {
           "heading": "Two full days, one base and two clusters",
@@ -2318,40 +2021,26 @@
       ],
       "reviewDays": 90,
       "format": "two-day-itinerary",
-      "tools": [
-        "itinerary-board"
-      ],
-      "relatedIds": [
-        "stay-busan",
-        "transport-ktx",
-        "transport-luggage"
-      ],
+      "tools": ["itinerary-board"],
+      "relatedIds": ["stay-busan", "transport-ktx", "transport-luggage"],
       "itinerary": {
         "assumption": "Two usable sightseeing days; actual rail times and walks require verification",
         "days": [
           {
             "day": 1,
             "cluster": "Nampo / old port",
-            "core": [
-              "Market/street visit",
-              "Meal and optional shopping corridor"
-            ],
+            "core": ["Market/street visit", "Meal and optional shopping corridor"],
             "optional": "Gamcheon only after access/time checks"
           },
           {
             "day": 2,
             "cluster": "Haeundae / Dongbaek",
-            "core": [
-              "Coastal block",
-              "Park walk or shorter weather version"
-            ],
+            "core": ["Coastal block", "Park walk or shorter weather version"],
             "optional": "One verified nearby indoor stop"
           }
         ]
       },
-      "relatedExistingSlugs": [
-        "busan-travel-guide-beaches-temples-and-street-food-2026"
-      ],
+      "relatedExistingSlugs": ["busan-travel-guide-beaches-temples-and-street-food-2026"],
       "doNotClaim": [
         "Old port, Gamcheon, east-coast temple and beach fit comfortably in every day.",
         "All market fish meals have a fixed cheap price.",
@@ -2370,11 +2059,7 @@
         "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "national-museum",
-        "craft-museum",
-        "mmca"
-      ],
+      "sourceIds": ["national-museum", "craft-museum", "mmca"],
       "sections": [
         {
           "heading": "Pick a cluster, not a cross-city rescue list",
@@ -2427,37 +2112,14 @@
       ],
       "reviewDays": 30,
       "format": "weather-alternative",
-      "tools": [
-        "rainy-day-selector",
-        "itinerary-board"
-      ],
-      "relatedIds": [
-        "places-seoul",
-        "places-seongsu",
-        "plan-winter-packing"
-      ],
+      "tools": ["rainy-day-selector", "itinerary-board"],
+      "relatedIds": ["places-seoul", "places-seongsu", "plan-winter-packing"],
       "comparison": {
-        "columns": [
-          "Cluster",
-          "Anchor",
-          "Important condition"
-        ],
+        "columns": ["Cluster", "Anchor", "Important condition"],
         "rows": [
-          [
-            "Anguk / Jongno",
-            "Craft Museum",
-            "Monday closure; children's reservation"
-          ],
-          [
-            "Yongsan",
-            "National Museum",
-            "Special exhibition fees and closure notices"
-          ],
-          [
-            "Jongno alternative",
-            "MMCA Seoul",
-            "Current exhibition ticket/opening checks"
-          ]
+          ["Anguk / Jongno", "Craft Museum", "Monday closure; children's reservation"],
+          ["Yongsan", "National Museum", "Special exhibition fees and closure notices"],
+          ["Jongno alternative", "MMCA Seoul", "Current exhibition ticket/opening checks"]
         ]
       },
       "doNotClaim": [
@@ -2478,9 +2140,7 @@
         "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
       },
       "audience": "International visitors planning or taking a short Korea trip",
-      "sourceIds": [
-        "suwon-operator"
-      ],
+      "sourceIds": ["suwon-operator"],
       "sections": [
         {
           "heading": "Choose a partial route with a clear return",
@@ -2533,14 +2193,8 @@
       ],
       "reviewDays": 30,
       "format": "day-trip-itinerary",
-      "tools": [
-        "itinerary-board"
-      ],
-      "relatedIds": [
-        "places-seoul",
-        "transport-passes",
-        "places-rain"
-      ],
+      "tools": ["itinerary-board"],
+      "relatedIds": ["places-seoul", "transport-passes", "places-rain"],
       "checklist": [
         "Usable day and Seoul base set",
         "Haenggung hours rechecked",

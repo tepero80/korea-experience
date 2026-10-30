@@ -1,0 +1,5 @@
+.private/
+out/
+.next/
+node_modules/
+workers/community/src/design-system.generated.ts

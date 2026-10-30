@@ -10,6 +10,7 @@ import { betterAuth } from 'better-auth';
 import { magicLink } from 'better-auth/plugins';
 import { hash, sendLogin, turnstile, rate } from '../src/security';
 import type { Env } from '../src/env';
+import { normalizePlan } from '../../../lib/itinerary';
 test('D1 ownership, duplicate reactions, moderation, public-share revocation and account deletion', async () => {
   const platform = await getPlatformProxy({ persist: false });
   const env = {
@@ -22,7 +23,12 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
     ADMIN_EMAILS: 'admin@example.invalid',
   } as Env;
   try {
-    for (const file of ['0001_auth.sql', '0002_community.sql', '0003_contribution_origin.sql']) {
+    for (const file of [
+      '0001_auth.sql',
+      '0002_community.sql',
+      '0003_contribution_origin.sql',
+      '0004_plan_share_snapshot.sql',
+    ]) {
       const sql = readFileSync('migrations/' + file, 'utf8').replace(/^--.*$/gm, '');
       for (const statement of sql
         .split(';')
@@ -70,12 +76,37 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
     const cachedCookies = cached.headers.getSetCookie().map((s) => s.split(';')[0]);
     assert.ok(cachedCookies.some((s) => s.includes('session_data')));
     owner.cookie += '; ' + cachedCookies.join('; ');
+    let planData = normalizePlan({
+      notes: 'Private booking code fixture',
+      items: [
+        {
+          id: 'place-one',
+          day: 1,
+          time: '10:00',
+          place: 'Public museum fixture',
+          address: 'Private address fixture',
+          note: 'Private stop note fixture',
+        },
+      ],
+    });
+    planData.startDate = '2026-11-02';
+    const sharing = () => ({
+      includeNotes: false,
+      includeAddresses: false,
+      includeDates: false,
+      expectedData: JSON.stringify(planData),
+    });
     r = await request('/api/plans', 'POST', {
       title: 'Private test plan',
-      data: { notes: 'Travel notes only' },
+      data: planData,
     });
     assert.equal(r.status, 201);
     const plan = (await r.json()) as any;
+    assert.equal((await request('/api/plans/' + plan.id)).status, 200);
+    assert.equal(
+      (await request('/api/plans/' + plan.id, 'GET', undefined, other.cookie)).status,
+      404,
+    );
     assert.equal(
       (await request('/api/plans/' + plan.id, 'PUT', { title: 'Attack', data: {} }, other.cookie))
         .status,
@@ -85,15 +116,40 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
       (await request('/api/plans/' + plan.id + '/share', 'POST', {}, other.cookie)).status,
       404,
     );
-    r = await request('/api/plans/' + plan.id + '/share', 'POST', {});
+    assert.equal((await request('/api/plans/' + plan.id + '/share', 'POST', {})).status, 400);
+    r = await request('/api/plans/' + plan.id + '/share', 'POST', sharing());
+    assert.equal(r.status, 200);
     const share = (await r.json()) as any;
     const url = new URL(share.url);
     const sharedPath = url.pathname + url.search;
     const sharedResponse = await request(sharedPath);
     assert.equal(sharedResponse.status, 200);
     assert.equal(sharedResponse.headers.get('Referrer-Policy'), 'no-referrer');
+    const publicHtml = await sharedResponse.text();
+    assert.match(publicHtml, /Public museum fixture/);
+    assert.doesNotMatch(publicHtml, /Private booking|Private address|Private stop note|2026-11-02/);
+    const staleSharing = sharing();
+    planData = {
+      ...planData,
+      notes: 'Later private booking code',
+      items: planData.items.map((s) => ({ ...s, place: 'Later private place' })),
+    };
+    assert.equal(
+      (
+        await request('/api/plans/' + plan.id, 'PUT', {
+          title: 'Later private title',
+          data: planData,
+        })
+      ).status,
+      200,
+    );
+    assert.equal(await (await request(sharedPath)).text(), publicHtml);
+    assert.equal(
+      (await request('/api/plans/' + plan.id + '/share', 'POST', staleSharing)).status,
+      409,
+    );
     const replacement = (await (
-      await request('/api/plans/' + plan.id + '/share', 'POST', {})
+      await request('/api/plans/' + plan.id + '/share', 'POST', sharing())
     ).json()) as any;
     assert.equal((await request(sharedPath)).status, 404);
     const replacementUrl = new URL(replacement.url);
@@ -142,7 +198,7 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
       200,
     );
     assert.equal(((await (await request('/api/community')).json()) as any).items.length, 1);
-    r = await request('/api/plans/' + plan.id + '/share', 'POST', {});
+    r = await request('/api/plans/' + plan.id + '/share', 'POST', sharing());
     const oldShareUrl = new URL(((await r.json()) as any).url);
     const oldShare = oldShareUrl.pathname + oldShareUrl.search;
     await env.DB.prepare('UPDATE session SET createdAt=? WHERE userId=?')

@@ -1,17 +1,12 @@
 import { TRAVEL_CATEGORIES, LEGACY_CATEGORY_HUBS } from './taxonomy';
 export const SITE_CONFIG = {
   name: 'Korea Experience',
-  title: 'Korea Experience — Plan a Trip That Works for You',
+  title: 'Korea Experience | Korea Travel Guides, Maps & Trip Planner',
   description:
     'Practical Korea travel guides, useful planning tools, and thoughtful routes. Plan your arrival, find your base, and make the most of each day.',
   url: 'https://koreaexperience.com',
   author: 'Korea Experience Editorial',
   email: 'contact@koreaexperience.com',
-  social: {
-    twitter: '@koreaexperience',
-    facebook: 'koreaexperience',
-    instagram: 'koreaexperience',
-  },
   keywords: [
     'Korea travel',
     'Seoul trip planning',
@@ -345,6 +340,9 @@ export const ALL_TOOLS = [
   ...PRACTICAL_TOOLS,
   ...LEGACY_TOOLS.filter((t) => t.href !== '/tools/trip-budget'),
 ];
+export const PRIMARY_TRAVEL_TOOLS = PRACTICAL_TOOLS.filter((t) =>
+  ['/tools/transit-pass', '/tools/trip-budget', '/tools/itinerary'].includes(t.href),
+);
 export const CATEGORY_HUBS = [
   ...TRAVEL_CATEGORIES.map((c) => ({
     ...c,

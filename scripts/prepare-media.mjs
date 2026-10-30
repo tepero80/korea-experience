@@ -4,7 +4,10 @@ import sharp from 'sharp';
 
 const manifest = JSON.parse(await fs.readFile('data/editorial-research/photos.json', 'utf8'));
 await fs.mkdir('public/images/editorial', { recursive: true });
-const media = [];
+// Preserve independently reviewed additions from the experience-upgrade pipeline.
+const media = JSON.parse(await fs.readFile('data/media.json', 'utf8')).filter(
+  (m) => !manifest.photos.some((p) => p.id === m.id),
+);
 for (const photo of manifest.photos) {
   if (!photo.commercialReuse || !photo.localOriginal)
     throw new Error(`Unverified photo: ${photo.id}`);

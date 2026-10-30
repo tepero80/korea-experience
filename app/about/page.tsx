@@ -8,12 +8,8 @@ export const metadata = {
 export default function About() {
   return (
     <div className="wrap document-page">
-      <p className="eyebrow">A considered guide to Korea</p>
-      <h1 className="section-title">
-        A little preparation.
-        <br />
-        <em>More room to explore.</em>
-      </h1>
+      <p className="eyebrow">Independent travel guides & planning tools</p>
+      <h1 className="section-title">About Korea Experience</h1>
       <p>
         Korea Experience is an independent, English-first travel publication and toolkit for people
         preparing for or taking a trip to Korea.

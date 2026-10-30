@@ -11,6 +11,7 @@ export interface PostMetadata {
   slug: string;
   title: string;
   date: string;
+  publicationStatus: 'verified-release' | 'legacy-declared';
   updated?: string;
   checkedAt?: string;
   excerpt: string;
@@ -80,6 +81,7 @@ function inventory(): Post[] {
         slug,
         title,
         date,
+        publicationStatus: editorial?.changeType === 'new' ? 'verified-release' : 'legacy-declared',
         updated: iso(data.updated),
         checkedAt: editorial?.checkedAt,
         excerpt: String(data.excerpt || data.description || ''),

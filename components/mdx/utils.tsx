@@ -30,10 +30,16 @@ export function renderInlineMarkdown(text: string): React.ReactNode {
       parts.push(<em key={match.index}>{match[2]}</em>);
     } else if (match[3] !== undefined && match[4] !== undefined) {
       // [text](url)
+      const href = match[4].trim();
+      const safe = /^(https?:\/\/|mailto:|tel:|\/(?!\/)|#)/i.test(href);
       parts.push(
-        <a key={match.index} href={match[4]} className="text-blue-600 underline hover:text-blue-800">
-          {match[3]}
-        </a>
+        safe ? (
+          <a key={match.index} href={href} className="inline-content-link">
+            {match[3]}
+          </a>
+        ) : (
+          <React.Fragment key={match.index}>{match[3]}</React.Fragment>
+        ),
       );
     }
 

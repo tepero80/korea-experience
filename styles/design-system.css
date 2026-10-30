@@ -1,0 +1,120 @@
+@font-face {
+  font-family: 'KE Manrope';
+  src: url('/fonts/manrope-latin.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 200 800;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'KE Sans';
+  src: url('/fonts/source-sans-3-latin.ttf') format('truetype');
+  font-style: normal;
+  font-weight: 200 900;
+  font-display: swap;
+}
+:root {
+  --ke-paper: #fff;
+  --ke-ink: #163632;
+  --ke-muted: #546c68;
+  --ke-sand: #f2f6f4;
+  --ke-line: #dce6e2;
+  --ke-amber: #086b66;
+  --color-primary: #086b66;
+  --color-primary-dark: #07534f;
+  --accent: #ffbe5c;
+  --font-display: 'KE Manrope', Arial, sans-serif;
+  --font-body: 'KE Sans', Arial, sans-serif;
+}
+html,
+body {
+  background: #fff;
+  color: var(--ke-ink);
+}
+body,
+input,
+select,
+textarea,
+button {
+  font-family: var(--font-body);
+}
+body {
+  font-size: 18px;
+  line-height: 1.6;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: -0.035em;
+  text-wrap: balance;
+}
+a,
+button {
+  touch-action: manipulation;
+}
+*:focus-visible {
+  outline: 3px solid #087b75;
+  outline-offset: 4px;
+}
+button:disabled {
+  cursor: not-allowed;
+}
+.wordmark {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--ke-ink);
+  font: 700 18px/1.15 var(--font-display);
+  text-decoration: none;
+}
+.brand-mark {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 43px;
+  height: 43px;
+  border-radius: 13px;
+  background: var(--ke-amber);
+  color: #fff;
+  font: 700 27px/1 var(--font-display);
+}
+.brand-mark > span {
+  font: 400 17px/1 var(--font-display);
+  color: var(--accent);
+  align-self: flex-start;
+  margin-top: 5px;
+}
+.brand-second {
+  display: block;
+  font: 400 10px/1.2 var(--font-display);
+  letter-spacing: 1.9px;
+  margin-top: 5px;
+  text-transform: uppercase;
+}
+.skip-link {
+  position: fixed;
+  top: -100px;
+  left: 20px;
+  background: var(--ke-ink);
+  color: white;
+  padding: 12px 20px;
+  z-index: 1000;
+}
+.skip-link:focus {
+  top: 10px;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    transition: none !important;
+    animation: none !important;
+  }
+}

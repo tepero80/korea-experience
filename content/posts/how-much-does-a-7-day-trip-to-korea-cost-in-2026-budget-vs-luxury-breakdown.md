@@ -13,6 +13,7 @@ tags:
   - planning
 draft: false
 ---
+
 For two people, seven days and six nights, a hypothetical ₩120,000 room is ₩720,000 in total. Hypothetical food at ₩35,000 each per day adds ₩490,000. Those two lines already total ₩1,210,000 before transport, activities, shopping, flights or insurance. Replace both inputs with your own quotes.
 
 ## Define people, nights and inclusions first
@@ -31,7 +32,7 @@ Child occupancy and extra beds can require a different room; do not automaticall
 
 Compare final room price with taxes, breakfast and cancellation terms before entering it into the planner.
 
-**Check the operator:** [Seoul Metropolitan Government: Climate Card](https://world.seoul.go.kr/policy/transportation/climate-card/) · [National Museum of Korea: Hours and Admissions](https://www.museum.go.kr/ENG/contents/E0101000000.do).
+**Check the operator:** [Seoul Metropolitan Government: Climate Card](https://world.seoul.go.kr/policy/transportation/climate-card/) · [National Museum of Korea: Hours and Admissions](https://www.museum.go.kr/ENG/contents/E0101010000.do).
 
 ## Build an editable example rather than a false market average
 
@@ -69,15 +70,15 @@ Print the planner breakdown and update it when a real booking changes. Retain th
 
 These are hypothetical choices for two travelers, one room and six nights. They are not prices offered by a hotel or restaurant.
 
-| Item | Hypothetical input | Party total |
-| --- | --- | --- |
-| Accommodation | ₩120,000 × 6 nights × 1 room | ₩720,000 |
-| Food | ₩35,000 × 7 days × 2 people | ₩490,000 |
-| Local transport | ₩10,000 × 7 × 2 | ₩140,000 |
-| Activities | ₩20,000 × 7 × 2 | ₩280,000 |
-| Other trip costs | ₩100,000 × 2 people | ₩200,000 |
-| Subtotal | Before contingency | ₩1,830,000 |
-| Contingency | 15% of subtotal | ₩274,500 |
-| Total | ₩1,052,250 per traveler | ₩2,104,500 |
+| Item             | Hypothetical input           | Party total |
+| ---------------- | ---------------------------- | ----------- |
+| Accommodation    | ₩120,000 × 6 nights × 1 room | ₩720,000    |
+| Food             | ₩35,000 × 7 days × 2 people  | ₩490,000    |
+| Local transport  | ₩10,000 × 7 × 2              | ₩140,000    |
+| Activities       | ₩20,000 × 7 × 2              | ₩280,000    |
+| Other trip costs | ₩100,000 × 2 people          | ₩200,000    |
+| Subtotal         | Before contingency           | ₩1,830,000  |
+| Contingency      | 15% of subtotal              | ₩274,500    |
+| Total            | ₩1,052,250 per traveler      | ₩2,104,500  |
 
 Flights, insurance and shopping are excluded unless you add them to other costs. Put any intercity tickets, SIM and airport transfers into the correct line without counting them twice.

@@ -15,31 +15,49 @@ export function numberInRange(value: number, min: number, max: number, label: st
     throw new RangeError(`${label} must be between ${min} and ${max}.`);
   return value;
 }
-export function comparePass(input: {
+export interface PassInput {
   days: number;
   journeys: number;
   averageFare: number;
   needsCard: boolean;
   uncoveredCost: number;
-}) {
+  /** Each traveler takes this many journeys. Prices are per traveler. */
+  travelers?: number;
+  regularCardCost?: number;
+}
+export function comparePass(input: PassInput) {
+  const travelers = input.travelers ?? 1;
+  const regularCardCost = input.regularCardCost ?? 0;
+  numberInRange(travelers, 1, 30, 'Travelers');
+  numberInRange(regularCardCost, 0, 100000, 'Pay-as-you-go card purchase cost');
   numberInRange(input.days, 1, 7, 'Days');
   numberInRange(input.journeys, 0, 150, 'Journeys');
   numberInRange(input.averageFare, 1, 100000, 'Average fare');
   numberInRange(input.uncoveredCost, 0, 10000000, 'Uncovered transport');
-  if (!Number.isInteger(input.days) || !Number.isInteger(input.journeys))
-    throw new RangeError('Days and journeys must be whole numbers.');
+  if (
+    !Number.isInteger(input.days) ||
+    !Number.isInteger(input.journeys) ||
+    !Number.isInteger(travelers)
+  )
+    throw new RangeError('Days, journeys and travelers must be whole numbers.');
   const pass = SHORT_PASSES.find((p) => p.days >= input.days)!;
   const passCost = pass.won + (input.needsCard ? 3000 : 0);
-  const regularCost = input.journeys * input.averageFare;
+  const regularFareCost = input.journeys * input.averageFare;
+  const regularCost = regularFareCost + regularCardCost;
   return {
-    assumptions: { ...input },
+    assumptions: { ...input, travelers, regularCardCost },
     pass,
     passCost,
     regularCost,
+    regularFareCost,
     passTripTotal: passCost + input.uncoveredCost,
     regularTripTotal: regularCost + input.uncoveredCost,
     saving: regularCost - passCost,
-    breakEvenJourneys: Math.ceil(passCost / input.averageFare),
+    groupPassTripTotal: (passCost + input.uncoveredCost) * travelers,
+    groupRegularTripTotal: (regularCost + input.uncoveredCost) * travelers,
+    groupSaving: (regularCost - passCost) * travelers,
+    newCards: input.needsCard ? travelers : 0,
+    breakEvenJourneys: Math.max(0, Math.ceil((passCost - regularCardCost) / input.averageFare)),
   };
 }
 export interface BudgetInput {

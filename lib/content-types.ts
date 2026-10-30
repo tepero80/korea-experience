@@ -27,6 +27,8 @@ export interface EditorialGuide {
   format: GuideFormat;
   checkedAt: string;
   answer: string;
+  quickTitle?: string;
+  quickChoices?: { label: string; detail: string }[];
   forWhom: string;
   conditions: string[];
   regions: string[];
@@ -40,6 +42,8 @@ export interface EditorialGuide {
   launchOrder: number;
   changeType: 'new' | 'rewrite';
   imageCredit?: MediaCredit;
+  heroMediaId?: string;
+  experienceVersion?: 2;
   gallery?: { src: string; alt: string; credit: MediaCredit }[];
 }
 export interface Place {

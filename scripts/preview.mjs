@@ -14,6 +14,7 @@ const mime = {
   '.png': 'image/png',
   '.svg': 'image/svg+xml',
   '.ico': 'image/x-icon',
+  '.ttf': 'font/ttf',
 };
 http
   .createServer((req, res) => {

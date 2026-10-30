@@ -6,79 +6,72 @@ excerpt: >-
   Check the selling unit, minimum order and payment method, then use the
   ordering system in front of you.
 category: food-dining
-image: /images/editorial/market-food.webp
+image: /images/editorial/seoul-bbq-table-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
   - food
 draft: false
 ---
-Two travelers see a grill price marked 1인분. Before ordering one item to share, ask how many portions are required and whether rice is included. This short check prevents a disagreement that a menu photo or translation app may not resolve.
 
-## Choose a restaurant you can actually use
+A Korean menu is easier once you separate three decisions: **what the item serves, how you order, and what costs extra**. At a barbecue restaurant, one pictured plate may represent one portion of meat rather than a complete meal for the table. At a noodle counter, one menu item may be an individual bowl.
 
-Before joining a queue, check that the menu, seating and payment method suit your group. A counter seat or individual menu can be easier for one diner; a grill restaurant may have a minimum order.
+## Read these four labels before ordering
 
-Distinguish the name of the dish from the selling unit: one person, one portion, one bowl or one shared set. Photograph the menu only where permitted and confirm the total before ordering.
+| Label on the menu | Read it as             | What to confirm                                           |
+| ----------------- | ---------------------- | --------------------------------------------------------- |
+| 1인분             | One portion            | Is there a minimum first order?                           |
+| 2인 이상          | For two or more people | Is the dish available to a solo diner?                    |
+| 공기밥 별도       | Rice is separate       | How many bowls do you want to add?                        |
+| 추가 / 셀프       | Extra / self-service   | Is this a paid add-on, or something you collect yourself? |
 
-## Compare before you commit
+**Illustrative menu example — these are invented prices, not a restaurant quote:** meat at ₩16,000 per portion × two portions = ₩32,000. Add two rice bowls at ₩1,000 each and the food total is ₩34,000, before any drinks. “Two portions” describes the order quantity; it does not prove every meal includes rice or that one diner can order one portion.
 
-| Menu label | Meaning | Question to ask |
-| --- | --- | --- |
-| 1인분 | One portion | How many portions are required? |
-| 2인 이상 | Two or more people | Can one diner order here? |
-| 별도/추가 | Separate/extra | Is rice included? |
-| 셀프 | Self-service | Where are water/utensils? |
+<GuidePhoto id="seoul-shared-table" caption="Separate bowls and shared dishes can appear at the same table. Ask what is included in the menu item you choose. This 2012 table-setting photograph illustrates the arrangement, not a current restaurant offer." />
 
-This comparison organizes the decision. It is not a guarantee of availability or an individual price quote.
+## Follow the ordering system you actually see
 
-## Read the small words that change the bill
+### Staff take your order
 
-Look for 1인분 (one portion), 2인 이상 (two or more people), 공기밥 (rice), 추가 (extra), 셀프 (self-service) and 포장 (takeaway).
+Sit where staff direct you, choose the dish and quantity, then confirm any minimum order. If there is a call button, press it once when ready. Otherwise make eye contact and say **저기요** (excuse me). Water or utensils may be self-service; follow the signs rather than entering a staff area.
 
-Do not assume a photo represents the exact quantity or every visible side dish is included. Ask whether rice, noodles or drinks are separate before ordering a set.
+### A screen sits on your table
 
-**Check the operator:** [About Korean Food — Visiting a Korean Restaurant](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=903&vcontsId=229195) · [Seoul Tourism Organization tourist complaints guidance](https://english.visitseoul.net/business-partners-article/Seoul-Tourist-Complaints-en_/179).
+Check the table number and menu language. Review quantities and options before confirming. A screen may send the order to staff or request payment immediately: follow its final instructions and retain any confirmation. Ask for help if you cannot tell whether an order went through; a second attempt can create a duplicate.
 
-## Use the ordering system in front of you
+### You order at an entrance kiosk
 
-At a kiosk, select dine-in/takeaway, quantity, modifiers and final payment; check the summary before paying. If the overseas card fails, ask staff to use their staffed terminal rather than repeatedly tapping.
+Choose dine-in or takeaway, then your items, options and quantities. Read the final basket before paying. Keep the receipt or order number and watch the collection instructions. If your foreign card is declined, ask whether staff can take payment at a staffed terminal. A different payment method is a fallback, not a promise every venue accepts it.
 
-At table service, use a call button when available or politely get attention. Self-service water/side-dish signs are instructions, not an invitation to enter the kitchen.
+The [Korea Tourism Organization’s restaurant guidance](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=903&vcontsId=229195) describes self-service, ordering machines and call buttons. It does not mean every restaurant has the same layout or payment system.
 
-## Make a shared meal easier
+## Know what can be refilled
 
-Ask which dishes are for sharing, whether the first order has a minimum, and whether each diner needs an individual bowl or serving utensil.
+Banchan are small accompanying dishes. **Ask before refilling**: an included side dish and an extra meat, noodle or rice item on the menu are different things. Do not assume a shared dish is vegetarian or safe for an allergy from its appearance.
 
-Use clean serving utensils for shared dishes. Ask before requesting refills; additions sold as menu items are different from the restaurant's included side dishes.
+<GuidePhoto id="banchan-dishes" caption="Banchan come in small dishes alongside the meal. This historical example shows the format; it cannot establish ingredients, free refills or allergy safety at the restaurant you visit." />
 
-## Pay and leave with the right information
+For dietary needs, use the [ingredient and cross-contact questions](/blog/navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact) **before** placing an order. If staff cannot confirm a serious requirement, choose a different venue. For a grill meal, continue with the [barbecue portions and cooking guide](/blog/korean-barbecue-ordering-guide-cuts-portions-grills-and-shared-side-dishes).
 
-When ready, ask where to pay rather than waiting indefinitely for a bill. Check the itemized total, card currency and number of portions.
+## Show one useful phrase at a time
 
-Tipping is not the standard KTO restaurant guidance. Keep the receipt if a charge is unclear and ask staff to explain the item while you are still there.
+You can show the Korean sentence directly to staff. These are communication aids; the answer still determines what is possible.
 
-## If communication fails
+| Show this in Korean           | What you are asking                     |
+| ----------------------------- | --------------------------------------- |
+| 한 명도 식사할 수 있나요?     | Can one person eat here?                |
+| 최소 몇 인분 주문해야 하나요? | What is the minimum number of portions? |
+| 이거 2인분 주세요.            | Two portions of this, please.           |
+| 밥이 포함되어 있나요?         | Is rice included?                       |
+| 물은 셀프인가요?              | Is water self-service?                  |
+| 반찬 더 받을 수 있나요?       | May we have more side dishes?           |
+| 이거 추가하면 얼마인가요?     | How much does adding this cost?         |
+| 카드로 결제할 수 있나요?      | Can I pay by card?                      |
+| 어디에서 계산하나요?          | Where do I pay?                         |
+| 영수증 주세요.                | Please give me a receipt.               |
 
-Point at the item and show the quantity using the menu; remove optional customizations and ask one question at a time.
+## Check the bill before you leave
 
-For serious dietary restrictions, do not rely on guessing or a translation app's confidence. Use the separate dietary checklist and choose another venue if preparation cannot be confirmed.
+Look for the ordered quantities, additions and final currency on the payment screen or receipt. Ask about an unclear charge while you are still at the restaurant. KTO’s general guidance says restaurant tipping is unnecessary; do not add an automatic tip out of habit. A clearly displayed menu charge should be clarified separately.
 
-## Useful phrases to show
-
-| Korean | Meaning |
-| --- | --- |
-| 한 명도 식사할 수 있나요? | Can one person eat here? |
-| 밥이 포함되어 있나요? | Is rice included? |
-| 영수증 주세요. | Please give me the receipt. |
-
-Show one precise question at a time. A translated phrase does not confirm ingredient safety or override a venue’s rules.
-
-## Before you go
-
-- Confirm the selling unit and minimum order
-- Check dietary needs before ordering
-- Confirm the payment method
-- Read the receipt before leaving
-
-Save the current operator notice and your own booking conditions offline. Recheck any dated information before paying or traveling.
+**Your next step:** save the menu-unit table and the Korean question you need. Keep a second [payment option](/blog/foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options) available. If you share an update below, include the venue and visit date, and leave payment-card details out of the message.

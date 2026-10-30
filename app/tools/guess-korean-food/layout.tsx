@@ -4,7 +4,8 @@ import { SITE_CONFIG } from '@/lib/constants';
 
 export const metadata: Metadata = {
   title: { absolute: 'Guess Korean Food Quiz | Test K-Food Knowledge | Korea Experience' },
-  description: 'Can you identify 20 Korean dishes from photos? Test your K-food knowledge with our interactive quiz and learn fun facts about each dish.',
+  description:
+    'Can you identify 20 Korean dishes from photos? Test your K-food knowledge with our interactive quiz and learn fun facts about each dish.',
   keywords: [
     'korean food quiz',
     'guess korean food',
@@ -17,11 +18,12 @@ export const metadata: Metadata = {
     'bibimbap quiz',
     'kimchi game',
     'korean food challenge',
-    'k-food trivia'
+    'k-food trivia',
   ],
   openGraph: {
     title: 'Guess Korean Food Photo Quiz | Test Your Knowledge 🍜',
-    description: 'Can you identify these Korean dishes? Test your K-food knowledge with our fun interactive quiz!',
+    description:
+      'Can you identify these Korean dishes? Test your K-food knowledge with our fun interactive quiz!',
     type: 'website',
     url: 'https://koreaexperience.com/tools/guess-korean-food',
     siteName: 'Korea Experience',
@@ -31,16 +33,15 @@ export const metadata: Metadata = {
         url: '/tools/guess-korean-food/opengraph-image',
         width: 1200,
         height: 630,
-        alt: 'Korea Experience - Guess Korean Food Quiz'
-      }
-    ]
+        alt: 'Korea Experience - Guess Korean Food Quiz',
+      },
+    ],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Guess Korean Food Photo Quiz | Test Your Knowledge 🍜',
     description: 'Can you identify these Korean dishes? Test your K-food knowledge!',
     images: ['/tools/guess-korean-food/opengraph-image'],
-    creator: '@koreaexperience',
   },
   alternates: {
     canonical: 'https://koreaexperience.com/tools/guess-korean-food',
@@ -53,7 +54,8 @@ export const metadata: Metadata = {
 export default function Layout({ children }: { children: React.ReactNode }) {
   const toolSchema = generateWebApplicationSchema({
     name: 'Guess the Korean Food Photo Quiz',
-    description: 'Can you identify 20 Korean dishes from photos? Test your K-food knowledge with our interactive quiz and learn fun facts about each dish.',
+    description:
+      'Can you identify 20 Korean dishes from photos? Test your K-food knowledge with our interactive quiz and learn fun facts about each dish.',
     url: `${SITE_CONFIG.url}/tools/guess-korean-food`,
     imageUrl: `${SITE_CONFIG.url}/tools/guess-korean-food/opengraph-image`,
   });
@@ -61,7 +63,10 @@ export default function Layout({ children }: { children: React.ReactNode }) {
   const breadcrumbSchema = generateBreadcrumbSchema([
     { name: 'Home', item: SITE_CONFIG.url },
     { name: 'Tools', item: `${SITE_CONFIG.url}/tools` },
-    { name: 'Guess the Korean Food Photo Quiz', item: `${SITE_CONFIG.url}/tools/guess-korean-food` },
+    {
+      name: 'Guess the Korean Food Photo Quiz',
+      item: `${SITE_CONFIG.url}/tools/guess-korean-food`,
+    },
   ]);
 
   return (

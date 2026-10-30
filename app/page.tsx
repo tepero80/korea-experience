@@ -1,9 +1,14 @@
 import Link from 'next/link';
 import { getFeaturedPosts, getLaunchGuides, getAllPosts } from '@/lib/posts';
 import { TRAVEL_CATEGORIES } from '@/lib/taxonomy';
-import { PRACTICAL_TOOLS } from '@/lib/constants';
+import { PRIMARY_TRAVEL_TOOLS, SITE_CONFIG } from '@/lib/constants';
 import BlogCard from '@/components/BlogCard';
 import Icon from '@/components/site/Icon';
+import Search from '@/components/Search';
+export const metadata = {
+  title: { absolute: SITE_CONFIG.title },
+  alternates: { canonical: SITE_CONFIG.url + '/' },
+};
 export default function Home() {
   const launch = getLaunchGuides();
   const featured = getFeaturedPosts();
@@ -11,31 +16,41 @@ export default function Home() {
   const seasonal = launch.filter((p) => p.editorial?.format === 'seasonal').slice(0, 2);
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'WebSite',
+            '@id': SITE_CONFIG.url + '/#website',
+            url: SITE_CONFIG.url + '/',
+            name: SITE_CONFIG.name,
+            alternateName: ['KoreaExperience', 'koreaexperience.com'],
+            inLanguage: 'en',
+            publisher: { '@id': SITE_CONFIG.url + '/#organization' },
+          }).replace(/</g, '\\u003c'),
+        }}
+      />
       <section className="home-hero wrap">
         <div className="hero-copy">
           <div className="eyebrow">
-            <span className="tiny-line" /> A considered guide to Korea
+            <span className="tiny-line" /> Korea, one good decision at a time
           </div>
           <h1 className="display-title">
-            Your Korea trip,
+            Plan less.
             <br />
-            <em>made clearer.</em>
+            <em>Experience more.</em>
           </h1>
           <p className="hero-deck">
-            The right neighborhood. A route that makes sense. The small details that make a big
-            difference.
+            Choose your base, find your way and build days worth remembering. Practical Korea guides
+            with maps, clear choices and the details to make them happen.
           </p>
-          <div className="button-row">
-            <Link href="/blog/category/plan-your-trip" className="button button-dark">
-              Start planning <Icon name="next" />
-            </Link>
-            <Link href="/destinations" className="text-link">
-              Find your place <Icon name="arrow" />
-            </Link>
-          </div>
-          <div className="hero-note">
-            <span>GOOD TO KNOW</span>
-            <p>Practical guides, official sources, and tools you can actually use.</p>
+          <Search variant="hero" />
+          <div className="home-quick-links" aria-label="Popular starting points">
+            <span>Start with</span>
+            <Link href="/blog/category/plan-your-trip">Your first trip</Link>
+            <Link href="/blog/airport-limousine-bus-vs-arex-express-train">Airport to hotel</Link>
+            <Link href="/tools/itinerary">Your day-by-day plan</Link>
           </div>
         </div>
         <figure className="hero-figure">
@@ -55,11 +70,10 @@ export default function Home() {
               Photo & credit <Icon name="arrow" />
             </Link>
           </figcaption>
-          <div className="hero-photo-label" aria-hidden="true">
-            A little preparation.
-            <br />
-            More room to explore.
-          </div>
+          <Link className="hero-destination-link" href="/destinations/seoul">
+            <span>Begin in Seoul</span>
+            <Icon name="arrow" />
+          </Link>
         </figure>
       </section>
       <section className="journey-band" aria-label="Plan your journey">
@@ -99,11 +113,7 @@ export default function Home() {
         <div className="section-heading">
           <div>
             <p className="eyebrow">A good place to begin</p>
-            <h2 className="section-title">
-              Fewer open tabs.
-              <br />
-              <em>Better next steps.</em>
-            </h2>
+            <h2 className="section-title">Your first useful reads</h2>
           </div>
           <p className="section-intro">
             Start with the question on your mind. Each guide takes you from a clear answer to what
@@ -112,7 +122,7 @@ export default function Home() {
         </div>
         <div className="guide-grid">
           {picks.map((p, i) => (
-            <BlogCard key={p.slug} post={p} priority={i === 0} />
+            <BlogCard key={p.slug} post={p} />
           ))}
         </div>
         <div className="section-end">
@@ -139,7 +149,7 @@ export default function Home() {
             </Link>
           </div>
           <div className="tool-feature-list">
-            {PRACTICAL_TOOLS.slice(0, 4).map((t) => (
+            {PRIMARY_TRAVEL_TOOLS.map((t) => (
               <Link href={t.href} key={t.id}>
                 <span className="tool-number">{t.icon}</span>
                 <div>

@@ -2,7 +2,9 @@
 import { useEffect, useRef, useState } from 'react';
 import type { Place } from '@/lib/content-types';
 import { track } from '@/lib/analytics';
-export default function PlaceMap({ places }: { places: Place[] }) {
+import { readLocalPlan, writeLocalPlan, type ItineraryStop } from '@/lib/itinerary';
+import Link from 'next/link';
+export default function PlaceMap({ places, guideId }: { places: Place[]; guideId?: string }) {
   const [active, setActive] = useState(false);
   const [error, setError] = useState('');
   const [message, setMessage] = useState('');
@@ -61,6 +63,38 @@ export default function PlaceMap({ places }: { places: Place[] }) {
       setMessage('Place name and address copied.');
     } catch {
       setMessage('Copy is unavailable. Select the address text instead.');
+    }
+  }
+  function add(place: Place) {
+    try {
+      const plan = readLocalPlan(localStorage);
+      if (plan.items.length >= 150)
+        throw Error('Your board has 150 stops. Remove a stop before adding another.');
+      if (plan.items.some((s) => s.placeId === place.id)) {
+        setMessage(
+          'This place is already on your board. Open the board to change its day or add another visit.',
+        );
+        return;
+      }
+      const stop: ItineraryStop = {
+        id: crypto.randomUUID(),
+        day: 1,
+        time: '',
+        place: place.name,
+        address: place.address || place.nameKo,
+        note: '',
+        durationMinutes: null,
+        travelBufferMinutes: null,
+        placeId: place.id,
+        ...(guideId ? { sourceGuideId: guideId } : {}),
+      };
+      writeLocalPlan(localStorage, { ...plan, items: [...plan.items, stop] });
+      setMessage(
+        `${place.name} added to Day 1. Open your board to set the day, time and travel buffer.`,
+      );
+      track('itinerary_place_add', { place_id: place.id });
+    } catch (error) {
+      setMessage((error as Error).message + ' Your existing plan has not been replaced.');
     }
   }
   return (
@@ -123,15 +157,18 @@ export default function PlaceMap({ places }: { places: Place[] }) {
                   Kakao Map ↗
                 </a>
                 <a href={p.officialUrl} target="_blank" rel="noopener noreferrer">
-                  Coordinate source ↗
+                  Place reference ↗
                 </a>
                 {p.addressSource ? (
                   <a href={p.addressSource} target="_blank" rel="noopener noreferrer">
-                    Address source ↗
+                    Visitor information ↗
                   </a>
                 ) : null}
                 <button onClick={() => copy(`${p.nameKo}${p.address ? '\n' + p.address : ''}`)}>
                   {p.address ? 'Copy address' : 'Copy map query'}
+                </button>
+                <button onClick={() => add(p)}>
+                  Add to trip board<span className="sr-only">: {p.name}</span>
                 </button>
               </div>
             </div>
@@ -140,6 +177,9 @@ export default function PlaceMap({ places }: { places: Place[] }) {
       </div>
       <p role="status" className="photo-credit">
         {message}
+      </p>
+      <p>
+        <Link href="/tools/itinerary">Open your trip board →</Link>
       </p>
     </section>
   );

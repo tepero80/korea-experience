@@ -1,0 +1,100 @@
+# Traveler experience upgrade
+
+Accepted direction, 2026-10-31 (Asia/Seoul). Extends COMMERCIAL_REBUILD.md. This is a delivery contract and progress record, not a statement that unfinished work has shipped.
+
+## Outcome and constraints
+
+Korea Experience helps an international traveler find an answer, choose confidently, act in Korea, save/share the useful result, and ask or contribute an experience. Preserve the brand, domain, useful URLs and stable content IDs. Keep the existing free Cloudflare/Better Auth trial; no provider migration or paid upgrade. Follow AGENTS.md for credentials, image spending, factual evidence, moderation and publication authorization.
+
+The upgrade covers the full 794-guide inventory, every hub, tool, community/account and static/error route. Forty reviewed guides receive a complete editorial upgrade in five batches of eight; these are improvements, not forty newly created articles. The other 754 receive recorded quality/risk/duplication decisions. Unknown traffic, backlinks or indexing evidence means hold a deletion decision. Do not infer usefulness from word count or an arbitrary photo quota.
+
+## Baseline at a402467
+
+- 794 public guides, 40 reviewed. All 40 share 11 original hero photographs; no contextual in-body photographs in those guides. Five late galleries repeat the same Bukchon image.
+- Article body Markdown links render as anchors; a FAQ answer string leaks Markdown link syntax. String props need the same link audit as Markdown.
+- Shared action buttons have no base CSS. Quick answers sit below a large mobile hero and credit block. Home has lost its canonical and lacks WebSite structured data.
+- Transit-pass calculation lacks explicit per-person/group scope. Existing itinerary notes must survive a structured-plan upgrade. Legacy medical, military and diagnostic calculators require immediate calculation suspension and noindex review notices.
+- Public community is an owner-approved observed free-tier trial. Real Google/email authentication was verified; CPU compliance and automated-browser Turnstile comment submission remain limitations, not passed checks.
+
+Regenerate the inventory and retain timestamped evidence privately before treating these as current measurements.
+
+## Design specification
+
+Use MotionSites' precise composition and screenshot/fix process, adapted to the existing Next.js + Worker stack. References: https://github.com/Motionsites-AI/claude-skill, its MIT instructions and selected travel/discovery examples. Do not copy third-party brands, exact layouts, licensed example assets, commercial fonts or inaccessible effects. No premium purchases or promotional content in the product.
+
+Signature: real place photography paired with a compact, usable trip planner. Mood: clear, contemporary, welcoming. Use a light background, dark ink, teal primary actions and a restrained amber accent. Self-host Manrope headings and Source Sans 3 body/UI under their OFL licenses. Body 17–18px, desktop maximum 1280px, reading column about 720px, mobile gutters 20px. Use visible underlined prose links, 44px touch targets, visible keyboard focus, explicit loading/error/disabled states and short transform/opacity transitions with reduced-motion support. Use a consistent identity across static pages and Hono community/account screens.
+
+Home prioritizes search, journey stage, regions and useful tools. A guide starts with its actual answer, audience/conditions and primary actions; its photograph supports rather than delays that answer. Desktop may pair answer and photo; mobile puts the answer first. Remove misleading empty decoration and long implementation explanations from traveler-facing UI. Keep complete rights and evidence accessible without making the main task harder.
+
+## Requirements and evidence gates
+
+| ID       | Requirement                                                                                             | Evidence required                                                                              | Status  |
+| -------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------- |
+| AUD-01   | Inventory every public guide and route, media, outgoing/incoming links, content risk and relevance      | Timestamped private inventory; explicit hold/improve/merge/retire reasons                      | Pending |
+| MED-01   | Never reuse a hero original across different guides, including recrops/renames                          | Asset IDs/source URLs/hash guard; perceptual candidates visually reviewed                      | Pending |
+| MED-02   | Add relevant licensed real photographs and useful process visuals within the article                    | Per-image author/license/source/date/caption/focal point; visual relevance review              | Pending |
+| CON-01   | Upgrade all 40 titles/intents to useful decisions, actions and exceptions                               | Claim-level primary evidence, units, check date, booking/navigation/fallback, per-guide record | Pending |
+| CON-02   | Use five content formats: compare, place, itinerary, how-to, seasonal                                   | Appropriate visual structure; no generic text/stock-gallery padding                            | Pending |
+| NAV-01   | Connect the traveler's next task, nearby options and failure alternatives                               | Contextual HTML links with a stated reason; no retired/broken references                       | Pending |
+| UI-01    | Implement the shared design specification across the site                                               | Desktop/mobile screenshots and accessibility/interaction review                                | Pending |
+| UI-02    | Make links, buttons, FAQ, menus, search, tables and maps usable                                         | Actual rendered anchor audit and state/keyboard/mobile checks                                  | Pending |
+| TOOL-01  | Strengthen budget, pass comparison and itinerary board                                                  | Arithmetic/eligibility/assumption tests and traveler task completion                           | Pending |
+| TOOL-02  | Embed airport decision helper, month checklist and rain alternatives in relevant guides                 | Contextual action; no false live-data promises; saved checklist state                          | Pending |
+| TOOL-03  | Suspend medical/military/diagnostic legacy calculations; review remaining fun tools                     | Preserved URL, noindex review notice, useful official next action                              | Pending |
+| PLAN-01  | Structured itinerary with dates/order/buffers/edit/save/reopen/import/export                            | Versioned data and v1 notes compatibility tests; stage share/revoke test                       | Pending |
+| AUTH-01  | Return to the original guide with question/correction draft after login                                 | Safe same-origin returnTo, expired/error states, no open redirect or private URL leakage       | Pending |
+| SHARE-01 | Useful share cards and reproducible public calculator inputs                                            | Actual preview/card inspection; no private notes/tokens in analytics or public URLs            | Pending |
+| SEO-01   | Restore brand identity and technical discoverability                                                    | Home canonical, WebSite/Organization IDs/logo, verified sameAs only, title/OG consistency      | Pending |
+| SEO-02   | Track branded discovery at 7/28/56 days and improve from real evidence                                  | Same-locale dated observations; GSC/AI reports marked unavailable when unavailable             | Pending |
+| QA-01    | Block duplicate heroes, missing critical evidence, wrong group totals, broken primary actions and leaks | Build guards, Playwright/axe CI, link audit, private fixture security checks                   | Pending |
+| QA-02    | Visually inspect every changed/new page at 320/390/768/1440 and relevant states                         | Coverage register, actual screenshots, defects fixed and rechecked                             | Pending |
+| QA-03    | Verify diverse traveler tasks and revise failed journeys repeatedly                                     | Independent simulated persona critiques plus real browser task evidence, clearly labeled       | Pending |
+| OPS-01   | Preserve export budgets, privacy, free quotas, recovery and actual release verification                 | Clean export report, stage restore, pushed commit == Cloudflare release, public health         | Pending |
+
+Each guide record must identify URL, user question, primary answer, evidence, hero original, contextual visuals, next action, rendered-link check, viewport coverage and unresolved issues. Do not equate source validation, a passing build or a small screenshot sample with full-page usability.
+
+## Media and content rules
+
+Register immutable original identity, author, original page, license, hash, derivatives, caption and focal point. Different articles cannot use the same original as their hero. An article's own card/hero/OG may share its image. Generated illustrations are labeled and never evidence of an actual facility, route, menu or experience. Place/itinerary guides normally need several contextual real images and a map; transport/how-to guides need useful process photographs/diagrams; budgets/preparation need meaningful examples/comparisons/checklists. Add a visual only where it answers a real question. Keep originals/intermediates outside public, at most two useful responsive sizes (640/1280), one deployed OG per article, personal result cards generated in the browser.
+
+Support changing prices, service schedules, reservations, entry, health and safety near the claim with official sources. Distinguish per-person/per-group/per-night/per-room units, estimates, checked facts and editorial suggestions. Avoid false visits, expertise, guarantees and confirmed future events. Maps need verified coordinates, Korean addresses, address copy and external navigation even if interactive tiles fail.
+
+## Tools and participation
+
+Keep three principal tools: budget, pass comparison, itinerary. Show realistic starting examples, editable assumptions, included/excluded items and share/save behavior. For passes show per traveler and group totals; count cards for each traveler. Itineraries support adding guide places, date edits, ordering, travel buffers, local recovery and private member storage; existing v1 notes/JSON remain readable. Public plan sharing is explicit and revocable.
+
+Move airport, month and rain utilities into the guides where their limited logic is useful. Remove legacy entertainment tools from primary trip-planning navigation. Immediately stop medical/military/diagnostic calculations and offer review notices plus appropriate authoritative information. Later retention/merge/retirement decisions depend on actual utility and protected evidence.
+
+Article questions/corrections/experiences retain a local draft and safe return destination across login. Distinguish pending, published and edited contributions; label editorial versus real traveler content. No fabricated engagement, initial photo upload or private messages. Do not weaken Turnstile to make automation pass. Real bot-check failures remain open until resolved or honestly scoped.
+
+## Verification journeys
+
+1. First-time traveler chooses a Seoul base and a suitable airport transfer.
+2. Late arrival finds a usable fallback and a current official timetable/booking path.
+3. Family compares per-person and total pass costs without treating group rides as one person's rides.
+4. Visitor facing rain/closure selects a practical alternative in the same area.
+5. Traveler adds guide places, edits/order/dates/buffers, saves/reopens, shares and revokes a plan.
+6. Reader starts a question, logs in, returns to the same guide with the draft, and understands moderation.
+
+Use mobile and desktop, keyboard and zoom, long content and error/empty/loading states. Automated personas are simulations, not actual interviews. Independent critiques must cite task evidence and failed steps; do not manufacture satisfaction scores. Completion means the required journeys work for different traveler needs and all blocking defects are resolved, not merely that the site looks newer.
+
+## Delivery sequence
+
+1. Audit/recovery and urgent FAQ, home metadata, actions and risky-calculator fixes.
+2. Shared design with three prototypes: airport-limousine-bus-vs-arex-express-train; seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026; how-to-order-food-in-korean-restaurants-phrases-guide-2026.
+3. Upgrade the core forty in five batches of eight, with unique media and per-batch checks.
+4. Complete principal tools, structured plans and participation return/draft journeys.
+5. Record and execute evidence-based archive repairs/merges/retirements; protect unknown usage and seasonal value.
+6. Independent traveler task critique, visual/factual/security regression loops and verified production deployment.
+
+Use existing daily 10:00 and Monday 10:30 KST automations; extend their quality checks without duplicating schedules. Match 28-day cohorts; low samples remain inconclusive. Measure useful onward clicks, saves, shares, tool completion, repeat visits, real questions and revenue together. Observe branded discovery 7/28/56 days after changes; no ranking, indexing or AI-citation guarantees. Keep audit-only records out of deployment-triggering commits when practical. Warn at 14,000 exported files, block file-increasing normal releases at 16,000, preserve framework RSC files and the provider's hard limits.
+
+## Execution log
+
+- 2026-10-31, implementation checkpoint: The shared font/color/action system, home search and canonical/entity metadata, compiled-heading TOC, FAQ string links, risky-calculator notices, and eight representative guide rewrites are implemented locally. Eight hero originals are distinct; the remaining 32 reviewed guides still need their complete media/editorial upgrade. No guide is marked experienceVersion 2 before its traveler/visual acceptance.
+- The planner now has versioned v2 data, v1 array/export/account-notes migration, editable days/date/order/visit duration/travel buffer, import/export, guide-place additions and account reopening. New public shares require an explicit field preview and immutable snapshot; notes, exact addresses and date are excluded by default. Worker migration 0004 is additive. Stage deployment/real share-revoke evidence and production release remain separate gates.
+- Local evidence: 17 root regression tests and six Worker tests pass. A clean export has 885 HTML pages, 60,527 rendered anchors and zero broken-link/anchor/media blockers; 5,379 files / 351,979,107 bytes. One newly authored `/tools/budget` link failed the release guard and was corrected to the existing `/tools/trip-budget` URL. These are build/functional results, not visual acceptance.
+- Current browser capture is returning Page.captureScreenshot timeouts even after a fresh Chrome tab and viewport reset. Supported DOM interactions work; do not certify blank/failed captures. Isolated Playwright/axe CI is configured for four actual CSS widths and retained screenshot artifacts. It has not yet run at this checkpoint. Production is still a402467.
+
+- 2026-10-31: Confirmed clean a402467 source, read current operational rules, opened the upgrade work with an exclusive private maintenance lock. Existing public release remains the baseline; no upgrade claimed deployed.
+- 2026-10-31: Git c36bdc6 explicitly redistributed 601 legacy dates for a publishing pattern. Legacy frontmatter is not reliable first-public evidence. Keep those dates for archive reference, label them accordingly, omit unverified datePublished/OG publishedTime, and never use them alone to retire a guide. Fourteen launch-new URLs have separate verified release records.

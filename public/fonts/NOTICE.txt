@@ -1,0 +1,14 @@
+Korea Experience self-hosted font subsets
+
+Manrope: Copyright 2018 The Manrope Project Authors.
+Source Sans 3: Copyright 2010-2020 Adobe. Reserved Font Name: Source.
+Both distributed under the SIL Open Font License 1.1; see the accompanying
+manrope-OFL.txt and source-sans-3-OFL.txt for the full notices and licenses.
+
+Sources: https://github.com/google/fonts/tree/main/ofl/manrope
+         https://github.com/google/fonts/tree/main/ofl/sourcesans3
+
+Modifications on 2026-10-31: subset Unicode ranges 0000-00FF, 0100-024F,
+2000-206F, 20A0-20CF, 2190-21FF using fontTools; rename the modified families
+KE Traveler Display and KE Traveler Sans. Variable weights retained.
+These modified fonts remain under the SIL Open Font License 1.1.

@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "wrangler dev --port 8787",
-    "check": "tsc --noEmit && node --import tsx scripts/auth-schema.ts --check",
+    "check": "node ../../scripts/sync-design.mjs --check && tsc --noEmit && node --import tsx scripts/auth-schema.ts --check",
     "test": "node --import tsx --test tests/*.test.ts",
     "deploy": "wrangler deploy",
     "db:local": "wrangler d1 migrations apply korea-experience-community --local",

@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 import 'leaflet/dist/leaflet.css';
 import './editorial.css';
+import './experience.css';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import ConsentManager from '@/components/site/ConsentManager';
@@ -16,6 +17,7 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     siteName: SITE_CONFIG.name,
+    url: SITE_CONFIG.url + '/',
     title: SITE_CONFIG.title,
     description: SITE_CONFIG.description,
     images: [
@@ -47,9 +49,12 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   const organization = {
     '@context': 'https://schema.org',
     '@type': 'Organization',
+    '@id': `${SITE_CONFIG.url}/#organization`,
     name: SITE_CONFIG.name,
     url: SITE_CONFIG.url,
     description: SITE_CONFIG.description,
+    logo: `${SITE_CONFIG.url}/icon.svg`,
+    sameAs: [],
     contactPoint: {
       '@type': 'ContactPoint',
       contactType: 'editorial corrections',
@@ -59,6 +64,22 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   };
   return (
     <html lang="en" data-scroll-behavior="smooth">
+      <head>
+        <link
+          rel="preload"
+          href="/fonts/source-sans-3-latin.ttf"
+          as="font"
+          type="font/ttf"
+          crossOrigin="anonymous"
+        />
+        <link
+          rel="preload"
+          href="/fonts/manrope-latin.ttf"
+          as="font"
+          type="font/ttf"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body>
         <script
           type="application/ld+json"

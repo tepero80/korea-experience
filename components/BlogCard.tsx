@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import type { PostMetadata } from '@/lib/posts';
 import Icon from './site/Icon';
+import { mediaFor } from '@/lib/media';
 export default function BlogCard({
   post,
   priority = false,
@@ -9,12 +10,15 @@ export default function BlogCard({
   showDeepDiveBadge?: boolean;
   priority?: boolean;
 }) {
+  const media = mediaFor(post.editorial?.heroMediaId);
   return (
     <Link href={`/blog/${post.slug}`} className="guide-card">
       {post.image ? (
         <div className="guide-card-image">
           <img
             src={post.image}
+            srcSet={media?.srcSet}
+            sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1000px) 45vw, 400px"
             alt=""
             width="960"
             height="640"

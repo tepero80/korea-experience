@@ -4,7 +4,7 @@ import { getAllPosts, getPostBySlug, getRelatedPosts } from '@/lib/posts';
 import { placesFor } from '@/lib/editorial';
 import { guideMetadata, guideSchema, breadcrumbSchema, jsonLd } from '@/lib/seo';
 import { SITE_CONFIG, PRACTICAL_TOOLS } from '@/lib/constants';
-import MDXContent from '@/components/MDXContent';
+import { compileGuideContent } from '@/components/MDXContent';
 import SaveButton from '@/components/site/SaveButton';
 import ShareActions from '@/components/site/ShareActions';
 import NextSteps from '@/components/site/NextSteps';
@@ -14,6 +14,7 @@ import PhotoCredit from '@/components/site/PhotoCredit';
 import AdSlot from '@/components/site/AdSlot';
 import GuideCommunity from '@/components/site/GuideCommunity';
 import GuideSignals from '@/components/site/GuideSignals';
+import { mediaFor } from '@/lib/media';
 type Params = Promise<{ slug: string }>;
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -35,6 +36,8 @@ export default async function Guide({ params }: { params: Params }) {
   const post = getPostBySlug((await params).slug);
   if (!post) notFound();
   const e = post.editorial;
+  const compiled = await compileGuideContent(post.content);
+  const hero = mediaFor(e?.heroMediaId);
   const related = getRelatedPosts(post.slug, 3);
   const places = placesFor(e?.placeIds || []);
   const tools = PRACTICAL_TOOLS.filter((t) => e?.tools.includes(t.href.split('/').pop()!));
@@ -66,7 +69,7 @@ export default async function Guide({ params }: { params: Params }) {
             {e ? 'Reviewed travel guide' : 'From the archive'}
           </div>
           <h1>{post.title}</h1>
-          <p className="article-deck">{post.excerpt}</p>
+          {!e ? <p className="article-deck">{post.excerpt}</p> : null}
           <div className="article-byline">
             <Link href="/editorial-policy">Korea Experience Editorial</Link>
             <span>{post.readTime}</span>
@@ -77,83 +80,121 @@ export default async function Guide({ params }: { params: Params }) {
               </span>
             ) : (
               <span>
-                Published <time dateTime={post.date}>{dateLabel(post.date)}</time>
+                Archive date <time dateTime={post.date}>{dateLabel(post.date)}</time>
               </span>
             )}
           </div>
-          <div className="article-actions no-print">
-            <SaveButton id={post.id} slug={post.slug} title={post.title} category={post.category} />
-            <a href="#share-guide" className="action-button">
-              Share this guide
-            </a>
-            {places.length ? (
-              <a href="#places-and-map" className="action-button">
-                Places & map
+          {!e ? (
+            <aside className="archive-notice">
+              <strong>This guide is awaiting editorial review</strong>
+              <p>
+                Dates, prices, access and important conditions have not completed our current
+                checks. Confirm them with the responsible operator before acting.{' '}
+                <Link href="/editorial-policy">How we review information</Link>
+              </p>
+            </aside>
+          ) : null}
+          {!e ? (
+            <div className="article-actions no-print">
+              <SaveButton
+                id={post.id}
+                slug={post.slug}
+                title={post.title}
+                category={post.category}
+              />
+              <a href="#share-guide" className="action-button">
+                Share this guide
               </a>
-            ) : null}
-          </div>
+              {places.length ? (
+                <a href="#places-and-map" className="action-button">
+                  Places & map
+                </a>
+              ) : null}
+            </div>
+          ) : null}
         </header>
-        {post.image ? (
-          <figure className="article-cover">
-            <img
-              src={post.image}
-              alt={e?.imageCredit?.title || `${post.title} — illustrative archive cover`}
-              width="1280"
-              height="720"
-              fetchPriority="high"
-            />
-            <figcaption>
-              <PhotoCredit credit={e?.imageCredit} />
-            </figcaption>
-          </figure>
-        ) : null}
-        <div className="article-layout">
+        <div className={e ? 'article-opening' : undefined}>
+          {e ? (
+            <section className="answer-box" aria-labelledby="quick-answer">
+              <p className="eyebrow">Start here</p>
+              <h2 id="quick-answer">
+                {e.quickChoices?.length ? e.quickTitle || 'Your next decision' : e.answer}
+              </h2>
+              {e.quickChoices?.length ? (
+                <ul className="quick-choices">
+                  {e.quickChoices.map((c) => (
+                    <li key={c.label}>
+                      <strong>{c.label}</strong>
+                      <span>{c.detail}</span>
+                    </li>
+                  ))}
+                </ul>
+              ) : null}
+              <p>
+                <strong>For:</strong> {e.forWhom}
+              </p>
+              {e.conditions.length ? (
+                <ul>
+                  {e.conditions.map((c) => (
+                    <li key={c}>{c}</li>
+                  ))}
+                </ul>
+              ) : null}
+              <div className="article-actions no-print">
+                <SaveButton
+                  id={post.id}
+                  slug={post.slug}
+                  title={post.title}
+                  category={post.category}
+                />
+                {places.length ? (
+                  <a href="#places-and-map" className="action-button">
+                    Places & map
+                  </a>
+                ) : null}
+                <a href="#share-guide" className="action-button">
+                  Share
+                </a>
+              </div>
+              <a className="text-link" href="#guide-details">
+                See the steps & comparisons ↓
+              </a>
+            </section>
+          ) : null}
+          {post.image ? (
+            <figure className="article-cover">
+              <img
+                src={post.image}
+                srcSet={hero?.srcSet}
+                sizes="(max-width: 700px) calc(100vw - 40px), 620px"
+                style={{ objectPosition: hero?.focal }}
+                alt={
+                  hero?.alt || e?.imageCredit?.title || `${post.title} — illustrative archive cover`
+                }
+                width="1280"
+                height="720"
+                fetchPriority="high"
+              />
+              <figcaption>
+                <PhotoCredit credit={e?.imageCredit} />
+                {!e?.imageCredit ? (
+                  <p className="photo-credit">
+                    Archive cover: its origin and accuracy as a real view of this place have not
+                    been verified.
+                  </p>
+                ) : null}
+              </figcaption>
+            </figure>
+          ) : null}
+        </div>
+        <div className="article-layout" id="guide-details">
           <aside className="article-toc">
-            <Contents source={post.content} />
+            <Contents headings={compiled.headings} />
           </aside>
           <div className="article-reading">
-            {e ? (
-              <section className="answer-box" aria-labelledby="quick-answer">
-                <p className="eyebrow">The short answer</p>
-                <h2 id="quick-answer">{e.answer}</h2>
-                <p>
-                  <strong>Best for:</strong> {e.forWhom}
-                </p>
-                {e.conditions.length ? (
-                  <ul>
-                    {e.conditions.map((c) => (
-                      <li key={c}>{c}</li>
-                    ))}
-                  </ul>
-                ) : null}
-              </section>
-            ) : (
-              <aside className="archive-notice">
-                <strong>Archive guide</strong>
-                <p>
-                  This article has not yet completed our new editorial review. Check dates, prices,
-                  availability and important conditions with the official operator before acting.{' '}
-                  <Link href="/editorial-policy">How we review information</Link>
-                </p>
-              </aside>
-            )}
-            <article className="article-body">
-              <MDXContent source={post.content} />
-            </article>
+            <article className="article-body">{compiled.content}</article>
             <AdSlot key={post.id} />
-            {e?.gallery?.length ? (
-              <section className="editorial-gallery" aria-label="Photographs from the area">
-                {e.gallery.map((image) => (
-                  <figure key={image.src}>
-                    <img src={image.src} alt={image.alt} width="1000" height="670" loading="lazy" />
-                    <figcaption>
-                      <PhotoCredit credit={image.credit} />
-                    </figcaption>
-                  </figure>
-                ))}
-              </section>
-            ) : null}
-            <PlaceMap places={places} />
+            <PlaceMap places={places} guideId={post.id} />
             {e?.sources.length ? (
               <section className="source-box" id="sources-and-checks">
                 <p className="eyebrow">Trace the important details</p>
@@ -188,7 +229,12 @@ export default async function Guide({ params }: { params: Params }) {
               </aside>
             ) : null}
             <div className="article-dates">
-              <span>First published {dateLabel(post.date)}</span>
+              <span>
+                {post.publicationStatus === 'verified-release'
+                  ? 'First published'
+                  : 'Date recorded in the original archive'}{' '}
+                {dateLabel(post.date)}
+              </span>
               {post.updated ? <span>Substantively updated {dateLabel(post.updated)}</span> : null}
               <Link href="/editorial-policy">Research & corrections policy</Link>
             </div>
@@ -220,7 +266,7 @@ export default async function Guide({ params }: { params: Params }) {
             category={post.category}
           />
         </div>
-        <GuideCommunity id={post.id} />
+        <GuideCommunity key={post.id} id={post.id} slug={post.slug} />
         <section className="correction-callout">
           <h2>A useful question makes a better guide.</h2>
           <p>

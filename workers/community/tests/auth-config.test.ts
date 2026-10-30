@@ -44,6 +44,24 @@ test('an updated provider configuration takes effect on the next authentication 
       return new URL(body.url).searchParams.get('client_id');
     }
     assert.equal(await requestedClient(), env.GOOGLE_CLIENT_ID);
+    const returnPage = await app.request(
+      env.SITE_URL +
+        '/community/account?returnTo=' +
+        encodeURIComponent('/blog/arrival-guide?token=private#discussion'),
+      {},
+      env,
+    );
+    const returnHtml = await returnPage.text();
+    assert.match(returnHtml, /data-return-to="\/blog\/arrival-guide#discussion"/);
+    assert.ok(!returnHtml.includes('token=private'));
+    const rejectedPage = await app.request(
+      env.SITE_URL +
+        '/community/account?returnTo=' +
+        encodeURIComponent('https://elsewhere.invalid/'),
+      {},
+      env,
+    );
+    assert.match(await rejectedPage.text(), /data-return-to="\/community\/account"/);
     env.GOOGLE_CLIENT_ID = 'after-change.apps.googleusercontent.com';
     assert.equal(await requestedClient(), env.GOOGLE_CLIENT_ID);
     async function post(data: unknown, origin = env.SITE_URL) {
