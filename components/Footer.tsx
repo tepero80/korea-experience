@@ -1,133 +1,51 @@
 import Link from 'next/link';
-import { SITE_CONFIG, FOOTER_LINKS, CATEGORY_HUBS } from '@/lib/constants';
-
+import { FOOTER_LINKS } from '@/lib/constants';
+import { TRAVEL_CATEGORIES } from '@/lib/taxonomy';
+import CookieSettings from './site/CookieSettings';
 export default function Footer() {
-  const currentYear = new Date().getFullYear();
-
   return (
-    <footer className="bg-gradient-to-b from-stone-900 to-stone-950 text-gray-300 mt-auto">
-      {/* Main Footer Content */}
-      <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-12 gap-12">
-          {/* Brand Section */}
-          <div className="lg:col-span-4">
-            <div className="flex items-center gap-3 mb-6">
-              <div className="relative">
-                <div className="absolute inset-0 bg-amber-600 rounded-xl blur opacity-50" />
-                <div className="relative bg-gradient-to-br from-amber-600 to-orange-700 p-2 rounded-xl">
-                  <svg width="26" height="26" viewBox="0 0 26 26" fill="none" className="w-6 h-6">
-                    <circle cx="13" cy="14" r="8.5" stroke="white" strokeWidth="1.5" opacity="0.4"/>
-                    <ellipse cx="13" cy="14" rx="4" ry="8.5" stroke="white" strokeWidth="1" opacity="0.3"/>
-                    <line x1="4.5" y1="14" x2="21.5" y2="14" stroke="white" strokeWidth="1" opacity="0.3"/>
-                    <path d="M5.5 10h15" stroke="white" strokeWidth="0.8" opacity="0.2"/>
-                    <path d="M5.5 18h15" stroke="white" strokeWidth="0.8" opacity="0.2"/>
-                    <path d="M4 10.5Q7 6 13 4.5Q19 6 22 10.5" stroke="white" strokeWidth="2" strokeLinecap="round" fill="none"/>
-                    <path d="M6 9Q9.5 6.5 13 5.5Q16.5 6.5 20 9" stroke="white" strokeWidth="1" strokeLinecap="round" fill="none" opacity="0.5"/>
-                    <circle cx="4" cy="10.5" r="1" fill="white" opacity="0.8"/>
-                    <circle cx="22" cy="10.5" r="1" fill="white" opacity="0.8"/>
-                  </svg>
-                </div>
-              </div>
-              <span className="text-xl font-bold text-white">
-                {SITE_CONFIG.name}
-              </span>
-            </div>
-            <p className="text-gray-400 mb-6 leading-relaxed">
-              Your trusted comprehensive guide to Korea - from world-class medical tourism 
-              and travel to vibrant K-culture, living guides, and authentic Korean experiences.
-            </p>
-          </div>
-
-          {/* Quick Links */}
-          <div className="lg:col-span-2">
-            <h4 className="text-white font-semibold text-lg mb-6 relative inline-block">
-              Quick Links
-              <span className="absolute bottom-0 left-0 w-12 h-0.5 bg-gradient-to-r from-amber-500 to-orange-400" />
-            </h4>
-            <ul className="space-y-3">
-              {FOOTER_LINKS.resources.map((link) => (
-                <li key={link.href}>
-                  <Link 
-                    href={link.href}
-                    className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200"
-                  >
-                    → {link.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Categories */}
-          <div className="lg:col-span-3">
-            <h4 className="text-white font-semibold text-lg mb-6 relative inline-block">
-              Categories
-              <span className="absolute bottom-0 left-0 w-12 h-0.5 bg-gradient-to-r from-amber-500 to-orange-400" />
-            </h4>
-            <ul className="space-y-3">
-              {CATEGORY_HUBS.map((cat) => (
-                <li key={cat.slug}>
-                  <Link 
-                    href={`/blog/category/${cat.slug}`}
-                    className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200"
-                  >
-                    {cat.icon} {cat.name}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Legal Links */}
-          <div className="lg:col-span-3">
-            <h4 className="text-white font-semibold text-lg mb-6 relative inline-block">
-              Legal
-              <span className="absolute bottom-0 left-0 w-12 h-0.5 bg-gradient-to-r from-amber-500 to-orange-400" />
-            </h4>
-            <ul className="space-y-3">
-              {FOOTER_LINKS.legal.map((link) => (
-                <li key={link.href}>
-                  <Link 
-                    href={link.href}
-                    className="text-gray-400 hover:text-white hover:translate-x-1 inline-block transition-all duration-200"
-                  >
-                    → {link.label}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
+    <footer className="site-footer">
+      <div className="wrap footer-grid">
+        <div className="footer-about">
+          <Link href="/" className="footer-brand">
+            Korea Experience<span>Make room for the experience.</span>
+          </Link>
+          <p>Useful answers, considered routes, and practical tools for your time in Korea.</p>
+          <Link href="/editorial-policy" className="text-link">
+            How we research our guides <span aria-hidden="true">↗</span>
+          </Link>
         </div>
+        <nav aria-label="Explore Korea">
+          <h2>Find your way</h2>
+          {TRAVEL_CATEGORIES.map((c) => (
+            <Link key={c.slug} href={`/blog/category/${c.slug}`}>
+              {c.name}
+            </Link>
+          ))}
+        </nav>
+        <nav aria-label="Resources">
+          <h2>Keep planning</h2>
+          {FOOTER_LINKS.resources.map((l) => (
+            <Link key={l.href} href={l.href}>
+              {l.label}
+            </Link>
+          ))}
+        </nav>
       </div>
-
-      {/* Bottom Bar */}
-      <div className="border-t border-gray-800">
-        <div className="container mx-auto px-4 sm:px-6 lg:px-8 py-8">
-          <div className="flex flex-col md:flex-row justify-between items-center gap-4">
-            <p className="text-sm text-gray-400 text-center md:text-left">
-              © {currentYear} {SITE_CONFIG.name}. All rights reserved.
-            </p>
-            <div className="flex flex-wrap justify-center gap-6 text-xs text-gray-500">
-              <span className="flex items-center gap-2">
-                <svg className="w-4 h-4 text-green-500" fill="currentColor" viewBox="0 0 20 20">
-                  <path fillRule="evenodd" d="M2.166 4.999A11.954 11.954 0 0010 1.944 11.954 11.954 0 0017.834 5c.11.65.166 1.32.166 2.001 0 5.225-3.34 9.67-8 11.317C5.34 16.67 2 12.225 2 7c0-.682.057-1.35.166-2.001zm11.541 3.708a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clipRule="evenodd" />
-                </svg>
-                SSL Secured
-              </span>
-              <span className="flex items-center gap-2">
-                <svg className="w-4 h-4 text-blue-500" fill="currentColor" viewBox="0 0 20 20">
-                  <path d="M2.003 5.884L10 9.882l7.997-3.998A2 2 0 0016 4H4a2 2 0 00-1.997 1.884z" />
-                  <path d="M18 8.118l-8 4-8-4V14a2 2 0 002 2h12a2 2 0 002-2V8.118z" />
-                </svg>
-                GDPR Compliant
-              </span>
-              <span>Affiliate Disclosure</span>
-            </div>
-          </div>
-          <p className="mt-4 text-xs text-center text-gray-600">
-            This site contains affiliate links. We may earn a commission from purchases made through these links at no additional cost to you.
-          </p>
-        </div>
+      <div className="wrap footer-bottom">
+        <p>© {new Date().getFullYear()} Korea Experience</p>
+        <nav aria-label="Policies">
+          {FOOTER_LINKS.legal.map((l) => (
+            <Link key={l.href} href={l.href}>
+              {l.label}
+            </Link>
+          ))}
+          <CookieSettings />
+        </nav>
+        <p className="footer-disclosure">
+          Planning information can change. Confirm important details with the official operator
+          before you book. Paid links, when present, are labeled.
+        </p>
       </div>
     </footer>
   );

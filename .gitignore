@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+**/node_modules/
 /.pnp
 .pnp.*
 .yarn/*
@@ -45,3 +46,19 @@ next-env.d.ts
 
 venv/
 __pycache__/
+
+# Private operational evidence, local databases and test/build artifacts
+.private/
+*.db
+*.db-shm
+*.db-wal
+.wrangler/
+playwright-report/
+test-results/
+!.env.example
+# Local reference only: upstream web-design skill does not declare redistribution terms.
+.agents/skills/web-design-guidelines/
+# Installed upstream references stay local; project-specific workflow is versioned.
+.agents/skills/react-best-practices/
+workers/**/.dev.vars
+workers/**/.wrangler/

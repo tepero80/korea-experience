@@ -1,0 +1,21 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "korea-experience-community",
+  "main": "src/index.tsx",
+  "compatibility_date": "2026-10-30",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "vars": { "SITE_URL": "http://localhost:8787", "COMMUNITY_ENABLED": "false", "MAIL_DAILY_LIMIT": "90", "MAIL_MONTHLY_LIMIT": "2700" },
+  "d1_databases": [{ "binding": "DB", "database_name": "korea-experience-community", "database_id": "00000000-0000-0000-0000-000000000000", "migrations_dir": "migrations" }],
+  "observability": { "enabled": true, "head_sampling_rate": 0.1 },
+  "triggers": { "crons": ["0 1 * * *"] },
+  "env": {
+    "production": {
+      "name": "korea-experience-community",
+      "triggers": { "crons": ["0 1 * * *"] },
+      "vars": { "SITE_URL": "https://koreaexperience.com", "COMMUNITY_ENABLED": "false", "MAIL_DAILY_LIMIT": "90", "MAIL_MONTHLY_LIMIT": "2700" },
+      "d1_databases": [{ "binding": "DB", "database_name": "korea-experience-community", "database_id": "00000000-0000-0000-0000-000000000000", "migrations_dir": "migrations" }],
+      "routes": [ {"pattern":"koreaexperience.com/api/*","zone_name":"koreaexperience.com"}, {"pattern":"koreaexperience.com/community","zone_name":"koreaexperience.com"}, {"pattern":"koreaexperience.com/community/*","zone_name":"koreaexperience.com"} ]
+    }
+  }
+}

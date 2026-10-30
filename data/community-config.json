@@ -1,0 +1,1 @@
+{ "enabled": false, "status": "not-connected", "apiBase": "", "note": "Enable only after real OAuth, email, moderation, ownership and deployed free-tier checks pass." }

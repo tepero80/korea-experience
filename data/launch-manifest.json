@@ -1,0 +1,402 @@
+[
+  {
+    "id": "plan-first-trip",
+    "slug": "first-trip-to-korea-planning-guide",
+    "path": "content/posts/first-trip-to-korea-planning-guide.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 5,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "plan-best-time",
+    "slug": "best-time-to-visit-korea-month-by-month-weather",
+    "path": "content/posts/best-time-to-visit-korea-month-by-month-weather.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-03",
+    "updated": "2026-10-31",
+    "sourceCount": 1,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "plan-budget",
+    "slug": "how-much-does-a-7-day-trip-to-korea-cost-in-2026-budget-vs-luxury-breakdown",
+    "path": "content/posts/how-much-does-a-7-day-trip-to-korea-cost-in-2026-budget-vs-luxury-breakdown.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-02-04",
+    "updated": "2026-10-31",
+    "sourceCount": 3,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "plan-winter-packing",
+    "slug": "korea-winter-packing-checklist",
+    "path": "content/posts/korea-winter-packing-checklist.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "plan-booking-checklist",
+    "slug": "korea-trip-booking-checklist-eight-weeks",
+    "path": "content/posts/korea-trip-booking-checklist-eight-weeks.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 4,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "transport-airport",
+    "slug": "airport-limousine-bus-vs-arex-express-train",
+    "path": "content/posts/airport-limousine-bus-vs-arex-express-train.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-01",
+    "updated": "2026-10-31",
+    "sourceCount": 4,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "transport-late-arrival",
+    "slug": "incheon-airport-late-night-arrival-guide",
+    "path": "content/posts/incheon-airport-late-night-arrival-guide.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 4,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "transport-passes",
+    "slug": "seoul-transit-climate-card-vs-tmoney-2026",
+    "path": "content/deep-dive/seoul-transit-climate-card-vs-tmoney-2026.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-02-05",
+    "updated": "2026-10-31",
+    "sourceCount": 1,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "transport-ktx",
+    "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+    "path": "content/posts/ktx-vs-srt-high-speed-train-comparison-and-booking.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-22",
+    "updated": "2026-10-31",
+    "sourceCount": 1,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "transport-luggage",
+    "slug": "luggage-storage-in-seoul-and-incheon-airport",
+    "path": "content/posts/luggage-storage-in-seoul-and-incheon-airport.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "stay-seoul",
+    "slug": "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style",
+    "path": "content/deep-dive/seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-10-12",
+    "updated": "2026-10-31",
+    "sourceCount": 3,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "stay-busan",
+    "slug": "where-to-stay-in-busan-neighborhoods",
+    "path": "content/posts/where-to-stay-in-busan-neighborhoods.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 4,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "stay-family",
+    "slug": "booking-family-hotel-rooms-in-korea",
+    "path": "content/posts/booking-family-hotel-rooms-in-korea.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "stay-hanok",
+    "slug": "hanok-stay-booking-checklist",
+    "path": "content/posts/hanok-stay-booking-checklist.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "stay-winter",
+    "slug": "choosing-winter-accommodation-in-korea",
+    "path": "content/posts/choosing-winter-accommodation-in-korea.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 4,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "places-seoul",
+    "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+    "path": "content/posts/seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-28",
+    "updated": "2026-10-31",
+    "sourceCount": 4,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "places-seongsu",
+    "slug": "seongsu-dong-dior-luxury-vs-market-eats-in-24-hours",
+    "path": "content/posts/seongsu-dong-dior-luxury-vs-market-eats-in-24-hours.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-02-08",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "places-busan",
+    "slug": "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices",
+    "path": "content/deep-dive/seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-10-12",
+    "updated": "2026-10-31",
+    "sourceCount": 4,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "places-rain",
+    "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+    "path": "content/deep-dive/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-10-12",
+    "updated": "2026-10-31",
+    "sourceCount": 3,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "places-suwon",
+    "slug": "suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026",
+    "path": "content/posts/suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-31",
+    "updated": "2026-10-31",
+    "sourceCount": 1,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "food-first-restaurant",
+    "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+    "path": "content/posts/how-to-order-food-in-korean-restaurants-phrases-guide-2026.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-11",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "food-bbq",
+    "slug": "korean-barbecue-ordering-guide-cuts-portions-grills-and-shared-side-dishes",
+    "path": "content/deep-dive/korean-barbecue-ordering-guide-cuts-portions-grills-and-shared-side-dishes.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-10-12",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "food-dietary",
+    "slug": "navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact",
+    "path": "content/deep-dive/navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-10-12",
+    "updated": "2026-10-31",
+    "sourceCount": 3,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "food-market",
+    "slug": "gwangjang-market-complete-food-guide",
+    "path": "content/posts/gwangjang-market-complete-food-guide.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-09",
+    "updated": "2026-10-31",
+    "sourceCount": 3,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "food-winter",
+    "slug": "winter-food-and-tea-walk-insadong-seoul",
+    "path": "content/posts/winter-food-and-tea-walk-insadong-seoul.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 4,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "shopping-areas",
+    "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+    "path": "content/posts/seoul-shopping-districts-complete-guide-myeongdong-to-gangnam.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-29",
+    "updated": "2026-10-31",
+    "sourceCount": 6,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "shopping-olive",
+    "slug": "olive-young-must-buys-2026",
+    "path": "content/deep-dive/olive-young-must-buys-2026.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-02-05",
+    "updated": "2026-10-31",
+    "sourceCount": 3,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "shopping-tax",
+    "slug": "tax-refund-for-tourists-how-to-claim",
+    "path": "content/posts/tax-refund-for-tourists-how-to-claim.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-31",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "shopping-souvenirs",
+    "slug": "insadong-traditional-crafts-and-souvenirs",
+    "path": "content/posts/insadong-traditional-crafts-and-souvenirs.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-12",
+    "updated": "2026-10-31",
+    "sourceCount": 4,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "shopping-packing",
+    "slug": "packing-korean-shopping-liquids-and-souvenirs-for-your-flight",
+    "path": "content/posts/packing-korean-shopping-liquids-and-souvenirs-for-your-flight.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "culture-choose",
+    "slug": "choosing-korean-cultural-experiences-reservations-and-walk-in-options",
+    "path": "content/posts/choosing-korean-cultural-experiences-reservations-and-walk-in-options.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 7,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "culture-palace-night",
+    "slug": "palace-starlight-night-tours-2026",
+    "path": "content/deep-dive/palace-starlight-night-tours-2026.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-02-27",
+    "updated": "2026-10-31",
+    "sourceCount": 4,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "culture-hanbok",
+    "slug": "hanbok-rental-complete-guide-styles-and-pricing",
+    "path": "content/posts/hanbok-rental-complete-guide-styles-and-pricing.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-09",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "culture-tickets",
+    "slug": "how-to-get-k-pop-concert-tickets-ticketing-guide",
+    "path": "content/posts/how-to-get-k-pop-concert-tickets-ticketing-guide.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-11",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "culture-museums",
+    "slug": "seoul-museums-and-exhibitions-planning-guide",
+    "path": "content/posts/seoul-museums-and-exhibitions-planning-guide.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 3,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "essentials-troubleshooting",
+    "slug": "korea-travel-problem-solving-guide",
+    "path": "content/posts/korea-travel-problem-solving-guide.md",
+    "changeType": "new",
+    "firstPublished": "2026-10-31",
+    "updated": "2026-10-31",
+    "sourceCount": 5,
+    "publicationEvidence": "Initial public release is verified by the production deployment record; frontmatter is the intended release date."
+  },
+  {
+    "id": "essentials-sim",
+    "slug": "esim-vs-usim-vs-portable-wi-fi-2026",
+    "path": "content/deep-dive/esim-vs-usim-vs-portable-wi-fi-2026.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-02-10",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "essentials-payments",
+    "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+    "path": "content/deep-dive/foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-10-12",
+    "updated": "2026-10-31",
+    "sourceCount": 2,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "essentials-maps",
+    "slug": "how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026",
+    "path": "content/posts/how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-01-11",
+    "updated": "2026-10-31",
+    "sourceCount": 3,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  },
+  {
+    "id": "essentials-medical",
+    "slug": "korean-pharmacies-otc-meds-tourists-2026",
+    "path": "content/deep-dive/korean-pharmacies-otc-meds-tourists-2026.md",
+    "changeType": "rewrite",
+    "firstPublished": "2026-02-08",
+    "updated": "2026-10-31",
+    "sourceCount": 3,
+    "publicationEvidence": "Original date retained from legacy frontmatter; verify Git/deployment first-public evidence before retirement decisions."
+  }
+]

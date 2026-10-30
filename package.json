@@ -4,36 +4,43 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "prebuild": "tsx scripts/generate-search-index.ts",
+    "prebuild": "npm run check && tsx scripts/generate-search-index.ts && tsx scripts/generate-routing.ts && tsx scripts/validate-cards.ts",
     "build": "next build",
-    "start": "next start",
-    "generate": "tsx scripts/generate-content.ts",
-    "manage": "tsx scripts/manage-posts.ts",
-    "batch": "tsx scripts/batch-generate.ts"
+    "postbuild": "tsx scripts/verify-export.ts && node scripts/export-budget.mjs",
+    "start": "node scripts/preview.mjs",
+    "check": "tsc --noEmit && tsx scripts/validate-content.ts && tsx --test tests/*.test.ts",
+    "check:community": "npm --prefix workers/community run check && npm --prefix workers/community run test",
+    "health": "tsx scripts/health-check.ts",
+    "metrics": "node --env-file=.env.local --import tsx scripts/fetch-metrics.ts",
+    "generate:cards": "tsx scripts/generate-cards.ts"
   },
   "dependencies": {
-    "@vercel/og": "^0.8.6",
-    "fuse.js": "^7.1.0",
+    "github-slugger": "^2.0.0",
     "gray-matter": "^4.0.3",
-    "image-size": "^2.0.2",
-    "next": "16.1.6",
-    "next-mdx-remote": "^5.0.0",
+    "image-size": "^2.0.4",
+    "leaflet": "^1.9.4",
+    "next": "^16.4.3",
+    "next-mdx-remote": "^6.0.0",
     "react": "19.2.3",
     "react-dom": "19.2.3",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-highlight": "^7.0.2",
     "rehype-slug": "^6.0.0",
-    "remark-gfm": "^4.0.1"
+    "remark-gfm": "^4.0.1",
+    "sharp": "^0.35.5"
   },
   "devDependencies": {
-    "@google/generative-ai": "^0.24.1",
     "@tailwindcss/postcss": "^4",
-    "@types/node": "^20",
+    "@types/leaflet": "^1.9.21",
+    "@types/node": "^26.6.6",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "dotenv": "^17.2.3",
+    "prettier": "^3.9.10",
     "tailwindcss": "^4",
     "tsx": "^4.21.0",
     "typescript": "^5"
+  },
+  "overrides": {
+    "fflate": "0.8.3"
   }
 }

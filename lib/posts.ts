@@ -1,312 +1,173 @@
-import fs from 'fs';
-import path from 'path';
+import fs from 'node:fs';
+import path from 'node:path';
 import matter from 'gray-matter';
 import { imageSize } from 'image-size';
-
-const postsDirectory = path.join(process.cwd(), 'content/posts');
-const deepDiveDirectory = path.join(process.cwd(), 'content/deep-dive');
-const publicDir = path.join(process.cwd(), 'public');
-
-// Cache image dimensions at build time to avoid repeated disk reads
-const dimensionCache = new Map<string, { width: number; height: number } | null>();
-
-export function getImageDimensions(imagePath?: string): { width: number; height: number } | null {
-  if (!imagePath) return null;
-  if (dimensionCache.has(imagePath)) return dimensionCache.get(imagePath)!;
-
-  try {
-    // imagePath is like '/images/foo.webp' — strip leading slash
-    const rel = imagePath.startsWith('/') ? imagePath.slice(1) : imagePath;
-    const abs = path.join(publicDir, rel);
-    if (!fs.existsSync(abs)) {
-      dimensionCache.set(imagePath, null);
-      return null;
-    }
-    const buf = fs.readFileSync(abs);
-    const { width, height } = imageSize(buf);
-    if (!width || !height) {
-      dimensionCache.set(imagePath, null);
-      return null;
-    }
-    const dims = { width, height };
-    dimensionCache.set(imagePath, dims);
-    return dims;
-  } catch {
-    dimensionCache.set(imagePath, null);
-    return null;
-  }
-}
-
-export interface Post {
-  slug: string;
-  title: string;
-  date: string;
-  updated?: string;
-  excerpt: string;
-  category: string;
-  content: string;
-  image?: string;
-  author?: string;
-  tags?: string[];
-  readTime?: string;
-  featured?: boolean;
-  featuredOrder?: number;
-  deepDive?: boolean;
-  deepDiveOrder?: number;
-}
+import { editorialFor, retirementFor } from './editorial';
+import { categoryById, inferCategory, TRAVEL_CATEGORIES, type CategoryId } from './taxonomy';
+import type { EditorialGuide } from './content-types';
 
 export interface PostMetadata {
+  id: string;
   slug: string;
   title: string;
   date: string;
   updated?: string;
+  checkedAt?: string;
   excerpt: string;
   category: string;
+  categoryId: CategoryId;
+  legacyCategory: string;
   image?: string;
   author?: string;
-  tags?: string[];
+  tags: string[];
   readTime?: string;
   featured?: boolean;
   featuredOrder?: number;
   deepDive?: boolean;
   deepDiveOrder?: number;
+  editorial?: EditorialGuide;
+  reviewed: boolean;
+  indexable: boolean;
 }
-
-// Helper function to read posts from a directory
-function readPostsFromDirectory(directory: string): PostMetadata[] {
-  if (!fs.existsSync(directory)) {
-    return [];
-  }
-
-  const fileNames = fs.readdirSync(directory);
-  const posts: PostMetadata[] = [];
-  
-  for (const fileName of fileNames) {
-    if (!fileName.endsWith('.md')) continue;
-    try {
-      const slug = fileName.replace(/\.md$/, '');
-      const fullPath = path.join(directory, fileName);
-      const fileContents = fs.readFileSync(fullPath, 'utf8');
-      const { data, content } = matter(fileContents);
-
-      // Empty Markdown files should never become indexable pages or sitemap URLs.
-      if (!content.trim() || data.draft === true) {
-        continue;
-      }
-
-      posts.push({
-        slug,
-        title: data.title || slug,
-        date: data.date || new Date().toISOString(),
-        updated: data.updated,
-        excerpt: data.excerpt || data.description || '',
-        category: data.category || 'Uncategorized',
-        image: data.image,
-        author: data.author,
-        tags: data.tags || [],
-        readTime: data.readTime,
-        featured: data.featured || false,
-        featuredOrder: data.featuredOrder,
-        deepDive: data.deepDive || false,
-        deepDiveOrder: data.deepDiveOrder,
-      });
-    } catch (error) {
-      console.error(`Error parsing ${fileName}:`, error);
-    }
-  }
-
-  return posts;
+export interface Post extends PostMetadata {
+  content: string;
 }
-
-function comparePostRecency(a: PostMetadata, b: PostMetadata): number {
-  const aUpdated = Date.parse(a.updated || a.date) || 0;
-  const bUpdated = Date.parse(b.updated || b.date) || 0;
-  if (aUpdated !== bUpdated) return bUpdated - aUpdated;
-
-  const aPublished = Date.parse(a.date) || 0;
-  const bPublished = Date.parse(b.date) || 0;
-  if (aPublished !== bPublished) return bPublished - aPublished;
-
-  // Equal dates are common for same-day batch publishing. Return 0 for equal
-  // dates, with a stable slug tie-break so sorting never scrambles old/new posts.
-  return a.slug.localeCompare(b.slug);
-}
-
-// Get all blog posts (from both posts and deep-dive directories)
-export function getAllPosts(): PostMetadata[] {
+const directories = ['content/posts', 'content/deep-dive'].map((d) => path.join(process.cwd(), d));
+const dimensions = new Map<string, { width: number; height: number } | null>();
+let staticInventory: Post[] | undefined;
+export function getImageDimensions(imagePath?: string): { width: number; height: number } | null {
+  if (!imagePath?.startsWith('/')) return null;
+  if (dimensions.has(imagePath)) return dimensions.get(imagePath)!;
   try {
-    const regularPosts = readPostsFromDirectory(postsDirectory);
-    const deepDivePosts = readPostsFromDirectory(deepDiveDirectory);
-    
-    const allPostsData = [...regularPosts, ...deepDivePosts];
-
-    return allPostsData.sort(comparePostRecency);
-  } catch (error) {
-    console.error('Error reading posts:', error);
-    return [];
-  }
-}
-
-// Get a single post by slug (searches both directories)
-export function getPostBySlug(slug: string): Post | null {
-  try {
-    // Try regular posts first
-    let fullPath = path.join(postsDirectory, `${slug}.md`);
-    
-    // If not found, try deep-dive
-    if (!fs.existsSync(fullPath)) {
-      fullPath = path.join(deepDiveDirectory, `${slug}.md`);
-    }
-    
-    if (!fs.existsSync(fullPath)) {
-      return null;
-    }
-
-    const fileContents = fs.readFileSync(fullPath, 'utf8');
-    const { data, content } = matter(fileContents);
-
-    // A directly requested empty post is not a published article.
-    if (!content.trim() || data.draft === true) {
-      return null;
-    }
-
-    return {
-      slug,
-      title: data.title || slug,
-      date: data.date || new Date().toISOString(),
-      updated: data.updated,
-      excerpt: data.excerpt || data.description || '',
-      category: data.category || 'Uncategorized',
-      content,
-      image: data.image,
-      author: data.author,
-      tags: data.tags || [],
-      readTime: data.readTime,
-      featured: data.featured || false,
-      featuredOrder: data.featuredOrder,
-      deepDive: data.deepDive || false,
-      deepDiveOrder: data.deepDiveOrder,
-    };
-  } catch (error) {
-    console.error(`Error reading post ${slug}:`, error);
+    const size = imageSize(fs.readFileSync(path.join(process.cwd(), 'public', imagePath.slice(1))));
+    const value = size.width && size.height ? { width: size.width, height: size.height } : null;
+    dimensions.set(imagePath, value);
+    return value;
+  } catch {
+    dimensions.set(imagePath, null);
     return null;
   }
 }
-
-// Get posts by category
+function iso(value: unknown): string | undefined {
+  if (!value) return undefined;
+  const date = value instanceof Date ? value : new Date(String(value));
+  return Number.isFinite(date.getTime()) ? date.toISOString().slice(0, 10) : undefined;
+}
+function inventory(): Post[] {
+  if (process.env.NODE_ENV !== 'development' && staticInventory) return staticInventory;
+  const posts: Post[] = [];
+  const seen = new Set<string>();
+  for (const directory of directories) {
+    if (!fs.existsSync(directory)) continue;
+    for (const file of fs
+      .readdirSync(directory)
+      .filter((f) => f.endsWith('.md'))
+      .sort()) {
+      const slug = file.slice(0, -3);
+      const { data, content } = matter(fs.readFileSync(path.join(directory, file), 'utf8'));
+      if (!content.trim() || data.draft === true || data.status === 'draft' || retirementFor(slug))
+        continue;
+      if (seen.has(slug)) throw new Error(`Duplicate published slug: ${slug}`);
+      seen.add(slug);
+      const editorial = editorialFor(slug);
+      const title = String(data.title || slug);
+      const legacyCategory = String(data.category || 'Uncategorized');
+      const categoryId = editorial?.categoryId || inferCategory(legacyCategory, title);
+      const date = iso(data.date);
+      if (!date) throw new Error(`Missing/invalid publication date: ${slug}`);
+      posts.push({
+        id: editorial?.id || String(data.id || `guide:${slug}`),
+        slug,
+        title,
+        date,
+        updated: iso(data.updated),
+        checkedAt: editorial?.checkedAt,
+        excerpt: String(data.excerpt || data.description || ''),
+        category: categoryById(categoryId)!.name,
+        categoryId,
+        legacyCategory,
+        image: typeof data.image === 'string' ? data.image : undefined,
+        author: data.author || 'Korea Experience Editorial',
+        tags: Array.isArray(data.tags) ? data.tags.map(String) : [],
+        readTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 220))} min read`,
+        featured: Boolean(data.featured),
+        featuredOrder: data.featuredOrder,
+        deepDive: Boolean(data.deepDive),
+        deepDiveOrder: data.deepDiveOrder,
+        editorial,
+        reviewed: Boolean(editorial),
+        indexable: data.noindex !== true,
+        content,
+      });
+    }
+  }
+  posts.sort(
+    (a, b) =>
+      Date.parse(b.updated || b.date) - Date.parse(a.updated || a.date) ||
+      a.slug.localeCompare(b.slug),
+  );
+  if (process.env.NODE_ENV !== 'development') staticInventory = posts;
+  return posts;
+}
+export function getAllPosts(): PostMetadata[] {
+  return inventory().map(({ content: _content, ...metadata }) => metadata);
+}
+export function getPostBySlug(slug: string): Post | null {
+  return inventory().find((p) => p.slug === slug) || null;
+}
+export function getLaunchGuides(): PostMetadata[] {
+  return getAllPosts()
+    .filter((p) => p.reviewed)
+    .sort((a, b) => a.editorial!.launchOrder - b.editorial!.launchOrder);
+}
 export function getPostsByCategory(category: string): PostMetadata[] {
-  const allPosts = getAllPosts();
-  return allPosts.filter((post) => post.category === category);
+  return getAllPosts().filter(
+    (p) => p.category === category || p.categoryId === category || p.legacyCategory === category,
+  );
 }
-
-// Get all unique categories
 export function getAllCategories(): string[] {
-  const allPosts = getAllPosts();
-  const categories = allPosts.map((post) => post.category);
-  return Array.from(new Set(categories));
+  return TRAVEL_CATEGORIES.map((c) => c.name);
 }
-
-// Get related posts based on actual topic overlap, not date adjacency.
-export function getRelatedPosts(currentSlug: string, limit: number = 6): PostMetadata[] {
-  const allPosts = getAllPosts();
-  const currentPost = allPosts.find((p) => p.slug === currentSlug);
-  if (!currentPost) return [];
-
-  const stopWords = new Set([
-    'about', 'after', 'also', 'been', 'best', 'from', 'have', 'into', 'korea',
-    'korean', 'more', 'most', 'your', 'guide', '2026', 'with', 'this', 'that',
-    'their', 'what', 'when', 'where', 'which', 'while', 'will', 'visit', 'living',
-  ]);
-  const getTopicTokens = (post: PostMetadata) =>
-    `${post.title} ${post.excerpt}`
-      .toLowerCase()
-      .split(/[^a-z0-9]+/)
-      .filter((token) => token.length >= 4 && !stopWords.has(token));
-
-  const currentTokens = new Set(getTopicTokens(currentPost));
-  return allPosts
-    .filter((post) => post.slug !== currentSlug)
+export function getRelatedPosts(currentSlug: string, limit = 3): PostMetadata[] {
+  const posts = getAllPosts();
+  const current = posts.find((p) => p.slug === currentSlug);
+  if (!current) return [];
+  const curated = (current.editorial?.relations || []).flatMap((r) => {
+    const p = posts.find((p) => p.slug === r.slug);
+    return p ? [p] : [];
+  });
+  if (curated.length >= limit) return curated.slice(0, limit);
+  const used = new Set([currentSlug, ...curated.map((p) => p.slug)]);
+  const context = current.editorial;
+  const fallback = posts
+    .filter((p) => !used.has(p.slug) && p.reviewed)
     .map((post) => {
-      const sharedTokens = new Set(getTopicTokens(post).filter((token) => currentTokens.has(token)));
+      const e = post.editorial!;
+      const region = context?.regions.some((r) => e.regions.includes(r)) ? 3 : 0;
+      const interests = context?.interests.filter((i) => e.interests.includes(i)).length || 0;
       return {
         post,
-        sharedCount: sharedTokens.size,
-        sameCategory: post.category === currentPost.category,
+        score: region + interests * 2 + (post.categoryId === current.categoryId ? 2 : 0),
       };
     })
-    // Do not fill slots with unrelated articles merely to reach a fixed link count.
-    .filter(({ sharedCount }) => sharedCount > 0)
-    .sort((a, b) =>
-      b.sharedCount - a.sharedCount || Number(b.sameCategory) - Number(a.sameCategory)
-    )
-    .slice(0, limit)
-    .map(({ post }) => post);
+    .filter((x) => x.score >= 3)
+    .sort((a, b) => b.score - a.score || a.post.slug.localeCompare(b.post.slug));
+  return [...curated, ...fallback.map((x) => x.post)].slice(0, limit);
 }
-
-// Get featured posts for homepage - now returns Deep Dive posts, one per category
-export function getFeaturedPosts(): PostMetadata[] {
-  const allPosts = getAllPosts();
-  
-  // Curated list of best Deep Dive articles, one per category
-  const featuredDeepDiveSlugs = [
-    'exosome-therapy-seoul-guide-2026',           // Medical Tourism
-    'korea-cherry-blossom-forecast-2026',         // Travel & Tourism
-    'catchtable-global-michelin-reservation-guide-2026', // Food & Dining
-    'korea-social-rules-local-guide-2026',        // K-Culture
-    'olive-young-must-buys-2026',                 // Shopping & K-Beauty
-    'seoul-transit-climate-card-vs-tmoney-2026',  // Living in Korea
-  ];
-  
-  // Return posts in the curated order
-  const featuredPosts: PostMetadata[] = [];
-  for (const slug of featuredDeepDiveSlugs) {
-    const post = allPosts.find((p) => p.slug === slug);
-    if (post) {
-      featuredPosts.push(post);
-    }
-  }
-  
-  return featuredPosts;
+export function getFeaturedPosts() {
+  return TRAVEL_CATEGORIES.flatMap((c) =>
+    getLaunchGuides()
+      .filter((p) => p.categoryId === c.slug)
+      .slice(0, 1),
+  );
 }
-
-// Get Deep Dive posts for homepage
-export function getDeepDivePosts(limit: number = 3): PostMetadata[] {
-  const allPosts = getAllPosts();
-  
-  // Filter deep dive posts and sort by deepDiveOrder, then by date
-  const deepDivePosts = allPosts
-    .filter((post) => post.deepDive === true)
-    .sort((a, b) => {
-      // First sort by deepDiveOrder if both have it
-      if (a.deepDiveOrder !== undefined && b.deepDiveOrder !== undefined) {
-        return a.deepDiveOrder - b.deepDiveOrder;
-      }
-      // Then by date (newest first)
-      return a.date < b.date ? 1 : -1;
-    });
-  
-  return deepDivePosts.slice(0, limit);
+export function getDeepDivePosts(limit = 3) {
+  return getLaunchGuides().slice(0, limit);
 }
-
-// Get the latest deep dive post per category, excluding given slugs
-export function getLatestDeepDivePerCategory(excludeSlugs: string[] = [], perCategory: number = 1): PostMetadata[] {
-  const allPosts = getAllPosts();
-  const excluded = new Set(excludeSlugs);
-
-  const deepDivePosts = allPosts
-    .filter((p) => p.deepDive === true && !excluded.has(p.slug))
-    .sort(comparePostRecency);
-
-  const countMap = new Map<string, number>();
-  const result: PostMetadata[] = [];
-
-  for (const post of deepDivePosts) {
-    const count = countMap.get(post.category) ?? 0;
-    if (count < perCategory) {
-      countMap.set(post.category, count + 1);
-      result.push(post);
-    }
-  }
-
-  return result;
+export function getLatestDeepDivePerCategory(excludeSlugs: string[] = [], perCategory = 1) {
+  return TRAVEL_CATEGORIES.flatMap((c) =>
+    getLaunchGuides()
+      .filter((p) => p.categoryId === c.slug && !excludeSlugs.includes(p.slug))
+      .slice(0, perCategory),
+  );
 }

@@ -1,270 +1,245 @@
-import { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { getPostBySlug, getAllPosts, getRelatedPosts, getImageDimensions } from '@/lib/posts';
-import { generateArticleSchema, generateBreadcrumbSchema, generateFAQSchema } from '@/lib/schema';
-import { SITE_CONFIG, CATEGORY_NAME_TO_SLUG, CATEGORY_HUBS } from '@/lib/constants';
+import { getAllPosts, getPostBySlug, getRelatedPosts } from '@/lib/posts';
+import { placesFor } from '@/lib/editorial';
+import { guideMetadata, guideSchema, breadcrumbSchema, jsonLd } from '@/lib/seo';
+import { SITE_CONFIG, PRACTICAL_TOOLS } from '@/lib/constants';
 import MDXContent from '@/components/MDXContent';
-import AuthorBox from '@/components/AuthorBox';
-import RelatedPosts from '@/components/RelatedPosts';
-import Image from 'next/image';
-
+import SaveButton from '@/components/site/SaveButton';
+import ShareActions from '@/components/site/ShareActions';
+import NextSteps from '@/components/site/NextSteps';
+import Contents from '@/components/site/Contents';
+import PlaceMap from '@/components/site/PlaceMap';
+import PhotoCredit from '@/components/site/PhotoCredit';
+import AdSlot from '@/components/site/AdSlot';
+import GuideCommunity from '@/components/site/GuideCommunity';
+import GuideSignals from '@/components/site/GuideSignals';
 type Params = Promise<{ slug: string }>;
-
-export async function generateStaticParams() {
-  const posts = getAllPosts();
-  return posts.map((post) => ({
-    slug: post.slug,
-  }));
+export function generateStaticParams() {
+  return getAllPosts().map((p) => ({ slug: p.slug }));
 }
-
-export async function generateMetadata({ params }: { params: Params }): Promise<Metadata> {
-  const { slug } = await params;
-  const post = getPostBySlug(slug);
-  
-  if (!post) {
-    return {
-      title: 'Post Not Found',
-    };
-  }
-
-  const url = `${SITE_CONFIG.url}/blog/${slug}`;
-
-  // Prefer the real cover image (Nano Banana output) over the runtime-generated
-  // fallback — Google uses og:image as a strong signal for image indexing.
-  const coverDims = getImageDimensions(post.image);
-  const coverUrl = post.image ? `${SITE_CONFIG.url}${post.image}` : undefined;
-  const ogImages = coverUrl && coverDims
-    ? [
-        {
-          url: coverUrl,
-          width: coverDims.width,
-          height: coverDims.height,
-          alt: `${post.title} — cover image`,
-        },
-        // Keep the runtime OG as a secondary fallback for platforms that prefer 1200x630
-        {
-          url: `/blog/${slug}/opengraph-image`,
-          width: 1200,
-          height: 630,
-          alt: post.title,
-        },
-      ]
-    : [
-        {
-          url: `/blog/${slug}/opengraph-image`,
-          width: 1200,
-          height: 630,
-          alt: post.title,
-        },
-      ];
-  const twitterImages = coverUrl ? [coverUrl, `/blog/${slug}/opengraph-image`] : [`/blog/${slug}/opengraph-image`];
-
-  return {
-    title: {
-      absolute: post.title,
-    },
-    description: post.excerpt,
-    authors: [{ name: SITE_CONFIG.author }],
-    keywords: [post.category, 'Korea', 'travel', 'medical tourism'],
-    openGraph: {
-      title: post.title,
-      description: post.excerpt,
-      type: 'article',
-      publishedTime: new Date(post.date).toISOString(),
-      authors: [SITE_CONFIG.author],
-      url: url,
-      siteName: SITE_CONFIG.name,
-      locale: 'en_US',
-      images: ogImages,
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title: post.title,
-      description: post.excerpt,
-      creator: SITE_CONFIG.social.twitter,
-      images: twitterImages,
-    },
-    alternates: {
-      canonical: url,
-    },
-  };
+export const dynamicParams = false;
+export async function generateMetadata({ params }: { params: Params }) {
+  const p = getPostBySlug((await params).slug);
+  return p ? guideMetadata(p) : { title: 'Guide not found', robots: { index: false } };
 }
-
-export default async function BlogPostPage({ params }: { params: Params }) {
-  const { slug } = await params;
-  const post = getPostBySlug(slug);
-
-  if (!post) {
-    notFound();
-  }
-
-  // Generate JSON-LD schema (use real image dimensions when available)
-  const schemaDims = getImageDimensions(post.image);
-  const articleSchema = generateArticleSchema({
-    title: post.title,
-    description: post.excerpt,
-    datePublished: post.date,
-    dateModified: post.updated || post.date,
-    author: SITE_CONFIG.author,
-    category: post.category,
-    url: `${SITE_CONFIG.url}/blog/${slug}`,
-    imageUrl: post.image
-      ? `${SITE_CONFIG.url}${post.image}`
-      : `${SITE_CONFIG.url}/blog/${slug}/opengraph-image`,
-    imageWidth: schemaDims?.width,
-    imageHeight: schemaDims?.height,
-  });
-
-  // Resolve category hub info
-  const categorySlug = CATEGORY_NAME_TO_SLUG[post.category];
-  const categoryHub = CATEGORY_HUBS.find(c => c.slug === categorySlug);
-
-  // Generate Breadcrumb Schema (Home > Blog > Category > Post)
-  const breadcrumbItems = [
-    { name: 'Home', item: SITE_CONFIG.url },
-    { name: 'Blog', item: `${SITE_CONFIG.url}/blog` },
-  ];
-  if (categorySlug) {
-    breadcrumbItems.push({ name: post.category, item: `${SITE_CONFIG.url}/blog/category/${categorySlug}` });
-  }
-  breadcrumbItems.push({ name: post.title, item: `${SITE_CONFIG.url}/blog/${slug}` });
-  const breadcrumbSchema = generateBreadcrumbSchema(breadcrumbItems);
-
-  // Get related posts — neighbor chain within same category
-  const relatedPosts = getRelatedPosts(slug, 6);
-
-  // Extract FAQ items from post content for FAQPage JSON-LD
-  const faqItems: { question: string; answer: string }[] = [];
-  if (post.content.includes('FAQAccordion')) {
-    const faqRegex = /question:\s*"([^"]+)"\s*,\s*answer:\s*"([^"]+)"/g;
-    let match;
-    while ((match = faqRegex.exec(post.content)) !== null) {
-      faqItems.push({ question: match[1], answer: match[2] });
-    }
-  }
-  const faqSchema = faqItems.length > 0 ? generateFAQSchema(faqItems) : null;
-
+function dateLabel(date: string) {
+  return new Intl.DateTimeFormat('en', {
+    day: 'numeric',
+    month: 'short',
+    year: 'numeric',
+    timeZone: 'UTC',
+  }).format(new Date(date));
+}
+export default async function Guide({ params }: { params: Params }) {
+  const post = getPostBySlug((await params).slug);
+  if (!post) notFound();
+  const e = post.editorial;
+  const related = getRelatedPosts(post.slug, 3);
+  const places = placesFor(e?.placeIds || []);
+  const tools = PRACTICAL_TOOLS.filter((t) => e?.tools.includes(t.href.split('/').pop()!));
+  const breadcrumb = breadcrumbSchema([
+    { name: 'Home', path: '/' },
+    { name: 'Guides', path: '/blog' },
+    { name: post.category, path: `/blog/category/${post.categoryId}` },
+    { name: post.title, path: `/blog/${post.slug}` },
+  ]);
   return (
-    <main className="pt-20 pb-12">
-      {/* JSON-LD Schemas */}
+    <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+        dangerouslySetInnerHTML={{ __html: jsonLd([guideSchema(post), breadcrumb]) }}
       />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
-      />
-      {faqSchema && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-        />
-      )}
-      
-      <article className="max-w-4xl mx-auto px-6">
-        {/* Breadcrumbs */}
-        <nav className="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
-          <Link href="/" className="hover:text-blue-600 transition-colors">Home</Link>
-          <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600 transition-colors">Blog</Link>
-          {categorySlug && (
-            <>
-              <span className="mx-2">/</span>
-              <Link href={`/blog/category/${categorySlug}`} className="hover:text-blue-600 transition-colors">
-                {categoryHub?.icon} {post.category}
-              </Link>
-            </>
-          )}
-          <span className="mx-2">/</span>
-          <span className="text-gray-900 line-clamp-1 inline">{post.title}</span>
+      <GuideSignals id={post.id} category={post.categoryId} />
+      <div className="wrap article-shell">
+        <nav className="breadcrumbs" aria-label="Breadcrumb">
+          <Link href="/">Home</Link>
+          <span>/</span>
+          <Link href="/blog">Guides</Link>
+          <span>/</span>
+          <Link href={`/blog/category/${post.categoryId}`}>{post.category}</Link>
         </nav>
-
-        {/* Article Header */}
-        <header className="mb-8">
-          <div className="flex items-center gap-3 mb-4">
-            <span className="px-3 py-1 bg-blue-100 text-blue-600 text-sm rounded-full font-medium">
-              {post.category}
-            </span>
-            <time className="text-gray-500">{new Date(post.date).toLocaleDateString('en-US', { 
-              year: 'numeric', 
-              month: 'long', 
-              day: 'numeric' 
-            })}</time>
+        <header className="article-header">
+          <div className="eyebrow">
+            {post.category}
+            <span className="meta-dot" />
+            {e ? 'Reviewed travel guide' : 'From the archive'}
           </div>
-          
-          <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4 leading-tight">
-            {post.title}
-          </h1>
-          
-          <p className="text-xl text-gray-600 leading-relaxed">
-            {post.excerpt}
-          </p>
+          <h1>{post.title}</h1>
+          <p className="article-deck">{post.excerpt}</p>
+          <div className="article-byline">
+            <Link href="/editorial-policy">Korea Experience Editorial</Link>
+            <span>{post.readTime}</span>
+            {post.checkedAt ? (
+              <span>
+                Information checked{' '}
+                <time dateTime={post.checkedAt}>{dateLabel(post.checkedAt)}</time>
+              </span>
+            ) : (
+              <span>
+                Published <time dateTime={post.date}>{dateLabel(post.date)}</time>
+              </span>
+            )}
+          </div>
+          <div className="article-actions no-print">
+            <SaveButton id={post.id} slug={post.slug} title={post.title} category={post.category} />
+            <a href="#share-guide" className="action-button">
+              Share this guide
+            </a>
+            {places.length ? (
+              <a href="#places-and-map" className="action-button">
+                Places & map
+              </a>
+            ) : null}
+          </div>
         </header>
-
-        {/* Hero Image (Nano Banana generated cover) */}
-        {post.image && (
-          <div className="relative w-full aspect-[16/9] rounded-xl overflow-hidden mb-10 shadow-lg">
-            <Image
+        {post.image ? (
+          <figure className="article-cover">
+            <img
               src={post.image}
-              alt={post.title}
-              fill
-              unoptimized
-              className="object-cover"
-              priority
-              sizes="(max-width: 896px) 100vw, 896px"
+              alt={e?.imageCredit?.title || `${post.title} — illustrative archive cover`}
+              width="1280"
+              height="720"
+              fetchPriority="high"
             />
-          </div>
-        )}
-
-        {/* Article Content */}
-        <div className="mb-12">
-          <MDXContent source={post.content} />
-        </div>
-
-        {/* Author Box */}
-        <AuthorBox />
-
-        {/* Medical Disclaimer — Medical Tourism only */}
-        {post.category === 'Medical Tourism' && (
-          <div className="mt-8 p-6 bg-red-50 border border-red-200 rounded-lg">
-            <h3 className="text-lg font-semibold text-red-800 mb-2">
-              ⚠️ Medical Disclaimer
-            </h3>
-            <p className="text-sm text-red-700">
-              The information provided on this website is for general informational purposes only
-              and does not constitute medical advice. Always consult with qualified healthcare
-              professionals before making any medical decisions.
-            </p>
-          </div>
-        )}
-
-        {/* Browse Category Hub */}
-        {categorySlug && categoryHub && (
-          <div className="mt-10 p-6 bg-gradient-to-r from-gray-50 to-blue-50 border border-gray-200 rounded-xl">
-            <div className="flex items-center gap-3 mb-2">
-              <span className="text-2xl">{categoryHub.icon}</span>
-              <h3 className="text-lg font-semibold text-gray-900">
-                Explore more in {post.category}
-              </h3>
+            <figcaption>
+              <PhotoCredit credit={e?.imageCredit} />
+            </figcaption>
+          </figure>
+        ) : null}
+        <div className="article-layout">
+          <aside className="article-toc">
+            <Contents source={post.content} />
+          </aside>
+          <div className="article-reading">
+            {e ? (
+              <section className="answer-box" aria-labelledby="quick-answer">
+                <p className="eyebrow">The short answer</p>
+                <h2 id="quick-answer">{e.answer}</h2>
+                <p>
+                  <strong>Best for:</strong> {e.forWhom}
+                </p>
+                {e.conditions.length ? (
+                  <ul>
+                    {e.conditions.map((c) => (
+                      <li key={c}>{c}</li>
+                    ))}
+                  </ul>
+                ) : null}
+              </section>
+            ) : (
+              <aside className="archive-notice">
+                <strong>Archive guide</strong>
+                <p>
+                  This article has not yet completed our new editorial review. Check dates, prices,
+                  availability and important conditions with the official operator before acting.{' '}
+                  <Link href="/editorial-policy">How we review information</Link>
+                </p>
+              </aside>
+            )}
+            <article className="article-body">
+              <MDXContent source={post.content} />
+            </article>
+            <AdSlot key={post.id} />
+            {e?.gallery?.length ? (
+              <section className="editorial-gallery" aria-label="Photographs from the area">
+                {e.gallery.map((image) => (
+                  <figure key={image.src}>
+                    <img src={image.src} alt={image.alt} width="1000" height="670" loading="lazy" />
+                    <figcaption>
+                      <PhotoCredit credit={image.credit} />
+                    </figcaption>
+                  </figure>
+                ))}
+              </section>
+            ) : null}
+            <PlaceMap places={places} />
+            {e?.sources.length ? (
+              <section className="source-box" id="sources-and-checks">
+                <p className="eyebrow">Trace the important details</p>
+                <h2>Official sources & checks</h2>
+                <p>
+                  Reviewed against the sources below on {dateLabel(e.checkedAt)}. Opening
+                  conditions, fares and booking rules can change; the operator’s current notice
+                  takes precedence.
+                </p>
+                <ol>
+                  {e.sources.map((s) => (
+                    <li key={s.id}>
+                      <a href={s.url} target="_blank" rel="noopener noreferrer">
+                        {s.title} ↗
+                      </a>
+                      <p>Checked {dateLabel(s.checkedAt)}</p>
+                    </li>
+                  ))}
+                </ol>
+                <Link href="/contact" className="text-link">
+                  Spotted something that changed? Send a correction ↗
+                </Link>
+              </section>
+            ) : null}
+            {post.legacyCategory === 'Medical Tourism' ? (
+              <aside className="archive-notice">
+                <strong>Medical information</strong>
+                <p>
+                  General information only. Seek qualified professional advice about your own
+                  circumstances. For an emergency in Korea call 119.
+                </p>
+              </aside>
+            ) : null}
+            <div className="article-dates">
+              <span>First published {dateLabel(post.date)}</span>
+              {post.updated ? <span>Substantively updated {dateLabel(post.updated)}</span> : null}
+              <Link href="/editorial-policy">Research & corrections policy</Link>
             </div>
-            <p className="text-sm text-gray-600 mb-4">{categoryHub.description}</p>
+          </div>
+        </div>
+        {tools.length ? (
+          <section className="guide-tools">
+            <p className="eyebrow">Put the guide to work</p>
+            <h2>Tools for your next decision</h2>
+            <div>
+              {tools.map((t) => (
+                <Link key={t.href} href={t.href}>
+                  <strong>{t.title} ↗</strong>
+                  <span>{t.description}</span>
+                </Link>
+              ))}
+            </div>
+          </section>
+        ) : null}
+        <NextSteps current={post} posts={related} />
+        <div id="share-guide">
+          <ShareActions
+            id={post.id}
+            title={post.title}
+            url={`${SITE_CONFIG.url}/blog/${post.slug}`}
+            summary={post.excerpt}
+            facts={e?.shareFacts || []}
+            checkedAt={post.checkedAt}
+            category={post.category}
+          />
+        </div>
+        <GuideCommunity id={post.id} />
+        <section className="correction-callout">
+          <h2>A useful question makes a better guide.</h2>
+          <p>
+            Tell us what you could not find, what changed on your visit, or which travel detail
+            needs a clearer answer.
+          </p>
+          <div className="button-row">
             <Link
-              href={`/blog/category/${categorySlug}`}
-              className="inline-flex items-center gap-2 px-5 py-2.5 bg-gradient-to-r from-blue-600 to-cyan-500 text-white text-sm font-medium rounded-lg hover:from-blue-700 hover:to-cyan-600 transition-all shadow-sm hover:shadow-md"
+              href={`/community?guide=${encodeURIComponent(post.id)}`}
+              className="button button-light"
             >
-              Browse All {post.category} Articles
-              <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M13 7l5 5m0 0l-5 5m5-5H6" />
-              </svg>
+              Travel questions & updates ↗
+            </Link>
+            <Link href="/contact" className="text-link">
+              Send a correction ↗
             </Link>
           </div>
-        )}
-
-        {/* Related Posts */}
-        <RelatedPosts posts={relatedPosts} />
-      </article>
-    </main>
+        </section>
+      </div>
+    </>
   );
 }

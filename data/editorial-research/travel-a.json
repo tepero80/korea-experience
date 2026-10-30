@@ -1,0 +1,2561 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Evidence and editorial briefs for parent integration; not final publishable Markdown",
+  "checkedAt": "2026-10-30",
+  "scope": "20 topics: Plan / Transport / Stay / Places",
+  "inventoryMethod": "Existing published Markdown filenames/frontmatter and closest reader intent reviewed; draft-only files not proposed as existing public URLs.",
+  "summary": {
+    "topics": 20,
+    "rewriteExisting": 11,
+    "newUrls": 9
+  },
+  "editorialRules": [
+    "Source facts are centralized below; section points are original editorial recommendations unless a source is explicitly cited.",
+    "Do not state personal travel experience. Suggested time blocks/routes are editorial drafts until mapped or tested.",
+    "Exact current rail policies remain gated by full primary-source access; search snippets are leads, not complete verification.",
+    "No image license or geographic coordinates have been verified in this research. Use address text and map-query links pending coordinate validation.",
+    "Sources being official does not grant commercial photo reuse; obtain asset-level license and attribution before downloading/publishing.",
+    "Dates, tariffs, temporary opening hours and entry policies must retain checked date and a current official link; never describe them as live."
+  ],
+  "criticalFindings": [
+    "Climate Card 30-day prepaid product has ended recharge; short-term passes continue. Inbound boarding at Incheon remains excluded.",
+    "2026 rail changes make old separate-app/one-month booking advice unsafe; exact new rules require full official verification.",
+    "Family room name does not establish guest capacity or extra bed; two direct hotel pages prove room-specific variation.",
+    "Current Suwon Korean operator differs from older English winter hours; 2026 night season ends Nov1.",
+    "Seoul Forest main park hours do not apply to specialist gardens/fountains; winter schedule differs."
+  ],
+  "sources": [
+    {
+      "id": "seoul-climate",
+      "title": "Seoul Metropolitan Government: Climate Card",
+      "url": "https://world.seoul.go.kr/policy/transportation/climate-card/",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "30-day prepaid recharges ended 2026-08-31; 1/2/3/5/7-day short-term products remain.",
+        "Short-term prices KRW 5,000/8,000/10,000/15,000/20,000; physical card KRW 3,000 separately.",
+        "Recharge date is start date; no advance recharge. Validity follows service days rather than rolling 24-hour periods.",
+        "Coverage excludes Sinbundang, GTX, express/airport buses and other-region licensed buses; verify station-specific exceptions.",
+        "Airport T1/T2 permit alighting only, not boarding. Seoul-licensed buses may run beyond city boundaries.",
+        "Replacement resident Climate Pass requires Seoul residence and foreign registration for foreign applicants."
+      ],
+      "notes": "Updated coverage effective 2026-10-01. Older english.seoul.go.kr and existing site articles can be stale. Mobile availability and payment compatibility need traveler-specific confirmation."
+    },
+    {
+      "id": "kto-climate",
+      "title": "Korea Tourism Organization: Climate and Seasons",
+      "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140636",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Four distinct seasons; summer is humid and winter cold and dry.",
+        "General rainy-season timing is late June–late July; broad typhoon risk period June–October is not a forecast.",
+        "Seoul January normal average high/low 2.1/-5.5°C; Busan 8.2/-0.1°C. Climate normals are not a trip-date forecast.",
+        "Winter guidance includes warm layers, gloves, scarf and shoes with grip."
+      ],
+      "pageUpdated": "2026-09-18"
+    },
+    {
+      "id": "visitseoul-districts",
+      "title": "Seoul Tourism Organization: About Seoul districts",
+      "url": "https://english.visitseoul.net/AboutSeoul",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Central districts include Jongno, Jung and Yongsan; official descriptions identify historic/cultural destinations.",
+        "Mapo/Seodaemun/Eunpyeong descriptions distinguish youth culture, universities and green spaces."
+      ],
+      "notes": "Useful geographic orientation; does not establish hotel quality, safety rankings, or travel times."
+    },
+    {
+      "id": "visitseoul-accommodation",
+      "title": "Seoul Tourism Organization: Accommodation",
+      "url": "https://english.visitseoul.net/Accommodation",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Official portal distinguishes hotel and traditional guesthouse options."
+      ],
+      "notes": "Directory source only. Room-level accessibility, bathrooms and heating must be confirmed with the property."
+    },
+    {
+      "id": "visitseoul-before",
+      "title": "Seoul Tourism Organization: Before You Go",
+      "url": "https://english.visitseoul.net/Before-You-Go",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Official preparation portal links practical travel information."
+      ],
+      "notes": "Navigation source only, not evidence for nationality-specific immigration eligibility."
+    },
+    {
+      "id": "airport-transport",
+      "title": "Incheon Airport: Public Transportation",
+      "url": "https://airinfo.airport.kr/ap_en/1499/subview.do",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Official hub provides bus search, terminal-specific late-night bus information, railroad and taxi guides."
+      ],
+      "notes": "Use exact operating-day results for a quoted fare or final departure; hub alone does not verify those numbers."
+    },
+    {
+      "id": "airport-rail-luggage",
+      "title": "Incheon Airport: Airport Railroad Guide / T-Luggage",
+      "url": "https://airport.kr/ap_en/1512/subview.do",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "T-Luggage supports station/airport storage and delivery; delivery requires a staffed counter at one end, rather than locker-to-locker.",
+        "Listed station counters include Seoul, Hongik University, Myeongdong and Gimpo Airport.",
+        "Seoul counter is B1 near exits 1–2; Hongik is B1 between Line 2 and AREX; Myeongdong B1 near exits 1/9/10; Gimpo B1 near Line 5 international-terminal direction."
+      ],
+      "notes": "Counter availability, bag acceptance, cutoff times and fees must be checked on the operator's booking date. Airport counter names/locations vary across old guides."
+    },
+    {
+      "id": "airport-late-t1",
+      "title": "Incheon Airport: T1 Late-night Bus",
+      "url": "https://airport.kr/ap_en/1507/subview.do",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Listed routes include N6000 to Gangnam Express Bus Terminal, N6002 via Hongdae to Cheongnyangni, N6701 via Seoul Station to DDP and N6703 via COEX/Jamsil to Gwangnaru.",
+        "This is the Terminal 1 page. Terminal 2 must be checked separately."
+      ],
+      "notes": "Page includes schedules; no timetable is frozen in this artifact because arrival delays and terminal differences matter. First/last miles remain separate."
+    },
+    {
+      "id": "airport-taxi",
+      "title": "Incheon Airport: Taxi",
+      "url": "https://airport.kr/ap_en/1515/subview.do",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Airport taxi page directs travelers to authorized stands and distinguishes standard, large and international services.",
+        "Seoul standard taxi base is KRW 4,800, not an airport-to-Seoul total.",
+        "Seoul late-night surcharge bands listed: 22–23 20%, 23–02 40%, 02–04 20%.",
+        "International taxis offer region-based Seoul flat fares; verify actual vehicle, destination and toll conditions."
+      ],
+      "notes": "Do not extrapolate Seoul taxi tariff to Busan or other jurisdictions; no quoted trip total in this artifact."
+    },
+    {
+      "id": "airport-facilities",
+      "title": "Incheon Airport: Amenities directory",
+      "url": "https://www.airport.kr/ap_en/1546/subview.do",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Live directory lists baggage/storage providers and terminal/floor locations, including multiple Hanjin/Zimcarry entries."
+      ],
+      "notes": "Dynamic results conflict with older 2024 Hanjin notice. Filter terminal and service on the trip date. No universal 24-hour counter claim is approved."
+    },
+    {
+      "id": "e-arrival",
+      "title": "Korea Immigration Service: e-Arrival Card filing guide",
+      "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Required applicants may submit from three days before arrival using Korean Standard Time.",
+        "Submission is free; passport, travel and accommodation details are required.",
+        "Arrival declaration and travel authorization are separate processes; use official eligibility guidance."
+      ],
+      "notes": "Do not infer all nationalities or all visa statuses require the same form."
+    },
+    {
+      "id": "keta-2026",
+      "title": "K-ETA official notice: temporary exemption extended through 2026",
+      "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y&locale=EN",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Temporary exemption applies to the specified eligible countries/regions through 2026-12-31."
+      ],
+      "notes": "Do not apply to every passport or carry into 2027 without a new official notice. Entry eligibility is a legal question; keep nationality/date checks with the official navigator."
+    },
+    {
+      "id": "hanok-kto",
+      "title": "Korea Tourism Organization: Hanok accommodation",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140678",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Traditional accommodation can use floor bedding, while some properties offer beds.",
+        "Convenience facilities differ by property; confirm details before booking.",
+        "Traditional wooden buildings require fire precautions."
+      ],
+      "pageUpdated": "2025-10-17",
+      "notes": "No universal private bathroom, room heating control or accessibility claim."
+    },
+    {
+      "id": "signiel-faq",
+      "title": "LOTTE SIGNIEL SEOUL: property FAQ",
+      "url": "https://app.lottehotel.com/seoul-signiel/en/about/faq",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Extra-person charges and extra beds are distinct.",
+        "Room-type occupancy restrictions apply; not all categories accept an extra guest.",
+        "This property states no connecting rooms; infant equipment is limited and requires advance request."
+      ],
+      "notes": "Property-specific example only. Do not generalize its fees, child age or inventory to Korea."
+    },
+    {
+      "id": "lotte-family",
+      "title": "LOTTE HOTEL WORLD: Residential Junior Family Twin",
+      "url": "https://app.lottehotel.com/world-hotel/en/rooms/residential-junior-family-twin-room",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Published room capacity is 3 despite the family name.",
+        "Listed amenities include microwave, refrigerator and washer/dryer; cooking/flammables are restricted.",
+        "Extra-bed eligibility depends on category."
+      ],
+      "notes": "Illustrates why travelers must read room-level conditions. Not an endorsement or a live availability quote."
+    },
+    {
+      "id": "seongsu-course",
+      "title": "Seoul Tourism Organization: Seongsu one-day course",
+      "url": "https://english.visitseoul.net/mvp/SeongsuHotspot-1day/ENN8khsan",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Official route context includes Seoul Forest and Seongsu's handmade-shoe area."
+      ],
+      "notes": "Permanent neighborhood orientation only. Past pop-up names and opening dates are not evidence of current availability."
+    },
+    {
+      "id": "seoul-forest",
+      "title": "Seoul Tourism Organization: Seoul Forest",
+      "url": "https://english.visitseoul.net/nature/Seoul-Forest/ENP001838",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Main park listed open 24 hours and free; specialist gardens/facilities have separate opening rules.",
+        "Winter Insect Garden hours Nov–Feb are 10:00–16:00 with 15:30 final admission; Mondays closed.",
+        "Butterfly Garden season and fountain operation are listed May–October, not all winter.",
+        "Address 273 Ttukseom-ro, Seongdong-gu; Ttukseom exit 8 or Seoul Forest exits 3/4 are listed access points."
+      ],
+      "pageUpdated": "2026-10-18",
+      "notes": "Do not describe every facility as 24 hours. Equipment rental availability must be confirmed."
+    },
+    {
+      "id": "suwon-operator",
+      "title": "Suwon Cultural Foundation: Hwaseong / Haenggung visitor information",
+      "url": "https://www.swcf.or.kr/?p=65",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Fortress grounds are free and open year-round.",
+        "Haenggung visitor hours currently 09:00–18:00; last admission one hour before closing.",
+        "2026 night season May 1–Nov 1 on Fridays–Sundays/public holidays, 18:00–21:30, final entry 21:00.",
+        "Haenggung individual adult admission KRW 2,000; other age/combined categories differ.",
+        "Haenggung address 825 Jeongjo-ro, Paldal-gu, Suwon."
+      ],
+      "notes": "Current Korean operator page conflicts with older English/KTO winter 17:00 closing. Prefer trip-date operator notice; night season ends two days after research date and must not be projected through winter."
+    },
+    {
+      "id": "national-museum",
+      "title": "National Museum of Korea: Hours and Admissions",
+      "url": "https://www.museum.go.kr/ENG/contents/E0101000000.do",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Permanent galleries are free; special exhibitions can be ticketed.",
+        "Regular hours 09:30–17:30, Wednesday/Saturday to 21:00; final admission 30 minutes before close.",
+        "Children's Museum requires reservations; closure dates and collection access vary.",
+        "Commercial photography requires permission; visitor access does not grant image reuse."
+      ],
+      "notes": "Check closure/temporary gallery notices before route publication. Do not make all-galleries-always-open claims."
+    },
+    {
+      "id": "craft-museum",
+      "title": "Seoul Tourism Organization: Seoul Museum of Craft Art",
+      "url": "https://english.visitseoul.net/attractions/Seoul%20Museum%20of%20Craft_/38147",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Normal opening 10:00–18:00, final entry 17:30; Monday and Jan 1 closure listed.",
+        "A temporary 2026 Sep 15–Nov 30 late-opening schedule has exceptions; recheck rather than repeat indefinitely.",
+        "Children's Museum requires advance booking; general admission listed free.",
+        "Address 4 Yulgok-ro 3-gil, Jongno-gu; Anguk Line 3 exit 1."
+      ],
+      "notes": "Temporary hours are time-sensitive and not a permanent museum feature."
+    },
+    {
+      "id": "mmca",
+      "title": "National Museum of Modern and Contemporary Art: Seoul visiting information",
+      "url": "https://www.mmca.go.kr/eng/seoul/viewingInfo/information.do",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Official museum visiting page provides venue-specific opening and exhibition admission information."
+      ],
+      "notes": "Do not equate free permanent museums with all MMCA exhibitions being free; confirm exhibition ticket and night-opening conditions."
+    },
+    {
+      "id": "dongbaek",
+      "title": "Korea Tourism Organization: Haeundae Dongbaekseom",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=81541",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Coastal park adjoins one end of Haeundae Beach and has a walking path.",
+        "Listed address 67 Dongbaek-ro, Haeundae-gu, Busan; open 24 hours, free.",
+        "Nurimaru is a separate attraction; do not extend park opening hours to every facility."
+      ],
+      "notes": "Wind/steps and on-the-day restrictions still matter. No verified latitude/longitude."
+    },
+    {
+      "id": "nampo-shopping",
+      "title": "Korea Tourism Organization: Nampo Underground Shopping Center",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=70897",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Shopping corridor lies between Jagalchi and Nampo stations near the old-port markets.",
+        "Address jiha 44 Gudeok-ro, Jung-gu, Busan; page lists 10:00–22:00 and second/fourth Tuesday closures."
+      ],
+      "notes": "Individual stores and passages differ; does not make all Nampo routes sheltered."
+    },
+    {
+      "id": "seomyeon-shopping",
+      "title": "Korea Tourism Organization: Seomyeon Underground Shopping Center",
+      "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70895",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Official listing establishes Seomyeon shopping cluster at underground 737 Jungang-daero, Busanjin-gu.",
+        "Page lists 10:00–22:00 with first Tuesday monthly closure."
+      ],
+      "notes": "Hours describe this shopping center, not neighborhood restaurants or hotel facilities."
+    },
+    {
+      "id": "kto-shopping",
+      "title": "Korea Tourism Organization: Where to Shop in Korea",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140735",
+      "publisherType": "primary",
+      "checkedAt": "2026-10-30",
+      "access": "opened-full-page",
+      "verifiedClaims": [
+        "Seomyeon Underground Shopping Center is connected to Busan Subway Lines 1 and 2."
+      ],
+      "notes": "Its address differs from the dedicated center page; use dedicated listing for exact address, and this page only for interchange context."
+    }
+  ],
+  "accessLimitations": [
+    {
+      "title": "MOLIT regular rail booking-window notice",
+      "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092440",
+      "access": "primary-search-snippet-only; full open redirect loop",
+      "observed": "Search result describes two-month regular rail reservations from 2026-10-01.",
+      "publicationGate": "Do not publish an exact release window from this artifact until the official notice/full operator flow is read. Pass seat-reservation windows can differ."
+    },
+    {
+      "title": "MOLIT rail integration notice",
+      "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092365",
+      "access": "primary-search-snippet-only; full open redirect loop",
+      "observed": "Search result describes Korail/SR integration from 2026-09-01.",
+      "publicationGate": "Do not repeat stale KTX-vs-SRT separate-app guidance without checking current operator booking UI."
+    },
+    {
+      "title": "MOLIT KORAIL+ notice",
+      "url": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?id=95092278",
+      "access": "primary-search-snippet-only; full open redirect loop",
+      "observed": "Search result describes KORAIL+ launch 2026-08-03.",
+      "publicationGate": "Confirm the operator-linked app publisher and live language/payment options before recommending a specific app."
+    },
+    {
+      "title": "Korail official reservation",
+      "url": "https://www.korail.com/global/eng/ticket/reservation",
+      "access": "opened; network-error fallback instead of booking content",
+      "publicationGate": "Exact timetable, fare, release time, international-card and passport-input behavior not verified."
+    },
+    {
+      "title": "Korail official Korea Rail Pass",
+      "url": "https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass",
+      "access": "opened; network-error fallback; cached search showed potentially older content",
+      "publicationGate": "No pass price, eligible service list or seat quota is approved from cached evidence."
+    },
+    {
+      "title": "Busan Transportation Corporation",
+      "url": "https://www.humetro.busan.kr/english/main.do",
+      "access": "opened; automated-access denial",
+      "publicationGate": "No exit accessibility, last-train time, fare or precise journey-time claim verified."
+    },
+    {
+      "title": "Visit Busan three-day course",
+      "url": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000201001001000&uc_seq=392",
+      "access": "primary-search-snippet-only; full open failed",
+      "publicationGate": "Use only as further research lead, not evidence for attraction opening or itinerary durations."
+    }
+  ],
+  "verifiedPlaces": [
+    {
+      "id": "seoul-forest",
+      "name": "Seoul Forest",
+      "koreanName": "서울숲",
+      "address": "273 Ttukseom-ro, Seongdong-gu, Seoul",
+      "sourceId": "seoul-forest",
+      "coordinates": null,
+      "coordinateStatus": "not-verified"
+    },
+    {
+      "id": "craft-museum",
+      "name": "Seoul Museum of Craft Art",
+      "koreanName": "서울공예박물관",
+      "address": "4 Yulgok-ro 3-gil, Jongno-gu, Seoul",
+      "sourceId": "craft-museum",
+      "coordinates": null,
+      "coordinateStatus": "not-verified"
+    },
+    {
+      "id": "suwon-haenggung",
+      "name": "Hwaseong Haenggung",
+      "koreanName": "화성행궁",
+      "address": "825 Jeongjo-ro, Paldal-gu, Suwon",
+      "sourceId": "suwon-operator",
+      "coordinates": null,
+      "coordinateStatus": "not-verified"
+    },
+    {
+      "id": "dongbaek",
+      "name": "Dongbaekseom Park",
+      "koreanName": "동백섬",
+      "address": "67 Dongbaek-ro, Haeundae-gu, Busan",
+      "sourceId": "dongbaek",
+      "coordinates": null,
+      "coordinateStatus": "not-verified"
+    },
+    {
+      "id": "nampo-shopping",
+      "name": "Nampo Underground Shopping Center",
+      "koreanName": "남포동지하도상가",
+      "address": "Jiha 44 Gudeok-ro, Jung-gu, Busan",
+      "sourceId": "nampo-shopping",
+      "coordinates": null,
+      "coordinateStatus": "not-verified"
+    },
+    {
+      "id": "seomyeon-shopping",
+      "name": "Seomyeon Underground Shopping Center",
+      "koreanName": "서면지하도상가",
+      "address": "Jiha 737 Jungang-daero, Busanjin-gu, Busan",
+      "sourceId": "seomyeon-shopping",
+      "coordinates": null,
+      "coordinateStatus": "not-verified"
+    }
+  ],
+  "briefs": [
+    {
+      "id": "plan-first-trip",
+      "categoryId": "plan-your-trip",
+      "workingTitle": "Your First Korea Trip: The Decisions to Make Before Booking",
+      "proposedSlug": "first-trip-to-korea-planning-guide",
+      "reuse": {
+        "action": "new-url",
+        "existingPath": null,
+        "reason": "No close published article with the same task found; keep narrower related pages distinct."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "e-arrival",
+        "keta-2026",
+        "kto-climate",
+        "visitseoul-districts",
+        "airport-transport"
+      ],
+      "sections": [
+        {
+          "heading": "Start with the trip you can actually fit",
+          "points": [
+            "Count usable days after arrival and before departure; list flight landing and hotel check-in separately.",
+            "Choose a Seoul-only base for a short trip or add Busan with an explicit travel day; avoid presenting an overnight cross-country journey as a spare evening.",
+            "Write three priorities and one optional activity so weather or fatigue can remove a stop without breaking the trip."
+          ]
+        },
+        {
+          "heading": "Check entry eligibility before nonrefundable payments",
+          "points": [
+            "Use passport nationality, residence, travel purpose and arrival date in official immigration guidance; a travel blog cannot determine individual admission.",
+            "Distinguish visa/authorization from arrival declaration; the 2026 exemption notice has a hard end date and limited eligible countries.",
+            "Keep a document folder containing passport identification copy, insurance, first hotel address in Korean and confirmed arrival/departure details."
+          ]
+        },
+        {
+          "heading": "Choose a base from your real arrival route",
+          "points": [
+            "Compare hotel door-to-station access, lift/stairs and the final walk with luggage, not only station names.",
+            "For an arrival after normal rail connections, solve late-night transfer and late check-in before choosing a cheap remote hotel.",
+            "A short sightseeing trip usually gains more from a convenient base and fewer hotel moves than an extra district checked off."
+          ]
+        },
+        {
+          "heading": "Make connectivity and payment resilient",
+          "points": [
+            "Prepare an offline copy of the hotel address, booking and return-flight details before landing.",
+            "Keep a second independent payment method and enough accessible funds for transport; do not promise every foreign card or phone wallet works.",
+            "Install a Korea-capable map and save the destination's Korean name; map setup is a separate detailed guide."
+          ]
+        },
+        {
+          "heading": "Build a first-day plan that survives delays",
+          "points": [
+            "Make the only fixed arrival-day tasks immigration, connectivity if needed, transport, check-in and a meal near the hotel.",
+            "Keep the first paid timed attraction after a recovery window; international arrival time is not the time you exit the terminal.",
+            "Include a rain/cold alternative and an unbooked rest block rather than filling every hour."
+          ]
+        },
+        {
+          "heading": "Final check and next actions",
+          "points": [
+            "For travelers required to file, the official free e-Arrival Card opens three days before arrival in KST; follow its current eligibility guide.",
+            "Recheck opening notices, transport routes and hotel check-in instructions near departure.",
+            "Link onward to airport transfer, neighborhood chooser and the 8-week checklist with explicit reasons."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "practical-guide",
+      "tools": [
+        "visit-month-checklist",
+        "airport-transfer-selector"
+      ],
+      "relatedIds": [
+        "plan-booking-checklist",
+        "stay-seoul",
+        "transport-airport"
+      ],
+      "checklist": [
+        "Eligibility checked for passport and date",
+        "Cancelable accommodation chosen",
+        "Arrival transport plus backup saved",
+        "Korean hotel address available offline",
+        "Priority booking confirmed",
+        "Weather alternative ready"
+      ],
+      "doNotClaim": [
+        "All passports are K-ETA-exempt.",
+        "The 2026 exemption continues into 2027.",
+        "A foreign card or SIM is guaranteed to work."
+      ]
+    },
+    {
+      "id": "plan-best-time",
+      "categoryId": "plan-your-trip",
+      "workingTitle": "When to Visit Korea: Choose a Month for Your Travel Style",
+      "proposedSlug": "best-time-to-visit-korea-month-by-month-weather",
+      "reuse": {
+        "action": "rewrite-existing-url",
+        "existingPath": "content/posts/best-time-to-visit-korea-month-by-month-weather.md",
+        "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "kto-climate"
+      ],
+      "sections": [
+        {
+          "heading": "Choose by tolerance rather than a universal best month",
+          "points": [
+            "Ask whether the visitor prioritizes comfortable outdoor walking, beach/coast time, snow activities or indoor culture.",
+            "Spring and autumn are broad starting points for walking, but crowd, temperature and price vary within each season.",
+            "Separate the decision about a month from a promise about blossoms, foliage, snow or a particular festival."
+          ]
+        },
+        {
+          "heading": "Compare the four seasonal tradeoffs",
+          "points": [
+            "For spring, allow removable layers and a backup plan for a cold morning.",
+            "For summer, reduce midday outdoor time, include water/rest breaks and retain flexibility around heavy rain.",
+            "For autumn, plan day/night layers; for winter, choose shorter outdoor blocks with indoor recovery stops."
+          ]
+        },
+        {
+          "heading": "Read climate tables correctly",
+          "points": [
+            "Show selected city climate normals with units and source date; clearly label them as averages, not next month's forecast.",
+            "Seoul and Busan need separate rows; a warmer coastal average does not guarantee mild wind or dry paths.",
+            "A single average temperature is inadequate for packing; show high/low and rain context where verified."
+          ]
+        },
+        {
+          "heading": "Match month to itinerary shape",
+          "points": [
+            "A palace/market walk needs a different weather margin from a museum-and-café day.",
+            "A winter itinerary can still be satisfying if the hotel is convenient and long exposed river/coast segments are optional.",
+            "For weather-dependent activities, book flexible portions before nonrefundable optional excursions."
+          ]
+        },
+        {
+          "heading": "What to recheck after choosing",
+          "points": [
+            "Check official attraction season dates, public-holiday closures and operating notices; this brief does not establish those calendars.",
+            "Use a real forecast near departure; weather normals cannot answer whether snow will fall during specific dates.",
+            "Refresh event booking pages and transit notices when the travel month approaches."
+          ]
+        },
+        {
+          "heading": "Show the decision clearly",
+          "points": [
+            "Use a 12-month visual with comfort/tradeoff labels rather than invented numerical happiness scores.",
+            "Offer a month checklist download generated from traveler choices.",
+            "Link to winter packing, wet-weather alternatives and budget planner so the recommendation turns into actions."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "comparison",
+      "tools": [
+        "visit-month-checklist"
+      ],
+      "relatedIds": [
+        "plan-winter-packing",
+        "places-rain",
+        "plan-budget"
+      ],
+      "comparison": {
+        "columns": [
+          "Season",
+          "Good starting use",
+          "Planning tradeoff"
+        ],
+        "rows": [
+          [
+            "Mar–May",
+            "Walking and neighborhood exploration",
+            "Variable temperatures; exact flowers uncertain"
+          ],
+          [
+            "Jun–Aug",
+            "Longer daylight and indoor/outdoor mix",
+            "Humidity and rain flexibility"
+          ],
+          [
+            "Sep–Nov",
+            "Walking with removable layers",
+            "Storm/temperature variation and event crowds"
+          ],
+          [
+            "Dec–Feb",
+            "Indoor culture plus optional winter activities",
+            "Cold, shorter outdoor blocks and grip"
+          ]
+        ]
+      },
+      "doNotClaim": [
+        "Guaranteed blossom or peak foliage dates.",
+        "Snow is guaranteed in Seoul.",
+        "Every month within one season has identical weather."
+      ]
+    },
+    {
+      "id": "plan-budget",
+      "categoryId": "plan-your-trip",
+      "workingTitle": "A Seven-Day Korea Budget You Can Change",
+      "proposedSlug": "how-much-does-a-7-day-trip-to-korea-cost-in-2026-budget-vs-luxury-breakdown",
+      "reuse": {
+        "action": "rewrite-existing-url",
+        "existingPath": "content/posts/how-much-does-a-7-day-trip-to-korea-cost-in-2026-budget-vs-luxury-breakdown.md",
+        "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "seoul-climate",
+        "national-museum",
+        "suwon-operator"
+      ],
+      "sections": [
+        {
+          "heading": "Define people, nights and inclusions first",
+          "points": [
+            "Use seven days/six nights explicitly; a seven-night stay is a different calculation.",
+            "Separate room-level expenses from person-level expenses, and separate international flights, intercity travel and shopping from the city budget.",
+            "Use KRW as the calculation currency; optional converted amounts require a dated FX source and should remain estimates."
+          ]
+        },
+        {
+          "heading": "Make hotel sharing visible",
+          "points": [
+            "Total lodging equals nightly room quote × nights × rooms; divide only after that by the people sharing the room.",
+            "Child occupancy and extra beds can require a different room; do not automatically divide a double-room rate by four.",
+            "Compare final room price with taxes, breakfast and cancellation terms before entering it into the planner."
+          ]
+        },
+        {
+          "heading": "Build an editable example rather than a false market average",
+          "points": [
+            "Provide a worked example with hypothetical inputs and label every daily allowance as user-editable.",
+            "Keep meals, local movement and activities separate so a museum-heavy or café-heavy trip changes transparently.",
+            "A budget tier should describe choices, not claim that every visitor can buy the same product at a fixed price."
+          ]
+        },
+        {
+          "heading": "Add real-world categories people forget",
+          "points": [
+            "Include both airport journeys, baggage storage, laundry, connectivity, optional taxis and a reserve.",
+            "For a Busan add-on, put rail tickets and a possible hotel-night change in their own row.",
+            "Shopping and refundable deposits are not the same as mandatory travel expenditure."
+          ]
+        },
+        {
+          "heading": "Reduce costs without breaking the journey",
+          "points": [
+            "Compare a pass only after counting eligible rides; include the physical card cost and uncovered journeys.",
+            "Use verified free permanent museum admission as one option while budgeting separately for paid special exhibitions.",
+            "A cheaper hotel can raise transport costs and consume time; let the user compare complete day plans."
+          ]
+        },
+        {
+          "heading": "Keep the assumptions with the shared result",
+          "points": [
+            "Show party size, nights, room sharing, included/excluded categories and reserve rate on the exported card.",
+            "Do not publish an allowance as an actual live accommodation or meal quote.",
+            "Let the user reset inputs, print the breakdown and follow the relevant fare/attraction sources."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "calculator-companion",
+      "tools": [
+        "trip-budget-planner",
+        "transit-pass-comparison"
+      ],
+      "relatedIds": [
+        "stay-seoul",
+        "transport-passes",
+        "plan-first-trip"
+      ],
+      "workedExample": {
+        "label": "Hypothetical inputs, not market averages or a price quote",
+        "currency": "KRW",
+        "days": 7,
+        "nights": 6,
+        "people": 2,
+        "rows": [
+          {
+            "item": "Room",
+            "formula": "130000 × 6 nights ÷ 2 people",
+            "perPerson": 390000
+          },
+          {
+            "item": "Meals",
+            "formula": "30000 × 7",
+            "perPerson": 210000
+          },
+          {
+            "item": "City travel",
+            "formula": "8000 × 7",
+            "perPerson": 56000
+          },
+          {
+            "item": "Activities",
+            "formula": "15000 × 7",
+            "perPerson": 105000
+          },
+          {
+            "item": "Airport transport allowance",
+            "formula": "editable total",
+            "perPerson": 35000
+          }
+        ],
+        "subtotal": 796000,
+        "reserveRate": 0.1,
+        "totalPerPerson": 875600,
+        "excludes": [
+          "International flights",
+          "Intercity rail",
+          "Shopping"
+        ]
+      },
+      "doNotClaim": [
+        "Illustrative allowances are surveyed 2026 average prices.",
+        "Exchange rates remain fixed.",
+        "Passes always save money."
+      ]
+    },
+    {
+      "id": "plan-winter-packing",
+      "categoryId": "plan-your-trip",
+      "workingTitle": "What to Pack for Korea in Winter: City Days, Warm Rooms and Icy Paths",
+      "proposedSlug": "korea-winter-packing-checklist",
+      "reuse": {
+        "action": "new-url",
+        "existingPath": null,
+        "reason": "No close published article with the same task found; keep narrower related pages distinct."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "kto-climate",
+        "hanok-kto"
+      ],
+      "sections": [
+        {
+          "heading": "Pack for transitions, not just one temperature",
+          "points": [
+            "Plan a removable base/mid/outer layering system for exposed streets, warm public transport and heated interiors.",
+            "Seoul climate averages justify a cold-weather plan; Busan is milder on average but still requires trip-date weather checks.",
+            "Keep essential warm items in hand luggage if a delayed checked bag would leave the traveler unprepared."
+          ]
+        },
+        {
+          "heading": "Protect hands, feet and exposed skin",
+          "points": [
+            "Use gloves, scarf and a hat that work with the chosen coat; footwear should have traction rather than smooth fashion soles.",
+            "Pack spare socks and a method to separate wet footwear from clean clothing.",
+            "A small bag for wet umbrellas and reusable water container support a practical city day."
+          ]
+        },
+        {
+          "heading": "Match clothes to the actual itinerary",
+          "points": [
+            "Long palace grounds and coastal promenades need more exposure planning than short hotel-to-museum transfers.",
+            "For a ski or mountain excursion, follow the activity operator's equipment requirements; city shoes are not technical equipment.",
+            "For hanok accommodation, ask about bedding, bathroom access and indoor footwear rather than assuming a hotel layout."
+          ]
+        },
+        {
+          "heading": "Avoid overpacking with a small decision table",
+          "points": [
+            "Use a core list plus optional activity items, not an enormous universal shopping list.",
+            "A laundry-equipped stay can reduce quantities, but confirm drying arrangements before relying on it.",
+            "Choose layers that can be recombined; leave luggage room for return shopping instead of bringing duplicate bulky coats."
+          ]
+        },
+        {
+          "heading": "What to check in the final week",
+          "points": [
+            "Use the destination forecast and any transport/attraction warnings; a monthly average cannot establish ice or snow on the route.",
+            "Confirm the room's heating instructions and permitted drying arrangements with the hotel.",
+            "Keep medicines and health-specific packing decisions with the traveler's clinician and official advice; do not prescribe products."
+          ]
+        },
+        {
+          "heading": "Make a useful printable checklist",
+          "points": [
+            "Group by carry-on, suitcase, day bag and property questions so the reader can complete one section at a time.",
+            "Mark optional ski/hiking equipment separately from ordinary city travel.",
+            "Connect packing to the winter accommodation guide and indoor itinerary rather than sending the reader to unrelated shopping."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "checklist",
+      "tools": [
+        "visit-month-checklist"
+      ],
+      "relatedIds": [
+        "stay-winter",
+        "places-rain",
+        "stay-hanok"
+      ],
+      "checklist": [
+        "Removable thermal layers",
+        "Weather-resistant outer layer",
+        "Gloves, scarf and hat",
+        "Shoes with traction",
+        "Spare socks and wet-item bag",
+        "Essential items in carry-on",
+        "Forecast checked",
+        "Property heating/laundry questions answered"
+      ],
+      "doNotClaim": [
+        "Specific snowfall or universal freezing conditions.",
+        "Every hanok has controllable underfloor heating.",
+        "City packing advice replaces operator equipment requirements."
+      ]
+    },
+    {
+      "id": "plan-booking-checklist",
+      "categoryId": "plan-your-trip",
+      "workingTitle": "Korea Trip Booking Timeline: Eight Weeks to Arrival Day",
+      "proposedSlug": "korea-trip-booking-checklist-eight-weeks",
+      "reuse": {
+        "action": "new-url",
+        "existingPath": null,
+        "reason": "No close published article with the same task found; keep narrower related pages distinct."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "e-arrival",
+        "keta-2026",
+        "airport-transport",
+        "signiel-faq"
+      ],
+      "sections": [
+        {
+          "heading": "Eight weeks: settle the constraints",
+          "points": [
+            "Check passport/nationality/date requirements before nonrefundable commitments; note that authorization and arrival declaration differ.",
+            "Fix flight dates, usable nights, number of bases, mobility needs and party room requirements.",
+            "Make a shared list of must-book items and cancelable items with the person responsible for each."
+          ]
+        },
+        {
+          "heading": "Six weeks: choose a workable accommodation base",
+          "points": [
+            "Reserve a room whose actual occupancy and bedding fit the group, preferably with a cancellation deadline you understand.",
+            "Ask about late arrival, lifts, room type, crib/extra bed and accessible bathrooms where relevant.",
+            "Record cancellation timezone, total payable price and whether payment is taken now or at the hotel."
+          ]
+        },
+        {
+          "heading": "Four weeks: track priority bookings",
+          "points": [
+            "For a limited-capacity attraction, follow its official opening notice and calendar; do not invent a common Korea-wide release day.",
+            "Verify current rail booking rules from the live operator; late-2026 policy changes make old one-month advice unsafe.",
+            "Keep a fallback for each scarce booking, such as a daytime palace route or an untimed museum visit."
+          ]
+        },
+        {
+          "heading": "Two weeks: join the practical pieces",
+          "points": [
+            "Choose airport transfer and a backup, save Korean addresses and confirm arrival instructions.",
+            "Arrange appropriate connectivity and independent payment methods; check device compatibility with the provider.",
+            "Put bookings into a day-by-day board, leaving transfer and rest blocks visible."
+          ]
+        },
+        {
+          "heading": "Final week and three-day window",
+          "points": [
+            "Recheck forecasts, closure notices and any changed reservation messages.",
+            "If required, submit the free e-Arrival Card only within its official three-day KST window using the official website.",
+            "Share key confirmations and accommodation details offline with the travel party."
+          ]
+        },
+        {
+          "heading": "Arrival and during the trip",
+          "points": [
+            "Use actual terminal exit time to select transport; do not chase a missed final connection.",
+            "Notify the property using its published contact if arrival changes substantially.",
+            "Review next day's hours and weather each evening; the checklist is a changing plan, not a static certificate."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "timeline",
+      "tools": [
+        "visit-month-checklist",
+        "itinerary-board"
+      ],
+      "relatedIds": [
+        "plan-first-trip",
+        "transport-late-arrival",
+        "stay-family"
+      ],
+      "comparison": {
+        "columns": [
+          "When",
+          "Action",
+          "Evidence to retain"
+        ],
+        "rows": [
+          [
+            "8 weeks",
+            "Eligibility, dates, trip shape",
+            "Official eligibility link and checked date"
+          ],
+          [
+            "6 weeks",
+            "Room and base",
+            "Occupancy and cancellation confirmation"
+          ],
+          [
+            "4 weeks",
+            "Limited-capacity bookings",
+            "Operator calendar and fallback"
+          ],
+          [
+            "2 weeks",
+            "Airport, connectivity and payment",
+            "Saved route and Korean address"
+          ],
+          [
+            "3 days",
+            "Arrival declaration if required",
+            "Official submission record"
+          ],
+          [
+            "Arrival day",
+            "Choose live onward connection",
+            "Terminal and actual departure"
+          ]
+        ]
+      },
+      "doNotClaim": [
+        "Every rail product opens one or two months ahead.",
+        "All attractions release tickets on the same schedule.",
+        "e-Arrival Card must be completed weeks ahead."
+      ]
+    },
+    {
+      "id": "transport-airport",
+      "categoryId": "airports-transport",
+      "workingTitle": "Incheon Airport to Your Hotel: Train, Bus or Taxi?",
+      "proposedSlug": "airport-limousine-bus-vs-arex-express-train",
+      "reuse": {
+        "action": "rewrite-existing-url",
+        "existingPath": "content/posts/airport-limousine-bus-vs-arex-express-train.md",
+        "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "airport-transport",
+        "airport-rail-luggage",
+        "airport-taxi",
+        "seoul-climate"
+      ],
+      "sections": [
+        {
+          "heading": "Start with the hotel door and terminal",
+          "points": [
+            "Identify T1/T2 from the flight confirmation and verify it before departure; terminals have different stops and last services.",
+            "Save the hotel's Korean address, nearest usable station exit and any late check-in instructions.",
+            "Compare actual terminal-to-hotel journeys including transfers and walking, not only train speed."
+          ]
+        },
+        {
+          "heading": "Use rail when the full chain is convenient",
+          "points": [
+            "Check the live airport railroad service and exact timetable rather than assume every train serves every stop.",
+            "A central arrival station is not the hotel: verify the onward subway's final service, lifts and luggage walk.",
+            "Distinguish reserved/direct and stopping services using operator names and current booking conditions after they are verified."
+          ]
+        },
+        {
+          "heading": "Use a limousine bus when the stop fits",
+          "points": [
+            "Search the official airport route listing by destination and terminal; map the stop to the hotel.",
+            "Bus convenience can outweigh a slightly longer ride when it avoids stairs and transfers.",
+            "Allow road-traffic uncertainty and verify bag policy, fare and last departure on the actual route."
+          ]
+        },
+        {
+          "heading": "Use authorized taxi service for the right problem",
+          "points": [
+            "Consider a taxi for multiple bags, reduced mobility, a difficult final mile or arrivals after public transport.",
+            "Confirm passenger/bag capacity and destination before joining a vehicle; a larger party may require a larger category.",
+            "Show the official stand and tariff source; a base fare is not a fixed airport transfer quote, and toll/night conditions matter."
+          ]
+        },
+        {
+          "heading": "Handle the Climate Card airport exception accurately",
+          "points": [
+            "A visitor cannot use Climate Card to board at Incheon Airport even though covered journeys can end there.",
+            "Do not include the inbound airport journey among eligible rides in the pass savings calculation.",
+            "A pay-as-you-go/other airport ticket and a city pass can coexist; one product need not solve the whole trip."
+          ]
+        },
+        {
+          "heading": "Keep a backup that reaches the actual hotel",
+          "points": [
+            "If the final train is missed, look up the terminal-specific night bus or authorized taxi rather than a generic Seoul list.",
+            "If a night bus drops at a hub, verify the onward walk/taxi and hotel desk availability.",
+            "Let the selector return a main option plus the reason and one feasible fallback, with a checked-date label."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "comparison",
+      "tools": [
+        "airport-transfer-selector"
+      ],
+      "relatedIds": [
+        "transport-late-arrival",
+        "stay-seoul",
+        "transport-passes"
+      ],
+      "comparison": {
+        "columns": [
+          "Option",
+          "Best fit",
+          "What can break the journey"
+        ],
+        "rows": [
+          [
+            "Rail",
+            "Hotel with a simple station connection",
+            "Final subway missed; stairs and final walk"
+          ],
+          [
+            "Limousine bus",
+            "Useful hotel-area stop and larger bags",
+            "Traffic, route-specific schedule and bag policy"
+          ],
+          [
+            "Authorized taxi",
+            "Late arrival, mobility or difficult final mile",
+            "Vehicle capacity, night/toll costs"
+          ],
+          [
+            "Night bus + final-mile taxi",
+            "Suitable overnight hub route",
+            "Terminal difference and hotel late check-in"
+          ]
+        ]
+      },
+      "doNotClaim": [
+        "A single airport-to-Seoul fare or duration applies to every hotel.",
+        "Climate Card covers inbound boarding at Incheon.",
+        "A rail arrival before midnight guarantees an onward subway."
+      ]
+    },
+    {
+      "id": "transport-late-arrival",
+      "categoryId": "airports-transport",
+      "workingTitle": "Landing Late at Incheon: A Hotel-Arrival Plan That Survives Delays",
+      "proposedSlug": "incheon-airport-late-night-arrival-guide",
+      "reuse": {
+        "action": "new-url",
+        "existingPath": null,
+        "reason": "No close published article with the same task found; keep narrower related pages distinct."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "airport-late-t1",
+        "airport-transport",
+        "airport-taxi",
+        "airport-facilities"
+      ],
+      "sections": [
+        {
+          "heading": "Judge by terminal exit time, not landing time",
+          "points": [
+            "Immigration, baggage, connectivity and finding the stop happen after landing; do not present a scheduled landing as transport-ready time.",
+            "Build a main option and fallback before departure, then choose after the actual terminal exit.",
+            "Confirm hotel late check-in or self-entry instructions before the flight; transport alone does not solve a locked reception."
+          ]
+        },
+        {
+          "heading": "Choose the correct terminal's night network",
+          "points": [
+            "The verified T1 route list is not a T2 timetable; show a terminal selector and direct users to the exact official result.",
+            "Useful T1 destination groups include Gangnam, Hongdae/Cheongnyangni, Seoul Station/DDP and COEX/Jamsil.",
+            "For each route show destination hub and last mile rather than an unsupported promise of hotel-door service."
+          ]
+        },
+        {
+          "heading": "Check the last mile at night",
+          "points": [
+            "A major station may have no useful onward subway by the time the bus arrives.",
+            "Compare the remaining walk with luggage, weather and mobility; arrange an authorized taxi when that walk is unsuitable.",
+            "Save the hotel address and contact offline, plus the stop's Korean name for driver communication."
+          ]
+        },
+        {
+          "heading": "Know when taxi is the practical answer",
+          "points": [
+            "Use the official taxi rank; do not follow unsolicited private transport offers inside or outside arrivals.",
+            "Confirm the vehicle handles people and bags before committing; ordinary taxi capacity is not a large-family guarantee.",
+            "Night tariffs and tolls can change the total; link official current rates and avoid a false fixed estimate."
+          ]
+        },
+        {
+          "heading": "When staying near the airport makes sense",
+          "points": [
+            "If immigration/arrival uncertainty and early onward travel make the city transfer impractical, compare an airport-area overnight stay.",
+            "Check whether the property shuttle is actually operating at the arrival time and whether it serves the correct terminal.",
+            "Distinguish public-landside rooms from transit-only accommodation; access depends on immigration/flight situation and must be verified with the property."
+          ]
+        },
+        {
+          "heading": "Turn it into a one-screen arrival card",
+          "points": [
+            "Show terminal, primary route, last-mile plan, fallback, hotel Korean address and late check-in confirmation.",
+            "Do not embed an unmaintained minute-by-minute table as if live; link the official terminal-specific timetable.",
+            "Include a reminder to update the plan for a changed flight instead of leaving an expired ticket screenshot as the answer."
+          ]
+        }
+      ],
+      "reviewDays": 30,
+      "format": "problem-solving",
+      "tools": [
+        "airport-transfer-selector"
+      ],
+      "relatedIds": [
+        "transport-airport",
+        "stay-winter",
+        "plan-first-trip"
+      ],
+      "checklist": [
+        "Terminal confirmed",
+        "Hotel late check-in accepted",
+        "Actual exit time compared with service",
+        "Night-bus destination matches hotel side",
+        "Last-mile route saved",
+        "Authorized-taxi backup",
+        "Phone charged and Korean address offline"
+      ],
+      "doNotClaim": [
+        "Night buses run all night at equal frequency.",
+        "T1 and T2 departures are interchangeable.",
+        "Every airport hotel has a 24-hour free shuttle."
+      ]
+    },
+    {
+      "id": "transport-passes",
+      "categoryId": "airports-transport",
+      "workingTitle": "Climate Card or Pay-As-You-Go? Compare Your Actual Korea Rides",
+      "proposedSlug": "seoul-transit-climate-card-vs-tmoney-2026",
+      "reuse": {
+        "action": "rewrite-existing-url",
+        "existingPath": "content/deep-dive/seoul-transit-climate-card-vs-tmoney-2026.md",
+        "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "seoul-climate"
+      ],
+      "sections": [
+        {
+          "heading": "Separate a stored-value card from a time pass",
+          "points": [
+            "Explain the task difference: paying for each eligible journey versus buying a fixed short-term coverage period.",
+            "A payment card balance, a transit balance and a transport pass are not interchangeable product benefits.",
+            "A Seoul pass is not a national rail or Busan pass; add uncovered journeys separately."
+          ]
+        },
+        {
+          "heading": "Correct the late-2026 product situation",
+          "points": [
+            "Use the source registry's current short-term list and resident-product restriction; remove 30-day tourist recommendations.",
+            "Do not recommend resident registration-based benefits to a short-term visitor without the required eligibility.",
+            "Older existing 30-day and branded-card comparison articles need manual audit before linking prominently."
+          ]
+        },
+        {
+          "heading": "Check the route before doing arithmetic",
+          "points": [
+            "Ask where the traveler will board/alight and which bus operator runs the service.",
+            "Airport inbound, Sinbundang, GTX and intercity journeys cannot be smuggled into eligible savings.",
+            "A route crossing the city boundary needs the current station exception list rather than a simple color-coded Seoul map."
+          ]
+        },
+        {
+          "heading": "Calculate the break-even transparently",
+          "points": [
+            "Compare sum of otherwise-payable eligible fares with pass cost plus a new card when needed.",
+            "Use user-entered base fare and trips instead of asserting a current fare that was not verified in this research.",
+            "A missed journey or out-of-coverage day should reduce expected savings; show a range when usage is uncertain."
+          ]
+        },
+        {
+          "heading": "Explain timing and practical use",
+          "points": [
+            "Short-term recharge starts the period that day; it is not an advance purchase or a rolling hourly timer.",
+            "Keep purchase, recharge and mobile-payment compatibility separate, particularly for foreign phones/cards.",
+            "Show tap-in/tap-out reminders and current refund conditions by official link rather than promise full refunds."
+          ]
+        },
+        {
+          "heading": "Make a traveler-specific recommendation",
+          "points": [
+            "Return covered total, excluded journeys, card cost and an explicit explanation such as 'mostly walking, few eligible rides'.",
+            "If savings are small, explain the convenience tradeoff without claiming all users should buy a pass.",
+            "Link to the airport guide, Seoul route and Suwon day trip so geographic exceptions stay visible."
+          ]
+        }
+      ],
+      "reviewDays": 30,
+      "format": "comparison",
+      "tools": [
+        "transit-pass-comparison"
+      ],
+      "relatedIds": [
+        "transport-airport",
+        "places-seoul",
+        "places-suwon"
+      ],
+      "comparison": {
+        "columns": [
+          "Decision input",
+          "Why it matters"
+        ],
+        "rows": [
+          [
+            "Eligible station pairs and bus operators",
+            "Coverage precedes price"
+          ],
+          [
+            "Service days remaining",
+            "Recharge starts immediately"
+          ],
+          [
+            "Expected eligible journeys",
+            "Walking days may not justify a pass"
+          ],
+          [
+            "New physical card needed",
+            "Add KRW 3,000 card cost"
+          ],
+          [
+            "Uncovered airport/intercity journeys",
+            "Keep them outside the savings total"
+          ]
+        ]
+      },
+      "duplicateAuditCandidates": [
+        "climate-card-is-it-worth-it-for-30-days-2026",
+        "public-transport-fares-and-transfers-2026",
+        "t-money-vs-wowpass-vs-namane-a-data-backed-comparison-of-the-best-tourist-cards-in-2026",
+        "wowpass-vs-namane-comparison-2026"
+      ],
+      "doNotClaim": [
+        "30-day prepaid Climate Card is still a current tourist option.",
+        "Airport inbound is covered.",
+        "A branded prepaid payment card always has cheaper transit fares."
+      ]
+    },
+    {
+      "id": "transport-ktx",
+      "categoryId": "airports-transport",
+      "workingTitle": "Booking and Boarding Korea's High-Speed Trains as an Overseas Visitor",
+      "proposedSlug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+      "reuse": {
+        "action": "rewrite-existing-url",
+        "existingPath": "content/posts/ktx-vs-srt-high-speed-train-comparison-and-booking.md",
+        "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "airport-rail-luggage"
+      ],
+      "sections": [
+        {
+          "heading": "Replace the old brand-versus-brand premise",
+          "points": [
+            "Use the existing URL for the foreign-traveler task and rewrite the title; policy/app integration in 2026 makes static old comparisons risky.",
+            "Explain origin station, destination, date, passenger types and train service before brand logos.",
+            "Do not make a current booking-window, app-language or international-card assertion until the live official operator flow is verified."
+          ]
+        },
+        {
+          "heading": "Search by the station you will actually use",
+          "points": [
+            "Seoul-area terminal choice affects hotel-to-station time; copy the booked departure station, not a generic 'Seoul train' label.",
+            "For a Busan trip, arrange the rail arrival and hotel neighborhood as one chain.",
+            "Check train number, date and destination station before payment; preserve confirmation and receipt offline."
+          ]
+        },
+        {
+          "heading": "Keep reservation, pass and boarding documents distinct",
+          "points": [
+            "A pass is not automatically a reserved seat; verify that product's reservation process and train eligibility independently.",
+            "Read current name/document and ticket-display requirements from the operator rather than assume a screenshot or passport field behavior.",
+            "Do not transfer a regular-ticket release window to rail-pass seat reservations."
+          ]
+        },
+        {
+          "heading": "Prepare for boarding without an invented procedure",
+          "points": [
+            "Leave a personal buffer for reaching the actual platform with bags; suggested buffer is an editorial planning choice, not an official cutoff.",
+            "Follow station displays and the ticket's train/car/seat details; a similar departure time is not enough.",
+            "For assistance or accessible seating, contact the operator before traveling and retain confirmation."
+          ]
+        },
+        {
+          "heading": "Make luggage manageable",
+          "points": [
+            "Bring bags that the traveler can lift and keep within the booked service's published limits; limits still need official verification.",
+            "Plan how the bag will be supervised and avoid blocking doors, aisles or other seats.",
+            "Link the existing luggage-specific companion once its exact dimensions/rules are rechecked; don't duplicate unsupported numbers."
+          ]
+        },
+        {
+          "heading": "Handle changes and missed trains",
+          "points": [
+            "Save the official change/refund link with the booking and read conditions before buying.",
+            "If travel plans change, contact official support rather than assume the ticket works on the next departure.",
+            "Keep a flexible first Busan activity so one disrupted train does not lose an expensive timed booking."
+          ]
+        }
+      ],
+      "reviewDays": 30,
+      "format": "step-by-step",
+      "tools": [
+        "itinerary-board"
+      ],
+      "relatedIds": [
+        "stay-busan",
+        "places-busan",
+        "transport-luggage"
+      ],
+      "publicationBlockers": [
+        "Full Korail/MOLIT pages must be accessed for exact current booking window, app publisher/name, card handling and pass eligibility. Current research saw search snippets but official opens failed.",
+        "Verify service-specific luggage dimensions and boarding-document requirements before quoting any."
+      ],
+      "relatedExistingSlugs": [
+        "ktx-seat-and-luggage-guide-for-international-travelers"
+      ],
+      "doNotClaim": [
+        "Tickets universally open one month ahead.",
+        "Every rail pass works on every high-speed service.",
+        "KTX and SRT must still be booked through separate unchanged apps.",
+        "A live fare, bag allowance or refund percentage from inaccessible cached pages."
+      ]
+    },
+    {
+      "id": "transport-luggage",
+      "categoryId": "airports-transport",
+      "workingTitle": "Where to Leave Luggage in Seoul and at Incheon Airport",
+      "proposedSlug": "luggage-storage-in-seoul-and-incheon-airport",
+      "reuse": {
+        "action": "new-url",
+        "existingPath": null,
+        "reason": "No close published article with the same task found; keep narrower related pages distinct."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "airport-rail-luggage",
+        "airport-facilities"
+      ],
+      "sections": [
+        {
+          "heading": "Choose storage versus delivery first",
+          "points": [
+            "Storage returns the bag to the same point; delivery adds deadlines, destination acceptance and delivery timing.",
+            "For a sightseeing day between hotels, choose pickup location before choosing the cheapest locker.",
+            "Do not make the reader cross the city twice just to reclaim a bag."
+          ]
+        },
+        {
+          "heading": "Use the right type of service",
+          "points": [
+            "Compare hotel hold, staffed station counter, unmanned locker and airport provider by operating window, bag size and pickup path.",
+            "Ask the hotel whether it accepts pre-check-in/post-checkout storage and whether it takes responsibility for valuables.",
+            "A locker with available small spaces is not evidence that a large suitcase will fit."
+          ]
+        },
+        {
+          "heading": "Understand station-to-airport delivery conditions",
+          "points": [
+            "T-Luggage's official airport guide requires a staffed counter at at least one end; do not promise locker-to-locker delivery.",
+            "Check current booking cutoff, flight terminal and airline check-in time against delivery arrival.",
+            "Do not put passports, medication, cash, batteries restricted by provider rules or same-day essentials in a dispatched bag without checking terms."
+          ]
+        },
+        {
+          "heading": "Locate the counter precisely",
+          "points": [
+            "Use station level, corridor/exit reference and a Korean place name alongside the map.",
+            "The airport amenities directory must be filtered for terminal and date because old Hanjin notices have conflicting locations/hours.",
+            "Confirm the right side of security and whether a transit passenger can reach a landside provider."
+          ]
+        },
+        {
+          "heading": "Build a pickup-safe itinerary",
+          "points": [
+            "Work backwards from counter close and flight check-in rather than squeezing one more attraction into the route.",
+            "Save claim ticket, provider contact and pickup instructions offline.",
+            "If pickup is delayed, contact the provider before closing; do not assume unattended overnight access."
+          ]
+        },
+        {
+          "heading": "Show a practical comparison instead of unsupported prices",
+          "points": [
+            "Display current provider links, required size/time inputs and the source checked date; don't freeze an unverified locker tariff.",
+            "Use a checklist for valuables, cutoff, pickup location and flight terminal.",
+            "Connect luggage storage to the Seongsu/Busan routes only when its placement actually saves a detour."
+          ]
+        }
+      ],
+      "reviewDays": 30,
+      "format": "choice-guide",
+      "tools": [
+        "itinerary-board"
+      ],
+      "relatedIds": [
+        "transport-ktx",
+        "transport-airport",
+        "places-seongsu"
+      ],
+      "comparison": {
+        "columns": [
+          "Option",
+          "Best question to ask"
+        ],
+        "rows": [
+          [
+            "Hotel hold",
+            "Can I collect after checkout at my actual departure time?"
+          ],
+          [
+            "Station locker",
+            "Will my dimensions fit, and when can I access it?"
+          ],
+          [
+            "Staffed counter",
+            "What is the final same-day pickup time?"
+          ],
+          [
+            "Airport delivery",
+            "When will it arrive, and at which terminal/counter?"
+          ]
+        ]
+      },
+      "doNotClaim": [
+        "All lockers take every suitcase or payment card.",
+        "Every airport storage counter is 24 hours.",
+        "Station-to-airport delivery is instant or always same-day."
+      ]
+    },
+    {
+      "id": "stay-seoul",
+      "categoryId": "where-to-stay",
+      "workingTitle": "Where to Stay in Seoul: Match Your Base to Your Actual Days",
+      "proposedSlug": "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style",
+      "reuse": {
+        "action": "rewrite-existing-url",
+        "existingPath": "content/deep-dive/seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style.md",
+        "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "visitseoul-districts",
+        "visitseoul-accommodation",
+        "airport-transport"
+      ],
+      "sections": [
+        {
+          "heading": "Choose the daily route before the room",
+          "points": [
+            "Mark the three places you care about, the arrival airport and any intercity departure station.",
+            "Compare complete days from hotel door to first attraction and back; a station with many lines can still have a long exit walk.",
+            "For a short trip, a convenient one-base stay often beats changing hotels to sample districts."
+          ]
+        },
+        {
+          "heading": "Compare four useful base types",
+          "points": [
+            "Jongno/Anguk is an editorial fit for a historic-center-heavy itinerary; check exact property access and residential setting.",
+            "Myeongdong/Jung suits central shopping and a central-city base; hotel-to-station slope and entrance still matter.",
+            "Hongdae/Mapo suits an itinerary focused on the west-side youth/café area and an airport-rail connection where applicable.",
+            "Gangnam is an option when the actual schedule is south/east-oriented; don't portray it as equally close to every palace."
+          ]
+        },
+        {
+          "heading": "Inspect the last 500 meters",
+          "points": [
+            "Map the actual entrance, not only the postal address; ask about stairs, lifts, slopes and construction.",
+            "Check late-night arrival, luggage and mobility requirements with the property rather than infer them from an area label.",
+            "A main-road room and a side-street room can have different noise even in the same district."
+          ]
+        },
+        {
+          "heading": "Compare the room you will book",
+          "points": [
+            "Confirm occupancy, bed arrangement, private bathroom, total charge and cancellation deadline.",
+            "For winter, check room-specific heating instructions; for family travelers, check age/crib/extra-bed rules.",
+            "Treat map stars, hotel name and neighborhood popularity as incomplete evidence of suitability."
+          ]
+        },
+        {
+          "heading": "Use a compact decision worksheet",
+          "points": [
+            "Score only reader-selected needs such as simple airport connection, heritage walk, nightlife distance or lift access.",
+            "Avoid fabricated safety rankings and exact travel times; provide official map links for the actual hour.",
+            "Make 'I don't know yet' an acceptable answer leading to a central flexible shortlist."
+          ]
+        },
+        {
+          "heading": "Connect the base to the first full day",
+          "points": [
+            "Show a nearby starter route and an indoor backup rather than a generic list of ten attractions.",
+            "Link airport transfer, the three-day plan and the relevant food guide so choosing a room unlocks useful next steps.",
+            "Explain recommendation reasons and do not fill related cards with expat housing content."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "comparison",
+      "tools": [
+        "airport-transfer-selector",
+        "itinerary-board"
+      ],
+      "relatedIds": [
+        "places-seoul",
+        "transport-airport",
+        "stay-family"
+      ],
+      "comparison": {
+        "columns": [
+          "Base type",
+          "Priorities it can suit",
+          "Check before booking"
+        ],
+        "rows": [
+          [
+            "Jongno / Anguk",
+            "Palaces and historic-center walks",
+            "Residential rules, entrance and bedding"
+          ],
+          [
+            "Myeongdong / central Jung",
+            "Central shopping and mixed sightseeing",
+            "Slope, noise and station exit"
+          ],
+          [
+            "Hongdae / Mapo",
+            "West-side cafés, evening area and rail access",
+            "Exact airport service and room noise"
+          ],
+          [
+            "Gangnam / south-east base",
+            "A south/east-centered itinerary",
+            "Actual cross-city journey on sightseeing days"
+          ]
+        ]
+      },
+      "doNotClaim": [
+        "One neighborhood is safest or best for everyone.",
+        "Every hotel beside a station has step-free access.",
+        "Expat residential advice has identical short-trip intent."
+      ]
+    },
+    {
+      "id": "stay-busan",
+      "categoryId": "where-to-stay",
+      "workingTitle": "Where to Stay in Busan: Seomyeon, Nampo or Haeundae?",
+      "proposedSlug": "where-to-stay-in-busan-neighborhoods",
+      "reuse": {
+        "action": "new-url",
+        "existingPath": null,
+        "reason": "No close published article with the same task found; keep narrower related pages distinct."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "seomyeon-shopping",
+        "nampo-shopping",
+        "dongbaek",
+        "kto-shopping"
+      ],
+      "sections": [
+        {
+          "heading": "Busan is a base-choice problem",
+          "points": [
+            "Separate the old port, central interchange area and eastern beach before booking.",
+            "For two days, choose a base that supports two geographic clusters rather than changing hotels midway.",
+            "The best area depends on the first/last train and evening priorities, not a universal first-place ranking."
+          ]
+        },
+        {
+          "heading": "Seomyeon: central-city flexibility",
+          "points": [
+            "Use official evidence that Seomyeon connects Lines 1 and 2; this supports a mixed west/east itinerary.",
+            "The underground shopping cluster and evening city setting are reasons to consider it, not a guarantee of a quiet room.",
+            "Ask about the station exit, lift route and noise at the exact hotel."
+          ]
+        },
+        {
+          "heading": "Nampo: old-port walking priorities",
+          "points": [
+            "Official Nampo corridor connects the Jagalchi/Nampo station area near old-port markets.",
+            "A visitor prioritizing markets and old-city exploration can reduce repeated old-port trips from this base.",
+            "Do not imply the east coast is next door; check a live route for Haeundae day and return."
+          ]
+        },
+        {
+          "heading": "Haeundae: beach time as the point of the stay",
+          "points": [
+            "Official Dongbaek evidence anchors the beach-side park option; choose this base when coastal mornings/evenings matter.",
+            "Compare actual hotel-to-beach access with hotel-to-station access; a sea-view name is not a short walk guarantee.",
+            "Make inland/old-port excursions separate plans and keep windy or wet-coast alternatives."
+          ]
+        },
+        {
+          "heading": "A late or early KTX can change the answer",
+          "points": [
+            "A station-area overnight may be practical for an awkward arrival/departure, but verify the exact booked rail terminal.",
+            "Check luggage hold and hotel arrival desk before buying the room.",
+            "Avoid publishing unsupported 15/20/30-minute district times; route conditions and starting exits differ."
+          ]
+        },
+        {
+          "heading": "Use the base in a two-day plan",
+          "points": [
+            "Show old-port day and Haeundae/Dongbaek day with one optional stop per cluster.",
+            "For families or mobility needs, prioritize transfer complexity and the final walk over headline room price.",
+            "Link to rail booking, luggage storage and the car-free itinerary with a sentence explaining the connection."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "comparison",
+      "tools": [
+        "itinerary-board"
+      ],
+      "relatedIds": [
+        "places-busan",
+        "transport-ktx",
+        "transport-luggage"
+      ],
+      "comparison": {
+        "columns": [
+          "Area",
+          "A useful fit",
+          "Tradeoff to check"
+        ],
+        "rows": [
+          [
+            "Seomyeon",
+            "Both west/old-port and eastern activities",
+            "Busy setting and exact station exit"
+          ],
+          [
+            "Nampo",
+            "Old-port markets and central walking",
+            "East-coast transfer time"
+          ],
+          [
+            "Haeundae",
+            "Beach mornings/evenings",
+            "Station walk and old-port day"
+          ],
+          [
+            "Busan Station area",
+            "Awkward rail arrival/departure",
+            "Actual sightseeing and evening priorities"
+          ]
+        ]
+      },
+      "doNotClaim": [
+        "A hotel area has a universal exact journey time.",
+        "Haeundae beach means every hotel is beachfront.",
+        "Seomyeon shopping hours apply to all nearby businesses."
+      ]
+    },
+    {
+      "id": "stay-family",
+      "categoryId": "where-to-stay",
+      "workingTitle": "Booking a Family Room in Korea: Occupancy, Beds and Everyday Details",
+      "proposedSlug": "booking-family-hotel-rooms-in-korea",
+      "reuse": {
+        "action": "new-url",
+        "existingPath": null,
+        "reason": "No close published article with the same task found; keep narrower related pages distinct."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "signiel-faq",
+        "lotte-family"
+      ],
+      "sections": [
+        {
+          "heading": "Do not book from the word family",
+          "points": [
+            "Count every adult and child with ages; then compare the room's explicit occupancy limit.",
+            "A room advertised as family may allow only three people, as the direct operator example shows.",
+            "Distinguish maximum guests from bed size and ask whether an infant counts toward the room limit."
+          ]
+        },
+        {
+          "heading": "Confirm where each person sleeps",
+          "points": [
+            "Ask for the number/type of fixed beds and whether an extra person actually receives bedding.",
+            "Extra-person fees, extra beds, floor bedding, cribs and bed rails are separate questions.",
+            "Confirm limited equipment in writing before relying on it; a request is not a guaranteed reservation."
+          ]
+        },
+        {
+          "heading": "Make washing, food and bath time practical",
+          "points": [
+            "If laundry matters, verify washer and drying method at room level; a property amenity can mean a shared service.",
+            "A microwave/fridge does not automatically permit cooking; follow the property's stated restrictions.",
+            "Check bathtub/shower layout, non-slip needs, bathroom privacy and space for baby equipment."
+          ]
+        },
+        {
+          "heading": "Connecting rooms and accessibility",
+          "points": [
+            "Check whether connecting rooms exist and can be confirmed; adjacent requests do not create an internal door.",
+            "Ask about elevator access, entrance steps, stroller storage and room door/bathroom width when needed.",
+            "Give mobility requirements concretely; 'family-friendly' is too vague to verify a usable room."
+          ]
+        },
+        {
+          "heading": "Compare total booking conditions",
+          "points": [
+            "Include adult/child breakfast rules, taxes, bedding and equipment fees in the final price.",
+            "Read cancellation deadline and no-show terms in the property's timezone.",
+            "Ask what happens if the requested room/equipment is unavailable rather than treating a booking-site icon as a promise."
+          ]
+        },
+        {
+          "heading": "Send one specific pre-booking message",
+          "points": [
+            "Provide dates, all ages, preferred beds, crib/rail requirement, arrival time and any access needs.",
+            "Request written confirmation of maximum occupancy, confirmed sleeping surfaces and final price.",
+            "Save the response with the reservation and reconnect to the airport-transfer and neighborhood guide."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "checklist",
+      "tools": [
+        "trip-budget-planner"
+      ],
+      "relatedIds": [
+        "stay-seoul",
+        "stay-busan",
+        "transport-airport"
+      ],
+      "checklist": [
+        "All travelers and child ages entered",
+        "Room-level occupancy accepted",
+        "Sleeping place for each traveler",
+        "Extra bed/crib/rail confirmed",
+        "Bathroom and access requirements answered",
+        "Laundry/cooking restrictions understood",
+        "Total price and cancellation deadline saved"
+      ],
+      "doNotClaim": [
+        "Children always stay free.",
+        "Family twin rooms necessarily fit four.",
+        "Requested crib or connecting room is guaranteed.",
+        "An extra-person fee includes an extra bed."
+      ]
+    },
+    {
+      "id": "stay-hanok",
+      "categoryId": "where-to-stay",
+      "workingTitle": "Before Booking a Hanok Stay: Heating, Bedding, Bathrooms and Quiet Streets",
+      "proposedSlug": "hanok-stay-booking-checklist",
+      "reuse": {
+        "action": "new-url",
+        "existingPath": null,
+        "reason": "No close published article with the same task found; keep narrower related pages distinct."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "hanok-kto",
+        "visitseoul-accommodation"
+      ],
+      "sections": [
+        {
+          "heading": "Choose the experience with the physical needs visible",
+          "points": [
+            "Hanok is a building/accommodation style, not a uniform hotel specification.",
+            "Ask whether the actual room uses floor bedding or a bed and whether sitting/rising from the floor is comfortable for the group.",
+            "Treat courtyard, steps and bathroom paths as booking criteria, especially for cold or wet dates."
+          ]
+        },
+        {
+          "heading": "Ask about room heating",
+          "points": [
+            "Confirm what heats the room, who controls it and how to contact staff if it is uncomfortable.",
+            "Do not turn traditional-floor-heating descriptions into a promise of individual control at every property.",
+            "Ask for permitted practices around drying clothes and portable heating; follow fire restrictions in wooden buildings."
+          ]
+        },
+        {
+          "heading": "Know the bathroom arrangement before paying",
+          "points": [
+            "Ask whether the bathroom is private, ensuite or reached across an outdoor/shared area.",
+            "Check shower/toilet separation, hot-water instructions and nighttime access.",
+            "For mobility needs, request concrete step/door/bathroom information rather than an unverified accessible label."
+          ]
+        },
+        {
+          "heading": "Plan luggage, arrival and sleep",
+          "points": [
+            "Check reception/check-in hours, luggage drop, entrance directions and whether a taxi can stop at the door.",
+            "Confirm bedding quantities, quiet hours and sound expectations; historic structure descriptions do not prove sound insulation.",
+            "Keep a compact overnight bag if the main suitcase would be difficult through narrow steps/courtyards."
+          ]
+        },
+        {
+          "heading": "Be a considerate guest in a residential area",
+          "points": [
+            "Use the property's arrival route and published local rules; avoid private doorways and late-night noise.",
+            "Ask permission for photographs involving staff, guests or private interiors.",
+            "Do not treat a village street as an open-air hotel lobby or assume all hanok façades are visitor attractions."
+          ]
+        },
+        {
+          "heading": "Create a fair decision",
+          "points": [
+            "Offer a one-night experience as an option when floor comfort or location is uncertain, rather than pressuring a whole-trip booking.",
+            "Compare actual hotel alternatives using the same occupancy, bathroom and cancellation checklist.",
+            "Use a real licensed property photograph only when permission is documented; generic generated hanok scenes cannot show the booked room."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "booking-guide",
+      "tools": [
+        "itinerary-board"
+      ],
+      "relatedIds": [
+        "stay-winter",
+        "stay-family",
+        "stay-seoul"
+      ],
+      "checklist": [
+        "Bed or floor bedding confirmed",
+        "Heating controls and assistance confirmed",
+        "Private/ensuite bathroom route confirmed",
+        "Steps and luggage access checked",
+        "Check-in and quiet hours saved",
+        "Fire/drying rules understood"
+      ],
+      "doNotClaim": [
+        "Every hanok has a private bathroom.",
+        "All rooms have guest-controlled ondol.",
+        "Traditional means quiet, warm or step-free.",
+        "Medical-recovery hanok advice serves the same travel task."
+      ]
+    },
+    {
+      "id": "stay-winter",
+      "categoryId": "where-to-stay",
+      "workingTitle": "Choosing a Winter Stay in Korea: Warm Rooms and Simple Daily Routes",
+      "proposedSlug": "choosing-winter-accommodation-in-korea",
+      "reuse": {
+        "action": "new-url",
+        "existingPath": null,
+        "reason": "No close published article with the same task found; keep narrower related pages distinct."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "kto-climate",
+        "hanok-kto",
+        "signiel-faq",
+        "lotte-family"
+      ],
+      "sections": [
+        {
+          "heading": "Judge the whole winter day",
+          "points": [
+            "A room's location determines repeated exposed walks; compare the route from hotel entrance to transit with bags and winter clothing.",
+            "Prioritize nearby food and a manageable indoor fallback, especially after a late arrival.",
+            "Do not rank accommodation by outdoor minimum temperature alone; the actual room and daily routine matter."
+          ]
+        },
+        {
+          "heading": "Ask room-specific heating questions",
+          "points": [
+            "Check whether the room has individual temperature control or a central system and obtain operating instructions.",
+            "Ask what staff support is available if the room feels too hot/cold; never advise travelers to adjust building plumbing or boiler valves.",
+            "Confirm bedding and spare blankets for every traveler before treating the room as suitable."
+          ]
+        },
+        {
+          "heading": "Handle wet gear and laundry safely",
+          "points": [
+            "Ask where wet coats/shoes may dry and whether laundry includes a dryer.",
+            "Do not use unapproved heaters or cover heating equipment; follow property fire rules.",
+            "Check ventilation instructions rather than giving universal technical advice about windows, condensation or thermostat settings."
+          ]
+        },
+        {
+          "heading": "Bathrooms and cold courtyards",
+          "points": [
+            "For hanok/guesthouse stays, establish whether a bathroom route crosses outdoors and whether stairs become exposed.",
+            "Check hot-water use instructions and who to contact for a problem.",
+            "For families or reduced mobility, concrete indoor access can matter more than an appealing traditional photo."
+          ]
+        },
+        {
+          "heading": "Arrival and departure resilience",
+          "points": [
+            "Confirm late check-in, luggage hold and whether a claimed shuttle runs at the travel time.",
+            "Keep warm essentials accessible during an overnight arrival rather than in a checked suitcase.",
+            "Save the Korean address and an indoor waiting alternative if reception is not immediately available."
+          ]
+        },
+        {
+          "heading": "Compare offers using a short scorecard",
+          "points": [
+            "Compare transit walk, heating clarity, sleeping arrangement, bathroom route, laundry drying, desk hours and cancellation flexibility.",
+            "Treat missing answers as questions to resolve, not as proof a property is poor.",
+            "Link directly to the winter packing list and indoor itinerary to help the reader plan usable days."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "comparison",
+      "tools": [
+        "visit-month-checklist"
+      ],
+      "relatedIds": [
+        "plan-winter-packing",
+        "stay-hanok",
+        "places-rain"
+      ],
+      "comparison": {
+        "columns": [
+          "Criterion",
+          "Question for the property"
+        ],
+        "rows": [
+          [
+            "Heating",
+            "Can the actual room temperature be adjusted, and how?"
+          ],
+          [
+            "Bedding",
+            "What sleeping surface and blankets does each guest receive?"
+          ],
+          [
+            "Bath access",
+            "Is it ensuite with an entirely indoor route?"
+          ],
+          [
+            "Wet clothes",
+            "Where can coats/shoes dry safely?"
+          ],
+          [
+            "Transit",
+            "Which entrance/exit gives the simplest walk?"
+          ],
+          [
+            "Arrival",
+            "What happens if my flight is delayed?"
+          ]
+        ]
+      },
+      "doNotClaim": [
+        "All Korean hotels are overheated or uniformly well heated.",
+        "Portable heaters or boiler adjustments are safe universally.",
+        "A hotel laundry icon includes in-room drying."
+      ]
+    },
+    {
+      "id": "places-seoul",
+      "categoryId": "places-itineraries",
+      "workingTitle": "Three Days in Seoul: A First-Visit Route with Weather Backups",
+      "proposedSlug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+      "reuse": {
+        "action": "rewrite-existing-url",
+        "existingPath": "content/posts/seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026.md",
+        "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "visitseoul-districts",
+        "craft-museum",
+        "national-museum",
+        "seoul-forest"
+      ],
+      "sections": [
+        {
+          "heading": "Set the pace before choosing stops",
+          "points": [
+            "Assume three full days, not an international arrival day plus two days; hotel base and walking tolerance must be visible.",
+            "Use one main geographic cluster per day, a meal/rest window and at most one optional extension.",
+            "List reserved versus flexible stops so the visitor knows what can move when rain or closures intervene."
+          ]
+        },
+        {
+          "heading": "Day one: historic-center decisions",
+          "points": [
+            "Use a Jongno/Anguk-centered day with a chosen palace or heritage anchor, lunch and a short neighborhood walk.",
+            "A palace's closed day, ticket and entry rules need its current operator source before a final named timetable is published.",
+            "Craft Museum near Anguk provides a verified indoor anchor, subject to its closure/reservation rules."
+          ]
+        },
+        {
+          "heading": "Day two: Seongsu and Seoul Forest",
+          "points": [
+            "Use Seoul Forest and Seongsu as one cluster rather than adding an unrelated cross-city morning.",
+            "Choose park-first or indoor-first based on weather and daylight; winter garden/fountain operations differ from the main park.",
+            "Treat cafés and pop-ups as flexible merchant choices, not guaranteed permanent attractions."
+          ]
+        },
+        {
+          "heading": "Day three: choose culture or another priority",
+          "points": [
+            "Yongsan National Museum is a verified indoor option; budget a meaningful visit rather than a rushed photo stop.",
+            "Keep special-exhibition admission and Children's Museum reservations distinct from free permanent galleries.",
+            "An alternative district should replace the museum block, not add a second full itinerary on top."
+          ]
+        },
+        {
+          "heading": "Join the days with real transport and meals",
+          "points": [
+            "Use the hotel as start/end for each route and check actual station connections and exit accessibility.",
+            "Do not publish exact transit/walk minutes without map verification; editorial time blocks should be clearly approximate.",
+            "Give food options by area and dietary-question prompts while avoiding unverified restaurant opening claims."
+          ]
+        },
+        {
+          "heading": "Make the route adaptable",
+          "points": [
+            "If a key site closes, swap to the same-area indoor alternative; do not send everyone across Seoul in heavy rain.",
+            "Let the itinerary board save chosen stops, reservation notes and Korean addresses.",
+            "End with one next action such as Suwon day trip after the core city days, with the extra travel demand explained."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "itinerary",
+      "tools": [
+        "itinerary-board",
+        "rainy-day-selector"
+      ],
+      "relatedIds": [
+        "stay-seoul",
+        "places-seongsu",
+        "places-rain"
+      ],
+      "itinerary": {
+        "assumption": "Three full days; exact route durations and palace rules still require trip-date verification",
+        "days": [
+          {
+            "day": 1,
+            "cluster": "Jongno / Anguk",
+            "core": [
+              "One verified palace/heritage anchor",
+              "Meal and historic-center walk"
+            ],
+            "alternative": "Craft Museum subject to opening day"
+          },
+          {
+            "day": 2,
+            "cluster": "Seoul Forest / Seongsu",
+            "core": [
+              "Park block",
+              "Café/shoe-street neighborhood block"
+            ],
+            "alternative": "Shortened park plus verified indoor venue"
+          },
+          {
+            "day": 3,
+            "cluster": "Yongsan or a chosen priority",
+            "core": [
+              "National Museum or one replacement district",
+              "Easy evening near hotel"
+            ],
+            "alternative": "Adjust to museum closure and reservation rules"
+          }
+        ]
+      },
+      "doNotClaim": [
+        "All palace opening days or fees are established by this brief.",
+        "All stops can be completed regardless of pace.",
+        "The route was personally walked or tested."
+      ]
+    },
+    {
+      "id": "places-seongsu",
+      "categoryId": "places-itineraries",
+      "workingTitle": "Seongsu in Half a Day: Seoul Forest, Shoe Streets and a Flexible Café Stop",
+      "proposedSlug": "seongsu-dong-dior-luxury-vs-market-eats-in-24-hours",
+      "reuse": {
+        "action": "rewrite-existing-url",
+        "existingPath": "content/posts/seongsu-dong-dior-luxury-vs-market-eats-in-24-hours.md",
+        "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "seongsu-course",
+        "seoul-forest"
+      ],
+      "sections": [
+        {
+          "heading": "Replace the stale luxury-versus-cheap premise",
+          "points": [
+            "Reuse the closest neighborhood URL but remove unsupported current Dior/pop-up claims and synthetic price contrast.",
+            "Aim at a useful half-day, not a promise to visit every famous café and queue.",
+            "Offer a park-and-streets route with optional shopping rather than a product list that expires weekly."
+          ]
+        },
+        {
+          "heading": "Choose a start and finish that reduce backtracking",
+          "points": [
+            "A route from the Seoul Forest side toward the Seongsu/shoe-street side is an editorial direction, pending exact walking-path verification.",
+            "Select the station and exit from the traveler's hotel connection and mobility needs.",
+            "Show Korean names/address fields and external map links; never display unverified coordinates as checked."
+          ]
+        },
+        {
+          "heading": "Use Seoul Forest correctly",
+          "points": [
+            "Main park access is separate from indoor gardens and seasonal fountains; include the current winter facility rules only with checked date.",
+            "Use a removable outdoor block so heavy rain/wind does not strand the itinerary.",
+            "Tell readers which park entry they are targeting and where the next neighborhood segment begins after map verification."
+          ]
+        },
+        {
+          "heading": "Walk the neighborhood with one or two priorities",
+          "points": [
+            "Use the handmade-shoe district as stable neighborhood context from the tourism course.",
+            "Let readers choose one café and one shop/venue based on live merchant opening and queue conditions.",
+            "Do not describe pop-up schedules, entry tickets or café menus without the merchant's current primary page."
+          ]
+        },
+        {
+          "heading": "Provide wet-weather and queue alternatives",
+          "points": [
+            "Shorten or skip the park if conditions are poor; choose a verified indoor merchant/cultural venue rather than inventing a covered route.",
+            "If a café queue is long, move to the next stop instead of letting one venue consume the whole half-day.",
+            "Keep shopping optional so the route works for visitors with limited luggage or spending."
+          ]
+        },
+        {
+          "heading": "Give the reader an exportable route card",
+          "points": [
+            "Card should include chosen order, approximate planned block, Korean map queries, weather variant and checked date.",
+            "Exclude unverified fixed prices and dates from share previews.",
+            "Link luggage storage only when it actually reduces detour, then offer the broader three-day Seoul route."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "half-day-itinerary",
+      "tools": [
+        "itinerary-board",
+        "rainy-day-selector"
+      ],
+      "relatedIds": [
+        "places-seoul",
+        "transport-luggage",
+        "places-rain"
+      ],
+      "duplicateAuditCandidates": [
+        "24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route"
+      ],
+      "relatedExistingSlugs": [
+        "seongsu-popup-guide-2026"
+      ],
+      "doNotClaim": [
+        "A named temporary pop-up is still operating.",
+        "The entire area is sheltered or step-free.",
+        "Generic stock/generated imagery depicts the current café interior."
+      ]
+    },
+    {
+      "id": "places-busan",
+      "categoryId": "places-itineraries",
+      "workingTitle": "Two Days in Busan Without a Car: Old Port and Haeundae",
+      "proposedSlug": "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices",
+      "reuse": {
+        "action": "rewrite-existing-url",
+        "existingPath": "content/deep-dive/seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices.md",
+        "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "dongbaek",
+        "nampo-shopping",
+        "seomyeon-shopping",
+        "kto-shopping"
+      ],
+      "sections": [
+        {
+          "heading": "Two full days, one base and two clusters",
+          "points": [
+            "State whether rail arrival occurs before day one or reduces it; do not sell two full sightseeing days from one overnight automatically.",
+            "Use old-port and eastern-coast days rather than zigzagging between them.",
+            "Select Seomyeon, Nampo or Haeundae by the actual evening/arrival priorities and keep luggage out of the route."
+          ]
+        },
+        {
+          "heading": "Day one: old-port core",
+          "points": [
+            "Nampo/Jagalchi-area streets and market context create a useful cluster; choose one principal market visit rather than every stall.",
+            "Use the official Nampo underground shopping corridor as an optional shelter/shopping block, respecting closure days.",
+            "Gamcheon is an optional hill-side extension only after access, walking effort and live opening conditions are verified; not a mandatory rushed addition."
+          ]
+        },
+        {
+          "heading": "Day two: Haeundae and Dongbaek",
+          "points": [
+            "Build the coast day around Haeundae-side beach time and Dongbaek park, where the main park is verified free/open around the clock.",
+            "Do not assume Nurimaru or other facilities share park hours.",
+            "Use wind/rain conditions to decide whether to shorten the exposed path and choose an independently verified indoor alternative."
+          ]
+        },
+        {
+          "heading": "Make car-free connections explicit",
+          "points": [
+            "Seomyeon interchange context helps explain choosing a central base; exact line routes and last trains still need live operator/map verification.",
+            "Show door-to-door planning steps and transfer count rather than invented minute-level precision.",
+            "Provide a taxi backup for a specific difficult final mile without portraying it as a required full-day tour."
+          ]
+        },
+        {
+          "heading": "Keep meals and luggage realistic",
+          "points": [
+            "Give a meal window near the cluster and prompts to confirm seafood price/serving conditions rather than promise a fixed bargain.",
+            "Avoid carrying all luggage through a coastal/hill walk; confirm hotel hold or a suitable storage provider.",
+            "Protect the departure train with a station pickup/travel buffer chosen by the traveler."
+          ]
+        },
+        {
+          "heading": "Export the plan with choices",
+          "points": [
+            "Make optional stops removable and show the base, luggage pickup and booked train separately.",
+            "Link to the area chooser and current high-speed-train guide instead of embedding duplicated booking rules.",
+            "If weather removes the coast, use a verified indoor itinerary instead of claiming underground shopping covers the entire city."
+          ]
+        }
+      ],
+      "reviewDays": 90,
+      "format": "two-day-itinerary",
+      "tools": [
+        "itinerary-board"
+      ],
+      "relatedIds": [
+        "stay-busan",
+        "transport-ktx",
+        "transport-luggage"
+      ],
+      "itinerary": {
+        "assumption": "Two usable sightseeing days; actual rail times and walks require verification",
+        "days": [
+          {
+            "day": 1,
+            "cluster": "Nampo / old port",
+            "core": [
+              "Market/street visit",
+              "Meal and optional shopping corridor"
+            ],
+            "optional": "Gamcheon only after access/time checks"
+          },
+          {
+            "day": 2,
+            "cluster": "Haeundae / Dongbaek",
+            "core": [
+              "Coastal block",
+              "Park walk or shorter weather version"
+            ],
+            "optional": "One verified nearby indoor stop"
+          }
+        ]
+      },
+      "relatedExistingSlugs": [
+        "busan-travel-guide-beaches-temples-and-street-food-2026"
+      ],
+      "doNotClaim": [
+        "Old port, Gamcheon, east-coast temple and beach fit comfortably in every day.",
+        "All market fish meals have a fixed cheap price.",
+        "Open park hours establish facility hours.",
+        "The metro route has been personally tested."
+      ]
+    },
+    {
+      "id": "places-rain",
+      "categoryId": "places-itineraries",
+      "workingTitle": "Cold or Rainy Seoul: Indoor Clusters That Still Make a Good Day",
+      "proposedSlug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+      "reuse": {
+        "action": "rewrite-existing-url",
+        "existingPath": "content/deep-dive/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets.md",
+        "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "national-museum",
+        "craft-museum",
+        "mmca"
+      ],
+      "sections": [
+        {
+          "heading": "Pick a cluster, not a cross-city rescue list",
+          "points": [
+            "Ask where the visitor starts, their interests, child ages and walking tolerance before choosing an indoor anchor.",
+            "Choose Anguk/Jongno or Yongsan rather than sending the visitor between distant museums just to fill a list.",
+            "Indoor destinations still need outdoor transfers; show that honestly and keep a short taxi option where useful."
+          ]
+        },
+        {
+          "heading": "Anguk/Jongno: craft and nearby culture",
+          "points": [
+            "Craft Museum has verified ordinary hours and Monday closure, plus a temporary late schedule that expires in Nov2026.",
+            "Its Children's Museum is not a walk-in substitute; reserve when required.",
+            "MMCA Seoul can be another chosen anchor after exhibition admission and opening conditions are checked, not an assumed free add-on."
+          ]
+        },
+        {
+          "heading": "Yongsan: give the National Museum enough time",
+          "points": [
+            "Free permanent galleries make a useful indoor anchor, while special exhibitions can cost extra.",
+            "Children's Museum requires booking; do not arrive assuming every age-specific program is available.",
+            "Use current late-opening/closure notices and retain meal/rest time rather than rushing the whole collection."
+          ]
+        },
+        {
+          "heading": "Distinguish sheltered from indoors",
+          "points": [
+            "A market awning or shopping passage does not create a door-to-door dry route.",
+            "Show station exit, street crossing and attraction entrance as separate transfers after map checks.",
+            "For cold conditions, favor fewer long exposed segments; for heavy rain, avoid slippery optional outdoor detours."
+          ]
+        },
+        {
+          "heading": "Plan for accessibility and children",
+          "points": [
+            "Ask about step-free access and equipment availability from the venue; tourism icons do not guarantee an uninterrupted route.",
+            "Reserve required children's sessions and include a backup if they sell out.",
+            "Use drying/wet-item and coat-storage arrangements where actually provided; avoid unverified promises of lockers for every bag."
+          ]
+        },
+        {
+          "heading": "Let the tool select a useful replacement",
+          "points": [
+            "Inputs should include current district, adult/child interests, available time and reservation tolerance.",
+            "Return one anchor and one same-area optional stop with closure warning, source date and Korean address.",
+            "Link back to the original Seoul itinerary so the alternative preserves the traveler’s broader plan."
+          ]
+        }
+      ],
+      "reviewDays": 30,
+      "format": "weather-alternative",
+      "tools": [
+        "rainy-day-selector",
+        "itinerary-board"
+      ],
+      "relatedIds": [
+        "places-seoul",
+        "places-seongsu",
+        "plan-winter-packing"
+      ],
+      "comparison": {
+        "columns": [
+          "Cluster",
+          "Anchor",
+          "Important condition"
+        ],
+        "rows": [
+          [
+            "Anguk / Jongno",
+            "Craft Museum",
+            "Monday closure; children's reservation"
+          ],
+          [
+            "Yongsan",
+            "National Museum",
+            "Special exhibition fees and closure notices"
+          ],
+          [
+            "Jongno alternative",
+            "MMCA Seoul",
+            "Current exhibition ticket/opening checks"
+          ]
+        ]
+      },
+      "doNotClaim": [
+        "Every venue is free.",
+        "All transfers are covered.",
+        "Children's spaces never need bookings.",
+        "Temporary late-opening dates apply indefinitely."
+      ]
+    },
+    {
+      "id": "places-suwon",
+      "categoryId": "places-itineraries",
+      "workingTitle": "Suwon from Seoul: A Manageable Fortress and Haenggung Day Trip",
+      "proposedSlug": "suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026",
+      "reuse": {
+        "action": "rewrite-existing-url",
+        "existingPath": "content/posts/suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026.md",
+        "reason": "Closest existing search intent; preserve URL and replace stale unsupported content."
+      },
+      "audience": "International visitors planning or taking a short Korea trip",
+      "sourceIds": [
+        "suwon-operator"
+      ],
+      "sections": [
+        {
+          "heading": "Choose a partial route with a clear return",
+          "points": [
+            "State Seoul departure base and usable day, then plan to reach the fortress/Haenggung area rather than treat Suwon Station as the attraction entrance.",
+            "A first visit can use Haenggung plus one selected wall segment and meal time; the full perimeter is optional.",
+            "Do not promise a completely flat or step-free fortress walk; inspect the chosen segment and mobility needs."
+          ]
+        },
+        {
+          "heading": "Get current operator facts right",
+          "points": [
+            "Separate free fortress grounds from paid Haenggung admission and other paid attractions.",
+            "Use the current Korean operator hours, with the checked date and acknowledgement of older English-page conflict.",
+            "The 2026 night program ends Nov1; it is not a winter-evening feature unless a later operator notice confirms it."
+          ]
+        },
+        {
+          "heading": "Connect station to the visitor area",
+          "points": [
+            "Use a live map for Suwon Station-to-Haenggung bus/taxi/walking options and exact stop/exit information.",
+            "The day-trip guide should show a Korean destination address and return-station plan.",
+            "Check city-pass coverage separately; a Seoul Climate Card is not automatically valid for this entire day trip."
+          ]
+        },
+        {
+          "heading": "Structure a useful day",
+          "points": [
+            "Begin with Haenggung if its operating hours/entry matter, then lunch in the surrounding district and a suitable wall section.",
+            "Keep a rest stop and a removable optional section; choose daylight for any exposed walk.",
+            "For a night-ticket visit within an officially operating season, build a separate late-return version instead of extending the standard route silently."
+          ]
+        },
+        {
+          "heading": "Adjust for weather and ability",
+          "points": [
+            "Rain, ice, wind or steep sections can justify a shorter wall segment or a palace-focused version.",
+            "Do not advise visitors to continue a slippery rampart walk for the sake of completing the route.",
+            "Confirm accessible approaches and toilets directly for the selected route before labeling it accessible."
+          ]
+        },
+        {
+          "heading": "Give a practical route summary",
+          "points": [
+            "Include chosen sequence, entry fee source, Korean address, planned return and operator recheck link.",
+            "Share card should display whether it is the daytime or confirmed-season night version.",
+            "Offer the Seoul indoor alternative when conditions make the exposed day unsuitable, not an unrelated filler recommendation."
+          ]
+        }
+      ],
+      "reviewDays": 30,
+      "format": "day-trip-itinerary",
+      "tools": [
+        "itinerary-board"
+      ],
+      "relatedIds": [
+        "places-seoul",
+        "transport-passes",
+        "places-rain"
+      ],
+      "checklist": [
+        "Usable day and Seoul base set",
+        "Haenggung hours rechecked",
+        "Chosen wall segment suitable",
+        "Station-to-attraction route saved",
+        "Return travel planned",
+        "Weather/daylight alternative ready",
+        "Night program season confirmed if relevant"
+      ],
+      "doNotClaim": [
+        "The entire fortress is flat or wheelchair-accessible.",
+        "Haenggung is free because fortress grounds are free.",
+        "2026 night entry continues all winter.",
+        "Older English winter closing time overrides the current operator automatically."
+      ]
+    }
+  ]
+}

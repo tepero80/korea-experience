@@ -1,0 +1,9 @@
+BETTER_AUTH_SECRET=replace-with-a-random-local-test-secret-at-least-32-characters
+GOOGLE_CLIENT_ID=
+GOOGLE_CLIENT_SECRET=
+RESEND_API_KEY=
+MAIL_FROM=Korea Experience <signin@auth.koreaexperience.com>
+TURNSTILE_SECRET=
+TURNSTILE_SITE_KEY=
+
+ADMIN_EMAILS=

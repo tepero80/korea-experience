@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-10-30",
+  "method": "Primary operator and official tourism pages opened and checked; addresses are not entrance validation.",
+  "places": {
+    "gyeongbokgung": [
+      "서울 종로구 사직로 161",
+      "https://royal.khs.go.kr/ENG/contents/R707000000.do"
+    ],
+    "national-museum-korea": [
+      "서울 용산구 서빙고로 137",
+      "https://mvcm.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map"
+    ],
+    "gwangjang-market": [
+      "서울 종로구 창경궁로 88",
+      "https://english.visitseoul.net/PalaceArea/Gwangjang-Market/ENP000286"
+    ],
+    "namdaemun": [
+      "서울 중구 남대문시장4길 21",
+      "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106358"
+    ],
+    "jagalchi": [
+      "부산 중구 자갈치해안로 52",
+      "https://www.seantour.kr/newseantour/fhlg/trrsrt/trrsrtDetail.do?tourNttSn=TRSRT0000000241"
+    ],
+    "haeundae": [
+      "부산 해운대구 해운대해변로 264",
+      "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111053"
+    ],
+    "incheon-airport-t1": [
+      "인천광역시 영종구 공항로 272",
+      "https://www.airport.kr/sites/ap_ko/index.do"
+    ],
+    "incheon-airport-t2": [
+      "인천광역시 영종구 제2터미널대로 446",
+      "https://www.airport.kr/sites/ap_ko/index.do"
+    ]
+  }
+}

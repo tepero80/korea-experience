@@ -1,0 +1,178 @@
+[
+  {
+    "id": "bukchon",
+    "src": "/images/editorial/bukchon.webp",
+    "width": 1600,
+    "height": 1067,
+    "alt": "Bukchon Hanok Village, Seoul",
+    "credit": {
+      "kind": "photograph",
+      "title": "Bukchon Hanok Village 03.jpg",
+      "author": "Bgag",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_03.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "note": "Resized and converted to WebP. Photographed 2022-09-27. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  },
+  {
+    "id": "gyeongbokgung",
+    "src": "/images/editorial/gyeongbokgung.webp",
+    "width": 1600,
+    "height": 1067,
+    "alt": "Royal Banquet Hall Gyeonghoeru (경회루) at Gyeongbokgung Palace (경복궁), Seoul",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gyeonghoeru (Royal Banquet Hall) at Gyeongbokgung Palace, Seoul.jpg",
+      "author": "Frank Schulenburg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeonghoeru_(Royal_Banquet_Hall)_at_Gyeongbokgung_Palace,_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Resized and converted to WebP. Photographed 2018-11-05. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  },
+  {
+    "id": "seongsu",
+    "src": "/images/editorial/seongsu.webp",
+    "width": 1600,
+    "height": 1200,
+    "alt": "Seongsu-dong",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seongsu-dong storefronts.jpg",
+      "author": "CartoonChess",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seongsu-dong_storefronts.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Resized and converted to WebP. Photographed 2022-08-25. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  },
+  {
+    "id": "incheon-airport",
+    "src": "/images/editorial/incheon-airport.webp",
+    "width": 1600,
+    "height": 1200,
+    "alt": "Arrival hall at Incheon International Airport Terminal 1",
+    "credit": {
+      "kind": "photograph",
+      "title": "Incheon International Airport Terminal 1 Arrival 2.jpg",
+      "author": "ノボホショコロトソ",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Incheon_International_Airport_Terminal_1_Arrival_2.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "note": "Resized and converted to WebP. Photographed 2023-09-28. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  },
+  {
+    "id": "arex",
+    "src": "/images/editorial/arex.webp",
+    "width": 1600,
+    "height": 1200,
+    "alt": "Interior of AREX Class 2000",
+    "credit": {
+      "kind": "photograph",
+      "title": "Interior of AREX Class 2000 20240502093327.jpg",
+      "author": "TurnOnTheNight",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_of_AREX_Class_2000_20240502093327.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Resized and converted to WebP. Photographed 2024-05-02. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  },
+  {
+    "id": "jagalchi",
+    "src": "/images/editorial/jagalchi.webp",
+    "width": 1600,
+    "height": 977,
+    "alt": "Jagalchi Market in Busan, South Korea",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jagalchi Market 01.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jagalchi_Market_01.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "note": "Resized and converted to WebP. Photographed 2022-10-02. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  },
+  {
+    "id": "suwon",
+    "src": "/images/editorial/suwon.webp",
+    "width": 1600,
+    "height": 1067,
+    "alt": "Hwahongmun Gate at the Hwaseong Fortress, South Korea",
+    "credit": {
+      "kind": "photograph",
+      "title": "Hwahongmun 01.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hwahongmun_01.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "note": "Resized and converted to WebP. Photographed 2022-09-28. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  },
+  {
+    "id": "gwangjang",
+    "src": "/images/editorial/gwangjang.webp",
+    "width": 1600,
+    "height": 895,
+    "alt": "Gwangjang Market, Seoul",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwangjang Market, Seoul 02.jpg",
+      "author": "Bgag",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "note": "Resized and converted to WebP. Photographed 2022-09-26. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  },
+  {
+    "id": "market-food",
+    "src": "/images/editorial/market-food.webp",
+    "width": 1600,
+    "height": 1067,
+    "alt": "Gwangjang Market vendor serving food. Seoul, South Korea.",
+    "credit": {
+      "kind": "photograph",
+      "title": "Dongdaemun Shopping Complex, Seoul 4.jpg",
+      "author": "kallerna",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongdaemun_Shopping_Complex,_Seoul_4.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Resized and converted to WebP. Photographed 2022-11-29. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  },
+  {
+    "id": "bukchon-evening",
+    "src": "/images/editorial/bukchon-evening.webp",
+    "width": 1600,
+    "height": 1066,
+    "alt": "Bukchon-ro 11-gil street lined with traditional hanok houses showing Korean architecture, seen from below, at blue hour in Bukchon Hanok Village, Seoul, South Korea. Long-exposure photography (13 s)",
+    "credit": {
+      "kind": "photograph",
+      "title": "Bukchon-ro 11-gil street with hanok houses at blue hour in Bukchon Hanok Village Seoul.jpg",
+      "author": "Basile Morin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Resized and converted to WebP. Photographed 2024-06-03. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  },
+  {
+    "id": "seoul-cafe",
+    "src": "/images/editorial/seoul-cafe.webp",
+    "width": 1600,
+    "height": 900,
+    "alt": "Coffee and tea at Droptop Cafe, Myeongdong, Seoul, South Korea.",
+    "credit": {
+      "kind": "photograph",
+      "title": "Coffee and Tea at Droptop Cafe, Seoul.jpg",
+      "author": "ProjectManhattan",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Coffee_and_Tea_at_Droptop_Cafe,_Seoul.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "note": "Resized and converted to WebP. Photographed 2014-08-04. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  }
+]

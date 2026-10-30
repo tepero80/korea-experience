@@ -1,27 +1,35 @@
-import { ALL_TOOLS } from '@/lib/constants';
-import ToolComingSoonClient from './ToolComingSoonClient';
-
-// Generate static params for all tools
+import { notFound } from 'next/navigation';
+import { PRACTICAL_TOOLS } from '@/lib/constants';
+import { PLACES } from '@/lib/editorial';
+import TravelTool from '@/components/site/TravelTool';
+type Params = Promise<{ slug: string }>;
+export const dynamicParams = false;
 export function generateStaticParams() {
-  return ALL_TOOLS.map((tool) => ({
-    slug: tool.href.split('/').pop() || '',
+  return PRACTICAL_TOOLS.filter((t) => t.href !== '/tools/trip-budget').map((t) => ({
+    slug: t.href.split('/').pop()!,
   }));
 }
-
-interface ToolPageProps {
-  params: Promise<{
-    slug: string;
-  }>;
-}
-
-export default async function ToolPage({ params }: ToolPageProps) {
+export async function generateMetadata({ params }: { params: Params }) {
   const { slug } = await params;
-  const tool = ALL_TOOLS.find(t => t.href === `/tools/${slug}`);
-  
-  // Get related tools (same category or next 3)
-  const relatedTools = tool 
-    ? ALL_TOOLS.filter(t => t.category === tool.category && t.href !== `/tools/${slug}`).slice(0, 3)
-    : ALL_TOOLS.slice(0, 3);
-
-  return <ToolComingSoonClient tool={tool} relatedTools={relatedTools} />;
+  const t = PRACTICAL_TOOLS.find((t) => t.href === '/tools/' + slug);
+  return {
+    title: t?.title,
+    description: t?.description,
+    alternates: { canonical: 'https://koreaexperience.com/tools/' + slug },
+  };
+}
+export default async function Tool({ params }: { params: Params }) {
+  const { slug } = await params;
+  const t = PRACTICAL_TOOLS.find((t) => t.href === '/tools/' + slug);
+  if (!t) notFound();
+  return (
+    <TravelTool
+      slug={slug}
+      title={t.title}
+      description={t.description}
+      places={PLACES.filter((p) =>
+        ['seoul-craft-museum', 'national-museum-korea', 'gwangjang-market'].includes(p.id),
+      )}
+    />
+  );
 }

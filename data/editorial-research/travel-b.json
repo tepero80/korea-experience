@@ -1,0 +1,2558 @@
+{
+  "schemaVersion": 1,
+  "checkedAt": "2026-10-30",
+  "researcher": "travel_research_b",
+  "scope": "20 initial content evidence briefs, not final published copy",
+  "globalCautions": [
+    "Do not reuse existing generated article assertions withoutverification.",
+    "2026 autumn palace programs cited here have ended asofresearchdate; upcomingseasons requirefreshnotices.",
+    "Do notlabel1339asgenericambulanceline.",
+    "Some officialpagesincludeoldlabels;accessdateisnotfactualfreshnessguarantee.",
+    "Neverassumeofficialtourismphotosarecommerciallyreusable.",
+    "MapphotoPointsarecamera/viewpointcoordinates,notvalidatedvenueentrances."
+  ],
+  "sources": [
+    {
+      "id": "kto-dining",
+      "title": "About Korean Food — Visiting a Korean Restaurant",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=903&vcontsId=229195",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "KTO explains shared side dishes, spoons and chopsticks, self-service water/side dishes and kiosk ordering.",
+        "The guidance says tipping is not expected at Korean restaurants."
+      ],
+      "caveats": [
+        "Article last-updated label is March2023. Practices vary: do not promise every table has a bell/drawer or that every menu item is refillable."
+      ]
+    },
+    {
+      "id": "kto-bbq853",
+      "title": "853 — official tourism restaurant listing",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=52960",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Listed pork barbecue venue at16 Insadong12-gil, Jongno-gu.",
+        "Menu examples include samgyeopsal and moksal; no verified universal portion/minimum/price rule."
+      ],
+      "caveats": [
+        "Listing is not an endorsement or guarantee of current hours, solo acceptance, ingredients or prices."
+      ]
+    },
+    {
+      "id": "kto-vegetarian",
+      "title": "Tips for Vegetarians",
+      "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140732",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Meat/fish broths and seafood seasoning can occur in dishes that appear vegetable based.",
+        "Kimchi may contain salted seafood/fish sauce; vegan certification logos can help identify products."
+      ],
+      "caveats": [
+        "October2023 label; verify individual menu and kitchen. Vegan labeling does not establish allergy safety."
+      ]
+    },
+    {
+      "id": "kto-muslim",
+      "title": "Muslim-friendly Restaurant Categories",
+      "url": "https://english.visitkorea.or.kr/svc/thingsToDo/subMuslimFriendly.do",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Four distinct categories: halal-certified, self-certified, Muslim-friendly and pork-free.",
+        "Muslim-friendly may include only some halal dishes and alcohol; pork-free is not halal certification."
+      ],
+      "caveats": [
+        "Check current restaurant certification and menu; no allergy/cross-contact guarantee."
+      ]
+    },
+    {
+      "id": "gwangjang",
+      "title": "Gwangjang Market — official Seoul listing",
+      "url": "https://english.visitseoul.net/PalaceArea/Gwangjang-Market/ENP000286",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Address88 Changgyeonggung-ro, Jongno-gu; Line1 Jongno5-ga Exit8.",
+        "Food alley schedule differs from other market sections; listing gives food alley09:00–23:00 and year-round."
+      ],
+      "caveats": [
+        "Individual stalls, last orders, portions and prices vary; source market hours are not every stall's hours."
+      ]
+    },
+    {
+      "id": "namdaemun",
+      "title": "Namdaemun Market — official Seoul listing",
+      "url": "https://english.visitseoul.net/shopping/Namdaemun-Market/ENP000085",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Address21 Namdaemunsijang4-gil, Jung-gu; Line4 Hoehyeon Exit7.",
+        "Market is a collection of sellers; check market/individual shops rather than impose one timetable."
+      ],
+      "caveats": [
+        "Do not use undated price promises or assume all shops issue tax-refund paperwork."
+      ]
+    },
+    {
+      "id": "ssamzigil",
+      "title": "Ssamzi-gil — official Seoul listing",
+      "url": "https://english.visitseoul.net/dongdaemunarea/Ssamzi-gil_/37935",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Craft shopping complex at44 Insadong-gil, Jongno-gu; Anguk Exit6.",
+        "Listing gives10:30–20:30 with NewYear/Chuseok closures."
+      ],
+      "caveats": [
+        "Confirm particular workshop booking, store hours and accessibility directly."
+      ]
+    },
+    {
+      "id": "insadong",
+      "title": "Insadong Souvenir and Sightseeing Guide — Seoul Tourism Organization",
+      "url": "https://english.visitseoul.net/partners-en/seoul-goods-story/2025-seoul-souvi/ENN5k7gvz",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Insadong offers crafts, galleries, traditional teahouses and workshops near Jongno heritage areas."
+      ],
+      "caveats": [
+        "Use for neighborhood character, not current shop inventory or workshop availability."
+      ]
+    },
+    {
+      "id": "hongdae",
+      "title": "Hongdae — official Seoul area guide",
+      "url": "https://english.visitseoul.net/area/Nighttime-Adventures-in-Seoul/ENP000032",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Hongdae combines indie/pop culture, casual fashion and evening activity; HongikUniversity station accesses area."
+      ],
+      "caveats": [
+        "No guarantee of spontaneous performances, popup dates or store inventory."
+      ]
+    },
+    {
+      "id": "seongsu",
+      "title": "Seongsu Yeonmujang-gil — official Seoul guide",
+      "url": "https://english.visitseoul.net/other/Yeonmujang-gil/ENP7u7jrk",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Yeonmujang-gil combines former industrial buildings with design shops, cafes and popups."
+      ],
+      "caveats": [
+        "Popup reservations and dates must be checked with organizers."
+      ]
+    },
+    {
+      "id": "olive-members",
+      "title": "OLIVE YOUNG Global membership FAQ",
+      "url": "https://global.oliveyoung.com/display/page/membership",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "OLIVE YOUNG Global membership is separate from local Korean stores; global rewards do not work in domestic stores."
+      ],
+      "caveats": [
+        "No verified currently active sale, coupon, domestic membership benefit or SKU stock in this research."
+      ]
+    },
+    {
+      "id": "taxrefund",
+      "title": "Duty Free and Tax Refunds — KTO",
+      "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140736",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Eligibility includes qualifying nonresident visitors; goods new/unused; departure within3months of purchase.",
+        "Minimum purchase15,000KRW; immediate refund single payment below1,000,000KRW and trip total at most5,000,000KRW.",
+        "Passport/refund receipt and possible goods inspection matter before checking eligible goods into hold baggage."
+      ],
+      "caveats": [
+        "Page last-updated October2025; confirm purchase-date rules/operator. Do not promise full10% back, combine incompatible refund routes or apply inbound Korean allowance to travelers returning home."
+      ]
+    },
+    {
+      "id": "airport-liquids",
+      "title": "Incheon Airport prohibited/restricted baggage items",
+      "url": "https://www.airport.kr/ap_en/1433/subview.do",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "International carry-on liquids/gel cosmetics use containers no larger than100ml in one resealable clear1L bag perperson.",
+        "Kimchi/gochujang are liquid/gel food for screening; dutyfree liquids need the specified sealed bag through the final flight."
+      ],
+      "caveats": [
+        "Airline, transfer-airport and destination import rules remain separate; use container capacity, not liquid left."
+      ]
+    },
+    {
+      "id": "palace-general",
+      "title": "2026 autumn Gyeongbokgung night viewing notice",
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?act=totalSearch&id=20260818101010114410&schGroupCode=gbg&schM=view",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Historical autumn2026 general night viewing ranSeptember2–October2,19:00–21:30, final admission20:30; noMonday/Tuesday.",
+        "The2026 notice described3,000KRW entry, foreigner walk-up allocation and stated free-entry conditions."
+      ],
+      "caveats": [
+        "ENDED asofOctober30. These historical rules are not a2027 forecast or live availability."
+      ]
+    },
+    {
+      "id": "palace-starlight",
+      "title": "2026 autumn Gyeongbokgung Starlight official event",
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R201000000.do?act=view&ceIdx=202608130292&undefined=",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Historical Starlight ranSeptember2–October24,2026 with selected foreign-visitor sessionsOctober21–24.",
+        "Program areas include Sojubang, Jibokjae and Hyangwonjeong; separate organized event from general night admission."
+      ],
+      "caveats": [
+        "ENDED asofOctober30; future season dates/prices notannounced here."
+      ]
+    },
+    {
+      "id": "palace-moonlight",
+      "title": "2026 autumn Changdeokgung Moonlight official event",
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R201000000.do?act=view&ceIdx=202608180295&undefined=",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Historical Moonlight ranSeptember10–October17,2026 with selected foreign-visitor dates.",
+        "Organized program includes palace and garden areas; distinct palace/ticket/program from Gyeongbokgung."
+      ],
+      "caveats": [
+        "ENDED asofOctober30; never infer next year's dates from this schedule."
+      ]
+    },
+    {
+      "id": "hanbok",
+      "title": "Royal Palaces hanbok free-entry guidelines",
+      "url": "https://royal.khs.go.kr/ROYAL/contents/R705000000.do",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Traditional and modern hanbok can qualify if upper/lower components meet guidelines.",
+        "A jeogori with jeans, a T-shirt with hanbok lower garment or just an overcoat does not qualify."
+      ],
+      "caveats": [
+        "Ordinary palace admission policy does not itself guarantee entry to ticketed special night tours."
+      ]
+    },
+    {
+      "id": "yes24",
+      "title": "YES24 Global Ticket official FAQ",
+      "url": "https://ticket.yes24.com/Pages/English/Guidance/FnFAQ.aspx",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Will-call requires physical validID/passport and booking confirmation; name consistency matters.",
+        "Show-specific rules override general guidance; collection by another person may be disallowed.",
+        "Selected VerifiedMemberOnly shows use an identity check; official FAQ recommends completing verification1–2days before sale."
+      ],
+      "caveats": [
+        "Never submit users' passports/biometrics through this website. Link to official seller; do notpromise resale admissibility or ticket success."
+      ]
+    },
+    {
+      "id": "nmk",
+      "title": "National Museum of Korea visitor information",
+      "url": "https://www.museum.go.kr/ENG/contents/E0101010000.do",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Official fetched page states regular opening09:30–17:30 exceptWednesday/Saturday until21:00; admission closes30minutes before.",
+        "Permanent exhibitions generally free; special exhibitions and Children'sMuseum reservations have distinct conditions."
+      ],
+      "caveats": [
+        "Opening hours can change; source current notice controls. No copying museum images for commercial use without written permission."
+      ]
+    },
+    {
+      "id": "sema",
+      "title": "Buk-Seoul Museum of Art official visitor guide",
+      "url": "https://sema.seoul.go.kr/en/visit/bukseoul",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Branch-specific schedule: Tuesday–Thursday10–20,Friday10–21; weekends summer10–19/winter10–18.",
+        "Mondays/January1 closures; admission generally free except special exhibitions; lockers/elevator/wheelchair services listed."
+      ],
+      "caveats": [
+        "Do not apply one branch's schedule to allSeMA branches; check exhibition-installation closures."
+      ]
+    },
+    {
+      "id": "winter-food",
+      "title": "KTO winter street-food guide",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=250627",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Winter examples include eomuk, hotteok and bungeoppang.",
+        "Eomuk/noodle broth may use fish; hotteok may contain nuts and buns may use egg/dairy/wheat."
+      ],
+      "caveats": [
+        "No guaranteed vendor location, stock or current price. Food imagery on this page has mixed third-party credits; not blanket reusable."
+      ]
+    },
+    {
+      "id": "tea-museum",
+      "title": "Beautiful Tea Museum — official Seoul listing",
+      "url": "https://english.visitseoul.net/attractions/Beautiful-Tea-Museum/ENP004467",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Tea-related exhibition and cafe at19-11 Insadong-gil, Jongno-gu; listing describes gallery admission asfree."
+      ],
+      "caveats": [
+        "Cafe purchases separate; verify current hours/menu before describing a guaranteed stop."
+      ]
+    },
+    {
+      "id": "tea-binnaneun",
+      "title": "Banjjakbanjjak Binnaneun — official Seoul listing",
+      "url": "https://english.visitseoul.net/restaurants/Banjjakbanjjak-Binnaneun1/ENP014145",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Traditional/fusion teahouse at28-1 Insadong-gil, nearJongno3-ga.",
+        "Listing identifies traditional teas and Korean drinks."
+      ],
+      "caveats": [
+        "No current itemized menu confirmed; omit old price-range label as a price promise."
+      ]
+    },
+    {
+      "id": "naver-language",
+      "title": "NAVER Map language settings",
+      "url": "https://help.naver.com/service/5637/contents/8275?osType=MOBILE",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "NAVER Map supports Korean,English,SimplifiedChinese,Japanese; language change viaMY/settings or iOS app language settings."
+      ],
+      "caveats": [
+        "Labels/OS minimums vary byappversion; avoid describing full offline map availability."
+      ]
+    },
+    {
+      "id": "naver-save",
+      "title": "NAVER Map saved places/directions",
+      "url": "https://help.naver.com/service/5637/contents/692?osType=COMMONOS",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Saving places/routes requires NAVER login; places may have notes,aliases andrelatedURLs.",
+        "Saved information is accessible in the Save tab; deletion may not be recoverable."
+      ],
+      "caveats": [
+        "Site-local bookmarks do not automatically synchronize with NAVER."
+      ]
+    },
+    {
+      "id": "transport-payments",
+      "title": "KTO2026 international transportation/payment chart",
+      "url": "https://english.visitkorea.or.kr/public/contents/travel/KoreaTransportationGuide_enu.pdf",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Foreign-card acceptance differs between buying/topup and tapping onboard.",
+        "Regular transit cards are used for ordinary bus/subway tap payment; a foreign creditcard is not a universal transit pass."
+      ],
+      "caveats": [
+        "Guide was issuedMay2026; individual machines/services differ."
+      ]
+    },
+    {
+      "id": "money",
+      "title": "KTO currency and credit-card guide",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140040",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Cards are widely accepted but travelers should check acceptance before purchase; banks/authorized exchange are official exchange options."
+      ],
+      "caveats": [
+        "No universal overseas-card success, ATM fee, exchange rate or issuer reimbursement verified."
+      ]
+    },
+    {
+      "id": "kt-esim",
+      "title": "KT official tourist eSIM product information",
+      "url": "https://m.roaming.kt.com/eng/esim",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Official indexed product information requires unlocked compatible device; passport data must match.",
+        "Data-only product cannot simply be upgraded to voice; voice/SMS may need entry/identity check at airport."
+      ],
+      "caveats": [
+        "Page opened but dynamic body unreadable to web tool; indexed official excerpt supports these limited claims. Product price and current compatibility must be confirmed atpurchase."
+      ]
+    },
+    {
+      "id": "safety",
+      "title": "KTO Disaster Safety Services for International Visitors",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "112 police and119 fire/ambulance for threats to life/property; ask forEnglish/interpreter and provide location.",
+        "Emergency Ready provides multilingual action guidance; current article says offline guidance does not list nearby facilities."
+      ],
+      "caveats": [
+        "Older KTOFAQ erroneously routes generic emergencies to1339; don't use it. Do not make app a prerequisite to calling119."
+      ]
+    },
+    {
+      "id": "emergency",
+      "title": "KTO emergency situations",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140042",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "119 medical/fire emergency;1339 infectious-disease information;1330 travel assistance, not emergency ambulance dispatch."
+      ],
+      "caveats": [
+        "Do not label every hotline24/7 or all-language without verifying currentoperator."
+      ]
+    },
+    {
+      "id": "pharmacy",
+      "title": "KTO pharmacy guide",
+      "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=107&menuSn=923&vcontsId=217224",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Pharmacy guidance recommends medication records and an English prescription for complex/prescription needs.",
+        "Korean Pharmaceutical Association holiday/late-night pharmacy directories help find operatingpharmacies."
+      ],
+      "caveats": [
+        "Directories/hours must be checked directly; no specific24-hour English-speaking pharmacy verified. No medicine/dosage recommendation."
+      ]
+    },
+    {
+      "id": "complaints",
+      "title": "Seoul Tourism Organization tourist complaints guidance",
+      "url": "https://english.visitseoul.net/business-partners-article/Seoul-Tourist-Complaints-en_/179",
+      "checkedAt": "2026-10-30",
+      "verifiedClaims": [
+        "Check displayed/quoted restaurant and shopping prices before ordering; keep receipts and incident details for complaints."
+      ],
+      "caveats": [
+        "Older contactdetails should be reconfirmed rather than copied asguaranteed current hotlines."
+      ]
+    }
+  ],
+  "topics": [
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "food-first-restaurant",
+      "categoryId": "food-dining",
+      "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+      "existingPath": "content/posts/how-to-order-food-in-korean-restaurants-phrases-guide-2026.md",
+      "title": "Your First Korean Restaurant: Ordering, Portions and Paying",
+      "sourceIds": [
+        "kto-dining",
+        "complaints"
+      ],
+      "sections": [
+        {
+          "heading": "Choose a restaurant you can actually use",
+          "points": [
+            "Before joining a queue, check that the menu, seating and payment method suit your group. A counter seat or individual menu can be easier for one diner; a grill restaurant may have a minimum order.",
+            "Distinguish the name of the dish from the selling unit: one person, one portion, one bowl or one shared set. Photograph the menu only where permitted and confirm the total before ordering."
+          ]
+        },
+        {
+          "heading": "Read the small words that change the bill",
+          "points": [
+            "Look for 1인분 (one portion), 2인 이상 (two or more people), 공기밥 (rice), 추가 (extra), 셀프 (self-service) and 포장 (takeaway).",
+            "Do not assume a photo represents the exact quantity or every visible side dish is included. Ask whether rice, noodles or drinks are separate before ordering a set."
+          ]
+        },
+        {
+          "heading": "Use the ordering system in front of you",
+          "points": [
+            "At a kiosk, select dine-in/takeaway, quantity, modifiers and final payment; check the summary before paying. If the overseas card fails, ask staff to use their staffed terminal rather than repeatedly tapping.",
+            "At table service, use a call button when available or politely get attention. Self-service water/side-dish signs are instructions, not an invitation to enter the kitchen."
+          ]
+        },
+        {
+          "heading": "Make a shared meal easier",
+          "points": [
+            "Ask which dishes are for sharing, whether the first order has a minimum, and whether each diner needs an individual bowl or serving utensil.",
+            "Use clean serving utensils for shared dishes. Ask before requesting refills; additions sold as menu items are different from the restaurant's included side dishes."
+          ]
+        },
+        {
+          "heading": "Pay and leave with the right information",
+          "points": [
+            "When ready, ask where to pay rather than waiting indefinitely for a bill. Check the itemized total, card currency and number of portions.",
+            "Tipping is not the standard KTO restaurant guidance. Keep the receipt if a charge is unclear and ask staff to explain the item while you are still there."
+          ]
+        },
+        {
+          "heading": "If communication fails",
+          "points": [
+            "Point at the item and show the quantity using the menu; remove optional customizations and ask one question at a time.",
+            "For serious dietary restrictions, do not rely on guessing or a translation app's confidence. Use the separate dietary checklist and choose another venue if preparation cannot be confirmed."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Menu label",
+          "Meaning",
+          "Question to ask"
+        ],
+        "rows": [
+          [
+            "1인분",
+            "One portion",
+            "How many portions are required?"
+          ],
+          [
+            "2인 이상",
+            "Two or more people",
+            "Can one diner order here?"
+          ],
+          [
+            "별도/추가",
+            "Separate/extra",
+            "Is rice included?"
+          ],
+          [
+            "셀프",
+            "Self-service",
+            "Where are water/utensils?"
+          ]
+        ]
+      },
+      "phrases": [
+        {
+          "ko": "한 명도 식사할 수 있나요?",
+          "en": "Can one person eat here?"
+        },
+        {
+          "ko": "밥이 포함되어 있나요?",
+          "en": "Is rice included?"
+        },
+        {
+          "ko": "영수증 주세요.",
+          "en": "Please give me the receipt."
+        }
+      ],
+      "checklist": [
+        "Confirm the selling unit and minimum order",
+        "Check dietary needs before ordering",
+        "Confirm the payment method",
+        "Read the receipt before leaving"
+      ],
+      "relatedTopicIds": [
+        "food-bbq",
+        "food-dietary",
+        "essentials-payments"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "food-bbq",
+      "categoryId": "food-dining",
+      "slug": "korean-barbecue-ordering-guide-cuts-portions-grills-and-shared-side-dishes",
+      "existingPath": "content/deep-dive/korean-barbecue-ordering-guide-cuts-portions-grills-and-shared-side-dishes.md",
+      "title": "Korean BBQ Without Guesswork: Portions, Solo Dining and the Grill",
+      "sourceIds": [
+        "kto-bbq853",
+        "kto-dining"
+      ],
+      "sections": [
+        {
+          "heading": "Read the first-order rule before sitting",
+          "points": [
+            "A menu's gram weight describes a portion, not a complete meal for every adult. Minimum first orders and whether different cuts can be mixed are restaurant-specific.",
+            "For one diner, ask before waiting for a table; a lunch set or individual BBQ bowl may be a better fit than ordering multiple grill portions solely to meet a rule."
+          ]
+        },
+        {
+          "heading": "Understand cuts and units",
+          "points": [
+            "Samgyeopsal is pork belly and moksal is pork shoulder/neck in common menus. Compare price per stated gram quantity rather than plate photographs.",
+            "A marinated set, a raw-meat portion and a cooked lunch meal are different products. Ask about bones, rice and soup when comparing totals."
+          ]
+        },
+        {
+          "heading": "Let the staff explain the grill",
+          "points": [
+            "Some venues grill for guests, others expect self-cooking. Ask before touching charcoal, changing temperature or moving the grill.",
+            "Keep raw-meat tongs separate from eating chopsticks and cooked-food utensils. If you are unsure whether food is cooked, ask staff rather than guessing from a timer."
+          ]
+        },
+        {
+          "heading": "Plan sides and the second order",
+          "points": [
+            "Rice, noodles, stew and drinks may be extra. Start with the agreed first order, then decide whether a second meat portion or finishing dish makes sense.",
+            "Refillable banchan does not mean a menu-listed stew or premium side is free. Confirm before the staff bring an extra dish."
+          ]
+        },
+        {
+          "heading": "Choose by needs rather than rankings",
+          "points": [
+            "For a family, verify stroller space, hot-grill separation and seated access. For limited mobility, ask about steps and floor seating.",
+            "The KTO-listed853 provides a concrete Insadong menu example; it is not verified here as solo-friendly, allergy-safe or available without reservation."
+          ]
+        },
+        {
+          "heading": "Match the meal to the rest of the day",
+          "points": [
+            "Allow for queue and cooking time instead of inserting BBQ before a fixed timed ticket. Pick an alternative individual-meal restaurant nearby.",
+            "Keep coats and bags away from heat; use storage seating only where the restaurant offers it."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Choice",
+          "Useful for",
+          "Verify"
+        ],
+        "rows": [
+          [
+            "Grill restaurant",
+            "A shared leisurely meal",
+            "Minimum portions and staff grilling"
+          ],
+          [
+            "Individual lunch set",
+            "Solo or shorter meal",
+            "Serving time and included items"
+          ],
+          [
+            "Mixed set",
+            "Trying different cuts",
+            "Weight, diners and extras"
+          ]
+        ]
+      },
+      "phrases": [
+        {
+          "ko": "처음 주문은 몇 인분부터 가능한가요?",
+          "en": "What is the minimum first order?"
+        },
+        {
+          "ko": "혼자 왔는데 주문할 수 있나요?",
+          "en": "Can I order as a solo diner?"
+        },
+        {
+          "ko": "직원분이 구워 주시나요?",
+          "en": "Does the staff grill the meat?"
+        }
+      ],
+      "checklist": [
+        "Confirm minimum portions",
+        "Compare weight and included sides",
+        "Ask who handles the grill",
+        "Keep a buffer before timed tickets"
+      ],
+      "cautions": [
+        "No universal 150g/200g portion or two-person rule",
+        "No claimed current restaurant prices"
+      ],
+      "relatedTopicIds": [
+        "food-first-restaurant",
+        "food-dietary",
+        "food-market"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "food-dietary",
+      "categoryId": "food-dining",
+      "slug": "navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact",
+      "existingPath": "content/deep-dive/navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact.md",
+      "title": "Dietary Needs in Korea: Vegan, Halal and Allergy Checks",
+      "sourceIds": [
+        "kto-vegetarian",
+        "kto-muslim",
+        "safety"
+      ],
+      "sections": [
+        {
+          "heading": "Separate three different questions",
+          "points": [
+            "Vegetarian/vegan preference, halal requirements and food allergy are different checks. A venue meeting one does not automatically meet the others.",
+            "Use a short written statement of the exact ingredients and preparation constraints you need, prepared with appropriate professional help for a serious allergy."
+          ]
+        },
+        {
+          "heading": "Check hidden ingredients",
+          "points": [
+            "A vegetable-looking dish may include animal broth, fish sauce or seafood seasoning. Ask about the broth, sauce and garnish rather than asking only whether visible meat is present.",
+            "For packaged products, read the actual product label and manufacturer information; a familiar brand or another shopper's photograph is not enough."
+          ]
+        },
+        {
+          "heading": "Read Muslim-friendly labels correctly",
+          "points": [
+            "Use KTO's four categories as different information signals. Pork-free is not halal certification; a Muslim-friendly venue can have only some suitable dishes.",
+            "Check current certificate, specific dish and alcohol/utensil conditions according to your requirements. Do not transfer one branch's status to another."
+          ]
+        },
+        {
+          "heading": "Ask about the kitchen, not just the recipe",
+          "points": [
+            "For allergy risk, ask whether oil, grill, chopping boards and utensils are shared. A request to remove an ingredient does not necessarily remove cross-contact risk.",
+            "If staff cannot confidently explain preparation or communicate your need, choose another venue or a food option whose suitability you can establish."
+          ]
+        },
+        {
+          "heading": "Build a backup plan before mealtime",
+          "points": [
+            "Save two potential restaurants in the neighborhood and confirm hours, menu and requirements directly before traveling across the city.",
+            "Carry your own professionally advised emergency plan and prescribed medication. The site should never prescribe or replace medical advice."
+          ]
+        },
+        {
+          "heading": "When something is urgent",
+          "points": [
+            "If a serious reaction or life-threatening situation occurs, use119 immediately and provide your location; do not wait for a tourism chatbot or community reply.",
+            "Keep the Korean address accessible and tell staff to help contact emergency services."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Label",
+          "Useful information",
+          "What it does not establish"
+        ],
+        "rows": [
+          [
+            "Vegan",
+            "Animal-product criteria",
+            "Allergy/cross-contact safety"
+          ],
+          [
+            "Halal certified",
+            "Certification by relevant body",
+            "Allergen-free preparation"
+          ],
+          [
+            "Muslim-friendly",
+            "Some halal choices may exist",
+            "Every dish/branch is halal"
+          ],
+          [
+            "Pork-free",
+            "No pork according to category",
+            "Halal certification"
+          ]
+        ]
+      },
+      "phrases": [
+        {
+          "ko": "이 음식에 고기나 생선 육수가 들어가나요?",
+          "en": "Does this contain meat or fish broth?"
+        },
+        {
+          "ko": "견과류 알레르기가 있어요. 조리도구를 같이 쓰나요?",
+          "en": "I have a nut allergy. Are utensils shared?"
+        },
+        {
+          "ko": "현재 할랄 인증서를 볼 수 있을까요?",
+          "en": "May I see the current halal certificate?"
+        }
+      ],
+      "checklist": [
+        "Identify your exact requirement",
+        "Check the dish, sauce and broth",
+        "Ask about preparation and shared equipment",
+        "Save a suitable backup",
+        "Carry your own emergency plan"
+      ],
+      "cautions": [
+        "No restaurant is certified allergy-safe by this guide",
+        "Korean phrase cards are communication aids, not safety guarantees"
+      ],
+      "relatedTopicIds": [
+        "food-first-restaurant",
+        "food-market",
+        "essentials-medical"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "food-market",
+      "categoryId": "food-dining",
+      "slug": "gwangjang-market-complete-food-guide",
+      "existingPath": "content/posts/gwangjang-market-complete-food-guide.md",
+      "title": "Gwangjang Market Food Walk: A Practical First Visit",
+      "sourceIds": [
+        "gwangjang",
+        "complaints",
+        "winter-food"
+      ],
+      "sections": [
+        {
+          "heading": "Use a small food walk rather than a checklist marathon",
+          "points": [
+            "Base the route at Jongno5-ga and the market's food alley. Start with a slow look at menus before sitting at the first busy counter.",
+            "Choose one savory shared item, one small snack and an optional warm drink; this is an editorial tasting structure, not a fixed package or advertised price."
+          ]
+        },
+        {
+          "heading": "Find the market and the food alley",
+          "points": [
+            "Use the Korean name 광장시장 and official address88 Changgyeonggung-ro. The tourism listing points to Line1 Jongno5-ga Exit8.",
+            "Food-alley hours differ from textile/vintage sections. A market-level timetable is not proof every stall is open or still serving."
+          ]
+        },
+        {
+          "heading": "Know what you are ordering",
+          "points": [
+            "Gimbap, mung-bean pancakes and tteokbokki are common examples in the official market description. Confirm portion and included extras at the actual stall.",
+            "For allergies/vegetarian needs, check sauces, fillings, cooking oil and shared utensils. Fishcake and broth are not a vegetarian default."
+          ]
+        },
+        {
+          "heading": "Keep spending under control",
+          "points": [
+            "Ask the total price and selling unit before ordering. Share one larger plate before buying several full meals.",
+            "Keep a small amount ofKRW available and ask whether the stall accepts your card. Avoid claims that every market shop is cash-only or has one standard price."
+          ]
+        },
+        {
+          "heading": "Fit the stop into a Jongno day",
+          "points": [
+            "Keep the market as a meal anchor and connect it to a nearby verified activity, rather than crossing the whole city for every meal.",
+            "Check your next fixed reservation and current walking/transit route before leaving. Crowded lanes slow groups and luggage."
+          ]
+        },
+        {
+          "heading": "If something is unclear",
+          "points": [
+            "Point to the posted menu, confirm quantity and total, and ask for a receipt where available. Save stall name and transaction details if you need assistance.",
+            "Walk away before ordering if prices or ingredients cannot be clarified. Do not turn a complaint anecdote into a blanket claim about every stall."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Stop",
+          "Purpose",
+          "Check before buying"
+        ],
+        "rows": [
+          [
+            "Initial walk",
+            "See menus and seating",
+            "Prices and queue"
+          ],
+          [
+            "Savory counter",
+            "Main shared item",
+            "Portion and extras"
+          ],
+          [
+            "Snack stall",
+            "One small taste",
+            "Ingredients and price perpiece"
+          ],
+          [
+            "Exit/next stop",
+            "Continue itinerary",
+            "Next reservation and route"
+          ]
+        ]
+      },
+      "places": [
+        {
+          "name": "Gwangjang Market",
+          "nameKo": "광장시장",
+          "address": "88 Changgyeonggung-ro, Jongno-gu, Seoul",
+          "sourceId": "gwangjang",
+          "coordinates": null
+        }
+      ],
+      "checklist": [
+        "Use the Korean place name",
+        "Check individual stall hours",
+        "Confirm the total before ordering",
+        "Keep a dietary backup",
+        "Avoid bringing large luggage"
+      ],
+      "relatedTopicIds": [
+        "food-first-restaurant",
+        "food-dietary",
+        "shopping-souvenirs"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "new",
+      "id": "food-winter",
+      "categoryId": "food-dining",
+      "slug": "winter-food-and-tea-walk-insadong-seoul",
+      "existingPath": null,
+      "title": "A Winter Food and Tea Walk in Jongno",
+      "sourceIds": [
+        "winter-food",
+        "tea-museum",
+        "tea-binnaneun",
+        "ssamzigil"
+      ],
+      "sections": [
+        {
+          "heading": "Plan warm stops before the cold walk",
+          "points": [
+            "Build a short Insadong-centered loop with one indoor anchor and optional street snack. Treat the route as flexible: wind, ice, crowds and daylight affect what feels comfortable.",
+            "Check a teahouse's current menu and hours before arrival; street vendors are not fixed attractions with guaranteed stock."
+          ]
+        },
+        {
+          "heading": "Choose snacks by ingredients as well as appearance",
+          "points": [
+            "Hotteok and bungeoppang are seasonal snack examples; fillings can vary. Eomuk and noodle soup may contain fish stock.",
+            "Ask about nuts, dairy, eggs and wheat as relevant. A fish-shaped bun does not tell you its recipe, and a vegetable garnish does not establish vegetarian broth."
+          ]
+        },
+        {
+          "heading": "Use Insadong for browsing and a rest",
+          "points": [
+            "Ssamzi-gil at44 Insadong-gil can be the craft-shopping anchor. It is a shopping complex, not a promise that any specific workshop is available.",
+            "Keep the outdoor portion short enough that you can skip it if pavements are slippery. Do not advertise a universal accessible route without a step/entrance audit."
+          ]
+        },
+        {
+          "heading": "Choose one indoor tea stop",
+          "points": [
+            "The Beautiful Tea Museum listing places it at19-11 Insadong-gil; gallery entry and cafe purchases are separate decisions.",
+            "Banjjakbanjjak Binnaneun is another officially listed tea option at28-1 Insadong-gil. Confirm seating, menu and dietary needs directly rather than assume a fixed set price."
+          ]
+        },
+        {
+          "heading": "Set your own budget",
+          "points": [
+            "Use a simple line for snack, tea, transport and optional purchases. Compare the posted menu before ordering; this article should offer editable assumptions rather than fake current prices.",
+            "Carry a warm layer you can remove indoors and keep bags manageable in small shops."
+          ]
+        },
+        {
+          "heading": "Connect the walk to a larger day",
+          "points": [
+            "Use this as a food-and-rest break between a museum, craft browsing and a heritage visit. Check separate opening/last-admission times.",
+            "If you have a night ticket, leave a route buffer and avoid a second long queue."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Condition",
+          "Adjustment"
+        ],
+        "rows": [
+          [
+            "Calm weather",
+            "One snack and one tea stop"
+          ],
+          [
+            "Wind or ice",
+            "One indoor anchor and a short verified walk"
+          ],
+          [
+            "Dietary uncertainty",
+            "Skip unverified street food"
+          ],
+          [
+            "Timed evening booking",
+            "Eat early and allow travel time"
+          ]
+        ]
+      },
+      "places": [
+        {
+          "name": "Ssamzi-gil",
+          "nameKo": "쌈지길",
+          "address": "44 Insadong-gil, Jongno-gu, Seoul",
+          "sourceId": "ssamzigil",
+          "coordinates": null
+        },
+        {
+          "name": "Beautiful Tea Museum",
+          "nameKo": "아름다운 차박물관",
+          "address": "19-11 Insadong-gil, Jongno-gu, Seoul",
+          "sourceId": "tea-museum",
+          "coordinates": null
+        }
+      ],
+      "checklist": [
+        "Check hours and last orders",
+        "Choose a backup indoor stop",
+        "Check ingredients",
+        "Wear removable layers",
+        "Keep a buffer before an evening booking"
+      ],
+      "relatedTopicIds": [
+        "food-dietary",
+        "shopping-souvenirs",
+        "culture-choose"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "shopping-areas",
+      "categoryId": "shopping-kbeauty",
+      "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+      "existingPath": "content/posts/seoul-shopping-districts-complete-guide-myeongdong-to-gangnam.md",
+      "title": "Where to Shop in Seoul: Choose an Area by What You Need",
+      "sourceIds": [
+        "insadong",
+        "ssamzigil",
+        "namdaemun",
+        "hongdae",
+        "seongsu",
+        "olive-members"
+      ],
+      "sections": [
+        {
+          "heading": "Start with a shopping purpose",
+          "points": [
+            "Choose between beauty chains, traditionalcrafts, casualfashion, designshops and marketgoods. A district can have several of these, but visiting every famous neighborhood wastes travel time.",
+            "Write three priority purchases and a spending limit before planning the route. Add store-specific locations only after confirming the official branch."
+          ]
+        },
+        {
+          "heading": "Traditional goods and gifts",
+          "points": [
+            "Insadong/Ssamzi-gil suit browsing crafts and small galleries; Namdaemun is a market area nearHoehyeon. These are different shopping experiences, not a quality or price ranking.",
+            "Ask about materials, maker, fragility, packaging and return policy. A Korean-themed product is not automatically made inKorea."
+          ]
+        },
+        {
+          "heading": "Casual fashion and design",
+          "points": [
+            "Hongdae suits an area-based fashion/culture browse; Seongsu Yeonmujang-gil mixes design shops and popups.",
+            "Popup shops can require reservations or change quickly. Do not build a travel day around a campaign photograph without checking the organizer."
+          ]
+        },
+        {
+          "heading": "Beauty shopping needs a store-level check",
+          "points": [
+            "Use domestic store information for a Korean store visit. Global website prices, coupons and reward memberships may not apply locally.",
+            "Compare exact product name, volume, bundle contents and final price; the cheapest apparent bottle may be a smaller size or different formula."
+          ]
+        },
+        {
+          "heading": "Cluster stops with your itinerary",
+          "points": [
+            "Combine nearby shopping with a meal or culture stop and reserve a separate slot for a different district. Bags change your walking comfort.",
+            "Use transit directions from your actual hotel, not a generic centralSeoul travel time. Put bulky purchases near the end of the day."
+          ]
+        },
+        {
+          "heading": "Protect the purchase and the departure",
+          "points": [
+            "Keep receipts, check tax-refund eligibility at the participating seller and photograph productdetails if useful.",
+            "Before buying fragile/liquid products, check packing, airline security and your home country's import rules."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Purpose",
+          "Area to investigate",
+          "Key check"
+        ],
+        "rows": [
+          [
+            "Crafts and souvenirs",
+            "Insadong and Ssamzi-gil",
+            "Maker, material and packaging"
+          ],
+          [
+            "Market goods",
+            "Namdaemun",
+            "Seller hours, quantities and returns"
+          ],
+          [
+            "Casual fashion",
+            "Hongdae",
+            "Fitting, sizing and stock"
+          ],
+          [
+            "Design and popups",
+            "Seongsu",
+            "Organizer dates and reservations"
+          ],
+          [
+            "Beauty chain",
+            "A confirmed domestic branch",
+            "Local price, membership and bundle"
+          ]
+        ]
+      },
+      "checklist": [
+        "Choose purchase priorities",
+        "Verify the actual branch",
+        "Compare exact variants",
+        "Plan for bag weight",
+        "Keep receipts"
+      ],
+      "relatedTopicIds": [
+        "shopping-olive",
+        "shopping-tax",
+        "shopping-souvenirs",
+        "shopping-packing"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "shopping-olive",
+      "categoryId": "shopping-kbeauty",
+      "slug": "olive-young-must-buys-2026",
+      "existingPath": "content/deep-dive/olive-young-must-buys-2026.md",
+      "title": "Olive Young Shopping Checklist: Compare Products Without the Hype",
+      "sourceIds": [
+        "olive-members",
+        "taxrefund",
+        "airport-liquids"
+      ],
+      "sections": [
+        {
+          "heading": "Build a practical shortlist",
+          "points": [
+            "Choose a familiar product category, desired texture, size and spending limit. This is a purchase checklist, not a diagnosis or skin-treatment prescription. Avoid adding many unfamiliar active products because of a popularity display; seek qualified advice for a medical skin condition."
+          ]
+        },
+        {
+          "heading": "Compare the exact product",
+          "points": [
+            "Check the complete name, formula, volume, package count and included gifts. Compare price per milliliter or item only between matching variants. A bundle on the shelf may differ from the single bottle beside it, so check the barcode and checkout summary."
+          ]
+        },
+        {
+          "heading": "Keep global and Korean-store benefits separate",
+          "points": [
+            "OLIVE YOUNG Global's official membership FAQ excludes local Korean stores. Do not count global points or coupons when estimating a domestic-store purchase. Confirm the branch's own current benefits and final checkout price."
+          ]
+        },
+        {
+          "heading": "Use testers and labels carefully",
+          "points": [
+            "Ask staff about sampling rules and read the actual ingredient label. A tester does not establish absence of allergens or predict a reaction. If you cannot establish a product's suitability, leave it off the shortlist."
+          ]
+        },
+        {
+          "heading": "Check the refund route before paying",
+          "points": [
+            "At a participating seller, present your passport and ask which refund process applies. Keep eligible goods and paperwork available for departure checks. The brand name alone does not establish eligibility, and the VAT headline rate is not the cash refund."
+          ]
+        },
+        {
+          "heading": "Buy for the luggage you have",
+          "points": [
+            "Check container capacity against international carry-on rules and plan checked packing for larger liquids. Do not open or refill goods you intend to export as new and unused. Leave time to pack and weigh your purchases before airport day."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Check",
+          "Record"
+        ],
+        "rows": [
+          [
+            "Variant",
+            "Full name and formula"
+          ],
+          [
+            "Quantity",
+            "Milliliters, grams or units"
+          ],
+          [
+            "Final price",
+            "Checkout total after verified benefits"
+          ],
+          [
+            "Suitability",
+            "Ingredients and your requirements"
+          ],
+          [
+            "Departure",
+            "Refund documents and packing"
+          ]
+        ]
+      },
+      "checklist": [
+        "Choose products for your needs",
+        "Compare the exact package",
+        "Keep Global membership separate",
+        "Verify the refund process",
+        "Pack according to container capacity"
+      ],
+      "relatedTopicIds": [
+        "shopping-areas",
+        "shopping-tax",
+        "shopping-packing"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "shopping-tax",
+      "categoryId": "shopping-kbeauty",
+      "slug": "tax-refund-for-tourists-how-to-claim",
+      "existingPath": "content/posts/tax-refund-for-tourists-how-to-claim.md",
+      "title": "Korea Tourist Tax Refunds: From Checkout to Departure",
+      "sourceIds": [
+        "taxrefund",
+        "airport-liquids"
+      ],
+      "sections": [
+        {
+          "heading": "Check your eligibility first",
+          "points": [
+            "The KTO guide describes qualifying short-stay nonresident visitors exporting new, unused goods within three months. Residency and time spent in Korea matter. Confirm purchase-date rules with the seller or refund operator rather than treating every shopping receipt as refundable."
+          ]
+        },
+        {
+          "heading": "Identify the refund route",
+          "points": [
+            "Immediate refund, deferred airport refund and downtown refund are different processes. Ask which operator issued the receipt and what remains to be done at departure. Do not claim twice or assume a downtown payout removes export verification."
+          ]
+        },
+        {
+          "heading": "Understand the limits and final amount",
+          "points": [
+            "KTO lists a KRW15,000 minimum and immediate-refund limits below KRW1,000,000 per payment and up to KRW5,000,000 total trip spending. Confirm current limits at purchase. Fees and eligibility mean the refund is not automatically ten percent."
+          ]
+        },
+        {
+          "heading": "Keep a small refund folder",
+          "points": [
+            "Keep passport, refund receipts, operator references and payment details together. Mark which purchases were processed immediately and which still need departure action. Keep goods available for inspection rather than packing them beyond reach."
+          ]
+        },
+        {
+          "heading": "Check before airline bag drop",
+          "points": [
+            "Confirm whether customs needs to inspect goods in checked baggage before handing the bag over. Follow current airport and operator instructions for the correct order. Terminal counters, hours and services can change."
+          ]
+        },
+        {
+          "heading": "Follow up through the operator",
+          "points": [
+            "If a counter is closed or payment is delayed, use the documented submission method and keep reference numbers. Ask the operator about its processing period. Do not upload passport photos or card details to public comments."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Stage",
+          "Keep ready",
+          "Verify"
+        ],
+        "rows": [
+          [
+            "Checkout",
+            "Passport",
+            "Participating seller and operator"
+          ],
+          [
+            "Before bag drop",
+            "Goods and receipts",
+            "Is inspection required?"
+          ],
+          [
+            "After security",
+            "Passport and approved paperwork",
+            "Correct refund counter"
+          ],
+          [
+            "After departure",
+            "Reference and receipts",
+            "Operator processing period"
+          ]
+        ]
+      },
+      "checklist": [
+        "Confirm visitor eligibility",
+        "Identify one refund route",
+        "Record the operator",
+        "Keep goods unused where required",
+        "Check inspection before bag drop",
+        "Retain reference numbers"
+      ],
+      "cautions": [
+        "Reconfirm thresholds attransactiondate",
+        "No100%VATrefundpromise"
+      ],
+      "relatedTopicIds": [
+        "shopping-olive",
+        "shopping-packing",
+        "shopping-souvenirs"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "shopping-souvenirs",
+      "categoryId": "shopping-kbeauty",
+      "slug": "insadong-traditional-crafts-and-souvenirs",
+      "existingPath": "content/posts/insadong-traditional-crafts-and-souvenirs.md",
+      "title": "Insadong and Namdaemun Souvenirs: A Buyer’s Route",
+      "sourceIds": [
+        "insadong",
+        "ssamzigil",
+        "namdaemun",
+        "complaints"
+      ],
+      "sections": [
+        {
+          "heading": "Choose the shopping purpose",
+          "points": [
+            "Use Insadong for craft browsing and a tea break, or Namdaemun for a market shopping stop. They need not be forced into one afternoon. Decide the recipient, budget, material and luggage constraints before comparing shops."
+          ]
+        },
+        {
+          "heading": "Inspect craft details in Insadong",
+          "points": [
+            "Start from Ssamzi-gil's verified address and browse surrounding shops. Ask who made an item, what it is made from and how it should be cared for. Korean-themed does not automatically mean handmade or made in Korea."
+          ]
+        },
+        {
+          "heading": "Compare selling units at Namdaemun",
+          "points": [
+            "Use Hoehyeon Station and the official market address. Ask whether a price covers one piece, a set or a bulk quantity. Hours, delivery promises and return policies vary between sellers."
+          ]
+        },
+        {
+          "heading": "Check the item before paying",
+          "points": [
+            "Inspect cracks, closures, size and item count; ask what protective packaging is included. Retain the receipt and shop contact. Photograph product details only where permitted."
+          ]
+        },
+        {
+          "heading": "Pause before buying food or heavy gifts",
+          "points": [
+            "Food, seeds, plants and animal products can face destination restrictions; ceramics need padding and baggage capacity. Check official destination customs and airline requirements rather than accepting a general assurance from a seller."
+          ]
+        },
+        {
+          "heading": "Connect shopping with a realistic day",
+          "points": [
+            "Pair Insadong with a nearby verified cultural stop and rest break. Treat Namdaemun as a separate district choice rather than a neighboring shop. Buy bulky items near the end and keep a weather alternative."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Item",
+          "Inspect",
+          "Departure check"
+        ],
+        "rows": [
+          [
+            "Ceramics",
+            "Cracks, glaze and packaging",
+            "Protection and weight"
+          ],
+          [
+            "Paper or stationery",
+            "Material, size and finish",
+            "Moisture protection"
+          ],
+          [
+            "Textiles",
+            "Size, care and label",
+            "Bag space"
+          ],
+          [
+            "Food",
+            "Ingredients, seal and expiry",
+            "Destination import rules"
+          ]
+        ]
+      },
+      "places": [
+        {
+          "name": "Ssamzi-gil",
+          "nameKo": "쌈지길",
+          "address": "44 Insadong-gil, Jongno-gu, Seoul",
+          "sourceId": "ssamzigil",
+          "coordinates": null
+        },
+        {
+          "name": "Namdaemun Market",
+          "nameKo": "남대문시장",
+          "address": "21 Namdaemunsijang4-gil, Jung-gu, Seoul",
+          "sourceId": "namdaemun",
+          "coordinates": null
+        }
+      ],
+      "checklist": [
+        "Choose a shopping purpose",
+        "Confirm the selling unit",
+        "Inspect before paying",
+        "Keep the receipt",
+        "Check import and packing rules"
+      ],
+      "relatedTopicIds": [
+        "shopping-areas",
+        "shopping-tax",
+        "shopping-packing",
+        "food-winter"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "new",
+      "id": "shopping-packing",
+      "categoryId": "shopping-kbeauty",
+      "slug": "packing-korean-shopping-liquids-and-souvenirs-for-your-flight",
+      "existingPath": null,
+      "title": "Pack Your Korea Shopping: Liquids, Souvenirs and the Flight Home",
+      "sourceIds": [
+        "airport-liquids",
+        "taxrefund"
+      ],
+      "sections": [
+        {
+          "heading": "Separate three sets of rules",
+          "points": [
+            "Airport security controls screening, the airline controls baggage allowances, and your destination controls imports. Check each for the actual ticket and route. Korean inbound duty allowances do not describe the rules for returning home."
+          ]
+        },
+        {
+          "heading": "Sort liquids by container capacity",
+          "points": [
+            "For international carry-on screening, Incheon guidance uses containers of no more than100ml in one clear resealable1L bag per person. A half-empty large bottle is still a large container. Cosmetics, toothpaste, kimchi and gochujang can fall within liquid or gel rules."
+          ]
+        },
+        {
+          "heading": "Check duty-free and transit conditions",
+          "points": [
+            "Proper duty-free liquid bags have rules different from normal shopping bags. Keep the required seal and purchase proof. Check transfer-airport and airline conditions instead of assuming an exception covers every airport."
+          ]
+        },
+        {
+          "heading": "Keep refund goods inspectable",
+          "points": [
+            "If export inspection is required, confirm the order of customs inspection and airline bag drop. Keep goods unused where required and carry receipts with travel documents. Do not bury everything in a sealed checked bag before checking the process."
+          ]
+        },
+        {
+          "heading": "Protect fragile goods and weigh bags",
+          "points": [
+            "Prevent ceramics and bottles from moving or striking other items. Ask for packing instructions and compare actual bag weight with the ticket allowance. Leave a practical margin for the rest of your belongings."
+          ]
+        },
+        {
+          "heading": "Check unfamiliar or restricted purchases",
+          "points": [
+            "Use the airport prohibited-item search and airline dangerous-goods guidance for batteries, aerosols and special products. For food, plants and medicines, check destination authorities before buying. Unclear permission is not proof an item is allowed."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Purchase",
+          "First check",
+          "Then check"
+        ],
+        "rows": [
+          [
+            "Skincare liquid",
+            "Container capacity",
+            "Airline packing rules"
+          ],
+          [
+            "Duty-free liquid",
+            "Sealed bag and receipt",
+            "Transit screening"
+          ],
+          [
+            "Ceramic",
+            "Packing and weight",
+            "Baggage allowance"
+          ],
+          [
+            "Food",
+            "Ingredients and destination rules",
+            "Liquid or gel screening"
+          ],
+          [
+            "Refund goods",
+            "Unused and inspectable",
+            "Inspection before bag drop"
+          ]
+        ]
+      },
+      "checklist": [
+        "Check ticket baggage allowance",
+        "Sort liquids",
+        "Check transit conditions",
+        "Keep refund goods inspectable",
+        "Weigh bags",
+        "Check destination import rules"
+      ],
+      "relatedTopicIds": [
+        "shopping-tax",
+        "shopping-olive",
+        "shopping-souvenirs"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "new",
+      "id": "culture-choose",
+      "categoryId": "culture-events",
+      "slug": "choosing-korean-cultural-experiences-reservations-and-walk-in-options",
+      "existingPath": null,
+      "title": "Choose Your Korean Cultural Experience: Palaces, Crafts and Performances",
+      "sourceIds": [
+        "hanbok",
+        "palace-general",
+        "palace-starlight",
+        "palace-moonlight",
+        "yes24",
+        "nmk",
+        "ssamzigil"
+      ],
+      "sections": [
+        {
+          "heading": "Match the experience to your day",
+          "points": [
+            "Choose flexible sightseeing, a guided program, a workshop or a fixed-time performance. Keep one main anchor per half-day with a nearby backup. This leaves room to enjoy the experience and handle queues or weather."
+          ]
+        },
+        {
+          "heading": "Separate ordinary entry from special events",
+          "points": [
+            "A general palace ticket, night opening and guided night program are distinct products. Hanbok admission conditions do not automatically cover separate ticketed events. Check the exact event, palace, language, date and meeting point."
+          ]
+        },
+        {
+          "heading": "Choose a flexible indoor alternative",
+          "points": [
+            "A museum collection or craft browsing stop can fit wet or cold weather. Special exhibitions, children's sessions and workshops may require separate reservations. Verify the specific venue and program."
+          ]
+        },
+        {
+          "heading": "Check language and participation conditions",
+          "points": [
+            "Check tour language, audio guidance and how much instruction the activity requires. For workshops, ask about ages, duration, materials, pickup timing and whether the finished item can travel with you."
+          ]
+        },
+        {
+          "heading": "Keep ticket identity consistent",
+          "points": [
+            "Use an official seller's international flow and read named-ticket rules before booking. Do not assume a friend's booking or a resale screenshot will admit you. The event's own entry conditions prevail."
+          ]
+        },
+        {
+          "heading": "Compare the practical tradeoffs",
+          "points": [
+            "Compare start time, weather exposure, booking need, language, travel and cancellation conditions. If the next season has not been announced, link to the official notice rather than inventing dates."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Experience",
+          "Flexibility",
+          "Verify"
+        ],
+        "rows": [
+          [
+            "Ordinary palace visit",
+            "Relatively flexible",
+            "Opening day and entry conditions"
+          ],
+          [
+            "Special night program",
+            "Fixed date and time",
+            "Ticket, language and meeting point"
+          ],
+          [
+            "Museum",
+            "Varies by exhibition",
+            "Branch, closure and reservation"
+          ],
+          [
+            "Workshop",
+            "Fixed session",
+            "Age, materials and pickup"
+          ],
+          [
+            "Performance",
+            "Fixed time",
+            "ID, ticket and cancellation"
+          ]
+        ]
+      },
+      "checklist": [
+        "Choose one anchor per half-day",
+        "Verify the exact program",
+        "Check language",
+        "Confirm ticket identity",
+        "Keep a weather backup"
+      ],
+      "relatedTopicIds": [
+        "culture-palace-night",
+        "culture-hanbok",
+        "culture-tickets",
+        "culture-museums",
+        "shopping-souvenirs"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "culture-palace-night",
+      "categoryId": "culture-events",
+      "slug": "palace-starlight-night-tours-2026",
+      "existingPath": "content/deep-dive/palace-starlight-night-tours-2026.md",
+      "title": "Seoul Palace Nights: General Night Viewing, Starlight and Moonlight",
+      "sourceIds": [
+        "palace-general",
+        "palace-starlight",
+        "palace-moonlight",
+        "hanbok"
+      ],
+      "sections": [
+        {
+          "heading": "Check whether the season is open",
+          "points": [
+            "As of October30,2026, the cited autumn sessions have ended. Present this as a program comparison and preparation guide for future announcements. Historic dates and rules must be labeled, and no live booking availability is established here."
+          ]
+        },
+        {
+          "heading": "General night viewing is a separate product",
+          "points": [
+            "Gyeongbokgung's general night viewing opens selected areas under its own entry conditions. The cited2026 autumn run ended October2. That historical example explains why readers must verify the year and exact notice."
+          ]
+        },
+        {
+          "heading": "Starlight is Gyeongbokgung's organized program",
+          "points": [
+            "Use the official name 별빛야행 and check the actual season's included areas, dining or performance components, language and meeting point. The cited autumn run ended October24. Do not merge its calendar or price with general admission."
+          ]
+        },
+        {
+          "heading": "Moonlight takes place at Changdeokgung",
+          "points": [
+            "달빛기행 has its own palace, guided route and reservation details. The cited autumn run ended October17. A ticket for one palace or program is not interchangeable with the others."
+          ]
+        },
+        {
+          "heading": "Plan the rest of the evening around the ticket",
+          "points": [
+            "Confirm date, required arrival time, gate, language, ID, age conditions, walking demands and weather policy. Save the Korean meeting point and return route. Avoid a long dinner queue immediately before a timed tour."
+          ]
+        },
+        {
+          "heading": "Use a genuine backup",
+          "points": [
+            "If night tickets are unavailable, choose an ordinary day visit or another verified cultural activity. General hanbok admission rules do not establish access to special ticketed night programs. Future dates need fresh official evidence."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Program",
+          "Palace",
+          "Cited autumn2026 status",
+          "Next-season source"
+        ],
+        "rows": [
+          [
+            "General night viewing",
+            "Gyeongbokgung",
+            "Ended October2",
+            "Official palace notice"
+          ],
+          [
+            "Starlight / 별빛야행",
+            "Gyeongbokgung",
+            "Ended October24",
+            "Official program ticketing"
+          ],
+          [
+            "Moonlight / 달빛기행",
+            "Changdeokgung",
+            "Ended October17",
+            "Official program ticketing"
+          ]
+        ]
+      },
+      "checklist": [
+        "Verify the program and palace",
+        "Read the current season notice",
+        "Check language and ID",
+        "Save the meeting gate",
+        "Read the weather policy",
+        "Plan the return route"
+      ],
+      "cautions": [
+        "Do notinvent2027dates",
+        "ExistingURLhasmostobservedsearchinterest: preserveit",
+        "No current-ticket availability established"
+      ],
+      "relatedTopicIds": [
+        "culture-choose",
+        "culture-hanbok",
+        "food-winter",
+        "essentials-maps"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "culture-hanbok",
+      "categoryId": "culture-events",
+      "slug": "hanbok-rental-complete-guide-styles-and-pricing",
+      "existingPath": "content/posts/hanbok-rental-complete-guide-styles-and-pricing.md",
+      "title": "Hanbok and Palace Visits: Rental, Weather and Entry Rules",
+      "sourceIds": [
+        "hanbok",
+        "palace-general"
+      ],
+      "sections": [
+        {
+          "heading": "Plan the palace before the rental",
+          "points": [
+            "Check the palace opening day, entry window and areas you want to see. Include changing time, photography and the walk back in the rental period. A costume booking does not reserve palace admission."
+          ]
+        },
+        {
+          "heading": "Read the official clothing conditions",
+          "points": [
+            "Traditional and modern hanbok can qualify when the upper and lower garments meet published guidelines. A jeogori with jeans, hanbok bottoms with a T-shirt or just an overcoat do not qualify. Entry staff apply the actual criteria."
+          ]
+        },
+        {
+          "heading": "Separate free general entry from special tickets",
+          "points": [
+            "A general admission waiver does not automatically cover guided night programs or restricted events. Read the exact program notice before buying a rental specifically for a night activity."
+          ]
+        },
+        {
+          "heading": "Compare the whole rental package",
+          "points": [
+            "Ask for duration, return deadline, deposit, cleaning or damage rules, hair styling, accessories, locker access and late fees. Compare the complete total rather than the starting price. Services vary by shop."
+          ]
+        },
+        {
+          "heading": "Dress for walking and weather",
+          "points": [
+            "Ask whether layers and outerwear work with the selected style and entry conditions. Wear stable footwear and watch long hems near steps. In rain, check the wet-garment policy and consider shortening the outdoor plan."
+          ]
+        },
+        {
+          "heading": "Check fit and access before leaving",
+          "points": [
+            "Try walking, sitting and using stairs; ask about sizing and accessible changing space. Return on time and retain the contract or receipt. Keep identity and payment documents out of public comments."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Before paying",
+          "Question"
+        ],
+        "rows": [
+          [
+            "Package",
+            "What is included?"
+          ],
+          [
+            "Duration",
+            "When must I return?"
+          ],
+          [
+            "Weather",
+            "What happens if it rains?"
+          ],
+          [
+            "Deposit",
+            "How is it charged and refunded?"
+          ],
+          [
+            "Entry",
+            "Does this outfit meet official guidelines?"
+          ]
+        ]
+      },
+      "checklist": [
+        "Check the palace is open",
+        "Allow rental return time",
+        "Check included fees",
+        "Prepare for weather",
+        "Try walking in the outfit",
+        "Read the correct entry policy"
+      ],
+      "relatedTopicIds": [
+        "culture-palace-night",
+        "culture-choose",
+        "shopping-souvenirs"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "culture-tickets",
+      "categoryId": "culture-events",
+      "slug": "how-to-get-k-pop-concert-tickets-ticketing-guide",
+      "existingPath": "content/posts/how-to-get-k-pop-concert-tickets-ticketing-guide.md",
+      "title": "Book Performances in Korea: Identity, Payment and Entry Checks",
+      "sourceIds": [
+        "yes24",
+        "safety"
+      ],
+      "sections": [
+        {
+          "heading": "Start with the organizer",
+          "points": [
+            "Follow the artist's or venue's official announcement to an authorized seller. Record venue, date, time, age conditions and sales channel. A search advertisement or resale listing is not proof of authorization."
+          ]
+        },
+        {
+          "heading": "Prepare the international account",
+          "points": [
+            "Use the seller's supported global flow and match identity details to your passport. Selected YES24 shows require verified membership. Complete official checks before the sale rather than during the busiest minute."
+          ]
+        },
+        {
+          "heading": "Read payment and cancellation conditions",
+          "points": [
+            "Check accepted payment methods, currency, fees, cancellation deadline and refund terms. A card decline does not prove a show is sold out. Check transaction status before retrying to avoid duplicate payments."
+          ]
+        },
+        {
+          "heading": "Know what you must show at entry",
+          "points": [
+            "YES24's general will-call guidance asks for physical valid ID or passport and booking confirmation. Show-specific conditions take priority. Check collection, e-ticket or delivery method and who may collect the ticket."
+          ]
+        },
+        {
+          "heading": "Plan entry and the return journey",
+          "points": [
+            "Allow time for ticket collection, identity checks, bag inspection and finding the seat. Save the Korean venue name and gate. Check transport at the expected finishing time, with a backup if needed."
+          ]
+        },
+        {
+          "heading": "Use official changes and support",
+          "points": [
+            "Follow the authorized seller's cancellation or transfer process. Do not assume a resale screenshot will be accepted. Keep booking numbers and identity records private when asking general community questions."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Stage",
+          "Verify"
+        ],
+        "rows": [
+          [
+            "Announcement",
+            "Authorized seller and venue"
+          ],
+          [
+            "Account",
+            "Name and identity check"
+          ],
+          [
+            "Checkout",
+            "Currency, fees and cancellation"
+          ],
+          [
+            "Venue",
+            "Physical ID and ticket method"
+          ],
+          [
+            "Return",
+            "Transport time and backup"
+          ]
+        ]
+      },
+      "checklist": [
+        "Use an authorized seller",
+        "Keep identity details consistent",
+        "Verify early if required",
+        "Read show-specific rules",
+        "Bring required physical ID",
+        "Save the return route"
+      ],
+      "relatedTopicIds": [
+        "culture-choose",
+        "essentials-payments",
+        "essentials-maps"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "new",
+      "id": "culture-museums",
+      "categoryId": "culture-events",
+      "slug": "seoul-museums-and-exhibitions-planning-guide",
+      "existingPath": null,
+      "title": "Seoul Museums and Exhibitions: Choose, Reserve and Plan Your Visit",
+      "sourceIds": [
+        "nmk",
+        "sema",
+        "insadong"
+      ],
+      "sections": [
+        {
+          "heading": "Choose a collection and neighborhood",
+          "points": [
+            "Pick one substantial collection or exhibition rather than several distant museums. Start with art, history or crafts and check travel from your actual accommodation. Museums differ in rooms, seating and reservation needs."
+          ]
+        },
+        {
+          "heading": "Separate permanent and special admission",
+          "points": [
+            "General collection access can differ from paid exhibitions and children's sessions. Check the actual exhibition page for ticket, date, language and age conditions. Free entry does not mean every event is unreserved."
+          ]
+        },
+        {
+          "heading": "Read last admission and closures",
+          "points": [
+            "Use the official venue's schedule, allowing for last entry, holidays and installation closures. NMK and SeMA branches publish different patterns. Never apply one branch's timetable to the whole institution."
+          ]
+        },
+        {
+          "heading": "Plan a comfortable visit",
+          "points": [
+            "Check lockers, coat storage, seating, lifts and stroller or wheelchair services. Verify bag and photography rules. Facilities listed for another museum do not establish what is available at your destination."
+          ]
+        },
+        {
+          "heading": "Add one nearby rest stop",
+          "points": [
+            "Combine the visit with a verified food, tea or craft stop in the same area. Allow time for travel and last orders. Skip the optional stop if the exhibition fills the afternoon."
+          ]
+        },
+        {
+          "heading": "Check rights before publishing pictures",
+          "points": [
+            "Visitor photography permission is not automatically commercial publication permission. Use individually licensed images or written authorization. Do not download museum promotional photographs without checking their terms."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Plan field",
+          "Save"
+        ],
+        "rows": [
+          [
+            "Museum or branch",
+            "Exact name and Korean address"
+          ],
+          [
+            "Exhibition",
+            "Permanent, special or children's"
+          ],
+          [
+            "Timing",
+            "Last admission and closure"
+          ],
+          [
+            "Access",
+            "Lockers, lifts and seating"
+          ],
+          [
+            "Rights",
+            "Photography and publication rules"
+          ]
+        ]
+      },
+      "checklist": [
+        "Confirm the exact branch",
+        "Check exhibition tickets",
+        "Check closures and last entry",
+        "Review facilities",
+        "Read photography permissions",
+        "Choose a nearby rest stop"
+      ],
+      "relatedTopicIds": [
+        "culture-choose",
+        "food-winter",
+        "shopping-souvenirs"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "new",
+      "id": "essentials-troubleshooting",
+      "categoryId": "travel-essentials",
+      "slug": "korea-travel-problem-solving-guide",
+      "existingPath": null,
+      "title": "Korea Travel Problems: What to Do When Plans Stop Working",
+      "sourceIds": [
+        "safety",
+        "emergency",
+        "money",
+        "naver-language",
+        "pharmacy"
+      ],
+      "sections": [
+        {
+          "heading": "Separate danger from inconvenience",
+          "points": [
+            "Use112 for police or119 for fire and ambulance when life or property is threatened. For payment, reservation or transport problems, start with the responsible operator. Provide your location and do not wait for a community reply in an emergency."
+          ]
+        },
+        {
+          "heading": "Prepare a small fallback kit",
+          "points": [
+            "Save accommodation name and Korean address, booking references and official support contacts. Keep critical instructions available without mobile data. Store passport and payment details securely, away from public screenshots or comments."
+          ]
+        },
+        {
+          "heading": "When mobile data fails",
+          "points": [
+            "Check which line provides data and whether activation and roaming settings match the provider's instructions. Keep a known Wi-Fi and support fallback. Data-only connectivity does not establish local voice or SMS eligibility."
+          ]
+        },
+        {
+          "heading": "When a payment fails",
+          "points": [
+            "Ask staff about another authorized terminal or method and check issuer alerts. Keep a modest cash backup. Avoid repeatedly submitting while the transaction status is unclear."
+          ]
+        },
+        {
+          "heading": "When the place is difficult to find",
+          "points": [
+            "Search the Korean name or address, verify the branch and entrance, and show staff your destination. Check the actual starting point and time for transit. A translated name may identify another location."
+          ]
+        },
+        {
+          "heading": "When you need medical help",
+          "points": [
+            "For routine needs, verify pharmacy or clinic hours and carry medication records and insurance information. Emergency dispatch, travel interpretation and infectious-disease information are different services. Do not present1339 as the generic ambulance number."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Problem",
+          "First action",
+          "Backup"
+        ],
+        "rows": [
+          [
+            "Danger",
+            "112 or119 and location",
+            "Ask staff to assist"
+          ],
+          [
+            "Data",
+            "Check line and activation",
+            "Provider support or known Wi-Fi"
+          ],
+          [
+            "Payment",
+            "Ask staff and check issuer",
+            "Alternative method or KRW"
+          ],
+          [
+            "Navigation",
+            "Korean name and branch",
+            "Show the address"
+          ],
+          [
+            "Routine care",
+            "Verify pharmacy or clinic",
+            "Insurance assistance"
+          ]
+        ]
+      },
+      "checklist": [
+        "Save the Korean hotel address",
+        "Keep booking references",
+        "Carry payment backup",
+        "Know how to give your location",
+        "Keep medication records"
+      ],
+      "relatedTopicIds": [
+        "essentials-sim",
+        "essentials-payments",
+        "essentials-maps",
+        "essentials-medical"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "essentials-sim",
+      "categoryId": "travel-essentials",
+      "slug": "esim-vs-usim-vs-portable-wi-fi-2026",
+      "existingPath": "content/deep-dive/esim-vs-usim-vs-portable-wi-fi-2026.md",
+      "title": "Korea SIM, eSIM or Pocket Wi-Fi: Choose and Activate",
+      "sourceIds": [
+        "kt-esim",
+        "transport-payments"
+      ],
+      "sections": [
+        {
+          "heading": "Choose for your device and group",
+          "points": [
+            "An eSIM needs a compatible unlocked device, a physical SIM needs a suitable slot, and pocket Wi-Fi depends on battery and staying near the router. Check the specific product's device list rather than relying only on an eSIM menu."
+          ]
+        },
+        {
+          "heading": "Separate data, phone number and verification",
+          "points": [
+            "A data-only product may not provide calls or SMS required by local services. An assigned number does not guarantee every identity or OTP flow will accept it. Read the carrier's actual conditions before buying for bookings."
+          ]
+        },
+        {
+          "heading": "Prepare before departure",
+          "points": [
+            "Check carrier lock, compatibility, installation instructions, activation trigger, expiry, extension and refund terms. Match passport data exactly where required. KT's voice services can require an entry check; other providers have their own rules."
+          ]
+        },
+        {
+          "heading": "Activate without losing your backup",
+          "points": [
+            "Follow the provider's instructions over a trusted connection and select the intended line for data. Review home-carrier roaming charges. Do not delete an eSIM as the first troubleshooting step unless support instructs you."
+          ]
+        },
+        {
+          "heading": "If data does not work",
+          "points": [
+            "Check activation date, line selection, provider-specified APN or roaming settings and the plan's coverage. Save support and airport-counter information beforehand. Do not invent universal APN values."
+          ]
+        },
+        {
+          "heading": "Compare total use rather than headline price",
+          "points": [
+            "Check duration, fair-use limits, throttling, hotspot, calls, installation limits and cancellation. Prices should be dated provider quotes. Do not promise permanent discounts or unverified bundled services."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Option",
+          "Useful when",
+          "Verify"
+        ],
+        "rows": [
+          [
+            "eSIM",
+            "Compatible unlocked phone",
+            "Device, activation and reinstall rules"
+          ],
+          [
+            "Physical SIM",
+            "Compatible slot or preferred swap",
+            "Size, lock and number"
+          ],
+          [
+            "Pocket Wi-Fi",
+            "Group stays together",
+            "Battery, return and separation"
+          ],
+          [
+            "Data-only",
+            "Maps and internet messaging",
+            "Do not assume voice or SMS"
+          ]
+        ]
+      },
+      "checklist": [
+        "Check an unlocked compatible phone",
+        "Match passport details",
+        "Check activation timing",
+        "Identify voice and SMS needs",
+        "Save support instructions",
+        "Review roaming costs"
+      ],
+      "relatedTopicIds": [
+        "essentials-troubleshooting",
+        "essentials-maps",
+        "culture-tickets"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "essentials-payments",
+      "categoryId": "travel-essentials",
+      "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+      "existingPath": "content/deep-dive/foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options.md",
+      "title": "Foreign Cards, Cash and ATMs in Korea: A Practical Backup Plan",
+      "sourceIds": [
+        "money",
+        "transport-payments"
+      ],
+      "sections": [
+        {
+          "heading": "Carry a practical backup",
+          "points": [
+            "Cards are widely used, but acceptance differs across shops, kiosks and services. Keep an alternative authorized payment method and a modest KRW reserve appropriate to your itinerary."
+          ]
+        },
+        {
+          "heading": "Ask before committing to a purchase",
+          "points": [
+            "Check whether the venue or booking flow accepts your card and whether advance payment is necessary. A network logo does not guarantee every unattended terminal or international booking flow will work."
+          ]
+        },
+        {
+          "heading": "Read the ATM prompts",
+          "points": [
+            "Look for international-network support and inspect displayed fees and currency choices before confirming. Local fees, issuer fees, exchange rates and cash-advance terms are different. This research establishes no universal fee or best bank."
+          ]
+        },
+        {
+          "heading": "Handle a decline calmly",
+          "points": [
+            "Ask whether another terminal or checkout method is available and check issuer alerts. Keep receipts and failure references. Avoid repeated payments until pending transactions are understood."
+          ]
+        },
+        {
+          "heading": "Separate transit actions",
+          "points": [
+            "Buying a ticket, adding prepaid value and tapping a gate are different transactions. A foreign credit card is not a universal transit pass. Follow the current transport operator's instructions."
+          ]
+        },
+        {
+          "heading": "Keep payment information private",
+          "points": [
+            "Do not publish full card numbers, banking screens or sensitive receipt details. Contact the issuer through its official channels for lost cards or suspicious charges. Keep transaction records for follow-up."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Situation",
+          "Check",
+          "Fallback"
+        ],
+        "rows": [
+          [
+            "Restaurant",
+            "Acceptance before ordering",
+            "Alternative card or KRW"
+          ],
+          [
+            "Kiosk",
+            "Supported overseas-card flow",
+            "Staffed terminal"
+          ],
+          [
+            "ATM",
+            "Networks and displayed fees",
+            "Another authorized ATM"
+          ],
+          [
+            "Transit",
+            "Ticket, top-up and tap distinction",
+            "Proper transport card"
+          ]
+        ]
+      },
+      "checklist": [
+        "Carry an alternative payment method",
+        "Keep a small KRW reserve",
+        "Save issuer contacts",
+        "Read ATM fees",
+        "Track pending charges"
+      ],
+      "relatedTopicIds": [
+        "essentials-troubleshooting",
+        "food-first-restaurant",
+        "shopping-tax"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "essentials-maps",
+      "categoryId": "travel-essentials",
+      "slug": "how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026",
+      "existingPath": "content/posts/how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026.md",
+      "title": "Navigate Korea with NAVER and Kakao Maps: Places, Addresses and Routes",
+      "sourceIds": [
+        "naver-language",
+        "naver-save",
+        "transport-payments"
+      ],
+      "sections": [
+        {
+          "heading": "Set the app language",
+          "points": [
+            "NAVER Map supports Korean, English, Simplified Chinese and Japanese. Use MY/settings or the device's app-language controls as documented. A translated interface does not guarantee every review or business feature is translated."
+          ]
+        },
+        {
+          "heading": "Search the exact destination",
+          "points": [
+            "Copy the Korean name or address from the official venue and confirm the branch and neighborhood. Check that the result is not another branch or a brand office. Street address, entrance and floor may need separate confirmation."
+          ]
+        },
+        {
+          "heading": "Choose a route for current conditions",
+          "points": [
+            "Set your actual starting point, mode and departure time. Review transfers, walking and last service. The fastest option may be unsuitable for luggage, children or stairs; check exits and lifts."
+          ]
+        },
+        {
+          "heading": "Save a useful fallback",
+          "points": [
+            "NAVER saving requires login and can store places, notes and routes. Site bookmarks and NAVER lists remain separate. Keep the Korean address accessible and do not promise full offline turn-by-turn navigation."
+          ]
+        },
+        {
+          "heading": "Verify the last block",
+          "points": [
+            "Match the building number, entrance and floor and check opening or last-admission time. Show staff the Korean name and booking confirmation if necessary. Do not let an old saved point override current venue instructions."
+          ]
+        },
+        {
+          "heading": "Save the way back",
+          "points": [
+            "For evening plans, check the return route at the expected ending time. Keep battery and data support and a different transport option where appropriate."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Task",
+          "Check"
+        ],
+        "rows": [
+          [
+            "Search",
+            "Korean name and correct branch"
+          ],
+          [
+            "Route",
+            "Start point, time and mode"
+          ],
+          [
+            "Access",
+            "Lifts, stairs and luggage"
+          ],
+          [
+            "Arrival",
+            "Entrance, floor and hours"
+          ],
+          [
+            "Return",
+            "Last service and backup"
+          ]
+        ]
+      },
+      "phrases": [
+        {
+          "ko": "이 주소로 가 주세요.",
+          "en": "Please take me to this address."
+        },
+        {
+          "ko": "이 입구가 맞나요?",
+          "en": "Is this the correct entrance?"
+        }
+      ],
+      "checklist": [
+        "Set app language",
+        "Verify the branch",
+        "Save the Korean address",
+        "Check the correct exit",
+        "Keep battery and data backup"
+      ],
+      "relatedTopicIds": [
+        "essentials-sim",
+        "essentials-troubleshooting",
+        "culture-palace-night"
+      ]
+    },
+    {
+      "checkedAt": "2026-10-30",
+      "language": "en",
+      "mode": "refresh",
+      "id": "essentials-medical",
+      "categoryId": "travel-essentials",
+      "slug": "korean-pharmacies-otc-meds-tourists-2026",
+      "existingPath": "content/deep-dive/korean-pharmacies-otc-meds-tourists-2026.md",
+      "title": "Find a Pharmacy or Medical Help in Korea",
+      "sourceIds": [
+        "pharmacy",
+        "safety",
+        "emergency"
+      ],
+      "sections": [
+        {
+          "heading": "Use emergency services when necessary",
+          "points": [
+            "For a life-threatening medical problem, call119 and provide your location; ask for English or interpretation. Do not delay urgent help for cost comparisons, insurance approval or community responses."
+          ]
+        },
+        {
+          "heading": "Carry a medication record",
+          "points": [
+            "Keep medicine names, generic ingredients, prescribed instructions, allergies and relevant records. Bring appropriate documentation and check official entry restrictions before travel. The guide does not recommend medicine or dosage."
+          ]
+        },
+        {
+          "heading": "Find a pharmacy that is actually open",
+          "points": [
+            "Look for 약국 and use the holiday or late-night directories recommended by KTO. Call to verify hours and the service you need. A map label does not prove24-hour or English-speaking service."
+          ]
+        },
+        {
+          "heading": "Explain your needs to a professional",
+          "points": [
+            "Show the pharmacist your medication record rather than relying on a familiar brand name. Ask whether a clinic prescription is needed and follow professional advice. Do not substitute products based on a website comparison."
+          ]
+        },
+        {
+          "heading": "Use clinics and insurance practically",
+          "points": [
+            "For routine care, confirm appointment, language support, payment and documents with the provider and insurer. Retain receipts securely. Do not assume every hospital offers direct billing to an overseas insurer."
+          ]
+        },
+        {
+          "heading": "Keep service roles clear",
+          "points": [
+            "119 is for ambulance and fire emergencies;112 is police;1339 concerns infectious-disease information. Travel assistance is not emergency dispatch. Save the Korean accommodation address and ask staff to help explain location if needed."
+          ]
+        }
+      ],
+      "table": {
+        "headers": [
+          "Need",
+          "Action"
+        ],
+        "rows": [
+          [
+            "Serious medical emergency",
+            "119 and current location"
+          ],
+          [
+            "Routine pharmacy",
+            "Verify an open 약국"
+          ],
+          [
+            "Prescription need",
+            "Ask a professional or clinic"
+          ],
+          [
+            "Insurance",
+            "Contact the official insurer"
+          ],
+          [
+            "Police emergency",
+            "112"
+          ]
+        ]
+      },
+      "phrases": [
+        {
+          "ko": "영어로 도움을 받을 수 있나요?",
+          "en": "Can I get help in English?"
+        },
+        {
+          "ko": "복용 중인 약 목록이에요.",
+          "en": "This is my current medication list."
+        },
+        {
+          "ko": "구급차를 불러 주세요.",
+          "en": "Please call an ambulance."
+        }
+      ],
+      "checklist": [
+        "Carry medication records",
+        "Save insurer contacts",
+        "Save the Korean address",
+        "Verify opening hours",
+        "Keep receipts",
+        "Use119 for serious medical emergencies"
+      ],
+      "cautions": [
+        "Do notrecommenddrugs/doses",
+        "No specificpharmacyclaimed24-hour/Englishwithoutdirectverification"
+      ],
+      "relatedTopicIds": [
+        "essentials-troubleshooting",
+        "food-dietary",
+        "essentials-maps"
+      ]
+    }
+  ],
+  "photoCandidates": [
+    {
+      "id": "gwangjang-cc0",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_01.jpg",
+      "author": "Bgag",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "captured": "2022-09-26",
+      "checkedAt": "2026-10-30",
+      "depicts": "Gwangjang Market",
+      "notes": "Real historical place photograph; credit source and capturedate. Inspect image before cropping; do not describe stall/menu as current.",
+      "photoPoint": {
+        "lat": 37.57,
+        "lon": 127
+      },
+      "downloadStatus": "not downloaded"
+    },
+    {
+      "id": "namdaemun-bysa",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Namdaemun_shopping_street.jpg",
+      "author": "Sgroey",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "captured": "2024-08-22",
+      "checkedAt": "2026-10-30",
+      "depicts": "Namdaemun Market street",
+      "notes": "Attribution, license link and modifications required. Adapted image remains under compatible ShareAlike license; not the site's wholetext.",
+      "photoPoint": {
+        "lat": 37.560036,
+        "lon": 126.977294
+      },
+      "downloadStatus": "not downloaded"
+    },
+    {
+      "id": "insadong-bysa",
+      "filePage": "https://commons.wikimedia.org/wiki/File:Insadong_Street_in_Seoul.jpg",
+      "author": "Choi2451",
+      "license": "CC-BY-SA-3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "captured": "2012-10-07",
+      "checkedAt": "2026-10-30",
+      "depicts": "Insadong street near Ssamzi-gil",
+      "notes": "Older historical street photograph: do not use as proof of currentstorefront. Attribution, license and modifications required; adaptedimageShareAlike.",
+      "photoPoint": {
+        "lat": 37.574167,
+        "lon": 126.984722
+      },
+      "downloadStatus": "not downloaded"
+    }
+  ],
+  "unavailableSources": [
+    {
+      "url": "https://english.visitseoul.net/shopping/Insadong/ENP000080",
+      "reason": "Returned404; used liveSTOInsadongguideandSsamzi-gilinstead."
+    },
+    {
+      "url": "https://english.visitseoul.net/shopping/myeong-dong/ENP000067",
+      "reason": "Returned404; don'tpublishasverifiedlivecitation."
+    },
+    {
+      "url": "https://craftmuseum.seoul.go.kr/eng",
+      "reason": "Toolcouldnotaccess; museumtopicusesverifiedNMKandSeMA instead."
+    },
+    {
+      "url": "https://www.e-gen.or.kr/egen/main.do",
+      "reason": "Fetch timedout; nooperatingfacilityverifiedthroughit."
+    }
+  ]
+}

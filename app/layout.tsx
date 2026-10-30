@@ -1,144 +1,78 @@
-import type { Metadata } from "next";
-import { Inter } from "next/font/google";
-import Script from "next/script";
-import "./globals.css";
-import Header from "@/components/Header";
-import Footer from "@/components/Footer";
-import { SITE_CONFIG } from "@/lib/constants";
-import { generateOrganizationSchema, generateWebsiteSchema } from "@/lib/schema";
-
-const inter = Inter({
-  subsets: ["latin"],
-  display: "swap",
-});
-
+import type { Metadata } from 'next';
+import './globals.css';
+import 'leaflet/dist/leaflet.css';
+import './editorial.css';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
+import ConsentManager from '@/components/site/ConsentManager';
+import ProductionServices from '@/components/site/ProductionServices';
+import { SITE_CONFIG } from '@/lib/constants';
 export const metadata: Metadata = {
-  title: {
-    default: SITE_CONFIG.title,
-    template: `%s | ${SITE_CONFIG.name}`,
-  },
+  title: { default: SITE_CONFIG.title, template: '%s | Korea Experience' },
   description: SITE_CONFIG.description,
-  keywords: SITE_CONFIG.keywords,
-  authors: [{ name: SITE_CONFIG.author }],
-  creator: SITE_CONFIG.author,
-  publisher: SITE_CONFIG.author,
   metadataBase: new URL(SITE_CONFIG.url),
+  authors: [{ name: SITE_CONFIG.author, url: `${SITE_CONFIG.url}/editorial-policy` }],
   openGraph: {
-    type: "website",
-    locale: "en_US",
-    url: SITE_CONFIG.url,
+    type: 'website',
+    locale: 'en_US',
     siteName: SITE_CONFIG.name,
     title: SITE_CONFIG.title,
     description: SITE_CONFIG.description,
     images: [
       {
-        url: "/og-image.png",
+        url: '/images/cards/korea-experience.jpg',
         width: 1200,
         height: 630,
-        alt: "Korea Experience - Medical Tourism, Travel, Culture & Living Guide",
+        alt: 'Korea Experience — practical guides and useful travel tools',
       },
     ],
   },
   twitter: {
-    card: "summary_large_image",
+    card: 'summary_large_image',
     title: SITE_CONFIG.title,
     description: SITE_CONFIG.description,
-    creator: SITE_CONFIG.social.twitter,
-    images: ["/og-image.png"],
+    images: ['/images/cards/korea-experience.jpg'],
   },
-  alternates: {
-    types: {
-      'application/rss+xml': '/feed',
-    },
-  },
+  alternates: { types: { 'application/rss+xml': '/feed' } },
   verification: {
-    other: {
-      "naver-site-verification": "752414d46da5987d29ae23c93b4665e604a39109",
-    },
+    other: { 'naver-site-verification': '752414d46da5987d29ae23c93b4665e604a39109' },
   },
   robots: {
     index: true,
     follow: true,
-    googleBot: {
-      index: true,
-      follow: true,
-      "max-video-preview": -1,
-      "max-image-preview": "large",
-      "max-snippet": -1,
-    },
+    googleBot: { index: true, follow: true, 'max-image-preview': 'large', 'max-snippet': -1 },
   },
 };
-
-export default function RootLayout({
-  children,
-}: Readonly<{
-  children: React.ReactNode;
-}>) {
-  const organizationSchema = generateOrganizationSchema({
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  const organization = {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
     name: SITE_CONFIG.name,
     url: SITE_CONFIG.url,
     description: SITE_CONFIG.description,
-    email: SITE_CONFIG.email,
-    social: SITE_CONFIG.social,
-  });
-
-  const websiteSchema = generateWebsiteSchema({
-    name: SITE_CONFIG.name,
-    url: SITE_CONFIG.url,
-    description: SITE_CONFIG.description,
-  });
-
+    contactPoint: {
+      '@type': 'ContactPoint',
+      contactType: 'editorial corrections',
+      email: SITE_CONFIG.email,
+    },
+    publishingPrinciples: `${SITE_CONFIG.url}/editorial-policy`,
+  };
   return (
-    <html lang="en">
-      <head>
-        {/* Google AdSense */}
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7793293419727384"
-          crossOrigin="anonymous"
-        />
-      </head>
-      <body className={`${inter.className} flex flex-col min-h-screen`}>
-        {/* JSON-LD Structured Data */}
+    <html lang="en" data-scroll-behavior="smooth">
+      <body>
         <script
           type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(organization).replace(/</g, '\\u003c'),
+          }}
         />
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
-        />
-
-        {/* Google Analytics */}
-        <Script
-          src="https://www.googletagmanager.com/gtag/js?id=G-8D8HNVWDR9"
-          strategy="afterInteractive"
-        />
-        <Script id="google-analytics" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', 'G-8D8HNVWDR9');
-          `}
-        </Script>
-
-        {/* Microsoft Clarity */}
-        <Script id="microsoft-clarity" strategy="afterInteractive">
-          {`
-            (function(c,l,a,r,i,t,y){
-              c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-              t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-              y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-            })(window, document, "clarity", "script", "vakj0nb8xr");
-          `}
-        </Script>
-        
         <Header />
-        <main className="flex-grow">
+        <main id="main-content" className="site-main" tabIndex={-1}>
           {children}
         </main>
         <Footer />
+        <ConsentManager />
+        <ProductionServices />
       </body>
     </html>
   );

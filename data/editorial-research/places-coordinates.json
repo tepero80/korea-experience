@@ -1,0 +1,761 @@
+{
+  "checkedAt": "2026-10-30",
+  "license": "Wikidata structured data CC0; Commons file coordinate provenance retained.",
+  "method": "Actual Wikimedia API retrieval of Wikidata P625 claims; Hwahongmun uses explicitly identified photo GPS. No coordinates invented. All points are overview references, no entrance verified.",
+  "places": [
+    {
+      "id": "gyeongbokgung",
+      "nameEn": "Gyeongbokgung",
+      "nameKo": "경복궁",
+      "latitude": 37.5798841,
+      "longitude": 126.9767996,
+      "coordinateType": "palace complex representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 2.77778E-06,
+      "sourcePage": "https://www.wikidata.org/wiki/Q482485",
+      "sourceProperty": "P625",
+      "sourceClaimId": "q482485$2ACFB2BB-31A2-4EAC-A9FC-89E887116C3C",
+      "sourceRevision": 2560317469,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q482485%7CQ485034%7CQ490981%7CQ488271%7CQ54255%7CQ31178924%7CQ20415%7CQ491203%7CQ490809%7CQ488678%7CQ494687&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.5798841,
+        "longitude": 126.9767996,
+        "altitude": null,
+        "precision": 2.77778E-06,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": []
+    },
+    {
+      "id": "gwanghwamun",
+      "nameEn": "Gwanghwamun",
+      "nameKo": "광화문",
+      "latitude": 37.57604444,
+      "longitude": 126.97701944,
+      "coordinateType": "gate representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 2.77777777778E-06,
+      "sourcePage": "https://www.wikidata.org/wiki/Q485034",
+      "sourceProperty": "P625",
+      "sourceClaimId": "Q485034$6E67EAC1-B0F6-40A5-943D-09000C4ABA37",
+      "sourceRevision": 2497312489,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q482485%7CQ485034%7CQ490981%7CQ488271%7CQ54255%7CQ31178924%7CQ20415%7CQ491203%7CQ490809%7CQ488678%7CQ494687&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.57604444,
+        "longitude": 126.97701944,
+        "altitude": null,
+        "precision": 2.77777777778E-06,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "d4bd87b862b12d99d26e86472d44f26858dee639",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "f30cbd35620c4ea6d0633aaf0210a8916130469b",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 8447,
+                    "id": "Q8447"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bukchon",
+      "nameEn": "Bukchon Hanok Village",
+      "nameKo": "북촌 한옥마을",
+      "latitude": 37.58305556,
+      "longitude": 126.98361111,
+      "coordinateType": "neighbourhood representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 0.00027777777777778,
+      "sourcePage": "https://www.wikidata.org/wiki/Q490981",
+      "sourceProperty": "P625",
+      "sourceClaimId": "Q490981$20F510EA-9FE6-4624-A161-9D68AECFBF11",
+      "sourceRevision": 2521533755,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q482485%7CQ485034%7CQ490981%7CQ488271%7CQ54255%7CQ31178924%7CQ20415%7CQ491203%7CQ490809%7CQ488678%7CQ494687&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.58305556,
+        "longitude": 126.98361111,
+        "altitude": null,
+        "precision": 0.00027777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 328,
+                    "id": "Q328"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seongsu-station",
+      "nameEn": "Seongsu Station",
+      "nameKo": "성수역",
+      "latitude": 37.544444444444,
+      "longitude": 127.05611111111,
+      "coordinateType": "station representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 0.00027777777777778,
+      "sourcePage": "https://www.wikidata.org/wiki/Q488271",
+      "sourceProperty": "P625",
+      "sourceClaimId": "q488271$DAE58512-906E-4D03-BBC2-06C8D8A58B17",
+      "sourceRevision": 2539966538,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q482485%7CQ485034%7CQ490981%7CQ488271%7CQ54255%7CQ31178924%7CQ20415%7CQ491203%7CQ490809%7CQ488678%7CQ494687&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.544444444444,
+        "longitude": 127.05611111111,
+        "altitude": null,
+        "precision": 0.00027777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 328,
+                    "id": "Q328"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "incheon-airport-t1",
+      "nameEn": "Incheon International Airport Terminal 1 Station",
+      "nameKo": "인천공항1터미널역",
+      "latitude": 37.447383333333,
+      "longitude": 126.45264166667,
+      "coordinateType": "Terminal 1 AREX station representative point, not terminal arrival door",
+      "entranceVerified": false,
+      "precisionDegrees": 0.00027777777777778,
+      "sourcePage": "https://www.wikidata.org/wiki/Q54255",
+      "sourceProperty": "P625",
+      "sourceClaimId": "q54255$2F2DCC82-3199-4D67-99F4-9DDAD65E253B",
+      "sourceRevision": 2545262252,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q482485%7CQ485034%7CQ490981%7CQ488271%7CQ54255%7CQ31178924%7CQ20415%7CQ491203%7CQ490809%7CQ488678%7CQ494687&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.447383333333,
+        "longitude": 126.45264166667,
+        "altitude": null,
+        "precision": 0.00027777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "a29a646602abf65105ed0f39a44231c962ece9ee",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "c6f1777471211df31724ac60175786f3872c83e9",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 177837,
+                    "id": "Q177837"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "incheon-airport-t2",
+      "nameEn": "Incheon International Airport Terminal 2 Station",
+      "nameKo": "인천공항2터미널역",
+      "latitude": 37.46766035,
+      "longitude": 126.43414974,
+      "coordinateType": "Terminal 2 AREX station representative point, not terminal arrival door",
+      "entranceVerified": false,
+      "precisionDegrees": 1E-08,
+      "sourcePage": "https://www.wikidata.org/wiki/Q31178924",
+      "sourceProperty": "P625",
+      "sourceClaimId": "Q31178924$e1c41230-4fd6-54bc-e0eb-9d555c6eddab",
+      "sourceRevision": 2517009380,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q482485%7CQ485034%7CQ490981%7CQ488271%7CQ54255%7CQ31178924%7CQ20415%7CQ491203%7CQ490809%7CQ488678%7CQ494687&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.46766035,
+        "longitude": 126.43414974,
+        "altitude": null,
+        "precision": 1E-08,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "409807ff385ff52102eaa5079a6445b6b570fd27",
+          "snaks": {
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "00f39a2d44c26aa8ee0d2f4e27b97119dc3b9133",
+                "datavalue": {
+                  "value": "https://map.naver.com/local/siteview.nhn?code=1559888035",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P854"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seoul-station",
+      "nameEn": "Seoul Station",
+      "nameKo": "서울역",
+      "latitude": 37.554722222222,
+      "longitude": 126.97083333333,
+      "coordinateType": "station complex representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 0.00027777777777778,
+      "sourcePage": "https://www.wikidata.org/wiki/Q20415",
+      "sourceProperty": "P625",
+      "sourceClaimId": "q20415$0f075237-49a8-a2eb-fcd2-1a6e517345b4",
+      "sourceRevision": 2545173170,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q482485%7CQ485034%7CQ490981%7CQ488271%7CQ54255%7CQ31178924%7CQ20415%7CQ491203%7CQ490809%7CQ488678%7CQ494687&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.554722222222,
+        "longitude": 126.97083333333,
+        "altitude": null,
+        "precision": 0.00027777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "08be9f116c5c541d7fa461ad59ad559a42ffd6ed",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "56f99b6701feb379816767ae88bb77e0e74981b3",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 17985,
+                    "id": "Q17985"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "haeundae",
+      "nameEn": "Haeundae Beach",
+      "nameKo": "해운대해수욕장",
+      "latitude": 35.15855243505276,
+      "longitude": 129.16053910249548,
+      "coordinateType": "beach representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 1E-07,
+      "sourcePage": "https://www.wikidata.org/wiki/Q491203",
+      "sourceProperty": "P625",
+      "sourceClaimId": "Q491203$4B5B0557-1F70-4B69-B29E-F3179C980CFA",
+      "sourceRevision": 2462496208,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q482485%7CQ485034%7CQ490981%7CQ488271%7CQ54255%7CQ31178924%7CQ20415%7CQ491203%7CQ490809%7CQ488678%7CQ494687&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 35.15855243505276,
+        "longitude": 129.16053910249548,
+        "altitude": null,
+        "precision": 1E-07,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": []
+    },
+    {
+      "id": "jagalchi",
+      "nameEn": "Jagalchi Market",
+      "nameKo": "자갈치시장",
+      "latitude": 35.09665,
+      "longitude": 129.029661,
+      "coordinateType": "market representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 1E-05,
+      "sourcePage": "https://www.wikidata.org/wiki/Q490809",
+      "sourceProperty": "P625",
+      "sourceClaimId": "q490809$888E4A5B-CAAD-45A2-B8B3-EB21A5109001",
+      "sourceRevision": 2358523518,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q482485%7CQ485034%7CQ490981%7CQ488271%7CQ54255%7CQ31178924%7CQ20415%7CQ491203%7CQ490809%7CQ488678%7CQ494687&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 35.09665,
+        "longitude": 129.029661,
+        "altitude": null,
+        "precision": 1E-05,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "732ec1c90a6f0694c7db9a71bf09fe7f2b674172",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "9123b0de1cc9c3954366ba797d598e4e1ea4146f",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10000,
+                    "id": "Q10000"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hwahongmun",
+      "nameEn": "Hwahongmun vicinity",
+      "nameKo": "화홍문 주변",
+      "latitude": 37.2875,
+      "longitude": 127.017778,
+      "coordinateType": "photographer viewpoint near Hwahongmun, not gate centre or entrance",
+      "entranceVerified": false,
+      "precisionDegrees": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hwahongmun_01.jpg",
+      "sourceProperty": "Location template / primary image GPS",
+      "sourceRevision": 1125938167,
+      "sourceApi": "https://commons.wikimedia.org/w/api.php?action=query&titles=File%3AHwahongmun+01.jpg&prop=coordinates%7Cinfo%7Crevisions&coprimary=all&colimit=max&rvprop=content&rvslots=main&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Approximate Hwahongmun vicinity marker only; explicitly label approximate. Do not claim a verified entrance or use as precise turn-by-turn endpoint.",
+      "sourceWikitextLocation": "{{Location|37.2875|127.017778}}",
+      "capturedAt": "2022-09-28"
+    },
+    {
+      "id": "insadong",
+      "nameEn": "Insa-dong",
+      "nameKo": "인사동",
+      "latitude": 37.573,
+      "longitude": 126.986,
+      "coordinateType": "neighbourhood representative point; source precision is coarse",
+      "entranceVerified": false,
+      "precisionDegrees": 0.011334106263534,
+      "sourcePage": "https://www.wikidata.org/wiki/Q488678",
+      "sourceProperty": "P625",
+      "sourceClaimId": "Q488678$83A51A26-8743-4F83-B836-3640C557F645",
+      "sourceRevision": 2539141268,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q482485%7CQ485034%7CQ490981%7CQ488271%7CQ54255%7CQ31178924%7CQ20415%7CQ491203%7CQ490809%7CQ488678%7CQ494687&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.573,
+        "longitude": 126.986,
+        "altitude": null,
+        "precision": 0.011334106263534,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 328,
+                    "id": "Q328"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "namdaemun",
+      "nameEn": "Namdaemun Market",
+      "nameKo": "남대문시장",
+      "latitude": 37.559444,
+      "longitude": 126.977417,
+      "coordinateType": "market representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 1E-05,
+      "sourcePage": "https://www.wikidata.org/wiki/Q494687",
+      "sourceProperty": "P625",
+      "sourceClaimId": "q494687$DCCB0734-14CA-4563-95B2-3559099F5166",
+      "sourceRevision": 2529992168,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q482485%7CQ485034%7CQ490981%7CQ488271%7CQ54255%7CQ31178924%7CQ20415%7CQ491203%7CQ490809%7CQ488678%7CQ494687&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.559444,
+        "longitude": 126.977417,
+        "altitude": null,
+        "precision": 1E-05,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "732ec1c90a6f0694c7db9a71bf09fe7f2b674172",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "9123b0de1cc9c3954366ba797d598e4e1ea4146f",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10000,
+                    "id": "Q10000"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "seoul-forest",
+      "nameEn": "Seoul Forest",
+      "nameKo": "서울숲",
+      "latitude": 37.544625,
+      "longitude": 127.03984444,
+      "coordinateType": "park representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 2.77777777778E-06,
+      "sourcePage": "https://www.wikidata.org/wiki/Q483014",
+      "sourceProperty": "P625",
+      "sourceClaimId": "Q483014$E5E94280-1E24-480B-8573-C083A996DA1A",
+      "sourceRevision": 2517965863,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q483014%7CQ12585067%7CQ494407%7CQ97205213%7CQ18999434&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.544625,
+        "longitude": 127.03984444,
+        "altitude": null,
+        "precision": 2.77777777778E-06,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 328,
+                    "id": "Q328"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gwangjang-market",
+      "nameEn": "Gwangjang Market",
+      "nameKo": "광장시장",
+      "latitude": 37.57,
+      "longitude": 126.999,
+      "coordinateType": "market representative point; source precision is coarse",
+      "entranceVerified": false,
+      "precisionDegrees": 0.011333649722926,
+      "sourcePage": "https://www.wikidata.org/wiki/Q12585067",
+      "sourceProperty": "P625",
+      "sourceClaimId": "Q12585067$EC875069-B072-4875-9C6B-50A72124C365",
+      "sourceRevision": 2529991885,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q483014%7CQ12585067%7CQ494407%7CQ97205213%7CQ18999434&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.57,
+        "longitude": 126.999,
+        "altitude": null,
+        "precision": 0.011333649722926,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "fa278ebfc458360e5aed63d5058cca83c46134f1",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "e4f6d9441d0600513c4533c672b5ab472dc73694",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 328,
+                    "id": "Q328"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-museum-korea",
+      "nameEn": "National Museum of Korea",
+      "nameKo": "국립중앙박물관",
+      "latitude": 37.52388888888889,
+      "longitude": 126.98027777777777,
+      "coordinateType": "museum complex representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 0.0002777777777777778,
+      "sourcePage": "https://www.wikidata.org/wiki/Q494407",
+      "sourceProperty": "P625",
+      "sourceClaimId": "Q494407$5ab17429-48d2-c105-250e-0954a07b2ff2",
+      "sourceRevision": 2515870323,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q483014%7CQ12585067%7CQ494407%7CQ97205213%7CQ18999434&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.52388888888889,
+        "longitude": 126.98027777777777,
+        "altitude": null,
+        "precision": 0.0002777777777777778,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": []
+    },
+    {
+      "id": "seoul-craft-museum",
+      "nameEn": "Seoul Museum of Craft Art",
+      "nameKo": "서울공예박물관",
+      "latitude": 37.57633055555556,
+      "longitude": 126.98336944444445,
+      "coordinateType": "museum complex representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 2.777777777777778E-06,
+      "sourcePage": "https://www.wikidata.org/wiki/Q97205213",
+      "sourceProperty": "P625",
+      "sourceClaimId": "Q97205213$69A1840B-1E4D-4D71-B9DC-6219667E1361",
+      "sourceRevision": 2549855037,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q483014%7CQ12585067%7CQ494407%7CQ97205213%7CQ18999434&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 37.57633055555556,
+        "longitude": 126.98336944444445,
+        "altitude": null,
+        "precision": 2.777777777777778E-06,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "9f8914098364f2acc281f91299ea840aebd6c33f",
+          "snaks": {
+            "P854": [
+              {
+                "snaktype": "value",
+                "property": "P854",
+                "hash": "63cf5765cb96afcc8a6f16380b276db9cc0ac751",
+                "datavalue": {
+                  "value": "https://ko.wikipedia.org/wiki/%EC%84%9C%EC%9A%B8%EA%B3%B5%EC%98%88%EB%AC%B8%ED%99%94%EB%B0%95%EB%AC%BC%EA%B4%80",
+                  "type": "string"
+                },
+                "datatype": "url"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P854"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dongbaekseom",
+      "nameEn": "Dongbaek Island",
+      "nameKo": "동백섬",
+      "latitude": 35.153844,
+      "longitude": 129.152097,
+      "coordinateType": "island/park representative point",
+      "entranceVerified": false,
+      "precisionDegrees": 1E-05,
+      "sourcePage": "https://www.wikidata.org/wiki/Q18999434",
+      "sourceProperty": "P625",
+      "sourceClaimId": "Q18999434$F3DDEBC6-79C3-4F5F-9647-DAC5C5F3F9A9",
+      "sourceRevision": 2506310865,
+      "sourceApi": "https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q483014%7CQ12585067%7CQ494407%7CQ97205213%7CQ18999434&props=info%7Cclaims%7Clabels&languages=en%7Cko&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
+      "rawSourceCoordinate": {
+        "latitude": 35.153844,
+        "longitude": 129.152097,
+        "altitude": null,
+        "precision": 1E-05,
+        "globe": "http://www.wikidata.org/entity/Q2"
+      },
+      "sourceReferences": [
+        {
+          "hash": "732ec1c90a6f0694c7db9a71bf09fe7f2b674172",
+          "snaks": {
+            "P143": [
+              {
+                "snaktype": "value",
+                "property": "P143",
+                "hash": "9123b0de1cc9c3954366ba797d598e4e1ea4146f",
+                "datavalue": {
+                  "value": {
+                    "entity-type": "item",
+                    "numeric-id": 10000,
+                    "id": "Q10000"
+                  },
+                  "type": "wikibase-entityid"
+                },
+                "datatype": "wikibase-item"
+              }
+            ]
+          },
+          "snaks-order": [
+            "P143"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hwaseong-haenggung",
+      "nameEn": "Hwaseong Haenggung vicinity",
+      "nameKo": "수원 화성행궁 주변",
+      "latitude": 37.281944,
+      "longitude": 127.013611,
+      "coordinateType": "photographer viewpoint at Hwaseong Haenggung, not verified gate centre or entrance",
+      "entranceVerified": false,
+      "precisionDegrees": null,
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Hwaseong_Haenggung_Palace.jpg",
+      "sourceProperty": "Location template / primary image GPS",
+      "sourceRevision": 1128124608,
+      "sourceApi": "https://commons.wikimedia.org/w/api.php?action=query&titles=File%3AHwaseong%20Haenggung%20Palace.jpg&prop=coordinates%7Cinfo%7Crevisions&coprimary=all&colimit=max&rvprop=content&rvslots=main&format=json",
+      "checkedAt": "2026-10-30",
+      "mapUse": "Approximate Hwaseong Haenggung vicinity marker only; explicitly label approximate. Do not claim a verified entrance or use as precise turn-by-turn endpoint.",
+      "sourceWikitextLocation": "{{Location|37.281944|127.013611}}",
+      "capturedAt": "2017-06-03",
+      "note": "Wikidata Q12625620 was checked but has no P625 claim; actual Commons photo GPS used instead."
+    }
+  ]
+}
