@@ -60,6 +60,7 @@ export default function GuideCommunity({ id }: { id: string }) {
       if (window.turnstile) {
         widget.current = window.turnstile.render(box.current, {
           sitekey: key,
+          size: box.current.clientWidth < 300 ? 'compact' : 'normal',
           callback: (value: string) => setToken(value),
           'expired-callback': () => setToken(''),
           'error-callback': () =>

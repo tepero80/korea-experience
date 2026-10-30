@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import { getLaunchGuides } from '../lib/posts';
+import community from '../data/community-config.json';
 async function main() {
   const base = process.env.HEALTH_BASE_URL || 'https://koreaexperience.com';
   const seen = new Set<string>();
@@ -16,6 +17,9 @@ async function main() {
     '/destinations/seoul',
     '/robots.txt',
     '/sitemap.xml',
+    ...(community.enabled
+      ? ['/community', '/community/account', '/api/health', '/api/me', '/api/moderation']
+      : []),
     ...guides.map((p) => '/blog/' + p.slug),
     '/__ke-health-missing-page',
   ];
@@ -27,16 +31,26 @@ async function main() {
         headers: { 'User-Agent': 'KoreaExperienceOwnerHealthCheck/1.0' },
       });
       const body = await r.text();
-      const expectedStatus = route === '/__ke-health-missing-page' ? 404 : 200;
+      const expectedStatus =
+        route === '/__ke-health-missing-page'
+          ? 404
+          : ['/api/me', '/api/moderation'].includes(route)
+            ? 401
+            : 200;
       const canonical = route.startsWith('/blog/')
         ? body.includes(`rel="canonical" href="https://koreaexperience.com${route}"`)
+        : undefined;
+      const providers = route === '/api/health' ? JSON.parse(body) : undefined;
+      const connected = providers
+        ? ['ok', 'community', 'google', 'email', 'spam'].every((key) => providers[key] === true)
         : undefined;
       checks.push({
         route,
         status: r.status,
         expectedStatus,
-        ok: r.status === expectedStatus && canonical !== false,
+        ok: r.status === expectedStatus && canonical !== false && connected !== false,
         canonical,
+        connected,
       });
     } catch (e) {
       checks.push({ route, ok: false, error: (e as Error).name });

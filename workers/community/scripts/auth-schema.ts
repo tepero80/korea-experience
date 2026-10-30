@@ -1,6 +1,6 @@
 import { DatabaseSync } from 'node:sqlite';
 import { getMigrations } from 'better-auth/db/migration';
-import { writeFileSync, mkdirSync } from 'node:fs';
+import { writeFileSync, mkdirSync, readFileSync } from 'node:fs';
 import { authOptions } from '../src/auth';
 const sqlite = new DatabaseSync(':memory:');
 const options = authOptions({
@@ -14,10 +14,21 @@ const options = authOptions({
 const plan = await getMigrations({ ...options, database: sqlite });
 if (plan.unsafeChanges.length || plan.schemaProblems.length) throw Error(JSON.stringify(plan));
 mkdirSync('migrations', { recursive: true });
-writeFileSync(
-  'migrations/0001_auth.sql',
+const expected =
   '-- Generated from better-auth 1.7.14 and src/auth.ts. Do not hand edit.\n' +
-    (await plan.compileMigrations()),
-);
+  (await plan.compileMigrations());
+if (process.argv.includes('--check')) {
+  if (
+    readFileSync('migrations/0001_auth.sql', 'utf8').replaceAll('\r\n', '\n') !==
+    expected.replaceAll('\r\n', '\n')
+  )
+    throw Error(
+      'Authentication options differ from the committed schema. Review a migration before deployment.',
+    );
+} else writeFileSync('migrations/0001_auth.sql', expected);
 sqlite.close();
-console.log('Generated pinned authentication schema.');
+console.log(
+  process.argv.includes('--check')
+    ? 'Pinned authentication schema matches.'
+    : 'Generated pinned authentication schema.',
+);

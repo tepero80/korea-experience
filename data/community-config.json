@@ -1,1 +1,6 @@
-{ "enabled": false, "status": "not-connected", "apiBase": "", "note": "Enable only after real OAuth, email, moderation, ownership and deployed free-tier checks pass." }
+{
+  "enabled": true,
+  "status": "live-observed-trial",
+  "apiBase": "",
+  "note": "Owner authorized the current free configuration for an observed production trial on 2026-10-31. CPU spikes remain a monitored limitation; no paid upgrade or authentication provider change is authorized."
+}

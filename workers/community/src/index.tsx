@@ -1,7 +1,7 @@
 import { Hono, type Context } from 'hono';
 import { secureHeaders } from 'hono/secure-headers';
 import { bodyLimit } from 'hono/body-limit';
-import { auth } from './auth';
+import { auth, authRequest } from './auth';
 import type { Env } from './env';
 import { Problem, hash, isSameOrigin, rate, text, turnstile, uid } from './security';
 import contentIds from '../../../data/content-ids.json';
@@ -28,13 +28,15 @@ app.use(
       formAction: ["'self'"],
       frameAncestors: ["'none'"],
     },
-    referrerPolicy: 'strict-origin-when-cross-origin',
+    referrerPolicy: 'no-referrer',
     xFrameOptions: 'DENY',
     xContentTypeOptions: 'nosniff',
   }),
 );
 app.use('*', async (c, next) => {
   c.header('Cache-Control', 'no-store');
+  if (c.env.SITE_URL !== 'https://koreaexperience.com')
+    c.header('X-Robots-Tag', 'noindex, nofollow');
   if (c.env.COMMUNITY_ENABLED !== 'true')
     return c.json({ error: 'Community is not connected yet.' }, 503);
   if (!c.env.BETTER_AUTH_SECRET || c.env.BETTER_AUTH_SECRET.length < 32)
@@ -129,12 +131,12 @@ app.get('/api/config', (c) =>
   }),
 );
 app.on(['GET', 'POST'], '/api/auth/*', async (c) => {
+  const data = c.req.method === 'POST' ? await body(c) : undefined;
   if (c.req.method === 'POST' && c.req.path.endsWith('/sign-in/magic-link')) {
-    const data = (await c.req.raw.clone().json()) as Record<string, unknown>;
     await rate(c.env, c.req.raw, 'email', 3, 300);
-    await turnstile(c.env, c.req.raw, data.turnstileToken);
+    await turnstile(c.env, c.req.raw, data?.turnstileToken);
   }
-  return auth(c.env).handler(c.req.raw);
+  return authRequest(c.req.raw, c.env, data);
 });
 app.get('/api/me', async (c) => {
   const p = await member(c, true);
@@ -399,7 +401,8 @@ app.post('/api/plans/:id/share', async (c) => {
       id,
     ),
   ]);
-  return c.json({ url: `${c.env.SITE_URL}/community/shared/${token}` });
+  // Query strings are redacted by the Worker observability configuration.
+  return c.json({ url: `${c.env.SITE_URL}/community/shared?token=${token}` });
 });
 app.delete('/api/plans/:id/share', async (c) => {
   const p = await member(c);
@@ -516,18 +519,23 @@ function Shell({
       </head>
       <body>
         <header>
-          <a href="/">Korea Experience</a>
+          <a href="https://koreaexperience.com/">Korea Experience</a>
           <nav>
-            <a href="/blog">Guides</a>
-            <a href="/tools">Travel tools</a>
+            <a href="https://koreaexperience.com/blog">Guides</a>
+            <a href="https://koreaexperience.com/tools">Travel tools</a>
             <a href="/community">Community</a>
             <a href="/community/account">My account</a>
           </nav>
         </header>
-        <main>{children}</main>
+        <main>
+          <p id="auth-notice" role="alert" hidden />
+          <p id="member-status" role="status" hidden />
+          {children}
+        </main>
         <footer>
-          <a href="/editorial-policy">Editorial policy</a> · <a href="/privacy">Privacy</a> ·{' '}
-          <a href="/terms">Terms</a>
+          <a href="https://koreaexperience.com/editorial-policy">Editorial policy</a> ·{' '}
+          <a href="https://koreaexperience.com/privacy">Privacy</a> ·{' '}
+          <a href="https://koreaexperience.com/terms">Terms</a>
           <p>
             Questions, reports and updates are reviewed before publication. Do not post personal
             documents, private contact details or booking codes.
@@ -541,10 +549,10 @@ function Shell({
 }
 function Login() {
   return (
-    <section className="panel">
+    <section className="panel" id="login-panel">
       <h2>Sign in to contribute</h2>
       <p>Google or a single-use email link. Reading does not require an account.</p>
-      <button id="google-login" type="button">
+      <button id="google-login" type="button" disabled>
         Continue with Google
       </button>
       <form data-action="email">
@@ -553,7 +561,9 @@ function Login() {
           <input name="email" type="email" required autoComplete="email" maxLength={254} />
         </label>
         <div className="spam-check" />
-        <button type="submit">Email a sign-in link</button>
+        <button type="submit" disabled>
+          Email a sign-in link
+        </button>
       </form>
       <p role="status" id="login-status" />
     </section>
@@ -561,7 +571,7 @@ function Login() {
 }
 function Compose({ parent, guideId }: { parent?: string; guideId?: string }) {
   return (
-    <section className="panel">
+    <section className="panel" data-member-only hidden>
       <h2>{parent ? 'Add a reply' : 'Ask or share something useful'}</h2>
       <p>
         Include dates, area and what you already checked. Contributions and edits appear after
@@ -700,8 +710,9 @@ app.get('/community/posts/:id', async (c) => {
     </Shell>,
   );
 });
-app.get('/community/shared/:token', async (c) => {
-  const token = c.req.param('token');
+app.get('/community/shared', async (c) => {
+  c.header('Referrer-Policy', 'no-referrer');
+  const token = c.req.query('token') || '';
   if (!/^[a-f0-9]{64}$/.test(token)) return c.notFound();
   const p = await c.env.DB.prepare(
     'SELECT p.title,p.data FROM plan p JOIN plan_share s ON s.plan_id=p.id WHERE s.token_hash=?',
@@ -720,7 +731,7 @@ app.get('/community/shared/:token', async (c) => {
       <p className="eyebrow">Shared by its owner · unverified travel notes</p>
       <h1>{p.title}</h1>
       <pre className="panel preserve">{JSON.stringify(JSON.parse(p.data), null, 2)}</pre>
-      <a href="/tools/itinerary">Create your own trip board</a>
+      <a href="https://koreaexperience.com/tools/itinerary">Create your own trip board</a>
     </Shell>,
   );
 });
@@ -729,7 +740,7 @@ app.get('/community/account', (c) =>
     <Shell title="Your travel account">
       <h1>Your travel account</h1>
       <Login />
-      <section className="panel">
+      <section className="panel" data-member-only hidden>
         <h2>Profile</h2>
         <form data-action="profile">
           <label>
@@ -741,11 +752,11 @@ app.get('/community/account', (c) =>
         </form>
         <button id="sign-out">Sign out</button>
       </section>
-      <section className="panel">
+      <section className="panel" data-member-only hidden>
         <h2>Your contributions</h2>
         <div id="my-contributions">Sign in to manage your contributions.</div>
       </section>
-      <section className="panel">
+      <section className="panel" data-member-only hidden>
         <h2>Private plans</h2>
         <p>
           Plans are private until you explicitly create a public link. Revoke it at any time. Anyone
@@ -765,7 +776,7 @@ app.get('/community/account', (c) =>
           <p role="status" />
         </form>
       </section>
-      <section className="panel">
+      <section className="panel" data-member-only hidden>
         <h2>Delete account</h2>
         <p>Removes sessions, profile, saved items, private plans and all shared links.</p>
         <form data-action="delete-account">

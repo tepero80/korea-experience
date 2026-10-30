@@ -88,14 +88,18 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
     r = await request('/api/plans/' + plan.id + '/share', 'POST', {});
     const share = (await r.json()) as any;
     const url = new URL(share.url);
-    assert.equal((await request(url.pathname)).status, 200);
+    const sharedPath = url.pathname + url.search;
+    const sharedResponse = await request(sharedPath);
+    assert.equal(sharedResponse.status, 200);
+    assert.equal(sharedResponse.headers.get('Referrer-Policy'), 'no-referrer');
     const replacement = (await (
       await request('/api/plans/' + plan.id + '/share', 'POST', {})
     ).json()) as any;
-    assert.equal((await request(url.pathname)).status, 404);
-    assert.equal((await request(new URL(replacement.url).pathname)).status, 200);
+    assert.equal((await request(sharedPath)).status, 404);
+    const replacementUrl = new URL(replacement.url);
+    assert.equal((await request(replacementUrl.pathname + replacementUrl.search)).status, 200);
     await request('/api/plans/' + plan.id + '/share', 'DELETE', {});
-    assert.equal((await request(url.pathname)).status, 404);
+    assert.equal((await request(sharedPath)).status, 404);
     await request('/api/reactions/plan-first-trip', 'PUT', {});
     await request('/api/reactions/plan-first-trip', 'PUT', {});
     assert.equal(
@@ -139,7 +143,8 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
     );
     assert.equal(((await (await request('/api/community')).json()) as any).items.length, 1);
     r = await request('/api/plans/' + plan.id + '/share', 'POST', {});
-    const oldShare = new URL(((await r.json()) as any).url).pathname;
+    const oldShareUrl = new URL(((await r.json()) as any).url);
+    const oldShare = oldShareUrl.pathname + oldShareUrl.search;
     await env.DB.prepare('UPDATE session SET createdAt=? WHERE userId=?')
       .bind(Date.now() - 86400000, owner.u.id)
       .run();

@@ -4,12 +4,15 @@
   "type": "module",
   "scripts": {
     "dev": "wrangler dev --port 8787",
-    "check": "tsc --noEmit",
+    "check": "tsc --noEmit && node --import tsx scripts/auth-schema.ts --check",
     "test": "node --import tsx --test tests/*.test.ts",
     "deploy": "wrangler deploy",
     "db:local": "wrangler d1 migrations apply korea-experience-community --local",
     "db:remote": "wrangler d1 migrations apply korea-experience-community --remote",
-    "auth:schema": "node --import tsx scripts/auth-schema.ts"
+    "auth:schema": "node --import tsx scripts/auth-schema.ts",
+    "probe:staging": "node --import tsx scripts/staging-probe.ts",
+    "restore:staging": "node --import tsx scripts/staging-restore.ts",
+    "backup:production": "node --import tsx scripts/backup-remote.ts production"
   },
   "dependencies": {
     "better-auth": "1.7.14",
