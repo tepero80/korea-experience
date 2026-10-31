@@ -1,6 +1,8 @@
 // Plain-text user content is rendered through textContent or Hono escaping, never HTML.
 export const clientScript = String.raw`
 (()=>{'use strict';let config;const widgets=new WeakMap();
+const signInReturn=document.getElementById('login-panel')?.dataset.returnTo||'/community/account';
+const signInError='/community/account?returnTo='+encodeURIComponent(signInReturn);
 const el=(tag,text)=>{const n=document.createElement(tag);if(text)n.textContent=text;return n;};
 async function api(path,method='GET',data){const r=await fetch(path,{method,credentials:'same-origin',headers:data?{'Content-Type':'application/json'}:{},body:data?JSON.stringify(data):undefined});let result;try{result=await r.json();}catch{throw Error('The service is unavailable.');}if(!r.ok)throw Error(result.error?.message||result.error||result.message||'Request failed.');return result;}
 function status(form,message){let n=form.querySelector('[role=status]');if(!n){n=el('p');n.setAttribute('role','status');form.append(n);}n.textContent=message;}
@@ -11,8 +13,6 @@ const fail=()=>{status(form,'The anti-spam check could not load. Retry the check
 try{widgets.set(form,window.turnstile.render(box,{sitekey:config.turnstileSiteKey,theme:'light',size:'compact','error-callback':fail,callback:()=>{form.querySelector('[data-spam-retry]')?.remove();status(form,'Anti-spam check completed.');}}));}catch{fail();}
 }
 async function initialize(){
-const signInReturn=document.getElementById('login-panel')?.dataset.returnTo||'/community/account';
-const signInError='/community/account?returnTo='+encodeURIComponent(signInReturn);
 const notice=document.getElementById('auth-notice');
 if(new URLSearchParams(location.search).has('error')&&notice){notice.hidden=false;notice.textContent='This sign-in link or attempt is no longer valid. Request a new link or try Google again.';}
 try{config=await api('/api/config');}catch{const n=document.getElementById('login-status');if(n)n.textContent='Sign-in is temporarily unavailable. You can still read the guides and conversations.';return;}
