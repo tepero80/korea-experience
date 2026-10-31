@@ -1438,5 +1438,24 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "note": "Photographed 27 March 2020; auto-rotated, resized and converted to WebP. Card-only signage is visible; the image does not verify current operations or foreign-card acceptance."
     }
+  },
+  {
+    "id": "emergency-contacts-illustration",
+    "src": "/images/editorial/emergency-contacts-illustration.svg",
+    "width": 1280,
+    "height": 853,
+    "originalId": "korea-experience-editorial-emergency-contacts-v1",
+    "originalHash": "70b02a6529032d31746a6d652f37964e8968cf58f227670919bfdd850df5ac4f",
+    "checkedAt": "2026-10-31",
+    "alt": "Illustrated contact reminder: 112 police, 119 fire and ambulance, 1330 travel information and interpretation",
+    "credit": {
+      "kind": "illustration",
+      "title": "Korea travel safety contacts",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#emergency-contacts-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial contact diagram. Not an app screenshot, map or guarantee of service availability. Numbers and context are also given in the article."
+    }
   }
 ]

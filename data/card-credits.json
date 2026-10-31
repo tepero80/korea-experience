@@ -688,5 +688,20 @@
       "note": "Original editorial decision diagram, not a photograph or guarantee of payment acceptance. The same steps are available as article text."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "emergency-ready-app-english-alerts-2026": {
+    "src": "/images/cards/emergency-ready-app-english-alerts-2026.jpg",
+    "fingerprint": "821a5ff7d7a29c713086bafb9bbdc2bb159726587feb9ea5ea16b7fdf7ca2876",
+    "sourceImage": "/images/editorial/emergency-contacts-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Korea travel safety contacts",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#emergency-contacts-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial contact diagram. Not an app screenshot, map or guarantee of service availability. Numbers and context are also given in the article."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }
