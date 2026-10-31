@@ -109,6 +109,11 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
             callback: (value: string) => {
               setToken(value);
               setSpamError(false);
+              setStatus((current) =>
+                /^(The anti-spam check|Retrying the anti-spam check)/.test(current)
+                  ? 'Anti-spam check completed.'
+                  : current,
+              );
             },
             'expired-callback': () => setToken(''),
             'error-callback': () => {

@@ -358,9 +358,9 @@ export default function ItineraryBoard() {
               min="2000-01-01"
               max="2100-12-31"
               value={plan.startDate || ''}
-              onChange={(e) => {
+              onInput={(e) => {
                 try {
-                  save({ ...plan, startDate: e.target.value || null });
+                  save({ ...plan, startDate: e.currentTarget.value || null });
                 } catch (error) {
                   setMessage((error as Error).message);
                 }
@@ -386,7 +386,10 @@ export default function ItineraryBoard() {
             <input
               type="time"
               value={stop.time}
-              onChange={(e) => setStop({ ...stop, time: e.target.value })}
+              onInput={(e) => {
+                const time = e.currentTarget.value;
+                setStop((current) => ({ ...current, time }));
+              }}
             />
           </label>
           <label className="field">

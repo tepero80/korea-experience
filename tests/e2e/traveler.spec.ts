@@ -253,6 +253,58 @@ test('search finds an arrival guide and Escape returns focus', async ({ page }) 
   await expect(dialog).not.toBeVisible();
   await expect(trigger).toBeFocused();
 });
+
+test('successful anti-spam retry clears its stale error while preserving receipt', async ({
+  page,
+}) => {
+  // Isolated local UI fixture only. No provider challenge or production write is bypassed.
+  await page.route('https://challenges.cloudflare.com/**', (route) => route.abort());
+  await page.addInitScript(() => {
+    let attempts = 0;
+    Object.assign(window, {
+      turnstile: {
+        render: (_box: Element, options: Record<string, (value?: string) => void>) => {
+          attempts++;
+          queueMicrotask(() =>
+            attempts === 1
+              ? options['error-callback']()
+              : options.callback('isolated-fixture-token'),
+          );
+          return String(attempts);
+        },
+        remove() {},
+        reset() {},
+      },
+    });
+  });
+  await page.route('**/api/**', (route) => {
+    const path = new URL(route.request().url()).pathname;
+    return route.fulfill({
+      status: path === '/api/contributions' ? 201 : 200,
+      contentType: 'application/json',
+      body: JSON.stringify(
+        path === '/api/config'
+          ? { turnstileSiteKey: 'isolated-fixture-key' }
+          : path === '/api/me'
+            ? { name: 'UI fixture' }
+            : path.startsWith('/api/reactions')
+              ? { count: 0, mine: false }
+              : { items: [], ok: true },
+      ),
+    });
+  });
+  await page.goto(prototypes[0]);
+  await page
+    .getByLabel('Your question or update', { exact: true })
+    .fill('Isolated fixture question.');
+  await page.getByRole('button', { name: 'Retry anti-spam check', exact: true }).click();
+  const discussion = page.locator('#discussion');
+  await expect(discussion).toContainText('Anti-spam check completed.');
+  await expect(discussion).not.toContainText('Retrying the anti-spam check');
+  await page.getByRole('button', { name: 'Send for review', exact: true }).click();
+  await expect(discussion).toContainText('Received for review.');
+  await expect(page.getByLabel('Your question or update', { exact: true })).toHaveValue('');
+});
 test('a two-column question table reads within the mobile viewport', async ({ page }) => {
   await page.goto('/blog/booking-family-hotel-rooms-in-korea');
   const region = page.getByRole('region', {
@@ -289,6 +341,7 @@ test('a traveler adds a guide place, edits its date/time/buffer and reopens the 
     page.getByRole('heading', { name: 'Day 2 · 2026-11-03', exact: true }),
   ).toBeVisible();
   await expect(page.locator('.itinerary-list')).toContainText('90 min visit');
+  await expect(page.locator('.itinerary-list')).toContainText('11:00');
   await page.getByText('Review a public sharing snapshot', { exact: true }).click();
   await expect(page.locator('.public-plan-preview')).toContainText('Gyeongbokgung');
   await expect(page.locator('.public-plan-preview')).not.toContainText('Fixture reminder');
