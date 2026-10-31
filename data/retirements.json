@@ -30,5 +30,21 @@
       "linksChecked": true,
       "seasonalChecked": true
     }
+  },
+  {
+    "slug": "korea-plastic-surgery-reviews-what-to-expect",
+    "action": "removed",
+    "reviewBasis": "medical-editorial-scope",
+    "reason": "This plastic-surgery tourism promotion is outside the travel publication’s scope and contains unsupported procedure safety, recovery timing and hotline claims. No equivalent travel-safety guide answers its original intent.",
+    "decidedAt": "2026-10-31",
+    "evidence": {
+      "publicationDate": "2026-02-01",
+      "publicationDateBasis": "Earliest available Git record; actual first public deployment is unconfirmed.",
+      "reviewedAt": "2026-10-31",
+      "indexingStatus": "Not inspected; medical scope decision is independent of index status.",
+      "usageChecked": true,
+      "linksChecked": true,
+      "seasonalChecked": true
+    }
   }
 ]

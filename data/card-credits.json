@@ -643,5 +643,20 @@
       "note": "Original editorial contact diagram, not a photograph. The article contains the equivalent accessible HTML and official sources. No current opening, language availability or medical treatment is implied."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026": {
+    "src": "/images/cards/gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026.jpg",
+    "fingerprint": "47dcbe7199430f4e57f6fa742add7cf8ef69528fb122ca4c053dba37158d5d6f",
+    "sourceImage": "/images/editorial/gyeongju-tombs-2022-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Daereungwon Tomb Complex",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daereungwon_Tomb_Complex.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 6 October 2022; resized and converted to WebP. Historical image does not verify current routes or access."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

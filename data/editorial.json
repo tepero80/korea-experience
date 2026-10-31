@@ -3910,5 +3910,121 @@
     "heroCaption": "Illustration: confirm the pharmacy is open before you go. This is not a photograph of a real pharmacy.",
     "cardImageLabel": "Illustration · verify opening today",
     "experienceVersion": 2
+  },
+  "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026": {
+    "id": "guide:gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-10-31",
+    "answer": "Plan central Gyeongju for one day and Bulguksa–Seokguram for another, checking current site hours and your return transport.",
+    "forWhom": "Travelers planning a first independent two-day Gyeongju visit",
+    "conditions": [
+      "Attraction hours, ticket rules and local transport can change; verify for your travel dates.",
+      "Bulguksa and Seokguram require a separate connection; check the return journey."
+    ],
+    "regions": [
+      "gyeongju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "planning",
+      "culture",
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "intercity-bus-travel-booking-apps-and-routes",
+        "type": "prepare",
+        "label": "Get to Gyeongju",
+        "reason": "Check the terminal, route and ticket collection for your intercity trip."
+      },
+      {
+        "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+        "type": "alternative",
+        "label": "Compare the train",
+        "reason": "Compare your actual train arrival station and onward connection with the bus."
+      },
+      {
+        "slug": "best-time-to-visit-korea-month-by-month-weather",
+        "type": "prepare",
+        "label": "Choose your conditions",
+        "reason": "Plan clothing and alternatives for the weather during your visit."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gyeongju-museum",
+      "gyeongju-wolji",
+      "gyeongju-bulguksa",
+      "gyeongju-seokguram"
+    ],
+    "sources": [
+      {
+        "id": "gyeongju-map",
+        "title": "Gyeongju City: tourism maps",
+        "url": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4618",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "gyeongju-transit",
+        "title": "Gyeongju City: bus information",
+        "url": "https://its.gyeongju.go.kr/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "museum",
+        "title": "Korea Tourism Organization: Gyeongju National Museum",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111324",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "wolji",
+        "title": "Korea Tourism Organization: Donggung and Wolji",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94404",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "bulguksa",
+        "title": "Korea Tourism Organization: Bulguksa (Korean)",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=107456",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "seokguram",
+        "title": "Korea Tourism Organization: Seokguram",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=94436",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "korail",
+        "title": "KORAIL: passenger booking",
+        "url": "https://www.korail.com/global?gubun=1",
+        "checkedAt": "2026-10-31"
+      }
+    ],
+    "shareFacts": [
+      "Group central Gyeongju and the Bulguksa–Seokguram area on separate days.",
+      "Check openings and return transport for your actual travel date."
+    ],
+    "launchOrder": 43,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Daereungwon Tomb Complex",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daereungwon_Tomb_Complex.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 6 October 2022; resized and converted to WebP. Historical image does not verify current routes or access."
+    },
+    "heroMediaId": "gyeongju-tombs-2022",
+    "heroCaption": "Daereungwon Tomb Complex in October 2022. Confirm current paths and entry conditions.",
+    "cardImageLabel": "Daereungwon · October 2022",
+    "experienceVersion": 2
   }
 }

@@ -402,5 +402,57 @@
     "addressSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=108760",
     "checkedAt": "2026-10-31",
     "sourceNote": "KTO Hwaseomun listing supplies the address and JSON-LD/map coordinate. Its older fees/hours were not adopted; the current Suwon Cultural Foundation visitor conditions control admission."
+  },
+  {
+    "id": "gyeongju-museum",
+    "name": "Gyeongju National Museum",
+    "nameKo": "국립경주박물관",
+    "latitude": 35.8304796951968,
+    "longitude": 129.228370380274,
+    "address": "경상북도 경주시 일정로 186",
+    "region": "gyeongju",
+    "description": "Overview marker only. Check the current entrance, visitor conditions and transport before traveling.",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111324",
+    "checkedAt": "2026-10-31",
+    "sourceNote": "Coordinates and Korean address shown on the linked Korea Tourism Organization listing; marker is not a verified visitor entrance."
+  },
+  {
+    "id": "gyeongju-wolji",
+    "name": "Donggung Palace and Wolji Pond",
+    "nameKo": "경주 동궁과 월지",
+    "latitude": 35.8351582099638,
+    "longitude": 129.228344703918,
+    "address": "경상북도 경주시 원화로 102 (인왕동)",
+    "region": "gyeongju",
+    "description": "Overview marker only. Check the current entrance, visitor conditions and transport before traveling.",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94404",
+    "checkedAt": "2026-10-31",
+    "sourceNote": "Coordinates and Korean address shown on the linked Korea Tourism Organization listing; marker is not a verified visitor entrance."
+  },
+  {
+    "id": "gyeongju-bulguksa",
+    "name": "Bulguksa Temple",
+    "nameKo": "경주 불국사",
+    "latitude": 35.7923023161251,
+    "longitude": 129.331725391321,
+    "address": "경상북도 경주시 불국로 385 (진현동)",
+    "region": "gyeongju",
+    "description": "Overview marker only. Check the current entrance, visitor conditions and transport before traveling.",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=107456",
+    "checkedAt": "2026-10-31",
+    "sourceNote": "Coordinates and Korean address shown on the linked Korea Tourism Organization listing; marker is not a verified visitor entrance."
+  },
+  {
+    "id": "gyeongju-seokguram",
+    "name": "Seokguram Grotto",
+    "nameKo": "경주 석굴암",
+    "latitude": 35.7893407222789,
+    "longitude": 129.350751655266,
+    "address": "경상북도 경주시 석굴로 238 (진현동)",
+    "region": "gyeongju",
+    "description": "Overview marker only. Check the current entrance, visitor conditions and transport before traveling.",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=94436",
+    "checkedAt": "2026-10-31",
+    "sourceNote": "Coordinates and Korean address shown on the linked Korea Tourism Organization listing; marker is not a verified visitor entrance."
   }
 ]

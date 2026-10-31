@@ -3,6 +3,7 @@ import { expect, test } from '@playwright/test';
 for (const slug of [
   'korean-beauty-clinics-gangnam-skincare-guide',
   'revision-rhinoplasty-in-korea-why-foreigners-choose-seoul-for-second-chances-2026',
+  'korea-plastic-surgery-reviews-what-to-expect',
 ])
   test(`retired medical promotion is unavailable and absent from public discovery: ${slug}`, async ({
     page,
