@@ -46,5 +46,21 @@
       "linksChecked": true,
       "seasonalChecked": true
     }
+  },
+  {
+    "slug": "korean-stem-cell-therapy-current-trends-in-anti-aging-and-joint-health-2026",
+    "action": "removed",
+    "reviewBasis": "medical-editorial-scope",
+    "reason": "This regenerative-medicine tourism promotion is outside the travel publication’s scope and contains unsupported treatment efficacy, safety, recovery and travel timing claims. There is no equivalent general visitor-safety guide for its procedure-selection intent.",
+    "decidedAt": "2026-10-31",
+    "evidence": {
+      "publicationDate": "2026-02-03",
+      "publicationDateBasis": "Earliest available Git record; actual first production publication is unconfirmed.",
+      "reviewedAt": "2026-10-31",
+      "indexingStatus": "Not inspected; medical scope decision is independent of index status.",
+      "usageChecked": true,
+      "linksChecked": true,
+      "seasonalChecked": true
+    }
   }
 ]

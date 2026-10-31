@@ -4,6 +4,7 @@ for (const slug of [
   'korean-beauty-clinics-gangnam-skincare-guide',
   'revision-rhinoplasty-in-korea-why-foreigners-choose-seoul-for-second-chances-2026',
   'korea-plastic-surgery-reviews-what-to-expect',
+  'korean-stem-cell-therapy-current-trends-in-anti-aging-and-joint-health-2026',
 ])
   test(`retired medical promotion is unavailable and absent from public discovery: ${slug}`, async ({
     page,
