@@ -4617,5 +4617,87 @@
     "heroCaption": "Illustrated contact reminder, not an official app screen or a guarantee of service.",
     "cardImageLabel": "Emergency call reminder",
     "experienceVersion": 2
+  },
+  "finding-public-restrooms-in-korea-station-mall-and-accessible-facilities": {
+    "id": "guide:finding-public-restrooms-in-korea-station-mall-and-accessible-facilities",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-10-31",
+    "answer": "Look for 화장실 on signs or a map, and ask station or venue staff. Check the gate, opening hours and accessibility of the particular facility before relying on it.",
+    "forWhom": "Travelers looking for a restroom, including people who need step-free access or family facilities",
+    "conditions": [
+      "Facility listings do not guarantee current opening hours, gate access or accessibility.",
+      "Seoul’s re-entry notice lists covered sections with a 2023 reference date; check current local rules."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "planning"
+    ],
+    "relations": [
+      {
+        "slug": "accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026",
+        "type": "prepare",
+        "label": "Plan step-free access",
+        "reason": "Check the entire route and the individual venue before traveling."
+      },
+      {
+        "slug": "how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026",
+        "type": "next",
+        "label": "Find your way",
+        "reason": "Use a Korean place name and check the current listing before traveling."
+      },
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "alternative",
+        "label": "Find other assistance",
+        "reason": "Keep useful contacts for other travel problems."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "smart-seoul",
+        "title": "Seoul Metropolitan Government: Smart Seoul Map",
+        "url": "https://map.seoul.go.kr/nsmgis/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "seoul-data",
+        "title": "Seoul Open Data Plaza: public-restroom information",
+        "url": "https://data.seoul.go.kr/dataList/OA-22586/S/1/datasetView.do",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "seoul-reentry",
+        "title": "Seoul Metropolitan Government: 15-minute re-entry notice",
+        "url": "https://english.seoul.go.kr/15-min-turnstile-re-entry-introduced-by-daeun/",
+        "checkedAt": "2026-10-31"
+      }
+    ],
+    "shareFacts": [
+      "Search for 화장실 and ask staff for the entrance.",
+      "Confirm current hours, gate access and accessibility."
+    ],
+    "launchOrder": 50,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Finding a restroom: look, ask and check",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#restroom-planning",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial planning illustration, not a real facility or guarantee of access."
+    },
+    "heroMediaId": "restroom-planning",
+    "heroCaption": "Illustrated steps; a listing does not guarantee access or accessibility.",
+    "cardImageLabel": "Find a restroom",
+    "experienceVersion": 2
   }
 }

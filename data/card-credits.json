@@ -748,5 +748,20 @@
       "note": "Original editorial call reminder, not an official app screenshot or guarantee of service. The same contact guidance is in the article text."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "finding-public-restrooms-in-korea-station-mall-and-accessible-facilities": {
+    "src": "/images/cards/finding-public-restrooms-in-korea-station-mall-and-accessible-facilities.jpg",
+    "fingerprint": "fc3eefe7953bee84f6c26cbe0aa3eff20da8cd265e10353f37dbb5c7afe95861",
+    "sourceImage": "/images/editorial/restroom-planning.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Finding a restroom: look, ask and check",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#restroom-planning",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial planning illustration, not a real facility or guarantee of access."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

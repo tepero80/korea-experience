@@ -1514,5 +1514,44 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial call reminder, not an official app screenshot or guarantee of service. The same contact guidance is in the article text."
     }
+  },
+  {
+    "id": "restroom-planning",
+    "src": "/images/editorial/restroom-planning.svg",
+    "width": 1280,
+    "height": 853,
+    "originalId": "korea-experience-editorial-restroom-planning-v1",
+    "originalHash": "af8ac65a8859ddafc97a8a4b925f3a9bf62df334dae88c0c3142bca632182329",
+    "checkedAt": "2026-10-31",
+    "alt": "Illustrated steps to look for a restroom, ask staff and check gate, hours and access",
+    "credit": {
+      "kind": "illustration",
+      "title": "Finding a restroom: look, ask and check",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#restroom-planning",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial planning illustration, not a real facility or guarantee of access."
+    }
+  },
+  {
+    "id": "seoul-grand-park-restroom-2018",
+    "src": "/images/editorial/seoul-grand-park-restroom-2018-1280.webp",
+    "srcSet": "/images/editorial/seoul-grand-park-restroom-2018-800.webp 800w, /images/editorial/seoul-grand-park-restroom-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul_Grand_Park_toilet_20180420.jpg",
+    "originalHash": "3dbacd063c65ab87ee7385c57721338c4660eb9d4a82061283ea5325b6075ce2",
+    "capturedAt": "2018-04-20",
+    "alt": "Restroom entrance at Seoul Grand Park with a Korean and English restroom sign in 2018",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seoul Grand Park restroom entrance",
+      "author": "Holiakim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Grand_Park_toilet_20180420.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 20 April 2018; resized and converted to WebP. Current access, hours and accessibility are not verified."
+    }
   }
 ]
