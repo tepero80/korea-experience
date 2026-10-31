@@ -3642,10 +3642,10 @@
         "reason": "State the exact restriction and cross-contact concern; leave if the kitchen cannot confirm a safe preparation."
       },
       {
-        "slug": "how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026",
+        "slug": "24-hour-english-pharmacies-in-seoul-2026",
         "type": "alternative",
-        "label": "A useful alternative",
-        "reason": "Search by the Korean place name, verify the exact result and save the address before starting navigation."
+        "label": "Find late-night help in Seoul",
+        "reason": "Use the current Seoul list and confirm a specific pharmacy is open before going."
       }
     ],
     "tools": [],
@@ -3802,6 +3802,113 @@
     "heroMediaId": "dongducheon-platform-2026",
     "heroCaption": "Numbered bays at Dongducheon Intercity Bus Terminal in September 2026. The pictured vehicle is not verified as a scheduled intercity service.",
     "cardImageLabel": "Dongducheon terminal platform · 2026",
+    "experienceVersion": 2
+  },
+  "24-hour-english-pharmacies-in-seoul-2026": {
+    "id": "guide:24-hour-english-pharmacies-in-seoul-2026",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-10-31",
+    "answer": "Search Seoul’s current late-night pharmacy list and call the pharmacy to confirm today’s hours and language support. In an urgent medical emergency, call 119.",
+    "forWhom": "International visitors looking for a pharmacy in Seoul late at night",
+    "conditions": [
+      "A listed pharmacy may not be open today, stock the medicine, or offer English service.",
+      "Public late-night pharmacy schedules are not a guarantee of 24-hour opening."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "safety",
+      "planning"
+    ],
+    "relations": [
+      {
+        "slug": "korean-pharmacies-otc-meds-tourists-2026",
+        "type": "next",
+        "label": "Prepare for the conversation",
+        "reason": "Bring medicine information and ask the pharmacist or clinician to explain the next step."
+      },
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "prepare",
+        "label": "Find further help",
+        "reason": "Use the right official contact for an emergency, lost property or other travel problem."
+      },
+      {
+        "slug": "how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026",
+        "type": "prepare",
+        "label": "Find the right location",
+        "reason": "Check the exact pharmacy address and entrance before leaving."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-pharmacy",
+        "title": "Seoul Metropolitan Government: designated late-night pharmacies",
+        "url": "https://news.seoul.go.kr/welfare/archives/567003?listPage=1",
+        "checkedAt": "2026-10-31",
+        "note": "Days and hours vary; Seoul advises calling before visiting."
+      },
+      {
+        "id": "seoul-map",
+        "title": "Smart Seoul Map: late-night pharmacies",
+        "url": "https://map.seoul.go.kr/smgis2/short/6PAOC",
+        "checkedAt": "2026-10-31",
+        "note": "Interactive map; verify current opening and service directly."
+      },
+      {
+        "id": "pharm114",
+        "title": "Korean Pharmaceutical Association: Pharm114 pharmacy directory",
+        "url": "https://www.pharm114.or.kr/",
+        "checkedAt": "2026-10-31",
+        "note": "Korean-language directory; a listing does not guarantee live opening or English service."
+      },
+      {
+        "id": "kto-emergency",
+        "title": "Korea Tourism Organization: emergency contacts",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=376&vcontsId=140042",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "kto-1330",
+        "title": "Korea Tourism Organization: 1330 travel helpline",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632",
+        "checkedAt": "2026-10-31",
+        "note": "Tourist information and interpretation, separate from emergency dispatch."
+      },
+      {
+        "id": "kdca-1339",
+        "title": "Korea Disease Control and Prevention Agency: 1339 call center",
+        "url": "https://www.kdca.go.kr/eng/4276/subview.do",
+        "checkedAt": "2026-10-31",
+        "note": "Disease information and infectious-disease reporting."
+      }
+    ],
+    "shareFacts": [
+      "Check today’s pharmacy hours and language help before traveling.",
+      "For an urgent medical emergency, call 119."
+    ],
+    "launchOrder": 42,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Check actual pharmacy opening before traveling",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#pharmacy-opening-check",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial contact diagram, not a photograph. The article contains the equivalent accessible HTML and official sources. No current opening, language availability or medical treatment is implied."
+    },
+    "heroMediaId": "pharmacy-opening-check",
+    "heroCaption": "Illustration: confirm the pharmacy is open before you go. This is not a photograph of a real pharmacy.",
+    "cardImageLabel": "Illustration · verify opening today",
     "experienceVersion": 2
   }
 }

@@ -628,5 +628,20 @@
       "note": "Photo taken 13 September 2026; resized from a Wikimedia thumbnail and converted to WebP. The pictured vehicle is not verified as an intercity service; check current terminal and route information."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "24-hour-english-pharmacies-in-seoul-2026": {
+    "src": "/images/cards/24-hour-english-pharmacies-in-seoul-2026.jpg",
+    "fingerprint": "8bf666319540fa336fc39fd0294e1efcbd42faa7b50ac1e90ef5bbfbb3aacd7e",
+    "sourceImage": "/images/editorial/pharmacy-opening-check.webp",
+    "credit": {
+      "kind": "illustration",
+      "title": "Check actual pharmacy opening before traveling",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#pharmacy-opening-check",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial contact diagram, not a photograph. The article contains the equivalent accessible HTML and official sources. No current opening, language availability or medical treatment is implied."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

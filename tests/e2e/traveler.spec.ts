@@ -84,7 +84,6 @@ for (const path of [
   '/privacy',
   '/terms',
   '/image-credits',
-  '/blog/24-hour-english-pharmacies-in-seoul-2026',
   '/blog/1330-travel-helpline-8-languages-2026',
   '/blog/gentle-monster-vs-blue-elephant-eyewear-2026',
   '/tools',
