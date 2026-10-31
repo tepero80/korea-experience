@@ -4,13 +4,24 @@ on:
     branches: [main, 'codex/**']
   pull_request:
   workflow_dispatch:
+    inputs:
+      review_type:
+        description: Current guide/tool/operations acceptance or a separate performance measurement
+        type: choice
+        options: [full, performance]
+        default: full
+      preview_url:
+        description: Optional verified Korea Experience Pages preview origin (performance only)
+        type: string
+        default: ''
 permissions:
   contents: read
 concurrency:
-  group: traveler-quality-${{ github.ref }}
+  group: traveler-quality-${{ github.ref }}-${{ inputs.review_type || 'full' }}
   cancel-in-progress: true
 jobs:
   export-and-journeys:
+    if: inputs.review_type != 'performance'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -36,4 +47,25 @@ jobs:
             test-results/**/*.jpg
             test-results/**/error-context.md
             test-results/**/*-info.json
+          retention-days: 1
+  lab-performance:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - run: npx playwright install --with-deps chromium
+      - run: node scripts/lab-performance.mjs
+        env:
+          LAB_PREVIEW_BASE_URL: ${{ inputs.review_type == 'performance' && inputs.preview_url || '' }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: traveler-lab-performance
+          path: test-results/lab-performance
           retention-days: 1

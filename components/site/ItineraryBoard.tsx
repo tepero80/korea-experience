@@ -16,7 +16,7 @@ import {
   type SharePlanOptions,
 } from '@/lib/itinerary';
 import community from '@/data/community-config.json';
-import { track } from '@/lib/analytics';
+import { useToolCompletion } from './ToolMeasurement';
 
 const blankStop = () =>
   ({
@@ -90,6 +90,7 @@ function PublicPreview({ plan }: { plan: ItineraryPlan }) {
   );
 }
 export default function ItineraryBoard() {
+  const complete = useToolCompletion();
   const [plan, setPlan] = useState<ItineraryPlan>(emptyPlan),
     [loaded, setLoaded] = useState(false),
     [blocked, setBlocked] = useState(false),
@@ -215,7 +216,7 @@ export default function ItineraryBoard() {
       });
       setEditing(null);
       setStop({ ...blankStop(), day: next.day, time: '' });
-      track('tool_complete', { tool: 'itinerary' });
+      complete();
     } catch (e) {
       setMessage((e as Error).message);
     }

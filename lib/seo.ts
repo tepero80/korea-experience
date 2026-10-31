@@ -1,6 +1,31 @@
 import type { Metadata } from 'next';
 import { SITE_CONFIG } from './constants';
 import type { PostMetadata } from './posts';
+import { toolPreviewImage, type ToolPreview } from './tool-preview';
+export function toolMetadata(tool: ToolPreview): Metadata {
+  const canonical = SITE_CONFIG.url + tool.href;
+  const image = SITE_CONFIG.url + toolPreviewImage(tool);
+  return {
+    title: { absolute: tool.title + ' | Korea Experience' },
+    description: tool.description,
+    alternates: { canonical },
+    openGraph: {
+      type: 'website',
+      title: tool.title,
+      description: tool.description,
+      url: canonical,
+      siteName: SITE_CONFIG.name,
+      locale: 'en_US',
+      images: [{ url: image, width: 1200, height: 630, alt: `${tool.title}. ${tool.facts[0]}` }],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: tool.title,
+      description: tool.description,
+      images: [image],
+    },
+  };
+}
 export function jsonLd(value: unknown) {
   return JSON.stringify(value).replace(/</g, '\\u003c');
 }

@@ -3,7 +3,8 @@ import sharp from 'sharp';
 import type { OverlayOptions } from 'sharp';
 import { getLaunchGuides } from '../lib/posts';
 import media from '../data/media.json';
-import { cardFingerprint } from '../lib/card-fingerprint';
+import { cardFingerprint, toolCardFingerprint } from '../lib/card-fingerprint';
+import { TOOL_PREVIEWS, toolPreviewImage } from '../lib/tool-preview';
 import { execFileSync } from 'node:child_process';
 
 const escape = (s: string) =>
@@ -156,11 +157,63 @@ async function main() {
     };
   }
   fs.writeFileSync('data/card-credits.json', JSON.stringify(credits, null, 2) + '\n');
+  const toolCredits: Record<string, unknown> = {};
+  for (const [index, tool] of TOOL_PREVIEWS.entries()) {
+    const layers: OverlayOptions[] = [
+      {
+        input: Buffer.from(
+          '<svg width="1200" height="630"><rect width="1200" height="630" fill="#f2f7f4"/><rect width="1200" height="8" fill="#086b66"/><path d="M910 130v115h170v150H910v125" fill="none" stroke="#086b66" stroke-width="5" stroke-dasharray="12 9"/><circle cx="910" cy="130" r="20" fill="#e9b15c"/><circle cx="1080" cy="245" r="20" fill="#086b66"/><circle cx="910" cy="395" r="20" fill="#086b66"/><circle cx="910" cy="520" r="20" fill="#e9b15c"/></svg>',
+        ),
+        left: 0,
+        top: 0,
+      },
+      { input: await text('KOREA EXPERIENCE', 22, 1000, '#086b66', true, true), left: 45, top: 38 },
+      {
+        input: await text(
+          index
+            ? 'YOUR TRAVEL DECISION · ' + String(index).padStart(2, '0')
+            : 'YOUR PRACTICAL TRAVEL TOOLKIT',
+          16,
+          740,
+          '#546c68',
+          true,
+        ),
+        left: 45,
+        top: 90,
+      },
+      { input: await text(tool.title, 48, 740, '#163632', true, true), left: 45, top: 145 },
+      { input: await text(tool.facts[0], 24, 740, '#163632', true), left: 45, top: 340 },
+      { input: await text(tool.facts[1], 22, 740, '#546c68'), left: 45, top: 410 },
+      {
+        input: await text('Planning aids · No live prices or availability', 18, 740, '#315e55'),
+        left: 45,
+        top: 510,
+      },
+      {
+        input: await text('koreaexperience.com' + tool.href, 17, 740, '#163632'),
+        left: 45,
+        top: 570,
+      },
+    ];
+    await sharp({ create: { width: 1200, height: 630, channels: 3, background: '#f2f7f4' } })
+      .composite(layers)
+      .jpeg({ quality: 88 })
+      .toFile('public' + toolPreviewImage(tool));
+    toolCredits[tool.slug] = {
+      src: toolPreviewImage(tool),
+      fingerprint: toolCardFingerprint(tool),
+      kind: 'original editorial diagram',
+      note: 'Original code-drawn route/decision illustration; no depicted facility or live result.',
+    };
+  }
+  fs.writeFileSync('data/tool-card-credits.json', JSON.stringify(toolCredits, null, 2) + '\n');
   // Use the same routing implementation as prebuild rather than a second redirect generator.
   execFileSync(process.execPath, ['--import', 'tsx', 'scripts/generate-routing.ts'], {
     stdio: 'inherit',
   });
-  console.log(`Prepared ${guides.length + 1} cards with the bundled, licensed typefaces.`);
+  console.log(
+    `Prepared ${guides.length + 1} guide/site cards and ${TOOL_PREVIEWS.length} tool cards with the bundled, licensed typefaces.`,
+  );
 }
 void main().catch((error) => {
   console.error(error);

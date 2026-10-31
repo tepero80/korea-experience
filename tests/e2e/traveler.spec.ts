@@ -2,6 +2,9 @@ import { test, expect, type Page, type TestInfo } from '@playwright/test';
 import fs from 'node:fs/promises';
 import AxeBuilder from '@axe-core/playwright';
 import editorial from '../../data/editorial.json';
+import sharp from 'sharp';
+import jsQR from 'jsqr';
+import { readBudgetShare } from '../../lib/tool-share';
 
 async function capturePage(page: Page, info: TestInfo, name = 'page') {
   // Inspect the images a scrolling reader sees, rather than empty lazy placeholders.
@@ -421,6 +424,29 @@ test('family budget changes rooms without multiplying meals and keeps the breakd
   const download = page.waitForEvent('download');
   await page.getByRole('button', { name: 'Download card', exact: true }).click();
   await (await download).saveAs(testInfo.outputPath('budget-result-card.png'));
+  for (const [button, file, height] of [
+    ['Story image', 'budget-result-story.png', 1920],
+    [null, 'budget-result-card.png', 1350],
+  ] as const) {
+    if (button) {
+      const nextDownload = page.waitForEvent('download');
+      await page.getByRole('button', { name: button, exact: true }).click();
+      await (await nextDownload).saveAs(testInfo.outputPath(file));
+    }
+    const { data, info } = await sharp(testInfo.outputPath(file))
+      .ensureAlpha()
+      .raw()
+      .toBuffer({ resolveWithObject: true });
+    expect(info.width).toBe(1080);
+    expect(info.height).toBe(height);
+    const decoded = jsQR(new Uint8ClampedArray(data), info.width, info.height);
+    expect(decoded?.data).toBeTruthy();
+    const reopened = readBudgetShare(new URL(decoded!.data).search);
+    expect(reopened?.rooms).toBe(2);
+    expect(reopened?.travelers).toBe(2);
+    expect(reopened?.foodDay).toBe(35000);
+    expect(new URL(decoded!.data).origin).toBe('https://koreaexperience.com');
+  }
 });
 test('guide save, map address and reading anchors have working controls', async ({ page }) => {
   await page.goto(prototypes[0]);

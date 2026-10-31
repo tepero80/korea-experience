@@ -1,6 +1,12 @@
 import { createHash } from 'node:crypto';
 import fs from 'node:fs';
 import type { PostMetadata } from './posts';
+import type { ToolPreview } from './tool-preview';
+export function toolCardFingerprint(tool: ToolPreview) {
+  return createHash('sha256')
+    .update(JSON.stringify({ version: 1, ...tool }))
+    .digest('hex');
+}
 export function cardFingerprint(
   post: Pick<PostMetadata, 'title' | 'excerpt' | 'category' | 'checkedAt' | 'image' | 'editorial'>,
 ) {

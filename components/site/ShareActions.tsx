@@ -144,17 +144,43 @@ export default function ShareActions(props: Props) {
       }
       c.fillStyle = '#546c68';
       c.font = '400 21px "KE Sans", Arial, sans-serif';
+      const [{ toCanvas }, { shareCardUrl }] = await Promise.all([
+        import('qrcode'),
+        import('@/lib/share-card-url'),
+      ]);
+      const publicUrl = shareCardUrl(props.url);
+      const qr = document.createElement('canvas');
+      await toCanvas(qr, publicUrl, {
+        errorCorrectionLevel: 'M',
+        margin: 4,
+        width: 256,
+        color: { dark: '#163632', light: '#ffffff' },
+      });
+      c.drawImage(qr, 744, canvas.height - 310, 256, 256);
       if (props.checkedAt)
-        c.fillText(`Checked ${props.checkedAt} · Conditions may change`, 80, canvas.height - 155);
-      c.fillText(
+        lines(
+          c,
+          `Checked ${props.checkedAt} · Conditions may change`,
+          80,
+          canvas.height - 230,
+          610,
+          28,
+          2,
+        );
+      lines(
+        c,
         props.kind === 'result'
-          ? 'Use the shared link to reopen these inputs:'
-          : 'Find the full guide and official sources:',
+          ? 'Scan the QR to reopen these planning inputs.'
+          : 'Scan the QR for the full guide and official sources.',
         80,
-        canvas.height - 110,
+        canvas.height - 160,
+        610,
+        29,
+        2,
       );
       c.font = '400 23px "KE Sans", Arial, sans-serif';
-      lines(c, props.url.replace('https://', ''), 80, canvas.height - 65, 920, 27, 2);
+      const readableUrl = new URL(publicUrl);
+      lines(c, readableUrl.host + readableUrl.pathname, 80, canvas.height - 80, 610, 27, 2);
       const blob = await new Promise<Blob>((resolve, reject) =>
         canvas.toBlob(
           (b) => (b ? resolve(b) : reject(new Error('Image unavailable'))),

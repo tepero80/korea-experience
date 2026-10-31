@@ -85,8 +85,8 @@ export default function Search({ variant = 'icon' }: { variant?: 'icon' | 'hero'
       setSettledQuery(query);
       const intent = searchIntent(query);
       if (!found.length && !reported.current.has(intent)) {
-        reported.current.add(intent);
-        track('search_no_results', { term_count: terms.length, intent });
+        if (track('search_no_results', { term_count: terms.length, intent }))
+          reported.current.add(intent);
       }
     }, 160);
     return () => clearTimeout(timer);

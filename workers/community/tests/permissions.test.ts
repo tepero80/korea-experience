@@ -137,6 +137,9 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
     assert.equal(sharedResponse.status, 200);
     assert.equal(sharedResponse.headers.get('Referrer-Policy'), 'no-referrer');
     const publicHtml = await sharedResponse.text();
+    assert.match(publicHtml, /name="robots" content="noindex,follow"/);
+    assert.match(publicHtml, /property="og:title" content="Shared Korea trip plan"/);
+    assert.match(publicHtml, /name="twitter:card" content="summary_large_image"/);
     assert.match(publicHtml, /Public museum fixture/);
     assert.doesNotMatch(publicHtml, /Private booking|Private address|Private stop note|2026-11-02/);
     const staleSharing = sharing();
@@ -205,6 +208,15 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
       200,
     );
     assert.equal(((await (await request('/api/community')).json()) as any).items.length, 1);
+    const publicPost = await (await request('/community/posts/test-question')).text();
+    assert.match(
+      publicPost,
+      /rel="canonical" href="http:\/\/localhost:8787\/community\/posts\/test-question"/,
+    );
+    assert.match(publicPost, /property="og:title" content="A real test question"/);
+    assert.match(publicPost, /name="robots" content="noindex,follow"/);
+    const accountHtml = await (await request('/community/account?returnTo=PRIVATE')).text();
+    assert.doesNotMatch(accountHtml, /property="og:url"|rel="canonical"/);
     assert.equal(
       (await request('/api/contributions/test-question', 'DELETE', {}, other.cookie)).status,
       200,
