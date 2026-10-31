@@ -12,6 +12,27 @@ export interface RetirementEvidence {
   duplicateTarget?: string;
   improvedAtDaysAgo?: number;
 }
+/** Medical editorial scope is independent of an indexing-quality diagnosis. */
+export function hasCompleteRetirementReview(r: import('./content-types').Retirement) {
+  const e = r.evidence;
+  if (
+    !r.reason?.trim() ||
+    !r.decidedAt ||
+    !e?.publicationDate ||
+    !e.reviewedAt ||
+    !e.indexingStatus?.trim() ||
+    !e.usageChecked ||
+    !e.linksChecked ||
+    !e.seasonalChecked
+  )
+    return false;
+  if (r.reviewBasis && !['index-review', 'medical-editorial-scope'].includes(r.reviewBasis))
+    return false;
+  return (
+    r.reviewBasis === 'medical-editorial-scope' ||
+    !/unknown|unavailable|unverified|pending|not.checked/i.test(e.indexingStatus)
+  );
+}
 /** The launch is a historical delivery record, not a permanent article-count floor. */
 export function unaccountedLaunchGuides(
   initial: readonly { id: string; slug: string }[],

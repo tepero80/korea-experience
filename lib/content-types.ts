@@ -71,6 +71,7 @@ export interface Retirement {
   action: 'redirect' | 'removed';
   target?: string;
   reason: string;
+  reviewBasis?: 'index-review' | 'medical-editorial-scope';
   decidedAt: string;
   evidence: {
     publicationDate: string;

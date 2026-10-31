@@ -8,6 +8,7 @@ import {
 } from '../lib/travel-tools';
 import {
   assessRetirement,
+  hasCompleteRetirementReview,
   unaccountedLaunchGuides,
   type RetirementEvidence,
 } from '../lib/retirement';
@@ -121,4 +122,33 @@ test('unknown evidence protects content; a useful guide gets one improvement cyc
   assert.equal(assessRetirement({ ...unindexed, improvedAtDaysAgo: 29 }).action, 'retire');
   assert.equal(assessRetirement({ ...unindexed, seasonalValue: true }).action, 'keep');
   assert.equal(assessRetirement({ ...unindexed, duplicateTarget: 'equivalent' }).action, 'merge');
+});
+test('medical scope decisions record unknown indexing without weakening ordinary indexing reviews', () => {
+  const record = {
+    slug: 'medical-example',
+    action: 'removed' as const,
+    reason: 'Procedure promotion is outside the publication scope',
+    decidedAt: '2026-10-31',
+    evidence: {
+      publicationDate: '2026-01-01',
+      reviewedAt: '2026-10-31',
+      indexingStatus: 'unavailable',
+      usageChecked: true,
+      linksChecked: true,
+      seasonalChecked: true,
+    },
+  };
+  assert.equal(hasCompleteRetirementReview(record), false);
+  assert.equal(
+    hasCompleteRetirementReview({ ...record, reviewBasis: 'medical-editorial-scope' }),
+    true,
+  );
+  assert.equal(
+    hasCompleteRetirementReview({
+      ...record,
+      reviewBasis: 'medical-editorial-scope',
+      evidence: { ...record.evidence, linksChecked: false },
+    }),
+    false,
+  );
 });

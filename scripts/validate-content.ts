@@ -3,7 +3,7 @@ import { getAllPosts, getLaunchGuides, getPostBySlug } from '../lib/posts';
 import { PLACES, RETIREMENTS } from '../lib/editorial';
 import { PRACTICAL_TOOLS } from '../lib/constants';
 import initialLaunch from '../data/launch-manifest.json';
-import { unaccountedLaunchGuides } from '../lib/retirement';
+import { hasCompleteRetirementReview, unaccountedLaunchGuides } from '../lib/retirement';
 const posts = getAllPosts(),
   launch = getLaunchGuides(),
   slugs = new Set(posts.map((p) => p.slug)),
@@ -44,18 +44,7 @@ for (const guide of unaccountedLaunchGuides(
 ))
   errors.push('Launch guide lost without a recorded retirement: ' + guide.slug);
 for (const r of RETIREMENTS) {
-  if (
-    !r.reason?.trim() ||
-    !r.decidedAt ||
-    !r.evidence?.publicationDate ||
-    !r.evidence?.reviewedAt ||
-    !r.evidence?.indexingStatus?.trim() ||
-    /unknown|unavailable|unverified|pending|not.checked/i.test(r.evidence.indexingStatus) ||
-    !r.evidence.usageChecked ||
-    !r.evidence.linksChecked ||
-    !r.evidence.seasonalChecked
-  )
-    errors.push('Incomplete retirement review ' + r.slug);
+  if (!hasCompleteRetirementReview(r)) errors.push('Incomplete retirement review ' + r.slug);
   if (slugs.has(r.slug)) errors.push('Retired URL still published ' + r.slug);
   if (r.action === 'redirect' && (!r.target || !slugs.has(r.target)))
     errors.push('Invalid retirement target ' + r.slug);
