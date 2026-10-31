@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
     inputs:
       review_type:
-        description: Current guide/tool/operations acceptance or a separate performance measurement
+        description: Full acceptance or a separate performance measurement
         type: choice
         options: [full, performance]
         default: full
@@ -20,6 +20,30 @@ concurrency:
   group: traveler-quality-${{ github.ref }}-${{ inputs.review_type || 'full' }}
   cancel-in-progress: true
 jobs:
+  archive-impact:
+    if: inputs.review_type != 'performance'
+    runs-on: ubuntu-latest
+    outputs:
+      required: ${{ steps.impact.outputs.required }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - id: impact
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import { execFileSync } from 'node:child_process';
+          const event = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf8'));
+          let required = process.env.GITHUB_EVENT_NAME === 'workflow_dispatch';
+          try {
+            const base = event.before || event.pull_request?.base?.sha || 'HEAD^';
+            const files = execFileSync('git', ['diff', '--name-only', base, 'HEAD'], {encoding:'utf8'}).split('\n');
+            required ||= files.some(file => /^(?:components\/MDXContent\.tsx|components\/mdx\/(?:StatCard|LocationCard|PriceTable|StepGuide)\.tsx|lib\/archive-integrity\.ts|data\/(?:archive-corrections|media)\.json|styles\/design-system\.css|tests\/e2e\/archive-integrity\.spec\.ts)$/.test(file));
+          } catch { required = true; }
+          fs.appendFileSync(process.env.GITHUB_OUTPUT, 'required=' + required + '\n');
+          NODE
   export-and-journeys:
     if: inputs.review_type != 'performance'
     runs-on: ubuntu-latest
@@ -68,4 +92,65 @@ jobs:
         with:
           name: traveler-lab-performance
           path: test-results/lab-performance
+          retention-days: 1
+  archive-evidence:
+    needs: archive-impact
+    if: needs.archive-impact.outputs.required == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [1, 2, 3, 4]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm run build
+      - run: npx playwright install --with-deps chromium
+      - run: npx playwright test tests/e2e/archive-integrity.spec.ts
+        env:
+          ARCHIVE_REVIEW_SHARD: ${{ matrix.shard }}
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: archive-evidence-${{ matrix.shard }}-320
+          path: |
+            test-results/*-chromium-320/*.jpg
+            test-results/*-chromium-320/*.png
+            test-results/*-chromium-320/*-info.json
+            test-results/*-chromium-320/error-context.md
+          retention-days: 1
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: archive-evidence-${{ matrix.shard }}-390
+          path: |
+            test-results/*-chromium-390/*.jpg
+            test-results/*-chromium-390/*.png
+            test-results/*-chromium-390/*-info.json
+            test-results/*-chromium-390/error-context.md
+          retention-days: 1
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: archive-evidence-${{ matrix.shard }}-768
+          path: |
+            test-results/*-chromium-768/*.jpg
+            test-results/*-chromium-768/*.png
+            test-results/*-chromium-768/*-info.json
+            test-results/*-chromium-768/error-context.md
+          retention-days: 1
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: archive-evidence-${{ matrix.shard }}-1440
+          path: |
+            test-results/*-chromium-1440/*.jpg
+            test-results/*-chromium-1440/*.png
+            test-results/*-chromium-1440/*-info.json
+            test-results/*-chromium-1440/error-context.md
           retention-days: 1

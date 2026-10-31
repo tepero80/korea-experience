@@ -1,7 +1,7 @@
 'use client';
 import Link from 'next/link';
 import { useEffect, useState } from 'react';
-import { readSaved, writeSaved, type SavedGuide } from '@/lib/saved';
+import { mergeAccountSaves, readSaved, writeSaved, type SavedGuide } from '@/lib/saved';
 import community from '@/data/community-config.json';
 interface Catalog {
   id: string;
@@ -56,13 +56,15 @@ export default function SavedGuides() {
       })
       .then((data) => {
         if (!live || !data) return;
-        const local = readSaved();
-        for (const saved of data.items) {
-          const p = catalog.find((p) => p.id === saved.guide_id);
-          if (p && !local.some((x) => x.id === p.id))
-            local.push({ ...p, savedAt: new Date().toISOString() });
-        }
-        writeSaved(local);
+        if (!Array.isArray(data.items)) throw new Error('Invalid account saves');
+        writeSaved(
+          mergeAccountSaves(
+            readSaved(),
+            data.items.map((item: { guide_id?: unknown }) => item?.guide_id),
+            catalog,
+            new Date().toISOString(),
+          ),
+        );
       })
       .catch(() => {
         if (live) setError('Account sync is unavailable. Your browser list still works.');
@@ -100,7 +102,12 @@ export default function SavedGuides() {
           method: 'PUT',
           headers: { 'Content-Type': 'application/json' },
           body: '{}',
-        }).catch(() => setError('Restored locally; account sync is unavailable.'));
+        })
+          .then((r) => {
+            if (!r.ok)
+              setError('Restored on this browser; account restoration could not be confirmed.');
+          })
+          .catch(() => setError('Restored locally; account sync is unavailable.'));
       setRemoved(null);
     } catch {
       setError('Could not restore browser storage.');
@@ -136,8 +143,8 @@ export default function SavedGuides() {
       ) : (
         <ul className="saved-list">
           {items.map((item) => {
-            const current = catalog?.find((c) => c.id === item.id || c.slug === item.slug);
-            const available = catalog === null || Boolean(current);
+            const current = catalog?.find((c) => c.id === item.id);
+            const available = catalog === null ? !item.unavailable : Boolean(current);
             return (
               <li key={item.id}>
                 <div>

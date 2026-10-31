@@ -40,29 +40,35 @@ interface PriceTableProps {
   budgetLabel?: string;
 }
 
-export default function PriceTable({ 
-  title, 
+export default function PriceTable({
+  title,
   currency = '₩',
-  items, 
+  items,
   variant = 'default',
   description,
   luxuryLabel = '💎 Luxury Option',
-  budgetLabel = '💰 Budget-Friendly'
+  budgetLabel = '💰 Budget-Friendly',
 }: PriceTableProps) {
   // Dualism variant - 이원적 가치 비교
   if (variant === 'dualism') {
-    let luxuryItems = items.filter(item => item.tag?.toLowerCase().includes('luxury') || item.tag?.toLowerCase().includes('premium'));
-    let budgetItems = items.filter(item => item.tag?.toLowerCase().includes('budget') || item.tag?.toLowerCase().includes('value'));
-    
+    let luxuryItems = items.filter(
+      (item) =>
+        item.tag?.toLowerCase().includes('luxury') || item.tag?.toLowerCase().includes('premium'),
+    );
+    let budgetItems = items.filter(
+      (item) =>
+        item.tag?.toLowerCase().includes('budget') || item.tag?.toLowerCase().includes('value'),
+    );
+
     // 태그 자동 감지: luxury/budget 매칭 실패 시 고유 태그 기반으로 자동 분류
     let leftLabel = luxuryLabel;
     let rightLabel = budgetLabel;
-    
+
     if (luxuryItems.length === 0 && budgetItems.length === 0 && items.length > 0) {
-      const uniqueTags = [...new Set(items.map(item => item.tag).filter(Boolean))] as string[];
+      const uniqueTags = [...new Set(items.map((item) => item.tag).filter(Boolean))] as string[];
       if (uniqueTags.length >= 2) {
-        luxuryItems = items.filter(item => item.tag === uniqueTags[0]);
-        budgetItems = items.filter(item => item.tag === uniqueTags[1]);
+        luxuryItems = items.filter((item) => item.tag === uniqueTags[0]);
+        budgetItems = items.filter((item) => item.tag === uniqueTags[1]);
         leftLabel = `${uniqueTags[0]}`;
         rightLabel = `${uniqueTags[1]}`;
       } else {
@@ -77,24 +83,48 @@ export default function PriceTable({
 
     // 컬럼 색상: 기본 amber/green, 자동감지 시 blue/violet
     const isAutoDetect = leftLabel !== luxuryLabel;
-    const leftColors = isAutoDetect 
-      ? { bg: 'from-amber-50 to-orange-50', border: 'border-amber-200', header: 'from-amber-500 to-orange-500', price: 'text-amber-600' }
-      : { bg: 'from-amber-50 to-yellow-50', border: 'border-amber-200', header: 'from-amber-500 to-yellow-500', price: 'text-amber-600' };
+    const leftColors = isAutoDetect
+      ? {
+          bg: 'from-amber-50 to-orange-50',
+          border: 'border-amber-200',
+          header: 'from-amber-500 to-orange-500',
+          price: 'text-amber-800',
+        }
+      : {
+          bg: 'from-amber-50 to-yellow-50',
+          border: 'border-amber-200',
+          header: 'from-amber-500 to-yellow-500',
+          price: 'text-amber-800',
+        };
     const rightColors = isAutoDetect
-      ? { bg: 'from-orange-50 to-amber-50', border: 'border-orange-200', header: 'from-orange-500 to-amber-600', price: 'text-orange-600' }
-      : { bg: 'from-green-50 to-emerald-50', border: 'border-green-200', header: 'from-green-500 to-emerald-500', price: 'text-green-600' };
-    
+      ? {
+          bg: 'from-orange-50 to-amber-50',
+          border: 'border-orange-200',
+          header: 'from-orange-500 to-amber-600',
+          price: 'text-orange-800',
+        }
+      : {
+          bg: 'from-green-50 to-emerald-50',
+          border: 'border-green-200',
+          header: 'from-green-500 to-emerald-500',
+          price: 'text-green-800',
+        };
+
     return (
       <div className="my-8">
         <h3 className="text-2xl font-bold text-gray-900 mb-4 flex items-center gap-2">
           <span>💵</span> {title}
         </h3>
         {description && <p className="text-gray-600 mb-6">{description}</p>}
-        
+
         <div className="grid md:grid-cols-2 gap-6">
           {/* Left Column */}
-          <div className={`bg-gradient-to-br ${leftColors.bg} rounded-2xl border-2 ${leftColors.border} overflow-hidden`}>
-            <div className={`bg-gradient-to-r ${leftColors.header} px-5 py-3 text-white font-bold text-lg`}>
+          <div
+            className={`bg-gradient-to-br ${leftColors.bg} rounded-2xl border-2 ${leftColors.border} overflow-hidden`}
+          >
+            <div
+              className={`bg-gradient-to-r ${leftColors.header} px-5 py-3 text-white font-bold text-lg`}
+            >
               {leftLabel}
             </div>
             <div className="p-5 space-y-4">
@@ -104,17 +134,19 @@ export default function PriceTable({
                     <span className="font-semibold text-gray-900">{item.name}</span>
                     <span className={`${leftColors.price} font-bold`}>{item.price}</span>
                   </div>
-                  {item.description && (
-                    <p className="text-sm text-gray-600">{item.description}</p>
-                  )}
+                  {item.description && <p className="text-sm text-gray-600">{item.description}</p>}
                 </div>
               ))}
             </div>
           </div>
 
           {/* Right Column */}
-          <div className={`bg-gradient-to-br ${rightColors.bg} rounded-2xl border-2 ${rightColors.border} overflow-hidden`}>
-            <div className={`bg-gradient-to-r ${rightColors.header} px-5 py-3 text-white font-bold text-lg`}>
+          <div
+            className={`bg-gradient-to-br ${rightColors.bg} rounded-2xl border-2 ${rightColors.border} overflow-hidden`}
+          >
+            <div
+              className={`bg-gradient-to-r ${rightColors.header} px-5 py-3 text-white font-bold text-lg`}
+            >
               {rightLabel}
             </div>
             <div className="p-5 space-y-4">
@@ -124,9 +156,7 @@ export default function PriceTable({
                     <span className="font-semibold text-gray-900">{item.name}</span>
                     <span className={`${rightColors.price} font-bold`}>{item.price}</span>
                   </div>
-                  {item.description && (
-                    <p className="text-sm text-gray-600">{item.description}</p>
-                  )}
+                  {item.description && <p className="text-sm text-gray-600">{item.description}</p>}
                 </div>
               ))}
             </div>
@@ -144,40 +174,42 @@ export default function PriceTable({
           <span>💵</span> {title}
         </h3>
         {description && <p className="text-gray-600 mb-6">{description}</p>}
-        
+
         <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {items.map((item, index) => (
-            <div 
+            <div
               key={index}
               className={`relative rounded-2xl overflow-hidden shadow-lg hover:shadow-xl transition-shadow ${
-                item.recommended 
-                  ? 'border-2 border-amber-500 ring-4 ring-amber-100' 
+                item.recommended
+                  ? 'border-2 border-amber-500 ring-4 ring-amber-100'
                   : 'border border-gray-200'
               }`}
             >
               {item.tag && (
-                <div className={`absolute top-4 right-4 px-3 py-1 rounded-full text-xs font-bold ${
-                  item.recommended 
-                    ? 'bg-amber-500 text-white' 
-                    : 'bg-gray-100 text-gray-700'
-                }`}>
+                <div
+                  className={`absolute top-4 right-4 px-3 py-1 rounded-full text-xs font-bold ${
+                    item.recommended ? 'bg-amber-500 text-white' : 'bg-gray-100 text-gray-700'
+                  }`}
+                >
                   {item.tag}
                 </div>
               )}
-              
+
               <div className="p-6">
                 <h4 className="text-xl font-bold text-gray-900 mb-2 pr-20">{item.name}</h4>
                 {item.description && (
                   <p className="text-gray-600 text-sm mb-4">{item.description}</p>
                 )}
-                
+
                 <div className="mb-4">
                   <span className="text-3xl font-bold text-gray-900">{item.price}</span>
                   {item.originalPrice && (
-                    <span className="ml-2 text-lg text-gray-400 line-through">{item.originalPrice}</span>
+                    <span className="ml-2 text-lg text-gray-400 line-through">
+                      {item.originalPrice}
+                    </span>
                   )}
                 </div>
-                
+
                 {item.features && item.features.length > 0 && (
                   <ul className="space-y-2">
                     {item.features.map((feature, idx) => (
@@ -203,7 +235,7 @@ export default function PriceTable({
         <span>💵</span> {title}
       </h3>
       {description && <p className="text-gray-600 mb-6">{description}</p>}
-      
+
       <div className="overflow-x-auto">
         <table className="w-full border-collapse bg-white rounded-xl overflow-hidden shadow-lg">
           <thead>
@@ -215,7 +247,7 @@ export default function PriceTable({
           </thead>
           <tbody className="divide-y divide-gray-100">
             {items.map((item, index) => (
-              <tr 
+              <tr
                 key={index}
                 className={`hover:bg-amber-50 transition-colors ${item.recommended ? 'bg-amber-50' : ''}`}
               >
@@ -223,11 +255,11 @@ export default function PriceTable({
                   <div className="flex items-center gap-3">
                     <span className="font-semibold text-gray-900">{item.name}</span>
                     {item.tag && (
-                      <span className={`text-xs px-2 py-1 rounded-full ${
-                        item.recommended 
-                          ? 'bg-amber-500 text-white' 
-                          : 'bg-gray-100 text-gray-600'
-                      }`}>
+                      <span
+                        className={`text-xs px-2 py-1 rounded-full ${
+                          item.recommended ? 'bg-amber-500 text-white' : 'bg-gray-100 text-gray-600'
+                        }`}
+                      >
                         {item.tag}
                       </span>
                     )}
@@ -236,7 +268,9 @@ export default function PriceTable({
                 <td className="px-6 py-4 text-right">
                   <span className="font-bold text-gray-900">{item.price}</span>
                   {item.originalPrice && (
-                    <span className="ml-2 text-sm text-gray-400 line-through">{item.originalPrice}</span>
+                    <span className="ml-2 text-sm text-gray-400 line-through">
+                      {item.originalPrice}
+                    </span>
                   )}
                 </td>
                 <td className="px-6 py-4 text-gray-600 text-sm hidden md:table-cell">

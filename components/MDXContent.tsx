@@ -189,6 +189,48 @@ interface MDXContentProps {
 export async function compileGuideContent(source: string) {
   const { compileMDX } = await import('next-mdx-remote/rsc');
   const headings: { text: string; id: string }[] = [];
+  // Case variants such as <expertTip> must not bypass the component contract
+  // by becoming raw custom HTML tags.
+  const normalizeKnownComponents = () => (tree: any) => {
+    const known = new Map(
+      Object.keys(components)
+        .filter((name) => /^[A-Z]/.test(name))
+        .map((name) => [name.toLowerCase(), name]),
+    );
+    const visit = (node: any) => {
+      if (
+        (node.type === 'mdxJsxFlowElement' || node.type === 'mdxJsxTextElement') &&
+        typeof node.name === 'string'
+      )
+        node.name = known.get(node.name.toLowerCase()) || node.name;
+      for (const child of node.children || []) visit(child);
+    };
+    visit(tree);
+  };
+  const labelReadOnlyTasks = () => (tree: any) => {
+    const visit = (node: any) => {
+      if (
+        node.type === 'element' &&
+        node.tagName === 'li' &&
+        node.properties?.className?.includes('task-list-item')
+      ) {
+        const label = toString(node).trim();
+        const labelInput = (child: any) => {
+          if (
+            child.type === 'element' &&
+            child.tagName === 'input' &&
+            child.properties?.type === 'checkbox'
+          )
+            child.properties['aria-label'] = `${label} (read-only checklist)`;
+          for (const nested of child.children || []) labelInput(nested);
+        };
+        for (const child of node.children || [])
+          if (child.tagName !== 'ul' && child.tagName !== 'ol') labelInput(child);
+      }
+      for (const child of node.children || []) visit(child);
+    };
+    visit(tree);
+  };
   const collectHeadings = () => (tree: Parameters<typeof toString>[0]) => {
     function visit(node: Parameters<typeof toString>[0]) {
       if (
@@ -210,8 +252,8 @@ export async function compileGuideContent(source: string) {
       blockJS: false,
       blockDangerousJS: true,
       mdxOptions: {
-        remarkPlugins: [remarkGfm],
-        rehypePlugins: [rehypeHighlight, rehypeSlug, collectHeadings],
+        remarkPlugins: [remarkGfm, normalizeKnownComponents],
+        rehypePlugins: [rehypeHighlight, rehypeSlug, labelReadOnlyTasks, collectHeadings],
       },
     },
   });

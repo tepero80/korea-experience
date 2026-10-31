@@ -184,17 +184,23 @@ app.post('/api/contributions', async (c) => {
   const kind = text(d.kind, 1, 20, 'Type');
   if (!['question', 'report', 'update', 'comment'].includes(kind))
     throw new Problem(400, 'Choose a valid contribution type.');
-  const guideId = guide(d.guideId),
-    parent = d.parentId ? text(d.parentId, 1, 80, 'Parent') : null;
+  const parent = d.parentId ? text(d.parentId, 1, 80, 'Parent') : null;
+  let guideId: string | null;
+  if (parent) {
+    // A conversation can outlive its guide. Inherit the association from the
+    // published parent rather than trusting the submitted (possibly retired) ID.
+    const parentRecord = await c.env.DB.prepare(
+      "SELECT guide_id FROM contribution WHERE id=? AND status='published'",
+    )
+      .bind(parent)
+      .first<{ guide_id: string | null }>();
+    if (!parentRecord) throw new Problem(400, 'The conversation is unavailable.');
+    guideId = parentRecord.guide_id;
+  } else {
+    guideId = guide(d.guideId);
+  }
   if (kind === 'comment' && !guideId && !parent)
     throw new Problem(400, 'A comment needs a guide or conversation.');
-  if (
-    parent &&
-    !(await c.env.DB.prepare("SELECT id FROM contribution WHERE id=? AND status='published'")
-      .bind(parent)
-      .first())
-  )
-    throw new Problem(400, 'The conversation is unavailable.');
   const id = uid(),
     title = kind === 'comment' ? '' : text(d.title, 8, 140, 'Title'),
     content = text(d.body, 10, 5000, 'Message');

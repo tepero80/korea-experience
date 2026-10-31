@@ -21,6 +21,8 @@ type Page = {
   images: string[];
   rawMarkdown: string[];
   duplicateIds: string[];
+  unrenderedComponents: string[];
+  titleHeadings: number;
 };
 const pages = new Map<string, Page>();
 for (const file of files) {
@@ -40,9 +42,14 @@ for (const file of files) {
     images: [],
     rawMarkdown: [],
     duplicateIds: [],
+    unrenderedComponents: [],
+    titleHeadings: 0,
   };
   const walk = (node: Tree.Node, skipText = false) => {
     if ('tagName' in node) {
+      if (node.tagName === 'h1') page.titleHeadings++;
+      if (['experttip', 'statcard', 'locationcard', 'pricetable'].includes(node.tagName))
+        page.unrenderedComponents.push(node.tagName);
       const attrs = Object.fromEntries(node.attrs.map((a) => [a.name, a.value]));
       if (attrs.id) {
         if (page.ids.has(attrs.id)) page.duplicateIds.push(attrs.id);
@@ -84,6 +91,12 @@ const resolve = (pathname: string) => {
   return target;
 };
 for (const p of pages.values()) {
+  if (/^\/blog\/[^/]+$/.test(p.url) && p.titleHeadings !== 1)
+    errors.push({
+      page: p.url,
+      type: 'article-title-heading-count',
+      target: String(p.titleHeadings),
+    });
   for (const [kind, targets] of [
     ['link', p.links],
     ['image', p.images],
@@ -136,6 +149,8 @@ for (const p of pages.values()) {
     }
   for (const text of p.rawMarkdown)
     errors.push({ page: p.url, type: 'unrendered-markdown-link', target: text });
+  for (const tag of p.unrenderedComponents)
+    errors.push({ page: p.url, type: 'unrendered-evidence-component', target: tag });
 }
 const blockers = errors;
 const report = {

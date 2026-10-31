@@ -208,6 +208,44 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
       200,
     );
     assert.equal(((await (await request('/api/community')).json()) as any).items.length, 1);
+    // A published conversation may outlive its guide; replies retain the
+    // parent's association even when that guide is absent from the catalog.
+    await env.DB.prepare(
+      "UPDATE contribution SET guide_id='guide:retired-fixture' WHERE id='test-question'",
+    ).run();
+    const previousFetch = globalThis.fetch;
+    env.TURNSTILE_SECRET = 'local-test-only';
+    try {
+      globalThis.fetch = async () =>
+        new Response(JSON.stringify({ success: true, hostname: 'localhost' }), {
+          headers: { 'Content-Type': 'application/json' },
+        });
+      const reply = await request('/api/contributions', 'POST', {
+        kind: 'comment',
+        parentId: 'test-question',
+        guideId: 'guide:spoofed',
+        body: 'A useful reply fixture.',
+        turnstileToken: 'test-token',
+      });
+      assert.equal(reply.status, 201);
+      const replyId = ((await reply.json()) as any).id;
+      const storedReply = await env.DB.prepare(
+        'SELECT guide_id, parent_id FROM contribution WHERE id=?',
+      )
+        .bind(replyId)
+        .first<any>();
+      assert.equal(storedReply.guide_id, 'guide:retired-fixture');
+      assert.equal(storedReply.parent_id, 'test-question');
+      const missing = await request('/api/contributions', 'POST', {
+        kind: 'comment',
+        parentId: 'not-a-published-parent',
+        body: 'A useful reply fixture.',
+        turnstileToken: 'test-token',
+      });
+      assert.equal(missing.status, 400);
+    } finally {
+      globalThis.fetch = previousFetch;
+    }
     const publicPost = await (await request('/community/posts/test-question')).text();
     assert.match(
       publicPost,
