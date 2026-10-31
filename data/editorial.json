@@ -4369,6 +4369,18 @@
         "type": "next",
         "label": "Plan other dietary needs",
         "reason": "Review general communication and restaurant-planning questions for different restrictions."
+      },
+      {
+        "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+        "type": "prepare",
+        "label": "Understand restaurant ordering",
+        "reason": "Learn the general ordering process; the guide does not certify ingredients or preparation."
+      },
+      {
+        "slug": "emergency-ready-app-english-alerts-2026",
+        "type": "alternative",
+        "label": "Keep emergency contacts",
+        "reason": "Find official emergency numbers and understand when to call for immediate help."
       }
     ],
     "tools": [],

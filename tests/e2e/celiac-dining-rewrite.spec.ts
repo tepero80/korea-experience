@@ -10,6 +10,9 @@ test('celiac guide avoids certifying food and supports planning',async({page,con
  await expect(page.getByText(/this guide cannot certify any restaurant or dish as safe/i)).toBeVisible();
  await expect(page.getByRole('link',{name:/Korea Ministry of Food and Drug Safety/}).first()).toHaveAttribute('href',/mfds\.go\.kr/);
  await expect(page.getByText(/Ji-min Kim|85% of restaurant|Plant Wholefood Kitchen/i)).toHaveCount(0);
+ await expect(page.getByRole('link',{name:/Understand restaurant ordering/i})).toBeVisible();
+ await expect(page.getByRole('link',{name:/Keep emergency contacts/i})).toBeVisible();
+ await expect(page.getByRole('link',{name:/A useful companion.*Gwangjang/i})).toHaveCount(0);
  await page.getByRole('button',{name:'Save guide'}).click();await expect(page.getByRole('button',{name:'Saved',exact:true})).toHaveAttribute('aria-pressed','true');
  await page.getByRole('button',{name:'Copy summary'}).click();expect(await page.evaluate(()=>navigator.clipboard.readText())).toContain('Celiac Disease and Gluten-Free Dining');
  expect(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)).toBe(false);
