@@ -98,6 +98,7 @@ export default function ItineraryBoard() {
     [stop, setStop] = useState<ItineraryStop>(blankStop),
     [editing, setEditing] = useState<string | null>(null),
     [remoteId, setRemoteId] = useState<string | null>(null),
+    [removedStop, setRemovedStop] = useState<{ item: ItineraryStop; index: number } | null>(null),
     [busy, setBusy] = useState(false),
     [needsLogin, setNeedsLogin] = useState(false),
     [shareUrl, setShareUrl] = useState(''),
@@ -307,6 +308,7 @@ export default function ItineraryBoard() {
             className="button"
             onClick={() => {
               save(candidate.plan);
+              setRemovedStop(null);
               setTitle(candidate.title);
               rememberAccount(candidate.id);
               setCandidate(null);
@@ -514,6 +516,7 @@ export default function ItineraryBoard() {
                 )
                   return;
                 save(imported);
+                setRemovedStop(null);
                 setRemoteId(null);
                 try {
                   localStorage.removeItem('ke-itinerary-account-v1');
@@ -601,12 +604,14 @@ export default function ItineraryBoard() {
                         <button
                           className="action-button"
                           onClick={() => {
-                            if (confirm(`Remove ${s.place} from this board?`)) {
-                              save({ ...plan, items: plan.items.filter((x) => x.id !== s.id) });
-                              if (editing === s.id) {
-                                setEditing(null);
-                                setStop(blankStop());
-                              }
+                            setRemovedStop({
+                              item: s,
+                              index: plan.items.findIndex((x) => x.id === s.id),
+                            });
+                            save({ ...plan, items: plan.items.filter((x) => x.id !== s.id) });
+                            if (editing === s.id) {
+                              setEditing(null);
+                              setStop(blankStop());
                             }
                           }}
                         >
@@ -618,6 +623,23 @@ export default function ItineraryBoard() {
               </ol>
             </section>
           ))}
+          {removedStop ? (
+            <aside className="notice no-print" aria-label="Recently removed stop">
+              <p role="status">Removed {removedStop.item.place} from this browser board.</p>
+              <button
+                className="action-button"
+                disabled={plan.items.length >= 150}
+                onClick={() => {
+                  const items = plan.items.filter((item) => item.id !== removedStop.item.id);
+                  items.splice(Math.min(removedStop.index, items.length), 0, removedStop.item);
+                  save({ ...plan, items });
+                  setRemovedStop(null);
+                }}
+              >
+                Undo stop removal
+              </button>
+            </aside>
+          ) : null}
           {warnings.length ? (
             <aside className="calculation-stale">
               <h3>Check these timings</h3>

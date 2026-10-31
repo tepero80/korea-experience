@@ -327,7 +327,7 @@ test('a two-column question table reads within the mobile viewport', async ({ pa
 
 test('a traveler adds a guide place, edits its date/time/buffer and reopens the private board', async ({
   page,
-}) => {
+}, testInfo) => {
   await page.goto(prototypes[1]);
   await page.getByRole('button', { name: 'Add to trip board: Gyeongbokgung', exact: true }).click();
   await expect(page.getByRole('status').filter({ hasText: 'added to Day 1' })).toBeVisible();
@@ -356,6 +356,17 @@ test('a traveler adds a guide place, edits its date/time/buffer and reopens the 
   await expect(page.locator('.public-plan-preview')).not.toContainText('2026-11-02');
   await page.getByLabel('Include private plan and stop notes', { exact: true }).check();
   await expect(page.locator('.public-plan-preview')).toContainText('Fixture reminder');
+  await page.getByRole('button', { name: 'Remove Gyeongbokgung', exact: true }).click();
+  await expect(page.locator('.itinerary-list')).toHaveCount(0);
+  await page.getByRole('complementary', { name: 'Recently removed stop', exact: true }).screenshot({
+    path: testInfo.outputPath('stop-removed.jpg'),
+    type: 'jpeg',
+    quality: 85,
+  });
+  await page.getByRole('button', { name: 'Undo stop removal', exact: true }).click();
+  await expect(page.locator('.itinerary-list')).toContainText('11:00');
+  await expect(page.locator('.itinerary-list')).toContainText('90 min visit');
+  await expect(page.locator('.itinerary-list')).toContainText('Fixture reminder');
 });
 test('family pass totals count separate cards and per-traveler journeys', async ({ page }) => {
   await page.goto('/tools/transit-pass');
