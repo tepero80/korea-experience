@@ -44,6 +44,7 @@ export interface EditorialGuide {
   imageCredit?: MediaCredit;
   heroMediaId?: string;
   heroCaption?: string;
+  cardImageLabel?: string;
   experienceVersion?: 2;
   gallery?: { src: string; alt: string; credit: MediaCredit }[];
 }

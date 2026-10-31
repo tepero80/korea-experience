@@ -613,5 +613,20 @@
       "note": "Photographed 2025-09-28. Resized and converted to WebP. Public-domain dedication. Historical image; check current signs, services and opening conditions separately."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "intercity-bus-travel-booking-apps-and-routes": {
+    "src": "/images/cards/intercity-bus-travel-booking-apps-and-routes.jpg",
+    "fingerprint": "f42c516d9b40d57a21c224e0231e6be6976939dcfc4a04904c6ce4d1c258a02c",
+    "sourceImage": "/images/editorial/dongducheon-platform-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Dongducheon Intercity Bus Terminal platform",
+      "author": "YanggoK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:동두천터미널_승차장.png",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photo taken 13 September 2026; resized from a Wikimedia thumbnail and converted to WebP. The pictured vehicle is not verified as an intercity service; check current terminal and route information."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

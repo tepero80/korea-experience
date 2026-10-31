@@ -764,10 +764,10 @@
         "reason": "Spend one day around the old port and one on the eastern coast; reserve travel time between them."
       },
       {
-        "slug": "luggage-storage-in-seoul-and-incheon-airport",
+        "slug": "intercity-bus-travel-booking-apps-and-routes",
         "type": "alternative",
-        "label": "A useful alternative",
-        "reason": "Choose storage by collection time, bag size and the final onward route, rather than the nearest locker alone."
+        "label": "Compare the bus",
+        "reason": "Check a direct bus when the station is far from your destination or its departure time fits your trip better."
       }
     ],
     "tools": [
@@ -1864,7 +1864,11 @@
     "tools": [
       "itinerary"
     ],
-    "placeIds": ["hwaseong-haenggung", "hwaseomun", "janganmun"],
+    "placeIds": [
+      "hwaseong-haenggung",
+      "hwaseomun",
+      "janganmun"
+    ],
     "sources": [
       {
         "id": "suwon-cultural-foundation-current-visit",
@@ -2664,7 +2668,9 @@
     "tools": [
       "itinerary"
     ],
-    "placeIds": ["insadong"],
+    "placeIds": [
+      "insadong"
+    ],
     "sources": [
       {
         "id": "sto-ssamzigil",
@@ -2949,7 +2955,10 @@
     "tools": [
       "itinerary"
     ],
-    "placeIds": ["gyeongbokgung", "changdeokgung"],
+    "placeIds": [
+      "gyeongbokgung",
+      "changdeokgung"
+    ],
     "sources": [
       {
         "id": "royal-night-autumn-2026",
@@ -3036,7 +3045,10 @@
     "tools": [
       "packing-checklist"
     ],
-    "placeIds": ["gyeongbokgung", "insadong"],
+    "placeIds": [
+      "gyeongbokgung",
+      "insadong"
+    ],
     "sources": [
       {
         "id": "royal-hanbok-guidelines",
@@ -3686,5 +3698,110 @@
     },
     "gallery": [],
     "heroMediaId": "exp-c-pharmacy-retail-interior"
+  },
+  "intercity-bus-travel-booking-apps-and-routes": {
+    "id": "guide:intercity-bus-travel-booking-apps-and-routes",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-10-31",
+    "answer": "Search the exact route and date, confirm the departure terminal, then check whether your ticket must be printed before boarding.",
+    "forWhom": "International travelers booking a long-distance bus between Korean cities",
+    "conditions": [
+      "Routes, payment options and ticket-collection rules depend on the operator, terminal and travel date.",
+      "Dong Seoul Terminal modernization plans may change; check the operator and the address on your ticket."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around"
+    ],
+    "interests": [
+      "transport",
+      "planning"
+    ],
+    "relations": [
+      {
+        "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+        "type": "alternative",
+        "label": "Compare the train",
+        "reason": "Compare the station or terminal, journey time and live price for your actual trip."
+      },
+      {
+        "slug": "esim-vs-usim-vs-portable-wi-fi-2026",
+        "type": "prepare",
+        "label": "Get connected",
+        "reason": "Keep booking confirmations and maps accessible when traveling between cities."
+      },
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "prepare",
+        "label": "Plan your arrival",
+        "reason": "First arrange the airport-to-city leg before connecting to an intercity terminal."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-bus",
+        "title": "Korea Tourism Organization: express and intercity buses",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140657",
+        "checkedAt": "2026-10-31",
+        "note": "Route information and ticket collection can change; check the operator."
+      },
+      {
+        "id": "kto-transport",
+        "title": "Korea Tourism Organization: transport options for international visitors",
+        "url": "https://english.visitkorea.or.kr/public/contents/travel/KoreaTransportationGuide_enu.pdf",
+        "checkedAt": "2026-10-31",
+        "note": "Visitor guide dated May 2026; verify live payment and booking options."
+      },
+      {
+        "id": "txbus",
+        "title": "TxBus: official intercity bus booking",
+        "url": "https://intercitybuse.tmoney.co.kr/main.do",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "bustago",
+        "title": "BusTago: official intercity booking service",
+        "url": "https://www.bustago.or.kr/newweb/en/index.do",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "dongseoul",
+        "title": "Dong Seoul Terminal: current notices",
+        "url": "https://www.ti21.co.kr/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "seoul-terminal",
+        "title": "Seoul Metropolitan Government: Dong Seoul Terminal modernization",
+        "url": "https://news.seoul.go.kr/citybuild/archives/537004",
+        "checkedAt": "2026-10-31",
+        "note": "Planning status only; no passenger relocation date is asserted."
+      }
+    ],
+    "shareFacts": [
+      "Check the departure terminal and whether your ticket needs printing.",
+      "Search the route and date before choosing a booking service."
+    ],
+    "launchOrder": 41,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Dongducheon Intercity Bus Terminal platform",
+      "author": "YanggoK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:동두천터미널_승차장.png",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photo taken 13 September 2026; resized from a Wikimedia thumbnail and converted to WebP. The pictured vehicle is not verified as an intercity service; check current terminal and route information."
+    },
+    "heroMediaId": "dongducheon-platform-2026",
+    "heroCaption": "Numbered bays at Dongducheon Intercity Bus Terminal in September 2026. The pictured vehicle is not verified as a scheduled intercity service.",
+    "cardImageLabel": "Dongducheon terminal platform · 2026",
+    "experienceVersion": 2
   }
 }

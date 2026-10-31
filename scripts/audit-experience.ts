@@ -3,9 +3,11 @@ import crypto from 'node:crypto';
 import { getAllPosts, getPostBySlug } from '../lib/posts';
 import { internalGuideLinks } from '../lib/content-links';
 import media from '../data/media.json';
+import initialLaunch from '../data/launch-manifest.json';
 import type { EditorialMedia } from '../lib/media';
 
 const posts = getAllPosts().map((p) => getPostBySlug(p.slug)!);
+const originalLaunchSlugs = new Set(initialLaunch.map((guide) => guide.slug));
 const registry = media as EditorialMedia[];
 const mediaByPath = new Map(registry.map((m) => [m.src, m]));
 const digest = new Map<string, string>();
@@ -82,7 +84,9 @@ const inventory = posts.map((p) => {
           : 'hold-for-editorial-review',
     reason:
       p.editorial?.experienceVersion === 2
-        ? 'Core guide accepted after source, four-width visual and traveler-task review; exact evidence and limits remain in the acceptance/release records.'
+        ? originalLaunchSlugs.has(p.slug)
+          ? 'Original launch guide accepted after source, four-width visual and traveler-task review; exact evidence and limits remain in the acceptance/release records.'
+          : 'Subsequent guide accepted after source, four-width visual and traveler-task review; exact evidence and limits remain in the acceptance/release records.'
         : p.editorial?.heroMediaId
           ? 'Rewrite and distinct media prepared; visual/task acceptance recorded separately.'
           : 'Indexing, usage and backlinks unavailable; archive first-public dates unverified. Preserve URL and prioritize factual/source review instead of deleting blindly.',

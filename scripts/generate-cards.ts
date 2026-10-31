@@ -33,17 +33,25 @@ async function text(
 }
 async function main() {
   fs.mkdirSync('public/images/cards', { recursive: true });
-  const guides = getLaunchGuides();
-  const credits: Record<string, unknown> = {};
+  const target = process.argv.find((arg) => arg.startsWith('--slug='))?.slice('--slug='.length);
+  const guides = getLaunchGuides().filter((post) => !target || post.slug === target);
+  if (target && guides.length !== 1) throw Error(`Reviewed guide not found: ${target}`);
+  const credits: Record<string, unknown> = target
+    ? JSON.parse(fs.readFileSync('data/card-credits.json', 'utf8'))
+    : {};
   for (const post of [
-    {
-      slug: 'korea-experience',
-      title: 'Plan less. Experience more.',
-      category: 'KOREA TRAVEL GUIDES, MAPS & TRIP PLANNER',
-      excerpt: 'Choose your base, find your way and build days worth remembering.',
-      image: '/images/editorial/bukchon.webp',
-      checkedAt: undefined,
-    },
+    ...(!target
+      ? [
+          {
+            slug: 'korea-experience',
+            title: 'Plan less. Experience more.',
+            category: 'KOREA TRAVEL GUIDES, MAPS & TRIP PLANNER',
+            excerpt: 'Choose your base, find your way and build days worth remembering.',
+            image: '/images/editorial/bukchon.webp',
+            checkedAt: undefined,
+          },
+        ]
+      : []),
     ...guides,
   ]) {
     const details = 'editorial' in post ? post.editorial : undefined;
@@ -116,6 +124,21 @@ async function main() {
       },
     ];
     if (credit) {
+      if (details?.cardImageLabel) {
+        const imageLabel = await text(details.cardImageLabel, 13, 360, '#ffffff');
+        if ((await sharp(imageLabel).metadata()).height! > 26)
+          throw Error(`Card image label is too long: ${post.slug}`);
+        layers.push({
+          input: Buffer.from('<svg width="400" height="34"><rect width="400" height="34" fill="#163632" fill-opacity=".93"/></svg>'),
+          left: 800,
+          top: 500,
+        });
+        layers.push({
+          input: imageLabel,
+          left: 820,
+          top: 509,
+        });
+      }
       layers.push({
         input: Buffer.from(
           '<svg width="400" height="96"><rect width="400" height="96" fill="#163632" fill-opacity=".93"/></svg>',
@@ -157,6 +180,10 @@ async function main() {
     };
   }
   fs.writeFileSync('data/card-credits.json', JSON.stringify(credits, null, 2) + '\n');
+  if (target) {
+    console.log(`Prepared one guide card: ${target}.`);
+    return;
+  }
   const toolCredits: Record<string, unknown> = {};
   for (const [index, tool] of TOOL_PREVIEWS.entries()) {
     const layers: OverlayOptions[] = [

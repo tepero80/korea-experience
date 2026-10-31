@@ -1321,5 +1321,25 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial contact diagram, not a photograph. The article contains the equivalent accessible HTML and official sources. No current opening, language availability or medical treatment is implied."
     }
+  },
+  {
+    "id": "dongducheon-platform-2026",
+    "src": "/images/editorial/dongducheon-platform-1280.webp",
+    "srcSet": "/images/editorial/dongducheon-platform-800.webp 800w, /images/editorial/dongducheon-platform-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Numbered bays at Dongducheon Intercity Bus Terminal in September 2026",
+    "originalId": "https://commons.wikimedia.org/wiki/File:동두천터미널_승차장.png",
+    "originalHash": "sha1:d610887ce82f10445822a2fbcbf1e382f3613e73",
+    "capturedAt": "2026-09-13",
+    "credit": {
+      "kind": "photograph",
+      "title": "Dongducheon Intercity Bus Terminal platform",
+      "author": "YanggoK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:동두천터미널_승차장.png",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photo taken 13 September 2026; resized from a Wikimedia thumbnail and converted to WebP. The pictured vehicle is not verified as an intercity service; check current terminal and route information."
+    }
   }
 ]
