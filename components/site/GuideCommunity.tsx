@@ -29,7 +29,8 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
     [retry, setRetry] = useState(0),
     [dataRetry, setDataRetry] = useState(0);
   const [apiState, setApiState] = useState<'idle' | 'loading' | 'ready' | 'error'>('idle'),
-    [spamError, setSpamError] = useState(false);
+    [spamError, setSpamError] = useState(false),
+    [spamStatus, setSpamStatus] = useState('');
   const section = useRef<HTMLElement>(null);
   const box = useRef<HTMLDivElement>(null),
     widget = useRef<string | undefined>(undefined);
@@ -109,31 +110,27 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
             callback: (value: string) => {
               setToken(value);
               setSpamError(false);
-              setStatus((current) =>
-                /^(The anti-spam check|Retrying the anti-spam check)/.test(current)
-                  ? 'Anti-spam check completed.'
-                  : current,
-              );
+              setSpamStatus('Anti-spam check completed.');
             },
             'expired-callback': () => setToken(''),
             'error-callback': () => {
               setToken('');
               setSpamError(true);
-              setStatus(
+              setSpamStatus(
                 'The anti-spam check could not load. Retry the check, or return later. Your draft stays in this browser.',
               );
             },
           });
         } catch {
           setSpamError(true);
-          setStatus('The anti-spam check could not start. Retry the check or return later.');
+          setSpamStatus('The anti-spam check could not start. Retry the check or return later.');
         }
         return;
       }
       if (++tries < 40) setTimeout(render, 250);
       else {
         setSpamError(true);
-        setStatus('The anti-spam check could not load. Retry the check, or return later.');
+        setSpamStatus('The anti-spam check could not load. Retry the check, or return later.');
       }
     }
     if (!document.getElementById('ke-turnstile')) {
@@ -288,12 +285,13 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
                   setToken('');
                   setSpamError(false);
                   setRetry((n) => n + 1);
-                  setStatus('Retrying the anti-spam check…');
+                  setSpamStatus('Retrying the anti-spam check…');
                 }}
               >
                 Retry anti-spam check
               </button>
             ) : null}
+            <p role="status">{spamStatus}</p>
           </>
         ) : signed === false ? (
           <Link

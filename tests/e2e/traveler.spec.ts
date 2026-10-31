@@ -261,10 +261,12 @@ test('successful anti-spam retry clears its stale error while preserving receipt
   await page.route('https://challenges.cloudflare.com/**', (route) => route.abort());
   await page.addInitScript(() => {
     let attempts = 0;
+    let failAfterReset = () => {};
     Object.assign(window, {
       turnstile: {
         render: (_box: Element, options: Record<string, (value?: string) => void>) => {
           attempts++;
+          failAfterReset = () => options['error-callback']();
           queueMicrotask(() =>
             attempts === 1
               ? options['error-callback']()
@@ -273,7 +275,9 @@ test('successful anti-spam retry clears its stale error while preserving receipt
           return String(attempts);
         },
         remove() {},
-        reset() {},
+        reset() {
+          queueMicrotask(failAfterReset);
+        },
       },
     });
   });
@@ -303,6 +307,10 @@ test('successful anti-spam retry clears its stale error while preserving receipt
   await expect(discussion).not.toContainText('Retrying the anti-spam check');
   await page.getByRole('button', { name: 'Send for review', exact: true }).click();
   await expect(discussion).toContainText('Received for review.');
+  await expect(discussion).toContainText('The anti-spam check could not load.');
+  await expect(discussion).toContainText(
+    'Received for review. Your comment will appear after moderation.',
+  );
   await expect(page.getByLabel('Your question or update', { exact: true })).toHaveValue('');
 });
 test('a two-column question table reads within the mobile viewport', async ({ page }) => {
