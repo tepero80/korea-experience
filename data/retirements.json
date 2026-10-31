@@ -62,5 +62,37 @@
       "linksChecked": true,
       "seasonalChecked": true
     }
+  },
+  {
+    "slug": "stem-cell-regenerative-medicine-2026",
+    "action": "removed",
+    "reviewBasis": "medical-editorial-scope",
+    "reason": "This stem-cell treatment-shopping guide is outside the travel publication’s medical scope and contains unsupported efficacy, legal, cost and recovery assertions. No equivalent general travel-safety guide satisfies the procedure-selection intent.",
+    "decidedAt": "2026-10-31",
+    "evidence": {
+      "publicationDate": "2026-04-24",
+      "publicationDateBasis": "Earliest available Git history; actual first production publication is unconfirmed.",
+      "reviewedAt": "2026-10-31",
+      "indexingStatus": "Not inspected; medical scope decision is independent of index status.",
+      "usageChecked": true,
+      "linksChecked": true,
+      "seasonalChecked": true
+    }
+  },
+  {
+    "slug": "recovery-in-a-hanok-2026",
+    "action": "removed",
+    "reviewBasis": "medical-editorial-scope",
+    "reason": "This post-procedure recovery lodging guide is outside the travel publication’s medical scope and contains unsupported healing, recovery and treatment claims. The general hanok-stay guide does not answer its medical-recovery intent.",
+    "decidedAt": "2026-10-31",
+    "evidence": {
+      "publicationDate": "2026-03-20",
+      "publicationDateBasis": "Earliest available Git history; actual first production publication is unconfirmed.",
+      "reviewedAt": "2026-10-31",
+      "indexingStatus": "Not inspected; medical scope decision is independent of index status.",
+      "usageChecked": true,
+      "linksChecked": true,
+      "seasonalChecked": true
+    }
   }
 ]
