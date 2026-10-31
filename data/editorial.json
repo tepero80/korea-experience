@@ -407,7 +407,8 @@
       "note": "Photographed 2023-09-28 15:00:06. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
     },
     "gallery": [],
-    "heroMediaId": "incheon-air-seoul-checkin"
+    "heroMediaId": "incheon-air-seoul-checkin",
+    "heroCaption": "Air Seoul check-in counters at Incheon Airport in 2023. Confirm the current terminal and counter for your own flight."
   },
   "airport-limousine-bus-vs-arex-express-train": {
     "id": "transport-airport",
@@ -4540,6 +4541,81 @@
     "heroMediaId": "gluten-menu-questions",
     "heroCaption": "Illustrated questions, not a certification of food or kitchen safety.",
     "cardImageLabel": "Meal-check questions",
+    "experienceVersion": 2
+  },
+  "medical-emergencies-1330-vs-119-2026": {
+    "id": "guide:medical-emergencies-1330-vs-119-2026",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-10-31",
+    "answer": "For urgent fire or ambulance response, call 119. For police, call 112. The 1330 travel helpline provides tourism information and interpretation; it is not an emergency dispatcher.",
+    "forWhom": "Travelers looking for emergency contacts and non-emergency travel information in Korea",
+    "conditions": [
+      "Do not delay an emergency call to install an app or reach a tourism helpline.",
+      "This guide cannot diagnose symptoms, guarantee dispatch or confirm a hospital’s capacity."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "safety"
+    ],
+    "relations": [
+      {
+        "slug": "emergency-ready-app-english-alerts-2026",
+        "type": "prepare",
+        "label": "Prepare safety information",
+        "reason": "Learn what the government app can support and what remains unverified."
+      },
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "next",
+        "label": "Find other official contacts",
+        "reason": "Plan for other common travel problems and official assistance."
+      },
+      {
+        "slug": "24-hour-english-pharmacies-in-seoul-2026",
+        "type": "alternative",
+        "label": "Find non-emergency pharmacy help",
+        "reason": "Check current pharmacy availability separately; call 119 for urgent help."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-emergency",
+        "title": "Korea Tourism Organization: emergency contacts and interpretation",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "kto-1330",
+        "title": "Korea Tourism Organization: travel helpline",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=454&vcontsId=140632",
+        "checkedAt": "2026-10-31"
+      }
+    ],
+    "shareFacts": [
+      "Call 119 for urgent fire or ambulance help.",
+      "Call 112 for police; 1330 is a tourism helpline."
+    ],
+    "launchOrder": 49,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Emergency call reminder",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#emergency-call-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial call reminder, not an official app screenshot or guarantee of service. The same contact guidance is in the article text."
+    },
+    "heroMediaId": "emergency-call-illustration",
+    "heroCaption": "Illustrated contact reminder, not an official app screen or a guarantee of service.",
+    "cardImageLabel": "Emergency call reminder",
     "experienceVersion": 2
   }
 }

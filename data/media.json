@@ -1495,5 +1495,24 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial illustration; no food or restaurant is certified safe. Questions are available as article text."
     }
+  },
+  {
+    "id": "emergency-call-illustration",
+    "src": "/images/editorial/emergency-call-illustration.svg",
+    "width": 1280,
+    "height": 853,
+    "originalId": "korea-experience-editorial-emergency-call-v1",
+    "originalHash": "ebd11d88e0105f322e482d01c34795eadd92c29429857b0d55841646e5b4ef90",
+    "checkedAt": "2026-10-31",
+    "alt": "Illustrated reminder: call 119 for fire or ambulance, share your location and ask for an interpreter if needed",
+    "credit": {
+      "kind": "illustration",
+      "title": "Emergency call reminder",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#emergency-call-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial call reminder, not an official app screenshot or guarantee of service. The same contact guidance is in the article text."
+    }
   }
 ]

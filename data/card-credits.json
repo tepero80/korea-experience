@@ -733,5 +733,20 @@
       "note": "Original editorial illustration; no food or restaurant is certified safe. Questions are available as article text."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "medical-emergencies-1330-vs-119-2026": {
+    "src": "/images/cards/medical-emergencies-1330-vs-119-2026.jpg",
+    "fingerprint": "f86ad02919e7ab635ab24cacbb299cd58409bce62fafc6c6c59e81048127d762",
+    "sourceImage": "/images/editorial/emergency-call-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Emergency call reminder",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#emergency-call-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial call reminder, not an official app screenshot or guarantee of service. The same contact guidance is in the article text."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }
