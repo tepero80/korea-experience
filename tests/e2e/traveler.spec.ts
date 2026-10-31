@@ -98,6 +98,11 @@ for (const path of [
     await expect(page.locator('h1')).toHaveCount(1);
     await expect(page.locator('h1')).toBeVisible();
     await capturePage(page, testInfo);
+    const documentTitle = page.locator('.document-page > h1');
+    if (await documentTitle.count())
+      expect(await documentTitle.evaluate((el) => getComputedStyle(el).fontFamily)).toContain(
+        'KE Manrope',
+      );
     expect(
       await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1),
     ).toBeTruthy();
