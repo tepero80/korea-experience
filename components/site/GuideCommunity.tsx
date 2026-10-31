@@ -105,7 +105,7 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
         try {
           widget.current = window.turnstile.render(box.current, {
             sitekey: key,
-            size: box.current.clientWidth < 300 ? 'compact' : 'normal',
+            size: 'compact',
             callback: (value: string) => {
               setToken(value);
               setSpamError(false);
