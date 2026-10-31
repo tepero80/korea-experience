@@ -10,6 +10,7 @@ interface Props {
   facts: string[];
   checkedAt?: string;
   category: string;
+  kind?: 'guide' | 'result';
 }
 function lines(
   ctx: CanvasRenderingContext2D,
@@ -169,11 +170,18 @@ export default function ShareActions(props: Props) {
     }
   }
   return (
-    <section className="share-box no-print" aria-label="Share this guide">
+    <section
+      className="share-box no-print"
+      aria-label={props.kind === 'result' ? 'Share this result' : 'Share this guide'}
+    >
       <div>
         <p className="eyebrow">Useful enough to pass along</p>
         <h2>Keep the important details together.</h2>
-        <p>Share a summary with the conditions and a link to the full guide.</p>
+        <p>
+          {props.kind === 'result'
+            ? 'Share the result and its planning conditions. The link reopens these inputs.'
+            : 'Share a summary with the conditions and a link to the full guide.'}
+        </p>
       </div>
       <div className="share-buttons">
         <button className="action-button" onClick={share}>

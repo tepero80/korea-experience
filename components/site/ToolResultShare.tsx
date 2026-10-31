@@ -17,6 +17,7 @@ export default function ToolResultShare({
 }) {
   return (
     <ShareActions
+      kind="result"
       id={'result-' + slug}
       title={title}
       summary={summary}

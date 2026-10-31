@@ -488,18 +488,9 @@ function Budget() {
           <h2>{KRW.format(r.total)} for the party</h2>
           <p>
             {KRW.format(r.perPerson)} per traveler, rounded up. {r.assumptions.travelers} travelers,{' '}
-            {r.assumptions.rooms} rooms, {r.assumptions.nights} nights, {r.assumptions.days} days.
+            {r.assumptions.rooms} {r.assumptions.rooms === 1 ? 'room' : 'rooms'},{' '}
+            {r.assumptions.nights} nights, {r.assumptions.days} days.
           </p>
-          <ToolResultShare
-            slug="trip-budget"
-            url={budgetShareUrl(r.assumptions)}
-            title={`My Korea budget: ${KRW.format(r.total)}`}
-            summary={`${r.assumptions.travelers} travelers · ${r.assumptions.days} days · ${r.assumptions.nights} nights · ${r.assumptions.rooms} rooms. Editable hypothetical inputs, not live quotes.`}
-            facts={[
-              `${KRW.format(r.assumptions.roomNight)} per room/night; ${KRW.format(r.assumptions.foodDay)} food per person/day.`,
-              `${r.assumptions.bufferPercent}% contingency. Flights, insurance and shopping excluded unless entered under other costs.`,
-            ]}
-          />
           <dl className="cost-list">
             {(
               ['accommodation', 'food', 'transport', 'activities', 'oneOff', 'buffer'] as const
@@ -541,6 +532,16 @@ function Budget() {
               </p>
             </aside>
           ) : null}
+          <ToolResultShare
+            slug="trip-budget"
+            url={budgetShareUrl(r.assumptions)}
+            title={`My Korea budget: ${KRW.format(r.total)}`}
+            summary={`${r.assumptions.travelers} travelers · ${r.assumptions.days} days · ${r.assumptions.nights} nights · ${r.assumptions.rooms} rooms. Editable hypothetical inputs, not live quotes.`}
+            facts={[
+              `${KRW.format(r.assumptions.roomNight)} per room/night; ${KRW.format(r.assumptions.foodDay)} food per person/day.`,
+              `${r.assumptions.bufferPercent}% contingency. Flights, insurance and shopping excluded unless entered under other costs.`,
+            ]}
+          />
         </section>
       ) : null}
     </>

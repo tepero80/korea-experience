@@ -293,6 +293,51 @@ test('family pass totals count separate cards and per-traveler journeys', async 
   await expect(page.locator('.tool-result')).toContainText('₩37,200');
   await expect(page.locator('.tool-result')).toContainText('₩1,800');
 });
+
+test('family budget changes rooms without multiplying meals and keeps the breakdown before sharing', async ({
+  page,
+}, testInfo) => {
+  await page.goto('/tools/trip-budget');
+  await page.getByRole('button', { name: 'Build my budget', exact: true }).click();
+  await expect(
+    page.getByRole('heading', { name: '₩2,104,500 for the party', exact: true }),
+  ).toBeVisible();
+  await page
+    .getByRole('button', { name: 'Keep this scenario for comparison', exact: true })
+    .click();
+  await page.getByLabel('Rooms each night', { exact: true }).fill('2');
+  await expect(page.locator('.calculation-stale')).toBeVisible();
+  await page.getByRole('button', { name: 'Build my budget', exact: true }).click();
+  await expect(
+    page.getByRole('heading', { name: '₩2,932,500 for the party', exact: true }),
+  ).toBeVisible();
+  await expect(
+    page.locator('.cost-list > div').filter({ has: page.getByText('Food', { exact: true }) }),
+  ).toContainText('₩490,000');
+  await expect(page.locator('.scenario-comparison')).toContainText('₩828,000 more');
+  expect(
+    await page.locator('.tool-result').evaluate((el) => {
+      const costs = el.querySelector('.cost-list');
+      const share = el.querySelector('.share-box');
+      return (
+        !!costs &&
+        !!share &&
+        !!(costs.compareDocumentPosition(share) & Node.DOCUMENT_POSITION_FOLLOWING)
+      );
+    }),
+  ).toBeTruthy();
+  await expect(page.getByRole('region', { name: 'Share this result', exact: true })).toContainText(
+    'The link reopens these inputs.',
+  );
+  await capturePage(page, testInfo, 'budget-result');
+  expect(
+    (await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag22aa']).analyze())
+      .violations,
+  ).toEqual([]);
+  const download = page.waitForEvent('download');
+  await page.getByRole('button', { name: 'Download card', exact: true }).click();
+  await (await download).saveAs(testInfo.outputPath('budget-result-card.png'));
+});
 test('guide save, map address and reading anchors have working controls', async ({ page }) => {
   await page.goto(prototypes[0]);
   await page.getByRole('button', { name: 'Save guide', exact: true }).click();
