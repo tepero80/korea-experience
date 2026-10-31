@@ -1,5 +1,5 @@
 'use client';
-import { useEffect, useState, useRef, type FormEvent } from 'react';
+import { useEffect, useState, useRef, useId, type FormEvent } from 'react';
 import Link from 'next/link';
 import {
   airportOptions,
@@ -75,17 +75,18 @@ function Select({
   set: (v: string) => void;
   options: [string, string][];
 }) {
+  const controlId = useId();
   return (
-    <label className="field" htmlFor={name}>
-      <span>{label}</span>
-      <select id={name} value={value} onChange={(e) => set(e.target.value)}>
+    <div className="field">
+      <label htmlFor={controlId}>{label}</label>
+      <select id={controlId} name={name} value={value} onChange={(e) => set(e.target.value)}>
         {options.map(([v, l]) => (
           <option key={v} value={v}>
             {l}
           </option>
         ))}
       </select>
-    </label>
+    </div>
   );
 }
 function Pass() {

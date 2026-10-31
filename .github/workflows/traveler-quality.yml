@@ -26,16 +26,9 @@ jobs:
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: traveler-quality-screens
-          path: |
-            test-results/**/page.png
-            test-results/**/helper-open.png
-          retention-days: 1
-      - uses: actions/upload-artifact@v4
-        if: failure()
-        with:
-          name: traveler-quality-failure
+          name: traveler-quality-evidence
           path: |
             test-results/**/*.png
             test-results/**/error-context.md
+            test-results/**/*-info.json
           retention-days: 1

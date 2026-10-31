@@ -1,6 +1,38 @@
-import { test, expect } from '@playwright/test';
+import { test, expect, type Page, type TestInfo } from '@playwright/test';
+import fs from 'node:fs/promises';
 import AxeBuilder from '@axe-core/playwright';
 import editorial from '../../data/editorial.json';
+
+async function capturePage(page: Page, info: TestInfo, name = 'page') {
+  // Inspect the images a scrolling reader sees, rather than empty lazy placeholders.
+  for (const picture of await page.locator('img').all()) {
+    await picture.scrollIntoViewIfNeeded();
+    await picture.evaluate(async (node: HTMLImageElement) => {
+      await node.decode();
+    });
+  }
+  await page.evaluate(() => window.scrollTo(0, 0));
+  await page.waitForFunction(() => scrollY === 0);
+  await page.evaluate(() => document.fonts.ready);
+  await page.screenshot({ path: info.outputPath(name + '.png'), fullPage: true });
+  await fs.writeFile(
+    info.outputPath(name + '-info.json'),
+    JSON.stringify(
+      {
+        path: new URL(page.url()).pathname,
+        title: await page.title(),
+        test: info.title,
+        ...(await page.evaluate(() => ({
+          width: innerWidth,
+          height: innerHeight,
+          contentWidth: document.documentElement.scrollWidth,
+        }))),
+      },
+      null,
+      2,
+    ),
+  );
+}
 
 const prototypes = [
   '/blog/airport-limousine-bus-vs-arex-express-train',
@@ -58,8 +90,7 @@ for (const path of [
     await page.goto(path);
     await expect(page.locator('h1')).toHaveCount(1);
     await expect(page.locator('h1')).toBeVisible();
-    await page.evaluate(() => document.fonts.ready);
-    await page.screenshot({ path: testInfo.outputPath('page.png'), fullPage: true });
+    await capturePage(page, testInfo);
     expect(
       await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1),
     ).toBeTruthy();
@@ -86,7 +117,7 @@ test('visit-month helper saves progress and shared conditions preserve the saved
   await expect(page.getByLabel('Visit month', { exact: true })).toHaveValue('12');
   await expect(entry).toBeChecked();
   const saved = await page.evaluate(() => localStorage.getItem('ke-checklist-v1'));
-  await page.screenshot({ path: testInfo.outputPath('helper-open.png'), fullPage: true });
+  await capturePage(page, testInfo, 'helper-open');
   expect(
     (await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag22aa']).analyze())
       .violations,
@@ -112,7 +143,7 @@ test('rain helper opens a separate map section without duplicate IDs', async ({
       return ids.filter((id, i) => ids.indexOf(id) !== i);
     }),
   ).toEqual([]);
-  await page.screenshot({ path: testInfo.outputPath('helper-open.png'), fullPage: true });
+  await capturePage(page, testInfo, 'helper-open');
   expect(
     (await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag22aa']).analyze())
       .violations,
@@ -136,7 +167,7 @@ test('late arrival helper distinguishes evening rail checks from an overnight fa
   await expect(
     page.getByRole('link', { name: 'AREX all-stop timetable: T1 ↗', exact: true }),
   ).toHaveAttribute('href', 'https://www.airportrailroad.com/train/normal/info/100/0');
-  await page.screenshot({ path: testInfo.outputPath('helper-open.png'), fullPage: true });
+  await capturePage(page, testInfo, 'helper-open');
   expect(
     (await new AxeBuilder({ page }).withTags(['wcag2a', 'wcag2aa', 'wcag22aa']).analyze())
       .violations,
@@ -210,6 +241,17 @@ test('search finds an arrival guide and Escape returns focus', async ({ page }) 
   await expect(dialog).not.toBeVisible();
   await expect(trigger).toBeFocused();
 });
+test('a two-column question table reads within the mobile viewport', async ({ page }) => {
+  await page.goto('/blog/booking-family-hotel-rooms-in-korea');
+  const region = page.getByRole('region', {
+    name: 'Comparison table, scroll horizontally if needed',
+    exact: true,
+  });
+  expect(await region.evaluate((el) => el.scrollWidth <= el.clientWidth + 1)).toBeTruthy();
+  await expect(
+    region.getByRole('columnheader', { name: 'A useful written answer', exact: true }),
+  ).toBeVisible();
+});
 
 test('a traveler adds a guide place, edits its date/time/buffer and reopens the private board', async ({
   page,
@@ -272,6 +314,7 @@ test('a question draft survives a new page view without entering the sign-in URL
   await draft.fill('Fixture question: which train suits a late family arrival?');
   await page.reload();
   await expect(draft).toHaveValue('Fixture question: which train suits a late family arrival?');
+  await draft.click();
   const login = page.getByRole('link', { name: 'Save draft & sign in with Google or email' });
   await expect(login).toHaveAttribute('href', /returnTo=/);
   expect(await login.getAttribute('href')).not.toContain('Fixture');

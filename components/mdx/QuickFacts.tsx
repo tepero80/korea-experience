@@ -30,12 +30,12 @@ interface QuickFactsProps {
   variant?: 'default' | 'compact' | 'highlight';
 }
 
-export default function QuickFacts({ 
-  title = "Quick Facts", 
+export default function QuickFacts({
+  title = 'Quick Facts',
   facts,
   data,
   columns = 2,
-  variant = 'default'
+  variant = 'default',
 }: QuickFactsProps) {
   const resolvedFacts = facts ?? data ?? [];
   const gridCols = {
@@ -50,17 +50,17 @@ export default function QuickFacts({
         <h3 className="text-xl font-bold text-gray-900 mb-4 flex items-center gap-2">
           <span>📋</span> {title}
         </h3>
-        <dl className={`grid ${gridCols[columns]} gap-4`}>
+        <div className={`grid ${gridCols[columns]} gap-4`}>
           {resolvedFacts.map((fact, index) => (
             <div key={index} className="flex items-center gap-3">
               {fact.icon && <span className="text-xl">{fact.icon}</span>}
-              <div>
+              <dl>
                 <dt className="text-sm text-gray-500">{fact.label}</dt>
                 <dd className="font-semibold text-gray-900">{fact.value}</dd>
-              </div>
+              </dl>
             </div>
           ))}
-        </dl>
+        </div>
       </div>
     );
   }
@@ -73,7 +73,7 @@ export default function QuickFacts({
         </h3>
         <div className={`grid ${gridCols[columns]} gap-4`}>
           {resolvedFacts.map((fact, index) => (
-            <div 
+            <div
               key={index}
               className="bg-gradient-to-br from-stone-700 to-stone-800 rounded-xl p-5 text-white shadow-lg hover:shadow-xl transition-shadow"
             >
@@ -81,13 +81,9 @@ export default function QuickFacts({
                 <div>
                   <p className="text-stone-300 text-sm font-medium mb-1">{fact.label}</p>
                   <p className="text-2xl font-bold">{fact.value}</p>
-                  {fact.note && (
-                    <p className="text-stone-300 text-xs mt-2">{fact.note}</p>
-                  )}
+                  {fact.note && <p className="text-stone-300 text-xs mt-2">{fact.note}</p>}
                 </div>
-                {fact.icon && (
-                  <span className="text-3xl opacity-80">{fact.icon}</span>
-                )}
+                {fact.icon && <span className="text-3xl opacity-80">{fact.icon}</span>}
               </div>
             </div>
           ))}
@@ -100,34 +96,32 @@ export default function QuickFacts({
   return (
     <div className="my-8 bg-white rounded-2xl border-2 border-gray-200 overflow-hidden shadow-lg">
       <div className="bg-gradient-to-r from-stone-700 via-stone-800 to-stone-700 px-6 py-3">
-        <h3 className="text-xl font-bold text-white m-0 p-0 border-none flex items-center gap-2" style={{ color: 'white', margin: 0, padding: 0, border: 'none', fontSize: '1.25rem' }}>
+        <h3
+          className="text-xl font-bold text-white m-0 p-0 border-none flex items-center gap-2"
+          style={{ color: 'white', margin: 0, padding: 0, border: 'none', fontSize: '1.25rem' }}
+        >
           <span>📋</span> {title}
         </h3>
       </div>
-      
+
       <div className={`grid ${gridCols[columns]} gap-0 divide-x divide-y divide-gray-100`}>
         {resolvedFacts.map((fact, index) => (
-          <div 
-            key={index}
-            className="p-5 hover:bg-amber-50 transition-colors group"
-          >
+          <div key={index} className="p-5 hover:bg-amber-50 transition-colors group">
             <div className="flex items-start gap-4">
               {fact.icon && (
                 <span className="text-3xl group-hover:scale-110 transition-transform">
                   {fact.icon}
                 </span>
               )}
-              <div className="flex-1">
+              <dl className="flex-1">
                 <dt className="text-sm font-medium text-gray-500 uppercase tracking-wide mb-1">
                   {fact.label}
                 </dt>
                 <dd className="text-xl font-bold text-gray-900">
                   {fact.value}
+                  {fact.note && <p className="text-sm text-gray-500 mt-1">{fact.note}</p>}
                 </dd>
-                {fact.note && (
-                  <p className="text-sm text-gray-500 mt-1">{fact.note}</p>
-                )}
-              </div>
+              </dl>
             </div>
           </div>
         ))}

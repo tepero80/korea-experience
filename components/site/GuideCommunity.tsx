@@ -239,8 +239,8 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
           }
         }}
       >
-        <label className="field" htmlFor="guide-comment">
-          <span>Your question or update</span>
+        <div className="field">
+          <label htmlFor="guide-comment">Your question or update</label>
           <textarea
             id="guide-comment"
             rows={5}
@@ -257,8 +257,9 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
               }
             }}
             disabled={!draftLoaded}
+            onFocus={() => setActive(true)}
           />
-        </label>
+        </div>
         {draftError ? <p role="alert">{draftError}</p> : null}
         <p className="map-notice">
           Include travel dates and the useful detail. Avoid personal documents, contact details or
@@ -308,9 +309,11 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
           </Link>
         ) : (
           <p role="status">
-            {apiState === 'loading'
-              ? 'Checking sign-in…'
-              : 'Sign-in status is unavailable. Retry community before signing in or sending your draft.'}
+            {apiState === 'idle'
+              ? 'Sign-in options load when this section comes into view.'
+              : apiState === 'loading'
+                ? 'Checking sign-in…'
+                : 'Sign-in status is unavailable. Retry community before signing in or sending your draft.'}
           </p>
         )}
         {body ? (
