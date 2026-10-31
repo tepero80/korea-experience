@@ -28,6 +28,8 @@ test('accessible Seoul guide preserves old links and explains the exact route ch
   await expect(page.getByText('94% subway elevator coverage')).toHaveCount(0);
   await expect(page.getByText('Private editor notes', { exact: false })).toHaveCount(0);
   await expect(page.getByText('This draft removes', { exact: false })).toHaveCount(0);
+  await expect(page.getByRole('link', { name: /Plan the wider trip/i })).toHaveAttribute('href', '/blog/first-trip-to-korea-planning-guide');
+  await expect(page.getByRole('link', { name: /A useful companion.*pharmacy/i })).toHaveCount(0);
   await page.getByRole('button', { name: 'Load interactive map' }).click();
   await expect(page.getByRole('region', { name: 'Overview map of places in this guide' })).toBeVisible();
   await expect.poll(async () =>

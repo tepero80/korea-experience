@@ -4062,6 +4062,12 @@
         "type": "alternative",
         "label": "Find indoor culture",
         "reason": "Compare museum choices and check each venue’s current access information."
+      },
+      {
+        "slug": "first-trip-to-korea-planning-guide",
+        "type": "prepare",
+        "label": "Plan the wider trip",
+        "reason": "Use the trip overview to coordinate booking and arrival, then verify your individual access needs."
       }
     ],
     "tools": [
