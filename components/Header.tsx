@@ -29,12 +29,12 @@ export default function Header() {
         Skip to content
       </a>
       <div className="site-header-inner">
-        <Link href="/" className="wordmark" aria-label="Korea Experience home">
+        <Link href="/" className="wordmark" aria-label="K° Korea Experience home">
           <span className="brand-mark" aria-hidden="true">
             K<span>°</span>
           </span>
           <span>
-            Korea<span className="brand-second">Experience</span>
+            Korea{' '}<span className="brand-second">Experience</span>
           </span>
         </Link>
         <nav aria-label="Main navigation" className="desktop-nav">

@@ -658,5 +658,20 @@
       "note": "Photographed 6 October 2022; resized and converted to WebP. Historical image does not verify current routes or access."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026": {
+    "src": "/images/cards/accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026.jpg",
+    "fingerprint": "e1987638d0b01303a121715433aa0cbad617abb78437a5eb6312b4cafe1d9829",
+    "sourceImage": "/images/editorial/accessible-trip-planning.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Accessible trip planning: check each part of the journey",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#accessible-trip-planning",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a map, real location or verified accessible route. The article provides the planning sequence as text."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

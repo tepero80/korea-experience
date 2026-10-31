@@ -4026,5 +4026,113 @@
     "heroCaption": "Daereungwon Tomb Complex in October 2022. Confirm current paths and entry conditions.",
     "cardImageLabel": "Daereungwon · October 2022",
     "experienceVersion": 2
+  },
+  "accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026": {
+    "id": "guide:accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-10-31",
+    "answer": "Check the exact room, transport transfer, street exit and venue entrance for your needs; station and venue listings do not guarantee the whole route.",
+    "forWhom": "Travelers using wheelchairs or needing step-free routes and accessible facilities in Seoul",
+    "conditions": [
+      "Accessibility varies by entrance, equipment and current conditions; confirm the exact route and your needs with operators.",
+      "Danurim service eligibility and seasonal availability must be confirmed before booking."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "planning",
+      "transport",
+      "accessibility"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style",
+        "type": "prepare",
+        "label": "Choose your Seoul base",
+        "reason": "Compare neighborhoods, then confirm your exact accessible room and its approach."
+      },
+      {
+        "slug": "seoul-museums-and-exhibitions-planning-guide",
+        "type": "alternative",
+        "label": "Find indoor culture",
+        "reason": "Compare museum choices and check each venue’s current access information."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gyeongbokgung",
+      "seoul-craft-museum"
+    ],
+    "sources": [
+      {
+        "id": "danurim-notice",
+        "title": "Seoul Danurim: 2026 booking service notice",
+        "url": "https://www.seouldanurim.net/notice/14385_/14385",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "danurim-device",
+        "title": "Seoul Danurim: assistive-device rental terms",
+        "url": "https://www.seouldanurim.net/en/rent-asst-en/info",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "seoul-stations",
+        "title": "Seoul Metropolitan Government: subway accessibility facilities",
+        "url": "https://english.seoul.go.kr/service/movement/public-transportation/subway-accessibility-facilities/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "craft-access",
+        "title": "Seoul Danurim: Seoul Museum of Craft Art",
+        "url": "https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/43095",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "aquarium-access",
+        "title": "Seoul Danurim: COEX Aquarium",
+        "url": "https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/38721",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "sevit-access",
+        "title": "Seoul Danurim: Some Sevit",
+        "url": "https://www.seouldanurim.net/en/attractions/D/TOURINFOTYPE2/43085",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "palace-map",
+        "title": "Royal Palaces and Tombs Center: Gyeongbokgung map",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R701000000.do",
+        "checkedAt": "2026-10-31"
+      }
+    ],
+    "shareFacts": [
+      "Check each station transfer, street exit and venue entrance for your needs.",
+      "Danurim services have seasonal deadlines; confirm eligibility and availability."
+    ],
+    "launchOrder": 44,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Accessible trip planning: check each part of the journey",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#accessible-trip-planning",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a map, real location or verified accessible route. The article provides the planning sequence as text."
+    },
+    "heroMediaId": "accessible-trip-planning",
+    "heroCaption": "Illustrative planning sequence, not a verified route or location.",
+    "cardImageLabel": "Planning illustration",
+    "experienceVersion": 2
   }
 }

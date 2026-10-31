@@ -1380,5 +1380,24 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "note": "Photographed before 19 November 2024; resized and converted to WebP. Historical image does not guarantee current illumination, entry or opening."
     }
+  },
+  {
+    "id": "accessible-trip-planning",
+    "src": "/images/editorial/accessible-trip-planning.svg",
+    "width": 1280,
+    "height": 853,
+    "originalId": "korea-experience-editorial-accessible-trip-planning-v1",
+    "originalHash": "7fa4b6b884e68efda0b8d650a722ac15d55482f0f8d143be5e983ae5f09adddd",
+    "checkedAt": "2026-10-31",
+    "alt": "Illustrative sequence for checking a room, station, street exit and venue; it does not depict a verified route",
+    "credit": {
+      "kind": "illustration",
+      "title": "Accessible trip planning: check each part of the journey",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#accessible-trip-planning",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a map, real location or verified accessible route. The article provides the planning sequence as text."
+    }
   }
 ]

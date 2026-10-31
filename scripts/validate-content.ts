@@ -13,6 +13,8 @@ for (const p of posts) {
   if (ids.has(p.id)) errors.push('Duplicate ID ' + p.id);
   ids.add(p.id);
   if (p.image && !fs.existsSync('public' + p.image)) errors.push('Missing image ' + p.slug);
+  if (/^#{1,6}\s+private (?:editor|editorial) notes\b/im.test(getPostBySlug(p.slug)!.content))
+    errors.push('Private editorial notes in public content ' + p.slug);
   const e = p.editorial;
   if (!e) continue;
   if (!e.answer || e.sources.length === 0 || !e.checkedAt || !e.imageCredit?.license)
