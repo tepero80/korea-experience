@@ -763,5 +763,20 @@
       "note": "Original editorial planning illustration, not a real facility or guarantee of access."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "medical-tourism-with-kids-pediatric-healthcare-in-seoul": {
+    "src": "/images/cards/medical-tourism-with-kids-pediatric-healthcare-in-seoul.jpg",
+    "fingerprint": "2439d0f8fd8b5967a0a53d37d3e0a65a7a1e7a5662448992841aaebc97ef72b8",
+    "sourceImage": "/images/editorial/family-care-planning.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "When a child needs care: a travel planning aid",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#family-care-planning",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a photograph or medical advice."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

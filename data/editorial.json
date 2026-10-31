@@ -4699,5 +4699,99 @@
     "heroCaption": "Illustrated steps; a listing does not guarantee access or accessibility.",
     "cardImageLabel": "Find a restroom",
     "experienceVersion": 2
+  },
+  "medical-tourism-with-kids-pediatric-healthcare-in-seoul": {
+    "id": "guide:medical-tourism-with-kids-pediatric-healthcare-in-seoul",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-10-31",
+    "answer": "For an emergency, call 119. For non-emergency care, use a facility listing and call to confirm whether the provider can see your child.",
+    "forWhom": "Families visiting Korea who need to find medical care for a child",
+    "conditions": [
+      "This guide does not diagnose symptoms or recommend treatment.",
+      "Facility hours, age eligibility and language help must be confirmed directly."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "planning"
+    ],
+    "relations": [
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "prepare",
+        "label": "Understand emergency numbers",
+        "reason": "Know which number to call for urgent assistance."
+      },
+      {
+        "slug": "emergency-ready-app-english-alerts-2026",
+        "type": "next",
+        "label": "Prepare for local alerts",
+        "reason": "Review the official emergency information app before you need it."
+      },
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "alternative",
+        "label": "Find travel assistance",
+        "reason": "Keep other useful visitor support contacts."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kdca-fever",
+        "title": "KDCA: Pediatric fever guidance",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6951",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "egen",
+        "title": "National Emergency Medical Center: E-Gen",
+        "url": "https://www.e-gen.or.kr/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "kdca-call",
+        "title": "KDCA: Call center",
+        "url": "https://www.kdca.go.kr/eng/4276/subview.do",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "kto-emergency",
+        "title": "Korea Tourism Organization: Emergency situations",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140042",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "kto-1330",
+        "title": "Korea Tourism Organization: 1330 Travel Helpline",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=454&vcontsId=140632",
+        "checkedAt": "2026-10-31"
+      }
+    ],
+    "shareFacts": [
+      "Call 119 for emergencies.",
+      "For other care, confirm age eligibility and opening hours directly."
+    ],
+    "launchOrder": 51,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "When a child needs care: a travel planning aid",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#family-care-planning",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a photograph or medical advice."
+    },
+    "heroMediaId": "family-care-planning",
+    "heroCaption": "A planning illustration; urgent situations require immediate help.",
+    "cardImageLabel": "Care for a child",
+    "experienceVersion": 2
   }
 }

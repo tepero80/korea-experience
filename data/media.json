@@ -1553,5 +1553,24 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Photographed 20 April 2018; resized and converted to WebP. Current access, hours and accessibility are not verified."
     }
+  },
+  {
+    "id": "family-care-planning",
+    "src": "/images/editorial/family-care-planning.svg",
+    "width": 1280,
+    "height": 853,
+    "originalId": "korea-experience-editorial-family-care-planning-v1",
+    "originalHash": "2375e0ed52bf5a0e35a6457f746197eabc9bd25593ede31eb7f80b73caf3f0c9",
+    "checkedAt": "2026-10-31",
+    "alt": "Family travel care planning: urgent help, facility search and calling ahead",
+    "credit": {
+      "kind": "illustration",
+      "title": "When a child needs care: a travel planning aid",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#family-care-planning",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a photograph or medical advice."
+    }
   }
 ]
