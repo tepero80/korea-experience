@@ -94,6 +94,6 @@ The KTO’s May 2026 transportation guide lists T-money purchase and top-up at t
 
 ### What if the card is still declined?
 
-Ask the merchant to confirm the order status, keep the decline details, and contact the card issuer. Only the issuer can tell you the card-specific reason and what to do next.
+Ask the merchant to confirm the order status, keep the decline details, and contact the card issuer, who can help investigate a card-specific decline and suggest what to do next.
 
 For the separate task of getting cash, see our [foreign-card ATM guide](/blog/foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options). For the transit products themselves, compare the [Climate Card and T-money](/blog/seoul-transit-climate-card-vs-tmoney-2026).

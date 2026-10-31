@@ -4146,7 +4146,7 @@
     "categoryId": "travel-essentials",
     "format": "how-to",
     "checkedAt": "2026-10-31",
-    "answer": "Check whether the order went through, then ask staff or use an available backup. Your card issuer can explain a specific decline.",
+    "answer": "Check whether the order went through, then ask staff or use an available backup. Your card issuer can help investigate a decline.",
     "forWhom": "Visitors using self-service ordering or ticket terminals with an overseas card",
     "conditions": [
       "A decline message does not identify its cause; confirm the order status before trying again.",
