@@ -1,22 +1,15 @@
 import { test, expect } from '@playwright/test';
 import fs from 'node:fs/promises';
 import AxeBuilder from '@axe-core/playwright';
-import { getAllPosts, getPostBySlug } from '../../lib/posts';
-import corrections from '../../data/archive-corrections.json';
+import { getAllPosts } from '../../lib/posts';
 
 // Only the explicit isolated archive matrix runs this larger coverage set.
 // Both metadata rewrites and shared-component changes must be rendered.
 const shard = Number(process.env.ARCHIVE_REVIEW_SHARD || '0');
 if (shard) {
-  const affected = getAllPosts().filter(
-    (post) =>
-      !post.reviewed &&
-      (post.slug in corrections ||
-        /<(?:StatCard|LocationCard|PriceTable|ExpertTip)\b/i.test(
-          getPostBySlug(post.slug)!.content,
-        ) ||
-        /- \[[ xX]\]/.test(getPostBySlug(post.slug)!.content)),
-  );
+  // Shared MDX changes can affect any legacy guide, including those without
+  // the initially suspected components. Keep the complete754-guide archive.
+  const affected = getAllPosts().filter((post) => !post.reviewed);
   for (const post of affected.filter((_, index) => index % 4 === shard - 1)) {
     test(`archive evidence display: ${post.slug}`, async ({ page }, info) => {
       await page.route('**/api/**', (route) =>

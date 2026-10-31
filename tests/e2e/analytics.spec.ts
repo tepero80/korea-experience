@@ -1,5 +1,7 @@
 import { test, expect, type Page } from '@playwright/test';
 import fs from 'node:fs/promises';
+import { existsSync, statSync, readFileSync } from 'node:fs';
+import path from 'node:path';
 
 const origin = 'https://koreaexperience.com';
 test.afterEach(async ({ page }) => {
@@ -13,10 +15,35 @@ async function isolatedProductionOrigin(page: Page, blockWrites = false) {
   await page.route('**/*', async (route) => {
     const url = new URL(route.request().url());
     if (url.origin === origin && !url.pathname.startsWith('/api/')) {
-      const response = await route.fetch({
-        url: 'http://127.0.0.1:3000' + url.pathname + url.search,
+      // Do not hold an intercepted request open across a second HTTP fetch:
+      // Next can cancel a prefetch while that fetch is still in flight. Serve
+      // the same export bytes directly, without an APIResponse lifecycle race.
+      const root = path.resolve('out');
+      const candidate = path.resolve(root, '.' + decodeURIComponent(url.pathname));
+      if (candidate !== root && !candidate.startsWith(root + path.sep))
+        return route.fulfill({ status: 403, body: '' });
+      const file = [candidate, candidate + '.html', path.join(candidate, 'index.html')].find(
+        (file) => existsSync(file) && statSync(file).isFile(),
+      );
+      const types: Record<string, string> = {
+        '.html': 'text/html',
+        '.js': 'application/javascript',
+        '.css': 'text/css',
+        '.txt': 'text/plain',
+        '.json': 'application/json',
+        '.woff2': 'font/woff2',
+        '.ttf': 'font/ttf',
+        '.webp': 'image/webp',
+        '.svg': 'image/svg+xml',
+        '.ico': 'image/x-icon',
+        '.png': 'image/png',
+        '.jpg': 'image/jpeg',
+      };
+      return route.fulfill({
+        status: file ? 200 : 404,
+        contentType: types[path.extname(file || '')] || 'text/html',
+        body: readFileSync(file || path.join(root, '404.html')),
       });
-      return route.fulfill({ response });
     }
     if (url.hostname === 'www.googletagmanager.com')
       return route.fulfill({
