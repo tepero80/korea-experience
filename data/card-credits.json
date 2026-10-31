@@ -718,5 +718,20 @@
       "note": "Original editorial checklist diagram; no food, restaurant or preparation is certified safe. The questions are also available in the article text."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "gluten-free-guide-to-korean-food-what-to-eat-and-avoid-2026": {
+    "src": "/images/cards/gluten-free-guide-to-korean-food-what-to-eat-and-avoid-2026.jpg",
+    "fingerprint": "02b4d812ff0a8ef1f93c1792fac3ec9a41ffe7ccf36cd300065119ef6c7cb2a7",
+    "sourceImage": "/images/editorial/gluten-menu-questions.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Questions about Korean meals",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#gluten-menu-questions",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration; no food or restaurant is certified safe. Questions are available as article text."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

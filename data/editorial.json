@@ -4442,5 +4442,104 @@
     "heroCaption": "Illustrated planning questions; no food or restaurant is certified by this guide.",
     "cardImageLabel": "Dining questions",
     "experienceVersion": 2
+  },
+  "gluten-free-guide-to-korean-food-what-to-eat-and-avoid-2026": {
+    "id": "guide:gluten-free-guide-to-korean-food-what-to-eat-and-avoid-2026",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-10-31",
+    "answer": "A dish name alone does not establish gluten-free suitability. Check ingredients and shared preparation for the specific meal, and use a verified backup when the kitchen cannot confirm.",
+    "forWhom": "Visitors checking Korean meals for celiac disease or strict gluten-free needs",
+    "conditions": [
+      "This guide does not certify dishes, restaurants or products.",
+      "Use your clinician’s advice and a reviewed translation for individual dietary needs."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "food"
+    ],
+    "relations": [
+      {
+        "slug": "gluten-free-dining-in-korea-celiac-safe-options",
+        "type": "next",
+        "label": "Plan celiac dining",
+        "reason": "Use the fuller checklist for communication, preparation and backup meals."
+      },
+      {
+        "slug": "navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact",
+        "type": "prepare",
+        "label": "Plan other dietary needs",
+        "reason": "Review general questions for other dietary restrictions."
+      },
+      {
+        "slug": "emergency-ready-app-english-alerts-2026",
+        "type": "alternative",
+        "label": "Keep emergency contacts",
+        "reason": "Find official emergency numbers and understand when to call for immediate help."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "mfds",
+        "title": "Korea Ministry of Food and Drug Safety: food labeling",
+        "url": "https://www.mfds.go.kr/eng/wpge/m_14/denofile.do",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "grains",
+        "title": "Coeliac UK: grains",
+        "url": "https://www.coeliac.org.uk/grains/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "travel",
+        "title": "Coeliac UK: travel",
+        "url": "https://www.coeliac.org.uk/living-with-coeliac-disease/food-and-drink/eating-out-and-travel/travelling-with-coeliac-disease/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "dining",
+        "title": "Celiac Disease Foundation: dining",
+        "url": "https://celiac.org/dining-and-social-eating/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "emergency",
+        "title": "Korea Tourism Organization: emergency contacts",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "1330",
+        "title": "Korea Tourism Organization: travel helpline",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=454&vcontsId=140632",
+        "checkedAt": "2026-10-31"
+      }
+    ],
+    "shareFacts": [
+      "Check the exact meal and shared preparation.",
+      "Use a verified backup if the kitchen cannot confirm."
+    ],
+    "launchOrder": 48,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Questions about Korean meals",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#gluten-menu-questions",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration; no food or restaurant is certified safe. Questions are available as article text."
+    },
+    "heroMediaId": "gluten-menu-questions",
+    "heroCaption": "Illustrated questions, not a certification of food or kitchen safety.",
+    "cardImageLabel": "Meal-check questions",
+    "experienceVersion": 2
   }
 }

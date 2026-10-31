@@ -1476,5 +1476,24 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial checklist diagram; no food, restaurant or preparation is certified safe. The questions are also available in the article text."
     }
+  },
+  {
+    "id": "gluten-menu-questions",
+    "src": "/images/editorial/gluten-menu-questions.svg",
+    "width": 1280,
+    "height": 853,
+    "originalId": "korea-experience-editorial-gluten-menu-questions-v1",
+    "originalHash": "0a3c3e00e49d965e3ce496f2b3281d1401a2365f367ff5eeed10493a86373a32",
+    "checkedAt": "2026-10-31",
+    "alt": "Illustrated questions about ingredients, shared preparation and a verified backup",
+    "credit": {
+      "kind": "illustration",
+      "title": "Questions about Korean meals",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#gluten-menu-questions",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration; no food or restaurant is certified safe. Questions are available as article text."
+    }
   }
 ]
