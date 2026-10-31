@@ -1399,5 +1399,44 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial illustration, not a map, real location or verified accessible route. The article provides the planning sequence as text."
     }
+  },
+  {
+    "id": "kiosk-recovery-illustration",
+    "src": "/images/editorial/kiosk-recovery-illustration.svg",
+    "width": 1280,
+    "height": 853,
+    "originalId": "korea-experience-editorial-kiosk-recovery-v1",
+    "originalHash": "5a43deb6801db79a4e9dded4b31baa11eb18f6f478d9c9f87c32832463969b34",
+    "checkedAt": "2026-10-31",
+    "alt": "Illustrated steps: check the order, ask staff or use a backup, and contact the card issuer if needed",
+    "credit": {
+      "kind": "illustration",
+      "title": "Payment backup plan at a kiosk",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#kiosk-recovery-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial decision diagram, not a photograph or guarantee of payment acceptance. The same steps are available as article text."
+    }
+  },
+  {
+    "id": "gwangju-service-kiosk-2020",
+    "src": "/images/editorial/gwangju-service-kiosk-2020-1280.webp",
+    "srcSet": "/images/editorial/gwangju-service-kiosk-2020-800.webp 800w, /images/editorial/gwangju-service-kiosk-2020-1280.webp 1280w",
+    "width": 1280,
+    "height": 1707,
+    "originalId": "https://commons.wikimedia.org/wiki/File:2020-03-27_12.02.17_경기광주휴게소_광주방향.jpg",
+    "originalHash": "58212b3e4b55eb1b007bfd19b134e87a81c636760639c7a18a19e15cdcd21f96",
+    "capturedAt": "2020-03-27",
+    "alt": "Two self-order kiosks with card-only signs at Gwangju Service Area, photographed in 2020",
+    "credit": {
+      "kind": "photograph",
+      "title": "Self-ordering kiosks at Gwangju Service Area",
+      "author": "Choi Kwang-mo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020-03-27_12.02.17_경기광주휴게소_광주방향.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 27 March 2020; auto-rotated, resized and converted to WebP. Card-only signage is visible; the image does not verify current operations or foreign-card acceptance."
+    }
   }
 ]

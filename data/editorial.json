@@ -4140,5 +4140,109 @@
     "heroCaption": "Illustrative planning sequence, not a verified route or location.",
     "cardImageLabel": "Planning illustration",
     "experienceVersion": 2
+  },
+  "foreign-friendly-kiosk-survival-guide-what-to-do-when-your-overseas-credit-card-is-rejected": {
+    "id": "guide:foreign-friendly-kiosk-survival-guide-what-to-do-when-your-overseas-credit-card-is-rejected",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-10-31",
+    "answer": "Check whether the order went through, then ask staff or use an available backup. Your card issuer can explain a specific decline.",
+    "forWhom": "Visitors using self-service ordering or ticket terminals with an overseas card",
+    "conditions": [
+      "A decline message does not identify its cause; confirm the order status before trying again.",
+      "Seoul’s international-card option applies to selected Climate Card and single-journey ticket machines, not all kiosks."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "planning"
+    ],
+    "relations": [
+      {
+        "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+        "type": "alternative",
+        "label": "Find a cash fallback",
+        "reason": "If cash is useful, check ATM labels, fees and the issuer’s terms separately."
+      },
+      {
+        "slug": "seoul-transit-climate-card-vs-tmoney-2026",
+        "type": "prepare",
+        "label": "Choose a transit card",
+        "reason": "Compare the named Seoul transit products and check current purchase rules."
+      },
+      {
+        "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+        "type": "next",
+        "label": "Order with confidence",
+        "reason": "Use simple phrases when you need help from restaurant staff."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-transit",
+        "title": "Seoul Metropolitan Government: selected transit machines",
+        "url": "https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "kto-transport",
+        "title": "Korea Tourism Organization: visitor transportation guide",
+        "url": "https://english.visitkorea.or.kr/public/contents/travel/KoreaTransportationGuide_enu.pdf",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "kto-money",
+        "title": "Korea Tourism Organization: currency and card use",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140040",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "seoul-money",
+        "title": "Seoul Metropolitan Government: payment methods",
+        "url": "https://english.seoul.go.kr/service/entry/currency-exchange/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "visa-support",
+        "title": "Visa: cardholder support",
+        "url": "https://usa.visa.com/support.html",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "mastercard-support",
+        "title": "Mastercard: cardholder FAQs",
+        "url": "https://www.mastercard.com/hk/en/personal/get-support/frequently-asked-questions.html",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "visa-dcc",
+        "title": "Visa: dynamic currency conversion",
+        "url": "https://www.visa.com/en-gb/personal/travel/dynamic-currency-conversion",
+        "checkedAt": "2026-10-31"
+      }
+    ],
+    "shareFacts": [
+      "Check the order status before attempting another payment.",
+      "Ask staff about a counter or another supported payment method."
+    ],
+    "launchOrder": 45,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Payment backup plan at a kiosk",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#kiosk-recovery-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial decision diagram, not a photograph or guarantee of payment acceptance. The same steps are available as article text."
+    },
+    "heroMediaId": "kiosk-recovery-illustration",
+    "heroCaption": "Illustrative steps, not a depiction of a particular machine or guarantee of card acceptance.",
+    "cardImageLabel": "Payment backup plan",
+    "experienceVersion": 2
   }
 }
