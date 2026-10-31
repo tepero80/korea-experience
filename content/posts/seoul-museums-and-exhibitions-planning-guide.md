@@ -1,5 +1,5 @@
 ---
-title: 'Choosing a Seoul Museum: Interest, Branch and the Ticket You Need'
+title: 'Seoul Museums: Collections, Access and Tickets'
 date: '2026-10-31'
 updated: '2026-10-31'
 excerpt: >-
@@ -40,11 +40,13 @@ The [museum's visitor information](https://www.museum.go.kr/ENG/contents/E010101
 
 The first-Monday gallery dates normally concern March, June, September and December; the operator lists a March 2026 exception. Read the actual notice for your date rather than applying a pattern blindly.
 
-## Check the branch, not only the institution name
+## Choose the correct building and session
 
-The [Buk-Seoul Museum of Art visitor page](https://sema.seoul.go.kr/en/visit/bukseoul) has its own hours, Monday closure and seasonal weekend/last-entry rules. Do not copy NMK's schedule to SeMA or assume every SeMA building is the branch on your ticket.
+For a craft-focused visit near Anguk, use the [Seoul Museum of Craft Art visitor guide](https://craftmuseum.seoul.go.kr/preview/visit). It lists ordinary galleries **10:00–18:00**, with last entry 30 minutes before closing. Its Children's Museum requires online advance booking and closes **every Monday**, including Mondays when the general museum's public-holiday exception applies. General viewing is free; a separately hosted exhibition may charge.
 
-<GuidePhoto id="seoul-geunjeongjeon" caption="A palace is an outdoor alternative for a different day, not another compulsory stop after a full museum visit. Check opening and weather before changing the plan." />
+The checked expanded evening opening ends **30 November 2026** and varies by building and weekday. Read the actual timetable rather than carrying an evening assumption into a December visit. Decide which collection or activity you want, then confirm that exact building and session.
+
+<GuidePhoto id="seoul-craft-exterior-2024" caption="The Seoul Museum of Craft Art's buildings and open forecourt in November 2024. Pick the building for your booked session and check the current approach; the exterior photograph does not establish an exhibition's contents or today's access." />
 
 ## Make the visit comfortable
 

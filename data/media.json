@@ -1248,5 +1248,27 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Photographed 2019-09-18. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
     }
+  },
+  {
+    "id": "seoul-craft-exterior-2024",
+    "originalId": "Seoul Museum of Craft Art.jpg",
+    "originalHash": "773deae25a126adef5f00cb2a8f668e4606533a6d0887565d8a3648afbf07747",
+    "capturedAt": "2024-11-22",
+    "checkedAt": "2026-10-31",
+    "src": "/images/editorial/seoul-craft-exterior-2024-1280.webp",
+    "srcSet": "/images/editorial/seoul-craft-exterior-2024-640.webp 640w, /images/editorial/seoul-craft-exterior-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "The Seoul Museum of Craft Art exterior buildings and open forecourt in November 2024",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seoul Museum of Craft Art.jpg",
+      "author": "*Youngjin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Craft_Art.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-11-22. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
+    }
   }
 ]

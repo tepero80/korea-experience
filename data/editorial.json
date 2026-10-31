@@ -1844,10 +1844,7 @@
     "tools": [
       "itinerary"
     ],
-    "placeIds": [
-      "hwaseong-haenggung",
-      "hwahongmun"
-    ],
+    "placeIds": ["hwaseong-haenggung", "hwaseomun", "janganmun"],
     "sources": [
       {
         "id": "suwon-cultural-foundation-current-visit",
@@ -2638,10 +2635,7 @@
     "tools": [
       "itinerary"
     ],
-    "placeIds": [
-      "insadong",
-      "namdaemun"
-    ],
+    "placeIds": ["insadong"],
     "sources": [
       {
         "id": "sto-ssamzigil",
@@ -2923,10 +2917,7 @@
     "tools": [
       "itinerary"
     ],
-    "placeIds": [
-      "gyeongbokgung",
-      "gwanghwamun"
-    ],
+    "placeIds": ["gyeongbokgung", "changdeokgung"],
     "sources": [
       {
         "id": "royal-night-autumn-2026",
@@ -3012,10 +3003,7 @@
     "tools": [
       "packing-checklist"
     ],
-    "placeIds": [
-      "gyeongbokgung",
-      "bukchon"
-    ],
+    "placeIds": ["gyeongbokgung", "insadong"],
     "sources": [
       {
         "id": "royal-hanbok-guidelines",
@@ -3180,11 +3168,11 @@
         "note": "Current listed hours start 09:30, last entry 30 minutes before closure; permanent/special/children admission differ; commercial photography restrictions explicit."
       },
       {
-        "id": "sema-bukseoul-visit",
-        "title": "Buk-Seoul Museum of Art — official visitor guide",
-        "url": "https://sema.seoul.go.kr/en/visit/bukseoul",
+        "id": "seoul-craft-museum-visitor-info",
+        "title": "Seoul Museum of Craft Art: visitor information",
+        "url": "https://craftmuseum.seoul.go.kr/preview/visit",
         "checkedAt": "2026-10-31",
-        "note": "Branch-specific hours, Monday closure, seasonal weekend schedules and last entry differ from NMK; do not generalize across institutions."
+        "note": "Regular 10:00-18:00; free except possible paid rental exhibitions. Monday public-holiday exception applies to the museum, but Children's Museum is closed every Monday and requires advance online reservation. Expanded evening schedule is temporary September 15-November 30, 2026 and building-specific. Commercial-purpose photography is prohibited."
       },
       {
         "id": "nmk-directions-access",
@@ -3572,7 +3560,8 @@
     "categoryId": "travel-essentials",
     "format": "decision",
     "checkedAt": "2026-10-31",
-    "answer": "For non-emergency pharmacy help, find an open pharmacy and bring clear medicine/ingredient information. Let a pharmacist or clinician assess suitability; for a life-threatening emergency call 119.",
+    "quickTitle": "Emergency: call 119",
+    "answer": "For a life-threatening emergency, call 119 and state your location. For non-urgent medicine questions, confirm an open pharmacy and bring your medicine or ingredient details. A pharmacist or clinician assesses suitability.",
     "forWhom": "Visitors locating pharmacy or medical assistance, rather than choosing treatment online",
     "conditions": [
       "This guide gives no diagnosis, medicine choice or dosage.",

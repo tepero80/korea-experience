@@ -42,13 +42,27 @@ if (process.argv[1]?.replaceAll('\\', '/').endsWith('/verify-backup.ts')) {
       .readdirSync('migrations')
       .filter((n) => n.endsWith('.sql'))
       .sort();
+    // A pre-upgrade backup must match its explicitly selected historical schema.
+    // The default remains strict: every checked-in migration must be present.
+    const historyFlag = process.argv
+      .slice(3)
+      .find((arg) => arg.startsWith('--expected-migrations='));
+    const expectedCount = historyFlag
+      ? Number(historyFlag.slice('--expected-migrations='.length))
+      : expected.length;
+    if (!Number.isInteger(expectedCount) || expectedCount < 1 || expectedCount > expected.length)
+      throw Error('Choose an existing nonempty migration-history length.');
     const applied = database
       .prepare('SELECT name FROM d1_migrations ORDER BY name')
       .all()
       .map((r) => r.name);
     const integrity = database.prepare('PRAGMA integrity_check').get()?.integrity_check;
     const violations = database.prepare('PRAGMA foreign_key_check').all().length;
-    if (JSON.stringify(applied) !== JSON.stringify(expected) || integrity !== 'ok' || violations)
+    if (
+      JSON.stringify(applied) !== JSON.stringify(expected.slice(0, expectedCount)) ||
+      integrity !== 'ok' ||
+      violations
+    )
       throw Error('Backup integrity or migration history failed verification.');
     const proof = {
       at: new Date().toISOString(),
@@ -57,6 +71,8 @@ if (process.argv[1]?.replaceAll('\\', '/').endsWith('/verify-backup.ts')) {
       isolatedRestore: true,
       authSchemaMatches: true,
       migrations: applied,
+      pendingMigrations: expected.slice(expectedCount),
+      schemaCurrent: expectedCount === expected.length,
       integrity,
       foreignKeyViolations: violations,
       passed: true,

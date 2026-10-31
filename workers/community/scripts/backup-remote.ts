@@ -4,6 +4,9 @@ import { spawnSync } from 'node:child_process';
 import { unstable_readConfig } from 'wrangler';
 
 const target = process.argv[2];
+const expectedHistory = process.argv
+  .slice(3)
+  .find((arg) => arg.startsWith('--expected-migrations='));
 if (!['staging', 'production'].includes(target)) throw Error('Choose staging or production.');
 const config = unstable_readConfig({ config: 'wrangler.jsonc', env: target });
 const name =
@@ -40,7 +43,13 @@ if (exported.status !== 0)
   throw Error('Remote backup failed; no restore or database write was attempted.');
 const verified = spawnSync(
   process.execPath,
-  ['--import', 'tsx', 'scripts/verify-backup.ts', file],
+  [
+    '--import',
+    'tsx',
+    'scripts/verify-backup.ts',
+    file,
+    ...(expectedHistory ? [expectedHistory] : []),
+  ],
   { encoding: 'utf8', maxBuffer: 4 * 1024 * 1024 },
 );
 if (verified.status !== 0)

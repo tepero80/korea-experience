@@ -1,5 +1,5 @@
 ---
-title: 'Finding Pharmacy or Medical Help in Korea: Bring the Details, Confirm Opening'
+title: 'Pharmacies & Medical Help in Korea'
 date: '2026-02-08'
 updated: '2026-10-31'
 excerpt: >-
@@ -13,7 +13,7 @@ tags:
   - planning
 draft: false
 ---
-**Use the site to reach professional help, not to guess a treatment.** For a life-threatening emergency, call **119** and request interpretation. Provide the actual location; do not delay urgent assistance while searching shops, waiting for community replies or seeking insurance approval.
+**Use the site to reach professional help, not to guess a treatment.** For a life-threatening emergency, call [119](tel:119) and request interpretation. Provide the actual location; do not delay urgent assistance while searching shops, waiting for community replies or seeking insurance approval.
 
 ## Choose the appropriate next step
 

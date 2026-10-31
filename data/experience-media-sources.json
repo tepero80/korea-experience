@@ -547,5 +547,16 @@
     "alt": "The historic Songaedang hanok and its tiled entrance gate behind a low stone wall in Daejeon, photographed in September 2019",
     "focal": "50% 45%",
     "expectedSha1": "68e134e7081f3600e055ebcb41b496d91e9060ca"
+  },
+  {
+    "id": "seoul-craft-exterior-2024",
+    "file": "Seoul Museum of Craft Art.jpg",
+    "download": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Seoul_Museum_of_Craft_Art.jpg",
+    "author": "*Youngjin",
+    "capturedAt": "2024-11-22",
+    "license": "CC BY-SA 4.0",
+    "expectedSha1": "da7a7703ca4ec7db60f73c727ad5e96200ceefd7",
+    "alt": "The Seoul Museum of Craft Art exterior buildings and open forecourt in November 2024",
+    "focal": "50% 50%"
   }
 ]

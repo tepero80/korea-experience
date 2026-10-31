@@ -4,9 +4,15 @@ import crypto from 'node:crypto';
 import sharp from 'sharp';
 const sources = JSON.parse(await fs.readFile('data/experience-media-sources.json', 'utf8'));
 const registry = JSON.parse(await fs.readFile('data/media.json', 'utf8'));
+const requestedId = process.argv.find((arg) => arg.startsWith('--id='))?.slice(5);
+const selectedSources = requestedId
+  ? sources.filter((source) => source.id === requestedId)
+  : sources;
+if (requestedId && selectedSources.length !== 1)
+  throw Error('Expected one registered source for --id');
 await fs.mkdir('.private/media-originals/experience-v2', { recursive: true });
 await fs.mkdir('public/images/editorial', { recursive: true });
-for (const p of sources) {
+for (const p of selectedSources) {
   if (new URL(p.download).hostname !== 'upload.wikimedia.org')
     throw Error('Review download origin');
   if (

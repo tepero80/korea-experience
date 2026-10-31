@@ -233,16 +233,17 @@
   },
   {
     "id": "hwaseong-haenggung",
-    "name": "Hwaseong Haenggung vicinity",
-    "nameKo": "수원 화성행궁 주변",
-    "latitude": 37.281944,
-    "longitude": 127.013611,
-    "address": "경기 수원시 팔달구 정조로 825",
+    "name": "Hwaseong Haenggung",
+    "nameKo": "화성행궁",
+    "latitude": 37.281923922226596,
+    "longitude": 127.01403879931412,
+    "address": "경기도 수원시 팔달구 정조로 825",
     "region": "suwon",
-    "description": "825 Jeongjo-ro, Paldal-gu, Suwon. Approximate Hwaseong Haenggung vicinity marker only; explicitly label approximate. Do not claim a verified entrance or use as precise turn-by-turn endpoint.",
-    "officialUrl": "https://commons.wikimedia.org/wiki/File:Hwaseong_Haenggung_Palace.jpg",
-    "checkedAt": "2026-10-30",
-    "sourceNote": "Coordinate source: https://commons.wikimedia.org/wiki/File:Hwaseong_Haenggung_Palace.jpg. Not an entrance verification."
+    "description": "Palace overview point from the operator’s map. Confirm the current entrance, admission cutoff and suitable approach separately.",
+    "officialUrl": "https://www.swcf.or.kr/?p=68",
+    "checkedAt": "2026-10-31",
+    "sourceNote": "Suwon Cultural Foundation p=68 supplies this address and its daumMapLoad1 map coordinate. The marker is not a field-verified entrance or accessible route.",
+    "addressSource": "https://www.swcf.or.kr/?p=68"
   },
   {
     "id": "anguk-station",
@@ -358,5 +359,48 @@
     "checkedAt": "2026-10-31",
     "sourceNote": "Representative station coordinates from Busan Transportation Corporation station dataset dated 2026-05-31: https://data.kric.go.kr/rips/M_01_01/detail.do?id=88",
     "addressSource": "https://www2.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&S_LINE=1&S_STATION=119"
+  },
+  {
+    "id": "janganmun",
+    "name": "Janganmun",
+    "nameKo": "장안문",
+    "latitude": 37.28890694859525,
+    "longitude": 127.01424872649353,
+    "address": "경기도 수원시 팔달구 정조로 910",
+    "region": "suwon",
+    "description": "The northern gate at the end of the selected short fortress walk. Use the current street or park approach; this marker does not certify step-free access to the raised gate or wall.",
+    "officialUrl": "https://www.swcf.or.kr/?p=68",
+    "addressSource": "https://www.swcf.or.kr/?p=68",
+    "checkedAt": "2026-10-31",
+    "sourceNote": "Address and representative coordinate are supplied by the Suwon Cultural Foundation p=68 directions page (daumMapLoad2). Not the nearby information office’s different address."
+  },
+  {
+    "id": "changdeokgung",
+    "name": "Changdeokgung Palace",
+    "nameKo": "창덕궁",
+    "latitude": 37.57765074254216,
+    "longitude": 126.99023063100555,
+    "address": "서울특별시 종로구 율곡로 99",
+    "region": "seoul",
+    "description": "Palace overview point. Moonlight, ordinary admission and the Secret Garden have separate conditions; confirm the exact meeting point in the selected product’s current notice.",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94399",
+    "addressSource": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94399",
+    "visitorUrl": "https://royal.khs.go.kr/cdg",
+    "checkedAt": "2026-10-31",
+    "sourceNote": "Korea Tourism Organization listing JSON-LD and displayed Naver map supply latitude 37.57765074254216 / longitude 126.99023063100555. Representative point, not a verified program entrance or meeting location."
+  },
+  {
+    "id": "hwaseomun",
+    "name": "Hwaseomun",
+    "nameKo": "화서문",
+    "latitude": 37.2856122421966,
+    "longitude": 127.009662487401,
+    "address": "경기도 수원시 팔달구 장안동 334",
+    "region": "suwon",
+    "description": "The western gate is the decision point before the shorter outside-wall park walk toward Janganmun. Check the current street-level approach; raised wall and gate access are optional.",
+    "officialUrl": "https://www.swcf.or.kr/?p=65",
+    "addressSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=108760",
+    "checkedAt": "2026-10-31",
+    "sourceNote": "KTO Hwaseomun listing supplies the address and JSON-LD/map coordinate. Its older fees/hours were not adopted; the current Suwon Cultural Foundation visitor conditions control admission."
   }
 ]
