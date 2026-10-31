@@ -12,6 +12,9 @@ test('account-only retired guides stay visible and removal can be undone locally
   await page.goto('/saved');
   await expect(page.getByRole('heading', { name: 'Unavailable saved guide' })).toBeVisible();
   await expect(page.getByText('This guide is no longer published.')).toBeVisible();
+  await expect(page.getByRole('link', { name: 'Find a current alternative.' })).toHaveClass(
+    /text-link/,
+  );
   await page.getByRole('button', { name: 'Remove' }).click();
   await page.getByRole('button', { name: 'Undo' }).click();
   await expect(page.getByRole('heading', { name: 'Unavailable saved guide' })).toBeVisible();

@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "slug": "korean-beauty-clinics-gangnam-skincare-guide",
+    "action": "removed",
+    "reviewBasis": "medical-editorial-scope",
+    "reason": "This procedure and clinic recommendation guide is outside our travel publication's medical scope and contains unsupported claims about treatment benefits, safety and costs. No equivalent travel-safety guide answers its original intent.",
+    "decidedAt": "2026-10-31",
+    "evidence": {
+      "publicationDate": "2026-02-03",
+      "publicationDateBasis": "Earliest available Git history; actual first public deployment is not confirmed.",
+      "reviewedAt": "2026-10-31",
+      "indexingStatus": "Crawled - currently not indexed; URL inspection 2026-10-31",
+      "usageChecked": true,
+      "linksChecked": true,
+      "seasonalChecked": true
+    }
+  }
+]

@@ -75,6 +75,7 @@ export interface Retirement {
   decidedAt: string;
   evidence: {
     publicationDate: string;
+    publicationDateBasis?: string;
     reviewedAt: string;
     indexingStatus: string;
     usageChecked: boolean;

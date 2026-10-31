@@ -158,7 +158,9 @@ export default function SavedGuides() {
                       <h2>{item.title}</h2>
                       <p>
                         This guide is no longer published.{' '}
-                        <Link href="/blog">Find a current alternative.</Link>
+                        <Link href="/blog" className="text-link">
+                          Find a current alternative.
+                        </Link>
                       </p>
                     </>
                   )}
