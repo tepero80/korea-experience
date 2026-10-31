@@ -1,6 +1,7 @@
 {
   "first-trip-to-korea-planning-guide": {
     "id": "plan-first-trip",
+    "experienceVersion": 2,
     "categoryId": "plan-your-trip",
     "format": "how-to",
     "checkedAt": "2026-10-31",
@@ -110,6 +111,7 @@
   },
   "best-time-to-visit-korea-month-by-month-weather": {
     "id": "plan-best-time",
+    "experienceVersion": 2,
     "categoryId": "plan-your-trip",
     "format": "seasonal",
     "checkedAt": "2026-10-31",
@@ -182,6 +184,7 @@
   },
   "how-much-does-a-7-day-trip-to-korea-cost-in-2026-budget-vs-luxury-breakdown": {
     "id": "plan-budget",
+    "experienceVersion": 2,
     "categoryId": "plan-your-trip",
     "format": "how-to",
     "checkedAt": "2026-10-31",
@@ -254,6 +257,7 @@
   },
   "korea-winter-packing-checklist": {
     "id": "plan-winter-packing",
+    "experienceVersion": 2,
     "categoryId": "plan-your-trip",
     "format": "seasonal",
     "checkedAt": "2026-10-31",
@@ -326,6 +330,7 @@
   },
   "korea-trip-booking-checklist-eight-weeks": {
     "id": "plan-booking-checklist",
+    "experienceVersion": 2,
     "categoryId": "plan-your-trip",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -406,6 +411,7 @@
   },
   "airport-limousine-bus-vs-arex-express-train": {
     "id": "transport-airport",
+    "experienceVersion": 2,
     "categoryId": "airports-transport",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -550,6 +556,7 @@
   },
   "incheon-airport-late-night-arrival-guide": {
     "id": "transport-late-arrival",
+    "experienceVersion": 2,
     "categoryId": "airports-transport",
     "format": "how-to",
     "checkedAt": "2026-10-31",
@@ -648,6 +655,7 @@
   },
   "seoul-transit-climate-card-vs-tmoney-2026": {
     "id": "transport-passes",
+    "experienceVersion": 2,
     "categoryId": "airports-transport",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -722,6 +730,7 @@
   },
   "ktx-vs-srt-high-speed-train-comparison-and-booking": {
     "id": "transport-ktx",
+    "experienceVersion": 2,
     "categoryId": "airports-transport",
     "format": "how-to",
     "checkedAt": "2026-10-31",
@@ -818,6 +827,7 @@
   },
   "luggage-storage-in-seoul-and-incheon-airport": {
     "id": "transport-luggage",
+    "experienceVersion": 2,
     "categoryId": "airports-transport",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -910,6 +920,7 @@
   },
   "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style": {
     "id": "stay-seoul",
+    "experienceVersion": 2,
     "categoryId": "where-to-stay",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -1049,6 +1060,7 @@
   },
   "where-to-stay-in-busan-neighborhoods": {
     "id": "stay-busan",
+    "experienceVersion": 2,
     "categoryId": "where-to-stay",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -1169,6 +1181,7 @@
   },
   "booking-family-hotel-rooms-in-korea": {
     "id": "stay-family",
+    "experienceVersion": 2,
     "categoryId": "where-to-stay",
     "format": "how-to",
     "checkedAt": "2026-10-31",
@@ -1248,6 +1261,7 @@
   },
   "hanok-stay-booking-checklist": {
     "id": "stay-hanok",
+    "experienceVersion": 2,
     "categoryId": "where-to-stay",
     "format": "how-to",
     "checkedAt": "2026-10-31",
@@ -1329,6 +1343,7 @@
   },
   "choosing-winter-accommodation-in-korea": {
     "id": "stay-winter",
+    "experienceVersion": 2,
     "categoryId": "where-to-stay",
     "format": "seasonal",
     "checkedAt": "2026-10-31",
@@ -1408,6 +1423,7 @@
   },
   "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026": {
     "id": "places-seoul",
+    "experienceVersion": 2,
     "categoryId": "places-itineraries",
     "format": "itinerary",
     "checkedAt": "2026-10-31",
@@ -1518,6 +1534,7 @@
   },
   "seongsu-dong-dior-luxury-vs-market-eats-in-24-hours": {
     "id": "places-seongsu",
+    "experienceVersion": 2,
     "categoryId": "places-itineraries",
     "format": "itinerary",
     "checkedAt": "2026-10-31",
@@ -1601,6 +1618,7 @@
   },
   "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices": {
     "id": "places-busan",
+    "experienceVersion": 2,
     "categoryId": "places-itineraries",
     "format": "itinerary",
     "checkedAt": "2026-10-31",
@@ -1712,6 +1730,7 @@
   },
   "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets": {
     "id": "places-rain",
+    "experienceVersion": 2,
     "categoryId": "places-itineraries",
     "format": "itinerary",
     "checkedAt": "2026-10-31",
@@ -1803,6 +1822,7 @@
   },
   "suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026": {
     "id": "places-suwon",
+    "experienceVersion": 2,
     "categoryId": "places-itineraries",
     "format": "itinerary",
     "checkedAt": "2026-10-31",
@@ -1903,6 +1923,7 @@
   },
   "how-to-order-food-in-korean-restaurants-phrases-guide-2026": {
     "id": "food-first-restaurant",
+    "experienceVersion": 2,
     "categoryId": "food-dining",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -1986,6 +2007,7 @@
   },
   "korean-barbecue-ordering-guide-cuts-portions-grills-and-shared-side-dishes": {
     "id": "food-bbq",
+    "experienceVersion": 2,
     "categoryId": "food-dining",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -2063,6 +2085,7 @@
   },
   "navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact": {
     "id": "food-dietary",
+    "experienceVersion": 2,
     "categoryId": "food-dining",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -2168,6 +2191,7 @@
   },
   "gwangjang-market-complete-food-guide": {
     "id": "food-market",
+    "experienceVersion": 2,
     "categoryId": "food-dining",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -2242,6 +2266,7 @@
   },
   "winter-food-and-tea-walk-insadong-seoul": {
     "id": "food-winter",
+    "experienceVersion": 2,
     "categoryId": "food-dining",
     "format": "seasonal",
     "checkedAt": "2026-10-31",
@@ -2325,6 +2350,7 @@
   },
   "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam": {
     "id": "shopping-areas",
+    "experienceVersion": 2,
     "categoryId": "shopping-kbeauty",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -2438,6 +2464,7 @@
   },
   "olive-young-must-buys-2026": {
     "id": "shopping-olive",
+    "experienceVersion": 2,
     "categoryId": "shopping-kbeauty",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -2524,6 +2551,7 @@
   },
   "tax-refund-for-tourists-how-to-claim": {
     "id": "shopping-tax",
+    "experienceVersion": 2,
     "categoryId": "shopping-kbeauty",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -2594,6 +2622,7 @@
   },
   "insadong-traditional-crafts-and-souvenirs": {
     "id": "shopping-souvenirs",
+    "experienceVersion": 2,
     "categoryId": "shopping-kbeauty",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -2666,6 +2695,7 @@
   },
   "packing-korean-shopping-liquids-and-souvenirs-for-your-flight": {
     "id": "shopping-packing",
+    "experienceVersion": 2,
     "categoryId": "shopping-kbeauty",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -2745,6 +2775,7 @@
   },
   "choosing-korean-cultural-experiences-reservations-and-walk-in-options": {
     "id": "culture-choose",
+    "experienceVersion": 2,
     "categoryId": "culture-events",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -2876,6 +2907,7 @@
   },
   "palace-starlight-night-tours-2026": {
     "id": "culture-palace-night",
+    "experienceVersion": 2,
     "categoryId": "culture-events",
     "format": "seasonal",
     "checkedAt": "2026-10-31",
@@ -2962,6 +2994,7 @@
   },
   "hanbok-rental-complete-guide-styles-and-pricing": {
     "id": "culture-hanbok",
+    "experienceVersion": 2,
     "categoryId": "culture-events",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -3041,6 +3074,7 @@
   },
   "how-to-get-k-pop-concert-tickets-ticketing-guide": {
     "id": "culture-tickets",
+    "experienceVersion": 2,
     "categoryId": "culture-events",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -3113,6 +3147,7 @@
   },
   "seoul-museums-and-exhibitions-planning-guide": {
     "id": "culture-museums",
+    "experienceVersion": 2,
     "categoryId": "culture-events",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -3209,6 +3244,7 @@
   },
   "korea-travel-problem-solving-guide": {
     "id": "essentials-troubleshooting",
+    "experienceVersion": 2,
     "categoryId": "travel-essentials",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -3322,6 +3358,7 @@
   },
   "esim-vs-usim-vs-portable-wi-fi-2026": {
     "id": "essentials-sim",
+    "experienceVersion": 2,
     "categoryId": "travel-essentials",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -3392,6 +3429,7 @@
   },
   "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options": {
     "id": "essentials-payments",
+    "experienceVersion": 2,
     "categoryId": "travel-essentials",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -3478,6 +3516,7 @@
   },
   "how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026": {
     "id": "essentials-maps",
+    "experienceVersion": 2,
     "categoryId": "travel-essentials",
     "format": "decision",
     "checkedAt": "2026-10-31",
@@ -3557,6 +3596,7 @@
   },
   "korean-pharmacies-otc-meds-tourists-2026": {
     "id": "essentials-medical",
+    "experienceVersion": 2,
     "categoryId": "travel-essentials",
     "format": "decision",
     "checkedAt": "2026-10-31",

@@ -2,6 +2,10 @@
 
 Accepted 2026-10-30 (Asia/Seoul). This is the implementation record, not a claim that pending features are live.
 
+## Traveler upgrade checkpoint
+
+The traveler-focused upgrade is published at 40e7926. See [its acceptance record](../operations/TRAVELER_ACCEPTANCE.md) and the private exact-release/coverage records for actual scope and evidence. Inline stop-removal undo follows the same regression, visual and actual-deployment checks. Earlier launch counts below are historical baselines, not current media/viewport coverage.
+
 ## Owner decisions
 
 - English-first practical travel; eight categories, five launch guides each (40 total). Launch includes rewritten existing URLs and new guides, reported separately. Later requests for N new articles mean N new articles; updates are separate.
@@ -46,7 +50,7 @@ CPU telemetry remains a limitation: the optimized staging Google callback used 6
 
 GSC, GA4 and AdSense official reporting adapters currently return **unavailable**, because reporting credentials have not been connected. Authenticated browser observations remain useful dated snapshots. Field Core Web Vitals, complete WCAG conformance and every social platform's rendered preview are not certified by the local checks. Preserve those as explicit follow-up work.
 
-The archive still contains 754 guides outside the reviewed 40; 127 legacy high-risk candidates were flagged for further accuracy/retirement review. No public guide was deleted solely for being unindexed or having unknown performance. Legacy entertainment tools are retained behind the secondary collection pending real usage and quality review.
+The archive still contains 754 guides outside the reviewed 40; 126 current legacy high-risk candidates were flagged for further accuracy/retirement review. No public guide was deleted solely for being unindexed or having unknown performance. Legacy entertainment tools are retained behind the secondary collection pending real usage and quality review.
 
 ## Retirement
 

@@ -74,12 +74,18 @@ const inventory = posts.map((p) => {
     incoming: incoming.get(p.slug) || [],
     sources: p.editorial?.sources || [],
     flags,
-    decision: p.editorial?.heroMediaId
-      ? 'implemented-awaiting-traveler-acceptance'
-      : 'hold-for-editorial-review',
-    reason: p.editorial?.heroMediaId
-      ? 'Rewrite and distinct media prepared; visual/task acceptance recorded separately.'
-      : 'Indexing, usage and backlinks unavailable; archive first-public dates unverified. Preserve URL and prioritize factual/source review instead of deleting blindly.',
+    decision:
+      p.editorial?.experienceVersion === 2
+        ? 'reviewed-traveler-accepted'
+        : p.editorial?.heroMediaId
+          ? 'implemented-awaiting-traveler-acceptance'
+          : 'hold-for-editorial-review',
+    reason:
+      p.editorial?.experienceVersion === 2
+        ? 'Core guide accepted after source, four-width visual and traveler-task review; exact evidence and limits remain in the acceptance/release records.'
+        : p.editorial?.heroMediaId
+          ? 'Rewrite and distinct media prepared; visual/task acceptance recorded separately.'
+          : 'Indexing, usage and backlinks unavailable; archive first-public dates unverified. Preserve URL and prioritize factual/source review instead of deleting blindly.',
     deletionEvidence: {
       indexing: 'unavailable',
       usage: 'unavailable',

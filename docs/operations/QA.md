@@ -1,12 +1,16 @@
 # Rebuild verification record — 2026-10-31 KST
 
-## Traveler upgrade in progress
+## Current traveler upgrade
 
-The earlier record below describes the a402467 launch baseline. The current traveler upgrade is separate: all forty core guide bodies have been rewritten with forty distinct hero originals; all 794 guide heroes now pass source/path/exact-hash reuse checks. The 754 other guides remain an explicitly held archive pending evidence-based editorial review. Unsupported ExpertTip attributions are withheld rather than presented as verified people/interviews; urgent 1330 and late-night-pharmacy corrections preserve their URLs.
+See [Traveler-quality acceptance](TRAVELER_ACCEPTANCE.md) for the scoped task, visual, source and production evidence. The published checkpoint is 40e7926: all 356 isolated browser cases, 18 root regressions and eight Worker regressions passed. Production Google/email return, question-draft restoration, pending-only comment receipt and private-plan/save/reopen/immutable-share/revocation were exercised. A strict four-migration production export passed isolated restoration. The reversible stop-removal follow-up has explicit four-width time/note restoration checks and state screenshots. The exact later source/CI/deployment and acceptance decision remain in the private release record.
 
-Current local evidence: 18 root tests, six Worker tests, all-guide content/media guards, current card fingerprints and a clean export. Stage migration 0004 plus title-concurrency hardening passed 46 remote permission/privacy checks and an isolated four-migration restore. CI f69f76e passed 76 tests, but only covered the first eight rewritten guides. The expanded 918a440 run passed 284/328; its defects are being repaired. The c1851ac run passed 331/332; its remaining 768px reading-width defect was corrected. Run 41154936010 at 7f207ec then passed all 336 cases, including family-budget changes, downloaded card creation and the earlier interaction scenarios. The screenshot review subsequently found three unnecessary hero/body repetitions and a historic-house context that needed a visible caption; those editorial fixes require a new screenshot run. Keep per-guide visual acceptance and actual production authentication separate from the isolated test result.
+All forty core guides received the complete rewrite and distinct hero originals; the other 754 have inventory/hold decisions. All 794 heroes pass path/source/exact-hash duplication guards, while archive provenance/factual review remains separate. Root-agent visual review covered all forty guide openings/full-page layout flows at 320/390/768/1440, followed by changed-screen and supporting-page/state rechecks. Raw artifacts, per-guide acceptance, provider evidence and recovery material remain private under .private/.
 
-This records actual local checks, not a certification of every screen, external provider or future behavior. Raw screenshots and test/restore reports remain private under `.private/review` and `.private/reports`.
+The suite now also executes the shipped Worker email handlers: TypeScript cannot find an undefined variable inside a JavaScript template string. Native date/time inputs, successful bot-check retry and a submission receipt surviving a later provider reset have regressions. Synthetic browser/API/provider fixtures are explicitly isolated; they are not real provider sign-in evidence.
+
+## Earlier launch baseline
+
+The remaining dated observations describe the earlier launch, not current counts or a substitute for the traveler acceptance record.
 
 Static checks passed for 794 published guides, including the 40 reviewed launch guides, 18 places, source/media rights, relationships and retired-link protection. The full inventory audit found no broken internal guide links. Export checks verify each launch article's H1, canonical, valid JSON-LD, sources, card and sitemap entry. All 41 reviewed preview cards have the expected 1200×630 dimensions and metadata/photo fingerprints. The export guard counts real files, sizes and types and enforces the hosting budget without deleting RSC assets.
 

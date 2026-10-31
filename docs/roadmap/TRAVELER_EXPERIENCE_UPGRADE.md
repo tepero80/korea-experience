@@ -2,6 +2,10 @@
 
 Accepted direction, 2026-10-31 (Asia/Seoul). Extends COMMERCIAL_REBUILD.md. This is a delivery contract and progress record, not a statement that unfinished work has shipped.
 
+## Current verified checkpoint
+
+Core release 40e7926 is published. [Traveler-quality acceptance](../operations/TRAVELER_ACCEPTANCE.md) separates the full inventory, forty-guide visual/source review, real provider/member tasks and operating limits. Main CI 41163974198 passed all 356 browser cases. Inline stop-removal/undo has its own four-width regression/state screenshots; consult the exact later acceptance/release record rather than assume every branch commit is deployed. Earlier execution-log entries are historical checkpoints.
+
 ## Outcome and constraints
 
 Korea Experience helps an international traveler find an answer, choose confidently, act in Korea, save/share the useful result, and ask or contribute an experience. Preserve the brand, domain, useful URLs and stable content IDs. Keep the existing free Cloudflare/Better Auth trial; no provider migration or paid upgrade. Follow AGENTS.md for credentials, image spending, factual evidence, moderation and publication authorization.
@@ -30,26 +34,26 @@ Home prioritizes search, journey stage, regions and useful tools. A guide starts
 
 | ID       | Requirement                                                                                             | Evidence required                                                                              | Status  |
 | -------- | ------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------- |
-| AUD-01   | Inventory every public guide and route, media, outgoing/incoming links, content risk and relevance      | Timestamped private inventory; explicit hold/improve/merge/retire reasons                      | Pending |
-| MED-01   | Never reuse a hero original across different guides, including recrops/renames                          | Asset IDs/source URLs/hash guard; perceptual candidates visually reviewed                      | Pending |
-| MED-02   | Add relevant licensed real photographs and useful process visuals within the article                    | Per-image author/license/source/date/caption/focal point; visual relevance review              | Pending |
-| CON-01   | Upgrade all 40 titles/intents to useful decisions, actions and exceptions                               | Claim-level primary evidence, units, check date, booking/navigation/fallback, per-guide record | Pending |
-| CON-02   | Use five content formats: compare, place, itinerary, how-to, seasonal                                   | Appropriate visual structure; no generic text/stock-gallery padding                            | Pending |
-| NAV-01   | Connect the traveler's next task, nearby options and failure alternatives                               | Contextual HTML links with a stated reason; no retired/broken references                       | Pending |
-| UI-01    | Implement the shared design specification across the site                                               | Desktop/mobile screenshots and accessibility/interaction review                                | Pending |
-| UI-02    | Make links, buttons, FAQ, menus, search, tables and maps usable                                         | Actual rendered anchor audit and state/keyboard/mobile checks                                  | Pending |
-| TOOL-01  | Strengthen budget, pass comparison and itinerary board                                                  | Arithmetic/eligibility/assumption tests and traveler task completion                           | Pending |
-| TOOL-02  | Embed airport decision helper, month checklist and rain alternatives in relevant guides                 | Contextual action; no false live-data promises; saved checklist state                          | Pending |
-| TOOL-03  | Suspend medical/military/diagnostic legacy calculations; review remaining fun tools                     | Preserved URL, noindex review notice, useful official next action                              | Pending |
-| PLAN-01  | Structured itinerary with dates/order/buffers/edit/save/reopen/import/export                            | Versioned data and v1 notes compatibility tests; stage share/revoke test                       | Pending |
-| AUTH-01  | Return to the original guide with question/correction draft after login                                 | Safe same-origin returnTo, expired/error states, no open redirect or private URL leakage       | Pending |
-| SHARE-01 | Useful share cards and reproducible public calculator inputs                                            | Actual preview/card inspection; no private notes/tokens in analytics or public URLs            | Pending |
-| SEO-01   | Restore brand identity and technical discoverability                                                    | Home canonical, WebSite/Organization IDs/logo, verified sameAs only, title/OG consistency      | Pending |
-| SEO-02   | Track branded discovery at 7/28/56 days and improve from real evidence                                  | Same-locale dated observations; GSC/AI reports marked unavailable when unavailable             | Pending |
-| QA-01    | Block duplicate heroes, missing critical evidence, wrong group totals, broken primary actions and leaks | Build guards, Playwright/axe CI, link audit, private fixture security checks                   | Pending |
-| QA-02    | Visually inspect every changed/new page at 320/390/768/1440 and relevant states                         | Coverage register, actual screenshots, defects fixed and rechecked                             | Pending |
-| QA-03    | Verify diverse traveler tasks and revise failed journeys repeatedly                                     | Independent simulated persona critiques plus real browser task evidence, clearly labeled       | Pending |
-| OPS-01   | Preserve export budgets, privacy, free quotas, recovery and actual release verification                 | Clean export report, stage restore, pushed commit == Cloudflare release, public health         | Pending |
+| AUD-01   | Inventory every public guide and route, media, outgoing/incoming links, content risk and relevance      | Timestamped private inventory; explicit hold/improve/merge/retire reasons                      | Verified scope |
+| MED-01   | Never reuse a hero original across different guides, including recrops/renames                          | Asset IDs/source URLs/hash guard; perceptual candidates visually reviewed                      | Verified scope |
+| MED-02   | Add relevant licensed real photographs and useful process visuals within the article                    | Per-image author/license/source/date/caption/focal point; visual relevance review              | Verified core40 |
+| CON-01   | Upgrade all 40 titles/intents to useful decisions, actions and exceptions                               | Claim-level primary evidence, units, check date, booking/navigation/fallback, per-guide record | Verified core40 |
+| CON-02   | Use five content formats: compare, place, itinerary, how-to, seasonal                                   | Appropriate visual structure; no generic text/stock-gallery padding                            | Verified core40 |
+| NAV-01   | Connect the traveler's next task, nearby options and failure alternatives                               | Contextual HTML links with a stated reason; no retired/broken references                       | Verified |
+| UI-01    | Implement the shared design specification across the site                                               | Desktop/mobile screenshots and accessibility/interaction review                                | Verified 40e7926 |
+| UI-02    | Make links, buttons, FAQ, menus, search, tables and maps usable                                         | Actual rendered anchor audit and state/keyboard/mobile checks                                  | Verified at release |
+| TOOL-01  | Strengthen budget, pass comparison and itinerary board                                                  | Arithmetic/eligibility/assumption tests and traveler task completion                           | Verified at release |
+| TOOL-02  | Embed airport decision helper, month checklist and rain alternatives in relevant guides                 | Contextual action; no false live-data promises; saved checklist state                          | Verified |
+| TOOL-03  | Suspend medical/military/diagnostic legacy calculations; review remaining fun tools                     | Preserved URL, noindex review notice, useful official next action                              | Verified |
+| PLAN-01  | Structured itinerary with dates/order/buffers/edit/save/reopen/import/export                            | Versioned data and v1 notes compatibility tests; stage share/revoke test                       | Verified at release |
+| AUTH-01  | Return to the original guide with question/correction draft after login                                 | Safe same-origin returnTo, expired/error states, no open redirect or private URL leakage       | Verified live |
+| SHARE-01 | Useful share cards and reproducible public calculator inputs                                            | Actual preview/card inspection; no private notes/tokens in analytics or public URLs            | Verified scope |
+| SEO-01   | Restore brand identity and technical discoverability                                                    | Home canonical, WebSite/Organization IDs/logo, verified sameAs only, title/OG consistency      | Verified live |
+| SEO-02   | Track branded discovery at 7/28/56 days and improve from real evidence                                  | Same-locale dated observations; GSC/AI reports marked unavailable when unavailable             | Active follow-up |
+| QA-01    | Block duplicate heroes, missing critical evidence, wrong group totals, broken primary actions and leaks | Build guards, Playwright/axe CI, link audit, private fixture security checks                   | Verified |
+| QA-02    | Visually inspect every changed/new page at 320/390/768/1440 and relevant states                         | Coverage register, actual screenshots, defects fixed and rechecked                             | Verified at release |
+| QA-03    | Verify diverse traveler tasks and revise failed journeys repeatedly                                     | Independent simulated persona critiques plus real browser task evidence, clearly labeled       | Verified scope |
+| OPS-01   | Preserve export budgets, privacy, free quotas, recovery and actual release verification                 | Clean export report, stage restore, pushed commit == Cloudflare release, public health         | Verified at release |
 
 Each guide record must identify URL, user question, primary answer, evidence, hero original, contextual visuals, next action, rendered-link check, viewport coverage and unresolved issues. Do not equate source validation, a passing build or a small screenshot sample with full-page usability.
 

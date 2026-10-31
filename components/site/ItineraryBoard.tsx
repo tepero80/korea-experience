@@ -624,7 +624,7 @@ export default function ItineraryBoard() {
             </section>
           ))}
           {removedStop ? (
-            <aside className="notice no-print" aria-label="Recently removed stop">
+            <aside className="stop-removal no-print" aria-label="Recently removed stop">
               <p role="status">Removed {removedStop.item.place} from this browser board.</p>
               <button
                 className="action-button"

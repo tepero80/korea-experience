@@ -71,6 +71,22 @@
   color: #31594f;
   overflow-wrap: anywhere;
 }
+.stop-removal {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin: 20px 0;
+  padding: 16px;
+  border: 1px solid var(--ke-line);
+  border-radius: 12px;
+  background: #fff;
+}
+.stop-removal p {
+  flex: 1 1 220px;
+  margin: 0;
+}
 .stop-editor h2 {
   margin: 0;
   font: 700 26px/1.3 var(--font-display);
