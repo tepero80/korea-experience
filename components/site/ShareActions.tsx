@@ -146,7 +146,13 @@ export default function ShareActions(props: Props) {
       c.font = '400 21px "KE Sans", Arial, sans-serif';
       if (props.checkedAt)
         c.fillText(`Checked ${props.checkedAt} · Conditions may change`, 80, canvas.height - 155);
-      c.fillText('Find the full guide and official sources:', 80, canvas.height - 110);
+      c.fillText(
+        props.kind === 'result'
+          ? 'Use the shared link to reopen these inputs:'
+          : 'Find the full guide and official sources:',
+        80,
+        canvas.height - 110,
+      );
       c.font = '400 23px "KE Sans", Arial, sans-serif';
       lines(c, props.url.replace('https://', ''), 80, canvas.height - 65, 920, 27, 2);
       const blob = await new Promise<Blob>((resolve, reject) =>

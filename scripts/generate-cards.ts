@@ -123,7 +123,12 @@ async function main() {
         top: 534,
       });
       layers.push({
-        input: await text(`Photo: ${credit.author} · ${credit.license}`, 13, 360, '#ffffff'),
+        input: await text(
+          `${credit.kind === 'illustration' ? 'Illustration' : credit.kind === 'video-still' ? 'Video still' : 'Photo'}: ${credit.author} · ${credit.license}`,
+          13,
+          360,
+          '#ffffff',
+        ),
         left: 820,
         top: 549,
       });
@@ -143,7 +148,11 @@ async function main() {
       sourceImage: post.image,
       credit,
       adaptation:
-        'Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card.',
+        credit?.kind === 'illustration'
+          ? 'Illustration contained in a social preview composition; it does not depict a real facility.'
+          : credit?.kind === 'video-still'
+            ? 'Cropped video still in a social preview composition. The source license also applies to the adapted card.'
+            : 'Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card.',
     };
   }
   fs.writeFileSync('data/card-credits.json', JSON.stringify(credits, null, 2) + '\n');

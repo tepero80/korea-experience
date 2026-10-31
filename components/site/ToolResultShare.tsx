@@ -22,7 +22,7 @@ export default function ToolResultShare({
       title={title}
       summary={summary}
       facts={facts}
-      category="Your travel calculation"
+      category="Your travel plan"
       url={url || 'https://koreaexperience.com/tools/' + slug}
       checkedAt={checkedAt}
     />

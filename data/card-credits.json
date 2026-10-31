@@ -1,7 +1,7 @@
 {
   "korea-experience": {
     "src": "/images/cards/korea-experience.jpg",
-    "fingerprint": "e927f8343b81556cacc599a60d585ca3a35cbb9c1f9614a0f9340ea2ee4aeed7",
+    "fingerprint": "7c7b87d22636b94d9a2b5ef1b8bc08b5b1f49747d3f3510e7f432a64ff908f85",
     "sourceImage": "/images/editorial/bukchon.webp",
     "credit": {
       "kind": "photograph",
@@ -16,7 +16,7 @@
   },
   "first-trip-to-korea-planning-guide": {
     "src": "/images/cards/first-trip-to-korea-planning-guide.jpg",
-    "fingerprint": "2bc93a843e3c4b18ca27d3fd29d2a3892e6c7c173b5bcafc27dd8a6d3b6a84bc",
+    "fingerprint": "2a482387d1205493bb7fd96c210f7b52915df5935d5a8cbffeee0f162e923204",
     "sourceImage": "/images/editorial/seoul-station-exterior-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -31,7 +31,7 @@
   },
   "best-time-to-visit-korea-month-by-month-weather": {
     "src": "/images/cards/best-time-to-visit-korea-month-by-month-weather.jpg",
-    "fingerprint": "500e783ac953f4ef8f063ac241fa3db2ab75de146330a6fa978e208bad68d924",
+    "fingerprint": "f7a528f21bca27dbeaabc5e1c0c0bc6bc93a2c74e0d0e7db72f97d50e0e37a05",
     "sourceImage": "/images/editorial/autumn-fortress-walk-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -46,7 +46,7 @@
   },
   "how-much-does-a-7-day-trip-to-korea-cost-in-2026-budget-vs-luxury-breakdown": {
     "src": "/images/cards/how-much-does-a-7-day-trip-to-korea-cost-in-2026-budget-vs-luxury-breakdown.jpg",
-    "fingerprint": "bb25f0cc5fd36c0cabfc1a30a12b088e4d5ecdfca4d67eed4e2b4e228a0c726f",
+    "fingerprint": "5f730da017dd9a789c8f7efab12c0dc1ff158dad95fb30a09490dd8e6103df87",
     "sourceImage": "/images/editorial/budget-units-illustration.svg",
     "credit": {
       "kind": "illustration",
@@ -57,11 +57,11 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial diagram. All costs are hypothetical inputs, not a survey or booking quote. The matching HTML budget example provides accessible units and calculations."
     },
-    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   },
   "korea-winter-packing-checklist": {
     "src": "/images/cards/korea-winter-packing-checklist.jpg",
-    "fingerprint": "f159b5a19c78f21ffda9120f4af65811911e0fcd54608ba4d44d21f4dac44a69",
+    "fingerprint": "0f07d404c6427c87df3b6acdfa410406c639b46e2af8601d867499a29733c209",
     "sourceImage": "/images/editorial/seoul-forest-snow-walk-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -76,7 +76,7 @@
   },
   "korea-trip-booking-checklist-eight-weeks": {
     "src": "/images/cards/korea-trip-booking-checklist-eight-weeks.jpg",
-    "fingerprint": "4069bf928691c6a8e64ee3e4731bcab2f132d3fa76ae738d26e4fba70a61a3e1",
+    "fingerprint": "db86aebe3e6f3f023afa59b48afbd41d5d545e7fade1a24adfa18dd9c1de0a7b",
     "sourceImage": "/images/editorial/incheon-air-seoul-checkin-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -91,7 +91,7 @@
   },
   "airport-limousine-bus-vs-arex-express-train": {
     "src": "/images/cards/airport-limousine-bus-vs-arex-express-train.jpg",
-    "fingerprint": "e258abaf61302d56f6ef30da0e9c8146ee311edbf4c4257844ebdb309965f465",
+    "fingerprint": "62aafa0645cd690bf3cee73c3ef32293610c0074551d05c97f034848bad6cc7d",
     "sourceImage": "/images/editorial/airport-concourse-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -106,7 +106,7 @@
   },
   "incheon-airport-late-night-arrival-guide": {
     "src": "/images/cards/incheon-airport-late-night-arrival-guide.jpg",
-    "fingerprint": "6f9649fbee4321f842790a40f6ccdd2e0a2d5f98cedc3c2e274d0cb3461ebd78",
+    "fingerprint": "9f86a41790d7a4d5753acf932bfe33f9fd9879450f3a9d7e6dc8308859692351",
     "sourceImage": "/images/editorial/incheon-6777-night-bus-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -121,7 +121,7 @@
   },
   "seoul-transit-climate-card-vs-tmoney-2026": {
     "src": "/images/cards/seoul-transit-climate-card-vs-tmoney-2026.jpg",
-    "fingerprint": "7607439a838085984bcc49c5f57945dd8456857a77b4058996c21c91694a40a2",
+    "fingerprint": "c6c54aab91fb5672ad5cd88a31d02c3db8e95f9751adf0c9428fb184a9590536",
     "sourceImage": "/images/editorial/soraepogu-card-reload-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -136,7 +136,7 @@
   },
   "ktx-vs-srt-high-speed-train-comparison-and-booking": {
     "src": "/images/cards/ktx-vs-srt-high-speed-train-comparison-and-booking.jpg",
-    "fingerprint": "d10c2727ba1791b76ff6f78da6c6dbcae9813c42614530b431cf89ff88930aa8",
+    "fingerprint": "4e7b542879856839b0abd230cadaf68c4f7f6683148339d299375c41b3424aab",
     "sourceImage": "/images/editorial/daejeon-ktx-i-2024-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -151,7 +151,7 @@
   },
   "luggage-storage-in-seoul-and-incheon-airport": {
     "src": "/images/cards/luggage-storage-in-seoul-and-incheon-airport.jpg",
-    "fingerprint": "fc55b455927f32e5318103bf672e9fe43372ddb65118e1a038e6d3475aa22579",
+    "fingerprint": "3bcd0d94f722d1dbf46e94035f1cdc2f754d38dabd53be72aa2f8dc1aa367d07",
     "sourceImage": "/images/editorial/seoul-subway-lockers-2013-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -166,7 +166,7 @@
   },
   "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style": {
     "src": "/images/cards/seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style.jpg",
-    "fingerprint": "531c91fee268fe62186a217777a4dda9901ab4f9e3e7b91ce700170804e94536",
+    "fingerprint": "554c71cae6ea1bd2d1471a096ac63a51716e489741e78a784aaf1d50490cc55c",
     "sourceImage": "/images/editorial/hotel-hongdae-street-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -181,7 +181,7 @@
   },
   "where-to-stay-in-busan-neighborhoods": {
     "src": "/images/cards/where-to-stay-in-busan-neighborhoods.jpg",
-    "fingerprint": "d77b27c42747053d7759aa10179a7277eeae8b2a51202a30ab9e6979e01d590a",
+    "fingerprint": "ad2930365626d09e2922040fbdb32f6cfa13b73c721200ee5a9402677b475391",
     "sourceImage": "/images/editorial/busan-base-haeundae-panorama-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -196,7 +196,7 @@
   },
   "booking-family-hotel-rooms-in-korea": {
     "src": "/images/cards/booking-family-hotel-rooms-in-korea.jpg",
-    "fingerprint": "a31d38d9a7059ec6e5a0e4d054c235b4d76108b89f17dee79398b6c4624dace2",
+    "fingerprint": "69f3610f6f8b9ad1cb7c672312abdae91d8fc61fd3c2cf293c61890d7fc03594",
     "sourceImage": "/images/editorial/family-room-occupancy-illustration.svg",
     "credit": {
       "kind": "illustration",
@@ -207,11 +207,11 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial diagram, not a hotel photograph. It does not claim a capacity for the depicted layout; verify the actual room policy and each child’s age with the property."
     },
-    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   },
   "hanok-stay-booking-checklist": {
     "src": "/images/cards/hanok-stay-booking-checklist.jpg",
-    "fingerprint": "e4ba373d7eb08a53f7aee6efc7888d7a945fd31cd6f72a5351183ec8cc65f8fd",
+    "fingerprint": "bf40618ed7919255a053021312416dea304a1ba7409a81907f89f2fadb408801",
     "sourceImage": "/images/editorial/hanok-historic-songaedang-exterior-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -226,7 +226,7 @@
   },
   "choosing-winter-accommodation-in-korea": {
     "src": "/images/cards/choosing-winter-accommodation-in-korea.jpg",
-    "fingerprint": "fdaee68253e0f6472a132a355b06102dfcfd9e1e8acef1fb81f6fa411e70463e",
+    "fingerprint": "13a8a7ba565b154193b5cfd314429bff8894f9fc9485169f5a292d0d7672bdc7",
     "sourceImage": "/images/editorial/winter-stay-seongsu-snowy-passage-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -241,7 +241,7 @@
   },
   "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026": {
     "src": "/images/cards/seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026.jpg",
-    "fingerprint": "28abb9dea6458ff188f3568d0d3375b204afa0f61fe50179aca2d3b6c1fa4ca5",
+    "fingerprint": "69f4f885fa58b864d710cb0e4961ecdc931d6d5a8c7513873c4629a38863116f",
     "sourceImage": "/images/editorial/seoul-geunjeongjeon-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -256,7 +256,7 @@
   },
   "seongsu-dong-dior-luxury-vs-market-eats-in-24-hours": {
     "src": "/images/cards/seongsu-dong-dior-luxury-vs-market-eats-in-24-hours.jpg",
-    "fingerprint": "902a192269bc15d698b5f3f7e594cd95100ab260ebcbdfa27050cec5ba9d832f",
+    "fingerprint": "ccbc39390f92336f0d37e7603bb32d7b5da7ec2105ad796e85de4d8f46038c78",
     "sourceImage": "/images/editorial/seongsu-halfday-street-june2026-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -271,7 +271,7 @@
   },
   "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices": {
     "src": "/images/cards/seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices.jpg",
-    "fingerprint": "a95bce7e6b4740c4fc173928b3e415bb5542b00288ff08edec4cb50f1dba33e4",
+    "fingerprint": "823079cb6285711a8f416e09dbc5b643e1471ecc7acb63ede4416be79eb2c3b5",
     "sourceImage": "/images/editorial/busan-weekend-ktx-platform-2014-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -286,7 +286,7 @@
   },
   "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets": {
     "src": "/images/cards/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets.jpg",
-    "fingerprint": "6db2fb935028a2d94d3b1c9d6b3e2d71f067feb61f73f93bdb5df684742632b9",
+    "fingerprint": "b6597a8889dae395a3fb5ec36865da40486766a8c681dd63937a06309f9481d7",
     "sourceImage": "/images/editorial/rainy-seoul-gwangjang-market-2020-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -301,7 +301,7 @@
   },
   "suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026": {
     "src": "/images/cards/suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026.jpg",
-    "fingerprint": "5e02a9b4c417ca55caf9191924007de31b40ff1b5cae16507edac6774f1e4e72",
+    "fingerprint": "a42386e1a9a8115fbc37e467625113d7c8231992bad8849ce061d969d6ccdb50",
     "sourceImage": "/images/editorial/suwon-daytrip-janganmun-gate-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -316,7 +316,7 @@
   },
   "how-to-order-food-in-korean-restaurants-phrases-guide-2026": {
     "src": "/images/cards/how-to-order-food-in-korean-restaurants-phrases-guide-2026.jpg",
-    "fingerprint": "89c0b18eea5e2fc639cf0b0681f73679fac541385e5f1d11f8002adf06de5df5",
+    "fingerprint": "356cb7a68e6ee4cc7d9041ec483ce3ae778bd391136fa3ae7dafd9868cd400e5",
     "sourceImage": "/images/editorial/seoul-bbq-table-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -331,7 +331,7 @@
   },
   "korean-barbecue-ordering-guide-cuts-portions-grills-and-shared-side-dishes": {
     "src": "/images/cards/korean-barbecue-ordering-guide-cuts-portions-grills-and-shared-side-dishes.jpg",
-    "fingerprint": "f163344e701451394e4e318babf09f86ae13fa2f2d1ccf0996cdc44465f34f70",
+    "fingerprint": "2fb98092846df6a0ff2e2e09ba419ab8a2ab689cb52ce11c775817d2dd126256",
     "sourceImage": "/images/editorial/exp-c-bbq-gridiron-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -346,7 +346,7 @@
   },
   "navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact": {
     "src": "/images/cards/navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact.jpg",
-    "fingerprint": "25122bcb12087ea307ca8b9a6ec3e3d264742c5fa9a1a83a454a39accbb182cc",
+    "fingerprint": "78d4f1efd65d9b8fe4b29f787d62fc38c39082cb6cb3ca4090f7094e61ea1047",
     "sourceImage": "/images/editorial/exp-c-paju-shared-dishes-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -361,7 +361,7 @@
   },
   "gwangjang-market-complete-food-guide": {
     "src": "/images/cards/gwangjang-market-complete-food-guide.jpg",
-    "fingerprint": "da3fc820778a36cc26319d5f1178f70e716ea0be273d0c1a8fce29afd967d06a",
+    "fingerprint": "d9f2d5dbdcd8910c3645e87f0dffc18acab0a213861655e2a8fc8a81f58406b9",
     "sourceImage": "/images/editorial/exp-c-gwangjang-entrance-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -376,7 +376,7 @@
   },
   "winter-food-and-tea-walk-insadong-seoul": {
     "src": "/images/cards/winter-food-and-tea-walk-insadong-seoul.jpg",
-    "fingerprint": "5d75ab31cfa973285b58b288ba0ef4d5c0e816b89987623072c22b24e81b5096",
+    "fingerprint": "59d8a8e41524dd553b6364d1ed09fbb2c84a72151537cb7cddad37163452e6dc",
     "sourceImage": "/images/editorial/exp-c-insadong-tea-tray-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -391,7 +391,7 @@
   },
   "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam": {
     "src": "/images/cards/seoul-shopping-districts-complete-guide-myeongdong-to-gangnam.jpg",
-    "fingerprint": "21e72f8a63e0eb7951d9ec74369aa224603131540fe2333627bba277cdb366cd",
+    "fingerprint": "7fecb543de5c53b26c61a588721ed37bd8e7873dd047823a946c5efbe59f0159",
     "sourceImage": "/images/editorial/shopping-namdaemun-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -406,7 +406,7 @@
   },
   "olive-young-must-buys-2026": {
     "src": "/images/cards/olive-young-must-buys-2026.jpg",
-    "fingerprint": "d4d2d36f154bccd3a9f0d3ffb7f3c1c3ffa9722409c8b8c70232e55c8da1febc",
+    "fingerprint": "b90fec9484620ac58fc1adc090bd3a2f8f237f735069ae3210e132c30170dfab",
     "sourceImage": "/images/editorial/exp-c-olive-young-checkout-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -421,7 +421,7 @@
   },
   "tax-refund-for-tourists-how-to-claim": {
     "src": "/images/cards/tax-refund-for-tourists-how-to-claim.jpg",
-    "fingerprint": "d44626b889f70a3f82227fdcb3ce59039b8318fa3949a71572fa501294216678",
+    "fingerprint": "0947291f5b4bbbfe6ba0d15270deed532c9a6842021414032a25145f9cae90ba",
     "sourceImage": "/images/editorial/exp-c-tax-refund-kiosks-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -436,7 +436,7 @@
   },
   "insadong-traditional-crafts-and-souvenirs": {
     "src": "/images/cards/insadong-traditional-crafts-and-souvenirs.jpg",
-    "fingerprint": "ecd55958e1ede2ad8cd4b9e6150b5b7c7fd21f8181fb0c082365121915396fe2",
+    "fingerprint": "21ace174bf9690a4e56af11f82cc1796449f6b81fbd72dc8fa4689d497a6825a",
     "sourceImage": "/images/editorial/exp-c-insadong-junction-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -451,7 +451,7 @@
   },
   "packing-korean-shopping-liquids-and-souvenirs-for-your-flight": {
     "src": "/images/cards/packing-korean-shopping-liquids-and-souvenirs-for-your-flight.jpg",
-    "fingerprint": "9949d2a925be3385e2261b8a808271b53ef82a8985405f4783672f39e9c4e85d",
+    "fingerprint": "eeed5dd4d775afd2abbcce233fdd58b97a055aa2ab17fe5acfd1c2c28e949881",
     "sourceImage": "/images/editorial/exp-c-airport-luggage-carts-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -466,7 +466,7 @@
   },
   "choosing-korean-cultural-experiences-reservations-and-walk-in-options": {
     "src": "/images/cards/choosing-korean-cultural-experiences-reservations-and-walk-in-options.jpg",
-    "fingerprint": "68c3a2f5d278d3bbb914fa0d3e0de8c6d4a149eed6bf432c19c21ac67e2d7152",
+    "fingerprint": "b7c203ecf651a7401c33d69eb03212b035d06fbb768a4a14add8e0887d65c911",
     "sourceImage": "/images/editorial/culture-namsangol-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -481,7 +481,7 @@
   },
   "palace-starlight-night-tours-2026": {
     "src": "/images/cards/palace-starlight-night-tours-2026.jpg",
-    "fingerprint": "9a920850048d9f24b18b27d6208fa044bdd5b6fe7ccf6b6dc8d6cc99f6ca1317",
+    "fingerprint": "06eb47ca75ba1992b9ac56f0c3e040dbfccd2946bb0ce771b7409f3440966bd9",
     "sourceImage": "/images/editorial/exp-c-gwanghwamun-night-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -496,7 +496,7 @@
   },
   "hanbok-rental-complete-guide-styles-and-pricing": {
     "src": "/images/cards/hanbok-rental-complete-guide-styles-and-pricing.jpg",
-    "fingerprint": "172557f47567154132a1115c9083c98fc942abb89a6f9dc782053328034007ee",
+    "fingerprint": "3b3c8eba7a81377bbaceeb05e2111c4d61c79351a94e8664cbd74354d1a466e9",
     "sourceImage": "/images/editorial/exp-c-hanbok-palace-pond-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -511,7 +511,7 @@
   },
   "how-to-get-k-pop-concert-tickets-ticketing-guide": {
     "src": "/images/cards/how-to-get-k-pop-concert-tickets-ticketing-guide.jpg",
-    "fingerprint": "bbf5cd51e4ebe35e42d27269d4e5a2e5836d596869a6daf5f47c690d1433db25",
+    "fingerprint": "372c333d3030af69494659c223946d4bff08dd374996c8e9f32a0000059b2ade",
     "sourceImage": "/images/editorial/exp-c-kspo-historical-concert-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -526,7 +526,7 @@
   },
   "seoul-museums-and-exhibitions-planning-guide": {
     "src": "/images/cards/seoul-museums-and-exhibitions-planning-guide.jpg",
-    "fingerprint": "4f8b85a32198443b67d2d0ee326b9324e4f9aaa1e32f7749e472668c8aae6cf5",
+    "fingerprint": "a8f7863fbd7c77c28c879b2238c72afe4f8af5b81921a87adf7c9d3cac2be953",
     "sourceImage": "/images/editorial/exp-c-nmk-exterior-plaza-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -541,7 +541,7 @@
   },
   "korea-travel-problem-solving-guide": {
     "src": "/images/cards/korea-travel-problem-solving-guide.jpg",
-    "fingerprint": "1545287356e45b357e6e698eef2bda7eaf1e2c2a28973cb74bab2ee1436060b3",
+    "fingerprint": "ca1d90eb2e46498b4e5cf142a9ab803497ad89ed108553a2c6c68cc8fff623c4",
     "sourceImage": "/images/editorial/essentials-seoul-station-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -556,7 +556,7 @@
   },
   "esim-vs-usim-vs-portable-wi-fi-2026": {
     "src": "/images/cards/esim-vs-usim-vs-portable-wi-fi-2026.jpg",
-    "fingerprint": "f81e18cc2bdd9dcf084deb16f09732b076494c50cb5860661683ce1f63fb3a9e",
+    "fingerprint": "9b7b3ffa341e4a4f21036a5906d311eaecc541cafc3b5f0c3f9a8fdd46c04b1a",
     "sourceImage": "/images/editorial/exp-c-phone-hardware-still-1280.webp",
     "credit": {
       "kind": "video-still",
@@ -567,11 +567,11 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
       "note": "Video frame dated 2024-01-17. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
     },
-    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+    "adaptation": "Cropped video still in a social preview composition. The source license also applies to the adapted card."
   },
   "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options": {
     "src": "/images/cards/foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options.jpg",
-    "fingerprint": "0c2c462e75d72a79014f4cf244fa60a4d704d0a89474130e6491a684778fedb5",
+    "fingerprint": "260a0f3daf262cfa59ae71c2a82bc6ce19a70cc7088946d12b0fe3db1a932b8a",
     "sourceImage": "/images/editorial/exp-c-atm-idle-menu-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -586,7 +586,7 @@
   },
   "how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026": {
     "src": "/images/cards/how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026.jpg",
-    "fingerprint": "49edb07731437a7cd93d2e5c709241fe72e9d06b8836044903cf134749d0f06d",
+    "fingerprint": "6423fe058ddef3842b5dab2fc479c2d52d8d95c36758b35ed250584222c70acf",
     "sourceImage": "/images/editorial/exp-c-naksan-korean-place-sign-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -601,7 +601,7 @@
   },
   "korean-pharmacies-otc-meds-tourists-2026": {
     "src": "/images/cards/korean-pharmacies-otc-meds-tourists-2026.jpg",
-    "fingerprint": "5026a211c39ce2ec3e7cb125ee07b207bbca68d242aa623736b849d86819912e",
+    "fingerprint": "c6d989c5f13f1daf4bd673741c958c0f55c0c49ed8d8657ba89e338a4a831899",
     "sourceImage": "/images/editorial/exp-c-pharmacy-retail-interior-1280.webp",
     "credit": {
       "kind": "photograph",

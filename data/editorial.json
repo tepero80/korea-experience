@@ -799,7 +799,7 @@
     ],
     "shareFacts": [
       "Check the exact departure station, destination, train and passenger details.",
-      "Use the operator's current booking flow; this guide does not confirm release windows.",
+      "Use the current operator form; a timetable or pending payment is not a confirmed ticket.",
       "Save your ticket and cancellation instructions offline before traveling."
     ],
     "launchOrder": 9,
@@ -890,7 +890,7 @@
     ],
     "shareFacts": [
       "Choose collection time and bag dimensions before the nearest locker.",
-      "T-Luggage delivery needs a staffed counter at at least one end.",
+      "Locker storage and staffed T-Luggage are different products; check the actual handoff and pickup rules.",
       "Protect your pickup deadline and keep travel documents and essentials with you."
     ],
     "launchOrder": 10,
@@ -2045,7 +2045,7 @@
     "shareFacts": [
       "Ask about solo dining or minimum portions before joining a queue.",
       "Compare meat by the stated gram quantity and confirm extra charges.",
-      "Keep raw-meat utensils separate and ask staff for cooking help when needed."
+      "Ask who cooks and follow staff instructions for the grill; do not assume cooking service is included."
     ],
     "launchOrder": 22,
     "changeType": "rewrite",
@@ -2506,7 +2506,7 @@
     "shareFacts": [
       "Prepare exact product names, variants and sizes before entering a store.",
       "OLIVE YOUNG Global benefits do not automatically apply at Korean stores.",
-      "Check domestic checkout prices, skin compatibility and flight liquid limits."
+      "Compare local checkout conditions, container sizes and flight packing rules before paying."
     ],
     "launchOrder": 27,
     "changeType": "rewrite",
@@ -2646,7 +2646,7 @@
       }
     ],
     "shareFacts": [
-      "Use Insadong for a focused craft browse and Namdaemun as a separate market block.",
+      "Keep one Insadong browsing block; confirm maker, material and packing before buying.",
       "Ask about maker, materials, portability and destination import rules.",
       "Buy bulky items near the end and keep receipts and packing time."
     ],
@@ -3189,7 +3189,7 @@
       }
     ],
     "shareFacts": [
-      "Choose the exact branch and exhibition, then check fees, closure and last entry.",
+      "Choose the museum, building and session; check admission, closure and last entry.",
       "Free permanent admission does not establish every exhibition is free.",
       "Allow a nearby meal/rest block and confirm children's or workshop reservations."
     ],

@@ -12,7 +12,7 @@ export function cardFingerprint(
   return createHash('sha256')
     .update(
       JSON.stringify({
-        version: 4,
+        version: 5,
         title: post.title,
         excerpt: post.excerpt,
         category: post.category,
