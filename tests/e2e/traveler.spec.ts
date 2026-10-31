@@ -371,3 +371,25 @@ test('a question draft survives a new page view without entering the sign-in URL
   await expect(login).toHaveAttribute('href', /returnTo=/);
   expect(await login.getAttribute('href')).not.toContain('Fixture');
 });
+
+test('older guides stay optional while their real links remain keyboard accessible', async ({
+  page,
+}, testInfo) => {
+  await page.goto('/blog/category/culture-events');
+  const archive = page.locator('.archive-list details');
+  const firstLink = archive.getByRole('link').first();
+  await expect(firstLink).toBeHidden();
+  await archive.locator('summary').press('Enter');
+  await expect(firstLink).toBeVisible();
+  await expect(firstLink).toHaveAttribute('href', /^\/blog\//);
+  await capturePage(page, testInfo, 'archive-expanded');
+  await archive.locator('summary').press('Enter');
+  await expect(firstLink).toBeHidden();
+  await page.goto('/destinations/seoul');
+  await expect(page.locator('.guide-grid .guide-card')).toHaveCount(6);
+  const more = page.locator('.destination-directory');
+  await expect(more.getByRole('link').first()).toBeHidden();
+  await more.locator('summary').click();
+  await expect(more.getByRole('link').first()).toBeVisible();
+  await capturePage(page, testInfo, 'destination-expanded');
+});

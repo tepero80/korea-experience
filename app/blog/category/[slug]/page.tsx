@@ -116,15 +116,18 @@ export default async function Hub({ params }: { params: Params }) {
             These earlier articles are awaiting the new editorial review. Confirm current details
             with the official operator.
           </p>
-          <ul>
-            {archive.map((p) => (
-              <li key={p.id}>
-                <Link href={`/blog/${p.slug}`}>
-                  {p.title} <span aria-hidden="true">↗</span>
-                </Link>
-              </li>
-            ))}
-          </ul>
+          <details className="guide-directory" open={!reviewed.length}>
+            <summary>Browse {archive.length} earlier guides</summary>
+            <ul>
+              {archive.map((p) => (
+                <li key={p.id}>
+                  <Link href={`/blog/${p.slug}`}>
+                    {p.title} <span aria-hidden="true">↗</span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </details>
         </section>
       ) : null}
     </div>

@@ -692,6 +692,7 @@ button:disabled {
   background: #f0f7f4;
 }
 .tools-feature h3,
+.category-grid h2,
 .category-grid h3,
 .season-grid h3 {
   font-family: var(--font-display);
@@ -706,6 +707,7 @@ button:disabled {
 .category-grid > a {
   border-radius: 14px;
 }
+.category-grid h2,
 .category-grid h3 {
   font-size: 20px;
   line-height: 1.4;
@@ -1127,4 +1129,43 @@ button:disabled {
 .footer-brand {
   font-family: var(--font-display);
   font-weight: 700;
+}
+.guide-directory > summary {
+  cursor: pointer;
+  min-height: 48px;
+  padding: 12px 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: var(--ke-amber);
+  text-decoration: underline;
+  text-underline-offset: 4px;
+}
+.guide-directory ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 300px), 1fr));
+  gap: 0 28px;
+}
+.guide-directory li {
+  border-bottom: 1px solid var(--ke-line);
+}
+.guide-directory li a {
+  display: block;
+  padding: 14px 0;
+  min-height: 44px;
+  font-size: 17px;
+  line-height: 1.5;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.destination-directory {
+  margin: 32px 0;
+  border-block: 1px solid var(--ke-line);
+}
+.destination-directory li a > span {
+  display: block;
+  font-size: 13px;
+  color: var(--ke-muted);
+  margin-bottom: 6px;
 }
