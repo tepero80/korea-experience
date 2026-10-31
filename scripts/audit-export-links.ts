@@ -22,6 +22,7 @@ type Page = {
   rawMarkdown: string[];
   duplicateIds: string[];
   unrenderedComponents: string[];
+  titleHeadings: number;
 };
 const pages = new Map<string, Page>();
 for (const file of files) {
@@ -42,9 +43,11 @@ for (const file of files) {
     rawMarkdown: [],
     duplicateIds: [],
     unrenderedComponents: [],
+    titleHeadings: 0,
   };
   const walk = (node: Tree.Node, skipText = false) => {
     if ('tagName' in node) {
+      if (node.tagName === 'h1') page.titleHeadings++;
       if (['experttip', 'statcard', 'locationcard', 'pricetable'].includes(node.tagName))
         page.unrenderedComponents.push(node.tagName);
       const attrs = Object.fromEntries(node.attrs.map((a) => [a.name, a.value]));
@@ -88,6 +91,12 @@ const resolve = (pathname: string) => {
   return target;
 };
 for (const p of pages.values()) {
+  if (/^\/blog\/[^/]+$/.test(p.url) && p.titleHeadings !== 1)
+    errors.push({
+      page: p.url,
+      type: 'article-title-heading-count',
+      target: String(p.titleHeadings),
+    });
   for (const [kind, targets] of [
     ['link', p.links],
     ['image', p.images],

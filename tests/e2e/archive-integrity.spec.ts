@@ -28,14 +28,16 @@ if (shard) {
         });
       }
       await page.evaluate(() => {
-        window.scrollTo(0, 0);
+        window.scrollTo({ top: 0, behavior: 'instant' });
         return document.fonts.ready;
       });
+      await expect.poll(() => page.evaluate(() => scrollY)).toBe(0);
       const measured = await page.evaluate(() => ({
         width: innerWidth,
         height: innerHeight,
         contentWidth: document.documentElement.scrollWidth,
         documentHeight: document.documentElement.scrollHeight,
+        scrollY,
       }));
       await page.screenshot({
         path: info.outputPath('archive.jpg'),
