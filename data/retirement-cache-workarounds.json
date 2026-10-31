@@ -10,5 +10,17 @@
     "observedAt": "2026-10-31",
     "reviewAfter": "2026-11-08",
     "reason": "Custom domains returned a cached 200 for the Pages 404 despite targeted invalidation and purge."
+  },
+  {
+    "slug": "stem-cell-regenerative-medicine-2026",
+    "observedAt": "2026-10-31",
+    "reviewAfter": "2026-11-08",
+    "reason": "The custom domain served a cached 200 with the old article while the deployed Pages URL returned 404."
+  },
+  {
+    "slug": "recovery-in-a-hanok-2026",
+    "observedAt": "2026-10-31",
+    "reviewAfter": "2026-11-08",
+    "reason": "The custom domain served a cached 200 with the old article while the deployed Pages URL returned 404."
   }
 ]

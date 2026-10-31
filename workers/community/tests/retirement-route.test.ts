@@ -57,6 +57,16 @@ test('only recorded removed URLs get a genuine no-store 404 without forwarding p
     await retiredResponse(new Request(request.url, { method: 'POST' }), fakeFetch as typeof fetch),
     null,
   );
+  for (const item of workarounds) {
+    const url = `https://koreaexperience.com/blog/${item.slug}?private=fixture`;
+    const get = await retiredResponse(new Request(url), fakeFetch as typeof fetch);
+    assert.equal(get?.status, 404);
+    assert.equal(get?.headers.get('cache-control'), 'no-store');
+    assert.equal(seen, `https://korea-experience.pages.dev/blog/${item.slug}`);
+    const head = await retiredResponse(new Request(url, { method: 'HEAD' }), fakeFetch as typeof fetch);
+    assert.equal(head?.status, 404);
+    assert.equal(await head?.text(), '');
+  }
 });
 
 test('a missing Pages origin still returns an honest 404 and a path to current guides', async () => {
