@@ -703,5 +703,20 @@
       "note": "Original editorial contact diagram. Not an app screenshot, map or guarantee of service availability. Numbers and context are also given in the article."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "gluten-free-dining-in-korea-celiac-safe-options": {
+    "src": "/images/cards/gluten-free-dining-in-korea-celiac-safe-options.jpg",
+    "fingerprint": "acb6f090d4f969e5a9e92f18c9819441a152a07c940036d390fa334a9cd76987",
+    "sourceImage": "/images/editorial/celiac-planning-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Celiac dining planning questions",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#celiac-planning-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial checklist diagram; no food, restaurant or preparation is certified safe. The questions are also available in the article text."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

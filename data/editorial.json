@@ -4343,5 +4343,92 @@
     "heroCaption": "Illustrated contact reminder, not an app screenshot or a substitute for emergency responders.",
     "cardImageLabel": "Emergency contact reminder",
     "experienceVersion": 2
+  },
+  "gluten-free-dining-in-korea-celiac-safe-options": {
+    "id": "guide:gluten-free-dining-in-korea-celiac-safe-options",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-10-31",
+    "answer": "Ask about every ingredient and shared preparation, and have a backup if the kitchen cannot confirm. This guide cannot certify any restaurant or dish as safe.",
+    "forWhom": "Travelers managing celiac disease or a strict gluten-free diet",
+    "conditions": [
+      "Use individualized advice from your clinician and a reviewed translation.",
+      "Labels and restaurant answers do not guarantee a meal is suitable for your needs."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "food"
+    ],
+    "relations": [
+      {
+        "slug": "navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact",
+        "type": "next",
+        "label": "Plan other dietary needs",
+        "reason": "Review general communication and restaurant-planning questions for different restrictions."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "mfds",
+        "title": "Korea Ministry of Food and Drug Safety: food labeling",
+        "url": "https://www.mfds.go.kr/eng/wpge/m_14/denofile.do",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "coeliac-grains",
+        "title": "Coeliac UK: grains",
+        "url": "https://www.coeliac.org.uk/grains/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "coeliac-travel",
+        "title": "Coeliac UK: traveling with coeliac disease",
+        "url": "https://www.coeliac.org.uk/living-with-coeliac-disease/food-and-drink/eating-out-and-travel/travelling-with-coeliac-disease/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "cdf-dining",
+        "title": "Celiac Disease Foundation: dining and social eating",
+        "url": "https://celiac.org/dining-and-social-eating/",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "kto-emergency",
+        "title": "Korea Tourism Organization: emergency contacts",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "kto-1330",
+        "title": "Korea Tourism Organization: travel helpline",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=454&vcontsId=140632",
+        "checkedAt": "2026-10-31"
+      }
+    ],
+    "shareFacts": [
+      "Ask about ingredients and shared preparation.",
+      "Use a backup when the kitchen cannot confirm."
+    ],
+    "launchOrder": 47,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Celiac dining planning questions",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#celiac-planning-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial checklist diagram; no food, restaurant or preparation is certified safe. The questions are also available in the article text."
+    },
+    "heroMediaId": "celiac-planning-illustration",
+    "heroCaption": "Illustrated planning questions; no food or restaurant is certified by this guide.",
+    "cardImageLabel": "Dining questions",
+    "experienceVersion": 2
   }
 }

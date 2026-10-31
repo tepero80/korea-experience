@@ -1457,5 +1457,24 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial contact diagram. Not an app screenshot, map or guarantee of service availability. Numbers and context are also given in the article."
     }
+  },
+  {
+    "id": "celiac-planning-illustration",
+    "src": "/images/editorial/celiac-planning-illustration.svg",
+    "width": 1280,
+    "height": 853,
+    "originalId": "korea-experience-editorial-celiac-planning-v1",
+    "originalHash": "6324d2ab5911d05e9958a78f082b9cc0571c357154734ed82a4678a1fc1b0e9e",
+    "checkedAt": "2026-10-31",
+    "alt": "Illustrated checklist: ask about ingredients, ask about shared preparation and use a backup when answers are unclear",
+    "credit": {
+      "kind": "illustration",
+      "title": "Celiac dining planning questions",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#celiac-planning-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial checklist diagram; no food, restaurant or preparation is certified safe. The questions are also available in the article text."
+    }
   }
 ]
