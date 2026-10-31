@@ -17,3 +17,7 @@ const registry = new Map((data as EditorialMedia[]).map((m) => [m.id, m]));
 export function mediaFor(id?: string) {
   return id ? registry.get(id) : undefined;
 }
+
+export function mediaForSource(src?: string) {
+  return src ? (data as EditorialMedia[]).find((m) => m.src === src) : undefined;
+}

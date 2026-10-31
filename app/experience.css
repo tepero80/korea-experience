@@ -1120,3 +1120,11 @@ button:disabled {
     transform: none;
   }
 }
+
+.section-title,
+.document-page h2,
+.document-page h3,
+.footer-brand {
+  font-family: var(--font-display);
+  font-weight: 700;
+}

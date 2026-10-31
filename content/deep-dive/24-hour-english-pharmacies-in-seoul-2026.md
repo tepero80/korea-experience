@@ -8,7 +8,7 @@ category: Medical Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 43
-image: /images/24-hour-english-pharmacies-in-seoul.webp
+image: /images/editorial/pharmacy-opening-check.webp
 updated: '2026-10-31'
 ---
 **Do not travel to a pharmacy on the assumption that an old article proves it is open 24 hours or has English service.** Check the current date, location and service directly. For a life-threatening emergency in Korea, call **119** and request interpretation; do not delay emergency help to find a shop.

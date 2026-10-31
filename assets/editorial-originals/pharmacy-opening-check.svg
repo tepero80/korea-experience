@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720">
+  <rect width="1200" height="720" fill="#f2f7f4"/>
+  <rect width="1200" height="12" fill="#086b66"/>
+  <g font-family="Arial, sans-serif" fill="#163632">
+    <text x="64" y="90" font-size="22" font-weight="700" fill="#086b66">KOREA EXPERIENCE · PHARMACY CHECK</text>
+    <text x="64" y="169" font-size="52" font-weight="700">Open tonight? Confirm first.</text>
+    <text x="64" y="218" font-size="26">An old listing cannot confirm today's hours, language or stock.</text>
+    <g fill="#fff" stroke="#cadcd5">
+      <rect x="64" y="282" width="336" height="270" rx="18"/>
+      <rect x="432" y="282" width="336" height="270" rx="18"/>
+      <rect x="800" y="282" width="336" height="270" rx="18"/>
+    </g>
+    <g font-size="48" font-weight="700" fill="#086b66">
+      <text x="94" y="351">01</text><text x="462" y="351">02</text><text x="830" y="351">03</text>
+    </g>
+    <g font-size="28" font-weight="700">
+      <text x="94" y="409">Find the pharmacy</text><text x="462" y="409">Confirm directly</text><text x="830" y="409">Bring the details</text>
+    </g>
+    <g font-size="23">
+      <text x="94" y="457">Use the current</text><text x="94" y="490">duty-pharmacy directory.</text>
+      <text x="462" y="457">Check today's closing</text><text x="462" y="490">time and useful entrance.</text>
+      <text x="830" y="457">Medicine names,</text><text x="830" y="490">packaging or photographs.</text>
+    </g>
+    <text x="64" y="627" font-size="29" font-weight="700">Life-threatening emergency? Call 119 and request interpretation.</text>
+    <text x="64" y="675" font-size="21" fill="#546c68">Editorial illustration · Not a pharmacy photograph, opening guarantee or treatment advice.</text>
+  </g>
+</svg>

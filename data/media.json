@@ -1270,5 +1270,45 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Photographed 2024-11-22. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
     }
+  },
+  {
+    "id": "tourist-help-choice",
+    "src": "/images/editorial/tourist-help-choice.webp",
+    "width": 1200,
+    "height": 720,
+    "originalId": "korea-experience-editorial-tourist-help-choice-v1",
+    "originalHash": "cf1ca94e65acdd8c4d1cb11e0105aef4149ec30ad7189a88906cd138e72a2e8c",
+    "checkedAt": "2026-10-31",
+    "alt": "Illustration: 1330 is for tourist information and interpretation; use 112 for police and 119 for ambulance or fire in an emergency",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Tourist help and emergency contact choices",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#tourist-help-choice",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial contact diagram, not a photograph. The article contains the equivalent accessible HTML and official sources. No current opening, language availability or medical treatment is implied."
+    }
+  },
+  {
+    "id": "pharmacy-opening-check",
+    "src": "/images/editorial/pharmacy-opening-check.webp",
+    "width": 1200,
+    "height": 720,
+    "originalId": "korea-experience-editorial-pharmacy-opening-check-v1",
+    "originalHash": "f40841274bf453fd12a5e13743d0d95dce136ffdd24f8ecaf433ba4e7d66e6a0",
+    "checkedAt": "2026-10-31",
+    "alt": "Illustration: find the current pharmacy, confirm opening directly and bring medicine information; for a life-threatening emergency call 119",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Check actual pharmacy opening before traveling",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#pharmacy-opening-check",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial contact diagram, not a photograph. The article contains the equivalent accessible HTML and official sources. No current opening, language availability or medical treatment is implied."
+    }
   }
 ]

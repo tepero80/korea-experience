@@ -14,7 +14,7 @@ import PhotoCredit from '@/components/site/PhotoCredit';
 import AdSlot from '@/components/site/AdSlot';
 import GuideCommunity from '@/components/site/GuideCommunity';
 import GuideSignals from '@/components/site/GuideSignals';
-import { mediaFor } from '@/lib/media';
+import { mediaFor, mediaForSource } from '@/lib/media';
 type Params = Promise<{ slug: string }>;
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -37,7 +37,7 @@ export default async function Guide({ params }: { params: Params }) {
   if (!post) notFound();
   const e = post.editorial;
   const compiled = await compileGuideContent(post.content);
-  const hero = mediaFor(e?.heroMediaId);
+  const hero = mediaFor(e?.heroMediaId) || mediaForSource(post.image);
   const related = getRelatedPosts(post.slug, 3);
   const places = placesFor(e?.placeIds || []);
   const tools = PRACTICAL_TOOLS.filter((t) => e?.tools.includes(t.href.split('/').pop()!));
@@ -185,8 +185,8 @@ export default async function Guide({ params }: { params: Params }) {
               />
               <figcaption>
                 {e?.heroCaption ? <p className="hero-caption">{e.heroCaption}</p> : null}
-                <PhotoCredit credit={e?.imageCredit} />
-                {!e?.imageCredit ? (
+                <PhotoCredit credit={e?.imageCredit || hero?.credit} />
+                {!e?.imageCredit && !hero?.credit ? (
                   <p className="photo-credit">
                     Archive cover: its origin and accuracy as a real view of this place have not
                     been verified.

@@ -8,7 +8,7 @@ category: travel-essentials
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 88
-image: /images/1330-travel-helpline-8-languages.webp
+image: /images/editorial/tourist-help-choice.webp
 updated: '2026-10-31'
 ---
 
