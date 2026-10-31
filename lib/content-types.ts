@@ -13,7 +13,7 @@ export interface GuideRelation {
   reason: string;
 }
 export interface MediaCredit {
-  kind: 'photograph' | 'illustration';
+  kind: 'photograph' | 'illustration' | 'video-still';
   title?: string;
   author?: string;
   sourceUrl?: string;
@@ -61,6 +61,9 @@ export interface Place {
   nearestStation?: string;
   image?: string;
   addressSource?: string;
+  visitorUrl?: string;
+  accessibilityNote?: string;
+  accessibilityUrl?: string;
 }
 export interface Retirement {
   slug: string;

@@ -20,6 +20,10 @@ export default function BlogCard({
             srcSet={media?.srcSet}
             sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1000px) 45vw, 400px"
             alt=""
+            style={{
+              objectPosition: media?.focal,
+              objectFit: media?.credit.kind === 'illustration' ? 'contain' : 'cover',
+            }}
             width="960"
             height="640"
             loading={priority ? 'eager' : 'lazy'}

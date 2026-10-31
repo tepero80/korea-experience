@@ -5,6 +5,7 @@ import rehypeSlug from 'rehype-slug';
 import remarkGfm from 'remark-gfm';
 import { TourCard } from './affiliate/TourCard';
 import GuidePhoto from './site/GuidePhoto';
+import TripHelper from './site/TripHelper';
 
 // Original MDX Components
 import ImageGallery from './mdx/ImageGallery';
@@ -31,6 +32,7 @@ import FAQAccordion from './mdx/FAQAccordion';
 // Custom components for MDX
 const components = {
   GuidePhoto,
+  TripHelper,
   // Headings with anchor links
   h1: (props: any) => <h1 className="text-4xl font-bold text-gray-900 mb-6 mt-8" {...props} />,
   h2: (props: any) => (

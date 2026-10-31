@@ -59,8 +59,10 @@ export default function Privacy() {
       <p>
         Posts, replies and updates are reviewed before publication. Your display name appears with
         approved contributions. Private plans remain private until you deliberately create a shared
-        link. Anyone holding that link can read the shared plan; revoking it disables the old link.
-        Avoid sharing personal information in a public contribution.
+        link. The preview lets you choose whether to include notes, exact addresses and dates; these
+        are excluded by default. Anyone holding the link can read the selected snapshot. Later
+        private edits do not change it, and revoking the link disables access. Avoid sharing
+        personal information in a public contribution.
       </p>
       <h2>Deletion and retention</h2>
       <p>

@@ -90,10 +90,12 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
       ],
     });
     planData.startDate = '2026-11-02';
+    let planTitle = 'Private test plan';
     const sharing = () => ({
       includeNotes: false,
       includeAddresses: false,
       includeDates: false,
+      expectedTitle: planTitle,
       expectedData: JSON.stringify(planData),
     });
     r = await request('/api/plans', 'POST', {
@@ -117,6 +119,15 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
       404,
     );
     assert.equal((await request('/api/plans/' + plan.id + '/share', 'POST', {})).status, 400);
+    assert.equal(
+      (
+        await request('/api/plans/' + plan.id + '/share', 'POST', {
+          ...sharing(),
+          expectedTitle: 'Unreviewed title',
+        })
+      ).status,
+      409,
+    );
     r = await request('/api/plans/' + plan.id + '/share', 'POST', sharing());
     assert.equal(r.status, 200);
     const share = (await r.json()) as any;
@@ -148,6 +159,7 @@ test('D1 ownership, duplicate reactions, moderation, public-share revocation and
       (await request('/api/plans/' + plan.id + '/share', 'POST', staleSharing)).status,
       409,
     );
+    planTitle = 'Later private title';
     const replacement = (await (
       await request('/api/plans/' + plan.id + '/share', 'POST', sharing())
     ).json()) as any;

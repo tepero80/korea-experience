@@ -1,84 +1,51 @@
 ---
-title: A Seven-Day Korea Budget You Can Change
+title: 'A Seven-Day Korea Budget: Count Rooms, Nights and People Correctly'
 date: '2026-02-04'
 updated: '2026-10-31'
 excerpt: >-
-  Calculate rooms × nights and spending × travelers × days; keep flights,
-  shopping and a contingency visible.
+  Use a transparent two-person example, then replace each assumption with your
+  own room quote and spending choices.
 category: plan-your-trip
-image: /images/editorial/seoul-cafe.webp
+image: /images/editorial/budget-units-illustration.svg
 author: Korea Experience Editorial
 tags:
   - seoul
   - planning
 draft: false
 ---
+**A useful budget starts with the units, not a single “Korea costs this much” number.** The example below is for **two travelers, seven spending days, six accommodation nights and one shared room**. Every price input is hypothetical and editable.
 
-For two people, seven days and six nights, a hypothetical ₩120,000 room is ₩720,000 in total. Hypothetical food at ₩35,000 each per day adds ₩490,000. Those two lines already total ₩1,210,000 before transport, activities, shopping, flights or insurance. Replace both inputs with your own quotes.
+## Work through one complete example
 
-## Define people, nights and inclusions first
+| Item | Example calculation | Whole-party amount |
+| --- | --- | --- |
+| Accommodation | 1 room × 6 nights × ₩120,000 | ₩720,000 |
+| Food | 2 people × 7 days × ₩35,000 | ₩490,000 |
+| Local transport | 2 people × 7 days × ₩10,000 | ₩140,000 |
+| Activities | 2 people × 7 days × ₩20,000 | ₩280,000 |
+| Other trip costs | 2 people × ₩100,000 | ₩200,000 |
+| Subtotal | Before contingency | ₩1,830,000 |
+| Contingency | 15% × subtotal | ₩274,500 |
+| **Total** | **Whole party** | **₩2,104,500** |
 
-The example uses seven days and six nights. Add another room night if your flights require a seven-night stay.
+That is **₩1,052,250 per traveler** for this example. It does not describe an average visitor or establish a current hotel/meal price. Room costs are shared here; food and fares are not.
 
-Separate room-level expenses from person-level expenses, and separate international flights, intercity travel and shopping from the city budget.
+## Replace the expensive assumptions first
 
-Work in Korean won first. If you convert the total, use your current exchange rate and allow for your payment provider’s charges.
+Get the actual room total for your dates, including the stated occupancy, fees and cancellation terms. Then list the experiences you would regret missing. A large fixed booking changes the budget more than refining a small snack allowance.
 
-## Make hotel sharing visible
+In the [budget planner](/tools/trip-budget), change the room quote, party size and daily spending, calculate a scenario, then keep it for comparison. “Lean,” “Comfortable” and “More room” are sample inputs, not surveyed price bands.
 
-Total lodging equals nightly room quote × nights × rooms; divide only after that by the people sharing the room.
+## Keep these costs visible
 
-Child occupancy and extra beds can require a different room; do not automatically divide a double-room rate by four.
+- International flights, baggage, insurance and shopping are excluded unless entered.
+- Airport transfer and intercity trains may not fit a city-transport allowance. Avoid counting them twice if you put them under other costs.
+- A room's maximum occupancy may require a different room or extra bedding. Check [family-room conditions](/blog/booking-family-hotel-rooms-in-korea).
+- A solo traveler using the same room quote pays the whole room cost; dividing a couple's total in half does not model that trip.
+- A contingency is a planning reserve, not a guarantee that unexpected costs will fit.
 
-Compare final room price with taxes, breakfast and cancellation terms before entering it into the planner.
+## Spend selectively rather than removing every experience
 
-**Check the operator:** [Seoul Metropolitan Government: Climate Card](https://world.seoul.go.kr/policy/transportation/climate-card/) · [National Museum of Korea: Hours and Admissions](https://www.museum.go.kr/ENG/contents/E0101010000.do).
+Choose which paid activity matters and use genuinely free options where they suit you. The [National Museum of Korea's visitor page](https://www.museum.go.kr/ENG/contents/E0101010000.do) distinguishes free permanent admission from charged special exhibitions and separately reserved activities. “Free admission” does not cover every product at a venue.
 
-## Build an editable example rather than a false market average
-
-Start with your own room quote, then enter daily amounts you are comfortable spending. The worked example below uses hypothetical amounts to demonstrate the arithmetic, not market averages.
-
-Keep meals, local movement and activities separate so a museum-heavy or café-heavy trip changes transparently.
-
-Choose what matters to you: a private room, a particular meal, a paid experience or a more convenient transfer. Change those line items individually rather than relying on a single “budget” or “luxury” label.
-
-## Add real-world categories people forget
-
-Include both airport journeys, baggage storage, laundry, connectivity, optional taxis and a reserve.
-
-For a Busan add-on, put rail tickets and a possible hotel-night change in their own row.
-
-Shopping and refundable deposits are not the same as mandatory travel expenditure.
-
-## Reduce costs without breaking the journey
-
-Compare a pass only after counting eligible rides; include the physical card cost and uncovered journeys.
-
-Use verified free permanent museum admission as one option while budgeting separately for paid special exhibitions.
-
-A cheaper hotel can raise transport costs and consume time; let the user compare complete day plans.
-
-## Keep the assumptions with the shared result
-
-Keep the party size, room count, nights, included expenses and contingency together with the total. A number without its assumptions is difficult for a travel companion to use.
-
-Treat your daily allowances as spending targets. They do not reserve a room, establish a restaurant price or guarantee the exchange rate.
-
-Print the planner breakdown and update it when a real booking changes. Retain the actual fare or attraction page beside any fixed expense.
-
-## Worked seven-day example in KRW
-
-These are hypothetical choices for two travelers, one room and six nights. They are not prices offered by a hotel or restaurant.
-
-| Item             | Hypothetical input           | Party total |
-| ---------------- | ---------------------------- | ----------- |
-| Accommodation    | ₩120,000 × 6 nights × 1 room | ₩720,000    |
-| Food             | ₩35,000 × 7 days × 2 people  | ₩490,000    |
-| Local transport  | ₩10,000 × 7 × 2              | ₩140,000    |
-| Activities       | ₩20,000 × 7 × 2              | ₩280,000    |
-| Other trip costs | ₩100,000 × 2 people          | ₩200,000    |
-| Subtotal         | Before contingency           | ₩1,830,000  |
-| Contingency      | 15% of subtotal              | ₩274,500    |
-| Total            | ₩1,052,250 per traveler      | ₩2,104,500  |
-
-Flights, insurance and shopping are excluded unless you add them to other costs. Put any intercity tickets, SIM and airport transfers into the correct line without counting them twice.
+Compare your [eligible transit journeys](/tools/transit-pass), but confirm route coverage before treating a pass as a saving. Put the final numbers beside your [day-by-day plan](/tools/itinerary): a budget is more useful when it buys a trip you can actually complete.

@@ -200,7 +200,10 @@
     "officialUrl": "https://www.wikidata.org/wiki/Q494407",
     "checkedAt": "2026-10-30",
     "sourceNote": "Coordinate source: https://www.wikidata.org/wiki/Q494407. Not an entrance verification.",
-    "addressSource": "https://mvcm.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map"
+    "addressSource": "https://mvcm.museum.go.kr/MUSEUM/contents/M0106040000.do?menuId=parking-map",
+    "visitorUrl": "https://www.museum.go.kr/ENG/contents/E0101010000.do",
+    "accessibilityUrl": "https://www.museum.go.kr/ENG/contents/E0105010000.do",
+    "accessibilityNote": "Operator lists an elevator toward Ichon Exits 1/2 and free wheelchairs/strollers in the Great Hall. Working lifts, equipment availability and your complete route remain unverified; ask the operator before relying on assistance."
   },
   {
     "id": "seoul-craft-museum",
@@ -310,5 +313,50 @@
     "checkedAt": "2026-10-31",
     "addressSource": "https://www.hanokmaeul.co.kr/en-guide",
     "sourceNote": "Representative coordinates: Wikidata Q496420 P625, revision 2522364855 (2026-07-25), precision about one arcsecond. https://www.wikidata.org/wiki/Q496420#P625"
+  },
+  {
+    "id": "busan-station-metro",
+    "name": "Busan Station — Metro Line1",
+    "nameKo": "부산역 (도시철도 1호선)",
+    "latitude": 35.115224,
+    "longitude": 129.0397,
+    "address": "부산광역시 동구 중앙대로 지하 200",
+    "region": "busan",
+    "description": "Not the KORAIL/KTX terminal building, train platform, railway-terminal entrance, metro exit, elevator or hotel approach. Do not pair this coordinate with the terminal building's different street address.",
+    "officialUrl": "https://www2.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&S_LINE=1&S_STATION=113",
+    "visitorUrl": "https://www2.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&S_LINE=1&S_STATION=113",
+    "checkedAt": "2026-10-31",
+    "sourceNote": "Representative station coordinates from Busan Transportation Corporation station dataset dated 2026-05-31: https://data.kric.go.kr/rips/M_01_01/detail.do?id=88",
+    "addressSource": "https://www2.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&S_LINE=1&S_STATION=113"
+  },
+  {
+    "id": "nampo-station",
+    "name": "Nampo Station — Metro Line1",
+    "nameKo": "남포역 (도시철도 1호선)",
+    "latitude": 35.097953,
+    "longitude": 129.034869,
+    "address": "부산광역시 중구 구덕로 지하 12",
+    "region": "busan",
+    "description": "Not a verified station exit, market entrance, hotel entrance or step-free route.",
+    "officialUrl": "https://www2.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&S_LINE=1&S_STATION=111",
+    "visitorUrl": "https://www2.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&S_LINE=1&S_STATION=111",
+    "checkedAt": "2026-10-31",
+    "sourceNote": "Representative station coordinates from Busan Transportation Corporation station dataset dated 2026-05-31: https://data.kric.go.kr/rips/M_01_01/detail.do?id=88",
+    "addressSource": "https://www2.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&S_LINE=1&S_STATION=111"
+  },
+  {
+    "id": "seomyeon-station",
+    "name": "Seomyeon Station — Line1 representative point",
+    "nameKo": "서면역 (도시철도 1·2호선 환승)",
+    "latitude": 35.158282,
+    "longitude": 129.059556,
+    "address": "부산광역시 부산진구 중앙대로 지하 730",
+    "region": "busan",
+    "description": "Not a hotel entrance, accessible exit, transfer-time guarantee or evidence that all exits are close together.",
+    "officialUrl": "https://www2.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&S_LINE=1&S_STATION=119",
+    "visitorUrl": "https://www2.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&S_LINE=1&S_STATION=119",
+    "checkedAt": "2026-10-31",
+    "sourceNote": "Representative station coordinates from Busan Transportation Corporation station dataset dated 2026-05-31: https://data.kric.go.kr/rips/M_01_01/detail.do?id=88",
+    "addressSource": "https://www2.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&S_LINE=1&S_STATION=119"
   }
 ]

@@ -1,4 +1,12 @@
-import { calculateBudget, comparePass, type BudgetInput, type PassInput } from './travel-tools';
+import {
+  calculateBudget,
+  comparePass,
+  preparationChecklist,
+  type BudgetInput,
+  type PassInput,
+  type AirportInput,
+  airportOptions,
+} from './travel-tools';
 const passKeys = [
   'days',
   'journeys',
@@ -21,7 +29,11 @@ const budgetKeys = [
   'bufferPercent',
 ] as const;
 const base = 'https://koreaexperience.com/tools/';
-function url(slug: string, values: Record<string, number | boolean>, keys: readonly string[]) {
+function url(
+  slug: string,
+  values: Record<string, number | boolean | string>,
+  keys: readonly string[],
+) {
   const params = new URLSearchParams({ v: '1' });
   for (const key of keys) params.set(key, String(values[key]));
   return base + slug + '?' + params.toString();
@@ -64,5 +76,76 @@ export function readBudgetShare(search: string): BudgetInput | null {
     budgetKeys.map((k) => [k, Number(p.get(k))]),
   ) as unknown as BudgetInput;
   calculateBudget(input);
+  return input;
+}
+export interface ChecklistInput {
+  month: number;
+  children: boolean;
+  dietary: boolean;
+  accessibility: boolean;
+}
+const checklistKeys = ['month', 'children', 'dietary', 'accessibility'] as const;
+export function checklistShareUrl(input: ChecklistInput) {
+  preparationChecklist(input.month, input);
+  if (!Number.isInteger(input.month)) throw Error('Visit month must be a whole number.');
+  return url('packing-checklist', { ...input }, checklistKeys);
+}
+export function readChecklistShare(search: string): ChecklistInput | null {
+  const p = query(search, checklistKeys);
+  if (!p) return null;
+  if (!checklistKeys.slice(1).every((key) => ['true', 'false'].includes(p.get(key)!)))
+    throw Error('Invalid checklist condition.');
+  const input = {
+    month: Number(p.get('month')),
+    children: p.get('children') === 'true',
+    dietary: p.get('dietary') === 'true',
+    accessibility: p.get('accessibility') === 'true',
+  };
+  checklistShareUrl(input);
+  return input;
+}
+const airportKeys = ['terminal', 'readyTime', 'area', 'people', 'bags', 'stepFree'] as const;
+export function airportShareUrl(input: AirportInput) {
+  airportOptions(input);
+  return url('airport-transfer', { ...input }, airportKeys);
+}
+export function readAirportShare(search: string): AirportInput | null {
+  const p = query(search, airportKeys);
+  if (!p) return null;
+  if (
+    !['T1', 'T2'].includes(p.get('terminal')!) ||
+    !['central', 'hongdae', 'gangnam', 'other'].includes(p.get('area')!) ||
+    !['true', 'false'].includes(p.get('stepFree')!)
+  )
+    throw Error('Invalid shared arrival conditions.');
+  const input: AirportInput = {
+    terminal: p.get('terminal') as AirportInput['terminal'],
+    readyTime: p.get('readyTime')!,
+    area: p.get('area') as AirportInput['area'],
+    people: Number(p.get('people')),
+    bags: Number(p.get('bags')),
+    stepFree: p.get('stepFree') === 'true',
+  };
+  airportOptions(input);
+  return input;
+}
+export interface RainInput {
+  region: 'central' | 'other';
+  interest: 'museum' | 'market';
+}
+const rainKeys = ['region', 'interest'] as const;
+export function rainShareUrl(input: RainInput) {
+  if (
+    !['central', 'other'].includes(input.region) ||
+    !['museum', 'market'].includes(input.interest)
+  )
+    throw Error('Invalid shared weather plan.');
+  return url('rainy-day', { ...input }, rainKeys);
+}
+export function readRainShare(search: string): RainInput | null {
+  const p = query(search, rainKeys);
+  if (!p) return null;
+  const input = { region: p.get('region'), interest: p.get('interest') } as RainInput;
+  rainShareUrl(input);
   return input;
 }

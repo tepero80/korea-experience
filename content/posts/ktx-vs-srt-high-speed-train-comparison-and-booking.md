@@ -1,62 +1,51 @@
 ---
-title: 'Korea High-Speed Trains: A Booking and Boarding Checklist'
+title: 'Book a Korea High-Speed Train: Check the Station, Train and Ticket'
 date: '2026-01-22'
 updated: '2026-10-31'
 excerpt: >-
-  Book the exact station, date, train and passenger conditions you need; keep
-  the ticket and change rules available offline.
+  Use the actual departure station and current operator sale calendar instead of
+  an old KTX-versus-SRT shortcut.
 category: airports-transport
-image: /images/editorial/arex.webp
+image: /images/editorial/daejeon-ktx-i-2024-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
   - planning
 draft: false
 ---
-If your hotel is near one Seoul terminal, compare the door-to-platform journey before accepting a departure from another. Leave your first Busan activity flexible so a changed train does not also lose an expensive timed reservation.
+**Start with the station and train on the booking screen, not the service name alone.** A cheaper rail fare can lose its advantage if reaching the departure station makes the journey difficult. Include your hotel-to-station and arrival-to-hotel routes.
 
-## Start with the journey details
+## Compare the journey you will actually take
 
-Write the departure station, destination, date and passenger types before comparing services. A convenient hotel-to-station route can matter more than a train brand.
+| Check | Why it matters |
+| --- | --- |
+| Departure station | Seoul Station and Suseo are different places; do not infer the station from an old product shortcut |
+| Arrival station and time | Your onward journey and accommodation check-in may decide which departure works |
+| Train/date/seat | A timetable is not a held seat or completed booking |
+| Displayed total | Compare the actual fare and ticket conditions, not a universal percentage-saving claim |
+| Name/ID and cancellation | Follow the exact product's requirements and retain confirmation |
 
-Use the operator’s current booking page to confirm sale dates, payment options, ticket display, luggage and any pass conditions. These details are not verified here and are not quoted below.
+## Use current booking instructions, not a remembered release day
 
-## Search by the station you will actually use
+A [2026 Ministry of Land announcement republished by Gyeonggi's transport information service](https://gits.gg.go.kr/web/newboard/3386.do?idx=200837560&mode=view&pageIndex=1&pageUnit=8&schBcode=&schCon=&schStr=&schType=list) describes Korail+ and KTX/SRT integration from September. It also discusses expanded advance-booking convenience. Older [SR English FAQ wording](https://etk.srail.kr/cms/archive.do?pageId=TE0302010000) still describes a one-month window and the former app flow.
 
-Seoul-area terminal choice affects hotel-to-station time; copy the booked departure station, not a generic 'Seoul train' label.
+On 31 October 2026, [KORAIL's official English reservation form](https://www.korail.com/global/eng/ticket/reservation) stated that schedules and ticket purchases are available **up to two months in advance**. Start there, select the actual stations and travel date, and follow the sale calendar and conditions shown for your train. Special sale periods and a train's availability still need a current check; the older FAQ is not a reliable universal release-day instruction.
 
-For a Busan trip, arrange the rail arrival and hotel neighborhood as one chain.
+We verified the English form and calendar, but the operator blocked our automated schedule search. **We have not verified seat availability, a completed reservation or overseas-card checkout.** If your search or payment fails, use official customer assistance rather than treating an empty or interrupted result as proof that every train is sold out.
 
-Check train number, date and destination station before payment; preserve confirmation and receipt offline.
+<GuidePhoto id="busan-weekend-ktx-platform-2014" caption="A KTX-I at Busan Station in June 2014. Use your current ticket and station departure board for the actual platform, carriage and train." />
 
-**Check the operator:** [KORAIL official English website — confirm current booking conditions](https://www.korail.com/global/eng/main).
+## Before confirming payment
 
-## Keep reservation, pass and boarding documents distinct
+1. Match the travel date, departure station and destination to your itinerary.
+2. Read passenger, seat and identity conditions; use your own details as required by that flow.
+3. Check the final fare and cancellation terms shown for the selected ticket.
+4. Confirm the transaction actually completed and save the ticket/reference privately. A failed or pending payment is not a booking.
 
-A pass is not automatically a reserved seat; verify that product's reservation process and train eligibility independently.
+If the English flow or payment is unclear, use the customer service contact on [KORAIL's English site](https://www.korail.com/global/eng/main) or a staffed station counter. The English site currently lists **+82-1599-7777, 08:00–20:00 Korea time**; confirm the current contact/hours before calling. Note the date, stations, train if known, error message and transaction status privately. Check whether a payment completed before retrying. Do not send passport scans or card details to an unverified reseller or a public question thread.
 
-Read current name/document and ticket-display requirements from the operator rather than assume a screenshot or passport field behavior.
+## On the travel day
 
-Do not transfer a regular-ticket release window to rail-pass seat reservations.
+Allow a buffer for the correct station entrance, bags and finding the departure board. Match train number, time and destination before boarding; do not guess a platform from a photograph. Keep your ticket available for the operator's checks.
 
-## Prepare for the platform
-
-Leave enough time to reach the actual platform with luggage; choose your own buffer according to mobility and familiarity with the station.
-
-Follow station displays and the ticket's train/car/seat details; a similar departure time is not enough.
-
-For assistance or accessible seating, contact the operator before traveling and retain confirmation.
-
-## Make luggage manageable
-
-Bring bags that you can lift and keep within the booked service's published limits. Check the current service’s published size and weight conditions.
-
-Plan how the bag will be supervised and avoid blocking doors, aisles or other seats.
-
-## Handle changes and missed trains
-
-Save the official change/refund link with the booking and read conditions before buying.
-
-If travel plans change, contact official support rather than assume the ticket works on the next departure.
-
-Keep a flexible first Busan activity so one disrupted train does not lose an expensive timed booking.
+For a short Busan trip, use the [two-day route planner](/blog/seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices) to protect your usable sightseeing time. If bags make the first or last day awkward, compare [storage and retrieval conditions](/blog/luggage-storage-in-seoul-and-incheon-airport).

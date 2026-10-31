@@ -116,6 +116,7 @@ export function airportOptions(input: AirportInput) {
     throw new RangeError('Enter a valid ready-to-leave time.');
   numberInRange(input.people, 1, 15, 'Travelers');
   numberInRange(input.bags, 0, 30, 'Large bags');
+  if (!Number.isInteger(input.people) || !Number.isInteger(input.bags)) throw new RangeError('Travelers and bags must be whole numbers.');
   const hour = Number(input.readyTime.slice(0, 2));
   const late = hour >= 21 || hour < 6;
   const capacity = input.people > 3 || input.bags > 2;
@@ -165,10 +166,13 @@ export function airportOptions(input: AirportInput) {
       verify: 'Passenger/bag capacity, tariff, tolls and time-of-night conditions before boarding.',
     },
   ];
-  if (late) options.sort((a, b) => Number(b.id === 'taxi') - Number(a.id === 'taxi'));
-  else if (input.area === 'gangnam' || input.stepFree)
+  // A late-evening check is not proof rail has stopped. Keep useful public
+  // transport first at 21–22h; prioritize a fallback only closer to overnight.
+  const overnight = hour >= 23 || hour < 6;
+  if (overnight) options.sort((a, b) => Number(b.id === 'taxi') - Number(a.id === 'taxi'));
+  else if (input.area === 'gangnam' && !input.stepFree)
     options.sort((a, b) => Number(b.id === 'bus') - Number(a.id === 'bus'));
-  return { assumptions: { ...input }, late, capacity, options, notes };
+  return { assumptions: { ...input }, late, overnight, capacity, options, notes };
 }
 export function seasonFor(month: number) {
   numberInRange(month, 1, 12, 'Month');

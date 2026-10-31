@@ -67,6 +67,15 @@ test('late airport planning prioritizes a fallback without asserting a service h
   assert.equal(r.capacity, true);
   assert.match(r.notes.join(' '), /not a claim/);
   assert.match(r.notes.join(' '), /does not guarantee/);
+  const evening = airportOptions({
+    ...r.assumptions,
+    readyTime: '22:05',
+    people: 2,
+    bags: 1,
+    stepFree: false,
+  });
+  assert.equal(evening.options[0].id, 'rail');
+  assert.equal(evening.overnight, false);
 });
 test('month and accessibility conditions add relevant checklist tasks', () => {
   const r = preparationChecklist(12, { children: true, dietary: false, accessibility: true });

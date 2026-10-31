@@ -1,15 +1,14 @@
 import type { MediaCredit } from '@/lib/content-types';
 export default function PhotoCredit({ credit }: { credit?: MediaCredit }) {
   if (!credit) return null;
-  if (credit.kind === 'illustration')
-    return (
-      <p className="photo-credit">
-        Illustration. This is not a documentary photograph of a particular place or current service.
-      </p>
-    );
   return (
     <div className="photo-credit">
-      Photo: {credit.author || 'See source'}
+      {credit.kind === 'video-still'
+        ? 'Video still'
+        : credit.kind === 'illustration'
+          ? 'Illustration'
+          : 'Photo'}
+      : {credit.author || 'See source'}
       {credit.sourceUrl ? (
         <>
           {' '}
@@ -30,7 +29,7 @@ export default function PhotoCredit({ credit }: { credit?: MediaCredit }) {
       ) : null}
       {credit.note ? (
         <details>
-          <summary>Photo details & reuse</summary>
+          <summary>Image details & reuse</summary>
           <p>{credit.note}</p>
         </details>
       ) : null}

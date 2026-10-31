@@ -15,7 +15,7 @@ declare global {
 }
 export default function GuideCommunity({ id, slug }: { id: string; slug: string }) {
   const [items, setItems] = useState<Comment[]>([]),
-    [signed, setSigned] = useState(false),
+    [signed, setSigned] = useState<boolean | null>(null),
     [count, setCount] = useState(0),
     [liked, setLiked] = useState(false),
     [body, setBody] = useState(''),
@@ -24,8 +24,10 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
     [key, setKey] = useState('');
   const [active, setActive] = useState(false),
     [draftLoaded, setDraftLoaded] = useState(false),
+    [draftError, setDraftError] = useState(''),
     [submitting, setSubmitting] = useState(false),
-    [retry, setRetry] = useState(0);
+    [retry, setRetry] = useState(0),
+    [dataRetry, setDataRetry] = useState(0);
   const [apiState, setApiState] = useState<'idle' | 'loading' | 'ready' | 'error'>('idle'),
     [spamError, setSpamError] = useState(false);
   const section = useRef<HTMLElement>(null);
@@ -53,7 +55,7 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
     try {
       setBody(readGuideDraft(localStorage, id));
     } catch {
-      setStatus('Local drafts are unavailable. Copy your text before leaving this page.');
+      setDraftError('Local drafts are unavailable. Copy your text before leaving this page.');
     } finally {
       setDraftLoaded(true);
     }
@@ -62,35 +64,37 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
     if (!config.enabled || !active) return;
     setApiState('loading');
     let live = true;
-    void Promise.all([
+    void Promise.allSettled([
       fetch('/api/community?guide=' + encodeURIComponent(id)).then((r) =>
         r.ok ? r.json() : Promise.reject(),
       ),
       fetch('/api/reactions/' + encodeURIComponent(id)).then((r) =>
         r.ok ? r.json() : Promise.reject(),
       ),
-      fetch('/api/me').then((r) => r.ok),
+      fetch('/api/me').then((r) => (r.ok ? true : r.status === 401 ? false : Promise.reject())),
       fetch('/api/config').then((r) => (r.ok ? r.json() : Promise.reject())),
-    ])
-      .then(([comments, reactions, me, settings]) => {
-        if (!live) return;
-        setItems(comments.items);
-        setCount(reactions.count);
-        setLiked(reactions.mine === true);
-        setSigned(me);
-        setKey(settings.turnstileSiteKey);
-        setApiState('ready');
-      })
-      .catch(() => {
-        if (live) {
-          setApiState('error');
-          setStatus('Community is temporarily unavailable. The guide remains available.');
-        }
-      });
+    ]).then(([comments, reactions, me, settings]) => {
+      if (!live) return;
+      if (comments.status === 'fulfilled' && Array.isArray(comments.value.items))
+        setItems(comments.value.items);
+      if (reactions.status === 'fulfilled') {
+        setCount(reactions.value.count);
+        setLiked(reactions.value.mine === true);
+      }
+      setSigned(me.status === 'fulfilled' ? me.value : null);
+      setKey(settings.status === 'fulfilled' ? settings.value.turnstileSiteKey : '');
+      const ok = [comments, reactions, me, settings].every((r) => r.status === 'fulfilled');
+      setApiState(ok ? 'ready' : 'error');
+      if (!ok)
+        setStatus(
+          'Some community features are temporarily unavailable. Retry below; your draft stays in this browser.',
+        );
+      else if (dataRetry > 0) setStatus('Community reconnected. Your text is still here.');
+    });
     return () => {
       live = false;
     };
-  }, [id, active]);
+  }, [id, active, dataRetry]);
   useEffect(() => {
     if (!signed || !key || !box.current) return;
     let tries = 0,
@@ -168,6 +172,11 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
     <section className="guide-discussion no-print" id="discussion" ref={section}>
       <p className="eyebrow">Questions & useful updates</p>
       <h2>What would help your trip?</h2>
+      {apiState === 'error' ? (
+        <button type="button" className="action-button" onClick={() => setDataRetry((n) => n + 1)}>
+          Retry community
+        </button>
+      ) : null}
       <button
         className="action-button"
         onClick={helpful}
@@ -244,12 +253,13 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
               try {
                 writeGuideDraft(localStorage, id, e.target.value);
               } catch {
-                setStatus('Draft could not be saved here. Copy your text before signing in.');
+                setDraftError('Draft could not be saved here. Copy your text before signing in.');
               }
             }}
             disabled={!draftLoaded}
           />
         </label>
+        {draftError ? <p role="alert">{draftError}</p> : null}
         <p className="map-notice">
           Include travel dates and the useful detail. Avoid personal documents, contact details or
           booking codes. Comments and edits require review.
@@ -279,7 +289,7 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
               </button>
             ) : null}
           </>
-        ) : (
+        ) : signed === false ? (
           <Link
             className="button button-light"
             href={`/community/account?returnTo=${encodeURIComponent('/blog/' + slug + '#discussion')}`}
@@ -288,12 +298,20 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
                 writeGuideDraft(localStorage, id, body);
               } catch {
                 e.preventDefault();
-                setStatus('Copy your text before leaving. This browser could not save the draft.');
+                setDraftError(
+                  'Copy your text before leaving. This browser could not save the draft.',
+                );
               }
             }}
           >
             Save draft & sign in with Google or email
           </Link>
+        ) : (
+          <p role="status">
+            {apiState === 'loading'
+              ? 'Checking sign-in…'
+              : 'Sign-in status is unavailable. Retry community before signing in or sending your draft.'}
+          </p>
         )}
         {body ? (
           <button

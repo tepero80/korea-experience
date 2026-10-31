@@ -428,7 +428,7 @@ app.post('/api/plans/:id/share', async (c) => {
     if (typeof d[key] !== 'boolean')
       throw new Problem(400, 'Review and explicitly choose the public sharing fields first.');
   const privatePlan = checkedPlan(JSON.parse(row.data));
-  if (d.expectedData !== JSON.stringify(privatePlan))
+  if (d.expectedData !== JSON.stringify(privatePlan) || d.expectedTitle !== row.title)
     throw new Problem(
       409,
       'The private plan changed. Reopen it and review the public version again.',

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">An illustrative seven-day Korea budget for two travelers</title>
+  <desc id="desc">One room for six nights costs 720,000 won. Daily spending for two people over seven days costs 910,000 won. Other costs are 200,000 won. A 15 percent contingency adds 274,500 won for a party total of 2,104,500 won. All inputs are hypothetical.</desc>
+  <rect width="1200" height="800" fill="#f2f7f4"/>
+  <rect x="0" y="0" width="1200" height="14" fill="#086b66"/>
+  <g font-family="Arial,sans-serif" fill="#163632">
+    <text x="90" y="110" font-size="20" font-weight="700" fill="#086b66">KOREA EXPERIENCE · ILLUSTRATIVE BUDGET</text>
+    <text x="90" y="173" font-size="43" font-weight="700">Rooms × nights. People × days.</text>
+    <text x="90" y="215" font-size="22" fill="#546c68">2 travelers · 7 days · 6 nights · 1 room · KRW</text>
+    <g fill="#fff" stroke="#cfe1da"><rect x="90" y="265" width="640" height="112" rx="15"/><rect x="90" y="394" width="640" height="112" rx="15"/><rect x="90" y="523" width="640" height="112" rx="15"/></g>
+    <text x="119" y="307" font-size="24" font-weight="700">Accommodation</text><text x="119" y="343" font-size="20" fill="#546c68">1 room × 6 nights × ₩120,000</text><text x="698" y="316" font-size="29" text-anchor="end" font-weight="700">₩720,000</text>
+    <text x="119" y="436" font-size="24" font-weight="700">Daily spending</text><text x="119" y="472" font-size="20" fill="#546c68">2 people × 7 days × ₩65,000</text><text x="698" y="445" font-size="29" text-anchor="end" font-weight="700">₩910,000</text>
+    <text x="119" y="565" font-size="24" font-weight="700">Other trip costs</text><text x="119" y="601" font-size="20" fill="#546c68">2 people × ₩100,000 per trip</text><text x="698" y="574" font-size="29" text-anchor="end" font-weight="700">₩200,000</text>
+    <rect x="760" y="265" width="350" height="370" rx="20" fill="#086b66"/>
+    <text x="793" y="323" font-size="22" fill="#fff">WHOLE PARTY</text><text x="793" y="389" font-size="47" font-weight="700" fill="#fff">₩2,104,500</text>
+    <path d="M793 425H1077" stroke="#73aaa2"/>
+    <text x="793" y="470" font-size="21" fill="#fff">Includes 15% contingency</text><text x="793" y="505" font-size="26" fill="#ffcf7f">+ ₩274,500</text>
+    <text x="793" y="557" font-size="19" fill="#fff">Flights, insurance and shopping</text><text x="793" y="586" font-size="19" fill="#fff">excluded unless added.</text>
+    <text x="90" y="700" font-size="23" font-weight="700">Replace the sample amounts with your own quotes and choices.</text>
+    <text x="90" y="737" font-size="20" fill="#546c68">This is a calculation example, not a current price survey or booking quote.</text>
+  </g>
+</svg>

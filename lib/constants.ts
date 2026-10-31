@@ -283,11 +283,12 @@ export const PRACTICAL_TOOLS = [
   {
     id: 102,
     href: '/tools/transit-pass',
-    title: 'Transit Pass Comparison',
+    title: 'Seoul Transit Pass Comparison',
     category: 'Travel planning',
     difficulty: '',
     viral: 0,
-    description: 'Compare a visitor pass against your expected eligible rides.',
+    description:
+      'Compare Seoul Climate Card short passes with eligible pay-as-you-go journeys. Not a Busan or nationwide pass comparison.',
     icon: '02',
     status: 'active',
   },

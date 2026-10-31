@@ -566,14 +566,15 @@ export default function ItineraryBoard() {
                             setStop({ ...s });
                             setEditing(s.id);
                             document
-                              .getElementById('stop-editor')
-                              ?.scrollIntoView({
-                                block: 'start',
-                                behavior: window.matchMedia('(prefers-reduced-motion: reduce)')
-                                  .matches
-                                  ? 'auto'
-                                  : 'smooth',
-                              });
+                              .querySelector<HTMLInputElement>('#stop-editor input')
+                              ?.focus({ preventScroll: true });
+                            document.getElementById('stop-editor')?.scrollIntoView({
+                              block: 'start',
+                              behavior: window.matchMedia('(prefers-reduced-motion: reduce)')
+                                .matches
+                                ? 'auto'
+                                : 'smooth',
+                            });
                           }}
                         >
                           Edit <span className="sr-only">{s.place}</span>
@@ -697,9 +698,9 @@ export default function ItineraryBoard() {
             <details className="share-plan-review">
               <summary>Review a public sharing snapshot</summary>
               <p>
-                Anyone with the link can read the selected information. The snapshot will not change
-                when you edit your private plan. Create a replacement link to publish changes; this
-                revokes the previous link.
+                Anyone with the link can read the title, place names, day/order, times and selected
+                information. The snapshot will not change when you edit your private plan. Create a
+                replacement link to publish changes; this revokes the previous link.
               </p>
               <div className="share-options">
                 {(
@@ -736,6 +737,7 @@ export default function ItineraryBoard() {
                     const saved = await saveAccount();
                     const response = await api('/api/plans/' + saved.id + '/share', 'POST', {
                       ...shareOptions,
+                      expectedTitle: title.trim(),
                       expectedData: JSON.stringify(saved.data),
                     });
                     setShareUrl(response.url);

@@ -172,7 +172,10 @@ export default async function Guide({ params }: { params: Params }) {
                 src={post.image}
                 srcSet={hero?.srcSet}
                 sizes="(max-width: 700px) calc(100vw - 40px), 620px"
-                style={{ objectPosition: hero?.focal }}
+                style={{
+                  objectPosition: hero?.focal,
+                  objectFit: hero?.credit.kind === 'illustration' ? 'contain' : 'cover',
+                }}
                 alt={
                   hero?.alt || e?.imageCredit?.title || `${post.title} — illustrative archive cover`
                 }

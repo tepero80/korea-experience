@@ -1,86 +1,50 @@
 ---
-title: 'Cold or Rainy Seoul: Indoor Clusters That Still Make a Good Day'
+title: 'A Rainy Day in Seoul: Choose One Indoor Cluster, Not Three Museums'
 date: '2026-10-12'
 updated: '2026-10-31'
 excerpt: >-
-  Pick one confirmed indoor anchor near your base, then add a nearby meal and an
-  optional short stop.
+  Pick Anguk/Jongno or Yongsan, check opening and ticket conditions, then keep
+  the outdoor legs short.
 category: places-itineraries
-image: /images/editorial/seoul-cafe.webp
+image: /images/editorial/rainy-seoul-gwangjang-market-2020-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
   - planning
 draft: false
 ---
+**A weather backup should reduce travel and uncertainty.** Choose one area, one confirmed indoor anchor and a nearby meal. A checklist of museums on opposite sides of Seoul can make a wet day harder rather than better.
 
-In Jongno, check the Craft Museum first and choose lunch nearby. In Yongsan, the National Museum can be the main block. Do not replace one outdoor itinerary with four indoor venues across the city; transfers and wet approaches still consume the day.
+## Choose the cluster nearest your plans
 
-## Two indoor anchors, with the conditions visible
+| Cluster | Main choice | Add only if useful |
+| --- | --- | --- |
+| Anguk / Jongno | Seoul Museum of Craft Art when open | A confirmed nearby meal; Insadong browsing with exposed approaches |
+| Yongsan | National Museum of Korea | A meal/rest near the museum or your return connection |
+| Market-focused | Gwangjang for the food/market experience itself | One nearby stop; do not label the whole journey sheltered |
 
-| Venue                    | Checked normal arrangement                                                                                   | Separate check                                                   |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- |
-| Craft Museum, Anguk      | General admission free; 10:00–18:00; last entry 17:30; Monday (public-holiday exception) / January 1 closure | Temporary late openings and Children’s Museum booking            |
-| National Museum, Yongsan | Permanent galleries free; 09:30–17:30; Wednesday / Saturday to 21:00; last entry 30 minutes earlier          | Special exhibitions, children’s reservations and closure notices |
+The museum choices are alternatives. You do not need to complete both on the same day.
 
-A late-opening notice for autumn 2026 must not be treated as a permanent winter schedule. Sources: [Seoul Museum of Craft Art: visitor information](https://craftmuseum.seoul.go.kr/preview/visit) · [National Museum of Korea: Hours and Admissions](https://www.museum.go.kr/ENG/contents/E0101010000.do).
+## Anguk: check the right building and session
 
-## Pick a cluster, not a cross-city rescue list
+The [Seoul Museum of Craft Art visitor page](https://craftmuseum.seoul.go.kr/preview/visit) lists ordinary hours **10:00–18:00**. General museum Monday public-holiday exceptions differ from the Children's Museum, which closes **every Monday** and requires advance online reservations.
 
-Choose your starting area, interests, child ages and walking tolerance before choosing an indoor anchor.
+Its autumn 2026 evening expansion is **building-specific and ends 30 November**. Do not turn it into a permanent winter timetable or assume a children's session from general admission. Check the current notices for the building and date you want.
 
-Choose Anguk/Jongno or Yongsan rather than sending you between distant museums just to fill a list.
+If you choose MMCA Seoul instead, use its [own admission page](https://www.mmca.go.kr/eng/seoul/viewingInfo/information.do). It is not universally free during ordinary daytime hours; exhibition charges and the listed Wednesday/Saturday evening free period are separate.
 
-Indoor destinations still need outdoor transfers; show that honestly and keep a short taxi option where useful.
+## Yongsan: make one museum enough
 
-## Compare before you commit
+<GuidePhoto id="exp-c-nmk-exterior-plaza" caption="The National Museum of Korea's exterior plaza. Even an indoor museum visit includes the approach from transport; check the entrance and weather before leaving." />
 
-| Cluster            | Anchor          | Important condition                         |
-| ------------------ | --------------- | ------------------------------------------- |
-| Anguk / Jongno     | Craft Museum    | Monday closure; children's reservation      |
-| Yongsan            | National Museum | Special exhibition fees and closure notices |
-| Jongno alternative | MMCA Seoul      | Current exhibition ticket/opening checks    |
+The [National Museum's visitor information](https://www.museum.go.kr/ENG/contents/E0101010000.do) lists **09:30–17:30**, extended to **21:00 Wednesday/Saturday**, with last entry 30 minutes earlier. Permanent admission is free; paid special exhibitions and reserved Children's Museum sessions are separate.
 
-This comparison organizes the decision. It is not a guarantee of availability or an individual price quote.
+Check holiday and quarterly first-Monday gallery closures before assigning a date. A 2–3-hour gallery block plus a meal is an editorial starting plan, not a requirement to walk the entire building.
 
-## Anguk/Jongno: craft and nearby culture
+## Make the exposed legs visible
 
-The Craft Museum's ordinary schedule and Monday closure need checking against the current official notice. Temporary late-opening arrangements in autumn 2026 do not establish winter hours.
+Add the hotel-to-station walk, the useful exit, venue entrance and return leg. Confirm lifts/access assistance where needed. If conditions become unsafe, postpone the journey rather than treating an indoor ticket as a reason to travel.
 
-Its Children's Museum is not a walk-in substitute; reserve when required.
+<TripHelper tool="rainy-day" />
 
-MMCA Seoul can be another chosen anchor after exhibition admission and opening conditions are checked, not an assumed free add-on.
-
-**Check the operator:** [National Museum of Korea: Hours and Admissions](https://www.museum.go.kr/ENG/contents/E0101010000.do) · [Seoul Museum of Craft Art: visitor information](https://craftmuseum.seoul.go.kr/preview/visit).
-
-## Yongsan: give the National Museum enough time
-
-Free permanent galleries make a useful indoor anchor, while special exhibitions can cost extra.
-
-Children's Museum requires booking; do not arrive assuming every age-specific program is available.
-
-Use current late-opening/closure notices and retain meal/rest time rather than rushing the whole collection.
-
-## Distinguish sheltered from indoors
-
-A market awning or shopping passage does not create a door-to-door dry route.
-
-Check the station exit, street crossings and venue entrance separately. A short straight line on a map may still include an exposed approach or stairs.
-
-For cold conditions, favor fewer long exposed segments; for heavy rain, avoid slippery optional outdoor detours.
-
-## Plan for accessibility and children
-
-Ask about step-free access and equipment availability from the venue; tourism icons do not guarantee an uninterrupted route.
-
-Reserve required children's sessions and include a backup if they sell out.
-
-Use drying/wet-item and coat-storage arrangements where actually provided; avoid unverified promises of lockers for every bag.
-
-## Choose one useful replacement
-
-Choose the anchor for your starting district, the group's interests, available time and willingness to reserve. With children, check the specific children's session rather than general museum admission.
-
-Keep one main venue and one nearby optional stop. Recheck the closure notice and current address, and remove the second stop if the first is enough for the day.
-
-Swap this indoor block for the outdoor cluster in your Seoul plan; keep the remaining days and reservations intact.
+For the wider trip, move a weather-sensitive cluster within the [three-day Seoul plan](/blog/seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026). The [museum selection guide](/blog/seoul-museums-and-exhibitions-planning-guide) helps you choose by interests and actual admission needs.

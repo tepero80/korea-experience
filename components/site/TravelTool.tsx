@@ -16,7 +16,20 @@ import ItineraryBoard from './ItineraryBoard';
 import type { Place } from '@/lib/content-types';
 import PlaceMap from './PlaceMap';
 import ToolResultShare from './ToolResultShare';
-import { budgetShareUrl, passShareUrl, readBudgetShare, readPassShare } from '@/lib/tool-share';
+import {
+  budgetShareUrl,
+  passShareUrl,
+  readBudgetShare,
+  readPassShare,
+  checklistShareUrl,
+  readChecklistShare,
+  airportShareUrl,
+  readAirportShare,
+  rainShareUrl,
+  readRainShare,
+  type RainInput,
+} from '@/lib/tool-share';
+import contextPlaces from '@/data/places.json';
 type Props = { slug: string; title: string; description: string; places: Place[] };
 function NumberField({
   name,
@@ -123,6 +136,15 @@ function Pass() {
   }
   return (
     <>
+      <aside className="source-box">
+        <strong>Seoul Climate Card short passes only.</strong>
+        <p>
+          Count only covered Seoul routes. Busan, KTX and uncovered journeys are excluded.{' '}
+          <a href={TRANSPORT_SOURCE.url} target="_blank" rel="noopener noreferrer">
+            Check the official coverage before calculating ↗
+          </a>
+        </p>
+      </aside>
       <form className="tool-form" onSubmit={submit}>
         <NumberField
           name="pass-travelers"
@@ -422,13 +444,14 @@ function Budget() {
             set={(n) => setV({ ...v, [key]: n })}
           />
         ))}
+        <p className="field-wide field-note">
+          Per person/day: food {KRW.format(v.foodDay)}, transport {KRW.format(v.transportDay)},
+          activities {KRW.format(v.activitiesDay)}. Other costs {KRW.format(v.oneOff)} per
+          person/trip; {v.bufferPercent}% contingency. For different adult/child spending, use your
+          party's per-person average or keep separate scenarios.
+        </p>
         <details className="field-wide budget-assumptions">
           <summary>Adjust daily spending & contingency</summary>
-          <p>
-            Per person/day: food {KRW.format(v.foodDay)}, transport {KRW.format(v.transportDay)},
-            activities {KRW.format(v.activitiesDay)}. Other costs {KRW.format(v.oneOff)} per
-            person/trip; {v.bufferPercent}% contingency.
-          </p>
           <div className="tool-form">
             {fields.slice(5).map(([key, label, min, max]) => (
               <NumberField
@@ -531,8 +554,23 @@ function Airport() {
     bags: 2,
     stepFree: false,
   });
-  const [r, setR] = useState<ReturnType<typeof airportOptions>>(),
+  const [calculated, setR] = useState<ReturnType<typeof airportOptions>>(),
     [error, setError] = useState('');
+  useEffect(() => {
+    try {
+      const shared = readAirportShare(location.search);
+      if (shared) {
+        setV(shared);
+        setR(airportOptions(shared));
+      }
+    } catch {
+      setError('These shared arrival conditions are invalid. Enter your own conditions below.');
+    }
+  }, []);
+  const r =
+    calculated && JSON.stringify(calculated.assumptions) === JSON.stringify(v)
+      ? calculated
+      : undefined;
   return (
     <>
       <form
@@ -618,8 +656,12 @@ function Airport() {
       {r ? (
         <section className="tool-result" aria-live="polite">
           <p className="eyebrow">A decision shortlist</p>
+          <p>
+            {r.assumptions.terminal} · ready {r.assumptions.readyTime} Korea time ·{' '}
+            {r.assumptions.people} travelers · {r.assumptions.bags} large bags
+          </p>
           <h2>
-            {r.late
+            {r.overnight
               ? 'Start with a confirmed late-arrival fallback.'
               : 'Compare the whole trip to the hotel door.'}
           </h2>
@@ -644,6 +686,7 @@ function Airport() {
             slug="airport-transfer"
             title="My Incheon arrival shortlist"
             summary={`${r.assumptions.terminal} · ready ${r.assumptions.readyTime} Korea time · ${r.assumptions.people} travelers · ${r.assumptions.bags} large bags · ${r.assumptions.area} hotel area.`}
+            url={airportShareUrl(r.assumptions)}
             facts={[
               r.options[0].title,
               'Verify the terminal timetable, final hotel connection, capacity and current fare. No live departure guarantee.',
@@ -656,7 +699,32 @@ function Airport() {
         <p>The last onward connection can be earlier than the airport train’s last departure.</p>
         <p>
           <a
-            href="https://airinfo.airport.kr/ap_en/1499/subview.do"
+            href={
+              v.terminal === 'T1'
+                ? 'https://www.airportrailroad.com/train/normal/info/100/0'
+                : 'https://www.airportrailroad.com/train/normal/info/110/0'
+            }
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            AREX all-stop timetable: {v.terminal} ↗
+          </a>{' '}
+          ·{' '}
+          <a
+            href={
+              v.terminal === 'T1'
+                ? 'https://airport.kr/ap_en/1507/subview.do'
+                : 'https://airport.kr/ap_en/1510/subview.do'
+            }
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Seoul night buses: {v.terminal} ↗
+          </a>
+        </p>
+        <p>
+          <a
+            href="https://airport.kr/ap_en/1502/subview.do"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -671,7 +739,13 @@ function Airport() {
             Official airport taxis ↗
           </a>
         </p>
-        <p>Checked October 30, 2026. Confirm capacity, fares, tolls and nighttime conditions.</p>
+        <p>
+          Checked October 31, 2026. Confirm capacity, fares, tolls and nighttime conditions.{' '}
+          <Link href="/blog/airport-limousine-bus-vs-arex-express-train">
+            Compare the complete hotel journey
+          </Link>
+          .
+        </p>
       </aside>
     </>
   );
@@ -680,6 +754,78 @@ function Packing() {
   const [month, setMonth] = useState(11),
     [needs, setNeeds] = useState({ children: false, dietary: false, accessibility: false }),
     [done, setDone] = useState<string[]>([]);
+  const [loaded, setLoaded] = useState(false),
+    [storageBlocked, setStorageBlocked] = useState(false),
+    [storageNote, setStorageNote] = useState('');
+  useEffect(() => {
+    let shared = null;
+    try {
+      shared = readChecklistShare(location.search);
+    } catch {
+      setStorageNote(
+        'The shared checklist conditions are invalid. Your existing browser checklist is preserved.',
+      );
+      setStorageBlocked(true);
+      setLoaded(true);
+      return;
+    }
+    if (shared) {
+      setMonth(shared.month);
+      setNeeds({
+        children: shared.children,
+        dietary: shared.dietary,
+        accessibility: shared.accessibility,
+      });
+      // Opening a shared list must not replace the owner's saved progress.
+      setStorageBlocked(true);
+      setStorageNote(
+        'Opened shared conditions. Progress here is temporary; your saved checklist has not been replaced.',
+      );
+      setLoaded(true);
+      return;
+    }
+    try {
+      const raw = localStorage.getItem('ke-checklist-v1');
+      if (raw) {
+        const saved = JSON.parse(raw);
+        if (
+          saved.version !== 1 ||
+          !Number.isInteger(saved.month) ||
+          saved.month < 1 ||
+          saved.month > 12 ||
+          !saved.needs ||
+          !['children', 'dietary', 'accessibility'].every(
+            (k) => typeof saved.needs[k] === 'boolean',
+          ) ||
+          !Array.isArray(saved.done) ||
+          saved.done.length > 30 ||
+          !saved.done.every((id: unknown) => typeof id === 'string' && /^[a-z-]+$/.test(id))
+        )
+          throw Error();
+        setMonth(saved.month);
+        setNeeds(saved.needs);
+        setDone([...new Set<string>(saved.done)]);
+        setStorageNote('Reopened your checklist from this browser.');
+      }
+    } catch {
+      setStorageBlocked(true);
+      setStorageNote(
+        'Your previous checklist could not be read and has been preserved. Changes on this page will not replace it.',
+      );
+    }
+    setLoaded(true);
+  }, []);
+  useEffect(() => {
+    if (!loaded || storageBlocked) return;
+    try {
+      localStorage.setItem('ke-checklist-v1', JSON.stringify({ version: 1, month, needs, done }));
+      setStorageNote('Checklist progress saved in this browser.');
+    } catch {
+      setStorageNote(
+        'This browser could not save the checklist. Keep a printed copy before leaving.',
+      );
+    }
+  }, [loaded, storageBlocked, month, needs, done]);
   const r = preparationChecklist(month, needs);
   return (
     <>
@@ -715,6 +861,7 @@ function Packing() {
           </label>
         ))}
       </div>
+      <p role="status">{storageNote}</p>
       <section className="tool-result">
         <p className="eyebrow">Adapted to your month</p>
         <h2>
@@ -741,8 +888,9 @@ function Packing() {
           ))}
         </ul>
         <p>
-          Checks reset when you leave. Print a copy to keep it. Entry conditions depend on
-          nationality, purpose and date.
+          Progress is saved in this browser when storage is available. Changing the month resets the
+          checks. Print a copy for another device. Entry conditions depend on nationality, purpose
+          and date.
         </p>
         <button className="action-button no-print" onClick={() => window.print()}>
           Print checklist / PDF
@@ -760,6 +908,7 @@ function Packing() {
           slug="packing-checklist"
           title="My Korea visit-month checklist"
           summary={`Month ${month} · ${needs.children ? 'with children · ' : ''}${needs.dietary ? 'dietary preparation · ' : ''}${needs.accessibility ? 'accessibility preparation · ' : ''}${r.season} planning.`}
+          url={checklistShareUrl({ month, ...needs })}
           facts={[
             r.items.find((i) => i.group === 'Seasonal packing')!.text,
             'Confirm passport-specific entry requirements and the actual trip-date forecast.',
@@ -769,9 +918,23 @@ function Packing() {
     </>
   );
 }
-function Rain({ places }: { places: Place[] }) {
-  const [region, setRegion] = useState('central'),
-    [interest, setInterest] = useState('museum');
+function Rain({ places, embedded = false }: { places: Place[]; embedded?: boolean }) {
+  const [region, setRegion] = useState<RainInput['region']>('central'),
+    [interest, setInterest] = useState<RainInput['interest']>('museum'),
+    [shareError, setShareError] = useState('');
+  useEffect(() => {
+    try {
+      const shared = readRainShare(location.search);
+      if (shared) {
+        setRegion(shared.region);
+        setInterest(shared.interest);
+      }
+    } catch {
+      setShareError(
+        'These shared weather-plan conditions are invalid. Choose your own area and interest.',
+      );
+    }
+  }, []);
   const ids =
     interest === 'museum'
       ? region === 'central'
@@ -786,7 +949,7 @@ function Rain({ places }: { places: Place[] }) {
           label="Seoul base / preferred area"
           value={region}
           set={(v) => {
-            setRegion(v);
+            setRegion(v as RainInput['region']);
             track('tool_complete', { tool: 'rainy-day' });
           }}
           options={[
@@ -798,13 +961,14 @@ function Rain({ places }: { places: Place[] }) {
           name="rain-interest"
           label="Priority"
           value={interest}
-          set={setInterest}
+          set={(v) => setInterest(v as RainInput['interest'])}
           options={[
             ['museum', 'Museums & craft'],
             ['market', 'Market food — partly sheltered'],
           ]}
         />
       </div>
+      {shareError ? <p role="status">{shareError}</p> : null}
       <section className="tool-result">
         <p className="eyebrow">One main anchor</p>
         <h2>
@@ -830,10 +994,14 @@ function Rain({ places }: { places: Place[] }) {
           exhibition fees.
         </p>
       </section>
-      <PlaceMap places={places.filter((p) => ids.includes(p.id))} />
+      <PlaceMap
+        places={places.filter((p) => ids.includes(p.id))}
+        id={embedded ? 'helper-weather-map' : 'places-and-map'}
+      />
       <ToolResultShare
         slug="rainy-day"
         title="My Seoul rain-plan anchor"
+        url={rainShareUrl({ region, interest })}
         summary={
           interest === 'market'
             ? 'Gwangjang Market, a partly sheltered food option.'
@@ -848,6 +1016,15 @@ function Rain({ places }: { places: Place[] }) {
       />
     </>
   );
+}
+export function ContextTravelTool({
+  slug,
+}: {
+  slug: 'airport-transfer' | 'packing-checklist' | 'rainy-day';
+}) {
+  if (slug === 'airport-transfer') return <Airport />;
+  if (slug === 'packing-checklist') return <Packing />;
+  return <Rain places={contextPlaces as Place[]} embedded />;
 }
 export default function TravelTool({ slug, title, description, places }: Props) {
   const started = useRef(false);

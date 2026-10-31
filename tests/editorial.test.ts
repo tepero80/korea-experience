@@ -3,10 +3,35 @@ import assert from 'node:assert/strict';
 import React from 'react';
 import { renderToStaticMarkup } from 'react-dom/server';
 import FAQAccordion from '../components/mdx/FAQAccordion';
+import ExpertTip from '../components/mdx/ExpertTip';
 import { renderInlineMarkdown } from '../components/mdx/utils';
 import { comparePass } from '../lib/travel-tools';
-import { passShareUrl, readPassShare, budgetShareUrl, readBudgetShare } from '../lib/tool-share';
+import {
+  passShareUrl,
+  readPassShare,
+  budgetShareUrl,
+  readBudgetShare,
+  checklistShareUrl,
+  readChecklistShare,
+  airportShareUrl,
+  readAirportShare,
+  rainShareUrl,
+  readRainShare,
+} from '../lib/tool-share';
 import { compileGuideContent } from '../components/MDXContent';
+
+test('an archive verified flag cannot publish an unsupported expert identity or quotation', () => {
+  assert.equal(
+    renderToStaticMarkup(
+      React.createElement(ExpertTip, {
+        name: 'Unverified Expert Fixture',
+        quote: 'Unsupported advice fixture',
+        verified: true,
+      }),
+    ),
+    '',
+  );
+});
 
 test('FAQ string links render as usable anchors in both variants, including long answers', () => {
   for (const variant of ['default', 'minimal'] as const) {
@@ -115,6 +140,44 @@ test('calculator links reproduce validated numbers and omit unrelated private fi
     bufferPercent: 15,
   };
   assert.deepEqual(readBudgetShare(new URL(budgetShareUrl(budget)).search), budget);
+  const checklist = {
+    month: 12,
+    children: true,
+    dietary: false,
+    accessibility: true,
+    done: ['entry'],
+    note: 'private',
+  };
+  const arrival = {
+    terminal: 'T2' as const,
+    readyTime: '00:30',
+    area: 'hongdae' as const,
+    people: 4,
+    bags: 3,
+    stepFree: true,
+  };
+  const arrivalUrl = new URL(airportShareUrl(arrival));
+  assert.deepEqual(readAirportShare(arrivalUrl.search), arrival);
+  assert.throws(() => readAirportShare(arrivalUrl.search.replace('people=4', 'people=1.5')));
+  assert.throws(() =>
+    readAirportShare(arrivalUrl.search.replace('terminal=T2', 'terminal=unknown')),
+  );
+  const rain = { region: 'other' as const, interest: 'market' as const };
+  assert.deepEqual(readRainShare(new URL(rainShareUrl(rain)).search), rain);
+  assert.throws(() => readRainShare('?v=1&region=unknown&interest=museum'));
+  const sharedChecklist = new URL(checklistShareUrl(checklist));
+  assert.ok(!sharedChecklist.href.includes('private'));
+  assert.ok(!sharedChecklist.href.includes('entry'));
+  assert.deepEqual(readChecklistShare(sharedChecklist.search), {
+    month: 12,
+    children: true,
+    dietary: false,
+    accessibility: true,
+  });
+  assert.throws(() => readChecklistShare(sharedChecklist.search.replace('month=12', 'month=1.5')));
+  assert.throws(() =>
+    readChecklistShare(sharedChecklist.search.replace('children=true', 'children=maybe')),
+  );
 });
 
 test('contents links use the actual MDX IDs for duplicate and formatted headings', async () => {

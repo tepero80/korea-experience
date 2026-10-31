@@ -216,10 +216,12 @@ try {
     ],
   });
   planData.startDate = "2026-11-02";
+  let planTitle = "Disposable staging plan";
   const sharing = () => ({
     includeNotes: false,
     includeAddresses: false,
     includeDates: false,
+    expectedTitle: planTitle,
     expectedData: JSON.stringify(planData),
   });
   const plan = (await (
@@ -264,6 +266,7 @@ try {
     "POST",
     {},
   );
+  await request("Unreviewed title rejected", "/api/plans/" + plan.id + "/share", 409, owner.cookie, "POST", { ...sharing(), expectedTitle: "Unreviewed private title" });
   const share = (await (
     await request(
       "Explicit sharing creates a link",
@@ -310,6 +313,7 @@ try {
     "POST",
     stale,
   );
+  planTitle = "Later private title";
   const replacement = (await (
     await request(
       "Rotate shared link",

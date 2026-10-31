@@ -1,64 +1,44 @@
 ---
-title: 'Olive Young Shopping Checklist: Compare Products Without the Hype'
+title: 'Shopping at Olive Young in Korea: Build a List You Can Use and Carry'
 date: '2026-02-05'
 updated: '2026-10-31'
 excerpt: >-
-  Prepare a product list and check the domestic store’s prices and membership
-  conditions; global website benefits are separate.
+  Compare exact products, quantities and checkout conditions instead of treating
+  every popular item as a must-buy.
 category: shopping-kbeauty
-image: /images/editorial/seongsu.webp
+image: /images/editorial/exp-c-olive-young-checkout-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
   - shopping
 draft: false
 ---
-A product is not a bargain merely because it has a sale sticker. Compare size, unit price, intended use and luggage space. If your skin is sensitive, avoid treating a popular ingredient or a staff recommendation as individualized medical advice.
+**A useful shopping list solves your needs and fits the journey home.** Popularity alone cannot tell you whether a product suits you, duplicates something you own or fits the bag.
 
-## Build a practical shortlist
+## Make a four-column list
 
-Choose a familiar product category, desired texture, size and spending limit. This is a purchase checklist, not a diagnosis or skin-treatment prescription. Avoid adding many unfamiliar active products because of a popularity display; seek qualified advice for a medical skin condition.
+| Purpose | Exact item | Compare | Carry home |
+| --- | --- | --- | --- |
+| Something you already use | Product/version and package size | Unit price, set contents and expiry where relevant | Container size and luggage space |
+| A new item | Intended use and ingredient questions | Whether a smaller purchase is sensible | Avoid buying a large set before understanding it |
+| A gift | Recipient's actual preferences | Separate units versus a bulky bundle | Fragility, liquids and destination restrictions |
 
-## Compare before you commit
+This is an editorial shopping method. We do not label a cosmetic universally suitable or promise a medical result.
 
-| Check | Record |
-| --- | --- |
-| Variant | Full name and formula |
-| Quantity | Milliliters, grams or units |
-| Final price | Checkout total after verified benefits |
-| Suitability | Ingredients and your requirements |
-| Departure | Refund documents and packing |
+## Separate Global membership from local stores
 
-This comparison organizes the decision. It is not a guarantee of availability or an individual price quote.
+The [OLIVE YOUNG Global membership FAQ](https://global.oliveyoung.com/display/page/membership) explicitly excludes **local Korean stores**. Do not plan domestic-store spending around Global points or coupons. Check the local checkout's actual offer, terms and eligible payment method rather than assuming the website account transfers.
 
-## Compare the exact product
+The checkout photograph shows an interior scene, not proof of today's stock, price, refund desk or service at every branch.
 
-Check the complete name, formula, volume, package count and included gifts. Compare price per milliliter or item only between matching variants. A bundle on the shelf may differ from the single bottle beside it, so check the barcode and checkout summary.
+## Ask about tax refunds before payment
 
-**Check the operator:** [OLIVE YOUNG Global membership FAQ](https://global.oliveyoung.com/display/page/membership) · [Duty Free and Tax Refunds — KTO](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140736).
+Seller participation and the transaction decide the refund route. A brand name alone does not establish eligibility. Ask what passport/transaction information is required, which refund operator handles it and what receipt or form you should retain. Use the [tax-refund sequence](/blog/tax-refund-for-tourists-how-to-claim) rather than expecting a universal ten-percent return.
 
-## Keep global and Korean-store benefits separate
+<GuidePhoto id="exp-c-tax-refund-kiosks" caption="Tax-refund kiosks illustrate a separate refund step. Confirm your actual operator, terminal, inspection requirements and operating hours; this photo does not prove that any kiosk will process your receipt." />
 
-OLIVE YOUNG Global's official membership FAQ excludes local Korean stores. Do not count global points or coupons when estimating a domestic-store purchase. Confirm the branch's own current benefits and final checkout price.
+## Check the container before the basket
 
-## Use testers and labels carefully
+[Incheon Airport's international carry-on rules](https://www.airport.kr/ap_en/1433/subview.do) use **container capacity**, not the amount left inside. A large half-empty skincare bottle does not become a 100 mL container. Keep carry-on, checked baggage, transit screening and destination import checks separate.
 
-Ask staff about sampling rules and read the actual ingredient label. A tester does not establish absence of allergens or predict a reaction. If you cannot establish a product's suitability, leave it off the shortlist.
-
-## Check the refund route before paying
-
-At a participating seller, present your passport and ask which refund process applies. Keep eligible goods and paperwork available for departure checks. The brand name alone does not establish eligibility, and the VAT headline rate is not the cash refund.
-
-## Buy for the luggage you have
-
-Check container capacity against international carry-on rules and plan checked packing for larger liquids. Do not open or refill goods you intend to export as new and unused. Leave time to pack and weigh your purchases before airport day.
-
-## Before you go
-
-- Choose products for your needs
-- Compare the exact package
-- Keep Global membership separate
-- Verify the refund process
-- Pack according to container capacity
-
-Save the current operator notice and your own booking conditions offline. Recheck any dated information before paying or traveling.
+Choose the [shopping district](/blog/seoul-shopping-districts-complete-guide-myeongdong-to-gangnam) that fits your day, then stop when the useful list is complete. Finish with the [packing and refund-goods checklist](/blog/packing-korean-shopping-liquids-and-souvenirs-for-your-flight) before the airport morning becomes a sorting task.

@@ -4,7 +4,15 @@ import type { Place } from '@/lib/content-types';
 import { track } from '@/lib/analytics';
 import { readLocalPlan, writeLocalPlan, type ItineraryStop } from '@/lib/itinerary';
 import Link from 'next/link';
-export default function PlaceMap({ places, guideId }: { places: Place[]; guideId?: string }) {
+export default function PlaceMap({
+  places,
+  guideId,
+  id = 'places-and-map',
+}: {
+  places: Place[];
+  guideId?: string;
+  id?: string;
+}) {
   const [active, setActive] = useState(false);
   const [error, setError] = useState('');
   const [message, setMessage] = useState('');
@@ -98,7 +106,7 @@ export default function PlaceMap({ places, guideId }: { places: Place[]; guideId
     }
   }
   return (
-    <section className="place-map-section" id="places-and-map">
+    <section className="place-map-section" id={id}>
       <div className="section-heading">
         <div>
           <p className="eyebrow">Put it on the map</p>
@@ -141,6 +149,11 @@ export default function PlaceMap({ places, guideId }: { places: Place[]; guideId
               </p>
               {p.address ? <p>{p.address}</p> : null}
               <p>{p.description}</p>
+              {p.accessibilityNote ? (
+                <p>
+                  <strong>Access check:</strong> {p.accessibilityNote}
+                </p>
+              ) : null}
               <div className="place-actions">
                 <a
                   href={`https://map.naver.com/p/search/${encodeURIComponent(p.nameKo)}`}
@@ -159,9 +172,18 @@ export default function PlaceMap({ places, guideId }: { places: Place[]; guideId
                 <a href={p.officialUrl} target="_blank" rel="noopener noreferrer">
                   Place reference ↗
                 </a>
-                {p.addressSource ? (
-                  <a href={p.addressSource} target="_blank" rel="noopener noreferrer">
-                    Visitor information ↗
+                {p.visitorUrl || p.addressSource ? (
+                  <a
+                    href={p.visitorUrl || p.addressSource}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    {p.visitorUrl ? 'Visitor information ↗' : 'Address source ↗'}
+                  </a>
+                ) : null}
+                {p.accessibilityUrl ? (
+                  <a href={p.accessibilityUrl} target="_blank" rel="noopener noreferrer">
+                    Access & assistance contact ↗
                   </a>
                 ) : null}
                 <button onClick={() => copy(`${p.nameKo}${p.address ? '\n' + p.address : ''}`)}>

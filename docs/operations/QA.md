@@ -1,5 +1,11 @@
 # Rebuild verification record — 2026-10-31 KST
 
+## Traveler upgrade in progress
+
+The earlier record below describes the a402467 launch baseline. The current traveler upgrade is separate: all forty core guide bodies have been rewritten with forty distinct hero originals; all 794 guide heroes now pass source/path/exact-hash reuse checks. The 754 other guides remain an explicitly held archive pending evidence-based editorial review. Unsupported ExpertTip attributions are withheld rather than presented as verified people/interviews; urgent 1330 and late-night-pharmacy corrections preserve their URLs.
+
+Current local evidence: 18 root tests, six Worker tests, all-guide content/media guards, current card fingerprints and a clean export. Stage migration 0004 passed 45 remote permission/privacy checks before subsequent title-concurrency hardening; rerun the deployed probe after that change. CI f69f76e passed 76 tests, but only covered the first eight rewritten guides. The expanded suite lists 328 tests across forty guides, hubs/support pages and ten actual interaction scenarios at four widths. It must run, its screenshots must be visually reviewed, and defects must be fixed before traveler acceptance. Do not treat this text or test listing as a pass.
+
 This records actual local checks, not a certification of every screen, external provider or future behavior. Raw screenshots and test/restore reports remain private under `.private/review` and `.private/reports`.
 
 Static checks passed for 794 published guides, including the 40 reviewed launch guides, 18 places, source/media rights, relationships and retired-link protection. The full inventory audit found no broken internal guide links. Export checks verify each launch article's H1, canonical, valid JSON-LD, sources, card and sitemap entry. All 41 reviewed preview cards have the expected 1200×630 dimensions and metadata/photo fingerprints. The export guard counts real files, sizes and types and enforces the hosting budget without deleting RSC assets.

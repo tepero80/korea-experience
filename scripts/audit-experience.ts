@@ -41,8 +41,10 @@ for (const p of posts)
 const inventory = posts.map((p) => {
   const internalLinks = internalGuideLinks(p.content);
   const bodyPhotoIds = [...p.content.matchAll(/<GuidePhoto\s+id="([^"]+)"/g)].map((m) => m[1]);
+  const withheldAttributions = [...p.content.matchAll(/<ExpertTip\b/g)].length;
   const flags = [
     ...(!p.reviewed ? ['editorial-review-pending'] : []),
+    ...(withheldAttributions ? ['archive-attribution-withheld-no-evidence'] : []),
     ...(!p.editorial?.imageCredit ? ['hero-provenance-not-reviewed'] : []),
     ...((groups.get(heroIdentity(p))?.length || 0) > 1 ? ['hero-original-reused'] : []),
     ...(!bodyPhotoIds.length && !/!\[|<ImageGallery|<img\b/.test(p.content)
@@ -67,11 +69,17 @@ const inventory = posts.map((p) => {
     hero: p.image || null,
     heroOriginal: heroIdentity(p),
     bodyPhotoIds,
+    withheldAttributions,
     internalGuideLinks: internalLinks,
     incoming: incoming.get(p.slug) || [],
     sources: p.editorial?.sources || [],
     flags,
-    decision: p.editorial?.heroMediaId ? 'prototype-in-progress' : 'hold-for-editorial-review',
+    decision: p.editorial?.heroMediaId
+      ? 'implemented-awaiting-traveler-acceptance'
+      : 'hold-for-editorial-review',
+    reason: p.editorial?.heroMediaId
+      ? 'Rewrite and distinct media prepared; visual/task acceptance recorded separately.'
+      : 'Indexing, usage and backlinks unavailable; archive first-public dates unverified. Preserve URL and prioritize factual/source review instead of deleting blindly.',
     deletionEvidence: {
       indexing: 'unavailable',
       usage: 'unavailable',

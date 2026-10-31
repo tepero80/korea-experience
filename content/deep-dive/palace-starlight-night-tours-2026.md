@@ -1,63 +1,38 @@
 ---
-title: 'Seoul Palace Nights: General Night Viewing, Starlight and Moonlight'
+title: 'Seoul Palace Nights: Three Different Programs and What Is Open Now'
 date: '2026-02-27'
 updated: '2026-10-31'
 excerpt: >-
-  General night viewing, Starlight and Moonlight are different products; the
-  cited autumn 2026 runs have ended.
+  Separate general night viewing, Gyeongbokgung Starlight and Changdeokgung
+  Moonlight; the cited autumn 2026 runs have ended.
 category: culture-events
-image: /images/editorial/gyeongbokgung.webp
+image: /images/editorial/exp-c-gwanghwamun-night-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
   - culture
 draft: false
 ---
-Do not book accommodation around a date copied from last season. Save the official program name and announcement page, choose a daytime backup, and confirm the palace, language, meeting gate and weather policy when a new season is published.
+**Do not build an evening around an old booking button.** General night viewing, Starlight and Moonlight are separate products with different palaces, dates and conditions. As checked **31 October 2026**, all three autumn runs below have ended; no next-season availability was established.
 
-## Check whether the season is open
+## Know which program you mean
 
-As of October 30, 2026, the cited autumn sessions have ended. Use this comparison to choose which announcement to follow for a future visit. The dates below are historical; they do not establish current booking availability or a future season’s schedule.
+| Program | Historical autumn 2026 run | Current planning status |
+| --- | --- | --- |
+| Gyeongbokgung general night viewing | 2 September–2 October; no Monday/Tuesday nights; 19:00–21:30, last entry 20:30 | Ended; wait for a new official notice |
+| Gyeongbokgung Starlight | 2 September–24 October; 21–24 October designated foreigner-only sessions | Ended; do not infer the next run or eligibility |
+| Changdeokgung Moonlight | 10 September–17 October | Ended; separate palace/program |
 
-## Compare before you commit
+Check the actual Royal Palaces notices for [general viewing](https://royal.khs.go.kr/ROYAL/contents/R403000000.do?act=totalSearch&id=20260818101010114410&schGroupCode=gbg&schM=view), [Starlight](https://royal.khs.go.kr/ROYAL/contents/R201000000.do?act=view&ceIdx=202608130292&undefined=) and [Moonlight](https://royal.khs.go.kr/ROYAL/contents/R201000000.do?act=view&ceIdx=202608180295&undefined=). These links document the ended season, not a promise that a session can currently be purchased.
 
-| Program | Palace | Cited autumn 2026 status | Next-season source |
-| --- | --- | --- | --- |
-| General night viewing | Gyeongbokgung | Ended October 2 | Official palace notice |
-| Starlight / 별빛야행 | Gyeongbokgung | Ended October 24 | Official program ticketing |
-| Moonlight / 달빛기행 | Changdeokgung | Ended October 17 | Official program ticketing |
+## When the next announcement appears
 
-This comparison organizes the decision. It is not a guarantee of availability or an individual price quote.
+Read the palace, program name, visit date, sale date/time zone, language/eligibility, identity rules, seller and cancellation/weather terms. Save the confirmed ticket privately. A general admission waiver or a hanbok rule does not automatically replace a special-program ticket.
 
-## General night viewing is a separate product
+<GuidePhoto id="seoul-geunjeongjeon" caption="Gyeongbokgung in daylight. A daytime visit is a separate choice with its own opening and admission conditions; the photograph does not imply evening-program access." />
 
-Gyeongbokgung's general night viewing opens selected areas under its own entry conditions. The cited 2026 autumn run ended October 2. That historical example explains why readers must verify the year and exact notice.
+## Keep a useful alternative
 
-**Check the operator:** [2026 autumn Gyeongbokgung night viewing notice](https://royal.khs.go.kr/ROYAL/contents/R403000000.do?act=totalSearch&id=20260818101010114410&schGroupCode=gbg&schM=view) · [2026 autumn Gyeongbokgung Starlight official event](https://royal.khs.go.kr/ROYAL/contents/R201000000.do?act=view&ceIdx=202608130292&undefined=).
+For the current trip, check the [daytime palace block in the Seoul route](/blog/seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026), then combine it with a nearby meal or [Insadong tea stop](/blog/winter-food-and-tea-walk-insadong-seoul). If the weather or closure makes that unsuitable, choose an [indoor cluster](/blog/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets).
 
-## Starlight is Gyeongbokgung's organized program
-
-Use the official name 별빛야행 and check the actual season's included areas, dining or performance components, language and meeting point. The cited autumn run ended October 24. Do not merge its calendar or price with general admission.
-
-## Moonlight takes place at Changdeokgung
-
-달빛기행 has its own palace, guided route and reservation details. The cited autumn run ended October 17. A ticket for one palace or program is not interchangeable with the others.
-
-## Plan the rest of the evening around the ticket
-
-Confirm date, required arrival time, gate, language, ID, age conditions, walking demands and weather policy. Save the Korean meeting point and return route. Avoid a long dinner queue immediately before a timed tour.
-
-## Use a genuine backup
-
-If night tickets are unavailable, choose an ordinary day visit or another verified cultural activity. General hanbok admission rules do not establish access to special ticketed night programs. Future dates need fresh official evidence.
-
-## Before you go
-
-- Verify the program and palace
-- Read the current season notice
-- Check language and ID
-- Save the meeting gate
-- Read the weather policy
-- Plan the return route
-
-Save the current operator notice and your own booking conditions offline. Recheck any dated information before paying or traveling.
+Do not buy an uncertain resale ticket to rescue an itinerary built around an unconfirmed future season. For [hanbok rental](/blog/hanbok-rental-complete-guide-styles-and-pricing), settle the actual palace/program conditions first so the rental return time and package solve a real plan.

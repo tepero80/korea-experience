@@ -37,8 +37,9 @@ export default function Terms() {
       <p>
         You retain rights in your contributions and permit Korea Experience to display, format and
         moderate the content you submit for publication. Private plans are not public by default. A
-        shared link is readable by anyone who receives it; remove sensitive notes before enabling
-        sharing. Account controls allow contribution deletion and shared-link revocation.
+        shared link is readable by anyone who receives it; review the selected fields and remove
+        sensitive information before creating a snapshot. Later private edits are not published
+        automatically. Account controls allow contribution deletion and shared-link revocation.
       </p>
       <h2>Reuse and advertising</h2>
       <p>

@@ -1,79 +1,46 @@
 ---
-title: 'Korea Trip Booking Timeline: Eight Weeks to Arrival Day'
+title: 'Before Your Korea Trip: What to Arrange First, and What to Recheck'
 date: '2026-10-31'
 updated: '2026-10-31'
 excerpt: >-
-  Reserve in order of consequence: entry eligibility, flights and rooms, then
-  scarce dated experiences.
+  Use an eight-week preparation sequence without mistaking it for the official
+  sales window of every ticket.
 category: plan-your-trip
-image: /images/editorial/incheon-airport.webp
+image: /images/editorial/incheon-air-seoul-checkin-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
   - planning
 draft: false
 ---
-Before buying a nonrefundable performance, check the arrival day and hotel cancellation terms. If the operator has not released your date, record its official calendar and a substitute activity rather than treating an absent date as sold out.
+**Book in order of consequence.** An entry problem, an unsuitable hotel or an impossible late arrival is harder to fix than removing one optional café. The eight-week sequence below is planning advice, not an official sale calendar.
 
-## Eight weeks: settle the constraints
+## Use this sequence even if you have fewer than eight weeks
 
-Check passport/nationality/date requirements before nonrefundable commitments; note that authorization and arrival declaration differ.
-
-Fix flight dates, usable nights, number of bases, mobility needs and party room requirements.
-
-Make a shared list of must-book items and cancelable items with the person responsible for each.
-
-## Compare before you commit
-
-| When | Action | Evidence to retain |
+| Planning stage | Do now | Keep a record of |
 | --- | --- | --- |
-| 8 weeks | Eligibility, dates, trip shape | Official eligibility link and checked date |
-| 6 weeks | Room and base | Occupancy and cancellation confirmation |
-| 4 weeks | Limited-capacity bookings | Operator calendar and fallback |
-| 2 weeks | Airport, connectivity and payment | Saved route and Korean address |
-| 3 days | Arrival declaration if required | Official submission record |
-| Arrival day | Choose live onward connection | Terminal and actual departure |
+| About 8 weeks before | Check passport-specific entry rules, usable days and budget | Official eligibility guidance and your arrival date |
+| About 4–8 weeks before | Compare actual hotel properties and flight/arrival conditions | Occupancy, cancellation deadline, late check-in and Korean address |
+| About 2–4 weeks before | Check release notices for priority trains, programs or performances | Exact product, language, named-ticket rules and seller |
+| Final week | Recheck route, closures, forecast and packing | Current notices and a fallback |
+| Arrival filing window, if required | Follow official e-Arrival Card eligibility and timing | Submission/booking details kept privately |
 
-This comparison organizes the decision. It is not a guarantee of availability or an individual price quote.
+You can compress the sequence for a short-notice trip. Do not move a booking earlier than its actual sales release just because a checklist mentions a week number.
 
-## Six weeks: choose a workable accommodation base
+## Separate entry eligibility from the arrival declaration
 
-Reserve a room whose actual occupancy and bedding fit the group, preferably with a cancellation deadline you understand.
+Use the [official Visa Navigator](https://www.visa.go.kr/openPage.do?MENU_ID=10102) and the relevant diplomatic mission for your passport and purpose. The checked [K-ETA temporary-exemption notice](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y&locale=EN) covers listed nationalities only through **31 December 2026, Korean time**. It does not establish 2027 rules.
 
-Ask about late arrival, lifts, room type, crib/extra bed and accessible bathrooms where relevant.
+The [e-Arrival Card guide](https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E) says filing is free and opens from three days before arrival using Korean time. Check [who must file](https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do?locale=E); a K-ETA exemption and an arrival-declaration exemption are not the same thing.
 
-Record cancellation timezone, total payable price and whether payment is taken now or at the hotel.
+## Confirm the whole arrival, not only the flight
 
-**Check the operator:** [Korea Immigration Service: e-Arrival Card filing guide](https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E) · [K-ETA official notice: temporary exemption extended through 2026](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y&locale=EN).
+Choose the [hotel area](/blog/seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style), then check its exact entrance and the [airport transfer](/blog/airport-limousine-bus-vs-arex-express-train). Ask about reception at the time you can realistically arrive after immigration and bags.
 
-## Four weeks: track priority bookings
+<GuidePhoto id="airport-platform" caption="Airport rail orientation is one part of the arrival plan. Save the correct service, station exit and final hotel walk before flying; the photographed concourse is not a current timetable." />
 
-For a limited-capacity attraction, follow that attraction’s official booking notice and calendar. Different venues release reservations on different schedules.
+## Open the operator's notice before paying
 
-Verify current rail booking rules from the live operator; late-2026 policy changes make old one-month advice unsafe.
+Confirm the actual date, year, language, age rules and meeting point. A past event page can retain a booking button. For trains, consult the [current rail-booking guide](/blog/ktx-vs-srt-high-speed-train-comparison-and-booking) and live sale calendar rather than assuming every service opens a fixed number of days ahead.
 
-Keep a fallback for each scarce booking, such as a daytime palace route or an untimed museum visit.
-
-## Two weeks: join the practical pieces
-
-Choose airport transfer and a backup, save Korean addresses and confirm arrival instructions.
-
-Arrange appropriate connectivity and independent payment methods; check device compatibility with the provider.
-
-Put bookings into a day-by-day board, leaving transfer and rest blocks visible.
-
-## Final week and three-day window
-
-Recheck forecasts, closure notices and any changed reservation messages.
-
-If required, submit the free e-Arrival Card only within its official three-day KST window using the official website.
-
-Share key confirmations and accommodation details offline with the travel party.
-
-## Arrival and during the trip
-
-Use actual terminal exit time to select transport; do not chase a missed final connection.
-
-Notify the property using its published contact if arrival changes substantially.
-
-Review next day's hours and weather each evening; the checklist is a changing plan, not a static certificate.
+Keep a private folder of confirmations, cancellation terms and assistance contacts. Put public place names in your [itinerary](/tools/itinerary); keep passport copies and booking codes elsewhere.

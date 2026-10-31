@@ -13,12 +13,13 @@ export default function Credits() {
       <p className="eyebrow">The images behind the guides</p>
       <h1 className="section-title">Photography & image credits</h1>
       <p>
-        These real photographs are used under their stated licenses. They illustrate places, not
-        current opening conditions, crowds or bookable services. Rights in the photographs do not
-        automatically grant rights in depicted people or brands.
+        Photographs, video stills and original illustrations are identified individually below.
+        Historical scenes illustrate places, not current opening conditions, crowds or bookable
+        services. Illustrations explain a process or example rather than document an actual
+        facility. Image licenses do not automatically grant rights in depicted people or brands.
       </p>
       <p>
-        Social preview cards crop the corresponding guide photograph and identify its author and
+        Social preview cards use the corresponding guide image and identify its author and
         license. Cards adapted from share-alike photographs follow that license. Follow the original
         source and license links below when reusing them. Text-only downloadable trip cards are
         created in your browser.

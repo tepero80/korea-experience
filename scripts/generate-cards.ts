@@ -48,7 +48,10 @@ async function main() {
     const details = 'editorial' in post ? post.editorial : undefined;
     const credit = media.find((m) => m.src === post.image)?.credit;
     const photo = await sharp('public' + post.image)
-      .resize(400, 630, { fit: 'cover' })
+      .resize(400, 630, {
+        fit: credit?.kind === 'illustration' ? 'contain' : 'cover',
+        background: '#f2f7f4',
+      })
       .png()
       .toBuffer();
     let title = await text(post.title, 46, 710, '#163632', true, true);

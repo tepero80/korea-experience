@@ -27,7 +27,9 @@ jobs:
         if: always()
         with:
           name: traveler-quality-screens
-          path: test-results/**/page.png
+          path: |
+            test-results/**/page.png
+            test-results/**/helper-open.png
           retention-days: 1
       - uses: actions/upload-artifact@v4
         if: failure()

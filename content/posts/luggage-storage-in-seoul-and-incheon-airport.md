@@ -1,88 +1,49 @@
 ---
-title: Where to Leave Luggage in Seoul and at Incheon Airport
+title: 'Luggage Storage in Seoul and Incheon: Choose by Retrieval Time'
 date: '2026-10-31'
 updated: '2026-10-31'
 excerpt: >-
-  Choose storage by collection time, bag size and the final onward route, rather
-  than the nearest locker alone.
+  Separate lockers, staffed storage and delivery, then check the bag size and
+  when you can actually collect it.
 category: airports-transport
-image: /images/editorial/incheon-airport.webp
+image: /images/editorial/seoul-subway-lockers-2013-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
   - planning
 draft: false
 ---
-On checkout day, a hotel hold can be simplest if returning to the hotel does not undo your route. A staffed counter near the departure station may be better for a one-way sightseeing day, but only after confirming its last pickup and bag acceptance.
+**Choose the retrieval plan before the storage price.** A cheap locker is not useful if it closes before you return or sends you across the city with a train to catch.
 
-## Station counters worth checking along your route
+## Choose the service that fits the gap
 
-| Checked T-Luggage counter | Listed location cue |
-| --- | --- |
-| Seoul Station | B1, near exits 1–2 |
-| Hongik University | B1, between Line 2 and AREX |
-| Myeongdong | B1, near exits 1 / 9 / 10 |
-| Gimpo Airport | B1, toward the Line 5 international-terminal direction |
+| Option | Useful when… | Confirm before leaving the bag |
+| --- | --- | --- |
+| Station locker | Your route returns to the same station and the bag fits | Exact location, size, payment and collection hours |
+| Staffed storage | You want staff to confirm acceptance and retrieval | Desk location, bag rules, receipt and closing time |
+| Delivery | Your route ends somewhere else and the operator accepts both ends | Booking cutoff, collection point, delivery deadline and support |
+| Hotel arrangement | The property explicitly agrees to hold it | Dates, reception hours, collection process and any fee |
 
-Confirm hours, bag acceptance and pickup before committing. The checked delivery arrangement requires a staffed counter at one end; do not assume locker-to-locker delivery. Source: [Incheon Airport: Airport Railroad Guide / T-Luggage](https://airport.kr/ap_en/1512/subview.do).
+## Read locker prices with their time unit
 
-## Choose storage versus delivery first
+The [Seoul government's T-Locker information](https://world.seoul.go.kr/service/movement/public-transportation/subway-storage-facilities/) lists these **four-hour base charges**, checked 31 October 2026. Extra hours and your actual installation need a separate check.
 
-Storage returns the bag to the same point; delivery adds deadlines, destination acceptance and delivery timing.
+| Locker size | Weekday base | Weekend base | Listed extra charge per hour |
+| --- | --- | --- | --- |
+| Small | ₩2,200 | ₩3,100 | ₩500 |
+| Medium | ₩3,300 | ₩4,600 | ₩800 |
+| Large | ₩4,400 | ₩6,100 | ₩1,000 |
 
-For a sightseeing day between hotels, choose pickup location before choosing the cheapest locker.
+The page lists **05:00–24:00** operation and no storage/retrieval outside operating hours. Do not assume every station entrance or locker is accessible all night. Measure the bag against the actual compartment before paying; “large suitcase” is not a standardized fit.
 
-Avoid a storage choice that makes you cross the city twice just to reclaim a bag.
+<GuidePhoto id="seoul-subway-lockers-2013" caption="Seoul subway lockers photographed in 2013 illustrate different compartment sizes. Their old payment interface and posted prices are not current instructions." />
 
-## Compare before you commit
+## Staffed T-Luggage is a different product
 
-| Option | Best question to ask |
-| --- | --- |
-| Hotel hold | Can I collect after checkout at my actual departure time? |
-| Station locker | Will my dimensions fit, and when can I access it? |
-| Staffed counter | What is the final same-day pickup time? |
-| Airport delivery | When will it arrive, and at which terminal/counter? |
+The [operator's English page](https://tluggage.co.kr/eng_new) lists the Seoul Station desk at **B1 in the direction from Exit 1 toward Exit 2**, **09:00–22:00**. Its small-bag four-hour example starts at **₩3,000 weekdays / ₩4,000 weekends**, with a listed **₩1,000 extra hour**. Confirm the bag category and current total directly; this is not the locker tariff above.
 
-This comparison organizes the decision. It is not a guarantee of availability or an individual price quote.
+For airport delivery, use the [airport's current service information](https://airport.kr/ap_en/1512/subview.do) and the operator's booking details. The airport describes limits on locker-to-locker delivery, with at least one staffed endpoint. Do not infer that an airport terminal has a specific counter, deadline or open space from a station listing.
 
-## Use the right type of service
+## Save four details before walking away
 
-Compare hotel hold, staffed station counter, unmanned locker and airport provider by operating window, bag size and pickup path.
-
-Ask the hotel whether it accepts pre-check-in/post-checkout storage and whether it takes responsibility for valuables.
-
-A locker with available small spaces is not evidence that a large suitcase will fit.
-
-**Check the operator:** [Incheon Airport: Airport Railroad Guide / T-Luggage](https://airport.kr/ap_en/1512/subview.do) · [Incheon Airport: Amenities directory](https://www.airport.kr/ap_en/1546/subview.do).
-
-## Understand station-to-airport delivery conditions
-
-T-Luggage's official airport guide requires a staffed counter at at least one end; locker-to-locker delivery is not established by that guide.
-
-Check current booking cutoff, flight terminal and airline check-in time against delivery arrival.
-
-Do not put passports, medication, cash, batteries restricted by provider rules or same-day essentials in a dispatched bag without checking terms.
-
-## Locate the counter precisely
-
-Use station level, corridor/exit reference and a Korean place name alongside the map.
-
-The airport amenities directory must be filtered for terminal and date because old Hanjin notices have conflicting locations/hours.
-
-Confirm the right side of security and whether a transit passenger can reach a landside provider.
-
-## Build a pickup-safe itinerary
-
-Work backwards from counter close and flight check-in rather than squeezing one more attraction into the route.
-
-Save claim ticket, provider contact and pickup instructions offline.
-
-If pickup is delayed, contact the provider before closing; do not assume unattended overnight access.
-
-## Compare a quote for your actual bag and pickup time
-
-Open the provider link with your bag dimensions, drop-off and pickup times ready. Compare its current quote and late-collection terms before paying.
-
-Use a checklist for valuables, cutoff, pickup location and flight terminal.
-
-Choose storage near a route you will already use; do not add an extra cross-city journey just to leave a bag.
+Keep the exact map/location, receipt or access reference, retrieval deadline and operator support contact **privately**. Photograph the entrance if permitted and useful. Leave enough time to collect the bag before the [airport transfer](/blog/airport-limousine-bus-vs-arex-express-train) or [intercity train](/blog/ktx-vs-srt-high-speed-train-comparison-and-booking), then put collection in your [itinerary](/tools/itinerary) as a real stop.

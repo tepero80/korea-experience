@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">A room's bed count does not determine its allowed occupancy</title>
+  <desc id="desc">An illustrative room with two beds is shown beside a party of two adults and two children. Confirm the exact room's maximum guests, each child's age and extra bedding with the property before booking.</desc>
+  <rect width="1200" height="800" fill="#f2f7f4"/><rect width="1200" height="14" fill="#086b66"/>
+  <g font-family="Arial,sans-serif" fill="#163632">
+    <text x="90" y="110" font-size="20" font-weight="700" fill="#086b66">KOREA EXPERIENCE · ROOM-BOOKING CHECK</text>
+    <text x="90" y="175" font-size="42" font-weight="700">Beds do not decide room capacity.</text>
+    <text x="90" y="218" font-size="22" fill="#546c68">A layout example, not a photograph or policy of a particular hotel.</text>
+    <g fill="#fff" stroke="#cfe1da"><rect x="90" y="265" width="460" height="280" rx="20"/><rect x="650" y="265" width="460" height="280" rx="20"/></g>
+    <text x="125" y="312" font-size="19" font-weight="700" fill="#546c68">ROOM LAYOUT</text><text x="685" y="312" font-size="19" font-weight="700" fill="#546c68">YOUR PARTY</text>
+    <g stroke="#086b66" stroke-width="5" fill="#e1f1ec"><rect x="145" y="357" width="140" height="100" rx="10"/><rect x="350" y="357" width="140" height="100" rx="10"/><rect x="160" y="371" width="110" height="27" rx="6" fill="#fff"/><rect x="365" y="371" width="110" height="27" rx="6" fill="#fff"/><path d="M145 427H285M350 427H490M145 457V470M285 457V470M350 457V470M490 457V470"/></g>
+    <text x="320" y="510" text-anchor="middle" font-size="26" font-weight="700">Two beds</text>
+    <path d="M574 400H624M610 386L624 400L610 414" fill="none" stroke="#086b66" stroke-width="5"/>
+    <g fill="#086b66"><circle cx="722" cy="367" r="22"/><rect x="701" y="397" width="42" height="70" rx="15"/><circle cx="817" cy="367" r="22"/><rect x="796" y="397" width="42" height="70" rx="15"/></g>
+    <g fill="#ba641a"><circle cx="917" cy="390" r="18"/><rect x="900" y="416" width="34" height="51" rx="13"/><circle cx="1012" cy="390" r="18"/><rect x="995" y="416" width="34" height="51" rx="13"/></g>
+    <text x="880" y="510" text-anchor="middle" font-size="26" font-weight="700">2 adults + 2 children</text>
+    <rect x="90" y="585" width="1020" height="118" rx="18" fill="#086b66"/>
+    <text x="120" y="632" font-size="27" font-weight="700" fill="#fff">Confirm: maximum guests · child ages · extra bedding</text>
+    <text x="120" y="672" font-size="21" fill="#fff">Use the property's written reply for this exact room and your travel dates.</text>
+    <text x="90" y="751" font-size="20" fill="#546c68">“Family” in a room name is a starting point—not an occupancy guarantee.</text>
+  </g>
+</svg>

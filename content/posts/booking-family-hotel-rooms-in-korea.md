@@ -1,78 +1,44 @@
 ---
-title: 'Booking a Family Room in Korea: Occupancy, Beds and Everyday Details'
+title: 'Booking a Family Room in Korea: Occupancy Is Not the Bed Count'
 date: '2026-10-31'
 updated: '2026-10-31'
 excerpt: >-
-  Confirm permitted occupants, child ages, actual beds and the route with
-  luggage before comparing room prices.
+  Send the ages, sleeping requirements and arrival details in one inquiry, then
+  confirm the exact room and total.
 category: where-to-stay
-image: /images/editorial/bukchon.webp
+image: /images/editorial/family-room-occupancy-illustration.svg
 author: Korea Experience Editorial
 tags:
   - seoul
   - accommodation
 draft: false
 ---
-A room marketed for two adults may not solve sleeping arrangements for two children. Send the hotel the ages and ask for the exact bed setup, additional charges and maximum occupancy in writing before making a nonrefundable booking.
+**Count people, beds and permitted occupancy separately.** A room can look large and still permit fewer guests than your family. Enter each child's age for the actual dates, then confirm sleeping arrangements before a nonrefundable payment.
 
-## Do not book from the word family
+## Check five different things
 
-Count every adult and child with ages; then compare the room's explicit occupancy limit.
+| Question | A useful written answer |
+| --- | --- |
+| Who may stay? | Maximum adults/children and each child's age policy for the exact room |
+| Where will everyone sleep? | Bed sizes/count, floor bedding, crib or extra bed; what is confirmed |
+| What will it cost? | Entire party, nights, taxes/fees, bedding and breakfast where relevant |
+| Can the rooms connect? | An internal connecting door and whether that pairing is confirmed |
+| Can we use it comfortably? | Bathroom layout, stroller/luggage path, lifts and late-arrival arrangements |
 
-A room advertised as family may allow only three people, as the direct operator example shows.
+## Read a real policy without generalizing it
 
-Distinguish maximum guests from bed size and ask whether an infant counts toward the room limit.
+The [LOTTE HOTEL WORLD Residential Junior Family Twin page](https://app.lottehotel.com/world-hotel/en/rooms/residential-junior-family-twin-room) lists **a maximum of three guests**. Its family name does not establish four-person occupancy. It lists a microwave and washer-dryer but prohibits cooking and flammable materials. Equipment is not permission to use it in any way you choose.
 
-## Confirm where each person sleeps
+The [SIGNIEL SEOUL FAQ](https://app.lottehotel.com/seoul-signiel/en/about/faq) separates an additional-person charge from an extra bed, prohibits exceeding room capacity and says connecting rooms are unavailable. Its cribs/bed rails are limited and requested separately. These are two properties' examples, not rules for all Korean hotels.
 
-Ask for the number/type of fixed beds and whether an extra person actually receives bedding.
+## Copy this inquiry and replace the brackets
 
-Extra-person fees, extra beds, floor bedding, cribs and bed rails are separate questions.
+> We are staying [dates], with [adults] and children aged [ages on arrival]. Please confirm the exact room's permitted occupancy and the bed/bedding arrangement for each person. We need [crib/rail/extra bed or none]. Is that equipment confirmed or only requested? Please quote the complete stay total and cancellation terms. We also need [bathroom/stroller/mobility requirements] and expect to arrive at [time]. How do we reach the entrance with luggage and check in if delayed?
 
-Confirm limited equipment in writing before relying on it; a request is not a guaranteed reservation.
+Keep the reply with the reservation. A booking platform's general child policy may not settle the selected room's maximum capacity or equipment inventory.
 
-**Check the operator:** [LOTTE SIGNIEL SEOUL: property FAQ](https://app.lottehotel.com/seoul-signiel/en/about/faq) · [LOTTE HOTEL WORLD: Residential Junior Family Twin](https://app.lottehotel.com/world-hotel/en/rooms/residential-junior-family-twin-room).
+## Put the accepted room into the budget
 
-## Make washing, food and bath time practical
+Use **rooms × nights × the complete room-night cost**, then add separately charged items once. In the [budget planner](/tools/trip-budget), changing from one room to two should change accommodation without silently doubling every person's meal allowance.
 
-If laundry matters, verify washer and drying method at room level; a property amenity can mean a shared service.
-
-A microwave/fridge does not automatically permit cooking; follow the property's stated restrictions.
-
-Check bathtub/shower layout, non-slip needs, bathroom privacy and space for baby equipment.
-
-## Connecting rooms and accessibility
-
-Check whether connecting rooms exist and can be confirmed; adjacent requests do not create an internal door.
-
-Ask about elevator access, entrance steps, stroller storage and room door/bathroom width when needed.
-
-Give mobility requirements concretely; 'family-friendly' is too vague to verify a usable room.
-
-## Compare total booking conditions
-
-Include adult/child breakfast rules, taxes, bedding and equipment fees in the final price.
-
-Read cancellation deadline and no-show terms in the property's timezone.
-
-Ask what happens if the requested room/equipment is unavailable rather than treating a booking-site icon as a promise.
-
-## Send one specific pre-booking message
-
-Provide dates, all ages, preferred beds, crib/rail requirement, arrival time and any access needs.
-
-Request written confirmation of maximum occupancy, confirmed sleeping surfaces and final price.
-
-Save the response with the reservation and reconnect to the airport-transfer and neighborhood guide.
-
-## Before you go
-
-- All travelers and child ages entered
-- Room-level occupancy accepted
-- Sleeping place for each traveler
-- Extra bed/crib/rail confirmed
-- Bathroom and access requirements answered
-- Laundry/cooking restrictions understood
-- Total price and cancellation deadline saved
-
-Save the current operator notice and your own booking conditions offline. Recheck any dated information before paying or traveling.
+Choose the [Seoul base](/blog/seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style) or [Busan base](/blog/where-to-stay-in-busan-neighborhoods) around repeat journeys. Finish by checking the [airport-to-door route](/blog/airport-limousine-bus-vs-arex-express-train): a room that works well can still be a difficult first night if the final walk and late check-in are unresolved.
