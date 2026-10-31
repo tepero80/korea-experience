@@ -3,18 +3,30 @@ import assert from 'node:assert/strict';
 import { readFileSync } from 'node:fs';
 import { retiredResponse } from '../src/retirement-route';
 import retirements from '../../../data/retirements.json';
+import workarounds from '../../../data/retirement-cache-workarounds.json';
 
-test('each removed URL has an exact route for both production hostnames', () => {
+test('only recorded cache workarounds have exact routes for both production hostnames', () => {
   const config = readFileSync('wrangler.jsonc', 'utf8');
   const expected = new Set<string>();
-  for (const item of retirements.filter((entry) => entry.action === 'removed'))
+  for (const item of workarounds) {
+    assert.ok(retirements.some((entry) => entry.slug === item.slug && entry.action === 'removed'));
+    assert.match(item.observedAt, /^\d{4}-\d{2}-\d{2}$/);
+    assert.match(item.reviewAfter, /^\d{4}-\d{2}-\d{2}$/);
+    assert.ok(item.reason.trim());
     for (const host of ['koreaexperience.com', 'www.koreaexperience.com']) {
       const route = `${host}/blog/${item.slug}`;
       expected.add(route);
       assert.ok(config.includes(`"pattern": "${route}"`));
     }
-  const actual = [...config.matchAll(/"pattern":\s*"((?:www\.)?koreaexperience\.com\/blog\/[^"*]+)"/g)].map((match) => match[1]);
-  assert.deepEqual(new Set(actual), expected, 'Remove obsolete Worker routes when a guide is restored.');
+  }
+  const actual = [
+    ...config.matchAll(/"pattern":\s*"((?:www\.)?koreaexperience\.com\/blog\/[^"*]+)"/g),
+  ].map((match) => match[1]);
+  assert.deepEqual(
+    new Set(actual),
+    expected,
+    'Remove obsolete Worker routes when a guide is restored.',
+  );
 });
 
 test('only recorded removed URLs get a genuine no-store 404 without forwarding private query strings', async () => {

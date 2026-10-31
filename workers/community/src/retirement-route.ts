@@ -1,8 +1,6 @@
-import retirements from '../../../data/retirements.json';
+import workarounds from '../../../data/retirement-cache-workarounds.json';
 
-const removed = new Set(
-  retirements.filter((item) => item.action === 'removed').map((item) => `/blog/${item.slug}`),
-);
+const removed = new Set(workarounds.map((item) => `/blog/${item.slug}`));
 const fallback =
   '<!doctype html><html lang="en"><meta charset="utf-8"><meta name="robots" content="noindex"><title>Page unavailable | Korea Experience</title><main><h1>This page is unavailable.</h1><p>This guide is no longer published.</p><a href="/blog">Find a travel guide</a></main></html>';
 
