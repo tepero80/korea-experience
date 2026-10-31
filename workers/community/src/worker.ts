@@ -2,6 +2,7 @@ import { env as bindings } from 'cloudflare:workers';
 import entry from './index';
 import { auth } from './auth';
 import type { Env } from './env';
+import { retiredResponse } from './retirement-route';
 
 // Build the authentication routes during bounded Worker startup, alongside Hono's routes.
 // Runtime schema I/O is replaced by the deployment/export validation gates.
@@ -19,7 +20,9 @@ if (startup.COMMUNITY_ENABLED === 'true' && startup.BETTER_AUTH_SECRET?.length >
   await auth(startup).$context;
 
 export default {
-  fetch(request: Request, env: Env, context: ExecutionContext) {
+  async fetch(request: Request, env: Env, context: ExecutionContext) {
+    const retired = await retiredResponse(request);
+    if (retired) return retired;
     // Read current secret values on every invocation; auth() invalidates stale configuration.
     return entry.fetch(request, { ...env, DB: database }, context);
   },
