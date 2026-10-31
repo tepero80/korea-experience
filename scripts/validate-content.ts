@@ -1,8 +1,9 @@
 import fs from 'node:fs';
 import { getAllPosts, getLaunchGuides, getPostBySlug } from '../lib/posts';
 import { PLACES, RETIREMENTS } from '../lib/editorial';
-import { TRAVEL_CATEGORIES } from '../lib/taxonomy';
 import { PRACTICAL_TOOLS } from '../lib/constants';
+import initialLaunch from '../data/launch-manifest.json';
+import { unaccountedLaunchGuides } from '../lib/retirement';
 const posts = getAllPosts(),
   launch = getLaunchGuides(),
   slugs = new Set(posts.map((p) => p.slug)),
@@ -30,11 +31,31 @@ for (const p of posts) {
   for (const m of getPostBySlug(p.slug)!.content.matchAll(/\]\(\/blog\/([^\s)#/]+)(?:#[^)]+)?\)/g))
     if (!slugs.has(m[1])) errors.push('Broken body link ' + p.slug + ' -> ' + m[1]);
 }
-if (launch.length < 40) errors.push('Launch portfolio below 40');
-for (const c of TRAVEL_CATEGORIES)
-  if (launch.filter((p) => p.categoryId === c.slug).length < 5)
-    errors.push('Category has fewer than five ' + c.slug);
+if (
+  initialLaunch.length !== 40 ||
+  new Set(initialLaunch.map((guide) => guide.slug)).size !== 40 ||
+  new Set(initialLaunch.map((guide) => guide.id)).size !== 40
+)
+  errors.push('The historical forty-guide launch manifest is incomplete or duplicated');
+for (const guide of unaccountedLaunchGuides(
+  initialLaunch,
+  launch,
+  RETIREMENTS.map((r) => r.slug),
+))
+  errors.push('Launch guide lost without a recorded retirement: ' + guide.slug);
 for (const r of RETIREMENTS) {
+  if (
+    !r.reason?.trim() ||
+    !r.decidedAt ||
+    !r.evidence?.publicationDate ||
+    !r.evidence?.reviewedAt ||
+    !r.evidence?.indexingStatus?.trim() ||
+    /unknown|unavailable|unverified|pending|not.checked/i.test(r.evidence.indexingStatus) ||
+    !r.evidence.usageChecked ||
+    !r.evidence.linksChecked ||
+    !r.evidence.seasonalChecked
+  )
+    errors.push('Incomplete retirement review ' + r.slug);
   if (slugs.has(r.slug)) errors.push('Retired URL still published ' + r.slug);
   if (r.action === 'redirect' && (!r.target || !slugs.has(r.target)))
     errors.push('Invalid retirement target ' + r.slug);

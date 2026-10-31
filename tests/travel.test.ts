@@ -6,7 +6,11 @@ import {
   airportOptions,
   preparationChecklist,
 } from '../lib/travel-tools';
-import { assessRetirement, type RetirementEvidence } from '../lib/retirement';
+import {
+  assessRetirement,
+  unaccountedLaunchGuides,
+  type RetirementEvidence,
+} from '../lib/retirement';
 import { internalGuideLinks } from '../lib/content-links';
 test('link audit distinguishes relative guide links from another site’s blog path', () => {
   assert.deepEqual(
@@ -96,6 +100,20 @@ const unindexed: RetirementEvidence = {
   journeyRole: false,
   useful: true,
 };
+
+test('recorded retirement can shrink the launch while new articles cannot hide an accidental loss', () => {
+  const initial = [
+    { id: 'a', slug: 'original-a' },
+    { id: 'b', slug: 'original-b' },
+  ];
+  const live = [initial[0], { id: 'new', slug: 'new-guide' }];
+  assert.deepEqual(unaccountedLaunchGuides(initial, live, []), [initial[1]]);
+  assert.deepEqual(unaccountedLaunchGuides(initial, live, ['original-b']), []);
+  assert.deepEqual(
+    unaccountedLaunchGuides(initial, [...live, { id: 'wrong', slug: 'original-b' }], []),
+    [initial[1]],
+  );
+});
 test('unknown evidence protects content; a useful guide gets one improvement cycle', () => {
   assert.equal(assessRetirement({ ...unindexed, backlinks: null }).action, 'hold');
   assert.equal(assessRetirement(unindexed).action, 'improve');

@@ -28,6 +28,8 @@ Audit all eligible aged-unindexed URLs and the six-month file forecast. The 90-d
 
 Retirement is one change set: recovery snapshot; all inbound body/anchor/hub/related/tool/language/community/saved/public-plan references; merged text; redirect or actual 404; catalog/search/sitemap; type/content tests; build/export budget; Git main push; actual deployment response. Current automation must not retire a URL until dynamic references can also be queried/repaired. Do not treat local client storage as centrally editable: resolve stable IDs and show unavailable items with removal/undo.
 
+Keep data/launch-manifest.json as the original forty-guide delivery history, not a permanent quantity floor or a log to append future batches to. Each original ID/URL must remain reviewed and live or have a complete recorded retirement. Later requested batches have their own private production/research record and public commit/report counts for new versus rewritten URLs. Additional articles cannot compensate for an original guide that disappears without a retirement record.
+
 Review region/language demand, useful community answers, ad experiment results, quotas, privacy settings and a real restoration drill. File warning 14,000, block ordinary file-increasing deployment at 16,000; platform maximum 20,000/25MiB per file. Keep framework output intact. No paid upgrades. Image-generation exception is KRW10,000/month, reserved with current prices/FX/tax before any Google call; unknown cost means no paid call.
 
 ## Release and recovery

@@ -12,6 +12,16 @@ export interface RetirementEvidence {
   duplicateTarget?: string;
   improvedAtDaysAgo?: number;
 }
+/** The launch is a historical delivery record, not a permanent article-count floor. */
+export function unaccountedLaunchGuides(
+  initial: readonly { id: string; slug: string }[],
+  publishedReviewed: readonly { id: string; slug: string }[],
+  retiredSlugs: readonly string[],
+) {
+  const live = new Map(publishedReviewed.map((guide) => [guide.slug, guide.id]));
+  const retired = new Set(retiredSlugs);
+  return initial.filter((guide) => live.get(guide.slug) !== guide.id && !retired.has(guide.slug));
+}
 export function assessRetirement(e: RetirementEvidence) {
   if (e.intentionalNoindex)
     return { action: 'keep', reason: 'Intentional indexing policy; not an indexing failure.' };

@@ -11,6 +11,7 @@ The subsequent reversible stop-removal change adds an inline recovery action ins
 ## Coverage and boundaries
 
 - All 794 public guides have media/link/risk inventories and explicit keep-for-review or upgrade decisions. No guide was removed solely because traffic, backlinks or indexing evidence was unavailable.
+- The original forty-guide manifest is retained as history. A missing original guide must be accounted for by its reviewed live ID or a recorded retirement; adding unrelated new guides cannot conceal a loss. There is no permanent forty-guide or five-per-category floor. Retirement records still require evidence checks and incoming-link/target repair.
 - Forty core guides received the complete rewrite. This upgrade created zero new article URLs; the earlier launch portfolio's fourteen new and twenty-six rewritten URLs remain separately classified.
 - Forty distinct hero originals support those guides. All 794 heroes pass path, original-source identity and exact-hash reuse guards. Two whole-archive perceptual candidates were visually inspected and found to be different scenes; one hash is not proof against every possible crop.
 - Twenty-seven core guides have contextual body photographs. Comparison/process guides use useful diagrams, tables, examples or embedded planning helpers instead of an arbitrary photo quota. Historic images disclose their limits; illustrations and a video still are identified.
