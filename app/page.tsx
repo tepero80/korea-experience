@@ -5,6 +5,7 @@ import { PRIMARY_TRAVEL_TOOLS, SITE_CONFIG } from '@/lib/constants';
 import BlogCard from '@/components/BlogCard';
 import Icon from '@/components/site/Icon';
 import Search from '@/components/Search';
+import { mediaFor } from '@/lib/media';
 export const metadata = {
   title: { absolute: SITE_CONFIG.title },
   alternates: { canonical: SITE_CONFIG.url + '/' },
@@ -14,6 +15,7 @@ export default function Home() {
   const featured = getFeaturedPosts();
   const picks = (featured.length ? featured : getAllPosts()).slice(0, 3);
   const seasonal = launch.filter((p) => p.editorial?.format === 'seasonal').slice(0, 2);
+  const homePhoto = mediaFor('bukchon')!;
   return (
     <>
       <script
@@ -55,10 +57,12 @@ export default function Home() {
         </div>
         <figure className="hero-figure">
           <img
-            src="/images/editorial/bukchon.webp"
+            src={homePhoto.src}
+            srcSet={homePhoto.srcSet}
+            sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1360px) calc((100vw - 132px) / 2), 614px"
             alt="Traditional tiled hanok roofs lining a quiet lane in Bukchon, Seoul"
-            width="1280"
-            height="1440"
+            width={homePhoto.width}
+            height={homePhoto.height}
             fetchPriority="high"
           />
           <figcaption>

@@ -12,7 +12,10 @@ if (shard) {
     (post) =>
       !post.reviewed &&
       (post.slug in corrections ||
-        /<(?:StatCard|LocationCard)\b/.test(getPostBySlug(post.slug)!.content)),
+        /<(?:StatCard|LocationCard|PriceTable|ExpertTip)\b/i.test(
+          getPostBySlug(post.slug)!.content,
+        ) ||
+        /- \[[ xX]\]/.test(getPostBySlug(post.slug)!.content)),
   );
   for (const post of affected.filter((_, index) => index % 4 === shard - 1)) {
     test(`archive evidence display: ${post.slug}`, async ({ page }, info) => {
@@ -44,7 +47,7 @@ if (shard) {
       await page.screenshot({
         path: info.outputPath('archive.jpg'),
         type: 'jpeg',
-        quality: 80,
+        quality: 70,
         fullPage: true,
       });
       await fs.writeFile(

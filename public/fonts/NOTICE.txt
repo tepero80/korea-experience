@@ -12,3 +12,8 @@ Modifications on 2026-10-31: subset Unicode ranges 0000-00FF, 0100-024F,
 2000-206F, 20A0-20CF, 2190-21FF using fontTools; rename the modified families
 KE Traveler Display and KE Traveler Sans. Variable weights retained.
 These modified fonts remain under the SIL Open Font License 1.1.
+
+Delivery encoding on 2026-10-31: WOFF2 format compression with fontTools4.62.0
+and Brotli1.2.1. Existing names, Unicode mappings, glyph order, advance widths
+and variable axes were retained and round-trip verified. Original TTF files
+remain for card rendering and the preceding deployed stylesheet's fallback.

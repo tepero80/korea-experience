@@ -10,14 +10,31 @@ if (process.env.GITHUB_ACTIONS !== 'true')
 const run = promisify(execFile);
 const folder = 'test-results/lab-performance';
 await fs.mkdir(folder, { recursive: true });
-const server = spawn(process.execPath, ['scripts/preview.mjs'], { stdio: 'ignore' });
-const origin = 'http://127.0.0.1:3000';
+const supplied = process.env.LAB_PREVIEW_BASE_URL || '';
+if (supplied) {
+  const candidate = new URL(supplied);
+  if (
+    candidate.protocol !== 'https:' ||
+    !/^[a-z0-9-]+\.korea-experience\.pages\.dev$/.test(candidate.hostname) ||
+    candidate.port ||
+    candidate.username ||
+    candidate.password ||
+    candidate.pathname !== '/' ||
+    candidate.search ||
+    candidate.hash
+  )
+    throw Error('Remote lab target must be a plain Korea Experience Pages preview origin.');
+}
+const origin = supplied ? new URL(supplied).origin : 'http://127.0.0.1:3000';
+const server = supplied
+  ? null
+  : spawn(process.execPath, ['scripts/preview.mjs'], { stdio: 'ignore' });
 const samples = [];
 try {
   let ready = false;
   for (let attempt = 0; attempt < 30; attempt++) {
     try {
-      if ((await fetch(origin)).ok) {
+      if ((await fetch(origin, { redirect: 'manual' })).status === 200) {
         ready = true;
         break;
       }
@@ -40,7 +57,13 @@ try {
           '--output=json',
           '--output=html',
           '--output-path=' + prefix,
-          '--blocked-url-patterns=*google-analytics.com/*,*googletagmanager.com/*,*googlesyndication.com/*,*doubleclick.net/*',
+          ...[
+            '*google-analytics.com/*',
+            '*googletagmanager.com/*',
+            '*googlesyndication.com/*',
+            '*doubleclick.net/*',
+            'https://koreaexperience.com/*',
+          ].map((pattern) => '--blocked-url-patterns=' + pattern),
           ...(device === 'desktop' ? ['--preset=desktop'] : []),
         ];
         await run(process.execPath, flags, {
@@ -116,9 +139,9 @@ try {
     JSON.stringify(
       {
         sourceCommit: process.env.GITHUB_SHA,
+        origin,
         measuredAt: new Date().toISOString(),
-        scope:
-          'Cold disposable Chromium, local static export, default Lighthouse simulated mobile/desktop profiles, three runs per route/profile. Analytics/ads excluded. Lab TBT is not field INP; this is not production CWV certification.',
+        scope: `Cold disposable Chromium, ${supplied ? 'Cloudflare preview (deployment commit verified separately)' : 'uncompressed local static export'}, default Lighthouse simulated mobile/desktop profiles, three runs per route/profile. Analytics/ads excluded. Lab TBT is not field INP; this is not production CWV certification.`,
         samples,
         summaries,
       },
@@ -127,5 +150,5 @@ try {
     ),
   );
 } finally {
-  server.kill();
+  server?.kill();
 }

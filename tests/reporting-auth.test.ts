@@ -8,7 +8,11 @@ import {
   mergeReportingTokens,
   safeReportingError,
 } from '../scripts/reporting/auth';
-import { protectReportingValue, unprotectReportingValue } from '../scripts/reporting/private-store';
+import {
+  protectReportingValue,
+  unprotectReportingValue,
+  prepareReportingDirectory,
+} from '../scripts/reporting/private-store';
 
 const installed = {
   client_id: '123-fixture.apps.googleusercontent.com',
@@ -82,6 +86,8 @@ test(
   'Windows DPAPI encrypts and decrypts a harmless fixture for the current user',
   { skip: process.platform !== 'win32' },
   () => {
+    prepareReportingDirectory();
+    prepareReportingDirectory();
     const fixture = { purpose: 'nonsecret local round-trip fixture', number: 42 };
     const cipher = protectReportingValue(fixture);
     assert.ok(!cipher.includes(fixture.purpose));

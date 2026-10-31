@@ -42,13 +42,15 @@ for (const p of posts)
 const inventory = posts.map((p) => {
   const internalLinks = internalGuideLinks(p.content);
   const bodyPhotoIds = [...p.content.matchAll(/<GuidePhoto\s+id="([^"]+)"/g)].map((m) => m[1]);
-  const withheldAttributions = [...p.content.matchAll(/<ExpertTip\b/g)].length;
+  const withheldAttributions = [...p.content.matchAll(/<ExpertTip\b/gi)].length;
   const flags = [
     ...(!p.reviewed ? ['editorial-review-pending'] : []),
     ...(withheldAttributions ? ['archive-attribution-withheld-no-evidence'] : []),
     ...(!p.editorial?.imageCredit ? ['hero-provenance-not-reviewed'] : []),
     ...((groups.get(heroIdentity(p))?.length || 0) > 1 ? ['hero-original-reused'] : []),
-    ...(!bodyPhotoIds.length && !/!\[|<ImageGallery|<img\b/.test(p.content)
+    ...(!bodyPhotoIds.length &&
+    !p.editorial?.gallery?.length &&
+    !/!\[|<ImageGallery|<img\b/.test(p.content)
       ? ['no-contextual-body-photographs']
       : []),
     ...(!internalLinks.length ? ['no-contextual-guide-links'] : []),

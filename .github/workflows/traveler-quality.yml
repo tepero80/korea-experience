@@ -4,13 +4,24 @@ on:
     branches: [main, 'codex/**']
   pull_request:
   workflow_dispatch:
+    inputs:
+      review_type:
+        description: Full acceptance or a separate performance measurement
+        type: choice
+        options: [full, performance]
+        default: full
+      preview_url:
+        description: Optional verified Korea Experience Pages preview origin (performance only)
+        type: string
+        default: ''
 permissions:
   contents: read
 concurrency:
-  group: traveler-quality-${{ github.ref }}
+  group: traveler-quality-${{ github.ref }}-${{ inputs.review_type || 'full' }}
   cancel-in-progress: true
 jobs:
   archive-impact:
+    if: inputs.review_type != 'performance'
     runs-on: ubuntu-latest
     outputs:
       required: ${{ steps.impact.outputs.required }}
@@ -29,11 +40,12 @@ jobs:
           try {
             const base = event.before || event.pull_request?.base?.sha || 'HEAD^';
             const files = execFileSync('git', ['diff', '--name-only', base, 'HEAD'], {encoding:'utf8'}).split('\n');
-            required ||= files.some(file => /^(?:components\/mdx\/(?:StatCard|LocationCard)\.tsx|lib\/archive-integrity\.ts|data\/archive-corrections\.json|tests\/e2e\/archive-integrity\.spec\.ts)$/.test(file));
+            required ||= files.some(file => /^(?:components\/MDXContent\.tsx|components\/mdx\/(?:StatCard|LocationCard|PriceTable)\.tsx|lib\/archive-integrity\.ts|data\/(?:archive-corrections|media)\.json|styles\/design-system\.css|tests\/e2e\/archive-integrity\.spec\.ts)$/.test(file));
           } catch { required = true; }
           fs.appendFileSync(process.env.GITHUB_OUTPUT, 'required=' + required + '\n');
           NODE
   export-and-journeys:
+    if: inputs.review_type != 'performance'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
@@ -73,6 +85,8 @@ jobs:
       - run: npm run build
       - run: npx playwright install --with-deps chromium
       - run: node scripts/lab-performance.mjs
+        env:
+          LAB_PREVIEW_BASE_URL: ${{ inputs.review_type == 'performance' && inputs.preview_url || '' }}
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -103,10 +117,40 @@ jobs:
       - uses: actions/upload-artifact@v4
         if: always()
         with:
-          name: archive-evidence-${{ matrix.shard }}
+          name: archive-evidence-${{ matrix.shard }}-320
           path: |
-            test-results/**/*.jpg
-            test-results/**/*.png
-            test-results/**/*-info.json
-            test-results/**/error-context.md
+            test-results/*-chromium-320/*.jpg
+            test-results/*-chromium-320/*.png
+            test-results/*-chromium-320/*-info.json
+            test-results/*-chromium-320/error-context.md
+          retention-days: 1
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: archive-evidence-${{ matrix.shard }}-390
+          path: |
+            test-results/*-chromium-390/*.jpg
+            test-results/*-chromium-390/*.png
+            test-results/*-chromium-390/*-info.json
+            test-results/*-chromium-390/error-context.md
+          retention-days: 1
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: archive-evidence-${{ matrix.shard }}-768
+          path: |
+            test-results/*-chromium-768/*.jpg
+            test-results/*-chromium-768/*.png
+            test-results/*-chromium-768/*-info.json
+            test-results/*-chromium-768/error-context.md
+          retention-days: 1
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: archive-evidence-${{ matrix.shard }}-1440
+          path: |
+            test-results/*-chromium-1440/*.jpg
+            test-results/*-chromium-1440/*.png
+            test-results/*-chromium-1440/*-info.json
+            test-results/*-chromium-1440/error-context.md
           retention-days: 1

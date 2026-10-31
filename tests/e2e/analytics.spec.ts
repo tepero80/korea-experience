@@ -2,6 +2,11 @@ import { test, expect, type Page } from '@playwright/test';
 import fs from 'node:fs/promises';
 
 const origin = 'https://koreaexperience.com';
+test.afterEach(async ({ page }) => {
+  // Next may still have static-route prefetches in flight after the assertion.
+  // Finish handlers before Playwright disposes their API response context.
+  await page.unrouteAll({ behavior: 'wait' });
+});
 async function isolatedProductionOrigin(page: Page, blockWrites = false) {
   // All apex requests are fulfilled by the local export. No real analytics,
   // advertising, authentication, mail or contribution request can leave this fixture.
@@ -123,13 +128,29 @@ test('engaged reading qualifies only after consent and is counted once', async (
   await page.goto(origin + '/blog/first-trip-to-korea-planning-guide?token=PRIVATE#draft');
   await page
     .locator('.article-body')
-    .evaluate((element) => element.scrollIntoView({ block: 'end' }));
+    .evaluate((element) => element.scrollIntoView({ block: 'end', behavior: 'instant' }));
+  await expect
+    .poll(() =>
+      page.locator('.article-body').evaluate((element) => {
+        const box = element.getBoundingClientRect();
+        return box.top + box.height / 2 < innerHeight;
+      }),
+    )
+    .toBe(true);
   await page.clock.runFor(46000);
   expect(await events(page, 'guide_engaged')).toHaveLength(0);
   await page.getByRole('button', { name: 'Allow analytics', exact: true }).click();
   await page
     .locator('.article-body')
-    .evaluate((element) => element.scrollIntoView({ block: 'end' }));
+    .evaluate((element) => element.scrollIntoView({ block: 'end', behavior: 'instant' }));
+  await expect
+    .poll(() =>
+      page.locator('.article-body').evaluate((element) => {
+        const box = element.getBoundingClientRect();
+        return box.top + box.height / 2 < innerHeight;
+      }),
+    )
+    .toBe(true);
   await page.clock.runFor(44000);
   expect(await events(page, 'guide_engaged')).toHaveLength(0);
   await page.clock.runFor(2000);

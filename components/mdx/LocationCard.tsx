@@ -101,7 +101,7 @@ export default function LocationCard({
 
           {/* Rating & Price */}
           <div className="flex flex-col items-end gap-1">
-            {priceRange && <span className="text-lg font-bold text-green-600">{priceRange}</span>}
+            {priceRange && <span className="text-lg font-bold text-green-800">{priceRange}</span>}
           </div>
         </div>
 

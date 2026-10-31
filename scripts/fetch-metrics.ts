@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import { REPORTING_TARGETS, reportingAccessToken, safeReportingError } from './reporting/auth';
 import { reportingWindows, contentForReportUrl } from './reporting/report-policy';
+import { retainObservedReports, type ReportHistory } from './reporting/history';
 import {
   gscReport,
   gaReport,
@@ -114,6 +115,21 @@ async function main() {
       },
     ]),
   );
+  const historyPath = '.private/reports/metrics-last-success.json';
+  const previousSuccesses: ReportHistory = fs.existsSync(historyPath)
+    ? JSON.parse(fs.readFileSync(historyPath, 'utf8'))
+    : {};
+  const successes = retainObservedReports(previousSuccesses, now.toISOString(), [
+    ...Object.entries(periods).flatMap(([period, results]) =>
+      results.map((result) => ({
+        key: `${period}/${result.name}`,
+        window: windows[period as keyof typeof windows],
+        result,
+      })),
+    ),
+    { key: 'policy', result: policy },
+    { key: 'alerts', result: alerts },
+  ]);
   const report = {
     at: now.toISOString(),
     windows,
@@ -127,6 +143,12 @@ async function main() {
     normalizedPages,
     policy,
     alerts,
+    lastSuccess: Object.fromEntries(
+      Object.entries(successes).map(([key, value]) => [
+        key,
+        { at: value.at, window: value.window },
+      ]),
+    ),
   };
   const folder = `.private/reports/${now.toISOString().slice(0, 10)}`;
   fs.mkdirSync(folder, { recursive: true });
@@ -135,6 +157,8 @@ async function main() {
     JSON.stringify(report, null, 2),
   );
   fs.writeFileSync('.private/reports/metrics-latest.json', JSON.stringify(report, null, 2));
+  fs.writeFileSync(historyPath + '.tmp', JSON.stringify(successes, null, 2));
+  fs.renameSync(historyPath + '.tmp', historyPath);
   for (const [period, results] of Object.entries(periods))
     for (const result of results)
       console.log(

@@ -1,6 +1,26 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readOfficial, gscReport, gaReport, adsenseReportUrl } from '../scripts/reporting/client';
+import { retainObservedReports } from '../scripts/reporting/history';
+
+test('an unavailable poll preserves dated successes while a genuinely empty report replaces them', () => {
+  const first = retainObservedReports({}, '2026-10-30T00:00:00Z', [
+    {
+      key: 'pages',
+      result: { name: 'pages', status: 'observed', data: { rows: [{ clicks: 3 }] } },
+    },
+  ]);
+  const failed = retainObservedReports(first, '2026-10-31T00:00:00Z', [
+    { key: 'pages', result: { name: 'pages', status: 'unavailable', httpStatus: 401 } },
+  ]);
+  assert.deepEqual(failed, first);
+  const empty = retainObservedReports(failed, '2026-11-01T00:00:00Z', [
+    { key: 'pages', result: { name: 'pages', status: 'observed', data: { rows: [] } } },
+  ]);
+  assert.equal(empty.pages.at, '2026-11-01T00:00:00Z');
+  assert.deepEqual(empty.pages.result.data?.rows, []);
+  assert.equal(first.pages.result.data?.rows.length, 1);
+});
 
 const dates = { startDate: '2026-10-01', endDate: '2026-10-28' };
 test('unavailable, genuine empty and partial reporting results remain distinct without credential output', async () => {

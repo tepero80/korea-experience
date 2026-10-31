@@ -5,6 +5,34 @@ import { renderToStaticMarkup } from 'react-dom/server';
 import StatCard from '../components/mdx/StatCard';
 import LocationCard from '../components/mdx/LocationCard';
 import { factualRiskTitle, legacyPhoneLink } from '../lib/archive-integrity';
+import { compileGuideContent } from '../components/MDXContent';
+
+test('case variants cannot bypass withheld attribution, statistics or fictional-place components', async () => {
+  const { content } = await compileGuideContent(`
+<expertTip author="Unverified clinician" role="Invented expert" verified={true}>Unsupported clinical advice fixture</expertTip>
+
+<EXPERTTIP name="Another unsupported identity" quote="Fabricated interview fixture" />
+
+<statCard stats={[{value:"99%",label:"Unsupported safety claim"}]} />
+
+<locationCard name="Recovery Center (Example)" address="Unverified address" rating={5} reviewCount={100} />
+`);
+  const html = renderToStaticMarkup(content);
+  assert.doesNotMatch(
+    html,
+    /Unverified clinician|Unsupported clinical advice|Another unsupported identity|Fabricated interview|99%|Unverified address|experttip|statcard|locationcard/i,
+  );
+});
+
+test('read-only Markdown tasks have their actual task text as an accessible name', async () => {
+  const { content } = await compileGuideContent(
+    '- [ ] Save the branch address\n- [x] Keep a receipt',
+  );
+  const html = renderToStaticMarkup(content);
+  assert.match(html, /aria-label="Save the branch address \(read-only checklist\)"/);
+  assert.match(html, /aria-label="Keep a receipt \(read-only checklist\)"/);
+  assert.match(html, /disabled/);
+});
 
 test('archive display labels cannot re-publish unverified statistics or business ratings', () => {
   assert.equal(
