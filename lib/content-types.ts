@@ -43,6 +43,7 @@ export interface EditorialGuide {
   changeType: 'new' | 'rewrite';
   imageCredit?: MediaCredit;
   heroMediaId?: string;
+  heroCaption?: string;
   experienceVersion?: 2;
   gallery?: { src: string; alt: string; credit: MediaCredit }[];
 }

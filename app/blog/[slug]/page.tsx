@@ -184,6 +184,7 @@ export default async function Guide({ params }: { params: Params }) {
                 fetchPriority="high"
               />
               <figcaption>
+                {e?.heroCaption ? <p className="hero-caption">{e.heroCaption}</p> : null}
                 <PhotoCredit credit={e?.imageCredit} />
                 {!e?.imageCredit ? (
                   <p className="photo-credit">

@@ -33,7 +33,6 @@ Add **₩3,000 for a new physical Climate Card** if needed. Check purchase/recha
 
 Check each origin, destination and route against the official coverage. Sinbundang, GTX and airport/express buses should not be assumed covered. The Incheon Airport T1/T2 exception permits qualifying **alighting, not boarding**. An inbound airport train is not automatically included in a city pass.
 
-<GuidePhoto id="soraepogu-card-reload" caption="Ticket and transport-card machines at Soraepogu Station in Incheon, July 2024. This is not a verified Climate Card machine; a general transport-card facility does not establish pass coverage." />
 
 ## Work through a family example correctly
 

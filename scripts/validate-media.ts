@@ -51,8 +51,11 @@ for (const p of posts)
     heroOwners.set(identity, p.slug);
   }
 for (const p of posts) {
-  for (const match of p.content.matchAll(/<GuidePhoto\s+id="([^"]+)"/g))
+  for (const match of p.content.matchAll(/<GuidePhoto\s+id="([^"]+)"/g)) {
     if (!byId.has(match[1])) errors.push(`Unknown body image ${p.slug}: ${match[1]}`);
+    if (match[1] === p.editorial?.heroMediaId)
+      errors.push(`Hero repeated as a body image ${p.slug}: ${match[1]}`);
+  }
   if (!p.editorial?.heroMediaId) continue;
   const m = byId.get(p.editorial.heroMediaId);
   if (

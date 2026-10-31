@@ -29,6 +29,7 @@ jobs:
           name: traveler-quality-evidence
           path: |
             test-results/**/*.png
+            test-results/**/*.jpg
             test-results/**/error-context.md
             test-results/**/*-info.json
           retention-days: 1

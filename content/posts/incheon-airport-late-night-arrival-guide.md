@@ -34,7 +34,6 @@ Use the airport's Seoul night-bus page for **[Terminal 1](https://airport.kr/ap_
 
 The page lists adult fares of **₩17,000 for N6000/N6002** and **₩18,000 for N6701/N6703**. Recheck the exact departure, boarding point and current fare. Do not apply the T1 list automatically to T2.
 
-<GuidePhoto id="incheon-6777-night-bus" caption="A bus at an airport stop at night in March 2026. This is route 6777-1 toward Incheon Bus Terminal, not a Seoul night-bus recommendation; use the official terminal-specific list for your route." />
 
 ## Keep a fallback that reaches the door
 

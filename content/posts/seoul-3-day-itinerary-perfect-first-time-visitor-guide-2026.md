@@ -58,6 +58,8 @@ The [museum’s current visitor page](https://www.museum.go.kr/ENG/contents/E010
 
 **With children:** reserve the actual Children’s Museum session if that is the reason for visiting. Do not promise entry from the general free-admission rule. **With limited walking:** choose fewer galleries and verify lifts, entrance and assistance with the venue before departure.
 
+<GuidePhoto id="exp-c-nmk-exterior-plaza" caption="The National Museum’s exterior plaza in November 2019 shows why an indoor destination can still involve an outdoor approach. Check the current station-to-entrance route and protect that walk from rain or cold; this photograph does not verify today’s accessible route." />
+
 ## Turn the route into your own days
 
 1. Put each cluster on a date that passes its closure check.

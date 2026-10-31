@@ -14,7 +14,12 @@ async function capturePage(page: Page, info: TestInfo, name = 'page') {
   await page.evaluate(() => window.scrollTo(0, 0));
   await page.waitForFunction(() => scrollY === 0);
   await page.evaluate(() => document.fonts.ready);
-  await page.screenshot({ path: info.outputPath(name + '.png'), fullPage: true });
+  await page.screenshot({
+    path: info.outputPath(name + '.jpg'),
+    type: 'jpeg',
+    quality: 85,
+    fullPage: true,
+  });
   await fs.writeFile(
     info.outputPath(name + '-info.json'),
     JSON.stringify(
@@ -22,6 +27,7 @@ async function capturePage(page: Page, info: TestInfo, name = 'page') {
         path: new URL(page.url()).pathname,
         title: await page.title(),
         test: info.title,
+        imageFile: name + '.jpg',
         ...(await page.evaluate(() => ({
           width: innerWidth,
           height: innerHeight,

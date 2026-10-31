@@ -416,6 +416,12 @@ button:disabled {
 .photo-credit details {
   margin-top: 5px;
 }
+.hero-caption {
+  margin: 12px 0 6px;
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ke-muted);
+}
 .photo-credit summary {
   cursor: pointer;
   text-decoration: underline;

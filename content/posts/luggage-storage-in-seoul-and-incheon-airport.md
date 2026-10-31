@@ -36,7 +36,6 @@ The [Seoul government's T-Locker information](https://world.seoul.go.kr/service/
 
 The page lists **05:00–24:00** operation and no storage/retrieval outside operating hours. Do not assume every station entrance or locker is accessible all night. Measure the bag against the actual compartment before paying; “large suitcase” is not a standardized fit.
 
-<GuidePhoto id="seoul-subway-lockers-2013" caption="Seoul subway lockers photographed in 2013 illustrate different compartment sizes. Their old payment interface and posted prices are not current instructions." />
 
 ## Staffed T-Luggage is a different product
 
