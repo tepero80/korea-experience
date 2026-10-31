@@ -1,10 +1,8 @@
 'use client';
+import { illustrativePlace, legacyPhoneLink } from '@/lib/archive-integrity';
 
-/**
- * LocationCard Component
- * GEO 최적화: LocalBusiness 스키마와 연동
- * Deep Research 전략: 구체적인 위치 정보로 AI 인용 최적화
- */
+// Legacy location text, pending individual operator-source review. Do not emit
+// LocalBusiness/ratings schema from author-entered display fields.
 
 interface LocationCardProps {
   /** 장소명 */
@@ -52,8 +50,6 @@ export default function LocationCard({
   phone,
   website,
   priceRange,
-  rating,
-  reviewCount,
   transit,
   highlights,
   reservationRequired,
@@ -62,37 +58,21 @@ export default function LocationCard({
   tags,
   tip,
 }: LocationCardProps) {
-  const renderStars = (rating: number) => {
-    const stars = [];
-    for (let i = 1; i <= 5; i++) {
-      stars.push(
-        <span key={i} className={i <= rating ? 'text-yellow-400' : 'text-gray-300'}>
-          ★
-        </span>
-      );
-    }
-    return stars;
-  };
+  // A fictional example is not a real facility. Bare JSX ratings are not a
+  // review source; none of the archive ratings has a reviewed retrieval record.
+  if (illustrativePlace(name)) return null;
+  const telephone = legacyPhoneLink(phone);
 
   return (
-    <div 
-      className="my-8 bg-white rounded-2xl shadow-lg border border-gray-200 overflow-hidden hover:shadow-xl transition-shadow"
-      itemScope 
-      itemType="https://schema.org/LocalBusiness"
-    >
+    <div className="my-8 bg-white rounded-2xl shadow-lg border border-gray-200 overflow-hidden hover:shadow-xl transition-shadow">
       {/* Image */}
       {image && (
         <div className="relative h-48 md:h-56 overflow-hidden">
-          <img 
-            src={image} 
-            alt={name}
-            className="w-full h-full object-cover"
-            itemProp="image"
-          />
+          <img src={image} alt={name} className="w-full h-full object-cover" />
           {tags && tags.length > 0 && (
             <div className="absolute bottom-4 left-4 flex flex-wrap gap-2">
               {tags.map((tag, idx) => (
-                <span 
+                <span
                   key={idx}
                   className="bg-white/90 backdrop-blur-sm px-3 py-1 rounded-full text-sm font-medium text-gray-800"
                 >
@@ -113,47 +93,15 @@ export default function LocationCard({
                 {type}
               </span>
             )}
-            <h3 
-              className="text-xl font-bold text-gray-900 m-0 p-0 border-none"
-              itemProp="name"
-            >
+            <h3 className="text-xl font-bold text-gray-900 m-0 p-0 border-none">
               {name}
-              {nameKo && (
-                <span className="ml-2 text-lg font-normal text-gray-500">
-                  ({nameKo})
-                </span>
-              )}
+              {nameKo && <span className="ml-2 text-lg font-normal text-gray-500">({nameKo})</span>}
             </h3>
           </div>
-          
+
           {/* Rating & Price */}
           <div className="flex flex-col items-end gap-1">
-            {rating && reviewCount && (
-              <div className="flex items-center gap-2">
-                <div className="flex text-lg">{renderStars(rating)}</div>
-                <span className="text-sm text-gray-600" itemProp="aggregateRating" itemScope itemType="https://schema.org/AggregateRating">
-                  <span itemProp="ratingValue">{rating}</span>
-                  <span itemProp="ratingCount">{reviewCount}</span>
-                  <span className="text-gray-400"> ({reviewCount})</span>
-                </span>
-              </div>
-            )}
-            {rating && !reviewCount && (
-              <div className="flex items-center gap-2">
-                <div className="flex text-lg">{renderStars(rating)}</div>
-                <span className="text-sm text-gray-600">
-                  {rating}
-                </span>
-              </div>
-            )}
-            {priceRange && (
-              <span 
-                className="text-lg font-bold text-green-600"
-                itemProp="priceRange"
-              >
-                {priceRange}
-              </span>
-            )}
+            {priceRange && <span className="text-lg font-bold text-green-600">{priceRange}</span>}
           </div>
         </div>
 
@@ -164,12 +112,7 @@ export default function LocationCard({
             <span className="text-xl">📍</span>
             <div>
               <div className="font-medium text-gray-500">Address</div>
-              <div 
-                className="text-gray-800"
-                itemProp="address"
-              >
-                {address}
-              </div>
+              <div className="text-gray-800">{address}</div>
             </div>
           </div>
 
@@ -179,27 +122,18 @@ export default function LocationCard({
               <span className="text-xl">🕐</span>
               <div>
                 <div className="font-medium text-gray-500">Hours</div>
-                <div 
-                  className="text-gray-800"
-                  itemProp="openingHours"
-                >
-                  {hours}
-                </div>
+                <div className="text-gray-800">{hours}</div>
               </div>
             </div>
           )}
 
           {/* Phone */}
-          {phone && (
+          {telephone && (
             <div className="flex items-start gap-3">
               <span className="text-xl">📞</span>
               <div>
                 <div className="font-medium text-gray-500">Phone</div>
-                <a 
-                  href={`tel:${phone}`}
-                  className="text-blue-600 hover:underline"
-                  itemProp="telephone"
-                >
+                <a href={`tel:${telephone}`} className="text-blue-600 hover:underline">
                   {phone}
                 </a>
               </div>
@@ -224,10 +158,7 @@ export default function LocationCard({
             <div className="font-medium text-gray-700 mb-2">✨ Highlights</div>
             <div className="flex flex-wrap gap-2">
               {highlights.map((item, idx) => (
-                <span 
-                  key={idx}
-                  className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm"
-                >
+                <span key={idx} className="bg-blue-50 text-blue-700 px-3 py-1 rounded-full text-sm">
                   {item}
                 </span>
               ))}
@@ -238,7 +169,7 @@ export default function LocationCard({
         {/* Tip */}
         {tip && (
           <div className="mt-4 bg-amber-50 border border-amber-200 rounded-lg p-4">
-            <span className="font-semibold text-amber-700">💡 Insider Tip: </span>
+            <span className="font-semibold text-amber-700">Planning note: </span>
             <span className="text-amber-800">{tip}</span>
           </div>
         )}
@@ -250,21 +181,20 @@ export default function LocationCard({
               📅 Reservation Required
             </span>
           )}
-          
+
           {website && (
-            <a 
+            <a
               href={website}
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-blue-600 hover:underline font-medium"
-              itemProp="url"
             >
               🌐 Visit Website →
             </a>
           )}
-          
+
           {mapUrl && (
-            <a 
+            <a
               href={mapUrl}
               target="_blank"
               rel="noopener noreferrer"

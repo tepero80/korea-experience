@@ -2,6 +2,8 @@ import { notFound } from 'next/navigation';
 import { PRACTICAL_TOOLS } from '@/lib/constants';
 import { PLACES } from '@/lib/editorial';
 import TravelTool from '@/components/site/TravelTool';
+import { toolMetadata } from '@/lib/seo';
+import { toolPreviewFor } from '@/lib/tool-preview';
 type Params = Promise<{ slug: string }>;
 export const dynamicParams = false;
 export function generateStaticParams() {
@@ -11,12 +13,8 @@ export function generateStaticParams() {
 }
 export async function generateMetadata({ params }: { params: Params }) {
   const { slug } = await params;
-  const t = PRACTICAL_TOOLS.find((t) => t.href === '/tools/' + slug);
-  return {
-    title: t?.title,
-    description: t?.description,
-    alternates: { canonical: 'https://koreaexperience.com/tools/' + slug },
-  };
+  const t = toolPreviewFor(slug);
+  return t ? toolMetadata(t) : { robots: { index: false } };
 }
 export default async function Tool({ params }: { params: Params }) {
   const { slug } = await params;

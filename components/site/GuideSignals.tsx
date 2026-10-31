@@ -1,16 +1,19 @@
 'use client';
 import { useEffect } from 'react';
-import { track } from '@/lib/analytics';
+import { readAnalyticsPreference, track } from '@/lib/analytics';
 export default function GuideSignals({ id, category }: { id: string; category: string }) {
   useEffect(() => {
     let visibleSeconds = 0,
       deep = false,
       sent = false;
     const tick = setInterval(() => {
+      if (readAnalyticsPreference() !== 'accepted') {
+        visibleSeconds = 0;
+        return;
+      }
       if (document.visibilityState === 'visible') visibleSeconds += 1;
       if (!sent && deep && visibleSeconds >= 45) {
-        track('guide_engaged', { content_id: id, category });
-        sent = true;
+        sent = track('guide_engaged', { content_id: id, category });
       }
     }, 1000);
     const onScroll = () => {

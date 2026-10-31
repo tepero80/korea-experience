@@ -1,0 +1,282 @@
+{
+  "best-korean-skin-clinics-in-gangnam-2026": {
+    "checkedAt": "2026-10-31",
+    "type": "accuracy-rewrite",
+    "scope": "Body and metadata correction with primary-source checks; not a full traveler-experience/media acceptance.",
+    "sources": [
+      {
+        "id": "registration",
+        "title": "Medical Korea foreign-patient registration system",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "hospitals",
+        "title": "Medical Korea registered-provider search",
+        "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "medical",
+        "title": "Medical Korea information and visitor support",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "taxLaw",
+        "title": "Special Tax Treatment Control Act, Article107-3",
+        "url": "https://law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1030626475",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "emergency",
+        "title": "VISITKOREA emergency services for international visitors",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "kdca",
+        "title": "KDCA1339 call-center scope",
+        "url": "https://www.kdca.go.kr/eng/4276/subview.do",
+        "checkedAt": "2026-10-31"
+      }
+    ]
+  },
+  "anti-aging-treatments-in-korea-botox-fillers-and-more-2026": {
+    "checkedAt": "2026-10-31",
+    "type": "accuracy-rewrite",
+    "scope": "Body and metadata correction with primary-source checks; not a full traveler-experience/media acceptance.",
+    "sources": [
+      {
+        "id": "registration",
+        "title": "Medical Korea foreign-patient registration system",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "medical",
+        "title": "Medical Korea information and visitor support",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "emergency",
+        "title": "VISITKOREA emergency services for international visitors",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "checkedAt": "2026-10-31"
+      }
+    ]
+  },
+  "best-korean-healing-foods-for-surgery-recovery": {
+    "checkedAt": "2026-10-31",
+    "type": "accuracy-rewrite",
+    "scope": "Body and metadata correction with primary-source checks; not a full traveler-experience/media acceptance.",
+    "sources": [
+      {
+        "id": "nutrition",
+        "title": "RNOH: eating well before and after surgery",
+        "url": "https://www.rnoh.nhs.uk/patients-and-visitors/patient-information-guides/eating-well-before-and-after-surgery-patients-guide",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "emergency",
+        "title": "VISITKOREA emergency services for international visitors",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "checkedAt": "2026-10-31"
+      }
+    ]
+  },
+  "booking-medical-consultations-in-korea-online-vs-walk-in": {
+    "checkedAt": "2026-10-31",
+    "type": "accuracy-rewrite",
+    "scope": "Body and metadata correction with primary-source checks; not a full traveler-experience/media acceptance.",
+    "sources": [
+      {
+        "id": "medical",
+        "title": "Medical Korea information and visitor support",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "registration",
+        "title": "Medical Korea foreign-patient registration system",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "emergency",
+        "title": "VISITKOREA emergency services for international visitors",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "kdca",
+        "title": "KDCA1339 call-center scope",
+        "url": "https://www.kdca.go.kr/eng/4276/subview.do",
+        "checkedAt": "2026-10-31"
+      }
+    ]
+  },
+  "best-plastic-surgery-clinics-for-foreigners-in-seoul": {
+    "checkedAt": "2026-10-31",
+    "type": "accuracy-rewrite",
+    "scope": "Body and metadata correction with primary-source checks; not a full traveler-experience/media acceptance.",
+    "sources": [
+      {
+        "id": "registration",
+        "title": "Medical Korea foreign-patient registration system",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "hospitals",
+        "title": "Medical Korea registered-provider search",
+        "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "medical",
+        "title": "Medical Korea information and visitor support",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "taxLaw",
+        "title": "Special Tax Treatment Control Act, Article107-3",
+        "url": "https://law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1030626475",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "emergency",
+        "title": "VISITKOREA emergency services for international visitors",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "checkedAt": "2026-10-31"
+      }
+    ]
+  },
+  "airbnb-vs-recovery-hotels-for-medical-tourists": {
+    "checkedAt": "2026-10-31",
+    "type": "accuracy-rewrite",
+    "scope": "Body and metadata correction with primary-source checks; not a full traveler-experience/media acceptance.",
+    "sources": [
+      {
+        "id": "medical",
+        "title": "Medical Korea information and visitor support",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "emergency",
+        "title": "VISITKOREA emergency services for international visitors",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "checkedAt": "2026-10-31"
+      }
+    ]
+  },
+  "best-dermatology-clinics-in-seoul-for-foreigners": {
+    "checkedAt": "2026-10-31",
+    "type": "accuracy-rewrite",
+    "scope": "Body and metadata correction with primary-source checks; not a full traveler-experience/media acceptance.",
+    "sources": [
+      {
+        "id": "registration",
+        "title": "Medical Korea foreign-patient registration system",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "hospitals",
+        "title": "Medical Korea registered-provider search",
+        "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "medical",
+        "title": "Medical Korea information and visitor support",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "taxLaw",
+        "title": "Special Tax Treatment Control Act, Article107-3",
+        "url": "https://law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1030626475",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "emergency",
+        "title": "VISITKOREA emergency services for international visitors",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "checkedAt": "2026-10-31"
+      }
+    ]
+  },
+  "changing-visa-status-while-in-korea": {
+    "checkedAt": "2026-10-31",
+    "type": "accuracy-rewrite",
+    "scope": "Body and metadata correction with primary-source checks; not a full traveler-experience/media acceptance.",
+    "sources": [
+      {
+        "id": "d10",
+        "title": "MOJ: D10 changes for graduates from domestic universities, December2025",
+        "url": "https://www.immigration.go.kr/bbs/moj/189/601114/artclView.do",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "e7",
+        "title": "MOJ notice2025-406:2026 E7 wage requirements",
+        "url": "https://www.immigration.go.kr/bbs/immigration/211/488810/download.do",
+        "checkedAt": "2026-10-31"
+      }
+    ]
+  },
+  "exosome-therapy-seoul-guide-2026": {
+    "checkedAt": "2026-10-31",
+    "type": "accuracy-rewrite",
+    "scope": "Body and metadata correction with primary-source checks; not a full traveler-experience/media acceptance.",
+    "sources": [
+      {
+        "id": "fda",
+        "title": "FDA consumer alert: regenerative medicine and exosomes (US scope)",
+        "url": "https://www.fda.gov/vaccines-blood-biologics/consumers-biologics/consumer-alert-regenerative-medicine-products-including-stem-cells-and-exosomes",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "registration",
+        "title": "Medical Korea foreign-patient registration system",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "medical",
+        "title": "Medical Korea information and visitor support",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "emergency",
+        "title": "VISITKOREA emergency services for international visitors",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "checkedAt": "2026-10-31"
+      }
+    ]
+  },
+  "tax-refund-15000-minimum-2026": {
+    "checkedAt": "2026-10-31",
+    "type": "accuracy-rewrite",
+    "scope": "Body and metadata correction with primary-source checks; not a full traveler-experience/media acceptance.",
+    "sources": [
+      {
+        "id": "retail",
+        "title": "VISITKOREA duty free and tax refunds",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140736",
+        "checkedAt": "2026-10-31"
+      },
+      {
+        "id": "taxLaw",
+        "title": "Special Tax Treatment Control Act, Article107-3",
+        "url": "https://law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1030626475",
+        "checkedAt": "2026-10-31"
+      }
+    ]
+  }
+}

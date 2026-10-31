@@ -1,6 +1,7 @@
 import { internalGuideLinks } from '../lib/content-links';
 import fs from 'node:fs';
 import { getAllPosts, getPostBySlug } from '../lib/posts';
+import { factualRiskTitle } from '../lib/archive-integrity';
 const posts = getAllPosts();
 const inventory = posts.map((p) => {
   const body = getPostBySlug(p.slug)!.content;
@@ -19,9 +20,7 @@ const inventory = posts.map((p) => {
     words: body.split(/\s+/).length,
     sourceLinks: [...new Set(sources)],
     brokenInternal: [...new Set(internal.filter((s) => !posts.some((p) => p.slug === s)))],
-    legacyRisk:
-      !p.reviewed &&
-      /medical|clinic|surgery|treatment|visa|tax|allerg|medication|emergen/i.test(p.title),
+    legacyRisk: !p.reviewed && factualRiskTitle(p.title),
     retirement: 'hold — indexing, actual usage, backlinks and season/journey evidence required',
   };
 });

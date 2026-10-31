@@ -1,5 +1,5 @@
 'use client';
-import { useEffect, useState, useRef, useId, type FormEvent } from 'react';
+import { useEffect, useState, useId, type FormEvent } from 'react';
 import Link from 'next/link';
 import {
   airportOptions,
@@ -11,7 +11,7 @@ import {
   type AirportInput,
   type BudgetInput,
 } from '@/lib/travel-tools';
-import { track } from '@/lib/analytics';
+import ToolMeasurement, { useToolCompletion } from './ToolMeasurement';
 import ItineraryBoard from './ItineraryBoard';
 import type { Place } from '@/lib/content-types';
 import PlaceMap from './PlaceMap';
@@ -90,6 +90,7 @@ function Select({
   );
 }
 function Pass() {
+  const complete = useToolCompletion();
   const [days, setDays] = useState(3),
     [travelers, setTravelers] = useState(1),
     [regularCardCost, setRegularCardCost] = useState(0),
@@ -130,7 +131,7 @@ function Pass() {
         }),
       );
       setError('');
-      track('tool_complete', { tool: 'transit-pass' });
+      complete();
     } catch (e) {
       setError((e as Error).message);
     }
@@ -315,6 +316,7 @@ function Pass() {
   );
 }
 function Budget() {
+  const complete = useToolCompletion();
   const [v, setV] = useState<BudgetInput>({
     days: 7,
     nights: 6,
@@ -428,7 +430,7 @@ function Budget() {
                 'Calculation complete. This browser could not save it; use Print / PDF or copy the result.',
               );
             }
-            track('tool_complete', { tool: 'trip-budget' });
+            complete();
           } catch (e) {
             setError((e as Error).message);
           }
@@ -548,6 +550,7 @@ function Budget() {
   );
 }
 function Airport() {
+  const complete = useToolCompletion();
   const [v, setV] = useState<AirportInput>({
     terminal: 'T1',
     readyTime: '17:00',
@@ -582,7 +585,7 @@ function Airport() {
           try {
             setR(airportOptions(v));
             setError('');
-            track('tool_complete', { tool: 'airport-transfer' });
+            complete();
           } catch (e) {
             setError((e as Error).message);
           }
@@ -753,6 +756,7 @@ function Airport() {
   );
 }
 function Packing() {
+  const complete = useToolCompletion();
   const [month, setMonth] = useState(11),
     [needs, setNeeds] = useState({ children: false, dietary: false, accessibility: false }),
     [done, setDone] = useState<string[]>([]);
@@ -839,7 +843,6 @@ function Packing() {
           set={(v) => {
             setMonth(Number(v));
             setDone([]);
-            track('tool_complete', { tool: 'packing-checklist' });
           }}
           options={Array.from({ length: 12 }, (_, i) => [
             String(i + 1),
@@ -877,9 +880,10 @@ function Packing() {
                 <input
                   type="checkbox"
                   checked={done.includes(i.id)}
-                  onChange={(e) =>
-                    setDone(e.target.checked ? [...done, i.id] : done.filter((x) => x !== i.id))
-                  }
+                  onChange={(e) => {
+                    setDone(e.target.checked ? [...done, i.id] : done.filter((x) => x !== i.id));
+                    if (e.target.checked) complete();
+                  }}
                 />
                 <span>
                   <small>{i.group}</small>
@@ -921,6 +925,7 @@ function Packing() {
   );
 }
 function Rain({ places, embedded = false }: { places: Place[]; embedded?: boolean }) {
+  const complete = useToolCompletion();
   const [region, setRegion] = useState<RainInput['region']>('central'),
     [interest, setInterest] = useState<RainInput['interest']>('museum'),
     [shareError, setShareError] = useState('');
@@ -952,7 +957,7 @@ function Rain({ places, embedded = false }: { places: Place[]; embedded?: boolea
           value={region}
           set={(v) => {
             setRegion(v as RainInput['region']);
-            track('tool_complete', { tool: 'rainy-day' });
+            complete();
           }}
           options={[
             ['central', 'Jongno / palace area'],
@@ -963,7 +968,10 @@ function Rain({ places, embedded = false }: { places: Place[]; embedded?: boolea
           name="rain-interest"
           label="Priority"
           value={interest}
-          set={(v) => setInterest(v as RainInput['interest'])}
+          set={(v) => {
+            setInterest(v as RainInput['interest']);
+            complete();
+          }}
           options={[
             ['museum', 'Museums & craft'],
             ['market', 'Market food — partly sheltered'],
@@ -1024,15 +1032,19 @@ export function ContextTravelTool({
 }: {
   slug: 'airport-transfer' | 'packing-checklist' | 'rainy-day';
 }) {
-  if (slug === 'airport-transfer') return <Airport />;
-  if (slug === 'packing-checklist') return <Packing />;
-  return <Rain places={contextPlaces as Place[]} embedded />;
+  return (
+    <ToolMeasurement key={slug} tool={slug}>
+      {slug === 'airport-transfer' ? (
+        <Airport />
+      ) : slug === 'packing-checklist' ? (
+        <Packing />
+      ) : (
+        <Rain places={contextPlaces as Place[]} embedded />
+      )}
+    </ToolMeasurement>
+  );
 }
 export default function TravelTool({ slug, title, description, places }: Props) {
-  const started = useRef(false);
-  useEffect(() => {
-    started.current = false;
-  }, [slug]);
   return (
     <div className="wrap tool-page">
       <nav className="breadcrumbs" aria-label="Breadcrumb">
@@ -1045,15 +1057,7 @@ export default function TravelTool({ slug, title, description, places }: Props) 
         <h1 className="section-title">{title}</h1>
         <p>{description}</p>
       </header>
-      <div
-        className="tool-workspace"
-        onFocusCapture={() => {
-          if (!started.current) {
-            started.current = true;
-            track('tool_start', { tool: slug });
-          }
-        }}
-      >
+      <ToolMeasurement key={slug} tool={slug} className="tool-workspace">
         {slug === 'airport-transfer' ? (
           <Airport />
         ) : slug === 'transit-pass' ? (
@@ -1067,7 +1071,7 @@ export default function TravelTool({ slug, title, description, places }: Props) 
         ) : (
           <Rain places={places} />
         )}
-      </div>
+      </ToolMeasurement>
       <aside className="tool-footnote">
         <p>
           Core tools work without signing in. Estimates and checklists are planning aids. Operators

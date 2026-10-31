@@ -552,10 +552,12 @@ function Shell({
   title,
   children,
   index = false,
+  preview,
 }: {
   title: string;
   children: any;
   index?: boolean;
+  preview?: { url: string; title?: string; description: string; image?: string };
 }) {
   return (
     <html lang="en">
@@ -564,6 +566,34 @@ function Shell({
         <meta name="viewport" content="width=device-width,initial-scale=1" />
         <meta name="robots" content={index ? 'index,follow' : 'noindex,follow'} />
         <title>{title} | Korea Experience</title>
+        {preview ? (
+          <>
+            <link rel="canonical" href={preview.url} />
+            <meta name="description" content={preview.description} />
+            <meta property="og:type" content="website" />
+            <meta property="og:site_name" content="Korea Experience" />
+            <meta property="og:title" content={preview.title || title} />
+            <meta property="og:description" content={preview.description} />
+            <meta property="og:url" content={preview.url} />
+            <meta
+              property="og:image"
+              content={
+                preview.image || 'https://koreaexperience.com/images/cards/korea-experience.jpg'
+              }
+            />
+            <meta property="og:image:width" content="1200" />
+            <meta property="og:image:height" content="630" />
+            <meta name="twitter:card" content="summary_large_image" />
+            <meta name="twitter:title" content={preview.title || title} />
+            <meta name="twitter:description" content={preview.description} />
+            <meta
+              name="twitter:image"
+              content={
+                preview.image || 'https://koreaexperience.com/images/cards/korea-experience.jpg'
+              }
+            />
+          </>
+        ) : null}
         <link rel="icon" type="image/svg+xml" href="https://koreaexperience.com/icon.svg" />
         <link rel="stylesheet" href="/api/community.css" />
       </head>
@@ -694,7 +724,14 @@ app.get('/community', async (c) => {
   ).all<any>();
   const guideId = c.req.query('guide');
   return c.html(
-    <Shell title="Travel community">
+    <Shell
+      title="Travel community"
+      preview={{
+        url: c.env.SITE_URL + '/community',
+        description:
+          'Reviewed travel questions, trip reports and local updates. Read freely and sign in to contribute.',
+      }}
+    >
       <p className="eyebrow">Travel questions · Trip reports · Local updates</p>
       <h1>Travel knowledge gets better together.</h1>
       <p>
@@ -749,7 +786,15 @@ app.get('/community/posts/:id', async (c) => {
     .bind(item.id)
     .all<any>();
   return c.html(
-    <Shell title={item.title || 'Travel conversation'} index={item.indexable === 1}>
+    <Shell
+      title={item.title || 'Travel conversation'}
+      index={item.indexable === 1}
+      preview={{
+        url: c.env.SITE_URL + '/community/posts/' + encodeURIComponent(item.id),
+        description:
+          'A reviewed community conversation about travel in Korea. Member experiences are not official guidance.',
+      }}
+    >
       <p className="eyebrow">
         {item.kind} · {item.created_at}
       </p>
@@ -816,7 +861,17 @@ app.get('/community/shared', async (c) => {
   const snapshot = JSON.parse(p.public_data) as { title: string; plan: ItineraryPlan };
   const plan = normalizePlan(snapshot.plan);
   return c.html(
-    <Shell title={snapshot.title}>
+    <Shell
+      title={snapshot.title}
+      preview={{
+        url:
+          c.env.SITE_URL + '/community/shared?token=' + encodeURIComponent(c.req.query('token')!),
+        title: 'Shared Korea trip plan',
+        description:
+          'An owner-reviewed sharing snapshot. Check current opening, reservations and travel conditions before using the plan.',
+        image: 'https://koreaexperience.com/images/cards/tool-itinerary.jpg',
+      }}
+    >
       <p className="eyebrow">Owner's shared snapshot · unverified personal itinerary</p>
       <h1>{snapshot.title}</h1>
       <p>

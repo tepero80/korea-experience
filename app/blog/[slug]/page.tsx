@@ -73,7 +73,14 @@ export default async function Guide({ params }: { params: Params }) {
           <div className="article-byline">
             <Link href="/editorial-policy">Korea Experience Editorial</Link>
             <span>{post.readTime}</span>
-            {post.checkedAt ? (
+            {post.accuracyCorrection ? (
+              <span>
+                Accuracy corrected{' '}
+                <time dateTime={post.accuracyCorrection.checkedAt}>
+                  {dateLabel(post.accuracyCorrection.checkedAt)}
+                </time>
+              </span>
+            ) : post.checkedAt ? (
               <span>
                 Information checked{' '}
                 <time dateTime={post.checkedAt}>{dateLabel(post.checkedAt)}</time>
@@ -86,12 +93,26 @@ export default async function Guide({ params }: { params: Params }) {
           </div>
           {!e ? (
             <aside className="archive-notice">
-              <strong>This guide is awaiting editorial review</strong>
-              <p>
-                Dates, prices, access and important conditions have not completed our current
-                checks. Confirm them with the responsible operator before acting.{' '}
-                <Link href="/editorial-policy">How we review information</Link>
-              </p>
+              <strong>
+                {post.accuracyCorrection
+                  ? 'Accuracy rewrite · full experience review pending'
+                  : 'This guide is awaiting editorial review'}
+              </strong>
+              {post.accuracyCorrection ? (
+                <p>
+                  The body and metadata were rewritten against linked primary sources on{' '}
+                  {dateLabel(post.accuracyCorrection.checkedAt)}. Historical cover provenance and
+                  the complete traveler-experience review remain pending. Confirm current operator
+                  conditions before acting.{' '}
+                  <Link href="/editorial-policy">How we review information</Link>
+                </p>
+              ) : (
+                <p>
+                  Dates, prices, access and important conditions have not completed our current
+                  checks. Confirm them with the responsible operator before acting.{' '}
+                  <Link href="/editorial-policy">How we review information</Link>
+                </p>
+              )}
             </aside>
           ) : null}
           {!e ? (

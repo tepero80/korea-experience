@@ -5,6 +5,15 @@ import { imageSize } from 'image-size';
 import { editorialFor, retirementFor } from './editorial';
 import { categoryById, inferCategory, TRAVEL_CATEGORIES, type CategoryId } from './taxonomy';
 import type { EditorialGuide } from './content-types';
+import corrections from '@/data/archive-corrections.json';
+import type { EvidenceSource } from './content-types';
+
+export interface AccuracyCorrection {
+  checkedAt: string;
+  type: 'accuracy-rewrite';
+  scope: string;
+  sources: EvidenceSource[];
+}
 
 export interface PostMetadata {
   id: string;
@@ -27,6 +36,7 @@ export interface PostMetadata {
   deepDive?: boolean;
   deepDiveOrder?: number;
   editorial?: EditorialGuide;
+  accuracyCorrection?: AccuracyCorrection;
   reviewed: boolean;
   indexable: boolean;
 }
@@ -97,6 +107,7 @@ function inventory(): Post[] {
         deepDive: Boolean(data.deepDive),
         deepDiveOrder: data.deepDiveOrder,
         editorial,
+        accuracyCorrection: (corrections as Record<string, AccuracyCorrection>)[slug],
         reviewed: Boolean(editorial),
         indexable: data.noindex !== true,
         content,

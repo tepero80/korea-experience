@@ -1,4 +1,5 @@
 'use client';
+import { track } from '@/lib/analytics';
 
 interface TourCardProps {
   name: string;
@@ -12,36 +13,29 @@ interface TourCardProps {
   highlights?: string[];
 }
 
-export function TourCard({ 
-  name, 
+export function TourCard({
+  name,
   description,
-  priceFrom, 
+  priceFrom,
   duration,
-  rating, 
+  rating,
   reviewCount,
   klookUrl,
   imageUrl,
-  highlights
+  highlights,
 }: TourCardProps) {
   const handleClick = () => {
-    if (typeof window !== 'undefined' && (window as any).gtag) {
-      (window as any).gtag('event', 'affiliate_click', {
-        event_category: 'Affiliate',
-        event_label: 'Klook',
-        tour_name: name,
-        link_url: klookUrl,
-      });
-    }
+    track('affiliate_click', { partner: 'klook' });
   };
 
   return (
     <div className="tour-card border rounded-xl p-5 hover:shadow-xl transition-all duration-300 bg-white">
       {imageUrl && (
         <div className="relative w-full h-48 mb-4 rounded-lg overflow-hidden">
-          <img 
-            src={imageUrl} 
-            alt={name} 
-            className="w-full h-full object-cover hover:scale-105 transition-transform duration-300" 
+          <img
+            src={imageUrl}
+            alt={name}
+            className="w-full h-full object-cover hover:scale-105 transition-transform duration-300"
           />
           <div className="absolute top-3 right-3 bg-white px-3 py-1 rounded-full shadow-md">
             <div className="flex items-center gap-1">
@@ -52,7 +46,7 @@ export function TourCard({
           </div>
         </div>
       )}
-      
+
       <div className="space-y-3">
         <div>
           <h3 className="text-lg font-bold text-gray-900 mb-1">{name}</h3>
@@ -91,7 +85,8 @@ export function TourCard({
         </a>
 
         <p className="text-xs text-gray-500 text-center mt-2">
-          💡 <strong>Affiliate Disclosure:</strong> We earn a small commission from bookings at no extra cost to you
+          💡 <strong>Affiliate Disclosure:</strong> We earn a small commission from bookings at no
+          extra cost to you
         </p>
       </div>
     </div>

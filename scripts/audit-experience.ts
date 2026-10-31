@@ -4,6 +4,7 @@ import { getAllPosts, getPostBySlug } from '../lib/posts';
 import { internalGuideLinks } from '../lib/content-links';
 import media from '../data/media.json';
 import type { EditorialMedia } from '../lib/media';
+import { factualRiskTitle } from '../lib/archive-integrity';
 
 const posts = getAllPosts().map((p) => getPostBySlug(p.slug)!);
 const registry = media as EditorialMedia[];
@@ -52,10 +53,10 @@ const inventory = posts.map((p) => {
       : []),
     ...(!internalLinks.length ? ['no-contextual-guide-links'] : []),
     ...(p.editorial?.answer === p.excerpt ? ['quick-answer-repeats-deck'] : []),
-    ...(!p.reviewed &&
-    /medical|clinic|surgery|treatment|visa|tax|allerg|medication|emergen/i.test(p.title)
+    ...(!p.reviewed && !p.accuracyCorrection && factualRiskTitle(p.title)
       ? ['priority-factual-risk-review']
       : []),
+    ...(p.accuracyCorrection ? ['accuracy-rewrite-awaiting-full-experience-review'] : []),
   ];
   return {
     id: p.id,
@@ -66,6 +67,7 @@ const inventory = posts.map((p) => {
     declaredPublication: p.date,
     publicationStatus: p.publicationStatus,
     checkedAt: p.checkedAt || null,
+    accuracyCorrection: p.accuracyCorrection || null,
     hero: p.image || null,
     heroOriginal: heroIdentity(p),
     bodyPhotoIds,

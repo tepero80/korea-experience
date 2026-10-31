@@ -1,0 +1,44 @@
+{
+  "travel-toolkit": {
+    "src": "/images/cards/tool-travel-toolkit.jpg",
+    "fingerprint": "9000b4c384771f120103a602f665baadc1b9daf5d22e42c21fdeed5a1842aebe",
+    "kind": "original editorial diagram",
+    "note": "Original code-drawn route/decision illustration; no depicted facility or live result."
+  },
+  "airport-transfer": {
+    "src": "/images/cards/tool-airport-transfer.jpg",
+    "fingerprint": "6a55f2a3d0906e1d59f60d554c99e00d63290d3da7c601763829e0dd695e66a4",
+    "kind": "original editorial diagram",
+    "note": "Original code-drawn route/decision illustration; no depicted facility or live result."
+  },
+  "transit-pass": {
+    "src": "/images/cards/tool-transit-pass.jpg",
+    "fingerprint": "e1b99fae1a7f08891cfe4928b47d7d0e77ab2ea049f877fbe47e6b7f58206f41",
+    "kind": "original editorial diagram",
+    "note": "Original code-drawn route/decision illustration; no depicted facility or live result."
+  },
+  "trip-budget": {
+    "src": "/images/cards/tool-trip-budget.jpg",
+    "fingerprint": "86e64bd984c4147563835303b05f80b2bb37850dc05b1088d2a1b419d7558d98",
+    "kind": "original editorial diagram",
+    "note": "Original code-drawn route/decision illustration; no depicted facility or live result."
+  },
+  "itinerary": {
+    "src": "/images/cards/tool-itinerary.jpg",
+    "fingerprint": "5175aeb28398965fa2ec72addad46cb6c43cbe1726895a363e7910dc891ebc3d",
+    "kind": "original editorial diagram",
+    "note": "Original code-drawn route/decision illustration; no depicted facility or live result."
+  },
+  "packing-checklist": {
+    "src": "/images/cards/tool-packing-checklist.jpg",
+    "fingerprint": "781a3ce8850bb0f8680de968051f1de49fe9354e7710ac13ee06e859bb696c8c",
+    "kind": "original editorial diagram",
+    "note": "Original code-drawn route/decision illustration; no depicted facility or live result."
+  },
+  "rainy-day": {
+    "src": "/images/cards/tool-rainy-day.jpg",
+    "fingerprint": "c53a608126c1c7b7775d1a0459efcc77c894a208c00c9080765ff2b1ccf49fbf",
+    "kind": "original editorial diagram",
+    "note": "Original code-drawn route/decision illustration; no depicted facility or live result."
+  }
+}

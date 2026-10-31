@@ -1,12 +1,9 @@
 import Link from 'next/link';
 import { PRIMARY_TRAVEL_TOOLS, LEGACY_TOOLS } from '@/lib/constants';
 import { TOOL_REVIEWS } from '@/lib/tool-review';
-export const metadata = {
-  title: 'Practical Korea travel tools',
-  description:
-    'Compare airport transfers and passes, build a travel budget and itinerary, and prepare a seasonal checklist.',
-  alternates: { canonical: 'https://koreaexperience.com/tools' },
-};
+import { toolMetadata } from '@/lib/seo';
+import { TOOLKIT_PREVIEW } from '@/lib/tool-preview';
+export const metadata = toolMetadata(TOOLKIT_PREVIEW);
 export default function Tools() {
   return (
     <div className="wrap library-page">
