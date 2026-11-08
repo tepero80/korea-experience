@@ -5531,5 +5531,282 @@
     "gallery": [],
     "experienceVersion": 2,
     "heroCaption": "Anmok Beach in April 2022; check current weather and access."
+  },
+  "ski-resort-train-shuttle": {
+    "id": "transport-winter-ski-shuttle",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Check the station, resort shuttle pickup, operating date, equipment capacity and return connection before booking the train.",
+    "forWhom": "Travelers planning a ski resort visit by train and shuttle",
+    "conditions": [
+      "KTO’s December 2025 examples are historical and do not establish 2026–27 service.",
+      "Current resort pickup, times, eligibility, fares and equipment rules must be verified directly."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "getting-around"
+    ],
+    "interests": [
+      "transport",
+      "winter"
+    ],
+    "relations": [
+      {
+        "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+        "type": "prepare",
+        "label": "Book the train",
+        "reason": "Check the train operator, station and ticket details before matching a shuttle."
+      },
+      {
+        "slug": "korea-winter-packing-checklist",
+        "type": "next",
+        "label": "Prepare for the cold",
+        "reason": "Plan warm layers for the station, outdoor shuttle wait and mountain weather."
+      },
+      {
+        "slug": "choosing-winter-accommodation-in-korea",
+        "type": "alternative",
+        "label": "Choose a winter stay",
+        "reason": "Check the final approach and room conditions when planning an overnight resort trip."
+      }
+    ],
+    "tools": [
+      "packing-checklist",
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-ski-2025",
+        "title": "VISITKOREA: 12 Ski Resorts to Spend an Exciting Winter in Korea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=251052",
+        "checkedAt": "2026-11-09",
+        "note": "Updated December 2025. Historical examples list Jinbu–Alpensia and Baegyangni–Elysian connections. Neither 2026–27 service nor fees confirmed."
+      },
+      {
+        "id": "alpensia-shuttle",
+        "title": "Alpensia: Shuttle Bus Information",
+        "url": "https://m.alpensia.com/guide/directions-shuttle.do?lang=en",
+        "checkedAt": "2026-11-09",
+        "note": "Operator’s undated page lists Jinbu shuttles for Alpensia guests with proof and times differing from the KTO 2025 listing. Ask operator for date-specific confirmation."
+      },
+      {
+        "id": "korail-booking",
+        "title": "KORAIL English booking",
+        "url": "https://smart.letskorail.com/ebizbf/EbizBfMainM.do",
+        "checkedAt": "2026-11-09",
+        "note": "Official booking entry point; do not assume it covers other rail operators."
+      }
+    ],
+    "shareFacts": [
+      "Match train arrival with the shuttle pickup and return.",
+      "Check eligibility, baggage and seasonal schedule directly with the resort.",
+      "Allow for weather and a missed connection."
+    ],
+    "launchOrder": 1010,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "진부역 승강장.png",
+      "author": "YanggoK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%A7%84%EB%B6%80%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.png",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "note": "Resized and converted to WebP. Historical photograph; it does not establish current conditions."
+    },
+    "heroMediaId": "winter-jinbu-ski-station",
+    "gallery": [],
+    "experienceVersion": 2,
+    "heroCaption": "Jinbu Station in January 2026; verify current train and shuttle conditions."
+  },
+  "korea-snow-advisory-travel-plan": {
+    "id": "essentials-kma-snow-advisory-plan",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Check the KMA alert area and time, then confirm the specific transport operator or destination before changing your plan.",
+    "forWhom": "Travelers adapting a trip to a KMA snow advisory or warning",
+    "conditions": [
+      "Alert thresholds are issuance criteria, not proof of snow already on a particular street.",
+      "Mountain warning criteria differ, and KMA information is not a live transport or venue status."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "winter",
+      "weather",
+      "safety"
+    ],
+    "relations": [
+      {
+        "slug": "emergency-ready-app-english-alerts-2026",
+        "type": "prepare",
+        "label": "Find warning information",
+        "reason": "Check how to access emergency notices, then confirm the exact alert and location with KMA."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Choose an indoor backup",
+        "reason": "Shorten outdoor transfers and check that a nearby indoor destination is open."
+      },
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "next",
+        "label": "Know who to call",
+        "reason": "Find the appropriate emergency number if someone needs immediate assistance."
+      }
+    ],
+    "tools": [
+      "rainy-day",
+      "packing-checklist"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kma-warning-en",
+        "title": "Korea Meteorological Administration: Current Severe Weather Status",
+        "url": "https://www.weather.go.kr/neng/forecast/warning.do",
+        "checkedAt": "2026-11-09",
+        "note": "English page describes advisory and warning criteria including the mountain exception; verify actual live alert area and time."
+      },
+      {
+        "id": "kma-warning-ko",
+        "title": "Korea Meteorological Administration: Weather Warning Criteria",
+        "url": "https://www.weather.go.kr/w/forecast/guide/standard.do",
+        "checkedAt": "2026-11-09",
+        "note": "Korean source: 24-hour snowfall forecast advisory ≥5 cm, warning ≥20 cm or ≥30 cm in mountain areas. Criteria are forecasts, not observed snow."
+      }
+    ],
+    "shareFacts": [
+      "Check the alert area and effective time.",
+      "Confirm flight, bus, rail or venue status separately.",
+      "Keep an indoor alternative and safe return."
+    ],
+    "launchOrder": 1011,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Snowy path in Seoul Forest.jpg",
+      "author": "CartoonChess",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snowy_path_in_Seoul_Forest.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Resized and converted to WebP. Historical photograph; it does not establish current conditions. Adaptation retains CC BY-SA 4.0."
+    },
+    "heroMediaId": "winter-seoul-forest-snow-path-2023",
+    "gallery": [],
+    "experienceVersion": 2,
+    "heroCaption": "Seoul Forest in January 2023; this photo does not show current weather."
+  },
+  "seoul-botanic-park-winter-family": {
+    "id": "places-seoul-botanic-winter-family",
+    "experienceVersion": 2,
+    "categoryId": "places-itineraries",
+    "format": "place",
+    "launchOrder": 1012,
+    "checkedAt": "2026-11-09",
+    "answer": "In winter, enter the paid greenhouse before 16:00 and check separate booking and availability for any family activity.",
+    "forWhom": "Families seeking an indoor plant-focused visit in western Seoul",
+    "conditions": [
+      "November–February 09:30–17:00; ticket and entry cutoff 16:00.",
+      "The family workbook activity is date-limited and its international booking and language support are unverified.",
+      "Holiday Monday and next-day arrangements must be checked for the actual visit date."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "families",
+      "nature",
+      "winter"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Find another indoor plan",
+        "reason": "Choose an indoor alternative if the greenhouse is closed or an event is unavailable."
+      },
+      {
+        "slug": "korea-winter-packing-checklist",
+        "type": "prepare",
+        "label": "Prepare for the cold",
+        "reason": "Allow for outdoor station approaches even when the main activity is indoors."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-botanic-winter-notice",
+        "title": "Seoul Botanic Park: winter operating notice",
+        "url": "https://botanicpark.seoul.go.kr/front/board/newsView.do?sn=20761",
+        "checkedAt": "2026-11-09",
+        "note": "Dated operator notice covers November–February winter hours and Monday holiday wording."
+      },
+      {
+        "id": "seoul-botanic-fees",
+        "title": "Seoul Botanic Park: visitor hours and admission",
+        "url": "https://botanicpark.seoul.go.kr/front/introduce/useInfo.do",
+        "checkedAt": "2026-11-09",
+        "note": "Seasonal hours, individual fees, ages, paid and free areas and post-holiday wording."
+      },
+      {
+        "id": "seoul-botanic-directions",
+        "title": "Seoul Botanic Park: subway directions",
+        "url": "https://botanicpark.seoul.go.kr/front/introduce/location02.do",
+        "checkedAt": "2026-11-09",
+        "note": "Official street address and station exits connect to Open Forest, not necessarily the greenhouse."
+      },
+      {
+        "id": "seoul-botanic-family-program",
+        "title": "Seoul City: family exhibition activity",
+        "url": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159718&menuNo=200010",
+        "checkedAt": "2026-11-09",
+        "note": "Bounded 2026–2027 program, separate advance reservation and greenhouse admission."
+      }
+    ],
+    "shareFacts": [
+      "Winter greenhouse admission closes at 16:00.",
+      "The greenhouse and theme garden require admission; outdoor areas have separate access.",
+      "Check family activity availability and holiday dates."
+    ],
+    "changeType": "new",
+    "heroMediaId": "seoul-botanic-skywalk-tjwlgns-2026",
+    "heroCaption": "Seoul Botanic Park greenhouse and skywalk in May 2026; this photograph does not establish current conditions.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "서울식물원 스카이워크.jpg",
+      "author": "Tjwlgns",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90_%EC%8A%A4%EC%B9%B4%EC%9D%B4%EC%9B%8C%ED%81%AC.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. Historical photograph; it does not establish current conditions."
+    },
+    "quickTitle": "Plan your greenhouse visit",
+    "quickChoices": [
+      {
+        "label": "1 · Check the day",
+        "detail": "Verify Monday and holiday closures for your date."
+      },
+      {
+        "label": "2 · Arrive before 16:00",
+        "detail": "The winter ticket and entry cutoff is one hour before closing."
+      },
+      {
+        "label": "3 · Check activities",
+        "detail": "Family workshops are separately reserved and time-limited."
+      }
+    ]
   }
 }

@@ -912,5 +912,50 @@
       "note": "Photographed 30 April 2022; resized and converted to WebP. Adaptation retains CC BY-SA 4.0. Historical image, not current beach conditions."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "ski-resort-train-shuttle": {
+    "src": "/images/cards/ski-resort-train-shuttle.jpg",
+    "fingerprint": "9a7d4412865d9daabd31562288bf081d33d0b6e76cb0d89b522815df556dd293",
+    "sourceImage": "/images/editorial/winter-jinbu-ski-station.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "진부역 승강장.png",
+      "author": "YanggoK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%A7%84%EB%B6%80%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.png",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "note": "Resized and converted to WebP. Historical photograph; it does not establish current conditions."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korea-snow-advisory-travel-plan": {
+    "src": "/images/cards/korea-snow-advisory-travel-plan.jpg",
+    "fingerprint": "b735917b766c4eda41a1a4fbb9b6751281f2489c5331cbbd4e593b787eaa7743",
+    "sourceImage": "/images/editorial/winter-seoul-forest-snow-path-2023.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Snowy path in Seoul Forest.jpg",
+      "author": "CartoonChess",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snowy_path_in_Seoul_Forest.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Resized and converted to WebP. Historical photograph; it does not establish current conditions. Adaptation retains CC BY-SA 4.0."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoul-botanic-park-winter-family": {
+    "src": "/images/cards/seoul-botanic-park-winter-family.jpg",
+    "fingerprint": "2f750b57619c833c5291377d0a194a8a3af15028547dcadb2b1898657517eb0b",
+    "sourceImage": "/images/editorial/seoul-botanic-skywalk-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "서울식물원 스카이워크.jpg",
+      "author": "Tjwlgns",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90_%EC%8A%A4%EC%B9%B4%EC%9D%B4%EC%9B%8C%ED%81%AC.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. Historical photograph; it does not establish current conditions."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

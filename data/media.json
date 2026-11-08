@@ -1736,5 +1736,60 @@
     },
     "originalId": "https://commons.wikimedia.org/wiki/File:Anmok_Beach_20220430_003.jpg",
     "originalHash": "1066adfc8d045dabfb015f7dcecdd2a4cdaa142462c637e6a8ed1cc37a5528b7"
+  },
+  {
+    "id": "winter-jinbu-ski-station",
+    "src": "/images/editorial/winter-jinbu-ski-station.webp",
+    "width": 1280,
+    "height": 853,
+    "alt": "Jinbu Station train platform with snow in January 2026",
+    "credit": {
+      "kind": "photograph",
+      "title": "진부역 승강장.png",
+      "author": "YanggoK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%A7%84%EB%B6%80%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.png",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "note": "Resized and converted to WebP. Historical photograph; it does not establish current conditions."
+    },
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%A7%84%EB%B6%80%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.png",
+    "originalHash": "0a5097c44f2f24b15d2abffb9ee56c4264aede4e79ba881b7349516ec0450c89"
+  },
+  {
+    "id": "winter-seoul-forest-snow-path-2023",
+    "src": "/images/editorial/winter-seoul-forest-snow-path-2023.webp",
+    "width": 1280,
+    "height": 960,
+    "alt": "A snow-covered path in Seoul Forest at night in January 2023",
+    "credit": {
+      "kind": "photograph",
+      "title": "Snowy path in Seoul Forest.jpg",
+      "author": "CartoonChess",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Snowy_path_in_Seoul_Forest.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Resized and converted to WebP. Historical photograph; it does not establish current conditions. Adaptation retains CC BY-SA 4.0."
+    },
+    "originalId": "https://commons.wikimedia.org/wiki/File:Snowy_path_in_Seoul_Forest.jpg",
+    "originalHash": "562bae419401d94a70c5d9e982eaab67e76f71a7b7b54f63cfd7b4ab07c7fcf7"
+  },
+  {
+    "id": "seoul-botanic-skywalk-tjwlgns-2026",
+    "src": "/images/editorial/seoul-botanic-skywalk-1280.webp",
+    "width": 1280,
+    "height": 960,
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90_%EC%8A%A4%EC%B9%B4%EC%9D%B4%EC%9B%8C%ED%81%AC.jpg",
+    "originalHash": "4449193c61a17c0fba8b9ffb25dddd3a3a03af1ad3b63a16ebb448956b7e59be",
+    "capturedAt": "2026-05-23",
+    "alt": "Plants below the elevated skywalk inside Seoul Botanic Park greenhouse",
+    "credit": {
+      "kind": "photograph",
+      "title": "서울식물원 스카이워크.jpg",
+      "author": "Tjwlgns",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90_%EC%8A%A4%EC%B9%B4%EC%9D%B4%EC%9B%8C%ED%81%AC.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. Historical photograph; it does not establish current conditions."
+    }
   }
 ]
