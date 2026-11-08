@@ -882,5 +882,35 @@
       "note": "Photographed 2024-04-09; resized and converted to WebP. Historical image; check current access independently."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gimhae-airport-to-busan": {
+    "src": "/images/cards/gimhae-airport-to-busan.jpg",
+    "fingerprint": "c0bacca372c3a63617e433fc6ceef3ca1a77ee2d663c30b09635aacd354fad8e",
+    "sourceImage": "/images/editorial/transport-gimhae-to-busan-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Airport Gimhae 5.jpg",
+      "author": "Brücke-Osteuropa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airport_Gimhae_5.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 10 June 2011; resized and converted to WebP. Historical image; verify current access."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gangneung-station-anmok": {
+    "src": "/images/cards/gangneung-station-anmok.jpg",
+    "fingerprint": "1c3309b565afecdbc3dc7a4786728dcf77a00ba1abeefe4761d89c363916d47d",
+    "sourceImage": "/images/editorial/transport-gangneung-station-anmok-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Anmok Beach 20220430 003.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anmok_Beach_20220430_003.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Photographed 30 April 2022; resized and converted to WebP. Adaptation retains CC BY-SA 4.0. Historical image, not current beach conditions."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

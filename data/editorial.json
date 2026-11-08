@@ -5361,5 +5361,175 @@
         "detail": "Confirm any session's age, language, price and booking rules."
       }
     ]
+  },
+  "gimhae-airport-to-busan": {
+    "id": "transport-gimhae-to-busan",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Use the light rail via Sasang for Metro Line 2 or Daejeo for Line 3; compare the airport bus or taxi for your precise hotel and arrival time.",
+    "forWhom": "Travelers arriving at Gimhae International Airport and traveling to a Busan hotel",
+    "conditions": [
+      "Rail, bus routes, timetables, payments and accessibility can change.",
+      "Check your terminal, hotel stop and final walk."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around"
+    ],
+    "interests": [
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "where-to-stay-in-busan-neighborhoods",
+        "type": "prepare",
+        "label": "Choose your base",
+        "reason": "Compare neighborhoods before choosing a hotel-specific airport connection."
+      },
+      {
+        "slug": "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices",
+        "type": "next",
+        "label": "Plan your Busan days",
+        "reason": "Group the old port and the coast into manageable car-free days."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "gimhae-rail",
+        "title": "Gimhae Airport: public transport rail transfers",
+        "url": "https://www.airport.co.kr/gimhaeeng/cms/frCon/index.do?CONTENTS_NO=3&MENU_ID=110",
+        "note": "Identifies Line 2 via Sasang and Line 3 via Daejeo.",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "id": "gimhae-bus",
+        "title": "Gimhae Airport: public transport buses",
+        "url": "https://www.airport.co.kr/gimhaeeng/cms/frCon/index.do?CONTENTS_NO=1&MENU_ID=110",
+        "note": "Airport limousine route lists and provider contact; schedules and prices can change.",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "id": "gimhae-assistance",
+        "title": "Gimhae Airport: international terminal passenger guidance",
+        "url": "https://www.airport.co.kr/gimhaeeng/cms/frCon/index.do?CONTENTS_NO=2&MENU_ID=220",
+        "note": "International terminal gate guidance; do not apply to domestic terminal.",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "id": "busan-network",
+        "title": "Gimhae Airport: Busan transit map",
+        "url": "https://www.airport.co.kr/gimhae/cms/frCon/index.do?CONTENTS_NO=2&MENU_ID=170",
+        "note": "Network station list supports connections.",
+        "checkedAt": "2026-11-09"
+      }
+    ],
+    "shareFacts": [
+      "Sasang connects to Metro Line 2; Daejeo connects to Line 3.",
+      "Check the actual limousine stop, next departure and last leg to your hotel.",
+      "International and domestic terminals have different access details."
+    ],
+    "launchOrder": 1008,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Airport Gimhae 5.jpg",
+      "author": "Brücke-Osteuropa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Airport_Gimhae_5.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 10 June 2011; resized and converted to WebP. Historical image; verify current access."
+    },
+    "heroMediaId": "transport-gimhae-to-busan-photo",
+    "gallery": [],
+    "experienceVersion": 2,
+    "heroCaption": "Gimhae Airport light rail station in 2011; check current access and service."
+  },
+  "gangneung-station-anmok": {
+    "id": "transport-gangneung-station-anmok",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Compare a current bus toward Anmok Coffee Street with a taxi, then check the station-bound return before visiting the beach.",
+    "forWhom": "Train travelers planning an independent visit to Anmok Beach",
+    "conditions": [
+      "KTO’s 2026 bus suggestions and travel-time estimates are not a live timetable.",
+      "Swimming dates and weather conditions must be checked for the visit date."
+    ],
+    "regions": [
+      "gangneung"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "intercity-bus-travel-booking-apps-and-routes",
+        "type": "alternative",
+        "label": "Compare an intercity trip",
+        "reason": "Check the correct Gangneung terminal and onward transfer before choosing a long-distance bus."
+      },
+      {
+        "slug": "how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026",
+        "type": "prepare",
+        "label": "Save the route",
+        "reason": "Use the local map guide to find your destination and confirm the route before leaving."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-anmok-2026",
+        "title": "VISITKOREA: East Coast Train Trip 2026",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1591437",
+        "checkedAt": "2026-11-09",
+        "note": "Names buses 300-1, 223-1, 225-1 and 314-1, estimated 15 minutes, 2026 swimming season only."
+      },
+      {
+        "id": "gangneung-bis",
+        "title": "Gangneung City Bus Information System",
+        "url": "https://bis.gn.go.kr/search?type=route",
+        "checkedAt": "2026-11-09",
+        "note": "Lists service variants including 300-1 (Gangneung Station). Did not verify interactive stop sequence or live arrivals."
+      },
+      {
+        "id": "kto-anmok-address",
+        "title": "VISITKOREA: Anmok Beach",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=77692",
+        "checkedAt": "2026-11-09",
+        "note": "Supplies Korean beach address; operating conditions need current confirmation."
+      }
+    ],
+    "shareFacts": [
+      "Check the station boarding side and direction before the bus arrives.",
+      "Confirm your return to Gangneung Station before your train.",
+      "Beach and swimming conditions vary by date."
+    ],
+    "launchOrder": 1009,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Anmok Beach 20220430 003.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Anmok_Beach_20220430_003.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Photographed 30 April 2022; resized and converted to WebP. Adaptation retains CC BY-SA 4.0. Historical image, not current beach conditions."
+    },
+    "heroMediaId": "transport-gangneung-station-anmok-photo",
+    "gallery": [],
+    "experienceVersion": 2,
+    "heroCaption": "Anmok Beach in April 2022; check current weather and access."
   }
 }
