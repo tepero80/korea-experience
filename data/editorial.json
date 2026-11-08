@@ -4936,5 +4936,110 @@
     "heroMediaId": "national-museum-family-exterior",
     "heroCaption": "The National Museum of Korea exterior in 2019; this is not the Children’s Museum entrance.",
     "experienceVersion": 2
+  },
+  "changdeokgung-secret-garden-tickets": {
+    "id": "culture-changdeok-garden-tickets",
+    "experienceVersion": 2,
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Choose a timed Secret Garden entry, then check each traveler's separate palace-building admission and allow enough time to reach the garden entrance.",
+    "forWhom": "Seoul visitors deciding whether to book Changdeokgung's Secret Garden",
+    "conditions": [
+      "Garden capacity and language-specific entry conditions can change; a listed slot is not evidence of available tickets.",
+      "Temporary palace-building admission events do not automatically make the garden free."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "palaces",
+      "reservations"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-museums-and-exhibitions-planning-guide",
+        "type": "alternative",
+        "label": "Choose an indoor alternative",
+        "reason": "Check a museum's own admission and opening conditions if weather or a garden slot changes your plan."
+      },
+      {
+        "slug": "palace-starlight-night-tours-2026",
+        "type": "interest",
+        "label": "Compare palace events",
+        "reason": "Review other palace experiences and their separate dates, ticket windows and conditions."
+      }
+    ],
+    "tools": [],
+    "placeIds": [
+      "changdeokgung"
+    ],
+    "sources": [
+      {
+        "id": "cdg-reservations",
+        "title": "Royal Palaces and Tombs Center: Changdeokgung reservations",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=cdg",
+        "checkedAt": "2026-11-09",
+        "note": "Timed garden booking and temporary palace-building notices."
+      },
+      {
+        "id": "cdg-faq",
+        "title": "Royal Palaces and Tombs Center: Changdeokgung visitor FAQ",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R404000000.do?schGroupCode=cdg",
+        "checkedAt": "2026-11-09",
+        "note": "Arrival buffer, garden entry, same-day ticket conditions and missed-entry policy."
+      },
+      {
+        "id": "cdg-fees",
+        "title": "Royal Palaces and Tombs Center: Changdeokgung admission fees",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do?schGroupCode=cdg",
+        "checkedAt": "2026-11-09",
+        "note": "Ordinary adult building and garden rates, pass scope and exemptions."
+      },
+      {
+        "id": "cdg-directions",
+        "title": "Royal Palaces and Tombs Center: Changdeokgung directions",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do?schGroupCode=cdg",
+        "checkedAt": "2026-11-09",
+        "note": "Korean street address; map point is an overview, not the garden entrance."
+      }
+    ],
+    "shareFacts": [
+      "Choose a timed garden entry and check separate palace admission.",
+      "The operator recommends entering the palace at least 20 minutes before garden entry.",
+      "Check current event exceptions and ticket availability."
+    ],
+    "launchOrder": 1002,
+    "changeType": "new",
+    "heroMediaId": "changdeok-garden-christian-bolz-2017",
+    "heroCaption": "Changdeokgung Secret Garden in 2017. Routes, access and available areas may have changed.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Biwon Huwon of Changdeokgung",
+      "author": "Christian Bolz",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Biwon_Huwon_of_Changdeokgung.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 10 October 2017; resized and converted to WebP. Adaptation retains CC BY-SA 4.0. Historical image, not evidence of current access or available routes."
+    },
+    "quickTitle": "Make the two ticket decisions",
+    "quickChoices": [
+      {
+        "label": "1 · Garden",
+        "detail": "Check a timed slot, language and current booking conditions."
+      },
+      {
+        "label": "2 · Palace",
+        "detail": "Check separate building admission, pass coverage and evidence for exemptions."
+      },
+      {
+        "label": "3 · Arrival",
+        "detail": "Allow for the palace gate, walking to the garden entrance and a backup."
+      }
+    ]
   }
 }

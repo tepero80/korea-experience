@@ -807,5 +807,20 @@
       "note": "Photographed in 2019; resized and converted to WebP under the same licence. The exterior is not the Children’s Museum entrance or evidence of current conditions."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "changdeokgung-secret-garden-tickets": {
+    "src": "/images/cards/changdeokgung-secret-garden-tickets.jpg",
+    "fingerprint": "4a2259e19dcb925d0fc5b82cd14745b7cda1fd8105a23c3d16448dd71e4887ce",
+    "sourceImage": "/images/editorial/changdeok-garden-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Biwon Huwon of Changdeokgung",
+      "author": "Christian Bolz",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Biwon_Huwon_of_Changdeokgung.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 10 October 2017; resized and converted to WebP. Adaptation retains CC BY-SA 4.0. Historical image, not evidence of current access or available routes."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

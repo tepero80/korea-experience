@@ -1607,5 +1607,24 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Photographed in 2019; resized and converted to WebP under the same licence. The exterior is not the Children’s Museum entrance or evidence of current conditions."
     }
+  },
+  {
+    "id": "changdeok-garden-christian-bolz-2017",
+    "src": "/images/editorial/changdeok-garden-1280.webp",
+    "width": 1280,
+    "height": 720,
+    "originalId": "https://commons.wikimedia.org/wiki/File:Biwon_Huwon_of_Changdeokgung.jpg",
+    "originalHash": "2034490b5cb666a33ddff630be789304e6042f95bd4e0f9394a1c3c28fe4f3ff",
+    "capturedAt": "2017-10-10",
+    "alt": "Pond and traditional pavilions in Changdeokgung Secret Garden in 2017",
+    "credit": {
+      "kind": "photograph",
+      "title": "Biwon Huwon of Changdeokgung",
+      "author": "Christian Bolz",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Biwon_Huwon_of_Changdeokgung.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 10 October 2017; resized and converted to WebP. Adaptation retains CC BY-SA 4.0. Historical image, not evidence of current access or available routes."
+    }
   }
 ]
