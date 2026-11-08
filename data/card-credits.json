@@ -778,5 +778,19 @@
       "note": "Original editorial illustration, not a photograph or medical advice."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "incheon-power-bank-carry-on-rules": {
+    "src": "/images/cards/incheon-power-bank-carry-on-rules.jpg",
+    "fingerprint": "577b16e842c8e52ff86c85d604408e76a1e64f47797f891d22259ee62be0e1b8",
+    "sourceImage": "/images/editorial/incheon-power-bank-illustration.webp",
+    "credit": {
+      "kind": "illustration",
+      "title": "Power bank and carry-on planning illustration",
+      "author": "Korea Experience Editorial using OpenAI image generation",
+      "license": "Generated illustration; site use under OpenAI terms",
+      "licenseUrl": "https://openai.com/policies/terms-of-use/",
+      "note": "AI-generated conceptual illustration; not a photograph of an airport, product or actual baggage procedure."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

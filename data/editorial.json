@@ -4793,5 +4793,75 @@
     "heroCaption": "A planning illustration; urgent situations require immediate help.",
     "cardImageLabel": "Care for a child",
     "experienceVersion": 2
+  },
+  "incheon-power-bank-carry-on-rules": {
+    "id": "airport-power-bank-rules",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Keep power banks with you in the cabin, protect their terminals, and check capacity and airline approval before flying.",
+    "forWhom": "Travelers leaving Incheon with a portable power bank",
+    "conditions": [
+      "Rules may differ by operating airline and route.",
+      "Power banks and installed device or mobility batteries have different rules."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "departure"
+    ],
+    "interests": [
+      "flying",
+      "safety"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "prepare",
+        "label": "Get to the airport",
+        "reason": "Plan the airport journey before your departure day."
+      },
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "alternative",
+        "label": "Travel help",
+        "reason": "Find practical help if your plans change while traveling."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "incheon-items",
+        "title": "Incheon Airport: prohibited items",
+        "url": "https://www.airport.kr/ap_ko/905/subview.do",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "id": "incheon-batteries",
+        "title": "Incheon Airport: security and battery guidance",
+        "url": "https://www.airport.kr/ap_en/1434/subview.do",
+        "checkedAt": "2026-11-09"
+      }
+    ],
+    "shareFacts": [
+      "Power banks travel in the cabin",
+      "Check capacity and airline restrictions"
+    ],
+    "launchOrder": 1001,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Power bank and carry-on planning illustration",
+      "author": "Korea Experience Editorial using OpenAI image generation",
+      "license": "Generated illustration; site use under OpenAI terms",
+      "licenseUrl": "https://openai.com/policies/terms-of-use/",
+      "note": "AI-generated conceptual illustration; not a photograph of an airport, product or actual baggage procedure."
+    },
+    "heroMediaId": "incheon-power-bank-cover",
+    "heroCaption": "AI-generated illustration of travel packing; not an airport photograph.",
+    "cardImageLabel": "Illustration",
+    "experienceVersion": 2
   }
 }

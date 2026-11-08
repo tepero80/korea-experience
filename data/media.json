@@ -1572,5 +1572,22 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial illustration, not a photograph or medical advice."
     }
+  },
+  {
+    "id": "incheon-power-bank-cover",
+    "src": "/images/editorial/incheon-power-bank-illustration.webp",
+    "width": 1280,
+    "height": 853,
+    "alt": "Conceptual illustration of a power bank, cable and luggage on a desk",
+    "originalId": "generated-incheon-power-bank-2026-11-09",
+    "originalHash": "f4f3e98253248039f356102448f771e6348a3609dcd61ba55144555e786200ab",
+    "credit": {
+      "kind": "illustration",
+      "title": "Power bank and carry-on planning illustration",
+      "author": "Korea Experience Editorial using OpenAI image generation",
+      "license": "Generated illustration; site use under OpenAI terms",
+      "licenseUrl": "https://openai.com/policies/terms-of-use/",
+      "note": "AI-generated conceptual illustration; not a photograph of an airport, product or actual baggage procedure."
+    }
   }
 ]
