@@ -1626,5 +1626,41 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Photographed 10 October 2017; resized and converted to WebP. Adaptation retains CC BY-SA 4.0. Historical image, not evidence of current access or available routes."
     }
+  },
+  {
+    "id": "incheon-terminal-flight-check-photo",
+    "originalId": "https://commons.wikimedia.org/wiki/File:ICN_T2_Departure.jpg",
+    "src": "/images/editorial/incheon-terminal-flight-check-photo.webp",
+    "width": 1280,
+    "height": 960,
+    "alt": "Departure hall at Incheon Airport Terminal 2, with smart bag-drop signage in the foreground",
+    "credit": {
+      "kind": "photograph",
+      "title": "ICN T2 Departure.jpg",
+      "author": "AirportTerminalGuy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_T2_Departure.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-07-26. Resized and converted to WebP. Historical image; confirm current operations independently."
+    },
+    "originalHash": "574abcb19d738c2554de537b822f9c5b8ff7fca250f0f1a2267f4b2008414e21"
+  },
+  {
+    "id": "incheon-missing-checked-bag-photo",
+    "originalId": "https://commons.wikimedia.org/wiki/File:ICN_T2_arrival.jpg",
+    "src": "/images/editorial/incheon-missing-checked-bag-photo.webp",
+    "width": 1280,
+    "height": 721,
+    "alt": "Passengers waiting at baggage carousels in Incheon Airport Terminal 2",
+    "credit": {
+      "kind": "photograph",
+      "title": "ICN T2 arrival.jpg",
+      "author": "AirportTerminalGuy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_T2_arrival.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-08-25. Resized and converted to WebP. Historical image; confirm current operations independently."
+    },
+    "originalHash": "54014fca14df7047b8fbd6aafa300427bb4af9b5c4830543a1e7bc35e798ccd8"
   }
 ]

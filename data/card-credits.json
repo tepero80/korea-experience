@@ -822,5 +822,35 @@
       "note": "Photographed 10 October 2017; resized and converted to WebP. Adaptation retains CC BY-SA 4.0. Historical image, not evidence of current access or available routes."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "incheon-terminal-flight-check": {
+    "src": "/images/cards/incheon-terminal-flight-check.jpg",
+    "fingerprint": "1c42b10cff331afb5874c77b17bcd50e375d65738febf742ac8f78ca6d7c54e7",
+    "sourceImage": "/images/editorial/incheon-terminal-flight-check-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "ICN T2 Departure.jpg",
+      "author": "AirportTerminalGuy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_T2_Departure.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-07-26. Resized and converted to WebP. Historical image; confirm current operations independently."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "incheon-missing-checked-bag": {
+    "src": "/images/cards/incheon-missing-checked-bag.jpg",
+    "fingerprint": "d48161c57259ea96e30ac7555cca73797718d5ddd6d0274d45e8a967076dc7e0",
+    "sourceImage": "/images/editorial/incheon-missing-checked-bag-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "ICN T2 arrival.jpg",
+      "author": "AirportTerminalGuy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_T2_arrival.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-08-25. Resized and converted to WebP. Historical image; confirm current operations independently."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

@@ -5041,5 +5041,140 @@
         "detail": "Allow for the palace gate, walking to the garden entrance and a backup."
       }
     ]
+  },
+  "incheon-terminal-flight-check": {
+    "id": "airport-terminal-flight-check",
+    "experienceVersion": 2,
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Check the operating flight number and terminal on your e-ticket, then verify it with the airline and airport before choosing transport.",
+    "forWhom": "Passengers arriving at or departing Incheon International Airport",
+    "conditions": [
+      "Check current airline instructions and your individual itinerary."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "arrival",
+      "departure"
+    ],
+    "interests": [
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "next",
+        "label": "Your next decision",
+        "reason": "Choose a bus or train only after checking the terminal for your specific flight."
+      }
+    ],
+    "tools": [
+      "airport-transfer"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "airport-terminal-flight-check-airport",
+        "title": "Incheon Airport: arrival procedures and terminal guidance",
+        "url": "https://www.airport.kr/ap_en/1439/subview.do",
+        "checkedAt": "2026-11-09",
+        "note": "Official page states codeshare or airline circumstances can change terminal; verify e-ticket or flight search. Arrival concourse passengers use the shuttle train."
+      },
+      {
+        "id": "airport-flight-search",
+        "title": "Incheon Airport flight search",
+        "url": "https://www.airport.kr/sites/ap_en/index.do",
+        "checkedAt": "2026-11-09"
+      }
+    ],
+    "shareFacts": [
+      "Check the operating flight number and terminal on your e-ticket, then verify it with the airline and airport before choosing transport.",
+      "Verify details with the airline for your own flight."
+    ],
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "ICN T2 Departure.jpg",
+      "author": "AirportTerminalGuy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_T2_Departure.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-07-26. Resized and converted to WebP. Historical image; confirm current operations independently."
+    },
+    "gallery": [],
+    "heroMediaId": "incheon-terminal-flight-check-photo",
+    "heroCaption": "Incheon Terminal 2 departure hall in 2024. Check your own flight and terminal before travel.",
+    "launchOrder": 1004
+  },
+  "incheon-missing-checked-bag": {
+    "id": "airport-missing-checked-bag",
+    "experienceVersion": 2,
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Contact your airline about the missing checked bag before leaving the airport if possible, and ask for a written report and tracking reference.",
+    "forWhom": "Passengers whose checked baggage is missing or damaged after an arriving flight",
+    "conditions": [
+      "Check current airline instructions and your individual itinerary."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "arrival"
+    ],
+    "interests": [
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "next",
+        "label": "Your next decision",
+        "reason": "Once the baggage report is filed, compare onward transport to your accommodation."
+      }
+    ],
+    "tools": [
+      "airport-transfer"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "airport-missing-checked-bag-airport",
+        "title": "Incheon Airport: lost or damaged baggage",
+        "url": "https://www.airport.kr/ap_en/1451/subview.do",
+        "checkedAt": "2026-11-09",
+        "note": "Airport says airline manages lost baggage. Behind-carousel counter is explicitly given for damage; do not imply airport guarantees the same counter for missing baggage."
+      },
+      {
+        "id": "incheon-lost-property",
+        "title": "Incheon Airport: lost and found",
+        "url": "https://www.airport.kr/ap_en/1549/subview.do",
+        "checkedAt": "2026-11-09",
+        "note": "Different responsible organizations for terminal, aircraft and airport transport."
+      }
+    ],
+    "shareFacts": [
+      "Contact your airline about the missing checked bag before leaving the airport if possible, and ask for a written report and tracking reference.",
+      "Verify details with the airline for your own flight."
+    ],
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "ICN T2 arrival.jpg",
+      "author": "AirportTerminalGuy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_T2_arrival.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-08-25. Resized and converted to WebP. Historical image; confirm current operations independently."
+    },
+    "gallery": [],
+    "heroMediaId": "incheon-missing-checked-bag-photo",
+    "heroCaption": "Incheon Terminal 2 baggage-claim area in 2024. Ask airport staff where to contact your airline for a missing bag.",
+    "launchOrder": 1005
   }
 }
