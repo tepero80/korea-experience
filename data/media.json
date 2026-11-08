@@ -1662,5 +1662,43 @@
       "note": "Photographed 2024-08-25. Resized and converted to WebP. Historical image; confirm current operations independently."
     },
     "originalHash": "54014fca14df7047b8fbd6aafa300427bb4af9b5c4830543a1e7bc35e798ccd8"
+  },
+  {
+    "id": "city-wall-museum-omo-2015",
+    "src": "/images/editorial/seoul-city-wall-museum-1280.webp",
+    "width": 1280,
+    "height": 960,
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul_City_Wall_Museum.jpg",
+    "originalHash": "c2232a8624a8598b5091764b654a3a69acad3a3b23d8740f40adf000d7db9299",
+    "capturedAt": "2015-07-17",
+    "alt": "Seoul City Wall Museum building beside the city wall in 2015",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seoul City Wall Museum",
+      "author": "오모군",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_City_Wall_Museum.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Photographed 2015-07-17; resized and converted to WebP. Historical image; check current access independently."
+    }
+  },
+  {
+    "id": "namsangol-mobius6-2024",
+    "src": "/images/editorial/namsangol-hanok-family-1280.webp",
+    "width": 1280,
+    "height": 853,
+    "originalId": "https://commons.wikimedia.org/wiki/File:Namsangol_Hanok_Village_20240409_048.jpg",
+    "originalHash": "fff66986dbaa9737cb77c3cbdd03763195cc5f1b1bd4e03a04c8008250946359",
+    "capturedAt": "2024-04-09",
+    "alt": "Traditional tiled buildings and earthenware jars in Namsangol Hanok Village",
+    "credit": {
+      "kind": "photograph",
+      "title": "Namsangol Hanok Village 20240409 048",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namsangol_Hanok_Village_20240409_048.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-04-09; resized and converted to WebP. Historical image; check current access independently."
+    }
   }
 ]

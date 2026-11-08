@@ -852,5 +852,35 @@
       "note": "Photographed 2024-08-25. Resized and converted to WebP. Historical image; confirm current operations independently."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoul-city-wall-museum-guide": {
+    "src": "/images/cards/seoul-city-wall-museum-guide.jpg",
+    "fingerprint": "25b436cd7ffef41ffa270ec911d993d04da54b7b7aaf6796a19597b8aeca7f27",
+    "sourceImage": "/images/editorial/seoul-city-wall-museum-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seoul City Wall Museum",
+      "author": "오모군",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_City_Wall_Museum.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Photographed 2015-07-17; resized and converted to WebP. Historical image; check current access independently."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "namsangol-hanok-village-family-visit": {
+    "src": "/images/cards/namsangol-hanok-village-family-visit.jpg",
+    "fingerprint": "8d392727013ad8dac71547a6e6e15f83a8feacca256999d8a7cddfd535ecc08a",
+    "sourceImage": "/images/editorial/namsangol-hanok-family-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Namsangol Hanok Village 20240409 048",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namsangol_Hanok_Village_20240409_048.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-04-09; resized and converted to WebP. Historical image; check current access independently."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

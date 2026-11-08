@@ -5176,5 +5176,190 @@
     "heroMediaId": "incheon-missing-checked-bag-photo",
     "heroCaption": "Incheon Terminal 2 baggage-claim area in 2024. Ask airport staff where to contact your airline for a missing bag.",
     "launchOrder": 1005
+  },
+  "seoul-city-wall-museum-guide": {
+    "id": "culture-seoul-city-wall-museum",
+    "experienceVersion": 2,
+    "categoryId": "culture-events",
+    "format": "place",
+    "launchOrder": 1006,
+    "checkedAt": "2026-11-09",
+    "answer": "Visit the free City Wall Museum near Dongdaemun Station for historical context before deciding whether weather and energy suit an outdoor walk.",
+    "forWhom": "Travelers seeking a short indoor Seoul history stop near Dongdaemun",
+    "conditions": [
+      "The museum currently lists 09:00–18:00 and last entry 17:30; it closes Mondays and January 1.",
+      "Confirm current outdoor conditions and accessibility separately; the museum does not imply a verified wall route."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "history",
+      "museums"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-museums-and-exhibitions-planning-guide",
+        "type": "alternative",
+        "label": "Choose another museum",
+        "reason": "Compare indoor museum options and their separate admission and closing conditions."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "next",
+        "label": "Plan a rainy day",
+        "reason": "Choose an indoor cluster if the weather rules out an outdoor wall walk."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "scwm-visit",
+        "title": "Seoul City Wall Museum: visitor information",
+        "url": "https://museum.seoul.go.kr/scwm/hanyangMuseum/watchGuide.jsp",
+        "checkedAt": "2026-11-09",
+        "note": "Museum opening, last entry, closures, free admission and photography rules; archive library has different hours."
+      },
+      {
+        "id": "scwm-directions",
+        "title": "Seoul City Wall Museum: directions",
+        "url": "https://museum.seoul.go.kr/scwm/hanyangMuseum/comingAway.jsp",
+        "checkedAt": "2026-11-09",
+        "note": "Korean address, Dongdaemun Station exits and museum's five-minute estimate."
+      },
+      {
+        "id": "scwm-faq",
+        "title": "Seoul City Wall Museum: visitor FAQ",
+        "url": "https://museum.seoul.go.kr/scwm/board/NR_boardList.do?bbsCd=1184",
+        "checkedAt": "2026-11-09",
+        "note": "Estimated visit length, outdoor rest area and conditions."
+      }
+    ],
+    "shareFacts": [
+      "Free museum near Dongdaemun Station.",
+      "Ordinary hours 09:00–18:00; last admission 17:30.",
+      "Check outdoor route access and weather separately."
+    ],
+    "changeType": "new",
+    "heroMediaId": "city-wall-museum-omo-2015",
+    "heroCaption": "Seoul City Wall Museum and the adjacent wall in 2015; present-day appearance may differ.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Seoul City Wall Museum",
+      "author": "오모군",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_City_Wall_Museum.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Photographed 2015-07-17; resized and converted to WebP. Historical image; check current access independently."
+    },
+    "quickTitle": "Before you visit",
+    "quickChoices": [
+      {
+        "label": "1 · Check the day",
+        "detail": "The museum closes Mondays and January 1; confirm current notices."
+      },
+      {
+        "label": "2 · Get there",
+        "detail": "Use Dongdaemun Station exit 1 or 10 and the Korean address."
+      },
+      {
+        "label": "3 · Choose the next stop",
+        "detail": "Assess weather and any outdoor route closures after the visit."
+      }
+    ]
+  },
+  "namsangol-hanok-village-family-visit": {
+    "id": "culture-namsangol-family-visit",
+    "experienceVersion": 2,
+    "categoryId": "culture-events",
+    "format": "place",
+    "launchOrder": 1007,
+    "checkedAt": "2026-11-09",
+    "answer": "Visit the traditional houses for free during seasonal opening hours, and check separate dates and charges for any family activity.",
+    "forWhom": "Families seeking a central Seoul traditional-house visit",
+    "conditions": [
+      "The traditional houses and garden have different opening arrangements.",
+      "Outdoor surfaces and activity accessibility have not been verified; check weather and current notices."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "families",
+      "culture"
+    ],
+    "relations": [
+      {
+        "slug": "choosing-korean-cultural-experiences-reservations-and-walk-in-options",
+        "type": "prepare",
+        "label": "Choose a cultural activity",
+        "reason": "Compare walk-in and reserved experiences and verify age, language and fees."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Choose a wet-weather plan",
+        "reason": "Switch to an indoor cluster if the outdoor village is unsuitable."
+      }
+    ],
+    "tools": [],
+    "placeIds": [
+      "namsangol"
+    ],
+    "sources": [
+      {
+        "id": "namsangol-city",
+        "title": "Seoul City: Namsangol Hanok Village information",
+        "url": "https://news.seoul.go.kr/culture/archives/66",
+        "checkedAt": "2026-11-09",
+        "note": "Seasonal hours, address, free admission, garden access and restored-house context."
+      },
+      {
+        "id": "namsangol-holiday",
+        "title": "Seoul City Media Hub: visiting Namsangol",
+        "url": "https://mediahub.seoul.go.kr/archives/2019415",
+        "checkedAt": "2026-11-09",
+        "note": "September 2026 report states Monday public-holiday opening; verify specific dates with operator."
+      }
+    ],
+    "shareFacts": [
+      "Traditional-house admission is free.",
+      "Winter house hours differ from the garden's listed access.",
+      "Confirm activity fees and booking rules for your date."
+    ],
+    "changeType": "new",
+    "heroMediaId": "namsangol-mobius6-2024",
+    "heroCaption": "Traditional buildings and earthenware jars at Namsangol Hanok Village in 2024.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Namsangol Hanok Village 20240409 048",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namsangol_Hanok_Village_20240409_048.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-04-09; resized and converted to WebP. Historical image; check current access independently."
+    },
+    "quickTitle": "Plan the family stop",
+    "quickChoices": [
+      {
+        "label": "1 · Check the hours",
+        "detail": "The traditional houses close earlier in winter; check holiday notices."
+      },
+      {
+        "label": "2 · Find the village",
+        "detail": "Use Chungmuro Station and the saved Korean address."
+      },
+      {
+        "label": "3 · Check activities",
+        "detail": "Confirm any session's age, language, price and booking rules."
+      }
+    ]
   }
 }
