@@ -792,5 +792,20 @@
       "note": "AI-generated conceptual illustration; not a photograph of an airport, product or actual baggage procedure."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "national-museum-korea-childrens-museum-reservation": {
+    "src": "/images/cards/national-museum-korea-childrens-museum-reservation.jpg",
+    "fingerprint": "0390eeb3a49f68fb6fec2adbef8cb0ef08b45b85db9236dac41a41d12025e3db",
+    "sourceImage": "/images/editorial/national-museum-korea-children-guide.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "National Museum of Korea exterior",
+      "author": "Tristan Surtel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Korea_exterior.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed in 2019; resized and converted to WebP under the same licence. The exterior is not the Children’s Museum entrance or evidence of current conditions."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

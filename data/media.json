@@ -1589,5 +1589,23 @@
       "licenseUrl": "https://openai.com/policies/terms-of-use/",
       "note": "AI-generated conceptual illustration; not a photograph of an airport, product or actual baggage procedure."
     }
+  },
+  {
+    "id": "national-museum-family-exterior",
+    "src": "/images/editorial/national-museum-korea-children-guide.webp",
+    "width": 1280,
+    "height": 851,
+    "alt": "Exterior of the National Museum of Korea in 2019",
+    "originalId": "wikimedia-national-museum-korea-exterior-tristan-surtel",
+    "originalHash": "fc19fbdcf84f28518e77e471b0a195b5593299e17829f176698c4e20455dbcb4",
+    "credit": {
+      "kind": "photograph",
+      "title": "National Museum of Korea exterior",
+      "author": "Tristan Surtel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Korea_exterior.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed in 2019; resized and converted to WebP under the same licence. The exterior is not the Children’s Museum entrance or evidence of current conditions."
+    }
   }
 ]

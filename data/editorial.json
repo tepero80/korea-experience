@@ -4863,5 +4863,78 @@
     "heroCaption": "AI-generated illustration of travel packing; not an airport photograph.",
     "cardImageLabel": "Illustration",
     "experienceVersion": 2
+  },
+  "national-museum-korea-childrens-museum-reservation": {
+    "id": "culture-childrens-museum-booking",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Reserve a free timed Children’s Museum session online for every adult and child, including infants.",
+    "forWhom": "Families planning a visit to the National Museum of Korea in Seoul",
+    "conditions": [
+      "Individual reservations are for two to five people.",
+      "Check current sessions, closures and reservation conditions."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "family",
+      "museums"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-museums-and-exhibitions-planning-guide",
+        "type": "interest",
+        "label": "Compare museums",
+        "reason": "Choose another collection if the children’s session does not fit."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Plan a rainy day",
+        "reason": "Choose a practical indoor area if the reservation is unavailable."
+      }
+    ],
+    "tools": [],
+    "placeIds": [
+      "national-museum-korea"
+    ],
+    "sources": [
+      {
+        "id": "nm-child-reserve",
+        "title": "National Museum of Korea: Children’s Museum reservations",
+        "url": "https://vcm.museum.go.kr/ENG/contents/E0103010000.do",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "id": "nm-hours",
+        "title": "National Museum of Korea: visitor information",
+        "url": "https://www.museum.go.kr/ENG/contents/E0101010000.do",
+        "checkedAt": "2026-11-09"
+      }
+    ],
+    "shareFacts": [
+      "Reserve a free timed session",
+      "Include every adult and child"
+    ],
+    "launchOrder": 1002,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "National Museum of Korea exterior",
+      "author": "Tristan Surtel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Museum_of_Korea_exterior.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed in 2019; resized and converted to WebP under the same licence. The exterior is not the Children’s Museum entrance or evidence of current conditions."
+    },
+    "heroMediaId": "national-museum-family-exterior",
+    "heroCaption": "The National Museum of Korea exterior in 2019; this is not the Children’s Museum entrance.",
+    "experienceVersion": 2
   }
 }
