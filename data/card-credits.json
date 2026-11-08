@@ -957,5 +957,20 @@
       "note": "Resized and converted to WebP. Historical photograph; it does not establish current conditions."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jeonju-nambu-market-eating-plan": {
+    "src": "/images/cards/jeonju-nambu-market-eating-plan.jpg",
+    "fingerprint": "ca91ef2ae17af3633c9de1d8119556501619504f185543333b0dd41242d537db",
+    "sourceImage": "/images/editorial/jeonju-nambu-pisundae-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "20240725 Jeonju southern market - Pisundae 2.jpg",
+      "author": "Jjw",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240725_Jeonju_southern_market_-_Pisundae_2.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-07-27; resized and converted to WebP. Historical view; check current availability."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

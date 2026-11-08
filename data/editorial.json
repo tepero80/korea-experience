@@ -5808,5 +5808,100 @@
         "detail": "Family workshops are separately reserved and time-limited."
       }
     ]
+  },
+  "jeonju-nambu-market-eating-plan": {
+    "id": "food-jeonju-nambu-market",
+    "experienceVersion": 2,
+    "categoryId": "food-dining",
+    "format": "place",
+    "launchOrder": 1013,
+    "checkedAt": "2026-11-09",
+    "answer": "Choose the part of Nambu Market that fits your visit time, then confirm the current hours and an individual stall's price and payment methods.",
+    "forWhom": "Jeonju visitors planning a market meal",
+    "conditions": [
+      "A 2026 KTO report lists the night market on Fridays and Saturdays 17:00–24:00; an older KTO report differs and current dates must be checked.",
+      "Individual vendors, prices, cards, ingredients and accessibility can vary."
+    ],
+    "regions": [
+      "jeonju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "markets",
+      "food"
+    ],
+    "relations": [
+      {
+        "slug": "gwangjang-market-complete-food-guide",
+        "type": "interest",
+        "label": "Explore another market",
+        "reason": "Use a practical market ordering guide when planning a separate Seoul visit."
+      },
+      {
+        "slug": "navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact",
+        "type": "prepare",
+        "label": "Plan dietary questions",
+        "reason": "Check ingredients and shared equipment before ordering where an allergy matters."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-nambu-2026",
+        "title": "Korea Tourism Organization: Jeonju Nambu Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593611",
+        "checkedAt": "2026-11-09",
+        "note": "2026 report lists night-market and riverside morning-market times, address and merchants' contact. A date-specific check remains necessary."
+      },
+      {
+        "id": "kto-nambu-listing",
+        "title": "Korea Tourism Organization: Nambu Market listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=75565",
+        "checkedAt": "2026-11-09",
+        "note": "Korean address, store-hours variation and general market information; general card acceptance is not proof every vendor accepts each foreign card."
+      },
+      {
+        "id": "kto-nambu-old",
+        "title": "Korea Tourism Organization: older Jeonju itinerary",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=226092",
+        "checkedAt": "2026-11-09",
+        "note": "Older night-market hours differ; do not treat them as current."
+      }
+    ],
+    "shareFacts": [
+      "Daytime stalls and weekend night market may follow different schedules.",
+      "Confirm current vendor hours and payment individually.",
+      "Ask about ingredients and cross-contact before ordering."
+    ],
+    "changeType": "new",
+    "heroMediaId": "jeonju-nambu-pisundae-jjw-2024",
+    "heroCaption": "Pisundae photographed at Jeonju Nambu Market in July 2024; ingredients and current availability vary by vendor.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "20240725 Jeonju southern market - Pisundae 2.jpg",
+      "author": "Jjw",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240725_Jeonju_southern_market_-_Pisundae_2.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-07-27; resized and converted to WebP. Historical view; check current availability."
+    },
+    "quickTitle": "Before choosing a meal",
+    "quickChoices": [
+      {
+        "label": "1 · Pick the time",
+        "detail": "Check if your visit is during daytime, the weekend night market or the riverside morning market."
+      },
+      {
+        "label": "2 · Check the stall",
+        "detail": "Ask about price, portion, ingredients and payment."
+      },
+      {
+        "label": "3 · Keep a backup",
+        "detail": "A stall may close early or sell out."
+      }
+    ]
   }
 }
