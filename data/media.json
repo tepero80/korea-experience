@@ -1810,5 +1810,23 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "note": "Photographed 2024-07-27; resized and converted to WebP. Historical view; check current availability."
     }
+  },
+  {
+    "id": "transport-gyeongju-station-downtown-photo",
+    "src": "/images/editorial/transport-gyeongju-station-downtown-photo.webp",
+    "width": 1280,
+    "height": 960,
+    "alt": "Gyeongju KTX Station exterior in March 2025",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gyeongju Station 2025-03.jpg",
+      "author": "にのへ",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongju_Station_2025-03.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 21 March 2025; resized and converted to WebP. Historical image; verify current station access."
+    },
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gyeongju_Station_2025-03.jpg",
+    "originalHash": "70250e949e19d457f4fd005956cdd95ddf79a7b2822aa45e870822a93ba5eda6"
   }
 ]

@@ -5903,5 +5903,86 @@
         "detail": "A stall may close early or sell out."
       }
     ]
+  },
+  "gyeongju-ktx-to-hwangnidan": {
+    "id": "transport-gyeongju-station-downtown",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "The KTX station and the historic center are separate: check a current local bus or taxi and confirm your return service reaches Gyeongju Station (KTX).",
+    "forWhom": "Visitors arriving at Gyeongju KTX Station and heading toward Hwangnidan-gil",
+    "conditions": [
+      "Route branches and the stop served vary by trip.",
+      "The former city-center station is not the current KTX station."
+    ],
+    "regions": [
+      "gyeongju"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around"
+    ],
+    "interests": [
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026",
+        "type": "next",
+        "label": "Plan your sightseeing",
+        "reason": "After reaching the center, organize historic sights by day and leave time for the return trip."
+      },
+      {
+        "slug": "intercity-bus-travel-booking-apps-and-routes",
+        "type": "alternative",
+        "label": "Compare intercity buses",
+        "reason": "A long-distance bus may arrive at a different location from the KTX station; compare the whole journey."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "gyeongju-hwangnidan-map",
+        "title": "Gyeongju City: Hwangnidan-gil travel map",
+        "url": "https://www.gyeongju.go.kr/hwangridan/images/gj_map_kor.pdf",
+        "note": "Lists station buses; its route diagrams place 710/711 at Cheonmachong back gate, despite the summary grouping all buses under Seorabeol. Treat individual stop service as unverified until checked.",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "id": "gyeongju-transport-center",
+        "title": "Gyeongju City traffic information center",
+        "url": "https://its.gyeongju.go.kr/",
+        "note": "Route and stop information; accessibility of live search not independently verified.",
+        "checkedAt": "2026-11-09"
+      },
+      {
+        "id": "gyeongju-official-access",
+        "title": "Gyeongju City Hwangnidan-gil: directions",
+        "url": "https://www.gyeongju.go.kr/hwangridan/index.nm?contentId=469",
+        "note": "Lists 50, 51, 60, 61, 70, 700 from station to Seorabeol Culture Hall; check current trips.",
+        "checkedAt": "2026-11-09"
+      }
+    ],
+    "shareFacts": [
+      "Gyeongju KTX Station is not the former city-center station.",
+      "Confirm the particular bus and stop before boarding.",
+      "Check that your return bus actually reaches Gyeongju Station (KTX)."
+    ],
+    "launchOrder": 1014,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gyeongju Station 2025-03.jpg",
+      "author": "にのへ",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongju_Station_2025-03.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 21 March 2025; resized and converted to WebP. Historical image; verify current station access."
+    },
+    "heroMediaId": "transport-gyeongju-station-downtown-photo",
+    "gallery": [],
+    "experienceVersion": 2,
+    "heroCaption": "Gyeongju Station (KTX) in March 2025; confirm current transport stops."
   }
 }

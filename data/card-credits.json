@@ -972,5 +972,20 @@
       "note": "Photographed 2024-07-27; resized and converted to WebP. Historical view; check current availability."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gyeongju-ktx-to-hwangnidan": {
+    "src": "/images/cards/gyeongju-ktx-to-hwangnidan.jpg",
+    "fingerprint": "137a7c20518f07e384c48f23db42bfd1d7acfd86691f804de449c425c5a0a034",
+    "sourceImage": "/images/editorial/transport-gyeongju-station-downtown-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gyeongju Station 2025-03.jpg",
+      "author": "にのへ",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongju_Station_2025-03.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 21 March 2025; resized and converted to WebP. Historical image; verify current station access."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }
