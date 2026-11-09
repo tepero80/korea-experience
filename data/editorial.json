@@ -7175,5 +7175,86 @@
     "heroCaption": "Original checklist; outcomes depend on the actual booking and terms.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "korea-coastal-winter-wave-safety": {
+    "id": "essentials-korea-coastal-wave-safety",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Check local weather and coastal swell information before leaving, obey closures and choose an inland alternative when conditions are unsafe.",
+    "forWhom": "Travelers planning a coastal walk in winter or unsettled weather",
+    "conditions": [
+      "Swell can occur outside winter; a missing forecast is not proof of safety.",
+      "Forecasts and local access restrictions change."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "weather",
+      "safety"
+    ],
+    "relations": [
+      {
+        "slug": "korea-snow-advisory-travel-plan",
+        "type": "alternative",
+        "label": "Plan around snow advisories",
+        "reason": "Use a separate checklist for snow and transport changes."
+      },
+      {
+        "slug": "gangneung-station-anmok",
+        "type": "next",
+        "label": "Plan a Gangneung route",
+        "reason": "Check transport and conditions before a coastal outing."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kma-swell",
+        "title": "Korea Meteorological Administration: coastal swell forecast",
+        "url": "https://www.weather.go.kr/w/forecast/ocean/swell.do",
+        "checkedAt": "2026-11-09",
+        "note": "Selected locations; Korean-language interface."
+      },
+      {
+        "id": "kma-sea-safety",
+        "title": "Korea Meteorological Administration: high-wave safety",
+        "url": "https://www.weather.go.kr/w/hazard/safety-guide/wind-wave.do",
+        "checkedAt": "2026-11-09",
+        "note": "Safety guidance for strong waves and exposed coasts; Korean."
+      },
+      {
+        "id": "kma-warning",
+        "title": "Korea Meteorological Administration: severe weather status",
+        "url": "https://www.weather.go.kr/neng/forecast/warning.do",
+        "checkedAt": "2026-11-09",
+        "note": "Check the affected area and effective time."
+      }
+    ],
+    "shareFacts": [
+      "Check local weather and selected coastal swell forecasts.",
+      "Avoid closed and exposed shore areas when conditions are hazardous.",
+      "Keep an inland fallback; call 119 for emergency rescue."
+    ],
+    "launchOrder": 1032,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Coastal weather planning steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-korea-coastal-wave-safety-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual illustration; not a real coast, live forecast or safety map."
+    },
+    "heroMediaId": "essentials-korea-coastal-wave-safety-illustration",
+    "heroCaption": "Original planning illustration; consult current local forecasts and notices.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

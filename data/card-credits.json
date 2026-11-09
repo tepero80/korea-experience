@@ -1242,5 +1242,20 @@
       "note": "Original editorial checklist; not an official form or a guarantee of a refund."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "korea-coastal-winter-wave-safety": {
+    "src": "/images/cards/korea-coastal-winter-wave-safety.jpg",
+    "fingerprint": "a4d6d683c3fcc6e4b92de83f9eb8b9fe3e464c16b0cc3303c52b7fe9a099b376",
+    "sourceImage": "/images/editorial/essentials-korea-coastal-wave-safety-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Coastal weather planning steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-korea-coastal-wave-safety-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual illustration; not a real coast, live forecast or safety map."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

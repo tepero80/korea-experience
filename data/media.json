@@ -2166,5 +2166,25 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial checklist; not an official form or a guarantee of a refund."
     }
+  },
+  {
+    "id": "essentials-korea-coastal-wave-safety-illustration",
+    "src": "/images/editorial/essentials-korea-coastal-wave-safety-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-essentials-korea-coastal-wave-safety-illustration-v1",
+    "originalHash": "3630bb65540d106c09f096eb48b6932a13b9d4847aa29f9b95367ea7f8448c08",
+    "checkedAt": "2026-11-09",
+    "alt": "Check coastal weather, avoid exposed closed areas, keep an inland alternative and call 119 in an emergency",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Coastal weather planning steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-korea-coastal-wave-safety-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual illustration; not a real coast, live forecast or safety map."
+    }
   }
 ]
