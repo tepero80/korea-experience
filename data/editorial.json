@@ -6407,5 +6407,138 @@
     "heroCaption": "Original planning diagram; check current service and conditions.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "unhyeongung-anguk-traditional-house-visit": {
+    "id": "culture-unhyeongung-anguk",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-09",
+    "answer": "Unhyeongung is a free traditional architecture stop near Anguk Station; check the date and current entry hours before visiting.",
+    "forWhom": "Visitors looking for a short traditional architecture visit near Anguk",
+    "conditions": [
+      "Opening times and special programs may change.",
+      "The complete accessible route has not been independently verified."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "culture",
+      "history"
+    ],
+    "relations": [
+      {
+        "slug": "changdeokgung-secret-garden-tickets",
+        "type": "next",
+        "label": "Plan a palace visit",
+        "reason": "Check tickets and visit conditions for a nearby historic site."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "visit-seoul-unhyeongung",
+        "title": "Visit Seoul: Unhyeongung Palace",
+        "url": "https://english.visitseoul.net/walking-tour/UnhyeongungPalace/ENP000471",
+        "checkedAt": "2026-11-09",
+        "note": "Admission, address, access and listed autumn 2026 evening hours; confirm current conditions with the venue."
+      }
+    ],
+    "shareFacts": [
+      "Free entry according to Visit Seoul.",
+      "Near Anguk Station, Line 3 Exit 4.",
+      "Confirm the date and last entry before traveling."
+    ],
+    "launchOrder": 1021,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Unhyeongung.JPG",
+      "author": "Holger Ebermann",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unhyeongung.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 6 August 2016; resized and converted to WebP. Historical architectural detail, not evidence of current access or programs."
+    },
+    "heroMediaId": "culture-unhyeongung-architecture-photo",
+    "heroCaption": "Unhyeongung architectural detail in 2016; current access may differ.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seoraksan-cable-car-flexible-sokcho-day": {
+    "id": "places-seoraksan-cable-car-flexible",
+    "categoryId": "places-itineraries",
+    "format": "place",
+    "checkedAt": "2026-11-09",
+    "answer": "Check the operator’s daily weather and service notice before heading to Seoraksan; tickets are sold on site for a round trip.",
+    "forWhom": "Visitors planning a flexible Sokcho mountain outing",
+    "conditions": [
+      "Operations and hours can change with weather.",
+      "Tickets are sold on the day; confirm current access and fees."
+    ],
+    "regions": [
+      "sokcho"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "nature",
+      "winter"
+    ],
+    "relations": [
+      {
+        "slug": "korea-snow-advisory-travel-plan",
+        "type": "prepare",
+        "label": "Check winter conditions",
+        "reason": "Review weather and transport safety before traveling."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoraksan-operator-guide",
+        "title": "Seoraksan Cable Car: visitor guide",
+        "url": "https://www.sorakcablecar.co.kr/guide",
+        "checkedAt": "2026-11-09",
+        "note": "On-site tickets, fares, weather and return conditions."
+      },
+      {
+        "id": "sokcho-museum-hours",
+        "title": "Sokcho City: museum visitor guide",
+        "url": "https://sokcho.go.kr/ct/museum/intro/guide",
+        "checkedAt": "2026-11-09",
+        "note": "Winter museum hours and closures; confirm notices and safe transport."
+      }
+    ],
+    "shareFacts": [
+      "Check current operation before leaving.",
+      "Round-trip tickets are sold on site.",
+      "Strollers cannot enter the cable car."
+    ],
+    "launchOrder": 1022,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Seoraksan Cable Car 04.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoraksan_Cable_Car_04.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 11 October 2022; resized and converted to WebP. Historical image does not establish present service or weather."
+    },
+    "heroMediaId": "places-seoraksan-cable-car-photo",
+    "heroCaption": "Seoraksan Cable Car in October 2022; current weather and operation can differ.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

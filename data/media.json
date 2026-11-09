@@ -1946,5 +1946,45 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial diagram; not an operator display or live status."
     }
+  },
+  {
+    "id": "culture-unhyeongung-architecture-photo",
+    "src": "/images/editorial/culture-unhyeongung-architecture-photo.webp",
+    "width": 1280,
+    "height": 960,
+    "originalId": "https://commons.wikimedia.org/wiki/File:Unhyeongung.JPG",
+    "originalHash": "598039ea5a7c986718f7e0e4d450c6949869f3801520f17ecb73ee9a2f6aae65",
+    "checkedAt": "2026-11-09",
+    "alt": "Historic building at Unhyeongung photographed in 2016",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "photograph",
+      "title": "Unhyeongung.JPG",
+      "author": "Holger Ebermann",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unhyeongung.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 6 August 2016; resized and converted to WebP. Historical architectural detail, not evidence of current access or programs."
+    }
+  },
+  {
+    "id": "places-seoraksan-cable-car-photo",
+    "src": "/images/editorial/places-seoraksan-cable-car-photo.webp",
+    "width": 1280,
+    "height": 853,
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoraksan_Cable_Car_04.jpg",
+    "originalHash": "c0d629b524ab6a8338f4c16a5e592e2b3126be665795e3a5f712620d2578ca86",
+    "checkedAt": "2026-11-09",
+    "alt": "Seoraksan cable car over wooded mountains in October 2022",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seoraksan Cable Car 04.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoraksan_Cable_Car_04.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 11 October 2022; resized and converted to WebP. Historical image does not establish present service or weather."
+    }
   }
 ]

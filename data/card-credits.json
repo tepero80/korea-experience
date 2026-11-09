@@ -1077,5 +1077,35 @@
       "note": "Original editorial diagram; not an operator display or live status."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "unhyeongung-anguk-traditional-house-visit": {
+    "src": "/images/cards/unhyeongung-anguk-traditional-house-visit.jpg",
+    "fingerprint": "3d8a2a095dad241e602282de92b875a0fdd5e1311e917816cea3242d22f9c675",
+    "sourceImage": "/images/editorial/culture-unhyeongung-architecture-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Unhyeongung.JPG",
+      "author": "Holger Ebermann",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Unhyeongung.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 6 August 2016; resized and converted to WebP. Historical architectural detail, not evidence of current access or programs."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoraksan-cable-car-flexible-sokcho-day": {
+    "src": "/images/cards/seoraksan-cable-car-flexible-sokcho-day.jpg",
+    "fingerprint": "e38ae27b11f58b12d2619b37f1472a5b356ae125dc3b4244f0afdf878d7575e9",
+    "sourceImage": "/images/editorial/places-seoraksan-cable-car-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seoraksan Cable Car 04.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoraksan_Cable_Car_04.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 11 October 2022; resized and converted to WebP. Historical image does not establish present service or weather."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }
