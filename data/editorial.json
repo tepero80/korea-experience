@@ -6953,5 +6953,75 @@
     "heroCaption": "Original decision guide based on airport guidance; verify current contacts.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "gwangju-national-museum-children-visit": {
+    "id": "culture-gwangju-museum-family",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-09",
+    "answer": "Check the main museum and children’s museum separately, then book a children’s session ahead if possible.",
+    "forWhom": "Families looking for an indoor culture outing in Gwangju",
+    "conditions": [
+      "The children’s museum uses timed sessions and has a separate booking page.",
+      "Hours, closures and session availability can change."
+    ],
+    "regions": [
+      "gwangju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "family",
+      "museums"
+    ],
+    "relations": [
+      {
+        "slug": "national-museum-korea-childrens-museum-reservation",
+        "type": "alternative",
+        "label": "Plan a children’s museum visit in Seoul",
+        "reason": "A different museum with its own booking process."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "gwangju-museum-main",
+        "title": "Gwangju National Museum visitor information",
+        "url": "https://gwangju.museum.go.kr/kor/sub01_01.do",
+        "checkedAt": "2026-11-09",
+        "note": "Hours, closures, admission and amenities."
+      },
+      {
+        "id": "gwangju-museum-child",
+        "title": "Gwangju Children’s Museum session information",
+        "url": "https://gwangju.museum.go.kr/prog/experience/child/sub01_03/list.do",
+        "checkedAt": "2026-11-09",
+        "note": "Timed sessions, booking and stroller conditions; Korean."
+      }
+    ],
+    "shareFacts": [
+      "Main galleries: usually 10:00–18:00; confirm closures.",
+      "Children’s museum: timed sessions; advance booking recommended.",
+      "Check availability and transport before traveling."
+    ],
+    "launchOrder": 1029,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gwangju National Museum.jpg",
+      "author": "Leedkmn",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju_National_Museum.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 25 August 2013; resized and converted to WebP. Historical exterior does not establish current exhibits or opening."
+    },
+    "heroMediaId": "culture-gwangju-national-museum-photo",
+    "heroCaption": "Gwangju National Museum exterior in 2013; current exhibits and access may differ.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

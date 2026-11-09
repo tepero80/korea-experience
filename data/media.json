@@ -2106,5 +2106,25 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original decision diagram based on Incheon Airport guidance; not an official airport notice."
     }
+  },
+  {
+    "id": "culture-gwangju-national-museum-photo",
+    "src": "/images/editorial/culture-gwangju-national-museum-photo.webp",
+    "width": 1280,
+    "height": 853,
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gwangju_National_Museum.jpg",
+    "originalHash": "9b1ed586dbddc77e07c0a70e2f9b2724b94f9f27c69508b8c0bbdaaebdfe71cb",
+    "checkedAt": "2026-11-09",
+    "alt": "Gwangju National Museum exterior in 2013",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwangju National Museum.jpg",
+      "author": "Leedkmn",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju_National_Museum.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 25 August 2013; resized and converted to WebP. Historical exterior does not establish current exhibits or opening."
+    }
   }
 ]

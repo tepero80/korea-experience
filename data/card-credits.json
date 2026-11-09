@@ -1197,5 +1197,20 @@
       "note": "Original decision diagram based on Incheon Airport guidance; not an official airport notice."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "gwangju-national-museum-children-visit": {
+    "src": "/images/cards/gwangju-national-museum-children-visit.jpg",
+    "fingerprint": "8ac081396d4e1e0812efa7885defcf5b1ec61deb83d40a280fd8424353920c90",
+    "sourceImage": "/images/editorial/culture-gwangju-national-museum-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwangju National Museum.jpg",
+      "author": "Leedkmn",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju_National_Museum.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 25 August 2013; resized and converted to WebP. Historical exterior does not establish current exhibits or opening."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }
