@@ -7023,5 +7023,81 @@
     "heroCaption": "Gwangju National Museum exterior in 2013; current exhibits and access may differ.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "gwangju-airport-to-songjeong-station": {
+    "id": "transport-gwangju-airport-songjeong",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Walk about 500 metres outdoors to Airport Station, then take Line 1 toward Pyeongdong for Gwangju-Songjeong Station.",
+    "forWhom": "Travelers transferring from Gwangju Airport to an onward train",
+    "conditions": [
+      "The subway entrance is outside the terminal; allow time for luggage and weather.",
+      "Check service, accessibility and your onward train before travel."
+    ],
+    "regions": [
+      "gwangju"
+    ],
+    "stages": [
+      "arrival"
+    ],
+    "interests": [
+      "airport",
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "gwangju-national-museum-children-visit",
+        "type": "next",
+        "label": "Plan a Gwangju museum visit",
+        "reason": "Continue a family itinerary in Gwangju."
+      },
+      {
+        "slug": "ktx-seat-and-luggage-guide-for-international-travelers",
+        "type": "next",
+        "label": "Prepare for your rail journey",
+        "reason": "Check rail luggage and seating before boarding."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "gwangju-airport-transport",
+        "title": "Gwangju Airport accessibility and transport guide",
+        "url": "https://www.airport.co.kr/gwangju/cms/frCon/index.do?MENU_ID=250",
+        "checkedAt": "2026-11-09",
+        "note": "Outdoor walk to Airport Station and taxi stand; Korean."
+      },
+      {
+        "id": "gwangju-metro-route",
+        "title": "Gwangju Transportation Corporation Line 1 route",
+        "url": "https://www.grtc.co.kr/cybereng",
+        "checkedAt": "2026-11-09",
+        "note": "Station order and direction; verify live service."
+      }
+    ],
+    "shareFacts": [
+      "Airport Station is about 500 metres from the terminal.",
+      "Toward Pyeongdong, Gwangju-Songjeong is two stops away.",
+      "Check the service and allow time for the onward train."
+    ],
+    "launchOrder": 1030,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gwangju-metro-115-Airport-station-sign-20190521-141942.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju-metro-115-Airport-station-sign-20190521-141942.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 21 May 2019; cropped and converted to WebP. Historical station sign, not a current platform-direction indicator."
+    },
+    "heroMediaId": "transport-gwangju-airport-station-photo",
+    "heroCaption": "Airport Station sign in 2019; check the live platform signs for your direction.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

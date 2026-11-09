@@ -2126,5 +2126,25 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "note": "Photographed 25 August 2013; resized and converted to WebP. Historical exterior does not establish current exhibits or opening."
     }
+  },
+  {
+    "id": "transport-gwangju-airport-station-photo",
+    "src": "/images/editorial/transport-gwangju-airport-station-photo.webp",
+    "width": 1100,
+    "height": 620,
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gwangju-metro-115-Airport-station-sign-20190521-141942.jpg",
+    "originalHash": "4e87324faba8eb49fc06ddbc20b1d7ea5d4c125aff474509b903ed2bc5a5f3ed",
+    "checkedAt": "2026-11-09",
+    "alt": "Airport Station sign on Gwangju Metro Line 1 in 2019",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwangju-metro-115-Airport-station-sign-20190521-141942.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju-metro-115-Airport-station-sign-20190521-141942.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 21 May 2019; cropped and converted to WebP. Historical station sign, not a current platform-direction indicator."
+    }
   }
 ]

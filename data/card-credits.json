@@ -1212,5 +1212,20 @@
       "note": "Photographed 25 August 2013; resized and converted to WebP. Historical exterior does not establish current exhibits or opening."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gwangju-airport-to-songjeong-station": {
+    "src": "/images/cards/gwangju-airport-to-songjeong-station.jpg",
+    "fingerprint": "5f3d68e440e4586f1bd02e0c98bdfb739c77bfb98e9a45378335cb26d8efcd6f",
+    "sourceImage": "/images/editorial/transport-gwangju-airport-station-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwangju-metro-115-Airport-station-sign-20190521-141942.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju-metro-115-Airport-station-sign-20190521-141942.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 21 May 2019; cropped and converted to WebP. Historical station sign, not a current platform-direction indicator."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }
