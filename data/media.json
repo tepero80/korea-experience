@@ -1828,5 +1828,23 @@
     },
     "originalId": "https://commons.wikimedia.org/wiki/File:Gyeongju_Station_2025-03.jpg",
     "originalHash": "70250e949e19d457f4fd005956cdd95ddf79a7b2822aa45e870822a93ba5eda6"
+  },
+  {
+    "id": "transport-busan-gamcheon-access-photo",
+    "src": "/images/editorial/transport-busan-gamcheon-access-photo.webp",
+    "width": 1280,
+    "height": 746,
+    "alt": "Gamcheon Culture Village hillside view photographed April 2015",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gamcheon Culture Village View 1.jpg",
+      "author": "cezzie901",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gamcheon_Culture_Village_View_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "note": "Photographed 4 April 2015; resized and converted to WebP. Historical image, not evidence of current conditions."
+    },
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gamcheon_Culture_Village_View_1.jpg",
+    "originalHash": "91e85a9f48d3c240a6b9cc768e6c99ae061d8835915e64ed0e526248c5551cc7"
   }
 ]

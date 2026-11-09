@@ -5984,5 +5984,74 @@
     "gallery": [],
     "experienceVersion": 2,
     "heroCaption": "Gyeongju Station (KTX) in March 2025; confirm current transport stops."
+  },
+  "gamcheon-public-transport": {
+    "id": "transport-busan-gamcheon-access",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Take Busan Metro Line 1 to Toseong, then check a village bus to Gamjeong Elementary School and walk to Gamcheon Culture Village.",
+    "forWhom": "Busan visitors planning a car-free visit to Gamcheon Culture Village",
+    "conditions": [
+      "Routes, service times and boarding sides may change.",
+      "The village has sloped lanes and may not suit every mobility need."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around"
+    ],
+    "interests": [
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices",
+        "type": "next",
+        "label": "Explore more of Busan",
+        "reason": "Build a manageable car-free day after returning toward the city."
+      },
+      {
+        "slug": "where-to-stay-in-busan-neighborhoods",
+        "type": "prepare",
+        "label": "Choose your base",
+        "reason": "Compare Nampo, Seomyeon and Haeundae against the journeys you plan."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "visit-busan-gamcheon",
+        "title": "Visit Busan: Gamcheon Culture Village",
+        "url": "https://www.visitbusan.net/index.do?contentsSid=22&lang_cd=en&uc_seq=365",
+        "checkedAt": "2026-11-09",
+        "note": "Lists Toseong exit 6, Saha 1-1 / Seo-gu 2 / Seo-gu 2-2, Gamjeong Elementary School and a short walk; verify actual trip and return."
+      }
+    ],
+    "shareFacts": [
+      "Take Busan Metro Line 1 to Toseong, then check a village bus to Gamjeong Elementary School and walk to Gamcheon Culture Village.",
+      "Check current route and return before departure.",
+      "Save the exact destination in Korean."
+    ],
+    "launchOrder": 1015,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gamcheon Culture Village View 1.jpg",
+      "author": "cezzie901",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gamcheon_Culture_Village_View_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "note": "Photographed 4 April 2015; resized and converted to WebP. Historical image, not evidence of current conditions."
+    },
+    "heroMediaId": "transport-busan-gamcheon-access-photo",
+    "gallery": [],
+    "experienceVersion": 2,
+    "heroCaption": "Gamcheon hillside in April 2015; local conditions can change."
   }
 }
