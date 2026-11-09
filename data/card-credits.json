@@ -1152,5 +1152,20 @@
       "note": "Photographed at Seomun Market on 15 July 2014; resized and converted to WebP. A historical meal, not proof of present menus."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "incheon-separate-ticket-connections": {
+    "src": "/images/cards/incheon-separate-ticket-connections.jpg",
+    "fingerprint": "739f05dd42efbc23688458a4085367ecd7f34dbf33c8ceefa288dce12550d366",
+    "sourceImage": "/images/editorial/transport-incheon-separate-connections-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Incheon separate-ticket connection decisions",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-incheon-separate-connections-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original decision diagram; not an official airport map or entry authorization."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

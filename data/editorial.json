@@ -6750,5 +6750,79 @@
     "heroCaption": "Jajangmyeon with pork at Seomun Market in 2014; present menus may differ.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "incheon-separate-ticket-connections": {
+    "id": "transport-incheon-separate-connections",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Ask both airlines about baggage, the onward boarding pass and your specific transfer route; if you must enter Korea, check your entry eligibility.",
+    "forWhom": "Travelers connecting internationally at Incheon on separate bookings",
+    "conditions": [
+      "A boarding pass or through-checked bag alone does not guarantee an airside transfer.",
+      "Entry eligibility and airline protection depend on the actual itinerary."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "arrival"
+    ],
+    "interests": [
+      "airport",
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "next",
+        "label": "Plan onward airport transport",
+        "reason": "Compare ground transport if your itinerary includes a Seoul stop."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "incheon-transfer-guide",
+        "title": "Incheon Airport: transfer routes",
+        "url": "https://www.airport.kr/ap_en/1454/subview.do",
+        "checkedAt": "2026-11-09",
+        "note": "Choose the route for the actual terminals and airline instructions."
+      },
+      {
+        "id": "incheon-transfer-desk",
+        "title": "Incheon Airport: concourse transfer guide",
+        "url": "https://www.airport.kr/ap_en/1461/subview.do",
+        "checkedAt": "2026-11-09",
+        "note": "Boarding-pass services at transfer desks depend on airline."
+      },
+      {
+        "id": "korea-visa-portal",
+        "title": "Korea Visa Portal",
+        "url": "https://www.visa.go.kr/openPage.do?MENU_ID=10102",
+        "checkedAt": "2026-11-09",
+        "note": "Check entry requirements for individual circumstances."
+      }
+    ],
+    "shareFacts": [
+      "Ask both airlines about your bags and onward boarding pass.",
+      "Confirm your exact airside route or entry requirement.",
+      "Separate bookings do not automatically protect the onward flight."
+    ],
+    "launchOrder": 1026,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Incheon separate-ticket connection decisions",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-incheon-separate-connections-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original decision diagram; not an official airport map or entry authorization."
+    },
+    "heroMediaId": "transport-incheon-separate-connections-illustration",
+    "heroCaption": "Original planning diagram; confirm your specific route with the airlines.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }
