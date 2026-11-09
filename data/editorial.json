@@ -6887,5 +6887,71 @@
     "heroCaption": "National Science Museum exterior in 2019; current exhibits and access may differ.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "incheon-airport-lost-item-which-office": {
+    "id": "airport-incheon-lost-item",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Start with where you last had it: contact the airport lost-and-found office, airline, transport operator or customs as appropriate.",
+    "forWhom": "Travelers who left a personal item at or near Incheon Airport",
+    "conditions": [
+      "A duty-free area has different contacts for personal belongings and newly purchased goods.",
+      "Storage periods and collection conditions vary by item."
+    ],
+    "regions": [],
+    "stages": [
+      "arrival",
+      "departure"
+    ],
+    "interests": [
+      "airport",
+      "travel-essentials"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-missing-checked-bag",
+        "type": "alternative",
+        "label": "A checked suitcase did not arrive",
+        "reason": "A missing checked bag is handled by the airline."
+      },
+      {
+        "slug": "lost-foreign-bank-card-in-korea",
+        "type": "next",
+        "label": "Protect a missing bank card",
+        "reason": "Contact the issuer promptly while you search."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "incheon-lost-found",
+        "title": "Incheon Airport: lost and found",
+        "url": "https://www.airport.kr/ap_en/1549/subview.do",
+        "checkedAt": "2026-11-09",
+        "note": "Location-specific responsibilities, contacts, retention and collection."
+      }
+    ],
+    "shareFacts": [
+      "Terminal public area: contact airport lost and found.",
+      "Aircraft or transport: contact the airline or service operator.",
+      "Check item-specific storage and claim requirements promptly."
+    ],
+    "launchOrder": 1028,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Incheon lost property first contacts",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#airport-incheon-lost-item-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original decision diagram based on Incheon Airport guidance; not an official airport notice."
+    },
+    "heroMediaId": "airport-incheon-lost-item-illustration",
+    "heroCaption": "Original decision guide based on airport guidance; verify current contacts.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

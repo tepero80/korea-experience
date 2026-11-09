@@ -2086,5 +2086,25 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Photographed 9 June 2019; cropped, resized and converted to WebP. Historical exterior does not establish current exhibits or entry."
     }
+  },
+  {
+    "id": "airport-incheon-lost-item-illustration",
+    "src": "/images/editorial/airport-incheon-lost-item-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-airport-incheon-lost-item-illustration-v1",
+    "originalHash": "629b5cf421ac7b4b9c671fbe480c94ce2f67760c8c360404efc542ae5515b570",
+    "checkedAt": "2026-11-09",
+    "alt": "First contacts depend on whether an item was lost in the terminal, on transport, in a duty-free area or as checked baggage",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Incheon lost property first contacts",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#airport-incheon-lost-item-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original decision diagram based on Incheon Airport guidance; not an official airport notice."
+    }
   }
 ]

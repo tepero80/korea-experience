@@ -1182,5 +1182,20 @@
       "note": "Photographed 9 June 2019; cropped, resized and converted to WebP. Historical exterior does not establish current exhibits or entry."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "incheon-airport-lost-item-which-office": {
+    "src": "/images/cards/incheon-airport-lost-item-which-office.jpg",
+    "fingerprint": "cdd4fe1e2f05164051c41097a1959c7850d7873b251570b2e2222479c8be939f",
+    "sourceImage": "/images/editorial/airport-incheon-lost-item-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Incheon lost property first contacts",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#airport-incheon-lost-item-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original decision diagram based on Incheon Airport guidance; not an official airport notice."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }
