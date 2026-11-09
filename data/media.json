@@ -2206,5 +2206,25 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "note": "Photographed 26 December 2023; resized and converted to WebP. Historical station exterior, not a current service guarantee."
     }
+  },
+  {
+    "id": "essentials-lost-phone-korea-illustration",
+    "src": "/images/editorial/essentials-lost-phone-korea-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-essentials-lost-phone-korea-illustration-v1",
+    "originalHash": "805f0402c6088ece76510f13c93824015f4707a17cdfdda0e0600918cb3778a9",
+    "checkedAt": "2026-11-09",
+    "alt": "Contact the last known place, secure the device and accounts, and contact carrier and payment issuer",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Lost phone first steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-lost-phone-korea-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration; not a live device locator or official interface."
+    }
   }
 ]

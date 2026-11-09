@@ -7334,5 +7334,84 @@
     "heroCaption": "Chuncheon Station in 2023; verify current access and service.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "lost-phone-in-korea-first-steps": {
+    "id": "essentials-lost-phone-korea",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Move somewhere safe, contact the last known place and secure the device and accounts from a trusted device.",
+    "forWhom": "Travelers who have lost a phone while in Korea",
+    "conditions": [
+      "Device location and remote actions depend on settings and account access.",
+      "A map location is a clue, not proof that recovery is safe."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "safety",
+      "connectivity"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-airport-lost-item-which-office",
+        "type": "next",
+        "label": "Find the right airport lost-property office",
+        "reason": "The responsible contact depends on where the phone was lost."
+      },
+      {
+        "slug": "lost-foreign-bank-card-in-korea",
+        "type": "next",
+        "label": "Protect a missing payment card",
+        "reason": "Contact the issuer when payment access may be at risk."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "police-found-phone",
+        "title": "Korean National Police: found-phone search information",
+        "url": "https://minwon24.police.go.kr/cvlcpt/cvlcptGdInfo.do?cvlcptId=MW-203",
+        "checkedAt": "2026-11-09",
+        "note": "Search and holding organizations; Korean."
+      },
+      {
+        "id": "google-find-hub",
+        "title": "Google: find or secure an Android device",
+        "url": "https://support.google.com/android/answer/6160491?hl=en-ZZ",
+        "checkedAt": "2026-11-09",
+        "note": "Requirements and remote device actions."
+      },
+      {
+        "id": "apple-lost-mode",
+        "title": "Apple: mark a device as lost",
+        "url": "https://support.apple.com/en-euro/guide/iphone/iph7cc193cfc/ios",
+        "checkedAt": "2026-11-09",
+        "note": "Find My lost-mode guidance."
+      }
+    ],
+    "shareFacts": [
+      "Contact the last known venue or operator.",
+      "Secure the device and accounts from a trusted device.",
+      "Contact the carrier and payment issuer if needed."
+    ],
+    "launchOrder": 1034,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Lost phone first steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-lost-phone-korea-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration; not a live device locator or official interface."
+    },
+    "heroMediaId": "essentials-lost-phone-korea-illustration",
+    "heroCaption": "Original checklist; device recovery depends on its settings and connection.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

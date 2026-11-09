@@ -1272,5 +1272,20 @@
       "note": "Photographed 26 December 2023; resized and converted to WebP. Historical station exterior, not a current service guarantee."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "lost-phone-in-korea-first-steps": {
+    "src": "/images/cards/lost-phone-in-korea-first-steps.jpg",
+    "fingerprint": "745b92036238ddee1789744ae676f42c074b266d24e15b871e0e54a95c6af244",
+    "sourceImage": "/images/editorial/essentials-lost-phone-korea-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Lost phone first steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-lost-phone-korea-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration; not a live device locator or official interface."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }
