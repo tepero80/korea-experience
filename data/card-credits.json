@@ -1137,5 +1137,20 @@
       "note": "Original editorial illustration, not a bank, airline or airport interface."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "seomun-market-daytime-food-visit": {
+    "src": "/images/cards/seomun-market-daytime-food-visit.jpg",
+    "fingerprint": "49ea2b319d8769f35e70c4658aef26892dd588247243d956ba56cdc27c2bcd19",
+    "sourceImage": "/images/editorial/food-seomun-daytime-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jajangmyeon topped with Samgyeopsal.jpg",
+      "author": "Choi2451",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jajangmyeon_topped_with_Samgyeopsal.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed at Seomun Market on 15 July 2014; resized and converted to WebP. A historical meal, not proof of present menus."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

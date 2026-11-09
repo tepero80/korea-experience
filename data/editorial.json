@@ -6680,5 +6680,75 @@
     "heroCaption": "This is a planning sequence, not a service guarantee.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "seomun-market-daytime-food-visit": {
+    "id": "food-seomun-daytime",
+    "categoryId": "food-dining",
+    "format": "place",
+    "checkedAt": "2026-11-09",
+    "answer": "Visit the regular market during the day, then check each stall’s food, seating and payment before ordering.",
+    "forWhom": "Travelers planning a daytime food stop at Daegu’s Seomun Market",
+    "conditions": [
+      "Individual stalls and holiday arrangements may differ from general market hours.",
+      "Ask sellers directly about ingredients and cross-contact."
+    ],
+    "regions": [
+      "daegu"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "food",
+      "markets"
+    ],
+    "relations": [
+      {
+        "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+        "type": "prepare",
+        "label": "Learn useful ordering phrases",
+        "reason": "Use simple Korean phrases when confirming a meal and payment."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "daegu-seomun-city",
+        "title": "Daegu Tourism: Seomun Market",
+        "url": "https://tour.daegu.go.kr/index.do?menu_id=00002945&menu_link=%2Ffront%2Ftour%2FtourMapsView.do%3FtourId%3DKOATTR_229",
+        "checkedAt": "2026-11-09",
+        "note": "General market information; check individual vendors."
+      },
+      {
+        "id": "kto-seomun",
+        "title": "VISITKOREA: Seomun Market",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=87243",
+        "checkedAt": "2026-11-09",
+        "note": "Address, general hours and closure; individual stalls can vary."
+      }
+    ],
+    "shareFacts": [
+      "General market hours are 09:00–18:00; verify stalls.",
+      "First and third Sundays are listed as regular closures.",
+      "Ask each seller about food, seating and payment."
+    ],
+    "launchOrder": 1025,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jajangmyeon topped with Samgyeopsal.jpg",
+      "author": "Choi2451",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jajangmyeon_topped_with_Samgyeopsal.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed at Seomun Market on 15 July 2014; resized and converted to WebP. A historical meal, not proof of present menus."
+    },
+    "heroMediaId": "food-seomun-daytime-photo",
+    "heroCaption": "Jajangmyeon with pork at Seomun Market in 2014; present menus may differ.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }
