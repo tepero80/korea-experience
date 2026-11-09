@@ -7099,5 +7099,81 @@
     "heroCaption": "Airport Station sign in 2019; check the live platform signs for your direction.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "korea-hotel-booking-problem-steps": {
+    "id": "stay-korea-booking-problem",
+    "categoryId": "where-to-stay",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Check your confirmation and payment before paying again, then contact the property and booking platform through verified channels.",
+    "forWhom": "Travelers facing a missing reservation, unexpected charge or last-minute accommodation change",
+    "conditions": [
+      "Results depend on the actual booking terms and providers.",
+      "A complaint or mediation does not guarantee a refund."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "arrival"
+    ],
+    "interests": [
+      "accommodation",
+      "travel-essentials"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style",
+        "type": "alternative",
+        "label": "Compare Seoul neighborhoods",
+        "reason": "Choose a location if you need a replacement stay."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kca-booking",
+        "title": "Korea Consumer Agency: travel booking guidance",
+        "url": "https://www.kca.go.kr/webzine/board/view?div=kca_2307&linkId=571&menuId=MENU00306",
+        "checkedAt": "2026-11-09",
+        "note": "Check booking and payment status to avoid duplicates; Korean."
+      },
+      {
+        "id": "kca-accommodation",
+        "title": "Korea Consumer Agency: accommodation contract precautions",
+        "url": "https://www.kca.go.kr/webzine/board/view?div=kca_2607&linkId=1041&menuId=MENU00306",
+        "checkedAt": "2026-11-09",
+        "note": "Save booking terms and report discrepancies promptly; Korean."
+      },
+      {
+        "id": "kto-complaint",
+        "title": "Korea Tourism Organization: 1330 and complaint center",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632",
+        "checkedAt": "2026-11-09",
+        "note": "Official tourism complaint channels."
+      }
+    ],
+    "shareFacts": [
+      "Verify your confirmation before paying again.",
+      "Contact both the property and booking platform.",
+      "Keep the terms, receipts and written replies."
+    ],
+    "launchOrder": 1031,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Accommodation booking problem checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#stay-korea-booking-problem-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial checklist; not an official form or a guarantee of a refund."
+    },
+    "heroMediaId": "stay-korea-booking-problem-illustration",
+    "heroCaption": "Original checklist; outcomes depend on the actual booking and terms.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

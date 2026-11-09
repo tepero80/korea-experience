@@ -1227,5 +1227,20 @@
       "note": "Photographed 21 May 2019; cropped and converted to WebP. Historical station sign, not a current platform-direction indicator."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korea-hotel-booking-problem-steps": {
+    "src": "/images/cards/korea-hotel-booking-problem-steps.jpg",
+    "fingerprint": "8046f42641c8bab2c6659ae9c22913cfcbb62d3af7c41d480623f8bebf21094c",
+    "sourceImage": "/images/editorial/stay-korea-booking-problem-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Accommodation booking problem checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#stay-korea-booking-problem-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial checklist; not an official form or a guarantee of a refund."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }
