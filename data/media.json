@@ -1986,5 +1986,45 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "note": "Photographed 11 October 2022; resized and converted to WebP. Historical image does not establish present service or weather."
     }
+  },
+  {
+    "id": "essentials-lost-foreign-card-illustration",
+    "src": "/images/editorial/essentials-lost-foreign-card-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-essentials-lost-foreign-card-illustration-v1",
+    "originalHash": "1687481ca766bcc5de4c9c882d873f0457d78425f46847490d72c8db1815b5fd",
+    "checkedAt": "2026-11-09",
+    "alt": "SECURE CARD, REPORT CHARGES, ASK ABOUT OPTIONS",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Lost Your Foreign Bank Card in Korea? What to Do First steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-lost-foreign-card-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a bank, airline or airport interface."
+    }
+  },
+  {
+    "id": "transport-seoul-station-city-checkin-illustration",
+    "src": "/images/editorial/transport-seoul-station-city-checkin-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-transport-seoul-station-city-checkin-illustration-v1",
+    "originalHash": "07496acd896cf05251b2f2adf508412340fbc3cc10a3ba0c30e1390e4f13753f",
+    "checkedAt": "2026-11-09",
+    "alt": "CHECK ELIGIBILITY, CHECK BAG, TAKE EXPRESS",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Checking a Bag at Seoul Station Before an Incheon Flight steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-seoul-station-city-checkin-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a bank, airline or airport interface."
+    }
   }
 ]

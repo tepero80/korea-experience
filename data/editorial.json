@@ -6540,5 +6540,145 @@
     "heroCaption": "Seoraksan Cable Car in October 2022; current weather and operation can differ.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "lost-foreign-bank-card-in-korea": {
+    "id": "essentials-lost-foreign-card",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Contact your card issuer through its verified official channel as soon as you notice the card is missing; ask to lock or cancel it and report unrecognized transactions.",
+    "forWhom": "Travelers who lose a payment card in Korea",
+    "conditions": [
+      "Replacement and emergency cash depend on the issuer, location and card.",
+      "For immediate danger call 112; the travel helpline cannot cancel a card."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "payment",
+      "safety"
+    ],
+    "relations": [
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "next",
+        "label": "Get help with another problem",
+        "reason": "Find the right contact for other travel difficulties."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "visa-lost-card",
+        "title": "Visa: report a lost or stolen card",
+        "url": "https://usa.visa.com/support/consumer/lost-stolen-card.html",
+        "checkedAt": "2026-11-09",
+        "note": "Issuer coordination and potential replacement or emergency cash; conditions vary."
+      },
+      {
+        "id": "incheon-lost-property",
+        "title": "Incheon Airport: lost property",
+        "url": "https://www.airport.kr/ap_en/1549/subview.do",
+        "checkedAt": "2026-11-09",
+        "note": "Different contacts for airport, aircraft and transport losses."
+      },
+      {
+        "id": "kto-emergency",
+        "title": "VISITKOREA: emergency contacts",
+        "url": "https://english.visitkorea.or.kr/svc/faq/faqMainView.do?menuSn=404&page=1&pstSn=94",
+        "checkedAt": "2026-11-09",
+        "note": "Police and visitor helpline contact roles."
+      }
+    ],
+    "shareFacts": [
+      "Contact your issuer through its verified official channel.",
+      "Report unrecognized transactions.",
+      "Ask about replacement and emergency payment options."
+    ],
+    "launchOrder": 1023,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Lost Your Foreign Bank Card in Korea? What to Do First steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-lost-foreign-card-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a bank, airline or airport interface."
+    },
+    "heroMediaId": "essentials-lost-foreign-card-illustration",
+    "heroCaption": "Use an official issuer channel; never share a one-time code.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seoul-station-city-airport-checkin": {
+    "id": "transport-seoul-station-city-checkin",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Seoul Station city check-in is available only for eligible flights and passengers. Check your operating airline and express-train requirements first.",
+    "forWhom": "Incheon-bound travelers considering Seoul Station city check-in",
+    "conditions": [
+      "Korean Air rules are a specific example; other carriers may differ.",
+      "Check current cutoff, baggage restrictions and travel documents."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "getting-around"
+    ],
+    "interests": [
+      "airport",
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "next",
+        "label": "Compare airport transport",
+        "reason": "Choose the whole journey and fallback before departing Seoul."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "korean-air-city",
+        "title": "Korean Air: city airport check-in",
+        "url": "https://www.koreanair.com/contents/plan-your-travel/check-in/counter-check-in/city-airport",
+        "checkedAt": "2026-11-09",
+        "note": "Korean Air eligibility, express train and exclusions."
+      },
+      {
+        "id": "incheon-city-terminal",
+        "title": "Incheon Airport: city airport terminal services",
+        "url": "https://www.airport.kr/ap_en/1420/subview.do",
+        "checkedAt": "2026-11-09",
+        "note": "Seoul Station location and service; verify with the actual airline."
+      }
+    ],
+    "shareFacts": [
+      "Confirm operating carrier and eligibility first.",
+      "An eligible express train ticket is required for the Korean Air example.",
+      "If city check-in is unavailable, plan ordinary airport check-in."
+    ],
+    "launchOrder": 1024,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Checking a Bag at Seoul Station Before an Incheon Flight steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-seoul-station-city-checkin-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a bank, airline or airport interface."
+    },
+    "heroMediaId": "transport-seoul-station-city-checkin-illustration",
+    "heroCaption": "This is a planning sequence, not a service guarantee.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

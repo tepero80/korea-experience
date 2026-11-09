@@ -1107,5 +1107,35 @@
       "note": "Photographed 11 October 2022; resized and converted to WebP. Historical image does not establish present service or weather."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "lost-foreign-bank-card-in-korea": {
+    "src": "/images/cards/lost-foreign-bank-card-in-korea.jpg",
+    "fingerprint": "b70423e51bf6fe118ff47c5f984e262b037680b096a1a1db3e4b2ebb63725aff",
+    "sourceImage": "/images/editorial/essentials-lost-foreign-card-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Lost Your Foreign Bank Card in Korea? What to Do First steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-lost-foreign-card-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a bank, airline or airport interface."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "seoul-station-city-airport-checkin": {
+    "src": "/images/cards/seoul-station-city-airport-checkin.jpg",
+    "fingerprint": "134ac63de448185ef947719b65005101c06e7a7f165cd9922f5e5705c83dc145",
+    "sourceImage": "/images/editorial/transport-seoul-station-city-checkin-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Checking a Bag at Seoul Station Before an Incheon Flight steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-seoul-station-city-checkin-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a bank, airline or airport interface."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }
