@@ -6135,5 +6135,139 @@
     "gallery": [],
     "heroCaption": "Example input label: check your own charger before use.",
     "experienceVersion": 2
+  },
+  "korea-e-arrival-card-when-plans-change": {
+    "id": "plan-e-arrival-change",
+    "categoryId": "plan-your-trip",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Use the official Check and Edit service before immigration; a submitted card loses validity after 72 hours or after immigration inspection.",
+    "forWhom": "Travelers whose e-Arrival Card details or plans change",
+    "conditions": [
+      "Eligibility varies; check the official guidance for your circumstances.",
+      "The electronic card is separate from a visa or K-ETA."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "arrival"
+    ],
+    "interests": [
+      "planning",
+      "entry"
+    ],
+    "relations": [
+      {
+        "slug": "first-trip-to-korea-planning-guide",
+        "type": "next",
+        "label": "Plan your first trip",
+        "reason": "Connect entry preparations with the rest of your arrival plan."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "moj-arrival-guide",
+        "title": "Korea e-Arrival Card guide",
+        "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E",
+        "checkedAt": "2026-11-09",
+        "note": "Official filing, edit and validity rules."
+      },
+      {
+        "id": "moj-arrival-target",
+        "title": "Korea e-Arrival Card eligibility",
+        "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do?locale=E",
+        "checkedAt": "2026-11-09",
+        "note": "Check applicability for the individual traveler."
+      }
+    ],
+    "shareFacts": [
+      "Check eligibility before filing.",
+      "Use the official Check and Edit service before immigration.",
+      "A submission loses validity after 72 hours or after immigration inspection."
+    ],
+    "launchOrder": 1017,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Korea e-Arrival Card: What to Check If Your Plans Change planning steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#plan-e-arrival-change-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "An editorial summary, not a government form or entry authorization."
+    },
+    "heroMediaId": "plan-e-arrival-change-illustration",
+    "heroCaption": "An editorial summary, not a government form or entry authorization.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "odii-korea-audio-guide-planning": {
+    "id": "culture-odii-audio-guide",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Choose a destination, find a matching Odii story and language, and test playback before setting out.",
+    "forWhom": "Travelers who want cultural context while exploring Korea",
+    "conditions": [
+      "Audio and language availability vary by story and device.",
+      "A guide does not confirm current opening hours or entry."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "culture",
+      "apps"
+    ],
+    "relations": [
+      {
+        "slug": "choosing-korean-cultural-experiences-reservations-and-walk-in-options",
+        "type": "next",
+        "label": "Choose a cultural experience",
+        "reason": "Combine a story with an experience and confirm the venue’s entry rules."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-odii-apps",
+        "title": "Korea Tourism Organization: helpful apps and Odii",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=880&vcontsId=198570",
+        "checkedAt": "2026-11-09",
+        "note": "Official KTO description and app links."
+      },
+      {
+        "id": "odii-walking-courses",
+        "title": "Odii: walking tour courses",
+        "url": "https://odii.kr/smarttour_web/walking/index",
+        "checkedAt": "2026-11-09",
+        "note": "Course examples, displayed distances and points."
+      }
+    ],
+    "shareFacts": [
+      "Choose a place and an available language.",
+      "Test audio before starting.",
+      "Verify the venue and route separately."
+    ],
+    "launchOrder": 1018,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Odii: How to Find a Free Audio Guide for Your Korea Trip planning steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#culture-odii-audio-guide-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original planning illustration, not an Odii screen or a claim of tested playback."
+    },
+    "heroMediaId": "culture-odii-audio-guide-illustration",
+    "heroCaption": "Original planning illustration, not an Odii screen or a claim of tested playback.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

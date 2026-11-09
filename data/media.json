@@ -1866,5 +1866,45 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial illustration. The charger label is an example; check your own device and manufacturer instructions."
     }
+  },
+  {
+    "id": "plan-e-arrival-change-illustration",
+    "src": "/images/editorial/plan-e-arrival-change-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-plan-e-arrival-change-illustration-v1",
+    "originalHash": "ccc37c1a36c8ba7efff7ffb6f3039509228ecb342cbac73ea617a9f783f37d62",
+    "checkedAt": "2026-11-09",
+    "alt": "CHECK ELIGIBILITY, EDIT IF PLANS CHANGE, CONFIRM VALIDITY",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Korea e-Arrival Card: What to Check If Your Plans Change planning steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#plan-e-arrival-change-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "An editorial summary, not a government form or entry authorization."
+    }
+  },
+  {
+    "id": "culture-odii-audio-guide-illustration",
+    "src": "/images/editorial/culture-odii-audio-guide-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-culture-odii-audio-guide-illustration-v1",
+    "originalHash": "28d8d4d389daaa717a53895d22bf05bfc50cc21e46628dfbc97497e2df9325f2",
+    "checkedAt": "2026-11-09",
+    "alt": "CHOOSE A PLACE, FIND A STORY, TEST BEFORE YOU GO",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Odii: How to Find a Free Audio Guide for Your Korea Trip planning steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#culture-odii-audio-guide-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original planning illustration, not an Odii screen or a claim of tested playback."
+    }
   }
 ]

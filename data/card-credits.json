@@ -1017,5 +1017,35 @@
       "note": "Original editorial illustration. The charger label is an example; check your own device and manufacturer instructions."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "korea-e-arrival-card-when-plans-change": {
+    "src": "/images/cards/korea-e-arrival-card-when-plans-change.jpg",
+    "fingerprint": "a8e782e6c4ef0bec0a0eb32476fa74d03e066d6d43726429250a2d83271a9be2",
+    "sourceImage": "/images/editorial/plan-e-arrival-change-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Korea e-Arrival Card: What to Check If Your Plans Change planning steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#plan-e-arrival-change-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "An editorial summary, not a government form or entry authorization."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "odii-korea-audio-guide-planning": {
+    "src": "/images/cards/odii-korea-audio-guide-planning.jpg",
+    "fingerprint": "624701d5dc9f34cceba44e59e7963c58a7acb28c405058aedf7e74a974d0aa95",
+    "sourceImage": "/images/editorial/culture-odii-audio-guide-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Odii: How to Find a Free Audio Guide for Your Korea Trip planning steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#culture-odii-audio-guide-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original planning illustration, not an Odii screen or a claim of tested playback."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }
