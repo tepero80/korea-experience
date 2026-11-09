@@ -7256,5 +7256,83 @@
     "heroCaption": "Original planning illustration; consult current local forecasts and notices.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "seoul-to-chuncheon-train-choice": {
+    "id": "transport-seoul-chuncheon-choice",
+    "categoryId": "airports-transport",
+    "format": "comparison",
+    "checkedAt": "2026-11-09",
+    "answer": "Compare ITX-Cheongchun from Yongsan with the Gyeongchun Line from your actual starting station, then check your destination and return.",
+    "forWhom": "Travelers choosing a train for a Chuncheon day trip from Seoul",
+    "conditions": [
+      "ITX and metropolitan rail have different boarding and payment arrangements.",
+      "Check actual schedules, fares and availability for your date."
+    ],
+    "regions": [
+      "chuncheon"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "trains",
+      "day-trips"
+    ],
+    "relations": [
+      {
+        "slug": "ktx-seat-and-luggage-guide-for-international-travelers",
+        "type": "next",
+        "label": "Prepare for a Korean rail trip",
+        "reason": "Review general rail seating and luggage considerations."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "korail-gyeongchun",
+        "title": "Korail: metropolitan rail operations",
+        "url": "https://info.korail.com/info/contents.do?key=863",
+        "checkedAt": "2026-11-09",
+        "note": "Lists Gyeongchun Line and ITX-Cheongchun routes; Korean."
+      },
+      {
+        "id": "kto-korea-trains",
+        "title": "Korea Tourism Organization: train guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140656",
+        "checkedAt": "2026-11-09",
+        "note": "Train types and booking channels."
+      },
+      {
+        "id": "kto-nami-access",
+        "title": "Korea Tourism Organization: Gapyeong access",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=215120",
+        "checkedAt": "2026-11-09",
+        "note": "Gapyeong as the rail stop for Nami Island."
+      }
+    ],
+    "shareFacts": [
+      "ITX-Cheongchun runs between Yongsan and Chuncheon.",
+      "Compare the Gyeongchun Line from your own starting point.",
+      "Choose Gapyeong for Nami Island and check onward transport."
+    ],
+    "launchOrder": 1033,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "20231226 춘천역 전경.jpg",
+      "author": "YellowTurtle9",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231226_%EC%B6%98%EC%B2%9C%EC%97%AD_%EC%A0%84%EA%B2%BD.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 26 December 2023; resized and converted to WebP. Historical station exterior, not a current service guarantee."
+    },
+    "heroMediaId": "transport-chuncheon-station-photo",
+    "heroCaption": "Chuncheon Station in 2023; verify current access and service.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

@@ -2186,5 +2186,25 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original conceptual illustration; not a real coast, live forecast or safety map."
     }
+  },
+  {
+    "id": "transport-chuncheon-station-photo",
+    "src": "/images/editorial/transport-chuncheon-station-photo.webp",
+    "width": 1280,
+    "height": 1280,
+    "originalId": "https://commons.wikimedia.org/wiki/File:20231226_%EC%B6%98%EC%B2%9C%EC%97%AD_%EC%A0%84%EA%B2%BD.jpg",
+    "originalHash": "48b920cc7e3a6d4c2d54b862855b01b8282bcdb8a97795cd315944f16132f2c3",
+    "checkedAt": "2026-11-09",
+    "alt": "Chuncheon Station exterior in December 2023",
+    "focal": "50% 25%",
+    "credit": {
+      "kind": "photograph",
+      "title": "20231226 춘천역 전경.jpg",
+      "author": "YellowTurtle9",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231226_%EC%B6%98%EC%B2%9C%EC%97%AD_%EC%A0%84%EA%B2%BD.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 26 December 2023; resized and converted to WebP. Historical station exterior, not a current service guarantee."
+    }
   }
 ]

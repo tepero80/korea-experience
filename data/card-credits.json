@@ -1257,5 +1257,20 @@
       "note": "Original conceptual illustration; not a real coast, live forecast or safety map."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "seoul-to-chuncheon-train-choice": {
+    "src": "/images/cards/seoul-to-chuncheon-train-choice.jpg",
+    "fingerprint": "b2495b3cfb98666551fc7ba9d451ec754c68f65776e2aa5bfcfb11436872b84f",
+    "sourceImage": "/images/editorial/transport-chuncheon-station-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "20231226 춘천역 전경.jpg",
+      "author": "YellowTurtle9",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20231226_%EC%B6%98%EC%B2%9C%EC%97%AD_%EC%A0%84%EA%B2%BD.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 26 December 2023; resized and converted to WebP. Historical station exterior, not a current service guarantee."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }
