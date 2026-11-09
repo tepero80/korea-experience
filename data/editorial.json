@@ -7555,5 +7555,304 @@
     "heroCaption": "Museum exterior in 2015; current appearance and access may differ.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "bukhansan-uiryeong-winter-trail-check": {
+    "id": "places-bukhansan-uiryeong-winter",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Check the Uiryeong reservation rule, winter entry cutoff, trail closure and forecast before setting out.",
+    "forWhom": "Travelers planning a winter nature walk near Seoul",
+    "conditions": [
+      "A reservation does not guarantee the trail will remain open.",
+      "Weather and ice may make the route unsuitable even without a warning."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "nature",
+      "winter"
+    ],
+    "relations": [
+      {
+        "slug": "korea-snow-advisory-travel-plan",
+        "type": "alternative",
+        "label": "Plan around snow advisories",
+        "reason": "Check transport and weather alternatives for snowy days."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "knps-uiryeong",
+        "title": "Korea National Park Service: Uiryeong route information",
+        "url": "https://res.knps.or.kr/contents/T/serviceGuide.do?parkId=B14&prdDvcd=T&vrteId=TB141XXX01",
+        "checkedAt": "2026-11-09",
+        "note": "Posted reservation conditions, entrances and seasonal entry cutoff."
+      },
+      {
+        "id": "knps-reservations",
+        "title": "Korea National Park Service: trail reservations",
+        "url": "https://res.knps.or.kr/trail/searchTrailReservation.do",
+        "checkedAt": "2026-11-09",
+        "note": "Route selector; no date availability or booking tested."
+      },
+      {
+        "id": "kma-warning",
+        "title": "Korea Meteorological Administration: severe weather",
+        "url": "https://www.weather.go.kr/neng/forecast/warning.do",
+        "checkedAt": "2026-11-09",
+        "note": "Check region and current effective time."
+      }
+    ],
+    "shareFacts": [
+      "Check weekend and holiday reservation requirements.",
+      "The posted December–February entry cutoff is 15:00.",
+      "Check the specific trail and forecast before leaving."
+    ],
+    "launchOrder": 1037,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Uiryeong winter visit decision",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#places-bukhansan-uiryeong-winter-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual illustration, not a real landscape, navigation map or live safety assessment."
+    },
+    "heroMediaId": "places-bukhansan-uiryeong-winter-illustration",
+    "heroCaption": "Original planning illustration; not a trail map or live status.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "daegu-modern-history-museum-downtown-visit": {
+    "id": "culture-daegu-modern-history-museum",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-09",
+    "answer": "Visit this free indoor museum for Daegu’s modern history, then plan an onward stop from central Jungangno.",
+    "forWhom": "Travelers looking for a downtown Daegu history stop",
+    "conditions": [
+      "Check current closures and which exhibits are open.",
+      "Language assistance and access must be confirmed with the venue."
+    ],
+    "regions": [
+      "daegu"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "history",
+      "museums"
+    ],
+    "relations": [
+      {
+        "slug": "seomun-market-daytime-food-visit",
+        "type": "next",
+        "label": "Plan a Seomun Market food stop",
+        "reason": "Check the market hours and route before continuing your Daegu day."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "daegu-modern-visit",
+        "title": "Daegu Foundation for Culture and Arts: museum information",
+        "url": "https://www.dgfca.or.kr/page/126",
+        "checkedAt": "2026-11-09",
+        "note": "Current visitor information, exhibits and contact; Korean."
+      },
+      {
+        "id": "daegu-modern-access",
+        "title": "Daegu Foundation for Culture and Arts: directions",
+        "url": "https://dgfca.or.kr/map_list?html_cd=11",
+        "checkedAt": "2026-11-09",
+        "note": "Jungangno Station and parking information; Korean."
+      }
+    ],
+    "shareFacts": [
+      "Admission is free; check temporary closures.",
+      "The operator lists 09:00–18:00, with last entry at 17:30.",
+      "Jungangno Station Line 1 Exit 4 is a starting point."
+    ],
+    "launchOrder": 1038,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Daegu Modern History Museum.JPG",
+      "author": "hyolee2",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daegu_Modern_History_Museum.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Image metadata records 29 December 2015; cropped, resized and converted to WebP. Historical exterior does not establish current access."
+    },
+    "heroMediaId": "culture-daegu-modern-history-museum-photo",
+    "heroCaption": "Museum exterior in 2015; current access and surroundings may differ.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "mokpo-station-to-correct-ferry-terminal": {
+    "id": "transport-mokpo-ferry-terminal",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Check the terminal and boarding deadline on your specific ferry booking before choosing your route from Mokpo Station.",
+    "forWhom": "Travelers connecting from a train in Mokpo to a ferry",
+    "conditions": [
+      "Terminal assignment can change with vessel or operations.",
+      "No live sailing, bus, fare or connection has been verified."
+    ],
+    "regions": [
+      "mokpo"
+    ],
+    "stages": [
+      "arrival",
+      "exploring"
+    ],
+    "interests": [
+      "transport",
+      "ferry"
+    ],
+    "relations": [
+      {
+        "slug": "korea-coastal-winter-wave-safety",
+        "type": "alternative",
+        "label": "Check coastal weather",
+        "reason": "Weather may affect the ferry and your onward plans."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seaworld-mokpo-notice",
+        "title": "Seaworld Express Ferry: Mokpo terminal notices",
+        "url": "https://seaferry.co.kr/noticepage.php?noticegubn=1",
+        "checkedAt": "2026-11-09",
+        "note": "Operator lists different terminals and warns assignments can change; Korean."
+      },
+      {
+        "id": "kto-jeju-ferries",
+        "title": "Korea Tourism Organization: getting to Jeju",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=483&vcontsId=140669",
+        "checkedAt": "2026-11-09",
+        "note": "General ferry planning; verify the exact operator and route."
+      }
+    ],
+    "shareFacts": [
+      "Check your booking for the correct ferry terminal.",
+      "Ask the operator about identification and boarding deadlines.",
+      "Allow time for your actual train-to-terminal connection."
+    ],
+    "launchOrder": 1039,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Mokpo ferry terminal check",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-mokpo-ferry-terminal-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual diagram, not a geographic map or current sailing assignment."
+    },
+    "heroMediaId": "transport-mokpo-ferry-terminal-illustration",
+    "heroCaption": "Conceptual terminal check; verify your own operator’s current instructions.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "incheon-flight-electronic-cigarette-check": {
+    "id": "airport-incheon-vape-flight-check",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Incheon says electronic cigarettes are cabin-only; first check that your airline and every relevant destination or transit jurisdiction permit them.",
+    "forWhom": "Travelers departing Incheon with an electronic cigarette",
+    "conditions": [
+      "Airline and destination rules may be stricter than airport security guidance.",
+      "Device, spare batteries and liquids have different restrictions."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "departure"
+    ],
+    "interests": [
+      "airport",
+      "packing"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-power-bank-carry-on-rules",
+        "type": "next",
+        "label": "Check power-bank rules",
+        "reason": "Other rechargeable devices and spare batteries need separate checks."
+      },
+      {
+        "slug": "incheon-terminal-flight-check",
+        "type": "next",
+        "label": "Confirm your departure terminal",
+        "reason": "Check your own airline and flight before heading to Incheon."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "incheon-prohibited-items",
+        "title": "Incheon Airport: restricted items FAQ",
+        "url": "https://www.airport.kr/ap_en/1434/subview.do",
+        "checkedAt": "2026-11-09",
+        "note": "Electronic cigarettes, batteries and international liquids."
+      },
+      {
+        "id": "iata-batteries",
+        "title": "IATA: safe travel with lithium batteries",
+        "url": "https://www.iata.org/en/youandiata/travelers/batteries",
+        "checkedAt": "2026-11-09",
+        "note": "Airline variation and on-board use or charging."
+      },
+      {
+        "id": "sg-customs",
+        "title": "Singapore Customs: prohibited imports",
+        "url": "https://www.customs.gov.sg/doing-business/import-operations/import-procedures/controlled-and-prohibited-goods-for-imports/",
+        "checkedAt": "2026-11-09",
+        "note": "Example of destination import restrictions; transit needs separate confirmation."
+      }
+    ],
+    "shareFacts": [
+      "Check destination and transit laws and each airline.",
+      "Incheon says the device is cabin-only, not checked.",
+      "Check spare batteries and liquid screening separately."
+    ],
+    "launchOrder": 1040,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Electronic cigarette flight checks",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#airport-incheon-vape-flight-check-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial checklist, not an airline or customs authorization."
+    },
+    "heroMediaId": "airport-incheon-vape-flight-check-illustration",
+    "heroCaption": "Original checklist; rules vary by airline and destination.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

@@ -1317,5 +1317,65 @@
       "note": "Image metadata records 6 April 2015; cropped, resized and converted to WebP. Historical exterior does not establish current access."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "bukhansan-uiryeong-winter-trail-check": {
+    "src": "/images/cards/bukhansan-uiryeong-winter-trail-check.jpg",
+    "fingerprint": "eefe65d217cdcff99e0dd652ae5b16862b1fd37d4498b16707756346156acfe4",
+    "sourceImage": "/images/editorial/places-bukhansan-uiryeong-winter-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Uiryeong winter visit decision",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#places-bukhansan-uiryeong-winter-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual illustration, not a real landscape, navigation map or live safety assessment."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "daegu-modern-history-museum-downtown-visit": {
+    "src": "/images/cards/daegu-modern-history-museum-downtown-visit.jpg",
+    "fingerprint": "6030657fe5744c4d8b57a8315bcc5820e067f477e26526b85c933e582d05cb60",
+    "sourceImage": "/images/editorial/culture-daegu-modern-history-museum-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Daegu Modern History Museum.JPG",
+      "author": "hyolee2",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daegu_Modern_History_Museum.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Image metadata records 29 December 2015; cropped, resized and converted to WebP. Historical exterior does not establish current access."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "incheon-flight-electronic-cigarette-check": {
+    "src": "/images/cards/incheon-flight-electronic-cigarette-check.jpg",
+    "fingerprint": "9db553f3eb02911a13ee3240656ad1a2f2ca2e37dc19e498526c83ac84fb2290",
+    "sourceImage": "/images/editorial/airport-incheon-vape-flight-check-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Electronic cigarette flight checks",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#airport-incheon-vape-flight-check-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial checklist, not an airline or customs authorization."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "mokpo-station-to-correct-ferry-terminal": {
+    "src": "/images/cards/mokpo-station-to-correct-ferry-terminal.jpg",
+    "fingerprint": "575cc96706eaf1e4af998150222137ebc49b2b02bfb806c1996bc968954af7f8",
+    "sourceImage": "/images/editorial/transport-mokpo-ferry-terminal-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Mokpo ferry terminal check",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-mokpo-ferry-terminal-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual diagram, not a geographic map or current sailing assignment."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

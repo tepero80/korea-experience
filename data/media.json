@@ -2266,5 +2266,85 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Image metadata records 6 April 2015; cropped, resized and converted to WebP. Historical exterior does not establish current access."
     }
+  },
+  {
+    "id": "places-bukhansan-uiryeong-winter-illustration",
+    "src": "/images/editorial/places-bukhansan-uiryeong-winter-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-places-bukhansan-uiryeong-winter-illustration-v1",
+    "originalHash": "9e48a62013547151b91341ee95270a79293e88cc1bbdbfd79e5c778268d9ec84",
+    "checkedAt": "2026-11-09",
+    "alt": "Check Uiryeong reservation, trail conditions and a return from the other entrance",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Uiryeong winter visit decision",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#places-bukhansan-uiryeong-winter-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual illustration, not a real landscape, navigation map or live safety assessment."
+    }
+  },
+  {
+    "id": "culture-daegu-modern-history-museum-photo",
+    "src": "/images/editorial/culture-daegu-modern-history-museum-photo.webp",
+    "width": 1280,
+    "height": 686,
+    "originalId": "https://commons.wikimedia.org/wiki/File:Daegu_Modern_History_Museum.JPG",
+    "originalHash": "e938c2287e500745310267ff3f9a959678df48ff7cdf8626dfec9c7ade7ecacf",
+    "checkedAt": "2026-11-09",
+    "alt": "Daegu Modern History Museum exterior in 2015",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "photograph",
+      "title": "Daegu Modern History Museum.JPG",
+      "author": "hyolee2",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daegu_Modern_History_Museum.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Image metadata records 29 December 2015; cropped, resized and converted to WebP. Historical exterior does not establish current access."
+    }
+  },
+  {
+    "id": "transport-mokpo-ferry-terminal-illustration",
+    "src": "/images/editorial/transport-mokpo-ferry-terminal-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-transport-mokpo-ferry-terminal-illustration-v1",
+    "originalHash": "f1bacae34525e99074aab070294479c02ccf9c496f4d261f94239e6cf32c7ccd",
+    "checkedAt": "2026-11-09",
+    "alt": "Check whether the booking uses Mokpo Port International or Samhak Pier; other services may differ",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Mokpo ferry terminal check",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-mokpo-ferry-terminal-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual diagram, not a geographic map or current sailing assignment."
+    }
+  },
+  {
+    "id": "airport-incheon-vape-flight-check-illustration",
+    "src": "/images/editorial/airport-incheon-vape-flight-check-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-airport-incheon-vape-flight-check-illustration-v1",
+    "originalHash": "7e92c69e8e74dd204f25662182a760f1f08c9c6d0131d4693f7fe8919bdbbc8a",
+    "checkedAt": "2026-11-09",
+    "alt": "Check destination rules, device and batteries, liquid screening and gate-check instructions",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Electronic cigarette flight checks",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#airport-incheon-vape-flight-check-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial checklist, not an airline or customs authorization."
+    }
   }
 ]
