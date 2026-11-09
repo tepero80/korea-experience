@@ -7413,5 +7413,147 @@
     "heroCaption": "Original checklist; device recovery depends on its settings and connection.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "busan-bujeon-to-ulsan-taehwagang-trains": {
+    "id": "transport-bujeon-taehwagang",
+    "categoryId": "airports-transport",
+    "format": "comparison",
+    "checkedAt": "2026-11-09",
+    "answer": "Compare the Donghae metropolitan train and KTX-Eum from Bujeon to Taehwagang, then check each service and your return.",
+    "forWhom": "Travelers planning a Busan-to-Ulsan trip by train",
+    "conditions": [
+      "Ticket and boarding arrangements differ by service.",
+      "Taehwagang Station is not Ulsan Station; live departures and fares vary."
+    ],
+    "regions": [
+      "busan",
+      "ulsan"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "trains",
+      "day-trips"
+    ],
+    "relations": [
+      {
+        "slug": "gimhae-airport-to-busan",
+        "type": "next",
+        "label": "Plan arrival in Busan",
+        "reason": "Connect the airport to your Busan base before the rail trip."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "korail-donghae",
+        "title": "Korail metropolitan rail operations",
+        "url": "https://info.korail.com/info/contents.do?key=863",
+        "checkedAt": "2026-11-09",
+        "note": "Lists Donghae Line Bujeon–Taehwagang; historical statistics are not a live timetable."
+      },
+      {
+        "id": "korail-ktx-donghae",
+        "title": "Korail Donghae KTX-Eum announcement",
+        "url": "https://info.korail.com/info/selectBbsNttView.do?bbsNo=199&key=911&nttNo=25904",
+        "checkedAt": "2026-11-09",
+        "note": "Service announcement; confirm actual current trains."
+      },
+      {
+        "id": "kto-busan-ulsan",
+        "title": "Korea Tourism Organization: Busan and Ulsan",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1593337",
+        "checkedAt": "2026-11-09",
+        "note": "Describes regional train choices."
+      }
+    ],
+    "shareFacts": [
+      "Search Bujeon to Taehwagang for the intended date.",
+      "KTX-Eum and metropolitan rail use different ticketing.",
+      "Taehwagang and Ulsan Station are different stations."
+    ],
+    "launchOrder": 1035,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Bujeon to Taehwagang train choice",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-bujeon-taehwagang-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual comparison, not a track map or live service display."
+    },
+    "heroMediaId": "transport-bujeon-taehwagang-illustration",
+    "heroCaption": "Original comparison; check current departure and ticket conditions.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "suwon-hwaseong-museum-before-fortress": {
+    "id": "culture-suwon-hwaseong-museum",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-09",
+    "answer": "Visit Suwon Hwaseong Museum for the fortress story, then plan an outdoor section or palace visit around weather and opening hours.",
+    "forWhom": "Travelers planning a Suwon fortress day with an indoor stop",
+    "conditions": [
+      "The museum and fortress have separate hours and admission conditions.",
+      "Check current notices and the combined ticket before traveling."
+    ],
+    "regions": [
+      "suwon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "museums",
+      "history"
+    ],
+    "relations": [
+      {
+        "slug": "suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026",
+        "type": "next",
+        "label": "Continue to the fortress",
+        "reason": "Plan the outdoor part of the Suwon visit."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "suwon-hwaseong-visit",
+        "title": "Suwon Hwaseong Museum: visitor information",
+        "url": "https://smuseum.suwon.go.kr/hs/contents/view?contentsNo=129&menuLevel=3&menuNo=110",
+        "checkedAt": "2026-11-09",
+        "note": "City museum hours, ticket categories and combined ticket; Korean."
+      }
+    ],
+    "shareFacts": [
+      "Museum lists 09:00–18:00; ticket sales close at 17:00.",
+      "Check Monday and public-holiday closures.",
+      "Compare the city’s combined ticket with your planned sites."
+    ],
+    "launchOrder": 1036,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Suwon Hwaseong Museum.JPG",
+      "author": "hyolee2",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suwon_Hwaseong_Museum.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Image metadata records 6 April 2015; cropped, resized and converted to WebP. Historical exterior does not establish current access."
+    },
+    "heroMediaId": "culture-suwon-hwaseong-museum-photo",
+    "heroCaption": "Museum exterior in 2015; current appearance and access may differ.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

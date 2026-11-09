@@ -1287,5 +1287,35 @@
       "note": "Original editorial illustration; not a live device locator or official interface."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "busan-bujeon-to-ulsan-taehwagang-trains": {
+    "src": "/images/cards/busan-bujeon-to-ulsan-taehwagang-trains.jpg",
+    "fingerprint": "cb681c85f0debb7ba820566b60ee788480a6ada68613ca75fb8e702cfe998d42",
+    "sourceImage": "/images/editorial/transport-bujeon-taehwagang-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Bujeon to Taehwagang train choice",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-bujeon-taehwagang-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual comparison, not a track map or live service display."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "suwon-hwaseong-museum-before-fortress": {
+    "src": "/images/cards/suwon-hwaseong-museum-before-fortress.jpg",
+    "fingerprint": "2e8cabfc6d226bfaf3126ada6aabcfe83de9200fe9568e969b8db4963cf76916",
+    "sourceImage": "/images/editorial/culture-suwon-hwaseong-museum-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Suwon Hwaseong Museum.JPG",
+      "author": "hyolee2",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suwon_Hwaseong_Museum.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Image metadata records 6 April 2015; cropped, resized and converted to WebP. Historical exterior does not establish current access."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

@@ -2226,5 +2226,45 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original editorial illustration; not a live device locator or official interface."
     }
+  },
+  {
+    "id": "transport-bujeon-taehwagang-illustration",
+    "src": "/images/editorial/transport-bujeon-taehwagang-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-transport-bujeon-taehwagang-illustration-v1",
+    "originalHash": "b0a68d846d77a598a25b3d3be0353757baeeee6f8757a57cef8b76060b3741d3",
+    "checkedAt": "2026-11-09",
+    "alt": "Compare KTX-Eum ticket purchase with Donghae metropolitan rail payment from Bujeon to Taehwagang",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Bujeon to Taehwagang train choice",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-bujeon-taehwagang-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual comparison, not a track map or live service display."
+    }
+  },
+  {
+    "id": "culture-suwon-hwaseong-museum-photo",
+    "src": "/images/editorial/culture-suwon-hwaseong-museum-photo.webp",
+    "width": 1280,
+    "height": 539,
+    "originalId": "https://commons.wikimedia.org/wiki/File:Suwon_Hwaseong_Museum.JPG",
+    "originalHash": "da5455776ed5b145a4ecb441825b900f67df3b9b9c53f1a012cdc6679e0d34b2",
+    "checkedAt": "2026-11-09",
+    "alt": "Suwon Hwaseong Museum exterior in 2015",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "photograph",
+      "title": "Suwon Hwaseong Museum.JPG",
+      "author": "hyolee2",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suwon_Hwaseong_Museum.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Image metadata records 6 April 2015; cropped, resized and converted to WebP. Historical exterior does not establish current access."
+    }
   }
 ]
