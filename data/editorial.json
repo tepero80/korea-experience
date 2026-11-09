@@ -6053,5 +6053,87 @@
     "gallery": [],
     "experienceVersion": 2,
     "heroCaption": "Gamcheon hillside in April 2015; local conditions can change."
+  },
+  "korea-charger-voltage-plug": {
+    "id": "essentials-korea-charger-voltage",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Korea uses 220 V at 60 Hz; confirm your device input rating before plugging in, because a plug adapter does not necessarily convert voltage.",
+    "forWhom": "International travelers bringing chargers or personal electrical appliances",
+    "conditions": [
+      "A device’s marked input and manufacturer directions control compatibility.",
+      "A photograph of a socket cannot prove actual supply voltage, grounding or safety."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "electricity",
+      "packing"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-power-bank-carry-on-rules",
+        "type": "next",
+        "label": "Flying with a power bank",
+        "reason": "Check airline and airport battery rules separately from wall outlet compatibility."
+      },
+      {
+        "slug": "korea-winter-packing-checklist",
+        "type": "prepare",
+        "label": "Prepare your packing",
+        "reason": "List chargers and check rated devices before departure."
+      }
+    ],
+    "tools": [
+      "packing-checklist"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-power",
+        "title": "KTO: Electricity & Communications",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=375&vcontsId=140041",
+        "checkedAt": "2026-11-09",
+        "note": "Korea standard 220 V, 60 Hz; two round holes."
+      },
+      {
+        "id": "nist-instrument-manual",
+        "title": "NIST-hosted Fisherbrand FB50 manual",
+        "url": "https://www.nist.gov/system/files/documents/2022/04/05/Fisher%20FB50%20Manual%20Full%20Size%2009-20.pdf",
+        "checkedAt": "2026-11-09",
+        "note": "A manufacturer manual states universal plug adapters do not convert voltage or frequency; equipment-specific, do not generalize its converter ban."
+      },
+      {
+        "id": "philips-travel",
+        "title": "Philips: Traveling with grooming products",
+        "url": "https://www.usa.philips.com/c-f/XC000020630/can-i-travel-with-my-philips-grooming-or-beauty-product",
+        "checkedAt": "2026-11-09",
+        "note": "Check charger specifications and input compatibility; product-specific guidance."
+      }
+    ],
+    "shareFacts": [
+      "Check the device input rating for 220 V and 60 Hz.",
+      "A plug adapter changes physical fit; voltage conversion is a separate question.",
+      "Confirm high-power appliances with their manufacturer."
+    ],
+    "launchOrder": 1016,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Charger input check",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#charger-input-check-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration. The charger label is an example; check your own device and manufacturer instructions."
+    },
+    "heroMediaId": "charger-input-check-illustration",
+    "gallery": [],
+    "heroCaption": "Example input label: check your own charger before use.",
+    "experienceVersion": 2
   }
 }

@@ -1846,5 +1846,25 @@
     },
     "originalId": "https://commons.wikimedia.org/wiki/File:Gamcheon_Culture_Village_View_1.jpg",
     "originalHash": "91e85a9f48d3c240a6b9cc768e6c99ae061d8835915e64ed0e526248c5551cc7"
+  },
+  {
+    "id": "charger-input-check-illustration",
+    "src": "/images/editorial/charger-input-check-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-charger-input-check-v1",
+    "originalHash": "8c1caa5fdb6e94e35063a3f812c02bece98973c8b9567008e2d13e502bfc02ea",
+    "checkedAt": "2026-11-09",
+    "alt": "Diagram comparing an example charger input label with Korea’s 220 V and 60 Hz supply",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Charger input check",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#charger-input-check-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration. The charger label is an example; check your own device and manufacturer instructions."
+    }
   }
 ]

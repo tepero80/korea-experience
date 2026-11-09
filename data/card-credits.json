@@ -1002,5 +1002,20 @@
       "note": "Photographed 4 April 2015; resized and converted to WebP. Historical image, not evidence of current conditions."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korea-charger-voltage-plug": {
+    "src": "/images/cards/korea-charger-voltage-plug.jpg",
+    "fingerprint": "514a480407d8c0348c43e598f288e8d2f41ceff7d4e580dd5079a636d116ff14",
+    "sourceImage": "/images/editorial/charger-input-check-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Charger input check",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#charger-input-check-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration. The charger label is an example; check your own device and manufacturer instructions."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }
