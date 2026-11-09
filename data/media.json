@@ -2066,5 +2066,25 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original decision diagram; not an official airport map or entry authorization."
     }
+  },
+  {
+    "id": "places-daejeon-science-museum-photo",
+    "src": "/images/editorial/places-daejeon-science-museum-photo.webp",
+    "width": 1280,
+    "height": 1169,
+    "originalId": "https://commons.wikimedia.org/wiki/File:National_Science_Museum_2019.jpg",
+    "originalHash": "2df2f7b609ba8e2962bb1c73af77836b6adc45a3a7a38117c2e07fac8bd71d26",
+    "checkedAt": "2026-11-09",
+    "alt": "Exterior of the National Science Museum in Daejeon in 2019",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "photograph",
+      "title": "National Science Museum 2019.jpg",
+      "author": "Trainholic",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Science_Museum_2019.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 9 June 2019; cropped, resized and converted to WebP. Historical exterior does not establish current exhibits or entry."
+    }
   }
 ]

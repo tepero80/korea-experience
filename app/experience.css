@@ -440,6 +440,7 @@ button:disabled {
 }
 .photo-credit summary {
   cursor: pointer;
+  padding-block: 4px;
   text-decoration: underline;
   text-underline-offset: 3px;
 }

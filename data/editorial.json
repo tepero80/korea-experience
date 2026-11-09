@@ -6824,5 +6824,68 @@
     "heroCaption": "Original planning diagram; confirm your specific route with the airlines.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "daejeon-national-science-museum-family-visit": {
+    "id": "places-daejeon-science-family",
+    "categoryId": "places-itineraries",
+    "format": "place",
+    "checkedAt": "2026-11-09",
+    "answer": "Choose a hall first: some are free and others require a paid ticket and advance reservation. Check current sessions before visiting.",
+    "forWhom": "Families planning an indoor visit in Daejeon",
+    "conditions": [
+      "Hall reservations, fees and age or language conditions vary.",
+      "Moving between buildings may require going outdoors."
+    ],
+    "regions": [
+      "daejeon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "family",
+      "museums"
+    ],
+    "relations": [],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "nsm-visitor",
+        "title": "National Science Museum: visitor information",
+        "url": "https://www.science.go.kr/eps/cntnts/671/moveCntnts.do",
+        "checkedAt": "2026-11-09",
+        "note": "Hours and hall-specific paid and free admission."
+      },
+      {
+        "id": "nsm-directions",
+        "title": "National Science Museum: getting here",
+        "url": "https://www.science.go.kr/eps/cntnts/1172/moveCntnts.do",
+        "checkedAt": "2026-11-09",
+        "note": "Transport and directions; verify current service."
+      }
+    ],
+    "shareFacts": [
+      "General hours are 09:30–17:30; check closures.",
+      "Paid halls and some free halls require reservations.",
+      "Confirm the selected session and route before travel."
+    ],
+    "launchOrder": 1027,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "National Science Museum 2019.jpg",
+      "author": "Trainholic",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Science_Museum_2019.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 9 June 2019; cropped, resized and converted to WebP. Historical exterior does not establish current exhibits or entry."
+    },
+    "heroMediaId": "places-daejeon-science-museum-photo",
+    "heroCaption": "National Science Museum exterior in 2019; current exhibits and access may differ.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

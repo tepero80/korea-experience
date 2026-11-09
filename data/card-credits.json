@@ -1167,5 +1167,20 @@
       "note": "Original decision diagram; not an official airport map or entry authorization."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "daejeon-national-science-museum-family-visit": {
+    "src": "/images/cards/daejeon-national-science-museum-family-visit.jpg",
+    "fingerprint": "84572fcf9dadd1c946a2f6f40e5118dd26d94c3335e6ec441f3b014de69e3d8a",
+    "sourceImage": "/images/editorial/places-daejeon-science-museum-photo.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "National Science Museum 2019.jpg",
+      "author": "Trainholic",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Science_Museum_2019.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 9 June 2019; cropped, resized and converted to WebP. Historical exterior does not establish current exhibits or entry."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }
