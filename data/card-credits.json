@@ -1047,5 +1047,35 @@
       "note": "Original planning illustration, not an Odii screen or a claim of tested playback."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "seoul-group-transit-cards": {
+    "src": "/images/cards/seoul-group-transit-cards.jpg",
+    "fingerprint": "ca222db5f8453048cb5adfa7cf7025c39eb085443bff19aa95cf8beb1c9cb55a",
+    "sourceImage": "/images/editorial/transport-seoul-group-cards-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "One Transit Card per Person in Seoul: A Guide for Groups decision steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-seoul-group-cards-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial diagram; not an operator display or live status."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "incheon-winter-flight-disruption-checklist": {
+    "src": "/images/cards/incheon-winter-flight-disruption-checklist.jpg",
+    "fingerprint": "56e71ab3cefa39abb5f0ca20577dc099cd8e7d76a0e57f245275cc3faba000b5",
+    "sourceImage": "/images/editorial/transport-incheon-winter-flight-check-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Incheon Winter Flight Disruptions: What to Check Before Leaving decision steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-incheon-winter-flight-check-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial diagram; not an operator display or live status."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

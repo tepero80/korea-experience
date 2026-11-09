@@ -1906,5 +1906,45 @@
       "licenseUrl": "https://koreaexperience.com/terms",
       "note": "Original planning illustration, not an Odii screen or a claim of tested playback."
     }
+  },
+  {
+    "id": "transport-seoul-group-cards-illustration",
+    "src": "/images/editorial/transport-seoul-group-cards-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-transport-seoul-group-cards-illustration-v1",
+    "originalHash": "f660bd782d8dc3aba546d175020a82cb941425253a96245edddf8fa1a6780b57",
+    "checkedAt": "2026-11-09",
+    "alt": "Separate cards for mixed bus and subway; notify the driver when paying for a group on a bus.",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "One Transit Card per Person in Seoul: A Guide for Groups decision steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-seoul-group-cards-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial diagram; not an operator display or live status."
+    }
+  },
+  {
+    "id": "transport-incheon-winter-flight-check-illustration",
+    "src": "/images/editorial/transport-incheon-winter-flight-check-illustration.svg",
+    "width": 1200,
+    "height": 800,
+    "originalId": "korea-experience-editorial-transport-incheon-winter-flight-check-illustration-v1",
+    "originalHash": "d8d4eabb3105f58d7338c0cf21e66477c8df7eab6acfe0ea6b7f3808d06103a5",
+    "checkedAt": "2026-11-09",
+    "alt": "Check airline and airport flight status; then check deadlines, connections or cancellation options.",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "illustration",
+      "title": "Incheon Winter Flight Disruptions: What to Check Before Leaving decision steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-incheon-winter-flight-check-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial diagram; not an operator display or live status."
+    }
   }
 ]

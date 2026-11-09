@@ -6269,5 +6269,143 @@
     "heroCaption": "Original planning illustration, not an Odii screen or a claim of tested playback.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "seoul-group-transit-cards": {
+    "id": "transport-seoul-group-cards",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "For a mixed bus and subway trip, use a separate compatible card per person. Tell the bus driver before tapping if one card pays for a group.",
+    "forWhom": "Families and groups using Seoul buses and subway",
+    "conditions": [
+      "Group-payment transfer discounts have conditions and do not transfer to subway.",
+      "Check each card or pass for eligibility and balance."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around"
+    ],
+    "interests": [
+      "transport",
+      "family"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "next",
+        "label": "Plan your airport transfer",
+        "reason": "Choose how to reach Seoul before planning the local journey."
+      }
+    ],
+    "tools": [
+      "transit-pass"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-transfers",
+        "title": "Seoul: integrated transfer rules",
+        "url": "https://news.seoul.go.kr/traffic/transfer_discount?tr_code=sweb",
+        "checkedAt": "2026-11-09",
+        "note": "Official Korean-language conditions for group payments and transfers."
+      }
+    ],
+    "shareFacts": [
+      "Carry a separate compatible card per traveler for mixed subway and bus journeys.",
+      "For group bus payment, tell the driver before each boarding.",
+      "Group-payment subway transfer discounts do not apply."
+    ],
+    "launchOrder": 1019,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "One Transit Card per Person in Seoul: A Guide for Groups decision steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-seoul-group-cards-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial diagram; not an operator display or live status."
+    },
+    "heroMediaId": "transport-seoul-group-cards-illustration",
+    "heroCaption": "Original planning diagram; check current service and conditions.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "incheon-winter-flight-disruption-checklist": {
+    "id": "transport-incheon-winter-flight-check",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-09",
+    "answer": "Check your operating airline and Incheon’s flight information first; a weather forecast alone does not mean your flight is cancelled.",
+    "forWhom": "Travelers departing or connecting through Incheon in winter",
+    "conditions": [
+      "Flight status and transport can change separately.",
+      "Rights and assistance depend on applicable rules and the itinerary."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "arrival"
+    ],
+    "interests": [
+      "airport",
+      "winter"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-terminal-flight-check",
+        "type": "next",
+        "label": "Confirm your terminal",
+        "reason": "Check the operating airline and terminal before traveling to the airport."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "incheon-flight-search",
+        "title": "Incheon Airport departure flight search",
+        "url": "https://www.airport.kr/ap_en/1396/subview.do",
+        "checkedAt": "2026-11-09",
+        "note": "Official airport flight information."
+      },
+      {
+        "id": "incheon-departure",
+        "title": "Incheon Airport departure guide",
+        "url": "https://www.airport.kr/ap_en/1413/subview.do",
+        "checkedAt": "2026-11-09",
+        "note": "Airline terminal and departure guidance."
+      },
+      {
+        "id": "kma-weather",
+        "title": "Korea Meteorological Administration English site",
+        "url": "https://www.weather.go.kr/neng/index.do",
+        "checkedAt": "2026-11-09",
+        "note": "Weather information; not an airline flight status."
+      }
+    ],
+    "shareFacts": [
+      "Check the airline and airport flight status.",
+      "Confirm check-in deadlines and ground transport.",
+      "Ask about applicable rebooking, assistance and rights."
+    ],
+    "launchOrder": 1020,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Incheon Winter Flight Disruptions: What to Check Before Leaving decision steps",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#transport-incheon-winter-flight-check-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial diagram; not an operator display or live status."
+    },
+    "heroMediaId": "transport-incheon-winter-flight-check-illustration",
+    "heroCaption": "Original planning diagram; check current service and conditions.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }
