@@ -6,10 +6,14 @@ test("Traveler can use bukhansan-uiryeong-winter-trail-check", async ({page,cont
  await page.goto("/blog/bukhansan-uiryeong-winter-trail-check"); await page.evaluate(()=>document.fonts.ready);
  await expect(page.getByRole('heading',{level:1})).toHaveCount(1);
  await expect(page.getByRole('link',{name:"Uiryeong route information",exact:true})).toHaveAttribute('href',new RegExp("res\\.knps\\.or\\.kr"));
+ await expect(page.getByRole('link',{name:'U-i in Naver Map'})).toHaveAttribute('href',/map\.naver\.com/);
+ await expect(page.getByRole('link',{name:'Gyohyeon in Naver Map'})).toHaveAttribute('href',/map\.naver\.com/);
  await page.locator('main img').first().evaluate(async (img:HTMLImageElement)=>img.decode());
  await page.screenshot({path:info.outputPath('top.png')});
  await page.getByRole('heading',{name:"1. Check the exact trail and reserve if required",exact:true}).scrollIntoViewIfNeeded();
  await page.screenshot({path:info.outputPath('section.png')});
+ await page.getByRole('link',{name:'U-i in Naver Map'}).scrollIntoViewIfNeeded();
+ await page.screenshot({path:info.outputPath('maps.png')});
  for(const link of await page.locator('main a[href^="#"]').all()){const h=await link.getAttribute('href');if(h&&h.length>1)await expect(page.locator('[id="'+h.slice(1)+'"]')).toHaveCount(1);}
  await page.evaluate(()=>window.scrollTo(0,0));
  expect(await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth)).toBe(false);
