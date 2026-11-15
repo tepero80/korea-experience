@@ -1,6 +1,6 @@
 # Operating Korea Experience
 
-Actual status is in docs/roadmap/COMMERCIAL_REBUILD.md. The account observations there are dated snapshots, not a live API feed. Daily and weekly heartbeat IDs: korea-experience and korea-experience-2, attached to this chat, Asia/Seoul. Local runs require this computer and the app to be available. Never count a missed run as a successful check.
+Actual status is in docs/roadmap/COMMERCIAL_REBUILD.md. The account observations there are dated snapshots, not a live API feed. The daily local project automation is korea-experience-10; the weekly thread heartbeat is korea-experience-2, both scheduled in Asia/Seoul. The former daily heartbeat korea-experience is paused to prevent duplication. Local runs require this computer and the app to be available. Never count a missed run as a successful check.
 
 ## Lock and evidence
 
@@ -8,7 +8,7 @@ Before editing, check Git status and .private/maintenance.lock. Do not overwrite
 
 ## Daily 10:00 KST
 
-On 2026-11-15 the owner authorized scheduled publication of up to ten **new** guides daily, alongside this existing operational check. New articles must meet the same research, rights, distinct-hero, source, visual, four-viewport, accessibility, relationship, build, file-budget and real-deployment gates as requested batches. Report the published count and hold reasons; do not weaken quality to meet a number. Rewrites are counted separately. Use up to three gpt-6-luna medium agents for delegated research and production; the lead integrates and independently verifies. The owner requests gpt-6.1-terra medium for the lead, but the existing thread-linked heartbeat interface does not expose a model or reasoning setting; record that limitation instead of claiming it is enforced. Coordinate with the weekly job through the existing exclusive lock.
+On 2026-11-15 the owner authorized scheduled publication of up to ten **new** guides daily, alongside this existing operational check. New articles must meet the same research, rights, distinct-hero, source, visual, four-viewport, accessibility, relationship, build, file-budget and real-deployment gates as requested batches. Report the published count and hold reasons; do not weaken quality to meet a number. Rewrites are counted separately. Use up to three gpt-6-luna medium agents for delegated research and production; the lead integrates and independently verifies. At the owner's direction the daily automation was moved to a standalone local project task configured for gpt-6.1-terra medium. Coordinate with the weekly job through the existing exclusive lock.
 
 Traveler-quality release checks: read docs/roadmap/TRAVELER_EXPERIENCE_UPGRADE.md and the latest private acceptance/coverage record. Use the all-guide hero identity guard, compiled/rendered link checks and current source-link exception list. Do not restore withheld archive expert quotations merely because a JSX flag says verified. Newly changed guides require current source checks, useful media/process visuals and actual 320/390/768/1440 browser/screenshots before publication. A passing type/build check alone is insufficient. Scheduled maintenance must respect an active upgrade lock and never overwrite an unfinished branch.
 

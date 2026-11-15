@@ -14,6 +14,13 @@ const guides = [
   'korea-ice-festival-opening-check',
 ];
 
+const expectedThird: Record<string, string> = {
+  'busan-modern-contemporary-history-museum-visit': 'seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices',
+  'busan-museum-un-memorial-cemetery-respectful-half-day': 'seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices',
+  'seoul-museum-of-craft-art-visitor-guide': 'unhyeongung-anguk-traditional-house-visit',
+  'bukchon-village-library-visitor-guide': 'unhyeongung-anguk-traditional-house-visit',
+};
+
 for (const slug of guides) test(`${slug}: rendered travel guide`, async ({ page, context }, info) => {
   await context.grantPermissions(['clipboard-read', 'clipboard-write']);
   await page.route('**/api/**', route => route.fulfill({ status: 401, json: {} }));
@@ -21,6 +28,9 @@ for (const slug of guides) test(`${slug}: rendered travel guide`, async ({ page,
   expect(response?.status()).toBe(200);
   await page.evaluate(() => document.fonts.ready);
   await expect(page.getByRole('heading', { level: 1 })).toHaveCount(1);
+  if (expectedThird[slug]) {
+    await expect(page.getByRole('link', { name: /Plan your Busan journey|Explore another Anguk stop/i })).toHaveAttribute('href', `/blog/${expectedThird[slug]}`);
+  }
   const hero = page.locator('main img').first();
   await hero.evaluate(async (img: HTMLImageElement) => img.decode());
   await page.screenshot({ path: info.outputPath('top.png') });

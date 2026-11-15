@@ -8267,6 +8267,12 @@
         "type": "prepare",
         "label": "Plan the rest of a rainy day",
         "reason": "Use one compact cluster and account for exposed walks; a residential library is not a café or all-weather route guarantee."
+      },
+      {
+        "slug": "unhyeongung-anguk-traditional-house-visit",
+        "type": "nearby",
+        "label": "Explore another Anguk stop",
+        "reason": "Check Unhyeongung opening conditions and a current map route before combining nearby Jongno stops."
       }
     ],
     "tools": [],
@@ -8352,6 +8358,12 @@
         "type": "prepare",
         "label": "Plan your Busan base",
         "reason": "Compare the hotel area with the location of this central Jung-gu museum and the rest of your route."
+      },
+      {
+        "slug": "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices",
+        "type": "prepare",
+        "label": "Plan your Busan journey",
+        "reason": "Compare the train, neighborhood base and route before fitting this museum into a Busan trip."
       }
     ],
     "tools": [],
@@ -8436,6 +8448,12 @@
         "type": "prepare",
         "label": "Check your Busan base",
         "reason": "A stay near a convenient transit line can make a Daeyeon visit easier to fit into your wider trip."
+      },
+      {
+        "slug": "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices",
+        "type": "prepare",
+        "label": "Plan your Busan journey",
+        "reason": "Compare the train, neighborhood base and route before fitting this museum into a Busan trip."
       }
     ],
     "tools": [],
@@ -8536,6 +8554,12 @@
         "type": "prepare",
         "label": "Build a rainy-day plan",
         "reason": "Choose one Anguk/Jongno cluster and check the outdoor approaches instead of assuming every connection is sheltered."
+      },
+      {
+        "slug": "unhyeongung-anguk-traditional-house-visit",
+        "type": "nearby",
+        "label": "Explore another Anguk stop",
+        "reason": "Check Unhyeongung opening conditions and a current map route before combining nearby Jongno stops."
       }
     ],
     "tools": [],
