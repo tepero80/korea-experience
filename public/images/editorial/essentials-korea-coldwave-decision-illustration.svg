@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Cold-wave travel decision</title>
+  <desc id="desc">Check the current regional alert, shorten exposed outdoor time, plan a warm indoor break, and seek emergency help if someone is in danger.</desc>
+  <rect width="1200" height="800" rx="40" fill="#eaf4f5"/>
+  <circle cx="1010" cy="135" r="76" fill="#f7cf82"/>
+  <path d="M0 570c175-75 306 44 487-7s340-50 713 20v217H0z" fill="#d4e7e8"/>
+  <text x="70" y="92" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="3" fill="#27646b">WINTER TRAVEL CHECK</text>
+  <text x="70" y="158" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#183b43">Cold-wave day?</text>
+  <text x="70" y="204" font-family="Arial,sans-serif" font-size="25" fill="#345a60">Make a flexible plan before heading out.</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="70" y="265" width="300" height="198" rx="24" fill="#fff"/>
+    <circle cx="112" cy="311" r="24" fill="#286b75"/><text x="104" y="320" font-size="25" font-weight="700" fill="#fff">1</text>
+    <text x="95" y="367" font-size="25" font-weight="700" fill="#183b43">Check the alert</text>
+    <text x="95" y="405" font-size="20" fill="#45646a">Region + valid time</text>
+    <path d="M385 364h54m-14-14 14 14-14 14" stroke="#32727a" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="455" y="265" width="300" height="198" rx="24" fill="#fff"/>
+    <circle cx="497" cy="311" r="24" fill="#286b75"/><text x="489" y="320" font-size="25" font-weight="700" fill="#fff">2</text>
+    <text x="480" y="367" font-size="25" font-weight="700" fill="#183b43">Shorten outside time</text>
+    <text x="480" y="405" font-size="20" fill="#45646a">Choose fewer stops</text>
+    <path d="M770 364h54m-14-14 14 14-14 14" stroke="#32727a" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="840" y="265" width="290" height="198" rx="24" fill="#fff"/>
+    <circle cx="882" cy="311" r="24" fill="#286b75"/><text x="874" y="320" font-size="25" font-weight="700" fill="#fff">3</text>
+    <text x="865" y="367" font-size="25" font-weight="700" fill="#183b43">Plan a warm break</text>
+    <text x="865" y="405" font-size="20" fill="#45646a">Keep a route back</text>
+    <rect x="70" y="518" width="1060" height="180" rx="28" fill="#183b43"/>
+    <path d="M120 584h80l28 27-28 27h-80z" fill="#f7cf82"/>
+    <text x="265" y="582" font-size="25" font-weight="700" fill="#fff">If someone is in immediate danger</text>
+    <text x="265" y="635" font-size="32" font-weight="700" fill="#f7cf82">Call 119 for emergency help</text>
+    <text x="70" y="752" font-size="17" fill="#4b6970">Editorial illustration • not a live alert or medical assessment</text>
+  </g>
+</svg>

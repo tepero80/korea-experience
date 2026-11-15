@@ -1377,5 +1377,151 @@
       "note": "Original editorial checklist, not an airline or customs authorization."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "korea-cold-wave-travel-day-plan": {
+    "src": "/images/cards/korea-cold-wave-travel-day-plan.jpg",
+    "fingerprint": "5dea614fa1f58ee3d13f8b1028367cf5c0164fada2736639fa8e22e6f239efa1",
+    "sourceImage": "/images/editorial/essentials-korea-coldwave-decision-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Cold-wave travel decision diagram",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-korea-coldwave-decision-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original vector illustration; not a live weather alert, map or medical assessment."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "walking-on-icy-sidewalks-in-korea": {
+    "src": "/images/cards/walking-on-icy-sidewalks-in-korea.jpg",
+    "fingerprint": "76f4919572e986c33f045cfcf0141820935f019593bb6b11896045aa5d33757a",
+    "sourceImage": "/images/editorial/essentials-korea-icy-sidewalk-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Icy sidewalk walking checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-korea-icy-sidewalk-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual vector illustration; not a photograph, real street or verified accessible route."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "korean-packaged-food-allergy-labels": {
+    "src": "/images/cards/korean-packaged-food-allergy-labels.jpg",
+    "fingerprint": "c5c96df933328f5ccd2ee1bfaf412f1349e078a84d2b3fd1e808207e50d21db1",
+    "sourceImage": "/images/editorial/food-korea-packaged-allergen-label-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Korean packaged-food label reading diagram",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#food-korea-packaged-allergen-label-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original illustrative diagram; not an actual product package or safety certification."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "korea-ice-festival-opening-check": {
+    "src": "/images/cards/korea-ice-festival-opening-check.jpg",
+    "fingerprint": "f7e483c60ef70dd55f28eb95b23cdc54a9bd79c3338c11d8e52ee8e374ef6042",
+    "sourceImage": "/images/editorial/culture-korea-ice-festival-opening-check.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Ice festival opening checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#culture-korea-ice-festival-opening-check",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial decision diagram; not a live status board, ice-thickness reading or festival photograph."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "bukchon-village-library-visitor-guide": {
+    "src": "/images/cards/bukchon-village-library-visitor-guide.jpg",
+    "fingerprint": "84cb6ecc25836e7a92c7871c2db6aa938e8639e98c2f9b3e873f3f06a5d1b0f7",
+    "sourceImage": "/images/editorial/bukchon-village-library-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Illustration: a reading nook inspired by hanok forms",
+      "author": "Korea Experience Editorial",
+      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original in-repository vector illustration; not an actual view of the library; no third-party image assets used."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "busan-modern-contemporary-history-museum-visit": {
+    "src": "/images/cards/busan-modern-contemporary-history-museum-visit.jpg",
+    "fingerprint": "4572d74ac6c4c9f135734fbaec045282e5871471644bec10ed260b6d17da60ed",
+    "sourceImage": "/images/editorial/busan-modern-history-museum-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Illustration: museum gallery and archival vault motif",
+      "author": "Korea Experience Editorial",
+      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Created in-repository as an original vector illustration. Not an actual facility depiction; no third-party image assets used."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "busan-museum-un-memorial-cemetery-respectful-half-day": {
+    "src": "/images/cards/busan-museum-un-memorial-cemetery-respectful-half-day.jpg",
+    "fingerprint": "fc5c02ed3c91869ec456fe84d3b18677bae97a11f895903619739a02e8033312",
+    "sourceImage": "/images/editorial/busan-museum-unmck-half-day-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Illustration: archive gallery and memorial path",
+      "author": "Korea Experience Editorial",
+      "license": "Original illustration; Korea Experience publication rights; no third-party site imagery",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original vector split-scene. It does not depict either actual Busan venue; no third-party image assets used."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "seoul-museum-of-craft-art-visitor-guide": {
+    "src": "/images/cards/seoul-museum-of-craft-art-visitor-guide.jpg",
+    "fingerprint": "ac0116b0c6ac20e3cf6d90ac01c6744b121c3081e1bd3e3d729f9915f65e256f",
+    "sourceImage": "/images/editorial/seoul-museum-craft-art-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Illustration: craft materials on a studio table",
+      "author": "Korea Experience Editorial",
+      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original in-repository vector still life. Not a photograph or depiction of the actual museum; no third-party image assets used."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "jeju-winter-ferry-checklist-udo-gapa-marado": {
+    "src": "/images/cards/jeju-winter-ferry-checklist-udo-gapa-marado.jpg",
+    "fingerprint": "9deeeccba6aa2d46acd6ee84f2b6cdc9bbe423729c9e69e2d39fb0036d612cb7",
+    "sourceImage": "/images/editorial/jeju-winter-ferry-status-check-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Jeju winter ferry status checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#jeju-winter-ferry-status-check-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a route map, actual ferry or live sailing status."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "seoul-snow-transit-topis-checklist": {
+    "src": "/images/cards/seoul-snow-transit-topis-checklist.jpg",
+    "fingerprint": "4b33d6a1d0b70c9d6a88e50076bc64952797bd556a6360018f410ec3b60ada4f",
+    "sourceImage": "/images/editorial/seoul-snow-transit-check-sequence.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "How to check Seoul transit during snow",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#seoul-snow-transit-check-sequence",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial vector diagram created in-repository; no external assets. Illustrative only, not a geographic or live transit map."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

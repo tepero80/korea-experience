@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Illustration: a small reading nook in a traditional Korean house</title>
+  <desc id="desc">An original editorial illustration of a low bookshelf, paper pages and a hanok-inspired window. It is not a photograph or depiction of Bukchon Village Library.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d8e2d8"/><stop offset="1" stop-color="#f2e7d5"/></linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#9b7757"/><stop offset="1" stop-color="#735640"/></linearGradient>
+    <filter id="shadow" x="-.2" y="-.2" width="1.4" height="1.4"><feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#374a40" flood-opacity=".16"/></filter>
+    <pattern id="lattice" width="70" height="70" patternUnits="userSpaceOnUse"><path d="M0 0 70 70M70 0 0 70M35 0v70M0 35h70" fill="none" stroke="#6a7868" stroke-width="5" opacity=".65"/></pattern>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <path d="M0 710 1600 655v345H0Z" fill="url(#floor)"/>
+  <path d="M0 764 1600 710M0 858 1600 806M0 952 1600 900" stroke="#c29c70" stroke-width="4" opacity=".35"/>
+  <g filter="url(#shadow)">
+    <rect x="205" y="175" width="520" height="405" rx="8" fill="#f6f0e3" stroke="#75634e" stroke-width="16"/>
+    <rect x="235" y="205" width="460" height="345" fill="#c6d5c8"/>
+    <rect x="235" y="205" width="460" height="345" fill="url(#lattice)"/>
+    <path d="M205 178 458 100l267 78" fill="none" stroke="#52695e" stroke-width="25" stroke-linejoin="round"/>
+    <rect x="300" y="600" width="1000" height="185" rx="10" fill="#6d5642"/>
+    <rect x="327" y="624" width="945" height="116" rx="4" fill="#ead9bd"/>
+    <path d="M350 646h215v17H350zM350 677h215v17H350zM590 646h215v17H590zM590 677h215v17H590zM830 646h190v17H830zM830 677h190v17H830z" fill="#7b6a53"/>
+    <rect x="1050" y="565" width="145" height="168" rx="5" fill="#b97550" transform="rotate(6 1050 565)"/>
+    <rect x="1072" y="582" width="145" height="168" rx="5" fill="#f7f1e4" transform="rotate(-5 1072 582)"/>
+    <path d="m1095 625 90-8M1097 652l90-8M1099 679l66-6" stroke="#718477" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <g fill="#334c42" font-family="Georgia,serif">
+    <text x="172" y="104" font-size="24" letter-spacing="5">BUKCHON · A QUIET INDOOR PAUSE</text>
+    <text x="172" y="864" font-size="55">Read softly. Leave gently.</text>
+    <text x="174" y="912" font-family="Arial,sans-serif" font-size="19" letter-spacing="2">EDITORIAL ILLUSTRATION · NOT A PHOTOGRAPH OF THE LIBRARY</text>
+  </g>
+</svg>

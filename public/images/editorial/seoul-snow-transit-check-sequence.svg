@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">How to check Seoul transit during snow</title>
+  <desc id="desc">Original illustration showing three checks for a Seoul snow day: view current TOPIS incidents and controls, check the city's response stage without assuming a specific train, and confirm the route and return. Not a live map or service feed.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8f1f3"/><stop offset="1" stop-color="#f7f4ed"/></linearGradient>
+    <linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#214a56"/><stop offset="1" stop-color="#2f6970"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="14" stdDeviation="15" flood-color="#173a43" flood-opacity=".13"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="42" fill="url(#bg)"/>
+  <path d="M0 570 120 511l109 37 125-112 128 74 117-99 132 74 106-83 120 54 143-74v418H0z" fill="#d6e1df"/>
+  <path d="M0 654 128 598l116 39 117-93 119 63 117-81 132 67 116-71 130 52 125-60v286H0z" fill="#c5d6d2"/>
+  <path d="M74 586h1054" stroke="#f8fbf8" stroke-width="22" stroke-linecap="round"/>
+  <path d="M74 586h1054" stroke="#64858a" stroke-width="3" stroke-dasharray="14 14"/>
+  <g fill="#fdfefe" opacity=".94"><circle cx="108" cy="174" r="5"/><circle cx="249" cy="213" r="4"/><circle cx="378" cy="164" r="5"/><circle cx="880" cy="196" r="4"/><circle cx="1057" cy="150" r="5"/><circle cx="1003" cy="282" r="4"/></g>
+  <text x="72" y="82" fill="#315660" font-family="Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="3">SEOUL · SNOW DAY TRANSIT</text>
+  <text x="72" y="141" fill="#183c48" font-family="Arial, sans-serif" font-size="40" font-weight="700">Check the trip, not just the forecast</text>
+  <g filter="url(#shadow)" font-family="Arial, sans-serif">
+    <rect x="72" y="201" width="330" height="302" rx="28" fill="#fff"/>
+    <rect x="435" y="201" width="330" height="302" rx="28" fill="#fff"/>
+    <rect x="798" y="201" width="330" height="302" rx="28" fill="#fff"/>
+    <circle cx="120" cy="251" r="27" fill="#e89a55"/><text x="112" y="260" fill="#fff" font-size="24" font-weight="700">1</text>
+    <text x="163" y="259" fill="#183c48" font-size="22" font-weight="700">Check TOPIS</text>
+    <rect x="108" y="294" width="258" height="111" rx="18" fill="#e8f2f0"/>
+    <rect x="126" y="312" width="92" height="30" rx="9" fill="#fff"/><text x="140" y="333" fill="#315660" font-size="14" font-weight="700">통제</text>
+    <rect x="230" y="312" width="116" height="30" rx="9" fill="#fff"/><text x="242" y="333" fill="#315660" font-size="14" font-weight="700">버스 · 지하철</text>
+    <path d="M128 370h218" stroke="#9db5b2" stroke-width="5" stroke-linecap="round"/>
+    <text x="108" y="452" fill="#596f72" font-size="16">Look for route-specific notices.</text>
+
+    <circle cx="483" cy="251" r="27" fill="#46828a"/><text x="475" y="260" fill="#fff" font-size="24" font-weight="700">2</text>
+    <text x="526" y="259" fill="#183c48" font-size="22" font-weight="700">Read the stage</text>
+    <rect x="471" y="299" width="258" height="58" rx="15" fill="#eef3ee"/>
+    <text x="490" y="335" fill="#315660" font-size="17" font-weight="700">Stage 2 · +30 min*</text>
+    <rect x="471" y="369" width="258" height="58" rx="15" fill="#e3efed"/>
+    <text x="490" y="405" fill="#315660" font-size="17" font-weight="700">Stage 3 · +60 min*</text>
+    <text x="471" y="460" fill="#596f72" font-size="15">*Peak-dispatch period, city plan.</text>
+
+    <circle cx="846" cy="251" r="27" fill="#183c48"/><text x="838" y="260" fill="#fff" font-size="24" font-weight="700">3</text>
+    <text x="889" y="259" fill="#183c48" font-size="22" font-weight="700">Confirm both legs</text>
+    <path d="M850 332h225" stroke="#8aa9a7" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="857" cy="332" r="15" fill="#e89a55"/><circle cx="1069" cy="332" r="15" fill="#46828a"/>
+    <rect x="846" y="364" width="85" height="37" rx="11" fill="#edf2ef"/><text x="862" y="389" fill="#315660" font-size="15" font-weight="700">OUT</text>
+    <rect x="979" y="364" width="85" height="37" rx="11" fill="#edf2ef"/><text x="992" y="389" fill="#315660" font-size="15" font-weight="700">RETURN</text>
+    <text x="846" y="452" fill="#596f72" font-size="16">Check the stop and journey back.</text>
+  </g>
+  <g font-family="Arial, sans-serif" fill="#315660">
+    <rect x="274" y="552" width="172" height="68" rx="21" fill="#fff"/>
+    <rect x="514" y="552" width="172" height="68" rx="21" fill="url(#tile)"/>
+    <rect x="754" y="552" width="172" height="68" rx="21" fill="#fff"/>
+    <text x="302" y="594" font-size="18" font-weight="700">Current notice</text>
+    <text x="549" y="594" fill="#fff" font-size="18" font-weight="700">Your route</text>
+    <text x="782" y="594" font-size="18" font-weight="700">Safe fallback</text>
+  </g>
+  <text x="72" y="716" fill="#61777a" font-family="Arial, sans-serif" font-size="16">Original editorial diagram · Not a map, live status or a promise of a specific departure</text>
+</svg>

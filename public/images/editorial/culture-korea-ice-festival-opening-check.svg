@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Check whether an ice festival is open today</title>
+  <desc id="desc">Check the date and year, confirm the specific activity, review tickets and transport, and contact the official organizer if details are unclear.</desc>
+  <rect width="1200" height="800" rx="40" fill="#eaf4f5"/>
+  <circle cx="1030" cy="120" r="57" fill="#f7cf82"/>
+  <path d="M0 570q200-74 390 0t390 0 420 0v230H0z" fill="#d3e6e8"/>
+  <text x="70" y="88" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="3" fill="#286b75">BEFORE THE WINTER DAY TRIP</text>
+  <text x="70" y="151" font-family="Arial,sans-serif" font-size="46" font-weight="700" fill="#183b43">Is the ice festival open today?</text>
+  <text x="70" y="194" font-family="Arial,sans-serif" font-size="22" fill="#45646a">A season listing cannot confirm today's ice or activity status.</text>
+  <g font-family="Arial,sans-serif">
+    <rect x="70" y="252" width="500" height="115" rx="22" fill="#fff"/>
+    <circle cx="122" cy="309" r="27" fill="#286b75"/><text x="113" y="318" font-size="25" font-weight="700" fill="#fff">1</text>
+    <text x="170" y="300" font-size="25" font-weight="700" fill="#183b43">Check today's date and year</text>
+    <text x="170" y="337" font-size="19" fill="#5b7478">Use the organizer's current notice</text>
+    <rect x="630" y="252" width="500" height="115" rx="22" fill="#fff"/>
+    <circle cx="682" cy="309" r="27" fill="#286b75"/><text x="673" y="318" font-size="25" font-weight="700" fill="#fff">2</text>
+    <text x="730" y="300" font-size="25" font-weight="700" fill="#183b43">Confirm your activity</text>
+    <text x="730" y="337" font-size="19" fill="#5b7478">Ice access can change by condition</text>
+    <rect x="70" y="402" width="500" height="115" rx="22" fill="#fff"/>
+    <circle cx="122" cy="459" r="27" fill="#286b75"/><text x="113" y="468" font-size="25" font-weight="700" fill="#fff">3</text>
+    <text x="170" y="450" font-size="25" font-weight="700" fill="#183b43">Review ticket conditions</text>
+    <text x="170" y="487" font-size="19" fill="#5b7478">Booking, cancellation and refund terms</text>
+    <rect x="630" y="402" width="500" height="115" rx="22" fill="#fff"/>
+    <circle cx="682" cy="459" r="27" fill="#286b75"/><text x="673" y="468" font-size="25" font-weight="700" fill="#fff">4</text>
+    <text x="730" y="450" font-size="25" font-weight="700" fill="#183b43">Recheck the journey</text>
+    <text x="730" y="487" font-size="19" fill="#5b7478">Shuttle, return and indoor backup</text>
+    <rect x="70" y="560" width="1060" height="120" rx="24" fill="#183b43"/>
+    <path d="M122 598l26-14 26 14v36q-14 21-26 28-12-7-26-28z" fill="#f7cf82"/>
+    <path d="M137 615l9 9 16-19" stroke="#183b43" stroke-width="5" fill="none"/>
+    <text x="210" y="611" font-size="26" font-weight="700" fill="#fff">Unclear status?</text>
+    <text x="210" y="649" font-size="21" fill="#d7e7e8">Ask the organizer. Never enter closed ice.</text>
+    <text x="70" y="744" font-size="17" fill="#4b6970">Editorial decision diagram • not a live status board or ice-safety reading</text>
+  </g>
+</svg>

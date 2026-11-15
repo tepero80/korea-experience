@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Illustration: craft materials arranged on a studio table</title>
+  <desc id="desc">An original editorial still life of paper, thread, a ceramic vessel and a carved wood block. This is not a photograph or depiction of the Seoul Museum of Craft Art.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f1e6d6"/><stop offset="1" stop-color="#d5e1dc"/></linearGradient>
+    <linearGradient id="table" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a77d58"/><stop offset="1" stop-color="#73553f"/></linearGradient>
+    <pattern id="paper" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M0 6h28M0 19h28" stroke="#9e8c72" stroke-opacity=".15" stroke-width="2"/></pattern>
+    <filter id="shadow" x="-.2" y="-.2" width="1.4" height="1.4"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#3a4941" flood-opacity=".18"/></filter>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <path d="M0 700 1600 620v380H0Z" fill="url(#table)"/>
+  <path d="M0 747 1600 670M0 826 1600 750M0 916 1600 835" stroke="#d3ad7e" stroke-width="4" opacity=".25"/>
+  <g filter="url(#shadow)">
+    <path d="M230 234 638 191l62 367-407 48Z" fill="#fbf6e9"/>
+    <path d="m230 234 408-43 62 367-407 48Z" fill="url(#paper)"/>
+    <path d="m289 301 266-28M302 370l269-28M315 439l270-28" stroke="#688278" stroke-width="10" stroke-linecap="round" opacity=".85"/>
+    <path d="M805 240c107 0 178 75 178 176s-71 176-178 176-178-75-178-176 71-176 178-176Z" fill="#b97851"/>
+    <path d="M726 309q79-84 158 0t-1 180q-78 80-156 0" fill="none" stroke="#e5bf8d" stroke-width="16"/>
+    <path d="M725 309q80 86 158 0M727 489q78-84 156 0" fill="none" stroke="#85543e" stroke-width="9"/>
+    <ellipse cx="805" cy="239" rx="80" ry="27" fill="#e8c799"/>
+    <ellipse cx="805" cy="238" rx="51" ry="14" fill="#526b60"/>
+    <rect x="1046" y="288" width="300" height="222" rx="14" fill="#62776a" transform="rotate(-6 1046 288)"/>
+    <path d="m1080 322 244-26M1087 365l244-26M1094 408l244-26M1101 451l244-26" stroke="#c7af83" stroke-width="8" opacity=".9"/>
+    <circle cx="1184" cy="568" r="75" fill="none" stroke="#dfc18a" stroke-width="18"/>
+    <circle cx="1184" cy="568" r="43" fill="none" stroke="#dfc18a" stroke-width="9"/>
+    <path d="m1090 643 192-18" stroke="#e8d8bb" stroke-width="5" opacity=".7"/>
+  </g>
+  <g fill="#334b43" font-family="Georgia,serif">
+    <text x="172" y="108" font-size="24" letter-spacing="5">ANGUK · CRAFT &amp; CULTURE</text>
+    <text x="172" y="884" font-size="55">Look closely. Make time.</text>
+    <text x="174" y="930" font-family="Arial,sans-serif" font-size="20" letter-spacing="2">EDITORIAL ILLUSTRATION · NOT A PHOTOGRAPH OF THE MUSEUM</text>
+  </g>
+</svg>

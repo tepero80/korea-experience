@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Winter sidewalk walking checklist</title>
+  <desc id="desc">Wear stable shoes, keep hands free, put the phone away while walking, and choose a level alternative to icy slopes.</desc>
+  <rect width="1200" height="800" rx="40" fill="#edf5f5"/>
+  <text x="70" y="92" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="3" fill="#286b75">A PRACTICAL WINTER WALK</text>
+  <text x="70" y="158" font-family="Arial,sans-serif" font-size="46" font-weight="700" fill="#183b43">Slow down. Keep hands free.</text>
+  <rect x="70" y="225" width="465" height="470" rx="28" fill="#d4e7e8"/>
+  <path d="M70 562c134-45 277-35 465-87v220H70z" fill="#b8d3d5"/>
+  <path d="M112 556h375" stroke="#fff" stroke-width="18" stroke-linecap="round"/>
+  <path d="M130 521l25-16 23 11 17-18 24 12-11 21h-77zM334 505l25-16 23 11 17-18 24 12-11 21h-77z" fill="#a6cbd0"/>
+  <g stroke="#183b43" stroke-width="13" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <circle cx="302" cy="325" r="39" fill="#f7cf82" stroke="none"/>
+    <path d="M301 370l-18 95m18-91 48 62 52 10m-119 18-48 57m67-57 47 62m-46-97-45 10"/>
+  </g>
+  <path d="M207 590l33-8m117 8 34-8" stroke="#286b75" stroke-width="13" stroke-linecap="round"/>
+  <g font-family="Arial,sans-serif">
+    <rect x="580" y="225" width="550" height="100" rx="20" fill="#fff"/>
+    <circle cx="632" cy="275" r="24" fill="#286b75"/><path d="M621 275l8 8 15-17" stroke="#fff" stroke-width="5" fill="none"/>
+    <text x="677" y="285" font-size="25" font-weight="700" fill="#183b43">Stable shoes with useful tread</text>
+    <rect x="580" y="350" width="550" height="100" rx="20" fill="#fff"/>
+    <circle cx="632" cy="400" r="24" fill="#286b75"/><path d="M621 400l8 8 15-17" stroke="#fff" stroke-width="5" fill="none"/>
+    <text x="677" y="410" font-size="25" font-weight="700" fill="#183b43">Hands free; phone away</text>
+    <rect x="580" y="475" width="550" height="100" rx="20" fill="#fff"/>
+    <circle cx="632" cy="525" r="24" fill="#286b75"/><path d="M621 525l8 8 15-17" stroke="#fff" stroke-width="5" fill="none"/>
+    <text x="677" y="535" font-size="25" font-weight="700" fill="#183b43">Short steps; avoid shaded ice</text>
+    <rect x="580" y="600" width="550" height="95" rx="20" fill="#183b43"/>
+    <text x="620" y="657" font-size="25" font-weight="700" fill="#f7cf82">Choose a level route when possible</text>
+    <text x="70" y="752" font-size="17" fill="#4b6970">Editorial illustration • not a real street or verified accessible route</text>
+  </g>
+</svg>

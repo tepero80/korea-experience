@@ -7875,5 +7875,903 @@
     "heroCaption": "Original checklist; rules vary by airline and destination.",
     "gallery": [],
     "experienceVersion": 2
+  },
+  "korea-cold-wave-travel-day-plan": {
+    "id": "essentials-kma-coldwave-plan",
+    "categoryId": "travel-essentials",
+    "format": "seasonal",
+    "checkedAt": "2026-11-15",
+    "answer": "Check the KMA alert for your actual area and time, shorten exposed outdoor plans when needed, and keep a warm indoor stop and safe return route.",
+    "forWhom": "International visitors deciding what to do during a Korea cold-wave alert",
+    "conditions": [
+      "The KMA warning page and forecast change; this guide is not a live alert.",
+      "The safety guidance is general preparedness, not diagnosis or individualized medical advice.",
+      "Current venue opening and transit must be confirmed with the operator."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring",
+      "getting-around"
+    ],
+    "interests": [
+      "winter",
+      "weather",
+      "safety"
+    ],
+    "relations": [
+      {
+        "slug": "korea-snow-advisory-travel-plan",
+        "type": "next",
+        "label": "Check a snow advisory",
+        "reason": "The separate checklist explains snow-alert area and transport checks if snowfall also affects the itinerary."
+      },
+      {
+        "slug": "korea-winter-packing-checklist",
+        "type": "prepare",
+        "label": "Pack for winter days",
+        "reason": "Prepare clothing and small essentials before the cold-weather day."
+      },
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "next",
+        "label": "Know who to call",
+        "reason": "Find emergency and visitor-information contacts before leaving."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kma-coldwave-action-ko",
+        "title": "Korea Meteorological Administration: Cold-wave action guidance",
+        "url": "https://www.weather.go.kr/w/hazard/safety-guide/coldwave.do",
+        "checkedAt": "2026-11-15",
+        "note": "Official advice includes checking weather, limiting prolonged outdoor activity, taking warm breaks, wearing protection, using public transport where possible, notifying someone of plans, and emergency warning signs."
+      },
+      {
+        "id": "kma-severe-alerts-en",
+        "title": "Korea Meteorological Administration: Current severe-weather status",
+        "url": "https://www.weather.go.kr/neng/forecast/warning.do",
+        "checkedAt": "2026-11-15",
+        "note": "Use the current page for actual regional alerts; this editorial guide does not reproduce a live status."
+      },
+      {
+        "id": "visitkorea-emergency-services",
+        "title": "VISITKOREA: Emergency Situations",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140042",
+        "checkedAt": "2026-11-15",
+        "note": "Official tourist information lists emergency services and the 1330 Korea Travel Hotline."
+      }
+    ],
+    "shareFacts": [
+      "Check the current alert for your exact region and valid time.",
+      "Shorten outdoor blocks and plan a warm indoor break.",
+      "Call 119 for immediate emergency medical or rescue help."
+    ],
+    "launchOrder": 1101,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Cold-wave travel decision diagram",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-korea-coldwave-decision-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original vector illustration; not a live weather alert, map or medical assessment."
+    },
+    "heroMediaId": "essentials-korea-coldwave-decision-illustration",
+    "heroCaption": "An editorial cold-weather decision checklist, not a live alert or medical assessment.",
+    "experienceVersion": 2
+  },
+  "walking-on-icy-sidewalks-in-korea": {
+    "id": "essentials-korea-icy-sidewalk-walking",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-15",
+    "answer": "Use stable shoes with traction, keep both hands available, walk without looking at your phone, and take a level alternative when pavement or slopes are icy.",
+    "forWhom": "Visitors walking between stops during icy winter conditions in Korean cities",
+    "conditions": [
+      "Surface conditions vary block by block; this guide does not verify any route's present safety or accessibility.",
+      "A shoe or walking recommendation cannot guarantee fall prevention.",
+      "Follow local signs, barriers and staff instructions."
+    ],
+    "regions": [],
+    "stages": [
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "winter",
+      "walking",
+      "safety",
+      "accessibility"
+    ],
+    "relations": [
+      {
+        "slug": "korea-winter-packing-checklist",
+        "type": "prepare",
+        "label": "Choose winter footwear",
+        "reason": "Prepare clothing and footwear before traveling; this guide explains decisions on an icy walking surface."
+      },
+      {
+        "slug": "korea-cold-wave-travel-day-plan",
+        "type": "alternative",
+        "label": "Change a cold-weather day",
+        "reason": "Use the broader cold-wave plan if low temperatures make a long walking itinerary uncomfortable."
+      },
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "next",
+        "label": "Get emergency help",
+        "reason": "Know the emergency number and visitor help options before walking."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kma-coldwave-ice-walking-ko",
+        "title": "Korea Meteorological Administration: Cold-wave action guidance",
+        "url": "https://www.weather.go.kr/w/hazard/safety-guide/coldwave.do",
+        "checkedAt": "2026-11-15",
+        "note": "Official pedestrian recommendations include shorter strides, non-slip shoes, avoiding shaded places and sharp turns, keeping hands out of pockets and not looking at a phone while walking."
+      },
+      {
+        "id": "mois-winter-safety-ko",
+        "title": "Ministry of the Interior and Safety: Winter safety guidance",
+        "url": "https://www.korea.kr/news/customizedNewsView.do?newsId=148937358",
+        "checkedAt": "2026-11-15",
+        "note": "Official policy guidance describes avoiding icy sections, using short steps and non-slip shoes, keeping hands out of pockets and not using a phone while walking."
+      },
+      {
+        "id": "visitkorea-winter-climate",
+        "title": "VISITKOREA: Climate and Seasons",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140636",
+        "checkedAt": "2026-11-15",
+        "note": "Tourism organization seasonal advice recommends non-slip shoes for snow; it does not certify a specific street or accessible path."
+      }
+    ],
+    "shareFacts": [
+      "Keep hands free and put the phone away while walking.",
+      "Shorten your stride and avoid shaded ice and steep slopes.",
+      "Choose another route if the path is unsafe or blocked."
+    ],
+    "launchOrder": 1102,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Icy sidewalk walking checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-korea-icy-sidewalk-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original conceptual vector illustration; not a photograph, real street or verified accessible route."
+    },
+    "heroMediaId": "essentials-korea-icy-sidewalk-illustration",
+    "heroCaption": "General winter walking guidance; the illustration is not a real or verified route.",
+    "experienceVersion": 2
+  },
+  "korean-packaged-food-allergy-labels": {
+    "id": "food-korea-packaged-allergen-label",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-15",
+    "answer": "For packaged food subject to Korea's labeling rules, read the Korean ingredient list, separate allergen statement and any shared-process warning; do not guess when a label is unclear.",
+    "forWhom": "Travelers with a food allergy checking packaged snacks or meals in Korea",
+    "conditions": [
+      "The article covers packaged labels and does not establish safety for restaurant meals or shared kitchen equipment.",
+      "The listed allergen categories are not every possible personal trigger.",
+      "A label is not a medical recommendation or safety certification for a particular person."
+    ],
+    "regions": [],
+    "stages": [
+      "arrival",
+      "exploring"
+    ],
+    "interests": [
+      "food",
+      "allergies",
+      "convenience-stores",
+      "dietary-needs"
+    ],
+    "relations": [
+      {
+        "slug": "navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact",
+        "type": "next",
+        "label": "Ask about a restaurant meal",
+        "reason": "Restaurant ordering and cross-contact are separate from reading a packaged product label."
+      },
+      {
+        "slug": "gluten-free-guide-to-korean-food-what-to-eat-and-avoid-2026",
+        "type": "interest",
+        "label": "Plan gluten-free dining",
+        "reason": "Use the focused guide for gluten-related travel planning and dining questions."
+      },
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "prepare",
+        "label": "Save emergency contacts",
+        "reason": "Know how to contact emergency services before eating away from home."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "mfds-food-labeling-allergens-en",
+        "title": "Ministry of Food and Drug Safety: Food Labeling System",
+        "url": "https://www.mfds.go.kr/eng/wpge/m_14/contents.do",
+        "checkedAt": "2026-11-15",
+        "note": "Official English source describes covered allergen ingredients, separate label display and shared-manufacturing-process warnings. Check the current product packaging."
+      },
+      {
+        "id": "mfds-foodsafetykorea-allergen-ko",
+        "title": "Food Safety Korea: How to check allergen labeling",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs001&menu_grp=MENU_NEW01&menu_no=3120&ntctxt_no=1091412",
+        "checkedAt": "2026-11-15",
+        "note": "MFDS consumer education describes ingredient and allergen statements on packaged food and displays for menu or online ordering. Do not infer that packaged-product labeling proves restaurant cross-contact safety."
+      }
+    ],
+    "shareFacts": [
+      "Check 원재료명 (ingredients) and 알레르기 유발물질 (allergen statement).",
+      "Read any shared-process warning on the actual package.",
+      "If a relevant label is unclear, do not guess or treat silence as a guarantee."
+    ],
+    "launchOrder": 1103,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Korean packaged-food label reading diagram",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#food-korea-packaged-allergen-label-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original illustrative diagram; not an actual product package or safety certification."
+    },
+    "heroMediaId": "food-korea-packaged-allergen-label-illustration",
+    "heroCaption": "Simplified editorial label-reading diagram; inspect each actual product.",
+    "experienceVersion": 2
+  },
+  "korea-ice-festival-opening-check": {
+    "id": "culture-korea-ice-festival-opening-check",
+    "categoryId": "culture-events",
+    "format": "seasonal",
+    "checkedAt": "2026-11-15",
+    "answer": "Before traveling, confirm the exact date, activity, ticket conditions and transport on the organizer's current page; ice conditions can delay opening or reduce activities.",
+    "forWhom": "Travelers planning an ice-fishing, sledding or other ice-based festival visit in Korea",
+    "conditions": [
+      "Season listings may show previous-year information or tentative dates.",
+      "Festival operation and activity access are controlled by the current organizer notice and on-site staff.",
+      "No source reviewed provides a universal live ice-thickness or opening feed for all festivals."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "winter",
+      "festivals",
+      "events",
+      "safety"
+    ],
+    "relations": [
+      {
+        "slug": "winter-activities-ski-resorts-and-ice-festivals",
+        "type": "interest",
+        "label": "Compare winter activities",
+        "reason": "The broader guide introduces festival and resort options; this checklist verifies current operation for a planned day."
+      },
+      {
+        "slug": "korea-snow-advisory-travel-plan",
+        "type": "prepare",
+        "label": "Check snow and travel impacts",
+        "reason": "Weather can affect both the venue and the journey; confirm each with its responsible operator."
+      },
+      {
+        "slug": "korea-winter-packing-checklist",
+        "type": "prepare",
+        "label": "Pack for an outdoor festival",
+        "reason": "Prepare appropriate layers and footwear for an extended outdoor visit."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "visitkorea-winter-festivals-2026-27",
+        "title": "VISITKOREA: 11 Winter Festivals to Enjoy in Korea 2026–2027",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1595020",
+        "checkedAt": "2026-11-15",
+        "note": "KTO says ice too thin to meet safety standards may delay opening or reduce activities and instructs visitors to check the organizer's site/social channels. The page itself warns details can differ."
+      },
+      {
+        "id": "hwacheon-nara-festival-official",
+        "title": "Hwacheon Sancheoneo Ice Festival: Official Organizer",
+        "url": "https://www.narafestival.com/01_icenara/",
+        "checkedAt": "2026-11-15",
+        "note": "Official organizer site has schedules, ticket/activity sections, transport, visitor convenience and safety information. Confirm exact season and current operational notices."
+      },
+      {
+        "id": "pyeongchang-trout-festival-official",
+        "title": "Pyeongchang Trout Festival: Official Organizer",
+        "url": "https://festival700.or.kr/",
+        "checkedAt": "2026-11-15",
+        "note": "Official committee site separates program, reservation, map/transport and notice pages. At check time its visible hero still named the 2026 edition; do not treat that as 2027 confirmation."
+      },
+      {
+        "id": "visitkorea-hwacheon-event-record",
+        "title": "VISITKOREA: Hwacheon Sancheoneo Ice Festival",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=96732",
+        "checkedAt": "2026-11-15",
+        "note": "Tourism listing explicitly says its information is based on the 2026 festival and 2027 details will be updated; use organizer notices for current details."
+      }
+    ],
+    "shareFacts": [
+      "Check the exact date and current organizer notice.",
+      "Confirm that your specific ice activity is open today.",
+      "Recheck tickets and return transport before departing."
+    ],
+    "launchOrder": 1104,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Ice festival opening checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#culture-korea-ice-festival-opening-check",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial decision diagram; not a live status board, ice-thickness reading or festival photograph."
+    },
+    "heroMediaId": "culture-korea-ice-festival-opening-check",
+    "heroCaption": "Verify today's operation with the event organizer; this illustration is not a status report.",
+    "experienceVersion": 2
+  },
+  "bukchon-village-library-visitor-guide": {
+    "id": "culture-bukchon-village-library",
+    "experienceVersion": 2,
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-15",
+    "answer": "Bukchon Village Library is listed by Seoul as a hanok reading and cultural space open daily 09:00–18:00; call ahead because visitor access, language holdings and borrowing rules are not specified on its page.",
+    "forWhom": "Visitors seeking a quiet reading-oriented cultural stop in Bukchon and families interested in the city's listed children's books",
+    "conditions": [
+      "Official address is 11-9 Gyedong 2-gil; daily listed opening is 09:00–18:00.",
+      "The official page does not state admission, borrowing terms, foreign-language stock or exact nonresident visitor procedures.",
+      "Bukchon is residential; the Red Zone visit restriction applies to its designated area, not automatically all Bukchon streets.",
+      "The official library page does not list the nearest station, an accessibility route or step-free access."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "culture",
+      "hanok",
+      "reading",
+      "family-travel"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-museum-of-craft-art-visitor-guide",
+        "type": "nearby",
+        "label": "Add a craft museum visit",
+        "reason": "The Anguk-area museum is another indoor cultural stop; check the specific building hours and temporary opening schedule."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "prepare",
+        "label": "Plan the rest of a rainy day",
+        "reason": "Use one compact cluster and account for exposed walks; a residential library is not a café or all-weather route guarantee."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "bukchon-library-seoul-hanok-portal",
+        "title": "Seoul Hanok Portal — Bukchon Village Library",
+        "url": "https://hanok.seoul.go.kr/front/eng/exp/expLibrary.do?tab=1",
+        "checkedAt": "2026-11-15",
+        "note": "Library description, collection topics, about 1,230 books and 26 subjects, address, daily hours, phone."
+      },
+      {
+        "id": "bukchon-red-zone-restrictions",
+        "title": "Seoul Metropolitan Government — Bukchon visitor restrictions",
+        "url": "https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/",
+        "checkedAt": "2026-11-15",
+        "note": "Red Zone specifically on Bukchon-ro 11-gil; 17:00–10:00 restriction, fine and boundary; does not define all Bukchon as restricted."
+      },
+      {
+        "id": "seoul-hanok-visitor-tips",
+        "title": "Seoul Hanok Portal — Hanok experience tips",
+        "url": "https://hanok.seoul.go.kr/front/eng/exp/expTip.do",
+        "checkedAt": "2026-11-15",
+        "note": "Respect residential privacy, follow visiting hours, avoid intrusive photos and litter."
+      }
+    ],
+    "shareFacts": [
+      "Seoul lists the library at 11-9 Gyedong 2-gil, open daily 09:00–18:00.",
+      "Call +82-2-765-1373 to verify visitor access or a specific book/program.",
+      "Bukchon Red Zone restrictions apply to a designated area; check its boundary and hours."
+    ],
+    "launchOrder": 1105,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Illustration: a reading nook inspired by hanok forms",
+      "author": "Korea Experience Editorial",
+      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original in-repository vector illustration; not an actual view of Bukchon Village Library. No external image assets used."
+    },
+    "heroMediaId": "culture-bukchon-library-illustration",
+    "heroCaption": "Original editorial illustration—not a photograph or depiction of the actual library.",
+    "cardImageLabel": "Illustration · not a site photo",
+    "gallery": []
+  },
+  "busan-modern-contemporary-history-museum-visit": {
+    "id": "culture-busan-modern-history-museum",
+    "experienceVersion": 2,
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-15",
+    "answer": "Busan's central Modern & Contemporary History Museum is a free indoor stop with separate main and annex buildings; confirm which building, the 17:00 admission cutoff, and current exhibitions before visiting.",
+    "forWhom": "Visitors looking for a central Busan indoor cultural stop, including families checking a scheduled children's zone",
+    "conditions": [
+      "Regular admission is free; special exhibitions may charge.",
+      "The main building is at 112 Daecheong-ro; the annex is at 104 Daecheong-ro.",
+      "The 18:00 closing time has a 17:00 admission cutoff.",
+      "The children's interactive zone is session-based and bars entry more than 20 minutes after session start.",
+      "Planning duration is an editorial estimate, not a venue estimate."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "culture",
+      "history",
+      "rainy-day"
+    ],
+    "relations": [
+      {
+        "slug": "busan-museum-un-memorial-cemetery-respectful-half-day",
+        "type": "interest",
+        "label": "Continue with Busan history",
+        "reason": "Explore a separate Daeyeon history itinerary; check the transit connection and each venue’s hours."
+      },
+      {
+        "slug": "where-to-stay-in-busan-neighborhoods",
+        "type": "prepare",
+        "label": "Plan your Busan base",
+        "reason": "Compare the hotel area with the location of this central Jung-gu museum and the rest of your route."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "busan-modern-history-exhibition-guide",
+        "title": "Busan Modern & Contemporary History Museum — Exhibition Guide",
+        "url": "https://www.busan.go.kr/mmch_eng/exhibition-information",
+        "checkedAt": "2026-11-15",
+        "note": "09:00–18:00; admission 09:00–17:00; regular admission free; Monday closure and holiday adjustment; children's-zone sessions and 20-minute entry cutoff; visitor rules."
+      },
+      {
+        "id": "busan-modern-history-directions",
+        "title": "Busan Modern & Contemporary History Museum — Directions",
+        "url": "https://www.busan.go.kr/mmch_eng/directions",
+        "checkedAt": "2026-11-15",
+        "note": "Main: 112 Daecheong-ro; annex: 104 Daecheong-ro; Central Station Exit 5 about 500m, Nampo Station Exit 1 about 860m."
+      },
+      {
+        "id": "busan-modern-history-city-overview",
+        "title": "Busan Metropolitan City — Museum visitor overview",
+        "url": "https://www.busan.go.kr/eng/bsfacility01/1648816",
+        "checkedAt": "2026-11-15",
+        "note": "Building histories, vault museum and general facility overview."
+      }
+    ],
+    "shareFacts": [
+      "Free regular exhibitions; separate paid exhibitions may occur.",
+      "The main building is 112 Daecheong-ro; the annex is 104 Daecheong-ro.",
+      "Admission closes 17:00; children's-zone sessions have a late-entry cutoff."
+    ],
+    "launchOrder": 1106,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Illustration: museum gallery and archival vault motif",
+      "author": "Korea Experience Editorial",
+      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Created in-repository as an original vector illustration. It is not a depiction or photograph of the actual museum. No external image assets used. Do not treat the illustration as evidence of current venue appearance."
+    },
+    "heroMediaId": "culture-busan-modern-history-illustration",
+    "heroCaption": "Original editorial illustration—not a photograph or depiction of the actual museum.",
+    "cardImageLabel": "Illustration · not a site photo",
+    "gallery": []
+  },
+  "busan-museum-un-memorial-cemetery-respectful-half-day": {
+    "id": "culture-busan-museum-unmck-half-day",
+    "experienceVersion": 2,
+    "categoryId": "culture-events",
+    "format": "itinerary",
+    "checkedAt": "2026-11-15",
+    "answer": "Pair Busan Museum's regional-history galleries with the UN Memorial Cemetery, but plan around the cemetery's earlier October–April closing and its strict place-of-remembrance conduct rules.",
+    "forWhom": "Visitors wanting a respectful, history-centered half-day in Daeyeon, Busan",
+    "conditions": [
+      "Busan Museum is free, open Tue–Sun 09:00–18:00, and closes Mondays and Jan 1; holiday adjustments apply.",
+      "UNMCK is free and open 365 days, 09:00–17:00 Oct–Apr and 09:00–18:00 May–Sep.",
+      "The suggested half-day order is editorial planning, not an official combined route.",
+      "A walking route between venues, step-free access and weather shelter were not independently verified."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "culture",
+      "history",
+      "memorial"
+    ],
+    "relations": [
+      {
+        "slug": "busan-modern-contemporary-history-museum-visit",
+        "type": "interest",
+        "label": "Explore another Busan history museum",
+        "reason": "This central Jung-gu guide covers a different museum and building history; it is not part of the Daeyeon half-day route."
+      },
+      {
+        "slug": "where-to-stay-in-busan-neighborhoods",
+        "type": "prepare",
+        "label": "Check your Busan base",
+        "reason": "A stay near a convenient transit line can make a Daeyeon visit easier to fit into your wider trip."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "busan-museum-service-information",
+        "title": "Busan Museum: Visitor Information (Japanese)",
+        "url": "https://museum.busan.go.kr/jpn/bsminfo01",
+        "checkedAt": "2026-11-15",
+        "note": "Directly checked Japanese visitor information for hours, closure, free admission, accessibility equipment and transit; English service page timed out during review."
+      },
+      {
+        "id": "busan-museum-facility-information",
+        "title": "Busan Museum — Facility Information",
+        "url": "https://museum.busan.go.kr/eng/bsminfo02",
+        "checkedAt": "2026-11-15",
+        "note": "Exhibition hall themes and facility details."
+      },
+      {
+        "id": "unmck-official-home",
+        "title": "UN Memorial Cemetery in Korea — Official site",
+        "url": "https://unmck.or.kr/eng/main/",
+        "checkedAt": "2026-11-15",
+        "note": "Free admission, 365-day opening, seasonal closing times, memorial features and address."
+      },
+      {
+        "id": "unmck-directions",
+        "title": "UN Memorial Cemetery in Korea — Directions",
+        "url": "https://unmck.or.kr/eng/02_unmck/?mcode=0502050000",
+        "checkedAt": "2026-11-15",
+        "note": "Address, bus routes and Daeyeon Station Line 2 Exit 3, 15-minute walk per official site."
+      },
+      {
+        "id": "unmck-observance",
+        "title": "UN Memorial Cemetery in Korea — Observance and dress code",
+        "url": "https://www.unmck.or.kr/eng/02_unmck/?mcode=0502040000",
+        "checkedAt": "2026-11-15",
+        "note": "Official conduct: quiet, no smoking/drinking/food/pets/riding/exercise/littering, keep off grass, no picking plants/flowers, listed dress restrictions."
+      }
+    ],
+    "shareFacts": [
+      "Museum: Tue–Sun 09:00–18:00; cemetery closes 17:00 in Oct–Apr.",
+      "Both have free admission; check holiday and ceremony notices before travel.",
+      "UNMCK is a cemetery and memorial: keep quiet and follow its published visitor rules."
+    ],
+    "launchOrder": 1107,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Illustration: archive gallery and memorial path",
+      "author": "Korea Experience Editorial",
+      "license": "Original illustration; Korea Experience publication rights; no third-party site imagery",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original vector split-scene. It does not depict Busan Museum, UNMCK or their actual grounds; no third-party image assets used."
+    },
+    "heroMediaId": "culture-busan-museum-unmck-illustration",
+    "heroCaption": "Original editorial illustration—not a depiction or photograph of either Busan site.",
+    "cardImageLabel": "Illustration · not a site photo",
+    "gallery": []
+  },
+  "seoul-museum-of-craft-art-visitor-guide": {
+    "id": "culture-seoul-museum-craft-art",
+    "experienceVersion": 2,
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-15",
+    "answer": "SeMoCA near Anguk is a free general-admission craft museum, but the Children's Museum requires advance online booking; its temporary late-opening schedule through November 30, 2026 applies only to listed buildings and days.",
+    "forWhom": "Visitors planning a craft-focused indoor stop in Anguk, especially families distinguishing the reserved Children's Museum from general galleries",
+    "conditions": [
+      "General galleries are normally listed 10:00–18:00 with last admission 30 minutes before closing.",
+      "A temporary schedule through November 30, 2026 keeps Exhibition Building 1 open until 21:00 Tuesday, Wednesday, Friday, Saturday and Sunday; Thursday to 18:00; Monday closed.",
+      "The late schedule excludes Exhibition Buildings 2 and 3 and the Education Building, including the Children's Museum.",
+      "Children's Museum requires an online reservation, is free, and has distinct age/session/Monday rules.",
+      "Planning duration is an editorial estimate; workshop participation is separate from general gallery admission."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "culture",
+      "craft",
+      "family-travel",
+      "rainy-day"
+    ],
+    "relations": [
+      {
+        "slug": "bukchon-village-library-visitor-guide",
+        "type": "nearby",
+        "label": "Add a quiet Bukchon stop",
+        "reason": "The library provides another indoor cultural option nearby; check its hours and respect residential route restrictions."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "prepare",
+        "label": "Build a rainy-day plan",
+        "reason": "Choose one Anguk/Jongno cluster and check the outdoor approaches instead of assuming every connection is sheltered."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "semoca-visitor-guide",
+        "title": "Seoul Museum of Craft Art — Visitor Guide",
+        "url": "https://craftmuseum.seoul.go.kr/preview/visit",
+        "checkedAt": "2026-11-15",
+        "note": "Regular hours, Nov 15 checked late-opening schedule through Nov 30, admission, closure, last-entry, address, transit and visitor rules."
+      },
+      {
+        "id": "semoca-late-opening-notice",
+        "title": "Seoul Museum of Craft Art — Late-opening notice through November 30, 2026",
+        "url": "https://craftmuseum.seoul.go.kr/introduce/news_view/NTT_0000000444",
+        "checkedAt": "2026-11-15",
+        "note": "Exact days and buildings included in the temporary late schedule; the Education Building, Exhibition Buildings 2 and 3 are excluded."
+      },
+      {
+        "id": "semoca-childrens-museum",
+        "title": "Seoul Museum of Craft Art — Children's Museum",
+        "url": "https://craftmuseum.seoul.go.kr/chimsm/introduce",
+        "checkedAt": "2026-11-15",
+        "note": "Session schedule, advance booking, free access, age conditions, opening days and building location."
+      },
+      {
+        "id": "semoca-current-programs",
+        "title": "Seoul Museum of Craft Art — Current exhibitions and programs",
+        "url": "https://craftmuseum.seoul.go.kr/main",
+        "checkedAt": "2026-11-15",
+        "note": "Date-dependent exhibition and workshop listings; check live page before publishing or planning around a specific event."
+      }
+    ],
+    "shareFacts": [
+      "Free general admission; an externally rented exhibition may charge.",
+      "Anguk Station Line 3 Exit 1 is about 60m away per the museum.",
+      "Children's Museum is separately reserved and not part of the temporary late schedule."
+    ],
+    "launchOrder": 1108,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Illustration: craft materials on a studio table",
+      "author": "Korea Experience Editorial",
+      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original in-repository vector still life. Not a photograph or depiction of the actual museum. No third-party image assets used."
+    },
+    "heroMediaId": "culture-seoul-craft-art-illustration",
+    "heroCaption": "Original editorial illustration—not a photograph or depiction of the actual museum.",
+    "cardImageLabel": "Illustration · not a site photo",
+    "gallery": []
+  },
+  "jeju-winter-ferry-checklist-udo-gapa-marado": {
+    "id": "jeju-winter-ferry-checklist",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-15",
+    "answer": "For any Jeju island or mainland ferry, match the exact route and direction, verify the operator's day-of sailing status, and protect the return and separate onward bookings.",
+    "forWhom": "International visitors planning a Jeju-to-Udo, Gapado, Marado or Jeju–mainland passenger ferry in winter",
+    "conditions": [
+      "The KOMSA next-day forecast is available only for some routes and is an estimate; weather, visibility and vessel circumstances can change the sailing.",
+      "No live status, current timetable, fare or refund entitlement is asserted.",
+      "The unpublished generic winter ferry draft is broader; this candidate narrows to Jeju ports, route lookup and island-trip decisions. Lead editor should confirm separate search intent and avoid publishing both pages with interchangeable copy."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "departure"
+    ],
+    "interests": [
+      "transport",
+      "ferry",
+      "winter",
+      "weather",
+      "day-trips"
+    ],
+    "relations": [
+      {
+        "slug": "jeju-island-complete-travel-guide-best-time-to-visit-2026",
+        "type": "prepare",
+        "label": "Plan the rest of Jeju",
+        "reason": "Use a weather-safe Jeju base and nearby alternative if the island sailing does not operate."
+      },
+      {
+        "slug": "incheon-winter-flight-disruption-checklist",
+        "type": "next",
+        "label": "Protect a separate flight connection",
+        "reason": "An airline and a ferry are separate operators; each booking needs its own status and change check."
+      },
+      {
+        "slug": "korea-winter-packing-checklist",
+        "type": "prepare",
+        "label": "Prepare for a cold port wait",
+        "reason": "A ferry terminal wait is outdoors or exposed in places; use the general winter checklist for layers and footwear."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "komsa-jeju-current-ferry-status",
+        "title": "KOMSA: passenger-vessel operation lookup",
+        "url": "https://www.komsa.or.kr/prog/pssgCurState/kor/sub03_0202/list.do?jbcd=G",
+        "checkedAt": "2026-11-15",
+        "note": "Official live lookup; page status is transient and must not be copied into evergreen prose as a promised sailing."
+      },
+      {
+        "id": "komsa-next-day-sailing-forecast",
+        "title": "KOMSA: next-day sailing forecast",
+        "url": "https://www.komsa.or.kr/kor/sub03_0207.do",
+        "checkedAt": "2026-11-15",
+        "note": "KOMSA warns that forecasts cover only some routes, may not predict fog or sudden changes, and must be rechecked on the day."
+      },
+      {
+        "id": "visitjeju-seongsan-passenger-terminal",
+        "title": "VISITJEJU: Seongsan Port General Passenger Terminal",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CNTS_300000000014703",
+        "checkedAt": "2026-11-15",
+        "note": "Opened successfully. Page states Udo round-trip ticket, boarding form and ID; ferry arrival may be Cheonjin or Haumokdong; timing/arrival port may vary with weather/vessel operations; verify same day."
+      },
+      {
+        "id": "komsa-sailing-certificate",
+        "title": "KOMSA: sailing/cancellation certificate search",
+        "url": "https://www.komsa.or.kr/prog/crtfctSailing/kor/sub03_0206/list.do?searchJbcd=G",
+        "checkedAt": "2026-11-15",
+        "note": "The available certificate depends on recorded operation history; no universal refund or insurance claim outcome is asserted."
+      }
+    ],
+    "shareFacts": [
+      "A next-day forecast is not final confirmation; recheck the exact ferry with its operator on travel day.",
+      "Check the departure port, route, direction and return sailing, not only a destination name or Jeju weather.",
+      "A ferry cancellation does not automatically change a separate hotel, flight or train booking."
+    ],
+    "launchOrder": 1109,
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Jeju winter ferry status checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#jeju-winter-ferry-status-check-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial illustration, not a route map, actual ferry or live sailing status."
+    },
+    "gallery": [],
+    "heroMediaId": "jeju-winter-ferry-status-check-illustration",
+    "heroCaption": "Original editorial planning diagram; not a map, timetable or live sailing status.",
+    "experienceVersion": 2,
+    "changeType": "new"
+  },
+  "seoul-snow-transit-topis-checklist": {
+    "id": "seoul-snow-transit-checklist",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "changeType": "new",
+    "checkedAt": "2026-11-15",
+    "answer": "During snow in Seoul, use TOPIS to check current incidents and controls for the exact route, then interpret the city's dated response-stage plan without assuming a particular bus or train will run.",
+    "forWhom": "Visitors already in Seoul who need to adapt a bus or subway journey during snow",
+    "conditions": [
+      "The policy facts here are for Seoul's plan announced 2026-11-11 and its stated period 2026-11-15 through 2027-03-15; future winters may use different measures.",
+      "The plan describes city-level measures, not line-specific frequencies, guaranteed first/last services or a live route status."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "transport",
+      "winter",
+      "weather",
+      "safety"
+    ],
+    "relations": [
+      {
+        "slug": "korea-snow-advisory-travel-plan",
+        "type": "prepare",
+        "label": "Understand the snow alert first",
+        "reason": "The national guide explains how to read an alert's area and effective time; this guide covers Seoul's transport response and route checks."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Switch to a shorter indoor plan",
+        "reason": "If the route remains unclear, choose a nearby indoor anchor and confirm its opening separately."
+      },
+      {
+        "slug": "korea-winter-packing-checklist",
+        "type": "prepare",
+        "label": "Prepare for a cold outdoor transfer",
+        "reason": "Waiting at a stop or crossing between stations can expose travelers to cold and snow."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-winter-plan-2026-27",
+        "title": "Seoul Metropolitan Government: 2026 winter comprehensive measures",
+        "url": "https://scpm.seoul.go.kr/seoul-policy/evt0323",
+        "checkedAt": "2026-11-15",
+        "note": "Opened successfully. Published 2026-11-11. States plan period 2026-11-15–2027-03-15; stage 2 extends bus/subway peak dispatch by 30 minutes, stage 3 by 60 minutes, replacement buses for subway suspension; TOPIS/120 for service information and Seoul Safety Nuri for snow-removal status."
+      },
+      {
+        "id": "seoul-topis",
+        "title": "Seoul TOPIS: transport information system",
+        "url": "https://topis.seoul.go.kr/",
+        "checkedAt": "2026-11-15",
+        "note": "Opened by following the official Seoul plan link. Observed menus for incidents, controls, bus and subway. Dynamic values displayed zero placeholders in extracted page, so no current status is asserted."
+      }
+    ],
+    "shareFacts": [
+      "For Seoul's 2026–27 plan, stage 2/3 extends the bus and subway peak-dispatch period by 30/60 minutes; it does not promise a particular line or last service.",
+      "TOPIS offers incident/control, bus and subway information; verify your exact route and return.",
+      "The city says replacement buses are deployed when subway operation is suspended; check current station and boarding instructions."
+    ],
+    "launchOrder": 1110,
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "How to check Seoul transit during snow",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#seoul-snow-transit-check-sequence",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "sha256": "E204D97357BCB071CF9CF87CE6751483AC493640EC3D9CB51D22C7330B314EDE",
+      "note": "Original editorial SVG decision aid; no external assets. Not a map, live service display or a promise of a particular departure."
+    },
+    "gallery": [],
+    "heroMediaId": "seoul-snow-transit-check-sequence",
+    "heroCaption": "Original decision diagram; not a map, live service display or a promise of a particular departure.",
+    "experienceVersion": 2
   }
 }

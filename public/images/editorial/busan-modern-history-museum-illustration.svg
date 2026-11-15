@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Illustration: a museum gallery with an archival vault motif</title>
+  <desc id="desc">An original editorial illustration, not a photograph of Busan Modern and Contemporary History Museum.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#e9e2d4"/><stop offset="1" stop-color="#d6e4e0"/></linearGradient>
+    <linearGradient id="wall" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#fbf8f1"/><stop offset="1" stop-color="#e6dfd1"/></linearGradient>
+    <pattern id="grain" width="120" height="120" patternUnits="userSpaceOnUse"><circle cx="12" cy="18" r="1.2" fill="#435457" opacity=".12"/><circle cx="83" cy="52" r="1" fill="#435457" opacity=".1"/><path d="M35 102h18" stroke="#435457" opacity=".08"/></pattern>
+    <filter id="shadow" x="-.2" y="-.2" width="1.4" height="1.4"><feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#25393a" flood-opacity=".16"/></filter>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#bg)"/>
+  <rect width="1600" height="1000" fill="url(#grain)"/>
+  <path d="M0 760 1600 650v350H0Z" fill="#b7c6bd"/>
+  <path d="M0 832 1600 735v265H0Z" fill="#526c68"/>
+  <g filter="url(#shadow)">
+    <rect x="176" y="160" width="1248" height="605" rx="18" fill="url(#wall)"/>
+    <path d="M176 300h1248" stroke="#a58b66" stroke-width="8"/>
+    <path d="M230 235h1140" stroke="#536a63" stroke-width="4" opacity=".65"/>
+    <rect x="230" y="340" width="470" height="335" rx="8" fill="#b5c9c2"/>
+    <path d="M252 649V438q0-83 84-83t84 83v211M428 649V438q0-83 84-83t84 83v211" fill="#728f86" stroke="#f1eee5" stroke-width="14"/>
+    <path d="M252 544h344" stroke="#f1eee5" stroke-width="12"/>
+    <rect x="770" y="354" width="560" height="284" rx="10" fill="#e5dac4"/>
+    <rect x="820" y="410" width="214" height="176" rx="6" fill="#f8f4eb" stroke="#a68b65" stroke-width="5"/>
+    <path d="M858 450h138M858 476h138M858 502h96" stroke="#6d8278" stroke-width="9" stroke-linecap="round"/>
+    <circle cx="1190" cy="485" r="91" fill="#6b8177"/>
+    <circle cx="1190" cy="485" r="65" fill="#d9c69e"/>
+    <circle cx="1190" cy="485" r="50" fill="#526c68"/>
+    <path d="M1190 435v100M1140 485h100" stroke="#dccfae" stroke-width="7" opacity=".9"/>
+    <rect x="812" y="650" width="476" height="16" rx="8" fill="#967b58"/>
+  </g>
+  <g fill="#274743" font-family="Georgia,serif">
+    <text x="174" y="105" font-size="24" letter-spacing="5">BUSAN · INDOOR CULTURE</text>
+    <text x="174" y="890" font-size="52">A city told through its rooms</text>
+    <text x="176" y="934" font-family="Arial,sans-serif" font-size="20" letter-spacing="2">EDITORIAL ILLUSTRATION · NOT A PHOTOGRAPH OF THE MUSEUM</text>
+  </g>
+</svg>

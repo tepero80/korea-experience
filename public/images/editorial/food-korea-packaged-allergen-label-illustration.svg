@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">How to read a Korean packaged-food allergen label</title>
+  <desc id="desc">Turn the package over, review the ingredient list and allergen warning, and do not buy if a relevant label is unclear.</desc>
+  <rect width="1200" height="800" rx="40" fill="#f5f2e9"/>
+  <text x="70" y="92" font-family="Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="3" fill="#8c5a21">PACKAGED FOOD CHECK</text>
+  <text x="70" y="158" font-family="Arial,sans-serif" font-size="46" font-weight="700" fill="#332d25">Read the back, not just the front</text>
+  <rect x="110" y="230" width="390" height="470" rx="28" fill="#fff" stroke="#d9cfbb" stroke-width="4"/>
+  <rect x="145" y="265" width="320" height="85" rx="15" fill="#e8f0e6"/>
+  <text x="170" y="317" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#36513b">원재료명</text>
+  <g stroke="#c6c0b2" stroke-width="7" stroke-linecap="round">
+    <path d="M160 390h285M160 420h230M160 450h267M160 480h190"/>
+  </g>
+  <rect x="145" y="515" width="320" height="130" rx="15" fill="#fff0d8" stroke="#d89037" stroke-width="3"/>
+  <text x="170" y="558" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#7d4a16">알레르기 유발물질</text>
+  <text x="170" y="600" font-family="Arial,sans-serif" font-size="19" fill="#5d4934">밀, 대두 등 — 확인</text>
+  <path d="M540 428h80m-20-20 20 20-20 20" stroke="#8c5a21" stroke-width="8" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <g font-family="Arial,sans-serif">
+    <rect x="660" y="230" width="470" height="120" rx="22" fill="#fff"/>
+    <circle cx="715" cy="290" r="27" fill="#8c5a21"/><text x="706" y="299" font-size="25" font-weight="700" fill="#fff">1</text>
+    <text x="760" y="282" font-size="24" font-weight="700" fill="#332d25">Turn the package over</text>
+    <text x="760" y="318" font-size="18" fill="#6c6254">Find ingredient information</text>
+    <rect x="660" y="375" width="470" height="120" rx="22" fill="#fff"/>
+    <circle cx="715" cy="435" r="27" fill="#8c5a21"/><text x="706" y="444" font-size="25" font-weight="700" fill="#fff">2</text>
+    <text x="760" y="427" font-size="24" font-weight="700" fill="#332d25">Check the allergen statement</text>
+    <text x="760" y="463" font-size="18" fill="#6c6254">Read any shared-process warning</text>
+    <rect x="660" y="520" width="470" height="120" rx="22" fill="#183b43"/>
+    <circle cx="715" cy="580" r="27" fill="#f7cf82"/><text x="706" y="589" font-size="25" font-weight="700" fill="#183b43">3</text>
+    <text x="760" y="572" font-size="24" font-weight="700" fill="#fff">Unclear? Don't guess.</text>
+    <text x="760" y="608" font-size="18" fill="#d6e8e8">Choose another item or ask for help</text>
+    <text x="70" y="752" font-size="17" fill="#6c6254">Editorial illustration • not a real product label or safety certification</text>
+  </g>
+</svg>
