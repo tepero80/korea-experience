@@ -2917,8 +2917,8 @@
     "experienceVersion": 2,
     "categoryId": "culture-events",
     "format": "seasonal",
-    "checkedAt": "2026-10-31",
-    "answer": "The three cited autumn 2026 palace-night runs have ended as of 31 October. Check a new official announcement before planning tickets; use an open daytime palace as the practical fallback.",
+    "checkedAt": "2026-11-15",
+    "answer": "The three cited autumn 2026 palace-night runs have ended. Check a new official announcement before planning tickets; use an open daytime palace as the practical fallback.",
     "forWhom": "Visitors comparing palace evening programs or checking a future season",
     "conditions": [
       "All dates in the comparison are historical 2026 runs, not bookable future dates.",
@@ -2961,6 +2961,27 @@
       "changdeokgung"
     ],
     "sources": [
+      {
+        "id": "gyeongbokgung-november-2026-daytime",
+        "title": "Gyeongbokgung October–November 2026 visiting notice",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260930144202825885&schM=view",
+        "checkedAt": "2026-11-15",
+        "note": "November 2026 daytime hours, last admission and regular Tuesday closure; verify date-specific exceptions. Not a night program."
+      },
+      {
+        "id": "heritage-starlight-program",
+        "title": "Korea Heritage Agency palace programs",
+        "url": "https://www.kh.or.kr/cms/content/view/1523",
+        "checkedAt": "2026-11-15",
+        "note": "Program information; future dates, booking and eligibility require a new event notice."
+      },
+      {
+        "id": "heritage-starlight-autumn-booking-2026",
+        "title": "Starlight autumn 2026 organizer booking notice",
+        "url": "https://www.kh.or.kr/cont/view/fest/month/menu/210?idx=110615",
+        "checkedAt": "2026-11-15",
+        "note": "Past-season draw and remaining-seat process; not a promise of future ticket conditions."
+      },
       {
         "id": "royal-night-autumn-2026",
         "title": "2026 autumn Gyeongbokgung general night viewing notice",

@@ -23,3 +23,7 @@ This version has breaking changes — APIs, conventions, and file structure may 
 This block is written and re-added by `next dev` — verify at `node_modules/next/dist/server/lib/generate-agent-files.js`. Removing it from a diff only re-creates the uncommitted change; committing it with your work keeps the tree clean.
 
 <!-- END:nextjs-agent-rules -->
+
+## Project research delegation decision
+On 2026-11-15 the owner selected gpt-6-luna with medium reasoning for delegated evidence collection in Korea Experience. Use this setting for future research delegation unless the owner changes it or the model is unavailable. Judgment-heavy tasks inherit the lead model and reasoning effort.
+
