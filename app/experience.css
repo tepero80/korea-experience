@@ -49,6 +49,7 @@
   background: #fff;
   color: var(--ke-amber);
   border-color: #b8d2cc;
+  transition: box-shadow 0.16s;
 }
 .share-box .action-button:hover {
   background: #07534f;

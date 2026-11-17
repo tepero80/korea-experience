@@ -454,5 +454,35 @@
     "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=94436",
     "checkedAt": "2026-10-31",
     "sourceNote": "Coordinates and Korean address shown on the linked Korea Tourism Organization listing; marker is not a verified visitor entrance."
+  },
+  {
+    "id": "jeju-mount-everest-restaurant",
+    "name": "Mount Everest Restaurant Jeju",
+    "nameKo": "마운트 에베레스트 레스토랑 제주",
+    "latitude": 33.5150318,
+    "longitude": 126.5256725,
+    "address": "제주 제주시 중앙로7길 9 2층",
+    "region": "jeju",
+    "description": "Visit Jeju listing reports halal food, vegan options and a small prayer room. Verify current service and access with the restaurant.",
+    "officialUrl": "https://www.visitjeju.net/en/detail/view?contentsid=CNTS_300000000013035&menuId=DOM_000001818000000004",
+    "checkedAt": "2026-11-17",
+    "sourceNote": "Address, coordinates and venue information from the official Visit Jeju listing; not independently visited. Coordinates identify the listing's venue point, not a verified accessible entrance.",
+    "addressSource": "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_300000000013035",
+    "visitorUrl": "https://www.visitjeju.net/en/detail/view?contentsid=CNTS_300000000013035&menuId=DOM_000001818000000004"
+  },
+  {
+    "id": "jeju-warda-restaurant",
+    "name": "Warda Restaurant",
+    "nameKo": "와르다레스토랑",
+    "latitude": 33.5110266,
+    "longitude": 126.523168,
+    "address": "제주특별자치도 제주시 관덕로8길 24-1",
+    "region": "jeju",
+    "description": "Visit Jeju describes Middle Eastern halal dishes. The directory page does not list a prayer room; verify current menu and opening before visiting.",
+    "officialUrl": "https://www.visitjeju.net/en/detail/view?contentsid=CNTS_200000000009854",
+    "checkedAt": "2026-11-17",
+    "sourceNote": "Address, coordinates and venue information from the official Visit Jeju listing; not independently visited. Coordinates identify the listing's venue point, not a verified accessible entrance.",
+    "addressSource": "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_200000000009854",
+    "visitorUrl": "https://www.visitjeju.net/en/detail/view?contentsid=CNTS_200000000009854"
   }
 ]

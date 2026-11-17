@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Gangneung New Year sunrise festival planning</title>
+  <desc id="desc">Two separate official festival venues in Gangneung and the event times listed for New Year's Eve and morning.</desc>
+  <rect width="1200" height="800" fill="#f2f7f4"/>
+  <path d="M0 0h1200v10H0z" fill="#086b66"/>
+  <text x="70" y="92" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="3" fill="#286b75">GANGNEUNG · DEC 31, 2026 — JAN 1, 2027</text>
+  <text x="70" y="158" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#183b43">Choose one event area</text>
+  <g font-family="Arial,sans-serif" fill="#183b43">
+    <rect x="90" y="230" width="470" height="270" rx="26" fill="#fff" stroke="#cbd8d1" stroke-width="3"/>
+    <circle cx="325" cy="310" r="47" fill="#e9b15c"/><path d="M250 352q75-40 150 0" fill="none" stroke="#278f8a" stroke-width="10" stroke-linecap="round"/>
+    <text x="145" y="415" font-size="27" font-weight="700">Gyeongpo Beach</text>
+    <text x="145" y="455" font-size="18" fill="#54716e">Confirm the current city program</text>
+    <rect x="640" y="230" width="470" height="270" rx="26" fill="#fff" stroke="#cbd8d1" stroke-width="3"/>
+    <circle cx="875" cy="310" r="47" fill="#e9b15c"/><path d="M800 352q75-40 150 0" fill="none" stroke="#278f8a" stroke-width="10" stroke-linecap="round"/>
+    <text x="695" y="415" font-size="27" font-weight="700">Jeongdongjin Sandglass Park</text>
+    <text x="695" y="455" font-size="18" fill="#54716e">Confirm the current city program</text>
+    <rect x="180" y="550" width="840" height="120" rx="20" fill="#183b43"/>
+    <text x="230" y="600" font-size="19" font-weight="700" letter-spacing="2" fill="#b9e1d8">PUBLISHED EVENT WINDOW</text>
+    <text x="230" y="642" font-size="29" font-weight="700" fill="#fff">20:00–00:30 · Jan 1 program 06:00–08:00</text>
+  </g>
+  <text x="70" y="738" font-family="Arial,sans-serif" font-size="17" fill="#54716e">Illustrative planning diagram · Venues are separate; no travel route or specific venue timetable implied</text>
+</svg>

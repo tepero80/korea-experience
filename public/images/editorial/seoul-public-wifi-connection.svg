@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Connect to Seoul public Wi-Fi</title>
+  <desc id="desc">An original illustration of a phone showing the Seoul secure public Wi-Fi network and a city map with public access points.</desc>
+  <rect width="1200" height="800" rx="36" fill="#eef4f7"/>
+  <rect x="72" y="70" width="1056" height="660" rx="32" fill="#fff" stroke="#d8e3e8" stroke-width="4"/>
+  <text x="128" y="148" fill="#1d4258" font-family="Arial,sans-serif" font-size="30" font-weight="700">SEOUL PUBLIC WI-FI · TWO WAYS TO CONNECT</text>
+  <rect x="138" y="204" width="404" height="432" rx="30" fill="#e7f0f4"/>
+  <rect x="247" y="235" width="188" height="323" rx="28" fill="#213e50"/>
+  <rect x="262" y="270" width="158" height="258" rx="16" fill="#fff"/>
+  <circle cx="341" cy="545" r="8" fill="#9ab3be"/>
+  <text x="278" y="315" fill="#4e6978" font-family="Arial,sans-serif" font-size="15" font-weight="700">WI-FI NETWORK</text>
+  <rect x="278" y="337" width="125" height="62" rx="10" fill="#dceeea" stroke="#62a294" stroke-width="3"/>
+  <path d="M290 367q24-23 48 0m-38 11q19-18 38 0m-27 11q13-12 26 0" fill="none" stroke="#28766a" stroke-width="5" stroke-linecap="round"/>
+  <circle cx="332" cy="401" r="4" fill="#28766a"/>
+  <text x="282" y="448" fill="#1b5c54" font-family="Arial,sans-serif" font-size="15" font-weight="700">SEOUL_Secure</text>
+  <text x="281" y="479" fill="#617780" font-family="Arial,sans-serif" font-size="13">ID + password: seoul</text>
+  <text x="202" y="605" fill="#315365" font-family="Arial,sans-serif" font-size="20">Connect once where covered</text>
+  <rect x="596" y="204" width="466" height="432" rx="30" fill="#f1f6f1"/>
+  <path d="M646 285l100-50 96 25 87-48 75 45v253l-92 48-96-27-93 42-77-30z" fill="#dcebe0" stroke="#b2ccba" stroke-width="4"/>
+  <path d="M660 347l128-62 84 48 114-62m-310 169l103-52 104 41 115-55m-266 123l64-31 83 27 122-66" fill="none" stroke="#b0c7b6" stroke-width="8" stroke-linecap="round"/>
+  <g fill="#286c81" stroke="#fff" stroke-width="5"><circle cx="711" cy="331" r="16"/><circle cx="850" cy="365" r="16"/><circle cx="1001" cy="315" r="16"/><circle cx="759" cy="456" r="16"/><circle cx="932" cy="471" r="16"/><circle cx="1034" cy="420" r="16"/></g>
+  <path d="M812 300l19-32 19 32z" fill="#e3a84e"/>
+  <text x="653" y="601" fill="#315365" font-family="Arial,sans-serif" font-size="20">Check a nearby access-point map</text>
+  <rect x="138" y="662" width="924" height="30" rx="15" fill="#e8eef2"/>
+  <text x="166" y="683" fill="#456171" font-family="Arial,sans-serif" font-size="17">Original illustration — not a live network map or coverage guarantee.</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Korea Grand Sale offer checklist</title>
+  <desc id="desc">Original checklist reminding visitors to verify the dates, category, provider terms and final price of each Korea Grand Sale offer.</desc>
+  <rect width="1200" height="800" fill="#f7f5ef"/>
+  <path d="M0 0h1200v10H0z" fill="#086b66"/>
+  <text x="70" y="92" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="3" fill="#286b75">FOREIGN VISITORS · DEC 23, 2026 — FEB 13, 2027</text>
+  <text x="70" y="158" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#183b43">Check each offer before you buy</text>
+  <g font-family="Arial,sans-serif" fill="#183b43">
+    <g><rect x="100" y="235" width="470" height="180" rx="22" fill="#fff" stroke="#cbd8d1" stroke-width="3"/><circle cx="168" cy="305" r="30" fill="#e9b15c"/><path d="m154 305 10 10 20-23" fill="none" stroke="#183b43" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><text x="220" y="300" font-size="18" font-weight="700" letter-spacing="2">01 · CURRENT EDITION</text><text x="145" y="370" font-size="28" font-weight="700">Check your campaign dates</text></g>
+    <g><rect x="630" y="235" width="470" height="180" rx="22" fill="#fff" stroke="#cbd8d1" stroke-width="3"/><circle cx="698" cy="305" r="30" fill="#75b9ae"/><path d="m684 305 10 10 20-23" fill="none" stroke="#183b43" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><text x="750" y="300" font-size="18" font-weight="700" letter-spacing="2">02 · PARTICIPATING PROVIDER</text><text x="675" y="370" font-size="28" font-weight="700">Read the specific terms</text></g>
+    <g><rect x="100" y="465" width="470" height="180" rx="22" fill="#fff" stroke="#cbd8d1" stroke-width="3"/><circle cx="168" cy="535" r="30" fill="#75b9ae"/><path d="m154 535 10 10 20-23" fill="none" stroke="#183b43" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><text x="220" y="530" font-size="18" font-weight="700" letter-spacing="2">03 · VALID DATES &amp; CHANNEL</text><text x="145" y="600" font-size="28" font-weight="700">Confirm how to redeem</text></g>
+    <g><rect x="630" y="465" width="470" height="180" rx="22" fill="#fff" stroke="#cbd8d1" stroke-width="3"/><circle cx="698" cy="535" r="30" fill="#e9b15c"/><path d="m684 535 10 10 20-23" fill="none" stroke="#183b43" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><text x="750" y="530" font-size="18" font-weight="700" letter-spacing="2">04 · FINAL PRICE</text><text x="675" y="600" font-size="28" font-weight="700">Compare before payment</text></g>
+  </g>
+  <text x="70" y="730" font-family="Arial,sans-serif" font-size="17" fill="#54716e">Original editorial checklist · Not an official coupon or participating-company offer</text>
+</svg>

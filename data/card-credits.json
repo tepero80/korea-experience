@@ -1523,5 +1523,185 @@
       "note": "Original editorial vector diagram created in-repository; no external assets. Illustrative only, not a geographic or live transit map."
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "seoul-guide-for-deaf-and-hard-of-hearing-travelers-2026": {
+    "src": "/images/cards/seoul-guide-for-deaf-and-hard-of-hearing-travelers-2026.jpg",
+    "fingerprint": "34e23fa923411375907d34b0e09b6f14765a693c778581021be0862d5e5f2140",
+    "sourceImage": "/images/editorial/seoul-hearing-access-support.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Communication planning aid for a Seoul visit",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#seoul-hearing-access-support",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original in-repository SVG; no third-party image assets. Not a depiction of a specific station or interpretation service."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "incheon-airport-baggage-delivery-for-reduced-mobility-travelers": {
+    "src": "/images/cards/incheon-airport-baggage-delivery-for-reduced-mobility-travelers.jpg",
+    "fingerprint": "34569dafeb6f9dbae5fb2e411eca417de0d897e3f0907ed6cb5a86a755db49e2",
+    "sourceImage": "/images/editorial/incheon-accessible-baggage-delivery.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Incheon arrival baggage-delivery sequence",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#incheon-accessible-baggage-delivery",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original in-repository SVG; no third-party image assets. Not an airport map or a live service guarantee."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "bringing-personal-medication-into-korea-traveler-guide": {
+    "src": "/images/cards/bringing-personal-medication-into-korea-traveler-guide.jpg",
+    "fingerprint": "decd29360bed4f7d1990967aa26cb223565c3d53c9510aec61a8be8eed68f98b",
+    "sourceImage": "/images/editorial/korea-personal-medicine-entry.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Personal medication entry checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#korea-personal-medicine-entry",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original in-repository SVG; no third-party image assets. Not medical advice or a customs decision."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "jeju-muslim-friendly-dining-in-jeju-city": {
+    "src": "/images/cards/jeju-muslim-friendly-dining-in-jeju-city.jpg",
+    "fingerprint": "676b625b771f6e97632bcdb3945bff1423baca197869fb6e6092afabc096543f",
+    "sourceImage": "/images/editorial/jeju-muslim-friendly-dining-planning-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Jeju City Muslim-friendly dining planning diagram",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#food-jeju-muslim-friendly-planning-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original vector illustration. No third-party assets. Not a map or depiction of an actual restaurant."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "seoul-personal-shopper-galleria-concierge": {
+    "src": "/images/cards/seoul-personal-shopper-galleria-concierge.jpg",
+    "fingerprint": "e6659cf633dbdaa19ab7413a57066b97fba6f608955218730751bcdd558a12d1",
+    "sourceImage": "/images/editorial/seoul-galleria-personal-shopper-booking-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Booking a Galleria personal-shopping appointment",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#shopping-seoul-personal-shopper-booking-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original vector illustration with no third-party image assets. Not a store map or service guarantee."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "seoul-lantern-festival-2026-planning-guide": {
+    "src": "/images/cards/seoul-lantern-festival-2026-planning-guide.jpg",
+    "fingerprint": "0fb9ac04b7aee431d2a766331ef72a9b449f520db5cf58ca679c98215df4b747",
+    "sourceImage": "/images/editorial/seoul-lantern-festival-2026-route-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Seoul Lantern Festival 2026 endpoint planning diagram",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#culture-seoul-lantern-festival-2026",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial SVG, created in this repository with no external assets. Shows published endpoints only; it is not a geographic map or a live event display."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "jeongdongjin-2027-new-year-sunrise-festival-plan": {
+    "src": "/images/cards/jeongdongjin-2027-new-year-sunrise-festival-plan.jpg",
+    "fingerprint": "c4c2434c3da0ea0d284ec3592a22b4001ecd83d2c3f616a0619b02490d73523e",
+    "sourceImage": "/images/editorial/jeongdongjin-2027-sunrise-festival-plan-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Gangneung New Year sunrise event planning diagram",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#culture-gangneung-2027-sunrise",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial SVG, created in this repository with no external assets. It separates the two listed venues and does not depict an itinerary or venue-specific schedule."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "korea-grand-sale-2026": {
+    "src": "/images/cards/korea-grand-sale-2026.jpg",
+    "fingerprint": "d8b5b4a0750bb705345bd047f2ddcf5bfacf60dcb5b334cbf28f53b97e69e562",
+    "sourceImage": "/images/editorial/korea-grand-sale-2027-offer-checklist-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Korea Grand Sale offer verification checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#shopping-korea-grand-sale-2027",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial SVG, created in this repository with no external assets. It is a planning checklist, not an official coupon or a claim of provider participation."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "seoul-public-wifi-for-travelers-setup-and-map": {
+    "src": "/images/cards/seoul-public-wifi-for-travelers-setup-and-map.jpg",
+    "fingerprint": "37b0465551d841065b3fffad5c6c03bc4764f28fcb661dbb4d5a53ecd8bf5b7d",
+    "sourceImage": "/images/editorial/seoul-public-wifi-connection.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Seoul public Wi-Fi connection and access-point map",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#seoul-public-wifi-connection",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original in-repository vector illustration; no third-party assets. Not a live Wi-Fi coverage map or login-screen screenshot."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "finding-seoul-outdoor-drinking-water-fountains-arisu-map": {
+    "src": "/images/cards/finding-seoul-outdoor-drinking-water-fountains-arisu-map.jpg",
+    "fingerprint": "ad3ab8ae18775bb3d2371d99df44fd0c9bab8f65a3996a20001e445ff807273d",
+    "sourceImage": "/images/editorial/seoul-arisu-water-refill-map.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Seoul Arisu outdoor drinking-water fountain map aid",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#seoul-arisu-water-refill-map",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original in-repository vector illustration; no third-party assets. The map pins and status legend are illustrative, not live data."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "incheon-airport-baby-care-room-locations": {
+    "src": "/images/cards/incheon-airport-baby-care-room-locations.jpg",
+    "fingerprint": "2a702474f1b7b9320710eab1056a2965c7998ce30a7670a1b26eef91b5ac2aae",
+    "sourceImage": "/images/editorial/incheon-airport-baby-care-room-locations-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Incheon Airport baby-care-room terminal and zone planner",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#airport-incheon-baby-care-room-planning-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original vector schematic, no third-party assets; not an airport map."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "seoul-in-winter-complete-guide-ice-skating-and-more-2026": {
+    "src": "/images/cards/seoul-in-winter-complete-guide-ice-skating-and-more-2026.jpg",
+    "fingerprint": "36f4ab48ac71bc7442ca31b357c8000f40d58557347f99aa18f343cad6a9d315",
+    "sourceImage": "/images/editorial/seoul-winter-2026-27-season-planning-illustration.svg",
+    "credit": {
+      "kind": "illustration",
+      "title": "Seoul winter 2026–27 seasonal planning illustration",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#culture-seoul-winter-2026-27",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial SVG created in this repository with no external assets. It is a planning graphic, not a map, live schedule or official event artwork."
+    },
+    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
 }

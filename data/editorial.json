@@ -8797,5 +8797,1057 @@
     "heroMediaId": "seoul-snow-transit-check-sequence",
     "heroCaption": "Original decision diagram; not a map, live service display or a promise of a particular departure.",
     "experienceVersion": 2
+  },
+  "seoul-guide-for-deaf-and-hard-of-hearing-travelers-2026": {
+    "id": "guide:seoul-guide-for-deaf-and-hard-of-hearing-travelers-2026",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-17",
+    "answer": "Check sign-language support at each station and venue, prepare written communication, and confirm a specific service before visiting.",
+    "forWhom": "Deaf and hard-of-hearing international visitors planning time in Seoul",
+    "conditions": [
+      "Seoul's inventory is station-specific and does not confirm current device status or interpretation language.",
+      "Venue profiles are planning references; confirm the particular service and date directly with the operator."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "planning",
+      "accessibility",
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026",
+        "type": "interest",
+        "label": "Plan other access needs",
+        "reason": "Use the separate mobility guide to check step-free station, street and venue routes."
+      },
+      {
+        "slug": "first-trip-to-korea-planning-guide",
+        "type": "prepare",
+        "label": "Plan the wider trip",
+        "reason": "Coordinate dates, arrival details and saved addresses before setting up daily visits."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-station-accessibility-inventory",
+        "title": "Seoul Metropolitan Government: Subway Accessibility Facilities",
+        "url": "https://english.seoul.go.kr/service/movement/public-transportation/subway-accessibility-facilities/",
+        "checkedAt": "2026-11-17",
+        "note": "Station-by-station table includes sign-language video phone facility counts; not a live status or sign-language/language-service guarantee."
+      },
+      {
+        "id": "seoul-accessible-tourism-directory",
+        "title": "Seoul Metropolitan Government: Accessible Tourism",
+        "url": "https://english.seoul.go.kr/service/movement/accessible-tourism/",
+        "checkedAt": "2026-11-17",
+        "note": "Directory profiles include venue-specific access details; one example lists QR-linked sign-language interpretation video."
+      },
+      {
+        "id": "visit-seoul-accessibility",
+        "title": "Seoul Tourism: Accessibility",
+        "url": "https://english.visitseoul.net/accessibility",
+        "checkedAt": "2026-11-17",
+        "note": "Describes support systems for hearing and visually impaired visitors and warns that older/smaller stations may not have every facility."
+      }
+    ],
+    "shareFacts": [
+      "Seoul lists sign-language video phones by station; verify the exact stations you will use.",
+      "Ask venues to confirm interpreter or caption support for the specific date and session."
+    ],
+    "launchOrder": 1111,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Communication planning aid for a Seoul visit",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#seoul-hearing-access-support",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "sha256": "994DB52886F24F5E545CBBA8CB336737D84598AC4609B6926F685BDD6CE7291B",
+      "note": "Original in-repository SVG; no third-party assets. Illustrative planning aid, not a depiction of a specific station or service."
+    },
+    "heroMediaId": "seoul-hearing-access-support",
+    "heroCaption": "Illustrative communication-planning aid; check each station and venue for current support.",
+    "cardImageLabel": "Communication planning illustration",
+    "experienceVersion": 2
+  },
+  "incheon-airport-baggage-delivery-for-reduced-mobility-travelers": {
+    "id": "guide:incheon-airport-baggage-delivery-for-reduced-mobility-travelers",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-17",
+    "answer": "Verify eligibility and live delivery terms, book before departure, identify the bags at Incheon after customs, and confirm the hotel delivery window.",
+    "forWhom": "Eligible disabled or reduced-mobility travelers arriving through Incheon with checked baggage",
+    "conditions": [
+      "Easy Pickup is paid; the airport provides eligibility examples while current limits and fees are set in the live operator booking.",
+      "Meeting times, delivery windows, permitted bags and other booking requirements may change."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "arrival"
+    ],
+    "interests": [
+      "accessibility",
+      "planning",
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "luggage-storage-in-seoul-and-incheon-airport",
+        "type": "alternative",
+        "label": "Compare storage options",
+        "reason": "Use storage when you need a place to leave a bag; this service is airport-to-accommodation delivery."
+      },
+      {
+        "slug": "accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026",
+        "type": "prepare",
+        "label": "Plan step-free travel",
+        "reason": "Check your arrival route, hotel approach and other mobility access needs separately."
+      },
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "next",
+        "label": "Plan the ride to Seoul",
+        "reason": "Compare your airport transport after confirming how and when your bags will be delivered."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "incheon-easy-pickup",
+        "title": "Incheon International Airport: Easy Pickup (Baggage-free Service)",
+        "url": "https://www.airport.kr/ap_en/1478/subview.do",
+        "checkedAt": "2026-11-17",
+        "note": "Official airport description, eligibility examples, three-hour reservation lead time, booking route and inquiry channel."
+      },
+      {
+        "id": "goodlugg-accessible-baggage-free",
+        "title": "Goodlugg: Baggage-Free Service for Travelers with Reduced Mobility",
+        "url": "https://www.goodlugg.com/bf/disabled?language=en",
+        "checkedAt": "2026-11-17",
+        "note": "Operator workflow and live terms; check specific flight, arrival window, bag limits and exclusions before booking."
+      },
+      {
+        "id": "incheon-t-luggage",
+        "title": "Incheon International Airport: T-Luggage and T-Locker",
+        "url": "https://www.airport.kr/ap_en/1512/subview.do",
+        "checkedAt": "2026-11-17",
+        "note": "Official comparison reference for airport/station delivery and storage services, distinct from Easy Pickup."
+      }
+    ],
+    "shareFacts": [
+      "The airport says to reserve at least three hours before scheduled departure; verify current eligibility and service terms.",
+      "Keep essentials with you until your checked bags are delivered to the accommodation."
+    ],
+    "launchOrder": 1112,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Incheon arrival baggage-delivery sequence",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#incheon-accessible-baggage-delivery",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "sha256": "EF63A793D703A822CB085CDDBF9C13B507C208EDC70C25D7D369820AD3A728CA",
+      "note": "Original in-repository SVG; no third-party assets. Workflow illustration, not a live airport map or service guarantee."
+    },
+    "heroMediaId": "incheon-accessible-baggage-delivery",
+    "heroCaption": "Illustrative workflow only; confirm booking eligibility, handoff and delivery timing with the operator.",
+    "cardImageLabel": "Baggage delivery illustration",
+    "experienceVersion": 2
+  },
+  "bringing-personal-medication-into-korea-traveler-guide": {
+    "id": "guide:bringing-personal-medication-into-korea-traveler-guide",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-17",
+    "answer": "Check active ingredients and quantity against the current carry-in rule; controlled narcotic ingredients may require separate MFDS approval.",
+    "forWhom": "International visitors carrying personal-treatment medication into Korea",
+    "conditions": [
+      "The general six-bottle/three-month allowance took effect 12 November 2026 and does not override separate controlled-substance requirements.",
+      "The latest general-rule notice is in Korean; ask MFDS or Customs about products not clearly covered."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "arrival"
+    ],
+    "interests": [
+      "health",
+      "planning"
+    ],
+    "relations": [
+      {
+        "slug": "korean-pharmacies-otc-meds-tourists-2026",
+        "type": "interest",
+        "label": "Get help with medicine in Korea",
+        "reason": "That guide covers finding pharmacy or medical help after arrival, rather than bringing medicine through customs."
+      },
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "prepare",
+        "label": "Save health and emergency contacts",
+        "reason": "Know the local emergency and travel-information channels separately from customs rules."
+      },
+      {
+        "slug": "first-trip-to-korea-planning-guide",
+        "type": "prepare",
+        "label": "Add this to arrival prep",
+        "reason": "Check the medicine rules before final packing and departure."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kcs-personal-medicine-change-2026",
+        "title": "Korea Customs Service: Personal-treatment medicine carry-in change",
+        "url": "https://www.customs.go.kr/kcs/na/ntt/selectNttInfo.do?bbsId=1362&mi=2891&nttSn=10183043&nttSnUrl=9fb9787afeecb32cf250e3dcd7fc0d8b",
+        "checkedAt": "2026-11-17",
+        "note": "Published 11 November 2026; says from 12 November, qualifying medicines from a normal domestic or foreign medical system may be personally carried in up to six bottles or, for more than six, the three-month quantity under directions. Korean-language notice."
+      },
+      {
+        "id": "kcs-narcotic-medicines-warning",
+        "title": "Korea Customs Service: Warning on medicines containing narcotic ingredients",
+        "url": "https://www.customs.go.kr/english/cm/cntnts/cntntsView.do?cntntsId=7640&mi=13807",
+        "checkedAt": "2026-11-17",
+        "note": "English warning that legally sold foreign medicine may contain Korean-controlled narcotic ingredients and that approved self-treatment carriage uses a separate MFDS process."
+      },
+      {
+        "id": "mfds-drug-safety-english",
+        "title": "MFDS: Drug Safety Korea English portal",
+        "url": "https://nedrug.mfds.go.kr/eng/index",
+        "checkedAt": "2026-11-17",
+        "note": "Lists Permit To Bring In Narcotics For Self-treatment as an English portal function."
+      },
+      {
+        "id": "incheon-customs-medicine-guidance",
+        "title": "Incheon Main Customs: Medicines and health supplements",
+        "url": "https://www.customs.go.kr/incheon/cm/cntnts/cntntsView.do?cntntsId=5480&mi=12546",
+        "checkedAt": "2026-11-17",
+        "note": "Explains self-use quantities and exceptions requiring separate checks; Korean-language customs reference."
+      }
+    ],
+    "shareFacts": [
+      "The general self-treatment carry-in rule changed on 12 November 2026; recheck the current notice before travel.",
+      "Check ingredients, not just product names; narcotic ingredients can require separate MFDS approval."
+    ],
+    "launchOrder": 1113,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Personal medication entry checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#korea-personal-medicine-entry",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "sha256": "44CA4B4C533618063D05799908035F2CBBBE0FFDA5D94F68151881C5EFFFB143",
+      "note": "Original in-repository SVG; no third-party assets. Generic preparation diagram, not medical advice or a customs decision."
+    },
+    "heroMediaId": "korea-personal-medicine-entry",
+    "heroCaption": "Illustrative checklist; verify current law and medicine-specific requirements with Korean authorities.",
+    "cardImageLabel": "Medicine entry illustration",
+    "experienceVersion": 2
+  },
+  "jeju-muslim-friendly-dining-in-jeju-city": {
+    "id": "food-jeju-muslim-friendly-dining",
+    "categoryId": "food-dining",
+    "format": "place",
+    "checkedAt": "2026-11-17",
+    "answer": "For a meal in central Jeju City, use Visit Jeju's current listings for Mount Everest Restaurant Jeju and Warda Restaurant; the Mount Everest listing also reports a small prayer room. Confirm venue details and requirements directly because the pages do not display either venue's KTO certification category.",
+    "forWhom": "Muslim travelers staying or sightseeing in Jeju City old town who need a current halal-food lead and want to check prayer-room availability",
+    "conditions": [
+      "Venue information comes from Visit Jeju directory pages, not an independent visit; operating details can change.",
+      "Neither Visit Jeju listing displays a Korea Tourism Organization certification category.",
+      "Only the Mount Everest detail page reports a small prayer room; access and availability should be confirmed directly.",
+      "This is a Jeju City shortlist and does not cover Seogwipo or all of Jeju Island.",
+      "The Warda listing states a 16:00–17:00 break and Sunday closure; verify its full current opening schedule."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "food",
+      "halal",
+      "muslim-friendly",
+      "jeju"
+    ],
+    "relations": [
+      {
+        "slug": "jeju-island-complete-travel-guide-best-time-to-visit-2026",
+        "type": "prepare",
+        "label": "Plan the wider Jeju trip",
+        "reason": "This guide covers two Jeju City dining listings; use the island guide to decide whether the city fits your base and route."
+      },
+      {
+        "slug": "halal-korean-food-muslim-friendly-restaurants",
+        "type": "interest",
+        "label": "Explore Seoul halal dining",
+        "reason": "The related guide covers Seoul food options; this page adds a Jeju City-specific shortlist and prayer-room check."
+      }
+    ],
+    "tools": [],
+    "placeIds": [
+      "jeju-mount-everest-restaurant",
+      "jeju-warda-restaurant"
+    ],
+    "sources": [
+      {
+        "id": "kto-muslim-friendly-restaurant-categories",
+        "title": "Korea Tourism Organization — Muslim-friendly Travel",
+        "url": "https://english.visitkorea.or.kr/svc/thingsToDo/subMuslimFriendly.do?menuSn=231",
+        "checkedAt": "2026-11-17",
+        "note": "KTO category definitions: Halal Certified, Self-certified, Muslim Friendly and Pork-free; notes on possible alcohol sales and hotel restaurants serving pork; current restaurant/prayer-room map access."
+      },
+      {
+        "id": "visitjeju-mount-everest-restaurant-jeju",
+        "title": "Visit Jeju — Mount Everest Restaurant Jeju",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CNTS_300000000013035&menuId=DOM_000001818000000004",
+        "checkedAt": "2026-11-17",
+        "note": "Venue description, address, phone, coordinates, daily 11:00–23:00 listing, halal/vegan food description, nearby Dongmun Market and Tap-dong, and reported small prayer room. Korean page also checked for address."
+      },
+      {
+        "id": "visitjeju-warda-restaurant-jeju",
+        "title": "Visit Jeju — Warda Restaurant",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CNTS_200000000009854",
+        "checkedAt": "2026-11-17",
+        "note": "Venue description and halal dishes, address, phone, coordinates, listed 16:00–17:00 break and Sunday closure. Korean page also checked for address."
+      }
+    ],
+    "shareFacts": [
+      "Visit Jeju describes Mount Everest Restaurant Jeju as halal-friendly, with vegan options and a small prayer room; verify directly before relying on those services.",
+      "Visit Jeju describes Warda Restaurant as serving halal dishes; its page does not list a prayer room.",
+      "Neither of the two Visit Jeju listings displays a KTO restaurant certification category."
+    ],
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Jeju City Muslim-friendly dining planning diagram",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#food-jeju-muslim-friendly-planning-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original vector planning diagram, drawn in-repository with no third-party image assets. Not a map, venue photo or evidence of current restaurant appearance or availability. SHA-256: 3EAF2ED33633920543602772194FC666FF027F51A1EDD1FA072340D920A6F8DC."
+    },
+    "heroMediaId": "food-jeju-muslim-friendly-planning-illustration",
+    "heroCaption": "Original editorial planning diagram; not a map, venue photograph or live availability display.",
+    "cardImageLabel": "Illustration · planning aid",
+    "gallery": [],
+    "launchOrder": 1114
+  },
+  "seoul-personal-shopper-galleria-concierge": {
+    "id": "shopping-seoul-personal-shopper-concierge",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-17",
+    "answer": "Galleria LUXURY HALL lists a personal-shopping concierge for foreign customers. Its English page gives an English email contact, phone contact hours of 11:00–18:00, and the meeting point at WEST 5F Global VIP Lounge. It does not publish price, scope, service duration, lead time or eligibility rules; visitors should confirm these directly.",
+    "forWhom": "International visitors in Seoul who want an English-contactable department-store personal-shopping service for luxury or beauty shopping",
+    "conditions": [
+      "The verified service is at Galleria LUXURY HALL in Apgujeong; this is not a citywide shopper-tour directory.",
+      "The official concierge page does not publish price, service duration, product scope, lead time, membership or eligibility requirements.",
+      "The page publishes an English email route but does not explicitly promise that the appointment itself will be conducted in English.",
+      "Appointment availability and brand/product stock are not verified and must be confirmed with Galleria.",
+      "Store opening hours differ from the concierge contact window and should be checked for the visit date."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "shopping",
+      "k-beauty",
+      "personal-shopping",
+      "luxury"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-shopping-guide-myeongdong-to-gangnam",
+        "type": "prepare",
+        "label": "Choose your shopping district",
+        "reason": "Galleria is one Apgujeong service; compare shopping areas before committing time to this department store."
+      },
+      {
+        "slug": "duty-free-shopping-in-korea-complete-guide-2026",
+        "type": "next",
+        "label": "Check tax-refund steps",
+        "reason": "A personal-shopping appointment does not itself describe refund eligibility or handling; check the separate tax-refund process."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "galleria-concierge-official-english-service",
+        "title": "Galleria — Concierge Service",
+        "url": "https://dept.galleria.co.kr/en/global-service/concierge-service.html",
+        "checkedAt": "2026-11-17",
+        "note": "Personal-shopping service description for foreign customers; English email, Chinese/Japanese chat IDs, phone +82.2.3449.4484 with 11:00–18:00 contact hours, and meeting point at WEST 5F Global VIP Lounge. No published price, scope, duration, lead time or eligibility."
+      },
+      {
+        "id": "galleria-luxury-hall-public-transit",
+        "title": "Galleria — Public Transportation Directions",
+        "url": "https://dept.galleria.co.kr/en/store-info/luxuryhall/way/by-public-transportation",
+        "checkedAt": "2026-11-17",
+        "note": "WEST address at 343 Apgujeong-ro, Gangnam-gu, Seoul; Bundang Line Apgujeong Rodeo Station Exit 7 for WEST. Korean address confirmed from the Korean official route page."
+      },
+      {
+        "id": "galleria-luxury-hall-store-hours",
+        "title": "Galleria — Official English Site",
+        "url": "https://dept.galleria.co.kr/en",
+        "checkedAt": "2026-11-17",
+        "note": "Luxury Hall general opening hours shown as Monday–Thursday 10:30–20:00 and Friday–Sunday 10:30–20:30; holiday changes should be rechecked."
+      }
+    ],
+    "shareFacts": [
+      "Galleria LUXURY HALL lists a personal-shopping concierge for foreign customers at WEST 5F Global VIP Lounge.",
+      "The official page lists an English email contact and telephone contact hours of 11:00–18:00.",
+      "Price, duration, eligibility and appointment availability are not stated on the official page; confirm before planning around it."
+    ],
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Booking a Galleria personal-shopping appointment",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#shopping-seoul-personal-shopper-booking-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original vector planning diagram, drawn in-repository with no third-party image assets. Not a photograph, store map or guarantee of service availability. SHA-256: 207EB8F3C0E3FD501E27BE55859DB160C5D6D5CA137F76FEAADE6376462A685A."
+    },
+    "heroMediaId": "shopping-seoul-personal-shopper-booking-illustration",
+    "heroCaption": "Original editorial planning diagram; not a store map or service guarantee.",
+    "cardImageLabel": "Illustration · booking guide",
+    "gallery": [],
+    "launchOrder": 1115
+  },
+  "seoul-lantern-festival-2026-planning-guide": {
+    "id": "culture-seoul-lantern-festival-2026",
+    "categoryId": "culture-events",
+    "format": "seasonal",
+    "checkedAt": "2026-11-17",
+    "answer": "The Seoul Lantern Festival is listed for December 11, 2026–January 31, 2027, daily 18:00–23:00, along Cheonggyecheon from Cheonggye Plaza to Samilgyo Bridge; admission is free.",
+    "forWhom": "Visitors planning a central Seoul evening during the 2026–27 lantern festival",
+    "conditions": [
+      "This is a temporary seasonal event; check the organizer's latest notice for the visit date.",
+      "The published endpoint span is a planning cue, not a route-distance or one-way-flow guarantee.",
+      "The illustration is not a map, live display guide, or weather/operations report.",
+      "The existing Seoul winter guide covers this festival but has outdated and unsupported event details; lead editor should decide whether this replaces a section there or merits a separate event-specific URL."
+    ],
+    "regions": [
+      "Seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "winter",
+      "festivals",
+      "night-planning",
+      "culture"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-in-winter-complete-guide-ice-skating-and-more-2026",
+        "type": "interest",
+        "label": "Plan a wider winter stay",
+        "reason": "The winter guide covers broader seasonal choices; this page gives the current lantern event's verified dates and visit decisions."
+      },
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "next",
+        "label": "Fit the evening into Seoul",
+        "reason": "This event page handles one evening; the itinerary helps place it within a multi-day Seoul visit."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "visitseoul-lantern-festival-2026",
+        "title": "Seoul Tourism Organization: 2026 Seoul Lantern Festival",
+        "url": "https://english.visitseoul.net/eventsx/2026SeoulLanternFestival/ENPi0rhml",
+        "checkedAt": "2026-11-17",
+        "note": "Official page gives Dec 11, 2026–Jan 31, 2027, 18:00–23:00 daily, free admission, Cheonggye Plaza–Samilgyo Bridge, address and Gwanghwamun Station Exit 5. It links the festival organizer site for live notices."
+      },
+      {
+        "id": "visitkorea-lantern-festival-2026",
+        "title": "VISITKOREA: Seoul Lantern Festival",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90101",
+        "checkedAt": "2026-11-17",
+        "note": "Korea Tourism Organization page corroborates dates, daily hours, event span, host and free admission."
+      }
+    ],
+    "shareFacts": [
+      "The Seoul Tourism Organization lists the festival from December 11, 2026 through January 31, 2027, daily 18:00–23:00.",
+      "The published Cheonggyecheon span is Cheonggye Plaza to Samilgyo Bridge; admission is free.",
+      "Check the event organizer's latest notice and live transit before departure."
+    ],
+    "launchOrder": 1116,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Seoul Lantern Festival 2026 endpoint planning diagram",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#culture-seoul-lantern-festival-2026",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial SVG, created in this repository with no external assets. Shows published endpoints only; it is not a geographic map or a live event display."
+    },
+    "heroMediaId": "culture-seoul-lantern-festival-2026",
+    "heroCaption": "Original endpoint illustration; use the current official event page for directions and notices."
+  },
+  "jeongdongjin-2027-new-year-sunrise-festival-plan": {
+    "id": "culture-gangneung-2027-sunrise",
+    "categoryId": "culture-events",
+    "format": "seasonal",
+    "checkedAt": "2026-11-17",
+    "answer": "VISITKOREA currently lists Gangneung's 2027 New Year sunrise event for Dec 31, 2026–Jan 1, 2027, at Gyeongpo Beach and Jeongdongjin Sandglass Park; verify venue-by-venue times with Gangneung City before travel.",
+    "forWhom": "Visitors weighing an overnight New Year event in Gangneung",
+    "conditions": [
+      "The event-specific KTO listing currently shows the 2027 dates and two venues; a separate current municipal announcement was not independently verified in this research.",
+      "The listed night and morning program time blocks are not assigned to individual venues.",
+      "Transport, weather and event access can change; check the city and operators before travel."
+    ],
+    "regions": [
+      "Gangwon"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "winter",
+      "new-year",
+      "sunrise",
+      "festivals"
+    ],
+    "relations": [
+      {
+        "slug": "korea-s-most-photogenic-train-stations",
+        "type": "interest",
+        "label": "See the Jeongdongjin rail landmark",
+        "reason": "The photo-friendly station guide gives general landmark context; it does not cover the listed 2027 holiday event program."
+      },
+      {
+        "slug": "winter-activities-ski-resorts-and-ice-festivals",
+        "type": "interest",
+        "label": "Compare other winter events",
+        "reason": "The broad winter guide compares seasonal activities; this page narrows to one New Year overnight event."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "visitkorea-gangneung-new-year-sunrise-2027",
+        "title": "VISITKOREA: Jeongdongjin Sunrise Festival",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=89955",
+        "checkedAt": "2026-11-17",
+        "note": "Current KTO event-specific record lists the Dec 31, 2026–Jan 1, 2027 event dates, Gyeongpo Beach and Jeongdongjin Sandglass Park, 20:00–00:30 and Jan 1 06:00–08:00 program windows, free admission, Gangneung City as organizer and city inquiry contact. The record does not map time blocks to venues."
+      },
+      {
+        "id": "visitkorea-winter-festivals-2026-27",
+        "title": "VISITKOREA: 11 Winter Festivals to Enjoy in Korea 2026–2027",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1595020",
+        "checkedAt": "2026-11-17",
+        "note": "KTO overview identifies New Year sunrise events as evening Dec 31 through morning Jan 1 and cautions that seasonal event details can change."
+      },
+      {
+        "id": "gangneung-city-tour-official",
+        "title": "Gangneung City Official Tourism Site",
+        "url": "https://www.gn.go.kr/tour/index.do",
+        "checkedAt": "2026-11-17",
+        "note": "Listed as the organizer website by the KTO event-specific record; current specific 2027 city notice was not independently fetched in this research. Check for later operational updates."
+      }
+    ],
+    "shareFacts": [
+      "VISITKOREA currently lists the event for Dec 31, 2026–Jan 1, 2027 at two Gangneung venues.",
+      "The KTO listing gives night and morning program windows but does not assign them to a venue.",
+      "Confirm the latest Gangneung City notice and transport before purchasing."
+    ],
+    "launchOrder": 1117,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Gangneung New Year sunrise event planning diagram",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#culture-gangneung-2027-sunrise",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial SVG, created in this repository with no external assets. It separates the two listed venues and does not depict an itinerary or venue-specific schedule."
+    },
+    "heroMediaId": "culture-gangneung-2027-sunrise",
+    "heroCaption": "Original planning illustration; the two venues are separate and exact program locations must be checked."
+  },
+  "korea-grand-sale-2026": {
+    "id": "guide:korea-grand-sale-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-17",
+    "answer": "The official Korea Grand Sale site lists the 2027 campaign for foreign visitors from Dec 23, 2026 through Feb 13, 2027; offers span several travel categories, and each participating company's terms must be checked individually.",
+    "forWhom": "Foreign visitors comparing Korea Grand Sale offers before booking or shopping",
+    "conditions": [
+      "This is a rewrite of the existing /blog/korea-grand-sale-2026 URL; preserve that URL.",
+      "Offer inventory and provider terms can change during the campaign.",
+      "A category listing does not mean all providers or branches participate.",
+      "No specific discount is promised and campaign offers are not assumed to combine with tax refunds or other promotions."
+    ],
+    "regions": [
+      "Nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "arrival",
+      "departure"
+    ],
+    "interests": [
+      "shopping",
+      "winter",
+      "offers",
+      "trip-planning"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "next",
+        "label": "Choose a shopping area",
+        "reason": "The district guide helps choose where to shop; this one explains how to verify the event's current provider-specific offer terms."
+      },
+      {
+        "slug": "tax-refund-for-tourists-how-to-claim",
+        "type": "prepare",
+        "label": "Check tax-refund rules separately",
+        "reason": "A campaign discount and a tourist tax refund are separate processes; the refund guide covers the latter."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "korea-grand-sale-2027-official",
+        "title": "Korea Grand Sale: Official 2027 Campaign Site",
+        "url": "https://en.koreagrandsale.co.kr/kgs",
+        "checkedAt": "2026-11-17",
+        "note": "Current official homepage search result lists foreign visitors, Dec 23, 2026–Feb 13, 2027, seven offer categories, and instructs users to check benefit details with each participating company. Direct page fetch returned 502; do not report dynamic offer inventory as verified."
+      },
+      {
+        "id": "visitkorea-grand-sale-2027",
+        "title": "VISITKOREA: Korea Grand Sale",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=40029",
+        "checkedAt": "2026-11-17",
+        "note": "Opened successfully. Korea Tourism Organization lists Dec 23, 2026–Feb 13, 2027, offers nationwide and online, the Visit Korea Year Committee as organizer, and the Ministry of Culture, Sports and Tourism as host."
+      }
+    ],
+    "shareFacts": [
+      "The 2027 campaign is listed for foreign visitors from Dec 23, 2026 to Feb 13, 2027.",
+      "Offer categories include airlines/transport, shopping, accommodation, food/drink, beauty/health, experiences and convenience services.",
+      "Verify current eligibility, redemption steps and final price with the participating provider."
+    ],
+    "launchOrder": 1118,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Korea Grand Sale offer verification checklist",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#shopping-korea-grand-sale-2027",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial SVG, created in this repository with no external assets. It is a planning checklist, not an official coupon or a claim of provider participation."
+    },
+    "heroMediaId": "shopping-korea-grand-sale-2027",
+    "heroCaption": "Original offer-checklist illustration; verify every benefit with the participating company."
+  },
+  "seoul-public-wifi-for-travelers-setup-and-map": {
+    "id": "guide:seoul-public-wifi-for-travelers-setup-and-map",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-17",
+    "answer": "Use Seoul's official hotspot map, connect to SEOUL_Secure with seoul/seoul, and keep mobile data for places outside coverage.",
+    "forWhom": "Visitors who want free connectivity while exploring Seoul",
+    "conditions": [
+      "Public Wi-Fi is available only in covered locations; the official map is a location reference, not a live connectivity guarantee.",
+      "Sign-in screens vary by device; the latest public guide is in Korean and should be rechecked before travel."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "arrival",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "connectivity",
+      "planning",
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "esim-vs-usim-vs-portable-wi-fi-2026",
+        "type": "alternative",
+        "label": "Keep a mobile-data fallback",
+        "reason": "Compare paid data options for maps, reservations, and stops outside public Wi-Fi coverage."
+      },
+      {
+        "slug": "first-trip-to-korea-planning-guide",
+        "type": "prepare",
+        "label": "Prepare before departure",
+        "reason": "Save essential addresses and reservations offline before you depend on a connection."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-public-wifi-current-guide",
+        "title": "Seoul Metropolitan Government: Public Wi-Fi connection instructions",
+        "url": "https://news.seoul.go.kr/gov/archives/516134",
+        "checkedAt": "2026-11-17",
+        "note": "Modified 16 October 2026; lists covered public-space categories, secure and general SSIDs, shared one-time credentials, device-dependent WPA2/WPA3-Enterprise support, and inquiry number."
+      },
+      {
+        "id": "seoul-public-wifi-map",
+        "title": "Seoul Smart Map: Public Wi-Fi locations",
+        "url": "https://map.seoul.go.kr/smgis2/short/6OXzi",
+        "checkedAt": "2026-11-17",
+        "note": "Official map showing registered Seoul free public Wi-Fi locations; treated as a location aid, not live uptime confirmation."
+      },
+      {
+        "id": "visit-seoul-phone-internet",
+        "title": "Visit Seoul: Phone and Internet",
+        "url": "https://english.visitseoul.net/phone-Internet",
+        "checkedAt": "2026-11-17",
+        "note": "Used only for the general statement that Wi-Fi is available in many public places; dated hotspot counts and paid-rate examples were not reused."
+      }
+    ],
+    "shareFacts": [
+      "Seoul recommends SEOUL_Secure and lists seoul as both the one-time ID and password.",
+      "Use Seoul's official map to find registered access points; keep mobile data as a fallback."
+    ],
+    "launchOrder": 1119,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Seoul public Wi-Fi connection and access-point map",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#seoul-public-wifi-connection",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "sha256": "61A5523FD2FC93ADB00CEDB79D93CD6DE000402C9E1D4744A8276E59867AE440",
+      "note": "Original in-repository vector illustration; no third-party assets. Not a live Wi-Fi coverage map or login-screen screenshot."
+    },
+    "heroMediaId": "seoul-public-wifi-connection",
+    "heroCaption": "Original illustration; the official map and network prompts are the current sources.",
+    "cardImageLabel": "Public Wi-Fi illustration",
+    "experienceVersion": 2
+  },
+  "finding-seoul-outdoor-drinking-water-fountains-arisu-map": {
+    "id": "guide:finding-seoul-outdoor-drinking-water-fountains-arisu-map",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-17",
+    "answer": "Search the Arisu Map for 야외 음수대, inspect its water-status legend, and recheck the site because outdoor fountains may close seasonally.",
+    "forWhom": "Visitors walking, sightseeing, or spending time in Seoul parks who want a marked refill point",
+    "conditions": [
+      "The official Arisu Map interface is primarily Korean and fountain status and operation can change.",
+      "This guide addresses designated outdoor drinking-water fountains, not the plumbing at an individual accommodation or building."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "planning",
+      "outdoors",
+      "food"
+    ],
+    "relations": [
+      {
+        "slug": "finding-public-restrooms-in-korea-station-mall-and-accessible-facilities",
+        "type": "prepare",
+        "label": "Plan another useful stop",
+        "reason": "Check nearby restroom facilities as well when planning a long park visit or walking route."
+      },
+      {
+        "slug": "seoul-transportation-guide-for-tourists-2026",
+        "type": "next",
+        "label": "Plan how to reach the park",
+        "reason": "Choose your station and local transport before adding a fountain stop to the route."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-arisu-map",
+        "title": "Seoul Arisu Map: Outdoor drinking fountains and water information",
+        "url": "https://arisu.seoul.go.kr/arisumap/",
+        "checkedAt": "2026-11-17",
+        "note": "Live official map includes an outdoor-fountain layer and a legend for suitable, unsuitable, and under-inspection water-status labels."
+      },
+      {
+        "id": "seoul-arisu-fountain-location-page",
+        "title": "Seoul Water: Arisu fountain locations",
+        "url": "https://arisu.seoul.go.kr/home/sub?menukey=7325",
+        "checkedAt": "2026-11-17",
+        "note": "Official location page points users to the Arisu Map."
+      },
+      {
+        "id": "seoul-arisu-where-to-find",
+        "title": "Seoul Water: Where can you find Arisu?",
+        "url": "https://arisu.seoul.go.kr/eng/sub?menukey=8010",
+        "checkedAt": "2026-11-17",
+        "note": "English source describes Arisu as Seoul tap water and lists fountains at schools, public agencies and major parks including Hangang and World Cup parks."
+      },
+      {
+        "id": "seoul-outdoor-fountain-inspections-2026",
+        "title": "Seoul Arisu Headquarters: Outdoor fountain reopening and inspection plan",
+        "url": "https://arisu.seoul.go.kr/home/sub?dsn=1773792661-584-705&menukey=7205&mode=view",
+        "checkedAt": "2026-11-17",
+        "note": "12 March 2026 notice: some fountains paused for winter freeze prevention were scheduled to reopen on 15 March; city planned quarterly fountain testing and posting of results. This dated example supports the seasonal-status caveat."
+      }
+    ],
+    "shareFacts": [
+      "Search the Arisu Map for 야외 음수대 (outdoor drinking-water fountain), then check current status.",
+      "Seoul outdoor fountains can be paused over winter; keep another water option for long outings."
+    ],
+    "launchOrder": 1120,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Seoul Arisu outdoor drinking-water fountain map aid",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#seoul-arisu-water-refill-map",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "sha256": "63C8A872BC1E2F09448F9C343BAB8B87FCE4E9556B35D2D392B03ECED22758CE",
+      "note": "Original in-repository vector illustration; no third-party assets. The map pins and status legend are illustrative, not live data."
+    },
+    "heroMediaId": "seoul-arisu-water-refill-map",
+    "heroCaption": "Illustrative map and status legend only; check the live Arisu Map and fountain signage.",
+    "cardImageLabel": "Water refill planning illustration",
+    "experienceVersion": 2
+  },
+  "incheon-airport-baby-care-room-locations": {
+    "id": "airport-incheon-baby-care-rooms",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-17",
+    "answer": "Incheon Airport currently lists baby care rooms (nursing rooms) in both terminals, with location markers and a 24H label. Match the ticket's terminal, decide whether the family is in the general area, departure side or transfer lounge, and use the airport's live facility directory to confirm the route before walking.",
+    "forWhom": "Parents and caregivers traveling with babies or young children through Incheon Airport",
+    "conditions": [
+      "Facility names, locations and hours were checked on 2026-11-17; the airport's dynamic directory can change.",
+      "Some Terminal 2 Family Lounge entries show 00:00–00:00 in the hours field even though the room is labeled 24H; verify the exact entry before relying on it.",
+      "The directory does not describe every room's equipment, privacy layout or current availability.",
+      "The exact route depends on the traveler's terminal and whether they are in the general area, departure side or transfer lounge.",
+      "Gate and hall names are nearby landmarks, not a guarantee of the room's exact walking distance."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "arrival",
+      "departure"
+    ],
+    "interests": [
+      "family-travel",
+      "baby-care",
+      "nursing",
+      "airport"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-terminal-flight-check",
+        "type": "prepare",
+        "label": "Check the flight terminal",
+        "reason": "Room listings are separate for Terminal 1 and Terminal 2, so confirm the flight terminal before choosing a room."
+      },
+      {
+        "slug": "traveling-korea-with-kids-stroller-access-and-theme-park-tips-2026",
+        "type": "prepare",
+        "label": "Plan family travel in Korea",
+        "reason": "This guide covers the airport facility search; the family guide helps with stroller and destination planning beyond the terminal."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "incheon-airport-t1-baby-care-directory",
+        "title": "Incheon International Airport — Terminal 1 Facilities Directory",
+        "url": "https://www.airport.kr/ap_en/1536/subview.do?srchTerminalId=P01",
+        "checkedAt": "2026-11-17",
+        "note": "Current facility list labels baby-care/nursing rooms 24H, gives 1577-2600 and locations: near Arrival Halls B/E on 1F; check-in counters D/K on 3F; Gates 11, 22, 25, 29, 33 and 45 on 3F; East and West Transfer Lounges on 4F."
+      },
+      {
+        "id": "incheon-airport-t2-baby-care-directory",
+        "title": "Incheon International Airport — Terminal 2 Facilities Directory",
+        "url": "https://www.airport.kr/ap_en/1536/subview.do?srchTerminalId=P03",
+        "checkedAt": "2026-11-17",
+        "note": "Current facility list labels baby-care/nursing rooms 24H, gives 1577-2600 and locations: Arrival Halls A/B on 1F; Bus Stop 1 on B1F; Family Lounges East/West on 2F; west side of Departure Hall 1 and east side of Departure Hall 2 on 3F; Gates 221 and 278 on 3F; East Transfer Lounge on 3F. A few Family Lounge hours display 00:00–00:00."
+      }
+    ],
+    "shareFacts": [
+      "Incheon Airport's current facility directory lists baby care rooms in both T1 and T2 and labels entries 24H.",
+      "The room's location is tied to the terminal and airport zone; check general area, departure side or transfer lounge before walking.",
+      "Some T2 Family Lounge entries display 00:00–00:00; reconfirm the live entry or call 1577-2600."
+    ],
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Incheon Airport baby-care-room terminal and zone planner",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#airport-incheon-baby-care-room-planning-illustration",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original vector schematic, created in-repository without external image assets. Not an airport map or proof of a room's location/availability. SHA-256: 9D32E2739E1DBEDC50F1D7900516BFD91516B2D10632D602A6B535B2375EECF9."
+    },
+    "heroMediaId": "airport-incheon-baby-care-room-planning-illustration",
+    "heroCaption": "Original planning schematic; use the airport's live facility map for actual locations.",
+    "cardImageLabel": "Illustration · airport planning aid",
+    "gallery": [],
+    "launchOrder": 1121
+  },
+  "seoul-in-winter-complete-guide-ice-skating-and-more-2026": {
+    "id": "guide:seoul-in-winter-complete-guide-ice-skating-and-more-2026",
+    "categoryId": "culture-events",
+    "format": "seasonal",
+    "checkedAt": "2026-11-17",
+    "answer": "Seoul's 2026–27 winter festival is scheduled Dec 4–Jan 31 across multiple venues. The city lists Seoul Plaza skating Dec 18–Feb 9; confirm prices and daily operation before visiting.",
+    "forWhom": "Visitors planning winter events and possible ice skating in Seoul during 2026–27",
+    "conditions": [
+      "Preserve the existing /blog/seoul-in-winter-complete-guide-ice-skating-and-more-2026 URL and original date 2026-01-29.",
+      "The citywide festival announcement gives a date range and locations, not uniform nightly hours or a guarantee that every listed site runs daily.",
+      "The city announced rink dates and hours; this season’s prices and reservation rules remain unconfirmed.",
+      "The original SVG is an editorial planning illustration, not a map, route, live schedule or official event artwork."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring",
+      "getting-around"
+    ],
+    "interests": [
+      "winter",
+      "festivals",
+      "ice-skating",
+      "night-planning"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-lantern-festival-2026-planning-guide",
+        "type": "next",
+        "label": "Plan the lantern evening",
+        "reason": "This citywide winter guide gives the seasonal context; the separate festival guide covers the confirmed Cheonggyecheon event window and visit decisions."
+      },
+      {
+        "slug": "korea-winter-packing-checklist",
+        "type": "prepare",
+        "label": "Pack for outdoor time",
+        "reason": "The packing checklist covers preparation for the conditions a winter event visit may involve."
+      },
+      {
+        "slug": "korea-snow-advisory-travel-plan",
+        "type": "prepare",
+        "label": "Adapt to snow notices",
+        "reason": "The advisory plan helps travelers adjust plans when winter conditions change."
+      },
+      {
+        "slug": "walking-on-icy-sidewalks-in-korea",
+        "type": "prepare",
+        "label": "Prepare for slippery paths",
+        "reason": "The practical guide covers safe decisions for icy walking conditions."
+      },
+      {
+        "slug": "seoul-museums-and-exhibitions-planning-guide",
+        "type": "alternative",
+        "label": "Switch to an indoor visit",
+        "reason": "Use the museum and exhibition guide if outdoor plans become impractical."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-winter-festival-2026-city",
+        "title": "Seoul Metropolitan Government: 2026 Seoul Winter Festival announcement",
+        "url": "https://english.seoul.go.kr/the-fun-seoul-to-become-a-global-cultural-hub-hosting-festivals-all-year-round/",
+        "checkedAt": "2026-11-17",
+        "note": "The city announcement lists Dec 4, 2026–Jan 31, 2027 and locations including Hangang River, Gwanghwamun Square, Cheonggyecheon, Seoul Plaza, Bosingak Pavilion and DDP. It does not establish detailed schedules for each venue."
+      },
+      {
+        "id": "visitseoul-lantern-festival-2026",
+        "title": "Visit Seoul: 2026 Seoul Lantern Festival",
+        "url": "https://english.visitseoul.net/eventsx/2026SeoulLanternFestival/ENPi0rhml",
+        "checkedAt": "2026-11-17",
+        "note": "The Seoul Tourism Organization lists Dec 11, 2026–Jan 31, 2027, daily 18:00–23:00, Cheonggyecheon from Cheonggye Plaza to Samilgyo Bridge, free admission."
+      },
+      {
+        "id": "visitkorea-winter-festivals-2026-27",
+        "title": "VISITKOREA: 11 Winter Festivals to Enjoy in Korea 2026–2027",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1595020",
+        "checkedAt": "2026-11-17",
+        "note": "Korea Tourism Organization listing gives Seoul Light Gwanghwamun dates of Dec 11, 2026–Jan 3, 2027 at Gwanghwamun Square and summarizes the Seoul Lantern Festival."
+      },
+      {
+        "id": "seoul-plaza-2026-27-skating-notice",
+        "title": "Seoul Metropolitan Government: 2026–27 Seoul Plaza rink operating notice",
+        "url": "https://plaza.seoul.go.kr/archives/18954",
+        "checkedAt": "2026-11-17",
+        "note": "City planning notice lists dates and hours; price, rentals and booking require confirmation."
+      }
+    ],
+    "shareFacts": [
+      "Seoul's 2026 Winter Festival is listed for Dec 4, 2026–Jan 31, 2027 across multiple venues.",
+      "Visit Seoul lists the Seoul Lantern Festival for Dec 11, 2026–Jan 31, 2027, daily 18:00–23:00, along Cheonggyecheon.",
+      "Seoul lists skating from Dec 18, 2026 to Feb 9, 2027; confirm the current price and opening."
+    ],
+    "launchOrder": 1122,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "illustration",
+      "title": "Seoul winter 2026–27 seasonal planning illustration",
+      "author": "Korea Experience Editorial",
+      "sourceUrl": "https://koreaexperience.com/image-credits#culture-seoul-winter-2026-27",
+      "license": "All rights reserved",
+      "licenseUrl": "https://koreaexperience.com/terms",
+      "note": "Original editorial SVG created in this repository with no external assets. It summarizes the announced festival period and locations, and reminds readers to verify current operations; it is not a map or official event artwork."
+    },
+    "heroMediaId": "culture-seoul-winter-2026-27",
+    "heroCaption": "Original seasonal planning illustration; venue dates and operations must be checked with current official notices."
   }
 }

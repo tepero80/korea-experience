@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Incheon arrival baggage delivery steps</title>
+  <desc id="desc">An original sequence showing a traveler checking in a suitcase, meeting a baggage helper at the airport, and receiving it at a hotel.</desc>
+  <rect width="1200" height="800" rx="36" fill="#eef3f8"/>
+  <rect x="66" y="72" width="1068" height="656" rx="30" fill="#fff" stroke="#d6e0ea" stroke-width="4"/>
+  <text x="120" y="150" fill="#183b5b" font-family="Arial,sans-serif" font-size="30" font-weight="700">ARRIVE AT INCHEON WITH A BAGGAGE PLAN</text>
+  <path d="M336 371h524" stroke="#9fb9cf" stroke-width="12" stroke-linecap="round" stroke-dasharray="20 22"/>
+  <g transform="translate(140 224)">
+    <circle cx="120" cy="64" r="32" fill="#e4b18a"/>
+    <path d="M87 62q33-58 66 0" fill="#234a62"/>
+    <rect x="76" y="101" width="90" height="156" rx="30" fill="#3d8492"/>
+    <path d="M94 260v71m54-71v71" stroke="#234a62" stroke-width="18" stroke-linecap="round"/>
+    <rect x="187" y="188" width="96" height="124" rx="14" fill="#e9aa55" stroke="#9a642d" stroke-width="5"/>
+    <path d="M211 188v-23q0-23 24-23t24 23v23" fill="none" stroke="#9a642d" stroke-width="8"/>
+    <circle cx="209" cy="318" r="8" fill="#745a38"/><circle cx="260" cy="318" r="8" fill="#745a38"/>
+    <text x="36" y="382" fill="#244b63" font-family="Arial,sans-serif" font-size="22" font-weight="700">1 · Check the bag</text>
+    <text x="33" y="412" fill="#526878" font-family="Arial,sans-serif" font-size="18">Reserve before departure</text>
+  </g>
+  <g transform="translate(476 224)">
+    <rect x="18" y="30" width="250" height="252" rx="22" fill="#deedf4"/>
+    <path d="M58 104h170M58 151h170M58 198h104" stroke="#74a4bb" stroke-width="12" stroke-linecap="round"/>
+    <circle cx="144" cy="74" r="19" fill="#27716c"/>
+    <text x="14" y="382" fill="#244b63" font-family="Arial,sans-serif" font-size="22" font-weight="700">2 · Meet airport staff</text>
+    <text x="21" y="412" fill="#526878" font-family="Arial,sans-serif" font-size="18">Confirm bags after customs</text>
+  </g>
+  <g transform="translate(824 224)">
+    <path d="M47 104h230v177H47z" fill="#f4e3ce" stroke="#a8774b" stroke-width="5"/>
+    <path d="M27 105l135-76 135 76" fill="#cf9a68" stroke="#a8774b" stroke-width="6"/>
+    <rect x="137" y="167" width="54" height="114" fill="#fff"/>
+    <rect x="209" y="151" width="42" height="62" fill="#a6ced2"/>
+    <text x="32" y="382" fill="#244b63" font-family="Arial,sans-serif" font-size="22" font-weight="700">3 · Receive at lodging</text>
+    <text x="43" y="412" fill="#526878" font-family="Arial,sans-serif" font-size="18">Confirm delivery time</text>
+  </g>
+  <rect x="120" y="658" width="960" height="34" rx="17" fill="#e8eff5"/>
+  <text x="153" y="682" fill="#34566c" font-family="Arial,sans-serif" font-size="18">Service eligibility, arrival windows and fees can change; verify the operator’s live terms.</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Find a Seoul outdoor drinking-water fountain</title>
+  <desc id="desc">An original illustration of a refillable bottle beside a map pin and water-quality legend.</desc>
+  <rect width="1200" height="800" rx="36" fill="#eef6f4"/>
+  <rect x="72" y="70" width="1056" height="660" rx="32" fill="#fff" stroke="#d8e5e1" stroke-width="4"/>
+  <text x="128" y="148" fill="#174c4a" font-family="Arial,sans-serif" font-size="30" font-weight="700">FIND A DEDICATED WATER REFILL POINT</text>
+  <rect x="128" y="204" width="604" height="408" rx="24" fill="#edf4ef"/>
+  <path d="M168 282l121-38 97 36 78-32 103 39 115-42v263l-102 47-105-38-91 39-96-41-120 31z" fill="#d9e8dd" stroke="#aec8b7" stroke-width="4"/>
+  <path d="M193 331l100-30 83 34 91-39 86 32 96-37m-427 125l118-28 84 34 85-32 103 36 87-41m-422 106l113-25 96 36 89-33 89 31" fill="none" stroke="#b3cdbd" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="364" cy="342" r="24" fill="#2e7b72" stroke="#fff" stroke-width="6"/>
+  <path d="M364 391c-26-35-40-56-40-78a40 40 0 1 1 80 0c0 22-14 43-40 78z" fill="#2e7b72" stroke="#fff" stroke-width="5"/>
+  <circle cx="364" cy="313" r="11" fill="#fff"/>
+  <text x="168" y="584" fill="#325b52" font-family="Arial,sans-serif" font-size="18">Search the official Arisu Map for 야외 음수대</text>
+  <rect x="778" y="204" width="284" height="408" rx="24" fill="#f3f7fa"/>
+  <rect x="814" y="244" width="212" height="58" rx="14" fill="#d9efe8"/>
+  <circle cx="843" cy="273" r="12" fill="#2a8b6e"/>
+  <text x="870" y="280" fill="#255b4d" font-family="Arial,sans-serif" font-size="16" font-weight="700">마시기 적합</text>
+  <rect x="814" y="321" width="212" height="58" rx="14" fill="#f9e4df"/>
+  <circle cx="843" cy="350" r="12" fill="#bd5b50"/>
+  <text x="870" y="357" fill="#71433f" font-family="Arial,sans-serif" font-size="16" font-weight="700">부적합</text>
+  <rect x="814" y="398" width="212" height="58" rx="14" fill="#f8efcf"/>
+  <circle cx="843" cy="427" r="12" fill="#bd9742"/>
+  <text x="870" y="434" fill="#655630" font-family="Arial,sans-serif" font-size="16" font-weight="700">점검 중</text>
+  <path d="M831 511h178" stroke="#c5d4da" stroke-width="3"/>
+  <text x="818" y="551" fill="#536c73" font-family="Arial,sans-serif" font-size="16">Check the live status</text>
+  <rect x="128" y="650" width="934" height="42" rx="21" fill="#e3f0eb"/>
+  <text x="159" y="677" fill="#24554b" font-family="Arial,sans-serif" font-size="17">Illustrative example only — use the official map, not this diagram, for locations and status.</text>
+</svg>

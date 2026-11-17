@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Seoul Lantern Festival planning route</title>
+  <desc id="desc">Illustrative line between the published Cheonggye Plaza and Samilgyo Bridge festival endpoints, with winter evening planning checks.</desc>
+  <rect width="1200" height="800" fill="#f2f7f4"/>
+  <path d="M0 0h1200v10H0z" fill="#086b66"/>
+  <text x="70" y="92" font-family="Arial,sans-serif" font-size="24" font-weight="700" letter-spacing="3" fill="#286b75">SEOUL · DEC 11 — JAN 31</text>
+  <text x="70" y="158" font-family="Arial,sans-serif" font-size="48" font-weight="700" fill="#183b43">Plan one winter evening</text>
+  <path d="M175 382 C370 325 450 440 620 385 S890 330 1030 395" fill="none" stroke="#278f8a" stroke-width="18" stroke-linecap="round"/>
+  <path d="M242 360 C330 255 405 495 490 375 S640 280 720 389 S890 470 970 378" fill="none" stroke="#f0b34d" stroke-width="6" stroke-dasharray="8 18" stroke-linecap="round"/>
+  <circle cx="175" cy="382" r="25" fill="#183b43"/><circle cx="1030" cy="395" r="25" fill="#183b43"/>
+  <text x="90" y="452" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#183b43">Cheonggye Plaza</text>
+  <text x="910" y="465" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#183b43">Samilgyo Bridge</text>
+  <g font-family="Arial,sans-serif" fill="#183b43">
+    <rect x="100" y="560" width="290" height="116" rx="18" fill="#fff" stroke="#c4d9d3" stroke-width="3"/>
+    <rect x="455" y="560" width="290" height="116" rx="18" fill="#fff" stroke="#c4d9d3" stroke-width="3"/>
+    <rect x="810" y="560" width="290" height="116" rx="18" fill="#fff" stroke="#c4d9d3" stroke-width="3"/>
+    <text x="130" y="606" font-size="18" font-weight="700" letter-spacing="1">CHECK THE DATE</text><text x="130" y="644" font-size="22">Dec 11, 2026–Jan 31, 2027</text>
+    <text x="485" y="606" font-size="18" font-weight="700" letter-spacing="1">EVENING HOURS</text><text x="485" y="644" font-size="22">18:00–23:00 daily</text>
+    <text x="840" y="606" font-size="18" font-weight="700" letter-spacing="1">CHOOSE YOUR END</text><text x="840" y="644" font-size="22">Plan the return first</text>
+  </g>
+  <text x="70" y="746" font-family="Arial,sans-serif" font-size="17" fill="#54716e">Illustrative endpoint diagram · Not a geographic map or live event display</text>
+</svg>

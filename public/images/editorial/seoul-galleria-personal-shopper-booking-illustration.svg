@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Booking a personal-shopping appointment at Galleria Luxury Hall</title>
+  <desc id="desc">An original three-step diagram: contact the concierge, confirm appointment details, and go to the West building's fifth-floor Global VIP Lounge.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#f8f4ef"/><stop offset="1" stop-color="#ebe8f0"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="11" stdDeviation="14" flood-color="#2a2433" flood-opacity=".11"/></filter>
+  </defs>
+  <rect width="1200" height="800" rx="40" fill="url(#bg)"/>
+  <circle cx="1080" cy="103" r="122" fill="#e7d8ca" opacity=".72"/>
+  <path d="M0 623c182-81 319 65 473 6s303-75 455-9 202 39 272 8v172H0z" fill="#e4dfe8"/>
+  <text x="88" y="118" fill="#755f68" font-family="Arial, sans-serif" font-size="21" font-weight="700" letter-spacing="3">SEOUL · APGUJEONG</text>
+  <text x="88" y="184" fill="#2c2631" font-family="Arial, sans-serif" font-size="53" font-weight="700">Book with clarity</text>
+  <text x="88" y="229" fill="#695e6c" font-family="Arial, sans-serif" font-size="25">One official concierge · check the details first</text>
+  <path d="M250 420h683" stroke="#b99cac" stroke-width="8" stroke-linecap="round" stroke-dasharray="16 20"/>
+  <g filter="url(#shadow)">
+    <rect x="86" y="300" width="286" height="254" rx="26" fill="#fff"/>
+    <rect x="457" y="300" width="286" height="254" rx="26" fill="#fff"/>
+    <rect x="828" y="300" width="286" height="254" rx="26" fill="#fff"/>
+  </g>
+  <circle cx="229" cy="388" r="42" fill="#815d72"/>
+  <path d="M208 378h42v29h-42zM208 378l21 18 21-18" fill="none" stroke="#fff" stroke-width="4" stroke-linejoin="round"/>
+  <text x="130" y="474" fill="#2c2631" font-family="Arial, sans-serif" font-size="25" font-weight="700">1 · Contact</text>
+  <text x="130" y="511" fill="#695e6c" font-family="Arial, sans-serif" font-size="18">English by email</text>
+  <circle cx="600" cy="388" r="42" fill="#b17b63"/>
+  <path d="M580 389l13 13 27-29" fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="496" y="474" fill="#2c2631" font-family="Arial, sans-serif" font-size="25" font-weight="700">2 · Confirm</text>
+  <text x="488" y="511" fill="#695e6c" font-family="Arial, sans-serif" font-size="18">Fee · time · scope · language</text>
+  <circle cx="971" cy="388" r="42" fill="#487b72"/>
+  <path d="M951 407v-27l20-15 20 15v27h-13v-18h-14v18z" fill="none" stroke="#fff" stroke-width="4" stroke-linejoin="round"/>
+  <text x="878" y="474" fill="#2c2631" font-family="Arial, sans-serif" font-size="25" font-weight="700">3 · Visit West</text>
+  <text x="897" y="511" fill="#695e6c" font-family="Arial, sans-serif" font-size="18">5F Global VIP Lounge</text>
+  <rect x="86" y="600" width="1028" height="93" rx="23" fill="#342b39"/>
+  <text x="124" y="638" fill="#e4ccd9" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2">BEFORE YOU PLAN AROUND IT</text>
+  <text x="124" y="672" fill="#fff" font-family="Arial, sans-serif" font-size="22" font-weight="700">Availability, price and service details are not published; request confirmation.</text>
+  <text x="88" y="746" fill="#6a606d" font-family="Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="2">ORIGINAL EDITORIAL DIAGRAM · NOT A STORE MAP OR SERVICE GUARANTEE</text>
+</svg>
