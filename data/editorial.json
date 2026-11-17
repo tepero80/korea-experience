@@ -9845,7 +9845,8 @@
       "sourceUrl": "https://koreaexperience.com/image-credits#culture-seoul-winter-2026-27",
       "license": "All rights reserved",
       "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial SVG created in this repository with no external assets. It summarizes the announced festival period and locations, and reminds readers to verify current operations; it is not a map or official event artwork."
+      "note": "Original editorial SVG created in this repository with no external assets. It summarizes the announced festival period and locations, and reminds readers to verify current operations; it is not a map or official event artwork.",
+      "sha256": "3e6208e0d0219395ea7f8d3a79af82a0a266c70db8916e6ca01a7f08d879c4ee"
     },
     "heroMediaId": "culture-seoul-winter-2026-27",
     "heroCaption": "Original seasonal planning illustration; venue dates and operations must be checked with current official notices."

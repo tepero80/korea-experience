@@ -1691,7 +1691,7 @@
   },
   "seoul-in-winter-complete-guide-ice-skating-and-more-2026": {
     "src": "/images/cards/seoul-in-winter-complete-guide-ice-skating-and-more-2026.jpg",
-    "fingerprint": "36f4ab48ac71bc7442ca31b357c8000f40d58557347f99aa18f343cad6a9d315",
+    "fingerprint": "af5f9eb760924aec808f8bccc7fc51815263702ae59a282ac829fc594a573719",
     "sourceImage": "/images/editorial/seoul-winter-2026-27-season-planning-illustration.svg",
     "credit": {
       "kind": "illustration",
@@ -1700,7 +1700,8 @@
       "sourceUrl": "https://koreaexperience.com/image-credits#culture-seoul-winter-2026-27",
       "license": "All rights reserved",
       "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial SVG created in this repository with no external assets. It is a planning graphic, not a map, live schedule or official event artwork."
+      "note": "Original editorial SVG created in this repository with no external assets. It is a planning graphic, not a map, live schedule or official event artwork.",
+      "sha256": "3e6208e0d0219395ea7f8d3a79af82a0a266c70db8916e6ca01a7f08d879c4ee"
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
   }
