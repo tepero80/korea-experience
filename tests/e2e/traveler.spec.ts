@@ -251,6 +251,10 @@ test('search finds an arrival guide and Escape returns focus', async ({ page }) 
   await expect(
     dialog.getByRole('link').filter({ hasText: 'Incheon Airport to Your Hotel' }),
   ).toBeVisible();
+  await dialog.getByRole('searchbox').fill('incheon baby');
+  await expect(
+    dialog.getByRole('link').filter({ hasText: 'Incheon Airport Baby Care Rooms' }),
+  ).toBeVisible();
   await dialog.getByRole('searchbox').press('Escape');
   await expect(dialog).not.toBeVisible();
   await expect(trigger).toBeFocused();

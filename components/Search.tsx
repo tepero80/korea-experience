@@ -74,7 +74,11 @@ export default function Search({ variant = 'icon' }: { variant?: 'icon' | 'hero'
               (item.title.toLowerCase().includes(term) ? 8 : 0) +
               (item.excerpt.toLowerCase().includes(term) ? 2 : 0) +
               (item.content?.toLowerCase().includes(term) ? 1 : 0),
-            item.reviewed ? 5 : 0,
+            (item.reviewed ? 5 : 0) +
+              (/^(incheon|incheon airport|icn)$/.test(terms.join(' ')) &&
+              item.slug === 'airport-limousine-bus-vs-arex-express-train'
+                ? 8
+                : 0),
           ),
         }))
         .filter((x) => x.score > (x.item.reviewed ? 5 : 0))
