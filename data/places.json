@@ -484,5 +484,47 @@
     "sourceNote": "Address, coordinates and venue information from the official Visit Jeju listing; not independently visited. Coordinates identify the listing's venue point, not a verified accessible entrance.",
     "addressSource": "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_200000000009854",
     "visitorUrl": "https://www.visitjeju.net/en/detail/view?contentsid=CNTS_200000000009854"
+  },
+  {
+    "id": "vivaldi-ski-world",
+    "name": "Vivaldi Park Ski World",
+    "nameKo": "비발디파크 스키월드",
+    "address": "강원특별자치도 홍천군 서면 한치골길 262",
+    "latitude": 37.6451497,
+    "longitude": 127.68197090000001,
+    "region": "gangwon",
+    "description": "Resort overview marker. Use your operator’s instructions for the exact pickup or lesson meeting point.",
+    "officialUrl": "https://www.sonohotelsresorts.com/skiboard/info",
+    "visitorUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=587&vcontsId=110591",
+    "checkedAt": "2026-11-23",
+    "sourceNote": "Resort overview verified from https://api.openstreetmap.org/api/0.6/way/739049322/full.json. Address from Korea Tourism Organization."
+  },
+  {
+    "id": "mona-yongpyong-ski-resort",
+    "name": "MONA YongPyong Ski Resort",
+    "nameKo": "모나용평 스키장",
+    "address": "강원특별자치도 평창군 대관령면 올림픽로 715",
+    "latitude": 37.643,
+    "longitude": 128.682,
+    "region": "gangwon",
+    "description": "Resort overview marker. Use your operator’s instructions for the exact pickup or lesson meeting point.",
+    "officialUrl": "https://www.yongpyong.co.kr/eng/skiNboard/openStatusBoard.do",
+    "visitorUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111329",
+    "checkedAt": "2026-11-23",
+    "sourceNote": "Resort overview verified from https://www.wikidata.org/wiki/Special:EntityData/Q485409.json. Address from Korea Tourism Organization."
+  },
+  {
+    "id": "alpensia-ski-resort",
+    "name": "Alpensia Ski Resort",
+    "nameKo": "평창 알펜시아 리조트",
+    "address": "강원특별자치도 평창군 대관령면 솔봉로 325",
+    "latitude": 37.6572675,
+    "longitude": 128.6727681,
+    "region": "gangwon",
+    "description": "Resort overview marker. Use your operator’s instructions for the exact pickup or lesson meeting point.",
+    "officialUrl": "https://www.alpensia.com/ski/slope-now.do",
+    "visitorUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=90121",
+    "checkedAt": "2026-11-23",
+    "sourceNote": "Resort overview verified from https://api.openstreetmap.org/api/0.6/node/4679201523.json. Address from Korea Tourism Organization."
   }
 ]

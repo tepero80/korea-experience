@@ -485,6 +485,31 @@
       "downloadStatus": "downloaded",
       "selectionStatus": "published",
       "note": "Historical arrivals hall photograph."
+    },
+    {
+      "id": "yongpyong-ski-2013-panorama",
+      "title": "Ski slopes of YongPyong Resort, 2013-03-10.jpg",
+      "place": "MONA YongPyong Resort, Pyeongchang",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ski_slopes_of_YongPyong_Resort,_2013-03-10.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ski_slopes_of_YongPyong_Resort%2C_2013-03-10.jpg",
+      "author": "Kalatpadai",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercialReuse": true,
+      "attributionRequired": false,
+      "shareAlikeRequired": false,
+      "modificationRequirements": "Historical panorama from March 2013. A central section was cropped and resized for WebP and the social card.",
+      "description": "Snow-covered ski runs and the resort base at MONA YongPyong, photographed in March 2013",
+      "capturedAt": "2013-03",
+      "width": 5407,
+      "height": 1693,
+      "verifiedAt": "2026-11-23",
+      "verification": "Wikimedia Commons own-work CC0 licensing and visual review of the original. Month used due to filename/EXIF day difference.",
+      "localOriginal": ".private/media-originals/yongpyong-ski-slopes-kalatpadai.jpg",
+      "sha256": "9dadafb37bc1042ba3bbf735c28ebd2d8d9bd40f23d237f9968f098329e62dc3",
+      "downloadedBytes": 4949685,
+      "downloadStatus": "downloaded",
+      "selectionStatus": "published"
     }
   ],
   "excludedCandidates": [

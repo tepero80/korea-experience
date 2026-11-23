@@ -2859,5 +2859,24 @@
       "note": "Taken 13 October 2024. Resized and converted to WebP and cropped in the social preview card."
     },
     "originalHash": "0a54b62fb6c905d32af4f63712be158b855ff14ce185ee7c61d6c8b9c16ff4de"
+  },
+  {
+    "id": "yongpyong-ski-2013-panorama",
+    "src": "/images/editorial/yongpyong-ski-2013-1280.webp",
+    "srcSet": "/images/editorial/yongpyong-ski-2013-640.webp 640w, /images/editorial/yongpyong-ski-2013-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "originalId": "https://commons.wikimedia.org/wiki/File:Ski_slopes_of_YongPyong_Resort,_2013-03-10.jpg",
+    "originalHash": "9dadafb37bc1042ba3bbf735c28ebd2d8d9bd40f23d237f9968f098329e62dc3",
+    "alt": "Snow-covered ski runs and the resort base at MONA YongPyong, photographed in March 2013",
+    "credit": {
+      "kind": "photograph",
+      "title": "Ski slopes of YongPyong Resort, 2013-03-10.jpg",
+      "author": "Kalatpadai",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ski_slopes_of_YongPyong_Resort,_2013-03-10.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Historical panorama from March 2013. A central section was cropped and resized for WebP and the social card."
+    }
   }
 ]

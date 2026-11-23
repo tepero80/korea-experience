@@ -15,6 +15,8 @@ draft: false
 
 **For:** first-time skiers choosing public transport to a Korean resort. **Checked:** 9 November 2026. Resort examples are planning leads, not confirmed 2026–27 schedules.
 
+Still deciding where to ski? [Compare Vivaldi Park, Yongpyong and Alpensia](/blog/winter-ski-resorts-comparison-vivaldi-park-vs-yongpyong-vs-alpensia-2026) before picking a station or buying transport.
+
 ## Book the last connection, not only the train
 
 A train station with a resort shuttle is useful only if the shuttle runs on your date, accepts your group and equipment, and connects with both your arrival and return train. Before booking, ask the resort for the current timetable, pickup point, reservation or payment conditions, and any changes due to weather.

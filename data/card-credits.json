@@ -1779,5 +1779,20 @@
       "note": "Taken 13 October 2024. Resized and converted to WebP and cropped in the social preview card."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "winter-ski-resorts-comparison-vivaldi-park-vs-yongpyong-vs-alpensia-2026": {
+    "src": "/images/cards/winter-ski-resorts-comparison-vivaldi-park-vs-yongpyong-vs-alpensia-2026.jpg",
+    "fingerprint": "576328bb6335401fb7192967f7dcd6e1339727f473b1488a304e1c58454ded06",
+    "sourceImage": "/images/editorial/yongpyong-ski-2013-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Ski slopes of YongPyong Resort, 2013-03-10.jpg",
+      "author": "Kalatpadai",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ski_slopes_of_YongPyong_Resort,_2013-03-10.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Historical panorama from March 2013. A central section was cropped and resized for WebP and the social card."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

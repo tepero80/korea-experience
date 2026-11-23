@@ -10428,5 +10428,168 @@
       "note": "Taken 13 October 2024. Resized and converted to WebP and cropped in the social preview card."
     },
     "heroMediaId": "incheon-t2-reunions-2024"
+  },
+  "winter-ski-resorts-comparison-vivaldi-park-vs-yongpyong-vs-alpensia-2026": {
+    "id": "guide:winter-ski-resorts-comparison-vivaldi-park-vs-yongpyong-vs-alpensia-2026",
+    "experienceVersion": 2,
+    "categoryId": "places-itineraries",
+    "checkedAt": "2026-11-23",
+    "format": "decision",
+    "answer": "Choose Vivaldi Park if a confirmed return coach makes a day from Seoul practical. Choose MONA YongPyong for more terrain options, or Alpensia for a resort-village stay. Check open runs at your level before booking.",
+    "quickTitle": "Choose a ski day or stay",
+    "quickChoices": [
+      {
+        "label": "Seoul day trip",
+        "detail": "Check Vivaldi’s opening and return coach before paying."
+      },
+      {
+        "label": "More terrain choices",
+        "detail": "Check MONA YongPyong’s current lift and slope board."
+      },
+      {
+        "label": "Overnight with a lesson",
+        "detail": "Check Alpensia’s Alpha run, your instructor and the walk from the hotel."
+      }
+    ],
+    "forWhom": "International visitors comparing Hongcheon and Pyeongchang ski resorts for winter 2026–27",
+    "conditions": [
+      "Check service for your date, not just the published season dates.",
+      "Compare beginner slope, lesson language, lift access and transport as separate requirements."
+    ],
+    "regions": [
+      "gangwon"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "winter",
+      "skiing",
+      "family"
+    ],
+    "tools": [],
+    "placeIds": [
+      "vivaldi-ski-world",
+      "mona-yongpyong-ski-resort",
+      "alpensia-ski-resort"
+    ],
+    "relations": [
+      {
+        "slug": "ski-resort-train-shuttle",
+        "type": "next",
+        "label": "Book the last leg",
+        "reason": "Match the correct station, shuttle eligibility, and return to your own date."
+      },
+      {
+        "slug": "korea-winter-packing-checklist",
+        "type": "prepare",
+        "label": "Check your gear",
+        "reason": "Pack for slope time, cold waits and a warm recovery break."
+      },
+      {
+        "slug": "korea-cold-wave-travel-day-plan",
+        "type": "alternative",
+        "label": "If conditions change",
+        "reason": "Decide when to shorten or postpone a travel day in severe cold."
+      }
+    ],
+    "sources": [
+      {
+        "id": "ski-vivaldiStatus",
+        "title": "Vivaldi Park ski operating notice",
+        "url": "https://www.sonohotelsresorts.com/skiboard/info",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-vivaldiTransport",
+        "title": "Vivaldi Park transport and shuttle choices",
+        "url": "https://www.sonohotelsresorts.com/skiboard/location?isFooterFrom=Y",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-vivaldiCoach",
+        "title": "Vivaldi Park visitor shuttle booking",
+        "url": "https://vivabus.rideus.net/en/vivabus/",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-yongpyongOpen",
+        "title": "MONA YongPyong opening announcement",
+        "url": "https://www.yongpyong.co.kr/eng/about/newsRead.do?noticeId=1704",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-yongpyongStatus",
+        "title": "MONA YongPyong open slope board",
+        "url": "https://www.yongpyong.co.kr/eng/skiNboard/openStatusBoard.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-yongpyongTransfer",
+        "title": "MONA YongPyong ground transport",
+        "url": "https://www.yongpyong.co.kr/eng/about/car.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-alpensiaSlopes",
+        "title": "Alpensia Ski 700 trail levels",
+        "url": "https://www.alpensia.com/en/ski/introduction-slope.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-alpensiaStatus",
+        "title": "Alpensia current slope and lift status",
+        "url": "https://www.alpensia.com/ski/slope-now.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-alpensiaTransfer",
+        "title": "Alpensia ground transport and guest shuttle",
+        "url": "https://www.alpensia.com/en/guide/directions-shuttle.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-alpensiaPrices",
+        "title": "Alpensia lift fee and season notice",
+        "url": "https://m.alpensia.com/ski/use-cost-lift.do?lang=en",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-vivaldiAddress",
+        "title": "Korea Tourism Organization — Vivaldi Ski World",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=587&vcontsId=110591",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-yongpyongAddress",
+        "title": "Korea Tourism Organization — Yongpyong Ski Resort",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111329",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "ski-alpensiaAddress",
+        "title": "Korea Tourism Organization — Alpensia Ski Resort",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=90121",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the right slope and return transfer before paying.",
+      "Vivaldi for a viable day trip. Compare the two Pyeongchang bases for an overnight stay."
+    ],
+    "heroMediaId": "yongpyong-ski-2013-panorama",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Ski slopes of YongPyong Resort, 2013-03-10.jpg",
+      "author": "Kalatpadai",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ski_slopes_of_YongPyong_Resort,_2013-03-10.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Historical panorama from March 2013. A central section was cropped and resized for WebP and the social card."
+    },
+    "heroCaption": "MONA YongPyong ski slopes in March 2013. Historical photograph.",
+    "launchOrder": 1128,
+    "changeType": "rewrite"
   }
 }
