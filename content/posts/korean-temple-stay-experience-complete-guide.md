@@ -1,7 +1,7 @@
 ---
 title: "Korean Temple Stay Guide 2026: Best Programs, Costs & Etiquette"
 date: 2026-01-20
-excerpt: "A complete guide to 2026 Korean Temple Stays. Programs cost ₩50,000-₩100,000. Learn booking tips, etiquette, and the best temples for English speakers."
+excerpt: "Compare temple-stay formats and learn how to check each temple’s program, language support and booking requirements."
 category: Travel & Tourism
 author: Korea Experience Team
 tags:
@@ -14,7 +14,7 @@ tags:
   - "Mental Health"
 readTime: "18 min read"
 featured: true
-image: "/images/korean-temple-stay-experience-complete-guide.webp"
+image: /images/editorial/archive-eunpyeong-jingwansa-temple-hall-2022-1280.webp
 ---
 
 Can you find peace in one of the world's most hyper-connected countries? A Korean Temple Stay offers a profound answer to this question, inviting travelers to step out of the neon glare of Seoul and into the rhythmic serenity of monastic life. Whether you are seeking a spiritual reset, a cultural deep-dive, or simply a night away from your smartphone, the Temple Stay program—officially organized by the Cultural Corps of Korean Buddhism—provides an accessible yet transformative experience. Since its inception during the 2002 World Cup, over 6 million participants have donned the grey monastic vest, yet many international travelers still find the booking process and etiquette intimidating.

@@ -1,7 +1,7 @@
 ---
 title: "Historic kdrama sets folk villages and palaces travel guide"
 date: 2026-01-10
-excerpt: "Discover the best historic Kdrama sets folk villages and palaces. A comprehensive guide to filming locations for Kingdom, Mr. Sunshine, and The Red Sleeve."
+excerpt: "Compare historical drama locations, including Mungyeong Saejae’s open set, and check which sites admit visitors."
 category: K-Culture
 author: Korea Experience Team
 tags:
@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "12 min read"
 featured: false
-image: "/images/historic-kdrama-sets-folk-villages-and-palaces.webp"
+image: /images/editorial/archive-mungyeongsaejae-open-film-set-walkway-1280.webp
 ---
 
 For international fans of Korean culture, the allure of *Sageuk* (historical dramas) lies not just in the intricate plotlines, but in the breathtaking visual storytelling. Stepping onto historic Kdrama sets folk villages and palaces allows travelers to transcend the screen and walk the same soil as their favorite Joseon Dynasty characters. From the regal architecture of Seoul's grand palaces to the rustic charm of purpose-built folk villages in the provinces, these locations offer an immersive journey into Korea's past.

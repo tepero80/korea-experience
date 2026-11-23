@@ -26,8 +26,8 @@ export const REGIONS: readonly Region[] = [
       'seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style',
       'seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026',
       'eunpyeong-hanok-village-museum-bus',
-      'seodaemun-prison-history-hall-dongnimmun',
-      'oil-tank-culture-park-world-cup-stadium-station',
+      'seoul-battleship-park-mangwon-visit',
+      'seoul-grand-park-zoo-sky-lift-elephant-train',
       'national-museum-korea-first-permanent-gallery-visit',
     ],
     onward: [
@@ -126,7 +126,7 @@ export const REGIONS: readonly Region[] = [
     highlights: [
       'where-to-stay-in-jeju-without-a-car',
       'seongsan-ilchulbong-by-bus-from-jeju-city',
-      'jeju-airport-to-hamdeok-beach-by-bus',
+      'jeju-stone-park-first-route-by-bus',
       'seogwipo-cheonjiyeon-or-jeongbang-waterfall',
       'soesokkak-estuary-walk-or-boat',
       'jeju-winter-ferry-checklist-udo-gapa-marado',
@@ -161,7 +161,26 @@ export const REGIONS: readonly Region[] = [
       'jeonju-gyeonggijeon-omokdae-walking-route',
       'jeonju-nambu-market-eating-plan',
     ],
-    onward: [{ regionId: 'gwangju', reason: 'For a separate city day in Jeolla, choose between Gwangju’s Culture Center and National Museum.' }],
+    onward: [
+      { regionId: 'iksan', reason: 'Make a separate Baekje heritage stop at Mireuksa or Wanggung-ri. Check the railway and final transfer before setting out.' },
+      { regionId: 'gwangju', reason: 'For a separate city day in Jeolla, choose between Gwangju’s Culture Center and National Museum.' },
+    ],
+  },
+  {
+    id: 'iksan',
+    name: 'Iksan',
+    nameKo: '익산',
+    area: 'Jeolla',
+    coverMediaId: 'iksan-wanggung-ri-pagoda-close-view-2019',
+    intro: 'Explore Baekje at Mireuksa’s temple grounds and national museum, or walk the excavated palace landscape around Wanggung-ri’s stone pagoda.',
+    tip: 'Pick one site for a short stop. If you want both, confirm the transfer between them and the return to Iksan Station before you go.',
+    arrivalGuide: 'iksan-station-to-baekje-heritage-sites',
+    highlights: [
+      'iksan-national-museum-mireuksa-visit',
+      'iksan-wanggung-ri-baekje-palace-site',
+      'iksan-station-to-baekje-heritage-sites',
+    ],
+    onward: [{ regionId: 'jeonju', reason: 'Continue with a separate hanok and market outing. Confirm your rail or road connection before booking.' }],
   },
   {
     id: 'chuncheon',
@@ -251,6 +270,7 @@ export const REGIONS: readonly Region[] = [
       'gwangju-songjeong-station-to-asia-culture-center',
       'gwangju-airport-to-songjeong-station',
       'gwangju-national-museum-children-visit',
+      'gwangju-may-18-national-cemetery-bus-visit',
     ],
     onward: [
       { regionId: 'mokpo', reason: 'Choose a separate port or harbor day if your trip continues southwest.' },

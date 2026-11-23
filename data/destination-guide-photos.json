@@ -610,5 +610,53 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "seoul-battleship-park-mangwon-visit": {
+    "mediaId": "seoul-battleship-han-river-2025",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seoul-national-assembly-tour-reservations": {
+    "mediaId": "seoul-yeouido-national-assembly-front-2014",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seoul-grand-park-zoo-sky-lift-elephant-train": {
+    "mediaId": "gwacheon-seoul-zoo-africa-zone-2019",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "iksan-national-museum-mireuksa-visit": {
+    "mediaId": "iksan-mireuksaji-pagoda-2025",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "iksan-wanggung-ri-baekje-palace-site": {
+    "mediaId": "iksan-wanggung-ri-archaeological-grounds-2019",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "iksan-station-to-baekje-heritage-sites": {
+    "mediaId": "iksan-rail-station-exterior-2014",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "jeju-stone-park-first-route-by-bus": {
+    "mediaId": "jeju-stone-park-outdoor-stone-displays-2022",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "gwangju-may-18-national-cemetery-bus-visit": {
+    "mediaId": "gwangju-may-18-national-cemetery-flowers-2025",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

@@ -12065,6 +12065,12 @@
         "type": "next",
         "label": "Test an east-coast day trip",
         "reason": "Check which departure stops near your base and protects the ride back."
+      },
+      {
+        "slug": "jeju-stone-park-first-route-by-bus",
+        "type": "next",
+        "label": "Plan a bus trip to Jeju Stone Park",
+        "reason": "Check both directions of route 231 before committing to a park visit."
       }
     ],
     "tools": [
@@ -13818,6 +13824,12 @@
         "type": "prepare",
         "label": "Connect from Gwangju Airport",
         "reason": "If you start at the airport, check its walking and rail transfer instead."
+      },
+      {
+        "slug": "gwangju-may-18-national-cemetery-bus-visit",
+        "type": "next",
+        "label": "Plan a separate May 18 Cemetery visit",
+        "reason": "Use the 518 route and respect the cemetery’s visiting conditions."
       }
     ],
     "tools": [
@@ -20072,6 +20084,12 @@
         "type": "alternative",
         "label": "Use a confirmed indoor backup",
         "reason": "Walking between tanks is largely outdoors, and indoor access is programme-dependent."
+      },
+      {
+        "slug": "seoul-battleship-park-mangwon-visit",
+        "type": "interest",
+        "label": "See the Han River museum ship",
+        "reason": "Use the separate Mangwon approach if you want an outdoor waterfront visit."
       }
     ],
     "tools": [
@@ -21300,6 +21318,12 @@
         "type": "next",
         "label": "Check an arrival in Wonju",
         "reason": "Use your precise Gangwon rail stop before planning a taxi or bus."
+      },
+      {
+        "slug": "iksan-station-to-baekje-heritage-sites",
+        "type": "next",
+        "label": "Plan your Iksan station arrival",
+        "reason": "Compare the two heritage sites if your ticket takes you to Iksan."
       }
     ],
     "tools": [
@@ -21529,6 +21553,674 @@
       "author": "Masterhatch",
       "title": "Gwangalli Beach and Gwangan Bridge Busan.jpg",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangalli_Beach_and_Gwangan_Bridge_Busan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seoul-battleship-park-mangwon-visit": {
+    "id": "seoul-battleship-park-mangwon-visit",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Walk from Mangwon Station Exit 2 if you want the riverside approach. Use Exit 1 for Mapo 09, then walk from Hangang Park Entrance.",
+    "forWhom": "Visitors planning a west Seoul outing around a museum ship and an outdoor walk",
+    "conditions": [
+      "Check the museum calendar, waterfront conditions and interior access before leaving."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Hangang walks",
+      "museum ship",
+      "west Seoul"
+    ],
+    "relations": [
+      {
+        "slug": "oil-tank-culture-park-world-cup-stadium-station",
+        "type": "alternative",
+        "label": "Choose a separate west Seoul culture stop",
+        "reason": "Use World Cup Stadium Station for the Oil Tank Culture Park and check which spaces are open."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-hangang-battleship-park"
+    ],
+    "shareFacts": [
+      "Two Mangwon approaches",
+      "Winter closing time is 18:00",
+      "Check stairs before boarding"
+    ],
+    "sources": [
+      {
+        "id": "seoul-battleship-park-mangwon-visit-source-1",
+        "title": "Seoul Hangang Park visitor guide",
+        "url": "https://hangang.seoul.go.kr/www/contents/803.do?mid=527",
+        "note": "Bus stop, seasonal hours, holiday exceptions and adult admission.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-battleship-park-mangwon-visit-source-2",
+        "title": "VisitKorea walking route",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=229713",
+        "note": "Mangwon Station Exit 2 and walking estimate.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-battleship-park-mangwon-visit-source-3",
+        "title": "VisitKorea park listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=14671",
+        "note": "Park address and map overview.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1234,
+    "changeType": "new",
+    "heroMediaId": "seoul-battleship-han-river-2025",
+    "heroCaption": "The retired ROKS Seoul at Seoul Battleship Park in March 2025. The ship is visible from the waterfront.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Mztourist",
+      "title": "ROKS Seoul (FF-952) at Seoul Battleship Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ROKS_Seoul_(FF-952)_at_Seoul_Battleship_Park.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seoul-national-assembly-tour-reservations": {
+    "id": "seoul-national-assembly-tour-reservations",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Reserve the guided chamber visit online before the day. Confirm passport and language arrangements for your group and go to the rear tour reception.",
+    "forWhom": "Travelers considering a civic or architecture visit in Yeouido",
+    "conditions": [
+      "Availability depends on the session and booking requirements. Confirm overseas visitor and language arrangements with the operator."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Yeouido",
+      "guided visits",
+      "architecture"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-battleship-park-mangwon-visit",
+        "type": "alternative",
+        "label": "Plan a different Han River visit",
+        "reason": "Use the Mangwon museum ship for an outdoor option on a separate route."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-yeouido-national-assembly-building"
+    ],
+    "shareFacts": [
+      "Online reservation in advance",
+      "Bring every participant’s ID",
+      "Find rear building entrance 3"
+    ],
+    "sources": [
+      {
+        "id": "seoul-national-assembly-tour-reservations-source-1",
+        "title": "National Assembly visitor office",
+        "url": "https://reservation.assembly.go.kr/reserve/main/contents.do?menuNo=2200022",
+        "note": "Admission, schedule, identification and diagram of rear reception.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-national-assembly-tour-reservations-source-2",
+        "title": "National Assembly official booking",
+        "url": "https://reservation.assembly.go.kr/reserve/contents/booking/contentsView.do?sn=K20222349017984&menuNo=2200022",
+        "note": "Booking for the guided chamber visit.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-national-assembly-tour-reservations-source-3",
+        "title": "VisitKorea Assembly building",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111256",
+        "note": "Main building address and map overview.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1235,
+    "changeType": "new",
+    "heroMediaId": "seoul-yeouido-national-assembly-front-2014",
+    "heroCaption": "The National Assembly building from the front lawn in 2014. The guided tour reception is at the rear.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "clumsyforeigner",
+      "title": "National Assembly Building of the Republic of Korea.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Assembly_Building_of_the_Republic_of_Korea.png",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seoul-grand-park-zoo-sky-lift-elephant-train": {
+    "id": "seoul-grand-park-zoo-sky-lift-elephant-train",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "From Seoul Grand Park Station Exit 2, compare walking to the zoo with the Elephant Train. Check the operator before relying on the Sky Lift, whose last scheduled day is December 27, 2026.",
+    "forWhom": "Families and other visitors planning a zoo day from Seoul",
+    "conditions": [
+      "The zoo is in Gwacheon. Transport operates separately from zoo admission and may change with weather or works."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "family day out",
+      "parks",
+      "local transport"
+    ],
+    "relations": [
+      {
+        "slug": "national-museum-korea-first-permanent-gallery-visit",
+        "type": "alternative",
+        "label": "Keep an indoor alternative",
+        "reason": "Plan the National Museum as its own trip when weather makes the zoo grounds less appealing."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gwacheon-seoul-grand-park-overview"
+    ],
+    "shareFacts": [
+      "Use Line 4 Exit 2",
+      "Compare zoo access ride and walk",
+      "Sky Lift closure scheduled Dec 27"
+    ],
+    "sources": [
+      {
+        "id": "seoul-grand-park-zoo-sky-lift-elephant-train-source-1",
+        "title": "Seoul Grand Park Elephant Train",
+        "url": "https://grandpark.seoul.go.kr/conts/contsView/ko/S001001001004001.do",
+        "note": "Loop, stops, fare, access, and direction from the station.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-grand-park-zoo-sky-lift-elephant-train-source-2",
+        "title": "Seoul Grand Park Sky Lift",
+        "url": "https://grandpark.seoul.go.kr/conts/contsView/ko/S001001001004002.do",
+        "note": "Current facility and operating conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-grand-park-zoo-sky-lift-elephant-train-source-3",
+        "title": "Seoul Grand Park Sky Lift closure notice",
+        "url": "https://grandpark.seoul.go.kr/board/view/ch/S001001003007/B030.do?bbs_no=107230&pageIndex=1",
+        "note": "Scheduled December 27 closure and stated plans for a later replacement.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-grand-park-zoo-sky-lift-elephant-train-source-4",
+        "title": "VisitKorea zoo listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110774",
+        "note": "Park overview in Gwacheon.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1236,
+    "changeType": "new",
+    "heroMediaId": "gwacheon-seoul-zoo-africa-zone-2019",
+    "heroCaption": "The Africa Zone entrance inside Seoul Zoo in autumn 2019. This arch is already beyond the zoo entrance.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Ethan Doyle White",
+      "title": "Entrance to the Africa Zone at Seoul Grand Park Zoo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Africa_Zone_at_Seoul_Grand_Park_Zoo.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "iksan-national-museum-mireuksa-visit": {
+    "id": "iksan-national-museum-mireuksa-visit",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Start indoors at Iksan National Museum while it is open, then go to the adjacent Mireuksa Temple Site to see the restored stone pagoda.",
+    "forWhom": "Travelers who want a first Baekje heritage stop with an indoor option",
+    "conditions": [
+      "Check museum and outdoor site access separately. Children’s museum visits use separate arrangements."
+    ],
+    "regions": [
+      "iksan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Baekje heritage",
+      "national museums",
+      "stone pagodas"
+    ],
+    "relations": [
+      {
+        "slug": "iksan-station-to-baekje-heritage-sites",
+        "type": "prepare",
+        "label": "Choose transport from Iksan Station",
+        "reason": "Check directions and the return before leaving the rail station."
+      },
+      {
+        "slug": "iksan-wanggung-ri-baekje-palace-site",
+        "type": "next",
+        "label": "Visit Iksan’s other Baekje site",
+        "reason": "Allow time for a separate transfer to Wanggung-ri."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "iksan-national-museum-mireuksa"
+    ],
+    "shareFacts": [
+      "Free general museum admission",
+      "Last entry 17:30 on open days",
+      "Check Bus 41 or 41-1 and the return"
+    ],
+    "sources": [
+      {
+        "id": "iksan-national-museum-mireuksa-visit-source-1",
+        "title": "Iksan National Museum visitor information",
+        "url": "https://iksan.museum.go.kr/eng/html/sub01/0101.html",
+        "note": "Opening days, last admission, fees and separate children’s museum process.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "iksan-national-museum-mireuksa-visit-source-2",
+        "title": "Culture Ministry museum directions",
+        "url": "https://search.culture.go.kr/kor/html/sub01/0104.html",
+        "note": "Buses 41 and 41-1 from Iksan Station.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "iksan-national-museum-mireuksa-visit-source-3",
+        "title": "VisitKorea museum listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=83767",
+        "note": "Museum address and place overview.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1237,
+    "changeType": "new",
+    "heroMediaId": "iksan-mireuksaji-pagoda-2025",
+    "heroCaption": "The restored Mireuksa stone pagoda in 2025. The temple grounds are next to the indoor museum.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "LandAndTree",
+      "title": "Mireuksaji Stone Pagoda 20250224 (01).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mireuksaji_Stone_Pagoda_20250224_(01).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "iksan-wanggung-ri-baekje-palace-site": {
+    "id": "iksan-wanggung-ri-baekje-palace-site",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Wanggung-ri for the excavated palace grounds and the standing five-story pagoda. Check the Baekje Royal Palace Museum separately before relying on an indoor visit.",
+    "forWhom": "Travelers interested in Baekje archaeology and an open-air heritage walk",
+    "conditions": [
+      "The grounds and indoor museum may have different access conditions. Leave daylight for the walk."
+    ],
+    "regions": [
+      "iksan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Baekje heritage",
+      "archaeology",
+      "open-air sites"
+    ],
+    "relations": [
+      {
+        "slug": "iksan-station-to-baekje-heritage-sites",
+        "type": "prepare",
+        "label": "Plan the station transfer",
+        "reason": "Compare bus directions and the ride back before committing to the outing."
+      },
+      {
+        "slug": "iksan-national-museum-mireuksa-visit",
+        "type": "nearby",
+        "label": "Compare the Mireuksa museum and temple grounds",
+        "reason": "Pick the site that fits your day or arrange a separate transfer between them."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "iksan-wanggung-ri-archaeological-site"
+    ],
+    "shareFacts": [
+      "Bus 65 is listed by the heritage authority",
+      "Check museum and grounds separately",
+      "Allow daylight and a return margin"
+    ],
+    "sources": [
+      {
+        "id": "iksan-wanggung-ri-baekje-palace-site-source-1",
+        "title": "Korean Heritage route guide",
+        "url": "https://www.kh.or.kr/visit/en/road/3/view.do?key=2408010003",
+        "note": "Site, features, bus 65 and museum area.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "iksan-wanggung-ri-baekje-palace-site-source-2",
+        "title": "VisitKorea Wanggung-ri site",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=73417",
+        "note": "Address, site overview and separate visitor information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "iksan-wanggung-ri-baekje-palace-site-source-3",
+        "title": "Baekje Historic Areas World Heritage Center",
+        "url": "https://new.baekje-heritage.or.kr/html/en/info/info_030103.html",
+        "note": "History and archaeological features of the palace site.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1238,
+    "changeType": "new",
+    "heroMediaId": "iksan-wanggung-ri-archaeological-grounds-2019",
+    "heroCaption": "Wanggung-ri’s open archaeological grounds in 2019. The standing pagoda helps you orient yourself across the former compound.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Jjw",
+      "title": "Wanggungri Archeological Site 20190506001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wanggungri_Archeological_Site_20190506001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "iksan-station-to-baekje-heritage-sites": {
+    "id": "iksan-station-to-baekje-heritage-sites",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Mireuksa or Wanggung-ri before leaving Iksan Station. If you have a fixed departure, settle the return first and choose one site unless the second transfer is confirmed.",
+    "forWhom": "Rail travelers deciding how much heritage sightseeing fits an Iksan stop",
+    "conditions": [
+      "Check exact bus boarding and return times on the day. A train departure is a hard constraint."
+    ],
+    "regions": [
+      "iksan"
+    ],
+    "stages": [
+      "arrival"
+    ],
+    "interests": [
+      "rail arrivals",
+      "Baekje heritage",
+      "day trip planning"
+    ],
+    "relations": [
+      {
+        "slug": "iksan-national-museum-mireuksa-visit",
+        "type": "next",
+        "label": "Choose the museum and temple grounds",
+        "reason": "Use Mireuksa if indoor history is the main part of your visit."
+      },
+      {
+        "slug": "iksan-wanggung-ri-baekje-palace-site",
+        "type": "alternative",
+        "label": "Choose the open archaeological site",
+        "reason": "Use Wanggung-ri for the excavated landscape and pagoda."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Save the station at Iksan-daero 153",
+      "Mireuksa and Wanggung use different buses",
+      "Protect the return train first"
+    ],
+    "sources": [
+      {
+        "id": "iksan-station-to-baekje-heritage-sites-source-1",
+        "title": "Korail Retail Iksan address",
+        "url": "https://www.korailretail.com/content.do?menuNo=1070900",
+        "note": "Official rail-affiliated station address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "iksan-station-to-baekje-heritage-sites-source-2",
+        "title": "Korail train search",
+        "url": "https://smart.letskorail.com/ebizbf/EbizBfTicketSearchM.do?hidJobDv=NRM&lang=EN",
+        "note": "Current departure station, train and service.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "iksan-station-to-baekje-heritage-sites-source-3",
+        "title": "Culture Ministry museum directions",
+        "url": "https://search.culture.go.kr/kor/html/sub01/0104.html",
+        "note": "Mireuksa bus options.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "iksan-station-to-baekje-heritage-sites-source-4",
+        "title": "Korean Heritage route guide",
+        "url": "https://www.kh.or.kr/visit/en/road/3/view.do?key=2408010003",
+        "note": "Wanggung-ri bus connection.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1239,
+    "changeType": "new",
+    "heroMediaId": "iksan-rail-station-exterior-2014",
+    "heroCaption": "Iksan Station’s frontage in 2014. Follow current signs and ask station staff for pickup and platform directions.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Minseong Kim",
+      "title": "Iksan Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iksan_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "east"
+  },
+  "jeju-stone-park-first-route-by-bus": {
+    "id": "jeju-stone-park-first-route-by-bus",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Check the 231 bus in both directions, then start with the park’s first route and pick a turn-back point. Keep enough time to walk back to the bus stop.",
+    "forWhom": "Car-free Jeju visitors looking for a half-day museum and outdoor stone walk",
+    "conditions": [
+      "Long outdoor paths and transfers make wind, rain and the return service important."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Jeju buses",
+      "outdoor museums",
+      "stone landscapes"
+    ],
+    "relations": [
+      {
+        "slug": "where-to-stay-in-jeju-without-a-car",
+        "type": "prepare",
+        "label": "Choose a bus-friendly Jeju base",
+        "reason": "Check how the park outing fits your accommodation and other island trips."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-stone-park-entrance-area"
+    ],
+    "shareFacts": [
+      "Check route 231 each way",
+      "Use Course 1 as a starting point",
+      "Leave room for the walk back to the bus"
+    ],
+    "sources": [
+      {
+        "id": "jeju-stone-park-first-route-by-bus-source-1",
+        "title": "VisitJeju Stone Park course",
+        "url": "https://visitjeju.net/kr/detail/view?contentsid=CONT_000000000500547",
+        "note": "Official island tourism description of Course 1 and exhibits.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeju-stone-park-first-route-by-bus-source-2",
+        "title": "VisitKorea Stone Park listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=76736",
+        "note": "Park overview, listed visiting hours and last ticket sale.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeju-stone-park-first-route-by-bus-source-3",
+        "title": "Jeju bus timetable outbound",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2203",
+        "note": "Provincial 231 stop listing toward the park.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeju-stone-park-first-route-by-bus-source-4",
+        "title": "Jeju bus timetable return",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2206",
+        "note": "Provincial 231 listing in the other direction.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1240,
+    "changeType": "new",
+    "heroMediaId": "jeju-stone-park-outdoor-stone-displays-2022",
+    "heroCaption": "Outdoor stone displays at Jeju Stone Park in October 2022.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Bernard Gagnon",
+      "title": "Jeju Stone Park 04.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Stone_Park_04.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gwangju-may-18-national-cemetery-bus-visit": {
+    "id": "gwangju-may-18-national-cemetery-bus-visit",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the north Gwangju cemetery at 200 Minju-ro. Check the direction of bus 518 and plan to arrive by 17:00, as the cemetery asks visitors to allow time for their visit.",
+    "forWhom": "Visitors who want to pay respects and learn about the May 18 Democratic Uprising",
+    "conditions": [
+      "This is an active place of remembrance. Follow current directions and any ceremony or area restrictions."
+    ],
+    "regions": [
+      "gwangju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "May 18 remembrance",
+      "Gwangju history",
+      "city bus arrivals"
+    ],
+    "relations": [
+      {
+        "slug": "gwangju-songjeong-station-to-asia-culture-center",
+        "type": "prepare",
+        "label": "Get to the Culture Complex area",
+        "reason": "Plan your rail arrival separately if linking to bus 518 from downtown."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Use Minju-ro 200",
+      "Verify the 518 direction and return",
+      "Operator asks visitors to arrive by 17:00"
+    ],
+    "sources": [
+      {
+        "id": "gwangju-may-18-national-cemetery-bus-visit-source-1",
+        "title": "May 18 National Cemetery directions",
+        "url": "https://518.mpva.go.kr/518/contents.do?key=444",
+        "note": "Operator route and stop list for bus 518.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "gwangju-may-18-national-cemetery-bus-visit-source-2",
+        "title": "May 18 National Cemetery visiting guidance",
+        "url": "https://518.mpva.go.kr/518/contents.do?key=1795",
+        "note": "Hours, recommended latest arrival, address and visitor conduct.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "gwangju-may-18-national-cemetery-bus-visit-source-3",
+        "title": "VisitKorea May 18 National Cemetery listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=110989",
+        "note": "Address and named cemetery, distinct from the memorial park.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1241,
+    "changeType": "new",
+    "heroMediaId": "gwangju-may-18-national-cemetery-flowers-2025",
+    "heroCaption": "Flowers and small flags at the May 18 National Cemetery in June 2025. Visit the graves with care and respect.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "*Youngjin",
+      "title": "May 18th National Cemetery 20250629 04.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:May_18th_National_Cemetery_20250629_04.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."

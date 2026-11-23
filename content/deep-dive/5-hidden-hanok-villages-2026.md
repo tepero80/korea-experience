@@ -1,12 +1,12 @@
 ---
 title: "5 Hidden Hanok Villages in South Korea: 2026 Travel Guide"
 date: 2026-04-24
-excerpt: "Escape the crowds with our 2026 guide to 5 secret hanok villages. Discover 6000m of historic walls and authentic stays starting at just ₩50,000 per night."
+excerpt: "Compare five traditional villages, including Oeam in Asan, and choose a stop that fits your route and available time."
 category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 137
-image: "/images/5-hidden-hanok-villages.webp"
+image: /images/editorial/archive-asan-oeam-village-field-and-roofs-1280.webp
 ---
 
 So you want to experience a traditional Korean hanok village without fighting thousands of tourists for a single photo? Grab a cup of coffee, because we are about to show you five secret, history-packed villages where time literally stands still—and tell you exactly how to get there. 

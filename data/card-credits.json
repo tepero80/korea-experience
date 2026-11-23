@@ -3370,5 +3370,125 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoul-battleship-park-mangwon-visit": {
+    "src": "/images/cards/seoul-battleship-park-mangwon-visit.jpg",
+    "fingerprint": "84e7d4b9670e3f64f40134cae9f17b70b52dd126214adc72fcf4badfd2c1d718",
+    "sourceImage": "/images/editorial/seoul-battleship-han-river-2025-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Mztourist",
+      "title": "ROKS Seoul (FF-952) at Seoul Battleship Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ROKS_Seoul_(FF-952)_at_Seoul_Battleship_Park.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoul-national-assembly-tour-reservations": {
+    "src": "/images/cards/seoul-national-assembly-tour-reservations.jpg",
+    "fingerprint": "6598119a2e14e078ea191fcb394b4a119afedb3afd4ed471a9695f72764b700c",
+    "sourceImage": "/images/editorial/seoul-yeouido-national-assembly-front-2014-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "clumsyforeigner",
+      "title": "National Assembly Building of the Republic of Korea.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Assembly_Building_of_the_Republic_of_Korea.png",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoul-grand-park-zoo-sky-lift-elephant-train": {
+    "src": "/images/cards/seoul-grand-park-zoo-sky-lift-elephant-train.jpg",
+    "fingerprint": "af13ba1f4cdf95d05b204a631964f3f75ce979841b1dd239a12ff34ffe046624",
+    "sourceImage": "/images/editorial/gwacheon-seoul-zoo-africa-zone-2019-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Ethan Doyle White",
+      "title": "Entrance to the Africa Zone at Seoul Grand Park Zoo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_to_the_Africa_Zone_at_Seoul_Grand_Park_Zoo.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "iksan-national-museum-mireuksa-visit": {
+    "src": "/images/cards/iksan-national-museum-mireuksa-visit.jpg",
+    "fingerprint": "bbda93bed78c7007ba7e7c9d13a9caa3894052f0b710eabb9a7698dbe14da785",
+    "sourceImage": "/images/editorial/iksan-mireuksaji-pagoda-2025-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "LandAndTree",
+      "title": "Mireuksaji Stone Pagoda 20250224 (01).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mireuksaji_Stone_Pagoda_20250224_(01).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "iksan-wanggung-ri-baekje-palace-site": {
+    "src": "/images/cards/iksan-wanggung-ri-baekje-palace-site.jpg",
+    "fingerprint": "b5975cf58f5491e40b50fdc0547feade9aaf72254641bf1651ad2f879ad98b12",
+    "sourceImage": "/images/editorial/iksan-wanggung-ri-archaeological-grounds-2019-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Jjw",
+      "title": "Wanggungri Archeological Site 20190506001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wanggungri_Archeological_Site_20190506001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "iksan-station-to-baekje-heritage-sites": {
+    "src": "/images/cards/iksan-station-to-baekje-heritage-sites.jpg",
+    "fingerprint": "3454bd73d524b38c061ef328d29e9e9625b158a895a3d277100bee474df9e779",
+    "sourceImage": "/images/editorial/iksan-rail-station-exterior-2014-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Minseong Kim",
+      "title": "Iksan Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iksan_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jeju-stone-park-first-route-by-bus": {
+    "src": "/images/cards/jeju-stone-park-first-route-by-bus.jpg",
+    "fingerprint": "3ec337529a5fb6c921f3a5bdce62b0c6110e12b0d7331026eec625944cb21b3f",
+    "sourceImage": "/images/editorial/jeju-stone-park-outdoor-stone-displays-2022-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Bernard Gagnon",
+      "title": "Jeju Stone Park 04.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Stone_Park_04.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gwangju-may-18-national-cemetery-bus-visit": {
+    "src": "/images/cards/gwangju-may-18-national-cemetery-bus-visit.jpg",
+    "fingerprint": "bdb4e6dfe7ea10210ae8a16d387af982c636c01dbd3bb0c666649a767480a909",
+    "sourceImage": "/images/editorial/gwangju-may-18-national-cemetery-flowers-2025-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "*Youngjin",
+      "title": "May 18th National Cemetery 20250629 04.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:May_18th_National_Cemetery_20250629_04.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

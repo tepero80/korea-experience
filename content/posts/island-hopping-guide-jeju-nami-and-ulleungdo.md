@@ -1,7 +1,7 @@
 ---
 title: "Island Hopping in Korea: Complete Guide to Jeju, Nami, and Ulleungdo"
 date: 2026-01-12
-excerpt: "Discover how to visit Korea's top three islands. Detailed 2026 guide covering Nami's day trips, Jeju's flights from ₩45,000, and Ulleungdo's ferries."
+excerpt: "Compare the ferry trip to Nami, transport options for Jeju, and the extra planning an Ulleungdo crossing can require."
 category: Travel & Tourism
 author: Korea Experience Team
 tags:
@@ -14,7 +14,7 @@ tags:
   - "Korean Culture"
 readTime: "16 min read"
 featured: false
-image: "/images/island-hopping-guide-jeju-nami-and-ulleungdo.webp"
+image: /images/editorial/archive-namiseom-ferry-boarding-2011-1280.webp
 ---
 
 Korea’s geography is defined by its peninsula nature, but its true scenic diversity lies in its islands. For international travelers, "island hopping" in Korea doesn't typically mean a single boat ride connecting archipelago points; rather, it involves distinct journeys to three radically different environments: the river-bound romance of **Nami Island**, the volcanic vacation capital of **Jeju Island**, and the mysterious, rugged frontier of **Ulleungdo**.
