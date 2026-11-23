@@ -748,5 +748,17 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "visiting-cheongwadae-blue-house-2026": {
+    "mediaId": "archive-cheongwadae-sarangchae-entrance-2014",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seongsu-popup-guide-2026": {
+    "mediaId": "seongsu",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 1
   }
 }

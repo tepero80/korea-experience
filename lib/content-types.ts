@@ -45,7 +45,7 @@ export interface EditorialGuide {
   heroMediaId?: string;
   heroCaption?: string;
   cardImageLabel?: string;
-  cardImageCrop?: 'east' | 'west';
+  cardImageCrop?: 'east' | 'west' | 'contain';
   experienceVersion?: 2;
   gallery?: { src: string; alt: string; credit: MediaCredit }[];
 }

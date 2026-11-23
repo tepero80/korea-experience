@@ -68,10 +68,11 @@ async function main() {
   ]) {
     const details = 'editorial' in post ? post.editorial : undefined;
     const credit = media.find((m) => m.src === post.image)?.credit;
+    const crop = details?.cardImageCrop;
     const photo = await sharp('public' + post.image)
-      .resize(400, 630, {
-        fit: credit?.kind === 'illustration' ? 'contain' : 'cover',
-        position: details?.cardImageCrop,
+      .resize(400, crop === 'contain' ? 500 : 630, {
+        fit: credit?.kind === 'illustration' || crop === 'contain' ? 'contain' : 'cover',
+        position: crop === 'contain' ? undefined : crop,
         background: editorialColors.wash,
       })
       .png()

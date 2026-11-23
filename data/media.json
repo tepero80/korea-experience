@@ -38,7 +38,12 @@
     "src": "/images/editorial/seongsu.webp",
     "width": 1600,
     "height": 1200,
-    "alt": "Seongsu-dong",
+    "alt": "A café entrance under a brown canopy beside storefronts in Seongsu-dong, Seoul.",
+    "focal": "56% 59%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seongsu-dong_storefronts.jpg",
+    "originalHash": "f73f96b88f0f7d812d28e56e95127510d5ae69fa8813bedd6d10a4121da32e96",
+    "capturedAt": "2022-08-25",
+    "checkedAt": "2026-11-24",
     "credit": {
       "kind": "photograph",
       "title": "Seongsu-dong storefronts.jpg",
@@ -9082,5 +9087,49 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
     },
     "capturedAt": "2022-11-26"
+  },
+  {
+    "id": "archive-cheongwadae-sarangchae-entrance-2014",
+    "src": "/images/editorial/archive-cheongwadae-sarangchae-entrance-2014-1280.webp",
+    "srcSet": "/images/editorial/archive-cheongwadae-sarangchae-entrance-2014-640.webp 640w, /images/editorial/archive-cheongwadae-sarangchae-entrance-2014-1280.webp 1280w",
+    "width": 1280,
+    "height": 774,
+    "alt": "The glass front, gray wall and flagpoles outside the Cheongwadae Sarangchae visitor entrance.",
+    "focal": "54% 100%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Korea_Cheongwadae_Sarangchae_02_(14276967121).jpg",
+    "originalHash": "d18ace6067ef5590b91cf5cfc6b7a585bb5201b40beda8c920ecb90568a65ea1",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+      "title": "Korea Cheongwadae Sarangchae 02 (14276967121).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea_Cheongwadae_Sarangchae_02_(14276967121).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Korea.net mark retained in the full photograph. Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2014-05-26"
+  },
+  {
+    "id": "archive-cheongwadae-public-opening-2024",
+    "src": "/images/editorial/archive-cheongwadae-public-opening-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-cheongwadae-public-opening-2024-640.webp 640w, /images/editorial/archive-cheongwadae-public-opening-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "The blue-roofed Cheongwadae main building beyond a lawn during public visiting in July 2024.",
+    "focal": "50% 53%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:20240720_cheongwadae_main_building_01.jpg",
+    "originalHash": "a97ec40a4b3d3eabf892d88a3b1808293c11f8e07672962face75263d3b1e245",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "*Youngjin",
+      "title": "20240720 cheongwadae main building 01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20240720_cheongwadae_main_building_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2024-07-20"
   }
 ]

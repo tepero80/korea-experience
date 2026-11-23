@@ -3687,5 +3687,35 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "visiting-cheongwadae-blue-house-2026": {
+    "src": "/images/cards/visiting-cheongwadae-blue-house-2026.jpg",
+    "fingerprint": "5466d6395266fd95c79695df34680f97226716887439be17f8e8a21dc88732cc",
+    "sourceImage": "/images/editorial/archive-cheongwadae-sarangchae-entrance-2014-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+      "title": "Korea Cheongwadae Sarangchae 02 (14276967121).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea_Cheongwadae_Sarangchae_02_(14276967121).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Korea.net mark retained in the full photograph. Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seongsu-popup-guide-2026": {
+    "src": "/images/cards/seongsu-popup-guide-2026.jpg",
+    "fingerprint": "b3a7e011b7bfd21972f579155b9bbbec660410bd4f1f1777d49f83cd0bfcfda8",
+    "sourceImage": "/images/editorial/seongsu.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seongsu-dong storefronts.jpg",
+      "author": "CartoonChess",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seongsu-dong_storefronts.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Resized and converted to WebP. Photographed 2022-08-25. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

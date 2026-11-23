@@ -23323,5 +23323,183 @@
     "gallery": [],
     "experienceVersion": 2,
     "cardImageLabel": "Imjingak · November 2022"
+  },
+  "visiting-cheongwadae-blue-house-2026": {
+    "id": "guide:visiting-cheongwadae-blue-house-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Public tours of the Blue House compound are suspended according to official tourism notices. The separate Cheongwadae Sarangchae exhibition hall publishes free, walk-in admission.",
+    "forWhom": "Visitors planning a Cheongwadae or northwest Jongno outing",
+    "conditions": [
+      "Check the latest official access notice and Sarangchae’s own opening day before leaving."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Seoul museums",
+      "Korean history",
+      "indoor stops"
+    ],
+    "relations": [
+      {
+        "slug": "gyeongbokgung-to-tongin-market-lunch",
+        "type": "next",
+        "label": "Continue toward Tongin Market",
+        "reason": "Use a nearby lunch route and check the market’s active hours."
+      },
+      {
+        "slug": "korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026",
+        "type": "alternative",
+        "label": "Choose a palace with public entry",
+        "reason": "Compare official opening and reservation conditions before going."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Blue House public tours suspended",
+      "Sarangchae is a separate free visit",
+      "Last admission 17:30 on usual days"
+    ],
+    "sources": [
+      {
+        "id": "guide:visiting-cheongwadae-blue-house-2026-source-1",
+        "title": "VisitKorea Blue House public closure notice",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=230192",
+        "note": "Public-tour suspension from August 1, 2025.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:visiting-cheongwadae-blue-house-2026-source-2",
+        "title": "Visit Seoul Cheongwadae listing",
+        "url": "https://english.visitseoul.net/attractions/Cheongwadae/ENP005538",
+        "note": "The listing retains its public closure notice alongside historical hours.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:visiting-cheongwadae-blue-house-2026-source-3",
+        "title": "Sarangchae visitor information",
+        "url": "https://cwdsarangchae.kr/ko/staticpage/guide/visitor/page.kto",
+        "note": "Regular opening, closures, last admission and walk-in entry.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:visiting-cheongwadae-blue-house-2026-source-4",
+        "title": "Sarangchae official directions",
+        "url": "https://cwdsarangchae.kr/ko/staticpage/introduction/directions/page.kto",
+        "note": "Korean address and the Gyeongbokgung Station approach.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1255,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-cheongwadae-sarangchae-entrance-2014",
+    "heroCaption": "The Cheongwadae Sarangchae visitor entrance in May 2014. Check the exhibition hall’s website for current displays and opening days.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+      "title": "Korea Cheongwadae Sarangchae 02 (14276967121).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea_Cheongwadae_Sarangchae_02_(14276967121).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Korea.net mark retained in the full photograph. Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Sarangchae · May 2014"
+  },
+  "seongsu-popup-guide-2026": {
+    "id": "guide:seongsu-popup-guide-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Pick an event with a dated organizer listing and confirm the exact entry process. Keep a nearby exhibition, meal or walk as a backup if the event fills up.",
+    "forWhom": "Visitors choosing a rotating event in Seongsu",
+    "conditions": [
+      "An address may host different events week to week. Entry approval, phone requirements and hours depend on each organizer."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "pop-ups",
+      "Seongsu",
+      "Seoul shopping"
+    ],
+    "relations": [
+      {
+        "slug": "seongsu-dong-dior-luxury-vs-market-eats-in-24-hours",
+        "type": "next",
+        "label": "Build a Seongsu half-day",
+        "reason": "Fit one event into a flexible meal and neighborhood outing."
+      },
+      {
+        "slug": "seoul-forest-station-short-park-walk",
+        "type": "alternative",
+        "label": "Take a shorter park walk",
+        "reason": "Keep an outdoor alternative near the neighborhood."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seongsu-station"
+    ],
+    "shareFacts": [
+      "Match the exact organizer and date",
+      "Confirm the entry process first",
+      "Keep a nearby fallback"
+    ],
+    "sources": [
+      {
+        "id": "guide:seongsu-popup-guide-2026-source-1",
+        "title": "Visit Seoul Yeonmujang-gil",
+        "url": "https://english.visitseoul.net/shopping/Yeonmujang-gil/ENP7u7jrk",
+        "note": "Neighborhood orientation and variable merchant schedules.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:seongsu-popup-guide-2026-source-2",
+        "title": "Visit Seoul Musinsa at Daelim Changgo",
+        "url": "https://english.visitseoul.net/other/2024-musinsa-daelim/ENPnh3bjr",
+        "note": "Seongsu Exit 3 approach and a venue for changing exhibitions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:seongsu-popup-guide-2026-source-3",
+        "title": "Visit Seoul Musinsa Terrace Seongsu",
+        "url": "https://english.visitseoul.net/other/MusinsaTerraceSeongsu/ENP58m9lc",
+        "note": "Exit 4 approach and a separate event venue.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1256,
+    "changeType": "rewrite",
+    "heroMediaId": "seongsu",
+    "heroCaption": "A Seongsu-dong café and neighboring storefronts photographed in August 2022. This street photo provides neighborhood context.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Seongsu-dong storefronts.jpg",
+      "author": "CartoonChess",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seongsu-dong_storefronts.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "note": "Resized and converted to WebP. Photographed 2022-08-25. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Seongsu street · August 2022"
   }
 }
