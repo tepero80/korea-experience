@@ -25,6 +25,7 @@ export const REGIONS: readonly Region[] = [
     highlights: [
       'seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style',
       'seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026',
+      'tea-houses-in-insadong-2026',
       'eunpyeong-hanok-village-museum-bus',
       'seoul-battleship-park-mangwon-visit',
       'seouls-indie-music-hubs-2026',
@@ -232,6 +233,7 @@ export const REGIONS: readonly Region[] = [
     highlights: [
       'sokcho-intercity-vs-express-bus-terminal',
       'sokcho-market-gaetbae-abai-village-walk',
+      'sokcho-squid-and-abai-sundae',
       'seoraksan-cable-car-flexible-sokcho-day',
       'sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026',
     ],

@@ -2547,5 +2547,57 @@
     "sourceNote": "Museum site overview from the national facility dataset. Use city directions to find the visitor entrance.",
     "description": "Apply the 17:00 last admission and check the holiday notice.",
     "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "sokcho-daepo-fried-food-alley",
+    "name": "Daepo Port Original Fried Food Alley",
+    "nameKo": "대포항 원조튀김골목",
+    "latitude": 38.1735363240357,
+    "longitude": 128.605716555149,
+    "address": "강원특별자치도 속초시 대포항희망길 55",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=1564703",
+    "description": "Compare stalls and ask what is available today.",
+    "region": "sokcho",
+    "checkedAt": "2026-11-24",
+    "sourceNote": "Korea Tourism Organization place listing supplies the Korean address and map point. Check the listed venue and approach before you go."
+  },
+  {
+    "id": "sokcho-dancheon",
+    "name": "Dancheon Restaurant",
+    "nameKo": "단천식당",
+    "latitude": 38.2026109140961,
+    "longitude": 128.593672721795,
+    "address": "강원특별자치도 속초시 아바이마을길 17",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=188441",
+    "description": "Check the current menu for both kinds of sundae.",
+    "region": "sokcho",
+    "checkedAt": "2026-11-24",
+    "sourceNote": "Korea Tourism Organization place listing supplies the Korean address and map point. Check the listed venue and approach before you go."
+  },
+  {
+    "id": "seoul-jeontong-dawon",
+    "name": "Jeontong Dawon",
+    "nameKo": "전통다원",
+    "latitude": 37.5745294126726,
+    "longitude": 126.985698293132,
+    "address": "서울특별시 종로구 인사동10길 11-4",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75508",
+    "description": "The tea house is within the Kyung-In Museum of Fine Art grounds.",
+    "region": "seoul",
+    "checkedAt": "2026-11-24",
+    "sourceNote": "Korea Tourism Organization place listing supplies the Korean address and map point. Check the listed venue and approach before you go."
+  },
+  {
+    "id": "seoul-beautiful-tea-museum",
+    "name": "Beautiful Tea Museum",
+    "nameKo": "아름다운차박물관",
+    "latitude": 37.5723102414532,
+    "longitude": 126.985842786834,
+    "address": "서울특별시 종로구 인사동길 19-11",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=100289",
+    "description": "Ask which seasonal teas and snacks are available.",
+    "region": "seoul",
+    "checkedAt": "2026-11-24",
+    "sourceNote": "Korea Tourism Organization place listing supplies the Korean address and map point. Check the listed venue and approach before you go."
   }
 ]

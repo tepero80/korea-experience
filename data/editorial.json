@@ -446,6 +446,12 @@
         "reason": "Choose the area that shortens your repeated journeys, then inspect the exact property entrance and room conditions."
       },
       {
+        "slug": "taba-taxi-and-kride-2026",
+        "type": "alternative",
+        "label": "Set up an airport taxi backup",
+        "reason": "Save the terminal rank and Korean address before you need a pickup."
+      },
+      {
         "slug": "seoul-transit-climate-card-vs-tmoney-2026",
         "type": "alternative",
         "label": "A useful alternative",
@@ -2756,6 +2762,12 @@
         "type": "prepare",
         "label": "Prepare this too",
         "reason": "Check store and purchase eligibility before paying, then keep receipts and follow the actual departure procedure."
+      },
+      {
+        "slug": "tea-houses-in-insadong-2026",
+        "type": "nearby",
+        "label": "Take an Insadong tea break",
+        "reason": "Use the alley pins to find a garden-side table or a tea menu near your walk."
       },
       {
         "slug": "packing-korean-shopping-liquids-and-souvenirs-for-your-flight",
@@ -13057,6 +13069,12 @@
         "type": "alternative",
         "label": "Plan a separate Seoraksan visit",
         "reason": "Set a different time window for the cable car and check weather before leaving town."
+      },
+      {
+        "slug": "sokcho-squid-and-abai-sundae",
+        "type": "next",
+        "label": "Choose squid sundae or Abai sundae",
+        "reason": "Compare the two dishes before ordering lunch near the waterfront."
       }
     ],
     "tools": [
@@ -24612,5 +24630,275 @@
     "gallery": [],
     "experienceVersion": 2,
     "cardImageLabel": "Eoulmadang-ro · 2018"
+  },
+  "taba-taxi-and-kride-2026": {
+    "id": "guide:taba-taxi-and-kride-2026",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Set up one app before you need a ride. TABA accepts international numbers and requires phone verification. For k.ride, check sign-in and card setup before going out. Use the airport taxi rank if you cannot get a pickup.",
+    "forWhom": "Visitors hailing a taxi in Korea with an overseas phone number and payment card",
+    "conditions": [
+      "Coverage, vehicle sizes and pickup times vary. Save the Korean destination and a fallback while you have a connection."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "arrival",
+      "exploring"
+    ],
+    "interests": [
+      "taxi",
+      "TABA",
+      "k.ride",
+      "airport arrival"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "alternative",
+        "label": "Compare airport buses and trains",
+        "reason": "Use fixed-route transport if you cannot arrange a taxi or the live estimate is too high."
+      },
+      {
+        "slug": "incheon-airport-late-night-arrival-guide",
+        "type": "prepare",
+        "label": "Make a late-arrival plan",
+        "reason": "Check your arrival terminal and keep an option for after the last train."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Verify your phone before departure",
+      "Save the Korean address",
+      "Use a marked airport taxi rank if needed"
+    ],
+    "sources": [
+      {
+        "id": "guide:taba-taxi-and-kride-2026-source-1",
+        "title": "TABA: account, payment, coverage and booking FAQ",
+        "url": "https://www.tabataxi.app/",
+        "note": "Confirms international number registration, phone verification and the current advance-booking limit.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:taba-taxi-and-kride-2026-source-2",
+        "title": "Kakao Mobility: k.ride",
+        "url": "https://utility.kride.kakaomobility.com/",
+        "note": "Lists vehicle choices, multilingual features, fare estimates and card or mobile payments.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:taba-taxi-and-kride-2026-source-3",
+        "title": "Korea Tourism Organization: taking a taxi",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140661",
+        "note": "Lists international traveler options and k.ride’s overseas card and social sign-in support.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:taba-taxi-and-kride-2026-source-4",
+        "title": "Incheon International Airport: taxi and call van",
+        "url": "https://www.airport.kr/ap_ko/986/subview.do",
+        "note": "Use the terminal-specific operator diagram and official transport instructions.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1269,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-city-taxi-2022",
+    "heroCaption": "An orange taxi in downtown Seoul in 2022. When you hail a ride, check the assigned car and plate before you get in.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Joshua T. Garcia",
+      "title": "Taxi Cab in South Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taxi_Cab_in_South_Korea.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Seoul taxi · 2022",
+    "cardImageCrop": "contain"
+  },
+  "sokcho-squid-and-abai-sundae": {
+    "id": "guide:sokcho-squid-and-abai-sundae",
+    "categoryId": "food-dining",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask for ojingeo sundae for stuffed squid or Abai sundae for the village’s pork-casing sausage. Choose Daepo Port for a stall stop and Abai Village if you want to add lunch to the market and waterfront walk.",
+    "forWhom": "Sokcho visitors deciding where to try a local sundae and what to order",
+    "conditions": [
+      "Stall hours, recipes and shared equipment vary. Confirm ingredients with the seller if an allergy or dietary restriction matters."
+    ],
+    "regions": [
+      "sokcho"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "squid sundae",
+      "Abai Village",
+      "Daepo Port",
+      "market food"
+    ],
+    "relations": [
+      {
+        "slug": "sokcho-market-gaetbae-abai-village-walk",
+        "type": "next",
+        "label": "Walk from Sokcho Market to Abai Village",
+        "reason": "Add lunch to the market and waterfront walk instead of treating Daepo Port as the same stop."
+      },
+      {
+        "slug": "sokcho-intercity-vs-express-bus-terminal",
+        "type": "prepare",
+        "label": "Confirm which Sokcho terminal you use",
+        "reason": "Pick the right arrival and return point before deciding how to reach a food stop."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "sokcho-daepo-fried-food-alley",
+      "sokcho-dancheon"
+    ],
+    "shareFacts": [
+      "Ask for 오징어순대 for squid",
+      "Compare two useful food stops",
+      "Check the filling before ordering"
+    ],
+    "sources": [
+      {
+        "id": "guide:sokcho-squid-and-abai-sundae-source-1",
+        "title": "VisitKorea: Daepo Port Original Fried Food Alley",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=1564703",
+        "note": "Identifies the alley, its address, stuffed squid and shop-dependent hours.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:sokcho-squid-and-abai-sundae-source-2",
+        "title": "VisitKorea: Dancheon in Abai Village",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=188441",
+        "note": "Identifies the restaurant, both sundae dishes and the traditional pork-casing preparation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:sokcho-squid-and-abai-sundae-source-3",
+        "title": "VisitKorea: Abai Village",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=353&vcontsId=107594",
+        "note": "Use the village listing for neighborhood context.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1270,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-sokcho-daepo-stuffed-squid-2008",
+    "heroCaption": "Stuffed squid beside fried foods at Daepo Port in 2008. Ask what today’s stalls are serving when you arrive.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Junho Jung",
+      "title": "Korea-Sokcho-Daepo Port-Twigim and Ojingeo sundae-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Sokcho-Daepo_Port-Twigim_and_Ojingeo_sundae-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Daepo Port · Stuffed squid"
+  },
+  "tea-houses-in-insadong-2026": {
+    "id": "guide:tea-houses-in-insadong-2026",
+    "categoryId": "food-dining",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Jeontong Dawon if you want tea on the grounds of an art museum. Choose the Beautiful Tea Museum to browse a wider tea menu closer to the southern part of Insadong-gil.",
+    "forWhom": "Visitors planning an unhurried tea break during a walk through Insadong",
+    "conditions": [
+      "Opening times, seat types and current menus can change. Confirm holiday hours and step-free access directly if they matter."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Insadong",
+      "traditional tea",
+      "hanok",
+      "café"
+    ],
+    "relations": [
+      {
+        "slug": "insadong-traditional-crafts-and-souvenirs",
+        "type": "next",
+        "label": "Continue through Insadong’s craft shops",
+        "reason": "Keep the tea break on the same neighborhood walk and check what makes a useful souvenir."
+      },
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "prepare",
+        "label": "Fit the tea stop into a Seoul itinerary",
+        "reason": "Group it with your historic center day to avoid an extra cross-city trip."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-jeontong-dawon",
+      "seoul-beautiful-tea-museum"
+    ],
+    "shareFacts": [
+      "Tea and galleries at Jeontong Dawon",
+      "Compare tea styles at the museum",
+      "Use the exact alley address"
+    ],
+    "sources": [
+      {
+        "id": "guide:tea-houses-in-insadong-2026-source-1",
+        "title": "VisitKorea: Jeontong Dawon",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75508",
+        "note": "Confirms the art museum grounds, address, indoor and outdoor seating, and example teas.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:tea-houses-in-insadong-2026-source-2",
+        "title": "Visit Seoul: Gyeongin Misulgwan Jeontong Dawon",
+        "url": "https://english.visitseoul.net/eat/Gyeongin-Misulgwan-Jeontong-Dawon/ENP010878",
+        "note": "Confirms the linked teahouse and its alley address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:tea-houses-in-insadong-2026-source-3",
+        "title": "VisitKorea: Beautiful Tea Museum",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=100289",
+        "note": "Identifies the current published location and menu examples. Check availability and holiday hours.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1271,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-insadong-tea-room-2007",
+    "heroCaption": "A tea room photographed in Insadong in 2007. Use the address and map for each named stop below.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "LWY",
+      "title": "Korea-Seoul-Insadong-Tea house-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Seoul-Insadong-Tea_house-01.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Insadong tea room · 2007"
   }
 }

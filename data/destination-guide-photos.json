@@ -832,5 +832,23 @@
     "subjectUsefulness": 2,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "taba-taxi-and-kride-2026": {
+    "mediaId": "archive-seoul-city-taxi-2022",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "sokcho-squid-and-abai-sundae": {
+    "mediaId": "archive-sokcho-daepo-stuffed-squid-2008",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "tea-houses-in-insadong-2026": {
+    "mediaId": "archive-seoul-insadong-tea-room-2007",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

@@ -3897,5 +3897,50 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "taba-taxi-and-kride-2026": {
+    "src": "/images/cards/taba-taxi-and-kride-2026.jpg",
+    "fingerprint": "e7d87225adc738ad0fd13694fb4ce3e6a97d71e5877247ec88acaad1bb54fc0c",
+    "sourceImage": "/images/editorial/archive-seoul-city-taxi-2022-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Joshua T. Garcia",
+      "title": "Taxi Cab in South Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Taxi_Cab_in_South_Korea.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "sokcho-squid-and-abai-sundae": {
+    "src": "/images/cards/sokcho-squid-and-abai-sundae.jpg",
+    "fingerprint": "c8dd95cb38e6579fd56e8ec3c71538cbe3630a218194dc3afbf649acdc514277",
+    "sourceImage": "/images/editorial/archive-sokcho-daepo-stuffed-squid-2008-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Junho Jung",
+      "title": "Korea-Sokcho-Daepo Port-Twigim and Ojingeo sundae-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Sokcho-Daepo_Port-Twigim_and_Ojingeo_sundae-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "tea-houses-in-insadong-2026": {
+    "src": "/images/cards/tea-houses-in-insadong-2026.jpg",
+    "fingerprint": "7ceee33766ef1bc7bd027e6d0cc17d3cddce0ea7117f7efa63a7b2f823b4b638",
+    "sourceImage": "/images/editorial/archive-seoul-insadong-tea-room-2007-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "LWY",
+      "title": "Korea-Seoul-Insadong-Tea house-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Seoul-Insadong-Tea_house-01.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }
