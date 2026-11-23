@@ -1072,21 +1072,42 @@ p {
 .season-grid > a {
   background: #faf9f5;
   border: 1px solid #dbd2c3;
+  border-radius: 14px;
+  display: flex;
+  flex-direction: column;
   padding: 28px;
+}
+.season-grid > a:hover {
+  border-color: var(--ke-muted);
 }
 .season-grid h3 {
   font:
     27px/1.25 Georgia,
     serif;
-  margin: 14px 0;
+  margin: 0 0 8px;
 }
 .season-grid p {
-  font-size: 13px;
+  flex: 1;
+  font-size: 15px;
   color: var(--ke-muted);
   line-height: 1.8;
 }
 .season-grid .text-link {
   margin-top: 14px;
+  align-self: flex-start;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.season-more {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 24px;
+  margin-top: 16px;
+}
+.season-more .text-link {
+  min-height: 44px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 .trust-strip {
   display: grid;

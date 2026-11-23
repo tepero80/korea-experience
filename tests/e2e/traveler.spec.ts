@@ -277,6 +277,22 @@ test('search finds an arrival guide and Escape returns focus', async ({ page }) 
   await expect.poll(() => requests).toBe(1);
 });
 
+test('winter guide links keep keyboard focus and browser history usable', async ({ page }) => {
+  await page.goto('/');
+  const entry = page.getByRole('link', { name: 'Winter trip planning', exact: true });
+  const title = page.getByRole('heading', { name: 'Winter travel in Korea', exact: true });
+  await entry.press('Enter');
+  await expect(page).toHaveURL(/\/#winter-trip-planning$/);
+  await expect(title).toBeFocused();
+  await expect(title).toBeInViewport();
+
+  await page.getByRole('link', { name: /Seoul festivals & ice skating/ }).click();
+  await expect(page.getByRole('heading', { level: 1 })).toHaveText(/Seoul in Winter/);
+  await page.goBack();
+  await expect(page).toHaveURL(/\/#winter-trip-planning$/);
+  await expect(title).toBeInViewport();
+});
+
 test('successful anti-spam retry clears its stale error while preserving receipt', async ({
   page,
 }) => {

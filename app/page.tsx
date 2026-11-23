@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getFeaturedPosts, getLaunchGuides, getAllPosts } from '@/lib/posts';
+import { getFeaturedPosts, getAllPosts } from '@/lib/posts';
 import { TRAVEL_CATEGORIES } from '@/lib/taxonomy';
 import { GUIDE_FEED_TYPES, PRIMARY_TRAVEL_TOOLS, SITE_CONFIG } from '@/lib/constants';
 import BlogCard from '@/components/BlogCard';
@@ -11,10 +11,8 @@ export const metadata = {
   alternates: { canonical: SITE_CONFIG.url + '/', types: GUIDE_FEED_TYPES },
 };
 export default function Home() {
-  const launch = getLaunchGuides();
   const featured = getFeaturedPosts();
   const picks = (featured.length ? featured : getAllPosts()).slice(0, 3);
-  const seasonal = launch.filter((p) => p.editorial?.format === 'seasonal').slice(0, 2);
   const homePhoto = mediaFor('bukchon')!;
   return (
     <>
@@ -54,6 +52,7 @@ export default function Home() {
             <Link href="/blog/airport-limousine-bus-vs-arex-express-train">Airport to hotel</Link>
             <Link href="/tools/itinerary">Your day-by-day plan</Link>
             <Link href="/blog/korea-travel-problem-solving-guide">Need help now?</Link>
+            <a href="#winter-trip-planning">Winter trip planning</a>
           </div>
         </div>
         <figure className="hero-figure">
@@ -136,6 +135,46 @@ export default function Home() {
           </Link>
         </div>
       </section>
+      {/* Keep the fragment and its outgoing links in native browser history so Back restores focus and position. */}
+      <section className="season-section" aria-labelledby="winter-trip-planning">
+        <div className="wrap">
+          <div className="section-heading">
+            <h2 className="section-title" id="winter-trip-planning" tabIndex={-1}>
+              Winter travel in Korea
+            </h2>
+            <p className="section-intro">
+              Plan a winter evening in Seoul or choose a ski day you can get to and back from.
+            </p>
+          </div>
+          <div className="season-grid">
+            <a href="/blog/seoul-in-winter-complete-guide-ice-skating-and-more-2026">
+              <h3>Seoul festivals &amp; ice skating</h3>
+              <p>Find the lights, check rink dates and keep an indoor option for cold evenings.</p>
+              <span className="text-link">
+                Plan a winter evening <Icon name="arrow" />
+              </span>
+            </a>
+            <a href="/blog/winter-ski-resorts-comparison-vivaldi-park-vs-yongpyong-vs-alpensia-2026">
+              <h3>Ski resorts for a day or overnight</h3>
+              <p>
+                Compare Vivaldi Park, Yongpyong and Alpensia by return transport and time on the
+                slopes.
+              </p>
+              <span className="text-link">
+                Compare the three resorts <Icon name="arrow" />
+              </span>
+            </a>
+          </div>
+          <div className="season-more">
+            <a href="/blog/korea-winter-packing-checklist" className="text-link">
+              Winter packing checklist <Icon name="arrow" />
+            </a>
+            <a href="/blog/best-time-to-visit-korea-month-by-month-weather" className="text-link">
+              Compare Korea by month <Icon name="arrow" />
+            </a>
+          </div>
+        </div>
+      </section>
       <section className="tools-band">
         <div className="wrap tools-feature">
           <div>
@@ -192,38 +231,6 @@ export default function Home() {
           ))}
         </div>
       </section>
-      {seasonal.length ? (
-        <section className="season-section">
-          <div className="wrap">
-            <div className="section-heading">
-              <div>
-                <p className="eyebrow">Think a little ahead</p>
-                <h2 className="section-title">
-                  The next season
-                  <br />
-                  <em>starts with a good plan.</em>
-                </h2>
-              </div>
-              <p className="section-intro">
-                Prepare for colder days, check official release dates, and leave room for a change
-                of weather.
-              </p>
-            </div>
-            <div className="season-grid">
-              {seasonal.map((p) => (
-                <Link key={p.slug} href={`/blog/${p.slug}`}>
-                  <span className="eyebrow">{p.category}</span>
-                  <h3>{p.title}</h3>
-                  <p>{p.excerpt}</p>
-                  <span className="text-link">
-                    Read the guide <Icon name="arrow" />
-                  </span>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-      ) : null}
       <section className="wrap trust-strip">
         <div>
           <p className="eyebrow">Useful. Traceable. Open to correction.</p>
