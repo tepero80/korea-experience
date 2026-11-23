@@ -1,7 +1,7 @@
 ---
 title: "Gangneung Coffee Street Artisan Roasters Guide 2026"
 date: 2026-01-09
-excerpt: "Discover the best artisan roasters on Gangneung Coffee Street. Explore Anmok Beach cafes, prices, and brewing methods in Korea's coffee capital."
+excerpt: "Find Gangneung’s coffee street by Anmok Beach and see what to check when choosing a café or planning the trip from the station."
 category: Food & Dining
 author: Korea Experience Team
 tags:
@@ -14,7 +14,7 @@ tags:
   - "Coffee"
 readTime: "12 min read"
 featured: false
-image: "/images/gangneung-coffee-street-artisan-roasters.webp"
+image: /images/editorial/archive-gangneung-coffee-street-signed-coast-1280.webp
 ---
 
 Gangneung is no longer just a seaside getaway; it has firmly established itself as the undisputed coffee capital of South Korea. While Seoul boasts the highest density of cafes per capita, Gangneung holds the soul of the country's artisan roasting culture. Located on the east coast, specifically along the 500-meter stretch of Anmok Beach, Gangneung Coffee Street offers a unique convergence of pine trees, ocean vistas, and the distinct aroma of freshly roasted Arabica beans.

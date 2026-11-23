@@ -574,5 +574,41 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "dadaepo-beach-from-busan-metro": {
+    "mediaId": "busan-dadaepo-beach-sunset",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "f1963-from-mangmi-station": {
+    "mediaId": "busan-f1963-aerial-2025",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "incheon-airport-maglev-terminal-1-yongyu": {
+    "mediaId": "incheon-maglev-guideway-2016",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seoul-station-or-yongsan-for-ktx": {
+    "mediaId": "seoul-station-street-view-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "eunpyeong-hanok-village-museum-bus": {
+    "mediaId": "seoul-eunpyeong-hanok-and-bukhansan-2020",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "summer-beach-destinations-and-water-activities": {
+    "mediaId": "archive-gwangalli-shore-gwangan-bridge-2022",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

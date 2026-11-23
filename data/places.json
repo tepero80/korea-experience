@@ -2394,5 +2394,60 @@
     "description": "City museum marker in the municipal dataset. Museum SAN is a separate destination outside the center.",
     "checkedAt": "2026-11-24",
     "visitorUrl": "https://whm.wonju.go.kr/whm/page/view.php/sub_01_01"
+  },
+  {
+    "id": "busan-dadaepo-beach",
+    "name": "Dadaepo Beach",
+    "nameKo": "다대포해수욕장",
+    "address": "부산광역시 사하구 몰운대1길 14",
+    "region": "busan",
+    "latitude": 35.046247,
+    "longitude": 128.963151,
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=103526",
+    "sourceNote": "Beach overview. From the metro use Dadaepo Beach Station Exit 2.",
+    "description": "Beach overview. From the metro use Dadaepo Beach Station Exit 2.",
+    "checkedAt": "2026-11-24",
+    "visitorUrl": "https://www.busan.go.kr/eng/beaches/1326147"
+  },
+  {
+    "id": "busan-f1963-culture-complex",
+    "name": "F1963 cultural complex",
+    "nameKo": "F1963",
+    "address": "부산광역시 수영구 구락로123번길 20",
+    "region": "busan",
+    "latitude": 35.1767449922879,
+    "longitude": 129.115485025349,
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=187060",
+    "sourceNote": "Complex overview. Check the entrance to your particular tenant or exhibition.",
+    "description": "Complex overview. Check the entrance to your particular tenant or exhibition.",
+    "checkedAt": "2026-11-24",
+    "visitorUrl": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=372"
+  },
+  {
+    "id": "busan-gwangalli-beach",
+    "name": "Gwangalli Beach",
+    "nameKo": "광안리해수욕장",
+    "address": "부산광역시 수영구 광안해변로 219",
+    "region": "busan",
+    "latitude": 35.153772788647494,
+    "longitude": 129.1185199367098,
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111074",
+    "sourceNote": "Beach area on the VisitKorea map. Check access and conditions on the day.",
+    "description": "Beach area on the VisitKorea map. Check access and conditions on the day.",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "boryeong-daecheon-beach",
+    "name": "Daecheon Beach",
+    "nameKo": "대천해수욕장",
+    "address": "충청남도 보령시 머드로 123",
+    "region": "boryeong",
+    "latitude": 36.3131544440372,
+    "longitude": 126.509334549328,
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=105704",
+    "sourceNote": "VisitKorea’s beach marker. The official festival map gives separate entrances for event zones.",
+    "description": "VisitKorea’s beach marker. The official festival map gives separate entrances for event zones.",
+    "checkedAt": "2026-11-24",
+    "visitorUrl": "https://mudfestival.or.kr/en/festival/main.html"
   }
 ]

@@ -8126,5 +8126,227 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2018-10-07."
     }
+  },
+  {
+    "id": "busan-dadaepo-beach-sunset",
+    "src": "/images/editorial/busan-dadaepo-beach-sunset-1280.webp",
+    "srcSet": "/images/editorial/busan-dadaepo-beach-sunset-640.webp 640w, /images/editorial/busan-dadaepo-beach-sunset-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Golden light over the broad sand and shallow reflections at Dadaepo Beach.",
+    "focal": "50% 60%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%B6%80%EC%82%B0_%EB%8B%A4%EB%8C%80%ED%8F%AC_%ED%95%B4%EB%B3%80_Dadaepo_beach.Busan.South_korea_2.jpg",
+    "originalHash": "84ce79a408c880c6d39aa2fdf4d12549e7e4f8a64bd1d8118e819f36986a45a9",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Y.c.jang",
+      "title": "대한민국 부산 다대포 해변 Dadaepo beach.Busan.South korea 2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%B6%80%EC%82%B0_%EB%8B%A4%EB%8C%80%ED%8F%AC_%ED%95%B4%EB%B3%80_Dadaepo_beach.Busan.South_korea_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    }
+  },
+  {
+    "id": "busan-f1963-aerial-2025",
+    "src": "/images/editorial/busan-f1963-aerial-2025-1280.webp",
+    "srcSet": "/images/editorial/busan-f1963-aerial-2025-640.webp 640w, /images/editorial/busan-f1963-aerial-2025-1280.webp 1280w",
+    "width": 1280,
+    "height": 519,
+    "alt": "Blue roofs of the former wire factory at F1963 below wooded hills in Busan.",
+    "focal": "50% 54%",
+    "originalId": "https://www.visitbusan.net/archive/dataSearch/view.nm?dataSid=METADATA013878",
+    "originalHash": "a99ce5d35224eb6389df0045c9309d61104c4f85d5ad282c0f217b25c7aec7fe",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Hyphen Group (하이픈그룹) / Busan Tourism Organization",
+      "title": "F1963 exterior",
+      "sourceUrl": "https://www.visitbusan.net/archive/dataSearch/view.nm?dataSid=METADATA013878",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseTypeEn.do",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2025-04-01"
+  },
+  {
+    "id": "incheon-maglev-guideway-2016",
+    "src": "/images/editorial/incheon-maglev-guideway-2016-1280.webp",
+    "srcSet": "/images/editorial/incheon-maglev-guideway-2016-640.webp 640w, /images/editorial/incheon-maglev-guideway-2016-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Yellow Incheon Airport maglev train traveling on a raised guideway.",
+    "focal": "50% 52%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:ICN_maglev_train.JPG",
+    "originalHash": "9faa5d782527318a8c6042ee08ed7f203455cd39c9f55e5a96dd7de26ff7228f",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "revi / Wikimedia Commons",
+      "title": "ICN maglev train.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_maglev_train.JPG",
+      "license": "CC BY 2.0 KR",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2016"
+  },
+  {
+    "id": "seoul-station-street-view-2024",
+    "src": "/images/editorial/seoul-station-street-view-2024-1280.webp",
+    "srcSet": "/images/editorial/seoul-station-street-view-2024-640.webp 640w, /images/editorial/seoul-station-street-view-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 721,
+    "alt": "Seoul Station across the street with its Korean and English station sign.",
+    "focal": "37% 49%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%84%9C%EC%9A%B8%EC%97%AD%EC%A0%84%EA%B2%BD_2024.jpg",
+    "originalHash": "8668cff5a3ad762f784edb005dcbc7217e9de6c28016cd5fbb0268ea1dc8fbac",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Narubaru7",
+      "title": "서울역전경 2024.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%9C%EC%9A%B8%EC%97%AD%EC%A0%84%EA%B2%BD_2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2024-10-17"
+  },
+  {
+    "id": "seoul-yongsan-station-sign-2005",
+    "src": "/images/editorial/seoul-yongsan-station-sign-2005-1280.webp",
+    "srcSet": "/images/editorial/seoul-yongsan-station-sign-2005-640.webp 640w, /images/editorial/seoul-yongsan-station-sign-2005-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Bilingual Yongsan Station sign beside the curved facade and square.",
+    "focal": "42% 63%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Yongsan_Station_Main_Entrance.JPG",
+    "originalHash": "95c43855f1f626f87a758aa653ee4df23dc0e068ca059cfaa37f071add03070c",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Danleo~commonswiki, attributed by Wikimedia Commons",
+      "title": "Yongsan Station Main Entrance.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yongsan_Station_Main_Entrance.JPG",
+      "license": "CC BY 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2005"
+  },
+  {
+    "id": "seoul-eunpyeong-hanok-and-bukhansan-2020",
+    "src": "/images/editorial/seoul-eunpyeong-hanok-and-bukhansan-2020-1280.webp",
+    "srcSet": "/images/editorial/seoul-eunpyeong-hanok-and-bukhansan-2020-640.webp 640w, /images/editorial/seoul-eunpyeong-hanok-and-bukhansan-2020-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Tiled roofs of Eunpyeong Hanok Village under the Bukhansan ridge.",
+    "focal": "50% 60%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Eunpyeong_Hanok_Village_20200920_001.jpg",
+    "originalHash": "228eb5b74f5fed687e994b80a8f353f54735242309b11799b10fc1cd669e0e51",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Mobius6",
+      "title": "Eunpyeong Hanok Village 20200920 001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eunpyeong_Hanok_Village_20200920_001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2020-09-20"
+  },
+  {
+    "id": "archive-gwangalli-shore-gwangan-bridge-2022",
+    "src": "/images/editorial/archive-gwangalli-shore-gwangan-bridge-2022-1280.webp",
+    "srcSet": "/images/editorial/archive-gwangalli-shore-gwangan-bridge-2022-640.webp 640w, /images/editorial/archive-gwangalli-shore-gwangan-bridge-2022-1280.webp 1280w",
+    "width": 1280,
+    "height": 721,
+    "alt": "Waves at Gwangalli Beach with Gwangan Bridge across the bay",
+    "focal": "50% 50%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gwangalli_Beach_and_Gwangan_Bridge_Busan.jpg",
+    "originalHash": "d85aa645eb25cedcdf4b4a989c3a09c02108fcda08b27987cf6e021ada272d9b",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Masterhatch",
+      "title": "Gwangalli Beach and Gwangan Bridge Busan.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangalli_Beach_and_Gwangan_Bridge_Busan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2022-07-04"
+  },
+  {
+    "id": "archive-gangneung-coffee-street-signed-coast",
+    "src": "/images/editorial/archive-gangneung-coffee-street-signed-coast-1280.webp",
+    "srcSet": "/images/editorial/archive-gangneung-coffee-street-signed-coast-640.webp 640w, /images/editorial/archive-gangneung-coffee-street-signed-coast-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Gangneung Coffee Street entrance signs with the road and Anmok Beach behind them",
+    "caption": "The Gangneung Coffee Street entrance by Anmok Beach, photographed in February 2017.",
+    "focal": "50% 24%",
+    "capturedAt": "2017-02-14",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gangneung_coffee_street_entrance.jpg",
+    "originalHash": "46acf6653e5803d02808a0d68fd66a735b1e0197e98255be640c8d04c78c1628",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gangneung coffee street entrance.jpg",
+      "author": "Altostratus",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangneung_coffee_street_entrance.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2017-02-14."
+    }
+  },
+  {
+    "id": "archive-seoul-ihwa-hillside-view",
+    "src": "/images/editorial/archive-seoul-ihwa-hillside-view-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-ihwa-hillside-view-640.webp 640w, /images/editorial/archive-seoul-ihwa-hillside-view-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Low rooftops and the Seoul skyline viewed from the hillside of Ihwa Mural Village",
+    "caption": "A view across Seoul from the Ihwa Mural Village hillside, photographed in November 2015.",
+    "focal": "50% 50%",
+    "capturedAt": "2015-11-02",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Ihwa_Mural_Village_12.jpg",
+    "originalHash": "1a1a35413063d8bc9428cca109cc5346e9cef7a0c50d6850a0cac011d496de86",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "title": "Ihwa Mural Village 12.jpg",
+      "author": "Bonnielou2013",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ihwa_Mural_Village_12.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2015-11-02."
+    }
+  },
+  {
+    "id": "archive-busan-seomyeon-station-entrance-7",
+    "src": "/images/editorial/archive-busan-seomyeon-station-entrance-7-1280.webp",
+    "srcSet": "/images/editorial/archive-busan-seomyeon-station-entrance-7-640.webp 640w, /images/editorial/archive-busan-seomyeon-station-entrance-7-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Signed steps to Exit 7 of Busan’s Seomyeon subway station in a shopping district",
+    "caption": "Seomyeon Station Exit 7 in Busan, photographed in February 2009.",
+    "focal": "50% 64%",
+    "capturedAt": "2009-02-20",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Busan-subway-Seomyeon-station-7-entrance.jpg",
+    "originalHash": "06b6e11a27db6d1a23f788def66e875e5a7817c709f0413342735665fbfda840",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "title": "Busan-subway-Seomyeon-station-7-entrance.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan-subway-Seomyeon-station-7-entrance.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. Photographed 2009-02-20."
+    }
   }
 ]

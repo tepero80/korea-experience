@@ -1,7 +1,7 @@
 ---
 title: "Korean street art and graffiti culture in ihwa mural village 2026"
 date: 2026-01-20
-excerpt: "Explore the revitalized Ihwa Mural Village in Seoul. A complete 2026 guide to street art, Naksan Park views, and local cafe culture."
+excerpt: "Plan a walk through Ihwa’s hillside streets and the nearby Naksan section of the Seoul City Wall. Expect slopes and check your route before setting out."
 category: K-Culture
 author: Korea Experience Team
 tags:
@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "11 min read"
 featured: false
-image: "/images/korean-street-art-and-graffiti-culture-in-ihwa-mural-village-2026.webp"
+image: /images/editorial/archive-seoul-ihwa-hillside-view-1280.webp
 ---
 
 Perched high on the slopes of Naksan Park, Ihwa Mural Village represents one of Seoul’s most fascinating cultural paradoxes. Once a slate-roofed "Moon Village" (daldongne) slated for demolition, it transformed into a vibrant canvas of Korean street art, only to face a struggle between overtourism and residential peace. As we step into 2026, Ihwa has reinvented itself yet again, finding a harmonious balance between being a living gallery and a quiet residential neighborhood.

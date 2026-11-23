@@ -21021,5 +21021,519 @@
     },
     "gallery": [],
     "experienceVersion": 2
+  },
+  "dadaepo-beach-from-busan-metro": {
+    "id": "dadaepo-beach-from-busan-metro",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Take Line 1 to Dadaepo Beach Station (다대포해수욕장역). From Exit 2, follow the signed approach to the beach and check your return before walking farther.",
+    "forWhom": "Travelers exploring west Busan by metro for an open-air walk",
+    "conditions": [
+      "Check weather and keep your route on open paths. Swimming and fountain operation have separate seasonal rules."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "beaches",
+      "Busan metro",
+      "sunset walks"
+    ],
+    "relations": [
+      {
+        "slug": "f1963-from-mangmi-station",
+        "type": "alternative",
+        "label": "Choose a partly indoor Busan stop",
+        "reason": "Use Mangmi’s own transit route if the weather does not suit a beach walk."
+      },
+      {
+        "slug": "summer-beach-destinations-and-water-activities",
+        "type": "interest",
+        "label": "Compare beach trip types",
+        "reason": "Check staffed bathing hours separately from shore access."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "busan-dadaepo-beach"
+    ],
+    "shareFacts": [
+      "Use Dadaepo Beach Station Exit 2",
+      "Plan a shore walk around the return",
+      "Check fountain operation separately"
+    ],
+    "sources": [
+      {
+        "id": "dadaepo-beach-from-busan-metro-source-1",
+        "title": "Busan City Dadaepo Beach",
+        "url": "https://www.busan.go.kr/eng/beaches/1326147",
+        "note": "Station exit, public beach address and area information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "dadaepo-beach-from-busan-metro-source-2",
+        "title": "VisitKorea beach map",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=103526",
+        "note": "Beach overview point.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "dadaepo-beach-from-busan-metro-source-3",
+        "title": "Busan Transportation Corporation",
+        "url": "https://www.humetro.busan.kr/english/main.do",
+        "note": "Current metro route and schedule.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "dadaepo-beach-from-busan-metro-source-4",
+        "title": "Korea Coast Guard",
+        "url": "https://www.kcg.go.kr/donghaecgh/na/ntt/selectNttInfo.do?nttSn=70831",
+        "note": "Use designated beaches with safety staff for swimming.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1228,
+    "changeType": "new",
+    "heroMediaId": "busan-dadaepo-beach-sunset",
+    "heroCaption": "Dadaepo’s sand and shore at sunset. Stay on open paths and check wind, tide and local restrictions before visiting.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Y.c.jang",
+      "title": "대한민국 부산 다대포 해변 Dadaepo beach.Busan.South korea 2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%B6%80%EC%82%B0_%EB%8B%A4%EB%8C%80%ED%8F%AC_%ED%95%B4%EB%B3%80_Dadaepo_beach.Busan.South_korea_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "f1963-from-mangmi-station": {
+    "id": "f1963-from-mangmi-station",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose your first stop inside F1963 and check its hours separately. From Mangmi Station, verify the local bus connection or take a taxi to the complex.",
+    "forWhom": "Visitors looking for arts, books or a café on an overcast Busan day",
+    "conditions": [
+      "Allow for open-air paths and tenant-specific schedules, prices and reservations."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "industrial heritage",
+      "books",
+      "rainy-day alternatives"
+    ],
+    "relations": [
+      {
+        "slug": "dadaepo-beach-from-busan-metro",
+        "type": "alternative",
+        "label": "Plan a shore walk on a clear day",
+        "reason": "Dadaepo has its own metro approach and outdoor conditions."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "busan-f1963-culture-complex"
+    ],
+    "shareFacts": [
+      "Check the specific venue’s hours",
+      "Use Mangmi Station Exit 4 for the listed bus approach",
+      "Allow for some outdoor walking"
+    ],
+    "sources": [
+      {
+        "id": "f1963-from-mangmi-station-source-1",
+        "title": "F1963 operator",
+        "url": "https://f1963.org/",
+        "note": "Current venue and program notices.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "f1963-from-mangmi-station-source-2",
+        "title": "Visit Busan F1963",
+        "url": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=372",
+        "note": "Mangmi bus approach and venue address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "f1963-from-mangmi-station-source-3",
+        "title": "VisitKorea F1963 map",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=187060",
+        "note": "Complex overview point.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1229,
+    "changeType": "new",
+    "heroMediaId": "busan-f1963-aerial-2025",
+    "heroCaption": "Blue former factory buildings at F1963 in April 2025. The photographed aerial view shows the complex; use signs at ground level for the visitor entrance.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Hyphen Group (하이픈그룹) / Busan Tourism Organization",
+      "title": "F1963 exterior",
+      "sourceUrl": "https://www.visitbusan.net/archive/dataSearch/view.nm?dataSid=METADATA013878",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseTypeEn.do",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "incheon-airport-maglev-terminal-1-yongyu": {
+    "id": "incheon-airport-maglev-terminal-1-yongyu",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Board at the Terminal 1 Transportation Center on floor 2. Check both directions and leave room for any onward flight procedures.",
+    "forWhom": "Visitors with a flexible landside window at Incheon Airport Terminal 1",
+    "conditions": [
+      "Check the operator’s timetable and your airline’s deadlines. Terminal 2 requires a separate connection."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "arrival",
+      "departure"
+    ],
+    "interests": [
+      "airport layovers",
+      "rail rides",
+      "Incheon"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "alternative",
+        "label": "Continue to Seoul",
+        "reason": "Use the airport rail or bus guide when leaving for the city."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "incheon-airport-t1"
+    ],
+    "shareFacts": [
+      "Board at Terminal 1 Transportation Center, floor 2",
+      "Check the last train back to T1",
+      "The operator lists the service as free"
+    ],
+    "sources": [
+      {
+        "id": "incheon-airport-maglev-terminal-1-yongyu-source-1",
+        "title": "Incheon Airport Maglev guide",
+        "url": "https://airport.kr/ap_en/1513/subview.do",
+        "note": "Operating days, fare, stop list and floor.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "incheon-airport-maglev-terminal-1-yongyu-source-2",
+        "title": "Incheon city maglev announcement",
+        "url": "https://www.incheon.go.kr/mayor_9/MA05010000/view?beginDt=&curPage=212&endDt=&repSeq=DOM_0000000013303245&srchMainManagerDeptNm=&srchRepTitle=",
+        "note": "Resumption in 2025 after an earlier suspension.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1230,
+    "changeType": "new",
+    "heroMediaId": "incheon-maglev-guideway-2016",
+    "heroCaption": "An Incheon Airport maglev train on the raised line in 2016. Use today’s terminal signs and check the current timetable.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "revi / Wikimedia Commons",
+      "title": "ICN maglev train.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_maglev_train.JPG",
+      "license": "CC BY 2.0 KR",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seoul-station-or-yongsan-for-ktx": {
+    "id": "seoul-station-or-yongsan-for-ktx",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the departure station printed on your ticket. Seoul (서울역) and Yongsan (용산역) are separate stops. If you have not booked, search both before choosing the easiest connection.",
+    "forWhom": "Visitors buying or connecting to a Korail train in central Seoul",
+    "conditions": [
+      "Route choice, operating times and platforms depend on the actual service and travel date."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "arrival"
+    ],
+    "interests": [
+      "KTX",
+      "Seoul rail",
+      "airport connections"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "prepare",
+        "label": "Plan the first airport leg",
+        "reason": "Match your airport terminal and route to Seoul."
+      },
+      {
+        "slug": "wonju-station-onward-transport",
+        "type": "next",
+        "label": "Check an arrival in Wonju",
+        "reason": "Use your precise Gangwon rail stop before planning a taxi or bus."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Match the departure station on your ticket",
+      "Plan a separate transfer if stations differ",
+      "Check the live train and departure board"
+    ],
+    "sources": [
+      {
+        "id": "seoul-station-or-yongsan-for-ktx-source-1",
+        "title": "Korail English train search",
+        "url": "https://smart.letskorail.com/ebizbf/EbizBfTicketSearchM.do?hidJobDv=NRM&lang=EN",
+        "note": "Search actual service and departure station.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-station-or-yongsan-for-ktx-source-2",
+        "title": "Seoul tourist information station addresses",
+        "url": "https://english.visitseoul.net/essential-Info-article/Tourist-Information-Centers_/396",
+        "note": "City lists separate addresses for both rail complexes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-station-or-yongsan-for-ktx-source-3",
+        "title": "Visit Seoul Yongsan local access",
+        "url": "https://english.visitseoul.net/other/I-Park-Mall/ENP001702",
+        "note": "Identifies Line 1 and Gyeongui–Jungang access at Yongsan.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-station-or-yongsan-for-ktx-source-4",
+        "title": "VisitKorea Jeonju route",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=229053",
+        "note": "Yongsan–Jeonju example subject to the date’s train listing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1231,
+    "changeType": "new",
+    "heroMediaId": "seoul-station-street-view-2024",
+    "heroCaption": "Seoul Station’s signed exterior in October 2024. The Yongsan Station sign appears separately below.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Narubaru7",
+      "title": "서울역전경 2024.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%9C%EC%9A%B8%EC%97%AD%EC%A0%84%EA%B2%BD_2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Seoul Station pictured"
+  },
+  "eunpyeong-hanok-village-museum-bus": {
+    "id": "eunpyeong-hanok-village-museum-bus",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Take the subway to Yeonsinnae or Gupabal and continue by bus. Visit the public lanes and check the museum’s opening day before relying on an indoor stop.",
+    "forWhom": "Visitors seeking a quiet hanok neighborhood with a mountain backdrop",
+    "conditions": [
+      "Residential lanes are shared with residents. Confirm the return stop and seasonal walking conditions."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "hanok",
+      "short walks",
+      "local museums"
+    ],
+    "relations": [
+      {
+        "slug": "national-museum-korea-first-permanent-gallery-visit",
+        "type": "alternative",
+        "label": "Choose a longer indoor museum visit",
+        "reason": "Check the National Museum’s galleries for an alternative in a different area."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Confirm the bus from Yeonsinnae or Gupabal",
+      "Check the separate museum hours",
+      "Stay on public lanes"
+    ],
+    "sources": [
+      {
+        "id": "eunpyeong-hanok-village-museum-bus-source-1",
+        "title": "Eunpyeong History Hanok Museum",
+        "url": "https://museum.ep.go.kr/",
+        "note": "Current operator hours, closures and visitor information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "eunpyeong-hanok-village-museum-bus-source-2",
+        "title": "Visit Seoul museum guide",
+        "url": "https://english.visitseoul.net/attractions/Eunpyeong-History-Hanok-Museum/ENP44b0tv",
+        "note": "Seoul visitor routing, address and opening details.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1232,
+    "changeType": "new",
+    "heroMediaId": "seoul-eunpyeong-hanok-and-bukhansan-2020",
+    "heroCaption": "Eunpyeong Hanok Village roofs below Bukhansan in September 2020. Use the public lanes and respect private entrances.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Mobius6",
+      "title": "Eunpyeong Hanok Village 20200920 001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eunpyeong_Hanok_Village_20200920_001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "summer-beach-destinations-and-water-activities": {
+    "id": "guide:summer-beach-destinations-and-water-activities",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose which shore activity you want first. For swimming, use a designated beach only when its staffed bathing area is open and follow on-site conditions. Otherwise, plan a shore walk.",
+    "forWhom": "Travelers choosing a coastal outing in Busan, Jeju or Boryeong",
+    "conditions": [
+      "An open beach, safe swimming hours and a scheduled event are separate. Verify your dates and follow local notices."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "beaches",
+      "water safety",
+      "seasonal travel"
+    ],
+    "relations": [
+      {
+        "slug": "dadaepo-beach-from-busan-metro",
+        "type": "alternative",
+        "label": "Plan a metro-accessible shore walk",
+        "reason": "Choose Dadaepo for a separate open-air outing and check your west Busan return."
+      },
+      {
+        "slug": "jeju-airport-to-hamdeok-beach-by-bus",
+        "type": "next",
+        "label": "Find the bus to Hamdeok",
+        "reason": "Plan the exact fare search, stop and return direction on Jeju."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "busan-gwangalli-beach",
+      "jeju-hamdeok-beach",
+      "boryeong-daecheon-beach"
+    ],
+    "shareFacts": [
+      "Check staffed swimming zones and dates",
+      "Choose a shore-only alternative",
+      "Verify events directly with organizers"
+    ],
+    "sources": [
+      {
+        "id": "guide:summer-beach-destinations-and-water-activities-source-1",
+        "title": "Korea Coast Guard beach safety",
+        "url": "https://www.kcg.go.kr/donghaecgh/na/ntt/selectNttInfo.do?nttSn=70831",
+        "note": "Advice on designated staffed beaches.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:summer-beach-destinations-and-water-activities-source-2",
+        "title": "Busan City beach directory",
+        "url": "https://www.busan.go.kr/eng/beaches",
+        "note": "Official individual beach information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:summer-beach-destinations-and-water-activities-source-3",
+        "title": "Jeju Tourism Organization beach safety",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CNTS_300000000014629",
+        "note": "Designated areas, weather and port warning.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:summer-beach-destinations-and-water-activities-source-4",
+        "title": "Boryeong Mud Festival",
+        "url": "https://mudfestival.or.kr/en/festival/main.html",
+        "note": "Organizer and edition-specific details.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:summer-beach-destinations-and-water-activities-source-5",
+        "title": "VisitKorea Gwangalli",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111074",
+        "note": "Beach map point and street address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:summer-beach-destinations-and-water-activities-source-6",
+        "title": "VisitKorea Daecheon",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=105704",
+        "note": "Beach area; event zones are distinct.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1233,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-gwangalli-shore-gwangan-bridge-2022",
+    "heroCaption": "Gwangalli Beach and Gwangan Bridge in Busan, photographed in July 2022.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Masterhatch",
+      "title": "Gwangalli Beach and Gwangan Bridge Busan.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangalli_Beach_and_Gwangan_Bridge_Busan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

@@ -1,7 +1,7 @@
 ---
 title: "Underground shopping streets complete guide: Seoul and beyond 2026"
 date: 2026-02-02
-excerpt: "Discover Korea's best underground shopping streets. Save up to 70% on fashion in Goto Mall, Gangnam, and Busan with our 2026 guide to prices and locations."
+excerpt: "Compare underground shopping areas in Seoul, Incheon and Busan, and use each station’s current signboard to choose the right exit."
 category: Travel & Tourism
 author: Korea Experience Team
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Travel Tips"
 readTime: "18 min read"
 featured: true
-image: "/images/underground-shopping-streets-complete-guide.webp"
+image: /images/editorial/archive-busan-seomyeon-station-entrance-7-1280.webp
 ---
 
 Korean underground shopping streets, known locally as *Jiha Sangga* (지하상가), are vast subterranean retail networks connecting major subway stations that offer clothing, accessories, and cosmetics at prices 30% to 50% lower than street-level boutiques. For travelers in 2026, these climate-controlled labyrinths are the secret to acquiring the latest "K-Style" fashion without the department store markup, with the average t-shirt costing between ₩10,000 and ₩15,000 ($7-11 USD) and accessories often starting as low as ₩1,000 ($0.75 USD).

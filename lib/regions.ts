@@ -25,7 +25,7 @@ export const REGIONS: readonly Region[] = [
     highlights: [
       'seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style',
       'seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026',
-      'seoul-city-hall-library-indoor-visit',
+      'eunpyeong-hanok-village-museum-bus',
       'seodaemun-prison-history-hall-dongnimmun',
       'oil-tank-culture-park-world-cup-stadium-station',
       'national-museum-korea-first-permanent-gallery-visit',
@@ -52,8 +52,8 @@ export const REGIONS: readonly Region[] = [
       'haeundae-sky-capsule-vs-beach-train',
       'osiria-to-haedong-yonggungsa-temple',
       'beomeosa-station-to-temple',
-      'busan-modern-contemporary-history-museum-visit',
-      'gimhae-airport-to-busan',
+      'dadaepo-beach-from-busan-metro',
+      'f1963-from-mangmi-station',
     ],
     onward: [
       { regionId: 'tongyeong', reason: 'Plan a separate south coast stay to fit in a harbor walk and check the island ferry return.' },
@@ -86,6 +86,7 @@ export const REGIONS: readonly Region[] = [
     highlights: [
       'incheon-chinatown-open-port-walking-route',
       'songdo-central-park-visit-plan',
+      'incheon-airport-maglev-terminal-1-yongyu',
       'incheon-airport-to-songdo-hotels',
       'incheon-airport-survival-guide-2026',
       'incheon-airport-late-night-arrival-guide',

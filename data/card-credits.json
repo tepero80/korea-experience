@@ -3280,5 +3280,95 @@
       "note": "Resized and converted to WebP. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "dadaepo-beach-from-busan-metro": {
+    "src": "/images/cards/dadaepo-beach-from-busan-metro.jpg",
+    "fingerprint": "e5d8bfe381e22811debca2e7611cd9154ee2b72e55957a79f4e5ab6b218d5fce",
+    "sourceImage": "/images/editorial/busan-dadaepo-beach-sunset-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Y.c.jang",
+      "title": "대한민국 부산 다대포 해변 Dadaepo beach.Busan.South korea 2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD_%EB%B6%80%EC%82%B0_%EB%8B%A4%EB%8C%80%ED%8F%AC_%ED%95%B4%EB%B3%80_Dadaepo_beach.Busan.South_korea_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "f1963-from-mangmi-station": {
+    "src": "/images/cards/f1963-from-mangmi-station.jpg",
+    "fingerprint": "34c707645a3e23883e19e3b622cd5122416587127dfb98e47ae1457ad0d87108",
+    "sourceImage": "/images/editorial/busan-f1963-aerial-2025-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Hyphen Group (하이픈그룹) / Busan Tourism Organization",
+      "title": "F1963 exterior",
+      "sourceUrl": "https://www.visitbusan.net/archive/dataSearch/view.nm?dataSid=METADATA013878",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseTypeEn.do",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "incheon-airport-maglev-terminal-1-yongyu": {
+    "src": "/images/cards/incheon-airport-maglev-terminal-1-yongyu.jpg",
+    "fingerprint": "c42fbbc4b85152b3dd871907b2e7f1529c287c52e88ee2590a29f454a5c74b12",
+    "sourceImage": "/images/editorial/incheon-maglev-guideway-2016-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "revi / Wikimedia Commons",
+      "title": "ICN maglev train.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_maglev_train.JPG",
+      "license": "CC BY 2.0 KR",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoul-station-or-yongsan-for-ktx": {
+    "src": "/images/cards/seoul-station-or-yongsan-for-ktx.jpg",
+    "fingerprint": "a802ba105ff91e17d8701551267fb87f4353fd59a633e750a9ab971c7a636fd3",
+    "sourceImage": "/images/editorial/seoul-station-street-view-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Narubaru7",
+      "title": "서울역전경 2024.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%9C%EC%9A%B8%EC%97%AD%EC%A0%84%EA%B2%BD_2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "eunpyeong-hanok-village-museum-bus": {
+    "src": "/images/cards/eunpyeong-hanok-village-museum-bus.jpg",
+    "fingerprint": "f73cb806406c413895f825e5d1d8017ea9893cd77c4d9aa5c020800ee602aa06",
+    "sourceImage": "/images/editorial/seoul-eunpyeong-hanok-and-bukhansan-2020-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Mobius6",
+      "title": "Eunpyeong Hanok Village 20200920 001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eunpyeong_Hanok_Village_20200920_001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "summer-beach-destinations-and-water-activities": {
+    "src": "/images/cards/summer-beach-destinations-and-water-activities.jpg",
+    "fingerprint": "66a5cc606c766461d20cd2a10a48af503f52a3cc3b8af771b862cd1ecb63a867",
+    "sourceImage": "/images/editorial/archive-gwangalli-shore-gwangan-bridge-2022-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Masterhatch",
+      "title": "Gwangalli Beach and Gwangan Bridge Busan.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangalli_Beach_and_Gwangan_Bridge_Busan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }
