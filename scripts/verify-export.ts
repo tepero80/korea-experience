@@ -3,6 +3,21 @@ import { getLaunchGuides } from '../lib/posts';
 import { TOOL_PREVIEWS, toolPreviewImage } from '../lib/tool-preview';
 import { parse, type DefaultTreeAdapterTypes as Tree } from 'parse5';
 const errors: string[] = [];
+const rssAlternate = 'rel="alternate" type="application/rss+xml" href="https://koreaexperience.com/feed"';
+for (const file of [
+  'out/index.html',
+  'out/blog.html',
+  'out/blog/category.html',
+  'out/blog/category/airports-transport.html',
+  'out/blog/page/2.html',
+]) {
+  if (!fs.readFileSync(file, 'utf8').includes(rssAlternate)) {
+    errors.push('RSS discovery missing from ' + file);
+  }
+}
+if (!fs.readFileSync('out/_headers', 'utf8').includes('/feed\n  Content-Type: application/rss+xml')) {
+  errors.push('RSS Content-Type missing from Pages headers');
+}
 for (const p of getLaunchGuides()) {
   const file = `out/blog/${p.slug}.html`;
   if (!fs.existsSync(file)) {
@@ -10,6 +25,7 @@ for (const p of getLaunchGuides()) {
     continue;
   }
   const html = fs.readFileSync(file, 'utf8');
+  if (!html.includes(rssAlternate)) errors.push('RSS discovery missing ' + p.slug);
   if ((html.match(/<h1\b/g) || []).length !== 1) errors.push('Expected one H1 ' + p.slug);
   if (!html.includes(`rel="canonical" href="https://koreaexperience.com/blog/${p.slug}"`))
     errors.push('Canonical mismatch ' + p.slug);

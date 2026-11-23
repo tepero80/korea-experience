@@ -7,7 +7,7 @@ import Header from '@/components/Header';
 import Footer from '@/components/Footer';
 import ConsentManager from '@/components/site/ConsentManager';
 import ProductionServices from '@/components/site/ProductionServices';
-import { SITE_CONFIG } from '@/lib/constants';
+import { GUIDE_FEED_TYPES, SITE_CONFIG } from '@/lib/constants';
 export const metadata: Metadata = {
   title: { default: SITE_CONFIG.title, template: '%s | Korea Experience' },
   description: SITE_CONFIG.description,
@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     description: SITE_CONFIG.description,
     images: ['/images/cards/korea-experience.jpg'],
   },
-  alternates: { types: { 'application/rss+xml': '/feed' } },
+  alternates: { types: GUIDE_FEED_TYPES },
   verification: {
     other: { 'naver-site-verification': '752414d46da5987d29ae23c93b4665e604a39109' },
   },

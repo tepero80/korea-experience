@@ -242,22 +242,39 @@ test('community retry distinguishes unknown sign-in from signed out and retains 
   );
 });
 test('search finds an arrival guide and Escape returns focus', async ({ page }) => {
+  let requests = 0;
+  await page.route('**/search-index.json', (route) => {
+    requests++;
+    return route.continue();
+  });
   await page.goto('/');
   const trigger = page.locator('.home-search-trigger');
   await trigger.click();
   const dialog = page.getByRole('dialog');
   await expect(dialog).toBeVisible();
-  await dialog.getByRole('searchbox').fill('incheon');
-  await expect(
-    dialog.getByRole('link').filter({ hasText: 'Incheon Airport to Your Hotel' }),
-  ).toBeVisible();
-  await dialog.getByRole('searchbox').fill('incheon baby');
-  await expect(
-    dialog.getByRole('link').filter({ hasText: 'Incheon Airport Baby Care Rooms' }),
-  ).toBeVisible();
-  await dialog.getByRole('searchbox').press('Escape');
+  const searchbox = dialog.getByRole('searchbox');
+  const result = dialog.locator('.search-results ul a').first();
+  const cases = [
+    ['incheon', 'airport-limousine-bus-vs-arex-express-train'],
+    ['How to get from Incheon Airport to Seoul?', 'airport-limousine-bus-vs-arex-express-train'],
+    ['Incheon airport customs', 'incheon-airport-survival-guide-2026'],
+    ['My baggage is lost at Incheon Airport', 'incheon-missing-checked-bag'],
+    ['I forgot my bag at Incheon', 'incheon-airport-lost-item-which-office'],
+    ['First time in Korea — what should I do?', 'first-trip-to-korea-planning-guide'],
+    ['Korea tourist tax refund', 'tax-refund-for-tourists-how-to-claim'],
+    ['Which terminal does my flight leave from?', 'incheon-terminal-flight-check'],
+    ['incheon baby', 'incheon-airport-baby-care-room-locations'],
+  ];
+  for (const [query, slug] of cases) {
+    await searchbox.fill(query);
+    await expect(result).toHaveAttribute('href', `/blog/${slug}`);
+  }
+  await searchbox.fill('???');
+  await expect(dialog.getByText('No matching guides yet.', { exact: false })).toBeVisible();
+  await searchbox.press('Escape');
   await expect(dialog).not.toBeVisible();
   await expect(trigger).toBeFocused();
+  await expect.poll(() => requests).toBe(1);
 });
 
 test('successful anti-spam retry clears its stale error while preserving receipt', async ({

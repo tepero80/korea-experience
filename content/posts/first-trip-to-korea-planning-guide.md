@@ -66,7 +66,7 @@ Start with the [Seoul three-day route](/blog/seoul-3-day-itinerary-perfect-first
 
 - Passport/entry checks for the actual arrival date, with official pages saved.
 - Hotel name, Korean address, check-in instructions and cancellation terms.
-- Airport transfer plus a fallback if the usable connection is missed.
+- The [Incheon arrival checklist](/blog/incheon-airport-survival-guide-2026), your airport transfer and a fallback if you miss the connection.
 - A working data plan, offline directions and an independent payment backup.
 - Confirmations and insurance assistance details stored privately.
 

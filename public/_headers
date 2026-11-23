@@ -4,3 +4,6 @@
 
 /fonts/*
   Access-Control-Allow-Origin: *
+
+/feed
+  Content-Type: application/rss+xml; charset=utf-8

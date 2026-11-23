@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { CATEGORY_HUBS, PRACTICAL_TOOLS } from '@/lib/constants';
+import { CATEGORY_HUBS, GUIDE_FEED_TYPES, PRACTICAL_TOOLS } from '@/lib/constants';
 import { getAllPosts } from '@/lib/posts';
 import { breadcrumbSchema, jsonLd } from '@/lib/seo';
 import BlogCard from '@/components/BlogCard';
@@ -16,7 +16,10 @@ export async function generateMetadata({ params }: { params: Params }) {
     ? {
         title: hub.metaTitle,
         description: hub.description,
-        alternates: { canonical: `https://koreaexperience.com/blog/category/${slug}` },
+        alternates: {
+          canonical: `https://koreaexperience.com/blog/category/${slug}`,
+          types: GUIDE_FEED_TYPES,
+        },
       }
     : { title: 'Category not found', robots: { index: false } };
 }

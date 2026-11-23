@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { SITE_CONFIG } from './constants';
+import { GUIDE_FEED_TYPES, SITE_CONFIG } from './constants';
 import type { PostMetadata } from './posts';
 import { toolPreviewImage, type ToolPreview } from './tool-preview';
 export function toolMetadata(tool: ToolPreview): Metadata {
@@ -37,7 +37,7 @@ export function guideMetadata(post: PostMetadata): Metadata {
   return {
     title: { absolute: post.title },
     description: post.excerpt,
-    alternates: { canonical },
+    alternates: { canonical, types: GUIDE_FEED_TYPES },
     robots: { index: post.indexable, follow: true },
     openGraph: {
       type: 'article',

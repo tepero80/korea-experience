@@ -1,9 +1,10 @@
 import Link from 'next/link';
+import { GUIDE_FEED_TYPES } from '@/lib/constants';
 import { TRAVEL_CATEGORIES } from '@/lib/taxonomy';
 export const metadata = {
   title: 'Choose a Korea travel guide category',
   description: 'Eight practical collections organized around the decisions you need to make.',
-  alternates: { canonical: 'https://koreaexperience.com/blog/category' },
+  alternates: { canonical: 'https://koreaexperience.com/blog/category', types: GUIDE_FEED_TYPES },
 };
 export default function Categories() {
   return (

@@ -1,14 +1,14 @@
 import Link from 'next/link';
 import { getFeaturedPosts, getLaunchGuides, getAllPosts } from '@/lib/posts';
 import { TRAVEL_CATEGORIES } from '@/lib/taxonomy';
-import { PRIMARY_TRAVEL_TOOLS, SITE_CONFIG } from '@/lib/constants';
+import { GUIDE_FEED_TYPES, PRIMARY_TRAVEL_TOOLS, SITE_CONFIG } from '@/lib/constants';
 import BlogCard from '@/components/BlogCard';
 import Icon from '@/components/site/Icon';
 import Search from '@/components/Search';
 import { mediaFor } from '@/lib/media';
 export const metadata = {
   title: { absolute: SITE_CONFIG.title },
-  alternates: { canonical: SITE_CONFIG.url + '/' },
+  alternates: { canonical: SITE_CONFIG.url + '/', types: GUIDE_FEED_TYPES },
 };
 export default function Home() {
   const launch = getLaunchGuides();

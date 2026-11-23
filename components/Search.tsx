@@ -4,23 +4,33 @@ import { useEffect, useId, useRef, useState } from 'react';
 import Icon from './site/Icon';
 import { track } from '@/lib/analytics';
 import { searchIntent } from '@/lib/search-intents';
-type Result = {
-  slug: string;
-  title: string;
-  excerpt: string;
-  category: string;
-  reviewed?: boolean;
-  content?: string;
-};
+import { findGuideMatches, guideQueryTerms, indexGuides, type SearchGuide } from '@/lib/guide-search';
+
+let guideIndex: Promise<ReturnType<typeof indexGuides>> | undefined;
+
+function loadGuideIndex() {
+  guideIndex ??= fetch('/search-index.json')
+    .then(async (response) => {
+      if (!response.ok) throw new Error('Search unavailable');
+      const guides: SearchGuide[] = await response.json();
+      return indexGuides(guides);
+    })
+    .catch((error: unknown) => {
+      guideIndex = undefined;
+      throw error;
+    });
+  return guideIndex;
+}
+
 export default function Search({ variant = 'icon' }: { variant?: 'icon' | 'hero' }) {
   const inputId = useId();
   const dialog = useRef<HTMLDialogElement>(null);
   const input = useRef<HTMLInputElement>(null);
   const trigger = useRef<HTMLButtonElement>(null);
-  const index = useRef<Result[]>([]);
+  const index = useRef<ReturnType<typeof indexGuides> | null>(null);
   const reported = useRef(new Set<string>());
   const [query, setQuery] = useState('');
-  const [results, setResults] = useState<Result[]>([]);
+  const [results, setResults] = useState<SearchGuide[]>([]);
   const [settledQuery, setSettledQuery] = useState('');
   const [status, setStatus] = useState<'idle' | 'loading' | 'ready' | 'error'>('idle');
   const open = () => {
@@ -46,12 +56,10 @@ export default function Search({ variant = 'icon' }: { variant?: 'icon' | 'hero'
     return () => document.removeEventListener('keydown', onKey);
   }, [variant]);
   async function load() {
-    if (index.current.length) return;
+    if (index.current) return;
     setStatus('loading');
     try {
-      const response = await fetch('/search-index.json');
-      if (!response.ok) throw new Error('Search unavailable');
-      index.current = await response.json();
+      index.current = await loadGuideIndex();
       setStatus('ready');
     } catch {
       setStatus('error');
@@ -60,35 +68,12 @@ export default function Search({ variant = 'icon' }: { variant?: 'icon' | 'hero'
   useEffect(() => {
     if (status !== 'ready') return;
     const timer = setTimeout(() => {
-      const terms = query.toLowerCase().trim().split(/\s+/).filter(Boolean);
-      if (!terms.length) {
-        setResults([]);
-        return;
-      }
-      const found = index.current
-        .map((item) => ({
-          item,
-          score: terms.reduce(
-            (score, term) =>
-              score +
-              (item.title.toLowerCase().includes(term) ? 8 : 0) +
-              (item.excerpt.toLowerCase().includes(term) ? 2 : 0) +
-              (item.content?.toLowerCase().includes(term) ? 1 : 0),
-            (item.reviewed ? 5 : 0) +
-              (/^(incheon|incheon airport|icn)$/.test(terms.join(' ')) &&
-              item.slug === 'airport-limousine-bus-vs-arex-express-train'
-                ? 8
-                : 0),
-          ),
-        }))
-        .filter((x) => x.score > (x.item.reviewed ? 5 : 0))
-        .sort((a, b) => b.score - a.score)
-        .slice(0, 8)
-        .map((x) => x.item);
+      const terms = guideQueryTerms(query);
+      const found = findGuideMatches(index.current ?? [], query, terms);
       setResults(found);
       setSettledQuery(query);
       const intent = searchIntent(query);
-      if (!found.length && !reported.current.has(intent)) {
+      if (terms.length && !found.length && !reported.current.has(intent)) {
         if (track('search_no_results', { term_count: terms.length, intent }))
           reported.current.add(intent);
       }
@@ -99,10 +84,7 @@ export default function Search({ variant = 'icon' }: { variant?: 'icon' | 'hero'
     <>
       <button
         ref={trigger}
-        onClick={() => {
-          open();
-          void load();
-        }}
+        onClick={open}
         className={variant === 'hero' ? 'home-search-trigger' : 'icon-button'}
         aria-label="Search guides"
       >

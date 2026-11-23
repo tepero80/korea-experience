@@ -1,4 +1,6 @@
 import { TRAVEL_CATEGORIES, LEGACY_CATEGORY_HUBS } from './taxonomy';
+export const GUIDE_FEED_TYPES = { 'application/rss+xml': '/feed' };
+
 export const SITE_CONFIG = {
   name: 'Korea Experience',
   title: 'Korea Experience | Korea Travel Guides, Maps & Trip Planner',

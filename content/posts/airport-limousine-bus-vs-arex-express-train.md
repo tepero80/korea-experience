@@ -45,6 +45,8 @@ The [Express introduction](https://www.airportrailroad.com/train/express/introdu
 
 ## From arrivals to the correct train
 
+If you haven't reached the public arrivals hall yet, start with the [Incheon arrival checklist for immigration, bags and customs](/blog/incheon-airport-survival-guide-2026).
+
 1. Verify **T1 or T2** from your actual arrival, then follow signs to the transport center. The [airport’s rail page](https://www.airport.kr/ap_en/1512/subview.do) places the rail customer areas at **B1 in both terminals**.
 2. Choose all-stop or Express **before** buying or passing a gate. Confirm the service and destination on the ticket/sign, not just the orange AREX branding.
 3. For Express, choose the departure and reserved seat through the [official customer site](https://www.airportrailroad.com/train/express/introduce) or ask at the rail customer center. For all-stop, follow its ticket/card instructions and keep enough value for the route.

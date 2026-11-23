@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import GuideLibrary, { GUIDES_PER_PAGE } from '@/components/site/GuideLibrary';
+import { GUIDE_FEED_TYPES } from '@/lib/constants';
 import { getAllPosts } from '@/lib/posts';
 type Params = Promise<{ page: string }>;
 export const dynamicParams = false;
@@ -13,7 +14,7 @@ export async function generateMetadata({ params }: { params: Params }) {
   const { page } = await params;
   return {
     title: `Korea travel guide library — page ${page}`,
-    alternates: { canonical: `https://koreaexperience.com/blog/page/${page}` },
+    alternates: { canonical: `https://koreaexperience.com/blog/page/${page}`, types: GUIDE_FEED_TYPES },
   };
 }
 export default async function Page({ params }: { params: Params }) {
