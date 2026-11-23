@@ -1,7 +1,7 @@
 ---
 title: "Public library services for foreigners free books and media 2026"
 date: 2026-01-27
-excerpt: "Unlock free access to books, media, and digital resources at Korean public libraries."
+excerpt: "Find public libraries in Seoul and learn what to check about reading rooms, library cards and borrowing."
 category: Living in Korea
 author: Korea Experience Team
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Korean Culture"
 readTime: "13 min read"
 featured: false
-image: "/images/public-library-services-for-foreigners-free-books-and-media-2026.webp"
+image: /images/editorial/archive-seoul-metropolitan-library-interior-2014-1280.webp
 ---
 
 South Korea’s public library system has undergone a massive digital transformation over the last decade, and by 2026, it stands as one of the most accessible and high-tech networks in the world. For international residents and long-term travelers, these libraries are not just repositories of books; they are vital community hubs offering free high-speed Wi-Fi, co-working spaces, multimedia streaming, and cultural programs.

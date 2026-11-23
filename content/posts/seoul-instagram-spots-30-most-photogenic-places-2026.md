@@ -1,7 +1,7 @@
 ---
 title: "Seoul Instagram Spots: 30 Most Photogenic Places to Visit in 2026"
 date: 2026-01-28
-excerpt: "Discover the top 30 Seoul Instagram spots for 2026. From the new Starfield Library to hidden Hanok cafes, get precise locations, lighting tips, and costs."
+excerpt: "Find photo stops around Seoul, including Oil Tank Culture Park, parks and historic neighborhoods, and check each site’s access before visiting."
 category: Travel & Tourism
 author: Korea Experience Team
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Hidden Gems"
 readTime: "18 min read"
 featured: true
-image: "/images/seoul-instagram-spots-30-most-photogenic-places-2026.webp"
+image: /images/editorial/archive-mapogu-oil-tank-park-t4-1280.webp
 ---
 
 For travelers seeking the perfect shot in 2026, the most photogenic places in Seoul range from the futuristic grandeur of the Starfield Library in Suwon to the timeless eaves of Eunpyeong Hanok Village. Seoul is a city of radical visual contrasts, offering photographers a mix of hyper-modern architecture and 600-year-old heritage sites within a 20-minute subway ride.

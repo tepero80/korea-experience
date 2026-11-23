@@ -1,7 +1,7 @@
 ---
 title: "K-Drama Filming Locations You Can Actually Visit"
 date: 2026-01-13
-excerpt: "Explore iconic K-Drama filming locations across Korea. Discover Seoul's romantic spots, Jeju's scenic beauty, and Gyeonggi's diverse sets."
+excerpt: "Plan visits to Korean drama locations, including the Korean Folk Village in Yongin, and check public access for each stop."
 category: K-Culture
 author: Korea Experience Team
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "18 min read"
 featured: false
-image: "/images/k-drama-filming-locations-you-can-actually-visit.webp"
+image: /images/editorial/archive-yongin-folk-village-jeju-lane-1280.webp
 ---
 
 For fans across the globe, the allure of K-Dramas extends far beyond compelling storylines and captivating characters. It's the breathtaking backdrops, the charming cafes, the bustling cityscapes, and the serene natural wonders that truly bring these narratives to life. Imagine walking the same streets as your favorite lead, standing where pivotal scenes unfolded, or simply soaking in the atmosphere of a beloved K-Drama set. This dream is entirely achievable, and this guide will take you on an unforgettable journey through Korea's most beloved K-Drama filming locations that you can actually visit.

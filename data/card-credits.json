@@ -3190,5 +3190,95 @@
       "note": "Resized and converted to WebP. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "pocheon-art-valley-from-seoul-by-bus": {
+    "src": "/images/cards/pocheon-art-valley-from-seoul-by-bus.jpg",
+    "fingerprint": "79e2b48715a238a9899e00293ae008b1e89cb18df4835a70bf1aa6ffddeaf7e7",
+    "sourceImage": "/images/editorial/pocheon-art-valley-cheonjuho-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Beeniru",
+      "title": "포천 아트밸리 beeniru 15.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_15.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "sanjeong-lake-from-dobongsan-by-bus": {
+    "src": "/images/cards/sanjeong-lake-from-dobongsan-by-bus.jpg",
+    "fingerprint": "4d194433945494b1b8349427313eb2d10d0beebf6a8ba6224c8e68e1f60d5db2",
+    "sourceImage": "/images/editorial/pocheon-sanjeong-lake-winter-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Explicit",
+      "title": "Sanjeong Lake (포천 산정호수), December 2016.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sanjeong_Lake_(%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98),_December_2016.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korea-national-arboretum-gwangneung-forest-visit": {
+    "src": "/images/cards/korea-national-arboretum-gwangneung-forest-visit.jpg",
+    "fingerprint": "167fbf787e42d2f5303f2b2528f9ee4b518f61676dbcd87347c5040dd8832e1d",
+    "sourceImage": "/images/editorial/pocheon-arboretum-woodland-path-2018-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Pulpitara",
+      "title": "국립수목원 숲생태 관찰로 (The forest eco-trail in the Korea National Arboretum).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_(The_forest_eco-trail_in_the_Korea_National_Arboretum).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "wonju-station-onward-transport": {
+    "src": "/images/cards/wonju-station-onward-transport.jpg",
+    "fingerprint": "180bfcc3b8df163588d530d5ed875ba27d32f58fa8146e0dbbaa7b3ea0ba0955",
+    "sourceImage": "/images/editorial/wonju-station-platform-2021-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Kth696586",
+      "title": "20210424 원주역 승강장.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20210424_%EC%9B%90%EC%A3%BC%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "wonju-gangwongamyeong-heritage-visit": {
+    "src": "/images/cards/wonju-gangwongamyeong-heritage-visit.jpg",
+    "fingerprint": "2dc2e791950b0d0f57284f5f6538620180d4bff69a9bfe4198b5c2d848336dc9",
+    "sourceImage": "/images/editorial/wonju-gangwongamyeong-garden-2023-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Trainholic",
+      "title": "Back Garden of Gangwongamyeong Provincial Office, Wonju.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Back_Garden_of_Gangwongamyeong_Provincial_Office%2C_Wonju.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "wonju-history-museum-visit": {
+    "src": "/images/cards/wonju-history-museum-visit.jpg",
+    "fingerprint": "4dd4ec2ca69c7aa5e2d48b7ce1a616530df4ff946ea84837401b6b0e328f7e42",
+    "sourceImage": "/images/editorial/wonju-history-museum-front-2023-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Trainholic",
+      "title": "Wonju Museum of History.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wonju_Museum_of_History.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

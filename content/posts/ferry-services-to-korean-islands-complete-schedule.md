@@ -1,7 +1,7 @@
 ---
 title: "Ferry Services to Korean Islands: Complete Schedule Guide 2026"
 date: 2026-01-07
-excerpt: "Find 2026 ferry schedules for Jeju, Ulleungdo, and more. Compare ticket prices starting at ₩15,000 and learn how to book online without a Korean number."
+excerpt: "Check official ferry routes, departure terminals and ticket channels for South Korea’s islands, including the coastal wharf in Incheon."
 category: Travel & Tourism
 author: Korea Experience Team
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Busan"
 readTime: "13 min read"
 featured: false
-image: "/images/ferry-services-to-korean-islands-complete-schedule.webp"
+image: /images/editorial/archive-incheon-coastal-wharf-passenger-hall-2025-1280.webp
 ---
 
 Finding accurate, English-language ferry schedules for Korea's 400+ inhabited islands is notoriously difficult because the central booking system is primarily designed for domestic residents. For most major routes (like Incheon to Deokjeokdo or Mokpo to Jeju), ferries operate between 07:00 and 19:00 daily, with frequency ranging from once a day for remote islands to every 30 minutes for popular commuter routes. The official integrated booking platform is "Island Tour" (Ga-bogo-want-neun-seom), managed by the Korea Shipping Association, but foreign travelers often face payment hurdles without a domestic credit card.

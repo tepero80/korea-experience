@@ -538,5 +538,41 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "pocheon-art-valley-from-seoul-by-bus": {
+    "mediaId": "pocheon-art-valley-cheonjuho",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "sanjeong-lake-from-dobongsan-by-bus": {
+    "mediaId": "pocheon-sanjeong-lake-winter",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "korea-national-arboretum-gwangneung-forest-visit": {
+    "mediaId": "pocheon-arboretum-woodland-path-2018",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "wonju-station-onward-transport": {
+    "mediaId": "wonju-station-platform-2021",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "wonju-gangwongamyeong-heritage-visit": {
+    "mediaId": "wonju-gangwongamyeong-garden-2023",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "wonju-history-museum-visit": {
+    "mediaId": "wonju-history-museum-front-2023",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

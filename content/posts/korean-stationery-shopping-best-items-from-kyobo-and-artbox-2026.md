@@ -1,7 +1,7 @@
 ---
 title: "Best Korean stationery at Kyobo and Artbox 2026 shopping guide"
 date: 2026-01-19
-excerpt: "Discover the best Korean stationery items at Kyobo and Artbox in 2026. Prices from ₩1,000, exclusive collaborations, and must-buy souvenirs."
+excerpt: "Compare Kyobo Hottracks and Artbox for stationery and check the branch’s current directions before shopping."
 category: Shopping & K-Beauty
 author: Korea Experience Team
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "12 min read"
 featured: false
-image: "/images/korean-stationery-shopping-best-items-from-kyobo-and-artbox-2026.webp"
+image: /images/editorial/archive-kyobo-gwanghwamun-entrance-2012-1280.webp
 ---
 
 For international travelers visiting Seoul in 2026, the question isn't *if* you should buy stationery, but *how much* extra luggage space you need to book for it. Korean stationery culture, locally known as "Mun-gu," has evolved into a massive industry where aesthetic design meets hyper-functionality. While there are countless boutique shops, two giants dominate the landscape: Kyobo Book Centre (specifically their Hottracks division) and Artbox. Kyobo offers a sophisticated, premium selection favored by students and professionals, while Artbox provides a character-driven, vibrant "kawaii" experience perfect for gifts and decor.

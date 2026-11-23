@@ -1,7 +1,7 @@
 ---
 title: "Korean film festivals calendar for international visitors"
 date: 2026-01-16
-excerpt: "The ultimate guide to Korean film festivals including BIFF, Jeonju, and Bucheon. Discover dates, ticket guides, and travel tips for international cinema lovers."
+excerpt: "Plan a Korean film festival visit around the official program and venues in Busan, Jeonju or Bucheon."
 category: K-Culture
 author: Korea Experience Team
 tags:
@@ -14,7 +14,7 @@ tags:
   - "Budget Travel"
 readTime: "13 min read"
 featured: false
-image: "/images/korean-film-festivals-calendar-for-international-visitors.webp"
+image: /images/editorial/archive-busan-cinema-center-at-night-1280.webp
 ---
 
 South Korea has rapidly ascended to the pinnacle of global cinema, driven by the historic success of films like *Parasite* and the cultural phenomenon of *Squid Game*. However, for true cinephiles, the real magic happens not on Netflix, but at Korea's vibrant array of international film festivals. From the glitz of the Busan International Film Festival (BIFF) to the indie spirit of Jeonju and the genre-bending atmosphere of Bucheon, Korea offers a cinematic calendar that spans the entire year.

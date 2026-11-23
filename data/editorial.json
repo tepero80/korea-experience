@@ -20460,5 +20460,566 @@
     },
     "gallery": [],
     "experienceVersion": 2
+  },
+  "pocheon-art-valley-from-seoul-by-bus": {
+    "id": "pocheon-art-valley-from-seoul-by-bus",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "From Uijeongbu, reach the Sinbuk-myeon transfer stop, then check the infrequent 73 bus or arrange a taxi to the Art Valley entrance.",
+    "forWhom": "Travelers leaving from Seoul for a day at the former quarry",
+    "conditions": [
+      "Allow time for both local bus connections and check monorail service separately."
+    ],
+    "regions": [
+      "pocheon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "quarry landscapes",
+      "monorail",
+      "Seoul day trips"
+    ],
+    "relations": [
+      {
+        "slug": "sanjeong-lake-from-dobongsan-by-bus",
+        "type": "alternative",
+        "label": "Choose a lakeside walk",
+        "reason": "Sanjeong Lake is a separate longer leg from Dobongsan."
+      },
+      {
+        "slug": "korea-national-arboretum-gwangneung-forest-visit",
+        "type": "alternative",
+        "label": "Plan a woodland visit",
+        "reason": "Check reservation by arrival mode at the arboretum."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "pocheon-art-valley"
+    ],
+    "shareFacts": [
+      "Check bus 73 before leaving Seoul",
+      "Use the site entrance for a taxi",
+      "Buy the monorail ticket separately if needed"
+    ],
+    "sources": [
+      {
+        "id": "pocheon-art-valley-from-seoul-by-bus-source-1",
+        "title": "Art Valley visitor directions",
+        "url": "https://artvalley.pcfac.or.kr/sub02/sub03.html",
+        "note": "Entrance address and monorail telephone.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "pocheon-art-valley-from-seoul-by-bus-source-2",
+        "title": "Art Valley transport FAQ",
+        "url": "https://artvalley.pcfac.or.kr/sub06/sub02_view.html?wr_id=23",
+        "note": "Sinbuk main-road transfer and bus 73.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "pocheon-art-valley-from-seoul-by-bus-source-3",
+        "title": "Art Valley operating hours",
+        "url": "https://artvalley.pcfac.or.kr/sub06/sub02_view.html?page=view&wr_id=18",
+        "note": "Last entry, maintenance and regular closure.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "pocheon-art-valley-from-seoul-by-bus-source-4",
+        "title": "Korea Heritage Agency visitor route",
+        "url": "https://www.kh.or.kr/visit/kor/road/6/view.do?key=2408220006",
+        "note": "Uijeongbu and the onward bus option.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "pocheon-art-valley-from-seoul-by-bus-source-5",
+        "title": "Pocheon licensed bus routes",
+        "url": "https://www.gbis.go.kr/service/busInfo/metroBus.action?centerId=4165000000&cmd=searchMetroCenter",
+        "note": "Gyeonggi route listing for current service checks.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "pocheon-art-valley-from-seoul-by-bus-source-6",
+        "title": "VisitKorea Art Valley",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=66111",
+        "note": "Public attraction map marker.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1222,
+    "changeType": "new",
+    "heroMediaId": "pocheon-art-valley-cheonjuho",
+    "heroCaption": "Cheonjuho and the granite walls at Pocheon Art Valley in 2008. This early photograph records the quarry landscape.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Beeniru",
+      "title": "포천 아트밸리 beeniru 15.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%ED%8F%AC%EC%B2%9C_%EC%95%84%ED%8A%B8%EB%B0%B8%EB%A6%AC_beeniru_15.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "east"
+  },
+  "sanjeong-lake-from-dobongsan-by-bus": {
+    "id": "sanjeong-lake-from-dobongsan-by-bus",
+    "categoryId": "places-itineraries",
+    "format": "seasonal",
+    "checkedAt": "2026-11-24",
+    "answer": "Check both 1386 departures between Dobongsan and Sangdong Parking Lot before leaving Seoul. Start with a short walk along open shore paths.",
+    "forWhom": "Day-trippers willing to spend time on the bus for a lake-and-mountain outing",
+    "conditions": [
+      "Allow daylight and a realistic return. The city’s general lake marker and the upper terminal are separate."
+    ],
+    "regions": [
+      "pocheon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "lake walks",
+      "winter trips",
+      "Seoul day trips"
+    ],
+    "relations": [
+      {
+        "slug": "pocheon-art-valley-from-seoul-by-bus",
+        "type": "alternative",
+        "label": "Compare a quarry visit",
+        "reason": "Choose Art Valley on a different day if the return via Uijeongbu suits better."
+      },
+      {
+        "slug": "korea-national-arboretum-gwangneung-forest-visit",
+        "type": "alternative",
+        "label": "Check an arboretum outing",
+        "reason": "Plan separately for quieter forest paths and an earlier winter cutoff."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "pocheon-sanjeong-lake-area"
+    ],
+    "shareFacts": [
+      "Board at the Dobongsan transfer center",
+      "Use Sangdong Parking Lot for the return",
+      "Stay on open shore paths"
+    ],
+    "sources": [
+      {
+        "id": "sanjeong-lake-from-dobongsan-by-bus-source-1",
+        "title": "Gyeonggi bus route 1386",
+        "url": "https://www.gbis.go.kr/service/busInfo/metroBus.action?centerId=4165000000&cmd=searchMetroCenter",
+        "note": "Upper parking terminus and Dobongsan transfer center.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "sanjeong-lake-from-dobongsan-by-bus-source-2",
+        "title": "Pocheon city Sanjeong Lake map",
+        "url": "https://www.pocheon.go.kr/ktour/viewTursmResrceWeb.do?key=9674&resrceNo=7&sa2=CT011001",
+        "note": "Wider lake and recreation area.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "sanjeong-lake-from-dobongsan-by-bus-source-3",
+        "title": "VisitKorea Sanjeong Lake",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=90691",
+        "note": "General lake address and visiting context.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1223,
+    "changeType": "new",
+    "heroMediaId": "pocheon-sanjeong-lake-winter",
+    "heroCaption": "Snow on the shore of Sanjeong Lake in December 2016. Follow posted restrictions and keep off ice outside an authorized activity.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Explicit",
+      "title": "Sanjeong Lake (포천 산정호수), December 2016.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sanjeong_Lake_(%ED%8F%AC%EC%B2%9C_%EC%82%B0%EC%A0%95%ED%98%B8%EC%88%98),_December_2016.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "west"
+  },
+  "korea-national-arboretum-gwangneung-forest-visit": {
+    "id": "korea-national-arboretum-gwangneung-forest-visit",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Walk-in and bus visitors buy admission on site while space remains. If you drive, reserve parking in advance and check the seasonal opening days.",
+    "forWhom": "Travelers looking for a woodland visit in Pocheon with a planned return",
+    "conditions": [
+      "Sundays are closed December through February. Check capacity, holiday exceptions and any trail or museum closures."
+    ],
+    "regions": [
+      "pocheon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "forest walks",
+      "gardens",
+      "Pocheon"
+    ],
+    "relations": [
+      {
+        "slug": "pocheon-art-valley-from-seoul-by-bus",
+        "type": "alternative",
+        "label": "Choose a quarry day",
+        "reason": "Art Valley has a separate entrance, road transfer and walk-or-ride choice."
+      },
+      {
+        "slug": "sanjeong-lake-from-dobongsan-by-bus",
+        "type": "alternative",
+        "label": "Choose a lake walk",
+        "reason": "Check the longer trip and return from Sangdong Parking Lot."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "pocheon-korea-national-arboretum"
+    ],
+    "shareFacts": [
+      "Walk-in tickets depend on capacity",
+      "Book parking if driving",
+      "Winter Sundays are closed"
+    ],
+    "sources": [
+      {
+        "id": "korea-national-arboretum-gwangneung-forest-visit-source-1",
+        "title": "Arboretum operating hours",
+        "url": "https://reservenew.kna.go.kr/intro",
+        "note": "Seasonal days and last entry.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-national-arboretum-gwangneung-forest-visit-source-2",
+        "title": "Arboretum official booking",
+        "url": "https://reservenew.kna.go.kr/?selectReservationType=RESERVATION_NOMAL",
+        "note": "Car-free walk-in ticket exception and reserved parking.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-national-arboretum-gwangneung-forest-visit-source-3",
+        "title": "National arboretum directions document",
+        "url": "https://www.suwon.go.kr/common-upload/upload/board/2025/3/13/ec313b51-d712-4a37-ad31-fc305f1a5fee.pdf",
+        "note": "Historical boarding description from Uijeongbu.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-national-arboretum-gwangneung-forest-visit-source-4",
+        "title": "Gyeonggi bus 21",
+        "url": "https://www.gbis.go.kr/service/busInfo/metroBus.action?centerId=4136000000&cmd=searchMetroCenter",
+        "note": "Current endpoints; use live intermediate stop lookup.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-national-arboretum-gwangneung-forest-visit-source-5",
+        "title": "Forest Museum remodeling notice",
+        "url": "https://kna.forest.go.kr/kfsweb/cop/bbs/selectBoardArticle.do?bbsId=BBSMSTR_1031&ctgryLrcls=CTGRY106&mn=UKNA_05_01_01&nttId=3219933",
+        "note": "Temporary closure during the announced 2026 work.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-national-arboretum-gwangneung-forest-visit-source-6",
+        "title": "VisitKorea arboretum",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=104982",
+        "note": "Area marker only; operator entry rules take precedence.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1224,
+    "changeType": "new",
+    "heroMediaId": "pocheon-arboretum-woodland-path-2018",
+    "heroCaption": "A woodland trail at Korea National Arboretum in March 2018. Check which paths are open and suitable for your party before walking.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Pulpitara",
+      "title": "국립수목원 숲생태 관찰로 (The forest eco-trail in the Korea National Arboretum).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B5%AD%EB%A6%BD%EC%88%98%EB%AA%A9%EC%9B%90_%EC%88%B2%EC%83%9D%ED%83%9C_%EA%B4%80%EC%B0%B0%EB%A1%9C_(The_forest_eco-trail_in_the_Korea_National_Arboretum).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "wonju-station-onward-transport": {
+    "id": "wonju-station-onward-transport",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Check the station printed on your ticket, then choose town transport or a separate longer leg to your attraction. Wonju, Manjong and Seowonju are separate stations.",
+    "forWhom": "Train travelers planning their first transfer in Wonju",
+    "conditions": [
+      "Use the station name and Korean address to navigate. Verify city-tour routes and the final return for your date."
+    ],
+    "regions": [
+      "wonju"
+    ],
+    "stages": [
+      "arrival"
+    ],
+    "interests": [
+      "KTX",
+      "station transfers",
+      "Gangwon"
+    ],
+    "relations": [
+      {
+        "slug": "wonju-gangwongamyeong-heritage-visit",
+        "type": "next",
+        "label": "Walk through the historic compound",
+        "reason": "Gangwongamyeong is a central stop with its own route and hours."
+      },
+      {
+        "slug": "wonju-history-museum-visit",
+        "type": "alternative",
+        "label": "Choose an indoor museum",
+        "reason": "Use the address in Bongsan-dong and keep time for your train."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Match the station printed on your ticket",
+      "Check both onward and return trips",
+      "Save the Korean destination name"
+    ],
+    "sources": [
+      {
+        "id": "wonju-station-onward-transport-source-1",
+        "title": "Wonju city station address",
+        "url": "https://www.wonju.go.kr/www/selectBbsNttView.do?bbsNo=161&key=313&nttNo=478768&pageIndex=943&pageUnit=10&searchCnd=all",
+        "note": "Names Wonju Station at 1860 Bugwon-ro.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wonju-station-onward-transport-source-2",
+        "title": "Wonju city tour bus",
+        "url": "https://www.wonju.go.kr/english/contents.do?key=6510",
+        "note": "Separate stations and dated routes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wonju-station-onward-transport-source-3",
+        "title": "Korail passenger booking",
+        "url": "https://www.letskorail.com/",
+        "note": "Current rail timetable, seat and station checks.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1225,
+    "changeType": "new",
+    "heroMediaId": "wonju-station-platform-2021",
+    "heroCaption": "The platform at Wonju Station in April 2021. Use the current onboard and station displays for your train.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Kth696586",
+      "title": "20210424 원주역 승강장.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20210424_%EC%9B%90%EC%A3%BC%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Wonju Station platform, 2021"
+  },
+  "wonju-gangwongamyeong-heritage-visit": {
+    "id": "wonju-gangwongamyeong-heritage-visit",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Visit Gangwongamyeong for the gate, government buildings and rear garden. Check access to individual rooms or exhibitions before you go.",
+    "forWhom": "Travelers who want a short heritage visit in central Wonju",
+    "conditions": [
+      "The grounds and individual rooms can follow different hours. Check closure notices around special work or holidays."
+    ],
+    "regions": [
+      "wonju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "historic architecture",
+      "gardens",
+      "central Wonju"
+    ],
+    "relations": [
+      {
+        "slug": "wonju-history-museum-visit",
+        "type": "next",
+        "label": "Continue with an indoor history visit",
+        "reason": "The history museum is a separate stop with its own last admission."
+      },
+      {
+        "slug": "wonju-station-onward-transport",
+        "type": "prepare",
+        "label": "Confirm your railway arrival",
+        "reason": "Match the Korean name before choosing a taxi or bus."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "wonju-gangwongamyeong"
+    ],
+    "shareFacts": [
+      "Start by finding Gangwongamyeong",
+      "Check rooms and grounds separately",
+      "Allow time to return to your station"
+    ],
+    "sources": [
+      {
+        "id": "wonju-gangwongamyeong-heritage-visit-source-1",
+        "title": "Gangwongamyeong operator",
+        "url": "https://whm.wonju.go.kr/whm/page/view.php/sub_07_01",
+        "note": "Current visitor contact and Wonil-ro 77.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wonju-gangwongamyeong-heritage-visit-source-2",
+        "title": "VisitKorea Gangwongamyeong",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=188458",
+        "note": "Overview map and alternative 85 Wonil-ro address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wonju-gangwongamyeong-heritage-visit-source-3",
+        "title": "Wonju city heritage description",
+        "url": "https://www.wonju.go.kr/english/contents.do?key=2924",
+        "note": "Former provincial office and historic structures.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wonju-gangwongamyeong-heritage-visit-source-4",
+        "title": "Wonju city tour bus",
+        "url": "https://www.wonju.go.kr/english/contents.do?key=6510",
+        "note": "Central stop separated from the railway stations.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1226,
+    "changeType": "new",
+    "heroMediaId": "wonju-gangwongamyeong-garden-2023",
+    "heroCaption": "Reflections in the rear garden at Gangwongamyeong in December 2023. Confirm current access to the garden and individual buildings.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Trainholic",
+      "title": "Back Garden of Gangwongamyeong Provincial Office, Wonju.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Back_Garden_of_Gangwongamyeong_Provincial_Office%2C_Wonju.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "west"
+  },
+  "wonju-history-museum-visit": {
+    "id": "wonju-history-museum-visit",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Wonju History Museum for local history and folk life. The operator lists free entry; aim to arrive before 17:00 and check the last admission.",
+    "forWhom": "Travelers looking for local history or an indoor alternative near town",
+    "conditions": [
+      "Check Monday and holiday closures. Published last-entry times differ between the museum’s own pages."
+    ],
+    "regions": [
+      "wonju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "museums",
+      "rainy-day alternatives",
+      "Wonju history"
+    ],
+    "relations": [
+      {
+        "slug": "wonju-gangwongamyeong-heritage-visit",
+        "type": "next",
+        "label": "See the former governor’s compound",
+        "reason": "Follow the indoor visit with an outdoor stop if its access and your onward ride fit."
+      },
+      {
+        "slug": "wonju-station-onward-transport",
+        "type": "prepare",
+        "label": "Check your return station",
+        "reason": "Wonju, Manjong and Seowonju are separate rail stations."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "wonju-history-museum"
+    ],
+    "shareFacts": [
+      "Use 봉산로 134 in a map",
+      "Arrive before 17:00",
+      "Check Monday and holiday closures"
+    ],
+    "sources": [
+      {
+        "id": "wonju-history-museum-visit-source-1",
+        "title": "Museum visitor guide",
+        "url": "https://whm.wonju.go.kr/whm/page/view.php/sub_01_01",
+        "note": "Admission, closures, location and published last entry.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wonju-history-museum-visit-source-2",
+        "title": "Museum homepage",
+        "url": "https://whm.wonju.go.kr/whm/main.php",
+        "note": "Earlier published entry cutoff; call to confirm.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wonju-history-museum-visit-source-3",
+        "title": "Wonju municipal museum data",
+        "url": "https://www.data.go.kr/data/15017323/standard.do",
+        "note": "Public address, mapped museum and local bus routes.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1227,
+    "changeType": "new",
+    "heroMediaId": "wonju-history-museum-front-2023",
+    "heroCaption": "Wonju History Museum’s entrance and curved glazing in December 2023. Exhibition signage changes.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Trainholic",
+      "title": "Wonju Museum of History.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wonju_Museum_of_History.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

@@ -31,7 +31,9 @@ export const REGIONS: readonly Region[] = [
       'national-museum-korea-first-permanent-gallery-visit',
     ],
     onward: [
+      { regionId: 'pocheon', reason: 'Compare a quarry, a lakeshore and a woodland day trip, then check the final bus connection.' },
       { regionId: 'chuncheon', reason: 'Plan a lake outing from Seoul and choose where to board the train.' },
+      { regionId: 'wonju', reason: 'Check your train station and give Wonju’s historic compound and local museum their own time.' },
       { regionId: 'gangneung', reason: 'Work out your arrival and give the coast and the heritage sights their own time.' },
       { regionId: 'sokcho', reason: 'Choose the right bus terminal for a market visit, the waterfront or Seoraksan.' },
     ],
@@ -375,6 +377,37 @@ export const REGIONS: readonly Region[] = [
       'namhae-sangju-silver-sand-beach-walk',
     ],
     onward: [{ regionId: 'tongyeong', reason: 'Continue by road on a separate day for the harbor and island views. Check the intercity connection first.' }],
+  },
+  {
+    id: 'pocheon',
+    name: 'Pocheon',
+    nameKo: '포천',
+    area: 'Capital area',
+    coverMediaId: 'pocheon-bidulginang-basalt-pool-2017',
+    intro: 'Choose the quarry lake, a mountain shore walk or a forest visit. Build each day around its own bus or road connection.',
+    tip: 'The quarry, Sanjeong Lake and the national arboretum have separate entrances and return routes. Choose one before setting out from Seoul.',
+    highlights: [
+      'pocheon-art-valley-from-seoul-by-bus',
+      'sanjeong-lake-from-dobongsan-by-bus',
+      'korea-national-arboretum-gwangneung-forest-visit',
+    ],
+    onward: [{ regionId: 'seoul', reason: 'Return to your Seoul base and choose a neighborhood for a day with shorter local transfers.' }],
+  },
+  {
+    id: 'wonju',
+    name: 'Wonju',
+    nameKo: '원주',
+    area: 'Gangwon',
+    coverMediaId: 'wonju-bangye-ri-ginkgo-summer-2023',
+    intro: 'Start with the station on your ticket, then choose a historic courtyard or an indoor visit to the local history museum.',
+    tip: 'Wonju Station, Manjong and Seowonju are separate. The downtown sights and the surrounding countryside need different onward routes.',
+    arrivalGuide: 'wonju-station-onward-transport',
+    highlights: [
+      'wonju-gangwongamyeong-heritage-visit',
+      'wonju-history-museum-visit',
+      'wonju-station-onward-transport',
+    ],
+    onward: [{ regionId: 'seoul', reason: 'Check your return train station and choose a Seoul base near your following plans.' }],
   },
 ];
 
