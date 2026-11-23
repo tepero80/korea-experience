@@ -4218,5 +4218,35 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "public-transport-fares-and-transfers-2026": {
+    "src": "/images/cards/public-transport-fares-and-transfers-2026.jpg",
+    "fingerprint": "10d9e73bfd6308efc674daafa126b7c0454fa1e9eae7ce9a70fc792b82cda5fb",
+    "sourceImage": "/images/editorial/archive-seoul-city-bus-interior-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Sgroey",
+      "title": "Seoul bus.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_bus.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "winter-sports-skiing-snowboarding-and-ice-climbing": {
+    "src": "/images/cards/winter-sports-skiing-snowboarding-and-ice-climbing.jpg",
+    "fingerprint": "bf33a2e91c09d599db417e582b3cd200b3c648a61b3f8a5e9acd34186695d827",
+    "sourceImage": "/images/editorial/archive-mona-yongpyong-ski-base-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Dittwjfsdgkvkdjg",
+      "title": "YongpyeongSki.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YongpyeongSki.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

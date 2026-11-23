@@ -691,6 +691,12 @@
         "reason": "Compare the complete journey to your hotel door, including the last connection, luggage and late check-in."
       },
       {
+        "slug": "public-transport-fares-and-transfers-2026",
+        "type": "next",
+        "label": "Learn the tap-in and tap-out steps",
+        "reason": "See how a linked bus and subway trip is charged before you count rides."
+      },
+      {
         "slug": "climate-card-is-it-worth-it-for-30-days-2026",
         "type": "next",
         "label": "Plan a month of Seoul transit",
@@ -10900,6 +10906,12 @@
         "type": "next",
         "label": "Book the last leg",
         "reason": "Match the correct station, shuttle eligibility, and return to your own date."
+      },
+      {
+        "slug": "winter-sports-skiing-snowboarding-and-ice-climbing",
+        "type": "next",
+        "label": "Plan a first YongPyong lesson",
+        "reason": "Check how the lesson, equipment, lift and ride back fit together."
       },
       {
         "slug": "korea-winter-packing-checklist",
@@ -26864,5 +26876,215 @@
     "gallery": [],
     "experienceVersion": 2,
     "cardImageLabel": "Seoraksan · autumn 2015"
+  },
+  "public-transport-fares-and-transfers-2026": {
+    "id": "guide:public-transport-fares-and-transfers-2026",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the same compatible transit card for each leg and tap it when you board and exit. Seoul’s integrated fare generally requires the next tap within 30 minutes, extended to 60 minutes during the city’s 9 pm to 7 am window. Check route coverage before buying a pass.",
+    "forWhom": "Visitors using Seoul buses or switching between a city bus and the subway",
+    "conditions": [
+      "Examples use the normal adult card fare and eligible Seoul-area trips. Some services, pass boundaries and transfers have different rules."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "preparing",
+      "getting-around"
+    ],
+    "interests": [
+      "city buses",
+      "subway",
+      "fares"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-transit-climate-card-vs-tmoney-2026",
+        "type": "next",
+        "label": "Compare the two fare options",
+        "reason": "Check whether your exact stations and bus routes are inside the short-term pass area."
+      },
+      {
+        "slug": "seoul-group-transit-cards",
+        "type": "prepare",
+        "label": "Set up cards for a group",
+        "reason": "Prepare a separate balance for each rider before using buses and subway gates together."
+      },
+      {
+        "slug": "seoul-snow-transit-topis-checklist",
+        "type": "alternative",
+        "label": "Check buses before a snowy trip",
+        "reason": "Check service and pavement conditions before choosing between bus and rail."
+      }
+    ],
+    "tools": [
+      "transit-pass"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Tap in and out on each leg",
+      "Use one card throughout a trip",
+      "Check pass coverage before buying"
+    ],
+    "sources": [
+      {
+        "id": "guide:public-transport-fares-and-transfers-2026-source-1",
+        "title": "Seoul Metropolitan Government: riding a city bus",
+        "url": "https://english.seoul.go.kr/service/movement/public-transportation/",
+        "note": "Boarding, exit reader and transfer basics.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:public-transport-fares-and-transfers-2026-source-2",
+        "title": "Seoul Metropolitan Government: integrated fares",
+        "url": "https://english.seoul.go.kr/policy/transportation/modes-of-transport/",
+        "note": "Transfer window, tapping rules and fare calculation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:public-transport-fares-and-transfers-2026-source-3",
+        "title": "Seoul Metropolitan Government: subway fares",
+        "url": "https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/",
+        "note": "Current published adult basic card fare and distance charges.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:public-transport-fares-and-transfers-2026-source-4",
+        "title": "Seoul Metropolitan Government: Climate Card",
+        "url": "https://english.seoul.go.kr/policy/transportation/climate-card/",
+        "note": "Short-term pass prices and eligible routes and stations.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1291,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-city-bus-interior-2024",
+    "heroCaption": "Inside a Seoul city bus in August 2024. Look for the onboard reader by your exit when you get off. Bus layouts vary.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Sgroey",
+      "title": "Seoul bus.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_bus.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Seoul bus · August 2024"
+  },
+  "winter-sports-skiing-snowboarding-and-ice-climbing": {
+    "id": "guide:winter-sports-skiing-snowboarding-and-ice-climbing",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "For a first day at MONA YongPyong, confirm a beginner lesson and open beginner terrain before buying lift access. Check what your session covers, allow time to collect equipment, and plan the return trip before you travel to Pyeongchang.",
+    "forWhom": "First-time skiers or snowboarders planning one resort day in Gangwon",
+    "conditions": [
+      "Opening terrain, lessons, rental arrangements and meeting points can change. Confirm the services for your exact visit date before paying."
+    ],
+    "regions": [
+      "gangwon"
+    ],
+    "stages": [
+      "preparing",
+      "exploring"
+    ],
+    "interests": [
+      "skiing",
+      "snowboarding",
+      "winter travel"
+    ],
+    "relations": [
+      {
+        "slug": "ski-resort-train-shuttle",
+        "type": "next",
+        "label": "Check your train or shuttle connection",
+        "reason": "Confirm the last leg to the resort and how you will catch the return."
+      },
+      {
+        "slug": "winter-ski-resorts-comparison-vivaldi-park-vs-yongpyong-vs-alpensia-2026",
+        "type": "alternative",
+        "label": "Compare other resorts before paying",
+        "reason": "Match beginner conditions and transport to the base you are staying in."
+      },
+      {
+        "slug": "korea-winter-packing-checklist",
+        "type": "prepare",
+        "label": "Pack for a day in the snow",
+        "reason": "Separate what you should bring from anything your equipment hire supplies."
+      }
+    ],
+    "tools": [],
+    "placeIds": [
+      "mona-yongpyong-ski-resort"
+    ],
+    "shareFacts": [
+      "Confirm the lesson and beginner terrain",
+      "Check rental and lift inclusions",
+      "Confirm transport in both directions"
+    ],
+    "sources": [
+      {
+        "id": "guide:winter-sports-skiing-snowboarding-and-ice-climbing-source-1",
+        "title": "MONA YongPyong: open slopes",
+        "url": "https://www.yongpyong.co.kr/eng/skiNboard/openStatusBoard.do",
+        "note": "Current slope and lift status before traveling.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:winter-sports-skiing-snowboarding-and-ice-climbing-source-2",
+        "title": "MONA YongPyong: ski school",
+        "url": "https://www.yongpyong.co.kr/eng/skiNboard/ypSkiSchool.do",
+        "note": "Operator contact and lesson options.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:winter-sports-skiing-snowboarding-and-ice-climbing-source-3",
+        "title": "MONA YongPyong: ski house",
+        "url": "https://www.yongpyong.co.kr/eng/skiNboard/house.do",
+        "note": "Locations of ticketing and rental facilities at Dragon Plaza.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:winter-sports-skiing-snowboarding-and-ice-climbing-source-4",
+        "title": "MONA YongPyong: rental information",
+        "url": "https://www.yongpyong.co.kr/eng/skiNboard/utilizationFee/rental.do",
+        "note": "Equipment categories and operator rental information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:winter-sports-skiing-snowboarding-and-ice-climbing-source-5",
+        "title": "VisitKorea: MONA YongPyong",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111329",
+        "note": "Resort identification, road address and visitor contact.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:winter-sports-skiing-snowboarding-and-ice-climbing-source-6",
+        "title": "UIAA: 2027 Cheongsong Ice Climbing World Cup",
+        "url": "https://www.theuiaa.org/event/2027-uiaa-ice-climbing-world-cup-cheongsong-south-korea/",
+        "note": "Published dates for the separate event and link to the official event site.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1292,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-mona-yongpyong-ski-base-2024",
+    "heroCaption": "The base of MONA YongPyong’s ski runs in February 2024. Check the resort’s live status for the slopes and lifts available today.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Dittwjfsdgkvkdjg",
+      "title": "YongpyeongSki.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YongpyeongSki.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "MONA YongPyong · February 2024"
   }
 }

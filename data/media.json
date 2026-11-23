@@ -9987,5 +9987,49 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The image records the scene at the time of photography."
     },
     "capturedAt": "2017-11-13"
+  },
+  {
+    "id": "archive-seoul-city-bus-interior-2024",
+    "src": "/images/editorial/archive-seoul-city-bus-interior-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-city-bus-interior-2024-640.webp 640w, /images/editorial/archive-seoul-city-bus-interior-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "A Seoul bus interior seen from the seats, with the aisle and exit on the right.",
+    "focal": "63% 58%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul_bus.jpg",
+    "originalHash": "77493caa79d1e1e22fc8d0fe2a3148a45571aafd324be07fa2ac91cbb5faf220",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Sgroey",
+      "title": "Seoul bus.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_bus.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2024-08-20"
+  },
+  {
+    "id": "archive-mona-yongpyong-ski-base-2024",
+    "src": "/images/editorial/archive-mona-yongpyong-ski-base-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-mona-yongpyong-ski-base-2024-640.webp 640w, /images/editorial/archive-mona-yongpyong-ski-base-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Skiers and snowboarders on the snow at the foot of the runs at MONA YongPyong.",
+    "focal": "50% 62%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:YongpyeongSki.jpg",
+    "originalHash": "03266c41772dcd0212c43cd6de2a2e29b21ad25d682a1d7df9346dfcb3353e6a",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Dittwjfsdgkvkdjg",
+      "title": "YongpyeongSki.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:YongpyeongSki.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2024-02-23"
   }
 ]

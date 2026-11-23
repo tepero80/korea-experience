@@ -940,5 +940,17 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "public-transport-fares-and-transfers-2026": {
+    "mediaId": "archive-seoul-city-bus-interior-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "winter-sports-skiing-snowboarding-and-ice-climbing": {
+    "mediaId": "archive-mona-yongpyong-ski-base-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }
