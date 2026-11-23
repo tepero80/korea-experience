@@ -20,7 +20,7 @@ Categories: Plan Your Trip; Airports & Transport; Where to Stay; Places & Itiner
 
 Guides answer a real question first, disclose conditions and verification dates, show useful tables, real place information, maps/addresses, alternatives and next actions. Sources support specific claims. No invented firsthand experience or verification. Before selecting or replacing an image, follow the [photography operating standard](../operations/EDITORIAL_PHOTOGRAPHY.md) for visual fit, rights, usable cropping and share previews. No guaranteed indexing or AI citation claims.
 
-Relationships: prerequisites, next actions, nearby, interests, alternatives, tools. Curated relationships outrank contextual fallback; do not fill slots with unrelated posts. Repair body, hub, recommendation, tool, language, community, saved-plan and sitemap references together on retirement.
+Relationships include prerequisites, next actions, nearby stops, interests, alternatives and tools. Use a curated link with an explanation when a real next step changes cities. Automatic article recommendations require a shared region label when both guides name a place. A province label alone does not establish a useful trip from a particular city. Nationwide guides can match on subject. Rank relevance first and prefer a verified lead photograph when relevance ties. Show fewer cards when suitable matches run out. Repair body, hub, recommendation, tool, language, community, saved-plan and sitemap references together on retirement.
 
 ## Implementation checklist
 

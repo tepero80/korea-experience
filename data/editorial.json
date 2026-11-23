@@ -18620,6 +18620,12 @@
         "type": "next",
         "label": "Plan the open coast for dry weather",
         "reason": "Daewangam is a separate district and its bridge has weather restrictions."
+      },
+      {
+        "slug": "busan-bujeon-to-ulsan-taehwagang-trains",
+        "type": "next",
+        "label": "Plan your return to Busan",
+        "reason": "If you are returning through Taehwagang Station, check which train to Bujeon fits your day and allow time to reach the station."
       }
     ],
     "tools": [

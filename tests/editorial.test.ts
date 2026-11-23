@@ -20,6 +20,25 @@ import {
 } from '../lib/tool-share';
 import { compileGuideContent } from '../components/MDXContent';
 import { PLACES, placesFor } from '../lib/editorial';
+import { getRelatedPosts } from '../lib/posts';
+
+test('automatic next steps do not jump between unrelated destination guides', () => {
+  const related = getRelatedPosts('namhae-sangju-silver-sand-beach-walk');
+  assert.ok(related.some((post) => post.editorial?.regions.includes('namhae')));
+  assert.ok(!related.some((post) => post.slug === 'dadaepo-beach-from-busan-metro'));
+  assert.ok(!related.some((post) => post.slug === 'seoul-grand-park-zoo-sky-lift-elephant-train'));
+});
+
+test('an automatic recommendation cannot infer a trip across a province from a city guide', () => {
+  const related = getRelatedPosts('wonju-history-museum-visit');
+  assert.ok(related.some((post) => post.editorial?.regions.includes('wonju')));
+  assert.ok(!related.some((post) => post.slug === 'jeongdongjin-2027-new-year-sunrise-festival-plan'));
+});
+
+test('an explicit onward journey keeps its recommendation across different regions', () => {
+  const related = getRelatedPosts('gwangju-airport-to-songjeong-station');
+  assert.ok(related.some((post) => post.slug === 'ktx-seat-and-luggage-guide-for-international-travelers'));
+});
 
 test('guide maps keep itinerary order while ignoring unavailable and repeated places', () => {
   const first = PLACES[0].id;

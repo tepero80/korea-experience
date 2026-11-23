@@ -13,12 +13,14 @@ export default function NextSteps({
   posts: PostMetadata[];
 }) {
   if (!posts.length) return null;
+  const recommendations = posts.slice(0, 3);
+  const desktopPhotoSize = recommendations.length === 2 ? '640px' : '416px';
   return (
     <section className="next-steps" aria-labelledby="next-steps-title">
       <p className="eyebrow">Keep your trip moving</p>
       <h2 id="next-steps-title">What comes next?</h2>
       <div className={styles.grid}>
-        {posts.slice(0, 3).map((post, index) => {
+        {recommendations.map((post, index) => {
           const relation = current.editorial?.relations.find((r) => r.slug === post.slug);
           const photo = guideHeroPhotograph(post.editorial?.heroMediaId, post.image);
           return (
@@ -34,7 +36,7 @@ export default function NextSteps({
                     className={styles.photo}
                     src={photo.src}
                     srcSet={photo.srcSet}
-                    sizes="(max-width: 640px) calc(100vw - 40px), (max-width: 1019px) 46vw, 384px"
+                    sizes={`(max-width: 640px) calc(100vw - 40px), (max-width: 1019px) 46vw, ${desktopPhotoSize}`}
                     width={photo.width}
                     height={photo.height}
                     style={{ objectPosition: photo.focal }}

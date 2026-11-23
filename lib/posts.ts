@@ -3,6 +3,7 @@ import path from 'node:path';
 import matter from 'gray-matter';
 import { imageSize } from 'image-size';
 import { editorialFor, retirementFor } from './editorial';
+import { guideHeroPhotograph } from './media';
 import { categoryById, inferCategory, TRAVEL_CATEGORIES, type CategoryId } from './taxonomy';
 import type { EditorialGuide } from './content-types';
 
@@ -130,6 +131,13 @@ export function getPostsByCategory(category: string): PostMetadata[] {
 export function getAllCategories(): string[] {
   return TRAVEL_CATEGORIES.map((c) => c.name);
 }
+
+function recommendationRegions(guide?: EditorialGuide): string[] {
+  return (guide?.regions ?? [])
+    .map((region) => region.trim().toLowerCase())
+    .filter((region) => region && region !== 'nationwide');
+}
+
 export function getRelatedPosts(currentSlug: string, limit = 3): PostMetadata[] {
   const posts = getAllPosts();
   const current = posts.find((p) => p.slug === currentSlug);
@@ -141,19 +149,27 @@ export function getRelatedPosts(currentSlug: string, limit = 3): PostMetadata[] 
   if (curated.length >= limit) return curated.slice(0, limit);
   const used = new Set([currentSlug, ...curated.map((p) => p.slug)]);
   const context = current.editorial;
+  const currentRegions = recommendationRegions(context);
   const fallback = posts
-    .filter((p) => !used.has(p.slug) && p.reviewed)
-    .map((post) => {
-      const e = post.editorial!;
-      const region = context?.regions.some((r) => e.regions.includes(r)) ? 3 : 0;
-      const interests = context?.interests.filter((i) => e.interests.includes(i)).length || 0;
-      return {
-        post,
-        score: region + interests * 2 + (post.categoryId === current.categoryId ? 2 : 0),
-      };
+    .flatMap((post) => {
+      const guide = post.editorial;
+      if (used.has(post.slug) || !guide) return [];
+
+      const targetRegions = recommendationRegions(guide);
+      const sameRegion = currentRegions.some((region) => targetRegions.includes(region));
+      // A shared topic cannot establish an onward trip between two specific places.
+      if (currentRegions.length && targetRegions.length && !sameRegion) return [];
+
+      const interests = context?.interests.filter((i) => guide.interests.includes(i)).length ?? 0;
+      const score =
+        (sameRegion ? 3 : 0) + interests * 2 + (post.categoryId === current.categoryId ? 2 : 0);
+      if (score < 3) return [];
+      return [{ post, score, hasPhoto: Boolean(guideHeroPhotograph(guide.heroMediaId, post.image)) }];
     })
-    .filter((x) => x.score >= 3)
-    .sort((a, b) => b.score - a.score || a.post.slug.localeCompare(b.post.slug));
+    .sort(
+      (a, b) =>
+        b.score - a.score || Number(b.hasPhoto) - Number(a.hasPhoto) || a.post.slug.localeCompare(b.post.slug),
+    );
   return [...curated, ...fallback.map((x) => x.post)].slice(0, limit);
 }
 export function getFeaturedPosts() {
