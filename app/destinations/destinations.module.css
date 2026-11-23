@@ -1,0 +1,320 @@
+.directory,
+.hub {
+  padding-block: clamp(1.25rem, 3vw, 3.1rem) clamp(2.8rem, 7vw, 5.6rem);
+  color: var(--editorial-ink);
+}
+
+.title,
+.sectionTitle {
+  margin: 0;
+  font-family: var(--editorial-display);
+  font-weight: 400;
+  letter-spacing: -0.055em;
+  overflow-wrap: anywhere;
+  text-wrap: balance;
+}
+
+.title {
+  font-size: clamp(2.45rem, 6.5vw, 5.5rem);
+  line-height: 1;
+}
+
+.sectionTitle {
+  font-size: clamp(1.85rem, 3.4vw, 2.8rem);
+  line-height: 1.08;
+  scroll-margin-top: 100px;
+}
+
+.directoryIntro {
+  padding: clamp(1rem, 3.5vw, 2.65rem) 0;
+  margin-bottom: clamp(1.45rem, 4vw, 3.5rem);
+  border-bottom: 1px solid var(--editorial-line);
+}
+
+.directoryIntro > p,
+.dek {
+  max-width: 49ch;
+  margin: 0.75rem 0 0;
+  color: var(--editorial-muted);
+  font-size: clamp(1.125rem, 1.9vw, 1.35rem);
+  line-height: 1.45;
+}
+
+.directory .areaJump {
+  margin: clamp(1rem, 2.5vw, 2rem) 0 0;
+}
+
+.directory .areaJump a {
+  border-color: var(--editorial-line);
+  background: var(--editorial-surface);
+  color: var(--editorial-accent);
+}
+
+.directory .areaJump a:hover {
+  background: var(--editorial-wash);
+  color: var(--editorial-hover);
+}
+
+.directory .regionGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 19rem), 1fr));
+  align-items: start;
+  gap: clamp(0.9rem, 2.6vw, 1.8rem);
+}
+
+.directory .regionCard {
+  display: block;
+  background: var(--editorial-surface);
+  border: 1px solid var(--editorial-line);
+  border-radius: 0.8rem;
+  box-shadow: none;
+  color: var(--editorial-ink);
+  overflow: hidden;
+}
+
+.directory .regionCard:hover {
+  border-color: var(--editorial-accent);
+  box-shadow: none;
+}
+
+.directory .regionImage {
+  height: auto;
+  aspect-ratio: 16 / 10;
+}
+
+.directory .regionImage img,
+.directory .regionCard:hover .regionImage img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transform: none;
+}
+
+.directory .regionCopy {
+  display: block;
+  padding: clamp(1rem, 2.4vw, 1.55rem);
+}
+
+.directory .regionCopy h3 {
+  margin: 0.35rem 0 0.45rem;
+  color: var(--editorial-ink);
+  font: 400 clamp(1.7rem, 3vw, 2.22rem) / 1.05 var(--editorial-display);
+  letter-spacing: -0.045em;
+  text-wrap: balance;
+}
+
+.directory .regionCopy p {
+  display: block;
+  color: var(--editorial-muted);
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+.directory .regionCopy > span:first-child,
+.koreanName {
+  color: var(--editorial-muted);
+  font-size: 0.94rem;
+}
+
+.cardAction {
+  display: inline-flex;
+  gap: 0.35rem;
+  margin-top: 0.75rem;
+  color: var(--editorial-accent);
+  font-weight: 680;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hub > :global(.breadcrumbs) {
+  margin: 0 0 clamp(0.7rem, 1.8vw, 1.35rem);
+  color: var(--editorial-muted);
+}
+
+.hub > :global(.breadcrumbs) a {
+  color: var(--editorial-accent);
+}
+
+.hubHero {
+  display: grid;
+  align-items: center;
+  grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+  gap: clamp(1rem, 4.5vw, 4rem);
+}
+
+.hubIntro {
+  min-width: 0;
+}
+
+.koreanName {
+  margin: 0 0 0.4rem;
+}
+
+.hubActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 1.05rem;
+  margin-top: 0.95rem;
+}
+
+.hubActions a,
+.hubCover figcaption a,
+.creditsLink {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: var(--editorial-accent);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hubActions a:hover,
+.hubCover figcaption a:hover,
+.creditsLink:hover {
+  color: var(--editorial-hover);
+}
+
+.hubActions a {
+  font-weight: 720;
+}
+
+.hubCover {
+  margin: 0;
+  min-width: 0;
+}
+
+.hubCover img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 5 / 3;
+  object-fit: cover;
+  background: var(--editorial-wash);
+  border-radius: 0.8rem 0.8rem 0 0;
+}
+
+.hubCover figcaption {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.7rem;
+  padding: 0.15rem 0.65rem 0.05rem;
+  color: var(--editorial-muted);
+  border-bottom: 1px solid var(--editorial-line);
+  font-size: 0.9rem;
+}
+
+.hubCover figcaption a {
+  flex: none;
+}
+
+.tripNote {
+  margin-block: clamp(1.5rem, 3.9vw, 3rem);
+  padding: 0.7rem 1rem;
+  border-left: 3px solid var(--editorial-accent);
+  background: var(--editorial-surface);
+  color: var(--editorial-muted);
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+
+.plans {
+  margin-block: 1rem 2rem;
+}
+
+.hub .plansGrid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: stretch;
+  gap: 0 clamp(1rem, 3vw, 3.1rem);
+  margin-top: 0.8rem;
+  border-top: 1px solid var(--editorial-line);
+}
+
+.hub .planLink {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 0.7rem;
+  min-height: 44px;
+  padding: 0.85rem 0.3rem;
+  color: var(--editorial-ink);
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--editorial-line);
+  border-radius: 0;
+  box-shadow: none;
+}
+
+.hub .planLink:hover {
+  background: var(--editorial-wash);
+}
+
+.hub .planLink:hover h3 {
+  color: var(--editorial-hover);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hub .planLink h3 {
+  margin: 0;
+  color: var(--editorial-ink);
+  font: 400 clamp(1.43rem, 2.7vw, 1.88rem) / 1.1 var(--editorial-display);
+  letter-spacing: -0.04em;
+  overflow-wrap: anywhere;
+  text-wrap: pretty;
+}
+
+.hub .planLink p {
+  display: block;
+  margin: 0.4rem 0 0;
+  color: var(--editorial-muted);
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.planLink > span {
+  color: var(--editorial-accent);
+  font-size: 1.15rem;
+}
+
+.hub .moreGuides,
+.hub .moreGuides li {
+  border-color: var(--editorial-line);
+}
+
+.hub .moreGuides summary,
+.hub .moreGuides li a {
+  color: var(--editorial-accent);
+}
+
+.hub .moreGuides li a > span {
+  color: var(--editorial-muted);
+}
+
+.hub .onward :global(.next-step-grid) a {
+  background: var(--editorial-surface);
+  border-color: var(--editorial-line);
+  color: var(--editorial-accent);
+}
+
+.hub .onward :global(.next-step-grid) a:hover {
+  background: var(--editorial-wash);
+}
+
+.creditsLink {
+  margin-top: 1.15rem;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 760px) {
+  .hubHero {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 0.55rem;
+  }
+
+  .hub .plansGrid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}

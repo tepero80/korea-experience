@@ -6,6 +6,15 @@ import media from '../data/media.json';
 import { cardFingerprint, toolCardFingerprint } from '../lib/card-fingerprint';
 import { TOOL_PREVIEWS, toolPreviewImage } from '../lib/tool-preview';
 import { execFileSync } from 'node:child_process';
+import { HOME_DESCRIPTION, HOME_FEATURE, HOME_TITLE } from '../lib/home-feature';
+
+const editorialColors = {
+  paper: '#faf6ed',
+  ink: '#28241f',
+  muted: '#67594c',
+  accent: '#963e2c',
+  wash: '#f1e7d8',
+};
 
 const escape = (s: string) =>
   s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
@@ -34,20 +43,23 @@ async function text(
 async function main() {
   fs.mkdirSync('public/images/cards', { recursive: true });
   const target = process.argv.find((arg) => arg.startsWith('--slug='))?.slice('--slug='.length);
+  const homeTarget = !target || target === 'korea-experience';
   const guides = getLaunchGuides().filter((post) => !target || post.slug === target);
-  if (target && guides.length !== 1) throw Error(`Reviewed guide not found: ${target}`);
+  if (target && !homeTarget && guides.length !== 1) throw Error(`Reviewed guide not found: ${target}`);
+  const feature = media.find((asset) => asset.id === HOME_FEATURE.photoId);
+  if (homeTarget && feature?.credit.kind !== 'photograph') throw Error('Home feature needs a registered photograph.');
   const credits: Record<string, unknown> = target
     ? JSON.parse(fs.readFileSync('data/card-credits.json', 'utf8'))
     : {};
   for (const post of [
-    ...(!target
+    ...(homeTarget && feature
       ? [
           {
             slug: 'korea-experience',
-            title: 'Plan less. Experience more.',
+            title: HOME_TITLE,
             category: 'KOREA TRAVEL GUIDES, MAPS & TRIP PLANNER',
-            excerpt: 'Choose your base, find your way and build days worth remembering.',
-            image: '/images/editorial/bukchon.webp',
+            excerpt: HOME_DESCRIPTION,
+            image: feature.src,
             checkedAt: undefined,
           },
         ]
@@ -59,17 +71,17 @@ async function main() {
     const photo = await sharp('public' + post.image)
       .resize(400, 630, {
         fit: credit?.kind === 'illustration' ? 'contain' : 'cover',
-        background: '#f2f7f4',
+        background: editorialColors.wash,
       })
       .png()
       .toBuffer();
-    let title = await text(post.title, 46, 710, '#163632', true, true);
+    let title = await text(post.title, 46, 710, editorialColors.ink, true, true);
     for (const size of [43, 40, 37]) {
       if ((await sharp(title).metadata()).height! <= 220) break;
-      title = await text(post.title, size, 710, '#163632', true, true);
+      title = await text(post.title, size, 710, editorialColors.ink, true, true);
     }
     const titleHeight = (await sharp(title).metadata()).height!;
-    const summary = await text(post.excerpt, 21, 710, '#546c68');
+    const summary = await text(post.excerpt, 21, 710, editorialColors.muted);
     if (titleHeight > 220 || (await sharp(summary).metadata()).height! > 85)
       throw Error(`Card copy needs editing: ${post.slug}`);
     const fact = await text(
@@ -77,7 +89,7 @@ async function main() {
         'Practical information for international visitors. Confirm important details for your dates.',
       17,
       710,
-      '#315e55',
+      editorialColors.accent,
       true,
     );
     if ((await sharp(fact).metadata()).height! > 64)
@@ -86,14 +98,14 @@ async function main() {
       { input: photo, left: 800, top: 0 },
       {
         input: Buffer.from(
-          '<svg width="800" height="8"><rect width="800" height="8" fill="#086b66"/></svg>',
+          `<svg width="800" height="8"><rect width="800" height="8" fill="${editorialColors.accent}"/></svg>`,
         ),
         left: 0,
         top: 0,
       },
-      { input: await text('KOREA EXPERIENCE', 21, 710, '#086b66', true, true), left: 40, top: 35 },
+      { input: await text('KOREA EXPERIENCE', 21, 710, editorialColors.accent, true, true), left: 40, top: 35 },
       {
-        input: await text(post.category.toUpperCase(), 15, 710, '#546c68', true),
+        input: await text(post.category.toUpperCase(), 15, 710, editorialColors.muted, true),
         left: 40,
         top: 82,
       },
@@ -107,7 +119,7 @@ async function main() {
             : 'Independent guides · Useful planning tools',
           15,
           710,
-          '#546c68',
+          editorialColors.muted,
         ),
         left: 40,
         top: 546,
@@ -117,7 +129,7 @@ async function main() {
           'koreaexperience.com' + (post.slug === 'korea-experience' ? '' : '/blog/' + post.slug),
           13,
           710,
-          '#163632',
+          editorialColors.ink,
         ),
         left: 40,
         top: 586,
@@ -129,7 +141,7 @@ async function main() {
         if ((await sharp(imageLabel).metadata()).height! > 26)
           throw Error(`Card image label is too long: ${post.slug}`);
         layers.push({
-          input: Buffer.from('<svg width="400" height="34"><rect width="400" height="34" fill="#163632" fill-opacity=".93"/></svg>'),
+          input: Buffer.from(`<svg width="400" height="34"><rect width="400" height="34" fill="${editorialColors.ink}" fill-opacity=".93"/></svg>`),
           left: 800,
           top: 500,
         });
@@ -141,7 +153,7 @@ async function main() {
       }
       layers.push({
         input: Buffer.from(
-          '<svg width="400" height="96"><rect width="400" height="96" fill="#163632" fill-opacity=".93"/></svg>',
+          `<svg width="400" height="96"><rect width="400" height="96" fill="${editorialColors.ink}" fill-opacity=".93"/></svg>`,
         ),
         left: 800,
         top: 534,
@@ -162,7 +174,7 @@ async function main() {
         top: 604,
       });
     }
-    await sharp({ create: { width: 1200, height: 630, channels: 3, background: '#ffffff' } })
+    await sharp({ create: { width: 1200, height: 630, channels: 3, background: editorialColors.paper } })
       .composite(layers)
       .jpeg({ quality: 85 })
       .toFile(`public/images/cards/${post.slug}.jpg`);
@@ -181,7 +193,7 @@ async function main() {
   }
   fs.writeFileSync('data/card-credits.json', JSON.stringify(credits, null, 2) + '\n');
   if (target) {
-    console.log(`Prepared one guide card: ${target}.`);
+    console.log(`Prepared one share card: ${target}.`);
     return;
   }
   const toolCredits: Record<string, unknown> = {};

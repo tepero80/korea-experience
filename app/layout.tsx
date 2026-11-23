@@ -8,6 +8,7 @@ import Footer from '@/components/Footer';
 import ConsentManager from '@/components/site/ConsentManager';
 import ProductionServices from '@/components/site/ProductionServices';
 import { GUIDE_FEED_TYPES, SITE_CONFIG } from '@/lib/constants';
+import { HOME_FEATURE } from '@/lib/home-feature';
 export const metadata: Metadata = {
   title: { default: SITE_CONFIG.title, template: '%s | Korea Experience' },
   description: SITE_CONFIG.description,
@@ -25,7 +26,7 @@ export const metadata: Metadata = {
         url: '/images/cards/korea-experience.jpg',
         width: 1200,
         height: 630,
-        alt: 'Korea Experience — practical guides and useful travel tools',
+        alt: `Korea Experience travel guides, featuring ${HOME_FEATURE.place}`,
       },
     ],
   },

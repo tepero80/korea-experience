@@ -1,16 +1,16 @@
 {
   "korea-experience": {
     "src": "/images/cards/korea-experience.jpg",
-    "fingerprint": "7c7b87d22636b94d9a2b5ef1b8bc08b5b1f49747d3f3510e7f432a64ff908f85",
-    "sourceImage": "/images/editorial/bukchon.webp",
+    "fingerprint": "76f221ef78ce3f50bcd20f98df60c94c353df1091ec3ff760385e37c6d207a5a",
+    "sourceImage": "/images/editorial/gyeongju-donggung-wolji-twilight-1280.webp",
     "credit": {
       "kind": "photograph",
-      "title": "Bukchon Hanok Village 03.jpg",
-      "author": "Bgag",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bukchon_Hanok_Village_03.jpg",
-      "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-      "note": "Resized and converted to WebP. Photographed 2022-09-27. Historical image; not evidence of current access, prices, signage or availability."
+      "title": "gyeongju-donggung-wolji-twilight",
+      "author": "Basile Morin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Water_reflection_of_Donggung_Palace_in_Wolji_Pond_at_blue_hour_in_Gyeongju_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-06-10. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
@@ -2127,16 +2127,16 @@
   },
   "andong-wolyeonggyo-evening-walk": {
     "src": "/images/cards/andong-wolyeonggyo-evening-walk.jpg",
-    "fingerprint": "4824376fa78fb22d5d4a2c8fd51ca080eaf7778ded331908cf39eb1dd3892f1c",
-    "sourceImage": "/images/editorial/andong-wolyeonggyo-after-dark-1280.webp",
+    "fingerprint": "cdcdca3ee06088fc590339e4381071f894472e612ad89a35e5d888bc01cc63a3",
+    "sourceImage": "/images/editorial/andong-wolyeonggyo-river-daylight-1280.webp",
     "credit": {
       "kind": "photograph",
-      "title": "Woryeonggyo at night.jpg",
-      "author": "Choi2451",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woryeonggyo_at_night.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "note": "Photographed 2018-05-01. Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+      "title": "Weolyeonggyo Bridge 01.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Weolyeonggyo_Bridge_01.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2022-10-07. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
@@ -2232,16 +2232,16 @@
   },
   "gyeongbokgung-to-tongin-market-lunch": {
     "src": "/images/cards/gyeongbokgung-to-tongin-market-lunch.jpg",
-    "fingerprint": "85ae302cddaac73ddde9d4690e494855cd4e1e97511e0604043168afe7c88587",
-    "sourceImage": "/images/editorial/tongin-market-aisle-seochon-1280.webp",
+    "fingerprint": "12092ac33108725fcb6029b44c08e26d91c1c2fd7b063f076a13f51ba24c896a",
+    "sourceImage": "/images/editorial/tongin-market-lunchbox-cafe-1280.webp",
     "credit": {
       "kind": "photograph",
-      "title": "Korea Tongin Market 01 (12920987714).jpg",
-      "author": "Korea.net / Korean Culture and Information Service (Jeon Han)",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea_Tongin_Market_01_(12920987714).jpg",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "note": "Photographed 2014-02-20. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 2.0. Confirm current routes, opening and accessibility separately."
+      "title": "Lunch cafe in Tongin Market.jpg",
+      "author": "Luvepoli",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lunch_cafe_in_Tongin_Market.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2015-12-14. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },

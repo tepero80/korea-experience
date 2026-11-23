@@ -19,6 +19,7 @@ import Icon from '@/components/site/Icon';
 import { mediaFor, mediaForSource } from '@/lib/media';
 import { getDestinations } from '@/lib/destinations';
 import { isInRegion } from '@/lib/regions';
+import styles from './article-editorial.module.css';
 type Params = Promise<{ slug: string }>;
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -46,6 +47,7 @@ export default async function Guide({ params }: { params: Params }) {
   const places = placesFor(e?.placeIds || []);
   const tools = PRACTICAL_TOOLS.filter((t) => e?.tools.includes(t.href.split('/').pop()!));
   const firstTripGuide = post.slug === 'first-trip-to-korea-planning-guide';
+  const openingPlaces = places.slice(0, 2);
   const destinations = e?.regions.length
     ? getDestinations().filter((region) => isInRegion(e.regions, region.id))
     : [];
@@ -73,7 +75,7 @@ export default async function Guide({ params }: { params: Params }) {
         dangerouslySetInnerHTML={{ __html: jsonLd([guideSchema(post), breadcrumb]) }}
       />
       <GuideSignals id={post.id} category={post.categoryId} />
-      <div className="wrap article-shell">
+      <div className={`wrap article-shell editorial-travel-surface ${styles.shell}`}>
         <nav className="breadcrumbs" aria-label="Breadcrumb">
           <Link href="/">Home</Link>
           <span>/</span>
@@ -135,7 +137,7 @@ export default async function Guide({ params }: { params: Params }) {
             </div>
           ) : null}
         </header>
-        <div className={e ? 'article-opening' : undefined}>
+        <div className={e ? `article-opening ${styles.opening}` : styles.archiveOpening}>
           {e ? (
             <section className="answer-box" aria-labelledby="quick-answer">
               <h2 id="quick-answer">{e.quickTitle || 'Your quick answer'}</h2>
@@ -193,34 +195,68 @@ export default async function Guide({ params }: { params: Params }) {
               </details>
             </section>
           ) : null}
-          {post.image ? (
-            <figure className="article-cover">
-              <img
-                src={post.image}
-                srcSet={hero?.srcSet}
-                sizes="(max-width: 700px) calc(100vw - 40px), 620px"
-                style={{
-                  objectPosition: hero?.focal,
-                  objectFit: hero?.credit.kind === 'illustration' ? 'contain' : 'cover',
-                }}
-                alt={
-                  hero?.alt || e?.imageCredit?.title || `${post.title} — illustrative archive cover`
-                }
-                width="1280"
-                height="720"
-                fetchPriority="high"
-              />
-              <figcaption>
-                {e?.heroCaption ? <p className="hero-caption">{e.heroCaption}</p> : null}
-                <PhotoCredit credit={e?.imageCredit || hero?.credit} />
-                {!e?.imageCredit && !hero?.credit ? (
-                  <p className="photo-credit">
-                    Archive cover: its origin and accuracy as a real view of this place have not
-                    been verified.
-                  </p>
-                ) : null}
-              </figcaption>
-            </figure>
+          {post.image || openingPlaces.length ? (
+            <div className={styles.leadVisual}>
+              {post.image ? (
+                <figure className={`article-cover${hero ? ` ${styles.actualRatio}` : ''}`}>
+                  <img
+                    src={post.image}
+                    srcSet={hero?.srcSet}
+                    sizes={
+                      e
+                        ? '(max-width: 760px) calc(100vw - 40px), (max-width: 1180px) 45vw, 540px'
+                        : '(max-width: 780px) calc(100vw - 40px), 720px'
+                    }
+                    style={{
+                      objectPosition: hero?.focal,
+                      objectFit: hero ? 'contain' : 'cover',
+                    }}
+                    alt={
+                      hero?.alt || e?.imageCredit?.title || `${post.title} — illustrative archive cover`
+                    }
+                    width={hero?.width || 1280}
+                    height={hero?.height || 720}
+                    fetchPriority="high"
+                  />
+                  <figcaption>
+                    {e?.heroCaption ? <p className="hero-caption">{e.heroCaption}</p> : null}
+                    <PhotoCredit credit={e?.imageCredit || hero?.credit} />
+                    {!e?.imageCredit && !hero?.credit ? (
+                      <p className="photo-credit">
+                        Archive cover: its origin and accuracy as a real view of this place have not
+                        been verified.
+                      </p>
+                    ) : null}
+                  </figcaption>
+                </figure>
+              ) : null}
+              {openingPlaces.length ? (
+                <section className={styles.route} aria-label="Addresses and directions">
+                  <h2>Addresses & directions</h2>
+                  <ul>
+                    {openingPlaces.map((place) => (
+                      <li key={place.id}>
+                        <div className={styles.routePlace}>
+                          <strong>{place.name}</strong>
+                          <span lang="ko">{place.address || place.nameKo}</span>
+                        </div>
+                        <a
+                          href={`https://map.naver.com/p/search/${encodeURIComponent(place.nameKo)}`}
+                          aria-label={`Naver Map for ${place.name}`}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          Naver Map <span aria-hidden="true">↗</span>
+                        </a>
+                      </li>
+                    ))}
+                  </ul>
+                  <a className={styles.mapLink} href="#places-and-map">
+                    Open map & all stops <span aria-hidden="true">↓</span>
+                  </a>
+                </section>
+              ) : null}
+            </div>
           ) : null}
         </div>
         <div className="article-layout" id="guide-details">

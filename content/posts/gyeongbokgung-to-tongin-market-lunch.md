@@ -4,7 +4,7 @@ date: '2026-11-23'
 updated: '2026-11-23'
 excerpt: Pair a palace morning with a market lunch in Seochon, including a walking route and a backup when the coin café is closed.
 category: culture-events
-image: /images/editorial/tongin-market-aisle-seochon-1280.webp
+image: /images/editorial/tongin-market-lunchbox-cafe-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
@@ -32,6 +32,6 @@ If the palace's west gate, **Yeongchumun (영추문)**, is open for exit, use it
 
 Find **도시락카페 통** (Lunchbox Café Tong) in the market's customer center. Ask for the current coin price, final exchange time and where to sit. Take the container to stalls marked as participating, then return to the café for seating if available. Decide how much food you want before exchanging coins. Seoul's [visitor listing](https://english.visitseoul.net/area/Tongin-Market/ENP000281) and [city feature on the café](https://mediahub.seoul.go.kr/archives/2014553) give conflicting weekday schedules, including which day the café closes. The city feature lists a separate coin-sale cutoff. If the café is the reason for your trip, ask the market at **+82 50-71378-0940**, the contact listed by Visit Seoul.
 
-<GuidePhoto id="tongin-market-lunchbox-cafe" caption="The Tongin Market lunch café in 2015. Follow the current 도시락카페 sign and check coin sales and seating when you arrive." />
+<GuidePhoto id="tongin-market-aisle-seochon" caption="Visitors show their filled Tongin Market lunch trays in February 2014. Ask where to collect a container and pay before selecting food." />
 
 If you want to check whether coins are still available, show **지금 엽전 살 수 있어요?** (“Can I buy coins now?”). If you are paying at a stall instead, show **카드 돼요?** (“Can I pay by card?”). Plan a sit-down meal on Sejong Village Food Street if café seating is unavailable or your group needs more time. Once lunch is settled, use the [Seoul three-day plan](/blog/seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026) to decide whether to continue across Jongno or keep the afternoon on the west side.

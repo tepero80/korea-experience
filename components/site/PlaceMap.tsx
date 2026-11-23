@@ -106,7 +106,7 @@ export default function PlaceMap({
     }
   }
   return (
-    <section className="place-map-section" id={id}>
+    <section className="place-map-section" id={id} tabIndex={-1}>
       <div className="section-heading">
         <div>
           <p className="eyebrow">Put it on the map</p>
@@ -147,7 +147,7 @@ export default function PlaceMap({
               <p lang="ko" className="korean-address">
                 {p.nameKo}
               </p>
-              {p.address ? <p>{p.address}</p> : null}
+              {p.address ? <p lang="ko">{p.address}</p> : null}
               <p>{p.description}</p>
               {p.accessibilityNote ? (
                 <p>

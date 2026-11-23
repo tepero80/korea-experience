@@ -1,0 +1,280 @@
+.shell :global(.breadcrumbs) {
+  max-width: 1060px;
+  margin: 20px auto 0;
+  color: var(--editorial-muted);
+}
+
+.shell :global(.article-header) {
+  margin: clamp(18px, 3vw, 35px) auto 20px;
+  padding-bottom: 4px;
+  border-bottom: 1px solid var(--editorial-line);
+}
+
+.shell :global(.article-header) h1 {
+  font-family: var(--editorial-display);
+  font-size: clamp(33px, 5vw, 62px);
+  font-weight: 400;
+  line-height: 1.04;
+  letter-spacing: -0.047em;
+  margin: 10px 0 12px;
+  text-wrap: balance;
+}
+
+.shell :global(.article-header) :global(.eyebrow) {
+  color: var(--editorial-accent);
+}
+
+.shell :global(.article-byline) {
+  color: var(--editorial-muted);
+  margin: 10px 0 12px;
+}
+
+.shell :global(.article-byline) a {
+  color: var(--editorial-ink);
+}
+
+.shell .opening {
+  grid-template-columns: minmax(0, 0.94fr) minmax(0, 1.06fr);
+  align-items: start;
+  max-width: 1060px;
+  gap: clamp(18px, 3.5vw, 46px);
+  margin: 0 auto clamp(22px, 4vw, 54px);
+}
+
+.shell .opening > :only-child {
+  grid-column: 1 / -1;
+}
+
+.leadVisual {
+  min-width: 0;
+}
+
+.shell .opening :global(.answer-box) {
+  background: var(--editorial-surface);
+  border: 1px solid var(--editorial-line);
+  border-left: 4px solid var(--editorial-accent);
+  border-radius: 0 5px 5px 0;
+  padding: clamp(13px, 2.8vw, 28px);
+}
+
+.shell .opening :global(.answer-box) h2 {
+  color: var(--editorial-ink);
+  font-size: clamp(17px, 2vw, 21px);
+  font-weight: 700;
+  letter-spacing: -0.015em;
+  line-height: 1.25;
+  margin: 0 0 7px;
+}
+
+.shell .opening :global(.answer-box) :global(.opening-answer) {
+  color: var(--editorial-ink);
+  font-size: clamp(17px, 1.7vw, 19px);
+  line-height: 1.48;
+  margin: 0 0 12px;
+}
+
+.shell .opening :global(.article-actions) {
+  margin: 0 0 3px;
+}
+
+.shell :global(.article-actions) :global(.action-button) {
+  color: var(--editorial-accent);
+  background: var(--editorial-paper);
+  border-color: var(--editorial-line);
+  border-radius: 5px;
+  font-size: 15px;
+  padding: 8px 10px;
+  min-height: 44px;
+}
+
+.shell :global(.article-actions) :global(.action-button:hover),
+.shell :global(.article-actions) button[aria-pressed='true'] {
+  color: var(--editorial-hover);
+  background: var(--editorial-wash);
+  border-color: var(--editorial-accent);
+}
+
+.shell :global(.answer-conditions) {
+  margin-top: 4px;
+  padding-top: 0;
+  border-color: var(--editorial-line);
+}
+
+.shell :global(.quick-choices) li {
+  border-color: var(--editorial-line);
+}
+
+.shell .leadVisual :global(.article-cover) {
+  margin: 0;
+}
+
+.shell .leadVisual :global(.article-cover) > img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: none;
+  aspect-ratio: 1.6;
+  border-radius: 6px 6px 0 0;
+  background: var(--editorial-wash);
+}
+
+.shell .leadVisual .actualRatio > img {
+  max-height: clamp(290px, 110vw, 430px);
+  aspect-ratio: auto;
+}
+
+.shell .leadVisual figcaption {
+  padding: 8px 0 10px;
+  border-bottom: 1px solid var(--editorial-line);
+}
+
+.shell .leadVisual :global(.hero-caption),
+.shell .leadVisual :global(.photo-credit) {
+  color: var(--editorial-muted);
+  margin-top: 3px;
+}
+
+.archiveOpening {
+  max-width: 760px;
+  margin: 0 auto 36px;
+}
+
+.route {
+  padding-top: 14px;
+}
+
+.route h2 {
+  margin: 0;
+  color: var(--editorial-ink);
+  font: 400 clamp(24px, 2.6vw, 30px)/1.15 var(--editorial-display);
+  letter-spacing: -0.033em;
+}
+
+.route ul {
+  list-style: none;
+  margin: 4px 0 0;
+  padding: 0;
+}
+
+.route li {
+  border-bottom: 1px solid var(--editorial-line);
+  padding: 7px 0;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 2px 12px;
+  min-height: 53px;
+}
+
+.routePlace strong,
+.routePlace span {
+  display: block;
+  overflow-wrap: anywhere;
+}
+
+.routePlace strong {
+  color: var(--editorial-ink);
+  line-height: 1.3;
+}
+
+.routePlace span {
+  color: var(--editorial-muted);
+  font-size: 14px;
+}
+
+.route a {
+  min-height: 44px;
+  display: inline-flex;
+  gap: 5px;
+  align-items: center;
+  color: var(--editorial-accent);
+  font-weight: 700;
+  white-space: nowrap;
+  text-decoration: underline;
+  text-underline-offset: 0.18em;
+}
+
+.route a:hover {
+  color: var(--editorial-hover);
+}
+
+.mapLink {
+  margin-top: 3px;
+}
+
+.shell :global(.article-body) {
+  color: var(--editorial-ink);
+}
+
+.shell :global(.article-body) h2,
+.shell :global(.article-body) h3,
+.shell :global(.place-map-section) h2,
+.shell :global(.source-box) h2,
+.shell :global(.article-destinations) h2,
+.shell :global(.next-steps) h2 {
+  font-family: var(--editorial-display);
+  font-weight: 400;
+  letter-spacing: -0.029em;
+}
+
+.shell :global(.article-body) th,
+.shell :global(.article-destinations) {
+  background: var(--editorial-wash);
+}
+
+.shell :global(.contents-box),
+.shell :global(.source-box),
+.shell :global(.guide-photo) {
+  background: var(--editorial-surface);
+  border-color: var(--editorial-line);
+}
+
+.shell :global(.article-discovery-links) a:hover,
+.shell :global(.article-discovery-links) li:first-child a,
+.shell :global(.place-actions) > a:hover,
+.shell :global(.place-actions) > button:hover {
+  background: var(--editorial-paper);
+  border-color: var(--editorial-accent);
+}
+
+.shell :global(.place-actions) > a,
+.shell :global(.place-actions) > button {
+  border-color: var(--editorial-line);
+  background: var(--editorial-surface);
+}
+
+@media (max-width: 760px) {
+  .shell .opening {
+    display: flex;
+    flex-direction: column;
+  }
+  .shell .opening > * {
+    width: 100%;
+  }
+  .route li {
+    column-gap: 5px;
+  }
+}
+
+@media (max-width: 365px) {
+  .shell :global(.breadcrumbs) {
+    margin-top: 12px;
+  }
+  .shell .opening :global(.article-actions) {
+    gap: 6px;
+  }
+  .shell .opening :global(.article-actions) :global(.action-button) {
+    padding-inline: 7px;
+    font-size: 14px;
+  }
+  .shell .opening :global(.save-action) svg {
+    display: none;
+  }
+}
+
+@media print {
+  .shell .leadVisual :global(.article-cover),
+  .route {
+    break-inside: avoid;
+  }
+}

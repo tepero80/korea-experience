@@ -1,0 +1,16 @@
+# Photography for travel guides
+
+Read this check before choosing or replacing a guide photograph, a destination cover, or the homepage feature. The approved composition and visual palette are in [Travel editorial design](../intent/TRAVEL_EDITORIAL_DESIGN.md).
+
+## Choose a photograph that answers part of the traveler’s question
+
+- Start with the real setting. Use a recognizable street, landscape, building, entrance, dish, boarding point or route detail for the right story. A transfer guide can benefit from a readable station sign. An outdoor itinerary can start with a wide view that shows where the visitor will go.
+- Prioritize a clear subject, natural color, useful visual detail and an uncrowded composition. Let individual places, seasons and times of day retain their own character. Capture dates describe what the photo shows and need no stylistic reinterpretation. Use warm page surfaces around images and keep edits to faithful crops, resizing and compression.
+- Preview the actual mobile crop at 320 and 390px and the desktop crop at 768 and 1440px. Keep route-critical signs, crossings, landforms and entrances in frame. Preserve useful portrait originals in a frame that shows them clearly. Inspect the cropped sharing card separately.
+- Each article hero has its own original. See the all-guide media guard for path, source and hash reuse. A contextual body photograph should add a different detail or viewpoint. Archive footage, stock scenes and illustrations need honest labels. Use only authenticated place photographs for visual directions and other real-world evidence.
+- Record the original work, author, source, license and commercial reuse rights before publication. Record edits and any share-alike obligations alongside the reuse link. Alt text describes the visible scene. Captions identify the place and date when known, explain its relationship to the route, and distinguish historical scenes from present-day access, staff or schedules.
+- When a replacement improves usefulness, update the article, media references, credit, alt text and captions together. Regenerate only the affected share cards. Keep responsive copies where they improve delivery and keep original downloads out of the public export. If a candidate’s rights or subject remain uncertain, use a verified existing photograph and record the reason.
+
+## Initial editorial review
+
+The 60-guide November 23 expansion was the initial review cohort for the design rollout. Tongin Market’s prepared-food counter and Andong’s wide twilight view of Wolyeonggyo replace the former hero images on their respective guides. Their original images remain as relevant contextual figures with accurate captions. The Daejeon market portrait keeps its original sign and street context in the article frame. INSPIRE’s Airport Cargo Terminal Station image remains a labelled transport landmark.

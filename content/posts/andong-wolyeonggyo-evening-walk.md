@@ -4,7 +4,7 @@ date: '2026-11-23'
 updated: '2026-11-23'
 excerpt: 'Find Andong’s wooden footbridge, choose a short riverside walk, and check the last bus back before dusk.'
 category: places-itineraries
-image: /images/editorial/andong-wolyeonggyo-after-dark-1280.webp
+image: /images/editorial/andong-wolyeonggyo-river-daylight-1280.webp
 author: Korea Experience Editorial
 tags:
   - andong
@@ -26,7 +26,7 @@ draft: false
 
 The [Andong city bus system](https://bus.andong.go.kr/route) shows stop sequences. The [city timetable notices](https://www.andong.go.kr/portal/bbs/list.do?mId=0606010100&ptIdx=66) are a separate check for changes. Save the return direction and the actual stop. Do not assume a late service runs because your outbound bus did.
 
-<GuidePhoto id="andong-wolyeonggyo-river-daylight" caption="The wooden bridge over the Nakdonggang River at twilight in October 2022. The mid-bridge pavilion makes a useful turn-around point." />
+<GuidePhoto id="andong-wolyeonggyo-after-dark" caption="The view along the wooden deck toward Wolyeonggyo’s lit pavilion in May 2018. The pavilion can be a turnaround point when you want a shorter crossing." />
 
 ## Make the crossing as short as you need
 

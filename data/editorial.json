@@ -13362,15 +13362,15 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Woryeonggyo at night.jpg",
-      "author": "Choi2451",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woryeonggyo_at_night.jpg",
-      "license": "CC BY-SA 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
-      "note": "Photographed 2018-05-01. Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+      "title": "Weolyeonggyo Bridge 01.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Weolyeonggyo_Bridge_01.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2022-10-07. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
     },
-    "heroMediaId": "andong-wolyeonggyo-after-dark",
-    "heroCaption": "Wolyeonggyo at dusk in May 2018. Check current crossing conditions, lighting and return transport.",
+    "heroMediaId": "andong-wolyeonggyo-river-daylight",
+    "heroCaption": "Wolyeonggyo Bridge, its pavilion and the Nakdonggang reflection at twilight in October 2022. Confirm the lighting and your ride back for your visit.",
     "gallery": [],
     "experienceVersion": 2
   },
@@ -14148,15 +14148,15 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Korea Tongin Market 01 (12920987714).jpg",
-      "author": "Korea.net / Korean Culture and Information Service (Jeon Han)",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea_Tongin_Market_01_(12920987714).jpg",
-      "license": "CC BY-SA 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
-      "note": "Photographed 2014-02-20. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 2.0. Confirm current routes, opening and accessibility separately."
+      "title": "Lunch cafe in Tongin Market.jpg",
+      "author": "Luvepoli",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lunch_cafe_in_Tongin_Market.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2015-12-14. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
     },
-    "heroMediaId": "tongin-market-aisle-seochon",
-    "heroCaption": "Tongin Market's covered aisle in February 2014. Visit for an early lunch and check the café counter before exchanging coins.",
+    "heroMediaId": "tongin-market-lunchbox-cafe",
+    "heroCaption": "Prepared dishes at a Tongin Market lunch counter in December 2015. Check the current stalls and coin café before visiting.",
     "gallery": [],
     "experienceVersion": 2
   },

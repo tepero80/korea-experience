@@ -197,3 +197,26 @@ for (const [name, guide, hrefs] of [
     await page.screenshot({ path: info.outputPath('guide-onward.jpg'), type: 'jpeg', quality: 85 });
   });
 }
+
+test('the featured photograph leads to a real evening route and directions', async ({ page }, info) => {
+  await open(page, '/');
+  await expect(page.getByRole('heading', { name: 'Find your Korea.', exact: true })).toBeVisible();
+  await expect(page.locator('.magazine-feature img')).toBeInViewport();
+  await page.locator('.magazine-feature img').evaluate(async (image: HTMLImageElement) => image.decode());
+  await page.screenshot({ path: info.outputPath('magazine-home.jpg'), type: 'jpeg', quality: 85 });
+
+  await page.getByRole('link', { name: /Make an evening of Gyeongju/ }).click();
+  await expect(page).toHaveURL(/\/destinations\/gyeongju$/);
+  await expect(page.getByRole('link', { name: 'Getting here', exact: true }))
+    .toHaveAttribute('href', '/blog/gyeongju-ktx-to-hwangnidan');
+  await page.getByRole('link', { name: 'Plan your visit', exact: true }).press('Enter');
+  await expect(page.locator('#plan-your-visit')).toBeFocused();
+  await page.locator('a[href="/blog/gyeongju-donggung-wolji-woljeonggyo-evening-walk"]').first().click();
+  await expect(page).toHaveURL(/\/blog\/gyeongju-donggung-wolji-woljeonggyo-evening-walk$/);
+  await expect(page.locator('#quick-answer')).toBeVisible();
+  const nearPhoto = page.getByRole('region', { name: 'Addresses and directions', exact: true });
+  await expect(nearPhoto.getByRole('link', { name: /Naver Map/ })).toHaveCount(2);
+  await nearPhoto.getByRole('link', { name: 'Open map & all stops', exact: true }).press('Enter');
+  await expect(page.locator('#places-and-map')).toBeFocused();
+  await expectClearOfHeader(page.locator('#places-and-map h2'));
+});

@@ -18,7 +18,7 @@ The traveler-focused upgrade is published at 40e7926. See [its acceptance record
 
 Categories: Plan Your Trip; Airports & Transport; Where to Stay; Places & Itineraries; Food & Cafés; Shopping & K-Beauty; Culture & Events; Travel Essentials. Region, season, audience, interests and journey stages are independent facets, not automatically indexable combinations.
 
-Guides answer a real question first, disclose conditions and verification dates, show useful tables, real place information, maps/addresses, alternatives and next actions. Sources support specific claims. No invented firsthand experience or verification. Real photographs need documented rights; generated covers are labeled illustrations. No guaranteed indexing or AI citation claims.
+Guides answer a real question first, disclose conditions and verification dates, show useful tables, real place information, maps/addresses, alternatives and next actions. Sources support specific claims. No invented firsthand experience or verification. Before selecting or replacing an image, follow the [photography operating standard](../operations/EDITORIAL_PHOTOGRAPHY.md) for visual fit, rights, usable cropping and share previews. No guaranteed indexing or AI citation claims.
 
 Relationships: prerequisites, next actions, nearby, interests, alternatives, tools. Curated relationships outrank contextual fallback; do not fill slots with unrelated posts. Repair body, hub, recommendation, tool, language, community, saved-plan and sitemap references together on retirement.
 

@@ -1,0 +1,277 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Korea Experience 여행 매거진 디자인 시안</title>
+  <style>
+    @font-face {
+      font-family: 'Source Sans 3';
+      src: url('../../public/fonts/source-sans-3-latin.woff2') format('woff2');
+      font-weight: 200 900;
+      font-display: swap;
+    }
+    :root {
+      --paper: #faf6ed;
+      --surface: #fffdf8;
+      --ink: #28241f;
+      --muted: #67594c;
+      --accent: #963e2c;
+      --accent-hover: #763022;
+      --line: #d9cbbc;
+      --wash: #f1e7d8;
+      --focus: #075d56;
+      --type: 'Source Sans 3', system-ui, sans-serif;
+      --editorial: Georgia, 'Times New Roman', serif;
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    html { background: #e9e1d7; }
+    body { margin: 0; color: var(--ink); font: 17px/1.45 var(--type); }
+    h1, h2, h3, p, ul, ol, figure { margin: 0; }
+    ul, ol { padding: 0; }
+    a { color: var(--accent); text-underline-offset: 0.18em; }
+    a:hover { color: var(--accent-hover); }
+    a, summary { touch-action: manipulation; }
+    :focus-visible { outline: 3px solid var(--focus); outline-offset: 3px; }
+    [tabindex="-1"] { scroll-margin-top: 18px; }
+    img { max-width: 100%; height: auto; display: block; }
+    .skip {
+      position: absolute; z-index: 1; background: var(--surface);
+      padding: 10px 16px; left: 12px; top: 12px; transform: translateY(-150%);
+    }
+    .skip:focus { transform: none; }
+    .review, .previews { width: min(calc(100% - 40px), 1264px); margin-inline: auto; }
+    .review {
+      padding: 34px 0 19px; display: flex; align-items: end;
+      justify-content: space-between; flex-wrap: wrap; column-gap: 24px; row-gap: 10px;
+    }
+    .review h1 { font: 700 clamp(23px, 3vw, 33px)/1.25 system-ui, sans-serif; letter-spacing: -0.04em; }
+    .review p { margin-top: 7px; font: 14px/1.6 system-ui, sans-serif; color: var(--muted); }
+    .review h1, .review p { word-break: keep-all; }
+    .review nav { display: flex; flex-wrap: wrap; gap: 8px; }
+    .review nav a {
+      min-height: 44px; display: inline-flex; align-items: center; padding: 0 13px;
+      border: 1px solid #ae9985; color: var(--ink); background: var(--surface);
+      text-decoration: none; border-radius: 7px; font: 600 13px/1.2 system-ui, sans-serif;
+    }
+    .review nav a:hover { border-color: var(--accent); color: var(--accent); }
+    .previews { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); align-items: start; gap: 22px; padding-bottom: 30px; }
+    .preview { min-width: 0; }
+    .preview-label { padding: 0 2px 8px; color: var(--muted); font: 700 13px/1.25 system-ui, sans-serif; }
+    .screen {
+      background: var(--paper); border: 1px solid #cdbdae; border-radius: 16px;
+      box-shadow: 0 6px 24px #2d211410; min-width: 0;
+    }
+    .site-bar {
+      display: flex; align-items: center; justify-content: space-between; gap: 10px;
+      margin-inline: 19px; min-height: 57px; border-bottom: 1px solid var(--line);
+    }
+    .site-bar > a {
+      display: inline-flex; align-items: center; gap: 7px; min-height: 44px;
+      color: var(--ink); font-weight: 730; text-decoration: none; font-size: 15px;
+    }
+    .site-bar .site-links { color: var(--accent); text-decoration: underline; }
+    .mark { border-radius: 8px; }
+    .inner { padding-inline: 21px; }
+    .intro { padding-block: 21px 19px; }
+    .intro h2 { font: 400 clamp(34px, 3.1vw, 49px)/0.99 var(--editorial); letter-spacing: -0.061em; text-wrap: balance; }
+    .intro p { margin-top: 10px; color: var(--muted); line-height: 1.38; }
+    .button-row { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 8px; margin-top: 15px; }
+    .primary {
+      display: inline-flex; align-items: center; justify-content: center; gap: 6px;
+      min-height: 46px; padding: 8px 8px; border-radius: 7px;
+      text-align: center; text-decoration: none; font-size: 15px; font-weight: 720; line-height: 1.2;
+    }
+    .primary { background: var(--accent); color: white; border: 1px solid var(--accent); }
+    .primary:hover { background: var(--accent-hover); color: white; }
+    .cover { margin-inline: 0; }
+    .cover img { width: 100%; aspect-ratio: 1.68; object-fit: cover; object-position: center; background: var(--wash); }
+    .cover figcaption {
+      display: flex; justify-content: space-between; align-items: center; gap: 6px;
+      min-height: 45px; padding-inline: 21px;
+      font-size: 13px; color: var(--muted); border-bottom: 1px solid var(--line);
+    }
+    .credit { display: inline-flex; align-items: center; min-height: 44px; flex: 0 0 auto; }
+    .lead-link {
+      display: grid; grid-template-columns: minmax(0, 1fr) auto; align-items: center; gap: 8px;
+      padding-block: 15px; border-bottom: 1px solid var(--line);
+      color: var(--ink); text-decoration: none;
+    }
+    .lead-link:hover strong, .lead-link:focus-visible strong { color: var(--accent); }
+    .lead-link strong { display: block; font: 400 25px/1.1 var(--editorial); letter-spacing: -0.03em; }
+    .lead-link small { display: block; color: var(--muted); margin-top: 4px; font-size: 14px; }
+    .arrow { color: var(--accent); font-size: 23px; line-height: 1; }
+    .section-row, .route-options { padding-block: 15px; }
+    .section-row h3, .route-options h3 {
+      font: 400 26px/1.13 var(--editorial); letter-spacing: -0.035em; text-wrap: balance;
+    }
+    .mini-grid { list-style: none; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 9px; margin-top: 10px; }
+    .mini-grid a {
+      display: block; min-height: 44px; color: var(--ink); border-bottom: 1px solid var(--line);
+      text-decoration: none; font-weight: 720; padding-bottom: 4px;
+    }
+    .mini-grid a:hover { color: var(--accent); }
+    .mini-grid img { width: 100%; aspect-ratio: 1.8; object-fit: cover; margin-bottom: 5px; border-radius: 6px; }
+    .visit-links { margin-top: 14px; display: flex; flex-wrap: wrap; gap: 5px 15px; list-style: none; }
+    .visit-links a { display: inline-flex; min-height: 44px; align-items: center; font-weight: 700; }
+    .quick-panel {
+      border: 1px solid var(--line); border-left: 4px solid var(--accent);
+      padding: 12px 13px 7px; margin-top: 15px; background: var(--surface);
+    }
+    .quick-panel h3 { font-size: 15px; line-height: 1.2; }
+    .quick-panel p { font-size: 16px; margin-top: 6px; line-height: 1.34; }
+    .quick-panel a { display: inline-flex; align-items: center; min-height: 44px; font-weight: 730; }
+    .article .intro h2 { font-size: clamp(32px, 3vw, 43px); line-height: 1.03; }
+    .article .intro { padding-block: 19px 15px; }
+    .crumb { color: var(--accent); font-size: 14px; display: inline-flex; align-items: center; min-height: 44px; }
+    .article .intro .date { color: var(--muted); margin-top: 8px; font-size: 14px; }
+    .route-options h3 { margin-bottom: 8px; }
+    .route-options ol { list-style: none; counter-reset: stop; margin-bottom: 7px; }
+    .route-options li { counter-increment: stop; display: grid; grid-template-columns: 27px minmax(0, 1fr); gap: 10px; padding: 10px 0; border-bottom: 1px solid var(--line); }
+    .route-options li::before {
+      content: counter(stop); display: grid; place-items: center; width: 26px; height: 26px;
+      border: 1px solid #ad7b6c; border-radius: 50%; font-size: 14px; font-weight: 740; color: var(--accent);
+    }
+    .route-options li strong { display: block; font-size: 16px; }
+    .route-options li span { display: block; font-size: 15px; color: var(--muted); }
+    .route-options li a { display: inline-flex; min-height: 44px; align-items: center; font-size: 15px; font-weight: 700; }
+    .next-reads { background: var(--wash); padding-block: 14px; border-radius: 0 0 15px 15px; border-top: 1px solid var(--line); }
+    .next-reads a { display: inline-flex; min-height: 44px; align-items: center; font-weight: 720; }
+    @media (max-width: 1040px) {
+      .review, .previews { width: min(calc(100% - 32px), 466px); }
+      .previews { grid-template-columns: 1fr; row-gap: 26px; }
+      .review { padding-top: 23px; }
+    }
+    @media (max-width: 380px) {
+      .inner, .cover figcaption { padding-inline: 15px; }
+      .site-bar { margin-inline: 15px; }
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#previews">시안으로 건너뛰기</a>
+  <header class="review">
+    <div>
+      <h1>Korea Experience 디자인 시안</h1>
+      <p>홈에서 발견한 경주를 여행지 허브와 기사에서 이어서 살펴보세요.</p>
+    </div>
+    <nav aria-label="시안 화면">
+      <a href="#home-preview">홈</a>
+      <a href="#destination-preview">여행지 허브</a>
+      <a href="#article-preview">기사</a>
+    </nav>
+  </header>
+  <main class="previews" id="previews" tabindex="-1">
+    <section class="preview" id="home-preview" tabindex="-1" aria-labelledby="home-label">
+      <p class="preview-label" id="home-label">홈 · 발견과 계획</p>
+      <div class="screen" lang="en">
+        <div class="site-bar">
+          <a href="#home-preview"><img class="mark" src="../../app/icon.svg" alt="" width="30" height="30"> Korea Experience</a>
+          <a class="site-links" href="https://koreaexperience.com/blog">Find a guide</a>
+        </div>
+        <div class="intro inner">
+          <h2>Find your Korea.</h2>
+          <p>See where you could go. Work out how you’ll get there.</p>
+          <div class="button-row">
+            <a class="primary" href="https://koreaexperience.com/blog/first-trip-to-korea-planning-guide">Plan your first trip</a>
+            <a class="primary" href="#home-places">Explore destinations</a>
+          </div>
+        </div>
+        <figure class="cover">
+          <img src="../../public/images/editorial/gyeongju-donggung-wolji-twilight-640.webp" alt="Illuminated pavilion reflected in Wolji Pond at twilight" width="640" height="426" fetchpriority="high">
+          <figcaption>
+            <span>Wolji Pond, Gyeongju</span>
+            <a class="credit" href="https://koreaexperience.com/image-credits#gyeongju-donggung-wolji-twilight">Photo credit</a>
+          </figcaption>
+        </figure>
+        <a class="lead-link inner" href="#destination-preview">
+          <span><strong>Make an evening of Gyeongju</strong><small>Silla sites by day, reflections after dark.</small></span>
+          <span class="arrow" aria-hidden="true">↗</span>
+        </a>
+        <div class="section-row inner" id="home-places" tabindex="-1">
+          <h3>Explore by destination</h3>
+          <ul class="mini-grid">
+            <li><a href="https://koreaexperience.com/destinations/seoul"><img src="../../public/images/editorial/bukchon-800.webp" alt="Hanok rooftops in Bukchon" width="800" height="534" loading="lazy">Seoul</a></li>
+            <li><a href="https://koreaexperience.com/destinations/busan"><img src="../../public/images/editorial/jagalchi-800.webp" alt="Jagalchi Market food stalls" width="800" height="489" loading="lazy">Busan</a></li>
+          </ul>
+          <ul class="visit-links"><li><a href="https://koreaexperience.com/destinations">All 15 destinations</a></li></ul>
+        </div>
+      </div>
+    </section>
+    <section class="preview" id="destination-preview" tabindex="-1" aria-labelledby="destination-label">
+      <p class="preview-label" id="destination-label">여행지 허브 · 나에게 맞는 일정</p>
+      <div class="screen" lang="en">
+        <div class="site-bar">
+          <a href="#home-preview"><img class="mark" src="../../app/icon.svg" alt="" width="30" height="30"> Korea Experience</a>
+          <a class="site-links" href="https://koreaexperience.com/destinations">Destinations</a>
+        </div>
+        <div class="intro inner">
+          <h2>Gyeongju</h2>
+          <p>Walk among the Silla tombs, then stay for the city’s illuminated ponds and bridges.</p>
+          <ul class="visit-links">
+            <li><a href="https://koreaexperience.com/blog/gyeongju-ktx-to-hwangnidan">Getting here</a></li>
+            <li><a href="#gyeongju-plans">Plan your visit</a></li>
+          </ul>
+        </div>
+        <figure class="cover">
+          <img src="../../public/images/editorial/gyeongju-tombs-2022-800.webp" alt="Grass-covered burial mounds at Daereungwon Tomb Complex" width="800" height="533">
+          <figcaption>
+            <span>Daereungwon Tomb Complex</span>
+            <a class="credit" href="https://koreaexperience.com/image-credits#gyeongju-tombs-2022">Photo credit</a>
+          </figcaption>
+        </figure>
+        <div class="route-options inner" id="gyeongju-plans" tabindex="-1">
+          <h3>Choose a plan</h3>
+          <a class="lead-link" href="#article-preview">
+            <span><strong>One evening in Gyeongju</strong><small>Wolji Pond, Woljeonggyo Bridge and the ride back.</small></span>
+            <span class="arrow" aria-hidden="true">↗</span>
+          </a>
+          <a class="lead-link" href="https://koreaexperience.com/blog/gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026">
+            <span><strong>Two days for Silla history</strong><small>Separate the city sights and hillside temples.</small></span>
+            <span class="arrow" aria-hidden="true">↗</span>
+          </a>
+          <a class="lead-link" href="https://koreaexperience.com/blog/gyeongju-ktx-to-hwangnidan">
+            <span><strong>From the KTX station</strong><small>Choose the bus or taxi to your exact stop.</small></span>
+            <span class="arrow" aria-hidden="true">↗</span>
+          </a>
+        </div>
+      </div>
+    </section>
+    <section class="preview" id="article-preview" tabindex="-1" aria-labelledby="article-label">
+      <p class="preview-label" id="article-label">기사 · 현장에서 바로 쓰는 안내</p>
+      <div class="screen article" lang="en">
+        <div class="site-bar">
+          <a href="#home-preview"><img class="mark" src="../../app/icon.svg" alt="" width="30" height="30"> Korea Experience</a>
+          <a class="site-links" href="#destination-preview">Gyeongju</a>
+        </div>
+        <div class="intro inner">
+          <h2>Gyeongju after dark</h2>
+          <p>Wolji Pond and Woljeonggyo Bridge in one evening.</p>
+          <p class="date">Information checked <time datetime="2026-11-23">November 23, 2026</time></p>
+          <div class="quick-panel">
+            <h3>Where to start</h3>
+            <p>Go to Wolji Pond first for reflections. If crossing the bridge matters more and time is tight, start at Woljeonggyo.</p>
+            <a href="#article-route">See stops &amp; map links</a>
+          </div>
+        </div>
+        <figure class="cover">
+          <img src="../../public/images/editorial/gyeongju-woljeonggyo-evening-640.webp" alt="The lantern-lit Woljeonggyo Bridge reflected in the river" width="640" height="320">
+          <figcaption>
+            <span>Woljeonggyo Bridge</span>
+            <a class="credit" href="https://koreaexperience.com/image-credits#gyeongju-woljeonggyo-evening">Photo credit</a>
+          </figcaption>
+        </figure>
+        <div class="route-options inner" id="article-route" tabindex="-1">
+          <h3>Stops &amp; map links</h3>
+          <ol role="list">
+            <li><div><strong>Donggung Palace &amp; Wolji Pond</strong><span lang="ko">경상북도 경주시 원화로 102</span><a href="https://map.naver.com/p/search/%EB%8F%99%EA%B6%81%EA%B3%BC%20%EC%9B%94%EC%A7%80">Wolji Pond on Naver Map</a></div></li>
+            <li><div><strong>Woljeonggyo Bridge</strong><span lang="ko">경상북도 경주시 교동 274</span><a href="https://map.naver.com/p/search/%EC%9B%94%EC%A0%95%EA%B5%90">Woljeonggyo on Naver Map</a></div></li>
+          </ol>
+          <p>Check the last admission and your ride back before leaving dinner.</p>
+        </div>
+        <div class="next-reads inner"><a href="https://koreaexperience.com/blog/gyeongju-donggung-wolji-woljeonggyo-evening-walk">Full guide, return options &amp; official sources</a></div>
+      </div>
+    </section>
+  </main>
+</body>
+</html>

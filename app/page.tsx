@@ -8,6 +8,7 @@ import Search from '@/components/Search';
 import DiscoveryLink from '@/components/site/DiscoveryLink';
 import { mediaFor } from '@/lib/media';
 import { getDestinations } from '@/lib/destinations';
+import { HOME_DESCRIPTION, HOME_FEATURE, HOME_TITLE } from '@/lib/home-feature';
 
 const featuredRegions = [
   { id: 'seoul', focus: 'Palaces & neighborhoods' },
@@ -29,9 +30,13 @@ export default function Home() {
     const photo = mediaFor(region?.coverMediaId);
     return region && photo?.credit.kind === 'photograph' ? [{ region, photo, focus }] : [];
   });
+  const featurePhoto = mediaFor(HOME_FEATURE.photoId);
+  const showFeature = featurePhoto?.credit.kind === 'photograph' && destinations.some(
+    (region) => region.id === HOME_FEATURE.region && region.indexable,
+  );
   const hasGangwonGuides = destinations.some((region) => region.area === 'Gangwon' && region.indexable);
   return (
-    <>
+    <div className="home-magazine editorial-travel-surface">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -47,22 +52,46 @@ export default function Home() {
           }).replace(/</g, '\\u003c'),
         }}
       />
-      <section className="home-hero wrap" aria-labelledby="home-title">
-        <div>
-          <h1 id="home-title">Plan your Korea trip</h1>
-          <p>Decide where to go, how to get there, and what fits in a day.</p>
+      <section className="magazine-opening wrap" aria-labelledby="home-title">
+        <div className="magazine-heading">
+          <h1 id="home-title">{HOME_TITLE}</h1>
+          <p>{HOME_DESCRIPTION}</p>
+          <div className="home-hero-actions">
+            <nav className="home-entry-links" aria-label="Start exploring Korea">
+              <DiscoveryLink event="home_first_trip" href="/blog/first-trip-to-korea-planning-guide">
+                Plan your first trip
+              </DiscoveryLink>
+              <DiscoveryLink event="home_destinations" href="#explore-destinations">
+                Explore destinations
+              </DiscoveryLink>
+            </nav>
+            <Search variant="hero" />
+          </div>
         </div>
-        <div className="home-hero-actions">
-          <nav className="home-entry-links" aria-label="Start exploring Korea">
-            <DiscoveryLink event="home_first_trip" href="/blog/first-trip-to-korea-planning-guide">
-              Plan your first trip <Icon name="next" />
+        {showFeature && featurePhoto ? (
+          <div className="magazine-feature">
+            <figure>
+              <img
+                src={featurePhoto.src}
+                srcSet={featurePhoto.srcSet}
+                sizes="(max-width: 760px) 100vw, (max-width: 1360px) 55vw, 704px"
+                alt={featurePhoto.alt}
+                width={featurePhoto.width}
+                height={featurePhoto.height}
+                style={{ objectPosition: featurePhoto.focal }}
+                fetchPriority="high"
+              />
+              <figcaption>
+                <span>{HOME_FEATURE.place}</span>
+                <a href={`/image-credits#${featurePhoto.id}`}>Photo credit</a>
+              </figcaption>
+            </figure>
+            <DiscoveryLink className="magazine-feature-link" event="home_destination" href={`/destinations/${HOME_FEATURE.region}`}>
+              <span><strong>{HOME_FEATURE.title}</strong><span>{HOME_FEATURE.description}</span></span>
+              <Icon name="arrow" />
             </DiscoveryLink>
-            <DiscoveryLink event="home_destinations" href="#explore-destinations">
-              Explore destinations <Icon name="next" />
-            </DiscoveryLink>
-          </nav>
-          <Search variant="hero" />
-        </div>
+          </div>
+        ) : null}
       </section>
       <section className="wrap home-destinations" aria-labelledby="explore-destinations">
         <div className="home-destination-heading">
@@ -74,7 +103,7 @@ export default function Home() {
           </DiscoveryLink>
         </div>
         <ul className="home-destination-grid">
-          {photoCards.map(({ region, photo, focus }, index) => (
+          {photoCards.map(({ region, photo, focus }) => (
             <li key={region.id}>
               <DiscoveryLink className="home-destination-card" event="home_destination" href={`/destinations/${region.id}`}>
                 <img
@@ -85,7 +114,7 @@ export default function Home() {
                   width={photo.width}
                   height={photo.height}
                   style={{ objectPosition: photo.focal }}
-                  loading={index === 0 ? 'eager' : 'lazy'}
+                  loading="lazy"
                 />
                 <div className="home-destination-caption">
                   <span><strong>{region.name}</strong><span>{focus}</span></span>
@@ -285,6 +314,6 @@ export default function Home() {
           </Link>
         </div>
       </section>
-    </>
+    </div>
   );
 }

@@ -78,7 +78,7 @@ export const REGIONS: readonly Region[] = [
     name: 'Gyeongju',
     nameKo: '경주',
     area: 'Southeast',
-    coverMediaId: 'gyeongju-wolji-night',
+    coverMediaId: 'gyeongju-tombs-2022',
     intro:
       'Give the central Silla sites and the hillside temples their own time. Start with how you will reach the city and return from each outing.',
     tip: 'Gyeongju KTX Station, the historic center and the Bulguksa area are separate stops. Check how you will get back from the temples before leaving town.',
