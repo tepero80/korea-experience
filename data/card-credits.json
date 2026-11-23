@@ -4248,5 +4248,35 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "ktx-seat-and-luggage-guide-for-international-travelers": {
+    "src": "/images/cards/ktx-seat-and-luggage-guide-for-international-travelers.jpg",
+    "fingerprint": "859cf5c897c0804aabdfe2f2b493a41cbf4b74578c812c0e2251c6ee7f4fc926",
+    "sourceImage": "/images/editorial/archive-ktx-cheongryong-standard-cabin-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Saenggakaneun Namu (생각하는 나무)",
+      "title": "KTX-Cheongnyong Standard Class(2024.05.01).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KTX-Cheongnyong_Standard_Class(2024.05.01).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korea-rail-pass-worth-it-for-short-term-travelers": {
+    "src": "/images/cards/korea-rail-pass-worth-it-for-short-term-travelers.jpg",
+    "fingerprint": "c53827bad7adf5b9a0386aaf436f127a76c1a4a7747c738b9c1b17794f3804b0",
+    "sourceImage": "/images/editorial/archive-seoul-station-cheongryong-platform-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Saenggakaneun Namu (생각하는 나무)",
+      "title": "KTX-Cheongryong Waiting at Seoul Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KTX-Cheongryong_Waiting_at_Seoul_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

@@ -952,5 +952,17 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "ktx-seat-and-luggage-guide-for-international-travelers": {
+    "mediaId": "archive-ktx-cheongryong-standard-cabin-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "korea-rail-pass-worth-it-for-short-term-travelers": {
+    "mediaId": "archive-seoul-station-cheongryong-platform-2024",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

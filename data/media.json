@@ -10031,5 +10031,49 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "capturedAt": "2024-02-23"
+  },
+  {
+    "id": "archive-ktx-cheongryong-standard-cabin-2024",
+    "src": "/images/editorial/archive-ktx-cheongryong-standard-cabin-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-ktx-cheongryong-standard-cabin-2024-640.webp 640w, /images/editorial/archive-ktx-cheongryong-standard-cabin-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "A center aisle between rows of standard-class seats beneath overhead shelves on a KTX-Cheongryong.",
+    "focal": "50% 65%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:KTX-Cheongnyong_Standard_Class(2024.05.01).jpg",
+    "originalHash": "a468ef419712955d9563bc487b23826dbaa91e5110e3b483fd716f8d866c682b",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Saenggakaneun Namu (생각하는 나무)",
+      "title": "KTX-Cheongnyong Standard Class(2024.05.01).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KTX-Cheongnyong_Standard_Class(2024.05.01).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2024-05-01"
+  },
+  {
+    "id": "archive-seoul-station-cheongryong-platform-2024",
+    "src": "/images/editorial/archive-seoul-station-cheongryong-platform-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-station-cheongryong-platform-2024-640.webp 640w, /images/editorial/archive-seoul-station-cheongryong-platform-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 1109,
+    "alt": "A blue KTX-Cheongryong waiting beneath the platform canopy at Seoul Station.",
+    "focal": "69% 53%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:KTX-Cheongryong_Waiting_at_Seoul_Station.jpg",
+    "originalHash": "f806c748fcc85ec288b6df71b559b98451432181bf43046ee3de425ef14398b5",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Saenggakaneun Namu (생각하는 나무)",
+      "title": "KTX-Cheongryong Waiting at Seoul Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KTX-Cheongryong_Waiting_at_Seoul_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2024-05-04"
   }
 ]

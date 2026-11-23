@@ -778,6 +778,18 @@
         "reason": "Use the C-Tour timetable and confirm the stop and return booking before leaving."
       },
       {
+        "slug": "korea-rail-pass-worth-it-for-short-term-travelers",
+        "type": "alternative",
+        "label": "Compare a KORAIL Pass with tickets",
+        "reason": "Price covered trains separately from SRT and compare the selected travel days."
+      },
+      {
+        "slug": "ktx-seat-and-luggage-guide-for-international-travelers",
+        "type": "next",
+        "label": "Check your seat and luggage on KTX",
+        "reason": "After choosing the operator, make sure the exact carriage works for your bags and group."
+      },
+      {
         "slug": "suncheon-station-to-national-garden-east-gate",
         "type": "next",
         "label": "Continue from Suncheon Station to the garden",
@@ -21506,6 +21518,12 @@
         "reason": "Match your airport terminal and route to Seoul."
       },
       {
+        "slug": "ktx-seat-and-luggage-guide-for-international-travelers",
+        "type": "next",
+        "label": "Prepare for boarding after you choose a station",
+        "reason": "Save your carriage details and plan luggage storage on the booked train."
+      },
+      {
         "slug": "wonju-station-onward-transport",
         "type": "next",
         "label": "Check an arrival in Wonju",
@@ -27086,5 +27104,213 @@
     "gallery": [],
     "experienceVersion": 2,
     "cardImageLabel": "MONA YongPyong · February 2024"
+  },
+  "ktx-seat-and-luggage-guide-for-international-travelers": {
+    "id": "guide:ktx-seat-and-luggage-guide-for-international-travelers",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Check the seat map for your exact train. Korail’s general carry-on rule allows up to two pieces that you can manage yourself. Keep them off seats and out of the aisle. Ask about bulky luggage before traveling and ask a crew member where to put a large bag on board.",
+    "forWhom": "Travelers booking KTX, especially with a large suitcase, a group or a seating preference",
+    "conditions": [
+      "Seat direction and luggage facilities vary by train and carriage. The cabin pictured is one train model. Ask Korail about oversize, unusual or restricted items."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "preparing",
+      "getting-around"
+    ],
+    "interests": [
+      "train travel",
+      "luggage",
+      "rail booking"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-station-or-yongsan-for-ktx",
+        "type": "next",
+        "label": "Check your exact departure station",
+        "reason": "See how Seoul Station and Yongsan differ and match the name on your ticket."
+      },
+      {
+        "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+        "type": "prepare",
+        "label": "Choose KTX or SRT",
+        "reason": "Check the operator and departure station before buying."
+      },
+      {
+        "slug": "korea-rail-pass-worth-it-for-short-term-travelers",
+        "type": "alternative",
+        "label": "Price a trip with several rail legs",
+        "reason": "Compare which trips are covered and whether your journey needs a pass."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "shareFacts": [
+      "Check the seat map for your train",
+      "Keep bags off seats and out of aisles",
+      "Save train, carriage and seat numbers"
+    ],
+    "sources": [
+      {
+        "id": "guide:ktx-seat-and-luggage-guide-for-international-travelers-source-1",
+        "title": "Korail: passenger terms, Article 22",
+        "url": "https://www.korail.com/file/cubedata/COMMON/jfile/202504/18/2025041819647fb8f38770.pdf",
+        "note": "General rail carry-on rule, including item count and unobstructed space.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:ktx-seat-and-luggage-guide-for-international-travelers-source-2",
+        "title": "Korail: carry-on items and lost property",
+        "url": "https://www.korail.com/global/eng/passengerGuide/info/otherInfo",
+        "note": "Passenger guidance for luggage and reporting a lost item.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:ktx-seat-and-luggage-guide-for-international-travelers-source-3",
+        "title": "Korail: booking",
+        "url": "https://www.korail.com/global/eng/main",
+        "note": "Official ticket booking and train selection.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:ktx-seat-and-luggage-guide-for-international-travelers-source-4",
+        "title": "Korail: original KTX carriage diagram",
+        "url": "https://info.korail.com/info/contents.do?key=1503",
+        "note": "Shows model-specific facilities and the locations of designated baggage storage.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:ktx-seat-and-luggage-guide-for-international-travelers-source-5",
+        "title": "Korail: KTX-Sancheon carriage guide",
+        "url": "https://info.korail.com/infoeng/contents.do?key=1277",
+        "note": "A different KTX carriage layout for comparison.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:ktx-seat-and-luggage-guide-for-international-travelers-source-6",
+        "title": "Korea National Police Agency: LOST112",
+        "url": "https://www.lost112.go.kr/",
+        "note": "Official lost-property search.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1293,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-ktx-cheongryong-standard-cabin-2024",
+    "heroCaption": "Standard class on a KTX-Cheongryong, photographed in May 2024. The overhead shelves shown are specific to this interior.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Saenggakaneun Namu (생각하는 나무)",
+      "title": "KTX-Cheongnyong Standard Class(2024.05.01).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KTX-Cheongnyong_Standard_Class(2024.05.01).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "KTX-Cheongryong standard class · 2024"
+  },
+  "korea-rail-pass-worth-it-for-short-term-travelers": {
+    "id": "guide:korea-rail-pass-worth-it-for-short-term-travelers",
+    "categoryId": "airports-transport",
+    "format": "comparison",
+    "checkedAt": "2026-11-24",
+    "answer": "Price the exact trains you want first. The published adult two-day KORAIL Pass price is ₩131,000. Choose individual tickets if they cost less and meet your plans. Consider the pass when your covered Korail legs cost more and fit on the selected days.",
+    "forWhom": "Visitors comparing intercity tickets with a KORAIL Pass for a short Korea trip",
+    "conditions": [
+      "Prices and booking conditions can change. The examples demonstrate how to compare totals, and the actual fare comes from your chosen departures and checkout."
+    ],
+    "regions": [
+      "seoul",
+      "busan"
+    ],
+    "stages": [
+      "preparing",
+      "getting-around"
+    ],
+    "interests": [
+      "rail passes",
+      "train travel",
+      "trip costs"
+    ],
+    "relations": [
+      {
+        "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+        "type": "next",
+        "label": "Check who runs each train",
+        "reason": "Korail and SRT differ by operator and may depart from different stations."
+      },
+      {
+        "slug": "ktx-seat-and-luggage-guide-for-international-travelers",
+        "type": "prepare",
+        "label": "Check seats and luggage before booking",
+        "reason": "Confirm your seat layout and have a bag plan before boarding."
+      },
+      {
+        "slug": "seoul-station-or-yongsan-for-ktx",
+        "type": "interest",
+        "label": "Confirm the station in Seoul",
+        "reason": "Use the station name on your departure rather than assuming every KTX starts at Seoul Station."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "shareFacts": [
+      "Start with individual ticket prices",
+      "Compare covered trains and dates",
+      "Reserve seats after buying the pass"
+    ],
+    "sources": [
+      {
+        "id": "guide:korea-rail-pass-worth-it-for-short-term-travelers-source-1",
+        "title": "Korail: pass types and reservation rules",
+        "url": "https://www.korail.com/global/eng/passengerGuide/ticketTypes/korailpass",
+        "note": "Adult fare table, selected days, excluded trains and seat reservation limits.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-rail-pass-worth-it-for-short-term-travelers-source-2",
+        "title": "Korail: pass price announcement",
+        "url": "https://info.korail.com/info/selectBbsNttView.do?bbsNo=199&key=911&nttNo=25965",
+        "note": "Confirms the published adult prices for two through five selected days.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-rail-pass-worth-it-for-short-term-travelers-source-3",
+        "title": "Korail: KORAIL Pass questions",
+        "url": "https://www.korail.com/global/eng/korailpass/faq",
+        "note": "Reservation steps and conditions for changes and refunds.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-rail-pass-worth-it-for-short-term-travelers-source-4",
+        "title": "Korail: official booking",
+        "url": "https://www.korail.com/global/eng/main",
+        "note": "Check the individual fare and availability for each actual departure.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1294,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-station-cheongryong-platform-2024",
+    "heroCaption": "A KTX-Cheongryong waiting at Seoul Station in May 2024. Check the departure station and service on your own ticket.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Saenggakaneun Namu (생각하는 나무)",
+      "title": "KTX-Cheongryong Waiting at Seoul Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KTX-Cheongryong_Waiting_at_Seoul_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "east",
+    "cardImageLabel": "KTX at Seoul Station · May 2024"
   }
 }

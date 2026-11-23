@@ -1,44 +1,46 @@
 ---
-title: "KTX Luggage and Seat Guide for International Travelers"
-date: 2026-10-13
-excerpt: "Know Korail's carry-on rule, where to ask about luggage space, and how to handle a lost item on a KTX trip."
-category: "Travel & Tourism"
-author: "Korea Experience Editorial Team"
+title: 'KTX Seats and Luggage: What to Check Before Boarding'
+date: '2026-10-13'
+updated: '2026-11-24'
+excerpt: >-
+  Choose a seat, check what your KTX carriage has for luggage and know what to
+  do if you leave a bag behind.
+category: airports-transport
+image: /images/editorial/archive-ktx-cheongryong-standard-cabin-2024-1280.webp
+author: Korea Experience Editorial
+tags:
+  - seoul
+  - train travel
+  - luggage
+  - rail booking
+draft: false
 deepDive: true
-image: "/images/ktx-seat-and-luggage-guide-for-international-travelers.webp"
 ---
 
-Planning a KTX journey is easier when you check the current Korail passenger guidance before departure. Korail's published carry-on rule says a passenger must be able to carry their own belongings, with no more than two pieces; luggage must not occupy a seat or block the aisle. This guide sticks to that official rule rather than importing airline-style size or weight limits that Korail does not publish on the cited page.
+## Choose a seat on your actual train
 
-## What Korail says about carry-on luggage
+| What you need | What to check |
+| --- | --- |
+| Seats together | Look at the seat map for your train and carriage during [Korail booking](https://www.korail.com/global/eng/main). Two consecutive numbers need not be next to each other. |
+| Face forward | Look for the direction indicator if it is shown. Ask Korail if direction is important and your booking view leaves it unclear. |
+| Easier boarding | Check your exact station and carriage. If you need assistance or wheelchair space, confirm the arrangement with Korail before paying. |
 
-Korail's passenger information page sets a practical rule: you must be able to handle your luggage yourself, carry no more than two pieces, and keep it out of seats and aisles. The page does not specify a universal suitcase dimension or kilogram limit for ordinary luggage. Do not rely on airline baggage measurements as though they were KTX rules.
+Save your **station, departure time, train number, carriage and seat** before leaving for the station. Check the platform on the station display after you arrive. The [Seoul Station and Yongsan guide](/blog/seoul-station-or-yongsan-for-ktx) helps you tell those two stations apart before you travel.
 
-If you have an unusually bulky item, mobility needs, or a group with several bags, contact Korail before travel and ask what applies to your train. Keep walkways clear and place belongings so they do not obstruct other passengers or staff. Space can vary by train and carriage; verify your seating and boarding details in the current reservation information.
+## Pack luggage you can handle
 
-## Before choosing a seat
+The [general passenger terms, Article 22](https://www.korail.com/file/cubedata/COMMON/jfile/202504/18/2025041819647fb8f38770.pdf) and [Korail carry-on guidance](https://www.korail.com/global/eng/passengerGuide/info/otherInfo) say to keep ordinary carry-on to **two pieces** and carry it yourself, without occupying seats or blocking the aisle. The general terms linked here give no single centimetre or kilogram figure for ordinary bags. For unusually large, awkward or restricted items, tell Korail what you plan to bring and ask what applies to your train.
 
-Seat layouts and onboard facilities can depend on the train service. Review the seat map and information shown during the official booking process before paying, especially if you need adjacent seats, a particular direction, or easier access. Do not assume every KTX model has identical seat orientation, power sockets, or storage arrangements.
+Keep your ticket, passport and valuables within reach. Use the overhead shelf only for an item you can lift, fit and remove safely. The [original KTX carriage diagram](https://info.korail.com/info/contents.do?key=1503) marks designated baggage storage. The [KTX-Sancheon carriage guide](https://info.korail.com/infoeng/contents.do?key=1277) describes a different train. Check the diagram for your model if you know it, and ask the crew where a large case can go. An available rack position depends on your departure and the bags already on board.
 
-Save your train number, departure time, carriage, and seat information. Arrive with enough time to find the platform and board without rushing; follow station displays and staff announcements because platform information can change.
+If the first area you see is full, keep the case under control and ask the crew what to do. Keep doors, passages and neighboring seats clear while you find a suitable place.
 
-## If you lose something
+## If you leave something behind
 
-Korail directs passengers who notice a lost item on a train to tell the train attendant. If you notice it immediately after getting off, contact the station office. Korail recommends having the train number, carriage, and seat number available. For an item found later, check Korea National Police Agency's LOST112 service and contact Korail or the station office as instructed.
+| When you notice | Best first action |
+| --- | --- |
+| Still on board | Tell a crew member and give your carriage and seat number. |
+| Just off the train | Contact the station office before leaving and give the train number, carriage and seat. |
+| Later that day | Contact Korail or the station and check [the official LOST112 search](https://www.lost112.go.kr/). |
 
-Keep identification available when collecting property. Korail's lost-property guidance describes identification and authorization documents that may be required if someone collects an item on your behalf. Check that page for the current requirements before making the trip.
-
-## A simple pre-departure checklist
-
-- Check your official ticket, date, train number, carriage, and seat.
-- Pack no more than you can carry yourself and keep seats and aisles unobstructed.
-- Ask Korail about unusual or bulky items before travel; do not assume an airline-style baggage allowance.
-- Save the train and seat details in case you need help with a lost item.
-
-Policies and facilities can change. Korail's current passenger guidance is the source of truth for your departure.
-
-## Sources
-
-- [Korail — Lost & Found / Carry-On Items](https://www.korail.com/global/eng/passengerGuide/info/otherInfo)
-- [Korail — Official English passenger information](https://www.korail.com/global/eng)
-- [Korea National Police Agency — LOST112](https://www.lost112.go.kr/)
+Write down what the bag or item looks like and where you last had it. Check [Korail’s collection guidance](https://www.korail.com/global/eng/passengerGuide/info/otherInfo) before making a return trip, especially if someone else will pick up the item for you.

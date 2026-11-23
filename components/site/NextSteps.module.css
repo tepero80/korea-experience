@@ -1,0 +1,80 @@
+.grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
+  gap: 16px;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  border: 1px solid var(--editorial-line);
+  border-radius: 12px;
+  background: var(--editorial-surface);
+}
+
+.card:not(:has(.photo)) {
+  align-self: start;
+}
+
+.card > a {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  color: var(--editorial-ink);
+}
+
+.card > a:hover h3 {
+  color: var(--editorial-accent);
+}
+
+.photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  border-radius: 11px 11px 0 0;
+  background: var(--editorial-wash);
+}
+
+.copy {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9px;
+  padding: clamp(14px, 2vw, 22px);
+  overflow-wrap: anywhere;
+}
+
+.copy h3 {
+  font: 400 clamp(20px, 2.1vw, 26px) / 1.2 var(--editorial-display);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+}
+
+.copy p {
+  margin: 0 0 auto;
+  color: var(--editorial-muted);
+  font-size: 14px;
+  line-height: 1.55;
+}
+
+.credit {
+  padding: 0 clamp(14px, 2vw, 22px) 12px;
+  overflow-wrap: anywhere;
+}
+
+@media (min-width: 641px) {
+  .grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 1020px) {
+  .grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}

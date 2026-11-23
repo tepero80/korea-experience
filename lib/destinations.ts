@@ -1,6 +1,6 @@
 import { getLaunchGuides, type PostMetadata } from './posts';
 import { isInRegion, REGIONS, type Region } from './regions';
-import { mediaFor } from './media';
+import { guideHeroPhotograph } from './media';
 import photoReviews from '@/data/destination-guide-photos.json';
 
 type Destination = Region & {
@@ -19,11 +19,9 @@ const reviews: Record<string, {
 
 export function destinationGuidePhoto(post: PostMetadata) {
   const review = reviews[post.slug];
-  const photo = mediaFor(post.editorial?.heroMediaId);
+  const photo = guideHeroPhotograph(post.editorial?.heroMediaId, post.image);
   if (
-    !review || review.mediaId !== photo?.id || photo.src !== post.image ||
-    photo.credit.kind !== 'photograph' || !photo.credit.author || !photo.credit.sourceUrl ||
-    !photo.credit.licenseUrl ||
+    !review || review.mediaId !== photo?.id ||
     review.subjectUsefulness < 2 ||
     review.subjectUsefulness + review.sceneClarity + review.cropPotential < 5
   ) return undefined;
