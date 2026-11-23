@@ -8646,14 +8646,11 @@
     "experienceVersion": 2,
     "categoryId": "culture-events",
     "format": "place",
-    "checkedAt": "2026-11-15",
-    "answer": "Bukchon Village Library is listed by Seoul as a hanok reading and cultural space open daily 09:00–18:00; call ahead because visitor access, language holdings and borrowing rules are not specified on its page.",
-    "forWhom": "Visitors seeking a quiet reading-oriented cultural stop in Bukchon and families interested in the city's listed children's books",
+    "checkedAt": "2026-11-24",
+    "answer": "Pin Bukchon Village Library at 11-9 Gyedong 2-gil, just off Gyedong-gil. Two Seoul listings show different opening hours. Call 02-765-1373 before leaving and keep a nearby museum or public hanok as a fallback.",
+    "forWhom": "Visitors who want a short reading or hanok stop around Anguk without crowding a residential lane",
     "conditions": [
-      "Official address is 11-9 Gyedong 2-gil; daily listed opening is 09:00–18:00.",
-      "The official page does not state admission, borrowing terms, foreign-language stock or exact nonresident visitor procedures.",
-      "Bukchon is residential; the Red Zone visit restriction applies to its designated area, not automatically all Bukchon streets.",
-      "The official library page does not list the nearest station, an accessibility route or step-free access."
+      "Official desktop and mobile listings disagree. Confirm access, the day and time, and any program requirements before traveling."
     ],
     "regions": [
       "seoul"
@@ -8662,74 +8659,88 @@
       "exploring"
     ],
     "interests": [
-      "culture",
+      "bukchon",
       "hanok",
-      "reading",
-      "family-travel"
+      "culture"
     ],
     "relations": [
       {
         "slug": "seoul-museum-of-craft-art-visitor-guide",
-        "type": "nearby",
-        "label": "Add a craft museum visit",
-        "reason": "The Anguk-area museum is another indoor cultural stop; check the specific building hours and temporary opening schedule."
-      },
-      {
-        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
-        "type": "prepare",
-        "label": "Plan the rest of a rainy day",
-        "reason": "Use one compact cluster and account for exposed walks; a residential library is not a café or all-weather route guarantee."
+        "type": "alternative",
+        "label": "Keep a nearby indoor alternative",
+        "reason": "Check the Seoul Museum of Craft Art before leaving if the library cannot confirm reading access."
       },
       {
         "slug": "unhyeongung-anguk-traditional-house-visit",
         "type": "nearby",
-        "label": "Explore another Anguk stop",
-        "reason": "Check Unhyeongung opening conditions and a current map route before combining nearby Jongno stops."
+        "label": "Continue to a public hanok near Anguk",
+        "reason": "See an architectural stop with its own entry rules and route."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "interest",
+        "label": "Plan a rainy day with one neighborhood",
+        "reason": "Group nearby stops so a closed room does not require a long detour."
       }
     ],
     "tools": [],
     "placeIds": [],
     "sources": [
       {
-        "id": "bukchon-library-seoul-hanok-portal",
-        "title": "Seoul Hanok Portal — Bukchon Village Library",
+        "id": "culture-bukchon-village-library-source-1",
+        "title": "Seoul Hanok: Bukchon Village Library",
         "url": "https://hanok.seoul.go.kr/front/eng/exp/expLibrary.do?tab=1",
-        "checkedAt": "2026-11-15",
-        "note": "Library description, collection topics, about 1,230 books and 26 subjects, address, daily hours, phone."
+        "note": "Address, phone, collection, and the English desktop hours.",
+        "checkedAt": "2026-11-24"
       },
       {
-        "id": "bukchon-red-zone-restrictions",
-        "title": "Seoul Metropolitan Government — Bukchon visitor restrictions",
+        "id": "culture-bukchon-village-library-source-2",
+        "title": "Seoul Hanok: Korean mobile library listing",
+        "url": "https://hanok.seoul.go.kr/m/kor/exp/expLibrary.do?tab=1",
+        "note": "Confirms the address and phone. Publishes different hours from the desktop page.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "culture-bukchon-village-library-source-3",
+        "title": "Seoul Hanok: Bukchon facilities",
+        "url": "https://hanok.seoul.go.kr/front/util/bcgTour03.do?lang=KOR",
+        "note": "Library and Bukchon Culture Center are listed at different street addresses.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "culture-bukchon-village-library-source-4",
+        "title": "Seoul: Bukchon walking map",
+        "url": "https://english.seoul.go.kr/wp-content/themes/seoul-e/assets/images/hanok/img/hanok-map-2.pdf",
+        "note": "Shows Gyedong-gil, the library turn and nearby public hanok venues.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "culture-bukchon-village-library-source-5",
+        "title": "Seoul: Bukchon visiting restrictions",
         "url": "https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/",
-        "checkedAt": "2026-11-15",
-        "note": "Red Zone specifically on Bukchon-ro 11-gil; 17:00–10:00 restriction, fine and boundary; does not define all Bukchon as restricted."
-      },
-      {
-        "id": "seoul-hanok-visitor-tips",
-        "title": "Seoul Hanok Portal — Hanok experience tips",
-        "url": "https://hanok.seoul.go.kr/front/eng/exp/expTip.do",
-        "checkedAt": "2026-11-15",
-        "note": "Respect residential privacy, follow visiting hours, avoid intrusive photos and litter."
+        "note": "Map and restrictions for the Red Zone on Bukchon-ro 11-gil.",
+        "checkedAt": "2026-11-24"
       }
     ],
     "shareFacts": [
-      "Seoul lists the library at 11-9 Gyedong 2-gil, open daily 09:00–18:00.",
-      "Call +82-2-765-1373 to verify visitor access or a specific book/program.",
-      "Bukchon Red Zone restrictions apply to a designated area; check its boundary and hours."
+      "Call to confirm reading room hours",
+      "Use 11-9 Gyedong 2-gil",
+      "Keep a second Anguk stop"
     ],
     "launchOrder": 1105,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Illustration: a reading nook inspired by hanok forms",
-      "author": "Korea Experience Editorial",
-      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original in-repository vector illustration; not an actual view of Bukchon Village Library. No external image assets used."
+      "kind": "photograph",
+      "author": "Basile Morin",
+      "title": "Gyedong-gil street with climbing plants at golden hour in Seoul South Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "This photo shows Gyedong-gil nearby. Use the address in the guide to find the library entrance. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
-    "heroMediaId": "culture-bukchon-library-illustration",
-    "heroCaption": "Original editorial illustration—not a photograph or depiction of the actual library.",
-    "cardImageLabel": "Illustration · not a site photo",
+    "heroMediaId": "archive-bukchon-gyedong-gil-hanok-street-2024",
+    "heroCaption": "Gyedong-gil near the library in June 2024. The library is off this street at 11-9 Gyedong 2-gil. Use the address to find its entrance.",
+    "cardImageLabel": "Gyedong-gil near the library · 2024",
     "gallery": []
   },
   "busan-modern-contemporary-history-museum-visit": {
@@ -10108,15 +10119,11 @@
     "id": "airport-incheon-baby-care-rooms",
     "categoryId": "airports-transport",
     "format": "how-to",
-    "checkedAt": "2026-11-17",
-    "answer": "Incheon Airport currently lists baby care rooms (nursing rooms) in both terminals, with location markers and a 24H label. Match the ticket's terminal, decide whether the family is in the general area, departure side or transfer lounge, and use the airport's live facility directory to confirm the route before walking.",
-    "forWhom": "Parents and caregivers traveling with babies or young children through Incheon Airport",
+    "checkedAt": "2026-11-24",
+    "answer": "Match the terminal on your ticket, then search “Baby Care Room” in the airport’s directory. Pick a result in the area you can reach now and open its Location map before walking.",
+    "forWhom": "Travelers with infants who need a change or feeding stop at Incheon Airport",
     "conditions": [
-      "Facility names, locations and hours were checked on 2026-11-17; the airport's dynamic directory can change.",
-      "Some Terminal 2 Family Lounge entries show 00:00–00:00 in the hours field even though the room is labeled 24H; verify the exact entry before relying on it.",
-      "The directory does not describe every room's equipment, privacy layout or current availability.",
-      "The exact route depends on the traveler's terminal and whether they are in the general area, departure side or transfer lounge.",
-      "Gate and hall names are nearby landmarks, not a guarantee of the room's exact walking distance."
+      "Room access and equipment can vary. Use the live terminal directory for current hours and access before you leave your gate or check-in area."
     ],
     "regions": [
       "incheon"
@@ -10126,63 +10133,83 @@
       "departure"
     ],
     "interests": [
-      "family-travel",
-      "baby-care",
-      "nursing",
-      "airport"
+      "family travel",
+      "incheon airport",
+      "baby care"
     ],
     "relations": [
       {
         "slug": "incheon-terminal-flight-check",
         "type": "prepare",
-        "label": "Check the flight terminal",
-        "reason": "Room listings are separate for Terminal 1 and Terminal 2, so confirm the flight terminal before choosing a room."
+        "label": "Confirm the terminal on your ticket",
+        "reason": "Use the airport’s flight listing and ticket before picking a room."
       },
       {
-        "slug": "traveling-korea-with-kids-stroller-access-and-theme-park-tips-2026",
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "next",
+        "label": "Pick an onward airport transfer",
+        "reason": "Compare the train and bus after checking how much luggage you need to move."
+      },
+      {
+        "slug": "booking-family-hotel-rooms-in-korea",
         "type": "prepare",
-        "label": "Plan family travel in Korea",
-        "reason": "This guide covers the airport facility search; the family guide helps with stroller and destination planning beyond the terminal."
+        "label": "Confirm beds before your stay",
+        "reason": "Check room occupancy and bedding with your accommodation before you arrive."
       }
     ],
     "tools": [],
     "placeIds": [],
     "sources": [
       {
-        "id": "incheon-airport-t1-baby-care-directory",
-        "title": "Incheon International Airport — Terminal 1 Facilities Directory",
-        "url": "https://www.airport.kr/ap_en/1536/subview.do?srchTerminalId=P01",
-        "checkedAt": "2026-11-17",
-        "note": "Current facility list labels baby-care/nursing rooms 24H, gives 1577-2600 and locations: near Arrival Halls B/E on 1F; check-in counters D/K on 3F; Gates 11, 22, 25, 29, 33 and 45 on 3F; East and West Transfer Lounges on 4F."
+        "id": "airport-incheon-baby-care-rooms-source-1",
+        "title": "Incheon Airport: terminal facilities directory",
+        "url": "https://www.airport.kr/ap_en/1536/subview.do",
+        "note": "Facility search and Location controls for each listed room.",
+        "checkedAt": "2026-11-24"
       },
       {
-        "id": "incheon-airport-t2-baby-care-directory",
-        "title": "Incheon International Airport — Terminal 2 Facilities Directory",
+        "id": "airport-incheon-baby-care-rooms-source-2",
+        "title": "Incheon Airport: Terminal 1 facility results",
+        "url": "https://www.airport.kr/ap_en/1536/subview.do?srchTerminalId=P01",
+        "note": "Terminal 1 public, gate-side and transfer-area listings.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "airport-incheon-baby-care-rooms-source-3",
+        "title": "Incheon Airport: Terminal 2 facility results",
         "url": "https://www.airport.kr/ap_en/1536/subview.do?srchTerminalId=P03",
-        "checkedAt": "2026-11-17",
-        "note": "Current facility list labels baby-care/nursing rooms 24H, gives 1577-2600 and locations: Arrival Halls A/B on 1F; Bus Stop 1 on B1F; Family Lounges East/West on 2F; west side of Departure Hall 1 and east side of Departure Hall 2 on 3F; Gates 221 and 278 on 3F; East Transfer Lounge on 3F. A few Family Lounge hours display 00:00–00:00."
+        "note": "Terminal 2 public, gate-side and transfer-area listings.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "airport-incheon-baby-care-rooms-source-4",
+        "title": "Incheon Airport: travel with infants",
+        "url": "https://www.airport.kr/ap_en/1477/subview.do",
+        "note": "Airport description of nursing rooms, example equipment and public hall areas.",
+        "checkedAt": "2026-11-24"
       }
     ],
     "shareFacts": [
-      "Incheon Airport's current facility directory lists baby care rooms in both T1 and T2 and labels entries 24H.",
-      "The room's location is tied to the terminal and airport zone; check general area, departure side or transfer lounge before walking.",
-      "Some T2 Family Lounge entries display 00:00–00:00; reconfirm the live entry or call 1577-2600."
+      "Confirm Terminal 1 or Terminal 2",
+      "Search Baby Care Room or 유아휴게실",
+      "Open Location before walking"
     ],
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Incheon Airport baby-care-room terminal and zone planner",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#airport-incheon-baby-care-room-planning-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original vector schematic, created in-repository without external image assets. Not an airport map or proof of a room's location/availability. SHA-256: 9D32E2739E1DBEDC50F1D7900516BFD91516B2D10632D602A6B535B2375EECF9."
+      "kind": "photograph",
+      "author": "AirportTerminalGuy",
+      "title": "ICN T2 terminal.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_T2_terminal.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "The photo shows the gate-side concourse. Choose a baby care room in the live airport map. Resized and converted to WebP. The image records the scene at the time of photography."
     },
-    "heroMediaId": "airport-incheon-baby-care-room-planning-illustration",
-    "heroCaption": "Original planning schematic; use the airport's live facility map for actual locations.",
-    "cardImageLabel": "Illustration · airport planning aid",
+    "heroMediaId": "archive-incheon-t2-airside-wayfinding-2024",
+    "heroCaption": "Departure-gate signs inside Incheon Airport Terminal 2 in July 2024. The airport’s current facility map points to individual baby care rooms.",
+    "cardImageLabel": "Incheon T2 departure concourse · 2024",
     "gallery": [],
-    "launchOrder": 1121
+    "launchOrder": 1121,
+    "experienceVersion": 2
   },
   "seoul-in-winter-complete-guide-ice-skating-and-more-2026": {
     "id": "guide:seoul-in-winter-complete-guide-ice-skating-and-more-2026",

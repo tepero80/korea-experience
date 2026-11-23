@@ -1440,17 +1440,18 @@
   },
   "bukchon-village-library-visitor-guide": {
     "src": "/images/cards/bukchon-village-library-visitor-guide.jpg",
-    "fingerprint": "84cb6ecc25836e7a92c7871c2db6aa938e8639e98c2f9b3e873f3f06a5d1b0f7",
-    "sourceImage": "/images/editorial/bukchon-village-library-illustration.svg",
+    "fingerprint": "59818bad58a714a44a3fa00bd93184af708090082a4eea5f98ca885764a4999b",
+    "sourceImage": "/images/editorial/archive-bukchon-gyedong-gil-hanok-street-2024-1280.webp",
     "credit": {
-      "kind": "illustration",
-      "title": "Illustration: a reading nook inspired by hanok forms",
-      "author": "Korea Experience Editorial",
-      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original in-repository vector illustration; not an actual view of the library; no third-party image assets used."
+      "kind": "photograph",
+      "author": "Basile Morin",
+      "title": "Gyedong-gil street with climbing plants at golden hour in Seoul South Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "This photo shows Gyedong-gil nearby. Use the address in the guide to find the library entrance. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
-    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
   "busan-modern-contemporary-history-museum-visit": {
     "src": "/images/cards/busan-modern-contemporary-history-museum-visit.jpg",
@@ -1679,18 +1680,18 @@
   },
   "incheon-airport-baby-care-room-locations": {
     "src": "/images/cards/incheon-airport-baby-care-room-locations.jpg",
-    "fingerprint": "2a702474f1b7b9320710eab1056a2965c7998ce30a7670a1b26eef91b5ac2aae",
-    "sourceImage": "/images/editorial/incheon-airport-baby-care-room-locations-illustration.svg",
+    "fingerprint": "68498b96f952a05e299e9f97bab2a0931f477996e54a026c527c56d5547c4675",
+    "sourceImage": "/images/editorial/archive-incheon-t2-airside-wayfinding-2024-1280.webp",
     "credit": {
-      "kind": "illustration",
-      "title": "Incheon Airport baby-care-room terminal and zone planner",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#airport-incheon-baby-care-room-planning-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original vector schematic, no third-party assets; not an airport map."
+      "kind": "photograph",
+      "author": "AirportTerminalGuy",
+      "title": "ICN T2 terminal.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_T2_terminal.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "The photo shows the gate-side concourse. Choose a baby care room in the live airport map. Resized and converted to WebP. The image records the scene at the time of photography."
     },
-    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
   "seoul-in-winter-complete-guide-ice-skating-and-more-2026": {
     "src": "/images/cards/seoul-in-winter-complete-guide-ice-skating-and-more-2026.jpg",

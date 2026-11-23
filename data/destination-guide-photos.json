@@ -964,5 +964,17 @@
     "subjectUsefulness": 2,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "bukchon-village-library-visitor-guide": {
+    "mediaId": "archive-bukchon-gyedong-gil-hanok-street-2024",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "incheon-airport-baby-care-room-locations": {
+    "mediaId": "archive-incheon-t2-airside-wayfinding-2024",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

@@ -1,58 +1,42 @@
 ---
-title: 'Incheon Airport Baby Care Rooms: T1 and T2 Location Guide'
+title: 'Incheon Airport Baby Care Rooms: Find One in Your Terminal'
 date: '2026-11-17'
-updated: '2026-11-17'
+updated: '2026-11-24'
 excerpt: >-
-  Find Incheon Airport’s listed baby care and nursing rooms by terminal and airport area, then open the airport’s live location map before walking there.
+  Find a baby care room before security, near your gate or while transferring.
+  Check the airport’s live facility map.
 category: airports-transport
-image: /images/editorial/incheon-airport-baby-care-room-locations-illustration.svg
+image: /images/editorial/archive-incheon-t2-airside-wayfinding-2024-1280.webp
 author: Korea Experience Editorial
 tags:
-  - incheon-airport
-  - family-travel
-  - baby-care
-  - nursing-room
+  - incheon
+  - family travel
+  - incheon airport
+  - baby care
 draft: false
 ---
 
-**Incheon Airport lists baby care rooms (nursing rooms) in both Terminal 1 and Terminal 2.** The current airport facilities directory labels them 24H and shows a location button for each entry. Start by matching your ticket to the correct terminal, then choose a room in the same airport area you can reach: general area, departure security area or transfer lounge.
+## Pick the room that matches where you are
 
-## Find a room in the right part of the airport
+| Airport area | What to search for |
+| --- | --- |
+| Before security or in public arrivals | A **general area** result near your check-in counter, arrivals hall, or transport level. |
+| Near a departure gate | A **duty-free area** result in your terminal. Compare the floor and walking route with your gate and boarding time. |
+| Connecting flights | A **transfer lounge** result you can reach along the signs for your connection. Ask an airport employee before exiting to public arrivals. |
 
-The airport’s English facilities directory calls the service **“Baby Care Room (Nursing Room)”**; the Korean category is **유아휴게실**. These are the directory’s listed examples, checked **November 17, 2026**. Use the live directory for the current full list and map pins before walking.
+For a starting point, the airport lists public rooms near **T1 Arrival Halls B and E** and **T1 check-in counters D and K**. For T2, use the directory’s public results around the arrivals floor or B1 transport level. Compare the exact name and floor in the [room listing](https://www.airport.kr/ap_en/1536/subview.do) before you leave your current area.
 
-| Terminal | General/public areas | After security or in transfer areas |
-| --- | --- | --- |
-| **Terminal 1** | 1F near Arrival Halls B and E; 3F near check-in counters D and K | 3F near Gates 11, 22, 25, 29, 33 and 45; 4F East and West Transfer Lounges |
-| **Terminal 2** | 1F near Arrival Halls A and B; B1 near Bus Stop 1 in the Transportation Center; 3F west side of Departure Hall 1 and east side of Departure Hall 2 | 2F East and West Family Lounges; 3F near Gates 221 and 278; East Transfer Lounge |
+For a gate-side example, the airport lists rooms near **Gate 11 on T1’s third floor** and **Gate 278 on T2’s third floor**. Open the [Terminal 1 results](https://www.airport.kr/ap_en/1536/subview.do?srchTerminalId=P01) or [Terminal 2 results](https://www.airport.kr/ap_en/1536/subview.do?srchTerminalId=P03) and pick the room closest to your actual gate.
 
-These place names are copied from the [airport’s current T1 and T2 facilities directory](https://www.airport.kr/ap_en/1536/subview.do). Its room entries are labeled 24H, but a few T2 Family Lounge entries display `00:00–00:00` as their time range. Recheck the listing and its map marker, or call the airport at **1577-2600**, before depending on a particular room. Room availability and access routes can change.
+## Open the current facility map
 
-## Before security, after security, or in transit?
+1. Open [Incheon Airport’s facilities directory](https://www.airport.kr/ap_en/1536/subview.do) and match Terminal 1 or Terminal 2 to the [flight on your ticket](/blog/incheon-terminal-flight-check).
+2. Search for **Baby Care Room (Nursing Room)** or show airport staff **유아휴게실**.
+3. Select **Location** on the result. Confirm the floor, access zone and nearby gate or hall before walking.
+4. Check the hours on that result. Several listings show 24H and some Family Lounge results display a midnight-to-midnight range. Ask staff or call **1577-2600** from Korea if you need to be sure about one room.
 
-- **Before security:** Look for an entry in the general/public area near check-in or in an arrivals hall. A room near a gate may be on the departure side of security and unavailable from the public check-in area.
-- **After security:** Use the current facility map to check a room near your actual departure gate. Allow enough time to return to the gate; do not assume a room shown near another concourse is on your route.
-- **During a transfer:** The directory lists rooms in transfer lounges. Check the airport’s live map and follow transfer signs for your connection rather than exiting to the general area.
-- **After landing:** Check a room near your own terminal’s arrival halls as you plan your exit. If you need a room before entering the public arrivals area, confirm access with airport staff; if the closest listing is in another terminal, confirm the route before leaving your current area.
+The airport’s [family facilities page](https://www.airport.kr/ap_en/1477/subview.do) describes changing tables, places to feed and sinks among the equipment offered. Check with the airport about the particular room if you rely on an item such as a sterilizer or water dispenser.
 
-The airport map is the authority for exact placement. A gate number or hall label is a nearby landmark, not a guarantee that a room is immediately beside your seat, gate or counter.
+## When the closest room is on the other side of security
 
-## Open the official map and confirm the route
-
-1. Open [Incheon Airport’s facility directory](https://www.airport.kr/ap_en/1536/subview.do).
-2. Select **Terminal 1** or **Terminal 2** to match your flight. You can search the facilities list for **Baby Care Room**.
-3. Check whether the result says general area, duty-free area or transfer lounge; these are different access zones.
-4. Select the result’s **Location** button to view the airport map marker and walking route.
-5. If the room is unclear, call **1577-2600** from within Korea or ask an airport information desk before you leave your current area.
-
-The facility directory is dynamic. Screens, signs and access may change, so follow the current airport map and staff instructions. The room list does not certify that every room has the same equipment or privacy layout.
-
-## Sources checked November 17, 2026
-
-- [Incheon International Airport — Terminal 1 facilities](https://www.airport.kr/ap_en/1536/subview.do?srchTerminalId=P01): current baby care room directory, listed hours, phone number and T1 locations.
-- [Incheon International Airport — Terminal 2 facilities](https://www.airport.kr/ap_en/1536/subview.do?srchTerminalId=P03): current baby care room directory, listed hours, phone number and T2 locations.
-
-## Continue planning your airport trip
-
-- [Check which Incheon Airport terminal your flight uses](/blog/incheon-terminal-flight-check)
-- [Plan Korea travel with children and a stroller](/blog/traveling-korea-with-kids-stroller-access-and-theme-park-tips-2026)
+Stay in your current access zone and look for a second result. Keep your boarding information to hand and ask at the nearest information desk if the directory route is unclear. Use the airport’s room marker for indoor directions. Terminal-level maps are useful for getting to the building, and the airport directory gives the room’s location inside it.

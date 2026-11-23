@@ -10075,5 +10075,49 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "capturedAt": "2024-05-04"
+  },
+  {
+    "id": "archive-bukchon-gyedong-gil-hanok-street-2024",
+    "src": "/images/editorial/archive-bukchon-gyedong-gil-hanok-street-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-bukchon-gyedong-gil-hanok-street-2024-640.webp 640w, /images/editorial/archive-bukchon-gyedong-gil-hanok-street-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 762,
+    "alt": "A tiled roof and climbing plants along Gyedong-gil in Bukchon.",
+    "focal": "40% 52%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg",
+    "originalHash": "eee9562e6e679a27ccac518dbd59b0579de24b7143e60cd4f5799f01070106c3",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Basile Morin",
+      "title": "Gyedong-gil street with climbing plants at golden hour in Seoul South Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyedong-gil_street_with_climbing_plants_at_golden_hour_in_Seoul_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "This photo shows Gyedong-gil nearby. Use the address in the guide to find the library entrance. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2024-06-03"
+  },
+  {
+    "id": "archive-incheon-t2-airside-wayfinding-2024",
+    "src": "/images/editorial/archive-incheon-t2-airside-wayfinding-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-incheon-t2-airside-wayfinding-2024-640.webp 640w, /images/editorial/archive-incheon-t2-airside-wayfinding-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 591,
+    "alt": "An Incheon Airport Terminal 2 concourse with overhead signs pointing toward groups of departure gates.",
+    "focal": "53% 43%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:ICN_T2_terminal.jpg",
+    "originalHash": "b5d26bafdb87f301448564bab1e26c464fa19fd3de00f1a8d2dadd7c7371cc95",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "AirportTerminalGuy",
+      "title": "ICN T2 terminal.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:ICN_T2_terminal.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "The photo shows the gate-side concourse. Choose a baby care room in the live airport map. Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2024-07-26"
   }
 ]
