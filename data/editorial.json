@@ -2448,6 +2448,12 @@
         "type": "alternative",
         "label": "A useful alternative",
         "reason": "Use Insadong for a focused craft browse and Namdaemun for a separate market block; compare materials and portability."
+      },
+      {
+        "slug": "vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026",
+        "type": "alternative",
+        "label": "Browse Dongmyo’s secondhand stalls",
+        "reason": "Use the old-market lanes for a different kind of shopping trip."
       }
     ],
     "tools": [
@@ -12912,6 +12918,12 @@
         "type": "alternative",
         "label": "Plan a Seoraksan day",
         "reason": "Check current cable-car operation and allow time for the trip to the national park."
+      },
+      {
+        "slug": "sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026",
+        "type": "next",
+        "label": "Plan a separate Yangyang beach trip",
+        "reason": "Check the specific beach and onward ride before booking a surf lesson."
       }
     ],
     "tools": [
@@ -14062,6 +14074,12 @@
         "type": "next",
         "label": "Check the correct ferry pier",
         "reason": "Keep the operator's check-in time and terminal ahead of the optional museum or harbor stop."
+      },
+      {
+        "slug": "mokpo-seafood-specialties-octopus-and-skate",
+        "type": "next",
+        "label": "Choose a Mokpo seafood meal",
+        "reason": "Use the Korean menu terms for octopus hot pot or skate and confirm portions."
       }
     ],
     "tools": [
@@ -22224,6 +22242,389 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "winter-activities-ski-resorts-and-ice-festivals": {
+    "id": "guide:winter-activities-ski-resorts-and-ice-festivals",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Book skiing around the specific open slope and the ride back. Visit an ice festival only when the organizer confirms that your activity is running and staff open the marked access.",
+    "forWhom": "Visitors deciding between a winter resort day and a seasonal ice event",
+    "conditions": [
+      "Weather can change resort operations and ice access at short notice. Follow the organizer at the site."
+    ],
+    "regions": [
+      "gangwon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "winter travel",
+      "ski days",
+      "ice festivals"
+    ],
+    "relations": [
+      {
+        "slug": "winter-ski-resorts-comparison-vivaldi-park-vs-yongpyong-vs-alpensia-2026",
+        "type": "next",
+        "label": "Compare three ski resorts",
+        "reason": "Sort each resort by travel and the available return."
+      },
+      {
+        "slug": "korea-ice-festival-opening-check",
+        "type": "alternative",
+        "label": "Check a specific ice event",
+        "reason": "Confirm that staff have opened your planned activity before access."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check the slope and ride back",
+      "Enter ice only at an open, staffed event",
+      "Keep a separate indoor option"
+    ],
+    "sources": [
+      {
+        "id": "guide:winter-activities-ski-resorts-and-ice-festivals-source-1",
+        "title": "MONA Yongpyong open slope status",
+        "url": "https://www.yongpyong.co.kr/eng/skiNboard/openStatusBoard.do",
+        "note": "Operator reports the actual slope status.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:winter-activities-ski-resorts-and-ice-festivals-source-2",
+        "title": "VisitKorea Hwacheon festival listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=96732",
+        "note": "Festival listing and link to its organizer. Historical program information is labelled separately.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1242,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-yongpyong-alpine-center-snow-2018",
+    "heroCaption": "Snowy slopes at Yongpyong Alpine Center during the 2018 Winter Olympics. Use the resort’s current status for available slopes.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "DangTungDuong",
+      "title": "Yongpyong Alpine Center (Pyeongchang 2018).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yongpyong_Alpine_Center_(Pyeongchang_2018).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "mokpo-seafood-specialties-octopus-and-skate": {
+    "id": "guide:mokpo-seafood-specialties-octopus-and-skate",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask for 낙지전골 for cooked octopus hot pot, or 홍어삼합 for a fermented skate platter. Confirm portions and ingredients with the restaurant.",
+    "forWhom": "Travelers deciding what seafood to order during a Mokpo visit",
+    "conditions": [
+      "Dish preparation and shared equipment differ by restaurant. Check current menus and opening hours directly."
+    ],
+    "regions": [
+      "mokpo"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Mokpo food",
+      "menu terms",
+      "Jeolla cooking"
+    ],
+    "relations": [
+      {
+        "slug": "mokpo-modern-history-museum-harbor-weather-plan",
+        "type": "next",
+        "label": "See the harbor’s history",
+        "reason": "Plan an indoor and outdoor combination around the actual museum hours."
+      },
+      {
+        "slug": "navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact",
+        "type": "prepare",
+        "label": "Check ingredients and shared preparation",
+        "reason": "Use practical questions if dietary restrictions matter."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Cooked octopus is 낙지전골",
+      "Ask if a skate platter includes pork",
+      "Confirm current portions and preparation"
+    ],
+    "sources": [
+      {
+        "id": "guide:mokpo-seafood-specialties-octopus-and-skate-source-1",
+        "title": "VisitKorea Mokpo food listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=57607",
+        "note": "Examples of octopus hot pot and the skate platter.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:mokpo-seafood-specialties-octopus-and-skate-source-2",
+        "title": "VisitKorea fermented skate guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221391",
+        "note": "Regional tradition and dish names.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:mokpo-seafood-specialties-octopus-and-skate-source-3",
+        "title": "Korea Disease Control and Prevention Agency",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6227",
+        "note": "Official recognition of severe choking and the 119 emergency call.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1243,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-fermented-skate-platter-2014",
+    "heroCaption": "A platter of fermented skate, called hongeo. The restaurant location is unrecorded.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "자유로",
+      "title": "Hongeo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongeo.jpg",
+      "license": "CC BY 2.0 Korea",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "photographer-guide-to-seoul-best-golden-hour-spots-2026": {
+    "id": "guide:photographer-guide-to-seoul-best-golden-hour-spots-2026",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "For a public riverside approach, use Jamwon Station Exit 4 and follow signs to Jamwon Nadle-mok. Save the way back as well as the viewpoint.",
+    "forWhom": "Visitors deciding where to photograph Seoul before sunset",
+    "conditions": [
+      "Check path access and weather on the day. Sharing public space and finding the return route take priority."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Seoul photography",
+      "Han River",
+      "sunset walks"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-battleship-park-mangwon-visit",
+        "type": "alternative",
+        "label": "Choose a west Seoul river outing",
+        "reason": "Compare Mangwon’s museum ship and its own river approach."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Jamwon Station Exit 4 for the Jamwon approach",
+      "Save the return point separately",
+      "Check the viewpoint before sunset"
+    ],
+    "sources": [
+      {
+        "id": "guide:photographer-guide-to-seoul-best-golden-hour-spots-2026-source-1",
+        "title": "Seoul Jamwon Hangang Park directions",
+        "url": "https://hangang.seoul.go.kr/www/contents/659.do?mid=455",
+        "note": "Official public approach and alternative subway exits.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:photographer-guide-to-seoul-best-golden-hour-spots-2026-source-2",
+        "title": "Seoul Hangang Park rules",
+        "url": "https://hangang.seoul.go.kr/www/park/list.do?mid=426",
+        "note": "Park rules and drone information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:photographer-guide-to-seoul-best-golden-hour-spots-2026-source-3",
+        "title": "Official Korean drone portal",
+        "url": "https://drone.onestop.go.kr/",
+        "note": "Location and permissions resources.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1244,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-han-river-jamwon-sunset-2023",
+    "heroCaption": "The skyline of Seocho seen from the Han River in December 2023.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "SpaceshipMe",
+      "title": "Seocho-gu Skyline from Han River — Dec 2023.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seocho-gu_Skyline_from_Han_River_%E2%80%94_Dec_2023.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026": {
+    "id": "guide:vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Take Line 1 or 6 to Dongmyo Station Exit 3 and start at the stalls by the shrine wall. Check each seller’s hours and payment terms.",
+    "forWhom": "Visitors looking for secondhand clothes, street stalls or a short shopping outing",
+    "conditions": [
+      "The market spans public lanes and individual shops. Exact inventory, opening and payment vary."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Seoul shopping",
+      "secondhand clothes",
+      "street markets"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "interest",
+        "label": "Compare other shopping neighborhoods",
+        "reason": "Use the separate guide when secondhand street stalls are not the main plan."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Dongmyo Station Exit 3",
+      "Check condition before paying",
+      "Compare the separate indoor flea market"
+    ],
+    "sources": [
+      {
+        "id": "guide:vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026-source-1",
+        "title": "Visit Seoul Dongmyo walking guide",
+        "url": "https://english.visitseoul.net/editorspicks/2026-Dongmyotour/ENNn7nirg",
+        "note": "Exit 3 for the market and Exit 6 for the toy street.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026-source-2",
+        "title": "VisitKorea flea-market comparison",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=222319",
+        "note": "Dongmyo area and the separate Seoul Folk Flea Market.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1245,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-dongmyo-shrine-wall-market-2024",
+    "heroCaption": "Secondhand clothes stalls beside the Dongmyo shrine wall in January 2024. Stock and individual stalls change.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Seefooddiet",
+      "title": "Dongmyo Flea Market Jan 2024 01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongmyo_Flea_Market_Jan_2024_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026": {
+    "id": "guide:sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the exact Yangyang beach on your booking. Ingu and Jukdo sit on opposite sides of the headland. Check the meeting location and ride back before paying.",
+    "forWhom": "Visitors comparing a first surf lesson with a shore visit from a Sokcho base",
+    "conditions": [
+      "Check same-day weather, instructions and beach access. Have a separate city plan if the water activity cannot run."
+    ],
+    "regions": [
+      "sokcho"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "East coast",
+      "Yangyang surfing",
+      "Sokcho bases"
+    ],
+    "relations": [
+      {
+        "slug": "sokcho-market-gaetbae-abai-village-walk",
+        "type": "alternative",
+        "label": "Plan a Sokcho market and harbor day",
+        "reason": "Keep the city outing separate from the Yangyang ride and lesson."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Ingu and Jukdo are different beaches",
+      "Confirm exact lesson pickup",
+      "Check water conditions and the return"
+    ],
+    "sources": [
+      {
+        "id": "guide:sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026-source-1",
+        "title": "Yangyang County Ingu Beach listing",
+        "url": "https://tour.yangyang.go.kr/pub/yy10view.do?mode=v&seq=128",
+        "note": "Official beach listing and area address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026-source-2",
+        "title": "VisitKorea Ingu Beach information",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=112680",
+        "note": "Ingu is south and Jukdo Beach north of the headland.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026-source-3",
+        "title": "Yangyang County surfing overview",
+        "url": "https://tour.yangyang.go.kr/pub/funsurfing.do",
+        "note": "Distinguishes the named surfing beaches.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1246,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-yangyang-ingu-beach-surfers-2023",
+    "heroCaption": "Surfers at Ingu Beach in Yangyang in December 2023. Check current water conditions before entering.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Yunjinlee",
+      "title": "양양 인구해변.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%96%91%EC%96%91_%EC%9D%B8%EA%B5%AC%ED%95%B4%EB%B3%80.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Cropped, resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "gallery": [],
     "experienceVersion": 2

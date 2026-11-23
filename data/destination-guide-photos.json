@@ -658,5 +658,35 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "winter-activities-ski-resorts-and-ice-festivals": {
+    "mediaId": "archive-yongpyong-alpine-center-snow-2018",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "mokpo-seafood-specialties-octopus-and-skate": {
+    "mediaId": "archive-fermented-skate-platter-2014",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "photographer-guide-to-seoul-best-golden-hour-spots-2026": {
+    "mediaId": "archive-seoul-han-river-jamwon-sunset-2023",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026": {
+    "mediaId": "archive-dongmyo-shrine-wall-market-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026": {
+    "mediaId": "archive-yangyang-ingu-beach-surfers-2023",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

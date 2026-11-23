@@ -8728,5 +8728,161 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
       "note": "Resized and converted to WebP. Photographed 2015-11-11."
     }
+  },
+  {
+    "id": "archive-yongpyong-alpine-center-snow-2018",
+    "src": "/images/editorial/archive-yongpyong-alpine-center-snow-2018-1280.webp",
+    "srcSet": "/images/editorial/archive-yongpyong-alpine-center-snow-2018-640.webp 640w, /images/editorial/archive-yongpyong-alpine-center-snow-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 775,
+    "alt": "Snow-covered runs at Yongpyong Alpine Center viewed from across the valley",
+    "focal": "50% 59%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Yongpyong_Alpine_Center_(Pyeongchang_2018).jpg",
+    "originalHash": "e349cf5439e23d48dbf99d2170be33a2e156750e4981bba49ddb8304690effcc",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "DangTungDuong",
+      "title": "Yongpyong Alpine Center (Pyeongchang 2018).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yongpyong_Alpine_Center_(Pyeongchang_2018).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2018-02-07"
+  },
+  {
+    "id": "archive-fermented-skate-platter-2014",
+    "src": "/images/editorial/archive-fermented-skate-platter-2014-1280.webp",
+    "srcSet": "/images/editorial/archive-fermented-skate-platter-2014-640.webp 640w, /images/editorial/archive-fermented-skate-platter-2014-1280.webp 900w",
+    "width": 900,
+    "height": 838,
+    "alt": "Slices of fermented skate arranged on a platter.",
+    "focal": "50% 66%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Hongeo.jpg",
+    "originalHash": "6c2ef79709d10d2a87aa44e364cc8b530eab11bf7567e0c4b59c593f0d5b7324",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "자유로",
+      "title": "Hongeo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongeo.jpg",
+      "license": "CC BY 2.0 Korea",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2014-04-14"
+  },
+  {
+    "id": "archive-seoul-han-river-jamwon-sunset-2023",
+    "src": "/images/editorial/archive-seoul-han-river-jamwon-sunset-2023-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-han-river-jamwon-sunset-2023-640.webp 640w, /images/editorial/archive-seoul-han-river-jamwon-sunset-2023-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Gold sunlight on the Jamwon-dong skyline and reflections across the Han River in Seoul",
+    "focal": "50% 48%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seocho-gu_Skyline_from_Han_River_%E2%80%94_Dec_2023.jpg",
+    "originalHash": "d0c0f660e332a15ee03f9f427aa18acad0ea4a416bca911ad7c1970e77aec8e1",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "SpaceshipMe",
+      "title": "Seocho-gu Skyline from Han River — Dec 2023.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seocho-gu_Skyline_from_Han_River_%E2%80%94_Dec_2023.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2023-12-12"
+  },
+  {
+    "id": "archive-dongmyo-shrine-wall-market-2024",
+    "src": "/images/editorial/archive-dongmyo-shrine-wall-market-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-dongmyo-shrine-wall-market-2024-640.webp 640w, /images/editorial/archive-dongmyo-shrine-wall-market-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Shoppers browse secondhand clothes along the Dongmyo shrine wall.",
+    "focal": "50% 64%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Dongmyo_Flea_Market_Jan_2024_01.jpg",
+    "originalHash": "27d7cc2e06ad41965c531ed7b3534c4364afe4053a95339a6225407f7b34d85e",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Seefooddiet",
+      "title": "Dongmyo Flea Market Jan 2024 01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongmyo_Flea_Market_Jan_2024_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2024-01-11"
+  },
+  {
+    "id": "archive-yangyang-ingu-beach-surfers-2023",
+    "src": "/images/editorial/archive-yangyang-ingu-beach-surfers-2023-1280.webp",
+    "srcSet": "/images/editorial/archive-yangyang-ingu-beach-surfers-2023-640.webp 640w, /images/editorial/archive-yangyang-ingu-beach-surfers-2023-1280.webp 1030w",
+    "width": 1030,
+    "height": 585,
+    "alt": "Surfers and boards at Ingu Beach in Yangyang, with the breakwater at left.",
+    "focal": "50% 64%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%96%91%EC%96%91_%EC%9D%B8%EA%B5%AC%ED%95%B4%EB%B3%80.jpg",
+    "originalHash": "6f8a16ce44eb7f00255adccd9e8f7e31ae2cb6556b87ad863d7bbb85ac52cdce",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Yunjinlee",
+      "title": "양양 인구해변.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%96%91%EC%96%91_%EC%9D%B8%EA%B5%AC%ED%95%B4%EB%B3%80.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Cropped, resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2023-12-20"
+  },
+  {
+    "id": "archive-seoul-mangwon-market-stall-2023",
+    "src": "/images/editorial/archive-seoul-mangwon-market-stall-2023-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-mangwon-market-stall-2023-640.webp 640w, /images/editorial/archive-seoul-mangwon-market-stall-2023-1280.webp 1280w",
+    "width": 1280,
+    "height": 576,
+    "alt": "Colourful seafood trays at a stall in Seoul’s Mangwon Market",
+    "caption": "A seafood stall at Seoul’s Mangwon Market, photographed in April 2023.",
+    "focal": "50% 50%",
+    "capturedAt": "2023-04-11",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Mercado_Mangwon_en_Se%C3%BAl.jpg",
+    "originalHash": "e04623612c3c7b6bbc7cb0d61bf6258dc95e65bc6e2d1db377042318127bce03",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "title": "Mercado Mangwon en Seúl.jpg",
+      "author": "Enamoradadecorea",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mercado_Mangwon_en_Se%C3%BAl.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. Photographed 2023-04-11."
+    }
+  },
+  {
+    "id": "archive-gwangjang-bindaetteok-griddle-2016",
+    "src": "/images/editorial/archive-gwangjang-bindaetteok-griddle-2016-1280.webp",
+    "srcSet": "/images/editorial/archive-gwangjang-bindaetteok-griddle-2016-640.webp 640w, /images/editorial/archive-gwangjang-bindaetteok-griddle-2016-1280.webp 1280w",
+    "width": 1280,
+    "height": 1222,
+    "alt": "Golden mung-bean pancakes frying on a griddle at Seoul’s Gwangjang Market",
+    "caption": "Bindaetteok being cooked at Seoul’s Gwangjang Market, photographed in January 2016.",
+    "focal": "50% 84%",
+    "capturedAt": "2016-01-02",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Frying_Bindaetteok.jpg",
+    "originalHash": "53fa888447ee481adb4361a15f3bd164e19eb72225f5fe35e7c31c6c75984aee",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "title": "Frying Bindaetteok.jpg",
+      "author": "Rystheguy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frying_Bindaetteok.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2016-01-02."
+    }
   }
 ]

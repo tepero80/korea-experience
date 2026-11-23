@@ -1,10 +1,10 @@
 ---
 title: "24-Hour Seoul Itinerary Survive the City That Never Sleeps 2026"
 date: 2026-01-01
-excerpt: "Master Seoul in 24 hours with this expert guide covering essential sights, food, and nightlife. Unlock the secrets to a dynamic day and night adventure."
+excerpt: "Mix a market stop, a sunset viewpoint and an evening neighborhood, with time to check your route back."
 category: Travel & Tourism
 author: Korea Experience Team
-image: "/images/24-hour-seoul-itinerary-how-to-survive-the-city-that-never-sleeps-2026.webp"
+image: /images/editorial/archive-gwangjang-bindaetteok-griddle-2016-1280.webp
 ---
 ## Introduction: Conquering Seoul in Just 24 Hours
 

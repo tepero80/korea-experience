@@ -3490,5 +3490,80 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "winter-activities-ski-resorts-and-ice-festivals": {
+    "src": "/images/cards/winter-activities-ski-resorts-and-ice-festivals.jpg",
+    "fingerprint": "b49a720b289e0cffddacf7451c54846dda86a434cff4fe03a6e07341da4fa9a7",
+    "sourceImage": "/images/editorial/archive-yongpyong-alpine-center-snow-2018-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "DangTungDuong",
+      "title": "Yongpyong Alpine Center (Pyeongchang 2018).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yongpyong_Alpine_Center_(Pyeongchang_2018).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "mokpo-seafood-specialties-octopus-and-skate": {
+    "src": "/images/cards/mokpo-seafood-specialties-octopus-and-skate.jpg",
+    "fingerprint": "9641c4abd040451cd429abfd31191a36da68f46a9428419043c3b3c27aad41d9",
+    "sourceImage": "/images/editorial/archive-fermented-skate-platter-2014-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "자유로",
+      "title": "Hongeo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongeo.jpg",
+      "license": "CC BY 2.0 Korea",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "photographer-guide-to-seoul-best-golden-hour-spots-2026": {
+    "src": "/images/cards/photographer-guide-to-seoul-best-golden-hour-spots-2026.jpg",
+    "fingerprint": "287f05eb1ee3b93364e15dd9369ba4abb0d7ee76a786d7de57b307057673c3aa",
+    "sourceImage": "/images/editorial/archive-seoul-han-river-jamwon-sunset-2023-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "SpaceshipMe",
+      "title": "Seocho-gu Skyline from Han River — Dec 2023.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seocho-gu_Skyline_from_Han_River_%E2%80%94_Dec_2023.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026": {
+    "src": "/images/cards/vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026.jpg",
+    "fingerprint": "99ea5c4160416022d1bc709111a73cbacd14dd9b39361fbc4878b3ab85b1ff12",
+    "sourceImage": "/images/editorial/archive-dongmyo-shrine-wall-market-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Seefooddiet",
+      "title": "Dongmyo Flea Market Jan 2024 01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongmyo_Flea_Market_Jan_2024_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026": {
+    "src": "/images/cards/sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026.jpg",
+    "fingerprint": "5f7831acd1fda9dc18dd615f8aca205d69e6751dc9035d02f3f8d20d7a826dfa",
+    "sourceImage": "/images/editorial/archive-yangyang-ingu-beach-surfers-2023-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Yunjinlee",
+      "title": "양양 인구해변.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%96%91%EC%96%91_%EC%9D%B8%EA%B5%AC%ED%95%B4%EB%B3%80.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Cropped, resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }
