@@ -24,11 +24,11 @@ export const REGIONS: readonly Region[] = [
     tip: 'Leave room for the final walk: a station name alone does not describe the hotel entrance, stairs, or the correct exit.',
     highlights: [
       'seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style',
-      'airport-limousine-bus-vs-arex-express-train',
       'seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026',
-      'seongsu-dong-dior-luxury-vs-market-eats-in-24-hours',
-      'seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets',
-      'how-to-order-food-in-korean-restaurants-phrases-guide-2026',
+      'changgyeonggung-grand-greenhouse-daytime',
+      'national-museum-korea-first-permanent-gallery-visit',
+      'seoul-forest-station-short-park-walk',
+      'airport-limousine-bus-vs-arex-express-train',
     ],
     onward: [
       { regionId: 'chuncheon', reason: 'Plan a lake outing from Seoul and choose where to board the train.' },
@@ -54,6 +54,7 @@ export const REGIONS: readonly Region[] = [
       'gimhae-airport-to-busan',
     ],
     onward: [
+      { regionId: 'tongyeong', reason: 'Plan a separate south coast stay to fit in a harbor walk and check the island ferry return.' },
       { regionId: 'ulsan', reason: 'Take the train from Bujeon to Taehwagang Station, then choose a riverside walk, the coast or an indoor museum.' },
       { regionId: 'gyeongju', reason: 'Give the Silla sites their own day and check how to get from the KTX station to the historic center.' },
       { regionId: 'daegu', reason: 'Continue inland for Seomun Market and a separate downtown history visit.' },
@@ -319,6 +320,43 @@ export const REGIONS: readonly Region[] = [
     onward: [
       { regionId: 'busan', reason: 'Check trains to Bujeon if you want to continue to Busan’s markets or choose a base for the coast.' },
       { regionId: 'gyeongju', reason: 'Make time for the Silla sites on a separate day and confirm the transfer from your arrival station.' },
+    ],
+  },
+  {
+    id: 'tongyeong',
+    name: 'Tongyeong',
+    nameKo: '통영',
+    area: 'Southeast',
+    coverMediaId: 'tongyeong-mireuksan-island-panorama-2013',
+    intro: 'Choose a harbor walk, a clear-weather ride toward Mireuksan, or a Bijindo ferry trip planned around the return.',
+    tip: 'The passenger terminal, intercity bus terminal and cable-car station are separate. Match the Korean name to your actual departure.',
+    highlights: [
+      'tongyeong-dongpirang-gangguan-walk',
+      'tongyeong-cable-car-mireuksan-boarding',
+      'tongyeong-bijindo-ferry-day-trip',
+    ],
+    onward: [
+      { regionId: 'geoje', reason: 'Continue along the south coast for Geoje’s historic park or a separate boat trip to Oedo.' },
+      { regionId: 'busan', reason: 'Choose a Busan base before planning the onward bus and the transfer to your stay.' },
+    ],
+  },
+  {
+    id: 'geoje',
+    name: 'Geoje',
+    nameKo: '거제',
+    area: 'Southeast',
+    coverMediaId: 'geoje-hill-of-wind-coast-2013',
+    intro: 'Start at Gohyeon for the historic park or plan a separate trip to the pier for Oedo Botania.',
+    tip: 'Use the exact pier on your boat booking. Check the landing and road transfer back before making an intercity connection.',
+    arrivalGuide: 'geoje-gohyeon-bus-terminal-arrival',
+    highlights: [
+      'geoje-gohyeon-bus-terminal-arrival',
+      'geoje-pow-camp-historic-park',
+      'geoje-oedo-botania-boat-planning',
+    ],
+    onward: [
+      { regionId: 'tongyeong', reason: 'Keep the Gangguan waterfront and Tongyeong’s separate passenger terminal on a mainland plan.' },
+      { regionId: 'busan', reason: 'Check the onward bus and choose a Busan neighborhood around what you will do next.' },
     ],
   },
 ];

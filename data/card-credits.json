@@ -2920,5 +2920,140 @@
       "note": "Resized and converted to WebP. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "changgyeonggung-grand-greenhouse-daytime": {
+    "src": "/images/cards/changgyeonggung-grand-greenhouse-daytime.jpg",
+    "fingerprint": "ca351132fc0b4a0a0bbb73502a523b455d33755ddec7123cd332ed1f8ced55e7",
+    "sourceImage": "/images/editorial/seoul-changgyeonggung-greenhouse-day-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Nick-D",
+      "title": "Changgyeonggung Grand Greenhouse exterior",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Changgyeonggung_Greenhouse_October_2024.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoul-forest-station-short-park-walk": {
+    "src": "/images/cards/seoul-forest-station-short-park-walk.jpg",
+    "fingerprint": "04dbc162e0501ee90229c657550db6a0db58ff30aedf661a169a7fb931339b42",
+    "sourceImage": "/images/editorial/seoul-forest-spring-outing-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "WANGYIFAN2024",
+      "title": "Spring picnic at Seoul Forest",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:People_are_enjoying_a_spring_outing_at_Seoul_Forest_Park.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "national-museum-korea-first-permanent-gallery-visit": {
+    "src": "/images/cards/national-museum-korea-first-permanent-gallery-visit.jpg",
+    "fingerprint": "f73dc425ebb8608e0d9422c810407a3af06955f90d27fea254572a34726b3d67",
+    "sourceImage": "/images/editorial/seoul-national-museum-interior-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Ethan Doyle White",
+      "title": "The National Museum of Korea interior",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_View_of_the_National_Museum_of_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "tongyeong-cable-car-mireuksan-boarding": {
+    "src": "/images/cards/tongyeong-cable-car-mireuksan-boarding.jpg",
+    "fingerprint": "20cb7306cdd5075f7a0ffabe8786fdc6ab4590d0afdf700644811ff37dd21a08",
+    "sourceImage": "/images/editorial/tongyeong-mireukdo-cable-car-2010-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Asfreeas",
+      "title": "Tongyeong cable car at the station in 2010",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tongyeong_Cable_Car2.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "tongyeong-dongpirang-gangguan-walk": {
+    "src": "/images/cards/tongyeong-dongpirang-gangguan-walk.jpg",
+    "fingerprint": "aa80ce333c77bb3b392dcde2effdc6964ebbdf431a3f6558388d351178e39dd7",
+    "sourceImage": "/images/editorial/tongyeong-gangguan-waterfront-boats-2009-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Junho Jung",
+      "title": "Boats along Tongyeong’s central waterfront in 2009",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Port_and_ships-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "tongyeong-bijindo-ferry-day-trip": {
+    "src": "/images/cards/tongyeong-bijindo-ferry-day-trip.jpg",
+    "fingerprint": "2a310ba08b5c801a25194997150bafcc3c9d0661c224be5f225005f05abebb8d",
+    "sourceImage": "/images/editorial/tongyeong-passenger-terminal-2018-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "95016maphack",
+      "title": "Tongyeong Port Passenger Terminal in 2018",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tongyeong_Coastal_Ferry_Terminal.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "geoje-gohyeon-bus-terminal-arrival": {
+    "src": "/images/cards/geoje-gohyeon-bus-terminal-arrival.jpg",
+    "fingerprint": "3b2782504806b2b78d4e3c134746ac6fe32e510e17527687d884f13b1f7c3466",
+    "sourceImage": "/images/editorial/geoje-gohyeon-terminal-facade-2010-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Asfreeas",
+      "title": "Gohyeon Bus Terminal in 2010",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gohyun_Terminal.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "geoje-pow-camp-historic-park": {
+    "src": "/images/cards/geoje-pow-camp-historic-park.jpg",
+    "fingerprint": "1151afaa420c232026bcc0f1b7343f4855918becdb8a5f38e76fae55bd121e0a",
+    "sourceImage": "/images/editorial/geoje-pow-park-entrance-2010-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Kang Byeong Kee",
+      "title": "Geoje POW Camp Historic Park entrance in 2010",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geoje-POW_Camp_entrance.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "geoje-oedo-botania-boat-planning": {
+    "src": "/images/cards/geoje-oedo-botania-boat-planning.jpg",
+    "fingerprint": "89655819a557fb413aef988076d5f3307212d4aac436bd5f2ea90dfa5e195cec",
+    "sourceImage": "/images/editorial/geoje-oedo-garden-paths-2006-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Yoo Chung",
+      "title": "Oedo Botania garden paths in 2006",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botanical_garden_at_Oedo.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.5. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

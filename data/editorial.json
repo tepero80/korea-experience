@@ -1597,6 +1597,12 @@
         "type": "alternative",
         "label": "A useful alternative",
         "reason": "Pick one confirmed indoor anchor near your base, then add a nearby meal and an optional short stop."
+      },
+      {
+        "slug": "seoul-forest-station-short-park-walk",
+        "type": "next",
+        "label": "Take a short walk from Seoul Forest Station",
+        "reason": "Compare park entrances and a brief lawn loop before visiting Seongsu cafés."
       }
     ],
     "tools": [
@@ -5035,6 +5041,12 @@
         "type": "alternative",
         "label": "Plan a rainy day",
         "reason": "Choose a practical indoor area if the reservation is unavailable."
+      },
+      {
+        "slug": "national-museum-korea-first-permanent-gallery-visit",
+        "type": "next",
+        "label": "Choose a permanent-gallery route",
+        "reason": "Plan which part of the main museum to see around the children’s session."
       }
     ],
     "tools": [],
@@ -14327,6 +14339,12 @@
         "type": "interest",
         "label": "Compare separately ticketed palace programs",
         "reason": "Match the official notice, date and ticket type for an organized event."
+      },
+      {
+        "slug": "changgyeonggung-grand-greenhouse-daytime",
+        "type": "next",
+        "label": "See the greenhouse by day",
+        "reason": "Use a separate daytime plan for the interior and Chundangji."
       }
     ],
     "tools": [
@@ -18749,6 +18767,860 @@
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "changgyeonggung-grand-greenhouse-daytime": {
+    "id": "changgyeonggung-grand-greenhouse-daytime",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Honghwamun, then head for Chundangji and the Grand Greenhouse during the day. The greenhouse’s evening hours differ from the palace’s.",
+    "forWhom": "Visitors who want to see the greenhouse interior",
+    "conditions": [
+      "From December through February the palace authority lists no greenhouse interior access after 18:00. Check special notices."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "palaces",
+      "gardens",
+      "winter"
+    ],
+    "relations": [
+      {
+        "slug": "changgyeonggung-ordinary-evening-visit",
+        "type": "next",
+        "label": "Plan an evening palace visit",
+        "reason": "Check when the palace moves visitors into the evening area."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Find a fully indoor alternative",
+        "reason": "Reaching the greenhouse still means an outdoor walk inside the palace."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-changgyeonggung-honghwamun"
+    ],
+    "shareFacts": [
+      "Enter the palace at Honghwamun",
+      "Visit the interior in daylight",
+      "Check the separate winter evening rule"
+    ],
+    "sources": [
+      {
+        "id": "changgyeonggung-grand-greenhouse-daytime-source-1",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=111553",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "changgyeonggung-grand-greenhouse-daytime-source-2",
+        "title": "Royal Palaces and Tombs Center visitor information",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "changgyeonggung-grand-greenhouse-daytime-source-3",
+        "title": "Royal Palaces and Tombs Center visitor information",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do?schGroupCode=cgg",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "changgyeonggung-grand-greenhouse-daytime-source-4",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=226136",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1204,
+    "changeType": "new",
+    "heroMediaId": "seoul-changgyeonggung-greenhouse-day",
+    "heroCaption": "The Grand Greenhouse at Changgyeonggung in October 2024. Enter the palace grounds first, then follow the greenhouse signs.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Nick-D",
+      "title": "Changgyeonggung Grand Greenhouse exterior",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Changgyeonggung_Greenhouse_October_2024.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seoul-forest-station-short-park-walk": {
+    "id": "seoul-forest-station-short-park-walk",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "For a short outing, start at Seoul Forest Station and loop around the Family Lawn in the Culture and Arts Park.",
+    "forWhom": "Travelers pairing a brief park walk with time in Seongsu",
+    "conditions": [
+      "Park facilities and walking routes can have different access. Check the signs and ground conditions."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "seongsu",
+      "walking",
+      "parks"
+    ],
+    "relations": [
+      {
+        "slug": "seongsu-dong-dior-luxury-vs-market-eats-in-24-hours",
+        "type": "next",
+        "label": "Continue into Seongsu",
+        "reason": "Choose which part of the neighborhood to visit after the walk."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Pick an indoor Seoul route",
+        "reason": "Heavy rain narrows the value of a lawn loop."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-forest"
+    ],
+    "shareFacts": [
+      "Use a short park loop",
+      "Search for 서울숲 가족마당",
+      "Continue to Seongsu only if the group has time"
+    ],
+    "sources": [
+      {
+        "id": "seoul-forest-station-short-park-walk-source-1",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=95429",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-forest-station-short-park-walk-source-2",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=225816",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-forest-station-short-park-walk-source-3",
+        "title": "Seoul city Seoul Forest directions",
+        "url": "https://parks.seoul.go.kr/park/detailView.do?key=2604070019&pIdx=5&tabTarget=2",
+        "note": "Official park facilities and Exit 4 approach.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-forest-station-short-park-walk-source-4",
+        "title": "Official Seoul Forest walking map",
+        "url": "https://parks.seoul.go.kr/maps/dreamforest/%EC%84%9C%EC%9A%B8%EC%88%B2%EC%95%88%EB%82%B4%EC%A7%80%EB%8F%84_1.pdf",
+        "note": "The Family Lawn and visitor center are in the Culture and Arts Park.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1205,
+    "changeType": "new",
+    "heroMediaId": "seoul-forest-spring-outing",
+    "heroCaption": "People on the Seoul Forest lawn on a spring outing. The lawn is one part of a larger park.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "WANGYIFAN2024",
+      "title": "Spring picnic at Seoul Forest",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:People_are_enjoying_a_spring_outing_at_Seoul_Forest_Park.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "national-museum-korea-first-permanent-gallery-visit": {
+    "id": "national-museum-korea-first-permanent-gallery-visit",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "From Ichon, follow signs to the permanent halls. Start with the Path to History and one gallery, then decide whether to add another floor.",
+    "forWhom": "First-time visitors planning the main permanent galleries",
+    "conditions": [
+      "The children’s session and special exhibitions have their own admission arrangements."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "history",
+      "museums",
+      "rain"
+    ],
+    "relations": [
+      {
+        "slug": "national-museum-korea-childrens-museum-reservation",
+        "type": "next",
+        "label": "Plan a separate children’s session",
+        "reason": "Check tickets for the Children’s Museum if that is the main family outing."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "next",
+        "label": "Plan another indoor Seoul stop",
+        "reason": "Keep enough time for a transfer after the museum."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "national-museum-korea"
+    ],
+    "shareFacts": [
+      "Arrive via Ichon Station",
+      "Plan around one permanent gallery",
+      "Book the children’s session separately"
+    ],
+    "sources": [
+      {
+        "id": "national-museum-korea-first-permanent-gallery-visit-source-1",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=83891",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "national-museum-korea-first-permanent-gallery-visit-source-2",
+        "title": "National Museum of Korea visitor information",
+        "url": "https://www.museum.go.kr/ENG/contents/E0101000000.do",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "national-museum-korea-first-permanent-gallery-visit-source-3",
+        "title": "National Museum of Korea visitor information",
+        "url": "https://www.museum.go.kr/ENG/contents/E0105010000.do",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "national-museum-korea-first-permanent-gallery-visit-source-4",
+        "title": "Museum’s Path to History gallery",
+        "url": "https://www.museum.go.kr/ENG/contents/E0201100000.do?showHallId=406012&showroomCode=DM0065",
+        "note": "Official gallery and stone pagoda information.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1206,
+    "changeType": "new",
+    "heroMediaId": "seoul-national-museum-interior",
+    "heroCaption": "The museum’s interior walkway and distant pagoda. Ask for the current floor map to choose which gallery to see next.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Ethan Doyle White",
+      "title": "The National Museum of Korea interior",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Interior_View_of_the_National_Museum_of_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "tongyeong-cable-car-mireuksan-boarding": {
+    "id": "tongyeong-cable-car-mireuksan-boarding",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Check the operator’s weather, maintenance and ticket notices before boarding at the lower station on Mireukdo.",
+    "forWhom": "Visitors choosing the cable car and an optional Mireuksan walk",
+    "conditions": [
+      "Check current operation, queues and the return before committing to another departure."
+    ],
+    "regions": [
+      "tongyeong"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "coast",
+      "views",
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "tongyeong-dongpirang-gangguan-walk",
+        "type": "alternative",
+        "label": "Keep a harbor-town backup",
+        "reason": "Gangguan is a separate stop if the cable car suspends trips."
+      },
+      {
+        "slug": "tongyeong-bijindo-ferry-day-trip",
+        "type": "next",
+        "label": "Plan the ferry day separately",
+        "reason": "The cable car and passenger terminal are different destinations."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "tongyeong-cable-car-lower-station"
+    ],
+    "shareFacts": [
+      "Use the lower station on Mireukdo",
+      "Ask about last ticket and return",
+      "Leave time for the upper-station walk"
+    ],
+    "sources": [
+      {
+        "id": "tongyeong-cable-car-mireuksan-boarding-source-1",
+        "title": "Tongyeong Tourism Development Corporation monthly updates",
+        "url": "https://litt.ly/tong0tour",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tongyeong-cable-car-mireuksan-boarding-source-2",
+        "title": "Tongyeong Cable Car operator",
+        "url": "https://cablecar.ttdc.kr",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tongyeong-cable-car-mireuksan-boarding-source-3",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=77581",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1207,
+    "changeType": "new",
+    "heroMediaId": "tongyeong-mireukdo-cable-car-2010",
+    "heroCaption": "A Tongyeong cable car photographed at the station in 2010. Confirm current boarding access and weather.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Asfreeas",
+      "title": "Tongyeong cable car at the station in 2010",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tongyeong_Cable_Car2.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "tongyeong-dongpirang-gangguan-walk": {
+    "id": "tongyeong-dongpirang-gangguan-walk",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Explore the harbour and market before choosing whether to climb Dongpirang’s residential lanes.",
+    "forWhom": "Visitors who want a waterfront walk with an optional hill climb",
+    "conditions": [
+      "Some Dongpirang lanes have steps or slopes. Keep the waterfront and market as a shorter option."
+    ],
+    "regions": [
+      "tongyeong"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "coast",
+      "markets",
+      "walking"
+    ],
+    "relations": [
+      {
+        "slug": "tongyeong-cable-car-mireuksan-boarding",
+        "type": "next",
+        "label": "Choose a separate cable-car outing",
+        "reason": "Allow the transfer to the lower station on Mireukdo."
+      },
+      {
+        "slug": "tongyeong-bijindo-ferry-day-trip",
+        "type": "next",
+        "label": "Find the passenger ferry terminal",
+        "reason": "If you plan to sail, go to the terminal named on your ticket."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "tongyeong-gangguan-harbor",
+      "tongyeong-jungang-market",
+      "tongyeong-dongpirang-village"
+    ],
+    "shareFacts": [
+      "Start at Gangguan Port",
+      "Cross to Jungang Market",
+      "Add the uphill lanes only if they suit your group"
+    ],
+    "sources": [
+      {
+        "id": "tongyeong-dongpirang-gangguan-walk-source-1",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=113285",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tongyeong-dongpirang-gangguan-walk-source-2",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=77738",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tongyeong-dongpirang-gangguan-walk-source-3",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=77863",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1208,
+    "changeType": "new",
+    "heroMediaId": "tongyeong-gangguan-waterfront-boats-2009",
+    "heroCaption": "Boats beside Tongyeong’s central waterfront in 2009, near the Dongpirang side of the harbor. Use the current map to plan the walk.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Junho Jung",
+      "title": "Boats along Tongyeong’s central waterfront in 2009",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Tongyeong-Port_and_ships-01.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "tongyeong-bijindo-ferry-day-trip": {
+    "id": "tongyeong-bijindo-ferry-day-trip",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Confirm both directions and the correct Bijindo pier before booking; bring accepted identification and check the day’s sailing.",
+    "forWhom": "Independent visitors considering a Bijindo ferry day trip",
+    "conditions": [
+      "Verify the chosen arrival and return pier and the same-day operation before setting out."
+    ],
+    "regions": [
+      "tongyeong"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "coast",
+      "ferries",
+      "islands"
+    ],
+    "relations": [
+      {
+        "slug": "tongyeong-dongpirang-gangguan-walk",
+        "type": "alternative",
+        "label": "Stay on the mainland if the ferry changes",
+        "reason": "Walk Gangguan and Dongpirang if local conditions suit the group."
+      },
+      {
+        "slug": "tongyeong-cable-car-mireuksan-boarding",
+        "type": "next",
+        "label": "Keep the cable car on another part of the trip",
+        "reason": "Do not make the return ferry depend on a tight gondola connection."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "tongyeong-port-ferry-terminal",
+      "tongyeong-bijindo-beach"
+    ],
+    "shareFacts": [
+      "Depart from the correct Tongyeong terminal",
+      "Check the island pier in both directions",
+      "Confirm the day’s service before departure"
+    ],
+    "sources": [
+      {
+        "id": "tongyeong-bijindo-ferry-day-trip-source-1",
+        "title": "Maemuldo Ferry booking information",
+        "url": "https://www.maemuldoferry.com/",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tongyeong-bijindo-ferry-day-trip-source-2",
+        "title": "Maemuldo Ferry booking information",
+        "url": "https://www.maemuldoferry.com/useinfo/location/",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tongyeong-bijindo-ferry-day-trip-source-3",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=b8c9634a-26d3-4a7a-acd8-2735fc5e071b",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tongyeong-bijindo-ferry-day-trip-source-4",
+        "title": "Korea Maritime Transportation Safety Authority",
+        "url": "https://www.komsa.or.kr/prog/pssgCurState/kor/sub03_0202/list.do?jbcd=L&pageIndex=1&pageUnit=100",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tongyeong-bijindo-ferry-day-trip-source-5",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=188864",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tongyeong-bijindo-ferry-day-trip-source-6",
+        "title": "Public Data Portal tourist information desk listing",
+        "url": "https://www.data.go.kr/data/15013112/standard.do",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tongyeong-bijindo-ferry-day-trip-source-7",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=f8d37502-691e-432e-89c9-c0b34be560f9",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tongyeong-bijindo-ferry-day-trip-source-8",
+        "title": "Destination operator visitor information",
+        "url": "https://www.ktdb.go.kr/DATA/pblcte/20260512020132299.pdf",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1209,
+    "changeType": "new",
+    "heroMediaId": "tongyeong-passenger-terminal-2018",
+    "heroCaption": "Tongyeong Port Passenger Terminal in 2018. Use the terminal name and your departure confirmation to find current boarding.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "95016maphack",
+      "title": "Tongyeong Port Passenger Terminal in 2018",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tongyeong_Coastal_Ferry_Terminal.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "geoje-gohyeon-bus-terminal-arrival": {
+    "id": "geoje-gohyeon-bus-terminal-arrival",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Gohyeon is an intercity arrival point; plan a separate transfer to the POW park or your chosen sightseeing-boat pier.",
+    "forWhom": "Bus arrivals making a local transfer in central Geoje",
+    "conditions": [
+      "Intercity buses, Hadan buses and the boat piers use different departure points."
+    ],
+    "regions": [
+      "geoje"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "buses",
+      "arrival",
+      "coast"
+    ],
+    "relations": [
+      {
+        "slug": "geoje-pow-camp-historic-park",
+        "type": "next",
+        "label": "Visit the historic park from Gohyeon",
+        "reason": "Check the direction and hours before choosing the bus or taxi."
+      },
+      {
+        "slug": "geoje-oedo-botania-boat-planning",
+        "type": "next",
+        "label": "Find the correct Oedo boat pier",
+        "reason": "Your boat booking determines where to go after arriving in Geoje."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "geoje-gohyeon-terminal",
+      "geoje-pow-camp-park"
+    ],
+    "shareFacts": [
+      "Save the correct terminal",
+      "Choose a separate local transfer",
+      "Confirm the pier name before a boat trip"
+    ],
+    "sources": [
+      {
+        "id": "geoje-gohyeon-bus-terminal-arrival-source-1",
+        "title": "Public Data Portal tourist information desk listing",
+        "url": "https://www.data.go.kr/data/15013112/standard.do",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "geoje-gohyeon-bus-terminal-arrival-source-2",
+        "title": "Geoje City visitor and transport information",
+        "url": "https://bis.geoje.go.kr/main/busServiceInfo.do?action=intercityBus",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "geoje-gohyeon-bus-terminal-arrival-source-3",
+        "title": "Geoje City visitor and transport information",
+        "url": "https://bis.geoje.go.kr/map/realTimeBusInfo.do?action=searchLineList",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "geoje-gohyeon-bus-terminal-arrival-source-4",
+        "title": "Geoje City visitor and transport information",
+        "url": "https://www.geoje.go.kr/index.geoje?menuCd=DOM_000000106003001004",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "geoje-gohyeon-bus-terminal-arrival-source-5",
+        "title": "Geoje City visitor and transport information",
+        "url": "https://www.geoje.go.kr/ntour/user/ship/view.geoje?basicSection=A01&basicSid=635&menuCd=DOM_000008502004004000&pageIndex=1",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1210,
+    "changeType": "new",
+    "heroMediaId": "geoje-gohyeon-terminal-facade-2010",
+    "heroCaption": "The exterior of Gohyeon Bus Terminal as photographed in 2010. Search for the terminal and follow the current bay signs.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Asfreeas",
+      "title": "Gohyeon Bus Terminal in 2010",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gohyun_Terminal.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "geoje-pow-camp-historic-park": {
+    "id": "geoje-pow-camp-historic-park",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Explore exhibits and the former camp site, checking current opening and accessibility before visiting.",
+    "forWhom": "Visitors interested in the Korean War and the camp’s history",
+    "conditions": [
+      "Check the current opening day and the walking route if you need step-free access."
+    ],
+    "regions": [
+      "geoje"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "history",
+      "museums",
+      "rain"
+    ],
+    "relations": [
+      {
+        "slug": "geoje-gohyeon-bus-terminal-arrival",
+        "type": "prepare",
+        "label": "Plan the Gohyeon transfer",
+        "reason": "Use the actual bus terminal and leave time for the short local trip."
+      },
+      {
+        "slug": "geoje-oedo-botania-boat-planning",
+        "type": "next",
+        "label": "Plan a separate island visit",
+        "reason": "Reserve the boat independently if you have another day in Geoje."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "geoje-pow-camp-park",
+      "geoje-gohyeon-terminal"
+    ],
+    "shareFacts": [
+      "Look for the park visitor gate",
+      "Check opening and separate attractions",
+      "Allow time for sloped paths"
+    ],
+    "sources": [
+      {
+        "id": "geoje-pow-camp-historic-park-source-1",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=105588",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "geoje-pow-camp-historic-park-source-2",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=56e4108a-8e83-4326-af1e-160086b2a6d3",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "geoje-pow-camp-historic-park-source-3",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=07a5675b-8bd2-4fe8-bd45-c199b298de4d",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "geoje-pow-camp-historic-park-source-4",
+        "title": "Geoje Marine Tourism Development Corporation",
+        "url": "https://www.gmdc.co.kr/",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "geoje-pow-camp-historic-park-source-5",
+        "title": "Geoje City visitor and transport information",
+        "url": "https://www.geoje.go.kr/index.geoje?menuCd=DOM_000008506001006000",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1211,
+    "changeType": "new",
+    "heroMediaId": "geoje-pow-park-entrance-2010",
+    "heroCaption": "The Historic Park’s visitor entrance in 2010. The photographed gateway is part of the later park.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Kang Byeong Kee",
+      "title": "Geoje POW Camp Historic Park entrance in 2010",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Geoje-POW_Camp_entrance.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "geoje-oedo-botania-boat-planning": {
+    "id": "geoje-oedo-botania-boat-planning",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a mainland pier, verify the boat lands at Oedo and confirm the return time before travelling.",
+    "forWhom": "Travelers comparing boat departures for Oedo Botania",
+    "conditions": [
+      "Confirm that the exact departure lands at Oedo and when to reboard before arranging the local transfer."
+    ],
+    "regions": [
+      "geoje"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "boats",
+      "coast",
+      "gardens"
+    ],
+    "relations": [
+      {
+        "slug": "geoje-gohyeon-bus-terminal-arrival",
+        "type": "prepare",
+        "label": "Plan how to reach the chosen pier",
+        "reason": "Gohyeon and the sightseeing-boat piers are separate places."
+      },
+      {
+        "slug": "geoje-pow-camp-historic-park",
+        "type": "alternative",
+        "label": "Choose a mainland outing",
+        "reason": "Check whether the Historic Park is open if the sea changes your plan."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "geoje-oedo-botania-island"
+    ],
+    "shareFacts": [
+      "Choose the correct mainland pier",
+      "Confirm time ashore at Oedo",
+      "Allow time for the road transfer after returning"
+    ],
+    "sources": [
+      {
+        "id": "geoje-oedo-botania-boat-planning-source-1",
+        "title": "Geoje City visitor and transport information",
+        "url": "https://www.geoje.go.kr/ntour/user/ship/view.geoje?basicSection=A01&basicSid=635&menuCd=DOM_000008502004004000&pageIndex=1",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "geoje-oedo-botania-boat-planning-source-2",
+        "title": "Geoje City visitor and transport information",
+        "url": "https://tour.geoje.go.kr/index.geoje?menuCd=DOM_000008506001005001",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "geoje-oedo-botania-boat-planning-source-3",
+        "title": "VisitKorea destination and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110753",
+        "note": "Check official details and any date-specific changes.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1212,
+    "changeType": "new",
+    "heroMediaId": "geoje-oedo-garden-paths-2006",
+    "heroCaption": "The planted slopes and paths at Oedo Botania in 2006. Ask about the current walking route if stairs or slopes affect your visit.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Yoo Chung",
+      "title": "Oedo Botania garden paths in 2006",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Botanical_garden_at_Oedo.jpg",
+      "license": "CC BY-SA 2.5",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.5. The image records the scene at the time of photography."
     },
     "gallery": [],
     "experienceVersion": 2

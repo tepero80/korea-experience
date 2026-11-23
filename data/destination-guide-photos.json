@@ -430,5 +430,59 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "changgyeonggung-grand-greenhouse-daytime": {
+    "mediaId": "seoul-changgyeonggung-greenhouse-day",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seoul-forest-station-short-park-walk": {
+    "mediaId": "seoul-forest-spring-outing",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "national-museum-korea-first-permanent-gallery-visit": {
+    "mediaId": "seoul-national-museum-interior",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "tongyeong-cable-car-mireuksan-boarding": {
+    "mediaId": "tongyeong-mireukdo-cable-car-2010",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "tongyeong-dongpirang-gangguan-walk": {
+    "mediaId": "tongyeong-gangguan-waterfront-boats-2009",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "tongyeong-bijindo-ferry-day-trip": {
+    "mediaId": "tongyeong-passenger-terminal-2018",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "geoje-gohyeon-bus-terminal-arrival": {
+    "mediaId": "geoje-gohyeon-terminal-facade-2010",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "geoje-pow-camp-historic-park": {
+    "mediaId": "geoje-pow-park-entrance-2010",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "geoje-oedo-botania-boat-planning": {
+    "mediaId": "geoje-oedo-garden-paths-2006",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }
