@@ -4,7 +4,7 @@ date: '2026-11-09'
 updated: '2026-11-09'
 excerpt: "Check coastal swell forecasts, avoid hazardous shore areas and keep a practical inland alternative."
 category: travel-essentials
-image: /images/editorial/essentials-korea-coastal-wave-safety-illustration.svg
+image: /images/editorial/archive-byeonsanbando-coast-winter-waves-2017-1280.webp
 author: Korea Experience Editorial
 tags:
   - weather

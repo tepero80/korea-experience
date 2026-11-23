@@ -138,6 +138,13 @@ function recommendationRegions(guide?: EditorialGuide): string[] {
     .filter((region) => region && region !== 'nationwide');
 }
 
+const broadRecommendationInterests = new Set(['planning', 'travel', 'korea travel']);
+
+function recommendationInterests(guide?: EditorialGuide): string[] {
+  return [...new Set((guide?.interests ?? []).map((interest) => interest.trim().toLowerCase()))]
+    .filter((interest) => interest && !broadRecommendationInterests.has(interest));
+}
+
 export function getRelatedPosts(currentSlug: string, limit = 3): PostMetadata[] {
   const posts = getAllPosts();
   const current = posts.find((p) => p.slug === currentSlug);
@@ -150,6 +157,7 @@ export function getRelatedPosts(currentSlug: string, limit = 3): PostMetadata[] 
   const used = new Set([currentSlug, ...curated.map((p) => p.slug)]);
   const context = current.editorial;
   const currentRegions = recommendationRegions(context);
+  const currentInterests = new Set(recommendationInterests(context));
   const fallback = posts
     .flatMap((post) => {
       const guide = post.editorial;
@@ -160,7 +168,9 @@ export function getRelatedPosts(currentSlug: string, limit = 3): PostMetadata[] 
       // A shared topic cannot establish an onward trip between two specific places.
       if (currentRegions.length && targetRegions.length && !sameRegion) return [];
 
-      const interests = context?.interests.filter((i) => guide.interests.includes(i)).length ?? 0;
+      // A broad topic such as planning does not make two tasks useful next steps.
+      const interests = recommendationInterests(guide).filter((interest) => currentInterests.has(interest)).length;
+      if (!interests) return [];
       const score =
         (sameRegion ? 3 : 0) + interests * 2 + (post.categoryId === current.categoryId ? 2 : 0);
       if (score < 3) return [];

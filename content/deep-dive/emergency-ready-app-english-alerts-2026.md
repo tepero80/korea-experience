@@ -8,7 +8,7 @@ category: Travel Essentials
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 72
-image: /images/editorial/emergency-contacts-illustration.svg
+image: /images/editorial/archive-anyang-civil-defense-shelter-2018-1280.webp
 updated: '2026-10-31'
 ---
 ## What the app is for
@@ -54,6 +54,8 @@ For non-life-threatening travel information or interpretation, use the [1330 Kor
 <span id="the-ghost-vibration"></span>
 <span id="frequently-asked-questions"></span>
 <span id="sources"></span>
+
+<GuidePhoto id="emergency-contacts-illustration" caption="A quick reference for Korean emergency and visitor help numbers. For immediate danger, use the relevant emergency number." />
 
 ## Useful limits to keep in mind
 

@@ -7,7 +7,7 @@ excerpt: >-
 category: Travel Essentials
 author: Korea Experience Team
 featured: false
-image: /images/editorial/accessible-trip-planning.svg
+image: /images/editorial/archive-seoul-mongchontoseong-street-entrance-2018-1280.webp
 updated: '2026-10-31'
 ---
 Seoul has useful accessibility information, but a district-wide label such as “wheelchair friendly” cannot tell you whether a particular station exit, sidewalk, entrance, room, or restroom will work for your needs. Plan each outing from the exact starting point to the exact place you intend to use. Ask the venue or transport operator about the details that matter to your chair and support needs, and check again close to your visit.
@@ -26,6 +26,8 @@ The Seoul Danurim accessible-tourism site lets you search attractions and servic
 4. **Keep a fallback.** Save the venue’s phone number and Korean address. If an elevator, entrance, or route is unavailable, use a confirmed alternative or change the stop.
 
 [Seoul Danurim Accessible Tourism](https://www.seouldanurim.net/en/index) provides destination profiles and suggested itineraries. [Seoul’s subway accessibility facilities page](https://english.seoul.go.kr/service/movement/public-transportation/subway-accessibility-facilities/) lists station facilities such as elevators, wheelchair ramps, accessible toilets, chargers, and other equipment. Seoul also describes the [Seoul Donghaeng Map](https://english.seoul.go.kr/seoul-helping-map-app-wins-uitp-awards-2025-for-diversity-and-inclusion/) as offering personalized guidance and alerts about inaccessible walking and public-transport areas. Treat maps and facility lists as planning aids; recheck with the operator for disruptions and the exact route you will use.
+
+<GuidePhoto id="accessible-trip-planning" caption="A planning sequence for checking the station, street, entrance and venue separately." />
 
 ## Four places to plan around
 

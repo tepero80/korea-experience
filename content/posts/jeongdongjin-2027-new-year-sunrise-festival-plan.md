@@ -4,7 +4,7 @@ date: '2026-11-17'
 updated: '2026-11-17'
 excerpt: "Check the confirmed New Year event window, listed venues and overnight transport before choosing a sunrise celebration in Gangneung."
 category: culture-events
-image: /images/editorial/jeongdongjin-2027-sunrise-festival-plan-illustration.svg
+image: /images/editorial/jeongdongjin-beach-shoreline-2008-1280.webp
 author: Korea Experience Editorial
 tags:
   - winter
@@ -30,7 +30,5 @@ The two listed venues are separate places in Gangneung. Do not assume you can at
 VISITKOREA names Gangneung City as organizer and lists **+82-33-640-5135** for inquiries. The city’s [official tourism site](https://www.gn.go.kr/tour/index.do) is the organizer link shown on the event listing; check it for newer notices. Before buying nonrefundable transport or lodging, confirm the chosen event time and venue with the city. The [VISITKOREA winter-festival overview](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1595020) also describes sunrise festivals as running from December 31 into January 1, but it is not a live operations board.
 
 For the nearby rail landmark and general visitor context, see the [Korea photo-friendly train-station guide](/blog/korea-s-most-photogenic-train-stations). It does not confirm event access, special services or a sunrise timetable for this date.
-
-**Image note:** The illustration separates the two listed event areas and their published time windows; it is not a route map or a venue-by-venue program schedule.
 
 Sources checked November 17, 2026. Event programming, transport, access and weather may change; confirm with Gangneung City and the relevant operators before departure.

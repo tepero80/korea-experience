@@ -40,6 +40,14 @@ test('an explicit onward journey keeps its recommendation across different regio
   assert.ok(related.some((post) => post.slug === 'ktx-seat-and-luggage-guide-for-international-travelers'));
 });
 
+test('automatic recommendations need a specific shared interest', () => {
+  const laundry = getRelatedPosts('247-coin-laundromats-guide-2026');
+  assert.ok(!laundry.some((post) => post.slug === '24-hour-english-pharmacies-in-seoul-2026'));
+  const water = getRelatedPosts('finding-seoul-outdoor-drinking-water-fountains-arisu-map');
+  assert.equal(water[0]?.slug, 'finding-public-restrooms-in-korea-station-mall-and-accessible-facilities');
+  assert.ok(!water.some((post) => post.slug === '24-hour-english-pharmacies-in-seoul-2026'));
+});
+
 test('guide maps keep itinerary order while ignoring unavailable and repeated places', () => {
   const first = PLACES[0].id;
   const second = PLACES[1].id;

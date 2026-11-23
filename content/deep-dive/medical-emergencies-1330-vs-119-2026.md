@@ -8,7 +8,7 @@ category: Travel Essentials
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 80
-image: /images/editorial/emergency-call-illustration.svg
+image: /images/editorial/archive-seoul-119-ambulance-2018-1280.webp
 updated: '2026-10-31'
 ---
 If someone faces a threat to life or property in Korea, call **119** for fire and ambulance response or **112** for police. The [Korea Tourism Organization (KTO)](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145) says callers who do not speak Korean can say “English please” or “Interpreter please” after the call connects. Give your location and explain what happened as clearly as possible. Do not delay an emergency call to install an app or contact a tourism helpline.

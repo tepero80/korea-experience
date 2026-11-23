@@ -31,7 +31,7 @@ KTO describes two useful public beach areas, one in front of the station and one
 
 On the rail booking screen, check **Jeongdongjin (정동진)** as a stop on that exact departure. **Gangneung (강릉)** is a different station. Prefer a train plan you can manage in both directions and leave time to get back through the station before boarding. Work backward from your train to pick a turnaround time at the beach. [Korail’s English booking portal](https://www.korail.com/global/eng/main)
 
-<GuidePhoto id="jeongdongjin-beach-shoreline-2008" caption="A historical panorama of Jeongdongjin Beach from March 2008. Use the signed public access and today’s sea conditions when deciding where to walk." />
+<GuidePhoto id="archive-jeongdongjin-coastal-platforms" caption="Jeongdongjin Station’s seafront platforms, photographed in July 2017. Use the station exit and marked public paths to reach the beach." />
 
 Keep to marked pedestrian routes and use assigned crossings. Some views from the train or station overlook the shore. The quick visit starts outside the station. If using a wheelchair or traveling with a stroller, check the route from your platform to the exit and the surface at the beach access separately. The KTO accessibility information is useful when deciding which facilities suit your group. [KTO accessibility listing](https://access.visitkorea.or.kr/ms/detail.do?cotId=60b3ac94-f4ac-44ca-a6f5-213db72833cb)
 

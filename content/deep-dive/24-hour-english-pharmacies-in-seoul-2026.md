@@ -8,7 +8,7 @@ category: Travel Essentials
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 43
-image: /images/editorial/pharmacy-opening-check.webp
+image: /images/editorial/archive-seoul-pharmacy-exterior-2025-1280.webp
 updated: '2026-10-31'
 ---
 A pharmacy listing can help you find a nearby option, but it cannot guarantee that a particular branch is open now, has the medicine you need, or can assist in English. Check the listing for your date and area, then call before you travel.
