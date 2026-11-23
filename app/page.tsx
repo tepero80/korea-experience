@@ -50,7 +50,7 @@ export default function Home() {
           <Search variant="hero" />
           <div className="home-quick-links" aria-label="Popular starting points">
             <span>Start with</span>
-            <Link href="/blog/category/plan-your-trip">Your first trip</Link>
+            <Link href="/blog/first-trip-to-korea-planning-guide">First trip to Korea</Link>
             <Link href="/blog/airport-limousine-bus-vs-arex-express-train">Airport to hotel</Link>
             <Link href="/tools/itinerary">Your day-by-day plan</Link>
           </div>

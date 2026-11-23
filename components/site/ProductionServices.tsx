@@ -44,7 +44,10 @@ export default function ProductionServices() {
       if (!context) return;
       try {
         window.dataLayer ||= [];
-        window.gtag ||= (...args: unknown[]) => window.dataLayer!.push(args);
+        // The Google tag consumes the arguments object queued by its standard snippet.
+        window.gtag ||= function () {
+          window.dataLayer!.push(arguments);
+        };
         const firstLoad = !document.getElementById('ke-ga');
         if (firstLoad)
           window.gtag('consent', 'default', {

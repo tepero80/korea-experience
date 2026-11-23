@@ -9,7 +9,7 @@ test.afterEach(async ({ page }) => {
   // Finish handlers before Playwright disposes their API response context.
   await page.unrouteAll({ behavior: 'wait' });
 });
-async function isolatedProductionOrigin(page: Page, blockWrites = false) {
+async function isolatedProductionOrigin(page: Page, blockWrites = false, recordCalls = true) {
   // All apex requests are fulfilled by the local export. No real analytics,
   // advertising, authentication, mail or contribution request can leave this fixture.
   await page.route('**/*', async (route) => {
@@ -55,18 +55,20 @@ async function isolatedProductionOrigin(page: Page, blockWrites = false) {
     return route.abort();
   });
   await page.addInitScript(
-    ({ blockWrites }) => {
-      const calls: unknown[][] = [];
-      Object.assign(window, {
-        __keFixtureEvents: calls,
-        gtag: (...args: unknown[]) => calls.push(args),
-      });
+    ({ blockWrites, recordCalls }) => {
+      if (recordCalls) {
+        const calls: unknown[][] = [];
+        Object.assign(window, {
+          __keFixtureEvents: calls,
+          gtag: (...args: unknown[]) => calls.push(args),
+        });
+      }
       if (blockWrites)
         Storage.prototype.setItem = () => {
           throw new DOMException('Fixture blocked storage', 'SecurityError');
         };
     },
-    { blockWrites },
+    { blockWrites, recordCalls },
   );
 }
 async function events(page: Page, name: string) {
@@ -78,6 +80,26 @@ async function events(page: Page, name: string) {
     name,
   );
 }
+test('the production tag queues Google commands only after opt-in and in its supported format', async ({
+  page,
+}) => {
+  await isolatedProductionOrigin(page, false, false);
+  await page.goto(origin);
+  const consent = page.getByRole('button', { name: 'Allow analytics', exact: true });
+  await expect(consent).toBeVisible();
+  await expect(page.locator('#ke-ga')).toHaveCount(0);
+  await consent.click();
+  await expect(page.locator('#ke-ga')).toHaveCount(1);
+  const commands = await page.evaluate(() =>
+    (window.dataLayer ?? []).map((entry) => ({
+      type: Object.prototype.toString.call(entry),
+      values: Array.from(entry as IArguments).slice(0, 2),
+    })),
+  );
+  expect(commands).toContainEqual({ type: '[object Arguments]', values: ['event', 'page_view'] });
+  expect(commands.filter((command) => command.values[0] === 'config')).toHaveLength(1);
+});
+
 test('consent, SPA context and first-completion measurement preserve the traveler task', async ({
   page,
 }) => {
