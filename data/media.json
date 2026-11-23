@@ -9219,5 +9219,136 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
     },
     "capturedAt": "2020-04-11"
+  },
+  {
+    "id": "archive-paju-imjingak-pinwheels-2015",
+    "src": "/images/editorial/archive-paju-imjingak-pinwheels-2015-1280.webp",
+    "srcSet": "/images/editorial/archive-paju-imjingak-pinwheels-2015-640.webp 640w, /images/editorial/archive-paju-imjingak-pinwheels-2015-1280.webp 1280w",
+    "width": 1280,
+    "height": 854,
+    "alt": "Colorful pinwheels in Pyeonghwa Nuri Park at Imjingak, Paju.",
+    "focal": "50% 55%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Imjingak_pyunghwanuri.jpg",
+    "originalHash": "2fb72fee0b5af6bce5106ab3a2c4dc67a5ff8db74e8f31ed2bd5734fee47f371",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Korea Culture & Tourism Institute",
+      "title": "Imjingak pyunghwanuri.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imjingak_pyunghwanuri.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2015-11-20"
+  },
+  {
+    "id": "archive-jeju-hamdeok-coastal-view-2026",
+    "src": "/images/editorial/archive-jeju-hamdeok-coastal-view-2026-1280.webp",
+    "srcSet": "/images/editorial/archive-jeju-hamdeok-coastal-view-2026-640.webp 640w, /images/editorial/archive-jeju-hamdeok-coastal-view-2026-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Turquoise water and dark coastal rocks at Hamdeok Beach with a green headland beyond.",
+    "focal": "58% 57%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Hamdeok_Beach_May_2026_08.jpg",
+    "originalHash": "14ebda11caebf03060103fb46b45907d3be6b39988dd5ecc65b17f5887efbf0a",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Grapesurgeon",
+      "title": "Hamdeok Beach May 2026 08.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamdeok_Beach_May_2026_08.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2026-05-07"
+  },
+  {
+    "id": "archive-namwon-gwanghallu-pavilion-2013",
+    "src": "/images/editorial/archive-namwon-gwanghallu-pavilion-2013-1280.webp",
+    "srcSet": "/images/editorial/archive-namwon-gwanghallu-pavilion-2013-640.webp 640w, /images/editorial/archive-namwon-gwanghallu-pavilion-2013-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Gwanghallu Pavilion across the pond in Namwon, framed by bare winter branches.",
+    "focal": "52% 55%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Korea-Nawon-Kwanghanlu2.jpg",
+    "originalHash": "da96e1fc772a1bbe9495562c17741f010c925f212f4bb43f538eaa2dc07eac20",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Asfreeas",
+      "title": "Korea-Nawon-Kwanghanlu2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Nawon-Kwanghanlu2.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2013-01-12"
+  },
+  {
+    "id": "archive-chueotang-seoul-bowl-2016",
+    "src": "/images/editorial/archive-chueotang-seoul-bowl-2016-1280.webp",
+    "srcSet": "/images/editorial/archive-chueotang-seoul-bowl-2016-640.webp 640w, /images/editorial/archive-chueotang-seoul-bowl-2016-1280.webp 1280w",
+    "width": 1280,
+    "height": 1280,
+    "alt": "Loach soup in a black bowl topped with green herbs.",
+    "focal": "50% 52%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Chueo-tang_1.jpg",
+    "originalHash": "bccfcaec799bfd09da8badd9039c104cde069e1a5ef4d09f414da83466884e8c",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Chomjong",
+      "title": "Chueo-tang 1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chueo-tang_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2016-08-12"
+  },
+  {
+    "id": "archive-baekyangsa-ssanggyeru-autumn-2019",
+    "src": "/images/editorial/archive-baekyangsa-ssanggyeru-autumn-2019-1280.webp",
+    "srcSet": "/images/editorial/archive-baekyangsa-ssanggyeru-autumn-2019-640.webp 640w, /images/editorial/archive-baekyangsa-ssanggyeru-autumn-2019-1280.webp 1280w",
+    "width": 1280,
+    "height": 854,
+    "alt": "Ssanggyeru Pavilion and Baekhakbong reflected in Baekyangsa’s pond between red autumn maples.",
+    "focal": "50% 50%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%9E%A5%EC%84%B1_%EB%B0%B1%EC%96%91%EC%82%AC_%EC%8C%8D%EA%B3%84%EB%A3%A8%EC%99%80_%EB%B0%B1%ED%95%99%EB%B4%89_2019%EB%85%84_%EC%B4%AC%EC%98%81(%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4).jpg",
+    "originalHash": "9758e1b6a253c6c3d010c0a4b0e8f7bcc71aef78d2a0a3f4a9b47a0a79478f8f",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Cultural Heritage Administration, spokesperson’s office",
+      "title": "장성_백양사_쌍계루와_백학봉_2019년_촬영(출처_문화재청_대변인실).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9E%A5%EC%84%B1_%EB%B0%B1%EC%96%91%EC%82%AC_%EC%8C%8D%EA%B3%84%EB%A3%A8%EC%99%80_%EB%B0%B1%ED%95%99%EB%B4%89_2019%EB%85%84_%EC%B4%AC%EC%98%81(%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4).jpg",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Korea Open Government License Type 1. Rehosted original checked against Wikimedia item. Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2019-11-12"
+  },
+  {
+    "id": "archive-suwon-irwol-greenhouse-kto",
+    "src": "/images/editorial/archive-suwon-irwol-greenhouse-kto-1280.webp",
+    "srcSet": "/images/editorial/archive-suwon-irwol-greenhouse-kto-640.webp 640w, /images/editorial/archive-suwon-irwol-greenhouse-kto-1280.webp 940w",
+    "width": 940,
+    "height": 627,
+    "alt": "A path through tropical plants beneath the glass roof of Suwon’s Irwol Arboretum greenhouse.",
+    "focal": "50% 50%",
+    "originalId": "https://www.nculture.org/cul/localCultureDetail.do?contentType=G&targetId=3076051",
+    "originalHash": "80ae4b9aa832aab2293b3b3b0b254bafe9e1ccfed65deeeecc33115d7b61c958",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Korea Tourism Organization",
+      "title": "수원_일월수목원 (1).jpg",
+      "sourceUrl": "https://www.nculture.org/cul/localCultureDetail.do?contentType=G&targetId=3076051",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Korea Open Government License Type 1. The credited record embeds this exact Korea Tourism Organization image. Resized and converted to WebP. The image records the scene at the time of photography."
+    }
   }
 ]

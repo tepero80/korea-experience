@@ -3747,5 +3747,80 @@
       "note": "Resized and converted to WebP. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "dmz-visit-guide-2026": {
+    "src": "/images/cards/dmz-visit-guide-2026.jpg",
+    "fingerprint": "6e6be5200c5f67e73be0f10921f7df5dfaa255015f56f79e069b26041c161085",
+    "sourceImage": "/images/editorial/archive-paju-imjingak-pinwheels-2015-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Korea Culture & Tourism Institute",
+      "title": "Imjingak pyunghwanuri.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imjingak_pyunghwanuri.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "coastal-bike-routes-scenic-seaside-cycling": {
+    "src": "/images/cards/coastal-bike-routes-scenic-seaside-cycling.jpg",
+    "fingerprint": "f2f117c09e41c5e058bed6b054e35c7b3856aca6b00cd6e90c13a81ac46ff5ae",
+    "sourceImage": "/images/editorial/archive-jeju-hamdeok-coastal-view-2026-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Grapesurgeon",
+      "title": "Hamdeok Beach May 2026 08.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamdeok_Beach_May_2026_08.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "namwon-chueotang-mudfish-soup": {
+    "src": "/images/cards/namwon-chueotang-mudfish-soup.jpg",
+    "fingerprint": "ca6d410d465fad35479f0646e4927e67b6de5fbee95439c0db5005393e179e75",
+    "sourceImage": "/images/editorial/archive-namwon-gwanghallu-pavilion-2013-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Asfreeas",
+      "title": "Korea-Nawon-Kwanghanlu2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Nawon-Kwanghanlu2.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korea-s-best-fall-foliage-spots-without-the-crowds": {
+    "src": "/images/cards/korea-s-best-fall-foliage-spots-without-the-crowds.jpg",
+    "fingerprint": "cc3d6b079489d0f6cb966283dc9faf83cdfe5a1b8336ce32fc55bb862d94bb9c",
+    "sourceImage": "/images/editorial/archive-baekyangsa-ssanggyeru-autumn-2019-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Cultural Heritage Administration, spokesperson’s office",
+      "title": "장성_백양사_쌍계루와_백학봉_2019년_촬영(출처_문화재청_대변인실).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9E%A5%EC%84%B1_%EB%B0%B1%EC%96%91%EC%82%AC_%EC%8C%8D%EA%B3%84%EB%A3%A8%EC%99%80_%EB%B0%B1%ED%95%99%EB%B4%89_2019%EB%85%84_%EC%B4%AC%EC%98%81(%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4).jpg",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Korea Open Government License Type 1. Rehosted original checked against Wikimedia item. Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "queen-of-tears-filming-locations-2026": {
+    "src": "/images/cards/queen-of-tears-filming-locations-2026.jpg",
+    "fingerprint": "966176ce7adba1486afdcd80bc44d1cce0b9d025792657931b48a50f3869b7f3",
+    "sourceImage": "/images/editorial/archive-suwon-irwol-greenhouse-kto-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Korea Tourism Organization",
+      "title": "수원_일월수목원 (1).jpg",
+      "sourceUrl": "https://www.nculture.org/cul/localCultureDetail.do?contentType=G&targetId=3076051",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Korea Open Government License Type 1. The credited record embeds this exact Korea Tourism Organization image. Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

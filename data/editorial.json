@@ -19760,6 +19760,12 @@
         "type": "alternative",
         "label": "Go straight to your base",
         "reason": "If you arrive late or have bags, check your airport transfer before adding a beach visit."
+      },
+      {
+        "slug": "coastal-bike-routes-scenic-seaside-cycling",
+        "type": "next",
+        "label": "Choose a Hamdeok bike ride",
+        "reason": "Check hire and how to turn back before extending your beach visit."
       }
     ],
     "tools": [
@@ -23271,6 +23277,12 @@
         "type": "alternative",
         "label": "Plan an independent Imjingak visit",
         "reason": "Keep a public itinerary ready if your booked tour becomes unavailable."
+      },
+      {
+        "slug": "dmz-visit-guide-2026",
+        "type": "next",
+        "label": "Check what to bring on departure day",
+        "reason": "Use the passport, pickup and cancellation checklist once you have booked."
       }
     ],
     "tools": [
@@ -23684,5 +23696,472 @@
     "gallery": [],
     "experienceVersion": 2,
     "cardImageLabel": "Yeouido Park · April 2016"
+  },
+  "dmz-visit-guide-2026": {
+    "id": "guide:dmz-visit-guide-2026",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Bring your original passport, confirm your actual meeting point and check the operator’s notice before leaving. Keep the public Imjingak park and memorial area as a separate backup.",
+    "forWhom": "Visitors already comparing or holding a Paju DMZ tour booking",
+    "conditions": [
+      "Paju can suspend controlled tours without notice. Ask about the tunnel’s steep access before booking if anyone in the group has difficulty on slopes."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Paju",
+      "day trips",
+      "history"
+    ],
+    "relations": [
+      {
+        "slug": "imjingak-without-a-dmz-tour",
+        "type": "alternative",
+        "label": "Plan the independent Imjingak visit",
+        "reason": "Keep the park and memorial area as a separate outing if the controlled course changes."
+      },
+      {
+        "slug": "dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026",
+        "type": "prepare",
+        "label": "Check which departure you booked",
+        "reason": "Compare commercial Seoul pickup and the city-run departure in Paju."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "paju-imjingak-resort"
+    ],
+    "shareFacts": [
+      "Bring an original passport",
+      "Confirm your meeting point",
+      "Keep Imjingak as a backup"
+    ],
+    "sources": [
+      {
+        "id": "guide:dmz-visit-guide-2026-source-1",
+        "title": "Paju City DMZ Peace Tour",
+        "url": "https://tour.paju.go.kr/user/tour/place/BD_tourPlaceInfoView.do?areaSe=1001&cntntsSn=374&q_gubunCode=1008",
+        "note": "Primary instructions on identification, ticketing, access restrictions and photography.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:dmz-visit-guide-2026-source-2",
+        "title": "Paju city-run reservations",
+        "url": "https://dmz.paju.go.kr/",
+        "note": "Use the current city booking notices to verify the departure and ticket instructions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:dmz-visit-guide-2026-source-3",
+        "title": "VisitKorea Imjingak Resort",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=107397",
+        "note": "Public park and memorial sites, with the Imjingak road address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:dmz-visit-guide-2026-source-4",
+        "title": "VisitKorea Third Tunnel",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=107395",
+        "note": "Description of the tunnel and the Imjingak departure arrangement.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1259,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-paju-imjingak-pinwheels-2015",
+    "heroCaption": "Pinwheels in Imjingak’s public Pyeonghwa Nuri Park, photographed in 2015. The park is separate from the controlled tour course.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Korea Culture & Tourism Institute",
+      "title": "Imjingak pyunghwanuri.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imjingak_pyunghwanuri.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Imjingak public park"
+  },
+  "coastal-bike-routes-scenic-seaside-cycling": {
+    "id": "guide:coastal-bike-routes-scenic-seaside-cycling",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with a short coast ride that returns to your rental shop. Use the government’s Jeju or Gangwon route map for longer rides and confirm bike return and transport before paying.",
+    "forWhom": "Visitors choosing a first seaside ride or planning a longer coastal route",
+    "conditions": [
+      "Both official routes include sections used by other traffic. Follow local signs and check wind, closures and surface conditions on the day."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "cycling",
+      "coast",
+      "outdoors"
+    ],
+    "relations": [
+      {
+        "slug": "jeju-airport-to-hamdeok-beach-by-bus",
+        "type": "prepare",
+        "label": "Get to Hamdeok without a car",
+        "reason": "Find the right airport bus and decide where to hire a bicycle after arriving."
+      },
+      {
+        "slug": "gangneung-gyeongpo-lake-and-beach-walk",
+        "type": "alternative",
+        "label": "Do Gyeongpo on foot",
+        "reason": "Use the separate lake-and-beach plan if there is no bike, poor weather or an unsafe stretch."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-hamdeok-beach",
+      "gangneung-gyeongpo-beach"
+    ],
+    "shareFacts": [
+      "Choose a short turn-back ride",
+      "Use the official route maps",
+      "Confirm where to return the bike"
+    ],
+    "sources": [
+      {
+        "id": "guide:coastal-bike-routes-scenic-seaside-cycling-source-1",
+        "title": "Bicycle Happy Sharing: Jeju Circular Bicycle Path",
+        "url": "https://bike.go.kr/bbs/engList.do?bbsCtgrySn=30&key=2009110748529",
+        "note": "Official 234 km course, traffic cautions and counterclockwise recommendation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:coastal-bike-routes-scenic-seaside-cycling-source-2",
+        "title": "Bicycle Happy Sharing: East Coast Bicycle Path, Gangwon",
+        "url": "https://www.bike.go.kr/bbs/road.do?bbsCtgrySn=8&bbsCtgrySubSn=54&key=2006176977436",
+        "note": "Official 242 km route, sections on local roads and marked Jeongdongjin–Mukho detour.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:coastal-bike-routes-scenic-seaside-cycling-source-3",
+        "title": "VisitKorea: Hamdeok Beach",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=90647",
+        "note": "Road address for the public beach landmark.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:coastal-bike-routes-scenic-seaside-cycling-source-4",
+        "title": "VisitKorea: Gyeongpo Beach",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111055",
+        "note": "Gangneung beach landmark and road address.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1260,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-jeju-hamdeok-coastal-view-2026",
+    "heroCaption": "Hamdeok Beach on Jeju in May 2026, a named stop on the circular cycling route. The beachfront in this photograph is a landmark for your ride.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Grapesurgeon",
+      "title": "Hamdeok Beach May 2026 08.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamdeok_Beach_May_2026_08.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Hamdeok Beach · Jeju"
+  },
+  "namwon-chueotang-mudfish-soup": {
+    "id": "guide:namwon-chueotang-mudfish-soup",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Try chueotang near Gwanghalluwon Garden and check whether the shop uses ground or whole loach. If you cannot verify an ingredient you need to avoid, choose another dish or restaurant.",
+    "forWhom": "Travelers planning a first Namwon lunch and a nearby garden visit",
+    "conditions": [
+      "Preparation, prices and opening hours vary by restaurant. Check the menu and opening hours on the day."
+    ],
+    "regions": [
+      "namwon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Namwon",
+      "Korean food",
+      "Jeolla"
+    ],
+    "relations": [
+      {
+        "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+        "type": "prepare",
+        "label": "Save restaurant phrases",
+        "reason": "Take Korean ordering language with you for this and later meals."
+      },
+      {
+        "slug": "jeonju-nambu-market-eating-plan",
+        "type": "alternative",
+        "label": "Plan a separate meal in Jeonju",
+        "reason": "Use a Jeonju market plan if your itinerary stays in that city."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Look for 추어탕 on the menu",
+      "Ask how the loach is prepared",
+      "Pair lunch with the garden"
+    ],
+    "sources": [
+      {
+        "id": "guide:namwon-chueotang-mudfish-soup-source-1",
+        "title": "VisitKorea: Loach Soup",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178406",
+        "note": "Names chueotang, describes common preparation and identifies Namwon’s association with the dish.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:namwon-chueotang-mudfish-soup-source-2",
+        "title": "VisitKorea: Gwanghalluwon Garden",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=104565",
+        "note": "Garden address, access and visitor contact.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:namwon-chueotang-mudfish-soup-source-3",
+        "title": "VisitKorea: Play Namwon",
+        "url": "https://english.visitkorea.or.kr/svc/contents/bbsBscView.do?dataSetId=146&menuSn=958&vcontsId=219081",
+        "note": "City food and travel overview identifying Namwon loach soup.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:namwon-chueotang-mudfish-soup-source-4",
+        "title": "KTO restaurant directory",
+        "url": "https://english.visitkorea.or.kr/public/asis/upload/Muslim-friendly_restaurants.pdf",
+        "note": "Lists the example Namwon business and address. Check current operation with the restaurant.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1261,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-namwon-gwanghallu-pavilion-2013",
+    "heroCaption": "Gwanghallu Pavilion in Namwon, photographed in January 2013. The garden area is the landmark for the lunch plan.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Asfreeas",
+      "title": "Korea-Nawon-Kwanghanlu2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Nawon-Kwanghanlu2.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Gwanghallu · Namwon"
+  },
+  "korea-s-best-fall-foliage-spots-without-the-crowds": {
+    "id": "guide:korea-s-best-fall-foliage-spots-without-the-crowds",
+    "categoryId": "places-itineraries",
+    "format": "seasonal",
+    "checkedAt": "2026-11-24",
+    "answer": "For the pond and pavilion in the photograph, head to Baekyangsa in Jangseong. The main Naejangsan entrance in Jeongeup is a separate outing. Use recent photos and park notices before choosing a date.",
+    "forWhom": "Travelers choosing an autumn day trip with a manageable walk",
+    "conditions": [
+      "A historical foliage photograph is no forecast. Check the park’s current access restrictions and your return transport."
+    ],
+    "regions": [
+      "gwangju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Jangseong",
+      "fall foliage",
+      "outdoors"
+    ],
+    "relations": [
+      {
+        "slug": "gwangju-national-museum-children-visit",
+        "type": "alternative",
+        "label": "Keep an indoor day in Gwangju",
+        "reason": "If weather or park access makes Jangseong impractical and you are based in Gwangju, use a separate indoor plan."
+      },
+      {
+        "slug": "seoraksan-cable-car-flexible-sokcho-day",
+        "type": "interest",
+        "label": "Plan a mountain day from Sokcho",
+        "reason": "Use a different route and its own weather and access checks if your itinerary is on the east coast."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Choose Jangseong or Jeongeup",
+      "Check dated foliage observations",
+      "Check the park’s access notices"
+    ],
+    "sources": [
+      {
+        "id": "guide:korea-s-best-fall-foliage-spots-without-the-crowds-source-1",
+        "title": "VisitKorea: Baegyangsa Temple",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=104966",
+        "note": "Confirms the Jangseong address and the pavilion by the pond.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-s-best-fall-foliage-spots-without-the-crowds-source-2",
+        "title": "Korea National Park Service: Naejangsan",
+        "url": "https://www.knps.or.kr/front/portal/visit/visitCourseMain.do?menuNo=7020087&parkId=120600",
+        "note": "Park map, access notices, trail information and dated foliage photos.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-s-best-fall-foliage-spots-without-the-crowds-source-3",
+        "title": "National Park Service: November 23 access notice",
+        "url": "https://www.knps.or.kr/front/portal/open/pnewsDtl.do?menuNo=8000517&pnewsGrpCd=PNE01&pnewsId=PNEWSM035524&searchParkId=120600",
+        "note": "Updated November 2026 access notice for parts of the Baegam area. Check the current list before travel.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-s-best-fall-foliage-spots-without-the-crowds-source-4",
+        "title": "Korea Meteorological Administration: seasonal observations",
+        "url": "https://www.weather.go.kr/w/weather/seasonal.do",
+        "note": "WeatherNuri portal for seasonal observations. Observations apply to individual sites.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1262,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-baekyangsa-ssanggyeru-autumn-2019",
+    "heroCaption": "Autumn foliage at Ssanggyeru Pavilion at Baekyangsa, photographed in November 2019.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Cultural Heritage Administration, spokesperson’s office",
+      "title": "장성_백양사_쌍계루와_백학봉_2019년_촬영(출처_문화재청_대변인실).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9E%A5%EC%84%B1_%EB%B0%B1%EC%96%91%EC%82%AC_%EC%8C%8D%EA%B3%84%EB%A3%A8%EC%99%80_%EB%B0%B1%ED%95%99%EB%B4%89_2019%EB%85%84_%EC%B4%AC%EC%98%81(%EC%B6%9C%EC%B2%98_%EB%AC%B8%ED%99%94%EC%9E%AC%EC%B2%AD_%EB%8C%80%EB%B3%80%EC%9D%B8%EC%8B%A4).jpg",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Korea Open Government License Type 1. Rehosted original checked against Wikimedia item. Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Baekyangsa · autumn 2019"
+  },
+  "queen-of-tears-filming-locations-2026": {
+    "id": "guide:queen-of-tears-filming-locations-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with Irwol Arboretum in Suwon for the garden seen in the show. If Yongdu-ri is your priority, plan Mungyeong Eco World as a separate trip and look for the operator’s current photo zone.",
+    "forWhom": "Fans planning one real public filming-related stop during a Korea trip",
+    "conditions": [
+      "Verify visitor hours and the areas open on your date. The show’s story locations and public entrances can be different."
+    ],
+    "regions": [
+      "suwon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Suwon",
+      "Mungyeong",
+      "K-drama"
+    ],
+    "relations": [
+      {
+        "slug": "suwon-hwaseong-museum-before-fortress",
+        "type": "next",
+        "label": "Plan a separate Suwon history stop",
+        "reason": "Add central Suwon only if you have time for a cross-city transfer."
+      },
+      {
+        "slug": "suwon-gwanggyo-lake-park-short-walk",
+        "type": "alternative",
+        "label": "Choose another Suwon green space",
+        "reason": "Use Gwanggyo for a separate outdoor walk if the arboretum visit does not fit."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Visit the greenhouse in Suwon",
+      "Plan Mungyeong separately",
+      "Use public visitor entrances"
+    ],
+    "sources": [
+      {
+        "id": "guide:queen-of-tears-filming-locations-2026-source-1",
+        "title": "VisitKorea: Queen of Tears location in Suwon",
+        "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=228261",
+        "note": "The show uses the arboretum as the fictional rooftop garden.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:queen-of-tears-filming-locations-2026-source-2",
+        "title": "Suwon City: Irwol Arboretum",
+        "url": "https://www.suwon.go.kr/web/iwarbor/index.do",
+        "note": "Operator notices and visiting information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:queen-of-tears-filming-locations-2026-source-3",
+        "title": "VisitKorea: Suwon Arboretum Irwol",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=217729",
+        "note": "English visitor listing and road address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:queen-of-tears-filming-locations-2026-source-4",
+        "title": "Mungyeong Tourism Organization: Eco World notice",
+        "url": "https://www.mgtpcr.or.kr/web/board.do?bbsIdx=2208850&menuIdx=412",
+        "note": "Identifies the Yongdu-ri supermarket photo zone in the operator’s 2026 release.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:queen-of-tears-filming-locations-2026-source-5",
+        "title": "VisitKorea: Mungyeong series locations",
+        "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=70&vcontsId=216608",
+        "note": "Mungyeong filming context. Use the venue’s current information before planning a visit.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1263,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-suwon-irwol-greenhouse-kto",
+    "heroCaption": "The exhibition greenhouse at Irwol Arboretum in Suwon. The arboretum stood in for the department store’s rooftop garden in Queen of Tears.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Korea Tourism Organization",
+      "title": "수원_일월수목원 (1).jpg",
+      "sourceUrl": "https://www.nculture.org/cul/localCultureDetail.do?contentType=G&targetId=3076051",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Korea Open Government License Type 1. The credited record embeds this exact Korea Tourism Organization image. Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Irwol Arboretum · Suwon"
   }
 }

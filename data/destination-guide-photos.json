@@ -772,5 +772,35 @@
     "subjectUsefulness": 3,
     "sceneClarity": 1,
     "cropPotential": 2
+  },
+  "dmz-visit-guide-2026": {
+    "mediaId": "archive-paju-imjingak-pinwheels-2015",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "coastal-bike-routes-scenic-seaside-cycling": {
+    "mediaId": "archive-jeju-hamdeok-coastal-view-2026",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "namwon-chueotang-mudfish-soup": {
+    "mediaId": "archive-namwon-gwanghallu-pavilion-2013",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "korea-s-best-fall-foliage-spots-without-the-crowds": {
+    "mediaId": "archive-baekyangsa-ssanggyeru-autumn-2019",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "queen-of-tears-filming-locations-2026": {
+    "mediaId": "archive-suwon-irwol-greenhouse-kto",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
   }
 }

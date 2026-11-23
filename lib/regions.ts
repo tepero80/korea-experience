@@ -78,6 +78,7 @@ export const REGIONS: readonly Region[] = [
       'suwon-nammun-market-lunch-walk',
       'suwon-gwanggyo-lake-park-short-walk',
       'lovely-runner-filming-locations-2026',
+      'queen-of-tears-filming-locations-2026',
     ],
     onward: [{ regionId: 'seoul', reason: 'Return to a Seoul base and choose a neighborhood for the following day.' }],
   },
@@ -133,7 +134,7 @@ export const REGIONS: readonly Region[] = [
     highlights: [
       'where-to-stay-in-jeju-without-a-car',
       'seongsan-ilchulbong-by-bus-from-jeju-city',
-      'jeju-stone-park-first-route-by-bus',
+      'coastal-bike-routes-scenic-seaside-cycling',
       'seogwipo-cheonjiyeon-or-jeongbang-waterfall',
       'soesokkak-estuary-walk-or-boat',
       'jeju-winter-ferry-checklist-udo-gapa-marado',
