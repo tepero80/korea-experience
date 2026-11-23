@@ -1469,17 +1469,18 @@
   },
   "busan-museum-un-memorial-cemetery-respectful-half-day": {
     "src": "/images/cards/busan-museum-un-memorial-cemetery-respectful-half-day.jpg",
-    "fingerprint": "fc5c02ed3c91869ec456fe84d3b18677bae97a11f895903619739a02e8033312",
-    "sourceImage": "/images/editorial/busan-museum-unmck-half-day-illustration.svg",
+    "fingerprint": "ec145c7dba9e4f065a4fd09bb12b6d26d8398a924c4b77051cd410978bb450ad",
+    "sourceImage": "/images/editorial/archive-busan-museum-courtyard-approach-2012-1280.webp",
     "credit": {
-      "kind": "illustration",
-      "title": "Illustration: archive gallery and memorial path",
-      "author": "Korea Experience Editorial",
-      "license": "Original illustration; Korea Experience publication rights; no third-party site imagery",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original vector split-scene. It does not depict either actual Busan venue; no third-party image assets used."
+      "kind": "photograph",
+      "author": "hyolee2",
+      "title": "Busan museum.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan_museum.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
     },
-    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
   "seoul-museum-of-craft-art-visitor-guide": {
     "src": "/images/cards/seoul-museum-of-craft-art-visitor-guide.jpg",
@@ -3563,6 +3564,81 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Cropped, resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "traditional-markets-outside-seoul-worth-the-trip": {
+    "src": "/images/cards/traditional-markets-outside-seoul-worth-the-trip.jpg",
+    "fingerprint": "ce001b9366e143e9568247b4c726b73be32cdf88cb8a602bb9241cd41900f594",
+    "sourceImage": "/images/editorial/archive-busan-gukje-market-covered-stall-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Ka23 13",
+      "title": "Gukje Market 20241221 125352.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gukje_Market_20241221_125352.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korean-seafood-markets-noryangjin-and-more-2026": {
+    "src": "/images/cards/korean-seafood-markets-noryangjin-and-more-2026.jpg",
+    "fingerprint": "3bc92ecc9d84d6ddf35386387418cebd41a5f6f3d0a85c39d567add658d3262c",
+    "sourceImage": "/images/editorial/archive-seoul-noryangjin-prawn-display-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Punnatorn Thepsuwanworn",
+      "title": "Fleshy prawns.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fleshy_prawns.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026": {
+    "src": "/images/cards/exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026.jpg",
+    "fingerprint": "76d0b0761b1cfaafc04671dabf9196db46900941540fff8934883a389397b74a",
+    "sourceImage": "/images/editorial/archive-paju-imjingak-ribbon-walkway-2018-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Lance Vanlewen",
+      "title": "Freedom Bridge at Imjingak, Demilitarized Zone (DMZ), South Korea",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freedom_Bridge_at_Imjingak,_Demilitarized_Zone_(DMZ),_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "lovely-runner-filming-locations-2026": {
+    "src": "/images/cards/lovely-runner-filming-locations-2026.jpg",
+    "fingerprint": "d25af36312f92adecb6a3ea933214fb1223bda8fd468fbc5da62ef5ce58031f9",
+    "sourceImage": "/images/editorial/archive-suwon-hwahongmun-over-water-2022-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Bernard Gagnon",
+      "title": "Hwahongmun 02",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hwahongmun_02.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "how-to-identify-cult-recruiters-2026": {
+    "src": "/images/cards/how-to-identify-cult-recruiters-2026.jpg",
+    "fingerprint": "568b73ee3b981841c1d46d73e9cea6b35b5dc5c5551b49dafcb299ccb83960a2",
+    "sourceImage": "/images/editorial/archive-myeongdong-tourist-help-sign-2016-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Abasaa",
+      "title": "Korea Tourist Police Myeongdong Tourist Information Center",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea_Tourist_Police_Myeongdong_Tourist_Information_Center.JPG",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }

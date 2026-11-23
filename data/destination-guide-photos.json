@@ -688,5 +688,41 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "traditional-markets-outside-seoul-worth-the-trip": {
+    "mediaId": "archive-busan-gukje-market-covered-stall-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "korean-seafood-markets-noryangjin-and-more-2026": {
+    "mediaId": "archive-seoul-noryangjin-prawn-display",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026": {
+    "mediaId": "archive-paju-imjingak-ribbon-walkway-2018",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "busan-museum-un-memorial-cemetery-respectful-half-day": {
+    "mediaId": "archive-busan-museum-courtyard-approach-2012",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "lovely-runner-filming-locations-2026": {
+    "mediaId": "archive-suwon-hwahongmun-over-water-2022",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "how-to-identify-cult-recruiters-2026": {
+    "mediaId": "archive-myeongdong-tourist-help-sign-2016",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

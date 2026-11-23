@@ -51,7 +51,7 @@ export const REGIONS: readonly Region[] = [
       'where-to-stay-in-busan-neighborhoods',
       'haeundae-sky-capsule-vs-beach-train',
       'osiria-to-haedong-yonggungsa-temple',
-      'beomeosa-station-to-temple',
+      'busan-museum-un-memorial-cemetery-respectful-half-day',
       'dadaepo-beach-from-busan-metro',
       'f1963-from-mangmi-station',
     ],
@@ -72,6 +72,13 @@ export const REGIONS: readonly Region[] = [
     intro:
       'Make a manageable day around a section of Hwaseong’s walls, the palace area, and a meal. The full fortress circuit is optional, not a requirement.',
     tip: 'Check separate palace, activity and seasonal opening notices. A fortress walk does not guarantee a ticketed building or evening program is open.',
+    highlights: [
+      'suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026',
+      'suwon-hwaseong-museum-before-fortress',
+      'suwon-nammun-market-lunch-walk',
+      'suwon-gwanggyo-lake-park-short-walk',
+      'lovely-runner-filming-locations-2026',
+    ],
     onward: [{ regionId: 'seoul', reason: 'Return to a Seoul base and choose a neighborhood for the following day.' }],
   },
   {

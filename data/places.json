@@ -2533,5 +2533,19 @@
     "description": "Park overview. Ask at the entrance which parts of the first route are open.",
     "checkedAt": "2026-11-24",
     "visitorUrl": "https://visitjeju.net/kr/detail/view?contentsid=CONT_000000000500547"
+  },
+  {
+    "id": "busan-city-museum-daeyeon",
+    "name": "Busan Museum",
+    "nameKo": "부산박물관",
+    "address": "부산광역시 남구 유엔평화로 63",
+    "region": "busan",
+    "latitude": 35.12955255,
+    "longitude": 129.0929379,
+    "officialUrl": "https://museum.busan.go.kr/busan/bsmap",
+    "visitorUrl": "https://museum.busan.go.kr/busan/bsview",
+    "sourceNote": "Museum site overview from the national facility dataset. Use city directions to find the visitor entrance.",
+    "description": "Apply the 17:00 last admission and check the holiday notice.",
+    "checkedAt": "2026-11-24"
   }
 ]

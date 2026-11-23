@@ -2289,6 +2289,12 @@
         "type": "alternative",
         "label": "A useful alternative",
         "reason": "Use Insadong for a focused craft browse and Namdaemun for a separate market block; compare materials and portability."
+      },
+      {
+        "slug": "korean-seafood-markets-noryangjin-and-more-2026",
+        "type": "alternative",
+        "label": "Compare a seafood-market meal",
+        "reason": "Use Noryangjin’s separate buying and preparation steps."
       }
     ],
     "tools": [
@@ -8709,14 +8715,13 @@
     "experienceVersion": 2,
     "categoryId": "culture-events",
     "format": "itinerary",
-    "checkedAt": "2026-11-15",
-    "answer": "Pair Busan Museum's regional-history galleries with the UN Memorial Cemetery, but plan around the cemetery's earlier October–April closing and its strict place-of-remembrance conduct rules.",
-    "forWhom": "Visitors wanting a respectful, history-centered half-day in Daeyeon, Busan",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with the stop you most want to visit. Busan Museum’s last admission is 17:00, and the cemetery closes at 17:00 from October through April.",
+    "forWhom": "Visitors choosing a history-centered half-day in Daeyeon, Busan",
     "conditions": [
-      "Busan Museum is free, open Tue–Sun 09:00–18:00, and closes Mondays and Jan 1; holiday adjustments apply.",
-      "UNMCK is free and open 365 days, 09:00–17:00 Oct–Apr and 09:00–18:00 May–Sep.",
-      "The suggested half-day order is editorial planning, not an official combined route.",
-      "A walking route between venues, step-free access and weather shelter were not independently verified."
+      "Check temporary notices and the walking route between the two independent venues.",
+      "Busan Museum usually closes Mondays and January 1. A public holiday on Monday moves the closure to the next working weekday.",
+      "The cemetery asks visitors to follow its rules for dress and quiet conduct."
     ],
     "regions": [
       "busan"
@@ -8726,86 +8731,102 @@
     ],
     "interests": [
       "culture",
-      "history",
-      "memorial"
+      "Busan history",
+      "remembrance"
     ],
     "relations": [
       {
         "slug": "busan-modern-contemporary-history-museum-visit",
-        "type": "interest",
-        "label": "Explore another Busan history museum",
-        "reason": "This central Jung-gu guide covers a different museum and building history; it is not part of the Daeyeon half-day route."
+        "type": "alternative",
+        "label": "Choose a central Busan museum",
+        "reason": "A separate indoor outing in Jung-gu."
       },
       {
         "slug": "where-to-stay-in-busan-neighborhoods",
         "type": "prepare",
-        "label": "Check your Busan base",
-        "reason": "A stay near a convenient transit line can make a Daeyeon visit easier to fit into your wider trip."
+        "label": "Choose a Busan base",
+        "reason": "Check the transport leg from your accommodation."
       },
       {
         "slug": "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices",
         "type": "prepare",
-        "label": "Plan your Busan journey",
-        "reason": "Compare the train, neighborhood base and route before fitting this museum into a Busan trip."
+        "label": "Plan the rail journey to Busan",
+        "reason": "Compare arrival station and neighborhood before building this outing."
       }
     ],
     "tools": [],
-    "placeIds": [],
+    "placeIds": [
+      "busan-city-museum-daeyeon"
+    ],
     "sources": [
       {
-        "id": "busan-museum-service-information",
-        "title": "Busan Museum: Visitor Information (Japanese)",
-        "url": "https://museum.busan.go.kr/jpn/bsminfo01",
-        "checkedAt": "2026-11-15",
-        "note": "Directly checked Japanese visitor information for hours, closure, free admission, accessibility equipment and transit; English service page timed out during review."
+        "id": "culture-busan-museum-unmck-half-day-source-1",
+        "title": "Busan Museum visitor information",
+        "url": "https://museum.busan.go.kr/busan/bsview",
+        "note": "Admission, last entry, holiday exceptions and mobility equipment.",
+        "checkedAt": "2026-11-24"
       },
       {
-        "id": "busan-museum-facility-information",
-        "title": "Busan Museum — Facility Information",
-        "url": "https://museum.busan.go.kr/eng/bsminfo02",
-        "checkedAt": "2026-11-15",
-        "note": "Exhibition hall themes and facility details."
+        "id": "culture-busan-museum-unmck-half-day-source-2",
+        "title": "Busan Museum directions",
+        "url": "https://museum.busan.go.kr/busan/bsmap",
+        "note": "Korean address and estimated 10-minute approach from Daeyeon Exit 3.",
+        "checkedAt": "2026-11-24"
       },
       {
-        "id": "unmck-official-home",
-        "title": "UN Memorial Cemetery in Korea — Official site",
+        "id": "culture-busan-museum-unmck-half-day-source-3",
+        "title": "Busan Museum facility map",
+        "url": "https://museum.busan.go.kr/busan/bhfacillity00",
+        "note": "Museum grounds and exhibition halls.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "culture-busan-museum-unmck-half-day-source-4",
+        "title": "National museum dataset",
+        "url": "https://www.data.go.kr/data/15017323/standard.do",
+        "note": "Museum facility overview coordinates.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "culture-busan-museum-unmck-half-day-source-5",
+        "title": "UN Memorial Cemetery operator",
         "url": "https://unmck.or.kr/eng/main/",
-        "checkedAt": "2026-11-15",
-        "note": "Free admission, 365-day opening, seasonal closing times, memorial features and address."
+        "note": "Seasonal closing times and current notices.",
+        "checkedAt": "2026-11-24"
       },
       {
-        "id": "unmck-directions",
-        "title": "UN Memorial Cemetery in Korea — Directions",
+        "id": "culture-busan-museum-unmck-half-day-source-6",
+        "title": "UNMCK directions",
         "url": "https://unmck.or.kr/eng/02_unmck/?mcode=0502050000",
-        "checkedAt": "2026-11-15",
-        "note": "Address, bus routes and Daeyeon Station Line 2 Exit 3, 15-minute walk per official site."
+        "note": "Separate address and walking approach.",
+        "checkedAt": "2026-11-24"
       },
       {
-        "id": "unmck-observance",
-        "title": "UN Memorial Cemetery in Korea — Observance and dress code",
+        "id": "culture-busan-museum-unmck-half-day-source-7",
+        "title": "UNMCK observance",
         "url": "https://www.unmck.or.kr/eng/02_unmck/?mcode=0502040000",
-        "checkedAt": "2026-11-15",
-        "note": "Official conduct: quiet, no smoking/drinking/food/pets/riding/exercise/littering, keep off grass, no picking plants/flowers, listed dress restrictions."
+        "note": "Published dress and conduct rules.",
+        "checkedAt": "2026-11-24"
       }
     ],
     "shareFacts": [
-      "Museum: Tue–Sun 09:00–18:00; cemetery closes 17:00 in Oct–Apr.",
-      "Both have free admission; check holiday and ceremony notices before travel.",
-      "UNMCK is a cemetery and memorial: keep quiet and follow its published visitor rules."
+      "Museum last admission 17:00",
+      "Cemetery closes at 17:00 October–April",
+      "Different addresses along UN Pyeonghwa-ro"
     ],
     "launchOrder": 1107,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Illustration: archive gallery and memorial path",
-      "author": "Korea Experience Editorial",
-      "license": "Original illustration; Korea Experience publication rights; no third-party site imagery",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original vector split-scene. It does not depict Busan Museum, UNMCK or their actual grounds; no third-party image assets used."
+      "kind": "photograph",
+      "author": "hyolee2",
+      "title": "Busan museum.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan_museum.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
     },
-    "heroMediaId": "culture-busan-museum-unmck-illustration",
-    "heroCaption": "Original editorial illustration—not a depiction or photograph of either Busan site.",
-    "cardImageLabel": "Illustration · not a site photo",
+    "heroMediaId": "archive-busan-museum-courtyard-approach-2012",
+    "heroCaption": "The courtyard approach to Busan Museum in Nam-gu, photographed in January 2012.",
     "gallery": []
   },
   "seoul-museum-of-craft-art-visitor-guide": {
@@ -14515,6 +14536,12 @@
         "type": "alternative",
         "label": "Keep your plan in Seoul",
         "reason": "Choose a central Seoul route when a return from Paju is awkward."
+      },
+      {
+        "slug": "exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026",
+        "type": "alternative",
+        "label": "Check which Paju visits are open",
+        "reason": "Compare the public-area route with verified tour and access conditions."
       }
     ],
     "tools": [
@@ -22625,6 +22652,410 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Cropped, resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "traditional-markets-outside-seoul-worth-the-trip": {
+    "id": "guide:traditional-markets-outside-seoul-worth-the-trip",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose the market that fits a place you already plan to visit. Use Gukje for browsing in Busan, Nambu for a meal in Jeonju, or the central market for a harbor day in Sokcho.",
+    "forWhom": "Visitors fitting a regional market stop into a city stay",
+    "conditions": [
+      "Shop hours and preparation vary. Confirm any specific food, access or vendor ahead of the trip."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "traditional markets",
+      "shopping",
+      "regional food"
+    ],
+    "relations": [
+      {
+        "slug": "jeonju-nambu-market-eating-plan",
+        "type": "next",
+        "label": "Fit Nambu into a Jeonju day",
+        "reason": "Use the market and village walking sequence."
+      },
+      {
+        "slug": "sokcho-market-gaetbae-abai-village-walk",
+        "type": "alternative",
+        "label": "Fit the Sokcho market and harbor into a walk",
+        "reason": "Check each stop and the way back."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Choose a market close to your route",
+      "Check vendors independently",
+      "Ask for the price per portion or weight"
+    ],
+    "sources": [
+      {
+        "id": "guide:traditional-markets-outside-seoul-worth-the-trip-source-1",
+        "title": "VisitKorea Gukje Market information",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=459&vcontsId=96189",
+        "note": "Location and range of goods.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:traditional-markets-outside-seoul-worth-the-trip-source-2",
+        "title": "VisitKorea Nambu Market information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=75565",
+        "note": "Market area and individually variable stalls.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:traditional-markets-outside-seoul-worth-the-trip-source-3",
+        "title": "CDC travel food precautions",
+        "url": "https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/food-and-water-precautions-for-travelers.html",
+        "note": "Food safety guidance on raw and undercooked seafood.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1247,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-busan-gukje-market-covered-stall-2024",
+    "heroCaption": "A covered walkway and bag stall at Gukje Market in Busan, December 2024.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Ka23 13",
+      "title": "Gukje Market 20241221 125352.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gukje_Market_20241221_125352.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "korean-seafood-markets-noryangjin-and-more-2026": {
+    "id": "guide:korean-seafood-markets-noryangjin-and-more-2026",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Decide whether to order directly in a restaurant or buy downstairs and pay separately for preparation. Ask the vendor and restaurant for the total before paying.",
+    "forWhom": "Travelers planning a first meal or seafood purchase at Noryangjin Market",
+    "conditions": [
+      "Confirm the shop, preparation, charges and operating hours directly."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "seafood markets",
+      "menu terms",
+      "Seoul food"
+    ],
+    "relations": [
+      {
+        "slug": "navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact",
+        "type": "prepare",
+        "label": "Check shared preparation",
+        "reason": "Use the practical Korean allergy phrases when ordering."
+      },
+      {
+        "slug": "gwangjang-market-complete-food-guide",
+        "type": "alternative",
+        "label": "Choose a different market meal",
+        "reason": "Explore Gwangjang on a separate Seoul route."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Seafood shops on the first floor",
+      "Ask about preparation and table charges",
+      "Compare the total for your group"
+    ],
+    "sources": [
+      {
+        "id": "guide:korean-seafood-markets-noryangjin-and-more-2026-source-1",
+        "title": "VisitKorea Noryangjin market listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91565",
+        "note": "Market layout and Korean address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korean-seafood-markets-noryangjin-and-more-2026-source-2",
+        "title": "VisitKorea guide to market seafood meals",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1595642",
+        "note": "Buying and eating options at the market.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korean-seafood-markets-noryangjin-and-more-2026-source-3",
+        "title": "CDC travel food precautions",
+        "url": "https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/food-and-water-precautions-for-travelers.html",
+        "note": "Safety guidance on thoroughly cooked food, fish and shellfish.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1248,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-noryangjin-prawn-display",
+    "heroCaption": "Prawns on ice at Noryangjin Fisheries Wholesale Market in May 2017. Check the day’s selection with each vendor.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Punnatorn Thepsuwanworn",
+      "title": "Fleshy prawns.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fleshy_prawns.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026": {
+    "id": "guide:exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "The Panmunjeom visitor center lists general public tours as suspended. Check Paju’s separate DMZ Peace Tour or plan the public Imjingak visit independently.",
+    "forWhom": "Travelers deciding whether a Seoul-to-Paju day trip can include their preferred visit",
+    "conditions": [
+      "Availability and itineraries depend on the operator, conditions and identity checks. Recheck on the travel day."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Paju",
+      "DMZ day trips",
+      "visit access"
+    ],
+    "relations": [
+      {
+        "slug": "imjingak-without-a-dmz-tour",
+        "type": "alternative",
+        "label": "Plan the public Imjingak visit",
+        "reason": "Check transport via Munsan and the return separately."
+      },
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "alternative",
+        "label": "Choose a day in Seoul",
+        "reason": "Keep a central plan if no suitable Paju trip is confirmed."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "paju-imjingak-resort"
+    ],
+    "shareFacts": [
+      "Panmunjeom public tours are suspended",
+      "Paju DMZ Peace Tour is separate",
+      "Verify the actual stops and documents"
+    ],
+    "sources": [
+      {
+        "id": "guide:exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026-source-1",
+        "title": "Panmunjeom visitor center",
+        "url": "https://www.panmuntour.go.kr/",
+        "note": "The public-tour suspension notice and any future status changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026-source-2",
+        "title": "Ministry of Unification visitor information",
+        "url": "https://www.unikorea.go.kr/web/unikorea/contents/fundstep_Panmunjon",
+        "note": "Current foreign-visitor operating status.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026-source-3",
+        "title": "Paju city Peace Tour page",
+        "url": "https://www.paju.go.kr/m/tour/place/BD_tourPlaceInfoView.do?cntntsSn=374&menuCode=1&q_gubunCode=1004",
+        "note": "Separate public itinerary, identity requirements and possible interruptions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026-source-4",
+        "title": "Paju city booking",
+        "url": "https://dmz.paju.go.kr/",
+        "note": "Live date and tour availability.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1249,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-paju-imjingak-ribbon-walkway-2018",
+    "heroCaption": "A ribbon-lined walkway at Imjingak in winter 2018. Imjingak is the public-area option in this guide.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Lance Vanlewen",
+      "title": "Freedom Bridge at Imjingak, Demilitarized Zone (DMZ), South Korea",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Freedom_Bridge_at_Imjingak,_Demilitarized_Zone_(DMZ),_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "lovely-runner-filming-locations-2026": {
+    "id": "guide:lovely-runner-filming-locations-2026",
+    "categoryId": "culture-events",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Walk from Haengnidan Street toward Hwahongmun and Banghwasuryujeong Pavilion. Use public viewpoints and confirmed entrances along the route.",
+    "forWhom": "Lovely Runner viewers planning a respectful, public filming-locations walk in Suwon",
+    "conditions": [
+      "Check open paths, weather and seasonal notices. Keep residential entrances and narrow lanes clear."
+    ],
+    "regions": [
+      "suwon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "filming locations",
+      "Suwon walks",
+      "Hwaseong"
+    ],
+    "relations": [
+      {
+        "slug": "suwon-hwaseong-museum-before-fortress",
+        "type": "alternative",
+        "label": "Start with the Hwaseong Museum",
+        "reason": "Choose a separate indoor stop when the weather changes."
+      },
+      {
+        "slug": "suwon-nammun-market-lunch-walk",
+        "type": "next",
+        "label": "Plan a Suwon market meal",
+        "reason": "Check the market as a separate choice after the walk."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Follow the public Haenggung-dong route",
+      "Hwahongmun gate and bridge are separate",
+      "Check open paths and allow daylight"
+    ],
+    "sources": [
+      {
+        "id": "guide:lovely-runner-filming-locations-2026-source-1",
+        "title": "VisitKorea Lovely Runner public walking route",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=564819",
+        "note": "Official four-stop public course and scene references.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:lovely-runner-filming-locations-2026-source-2",
+        "title": "VisitKorea Hwahongmun Gate listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=108749",
+        "note": "The Korean name, public watergate and street address.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1250,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-suwon-hwahongmun-over-water-2022",
+    "heroCaption": "Hwahongmun watergate in Suwon in September 2022. The bridge in front of it is a separate filming waypoint.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Bernard Gagnon",
+      "title": "Hwahongmun 02",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hwahongmun_02.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "how-to-identify-cult-recruiters-2026": {
+    "id": "guide:how-to-identify-cult-recruiters-2026",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "You can decline and move toward a staffed public place. For immediate safety concerns or if you are being prevented from leaving, call 112 in Korea.",
+    "forWhom": "Travelers who want a calm way to handle unwanted invitations or pressure in public",
+    "conditions": [
+      "Choose the next action based on your safety and what actually happens."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "visitor support",
+      "street safety",
+      "help in Korea"
+    ],
+    "relations": [
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "next",
+        "label": "Find practical visitor support",
+        "reason": "Use the guide to choose the correct service for the problem."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Decline and move to a staffed place",
+      "Call 112 for immediate police help",
+      "Use 1330 for travel information or interpretation"
+    ],
+    "sources": [
+      {
+        "id": "guide:how-to-identify-cult-recruiters-2026-source-1",
+        "title": "Seoul Metropolitan Government emergency contacts",
+        "url": "https://english.seoul.go.kr/service/living/disaster-evacuation-tips-citizens/emergency-ready-app/",
+        "note": "112 for police and 119 for emergency services.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:how-to-identify-cult-recruiters-2026-source-2",
+        "title": "VisitKorea 1330 Travel Helpline",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=454&vcontsId=140632",
+        "note": "Travel information, interpretation and contact options.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1251,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-myeongdong-tourist-help-sign-2016",
+    "heroCaption": "A Tourist Police sign in Myeongdong in 2016. Use the current phone and support information in this guide.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Abasaa",
+      "title": "Korea Tourist Police Myeongdong Tourist Information Center",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea_Tourist_Police_Myeongdong_Tourist_Information_Center.JPG",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
     },
     "gallery": [],
     "experienceVersion": 2
