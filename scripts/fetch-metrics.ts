@@ -4,6 +4,7 @@ import { reportingWindows, contentForReportUrl } from './reporting/report-policy
 import { retainObservedReports, type ReportHistory } from './reporting/history';
 import { compareGrowth } from './reporting/growth-comparison';
 import { observeGrowthGoals } from './reporting/growth-goals';
+import { cloudflareVisitsSnapshot, summarizeCloudflareVisits } from './reporting/cloudflare-visits';
 import { summarizeDiscovery } from './reporting/discovery';
 import {
   gscReport,
@@ -96,6 +97,15 @@ async function main() {
     ),
     observeGrowthGoals(now, tokens),
   ]);
+  let visitsSnapshot: unknown = undefined;
+  if (fs.existsSync(cloudflareVisitsSnapshot)) {
+    try {
+      visitsSnapshot = JSON.parse(fs.readFileSync(cloudflareVisitsSnapshot, 'utf8'));
+    } catch {
+      visitsSnapshot = null;
+    }
+  }
+  const cloudflareVisits = summarizeCloudflareVisits(visitsSnapshot, now);
   const normalizedPages = Object.fromEntries(
     Object.entries(periods).map(([period, results]) => [
       period,
@@ -184,7 +194,7 @@ async function main() {
     alerts,
     sitemaps,
     growth,
-    growthGoals,
+    growthGoals: { ...growthGoals, cloudflareVisits },
     lastSuccess: Object.fromEntries(
       Object.entries(successes).map(([key, value]) => [
         key,
@@ -211,7 +221,7 @@ async function main() {
   );
   console.log(`Fixed growth comparison: ${growth.status}`);
   console.log(
-    `Daily growth goals: GA4 ${growthGoals.visitors.status}; AdSense ${growthGoals.revenue.status}.`,
+    `Daily growth goals: Cloudflare browser snapshot ${cloudflareVisits.status}; GA4 consenting active users ${growthGoals.visitors.status}; AdSense ${growthGoals.revenue.status}.`,
   );
 }
 main().catch(() => {

@@ -28,6 +28,27 @@ totals include other traffic and have a separate operational purpose. Preserve t
 checking whether an apparent GA4 drop also appears in browser visits or search clicks. See the
 [Cloudflare visit definition](https://developers.cloudflare.com/web-analytics/data-metrics/high-level-metrics/).
 
+### Cloudflare visit observations
+
+Use the existing signed-in Cloudflare Web Analytics site, open **Visits** and leave the series at **All**. Use `Host equals koreaexperience.com`, `Exclude bots equals Yes` and `GMT+9`. For each run, take the last fully settled date from the GA4 window in `growthGoals.visitors.window.endDate` or use four calendar days before today's Korean date. Observe that day, the same weekday seven days earlier, and the two adjacent seven-day periods ending on those dates. Open **Absolute time range** for each period and use midnight at the start and midnight on the day after its inclusive end. Confirm the exact range and refreshed **Total visits** before recording. A daily bucket from a wider chart may have a different boundary.
+
+Save the four observed totals in `.private/reports/cloudflare-visits-latest.json`:
+
+```json
+{
+  "source": "Cloudflare Web Analytics dashboard",
+  "hostname": "koreaexperience.com",
+  "timeZone": "Asia/Seoul",
+  "excludeBots": true,
+  "observedAt": "2026-11-24T00:00:00Z",
+  "observations": [
+    { "startDate": "2026-11-20", "endDate": "2026-11-20", "displayedVisits": "123" }
+  ]
+}
+```
+
+The example includes one synthetic range only. Copy provider display text as shown, including abbreviated totals such as `1.55k`. Weekly changes and daily averages based on abbreviated values are approximate. Leave missing ranges absent. If the dashboard is inaccessible, preserve the previous capture and record the access problem. `npm run metrics` reads the local observation and labels missing, incomplete and stale ranges. The command does not fetch Cloudflare automatically. Keep actual dashboard capture time and report generation time separate. Use the existing check schedule and browser session for this observation. The output is `growthGoals.cloudflareVisits`, a broad audience trend and operational proxy for the 10,000 daily audience goal. Keep it separate from `growthGoals.visitors` (GA4 consenting active users) and `growthGoals.revenue` (AdSense). Cloudflare’s bot filter and sampling affect coverage. Counting browser visits cannot establish that 10,000 distinct people visited.
+
 The local reporting project is separate from public sign-in. Scopes are exactly GSC, Analytics and AdSense read-only; OAuth permissions themselves can cover reports the owner can access. Code further restricts requests to `sc-domain:koreaexperience.com`, GA4 property522514411 with exact apex-host filter and AdSense `accounts/pub-7793293419727384` with apex-domain revenue filter. No write, billing or public-login scope is requested.
 
 Use the official `google-auth-library`. Windows user DPAPI encrypts refresh credentials; a current-user-only ACL restricts `.private/integrations/google-reporting`. No credentials belong in Git, command arguments, logs, Worker bindings or browser storage. The downloaded Desktop JSON is transient setup material; protect it promptly and remove the task-created plaintext copy after confirmed encrypted storage. Never print provider errors that may contain tokens.

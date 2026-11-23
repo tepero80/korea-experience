@@ -3,12 +3,12 @@ import { adsenseReportUrl, gaReport, readOfficial, type ReportResult } from './c
 const dayMs = 86_400_000;
 const week = 7;
 const period = 28;
-const visitorsGoal = 10_000;
+export const dailyAudienceTarget = 10_000;
 const revenueGoalUsd = 100;
 const analyticsZone = 'Asia/Seoul';
 const adsZone = 'America/Los_Angeles';
 
-function settledDates(now: Date, timeZone: string) {
+export function settledDates(now: Date, timeZone: string) {
   const today = new Intl.DateTimeFormat('en-CA', {
     timeZone,
     year: 'numeric',
@@ -116,7 +116,7 @@ function visitorsForDays(dates: string[], report: ReportResult) {
       value: numberFromProvider(row.metricValues?.[0]?.value, true),
     }),
   );
-  return goalsForDays(dates, visitorsGoal, report, records, qualified);
+  return goalsForDays(dates, dailyAudienceTarget, report, records, qualified);
 }
 
 function revenueForDays(dates: string[], report: ReportResult) {
