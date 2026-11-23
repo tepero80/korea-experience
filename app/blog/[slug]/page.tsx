@@ -44,6 +44,7 @@ export default async function Guide({ params }: { params: Params }) {
   const e = post.editorial;
   const compiled = await compileGuideContent(post.content);
   const hero = mediaFor(e?.heroMediaId) || mediaForSource(post.image);
+  const heroCaption = e?.heroCaption ?? hero?.caption;
   const related = getRelatedPosts(post.slug, 3);
   const places = placesFor(e?.placeIds || []);
   const tools = PRACTICAL_TOOLS.filter((t) => e?.tools.includes(t.href.split('/').pop()!));
@@ -220,7 +221,7 @@ export default async function Guide({ params }: { params: Params }) {
                     fetchPriority="high"
                   />
                   <figcaption>
-                    {e?.heroCaption ? <p className="hero-caption">{e.heroCaption}</p> : null}
+                    {heroCaption ? <p className="hero-caption">{heroCaption}</p> : null}
                     <PhotoCredit credit={e?.imageCredit || hero?.credit} />
                     {!e?.imageCredit && !hero?.credit ? (
                       <p className="photo-credit">

@@ -1986,5 +1986,61 @@
     "checkedAt": "2026-11-23",
     "description": "Museum destination. Look for 장생포 고래박물관 rather than the neighboring experience center.",
     "sourceNote": "Korea Tourism Organization destination coordinate. The pin is an overview of the attraction."
+  },
+  {
+    "id": "busan-blueline-park-cheongsapo",
+    "name": "Haeundae Blueline Park (Cheongsapo)",
+    "nameKo": "해운대블루라인파크 청사포정거장",
+    "address": "부산광역시 해운대구 청사포로 116",
+    "latitude": 35.1612204663672,
+    "longitude": 129.19136449858,
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34413",
+    "addressSource": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34413",
+    "region": "busan",
+    "checkedAt": "2026-11-23",
+    "description": "Cheongsapo overview. Match the boarding station on your ticket. Mipo and Songjeong have different approaches.",
+    "sourceNote": "Korea Tourism Organization destination coordinate. The pin is an overview rather than a boarding or entrance pin."
+  },
+  {
+    "id": "busan-haedong-yonggungsa",
+    "name": "Haedong Yonggungsa Temple",
+    "nameKo": "해동용궁사",
+    "address": "부산광역시 기장군 기장읍 용궁길 86",
+    "latitude": 35.1882428912293,
+    "longitude": 129.223530192843,
+    "officialUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108618",
+    "addressSource": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108618",
+    "region": "busan",
+    "checkedAt": "2026-11-23",
+    "description": "Temple overview. Search for 용궁사·국립수산과학원 separately if traveling by bus.",
+    "sourceNote": "Korea Tourism Organization destination coordinate. The pin is an overview rather than a boarding or entrance pin."
+  },
+  {
+    "id": "busan-beomeosa-temple",
+    "name": "Beomeosa Temple",
+    "nameKo": "범어사",
+    "address": "부산광역시 금정구 범어사로 250",
+    "latitude": 35.2839564712799,
+    "longitude": 129.068097571016,
+    "officialUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111223",
+    "addressSource": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111223",
+    "region": "busan",
+    "checkedAt": "2026-11-23",
+    "description": "Temple overview. The Line 1 station named 범어사역 is a separate stop.",
+    "sourceNote": "Korea Tourism Organization destination coordinate. The pin is an overview rather than a boarding or entrance pin."
+  },
+  {
+    "id": "gyeongju-yangdong-village-overview",
+    "name": "Yangdong Village",
+    "nameKo": "양동마을",
+    "address": "경주시 강동면 양동마을길 138-18",
+    "latitude": 35.996658967069,
+    "longitude": 129.253659865198,
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=94431",
+    "addressSource": "https://www.gyeongju.go.kr/tour/page.do?area_uid=106&cmd=2&code_uid=1010&mnu_uid=4720",
+    "region": "gyeongju",
+    "checkedAt": "2026-11-23",
+    "sourceNote": "KTO’s destination overview pin and Gyeongju City’s visitor address. Check the current stop and walking approach separately.",
+    "description": "Living village overview. Search for 양동민속마을 when comparing buses and verify the last practical return."
   }
 ]

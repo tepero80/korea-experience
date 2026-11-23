@@ -16,6 +16,7 @@ const photoWidth = 212;
 const photoHeight = 125;
 const paper = '#faf6ed';
 const pixelsPerSheet = columns * tileWidth;
+const oneBit = BigInt(1);
 
 const xml = (value: string) =>
   value.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
@@ -29,6 +30,25 @@ function titleLines(title: string) {
     title.slice(0, split).trim(),
     remainder.length <= 33 ? remainder : remainder.slice(0, 32) + '…',
   ];
+}
+
+async function differenceHash(file: Buffer, fit: 'fill' | 'cover') {
+  const pixels = await sharp(file)
+    .autoOrient()
+    .toColourspace('b-w')
+    .removeAlpha()
+    .resize(9, 8, { fit })
+    .raw()
+    .toBuffer();
+  if (pixels.length !== 72) throw new Error('Unexpected fingerprint image channels');
+  let hash = BigInt(0);
+  for (let row = 0; row < 8; row++) {
+    for (let col = 0; col < 8; col++) {
+      const offset = row * 9 + col;
+      hash = (hash << oneBit) | BigInt(pixels[offset] > pixels[offset + 1]);
+    }
+  }
+  return hash.toString(16).padStart(16, '0');
 }
 
 async function thumbnail(post: PostMetadata) {
@@ -58,7 +78,8 @@ async function thumbnail(post: PostMetadata) {
       .jpeg({ quality: 83 })
       .toBuffer();
     const hash = createHash('sha256').update(file).digest('hex');
-    return { data: { ...base, dimensions: [width, height], hash, decode: 'passed' }, tile };
+    const fingerprints = await Promise.all([differenceHash(file, 'fill'), differenceHash(file, 'cover')]);
+    return { data: { ...base, dimensions: [width, height], hash, fingerprints, decode: 'passed' }, tile };
   } catch (error) {
     return { data: { ...base, decode: 'failed', error: String(error) }, tile: undefined };
   }
@@ -103,6 +124,37 @@ async function renderSheets(folder: string, prefix: string, posts: PostMetadata[
   return items;
 }
 
+function nearbyHeroPairs(items: Awaited<ReturnType<typeof renderSheets>>) {
+  const maximumDistance = 5;
+  const files = items.flatMap((item) =>
+    'fingerprints' in item
+      ? [{ slug: item.slug, image: item.image, hashes: item.fingerprints.map((hash) => BigInt('0x' + hash)) }]
+      : [],
+  );
+  const candidates: { a: string; b: string; aImage: string | null; bImage: string | null; distance: number }[] = [];
+  for (let i = 0; i < files.length; i++) {
+    const current = files[i];
+    for (let j = i + 1; j < files.length; j++) {
+      const other = files[j];
+      let closest = maximumDistance + 1;
+      for (const a of current.hashes) {
+        for (const b of other.hashes) {
+          let bits = a ^ b;
+          let distance = 0;
+          while (bits && distance < closest) {
+            bits &= bits - oneBit;
+            distance++;
+          }
+          closest = Math.min(closest, distance);
+        }
+      }
+      if (closest <= maximumDistance)
+        candidates.push({ a: current.slug, b: other.slug, aImage: current.image, bImage: other.image, distance: closest });
+    }
+  }
+  return candidates.sort((a, b) => a.distance - b.distance);
+}
+
 async function main() {
   const folder = path.resolve(
     '.private/reports/guide-hero-audit',
@@ -125,11 +177,13 @@ async function main() {
     ...item,
     displayedHubPlans: visiblePlans.get(item.slug) ?? [],
   }));
+  const candidates = nearbyHeroPairs(items);
   const counts = {
     guideCount: items.length,
     hubPlanCount: plans.length,
     decoded: items.filter((item) => item.decode === 'passed').length,
     recordedProvenance: items.filter((item) => item.recordedProvenance).length,
+    visuallySimilarPairs: candidates.length,
     kinds: [...new Set(items.map((item) => item.kind))].map((kind) => ({
       kind,
       count: items.filter((item) => item.kind === kind).length,
@@ -148,6 +202,13 @@ async function main() {
       null,
       2,
     ) + '\n',
+  );
+  await fs.writeFile(
+    path.join(folder, 'similarity-candidates.json'),
+    JSON.stringify({
+      scope: '64-bit grayscale difference hashes from the full frame and a centered 9:8 crop, Hamming distance at most five. Visually confirm suspected matches. Other crops and substantial edits can escape detection.',
+      candidates,
+    }, null, 2) + '\n',
   );
   console.log(JSON.stringify({ folder, ...counts }, null, 2));
 }

@@ -12,7 +12,7 @@ tags:
   - "Medical Tourism"
 readTime: "13 min read"
 featured: false
-image: "/images/namdaemun-market-bargaining-tips.webp"
+image: /images/editorial/seoul-namdaemun-market-crowded-lane-november-2026-1280.webp
 ---
 
 Can you bargain at Namdaemun Market? Yes, but with specific cultural nuances that differ significantly from markets in Southeast Asia or the Middle East. Generally, you can negotiate 10% to 20% off the asking price, particularly if you are paying in cash or buying multiple items (wholesale style). However, aggressive haggling is frowned upon; the goal is a polite interaction where you ask for a discount or "service" (free gifts).

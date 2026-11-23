@@ -6,7 +6,7 @@ category: Travel & Tourism
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 76
-image: "/images/hiking-hallasan-booking-reservation.webp"
+image: /images/editorial/jeju-hallasan-samgakbong-winter-ridge-2025-1280.webp
 ---
 
 So, you want to conquer South Korea's highest peak? Here is the absolute truth about the Hallasan reservation system, how to beat the buggy website without a Korean phone number, and why showing up unprepared in 2026 will leave you stranded at the gate.

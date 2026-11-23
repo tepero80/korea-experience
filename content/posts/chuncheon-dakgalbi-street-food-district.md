@@ -14,7 +14,7 @@ tags:
   - "Halal"
 readTime: "10 min read"
 featured: false
-image: "/images/chuncheon-dakgalbi-street-food-district.webp"
+image: /images/editorial/archive-chuncheon-dakgalbi-pan-dish-1280.webp
 ---
 
 Chuncheon Dakgalbi Street is more than just a dining destination; it is the spiritual home of one of South Korea’s most beloved communal dishes. Located approximately 75 kilometers (46 miles) northeast of Seoul, the city of Chuncheon attracts over 8 million visitors annually, many of whom make the pilgrimage specifically for the spicy stir-fried chicken known as *dakgalbi*.

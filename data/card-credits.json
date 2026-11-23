@@ -2860,5 +2860,65 @@
       "note": "Resized and converted to WebP. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "haeundae-sky-capsule-vs-beach-train": {
+    "src": "/images/cards/haeundae-sky-capsule-vs-beach-train.jpg",
+    "fingerprint": "4d928df1b75eb60739df4c740475fe360104e883af645c1bf382b504bdcd153f",
+    "sourceImage": "/images/editorial/busan-haeundae-sky-capsule-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "VN.NguyenDucDuy",
+      "title": "Yellow Sky Capsules at Haeundae Blueline Park",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sky_Capsule_train_at_Haeundae_Blueline_Park,_Busan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "osiria-to-haedong-yonggungsa-temple": {
+    "src": "/images/cards/osiria-to-haedong-yonggungsa-temple.jpg",
+    "fingerprint": "f5200901c9a3659c4b9d4083407c50cf8166a276d680666fdcfc53aa138aa9c9",
+    "sourceImage": "/images/editorial/busan-haedong-yonggungsa-coast-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "lumoplank",
+      "title": "Haedong Yonggungsa on the Busan coast",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haedong_Yonggungsa_Temple,_Busan_-_HaedongYonggungsa2706.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "beomeosa-station-to-temple": {
+    "src": "/images/cards/beomeosa-station-to-temple.jpg",
+    "fingerprint": "15a02cc1325cf76ad9b30f9dff5bab1264c9c0297724e420fe32bf9326061c89",
+    "sourceImage": "/images/editorial/busan-beomeosa-hall-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Basile Morin",
+      "title": "A Beomeosa temple hall and its broad stone steps",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_exterior_view_of_Beomeosa_temple_with_three_stairs_and_blue_sky_in_Busan_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "yangdong-village-from-gyeongju-by-bus": {
+    "src": "/images/cards/yangdong-village-from-gyeongju-by-bus.jpg",
+    "fingerprint": "3be139df54bfd1dbb05f73c8dd135f7f729af2d8fb7425e3bc8007ec732f691c",
+    "sourceImage": "/images/editorial/gyeongju-yangdong-village-slope-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Mobius6",
+      "title": "Yangdong Village houses and slopes in January 2024",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yangdong_Village_20240113_047.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "14 min read"
 featured: false
-image: "/images/lotte-department-store-flagship-locations.webp"
+image: /images/editorial/seoul-lotte-flagship-euljiro-evening-2015-1280.webp
 ---
 
 If you are looking for the absolute best Lotte Department Store experience in Korea, the **Main Store in Myeongdong** and the **Jamsil Store (connected to Lotte World Tower)** are the two undisputed flagship locations you must visit. The Myeongdong Main Store is the historic hub of Korean retail, offering the highest concentration of duty-free goods and acting as a bridge to the famous Myeongdong shopping district. Conversely, the Jamsil location offers a more modern, spacious luxury experience, integrated with the massive Lotte World Mall, Aquarium, and Theme Park.

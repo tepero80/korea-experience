@@ -1111,6 +1111,12 @@
         "type": "alternative",
         "label": "A useful alternative",
         "reason": "Choose storage by collection time, bag size and the final onward route, rather than the nearest locker alone."
+      },
+      {
+        "slug": "haeundae-sky-capsule-vs-beach-train",
+        "type": "next",
+        "label": "Compare the two Haeundae coast rides",
+        "reason": "If you choose an eastern base, decide which route and station fit your day."
       }
     ],
     "tools": [
@@ -6110,6 +6116,12 @@
         "type": "alternative",
         "label": "Compare intercity buses",
         "reason": "A long-distance bus may arrive at a different location from the KTX station; compare the whole journey."
+      },
+      {
+        "slug": "yangdong-village-from-gyeongju-by-bus",
+        "type": "next",
+        "label": "Plan a separate outing to Yangdong Village",
+        "reason": "Check the local village bus and your return before combining it with a rail journey."
       }
     ],
     "tools": [],
@@ -18372,6 +18384,370 @@
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jangsaengpo_Whale_Museum_01.jpg",
       "license": "KOGL Type 1",
       "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "haeundae-sky-capsule-vs-beach-train": {
+    "id": "haeundae-sky-capsule-vs-beach-train",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Sky Capsule links Mipo and Cheongsapo; the Beach Train continues to Songjeong. Check ticket and return conditions separately.",
+    "forWhom": "Travelers deciding between the two Haeundae coast rides",
+    "conditions": [
+      "Confirm the station, boarding window and an independent return."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "coast",
+      "trains"
+    ],
+    "relations": [
+      {
+        "slug": "osiria-to-haedong-yonggungsa-temple",
+        "type": "next",
+        "label": "Plan a separate seaside temple visit",
+        "reason": "Use an Osiria transfer when you add Haedong Yonggungsa to a different part of the day."
+      },
+      {
+        "slug": "where-to-stay-in-busan-neighborhoods",
+        "type": "prepare",
+        "label": "Choose where to stay in Busan",
+        "reason": "An eastern base may suit the coast and Songjeong better than crossing the city twice."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "busan-blueline-park-cheongsapo"
+    ],
+    "shareFacts": [
+      "Sky Capsule runs Mipo–Cheongsapo",
+      "Beach Train continues to Songjeong",
+      "Book the correct station and time window"
+    ],
+    "sources": [
+      {
+        "id": "haeundae-sky-capsule-vs-beach-train-source-1",
+        "title": "Korea Tourism Organization visitor guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=34413",
+        "note": "Official destination, transport or operations information.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "haeundae-sky-capsule-vs-beach-train-source-2",
+        "title": "Haeundae Blueline Park operator",
+        "url": "https://www.bluelinepark.com/",
+        "note": "Official destination, transport or operations information.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "haeundae-sky-capsule-vs-beach-train-source-3",
+        "title": "Korea Tourism Organization visitor guide",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=172690",
+        "note": "Official destination, transport or operations information.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "haeundae-sky-capsule-vs-beach-train-source-4",
+        "title": "Haeundae Blueline Park English booking",
+        "url": "https://www.bluelinepark.com/eng/booking.do",
+        "note": "Reservation choices by station and ride.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "haeundae-sky-capsule-vs-beach-train-source-5",
+        "title": "Haeundae Blueline Park passenger rules",
+        "url": "https://www.bluelinepark.com/eng/information.do",
+        "note": "First boarding, reboarding, standing room and last train rules.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "launchOrder": 1200,
+    "changeType": "new",
+    "heroMediaId": "busan-haeundae-sky-capsule",
+    "heroCaption": "Yellow Sky Capsules running above the Haeundae coast in 2026. The ground-level Beach Train is a separate ride.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "VN.NguyenDucDuy",
+      "title": "Yellow Sky Capsules at Haeundae Blueline Park",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sky_Capsule_train_at_Haeundae_Blueline_Park,_Busan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "osiria-to-haedong-yonggungsa-temple": {
+    "id": "osiria-to-haedong-yonggungsa-temple",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "From Osiria confirm a bus or taxi to the Yonggungsa approach, then allow for stairs to the coastal temple.",
+    "forWhom": "Independent visitors taking the Donghae Line to the temple",
+    "conditions": [
+      "Check live bus stops and allow for steps at the temple."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "culture",
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "haeundae-sky-capsule-vs-beach-train",
+        "type": "next",
+        "label": "Compare the rides toward Haeundae",
+        "reason": "Save time for a separate boarding point and return after the temple walk."
+      },
+      {
+        "slug": "beomeosa-station-to-temple",
+        "type": "alternative",
+        "label": "Choose a mountain temple instead",
+        "reason": "Beomeosa requires a different metro and bus connection."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "busan-haedong-yonggungsa"
+    ],
+    "shareFacts": [
+      "Check the last leg from Osiria",
+      "Allow time for the temple stairs",
+      "Save the Korean bridge-side destination name"
+    ],
+    "sources": [
+      {
+        "id": "osiria-to-haedong-yonggungsa-temple-source-1",
+        "title": "Korea Tourism Organization visitor guide",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=108618",
+        "note": "Official destination, transport or operations information.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "osiria-to-haedong-yonggungsa-temple-source-2",
+        "title": "Korea Tourism Organization visitor guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=195451",
+        "note": "Official destination, transport or operations information.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "launchOrder": 1201,
+    "changeType": "new",
+    "heroMediaId": "busan-haedong-yonggungsa-coast",
+    "heroCaption": "Haedong Yonggungsa beside the sea and the bridges and paths around the temple. The approach includes stairs.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "lumoplank",
+      "title": "Haedong Yonggungsa on the Busan coast",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Haedong_Yonggungsa_Temple,_Busan_-_HaedongYonggungsa2706.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "beomeosa-station-to-temple": {
+    "id": "beomeosa-station-to-temple",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Use Line 1 to Beomeosa Station, then confirm bus 90 or take a taxi for the uphill connection.",
+    "forWhom": "Visitors going to Beomeosa via Metro Line 1",
+    "conditions": [
+      "Check the bus direction and return before starting the temple walk."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "culture",
+      "walking"
+    ],
+    "relations": [
+      {
+        "slug": "busan-modern-contemporary-history-museum-visit",
+        "type": "alternative",
+        "label": "Use the museum for a wet day",
+        "reason": "Choose a central indoor visit if a mountain approach in the rain is a poor fit."
+      },
+      {
+        "slug": "osiria-to-haedong-yonggungsa-temple",
+        "type": "next",
+        "label": "Try a coastal temple on a separate day",
+        "reason": "Haedong Yonggungsa is on the opposite side of the city, with its own stairs and arrival plan."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "busan-beomeosa-temple"
+    ],
+    "shareFacts": [
+      "Beomeosa Station is separate from the temple",
+      "Visit Busan lists bus 90 from exits 5 or 7",
+      "Allow time to walk from the bus stop"
+    ],
+    "sources": [
+      {
+        "id": "beomeosa-station-to-temple-source-1",
+        "title": "Korea Tourism Organization visitor guide",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111223",
+        "note": "Official destination, transport or operations information.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "beomeosa-station-to-temple-source-2",
+        "title": "Visit Busan city transport directions",
+        "url": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=402",
+        "note": "Official destination, transport or operations information.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "beomeosa-station-to-temple-source-3",
+        "title": "Beomeosa official website",
+        "url": "https://www.beomeo.kr/",
+        "note": "Temple notices and current entry information.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "launchOrder": 1202,
+    "changeType": "new",
+    "heroMediaId": "busan-beomeosa-hall",
+    "heroCaption": "Stone steps in front of a hall at Beomeosa. Ask on-site staff about access to the part of the grounds you want to visit.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Basile Morin",
+      "title": "A Beomeosa temple hall and its broad stone steps",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Front_exterior_view_of_Beomeosa_temple_with_three_stairs_and_blue_sky_in_Busan_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "yangdong-village-from-gyeongju-by-bus": {
+    "id": "yangdong-village-from-gyeongju-by-bus",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Check route 203 for 양동민속마을 and your return first. Walk the lower village before deciding whether to add the uphill lanes.",
+    "forWhom": "Travelers considering a Yangdong day trip without a car",
+    "conditions": [
+      "The similarly named stops are separate. Allow time for slopes, uneven lanes and the return bus."
+    ],
+    "regions": [
+      "gyeongju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "heritage",
+      "walking",
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "gyeongju-ktx-to-hwangnidan",
+        "type": "prepare",
+        "label": "Plan the rail-to-city transfer",
+        "reason": "The KTX station and Yangdong bus stop are separate parts of the trip."
+      },
+      {
+        "slug": "gyeongju-national-museum-silla-and-wolji-galleries",
+        "type": "alternative",
+        "label": "Plan an indoor Gyeongju visit",
+        "reason": "Choose the National Museum for a tight schedule or heavy rain."
+      },
+      {
+        "slug": "andong-hahoe-or-dosan-seowon-without-a-car",
+        "type": "next",
+        "label": "Compare a visit to Hahoe from Andong",
+        "reason": "The UNESCO partner village needs its own bus and return plan."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gyeongju-yangdong-village-overview"
+    ],
+    "shareFacts": [
+      "Check bus 203 and the village stop",
+      "Save the return before the walk",
+      "Use public paths through a living village"
+    ],
+    "sources": [
+      {
+        "id": "yangdong-village-from-gyeongju-by-bus-source-1",
+        "title": "Gyeongju City route 203 visitor guide",
+        "url": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4751",
+        "note": "Route and separate stop names.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "yangdong-village-from-gyeongju-by-bus-source-2",
+        "title": "Gyeongju live transport information",
+        "url": "https://its.gyeongju.go.kr/",
+        "note": "Check current departures and directions.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "yangdong-village-from-gyeongju-by-bus-source-3",
+        "title": "Gyeongju City Yangdong visitor information",
+        "url": "https://www.gyeongju.go.kr/tour/page.do?area_uid=106&cmd=2&code_uid=1010&mnu_uid=4720",
+        "note": "Visitor address and published fee. Check date-specific updates.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "yangdong-village-from-gyeongju-by-bus-source-4",
+        "title": "Korea Tourism Organization Yangdong listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=94431",
+        "note": "Destination information and overview map.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "yangdong-village-from-gyeongju-by-bus-source-5",
+        "title": "UNESCO World Heritage listing",
+        "url": "https://whc.unesco.org/en/list/1324/",
+        "note": "Historic villages of Yangdong and Hahoe.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "launchOrder": 1203,
+    "changeType": "new",
+    "heroMediaId": "gyeongju-yangdong-village-slope-2024",
+    "heroCaption": "Yangdong Village’s houses spread along the slope in January 2024. Use the marked public lanes through the lived-in village.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Mobius6",
+      "title": "Yangdong Village houses and slopes in January 2024",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yangdong_Village_20240113_047.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "note": "Resized and converted to WebP. The image records the scene at the time of photography."
     },
     "gallery": [],

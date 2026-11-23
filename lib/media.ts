@@ -7,6 +7,7 @@ export interface EditorialMedia {
   width: number;
   height: number;
   alt: string;
+  caption?: string;
   focal?: string;
   originalId?: string;
   originalHash?: string;

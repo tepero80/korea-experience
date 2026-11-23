@@ -406,5 +406,29 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "haeundae-sky-capsule-vs-beach-train": {
+    "mediaId": "busan-haeundae-sky-capsule",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "osiria-to-haedong-yonggungsa-temple": {
+    "mediaId": "busan-haedong-yonggungsa-coast",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "beomeosa-station-to-temple": {
+    "mediaId": "busan-beomeosa-hall",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "yangdong-village-from-gyeongju-by-bus": {
+    "mediaId": "gyeongju-yangdong-village-slope-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

@@ -43,8 +43,16 @@ export const REGIONS: readonly Region[] = [
     area: 'Southeast',
     coverMediaId: 'jagalchi',
     intro:
-      'Busan’s waterfront and historic market districts are spread out. Choose your accommodation around your priorities and group the western markets separately from Haeundae.',
-    tip: 'A car-free trip is practical when you allow travel time between districts and avoid crossing the city repeatedly.',
+      'Choose a base around your plans. Give Haeundae’s coastal rides, the temples and the central market districts their own time.',
+    tip: 'Group nearby stops and check the final transfer for each outing. The Sky Capsule, the coastal temple and Beomeosa have different boarding points.',
+    highlights: [
+      'where-to-stay-in-busan-neighborhoods',
+      'haeundae-sky-capsule-vs-beach-train',
+      'osiria-to-haedong-yonggungsa-temple',
+      'beomeosa-station-to-temple',
+      'busan-modern-contemporary-history-museum-visit',
+      'gimhae-airport-to-busan',
+    ],
     onward: [
       { regionId: 'ulsan', reason: 'Take the train from Bujeon to Taehwagang Station, then choose a riverside walk, the coast or an indoor museum.' },
       { regionId: 'gyeongju', reason: 'Give the Silla sites their own day and check how to get from the KTX station to the historic center.' },
@@ -95,6 +103,7 @@ export const REGIONS: readonly Region[] = [
       'gyeongju-ktx-to-hwangnidan',
       'gyeongju-bulguksa-seokguram-without-a-car',
       'gyeongju-donggung-wolji-woljeonggyo-evening-walk',
+      'yangdong-village-from-gyeongju-by-bus',
     ],
     onward: [
       { regionId: 'busan', reason: 'Build a separate waterfront day around one part of Busan.' },

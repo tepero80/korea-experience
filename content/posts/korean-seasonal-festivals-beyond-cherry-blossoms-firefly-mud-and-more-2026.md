@@ -14,7 +14,7 @@ tags:
   - "Winter Travel"
 readTime: "15 min read"
 featured: true
-image: "/images/korean-seasonal-festivals-beyond-cherry-blossoms-firefly-mud-and-more-2026.webp"
+image: /images/editorial/archive-jinju-namgang-lanterns-at-night-1280.webp
 ---
 
 While the fleeting pink petals of April garner the most Instagram likes, seasoned travelers know that South Korea’s festival calendar is a year-round powerhouse of culture, adrenaline, and natural wonder. If you are planning a trip for 2026 and want to experience the peninsula like a local, you need to look beyond the cherry blossoms.
