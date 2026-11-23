@@ -1223,6 +1223,24 @@ button:disabled {
 .destination-area + .destination-area {
   margin-top: 46px;
 }
+.destination-area-jump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 32px;
+}
+.destination-area-jump a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  padding-inline: 14px;
+  border: 1px solid var(--ke-line);
+  border-radius: 22px;
+  background: #f1f6f3;
+  color: #315d53;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
 .destination-area > h2 {
   margin-bottom: 16px;
 }

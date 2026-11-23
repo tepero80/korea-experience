@@ -122,6 +122,9 @@ function preferredGuide(phrase: string) {
 }
 
 function focusedGuides(phrase: string) {
+  if (/\bsongdo\b/.test(phrase) && /\b(?:incheon airport|incheon international airport|icn)\b/.test(phrase)) {
+    return ['incheon-airport-to-songdo-hotels'];
+  }
   if (
     /\b(?:jeju (?:international )?airport|cju)\b/.test(phrase) &&
     /\b(?:bus|buses|limousine|taxi|transfer|hotel|jungmun|seogwipo|jeju city)\b/.test(phrase)

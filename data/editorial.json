@@ -3989,6 +3989,12 @@
     ],
     "relations": [
       {
+        "slug": "gyeongju-donggung-wolji-woljeonggyo-evening-walk",
+        "type": "next",
+        "label": "Plan the shorter evening route",
+        "reason": "Protect the pond’s ticket cutoff before adding the bridge."
+      },
+      {
         "slug": "gyeongju-bulguksa-seokguram-without-a-car",
         "type": "next",
         "label": "Check the temple bus connection",
@@ -5892,6 +5898,18 @@
     ],
     "relations": [
       {
+        "slug": "jeonju-station-to-hanok-village",
+        "type": "prepare",
+        "label": "Pick your station-to-village transfer",
+        "reason": "Allow time to drop luggage and plan the train home."
+      },
+      {
+        "slug": "jeonju-gyeonggijeon-omokdae-walking-route",
+        "type": "nearby",
+        "label": "Connect the market to the Hanok Village",
+        "reason": "Choose a short route around the shrine before or after lunch."
+      },
+      {
         "slug": "gwangjang-market-complete-food-guide",
         "type": "interest",
         "label": "Explore another market",
@@ -7714,6 +7732,12 @@
       "museums"
     ],
     "relations": [
+      {
+        "slug": "dongdaegu-station-to-central-daegu",
+        "type": "prepare",
+        "label": "Find the right Daegu arrival stop",
+        "reason": "Use the correct rail station and metro transfer for your first stop."
+      },
       {
         "slug": "seomun-market-daytime-food-visit",
         "type": "next",
@@ -10368,6 +10392,12 @@
     ],
     "relations": [
       {
+        "slug": "incheon-airport-to-songdo-hotels",
+        "type": "next",
+        "label": "Head to a hotel in Songdo",
+        "reason": "Choose the correct airport bus or a direct ride for your address."
+      },
+      {
         "slug": "incheon-chinatown-open-port-walking-route",
         "type": "next",
         "label": "Take a separate Open Port outing",
@@ -10932,6 +10962,12 @@
     ],
     "relations": [
       {
+        "slug": "songdo-central-park-visit-plan",
+        "type": "next",
+        "label": "Plan a separate Songdo stop",
+        "reason": "Use a different outing for the waterfront and check the correct metro exit."
+      },
+      {
         "slug": "incheon-airport-survival-guide-2026",
         "type": "prepare",
         "label": "Arriving through Incheon Airport?",
@@ -11121,6 +11157,18 @@
     ],
     "relations": [
       {
+        "slug": "seongsan-ilchulbong-by-bus-from-jeju-city",
+        "type": "next",
+        "label": "Plan an east-coast bus day",
+        "reason": "Check how to return to Jeju City separately from your airport transfer."
+      },
+      {
+        "slug": "where-to-stay-in-jeju-without-a-car",
+        "type": "prepare",
+        "label": "Choose your Jeju base",
+        "reason": "Use repeated trips and their returns to choose between the island’s bases."
+      },
+      {
         "slug": "jeju-muslim-friendly-dining-in-jeju-city",
         "type": "next",
         "label": "Find a first meal in Jeju City",
@@ -11280,6 +11328,820 @@
     },
     "heroMediaId": "suwon-nammun-paldalmun",
     "heroCaption": "Paldalmun Gate, photographed in September 2024. Follow marked crossings from surrounding streets.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "songdo-central-park-visit-plan": {
+    "id": "songdo-central-park-visit",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Use Exit 3 for the Tri-Bowl, museum and a short waterfront walk, or Exit 2 for the West Boat House. Confirm the boarding point separately if you plan a boat ride.",
+    "forWhom": "Visitors planning a short walk, boat outing or weather-flexible stop in Songdo",
+    "conditions": [
+      "Use the named subway exit or facility as your final map destination.",
+      "Check the museum's last admission and any boat schedule or weather changes."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "walking",
+      "architecture",
+      "waterfront"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-airport-to-songdo-hotels",
+        "type": "prepare",
+        "label": "Get from the airport to Songdo",
+        "reason": "Match your hotel entrance to the right coach stop before leaving the terminal."
+      },
+      {
+        "slug": "incheon-chinatown-open-port-walking-route",
+        "type": "next",
+        "label": "Plan a separate half-day in the Open Port",
+        "reason": "Walk port-era streets and stop at Sinpo Market from Incheon Station."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "incheon-tribowl",
+      "songdo-central-park"
+    ],
+    "sources": [
+      {
+        "id": "songdo-central-park-visit-source-1",
+        "title": "Incheon Transit: Central Park Station exits and lifts",
+        "url": "https://www.ictr.or.kr/main/subway/subwayStation.do?line_no=1&station_no=137",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "songdo-central-park-visit-source-2",
+        "title": "Incheon Facilities Corporation: park facilities",
+        "url": "https://www.insiseol.or.kr/park/songdo/facility/central.jsp",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "songdo-central-park-visit-source-3",
+        "title": "IFEZ: Central Park waterway",
+        "url": "https://www.ifez.go.kr/main/tour/view.do?tour_fclt_sn=4",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "songdo-central-park-visit-source-4",
+        "title": "Incheon City: Urban History Museum information",
+        "url": "https://www.incheon.go.kr/museum/MU050601",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "songdo-central-park-visit-source-5",
+        "title": "Korea Tourism Organization: Central Park and seasonal boat service",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=61406",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "songdo-central-park-visit-source-6",
+        "title": "IFEZ: East Boat House contact",
+        "url": "https://www.ifez.go.kr/journaleng/life/view.do?jrnl_pst_sn=641",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Exit 3 for the Tri-Bowl and museum.",
+      "Exit 2 for the West Boat House.",
+      "Verify the boarding point and last boat separately."
+    ],
+    "launchOrder": 1135,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Central Park Lake, Songdo IBD.jpg",
+      "author": "Ken Eckert",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Central_Park_Lake,_Songdo_IBD.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2015-04-26. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "songdo-central-park-visit",
+    "heroCaption": "Songdo Central Park's waterway and skyline in April 2015. Check current boat services separately.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "incheon-airport-to-songdo-hotels": {
+    "id": "incheon-airport-songdo-hotels",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Check whether 6777 or 6777-1 reaches your exact hotel. Board at T1 1F stop 2 or T2 B1 stop 17. If the coach timing fails, check the Incheon-bound taxi rank or a rail transfer at Gyeyang.",
+    "forWhom": "Travelers going from Incheon Airport to a hotel in Songdo",
+    "conditions": [
+      "The terminal and departure time must fit after baggage and immigration.",
+      "The last walk depends on the exact hotel entrance and bus stop."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "arrival",
+      "departure"
+    ],
+    "interests": [
+      "airport",
+      "transport",
+      "hotel"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-airport-survival-guide-2026",
+        "type": "prepare",
+        "label": "Plan the airport arrivals sequence",
+        "reason": "Allow time for immigration, baggage and reaching the transport area."
+      },
+      {
+        "slug": "songdo-central-park-visit-plan",
+        "type": "next",
+        "label": "Take a first walk in Songdo",
+        "reason": "Pick an exit, waterfront walk and indoor option after checking in."
+      }
+    ],
+    "tools": [],
+    "placeIds": [
+      "incheon-airport-t1",
+      "incheon-airport-t2",
+      "songdo-central-park"
+    ],
+    "sources": [
+      {
+        "id": "incheon-airport-songdo-hotels-source-1",
+        "title": "Incheon Airport: Bus Search, Incheon routes 6777 and 6777-1",
+        "url": "https://www.airport.kr/ap_en/1504/subview.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-airport-songdo-hotels-source-2",
+        "title": "Airport Bus: T1 airport coach timetable",
+        "url": "https://www.airportbus.or.kr/bus/schedule.php?area=incheon",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-airport-songdo-hotels-source-3",
+        "title": "Incheon Airport: Terminal 1 bus ticketing",
+        "url": "https://www.airport.kr/ap_en/1502/subview.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-airport-songdo-hotels-source-4",
+        "title": "Incheon Airport: Terminal 2 bus ticketing",
+        "url": "https://www.airport.kr/ap_en/1503/subview.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-airport-songdo-hotels-source-5",
+        "title": "Incheon Airport: taxi ranks and vehicle types",
+        "url": "https://airinfo.airport.kr/ap_en/1514/subview.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-airport-songdo-hotels-source-6",
+        "title": "Incheon Airport: train services",
+        "url": "https://www.airport.kr/ap_en/1512/subview.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-airport-songdo-hotels-source-7",
+        "title": "Incheon Transit: Gyeyang lift and transfer information",
+        "url": "https://www.ictr.or.kr/main/railway/guidance/mobile_gy.jsp",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-airport-songdo-hotels-source-8",
+        "title": "Incheon Transit: Line 1 first and last trains",
+        "url": "https://www.ictr.or.kr/main/railway/guidance/timetable1_se.jsp",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-airport-songdo-hotels-source-9",
+        "title": "Incheon City: return bus stop information",
+        "url": "https://bus.incheon.go.kr/bis/main.view",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Match 6777 or 6777-1 to your hotel entrance.",
+      "T1: arrivals 1F stop 2. T2: Transportation Center B1 stop 17.",
+      "Check the last coach and a taxi or rail fallback."
+    ],
+    "launchOrder": 1136,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "인천공항T2 입구 2024.jpg",
+      "author": "Narubaru7",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT2_%EC%9E%85%EA%B5%AC_2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-10-13. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "incheon-airport-songdo-hotel-transfer",
+    "heroCaption": "Terminal 2's exterior curb in October 2024. The Songdo bus leaves from the B1 Transportation Center.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gyeongju-donggung-wolji-woljeonggyo-evening-walk": {
+    "id": "gyeongju-evening-palace-bridge",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Put the ticketed pond first for reflections or start at the bridge if crossing is your priority. Check both access times and reserve time for the ride back.",
+    "forWhom": "Travelers staying in or returning from Gyeongju’s historic center who want one manageable evening outing.",
+    "conditions": [
+      "The city and KTO list 21:30 as Donggung and Wolji’s last ticketing or admission; allow queue time and check current winter notices.",
+      "Check the bridge crossing and public paths independently of lighting. Avoid a late return with no confirmed alternative."
+    ],
+    "regions": [
+      "gyeongju"
+    ],
+    "stages": [
+      "exploring",
+      "getting-around"
+    ],
+    "interests": [
+      "heritage",
+      "evening-walk",
+      "car-free"
+    ],
+    "relations": [
+      {
+        "slug": "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026",
+        "type": "prepare",
+        "label": "Place the evening in a two-day trip",
+        "reason": "Choose nearby daytime sights without filling every hour before the evening walk."
+      },
+      {
+        "slug": "gyeongju-ktx-to-hwangnidan",
+        "type": "next",
+        "label": "Confirm your KTX station transfer",
+        "reason": "The station journey is separate from the walk through the heritage area."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gyeongju-wolji",
+      "gyeongju-woljeonggyo"
+    ],
+    "sources": [
+      {
+        "id": "gyeongju-evening-palace-bridge-source-1",
+        "title": "Gyeongju Tourism: Donggung and Wolji attraction listing",
+        "url": "https://www.gyeongju.go.kr/tour/page.do?area_uid=50&cmd=2&mnu_uid=4716",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gyeongju-evening-palace-bridge-source-2",
+        "title": "KTO: Donggung and Wolji admission",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=94404",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gyeongju-evening-palace-bridge-source-3",
+        "title": "Gyeongju Tourism: Woljeonggyo crossing and visitor information",
+        "url": "https://www.gyeongju.go.kr/tour/page.do?area_uid=49&cmd=2&code_uid=1012&mnu_uid=4716",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gyeongju-evening-palace-bridge-source-4",
+        "title": "Gyeongju Tourism: city evening walking route",
+        "url": "https://gyeongju.go.kr/tour/page.do?mnu_uid=4724",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gyeongju-evening-palace-bridge-source-5",
+        "title": "Gyeongju Tourism: separate nighttime lighting and access",
+        "url": "https://gyeongju.go.kr/tour/page.do?mnu_uid=4859",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Pick the pond or the bridge first",
+      "Check last admission and crossing separately",
+      "Save the ride back before dinner"
+    ],
+    "launchOrder": 1137,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "gyeongju-woljeonggyo-evening",
+      "author": "Basile Morin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Illuminated_Woljeonggyo_Bridge_at_blue_hour_in_Gyeongju_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-06-09. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "gyeongju-woljeonggyo-evening",
+    "heroCaption": "Woljeonggyo at blue hour on June 9, 2024. Check posted access and lighting for the evening you visit.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "dongdaegu-station-to-central-daegu": {
+    "id": "daegu-dongdaegu-central-transfer",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Follow Line 1 signs from the mainline station. Choose Jungangno for the museum, Banwoldang for Line 2, or Myeongdeok to change to Line 3 for Seomun Market.",
+    "forWhom": "Rail arrivals choosing a first downtown Daegu stop or returning to Dongdaegu for a reserved train.",
+    "conditions": [
+      "Use the rail station shown on your ticket. Daegu and Dongdaegu are different stations.",
+      "Check current exit and elevator conditions, line direction and late return connections."
+    ],
+    "regions": [
+      "daegu"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around"
+    ],
+    "interests": [
+      "transport",
+      "car-free",
+      "rail"
+    ],
+    "relations": [
+      {
+        "slug": "daegu-modern-history-museum-downtown-visit",
+        "type": "next",
+        "label": "Plan the museum visit",
+        "reason": "Verify the museum’s hours before choosing the direct Line 1 ride to Jungangno."
+      },
+      {
+        "slug": "seomun-market-daytime-food-visit",
+        "type": "nearby",
+        "label": "Choose a market meal",
+        "reason": "Confirm Seomun’s daytime opening and your return before transferring at Myeongdeok."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "daegu-dongdaegu-rail",
+      "daegu-modern-history-museum",
+      "daegu-seomun-market"
+    ],
+    "sources": [
+      {
+        "id": "daegu-dongdaegu-central-transfer-source-1",
+        "title": "KRIC: Dongdaegu rail station and nearby metro entrance",
+        "url": "https://www.kric.go.kr/jsp/board/portal/sub05/est/estation_BasicDetail.jsp?q_station=A030280164&q_stationNm=%EB%8F%99%EB%8C%80%EA%B5%AC%EC%97%AD",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daegu-dongdaegu-central-transfer-source-2",
+        "title": "Daegu municipal transit: metro information",
+        "url": "https://car.daegu.go.kr/metro/subway",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daegu-dongdaegu-central-transfer-source-3",
+        "title": "Daegu cultural foundation: Jungangno Exit 4",
+        "url": "https://dgfca.or.kr/map_list?html_cd=11",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daegu-dongdaegu-central-transfer-source-4",
+        "title": "Daegu city metro sightseeing guide: Seomun Market approach",
+        "url": "https://tour.daegu.go.kr/file/7999575debef43ea8705141c1a7f7154.pdf",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daegu-dongdaegu-central-transfer-source-5",
+        "title": "Daegu Transportation Corporation train timetable",
+        "url": "https://www.dtro.or.kr/index.do?menu_id=00000270",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Start on Daegu Metro Line 1",
+      "Choose Jungangno, Banwoldang or Seomun",
+      "Allow time to get back to the rail gate"
+    ],
+    "launchOrder": 1138,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "dongdaegu-station-central-transfer",
+      "author": "Choi2451",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongdaegu_Station_Square_on_October_6rd,_2019.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2019-10-06. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "dongdaegu-station-central-transfer",
+    "heroCaption": "Dongdaegu mainline station and its forecourt in October 2019. Follow current station signs for the separate Line 1 metro entrance.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "where-to-stay-in-jeju-without-a-car": {
+    "id": "jeju-car-free-base",
+    "categoryId": "where-to-stay",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Choose a Jeju base by your most frequent bus trips. Compare old downtown, Jeju Bus Terminal, central Seogwipo and Jungmun with your actual hotel address.",
+    "forWhom": "Visitors choosing a Jeju hotel without a rental car",
+    "conditions": [
+      "Check the evening return and the walk from the bus stop to the lobby.",
+      "Check an actual sightseeing day before booking."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around"
+    ],
+    "interests": [
+      "accommodation",
+      "bus",
+      "car-free"
+    ],
+    "relations": [
+      {
+        "slug": "jeju-airport-to-jeju-city-and-seogwipo",
+        "type": "next",
+        "label": "Match your hotel to the airport bus",
+        "reason": "Check the route and boarding point once you have a hotel address."
+      },
+      {
+        "slug": "seongsan-ilchulbong-by-bus-from-jeju-city",
+        "type": "next",
+        "label": "Test an east-coast day trip",
+        "reason": "Check which departure stops near your base and protects the ride back."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-dongmun-market",
+      "jeju-bus-terminal",
+      "jeju-olle-market",
+      "jeju-icc-jungmun"
+    ],
+    "sources": [
+      {
+        "id": "jeju-car-free-base-source-1",
+        "title": "Visit Jeju: Dongmun Market and the old town",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500745&menuId=DOM_000001820000000002",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-car-free-base-source-2",
+        "title": "Visit Jeju: central Seogwipo market",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500731&menuId=DOM_700000000010774",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-car-free-base-source-3",
+        "title": "Visit Jeju: ICC Jeju in Jungmun",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500539",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-car-free-base-source-4",
+        "title": "Visit Jeju: Saeyeongyo Bridge geography",
+        "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500312",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-car-free-base-source-5",
+        "title": "Jeju Province: bus network and routes",
+        "url": "https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-car-free-base-source-6",
+        "title": "Jeju Province: directional timetables",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/listSchedule",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Compare four bases by repeated trips.",
+      "Check the actual stop-to-hotel walk.",
+      "Plan your evening return before booking."
+    ],
+    "launchOrder": 1139,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jeju Dongmun Traditional Market 01.jpg",
+      "author": "Grapesurgeon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Dongmun_Traditional_Market_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-04-15. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "jeju-car-free-base-dongmun",
+    "heroCaption": "Dongmun Market in old downtown Jeju City, April 2026. Check the walk from your hotel to the stop you will use.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seongsan-ilchulbong-by-bus-from-jeju-city": {
+    "id": "jeju-seongsan-ilchulbong-bus-day",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Compare the coastal 201 with the inland 211 and 212 from Jeju Bus Terminal. Save the peak entrance stop and pick a return before choosing your walking route.",
+    "forWhom": "Visitors planning a daylight bus day trip from Jeju City to Sunrise Peak",
+    "conditions": [
+      "Check both directions serving the actual entrance stop.",
+      "Check visitor hours and choose the summit or lower route for your needs."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "bus",
+      "car-free",
+      "coast",
+      "day-trip"
+    ],
+    "relations": [
+      {
+        "slug": "where-to-stay-in-jeju-without-a-car",
+        "type": "prepare",
+        "label": "Find a base for the bus day",
+        "reason": "Compare the route from the hotel to the correct departure."
+      },
+      {
+        "slug": "jeju-winter-ferry-checklist-udo-gapa-marado",
+        "type": "next",
+        "label": "Plan an island ferry separately",
+        "reason": "Check the route and return before committing to another outing."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-bus-terminal",
+      "jeju-seongsan-ilchulbong"
+    ],
+    "sources": [
+      {
+        "id": "jeju-seongsan-ilchulbong-bus-day-source-1",
+        "title": "Jeju Province: 201 from Jeju City",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2439",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-seongsan-ilchulbong-bus-day-source-2",
+        "title": "Jeju Province: 201 to Jeju City",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2440",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-seongsan-ilchulbong-bus-day-source-3",
+        "title": "Jeju Province: 211 and 212 to Seongsan",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2300",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-seongsan-ilchulbong-bus-day-source-4",
+        "title": "Jeju Province: 211 and 212 to Jeju City",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2301",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-seongsan-ilchulbong-bus-day-source-5",
+        "title": "Visit Jeju: official peak address and hours",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000004",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-seongsan-ilchulbong-bus-day-source-6",
+        "title": "Visit Jeju: summit and lower coastal routes",
+        "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001719002000000",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-seongsan-ilchulbong-bus-day-source-7",
+        "title": "Korean public data: Jeju bus terminal entrance",
+        "url": "https://www.data.go.kr/data/15013112/standard.do",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Compare coastal 201 with inland 211 or 212.",
+      "Save the peak entrance stop.",
+      "Choose the return before deciding to climb."
+    ],
+    "launchOrder": 1140,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Seongsan Ilchulbong 02.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seongsan_Ilchulbong_02.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2022-10-04. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "jeju-seongsan-ilchulbong-bus-day",
+    "heroCaption": "The grassy crater at Seongsan Ilchulbong from above in October 2022. Confirm summit access before traveling.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "jeonju-station-to-hanok-village": {
+    "id": "jeonju-station-hanok-transfer",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Use the bus to the cathedral area for central sights, or choose a confirmed taxi drop-off if the last walk with bags is difficult.",
+    "forWhom": "Rail travelers heading to Jeonju Hanok Village without a rental car",
+    "conditions": [
+      "The railway station and bus terminals are different points.",
+      "Check current signage, bus direction and the final walk."
+    ],
+    "regions": [
+      "jeonju"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around"
+    ],
+    "interests": [
+      "rail",
+      "bus",
+      "heritage"
+    ],
+    "relations": [
+      {
+        "slug": "jeonju-gyeonggijeon-omokdae-walking-route",
+        "type": "next",
+        "label": "Plan the shrine and village walk",
+        "reason": "Work backward from the last shrine admission."
+      },
+      {
+        "slug": "jeonju-nambu-market-eating-plan",
+        "type": "next",
+        "label": "Choose a meal near your arrival point",
+        "reason": "Settle your luggage before entering the market lanes."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeonju-railway-station",
+      "jeonju-jeondong-cathedral"
+    ],
+    "sources": [
+      {
+        "id": "jeonju-station-hanok-transfer-source-1",
+        "title": "Visit Jeonju: arrival locations",
+        "url": "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106012001000",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeonju-station-hanok-transfer-source-2",
+        "title": "Jeonju Traffic Information Center: bus stops",
+        "url": "https://its.jeonju.go.kr/its/bus2.view",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeonju-station-hanok-transfer-source-3",
+        "title": "Visit Jeonju: transport map",
+        "url": "https://tour.jeonju.go.kr/images/file/map/01_mapTour_kor.pdf",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeonju-station-hanok-transfer-source-4",
+        "title": "Jeonju City: railway station improvement notice",
+        "url": "https://www.jeonju.go.kr/planweb/board/view.9is?boardUid=ff8080818b5bc5cf018ba8ca7216641f&contentUid=ff8080818990c349018b041a87fe3960&dataUid=9be517a89eb4c412019f69c010bf1b7b",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Pick the village drop-off before leaving the station.",
+      "Check the live departure and stop direction.",
+      "Leave a separate margin for the return train."
+    ],
+    "launchOrder": 1141,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jeonju Station.jpg",
+      "author": "Minseong Kim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeonju_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2014-12-03. Historical station exterior taken before the 2026 station works. Use signs for current exits. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "jeonju-rail-station-hanok-transfer",
+    "heroCaption": "Jeonju Station in December 2014, before improvement work. Follow current exit and stop signs.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "jeonju-gyeonggijeon-omokdae-walking-route": {
+    "id": "jeonju-gyeonggijeon-omokdae-walk",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Visit Gyeonggijeon before its admission cutoff, then add the Omokdae climb only if time and walking conditions suit you.",
+    "forWhom": "Visitors planning a first heritage walk through Jeonju Hanok Village",
+    "conditions": [
+      "The shrine has a seasonal last admission.",
+      "The hill is optional; keep a village-street or market fallback."
+    ],
+    "regions": [
+      "jeonju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "heritage",
+      "walking",
+      "markets"
+    ],
+    "relations": [
+      {
+        "slug": "jeonju-station-to-hanok-village",
+        "type": "prepare",
+        "label": "Find your way from Jeonju Station",
+        "reason": "Choose an arrival stop near the shrine or your accommodation."
+      },
+      {
+        "slug": "jeonju-nambu-market-eating-plan",
+        "type": "nearby",
+        "label": "Finish near Nambu Market",
+        "reason": "Choose one meal stop and allow time for the station return."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeonju-gyeonggijeon-shrine",
+      "jeonju-jeondong-cathedral",
+      "jeonju-omokdae"
+    ],
+    "sources": [
+      {
+        "id": "jeonju-gyeonggijeon-omokdae-walk-source-1",
+        "title": "Visit Jeonju: Gyeonggijeon admission and hours",
+        "url": "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&dataSid=10115&menuCd=DOM_000000101006001000",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeonju-gyeonggijeon-omokdae-walk-source-2",
+        "title": "Visit Jeonju: walking routes",
+        "url": "https://tour.jeonju.go.kr/images/file/map/05_mapWalking.pdf",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeonju-gyeonggijeon-omokdae-walk-source-3",
+        "title": "Visit Jeonju: Omokdae and Imokdae",
+        "url": "https://tour.jeonju.go.kr/board/view.jeonju?boardId=BBS_0000003&dataSid=9742&menuCd=DOM_000000101006001000",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeonju-gyeonggijeon-omokdae-walk-source-4",
+        "title": "Korea Tourism Organization: Jeondong Cathedral",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=108717",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Protect Gyeonggijeon’s last admission.",
+      "The Omokdae hill is optional.",
+      "Keep a shorter shrine-and-market route."
+    ],
+    "launchOrder": 1142,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gyeonggijeon Shrine 04.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeonggijeon_Shrine_04.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2022-09-29. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "jeonju-gyeonggijeon-courtyard",
+    "heroCaption": "The Gyeonggijeon main hall in September 2022. Confirm current visitor entry separately.",
     "gallery": [],
     "experienceVersion": 2
   }

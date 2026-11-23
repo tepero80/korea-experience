@@ -61,6 +61,8 @@ export const REGIONS: readonly Region[] = [
     tip: 'Incheon Station and Incheon International Airport are different starting points. Budget the journey between them before combining a city stop with a flight.',
     highlights: [
       'incheon-chinatown-open-port-walking-route',
+      'songdo-central-park-visit-plan',
+      'incheon-airport-to-songdo-hotels',
       'incheon-airport-survival-guide-2026',
       'incheon-airport-late-night-arrival-guide',
     ],
@@ -78,6 +80,7 @@ export const REGIONS: readonly Region[] = [
       'gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026',
       'gyeongju-ktx-to-hwangnidan',
       'gyeongju-bulguksa-seokguram-without-a-car',
+      'gyeongju-donggung-wolji-woljeonggyo-evening-walk',
     ],
   },
   {
@@ -85,14 +88,44 @@ export const REGIONS: readonly Region[] = [
     name: 'Jeju',
     nameKo: '제주',
     area: 'Jeju Island',
-    coverMediaId: 'jeju-airport-terminal-arrivals',
+    coverMediaId: 'jeju-hallasan-aerial-2024',
     intro:
-      'Choose your first base before leaving the airport. This collection helps with transfers, a Jeju City meal and planning around ferry service.',
+      'Choose a base you can travel from without a rental car, then plan your airport transfer, a Seongsan bus day or a ferry outing.',
     tip: 'Plan around your exact stops and return times. Keep an alternative on Jeju itself for ferry days and avoid relying on the last connection.',
     highlights: [
+      'where-to-stay-in-jeju-without-a-car',
       'jeju-airport-to-jeju-city-and-seogwipo',
+      'seongsan-ilchulbong-by-bus-from-jeju-city',
       'jeju-muslim-friendly-dining-in-jeju-city',
       'jeju-winter-ferry-checklist-udo-gapa-marado',
+    ],
+  },
+  {
+    id: 'daegu',
+    name: 'Daegu',
+    nameKo: '대구',
+    area: 'Southeast',
+    coverMediaId: 'dongdaegu-metro-line-one',
+    intro: 'Get from Dongdaegu railway station to the center, then plan a market meal or a short indoor history stop.',
+    tip: 'Choose the actual stop for your next place. Dongdaegu, Daegu Station and the central market are different destinations.',
+    highlights: [
+      'dongdaegu-station-to-central-daegu',
+      'daegu-modern-history-museum-downtown-visit',
+      'seomun-market-daytime-food-visit',
+    ],
+  },
+  {
+    id: 'jeonju',
+    name: 'Jeonju',
+    nameKo: '전주',
+    area: 'Jeolla',
+    coverMediaId: 'jeonju-hanok-rooftops-overview',
+    intro: 'Choose your station-to-village connection, then pair a heritage walk with one useful market meal.',
+    tip: 'Protect the shrine’s last admission and leave a separate margin for your train. Omokdae is an optional uphill extension.',
+    highlights: [
+      'jeonju-station-to-hanok-village',
+      'jeonju-gyeonggijeon-omokdae-walking-route',
+      'jeonju-nambu-market-eating-plan',
     ],
   },
 ];

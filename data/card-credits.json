@@ -1884,5 +1884,125 @@
       "note": "Photographed 2024-09-29. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. This photograph does not verify current opening, services or access."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "songdo-central-park-visit-plan": {
+    "src": "/images/cards/songdo-central-park-visit-plan.jpg",
+    "fingerprint": "11d3f4ee4c078312b7f1337b66b65388598bc46fbdd2b0fc7c7f187bf7b75a35",
+    "sourceImage": "/images/editorial/songdo-central-park-visit-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Central Park Lake, Songdo IBD.jpg",
+      "author": "Ken Eckert",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Central_Park_Lake,_Songdo_IBD.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2015-04-26. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "incheon-airport-to-songdo-hotels": {
+    "src": "/images/cards/incheon-airport-to-songdo-hotels.jpg",
+    "fingerprint": "02b1fc737f33ce5c5c210a5db6c82525cd5549c88c66b5f6c5ff70086eb1ecc8",
+    "sourceImage": "/images/editorial/incheon-airport-songdo-hotel-transfer-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "인천공항T2 입구 2024.jpg",
+      "author": "Narubaru7",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT2_%EC%9E%85%EA%B5%AC_2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-10-13. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gyeongju-donggung-wolji-woljeonggyo-evening-walk": {
+    "src": "/images/cards/gyeongju-donggung-wolji-woljeonggyo-evening-walk.jpg",
+    "fingerprint": "579d9d6d9483721da29773cda9b8e2eb5b1c212f53ed74a9051ef58e251201c9",
+    "sourceImage": "/images/editorial/gyeongju-woljeonggyo-evening-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "gyeongju-woljeonggyo-evening",
+      "author": "Basile Morin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Illuminated_Woljeonggyo_Bridge_at_blue_hour_in_Gyeongju_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-06-09. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "dongdaegu-station-to-central-daegu": {
+    "src": "/images/cards/dongdaegu-station-to-central-daegu.jpg",
+    "fingerprint": "2a36a4d8dc5cac1a6b786ef9148bf36e98215d1ad4ef92783e710011e95ad98c",
+    "sourceImage": "/images/editorial/dongdaegu-station-central-transfer-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "dongdaegu-station-central-transfer",
+      "author": "Choi2451",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongdaegu_Station_Square_on_October_6rd,_2019.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2019-10-06. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "where-to-stay-in-jeju-without-a-car": {
+    "src": "/images/cards/where-to-stay-in-jeju-without-a-car.jpg",
+    "fingerprint": "fc1ee9f4291337501231044c6d0d15acb37fca52384a64361e077432550137c2",
+    "sourceImage": "/images/editorial/jeju-car-free-base-dongmun-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jeju Dongmun Traditional Market 01.jpg",
+      "author": "Grapesurgeon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Dongmun_Traditional_Market_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-04-15. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seongsan-ilchulbong-by-bus-from-jeju-city": {
+    "src": "/images/cards/seongsan-ilchulbong-by-bus-from-jeju-city.jpg",
+    "fingerprint": "4d19ade49b480c95655a40caef0300d1ba305385c68b9278593dc15f5eb1328e",
+    "sourceImage": "/images/editorial/jeju-seongsan-ilchulbong-bus-day-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seongsan Ilchulbong 02.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seongsan_Ilchulbong_02.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2022-10-04. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jeonju-station-to-hanok-village": {
+    "src": "/images/cards/jeonju-station-to-hanok-village.jpg",
+    "fingerprint": "72332afe9e4d07241a7e599c716e0818c2814452a78a1384a5c5af1634f89095",
+    "sourceImage": "/images/editorial/jeonju-rail-station-hanok-transfer-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jeonju Station.jpg",
+      "author": "Minseong Kim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeonju_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2014-12-03. Historical station exterior taken before the 2026 station works. Use signs for current exits. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jeonju-gyeonggijeon-omokdae-walking-route": {
+    "src": "/images/cards/jeonju-gyeonggijeon-omokdae-walking-route.jpg",
+    "fingerprint": "dc13e5c401dfc41ec9d90b1833a567bdd425f171728e59c795108f340af502a1",
+    "sourceImage": "/images/editorial/jeonju-gyeonggijeon-courtyard-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gyeonggijeon Shrine 04.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeonggijeon_Shrine_04.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2022-09-29. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

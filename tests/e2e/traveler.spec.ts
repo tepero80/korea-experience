@@ -266,6 +266,8 @@ test('search finds an arrival guide and Escape returns focus', async ({ page }) 
     ['incheon baby', 'incheon-airport-baby-care-room-locations'],
     ['Jeju airport bus', 'jeju-airport-to-jeju-city-and-seogwipo'],
     ['CJU transfer to Seogwipo', 'jeju-airport-to-jeju-city-and-seogwipo'],
+    ['Incheon Airport to Songdo hotel', 'incheon-airport-to-songdo-hotels'],
+    ['Jeonju Station to Hanok Village', 'jeonju-station-to-hanok-village'],
     ['Seoul to Busan', 'ktx-vs-srt-high-speed-train-comparison-and-booking'],
     ['From Busan to Seoul by KTX', 'ktx-vs-srt-high-speed-train-comparison-and-booking'],
     ['Seoul to Busan by bus', 'intercity-bus-travel-booking-apps-and-routes'],
