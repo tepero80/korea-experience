@@ -51,4 +51,4 @@ For a relaxed half-day, visit the village first, then return toward Toseong or N
 Continue with our [Busan weekend planner](/blog/seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices) or compare [where to stay in Busan](/blog/where-to-stay-in-busan-neighborhoods).
 
 
-[Find Gamcheon Culture Village in Naver Map](https://map.naver.com/p/search/%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84); confirm your bus stop and walking route.
+[Find Gamcheon Culture Village in Naver Map](https://map.naver.com/p/search/%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84) · [Google Maps for Gamcheon visitor center](https://www.google.com/maps/search/?api=1&query=%EA%B0%90%EC%B2%9C%EB%AC%B8%ED%99%94%EB%A7%88%EC%9D%84+%EC%95%88%EB%82%B4%EC%84%BC%ED%84%B0+%EB%B6%80%EC%82%B0+%EC%82%AC%ED%95%98%EA%B5%AC+%EA%B0%90%EB%82%B42%EB%A1%9C+203); confirm your bus stop and walking route.

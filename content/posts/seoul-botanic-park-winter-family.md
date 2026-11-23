@@ -33,4 +33,4 @@ The operator's [winter-hours notice](https://botanicpark.seoul.go.kr/front/board
 4. If the session is full, visit the greenhouse independently when open rather than promising the activity. For a fully indoor alternative, compare another venue in the [Seoul rainy-day itinerary](/blog/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets).
 
 
-[Search Seoul Botanic Park in Naver Map](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90) and confirm the greenhouse entrance and your route before departure.
+[Search Seoul Botanic Park in Naver Map](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90) · [Google Maps for the Botanic Center greenhouse](https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90+%EC%8B%9D%EB%AC%BC%EB%AC%B8%ED%99%94%EC%84%BC%ED%84%B0+%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EC%84%9C%EA%B5%AC+%EB%A7%88%EA%B3%A1%EB%8F%99%EB%A1%9C+161) and confirm the greenhouse entrance and your route before departure.

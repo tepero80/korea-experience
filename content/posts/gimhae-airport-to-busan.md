@@ -53,4 +53,4 @@ Use the designated airport taxi stand and show the Korean address, not just the 
 For your onward plan, compare [Busan accommodation areas](/blog/where-to-stay-in-busan-neighborhoods) or use the [car-free Busan itinerary](/blog/seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices) to group sights by area.
 
 
-[Search for Gimhae Airport on Naver Map](https://map.naver.com/p/search/%EA%B9%80%ED%95%B4%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD); verify the terminal and the final route to your hotel.
+[Search for Gimhae Airport on Naver Map](https://map.naver.com/p/search/%EA%B9%80%ED%95%B4%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD) · [Google Maps for Gimhae Airport](https://www.google.com/maps/search/?api=1&query=%EA%B9%80%ED%95%B4%EA%B5%AD%EC%A0%9C%EA%B3%B5%ED%95%AD+%EB%B6%80%EC%82%B0%EA%B4%91%EC%97%AD%EC%8B%9C+%EA%B0%95%EC%84%9C%EA%B5%AC+%EA%B3%B5%ED%95%AD%EC%A7%84%EC%9E%85%EB%A1%9C+108); verify the terminal and the final route to your hotel.

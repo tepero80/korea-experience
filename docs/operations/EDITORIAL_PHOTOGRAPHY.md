@@ -27,6 +27,11 @@ Read this check before choosing or replacing a guide photograph, a destination c
 - Separately check the narrow share crop and mobile plan card for a useful landmark. For an arrival guide, keep the station or terminal sign readable where the photo is used for identification. If a destination has two photos of the same landmark, compare the actual source files and compositions before using one for the hub and the other for its guide.
 - When a context photo shows a different exit or approach, identify both the photographed exit and the route travelers should use in the caption. A dish or historic object can explain the subject in an article. It cannot verify a shop's menu, hours, merchandise or the appearance of a guest room.
 
+## Verify the map from the traveler’s starting point
+
+- Offer Google Maps alongside the local map links for registered places and add a place-specific Google Maps search beside any standalone local map link used for directions. Check the Korean name and road address with the operator or public authority. Give separate links to similarly named stations, separate trailheads and terminals that share a subway stop. Keep the Korean address visible when the destination could be confused.
+- In the rendered guide, open the labeled link and verify the exact destination passed to the map. For ticketed travel, tell readers to match the location and departure area on their current ticket. Verify schedules and accessible approaches with the operator.
+
 ## Initial editorial review
 
 The 60-guide November 23 expansion was the initial review cohort for the design rollout. Tongin Market’s prepared-food counter and Andong’s wide twilight view of Wolyeonggyo replace the former hero images on their respective guides. Their original images remain as relevant contextual figures with accurate captions. The Daejeon market portrait keeps its original sign and street context in the article frame. INSPIRE’s Airport Cargo Terminal Station image remains a labelled transport landmark.

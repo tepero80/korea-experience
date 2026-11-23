@@ -8332,6 +8332,29 @@
       "downloadedBytes": 3451228,
       "downloadStatus": "downloaded",
       "selectionStatus": "selected"
+    },
+    {
+      "id": "archive-seoul-yeouinaru-exit-1-2025",
+      "title": "20250727 여의나루역 1번출구.jpg",
+      "place": "Seoul",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:20250727_%EC%97%AC%EC%9D%98%EB%82%98%EB%A3%A8%EC%97%AD_1%EB%B2%88%EC%B6%9C%EA%B5%AC.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/13/20250727_%EC%97%AC%EC%9D%98%EB%82%98%EB%A3%A8%EC%97%AD_1%EB%B2%88%EC%B6%9C%EA%B5%AC.jpg",
+      "author": "Striker9498",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "commercialReuse": true,
+      "attributionRequired": false,
+      "shareAlikeRequired": false,
+      "modificationRequirements": "Cropped, resized and converted to WebP. The image records the scene at the time of photography.",
+      "description": "Line 5 Yeouinaru Station sign with the Exit 1 number over a tiled stairway.",
+      "width": 4000,
+      "height": 2250,
+      "verifiedAt": "2026-11-24",
+      "verification": "License, attribution, original dimensions, content, and SHA256 checked.",
+      "sha256": "0ead7d26654395b846f6cefb85bfc48f611c0466e3172d1321fb8bc5493a9f06",
+      "downloadedBytes": 2779537,
+      "downloadStatus": "downloaded",
+      "selectionStatus": "selected"
     }
   ],
   "excludedCandidates": [

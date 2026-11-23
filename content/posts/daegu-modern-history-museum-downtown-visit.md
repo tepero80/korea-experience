@@ -30,4 +30,4 @@ Use the museum as an indoor first stop, then check a current walking route to yo
 
 
 
-[Find 대구근대역사관 in Naver Map](https://map.naver.com/p/search/%EB%8C%80%EA%B5%AC%EA%B7%BC%EB%8C%80%EC%97%AD%EC%82%AC%EA%B4%80) using **대구광역시 중구 경상감영길 67**. Continue with the [Seomun Market food guide](/blog/seomun-market-daytime-food-visit) after checking its hours and the actual route, or save the day in your [itinerary board](/tools/itinerary).
+[Find 대구근대역사관 in Naver Map](https://map.naver.com/p/search/%EB%8C%80%EA%B5%AC%EA%B7%BC%EB%8C%80%EC%97%AD%EC%82%AC%EA%B4%80) · [Google Maps for Daegu Modern History Museum](https://www.google.com/maps/search/?api=1&query=%EB%8C%80%EA%B5%AC%EA%B7%BC%EB%8C%80%EC%97%AD%EC%82%AC%EA%B4%80+%EB%8C%80%EA%B5%AC+%EC%A4%91%EA%B5%AC+%EA%B2%BD%EC%83%81%EA%B0%90%EC%98%81%EA%B8%B8+67) using **대구광역시 중구 경상감영길 67**. Continue with the [Seomun Market food guide](/blog/seomun-market-daytime-food-visit) after checking its hours and the actual route, or save the day in your [itinerary board](/tools/itinerary).

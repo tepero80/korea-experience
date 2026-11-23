@@ -48,4 +48,4 @@ Gyeongju has separate express and intercity bus terminals. If choosing between a
 Once you have arrived, use our [two-day Gyeongju itinerary](/blog/gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026) for a manageable sequence of historic sites. Check actual attraction opening and admission information before booking a return train.
 
 
-[Search Gyeongju Station in Naver Map](https://map.naver.com/p/search/%EA%B2%BD%EC%A3%BC%EC%97%AD) and confirm that the selected station is the current KTX station.
+[Search Gyeongju Station in Naver Map](https://map.naver.com/p/search/%EA%B2%BD%EC%A3%BC%EC%97%AD) · [Google Maps for Gyeongju KTX Station](https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EC%A3%BC%EC%97%AD+%EA%B2%BD%EC%A3%BC%EC%8B%9C+%EA%B1%B4%EC%B2%9C%EC%9D%8D+%EC%8B%A0%EA%B2%BD%EC%A3%BC%EC%97%AD%EB%A1%9C+80) and confirm that the selected station is the current KTX station. Match the name and address **경주역 경주시 건천읍 신경주역로 80** against the [city visitor map](https://www.gyeongju.go.kr/hwangridan/images/gj_map_kor.pdf).

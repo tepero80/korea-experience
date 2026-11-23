@@ -29,4 +29,4 @@ For a train to Chuncheon, compare **ITX-Cheongchun** and the **Gyeongchun Line**
 3. Confirm current payment, luggage and accessibility conditions with Korail. A rail ticket and a metropolitan transit card are not automatically interchangeable.
 4. Keep a later return or an indoor alternative in mind if weather or availability changes. Check the venue and transit operator directly before relying on either.
 
-[Find 춘천역 in Naver Map](https://map.naver.com/p/search/%EC%B6%98%EC%B2%9C%EC%97%AD) and save the train and onward route in your [itinerary board](/tools/itinerary). This guide does not provide live fares, seats or departure times.
+[Find 춘천역 in Naver Map](https://map.naver.com/p/search/%EC%B6%98%EC%B2%9C%EC%97%AD) · [Google Maps for Chuncheon Station](https://www.google.com/maps/search/?api=1&query=%EC%B6%98%EC%B2%9C%EC%97%AD+%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84+%EC%B6%98%EC%B2%9C%EC%8B%9C+%ED%8F%89%ED%99%94%EB%A1%9C+1) and save the train and onward route in your [itinerary board](/tools/itinerary). This guide does not provide live fares, seats or departure times.

@@ -43,4 +43,4 @@ A beachfront coffee stop can be pleasant even when you do not intend to swim, bu
 Before departing, use our [Korean map app guide](/blog/how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026) to save the destination and confirm the route.
 
 
-[Search Anmok Beach in Naver Map](https://map.naver.com/p/search/%EC%95%88%EB%AA%A9%ED%95%B4%EB%B3%80) and verify your actual boarding stop and return route.
+[Search Anmok Beach in Naver Map](https://map.naver.com/p/search/%EC%95%88%EB%AA%A9%ED%95%B4%EB%B3%80) · [Google Maps for Anmok Beach](https://www.google.com/maps/search/?api=1&query=%EC%95%88%EB%AA%A9%ED%95%B4%EB%B3%80+%EA%B0%95%EC%9B%90%ED%8A%B9%EB%B3%84%EC%9E%90%EC%B9%98%EB%8F%84+%EA%B0%95%EB%A6%89%EC%8B%9C+%EC%B0%BD%ED%95%B4%EB%A1%9C14%EB%B2%88%EA%B8%B8+20-1) and verify your actual boarding stop and return route.

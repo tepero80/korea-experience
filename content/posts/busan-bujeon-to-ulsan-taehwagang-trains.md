@@ -37,7 +37,7 @@ At the railway station, check the train name, destination and boarding instructi
 
 For the return, search from the same correct station name. If you miss a reserved train, ask Korail about the ticket's change or refund conditions rather than assuming it can be used on another service.
 
-[Find 태화강역 in Naver Map](https://map.naver.com/p/search/%ED%83%9C%ED%99%94%EA%B0%95%EC%97%AD) and save the onward journey in your [itinerary board](/tools/itinerary).
+[Find 태화강역 in Naver Map](https://map.naver.com/p/search/%ED%83%9C%ED%99%94%EA%B0%95%EC%97%AD) · [Google Maps for Taehwagang Station](https://www.google.com/maps/search/?api=1&query=%ED%83%9C%ED%99%94%EA%B0%95%EC%97%AD+%EC%9A%B8%EC%82%B0+%EB%82%A8%EA%B5%AC+%EC%82%B0%EC%97%85%EB%A1%9C+654) and save the onward journey in your [itinerary board](/tools/itinerary).
 
 ## Verify the journey
 

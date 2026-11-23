@@ -48,10 +48,10 @@ If a route is not offered online, the KTO lists ticket offices and terminal kios
 
 Seoul has several long-distance terminals, and express and intercity buses to a similar destination can leave from different places. The Korea Tourism Organization lists these main terminals and nearby subway stations:
 
-- **Seoul Express Bus Terminal (서울고속버스터미널):** Express Bus Terminal Station, Lines 3, 7 and 9.
-- **Central City (센트럴시티터미널):** Express Bus Terminal Station, Lines 3, 7 and 9.
-- **Seoul Nambu Terminal (서울남부터미널):** Nambu Terminal Station, Line 3.
-- **Dong Seoul Terminal (동서울종합터미널):** Gangbyeon Station, Line 2.
+- **Seoul Express Bus Terminal (서울고속버스터미널):** Express Bus Terminal Station, Lines 3, 7 and 9. **서초구 신반포로 194.** [Google Maps for Seoul Express Bus Terminal](https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EA%B3%A0%EC%86%8D%EB%B2%84%EC%8A%A4%ED%84%B0%EB%AF%B8%EB%84%90+%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EC%84%9C%EC%B4%88%EA%B5%AC+%EC%8B%A0%EB%B0%98%ED%8F%AC%EB%A1%9C+194).
+- **Central City (센트럴시티터미널):** Express Bus Terminal Station, Lines 3, 7 and 9. **서초구 신반포로 176.** [Google Maps for Central City Terminal](https://www.google.com/maps/search/?api=1&query=%EC%84%BC%ED%8A%B8%EB%9F%B4%EC%8B%9C%ED%8B%B0%ED%84%B0%EB%AF%B8%EB%84%90+%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EC%84%9C%EC%B4%88%EA%B5%AC+%EC%8B%A0%EB%B0%98%ED%8F%AC%EB%A1%9C+176).
+- **Seoul Nambu Terminal (서울남부터미널):** Nambu Terminal Station, Line 3. **서초구 효령로 292.** [Google Maps for Seoul Nambu Terminal](https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EB%82%A8%EB%B6%80%ED%84%B0%EB%AF%B8%EB%84%90+%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EC%84%9C%EC%B4%88%EA%B5%AC+%ED%9A%A8%EB%A0%B9%EB%A1%9C+292).
+- **Dong Seoul Terminal (동서울종합터미널):** Gangbyeon Station, Line 2. **광진구 강변역로 50.** [Google Maps for Dong Seoul Terminal](https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EC%84%9C%EC%9A%B8%EC%A2%85%ED%95%A9%ED%84%B0%EB%AF%B8%EB%84%90+%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B4%91%EC%A7%84%EA%B5%AC+%EA%B0%95%EB%B3%80%EC%97%AD%EB%A1%9C+50).
 
 These are orientation aids, not a substitute for the address on your ticket. Central City and Seoul Express Bus Terminal share a subway station but have distinct departure areas. Paste the Korean name into [NAVER Map](https://map.naver.com/) and compare the result with your booking. Check the exact terminal and platform for your date in the operator or booking service, then verify the departure board on arrival. ([KTO terminal list](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140657))
 

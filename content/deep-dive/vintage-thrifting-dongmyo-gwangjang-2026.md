@@ -204,6 +204,11 @@ The beauty of Gwangjang is that the vintage arcade and food market are in the sa
 
 ## Your Thrifting Itinerary
 
+Open the two stops separately before you set out. The markets are at different addresses.
+
+- **Dongmyo Flea Market** — 동묘벼룩시장 서울특별시 종로구 숭인동 102-8. [Google Maps for Dongmyo Flea Market](https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EB%AC%98%EB%B2%BC%EB%A3%A9%EC%8B%9C%EC%9E%A5+%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EC%A2%85%EB%A1%9C%EA%B5%AC+%EC%88%AD%EC%9D%B8%EB%8F%99+102-8) · [Visit Seoul listing](https://english.visitseoul.net/shopping/Dongmyo%20Flea%20Market/ENP009646).
+- **Gwangjang Market** — 광장시장 서울특별시 종로구 창경궁로 88. [Google Maps for Gwangjang Market](https://www.google.com/maps/search/?api=1&query=%EA%B4%91%EC%9E%A5%EC%8B%9C%EC%9E%A5+%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EC%A2%85%EB%A1%9C%EA%B5%AC+%EC%B0%BD%EA%B2%BD%EA%B6%81%EB%A1%9C+88) · [Visit Seoul listing](https://korean.visitseoul.net/Tourist-Attractions-list1/%EA%B4%91%EC%9E%A5%EC%8B%9C%EC%9E%A5/KOP000286).
+
 <StepGuide
   title="Perfect Vintage Day in Seoul"
   totalTime="6-8 hours"
