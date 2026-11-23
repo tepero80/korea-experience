@@ -1,7 +1,7 @@
 ---
 title: "Busan night markets guide 2026: Best food and shopping spots"
 date: 2026-01-04
-excerpt: "Discover the best Busan night markets in 2026. From Bupyeong Kkangtong's street food to Haeundae's seafood, find prices, hours, and transport tips."
+excerpt: "Compare Busan evening market stops, including Bupyeong Kkangtong, BIFF Square and Haeundae’s traditional market."
 category: Travel & Tourism
 author: Korea Experience Team
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Shopping"
 readTime: "15 min read"
 featured: false
-image: "/images/busan-night-markets-guide-best-food-and-shopping-spots-2026.webp"
+image: /images/editorial/archive-bupyeong-kkangtong-covered-night-aisle-1280.webp
 ---
 
 If you are looking for the absolute best night market experience in Busan for 2026, the clear winner is the Bupyeong Kkangtong Night Market. While the city offers several evening hotspots, Kkangtong provides the most concentrated variety of international and Korean street foods, operating daily from 19:30 to 23:30 with over 30 dedicated food stalls packed into a 110-meter alleyway.

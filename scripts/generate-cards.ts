@@ -71,6 +71,7 @@ async function main() {
     const photo = await sharp('public' + post.image)
       .resize(400, 630, {
         fit: credit?.kind === 'illustration' ? 'contain' : 'cover',
+        position: details?.cardImageCrop,
         background: editorialColors.wash,
       })
       .png()

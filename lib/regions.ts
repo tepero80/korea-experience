@@ -25,10 +25,10 @@ export const REGIONS: readonly Region[] = [
     highlights: [
       'seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style',
       'seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026',
-      'changgyeonggung-grand-greenhouse-daytime',
+      'seoul-city-hall-library-indoor-visit',
+      'seodaemun-prison-history-hall-dongnimmun',
+      'oil-tank-culture-park-world-cup-stadium-station',
       'national-museum-korea-first-permanent-gallery-visit',
-      'seoul-forest-station-short-park-walk',
-      'airport-limousine-bus-vs-arex-express-train',
     ],
     onward: [
       { regionId: 'chuncheon', reason: 'Plan a lake outing from Seoul and choose where to board the train.' },
@@ -118,13 +118,14 @@ export const REGIONS: readonly Region[] = [
     area: 'Jeju Island',
     coverMediaId: 'jeju-hallasan-aerial-2024',
     intro:
-      'Choose a base you can travel from without a rental car, then plan your airport transfer, a Seongsan bus day or a ferry outing.',
+      'Choose a car-free base, then pick an east-coast beach, a Seogwipo waterfall or an estuary walk around your return options.',
     tip: 'Plan around your exact stops and return times. Keep an alternative on Jeju itself for ferry days and avoid relying on the last connection.',
     highlights: [
       'where-to-stay-in-jeju-without-a-car',
       'jeju-airport-to-jeju-city-and-seogwipo',
-      'seongsan-ilchulbong-by-bus-from-jeju-city',
-      'jeju-muslim-friendly-dining-in-jeju-city',
+      'jeju-airport-to-hamdeok-beach-by-bus',
+      'seogwipo-cheonjiyeon-or-jeongbang-waterfall',
+      'soesokkak-estuary-walk-or-boat',
       'jeju-winter-ferry-checklist-udo-gapa-marado',
     ],
     onward: [{ regionId: 'busan', reason: 'If your onward ticket is to Busan, plan the airport transfer before choosing a coastal neighborhood.' }],

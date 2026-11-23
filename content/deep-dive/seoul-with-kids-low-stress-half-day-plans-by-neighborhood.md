@@ -1,11 +1,11 @@
 ---
 title: "Seoul with Kids: Low-Stress Half-Day Plans by Neighborhood"
 date: 2026-10-12
-excerpt: "Discover low-stress, half-day family itineraries in Seoul categorized by neighborhood, featuring museums, indoor hubs, and parks."
+excerpt: "Plan a half day in Seoul with children, with museums, outdoor breaks and indoor alternatives by neighborhood."
 category: "Travel & Tourism"
 author: "Korea Experience Editorial Team"
 deepDive: true
-image: "/images/seoul-with-kids-low-stress-half-day-plans-by-neighborhood.webp"
+image: /images/editorial/archive-yongsan-museum-pond-walk-1280.webp
 ---
 
 Visiting Seoul with children can quickly become overwhelming if you attempt to cross the city multiple times a day. The key to a low-stress trip is anchoring your activities within specific neighborhoods to minimize transit time and keep daily schedules flexible. Below are practical, neighborhood-focused half-day plans designed to balance entertainment for kids with ease of navigation for parents.

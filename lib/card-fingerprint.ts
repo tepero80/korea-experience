@@ -28,6 +28,7 @@ export function cardFingerprint(
         conditions: post.editorial?.conditions,
         shareFacts: post.editorial?.shareFacts,
         cardImageLabel: post.editorial?.cardImageLabel,
+        cardImageCrop: post.editorial?.cardImageCrop,
         credit: post.editorial?.imageCredit,
       }),
     )

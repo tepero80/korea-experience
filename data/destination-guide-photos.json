@@ -484,5 +484,41 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "jeju-airport-to-hamdeok-beach-by-bus": {
+    "mediaId": "jeju-hamdeok-beach-2025",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "soesokkak-estuary-walk-or-boat": {
+    "mediaId": "jeju-soesokkak-estuary",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seogwipo-cheonjiyeon-or-jeongbang-waterfall": {
+    "mediaId": "jeju-cheonjiyeon-waterfall",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seoul-city-hall-library-indoor-visit": {
+    "mediaId": "seoul-metropolitan-library-signed-doorway-2016",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "oil-tank-culture-park-world-cup-stadium-station": {
+    "mediaId": "seoul-oil-tank-park-t2-winter-2026",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seodaemun-prison-history-hall-dongnimmun": {
+    "mediaId": "seoul-seodaemun-prison-brick-gate-2013",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

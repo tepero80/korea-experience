@@ -1,7 +1,7 @@
 ---
 title: "Secret Beaches in Busan: 5 Hidden Gems Beyond Haeundae 2026"
 date: 2026-01-28
-excerpt: "Discover 5 secret beaches in Busan beyond Haeundae. From surfing at Songjeong to Dadaepo's ₩0 fountain shows, explore Korea's coast like a local."
+excerpt: "Compare Songjeong, Dadaepo and Songdo to choose a Busan beach for your trip."
 category: Travel & Tourism
 author: Korea Experience Team
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Gijang Cafes"
 readTime: "16 min read"
 featured: true
-image: "/images/secret-beaches-in-busan-beyond-haeundae-and-gwangalli.webp"
+image: /images/editorial/archive-busan-dadaepo-sunset-lifeguard-chair-1280.webp
 ---
 
 While Haeundae and Gwangalli are undeniably the poster children of Busan’s coastline, relying solely on them means missing out on the authentic coastal soul of South Korea's second-largest city. If you are looking for secret beaches in Busan, the answer lies in heading either far west to the sunset-soaked mudflats or north to the rugged cafe-lined cliffs of Gijang.

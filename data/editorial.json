@@ -1812,6 +1812,12 @@
         "type": "alternative",
         "label": "A useful alternative",
         "reason": "Pack adjustable layers, warm accessories and grippy shoes; plan where you will warm up and dry wet items."
+      },
+      {
+        "slug": "oil-tank-culture-park-world-cup-stadium-station",
+        "type": "alternative",
+        "label": "Save Oil Tank Culture Park for a clear window",
+        "reason": "The outdoor site suits a weather break once you have checked which tanks are open."
       }
     ],
     "tools": [
@@ -11409,6 +11415,12 @@
         "type": "next",
         "label": "Check the next day’s ferry",
         "reason": "Protect your island return separately from airport arrival."
+      },
+      {
+        "slug": "jeju-airport-to-hamdeok-beach-by-bus",
+        "type": "alternative",
+        "label": "Take the bus directly to Hamdeok",
+        "reason": "Use the eastbound airport route if you are staying near the beach."
       }
     ],
     "tools": [
@@ -14236,6 +14248,12 @@
         "type": "interest",
         "label": "Pair a different palace with a market lunch",
         "reason": "Give Gyeongbokgung and Seochon their own morning and lunch."
+      },
+      {
+        "slug": "seoul-city-hall-library-indoor-visit",
+        "type": "nearby",
+        "label": "Visit Seoul Metropolitan Library",
+        "reason": "The former City Hall gives you a short indoor option around Seoul Plaza."
       }
     ],
     "tools": [
@@ -14660,6 +14678,12 @@
         "type": "alternative",
         "label": "Stay local to your Jeju City base",
         "reason": "Use Dongmun Market for an evening in old Jeju City on the north side."
+      },
+      {
+        "slug": "seogwipo-cheonjiyeon-or-jeongbang-waterfall",
+        "type": "nearby",
+        "label": "Choose a waterfall near Seogwipo",
+        "reason": "The wooded and coastal walks have different approaches and closing times."
       }
     ],
     "tools": [
@@ -18988,6 +19012,12 @@
         "type": "next",
         "label": "Plan another indoor Seoul stop",
         "reason": "Keep enough time for a transfer after the museum."
+      },
+      {
+        "slug": "seodaemun-prison-history-hall-dongnimmun",
+        "type": "interest",
+        "label": "Explore Seoul’s modern history",
+        "reason": "Seodaemun focuses on the independence movement and the history of the prison site."
       }
     ],
     "tools": [
@@ -19621,6 +19651,556 @@
       "license": "CC BY-SA 2.5",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5/",
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.5. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "jeju-airport-to-hamdeok-beach-by-bus": {
+    "id": "jeju-airport-to-hamdeok-beach-by-bus",
+    "cardImageCrop": "east",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Compare the eastbound 101 and 325 from Jeju Airport. Check the stop shown for your departure and save your airport-bound return before walking to the beach.",
+    "forWhom": "Visitors going from Jeju International Airport to the Hamdeok seafront without a rental car",
+    "conditions": [
+      "Match the direction, beach stop and travel date in the official timetable. Return timings and stop names differ by route."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "public transport",
+      "beaches",
+      "arrival"
+    ],
+    "relations": [
+      {
+        "slug": "where-to-stay-in-jeju-without-a-car",
+        "type": "next",
+        "label": "Choose a base on Jeju",
+        "reason": "How you get back from the east coast depends on where you stay next."
+      },
+      {
+        "slug": "jeju-airport-to-jeju-city-and-seogwipo",
+        "type": "alternative",
+        "label": "Go straight to your base",
+        "reason": "If you arrive late or have bags, check your airport transfer before adding a beach visit."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-airport-arrival",
+      "jeju-hamdeok-beach"
+    ],
+    "shareFacts": [
+      "Compare buses 101 and 325",
+      "Match your actual beach stop",
+      "Save an airport-bound return first"
+    ],
+    "sources": [
+      {
+        "id": "jeju-airport-to-hamdeok-beach-by-bus-source-1",
+        "title": "Korea Airports Corporation airport bus information",
+        "url": "https://www.airport.co.kr/jeju/cms/frCon/index.do?MENU_ID=140",
+        "note": "Confirm current airport routes and use the bay signs on arrival.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeju-airport-to-hamdeok-beach-by-bus-source-2",
+        "title": "Jeju Bus Information 101 outbound",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=1950",
+        "note": "Eastbound sequence from the airport through Hamdeok towards Seongsan and Namwon.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeju-airport-to-hamdeok-beach-by-bus-source-3",
+        "title": "Jeju Bus Information 101 return",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=1951",
+        "note": "Airport-bound sequence from the east coast.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeju-airport-to-hamdeok-beach-by-bus-source-4",
+        "title": "Jeju Bus Information 325 outbound",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2511",
+        "note": "Lists Hamdeok Seoubong Beach after the airport and before the end of the route.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeju-airport-to-hamdeok-beach-by-bus-source-5",
+        "title": "Jeju Bus Information 325 return",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2512",
+        "note": "Lists Hamdeok Beach before the stop at Jeju International Airport.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeju-airport-to-hamdeok-beach-by-bus-source-6",
+        "title": "Jeju Bus Information service notices",
+        "url": "https://bus.jeju.go.kr/",
+        "note": "Check service and stop changes for your travel day.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeju-airport-to-hamdeok-beach-by-bus-source-7",
+        "title": "VisitKorea Hamdeok Beach",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=90647",
+        "note": "Destination address and map point.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1213,
+    "changeType": "new",
+    "heroMediaId": "jeju-hamdeok-beach-2025",
+    "heroCaption": "Hamdeok Beach in 2025. The seafront is the destination, so check your bus stop separately.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Hong Da Hyeon",
+      "title": "Hamdeok Beach in 2025",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamdeok_Beach.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "soesokkak-estuary-walk-or-boat": {
+    "id": "soesokkak-estuary-walk-or-boat",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the estuary walking path as your flexible plan. Add a boat only after you confirm the exact boarding point, operating conditions and the time you need to get back.",
+    "forWhom": "Seogwipo travelers deciding how to visit Soesokkak without making the day depend on a boat",
+    "conditions": [
+      "Check the actual operator on the day for cancellations, passenger requirements and check-in. The map pin is for the estuary."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "estuaries",
+      "coastal walks",
+      "boats"
+    ],
+    "relations": [
+      {
+        "slug": "seogwipo-olle-market-takeaway-plan",
+        "type": "next",
+        "label": "Return to Seogwipo for food",
+        "reason": "The central market gives you a flexible next stop after your estuary visit."
+      },
+      {
+        "slug": "seogwipo-cheonjiyeon-or-jeongbang-waterfall",
+        "type": "alternative",
+        "label": "Compare central Seogwipo’s waterfalls",
+        "reason": "Both central waterfalls have different access and closing conditions from the estuary."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-soesokkak-estuary"
+    ],
+    "shareFacts": [
+      "Walk the estuary path first",
+      "Check the operator before booking",
+      "Plan your return from Soesokkak"
+    ],
+    "sources": [
+      {
+        "id": "soesokkak-estuary-walk-or-boat-source-1",
+        "title": "VisitKorea Soesokkak Estuary listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=94895",
+        "note": "Official address and destination marker for the estuary.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "soesokkak-estuary-walk-or-boat-source-2",
+        "title": "Visit Jeju Hyodon and Soesokkak coastal walk",
+        "url": "https://www.visitjeju.net/kr/themtour/view?contentsid=CNTS_300000000012862",
+        "note": "Describes the walking path, traditional boarding experience and nearby coast.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1214,
+    "changeType": "new",
+    "heroMediaId": "jeju-soesokkak-estuary",
+    "heroCaption": "The wooded, rocky banks of Soesokkak in 2014. Confirm current conditions separately.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Jocelyndurrey",
+      "title": "The rock-lined Soesokkak Estuary in 2014",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%87%A0%EC%86%8C%EA%B9%8D_(2).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seogwipo-cheonjiyeon-or-jeongbang-waterfall": {
+    "id": "seogwipo-cheonjiyeon-or-jeongbang-waterfall",
+    "cardImageCrop": "east",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Cheonjiyeon for the wooded walk and Jeongbang for the coastal cliffs if you can descend and return up the stairs. Check each last admission time before you go.",
+    "forWhom": "Travelers choosing one waterfall near central Seogwipo",
+    "conditions": [
+      "Cheonjiyeon has sections with uneven surfaces. Jeongbang access depends on weather and sunset. Check current notices."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "waterfalls",
+      "coastal walks",
+      "accessibility"
+    ],
+    "relations": [
+      {
+        "slug": "seogwipo-olle-market-takeaway-plan",
+        "type": "next",
+        "label": "Plan a market stop",
+        "reason": "Return to central Seogwipo for food around the market without needing another waterfall ticket."
+      },
+      {
+        "slug": "soesokkak-estuary-walk-or-boat",
+        "type": "alternative",
+        "label": "Choose an estuary walk",
+        "reason": "A flexible shore visit is useful on a day when you are planning a separate outing east of downtown."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-cheonjiyeon-waterfall",
+      "jeju-jeongbang-waterfall"
+    ],
+    "shareFacts": [
+      "Cheonjiyeon for the wooded approach",
+      "Jeongbang involves stairs",
+      "Check cutoff times separately"
+    ],
+    "sources": [
+      {
+        "id": "seogwipo-cheonjiyeon-or-jeongbang-waterfall-source-1",
+        "title": "Seogwipo city Cheonjiyeon visitor information",
+        "url": "https://eticket.seogwipo.go.kr/contents?bmcode=cheonjiyeon",
+        "note": "Official operating hours, last admission and street address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seogwipo-cheonjiyeon-or-jeongbang-waterfall-source-2",
+        "title": "Visit Jeju Cheonjiyeon access information",
+        "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500618",
+        "note": "Ticket-machine threshold and accessible facilities near the ticket office.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seogwipo-cheonjiyeon-or-jeongbang-waterfall-source-3",
+        "title": "Visit Jeju Jeongbang visitor information",
+        "url": "https://m.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500531",
+        "note": "Pine-lined approach stairs, opening, last entry and weather restrictions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seogwipo-cheonjiyeon-or-jeongbang-waterfall-source-4",
+        "title": "VisitKorea Jeongbang destination",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110885",
+        "note": "Korean address and general destination marker.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1215,
+    "changeType": "new",
+    "heroMediaId": "jeju-cheonjiyeon-waterfall",
+    "heroCaption": "Cheonjiyeon Waterfall behind a wooded pool in Seogwipo in 2016.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Yhnn0065",
+      "title": "Cheonjiyeon Waterfall and the wooded pool in 2016",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheonjiyeon_Waterfall_20160616_092608.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seoul-city-hall-library-indoor-visit": {
+    "id": "seoul-city-hall-library-indoor-visit",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Take Line 1 or 2 to City Hall. Head to the former City Hall building on Seoul Plaza for the library, or check the modern City Hall tour separately.",
+    "forWhom": "Visitors near Seoul Plaza who want a quiet indoor stop without planning the visit around a tour",
+    "conditions": [
+      "The library is usually closed Mondays and on some holidays. Room hours and the City Hall tour schedule differ."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "architecture",
+      "rain alternatives",
+      "city walks"
+    ],
+    "relations": [
+      {
+        "slug": "deoksugung-to-seoul-museum-of-art",
+        "type": "nearby",
+        "label": "Continue to Deoksugung and the art museum",
+        "reason": "The palace and gallery make a separate nearby visit once you know their opening days."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Choose another rainy-day stop",
+        "reason": "Useful if the library is closed or the room you want shuts earlier."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-metropolitan-library"
+    ],
+    "shareFacts": [
+      "Use City Hall Station Exit 4",
+      "Enter the older library building",
+      "Check individual room hours"
+    ],
+    "sources": [
+      {
+        "id": "seoul-city-hall-library-indoor-visit-source-1",
+        "title": "Seoul Metropolitan Government library overview",
+        "url": "https://english.seoul.go.kr/city-hall/overview-city-hall/3-seoul-metropolitan-library/",
+        "note": "Identifies the former City Hall building and the library collections.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-city-hall-library-indoor-visit-source-2",
+        "title": "Seoul city visitor directions",
+        "url": "https://culture.seoul.go.kr/culture/bbs/B0000001/view.do?menuNo=200050&nttId=6822&pageIndex=293",
+        "note": "Lists City Hall Station Exit 4 at Seoul Plaza.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-city-hall-library-indoor-visit-source-3",
+        "title": "Seoul City Hall Tong-Tong Tour",
+        "url": "https://english.seoul.go.kr/city-hall/overview-city-hall/4-tong-tong-tour/",
+        "note": "Check language and current reservation or on-site arrangements.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-city-hall-library-indoor-visit-source-4",
+        "title": "VisitKorea destination listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80168",
+        "note": "Destination overview point from the Korea Tourism Organization listing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1216,
+    "changeType": "new",
+    "heroMediaId": "seoul-metropolitan-library-signed-doorway-2016",
+    "heroCaption": "The signed Seoul Metropolitan Library doorway in June 2016. Ask staff where to enter if you need to avoid these steps.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "revi",
+      "title": "Q12601204 Seoul Library A01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Q12601204_Seoul_Library_A01.jpg",
+      "license": "CC BY 2.0 Korea",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/",
+      "note": "Q12601204 Seoul Library A01.jpg from Wikimedia Commons by revi, CC BY 2.0 Korea. Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "oil-tank-culture-park-world-cup-stadium-station": {
+    "id": "oil-tank-culture-park-world-cup-stadium-station",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Take Line 6 to World Cup Stadium Station and approach from Exit 2 or 3. Plan around the outdoor grounds, then check the specific programme before counting on an open tank.",
+    "forWhom": "Travelers interested in architecture and an outdoor industrial-heritage walk in western Seoul",
+    "conditions": [
+      "Seoul’s park operator says the tank interiors are no longer open for casual visits on a regular schedule. Verify your event or tour."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "industrial heritage",
+      "walking",
+      "metro"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Use a confirmed indoor backup",
+        "reason": "Walking between tanks is largely outdoors, and indoor access is programme-dependent."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-oil-tank-culture-park"
+    ],
+    "shareFacts": [
+      "Approach from Line 6 Exit 2 or 3",
+      "Start with the outdoor grounds",
+      "Confirm tank entry in advance"
+    ],
+    "sources": [
+      {
+        "id": "oil-tank-culture-park-world-cup-stadium-station-source-1",
+        "title": "Seoul city Oil Tank Culture Park operator",
+        "url": "https://parks.seoul.go.kr/content.do?key=2604300014",
+        "note": "Metro approach, current tank access, facilities and guided visit options.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "oil-tank-culture-park-world-cup-stadium-station-source-2",
+        "title": "Seoul Tourism Organization listing",
+        "url": "https://english.visitseoul.net/MapoArea/Oil-Reservoir-Culture-Park_/24422",
+        "note": "Official venue introduction and walking approach.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "oil-tank-culture-park-world-cup-stadium-station-source-3",
+        "title": "VisitKorea destination listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=62572",
+        "note": "Destination overview point from the Korea Tourism Organization listing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1217,
+    "changeType": "new",
+    "heroMediaId": "seoul-oil-tank-park-t2-winter-2026",
+    "heroCaption": "T2 at Oil Tank Culture Park in January 2026. Check the venue programme before planning to enter a tank.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "베르니사주",
+      "title": "T2 at Oil Tank Culture Park in January 2026",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%AC%B8%ED%99%94%EB%B9%84%EC%B6%95%EA%B8%B0%EC%A7%80_T2.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seodaemun-prison-history-hall-dongnimmun": {
+    "id": "seodaemun-prison-history-hall-dongnimmun",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Dongnimmun Station Exit 5 and follow the signs within Independence Park. Budget for outdoor walks between buildings, and confirm the history hall’s hours separately from the park.",
+    "forWhom": "Readers interested in Korea’s independence and modern history who want to plan an independent visit",
+    "conditions": [
+      "Some displays concern detention and torture. Check seasonal closing and closure notices before visiting."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "modern history",
+      "museums",
+      "metro"
+    ],
+    "relations": [
+      {
+        "slug": "national-museum-korea-first-permanent-gallery-visit",
+        "type": "interest",
+        "label": "Plan a separate National Museum visit",
+        "reason": "Choose a wider view of Korean history on a different museum outing."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Pick a more sheltered stop",
+        "reason": "The history hall requires outdoor walks between buildings."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-seodaemun-prison-history-hall"
+    ],
+    "shareFacts": [
+      "Use Dongnimmun Station Exit 5",
+      "Check the winter entry deadline",
+      "Allow outdoor walks between exhibits"
+    ],
+    "sources": [
+      {
+        "id": "seodaemun-prison-history-hall-dongnimmun-source-1",
+        "title": "Seodaemun-gu history hall information",
+        "url": "https://sdm.go.kr/culture/attraction/sub2020.do",
+        "note": "Local authority operating hours, history and directions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seodaemun-prison-history-hall-dongnimmun-source-2",
+        "title": "Seoul Tourism Organization history hall guide",
+        "url": "https://english.visitseoul.net/other/Seodaemun-Prison-History-Hall/ENP001831",
+        "note": "Lists Exit 5 and the approach to Independence Park.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seodaemun-prison-history-hall-dongnimmun-source-3",
+        "title": "Seodaemun Prison History Hall official website",
+        "url": "https://sphh.sscmc.or.kr/_eng/",
+        "note": "Check current closures and visitor notices.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seodaemun-prison-history-hall-dongnimmun-source-4",
+        "title": "VisitKorea destination listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111259",
+        "note": "Destination overview point from the Korea Tourism Organization listing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1218,
+    "changeType": "new",
+    "heroMediaId": "seoul-seodaemun-prison-brick-gate-2013",
+    "heroCaption": "Seodaemun Prison’s historic brick entrance and watchtower in February 2013. Follow the venue’s present-day entrance signs.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Noh Mun Duek",
+      "title": "The historic entrance and tower at Seodaemun Prison in February 2013",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_Entrance_of_The_Old_Seodaemun_Prison_(%EA%B5%AC%EC%84%9C%EB%8C%80%EB%AC%B8%ED%98%95%EB%AC%B4%EC%86%8C).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "gallery": [],
     "experienceVersion": 2

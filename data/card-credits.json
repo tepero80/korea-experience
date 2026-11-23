@@ -3055,5 +3055,95 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.5. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jeju-airport-to-hamdeok-beach-by-bus": {
+    "src": "/images/cards/jeju-airport-to-hamdeok-beach-by-bus.jpg",
+    "fingerprint": "a1ddd881043a4d65417efe9e8ddfe9f3fd48eca916cd78a4dbf1e731ad3cfc3f",
+    "sourceImage": "/images/editorial/jeju-hamdeok-beach-2025-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Hong Da Hyeon",
+      "title": "Hamdeok Beach in 2025",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hamdeok_Beach.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seogwipo-cheonjiyeon-or-jeongbang-waterfall": {
+    "src": "/images/cards/seogwipo-cheonjiyeon-or-jeongbang-waterfall.jpg",
+    "fingerprint": "0829713cfc00cd0a813c9300354410c8d9001769975f51bc0f8c5889cb6e65f8",
+    "sourceImage": "/images/editorial/jeju-cheonjiyeon-waterfall-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Yhnn0065",
+      "title": "Cheonjiyeon Waterfall and the wooded pool in 2016",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheonjiyeon_Waterfall_20160616_092608.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "soesokkak-estuary-walk-or-boat": {
+    "src": "/images/cards/soesokkak-estuary-walk-or-boat.jpg",
+    "fingerprint": "dc9f208247e0c5952f0c0b28a2fb9cbbdea40a6b31c383e9847e4f3c4d2af5ef",
+    "sourceImage": "/images/editorial/jeju-soesokkak-estuary-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Jocelyndurrey",
+      "title": "The rock-lined Soesokkak Estuary in 2014",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%87%A0%EC%86%8C%EA%B9%8D_(2).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoul-city-hall-library-indoor-visit": {
+    "src": "/images/cards/seoul-city-hall-library-indoor-visit.jpg",
+    "fingerprint": "6cd6133f7452642356ef328deeb708c80d45bfedcdc42e9e49b71fd3a169ad79",
+    "sourceImage": "/images/editorial/seoul-metropolitan-library-signed-doorway-2016-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "revi",
+      "title": "Q12601204 Seoul Library A01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Q12601204_Seoul_Library_A01.jpg",
+      "license": "CC BY 2.0 Korea",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/",
+      "note": "Q12601204 Seoul Library A01.jpg from Wikimedia Commons by revi, CC BY 2.0 Korea. Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "oil-tank-culture-park-world-cup-stadium-station": {
+    "src": "/images/cards/oil-tank-culture-park-world-cup-stadium-station.jpg",
+    "fingerprint": "a4354ef822960a951dd3cc3e7ce1816b5c1a53bdac49d85f416ccaaf3fae1883",
+    "sourceImage": "/images/editorial/seoul-oil-tank-park-t2-winter-2026-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "베르니사주",
+      "title": "T2 at Oil Tank Culture Park in January 2026",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%AC%B8%ED%99%94%EB%B9%84%EC%B6%95%EA%B8%B0%EC%A7%80_T2.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seodaemun-prison-history-hall-dongnimmun": {
+    "src": "/images/cards/seodaemun-prison-history-hall-dongnimmun.jpg",
+    "fingerprint": "bc6c0afacf7ee8fbefc13e2a14ee4c5d59b570db61ada7c6550ad6984e795d2b",
+    "sourceImage": "/images/editorial/seoul-seodaemun-prison-brick-gate-2013-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Noh Mun Duek",
+      "title": "The historic entrance and tower at Seodaemun Prison in February 2013",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Main_Entrance_of_The_Old_Seodaemun_Prison_(%EA%B5%AC%EC%84%9C%EB%8C%80%EB%AC%B8%ED%98%95%EB%AC%B4%EC%86%8C).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

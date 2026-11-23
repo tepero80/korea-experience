@@ -1,7 +1,7 @@
 ---
 title: "Best day trips from Seoul 2026: KTX routes and hidden gems"
 date: 2026-01-02
-excerpt: "Discover the top day trips from Seoul for 2026. Includes KTX schedules, costs under ₩50,000, and travel times for Suwon, Nami Island, and the DMZ."
+excerpt: "Choose a day trip from Seoul by the kind of outing you want, from Suwon’s fortress to Gapyeong’s gardens."
 category: Travel & Tourism
 author: Korea Experience Team
 tags:
@@ -12,7 +12,7 @@ tags:
   - "Korean Culture"
 readTime: "13 min read"
 featured: false
-image: "/images/best-day-trips-from-seoul-2026.webp"
+image: /images/editorial/archive-suwon-yeonmudae-steps-1280.webp
 ---
 
 Finding the perfect escape from the bustling capital requires knowing exactly where to go and how to navigate South Korea's rapidly evolving transport network.
