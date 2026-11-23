@@ -76,7 +76,8 @@ export function indexGuides(guides: SearchGuide[]): IndexedGuide[] {
 }
 
 function preferredGuide(phrase: string) {
-  const airport = /\b(incheon|icn|airport)\b/.test(phrase);
+  const otherAirport = /\b(?:jeju|cju|gimpo|gmp|gimhae|pus|gwangju|kwj|daegu|tae|cheongju|cjj|yangyang|yny|muan|mwx)\b/.test(phrase);
+  const airport = /\b(?:incheon|icn)\b/.test(phrase) || (/\bairport\b/.test(phrase) && !otherAirport);
   if (/\bterminals?\b/.test(phrase) && (airport || /\b(flight|airline)\b/.test(phrase))) {
     return 'incheon-terminal-flight-check';
   }
@@ -121,6 +122,12 @@ function preferredGuide(phrase: string) {
 }
 
 function focusedGuides(phrase: string) {
+  if (
+    /\b(?:jeju (?:international )?airport|cju)\b/.test(phrase) &&
+    /\b(?:bus|buses|limousine|taxi|transfer|hotel|jungmun|seogwipo|jeju city)\b/.test(phrase)
+  ) {
+    return ['jeju-airport-to-jeju-city-and-seogwipo'];
+  }
   if (
     /\b(?:seoul (?:to|from) busan|busan (?:to|from) seoul)\b/.test(phrase) &&
     !/\b(?:by car|car rental|drive|driving|flight|fly|plane|road trip)\b/.test(phrase)

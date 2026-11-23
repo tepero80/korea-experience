@@ -264,6 +264,8 @@ test('search finds an arrival guide and Escape returns focus', async ({ page }) 
     ['Korea tourist tax refund', 'tax-refund-for-tourists-how-to-claim'],
     ['Which terminal does my flight leave from?', 'incheon-terminal-flight-check'],
     ['incheon baby', 'incheon-airport-baby-care-room-locations'],
+    ['Jeju airport bus', 'jeju-airport-to-jeju-city-and-seogwipo'],
+    ['CJU transfer to Seogwipo', 'jeju-airport-to-jeju-city-and-seogwipo'],
     ['Seoul to Busan', 'ktx-vs-srt-high-speed-train-comparison-and-booking'],
     ['From Busan to Seoul by KTX', 'ktx-vs-srt-high-speed-train-comparison-and-booking'],
     ['Seoul to Busan by bus', 'intercity-bus-travel-booking-apps-and-routes'],
