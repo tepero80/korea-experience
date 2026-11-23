@@ -2840,5 +2840,24 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Historical photograph from 2016-02-04. Resized and converted to WebP, and cropped in the preview card. Adaptations retain CC BY-SA 4.0 credit and license."
     }
+  },
+  {
+    "id": "incheon-t2-reunions-2024",
+    "src": "/images/editorial/incheon-t2-reunions-1280.webp",
+    "srcSet": "/images/editorial/incheon-t2-reunions-640.webp 640w, /images/editorial/incheon-t2-reunions-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT2_%EC%9E%85%EA%B5%AD%EC%9E%A5(%EB%8F%84%EC%B0%A9%2C%EC%9B%A8%EC%9D%B4%ED%8C%85).jpg",
+    "alt": "Travelers waiting beyond the barrier in Incheon Airport Terminal 2’s public arrivals hall",
+    "credit": {
+      "kind": "photograph",
+      "title": "인천공항T2 입국장(도착,웨이팅).jpg",
+      "author": "Narubaru7",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT2_%EC%9E%85%EA%B5%AD%EC%9E%A5(%EB%8F%84%EC%B0%A9%2C%EC%9B%A8%EC%9D%B4%ED%8C%85).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Taken 13 October 2024. Resized and converted to WebP and cropped in the social preview card."
+    },
+    "originalHash": "0a54b62fb6c905d32af4f63712be158b855ff14ce185ee7c61d6c8b9c16ff4de"
   }
 ]

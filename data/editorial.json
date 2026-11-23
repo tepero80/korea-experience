@@ -10299,5 +10299,134 @@
       "note": "Historical photograph from 2016-02-04. Resized and converted to WebP, and cropped in the preview card. Adaptations retain CC BY-SA 4.0 credit and license."
     },
     "heroMediaId": "retail-incheon-lotte-duty-free-2016"
+  },
+  "incheon-airport-survival-guide-2026": {
+    "id": "guide:incheon-airport-survival-guide-2026",
+    "experienceVersion": 2,
+    "categoryId": "airports-transport",
+    "checkedAt": "2026-11-23",
+    "regions": [
+      "incheon",
+      "seoul"
+    ],
+    "tools": [
+      "airport-transfer"
+    ],
+    "placeIds": [
+      "incheon-airport-t1",
+      "incheon-airport-t2"
+    ],
+    "format": "how-to",
+    "answer": "Entering Korea? Clear immigration, pick up checked bags, go through customs, then find your ride. If you’re connecting, confirm with your airline whether you must collect and recheck bags.",
+    "quickTitle": "What do you need to do?",
+    "quickChoices": [
+      {
+        "label": "Enter Korea",
+        "detail": "Passport control → your checked bags → customs → public arrivals hall."
+      },
+      {
+        "label": "Catch a connection",
+        "detail": "Confirm with your airline whether you can remain airside and whether your bags are checked through."
+      },
+      {
+        "label": "Get to your hotel",
+        "detail": "Check transport from your actual arrival terminal and keep a backup for delays."
+      }
+    ],
+    "forWhom": "International passengers arriving at Incheon Airport, including first-time visitors and travelers arranging a pickup or onward flight",
+    "conditions": [
+      "Confirm the actual operating flight and terminal.",
+      "Exact immigration and connection steps can depend on your documents, baggage and booking."
+    ],
+    "stages": [
+      "arrival",
+      "getting-around"
+    ],
+    "interests": [
+      "airport",
+      "transport",
+      "first-trip"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "next",
+        "label": "Choose the ride to your hotel",
+        "reason": "Compare rail, bus and taxi door to door from your terminal."
+      },
+      {
+        "slug": "incheon-airport-late-night-arrival-guide",
+        "type": "alternative",
+        "label": "Plan for a late arrival",
+        "reason": "Find the terminal-specific last-departure links and arrange a fallback."
+      },
+      {
+        "slug": "first-trip-to-korea-planning-guide",
+        "type": "prepare",
+        "label": "Get ready for your first trip",
+        "reason": "Check entry requirements, hotel location and what to arrange before the flight."
+      }
+    ],
+    "sources": [
+      {
+        "id": "incheon-arrival-arrival",
+        "title": "Incheon Airport — Arrival procedures",
+        "url": "https://www.airport.kr/ap_en/1439/subview.do",
+        "checkedAt": "2026-11-23",
+        "note": "Terminal and concourse routing, immigration and baggage claim."
+      },
+      {
+        "id": "incheon-arrival-lookup",
+        "title": "Incheon Airport — Search arrival flights",
+        "url": "https://www.airport.kr/ap_en/1399/subview.do",
+        "checkedAt": "2026-11-23",
+        "note": "Current operating flight and arrival terminal."
+      },
+      {
+        "id": "incheon-arrival-transfer",
+        "title": "Incheon Airport — International transfer guide",
+        "url": "https://www.airport.kr/ap_en/1462/subview.do",
+        "checkedAt": "2026-11-23",
+        "note": "Transfer signs, security and airline-specific handling."
+      },
+      {
+        "id": "incheon-arrival-entry-card",
+        "title": "Korea Immigration Service — Who needs an e-Arrival Card?",
+        "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do?locale=E",
+        "checkedAt": "2026-11-23",
+        "note": "Eligibility and exemptions for the free entry declaration."
+      },
+      {
+        "id": "incheon-arrival-customs",
+        "title": "Incheon Airport — Customs declaration",
+        "url": "https://www.airport.kr/ap_en/1445/subview.do",
+        "checkedAt": "2026-11-23",
+        "note": "Arrivals customs lanes and declaration procedure."
+      },
+      {
+        "id": "incheon-arrival-smartpass",
+        "title": "Incheon Airport — SmartPass",
+        "url": "https://www.airport.kr/ap_en/1415/subview.do",
+        "checkedAt": "2026-11-23",
+        "note": "Departure service and eligible uses."
+      }
+    ],
+    "shareFacts": [
+      "Check your terminal against the operating flight.",
+      "Entering Korea? Immigration → bags → customs → your ride."
+    ],
+    "heroCaption": "Public arrivals hall at Terminal 2, photographed in October 2024.",
+    "launchOrder": 1127,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "인천공항T2 입국장(도착,웨이팅).jpg",
+      "author": "Narubaru7",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT2_%EC%9E%85%EA%B5%AD%EC%9E%A5(%EB%8F%84%EC%B0%A9%2C%EC%9B%A8%EC%9D%B4%ED%8C%85).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Taken 13 October 2024. Resized and converted to WebP and cropped in the social preview card."
+    },
+    "heroMediaId": "incheon-t2-reunions-2024"
   }
 }

@@ -1764,5 +1764,20 @@
       "note": "Historical photograph from 2016-02-04. Resized and converted to WebP, and cropped in the preview card. Adaptations retain CC BY-SA 4.0 credit and license."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "incheon-airport-survival-guide-2026": {
+    "src": "/images/cards/incheon-airport-survival-guide-2026.jpg",
+    "fingerprint": "c97bc104dbc61eda37f4739cd3f1897b520fdddc233e844220a27c4aa2a6f642",
+    "sourceImage": "/images/editorial/incheon-t2-reunions-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "인천공항T2 입국장(도착,웨이팅).jpg",
+      "author": "Narubaru7",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT2_%EC%9E%85%EA%B5%AD%EC%9E%A5(%EB%8F%84%EC%B0%A9%2C%EC%9B%A8%EC%9D%B4%ED%8C%85).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Taken 13 October 2024. Resized and converted to WebP and cropped in the social preview card."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

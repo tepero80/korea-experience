@@ -458,6 +458,33 @@
       "downloadStatus": "downloaded",
       "copyrightLicenseCommerciallyPermitsReuse": true,
       "commercialReuseScope": "Copyright clearance covers the photograph, not any endorsement by the depicted brand."
+    },
+    {
+      "id": "incheon-t2-reunions-2024",
+      "title": "인천공항T2 입국장(도착,웨이팅).jpg",
+      "place": "Incheon Airport Terminal 2, public arrivals hall",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT2_%EC%9E%85%EA%B5%AD%EC%9E%A5(%EB%8F%84%EC%B0%A9%2C%EC%9B%A8%EC%9D%B4%ED%8C%85).jpg",
+      "permanentSourcePage": "https://commons.wikimedia.org/w/index.php?title=File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT2_%EC%9E%85%EA%B5%AD%EC%9E%A5(%EB%8F%84%EC%B0%A9%2C%EC%9B%A8%EC%9D%B4%ED%8C%85).jpg&oldid=1229727872",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/7/72/%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT2_%EC%9E%85%EA%B5%AD%EC%9E%A5%28%EB%8F%84%EC%B0%A9%2C%EC%9B%A8%EC%9D%B4%ED%8C%85%29.jpg",
+      "author": "Narubaru7",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "commercialReuse": true,
+      "attributionRequired": true,
+      "shareAlikeRequired": false,
+      "modificationRequirements": "Taken 13 October 2024. Resized and converted to WebP and cropped in the social preview card.",
+      "description": "Travelers waiting beyond the barrier in Incheon Airport Terminal 2’s public arrivals hall",
+      "capturedAt": "2024-10-13",
+      "width": 1440,
+      "height": 1080,
+      "verifiedAt": "2026-11-23",
+      "verification": "Wikimedia Commons file page and original SHA-1, visual review, checked for distinct hero use",
+      "localOriginal": ".private/media-originals/incheon-t2-reunions-narubaru7.jpg",
+      "sha256": "0a54b62fb6c905d32af4f63712be158b855ff14ce185ee7c61d6c8b9c16ff4de",
+      "downloadedBytes": 208286,
+      "downloadStatus": "downloaded",
+      "selectionStatus": "published",
+      "note": "Historical arrivals hall photograph."
     }
   ],
   "excludedCandidates": [
