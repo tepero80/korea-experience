@@ -88,7 +88,7 @@ export default async function Destination({ params }: { params: Params }) {
   if (!region) notFound();
   const posts = region.posts;
   const isGyeongju = id === 'gyeongju';
-  const arrival = posts.find((post) => post.slug === arrivalGuides[id]);
+  const arrival = posts.find((post) => post.slug === (region.arrivalGuide ?? arrivalGuides[id]));
   const cover = mediaFor(region.coverMediaId);
   const ranked = region.highlights?.flatMap((slug) => {
     const post = posts.find((guide) => guide.slug === slug);

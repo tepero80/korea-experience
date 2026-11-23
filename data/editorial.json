@@ -15674,6 +15674,12 @@
     ],
     "relations": [
       {
+        "slug": "suncheon-national-garden-first-visit",
+        "type": "next",
+        "label": "Choose your first garden route",
+        "reason": "Build an East Gate loop or decide whether the west-side facilities suit your group better."
+      },
+      {
         "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
         "type": "prepare",
         "label": "Find the intercity train first",
@@ -17539,6 +17545,285 @@
     },
     "heroMediaId": "olympic-park-line-five-sign-2018",
     "heroCaption": "The Line 5 Olympic Park Station sign in September 2018. The venue currently lists both Line 5 and Line 9. Use Exit 3 and follow event signs.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "suncheon-national-garden-first-visit": {
+    "id": "suncheon-garden-gate-and-first-loop",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Use the East Gate for the lake and themed gardens after a train. Choose the West Gate for its family facilities and save the coastal wetlands for a separate stop if you are short on time.",
+    "forWhom": "First-time visitors deciding which garden entrance and sights will fit their time",
+    "conditions": [
+      "Opening times and attraction schedules vary.",
+      "The garden and the tidal wetland use separate locations."
+    ],
+    "regions": [
+      "suncheon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "gardens",
+      "local-transport",
+      "families"
+    ],
+    "relations": [
+      {
+        "slug": "suncheon-station-to-national-garden-east-gate",
+        "label": "Get from the station to the garden",
+        "reason": "Use the right outbound stop and get off at the East Gate.",
+        "type": "prepare"
+      },
+      {
+        "slug": "suncheon-bay-wetland-reed-fields",
+        "label": "Walk the reed beds on a separate outing",
+        "reason": "Use a coastal route when reeds or the viewpoint are the main reason for your visit.",
+        "type": "nearby"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "suncheon-national-garden-east-gate",
+      "suncheon-railway-station"
+    ],
+    "sources": [
+      {
+        "id": "suncheon-garden-gate-and-first-loop-source-1",
+        "title": "Suncheon Bay National Garden operator",
+        "url": "https://scbay.suncheon.go.kr/garden/",
+        "note": "Gate and facility choices, regular daytime prices and current notices.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suncheon-garden-gate-and-first-loop-source-2",
+        "title": "Official directions to the National Garden",
+        "url": "https://scbay.suncheon.go.kr/garden/0016/0007/",
+        "note": "Station-to-East-Gate bus and map references.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suncheon-garden-gate-and-first-loop-source-3",
+        "title": "SkyCube operating and ticket information",
+        "url": "https://www.skycube.co.kr/",
+        "note": "Station names and separate reed-train timetable.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Choose a gate for the first attraction.",
+      "Use current SkyCube and reed-train timings for the connection."
+    ],
+    "launchOrder": 1191,
+    "changeType": "new",
+    "heroMediaId": "suncheon-garden-lake-mounds",
+    "heroCaption": "Paths and sculpted hills around the lake area of Suncheon Bay National Garden.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "lumoplank",
+      "title": "Suncheon Bay National Garden- Part I - SuncheonBNG2909.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suncheon_Bay_National_Garden-_Part_I_-_SuncheonBNG2909.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized from the source photograph and converted to WebP. Historic photograph. Check opening, routes and seasonal conditions separately."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "suncheon-bay-wetland-reed-fields": {
+    "id": "suncheon-bay-wetland-boardwalk-and-observatory",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Start at Suncheon Bay Wetland and walk the reed-bed boardwalk first. Add Yongsan Observatory only when the uphill path and your return time make it practical.",
+    "forWhom": "Travelers choosing a wetland walk, viewpoint or shorter alternative from Suncheon",
+    "conditions": [
+      "The boardwalk and uphill viewpoint suit different pace and mobility needs.",
+      "Closing time and last entry vary. Arrange your return before the climb."
+    ],
+    "regions": [
+      "suncheon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "wetland",
+      "walking",
+      "local-transport"
+    ],
+    "relations": [
+      {
+        "slug": "suncheon-national-garden-first-visit",
+        "label": "Compare the National Garden entrances",
+        "reason": "Choose a garden loop when you want landscaped paths or a different outing.",
+        "type": "alternative"
+      },
+      {
+        "slug": "naganeupseong-walled-town-from-suncheon",
+        "label": "Spend another day in a walled town",
+        "reason": "Plan transport separately for the village west of central Suncheon.",
+        "type": "next"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "suncheon-bay-wetland-overview",
+      "suncheon-railway-station"
+    ],
+    "sources": [
+      {
+        "id": "suncheon-bay-wetland-boardwalk-and-observatory-source-1",
+        "title": "Suncheon Bay Wetland operator",
+        "url": "https://scbay.suncheon.go.kr/wetland/",
+        "note": "Signed trails, current notices and guide map.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suncheon-bay-wetland-boardwalk-and-observatory-source-2",
+        "title": "Suncheon city bus routes to visitor sites",
+        "url": "https://www.sc.go.kr/traver/guide/0002/0001/",
+        "note": "Route 67’s station, terminal and wetland connection.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suncheon-bay-wetland-boardwalk-and-observatory-source-3",
+        "title": "Korea Tourism Organization’s wetland details",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=96951",
+        "note": "Address, regular hours and overview pin.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suncheon-bay-wetland-boardwalk-and-observatory-source-4",
+        "title": "KTO’s Yongsan Observatory listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=68749",
+        "note": "Viewpoint description.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suncheon-bay-wetland-boardwalk-and-observatory-source-5",
+        "title": "SkyCube operator",
+        "url": "https://www.skycube.co.kr/",
+        "note": "Connection and terms to check before combining sites.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Start on the reed trail and decide on the climb after that.",
+      "Use the wetland entrance on Suncheonman-gil."
+    ],
+    "launchOrder": 1192,
+    "changeType": "new",
+    "heroMediaId": "suncheon-wetland-boardwalk",
+    "heroCaption": "The boardwalk winds through the reeds at Suncheon Bay Wetland. Trail availability and reed color change with the season.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Jakob Reichmann",
+      "title": "Suncheon Bay Ecological Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suncheon_Bay_Ecological_Park.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized from the source photograph and converted to WebP. Adaptations retain CC BY-SA 3.0. Historic photograph. Check opening, routes and seasonal conditions separately."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "naganeupseong-walled-town-from-suncheon": {
+    "id": "suncheon-nagan-walled-town-visit-and-return",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Give Naganeupseong its own outing. Save a practical return route first, explore the lanes inside the walls and add the stairs only if conditions suit your group.",
+    "forWhom": "Visitors planning Naganeupseong from central Suncheon, especially without a car",
+    "conditions": [
+      "Bus frequency varies. Check both directions before leaving Suncheon.",
+      "Some wall segments require stairs and may be unsuitable in wet weather."
+    ],
+    "regions": [
+      "suncheon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "heritage",
+      "walking",
+      "local-transport"
+    ],
+    "relations": [
+      {
+        "slug": "suncheon-national-garden-first-visit",
+        "label": "Choose a closer outing if your return is tight",
+        "reason": "Plan a loop from a garden gate near your arrival route.",
+        "type": "alternative"
+      },
+      {
+        "slug": "suncheon-bay-wetland-reed-fields",
+        "label": "Save the coastal boardwalk for a separate day",
+        "reason": "Keep the inland village and wetland on different outings.",
+        "type": "nearby"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "suncheon-naganeupseong-village",
+      "suncheon-railway-station"
+    ],
+    "sources": [
+      {
+        "id": "suncheon-nagan-walled-town-visit-and-return-source-1",
+        "title": "Suncheon city visitor bus routes",
+        "url": "https://www.sc.go.kr/traver/guide/0002/0001/",
+        "note": "Lines 61, 63 and 68 via central Suncheon.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suncheon-nagan-walled-town-visit-and-return-source-2",
+        "title": "Naganeupseong running times and tickets",
+        "url": "https://www.sc.go.kr/nagan/page03/0001/",
+        "note": "Individual adult admission and seasonal ticket-counter hours.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suncheon-nagan-walled-town-visit-and-return-source-3",
+        "title": "Suncheon city heritage profile",
+        "url": "https://sc.go.kr/kr/info/0013/0001/0003/",
+        "note": "Historic buildings and trees within the site.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suncheon-nagan-walled-town-visit-and-return-source-4",
+        "title": "KTO’s Naganeupseong visitor listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80266",
+        "note": "Korean address and destination marker.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Arrange a return from the village before leaving the city.",
+      "The standard individual adult ticket is listed at ₩4,000."
+    ],
+    "launchOrder": 1193,
+    "changeType": "new",
+    "heroMediaId": "suncheon-nagan-roofscape",
+    "heroCaption": "Homes and surrounding hills seen from the walls at Naganeupseong.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Bernard Gagnon",
+      "title": "Naganeupseong Village 02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naganeupseong_Village_02.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized from the source photograph and converted to WebP. Historic photograph. Check opening, routes and seasonal conditions separately."
+    },
     "gallery": [],
     "experienceVersion": 2
   }

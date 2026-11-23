@@ -2724,5 +2724,50 @@
       "note": "Photographed 2018-09-15. Historic station photograph for orientation. Check the current operator directions. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "suncheon-national-garden-first-visit": {
+    "src": "/images/cards/suncheon-national-garden-first-visit.jpg",
+    "fingerprint": "b07becbb34dca30edd55f1a97a754dd83a3f3c8dad7d619d245dda620146f11c",
+    "sourceImage": "/images/editorial/suncheon-garden-lake-mounds-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "lumoplank",
+      "title": "Suncheon Bay National Garden- Part I - SuncheonBNG2909.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suncheon_Bay_National_Garden-_Part_I_-_SuncheonBNG2909.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized from the source photograph and converted to WebP. Historic photograph. Check opening, routes and seasonal conditions separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "suncheon-bay-wetland-reed-fields": {
+    "src": "/images/cards/suncheon-bay-wetland-reed-fields.jpg",
+    "fingerprint": "287d47d883f2b0c6d8ed76b0cfecd1f0e03f4b748ca75538fac2a482df91dc9f",
+    "sourceImage": "/images/editorial/suncheon-wetland-boardwalk-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Jakob Reichmann",
+      "title": "Suncheon Bay Ecological Park.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suncheon_Bay_Ecological_Park.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized from the source photograph and converted to WebP. Adaptations retain CC BY-SA 3.0. Historic photograph. Check opening, routes and seasonal conditions separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "naganeupseong-walled-town-from-suncheon": {
+    "src": "/images/cards/naganeupseong-walled-town-from-suncheon.jpg",
+    "fingerprint": "0a8ef366c054d4f38ad10749044934d26537a18c77afcf3aef50c2949cbe54cd",
+    "sourceImage": "/images/editorial/suncheon-nagan-roofscape-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Bernard Gagnon",
+      "title": "Naganeupseong Village 02.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Naganeupseong_Village_02.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized from the source photograph and converted to WebP. Historic photograph. Check opening, routes and seasonal conditions separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

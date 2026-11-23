@@ -304,5 +304,29 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 1
+  },
+  "suncheon-national-garden-first-visit": {
+    "mediaId": "suncheon-garden-lake-mounds",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "suncheon-bay-wetland-reed-fields": {
+    "mediaId": "suncheon-wetland-boardwalk",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "naganeupseong-walled-town-from-suncheon": {
+    "mediaId": "suncheon-nagan-roofscape",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "suncheon-station-to-national-garden-east-gate": {
+    "mediaId": "suncheon-garden-windmill-and-beds",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

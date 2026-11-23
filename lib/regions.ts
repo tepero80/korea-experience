@@ -6,6 +6,7 @@ export type Region = {
   coverMediaId: string;
   intro: string;
   tip: string;
+  arrivalGuide?: string;
   highlights?: readonly string[];
   onward?: readonly { regionId: string; reason: string }[];
   keepVisible?: boolean;
@@ -236,7 +237,10 @@ export const REGIONS: readonly Region[] = [
       'gwangju-airport-to-songjeong-station',
       'gwangju-national-museum-children-visit',
     ],
-    onward: [{ regionId: 'mokpo', reason: 'Choose a separate port or harbor day if your trip continues southwest.' }],
+    onward: [
+      { regionId: 'mokpo', reason: 'Choose a separate port or harbor day if your trip continues southwest.' },
+      { regionId: 'suncheon', reason: 'Continue into southern Jeolla for a garden or wetland day. Check the intercity leg separately.' },
+    ],
   },
   {
     id: 'mokpo',
@@ -252,6 +256,22 @@ export const REGIONS: readonly Region[] = [
       'mokpo-modern-history-museum-harbor-weather-plan',
     ],
     onward: [{ regionId: 'gwangju', reason: 'Plan an indoor city outing separately around the Asia Culture Center and your Gwangju-Songjeong arrival.' }],
+  },
+  {
+    id: 'suncheon',
+    name: 'Suncheon',
+    nameKo: '순천',
+    area: 'Jeolla',
+    coverMediaId: 'suncheon-wetland-winter-waterbird-hub',
+    intro: 'Choose a garden loop, walk the coastal reed beds or spend a separate half-day inside the walls of Naganeupseong.',
+    tip: 'The National Garden and the wetland use different entrances. Arrange the return from the wetland or Naganeupseong before leaving the city.',
+    arrivalGuide: 'suncheon-station-to-national-garden-east-gate',
+    highlights: [
+      'suncheon-national-garden-first-visit',
+      'suncheon-bay-wetland-reed-fields',
+      'naganeupseong-walled-town-from-suncheon',
+    ],
+    onward: [{ regionId: 'gwangju', reason: 'Plan a separate city stay with an indoor culture visit and a different rail arrival.' }],
   },
 ];
 

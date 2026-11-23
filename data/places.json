@@ -1876,5 +1876,31 @@
     "description": "Use the separately named concert arena pin inside Olympic Park. Confirm the event-specific entrance with the organizer.",
     "officialUrl": "https://www.ksponco.or.kr/menu.es?mid=a20301030800",
     "checkedAt": "2026-11-23"
+  },
+  {
+    "id": "suncheon-bay-wetland-overview",
+    "name": "Suncheon Bay Wetland",
+    "nameKo": "순천만습지",
+    "address": "순천시 순천만길 513-25",
+    "latitude": 34.8858016084076,
+    "longitude": 127.5092830428,
+    "officialUrl": "https://scbay.suncheon.go.kr/wetland/",
+    "description": "Choose the reed-bed trail from the visitor area and check whether the Yongsan route fits your visit.",
+    "region": "suncheon",
+    "checkedAt": "2026-11-23",
+    "sourceNote": "Korea Tourism Organization destination marker; specific entrance or route not implied. https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=96951"
+  },
+  {
+    "id": "suncheon-naganeupseong-village",
+    "name": "Naganeupseong Walled Town",
+    "nameKo": "순천 낙안읍성",
+    "address": "순천시 낙안면 충민길 30",
+    "latitude": 34.9070559477978,
+    "longitude": 127.339777950015,
+    "officialUrl": "https://www.sc.go.kr/nagan/page01/0003/",
+    "description": "Inhabited heritage village. Check the nearest open gate, suitable paths and return transport.",
+    "region": "suncheon",
+    "checkedAt": "2026-11-23",
+    "sourceNote": "Korea Tourism Organization destination marker; specific entrance or route not implied. https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80266"
   }
 ]
