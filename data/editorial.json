@@ -2040,6 +2040,12 @@
         "reason": "Confirm the minimum portions, cut, cooking help and extra charges before the grill starts."
       },
       {
+        "slug": "late-night-dining-24-hour-restaurants-in-seoul",
+        "type": "next",
+        "label": "Find dinner after normal hours",
+        "reason": "Check a specific kitchen’s last order before traveling."
+      },
+      {
         "slug": "navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact",
         "type": "prepare",
         "label": "Prepare this too",
@@ -2792,6 +2798,12 @@
         "type": "next",
         "label": "Your next decision",
         "reason": "Choose the district for the products you want, compare total costs and protect time for packing."
+      },
+      {
+        "slug": "custom-name-stamps-dojang-2026",
+        "type": "next",
+        "label": "Order a personalized Insadong stamp",
+        "reason": "Confirm spelling, price and pickup before you order a custom gift."
       },
       {
         "slug": "tax-refund-for-tourists-how-to-claim",
@@ -25717,6 +25729,12 @@
         "reason": "If an overnight slot does not fit, use the separate Bulguksa and Seokguram day-visit route."
       },
       {
+        "slug": "rural-farm-stays-agritourism-experiences",
+        "type": "alternative",
+        "label": "Compare a village guesthouse stay",
+        "reason": "Check a named room in Asan or plan a separate day visit."
+      },
+      {
         "slug": "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026",
         "type": "prepare",
         "label": "Fit the visit around your Gyeongju base",
@@ -26391,5 +26409,316 @@
     "experienceVersion": 2,
     "cardImageCrop": "contain",
     "cardImageLabel": "Yongsan Station · 2023"
+  },
+  "late-night-dining-24-hour-restaurants-in-seoul": {
+    "id": "guide:late-night-dining-24-hour-restaurants-in-seoul",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Pick a restaurant near where you already are. Check the last order before leaving, even if the listing says 24 hours, and confirm how you will get back.",
+    "forWhom": "Seoul visitors who need a hot meal after an evening arrival, event or late check-in",
+    "conditions": [
+      "The named listings are starting points. Verify current kitchen hours, holiday exceptions and seating for your group."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "late-night food",
+      "Seoul restaurants",
+      "Jongno",
+      "Seongsu",
+      "Cheongdam"
+    ],
+    "relations": [
+      {
+        "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+        "type": "prepare",
+        "label": "Know what to ask and order",
+        "reason": "Use the Korean dining phrases when checking the kitchen or menu."
+      },
+      {
+        "slug": "taba-taxi-and-kride-2026",
+        "type": "next",
+        "label": "Plan a way back after dinner",
+        "reason": "Work out payment and your return route before the meal."
+      },
+      {
+        "slug": "incheon-airport-late-night-arrival-guide",
+        "type": "alternative",
+        "label": "Plan food and transport after a late flight",
+        "reason": "Set a fallback close to your accommodation if you are coming from the airport."
+      }
+    ],
+    "tools": [],
+    "placeIds": [
+      "seoul-yeongchunok-jongno",
+      "seoul-seongsu-gamjatang-main",
+      "seoul-saebyeokjip-cheongdam"
+    ],
+    "shareFacts": [
+      "Check the kitchen’s last order",
+      "Choose a restaurant near you",
+      "Check the return route before going"
+    ],
+    "sources": [
+      {
+        "id": "guide:late-night-dining-24-hour-restaurants-in-seoul-source-1",
+        "title": "Visit Seoul: Yeongchunok",
+        "url": "https://english.visitseoul.net/area/Yeongchunok/ENP012404",
+        "note": "Jongno address, phone and holiday exceptions for the 24-hour listing.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:late-night-dining-24-hour-restaurants-in-seoul-source-2",
+        "title": "Visit Seoul: Somunnan Seongsu Gamjatang",
+        "url": "https://english.visitseoul.net/restaurants/SeongsuGamjatang/ENPlceoxk",
+        "note": "Main Seongsu location, 24-hour listing and group seating conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:late-night-dining-24-hour-restaurants-in-seoul-source-3",
+        "title": "Visit Seoul: Saebyeokjip",
+        "url": "https://english.visitseoul.net/restaurants/Saebyeokjip/ENP005433",
+        "note": "Cheongdam address, phone and holiday exceptions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:late-night-dining-24-hour-restaurants-in-seoul-source-4",
+        "title": "VisitKorea: Dongdaemun Bonga",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=60481",
+        "note": "An example of a 24-hour listing with a separate last-order cutoff.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:late-night-dining-24-hour-restaurants-in-seoul-source-5",
+        "title": "VisitKorea: seolleongtang",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178349",
+        "note": "Identifies ox-bone soup as a separate dish from the pork-bone soup in Seongsu.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1287,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-jongno3ga-exit-3-night-2025",
+    "heroCaption": "Jongno 3-ga Station Exit 3 after dark in March 2025. For Yeongchunok, the tourism listing points to Exit 2-1.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Narubaru7",
+      "title": "종로3가역 야경.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%A2%85%EB%A1%9C3%EA%B0%80%EC%97%AD_%EC%95%BC%EA%B2%BD.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Jongno 3-ga after dark · 2025"
+  },
+  "custom-name-stamps-dojang-2026": {
+    "id": "guide:custom-name-stamps-dojang-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Bring the exact characters you want on the stamp. At Saegimsori in Insadong, approve the spelling and ask for the full price and pickup time before paying.",
+    "forWhom": "Visitors ordering a personalized stamp as a souvenir or gift",
+    "conditions": [
+      "Stock and collection time depend on the design and shop. Leave time to return for pickup."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "dojang",
+      "Insadong",
+      "Korean crafts",
+      "custom souvenirs"
+    ],
+    "relations": [
+      {
+        "slug": "insadong-traditional-crafts-and-souvenirs",
+        "type": "next",
+        "label": "Browse other Insadong craft gifts",
+        "reason": "Compare an in-stock gift if a custom order cannot be ready in time."
+      },
+      {
+        "slug": "choosing-korean-cultural-experiences-reservations-and-walk-in-options",
+        "type": "alternative",
+        "label": "Choose a Korean cultural activity",
+        "reason": "Check whether a separate workshop needs a reservation."
+      }
+    ],
+    "tools": [],
+    "placeIds": [
+      "seoul-saegimsori-insadong"
+    ],
+    "shareFacts": [
+      "Confirm the inscription before paying",
+      "Get a quote and pickup time",
+      "Check the imprint before leaving"
+    ],
+    "sources": [
+      {
+        "id": "guide:custom-name-stamps-dojang-2026-source-1",
+        "title": "Saegimsori: shop directions and hours",
+        "url": "https://saegimsori.com/mainbanner/saegimsorimap.html",
+        "note": "Confirms the street address, floor and operator contact, with walking videos.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:custom-name-stamps-dojang-2026-source-2",
+        "title": "Saegimsori: example of a personalized seal",
+        "url": "https://saegimsori.com/product/detail.html?cate_no=1&display_group=2&product_no=2536",
+        "note": "Shows the required exact inscription and optional choices.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:custom-name-stamps-dojang-2026-source-3",
+        "title": "Visit Seoul: Saegimsori",
+        "url": "https://english.visitseoul.net/attractions/Saegimsori/ENP011781",
+        "note": "Identifies the Insadong shop and its location.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:custom-name-stamps-dojang-2026-source-4",
+        "title": "The Met: 12th-century Korean seal",
+        "url": "https://www.metmuseum.org/art/collection/search/57455",
+        "note": "Identifies the photographed historic object and public-domain image.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1288,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-korean-goryeo-bronze-seal-met",
+    "heroCaption": "A 12th-century Goryeo bronze seal in The Metropolitan Museum of Art. This historic object is separate from the personalized stamps sold in Insadong today.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "The Metropolitan Museum of Art",
+      "title": "Seal, 17.175.55",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/57455",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "The Metropolitan Museum of Art, Rogers Fund, 1917, 17.175.55. Museum public-domain image distributed under its Open Access policy. Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Goryeo bronze seal · The Met"
+  },
+  "rural-farm-stays-agritourism-experiences": {
+    "id": "guide:rural-farm-stays-agritourism-experiences",
+    "categoryId": "where-to-stay",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Book a named house and date if you want to stay overnight. For an activity or a walk, check the day visit separately and plan a return from the village before booking transport.",
+    "forWhom": "Travelers deciding how to visit or stay in a Korean farming village",
+    "conditions": [
+      "Traditional-house stays and seasonal activities have separate booking rules. Confirm availability and the final walk with the operator."
+    ],
+    "regions": [
+      "asan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Asan",
+      "Oeam Folk Village",
+      "rural stays",
+      "traditional accommodation"
+    ],
+    "relations": [
+      {
+        "slug": "first-trip-to-korea-planning-guide",
+        "type": "prepare",
+        "label": "Fit a rural stay into the wider itinerary",
+        "reason": "Check room and transport commitments before fixing the rest of the route."
+      },
+      {
+        "slug": "mountain-temples-meditation-retreats-for-foreigners",
+        "type": "alternative",
+        "label": "Compare a separately booked temple stay",
+        "reason": "See a different kind of overnight heritage experience and its arrival rules."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "asan-oeam-folk-village"
+    ],
+    "shareFacts": [
+      "Check a named house and date",
+      "Day activities have a separate schedule",
+      "Confirm the return ride and final walk"
+    ],
+    "sources": [
+      {
+        "id": "guide:rural-farm-stays-agritourism-experiences-source-1",
+        "title": "VisitKorea: Oeam Folk Village",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110965",
+        "note": "Places Oeam in Asan and identifies the village address and farming-village context.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:rural-farm-stays-agritourism-experiences-source-2",
+        "title": "Oeam: room booking and conditions",
+        "url": "https://oeam.co.kr/main/index.php?m_id=28",
+        "note": "Lists named houses, date selection and booking conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:rural-farm-stays-agritourism-experiences-source-3",
+        "title": "Oeam: day programs",
+        "url": "https://oeam.co.kr/main/index.php?m_cd=24",
+        "note": "Lists individual signup separately from group and seasonal programs.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:rural-farm-stays-agritourism-experiences-source-4",
+        "title": "Oeam: village admission and hours",
+        "url": "https://oeam.co.kr/main/index.php?m_id=31",
+        "note": "Separates regular admission from some Monday facility closures.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:rural-farm-stays-agritourism-experiences-source-5",
+        "title": "Oeam: directions",
+        "url": "https://oeam.co.kr/main/index.php?m_id=15",
+        "note": "Identifies the station, local bus stop and the village address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:rural-farm-stays-agritourism-experiences-source-6",
+        "title": "Oeam: village and lodging map",
+        "url": "https://oeam.co.kr/main/index.php?m_cd=32",
+        "note": "Shows the separately named houses inside the village.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1289,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-asan-oeam-thatched-courtyard-2010",
+    "heroCaption": "Thatched buildings around a courtyard at Oeam Folk Village in Asan, photographed in 2010. Check photos and access for the particular guesthouse you book.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Jjw",
+      "title": "Oeam Folk Village 2010.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oeam_Folk_Village_2010.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Oeam Folk Village · Asan"
   }
 }

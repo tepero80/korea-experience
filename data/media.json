@@ -9834,5 +9834,92 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "capturedAt": "2023-01-24"
+  },
+  {
+    "id": "archive-seoul-seolleongtang-context-2018",
+    "src": "/images/editorial/archive-seoul-seolleongtang-context-2018-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-seolleongtang-context-2018-640.webp 640w, /images/editorial/archive-seoul-seolleongtang-context-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "A bowl of pale beef-bone soup with sliced beef, noodles and green onion, photographed in Seoul.",
+    "focal": "50% 54%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seolleongtang_1.jpg",
+    "originalHash": "4ed315a0f9680c2f8a0628f8e59d090842b14f09d0165d73a3ce41c5b2917df4",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "lazy fri13th",
+      "title": "Seolleongtang 1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seolleongtang_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2018-11-10"
+  },
+  {
+    "id": "archive-korean-goryeo-bronze-seal-met",
+    "src": "/images/editorial/archive-korean-goryeo-bronze-seal-met-1280.webp",
+    "srcSet": "/images/editorial/archive-korean-goryeo-bronze-seal-met-640.webp 640w, /images/editorial/archive-korean-goryeo-bronze-seal-met-1280.webp 899w",
+    "width": 899,
+    "height": 1200,
+    "alt": "A bronze Korean seal with two stylized animals lifting a vessel above an octagonal base.",
+    "focal": "50% 50%",
+    "originalId": "https://www.metmuseum.org/art/collection/search/57455",
+    "originalHash": "d00b11dcf2bceda33ff55b2686c04e166efae8cbf2a2e80f6b3e6b26420c8a86",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "The Metropolitan Museum of Art",
+      "title": "Seal, 17.175.55",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/57455",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "The Metropolitan Museum of Art, Rogers Fund, 1917, 17.175.55. Museum public-domain image distributed under its Open Access policy. Resized and converted to WebP. The image records the scene at the time of photography."
+    }
+  },
+  {
+    "id": "archive-asan-oeam-thatched-courtyard-2010",
+    "src": "/images/editorial/archive-asan-oeam-thatched-courtyard-2010-1280.webp",
+    "srcSet": "/images/editorial/archive-asan-oeam-thatched-courtyard-2010-640.webp 640w, /images/editorial/archive-asan-oeam-thatched-courtyard-2010-1280.webp 1280w",
+    "width": 1280,
+    "height": 857,
+    "alt": "A courtyard between low thatched buildings at Oeam Folk Village in Asan.",
+    "focal": "51% 52%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Oeam_Folk_Village_2010.JPG",
+    "originalHash": "105c599e19f4db352b04b0a2e1607ed0f924026f545a108b41f34bea98f97e8d",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Jjw",
+      "title": "Oeam Folk Village 2010.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oeam_Folk_Village_2010.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2010-07-31"
+  },
+  {
+    "id": "archive-seoul-jongno3ga-exit-3-night-2025",
+    "src": "/images/editorial/archive-seoul-jongno3ga-exit-3-night-2025-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-jongno3ga-exit-3-night-2025-640.webp 640w, /images/editorial/archive-seoul-jongno3ga-exit-3-night-2025-1280.webp 1280w",
+    "width": 1280,
+    "height": 1412,
+    "alt": "The illuminated Exit 3 sign and surrounding street at Jongno 3-ga Station in Seoul after dark.",
+    "focal": "49% 43%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%A2%85%EB%A1%9C3%EA%B0%80%EC%97%AD_%EC%95%BC%EA%B2%BD.jpg",
+    "originalHash": "1fc7299dec0ed5adeae32a2533cdcf4ba4ed32b34debc5f7313ae6f7135ffd68",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Narubaru7",
+      "title": "종로3가역 야경.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%A2%85%EB%A1%9C3%EA%B0%80%EC%97%AD_%EC%95%BC%EA%B2%BD.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2025-03-12"
   }
 ]

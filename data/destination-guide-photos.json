@@ -922,5 +922,17 @@
     "subjectUsefulness": 2,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "late-night-dining-24-hour-restaurants-in-seoul": {
+    "mediaId": "archive-seoul-jongno3ga-exit-3-night-2025",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "rural-farm-stays-agritourism-experiences": {
+    "mediaId": "archive-asan-oeam-thatched-courtyard-2010",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

@@ -2705,5 +2705,72 @@
     "description": "Royal residence overview point near Anguk. Check the current walking approach, event closures and access at the site.",
     "sourceNote": "Korea Tourism Organization publishes this point and address for the compound. The point does not identify an individual gate.",
     "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "seoul-yeongchunok-jongno",
+    "region": "seoul",
+    "name": "Yeongchunok",
+    "nameKo": "영춘옥",
+    "latitude": 37.571350806402805,
+    "longitude": 126.99150367416406,
+    "address": "서울특별시 종로구 돈화문로5가길 13",
+    "officialUrl": "https://english.visitseoul.net/area/Yeongchunok/ENP012404",
+    "description": "Jongno 3-ga soup stop. Confirm the last order and holiday hours before traveling.",
+    "checkedAt": "2026-11-24",
+    "sourceNote": "Visit Seoul provides the address and map coordinates. The point identifies the place, not a checked entrance or accessible approach."
+  },
+  {
+    "id": "seoul-seongsu-gamjatang-main",
+    "region": "seoul",
+    "name": "Somunnan Seongsu Gamjatang",
+    "nameKo": "소문난성수감자탕",
+    "latitude": 37.5428826481781,
+    "longitude": 127.054408010395,
+    "address": "서울특별시 성동구 연무장길 45",
+    "officialUrl": "https://english.visitseoul.net/restaurants/SeongsuGamjatang/ENPlceoxk",
+    "description": "Use the main location on Yeonmujang-gil. Ask about seating and the current last order.",
+    "checkedAt": "2026-11-24",
+    "sourceNote": "Visit Seoul provides the address and map coordinates. The point identifies the place, not a checked entrance or accessible approach."
+  },
+  {
+    "id": "seoul-saebyeokjip-cheongdam",
+    "region": "seoul",
+    "name": "Saebyeokjip",
+    "nameKo": "새벽집",
+    "latitude": 37.525517891060495,
+    "longitude": 127.05290776204716,
+    "address": "서울특별시 강남구 도산대로101길 6",
+    "officialUrl": "https://english.visitseoul.net/restaurants/Saebyeokjip/ENP005433",
+    "description": "A separate Cheongdam option. Confirm the kitchen and return route before setting out.",
+    "checkedAt": "2026-11-24",
+    "sourceNote": "Visit Seoul provides the address and map coordinates. The point identifies the place, not a checked entrance or accessible approach."
+  },
+  {
+    "id": "seoul-saegimsori-insadong",
+    "region": "seoul",
+    "name": "Saegimsori Insadong",
+    "nameKo": "새김소리",
+    "latitude": 37.574412,
+    "longitude": 126.985284,
+    "address": "서울특별시 종로구 인사동길 33 1층",
+    "officialUrl": "https://english.visitseoul.net/attractions/Saegimsori/ENP011781",
+    "description": "The operator places the shop on the first floor. Confirm the exact inscription and collection time before paying.",
+    "checkedAt": "2026-11-24",
+    "sourceNote": "Visit Seoul provides the address and map coordinates. The point identifies the place, not a checked entrance or accessible approach.",
+    "visitorUrl": "https://saegimsori.com/mainbanner/saegimsorimap.html"
+  },
+  {
+    "id": "asan-oeam-folk-village",
+    "region": "asan",
+    "name": "Oeam Folk Village",
+    "nameKo": "외암민속마을",
+    "latitude": 36.7309906469047,
+    "longitude": 127.014430219092,
+    "address": "충청남도 아산시 송악면 외암민속길9번길 13-2",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110965",
+    "description": "Village overview point. Use the operator’s lodging map or the address from your host for the final walk.",
+    "checkedAt": "2026-11-24",
+    "sourceNote": "VisitKorea provides the address and map coordinates. The point identifies the place, not a checked entrance or accessible approach.",
+    "visitorUrl": "https://oeam.co.kr/main/index.php?m_cd=32"
   }
 ]

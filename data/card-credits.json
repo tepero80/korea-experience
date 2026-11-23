@@ -4158,5 +4158,50 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "late-night-dining-24-hour-restaurants-in-seoul": {
+    "src": "/images/cards/late-night-dining-24-hour-restaurants-in-seoul.jpg",
+    "fingerprint": "a6dc2e516135f1a9e9ef62993837b0dc4f7d4a0ac16ea32a72550c671556622a",
+    "sourceImage": "/images/editorial/archive-seoul-jongno3ga-exit-3-night-2025-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Narubaru7",
+      "title": "종로3가역 야경.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%A2%85%EB%A1%9C3%EA%B0%80%EC%97%AD_%EC%95%BC%EA%B2%BD.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "custom-name-stamps-dojang-2026": {
+    "src": "/images/cards/custom-name-stamps-dojang-2026.jpg",
+    "fingerprint": "9ce2e8e543382a4ea7b8b5fa72ed230d64c2f3fddffed2e28372856385d583e4",
+    "sourceImage": "/images/editorial/archive-korean-goryeo-bronze-seal-met-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "The Metropolitan Museum of Art",
+      "title": "Seal, 17.175.55",
+      "sourceUrl": "https://www.metmuseum.org/art/collection/search/57455",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "The Metropolitan Museum of Art, Rogers Fund, 1917, 17.175.55. Museum public-domain image distributed under its Open Access policy. Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "rural-farm-stays-agritourism-experiences": {
+    "src": "/images/cards/rural-farm-stays-agritourism-experiences.jpg",
+    "fingerprint": "2047962b25f5f2bae3917b159aeafcdfd9e9f49fb127da8d66fab66ba296fba8",
+    "sourceImage": "/images/editorial/archive-asan-oeam-thatched-courtyard-2010-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Jjw",
+      "title": "Oeam Folk Village 2010.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Oeam_Folk_Village_2010.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

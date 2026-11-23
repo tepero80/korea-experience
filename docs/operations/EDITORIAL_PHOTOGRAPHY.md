@@ -25,6 +25,7 @@ Read this check before choosing or replacing a guide photograph, a destination c
 - Triage archive covers that could send visitors to the wrong building, platform, terminal or site before composition changes. If the underlying route or opening information is also in doubt, verify or revise that information before featuring the guide. A dated image of a former facility can appear as context with a caption about its date and a current alternative in the guide.
 - If a misleading archive cover has no verified replacement yet, publish the corrected visitor guidance with a typographic share card. Record the specific `heroOmissionReason` in the guide's editorial record and keep the guide available in the full guide list while a suitable original is sourced. New guides require a distinct licensed photograph. Photo-led destination cards still require the checked asset and score above.
 - Separately check the narrow share crop and mobile plan card for a useful landmark. For an arrival guide, keep the station or terminal sign readable where the photo is used for identification. If a destination has two photos of the same landmark, compare the actual source files and compositions before using one for the hub and the other for its guide.
+- When a context photo shows a different exit or approach, identify both the photographed exit and the route travelers should use in the caption. A dish or historic object can explain the subject in an article. It cannot verify a shop's menu, hours, merchandise or the appearance of a guest room.
 
 ## Initial editorial review
 
