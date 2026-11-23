@@ -961,10 +961,22 @@
 .list-meta {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   flex-wrap: wrap;
   gap: 15px;
   font-size: 13px;
   color: #62716b;
+}
+.list-meta > a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+  color: var(--ke-amber);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.list-meta > a:hover {
+  text-decoration-thickness: 2px;
 }
 .guide-discussion {
   border-top: 1px solid #dce2db;

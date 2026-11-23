@@ -1,9 +1,31 @@
 import fs from 'node:fs';
+import { CATEGORY_HUBS, SITE_CONFIG } from '../lib/constants';
 import { getLaunchGuides } from '../lib/posts';
 import { TOOL_PREVIEWS, toolPreviewImage } from '../lib/tool-preview';
 import { parse, type DefaultTreeAdapterTypes as Tree } from 'parse5';
 const errors: string[] = [];
 const rssAlternate = 'rel="alternate" type="application/rss+xml" href="https://koreaexperience.com/feed"';
+
+function exportedMetadata(html: string) {
+  const tags = new Map<string, string>();
+  const visit = (node: Tree.Node) => {
+    if ('tagName' in node) {
+      const attrs = Object.fromEntries(node.attrs.map((a) => [a.name, a.value]));
+      if (node.tagName === 'meta') tags.set(attrs.property || attrs.name, attrs.content);
+      if (node.tagName === 'link' && attrs.rel === 'canonical') tags.set('canonical', attrs.href);
+      if (node.tagName === 'title') {
+        tags.set(
+          'title',
+          node.childNodes.map((child) => ('value' in child ? child.value : '')).join(''),
+        );
+      }
+    }
+    if ('childNodes' in node) for (const child of node.childNodes) visit(child);
+  };
+  visit(parse(html));
+  return tags;
+}
+
 for (const file of [
   'out/index.html',
   'out/blog.html',
@@ -45,22 +67,47 @@ for (const p of getLaunchGuides()) {
   if (!fs.readFileSync('out/sitemap.xml', 'utf8').includes('/blog/' + p.slug + '</loc>'))
     errors.push('Missing sitemap entry ' + p.slug);
 }
+const numberingDir = 'out/blog/page';
+const numberedPages = fs.existsSync(numberingDir)
+  ? fs.readdirSync(numberingDir).filter((file) => /^\d+\.html$/.test(file))
+  : [];
+const guideCollections = [
+  '/blog',
+  '/blog/category',
+  ...CATEGORY_HUBS.map(({ slug }) => '/blog/category/' + slug),
+  ...numberedPages.map((file) => '/blog/page/' + file.slice(0, -5)),
+];
+for (const path of guideCollections) {
+  const tags = exportedMetadata(fs.readFileSync(`out${path}.html`, 'utf8'));
+  const canonical = SITE_CONFIG.url + path;
+  for (const key of ['canonical', 'og:url']) {
+    if (tags.get(key) !== canonical) errors.push(key + ' mismatch ' + path);
+  }
+  const title = tags.get('og:title');
+  if (
+    !title ||
+    tags.get('title') !== `${title} | ${SITE_CONFIG.name}` ||
+    tags.get('title')?.endsWith(` | ${SITE_CONFIG.name} | ${SITE_CONFIG.name}`) ||
+    tags.get('twitter:title') !== title
+  ) {
+    errors.push('Collection title mismatch ' + path);
+  }
+  const description = tags.get('description');
+  if (
+    !description ||
+    tags.get('og:description') !== description ||
+    tags.get('twitter:description') !== description
+  ) {
+    errors.push('Collection description mismatch ' + path);
+  }
+}
 for (const tool of TOOL_PREVIEWS) {
   const file = `out${tool.href}.html`;
   if (!fs.existsSync(file)) {
     errors.push('Missing exported tool ' + tool.slug);
     continue;
   }
-  const tags = new Map<string, string>();
-  const visit = (node: Tree.Node) => {
-    if ('tagName' in node) {
-      const attrs = Object.fromEntries(node.attrs.map((a) => [a.name, a.value]));
-      if (node.tagName === 'meta') tags.set(attrs.property || attrs.name, attrs.content);
-      if (node.tagName === 'link' && attrs.rel === 'canonical') tags.set('canonical', attrs.href);
-    }
-    if ('childNodes' in node) for (const child of node.childNodes) visit(child);
-  };
-  visit(parse(fs.readFileSync(file, 'utf8')));
+  const tags = exportedMetadata(fs.readFileSync(file, 'utf8'));
   const canonical = 'https://koreaexperience.com' + tool.href;
   for (const key of ['canonical', 'og:url'])
     if (tags.get(key) !== canonical) errors.push(key + ' mismatch ' + tool.slug);
@@ -80,5 +127,5 @@ if (errors.length) {
   process.exit(1);
 }
 console.log(
-  'Exported guide HTML and tool OG/Twitter identity, canonical, sources, cards and sitemap checks passed.',
+  'Exported guide HTML, collection metadata, tool previews, sources, cards and sitemap checks passed.',
 );

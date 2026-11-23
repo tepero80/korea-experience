@@ -2,6 +2,27 @@ import type { Metadata } from 'next';
 import { GUIDE_FEED_TYPES, SITE_CONFIG } from './constants';
 import type { PostMetadata } from './posts';
 import { toolPreviewImage, type ToolPreview } from './tool-preview';
+
+export function guideCollectionMetadata(title: string, description: string, path: string): Metadata {
+  const canonical = SITE_CONFIG.url + path;
+  const image = '/images/cards/korea-experience.jpg';
+  return {
+    title,
+    description,
+    alternates: { canonical, types: GUIDE_FEED_TYPES },
+    openGraph: {
+      type: 'website',
+      title,
+      description,
+      url: canonical,
+      siteName: SITE_CONFIG.name,
+      locale: 'en_US',
+      images: [{ url: image, alt: SITE_CONFIG.name, width: 1200, height: 630 }],
+    },
+    twitter: { card: 'summary_large_image', title, description, images: [image] },
+  };
+}
+
 export function toolMetadata(tool: ToolPreview): Metadata {
   const canonical = SITE_CONFIG.url + tool.href;
   const image = SITE_CONFIG.url + toolPreviewImage(tool);

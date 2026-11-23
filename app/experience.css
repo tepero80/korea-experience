@@ -1178,6 +1178,44 @@ button:disabled {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+.library-page-jump {
+  margin-bottom: 20px;
+}
+.library-page-jump ol {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(44px, 1fr));
+  gap: 8px;
+  max-width: 48rem;
+  padding: 4px 0;
+  margin: 0;
+  list-style: none;
+}
+.library-page-jump ol li {
+  border: 0;
+}
+.library-page-jump ol a,
+.library-page-jump ol [aria-current='page'] {
+  display: grid;
+  min-height: 44px;
+  place-items: center;
+  padding: 4px;
+  border: 1px solid var(--ke-line);
+  border-radius: 8px;
+  color: var(--ke-ink);
+  font-size: 16px;
+  font-weight: 600;
+  font-variant-numeric: tabular-nums;
+  text-decoration: none;
+}
+.library-page-jump ol a:hover {
+  border-color: var(--ke-amber);
+  color: var(--ke-amber);
+  background: #f0f7f4;
+}
+.library-page-jump ol [aria-current='page'] {
+  color: #fff;
+  background: var(--ke-ink);
+}
 .destination-directory {
   margin: 32px 0;
   border-block: 1px solid var(--ke-line);

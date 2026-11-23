@@ -1,11 +1,11 @@
 import Link from 'next/link';
-import { GUIDE_FEED_TYPES } from '@/lib/constants';
+import { guideCollectionMetadata } from '@/lib/seo';
 import { TRAVEL_CATEGORIES } from '@/lib/taxonomy';
-export const metadata = {
-  title: 'Choose a Korea travel guide category',
-  description: 'Eight practical collections organized around the decisions you need to make.',
-  alternates: { canonical: 'https://koreaexperience.com/blog/category', types: GUIDE_FEED_TYPES },
-};
+export const metadata = guideCollectionMetadata(
+  'Korea travel guides by category',
+  'Choose from eight travel collections covering plans, airports, accommodation, places, food, shopping, culture, and travel essentials.',
+  '/blog/category',
+);
 export default function Categories() {
   return (
     <div className="wrap library-page">

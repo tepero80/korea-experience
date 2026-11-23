@@ -1,5 +1,7 @@
 import { TRAVEL_CATEGORIES, LEGACY_CATEGORY_HUBS } from './taxonomy';
 export const GUIDE_FEED_TYPES = { 'application/rss+xml': '/feed' };
+export const GUIDE_LIBRARY_DESCRIPTION =
+  'Find Korea travel guides for arrival, transport, accommodation, routes, food, shopping, and everyday essentials.';
 
 export const SITE_CONFIG = {
   name: 'Korea Experience',
@@ -350,7 +352,7 @@ export const CATEGORY_HUBS = [
   ...TRAVEL_CATEGORIES.map((c) => ({
     ...c,
     gradient: 'from-amber-600 to-orange-700',
-    metaTitle: `${c.name} in Korea | Korea Experience`,
+    metaTitle: `${c.name} in Korea`,
     metaDescription: c.description,
     legacy: false,
   })),
@@ -361,7 +363,7 @@ export const CATEGORY_HUBS = [
     question: 'Earlier guides',
     color: 'gray',
     gradient: 'from-stone-600 to-stone-800',
-    metaTitle: `${c.name} Archive | Korea Experience`,
+    metaTitle: `${c.name} Archive`,
     metaDescription: c.description,
     legacy: true,
   })),
