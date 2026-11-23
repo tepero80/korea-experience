@@ -111,7 +111,7 @@ export const REGIONS: readonly Region[] = [
     name: 'Daegu',
     nameKo: '대구',
     area: 'Southeast',
-    coverMediaId: 'dongdaegu-metro-line-one',
+    coverMediaId: 'daegu-seomun-night-market-2017',
     intro: 'Get from Dongdaegu railway station to the center, then plan a market meal or a short indoor history stop.',
     tip: 'Choose the actual stop for your next place. Dongdaegu, Daegu Station and the central market are different destinations.',
     highlights: [
@@ -200,7 +200,7 @@ export const REGIONS: readonly Region[] = [
     name: 'Daejeon',
     nameKo: '대전',
     area: 'Central Korea',
-    coverMediaId: 'daejeon-rail-station-market-side',
+    coverMediaId: 'daejeon-hanbat-arboretum-east-garden-2021',
     intro: 'Use a short rail stop for the city market, or take a separate outing to Yuseong or a family museum.',
     tip: 'Start a short visit near the station. Yuseong and the science museum are separate destinations, so check the return trip before leaving downtown.',
     highlights: [
@@ -214,7 +214,7 @@ export const REGIONS: readonly Region[] = [
     name: 'Gwangju',
     nameKo: '광주',
     area: 'Jeolla',
-    coverMediaId: 'gwangju-culture-complex-station-sign',
+    coverMediaId: 'gwangju-national-museum-courtyard-2015',
     intro: 'Connect from the airport or Gwangju-Songjeong railway station, then choose a downtown culture visit or a separate museum outing.',
     tip: 'Gwangju-Songjeong and Gwangju Station are different rail stops. For the Asia Culture Center, use the entrance and hall on your booking.',
     highlights: [

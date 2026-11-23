@@ -5472,5 +5472,71 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Photographed 2018-09-15. Historic station photograph for orientation. Check the current operator directions. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
     }
+  },
+  {
+    "id": "gwangju-national-museum-courtyard-2015",
+    "src": "/images/editorial/gwangju-national-museum-courtyard-2015-1280.webp",
+    "srcSet": "/images/editorial/gwangju-national-museum-courtyard-2015-640.webp 640w, /images/editorial/gwangju-national-museum-courtyard-2015-1280.webp 1280w",
+    "width": 1280,
+    "height": 846,
+    "alt": "Gwangju National Museum and its front courtyard in March 2015",
+    "focal": "50% 54%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Building_of_Gwangju_National_Museum-1.JPG",
+    "originalHash": "cd86a35a9b5894048ad98c52088a864c5f6f6d9b3b6d340986350cbace14898e",
+    "capturedAt": "2015-03-20",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Building of Gwangju National Museum-1.JPG",
+      "author": "Saigen Jiro",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Building_of_Gwangju_National_Museum-1.JPG",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2015-03-20. Resized and converted to WebP. Display crops preserve the licensed attribution. Historical scene."
+    }
+  },
+  {
+    "id": "daegu-seomun-night-market-2017",
+    "src": "/images/editorial/daegu-seomun-night-market-2017-1280.webp",
+    "srcSet": "/images/editorial/daegu-seomun-night-market-2017-640.webp 640w, /images/editorial/daegu-seomun-night-market-2017-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Visitors and lit food stalls at Daegu’s Seomun Night Market in April 2017",
+    "focal": "50% 56%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seomun_Night_Market,_Daegu_on_April_7th,_2017.jpg",
+    "originalHash": "f88a2832c027fdf440860f875621a20eaab52865f60004c62c7252ca92ce4381",
+    "capturedAt": "2017-04-07",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seomun Night Market, Daegu on April 7th, 2017.jpg",
+      "author": "Choi2451",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seomun_Night_Market,_Daegu_on_April_7th,_2017.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2017-04-07. Resized and converted to WebP. Display crops preserve the licensed attribution. Adaptations retain CC BY-SA 3.0. Historical scene."
+    }
+  },
+  {
+    "id": "daejeon-hanbat-arboretum-east-garden-2021",
+    "src": "/images/editorial/daejeon-hanbat-arboretum-east-garden-2021-1280.webp",
+    "srcSet": "/images/editorial/daejeon-hanbat-arboretum-east-garden-2021-640.webp 640w, /images/editorial/daejeon-hanbat-arboretum-east-garden-2021-1280.webp 1280w",
+    "width": 1280,
+    "height": 1173,
+    "alt": "Lake and greenery in the East Garden at Daejeon’s Hanbat Arboretum in July 2021",
+    "focal": "50% 60%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Lydon_daejeon-arboretum-lake-2.jpg",
+    "originalHash": "94a194cc4ddad8d88c17ad3c49b4c654e85a296f1cbd5fab13fcaeadfd455cfe",
+    "capturedAt": "2021-07-18",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Lydon daejeon-arboretum-lake-2.jpg",
+      "author": "Patrick M. Lydon (Pmlydon)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lydon_daejeon-arboretum-lake-2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2021-07-18. Resized and converted to WebP. Display crops preserve the licensed attribution. Adaptations retain CC BY-SA 4.0. Historical scene."
+    }
   }
 ]
