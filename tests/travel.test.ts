@@ -40,6 +40,29 @@ test('guide search favors a relevant complete match but keeps partial lookup ava
   assert.deepEqual(findGuideMatches(index, '??'), []);
 });
 
+test('regional landmark and terminal searches only suggest relevant next steps', () => {
+  const guide = (slug: string, title: string) => ({ slug, title, excerpt: '', category: 'Places & Itineraries', reviewed: true });
+  const index = indexGuides([
+    guide('mokpo-marine-cable-car-boarding-without-a-car', 'Mokpo marine cable car'),
+    guide('mokpo-modern-history-museum-harbor-weather-plan', 'A weather alternative in Mokpo'),
+    guide('seoraksan-cable-car', 'Seoraksan cable car boarding'),
+    guide('sokcho-intercity-vs-express-bus-terminal', 'Which bus terminal in Sokcho?'),
+    guide('sokcho-market-gaetbae-abai-village-walk', 'Sokcho market and Abai Village walk'),
+    guide('incheon-terminal-flight-check', 'Incheon airport terminal'),
+    guide('andong-wolyeonggyo-evening-walk', 'Wolyeonggyo Bridge in Andong'),
+    guide('andong-station-and-bus-terminal-to-downtown', 'Get to central Andong'),
+    guide('insadong-evening-walk', 'An evening walk in Insadong'),
+  ]);
+
+  for (const [query, expected] of [
+    ['mokpo marine cable car boarding', ['mokpo-marine-cable-car-boarding-without-a-car', 'mokpo-modern-history-museum-harbor-weather-plan']],
+    ['sokcho bus terminal', ['sokcho-intercity-vs-express-bus-terminal', 'sokcho-market-gaetbae-abai-village-walk']],
+    ['andong wolyeonggyo evening walk', ['andong-wolyeonggyo-evening-walk', 'andong-station-and-bus-terminal-to-downtown']],
+  ] as const) {
+    assert.deepEqual(findGuideMatches(index, query).map(({ slug }) => slug), expected);
+  }
+});
+
 test('link audit distinguishes relative guide links from another site’s blog path', () => {
   assert.deepEqual(
     internalGuideLinks(

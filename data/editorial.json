@@ -1445,6 +1445,12 @@
     ],
     "relations": [
       {
+        "slug": "imjingak-without-a-dmz-tour",
+        "type": "alternative",
+        "label": "Plan an independent Paju park visit",
+        "reason": "Make it a separate trip and confirm your return from Munsan before leaving Seoul."
+      },
+      {
         "slug": "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style",
         "type": "next",
         "label": "Your next decision",
@@ -1641,6 +1647,12 @@
     ],
     "relations": [
       {
+        "slug": "busan-station-to-nampo-muslim-friendly-dining",
+        "type": "next",
+        "label": "Plan a meal after arriving in Busan",
+        "reason": "Use Line 1 and call the specific Nampo branch to check your dining requirements."
+      },
+      {
         "slug": "where-to-stay-in-busan-neighborhoods",
         "type": "next",
         "label": "Your next decision",
@@ -1752,6 +1764,12 @@
       "planning"
     ],
     "relations": [
+      {
+        "slug": "deoksugung-to-seoul-museum-of-art",
+        "type": "next",
+        "label": "Plan a gallery and palace afternoon near City Hall",
+        "reason": "Put SeMA first on a late or wet day and check each venue's entrance cutoff."
+      },
       {
         "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
         "type": "next",
@@ -2966,6 +2984,12 @@
     ],
     "relations": [
       {
+        "slug": "changgyeonggung-ordinary-evening-visit",
+        "type": "alternative",
+        "label": "Plan a regular palace evening",
+        "reason": "Check the standard Changgyeonggung entrance and night route if a ticketed event does not suit your date."
+      },
+      {
         "slug": "korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026",
         "type": "next",
         "label": "Visit by day",
@@ -3159,6 +3183,18 @@
       "culture"
     ],
     "relations": [
+      {
+        "slug": "inspire-arena-event-shuttle-and-airport-return",
+        "type": "next",
+        "label": "Check the INSPIRE Arena show shuttle",
+        "reason": "Match the arena notice to your event and save an airport-area fallback."
+      },
+      {
+        "slug": "gocheok-sky-dome-concert-arrival-and-return",
+        "type": "next",
+        "label": "Plan your Gocheok Sky Dome arrival and return",
+        "reason": "Check the correct station exit and last connection ahead of the concert."
+      },
       {
         "slug": "choosing-korean-cultural-experiences-reservations-and-walk-in-options",
         "type": "next",
@@ -10236,6 +10272,12 @@
     ],
     "relations": [
       {
+        "slug": "myeongdong-prayer-and-evening-meal-plan",
+        "type": "next",
+        "label": "Arrange dinner and prayer near your shopping route",
+        "reason": "Confirm restaurant, prayer space and the return route before splitting up."
+      },
+      {
         "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
         "type": "next",
         "label": "Plan your Olive Young stop",
@@ -10766,6 +10808,12 @@
       "changdeokgung"
     ],
     "relations": [
+      {
+        "slug": "gyeongbokgung-to-tongin-market-lunch",
+        "type": "next",
+        "label": "Pair the palace with a Seochon market lunch",
+        "reason": "Use the western side of Gyeongbokgung and check the coin café before you rely on it."
+      },
       {
         "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
         "type": "next",
@@ -11845,6 +11893,18 @@
       "car-free"
     ],
     "relations": [
+      {
+        "slug": "seogwipo-olle-market-takeaway-plan",
+        "type": "next",
+        "label": "Plan a takeaway evening in Seogwipo",
+        "reason": "Start with the central daily market and decide where to eat before ordering."
+      },
+      {
+        "slug": "dongmun-market-dinner-without-a-car",
+        "type": "next",
+        "label": "Plan dinner near your old Jeju City base",
+        "reason": "Choose a street-food or restaurant stop after saving the walk or bus back."
+      },
       {
         "slug": "jeju-airport-to-jeju-city-and-seogwipo",
         "type": "next",
@@ -13343,6 +13403,12 @@
     ],
     "relations": [
       {
+        "slug": "daejeon-station-ktx-to-metro-line-one",
+        "type": "next",
+        "label": "Find Metro Line 1 at Daejeon Station",
+        "reason": "Decide which direction and entrance suit your onward destination after the market."
+      },
+      {
         "slug": "daejeon-yuseong-footbath-or-museum-day",
         "type": "alternative",
         "label": "Plan an outing in Yuseong",
@@ -13860,6 +13926,1144 @@
     },
     "heroMediaId": "mokpo-modern-history-museum-hall-one",
     "heroCaption": "Hall 1 of the Mokpo Modern History Museum in October 2024. It occupies the former Japanese consulate.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gyeongbokgung-to-tongin-market-lunch": {
+    "id": "culture-gyeongbokgung-tongin-lunch",
+    "categoryId": "culture-events",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Plan Gyeongbokgung in the morning and Tongin Market at lunch. Wednesday through Saturday is the simplest window to plan around. Verify the coin counter on the day and keep the option of buying lunch directly.",
+    "forWhom": "Travelers combining a palace morning and a hands-on market lunch in Seochon",
+    "conditions": [
+      "The palace normally closes on Tuesdays. Check holiday exceptions.",
+      "Official city publications disagree on the café closure and hours. Confirm the coin counter and cutoff locally.",
+      "Only participating vendors accept café coins. Individual stalls have separate hours and payment options."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "palaces",
+      "markets",
+      "food",
+      "walking"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "next",
+        "label": "Choose a next stop in Seoul",
+        "reason": "Continue into Jongno or use the rest of the day for a single nearby neighborhood."
+      },
+      {
+        "slug": "korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026",
+        "type": "prepare",
+        "label": "Choose which palace courtyards to visit",
+        "reason": "Set a morning priority to leave enough time for lunch."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gyeongbokgung",
+      "seoul-tongin-market"
+    ],
+    "sources": [
+      {
+        "id": "culture-gyeongbokgung-tongin-lunch-source-1",
+        "title": "Royal Palaces and Tombs Center: Opening hours",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+        "note": "Gyeongbokgung regularly closes Tuesdays, with separate holiday notices.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-gyeongbokgung-tongin-lunch-source-2",
+        "title": "Korea Tourism Organization: Seochon and Gyeongbokgung",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=194514",
+        "note": "Places Yeongchumun on the palace's west side and identifies the market.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-gyeongbokgung-tongin-lunch-source-3",
+        "title": "Korea Tourism Organization: Cheong Wa Dae area guide",
+        "url": "https://english.visitkorea.or.kr/public/contents/columns/Explore%20the%20Cheong%20Wa%20Dae%20Area.pdf",
+        "note": "Gyeongbokgung Station Exit 2 orientation, Sejong Village Food Street and Tongin Market route.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-gyeongbokgung-tongin-lunch-source-4",
+        "title": "Visit Seoul: Tongin Market",
+        "url": "https://english.visitseoul.net/area/Tongin-Market/ENP000281",
+        "note": "Market road address, the café and participating vendors. Its hours conflict with the Seoul city article.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-gyeongbokgung-tongin-lunch-source-5",
+        "title": "Seoul city: Tongin Market lunch café",
+        "url": "https://mediahub.seoul.go.kr/archives/2014553",
+        "note": "Distinguishes venue hours and last coin sale. Do not rely on its weekday closure alone.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-gyeongbokgung-tongin-lunch-source-6",
+        "title": "Government public data portal: Traditional Market Standard Data",
+        "url": "https://www.data.go.kr/data/15012894/standard.do",
+        "note": "Underlying dataset for the market point. The route uses the market road address, not the café floor as the map pin.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Palace in the morning",
+      "Market for early lunch",
+      "Check coin sales and keep a stall option"
+    ],
+    "launchOrder": 1158,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Korea Tongin Market 01 (12920987714).jpg",
+      "author": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea_Tongin_Market_01_(12920987714).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Photographed 2014-02-20. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 2.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "tongin-market-aisle-seochon",
+    "heroCaption": "Tongin Market's covered aisle in February 2014. Visit for an early lunch and check the café counter before exchanging coins.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "deoksugung-to-seoul-museum-of-art": {
+    "id": "culture-deoksugung-to-sema",
+    "categoryId": "culture-events",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Visit SeMA first if starting late. Its last entry is an hour before closing, including 17:00 on the published winter weekend and holiday schedule. Deoksugung normally admits visitors until 20:00.",
+    "forWhom": "Visitors pairing Deoksugung and art near Seoul City Hall on a short or rainy afternoon",
+    "conditions": [
+      "Use SeMA Seosomun for this route. MMCA Deoksugung is a separate museum.",
+      "Check both venues on a Monday or holiday and check any exhibition-specific tickets.",
+      "Internal accessible facilities at SeMA do not verify the street route from the palace."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "palaces",
+      "museums",
+      "rain",
+      "walking"
+    ],
+    "relations": [
+      {
+        "slug": "changgyeonggung-ordinary-evening-visit",
+        "type": "alternative",
+        "label": "Plan an ordinary evening palace visit",
+        "reason": "Use Changgyeonggung for a different evening after confirming its closing notices."
+      },
+      {
+        "slug": "gyeongbokgung-to-tongin-market-lunch",
+        "type": "interest",
+        "label": "Pair a different palace with a market lunch",
+        "reason": "Give Gyeongbokgung and Seochon their own morning and lunch."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-daehanmun-gate",
+      "seoul-sema-seosomun"
+    ],
+    "sources": [
+      {
+        "id": "culture-deoksugung-to-sema-source-1",
+        "title": "Seoul Museum of Art: Seosomun visitor information",
+        "url": "https://sema.seoul.go.kr/en/visit/seosomun",
+        "note": "Branch location, normal opening, last entry, special admission and accessibility facilities.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-deoksugung-to-sema-source-2",
+        "title": "Royal Palaces and Tombs Center: Opening hours",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+        "note": "Deoksugung regular admission and Monday closure with holiday exceptions.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-deoksugung-to-sema-source-3",
+        "title": "Royal Palaces and Tombs Center: Deoksugung directions",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do?schGroupCode=dsg",
+        "note": "Palace street address and City Hall Station Exit 2 for Lines 1 and 2.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-deoksugung-to-sema-source-4",
+        "title": "Visit Seoul: Deoksugung Stonewall Walkway",
+        "url": "https://english.visitseoul.net/attractions/Deoksugung-Stone-Wall-Path/ENP023563",
+        "note": "The street beside the palace is a public walkway. The MMCA visit is separate from SeMA Seosomun.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Start late? Put SeMA first",
+      "Winter weekend last entry: 17:00",
+      "Deoksugung normal last entry: 20:00"
+    ],
+    "launchOrder": 1159,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Seoul Museum of Art-1.jpg",
+      "author": "Gapo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Art-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2011-05-28. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "sema-seosomun-front-facade",
+    "heroCaption": "The façade of Seoul Museum of Art's Seosomun Main Branch in May 2011. Use the current museum listings for exhibitions and admission.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "changgyeonggung-ordinary-evening-visit": {
+    "id": "culture-changgyeonggung-ordinary-evening",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-23",
+    "answer": "Use a regular ticket on ordinary opening evenings at Honghwamun. Last entry is 20:00 and closing is 21:00. From December through February, reach the greenhouse before 18:00 if you want to see its interior.",
+    "forWhom": "Seoul visitors who want a self-paced evening palace walk on an ordinary admission day",
+    "conditions": [
+      "Monday is normally closed, with separate holiday and special-event notices.",
+      "At night only selected grounds are open. The posted route takes precedence.",
+      "Changdeokgung and its Secret Garden have separate daytime admission conditions."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "palaces",
+      "night",
+      "culture",
+      "winter"
+    ],
+    "relations": [
+      {
+        "slug": "deoksugung-to-seoul-museum-of-art",
+        "type": "alternative",
+        "label": "Use Deoksugung as another evening option",
+        "reason": "Choose a different palace when Changgyeonggung's regular night admission is suspended."
+      },
+      {
+        "slug": "palace-starlight-night-tours-2026",
+        "type": "interest",
+        "label": "Compare separately ticketed palace programs",
+        "reason": "Match the official notice, date and ticket type for an organized event."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-changgyeonggung-honghwamun"
+    ],
+    "sources": [
+      {
+        "id": "culture-changgyeonggung-ordinary-evening-source-1",
+        "title": "Royal Palaces and Tombs Center: Changgyeonggung admission",
+        "url": "https://royal.khs.go.kr/ENG/contents/E702000000.do?schGroupCode=cgg&schGroupCodeNm=Changgyeonggung%3Cbr%3EPalace",
+        "note": "Ordinary hours and foreign adult fee.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-changgyeonggung-ordinary-evening-source-2",
+        "title": "Royal Palaces and Tombs Center: Seasonal night area and greenhouse hours",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+        "note": "Lists evening precinct and greenhouse cutoff December–February.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-changgyeonggung-ordinary-evening-source-3",
+        "title": "Royal Palaces and Tombs Center: Current restricted and open precincts",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260227165959365512&schM=view",
+        "note": "Updated 2026-11-20. Restoration exception and daytime connecting gate cutoff.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-changgyeonggung-ordinary-evening-source-4",
+        "title": "Royal Palaces and Tombs Center: Changgyeonggung directions",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do?schGroupCode=cgg&schGroupCodeNm=%EC%B0%BD%EA%B2%BD%EA%B6%81",
+        "note": "Official road address and Hyehwa Station Exit 4.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-changgyeonggung-ordinary-evening-source-5",
+        "title": "Royal Palaces and Tombs Center: Changgyeonggung FAQ",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R404000000.do?schGroupCode=cgg",
+        "note": "Explains that the Changdeokgung link follows daytime admission limits.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-changgyeonggung-ordinary-evening-source-6",
+        "title": "Royal Palaces and Tombs Center: November 2026 ordinary admission suspension",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R403000000.do?id=20260902131858531105&schBcid=notice01&schM=view",
+        "note": "Ended example of temporary pause for a separate event. No future session implied.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Regular evening last entry: 20:00",
+      "Palace close: 21:00",
+      "Greenhouse winter interior cutoff: 18:00"
+    ],
+    "launchOrder": 1160,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Changgyeonggung, Seoul - Changgyeonggung2274.jpg",
+      "author": "lumoplank",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Changgyeonggung%2C_Seoul_-_Changgyeonggung2274.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "See the source page for image details. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "changgyeonggung-daeonsil-night-exterior",
+    "heroCaption": "The Daeonsil greenhouse exterior at Changgyeonggung, photographed after dark and published in 2024. Interior evening access varies by season.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "imjingak-without-a-dmz-tour": {
+    "id": "culture-paju-imjingak-public-visit",
+    "categoryId": "culture-events",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Visit Imjingak's public park and memorial area independently and confirm your return from Paju before leaving Seoul. The gondola and restricted-area tours have separate access requirements.",
+    "forWhom": "Travelers considering a Seoul day trip to Paju for the public park and memorial area",
+    "conditions": [
+      "Imjingak is in Paju. It is a day trip from Seoul.",
+      "Check the date-specific connection to Munsan and the onward bus or train in both directions.",
+      "Ask each separate attraction about access, ID and weather closures."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "paju",
+      "history",
+      "public-parks",
+      "day-trips"
+    ],
+    "relations": [
+      {
+        "slug": "dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026",
+        "type": "alternative",
+        "label": "Plan a restricted-area itinerary",
+        "reason": "Choose the separate DMZ tour guide if the Third Tunnel is your priority."
+      },
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "alternative",
+        "label": "Keep your plan in Seoul",
+        "reason": "Choose a central Seoul route when a return from Paju is awkward."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "paju-imjingak-resort",
+      "paju-pyeonghwa-nuri-park"
+    ],
+    "sources": [
+      {
+        "id": "culture-paju-imjingak-public-visit-source-1",
+        "title": "Korea Tourism Organization: Imjingak Resort",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=107397",
+        "note": "Confirms public visitor area, memorials and resort road address.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-paju-imjingak-public-visit-source-2",
+        "title": "Korea Tourism Organization: Imjingak area map",
+        "url": "https://english.visitkorea.or.kr/public/event/2025/PajuGondola_5/enu/leaflet_enu.pdf",
+        "note": "Area layout and separation of the public grounds, gondola stations and Civilian Control Line.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-paju-imjingak-public-visit-source-3",
+        "title": "Gyeonggi Tourism Organization: Imjingak Pyeonghwa Nuri",
+        "url": "https://www.ggtour.or.kr/gto/notice/news/e3d05a40-b471-4432-b3a1-a50d8a7bc493?type=NOTI_REPORT",
+        "note": "Hill of Wind and park road address.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-paju-imjingak-public-visit-source-4",
+        "title": "Paju City: Transport directions to Imjingak",
+        "url": "https://tour.paju.go.kr/tour/festival/festival02/festival02_1/festival_02_1_tab1_1/festival_02_1_tab1_1_01.jsp",
+        "note": "Names Munsan local buses 058A/058B and Imjingang rail approach. Context is festival directions, so the guide advises confirming live date-specific service.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Public park visit in Paju",
+      "Check the return via Munsan",
+      "Restricted attractions have separate access"
+    ],
+    "launchOrder": 1161,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Imjingak Park, DMZ, South Korea 02.jpg",
+      "author": "De-Shao Liu (Terry850324)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Imjingak_Park%2C_DMZ%2C_South_Korea_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-09-04. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "imjingak-memorial-sign",
+    "heroCaption": "The Imjingak area sign framed by ribbons in 2018. Imjingak is in Paju. Follow current signs and staff directions for the parts open to the public.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "dongmun-market-dinner-without-a-car": {
+    "id": "dongmun-market-dinner-without-a-car",
+    "categoryId": "food-dining",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "If you are staying in old Jeju City, save Dongmun Traditional Market, check which evening stalls are serving, and have a nearby seated dinner and a route back in mind.",
+    "forWhom": "Travelers staying in or reaching old Jeju City without a car",
+    "conditions": [
+      "Evening stalls set their own menus and availability.",
+      "Check the return bus from the actual stop or have your hotel's Korean address ready.",
+      "Confirm portions and last order before relying on a sit-down alternative."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "food",
+      "market",
+      "car-free",
+      "evening"
+    ],
+    "relations": [
+      {
+        "slug": "where-to-stay-in-jeju-without-a-car",
+        "type": "prepare",
+        "label": "Choose a car-free Jeju base",
+        "reason": "Your hotel location determines whether Dongmun is an easy evening stop."
+      },
+      {
+        "slug": "seogwipo-olle-market-takeaway-plan",
+        "type": "alternative",
+        "label": "Use the Seogwipo market near your hotel",
+        "reason": "If you are already on the south coast, plan a meal close to your Seogwipo base."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-dongmun-market"
+    ],
+    "sources": [
+      {
+        "id": "dongmun-market-dinner-without-a-car-source-1",
+        "title": "Korea Tourism Organization: Dongmun Traditional Market",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=459&vcontsId=91650",
+        "note": "Market identity and road address. Individual operating hours vary.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongmun-market-dinner-without-a-car-source-2",
+        "title": "Korea Tourism Organization: Dongmun Night Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=491&vcontsId=140737",
+        "note": "Evening-market listing and seasonal timing distinction. Check actual date and vendor before traveling.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongmun-market-dinner-without-a-car-source-3",
+        "title": "Jeju Tourism Organization: Dongmun Market evening stalls",
+        "url": "https://www.visitjeju.net/en/themtour/view?contentsid=CNTS_000000000022892",
+        "note": "Market and example dishes. Appearance in the guide does not establish current vendor availability.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongmun-market-dinner-without-a-car-source-4",
+        "title": "Korea Tourism Organization: Dombedon",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=86091",
+        "note": "Road address, published phone number and black-pork menu categories. Solo policy and minimum order remain unconfirmed.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongmun-market-dinner-without-a-car-source-5",
+        "title": "Jeju Special Self-Governing Province: Bus information system",
+        "url": "https://bus.jeju.go.kr/?lang=en",
+        "note": "Public transport planner for same-day route and return-stop checks.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Start at 동문재래시장",
+      "Check stalls and last orders",
+      "Save the return to your hotel"
+    ],
+    "launchOrder": 1162,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jeju Dongmun Traditional Market 05.jpg",
+      "author": "Grapesurgeon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Dongmun_Traditional_Market_05.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-04-15. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "dongmun-dinner-market-aisle",
+    "heroCaption": "Dongmun Traditional Market in Jeju City, photographed in April 2026.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seogwipo-olle-market-takeaway-plan": {
+    "id": "seogwipo-olle-market-takeaway-plan",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "At Maeil Olle Market, choose your eating spot first, buy fruit or packaged snacks before the hot main, and allow for stall-specific closing times.",
+    "forWhom": "Travelers staying near central Seogwipo who want to bring dinner or snacks back to their accommodation",
+    "conditions": [
+      "Vendors set their own menus, preparation and last orders.",
+      "Confirm your accommodation’s takeaway rules first.",
+      "Use the daily market's full Korean name to avoid the separate five-day market."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "food",
+      "market",
+      "takeaway",
+      "car-free"
+    ],
+    "relations": [
+      {
+        "slug": "jeju-airport-to-jeju-city-and-seogwipo",
+        "type": "prepare",
+        "label": "Plan the airport transfer",
+        "reason": "Check where and when you will reach Seogwipo before counting on a market dinner."
+      },
+      {
+        "slug": "dongmun-market-dinner-without-a-car",
+        "type": "alternative",
+        "label": "Stay local to your Jeju City base",
+        "reason": "Use Dongmun Market for an evening in old Jeju City on the north side."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-olle-market"
+    ],
+    "sources": [
+      {
+        "id": "seogwipo-olle-market-takeaway-plan-source-1",
+        "title": "Korea Tourism Organization: Seogwipo Maeil Olle Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=459&vcontsId=90960",
+        "note": "Daily market address and published seasonal market hours. Stall hours may differ.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "seogwipo-olle-market-takeaway-plan-source-2",
+        "title": "Jeju Tourism Organization: Maeil Olle Market",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500731&menuId=DOM_700000000010774",
+        "note": "Primary regional market listing with road address and market map point.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "seogwipo-olle-market-takeaway-plan-source-3",
+        "title": "Jeju Tourism Organization: local market foods",
+        "url": "https://visitjeju.net/en/themtour/view?contentsid=CNTS_300000000014093&menuId=DOM_700000000010790",
+        "note": "Examples of takeaway foods found at Dongmun and Maeil Olle Market, subject to supplier and date.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Save 서귀포매일올레시장",
+      "Pack cold items before hot food",
+      "Plan where you’ll eat"
+    ],
+    "launchOrder": 1163,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Seogwipo Maeil Olle Market 01.jpg",
+      "author": "Seefooddiet",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seogwipo_Maeil_Olle_Market_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-07-08. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "seogwipo-olle-market-arrival",
+    "heroCaption": "Seogwipo Maeil Olle Market in central Seogwipo, photographed in July 2024.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "myeongdong-prayer-and-evening-meal-plan": {
+    "id": "myeongdong-prayer-and-evening-meal-plan",
+    "categoryId": "food-dining",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Call Saffron in advance about your meal and prayer-space access, save the correct hotel and floor, and make a separate backup plan if either part cannot be confirmed.",
+    "forWhom": "Muslim travelers arranging a timed dinner and prayer near Myeongdong",
+    "conditions": [
+      "Confirm the published hours and Sunday closures for your exact date.",
+      "The tourism feature describes a prayer room. Ask how and when you can use it.",
+      "Request evidence if your dietary requirements depend on a specific certification."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "food",
+      "muslim-travel",
+      "prayer",
+      "evening"
+    ],
+    "relations": [
+      {
+        "slug": "finding-halal-food-in-seoul-top-restaurants-and-supermarkets-2026",
+        "type": "alternative",
+        "label": "Compare additional Seoul meal options",
+        "reason": "Look for a separate dinner district or grocery option if the Myeongdong plan does not fit."
+      },
+      {
+        "slug": "myeongdong-shopping-guide-beauty-and-fashion",
+        "type": "next",
+        "label": "Plan the rest of your Myeongdong visit",
+        "reason": "Group your shopping around a meal and prayer time you have confirmed."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "myeongdong-saffron-lotte-city-hotel",
+      "myeongdong-station"
+    ],
+    "sources": [
+      {
+        "id": "myeongdong-prayer-and-evening-meal-plan-source-1",
+        "title": "LOTTE City Hotel Myeongdong: Saffron",
+        "url": "https://app.lottehotel.com/myeongdong-city/en/dining/restaurant-saffron",
+        "note": "Operator publishes second-floor location, service hours, alternating Sunday closures and reservation telephone. Call for exact date and access.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "myeongdong-prayer-and-evening-meal-plan-source-2",
+        "title": "Korea Tourism Organization: Saffron restaurant profile",
+        "url": "https://english.visitkorea.or.kr/svc/sp/MuslimFriendly/alamArabiKoreaView.do?dataSetId=243&menuSn=983&vcontsId=228708",
+        "note": "Feature describes a prayer room. Availability and visitor terms need direct confirmation.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "myeongdong-prayer-and-evening-meal-plan-source-3",
+        "title": "LOTTE City Hotel Myeongdong: Directions and Korean address",
+        "url": "https://app.lottehotel.com/myeongdong-city/ko/about/location",
+        "note": "Hotel name, Korean street address and local directions.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "myeongdong-prayer-and-evening-meal-plan-source-4",
+        "title": "Korea Tourism Organization: Muslim-friendly travel",
+        "url": "https://english.visitkorea.or.kr/svc/thingsToDo/subMuslimFriendly.do",
+        "note": "KTO's category system distinguishes different food practices. The traveler should check exact restaurant terms.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Saffron at LOTTE City Hotel, floor 2",
+      "Call ahead for prayer space",
+      "Save a backup meal"
+    ],
+    "launchOrder": 1164,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "명동 Myeongdong, Seoul - panoramio.jpg",
+      "author": "Foxy Who \\(^∀^)/",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%AA%85%EB%8F%99_Myeongdong,_Seoul_-_panoramio.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2014-09-25. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "myeongdong-evening-district",
+    "heroCaption": "An archival street scene in Myeongdong. Shared by the photographer in September 2014.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "busan-station-to-nampo-muslim-friendly-dining": {
+    "id": "busan-station-to-nampo-muslim-friendly-dining",
+    "categoryId": "food-dining",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Choose a lead near Busan Station or BIFF Square, call the specific branch to confirm your meal, and use Metro Line 1 if your trip continues into Nampo.",
+    "forWhom": "Muslim travelers arriving by rail or spending the evening in Busan’s old port",
+    "conditions": [
+      "KTO restaurant listings are starting points. Call the branch for current operation, specific dishes and access.",
+      "Ask for the current certificate if your requirements depend on it.",
+      "Check the metro return from the actual station and keep a meal backup."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "food",
+      "muslim-travel",
+      "metro",
+      "dinner"
+    ],
+    "relations": [
+      {
+        "slug": "where-to-stay-in-busan-neighborhoods",
+        "type": "prepare",
+        "label": "Pick a Busan base around your route",
+        "reason": "Compare sleeping in Nampo with Seomyeon and Haeundae before you plan meals across the city."
+      },
+      {
+        "slug": "myeongdong-prayer-and-evening-meal-plan",
+        "type": "alternative",
+        "label": "Plan a meal and prayer in Seoul",
+        "reason": "Use the Myeongdong route if your return or onward journey includes Seoul."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "busan-station-metro",
+      "busan-new-little-india-station",
+      "busan-new-little-india-nampo",
+      "nampo-station"
+    ],
+    "sources": [
+      {
+        "id": "busan-station-to-nampo-muslim-friendly-dining-source-1",
+        "title": "Korea Tourism Organization: Muslim-Friendly Restaurants guide",
+        "url": "https://english.visitkorea.or.kr/public/asis/upload/Muslim-friendly_restaurants.pdf",
+        "note": "Lists both branch names, contact numbers, building coordinates and road addresses. Confirm current opening, menu and preparation with the branch.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "busan-station-to-nampo-muslim-friendly-dining-source-2",
+        "title": "Busan Transportation Corporation: Train timetables",
+        "url": "https://www2.humetro.busan.kr/homepage/english/stationtime/page/view.do?menu_no=10060102",
+        "note": "Line 1 route and timetable, including Dadaepo Beach direction.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "busan-station-to-nampo-muslim-friendly-dining-source-3",
+        "title": "Visit Busan: Historic downtown route",
+        "url": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000202012001000&uc_seq=2809",
+        "note": "Official city tourism guide gives the district context for Nampo and Jagalchi.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "busan-station-to-nampo-muslim-friendly-dining-source-4",
+        "title": "Korea Tourism Organization: Muslim-friendly travel",
+        "url": "https://english.visitkorea.or.kr/svc/thingsToDo/subMuslimFriendly.do",
+        "note": "Official category definitions and certification distinction.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Line 1 toward Dadaepo Beach",
+      "Call the branch near your stop",
+      "Ask about the exact dish"
+    ],
+    "launchOrder": 1165,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "BIFF Square in Busan.jpg",
+      "author": "Christophe95",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:BIFF_Square_in_Busan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-09-27. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "busan-nampo-meal-biff-square",
+    "heroCaption": "BIFF Square in Busan’s Nampo district, photographed in September 2018.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gocheok-sky-dome-concert-arrival-and-return": {
+    "id": "transport-gocheok-concert-guil-return",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Take Line 1 to Guil Station and follow the venue operator's Exit 2 directions. Before doors open, check the last train that reaches your hotel and your onward transfer.",
+    "forWhom": "Concertgoers traveling to Gocheok Sky Dome from elsewhere in Seoul",
+    "conditions": [
+      "The promoter may change gates or pedestrian access on show day.",
+      "Train, transfer and night bus times depend on the date, direction and boarding stop."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring",
+      "departure"
+    ],
+    "interests": [
+      "concerts",
+      "subway",
+      "late-night transport"
+    ],
+    "relations": [
+      {
+        "slug": "how-to-get-k-pop-concert-tickets-ticketing-guide",
+        "type": "prepare",
+        "label": "Confirm ticket access",
+        "reason": "Use the official ticket route before planning your gate and ride home."
+      },
+      {
+        "slug": "inspire-arena-event-shuttle-and-airport-return",
+        "type": "alternative",
+        "label": "Check the route for an INSPIRE Arena show",
+        "reason": "The Incheon arena has a separate arrival and after-show shuttle plan."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gocheok-sky-dome",
+      "guil-line-one-station"
+    ],
+    "sources": [
+      {
+        "id": "transport-gocheok-concert-guil-return-source-1",
+        "title": "Seoul Facilities Corporation: venue transport",
+        "url": "https://www.sisul.or.kr/open_content/skydome/introduce/location_transportation.jsp",
+        "note": "Official venue address, Guil Exit 2 and connections.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gocheok-concert-guil-return-source-2",
+        "title": "Seoul Metropolitan Government: Gocheok Sky Dome",
+        "url": "https://english.seoul.go.kr/gocheok-sky-dome/",
+        "note": "Cross-checks Guil Exit 2; also lists Gaebong.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gocheok-concert-guil-return-source-3",
+        "title": "Guro-gu: Gocheok Sky Dome",
+        "url": "https://www.guro.go.kr/eng/contents.do?key=3272",
+        "note": "English district page conflicts on Guil exit numbering. Follow the venue and staff.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gocheok-concert-guil-return-source-4",
+        "title": "Seoul Metropolitan Government: night bus directory",
+        "url": "https://news.seoul.go.kr/traffic/archives/27974",
+        "note": "Lists N16 and base route; live stop times depend on direction and date.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Take Line 1 to Guil (구일역), Exit 2.",
+      "Save the gate listed on your ticket notice.",
+      "Check your last connection and a night bus or taxi backup."
+    ],
+    "launchOrder": 1166,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gocheok Sky Dome from Gyeongin-ro",
+      "author": "Seoul Metropolitan Government (Seoul Landscape Documentation Project), via Seoul Institute",
+      "sourceUrl": "https://data.si.re.kr/photo/06G00806Db30000",
+      "license": "CC BY 4.0 (also KOGL Type 1)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2020-01. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "gocheok-gyeongin-road-2020",
+    "heroCaption": "Gocheok Sky Dome beside Gyeongin-ro in January 2020. Use the gate in your ticket notice for the final approach.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "inspire-arena-event-shuttle-and-airport-return": {
+    "id": "transport-inspire-arena-shuttle-return",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Check your show notice for both routes. INSPIRE's example shuttle runs from Cargo Terminal Station Exit 2 to the arena and after the performance to Terminal 2.",
+    "forWhom": "Visitors planning a sold or announced INSPIRE Arena concert near Incheon Airport",
+    "conditions": [
+      "The date-specific promoter notice sets shuttle stops, hours and eligibility.",
+      "A late shuttle still needs an onward ride from its drop-off point."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "before-you-go",
+      "arrival",
+      "getting-around",
+      "exploring",
+      "departure"
+    ],
+    "interests": [
+      "concerts",
+      "airport railroad",
+      "late-night transport"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "next",
+        "label": "Choose your ride from the actual terminal",
+        "reason": "Compare AREX and airport buses once your show's return drop-off is confirmed."
+      },
+      {
+        "slug": "how-to-get-k-pop-concert-tickets-ticketing-guide",
+        "type": "prepare",
+        "label": "Check concert ticket access",
+        "reason": "Save the organizer, date and ticket notice before planning transport."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "incheon-airport-cargo-terminal-exit-2",
+      "inspire-arena-yeongjong",
+      "incheon-airport-t2"
+    ],
+    "sources": [
+      {
+        "id": "transport-inspire-arena-shuttle-return-source-1",
+        "title": "INSPIRE Arena: published shuttle example",
+        "url": "https://www.inspireresorts.com/pdfs/Arena_Shuttle_Info_E.pdf",
+        "note": "Event operation can vary. This example documents Cargo Terminal Exit 2 arrival, Terminal 2 return, and potential queues longer than 30 minutes.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-inspire-arena-shuttle-return-source-2",
+        "title": "Hilton: INSPIRE Resort transportation",
+        "url": "https://www.hilton.com/en/hotels/gmpikhi-inspire-entertainment-resort/location/",
+        "note": "Regular resort shuttle listing, first-come operation, resort address and Yeongjong-gu.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-inspire-arena-shuttle-return-source-3",
+        "title": "AREX: services and route",
+        "url": "https://www.airportrailroad.com/train/express/introduce",
+        "note": "AREX route diagram and the distinction between all-stop and Express.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-inspire-arena-shuttle-return-source-4",
+        "title": "AREX: Terminal 2 station timetable",
+        "url": "https://www.airportrailroad.com/train/normal/info/110/0",
+        "note": "Check last usable rail connection by day, stopping pattern and terminus.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-inspire-arena-shuttle-return-source-5",
+        "title": "EDC Korea: official 2026 shuttle plan",
+        "url": "https://korea.edc.com/en/travel/shuttles/",
+        "note": "Past organizer example showing distinct routes and operating windows.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-inspire-arena-shuttle-return-source-6",
+        "title": "Incheon City: July 2026 district reorganization",
+        "url": "https://www.incheon.go.kr/IC01070101",
+        "note": "Yeongjong district corrects older Jung-gu translations for the island.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-inspire-arena-shuttle-return-source-7",
+        "title": "Incheon Airport: terminal connections",
+        "url": "https://www.airport.kr/ap_en/6636/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGYXBfZW4lMkY5MzclMkYxMzgyMTAlMkZhcnRjbFZpZXcuZG8lM0Y%3D",
+        "note": "Rail and airport connections between passenger terminals.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "inspire-resort-regular-shuttle-overview",
+        "title": "INSPIRE Resort airport shuttle overview",
+        "url": "https://blog.inspireresorts.com/news/inspire-arena",
+        "note": "The resort’s transport overview explains the airport shuttles. Read current timetables and the event notice for your specific trip.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the arrival stop in your show notice.",
+      "The operator's example returns to T2 after the show.",
+      "Check the last onward train or arrange another ride."
+    ],
+    "launchOrder": 1167,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "AREX-Incheon International Airport Cargo Terminal Stn-Exit 2-3.jpg",
+      "author": "IRTC1015",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:AREX-Incheon_International_Airport_Cargo_Terminal_Stn-Exit_2-3.jpg",
+      "license": "Public domain (author dedication)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "note": "Photographed 2021-11-03. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "incheon-cargo-terminal-exit-two-2021",
+    "heroCaption": "Airport Cargo Terminal Station Exit 2 in November 2021. Use it when your show notice lists this boarding point.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "daejeon-station-ktx-to-metro-line-one": {
+    "id": "transport-daejeon-rail-to-metro",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "After KTX, follow city metro signs for Daejeon Station and take Line 1 toward Banseok for City Hall, Government Complex or Yuseong Spa.",
+    "forWhom": "Rail passengers who need to transfer to Daejeon's city metro",
+    "conditions": [
+      "Daejeon Station is the name of both the railway station and the metro stop.",
+      "Check the correct direction, current platform information, and lift availability for your route."
+    ],
+    "regions": [
+      "daejeon"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around",
+      "exploring",
+      "departure"
+    ],
+    "interests": [
+      "rail",
+      "metro",
+      "yuseong"
+    ],
+    "relations": [
+      {
+        "slug": "daejeon-yuseong-footbath-or-museum-day",
+        "type": "next",
+        "label": "Choose a Yuseong stop",
+        "reason": "Use this route to reach the district and choose between footbaths and a museum."
+      },
+      {
+        "slug": "daejeon-station-to-jungang-market-short-visit",
+        "type": "alternative",
+        "label": "Walk to Jungang Market",
+        "reason": "The market is across the west plaza and does not need a metro ride."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "daejeon-railway-station",
+      "daejeon-city-metro-station"
+    ],
+    "sources": [
+      {
+        "id": "transport-daejeon-rail-to-metro-source-1",
+        "title": "Daejeon Transportation Corporation: Line 1 map",
+        "url": "https://www.djtc.kr/kor/page.do?menuIdx=39",
+        "note": "Station order and both line directions.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-daejeon-rail-to-metro-source-2",
+        "title": "Daejeon Transportation Corporation: 2025 station preview",
+        "url": "https://www.djtc.kr/kor/page.do?menuIdx=1017",
+        "note": "Operator's preview for exterior, station concourse and platforms.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-daejeon-rail-to-metro-source-3",
+        "title": "Daejeon Transportation Corporation: fare schedule",
+        "url": "https://www.djtc.kr/kor/page.do?menuIdx=307",
+        "note": "Current types of city transit tickets and prices.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-daejeon-rail-to-metro-source-4",
+        "title": "Daejeon Transportation Corporation: station contacts",
+        "url": "https://www.djtc.kr/kor/organization.do?menuIdx=388",
+        "note": "Daejeon metro station contact shown as 042-539-3604.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-daejeon-rail-to-metro-source-5",
+        "title": "Korea National Railway: railway station dataset",
+        "url": "https://www.data.go.kr/data/15067652/fileData.do",
+        "note": "Long-distance railway station address is 중앙로 215.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-daejeon-rail-to-metro-source-6",
+        "title": "Naver Metro: Daejeon Station",
+        "url": "https://pts.map.naver.com/end-subway/ends/web/30104/home",
+        "note": "Separately identifies the Line 1 metro station and its address.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Follow 도시철도 to Metro Line 1.",
+      "Banseok direction reaches Yuseong Spa and City Hall.",
+      "Return toward Panam and get off at 대전역."
+    ],
+    "launchOrder": 1168,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "도시철도 대전역 스크린도어.jpg",
+      "author": "Me358",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8F%84%EC%8B%9C%EC%B2%A0%EB%8F%84_%EB%8C%80%EC%A0%84%EC%97%AD_%EC%8A%A4%ED%81%AC%EB%A6%B0%EB%8F%84%EC%96%B4.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2016-08-21. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "daejeon-metro-screen-doors-2016",
+    "heroCaption": "Daejeon Station metro platform signs in August 2016. Follow the current train direction when you arrive.",
     "gallery": [],
     "experienceVersion": 2
   }

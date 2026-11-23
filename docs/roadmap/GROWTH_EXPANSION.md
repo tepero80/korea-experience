@@ -47,5 +47,6 @@ The starting directory had three destinations. Count new articles once each prod
 | Incheon, Gyeongju, Jeju and Suwon | `e40813f` | 4 | 4 | 6 |
 | Daegu and Jeonju, plus Incheon, Gyeongju and Jeju routes | `bfd9fb4` | 8 | 12 | 8 |
 | Chuncheon, Gangneung and Sokcho | `77452c0` | 7 | 19 | 11 |
+| Andong, Daejeon, Gwangju and Mokpo | `96e9292` | 8 | 27 | 15 |
 
 The first advertising comparison has three active AdSense URL reporting channels. The current manual slot provides the baseline. Start the placement comparison after comparable page-level data is available and confirm that the placement still protects reading and travel actions.

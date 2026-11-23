@@ -122,6 +122,42 @@ function preferredGuide(phrase: string) {
 }
 
 function focusedGuides(phrase: string) {
+  if (
+    /\bwolyeonggyo\b/.test(phrase) ||
+    (/\b(?:woryeonggyo|moonlight bridge)\b/.test(phrase) && /\bandong\b/.test(phrase))
+  ) {
+    return [
+      'andong-wolyeonggyo-evening-walk',
+      'andong-station-and-bus-terminal-to-downtown',
+    ];
+  }
+  if (/\bmokpo\b/.test(phrase) && /\bcable car\b/.test(phrase)) {
+    return [
+      'mokpo-marine-cable-car-boarding-without-a-car',
+      'mokpo-modern-history-museum-harbor-weather-plan',
+    ];
+  }
+  if (/\bsokcho\b/.test(phrase) && /\bbus terminals?\b/.test(phrase)) {
+    return ['sokcho-intercity-vs-express-bus-terminal', 'sokcho-market-gaetbae-abai-village-walk'];
+  }
+  if (/\btongin\b/.test(phrase) && /\b(?:lunch|lunchbox|coins?|cafe)\b/.test(phrase)) {
+    return ['gyeongbokgung-to-tongin-market-lunch'];
+  }
+  if (/\bchanggyeonggung\b/.test(phrase) && /\b(?:night|evening|after dark)\b/.test(phrase)) {
+    return ['changgyeonggung-ordinary-evening-visit', 'palace-starlight-night-tours-2026'];
+  }
+  if (/\bmyeongdong\b/.test(phrase) && /\b(?:prayer|halal|iftar)\b/.test(phrase)) {
+    return ['myeongdong-prayer-and-evening-meal-plan'];
+  }
+  if (/\bbusan\b/.test(phrase) && /\b(?:nampo|jagalchi|biff square)\b/.test(phrase) && /\b(?:halal|muslim)\b/.test(phrase)) {
+    return ['busan-station-to-nampo-muslim-friendly-dining'];
+  }
+  if (/\binspire arena\b/.test(phrase) && /\b(?:shuttle|airport|return)\b/.test(phrase)) {
+    return ['inspire-arena-event-shuttle-and-airport-return'];
+  }
+  if (/\bdaejeon station\b/.test(phrase) && /\b(?:metro|subway|line 1|line one)\b/.test(phrase)) {
+    return ['daejeon-station-ktx-to-metro-line-one', 'daejeon-station-to-jungang-market-short-visit'];
+  }
   if (/\bsongdo\b/.test(phrase) && /\b(?:incheon airport|incheon international airport|icn)\b/.test(phrase)) {
     return ['incheon-airport-to-songdo-hotels'];
   }
