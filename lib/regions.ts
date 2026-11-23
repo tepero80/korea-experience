@@ -239,6 +239,7 @@ export const REGIONS: readonly Region[] = [
       'sokcho-market-gaetbae-abai-village-walk',
       'sokcho-squid-and-abai-sundae',
       'seoraksan-cable-car-flexible-sokcho-day',
+      'autumn-colors-best-hiking-and-photography-spots',
       'sokcho-and-yangyang-the-surfing-capital-of-korea-guide-2026',
     ],
     onward: [{ regionId: 'gangneung', reason: 'Explore Gangneung separately for a lakeside walk, beach or indoor heritage stop.' }],

@@ -6811,6 +6811,12 @@
         "reason": "The city has separate bus buildings for different tickets."
       },
       {
+        "slug": "autumn-colors-best-hiking-and-photography-spots",
+        "type": "alternative",
+        "label": "Consider an autumn valley walk",
+        "reason": "Use the Biseondae approach if the lower trail is open and your group prefers walking."
+      },
+      {
         "slug": "sokcho-market-gaetbae-abai-village-walk",
         "type": "alternative",
         "label": "Stay near the harbor if mountain plans change",
@@ -24124,6 +24130,12 @@
         "reason": "If weather or park access makes Jangseong impractical and you are based in Gwangju, use a separate indoor plan."
       },
       {
+        "slug": "autumn-colors-best-hiking-and-photography-spots",
+        "type": "alternative",
+        "label": "Compare a Sokcho or Seoul autumn outing",
+        "reason": "Choose a walk closer to your travel base before committing to a long detour."
+      },
+      {
         "slug": "seoraksan-cable-car-flexible-sokcho-day",
         "type": "interest",
         "label": "Plan a mountain day from Sokcho",
@@ -26720,5 +26732,137 @@
     "experienceVersion": 2,
     "cardImageCrop": "contain",
     "cardImageLabel": "Oeam Folk Village · Asan"
+  },
+  "autumn-colors-best-hiking-and-photography-spots": {
+    "id": "guide:autumn-colors-best-hiking-and-photography-spots",
+    "categoryId": "places-itineraries",
+    "format": "seasonal",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Seoraksan for a mountain valley walk, Naejangsan for a pond and maple approach, or Seoul Forest for a flexible outing by subway. Check a recent, dated image of the place and confirm access before making a long transfer.",
+    "forWhom": "Visitors choosing one autumn walk or photo outing around a Korea itinerary",
+    "conditions": [
+      "Autumn color varies by location and year. The guide offers routes and checks for a future trip; it does not predict a peak date."
+    ],
+    "regions": [
+      "sokcho",
+      "seoul"
+    ],
+    "stages": [
+      "preparing",
+      "exploring"
+    ],
+    "interests": [
+      "autumn foliage",
+      "outdoors",
+      "photography"
+    ],
+    "relations": [
+      {
+        "slug": "seoraksan-cable-car-flexible-sokcho-day",
+        "type": "next",
+        "label": "Plan a flexible Seoraksan day",
+        "reason": "Use the cable-car base and a separate Sokcho option if the weather or queue changes."
+      },
+      {
+        "slug": "korea-s-best-fall-foliage-spots-without-the-crowds",
+        "type": "interest",
+        "label": "Compare the two sides of Naejangsan",
+        "reason": "Check whether your photo and route lead to Jeongeup or Baekyangsa in Jangseong."
+      },
+      {
+        "slug": "seoul-forest-station-short-park-walk",
+        "type": "alternative",
+        "label": "Take the Seoul Forest station walk",
+        "reason": "Keep the outing in Seoul when the mountain transfer or access does not fit."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "shareFacts": [
+      "Choose one outing from your base",
+      "Check dated foliage and trail access",
+      "Plan a return and a shorter walk"
+    ],
+    "sources": [
+      {
+        "id": "guide:autumn-colors-best-hiking-and-photography-spots-source-1",
+        "title": "Korea National Park Service: Geumganggul route",
+        "url": "https://www.knps.or.kr/front/portal/visit/visitCourseGuide.do?parkId=120400&vcursId=120400V006",
+        "note": "Sogongwon to Biseondae segment, terrain, distance and estimated walking time.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:autumn-colors-best-hiking-and-photography-spots-source-2",
+        "title": "Korea National Park Service: Seoraksan notices",
+        "url": "https://seorak.knps.or.kr/front/portal/visit/visitCourseMain.do?menuNo=7020002&parkId=120400",
+        "note": "Official park conditions, notices and access checks.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:autumn-colors-best-hiking-and-photography-spots-source-3",
+        "title": "VisitKorea: official trail starting point",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=219&vcontsId=204732",
+        "note": "Identifies Sogongwon Park by its road address in Sokcho.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:autumn-colors-best-hiking-and-photography-spots-source-4",
+        "title": "Seorak Cable Car operator",
+        "url": "https://www.sorakcablecar.co.kr/guide",
+        "note": "Same-day ticketing and weather-dependent service.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:autumn-colors-best-hiking-and-photography-spots-source-5",
+        "title": "Korea National Park Service: Naejangsan autumn walk",
+        "url": "https://www.knps.or.kr/front/portal/visit/visitVnewsDtl.do?vnewsId=VNEWSM001176",
+        "note": "Jeongeup entrance address and lower walk toward Uhwajeong.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:autumn-colors-best-hiking-and-photography-spots-source-6",
+        "title": "Korea National Park Service: Naejangsan notices",
+        "url": "https://knps.or.kr/front/portal/visit/visitCourseMain.do?menuNo=7020101&parkId=120600",
+        "note": "Park notices and dated photos from the Jeongeup side.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:autumn-colors-best-hiking-and-photography-spots-source-7",
+        "title": "Jeongeup City: Uhwajeong",
+        "url": "https://www.jeongeup.go.kr/culture/board/view.jeongeup?boardId=BBS_0000001&categoryCode1=AA01&dataSid=52&keyword=%EC%9A%B0%ED%99%94%EC%A0%95&menuCd=DOM_000000601003000000&searchOperation=AND&searchType=DATA_TITLE&startPage=1",
+        "note": "Pond, autumn trees, rebuilt pavilion and bus approach from the city.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:autumn-colors-best-hiking-and-photography-spots-source-8",
+        "title": "Seoul parks: Seoul Forest",
+        "url": "https://parks.seoul.go.kr/park/detailView.do?pIdx=5",
+        "note": "Official park address and visitor information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:autumn-colors-best-hiking-and-photography-spots-source-9",
+        "title": "Korea Meteorological Administration: foliage observations",
+        "url": "https://www.weather.go.kr/w/forecast/life/seasonal-observation/autumn-leaves.do",
+        "note": "Site-specific dated mountain foliage photographs and observations.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1290,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoraksan-rocky-valley-autumn-2015",
+    "heroCaption": "A rocky valley in Seoraksan photographed on October 18, 2015. The scene shows an earlier autumn in the park.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Joycekim77",
+      "title": "Seoraksan in the Fall 1- 설악산 단풍.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoraksan_in_the_Fall_1-_%EC%84%A4%EC%95%85%EC%82%B0_%EB%8B%A8%ED%92%8D.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Seoraksan · autumn 2015"
   }
 }
