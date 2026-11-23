@@ -60,9 +60,9 @@
     "cropPotential": 2
   },
   "suwon-hwaseong-museum-before-fortress": {
-    "mediaId": "culture-suwon-hwaseong-museum-photo",
-    "subjectUsefulness": 2,
-    "sceneClarity": 1,
+    "mediaId": "suwon-hwaseong-museum-facade-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
     "cropPotential": 2
   },
   "suwon-gwanggyo-lake-park-short-walk": {
@@ -138,7 +138,7 @@
     "cropPotential": 2
   },
   "seongsan-ilchulbong-by-bus-from-jeju-city": {
-    "mediaId": "jeju-seongsan-ilchulbong-bus-day",
+    "mediaId": "jeju-seongsan-ilchulbong-visitor-approach-2022",
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
@@ -282,10 +282,10 @@
     "cropPotential": 2
   },
   "sokcho-intercity-vs-express-bus-terminal": {
-    "mediaId": "sokcho-intercity-bus",
+    "mediaId": "sokcho-express-terminal-exterior-2023",
     "subjectUsefulness": 3,
     "sceneClarity": 2,
-    "cropPotential": 1
+    "cropPotential": 2
   },
   "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices": {
     "mediaId": "busan-dongbaekseom-nurimaru-2024",
@@ -517,6 +517,24 @@
   },
   "seodaemun-prison-history-hall-dongnimmun": {
     "mediaId": "seoul-seodaemun-prison-brick-gate-2013",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "namhae-german-village-migration-history": {
+    "mediaId": "namhae-german-village-rooftops-2019",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "namhae-daraengi-village-terrace-walk": {
+    "mediaId": "namhae-daraengi-village-agricultural-terraces-2019",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "namhae-sangju-silver-sand-beach-walk": {
+    "mediaId": "namhae-sangju-silver-sand-beach-2019",
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2

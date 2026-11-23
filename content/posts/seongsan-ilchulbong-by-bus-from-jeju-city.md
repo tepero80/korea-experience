@@ -1,10 +1,10 @@
 ---
 title: 'Seongsan Ilchulbong by Bus: A Day Trip from Jeju City'
 date: '2026-11-23'
-updated: '2026-11-23'
+updated: '2026-11-24'
 excerpt: 'Choose a bus from Jeju City, get off at the peak entrance, and plan your return before deciding whether to climb.'
 category: places-itineraries
-image: /images/editorial/jeju-seongsan-ilchulbong-bus-day-1280.webp
+image: /images/editorial/jeju-seongsan-ilchulbong-visitor-approach-2022-1280.webp
 author: Korea Experience Editorial
 tags:
   - jeju
@@ -22,10 +22,12 @@ draft: false
 
 Start at **Jeju Bus Terminal (제주버스터미널)**, 제주특별자치도 제주시 서광로 174. At the terminal, use the current boarding board or ask staff to identify the bay. Use the destination and the stop sequence together.
 
-| Route | Outbound from Jeju Bus Terminal | Return from the entrance stop |
-| --- | --- | --- |
-| **201** | Toward **Seogwipo Bus Terminal** (서귀포버스터미널) along the east coast. [Outbound stops](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2439) | Toward **Jeju Bus Terminal** (제주버스터미널). [Return stops](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2440) |
-| **211 or 212** | Toward **Seongsan Port** (성산항 or 성산포항). Check both departures. Route 212 also lists Jeju City Hall. [Outbound stops](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2300) | Toward **Jeju Bus Terminal**. [Return stops](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2301) |
+| Bus | What to look for |
+| --- | --- |
+| **201** | From Jeju, look for **Seogwipo Bus Terminal** (서귀포버스터미널) on the east-coast route. [Outbound stops](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2439) · [Return stops](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2440) |
+| **211 or 212** | From Jeju, look for **Seongsan Port** (성산항 or 성산포항). Compare both departures. The 212 also stops at Jeju City Hall. [Outbound stops](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2300) · [Return stops](https://bus.jeju.go.kr/mobile/schedule/detailSchedule?scheduleId=2301) |
+
+For the ride back, board in the direction of **Jeju Bus Terminal** (제주버스터미널) from the attraction's entrance stop.
 
 Save **성산일출봉입구** as the bus stop and **성산일출봉** as the attraction. For the port-bound 211 or 212, the entrance stop comes before the port. Use your map to check the walk from the stop to the entrance. The [official attraction page](https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000004) lists the road address as **제주특별자치도 서귀포시 성산읍 일출로 284-12**.
 

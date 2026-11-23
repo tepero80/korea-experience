@@ -7764,7 +7764,7 @@
     "id": "culture-suwon-hwaseong-museum",
     "categoryId": "culture-events",
     "format": "place",
-    "checkedAt": "2026-11-09",
+    "checkedAt": "2026-11-24",
     "answer": "Visit Suwon Hwaseong Museum for the fortress story, then plan an outdoor section or palace visit around weather and opening hours.",
     "forWhom": "Travelers planning a Suwon fortress day with an indoor stop",
     "conditions": [
@@ -7792,14 +7792,23 @@
     "tools": [
       "itinerary"
     ],
-    "placeIds": [],
+    "placeIds": [
+      "suwon-hwaseong-museum"
+    ],
     "sources": [
       {
         "id": "suwon-hwaseong-visit",
         "title": "Suwon Hwaseong Museum: visitor information",
         "url": "https://smuseum.suwon.go.kr/hs/contents/view?contentsNo=129&menuLevel=3&menuNo=110",
-        "checkedAt": "2026-11-09",
+        "checkedAt": "2026-11-24",
         "note": "City museum hours, ticket categories and combined ticket; Korean."
+      },
+      {
+        "id": "suwon-hwaseong-museum-directions",
+        "title": "City museum directions and transit",
+        "url": "https://smuseum.suwon.go.kr/hs/contents/view?contentsNo=139&menuLevel=3&menuNo=136",
+        "note": "Confirms the museum street address, local stops and the visitor phone number.",
+        "checkedAt": "2026-11-24"
       }
     ],
     "shareFacts": [
@@ -7811,15 +7820,15 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Suwon Hwaseong Museum.JPG",
-      "author": "hyolee2",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suwon_Hwaseong_Museum.JPG",
+      "author": "Mobius6",
+      "title": "Suwon Hwaseong Museum 20240929 001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suwon_Hwaseong_Museum_20240929_001.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "note": "Image metadata records 6 April 2015; cropped, resized and converted to WebP. Historical exterior does not establish current access."
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
-    "heroMediaId": "culture-suwon-hwaseong-museum-photo",
-    "heroCaption": "Museum exterior in 2015; current appearance and access may differ.",
+    "heroMediaId": "suwon-hwaseong-museum-facade-2024",
+    "heroCaption": "Suwon Hwaseong Museum’s entrance across the plaza in September 2024.",
     "gallery": [],
     "experienceVersion": 2
   },
@@ -12224,17 +12233,18 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Seongsan Ilchulbong 02.jpg",
       "author": "Bernard Gagnon",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seongsan_Ilchulbong_02.jpg",
+      "title": "Seongsan Ilchulbong 01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seongsan_Ilchulbong_01.jpg",
       "license": "CC0 1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "note": "Photographed 2022-10-04. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
     },
-    "heroMediaId": "jeju-seongsan-ilchulbong-bus-day",
-    "heroCaption": "The grassy crater at Seongsan Ilchulbong from above in October 2022. Confirm summit access before traveling.",
+    "heroMediaId": "jeju-seongsan-ilchulbong-visitor-approach-2022",
+    "heroCaption": "Seongsan Ilchulbong seen from the landward visitor approach in October 2022. Check nearby stop and trail access before setting out.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "cardImageCrop": "west"
   },
   "jeonju-station-to-hanok-village": {
     "id": "jeonju-station-hanok-transfer",
@@ -12946,17 +12956,18 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "https://upload.wikimedia.org/wikipedia/commons/6/68/%EB%8F%99%ED%95%B4%EC%83%81%EC%82%AC%EA%B3%A0%EC%86%8D_%EC%86%8D%EC%B4%88%EB%8F%99%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%99%B8_1546%ED%98%B8.png",
       "author": "YanggoK",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8F%99%ED%95%B4%EC%83%81%EC%82%AC%EA%B3%A0%EC%86%8D_%EC%86%8D%EC%B4%88%EB%8F%99%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%99%B8_1546%ED%98%B8.png",
+      "title": "속초고속터미널 외부.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%99%B8%EB%B6%80.png",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "note": "Photographed 2026-03-01. Source identifies a route vehicle, not the intercity terminal building. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
     },
-    "heroMediaId": "sokcho-intercity-bus",
-    "heroCaption": "A bus on the Sokcho–Dong Seoul intercity route in March 2026. Check your ticket for the terminal and boarding bay.",
+    "heroMediaId": "sokcho-express-terminal-exterior-2023",
+    "heroCaption": "Sokcho Express Bus Terminal (속초고속버스터미널) in November 2023. Compare your ticket with the two Korean terminal names in the guide.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "cardImageLabel": "Express terminal pictured"
   },
   "sokcho-market-gaetbae-abai-village-walk": {
     "id": "sokcho-market-gaetbae-abai-walk",
@@ -20201,6 +20212,251 @@
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "namhae-german-village-migration-history": {
+    "id": "namhae-german-village-migration-history",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Walk the public streets of German Village, then check whether the exhibition hall is open for the story of Korean miners and nurses who worked in Germany.",
+    "forWhom": "Travelers seeking a short cultural stop with a sea view and a museum visit",
+    "conditions": [
+      "The streets are residential and sloped. Check the exhibition hall’s holiday rule and entry cutoff."
+    ],
+    "regions": [
+      "namhae"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "migration history",
+      "village walks",
+      "museums"
+    ],
+    "relations": [
+      {
+        "slug": "namhae-sangju-silver-sand-beach-walk",
+        "type": "next",
+        "label": "Plan a separate bay walk",
+        "reason": "Visit Sangju for a different landscape after checking the road or local bus back."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "namhae-german-village",
+      "namhae-german-exhibition-hall"
+    ],
+    "shareFacts": [
+      "Plan the exhibition hall separately",
+      "Follow public village paths",
+      "Check your return ride before visiting"
+    ],
+    "sources": [
+      {
+        "id": "namhae-german-village-migration-history-source-1",
+        "title": "VisitKorea German Village",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=75683",
+        "note": "Village background and area marker.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "namhae-german-village-migration-history-source-2",
+        "title": "VisitKorea Namhae German Exhibition Hall",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=68074",
+        "note": "Hours, ticket conditions, address and contact.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "namhae-german-village-migration-history-source-3",
+        "title": "Namhae County published visitor map",
+        "url": "https://council.namhae.go.kr/UPLOAD_FILE/council_sosikji2/2512sang_compressed.pdf",
+        "note": "Places the village and exhibition hall on the same side of Namhae.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1219,
+    "changeType": "new",
+    "heroMediaId": "namhae-german-village-rooftops-2019",
+    "heroCaption": "Hillside houses in Namhae German Village in 2019. Use the public lanes and leave private entrances clear.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Choi2451",
+      "title": "German Village and the coast in 2019",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_of_German_Village_in_Namhae,_South_Korea.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "west"
+  },
+  "namhae-daraengi-village-terrace-walk": {
+    "id": "namhae-daraengi-village-terrace-walk",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the signed village paths and turn back while the return slope suits you. The full Daraengi Jiget-gil path is a separate point-to-point outing.",
+    "forWhom": "Travelers who want a village and terrace visit without committing to a long hike",
+    "conditions": [
+      "The hillside is steep. The village marker and signed trail start serve different purposes, so use the stop or parking details for your itinerary."
+    ],
+    "regions": [
+      "namhae"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "terraces",
+      "village walks",
+      "coastal trails"
+    ],
+    "relations": [
+      {
+        "slug": "namhae-german-village-migration-history",
+        "type": "alternative",
+        "label": "Choose a cultural village visit",
+        "reason": "Pair the houses with the exhibition if you prefer a shorter walk and a separate indoor stop."
+      },
+      {
+        "slug": "namhae-sangju-silver-sand-beach-walk",
+        "type": "next",
+        "label": "Compare an open bay walk",
+        "reason": "Sangju offers a separate shore visit with a different approach and return."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "namhae-gacheon-daraengi-village"
+    ],
+    "shareFacts": [
+      "Start with the public terrace lanes",
+      "Allow for the climb back",
+      "Plan a separate pickup for the full trail"
+    ],
+    "sources": [
+      {
+        "id": "namhae-daraengi-village-terrace-walk-source-1",
+        "title": "VisitKorea Gacheon Daraengi Village",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90688",
+        "note": "Village area marker and general facilities.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "namhae-daraengi-village-terrace-walk-source-2",
+        "title": "Namhae Tourism and Culture Foundation Barae-gil routes",
+        "url": "https://www.namhaetour.org/01250/01251.web",
+        "note": "Current section 11 endpoints and walking route.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "namhae-daraengi-village-terrace-walk-source-3",
+        "title": "VisitKorea Daraengi Jiget-gil trail",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=68098",
+        "note": "Trail-specific start address for the full outing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1220,
+    "changeType": "new",
+    "heroMediaId": "namhae-daraengi-village-agricultural-terraces-2019",
+    "heroCaption": "Gacheon Daraengi Village and its terraced slope in September 2019. The appearance of the fields changes by season.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Choi2451",
+      "title": "Gacheon Daraengi Village terraces in September 2019",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gacheon_Daraengi_Village,_Namhae_on_September_1st,_2019.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "namhae-sangju-silver-sand-beach-walk": {
+    "id": "namhae-sangju-silver-sand-beach-walk",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Visit Sangju for an out-and-back walk when local access is open. Check the operator’s official bathing season separately and plan your return before going onto the sand.",
+    "forWhom": "Travelers planning a south-side Namhae beach stop with or without a car",
+    "conditions": [
+      "Weather can restrict access to the sand. The operator restricts sea bathing to the official opening period."
+    ],
+    "regions": [
+      "namhae"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "beaches",
+      "off-season walks",
+      "local transport"
+    ],
+    "relations": [
+      {
+        "slug": "namhae-daraengi-village-terrace-walk",
+        "type": "alternative",
+        "label": "See the coastal terraces",
+        "reason": "Daraengi offers a distinct hillside walk if the beach access or timing does not suit you."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "namhae-sangju-silver-sand-beach"
+    ],
+    "shareFacts": [
+      "Use the public lot at 상주리 1227",
+      "Check local access and bathing rules",
+      "Confirm the bus or pickup back"
+    ],
+    "sources": [
+      {
+        "id": "namhae-sangju-silver-sand-beach-walk-source-1",
+        "title": "Sangju beach operator access FAQ",
+        "url": "https://www.sangjubeach.com/Home/H40000/H40100/boardList",
+        "note": "Distinguishes sand access from the official bathing period.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "namhae-sangju-silver-sand-beach-walk-source-2",
+        "title": "Sangju beach operator directions",
+        "url": "https://sangjubeach.com/Home/H10000/H10200/html",
+        "note": "Public lot address and local bus directions from the terminal.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "namhae-sangju-silver-sand-beach-walk-source-3",
+        "title": "VisitKorea Sangju Silver Sand Beach",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=103281",
+        "note": "Official beach area listing and general destination marker.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1221,
+    "changeType": "new",
+    "heroMediaId": "namhae-sangju-silver-sand-beach-2019",
+    "heroCaption": "The curved Sangju shoreline in September 2019. Follow current access and swimming signs at the beach.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Choi2451",
+      "title": "Sangju Silver Sand Beach in September 2019",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sangju_Eunmorae_Beach.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
     },
     "gallery": [],
     "experienceVersion": 2

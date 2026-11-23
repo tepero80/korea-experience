@@ -1,10 +1,10 @@
 ---
 title: "Suwon Hwaseong Museum Before Your Fortress Walk"
 date: '2026-11-09'
-updated: '2026-11-09'
+updated: 2026-11-24
 excerpt: "Plan an indoor museum visit, check tickets and choose the next step on a Suwon fortress day."
 category: culture-events
-image: /images/editorial/culture-suwon-hwaseong-museum-photo.webp
+image: /images/editorial/suwon-hwaseong-museum-facade-2024-1280.webp
 author: Korea Experience Editorial
 tags:
   - suwon

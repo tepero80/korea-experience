@@ -2259,5 +2259,70 @@
     "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111259",
     "checkedAt": "2026-11-24",
     "sourceNote": "Destination overview point from the Korea Tourism Organization listing."
+  },
+  {
+    "id": "namhae-german-village",
+    "name": "German Village",
+    "nameKo": "독일마을",
+    "address": "경상남도 남해군 삼동면 독일로 89-7",
+    "region": "namhae",
+    "latitude": 34.8000474598227,
+    "longitude": 128.038340182584,
+    "description": "KTO JSON-LD village point; not necessarily parking",
+    "sourceNote": "KTO JSON-LD village point; not necessarily parking",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=75683",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "namhae-german-exhibition-hall",
+    "name": "Namhae German Exhibition Hall",
+    "nameKo": "남해 파독전시관",
+    "address": "경상남도 남해군 삼동면 독일로 89-7",
+    "region": "namhae",
+    "latitude": 34.7997447188588,
+    "longitude": 128.038406850912,
+    "description": "KTO JSON-LD hall point",
+    "sourceNote": "KTO JSON-LD hall point",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=68074",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "namhae-gacheon-daraengi-village",
+    "name": "Gacheon Daraengi Village",
+    "nameKo": "가천다랭이마을",
+    "address": "경상남도 남해군 남면 남면로 702",
+    "region": "namhae",
+    "latitude": 34.7279422887628,
+    "longitude": 127.894374961446,
+    "description": "KTO village point; English and Korean street addresses differ; parking entry not confirmed",
+    "sourceNote": "KTO village point; English and Korean street addresses differ; parking entry not confirmed",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=90688",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "namhae-sangju-silver-sand-beach",
+    "name": "Sangju Silver Sand Beach",
+    "nameKo": "상주 은모래비치",
+    "address": "경상남도 남해군 상주면 상주로 17",
+    "region": "namhae",
+    "latitude": 34.7221779419723,
+    "longitude": 127.987446964985,
+    "description": "Beach area marker from VisitKorea. The operator lists a separate public parking site at 상주리 1227.",
+    "sourceNote": "Beach area marker from VisitKorea. The operator lists a separate public parking site at 상주리 1227.",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=103281",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "suwon-hwaseong-museum",
+    "name": "Suwon Hwaseong Museum",
+    "nameKo": "수원화성박물관",
+    "address": "경기도 수원시 팔달구 창룡대로 21",
+    "region": "suwon",
+    "latitude": 37.2826211053621,
+    "longitude": 127.018903340389,
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=70929",
+    "description": "Museum at 21 Changnyong-daero, Paldal-gu. The separate Suwon Museum is in Yeongtong-gu.",
+    "sourceNote": "VisitKorea map marker. The city directions page confirms the Korean street address.",
+    "checkedAt": "2026-11-24"
   }
 ]

@@ -3,7 +3,7 @@ title: 'Sokcho Bus Terminals: Intercity or Express?'
 date: '2026-11-23'
 excerpt: 'Match your Sokcho bus ticket to the right terminal, then plan the last leg to the market, the beach or Seoraksan.'
 category: airports-transport
-image: /images/editorial/sokcho-intercity-bus-1280.webp
+image: /images/editorial/sokcho-express-terminal-exterior-2023-1280.webp
 author: Korea Experience Editorial
 tags:
   - sokcho

@@ -122,7 +122,7 @@ export const REGIONS: readonly Region[] = [
     tip: 'Plan around your exact stops and return times. Keep an alternative on Jeju itself for ferry days and avoid relying on the last connection.',
     highlights: [
       'where-to-stay-in-jeju-without-a-car',
-      'jeju-airport-to-jeju-city-and-seogwipo',
+      'seongsan-ilchulbong-by-bus-from-jeju-city',
       'jeju-airport-to-hamdeok-beach-by-bus',
       'seogwipo-cheonjiyeon-or-jeongbang-waterfall',
       'soesokkak-estuary-walk-or-boat',
@@ -338,6 +338,7 @@ export const REGIONS: readonly Region[] = [
     ],
     onward: [
       { regionId: 'geoje', reason: 'Continue along the south coast for Geoje’s historic park or a separate boat trip to Oedo.' },
+      { regionId: 'namhae', reason: 'Plan a separate road leg to Namhae for hillside villages and a bay walk.' },
       { regionId: 'busan', reason: 'Choose a Busan base before planning the onward bus and the transfer to your stay.' },
     ],
   },
@@ -359,6 +360,21 @@ export const REGIONS: readonly Region[] = [
       { regionId: 'tongyeong', reason: 'Keep the Gangguan waterfront and Tongyeong’s separate passenger terminal on a mainland plan.' },
       { regionId: 'busan', reason: 'Check the onward bus and choose a Busan neighborhood around what you will do next.' },
     ],
+  },
+  {
+    id: 'namhae',
+    name: 'Namhae',
+    nameKo: '남해',
+    area: 'Southeast',
+    coverMediaId: 'namhae-coastal-rice-terraces-2019',
+    intro: 'Pick a hillside village, a migration-history stop or a walk around Sangju Bay. Check the road or bus between them before planning a single day.',
+    tip: 'The terrace lanes, German Village and Sangju are separate stops. Save the exact parking or bus location and confirm your return before setting off.',
+    highlights: [
+      'namhae-german-village-migration-history',
+      'namhae-daraengi-village-terrace-walk',
+      'namhae-sangju-silver-sand-beach-walk',
+    ],
+    onward: [{ regionId: 'tongyeong', reason: 'Continue by road on a separate day for the harbor and island views. Check the intercity connection first.' }],
   },
 ];
 
