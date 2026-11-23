@@ -13,6 +13,33 @@ import {
   type RetirementEvidence,
 } from '../lib/retirement';
 import { internalGuideLinks } from '../lib/content-links';
+import { findGuideMatches, indexGuides } from '../lib/guide-search';
+
+test('guide search favors a relevant complete match but keeps partial lookup available', () => {
+  const index = indexGuides([
+    {
+      slug: 'partial',
+      title: 'Train museum',
+      excerpt: 'Indoor exhibitions.',
+      category: 'Culture & Events',
+      reviewed: true,
+    },
+    {
+      slug: 'complete',
+      title: 'Bring your luggage on a train',
+      excerpt: 'Check the locker and rack options.',
+      category: 'Airports & Transport',
+      content: 'Carry a folding bicycle in the appropriate bag.',
+    },
+  ]);
+  assert.deepEqual(
+    findGuideMatches(index, 'train bicycle').map((guide) => guide.slug),
+    ['complete', 'partial'],
+  );
+  assert.equal(findGuideMatches(index, 'lugg')[0]?.slug, 'complete');
+  assert.deepEqual(findGuideMatches(index, '??'), []);
+});
+
 test('link audit distinguishes relative guide links from another site’s blog path', () => {
   assert.deepEqual(
     internalGuideLinks(

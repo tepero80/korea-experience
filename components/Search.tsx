@@ -99,6 +99,7 @@ export default function Search({ variant = 'icon' }: { variant?: 'icon' | 'hero'
       <dialog
         ref={dialog}
         className="search-dialog"
+        aria-labelledby={`${inputId}-label`}
         onCancel={() => trigger.current?.focus()}
         onClick={(event) => {
           if (event.target === dialog.current) close();
@@ -108,7 +109,7 @@ export default function Search({ variant = 'icon' }: { variant?: 'icon' | 'hero'
         }}
       >
         <div className="search-dialog-top">
-          <label htmlFor={inputId}>What are you planning?</label>
+          <label id={`${inputId}-label`} htmlFor={inputId}>What are you planning?</label>
           <button className="icon-button" aria-label="Close search" onClick={close}>
             <Icon name="close" />
           </button>

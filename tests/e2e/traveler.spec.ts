@@ -264,11 +264,35 @@ test('search finds an arrival guide and Escape returns focus', async ({ page }) 
     ['Korea tourist tax refund', 'tax-refund-for-tourists-how-to-claim'],
     ['Which terminal does my flight leave from?', 'incheon-terminal-flight-check'],
     ['incheon baby', 'incheon-airport-baby-care-room-locations'],
+    ['Seoul to Busan', 'ktx-vs-srt-high-speed-train-comparison-and-booking'],
+    ['From Busan to Seoul by KTX', 'ktx-vs-srt-high-speed-train-comparison-and-booking'],
+    ['Seoul to Busan by bus', 'intercity-bus-travel-booking-apps-and-routes'],
+    ['Seoul to Busan weekend', 'seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices'],
+    ['Seoul to Busan weekend without a car', 'seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices'],
+    ['wheelchair palace', 'accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026'],
+    ['step-free Gyeongbokgung', 'accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026'],
   ];
   for (const [query, slug] of cases) {
     await searchbox.fill(query);
     await expect(result).toHaveAttribute('href', `/blog/${slug}`);
   }
+  await searchbox.fill('Seoul to Busan');
+  const options = dialog.locator('.search-results ul a');
+  await expect(options.nth(1)).toHaveAttribute(
+    'href',
+    '/blog/intercity-bus-travel-booking-apps-and-routes',
+  );
+  await expect(options.nth(2)).toHaveAttribute(
+    'href',
+    '/blog/seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices',
+  );
+  await expect(options).toHaveCount(3);
+  await searchbox.fill('step-free Gyeongbokgung');
+  await expect(options).toHaveCount(2);
+  await expect(options.nth(1)).toHaveAttribute(
+    'href',
+    '/blog/korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026',
+  );
   await searchbox.fill('???');
   await expect(dialog.getByText('No matching guides yet.', { exact: false })).toBeVisible();
   await searchbox.press('Escape');
