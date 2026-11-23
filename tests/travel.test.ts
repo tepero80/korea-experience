@@ -49,6 +49,8 @@ test('regional landmark and terminal searches only suggest relevant next steps',
     guide('sokcho-intercity-vs-express-bus-terminal', 'Which bus terminal in Sokcho?'),
     guide('sokcho-market-gaetbae-abai-village-walk', 'Sokcho market and Abai Village walk'),
     guide('incheon-terminal-flight-check', 'Incheon airport terminal'),
+    guide('airport-limousine-bus-vs-arex-express-train', 'Incheon Airport to Seoul by Bus or Train'),
+    guide('gwangmyeong-station-to-incheon-airport-bus-6770', 'Bus 6770 from Gwangmyeong Station to Incheon Airport'),
     guide('andong-wolyeonggyo-evening-walk', 'Wolyeonggyo Bridge in Andong'),
     guide('andong-station-and-bus-terminal-to-downtown', 'Get to central Andong'),
     guide('insadong-evening-walk', 'An evening walk in Insadong'),
@@ -58,6 +60,7 @@ test('regional landmark and terminal searches only suggest relevant next steps',
     ['mokpo marine cable car boarding', ['mokpo-marine-cable-car-boarding-without-a-car', 'mokpo-modern-history-museum-harbor-weather-plan']],
     ['sokcho bus terminal', ['sokcho-intercity-vs-express-bus-terminal', 'sokcho-market-gaetbae-abai-village-walk']],
     ['andong wolyeonggyo evening walk', ['andong-wolyeonggyo-evening-walk', 'andong-station-and-bus-terminal-to-downtown']],
+    ['gwangmyeong station to incheon airport bus 6770', ['gwangmyeong-station-to-incheon-airport-bus-6770', 'incheon-terminal-flight-check']],
   ] as const) {
     assert.deepEqual(findGuideMatches(index, query).map(({ slug }) => slug), expected);
   }

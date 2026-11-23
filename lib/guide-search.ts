@@ -121,7 +121,21 @@ function preferredGuide(phrase: string) {
   }
 }
 
+const namedTravelSearches = [
+  [/\bgwangmyeong\b.*\b(?:incheon|airport|6770)\b/, ['gwangmyeong-station-to-incheon-airport-bus-6770', 'incheon-terminal-flight-check']],
+  [/\b(?:osong.*(?:gongju|buyeo|c tour)|c tour.*(?:gongju|buyeo))\b/, ['osong-station-to-gongju-and-buyeo-c-tour-bus']],
+  [/\bcentral city\b.*\bjeonju\b/, ['seoul-central-city-to-jeonju-express-bus', 'jeonju-station-to-hanok-village']],
+  [/\bseoul museum of history\b/, ['seoul-museum-of-history-city-model-visit', 'gyeonghuigung-palace-from-seodaemun']],
+  [/\bgyeongju national museum\b/, ['gyeongju-national-museum-silla-and-wolji-galleries', 'gyeongju-donggung-wolji-woljeonggyo-evening-walk']],
+  [/\bgwanggyo lake\b/, ['suwon-gwanggyo-lake-park-short-walk']],
+  [/\bbomun lake\b/, ['gyeongju-bomun-lake-walk-short-or-loop']],
+  [/\bsorae\b.*\bwetlands?\b/, ['sorae-wetland-ecology-park-winter-walk', 'songdo-central-park-visit-plan']],
+] as const;
+
 function focusedGuides(phrase: string) {
+  const namedTravelSearch = namedTravelSearches.find(([pattern]) => pattern.test(phrase));
+  if (namedTravelSearch) return namedTravelSearch[1];
+
   if (
     /\bwolyeonggyo\b/.test(phrase) ||
     (/\b(?:woryeonggyo|moonlight bridge)\b/.test(phrase) && /\bandong\b/.test(phrase))

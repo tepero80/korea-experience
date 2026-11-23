@@ -754,6 +754,12 @@
     ],
     "relations": [
       {
+        "slug": "osong-station-to-gongju-and-buyeo-c-tour-bus",
+        "type": "next",
+        "label": "Continue from Osong to Gongju or Buyeo",
+        "reason": "Use the C-Tour timetable and confirm the stop and return booking before leaving."
+      },
+      {
         "slug": "suncheon-station-to-national-garden-east-gate",
         "type": "next",
         "label": "Continue from Suncheon Station to the garden",
@@ -3275,6 +3281,12 @@
     ],
     "relations": [
       {
+        "slug": "seoul-museum-of-history-city-model-visit",
+        "type": "next",
+        "label": "Use the city model for a free Seoul history visit",
+        "reason": "Check the ordinary hours and ask for English audio before going upstairs."
+      },
+      {
         "slug": "choosing-korean-cultural-experiences-reservations-and-walk-in-options",
         "type": "next",
         "label": "Your next decision",
@@ -4030,6 +4042,12 @@
       "transport"
     ],
     "relations": [
+      {
+        "slug": "gyeongju-national-museum-silla-and-wolji-galleries",
+        "type": "next",
+        "label": "Choose one Silla gallery before your visit",
+        "reason": "Plan a manageable indoor stop and keep the outdoor pond’s schedule as a separate check."
+      },
       {
         "slug": "gyeongju-donggung-wolji-woljeonggyo-evening-walk",
         "type": "next",
@@ -5171,6 +5189,12 @@
       "transport"
     ],
     "relations": [
+      {
+        "slug": "gwangmyeong-station-to-incheon-airport-bus-6770",
+        "type": "prepare",
+        "label": "Board the airport bus after KTX at Gwangmyeong",
+        "reason": "Check the flight terminal and the 6770 trip on your travel date."
+      },
       {
         "slug": "airport-limousine-bus-vs-arex-express-train",
         "type": "next",
@@ -10833,6 +10857,12 @@
     ],
     "relations": [
       {
+        "slug": "gyeonghuigung-palace-from-seodaemun",
+        "type": "alternative",
+        "label": "Try a shorter palace walk near Seodaemun",
+        "reason": "Check the daytime hours and walk from the Saemunan-ro gate to the main hall."
+      },
+      {
         "slug": "gyeongbokgung-to-tongin-market-lunch",
         "type": "next",
         "label": "Pair the palace with a Seochon market lunch",
@@ -11410,6 +11440,12 @@
     ],
     "relations": [
       {
+        "slug": "suwon-gwanggyo-lake-park-short-walk",
+        "type": "alternative",
+        "label": "Take a short lake walk in Gwanggyo",
+        "reason": "Start at the Urban Levee on a day when you have time for a separate district."
+      },
+      {
         "slug": "suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026",
         "type": "nearby",
         "label": "Continue to the palace and fortress",
@@ -11499,6 +11535,12 @@
       "waterfront"
     ],
     "relations": [
+      {
+        "slug": "sorae-wetland-ecology-park-winter-walk",
+        "type": "alternative",
+        "label": "Plan an Incheon wetland walk",
+        "reason": "Use the designated Sorae trails in daylight and check winter facility hours."
+      },
       {
         "slug": "incheon-airport-to-songdo-hotels",
         "type": "prepare",
@@ -11722,6 +11764,12 @@
       "car-free"
     ],
     "relations": [
+      {
+        "slug": "gyeongju-bomun-lake-walk-short-or-loop",
+        "type": "interest",
+        "label": "Choose a shore walk at Bomun Lake",
+        "reason": "Compare a short plaza out-and-back with a separate 8 km circuit."
+      },
       {
         "slug": "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026",
         "type": "prepare",
@@ -12145,6 +12193,12 @@
     ],
     "relations": [
       {
+        "slug": "seoul-central-city-to-jeonju-express-bus",
+        "type": "alternative",
+        "label": "Compare the Seoul express coach before booking rail",
+        "reason": "Use Central City in Seoul and the express terminal in Jeonju as the two endpoints."
+      },
+      {
         "slug": "jeonju-gyeonggijeon-omokdae-walking-route",
         "type": "next",
         "label": "Plan the shrine and village walk",
@@ -12234,6 +12288,12 @@
       "markets"
     ],
     "relations": [
+      {
+        "slug": "jeonju-national-museum-monday-from-hanok-village",
+        "type": "alternative",
+        "label": "Visit the national museum if your plan needs an indoor stop",
+        "reason": "Confirm the Monday schedule and ride from Hanok Village."
+      },
       {
         "slug": "jeonju-station-to-hanok-village",
         "type": "prepare",
@@ -12971,6 +13031,12 @@
       "coast"
     ],
     "relations": [
+      {
+        "slug": "jeongdongjin-station-to-beach-year-round",
+        "type": "alternative",
+        "label": "Get off at Jeongdongjin for the beach",
+        "reason": "Check whether your specific train stops there and save the return."
+      },
       {
         "slug": "gangneung-gyeongpo-lake-and-beach-walk",
         "type": "next",
@@ -15761,6 +15827,1143 @@
     },
     "heroMediaId": "taejongdae-yeongdo-lighthouse",
     "heroCaption": "Yeongdo Lighthouse on the rocky Taejongdae shore, photographed in August 2012. Check current access with park staff.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "jeonju-national-museum-monday-from-hanok-village": {
+    "id": "culture-jeonju-national-museum-monday",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-23",
+    "answer": "The main Jeonju National Museum usually opens Mondays from 10:00 to 18:00, with last entry at 17:30. Check temporary closures and the separate children’s schedule before crossing town.",
+    "forWhom": "Travelers based near Jeonju Hanok Village who want a free indoor museum visit on a Monday",
+    "conditions": [
+      "The main and children’s buildings are temporarily closed December 14, 2026.",
+      "The children’s building has separate third-Monday closures, inspection pauses and walk-in capacity limits.",
+      "Check the route from your actual location and allow time to reach the museum before the 17:30 last entry."
+    ],
+    "regions": [
+      "jeonju"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "museums",
+      "history",
+      "monday",
+      "family",
+      "rainy-day"
+    ],
+    "relations": [
+      {
+        "slug": "jeonju-gyeonggijeon-omokdae-walking-route",
+        "type": "alternative",
+        "label": "Use the Hanok Village walk on a clear day",
+        "reason": "Check shrine access separately and stay near the village if the national museum is closed."
+      },
+      {
+        "slug": "jeonju-station-to-hanok-village",
+        "type": "prepare",
+        "label": "Set the station and village transfers",
+        "reason": "Decide where to leave bags and keep time for the trip back to your rail departure."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeonju-national-museum-wansan"
+    ],
+    "sources": [
+      {
+        "id": "culture-jeonju-national-museum-monday-source-1",
+        "title": "Jeonju National Museum visitor information",
+        "url": "https://jeonju.museum.go.kr/menu.es?mid=a10101000000",
+        "note": "Official main gallery hours, free permanent entry, ordinary Mondays and closures.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jeonju-national-museum-monday-source-2",
+        "title": "December 2026 temporary closure",
+        "url": "https://jeonju.museum.go.kr/board.es?act=view&bid=0001&list_no=8981&mid=a10105010000&nPage=5",
+        "note": "The December 14 notice applies to both buildings while the grounds remain open.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jeonju-national-museum-monday-source-3",
+        "title": "Jeonju Children’s Museum visitor information",
+        "url": "https://jeonju.museum.go.kr/menu.es?mid=a50201000000",
+        "note": "Different opening hours, inspection breaks, monthly closure and booking rules.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jeonju-national-museum-monday-source-4",
+        "title": "Jeonju National Museum directions",
+        "url": "https://jeonju.museum.go.kr/menu.es?mid=a10106000000",
+        "note": "Official street address, two city bus stop names and operator taxi estimates.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jeonju-national-museum-monday-source-5",
+        "title": "Jeonju and Joseon Royal Court gallery",
+        "url": "https://jeonju.museum.go.kr/menu.es?mid=a10202050000",
+        "note": "The permanent gallery describes the city's ties to the Joseon royal court.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jeonju-national-museum-monday-source-6",
+        "title": "VisitKorea Jeonju National Museum location",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111455",
+        "note": "Published overview marker and location corroboration.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Main galleries usually open Mondays",
+      "17:30 standard last entry",
+      "Check the children’s building separately"
+    ],
+    "launchOrder": 1175,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jeonju National Museum-1.jpg",
+      "author": "Twotwo2019",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeonju_National_Museum-1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-08-10. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "jeonju-national-museum-forecourt",
+    "heroCaption": "The main museum across its patterned forecourt in August 2024. Check the indoor building calendar and current directions for your visit.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seoul-museum-of-history-city-model-visit": {
+    "id": "culture-seoul-history-museum-city-model",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-23",
+    "answer": "Visit Seoul Museum of History near Gwanghwamun for a free overview of the city. Start with the third-floor model on a short visit, or use the permanent galleries to spend more time on a specific era. Confirm regular daytime entry before traveling.",
+    "forWhom": "Visitors near Gwanghwamun who want a free indoor city-history stop or English audio",
+    "conditions": [
+      "Ordinary daytime hours are 09:00 to 18:00 with last entry at 17:30.",
+      "The museum lists Mondays and January 1 as closures. Verify Friday evening access directly before relying on it.",
+      "The free audio player requires an ID card. Check availability and accepted documents at the desk."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "museums",
+      "history",
+      "rainy-day",
+      "city-orientation"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-museums-and-exhibitions-planning-guide",
+        "type": "alternative",
+        "label": "Compare collections before choosing a second museum",
+        "reason": "Use the city history galleries for Seoul itself and the broader museum guide for other interests."
+      },
+      {
+        "slug": "deoksugung-to-seoul-museum-of-art",
+        "type": "next",
+        "label": "Try a City Hall palace and art visit",
+        "reason": "Save the separate downtown route for when you have time for both venues."
+      },
+      {
+        "slug": "gyeonghuigung-palace-from-seodaemun",
+        "type": "nearby",
+        "label": "Walk the palace grounds when the weather fits",
+        "reason": "The outdoor palace starts at a different Saemunan-ro entrance and has its own closing calendar."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-museum-of-history-saemunan"
+    ],
+    "sources": [
+      {
+        "id": "culture-seoul-history-museum-city-model-source-1",
+        "title": "Seoul Museum of History visitor information",
+        "url": "https://museum.seoul.go.kr/eng/visit/visInfo.jsp",
+        "note": "Free admission, ordinary daytime closing, last entry and closed days.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-seoul-history-museum-city-model-source-2",
+        "title": "Seoul Museum of History subway directions",
+        "url": "https://museum.seoul.go.kr/eng/visit/location/locSubway.jsp",
+        "note": "Official address, exits, approximate distances and visitor telephone.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-seoul-history-museum-city-model-source-3",
+        "title": "Seoul Museum of History third-floor map",
+        "url": "https://museum.seoul.go.kr/eng/visit/floor/floor3rd.jsp",
+        "note": "Permanent gallery themes and city model on the third floor.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-seoul-history-museum-city-model-source-4",
+        "title": "Seoul Museum of History audio guide",
+        "url": "https://museum.seoul.go.kr/eng/visit/audioGuide.jsp",
+        "note": "Free loans at the information desk with an ID card and available languages.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-seoul-history-museum-city-model-source-5",
+        "title": "VisitKorea Seoul Museum of History location",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=111432",
+        "note": "Location and overview marker, with independent daytime-hour corroboration.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Free city-history galleries",
+      "City model on the third floor",
+      "Free English audio with ID"
+    ],
+    "launchOrder": 1176,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Seoul Museum of History 2026.jpg",
+      "author": "RPD SMH",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_History_2026.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "See the source page for image details. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "seoul-history-museum-garden-entrance",
+    "heroCaption": "The exterior approach to Seoul Museum of History in a file dated January 2026. Look for the front entrance and check what is open when you arrive.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gyeongju-national-museum-silla-and-wolji-galleries": {
+    "id": "culture-gyeongju-museum-silla-wolji",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-23",
+    "answer": "Start with the Silla History Gallery for the kingdom’s wider history or choose Wolji Gallery for objects recovered at Donggung and Wolji. The two buildings are on the same museum campus and the outdoor pond site has a separate visit.",
+    "forWhom": "First-time Gyeongju travelers choosing one museum building with limited time or poor weather",
+    "conditions": [
+      "Ordinary hours are 10:00 to 18:00 with last admission 30 minutes before closing.",
+      "Indoor maintenance closures occur on the second Monday of certain months. Check the date directly.",
+      "The museum’s Wolji Gallery and the outdoor Donggung and Wolji site use separate opening conditions."
+    ],
+    "regions": [
+      "gyeongju"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "museums",
+      "silla",
+      "history",
+      "rainy-day"
+    ],
+    "relations": [
+      {
+        "slug": "gyeongju-donggung-wolji-woljeonggyo-evening-walk",
+        "type": "next",
+        "label": "See the pond site after checking its entry cutoff",
+        "reason": "Use the outdoor route and current closing information separately from the museum."
+      },
+      {
+        "slug": "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026",
+        "type": "prepare",
+        "label": "Fit the museum into the central history day",
+        "reason": "Keep the farther Bulguksa and Seokguram transport leg in a different part of your itinerary."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gyeongju-museum"
+    ],
+    "sources": [
+      {
+        "id": "culture-gyeongju-museum-silla-wolji-source-1",
+        "title": "Gyeongju National Museum hours and closures",
+        "url": "https://gyeongju.museum.go.kr/kor/html/sub01/0101.html",
+        "note": "Ordinary hours, admission cutoff, indoor maintenance schedule and free permanent galleries.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-gyeongju-museum-silla-wolji-source-2",
+        "title": "Gyeongju National Museum official directions",
+        "url": "https://gyeongju.museum.go.kr/eng/html/sub01/0103.html",
+        "note": "Street address and phone. Some older station labels make a live route check advisable.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-gyeongju-museum-silla-wolji-source-3",
+        "title": "Silla History Gallery",
+        "url": "https://gyeongju.museum.go.kr/eng/html/sub02/0201.html?d_mng_no=10&mode=VD",
+        "note": "The gallery’s separate chronological rooms and Silla collection.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-gyeongju-museum-silla-wolji-source-4",
+        "title": "Wolji Gallery",
+        "url": "https://gyeongju.museum.go.kr/eng/html/sub02/0201.html?d_mng_no=13&mode=VD",
+        "note": "Objects excavated at Donggung and Wolji.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-gyeongju-museum-silla-wolji-source-5",
+        "title": "Gyeongju city live transit information",
+        "url": "https://its.gyeongju.go.kr/",
+        "note": "Use the live city transport tools for the bus from the traveler’s actual starting point.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Choose Silla History or Wolji Gallery",
+      "Free permanent galleries",
+      "Check indoor maintenance dates"
+    ],
+    "launchOrder": 1177,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gyeongju National Museum Silla History Gallery.JPG",
+      "author": "Abasaa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum_Silla_History_Gallery.JPG",
+      "license": "Public domain (author dedication)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum_Silla_History_Gallery.JPG#Licensing",
+      "note": "Photographed 2016-02-21. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "gyeongju-museum-silla-history-gallery-exterior",
+    "heroCaption": "The Silla History Gallery building in February 2016. Look for current campus signs and ask which museum entrance suits your route.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gyeonghuigung-palace-from-seodaemun": {
+    "id": "culture-gyeonghuigung-palace-seodaemun",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-23",
+    "answer": "Start from the Saemunan-ro entrance and walk through the outer gate toward Sungjeongjeon, the main hall. The palace is a free outdoor stop with ordinary opening from 09:00 to 18:00. Check the date and your available daylight before leaving.",
+    "forWhom": "Travelers who want a compact outdoor palace stop near Seodaemun or the Seoul Museum of History",
+    "conditions": [
+      "The operator lists Mondays and New Year’s Day as closures.",
+      "Check the walk from the actual metro exit and the open paths from the street gate.",
+      "Confirm final admission and on-site conditions separately before traveling close to closing."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "palaces",
+      "history",
+      "short-walk",
+      "seodaemun"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-museum-of-history-city-model-visit",
+        "type": "nearby",
+        "label": "Use the museum next door as a separate indoor stop",
+        "reason": "Put the city model first if the weather turns and verify that day's museum entry cutoff."
+      },
+      {
+        "slug": "korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026",
+        "type": "alternative",
+        "label": "Compare the other palace visits",
+        "reason": "Pick a larger complex or check a tour schedule before you make the trip."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gyeonghuigung-palace-saemunan"
+    ],
+    "sources": [
+      {
+        "id": "culture-gyeonghuigung-palace-seodaemun-source-1",
+        "title": "Gyeonghuigung Palace official branch information",
+        "url": "https://museum.seoul.go.kr/eng/about/annex/gyeonghuigungPalace.jsp",
+        "note": "Operator descriptions of the buildings, published hours, holidays, admission and subway approach.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-gyeonghuigung-palace-seodaemun-source-2",
+        "title": "VisitKorea Gyeonghuigung Palace listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110682",
+        "note": "Lists the palace address, restored buildings and the published overview map marker.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-gyeonghuigung-palace-seodaemun-source-3",
+        "title": "VisitKorea Seoul royal palaces comparison",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=201117",
+        "note": "The national tourism organization’s comparison identifies the smaller scope of the palace and its neighboring museum.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Free central Seoul palace grounds",
+      "Start at the Saemunan-ro gate",
+      "Check Monday closures"
+    ],
+    "launchOrder": 1178,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "경희궁 숭정전 1.jpg",
+      "author": "HaeeunJin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B2%BD%ED%9D%AC%EA%B6%81_%EC%88%AD%EC%A0%95%EC%A0%84_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2016-06-16. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "gyeonghuigung-sungjeongjeon-hall",
+    "heroCaption": "Gyeonghuigung’s main hall and courtyard in June 2016. Enter from Saemunan-ro and check which paths are open on the day.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "suwon-gwanggyo-lake-park-short-walk": {
+    "id": "places-suwon-gwanggyo-woncheon-short-walk",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Start beside the Urban Levee at Woncheon Lake, at 102 Gwanggyohosugongwon-ro. Walk an open section of shore and return the same way. The full Woncheon and Sindae circuits take more time than a short waterfront stop.",
+    "forWhom": "Travelers visiting Gwanggyo who want a short lakeside outing with a simple return",
+    "conditions": [
+      "The park extends around two reservoirs and a generic map pin can land at a different facility.",
+      "Check levels, slopes and footing before using a deck.",
+      "Indoor facilities and attractions have separate hours."
+    ],
+    "regions": [
+      "suwon"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "walking",
+      "lake",
+      "outdoors",
+      "short visits"
+    ],
+    "relations": [
+      {
+        "slug": "suwon-nammun-market-lunch-walk",
+        "type": "alternative",
+        "label": "Keep lunch near the fortress",
+        "reason": "Use the market walk if your day is already centered on Suwon’s old city."
+      },
+      {
+        "slug": "suwon-hwaseong-museum-before-fortress",
+        "type": "alternative",
+        "label": "Plan an indoor stop near Hwaseong",
+        "reason": "Compare travel time before moving between geographically separate areas."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gwanggyo-urban-levee-woncheon"
+    ],
+    "sources": [
+      {
+        "id": "places-suwon-gwanggyo-woncheon-short-walk-source-1",
+        "title": "Suwon City: Gwanggyo Lake Park and its two circuits",
+        "url": "https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-01/sw-visitsuwon-01-03.jsp",
+        "note": "Details the two reservoirs, their separate walks and the Urban Levee.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-suwon-gwanggyo-woncheon-short-walk-source-2",
+        "title": "Suwon City: Urban Levee kiosk-front facility",
+        "url": "https://www.suwon.go.kr/web/reserv/faci/view.do?seqNo=610",
+        "note": "Names the Urban Levee location and publishes its coordinates and road address.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-suwon-gwanggyo-woncheon-short-walk-source-3",
+        "title": "Suwon Museum of Art: Art Space Gwanggyo directions",
+        "url": "https://suma.suwon.go.kr/views/come.do?gubun=3",
+        "note": "Lists the convention center address, Gwanggyo Jungang Exit 4 and walking approach to the center.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-suwon-gwanggyo-woncheon-short-walk-source-4",
+        "title": "KTO: Gwanggyo Lake Park visitor listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=176170",
+        "note": "Provides free park access and visitor facilities. Use the city pin for this specific route.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Start at the Urban Levee by Woncheon Lake",
+      "Save 102 Gwanggyohosugongwon-ro",
+      "Take the same path back for a short walk"
+    ],
+    "launchOrder": 1179,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "광교호수공원 (3).jpg",
+      "author": "Jocelyndurrey",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_(3).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2014-10-05. Historic photograph of the park. It does not identify the current Urban Levee entrance. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "gwanggyo-lake-waterfront-landing",
+    "heroCaption": "A paved landing and lake view in Gwanggyo Lake Park in October 2014. The city-listed Urban Levee pin in this guide is the starting point for the short walk.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gyeongju-bomun-lake-walk-short-or-loop": {
+    "id": "places-gyeongju-bomun-lake-walk-choice",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Start at Bomun Lakeside Plaza for a short out-and-back along the shore. Use Gyeongju City’s roughly 8 km circuit from Donggungwon if you have about two hours for walking plus time for stops and transport.",
+    "forWhom": "Visitors choosing between a short visit at Bomun Lake and a dedicated half-day walk",
+    "conditions": [
+      "Bridge and deck conditions can change.",
+      "Allow time to return to the bus stop or taxi pickup.",
+      "The loop estimate is for walking time."
+    ],
+    "regions": [
+      "gyeongju"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "walking",
+      "lake",
+      "outdoors",
+      "short visits"
+    ],
+    "relations": [
+      {
+        "slug": "gyeongju-ktx-to-hwangnidan",
+        "type": "prepare",
+        "label": "Plan your first ride from Gyeongju Station",
+        "reason": "Check the downtown transfer if you are visiting the historic center before the lake."
+      },
+      {
+        "slug": "gyeongju-donggung-wolji-woljeonggyo-evening-walk",
+        "type": "next",
+        "label": "Return downtown for an evening walk",
+        "reason": "Use its separate admission and walking plan after a short lake visit."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "bomun-lakeside-plaza"
+    ],
+    "sources": [
+      {
+        "id": "places-gyeongju-bomun-lake-walk-choice-source-1",
+        "title": "Gyeongju City: Bomun Lake full walking route",
+        "url": "https://www.gyeongju.go.kr/tour/page.do?mnu_uid=4740",
+        "note": "Names the plaza and loop route with segment times and public road addresses.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-gyeongju-bomun-lake-walk-choice-source-2",
+        "title": "KTO: Bomun Lake visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=92226",
+        "note": "Provides the plaza road address and mapped visitor point.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-gyeongju-bomun-lake-walk-choice-source-3",
+        "title": "Gyeongju City Traffic Information Center",
+        "url": "https://its.gyeongju.go.kr/",
+        "note": "Directs visitors to check current transit on their travel date.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Short walk from Bomun Lakeside Plaza",
+      "Full loop about 8 km from Donggungwon",
+      "Check bridge and deck conditions"
+    ],
+    "launchOrder": 1180,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Bomun Lake from Gyeongju World.jpg",
+      "author": "Christophe95",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bomun_Lake_from_Gyeongju_World.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-10-01. A view from the amusement park. The plaza and public trail have their own approaches. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "bomun-lake-view-from-gyeongju-world",
+    "heroCaption": "Bomun Lake photographed from Gyeongju World in October 2018. The view shows how the lake extends beyond the short walk at the plaza.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "jeongdongjin-station-to-beach-year-round": {
+    "id": "places-gangneung-jeongdongjin-rail-beach-walk",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Book a train that actually stops at Jeongdongjin and follow the public route to the station-side beach. KTO estimates about three minutes on foot. Save the return first, then add Sandglass Park if you have time.",
+    "forWhom": "Train travelers visiting Jeongdongjin for an ordinary beach outing beyond the New Year event",
+    "conditions": [
+      "Book against current train availability and check the return to the correct station.",
+      "Follow current beach access and swimming notices.",
+      "New Year event operations can differ from an ordinary day."
+    ],
+    "regions": [
+      "gangneung"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "coast",
+      "walking",
+      "rail",
+      "short visits"
+    ],
+    "relations": [
+      {
+        "slug": "jeongdongjin-2027-new-year-sunrise-festival-plan",
+        "type": "alternative",
+        "label": "Plan the New Year event separately",
+        "reason": "Use the event’s published schedule and check holiday transport and access."
+      },
+      {
+        "slug": "korea-coastal-winter-wave-safety",
+        "type": "prepare",
+        "label": "Check coastal conditions first",
+        "reason": "Plan a landward alternative when warnings and barriers limit the shoreline."
+      },
+      {
+        "slug": "gangneung-station-anmok",
+        "type": "alternative",
+        "label": "Arrive at Anmok from Gangneung Station",
+        "reason": "Use a different car-free coast route if your train goes to Gangneung rather than Jeongdongjin."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeongdongjin-station-beach-access",
+      "jeongdongjin-sandglass-park"
+    ],
+    "sources": [
+      {
+        "id": "places-gangneung-jeongdongjin-rail-beach-walk-source-1",
+        "title": "KTO: East Coast train trip and Jeongdongjin walking time",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1591437",
+        "note": "Names the rail stop, station-side beach and approximate three-minute public walk.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-gangneung-jeongdongjin-rail-beach-walk-source-2",
+        "title": "KTO: Jeongdongjin beach accessibility listing",
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=60b3ac94-f4ac-44ca-a6f5-213db72833cb",
+        "note": "Distinguishes station-side and park-side beach areas and reports available facilities.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-gangneung-jeongdongjin-rail-beach-walk-source-3",
+        "title": "Gangneung Tourism Development Corporation: Sandglass Park directions",
+        "url": "https://gtdc.or.kr/opentour/dzdocument.php?xch=intro&xid=opentour_location",
+        "note": "Supplies operator’s public park address and contact information.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-gangneung-jeongdongjin-rail-beach-walk-source-4",
+        "title": "KTO: Sandglass Park map and visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=75452",
+        "note": "Supplies the separate park map location and describes its public facilities.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-gangneung-jeongdongjin-rail-beach-walk-source-5",
+        "title": "Korail: English passenger site",
+        "url": "https://www.korail.com/global/eng/main",
+        "note": "Book or verify both legs for the actual date and use the stop list for the service.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Alight at Jeongdongjin",
+      "KTO estimates about three minutes on foot",
+      "Sandglass Park is a separate stop"
+    ],
+    "launchOrder": 1181,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jeongdongjin Station new building 20230430.jpg",
+      "author": "Rsa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeongdongjin_Station_new_building_20230430.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2023-04-30. Actual 2023 station frontage. Follow current public exit and crossing signs. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "jeongdongjin-station-facade-2023",
+    "heroCaption": "Jeongdongjin Station’s public frontage in April 2023. Leave by the public exit and use the current signed pedestrian approach to the beach.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "sorae-wetland-ecology-park-winter-walk": {
+    "id": "places-incheon-sorae-wetland-winter-walk",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Take the train to Soraepogu and follow public directions to Sorae Wetland Ecology Park at 77 Sorae-ro 154beon-gil. Plan a daylight walk and confirm any indoor visit. The footbath closes for winter.",
+    "forWhom": "Travelers in Incheon looking for a short winter wetland walk from a rail stop",
+    "conditions": [
+      "Park access and habitat trails have different hours.",
+      "The ecology hall has separate entry and holiday checks.",
+      "The footbath shuts through winter, and harsh weather can affect outdoor access."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "wetlands",
+      "winter",
+      "walking",
+      "outdoors"
+    ],
+    "relations": [
+      {
+        "slug": "songdo-central-park-visit-plan",
+        "type": "alternative",
+        "label": "Choose a city waterfront walk",
+        "reason": "Use the Songdo guide for a separate urban park outing."
+      },
+      {
+        "slug": "incheon-chinatown-open-port-walking-route",
+        "type": "next",
+        "label": "Plan a different Incheon district",
+        "reason": "Save the station-side old-port route for a separate day or a different weather window."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "sorae-wetland-visitor-approach"
+    ],
+    "sources": [
+      {
+        "id": "places-incheon-sorae-wetland-winter-walk-source-1",
+        "title": "Incheon City: Sorae Wetland Ecology Park overview",
+        "url": "https://www.incheon.go.kr/park/park010301",
+        "note": "Identifies features, nearest rail stop, winter exhibition hours and inquiry line.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-incheon-sorae-wetland-winter-walk-source-2",
+        "title": "Incheon City: ecology exhibition",
+        "url": "https://www.incheon.go.kr/park/park010302",
+        "note": "Confirms year-round advertised 17:00 entry cutoff and regular closures.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-incheon-sorae-wetland-winter-walk-source-3",
+        "title": "Incheon City: seawater footbath",
+        "url": "https://www.incheon.go.kr/park/park010303",
+        "note": "Lists typical season and winter and weather closures.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-incheon-sorae-wetland-winter-walk-source-4",
+        "title": "Incheon Tour: visitor access and mapped address",
+        "url": "https://itour.incheon.go.kr/ssst/ssst/detail.do?cotId=ITD21121615132555085",
+        "note": "Confirms road address, mapped visitor point and documented accessibility features.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-incheon-sorae-wetland-winter-walk-source-5",
+        "title": "KTO: Sorae Marsh Ecological Park visitor information",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=80678",
+        "note": "Lists park and trail hours separately and corroborates the official road address.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Use Soraepogu Station and the park pin",
+      "Check trail and indoor hours separately",
+      "Seawater footbath closes in winter"
+    ],
+    "launchOrder": 1182,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Windmills In The Sunrise (191852353).jpeg",
+      "author": "Mathew Schwartz",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Windmills_In_The_Sunrise_(191852353).jpeg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "See the source page for image details. Archived photograph depicting the actual park’s windmills. No current access inferred. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "sorae-windmills-wetland-sunrise",
+    "heroCaption": "Windmills and reeds at Sorae Wetland Ecology Park in an archived photograph dated January 2017. Confirm current trail access before visiting.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gwangmyeong-station-to-incheon-airport-bus-6770": {
+    "id": "transport-gwangmyeong-ktx-airport-bus-6770",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "If your KTX stops at Gwangmyeong, take airport bus 6770 from west Exit 4 on the first floor. Confirm the date-specific departure and your airport terminal. Eligible city check-in is downstairs on B1.",
+    "forWhom": "Passengers arriving by KTX and continuing to an Incheon Airport flight",
+    "conditions": [
+      "Book a bus with time to reach Exit 4 from your arriving train.",
+      "Check current fares and times in KORAIL Talk or with a KORAIL counter.",
+      "Ask your airline about station check-in eligibility. Departure immigration takes place at Incheon Airport."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "getting-around",
+      "departure"
+    ],
+    "interests": [
+      "rail",
+      "airport bus",
+      "departure"
+    ],
+    "relations": [
+      {
+        "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+        "type": "prepare",
+        "label": "Select your train to Gwangmyeong",
+        "reason": "Confirm your service stops there before booking the airport leg."
+      },
+      {
+        "slug": "incheon-terminal-flight-check",
+        "type": "next",
+        "label": "Check which terminal your flight uses",
+        "reason": "Choose T1 or T2 against the airline’s current flight information."
+      },
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "alternative",
+        "label": "Compare the airport route via Seoul",
+        "reason": "Use this option if your Gwangmyeong timetable does not fit."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gwangmyeong-ktx-station",
+      "incheon-airport-t1",
+      "incheon-airport-t2"
+    ],
+    "sources": [
+      {
+        "id": "transport-gwangmyeong-ktx-airport-bus-6770-source-1",
+        "title": "Incheon Airport city check-in and boarding guide",
+        "url": "https://airinfo.airport.kr/ap_en/1420/subview.do",
+        "note": "West Exit 4 stop, B1 check-in, counter hours and departure immigration arrangements.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gwangmyeong-ktx-airport-bus-6770-source-2",
+        "title": "KORAIL route and city terminal reopening notice",
+        "url": "https://info.korail.com/info/selectBbsNttView.do?bbsNo=199&key=911&nttNo=23870",
+        "note": "Published fare and travel-time benchmarks. Check the price offered for the date.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gwangmyeong-ktx-airport-bus-6770-source-3",
+        "title": "KORAIL Talk bus seat reservation",
+        "url": "https://info.korail.com/info/selectBbsNttView.do?bbsNo=199&key=911&nttNo=22863",
+        "note": "Passenger app permits selecting a seat on route 6770.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gwangmyeong-ktx-airport-bus-6770-source-4",
+        "title": "Gwangmyeong City on the railway station",
+        "url": "https://www.gm.go.kr/pt/partInfo/tf/gmktx/PTMN381.jsp",
+        "note": "Rail station street address and general station layout.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gwangmyeong-ktx-airport-bus-6770-source-5",
+        "title": "KORAIL’s printed 6770 route guide",
+        "url": "https://www.korail.com/docs/foreign/city_airport_terminal_guidebook_en.pdf",
+        "note": "Printed English route reference. Use booking for the current travel-day time.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Board 6770 at west Exit 4 on 1F.",
+      "Check your flight’s T1 or T2.",
+      "Optional eligible station check-in is on west B1."
+    ],
+    "launchOrder": 1183,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "West Exit 4 at Gwangmyeong Station",
+      "author": "Narubaru7",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EB%AA%85%EC%97%AD_%EB%8F%84%EC%8B%AC%EA%B3%B5%ED%95%AD%ED%84%B0%EB%AF%B8%EB%84%90.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2025-12-24. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "gwangmyeong-6770-west-four",
+    "heroCaption": "West Exit 4 at Gwangmyeong Station in December 2025. Use the current bus signs and your ticket to find the 6770 boarding point.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "osong-station-to-gongju-and-buyeo-c-tour-bus": {
+    "id": "transport-osong-ctour-gongju-buyeo",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "From Osong KTX Station, take the regional C-Tour coach to Gongju or Buyeo. The published kiosk is by Exit 7 and the boarding point is Platform 8. Check the return before arranging your next train.",
+    "forWhom": "Travelers connecting from KTX to Gongju or Buyeo for a car-free Baekje visit",
+    "conditions": [
+      "Current ticket inventory and the specific bay need checking on your travel date.",
+      "The DRT sightseeing pass does not include the regional intercity coach.",
+      "Gongju Bus Terminal and Gongju KTX Station are separate places."
+    ],
+    "regions": [
+      "buyeo"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "rail",
+      "intercity bus",
+      "history",
+      "car-free"
+    ],
+    "relations": [
+      {
+        "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+        "type": "prepare",
+        "label": "Choose your onward train",
+        "reason": "Check the schedule from Osong or another rail station before selecting the return coach."
+      },
+      {
+        "slug": "intercity-bus-travel-booking-apps-and-routes",
+        "type": "alternative",
+        "label": "Look for a regular coach if the schedule does not fit",
+        "reason": "Use the actual terminal and available departure when making a backup."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "osong-bus-transfer-center",
+      "gongju-general-bus-terminal",
+      "buyeo-intercity-bus-terminal"
+    ],
+    "sources": [
+      {
+        "id": "transport-osong-ctour-gongju-buyeo-source-1",
+        "title": "KTO C-Tour regional coach and DRT guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=481&vcontsId=140665",
+        "note": "November 2, 2026 update gives terminals, timetable, platforms, kiosk landmarks and booking options.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-osong-ctour-gongju-buyeo-source-2",
+        "title": "C-Tour operator information",
+        "url": "https://www.c-tourbus.com/",
+        "note": "Explains the two service types and limits of the sightseeing pass.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-osong-ctour-gongju-buyeo-source-3",
+        "title": "National transfer center dataset",
+        "url": "https://www.data.go.kr/data/15034541/standard.do",
+        "note": "Named Osong Bus Transfer Center and its coordinates.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-osong-ctour-gongju-buyeo-source-4",
+        "title": "Buyeo County terminal timetable",
+        "url": "https://www.buyeo.go.kr/html/kr/refo/refo_060501.html",
+        "note": "Official county reference for alternative coaches leaving Buyeo.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Exit 7 for the kiosk. Platform 8 for departure.",
+      "Choose 공주 or 부여 when booking.",
+      "Check the return before committing to a train."
+    ],
+    "launchOrder": 1184,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "North side of Osong Station",
+      "author": "Minseong Kim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osong_Station_North.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2015-03-29. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "osong-station-north-2015",
+    "heroCaption": "Osong Station’s north side in March 2015. The picture establishes the railway station area. Use the official transfer-center signs and ticket for present-day bus boarding.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seoul-central-city-to-jeonju-express-bus": {
+    "id": "transport-central-city-jeonju-express",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Book from Seoul Central City (센트럴시티) to Jeonju Express Bus Terminal (전주고속버스터미널). Follow the Honam signs at Express Bus Terminal subway station. Save 가리내로 70 for the arrival and check the return separately.",
+    "forWhom": "Travelers taking the direct coach from southern Seoul or looking for a fallback when trains are full",
+    "conditions": [
+      "Compare departures for your exact date and use the fare shown in the official listing.",
+      "The Central City Honam hall and neighboring Gyeongbu hall share a subway station.",
+      "Jeonju Express Bus Terminal, the intercity terminal and the rail station are separate."
+    ],
+    "regions": [
+      "jeonju"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "rail alternatives",
+      "express bus",
+      "car-free"
+    ],
+    "relations": [
+      {
+        "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+        "type": "alternative",
+        "label": "Check whether a train still fits",
+        "reason": "Compare a departure from Yongsan as well as Seoul Station."
+      },
+      {
+        "slug": "jeonju-gyeonggijeon-omokdae-walking-route",
+        "type": "next",
+        "label": "Plan your first Hanok Village walk",
+        "reason": "Use the route from the village after reaching it from the express terminal."
+      },
+      {
+        "slug": "intercity-bus-travel-booking-apps-and-routes",
+        "type": "interest",
+        "label": "Check the coach booking options",
+        "reason": "Use the right ticketing channel when you switch origin or class."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-central-city-express-terminal",
+      "jeonju-express-bus-terminal"
+    ],
+    "sources": [
+      {
+        "id": "transport-central-city-jeonju-express-source-1",
+        "title": "KTO express bus terminals and routes",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=471&vcontsId=140657",
+        "note": "Specifies Central City for Jeonju and explains the neighboring Gyeongbu hall.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-central-city-jeonju-express-source-2",
+        "title": "Jeonju City transport guide and booking links",
+        "url": "https://tour.jeonju.go.kr/index.jeonju?menuCd=DOM_000000106012001000",
+        "note": "Ticket selection names, alternative Yongsan rail, separate Jeonju terminal addresses and arrival map.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-central-city-jeonju-express-source-3",
+        "title": "KTO Central City site and street address",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=87911",
+        "note": "Central City address and connection to the subway station.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-central-city-jeonju-express-source-4",
+        "title": "Seocho district terminal floor map",
+        "url": "https://www.seocho.go.kr/upload/common/96caba7a-850d-4f6f-913a-063c881ff248.pdf",
+        "note": "Site plan shows the separate Honam and Gyeongbu buildings and subway connections.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-central-city-jeonju-express-source-5",
+        "title": "KOBUS express bus booking",
+        "url": "https://www.kobus.co.kr/main.do",
+        "note": "Check the date-specific departure, fare, class and seat before committing to the trip.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Departure: 서울 센트럴시티 (Honam).",
+      "Arrival: 전주고속버스터미널, 가리내로 70.",
+      "Check the bay and buy the return separately."
+    ],
+    "launchOrder": 1185,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jeonju Express Bus Terminal coach bays",
+      "author": "皓月旗",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeonju_Express_Bus_Terminal.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2026-05-04. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "jeonju-express-terminal-2026",
+    "heroCaption": "Coaches outside the Jeonju Express Bus Terminal in May 2026. Check your ticket to confirm your own arrival terminal.",
     "gallery": [],
     "experienceVersion": 2
   }

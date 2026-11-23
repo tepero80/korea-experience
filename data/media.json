@@ -4802,5 +4802,465 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
       "note": "Photographed 2018-10-16. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 2.0. Confirm current routes, opening and accessibility separately."
     }
+  },
+  {
+    "id": "jeonju-national-museum-forecourt",
+    "src": "/images/editorial/jeonju-national-museum-forecourt-1280.webp",
+    "srcSet": "/images/editorial/jeonju-national-museum-forecourt-640.webp 640w, /images/editorial/jeonju-national-museum-forecourt-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "The main Jeonju National Museum facade beyond a geometric paved forecourt and broad steps",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Jeonju_National_Museum-1.jpg",
+    "originalHash": "3d492c774d24fbce04e2cd5f16bfe5c0ba4fbead438e3b5a81e5d7424c709d70",
+    "capturedAt": "2024-08-10",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jeonju National Museum-1.jpg",
+      "author": "Twotwo2019",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeonju_National_Museum-1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-08-10. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "jeonju-national-museum-garden-approach",
+    "src": "/images/editorial/jeonju-national-museum-garden-approach-1280.webp",
+    "srcSet": "/images/editorial/jeonju-national-museum-garden-approach-640.webp 640w, /images/editorial/jeonju-national-museum-garden-approach-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "A broad outdoor museum path framed by pine branches leading toward the main exterior",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Jeonju_National_Museum-7.jpg",
+    "originalHash": "edf4f86909d6ee120f0cb2139a28a135d21c468b588e276be9ed07a79cb5adfc",
+    "capturedAt": "2024-08-10",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jeonju National Museum-7.jpg",
+      "author": "Twotwo2019",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeonju_National_Museum-7.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-08-10. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "seoul-history-museum-garden-entrance",
+    "src": "/images/editorial/seoul-history-museum-garden-entrance-1280.webp",
+    "srcSet": "/images/editorial/seoul-history-museum-garden-entrance-640.webp 640w, /images/editorial/seoul-history-museum-garden-entrance-1280.webp 1280w",
+    "width": 1280,
+    "height": 854,
+    "alt": "Red-framed museum entrance behind trees and a planted forecourt on Saemunan-ro",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_History_2026.jpg",
+    "originalHash": "1bd1edb800d8c864b3a9378d1bba6fbfb9db8b0c9b6f96be8c436a2c566c3705",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seoul Museum of History 2026.jpg",
+      "author": "RPD SMH",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_History_2026.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "See the source page for image details. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "seoul-history-museum-front-doors-archive",
+    "src": "/images/editorial/seoul-history-museum-front-doors-archive-1280.webp",
+    "srcSet": "/images/editorial/seoul-history-museum-front-doors-archive-640.webp 640w, /images/editorial/seoul-history-museum-front-doors-archive-1280.webp 1280w",
+    "width": 1280,
+    "height": 955,
+    "alt": "Red-framed public entrance and glass doors at Seoul Museum of History",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_History_in_2025.jpg",
+    "originalHash": "59e739dce25be24456e9de2e7c4f21c86a795b7775da3501819ed66e1cecbb43",
+    "capturedAt": "2025-08-26",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seoul Museum of History in 2025.jpg",
+      "author": "EllalineSeoul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_History_in_2025.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2025-08-26. Cropped to emphasize the entrance doors. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gyeongju-museum-silla-history-gallery-exterior",
+    "src": "/images/editorial/gyeongju-museum-silla-history-gallery-exterior-1280.webp",
+    "srcSet": "/images/editorial/gyeongju-museum-silla-history-gallery-exterior-640.webp 640w, /images/editorial/gyeongju-museum-silla-history-gallery-exterior-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "The large white columned Silla History Gallery at Gyeongju National Museum beside its open plaza",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum_Silla_History_Gallery.JPG",
+    "originalHash": "705d815e4030eba1ca80defa9f1948becaddbb6b4929c019e7cdbd2df79e49da",
+    "capturedAt": "2016-02-21",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gyeongju National Museum Silla History Gallery.JPG",
+      "author": "Abasaa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum_Silla_History_Gallery.JPG",
+      "license": "Public domain (author dedication)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum_Silla_History_Gallery.JPG#Licensing",
+      "note": "Photographed 2016-02-21. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gyeongju-museum-wolji-gallery-plaza",
+    "src": "/images/editorial/gyeongju-museum-wolji-gallery-plaza-1280.webp",
+    "srcSet": "/images/editorial/gyeongju-museum-wolji-gallery-plaza-640.webp 640w, /images/editorial/gyeongju-museum-wolji-gallery-plaza-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "The low Wolji Gallery building and glazed door across its broad brick-paved forecourt",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum_Wolji_Gallery.JPG",
+    "originalHash": "5413753787f39e6517b8278e62899d6e29756a9d39df378e9385d6aa5b5fb13b",
+    "capturedAt": "2016-02-21",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gyeongju National Museum Wolji Gallery.JPG",
+      "author": "Abasaa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum_Wolji_Gallery.JPG",
+      "license": "Public domain (author dedication)",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Gyeongju_National_Museum_Wolji_Gallery.JPG#Licensing",
+      "note": "Photographed 2016-02-21. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gyeonghuigung-sungjeongjeon-hall",
+    "src": "/images/editorial/gyeonghuigung-sungjeongjeon-hall-1280.webp",
+    "srcSet": "/images/editorial/gyeonghuigung-sungjeongjeon-hall-640.webp 640w, /images/editorial/gyeonghuigung-sungjeongjeon-hall-1280.webp 1280w",
+    "width": 1280,
+    "height": 851,
+    "alt": "The main hall of Gyeonghuigung Palace beyond the stone courtyard and rows of rank stones",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EA%B2%BD%ED%9D%AC%EA%B6%81_%EC%88%AD%EC%A0%95%EC%A0%84_1.jpg",
+    "originalHash": "4adfcb3ed1d0820b98be645a0f2838cce176cc73fdd8bed904b722ca23a7058f",
+    "capturedAt": "2016-06-16",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "경희궁 숭정전 1.jpg",
+      "author": "HaeeunJin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B2%BD%ED%9D%AC%EA%B6%81_%EC%88%AD%EC%A0%95%EC%A0%84_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2016-06-16. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gyeonghuigung-sungjeongmun-court-gate",
+    "src": "/images/editorial/gyeonghuigung-sungjeongmun-court-gate-1280.webp",
+    "srcSet": "/images/editorial/gyeonghuigung-sungjeongmun-court-gate-640.webp 640w, /images/editorial/gyeonghuigung-sungjeongmun-court-gate-1280.webp 974w",
+    "width": 974,
+    "height": 630,
+    "alt": "Sungjeongmun palace gate above a broad flight of stone steps with the hall visible beyond the gate",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Korea-Gyeonghuigung-01.jpg",
+    "originalHash": "facc5d0f20ab16e505e81897056e48d8cc12d24d86959b309bae1a512e51aef2",
+    "capturedAt": "2005-08-16",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Korea-Gyeonghuigung-01.jpg",
+      "author": "Jtm71",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Gyeonghuigung-01.jpg",
+      "license": "CC BY 2.0 KR",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/kr/",
+      "note": "Photographed 2005-08-16. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gwanggyo-lake-waterfront-landing",
+    "src": "/images/editorial/gwanggyo-lake-waterfront-landing-1280.webp",
+    "srcSet": "/images/editorial/gwanggyo-lake-waterfront-landing-640.webp 640w, /images/editorial/gwanggyo-lake-waterfront-landing-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Waterfront landing, calm lake and distant apartments at Gwanggyo Lake Park.",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_(3).jpg",
+    "originalHash": "1767539ab487adec48b628bf0f672141595eedea78a91edb92e059d48e5a5cc5",
+    "capturedAt": "2014-10-05",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "광교호수공원 (3).jpg",
+      "author": "Jocelyndurrey",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_(3).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2014-10-05. Historic photograph of the park. It does not identify the current Urban Levee entrance. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gwanggyo-lake-open-lawn",
+    "src": "/images/editorial/gwanggyo-lake-open-lawn-1280.webp",
+    "srcSet": "/images/editorial/gwanggyo-lake-open-lawn-640.webp 640w, /images/editorial/gwanggyo-lake-open-lawn-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Open lawn, trees and apartment towers inside Gwanggyo Lake Park.",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_(1).jpg",
+    "originalHash": "1977846785b1efe30e96e065e435151acb036ec4b1d517cab5f5ac7ec2488611",
+    "capturedAt": "2014-10-05",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "광교호수공원 (1).jpg",
+      "author": "Jocelyndurrey",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_(1).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2014-10-05. Historic photograph of an open park area, not a route marker. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "bomun-lake-view-from-gyeongju-world",
+    "src": "/images/editorial/bomun-lake-view-from-gyeongju-world-1280.webp",
+    "srcSet": "/images/editorial/bomun-lake-view-from-gyeongju-world-640.webp 640w, /images/editorial/bomun-lake-view-from-gyeongju-world-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Bomun Lake spreads beyond the park and a tree-covered point beneath a cloudy sky.",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Bomun_Lake_from_Gyeongju_World.jpg",
+    "originalHash": "bc85a952c6856202fd9d5b081864bf4836b9b30a77c7e21611742fdd217bc103",
+    "capturedAt": "2018-10-01",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Bomun Lake from Gyeongju World.jpg",
+      "author": "Christophe95",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bomun_Lake_from_Gyeongju_World.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-10-01. A view from the amusement park. The plaza and public trail have their own approaches. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "bomun-lake-autumn-shore-2008",
+    "src": "/images/editorial/bomun-lake-autumn-shore-2008-1280.webp",
+    "srcSet": "/images/editorial/bomun-lake-autumn-shore-2008-640.webp 640w, /images/editorial/bomun-lake-autumn-shore-2008-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Autumn leaves frame the lake and buildings on the opposite shore.",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Bomun_Lake_in_autumn-01.jpg",
+    "originalHash": "3f52e73e7a4b2a1fd3e1f451b0958257beebfef6ba9edd29232104317b9f91a6",
+    "capturedAt": "2008-10-10",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Korea-Gyeongju-Bomun Lake in autumn-01.jpg",
+      "author": "Grete Howard",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Gyeongju-Bomun_Lake_in_autumn-01.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Photographed 2008-10-10. Archive scene. Do not use the image as signage or as proof of current permits or access. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "jeongdongjin-station-facade-2023",
+    "src": "/images/editorial/jeongdongjin-station-facade-2023-1280.webp",
+    "srcSet": "/images/editorial/jeongdongjin-station-facade-2023-640.webp 640w, /images/editorial/jeongdongjin-station-facade-2023-1280.webp 1280w",
+    "width": 1280,
+    "height": 838,
+    "alt": "Station entrance with a Korean welcome sign, glass doors and flags at Jeongdongjin.",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Jeongdongjin_Station_new_building_20230430.jpg",
+    "originalHash": "8ab9ad6eea1c3baa4a8b8f18a515279e7cbeda197a9fd3642d96387e644558e1",
+    "capturedAt": "2023-04-30",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jeongdongjin Station new building 20230430.jpg",
+      "author": "Rsa",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeongdongjin_Station_new_building_20230430.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2023-04-30. Actual 2023 station frontage. Follow current public exit and crossing signs. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "jeongdongjin-beach-shoreline-2008",
+    "src": "/images/editorial/jeongdongjin-beach-shoreline-2008-1280.webp",
+    "srcSet": "/images/editorial/jeongdongjin-beach-shoreline-2008-640.webp 640w, /images/editorial/jeongdongjin-beach-shoreline-2008-1280.webp 1280w",
+    "width": 1280,
+    "height": 362,
+    "alt": "Panoramic view of Jeongdongjin Beach at dawn with visitors on the sand.",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Jeongdongjin_Beach.jpg",
+    "originalHash": "797ff38c30c7dbd8d102fd3fd5caf6a30d215a300c03a6759b6b2f1fc7bc8c23",
+    "capturedAt": "2008-03-22",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jeongdongjin Beach.jpg",
+      "author": "Loewelad",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeongdongjin_Beach.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2008-03-22. Archive panorama of the true beach. It does not show today’s public barriers or sea conditions. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "sorae-windmills-wetland-sunrise",
+    "src": "/images/editorial/sorae-windmills-wetland-sunrise-1280.webp",
+    "srcSet": "/images/editorial/sorae-windmills-wetland-sunrise-640.webp 640w, /images/editorial/sorae-windmills-wetland-sunrise-1280.webp 1280w",
+    "width": 1280,
+    "height": 640,
+    "alt": "Three Sorae wetland windmills are silhouetted against clouds and the glow of sunrise.",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Windmills_In_The_Sunrise_(191852353).jpeg",
+    "originalHash": "6ae474457427e0940fb92e074b0902927b51719f7884a19088ca75bf91d1f515",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Windmills In The Sunrise (191852353).jpeg",
+      "author": "Mathew Schwartz",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Windmills_In_The_Sunrise_(191852353).jpeg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "See the source page for image details. Archived photograph depicting the actual park’s windmills. No current access inferred. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "sorae-wetland-fiddler-crab-2025",
+    "src": "/images/editorial/sorae-wetland-fiddler-crab-2025-1280.webp",
+    "srcSet": "/images/editorial/sorae-wetland-fiddler-crab-2025-640.webp 640w, /images/editorial/sorae-wetland-fiddler-crab-2025-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "A red fiddler crab raises a white claw on the wet mud at Sorae.",
+    "originalId": "https://commons.wikimedia.org/wiki/File:20250830_Sorae_Photowalk_Jjw_010.jpg",
+    "originalHash": "9836c7b9e4b67d894d67150e6d59e739064695726de38116bf5ff2f49e882282",
+    "capturedAt": "2025-08-30",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "20250830 Sorae Photowalk Jjw 013.jpg",
+      "author": "Jjw",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20250830_Sorae_Photowalk_Jjw_010.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2025-08-30. Warm-season wildlife photograph. Spotting the same wildlife during winter is not promised. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gwangmyeong-6770-west-four",
+    "src": "/images/editorial/gwangmyeong-6770-west-four-1280.webp",
+    "srcSet": "/images/editorial/gwangmyeong-6770-west-four-640.webp 640w, /images/editorial/gwangmyeong-6770-west-four-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Yellow Exit 4 sign and the City Airport Terminal sign above the west-side doors at Gwangmyeong Station",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EB%AA%85%EC%97%AD_%EB%8F%84%EC%8B%AC%EA%B3%B5%ED%95%AD%ED%84%B0%EB%AF%B8%EB%84%90.jpg",
+    "originalHash": "1495e8db1b1f4dde8b4604a7bf1033567cf88920496e6ee2bcfa0067c5c9976c",
+    "capturedAt": "2025-12-24",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "West Exit 4 at Gwangmyeong Station",
+      "author": "Narubaru7",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EB%AA%85%EC%97%AD_%EB%8F%84%EC%8B%AC%EA%B3%B5%ED%95%AD%ED%84%B0%EB%AF%B8%EB%84%90.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2025-12-24. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gwangmyeong-station-information-board",
+    "src": "/images/editorial/gwangmyeong-station-information-board-1280.webp",
+    "srcSet": "/images/editorial/gwangmyeong-station-information-board-640.webp 640w, /images/editorial/gwangmyeong-station-information-board-1280.webp 1280w",
+    "width": 1280,
+    "height": 1707,
+    "alt": "Blue and yellow directional signs in the railway concourse at Gwangmyeong Station",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EB%AA%85%EC%97%AD_%EB%A1%9C%EB%B9%84_%EC%A2%85%ED%95%A9%EC%95%88%EB%82%B4%ED%8C%90.jpg",
+    "originalHash": "2002eaf3751a2fdc9cd9d2716c0ee308c2295718b271bb38391c7a0b5ce7bcce",
+    "capturedAt": "2025-12-24",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwangmyeong Station lobby signs",
+      "author": "Narubaru7",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EB%AA%85%EC%97%AD_%EB%A1%9C%EB%B9%84_%EC%A2%85%ED%95%A9%EC%95%88%EB%82%B4%ED%8C%90.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2025-12-24. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "osong-station-north-2015",
+    "src": "/images/editorial/osong-station-north-2015-1280.webp",
+    "srcSet": "/images/editorial/osong-station-north-2015-640.webp 640w, /images/editorial/osong-station-north-2015-1280.webp 1280w",
+    "width": 1280,
+    "height": 679,
+    "alt": "Elevated view of the arched roof and railway tracks at Osong Station",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Osong_Station_North.jpg",
+    "originalHash": "60bd544f379b8efe2ea60b33ef973c876e73859dc58550a429b42d00eb10864e",
+    "capturedAt": "2015-03-29",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "North side of Osong Station",
+      "author": "Minseong Kim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Osong_Station_North.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2015-03-29. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "buyeo-gungnamji-pond-2026",
+    "src": "/images/editorial/buyeo-gungnamji-pond-2026-1280.webp",
+    "srcSet": "/images/editorial/buyeo-gungnamji-pond-2026-640.webp 640w, /images/editorial/buyeo-gungnamji-pond-2026-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Summer lotus leaves and willow trees at Gungnamji Pond in Buyeo",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gungnamji_in_2026_(1).jpg",
+    "originalHash": "c6cf169e397e96cca9b2f6b64fdbc8dd637cf0880789945e1e54cee673af9e55",
+    "capturedAt": "2026-08-08",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gungnamji Pond in summer",
+      "author": "Sadopaul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gungnamji_in_2026_(1).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-08-08. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "jeonju-express-terminal-2026",
+    "src": "/images/editorial/jeonju-express-terminal-2026-1280.webp",
+    "srcSet": "/images/editorial/jeonju-express-terminal-2026-640.webp 640w, /images/editorial/jeonju-express-terminal-2026-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Coaches parked in front of the striped Jeonju Express Bus Terminal facade",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Jeonju_Express_Bus_Terminal.jpg",
+    "originalHash": "23f54978e44627e7bcc5544033e0fa2c7b281651ba3ee298f1c91d4d04c4ac48",
+    "capturedAt": "2026-05-04",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jeonju Express Bus Terminal coach bays",
+      "author": "皓月旗",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeonju_Express_Bus_Terminal.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2026-05-04. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "central-city-ticket-hall-2009",
+    "src": "/images/editorial/central-city-ticket-hall-2009-1280.webp",
+    "srcSet": "/images/editorial/central-city-ticket-hall-2009-640.webp 640w, /images/editorial/central-city-ticket-hall-2009-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Passengers under fare displays and signs at the Central City ticket counter in 2009",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%84%BC%ED%8A%B8%EB%9F%B4_%EB%A7%A4%ED%91%9C%EC%86%8C.jpg",
+    "originalHash": "8d3c14f58894440cf64a36d449f079c05bd91ce2534409b887eb3762d51137c7",
+    "capturedAt": "2009-01-24",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Central City’s ticket hall",
+      "author": "바리반디",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%BC%ED%8A%B8%EB%9F%B4_%EB%A7%A4%ED%91%9C%EC%86%8C.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2009-01-24. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    }
   }
 ]
