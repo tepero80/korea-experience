@@ -9131,5 +9131,93 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "capturedAt": "2024-07-20"
+  },
+  {
+    "id": "archive-hurshimchung-dongnae-facade-2018",
+    "src": "/images/editorial/archive-hurshimchung-dongnae-facade-2018-1280.webp",
+    "srcSet": "/images/editorial/archive-hurshimchung-dongnae-facade-2018-640.webp 640w, /images/editorial/archive-hurshimchung-dongnae-facade-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "The curved glass front and blue Hurshimchung sign in Dongnae, Busan.",
+    "focal": "67% 56%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Hurshimchung_01.JPG",
+    "originalHash": "e9d048ef69c2a09689040d6df51ae255186ef6d8fbe896aeb984c24cc1cd593f",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Abasaa",
+      "title": "Hurshimchung 01.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hurshimchung_01.JPG",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2018-11-10"
+  },
+  {
+    "id": "archive-sinyongsan-exit-2-2019",
+    "src": "/images/editorial/archive-sinyongsan-exit-2-2019-1280.webp",
+    "srcSet": "/images/editorial/archive-sinyongsan-exit-2-2019-640.webp 640w, /images/editorial/archive-sinyongsan-exit-2-2019-1280.webp 1280w",
+    "width": 1280,
+    "height": 2276,
+    "alt": "Covered stairs and the Sinyongsan Line 4 Exit 2 sign in Yongsan, Seoul.",
+    "focal": "50% 48%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul-metro-429-Sinyongsan-station-entrance-2-20191022-153402.jpg",
+    "originalHash": "f9889b1c80140cbb470b8222147f17331e3ed44157ec0da8977ddf9b62dd9fc4",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "LERK",
+      "title": "Seoul-metro-429-Sinyongsan-station-entrance-2-20191022-153402.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-429-Sinyongsan-station-entrance-2-20191022-153402.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2019-10-22"
+  },
+  {
+    "id": "archive-yeouido-park-cherry-blossoms-2016",
+    "src": "/images/editorial/archive-yeouido-park-cherry-blossoms-2016-1280.webp",
+    "srcSet": "/images/editorial/archive-yeouido-park-cherry-blossoms-2016-640.webp 640w, /images/editorial/archive-yeouido-park-cherry-blossoms-2016-1280.webp 1280w",
+    "width": 1280,
+    "height": 854,
+    "alt": "Pale cherry blossom clusters on branches in Yeouido Park, Seoul.",
+    "focal": "50% 47%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Yeouido_Park_-_panoramio_(1).jpg",
+    "originalHash": "e9f9fc80309f20b8de14e8c44b569649fd6d33161e4a9558daefbe7f7de281d8",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Alexey Komarov",
+      "title": "Cherry Blossom in Yeouido Park - panoramio (1).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Yeouido_Park_-_panoramio_(1).jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2016-04-08"
+  },
+  {
+    "id": "archive-seokchon-lake-cherry-blossoms-2020",
+    "src": "/images/editorial/archive-seokchon-lake-cherry-blossoms-2020-1280.webp",
+    "srcSet": "/images/editorial/archive-seokchon-lake-cherry-blossoms-2020-640.webp 640w, /images/editorial/archive-seokchon-lake-cherry-blossoms-2020-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Cherry trees in bloom along the far shore of Seokchon Lake, with Seoul buildings beyond.",
+    "focal": "50% 55%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seokchon_Lake_Cherry_Blossoms_2020.jpg",
+    "originalHash": "9f2c3a1c3e154738152ba0fb6f1945e0fc9de50de38eaad8d9a83ddffef5004b",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Ox1997cow",
+      "title": "Seokchon Lake Cherry Blossoms 2020.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seokchon_Lake_Cherry_Blossoms_2020.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2020-04-11"
   }
 ]

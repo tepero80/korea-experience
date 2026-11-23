@@ -52,8 +52,8 @@ export const REGIONS: readonly Region[] = [
       'haeundae-sky-capsule-vs-beach-train',
       'osiria-to-haedong-yonggungsa-temple',
       'busan-museum-un-memorial-cemetery-respectful-half-day',
+      'korea-s-best-hot-springs-and-spa-towns',
       'dadaepo-beach-from-busan-metro',
-      'f1963-from-mangmi-station',
     ],
     onward: [
       { regionId: 'tongyeong', reason: 'Plan a separate south coast stay to fit in a harbor walk and check the island ferry return.' },

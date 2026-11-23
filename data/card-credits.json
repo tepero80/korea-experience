@@ -3717,5 +3717,35 @@
       "note": "Resized and converted to WebP. Photographed 2022-08-25. This image adaptation is available under the same license. Historical image; not evidence of current access, prices, signage or availability."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korea-s-best-hot-springs-and-spa-towns": {
+    "src": "/images/cards/korea-s-best-hot-springs-and-spa-towns.jpg",
+    "fingerprint": "c95453368820cf3b1518c23446fb46f2a55152204bc0dc2de9042b4a730a20df",
+    "sourceImage": "/images/editorial/archive-hurshimchung-dongnae-facade-2018-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Abasaa",
+      "title": "Hurshimchung 01.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hurshimchung_01.JPG",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korea-cherry-blossom-forecast-2026": {
+    "src": "/images/cards/korea-cherry-blossom-forecast-2026.jpg",
+    "fingerprint": "97b5c64b71f3556d9f8f2940986a5c3e8c8daaef4f6bc1d3bb8e601a3bc8852b",
+    "sourceImage": "/images/editorial/archive-yeouido-park-cherry-blossoms-2016-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Alexey Komarov",
+      "title": "Cherry Blossom in Yeouido Park - panoramio (1).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Yeouido_Park_-_panoramio_(1).jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

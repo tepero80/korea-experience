@@ -760,5 +760,17 @@
     "subjectUsefulness": 2,
     "sceneClarity": 2,
     "cropPotential": 1
+  },
+  "korea-s-best-hot-springs-and-spa-towns": {
+    "mediaId": "archive-hurshimchung-dongnae-facade-2018",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "korea-cherry-blossom-forecast-2026": {
+    "mediaId": "archive-yeouido-park-cherry-blossoms-2016",
+    "subjectUsefulness": 3,
+    "sceneClarity": 1,
+    "cropPotential": 2
   }
 }

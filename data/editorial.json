@@ -23501,5 +23501,188 @@
     "gallery": [],
     "experienceVersion": 2,
     "cardImageLabel": "Seongsu street · August 2022"
+  },
+  "korea-s-best-hot-springs-and-spa-towns": {
+    "id": "guide:korea-s-best-hot-springs-and-spa-towns",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "If you already have a Busan stay, start with Hurshimchung in Dongnae. If you want a hot-spring district around a station, consider Onyang in Asan and call one bathhouse before traveling.",
+    "forWhom": "Travelers choosing an indoor bathing stop without assuming every venue has the same admission rules",
+    "conditions": [
+      "Confirm day entry, closures, prices and facilities separately. Use the venue’s own instructions for bathing and changing."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "indoor activities",
+      "hot springs",
+      "Busan"
+    ],
+    "relations": [
+      {
+        "slug": "busan-museum-un-memorial-cemetery-respectful-half-day",
+        "type": "alternative",
+        "label": "Choose a Busan museum outing",
+        "reason": "Use a separate indoor plan if a bathhouse is unsuitable."
+      },
+      {
+        "slug": "where-to-stay-in-busan-neighborhoods",
+        "type": "prepare",
+        "label": "Check how Dongnae fits your base",
+        "reason": "Compare where a spa stop fits before choosing a long cross-city trip."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Choose the closer district",
+      "Ask about day admission",
+      "Check the return before leaving"
+    ],
+    "sources": [
+      {
+        "id": "guide:korea-s-best-hot-springs-and-spa-towns-source-1",
+        "title": "Visit Busan Hurshimchung information",
+        "url": "https://www.visitbusan.net/en/index.do?lang_cd=en&menuCd=DOM_000000302008001000&uc_seq=1754",
+        "note": "Bathhouse location, floors, local transport and phone. Confirm time and cost directly.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-s-best-hot-springs-and-spa-towns-source-2",
+        "title": "VisitKorea Onyang district overview",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1591589",
+        "note": "Hot-spring district and the Line 1 railway approach.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1257,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-hurshimchung-dongnae-facade-2018",
+    "heroCaption": "Hurshimchung’s glass facade in Dongnae, Busan, photographed in November 2018. Check the current entrance and hours before traveling.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Abasaa",
+      "title": "Hurshimchung 01.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hurshimchung_01.JPG",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Hurshimchung · 2018",
+    "cardImageCrop": "east"
+  },
+  "korea-cherry-blossom-forecast-2026": {
+    "id": "guide:korea-cherry-blossom-forecast-2026",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Use a forecast as a broad planning window. Close to your visit, check Korea Meteorological Administration observations and dated updates from the specific place you want to see.",
+    "forWhom": "Travelers trying to time a cherry blossom outing without booking around a single predicted date",
+    "conditions": [
+      "A first-bloom date, a festival program and the best day for a particular walk can differ."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "cherry blossom timing",
+      "spring travel",
+      "Seoul parks"
+    ],
+    "relations": [
+      {
+        "slug": "spring-in-korea-cherry-blossoms-and-festivals",
+        "type": "next",
+        "label": "Choose Jinhae or a Seoul walk",
+        "reason": "Compare the two areas and check return transport before adding a detour."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Save a Seoul weather backup",
+        "reason": "Keep one flexible day even if flowers or weather change."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check an observed date",
+      "Choose one flexible walk",
+      "Confirm festival dates separately"
+    ],
+    "sources": [
+      {
+        "id": "guide:korea-cherry-blossom-forecast-2026-source-1",
+        "title": "VisitKorea February 2026 forecast",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1570512",
+        "note": "Historical February forecast for first blossoms in Seoul and Busan.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-cherry-blossom-forecast-2026-source-2",
+        "title": "KMA March 2026 climate report",
+        "url": "https://www.kma.go.kr/kma/flexer/html/press/2026/04/02/ATC202604021618462_541a4117-3530-4c59-adaf-e57521d60f7e.hwp.files/Sections1.html",
+        "note": "Historical first-bloom dates at reference trees in Seoul and Busan.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-cherry-blossom-forecast-2026-source-3",
+        "title": "KMA seasonal blossom observations",
+        "url": "https://www.weather.go.kr/w/forecast/life/seasonal-observation/spring-flower.do?treeType=1",
+        "note": "Current in-season observations at monitored locations.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-cherry-blossom-forecast-2026-source-4",
+        "title": "KMA March 29 Seoul and Yeouido update",
+        "url": "https://www.kma.go.kr/kma/news/press.jsp?bid=press&from=2026-01-17&mode=view&num=1194625&page=1&to=2026-04-17",
+        "note": "Monitored first blooms and places in Seoul and Yeouido.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-cherry-blossom-forecast-2026-source-5",
+        "title": "Visit Seoul Yeouido Park",
+        "url": "https://english.visitseoul.net/nature/YeouidoPark/ENP002161",
+        "note": "Separate park address and visitor setting.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korea-cherry-blossom-forecast-2026-source-6",
+        "title": "Visit Seoul Seokchon Lake Park",
+        "url": "https://english.visitseoul.net/jamsilarea/Seokchon-Lake-Park/ENP001136",
+        "note": "Lakeside route and seasonal setting.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1258,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-yeouido-park-cherry-blossoms-2016",
+    "heroCaption": "Cherry blossoms in Yeouido Park, Seoul, photographed in April 2016. Use current observations to plan this year’s visit.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Alexey Komarov",
+      "title": "Cherry Blossom in Yeouido Park - panoramio (1).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Yeouido_Park_-_panoramio_(1).jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Yeouido Park · April 2016"
   }
 }
