@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { analyticsContext, analyticsEvent, publicAnalyticsPath } from '../lib/analytics-policy';
+import { DISCOVERY_EVENTS, analyticsContext, analyticsEvent, publicAnalyticsPath } from '../lib/analytics-policy';
 import {
   readAnalyticsPreference,
   saveAnalyticsPreference,
@@ -159,6 +159,24 @@ test('actual tracker queues only safe fields with current public route context',
     ]);
     assert.equal(JSON.stringify(calls).includes('PRIVATE'), false);
   });
+});
+
+test('discovery link events report only the public page context after consent', () => {
+  for (const event of DISCOVERY_EVENTS) {
+    const path = event.startsWith('home_') ? '/' : '/blog/arrival';
+    browser((calls) => {
+      assert.equal(track(event, { href: '/private?email=secret', target_id: 'raw-target' }), true);
+      assert.deepEqual(calls, [['event', event, {
+        page_path: path,
+        page_location: `https://koreaexperience.com${path}`,
+        page_referrer: 'https://example.com',
+      }]]);
+    }, { path });
+    browser((calls) => {
+      assert.equal(track(event), false);
+      assert.equal(calls.length, 0);
+    }, { path, preference: 'essential' });
+  }
 });
 
 test('a failed consent persistence still revokes a previous acceptance in the current view', () => {

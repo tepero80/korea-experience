@@ -3,6 +3,7 @@ import { REPORTING_TARGETS, reportingAccessToken, safeReportingError } from './r
 import { reportingWindows, contentForReportUrl } from './reporting/report-policy';
 import { retainObservedReports, type ReportHistory } from './reporting/history';
 import { compareGrowth } from './reporting/growth-comparison';
+import { summarizeDiscovery } from './reporting/discovery';
 import {
   gscReport,
   gaReport,
@@ -123,6 +124,12 @@ async function main() {
       },
     ]),
   );
+  const discovery = Object.fromEntries(
+    Object.entries(periods).map(([period, results]) => [
+      period,
+      summarizeDiscovery(results.find((result) => result.name === 'GA4 public events')),
+    ]),
+  );
   const historyPath = '.private/reports/metrics-last-success.json';
   const growthPlan = '.private/reports/growth-comparison.json';
   const growth = fs.existsSync(growthPlan)
@@ -165,6 +172,7 @@ async function main() {
       'Private raw query/URL data: never commit. Missing rows and unavailable reports never imply zero traffic, no links or retirement eligibility.',
     periods,
     normalizedPages,
+    discovery,
     policy,
     alerts,
     sitemaps,

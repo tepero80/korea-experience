@@ -14,6 +14,8 @@ import PhotoCredit from '@/components/site/PhotoCredit';
 import AdSlot from '@/components/site/AdSlot';
 import GuideCommunity from '@/components/site/GuideCommunity';
 import GuideSignals from '@/components/site/GuideSignals';
+import DiscoveryLink from '@/components/site/DiscoveryLink';
+import Icon from '@/components/site/Icon';
 import { mediaFor, mediaForSource } from '@/lib/media';
 import { getDestinations } from '@/lib/destinations';
 import { isInRegion } from '@/lib/regions';
@@ -43,9 +45,21 @@ export default async function Guide({ params }: { params: Params }) {
   const related = getRelatedPosts(post.slug, 3);
   const places = placesFor(e?.placeIds || []);
   const tools = PRACTICAL_TOOLS.filter((t) => e?.tools.includes(t.href.split('/').pop()!));
+  const firstTripGuide = post.slug === 'first-trip-to-korea-planning-guide';
   const destinations = e?.regions.length
     ? getDestinations().filter((region) => isInRegion(e.regions, region.id))
     : [];
+  const regionalLinks = destinations.map((region) => (
+    <li key={region.id}>
+      <DiscoveryLink event="guide_destination" href={`/destinations/${region.id}`}>
+        <span>
+          <strong>Explore {region.name}</strong>
+          <span>Local transport, places & itineraries</span>
+        </span>
+        <Icon name="next" />
+      </DiscoveryLink>
+    </li>
+  ));
   const breadcrumb = breadcrumbSchema([
     { name: 'Home', path: '/' },
     { name: 'Guides', path: '/blog' },
@@ -115,6 +129,9 @@ export default async function Guide({ params }: { params: Params }) {
                   Places & map
                 </a>
               ) : null}
+              <a className="action-button" href="#guide-planning-links">
+                Find your next stop
+              </a>
             </div>
           ) : null}
         </header>
@@ -139,9 +156,14 @@ export default async function Guide({ params }: { params: Params }) {
                   Share
                 </a>
               </div>
-              <a className="text-link" href="#guide-details">
-                See the steps & comparisons ↓
-              </a>
+              <div className="answer-navigation no-print">
+                <a className="text-link" href="#guide-details">
+                  See the steps & comparisons <span aria-hidden="true">↓</span>
+                </a>
+                <a className="text-link" href="#guide-planning-links">
+                  Find your next stop <span aria-hidden="true">↓</span>
+                </a>
+              </div>
               <details className="answer-conditions">
                 <summary>
                   {e.quickChoices?.length
@@ -207,17 +229,42 @@ export default async function Guide({ params }: { params: Params }) {
           </aside>
           <div className="article-reading">
             <article className="article-body">{compiled.content}</article>
+            <nav
+              className="article-destinations no-print"
+              aria-label="Destination guides"
+              id="guide-planning-links"
+              tabIndex={-1}
+            >
+              <h2>Continue planning</h2>
+              <ul className="article-discovery-links">
+                {!firstTripGuide && regionalLinks}
+                {!firstTripGuide ? (
+                  <li>
+                    <DiscoveryLink event="guide_first_trip" href="/blog/first-trip-to-korea-planning-guide">
+                      <span><strong>Plan your first trip</strong><span>Dates, budget & what to book</span></span>
+                      <Icon name="next" />
+                    </DiscoveryLink>
+                  </li>
+                ) : null}
+                <li>
+                  <DiscoveryLink event="guide_destinations" href="/destinations">
+                    <span><strong>All destinations</strong><span>Compare Korea’s cities & regions</span></span>
+                    <Icon name="next" />
+                  </DiscoveryLink>
+                </li>
+                {firstTripGuide ? (
+                  <li>
+                    <DiscoveryLink event="guide_more_planning" href="/blog/category/plan-your-trip">
+                      <span><strong>More trip-planning guides</strong><span>Find checklists & booking advice</span></span>
+                      <Icon name="next" />
+                    </DiscoveryLink>
+                  </li>
+                ) : null}
+                {firstTripGuide && regionalLinks}
+              </ul>
+            </nav>
             <AdSlot key={post.id} />
             <PlaceMap places={places} guideId={post.id} />
-            {destinations.length ? (
-              <nav className="article-destinations" aria-label="Destination guides">
-                {destinations.map((region) => (
-                  <Link className="text-link" key={region.id} href={`/destinations/${region.id}`}>
-                    Explore {region.name} ↗
-                  </Link>
-                ))}
-              </nav>
-            ) : null}
             {e?.sources.length ? (
               <section className="source-box" id="sources-and-checks">
                 <p className="eyebrow">Trace the important details</p>

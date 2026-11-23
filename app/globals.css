@@ -677,37 +677,9 @@ p {
   background: currentColor;
   display: inline-block;
 }
-.home-hero {
-  display: grid;
-  grid-template-columns: 1fr 1.05fr;
-  gap: 58px;
-  padding-top: 44px;
-  padding-bottom: 44px;
-  align-items: center;
-}
-.hero-copy {
-  padding: 28px 0;
-}
-.display-title {
-  font:
-    clamp(42px, 5vw, 72px)/1.06 Georgia,
-    'Times New Roman',
-    serif;
-  letter-spacing: -2.4px;
-  margin: 26px 0;
-  color: var(--ke-ink);
-}
-.display-title em,
 .section-title em {
   font-weight: 400;
   color: var(--ke-amber);
-}
-.hero-deck {
-  font-size: 17px;
-  line-height: 1.85;
-  color: var(--ke-muted);
-  max-width: 370px;
-  margin-bottom: 30px;
 }
 .button-row {
   display: flex;
@@ -774,38 +746,6 @@ p {
   line-height: 1.7;
   color: var(--ke-muted);
   max-width: 240px;
-}
-.hero-figure {
-  position: relative;
-  margin: 0;
-  padding: 0 0 28px;
-}
-.hero-figure > img {
-  width: 100%;
-  height: 540px;
-  object-fit: cover;
-  border-radius: 120px 4px 4px 4px;
-  object-position: 50% 50%;
-}
-.hero-figure figcaption {
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  display: flex;
-  justify-content: space-between;
-  font-size: 9px;
-  color: var(--ke-muted);
-}
-.hero-figure figcaption span,
-.hero-figure figcaption a {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-}
-.hero-figure figcaption svg {
-  width: 12px;
-  height: 12px;
 }
 .hero-photo-label {
   position: absolute;
@@ -1261,14 +1201,6 @@ p {
 .mobile-nav {
   display: none;
 }
-@media (min-width: 1600px) {
-  .home-hero {
-    gap: 85px;
-  }
-  .hero-figure > img {
-    height: 590px;
-  }
-}
 @media (max-width: 1050px) {
   .wrap {
     width: calc(100% - 48px);
@@ -1282,15 +1214,6 @@ p {
   }
   .desktop-nav > a {
     font-size: 12px;
-  }
-  .home-hero {
-    gap: 30px;
-  }
-  .display-title {
-    font-size: 56px;
-  }
-  .hero-figure > img {
-    height: 500px;
   }
   .hero-note {
     margin-top: 30px;
@@ -1334,25 +1257,6 @@ p {
   .mobile-nav {
     display: block;
   }
-  .home-hero {
-    grid-template-columns: 1fr;
-    gap: 20px;
-    padding-top: 22px;
-    padding-bottom: 25px;
-  }
-  .hero-copy {
-    padding: 15px 0 5px;
-  }
-  .display-title {
-    font-size: clamp(42px, 9.5vw, 62px);
-    letter-spacing: -1.8px;
-    margin: 20px 0;
-  }
-  .hero-deck {
-    font-size: 15px;
-    max-width: 420px;
-    line-height: 1.75;
-  }
   .hero-note {
     margin-top: 26px;
     padding-top: 15px;
@@ -1360,11 +1264,6 @@ p {
   }
   .hero-note > p {
     max-width: none;
-  }
-  .hero-figure > img {
-    height: 330px;
-    border-top-left-radius: 80px;
-    object-position: center 40%;
   }
   .hero-photo-label {
     font-size: 20px;

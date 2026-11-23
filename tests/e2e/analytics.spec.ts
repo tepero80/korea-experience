@@ -9,7 +9,12 @@ test.afterEach(async ({ page }) => {
   // Finish handlers before Playwright disposes their API response context.
   await page.unrouteAll({ behavior: 'wait' });
 });
-async function isolatedProductionOrigin(page: Page, blockWrites = false, recordCalls = true) {
+async function isolatedProductionOrigin(
+  page: Page,
+  blockWrites = false,
+  recordCalls = true,
+  retainCallsPerTab = false,
+) {
   // All apex requests are fulfilled by the local export. No real analytics,
   // advertising, authentication, mail or contribution request can leave this fixture.
   await page.route('**/*', async (route) => {
@@ -55,12 +60,18 @@ async function isolatedProductionOrigin(page: Page, blockWrites = false, recordC
     return route.abort();
   });
   await page.addInitScript(
-    ({ blockWrites, recordCalls }) => {
+    ({ blockWrites, recordCalls, retainCallsPerTab }) => {
       if (recordCalls) {
-        const calls: unknown[][] = [];
+        const fixtureKey = 'ke-fixture-event-log';
+        const calls: unknown[][] = retainCallsPerTab
+          ? JSON.parse(sessionStorage.getItem(fixtureKey) ?? '[]')
+          : [];
         Object.assign(window, {
           __keFixtureEvents: calls,
-          gtag: (...args: unknown[]) => calls.push(args),
+          gtag: (...args: unknown[]) => {
+            calls.push(args);
+            if (retainCallsPerTab) sessionStorage.setItem(fixtureKey, JSON.stringify(calls));
+          },
         });
       }
       if (blockWrites)
@@ -68,7 +79,7 @@ async function isolatedProductionOrigin(page: Page, blockWrites = false, recordC
           throw new DOMException('Fixture blocked storage', 'SecurityError');
         };
     },
-    { blockWrites, recordCalls },
+    { blockWrites, recordCalls, retainCallsPerTab },
   );
 }
 async function events(page: Page, name: string) {
@@ -236,4 +247,51 @@ test('engaged reading qualifies only after consent and is counted once', async (
   expect(await events(page, 'guide_engaged')).toHaveLength(1);
   await page.clock.runFor(46000);
   expect(await events(page, 'guide_engaged')).toHaveLength(1);
+});
+
+test('discovery records the chosen path after consent and keeps the ad below the guide links', async ({
+  page,
+}) => {
+  // Links load a new document. Keep the fixture-only queue through that navigation.
+  await isolatedProductionOrigin(page, false, true, true);
+  await page.goto(origin);
+  const home = page.getByRole('navigation', { name: 'Start exploring Korea', exact: true });
+  const destinations = home.getByRole('link', { name: 'Explore destinations', exact: true });
+  await page.getByRole('button', { name: 'Essential only', exact: true }).click();
+  await destinations.press('Enter');
+  await expect(page).toHaveURL(origin + '/#explore-destinations');
+  expect(await events(page, 'home_destinations')).toHaveLength(0);
+
+  await page.getByRole('button', { name: 'Cookie settings', exact: true }).click();
+  await page.getByRole('button', { name: 'Allow analytics', exact: true }).click();
+  await destinations.press('Enter');
+  expect(await events(page, 'home_destinations')).toEqual([
+    ['event', 'home_destinations', { page_path: '/', page_location: origin + '/', page_referrer: '' }],
+  ]);
+
+  const regional = '/blog/gwangju-u-square-bus-terminal-to-asia-culture-center';
+  await page.goto(origin + regional, { referer: 'https://www.google.com/search?q=PRIVATE_FIXTURE' });
+  const next = page.getByRole('navigation', { name: 'Destination guides', exact: true });
+  await expect(page.locator('.ad-slot')).toHaveCount(1);
+  expect(
+    await next.evaluate((nav) => {
+      const article = document.querySelector('.article-body');
+      const ad = document.querySelector('.ad-slot');
+      return (
+        article && ad &&
+        Boolean(article.compareDocumentPosition(nav) & Node.DOCUMENT_POSITION_FOLLOWING) &&
+        Boolean(nav.compareDocumentPosition(ad) & Node.DOCUMENT_POSITION_FOLLOWING)
+      );
+    }),
+  ).toBe(true);
+
+  await next.getByRole('link', { name: /^Plan your first trip/ }).click();
+  await expect(page).toHaveURL(origin + '/blog/first-trip-to-korea-planning-guide');
+  expect(await events(page, 'guide_first_trip')).toEqual([
+    ['event', 'guide_first_trip', {
+      page_path: regional,
+      page_location: origin + regional,
+      page_referrer: 'https://www.google.com',
+    }],
+  ]);
 });

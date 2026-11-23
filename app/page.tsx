@@ -5,8 +5,17 @@ import { GUIDE_FEED_TYPES, PRIMARY_TRAVEL_TOOLS, SITE_CONFIG } from '@/lib/const
 import BlogCard from '@/components/BlogCard';
 import Icon from '@/components/site/Icon';
 import Search from '@/components/Search';
+import DiscoveryLink from '@/components/site/DiscoveryLink';
 import { mediaFor } from '@/lib/media';
 import { getDestinations } from '@/lib/destinations';
+
+const featuredRegions = [
+  { id: 'seoul', focus: 'Palaces & neighborhoods' },
+  { id: 'busan', focus: 'Markets & coast' },
+  { id: 'gyeongju', focus: 'Silla heritage' },
+  { id: 'jeju', focus: 'Island walks & coast' },
+];
+
 export const metadata = {
   title: { absolute: SITE_CONFIG.title },
   alternates: { canonical: SITE_CONFIG.url + '/', types: GUIDE_FEED_TYPES },
@@ -14,8 +23,13 @@ export const metadata = {
 export default function Home() {
   const featured = getFeaturedPosts();
   const picks = (featured.length ? featured : getAllPosts()).slice(0, 3);
-  const homePhoto = mediaFor('bukchon')!;
-  const hasGangwonGuides = getDestinations().some((region) => region.area === 'Gangwon' && region.indexable);
+  const destinations = getDestinations();
+  const photoCards = featuredRegions.flatMap(({ id, focus }) => {
+    const region = destinations.find((region) => region.id === id && region.indexable);
+    const photo = mediaFor(region?.coverMediaId);
+    return region && photo?.credit.kind === 'photograph' ? [{ region, photo, focus }] : [];
+  });
+  const hasGangwonGuides = destinations.some((region) => region.area === 'Gangwon' && region.indexable);
   return (
     <>
       <script
@@ -33,56 +47,74 @@ export default function Home() {
           }).replace(/</g, '\\u003c'),
         }}
       />
-      <section className="home-hero wrap">
-        <div className="hero-copy">
-          <div className="eyebrow">
-            <span className="tiny-line" /> Korea, one good decision at a time
-          </div>
-          <h1 className="display-title">
-            Plan less.
-            <br />
-            <em>Experience more.</em>
-          </h1>
-          <p className="hero-deck">
-            Choose your base, find your way and build days worth remembering. Practical Korea guides
-            with maps, clear choices and the details to make them happen.
-          </p>
-          <Search variant="hero" />
-          <div className="home-quick-links" aria-label="Popular starting points">
-            <span>Start with</span>
-            <Link href="/blog/first-trip-to-korea-planning-guide">First trip to Korea</Link>
-            <Link href="/blog/airport-limousine-bus-vs-arex-express-train">Airport to hotel</Link>
-            <Link href="/tools/itinerary">Your day-by-day plan</Link>
-            <Link href="/blog/korea-travel-problem-solving-guide">Need help now?</Link>
-            <a href="#winter-trip-planning">Winter trip planning</a>
-            {hasGangwonGuides ? <a href="/destinations#gangwon">Explore Gangwon</a> : null}
-          </div>
+      <section className="home-hero wrap" aria-labelledby="home-title">
+        <div>
+          <h1 id="home-title">Plan your Korea trip</h1>
+          <p>Decide where to go, how to get there, and what fits in a day.</p>
         </div>
-        <figure className="hero-figure">
-          <img
-            src={homePhoto.src}
-            srcSet={homePhoto.srcSet}
-            sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1360px) calc((100vw - 132px) / 2), 614px"
-            alt="Traditional tiled hanok roofs lining a quiet lane in Bukchon, Seoul"
-            width={homePhoto.width}
-            height={homePhoto.height}
-            fetchPriority="high"
-          />
-          <figcaption>
-            <span>
-              <Icon name="pin" />
-              Bukchon, Seoul
-            </span>
-            <Link href="/image-credits#bukchon">
-              Photo & credit <Icon name="arrow" />
-            </Link>
-          </figcaption>
-          <Link className="hero-destination-link" href="/destinations/seoul">
-            <span>Begin in Seoul</span>
-            <Icon name="arrow" />
-          </Link>
-        </figure>
+        <div className="home-hero-actions">
+          <nav className="home-entry-links" aria-label="Start exploring Korea">
+            <DiscoveryLink event="home_first_trip" href="/blog/first-trip-to-korea-planning-guide">
+              Plan your first trip <Icon name="next" />
+            </DiscoveryLink>
+            <DiscoveryLink event="home_destinations" href="#explore-destinations">
+              Explore destinations <Icon name="next" />
+            </DiscoveryLink>
+          </nav>
+          <Search variant="hero" />
+        </div>
       </section>
+      <section className="wrap home-destinations" aria-labelledby="explore-destinations">
+        <div className="home-destination-heading">
+          <h2 className="section-title" id="explore-destinations" tabIndex={-1}>
+            Explore destinations
+          </h2>
+          <DiscoveryLink className="text-link" event="home_all_destinations" href="/destinations">
+            All {destinations.length} destinations <Icon name="next" />
+          </DiscoveryLink>
+        </div>
+        <ul className="home-destination-grid">
+          {photoCards.map(({ region, photo, focus }, index) => (
+            <li key={region.id}>
+              <DiscoveryLink className="home-destination-card" event="home_destination" href={`/destinations/${region.id}`}>
+                <img
+                  src={photo.src}
+                  srcSet={photo.srcSet}
+                  sizes="(max-width: 760px) calc((100vw - 52px) / 2), (max-width: 1320px) calc((100vw - 100px) / 4), 300px"
+                  alt={photo.alt}
+                  width={photo.width}
+                  height={photo.height}
+                  style={{ objectPosition: photo.focal }}
+                  loading={index === 0 ? 'eager' : 'lazy'}
+                />
+                <div className="home-destination-caption">
+                  <span><strong>{region.name}</strong><span>{focus}</span></span>
+                  <Icon name="arrow" />
+                </div>
+              </DiscoveryLink>
+            </li>
+          ))}
+        </ul>
+        <details className="home-photo-credits">
+          <summary>Photo credits</summary>
+          <ul>
+            {photoCards.map(({ region, photo }) => (
+              <li key={photo.id}>
+                <a href={`/image-credits#${photo.id}`}>
+                  {region.name} · {photo.credit.author} · {photo.credit.license}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </details>
+      </section>
+      <nav className="wrap home-quick-links" aria-label="Popular starting points">
+        <Link href="/blog/airport-limousine-bus-vs-arex-express-train">Airport to hotel</Link>
+        <Link href="/tools/itinerary">Your day-by-day plan</Link>
+        <Link href="/blog/korea-travel-problem-solving-guide">Need help now?</Link>
+        <a href="#winter-trip-planning">Winter trip planning</a>
+        {hasGangwonGuides ? <a href="/destinations#gangwon">Explore Gangwon</a> : null}
+      </nav>
       <section className="journey-band" aria-label="Plan your journey">
         <div className="wrap journey-band-inner">
           {[
@@ -128,7 +160,7 @@ export default function Home() {
           </p>
         </div>
         <div className="guide-grid">
-          {picks.map((p, i) => (
+          {picks.map((p) => (
             <BlogCard key={p.slug} post={p} />
           ))}
         </div>

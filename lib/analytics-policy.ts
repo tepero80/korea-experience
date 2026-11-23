@@ -2,6 +2,18 @@ export const ANALYTICS_ORIGIN = 'https://koreaexperience.com';
 export const ANALYTICS_ID = 'G-8D8HNVWDR9';
 export const ANALYTICS_READY_EVENT = 'ke-analytics-ready';
 
+export const DISCOVERY_EVENTS = [
+  'home_first_trip',
+  'home_destinations',
+  'home_destination',
+  'home_all_destinations',
+  'guide_first_trip',
+  'guide_more_planning',
+  'guide_destination',
+  'guide_destinations',
+] as const;
+export type DiscoveryEvent = (typeof DISCOVERY_EVENTS)[number];
+
 const tools = new Set([
   'airport-transfer',
   'transit-pass',
@@ -54,6 +66,7 @@ const count =
 // Only these project events and public identifiers may reach analytics. Raw searches,
 // private plan fields, destinations entered by a member and arbitrary URLs have no schema.
 const schema: Record<string, Record<string, Validator>> = {
+  ...Object.fromEntries(DISCOVERY_EVENTS.map((event) => [event, {}])),
   guide_engaged: { content_id: identifier, category: member(categories) },
   guide_save: { content_id: identifier, category: member(categories) },
   guide_unsave: { content_id: identifier, category: member(categories) },
