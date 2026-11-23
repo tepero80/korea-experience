@@ -6,6 +6,7 @@ import BlogCard from '@/components/BlogCard';
 import Icon from '@/components/site/Icon';
 import Search from '@/components/Search';
 import { mediaFor } from '@/lib/media';
+import { getDestinations } from '@/lib/destinations';
 export const metadata = {
   title: { absolute: SITE_CONFIG.title },
   alternates: { canonical: SITE_CONFIG.url + '/', types: GUIDE_FEED_TYPES },
@@ -14,6 +15,7 @@ export default function Home() {
   const featured = getFeaturedPosts();
   const picks = (featured.length ? featured : getAllPosts()).slice(0, 3);
   const homePhoto = mediaFor('bukchon')!;
+  const hasGangwonGuides = getDestinations().some((region) => region.area === 'Gangwon' && region.indexable);
   return (
     <>
       <script
@@ -53,6 +55,7 @@ export default function Home() {
             <Link href="/tools/itinerary">Your day-by-day plan</Link>
             <Link href="/blog/korea-travel-problem-solving-guide">Need help now?</Link>
             <a href="#winter-trip-planning">Winter trip planning</a>
+            {hasGangwonGuides ? <a href="/destinations#gangwon">Explore Gangwon</a> : null}
           </div>
         </div>
         <figure className="hero-figure">

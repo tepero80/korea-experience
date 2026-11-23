@@ -5538,6 +5538,18 @@
     ],
     "relations": [
       {
+        "slug": "gangneung-gyeongpo-lake-and-beach-walk",
+        "type": "alternative",
+        "label": "Plan a separate Gyeongpo outing",
+        "reason": "Use a different approach for the lake and beach."
+      },
+      {
+        "slug": "seoul-to-gangneung-ktx-vs-express-bus",
+        "type": "prepare",
+        "label": "Choose the right Gangneung arrival",
+        "reason": "Compare the train and bus before planning the onward transfer."
+      },
+      {
         "slug": "intercity-bus-travel-booking-apps-and-routes",
         "type": "alternative",
         "label": "Compare an intercity trip",
@@ -6570,6 +6582,18 @@
     ],
     "relations": [
       {
+        "slug": "sokcho-intercity-vs-express-bus-terminal",
+        "type": "prepare",
+        "label": "Save the right Sokcho terminal",
+        "reason": "The city has separate bus buildings for different tickets."
+      },
+      {
+        "slug": "sokcho-market-gaetbae-abai-village-walk",
+        "type": "alternative",
+        "label": "Stay near the harbor if mountain plans change",
+        "reason": "Pick a market and village walk with a confirmed return."
+      },
+      {
         "slug": "korea-snow-advisory-travel-plan",
         "type": "prepare",
         "label": "Check winter conditions",
@@ -7356,6 +7380,18 @@
       "day-trips"
     ],
     "relations": [
+      {
+        "slug": "chuncheon-samaksan-lake-cable-car-visit",
+        "type": "next",
+        "label": "Plan the lake cable car",
+        "reason": "Compare the approaches from Chuncheon and Namchuncheon."
+      },
+      {
+        "slug": "chuncheon-station-to-soyanggang-skywalk",
+        "type": "next",
+        "label": "Walk to the Soyang River",
+        "reason": "Plan a short waterfront outing from the station you chose."
+      },
       {
         "slug": "ktx-seat-and-luggage-guide-for-international-travelers",
         "type": "next",
@@ -12142,6 +12178,773 @@
     },
     "heroMediaId": "jeonju-gyeonggijeon-courtyard",
     "heroCaption": "The Gyeonggijeon main hall in September 2022. Confirm current visitor entry separately.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "chuncheon-station-to-soyanggang-skywalk": {
+    "id": "chuncheon-station-soyanggang-skywalk",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Walk or take a city bus from Chuncheon Station to Soyanggang Skywalk. If the glass deck is closed, visit the nearby Maiden Statue when outdoor conditions allow.",
+    "forWhom": "Car-free travelers with time for one riverside stop from Chuncheon Station",
+    "conditions": [
+      "Chuncheon city lists a Tuesday closure and last admission 30 minutes before closing.",
+      "Check the current walking route or bus boarding stop. Rain, snow or strong wind can close the deck."
+    ],
+    "regions": [
+      "chuncheon"
+    ],
+    "stages": [
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "walking",
+      "waterfront",
+      "rail"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-to-chuncheon-train-choice",
+        "type": "prepare",
+        "label": "Choose your train from Seoul",
+        "reason": "Check your actual arrival station before choosing an onward route."
+      },
+      {
+        "slug": "chuncheon-samaksan-lake-cable-car-visit",
+        "type": "alternative",
+        "label": "Plan a separate cable car outing",
+        "reason": "Leave time for the trip across town and verify lake cable car service independently."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "chuncheon-railway-station",
+      "chuncheon-soyanggang-skywalk",
+      "chuncheon-soyanggang-maiden-statue"
+    ],
+    "sources": [
+      {
+        "id": "chuncheon-station-soyanggang-skywalk-source-1",
+        "title": "Chuncheon City: Soyanggang Skywalk",
+        "url": "https://www.chuncheon.go.kr/tour/destination/all-tour/detail/?tourId=216",
+        "note": "Entry rules, last admission and Tuesday closure. City and national end times differ.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "chuncheon-station-soyanggang-skywalk-source-2",
+        "title": "Chuncheon City: Soyanggang Maiden Statue",
+        "url": "https://www.chuncheon.go.kr/tour/destination/all-tour/detail/?tourId=331",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "chuncheon-station-soyanggang-skywalk-source-3",
+        "title": "Chuncheon City: traffic portal",
+        "url": "https://www.chuncheon.go.kr/traffic/",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "chuncheon-station-soyanggang-skywalk-source-4",
+        "title": "Korea Tourism Organization: Soyanggang Skywalk",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=68510",
+        "note": "Confirms the address and lists a fee. Use the city and management office for current hours.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "chuncheon-station-soyanggang-skywalk-source-5",
+        "title": "Chuncheon National Museum: visitor information",
+        "url": "https://chuncheon.museum.go.kr/eng/sub01_01.do",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Use 춘천역 for the station and 소양강스카이워크 for the glass deck.",
+      "The city lists a Tuesday closure. Check the last admission before visiting.",
+      "Keep the riverside statue or the museum as a fallback."
+    ],
+    "launchOrder": 1143,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Soyang River Sky Walk 02.jpg",
+      "author": "Youngjin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soyang_River_Sky_Walk_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2023-12-07. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "chuncheon-soyanggang-skywalk-deck",
+    "heroCaption": "Soyanggang Skywalk in December 2023. Check current entry and weather before visiting.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "chuncheon-samaksan-lake-cable-car-visit": {
+    "id": "chuncheon-samaksan-cable-car-visit",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Travel to the Uiamho lower station and check operator status and last boarding. Add the upper walkway only if it is open and suits your group.",
+    "forWhom": "Day trippers choosing a lake cable car outing without a rental car",
+    "conditions": [
+      "The cable car and upper walkway have separate hours and weather restrictions.",
+      "Wheelchairs and strollers are excluded from the upper walk. Confirm cabin boarding and station access with the operator."
+    ],
+    "regions": [
+      "chuncheon"
+    ],
+    "stages": [
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "lake",
+      "family",
+      "accessibility"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-to-chuncheon-train-choice",
+        "type": "prepare",
+        "label": "Compare trains and stations",
+        "reason": "Check which station your train serves and reserve time for the bus or taxi to the lake."
+      },
+      {
+        "slug": "chuncheon-station-to-soyanggang-skywalk",
+        "type": "alternative",
+        "label": "Plan the Soyang River instead",
+        "reason": "Choose a shorter riverside outing when conditions are suitable and the cable car plan will not work."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "chuncheon-samaksan-cable-car",
+      "chuncheon-namchuncheon-station",
+      "chuncheon-railway-station"
+    ],
+    "sources": [
+      {
+        "id": "chuncheon-samaksan-cable-car-visit-source-1",
+        "title": "Samaksan Lake Cable Car: directions and bus routes",
+        "url": "https://www.samaksancablecar.com/home/produce/map.php",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "chuncheon-samaksan-cable-car-visit-source-2",
+        "title": "Chuncheon City: traffic portal",
+        "url": "https://www.chuncheon.go.kr/traffic/",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "chuncheon-samaksan-cable-car-visit-source-3",
+        "title": "Samaksan Lake Cable Car: service and notices",
+        "url": "https://www.samaksancablecar.com/home/index.php",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "chuncheon-samaksan-cable-car-visit-source-4",
+        "title": "Samaksan Lake Cable Car: fares and boarding rules",
+        "url": "https://www.samaksancablecar.com/home/guide/charge.php",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "chuncheon-samaksan-cable-car-visit-source-5",
+        "title": "Samaksan Lake Cable Car: upper walkway rules and hours",
+        "url": "https://www.samaksancablecar.com/home/guide/walk.php",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "chuncheon-samaksan-cable-car-visit-source-6",
+        "title": "Korea Tourism Organization: cable car accessibility",
+        "url": "https://access.visitkorea.or.kr/opentour/detail.do?cotId=3674fe6a-275b-4167-bae6-afe1e133334e",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "chuncheon-samaksan-cable-car-visit-source-7",
+        "title": "Chuncheon National Museum: visitor information",
+        "url": "https://chuncheon.museum.go.kr/eng/sub01_01.do",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Board at the Uiamho lower station, 스포츠타운길 245.",
+      "Check service, last boarding and the bus back before setting out.",
+      "The upper walk has separate access rules."
+    ],
+    "launchOrder": 1144,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "삼악산 케이블카 1.jpg",
+      "author": "Sadopaul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:삼악산_케이블카_1.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2023-12-09. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "chuncheon-samaksan-cable-car-ride",
+    "heroCaption": "Samaksan Lake Cable Car in December 2023. Verify the current operating status and last boarding before traveling.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gangneung-ojukheon-and-jungang-market": {
+    "id": "gangneung-ojukheon-jungang-halfday",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Visit Ojukheon before the ticket cutoff, then head to Jungang Market for a meal. If you arrive late, start downtown.",
+    "forWhom": "Visitors with half a day for Gangneung’s historic sights and market",
+    "conditions": [
+      "Ojukheon has separate rules for indoor exhibitions on January 1, Seollal and Chuseok day.",
+      "Bus departures and market stall hours vary. Check your last onward departure."
+    ],
+    "regions": [
+      "gangneung"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "heritage",
+      "museums",
+      "markets"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-to-gangneung-ktx-vs-express-bus",
+        "type": "prepare",
+        "label": "Pick your arrival point in Gangneung",
+        "reason": "The train and express bus arrive at different locations, which changes your first transfer."
+      },
+      {
+        "slug": "gangneung-gyeongpo-lake-and-beach-walk",
+        "type": "next",
+        "label": "Plan a separate Gyeongpo outing",
+        "reason": "When the forecast clears, choose either the lake or the beach for a short walk."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gangneung-ojukheon",
+      "gangneung-jungang-market"
+    ],
+    "sources": [
+      {
+        "id": "gangneung-ojukheon-jungang-halfday-source-1",
+        "title": "Korea Tourism Organization: Ojukheon House and Municipal Museum",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=110674",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-ojukheon-jungang-halfday-source-2",
+        "title": "Gangneung municipal ordinance: museum hours and holiday rules",
+        "url": "https://www.law.go.kr/LSW/ordinInfoP.do?ordinSeq=2146155",
+        "note": "Use the version in effect on the travel date, and check museum notices for temporary changes.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-ojukheon-jungang-halfday-source-3",
+        "title": "Korea Tourism Organization: Ojukheon accessibility and holiday access",
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=b4e76408-f34d-4778-8641-dbcceb340ece",
+        "note": "Korean listing updated November 10, 2026.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-ojukheon-jungang-halfday-source-4",
+        "title": "Korea Tourism Organization: Jungang Market",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=66096",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-ojukheon-jungang-halfday-source-5",
+        "title": "Korea Tourism Organization: Wolhwa Street",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=249838",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-ojukheon-jungang-halfday-source-6",
+        "title": "Gangneung City: live bus information",
+        "url": "https://bis.gn.go.kr/search",
+        "note": "Check exact stop and direction for the date of travel.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Protect Ojukheon’s last ticket time.",
+      "Holiday rules include indoor closures.",
+      "Choose a market meal before browsing."
+    ],
+    "launchOrder": 1145,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Ojukheon sarangchae.jpg",
+      "author": "Altostratus",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ojukheon_sarangchae.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2017-02-15. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Check current access and exhibition hours independently."
+    },
+    "heroMediaId": "gangneung-ojukheon-house",
+    "heroCaption": "The courtyard and traditional buildings at Ojukheon in February 2017. Check today’s last admission and indoor exhibit hours before going.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gangneung-gyeongpo-lake-and-beach-walk": {
+    "id": "gangneung-gyeongpo-lake-beach-walk",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Start at Gyeongpo Beach for a short shore walk or at Gyeongpodae Pavilion for the lake. Save your return route before setting out.",
+    "forWhom": "Visitors planning a short Gangneung coast or lake walk without a car",
+    "conditions": [
+      "Coastal access can change with the weather. Check notices and swim rules separately.",
+      "The beach, pavilion and lake pins serve different purposes. Verify your walking approach and return stop."
+    ],
+    "regions": [
+      "gangneung"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "walking",
+      "coast",
+      "nature"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-to-gangneung-ktx-vs-express-bus",
+        "type": "prepare",
+        "label": "Compare ways to get to Gangneung",
+        "reason": "Choose the KTX station or bus terminal before checking your local leg to the beach."
+      },
+      {
+        "slug": "gangneung-ojukheon-and-jungang-market",
+        "type": "alternative",
+        "label": "Switch to a heritage and market half-day",
+        "reason": "Check indoor exhibition hours if the coast is windy or closed."
+      },
+      {
+        "slug": "gangneung-station-anmok",
+        "type": "alternative",
+        "label": "Compare the route to Anmok Beach",
+        "reason": "Use Anmok instead if a coffee-street stop is your priority."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gangneung-gyeongpo-beach",
+      "gangneung-gyeongpodae-pavilion",
+      "gangneung-gyeongpo-lake"
+    ],
+    "sources": [
+      {
+        "id": "gangneung-gyeongpo-lake-beach-walk-source-1",
+        "title": "Korea Tourism Organization: Gyeongpo Beach",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111055",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-gyeongpo-lake-beach-walk-source-2",
+        "title": "Korea Tourism Organization: Gyeongpodae Pavilion",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=110841",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-gyeongpo-lake-beach-walk-source-3",
+        "title": "Korea Tourism Organization: Gyeongpo Lake",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111060",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-gyeongpo-lake-beach-walk-source-4",
+        "title": "Korea Tourism Organization: park weather limits",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=91009",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-gyeongpo-lake-beach-walk-source-5",
+        "title": "Gangneung Baugil association: Section 5 route",
+        "url": "https://www.baugil.org/html/course/5course.html",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-gyeongpo-lake-beach-walk-source-6",
+        "title": "Gangneung City: bus timetable",
+        "url": "https://bis.gn.go.kr/schedule",
+        "note": "934-1 outbound to Gyeongpo Beach terminus and 934 in the opposite direction. Timetables can change.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-gyeongpo-lake-beach-walk-source-7",
+        "title": "Gangneung City: live bus information",
+        "url": "https://bis.gn.go.kr/search",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Choose the beach or pavilion as the start.",
+      "Check your ride back before the walk.",
+      "Keep a weather alternative in Gangneung."
+    ],
+    "launchOrder": 1146,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gyeongpo Beach 20220502 002.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongpo_Beach_20220502_002.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-05-02. The Commons photograph depicts the beach in May 2022. Swimming and coastal access depend on current conditions. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "gangneung-gyeongpo-beach-shore",
+    "heroCaption": "Gyeongpo Beach in May 2022. The shoreline visit is separate from current swimming conditions.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "sokcho-intercity-vs-express-bus-terminal": {
+    "id": "transport-sokcho-terminal-choice",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Match the terminal printed on your ticket. Sokcho’s intercity terminal and express terminal near the beach are separate, and both can serve Dong Seoul.",
+    "forWhom": "Travelers arriving in or leaving Sokcho by long-distance bus",
+    "conditions": [
+      "Read the outbound and return tickets separately.",
+      "Check the actual terminal and local connection on your travel date."
+    ],
+    "regions": [
+      "sokcho"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around",
+      "departure"
+    ],
+    "interests": [
+      "bus",
+      "walking"
+    ],
+    "relations": [
+      {
+        "slug": "sokcho-market-gaetbae-abai-village-walk",
+        "type": "next",
+        "label": "Plan a market and waterfront walk",
+        "reason": "Choose a downtown first stop after you know where your bus arrives."
+      },
+      {
+        "slug": "seoraksan-cable-car-flexible-sokcho-day",
+        "type": "alternative",
+        "label": "Plan a Seoraksan day",
+        "reason": "Check current cable-car operation and allow time for the trip to the national park."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "sokcho-intercity-terminal",
+      "sokcho-express-terminal"
+    ],
+    "sources": [
+      {
+        "id": "transport-sokcho-terminal-choice-source-1",
+        "title": "Sokcho City: terminal addresses and transport",
+        "url": "https://sokcho.go.kr/ct/tour/tour_guide/traffic",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-sokcho-terminal-choice-source-2",
+        "title": "Dongbu Buslines: express terminal locations",
+        "url": "https://www.dongbubus.co.kr/terminal",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-sokcho-terminal-choice-source-3",
+        "title": "Sokcho City: express and intercity services",
+        "url": "https://www.sokcho.go.kr/sc/fields/traffic/transport/express",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-sokcho-terminal-choice-source-4",
+        "title": "Korea Tourism Organization: express and intercity bus booking",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=140657",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-sokcho-terminal-choice-source-5",
+        "title": "Sokcho City: bus information system",
+        "url": "https://bis.sokcho.go.kr/",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Save the exact Korean name from your ticket.",
+      "Express is near the beach.",
+      "Check both arrival and return terminals."
+    ],
+    "launchOrder": 1147,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%8A%B9%EC%B0%A8%EC%9E%A5.png",
+      "author": "YanggoK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%8A%B9%EC%B0%A8%EC%9E%A5.png",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2026-10-04. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "sokcho-express-platform",
+    "heroCaption": "Sokcho Express Bus Terminal’s covered boarding platform in October 2026. Check your ticket for the current bay.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "sokcho-market-gaetbae-abai-village-walk": {
+    "id": "sokcho-market-gaetbae-abai-walk",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Walk from Sokcho’s market to the downtown Gaetbae landing. Cross to the village side if service is running, then choose a ferry return or the longer signed bridge walk.",
+    "forWhom": "Car-free visitors planning a short downtown and waterfront outing",
+    "conditions": [
+      "Check ferry operation and payment at the landing.",
+      "The bridge detour and boarding approach have conditions to verify before relying on either."
+    ],
+    "regions": [
+      "sokcho"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "walking",
+      "markets",
+      "heritage"
+    ],
+    "relations": [
+      {
+        "slug": "sokcho-intercity-vs-express-bus-terminal",
+        "type": "prepare",
+        "label": "Match your Sokcho bus ticket to the terminal",
+        "reason": "Leave time for the correct return terminal, especially with a same-day ticket."
+      },
+      {
+        "slug": "seoraksan-cable-car-flexible-sokcho-day",
+        "type": "alternative",
+        "label": "Plan a separate Seoraksan visit",
+        "reason": "Set a different time window for the cable car and check weather before leaving town."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "sokcho-tourist-fishery-market",
+      "sokcho-gaetbae-downtown-landing",
+      "sokcho-abai-village"
+    ],
+    "sources": [
+      {
+        "id": "sokcho-market-gaetbae-abai-walk-source-1",
+        "title": "Sokcho City: Abai Village walking course",
+        "url": "https://www.sokcho.go.kr/ct/tour/recommend/sokchoroad/road04",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "sokcho-market-gaetbae-abai-walk-source-2",
+        "title": "Sokcho City: Gaetbae ferry visitor details",
+        "url": "https://www.sokcho.go.kr/ct/tour/attraction/experience?contentSeq=118",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "sokcho-market-gaetbae-abai-walk-source-3",
+        "title": "Sokcho City: English walking map",
+        "url": "https://sokcho.go.kr/ct/page/sokchotour/download/Walking_Tour_Map_English.pdf",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "sokcho-market-gaetbae-abai-walk-source-4",
+        "title": "Korea Tourism Organization: Tourist & Fishery Market",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=75204",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "sokcho-market-gaetbae-abai-walk-source-5",
+        "title": "Korea Tourism Organization: Gaetbae ferry",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70424",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "sokcho-market-gaetbae-abai-walk-source-6",
+        "title": "Korea Tourism Organization: Abai Village",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=353&vcontsId=107594",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "sokcho-market-gaetbae-abai-walk-source-7",
+        "title": "Korea Tourism Organization: earlier market and ferry guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=234&menuSn=977&vcontsId=174444",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "sokcho-market-gaetbae-abai-walk-source-8",
+        "title": "Sokcho City: pedestrian bridge connection",
+        "url": "https://sokcho.go.kr/ct/tour/attraction/experience?contentSeq=98",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Start at the market and save the downtown landing.",
+      "Confirm the return ferry at the dock.",
+      "Allow more time for the bridge detour."
+    ],
+    "launchOrder": 1148,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Gaetbae_20221209_001.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaetbae_20221209_001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-12-09. Illustrates the shore-side boarding approach as it looked in 2022; check current signs and ferry operation. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "sokcho-gaetbae-ferry",
+    "heroCaption": "The Gaetbae’s downtown boarding approach in December 2022. Confirm the current signs and return crossing before you leave the market side.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "seoul-to-gangneung-ktx-vs-express-bus": {
+    "id": "gangneung-seoul-rail-coach-choice",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Check KTX from Seoul Station or Cheongnyangni if either is convenient. Compare the express bus from Seoul Gyeongbu if you start closer to Gangnam. Pin the arrival before you book.",
+    "forWhom": "Travelers comparing an independent Seoul-to-Gangneung journey",
+    "conditions": [
+      "Use the exact boarding point on your ticket.",
+      "Check the schedule, fare and return for your date.",
+      "Gangneung’s train station and express terminal are separate."
+    ],
+    "regions": [
+      "gangneung"
+    ],
+    "stages": [
+      "before-you-go",
+      "arrival",
+      "getting-around"
+    ],
+    "interests": [
+      "rail",
+      "bus",
+      "coast"
+    ],
+    "relations": [
+      {
+        "slug": "gangneung-gyeongpo-lake-and-beach-walk",
+        "type": "next",
+        "label": "Plan a lake and beach outing",
+        "reason": "Set the first stop before you choose your Gangneung arrival."
+      },
+      {
+        "slug": "gangneung-ojukheon-and-jungang-market",
+        "type": "alternative",
+        "label": "Keep a heritage and market route",
+        "reason": "Use a shorter inland outing if coastal weather is unhelpful."
+      },
+      {
+        "slug": "gangneung-station-anmok",
+        "type": "next",
+        "label": "Continue to Anmok from the train",
+        "reason": "Check the last leg for a separate waterfront outing."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gangneung-railway-station",
+      "gangneung-express-bus-terminal"
+    ],
+    "sources": [
+      {
+        "id": "gangneung-seoul-rail-coach-choice-source-1",
+        "title": "Korea Tourism Organization: trains",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=470&vcontsId=140656",
+        "note": "KTX rail network, stations, staffed windows and booking support.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-seoul-rail-coach-choice-source-2",
+        "title": "Korail passenger booking",
+        "url": "https://www.korail.com/global/eng/main",
+        "note": "Operator booking portal. Automated access showed a browser compatibility notice. Recheck for your service/date in a regular browser.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-seoul-rail-coach-choice-source-3",
+        "title": "Dongbu Buslines: route and terminal list",
+        "url": "https://en.dongbubus.co.kr/?redirect=no",
+        "note": "Published Seoul Gyeongbu to Gangneung options. Check the ticketing link for actual departures.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-seoul-rail-coach-choice-source-4",
+        "title": "Dongbu Buslines: Korean terminal directory",
+        "url": "https://www.dongbubus.co.kr/terminal",
+        "note": "Gangneung Express Bus Terminal address.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-seoul-rail-coach-choice-source-5",
+        "title": "National Tourist Information Center Standard Data",
+        "url": "https://www.data.go.kr/en/data/15013112/standard.do",
+        "note": "Government dataset verifies the rail visitor desk at the station address and the terminal information point.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-seoul-rail-coach-choice-source-6",
+        "title": "Korea Tourism Organization: long-distance buses",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=471&vcontsId=140657",
+        "note": "Terminal names and distinctions among bus booking channels.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gangneung-city-bus-lookup",
+        "title": "Gangneung City: live bus search",
+        "url": "https://bis.gn.go.kr/search",
+        "note": "Departure and onward stop lookup; content requires JavaScript.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Compare Seoul Station and Cheongnyangni for KTX",
+      "Check Seoul Gyeongbu for an express bus",
+      "Choose your exact Gangneung arrival"
+    ],
+    "launchOrder": 1149,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gangneung Station 20220430 004.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangneung_Station_20220430_004.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-04-30. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "gangneung-station-platform-arrival",
+    "heroCaption": "A platform at Gangneung Station in April 2022. Check your actual arrival, departure platform and onward stop.",
     "gallery": [],
     "experienceVersion": 2
   }

@@ -7,6 +7,7 @@ export type Region = {
   intro: string;
   tip: string;
   highlights?: readonly string[];
+  onward?: readonly { regionId: string; reason: string }[];
   keepVisible?: boolean;
 };
 
@@ -27,6 +28,11 @@ export const REGIONS: readonly Region[] = [
       'seongsu-dong-dior-luxury-vs-market-eats-in-24-hours',
       'seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets',
       'how-to-order-food-in-korean-restaurants-phrases-guide-2026',
+    ],
+    onward: [
+      { regionId: 'chuncheon', reason: 'Plan a lake outing from Seoul and choose where to board the train.' },
+      { regionId: 'gangneung', reason: 'Work out your arrival and give the coast and the heritage sights their own time.' },
+      { regionId: 'sokcho', reason: 'Choose the right bus terminal for a market visit, the waterfront or Seoraksan.' },
     ],
   },
   {
@@ -127,6 +133,52 @@ export const REGIONS: readonly Region[] = [
       'jeonju-gyeonggijeon-omokdae-walking-route',
       'jeonju-nambu-market-eating-plan',
     ],
+  },
+  {
+    id: 'chuncheon',
+    name: 'Chuncheon',
+    nameKo: '춘천',
+    area: 'Gangwon',
+    coverMediaId: 'chuncheon-soyanggang-waterfront',
+    intro: 'Pick the right train from Seoul, then choose an easy river outing or set aside time for the lake cable car.',
+    tip: 'The Soyanggang Skywalk and the upper deck at Samaksan are separate outings. Check weather and last admission at the one you plan to visit.',
+    highlights: [
+      'seoul-to-chuncheon-train-choice',
+      'chuncheon-station-to-soyanggang-skywalk',
+      'chuncheon-samaksan-lake-cable-car-visit',
+    ],
+    onward: [{ regionId: 'seoul', reason: 'Choose where to stay in Seoul before planning your train to Chuncheon.' }],
+  },
+  {
+    id: 'gangneung',
+    name: 'Gangneung',
+    nameKo: '강릉',
+    area: 'Gangwon',
+    coverMediaId: 'gangneung-gyeongpo-lake-overview',
+    intro: 'Compare arrival stations, then choose a lake-and-beach outing, an Anmok waterfront visit or a heritage and market half-day.',
+    tip: 'Railway and bus arrivals use different places in town. Give the waterfront its own time and keep an inland alternative for rough weather.',
+    highlights: [
+      'seoul-to-gangneung-ktx-vs-express-bus',
+      'gangneung-gyeongpo-lake-and-beach-walk',
+      'gangneung-ojukheon-and-jungang-market',
+      'gangneung-station-anmok',
+    ],
+    onward: [{ regionId: 'sokcho', reason: 'Compare a separate Sokcho stay if the market, harbor or Seoraksan is your priority.' }],
+  },
+  {
+    id: 'sokcho',
+    name: 'Sokcho & Seoraksan',
+    nameKo: '속초·설악산',
+    area: 'Gangwon',
+    coverMediaId: 'sokcho-abai-waterfront-overview',
+    intro: 'Pin the terminal from your ticket, then choose between Sokcho’s market and village waterfront or a day at Seoraksan.',
+    tip: 'The express and intercity terminals are separate. Recheck your return ticket and keep a city alternative when the mountain weather changes.',
+    highlights: [
+      'sokcho-intercity-vs-express-bus-terminal',
+      'sokcho-market-gaetbae-abai-village-walk',
+      'seoraksan-cable-car-flexible-sokcho-day',
+    ],
+    onward: [{ regionId: 'gangneung', reason: 'Explore Gangneung separately for a lakeside walk, beach or indoor heritage stop.' }],
   },
 ];
 

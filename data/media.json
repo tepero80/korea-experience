@@ -3460,5 +3460,299 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "note": "Photo date described on the source page. Commons records the photograph as taken before January 11, 2025. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
     }
+  },
+  {
+    "id": "chuncheon-soyanggang-skywalk-deck",
+    "src": "/images/editorial/chuncheon-soyanggang-skywalk-deck-1280.webp",
+    "srcSet": "/images/editorial/chuncheon-soyanggang-skywalk-deck-640.webp 640w, /images/editorial/chuncheon-soyanggang-skywalk-deck-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Soyanggang Skywalk beside the Soyang River in Chuncheon",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Soyang_River_Sky_Walk_02.jpg",
+    "originalHash": "04a8c85a2d9c1629fcc3ded1d0e75a53720f9093d53dd5cd663602c9ba2fbb86",
+    "capturedAt": "2023-12-07",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Soyang River Sky Walk 02.jpg",
+      "author": "Youngjin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soyang_River_Sky_Walk_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2023-12-07. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "chuncheon-soyanggang-waterfront",
+    "src": "/images/editorial/chuncheon-soyanggang-waterfront-1280.webp",
+    "srcSet": "/images/editorial/chuncheon-soyanggang-waterfront-640.webp 640w, /images/editorial/chuncheon-soyanggang-waterfront-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Soyang River seen from the Skywalk area in Chuncheon",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Soyang_River_Sky_Walk_04.jpg",
+    "originalHash": "d0723b090a8ba397c978f23d3d5a7a374d1a330b002b469aeef003e59d91a485",
+    "capturedAt": "2023-12-07",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Soyang River Sky Walk 04.jpg",
+      "author": "Youngjin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soyang_River_Sky_Walk_04.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2023-12-07. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "chuncheon-samaksan-cable-car-ride",
+    "src": "/images/editorial/chuncheon-samaksan-cable-car-ride-1280.webp",
+    "srcSet": "/images/editorial/chuncheon-samaksan-cable-car-ride-640.webp 640w, /images/editorial/chuncheon-samaksan-cable-car-ride-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Samaksan Lake Cable Car near Uiamho Lake in Chuncheon",
+    "originalId": "https://commons.wikimedia.org/wiki/File:삼악산_케이블카_1.jpg",
+    "originalHash": "8f2f8bf5bcbcc7ae46ce279601bb4ae6c7efa48debbf126f8c92ec03e41c0d56",
+    "capturedAt": "2023-12-09",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "삼악산 케이블카 1.jpg",
+      "author": "Sadopaul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:삼악산_케이블카_1.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2023-12-09. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "chuncheon-samaksan-uiamho-lower-station",
+    "src": "/images/editorial/chuncheon-samaksan-uiamho-lower-station-1280.webp",
+    "srcSet": "/images/editorial/chuncheon-samaksan-uiamho-lower-station-640.webp 640w, /images/editorial/chuncheon-samaksan-uiamho-lower-station-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "The Uiamho lower station building for Samaksan Lake Cable Car",
+    "originalId": "https://commons.wikimedia.org/wiki/File:삼악산_케이블카_의암호_정류장.jpg",
+    "originalHash": "df9fd561602ba7c8a2bfae903b76c863b3c813e1693e41a0d5f613ace1f9f8de",
+    "capturedAt": "2023-12-09",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "삼악산 케이블카 의암호 정류장.jpg",
+      "author": "Sadopaul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:삼악산_케이블카_의암호_정류장.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2023-12-09. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gangneung-ojukheon-house",
+    "src": "/images/editorial/gangneung-ojukheon-house-1280.webp",
+    "srcSet": "/images/editorial/gangneung-ojukheon-house-640.webp 640w, /images/editorial/gangneung-ojukheon-house-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Traditional tiled gates and the courtyard at Ojukheon in Gangneung",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Ojukheon_sarangchae.jpg",
+    "originalHash": "393c7046283264b2cdb14956b9bea91ce769085484145b2587768647905ff7ab",
+    "capturedAt": "2017-02-15",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Ojukheon sarangchae.jpg",
+      "author": "Altostratus",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ojukheon_sarangchae.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2017-02-15. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Check current access and exhibition hours independently."
+    }
+  },
+  {
+    "id": "gangneung-jungang-market-lanes",
+    "src": "/images/editorial/gangneung-jungang-market-lanes-1280.webp",
+    "srcSet": "/images/editorial/gangneung-jungang-market-lanes-640.webp 640w, /images/editorial/gangneung-jungang-market-lanes-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Jungang Market in central Gangneung",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gangneung_Jungang_Market_01.jpg",
+    "originalHash": "59e633ce0d0c5b72f6f23a848f9f63414fdaa481083cae7e0aba621d49d10118",
+    "capturedAt": "2026-06-17",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gangneung Jungang Market 01.jpg",
+      "author": "Grapesurgeon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangneung_Jungang_Market_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-06-17. The Commons photograph depicts Jungang Market in June 2026. Individual shops set their own hours. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gangneung-gyeongpo-beach-shore",
+    "src": "/images/editorial/gangneung-gyeongpo-beach-shore-1280.webp",
+    "srcSet": "/images/editorial/gangneung-gyeongpo-beach-shore-640.webp 640w, /images/editorial/gangneung-gyeongpo-beach-shore-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Sandy Gyeongpo Beach on the Gangneung coast",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gyeongpo_Beach_20220502_002.jpg",
+    "originalHash": "09071d3bb8c94fe0698599c34f1da304ba2733d659dc3d8e38829d0e7d674f5b",
+    "capturedAt": "2022-05-02",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gyeongpo Beach 20220502 002.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongpo_Beach_20220502_002.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-05-02. The Commons photograph depicts the beach in May 2022. Swimming and coastal access depend on current conditions. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gangneung-gyeongpo-lake-overview",
+    "src": "/images/editorial/gangneung-gyeongpo-lake-overview-1280.webp",
+    "srcSet": "/images/editorial/gangneung-gyeongpo-lake-overview-640.webp 640w, /images/editorial/gangneung-gyeongpo-lake-overview-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Water and far shoreline of Gyeongpo Lake in Gangneung",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gyeongpo_Lake_1.jpg",
+    "originalHash": "d2dd1a6a88021a0d3c8f0077a527fa8a9bb3ff8de78332c589e73533688a6ae4",
+    "capturedAt": "2018-10-03",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gyeongpo Lake 1.jpg",
+      "author": "Christophe95",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongpo_Lake_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-10-03. The Commons photograph depicts Gyeongpo Lake in October 2018. It is not a verified path or entrance view. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "sokcho-express-platform",
+    "src": "/images/editorial/sokcho-express-platform-1280.webp",
+    "srcSet": "/images/editorial/sokcho-express-platform-640.webp 640w, /images/editorial/sokcho-express-platform-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Sokcho Express Bus Terminal boarding platform in October 2026",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%8A%B9%EC%B0%A8%EC%9E%A5.png",
+    "originalHash": "6d466de2ff2e855affa3dfe396f73c0c59c9a945b43bba3a7838f7e37ac9e593",
+    "capturedAt": "2026-10-04",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%8A%B9%EC%B0%A8%EC%9E%A5.png",
+      "author": "YanggoK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%8A%B9%EC%B0%A8%EC%9E%A5.png",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2026-10-04. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "sokcho-intercity-bus",
+    "src": "/images/editorial/sokcho-intercity-bus-1280.webp",
+    "srcSet": "/images/editorial/sokcho-intercity-bus-640.webp 640w, /images/editorial/sokcho-intercity-bus-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "A bus on the Sokcho intercity to Dong Seoul route",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EB%8F%99%ED%95%B4%EC%83%81%EC%82%AC%EA%B3%A0%EC%86%8D_%EC%86%8D%EC%B4%88%EB%8F%99%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%99%B8_1546%ED%98%B8.png",
+    "originalHash": "0dfb14b64123b6fd51d2c265b268e7be95e7f28196410bd09f3ea626dce83203",
+    "capturedAt": "2026-03-01",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "https://upload.wikimedia.org/wikipedia/commons/6/68/%EB%8F%99%ED%95%B4%EC%83%81%EC%82%AC%EA%B3%A0%EC%86%8D_%EC%86%8D%EC%B4%88%EB%8F%99%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%99%B8_1546%ED%98%B8.png",
+      "author": "YanggoK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8F%99%ED%95%B4%EC%83%81%EC%82%AC%EA%B3%A0%EC%86%8D_%EC%86%8D%EC%B4%88%EB%8F%99%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%99%B8_1546%ED%98%B8.png",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2026-03-01. Source identifies a route vehicle, not the intercity terminal building. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "sokcho-gaetbae-ferry",
+    "src": "/images/editorial/sokcho-gaetbae-ferry-1280.webp",
+    "srcSet": "/images/editorial/sokcho-gaetbae-ferry-640.webp 640w, /images/editorial/sokcho-gaetbae-ferry-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Canopy and boarding entrance at the Gaetbae landing in downtown Sokcho in December 2022",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gaetbae_20221209_001.jpg",
+    "originalHash": "64a9197c01b696c921d29a484551faad1db6c4201c3177006027158088938f97",
+    "capturedAt": "2022-12-09",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Gaetbae_20221209_001.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaetbae_20221209_001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-12-09. Illustrates the shore-side boarding approach as it looked in 2022; check current signs and ferry operation. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "sokcho-abai-waterfront-overview",
+    "src": "/images/editorial/sokcho-abai-waterfront-overview-1280.webp",
+    "srcSet": "/images/editorial/sokcho-abai-waterfront-overview-640.webp 640w, /images/editorial/sokcho-abai-waterfront-overview-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Low village rooftops, a blue bridge arch and the waterfront at Abai Village in Sokcho",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Abai_Village_2026_15.jpg",
+    "originalHash": "db20a5bdc3b5730dacaf10c6d52fc8f8e3e2ad9354cad9208395ab0015baa6c4",
+    "capturedAt": "2026-06-22",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Abai_Village_2026_15.jpg",
+      "author": "Grapesurgeon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Abai_Village_2026_15.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-06-22. Shows the village from above in June 2026. Refer to current signs to walk the route. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gangneung-station-platform-arrival",
+    "src": "/images/editorial/gangneung-station-platform-arrival-1280.webp",
+    "srcSet": "/images/editorial/gangneung-station-platform-arrival-640.webp 640w, /images/editorial/gangneung-station-platform-arrival-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "A train and the Gangneung Station sign beside a covered railway platform",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gangneung_Station_20220430_004.jpg",
+    "originalHash": "716e3ffc88e55698baf37c8d21c3e3e1bb8ae089abffa4070aec3c8b50f78a92",
+    "capturedAt": "2022-04-30",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gangneung Station 20220430 004.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangneung_Station_20220430_004.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-04-30. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "seoul-gyeongbu-terminal-entrance-2016",
+    "src": "/images/editorial/seoul-gyeongbu-terminal-entrance-2016-1280.webp",
+    "srcSet": "/images/editorial/seoul-gyeongbu-terminal-entrance-2016-640.webp 640w, /images/editorial/seoul-gyeongbu-terminal-entrance-2016-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Blue departure signs inside the Gyeongbu entrance of Seoul Express Bus Terminal",
+    "originalId": "https://commons.wikimedia.org/wiki/File:The_Entrance_of_Kyungbu_Line_in_Seoul_Express_Bus_Terminal_on_May_1st%2C_2016.jpg",
+    "originalHash": "f18afdf6089e48f0018dcb82579c6044c6662dd80794c76286f4ee1f46860442",
+    "capturedAt": "2016-05-01",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "The Entrance of Kyungbu Line in Seoul Express Bus Terminal on May 1st, 2016.jpg",
+      "author": "Choi2451",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Entrance_of_Kyungbu_Line_in_Seoul_Express_Bus_Terminal_on_May_1st%2C_2016.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2016-05-01. Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    }
   }
 ]

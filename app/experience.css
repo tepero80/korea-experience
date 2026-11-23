@@ -1241,6 +1241,17 @@ button:disabled {
   text-decoration: underline;
   text-underline-offset: 3px;
 }
+.destination-onward {
+  margin-block: clamp(2rem, 5vw, 4rem);
+}
+.destination-onward .next-step-grid {
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr));
+  margin-top: 1rem;
+}
+.destination-onward h3 {
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
 .destination-area > h2 {
   margin-bottom: 16px;
 }

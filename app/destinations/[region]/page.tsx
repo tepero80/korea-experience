@@ -37,6 +37,10 @@ export default async function Destination({ params }: { params: Params }) {
   });
   const highlights = ranked?.length ? ranked : posts.slice(0, 6);
   const more = posts.filter((p) => !highlights.includes(p));
+  const onward = region.onward?.flatMap(({ regionId, reason }) => {
+    const other = getDestinations().find((candidate) => candidate.id === regionId && candidate.indexable);
+    return other ? [{ destination: other, reason }] : [];
+  }) ?? [];
   return (
     <div className="wrap library-page">
       <nav className="breadcrumbs" aria-label="Breadcrumb">
@@ -79,6 +83,19 @@ export default async function Destination({ params }: { params: Params }) {
             ))}
           </ul>
         </details>
+      ) : null}
+      {onward.length ? (
+        <section className="destination-onward" aria-labelledby="destination-onward">
+          <h2 className="section-title" id="destination-onward">Plan your next stop</h2>
+          <div className="next-step-grid">
+            {onward.map(({ destination, reason }) => (
+              <Link href={`/destinations/${destination.id}`} key={destination.id}>
+                <h3>{destination.name}</h3>
+                <p>{reason}</p>
+              </Link>
+            ))}
+          </div>
+        </section>
       ) : null}
       <p className="map-notice">
         This collection expands when new places and routes have been checked.{' '}

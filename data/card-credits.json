@@ -2004,5 +2004,110 @@
       "note": "Photographed 2022-09-29. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "chuncheon-station-to-soyanggang-skywalk": {
+    "src": "/images/cards/chuncheon-station-to-soyanggang-skywalk.jpg",
+    "fingerprint": "8a91fec461c2db4314ce93130d49457fd88d589e74f739680e5a7b4b75e8e106",
+    "sourceImage": "/images/editorial/chuncheon-soyanggang-skywalk-deck-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Soyang River Sky Walk 02.jpg",
+      "author": "Youngjin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Soyang_River_Sky_Walk_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2023-12-07. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "chuncheon-samaksan-lake-cable-car-visit": {
+    "src": "/images/cards/chuncheon-samaksan-lake-cable-car-visit.jpg",
+    "fingerprint": "c40275c748fb8b3a8d0c2c578651878237b543a8e94bc1f4617e49f9ceb37cd9",
+    "sourceImage": "/images/editorial/chuncheon-samaksan-cable-car-ride-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "삼악산 케이블카 1.jpg",
+      "author": "Sadopaul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:삼악산_케이블카_1.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2023-12-09. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gangneung-ojukheon-and-jungang-market": {
+    "src": "/images/cards/gangneung-ojukheon-and-jungang-market.jpg",
+    "fingerprint": "1c3de9aaaa889990c0d52183927ee95621a193b5d9bb75d883d43c59a4d9be61",
+    "sourceImage": "/images/editorial/gangneung-ojukheon-house-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Ojukheon sarangchae.jpg",
+      "author": "Altostratus",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ojukheon_sarangchae.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2017-02-15. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Check current access and exhibition hours independently."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gangneung-gyeongpo-lake-and-beach-walk": {
+    "src": "/images/cards/gangneung-gyeongpo-lake-and-beach-walk.jpg",
+    "fingerprint": "d6c29076b82031de7aa86a158e98eae6b544d3d44cf90730398da1174d3bb2ca",
+    "sourceImage": "/images/editorial/gangneung-gyeongpo-beach-shore-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gyeongpo Beach 20220502 002.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gyeongpo_Beach_20220502_002.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-05-02. The Commons photograph depicts the beach in May 2022. Swimming and coastal access depend on current conditions. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "sokcho-intercity-vs-express-bus-terminal": {
+    "src": "/images/cards/sokcho-intercity-vs-express-bus-terminal.jpg",
+    "fingerprint": "7a4a33a70f7617bb90ca6ff906b59d459c732b05df9e6a116e2d899208baa3a0",
+    "sourceImage": "/images/editorial/sokcho-express-platform-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%8A%B9%EC%B0%A8%EC%9E%A5.png",
+      "author": "YanggoK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%8A%B9%EC%B0%A8%EC%9E%A5.png",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2026-10-04. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "sokcho-market-gaetbae-abai-village-walk": {
+    "src": "/images/cards/sokcho-market-gaetbae-abai-village-walk.jpg",
+    "fingerprint": "410efbf4c253b1ccf51add6ec9260a4a0fc04bd1aea9dd9486250dd7fb6217dc",
+    "sourceImage": "/images/editorial/sokcho-gaetbae-ferry-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Gaetbae_20221209_001.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaetbae_20221209_001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-12-09. Illustrates the shore-side boarding approach as it looked in 2022; check current signs and ferry operation. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoul-to-gangneung-ktx-vs-express-bus": {
+    "src": "/images/cards/seoul-to-gangneung-ktx-vs-express-bus.jpg",
+    "fingerprint": "0149682d97916256fcab43d90f09cea29bfd6a5b1394dc498808ed614ab5849b",
+    "sourceImage": "/images/editorial/gangneung-station-platform-arrival-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gangneung Station 20220430 004.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangneung_Station_20220430_004.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-04-30. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }
