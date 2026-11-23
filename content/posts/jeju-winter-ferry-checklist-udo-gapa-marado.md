@@ -4,7 +4,7 @@ date: '2026-11-15'
 updated: '2026-11-15'
 excerpt: "For Udo, Gapado, Marado or a Jeju–mainland sailing, check the exact route and operator twice before leaving your base."
 category: airports-transport
-image: /images/editorial/jeju-winter-ferry-status-check-illustration.svg
+image: /images/editorial/jeju-udo-bong-coast-2014-1280.webp
 author: Korea Experience Editorial
 tags:
   - jeju
@@ -28,6 +28,8 @@ For a local Jeju trip to Udo, the official tourism page for [Seongsan Port Passe
 | It says **under review** or gives mixed services | Do not treat the trip as confirmed. Ask the operator when the decision will be made. |
 | The sailing is canceled or suspended | Ask the operator about available rebooking, refund terms and the next operating option. Terms depend on the ticket and carrier. |
 | The return sailing is uncertain | Contact your accommodation and onward carrier early; do not assume a same-day return or an extra room is available. |
+
+<GuidePhoto id="jeju-winter-ferry-status-check-illustration" caption="Match the ferry route and date, check the operator’s current notice and protect the return plan." />
 
 ## Before you leave your hotel
 

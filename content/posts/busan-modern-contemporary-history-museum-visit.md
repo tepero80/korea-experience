@@ -5,7 +5,7 @@ updated: '2026-11-15'
 excerpt: >-
   Plan a free central Busan museum stop around the former bank building, its preserved vault, and the current visitor rules.
 category: culture-events
-image: /images/editorial/busan-modern-history-museum-illustration.svg
+image: /images/editorial/busan-modern-history-museum-annex-2024-1280.webp
 author: Korea Experience Editorial
 tags:
   - busan
@@ -45,6 +45,8 @@ The official visitor page lists permanent and special exhibitions and an interac
 5. **Choose your next stop after you finish.** The museum is near Jungang Station and central Busan. Use a map app for the next leg and check its opening time independently rather than assuming another attraction is open.
 
 Allow roughly **one to two hours** as a planning estimate, depending on your interest and whether the children's zone or a special exhibition is available. This is an editorial estimate, not a museum-prescribed visit duration.
+
+<GuidePhoto id="culture-busan-modern-history-illustration" caption="Editorial illustration of a gallery and vault motif. Follow the museum's current floor signs for the actual visitor route." />
 
 ## Getting there
 

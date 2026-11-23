@@ -328,5 +328,83 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "suwon-nammun-market-lunch-walk": {
+    "mediaId": "suwon-nammun-market-fish-cake-skewers",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "busan-bujeon-to-ulsan-taehwagang-trains": {
+    "mediaId": "busan-bujeon-regional-train-2014",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "busan-modern-contemporary-history-museum-visit": {
+    "mediaId": "busan-modern-history-museum-annex-2024",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seoul-to-gangneung-ktx-vs-express-bus": {
+    "mediaId": "gangneung-station-plaza-2018",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "mokpo-station-to-correct-ferry-terminal": {
+    "mediaId": "mokpo-harbor-passenger-ferry-jeollanam-do",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "jeju-muslim-friendly-dining-in-jeju-city": {
+    "mediaId": "dongmun-dinner-market-context",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "jeju-winter-ferry-checklist-udo-gapa-marado": {
+    "mediaId": "jeju-udo-bong-coast-2014",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "yeosu-expo-station-to-odongdo": {
+    "mediaId": "yeosu-odongdo-causeway",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "yeosu-maritime-cable-car-boarding-guide": {
+    "mediaId": "yeosu-maritime-cable-cars",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "yeosu-hyangiram-hermitage-without-a-car": {
+    "mediaId": "yeosu-hyangiram-hall",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "ulsan-taehwagang-national-garden-bamboo-walk": {
+    "mediaId": "ulsan-taehwagang-bamboo-entrance",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "ulsan-daewangam-park-coastal-walk": {
+    "mediaId": "ulsan-daewangam-rock-footbridge",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "ulsan-jangsaengpo-whale-museum": {
+    "mediaId": "ulsan-jangsaengpo-museum-entrance",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

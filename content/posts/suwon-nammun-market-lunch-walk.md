@@ -3,7 +3,7 @@ title: 'Suwon Nammun Market: Where to Stop for Lunch Near Hwaseong'
 date: '2026-11-23'
 excerpt: 'Start at Paldalmun, compare a sit-down stop at Jidong with snacks at Motgol, and use the right Korean map name for each market.'
 category: food-dining
-image: /images/editorial/suwon-nammun-paldalmun-1280.webp
+image: /images/editorial/suwon-nammun-market-fish-cake-skewers-1280.webp
 author: Korea Experience Editorial
 tags:
   - suwon
@@ -26,6 +26,8 @@ The [Korea Tourism Organization’s Nammun listing](https://english.visitkorea.o
 | Browse hanbok and textiles instead of adding another meal | **영동시장** · Yeongdong Market | Treat the textile aisles as a separate stop. The [KTO market listing](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70886) describes the market’s shops and location near the gate. |
 
 <GuidePhoto id="suwon-market-area-stream" caption="An older view of Suwoncheon near Paldalmun. The stream helps orient you between the markets; use the current street map and marked crossings to choose your route." />
+
+<GuidePhoto id="suwon-nammun-paldalmun" caption="The Paldalmun gate in September 2024. Use it to orient yourself before crossing toward the markets." />
 
 ## A lunch walk you can shorten
 

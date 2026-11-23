@@ -4,7 +4,7 @@ date: '2026-11-23'
 updated: '2026-11-23'
 excerpt: Compare Seoul and Cheongnyangni trains with the Gangneung express bus, then check which arrival works for your first stop.
 category: airports-transport
-image: /images/editorial/gangneung-station-platform-arrival-1280.webp
+image: /images/editorial/gangneung-station-plaza-2018-1280.webp
 author: Korea Experience Editorial
 tags:
   - gangneung
@@ -34,6 +34,8 @@ The [Korea Tourism Organization train guide](https://english.visitkorea.or.kr/sv
 4. **Keep the return visible before you commit.** For a day trip, note the return station or terminal next to the booking confirmation and confirm the local leg after your last sight. A slower service that leaves from the right area can make the day easier than rushing to a distant platform.
 
 <GuidePhoto id="seoul-gyeongbu-terminal-entrance-2016" caption="The Gyeongbu-line entrance at Seoul Express Bus Terminal in May 2016. Use it for orientation, then follow the current signs and the boarding information on your ticket." />
+
+<GuidePhoto id="gangneung-station-platform-arrival" caption="A covered train platform at Gangneung Station. Check the current departure display for your platform." />
 
 ## Save the two Gangneung arrivals
 

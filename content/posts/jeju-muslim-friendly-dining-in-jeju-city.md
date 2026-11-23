@@ -5,7 +5,7 @@ updated: '2026-11-17'
 excerpt: >-
   Use current Visit Jeju listings to compare two Jeju City dining options, find the one listing that reports a prayer room, and check the details that matter before you go.
 category: food-dining
-image: /images/editorial/jeju-muslim-friendly-dining-planning-illustration.svg
+image: /images/editorial/dongmun-dinner-market-context-1280.webp
 author: Korea Experience Editorial
 tags:
   - jeju
@@ -42,6 +42,8 @@ Useful questions to ask before ordering:
 - “Can I use the prayer room today, and when is it available?”
 
 These questions are prompts for direct confirmation; the answers depend on the restaurant and dish.
+
+<GuidePhoto id="food-jeju-muslim-friendly-planning-illustration" caption="A diagram comparing two current Visit Jeju directory listings. Ask each restaurant about certification and the details you need." />
 
 ## Plan a compact old-town food stop
 

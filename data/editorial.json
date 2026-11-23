@@ -7669,6 +7669,12 @@
     ],
     "relations": [
       {
+        "slug": "ulsan-taehwagang-national-garden-bamboo-walk",
+        "type": "next",
+        "label": "Choose a bamboo-grove walk from Taehwagang",
+        "reason": "Use the directions from Taehwagang Station and leave time for the garden transfer."
+      },
+      {
         "slug": "gimhae-airport-to-busan",
         "type": "next",
         "label": "Plan arrival in Busan",
@@ -7710,18 +7716,19 @@
     "launchOrder": 1035,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Bujeon to Taehwagang train choice",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#transport-bujeon-taehwagang-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original conceptual comparison, not a track map or live service display."
+      "kind": "photograph",
+      "title": "Busan Bujeon station I.jpg",
+      "author": "Smiley.toerist",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan_Bujeon_station_I.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2014-10-10. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
-    "heroMediaId": "transport-bujeon-taehwagang-illustration",
-    "heroCaption": "Original comparison; check current departure and ticket conditions.",
+    "heroMediaId": "busan-bujeon-regional-train-2014",
+    "heroCaption": "A regional train at Bujeon railway station in October 2014. Use your current ticket or the station displays to find the service to Taehwagang.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "cardImageLabel": "Bujeon railway station · 2014"
   },
   "suwon-hwaseong-museum-before-fortress": {
     "id": "culture-suwon-hwaseong-museum",
@@ -8016,18 +8023,19 @@
     "launchOrder": 1039,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Mokpo ferry terminal check",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#transport-mokpo-ferry-terminal-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original conceptual diagram, not a geographic map or current sailing assignment."
+      "kind": "photograph",
+      "title": "목포여객선터미널1.jpg, 전남도 전국 최초 천원 여객선 순항",
+      "author": "Jeollanam-do",
+      "sourceUrl": "https://www.jeonnam.go.kr/M7116/boardView.do?seq=1951296&menuId=jeonnam0202000000",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Resized and converted to WebP. Historical scene. Check current conditions before traveling."
     },
-    "heroMediaId": "transport-mokpo-ferry-terminal-illustration",
-    "heroCaption": "Conceptual terminal check; verify your own operator’s current instructions.",
+    "heroMediaId": "mokpo-harbor-passenger-ferry-jeollanam-do",
+    "heroCaption": "A passenger ferry at Mokpo in a photograph published by Jeollanam-do in September 2022. Use the terminal and vessel on your ticket.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "cardImageLabel": "A passenger ferry at Mokpo"
   },
   "incheon-flight-electronic-cigarette-check": {
     "id": "airport-incheon-vape-flight-check",
@@ -8638,16 +8646,17 @@
     "launchOrder": 1106,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Illustration: museum gallery and archival vault motif",
-      "author": "Korea Experience Editorial",
-      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Created in-repository as an original vector illustration. It is not a depiction or photograph of the actual museum. No external image assets used. Do not treat the illustration as evidence of current venue appearance."
+      "kind": "photograph",
+      "title": "Busan OrientalCompany.jpg",
+      "author": "Boubloub",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan_OrientalCompany.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2024-09-12. Resized and converted to WebP. Historical scene. Check current conditions before traveling."
     },
-    "heroMediaId": "culture-busan-modern-history-illustration",
-    "heroCaption": "Original editorial illustration—not a photograph or depiction of the actual museum.",
-    "cardImageLabel": "Illustration · not a site photo",
+    "heroMediaId": "busan-modern-history-museum-annex-2024",
+    "heroCaption": "The museum annex at 104 Daecheong-ro in September 2024. Start the main-building visit at 112 Daecheong-ro.",
+    "cardImageLabel": "Museum annex · September 2024",
     "gallery": []
   },
   "busan-museum-un-memorial-cemetery-respectful-half-day": {
@@ -8939,19 +8948,20 @@
     ],
     "launchOrder": 1109,
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Jeju winter ferry status checklist",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#jeju-winter-ferry-status-check-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial illustration, not a route map, actual ferry or live sailing status."
+      "kind": "photograph",
+      "title": "Udo Bong Cliff.jpg",
+      "author": "Lcarrion88",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Udo_Bong_Cliff.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2014-03-08. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
     "gallery": [],
-    "heroMediaId": "jeju-winter-ferry-status-check-illustration",
-    "heroCaption": "Original editorial planning diagram; not a map, timetable or live sailing status.",
+    "heroMediaId": "jeju-udo-bong-coast-2014",
+    "heroCaption": "Udo’s shoreline from Udo Bong in March 2014. Check ferry service and outdoor conditions for the date of your crossing.",
     "experienceVersion": 2,
-    "changeType": "new"
+    "changeType": "new",
+    "cardImageLabel": "Udo coast · March 2014"
   },
   "seoul-snow-transit-topis-checklist": {
     "id": "seoul-snow-transit-checklist",
@@ -9388,17 +9398,17 @@
     ],
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Jeju City Muslim-friendly dining planning diagram",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#food-jeju-muslim-friendly-planning-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original vector planning diagram, drawn in-repository with no third-party image assets. Not a map, venue photo or evidence of current restaurant appearance or availability. SHA-256: 3EAF2ED33633920543602772194FC666FF027F51A1EDD1FA072340D920A6F8DC."
+      "kind": "photograph",
+      "title": "Jeju Dongmun Traditional Market 02.jpg",
+      "author": "Grapesurgeon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Dongmun_Traditional_Market_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-04-15. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
     },
-    "heroMediaId": "food-jeju-muslim-friendly-planning-illustration",
-    "heroCaption": "Original editorial planning diagram; not a map, venue photograph or live availability display.",
-    "cardImageLabel": "Illustration · planning aid",
+    "heroMediaId": "dongmun-dinner-market-context",
+    "heroCaption": "A lane at Dongmun Market in Jeju City’s old town in April 2026. The two dining stops in this guide are separate from the market.",
+    "cardImageLabel": "Dongmun Market · old-town context",
     "gallery": [],
     "launchOrder": 1114
   },
@@ -11521,17 +11531,18 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Paldalmun 20240929 003.jpg",
-      "author": "Mobius6",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paldalmun_20240929_003.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "note": "Photographed 2024-09-29. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. This photograph does not verify current opening, services or access."
+      "title": "Suwon Nammun Market, Korea Tourism Organization public tourism information",
+      "author": "Korea Tourism Organization",
+      "sourceUrl": "https://www.nculture.org/cul/localCultureDetail.do?contentType=G&targetId=2589025",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Resized and converted to WebP. Historical scene. Check current conditions before traveling."
     },
-    "heroMediaId": "suwon-nammun-paldalmun",
-    "heroCaption": "Paldalmun Gate, photographed in September 2024. Follow marked crossings from surrounding streets.",
+    "heroMediaId": "suwon-nammun-market-fish-cake-skewers",
+    "heroCaption": "Skewered fish cakes in broth in Korea Tourism Organization’s Suwon Nammun Market gallery. Stall menus and ingredients vary.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "cardImageLabel": "Nammun Market fish cakes"
   },
   "songdo-central-park-visit-plan": {
     "id": "songdo-central-park-visit",
@@ -13144,17 +13155,18 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Gangneung Station 20220430 004.jpg",
-      "author": "Mobius6",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangneung_Station_20220430_004.jpg",
+      "title": "Gangneung Station 3.jpg",
+      "author": "Christophe95",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangneung_Station_3.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "note": "Photographed 2022-04-30. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+      "note": "Photographed 2018-10-03. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
-    "heroMediaId": "gangneung-station-platform-arrival",
-    "heroCaption": "A platform at Gangneung Station in April 2022. Check your actual arrival, departure platform and onward stop.",
+    "heroMediaId": "gangneung-station-plaza-2018",
+    "heroCaption": "Gangneung railway station’s main forecourt in October 2018. Bus arrivals use different locations.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "cardImageLabel": "Gangneung Station · 2018"
   },
   "andong-station-and-bus-terminal-to-downtown": {
     "id": "andong-rail-coach-arrival-downtown",
@@ -17823,6 +17835,544 @@
       "license": "CC0 1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "note": "Resized from the source photograph and converted to WebP. Historic photograph. Check opening, routes and seasonal conditions separately."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "yeosu-expo-station-to-odongdo": {
+    "id": "yeosu-expo-station-to-odongdo",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Walk to Odongdo Entrance and across the causeway if your group has time; a taxi to the entrance saves energy for the island paths.",
+    "forWhom": "Independent travelers arriving by train",
+    "conditions": [
+      "Include the causeway and the return in your walking time."
+    ],
+    "regions": [
+      "yeosu"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "transport",
+      "coast"
+    ],
+    "relations": [
+      {
+        "slug": "yeosu-maritime-cable-car-boarding-guide",
+        "type": "nearby",
+        "label": "Consider boarding the cable car at Jasan",
+        "reason": "Jasan is the mainland boarding side to compare after Odongdo."
+      },
+      {
+        "slug": "yeosu-hyangiram-hermitage-without-a-car",
+        "type": "next",
+        "label": "Save Hyangiram for a longer outing",
+        "reason": "The hermitage is farther south on Dolsan and needs a separate return plan."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "yeosu-odongdo"
+    ],
+    "shareFacts": [
+      "Start at Yeosu Expo Station",
+      "Walk or take a taxi to Odongdo Entrance",
+      "Allow time to cross the causeway twice"
+    ],
+    "sources": [
+      {
+        "id": "yeosu-expo-station-to-odongdo-source-1",
+        "title": "VisitKorea overview of Yeosu",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593187",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "yeosu-expo-station-to-odongdo-source-2",
+        "title": "VisitKorea Odongdo listing and map",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=93901",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      }
+    ],
+    "launchOrder": 1194,
+    "changeType": "new",
+    "heroMediaId": "yeosu-odongdo-causeway",
+    "heroCaption": "The walkway across the water to Odongdo. Allow time for the crossing in both directions.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Kwj2772",
+      "title": "On the bridge to Odongdo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:On_the_Bridge_to_Odongdo,_Yeosu.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "yeosu-maritime-cable-car-boarding-guide": {
+    "id": "yeosu-maritime-cable-car-boarding-guide",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Board at Jasan’s Haeya Station or Dolsan’s Nora Station; choose a round trip to return to your starting side, or arrange onward travel for a one-way ride.",
+    "forWhom": "Visitors choosing their first boarding station",
+    "conditions": [
+      "Check winds, last boarding and the way back before you buy."
+    ],
+    "regions": [
+      "yeosu"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "coast",
+      "transport"
+    ],
+    "relations": [
+      {
+        "slug": "yeosu-expo-station-to-odongdo",
+        "type": "alternative",
+        "label": "Walk the Odongdo causeway",
+        "reason": "A shorter waterfront outing can replace the ride if operations change and conditions allow."
+      },
+      {
+        "slug": "yeosu-hyangiram-hermitage-without-a-car",
+        "type": "next",
+        "label": "Plan a separate Dolsan half-day",
+        "reason": "Check onward transport before combining the cable car with Hyangiram."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "yeosu-cablecar"
+    ],
+    "shareFacts": [
+      "Jasan and Dolsan have separate stations",
+      "A round trip returns to your starting shore",
+      "Check wind and the last boarding time"
+    ],
+    "sources": [
+      {
+        "id": "yeosu-maritime-cable-car-boarding-guide-source-1",
+        "title": "VisitKorea Yeosu cable-car stations",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220123",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "yeosu-maritime-cable-car-boarding-guide-source-2",
+        "title": "VisitKorea cable-car listing and map",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=73202",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "yeosu-maritime-cable-car-boarding-guide-source-3",
+        "title": "Yeosu Maritime Cable Car operator",
+        "url": "https://www.yeosucablecar.com/",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "yeosu-maritime-cable-car-boarding-guide-source-4",
+        "title": "Yeosu City visitor information",
+        "url": "https://www.yeosu.go.kr/tour/travel/culture_scenic_spot?idx=879&mode=view",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      }
+    ],
+    "launchOrder": 1195,
+    "changeType": "new",
+    "heroMediaId": "yeosu-maritime-cable-cars",
+    "heroCaption": "Red Yeosu Maritime Cable Car cabins above the harbor, from the city tourism photo archive.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Yeosu City Tourism Photo Download",
+      "title": "Yeosu Maritime Cable Car above the harbor",
+      "sourceUrl": "https://www.yeosu.go.kr/tour/operation_guide/photo_download?idx=5522&list_num=7&mode=view",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "yeosu-hyangiram-hermitage-without-a-car": {
+    "id": "yeosu-hyangiram-hermitage-without-a-car",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Check a bus and return from Impo or take a taxi; allow for the steep pedestrian approach and narrow passages.",
+    "forWhom": "Visitors planning a longer Dolsan outing",
+    "conditions": [
+      "Confirm the return bus or taxi and allow for a steep approach."
+    ],
+    "regions": [
+      "yeosu"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "culture",
+      "coast"
+    ],
+    "relations": [
+      {
+        "slug": "yeosu-expo-station-to-odongdo",
+        "type": "alternative",
+        "label": "Stay closer to the Expo waterfront",
+        "reason": "Choose Odongdo when the long bus return or the steep final climb is unsuitable."
+      },
+      {
+        "slug": "yeosu-maritime-cable-car-boarding-guide",
+        "type": "next",
+        "label": "Choose a cable-car boarding shore",
+        "reason": "Use the Jasan or Dolsan station that suits your onward journey."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "yeosu-hyangiram"
+    ],
+    "shareFacts": [
+      "Plan transport back before leaving",
+      "Expect steps and narrow passages",
+      "Odongdo is a nearer alternative"
+    ],
+    "sources": [
+      {
+        "id": "yeosu-hyangiram-hermitage-without-a-car-source-1",
+        "title": "VisitKorea Hyangiram listing and map",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=104697",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "yeosu-hyangiram-hermitage-without-a-car-source-2",
+        "title": "Yeosu City visitor information",
+        "url": "https://www.yeosu.go.kr/tour/travel/10tour/hyangilam",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "yeosu-hyangiram-hermitage-without-a-car-source-3",
+        "title": "Ministry of Justice: Hyangiram travel feature",
+        "url": "https://www.immigration.go.kr/sites/immigration/file/ebook/gongzone/2025/2025_gongzone_vol72.pdf",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "yeosu-hyangiram-hermitage-without-a-car-source-4",
+        "title": "VisitKorea overview of Yeosu",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593187",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      }
+    ],
+    "launchOrder": 1196,
+    "changeType": "new",
+    "heroMediaId": "yeosu-hyangiram-hall",
+    "heroCaption": "A Hyangiram hall photographed in 2010. Follow current signs around the active place of worship.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Tour Go: Tourism Knowledge Information System",
+      "title": "Hyangiram hall in 2010",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyangiram_hermitage_03.jpg",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "ulsan-taehwagang-national-garden-bamboo-walk": {
+    "id": "ulsan-taehwagang-national-garden-bamboo-walk",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Taehwagang National Garden is free and open around the clock; walk part of its bamboo grove and check current evening-light hours before visiting.",
+    "forWhom": "Visitors choosing a daylight garden walk or an evening outing",
+    "conditions": [
+      "Check lighting separately and allow time from the correct Ulsan station."
+    ],
+    "regions": [
+      "ulsan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "nature",
+      "walking"
+    ],
+    "relations": [
+      {
+        "slug": "busan-bujeon-to-ulsan-taehwagang-trains",
+        "type": "prepare",
+        "label": "Check the train from Busan",
+        "reason": "Bujeon trains use Taehwagang Station. The garden still needs a separate transfer."
+      },
+      {
+        "slug": "ulsan-daewangam-park-coastal-walk",
+        "type": "next",
+        "label": "Give the coast a separate outing",
+        "reason": "Daewangam is across the city, so allow time for the transfer."
+      },
+      {
+        "slug": "ulsan-jangsaengpo-whale-museum",
+        "type": "alternative",
+        "label": "Choose an indoor history visit",
+        "reason": "The Whale Museum is a separate stop with its own schedule."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "ulsan-taehwagang-national-garden"
+    ],
+    "shareFacts": [
+      "Choose a short daylight bamboo walk",
+      "Evening lighting has separate hours",
+      "Use the directions for your actual station"
+    ],
+    "sources": [
+      {
+        "id": "ulsan-taehwagang-national-garden-bamboo-walk-source-1",
+        "title": "Ulsan City garden directions, schedules and notices",
+        "url": "https://www.ulsan.go.kr/s/garden/contents.ulsan?mId=001004004000000000",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "ulsan-taehwagang-national-garden-bamboo-walk-source-2",
+        "title": "Ulsan City garden directions, schedules and notices",
+        "url": "https://ulsan.go.kr/s/garden/contents.ulsan?mId=001001004000000000",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "ulsan-taehwagang-national-garden-bamboo-walk-source-3",
+        "title": "Ulsan City garden directions, schedules and notices",
+        "url": "https://ulsan.go.kr/s/garden/bbs/list.ulsan?bbsId=BBS_0000000000000165&mId=001002001000000000",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "ulsan-taehwagang-national-garden-bamboo-walk-source-4",
+        "title": "Ulsan City garden directions, schedules and notices",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80718",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      }
+    ],
+    "launchOrder": 1197,
+    "changeType": "new",
+    "heroMediaId": "ulsan-taehwagang-bamboo-entrance",
+    "heroCaption": "The entrance to a bamboo path in Taehwagang National Garden in November 2026.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Lin Xiangru",
+      "title": "Entrance to a bamboo path at Taehwagang National Garden",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_to_a_bamboo_grove_path_at_Taehwagang_National_Garden,_Ulsan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "ulsan-daewangam-park-coastal-walk": {
+    "id": "ulsan-daewangam-park-coastal-walk",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Daewangam Park offers pine trails and rocky coast; its separate suspension bridge has hours and weather restrictions.",
+    "forWhom": "Travelers planning a coastal walk in Ulsan",
+    "conditions": [
+      "Check bridge restrictions and weather before making the crossing your main plan."
+    ],
+    "regions": [
+      "ulsan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "coast",
+      "walking"
+    ],
+    "relations": [
+      {
+        "slug": "ulsan-jangsaengpo-whale-museum",
+        "type": "alternative",
+        "label": "Make the Whale Museum your indoor plan",
+        "reason": "Check the museum’s hours if weather keeps your group off the coast."
+      },
+      {
+        "slug": "ulsan-taehwagang-national-garden-bamboo-walk",
+        "type": "next",
+        "label": "Walk the bamboo grove on another half-day",
+        "reason": "The garden offers a riverside walking option in a different district."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "ulsan-daewangam-park"
+    ],
+    "shareFacts": [
+      "Two different bridges",
+      "Suspension bridge weather rules apply",
+      "Use Daewangam Park in Ulsan on your map"
+    ],
+    "sources": [
+      {
+        "id": "ulsan-daewangam-park-coastal-walk-source-1",
+        "title": "Daewangam Park hours, safety and transport FAQ",
+        "url": "https://daewangam.donggu.ulsan.kr/BBS_011List.do",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "ulsan-daewangam-park-coastal-walk-source-2",
+        "title": "Daewangam Park transport and campsite directions",
+        "url": "https://daewangam.donggu.ulsan.kr/camping/Pgstret.do",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "ulsan-daewangam-park-coastal-walk-source-3",
+        "title": "VisitKorea suspension bridge listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=172686",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "ulsan-daewangam-park-coastal-walk-source-4",
+        "title": "VisitKorea Daewangam Park map",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=71963",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      }
+    ],
+    "launchOrder": 1198,
+    "changeType": "new",
+    "heroMediaId": "ulsan-daewangam-rock-footbridge",
+    "heroCaption": "Daewangam’s rocky headland and short footbridge in 2016. The suspension bridge uses a different part of the coastline.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Shinfull",
+      "title": "Sea rocks and footbridge at Daewangam Park",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daewangam_Park.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "ulsan-jangsaengpo-whale-museum": {
+    "id": "ulsan-jangsaengpo-whale-museum",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "The museum presents whale ecology and Jangsaengpo’s whaling history; check current hours and holiday closures before travelling.",
+    "forWhom": "Travelers looking for a museum visit in Ulsan",
+    "conditions": [
+      "Confirm the date, last entry and which venue your ticket covers."
+    ],
+    "regions": [
+      "ulsan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "culture",
+      "rain"
+    ],
+    "relations": [
+      {
+        "slug": "ulsan-taehwagang-national-garden-bamboo-walk",
+        "type": "next",
+        "label": "Pair the museum with a garden walk",
+        "reason": "The garden gives you outdoor time, with a separate cross-city ride."
+      },
+      {
+        "slug": "ulsan-daewangam-park-coastal-walk",
+        "type": "next",
+        "label": "Plan the open coast for dry weather",
+        "reason": "Daewangam is a separate district and its bridge has weather restrictions."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "ulsan-jangsaengpo-whale-museum"
+    ],
+    "shareFacts": [
+      "Museum and village have separate entry",
+      "Verify Monday and holiday hours",
+      "Plan a transfer from the station"
+    ],
+    "sources": [
+      {
+        "id": "ulsan-jangsaengpo-whale-museum-source-1",
+        "title": "Ulsan Nam-gu district whale tourism",
+        "url": "https://www.ulsannamgu.go.kr/eng/contents/visiting/whale_tourism.do",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "ulsan-jangsaengpo-whale-museum-source-2",
+        "title": "VisitKorea Whale Museum listing and map",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=85947",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "ulsan-jangsaengpo-whale-museum-source-3",
+        "title": "Jangsaengpo Whale Museum operator",
+        "url": "https://www.whalecity.kr",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      },
+      {
+        "id": "ulsan-jangsaengpo-whale-museum-source-4",
+        "title": "VisitKorea Whale Museum listing and map",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=85947",
+        "checkedAt": "2026-11-23",
+        "note": "Official visitor information. Check day-of notices for changes."
+      }
+    ],
+    "launchOrder": 1199,
+    "changeType": "new",
+    "heroMediaId": "ulsan-jangsaengpo-museum-entrance",
+    "heroCaption": "The marked entrance at Jangsaengpo Whale Museum in 2018. Check current signage and access when you arrive.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Korea Tourism Organization, Lee Bumsu",
+      "title": "Jangsaengpo Whale Museum entrance in 2018",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jangsaengpo_Whale_Museum_01.jpg",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
     },
     "gallery": [],
     "experienceVersion": 2

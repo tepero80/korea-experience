@@ -46,6 +46,7 @@ export const REGIONS: readonly Region[] = [
       'Busan’s waterfront and historic market districts are spread out. Choose your accommodation around your priorities and group the western markets separately from Haeundae.',
     tip: 'A car-free trip is practical when you allow travel time between districts and avoid crossing the city repeatedly.',
     onward: [
+      { regionId: 'ulsan', reason: 'Take the train from Bujeon to Taehwagang Station, then choose a riverside walk, the coast or an indoor museum.' },
       { regionId: 'gyeongju', reason: 'Give the Silla sites their own day and check how to get from the KTX station to the historic center.' },
       { regionId: 'daegu', reason: 'Continue inland for Seomun Market and a separate downtown history visit.' },
     ],
@@ -271,7 +272,45 @@ export const REGIONS: readonly Region[] = [
       'suncheon-bay-wetland-reed-fields',
       'naganeupseong-walled-town-from-suncheon',
     ],
-    onward: [{ regionId: 'gwangju', reason: 'Plan a separate city stay with an indoor culture visit and a different rail arrival.' }],
+    onward: [
+      { regionId: 'yeosu', reason: 'Continue to the Expo waterfront for a causeway walk, a cable-car ride, or a separate Dolsan outing.' },
+      { regionId: 'gwangju', reason: 'Plan a separate city stay with an indoor culture visit and a different rail arrival.' },
+    ],
+  },
+  {
+    id: 'yeosu',
+    name: 'Yeosu',
+    nameKo: '여수',
+    area: 'Jeolla',
+    coverMediaId: 'yeosu-dolsan-bridge-hub',
+    intro: 'Walk across the water to Odongdo, choose the cable-car boarding shore, or give the climb to Hyangiram a separate outing.',
+    tip: 'Start near the Expo waterfront if you arrive by train. Confirm the ride back before heading farther south on Dolsan.',
+    arrivalGuide: 'yeosu-expo-station-to-odongdo',
+    highlights: [
+      'yeosu-expo-station-to-odongdo',
+      'yeosu-maritime-cable-car-boarding-guide',
+      'yeosu-hyangiram-hermitage-without-a-car',
+    ],
+    onward: [{ regionId: 'suncheon', reason: 'Give the wetland boardwalk or National Garden a separate day. Check the intercity departure from Yeosu Expo Station.' }],
+  },
+  {
+    id: 'ulsan',
+    name: 'Ulsan',
+    nameKo: '울산',
+    area: 'Southeast',
+    coverMediaId: 'ulsan-daewangam-rocky-coast',
+    intro: 'Explore bamboo by the Taehwa River, walk the pine-covered Daewangam headland, or spend time on the former whaling port’s history indoors.',
+    tip: 'KTX Ulsan Station and Taehwagang Station serve different trips. Pick your actual arrival station before looking up the last leg.',
+    arrivalGuide: 'busan-bujeon-to-ulsan-taehwagang-trains',
+    highlights: [
+      'ulsan-taehwagang-national-garden-bamboo-walk',
+      'ulsan-daewangam-park-coastal-walk',
+      'ulsan-jangsaengpo-whale-museum',
+    ],
+    onward: [
+      { regionId: 'busan', reason: 'Check trains to Bujeon if you want to continue to Busan’s markets or choose a base for the coast.' },
+      { regionId: 'gyeongju', reason: 'Make time for the Silla sites on a separate day and confirm the transfer from your arrival station.' },
+    ],
   },
 ];
 

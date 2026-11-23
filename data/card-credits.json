@@ -1290,18 +1290,18 @@
   },
   "busan-bujeon-to-ulsan-taehwagang-trains": {
     "src": "/images/cards/busan-bujeon-to-ulsan-taehwagang-trains.jpg",
-    "fingerprint": "cb681c85f0debb7ba820566b60ee788480a6ada68613ca75fb8e702cfe998d42",
-    "sourceImage": "/images/editorial/transport-bujeon-taehwagang-illustration.svg",
+    "fingerprint": "606908b4ed61f486ff916a93f734a147d2abb9fce6f32921dc2089ef76b02f01",
+    "sourceImage": "/images/editorial/busan-bujeon-regional-train-2014-1280.webp",
     "credit": {
-      "kind": "illustration",
-      "title": "Bujeon to Taehwagang train choice",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#transport-bujeon-taehwagang-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original conceptual comparison, not a track map or live service display."
+      "kind": "photograph",
+      "title": "Busan Bujeon station I.jpg",
+      "author": "Smiley.toerist",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan_Bujeon_station_I.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2014-10-10. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
-    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
   "suwon-hwaseong-museum-before-fortress": {
     "src": "/images/cards/suwon-hwaseong-museum-before-fortress.jpg",
@@ -1350,18 +1350,18 @@
   },
   "mokpo-station-to-correct-ferry-terminal": {
     "src": "/images/cards/mokpo-station-to-correct-ferry-terminal.jpg",
-    "fingerprint": "575cc96706eaf1e4af998150222137ebc49b2b02bfb806c1996bc968954af7f8",
-    "sourceImage": "/images/editorial/transport-mokpo-ferry-terminal-illustration.svg",
+    "fingerprint": "5c7fd0760149ea4c340899d1c3bcac91cec4014c83f68db589025b9d580905b6",
+    "sourceImage": "/images/editorial/mokpo-harbor-passenger-ferry-jeollanam-do-1280.webp",
     "credit": {
-      "kind": "illustration",
-      "title": "Mokpo ferry terminal check",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#transport-mokpo-ferry-terminal-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original conceptual diagram, not a geographic map or current sailing assignment."
+      "kind": "photograph",
+      "title": "목포여객선터미널1.jpg, 전남도 전국 최초 천원 여객선 순항",
+      "author": "Jeollanam-do",
+      "sourceUrl": "https://www.jeonnam.go.kr/M7116/boardView.do?seq=1951296&menuId=jeonnam0202000000",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Resized and converted to WebP. Historical scene. Check current conditions before traveling."
     },
-    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
   "incheon-flight-electronic-cigarette-check": {
     "src": "/images/cards/incheon-flight-electronic-cigarette-check.jpg",
@@ -1454,17 +1454,18 @@
   },
   "busan-modern-contemporary-history-museum-visit": {
     "src": "/images/cards/busan-modern-contemporary-history-museum-visit.jpg",
-    "fingerprint": "4572d74ac6c4c9f135734fbaec045282e5871471644bec10ed260b6d17da60ed",
-    "sourceImage": "/images/editorial/busan-modern-history-museum-illustration.svg",
+    "fingerprint": "1668bbc70a91eff4940dbc2021a214030d08ed67f6ebc7c83f34421e2352b134",
+    "sourceImage": "/images/editorial/busan-modern-history-museum-annex-2024-1280.webp",
     "credit": {
-      "kind": "illustration",
-      "title": "Illustration: museum gallery and archival vault motif",
-      "author": "Korea Experience Editorial",
-      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Created in-repository as an original vector illustration. Not an actual facility depiction; no third-party image assets used."
+      "kind": "photograph",
+      "title": "Busan OrientalCompany.jpg",
+      "author": "Boubloub",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan_OrientalCompany.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2024-09-12. Resized and converted to WebP. Historical scene. Check current conditions before traveling."
     },
-    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
   "busan-museum-un-memorial-cemetery-respectful-half-day": {
     "src": "/images/cards/busan-museum-un-memorial-cemetery-respectful-half-day.jpg",
@@ -1496,18 +1497,18 @@
   },
   "jeju-winter-ferry-checklist-udo-gapa-marado": {
     "src": "/images/cards/jeju-winter-ferry-checklist-udo-gapa-marado.jpg",
-    "fingerprint": "9deeeccba6aa2d46acd6ee84f2b6cdc9bbe423729c9e69e2d39fb0036d612cb7",
-    "sourceImage": "/images/editorial/jeju-winter-ferry-status-check-illustration.svg",
+    "fingerprint": "c9c32837e9c907a573c51e21076d56d04557cf9a14375c6a9527fc8ecc7d1019",
+    "sourceImage": "/images/editorial/jeju-udo-bong-coast-2014-1280.webp",
     "credit": {
-      "kind": "illustration",
-      "title": "Jeju winter ferry status checklist",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#jeju-winter-ferry-status-check-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial illustration, not a route map, actual ferry or live sailing status."
+      "kind": "photograph",
+      "title": "Udo Bong Cliff.jpg",
+      "author": "Lcarrion88",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Udo_Bong_Cliff.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2014-03-08. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
-    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
   "seoul-snow-transit-topis-checklist": {
     "src": "/images/cards/seoul-snow-transit-topis-checklist.jpg",
@@ -1571,18 +1572,18 @@
   },
   "jeju-muslim-friendly-dining-in-jeju-city": {
     "src": "/images/cards/jeju-muslim-friendly-dining-in-jeju-city.jpg",
-    "fingerprint": "676b625b771f6e97632bcdb3945bff1423baca197869fb6e6092afabc096543f",
-    "sourceImage": "/images/editorial/jeju-muslim-friendly-dining-planning-illustration.svg",
+    "fingerprint": "6c6fd6273125f3919624566fe365abeb63621f9d8999356c63abf71965923c96",
+    "sourceImage": "/images/editorial/dongmun-dinner-market-context-1280.webp",
     "credit": {
-      "kind": "illustration",
-      "title": "Jeju City Muslim-friendly dining planning diagram",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#food-jeju-muslim-friendly-planning-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original vector illustration. No third-party assets. Not a map or depiction of an actual restaurant."
+      "kind": "photograph",
+      "title": "Jeju Dongmun Traditional Market 02.jpg",
+      "author": "Grapesurgeon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Dongmun_Traditional_Market_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-04-15. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
     },
-    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
   "seoul-personal-shopper-galleria-concierge": {
     "src": "/images/cards/seoul-personal-shopper-galleria-concierge.jpg",
@@ -1872,16 +1873,16 @@
   },
   "suwon-nammun-market-lunch-walk": {
     "src": "/images/cards/suwon-nammun-market-lunch-walk.jpg",
-    "fingerprint": "f32cae2fca9216e671636cb1f153915569f909b8c1e2cdd94e1597a3c686d316",
-    "sourceImage": "/images/editorial/suwon-nammun-paldalmun-1280.webp",
+    "fingerprint": "7e6132151754e8e191f449238937e475a3b73e2b187e6b58f3318d7da19ff85b",
+    "sourceImage": "/images/editorial/suwon-nammun-market-fish-cake-skewers-1280.webp",
     "credit": {
       "kind": "photograph",
-      "title": "Paldalmun 20240929 003.jpg",
-      "author": "Mobius6",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paldalmun_20240929_003.jpg",
-      "license": "CC BY-SA 4.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "note": "Photographed 2024-09-29. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. This photograph does not verify current opening, services or access."
+      "title": "Suwon Nammun Market, Korea Tourism Organization public tourism information",
+      "author": "Korea Tourism Organization",
+      "sourceUrl": "https://www.nculture.org/cul/localCultureDetail.do?contentType=G&targetId=2589025",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Resized and converted to WebP. Historical scene. Check current conditions before traveling."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
@@ -2097,16 +2098,16 @@
   },
   "seoul-to-gangneung-ktx-vs-express-bus": {
     "src": "/images/cards/seoul-to-gangneung-ktx-vs-express-bus.jpg",
-    "fingerprint": "0149682d97916256fcab43d90f09cea29bfd6a5b1394dc498808ed614ab5849b",
-    "sourceImage": "/images/editorial/gangneung-station-platform-arrival-1280.webp",
+    "fingerprint": "9c134c8f8da3d6ddcbd821e221eee3c1748a186b9ed3093bdb3d750f6e01de5b",
+    "sourceImage": "/images/editorial/gangneung-station-plaza-2018-1280.webp",
     "credit": {
       "kind": "photograph",
-      "title": "Gangneung Station 20220430 004.jpg",
-      "author": "Mobius6",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangneung_Station_20220430_004.jpg",
+      "title": "Gangneung Station 3.jpg",
+      "author": "Christophe95",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gangneung_Station_3.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "note": "Photographed 2022-04-30. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+      "note": "Photographed 2018-10-03. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
@@ -2767,6 +2768,96 @@
       "license": "CC0 1.0",
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "note": "Resized from the source photograph and converted to WebP. Historic photograph. Check opening, routes and seasonal conditions separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "yeosu-expo-station-to-odongdo": {
+    "src": "/images/cards/yeosu-expo-station-to-odongdo.jpg",
+    "fingerprint": "70fdc783945265922931cbc21ea89c87762f570cb484fc5bc93497f5926c371a",
+    "sourceImage": "/images/editorial/yeosu-odongdo-causeway-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Kwj2772",
+      "title": "On the bridge to Odongdo",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:On_the_Bridge_to_Odongdo,_Yeosu.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "yeosu-maritime-cable-car-boarding-guide": {
+    "src": "/images/cards/yeosu-maritime-cable-car-boarding-guide.jpg",
+    "fingerprint": "7394a18509e2ef0ef21a0c5b64ed954e0afb7f5c2aacc4f1681004c5407c8dc8",
+    "sourceImage": "/images/editorial/yeosu-maritime-cable-cars-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Yeosu City Tourism Photo Download",
+      "title": "Yeosu Maritime Cable Car above the harbor",
+      "sourceUrl": "https://www.yeosu.go.kr/tour/operation_guide/photo_download?idx=5522&list_num=7&mode=view",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "yeosu-hyangiram-hermitage-without-a-car": {
+    "src": "/images/cards/yeosu-hyangiram-hermitage-without-a-car.jpg",
+    "fingerprint": "7e745590aab8b3faf504a1f998a307e0f5eae03f878d5d437ae4d5edf3e9fd10",
+    "sourceImage": "/images/editorial/yeosu-hyangiram-hall-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Tour Go: Tourism Knowledge Information System",
+      "title": "Hyangiram hall in 2010",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hyangiram_hermitage_03.jpg",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "ulsan-taehwagang-national-garden-bamboo-walk": {
+    "src": "/images/cards/ulsan-taehwagang-national-garden-bamboo-walk.jpg",
+    "fingerprint": "9ac4f22fd0ba75efed1a9097984dda2f2c16fd50f7933dd5b82a375c7f08fd70",
+    "sourceImage": "/images/editorial/ulsan-taehwagang-bamboo-entrance-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Lin Xiangru",
+      "title": "Entrance to a bamboo path at Taehwagang National Garden",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_to_a_bamboo_grove_path_at_Taehwagang_National_Garden,_Ulsan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "ulsan-daewangam-park-coastal-walk": {
+    "src": "/images/cards/ulsan-daewangam-park-coastal-walk.jpg",
+    "fingerprint": "ca180fd19b809472fd334c81230c05b3e20c4067438786315bbdd1c9411723c6",
+    "sourceImage": "/images/editorial/ulsan-daewangam-rock-footbridge-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Shinfull",
+      "title": "Sea rocks and footbridge at Daewangam Park",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daewangam_Park.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "ulsan-jangsaengpo-whale-museum": {
+    "src": "/images/cards/ulsan-jangsaengpo-whale-museum.jpg",
+    "fingerprint": "e0419437aba5136f77ae3c0c125ca5442cdf339f2764db093fdc7158c926ae2d",
+    "sourceImage": "/images/editorial/ulsan-jangsaengpo-museum-entrance-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Korea Tourism Organization, Lee Bumsu",
+      "title": "Jangsaengpo Whale Museum entrance in 2018",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jangsaengpo_Whale_Museum_01.jpg",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }

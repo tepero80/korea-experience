@@ -4,7 +4,7 @@ date: '2026-11-09'
 updated: '2026-11-09'
 excerpt: "Compare train options from Bujeon to Taehwagang and plan your onward Ulsan trip."
 category: airports-transport
-image: /images/editorial/transport-bujeon-taehwagang-illustration.svg
+image: /images/editorial/busan-bujeon-regional-train-2014-1280.webp
 author: Korea Experience Editorial
 tags:
   - busan
@@ -28,6 +28,8 @@ Korail's [metropolitan rail operations page](https://info.korail.com/info/conten
 Busan Metro Line 1's Bujeon station and Korail's Bujeon railway station are distinct locations. If arriving on Line 1, follow the signs for the Donghae Line or Korail Bujeon and allow time for the walk. Check the current signs and step-free route for your date.
 
 At the railway station, check the train name, destination and boarding instructions. A metropolitan train and a KTX-Eum do not use the same booking process; do not assume a transit-card tap is a KTX ticket. Ask station staff if a platform or gate is unclear.
+
+<GuidePhoto id="transport-bujeon-taehwagang-illustration" caption="The KTX-Eum and Donghae metropolitan rail have different payment steps. Check the service name first." />
 
 ## On arrival in Ulsan
 
