@@ -421,7 +421,7 @@
   },
   "tax-refund-for-tourists-how-to-claim": {
     "src": "/images/cards/tax-refund-for-tourists-how-to-claim.jpg",
-    "fingerprint": "0947291f5b4bbbfe6ba0d15270deed532c9a6842021414032a25145f9cae90ba",
+    "fingerprint": "3fffdb734012be77ab2d5f7b50f2980e91bfc8f5e3ae935216a5bb71890948fc",
     "sourceImage": "/images/editorial/exp-c-tax-refund-kiosks-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -1704,5 +1704,20 @@
       "sha256": "3e6208e0d0219395ea7f8d3a79af82a0a266c70db8916e6ca01a7f08d879c4ee"
     },
     "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+  },
+  "personal-shopping-services-english-speaking-help": {
+    "src": "/images/cards/personal-shopping-services-english-speaking-help.jpg",
+    "fingerprint": "ed29da1e39e3d0851c7064817703ac48847613f615bf169d42e1a3c6ea94a5cc",
+    "sourceImage": "/images/editorial/shinsegae-downtown-seoul-2014-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Shinsegae Department Store in Seoul.jpg",
+      "author": "Minseong Kim (IMKSv)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinsegae_Department_Store_in_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photo from 2014. Resized and converted to WebP; cropped in the preview card. The adaptations retain the photo credit and CC BY-SA 4.0 license."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

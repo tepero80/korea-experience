@@ -1,47 +1,52 @@
 ---
-title: 'Korea Tourist Tax Refunds: Choose the Route Before Bag Drop'
+title: 'Korea Tourist Tax Refund: Incheon Airport Steps and Limits'
 date: '2026-01-31'
-updated: '2026-10-31'
+updated: '2026-11-23'
 excerpt: >-
-  Check eligibility and seller participation, retain the right forms and keep
-  inspection goods available.
+  Check Korea’s tourist tax refund limits and follow the right Incheon Airport
+  steps for carry-on or checked baggage.
 category: shopping-kbeauty
 image: /images/editorial/exp-c-tax-refund-kiosks-1280.webp
 author: Korea Experience Editorial
 tags:
-  - seoul
+  - incheon
   - shopping
 draft: false
 ---
-**The best time to understand the refund is at checkout, not after your suitcase has disappeared.** Confirm the seller's participation, your eligibility and whether the refund is immediate or needs later processing.
+If a shop already deducted the refund at checkout, keep the receipt. For purchases with paperwork to process at **Incheon Airport**, tell the airline before it takes a checked bag containing those goods. The airline can tag the bag and hand it back for the airport's refund process.
 
-## Check the published conditions
+## Check whether the purchase qualifies
 
-According to [KTO's duty-free and tax-refund guide](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140736):
+The [Korea Tourism Organization's tax refund guide](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736) says that a qualifying receipt starts at **₩15,000**. The seller must participate and issue the relevant documentation. The goods must be new, unopened and unused and leave Korea within three months of purchase.
 
-| Condition | Published guidance |
+| What the seller offers | What to do |
 | --- | --- |
-| Qualifying purchase | At least ₩15,000 |
-| Goods | New, unopened and unused, departing within three months of purchase |
-| Non-Korean visitor stay | Less than six months; overseas Korean eligibility has separate conditions |
-| Immediate-refund payment | At least ₩15,000 and **below ₩1,000,000** per payment |
-| Immediate-refund trip limit | Qualifying spending at most ₩5,000,000 for the trip |
+| **Immediate refund** | Present your passport at checkout. The seller deducts the tax refund when you pay. KTO lists ₩15,000 or more and **less than ₩1,000,000** per payment, and at most **₩5,000,000** in qualifying purchases per trip. |
+| **Refund paperwork** | Keep the purchase receipt and the separate refund paperwork. Ask which operator handles the refund and whether you need to complete it at the airport or can use a matching city counter. |
+| **Downtown refund counter** | Check the operator named on your paperwork. KTO lists up to **₩6,000,000 per receipt** for this route. Bring the goods and documents and follow the airport export confirmation instructions even if you receive money in town. |
 
-These conditions do not make every item or shop eligible. The immediate-refund limits are not a promise that every other refund route has identical conditions.
+Non-Korean travelers normally need to have stayed in Korea for less than six months. Overseas Koreans have different conditions listed by KTO. A shop sign or purchase total alone cannot confirm eligibility. Duty-free shopping is a different checkout process and does not create a second VAT refund.
 
-## Follow the route on your receipt
+## Incheon Airport: carry-on or checked bag?
 
-1. **At the seller:** ask whether an immediate refund is possible or which operator's forms/receipts you need. Retain the documents privately.
-2. **If using a downtown booth:** check that it processes your particular refund company and follow its remaining export requirements. One booth does not handle every operator.
-3. **Before departure bag drop:** find the actual inspection/validation process and keep goods accessible where inspection is required.
-4. **Complete the refund:** use the assigned operator and available method; keep enough time and the confirmation until finished.
+These steps follow the [airport's official domestic tax refund procedure](https://www.airport.kr/ap_en/1425/subview.do). Check the terminal for your flight first.
 
-<GuidePhoto id="exp-c-airport-luggage-carts" caption="Keep the refund-goods and bag-drop sequence in mind before sealing the luggage. This airport photograph does not identify a current refund counter or confirm its hours." />
+| Where the goods travel | What to do before security |
+| --- | --- |
+| **Carry-on** | Get your boarding pass. Keep the goods and paperwork with you and use the refund kiosk in the departure hall. If the kiosk asks for inspection, show customs your passport, goods and proof of purchase. |
+| **Checked bag** | Tell the airline agent that the bag contains goods for a tax refund. Get the bag tagged and take it back to the departure hall kiosk. If inspection is requested, take the bag, passport and paperwork to customs. Follow the airport's instructions for dropping the bag at the large-baggage conveyor beside customs. |
 
-## Three common mistakes to avoid
+<GuidePhoto id="exp-c-airport-luggage-carts" caption="Keep the refund goods accessible until you know whether customs needs to see them. This photograph does not show the location of a refund counter." />
 
-**Using the goods before export:** check the new/unopened/unused condition before treating a purchase as refundable. **Checking the goods first:** inspection items may need to remain available. **Assuming a fixed percentage:** fees and the actual transaction determine the amount; do not budget an automatic ten-percent return.
+The departure hall kiosk handles the export step. After security, the airport's refund kiosk or staffed desk can process the payout against the approved record. If the kiosk has no record, use the official desk or contact your receipt's refund operator rather than assuming the refund will arrive automatically. Availability and payout methods vary.
 
-Recheck the terminal, operator and flight-day instructions before leaving the hotel. Keep passport numbers, receipts and card details out of public community posts or shared itineraries.
+## Where to finish in each Incheon terminal
 
-Use the [souvenir and liquids packing guide](/blog/packing-korean-shopping-liquids-and-souvenirs-for-your-flight) to separate screening from refunds. Your [airport transfer](/blog/airport-limousine-bus-vs-arex-express-train) and trip board should leave time for the actual departure process rather than only the ride to the terminal.
+These are the **airside** locations and staffed hours listed by Incheon Airport when we checked. Recheck the [airport's current listing](https://www.airport.kr/ap_en/1425/subview.do) before departure.
+
+| Terminal | Staffed desk, duty-free area | Published staffed hours |
+| --- | --- | --- |
+| **T1** | Level 3, near Gate 28 | 07:00–22:00 |
+| **T2** | Level 3, near Gate 253, across from Gate 250 | 07:00–21:30 |
+
+The airport lists 24-hour automated kiosks near those gates. If you leave from another airport or use city check-in, confirm its separate procedure. For liquids or fragile items, use the [souvenirs and baggage guide](/blog/packing-korean-shopping-liquids-and-souvenirs-for-your-flight) before packing. Check your [airport transfer options](/blog/airport-limousine-bus-vs-arex-express-train) early enough to leave time for bag drop, customs and security.

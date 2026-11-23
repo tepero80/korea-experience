@@ -24,11 +24,10 @@ export default function ConsentManager() {
   return (
     <aside className="consent-banner no-print" aria-label="Analytics preferences">
       <div>
-        <strong>Your visit, your choice.</strong>
+        <strong>Optional analytics</strong>
         <p>
-          Essential storage keeps your saved guides and plans on this browser. Optional analytics
-          helps us improve the site. Advertising choices, when ads are enabled, are managed through
-          Google’s consent message. <Link href="/privacy">Privacy details</Link>
+          Analytics helps us improve this site. Essential storage keeps your guides and plans.
+          Manage ad choices separately through Google. <Link href="/privacy">Privacy details</Link>
         </p>
         {error && <p role="status">{error}</p>}
       </div>

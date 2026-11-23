@@ -382,6 +382,32 @@
       "sha256": "6daa566c5dabadd325bba31983dd0dc7a8d11fe0c80a1d3f508b42db30459d55",
       "downloadedBytes": 2114614,
       "downloadStatus": "downloaded"
+    },
+    {
+      "id": "shopping-shinsegae-downtown-2014",
+      "title": "Shinsegae Department Store in Seoul.jpg",
+      "place": "Shinsegae Main Store, central Seoul",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Shinsegae_Department_Store_in_Seoul.jpg",
+      "permanentSourcePage": "https://commons.wikimedia.org/w/index.php?title=File:Shinsegae_Department_Store_in_Seoul.jpg&oldid=1230557090",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Shinsegae_Department_Store_in_Seoul.jpg",
+      "author": "Minseong Kim (IMKSv)",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "commercialReuse": true,
+      "attributionRequired": true,
+      "shareAlikeRequired": true,
+      "modificationRequirements": "Credit the author, link the source and license, disclose the resize and preview crop, and keep the photo adaptations under CC BY-SA 4.0.",
+      "capturedAt": "2014-11-21",
+      "width": 4638,
+      "height": 2454,
+      "verifiedAt": "2026-11-23",
+      "verification": "Wikimedia file page, authorship and license; downloaded original matches the published SHA-1.",
+      "localOriginal": ".private/media-originals/shinsegae-downtown-2014-imksv.jpg",
+      "sha256": "ef752c87198fbfcef3c015cfd0bd9b81d6586c0e2612ee7a91312cec7810b0ab",
+      "downloadedBytes": 8714638,
+      "downloadStatus": "downloaded",
+      "copyrightLicenseCommerciallyPermitsReuse": true,
+      "commercialReuseScope": "License covers photograph copyright; no suggestion of sponsorship or current services."
     }
   ],
   "excludedCandidates": [

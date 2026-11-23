@@ -2559,40 +2559,42 @@
     "experienceVersion": 2,
     "categoryId": "shopping-kbeauty",
     "format": "decision",
-    "checkedAt": "2026-10-31",
-    "answer": "Ask the seller which refund route applies and keep the goods available for any export inspection before bag drop. Eligibility and the refund amount depend on the actual transaction; there is no universal ten-percent cashback.",
+    "checkedAt": "2026-11-23",
+    "answer": "If goods for an airport tax refund are in a checked bag, tell the airline before it takes the bag. Get the tagged bag back to complete the Incheon Airport export step before dropping it off.",
     "forWhom": "Eligible visitors buying goods to take out of Korea",
     "conditions": [
-      "Eligibility and thresholds below follow KTO guidance checked 31 October 2026.",
-      "Confirm current seller/operator instructions and airport location/hours."
+      "Participation, receipt value and traveler eligibility matter.",
+      "The airport sequence and gate numbers apply to Incheon Airport. Check your terminal and operator before departure."
     ],
     "regions": [
-      "seoul"
+      "seoul",
+      "incheon"
     ],
     "stages": [
-      "exploring"
+      "exploring",
+      "departure"
     ],
     "interests": [
       "shopping"
     ],
     "relations": [
       {
-        "slug": "olive-young-must-buys-2026",
-        "type": "next",
-        "label": "Your next decision",
-        "reason": "Prepare a product list and check the domestic store’s prices and membership conditions; global website benefits are separate."
-      },
-      {
         "slug": "packing-korean-shopping-liquids-and-souvenirs-for-your-flight",
         "type": "prepare",
-        "label": "Prepare this too",
-        "reason": "Sort purchases by cabin, checked baggage, refund inspection and destination restrictions before the airport trip."
+        "label": "Pack for your flight",
+        "reason": "Sort purchases by cabin, checked baggage and export inspection before leaving for the airport."
       },
       {
-        "slug": "insadong-traditional-crafts-and-souvenirs",
-        "type": "alternative",
-        "label": "A useful alternative",
-        "reason": "Use Insadong for a focused craft browse and Namdaemun for a separate market block; compare materials and portability."
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "next",
+        "label": "Plan the airport trip",
+        "reason": "Compare rail and bus options while leaving time for the earlier bag and refund process."
+      },
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "interest",
+        "label": "Compare shopping districts",
+        "reason": "Choose where to shop before you confirm seller participation and checkout conditions."
       }
     ],
     "tools": [],
@@ -2600,16 +2602,23 @@
     "sources": [
       {
         "id": "kto-tax-refunds",
-        "title": "Duty Free & Tax Refunds — KTO",
-        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140736",
-        "checkedAt": "2026-10-31",
-        "note": "Official tourism guidance; page states last updated October 21, 2025. Verify individual seller/operator arrangements and airport locations before departure. Immediate refund uses below KRW1,000,000, not an inclusive upper limit."
+        "title": "Duty Free & Tax Refunds — Korea Tourism Organization",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736",
+        "checkedAt": "2026-11-23",
+        "note": "Official eligibility and thresholds, and the distinction between store, downtown and departure claims."
+      },
+      {
+        "id": "incheon-airport-tax-refund",
+        "title": "Domestic Tax Refund — Incheon International Airport",
+        "url": "https://www.airport.kr/ap_en/1425/subview.do",
+        "checkedAt": "2026-11-23",
+        "note": "Official instructions for carry-on and checked goods, and terminal kiosk and staffed counter locations. The airport wording about the minimum differs from KTO, which lists at least ₩15,000."
       }
     ],
     "shareFacts": [
-      "KTO's checked guide starts qualifying purchases at ₩15,000; eligibility still matters.",
-      "Immediate refund: each payment below ₩1m, trip qualifying purchases at most ₩5m.",
-      "Keep goods unused and retain refund documents; confirm export inspection before bag drop."
+      "Checked bag with refund goods? Tell the airline before handing it over.",
+      "KTO lists a minimum qualifying purchase of ₩15,000 per receipt.",
+      "At Incheon, use the departure hall kiosk before completing payout airside."
     ],
     "launchOrder": 28,
     "changeType": "rewrite",
@@ -2623,7 +2632,22 @@
       "note": "Photographed 2024-10-13. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
     },
     "gallery": [],
-    "heroMediaId": "exp-c-tax-refund-kiosks"
+    "heroMediaId": "exp-c-tax-refund-kiosks",
+    "quickTitle": "At the shop or at the airport?",
+    "quickChoices": [
+      {
+        "label": "Refund deducted at checkout",
+        "detail": "Keep the receipt. There is no separate airport payout for the same claim."
+      },
+      {
+        "label": "Refund paperwork, goods in carry-on",
+        "detail": "Get your boarding pass, visit the departure hall refund kiosk, and show goods and documents if it asks for customs inspection."
+      },
+      {
+        "label": "Refund paperwork, goods in checked bag",
+        "detail": "Tell the airline before bag drop. Take the tagged bag to the departure hall kiosk and follow any customs and bag-drop instructions."
+      }
+    ]
   },
   "insadong-traditional-crafts-and-souvenirs": {
     "id": "shopping-souvenirs",
@@ -9850,5 +9874,107 @@
     },
     "heroMediaId": "culture-seoul-winter-2026-27",
     "heroCaption": "Original seasonal planning illustration; venue dates and operations must be checked with current official notices."
+  },
+  "personal-shopping-services-english-speaking-help": {
+    "id": "guide:personal-shopping-services-english-speaking-help",
+    "experienceVersion": 2,
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "A studio can help you choose colors and styles in English. To have someone accompany you to stores, ask for an explicit itinerary and price. Hyundai’s listed personal guide program is reserved for global VIP customers.",
+    "quickTitle": "Choose your type of help",
+    "quickChoices": [
+      {
+        "label": "Style or color advice",
+        "detail": "Book an English or interpreted studio consultation with clearly listed inclusions."
+      },
+      {
+        "label": "Help inside stores",
+        "detail": "Ask for named shops, a confirmed meeting point, eligibility, and a total fee before paying."
+      },
+      {
+        "label": "A short list and a limited budget",
+        "detail": "Choose one district, check sizes and store policies, and ask about tax refunds before paying."
+      }
+    ],
+    "forWhom": "Visitors choosing English shopping or styling help in Seoul",
+    "conditions": [
+      "Studio consultations take place at the operator’s address. Confirm any accompanied shopping separately.",
+      "Prices, dates, group rules and branch eligibility vary."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "shopping",
+      "personal-style"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "alternative",
+        "label": "Shop independently",
+        "reason": "Compare neighborhoods by what you actually need to buy and how much time you have."
+      },
+      {
+        "slug": "tax-refund-for-tourists-how-to-claim",
+        "type": "prepare",
+        "label": "Prepare your refund paperwork",
+        "reason": "Check seller participation and keep the documents before the purchase leaves the shop."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "hyundai-international-shopping",
+        "title": "Shopping guide for international visitors — Hyundai Department Store",
+        "url": "https://ehyundai.com/NS/lang/en/NS000004.do",
+        "checkedAt": "2026-11-23",
+        "note": "Department store operator lists an arranged guide for global VIP customers at Apgujeong and Trade Center."
+      },
+      {
+        "id": "hybrid-rainbow",
+        "title": "English personal color and image consultations — Hybrid Rainbow Studio",
+        "url": "https://www.hybridrainbowstudio.com/",
+        "checkedAt": "2026-11-23",
+        "note": "Direct operator and booking link; English studio consultation and styling options."
+      },
+      {
+        "id": "colorlover-advanced",
+        "title": "Advanced personal color consultation — ColorLover",
+        "url": "https://www.colorloverlab.com/consultations/advanced-personal-color/",
+        "checkedAt": "2026-11-23",
+        "note": "Direct operator lists English interpretation and a wardrobe or makeup add-on."
+      },
+      {
+        "id": "kto-shinsegae-main",
+        "title": "Shinsegae Main Store — Korea Tourism Organization",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106990",
+        "checkedAt": "2026-11-23",
+        "note": "Identifies the photographed downtown department store; does not verify any styling service."
+      }
+    ],
+    "shareFacts": [
+      "Ask whether the service includes visits to shops before paying.",
+      "Check the language, inclusions, total fees and deposit separately."
+    ],
+    "launchOrder": 1123,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Shinsegae Department Store in Seoul.jpg",
+      "author": "Minseong Kim (IMKSv)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinsegae_Department_Store_in_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photo from 2014. Resized and converted to WebP; cropped in the preview card. The adaptations retain the photo credit and CC BY-SA 4.0 license."
+    },
+    "heroMediaId": "shopping-shinsegae-downtown-2014",
+    "heroCaption": "Shinsegae Main Store in central Seoul, photographed in 2014."
   }
 }

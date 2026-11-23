@@ -2775,5 +2775,26 @@
       "note": "Original editorial SVG created in this repository with no external assets. It is a planning graphic, not a map, live schedule or official event artwork.",
       "sha256": "3e6208e0d0219395ea7f8d3a79af82a0a266c70db8916e6ca01a7f08d879c4ee"
     }
+  },
+  {
+    "id": "shopping-shinsegae-downtown-2014",
+    "src": "/images/editorial/shinsegae-downtown-seoul-2014-1280.webp",
+    "srcSet": "/images/editorial/shinsegae-downtown-seoul-2014-640.webp 640w, /images/editorial/shinsegae-downtown-seoul-2014-1280.webp 1280w",
+    "width": 1280,
+    "height": 677,
+    "originalId": "wikimedia-shinsegae-downtown-imksv-2014",
+    "originalHash": "ef752c87198fbfcef3c015cfd0bd9b81d6586c0e2612ee7a91312cec7810b0ab",
+    "capturedAt": "2014-11-21",
+    "alt": "Stone facade of the historic Shinsegae department store in central Seoul in 2014",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "photograph",
+      "title": "Shinsegae Department Store in Seoul.jpg",
+      "author": "Minseong Kim (IMKSv)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shinsegae_Department_Store_in_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photo from 2014. Resized and converted to WebP; cropped in the preview card. The adaptations retain the photo credit and CC BY-SA 4.0 license."
+    }
   }
 ]
