@@ -526,5 +526,35 @@
     "visitorUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=90121",
     "checkedAt": "2026-11-23",
     "sourceNote": "Resort overview verified from https://api.openstreetmap.org/api/0.6/node/4679201523.json. Address from Korea Tourism Organization."
+  },
+  {
+    "id": "doota-mall-dongdaemun",
+    "name": "Doota Mall",
+    "nameKo": "두타몰",
+    "latitude": 37.5689992,
+    "longitude": 127.0088692,
+    "address": "서울 중구 장충단로 275",
+    "region": "seoul",
+    "description": "Retail mall overview marker. Confirm the intended shop and entrance with the mall.",
+    "officialUrl": "https://www.openstreetmap.org/node/3547160822",
+    "visitorUrl": "https://www.doota-mall.com/m/en/customer/location.do",
+    "addressSource": "https://www.doota-mall.com/m/en/customer/location.do",
+    "checkedAt": "2026-11-23",
+    "sourceNote": "Mapped the OSM shop point and used the mall operator for address and visitor conditions."
+  },
+  {
+    "id": "apm-place-dongdaemun",
+    "name": "apM Place",
+    "nameKo": "에이피엠 플레이스",
+    "latitude": 37.5653012,
+    "longitude": 127.0084064,
+    "address": "서울 중구 을지로 276-1",
+    "region": "seoul",
+    "description": "Wholesale building overview. Confirm in-person purchase terms and the seller’s floor before visiting.",
+    "officialUrl": "https://www.openstreetmap.org/way/400847801",
+    "visitorUrl": "https://apmstyle.com/en/malls/place/",
+    "addressSource": "https://apmstyle.com/en/malls/place/",
+    "checkedAt": "2026-11-23",
+    "sourceNote": "Building footprint center from OpenStreetMap. The operator lists 276-1; the Seoul license listing identifies the same named building as 276 Eulji-ro."
   }
 ]

@@ -10737,5 +10737,150 @@
     "heroCaption": "Gwanghwamun, the main gate of Gyeongbokgung, in August 2019.",
     "launchOrder": 1129,
     "changeType": "rewrite"
+  },
+  "dongdaemun-wholesale-fashion-market-tips": {
+    "id": "guide:dongdaemun-wholesale-fashion-market-tips",
+    "experienceVersion": 2,
+    "categoryId": "shopping-kbeauty",
+    "checkedAt": "2026-11-23",
+    "format": "decision",
+    "answer": "For a single outfit, start at Doota Mall or Hyundai City Outlet. For a wholesale order, confirm the specific seller, quantity and payment terms before visiting an apM building.",
+    "quickTitle": "Pick retail or wholesale",
+    "quickChoices": [
+      {
+        "label": "One outfit",
+        "detail": "Check the exact shop at Doota Mall or Hyundai City Outlet."
+      },
+      {
+        "label": "Wholesale order",
+        "detail": "Confirm the seller’s minimum, payment method and pickup building before going."
+      },
+      {
+        "label": "Friday or Saturday evening",
+        "detail": "The apM group closes on those nights. Check a retail mall or DDP activity separately."
+      }
+    ],
+    "forWhom": "Visitors comparing Dongdaemun fashion shopping with wholesale purchasing",
+    "conditions": [
+      "Mall and individual shop hours can differ.",
+      "Wholesale purchase requirements vary by seller. Confirm them before traveling late."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "shopping",
+      "fashion"
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "doota-mall-dongdaemun",
+      "apm-place-dongdaemun"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "next",
+        "label": "Compare other shopping districts",
+        "reason": "Choose another area if beauty, crafts or market goods matter more than clothing."
+      },
+      {
+        "slug": "tax-refund-for-tourists-how-to-claim",
+        "type": "prepare",
+        "label": "Check tax-refund eligibility",
+        "reason": "Ask the actual seller about the refund route and keep the correct receipt."
+      },
+      {
+        "slug": "seoul-city-wall-museum-guide",
+        "type": "nearby",
+        "label": "Add a nearby museum",
+        "reason": "Use the Dongdaemun Station area for a short daytime stop if the museum is open."
+      }
+    ],
+    "sources": [
+      {
+        "id": "dongdaemun-doota",
+        "title": "Doota Mall official directions and hours",
+        "url": "https://www.doota-mall.com/m/en/customer/location.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongdaemun-doota-seoul",
+        "title": "Seoul tourism Doota Mall listing",
+        "url": "https://english.visitseoul.net/dongdaemunarea/Doota-Dongdaemun/ENP000416",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongdaemun-hyundai",
+        "title": "Hyundai City Outlet Dongdaemun hours and directions",
+        "url": "https://home.ehyundai.com/mobile/DP/en/branch.do?branchCd=B00173000&branchType=30&lanType=EN",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongdaemun-apm-faq",
+        "title": "apM Group wholesale schedules and seller policies",
+        "url": "https://www.apmstyle.com/en/faq/",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongdaemun-apm-place",
+        "title": "apM Place operating details and address",
+        "url": "https://apmstyle.com/en/malls/place/",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongdaemun-apm",
+        "title": "apM operating details and address",
+        "url": "https://apmstyle.com/en/malls/apm/",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongdaemun-apm-luxe",
+        "title": "apM Luxe operating details and address",
+        "url": "https://apmstyle.com/en/malls/luxe/",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongdaemun-buy",
+        "title": "apMZoomAI buying guide for the three buildings",
+        "url": "https://www.apmzoom.com/buying-guide/apm-buildings",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongdaemun-ddp",
+        "title": "Seoul tourism Dongdaemun Design Plaza visitor listing",
+        "url": "https://english.visitseoul.net/dongdaemunarea/Dongdaemun-Design-Plaza-en/ENP024679",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "dongdaemun-night",
+        "title": "Seoul City night service and TOPIS",
+        "url": "https://english.seoul.go.kr/seoul-expands-citywide-night-bus-service/",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Buying one outfit? Check Doota or Hyundai City Outlet.",
+      "apM group opens Sunday–Thursday nights and closes Friday and Saturday nights.",
+      "For wholesale, confirm quantity, payment and pickup with the seller."
+    ],
+    "heroMediaId": "dongdaemun-pyounghwa-2011",
+    "heroCaption": "Pyounghwa Clothing Market after dark in August 2011, a different building from the apM malls.",
+    "launchOrder": 1130,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Pyounghwa Clothing Market.jpg",
+      "author": "Mumbo jiggy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pyounghwa_Clothing_Market.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed on August 7, 2011. Resized for WebP and cropped for the share card. Adaptations retain CC BY-SA 3.0."
+    }
   }
 }

@@ -2898,5 +2898,45 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Photographed on August 1, 2019. Resized and converted to WebP, and cropped for the share card. The image adaptations retain CC BY-SA 4.0."
     }
+  },
+  {
+    "id": "dongdaemun-pyounghwa-2011",
+    "originalId": "Pyounghwa Clothing Market.jpg",
+    "originalHash": "a646803910a2f105eebfe4a85b044327aaecb3d08b262af1c62130e45b82736e",
+    "src": "/images/editorial/dongdaemun-pyounghwa-2011-1280.webp",
+    "srcSet": "/images/editorial/dongdaemun-pyounghwa-2011-640.webp 640w, /images/editorial/dongdaemun-pyounghwa-2011-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "capturedAt": "2011-08-07",
+    "alt": "Illuminated Pyounghwa Clothing Market sign at night in Dongdaemun",
+    "credit": {
+      "kind": "photograph",
+      "title": "Pyounghwa Clothing Market.jpg",
+      "author": "Mumbo jiggy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pyounghwa_Clothing_Market.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed on August 7, 2011. Resized for WebP and cropped for the share card. Adaptations retain CC BY-SA 3.0."
+    }
+  },
+  {
+    "id": "dongdaemun-doota-2012",
+    "originalId": "Entrance of the Doota Mall near Dongdaemun Market.jpg",
+    "originalHash": "5c630f17d0c53c2c0846b7bbe370d615fec6fbb6333db6577688a9159985e579",
+    "src": "/images/editorial/dongdaemun-doota-2012-1280.webp",
+    "srcSet": "/images/editorial/dongdaemun-doota-2012-640.webp 640w, /images/editorial/dongdaemun-doota-2012-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "capturedAt": "2012-07-23",
+    "alt": "People outside the illuminated Doota Mall entrance in Dongdaemun",
+    "credit": {
+      "kind": "photograph",
+      "title": "Entrance of the Doota Mall near Dongdaemun Market.jpg",
+      "author": "Dquai",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Entrance_of_the_Doota_Mall_near_Dongdaemun_Market.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed on July 23, 2012. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0."
+    }
   }
 ]

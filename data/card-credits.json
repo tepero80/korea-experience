@@ -1809,5 +1809,20 @@
       "note": "Photographed on August 1, 2019. Resized and converted to WebP, and cropped for the share card. The image adaptations retain CC BY-SA 4.0."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "dongdaemun-wholesale-fashion-market-tips": {
+    "src": "/images/cards/dongdaemun-wholesale-fashion-market-tips.jpg",
+    "fingerprint": "d38b1131ab40e1803320ae4c66585aa92294d167618b8eccdc91b22481342e5c",
+    "sourceImage": "/images/editorial/dongdaemun-pyounghwa-2011-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Pyounghwa Clothing Market.jpg",
+      "author": "Mumbo jiggy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pyounghwa_Clothing_Market.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed on August 7, 2011. Resized for WebP and cropped for the share card. Adaptations retain CC BY-SA 3.0."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

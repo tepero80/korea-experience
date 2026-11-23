@@ -27,6 +27,8 @@ draft: false
 
 Leave room for bags and receipts, rather than crossing the city to collect famous district names.
 
+If clothing is your priority, use the [Dongdaemun retail and wholesale comparison](/blog/dongdaemun-wholesale-fashion-market-tips) to choose a mall for one item or confirm a wholesale pickup.
+
 ## Myeongdong: compare the same product
 
 Use the [official Myeongdong area guide](https://english.visitseoul.net/area/Myeong-dong/ENP000067) for orientation, then verify the branch. For cosmetics, compare the full product name, volume, formula and bundle contents. A smaller bottle or different set is not the same bargain.
