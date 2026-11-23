@@ -2,6 +2,7 @@
 import { useEffect, useRef, useState } from 'react';
 import type { Place } from '@/lib/content-types';
 import { track } from '@/lib/analytics';
+import { googleMapsSearch } from '@/lib/google-maps';
 import { readLocalPlan, writeLocalPlan, type ItineraryStop } from '@/lib/itinerary';
 import Link from 'next/link';
 export default function PlaceMap({
@@ -168,6 +169,14 @@ export default function PlaceMap({
                   rel="noopener noreferrer"
                 >
                   Kakao Map ↗
+                </a>
+                <a
+                  href={googleMapsSearch(`${p.latitude},${p.longitude}`)}
+                  aria-label={`Google Maps for ${p.name}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Google Maps <span aria-hidden="true">↗</span>
                 </a>
                 <a href={p.officialUrl} target="_blank" rel="noopener noreferrer">
                   Place reference ↗

@@ -1744,15 +1744,16 @@
     "changeType": "rewrite",
     "imageCredit": {
       "kind": "photograph",
-      "title": "KTX-I in Busan Station (15618537248).jpg",
-      "author": "Doug Letterman",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KTX-I_in_Busan_Station_(15618537248).jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-      "note": "Photographed 2014-06-03. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
+      "title": "Dongbaekseom island, Busan.jpg",
+      "author": "Brit in Seoul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongbaekseom_island,_Busan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-05-15. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
     "gallery": [],
-    "heroMediaId": "busan-weekend-ktx-platform-2014"
+    "heroMediaId": "busan-dongbaekseom-nurimaru-2024",
+    "heroCaption": "Dongbaekseom’s rocky shore and Nurimaru APEC House, photographed in May 2024. Visit the peninsula as part of the Haeundae day."
   },
   "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets": {
     "id": "places-rain",
@@ -7231,7 +7232,7 @@
     "id": "transport-gwangju-airport-songjeong",
     "categoryId": "airports-transport",
     "format": "how-to",
-    "checkedAt": "2026-11-09",
+    "checkedAt": "2026-11-23",
     "answer": "Walk about 500 metres outdoors to Airport Station, then take Line 1 toward Pyeongdong for Gwangju-Songjeong Station.",
     "forWhom": "Travelers transferring from Gwangju Airport to an onward train",
     "conditions": [
@@ -7271,20 +7272,22 @@
     "tools": [
       "itinerary"
     ],
-    "placeIds": [],
+    "placeIds": [
+      "gwangju-songjeong-rail-station"
+    ],
     "sources": [
       {
         "id": "gwangju-airport-transport",
         "title": "Gwangju Airport accessibility and transport guide",
         "url": "https://www.airport.co.kr/gwangju/cms/frCon/index.do?MENU_ID=250",
-        "checkedAt": "2026-11-09",
+        "checkedAt": "2026-11-23",
         "note": "Outdoor walk to Airport Station and taxi stand; Korean."
       },
       {
         "id": "gwangju-metro-route",
         "title": "Gwangju Transportation Corporation Line 1 route",
         "url": "https://www.grtc.co.kr/cybereng",
-        "checkedAt": "2026-11-09",
+        "checkedAt": "2026-11-23",
         "note": "Station order and direction; verify live service."
       }
     ],
@@ -7297,15 +7300,15 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "Gwangju-metro-115-Airport-station-sign-20190521-141942.jpg",
-      "author": "LERK",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju-metro-115-Airport-station-sign-20190521-141942.jpg",
+      "title": "Gwangju Airport 20250629.jpg",
+      "author": "*Youngjin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju_Airport_20250629.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "note": "Photographed 21 May 2019; cropped and converted to WebP. Historical station sign, not a current platform-direction indicator."
+      "note": "Photographed 2025-06-29. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
-    "heroMediaId": "transport-gwangju-airport-station-photo",
-    "heroCaption": "Airport Station sign in 2019; check the live platform signs for your direction.",
+    "heroMediaId": "gwangju-airport-terminal-2025",
+    "heroCaption": "Gwangju Airport’s terminal building and forecourt in June 2025. The subway station is a separate stop reached on foot from the terminal.",
     "gallery": [],
     "experienceVersion": 2
   },
@@ -12896,15 +12899,15 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%8A%B9%EC%B0%A8%EC%9E%A5.png",
+      "title": "https://upload.wikimedia.org/wikipedia/commons/6/68/%EB%8F%99%ED%95%B4%EC%83%81%EC%82%AC%EA%B3%A0%EC%86%8D_%EC%86%8D%EC%B4%88%EB%8F%99%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%99%B8_1546%ED%98%B8.png",
       "author": "YanggoK",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%8A%B9%EC%B0%A8%EC%9E%A5.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8F%99%ED%95%B4%EC%83%81%EC%82%AC%EA%B3%A0%EC%86%8D_%EC%86%8D%EC%B4%88%EB%8F%99%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%99%B8_1546%ED%98%B8.png",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "note": "Photographed 2026-10-04. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+      "note": "Photographed 2026-03-01. Source identifies a route vehicle, not the intercity terminal building. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
     },
-    "heroMediaId": "sokcho-express-platform",
-    "heroCaption": "Sokcho Express Bus Terminal’s covered boarding platform in October 2026. Check your ticket for the current bay.",
+    "heroMediaId": "sokcho-intercity-bus",
+    "heroCaption": "A bus on the Sokcho–Dong Seoul intercity route in March 2026. Check your ticket for the terminal and boarding bay.",
     "gallery": [],
     "experienceVersion": 2
   },
@@ -13011,15 +13014,15 @@
     "changeType": "new",
     "imageCredit": {
       "kind": "photograph",
-      "title": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Gaetbae_20221209_001.jpg",
+      "title": "Gaetbae 20221209 005.jpg",
       "author": "Mobius6",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaetbae_20221209_001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaetbae_20221209_005.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "note": "Photographed 2022-12-09. Illustrates the shore-side boarding approach as it looked in 2022; check current signs and ferry operation. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+      "note": "Photographed 2022-12-09. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
-    "heroMediaId": "sokcho-gaetbae-ferry",
-    "heroCaption": "The Gaetbae’s downtown boarding approach in December 2022. Confirm the current signs and return crossing before you leave the market side.",
+    "heroMediaId": "sokcho-gaetbae-boat-and-harbor-2022",
+    "heroCaption": "The Gaetbae cable ferry at Abai Village in December 2022. Check the current crossing before you leave the market.",
     "gallery": [],
     "experienceVersion": 2
   },

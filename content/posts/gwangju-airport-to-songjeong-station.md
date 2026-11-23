@@ -1,10 +1,10 @@
 ---
 title: "Gwangju Airport to Gwangju-Songjeong Station by Subway"
 date: '2026-11-09'
-updated: '2026-11-09'
+updated: '2026-11-23'
 excerpt: "Find Airport Station, choose the right Line 1 direction and plan your onward train connection."
 category: airports-transport
-image: /images/editorial/transport-gwangju-airport-station-photo.webp
+image: /images/editorial/gwangju-airport-terminal-2025-1280.webp
 author: Korea Experience Editorial
 tags:
   - gwangju
@@ -12,9 +12,9 @@ tags:
 draft: false
 ---
 
-**For:** travelers transferring from Gwangju Airport to Gwangju-Songjeong rail station. **Information checked:** 9 November 2026.
+**For:** travelers transferring from Gwangju Airport to Gwangju-Songjeong rail station. **Information checked:** 23 November 2026.
 
-Airport Station is outside the terminal. The [airport’s transport guidance](https://www.airport.co.kr/gwangju/cms/frCon/index.do?MENU_ID=250) says to leave the departure gate and follow the pavement to the right for about **500 metres**. Allow extra time with bags, in bad weather or if walking is difficult.
+Airport Station (공항역) is outside the terminal. The [airport’s transport guidance](https://www.airport.co.kr/gwangju/cms/frCon/index.do?MENU_ID=250) says to leave the departure gate and follow the pavement to the right for about **500 metres**. Allow extra time with bags, in bad weather or if walking is difficult. To locate the passenger terminal, use [Gwangju Airport in Google Maps](https://www.google.com/maps/search/?api=1&query=%EA%B4%91%EC%A3%BC%EA%B3%B5%ED%95%AD%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%83%81%EB%AC%B4%EB%8C%80%EB%A1%9C%20420-25).
 
 ## Choose the right direction
 
@@ -23,6 +23,8 @@ Airport Station is outside the terminal. The [airport’s transport guidance](ht
 - **For a door-to-door trip:** The airport describes a taxi stand across the pedestrian crossing from the terminal. Confirm the fare and payment method with the driver when needed.
 
 The station photo is historical and is not a platform-direction guide. Use current station signs and the operator’s route information. Check service hours and the last train for your actual date, and leave time for the outdoor walk, ticketing and transfer to the onward rail service. No connection time or fare is guaranteed here.
+
+<GuidePhoto id="transport-gwangju-airport-station-photo" caption="Airport Station platform sign in 2019. Follow current platform displays for the train toward Pyeongdong." />
 
 ## Before you set out
 

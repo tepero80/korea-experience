@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import crypto from 'node:crypto';
 import { getAllPosts, getPostBySlug } from '../lib/posts';
 import mediaData from '../data/media.json';
+import destinationReviews from '../data/destination-guide-photos.json';
 import type { EditorialMedia } from '../lib/media';
 const registry = mediaData as EditorialMedia[];
 const errors: string[] = [];
@@ -69,10 +70,25 @@ for (const p of posts) {
   )
     errors.push(`Incomplete upgraded hero ${p.slug}`);
 }
+const postsBySlug = new Map(posts.map((post) => [post.slug, post]));
+const validScore = (value: number, upper: number) =>
+  Number.isInteger(value) && value >= 0 && value <= upper;
+for (const [slug, review] of Object.entries(destinationReviews)) {
+  const post = postsBySlug.get(slug);
+  const asset = byId.get(review.mediaId);
+  if (
+    !post?.indexable || post.editorial?.heroMediaId !== review.mediaId || !asset || asset.src !== post.image ||
+    asset.credit.kind !== 'photograph' || !asset.credit.sourceUrl || !asset.credit.author ||
+    !asset.credit.licenseUrl ||
+    !validScore(review.subjectUsefulness, 3) || review.subjectUsefulness < 2 ||
+    !validScore(review.sceneClarity, 2) || !validScore(review.cropPotential, 2) ||
+    review.subjectUsefulness + review.sceneClarity + review.cropPotential < 5
+  ) errors.push(`Invalid photo review for a destination plan ${slug}`);
+}
 if (errors.length) {
   console.error([...new Set(errors)].join('\n'));
   process.exit(1);
 }
 console.log(
-  `Media guard passed: ${registry.length} registered assets; all ${posts.length} guide heroes checked for reused paths, source identities and exact image hashes.`,
+  `Media guard passed: ${registry.length} registered assets; all ${posts.length} guide heroes checked for reused paths, source identities and exact image hashes. ${Object.keys(destinationReviews).length} destination plan photo approvals are current.`,
 );

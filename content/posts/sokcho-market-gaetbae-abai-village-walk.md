@@ -3,7 +3,7 @@ title: 'Sokcho Market to Abai Village: Gaetbae Ferry and Bridge Walk'
 date: '2026-11-23'
 excerpt: 'Start at Sokcho’s market, find the hand-pulled Gaetbae ferry, and choose a short crossing or a longer bridge return.'
 category: places-itineraries
-image: /images/editorial/sokcho-gaetbae-ferry-1280.webp
+image: /images/editorial/sokcho-gaetbae-boat-and-harbor-2022-1280.webp
 author: Korea Experience Editorial
 tags:
   - sokcho
@@ -29,6 +29,8 @@ draft: false
 3. **Sinpo side and Abai Village · 아바이마을.** Follow the city walking route from the landing toward the village lanes and Seorak Bridge. Families who fled the north during the Korean War settled in this area. The [city route map](https://www.sokcho.go.kr/ct/tour/recommend/sokchoroad/road04) gives the historical context and marks public restrooms near the market and under Seorak Bridge at the village entrance.
 
 <GuidePhoto id="sokcho-abai-waterfront-overview" caption="Abai Village rooftops, waterfront and the bridge approach in June 2026. Follow current signs when choosing the ferry or bridge return." />
+
+<GuidePhoto id="sokcho-gaetbae-ferry" caption="The downtown Gaetbae landing canopy from December 2022. Follow posted directions to the current boarding point." />
 
 ## Decide how you will get back
 

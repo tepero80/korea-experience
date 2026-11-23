@@ -5538,5 +5538,71 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Photographed 2021-07-18. Resized and converted to WebP. Display crops preserve the licensed attribution. Adaptations retain CC BY-SA 4.0. Historical scene."
     }
+  },
+  {
+    "id": "busan-dongbaekseom-nurimaru-2024",
+    "src": "/images/editorial/busan-dongbaekseom-nurimaru-2024-1280.webp",
+    "srcSet": "/images/editorial/busan-dongbaekseom-nurimaru-2024-640.webp 640w, /images/editorial/busan-dongbaekseom-nurimaru-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "The rocky shore of Dongbaekseom beside Busan's Nurimaru APEC House, with Gwangan Bridge in the distance",
+    "focal": "55% 62%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Dongbaekseom_island,_Busan.jpg",
+    "originalHash": "640bc593f580bcf281447a6181e93214c26af1a4b7f23d82b6c9a2f88fa5d0dd",
+    "capturedAt": "2024-05-15",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Dongbaekseom island, Busan.jpg",
+      "author": "Brit in Seoul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongbaekseom_island,_Busan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-05-15. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
+    }
+  },
+  {
+    "id": "sokcho-gaetbae-boat-and-harbor-2022",
+    "src": "/images/editorial/sokcho-gaetbae-boat-and-harbor-2022-1280.webp",
+    "srcSet": "/images/editorial/sokcho-gaetbae-boat-and-harbor-2022-640.webp 640w, /images/editorial/sokcho-gaetbae-boat-and-harbor-2022-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Blue Gaetbae ferry with orange life rings beside the landing in Sokcho's Abai Village",
+    "focal": "72% 64%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gaetbae_20221209_005.jpg",
+    "originalHash": "a39869679130bba2cf05bf195b2dada6cdb237b8b146da9fdb76c7d5e9ad8789",
+    "capturedAt": "2022-12-09",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gaetbae 20221209 005.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaetbae_20221209_005.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-12-09. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
+    }
+  },
+  {
+    "id": "gwangju-airport-terminal-2025",
+    "src": "/images/editorial/gwangju-airport-terminal-2025-1280.webp",
+    "srcSet": "/images/editorial/gwangju-airport-terminal-2025-640.webp 640w, /images/editorial/gwangju-airport-terminal-2025-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Gwangju Airport's terminal and forecourt with the GWANGJU sign on the blue-glass facade",
+    "focal": "55% 68%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gwangju_Airport_20250629.jpg",
+    "originalHash": "c6c4ff47cece738d17256000e788c3827c3bd11232b209dafeb3ac019a1be9db",
+    "capturedAt": "2025-06-29",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwangju Airport 20250629.jpg",
+      "author": "*Youngjin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju_Airport_20250629.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2025-06-29. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
+    }
   }
 ]

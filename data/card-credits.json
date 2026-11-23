@@ -271,16 +271,16 @@
   },
   "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices": {
     "src": "/images/cards/seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices.jpg",
-    "fingerprint": "823079cb6285711a8f416e09dbc5b643e1471ecc7acb63ede4416be79eb2c3b5",
-    "sourceImage": "/images/editorial/busan-weekend-ktx-platform-2014-1280.webp",
+    "fingerprint": "20219607b370b4967049c3c73d47c1123b75e037f1b9b66f38c9b95463e7de1f",
+    "sourceImage": "/images/editorial/busan-dongbaekseom-nurimaru-2024-1280.webp",
     "credit": {
       "kind": "photograph",
-      "title": "KTX-I in Busan Station (15618537248).jpg",
-      "author": "Doug Letterman",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KTX-I_in_Busan_Station_(15618537248).jpg",
-      "license": "CC BY 2.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
-      "note": "Photographed 2014-06-03. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
+      "title": "Dongbaekseom island, Busan.jpg",
+      "author": "Brit in Seoul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongbaekseom_island,_Busan.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-05-15. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
@@ -1215,16 +1215,16 @@
   },
   "gwangju-airport-to-songjeong-station": {
     "src": "/images/cards/gwangju-airport-to-songjeong-station.jpg",
-    "fingerprint": "5f3d68e440e4586f1bd02e0c98bdfb739c77bfb98e9a45378335cb26d8efcd6f",
-    "sourceImage": "/images/editorial/transport-gwangju-airport-station-photo.webp",
+    "fingerprint": "d73cb3a94e89488d2c2326b43678a782abd0f6632449cb92e8216e4f2bb0f258",
+    "sourceImage": "/images/editorial/gwangju-airport-terminal-2025-1280.webp",
     "credit": {
       "kind": "photograph",
-      "title": "Gwangju-metro-115-Airport-station-sign-20190521-141942.jpg",
-      "author": "LERK",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju-metro-115-Airport-station-sign-20190521-141942.jpg",
+      "title": "Gwangju Airport 20250629.jpg",
+      "author": "*Youngjin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju_Airport_20250629.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "note": "Photographed 21 May 2019; cropped and converted to WebP. Historical station sign, not a current platform-direction indicator."
+      "note": "Photographed 2025-06-29. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
@@ -2067,31 +2067,31 @@
   },
   "sokcho-intercity-vs-express-bus-terminal": {
     "src": "/images/cards/sokcho-intercity-vs-express-bus-terminal.jpg",
-    "fingerprint": "7a4a33a70f7617bb90ca6ff906b59d459c732b05df9e6a116e2d899208baa3a0",
-    "sourceImage": "/images/editorial/sokcho-express-platform-1280.webp",
+    "fingerprint": "b37c1f6249835e05be989adbe99c670812e03fe13ac7522fc958c44a7f45d39c",
+    "sourceImage": "/images/editorial/sokcho-intercity-bus-1280.webp",
     "credit": {
       "kind": "photograph",
-      "title": "https://upload.wikimedia.org/wikipedia/commons/f/f9/%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%8A%B9%EC%B0%A8%EC%9E%A5.png",
+      "title": "https://upload.wikimedia.org/wikipedia/commons/6/68/%EB%8F%99%ED%95%B4%EC%83%81%EC%82%AC%EA%B3%A0%EC%86%8D_%EC%86%8D%EC%B4%88%EB%8F%99%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%99%B8_1546%ED%98%B8.png",
       "author": "YanggoK",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%86%8D%EC%B4%88%EA%B3%A0%EC%86%8D%ED%84%B0%EB%AF%B8%EB%84%90_%EC%8A%B9%EC%B0%A8%EC%9E%A5.png",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%8F%99%ED%95%B4%EC%83%81%EC%82%AC%EA%B3%A0%EC%86%8D_%EC%86%8D%EC%B4%88%EB%8F%99%EC%84%9C%EC%9A%B8%EC%8B%9C%EC%99%B8_1546%ED%98%B8.png",
       "license": "CC BY 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
-      "note": "Photographed 2026-10-04. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+      "note": "Photographed 2026-03-01. Source identifies a route vehicle, not the intercity terminal building. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
   "sokcho-market-gaetbae-abai-village-walk": {
     "src": "/images/cards/sokcho-market-gaetbae-abai-village-walk.jpg",
-    "fingerprint": "410efbf4c253b1ccf51add6ec9260a4a0fc04bd1aea9dd9486250dd7fb6217dc",
-    "sourceImage": "/images/editorial/sokcho-gaetbae-ferry-1280.webp",
+    "fingerprint": "62d9f21254c16c1433a009ac644ae106393c21629f05ddc7caf7bfdfc5d9b180",
+    "sourceImage": "/images/editorial/sokcho-gaetbae-boat-and-harbor-2022-1280.webp",
     "credit": {
       "kind": "photograph",
-      "title": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Gaetbae_20221209_001.jpg",
+      "title": "Gaetbae 20221209 005.jpg",
       "author": "Mobius6",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaetbae_20221209_001.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gaetbae_20221209_005.jpg",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
-      "note": "Photographed 2022-12-09. Illustrates the shore-side boarding approach as it looked in 2022; check current signs and ferry operation. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+      "note": "Photographed 2022-12-09. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Historical scene. Check current conditions before traveling."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },

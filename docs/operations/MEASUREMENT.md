@@ -20,6 +20,14 @@ Do not divide all-time event counts into a unique-user funnel. Analyze compatibl
 
 ## Official reporting
 
+For broader traffic trends, compare visits and page views from the existing Cloudflare Web Analytics
+site for `koreaexperience.com`. Keep the exact reporting window, hostname and bot filter with the
+observation. Cloudflare Web Analytics defines a visit by the entry referrer and uses a browser
+beacon. GA4 active users are consented people estimates. Cloudflare's edge request and unique-IP
+totals include other traffic and have a separate operational purpose. Preserve these scopes when
+checking whether an apparent GA4 drop also appears in browser visits or search clicks. See the
+[Cloudflare visit definition](https://developers.cloudflare.com/web-analytics/data-metrics/high-level-metrics/).
+
 The local reporting project is separate from public sign-in. Scopes are exactly GSC, Analytics and AdSense read-only; OAuth permissions themselves can cover reports the owner can access. Code further restricts requests to `sc-domain:koreaexperience.com`, GA4 property522514411 with exact apex-host filter and AdSense `accounts/pub-7793293419727384` with apex-domain revenue filter. No write, billing or public-login scope is requested.
 
 Use the official `google-auth-library`. Windows user DPAPI encrypts refresh credentials; a current-user-only ACL restricts `.private/integrations/google-reporting`. No credentials belong in Git, command arguments, logs, Worker bindings or browser storage. The downloaded Desktop JSON is transient setup material; protect it promptly and remove the task-created plaintext copy after confirmed encrypted storage. Never print provider errors that may contain tokens.
@@ -43,6 +51,10 @@ The `discovery` field in the private metrics report summarizes the existing apex
 Use the provider's `eventName` and `pagePath` dimensions and `eventCount` metric to drill into a source guide. The discovery events send only the sanitized source page context. These counts describe where consenting readers choose to go and may include more than one click per reader. A missing event row is `null`. Treat `partial` windows as incomplete when the API reports thresholding, sampling, grouped rows or truncated retrieval. Evaluate the first full post-release windows after the reporting freshness buffer so a window spanning deployment does not appear to represent a full period on the new design.
 
 An active comparison in `.private/reports/growth-comparison.json` adds two adjacent post-release weeks and selected canonical guides to the existing `npm run metrics` checks. Each source waits for three full days in its reporting timezone after the period ends. The report keeps finalized search and consented analytics separate and preserves missing rows. A comparison can support a decision about growth, subject to coverage and sample size.
+
+Every `npm run metrics` run also updates `growthGoals` in the timestamped private report and in `metrics-latest.json`. This tracks the 10,000 daily visitors and US$100 daily ad revenue targets. GA4 uses `activeUsers` per date for the exact apex hostname in Asia/Seoul. Treat it as an audience estimate with consent and analytics coverage limits. AdSense uses domain/date estimated earnings in USD and page views in America/Los_Angeles. Its weekly page RPM divides the sum of earnings by the sum of reported page views and multiplies by 1,000. [GA4 data schema](https://developers.google.com/analytics/devguides/reporting/data/v1/api-schema) · [AdSense reporting](https://developers.google.com/adsense/management/reference/rest/v2/accounts.reports/generate)
+
+Each provider gets its own rolling 28-day window after three full local days have passed. Read each series with its stated dates and coverage. The report shows the latest eligible day's target gap and compares it with the same weekday a week earlier. It also compares the latest seven days with the previous seven. A weekly audience average is a mean of daily active users. Weekly averages and counts of goal-reaching days require all seven daily values. Missing rows, wrong units or dates, duplicate days, and GA4 sampling or thresholding leave affected results unknown. Report access failures stay `unavailable` and preserve the previous successful API read separately. Recurring checks use the existing scheduler and local reporting environment.
 
 Pagination is bounded at100,000 rows and explicitly partial when capped. Actual URL inspection describes Google's indexed version, not a live crawl or indexing request. Unknown backlinks and first-public dates still block retirement. Keep dated browser snapshots as supplementary evidence rather than silently merging periods/scopes.
 

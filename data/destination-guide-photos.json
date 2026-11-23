@@ -1,0 +1,308 @@
+{
+  "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style": {
+    "mediaId": "hotel-hongdae-street",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "airport-limousine-bus-vs-arex-express-train": {
+    "mediaId": "airport-concourse",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026": {
+    "mediaId": "seoul-geunjeongjeon",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seongsu-dong-dior-luxury-vs-market-eats-in-24-hours": {
+    "mediaId": "seongsu-halfday-street-june2026",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets": {
+    "mediaId": "rainy-seoul-gwangjang-market-2020",
+    "subjectUsefulness": 3,
+    "sceneClarity": 1,
+    "cropPotential": 2
+  },
+  "how-to-order-food-in-korean-restaurants-phrases-guide-2026": {
+    "mediaId": "seoul-bbq-table",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "where-to-stay-in-busan-neighborhoods": {
+    "mediaId": "busan-base-haeundae-panorama",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "gimhae-airport-to-busan": {
+    "mediaId": "transport-gimhae-to-busan-photo",
+    "subjectUsefulness": 3,
+    "sceneClarity": 1,
+    "cropPotential": 1
+  },
+  "gamcheon-public-transport": {
+    "mediaId": "transport-busan-gamcheon-access-photo",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026": {
+    "mediaId": "suwon-daytrip-janganmun-gate",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "suwon-hwaseong-museum-before-fortress": {
+    "mediaId": "culture-suwon-hwaseong-museum-photo",
+    "subjectUsefulness": 2,
+    "sceneClarity": 1,
+    "cropPotential": 2
+  },
+  "suwon-gwanggyo-lake-park-short-walk": {
+    "mediaId": "gwanggyo-lake-waterfront-landing",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "incheon-chinatown-open-port-walking-route": {
+    "mediaId": "incheon-open-port-chinatown",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "songdo-central-park-visit-plan": {
+    "mediaId": "songdo-central-park-visit",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "incheon-airport-to-songdo-hotels": {
+    "mediaId": "incheon-airport-songdo-hotel-transfer",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "incheon-airport-survival-guide-2026": {
+    "mediaId": "incheon-t2-reunions-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "incheon-airport-late-night-arrival-guide": {
+    "mediaId": "incheon-6777-night-bus",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026": {
+    "mediaId": "gyeongju-tombs-2022",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "gyeongju-ktx-to-hwangnidan": {
+    "mediaId": "transport-gyeongju-station-downtown-photo",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "gyeongju-bulguksa-seokguram-without-a-car": {
+    "mediaId": "gyeongju-bulguksa-temple",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "gyeongju-donggung-wolji-woljeonggyo-evening-walk": {
+    "mediaId": "gyeongju-woljeonggyo-evening",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "where-to-stay-in-jeju-without-a-car": {
+    "mediaId": "jeju-car-free-base-dongmun",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "jeju-airport-to-jeju-city-and-seogwipo": {
+    "mediaId": "jeju-airport-terminal-arrivals",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seongsan-ilchulbong-by-bus-from-jeju-city": {
+    "mediaId": "jeju-seongsan-ilchulbong-bus-day",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "dongdaegu-station-to-central-daegu": {
+    "mediaId": "dongdaegu-station-central-transfer",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "daegu-modern-history-museum-downtown-visit": {
+    "mediaId": "culture-daegu-modern-history-museum-photo",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seomun-market-daytime-food-visit": {
+    "mediaId": "food-seomun-daytime-photo",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "jeonju-station-to-hanok-village": {
+    "mediaId": "jeonju-rail-station-hanok-transfer",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "jeonju-gyeonggijeon-omokdae-walking-route": {
+    "mediaId": "jeonju-gyeonggijeon-courtyard",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "jeonju-nambu-market-eating-plan": {
+    "mediaId": "jeonju-nambu-pisundae-jjw-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "seoul-to-chuncheon-train-choice": {
+    "mediaId": "transport-chuncheon-station-photo",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "chuncheon-station-to-soyanggang-skywalk": {
+    "mediaId": "chuncheon-soyanggang-skywalk-deck",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "chuncheon-samaksan-lake-cable-car-visit": {
+    "mediaId": "chuncheon-samaksan-cable-car-ride",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "gangneung-gyeongpo-lake-and-beach-walk": {
+    "mediaId": "gangneung-gyeongpo-beach-shore",
+    "subjectUsefulness": 3,
+    "sceneClarity": 1,
+    "cropPotential": 2
+  },
+  "gangneung-ojukheon-and-jungang-market": {
+    "mediaId": "gangneung-ojukheon-house",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "gangneung-station-anmok": {
+    "mediaId": "transport-gangneung-station-anmok-photo",
+    "subjectUsefulness": 2,
+    "sceneClarity": 1,
+    "cropPotential": 2
+  },
+  "seoraksan-cable-car-flexible-sokcho-day": {
+    "mediaId": "places-seoraksan-cable-car-photo",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "andong-station-and-bus-terminal-to-downtown": {
+    "mediaId": "andong-new-rail-station",
+    "subjectUsefulness": 3,
+    "sceneClarity": 1,
+    "cropPotential": 2
+  },
+  "andong-hahoe-or-dosan-seowon-without-a-car": {
+    "mediaId": "andong-hahoe-village-roofs",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "andong-wolyeonggyo-evening-walk": {
+    "mediaId": "andong-wolyeonggyo-river-daylight",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "daejeon-station-to-jungang-market-short-visit": {
+    "mediaId": "daejeon-jungang-market-lane",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "daejeon-yuseong-footbath-or-museum-day": {
+    "mediaId": "daejeon-yuseong-footbath-outdoor",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "daejeon-national-science-museum-family-visit": {
+    "mediaId": "places-daejeon-science-museum-photo",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "gwangju-songjeong-station-to-asia-culture-center": {
+    "mediaId": "gwangju-songjeong-rail-station-arrival",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "gwangju-national-museum-children-visit": {
+    "mediaId": "culture-gwangju-national-museum-photo",
+    "subjectUsefulness": 3,
+    "sceneClarity": 1,
+    "cropPotential": 1
+  },
+  "mokpo-marine-cable-car-boarding-without-a-car": {
+    "mediaId": "mokpo-marine-cable-car-cabins",
+    "subjectUsefulness": 3,
+    "sceneClarity": 1,
+    "cropPotential": 2
+  },
+  "mokpo-modern-history-museum-harbor-weather-plan": {
+    "mediaId": "mokpo-modern-history-museum-hall-one",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "sokcho-intercity-vs-express-bus-terminal": {
+    "mediaId": "sokcho-intercity-bus",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices": {
+    "mediaId": "busan-dongbaekseom-nurimaru-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "sokcho-market-gaetbae-abai-village-walk": {
+    "mediaId": "sokcho-gaetbae-boat-and-harbor-2022",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "gwangju-airport-to-songjeong-station": {
+    "mediaId": "gwangju-airport-terminal-2025",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  }
+}

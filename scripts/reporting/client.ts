@@ -151,7 +151,7 @@ export async function gaReport(
   };
 }
 
-export function adsenseReportUrl(dates: WindowDates) {
+export function adsenseReportUrl(dates: WindowDates, breakdown: 'platform' | 'day' = 'platform') {
   const start = new Date(dates.startDate + 'T00:00:00Z'),
     end = new Date(dates.endDate + 'T00:00:00Z');
   const params = new URLSearchParams({
@@ -166,8 +166,8 @@ export function adsenseReportUrl(dates: WindowDates) {
     reportingTimeZone: 'GOOGLE_TIME_ZONE',
     limit: '100000',
   });
-  for (const name of ['DATE', 'DOMAIN_NAME', 'PLATFORM_TYPE_CODE'])
-    params.append('dimensions', name);
+  for (const name of ['DATE', 'DOMAIN_NAME']) params.append('dimensions', name);
+  if (breakdown === 'platform') params.append('dimensions', 'PLATFORM_TYPE_CODE');
   for (const name of ['ESTIMATED_EARNINGS', 'PAGE_VIEWS', 'PAGE_VIEWS_RPM'])
     params.append('metrics', name);
   params.append('filters', 'DOMAIN_NAME==koreaexperience.com');

@@ -1,6 +1,7 @@
 'use client';
 import { useEffect, useRef, useState, type FormEvent } from 'react';
 import Link from 'next/link';
+import { googleMapsSearch } from '@/lib/google-maps';
 import {
   ITINERARY_KEY,
   accountPlanData,
@@ -566,6 +567,14 @@ export default function ItineraryBoard() {
                           href={`https://map.naver.com/p/search/${encodeURIComponent(s.address || s.place)}`}
                         >
                           Check route ↗
+                        </a>
+                        <a
+                          href={googleMapsSearch(s.address || s.place)}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          aria-label={`Google Maps for ${s.place}`}
+                        >
+                          Google Maps <span aria-hidden="true">↗</span>
                         </a>
                         <button
                           className="action-button"

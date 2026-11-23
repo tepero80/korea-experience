@@ -7,7 +7,7 @@ export const metadata = {
 export default function Privacy() {
   return (
     <div className="wrap document-page">
-      <p className="eyebrow">Updated October 31, 2026</p>
+      <p className="eyebrow">Updated November 23, 2026</p>
       <h1>Privacy and cookie choices</h1>
       <p>
         This page explains the data used by Korea Experience. Contact{' '}
@@ -22,6 +22,14 @@ export default function Privacy() {
         numbers, booking codes or sensitive details into travel notes.
       </p>
       <h2>Optional measurement</h2>
+      <p>
+        Cloudflare Web Analytics provides aggregate visits, page views and page performance on our
+        public site. Cloudflare describes this service as operating without analytics cookies.{' '}
+        <a href="https://developers.cloudflare.com/web-analytics/about/">
+          About Cloudflare Web Analytics
+        </a>
+        .
+      </p>
       <p>
         On the production site, optional Google Analytics measurement loads only after the analytics
         choice is accepted. It measures pages and actions such as tool completion and sharing

@@ -1,6 +1,6 @@
 import { notFound } from 'next/navigation';
-import { getDestinations } from '@/lib/destinations';
-import { mediaFor } from '@/lib/media';
+import { destinationGuidePhoto, getDestinations } from '@/lib/destinations';
+import { mediaFor, type EditorialMedia } from '@/lib/media';
 import { SITE_CONFIG } from '@/lib/constants';
 import styles from '../destinations.module.css';
 
@@ -23,6 +23,25 @@ const arrivalGuides: Readonly<Record<string, string>> = {
 };
 
 const gyeongjuNight = 'gyeongju-donggung-wolji-woljeonggyo-evening-walk';
+
+function CardPhoto({ photo, onward = false }: { photo: EditorialMedia; onward?: boolean }) {
+  return (
+    <img
+      className={styles.cardPhoto}
+      src={photo.src}
+      srcSet={photo.srcSet}
+      sizes={onward
+        ? '(max-width: 600px) calc(100vw - 40px), (max-width: 900px) 46vw, 390px'
+        : '(max-width: 760px) calc(100vw - 40px), (max-width: 1039px) 46vw, 420px'}
+      alt=""
+      width={photo.width}
+      height={photo.height}
+      style={{ objectPosition: photo.focal }}
+      loading="lazy"
+      decoding="async"
+    />
+  );
+}
 
 type Params = Promise<{ region: string }>;
 export const dynamicParams = false;
@@ -75,18 +94,22 @@ export default async function Destination({ params }: { params: Params }) {
     const post = posts.find((guide) => guide.slug === slug);
     return post ? [post] : [];
   });
-  const highlights = ranked?.length ? ranked : posts.slice(0, 6);
+  const highlights = (ranked?.length ? ranked : posts).flatMap((post) => {
+    const photo = destinationGuidePhoto(post);
+    return photo ? [{ post, photo }] : [];
+  }).slice(0, 6);
   if (isGyeongju) {
-    const night = highlights.findIndex(({ slug }) => slug === gyeongjuNight);
+    const night = highlights.findIndex(({ post }) => post.slug === gyeongjuNight);
     if (night > 0) highlights.unshift(...highlights.splice(night, 1));
   }
-  const more = posts.filter((p) => !highlights.includes(p));
+  const highlighted = new Set(highlights.map(({ post }) => post.id));
+  const more = posts.filter((post) => !highlighted.has(post.id));
   const onward =
     region.onward?.flatMap(({ regionId, reason }) => {
       const other = destinations.find(
         (candidate) => candidate.id === regionId && candidate.indexable,
       );
-      return other ? [{ destination: other, reason }] : [];
+      return other ? [{ destination: other, reason, photo: mediaFor(other.coverMediaId) }] : [];
     }) ?? [];
   return (
     <div className={`wrap editorial-travel-surface ${styles.hub}`}>
@@ -106,10 +129,10 @@ export default async function Destination({ params }: { params: Params }) {
               ? 'Walk among the Silla tombs, then stay for the city’s illuminated ponds and bridges.'
               : region.intro}
           </p>
-          {highlights.length ? (
+          {arrival || highlights.length ? (
             <nav className={styles.hubActions} aria-label={`Plan a trip to ${region.name}`}>
               {arrival ? <a href={`/blog/${arrival.slug}`}>Getting here</a> : null}
-              <a href="#plan-your-visit">Plan your visit</a>
+              {highlights.length ? <a href="#plan-your-visit">Plan your visit</a> : null}
             </nav>
           ) : null}
         </div>
@@ -142,18 +165,19 @@ export default async function Destination({ params }: { params: Params }) {
             Choose a plan
           </h2>
           <div className={`guide-grid ${styles.plansGrid}`}>
-            {highlights.map((post) => (
-              <a
-                href={`/blog/${post.slug}`}
-                className={`guide-card ${styles.planLink}`}
-                key={post.id}
-              >
-                <div>
-                  <h3>{post.slug === gyeongjuNight ? 'One evening in Gyeongju' : post.title}</h3>
-                  <p>{post.excerpt}</p>
-                </div>
-                <span aria-hidden="true">↗</span>
-              </a>
+            {highlights.map(({ post, photo }) => (
+                <a
+                  href={`/blog/${post.slug}`}
+                  className={`guide-card ${styles.hubCard}`}
+                  key={post.id}
+                >
+                  <CardPhoto photo={photo} />
+                  <div className={styles.cardCopy}>
+                    <h3>{post.slug === gyeongjuNight ? 'One evening in Gyeongju' : post.title}</h3>
+                    <span aria-hidden="true">↗</span>
+                    <p>{post.excerpt}</p>
+                  </div>
+                </a>
             ))}
           </div>
         </section>
@@ -183,11 +207,15 @@ export default async function Destination({ params }: { params: Params }) {
           <h2 className={styles.sectionTitle} id="destination-onward">
             Plan your next stop
           </h2>
-          <div className="next-step-grid">
-            {onward.map(({ destination, reason }) => (
-              <a href={`/destinations/${destination.id}`} key={destination.id}>
-                <h3>{destination.name}</h3>
-                <p>{reason}</p>
+          <div className={styles.onwardGrid}>
+            {onward.map(({ destination, reason, photo }) => (
+              <a href={`/destinations/${destination.id}`} className={styles.hubCard} key={destination.id}>
+                {photo?.credit.kind === 'photograph' ? <CardPhoto photo={photo} onward /> : null}
+                <div className={styles.cardCopy}>
+                  <h3>{destination.name}</h3>
+                  <span aria-hidden="true">↗</span>
+                  <p>{reason}</p>
+                </div>
               </a>
             ))}
           </div>

@@ -44,6 +44,10 @@ export const REGIONS: readonly Region[] = [
     intro:
       'Busan’s waterfront and historic market districts are spread out. Choose your accommodation around your priorities and group the western markets separately from Haeundae.',
     tip: 'A car-free trip is practical when you allow travel time between districts and avoid crossing the city repeatedly.',
+    onward: [
+      { regionId: 'gyeongju', reason: 'Give the Silla sites their own day and check how to get from the KTX station to the historic center.' },
+      { regionId: 'daegu', reason: 'Continue inland for Seomun Market and a separate downtown history visit.' },
+    ],
   },
   {
     id: 'suwon',
@@ -55,6 +59,7 @@ export const REGIONS: readonly Region[] = [
     intro:
       'Make a manageable day around a section of Hwaseong’s walls, the palace area, and a meal. The full fortress circuit is optional, not a requirement.',
     tip: 'Check separate palace, activity and seasonal opening notices. A fortress walk does not guarantee a ticketed building or evening program is open.',
+    onward: [{ regionId: 'seoul', reason: 'Return to a Seoul base and choose a neighborhood for the following day.' }],
   },
   {
     id: 'incheon',
@@ -72,6 +77,7 @@ export const REGIONS: readonly Region[] = [
       'incheon-airport-survival-guide-2026',
       'incheon-airport-late-night-arrival-guide',
     ],
+    onward: [{ regionId: 'seoul', reason: 'Choose a Seoul base and plan the last leg to your accommodation.' }],
   },
   {
     id: 'gyeongju',
@@ -87,6 +93,10 @@ export const REGIONS: readonly Region[] = [
       'gyeongju-ktx-to-hwangnidan',
       'gyeongju-bulguksa-seokguram-without-a-car',
       'gyeongju-donggung-wolji-woljeonggyo-evening-walk',
+    ],
+    onward: [
+      { regionId: 'busan', reason: 'Build a separate waterfront day around one part of Busan.' },
+      { regionId: 'andong', reason: 'Continue a heritage trip with a riverside evening or a visit outside Andong.' },
     ],
   },
   {
@@ -105,6 +115,7 @@ export const REGIONS: readonly Region[] = [
       'jeju-muslim-friendly-dining-in-jeju-city',
       'jeju-winter-ferry-checklist-udo-gapa-marado',
     ],
+    onward: [{ regionId: 'busan', reason: 'If your onward ticket is to Busan, plan the airport transfer before choosing a coastal neighborhood.' }],
   },
   {
     id: 'daegu',
@@ -119,6 +130,7 @@ export const REGIONS: readonly Region[] = [
       'daegu-modern-history-museum-downtown-visit',
       'seomun-market-daytime-food-visit',
     ],
+    onward: [{ regionId: 'gyeongju', reason: 'Give the Silla tombs and evening waterfront a separate stop.' }],
   },
   {
     id: 'jeonju',
@@ -133,6 +145,7 @@ export const REGIONS: readonly Region[] = [
       'jeonju-gyeonggijeon-omokdae-walking-route',
       'jeonju-nambu-market-eating-plan',
     ],
+    onward: [{ regionId: 'gwangju', reason: 'For a separate city day in Jeolla, choose between Gwangju’s Culture Center and National Museum.' }],
   },
   {
     id: 'chuncheon',
@@ -208,6 +221,7 @@ export const REGIONS: readonly Region[] = [
       'daejeon-yuseong-footbath-or-museum-day',
       'daejeon-national-science-museum-family-visit',
     ],
+    onward: [{ regionId: 'jeonju', reason: 'Continue to a hanok and market outing. Check your departure station and connection before booking.' }],
   },
   {
     id: 'gwangju',

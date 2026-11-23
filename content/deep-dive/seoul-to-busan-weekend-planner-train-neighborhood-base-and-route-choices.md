@@ -6,7 +6,7 @@ excerpt: >-
   Keep one day around Nampo and Jagalchi and another around Haeundae and
   Dongbaek, with the train and bags fixed first.
 category: places-itineraries
-image: /images/editorial/busan-weekend-ktx-platform-2014-1280.webp
+image: /images/editorial/busan-dongbaekseom-nurimaru-2024-1280.webp
 author: Korea Experience Editorial
 tags:
   - busan
@@ -20,6 +20,8 @@ draft: false
 Book the actual train/stations through [KORAIL's official English form](https://www.korail.com/global/eng/ticket/reservation), read the selected ticket's conditions and keep the confirmation privately. Our [rail booking guide](/blog/ktx-vs-srt-high-speed-train-comparison-and-booking) explains the booking checks and payment-failure fallback.
 
 Then choose your [Busan base](/blog/where-to-stay-in-busan-neighborhoods), bag drop/collection and return journey. The [operator's metro map](https://www2.humetro.busan.kr/homepage/cyberstation/mapeng.do) connects old-port Line 1 with Haeundae/Dongbaek Line 2 at Seomyeon; confirm actual door-to-door travel for your dates.
+
+<GuidePhoto id="busan-weekend-ktx-platform-2014" caption="A KTX-I train at Busan Station in 2014. Check the service and platform on your current ticket." />
 
 ## Day 1 · Old port and a market meal
 

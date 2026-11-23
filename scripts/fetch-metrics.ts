@@ -3,6 +3,7 @@ import { REPORTING_TARGETS, reportingAccessToken, safeReportingError } from './r
 import { reportingWindows, contentForReportUrl } from './reporting/report-policy';
 import { retainObservedReports, type ReportHistory } from './reporting/history';
 import { compareGrowth } from './reporting/growth-comparison';
+import { observeGrowthGoals } from './reporting/growth-goals';
 import { summarizeDiscovery } from './reporting/discovery';
 import {
   gscReport,
@@ -77,7 +78,7 @@ async function main() {
     }
     periods[period] = results;
   }
-  const [policy, alerts, sitemaps] = await Promise.all([
+  const [policy, alerts, sitemaps, growthGoals] = await Promise.all([
     readOfficial(
       'AdSense policy issues',
       `https://adsense.googleapis.com/v2/${REPORTING_TARGETS.adsense}/policyIssues`,
@@ -93,6 +94,7 @@ async function main() {
       `https://www.googleapis.com/webmasters/v3/sites/${encodeURIComponent(REPORTING_TARGETS.site)}/sitemaps`,
       tokens.gsc,
     ),
+    observeGrowthGoals(now, tokens),
   ]);
   const normalizedPages = Object.fromEntries(
     Object.entries(periods).map(([period, results]) => [
@@ -151,6 +153,11 @@ async function main() {
     { key: 'policy', result: policy },
     { key: 'alerts', result: alerts },
     { key: 'gsc/sitemaps', result: sitemaps },
+    ...Object.entries(growthGoals).map(([name, { report, window }]) => ({
+      key: `growth-goals/${name}`,
+      window,
+      result: report,
+    })),
     ...('periods' in growth
       ? growth.periods.flatMap(({ dates, gsc, ga4, landing }) =>
           [gsc, ga4, landing].flatMap(({ report }) =>
@@ -177,6 +184,7 @@ async function main() {
     alerts,
     sitemaps,
     growth,
+    growthGoals,
     lastSuccess: Object.fromEntries(
       Object.entries(successes).map(([key, value]) => [
         key,
@@ -202,6 +210,9 @@ async function main() {
     `Policy: ${policy.status}; alerts: ${alerts.status}; GSC sitemap submissions: ${sitemaps.status}. Raw data saved privately.`,
   );
   console.log(`Fixed growth comparison: ${growth.status}`);
+  console.log(
+    `Daily growth goals: GA4 ${growthGoals.visitors.status}; AdSense ${growthGoals.revenue.status}.`,
+  );
 }
 main().catch(() => {
   console.error('Reporting execution failed; no credentials or raw provider errors are printed.');

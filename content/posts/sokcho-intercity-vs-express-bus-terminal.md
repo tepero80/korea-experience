@@ -3,7 +3,7 @@ title: 'Sokcho Bus Terminals: Intercity or Express?'
 date: '2026-11-23'
 excerpt: 'Match your Sokcho bus ticket to the right terminal, then plan the last leg to the market, the beach or Seoraksan.'
 category: airports-transport
-image: /images/editorial/sokcho-express-platform-1280.webp
+image: /images/editorial/sokcho-intercity-bus-1280.webp
 author: Korea Experience Editorial
 tags:
   - sokcho
@@ -30,7 +30,7 @@ The [Sokcho City transport listings](https://sokcho.go.kr/ct/tour/tour_guide/tra
 2. **Save the Korean destination names offline.** Keep your hotel and the return terminal separate. If your return service leaves from the other terminal, map the transfer from wherever you will actually be before the departure.
 3. **Find the bay in the building.** Use the boarding display or ask staff. A vehicle photo or an old bay number cannot establish today's platform. At the wrong terminal, show staff the ticket and ask for directions or a realistic change option before rushing across town.
 
-<GuidePhoto id="sokcho-intercity-bus" caption="A vehicle on a Sokcho–Dong Seoul intercity service in March 2026. Read your ticket for the current carrier, departure terminal and bay." />
+<GuidePhoto id="sokcho-express-platform" caption="A boarding platform at Sokcho Express Bus Terminal in October 2026. Your ticket and current displays identify today’s bay." />
 
 ## Plan the last leg before you board
 
