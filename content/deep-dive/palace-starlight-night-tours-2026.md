@@ -13,7 +13,7 @@ tags:
   - culture
 draft: false
 ---
-**Do not build an evening around an old booking button.** General night viewing, Starlight and Moonlight are separate products with different palaces, dates and conditions. As checked **15 November 2026**, all three autumn runs below have ended; no next-season availability was established. If you are visiting before another announcement, plan a daytime palace visit and a separate evening activity instead.
+**Do not build an evening around an old booking button.** General night viewing, Starlight and Moonlight are separate products with different palaces, dates and conditions. As checked **15 November 2026**, all three autumn runs below have ended; no next-season availability was established. If you are visiting before another announcement, use the [daytime comparison of Gyeongbokgung and Changdeokgung](/blog/korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026) to choose an open palace, then keep the evening flexible.
 
 ## Know which program you mean
 

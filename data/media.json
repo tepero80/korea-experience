@@ -2878,5 +2878,25 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "note": "Historical panorama from March 2013. A central section was cropped and resized for WebP and the social card."
     }
+  },
+  {
+    "id": "gwanghwamun-daytime-tristan-surtel-2019",
+    "originalId": "Gwanghwamun, Gyeongbokgung.jpg",
+    "originalHash": "5e2ac6341a9d9f85546e10abe58f8da88018cba7b78f928339cc986e0f08552d",
+    "src": "/images/editorial/gwanghwamun-daytime-2019-1280.webp",
+    "srcSet": "/images/editorial/gwanghwamun-daytime-2019-640.webp 640w, /images/editorial/gwanghwamun-daytime-2019-1280.webp 1280w",
+    "width": 1280,
+    "height": 851,
+    "capturedAt": "2019-08-01",
+    "alt": "Gwanghwamun gate at Gyeongbokgung viewed from across the road",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwanghwamun, Gyeongbokgung.jpg",
+      "author": "Tristan Surtel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwanghwamun,_Gyeongbokgung.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed on August 1, 2019. Resized and converted to WebP, and cropped for the share card. The image adaptations retain CC BY-SA 4.0."
+    }
   }
 ]

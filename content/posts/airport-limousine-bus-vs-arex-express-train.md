@@ -47,7 +47,7 @@ The [Express introduction](https://www.airportrailroad.com/train/express/introdu
 
 If you haven't reached the public arrivals hall yet, start with the [Incheon arrival checklist for immigration, bags and customs](/blog/incheon-airport-survival-guide-2026).
 
-1. Verify **T1 or T2** from your actual arrival, then follow signs to the transport center. The [airport’s rail page](https://www.airport.kr/ap_en/1512/subview.do) places the rail customer areas at **B1 in both terminals**.
+1. [Verify T1 or T2 for your actual flight](/blog/incheon-terminal-flight-check), then follow signs to the transport center. The [airport’s rail page](https://www.airport.kr/ap_en/1512/subview.do) places the rail customer areas at **B1 in both terminals**.
 2. Choose all-stop or Express **before** buying or passing a gate. Confirm the service and destination on the ticket/sign, not just the orange AREX branding.
 3. For Express, choose the departure and reserved seat through the [official customer site](https://www.airportrailroad.com/train/express/introduce) or ask at the rail customer center. For all-stop, follow its ticket/card instructions and keep enough value for the route.
 4. At the platform, check the train’s final destination. At your city station, use the hotel’s Korean address to choose the correct exit and final connection.
@@ -76,6 +76,8 @@ Use the time you can leave immigration and baggage collection, **not the schedul
 Sources: [Express timetable](https://www.airportrailroad.com/train/express/info), [T1 all-stop timetable](https://www.airportrailroad.com/train/normal/info/100/0), [T2 all-stop timetable](https://www.airportrailroad.com/train/normal/info/110/0). The published weekday/holiday tables match for these last departures. Temporary changes and your onward subway are separate checks. Digital Media City comes before Hongik University on the inbound route, so that later terminating service will not take you to Hongdae.
 
 If the usable connection is missed, choose a terminal-specific night bus **only after checking its final hub and the remaining hotel journey**; otherwise use the authorized taxi rank. Save the [late-arrival planning guide](/blog/incheon-airport-late-night-arrival-guide) and confirm late check-in before flying. Do not head to a dark hotel entrance with an unconfirmed reception time.
+
+If winter weather delays your flight, use the [Incheon flight-disruption checklist](/blog/incheon-winter-flight-disruption-checklist) before rebooking onward transport or changing your hotel arrival time.
 
 ## Taxi: compare a vehicle total, not the base fare
 

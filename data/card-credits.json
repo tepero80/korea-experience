@@ -1794,5 +1794,20 @@
       "note": "Historical panorama from March 2013. A central section was cropped and resized for WebP and the social card."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026": {
+    "src": "/images/cards/korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026.jpg",
+    "fingerprint": "c7835c1d2c7b5335aeabed62e5653bb6407ec2f07a503add2fd2d93cb9c8ba81",
+    "sourceImage": "/images/editorial/gwanghwamun-daytime-2019-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwanghwamun, Gyeongbokgung.jpg",
+      "author": "Tristan Surtel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwanghwamun,_Gyeongbokgung.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed on August 1, 2019. Resized and converted to WebP, and cropped for the share card. The image adaptations retain CC BY-SA 4.0."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

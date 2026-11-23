@@ -2959,10 +2959,10 @@
     ],
     "relations": [
       {
-        "slug": "choosing-korean-cultural-experiences-reservations-and-walk-in-options",
+        "slug": "korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026",
         "type": "next",
-        "label": "Your next decision",
-        "reason": "Choose between a flexible walk-in visit and a dated, language-specific experience before building the rest of the day."
+        "label": "Visit by day",
+        "reason": "Choose the open palace, find the current entrance and book a daytime garden ticket if you need one."
       },
       {
         "slug": "hanbok-rental-complete-guide-styles-and-pricing",
@@ -10590,6 +10590,152 @@
     },
     "heroCaption": "MONA YongPyong ski slopes in March 2013. Historical photograph.",
     "launchOrder": 1128,
+    "changeType": "rewrite"
+  },
+  "korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026": {
+    "id": "guide:korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026",
+    "experienceVersion": 2,
+    "categoryId": "culture-events",
+    "checkedAt": "2026-11-23",
+    "format": "decision",
+    "answer": "Choose Gyeongbokgung for the main court and changing of the guard, or Changdeokgung for the garden setting. Book a timed Secret Garden entry separately if it is central to your trip.",
+    "quickTitle": "Choose a palace by day and ticket",
+    "quickChoices": [
+      {
+        "label": "Monday",
+        "detail": "Start with Gyeongbokgung on a regular Monday."
+      },
+      {
+        "label": "Tuesday",
+        "detail": "Start with Changdeokgung on a regular Tuesday."
+      },
+      {
+        "label": "Secret Garden",
+        "detail": "Book the garden time first and allow time to reach its inner gate."
+      }
+    ],
+    "forWhom": "Visitors choosing a daytime palace in central Seoul or booking Changdeokgung’s Secret Garden",
+    "conditions": [
+      "These are daytime visits. Check holiday hours and the current entrance for your exact date.",
+      "The garden has a separate ticket and timed entry."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "culture",
+      "palaces"
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gyeongbokgung",
+      "changdeokgung"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "next",
+        "label": "Build your Seoul day",
+        "reason": "Put the palace into a three-day plan and cluster sights by neighborhood."
+      },
+      {
+        "slug": "palace-starlight-night-tours-2026",
+        "type": "interest",
+        "label": "Check evening visits",
+        "reason": "Compare the separate night programs and look for a confirmed new season."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "If the weather changes",
+        "reason": "Choose an indoor anchor and keep dinner within the same area."
+      }
+    ],
+    "sources": [
+      {
+        "id": "palace-gyeongbokgung",
+        "title": "Gyeongbokgung daytime hours, admission and guide services",
+        "url": "https://royal.khs.go.kr/ENG/contents/E702000000.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "palace-guard",
+        "title": "Korea Heritage Agency guard ceremony schedule",
+        "url": "https://www.kh.or.kr/cms/content/view/824",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "palace-hanbok",
+        "title": "Royal Palaces hanbok admission guidelines",
+        "url": "https://royal.khs.go.kr/ENG/contents/E701000000.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "palace-changdeok",
+        "title": "Changdeokgung ticket prices and Secret Garden entry",
+        "url": "https://royal.khs.go.kr/ENG/contents/E702000000.do?schGroupCode=cdg&schGroupCodeNm=Changdeokgung",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "palace-gate",
+        "title": "Korea Heritage Service notice on the temporary Geumhomun entrance",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R402000000.do?id=20241125093054576568&schM=view",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "palace-huwon",
+        "title": "Official Secret Garden timing, walk-up seats and gate instructions",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?pageType=more&resIdx=202401090246&schGroupCode=cdg&schM=view",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "palace-booking",
+        "title": "Royal Palaces reservation listing for Changdeokgung",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=cdg",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "palace-faq",
+        "title": "Changdeokgung visitor FAQ and recommended arrival buffer",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R404000000.do?schGroupCode=cdg",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "palace-landscape",
+        "title": "Royal Palaces – Changdeokgung’s garden and palace architecture",
+        "url": "https://royal.khs.go.kr/ENG/contents/E102030000.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "palace-bukchon",
+        "title": "Seoul Metropolitan Government visiting restrictions and zone map",
+        "url": "https://world.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Regular closure: Changdeokgung Monday, Gyeongbokgung Tuesday.",
+      "Adults 19–64: ₩3,000 for each daytime palace. Secret Garden adds ₩5,000.",
+      "Secret Garden entry is timed. Check the temporary entrance and your arrival buffer."
+    ],
+    "heroMediaId": "gwanghwamun-daytime-tristan-surtel-2019",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gwanghwamun, Gyeongbokgung.jpg",
+      "author": "Tristan Surtel",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwanghwamun,_Gyeongbokgung.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed on August 1, 2019. Resized and converted to WebP, and cropped for the share card. The image adaptations retain CC BY-SA 4.0."
+    },
+    "heroCaption": "Gwanghwamun, the main gate of Gyeongbokgung, in August 2019.",
+    "launchOrder": 1129,
     "changeType": "rewrite"
   }
 }

@@ -510,6 +510,31 @@
       "downloadedBytes": 4949685,
       "downloadStatus": "downloaded",
       "selectionStatus": "published"
+    },
+    {
+      "id": "gwanghwamun-daytime-tristan-surtel-2019",
+      "title": "Gwanghwamun, Gyeongbokgung.jpg",
+      "place": "Gwanghwamun, Gyeongbokgung Palace, Seoul",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gwanghwamun,_Gyeongbokgung.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/80/Gwanghwamun%2C_Gyeongbokgung.jpg",
+      "author": "Tristan Surtel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "commercialReuse": true,
+      "attributionRequired": true,
+      "shareAlikeRequired": true,
+      "modificationRequirements": "Photographed on August 1, 2019. Resized and converted to WebP, and cropped for the share card. The image adaptations retain CC BY-SA 4.0.",
+      "description": "Gwanghwamun gate and the road outside the palace in 2019",
+      "capturedAt": "2019-08-01",
+      "width": 6016,
+      "height": 4000,
+      "verifiedAt": "2026-11-23",
+      "verification": "Wikimedia Commons own-work license, original file hash and resized photo inspected.",
+      "localOriginal": ".private/media-originals/gwanghwamun-tristan-surtel-2019.jpg",
+      "sha256": "5e2ac6341a9d9f85546e10abe58f8da88018cba7b78f928339cc986e0f08552d",
+      "downloadedBytes": 3285245,
+      "downloadStatus": "downloaded",
+      "selectionStatus": "published"
     }
   ],
   "excludedCandidates": [
