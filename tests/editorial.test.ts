@@ -19,6 +19,16 @@ import {
   readRainShare,
 } from '../lib/tool-share';
 import { compileGuideContent } from '../components/MDXContent';
+import { PLACES, placesFor } from '../lib/editorial';
+
+test('guide maps keep itinerary order while ignoring unavailable and repeated places', () => {
+  const first = PLACES[0].id;
+  const second = PLACES[1].id;
+  assert.deepEqual(
+    placesFor([second, 'unavailable-place-fixture', first, second]).map((place) => place.id),
+    [second, first],
+  );
+});
 
 test('an archive verified flag cannot publish an unsupported expert identity or quotation', () => {
   assert.equal(

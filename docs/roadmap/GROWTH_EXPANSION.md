@@ -40,4 +40,12 @@ Start from a measured comparison of the current labeled article ad and the same 
 
 ## Release tracking
 
-Initial verified scope is the existing three destinations. No articles count toward the new 60 until a production batch is verified. Add completed batch IDs, URLs and deployed hub counts here as they are released. Measure the effect of earlier recovery and new batches against their own release dates.
+The starting directory had three destinations. Count new articles once each production URL is verified. The release ledger in `.private/reports/growth-expansion-ledger.json` retains individual URLs, deployment IDs, observation dates and evidence. Measure earlier recovery and new batches against their own release dates.
+
+| Verified batch | Production commit | New guides in batch | Running total | Published hubs |
+|---|---|---:|---:|---:|
+| Incheon, Gyeongju, Jeju and Suwon | `e40813f` | 4 | 4 | 6 |
+| Daegu and Jeonju, plus Incheon, Gyeongju and Jeju routes | `bfd9fb4` | 8 | 12 | 8 |
+| Chuncheon, Gangneung and Sokcho | `77452c0` | 7 | 19 | 11 |
+
+The first advertising comparison has three active AdSense URL reporting channels. The current manual slot provides the baseline. Start the placement comparison after comparable page-level data is available and confirm that the placement still protects reading and travel actions.

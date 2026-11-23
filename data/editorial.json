@@ -6946,7 +6946,20 @@
       "family",
       "museums"
     ],
-    "relations": [],
+    "relations": [
+      {
+        "slug": "daejeon-station-to-jungang-market-short-visit",
+        "type": "next",
+        "label": "Plan a short market stop near the railway",
+        "reason": "Use the market only if the transfer window leaves time to return."
+      },
+      {
+        "slug": "daejeon-yuseong-footbath-or-museum-day",
+        "type": "alternative",
+        "label": "Compare a Yuseong outing with an indoor museum",
+        "reason": "Check current footbath access before choosing your return route."
+      }
+    ],
     "tools": [
       "itinerary"
     ],
@@ -7077,6 +7090,12 @@
     ],
     "relations": [
       {
+        "slug": "gwangju-songjeong-station-to-asia-culture-center",
+        "type": "alternative",
+        "label": "Plan a downtown culture visit separately",
+        "reason": "Compare the ACC’s program-specific entry and metro arrival."
+      },
+      {
         "slug": "national-museum-korea-childrens-museum-reservation",
         "type": "alternative",
         "label": "Plan a children’s museum visit in Seoul",
@@ -7146,6 +7165,12 @@
       "transport"
     ],
     "relations": [
+      {
+        "slug": "gwangju-songjeong-station-to-asia-culture-center",
+        "type": "next",
+        "label": "Continue into central Gwangju",
+        "reason": "Use the correct metro direction and venue entrance if the city is your next stop."
+      },
       {
         "slug": "gwangju-national-museum-children-visit",
         "type": "next",
@@ -7845,6 +7870,18 @@
       "ferry"
     ],
     "relations": [
+      {
+        "slug": "mokpo-marine-cable-car-boarding-without-a-car",
+        "type": "nearby",
+        "label": "Plan the cable car as a separate outing",
+        "reason": "Choose a boarding station and check service before leaving the harbor."
+      },
+      {
+        "slug": "mokpo-modern-history-museum-harbor-weather-plan",
+        "type": "alternative",
+        "label": "Use a harbor museum after a delay is confirmed",
+        "reason": "Check the sailing update and return buffer before leaving the ferry terminal."
+      },
       {
         "slug": "korea-coastal-winter-wave-safety",
         "type": "alternative",
@@ -12945,6 +12982,884 @@
     },
     "heroMediaId": "gangneung-station-platform-arrival",
     "heroCaption": "A platform at Gangneung Station in April 2022. Check your actual arrival, departure platform and onward stop.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "andong-station-and-bus-terminal-to-downtown": {
+    "id": "andong-rail-coach-arrival-downtown",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "The current railway station and coach terminal adjoin on Gyeongdong-ro. Search from 안동역(안동터미널) to your actual downtown destination, or take a taxi if time or luggage is a concern.",
+    "forWhom": "Rail and long-distance bus passengers making a first downtown Andong stop",
+    "conditions": [
+      "The former station inland in the center is a separate landmark.",
+      "Check city bus direction and the correct boarding building before your return."
+    ],
+    "regions": [
+      "andong"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around",
+      "departure"
+    ],
+    "interests": [
+      "rail",
+      "bus",
+      "food"
+    ],
+    "relations": [
+      {
+        "slug": "andong-wolyeonggyo-evening-walk",
+        "type": "next",
+        "label": "Walk to the riverside after dusk",
+        "reason": "Check a short bridge route and a saved pickup before leaving downtown."
+      },
+      {
+        "slug": "andong-hahoe-or-dosan-seowon-without-a-car",
+        "type": "alternative",
+        "label": "Start a heritage outing from the hub",
+        "reason": "Check a viable Hahoe or Dosan departure before transferring downtown."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "andong-station",
+      "andong-coach-terminal",
+      "andong-jjimdak-alley"
+    ],
+    "sources": [
+      {
+        "id": "andong-rail-coach-arrival-downtown-source-1",
+        "title": "Andong City: current railway station",
+        "url": "https://www.tourandong.com/map/resource.cshtml?seq=1149",
+        "note": "Current station address, adjoining terminal and move from the old station.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-rail-coach-arrival-downtown-source-2",
+        "title": "Andong Bus Terminal operator",
+        "url": "https://www.buspia.co.kr/terminal/andong/main.php",
+        "note": "Coach building address and official onward booking links.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-rail-coach-arrival-downtown-source-3",
+        "title": "Korea Tourism Organization: Andong Old Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=977&vcontsId=174447",
+        "note": "Approximate local bus ride and downtown food area orientation.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-rail-coach-arrival-downtown-source-4",
+        "title": "Korea Tourism Organization: Andong Jjimdak Alley",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=14987",
+        "note": "Official address and alley pin.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-rail-coach-arrival-downtown-source-5",
+        "title": "Andong city bus route system",
+        "url": "https://bus.andong.go.kr/route",
+        "note": "Use the route and direction list. Recheck actual date, service pattern and stop.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-rail-coach-arrival-downtown-source-6",
+        "title": "Andong city timetable and route notices",
+        "url": "https://www.andong.go.kr/portal/bbs/list.do?mId=0606010100&ptIdx=66",
+        "note": "Check for changes before relying on a return connection.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Rail: 안동역, 경동로 122-16.",
+      "Coach: 안동터미널, 경동로 130.",
+      "Check your city bus and the building for your return."
+    ],
+    "launchOrder": 1150,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "New Andong Station.jpg",
+      "author": "Trainholic",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Andong_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2020-12-12. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "andong-new-rail-station",
+    "heroCaption": "The current Andong railway station building in December 2020. Follow present signs for the street-level city bus or coach transfer.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "andong-wolyeonggyo-evening-walk": {
+    "id": "andong-wolyeonggyo-evening-out-and-back",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Look up bus 112 or a taxi to 월영교. Confirm the ride back, then use the mid-bridge pavilion as a turn-around point if the surface and light suit you.",
+    "forWhom": "Travelers choosing an easy short Andong waterfront outing after dusk",
+    "conditions": [
+      "Choose a return stop or taxi pickup on the same bank before crossing.",
+      "Bridge access, lighting, weather and transit need separate checks."
+    ],
+    "regions": [
+      "andong"
+    ],
+    "stages": [
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "walking",
+      "waterfront",
+      "evening"
+    ],
+    "relations": [
+      {
+        "slug": "andong-station-and-bus-terminal-to-downtown",
+        "type": "prepare",
+        "label": "Check the station and terminal names",
+        "reason": "Avoid routing a return train to the former downtown station."
+      },
+      {
+        "slug": "andong-hahoe-or-dosan-seowon-without-a-car",
+        "type": "alternative",
+        "label": "Choose an Andong day outing",
+        "reason": "Hahoe and Dosan are daytime trips with separate buses and return constraints."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "andong-wolyeonggyo",
+      "andong-jjimdak-alley",
+      "andong-station"
+    ],
+    "sources": [
+      {
+        "id": "andong-wolyeonggyo-evening-out-and-back-source-1",
+        "title": "Andong City: access to tourist sites",
+        "url": "https://new.tourandong.com/public/sub5/sub1_2.cshtml",
+        "note": "City offers route 112 and lists taxi operators.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-wolyeonggyo-evening-out-and-back-source-2",
+        "title": "Andong city bus route system",
+        "url": "https://bus.andong.go.kr/route",
+        "note": "Use the route and direction list. Recheck actual date, service pattern and stop.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-wolyeonggyo-evening-out-and-back-source-3",
+        "title": "Andong city timetable and route notices",
+        "url": "https://www.andong.go.kr/portal/bbs/list.do?mId=0606010100&ptIdx=66",
+        "note": "Check for changes before relying on a return connection.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-wolyeonggyo-evening-out-and-back-source-4",
+        "title": "Korea Tourism Organization: Wolyeonggyo Bridge",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80957",
+        "note": "Official address, attraction pin and 24-hour access listing. It does not establish light schedules.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-wolyeonggyo-evening-out-and-back-source-5",
+        "title": "Andong City: bridge accessibility details",
+        "url": "https://www.tourandong.com/public/sub1/sub3_5.cshtml?day_idx=0&id=0&idx=4&keyword=&seq=1178",
+        "note": "Approach and access facilities. Confirm exact surfaces and entry separately.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-wolyeonggyo-evening-out-and-back-source-6",
+        "title": "Korea Tourism Organization: Andong Old Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=977&vcontsId=174447",
+        "note": "Downtown alternative. Shop hours vary.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Use bus 112 if the selected trip lists 월영교.",
+      "Save the same-bank return stop or taxi pickup.",
+      "Use the pavilion as a short turn-around point."
+    ],
+    "launchOrder": 1151,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Woryeonggyo at night.jpg",
+      "author": "Choi2451",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woryeonggyo_at_night.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2018-05-01. Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "andong-wolyeonggyo-after-dark",
+    "heroCaption": "Wolyeonggyo at dusk in May 2018. Check current crossing conditions, lighting and return transport.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "andong-hahoe-or-dosan-seowon-without-a-car": {
+    "id": "andong-car-free-hahoe-or-dosan",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Choose Hahoe for village lanes or Dosan Seowon for an academy outing. Check which service reaches your destination and find the return before setting out.",
+    "forWhom": "Car-free visitors choosing one Andong heritage stop and an onward connection",
+    "conditions": [
+      "Several services share a route number but serve different endpoints.",
+      "Confirm the last usable return stop and entry times separately."
+    ],
+    "regions": [
+      "andong"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "heritage",
+      "bus",
+      "walking"
+    ],
+    "relations": [
+      {
+        "slug": "andong-station-and-bus-terminal-to-downtown",
+        "type": "prepare",
+        "label": "Choose your rail or coach hub",
+        "reason": "Compare staying downtown with starting from the station or terminal."
+      },
+      {
+        "slug": "andong-wolyeonggyo-evening-walk",
+        "type": "alternative",
+        "label": "Keep a shorter city option",
+        "reason": "Use the river or downtown if rural transport will not fit."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "andong-hahoe-village",
+      "andong-dosan-seowon",
+      "andong-station"
+    ],
+    "sources": [
+      {
+        "id": "andong-car-free-hahoe-or-dosan-source-1",
+        "title": "Andong City: access to tourist sites",
+        "url": "https://new.tourandong.com/public/sub5/sub1_2.cshtml",
+        "note": "Compare currently listed Hahoe routes 210 and express 2 with Dosan routes 512 and express 3. Check the live service separately.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-car-free-hahoe-or-dosan-source-2",
+        "title": "Andong city bus route system",
+        "url": "https://bus.andong.go.kr/route",
+        "note": "Use the route and direction list. Recheck actual date, service pattern and stop.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-car-free-hahoe-or-dosan-source-3",
+        "title": "Andong city timetable and route notices",
+        "url": "https://www.andong.go.kr/portal/bbs/list.do?mId=0606010100&ptIdx=66",
+        "note": "Check for changes before relying on a return connection.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-car-free-hahoe-or-dosan-source-4",
+        "title": "Korea Tourism Organization: Hahoe Village",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111087",
+        "note": "Hahoe address, heritage description and attraction map.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-car-free-hahoe-or-dosan-source-5",
+        "title": "Korea Tourism Organization: Dosan Seowon",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=111174",
+        "note": "Academy description, seasonal hours and attraction map.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "andong-car-free-hahoe-or-dosan-source-6",
+        "title": "Dosan Seowon management office: access directions",
+        "url": "https://www.andong.go.kr/dosanseowon/contents.do?mId=0504000000",
+        "note": "Official address and linked express 3 information. Check the bus system for your exact service.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Hahoe: 210 or express 2.",
+      "Dosan: 512 or express 3.",
+      "Choose one outing and save the actual return."
+    ],
+    "launchOrder": 1152,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Hahoe Folk Village, Andong 2018-08-31-01.jpg",
+      "author": "De-Shao Liu (Terry850324)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hahoe_Folk_Village,_Andong_2018-08-31-01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-08-31. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "andong-hahoe-village-roofs",
+    "heroCaption": "Traditional rooflines in Hahoe Village in August 2018. Confirm the current arrival and entry route before visiting.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "daejeon-station-to-jungang-market-short-visit": {
+    "id": "daejeon-jungang-market-between-trains",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Use Daejeon Station's west plaza and cross to Jungang Market. Pick one lane and set a return time based on your train platform and luggage pickup.",
+    "forWhom": "Travelers deciding whether a short stop at Jungang Market fits between trains",
+    "conditions": [
+      "Shop hours and opening days vary.",
+      "Allow time for the return crossing, any luggage pickup and reaching the platform."
+    ],
+    "regions": [
+      "daejeon"
+    ],
+    "stages": [
+      "arrival",
+      "exploring",
+      "departure"
+    ],
+    "interests": [
+      "rail",
+      "traditional markets",
+      "food"
+    ],
+    "relations": [
+      {
+        "slug": "daejeon-yuseong-footbath-or-museum-day",
+        "type": "alternative",
+        "label": "Plan an outing in Yuseong",
+        "reason": "Choose the footbath or Currency Museum on a longer visit with time for a separate trip."
+      },
+      {
+        "slug": "daejeon-national-science-museum-family-visit",
+        "type": "alternative",
+        "label": "Plan the science museum with kids",
+        "reason": "Set aside a longer visit to make time for the exhibits and transfers."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "daejeon-railway-station",
+      "daejeon-jungang-market"
+    ],
+    "sources": [
+      {
+        "id": "daejeon-jungang-market-between-trains-source-1",
+        "title": "Korea National Railway: Daejeon Station record",
+        "url": "https://www.data.go.kr/data/15067652/fileData.do",
+        "note": "Station address and coordinates.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daejeon-jungang-market-between-trains-source-2",
+        "title": "Korea National Railway: west plaza and market side",
+        "url": "https://www.kr.or.kr/boardCnts/view.do?boardID=52&boardSeq=1109173&page=176",
+        "note": "Historic rail-facility notice confirms the market side. Use current signs for routing.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daejeon-jungang-market-between-trains-source-3",
+        "title": "Daejeon Dong-gu: Jungang Market",
+        "url": "https://www.donggu.go.kr/dg/tour/84/7/sights?tourAttracSeq=7",
+        "note": "Market location, named themed lanes, and access from the station plaza.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daejeon-jungang-market-between-trains-source-4",
+        "title": "Daejeon Dong-gu: traditional market directory",
+        "url": "https://www.donggu.go.kr/dg/kor/contents/135",
+        "note": "Separate markets and addresses in the complex.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daejeon-jungang-market-between-trains-source-5",
+        "title": "Korea Tourism Organization: Daejeon Jungang Market",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=82407",
+        "note": "Business hours and days differ by shop. Location verified from the embedded map.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Follow 서광장, the west plaza.",
+      "Save 대전 중앙시장, 대전로 783.",
+      "Choose one lane and leave time for your train."
+    ],
+    "launchOrder": 1153,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Daejeon Jungang Market 1.jpg",
+      "author": "Ryan Bodenstein",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daejeon_Jungang_Market_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Photographed 2023-07-09. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "daejeon-jungang-market-lane",
+    "heroCaption": "A Daejeon Jungang Market lane photographed in July 2023. Check the current opening hours of the shop you want.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "daejeon-yuseong-footbath-or-museum-day": {
+    "id": "daejeon-yuseong-footbath-currency-museum",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Use Yuseong's herbal footbath if open, or visit the Currency Museum on an opening day. The main outdoor footbath has a posted closure from November 2 through December 18, 2026.",
+    "forWhom": "Day visitors choosing between an outdoor Yuseong footbath and an indoor museum",
+    "conditions": [
+      "The district directs visitors to the herbal pool during the main pool's works. Confirm current hours and pedestrian access.",
+      "The Currency Museum closes Mondays and listed holidays. Check lift access with the museum before relying on a step-free visit."
+    ],
+    "regions": [
+      "daejeon"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "hot springs",
+      "indoor museums",
+      "accessibility"
+    ],
+    "relations": [
+      {
+        "slug": "daejeon-station-to-jungang-market-short-visit",
+        "type": "alternative",
+        "label": "Stay near Daejeon Station",
+        "reason": "Use one nearby market stop if you only have a rail layover."
+      },
+      {
+        "slug": "daejeon-national-science-museum-family-visit",
+        "type": "alternative",
+        "label": "Plan a science museum outing",
+        "reason": "Choose the separate National Science Museum if you have time for family science exhibits."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "daejeon-yuseong-herbal-footbath",
+      "daejeon-yuseong-main-footbath",
+      "daejeon-komsco-currency-museum"
+    ],
+    "sources": [
+      {
+        "id": "daejeon-yuseong-footbath-currency-museum-source-1",
+        "title": "Yuseong District: dated outdoor footbath closure and alternative",
+        "url": "https://www.yuseong.go.kr/bbs/BBSMSTR_000000000099/view.do?nttId=B000000144769Md0fR1",
+        "note": "Official district notice posted October 12, 2026. November 2 through December 18 main-pool closure and herbal-pool recommendation.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daejeon-yuseong-footbath-currency-museum-source-2",
+        "title": "Yuseong District: herbal footbath",
+        "url": "https://www.yuseong.go.kr/tour/sub01_03.do",
+        "note": "Park address, free entry and facility map. Check closure and current access independently.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daejeon-yuseong-footbath-currency-museum-source-3",
+        "title": "Yuseong District: outdoor footbath",
+        "url": "https://www.yuseong.go.kr/tour/sub01_02.do",
+        "note": "Normal operations apply outside the dated works notice. Facility map verifies this separate pool.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daejeon-yuseong-footbath-currency-museum-source-4",
+        "title": "Daejeon Transportation Corporation: metro route planner",
+        "url": "https://www.djtc.kr/kor/cyberStation.do?menuIdx=28",
+        "note": "Line 1 station order and current departure information.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daejeon-yuseong-footbath-currency-museum-source-5",
+        "title": "KOMSCO Currency Museum: visitor information",
+        "url": "https://museum.komsco.com/museum/contents/3",
+        "note": "Hours, closures, free admission, group reservation and visit contact.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daejeon-yuseong-footbath-currency-museum-source-6",
+        "title": "KOMSCO Currency Museum: notices",
+        "url": "https://museum.komsco.com/museum/article/notice/?pageIndex=1",
+        "note": "Elevator repair notice posted September 29, 2026. Restoration has not been verified.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "daejeon-yuseong-footbath-currency-museum-source-7",
+        "title": "Korea Tourism Organization: Currency Museum",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=82417",
+        "note": "Embedded facility location and collection overview.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Main outdoor footbath closed through December 18, 2026 per district notice.",
+      "Ask for 한방족욕장 during the works.",
+      "Currency Museum is free. Check opening day and lift access."
+    ],
+    "launchOrder": 1154,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "People take a foot bath at an outdoor public hot spring in Yuseong-gu, Daejeon, Korea.jpg",
+      "author": "Pmlydon (Patrick M. Lydon)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:People_take_a_foot_bath_at_an_outdoor_public_hot_spring_in_Yuseong-gu,_Daejeon,_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2023-05-11. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "daejeon-yuseong-footbath-outdoor",
+    "heroCaption": "An outdoor Yuseong footbath in May 2023, before the remodeling. Check the district notice for today's open facility.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gwangju-songjeong-station-to-asia-culture-center": {
+    "id": "gwangju-songjeong-acc-metro-transfer",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Take Metro Line 1 toward Sotae or Nokdong to Culture Complex. Save the hall named on your Asia Culture Center booking and check the return toward Pyeongdong.",
+    "forWhom": "Visitors arriving by KTX or SRT who want to reach downtown Gwangju without a car",
+    "conditions": [
+      "Gwangju Station and Gwangju-Songjeong are separate railway arrivals.",
+      "Check the day-specific metro timetable, indoor hours and hall access.",
+      "Museum, exhibitions and performances have different booking rules."
+    ],
+    "regions": [
+      "gwangju"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "rail",
+      "metro",
+      "culture",
+      "rain"
+    ],
+    "relations": [
+      {
+        "slug": "gwangju-national-museum-children-visit",
+        "type": "alternative",
+        "label": "Plan a separate museum outing",
+        "reason": "Choose the National Museum for a family visit with different opening and booking terms."
+      },
+      {
+        "slug": "gwangju-airport-to-songjeong-station",
+        "type": "prepare",
+        "label": "Connect from Gwangju Airport",
+        "reason": "If you start at the airport, check its walking and rail transfer instead."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gwangju-songjeong-rail-station",
+      "gwangju-asia-culture-center"
+    ],
+    "sources": [
+      {
+        "id": "gwangju-songjeong-acc-metro-transfer-source-1",
+        "title": "Gwangju Transportation Corporation: Sotae direction",
+        "url": "https://www.grtc.co.kr/subway/contents/directionOfSotae",
+        "note": "Operator table confirms station sequence and direction.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gwangju-songjeong-acc-metro-transfer-source-2",
+        "title": "Gwangju Transportation Corporation: Nokdong direction",
+        "url": "https://www.grtc.co.kr/subway/contents/directionOfNokdong",
+        "note": "Alternative terminus on the same line.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gwangju-songjeong-acc-metro-transfer-source-3",
+        "title": "Gwangju Transportation Corporation: Culture Complex station map",
+        "url": "https://www.grtc.co.kr/cyber?timetable=16",
+        "note": "Lifts and station floor plan; check current access.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gwangju-songjeong-acc-metro-transfer-source-4",
+        "title": "Asia Culture Center: Directions",
+        "url": "https://www.acc.go.kr/en/contents.do?PID=090203",
+        "note": "Metro stop, center road address and connection from Songjeong.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gwangju-songjeong-acc-metro-transfer-source-5",
+        "title": "Asia Culture Center: Hours and admission",
+        "url": "https://www.acc.go.kr/en/contents.do?PID=090202",
+        "note": "Current general page, distinct halls and booking conditions.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gwangju-songjeong-acc-metro-transfer-source-6",
+        "title": "Asia Culture Center Foundation: Visitor guide",
+        "url": "https://www.accf.or.kr/cms/files/ACC%EC%9E%AC%EB%8B%A8%ED%99%8D%EB%B3%B4%EB%AC%BC2023%EC%98%81%EB%AC%B8_202312270923.pdf",
+        "note": "Use for the exit orientation. Current venue page takes priority for hours and fees.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gwangju-songjeong-acc-metro-transfer-source-7",
+        "title": "Korea Tourism Organization: Yangdong Traditional Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=977&vcontsId=174454",
+        "note": "Alternative area and official tourism description.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gwangju-songjeong-acc-metro-transfer-source-8",
+        "title": "National Tourist Information Center Standard Data",
+        "url": "https://www.data.go.kr/data/15013112/standard.do",
+        "note": "Gwangju-Songjeong road address and visitor centre map point.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Metro Line 1 to Culture Complex",
+      "Board toward Sotae or Nokdong",
+      "Check the building on your booking"
+    ],
+    "launchOrder": 1155,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Korail-Gwangju-songjeong-station-building-20190521-125416.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korail-Gwangju-songjeong-station-building-20190521-125416.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-05-21. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "gwangju-songjeong-rail-station-arrival",
+    "heroCaption": "The Gwangju-Songjeong railway station forecourt in May 2019. Follow current signs for the metro and the return platform.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "mokpo-marine-cable-car-boarding-without-a-car": {
+    "id": "mokpo-marine-cable-car-boarding-without-a-car",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "From Mokpo Station, go to Bukhang and choose a round trip to return to the city side. For Gohado or a Yudalsan stop, confirm the allowed direction and final return before buying.",
+    "forWhom": "Train passengers choosing a Mokpo cable car terminal without a rental car",
+    "conditions": [
+      "Check the day's bus stop, walk and return. The North Port ferry pier is separate.",
+      "Hours, fares and boarding rules can change with weather and direction."
+    ],
+    "regions": [
+      "mokpo"
+    ],
+    "stages": [
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "cable car",
+      "rail",
+      "islands"
+    ],
+    "relations": [
+      {
+        "slug": "mokpo-modern-history-museum-harbor-weather-plan",
+        "type": "alternative",
+        "label": "Plan a museum visit instead",
+        "reason": "Use the indoor galleries if wind or a cable car suspension changes your day."
+      },
+      {
+        "slug": "mokpo-station-to-correct-ferry-terminal",
+        "type": "next",
+        "label": "Check your ferry terminal",
+        "reason": "Cable car stations and passenger ferry piers serve different trips."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "mokpo-marine-cable-car-bukhang",
+      "mokpo-marine-cable-car-gohado",
+      "mokpo-railway-station"
+    ],
+    "sources": [
+      {
+        "id": "mokpo-marine-cable-car-boarding-without-a-car-source-1",
+        "title": "Mokpo City: cable car route and tickets",
+        "url": "https://biz.mokpo.go.kr/tour/attraction/area?idx=83802&mode=view",
+        "note": "Supports directional one-way tickets. Older operating details are not used as current.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "mokpo-marine-cable-car-boarding-without-a-car-source-2",
+        "title": "Mokpo City: connecting bus stops",
+        "url": "https://youth.mokpo.go.kr/www/life_welfare/sewolferry/traffic_guidance",
+        "note": "City guide updated in 2023 gives stop numbers. Confirm current bus service in a live transit app.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "mokpo-marine-cable-car-boarding-without-a-car-source-3",
+        "title": "Korea Tourism Organization: ride and service information",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=60936",
+        "note": "Supports route, approximate ride length, Bukhang address and operator number. Call for current service and fares.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "mokpo-marine-cable-car-boarding-without-a-car-source-4",
+        "title": "Korea Tourism Organization: Gohado street address",
+        "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=20815e9c-cc02-4e70-b00a-7c505b7a8f52",
+        "note": "Use the street address only. This tourism article's operating details were last updated in 2021.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "mokpo-marine-cable-car-boarding-without-a-car-source-5",
+        "title": "Korea Tourism Organization: station access",
+        "url": "https://korean.visitkorea.or.kr/detail/rem_detail.do?cotid=9bfa12e3-c60a-409c-b050-9ed489fcf09d",
+        "note": "The documented wheelchair approach begins in the parking area. This does not verify the bus-stop approach.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "From town, save 목포해상케이블카 북항승강장.",
+      "A round trip returns to the city side.",
+      "Confirm weather, last boarding and the trip back to Mokpo Station."
+    ],
+    "launchOrder": 1156,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Mokpo Marine Cable Car in South Korea 04.jpg",
+      "author": "Korea Tourism Organization",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mokpo_Marine_Cable_Car_in_South_Korea_04.jpg",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Photographed 2020-08-18. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "mokpo-marine-cable-car-cabins",
+    "heroCaption": "A Mokpo Marine Cable Car gondola and station in August 2020. Check current service before traveling.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "mokpo-modern-history-museum-harbor-weather-plan": {
+    "id": "mokpo-modern-history-museum-harbor-weather-plan",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Start at Hall 1 for Mokpo’s port history or Hall 2 for life under colonial rule. Save the separate hall address, verify last entry and add the harbor only in suitable weather.",
+    "forWhom": "Travelers with a rainy afternoon or a flexible interval before a train or ferry",
+    "conditions": [
+      "Official listings differ on closing time. Arrive before 17:00 if visiting late, and call to confirm.",
+      "The two buildings have separate entrances with an outdoor walk between them."
+    ],
+    "regions": [
+      "mokpo"
+    ],
+    "stages": [
+      "exploring",
+      "departure"
+    ],
+    "interests": [
+      "museums",
+      "history",
+      "rain alternatives"
+    ],
+    "relations": [
+      {
+        "slug": "mokpo-marine-cable-car-boarding-without-a-car",
+        "type": "alternative",
+        "label": "Choose a cable car terminal",
+        "reason": "Use a longer window when weather improves and the operator confirms service."
+      },
+      {
+        "slug": "mokpo-station-to-correct-ferry-terminal",
+        "type": "next",
+        "label": "Check the correct ferry pier",
+        "reason": "Keep the operator's check-in time and terminal ahead of the optional museum or harbor stop."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "mokpo-modern-history-museum-one",
+      "mokpo-modern-history-museum-two",
+      "mokpo-railway-station"
+    ],
+    "sources": [
+      {
+        "id": "mokpo-modern-history-museum-harbor-weather-plan-source-1",
+        "title": "Korea Tourism Organization: Hall 1",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=60768",
+        "note": "Confirms the Hall 1 address and lists 17:00 last entry.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "mokpo-modern-history-museum-harbor-weather-plan-source-2",
+        "title": "Korea Tourism Organization: Hall 2",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=75183",
+        "note": "Confirms Hall 2 exhibits, street address, contact number and 17:00 last entry.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "mokpo-modern-history-museum-harbor-weather-plan-source-3",
+        "title": "National Museum of Korean Contemporary History: Mokpo museum directory",
+        "url": "https://www.much.go.kr/cooperation/net/mok.do",
+        "note": "Explains each building's historic role. Lists 18:00 closing, later than the VisitKorea listings.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "mokpo-modern-history-museum-harbor-weather-plan-source-4",
+        "title": "Mokpo City: Mokpojin History Park",
+        "url": "https://www.mokpo.go.kr/toureng/attraction/nineplace/mokpojin",
+        "note": "City description and map for the optional harbor-side history park.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Hall 1 covers Mokpo’s port history.",
+      "Hall 2 covers colonial-era Mokpo.",
+      "Arrive before 17:00 and confirm last entry."
+    ],
+    "launchOrder": 1157,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Mokpo Modern History Museum (Building 1) 20241005 001.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mokpo_Modern_History_Museum_(Building_1)_20241005_001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-10-05. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "mokpo-modern-history-museum-hall-one",
+    "heroCaption": "Hall 1 of the Mokpo Modern History Museum in October 2024. It occupies the former Japanese consulate.",
     "gallery": [],
     "experienceVersion": 2
   }

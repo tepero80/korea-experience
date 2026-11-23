@@ -71,6 +71,16 @@ for (const p of getLaunchGuides()) {
     errors.push('Missing sitemap entry ' + p.slug);
 }
 const directory = fs.readFileSync('out/destinations.html', 'utf8');
+const directoryTags = exportedMetadata(directory);
+const directoryUrl = SITE_CONFIG.url + '/destinations';
+const directoryCard = '/images/cards/korea-travel-destinations.jpg';
+if (directoryTags.get('canonical') !== directoryUrl || directoryTags.get('og:url') !== directoryUrl)
+  errors.push('Destination directory canonical or share URL mismatch');
+if (directoryTags.get('og:image') !== SITE_CONFIG.url + directoryCard ||
+    directoryTags.get('twitter:image') !== SITE_CONFIG.url + directoryCard ||
+    directoryTags.get('og:image:width') !== '1200' || directoryTags.get('og:image:height') !== '630' ||
+    !fs.existsSync('out' + directoryCard))
+  errors.push('Destination directory share card missing or incomplete');
 for (const region of getDestinations()) {
   const path = '/destinations/' + region.id;
   const file = 'out' + path + '.html';

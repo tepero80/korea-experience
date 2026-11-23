@@ -3754,5 +3754,342 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "note": "Photographed 2016-05-01. Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
     }
+  },
+  {
+    "id": "andong-new-rail-station",
+    "src": "/images/editorial/andong-new-rail-station-1280.webp",
+    "srcSet": "/images/editorial/andong-new-rail-station-640.webp 640w, /images/editorial/andong-new-rail-station-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Andong Station exterior",
+    "originalId": "https://commons.wikimedia.org/wiki/File:New_Andong_Station.jpg",
+    "originalHash": "90519a8f437300430e0a3797af3162658db4d6f84adf00750118661c1425a16b",
+    "capturedAt": "2020-12-12",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "New Andong Station.jpg",
+      "author": "Trainholic",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:New_Andong_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2020-12-12. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "andong-rail-platform",
+    "src": "/images/editorial/andong-rail-platform-1280.webp",
+    "srcSet": "/images/editorial/andong-rail-platform-640.webp 640w, /images/editorial/andong-rail-platform-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Railway platform at Andong Station",
+    "originalId": "https://commons.wikimedia.org/wiki/File:20211114_안동역_승강장.jpg",
+    "originalHash": "b0df6e53aec7cc49ff88e94823f01f64720d3c13447a0539f1ae572cb283f102",
+    "capturedAt": "2021-11-14",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "20211114 안동역 승강장.jpg",
+      "author": "Striker9498",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20211114_안동역_승강장.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2021-11-14. Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "andong-wolyeonggyo-river-daylight",
+    "src": "/images/editorial/andong-wolyeonggyo-river-daylight-1280.webp",
+    "srcSet": "/images/editorial/andong-wolyeonggyo-river-daylight-640.webp 640w, /images/editorial/andong-wolyeonggyo-river-daylight-1280.webp 1280w",
+    "width": 1280,
+    "height": 748,
+    "alt": "Wide view of Wolyeonggyo Bridge and its reflection in the Nakdonggang at twilight",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Weolyeonggyo_Bridge_01.jpg",
+    "originalHash": "5134efd0011ad55bc7e02feda8a80d416429eec28315742a9008cc0347c45f2d",
+    "capturedAt": "2022-10-07",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Weolyeonggyo Bridge 01.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Weolyeonggyo_Bridge_01.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2022-10-07. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "andong-wolyeonggyo-after-dark",
+    "src": "/images/editorial/andong-wolyeonggyo-after-dark-1280.webp",
+    "srcSet": "/images/editorial/andong-wolyeonggyo-after-dark-640.webp 640w, /images/editorial/andong-wolyeonggyo-after-dark-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Lit deck and pavilion of Wolyeonggyo Bridge at dusk",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Woryeonggyo_at_night.jpg",
+    "originalHash": "cf86e051f99733be84b0f83d358d59836b9c1afb10608a3463ea17b1eff8a1be",
+    "capturedAt": "2018-05-01",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Woryeonggyo at night.jpg",
+      "author": "Choi2451",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Woryeonggyo_at_night.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2018-05-01. Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "andong-hahoe-village-roofs",
+    "src": "/images/editorial/andong-hahoe-village-roofs-1280.webp",
+    "srcSet": "/images/editorial/andong-hahoe-village-roofs-640.webp 640w, /images/editorial/andong-hahoe-village-roofs-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Traditional rooftops in Hahoe Village",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Hahoe_Folk_Village,_Andong_2018-08-31-01.jpg",
+    "originalHash": "51e10b703579ef3025b6bdd02c9644e9d2338463753547bb069cf22a5e77f27d",
+    "capturedAt": "2018-08-31",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Hahoe Folk Village, Andong 2018-08-31-01.jpg",
+      "author": "De-Shao Liu (Terry850324)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hahoe_Folk_Village,_Andong_2018-08-31-01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-08-31. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "andong-dosan-nongunjeongsa",
+    "src": "/images/editorial/andong-dosan-nongunjeongsa-1280.webp",
+    "srcSet": "/images/editorial/andong-dosan-nongunjeongsa-640.webp 640w, /images/editorial/andong-dosan-nongunjeongsa-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Nongunjeongsa building at Dosan Seowon",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Korea-Andong-Dosan_Seowon-Nongunjeongsa-01.jpg",
+    "originalHash": "8359e1d10473676ec1fe027f57c968df0c453d67921b0381eee95ec6b9cd7d75",
+    "capturedAt": "2008-05-25",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Korea-Andong-Dosan Seowon-Nongunjeongsa-01.jpg",
+      "author": "Julie",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Andong-Dosan_Seowon-Nongunjeongsa-01.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Photographed 2008-05-25. Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "daejeon-jungang-market-lane",
+    "src": "/images/editorial/daejeon-jungang-market-lane-1280.webp",
+    "srcSet": "/images/editorial/daejeon-jungang-market-lane-640.webp 640w, /images/editorial/daejeon-jungang-market-lane-1280.webp 1280w",
+    "width": 1280,
+    "height": 1558,
+    "alt": "A lane inside Daejeon Jungang Market",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Daejeon_Jungang_Market_1.jpg",
+    "originalHash": "0b6517bbca9135c1a0a7e81c97436f8ce36be2cf2e751f53460a80e3f83a721f",
+    "focal": "50% 35%",
+    "capturedAt": "2023-07-09",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Daejeon Jungang Market 1.jpg",
+      "author": "Ryan Bodenstein",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daejeon_Jungang_Market_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Photographed 2023-07-09. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "daejeon-rail-station-market-side",
+    "src": "/images/editorial/daejeon-rail-station-market-side-1280.webp",
+    "srcSet": "/images/editorial/daejeon-rail-station-market-side-640.webp 640w, /images/editorial/daejeon-rail-station-market-side-1280.webp 1280w",
+    "width": 1280,
+    "height": 750,
+    "alt": "Daejeon Station and the Korail headquarters in 2014",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Daejeon_Station.jpg",
+    "originalHash": "9fcf25e6d3a9e27eb07bf091d2deb4a3aeea69fe37ec08531dd212dcb91781b0",
+    "capturedAt": "2014-11-11",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Daejeon Station.jpg",
+      "author": "Minseong Kim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daejeon_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2014-11-11. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "daejeon-yuseong-footbath-outdoor",
+    "src": "/images/editorial/daejeon-yuseong-footbath-outdoor-1280.webp",
+    "srcSet": "/images/editorial/daejeon-yuseong-footbath-outdoor-640.webp 640w, /images/editorial/daejeon-yuseong-footbath-outdoor-1280.webp 1280w",
+    "width": 1280,
+    "height": 854,
+    "alt": "Visitors at an outdoor hot spring footbath in Yuseong",
+    "originalId": "https://commons.wikimedia.org/wiki/File:People_take_a_foot_bath_at_an_outdoor_public_hot_spring_in_Yuseong-gu,_Daejeon,_Korea.jpg",
+    "originalHash": "4521f9ea9bce02a926f08d93022917a886268cbf4cce1e24227495cd1806ad9e",
+    "capturedAt": "2023-05-11",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "People take a foot bath at an outdoor public hot spring in Yuseong-gu, Daejeon, Korea.jpg",
+      "author": "Pmlydon (Patrick M. Lydon)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:People_take_a_foot_bath_at_an_outdoor_public_hot_spring_in_Yuseong-gu,_Daejeon,_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2023-05-11. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "daejeon-yuseong-spa-metro-exit",
+    "src": "/images/editorial/daejeon-yuseong-spa-metro-exit-1280.webp",
+    "srcSet": "/images/editorial/daejeon-yuseong-spa-metro-exit-640.webp 640w, /images/editorial/daejeon-yuseong-spa-metro-exit-1280.webp 1280w",
+    "width": 1280,
+    "height": 929,
+    "alt": "Exit 2 of Yuseong Spa metro station in 2019",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Yuseong_Spa_Station_2nd_Exit.jpg",
+    "originalHash": "2b4ee3c115d0fcc4d80a7ffee6d72fad2bbe20620c177f8382f435ee314a70f7",
+    "capturedAt": "2019-06-08",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Yuseong Spa Station 2nd Exit.jpg",
+      "author": "Trainholic",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yuseong_Spa_Station_2nd_Exit.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-06-08. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gwangju-songjeong-rail-station-arrival",
+    "src": "/images/editorial/gwangju-songjeong-rail-station-arrival-1280.webp",
+    "srcSet": "/images/editorial/gwangju-songjeong-rail-station-arrival-640.webp 640w, /images/editorial/gwangju-songjeong-rail-station-arrival-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Gwangju-Songjeong Station sign on the curved glass front of the railway building",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Korail-Gwangju-songjeong-station-building-20190521-125416.jpg",
+    "originalHash": "14166971222bd4e7f828f6c68d100330e87630688e1e1ebd2767eada94c974b5",
+    "capturedAt": "2019-05-21",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Korail-Gwangju-songjeong-station-building-20190521-125416.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korail-Gwangju-songjeong-station-building-20190521-125416.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-05-21. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gwangju-culture-complex-station-sign",
+    "src": "/images/editorial/gwangju-culture-complex-station-sign-1280.webp",
+    "srcSet": "/images/editorial/gwangju-culture-complex-station-sign-640.webp 640w, /images/editorial/gwangju-culture-complex-station-sign-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Culture Complex Station platform sign in Korean and English above the platform doors",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gwangju-metro-104-Culture-complex-station-sign-20190521-082204.jpg",
+    "originalHash": "a638cf475e0597eff7055ce5bdb4cb7f0c43ebb142a5dbc84793d8a8b77336ec",
+    "capturedAt": "2019-05-21",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwangju-metro-104-Culture-complex-station-sign-20190521-082204.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangju-metro-104-Culture-complex-station-sign-20190521-082204.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-05-21. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "mokpo-marine-cable-car-cabins",
+    "src": "/images/editorial/mokpo-marine-cable-car-cabins-1280.webp",
+    "srcSet": "/images/editorial/mokpo-marine-cable-car-cabins-640.webp 640w, /images/editorial/mokpo-marine-cable-car-cabins-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "A Mokpo Marine Cable Car gondola and station at dusk",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Mokpo_Marine_Cable_Car_in_South_Korea_04.jpg",
+    "originalHash": "d71ac40d3f51d016944f6fb81f9e25f3b7b67fe7c7a8ea33d1160ac391c7f5e5",
+    "capturedAt": "2020-08-18",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Mokpo Marine Cable Car in South Korea 04.jpg",
+      "author": "Korea Tourism Organization",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mokpo_Marine_Cable_Car_in_South_Korea_04.jpg",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Photographed 2020-08-18. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "mokpo-marine-cable-car-crossing",
+    "src": "/images/editorial/mokpo-marine-cable-car-crossing-1280.webp",
+    "srcSet": "/images/editorial/mokpo-marine-cable-car-crossing-640.webp 640w, /images/editorial/mokpo-marine-cable-car-crossing-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Mokpo harbor and an illuminated bridge at dusk",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Mokpo_Marine_Cable_Car_in_South_Korea_09.jpg",
+    "originalHash": "c9ef7ff53b7e1758d6b1110f27003f0235c5dce1af350fd83450b427d60cb442",
+    "capturedAt": "2020-08-18",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Mokpo Marine Cable Car in South Korea 09.jpg",
+      "author": "Korea Tourism Organization",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mokpo_Marine_Cable_Car_in_South_Korea_09.jpg",
+      "license": "KOGL Type 1",
+      "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
+      "note": "Photographed 2020-08-18. Resized and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "mokpo-modern-history-museum-hall-one",
+    "src": "/images/editorial/mokpo-modern-history-museum-hall-one-1280.webp",
+    "srcSet": "/images/editorial/mokpo-modern-history-museum-hall-one-640.webp 640w, /images/editorial/mokpo-modern-history-museum-hall-one-1280.webp 1280w",
+    "width": 1280,
+    "height": 851,
+    "alt": "The red-brick facade of Mokpo Modern History Museum Hall 1",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Mokpo_Modern_History_Museum_(Building_1)_20241005_001.jpg",
+    "originalHash": "08a788f59b6d85c0361723dbdd9e3eb08447179ed2ee2c7438534c88800981b5",
+    "capturedAt": "2024-10-05",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Mokpo Modern History Museum (Building 1) 20241005 001.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mokpo_Modern_History_Museum_(Building_1)_20241005_001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-10-05. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "mokpo-modern-history-museum-hall-two",
+    "src": "/images/editorial/mokpo-modern-history-museum-hall-two-1280.webp",
+    "srcSet": "/images/editorial/mokpo-modern-history-museum-hall-two-640.webp 640w, /images/editorial/mokpo-modern-history-museum-hall-two-1280.webp 1280w",
+    "width": 1280,
+    "height": 881,
+    "alt": "The stone-fronted former Oriental Development Company building, now Mokpo Modern History Museum Hall 2",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Mokpo_Modern_History_Museum_(Building_2)_20241005_001.jpg",
+    "originalHash": "f60082caf8e6187575d40982070b481425e1f22879662970d310ac9f005e5ad7",
+    "capturedAt": "2024-10-05",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Mokpo Modern History Museum (Building 2) 20241005 001.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mokpo_Modern_History_Museum_(Building_2)_20241005_001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-10-05. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
   }
 ]

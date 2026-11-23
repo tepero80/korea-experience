@@ -1,10 +1,25 @@
+import type { Metadata } from 'next';
+import { SITE_CONFIG } from '@/lib/constants';
 import { getDestinations } from '@/lib/destinations';
 import { mediaFor } from '@/lib/media';
-export const metadata = {
-  title: 'Korea Travel Destinations by Region',
-  description:
-    'Choose a destination in Korea, then connect your arrival, base and sightseeing with reviewed local travel guides.',
-  alternates: { canonical: 'https://koreaexperience.com/destinations' },
+
+const title = 'Korea Travel Destinations by Region';
+const description =
+  'Compare Korean cities and regions, then connect your arrival, where to stay and what to see with practical local guides.';
+const url = `${SITE_CONFIG.url}/destinations`;
+const shareImage = {
+  url: '/images/cards/korea-travel-destinations.jpg',
+  width: 1200,
+  height: 630,
+  alt: 'Korea Travel Destinations, with traditional rooftops in Jeonju Hanok Village',
+};
+
+export const metadata: Metadata = {
+  title,
+  description,
+  alternates: { canonical: url },
+  openGraph: { title, description, url, type: 'website', siteName: SITE_CONFIG.name, images: [shareImage] },
+  twitter: { card: 'summary_large_image', title, description, images: [shareImage] },
 };
 export default function Destinations() {
   const destinations = getDestinations();
