@@ -724,5 +724,29 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "k-pop-busking-hongdae-street-performance-schedule": {
+    "mediaId": "archive-hongdae-eoulmadang-ro-2014",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "spring-in-korea-cherry-blossoms-and-festivals": {
+    "mediaId": "archive-jinhae-blossom-lined-street-2016",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026": {
+    "mediaId": "archive-imjingak-tourism-center-2022",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "seoul-museum-of-craft-art-visitor-guide": {
+    "mediaId": "seoul-craft-exterior-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

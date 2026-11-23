@@ -8877,7 +8877,9 @@
       }
     ],
     "tools": [],
-    "placeIds": [],
+    "placeIds": [
+      "seoul-craft-museum"
+    ],
     "sources": [
       {
         "id": "semoca-visitor-guide",
@@ -8916,16 +8918,17 @@
     "launchOrder": 1108,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Illustration: craft materials on a studio table",
-      "author": "Korea Experience Editorial",
-      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original in-repository vector still life. Not a photograph or depiction of the actual museum. No third-party image assets used."
+      "kind": "photograph",
+      "title": "Seoul Museum of Craft Art.jpg",
+      "author": "*Youngjin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Craft_Art.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-11-22. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
     },
-    "heroMediaId": "culture-seoul-craft-art-illustration",
-    "heroCaption": "Original editorial illustration—not a photograph or depiction of the actual museum.",
-    "cardImageLabel": "Illustration · not a site photo",
+    "heroMediaId": "seoul-craft-exterior-2024",
+    "heroCaption": "The Seoul Museum of Craft Art forecourt and exhibition buildings in Anguk, photographed in November 2024.",
+    "cardImageLabel": "Seoul Museum of Craft Art · 2024",
     "gallery": []
   },
   "jeju-winter-ferry-checklist-udo-gapa-marado": {
@@ -23059,5 +23062,266 @@
     },
     "gallery": [],
     "experienceVersion": 2
+  },
+  "k-pop-busking-hongdae-street-performance-schedule": {
+    "id": "guide:k-pop-busking-hongdae-street-performance-schedule",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Check Mapo’s outdoor performance calendar and match the listing to the named zone. Start from Exit 8 for the R2 street or Exit 9 for R1 Red Culture Market.",
+    "forWhom": "Visitors adding street performances to an evening in Hongdae",
+    "conditions": [
+      "Performance listings can change. A public stage may be quiet or unavailable when you arrive."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "street performances",
+      "night outings",
+      "Hongdae"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "next",
+        "label": "Fit Hongdae into a Seoul stay",
+        "reason": "Leave enough room for the evening and the route back."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Choose a rainy-day cluster",
+        "reason": "Plan a covered outing if the weather makes standing outdoors impractical."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check Mapo’s outdoor schedule",
+      "Exit 8 for R2, Exit 9 for R1",
+      "Plan a backup for the evening"
+    ],
+    "sources": [
+      {
+        "id": "guide:k-pop-busking-hongdae-street-performance-schedule-source-1",
+        "title": "Mapo district outdoor performance calendar",
+        "url": "https://www.mapo.go.kr/site/culture/stage_schedule/app_schedule",
+        "note": "Date-specific area and performance listings.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:k-pop-busking-hongdae-street-performance-schedule-source-2",
+        "title": "Visit Seoul R2",
+        "url": "https://english.visitseoul.net/attractions/Hongdae%20R2%20Busking%20Street_/48933",
+        "note": "Approach from Hongik University Station Exit 8.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:k-pop-busking-hongdae-street-performance-schedule-source-3",
+        "title": "Visit Seoul R1 Red Culture Market",
+        "url": "https://english.visitseoul.net/attractions/HONGDAE-R1/ENPidz0r2",
+        "note": "Separate site reached from Exit 9.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1252,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-hongdae-eoulmadang-ro-2014",
+    "heroCaption": "Eoulmadang-ro in Hongdae, December 2014. This photograph shows the neighborhood streetscape.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Minseong Kim",
+      "title": "Hongdae Street",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongdae_Street.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Eoulmadang-ro · 2014"
+  },
+  "spring-in-korea-cherry-blossoms-and-festivals": {
+    "id": "guide:spring-in-korea-cherry-blossoms-and-festivals",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "If you already have a Seoul base, keep a flexible Seokchon Lake walk. Choose Jinhae if you can commit a southern day and confirm both directions of travel.",
+    "forWhom": "Visitors planning a spring trip before bloom dates are certain",
+    "conditions": [
+      "Flowering and organized events are separate. Use date-specific updates for the edition you plan to attend."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "cherry blossoms",
+      "spring flowers",
+      "festival planning"
+    ],
+    "relations": [
+      {
+        "slug": "best-time-to-visit-korea-month-by-month-weather",
+        "type": "prepare",
+        "label": "Choose a wider travel window",
+        "reason": "Compare typical weather before fixing a trip around flowers."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Keep a Seoul weather backup",
+        "reason": "Use a covered cluster if bloom or walking conditions disappoint."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Keep a weather-flexible day",
+      "Trains do not stop at Gyeonghwa",
+      "Check bloom and event dates separately"
+    ],
+    "sources": [
+      {
+        "id": "guide:spring-in-korea-cherry-blossoms-and-festivals-source-1",
+        "title": "VisitKorea Gyeonghwa Station Cherry Blossom Street",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=&vcontsId=81715",
+        "note": "Former passenger stop and blossom walkway.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:spring-in-korea-cherry-blossoms-and-festivals-source-2",
+        "title": "VisitKorea Yeojwacheon Stream",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=93625",
+        "note": "Stream and Romance Bridge visitor area.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:spring-in-korea-cherry-blossoms-and-festivals-source-3",
+        "title": "VisitKorea Jinhae Gunhangje listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=124524",
+        "note": "Organizer information for checking the current edition.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:spring-in-korea-cherry-blossoms-and-festivals-source-4",
+        "title": "Visit Seoul Seokchon Lake Park",
+        "url": "https://english.visitseoul.net/jamsilarea/Seokchon-Lake-Park/ENP001136",
+        "note": "Lakeside walkway and blossom setting.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1253,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-jinhae-blossom-lined-street-2016",
+    "heroCaption": "Cherry blossoms above a Jinhae street in April 2016.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Alexey Komarov",
+      "title": "Cherry Blossom in Jinhae-2016-04-02-3.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Jinhae-2016-04-02-3.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Jinhae · April 2016"
+  },
+  "dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026": {
+    "id": "guide:dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "For Paju’s city-run tour, plan to get to Imjingak. For a commercial tour with Seoul pickup, get the exact meeting point and included stops before paying. Public Panmunjeom tours are suspended according to the visitor center.",
+    "forWhom": "Travelers arranging a day trip to Paju from Seoul",
+    "conditions": [
+      "Access can change due to weather, safety or operational requirements. Check both the city notice and your tour confirmation."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "DMZ tours",
+      "Paju",
+      "day trips"
+    ],
+    "relations": [
+      {
+        "slug": "exploring-korea-dmz-jsa-vs-tunnel-tours-which-is-better-2026",
+        "type": "prepare",
+        "label": "Compare the three access areas",
+        "reason": "Check which of the public park, the Paju tour and Panmunjeom suits your plans."
+      },
+      {
+        "slug": "imjingak-without-a-dmz-tour",
+        "type": "alternative",
+        "label": "Plan an independent Imjingak visit",
+        "reason": "Keep a public itinerary ready if your booked tour becomes unavailable."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "paju-imjingak-resort"
+    ],
+    "shareFacts": [
+      "Confirm your exact pickup point",
+      "Bring original accepted ID",
+      "Plan the return before paying"
+    ],
+    "sources": [
+      {
+        "id": "guide:dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026-source-1",
+        "title": "Paju City DMZ Peace Tour visitor rules",
+        "url": "https://www.paju.go.kr/m/tour/place/BD_tourPlaceInfoView.do?cntntsSn=374&menuCode=1&q_gubunCode=1004",
+        "note": "Imjingak ticketing, accepted ID, access restrictions and closures.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026-source-2",
+        "title": "Paju City official booking",
+        "url": "https://dmz.paju.go.kr/",
+        "note": "City-run tour availability and booking.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026-source-3",
+        "title": "Panmunjeom Visit Support Center",
+        "url": "https://www.panmuntour.go.kr/",
+        "note": "Current suspension announcement for general public Panmunjeom tours.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1254,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-imjingak-tourism-center-2022",
+    "heroCaption": "The Ecological Peace Tourism Information Center at Imjingak, photographed in November 2022. Use your booking information to locate the correct meeting spot.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "KSH1015",
+      "title": "임진각 관광센터",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9E%84%EC%A7%84%EA%B0%81_%EA%B4%80%EA%B4%91%EC%84%BC%ED%84%B0.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Imjingak · November 2022"
   }
 }

@@ -9016,5 +9016,71 @@
       "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
     },
     "capturedAt": "2016-02-22"
+  },
+  {
+    "id": "archive-hongdae-eoulmadang-ro-2014",
+    "src": "/images/editorial/archive-hongdae-eoulmadang-ro-2014-1280.webp",
+    "srcSet": "/images/editorial/archive-hongdae-eoulmadang-ro-2014-640.webp 640w, /images/editorial/archive-hongdae-eoulmadang-ro-2014-1280.webp 1280w",
+    "width": 1280,
+    "height": 822,
+    "alt": "Pedestrians and shopfronts on Eoulmadang-ro in Hongdae in 2014.",
+    "focal": "50% 63%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Hongdae_Street.jpg",
+    "originalHash": "447681afe262e1054b7d82dc3dd2401e28cb63f3e42d2d8fe04e06a3c0e8955c",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Minseong Kim",
+      "title": "Hongdae Street",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongdae_Street.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2014-12-24"
+  },
+  {
+    "id": "archive-jinhae-blossom-lined-street-2016",
+    "src": "/images/editorial/archive-jinhae-blossom-lined-street-2016-1280.webp",
+    "srcSet": "/images/editorial/archive-jinhae-blossom-lined-street-2016-640.webp 640w, /images/editorial/archive-jinhae-blossom-lined-street-2016-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Cherry blossoms above a street in Jinhae in spring.",
+    "focal": "50% 44%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Jinhae-2016-04-02-3.jpg",
+    "originalHash": "89f59041bce29f4b7b657653aefd116c97cac6ccd46d2ae188d960ac5d042666",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Alexey Komarov",
+      "title": "Cherry Blossom in Jinhae-2016-04-02-3.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Jinhae-2016-04-02-3.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2016-04-02"
+  },
+  {
+    "id": "archive-imjingak-tourism-center-2022",
+    "src": "/images/editorial/archive-imjingak-tourism-center-2022-1280.webp",
+    "srcSet": "/images/editorial/archive-imjingak-tourism-center-2022-640.webp 640w, /images/editorial/archive-imjingak-tourism-center-2022-1280.webp 1280w",
+    "width": 1280,
+    "height": 622,
+    "alt": "The entrance and visitor-information signs outside the tourism center at Imjingak in Paju.",
+    "focal": "54% 55%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%9E%84%EC%A7%84%EA%B0%81_%EA%B4%80%EA%B4%91%EC%84%BC%ED%84%B0.jpg",
+    "originalHash": "7d9b9a9f4129d7ae4d0fdab55e71953547d18881e218242f77565185beac5d59",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "KSH1015",
+      "title": "임진각 관광센터",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9E%84%EC%A7%84%EA%B0%81_%EA%B4%80%EA%B4%91%EC%84%BC%ED%84%B0.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2022-11-26"
   }
 ]

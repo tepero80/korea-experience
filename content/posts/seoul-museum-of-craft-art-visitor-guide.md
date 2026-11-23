@@ -5,7 +5,7 @@ updated: '2026-11-15'
 excerpt: >-
   Visit a free craft collection near Anguk Station, with the separate booking rules for the Children's Museum explained.
 category: culture-events
-image: /images/editorial/seoul-museum-craft-art-illustration.svg
+image: /images/editorial/seoul-craft-exterior-2024-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul

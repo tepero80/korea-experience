@@ -1484,17 +1484,18 @@
   },
   "seoul-museum-of-craft-art-visitor-guide": {
     "src": "/images/cards/seoul-museum-of-craft-art-visitor-guide.jpg",
-    "fingerprint": "ac0116b0c6ac20e3cf6d90ac01c6744b121c3081e1bd3e3d729f9915f65e256f",
-    "sourceImage": "/images/editorial/seoul-museum-craft-art-illustration.svg",
+    "fingerprint": "d1a139f9b6700705887294696d8a93f94c7fcc08a9f37bf52a7c0700dd2a5a3e",
+    "sourceImage": "/images/editorial/seoul-craft-exterior-2024-1280.webp",
     "credit": {
-      "kind": "illustration",
-      "title": "Illustration: craft materials on a studio table",
-      "author": "Korea Experience Editorial",
-      "license": "Original illustration; Korea Experience publication rights; no third-party facility photo",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original in-repository vector still life. Not a photograph or depiction of the actual museum; no third-party image assets used."
+      "kind": "photograph",
+      "title": "Seoul Museum of Craft Art.jpg",
+      "author": "*Youngjin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_Craft_Art.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-11-22. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
     },
-    "adaptation": "Illustration contained in a social preview composition; it does not depict a real facility."
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   },
   "jeju-winter-ferry-checklist-udo-gapa-marado": {
     "src": "/images/cards/jeju-winter-ferry-checklist-udo-gapa-marado.jpg",
@@ -3639,6 +3640,51 @@
       "license": "Public domain",
       "licenseUrl": "https://commons.wikimedia.org/wiki/Template:PD-self",
       "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "k-pop-busking-hongdae-street-performance-schedule": {
+    "src": "/images/cards/k-pop-busking-hongdae-street-performance-schedule.jpg",
+    "fingerprint": "03f79310b628648394184f530b356917d0b62117653d51d29b5e12584c7bcb39",
+    "sourceImage": "/images/editorial/archive-hongdae-eoulmadang-ro-2014-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Minseong Kim",
+      "title": "Hongdae Street",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hongdae_Street.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "spring-in-korea-cherry-blossoms-and-festivals": {
+    "src": "/images/cards/spring-in-korea-cherry-blossoms-and-festivals.jpg",
+    "fingerprint": "10f30521c733ec1a21eecc4a298715979e35402307923c7f9b97ce6f6723ab7e",
+    "sourceImage": "/images/editorial/archive-jinhae-blossom-lined-street-2016-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Alexey Komarov",
+      "title": "Cherry Blossom in Jinhae-2016-04-02-3.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Jinhae-2016-04-02-3.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026": {
+    "src": "/images/cards/dmz-tour-from-seoul-complete-guide-and-what-to-expect-2026.jpg",
+    "fingerprint": "30c1d0aacbe20e81bde088c47b3ea2b95e0f5e57062a72f3983fd3872cd9c850",
+    "sourceImage": "/images/editorial/archive-imjingak-tourism-center-2022-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "KSH1015",
+      "title": "임진각 관광센터",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9E%84%EC%A7%84%EA%B0%81_%EA%B4%80%EA%B4%91%EC%84%BC%ED%84%B0.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }

@@ -211,12 +211,12 @@
     "nameKo": "서울공예박물관",
     "latitude": 37.57633055555556,
     "longitude": 126.98336944444445,
-    "address": "서울 종로구 율곡로3길 4",
+    "address": "서울특별시 종로구 율곡로3길 4",
     "region": "seoul",
-    "description": "4 Yulgok-ro 3-gil, Jongno-gu, Seoul. Overview marker only. Open current local map/official facility guidance for exact entrance, accessibility and navigation.",
-    "officialUrl": "https://www.wikidata.org/wiki/Q97205213",
-    "checkedAt": "2026-10-30",
-    "sourceNote": "Coordinate source: https://www.wikidata.org/wiki/Q97205213. Not an entrance verification."
+    "description": "The museum directs subway visitors from Anguk Station Exit 1. Use the official directions for the specific building or entrance you need.",
+    "officialUrl": "https://craftmuseum.seoul.go.kr/preview/visit",
+    "checkedAt": "2026-11-24",
+    "sourceNote": "The museum verifies the street address and subway approach. The overview coordinate is from https://www.wikidata.org/wiki/Q97205213."
   },
   {
     "id": "dongbaekseom",
