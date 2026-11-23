@@ -2,7 +2,7 @@ import { GUIDES_PER_PAGE } from '@/components/site/GuideLibrary';
 import { CATEGORY_HUBS, PRACTICAL_TOOLS, SITE_CONFIG } from '@/lib/constants';
 import { mediaFor } from '@/lib/media';
 import { getAllPosts } from '@/lib/posts';
-import { REGIONS } from '@/lib/regions';
+import { getDestinations } from '@/lib/destinations';
 
 export const dynamic = 'force-static';
 
@@ -24,9 +24,8 @@ export function GET() {
     '/blog/category',
     ...CATEGORY_HUBS.map((category) => `/blog/category/${category.slug}`),
     ...PRACTICAL_TOOLS.map((tool) => tool.href),
-    ...REGIONS.filter(
-      (region) => posts.filter((post) => post.editorial?.regions.includes(region.id)).length >= 3,
-    ).map((region) => `/destinations/${region.id}`),
+    ...getDestinations().filter((region) => region.indexable)
+      .map((region) => `/destinations/${region.id}`),
     '/destinations',
     ...Array.from(
       { length: Math.max(0, Math.ceil(inventory.length / GUIDES_PER_PAGE) - 1) },

@@ -1,41 +1,41 @@
 import { notFound } from 'next/navigation';
 import Link from 'next/link';
-import { REGIONS } from '@/lib/regions';
-import { getLaunchGuides } from '@/lib/posts';
+import { getDestinations } from '@/lib/destinations';
+import { mediaFor } from '@/lib/media';
+import { SITE_CONFIG } from '@/lib/constants';
 import BlogCard from '@/components/BlogCard';
 type Params = Promise<{ region: string }>;
 export const dynamicParams = false;
 export function generateStaticParams() {
-  return REGIONS.map((r) => ({ region: r.id }));
+  return getDestinations().map((r) => ({ region: r.id }));
 }
 export async function generateMetadata({ params }: { params: Params }) {
   const id = (await params).region;
-  const r = REGIONS.find((r) => r.id === id);
-  const count = getLaunchGuides().filter((p) => p.editorial?.regions.includes(id)).length;
+  const region = getDestinations().find((item) => item.id === id);
+  if (!region) return { title: 'Destination not found', robots: { index: false } };
+  const title = `${region.name} travel planning guides`;
+  const url = `${SITE_CONFIG.url}/destinations/${id}`;
+  const photo = mediaFor(region.coverMediaId);
+  const image = photo && { url: SITE_CONFIG.url + photo.src, width: photo.width, height: photo.height, alt: photo.alt };
   return {
-    title: r ? `${r.name} travel planning guides` : 'Destination not found',
-    description: r?.intro,
-    robots: { index: count >= 3, follow: true },
-    alternates: { canonical: `https://koreaexperience.com/destinations/${id}` },
+    title,
+    description: region.intro,
+    robots: { index: region.indexable, follow: true },
+    alternates: { canonical: url },
+    openGraph: { title, description: region.intro, url, type: 'website' as const, images: image ? [image] : [] },
+    twitter: { title, description: region.intro, card: 'summary_large_image' as const, images: image ? [image] : [] },
   };
 }
 export default async function Destination({ params }: { params: Params }) {
   const id = (await params).region;
-  const region = REGIONS.find((r) => r.id === id);
+  const region = getDestinations().find((r) => r.id === id);
   if (!region) notFound();
-  const posts = getLaunchGuides().filter((p) => p.editorial?.regions.includes(id));
-  const firstDecisions = [
-    'seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style',
-    'airport-limousine-bus-vs-arex-express-train',
-    'seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026',
-    'seongsu-dong-dior-luxury-vs-market-eats-in-24-hours',
-    'seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets',
-    'how-to-order-food-in-korean-restaurants-phrases-guide-2026',
-  ];
-  const highlights =
-    id === 'seoul'
-      ? firstDecisions.map((slug) => posts.find((p) => p.slug === slug)!).filter(Boolean)
-      : posts;
+  const posts = region.posts;
+  const ranked = region.highlights?.flatMap((slug) => {
+    const post = posts.find((guide) => guide.slug === slug);
+    return post ? [post] : [];
+  });
+  const highlights = ranked?.length ? ranked : posts.slice(0, 6);
   const more = posts.filter((p) => !highlights.includes(p));
   return (
     <div className="wrap library-page">

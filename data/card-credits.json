@@ -1824,5 +1824,65 @@
       "note": "Photographed on August 7, 2011. Resized for WebP and cropped for the share card. Adaptations retain CC BY-SA 3.0."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "incheon-chinatown-open-port-walking-route": {
+    "src": "/images/cards/incheon-chinatown-open-port-walking-route.jpg",
+    "fingerprint": "6a41aba74a7a1a54cafe513472e68bbea87adab5f4d718a438dd2f89995e0583",
+    "sourceImage": "/images/editorial/incheon-open-port-chinatown-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "인천 차이나타운 정문 Incheon chinatown, Main gate.jpg",
+      "author": "이강철",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C_%EC%B0%A8%EC%9D%B4%EB%82%98%ED%83%80%EC%9A%B4_%EC%A0%95%EB%AC%B8_Incheon_chinatown%2C_Main_gate.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-11-23. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. This photograph does not verify current opening, services or access."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gyeongju-bulguksa-seokguram-without-a-car": {
+    "src": "/images/cards/gyeongju-bulguksa-seokguram-without-a-car.jpg",
+    "fingerprint": "f2e761689fd2fb1157a0a00184c684640e592c6691e9f25b9f9b9592a858ddc3",
+    "sourceImage": "/images/editorial/gyeongju-bulguksa-temple-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Bulguksa Temple, Gyeongju - Bulguska2632.jpg",
+      "author": "lumoplank",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bulguksa_Temple%2C_Gyeongju_-_Bulguska2632.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Uploaded before November 9, 2024. Resized and converted to WebP. This photograph does not verify current opening, services or access."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jeju-airport-to-jeju-city-and-seogwipo": {
+    "src": "/images/cards/jeju-airport-to-jeju-city-and-seogwipo.jpg",
+    "fingerprint": "a5ea4d4df4fd4c8bf9116cfe993a07aadfae5a327793f623c8563abd0fc8e7d3",
+    "sourceImage": "/images/editorial/jeju-airport-terminal-arrivals-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jejuairport2024.jpg",
+      "author": "Kimhs5400",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jejuairport2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-05-16. Resized and converted to WebP. This photograph does not verify current opening, services or access."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "suwon-nammun-market-lunch-walk": {
+    "src": "/images/cards/suwon-nammun-market-lunch-walk.jpg",
+    "fingerprint": "f32cae2fca9216e671636cb1f153915569f909b8c1e2cdd94e1597a3c686d316",
+    "sourceImage": "/images/editorial/suwon-nammun-paldalmun-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Paldalmun 20240929 003.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paldalmun_20240929_003.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-09-29. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. This photograph does not verify current opening, services or access."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

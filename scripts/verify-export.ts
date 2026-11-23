@@ -1,10 +1,13 @@
 import fs from 'node:fs';
 import { CATEGORY_HUBS, SITE_CONFIG } from '../lib/constants';
 import { getLaunchGuides } from '../lib/posts';
+import { getDestinations } from '../lib/destinations';
+import { mediaFor } from '../lib/media';
 import { TOOL_PREVIEWS, toolPreviewImage } from '../lib/tool-preview';
 import { parse, type DefaultTreeAdapterTypes as Tree } from 'parse5';
 const errors: string[] = [];
 const rssAlternate = 'rel="alternate" type="application/rss+xml" href="https://koreaexperience.com/feed"';
+const sitemap = fs.readFileSync('out/sitemap.xml', 'utf8');
 
 function exportedMetadata(html: string) {
   const tags = new Map<string, string>();
@@ -64,8 +67,31 @@ for (const p of getLaunchGuides()) {
     errors.push('Photo provenance missing ' + p.slug);
   if (!fs.existsSync(`out/images/cards/${p.slug}.jpg`))
     errors.push('Missing preview image ' + p.slug);
-  if (!fs.readFileSync('out/sitemap.xml', 'utf8').includes('/blog/' + p.slug + '</loc>'))
+  if (!sitemap.includes('/blog/' + p.slug + '</loc>'))
     errors.push('Missing sitemap entry ' + p.slug);
+}
+const directory = fs.readFileSync('out/destinations.html', 'utf8');
+for (const region of getDestinations()) {
+  const path = '/destinations/' + region.id;
+  const file = 'out' + path + '.html';
+  if (!fs.existsSync(file)) {
+    errors.push('Missing exported destination ' + path);
+    continue;
+  }
+  const html = fs.readFileSync(file, 'utf8');
+  const tags = exportedMetadata(html);
+  const photo = mediaFor(region.coverMediaId);
+  if (!directory.includes(`href="${path}"`)) errors.push('Missing directory link ' + path);
+  if (tags.get('canonical') !== SITE_CONFIG.url + path) errors.push('Destination canonical mismatch ' + path);
+  if (tags.get('robots')?.startsWith('index,') !== region.indexable || sitemap.includes(path + '</loc>') !== region.indexable)
+    errors.push('Destination visibility mismatch ' + path);
+  if (!photo || photo.credit.kind !== 'photograph' || !fs.existsSync('out' + photo.src) || tags.get('og:image') !== SITE_CONFIG.url + photo.src)
+    errors.push('Destination photo or share metadata missing ' + path);
+  for (const { slug } of region.posts) {
+    const guide = fs.readFileSync(`out/blog/${slug}.html`, 'utf8');
+    if (!html.includes(`href="/blog/${slug}"`) || !guide.includes(`href="${path}"`))
+      errors.push('Missing reciprocal destination link ' + path + ' / ' + slug);
+  }
 }
 const numberingDir = 'out/blog/page';
 const numberedPages = fs.existsSync(numberingDir)

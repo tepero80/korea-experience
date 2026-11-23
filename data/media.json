@@ -2938,5 +2938,171 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Photographed on July 23, 2012. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0."
     }
+  },
+  {
+    "id": "incheon-open-port-art-platform",
+    "src": "/images/editorial/incheon-open-port-art-platform-1280.webp",
+    "srcSet": "/images/editorial/incheon-open-port-art-platform-640.webp 640w, /images/editorial/incheon-open-port-art-platform-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Red-brick buildings and pedestrian lane at Incheon Art Platform",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Incheon_Art_Flatform_191124001.jpg",
+    "originalHash": "08d377b8e3ad4022ca1a5911650fad86e3243a1cb69518793e05b3fd025e8ed5",
+    "capturedAt": "2019-11-24",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Incheon Art Flatform 191124001.jpg",
+      "author": "Jjw",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Incheon_Art_Flatform_191124001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-11-24. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. This photograph does not verify current opening, services or access."
+    }
+  },
+  {
+    "id": "gyeongju-bulguksa-temple",
+    "src": "/images/editorial/gyeongju-bulguksa-temple-1280.webp",
+    "srcSet": "/images/editorial/gyeongju-bulguksa-temple-640.webp 640w, /images/editorial/gyeongju-bulguksa-temple-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Bulguksa Temple courtyard and wooden hall in Gyeongju",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Bulguksa_Temple%2C_Gyeongju_-_Bulguska2632.jpg",
+    "originalHash": "ed715cb4b968292b8c4cbd05c0e3e6e1400983da5435077b2ea26111b3cf34d9",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Bulguksa Temple, Gyeongju - Bulguska2632.jpg",
+      "author": "lumoplank",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bulguksa_Temple%2C_Gyeongju_-_Bulguska2632.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Uploaded before November 9, 2024. Resized and converted to WebP. This photograph does not verify current opening, services or access."
+    }
+  },
+  {
+    "id": "gyeongju-seokguram-entrance",
+    "src": "/images/editorial/gyeongju-seokguram-entrance-1280.webp",
+    "srcSet": "/images/editorial/gyeongju-seokguram-entrance-640.webp 640w, /images/editorial/gyeongju-seokguram-entrance-1280.webp 1280w",
+    "width": 1280,
+    "height": 823,
+    "alt": "Timber entrance building at the Seokguram site, photographed in 2022",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seokguram_Grotto_03.jpg",
+    "originalHash": "6758e7db140197ab65076b4ed0adea073cfc718357a4532868d4861e66142123",
+    "capturedAt": "2022-10-06",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seokguram Grotto 03.jpg",
+      "author": "Bernard Gagnon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seokguram_Grotto_03.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2022-10-06. Resized and converted to WebP. This photograph does not verify current opening, services or access."
+    }
+  },
+  {
+    "id": "jeju-airport-terminal-arrivals",
+    "src": "/images/editorial/jeju-airport-terminal-arrivals-1280.webp",
+    "srcSet": "/images/editorial/jeju-airport-terminal-arrivals-640.webp 640w, /images/editorial/jeju-airport-terminal-arrivals-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Terminal exterior and access road at Jeju International Airport in May 2024",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Jejuairport2024.jpg",
+    "originalHash": "90959890844e051f444118246230a72e9309dbaf94268bc1c1b6cf02dbcd3d74",
+    "capturedAt": "2024-05-16",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jejuairport2024.jpg",
+      "author": "Kimhs5400",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jejuairport2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-05-16. Resized and converted to WebP. This photograph does not verify current opening, services or access."
+    }
+  },
+  {
+    "id": "jeju-icc-exterior-2013",
+    "src": "/images/editorial/jeju-icc-exterior-2013-800.webp",
+    "srcSet": "/images/editorial/jeju-icc-exterior-2013-640.webp 640w, /images/editorial/jeju-icc-exterior-2013-800.webp 800w",
+    "width": 800,
+    "height": 643,
+    "alt": "Exterior of International Convention Center Jeju in Jungmun",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Venue_Jeju_ICC.jpg",
+    "originalHash": "0b1b074c462199a72d63c70a788542894f40ae5abaf38b4ec1e3f7ed18b9917a",
+    "capturedAt": "2013-10-10",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Venue Jeju ICC.jpg",
+      "author": "Mapwwide",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Venue_Jeju_ICC.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2013-10-10. Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. This photograph does not verify current opening, services or access."
+    }
+  },
+  {
+    "id": "suwon-nammun-paldalmun",
+    "src": "/images/editorial/suwon-nammun-paldalmun-1280.webp",
+    "srcSet": "/images/editorial/suwon-nammun-paldalmun-640.webp 640w, /images/editorial/suwon-nammun-paldalmun-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Paldalmun Gate beside streets in central Suwon in September 2024",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Paldalmun_20240929_003.jpg",
+    "originalHash": "0280ff4286d7b6dc0e5e91d90daf45b1cf57fdaa8c84a666066413127fe2d4ee",
+    "capturedAt": "2024-09-29",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Paldalmun 20240929 003.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paldalmun_20240929_003.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-09-29. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. This photograph does not verify current opening, services or access."
+    }
+  },
+  {
+    "id": "suwon-market-area-stream",
+    "src": "/images/editorial/suwon-market-area-stream-1280.webp",
+    "srcSet": "/images/editorial/suwon-market-area-stream-640.webp 640w, /images/editorial/suwon-market-area-stream-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Suwoncheon stream through central Suwon in a historic photograph",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Suwoncheon_in_Central_Suwon.jpg",
+    "originalHash": "05c5f6621c23cd7473651235ba3adf527d403327707f58679a58dce7b1e5462f",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Suwoncheon in Central Suwon.jpg",
+      "author": "Jpbarrass",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suwoncheon_in_Central_Suwon.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Suwoncheon_in_Central_Suwon.jpg#Licensing",
+      "note": "Original upload October 2007. Resized and converted to WebP. This photograph does not verify current opening, services or access."
+    }
+  },
+  {
+    "id": "incheon-open-port-chinatown",
+    "src": "/images/editorial/incheon-open-port-chinatown-1280.webp",
+    "srcSet": "/images/editorial/incheon-open-port-chinatown-640.webp 640w, /images/editorial/incheon-open-port-chinatown-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Incheon Chinatown main gate framing the uphill street in November 2019",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C_%EC%B0%A8%EC%9D%B4%EB%82%98%ED%83%80%EC%9A%B4_%EC%A0%95%EB%AC%B8_Incheon_chinatown%2C_Main_gate.jpg",
+    "originalHash": "2e8342ee4e9e74d283a3cc6737983567650741e4cbce2b375b126740ba4f75ce",
+    "capturedAt": "2019-11-23",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "인천 차이나타운 정문 Incheon chinatown, Main gate.jpg",
+      "author": "이강철",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C_%EC%B0%A8%EC%9D%B4%EB%82%98%ED%83%80%EC%9A%B4_%EC%A0%95%EB%AC%B8_Incheon_chinatown%2C_Main_gate.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-11-23. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. This photograph does not verify current opening, services or access."
+    }
   }
 ]

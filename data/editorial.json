@@ -568,7 +568,8 @@
       "A later Digital Media City train does not reach Hongdae or Seoul Station."
     ],
     "regions": [
-      "seoul"
+      "seoul",
+      "incheon"
     ],
     "stages": [
       "arrival",
@@ -1843,6 +1844,12 @@
       "planning"
     ],
     "relations": [
+      {
+        "slug": "suwon-nammun-market-lunch-walk",
+        "type": "nearby",
+        "label": "Choose lunch near Paldalmun",
+        "reason": "Select a market and map stop before the next fortress section."
+      },
       {
         "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
         "type": "next",
@@ -3981,6 +3988,12 @@
       "transport"
     ],
     "relations": [
+      {
+        "slug": "gyeongju-bulguksa-seokguram-without-a-car",
+        "type": "next",
+        "label": "Check the temple bus connection",
+        "reason": "Find the stops and confirm your downhill return."
+      },
       {
         "slug": "intercity-bus-travel-booking-apps-and-routes",
         "type": "prepare",
@@ -9120,6 +9133,12 @@
     ],
     "relations": [
       {
+        "slug": "jeju-airport-to-jeju-city-and-seogwipo",
+        "type": "prepare",
+        "label": "Find your Jeju Airport connection",
+        "reason": "Choose the hotel stop before planning an old-town meal."
+      },
+      {
         "slug": "jeju-island-complete-travel-guide-best-time-to-visit-2026",
         "type": "prepare",
         "label": "Plan the wider Jeju trip",
@@ -10349,6 +10368,12 @@
     ],
     "relations": [
       {
+        "slug": "incheon-chinatown-open-port-walking-route",
+        "type": "next",
+        "label": "Take a separate Open Port outing",
+        "reason": "Allow time to reach Incheon Station before the Chinatown walk."
+      },
+      {
         "slug": "airport-limousine-bus-vs-arex-express-train",
         "type": "next",
         "label": "Choose the ride to your hotel",
@@ -10882,5 +10907,380 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "note": "Photographed on August 7, 2011. Resized for WebP and cropped for the share card. Adaptations retain CC BY-SA 3.0."
     }
+  },
+  "incheon-chinatown-open-port-walking-route": {
+    "id": "incheon-open-port-walk",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Start at Incheon Station, walk through Chinatown and the Open Port, and finish at Sinpo Market or return early.",
+    "forWhom": "Travelers with a half day and no car in central Incheon",
+    "conditions": [
+      "Plan the museum around last admission and Monday closure.",
+      "Skip the uphill park when surfaces or timing are difficult."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "heritage",
+      "markets",
+      "walking"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-airport-survival-guide-2026",
+        "type": "prepare",
+        "label": "Arriving through Incheon Airport?",
+        "reason": "Allow a separate journey to Incheon Station."
+      },
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "next",
+        "label": "Plan your Seoul days",
+        "reason": "Give the Open Port its own half day before adding Seoul sightseeing."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "incheon-jajangmyeon-museum",
+      "incheon-art-platform"
+    ],
+    "sources": [
+      {
+        "id": "incheon-open-port-walk-source-1",
+        "title": "Incheon Tourism: Open Port walk",
+        "url": "https://eng-itour.incheon.go.kr/cmn/board/BBSMSTR_000000000080/2467bbsDetail.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-open-port-walk-source-2",
+        "title": "Jung-gu Cultural Foundation: visitor guide",
+        "url": "https://www.jcf.or.kr/main/space/leaflet.jsp",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-open-port-walk-source-3",
+        "title": "Incheon Art Platform: directions",
+        "url": "https://inartplatform.kr/intro/location",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-open-port-walk-source-4",
+        "title": "Incheon Tourism: Jayu Park approach",
+        "url": "https://eng-itour.incheon.go.kr/cmn/board/BBSMSTR_000000000080/5811bbsDetail.do",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "incheon-open-port-walk-source-5",
+        "title": "Korea Tourism Organization: Sinpo International Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=977&vcontsId=174438",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Use Incheon Station as your city starting point.",
+      "Plan the museum before adding the uphill park.",
+      "Finish at Sinpo Market or return early."
+    ],
+    "launchOrder": 1131,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "인천 차이나타운 정문 Incheon chinatown, Main gate.jpg",
+      "author": "이강철",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C_%EC%B0%A8%EC%9D%B4%EB%82%98%ED%83%80%EC%9A%B4_%EC%A0%95%EB%AC%B8_Incheon_chinatown%2C_Main_gate.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-11-23. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. This photograph does not verify current opening, services or access."
+    },
+    "heroMediaId": "incheon-open-port-chinatown",
+    "heroCaption": "Chinatown’s main gate in November 2019. Follow current signs for your walk.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gyeongju-bulguksa-seokguram-without-a-car": {
+    "id": "gyeongju-bulguksa-seokguram-car-free",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Start with Bulguksa, then take bus 12 to Seokguram only after confirming a downhill return.",
+    "forWhom": "Car-free visitors pairing Bulguksa Temple and Seokguram Grotto",
+    "conditions": [
+      "The temple, upper parking stop and grotto are separate points.",
+      "If you cannot verify the return, choose the temple only."
+    ],
+    "regions": [
+      "gyeongju"
+    ],
+    "stages": [
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "heritage",
+      "car-free",
+      "temples"
+    ],
+    "relations": [
+      {
+        "slug": "gyeongju-ktx-to-hwangnidan",
+        "type": "prepare",
+        "label": "Plan the KTX station transfer",
+        "reason": "Decide whether to leave luggage in the center before the hillside visit."
+      },
+      {
+        "slug": "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026",
+        "type": "next",
+        "label": "Plan the central Silla sites",
+        "reason": "Use a separate time block for the historic center."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gyeongju-bulguksa",
+      "gyeongju-seokguram",
+      "gyeongju-seokguram-parking"
+    ],
+    "sources": [
+      {
+        "id": "gyeongju-bulguksa-seokguram-car-free-source-1",
+        "title": "Gyeongju City: live bus routes and stops",
+        "url": "https://livebus.gyeongju.go.kr/",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gyeongju-bulguksa-seokguram-car-free-source-2",
+        "title": "Gyeongju City: Bulguksa and Seokguram connections",
+        "url": "https://www.gyeongju.go.kr/open_content/english/page.do?mnu_uid=1371&parm_bod_uid=259387&step=258",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gyeongju-bulguksa-seokguram-car-free-source-3",
+        "title": "Bulguksa Temple: visitor information",
+        "url": "https://bulguksa.or.kr/bbs/content.php?co_id=application",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "gyeongju-bulguksa-seokguram-car-free-source-4",
+        "title": "Seokguram Grotto: admission information",
+        "url": "https://www.seokguram.org/bbs/content.php?co_id=price",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Choose the downhill return before boarding bus 12.",
+      "Bulguksa and Seokguram have separate entry cutoffs.",
+      "Keep a temple-only fallback."
+    ],
+    "launchOrder": 1132,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Bulguksa Temple, Gyeongju - Bulguska2632.jpg",
+      "author": "lumoplank",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bulguksa_Temple%2C_Gyeongju_-_Bulguska2632.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Uploaded before November 9, 2024. Resized and converted to WebP. This photograph does not verify current opening, services or access."
+    },
+    "heroMediaId": "gyeongju-bulguksa-temple",
+    "heroCaption": "Bulguksa Temple’s courtyard and timber buildings. Check current access separately.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "jeju-airport-to-jeju-city-and-seogwipo": {
+    "id": "jeju-airport-transfer-city-seogwipo",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-23",
+    "answer": "Use your hotel’s Korean address to choose a Jeju City bus, a Jungmun limousine or the service reaching your part of Seogwipo.",
+    "forWhom": "Travelers arriving at Jeju Airport without a rental car",
+    "conditions": [
+      "Confirm the exact destination and direction on the current board.",
+      "Keep a taxi fallback when the last bus or walk is uncertain."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around"
+    ],
+    "interests": [
+      "airport",
+      "bus",
+      "car-free"
+    ],
+    "relations": [
+      {
+        "slug": "jeju-muslim-friendly-dining-in-jeju-city",
+        "type": "next",
+        "label": "Find a first meal in Jeju City",
+        "reason": "Choose an old-town option after dropping your bags."
+      },
+      {
+        "slug": "jeju-winter-ferry-checklist-udo-gapa-marado",
+        "type": "next",
+        "label": "Check the next day’s ferry",
+        "reason": "Protect your island return separately from airport arrival."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-airport-arrival",
+      "jeju-icc-jungmun"
+    ],
+    "sources": [
+      {
+        "id": "jeju-airport-transfer-city-seogwipo-source-1",
+        "title": "Korea Airports Corporation: Jeju terminal access",
+        "url": "https://www.airport.co.kr/jejueng/cms/frCon/index.do?MENU_ID=210",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-airport-transfer-city-seogwipo-source-2",
+        "title": "Korea Airports Corporation: airport buses",
+        "url": "https://www.airport.co.kr/jejueng/cms/frCon/index.do?CONTENTS_NO=1&MENU_ID=90",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-airport-transfer-city-seogwipo-source-3",
+        "title": "Jeju Province: bus service patterns",
+        "url": "https://bus.jeju.go.kr/publicTrafficInformation/generalBusSchedule",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-airport-transfer-city-seogwipo-source-4",
+        "title": "Jeju Province: current directional timetables",
+        "url": "https://bus.jeju.go.kr/mobile/schedule/listSchedule",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "jeju-airport-transfer-city-seogwipo-source-5",
+        "title": "Korea Airports Corporation: Jeju airport taxis",
+        "url": "https://www.airport.co.kr/jejueng/cms/frCon/index.do?CONTENTS_NO=2&MENU_ID=90",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Find the exact hotel stop before boarding.",
+      "Check which airport route reaches your part of Jeju.",
+      "Keep a late-arrival fallback."
+    ],
+    "launchOrder": 1133,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jejuairport2024.jpg",
+      "author": "Kimhs5400",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jejuairport2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2024-05-16. Resized and converted to WebP. This photograph does not verify current opening, services or access."
+    },
+    "heroMediaId": "jeju-airport-terminal-arrivals",
+    "heroCaption": "Jeju International Airport in May 2024. Follow current signs for your arrival stop.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "suwon-nammun-market-lunch-walk": {
+    "id": "suwon-nammun-lunch",
+    "categoryId": "food-dining",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Choose Jidong for a sit-down market meal or Motgol for a short browse, and keep time for your next Hwaseong stop.",
+    "forWhom": "Visitors choosing a lunch stop near Suwon Hwaseong",
+    "conditions": [
+      "Nammun covers several separately named markets.",
+      "Confirm the chosen stall, arrival route and return time."
+    ],
+    "regions": [
+      "suwon"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "markets",
+      "food",
+      "walking"
+    ],
+    "relations": [
+      {
+        "slug": "suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026",
+        "type": "nearby",
+        "label": "Continue to the palace and fortress",
+        "reason": "Protect palace admission and leave room for the wall walk."
+      },
+      {
+        "slug": "suwon-hwaseong-museum-before-fortress",
+        "type": "alternative",
+        "label": "Check the fortress museum in wet weather",
+        "reason": "The indoor option depends on its own schedule."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "suwon-jidong-market",
+      "suwon-motgol-market"
+    ],
+    "sources": [
+      {
+        "id": "suwon-nammun-lunch-source-1",
+        "title": "Korea Tourism Organization: Suwon Nammun Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=977&vcontsId=1590054",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suwon-nammun-lunch-source-2",
+        "title": "Suwon City: traditional markets",
+        "url": "https://www.suwon.go.kr/sw-www/deptHome/dep_eco/eco02/eco02_01/eco02-01_08.jsp",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suwon-nammun-lunch-source-3",
+        "title": "Suwon City: English market map",
+        "url": "https://www.suwon.go.kr/webcontent/ckeditor/2019/1/28/22c61a9a-2220-4abc-a683-ea4bd025f901.pdf",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "suwon-nammun-lunch-source-4",
+        "title": "Korea Tourism Organization: Yeongdong Market",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=70886",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Look up Jidong or Motgol by its own name.",
+      "Leave time for the next admission cutoff.",
+      "Confirm the specific stall’s hours."
+    ],
+    "launchOrder": 1134,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Paldalmun 20240929 003.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paldalmun_20240929_003.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-09-29. Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. This photograph does not verify current opening, services or access."
+    },
+    "heroMediaId": "suwon-nammun-paldalmun",
+    "heroCaption": "Paldalmun Gate, photographed in September 2024. Follow marked crossings from surrounding streets.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

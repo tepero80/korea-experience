@@ -1,43 +1,54 @@
 import Link from 'next/link';
-import { REGIONS } from '@/lib/regions';
+import { getDestinations } from '@/lib/destinations';
+import { mediaFor } from '@/lib/media';
 export const metadata = {
-  title: 'Find your place in Korea',
+  title: 'Korea Travel Destinations by Region',
   description:
-    'Start with Seoul, Busan or Suwon and connect a realistic base, route, food stops and transport.',
+    'Choose a destination in Korea, then connect your arrival, base and sightseeing with reviewed local travel guides.',
   alternates: { canonical: 'https://koreaexperience.com/destinations' },
 };
 export default function Destinations() {
+  const destinations = getDestinations();
+  const areas = [...new Set(destinations.map((region) => region.area))];
   return (
     <div className="wrap library-page">
       <div className="page-intro">
-        <p className="eyebrow">Find your place</p>
-        <h1 className="section-title">
-          Explore a little deeper.
-          <br />
-          <em>Travel a little easier.</em>
-        </h1>
-        <p>
-          Start with the area, then build days that make sense on the map. These focused collections
-          are growing as we verify more useful local information.
-        </p>
+        <h1 className="section-title">Where to go in Korea</h1>
+        <p>Choose an area, then plan your arrival, where to stay and what fits in a day.</p>
       </div>
-      <div className="guide-grid">
-        {REGIONS.map((r) => (
-          <Link href={`/destinations/${r.id}`} className="guide-card" key={r.id}>
-            <div className="guide-card-image">
-              <img src={r.image} alt="" width="960" height="640" />
-            </div>
-            <div className="guide-card-copy">
-              <span className="eyebrow" lang="ko">
-                {r.nameKo}
-              </span>
-              <h2>{r.name}</h2>
-              <p>{r.intro}</p>
-              <span className="text-link">Explore the collection ↗</span>
-            </div>
-          </Link>
-        ))}
-      </div>
+      {areas.map((area) => (
+        <section className="destination-area" key={area}>
+          <h2 className="section-title">{area}</h2>
+          <div className="guide-grid">
+            {destinations.filter((region) => region.area === area).map((region) => {
+              const photo = mediaFor(region.coverMediaId);
+              return (
+                <Link href={`/destinations/${region.id}`} className="guide-card" key={region.id}>
+                  {photo ? (
+                    <div className="guide-card-image">
+                      <img
+                        src={photo.src}
+                        srcSet={photo.srcSet}
+                        sizes="(max-width: 700px) calc(100vw - 40px), 420px"
+                        alt=""
+                        width={photo.width}
+                        height={photo.height}
+                        loading="lazy"
+                      />
+                    </div>
+                  ) : null}
+                  <div className="guide-card-copy">
+                    <span className="eyebrow" lang="ko">{region.nameKo}</span>
+                    <h3>{region.name}</h3>
+                    <p>{region.intro}</p>
+                    <span className="text-link">Explore the collection ↗</span>
+                  </div>
+                </Link>
+              );
+            })}
+          </div>
+        </section>
+      ))}
     </div>
   );
 }

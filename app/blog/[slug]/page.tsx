@@ -15,6 +15,8 @@ import AdSlot from '@/components/site/AdSlot';
 import GuideCommunity from '@/components/site/GuideCommunity';
 import GuideSignals from '@/components/site/GuideSignals';
 import { mediaFor, mediaForSource } from '@/lib/media';
+import { getDestinations } from '@/lib/destinations';
+import { isInRegion } from '@/lib/regions';
 type Params = Promise<{ slug: string }>;
 export function generateStaticParams() {
   return getAllPosts().map((p) => ({ slug: p.slug }));
@@ -41,6 +43,9 @@ export default async function Guide({ params }: { params: Params }) {
   const related = getRelatedPosts(post.slug, 3);
   const places = placesFor(e?.placeIds || []);
   const tools = PRACTICAL_TOOLS.filter((t) => e?.tools.includes(t.href.split('/').pop()!));
+  const destinations = e?.regions.length
+    ? getDestinations().filter((region) => isInRegion(e.regions, region.id))
+    : [];
   const breadcrumb = breadcrumbSchema([
     { name: 'Home', path: '/' },
     { name: 'Guides', path: '/blog' },
@@ -204,6 +209,15 @@ export default async function Guide({ params }: { params: Params }) {
             <article className="article-body">{compiled.content}</article>
             <AdSlot key={post.id} />
             <PlaceMap places={places} guideId={post.id} />
+            {destinations.length ? (
+              <nav className="article-destinations" aria-label="Destination guides">
+                {destinations.map((region) => (
+                  <Link className="text-link" key={region.id} href={`/destinations/${region.id}`}>
+                    Explore {region.name} ↗
+                  </Link>
+                ))}
+              </nav>
+            ) : null}
             {e?.sources.length ? (
               <section className="source-box" id="sources-and-checks">
                 <p className="eyebrow">Trace the important details</p>

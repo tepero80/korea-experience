@@ -1220,6 +1220,23 @@ button:disabled {
   margin: 32px 0;
   border-block: 1px solid var(--ke-line);
 }
+.destination-area + .destination-area {
+  margin-top: 46px;
+}
+.destination-area > h2 {
+  margin-bottom: 16px;
+}
+.article-destinations {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 20px;
+  margin: 24px 0;
+}
+.article-destinations a {
+  min-height: 44px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
 .destination-directory li a > span {
   display: block;
   font-size: 13px;
