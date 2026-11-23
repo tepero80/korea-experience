@@ -2,6 +2,7 @@ import fs from 'node:fs';
 import { REPORTING_TARGETS, reportingAccessToken, safeReportingError } from './reporting/auth';
 import { reportingWindows, contentForReportUrl } from './reporting/report-policy';
 import { retainObservedReports, type ReportHistory } from './reporting/history';
+import { compareGrowth } from './reporting/growth-comparison';
 import {
   gscReport,
   gaReport,
@@ -123,6 +124,12 @@ async function main() {
     ]),
   );
   const historyPath = '.private/reports/metrics-last-success.json';
+  const growthPlan = '.private/reports/growth-comparison.json';
+  const growth = fs.existsSync(growthPlan)
+    ? await Promise.resolve()
+        .then(() => compareGrowth(JSON.parse(fs.readFileSync(growthPlan, 'utf8')), now, tokens))
+        .catch(() => ({ status: 'invalid-plan' as const }))
+    : { status: 'not-configured' as const };
   const previousSuccesses: ReportHistory = fs.existsSync(historyPath)
     ? JSON.parse(fs.readFileSync(historyPath, 'utf8'))
     : {};
@@ -137,6 +144,15 @@ async function main() {
     { key: 'policy', result: policy },
     { key: 'alerts', result: alerts },
     { key: 'gsc/sitemaps', result: sitemaps },
+    ...('periods' in growth
+      ? growth.periods.flatMap(({ dates, gsc, ga4, landing }) =>
+          [gsc, ga4, landing].flatMap(({ report }) =>
+            report
+              ? [{ key: `growth/${dates.startDate}/${report.name}`, window: dates, result: report }]
+              : [],
+          ),
+        )
+      : []),
   ]);
   const report = {
     at: now.toISOString(),
@@ -152,6 +168,7 @@ async function main() {
     policy,
     alerts,
     sitemaps,
+    growth,
     lastSuccess: Object.fromEntries(
       Object.entries(successes).map(([key, value]) => [
         key,
@@ -176,6 +193,7 @@ async function main() {
   console.log(
     `Policy: ${policy.status}; alerts: ${alerts.status}; GSC sitemap submissions: ${sitemaps.status}. Raw data saved privately.`,
   );
+  console.log(`Fixed growth comparison: ${growth.status}`);
 }
 main().catch(() => {
   console.error('Reporting execution failed; no credentials or raw provider errors are printed.');

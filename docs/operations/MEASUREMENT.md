@@ -37,6 +37,8 @@ Reports save only under ignored `.private/reports`, with current and previous ad
 
 Search Console sitemap observations record the provider's last download, pending status, warnings and errors for the approved property. Compare Google's downloaded version with the current public sitemap. Sitemap submission counts and HTTP responses do not establish which URLs Google has indexed.
 
+An active comparison in `.private/reports/growth-comparison.json` adds two adjacent post-release weeks and selected canonical guides to the existing `npm run metrics` checks. Each source waits for three full days in its reporting timezone after the period ends. The report keeps finalized search and consented analytics separate and preserves missing rows. A comparison can support a decision about growth, subject to coverage and sample size.
+
 Pagination is bounded at100,000 rows and explicitly partial when capped. Actual URL inspection describes Google's indexed version, not a live crawl or indexing request. Unknown backlinks and first-public dates still block retirement. Keep dated browser snapshots as supplementary evidence rather than silently merging periods/scopes.
 
 ## Performance and social evidence
