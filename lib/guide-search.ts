@@ -130,6 +130,11 @@ const namedTravelSearches = [
   [/\bgwanggyo lake\b/, ['suwon-gwanggyo-lake-park-short-walk']],
   [/\bbomun lake\b/, ['gyeongju-bomun-lake-walk-short-or-loop']],
   [/\bsorae\b.*\bwetlands?\b/, ['sorae-wetland-ecology-park-winter-walk', 'songdo-central-park-visit-plan']],
+  [/\bjongmyo\b.*\b(?:shrine|guided|gate|admission|tour)\b/, ['jongmyo-shrine-guided-entry-and-north-gate', 'changgyeonggung-ordinary-evening-visit']],
+  [/\bgimpo\b.*\baviation museum\b/, ['gimpo-domestic-terminal-to-national-aviation-museum', 'seoul-botanic-park-winter-family']],
+  [/\b(?:u square|usquare)\b.*\b(?:culture center|acc)\b/, ['gwangju-u-square-bus-terminal-to-asia-culture-center', 'gwangju-songjeong-station-to-asia-culture-center']],
+  [/\b(?:sasang|seobu)\b.*\b(?:gimhae|airport)\b/, ['busan-seobu-bus-terminal-to-gimhae-airport']],
+  [/\bkspo dome\b/, ['kspo-dome-olympic-park-station-concert-route']],
 ] as const;
 
 function focusedGuides(phrase: string) {

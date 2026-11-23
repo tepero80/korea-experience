@@ -29,7 +29,7 @@ Use specific orientation and at least three verified indexable guides before lis
 ## Production batches
 
 1. Inventory existing signatures by title, coverage, question and canonical URL. Protect established landing pages. Choose each proposed new article only after checking for equivalent content, season, sources, a suitable photo and a practical next step. Repairs to old articles can support a batch and are tracked separately.
-2. Work in up to six regional batches of about ten new articles. Adjust the mix to evidence while keeping the total at 60 and building enough depth for each hub. Each batch may link arrival, a base, a route, accessibility or weather decisions, and an adjacent destination or relevant tool.
+2. Publish small verified groups, with up to 20 new articles in one deployment. Adjust the mix to evidence while keeping the total at 60 and building enough depth for each hub. Each group can connect arrival, a base, a route, accessibility or weather decisions, and an adjacent destination or relevant tool.
 3. Write the essential answer above the fold. Include verified planning constraints, localized names and maps or useful visual aids when they help. Include an operator link for a changeable decision. Use relevant related links with readable reasons. Export responsive photos and check share cards against the actual destination and conditions.
 4. Run the repository's content, media, rendered-link, share card, sitemap and export checks. Check actual 320/390/768/1440 rendering and travel tasks, accessible open and error states, map alternatives and sharing. Push reviewed batches to `main`, match Cloudflare Production to the exact commit and verify the changed routes on the public domain.
 5. Record each production URL, publication date, batch, destination, evidence, recovery commit and 7/14/28-day checks. Keep raw provider reports in the private operations directory. Track Search Console acquisition and new/return activity with the existing GA4 and AdSense reporting setup. Report absent or provisional data according to the [measurement contract](../operations/MEASUREMENT.md).
@@ -42,7 +42,7 @@ Start from a measured comparison of the current labeled article ad and the same 
 
 The starting directory had three destinations. Count new articles once each production URL is verified. The release ledger in `.private/reports/growth-expansion-ledger.json` retains individual URLs, deployment IDs, observation dates and evidence. Measure earlier recovery and new batches against their own release dates.
 
-| Verified batch | Production commit | New guides in batch | Running total | Published hubs |
+| Batch | Production evidence | New guides in batch | Running total | Published hubs |
 |---|---|---:|---:|---:|
 | Incheon, Gyeongju, Jeju and Suwon | `e40813f` | 4 | 4 | 6 |
 | Daegu and Jeonju, plus Incheon, Gyeongju and Jeju routes | `bfd9fb4` | 8 | 12 | 8 |
@@ -50,5 +50,13 @@ The starting directory had three destinations. Count new articles once each prod
 | Andong, Daejeon, Gwangju and Mokpo | `96e9292` | 8 | 27 | 15 |
 | Palace evenings, meals by location and concert transport | `fb18e27` | 11 | 38 | 15 |
 | Coastal walks, city museums and regional bus routes | `958d5f0` | 6 | 44 | 15 |
+| Museums, waterfront walks and regional transfers | `3f3ee07` | 11 | 55 | 15 |
+| Jongmyo, Gimpo, Gwangju, Sasang and KSPO Dome | Batch 08 in the release ledger | 5 | 60 | 15 |
 
 The first advertising comparison has three active AdSense URL reporting channels. The current manual slot provides the baseline. Start the placement comparison after comparable page-level data is available and confirm that the placement still protects reading and travel actions.
+
+## First post-launch observations
+
+Use November 24–30 and December 1–7, 2026 as the first two full comparison weeks. Read Search Console and AdSense in their reporting time zone and GA4 in Asia/Seoul, with three full days for each source to settle. The operations ledger joins the published cohort to stable guide IDs. Follow the 7-, 14- and 28-day URL inspection dates for index status and use those reports to investigate technical problems. The individual URL observations establish indexing status independently of traffic.
+
+At the weekly review, check search impressions and clicks by published guide, consented reading and onward actions, share handoffs, and site-level revenue. Review the three AdSense channels for comparable page-level coverage before testing the placement of the single manual slot. Keep the first comparison pending when the sample is too small for a useful decision. Record eventual business-target progress using measured audiences and the site revenue report.

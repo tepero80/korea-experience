@@ -2649,5 +2649,80 @@
       "note": "Photographed 2026-05-04. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jongmyo-shrine-guided-entry-and-north-gate": {
+    "src": "/images/cards/jongmyo-shrine-guided-entry-and-north-gate.jpg",
+    "fingerprint": "805577a5a9b1dc546e2d58fb93b16d2934af8c6632a7bfdc3504d47201d3f9e7",
+    "sourceImage": "/images/editorial/jongmyo-shrine-red-hall-and-courtyard-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jongmyo_Shrine_06.jpg",
+      "author": "Bgag",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jongmyo_Shrine_06.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2022-09-26. Visually confirmed at Jongmyo. The file and image describe the shrine precinct; no named hall attribution is asserted. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gimpo-domestic-terminal-to-national-aviation-museum": {
+    "src": "/images/cards/gimpo-domestic-terminal-to-national-aviation-museum.jpg",
+    "fingerprint": "ae172f598bb794ea1363ad204b0141a5516f7e2c1df225a703d7a2356d1c3ddd",
+    "sourceImage": "/images/editorial/gimpo-aviation-museum-street-exterior-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "국립항공박물관.jpg",
+      "author": "KSH1015",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:국립항공박물관.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2023-06-03. The Commons upload retains an unreviewed Korean Wikipedia transfer label. The original Korean Wikipedia file page independently returned HTTP 200 and explicitly credits KSH1015, own work, CC BY-SA 3.0. Apply the same license to derivatives and disclose conversion or resizing. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gwangju-u-square-bus-terminal-to-asia-culture-center": {
+    "src": "/images/cards/gwangju-u-square-bus-terminal-to-asia-culture-center.jpg",
+    "fingerprint": "55009622751659c356e6e4f06b3783680a254b5653913fac27cd83f20e14e85d",
+    "sourceImage": "/images/editorial/gwangju-usquare-entrance-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "U-square Gwangju 20190521 110846.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:U-square_Gwangju_20190521_110846.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-05-21. 2019 terminal architecture for orientation. Check current entrance and stop signage. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "busan-seobu-bus-terminal-to-gimhae-airport": {
+    "src": "/images/cards/busan-seobu-bus-terminal-to-gimhae-airport.jpg",
+    "fingerprint": "526578a3d72b03901e8fbc336d2198c79184ed62ac5ccb9f6537abdef256459c",
+    "sourceImage": "/images/editorial/busan-sasang-light-rail-platform-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Busan-gimhae-light-rail-transit-01-Sasang-station-platform-20180331-143158.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan-gimhae-light-rail-transit-01-Sasang-station-platform-20180331-143158.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-03-31. Historic station interior. Use the current direction display for your train. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "kspo-dome-olympic-park-station-concert-route": {
+    "src": "/images/cards/kspo-dome-olympic-park-station-concert-route.jpg",
+    "fingerprint": "0bb50ca5d1897bc10f888247e80e0a485e85d2bdef75166a303b0b3f8b4a505c",
+    "sourceImage": "/images/editorial/olympic-park-line-five-sign-2018-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seoul-metro-P550-Olympic-park-station-sign-20180915-093312.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-P550-Olympic-park-station-sign-20180915-093312.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-09-15. Historic station photograph for orientation. Check the current operator directions. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

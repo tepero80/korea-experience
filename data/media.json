@@ -5262,5 +5262,215 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "note": "Photographed 2009-01-24. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
     }
+  },
+  {
+    "id": "jongmyo-shrine-red-hall-and-courtyard",
+    "src": "/images/editorial/jongmyo-shrine-red-hall-and-courtyard-1280.webp",
+    "srcSet": "/images/editorial/jongmyo-shrine-red-hall-and-courtyard-640.webp 640w, /images/editorial/jongmyo-shrine-red-hall-and-courtyard-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "A red wooden hall beside a green courtyard and low stone wall inside Jongmyo Shrine",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Jongmyo_Shrine_06.jpg",
+    "originalHash": "719c587ba406d44ccda192b12b7f0fd11a271a1d99386cea5d8166c68fa753c4",
+    "capturedAt": "2022-09-26",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jongmyo_Shrine_06.jpg",
+      "author": "Bgag",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jongmyo_Shrine_06.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2022-09-26. Visually confirmed at Jongmyo. The file and image describe the shrine precinct; no named hall attribution is asserted. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "jongmyo-yeongnyeongjeon-winter-courtyard",
+    "src": "/images/editorial/jongmyo-yeongnyeongjeon-winter-courtyard-1280.webp",
+    "srcSet": "/images/editorial/jongmyo-yeongnyeongjeon-winter-courtyard-640.webp 640w, /images/editorial/jongmyo-yeongnyeongjeon-winter-courtyard-1280.webp 1280w",
+    "width": 1280,
+    "height": 393,
+    "alt": "The long timber hall of Yeongnyeongjeon behind its stone-paved courtyard, with patches of snow",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Yeongnyeongjeon_Jongmyo_Shrine.jpg",
+    "originalHash": "fa591efdc7e9395a794a5b8585c0f0afba8da75f9f7f1c65042ce10a115bd1b0",
+    "capturedAt": "2022-12-03",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Yeongnyeongjeon_Jongmyo_Shrine.jpg",
+      "author": "kallerna",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Yeongnyeongjeon_Jongmyo_Shrine.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2022-12-03. Purposeful context image, not a guarantee that any section is accessible on the day of travel. Apply CC BY-SA 4.0 to image derivatives and disclose conversion or resizing. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gimpo-aviation-museum-street-exterior",
+    "src": "/images/editorial/gimpo-aviation-museum-street-exterior-1280.webp",
+    "srcSet": "/images/editorial/gimpo-aviation-museum-street-exterior-640.webp 640w, /images/editorial/gimpo-aviation-museum-street-exterior-1280.webp 1280w",
+    "width": 1280,
+    "height": 622,
+    "alt": "The angular grey exterior of the National Aviation Museum of Korea across a street near Gimpo Airport",
+    "originalId": "https://commons.wikimedia.org/wiki/File:국립항공박물관.jpg",
+    "originalHash": "56d2e0ef72d8013f398600271f3ad1219711af659f91ec7f3cbca51c52d7cc79",
+    "capturedAt": "2023-06-03",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "국립항공박물관.jpg",
+      "author": "KSH1015",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:국립항공박물관.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2023-06-03. The Commons upload retains an unreviewed Korean Wikipedia transfer label. The original Korean Wikipedia file page independently returned HTTP 200 and explicitly credits KSH1015, own work, CC BY-SA 3.0. Apply the same license to derivatives and disclose conversion or resizing. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gimpo-domestic-terminal-apron-2010",
+    "src": "/images/editorial/gimpo-domestic-terminal-apron-2010-1280.webp",
+    "srcSet": "/images/editorial/gimpo-domestic-terminal-apron-2010-640.webp 640w, /images/editorial/gimpo-domestic-terminal-apron-2010-1280.webp 800w",
+    "width": 800,
+    "height": 600,
+    "alt": "Archival airside view of snowy apron, boarding bridges and an aircraft at Gimpo Domestic Terminal in January 2010",
+    "originalId": "https://commons.wikimedia.org/wiki/File:RKSS_Domestic.jpg",
+    "originalHash": "05fb8956b21a286421b69c5f12e10ad34542505e5a408b3d48556fe7b6766ade",
+    "capturedAt": "2010-01-12",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "RKSS_Domestic.jpg",
+      "author": "Subway06",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:RKSS_Domestic.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Photographed 2010-01-12. This terminal context photo is not the museum or the public walking approach. The current Commons original has an upstream watermark removal in file history. Credit Subway06 and disclose that edit and site conversion or resizing. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gwangju-usquare-building",
+    "src": "/images/editorial/gwangju-usquare-building-1280.webp",
+    "srcSet": "/images/editorial/gwangju-usquare-building-640.webp 640w, /images/editorial/gwangju-usquare-building-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Historic glass terminal frontage with the U-Square name and Gate 5 sign",
+    "originalId": "https://commons.wikimedia.org/wiki/File:U-square_Gwangju_20190521_103600.jpg",
+    "originalHash": "e24acd2b465157006519c88dafeac7345ea748750a2d8e8874556152df2a5f9c",
+    "capturedAt": "2019-05-21",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "U-square Gwangju 20190521 103600.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:U-square_Gwangju_20190521_103600.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-05-21. Historic photo of the building frontage. The depicted gate is not the current 09 bus-stop instruction. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "gwangju-usquare-entrance",
+    "src": "/images/editorial/gwangju-usquare-entrance-1280.webp",
+    "srcSet": "/images/editorial/gwangju-usquare-entrance-640.webp 640w, /images/editorial/gwangju-usquare-entrance-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "U-Square terminal sign above the paved terrace and green ramps",
+    "originalId": "https://commons.wikimedia.org/wiki/File:U-square_Gwangju_20190521_110846.jpg",
+    "originalHash": "018e5189c1217d7cdbe1100d46eb595093960e2d59ffe2e4ccf0ebed81c76774",
+    "capturedAt": "2019-05-21",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "U-square Gwangju 20190521 110846.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:U-square_Gwangju_20190521_110846.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-05-21. 2019 terminal architecture for orientation. Check current entrance and stop signage. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "busan-sasang-light-rail-platform",
+    "src": "/images/editorial/busan-sasang-light-rail-platform-1280.webp",
+    "srcSet": "/images/editorial/busan-sasang-light-rail-platform-640.webp 640w, /images/editorial/busan-sasang-light-rail-platform-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Sasang light-rail platform with screen doors and a station name above them",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Busan-gimhae-light-rail-transit-01-Sasang-station-platform-20180331-143158.jpg",
+    "originalHash": "86cb64aafd6bc42ff47440217d304838371ec96e2a3ad5fcadc1776a7ebfdd44",
+    "capturedAt": "2018-03-31",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Busan-gimhae-light-rail-transit-01-Sasang-station-platform-20180331-143158.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan-gimhae-light-rail-transit-01-Sasang-station-platform-20180331-143158.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-03-31. Historic station interior. Use the current direction display for your train. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "busan-gimhae-airport-light-rail-station",
+    "src": "/images/editorial/busan-gimhae-airport-light-rail-station-1280.webp",
+    "srcSet": "/images/editorial/busan-gimhae-airport-light-rail-station-640.webp 640w, /images/editorial/busan-gimhae-airport-light-rail-station-1280.webp 1280w",
+    "width": 1280,
+    "height": 770,
+    "alt": "Outside of the light rail station at Gimhae Airport with trees and station name",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gimhae_International_Airport_station_2.jpg",
+    "originalHash": "5d2869bc6cfea579ac156b6a831e4956b622399171bc28eaa11650aa142d9dac",
+    "capturedAt": "2012-03-01",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gimhae International Airport station 2.jpg",
+      "author": "Kwj2772",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gimhae_International_Airport_station_2.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2012-03-01. Historic view of the rail station. The passenger terminal is a separate building. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "olympic-park-exit-three-pole-2018",
+    "src": "/images/editorial/olympic-park-exit-three-pole-2018-1280.webp",
+    "srcSet": "/images/editorial/olympic-park-exit-three-pole-2018-640.webp 640w, /images/editorial/olympic-park-exit-three-pole-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 1707,
+    "alt": "Olympic Park Station Exit 3 pole with purple Line 5 and gold Line 9 symbols",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Olympic_Park_Station_Exit_3_Pole_Sign_1.jpg",
+    "originalHash": "977c7ae19acab1ba1e4dc17c67646247f63de1769fb52a90a68cbac1b1a928cd",
+    "capturedAt": "2018-12-01",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Olympic_Park_Station_Exit_3_Pole_Sign_1.jpg",
+      "author": "Udonhan1992",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Olympic_Park_Station_Exit_3_Pole_Sign_1.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2018-12-01. Historic station photograph for orientation. Check the current operator directions. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    }
+  },
+  {
+    "id": "olympic-park-line-five-sign-2018",
+    "src": "/images/editorial/olympic-park-line-five-sign-2018-1280.webp",
+    "srcSet": "/images/editorial/olympic-park-line-five-sign-2018-640.webp 640w, /images/editorial/olympic-park-line-five-sign-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Purple Line 5 Olympic Park Station name on the platform with the Bangi and Dunchon-dong directions",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul-metro-P550-Olympic-park-station-sign-20180915-093312.jpg",
+    "originalHash": "a589b66b54d314fb63090b46fe5159c7d1876356293efac2cf6d84cc1441136e",
+    "capturedAt": "2018-09-15",
+    "checkedAt": "2026-11-23",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seoul-metro-P550-Olympic-park-station-sign-20180915-093312.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-P550-Olympic-park-station-sign-20180915-093312.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-09-15. Historic station photograph for orientation. Check the current operator directions. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    }
   }
 ]

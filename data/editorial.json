@@ -3196,6 +3196,12 @@
     ],
     "relations": [
       {
+        "slug": "kspo-dome-olympic-park-station-concert-route",
+        "type": "next",
+        "label": "Plan the Olympic Park Station approach to KSPO Dome",
+        "reason": "Use Exit 3 and check the route from the venue to your last useful connection."
+      },
+      {
         "slug": "inspire-arena-event-shuttle-and-airport-return",
         "type": "next",
         "label": "Check the INSPIRE Arena show shuttle",
@@ -5515,6 +5521,12 @@
     ],
     "relations": [
       {
+        "slug": "busan-seobu-bus-terminal-to-gimhae-airport",
+        "type": "next",
+        "label": "Return to Gimhae Airport from Sasang by light rail",
+        "reason": "Board the airport-bound service at the separate light-rail station and allow time to reach your passenger terminal."
+      },
+      {
         "slug": "where-to-stay-in-busan-neighborhoods",
         "type": "prepare",
         "label": "Choose your base",
@@ -5873,6 +5885,12 @@
       "winter"
     ],
     "relations": [
+      {
+        "slug": "gimpo-domestic-terminal-to-national-aviation-museum",
+        "type": "alternative",
+        "label": "Visit the aviation museum on the Gimpo side",
+        "reason": "Use the domestic terminal approach and set aside time for the return if you have a flight."
+      },
       {
         "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
         "type": "alternative",
@@ -13722,6 +13740,12 @@
     ],
     "relations": [
       {
+        "slug": "gwangju-u-square-bus-terminal-to-asia-culture-center",
+        "type": "alternative",
+        "label": "Reach the ACC if your coach arrives at U-Square",
+        "reason": "Check bus 09 toward Jeungsimsa and save the exact ACC building on your ticket."
+      },
+      {
         "slug": "gwangju-national-museum-children-visit",
         "type": "alternative",
         "label": "Plan a separate museum outing",
@@ -14259,6 +14283,12 @@
       "winter"
     ],
     "relations": [
+      {
+        "slug": "jongmyo-shrine-guided-entry-and-north-gate",
+        "type": "prepare",
+        "label": "Check Jongmyo’s separate admission",
+        "reason": "Compare timed and independent days before relying on the northern connecting gates."
+      },
       {
         "slug": "deoksugung-to-seoul-museum-of-art",
         "type": "alternative",
@@ -16964,6 +16994,548 @@
     },
     "heroMediaId": "jeonju-express-terminal-2026",
     "heroCaption": "Coaches outside the Jeonju Express Bus Terminal in May 2026. Check your ticket to confirm your own arrival terminal.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "jongmyo-shrine-guided-entry-and-north-gate": {
+    "id": "culture-jongmyo-shrine-entry-north-gate",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-23",
+    "answer": "Visit Jongmyo independently on Wednesday, weekends and public holidays. Monday, Thursday and Friday normally use timed entry, with four published English departures. Confirm the North Gate separately if continuing to Changgyeonggung.",
+    "forWhom": "Travelers choosing an English Jongmyo visit or pairing the shrine with Changgyeonggung on the same day",
+    "conditions": [
+      "Tuesday is the regular closure. Holiday or special dates may override the weekly pattern.",
+      "Confirm the language and time when booking. The North Gate connection has its own conditions and both sites charge admission separately.",
+      "The Changgyeonggung pin is Honghwamun, the street fallback entrance."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "royal heritage",
+      "palaces",
+      "english tours",
+      "walking"
+    ],
+    "relations": [
+      {
+        "slug": "changgyeonggung-ordinary-evening-visit",
+        "type": "next",
+        "label": "Continue to Changgyeonggung from Honghwamun",
+        "reason": "Use the street entrance if the internal connection is closed, especially for an evening palace visit."
+      },
+      {
+        "slug": "korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026",
+        "type": "alternative",
+        "label": "Choose another Seoul palace day",
+        "reason": "Compare the other royal sites if the shrine’s tour availability or closure does not fit your trip."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jongmyo-shrine-jongno",
+      "seoul-changgyeonggung-honghwamun"
+    ],
+    "sources": [
+      {
+        "id": "culture-jongmyo-shrine-entry-north-gate-source-1",
+        "title": "Jongmyo Shrine Korean visiting calendar",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+        "note": "Operator’s regular days, seasonal hours, timed slots, tour duration and day types. Date-specific notices may supersede normal hours.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jongmyo-shrine-entry-north-gate-source-2",
+        "title": "Jongmyo Shrine reservations",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=jms",
+        "note": "Official booking page and English timed entry selector.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jongmyo-shrine-entry-north-gate-source-3",
+        "title": "Jongmyo Shrine admission fees",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do?schGroupCode=jms",
+        "note": "Official rates and foreign visitor age-based eligibility.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jongmyo-shrine-entry-north-gate-source-4",
+        "title": "Jongmyo Shrine directions",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R707000000.do?schGroupCode=jms",
+        "note": "Main street address, subway lines and exits.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jongmyo-shrine-entry-north-gate-source-5",
+        "title": "Changgyeonggung operator FAQ",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R404000000.do?schGroupCode=cgg",
+        "note": "Independent-entry connection conditions, north gate and separate admissions.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jongmyo-shrine-entry-north-gate-source-6",
+        "title": "Visit Seoul Jongmyo Shrine English page",
+        "url": "https://english.visitseoul.net/PalaceArea/Jongmyo/ENP000507",
+        "note": "Documents the English-source discrepancy. Use the Korean operator for the day pattern.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jongmyo-shrine-entry-north-gate-source-7",
+        "title": "VisitKorea Jongmyo Shrine location",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94412",
+        "note": "Coordinates for the shrine venue overview pin.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-jongmyo-shrine-entry-north-gate-source-8",
+        "title": "Royal Palaces and Tombs Center Jongmyo history",
+        "url": "https://royal.khs.go.kr/ENG/contents/E105010000.do",
+        "note": "Interpretive context about the royal ancestral shrine and rites.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Independent entry Wednesdays and weekends",
+      "English timed entry Mon, Thu and Fri",
+      "Confirm the palace connection before using it"
+    ],
+    "launchOrder": 1186,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jongmyo_Shrine_06.jpg",
+      "author": "Bgag",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jongmyo_Shrine_06.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2022-09-26. Visually confirmed at Jongmyo. The file and image describe the shrine precinct; no named hall attribution is asserted. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "jongmyo-shrine-red-hall-and-courtyard",
+    "heroCaption": "A red timber hall and grassy courtyard inside Jongmyo Shrine in September 2022. Check the shrine’s current visiting calendar for your entry route.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gimpo-domestic-terminal-to-national-aviation-museum": {
+    "id": "transport-gimpo-domestic-aviation-museum",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "From Gimpo Domestic Terminal, follow signs toward Domestic Parking Lot 2 and continue about 400 metres from the exit. Board the museum’s listed free airport shuttle at first-floor Gate 4. Reserve a separate buffer for the way back and airport procedures.",
+    "forWhom": "Gimpo Domestic Terminal travelers with spare landside time, and families planning a standalone museum outing from Gimpo Airport Station",
+    "conditions": [
+      "The museum is outside the passenger terminal in Gangseo, Seoul. A visit requires enough time for your airline’s actual bag drop, security and boarding cutoffs.",
+      "Confirm the shuttle’s return stop and direction before relying on it.",
+      "General exhibitions are normally free. Programme access, booking, cost and individual gallery closures vary."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "gimpo airport",
+      "aviation",
+      "museums",
+      "family",
+      "rainy-day"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-botanic-park-winter-family",
+        "type": "nearby",
+        "label": "Plan another indoor stop in western Seoul",
+        "reason": "Seoul Botanic Park is a separate subway stop and suits a longer outing in the area without a flight deadline."
+      },
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "alternative",
+        "label": "Plan your arrival from Incheon instead",
+        "reason": "Use this route comparison if your actual airport code is ICN."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "national-aviation-museum-gimpo"
+    ],
+    "sources": [
+      {
+        "id": "transport-gimpo-domestic-aviation-museum-source-1",
+        "title": "National Aviation Museum visitor and transport information",
+        "url": "https://www.aviation.or.kr/contents.do?menuno=65",
+        "note": "Official hours, closing days, general admission, airport route, shuttle labels and boarding point.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gimpo-domestic-aviation-museum-source-2",
+        "title": "National Aviation Museum notices",
+        "url": "https://www.aviation.or.kr/board.do?boardno=24&menuno=68",
+        "note": "Current operator notices for timetable, exhibitions and programme changes.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gimpo-domestic-aviation-museum-source-3",
+        "title": "National Aviation Museum programme reservations",
+        "url": "https://www.aviation.or.kr/reservation.do?gcode=gcode1&menuno=189",
+        "note": "Official programme booking and activity-specific eligibility, terms and prices.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gimpo-domestic-aviation-museum-source-4",
+        "title": "Visit Seoul National Aviation Museum of Korea listing",
+        "url": "https://english.visitseoul.net/area/National-Aviation-Museum-of-Korea/ENP038021",
+        "note": "City exhibition overview and venue map marker.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "About 400 m from the domestic terminal exit",
+      "Shuttle from first-floor Gate 4",
+      "Free general exhibitions, usual last entry 17:30"
+    ],
+    "launchOrder": 1187,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "국립항공박물관.jpg",
+      "author": "KSH1015",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:국립항공박물관.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2023-06-03. The Commons upload retains an unreviewed Korean Wikipedia transfer label. The original Korean Wikipedia file page independently returned HTTP 200 and explicitly credits KSH1015, own work, CC BY-SA 3.0. Apply the same license to derivatives and disclose conversion or resizing. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "gimpo-aviation-museum-street-exterior",
+    "heroCaption": "The National Aviation Museum exterior photographed from across the street near Gimpo Airport in June 2023. Follow the posted pedestrian signs from the domestic terminal.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "gwangju-u-square-bus-terminal-to-asia-culture-center": {
+    "id": "transport-gwangju-usquare-acc-bus",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "At Gwangju U-Square, take route 09 toward Mudeungsan National Park (Jeungsimsa) from the terminal stop marked 현대자동차방향. Choose the ACC stop based on your building. Check your visit or ticket timing before you leave the terminal.",
+    "forWhom": "Travelers arriving by intercity or express coach with a visit in central Gwangju",
+    "conditions": [
+      "Verify your coach arrives at U-Square before using this route.",
+      "Check the current bus stop and direction.",
+      "Save the ACC building name and ticket time separately from the complex address."
+    ],
+    "regions": [
+      "gwangju"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "public transport",
+      "intercity bus",
+      "arts",
+      "car-free"
+    ],
+    "relations": [
+      {
+        "slug": "gwangju-songjeong-station-to-asia-culture-center",
+        "type": "alternative",
+        "label": "Travel onward from Gwangju-Songjeong by metro",
+        "reason": "Use the rail-arrival route if your original ticket is for a train."
+      },
+      {
+        "slug": "intercity-bus-travel-booking-apps-and-routes",
+        "type": "prepare",
+        "label": "Check the arrival terminal before booking",
+        "reason": "A route from another city must actually arrive at U-Square for this transfer to work."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gwangju-u-square-bus-terminal",
+      "gwangju-u-square-city-bus-09-eastbound",
+      "gwangju-asia-culture-center"
+    ],
+    "sources": [
+      {
+        "id": "transport-gwangju-usquare-acc-bus-source-1",
+        "title": "Gwangju Tourism’s terminal directory",
+        "url": "https://tour.gwangju.go.kr/eng/sub.cs?m=47",
+        "note": "U-Square’s terminal name and road address.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gwangju-usquare-acc-bus-source-2",
+        "title": "Official Jeonnam-Gwangju route search",
+        "url": "https://bus.jeonnam-gwangju.go.kr/busmap/lineSearch",
+        "note": "Current 09 route through the terminal and then the two named ACC stops; select 09 and check the stop order for your date.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gwangju-usquare-acc-bus-source-3",
+        "title": "ACC Korean directions from the express terminal",
+        "url": "https://www.acc.go.kr/main/contents.do?PID=060102",
+        "note": "09, 34 and 1003 list, both ACC arrival stops and street address.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gwangju-usquare-acc-bus-source-4",
+        "title": "ACC buildings, gates and floor plans",
+        "url": "https://www.acc.go.kr/main/contents.do?PID=060201",
+        "note": "Verify the entrance for the specific booked hall and current accessibility route.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-gwangju-usquare-acc-bus-source-5",
+        "title": "ACC opening hours and admission",
+        "url": "https://www.acc.go.kr/en/contents.do?PID=090202",
+        "note": "Campus hours and program-specific admission conditions.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Route 09 toward Jeungsimsa",
+      "Check the boarding stop and your ACC hall"
+    ],
+    "launchOrder": 1188,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "U-square Gwangju 20190521 110846.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:U-square_Gwangju_20190521_110846.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2019-05-21. 2019 terminal architecture for orientation. Check current entrance and stop signage. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "gwangju-usquare-entrance",
+    "heroCaption": "U-Square’s main terrace and building sign in May 2019. Look up today’s city-bus stop before crossing.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "busan-seobu-bus-terminal-to-gimhae-airport": {
+    "id": "transport-busan-seobu-sasang-gimhae-flight",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "At Busan Seobu in Sasang, board Busan–Gimhae Light Rail toward Gaya University (Samgye). Get off at Airport Station, the third stop. Use your airline’s terminal and check-in deadline to plan your walk and fallback.",
+    "forWhom": "Travelers arriving by coach at Sasang and continuing to an outgoing flight",
+    "conditions": [
+      "This route starts at Seobu in Sasang. Confirm the terminal on your coach ticket.",
+      "Check the current light-rail departures and your airline’s terminal.",
+      "Allow time for the street crossing, terminal walk and check-in."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "departure"
+    ],
+    "interests": [
+      "intercity bus",
+      "light rail",
+      "airport departure",
+      "public transport"
+    ],
+    "relations": [
+      {
+        "slug": "intercity-bus-travel-booking-apps-and-routes",
+        "type": "prepare",
+        "label": "Confirm the coach terminal before you book",
+        "reason": "Busan has more than one coach terminal. Use the one in your ticket search."
+      },
+      {
+        "slug": "gimhae-airport-to-busan",
+        "type": "alternative",
+        "label": "Plan the reverse airport-to-city trip",
+        "reason": "Match your hotel with the airport rail, limousine or a taxi when landing in Busan."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "busan-seobu-intercity-bus-terminal",
+      "busan-gimhae-lrt-sasang-station",
+      "gimhae-airport-light-rail-station"
+    ],
+    "sources": [
+      {
+        "id": "transport-busan-seobu-sasang-gimhae-flight-source-1",
+        "title": "Busan City’s transport and terminal directory",
+        "url": "https://www.busan.go.kr/eng/public-transportation",
+        "note": "Identifies Sasang for Seobu and Nopo for Busan Central.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-busan-seobu-sasang-gimhae-flight-source-2",
+        "title": "Light-rail timetable and facilities at Sasang",
+        "url": "https://www.bglrt.com/00011/00149.web?scode=901",
+        "note": "Direction, station sequence, local station map and first and last train tables.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-busan-seobu-sasang-gimhae-flight-source-3",
+        "title": "Light-rail operator’s Airport Station guide",
+        "url": "https://www.bglrt.com/00011/00149.web?scode=904",
+        "note": "Airport stop, operator map and road address.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-busan-seobu-sasang-gimhae-flight-source-4",
+        "title": "Gimhae Airport rail access guide",
+        "url": "https://www.airport.co.kr/gimhaeeng/cms/frCon/index.do?CONTENTS_NO=3&MENU_ID=110",
+        "note": "Official rail map and Line 2 transfer at Sasang.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-busan-seobu-sasang-gimhae-flight-source-5",
+        "title": "Gimhae Airport’s domestic crossing and gate guide",
+        "url": "https://www.airport.co.kr/gimhae/index.do",
+        "note": "Identifies the crossing between Airport Station and domestic Gate 1.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-busan-seobu-sasang-gimhae-flight-source-6",
+        "title": "Gimhae Airport terminal shuttle guide",
+        "url": "https://www.airport.co.kr/gimhaeeng/cms/frCon/index.do?CONTENTS_NO=2&MENU_ID=110",
+        "note": "Current domestic and international terminal boarding points and hours.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Board toward Gaya University (Samgye)",
+      "Get off at Airport Station and check your airline terminal"
+    ],
+    "launchOrder": 1189,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Busan-gimhae-light-rail-transit-01-Sasang-station-platform-20180331-143158.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan-gimhae-light-rail-transit-01-Sasang-station-platform-20180331-143158.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-03-31. Historic station interior. Use the current direction display for your train. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "busan-sasang-light-rail-platform",
+    "heroCaption": "Sasang’s Busan–Gimhae Light Rail platform in March 2018. Check the current platform display for the Gaya University direction.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "kspo-dome-olympic-park-station-concert-route": {
+    "id": "transport-kspo-dome-olympic-park-station",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Use Lines 5 or 9 to Olympic Park Station, Exit 3, and follow your event’s signs to KSPO Dome. Before the show, check which departure actually reaches your hotel or your final transfer.",
+    "forWhom": "Concertgoers approaching KSPO Dome by subway",
+    "conditions": [
+      "Confirm the exact venue, event gate, accessibility arrangements and last usable connection for your date."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring",
+      "departure"
+    ],
+    "interests": [
+      "concerts",
+      "public transport",
+      "hallyu"
+    ],
+    "relations": [
+      {
+        "slug": "how-to-get-k-pop-concert-tickets-ticketing-guide",
+        "type": "prepare",
+        "label": "Check the event ticket instructions",
+        "reason": "Save organizer instructions for pickup, entry and any accessible gate."
+      },
+      {
+        "slug": "gocheok-sky-dome-concert-arrival-and-return",
+        "type": "alternative",
+        "label": "Plan for a different concert venue",
+        "reason": "Gocheok Sky Dome uses a different station and return route."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "kspo-dome-olympic-park"
+    ],
+    "sources": [
+      {
+        "id": "transport-kspo-dome-olympic-park-station-source-1",
+        "title": "KSPO Dome venue and directions",
+        "url": "https://www.ksponco.or.kr/menu.es?mid=a20301030800",
+        "note": "Olympic Park Station and Exit 3.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-kspo-dome-olympic-park-station-source-2",
+        "title": "Olympic Park site map",
+        "url": "https://www.ksponco.or.kr/olympicpark/mapEng?mid=a30601000000",
+        "note": "Named venues across the park and walking paths.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-kspo-dome-olympic-park-station-source-3",
+        "title": "Olympic Park transport guide",
+        "url": "https://www.ksponco.or.kr/olympicpark/menu.es?mid=a30604000000",
+        "note": "Metro and other approaches to the park.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-kspo-dome-olympic-park-station-source-4",
+        "title": "Korea Tourism Organization venue listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=183120",
+        "note": "Venue street address and event-specific hours.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-kspo-dome-olympic-park-station-source-5",
+        "title": "YG Entertainment accessibility report",
+        "url": "https://www.ygfamily.com/contents/attachments/2025/08/YG%2BEntertainment_2025_Sustainability%2BReport_%28ENG%29.pdf",
+        "note": "A dated example of organizer access support and event plans for the dome.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Olympic Park Station, Exit 3",
+      "Check where your last service terminates"
+    ],
+    "launchOrder": 1190,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Seoul-metro-P550-Olympic-park-station-sign-20180915-093312.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-P550-Olympic-park-station-sign-20180915-093312.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2018-09-15. Historic station photograph for orientation. Check the current operator directions. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "olympic-park-line-five-sign-2018",
+    "heroCaption": "The Line 5 Olympic Park Station sign in September 2018. The venue currently lists both Line 5 and Line 9. Use Exit 3 and follow event signs.",
     "gallery": [],
     "experienceVersion": 2
   }
