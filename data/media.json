@@ -9548,5 +9548,115 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The image records the scene at the time of photography."
     },
     "capturedAt": "2006-12-29"
+  },
+  {
+    "id": "archive-jeju-black-pork-charcoal-2015",
+    "src": "/images/editorial/archive-jeju-black-pork-charcoal-2015-1280.webp",
+    "srcSet": "/images/editorial/archive-jeju-black-pork-charcoal-2015-640.webp 640w, /images/editorial/archive-jeju-black-pork-charcoal-2015-1280.webp 1280w",
+    "width": 1280,
+    "height": 961,
+    "alt": "Thick cuts of pork grilling over red charcoal beside a small cup of dipping sauce.",
+    "focal": "52% 52%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Korean_BBQ.jpg",
+    "originalHash": "f3fb2e0e110d2f2a63b860db8300686baf1e581dc319977efdad07884adf337c",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "eommina",
+      "title": "Korean BBQ.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_BBQ.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2015-07-08"
+  },
+  {
+    "id": "archive-seoul-kofa-entrance-2019",
+    "src": "/images/editorial/archive-seoul-kofa-entrance-2019-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-kofa-entrance-2019-640.webp 640w, /images/editorial/archive-seoul-kofa-entrance-2019-1280.webp 1280w",
+    "width": 1280,
+    "height": 1490,
+    "alt": "Korean Film Archive signage on the wood facade of the archive entrance in Sangam, Seoul.",
+    "focal": "39% 39%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%ED%95%9C%EA%B5%AD%EC%98%81%EC%83%81%EC%9E%90%EB%A3%8C%EC%9B%90.jpg",
+    "originalHash": "e586837e141805af488a25d843be1346892095b10bd176da66d9e522b053ef28",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Jjw",
+      "title": "한국영상자료원.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%ED%95%9C%EA%B5%AD%EC%98%81%EC%83%81%EC%9E%90%EB%A3%8C%EC%9B%90.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Cropped, resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2019-10-26"
+  },
+  {
+    "id": "archive-seoul-noksapyeong-overpass-2015",
+    "src": "/images/editorial/archive-seoul-noksapyeong-overpass-2015-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-noksapyeong-overpass-2015-640.webp 640w, /images/editorial/archive-seoul-noksapyeong-overpass-2015-1280.webp 1280w",
+    "width": 1280,
+    "height": 721,
+    "alt": "A Noksapyeong pedestrian overpass across a busy Seoul road, with N Seoul Tower in the distance.",
+    "focal": "52% 39%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:North_from_Noksapyeong,_Itaewon.jpg",
+    "originalHash": "09600dc6beccde482815a398e7c21d2f59b4a93ee35189643321630341f326e3",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Ken Eckert",
+      "title": "North from Noksapyeong, Itaewon.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_from_Noksapyeong,_Itaewon.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2015-04-25"
+  },
+  {
+    "id": "archive-seoul-goto-mall-after-hours-2022",
+    "src": "/images/editorial/archive-seoul-goto-mall-after-hours-2022-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-goto-mall-after-hours-2022-640.webp 640w, /images/editorial/archive-seoul-goto-mall-after-hours-2022-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "A corridor inside Goto Mall with the metal shop shutters closed.",
+    "focal": "50% 48%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Gotomall_Underground_Shopping_Mall_at_Midnight.jpg",
+    "originalHash": "1cac65d9bc1ffc7364ee3334b06411392e08b4428ff1b394dc983c548791fe6d",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Tildin Han",
+      "title": "Gotomall Underground Shopping Mall at Midnight.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gotomall_Underground_Shopping_Mall_at_Midnight.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2022-08-14"
+  },
+  {
+    "id": "archive-seoul-gugak-center-front-2012",
+    "src": "/images/editorial/archive-seoul-gugak-center-front-2012-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-gugak-center-front-2012-640.webp 640w, /images/editorial/archive-seoul-gugak-center-front-2012-1280.webp 1280w",
+    "width": 1280,
+    "height": 1017,
+    "alt": "National Gugak Center lettering and emblem on its Seocho campus facade.",
+    "focal": "50% 40%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:National_Gugak_Center_in_Seocho-gu,_Seoul,_South_Korea.jpg",
+    "originalHash": "96bafe6dcc8b43b6fa011fddfeaf0815241a94a26447c31657d321b0e759aa4d",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Michael Comella",
+      "title": "National Gugak Center in Seocho-gu, Seoul, South Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Gugak_Center_in_Seocho-gu,_Seoul,_South_Korea.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2012-03-24"
   }
 ]

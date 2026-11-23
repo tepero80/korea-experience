@@ -3942,5 +3942,80 @@
       "note": "Resized and converted to WebP. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jeju-black-pork-where-to-eat-on-the-island": {
+    "src": "/images/cards/jeju-black-pork-where-to-eat-on-the-island.jpg",
+    "fingerprint": "05b18ed753c1116778f99d8e7cf289c004158f876f256189a0b8cc966cbe6525",
+    "sourceImage": "/images/editorial/archive-jeju-black-pork-charcoal-2015-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "eommina",
+      "title": "Korean BBQ.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_BBQ.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "independent-cinema-guide-art-house-theaters-in-seoul": {
+    "src": "/images/cards/independent-cinema-guide-art-house-theaters-in-seoul.jpg",
+    "fingerprint": "29bad1a8a7fbbc93529069d485a7c691d79dfc19709cb4e46ebdfe5c73f65f41",
+    "sourceImage": "/images/editorial/archive-seoul-kofa-entrance-2019-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Jjw",
+      "title": "한국영상자료원.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%ED%95%9C%EA%B5%AD%EC%98%81%EC%83%81%EC%9E%90%EB%A3%8C%EC%9B%90.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Cropped, resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "k-drama-locations-tour-itaewon-class-to-squid-game-2026": {
+    "src": "/images/cards/k-drama-locations-tour-itaewon-class-to-squid-game-2026.jpg",
+    "fingerprint": "52d721b81377cbfb1629106d1ee725eb9eefd1bcd32a7a6c87cf17f673a49ec8",
+    "sourceImage": "/images/editorial/archive-seoul-noksapyeong-overpass-2015-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Ken Eckert",
+      "title": "North from Noksapyeong, Itaewon.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_from_Noksapyeong,_Itaewon.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gangnam-underground-shopping-complex": {
+    "src": "/images/cards/gangnam-underground-shopping-complex.jpg",
+    "fingerprint": "6e59891a217198ddc9dd47aceaf073e33143c0f271bd6caf69e1705cfecc43f8",
+    "sourceImage": "/images/editorial/archive-seoul-goto-mall-after-hours-2022-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Tildin Han",
+      "title": "Gotomall Underground Shopping Mall at Midnight.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gotomall_Underground_Shopping_Mall_at_Midnight.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korean-traditional-music-gugak-performance-venues": {
+    "src": "/images/cards/korean-traditional-music-gugak-performance-venues.jpg",
+    "fingerprint": "91dc9ca40c0294f52522a9f4361ae0b0a58dad17e14d4cb746ab9dda5452ab42",
+    "sourceImage": "/images/editorial/archive-seoul-gugak-center-front-2012-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Michael Comella",
+      "title": "National Gugak Center in Seocho-gu, Seoul, South Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Gugak_Center_in_Seocho-gu,_Seoul,_South_Korea.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

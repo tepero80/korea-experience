@@ -2599,5 +2599,83 @@
     "region": "seoul",
     "checkedAt": "2026-11-24",
     "sourceNote": "Korea Tourism Organization place listing supplies the Korean address and map point. Check the listed venue and approach before you go."
+  },
+  {
+    "id": "jeju-dombe-don",
+    "region": "jeju",
+    "name": "Dombe Don",
+    "nameKo": "돔베돈",
+    "latitude": 33.5155635,
+    "longitude": 126.526744,
+    "address": "제주특별자치도 제주시 관덕로15길 25",
+    "officialUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_200000000012749",
+    "description": "A Black Pork Street stop near Dongmun Market.",
+    "sourceNote": "Visit Jeju’s published listing supplies the address and overview map point. Check the current entrance and restaurant hours.",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "jeju-donsadon-main",
+    "region": "jeju",
+    "name": "Donsadon Main Branch",
+    "nameKo": "돈사돈 본점",
+    "latitude": 33.47887,
+    "longitude": 126.46408,
+    "address": "제주특별자치도 제주시 우평로 19",
+    "officialUrl": "https://m.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000020104&menuId=DOM_000001719003000000",
+    "description": "Use the exact Nohyeong address for the main branch.",
+    "sourceNote": "Visit Jeju’s published listing supplies the address and overview map point. Check the current entrance and restaurant hours.",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "jeju-donirang-main",
+    "region": "jeju",
+    "name": "Donirang Main Branch",
+    "nameKo": "돈이랑 제주흑돼지 본점",
+    "latitude": 33.257732,
+    "longitude": 126.40872,
+    "address": "제주특별자치도 서귀포시 일주서로 953",
+    "officialUrl": "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000020670&menuId=DOM_000001719003000000",
+    "description": "A south-side option for visitors staying around Jungmun.",
+    "sourceNote": "Visit Jeju’s published listing supplies the address and overview map point. Check the current entrance and restaurant hours.",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "seoul-cinematheque-kofa-sangam",
+    "region": "seoul",
+    "name": "Cinematheque KOFA, Sangam",
+    "nameKo": "한국영상자료원 시네마테크KOFA",
+    "latitude": 37.5804510730532,
+    "longitude": 126.88989352596,
+    "address": "서울특별시 마포구 월드컵북로 400",
+    "officialUrl": "https://eng.koreafilm.or.kr/pages/PC_00000114",
+    "description": "Check your screening and ticket before traveling to Sangam.",
+    "sourceNote": "Korean Film Archive supplies visitor directions. Seoul’s culture-space listing gives the building map point.",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "seoul-goto-mall",
+    "region": "seoul",
+    "name": "Goto Mall",
+    "nameKo": "고투몰 강남터미널 지하도상가",
+    "latitude": 37.503074517444,
+    "longitude": 127.001393244252,
+    "address": "서울특별시 서초구 신반포로 지하200",
+    "officialUrl": "https://english.visitseoul.net/attractions/Goto-Mall/ENP029546",
+    "description": "Follow the Express Bus Terminal Station signs towards Exit 8-1.",
+    "sourceNote": "Visit Seoul confirms the exit. VisitKorea publishes the Korean address and shopping-mall map point.",
+    "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "seoul-national-gugak-center",
+    "region": "seoul",
+    "name": "National Gugak Center",
+    "nameKo": "국립국악원",
+    "latitude": 37.4777832887189,
+    "longitude": 127.008843237989,
+    "address": "서울특별시 서초구 남부순환로 2364",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111372",
+    "description": "Match the hall named on your ticket once you reach campus.",
+    "sourceNote": "Korea Tourism Organization publishes the campus address and map point. This identifies the complex, not an individual auditorium entrance.",
+    "checkedAt": "2026-11-24"
   }
 ]

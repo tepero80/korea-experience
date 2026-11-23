@@ -1475,6 +1475,12 @@
         "reason": "Make it a separate trip and confirm your return from Munsan before leaving Seoul."
       },
       {
+        "slug": "k-drama-locations-tour-itaewon-class-to-squid-game-2026",
+        "type": "interest",
+        "label": "Pick a real filming stop",
+        "reason": "Use the public overpass or market route that fits where you will already be in Seoul."
+      },
+      {
         "slug": "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style",
         "type": "next",
         "label": "Your next decision",
@@ -1800,6 +1806,12 @@
         "type": "next",
         "label": "Plan a gallery and palace afternoon near City Hall",
         "reason": "Put SeMA first on a late or wet day and check each venue's entrance cutoff."
+      },
+      {
+        "slug": "independent-cinema-guide-art-house-theaters-in-seoul",
+        "type": "alternative",
+        "label": "Find a Seoul screening with the right subtitles",
+        "reason": "Check the show first, then choose central Cinecube or Cinematheque KOFA in Sangam."
       },
       {
         "slug": "korean-book-stores-english-section-guide",
@@ -2456,6 +2468,12 @@
         "reason": "Prepare a product list and check the domestic store’s prices and membership conditions; global website benefits are separate."
       },
       {
+        "slug": "gangnam-underground-shopping-complex",
+        "type": "next",
+        "label": "Choose the correct underground mall",
+        "reason": "Compare Gangnam Station with Goto Mall before boarding the subway."
+      },
+      {
         "slug": "tax-refund-for-tourists-how-to-claim",
         "type": "prepare",
         "label": "Prepare this too",
@@ -2917,6 +2935,12 @@
         "type": "next",
         "label": "Your next decision",
         "reason": "General night viewing, Starlight and Moonlight are different products; the cited autumn 2026 runs have ended."
+      },
+      {
+        "slug": "korean-traditional-music-gugak-performance-venues",
+        "type": "next",
+        "label": "Choose a traditional music performance",
+        "reason": "Match a dated programme to the right National Gugak Center hall."
       },
       {
         "slug": "hanbok-rental-complete-guide-styles-and-pricing",
@@ -14667,6 +14691,12 @@
         "reason": "Visit Samseonghyeol before its ticket cutoff and save the market for dinner."
       },
       {
+        "slug": "jeju-black-pork-where-to-eat-on-the-island",
+        "type": "next",
+        "label": "Choose Jeju black pork for a sit-down dinner",
+        "reason": "Compare a Black Pork Street meal with options near Nohyeong and Jungmun."
+      },
+      {
         "slug": "where-to-stay-in-jeju-without-a-car",
         "type": "prepare",
         "label": "Choose a car-free Jeju base",
@@ -24900,5 +24930,502 @@
     "gallery": [],
     "experienceVersion": 2,
     "cardImageLabel": "Insadong tea room · 2007"
+  },
+  "jeju-black-pork-where-to-eat-on-the-island": {
+    "id": "guide:jeju-black-pork-where-to-eat-on-the-island",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with your return route. Choose Dombe Don for a dinner near Dongmun Market, Donsadon’s main branch for Nohyeong, or Donirang if you are staying around Jungmun on the south side.",
+    "forWhom": "Visitors choosing a black-pork meal around a Jeju City or Jungmun base",
+    "conditions": [
+      "Call for current hours, portion sizes and any minimum order, especially for solo diners. The photo shows the dish; use the pinned addresses for the restaurants."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Jeju black pork",
+      "Jeju City",
+      "Dongmun Market",
+      "Jungmun"
+    ],
+    "relations": [
+      {
+        "slug": "dongmun-market-dinner-without-a-car",
+        "type": "alternative",
+        "label": "Keep a Dongmun takeaway option",
+        "reason": "If the restaurant is full or needs a larger order, use a nearby market dinner plan."
+      },
+      {
+        "slug": "seogwipo-olle-market-takeaway-plan",
+        "type": "alternative",
+        "label": "Plan a central Seogwipo dinner",
+        "reason": "Stay near the Olle Market if that is your base rather than assuming Jungmun is in the same neighborhood."
+      },
+      {
+        "slug": "where-to-stay-in-jeju-without-a-car",
+        "type": "prepare",
+        "label": "Choose your Jeju base without a car",
+        "reason": "Decide where you will return before committing to an island dinner stop."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-dombe-don",
+      "jeju-donsadon-main",
+      "jeju-donirang-main"
+    ],
+    "shareFacts": [
+      "Choose a stop on your return route",
+      "Check grams and minimum order",
+      "Use the exact Korean branch address"
+    ],
+    "sources": [
+      {
+        "id": "guide:jeju-black-pork-where-to-eat-on-the-island-source-1",
+        "title": "Visit Jeju: Dombe Don on Black Pork Street",
+        "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_200000000012749",
+        "note": "Confirms the original-downtown location, published menu examples and map pin.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:jeju-black-pork-where-to-eat-on-the-island-source-2",
+        "title": "Visit Jeju: Donsadon main branch",
+        "url": "https://m.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000020104&menuId=DOM_000001719003000000",
+        "note": "Confirms the Nohyeong main address, charcoal barbecue specialty and listing’s Tuesday closure.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:jeju-black-pork-where-to-eat-on-the-island-source-3",
+        "title": "Visit Jeju: Donirang main branch",
+        "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_000000000020670&menuId=DOM_000001719003000000",
+        "note": "Confirms the Seogwipo address, map and black-pork specialty.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1272,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-jeju-black-pork-charcoal-2015",
+    "heroCaption": "Pork over charcoal in a photograph published as Jeju black pork by eommina in 2015. The listing does not identify a restaurant.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "eommina",
+      "title": "Korean BBQ.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_BBQ.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Charcoal-grilled pork · 2015"
+  },
+  "independent-cinema-guide-art-house-theaters-in-seoul": {
+    "id": "guide:independent-cinema-guide-art-house-theaters-in-seoul",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with the date and screening language. Use Cinematheque KOFA in Sangam for free archive programs, or choose Cinecube in Gwanghwamun if its schedule works better with a central Seoul day.",
+    "forWhom": "Travelers trying to find and attend one classic, independent or art-house film in Seoul",
+    "conditions": [
+      "Check the actual film, audio and subtitles before reserving or traveling. A title in English can be a translated listing."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "independent cinema",
+      "Korean Film Archive",
+      "Sangam",
+      "Gwanghwamun"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Keep a rainy-day alternative",
+        "reason": "If the film is sold out or its language is a poor fit, choose another indoor stop."
+      },
+      {
+        "slug": "deoksugung-to-seoul-museum-of-art",
+        "type": "nearby",
+        "label": "Combine Cinecube with central Seoul",
+        "reason": "Group a central film with Deoksugung and the museum instead of crossing town twice."
+      },
+      {
+        "slug": "k-drama-locations-tour-itaewon-class-to-squid-game-2026",
+        "type": "interest",
+        "label": "Visit a real Seoul filming location",
+        "reason": "Choose a public street scene if viewing a film is not the main reason for your day."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-cinematheque-kofa-sangam"
+    ],
+    "shareFacts": [
+      "Check subtitles for the exact session",
+      "KOFA screenings are free; book or check seats",
+      "Cinecube is on B2"
+    ],
+    "sources": [
+      {
+        "id": "guide:independent-cinema-guide-art-house-theaters-in-seoul-source-1",
+        "title": "Korean Film Archive: Cinematheque rules",
+        "url": "https://eng.koreafilm.or.kr/pages/PC_00000102",
+        "note": "Confirms free admission, box-office and online procedure, and punctual entry.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:independent-cinema-guide-art-house-theaters-in-seoul-source-2",
+        "title": "Korean Film Archive: live screening calendar",
+        "url": "https://www.koreafilm.or.kr/cinematheque/calendar/screenings",
+        "note": "Find a dated screening and review its own ticket and language notes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:independent-cinema-guide-art-house-theaters-in-seoul-source-3",
+        "title": "Korean Film Archive: visiting Sangam",
+        "url": "https://eng.koreafilm.or.kr/pages/PC_00000114",
+        "note": "Official transit directions and the correct branch.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:independent-cinema-guide-art-house-theaters-in-seoul-source-4",
+        "title": "Seoul: Korean Film Archive listing",
+        "url": "https://culture.seoul.go.kr/culture/culture/cultureSpace/view.do?facCode=101652&menuNo=200119",
+        "note": "Confirms the Sangam address and gives its overview pin.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:independent-cinema-guide-art-house-theaters-in-seoul-source-5",
+        "title": "Cinecube: showtimes",
+        "url": "https://www.cinecube.co.kr/cinema/time-order-table",
+        "note": "Select the date and film for the central Seoul option.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:independent-cinema-guide-art-house-theaters-in-seoul-source-6",
+        "title": "Cinecube: theater location",
+        "url": "https://www.cinecube.co.kr/about/location",
+        "note": "Confirms B2, the address and nearby station exits.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1273,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-kofa-entrance-2019",
+    "heroCaption": "The Korean Film Archive entrance in Sangam, photographed in 2019. Consult the archive’s current directions for your screening.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Jjw",
+      "title": "한국영상자료원.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%ED%95%9C%EA%B5%AD%EC%98%81%EC%83%81%EC%9E%90%EB%A3%8C%EC%9B%90.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Cropped, resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Korean Film Archive · Sangam"
+  },
+  "k-drama-locations-tour-itaewon-class-to-squid-game-2026": {
+    "id": "guide:k-drama-locations-tour-itaewon-class-to-squid-game-2026",
+    "categoryId": "culture-events",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Noksapyeong for the Itaewon Class overpass or Baegun Market in Ssangmun-dong for a Squid Game neighborhood stop. They fit separate parts of Seoul; choose the one that already fits your day.",
+    "forWhom": "Visitors who want a real public filming location without booking a studio visit",
+    "conditions": [
+      "These are everyday streets. Check construction and walking access, allow others to pass, and ask permission before photographing a person or shop interior."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Itaewon Class",
+      "Squid Game",
+      "Yongsan",
+      "Ssangmun-dong"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "prepare",
+        "label": "Fit a filming stop into your Seoul route",
+        "reason": "Choose one side of the city first and leave time for the return."
+      },
+      {
+        "slug": "independent-cinema-guide-art-house-theaters-in-seoul",
+        "type": "alternative",
+        "label": "Choose a Seoul screening instead",
+        "reason": "A dated show at KOFA or Cinecube is a practical backup when the weather rules out a walk."
+      },
+      {
+        "slug": "halal-korean-food-muslim-friendly-restaurants",
+        "type": "nearby",
+        "label": "Plan food around Itaewon",
+        "reason": "Compare actual restaurant notices if you want to add a meal in the neighborhood."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Start at Noksapyeong Exit 3",
+      "Save the Baegun Market address",
+      "Check public access before traveling"
+    ],
+    "sources": [
+      {
+        "id": "guide:k-drama-locations-tour-itaewon-class-to-squid-game-2026-source-1",
+        "title": "Visit Seoul: Itaewon Class walking directions",
+        "url": "https://english.visitseoul.net/hallyu/Diving-into-Itaewon-Class/ENN034824",
+        "note": "Identifies the overpass and its approach from Noksapyeong Station Exit 3.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:k-drama-locations-tour-itaewon-class-to-squid-game-2026-source-2",
+        "title": "VisitKorea: Noksapyeong Overpass",
+        "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=70&menuNm=tour&page=8&vcontsId=200508",
+        "note": "Identifies the school-side landmark next to the bridge used in the drama.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:k-drama-locations-tour-itaewon-class-to-squid-game-2026-source-3",
+        "title": "VisitKorea: Squid Game public locations",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=72&menuSn=862&vcontsId=200823",
+        "note": "Gives the Baegun Market area and Korean street address at the filming stop.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:k-drama-locations-tour-itaewon-class-to-squid-game-2026-source-4",
+        "title": "Netflix Tudum: where Squid Game filmed",
+        "url": "https://www.netflix.com/tudum/articles/squid-game-locations-guide",
+        "note": "Identifies Ssangmun-dong as a filming neighborhood and describes separate production sets.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1274,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-noksapyeong-overpass-2015",
+    "heroCaption": "A Noksapyeong overpass with N Seoul Tower in the distance, photographed in 2015. Use Seoul’s current walking directions for your visit.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Ken Eckert",
+      "title": "North from Noksapyeong, Itaewon.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:North_from_Noksapyeong,_Itaewon.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Noksapyeong · 2015"
+  },
+  "gangnam-underground-shopping-complex": {
+    "id": "guide:gangnam-underground-shopping-complex",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Gangnam Station for the arcade under Gangnam-daero. Use Express Bus Terminal Station for Goto Mall at Sinbanpo-ro. Check your Korean destination and station line before boarding.",
+    "forWhom": "Travelers choosing between two similarly named underground shopping areas in Seoul",
+    "conditions": [
+      "Published mall hours and individual shop hours can differ. Confirm access around holidays and allow a buffer for onward travel."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Goto Mall",
+      "Gangnam Station",
+      "Express Bus Terminal",
+      "shopping"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "prepare",
+        "label": "Choose the shopping area for your day",
+        "reason": "Compare underground shopping with street, market and department-store options."
+      },
+      {
+        "slug": "tax-refund-for-tourists-how-to-claim",
+        "type": "next",
+        "label": "Check tax-refund eligibility",
+        "reason": "Ask the actual retailer which documents it issues before paying."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-goto-mall"
+    ],
+    "shareFacts": [
+      "Goto Mall is at Express Bus Terminal",
+      "Gangnam Station arcade uses Line 2",
+      "Check the exit and your coach terminal"
+    ],
+    "sources": [
+      {
+        "id": "guide:gangnam-underground-shopping-complex-source-1",
+        "title": "Visit Seoul: Goto Mall",
+        "url": "https://english.visitseoul.net/attractions/Goto-Mall/ENP029546",
+        "note": "Confirms Lines 3, 7 and 9, Exit 8-1 and published mall hours.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:gangnam-underground-shopping-complex-source-2",
+        "title": "VisitKorea: Gangnam Terminal Underground Shopping Center",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=86283",
+        "note": "Provides the Korean name, Sinbanpo-ro location and map.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:gangnam-underground-shopping-complex-source-3",
+        "title": "Visit Seoul: Gangnam Station Underground Shopping Center",
+        "url": "https://english.visitseoul.net/area/Gangnam-Station-Underground-Shopping-Center/ENP017740",
+        "note": "Confirms the separate station arcade, address and Exit 8 approach.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:gangnam-underground-shopping-complex-source-4",
+        "title": "Visit Seoul: Central City Terminal",
+        "url": "https://english.visitseoul.net/area/Central-City-Terminal/ENP029548",
+        "note": "Gives the terminal layout context and separate coach signage near Goto Mall.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1275,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-goto-mall-after-hours-2022",
+    "heroCaption": "Goto Mall’s corridor with shop shutters closed, photographed in 2022. Check the listed retail hours before planning a shopping stop.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Tildin Han",
+      "title": "Gotomall Underground Shopping Mall at Midnight.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gotomall_Underground_Shopping_Mall_at_Midnight.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Goto Mall · After hours"
+  },
+  "korean-traditional-music-gugak-performance-venues": {
+    "id": "guide:korean-traditional-music-gugak-performance-venues",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with a dated program at the National Gugak Center in Seocho. Confirm the hall, what is performed, and the age and ticket rules. If no performance works, check the on-campus museum’s opening on your date.",
+    "forWhom": "Visitors planning their first traditional Korean music or dance performance in Seoul",
+    "conditions": [
+      "Programmes, seat access, language support and ticketing vary by performance. This guide identifies the Seoul campus."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "gugak",
+      "traditional music",
+      "National Gugak Center",
+      "Seocho"
+    ],
+    "relations": [
+      {
+        "slug": "choosing-korean-cultural-experiences-reservations-and-walk-in-options",
+        "type": "prepare",
+        "label": "Compare other Korean cultural experiences",
+        "reason": "Choose an activity around schedule, reservation requirements and how much of the day you have."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "alternative",
+        "label": "Keep another indoor option",
+        "reason": "Have a separate indoor plan if there is no suitable performance or the hall is full."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-national-gugak-center"
+    ],
+    "shareFacts": [
+      "Choose a dated performance",
+      "Match the hall on your ticket",
+      "Check accessibility and ticket pickup"
+    ],
+    "sources": [
+      {
+        "id": "guide:korean-traditional-music-gugak-performance-venues-source-1",
+        "title": "VisitKorea: National Gugak Center",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111372",
+        "note": "Confirms the campus, address and multiple performance halls.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korean-traditional-music-gugak-performance-venues-source-2",
+        "title": "National Gugak Center: English ticket booking guide",
+        "url": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?lang=en&menuid=001001002001001",
+        "note": "Read the published ticket procedure and confirm payment, pickup and age rules.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korean-traditional-music-gugak-performance-venues-source-3",
+        "title": "Ministry of Culture: Saturday Gugak performance listing",
+        "url": "https://www.mcst.go.kr/site/s_culture/culture/cultureView.jsp?pRo=652&pSeq=73703",
+        "note": "Example dated 2026 listing for the traditional weekend program at Umyeondang; use a current event for future planning.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korean-traditional-music-gugak-performance-venues-source-4",
+        "title": "VisitKorea: National Gugak Museum",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111049",
+        "note": "Gives the companion museum’s access information and published hours.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1276,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-gugak-center-front-2012",
+    "heroCaption": "National Gugak Center’s Seocho facade in 2012. Follow the hall name on your ticket once you arrive.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Michael Comella",
+      "title": "National Gugak Center in Seocho-gu, Seoul, South Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:National_Gugak_Center_in_Seocho-gu,_Seoul,_South_Korea.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Seoul Gugak Center · Seocho",
+    "cardImageCrop": "east"
   }
 }

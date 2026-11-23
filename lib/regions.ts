@@ -27,8 +27,9 @@ export const REGIONS: readonly Region[] = [
       'seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026',
       'tea-houses-in-insadong-2026',
       'eunpyeong-hanok-village-museum-bus',
-      'seoul-battleship-park-mangwon-visit',
+      'k-drama-locations-tour-itaewon-class-to-squid-game-2026',
       'seouls-indie-music-hubs-2026',
+      'seoul-battleship-park-mangwon-visit',
       'national-museum-korea-first-permanent-gallery-visit',
     ],
     onward: [
@@ -135,10 +136,11 @@ export const REGIONS: readonly Region[] = [
     highlights: [
       'where-to-stay-in-jeju-without-a-car',
       'seongsan-ilchulbong-by-bus-from-jeju-city',
-      'coastal-bike-routes-scenic-seaside-cycling',
+      'jeju-black-pork-where-to-eat-on-the-island',
       'seogwipo-cheonjiyeon-or-jeongbang-waterfall',
       'soesokkak-estuary-walk-or-boat',
       'jeju-winter-ferry-checklist-udo-gapa-marado',
+      'coastal-bike-routes-scenic-seaside-cycling',
     ],
     onward: [{ regionId: 'busan', reason: 'If your onward ticket is to Busan, plan the airport transfer before choosing a coastal neighborhood.' }],
   },

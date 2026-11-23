@@ -850,5 +850,35 @@
     "subjectUsefulness": 2,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "jeju-black-pork-where-to-eat-on-the-island": {
+    "mediaId": "archive-jeju-black-pork-charcoal-2015",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "independent-cinema-guide-art-house-theaters-in-seoul": {
+    "mediaId": "archive-seoul-kofa-entrance-2019",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "k-drama-locations-tour-itaewon-class-to-squid-game-2026": {
+    "mediaId": "archive-seoul-noksapyeong-overpass-2015",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "gangnam-underground-shopping-complex": {
+    "mediaId": "archive-seoul-goto-mall-after-hours-2022",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "korean-traditional-music-gugak-performance-venues": {
+    "mediaId": "archive-seoul-gugak-center-front-2012",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
   }
 }
