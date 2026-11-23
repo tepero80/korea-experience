@@ -1719,5 +1719,50 @@
       "note": "Photo from 2014. Resized and converted to WebP; cropped in the preview card. The adaptations retain the photo credit and CC BY-SA 4.0 license."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "olive-young-shopping-guide-must-buy-k-beauty-products": {
+    "src": "/images/cards/olive-young-shopping-guide-must-buy-k-beauty-products.jpg",
+    "fingerprint": "993f5321866d3c38dc18992f7fe5931ee94a91473590ffaa68408c5cf258efff",
+    "sourceImage": "/images/editorial/olive-young-store-2021-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "OliveYoung store.png",
+      "author": "Pkccccj",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:OliveYoung_store.png",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Historical photograph from 2021-05-07. Resized and converted to WebP, and cropped in the preview card. Adaptations retain CC BY-SA 4.0 credit and license."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "myeongdong-shopping-guide-beauty-and-fashion": {
+    "src": "/images/cards/myeongdong-shopping-guide-beauty-and-fashion.jpg",
+    "fingerprint": "23a74c7695b214740bf793359794d5be4502f3d672f6723b61649878b67c9d09",
+    "sourceImage": "/images/editorial/shopping-myeongdong-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Myeongdong street.jpg",
+      "author": "Izzatfikry99",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Myeongdong_street.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2026-06-25. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "duty-free-shopping-in-korea-complete-guide-2026": {
+    "src": "/images/cards/duty-free-shopping-in-korea-complete-guide-2026.jpg",
+    "fingerprint": "a8ad057aac89ff435ce926965480b929cf0a609d82228032e1b425453cbb7fb8",
+    "sourceImage": "/images/editorial/incheon-lotte-duty-free-2016-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Lotte Duty Free shop at the Incheon International Airport 1.jpg",
+      "author": "Vuong Tri Binh",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotte_Duty_Free_shop_at_the_Incheon_International_Airport_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Historical photograph from 2016-02-04. Resized and converted to WebP, and cropped in the preview card. Adaptations retain CC BY-SA 4.0 credit and license."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

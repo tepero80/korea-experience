@@ -2796,5 +2796,49 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Photo from 2014. Resized and converted to WebP; cropped in the preview card. The adaptations retain the photo credit and CC BY-SA 4.0 license."
     }
+  },
+  {
+    "id": "retail-olive-young-store-2021",
+    "src": "/images/editorial/olive-young-store-2021-1280.webp",
+    "srcSet": "/images/editorial/olive-young-store-2021-640.webp 640w, /images/editorial/olive-young-store-2021-1280.webp 1280w",
+    "width": 1280,
+    "height": 820,
+    "originalId": "OliveYoung_store.png",
+    "originalHash": "f1fff66d48c80dda9f4091348087152cbe28d0bf299f2f9fbb322f1a41e3daa6",
+    "capturedAt": "2021-05-07",
+    "checkedAt": "2026-11-23",
+    "alt": "Blue Olive Young sign over a store entrance in South Korea",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "photograph",
+      "title": "OliveYoung store.png",
+      "author": "Pkccccj",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:OliveYoung_store.png",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Historical photograph from 2021-05-07. Resized and converted to WebP, and cropped in the preview card. Adaptations retain CC BY-SA 4.0 credit and license."
+    }
+  },
+  {
+    "id": "retail-incheon-lotte-duty-free-2016",
+    "src": "/images/editorial/incheon-lotte-duty-free-2016-1280.webp",
+    "srcSet": "/images/editorial/incheon-lotte-duty-free-2016-640.webp 640w, /images/editorial/incheon-lotte-duty-free-2016-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "originalId": "Lotte_Duty_Free_shop_at_the_Incheon_International_Airport_1.jpg",
+    "originalHash": "ffcd142abd6a91c9c4c6d1e3b0b65617a9d5e553ad3ebc68f534814f95399f5f",
+    "capturedAt": "2016-02-04",
+    "checkedAt": "2026-11-23",
+    "alt": "Lotte Duty Free storefront sign at Incheon International Airport in 2016",
+    "focal": "50% 50%",
+    "credit": {
+      "kind": "photograph",
+      "title": "Lotte Duty Free shop at the Incheon International Airport 1.jpg",
+      "author": "Vuong Tri Binh",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotte_Duty_Free_shop_at_the_Incheon_International_Airport_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Historical photograph from 2016-02-04. Resized and converted to WebP, and cropped in the preview card. Adaptations retain CC BY-SA 4.0 credit and license."
+    }
   }
 ]

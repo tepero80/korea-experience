@@ -9976,5 +9976,328 @@
     },
     "heroMediaId": "shopping-shinsegae-downtown-2014",
     "heroCaption": "Shinsegae Main Store in central Seoul, photographed in 2014."
+  },
+  "olive-young-shopping-guide-must-buy-k-beauty-products": {
+    "id": "guide:olive-young-shopping-guide-must-buy-k-beauty-products",
+    "experienceVersion": 2,
+    "categoryId": "shopping-kbeauty",
+    "checkedAt": "2026-11-23",
+    "tools": [],
+    "placeIds": [],
+    "format": "how-to",
+    "answer": "Compare the exact item, size and bundle price in store. Before payment, ask whether this branch deducts a tourist refund at checkout or issues paperwork for a later claim.",
+    "quickTitle": "Before you pay",
+    "quickChoices": [
+      {
+        "label": "Choosing a branch",
+        "detail": "Use the branch listing to confirm the address and check the current hours and services before going."
+      },
+      {
+        "label": "Comparing offers",
+        "detail": "Check the sizes and quantities in the bundle rather than assuming all online offers apply in store."
+      },
+      {
+        "label": "Handling a tourist refund",
+        "detail": "Keep your passport and the receipts and ask whether the total already includes the refund."
+      }
+    ],
+    "forWhom": "Visitors shopping at a physical Olive Young branch in Korea",
+    "conditions": [
+      "Promotions, stock and services vary by branch and date.",
+      "Tourist refund rules depend on the purchase and the traveler."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "shopping",
+      "k-beauty"
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-must-buys-2026",
+        "type": "interest",
+        "label": "Choose what to shop for",
+        "reason": "Build a product shortlist before comparing prices on the shelf."
+      },
+      {
+        "slug": "myeongdong-shopping-guide-beauty-and-fashion",
+        "type": "nearby",
+        "label": "Plan a Myeongdong walk",
+        "reason": "Use a neighborhood route that separates the station and shopping-street branches."
+      },
+      {
+        "slug": "tax-refund-for-tourists-how-to-claim",
+        "type": "prepare",
+        "label": "Check the tourist refund steps",
+        "reason": "Find out whether your purchase already received an immediate refund or requires Incheon export validation before handing over your bag."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kto-oliveyoung-myeongdong-town",
+        "title": "Olive Young Myeongdong Town — Korea Tourism Organization",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=263&menuSn=929&vcontsId=248785",
+        "checkedAt": "2026-11-23",
+        "note": "KTO lists the branch address. Olive Young branch data was corroborated through the official store page indexed by web search; direct automated and isolated Chrome access received HTTP 403."
+      },
+      {
+        "id": "oliveyoung-global-membership",
+        "title": "Membership benefits — Olive Young Global",
+        "url": "https://global.oliveyoung.com/display/page/membership",
+        "checkedAt": "2026-11-23",
+        "note": "Terms for the global online shop; benefits are not assumed for in-store checkout."
+      },
+      {
+        "id": "kto-tax-refunds",
+        "title": "Duty Free & Tax Refunds — Korea Tourism Organization",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736",
+        "checkedAt": "2026-11-23",
+        "note": "Eligibility, qualifying receipt and differences between tourist refunds and duty-free shopping."
+      }
+    ],
+    "shareFacts": [
+      "Compare the exact sizes and number of items in each bundle.",
+      "Ask whether your receipt shows an immediate refund or a later claim."
+    ],
+    "heroCaption": "Olive Young storefront photographed in 2021. It does not identify the Myeongdong Town branch.",
+    "launchOrder": 1124,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "OliveYoung store.png",
+      "author": "Pkccccj",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:OliveYoung_store.png",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Historical photograph from 2021-05-07. Resized and converted to WebP, and cropped in the preview card. Adaptations retain CC BY-SA 4.0 credit and license."
+    },
+    "heroMediaId": "retail-olive-young-store-2021"
+  },
+  "myeongdong-shopping-guide-beauty-and-fashion": {
+    "id": "guide:myeongdong-shopping-guide-beauty-and-fashion",
+    "experienceVersion": 2,
+    "categoryId": "shopping-kbeauty",
+    "checkedAt": "2026-11-23",
+    "tools": [],
+    "placeIds": [
+      "myeongdong-station"
+    ],
+    "format": "itinerary",
+    "answer": "Use Myeongdong Station Exit 6 for Migliore and the shopping streets. For the large station-side Daiso alone, use the side between Exits 1 and 4.",
+    "quickTitle": "Pick the right side of the station",
+    "quickChoices": [
+      {
+        "label": "Fashion and accessories",
+        "detail": "Start at Migliore by Exit 6, which KTO lists with shops on floors 1 and 2."
+      },
+      {
+        "label": "Beauty on Myeongdong-gil",
+        "detail": "Start at Olive Young Town, number 53. The Daiso Main branch is also on this street."
+      },
+      {
+        "label": "A gifts-only visit",
+        "detail": "Choose between the Main branch on Myeongdong-gil and the 12-floor Station branch on Toegye-ro."
+      }
+    ],
+    "forWhom": "Visitors planning a short shopping walk in central Seoul",
+    "conditions": [
+      "The two Daiso branches are separate addresses.",
+      "Confirm the entrance and floors you need if steps are a concern."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "shopping",
+      "k-beauty"
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "next",
+        "label": "Plan your Olive Young stop",
+        "reason": "Check how to compare bundles, branch details and the right checkout route."
+      },
+      {
+        "slug": "tax-refund-for-tourists-how-to-claim",
+        "type": "prepare",
+        "label": "Check the tourist refund steps",
+        "reason": "Find out whether your purchase already received an immediate refund or requires Incheon export validation before handing over your bag."
+      },
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "alternative",
+        "label": "Compare Seoul shopping districts",
+        "reason": "Choose a different neighborhood if you want small designer stores or a department-store visit."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kto-myeongdong-migliore",
+        "title": "Migliore Myeongdong — Korea Tourism Organization",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=220958",
+        "checkedAt": "2026-11-23",
+        "note": "Exit 6, Toegye-ro address and shopping on floors 1 and 2."
+      },
+      {
+        "id": "kto-daiso-main",
+        "title": "Daiso Myeongdong Main — Korea Tourism Organization",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=146952",
+        "checkedAt": "2026-11-23",
+        "note": "Main branch address on Myeongdong-gil."
+      },
+      {
+        "id": "kto-daiso-station",
+        "title": "Daiso station branch — Korea Tourism Organization",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194390",
+        "checkedAt": "2026-11-23",
+        "note": "Station branch address, exits and description of the 12-floor store."
+      },
+      {
+        "id": "kto-oliveyoung-myeongdong-town",
+        "title": "Olive Young Myeongdong Town — Korea Tourism Organization",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=263&menuSn=929&vcontsId=248785",
+        "checkedAt": "2026-11-23",
+        "note": "KTO lists the branch address. Olive Young branch data was corroborated through the official store page indexed by web search; direct automated and isolated Chrome access received HTTP 403."
+      },
+      {
+        "id": "kto-tax-refunds",
+        "title": "Duty Free & Tax Refunds — Korea Tourism Organization",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736",
+        "checkedAt": "2026-11-23",
+        "note": "Eligibility, qualifying receipt and differences between tourist refunds and duty-free shopping."
+      }
+    ],
+    "shareFacts": [
+      "Exit 6 for Migliore and the shopping streets.",
+      "The Daiso branches on Toegye-ro and Myeongdong-gil are separate."
+    ],
+    "heroCaption": "Myeongdong shopping street in June 2026. Use current branch pages for store details.",
+    "launchOrder": 1125,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Myeongdong street.jpg",
+      "author": "Izzatfikry99",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Myeongdong_street.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2026-06-25. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
+    },
+    "heroMediaId": "shopping-myeongdong"
+  },
+  "duty-free-shopping-in-korea-complete-guide-2026": {
+    "id": "guide:duty-free-shopping-in-korea-complete-guide-2026",
+    "experienceVersion": 2,
+    "categoryId": "shopping-kbeauty",
+    "checkedAt": "2026-11-23",
+    "tools": [],
+    "placeIds": [],
+    "format": "how-to",
+    "answer": "Confirm your departure terminal and the retailer’s pickup counter before you place an order. Keep the passport, boarding pass and order voucher ready for handover.",
+    "quickTitle": "Choose a shopping route",
+    "quickChoices": [
+      {
+        "label": "Buy airside",
+        "detail": "Check the official Incheon duty-free directory for your terminal."
+      },
+      {
+        "label": "Pre-order",
+        "detail": "Confirm the retailer deadline, pickup counter and what happens if your flight changes."
+      },
+      {
+        "label": "Get a city-purchase tax refund",
+        "detail": "Follow the export and refund instructions for the paperwork your seller gave you."
+      }
+    ],
+    "forWhom": "Visitors shopping duty-free before an international departure from Incheon",
+    "conditions": [
+      "Ordering, pickup and cancellation terms depend on the retailer, item and flight.",
+      "Check entry allowances where you actually land and any transfer security requirements."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "departure"
+    ],
+    "interests": [
+      "shopping",
+      "airport"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-terminal-flight-check",
+        "type": "prepare",
+        "label": "Confirm your departure terminal",
+        "reason": "Use the official flight and airline lookup before choosing a duty-free pickup counter."
+      },
+      {
+        "slug": "tax-refund-for-tourists-how-to-claim",
+        "type": "alternative",
+        "label": "Check city purchase refunds",
+        "reason": "Use the city-store refund guide if you were given receipts for export instead of a pre-order voucher."
+      },
+      {
+        "slug": "packing-korean-shopping-liquids-and-souvenirs-for-your-flight",
+        "type": "prepare",
+        "label": "Pack purchases safely",
+        "reason": "Review cabin versus checked baggage and rules that apply to liquids and fragile purchases."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kto-tax-refunds",
+        "title": "Duty Free & Tax Refunds — Korea Tourism Organization",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736",
+        "checkedAt": "2026-11-23",
+        "note": "Eligibility, qualifying receipt and differences between tourist refunds and duty-free shopping."
+      },
+      {
+        "id": "incheon-duty-free-directory",
+        "title": "Duty-Free Shopping — Incheon International Airport",
+        "url": "https://www.airport.kr/ap_en/1531/subview.do",
+        "checkedAt": "2026-11-23",
+        "note": "Official terminal shopping directory."
+      },
+      {
+        "id": "lotte-duty-free-pickup",
+        "title": "Pickup instructions — Lotte Duty Free",
+        "url": "https://eng.lottedfs.com/kr/product/productDetail?prdNo=20000863052",
+        "checkedAt": "2026-11-23",
+        "note": "Retailer example for matching travel details, proof of order, physical passport and boarding pass."
+      },
+      {
+        "id": "kcs-traveler-allowances",
+        "title": "Traveler allowances — Korea Customs Service",
+        "url": "https://customs.go.kr/english/cm/cntnts/cntntsView.do?cntntsId=2743&mi=8069",
+        "checkedAt": "2026-11-23",
+        "note": "Allowances on entry into Korea; foreign requirements are separate."
+      }
+    ],
+    "shareFacts": [
+      "Save the exact pickup counter and the retailer voucher before you fly.",
+      "Check your final destination and transfer rules before buying liquids."
+    ],
+    "heroCaption": "Lotte Duty Free storefront at Incheon Airport photographed in 2016. Check the retailer’s current pickup information.",
+    "launchOrder": 1126,
+    "changeType": "rewrite",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Lotte Duty Free shop at the Incheon International Airport 1.jpg",
+      "author": "Vuong Tri Binh",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotte_Duty_Free_shop_at_the_Incheon_International_Airport_1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Historical photograph from 2016-02-04. Resized and converted to WebP, and cropped in the preview card. Adaptations retain CC BY-SA 4.0 credit and license."
+    },
+    "heroMediaId": "retail-incheon-lotte-duty-free-2016"
   }
 }
