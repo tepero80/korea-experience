@@ -27,7 +27,7 @@ export const REGIONS: readonly Region[] = [
       'seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026',
       'eunpyeong-hanok-village-museum-bus',
       'seoul-battleship-park-mangwon-visit',
-      'seoul-grand-park-zoo-sky-lift-elephant-train',
+      'seouls-indie-music-hubs-2026',
       'national-museum-korea-first-permanent-gallery-visit',
     ],
     onward: [

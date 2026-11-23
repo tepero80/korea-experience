@@ -1796,6 +1796,12 @@
         "reason": "Put SeMA first on a late or wet day and check each venue's entrance cutoff."
       },
       {
+        "slug": "korean-book-stores-english-section-guide",
+        "type": "nearby",
+        "label": "Browse English books in Gwanghwamun",
+        "reason": "Check the edition and branch stock before a visit to the central bookstore."
+      },
+      {
         "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
         "type": "next",
         "label": "Your next decision",
@@ -11436,6 +11442,12 @@
         "type": "next",
         "label": "Plan an east-coast bus day",
         "reason": "Check how to return to Jeju City separately from your airport transfer."
+      },
+      {
+        "slug": "renting-a-car-in-korea-international-license-guide",
+        "type": "alternative",
+        "label": "Check Jeju rental pickup",
+        "reason": "Use the permit and shuttle checklist if you have chosen to drive."
       },
       {
         "slug": "where-to-stay-in-jeju-without-a-car",
@@ -24163,5 +24175,442 @@
     "gallery": [],
     "experienceVersion": 2,
     "cardImageLabel": "Irwol Arboretum · Suwon"
+  },
+  "korean-book-stores-english-section-guide": {
+    "id": "guide:korean-book-stores-english-section-guide",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with Kyobo Gwanghwamun for a central bookstore visit. Search by ISBN, confirm the branch and edition, then go to B1 at 1 Jong-ro.",
+    "forWhom": "Visitors looking for an English edition, a travel book or an indoor browsing stop",
+    "conditions": [
+      "The bookstore can carry foreign books without holding the edition you want. Stock, price and shelf layout can change."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "books",
+      "Gwanghwamun",
+      "rainy day"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "interest",
+        "label": "Choose a broader rainy-day plan",
+        "reason": "Pair the bookstore with another indoor stop if you stay in central Seoul."
+      },
+      {
+        "slug": "first-trip-to-korea-planning-guide",
+        "type": "prepare",
+        "label": "Save your Seoul trip basics",
+        "reason": "Keep relevant orientation and tickets outside the bookstore visit."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Search by ISBN",
+      "Confirm Gwanghwamun stock",
+      "Check the English edition"
+    ],
+    "sources": [
+      {
+        "id": "guide:korean-book-stores-english-section-guide-source-1",
+        "title": "Kyobo Book Centre: Gwanghwamun branch",
+        "url": "https://store.kyobobook.co.kr/store-info/001",
+        "note": "Official branch details and current hours.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korean-book-stores-english-section-guide-source-2",
+        "title": "Visit Seoul: Kyobo Gwanghwamun",
+        "url": "https://english.visitseoul.net/PalaceArea/Kyobo-Bookstore-Gwanghwamun-Branch/ENP040172",
+        "note": "B1 address and Gwanghwamun Station approach.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1264,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-kyobo-gwanghwamun-book-aisle-2017",
+    "heroCaption": "Inside Kyobo Book Centre’s Gwanghwamun branch in 2017. Check the current shelves and availability for your book.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Teemeah",
+      "title": "Kyobo bookstore, Seoul.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kyobo_bookstore,_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Kyobo Gwanghwamun · 2017"
+  },
+  "halal-korean-food-muslim-friendly-restaurants": {
+    "id": "guide:halal-korean-food-muslim-friendly-restaurants",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the Korea Tourism Organization directory to shortlist a named branch. If you require certification, confirm the current certificate and coverage with that branch before relying on the listing.",
+    "forWhom": "Visitors choosing a suitable meal based on their own dietary requirements",
+    "conditions": [
+      "Directory labels, menus and preparation can change. Confirm the specific location, dish and kitchen arrangements with the restaurant."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Muslim-friendly dining",
+      "Itaewon",
+      "food planning"
+    ],
+    "relations": [
+      {
+        "slug": "busan-station-to-nampo-muslim-friendly-dining",
+        "type": "next",
+        "label": "Plan a Busan meal stop",
+        "reason": "Check Busan dining using the same branch-level approach."
+      },
+      {
+        "slug": "jeju-muslim-friendly-dining-in-jeju-city",
+        "type": "next",
+        "label": "Plan dining in Jeju City",
+        "reason": "Use a separate Jeju address and check the return from dinner."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check the directory category",
+      "Verify the restaurant branch",
+      "Ask about your dish"
+    ],
+    "sources": [
+      {
+        "id": "guide:halal-korean-food-muslim-friendly-restaurants-source-1",
+        "title": "VisitKorea Muslim-friendly travel resources",
+        "url": "https://english.visitkorea.or.kr/svc/sp/MuslimFriendly",
+        "note": "Restaurant and prayer-room discovery for travelers.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:halal-korean-food-muslim-friendly-restaurants-source-2",
+        "title": "KTO Jakarta Office restaurant directory",
+        "url": "https://english.visitkorea.or.kr/svc/br/JKToffice",
+        "note": "Lists the category, address and phone for the named Eid branch. Confirm its current status.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1265,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-itaewon-muslim-dining-street-2023",
+    "heroCaption": "Shops and restaurants near Seoul Central Mosque in 2023. The photograph does not verify certification or show the Eid restaurant listed below.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Toobigtokale",
+      "title": "Middle Eastern businesses around the Seoul Central Mosque 01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Middle_Eastern_businesses_around_the_Seoul_Central_Mosque_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Itaewon dining area · 2023"
+  },
+  "renting-a-car-in-korea-international-license-guide": {
+    "id": "guide:renting-a-car-in-korea-international-license-guide",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Check your permit type and issuing authority with the rental branch before paying. Bring the original documents the desk requests and use its pickup and return instructions.",
+    "forWhom": "Overseas visitors comparing an independent rental with public transport",
+    "conditions": [
+      "Driving authorization and the rental operator’s contract are separate checks. Vehicle, driver, payment and pickup conditions vary by supplier and branch."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "rental car",
+      "driving permits",
+      "Jeju Airport"
+    ],
+    "relations": [
+      {
+        "slug": "jeju-airport-to-jeju-city-and-seogwipo",
+        "type": "alternative",
+        "label": "Use a bus from the airport",
+        "reason": "Keep a way to reach your stay if your rental plan falls through."
+      },
+      {
+        "slug": "where-to-stay-in-jeju-without-a-car",
+        "type": "alternative",
+        "label": "Choose a car-free base",
+        "reason": "Check whether your chosen beaches or attractions are accessible from your hotel before renting."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-airport-arrival"
+    ],
+    "shareFacts": [
+      "Confirm the permit before paying",
+      "Bring the original documents",
+      "Check your shuttle and return"
+    ],
+    "sources": [
+      {
+        "id": "guide:renting-a-car-in-korea-international-license-guide-source-1",
+        "title": "Korean Road Traffic Act, Article 96",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1030974359",
+        "note": "The recognized international authorizations include the Geneva and Vienna conventions. The statute describes scope by vehicle class.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:renting-a-car-in-korea-international-license-guide-source-2",
+        "title": "SK Rent-a-Car qualification rules",
+        "url": "https://homepage.skdirect.co.kr/en/useGuide/shortRental/rentalQualification",
+        "note": "Rental-desk details on permitted documents, name matching and other eligibility conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:renting-a-car-in-korea-international-license-guide-source-3",
+        "title": "LOTTE rent-a-car visitor guide",
+        "url": "https://lotterentacar.net/hp/eng/usertip/renting-a-car-in-korea.do",
+        "note": "Operator-specific requirements for original documents and accepted payment.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:renting-a-car-in-korea-international-license-guide-source-4",
+        "title": "Korea Airports Corporation: Jeju car rental",
+        "url": "https://www.airport.co.kr/jejueng/cms/frCon/index.do?MENU_ID=100",
+        "note": "Airport rental shuttle and current facility information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:renting-a-car-in-korea-international-license-guide-source-5",
+        "title": "LOTTE rent-a-car: Jeju Auto House",
+        "url": "https://lotterentacar.net/hp/eng/carLife/jejuAuto.do",
+        "note": "An example of branch-specific pickup and return instructions.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1266,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-jeju-airport-forecourt-2012",
+    "heroCaption": "The terminal approach at Jeju International Airport in 2012. Follow current signs and your rental company’s instructions for the shuttle.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "螺钉",
+      "title": "Jeju International Airport.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_International_Airport.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "east",
+    "cardImageLabel": "Jeju Airport · 2012"
+  },
+  "how-to-attend-k-pop-music-show-recordings-in-seoul-2026": {
+    "id": "guide:how-to-attend-k-pop-music-show-recordings-in-seoul-2026",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with KBS’s official Music Bank audience page. Check the episode’s rules and apply if eligible. Travel to the building in your confirmation, since KBS uses different locations.",
+    "forWhom": "Travelers hoping to attend a public K-pop music recording in Seoul",
+    "conditions": [
+      "Admission is episode-specific. Confirm your selection, eligible ID, check-in time and exact venue before traveling."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "K-pop",
+      "Music Bank",
+      "Yeouido"
+    ],
+    "relations": [
+      {
+        "slug": "seouls-indie-music-hubs-2026",
+        "type": "alternative",
+        "label": "Find a ticketed Hongdae show",
+        "reason": "If you cannot join the recording, choose an independently listed concert with clear entry terms."
+      },
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "prepare",
+        "label": "Keep an alternative Seoul plan",
+        "reason": "Avoid making the rest of the day depend on a recording confirmation."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check the actual episode",
+      "Wait for ticket confirmation",
+      "Use the listed KBS building"
+    ],
+    "sources": [
+      {
+        "id": "guide:how-to-attend-k-pop-music-show-recordings-in-seoul-2026-source-1",
+        "title": "KBS: Music Bank episode audience applications",
+        "url": "https://kbsticket.kbs.co.kr/requestnew/list.do?m_seq=9",
+        "note": "Live episode list, venue names, age and application status when published.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:how-to-attend-k-pop-music-show-recordings-in-seoul-2026-source-2",
+        "title": "KBS public audience guide",
+        "url": "https://kbsticket.kbs.co.kr/mobile/popupnew/guide.do",
+        "note": "Official membership, application and ticket procedure. Follow the dated episode rules.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:how-to-attend-k-pop-music-show-recordings-in-seoul-2026-source-3",
+        "title": "KBS: addresses and public transport",
+        "url": "https://about.kbs.co.kr/index.html?sname=kbs&stype=location",
+        "note": "Confirms the two public approaches from Saetgang and National Assembly stations.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:how-to-attend-k-pop-music-show-recordings-in-seoul-2026-source-4",
+        "title": "MBC: Show! Music Core",
+        "url": "https://m.imbc.com/program/1000788100000100000",
+        "note": "Start separately from its own program page for official participation notices.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1267,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-kbs-annex-saetgang-2024",
+    "heroCaption": "The KBS Annex near Saetgang Station in September 2024. This view shows the building, and the episode confirmation tells you where to check in.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Aspere",
+      "title": "KBS 별관.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KBS_%EB%B3%84%EA%B4%80.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "KBS Annex · Saetgang"
+  },
+  "seouls-indie-music-hubs-2026": {
+    "id": "guide:seouls-indie-music-hubs-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Pick a dated show first. Rolling Hall lists ticketed concerts near Eoulmadang-ro, and Jebi Dabang in Sangsu has its own live program and event arrangements.",
+    "forWhom": "Visitors looking for a live indie or independent music evening in Seoul",
+    "conditions": [
+      "Schedules, sellouts, age rules and floor access vary by show. Check the listing and your last ride before buying."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "indie music",
+      "Hongdae",
+      "Sangsu"
+    ],
+    "relations": [
+      {
+        "slug": "first-trip-to-korea-planning-guide",
+        "type": "prepare",
+        "label": "Plan the rest of your trip",
+        "reason": "Leave room for a late return to your chosen neighborhood."
+      },
+      {
+        "slug": "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style",
+        "type": "prepare",
+        "label": "Compare Seoul bases",
+        "reason": "Check how your base fits a show ending in Hongdae or Sangsu."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Pick a dated show",
+      "Check admission rules",
+      "Confirm your last ride"
+    ],
+    "sources": [
+      {
+        "id": "guide:seouls-indie-music-hubs-2026-source-1",
+        "title": "Rolling Hall: venue website",
+        "url": "https://www.rollinghall.com/default/index.php",
+        "note": "Confirms the Rolling Hall venue and address on Eoulmadang-ro.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:seouls-indie-music-hubs-2026-source-2",
+        "title": "Rolling Hall: concert listings",
+        "url": "https://www.rollinghall.co.kr/default/mp3/mp3_sub2.php?sub=02",
+        "note": "Consult the exact show for on-sale, entry time and refund details.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:seouls-indie-music-hubs-2026-source-3",
+        "title": "Jebi Dabang: operator",
+        "url": "https://www.ctrplus.com/jebi",
+        "note": "Identifies the Sangsu venue and its own event arrangements.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:seouls-indie-music-hubs-2026-source-4",
+        "title": "Visit Seoul: Jebi Dabang",
+        "url": "https://english.visitseoul.net/area/Jebidabang/ENPqqvqkm",
+        "note": "Confirms the cafe and live performance space near Sangsu.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1268,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-eoulmadang-south-view-2018",
+    "heroCaption": "Looking south along Eoulmadang-ro in Hongdae in 2018. The photo shows the neighborhood street. Use the current venue address for the last walk.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Minseong Kim",
+      "title": "Eoulmadangro z.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eoulmadangro_z.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageLabel": "Eoulmadang-ro · 2018"
   }
 }

@@ -3822,5 +3822,80 @@
       "note": "Korea Open Government License Type 1. The credited record embeds this exact Korea Tourism Organization image. Resized and converted to WebP. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korean-book-stores-english-section-guide": {
+    "src": "/images/cards/korean-book-stores-english-section-guide.jpg",
+    "fingerprint": "821faf7a26356c599feda24b1c427a5e44145a1c94538006c36c7c36bb73add6",
+    "sourceImage": "/images/editorial/archive-seoul-kyobo-gwanghwamun-book-aisle-2017-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Teemeah",
+      "title": "Kyobo bookstore, Seoul.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kyobo_bookstore,_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "halal-korean-food-muslim-friendly-restaurants": {
+    "src": "/images/cards/halal-korean-food-muslim-friendly-restaurants.jpg",
+    "fingerprint": "e1ef1c7378be8606735b760a638a201f2578b7bc08ca79300006d3762b808cca",
+    "sourceImage": "/images/editorial/archive-seoul-itaewon-muslim-dining-street-2023-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Toobigtokale",
+      "title": "Middle Eastern businesses around the Seoul Central Mosque 01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Middle_Eastern_businesses_around_the_Seoul_Central_Mosque_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "renting-a-car-in-korea-international-license-guide": {
+    "src": "/images/cards/renting-a-car-in-korea-international-license-guide.jpg",
+    "fingerprint": "0ff70a82992cf0dfcea861648e20de46114e941af9472d84942d1be427daccfe",
+    "sourceImage": "/images/editorial/archive-jeju-airport-forecourt-2012-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "螺钉",
+      "title": "Jeju International Airport.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_International_Airport.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "how-to-attend-k-pop-music-show-recordings-in-seoul-2026": {
+    "src": "/images/cards/how-to-attend-k-pop-music-show-recordings-in-seoul-2026.jpg",
+    "fingerprint": "bfdc5e22fa05fe328940e132406312ca9dc7e182cde6120f373a465a58cd86e3",
+    "sourceImage": "/images/editorial/archive-seoul-kbs-annex-saetgang-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Aspere",
+      "title": "KBS 별관.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KBS_%EB%B3%84%EA%B4%80.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seouls-indie-music-hubs-2026": {
+    "src": "/images/cards/seouls-indie-music-hubs-2026.jpg",
+    "fingerprint": "23a77901fc2cac4a15fc508b48de5321012b5421fc2d5bcdc1ee01c560d8f0e5",
+    "sourceImage": "/images/editorial/archive-seoul-eoulmadang-south-view-2018-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Minseong Kim",
+      "title": "Eoulmadangro z.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eoulmadangro_z.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

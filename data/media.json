@@ -9350,5 +9350,115 @@
       "licenseUrl": "https://www.kogl.or.kr/info/licenseType1.do",
       "note": "Korea Open Government License Type 1. The credited record embeds this exact Korea Tourism Organization image. Resized and converted to WebP. The image records the scene at the time of photography."
     }
+  },
+  {
+    "id": "archive-seoul-kyobo-gwanghwamun-book-aisle-2017",
+    "src": "/images/editorial/archive-seoul-kyobo-gwanghwamun-book-aisle-2017-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-kyobo-gwanghwamun-book-aisle-2017-640.webp 640w, /images/editorial/archive-seoul-kyobo-gwanghwamun-book-aisle-2017-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Book displays and aisles in Kyobo Book Centre’s Gwanghwamun branch in Seoul.",
+    "focal": "53% 58%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Kyobo_bookstore,_Seoul.jpg",
+    "originalHash": "01d4ddbcd94c36d8b5097cdd0adfd4cc7bd29958feaca2eeb70d3b809e0e5d0f",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Teemeah",
+      "title": "Kyobo bookstore, Seoul.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kyobo_bookstore,_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2017-09-14"
+  },
+  {
+    "id": "archive-seoul-itaewon-muslim-dining-street-2023",
+    "src": "/images/editorial/archive-seoul-itaewon-muslim-dining-street-2023-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-itaewon-muslim-dining-street-2023-640.webp 640w, /images/editorial/archive-seoul-itaewon-muslim-dining-street-2023-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "A sloping Itaewon street lined with shops and restaurants near Seoul Central Mosque.",
+    "focal": "46% 55%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Middle_Eastern_businesses_around_the_Seoul_Central_Mosque_01.jpg",
+    "originalHash": "d2fa63c83d4b5f22003846a5b81c01087d21b830f9a50a04cc845aca13b7e2b9",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Toobigtokale",
+      "title": "Middle Eastern businesses around the Seoul Central Mosque 01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Middle_Eastern_businesses_around_the_Seoul_Central_Mosque_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2023-11-15"
+  },
+  {
+    "id": "archive-jeju-airport-forecourt-2012",
+    "src": "/images/editorial/archive-jeju-airport-forecourt-2012-1280.webp",
+    "srcSet": "/images/editorial/archive-jeju-airport-forecourt-2012-640.webp 640w, /images/editorial/archive-jeju-airport-forecourt-2012-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Jeju Airport’s terminal frontage, control tower and road approach, photographed in 2012.",
+    "focal": "60% 54%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Jeju_International_Airport.jpg",
+    "originalHash": "68483efbeb01ffc9d4ab96a5144c891792d482b691e03e48b1a2f35871efc9a5",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "螺钉",
+      "title": "Jeju International Airport.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_International_Airport.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2012-09-02"
+  },
+  {
+    "id": "archive-seoul-kbs-annex-saetgang-2024",
+    "src": "/images/editorial/archive-seoul-kbs-annex-saetgang-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-kbs-annex-saetgang-2024-640.webp 640w, /images/editorial/archive-seoul-kbs-annex-saetgang-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "The KBS Annex facade near Saetgang Station, with a KBS logo and three flagpoles.",
+    "focal": "50% 58%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:KBS_%EB%B3%84%EA%B4%80.jpg",
+    "originalHash": "b6396125f0baa5de568d224b49aca8eba9c71e24a5d77b7f913401aace41856d",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Aspere",
+      "title": "KBS 별관.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KBS_%EB%B3%84%EA%B4%80.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2024-09-14"
+  },
+  {
+    "id": "archive-seoul-eoulmadang-south-view-2018",
+    "src": "/images/editorial/archive-seoul-eoulmadang-south-view-2018-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-eoulmadang-south-view-2018-640.webp 640w, /images/editorial/archive-seoul-eoulmadang-south-view-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 1847,
+    "alt": "A view south along Eoulmadang-ro between rows of Hongdae shops and distant pedestrians.",
+    "focal": "50% 61%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Eoulmadangro_z.jpg",
+    "originalHash": "34255d5b06bbdcc108f4d98f03748ffee9fc8cd2a6358a7c42ed0e537f2b0ba2",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Minseong Kim",
+      "title": "Eoulmadangro z.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eoulmadangro_z.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2018-05-31"
   }
 ]

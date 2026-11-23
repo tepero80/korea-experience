@@ -802,5 +802,35 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 1
+  },
+  "korean-book-stores-english-section-guide": {
+    "mediaId": "archive-seoul-kyobo-gwanghwamun-book-aisle-2017",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "halal-korean-food-muslim-friendly-restaurants": {
+    "mediaId": "archive-seoul-itaewon-muslim-dining-street-2023",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 1
+  },
+  "renting-a-car-in-korea-international-license-guide": {
+    "mediaId": "archive-jeju-airport-forecourt-2012",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "how-to-attend-k-pop-music-show-recordings-in-seoul-2026": {
+    "mediaId": "archive-seoul-kbs-annex-saetgang-2024",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "seouls-indie-music-hubs-2026": {
+    "mediaId": "archive-seoul-eoulmadang-south-view-2018",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }
