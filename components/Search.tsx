@@ -86,7 +86,7 @@ export default function Search({ variant = 'icon' }: { variant?: 'icon' | 'hero'
         ref={trigger}
         onClick={open}
         className={variant === 'hero' ? 'home-search-trigger' : 'icon-button'}
-        aria-label="Search guides"
+        aria-label={variant === 'hero' ? 'Where do you want to go? Search guides' : 'Search guides'}
       >
         <Icon name="search" />
         {variant === 'hero' ? (

@@ -3,10 +3,19 @@ import { useEffect, useRef } from 'react';
 import { usePathname } from 'next/navigation';
 import adConfig from '@/data/ad-config.json';
 import { readAnalyticsPreference, setAnalyticsPageContext } from '@/lib/analytics';
-import { ANALYTICS_ID, ANALYTICS_ORIGIN, ANALYTICS_READY_EVENT } from '@/lib/analytics-policy';
+import {
+  ANALYTICS_ID,
+  ANALYTICS_ORIGIN,
+  ANALYTICS_READY_EVENT,
+  publicAnalyticsPath,
+} from '@/lib/analytics-policy';
 export default function ProductionServices() {
   const path = usePathname();
-  const lastPage = useRef<{ path: string; referrer: string } | null>(null);
+  const navigation = useRef<{
+    path: string | null;
+    context: ReturnType<typeof setAnalyticsPageContext>;
+    viewed: boolean;
+  } | null>(null);
   useEffect(() => {
     if (location.origin !== ANALYTICS_ORIGIN) return;
     // AdSense's own certified message handles advertising consent; the analytics banner does not.
@@ -26,6 +35,22 @@ export default function ProductionServices() {
         adConfig.publisher;
       document.head.append(ads);
     }
+    const publicPath = publicAnalyticsPath(path);
+    if (!navigation.current || navigation.current.path !== publicPath) {
+      const previous = navigation.current;
+      // An excluded route breaks the public path sequence without becoming a referrer.
+      const referrer = previous
+        ? previous.path
+          ? ANALYTICS_ORIGIN + previous.path
+          : ''
+        : document.referrer;
+      navigation.current = {
+        path: publicPath,
+        context: setAnalyticsPageContext(path, referrer),
+        viewed: false,
+      };
+    }
+    const visit = navigation.current;
     function sync() {
       const accepted = readAnalyticsPreference() === 'accepted';
       if (!accepted) {
@@ -34,13 +59,7 @@ export default function ProductionServices() {
         } catch {}
         return;
       }
-      const referrer =
-        lastPage.current?.path === path
-          ? lastPage.current.referrer
-          : lastPage.current
-            ? ANALYTICS_ORIGIN + lastPage.current.path
-            : document.referrer;
-      const context = setAnalyticsPageContext(path, referrer);
+      const context = visit.context;
       if (!context) return;
       try {
         window.dataLayer ||= [];
@@ -74,9 +93,9 @@ export default function ProductionServices() {
             allow_ad_personalization_signals: false,
           });
         }
-        if (lastPage.current?.path !== path) {
+        if (!visit.viewed) {
           window.gtag('event', 'page_view', { ...context, page_title: document.title });
-          lastPage.current = { path, referrer: context.page_referrer };
+          visit.viewed = true;
         }
         window.dispatchEvent(new Event(ANALYTICS_READY_EVENT));
       } catch {

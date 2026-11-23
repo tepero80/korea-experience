@@ -53,6 +53,7 @@ export default function Home() {
             <Link href="/blog/first-trip-to-korea-planning-guide">First trip to Korea</Link>
             <Link href="/blog/airport-limousine-bus-vs-arex-express-train">Airport to hotel</Link>
             <Link href="/tools/itinerary">Your day-by-day plan</Link>
+            <Link href="/blog/korea-travel-problem-solving-guide">Need help now?</Link>
           </div>
         </div>
         <figure className="hero-figure">

@@ -46,6 +46,13 @@ test('report URL normalization joins public IDs without treating missing rows or
     assert.equal(contentForReportUrl(input, catalog), null);
 });
 test('OAuth-wide scopes cannot redirect the report code to another property or arbitrary endpoint', () => {
+  const sitemapList =
+    'https://www.googleapis.com/webmasters/v3/sites/sc-domain%3Akoreaexperience.com/sitemaps';
+  assert.doesNotThrow(() => assertReportingRequest(sitemapList));
+  assert.throws(() => assertReportingRequest(sitemapList, {}));
+  assert.throws(() => assertReportingRequest(sitemapList + '?sitemapIndex=https://other.example/sitemap.xml'));
+  assert.throws(() => assertReportingRequest(sitemapList + '/https%3A%2F%2Fother.example%2Fsitemap.xml'));
+  assert.throws(() => assertReportingRequest(sitemapList.replace('koreaexperience.com', 'other.example')));
   assert.doesNotThrow(() =>
     assertReportingEndpoint(
       'https://analyticsdata.googleapis.com/v1beta/properties/522514411:runReport',

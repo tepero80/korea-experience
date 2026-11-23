@@ -75,16 +75,23 @@ async function main() {
     }
     periods[period] = results;
   }
-  const policy = await readOfficial(
-    'AdSense policy issues',
-    `https://adsense.googleapis.com/v2/${REPORTING_TARGETS.adsense}/policyIssues`,
-    tokens.ads,
-  );
-  const alerts = await readOfficial(
-    'AdSense account alerts',
-    `https://adsense.googleapis.com/v2/${REPORTING_TARGETS.adsense}/alerts`,
-    tokens.ads,
-  );
+  const [policy, alerts, sitemaps] = await Promise.all([
+    readOfficial(
+      'AdSense policy issues',
+      `https://adsense.googleapis.com/v2/${REPORTING_TARGETS.adsense}/policyIssues`,
+      tokens.ads,
+    ),
+    readOfficial(
+      'AdSense account alerts',
+      `https://adsense.googleapis.com/v2/${REPORTING_TARGETS.adsense}/alerts`,
+      tokens.ads,
+    ),
+    readOfficial(
+      'GSC sitemap submissions',
+      `https://www.googleapis.com/webmasters/v3/sites/${encodeURIComponent(REPORTING_TARGETS.site)}/sitemaps`,
+      tokens.gsc,
+    ),
+  ]);
   const normalizedPages = Object.fromEntries(
     Object.entries(periods).map(([period, results]) => [
       period,
@@ -129,6 +136,7 @@ async function main() {
     ),
     { key: 'policy', result: policy },
     { key: 'alerts', result: alerts },
+    { key: 'gsc/sitemaps', result: sitemaps },
   ]);
   const report = {
     at: now.toISOString(),
@@ -143,6 +151,7 @@ async function main() {
     normalizedPages,
     policy,
     alerts,
+    sitemaps,
     lastSuccess: Object.fromEntries(
       Object.entries(successes).map(([key, value]) => [
         key,
@@ -164,7 +173,9 @@ async function main() {
       console.log(
         `${period} | ${result.name}: ${result.status}${result.truncated ? ' (partial)' : ''}`,
       );
-  console.log(`Policy: ${policy.status}; alerts: ${alerts.status}. Raw data saved privately.`);
+  console.log(
+    `Policy: ${policy.status}; alerts: ${alerts.status}; GSC sitemap submissions: ${sitemaps.status}. Raw data saved privately.`,
+  );
 }
 main().catch(() => {
   console.error('Reporting execution failed; no credentials or raw provider errors are printed.');

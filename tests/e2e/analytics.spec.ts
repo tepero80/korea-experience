@@ -140,6 +140,36 @@ test('consent, SPA context and first-completion measurement preserve the travele
   expect(await events(page, 'page_view')).toHaveLength(2);
 });
 
+test('returning from an excluded route records a new public view without the private referrer', async ({
+  page,
+}) => {
+  await isolatedProductionOrigin(page);
+  const guide = '/blog/first-trip-to-korea-planning-guide';
+  await page.goto(origin + guide, { referer: 'https://www.google.com/search?q=FIXTURE_PRIVATE' });
+  await page.getByRole('button', { name: 'Allow analytics', exact: true }).click();
+  await expect.poll(async () => (await events(page, 'page_view')).length).toBe(1);
+  await page.evaluate(() => document.documentElement.setAttribute('data-spa-fixture', 'same'));
+  const community = page.locator('a[href="/community"]:visible').first();
+  if (!(await community.isVisible())) {
+    await page.getByRole('button', { name: 'Open menu', exact: true }).click();
+  }
+  await community.click();
+  await expect(page).toHaveURL(origin + '/community');
+  await expect(page.locator('html')).toHaveAttribute('data-spa-fixture', 'same');
+  expect(await events(page, 'page_view')).toHaveLength(1);
+  await page.goBack();
+  await expect(page).toHaveURL(origin + guide);
+  await expect(page.locator('html')).toHaveAttribute('data-spa-fixture', 'same');
+  await expect.poll(async () => (await events(page, 'page_view')).length).toBe(2);
+  const views = await events(page, 'page_view');
+  expect(views[0]?.[2]).toMatchObject({
+    page_location: origin + guide,
+    page_referrer: 'https://www.google.com',
+  });
+  expect(views[1]?.[2]).toMatchObject({ page_location: origin + guide, page_referrer: '' });
+  expect(JSON.stringify(views)).not.toMatch(/FIXTURE_PRIVATE|\/community/);
+});
+
 test('unavailable consent storage leaves the calculator usable and analytics off', async ({
   page,
 }, info) => {

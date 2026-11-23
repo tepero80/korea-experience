@@ -35,6 +35,8 @@ The setup helper uses a random-port127.0.0.1 callback, PKCE S256 and state; it d
 
 Reports save only under ignored `.private/reports`, with current and previous adjacent28-day windows and a3-day freshness buffer. GSC Web final reports use Pacific dates and remain top-row/privacy-limited after pagination. GA retains hostname filters, timezone, threshold/sampling metadata and quota. AdSense revenue explicitly uses USD and Google's reporting timezone, kept separate from account-home browser cards. Pages join to stable content IDs; a missing row is not zero demand. API failure/expiry/quota is unavailable, never zero activity or policy-clear.
 
+Search Console sitemap observations record the provider's last download, pending status, warnings and errors for the approved property. Compare Google's downloaded version with the current public sitemap. Sitemap submission counts and HTTP responses do not establish which URLs Google has indexed.
+
 Pagination is bounded at100,000 rows and explicitly partial when capped. Actual URL inspection describes Google's indexed version, not a live crawl or indexing request. Unknown backlinks and first-public dates still block retirement. Keep dated browser snapshots as supplementary evidence rather than silently merging periods/scopes.
 
 ## Performance and social evidence

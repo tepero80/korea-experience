@@ -33,6 +33,7 @@ export function assertReportingEndpoint(value: string) {
   const url = new URL(value);
   const allowed = [
     /^https:\/\/www\.googleapis\.com\/webmasters\/v3\/sites\/sc-domain%3Akoreaexperience\.com\/searchAnalytics\/query$/,
+    /^https:\/\/www\.googleapis\.com\/webmasters\/v3\/sites\/sc-domain%3Akoreaexperience\.com\/sitemaps$/,
     /^https:\/\/searchconsole\.googleapis\.com\/v1\/urlInspection\/index:inspect$/,
     /^https:\/\/analyticsdata\.googleapis\.com\/v1beta\/properties\/522514411:(?:runReport|runRealtimeReport)$/,
     /^https:\/\/adsense\.googleapis\.com\/v2\/accounts\/pub-7793293419727384(?:\/reports:generate|\/alerts|\/policyIssues)?$/,
@@ -54,6 +55,12 @@ export function assertReportingRequest(value: string, body?: unknown) {
   assertReportingEndpoint(value);
   const url = new URL(value);
   const input = body as Record<string, any> | undefined;
+  if (
+    url.pathname.endsWith('/sitemaps') &&
+    (body !== undefined || url.search || url.hash || url.username || url.password)
+  ) {
+    throw Error('Sitemap reporting only lists submissions for the approved property.');
+  }
   if (url.hostname === 'searchconsole.googleapis.com') {
     const inspected = input?.inspectionUrl;
     if (input?.siteUrl !== 'sc-domain:koreaexperience.com' || typeof inspected !== 'string')
