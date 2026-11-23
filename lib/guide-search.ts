@@ -158,6 +158,15 @@ function focusedGuides(phrase: string) {
   if (/\bdaejeon station\b/.test(phrase) && /\b(?:metro|subway|line 1|line one)\b/.test(phrase)) {
     return ['daejeon-station-ktx-to-metro-line-one', 'daejeon-station-to-jungang-market-short-visit'];
   }
+  if (/\b(?:namchuncheon|chuncheon national)\b/.test(phrase) && /\bmuseum\b/.test(phrase)) {
+    return ['namchuncheon-to-chuncheon-national-museum'];
+  }
+  if (/\bsuncheon\b/.test(phrase) && /\bnational garden\b/.test(phrase) && /\b(?:station|bus|east gate)\b/.test(phrase)) {
+    return ['suncheon-station-to-national-garden-east-gate'];
+  }
+  if (/\btaejongdae\b/.test(phrase) && /\b(?:bus|busan station|transport)\b/.test(phrase)) {
+    return ['busan-station-to-taejongdae-by-city-bus'];
+  }
   if (/\bsongdo\b/.test(phrase) && /\b(?:incheon airport|incheon international airport|icn)\b/.test(phrase)) {
     return ['incheon-airport-to-songdo-hotels'];
   }

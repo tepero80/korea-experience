@@ -2394,5 +2394,95 @@
       "note": "Photographed 2016-08-21. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "mokpo-gatbawi-coastal-walk-and-culture-town": {
+    "src": "/images/cards/mokpo-gatbawi-coastal-walk-and-culture-town.jpg",
+    "fingerprint": "a55aa3639e0fd502ee94fc00eea48d209af30134c742ae82c93f678e25aea296",
+    "sourceImage": "/images/editorial/mokpo-gatbawi-rocks-waterfront-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gatbawi rock, Mokpo - panoramio.jpg",
+      "author": "gary4now",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gatbawi_rock,_Mokpo_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Photographed 2011-01-06. The Commons import confirms the archived Panoramio license. The photograph shows the rock formations, without documenting today's access. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jeju-city-samseonghyeol-dongmun-heritage-walk": {
+    "src": "/images/cards/jeju-city-samseonghyeol-dongmun-heritage-walk.jpg",
+    "fingerprint": "926c2614962413dcd47cc4f599620abee6984e7b877b76004320aa91ba5e97de",
+    "sourceImage": "/images/editorial/jeju-samseonghyeol-sacred-grove-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Samseonghyeol 2026 01.jpg",
+      "author": "Grapesurgeon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samseonghyeol_2026_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-04-15. Current-era view of the actual grove. Follow signs for visitor paths. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "daegu-national-museum-costume-and-history-visit": {
+    "src": "/images/cards/daegu-national-museum-costume-and-history-visit.jpg",
+    "fingerprint": "0f2ef9fc1186ba92568e108f444f65abd5de7cf10efb5cb247eb31a74e5a1762",
+    "sourceImage": "/images/editorial/daegu-national-museum-street-approach-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Daegu National Museum.jpg",
+      "author": "Trainholic (2018 tonal adjustment by Ismoon)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daegu_National_Museum.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2015-10-25. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "namchuncheon-to-chuncheon-national-museum": {
+    "src": "/images/cards/namchuncheon-to-chuncheon-national-museum.jpg",
+    "fingerprint": "b8788ffc87a9bad7b7861be83b512448ed285db4635541cd792f2809a42b7003",
+    "sourceImage": "/images/editorial/chuncheon-national-museum-west-facade-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "국립춘천박물관 정측면.jpg",
+      "author": "Sadopaul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B5%AD%EB%A6%BD%EC%B6%98%EC%B2%9C%EB%B0%95%EB%AC%BC%EA%B4%80_%EC%A0%95%EC%B8%A1%EB%A9%B4.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2023-12-08. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "suncheon-station-to-national-garden-east-gate": {
+    "src": "/images/cards/suncheon-station-to-national-garden-east-gate.jpg",
+    "fingerprint": "c949684f6ef479dcfcdc0359022fd5b23dc71beecb6e9810df92cfc661bf8498",
+    "sourceImage": "/images/editorial/suncheon-garden-windmill-and-beds-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Windmill and flower beds at Suncheon Bay National Garden",
+      "author": "lumoplank",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suncheon_Bay_National_Garden-_Part_II_-_SuncheonBNG2945.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "See the source page for image details. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "busan-station-to-taejongdae-by-city-bus": {
+    "src": "/images/cards/busan-station-to-taejongdae-by-city-bus.jpg",
+    "fingerprint": "639fe94cf2c18fcab6339c70e43487de8c90404f3868a270852da21d372748f3",
+    "sourceImage": "/images/editorial/taejongdae-yeongdo-lighthouse-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Yeongdo Lighthouse at Taejongdae",
+      "author": "Seokjoon Choi",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lighthouse_at_Taejongdae,_Busan.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Photographed 2012-08-06. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

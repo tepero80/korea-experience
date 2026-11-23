@@ -754,6 +754,12 @@
     ],
     "relations": [
       {
+        "slug": "suncheon-station-to-national-garden-east-gate",
+        "type": "next",
+        "label": "Continue from Suncheon Station to the garden",
+        "reason": "Confirm your outbound bus stop and choose a return that fits your booked train."
+      },
+      {
         "slug": "where-to-stay-in-busan-neighborhoods",
         "type": "next",
         "label": "Your next decision",
@@ -7442,6 +7448,12 @@
     ],
     "relations": [
       {
+        "slug": "namchuncheon-to-chuncheon-national-museum",
+        "type": "next",
+        "label": "Use Namchuncheon for an indoor museum visit",
+        "reason": "Confirm your train stops there and compare the museum bus with a taxi."
+      },
+      {
         "slug": "chuncheon-samaksan-lake-cable-car-visit",
         "type": "next",
         "label": "Plan the lake cable car",
@@ -7829,6 +7841,12 @@
       "museums"
     ],
     "relations": [
+      {
+        "slug": "daegu-national-museum-costume-and-history-visit",
+        "type": "alternative",
+        "label": "Choose the Suseong museum for historic clothing",
+        "reason": "Keep the downtown visit for a short stop or give the national collection time in a separate outing."
+      },
       {
         "slug": "dongdaegu-station-to-central-daegu",
         "type": "prepare",
@@ -8517,6 +8535,12 @@
       "rainy-day"
     ],
     "relations": [
+      {
+        "slug": "busan-station-to-taejongdae-by-city-bus",
+        "type": "alternative",
+        "label": "Use a clear day for Taejongdae",
+        "reason": "Find the city bus from Busan Station and plan for stairs and changes to the park shuttle."
+      },
       {
         "slug": "busan-museum-un-memorial-cemetery-respectful-half-day",
         "type": "interest",
@@ -13858,6 +13882,12 @@
     ],
     "relations": [
       {
+        "slug": "mokpo-gatbawi-coastal-walk-and-culture-town",
+        "type": "alternative",
+        "label": "Try the Gatbawi coastal walkway",
+        "reason": "Use a separate waterfront block and save the nearby Natural History Museum if outdoor access changes."
+      },
+      {
         "slug": "mokpo-marine-cable-car-boarding-without-a-car",
         "type": "alternative",
         "label": "Choose a cable car terminal",
@@ -14370,6 +14400,12 @@
       "evening"
     ],
     "relations": [
+      {
+        "slug": "jeju-city-samseonghyeol-dongmun-heritage-walk",
+        "type": "prepare",
+        "label": "Walk Jeju City’s old town by day",
+        "reason": "Visit Samseonghyeol before its ticket cutoff and save the market for dinner."
+      },
       {
         "slug": "where-to-stay-in-jeju-without-a-car",
         "type": "prepare",
@@ -15064,6 +15100,667 @@
     },
     "heroMediaId": "daejeon-metro-screen-doors-2016",
     "heroCaption": "Daejeon Station metro platform signs in August 2016. Follow the current train direction when you arrive.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "mokpo-gatbawi-coastal-walk-and-culture-town": {
+    "id": "places-mokpo-gatbawi-coastal-walk",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Use Gatbawi’s coastal footbridge at 166-1 Namnong-ro for the close-up view. Check weather closures before making the trip. Mokpo Natural History Museum at 135 Namnong-ro is the nearby indoor choice when its ticket window is open.",
+    "forWhom": "Travelers planning a short waterside stop or a weather-dependent half-day in Gatbawi Culture Town",
+    "conditions": [
+      "The walkway is free and can close in poor weather.",
+      "The museum has a separate calendar and last ticket time.",
+      "Ask about present ramp and walkway access if mobility support is essential."
+    ],
+    "regions": [
+      "mokpo"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "coast",
+      "walking",
+      "museums",
+      "families"
+    ],
+    "relations": [
+      {
+        "slug": "mokpo-modern-history-museum-harbor-weather-plan",
+        "type": "alternative",
+        "label": "Choose an old-harbor museum day",
+        "reason": "Use the modern-history halls if you are based by Mokpo Station and prefer to stay near the old port."
+      },
+      {
+        "slug": "mokpo-station-to-correct-ferry-terminal",
+        "type": "prepare",
+        "label": "Save the correct ferry terminal",
+        "reason": "Confirm where to return and how much time you need before you add a coastal walk."
+      },
+      {
+        "slug": "mokpo-marine-cable-car-boarding-without-a-car",
+        "type": "interest",
+        "label": "Plan a different harbor view",
+        "reason": "Use the cable car as a separate outing and check the correct boarding station."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "mokpo-gatbawi-coastal-walkway",
+      "mokpo-natural-history-museum"
+    ],
+    "sources": [
+      {
+        "id": "places-mokpo-gatbawi-coastal-walk-source-1",
+        "title": "Mokpo City: Gatbawi Marine Walking Bridge",
+        "url": "https://www.mokpo.go.kr/tour/attraction/cultural_assets/list?idx=7444&mode=view",
+        "note": "Lists the road address, geological heritage and floating walkway construction.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-mokpo-gatbawi-coastal-walk-source-2",
+        "title": "Korea Tourism Organization: Mokpo Gatbawi Rock",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=81622",
+        "note": "Lists the approach, free access, seasonal hours and bad-weather closure conditions.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-mokpo-gatbawi-coastal-walk-source-3",
+        "title": "Mokpo City: Tourist information centers",
+        "url": "https://health.mokpo.go.kr/eng/tourism_shopping/guide",
+        "note": "Lists the Gatbawi inquiry desk, its phone number and operating hours.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-mokpo-gatbawi-coastal-walk-source-4",
+        "title": "Korea Tourism Organization: Mokpo Natural History Museum",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=197916",
+        "note": "Lists museum opening, ticket cutoff, fees, closure rules and location.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Find the approach at 166-1 Namnong-ro",
+      "Use the free footbridge when open",
+      "Check the museum’s last ticket time"
+    ],
+    "launchOrder": 1169,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gatbawi rock, Mokpo - panoramio.jpg",
+      "author": "gary4now",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gatbawi_rock,_Mokpo_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Photographed 2011-01-06. The Commons import confirms the archived Panoramio license. The photograph shows the rock formations, without documenting today's access. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "mokpo-gatbawi-rocks-waterfront",
+    "heroCaption": "The twin Gatbawi formations by the shore of Mokpo, photographed in January 2011. The viewpoint is reached by the coastal walkway when open.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "jeju-city-samseonghyeol-dongmun-heritage-walk": {
+    "id": "places-jeju-city-samseonghyeol-walk",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Start at Dongmun Traditional Market and walk to Samseonghyeol through the old town. On a late start, reach the grove before its 17:30 ticket cutoff and visit the market afterward. Add the nearby folklore museum when it is open.",
+    "forWhom": "Travelers staying in Jeju City who want a short, self-guided heritage walk without a car",
+    "conditions": [
+      "Samseonghyeol has a 17:30 last ticket time in the official listing.",
+      "The museum follows its own holiday and Monday closure schedule.",
+      "Market vendor hours vary. The route is outdoors between stops."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "walking",
+      "markets",
+      "heritage",
+      "museums"
+    ],
+    "relations": [
+      {
+        "slug": "dongmun-market-dinner-without-a-car",
+        "type": "next",
+        "label": "Stay downtown for dinner",
+        "reason": "Choose the old-town market after visiting the grove or museum."
+      },
+      {
+        "slug": "jeju-airport-to-jeju-city-and-seogwipo",
+        "type": "prepare",
+        "label": "Plan the arrival or airport ride",
+        "reason": "Choose the transfer around the timed visit and your actual departure."
+      },
+      {
+        "slug": "where-to-stay-in-jeju-without-a-car",
+        "type": "interest",
+        "label": "Choose a walkable Jeju base",
+        "reason": "Compare Jeju City and Seogwipo before putting a daytime walk in your itinerary."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-dongmun-market",
+      "jeju-city-samseonghyeol",
+      "jeju-folklore-and-natural-history-museum"
+    ],
+    "sources": [
+      {
+        "id": "places-jeju-city-samseonghyeol-walk-source-1",
+        "title": "Jeju Tourism Organization: Seongan Olle downtown tour routes",
+        "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CNTS_300000000014329",
+        "note": "Supports the sequence from Dongmun through Jeigak and Samseonghyeol toward the museum. Check guided tours separately.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-jeju-city-samseonghyeol-walk-source-2",
+        "title": "Korea Tourism Organization: Dongmun Traditional Market",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=459&vcontsId=91650",
+        "note": "Lists the market landmark and address.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-jeju-city-samseonghyeol-walk-source-3",
+        "title": "Jeju Tourism Organization: Samseonghyeol visitor details",
+        "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500300",
+        "note": "Lists the location, last ticket time, and different openings on three holidays. Describes the founding story as a legend.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-jeju-city-samseonghyeol-walk-source-4",
+        "title": "Korea Tourism Organization: Samseonghyeol price",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91127",
+        "note": "Lists adult ticket price and describes the exhibitions.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "places-jeju-city-samseonghyeol-walk-source-5",
+        "title": "Jeju Folklore and Natural History Museum: Visitor information",
+        "url": "https://www.jeju.go.kr/museum/guidance/view.htm",
+        "note": "Confirms the museum ticket cutoff, hours and closure rules.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Dongmun Market to Samseonghyeol",
+      "Last grove ticket 17:30",
+      "Add the folklore museum when it is open"
+    ],
+    "launchOrder": 1170,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Samseonghyeol 2026 01.jpg",
+      "author": "Grapesurgeon",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samseonghyeol_2026_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-04-15. Current-era view of the actual grove. Follow signs for visitor paths. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 4.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "jeju-samseonghyeol-sacred-grove",
+    "heroCaption": "The viewing area at Samseonghyeol in Jeju City, photographed in April 2026. Use the visitor paths around the grove.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "daegu-national-museum-costume-and-history-visit": {
+    "id": "culture-daegu-national-museum-costume-visit",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-23",
+    "answer": "Spend a cold afternoon at Daegu National Museum in Suseong. Start with the free costume gallery and aim to arrive by 17:00. Plan a bus connection from Manchon or compare a taxi if time is short.",
+    "forWhom": "Travelers deciding which Daegu museum fits a cold day, especially visitors interested in Korean clothing",
+    "conditions": [
+      "The museum lists last entry at 17:30 with possible earlier closures. VisitKorea lists 17:00.",
+      "The children’s museum and some activities have separate booking rules.",
+      "Regular Monday and holiday closures apply. Check notices for your date."
+    ],
+    "regions": [
+      "daegu"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "museums",
+      "history",
+      "costume",
+      "rainy-day"
+    ],
+    "relations": [
+      {
+        "slug": "daegu-modern-history-museum-downtown-visit",
+        "type": "alternative",
+        "label": "Choose a shorter downtown museum stop",
+        "reason": "Use the central venue if you are near Jungangno or interested in modern city history."
+      },
+      {
+        "slug": "dongdaegu-station-to-central-daegu",
+        "type": "prepare",
+        "label": "Plan where your trip starts in Daegu",
+        "reason": "Work out the arrival and your onward transit before crossing to Suseong."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "daegu-national-museum-suseong"
+    ],
+    "sources": [
+      {
+        "id": "culture-daegu-national-museum-costume-visit-source-1",
+        "title": "Daegu National Museum visitor information",
+        "url": "https://daegu.museum.go.kr/kor/sub01_01.do",
+        "note": "Confirm ordinary hours, closure exceptions, entry and foreign-language guided visit inquiries.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-daegu-national-museum-costume-visit-source-2",
+        "title": "Daegu National Museum directions",
+        "url": "https://daegu.museum.go.kr/kor/sub01_05.do",
+        "note": "Museum address and operator’s Manchon Station bus transfer directions.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-daegu-national-museum-costume-visit-source-3",
+        "title": "Daegu National Museum permanent exhibition plan",
+        "url": "https://daegu.museum.go.kr/kor/sub03_01.do",
+        "note": "Lists the ancient, medieval and costume galleries separately.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-daegu-national-museum-costume-visit-source-4",
+        "title": "Daegu National Museum costume gallery",
+        "url": "https://daegu.museum.go.kr/kor/sub03_01_03_01.do",
+        "note": "Explains the clothing and textile exhibition’s focus.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-daegu-national-museum-costume-visit-source-5",
+        "title": "Daegu National Museum children’s sessions",
+        "url": "https://daegu.museum.go.kr/kor/sub02_05_01.do",
+        "note": "Use the booking link for current availability and eligible visitors.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-daegu-national-museum-costume-visit-source-6",
+        "title": "VisitKorea Daegu National Museum listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111467",
+        "note": "Its last admission is earlier than the museum operator’s. Use 17:00 as a conservative arrival target.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Free permanent galleries",
+      "Aim to enter by 17:00",
+      "Save the Suseong address"
+    ],
+    "launchOrder": 1171,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Daegu National Museum.jpg",
+      "author": "Trainholic (2018 tonal adjustment by Ismoon)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Daegu_National_Museum.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Photographed 2015-10-25. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 3.0. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "daegu-national-museum-street-approach",
+    "heroCaption": "The street approach to Daegu National Museum in October 2015. Use the museum’s current directions for the bus connection and the entrance that suits you.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "namchuncheon-to-chuncheon-national-museum": {
+    "id": "culture-chuncheon-national-museum-namchuncheon",
+    "categoryId": "culture-events",
+    "format": "itinerary",
+    "checkedAt": "2026-11-23",
+    "answer": "Use Namchuncheon Station if your train stops there. Verify bus 100 to the museum’s rear-stop area or compare a taxi. Start with the free main galleries and ask the desk about the media wall.",
+    "forWhom": "Rail travelers looking for a practical indoor Chuncheon outing in cold, wet or windy weather",
+    "conditions": [
+      "The museum lists bus 100. Confirm the current stop, direction and live departure.",
+      "The main museum normally admits visitors to 17:30. Separate hours and activity rules apply in the children’s building.",
+      "Check Monday and holiday notices before booking or changing a train."
+    ],
+    "regions": [
+      "chuncheon"
+    ],
+    "stages": [
+      "before-you-go",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "museums",
+      "history",
+      "rainy-day",
+      "family"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-to-chuncheon-train-choice",
+        "type": "prepare",
+        "label": "Choose the rail service and station",
+        "reason": "Make sure your service stops at Namchuncheon before relying on the museum’s bus directions."
+      },
+      {
+        "slug": "chuncheon-station-to-soyanggang-skywalk",
+        "type": "alternative",
+        "label": "Try an outdoor route on a clearer day",
+        "reason": "Use Chuncheon Station for the Soyanggang route and check deck conditions separately."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "chuncheon-namchuncheon-station",
+      "chuncheon-national-museum-main-visit"
+    ],
+    "sources": [
+      {
+        "id": "culture-chuncheon-national-museum-namchuncheon-source-1",
+        "title": "Chuncheon National Museum visitor information",
+        "url": "https://chuncheon.museum.go.kr/kor/sub01_0101.do",
+        "note": "Main and children’s building hours, standard closure exceptions, elevator access and contacts.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-chuncheon-national-museum-namchuncheon-source-2",
+        "title": "Chuncheon National Museum directions",
+        "url": "https://chuncheon.museum.go.kr/kor/sub01_0109.do",
+        "note": "Museum address, Namchuncheon bus 100 and 박물관후문 stop.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-chuncheon-national-museum-namchuncheon-source-3",
+        "title": "Chuncheon city traffic portal",
+        "url": "https://www.chuncheon.go.kr/traffic/",
+        "note": "Check current notices and follow the city’s live bus link for exact boarding.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-chuncheon-national-museum-namchuncheon-source-4",
+        "title": "Chuncheon National Museum English exhibitions",
+        "url": "https://chuncheon.museum.go.kr/eng/index.do",
+        "note": "Permanent gallery topics and English visitor orientation.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-chuncheon-national-museum-namchuncheon-source-5",
+        "title": "Chuncheon National Museum home page",
+        "url": "https://chuncheon.museum.go.kr/kor/index.do",
+        "note": "Lists hourly media screenings 09:00–17:00. Confirm current program with the front desk.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-chuncheon-national-museum-namchuncheon-source-6",
+        "title": "Chuncheon National Museum venue brochure",
+        "url": "https://chuncheon.museum.go.kr/thumbnail/fileInfo/FI_202412160124109831.pdf",
+        "note": "December 2024 guide places the media wall in the main hall. The museum’s live site and desk take precedence for schedules.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "culture-chuncheon-national-museum-namchuncheon-source-7",
+        "title": "Chuncheon National Museum children’s entry information",
+        "url": "https://chuncheon.museum.go.kr/prog/yeyakInfo/CHILDMUSEUM/kor/sub01_0204/list.do",
+        "note": "The children’s museum has its own entry cutoff and group information. Check any activity separately.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Namchuncheon Station",
+      "Verify bus 100 or take a taxi",
+      "Free main galleries"
+    ],
+    "launchOrder": 1172,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "국립춘천박물관 정측면.jpg",
+      "author": "Sadopaul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EA%B5%AD%EB%A6%BD%EC%B6%98%EC%B2%9C%EB%B0%95%EB%AC%BC%EA%B4%80_%EC%A0%95%EC%B8%A1%EB%A9%B4.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2023-12-08. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "chuncheon-national-museum-west-facade",
+    "heroCaption": "Chuncheon National Museum’s main building in December 2023. Check the current approach before choosing a bus stop or drop-off.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "suncheon-station-to-national-garden-east-gate": {
+    "id": "transport-suncheon-station-garden-east-gate",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "Take bus 66 from across Suncheon Station and get off at 국가정원(동문). Use the East Gate pin, and check the station-bound bus or taxi before committing to your return train.",
+    "forWhom": "Rail travelers making a garden visit in Suncheon without a car",
+    "conditions": [
+      "The garden estimates about 21 minutes for the outbound connection. Check current departures and allow walking and waiting time.",
+      "The garden lists last entry at 19:00 and normally closes on the last Monday of the month.",
+      "The East Gate and Suncheon Bay Wetland are separate destinations."
+    ],
+    "regions": [
+      "suncheon"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "rail",
+      "gardens",
+      "car-free"
+    ],
+    "relations": [
+      {
+        "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+        "type": "prepare",
+        "label": "Find the intercity train first",
+        "reason": "Confirm that the service you choose actually stops at Suncheon before arranging a garden detour."
+      },
+      {
+        "slug": "how-to-use-naver-maps-like-a-local-tips-for-english-speakers-2026",
+        "type": "next",
+        "label": "Save both bus stops",
+        "reason": "Use Korean names and the direction of the bus when you save the departure and return stops."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "suncheon-railway-station",
+      "suncheon-national-garden-east-gate"
+    ],
+    "sources": [
+      {
+        "id": "transport-suncheon-station-garden-east-gate-source-1",
+        "title": "Suncheon Bay National Garden directions",
+        "url": "https://scbay.suncheon.go.kr/garden/0016/0007/",
+        "note": "Gives the station-side landmark, route number, East Gate stop and roughly 21 minutes. The East Gate parking address and the named destination map point are here.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-suncheon-station-garden-east-gate-source-2",
+        "title": "Suncheon Bay National Garden visitor information",
+        "url": "https://scbay.suncheon.go.kr/garden/0016/0001/0001/",
+        "note": "Last entry 19:00 and monthly last-Monday closure. The wetland and paid rides have separate schedules.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-suncheon-station-garden-east-gate-source-3",
+        "title": "Suncheon Bay National Garden visitor notices",
+        "url": "https://scbay.suncheon.go.kr/garden/0019/0001/",
+        "note": "Use current notices for temporary closures and changes.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-suncheon-station-garden-east-gate-source-4",
+        "title": "Suncheon City bus route guide",
+        "url": "https://www.suncheon.go.kr/tour/guide/0002/0001/",
+        "note": "Lists route 66 via Suncheon Station and the garden, and points to the official real-time system.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-suncheon-station-garden-east-gate-source-5",
+        "title": "Korea Tourism Organization garden accessibility",
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=61fbd20f-7bb2-4b94-8483-db1e51b88e9c",
+        "note": "Garden access details, including the entrance and facilities. Verify the trip from the railway station separately.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-suncheon-station-garden-east-gate-source-6",
+        "title": "Korea Tourism Organization on Suncheon Yeokjeon Market",
+        "url": "https://korean.visitkorea.or.kr/detail/ms_detail.do?cotid=ae1edfad-79ba-4577-aa95-f3afcfe99ee6",
+        "note": "Market near the station, used as a short-plan alternative when stalls are open.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "Bus 66 from across 순천역.",
+      "Get off at 국가정원(동문).",
+      "Check the return stop before entering."
+    ],
+    "launchOrder": 1173,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Windmill and flower beds at Suncheon Bay National Garden",
+      "author": "lumoplank",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Suncheon_Bay_National_Garden-_Part_II_-_SuncheonBNG2945.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "See the source page for image details. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "suncheon-garden-windmill-and-beds",
+    "heroCaption": "Flower beds around the windmill at Suncheon Bay National Garden, photographed before December 30, 2024. Seasonal displays change.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "busan-station-to-taejongdae-by-city-bus": {
+    "id": "transport-busan-station-taejongdae-city-bus",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-23",
+    "answer": "From the stop opposite the Kyowon Building near Busan Metro Line 1 Exit 7, take bus 17, 88 or 101 to Taejongdae. Check the return city bus and current park shuttle before leaving.",
+    "forWhom": "Travelers making a no-car day trip from Busan Station or Nampo to coastal Taejongdae",
+    "conditions": [
+      "City bus travel time changes with road conditions and the actual departure.",
+      "Check the park shuttle directly before planning around it. The Danubi train was suspended in July 2026.",
+      "The lighthouse approach includes stairs."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "arrival",
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "bus",
+      "coast",
+      "car-free"
+    ],
+    "relations": [
+      {
+        "slug": "busan-modern-contemporary-history-museum-visit",
+        "type": "alternative",
+        "label": "Choose an indoor stop in Nampo",
+        "reason": "If weather closes paths or cuts your daylight, use a museum visit instead of crossing to the coast."
+      },
+      {
+        "slug": "busan-station-to-nampo-muslim-friendly-dining",
+        "type": "next",
+        "label": "Plan a meal around your return",
+        "reason": "If you are getting off in Nampo or heading back to Busan Station, verify a suitable meal on the same corridor."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "taejongdae-park-information-office",
+      "busan-station-metro",
+      "nampo-station"
+    ],
+    "sources": [
+      {
+        "id": "transport-busan-station-taejongdae-city-bus-source-1",
+        "title": "Busan City park directions",
+        "url": "https://www.busan.go.kr/park/greencitybusan04",
+        "note": "Official addresses, stop opposite the Kyowon Building, Metro Exit 7 and city bus options including the Nampo alternative.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-busan-station-taejongdae-city-bus-source-2",
+        "title": "Visit Busan Taejongdae visitor page",
+        "url": "https://www.visitbusan.net/index.do?lang_cd=en&menuCd=DOM_000000301001001000&uc_seq=258",
+        "note": "Corroborates the city-bus routes and describes the stair approach to Yeongdo Lighthouse. Use the dated shuttle notice and park staff for current ride operation.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-busan-station-taejongdae-city-bus-source-3",
+        "title": "Busan Tourism Association temporary shuttle notice",
+        "url": "https://bta.or.kr/noticeDetail?keyword=&no=1637&page=1&st=",
+        "note": "Published July 10, 2026. Gives the Danubi suspension start and replacement bus arrangements. Opening is subject to on-site confirmation.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-busan-station-taejongdae-city-bus-source-4",
+        "title": "Busan Metro station access information",
+        "url": "https://www2.humetro.busan.kr/homepage/default/stationinfo/page/list01.do?menu_no=1001010201&S_LINE=1&S_STATION=113",
+        "note": "Metro Line 1 Busan Station, separate from the KORAIL station.",
+        "checkedAt": "2026-11-23"
+      },
+      {
+        "id": "transport-busan-station-taejongdae-city-bus-source-5",
+        "title": "Busan City English public transit directory",
+        "url": "https://www.busan.go.kr/eng/public-transportation",
+        "note": "Links to official local buses and metro. Travelers can also check direction and departure in a local map app or at the stop.",
+        "checkedAt": "2026-11-23"
+      }
+    ],
+    "shareFacts": [
+      "From Metro Line 1 Exit 7, find the stop across from 교원빌딩.",
+      "Take bus 17, 88 or 101 to 태종대.",
+      "Check the park shuttle and the city bus back."
+    ],
+    "launchOrder": 1174,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Yeongdo Lighthouse at Taejongdae",
+      "author": "Seokjoon Choi",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lighthouse_at_Taejongdae,_Busan.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Photographed 2012-08-06. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroMediaId": "taejongdae-yeongdo-lighthouse",
+    "heroCaption": "Yeongdo Lighthouse on the rocky Taejongdae shore, photographed in August 2012. Check current access with park staff.",
     "gallery": [],
     "experienceVersion": 2
   }
