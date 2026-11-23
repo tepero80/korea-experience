@@ -2691,5 +2691,19 @@
     "description": "Campus overview marker. Follow the B2 Design Store signs from Eoullim Plaza.",
     "sourceNote": "VisitKorea supplies the campus point and address. Seoul Tourism identifies the store on B2 in the complex.",
     "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "seoul-unhyeongung-residence",
+    "region": "seoul",
+    "name": "Unhyeongung Royal Residence",
+    "nameKo": "운현궁",
+    "latitude": 37.5764042098735,
+    "longitude": 126.987125878091,
+    "address": "서울특별시 종로구 삼일대로 464",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=111253",
+    "visitorUrl": "https://english.visitseoul.net/attractions/UnhyeongungPalace/ENP000471",
+    "description": "Royal residence overview point near Anguk. Check the current walking approach, event closures and access at the site.",
+    "sourceNote": "Korea Tourism Organization publishes this point and address for the compound. The point does not identify an individual gate.",
+    "checkedAt": "2026-11-24"
   }
 ]

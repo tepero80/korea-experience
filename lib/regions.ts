@@ -26,6 +26,7 @@ export const REGIONS: readonly Region[] = [
       'seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style',
       'seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026',
       'tea-houses-in-insadong-2026',
+      'korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026',
       'eunpyeong-hanok-village-museum-bus',
       'k-drama-locations-tour-itaewon-class-to-squid-game-2026',
       'seouls-indie-music-hubs-2026',

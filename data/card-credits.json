@@ -4083,5 +4083,80 @@
       "sourceLabel": "Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg · Wikimedia Commons"
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "t-money-for-taxis-and-bikes-2026": {
+    "src": "/images/cards/t-money-for-taxis-and-bikes-2026.jpg",
+    "fingerprint": "489842ab7b7a893faeb86e56db2e4d61a286066f38e0d13df9f8823a0e54d306",
+    "sourceImage": "/images/editorial/archive-seoul-bike-sinseol-dong-exit-8-2018-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Sarang",
+      "title": "Bicycle-sharing station in Seoul Sinseol-dong.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bicycle-sharing_station_in_Seoul_Sinseol-dong.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bicycle-sharing_station_in_Seoul_Sinseol-dong.jpg#Licensing",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "247-coin-laundromats-guide-2026": {
+    "src": "/images/cards/247-coin-laundromats-guide-2026.jpg",
+    "fingerprint": "3f5385584f4946e4a2716e8f0fe0a6269dd8c03beac23a61d1894439446cac2d",
+    "sourceImage": "/images/editorial/archive-jeju-self-service-laundry-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Sgroey",
+      "title": "Laundromat in korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laundromat_in_korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korean-glasses-and-lenses-in-30-mins-2026": {
+    "src": "/images/cards/korean-glasses-and-lenses-in-30-mins-2026.jpg",
+    "fingerprint": "a7be96f4cf7fb0814681578fc537afea0042054b3b5ac574c69ef1ccaf2ca409",
+    "sourceImage": "/images/editorial/archive-prescription-eyewear-product-example-2020-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Bommi Dharrshini OKC",
+      "title": "Spectacles with frame.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spectacles_with_frame.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026": {
+    "src": "/images/cards/korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026.jpg",
+    "fingerprint": "e641e84fb53dae52073c69d62c86d9b3838812f54d98415e5aef18443747c746",
+    "sourceImage": "/images/editorial/archive-seoul-unhyeongung-norakdang-courtyard-2019-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Tristan Surtel",
+      "title": "Norakdang, Unhyeongung palace.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norakdang%2C_Unhyeongung_palace.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "climate-card-is-it-worth-it-for-30-days-2026": {
+    "src": "/images/cards/climate-card-is-it-worth-it-for-30-days-2026.jpg",
+    "fingerprint": "b6c1689bfc87ad7166d013c3020cd38243a2ed6aad91d9e79d41d03318859f35",
+    "sourceImage": "/images/editorial/archive-seoul-yongsan-ticket-machines-2023-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "YKJJ",
+      "title": "Ticket vending machines.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ticket_vending_machines.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

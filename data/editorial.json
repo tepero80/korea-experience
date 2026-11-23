@@ -691,6 +691,12 @@
         "reason": "Compare the complete journey to your hotel door, including the last connection, luggage and late check-in."
       },
       {
+        "slug": "climate-card-is-it-worth-it-for-30-days-2026",
+        "type": "next",
+        "label": "Plan a month of Seoul transit",
+        "reason": "Compare options after the prepaid monthly Climate Card ended."
+      },
+      {
         "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
         "type": "prepare",
         "label": "Prepare this too",
@@ -2468,6 +2474,12 @@
         "reason": "Prepare a product list and check the domestic store’s prices and membership conditions; global website benefits are separate."
       },
       {
+        "slug": "korean-glasses-and-lenses-in-30-mins-2026",
+        "type": "next",
+        "label": "Check same-day glasses pickup",
+        "reason": "Confirm the time and lens stock before paying for custom eyewear."
+      },
+      {
         "slug": "shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026",
         "type": "next",
         "label": "Find the DDP Design Store",
@@ -3479,6 +3491,12 @@
         "type": "next",
         "label": "Your next decision",
         "reason": "Choose data, calls and SMS requirements separately, then confirm your exact device and activation conditions."
+      },
+      {
+        "slug": "247-coin-laundromats-guide-2026",
+        "type": "next",
+        "label": "Find a laundromat after hours",
+        "reason": "Check a specific branch or ask about guest machines when you need to wash in Korea."
       },
       {
         "slug": "top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026",
@@ -6710,6 +6728,12 @@
         "type": "next",
         "label": "Plan a palace visit",
         "reason": "Check tickets and visit conditions for a nearby historic site."
+      },
+      {
+        "slug": "korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026",
+        "type": "next",
+        "label": "Continue on a Seoul architecture walk",
+        "reason": "Compare the royal residence with hanok houses and the DDP campus."
       }
     ],
     "tools": [
@@ -24716,6 +24740,12 @@
         "reason": "Use fixed-route transport if you cannot arrange a taxi or the live estimate is too high."
       },
       {
+        "slug": "t-money-for-taxis-and-bikes-2026",
+        "type": "next",
+        "label": "Check T-money and public bike payments",
+        "reason": "See which parts of your trip need a separate checkout."
+      },
+      {
         "slug": "incheon-airport-late-night-arrival-guide",
         "type": "prepare",
         "label": "Make a late-arrival plan",
@@ -25912,5 +25942,454 @@
     },
     "cardImageLabel": "Jamsil Station street entrance",
     "cardImageCrop": "contain"
+  },
+  "t-money-for-taxis-and-bikes-2026": {
+    "id": "guide:t-money-for-taxis-and-bikes-2026",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask the driver about T-money if you will pay in the taxi. Rent Seoul Bike separately through its own checkout. A regular short-term Climate Card covers eligible trains and buses; it excludes Seoul Bike.",
+    "forWhom": "Seoul visitors who want to use a transit card, take a taxi or rent a public bike",
+    "conditions": [
+      "Check the taxi or booking’s payment option and the bike app’s current checkout before setting out."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "T-money",
+      "Seoul Bike",
+      "taxi",
+      "transit passes"
+    ],
+    "relations": [
+      {
+        "slug": "taba-taxi-and-kride-2026",
+        "type": "next",
+        "label": "Pick a taxi app or pay the driver",
+        "reason": "Choose a booking method and check whether a ride is prepaid."
+      },
+      {
+        "slug": "seoul-transit-climate-card-vs-tmoney-2026",
+        "type": "prepare",
+        "label": "Compare fares for trains and buses",
+        "reason": "Check coverage and trip dates before loading a short-term transit pass."
+      },
+      {
+        "slug": "climate-card-is-it-worth-it-for-30-days-2026",
+        "type": "alternative",
+        "label": "Plan transit for a month in Seoul",
+        "reason": "Use separate passes or stored value once the legacy monthly product has ended."
+      }
+    ],
+    "tools": [
+      "transit-pass"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Pay for Seoul Bike in its own checkout",
+      "Ask about T-money before a taxi ride",
+      "Short-term Climate Card excludes bikes"
+    ],
+    "sources": [
+      {
+        "id": "guide:t-money-for-taxis-and-bikes-2026-source-1",
+        "title": "Tmoney: taxi payment methods",
+        "url": "https://www.tmoney.co.kr/aeb/biz/contents/contents10.dev",
+        "note": "Lists prepaid transit cards among the supported methods on its taxi payment system.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:t-money-for-taxis-and-bikes-2026-source-2",
+        "title": "Seoul Public Bike: pass types and costs",
+        "url": "https://english.seoul.go.kr/service/movement/seoul-public-bike/2-about-the-service/",
+        "note": "The city lists non-member 60-, 120- and 180-minute options.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:t-money-for-taxis-and-bikes-2026-source-3",
+        "title": "Seoul Public Bike: rent and return",
+        "url": "https://english.seoul.go.kr/service/movement/seoul-public-bike/3-rent-return-bike/",
+        "note": "Explains the switch from checkout to unlocking and return confirmation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:t-money-for-taxis-and-bikes-2026-source-4",
+        "title": "Seoul Metropolitan Government: Climate Card",
+        "url": "https://english.seoul.go.kr/policy/transportation/climate-card/",
+        "note": "Separates tourist short-term coverage from the discontinued prepaid 30-day card.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1282,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-bike-sinseol-dong-exit-8-2018",
+    "heroCaption": "Seoul public bikes at Sinseol-dong Station Exit 8 in 2018. Check the app for current stations and bikes.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Sarang",
+      "title": "Bicycle-sharing station in Seoul Sinseol-dong.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bicycle-sharing_station_in_Seoul_Sinseol-dong.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bicycle-sharing_station_in_Seoul_Sinseol-dong.jpg#Licensing",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Sinseol-dong Station Exit 8 · 2018"
+  },
+  "247-coin-laundromats-guide-2026": {
+    "id": "guide:247-coin-laundromats-guide-2026",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Search for 코인빨래방 or 셀프빨래방, then confirm the exact branch’s self-service hours and payment. If you are on a deadline, check whether your accommodation has resident or guest machines.",
+    "forWhom": "Travelers who need to wash or dry clothes in Korea, especially after business hours",
+    "conditions": [
+      "Confirm entry and last start time at the branch. Some staffed counters close earlier than their self-service area."
+    ],
+    "regions": [
+      "seoul",
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "laundromat",
+      "laundry",
+      "late night",
+      "Korea travel"
+    ],
+    "relations": [
+      {
+        "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+        "type": "prepare",
+        "label": "Check your backup payment",
+        "reason": "Prepare cash or a backup card if the laundry’s usual method is unavailable."
+      },
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "next",
+        "label": "Solve other day-to-day travel problems",
+        "reason": "Keep basic payment, connection and local help options together."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "shareFacts": [
+      "Confirm the exact branch’s hours",
+      "Check the washer and dryer separately",
+      "Ask about guest laundry before walking out"
+    ],
+    "sources": [
+      {
+        "id": "guide:247-coin-laundromats-guide-2026-source-1",
+        "title": "Cleantopia: self-service branch questions",
+        "url": "https://m.cleantopia.com/kr/customer/faqList.do?searchCondition=8",
+        "note": "Explains separate staffed hours and that coin-laundry hours vary by branch.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:247-coin-laundromats-guide-2026-source-2",
+        "title": "Cleantopia: store finder",
+        "url": "https://www.cleantopia.com/kr/store/storeList.do",
+        "note": "Find the actual store and contact details.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:247-coin-laundromats-guide-2026-source-3",
+        "title": "L7 Myeongdong: guest laundry",
+        "url": "https://app.lottehotel.com/myeongdong-l7/en/facilities/laundromat",
+        "note": "Lists guest self-service laundry on the second floor with 24-hour access.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1283,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-jeju-self-service-laundry-2024",
+    "heroCaption": "Self-service laundry machines on Jeju in 2024. Check the hours for the branch you plan to use.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Sgroey",
+      "title": "Laundromat in korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laundromat_in_korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Jeju self-service laundry · 2024"
+  },
+  "korean-glasses-and-lenses-in-30-mins-2026": {
+    "id": "guide:korean-glasses-and-lenses-in-30-mins-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Show the shop the actual prescription and ask for a ready-by time before you pay. Same-day pickup depends on the lenses, stock and fitting, so plan a backup if you leave Seoul soon.",
+    "forWhom": "Seoul visitors who need to pick up prescription glasses before moving on",
+    "conditions": [
+      "Get a shop-specific quote and timing for your order. Schedule fitting and pickup before your travel deadline."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "eyewear",
+      "prescription glasses",
+      "Seoul shopping",
+      "pickup"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "next",
+        "label": "Plan shopping around your pickup",
+        "reason": "Choose a nearby district after the shop confirms when you should return."
+      },
+      {
+        "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+        "type": "prepare",
+        "label": "Check how you will pay",
+        "reason": "Prepare a backup before committing to a custom order."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "shareFacts": [
+      "Ask for a ready-by time before paying",
+      "Keep a fitting and collection buffer",
+      "Check combined frame and lens cost"
+    ],
+    "sources": [
+      {
+        "id": "guide:korean-glasses-and-lenses-in-30-mins-2026-source-1",
+        "title": "Optic Project: shop address and reservations",
+        "url": "https://opticproject.kr/page/reservation.html",
+        "note": "Official booking and contact for the Sinsa shop.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korean-glasses-and-lenses-in-30-mins-2026-source-2",
+        "title": "Visit Seoul: Optic Project",
+        "url": "https://english.visitseoul.net/gangnamarea/2024-opticproject/ENP8jtjh5",
+        "note": "Identifies the Sinsa branch and describes a fast service at that specific shop.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korean-glasses-and-lenses-in-30-mins-2026-source-3",
+        "title": "Visit Seoul: Asem Eye Wear",
+        "url": "https://english.visitseoul.net/gangnamarea/2024-Asem/ENPg9q2f1",
+        "note": "Identifies a separate COEX shop for consultations and lists its contact and location.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1284,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-prescription-eyewear-product-example-2020",
+    "heroCaption": "Eyeglass frames and lenses, photographed outside Korea as a product example. The Seoul shop must confirm availability and timing.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Bommi Dharrshini OKC",
+      "title": "Spectacles with frame.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spectacles_with_frame.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Eyewear product example"
+  },
+  "korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026": {
+    "id": "guide:korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Start at Unhyeongung for tiled roofs and courtyards, then choose Namsangol if you want to compare traditional houses. Finish at Dongdaemun Design Plaza for the contrast with a contemporary public complex.",
+    "forWhom": "Travelers who want a practical Seoul route through traditional and contemporary architecture",
+    "conditions": [
+      "On Mondays, check both heritage sites’ access before traveling. Confirm specific DDP gallery and store hours separately."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "hanok",
+      "Seoul architecture",
+      "DDP",
+      "Unhyeongung"
+    ],
+    "relations": [
+      {
+        "slug": "unhyeongung-anguk-traditional-house-visit",
+        "type": "prepare",
+        "label": "Check the Anguk residence entrance",
+        "reason": "Read the site’s entrance and access details before leaving for Anguk."
+      },
+      {
+        "slug": "namsangol-hanok-village-family-visit",
+        "type": "alternative",
+        "label": "Make the hanok village the main stop",
+        "reason": "Use the village guide for a shorter visit with children."
+      },
+      {
+        "slug": "shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026",
+        "type": "next",
+        "label": "Find the DDP Design Store and Doota",
+        "reason": "Continue to a named shop and its separate map after exploring the public campus."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-unhyeongung-residence",
+      "namsangol",
+      "seoul-ddp-design-campus"
+    ],
+    "shareFacts": [
+      "Start at Unhyeongung near Anguk",
+      "Check heritage access on Mondays",
+      "Find the DDP hall separately"
+    ],
+    "sources": [
+      {
+        "id": "guide:korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026-source-1",
+        "title": "VisitKorea: Unhyeongung Royal Residence",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=111253",
+        "note": "Official address, residence layout, seasonal opening periods and Monday rule.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026-source-2",
+        "title": "Visit Seoul: Namsangol Hanok Village",
+        "url": "https://english.visitseoul.net/attractions/Yeouido-Hangang-Park_/277",
+        "note": "Identifies the traditional houses and Chungmuro-area address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026-source-3",
+        "title": "VisitKorea: Dongdaemun Design Plaza",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=67162",
+        "note": "Complex address and public visitor information.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1285,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-unhyeongung-norakdang-courtyard-2019",
+    "heroCaption": "Norakdang Hall at Unhyeongung in 2019. Start at the royal residence near Anguk for this architecture outing.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Tristan Surtel",
+      "title": "Norakdang, Unhyeongung palace.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norakdang%2C_Unhyeongung_palace.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Unhyeongung · Norakdang Hall"
+  },
+  "climate-card-is-it-worth-it-for-30-days-2026": {
+    "id": "guide:climate-card-is-it-worth-it-for-30-days-2026",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "For a month-long visit, start with stored value for flexible rides. Compare regular short-term Climate Card passes only for blocks of dense Seoul travel. The newer resident Climate Pass has separate eligibility.",
+    "forWhom": "Visitors planning several weeks in Seoul, including side trips outside the pass area",
+    "conditions": [
+      "The prepaid 30-day fare stopped accepting recharges on August 31, 2026. Regular short-term passes still list 1, 2, 3, 5 and 7 days."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Seoul monthly transit",
+      "T-money",
+      "Climate Card",
+      "long stay"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-transit-climate-card-vs-tmoney-2026",
+        "type": "prepare",
+        "label": "Compare actual fare coverage and day counts",
+        "reason": "Check planned stations and choose the short pass length for a dense part of your stay."
+      },
+      {
+        "slug": "t-money-for-taxis-and-bikes-2026",
+        "type": "next",
+        "label": "Pay separately for bikes or taxis",
+        "reason": "Seoul Bike is outside regular short-term pass coverage."
+      },
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "alternative",
+        "label": "Plan the airport journey separately",
+        "reason": "Check airport trains and buses before using a Seoul-only calculation."
+      }
+    ],
+    "tools": [
+      "transit-pass"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Old prepaid 30-day recharging ended",
+      "Compare short passes around dense ride days",
+      "Plan regional rides separately"
+    ],
+    "sources": [
+      {
+        "id": "guide:climate-card-is-it-worth-it-for-30-days-2026-source-1",
+        "title": "Seoul Metropolitan Government: Climate Card",
+        "url": "https://english.seoul.go.kr/policy/transportation/climate-card/",
+        "note": "Lists the 30-day recharge cutoff, short-term periods, coverage and resident-pass eligibility.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:climate-card-is-it-worth-it-for-30-days-2026-source-2",
+        "title": "Seoul Metropolitan Government: Climate Pass transition",
+        "url": "https://english.seoul.go.kr/climate-pass-set-for-official-launch-on-september-1-with-on-site-events-offering-free-card-exchanges/",
+        "note": "Explains the September change and the separate resident-card program.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1286,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-yongsan-ticket-machines-2023",
+    "heroCaption": "Ticket machines at Yongsan Station in 2023. Use the current fare and coverage table for the products available on your trip.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "YKJJ",
+      "title": "Ticket vending machines.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ticket_vending_machines.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Yongsan Station · 2023"
   }
 }

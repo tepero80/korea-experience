@@ -898,5 +898,29 @@
     "subjectUsefulness": 2,
     "sceneClarity": 2,
     "cropPotential": 2
+  },
+  "t-money-for-taxis-and-bikes-2026": {
+    "mediaId": "archive-seoul-bike-sinseol-dong-exit-8-2018",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "247-coin-laundromats-guide-2026": {
+    "mediaId": "archive-jeju-self-service-laundry-2024",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "korean-architecture-tour-from-hanoks-to-futuristic-zaha-hadid-2026": {
+    "mediaId": "archive-seoul-unhyeongung-norakdang-courtyard-2019",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "climate-card-is-it-worth-it-for-30-days-2026": {
+    "mediaId": "archive-seoul-yongsan-ticket-machines-2023",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

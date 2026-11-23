@@ -7201,29 +7201,6 @@
     }
   },
   {
-    "id": "archive-seoul-ddp-curved-facade-night",
-    "src": "/images/editorial/archive-seoul-ddp-curved-facade-night-1280.webp",
-    "srcSet": "/images/editorial/archive-seoul-ddp-curved-facade-night-640.webp 640w, /images/editorial/archive-seoul-ddp-curved-facade-night-1280.webp 1280w",
-    "width": 1280,
-    "height": 853,
-    "alt": "Curved metal panels and reflected lights on the Dongdaemun Design Plaza exterior after dark",
-    "caption": "The curved metal exterior of Dongdaemun Design Plaza in Seoul, in a photograph shared in October 2024.",
-    "focal": "48% 57%",
-    "capturedAt": null,
-    "originalId": "https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_-_DDP2376.jpg",
-    "originalHash": "9d08db827da481a625770595119f75f93e617e395276d75104564fb74a02b42c",
-    "checkedAt": "2026-11-24",
-    "credit": {
-      "kind": "photograph",
-      "title": "Dongdaemun Design Plaza - DDP2376.jpg",
-      "author": "lumoplank",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongdaemun_Design_Plaza_-_DDP2376.jpg",
-      "license": "CC0 1.0",
-      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
-      "note": "Resized and converted to WebP. The image shows the place or subject at the time of photography."
-    }
-  },
-  {
     "id": "archive-busan-dadaepo-sunset-lifeguard-chair",
     "src": "/images/editorial/archive-busan-dadaepo-sunset-lifeguard-chair-1280.webp",
     "srcSet": "/images/editorial/archive-busan-dadaepo-sunset-lifeguard-chair-640.webp 640w, /images/editorial/archive-busan-dadaepo-sunset-lifeguard-chair-1280.webp 1280w",
@@ -9747,5 +9724,115 @@
       "sourceLabel": "Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg · Wikimedia Commons"
     },
     "capturedAt": "2018-09-14"
+  },
+  {
+    "id": "archive-seoul-bike-sinseol-dong-exit-8-2018",
+    "src": "/images/editorial/archive-seoul-bike-sinseol-dong-exit-8-2018-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-bike-sinseol-dong-exit-8-2018-640.webp 640w, /images/editorial/archive-seoul-bike-sinseol-dong-exit-8-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 1078,
+    "alt": "Green and white Seoul public bikes at a rental station outside Sinseol-dong Station Exit 8.",
+    "focal": "48% 52%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Bicycle-sharing_station_in_Seoul_Sinseol-dong.jpg",
+    "originalHash": "d216b9aa489ec2ea924c2843a0d4f39fdb80b2f44a4996cb64877204dbe34ad9",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Sarang",
+      "title": "Bicycle-sharing station in Seoul Sinseol-dong.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Bicycle-sharing_station_in_Seoul_Sinseol-dong.jpg",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/File:Bicycle-sharing_station_in_Seoul_Sinseol-dong.jpg#Licensing",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2018-11-26"
+  },
+  {
+    "id": "archive-jeju-self-service-laundry-2024",
+    "src": "/images/editorial/archive-jeju-self-service-laundry-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-jeju-self-service-laundry-2024-640.webp 640w, /images/editorial/archive-jeju-self-service-laundry-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Numbered washers, stacked dryers and a folding table inside a self-service laundromat on Jeju.",
+    "focal": "50% 56%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Laundromat_in_korea.jpg",
+    "originalHash": "9c34ea5d134bcb33209270bbf9779b32b66709bf62d20557f47bba5f088b5785",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Sgroey",
+      "title": "Laundromat in korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laundromat_in_korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2024-08-24"
+  },
+  {
+    "id": "archive-seoul-unhyeongung-norakdang-courtyard-2019",
+    "src": "/images/editorial/archive-seoul-unhyeongung-norakdang-courtyard-2019-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-unhyeongung-norakdang-courtyard-2019-640.webp 640w, /images/editorial/archive-seoul-unhyeongung-norakdang-courtyard-2019-1280.webp 1280w",
+    "width": 1280,
+    "height": 851,
+    "alt": "Tiled roofs and courtyard at Norakdang Hall in Unhyeongung, with another building visible behind the wall.",
+    "focal": "52% 59%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Norakdang%2C_Unhyeongung_palace.jpg",
+    "originalHash": "686aee8e834d97de17d5390cb411e2b179268929062c852b5655fabe07354fc0",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Tristan Surtel",
+      "title": "Norakdang, Unhyeongung palace.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Norakdang%2C_Unhyeongung_palace.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2019-07-31"
+  },
+  {
+    "id": "archive-prescription-eyewear-product-example-2020",
+    "src": "/images/editorial/archive-prescription-eyewear-product-example-2020-1280.webp",
+    "srcSet": "/images/editorial/archive-prescription-eyewear-product-example-2020-640.webp 640w, /images/editorial/archive-prescription-eyewear-product-example-2020-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Dark eyeglass frames with green arms and two clear lenses, resting on a flat surface.",
+    "focal": "49% 53%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Spectacles_with_frame.jpg",
+    "originalHash": "132b0a3012f22451c0cc6f8b74ed07e0121018911475781a7597512cd7eefb73",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Bommi Dharrshini OKC",
+      "title": "Spectacles with frame.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spectacles_with_frame.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2020-09-26"
+  },
+  {
+    "id": "archive-seoul-yongsan-ticket-machines-2023",
+    "src": "/images/editorial/archive-seoul-yongsan-ticket-machines-2023-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-yongsan-ticket-machines-2023-640.webp 640w, /images/editorial/archive-seoul-yongsan-ticket-machines-2023-1280.webp 1280w",
+    "width": 1280,
+    "height": 1707,
+    "alt": "Three transit ticket machines beneath a bilingual sign at Yongsan Station in Seoul.",
+    "focal": "50% 53%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Ticket_vending_machines.jpg",
+    "originalHash": "9b887f5a63f21f3624358e0556ca5e0637e7761d4fde8dbeb69f3bdd6e41b6d1",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "YKJJ",
+      "title": "Ticket vending machines.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ticket_vending_machines.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2023-01-24"
   }
 ]
