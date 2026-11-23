@@ -17,8 +17,21 @@ for (const p of posts) {
     errors.push('Private editorial notes in public content ' + p.slug);
   const e = p.editorial;
   if (!e) continue;
-  if (!e.answer || e.sources.length === 0 || !e.checkedAt || !e.imageCredit?.license)
+  if (!e.answer || e.sources.length === 0 || !e.checkedAt)
     errors.push('Incomplete review ' + p.slug);
+  if (e.heroOmissionReason !== undefined) {
+    if (
+      !e.heroOmissionReason.trim() ||
+      e.changeType !== 'rewrite' ||
+      initialLaunch.some((guide) => guide.slug === p.slug) ||
+      p.image ||
+      e.heroMediaId ||
+      e.imageCredit
+    )
+      errors.push('Invalid reason for omitting a hero ' + p.slug);
+  } else if (!p.image || !e.imageCredit?.license) {
+    errors.push('Missing reviewed hero or credit ' + p.slug);
+  }
   if (e.checkedAt < '2026-10-30') errors.push('Review date predates launch ' + p.slug);
   for (const s of e.sources) {
     if (!/^https:\/\//.test(s.url) || !s.checkedAt) errors.push('Invalid source ' + p.slug);

@@ -69,45 +69,50 @@ async function main() {
     const details = 'editorial' in post ? post.editorial : undefined;
     const credit = media.find((m) => m.src === post.image)?.credit;
     const crop = details?.cardImageCrop;
-    const photo = await sharp('public' + post.image)
-      .resize(400, crop === 'contain' ? 500 : 630, {
-        fit: credit?.kind === 'illustration' || crop === 'contain' ? 'contain' : 'cover',
-        position: crop === 'contain' ? undefined : crop,
-        background: editorialColors.wash,
-      })
-      .png()
-      .toBuffer();
-    let title = await text(post.title, 46, 710, editorialColors.ink, true, true);
+    const panelWidth = post.image ? 800 : 1200;
+    const copyWidth = post.image ? 710 : 1120;
+    const layers: OverlayOptions[] = [];
+    if (post.image) {
+      const photo = await sharp('public' + post.image)
+        .resize(400, crop === 'contain' ? 500 : 630, {
+          fit: credit?.kind === 'illustration' || crop === 'contain' ? 'contain' : 'cover',
+          position: crop === 'contain' ? undefined : crop,
+          background: editorialColors.wash,
+        })
+        .png()
+        .toBuffer();
+      layers.push({ input: photo, left: panelWidth, top: 0 });
+    }
+    let title = await text(post.title, 46, copyWidth, editorialColors.ink, true, true);
     for (const size of [43, 40, 37]) {
       if ((await sharp(title).metadata()).height! <= 220) break;
-      title = await text(post.title, size, 710, editorialColors.ink, true, true);
+      title = await text(post.title, size, copyWidth, editorialColors.ink, true, true);
     }
     const titleHeight = (await sharp(title).metadata()).height!;
-    const summary = await text(post.excerpt, 21, 710, editorialColors.muted);
+    const summary = await text(post.excerpt, 21, copyWidth, editorialColors.muted);
     if (titleHeight > 220 || (await sharp(summary).metadata()).height! > 85)
       throw Error(`Card copy needs editing: ${post.slug}`);
     const fact = await text(
       details?.shareFacts[0] ||
         'Practical information for international visitors. Confirm important details for your dates.',
       17,
-      710,
+      copyWidth,
       editorialColors.accent,
       true,
     );
     if ((await sharp(fact).metadata()).height! > 64)
       throw Error(`Card fact is too long: ${post.slug}`);
-    const layers: OverlayOptions[] = [
-      { input: photo, left: 800, top: 0 },
+    layers.push(
       {
         input: Buffer.from(
-          `<svg width="800" height="8"><rect width="800" height="8" fill="${editorialColors.accent}"/></svg>`,
+          `<svg width="${panelWidth}" height="8"><rect width="${panelWidth}" height="8" fill="${editorialColors.accent}"/></svg>`,
         ),
         left: 0,
         top: 0,
       },
-      { input: await text('KOREA EXPERIENCE', 21, 710, editorialColors.accent, true, true), left: 40, top: 35 },
+      { input: await text('KOREA EXPERIENCE', 21, copyWidth, editorialColors.accent, true, true), left: 40, top: 35 },
       {
-        input: await text(post.category.toUpperCase(), 15, 710, editorialColors.muted, true),
+        input: await text(post.category.toUpperCase(), 15, copyWidth, editorialColors.muted, true),
         left: 40,
         top: 82,
       },
@@ -120,7 +125,7 @@ async function main() {
             ? 'Checked ' + post.checkedAt + ' · Confirm current conditions'
             : 'Independent guides · Useful planning tools',
           15,
-          710,
+          copyWidth,
           editorialColors.muted,
         ),
         left: 40,
@@ -130,13 +135,13 @@ async function main() {
         input: await text(
           'koreaexperience.com' + (post.slug === 'korea-experience' ? '' : '/blog/' + post.slug),
           13,
-          710,
+          copyWidth,
           editorialColors.ink,
         ),
         left: 40,
         top: 586,
       },
-    ];
+    );
     if (credit) {
       if (details?.cardImageLabel) {
         const imageLabel = await text(details.cardImageLabel, 13, 360, '#ffffff');
@@ -170,6 +175,12 @@ async function main() {
         left: 820,
         top: 549,
       });
+      if ('sourceLabel' in credit && credit.sourceLabel) {
+        const attribution = await text(credit.sourceLabel, 10, 360, '#ffffff');
+        if ((await sharp(attribution).metadata()).height! > 32)
+          throw Error(`Card photo source label is too long: ${post.slug}`);
+        layers.push({ input: attribution, left: 820, top: 572 });
+      }
       layers.push({
         input: await text('Source & reuse: koreaexperience.com/image-credits', 11, 360, '#ffffff'),
         left: 820,
@@ -186,11 +197,13 @@ async function main() {
       sourceImage: post.image,
       credit,
       adaptation:
-        credit?.kind === 'illustration'
-          ? 'Illustration contained in a social preview composition; it does not depict a real facility.'
-          : credit?.kind === 'video-still'
-            ? 'Cropped video still in a social preview composition. The source license also applies to the adapted card.'
-            : 'Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card.',
+        !post.image
+          ? 'Typographic social preview.'
+          : credit?.kind === 'illustration'
+            ? 'Illustration contained in a social preview composition; it does not depict a real facility.'
+            : credit?.kind === 'video-still'
+              ? 'Cropped video still in a social preview composition. The source license also applies to the adapted card.'
+              : 'Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card.',
     };
   }
   fs.writeFileSync('data/card-credits.json', JSON.stringify(credits, null, 2) + '\n');

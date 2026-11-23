@@ -175,6 +175,7 @@
 }
 .photo-credit a {
   text-decoration: underline;
+  overflow-wrap: anywhere;
 }
 .article-layout {
   display: grid;

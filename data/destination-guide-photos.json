@@ -880,5 +880,23 @@
     "subjectUsefulness": 3,
     "sceneClarity": 2,
     "cropPotential": 1
+  },
+  "top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026": {
+    "mediaId": "archive-seoul-daehakro-119-ambulance-2014",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "mountain-temples-meditation-retreats-for-foreigners": {
+    "mediaId": "archive-gyeongju-golgulsa-iljumun-2007",
+    "subjectUsefulness": 3,
+    "sceneClarity": 2,
+    "cropPotential": 2
+  },
+  "underground-shopping-in-subway-stations-2026": {
+    "mediaId": "archive-seoul-jamsil-station-exit-1-2018",
+    "subjectUsefulness": 2,
+    "sceneClarity": 2,
+    "cropPotential": 2
   }
 }

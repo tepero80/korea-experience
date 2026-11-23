@@ -116,6 +116,7 @@ export const REGIONS: readonly Region[] = [
       'gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026',
       'gyeongju-ktx-to-hwangnidan',
       'gyeongju-bulguksa-seokguram-without-a-car',
+      'mountain-temples-meditation-retreats-for-foreigners',
       'gyeongju-donggung-wolji-woljeonggyo-evening-walk',
       'yangdong-village-from-gyeongju-by-bus',
     ],

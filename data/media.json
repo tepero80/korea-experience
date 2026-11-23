@@ -9658,5 +9658,94 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
     },
     "capturedAt": "2012-03-24"
+  },
+  {
+    "id": "archive-seoul-daehakro-119-ambulance-2014",
+    "src": "/images/editorial/archive-seoul-daehakro-119-ambulance-2014-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-daehakro-119-ambulance-2014-640.webp 640w, /images/editorial/archive-seoul-daehakro-119-ambulance-2014-1280.webp 1280w",
+    "width": 1280,
+    "height": 907,
+    "alt": "A white and red ambulance with the number 119 on its side driving along Daehak-ro in Seoul.",
+    "focal": "48% 61%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Ambulance_Daehakro_Seoul_Korea.jpg",
+    "originalHash": "11382847d3c986c73ac19e8f8d51fcba351f0f945a2b26e305af9ee277b7ed84",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "parkyongjoo",
+      "title": "Ambulance Daehakro Seoul Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ambulance_Daehakro_Seoul_Korea.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Cropped, resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2014-02-16"
+  },
+  {
+    "id": "archive-gyeongju-golgulsa-iljumun-2007",
+    "src": "/images/editorial/archive-gyeongju-golgulsa-iljumun-2007-1280.webp",
+    "srcSet": "/images/editorial/archive-gyeongju-golgulsa-iljumun-2007-640.webp 640w, /images/editorial/archive-gyeongju-golgulsa-iljumun-2007-1280.webp 1280w",
+    "width": 1280,
+    "height": 1059,
+    "alt": "The entrance gate at Golgulsa with brightly painted brackets beneath the tiled roof.",
+    "focal": "49% 47%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Iljumun_Gate_at_Golgulsa-Gyeongju-Korea-01.jpg",
+    "originalHash": "a924617a7a0f2f17bdf09d93e7b8ef4216931ddd76b23f9994d4c89d11508e7c",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "nzj",
+      "title": "Iljumun Gate at Golgulsa-Gyeongju-Korea-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iljumun_Gate_at_Golgulsa-Gyeongju-Korea-01.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "capturedAt": "2007-10-03"
+  },
+  {
+    "id": "archive-seoul-heunginjimun-gate-dongdaemun-2019",
+    "src": "/images/editorial/archive-seoul-heunginjimun-gate-dongdaemun-2019-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-heunginjimun-gate-dongdaemun-2019-640.webp 640w, /images/editorial/archive-seoul-heunginjimun-gate-dongdaemun-2019-1280.webp 1280w",
+    "width": 1280,
+    "height": 851,
+    "alt": "The tiled Heunginjimun gate and surrounding stone wall across a Dongdaemun intersection.",
+    "focal": "53% 52%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Heunginjimun%2C_Seoul.jpg",
+    "originalHash": "8e90537828cb821c098b353b2313e6db3d526be12af43480aff9f85b4db82b14",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Tristan Surtel",
+      "title": "Heunginjimun, Seoul.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heunginjimun%2C_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image shows the scene at the time of photography."
+    },
+    "capturedAt": "2019-08-01"
+  },
+  {
+    "id": "archive-seoul-jamsil-station-exit-1-2018",
+    "src": "/images/editorial/archive-seoul-jamsil-station-exit-1-2018-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-jamsil-station-exit-1-2018-640.webp 640w, /images/editorial/archive-seoul-jamsil-station-exit-1-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "The street entrance and station sign at Jamsil Station Exit 1, with covered escalators.",
+    "focal": "50% 50%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg",
+    "originalHash": "a5966c6cfa44f72ec1ef60219b9d4c2244cedb1cdc8c925730dccc50a9fb0870",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "LERK",
+      "title": "Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image shows the scene at the time of photography.",
+      "sourceLabel": "Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg · Wikimedia Commons"
+    },
+    "capturedAt": "2018-09-14"
   }
 ]

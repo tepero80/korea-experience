@@ -2677,5 +2677,19 @@
     "description": "Match the hall named on your ticket once you reach campus.",
     "sourceNote": "Korea Tourism Organization publishes the campus address and map point. This identifies the complex, not an individual auditorium entrance.",
     "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "seoul-ddp-design-campus",
+    "region": "seoul",
+    "name": "Dongdaemun Design Plaza",
+    "nameKo": "동대문디자인플라자 DDP",
+    "latitude": 37.5675445918,
+    "longitude": 127.009932239578,
+    "address": "서울특별시 중구 을지로 281",
+    "officialUrl": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=67162",
+    "visitorUrl": "https://english.visitseoul.net/partners-en/seoul-goods",
+    "description": "Campus overview marker. Follow the B2 Design Store signs from Eoullim Plaza.",
+    "sourceNote": "VisitKorea supplies the campus point and address. Seoul Tourism identifies the store on B2 in the complex.",
+    "checkedAt": "2026-11-24"
   }
 ]

@@ -2468,6 +2468,12 @@
         "reason": "Prepare a product list and check the domestic store’s prices and membership conditions; global website benefits are separate."
       },
       {
+        "slug": "shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026",
+        "type": "next",
+        "label": "Find the DDP Design Store",
+        "reason": "Use the B2 directions for DDP and the separate Doota Mall pin."
+      },
+      {
         "slug": "gangnam-underground-shopping-complex",
         "type": "next",
         "label": "Choose the correct underground mall",
@@ -3275,6 +3281,12 @@
         "reason": "Use Exit 3 and check the route from the venue to your last useful connection."
       },
       {
+        "slug": "k-pop-music-awards-2026-tickets-2026",
+        "type": "next",
+        "label": "Check an awards ceremony’s current edition",
+        "reason": "Confirm the organizer, country and ticket terms first."
+      },
+      {
         "slug": "inspire-arena-event-shuttle-and-airport-return",
         "type": "next",
         "label": "Check the INSPIRE Arena show shuttle",
@@ -3467,6 +3479,12 @@
         "type": "next",
         "label": "Your next decision",
         "reason": "Choose data, calls and SMS requirements separately, then confirm your exact device and activation conditions."
+      },
+      {
+        "slug": "top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026",
+        "type": "next",
+        "label": "Get emergency help in Seoul",
+        "reason": "Save the 119 call steps and the official emergency-department locator."
       },
       {
         "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
@@ -11386,6 +11404,12 @@
         "type": "prepare",
         "label": "Plan the KTX station transfer",
         "reason": "Decide whether to leave luggage in the center before the hillside visit."
+      },
+      {
+        "slug": "mountain-temples-meditation-retreats-for-foreigners",
+        "type": "alternative",
+        "label": "Consider a Golgulsa temple stay",
+        "reason": "Check the reservation and the temple’s own approach before adding a separate Gyeongju outing."
       },
       {
         "slug": "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026",
@@ -25269,6 +25293,12 @@
         "reason": "Compare underground shopping with street, market and department-store options."
       },
       {
+        "slug": "underground-shopping-in-subway-stations-2026",
+        "type": "alternative",
+        "label": "Choose Jamsil or Yeongdeungpo instead",
+        "reason": "Check station arcade shop hours on the part of your route you will already use."
+      },
+      {
         "slug": "tax-refund-for-tourists-how-to-claim",
         "type": "next",
         "label": "Check tax-refund eligibility",
@@ -25427,5 +25457,460 @@
     "experienceVersion": 2,
     "cardImageLabel": "Seoul Gugak Center · Seocho",
     "cardImageCrop": "east"
+  },
+  "top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026": {
+    "id": "guide:top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "For a medical emergency, call 119 from Korea now. Give the dispatcher your current address, entrance or landmark and follow their instructions.",
+    "forWhom": "Visitors who need emergency help or want to save a reliable plan before traveling",
+    "conditions": [
+      "Use 119 for urgent help. For a planned visit, confirm the hospital department and entrance directly."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "emergency",
+      "119",
+      "Seoul",
+      "hospital",
+      "travel safety"
+    ],
+    "relations": [
+      {
+        "slug": "korean-pharmacies-otc-meds-tourists-2026",
+        "type": "alternative",
+        "label": "Find a pharmacy or routine clinical help",
+        "reason": "For a visit you can plan, check a current pharmacy or clinic and confirm language support."
+      },
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "prepare",
+        "label": "Save other numbers for your trip",
+        "reason": "Keep your emergency contact and useful provider numbers available offline."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Call 119 for an ambulance",
+      "Say your current location first",
+      "Use official hospital information for a planned visit"
+    ],
+    "sources": [
+      {
+        "id": "guide:top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026-source-1",
+        "title": "VisitKorea: safety services for international visitors",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=217&vcontsId=248145",
+        "note": "Identifies 119 for fire and ambulance and 112 for police.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026-source-2",
+        "title": "Seoul Metropolitan Government: emergency guidance",
+        "url": "https://english.seoul.go.kr/service/living/disaster-evacuation-tips-citizens/emergency-ready-app/",
+        "note": "Distinguishes 119, 112 and the tourism interpretation service.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026-source-3",
+        "title": "National Fire Agency: reporting an emergency",
+        "url": "https://www.nfa.go.kr/nfa/safetyinfo/emergencyservice/119emergencydeclaration/",
+        "note": "Official dispatch reporting guidance.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026-source-4",
+        "title": "Korea Emergency Medical Portal: emergency room directory",
+        "url": "https://www.e-gen.or.kr/egen/search_emergency_room.do",
+        "note": "Official Korean directory for checking emergency departments by area.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026-source-5",
+        "title": "Seoul Metropolitan Government: emergency medical portal",
+        "url": "https://english.seoul.go.kr/2026-chuseok-holiday-information/",
+        "note": "Confirms current public emergency numbers and official directory.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1277,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-daehakro-119-ambulance-2014",
+    "heroCaption": "An ambulance marked 119 on Daehak-ro in Seoul, photographed in 2014.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "parkyongjoo",
+      "title": "Ambulance Daehakro Seoul Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ambulance_Daehakro_Seoul_Korea.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Cropped, resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Seoul ambulance · 2014"
+  },
+  "shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026": {
+    "id": "guide:shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "For locally designed gifts, start at the DDP Design Store on B2 near Eoullim Plaza. Choose Doota separately for a mall visit at 275 Jangchungdan-ro.",
+    "forWhom": "Visitors looking for design souvenirs or a second shopping stop in Dongdaemun",
+    "conditions": [
+      "Product stock, store hours, exhibitions and access to each part of DDP can change. Check the specific stop."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "DDP",
+      "Dongdaemun",
+      "Korean design",
+      "gifts",
+      "Doota"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "prepare",
+        "label": "Choose a shopping area for this trip",
+        "reason": "Compare Dongdaemun design shopping with other neighborhoods in Seoul."
+      },
+      {
+        "slug": "insadong-traditional-crafts-and-souvenirs",
+        "type": "alternative",
+        "label": "Browse craft souvenirs in Insadong",
+        "reason": "Choose this for a different style of gift shopping and a walk in the historic center."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "seoul-ddp-design-campus",
+      "doota-mall-dongdaemun"
+    ],
+    "shareFacts": [
+      "Look for Design Store on B2",
+      "Use a separate pin for Doota",
+      "Check shop hours before a detour"
+    ],
+    "sources": [
+      {
+        "id": "guide:shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026-source-1",
+        "title": "Seoul Tourism: DDP Design Store and Seoul Goods",
+        "url": "https://english.visitseoul.net/partners-en/seoul-goods",
+        "note": "Identifies the Seoul Goods outlet within the DDP Design Store on B2 at Eoullim Plaza.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026-source-2",
+        "title": "VisitKorea: DDP campus",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=67162",
+        "note": "Confirms the exact address and named campus spaces.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026-source-3",
+        "title": "VisitKorea: Doota Mall",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106371",
+        "note": "Confirms separate mall address and visitor information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026-source-4",
+        "title": "Visit Seoul: Dongdaemun walking route",
+        "url": "https://english.visitseoul.net/walking-tour/K-POP-CHEONGGYE/ENN5by7ci",
+        "note": "Lists Heunginjimun Gate and DDP as distinct landmarks on the same Dongdaemun walking route.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1278,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-heunginjimun-gate-dongdaemun-2019",
+    "heroCaption": "Heunginjimun Gate near Doota and DDP, photographed in 2019. The DDP Design Store is a separate stop at Eoullim Plaza.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Tristan Surtel",
+      "title": "Heunginjimun, Seoul.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heunginjimun%2C_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image shows the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Nearby Heunginjimun Gate · 2019"
+  },
+  "mountain-temples-meditation-retreats-for-foreigners": {
+    "id": "guide:mountain-temples-meditation-retreats-for-foreigners",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "A temple day visit and a reserved Templestay have different arrangements. At Golgulsa, choose the exact programme first if you want an overnight experience. Use the temple name for navigation and read the host’s route instructions.",
+    "forWhom": "Visitors considering a first temple visit or a reserved stay near Gyeongju",
+    "conditions": [
+      "Check access, language, physical activities, meals, dates and return transport with the host. Published programme dates do not indicate a vacancy."
+    ],
+    "regions": [
+      "gyeongju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Golgulsa",
+      "Templestay",
+      "Gyeongju",
+      "temple visit",
+      "meditation"
+    ],
+    "relations": [
+      {
+        "slug": "gyeongju-bulguksa-seokguram-without-a-car",
+        "type": "alternative",
+        "label": "Choose a different temple day in Gyeongju",
+        "reason": "If an overnight slot does not fit, use the separate Bulguksa and Seokguram day-visit route."
+      },
+      {
+        "slug": "gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026",
+        "type": "prepare",
+        "label": "Fit the visit around your Gyeongju base",
+        "reason": "Keep travel time to the temple separate from sights in the historic center."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Choose your visit or stay first",
+      "Search for 골굴사 in maps",
+      "Confirm check-in with the programme"
+    ],
+    "sources": [
+      {
+        "id": "guide:mountain-temples-meditation-retreats-for-foreigners-source-1",
+        "title": "Templestay: Golgulsa host profile",
+        "url": "https://eng.templestay.com/en/MI000000000000000019/temple/introView.do?templeId=Golgulsa",
+        "note": "Official programmes and contact information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:mountain-temples-meditation-retreats-for-foreigners-source-2",
+        "title": "Templestay: Golgulsa programme directions",
+        "url": "https://eng.templestay.com/en/MI000000000000000062/reserve/view.do?bookmarkFlag=&templeFlag=&templeId=Golgulsa&templestaySeq=17163",
+        "note": "Gives current host advice to search by temple name and specifies the check-in office.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:mountain-temples-meditation-retreats-for-foreigners-source-3",
+        "title": "VisitKorea: Golgulsa Temple",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=104360",
+        "note": "Confirms the campus location and distinction between a temple visit and a reserved programme.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:mountain-temples-meditation-retreats-for-foreigners-source-4",
+        "title": "VisitKorea: Templestay overview",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=233&vcontsId=139770",
+        "note": "Explains the options at the participating temples.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1279,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-gyeongju-golgulsa-iljumun-2007",
+    "heroCaption": "Golgulsa’s entrance gate in 2007. Use the programme’s current directions for check-in.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "nzj",
+      "title": "Iljumun Gate at Golgulsa-Gyeongju-Korea-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iljumun_Gate_at_Golgulsa-Gyeongju-Korea-01.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "gallery": [],
+    "experienceVersion": 2,
+    "cardImageCrop": "contain",
+    "cardImageLabel": "Golgulsa gate · Gyeongju"
+  },
+  "k-pop-music-awards-2026-tickets-2026": {
+    "id": "guide:k-pop-music-awards-2026-tickets-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start on the organizer’s page for the exact ceremony and edition. The three 2026 editions listed below have passed. Wait for a dated venue and ticket notice before planning travel for a future ceremony.",
+    "forWhom": "Fans deciding whether a K-pop awards event fits a Korea trip",
+    "conditions": [
+      "The venue may be in another country. Admission, verification and ticket resale rules depend on the event."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "K-pop awards",
+      "MMA",
+      "MAMA",
+      "Golden Disc",
+      "tickets"
+    ],
+    "relations": [
+      {
+        "slug": "how-to-get-k-pop-concert-tickets-ticketing-guide",
+        "type": "prepare",
+        "label": "Prepare for an official ticket sale",
+        "reason": "Check the ticket account, payment, pickup and entry conditions before the sale."
+      },
+      {
+        "slug": "gocheok-sky-dome-concert-arrival-and-return",
+        "type": "next",
+        "label": "Check the Gocheok journey if your venue matches",
+        "reason": "Use this route only once a confirmed Seoul ticket names Gocheok Sky Dome."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check the edition and country",
+      "Use the seller named by the organizer",
+      "Read your event’s admission checklist"
+    ],
+    "sources": [
+      {
+        "id": "guide:k-pop-music-awards-2026-tickets-2026-source-1",
+        "title": "Melon: MMA 2026 information",
+        "url": "https://www.melon.com/en/mma/2026/info",
+        "note": "Historical November 14–15 dates, Gocheok venue and edition-specific ticketing.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:k-pop-music-awards-2026-tickets-2026-source-2",
+        "title": "CJ ENM: 2026 MAMA notice",
+        "url": "https://newsroom.cj.net/2026-mama-a-to-z/",
+        "note": "Historical November 20–21 dates and venue in Osaka.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:k-pop-music-awards-2026-tickets-2026-source-3",
+        "title": "Golden Disc Awards: official edition information",
+        "url": "https://www.goldendisc.co.kr/en/about",
+        "note": "Shows historical edition and venue information, including the Taipei ceremony.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1280,
+    "changeType": "rewrite",
+    "heroOmissionReason": "The previous crowd image could not be verified as any of the named 2026 editions, which took place in three different cities.",
+    "gallery": [],
+    "experienceVersion": 2
+  },
+  "underground-shopping-in-subway-stations-2026": {
+    "id": "guide:underground-shopping-in-subway-stations-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose the arcade on your route. Jamsil serves an east Seoul outing and Yeongdeungpo connects to its own rail and metro station. Check shop hours and the path back to your platform before counting on either stop.",
+    "forWhom": "Visitors looking for a short indoor shopping stop near a station in Seoul",
+    "conditions": [
+      "Retail hours can differ from public passage hours. Check holiday exceptions and the exact station before traveling."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "station shopping",
+      "Jamsil",
+      "Yeongdeungpo",
+      "shopping",
+      "rainy day"
+    ],
+    "relations": [
+      {
+        "slug": "gangnam-underground-shopping-complex",
+        "type": "alternative",
+        "label": "Compare Gangnam Station and Goto Mall",
+        "reason": "Use the specific stations, lines and exits if you are heading to Gangnam or the coach terminal."
+      },
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "prepare",
+        "label": "Choose the right shopping neighborhood",
+        "reason": "Find an alternative if the station arcade is closed or does not sell what you need."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check retail hours separately",
+      "Choose around your railway route",
+      "Save the exact Korean mall name"
+    ],
+    "sources": [
+      {
+        "id": "guide:underground-shopping-in-subway-stations-2026-source-1",
+        "title": "Seoul Facilities Corporation: Jamsil Station arcade",
+        "url": "https://www.sisul.or.kr/open_content/undershop/guide/gangnam/jamsil.jsp",
+        "note": "Official arcade name, address, shop timetable and regular closure days.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:underground-shopping-in-subway-stations-2026-source-2",
+        "title": "Seoul Facilities Corporation: Yeongdeungpo Station arcade",
+        "url": "https://www.sisul.or.kr/open_content/undershop/guide/yeongdeungpo/yeongdeungpo_station.jsp",
+        "note": "Official connected station and address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "guide:underground-shopping-in-subway-stations-2026-source-3",
+        "title": "Seoul Facilities Corporation: arcade holiday guidance",
+        "url": "https://www.sisul.or.kr/open_content/undershop/bbs/bbsMsgDetail.do?bcd=faq&cate1=undershop&msg_seq=146",
+        "note": "Check how public holidays affect the posted regular schedule.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "launchOrder": 1281,
+    "changeType": "rewrite",
+    "gallery": [],
+    "experienceVersion": 2,
+    "heroMediaId": "archive-seoul-jamsil-station-exit-1-2018",
+    "heroCaption": "The street entrance at Jamsil Station Exit 1, photographed in 2018. Follow the station’s current signs for the underground arcade.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "LERK",
+      "title": "Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image shows the scene at the time of photography.",
+      "sourceLabel": "Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg · Wikimedia Commons"
+    },
+    "cardImageLabel": "Jamsil Station street entrance",
+    "cardImageCrop": "contain"
   }
 }

@@ -4017,5 +4017,71 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026": {
+    "src": "/images/cards/top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026.jpg",
+    "fingerprint": "cf80f23211f883c687a2747180ccc488ea719f5d3aa36eee5a497273cf7e3ca8",
+    "sourceImage": "/images/editorial/archive-seoul-daehakro-119-ambulance-2014-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "parkyongjoo",
+      "title": "Ambulance Daehakro Seoul Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ambulance_Daehakro_Seoul_Korea.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Cropped, resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026": {
+    "src": "/images/cards/shopping-for-local-designer-brands-in-dongdaemun-design-plaza-ddp-2026.jpg",
+    "fingerprint": "96e227aaf716388c2d63391424aa885bc558b75b65aae093651555e007417413",
+    "sourceImage": "/images/editorial/archive-seoul-heunginjimun-gate-dongdaemun-2019-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Tristan Surtel",
+      "title": "Heunginjimun, Seoul.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Heunginjimun%2C_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image shows the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "mountain-temples-meditation-retreats-for-foreigners": {
+    "src": "/images/cards/mountain-temples-meditation-retreats-for-foreigners.jpg",
+    "fingerprint": "5ebaa721900e3d019c42af4747317daa3fecf302701275dd88e4932680598a8c",
+    "sourceImage": "/images/editorial/archive-gyeongju-golgulsa-iljumun-2007-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "nzj",
+      "title": "Iljumun Gate at Golgulsa-Gyeongju-Korea-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Iljumun_Gate_at_Golgulsa-Gyeongju-Korea-01.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "k-pop-music-awards-2026-tickets-2026": {
+    "src": "/images/cards/k-pop-music-awards-2026-tickets-2026.jpg",
+    "fingerprint": "7537062e3de14a47d3f280efd3c7a13b772e2714c741d865721190c41ddb1e24",
+    "adaptation": "Typographic social preview."
+  },
+  "underground-shopping-in-subway-stations-2026": {
+    "src": "/images/cards/underground-shopping-in-subway-stations-2026.jpg",
+    "fingerprint": "53b45661365c19f08c6c2ec2df4ef70aa66968949e45338b59f97ea3c04b808f",
+    "sourceImage": "/images/editorial/archive-seoul-jamsil-station-exit-1-2018-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "LERK",
+      "title": "Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image shows the scene at the time of photography.",
+      "sourceLabel": "Seoul-metro-Jamsil-station-entrance-01-20180914-140936.jpg · Wikimedia Commons"
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

@@ -17,6 +17,7 @@ export interface MediaCredit {
   title?: string;
   author?: string;
   sourceUrl?: string;
+  sourceLabel?: string;
   license?: string;
   licenseUrl?: string;
   note?: string;
@@ -43,6 +44,7 @@ export interface EditorialGuide {
   changeType: 'new' | 'rewrite';
   imageCredit?: MediaCredit;
   heroMediaId?: string;
+  heroOmissionReason?: string;
   heroCaption?: string;
   cardImageLabel?: string;
   cardImageCrop?: 'east' | 'west' | 'contain';

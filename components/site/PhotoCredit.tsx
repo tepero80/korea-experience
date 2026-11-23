@@ -14,7 +14,7 @@ export default function PhotoCredit({ credit }: { credit?: MediaCredit }) {
           {' '}
           ·{' '}
           <a href={credit.sourceUrl} target="_blank" rel="noopener noreferrer">
-            Original
+            {credit.sourceLabel || 'Original'}
           </a>
         </>
       ) : null}

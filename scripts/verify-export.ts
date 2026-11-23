@@ -63,7 +63,9 @@ for (const p of getLaunchGuides()) {
   }
   if (!html.includes('Official sources &amp; checks'))
     errors.push('Source section missing ' + p.slug);
-  if (!html.includes('image-credits') && !html.includes('license'))
+  if (p.editorial?.heroOmissionReason && /class="article-cover[" ]/.test(html))
+    errors.push('Withheld cover rendered ' + p.slug);
+  if (!p.editorial?.heroOmissionReason && !html.includes('image-credits') && !html.includes('license'))
     errors.push('Photo provenance missing ' + p.slug);
   if (!fs.existsSync(`out/images/cards/${p.slug}.jpg`))
     errors.push('Missing preview image ' + p.slug);
