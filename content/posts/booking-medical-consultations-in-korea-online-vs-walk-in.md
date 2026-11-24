@@ -8,6 +8,8 @@ author: Korea Experience Editorial
 featured: false
 ---
 
+If you already have a diagnosis or test results, use the [Seoul second-opinion checklist](/blog/medical-second-opinions-how-to-get-them-in-seoul) to check what records can be reviewed before an appointment.
+
 ## Check the kind of reply you received
 
 Seoul National University Hospital’s [online request page](https://www.snuh.org/global/en/patients/appointmentMain.do) is one example of a hospital asking visitors to submit a request and wait for a coordinator’s response. Look for a reply that gives the appointment date, time and department. Save it and ask when to check in.

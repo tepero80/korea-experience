@@ -39,6 +39,8 @@ So, you are on a street corner in Seoul. To your left is a GS25, to your right i
 
 <ComparisonTable headers={['Feature', 'CU', 'GS25', '7-Eleven', 'Emart24']} rows={[{ feature: 'Best Food Item', option1: 'Yonsei Milk Cream Bread', option2: 'Omori Kimchi Stew Ramen', option3: 'Pokemon/Sanrio Snacks', option4: 'No Brand Snacks' }, { feature: 'Vibe', option1: 'Young, Trendy', option2: 'Reliable, K-Food Focus', option3: 'Familiar, Global Imports', option4: 'Sleek, Cafe-style' }, { feature: 'Exclusive Ramen', option1: 'Heyroo Series', option2: 'Omori Kimchi Series', option3: 'Seven Select / Scallion', option4: 'Imsil Cheese Ramen' }, { feature: 'Best For', option1: 'Desserts & Viral Trends', option2: 'Lunchboxes (Bentos)', option3: 'Character Merch', option4: 'Wine & Whiskey' }]} />
 
+If you need a quick meal on the way back to your accommodation, use the [convenience-store heating and pickup guide](/blog/k-content-living-how-to-recreate-your-favorite-k-drama-convenience-store-dinner-like-a-local) to check what that branch can heat or let you take away.
+
 ## Pros and Cons of CVS Dining
 
 <ProsCons pros={['Wallet-Friendly Feasts: You can feast like a king for under $8, including a main, side, drink, and dessert.', '24/7 Accessibility: Whether jet-lagged at 3 AM or hungry after clubbing, these lights never go out.', 'The Vibes: Sitting on a plastic stool outside a GS25 on a cool evening is a core travel memory.']} cons={['Sodium Overload: Most items are processed, so expect some puffiness the next morning.', 'Crowded Seating: Scoring a table in popular areas like Hongdae can be a competitive sport.', 'Trash Anxiety: The strict recycling system can be stressful for first-timers trying to sort waste.']} />

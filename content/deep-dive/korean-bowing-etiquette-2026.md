@@ -20,6 +20,8 @@ For a shop, a hotel desk or a first meeting, start with **안녕하세요** (hel
 | Someone helps you | Say **감사합니다** (thank you). Keep your footing and give people room when you are in a queue or on a moving train. |
 | Your host invites you to do sebae | Watch how the household does it or ask your host to demonstrate. Tell them if kneeling or standing is uncomfortable. |
 
+If you have been invited to a condolence visit, use the [Korean funeral guest guide](/blog/korean-funeral-traditions-understanding-death-and-remembrance-2026) to check the location and the family’s wishes before deciding how to greet them.
+
 ## When a host mentions sebae
 
 **세배** is the deep bow to elders associated with Seollal, the Lunar New Year, as described by [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=1001&vcontsId=1566965). If you are invited to join, ask when it happens and what your host prefers. If you are at a public demonstration, watch for the organizer’s invitation before joining. **새해 복 많이 받으세요** is a polite spoken New Year greeting.

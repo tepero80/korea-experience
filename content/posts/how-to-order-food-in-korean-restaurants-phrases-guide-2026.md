@@ -61,6 +61,8 @@ For dietary needs, use the [ingredient and cross-contact questions](/blog/naviga
 
 Wondering what the small plates are? [Check which Korean side dishes come with the meal](/blog/korean-banchan-side-dishes-complete-guide-2026) before ordering extras.
 
+If you are choosing a soup for breakfast, use the [Korean breakfast soup ordering guide](/blog/korean-hangover-cures-haejangguk-and-remedies) to recognize the label and ask what goes into the broth.
+
 ## Show one useful phrase at a time
 
 You can show the Korean sentence directly to staff. These are communication aids; the answer still determines what is possible.

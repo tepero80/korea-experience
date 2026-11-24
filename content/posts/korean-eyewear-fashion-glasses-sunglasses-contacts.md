@@ -1,32 +1,25 @@
 ---
-title: "Korean eyewear fashion buying guide 2026"
+title: "Buying Glasses in Korea on a Trip: Compare Frames, Lenses and Pickup"
 date: 2026-01-16
-excerpt: "Choose fashion frames or sunglasses, then check the prescription service and collection date separately."
-category: Shopping & K-Beauty
-author: Korea Experience Team
-tags:
-  - "Korean Food"
-  - "Seoul"
-  - "K-Beauty"
-  - "K-Pop"
-  - "Shopping"
-readTime: "14 min read"
-featured: false
-image: "/images/korean-eyewear-fashion-glasses-sunglasses-contacts.webp"
+updated: 2026-11-25
+excerpt: "Ask for a quote that includes the lenses, check collection timing and plan what to do if you discover a fit problem after leaving."
+category: "Shopping & K-Beauty"
+author: Korea Experience Editorial
 ---
 
-Start with the purchase you want to make. A pair of fashion sunglasses, a frame to take home and finished prescription glasses can involve different shops and waiting times. Try the frame in person if you can, and ask which parts of the order the shop can handle.
+## Ask what the advertised price includes
 
-## Choose a shopping stop
+[Seoul’s official listing for the SeeSaw Optical Sinchon branch](https://english.visitseoul.net/MapoArea/SeeSawOpticalStore/ENP6ubtgx) gives one example of an optical shop and the eyewear it sells. Bring your current eyewear information if relevant and ask the shop what it can verify and supply. Ask **렌즈 포함 가격인가요?** to check whether the quote includes lenses.
 
-| If you want | Check at the counter |
+| Check | What to do |
 | --- | --- |
-| Sunglasses or fashion frames | Try the fit with the temples open. Ask what product information, case and return terms are supplied. |
-| A frame to have fitted later | Ask whether another optician can fit lenses to that model. Have your usual optician confirm before buying if you are unsure. |
-| Finished prescription glasses | Confirm the prescription process, total price, exact collection time and what happens if adjustment is needed. |
+| Frame | Try it on and check which sizing and adjustments are included. |
+| Lens | Ask what lens type, finish or prescription the price covers. |
+| Date | Verify when and where to collect the finished item. Allow time for a fit check. |
+| Proof | Keep the order, receipt and any warranty or adjustment information. |
 
-## The process: How to buy glasses in Korea
+## Leave room for the collection visit
 
-A store may offer quick work on particular orders. For example, [the official DAVICH Sinsa Station listing](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=147109) describes consultation and a same-day option at that branch. Ask which frames and lenses qualify for your dates and whether you need a second visit. For health concerns or a change in your vision, ask an appropriate eye-care professional.
+Ask what happens if the order takes longer or you cannot return to the same branch. If you are considering contact lenses or have a fit concern, ask the optician or an eye-care professional what assessment is appropriate.
 
-Before ordering, [check the prescription and pickup process](/blog/korean-eyewear-shopping-guide-prescription-checks-fitting-and-pickup-timing). If style is the main decision, compare [Gentle Monster and Blue Elephant](/blog/gentle-monster-vs-blue-elephant-eyewear-2026).
+See the [Korea shopping visit guide](/blog/olive-young-shopping-guide-must-buy-k-beauty-products) to keep the optician pickup separate from the other stops on your shopping day.

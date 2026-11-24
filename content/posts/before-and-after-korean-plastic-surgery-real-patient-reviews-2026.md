@@ -7,6 +7,8 @@ category: "Medical Tourism"
 author: Korea Experience Editorial
 ---
 
+If the photos appear in a blog or a map listing, use the [Korean clinic review checklist](/blog/reading-korean-medical-reviews-naver-blog-vs-real-patient-experiences) to check the disclosure, branch and booking details.
+
 ## Compare the conditions of the two photographs
 
 The [American Society of Plastic Surgeons’ photo guide](https://www.plasticsurgery.org/news/articles/can-you-trust-before-and-after-photos) explains why timing, lighting and positioning matter and why a portfolio may show selected results. Ask for appropriate examples the clinic has permission to share, and ask who performed the procedure in each example.

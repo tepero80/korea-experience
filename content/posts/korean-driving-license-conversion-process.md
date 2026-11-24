@@ -18,6 +18,8 @@ The [Korean KoROAD exchange page](https://www.safedriving.or.kr/diGuide/selectDi
 | Bring | Ask about your passport, residence card, travel records and photos, and what the office will keep. |
 | Tests | Confirm which medical checks or written tests apply to the issuing jurisdiction. |
 
+If you have moved since your residence card was issued, use the [foreign resident address report guide](/blog/how-to-register-your-foreign-address-change-online-and-offline-2026) to check which documents the reporting service accepts.
+
 ## Call the office before the visit
 
 The [English KoROAD overview](https://www.safedriving.or.kr/enGuide/selectEnGuide22.do) explains the general review and examination sequence. Confirm details with the selected office using the current Korean page if wording differs. Ask whether you must apply in person and when or how the original licence can be returned if it is retained.

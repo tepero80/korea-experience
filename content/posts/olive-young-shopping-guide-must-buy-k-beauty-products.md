@@ -16,6 +16,8 @@ image: /images/editorial/olive-young-store-2021-1280.webp
 
 Bring a shortlist and compare the **exact size, number of items and total price** on the shelf. Before paying, ask the branch whether it offers an immediate tourist refund or issues paperwork for a later claim. Keep your passport and receipts available.
 
+If you are also shopping for glasses, use the [Korean eyewear buying checklist](/blog/korean-eyewear-fashion-glasses-sunglasses-contacts) to budget for lenses and allow time for collection.
+
 ## Choose a branch that fits your day
 
 If you are already in central Seoul, start with [KTO's Olive Young Myeongdong Town listing](https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=263&menuSn=929&vcontsId=248785). The shop is on floors 1–2 at **53 Myeongdong-gil, Jung-gu, Seoul**. Save **서울 중구 명동길 53** for your map app and check current hours before going. For a quick restock, try a branch near a stop you already plan to visit. Confirm stock with the branch if a specific product is your only reason for going.

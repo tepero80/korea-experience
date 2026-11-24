@@ -55,6 +55,8 @@ For data, check the provider's activation instructions and which SIM supplies da
 
 For a declined payment, ask staff whether it completed before trying again. Check issuer alerts through its official app or the number on your card, then use an independent authorized payment method if needed. Keep the receipt, amount, currency and time. A pending entry is not necessarily a completed charge; a refund is not automatic. Use the [foreign-card and ATM guide](/blog/foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options) to plan a backup.
 
+If your stay may run past the permitted date, use the [extension-of-stay checklist](/blog/visa-extension-online-vs-in-person-methods) to verify the filing method and deadline.
+
 ## Make a small offline help sheet now
 
 - Hotel name, Korean address and reception contact.

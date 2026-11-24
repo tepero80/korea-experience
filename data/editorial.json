@@ -45032,5 +45032,704 @@
     "changeType": "rewrite",
     "launchOrder": 1599,
     "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "long-term-tourist-visa-options-for-retirees": {
+    "id": "guide:long-term-tourist-visa-options-for-retirees",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the Korean consulate how long you can stay for your purpose and whether a visa is required. If you plan to live in Korea, ask which qualifying status fits before signing a lease or buying a nonrefundable ticket.",
+    "forWhom": "Retirees comparing a long visit with a move to Korea.",
+    "conditions": [
+      "Visa and entry conditions depend on passport, activities and individual eligibility."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "long visit after retirement",
+      "Korean visa category for longer stays",
+      "consular trip planning"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-visa-portal",
+        "title": "Korea Visa Portal categories",
+        "url": "https://www.visa.go.kr/openPage.do?MENU_ID=10102&LANG_TYPE=EN",
+        "note": "Lists visa categories by purpose such as visits, work and family.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-1345",
+        "title": "Korea Immigration Service 1345 contact information",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Gives the official immigration information channel and calling arrangements.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Tell the consulate your full dates and visit purpose before paying for accommodation."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1600,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "changing-visa-status-while-in-korea": {
+    "id": "guide:changing-visa-status-while-in-korea",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Take your current status, expiry date and proposed new activity to immigration. Ask whether an in-country application is available for that change and obtain the required permission before beginning the new activity.",
+    "forWhom": "Visitors and foreign residents whose planned activity in Korea has changed.",
+    "conditions": [
+      "In-country eligibility and additional documents vary with the current and proposed status."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean status of stay change",
+      "in-country visa questions",
+      "permission for new activity"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-immigration-act",
+        "title": "Korean Immigration Act, Articles 24 and 25",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1028070139",
+        "note": "Sets rules on obtaining permission to change status or extend a stay.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-1345",
+        "title": "Korea Immigration Service 1345 contact information",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Gives the official immigration information channel and calling arrangements.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-hikorea",
+        "title": "HiKorea official immigration services",
+        "url": "https://www.hikorea.go.kr/Main.pt",
+        "note": "Shows official electronic application, visit reservation and status tools.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Tell 1345 your current status, requested status and expiry before booking an immigration visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1601,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "visa-extension-online-vs-in-person-methods": {
+    "id": "guide:visa-extension-online-vs-in-person-methods",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Check your permitted expiry and whether your status can use the electronic service. If you need to apply at an immigration office, verify the correct office and submission deadline early.",
+    "forWhom": "People in Korea who want to request more time under an existing status.",
+    "conditions": [
+      "Application eligibility, filing cutoffs and supporting documents depend on the status and service."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korea extension of stay",
+      "HiKorea electronic application",
+      "immigration appointment deadline"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-immigration-act",
+        "title": "Korean Immigration Act, Articles 24 and 25",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1028070139",
+        "note": "Sets rules on obtaining permission to change status or extend a stay.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-hikorea",
+        "title": "HiKorea official immigration services",
+        "url": "https://www.hikorea.go.kr/Main.pt",
+        "note": "Shows official electronic application, visit reservation and status tools.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-1345",
+        "title": "Korea Immigration Service 1345 contact information",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Gives the official immigration information channel and calling arrangements.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the filing deadline and whether your status allows an online application."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1602,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "how-to-register-your-foreign-address-change-online-and-offline-2026": {
+    "id": "guide:how-to-register-your-foreign-address-change-online-and-offline-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Check your move-in date and reporting deadline as soon as you move. Confirm which local office or online service can accept the report and gather the proof it requires for your situation.",
+    "forWhom": "Registered foreign residents or overseas Koreans whose home address in Korea has changed.",
+    "conditions": [
+      "The deadline and service eligibility vary by status. Check the rule for your own residence category."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "foreign resident address report",
+      "Seoul residence change proof",
+      "foreign resident moving checklist"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-address",
+        "title": "Seoul Metropolitan Government guide to reporting a change of residence",
+        "url": "https://global.seoul.go.kr/hmpg/finf/immi/addr/contPageDetail.do?conts_no=679AD313DF2349B8819FFA654A11AEAA&lang=en",
+        "note": "Explains local reporting channels, evidence of residence and the general deadline.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-hikorea",
+        "title": "HiKorea official immigration services",
+        "url": "https://www.hikorea.go.kr/Main.pt",
+        "note": "Shows official electronic application, visit reservation and status tools.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-1345",
+        "title": "Korea Immigration Service 1345 contact information",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Gives the official immigration information channel and calling arrangements.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the deadline for your status and save the receipt for the address report."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1603,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "moving-to-korea-with-a-pet-quarantine-paperwork-and-flights-2026": {
+    "id": "guide:moving-to-korea-with-a-pet-quarantine-paperwork-and-flights-2026",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Confirm Korea’s quarantine requirements for your pet’s route with the relevant authority before booking. Arrange the exporting government’s certificate and separately confirm that the airline can carry the animal.",
+    "forWhom": "Travelers arriving in Korea with their own dog or cat.",
+    "conditions": [
+      "Requirements vary with the exporting country, itinerary and animal. Verify the route with both quarantine and the carrier."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "dog cat Korea arrival",
+      "Incheon animal quarantine",
+      "airline pet booking"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-pet-entry",
+        "title": "Incheon Airport guide to bringing a dog or cat through quarantine",
+        "url": "https://airport.kr/ap_en/1479/subview.do",
+        "note": "Lists the exporting government certificate and inspection before customs.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-pet-conditions",
+        "title": "Incheon Airport animal and plant quarantine guidance",
+        "url": "https://www.airport.kr/ap_ko/901/subview.do",
+        "note": "Identifies microchip and rabies antibody documentation to check before return to Korea.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Carry the official quarantine certificate and present it before passing through customs at Incheon."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1604,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-eyewear-fashion-glasses-sunglasses-contacts": {
+    "id": "guide:korean-eyewear-fashion-glasses-sunglasses-contacts",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "At the optician, check whether a display price covers the frame only. Ask for the total quote, the lens specification and the confirmed collection date before making a purchase.",
+    "forWhom": "Travelers planning to buy prescription glasses, sunglasses or frames in Korea.",
+    "conditions": [
+      "Availability, fitting, lens production and after-sales service vary by optician."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "buy glasses in Korea",
+      "optician travel pickup",
+      "Korean eyewear quote"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-seesaw-optical",
+        "title": "Seoul Tourism Organization’s SeeSaw Optical branch listing",
+        "url": "https://english.visitseoul.net/MapoArea/SeeSawOpticalStore/ENP6ubtgx",
+        "note": "Identifies a Seoul optical shop and the types of eyewear it lists.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for the total including lenses and get the collection date in writing."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1605,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "k-content-living-how-to-recreate-your-favorite-k-drama-convenience-store-dinner-like-a-local": {
+    "id": "guide:k-content-living-how-to-recreate-your-favorite-k-drama-convenience-store-dinner-like-a-local",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Pick one main item and check its heating instructions before paying. Ask staff whether the shop provides a microwave, hot water or a seating area. Choose a ready-to-eat option if you need to take it with you.",
+    "forWhom": "Travelers arranging a quick one-person dinner from a Korean convenience store.",
+    "conditions": [
+      "Products, equipment and seating vary by branch and time of day."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Korea convenience store dinner",
+      "heat store meal instructions",
+      "ready-to-eat Korean travel food"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-koreanet-gimbap",
+        "title": "Korea.net guide to convenience-store food combinations",
+        "url": "https://www.korea.net/K-InfoHub/SubMainDetail/view?articleId=4100&headwordCd=75&headwordGroupCd=28&pageIndex=1",
+        "note": "Describes examples of pairing triangle gimbap with cup noodles.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-koreanet-noodles",
+        "title": "Korea.net feature on convenience-store ramyeon",
+        "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=138467",
+        "note": "Describes hot-water facilities as one example of how a convenience-store meal is prepared.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the packet and branch equipment before choosing a meal that needs heating."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1606,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-funeral-traditions-understanding-death-and-remembrance-2026": {
+    "id": "guide:korean-funeral-traditions-understanding-death-and-remembrance-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask your contact whether the family is receiving visitors and which funeral hall and room to go to. At the hall, follow the staff or family’s lead for a quiet greeting or tribute.",
+    "forWhom": "Visitors invited to pay condolences at a funeral in Korea.",
+    "conditions": [
+      "Family wishes, religion and individual arrangements determine the details."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean funeral hall directions",
+      "guest condolence etiquette",
+      "Korean funeral notice terms"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-funeral",
+        "title": "Korea.net account of Korean funeral customs",
+        "url": "https://www.korea.net/NewsFocus/Society/view?articleId=173942",
+        "note": "Describes a customary condolence visit and Korean terms in context.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the full Korean funeral hall name and room before leaving."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1607,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-hangover-cures-haejangguk-and-remedies": {
+    "id": "guide:korean-hangover-cures-haejangguk-and-remedies",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Search for 해장국 and choose the type of soup from the menu. Ask about the broth, ingredients and spice level before ordering, especially if you have a dietary restriction.",
+    "forWhom": "Travelers looking for a Korean breakfast soup or a filling meal after a late arrival.",
+    "conditions": [
+      "Haejangguk is a menu category. Broth, ingredients and heat differ by shop."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "haejangguk menu choices",
+      "Korean breakfast soup",
+      "Korean soup ingredient terms"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-soup",
+        "title": "Korea Tourism Organization description of haejangguk",
+        "url": "https://english.visitkorea.or.kr/svc/thingsToDo/foodTrip/special_view.do?vcontsId=178218",
+        "note": "Identifies examples of ingredients and regional or restaurant variations.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-sprouts",
+        "title": "Korea Tourism Organization guide to kongnamul gukbap",
+        "url": "https://english.visitkorea.or.kr/svc/thingsToDo/foodTrip/special_view.do?vcontsId=178212",
+        "note": "Identifies the bean sprout and rice soup, also served for breakfast.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask what is in the broth even if the visible topping is bean sprouts."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1608,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "urban-legends-and-ghost-stories-of-seoul-historical-sites-2026": {
+    "id": "guide:urban-legends-and-ghost-stories-of-seoul-historical-sites-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Treat a supernatural story as folklore and verify the site’s history and visitor rules with the operator. At the former prison in Seodaemun, plan a daytime visit focused on the history and exhibits.",
+    "forWhom": "Travelers who heard a Seoul ghost story and want context before visiting the landmark.",
+    "conditions": [
+      "Opening dates, last entry and room access can change. Check the operator before traveling."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Seoul folklore fact checking",
+      "Seodaemun history visit",
+      "museum access and respect"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "seoul-seodaemun-prison-history-hall"
+    ],
+    "sources": [
+      {
+        "id": "w36-seodaemun-city",
+        "title": "Seoul Metropolitan Government history of Seodaemun Prison",
+        "url": "https://english.seoul.go.kr/seodaemun-prison/",
+        "note": "Provides documented history of the museum and its location.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-seodaemun-visitors",
+        "title": "Korea Tourism Organization Seodaemun Prison History Hall visitor listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111259",
+        "note": "Provides the venue identity and address for planning a daytime visit.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the museum’s verified history, hours and address before following a ghost-tour clip."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1609,
+    "heroOmissionReason": "A credited photograph appears beside the table instructions."
+  },
+  "pre-surgery-checklist-medications-to-avoid": {
+    "id": "guide:pre-surgery-checklist-medications-to-avoid",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Give the operating team and your prescriber a complete list. Ask them to agree on and write down the plan for your usual medicines, vitamins and supplements before you make any changes.",
+    "forWhom": "International patients preparing for a scheduled procedure in Korea.",
+    "conditions": [
+      "Medication decisions depend on the person and procedure. Keep questions about changes with the clinicians managing your care."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "before surgery medication reconciliation",
+      "written medication plan travel",
+      "operating team contact"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-nhs-prep",
+        "title": "NHS guide to preparing for surgery",
+        "url": "https://www.nhs.uk/tests-and-treatments/having-surgery/preparation/",
+        "note": "Explains discussing the full medicine list and receiving specific preparation instructions.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-nhs-discharge",
+        "title": "NHS information about hospital discharge",
+        "url": "https://www.nhs.uk/nhs-services/hospitals/going-into-hospital/being-discharged-from-hospital/",
+        "note": "Explains leaving hospital with a plan, help and contacts.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask the team and prescriber to reconcile the list and give you one written plan."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1610,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "medical-second-opinions-how-to-get-them-in-seoul": {
+    "id": "guide:medical-second-opinions-how-to-get-them-in-seoul",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the second-opinion service whether it can review your type of case and which records it needs. Confirm whether the response is written, in-person or remote before making travel arrangements.",
+    "forWhom": "International patients preparing to ask a Seoul medical center for a second opinion.",
+    "conditions": [
+      "An intake request may need review before a specialist can accept it. Services, timing and costs vary."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Seoul second opinion records",
+      "international hospital assessment",
+      "remote medical records handoff"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-asan-opinion",
+        "title": "Asan Medical Center overseas consultation information",
+        "url": "https://eng.amc.seoul.kr/gb/lang.patients.contents.remote_en.sp",
+        "note": "Describes an overseas second opinion and records reviewed for an assessment.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-uk-aftercare",
+        "title": "UK travel guidance for treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Explains planning follow-up and how to get help for complications during a trip.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask how to send original imaging securely and what the written response will cover."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1611,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "reading-korean-medical-reviews-naver-blog-vs-real-patient-experiences": {
+    "id": "guide:reading-korean-medical-reviews-naver-blog-vs-real-patient-experiences",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Use a review to identify questions and the exact facility. Check whether the author reports sponsorship, then verify the clinician, branch and follow-up details through independent sources and the provider’s published contact.",
+    "forWhom": "Travelers reading Korean blog or map reviews before booking a clinic.",
+    "conditions": [
+      "A review describes selected experience or marketing. Its presence or wording does not establish provider quality or outcomes."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean sponsored clinic review labels",
+      "Naver medical review verification",
+      "clinic branch and aftercare"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-kftc-reviews",
+        "title": "Korea Fair Trade Commission case on undisclosed sponsored reviews",
+        "url": "https://case.ftc.go.kr/com/dscv/dscvHtmlView.do?docCnvrMnNo=14914&docId=20251203165009524429",
+        "note": "Provides an example of an enforcement decision about disclosure of paid endorsements.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-provider-register",
+        "title": "Medical Korea foreign-patient registration overview",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "note": "Provides the government registration framework for institutions serving foreign patients.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the branch and look for 광고 or 협찬 disclosures before trusting a review as independent."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1612,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "post-surgery-swelling-timeline-what-to-expect-week-by-week": {
+    "id": "guide:post-surgery-swelling-timeline-what-to-expect-week-by-week",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Before discharge, ask what changes your own team expects and which changes should prompt a call or urgent assessment. Save a direct contact, a backup service and the address you can reach.",
+    "forWhom": "Travelers who have had a procedure and need to plan how to reach the treating team.",
+    "conditions": [
+      "Expected changes and follow-up depend on your procedure and history. Use the individual instructions provided at discharge."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "swelling discharge contact",
+      "surgery follow-up in Korea",
+      "written instructions after treatment"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-southtees-discharge",
+        "title": "South Tees Hospitals day surgery discharge guide",
+        "url": "https://www.southtees.nhs.uk/resources/discharge-home-following-your-day-surgery-procedure/",
+        "note": "Illustrates using the day surgery team as a contact after discharge.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-nhs-discharge",
+        "title": "NHS information about hospital discharge",
+        "url": "https://www.nhs.uk/nhs-services/hospitals/going-into-hospital/being-discharged-from-hospital/",
+        "note": "Explains leaving hospital with a plan, help and contacts.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Save the direct and out-of-hours contacts before leaving the treating facility."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1613,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korea-medical-tourism-packages-what-s-included": {
+    "id": "guide:korea-medical-tourism-packages-what-s-included",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask for an itemized written estimate tied to a named facility and clinician. Confirm which visits, charges, coordination and aftercare are included and who bills for changes.",
+    "forWhom": "Travelers comparing written package estimates for medical appointments in Korea.",
+    "conditions": [
+      "The examination can change the proposed treatment or charges. Ask what each provider actually commits to."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "medical package cost comparison",
+      "Korean clinic written estimate",
+      "coordinator and follow-up charges"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w36-khidi-estimate",
+        "title": "KHIDI written information for foreign patients",
+        "url": "https://www.medicalkorea.or.kr/korp/notice/faqView.do?faqSn=48",
+        "note": "Lists proposed treatment, possible side effects and expected charges among information to discuss.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w36-uk-aftercare",
+        "title": "UK travel guidance for treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Explains planning follow-up and how to get help for complications during a trip.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask who bills each item and what changes if the consultation changes the plan."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1614,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
   }
 }

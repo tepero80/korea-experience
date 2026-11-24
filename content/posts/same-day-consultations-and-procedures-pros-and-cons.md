@@ -7,6 +7,8 @@ category: "Medical Tourism"
 author: Korea Experience Editorial
 ---
 
+If the quote combines the clinic and travel arrangements, review the [medical package quote checklist](/blog/korea-medical-tourism-packages-what-s-included) to identify who would bill for each part and what can be changed.
+
 ## Ask what the appointment reserves
 
 Before sending money, ask if it is a **consultation only** slot, a treatment slot that depends on the clinician’s examination, or a confirmed treatment booking. Ask which charges apply if you decline treatment or decide to return later. [KHIDI’s foreign-patient guidance](https://www.medicalkorea.or.kr/korp/notice/faqView.do?faqSn=48) identifies the treatment plan, possible side effects and expected costs as details to discuss.

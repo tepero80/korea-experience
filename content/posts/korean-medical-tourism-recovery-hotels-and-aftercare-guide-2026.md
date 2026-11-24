@@ -7,6 +7,8 @@ category: "Medical Tourism"
 author: Korea Experience Editorial
 ---
 
+Before leaving the facility, check the [discharge contact checklist](/blog/post-surgery-swelling-timeline-what-to-expect-week-by-week) so you know whom to call if swelling or another concern changes.
+
 ## Ask the treating team for a written plan
 
 Before paying for a room, ask what help you will need at discharge and where your follow-up will take place. The [NHS discharge guidance](https://www.nhs.uk/nhs-services/hospitals/going-into-hospital/being-discharged-from-hospital/) gives an example of planning transport, support and contacts before leaving hospital. Ask your own team how those arrangements apply to you. Keep its instructions in a language you understand.

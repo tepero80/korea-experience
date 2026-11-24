@@ -18,6 +18,8 @@ author: Korea Experience Editorial
 | With you | Check a companion’s application and evidence separately. |
 | Timing | Ask about processing and rules if your clinical plans change before the trip. |
 
+If you are already in Korea and your purpose changes, use the [Korea status-change checklist](/blog/changing-visa-status-while-in-korea) to check the appropriate process with immigration.
+
 ## Match travel dates to confirmed steps
 
 Ask the clinic which dates are booked, which depend on examination and how it can provide a confirmation for the consulate. Confirm any booking or application terms before making payments. Keep copies of submissions and the written answers from the relevant offices.

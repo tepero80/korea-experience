@@ -22,6 +22,8 @@ On **23 November 2026**, the Ministry of Justice [announced an extension](https:
 
 The notice says an eligible applicant will see an exemption message when scanning the passport information page during the official application process. If the message or your circumstances are unclear, use the K-ETA site's inquiry service and consult the Korean mission responsible for you. Do not assume that a temporary exemption gives a right to work, extends the permitted stay, or replaces a visa required for your intended activity.
 
+If you plan to stay in Korea for an extended period after retirement, use the [long-visit planning checklist](/blog/long-term-tourist-visa-options-for-retirees) to check the full itinerary with the consulate.
+
 ## Work through your own case
 
 1. **Identify the travel document and purpose.** Use the nationality and type of the passport you will present, your arrival date and the actual reason for travel. If your purpose requires a visa, consult the [Korea Visa Portal](https://www.visa.go.kr/openPage.do?MENU_ID=10102) and the appropriate Korean embassy or consulate before applying for a K-ETA.

@@ -32,6 +32,8 @@ Use **Dongnimmun Station (독립문역), Exit 5**. [Visit Seoul](https://english
 
 Moving between buildings involves outdoor paths. Dress for the weather and follow staff directions, especially during snow or maintenance. The [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111259) describes the hall's history and visitor information.
 
+If a ghost-story clip brought you here, use the [Seoul folklore and history guide](/blog/urban-legends-and-ghost-stories-of-seoul-historical-sites-2026) to separate what is documented from the story before deciding what to visit.
+
 ## Hours and fallback
 
 The [district visitor information](https://sdm.go.kr/culture/attraction/sub2020.do) gives **09:30–17:00 from November through February**, with last entry 30 minutes before closing; March–October closing is later. It lists Monday closures, a next-business-day closure when Monday is a holiday, and selected New Year and holiday closures. Confirm current notices with the [history hall](https://sphh.sscmc.or.kr/_eng/) before travelling. If the hall is closed, Independence Park's outdoor grounds are a separate option, subject to weather and posted access; do not expect access to the closed prison exhibitions.

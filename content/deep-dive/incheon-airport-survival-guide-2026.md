@@ -32,6 +32,8 @@ If Incheon is where you enter Korea, follow the signs through **immigration → 
 
 See the [airport’s arrival sequence](https://www.airport.kr/ap_en/1439/subview.do). The airport’s [SmartPass guide](https://www.airport.kr/ap_en/1415/subview.do) describes a departure service. For entry into Korea, follow the on-site immigration signs and ask staff which lane applies.
 
+If a dog or cat is traveling with you, use the [Incheon pet arrival checklist](/blog/moving-to-korea-with-a-pet-quarantine-paperwork-and-flights-2026) to prepare the original documents and find the animal quarantine step before customs.
+
 ## From baggage claim to the arrivals hall
 
 1. **Check the carousel on the screens.** If your checked bag is missing or damaged, show the airline or its handling agent your baggage tag. Report it before leaving the baggage area if possible. Save the report reference and contact instructions. See the [missing checked-bag guide](/blog/incheon-missing-checked-bag).

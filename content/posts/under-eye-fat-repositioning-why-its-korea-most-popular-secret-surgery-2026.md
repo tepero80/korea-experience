@@ -18,6 +18,8 @@ The [NHS eyelid-surgery overview](https://www.nhs.uk/tests-and-treatments/cosmet
 | Visits | Which appointments need to take place with the operating team? |
 | Contact | How should I contact you if I am worried about symptoms or my plans change? |
 
+If your preparation includes a medication question, use the [written medication checklist](/blog/pre-surgery-checklist-medications-to-avoid) to prepare a list for the operating clinician and your prescriber.
+
 ## Get preparation and follow-up from the treating team
 
 Ask the surgeon for written instructions and for a contact if the expected course changes. Review medication questions with the prescriber and ask for instructions for your own situation. The [NHS advice on surgery abroad](https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-surgery-abroad/) recommends agreeing who will provide checkups and how problems will be handled.
