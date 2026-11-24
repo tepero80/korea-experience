@@ -13,6 +13,8 @@ Open [My Seoul Plus](https://global.seoul.go.kr/hmpg/main/main.do?lang=en) and l
 
 The [Gangnam Global Village Center introduction](https://global.seoul.go.kr/hmpg/ainf/ctrs/gvil/gang/intr/contPageDetail.do?conts_no=87822BFD3E7F45708837952DF19B646E&lang=en) gives examples of what a center might organize, including local tours, walking events and a choir. A tour is a natural choice for a single free afternoon. If a choir or club interests you, ask when it next meets, what a new participant should bring and whether you can try a session before signing up for a series.
 
+If you are still searching for a group, [evaluate its online listing, rules and organizer](/blog/expat-communities-facebook-groups-and-forums) before requesting access.
+
 ## Check the listing before you leave
 
 | What to check | What to confirm |

@@ -48228,5 +48228,496 @@
     "changeType": "rewrite",
     "launchOrder": 1663,
     "heroOmissionReason": "The checklist or comparison table supports the decision directly."
+  },
+  "expat-communities-facebook-groups-and-forums": {
+    "id": "guide:expat-communities-facebook-groups-and-forums",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Search for your city or district plus one specific question. Read recent discussions, check who runs the group and use an official source before acting on residency, payment or identity requests.",
+    "forWhom": "People moving to Korea or already living there who want a useful online group for a local question or shared interest.",
+    "conditions": [
+      "Group activity, rules and member visibility vary. KakaoTalk menu labels can differ by version or display language."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "online groups in Korea",
+      "resident forums",
+      "KakaoTalk Open Chat",
+      "Facebook expat groups"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w43-kakao-open-chat-now",
+        "title": "Kakao’s Open Chat navigation announcement",
+        "url": "https://www.kakaocorp.com/page/detail/11725?lang=ENG",
+        "note": "Describes access to Open Chat from the Now tab in its redesigned KakaoTalk interface.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-kakao-impersonation-safety",
+        "title": "Kakao’s impersonation and phishing guidance (Korean)",
+        "url": "https://clean.kakao.com/safe/protect",
+        "note": "Advises confirming who sent an unusual message, checking with the person by voice and keeping financial information out of messaging.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-hikorea-official-resident-help",
+        "title": "Hi Korea services and immigration contact center",
+        "url": "https://www.hikorea.go.kr/Main.pt?locale=en",
+        "note": "Provides the official immigration services menu, notices and 1345 contact information.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Look for recent answers and clear moderators. Confirm a payment, document or residency request independently."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1664,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "social-life-making-korean-friends-as-an-expat": {
+    "id": "guide:social-life-making-korean-friends-as-an-expat",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Return to a shared activity you enjoyed, then send one specific invitation to someone who welcomed contact. Suggest an easy time and public place, and give them room to decline.",
+    "forWhom": "New residents and longer-stay visitors who have already met someone at a public activity and would like to meet again.",
+    "conditions": [
+      "These are example messages and invitations. Use the language and contact method you both prefer."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "making friends in Korea",
+      "language exchange follow-up",
+      "hobby groups in Korea",
+      "Korean invitation phrases"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w43-nikl-gachi-dictionary",
+        "title": "National Institute of Korean Language dictionary entry for 같이",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=26799",
+        "note": "Defines 같이 as doing something together and gives an example of going together.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-nikl-daeum-dictionary",
+        "title": "National Institute of Korean Language dictionary entry for 다음",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=64531&nation=eng&nationCode=6",
+        "note": "Defines the later-time sense of 다음 and gives examples of meeting or seeing someone next time.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Mention the activity you shared, suggest one public plan and leave the invitation open to an easy decline."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1665,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "korean-drinking-games-rules-and-fun": {
+    "id": "guide:korean-drinking-games-rules-and-fun",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Play Baskin Robbins 31 when you want a clear turn order. Each person says one to three consecutive numbers, and whoever says 31 loses. For a larger group, try the seated keyword timing game, where anyone can go next.",
+    "forWhom": "Friends looking for an easy Korean party game to try over a meal or drinks.",
+    "conditions": [
+      "31 works with two or more people. The timing game fits four or more. Agree on simple scoring and make each round optional."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Korean counting games",
+      "Baskin Robbins 31 rules",
+      "Korean table games",
+      "alcohol-free dinner games"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w43-kocw-baskin-robbins-31-rules",
+        "title": "Chungbuk National University counting-game exercise on KOCW (PDF, page 57)",
+        "url": "https://contents.kocw.net/KOCW/document/2014/Chungbuk/owontae/13.pdf#page=57",
+        "note": "The exercise describes taking turns calling up to three consecutive numbers and gives the penalty to the person saying 31. The next PDF page explains the two-player response pattern.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-nikl-sunbeon-dictionary",
+        "title": "National Institute of Korean Language dictionary entry for 순번",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=64901",
+        "note": "Defines 순번 as a turn in a rotation and gives phrases for choosing or following the order.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-goe-keyword-nunchi",
+        "title": "Gyeonggi Office of Education keyword nunchi game (PDF, page 21)",
+        "url": "https://www.goe.go.kr/resource/old/BBSMSTR_000000030136/BBS_202412180301513750.pdf#page=21",
+        "note": "Classroom timing game with no fixed turn order and a rule for simultaneous calls or the last player. The seated version is adapted for this guide.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Try 31 for a game with turns, or keyword nunchi when anyone can go next."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1666,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "sending-money-abroad-from-korea-best-methods-2026": {
+    "id": "guide:sending-money-abroad-from-korea-best-methods-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask your Korean bank and an eligible transfer provider for quotes for the same recipient country, currency, payout method and total KRW debit. Compare the amount the recipient can actually receive and confirm any deductions before you pay.",
+    "forWhom": "Foreign residents in South Korea sending personal funds from a Korean bank account to a known recipient abroad.",
+    "conditions": [
+      "Provider access and document requirements depend on the sender, destination, payout method and purpose. Quotes can expire and some downstream charges may remain unknown. Business payments and investment transactions may follow separate rules."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "overseas remittance from Korea",
+      "Korean bank overseas transfer",
+      "compare remittance cost",
+      "send Korean won abroad"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w43-seoul-bank-transfer",
+        "title": "Seoul Metropolitan Government’s overseas transfer document checklist",
+        "url": "https://english.seoul.go.kr/service/living/convenience/1-banking/",
+        "note": "Lists examples of identity, source-of-funds and beneficiary information for bank transfers and notes that bank fees and restrictions differ. This guide does not use the page’s example thresholds.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-hana-foreign-remittance-setup",
+        "title": "Hana Bank’s foreign-customer remittance FAQ",
+        "url": "https://kebhana.com/cont/customer/customer01/customer0102/customer010204/index%2C1%2Clist%2C2.jsp",
+        "note": "Hana’s own guidance for foreign customers describes branch registration before using online overseas remittance.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-sentbe-signup",
+        "title": "SentBe’s individual customer sign-up requirements",
+        "url": "https://help.sentbe.com/en/support/solutions/articles/67000748335--individual-customers-how-do-i-sign-up-",
+        "note": "SentBe lists a valid Korean bank account in the sender’s own name, eligible ID and additional signup checks. Confirm support for the recipient route separately.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Compare quotes with the same total won debit and payout route. Ask which charges can still come out after the money leaves your Korean account."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1667,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "tax-returns-for-foreign-workers-in-korea": {
+    "id": "guide:tax-returns-for-foreign-workers-in-korea",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask payroll what income year it is settling, when to submit documents and how to get the final withholding receipt. The employer compares final employment income tax with amounts withheld during the year, so an adjustment may add to or reduce your pay.",
+    "forWhom": "Foreign employees on a Korean payroll preparing the employer’s year-end tax settlement for local employment income.",
+    "conditions": [
+      "Document eligibility depends on the tax year, personal facts and how the employer calculates the tax. Confirm any optional rate, local income tax and any facts involving income from other employers with payroll or NTS."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "employer year-end settlement Korea",
+      "Korean payroll income tax",
+      "Korean payroll withholding receipt",
+      "foreign employee flat-rate option"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w43-nts-settlement-and-final-pay",
+        "title": "National Tax Service year-end settlement and final-pay FAQ",
+        "url": "https://www.nts.go.kr/nts/na/ntt/selectNttInfo.do?mi=&nttSn=1347723",
+        "note": "Explains reconciliation of monthly withholding against final employment tax and employer settlement for a midyear departure.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-nts-english-year-end-manual",
+        "title": "National Tax Service English year-end settlement manual for 2025 income",
+        "url": "https://www.nts.go.kr/english/na/ntt/selectNttInfo.do?mi=10790&nttSn=1347688",
+        "note": "English-language reference for the specified income year. The linked edition is for 2025 and should be matched against the appropriate year for current costs and rules.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-korean-tax-special-treatment",
+        "title": "Tax Incentive Limitation Act, Article 18-2",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1033251637",
+        "note": "Sets out the 19% national flat-rate election for eligible foreign employment income, including the first-work date window and exceptions.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-nts-flat-versus-progressive",
+        "title": "National Tax Service comparison of progressive and optional flat-rate calculation",
+        "url": "https://www.nts.go.kr/english/ad/help/2020yearEndTaxCalclPage.do?mi=135022",
+        "note": "Explains the difference in tax calculations and the general loss of deductions, credits, reductions and exemptions under the optional method.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "For employer settlement, confirm the income year and payroll deadline, then ask for your final wage-income withholding receipt."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1668,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "korean-tax-return-guide-for-foreigners-how-to-get-money-back-2026": {
+    "id": "guide:korean-tax-return-guide-for-foreigners-how-to-get-money-back-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Collect a wage-income withholding receipt from each employer for the same year and check which wages the final settlement included. If wages or an eligible claim are missing, take the records to the National Tax Service to confirm the right filing or correction path.",
+    "forWhom": "Foreign employees who left a job, changed employers during the year, had several payrolls or discovered a missing deduction after Korean year-end settlement.",
+    "conditions": [
+      "The correct procedure depends on the income year, the filings already made and whether other income is involved. The regular following-May window is one filing route. Contact NTS promptly if you are leaving Korea or the deadline has passed."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Korean tax after changing jobs",
+      "multiple employer Korean tax return",
+      "missing Korean tax deduction",
+      "former employer withholding receipt"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w43-nts-settlement-and-final-pay",
+        "title": "National Tax Service year-end settlement and final-pay FAQ",
+        "url": "https://www.nts.go.kr/nts/na/ntt/selectNttInfo.do?mi=&nttSn=1347723",
+        "note": "Explains reconciliation of monthly withholding against final employment tax and employer settlement for a midyear departure.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-income-tax-multiple-employers",
+        "title": "Income Tax Act, Article 137-2 on multiple employers",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?lsJoLnkSeq=1032885199",
+        "note": "Describes how covered workers designate a principal workplace and use the second employer’s withholding receipt to combine wages.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-income-tax-new-employer",
+        "title": "Income Tax Act, Article 138 on changing employers",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1032883555",
+        "note": "Describes how the new withholding agent combines previous and current wages when the employee submits the prior employment information for the same tax year.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-nts-global-return-guide",
+        "title": "National Tax Service 2025 global income tax return guide for foreigners",
+        "url": "https://www.nts.go.kr/english/na/ntt/selectNttInfo.do?bbsId=30698&mi=10788&nttSn=1350825",
+        "note": "NTS’s filing information in English, Chinese and Vietnamese for 2025 income. Readers use the edition and date for their own filing.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-income-tax-may-window",
+        "title": "Income Tax Act, Article 70 on the regular global income filing window",
+        "url": "https://law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1032881431",
+        "note": "Sets the ordinary following-May filing window for resident individual global income tax returns. Verify the exact deadline and applicability for your circumstances with NTS.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-tax-base-correction-claim",
+        "title": "Framework Act on National Taxes, Article 45-2(5) on correction claims after withholding",
+        "url": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1030472339",
+        "note": "Extends a correction-claim route to certain withholding and year-end settlement cases with filing and residency conditions.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Before filing a second time, collect each employer’s withholding receipt and find out whether your final Korean payroll settlement included every wage."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1669,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "korean-pension-system-understanding-deductions": {
+    "id": "guide:korean-pension-system-understanding-deductions",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "For an enrolled employee in Korea, the 2026 workplace deduction is 4.75% of the pension income base recorded for that contribution month. Find 국민연금 on your payslip, then ask payroll which standard monthly income and month it used.",
+    "forWhom": "Foreign employees reviewing a Korean payslip or checking which months were credited after a job change.",
+    "conditions": [
+      "Examples assume workplace coverage and one employer. The contribution rate follows the calendar year. The income band shown applies from July 2026 through June 2027."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Korean National Pension payslip",
+      "check Korean pension contributions",
+      "employment records in Korea",
+      "foreign employee pension"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w43-nps-contribution-base",
+        "title": "National Pension Service contribution calculation and income bands",
+        "url": "https://www.nps.or.kr/eng/ntnlpnsplan/cntb/getOHAI0013M0.do?menuId=MN24001366",
+        "note": "Shows the contribution formula, workplace shares, July 2026 through June 2027 calculation base boundaries and how the income base is obtained.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-nps-workplace-rate-schedule",
+        "title": "National Pension Service’s year-by-year workplace contribution schedule",
+        "url": "https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0016M0.do",
+        "note": "The 취득 및 상실신고 tab gives the year-by-year employee and employer shares and total rates.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-nps-contribution-history",
+        "title": "National Pension Service instructions for an enrollment history statement",
+        "url": "https://m.nps.or.kr/elctcvlcpt/comm/getOHAC0000M5.do?menuId=MN24001055",
+        "note": "Shows how to request the pension enrollment history statement and explains that an enrollment record must exist for issuance.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-nps-foreigners-refund",
+        "title": "National Pension Service’s English guide to coverage and lump-sum refunds",
+        "url": "https://www.nps.or.kr/eng/ntnlpnsplan/frgnrlpsmrfnd/getOHAI0015M0.do",
+        "note": "Explains exclusions from coverage, reciprocity, qualifying agreements or visa periods, and routes for in-Korea, overseas and conditional airport claims.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the contribution month and payroll’s pension base. At a ₩3,000,000 base, the 2026 employee share is ₩142,500."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1670,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "korean-retirement-system-for-foreigners-national-pension-refunds-2026": {
+    "id": "guide:korean-retirement-system-for-foreigners-national-pension-refunds-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the National Pension Service to verify your nationality, insured months, visa during those months and departure date before you count on a lump-sum refund. If eligible, apply in Korea with the required departure evidence or confirm an overseas claim route.",
+    "forWhom": "Foreign workers enrolled in Korea’s National Pension who are preparing to leave after finishing work, or who have already left.",
+    "conditions": [
+      "NPS determines eligibility and the amount. Airport pickup requires a prior claim and depends on the employer’s report, Incheon departure terminal, flight, operating day and collection cutoff."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Korea pension lump-sum refund",
+      "National Pension departure claim",
+      "Incheon pension refund pickup",
+      "foreign worker pension refund"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w43-nps-foreigners-refund",
+        "title": "National Pension Service’s English guide to coverage and lump-sum refunds",
+        "url": "https://www.nps.or.kr/eng/ntnlpnsplan/frgnrlpsmrfnd/getOHAI0015M0.do",
+        "note": "Explains exclusions from coverage, reciprocity, qualifying agreements or visa periods, and routes for in-Korea, overseas and conditional airport claims.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-nps-seasonal-e8-refund",
+        "title": "National Pension Service’s Korean refund eligibility and airport guidance",
+        "url": "https://www.nps.or.kr/pnsinfo/ntpsklg/getOHAF0084M0.do",
+        "note": "Distinguishes legacy training-employment E-8 from seasonal-work E-8 and gives departure claim and airport requirements.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check refund eligibility with NPS before departure. Incheon cash pickup requires a local-office application in advance."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1671,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "sending-money-abroad-bank-transfer-vs-wise": {
+    "id": "guide:sending-money-abroad-bank-transfer-vs-wise",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "If your money is in a Korean bank account, compare a Korean bank with a remittance provider that accepts your account. Wise says external KRW payments and top-ups are unavailable. If you already have a Wise balance, confirm the available route and funding method before comparing its quote with a bank.",
+    "forWhom": "People deciding whether Wise and a Korean bank can both send their money to the same recipient.",
+    "conditions": [
+      "Availability depends on where your funds are held, currency, destination and the payment methods displayed for your account."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "currency",
+      "banking",
+      "remittance",
+      "moving"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w43-wise-krw-funding",
+        "title": "Wise KRW transfer guide",
+        "url": "https://wise.com/help/articles/2932331/guide-to-krw-transfers",
+        "note": "External payment and top-up restrictions, and when sending from an existing Wise KRW balance is possible.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w43-seoul-bank-transfer",
+        "title": "Seoul Metropolitan Government banking guide",
+        "url": "https://english.seoul.go.kr/service/living/convenience/1-banking/",
+        "note": "Korean-bank remittance examples and recipient details.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check whether both services accept your funding source before comparing what the recipient would receive."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1672,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
   }
 }

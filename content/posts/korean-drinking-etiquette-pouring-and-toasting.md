@@ -25,6 +25,8 @@ At a meal, give people a moment to hear you. Pick a sentence that fits the occas
 
 The [dictionary gives the host thank-you in a meal setting](https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=76439&nation=eng&nationCode=6). Use the birthday or reunion line only when it describes the people at your table. If you’re unsure of someone’s name or title, it’s enough to thank the whole group for coming together.
 
+If the table wants to play after the toast, [learn two games that work without drinks](/blog/korean-drinking-games-rules-and-fun).
+
 ## Keep the toast separate from what’s in the glass
 
 You can join with the drink you already have, including water, or just smile and listen. When leading, invite people to raise their glasses and let each guest decide whether to sip. For the hand gestures when someone actually offers a pour, see [Korean table etiquette for offering and receiving a drink](/blog/drinking-etiquette-pour-and-receive-2026).

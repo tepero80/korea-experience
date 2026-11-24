@@ -13,6 +13,10 @@ The [Ministry of Employment and Labor’s 2026 announcement](https://www.moel.go
 
 Pick one pay period. Put the hours you recorded, the gross amount listed on the payslip, the deductions and the bank deposit side by side. If the deposit is lower than you expected, ask payroll in writing which dates and hours it covers and which deductions it includes. Keep the response with the original records so you can show the difference clearly.
 
+If the deduction is listed as 국민연금, [check the pension calculation and enrollment record](/blog/korean-pension-system-understanding-deductions).
+
+For a year-end income tax adjustment, [ask payroll for the settlement and withholding receipt](/blog/tax-returns-for-foreign-workers-in-korea).
+
 ## Record the employer, hours and amounts
 
 | Record | What to save |
