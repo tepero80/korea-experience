@@ -259,7 +259,7 @@ Traveling for surgery requires careful planning. Here are some insider tips to m
 ### Emergency Contacts in Korea
 Knowing these vital numbers can provide peace of mind:
 *   **119 (Il-gu-gu):** For medical emergencies and ambulance services (similar to 911).
-*   **1339 (Il-sam-sam-gu):** For medical consultation and information services. This hotline is operated by the Korea Centers for Disease Control and Prevention and can provide guidance in multiple languages.
+* **Further help:** For routine follow-up, use the treating clinic’s contact details. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.
 
 ## Frequently Asked Questions (FAQ)
 
@@ -284,7 +284,6 @@ Deciding to undergo breast reduction surgery is a significant step towards impro
 
 Take the time to research, consult with reputable clinics, and prepare thoroughly for your trip. By following your surgeon's pre- and post-operative instructions diligently and utilizing the robust support systems available for international patients, you can look forward to a successful outcome and a new chapter of comfort, confidence, and freedom. Your journey to a more comfortable, proportionate body begins here.
 
-image: "/images/breast-reduction-surgery-in-korea-specialized-clinics-and-recovery-tips-2026.webp"
 ---
 
 ### Medical Disclaimer

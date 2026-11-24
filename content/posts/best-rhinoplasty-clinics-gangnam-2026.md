@@ -26,7 +26,6 @@ According to the Korea Health Industry Development Institute:
 - **Rhinoplasty is the #1 requested procedure** among international patients
 - **Average cost savings: $3,500-6,000** compared to US/UK prices
 
-image: "/images/best-rhinoplasty-clinics-gangnam-2026.webp"
 ---
 
 ## Top 5 Rhinoplasty Clinics in Gangnam
@@ -452,7 +451,6 @@ For **first-time rhinoplasty patients** seeking the best balance of quality, saf
 
 **Questions? Contact us:**  
 📧 Email: info@koreaexperience.com  
-💬 Live chat available on our website
 
 ---
 
@@ -470,7 +468,7 @@ This article is for informational purposes only and does not constitute medical 
 
 **Emergency Contacts in Korea:**
 - 🚨 Emergency Services: **119**
-- 🏥 Medical Information: **1339** (English available)
+* **Further help:** For routine follow-up, use the treating clinic’s contact details. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.
 - 📞 Seoul Global Center: **02-2075-4180**
 
 ---

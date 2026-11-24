@@ -4844,5 +4844,35 @@
       "note": "Photographed 2014-02-20. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 2.0. Confirm current routes, opening and accessibility separately."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "f-6-marriage-visa-requirements-and-interview": {
+    "src": "/images/cards/f-6-marriage-visa-requirements-and-interview.jpg",
+    "fingerprint": "ba367767e6f7ff782743b4d8e8d4c10b86ac29f0a494ab3d989d32bcf98f62fe",
+    "adaptation": "Typographic social preview."
+  },
+  "k-beauty-ingredients-deep-dive-mugwort-propolis-and-heartleaf-2026": {
+    "src": "/images/cards/k-beauty-ingredients-deep-dive-mugwort-propolis-and-heartleaf-2026.jpg",
+    "fingerprint": "6898043e96406fcf19fd6488fbba243f2f29c5b54904fb8c504285ade08a8059",
+    "adaptation": "Typographic social preview."
+  },
+  "the-ultimate-guide-to-korean-spatula-makeup-application-2026": {
+    "src": "/images/cards/the-ultimate-guide-to-korean-spatula-makeup-application-2026.jpg",
+    "fingerprint": "550bcb2c2997bcdbd9792f04342ecda2ae35abe4859d952c6a172600a0805e6e",
+    "adaptation": "Typographic social preview."
+  },
+  "lgbtq-travel-safe-neighborhoods-and-inclusive-venues": {
+    "src": "/images/cards/lgbtq-travel-safe-neighborhoods-and-inclusive-venues.jpg",
+    "fingerprint": "9cca8dc829ba97c1706fea49415fb174559fc08ba8f12dff22126d634ee3e93d",
+    "sourceImage": "/images/editorial/archive-itaewon-station-exit-1-at-night-2017-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Itaewon Station Exit 1.jpg",
+      "author": "chelsom tsai",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itaewon_Station_Exit_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Photographed 2017-05-21. Resized and converted to WebP. Historical image of a station sign."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

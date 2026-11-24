@@ -19,6 +19,8 @@ for (const p of posts) {
     /\binternal linking opportunit(?:y|ies)\b|\(\s*link to internal article\s*\)/i.test(content)
   )
     errors.push('Private editorial notes in public content ' + p.slug);
+  if (/^image:[\t ]*["']?\/images\/[^\s"'<>]+["']?[\t ]*\r?$/m.test(content))
+    errors.push('Image metadata appears in the body of ' + p.slug);
   const e = p.editorial;
   if (!e) continue;
   if (!e.answer || e.sources.length === 0 || !e.checkedAt)

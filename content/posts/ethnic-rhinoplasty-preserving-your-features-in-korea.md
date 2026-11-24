@@ -264,7 +264,6 @@ By meticulously selecting your surgeon, engaging in open and honest communicatio
 
 Remember to plan your medical tourism trip carefully, focusing on comprehensive consultations, understanding the recovery process, and immersing yourself in the rich cultural experience Korea has to offer. With the right approach, your dream of an enhanced yet authentic reflection can become a beautiful reality.
 
-image: "/images/ethnic-rhinoplasty-preserving-your-features-in-korea.webp"
 ---
 
 ### Medical Disclaimer:
@@ -277,4 +276,4 @@ image: "/images/ethnic-rhinoplasty-preserving-your-features-in-korea.webp"
 ### Emergency Contact Numbers in Korea:
 
 *   **119:** For medical emergencies and ambulance services.
-*   **1339:** For medical consultation and information, available 24/7.
+* **Further help:** For routine follow-up, use the treating clinic’s contact details. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

@@ -133,7 +133,6 @@ Selecting the appropriate provider for **follow-up care for international patien
 *   **Technical Reliability:** A user-friendly interface and stable connection are paramount.
 *   **Cost and Payment:** Understand the fee structure and accepted payment methods.
 
-image: "/images/follow-up-care-for-international-patients-telemedicine-options.webp"
 ---
 
 **Table 1: In-Person vs. Telemedicine Follow-up for International Patients**
@@ -252,4 +251,4 @@ This blog post is intended for informational purposes only and does not constitu
 While this article focuses on non-emergent telemedicine, it is crucial to know the emergency contact numbers if you are currently in Korea or planning to visit:
 
 *   **119:** For medical emergencies, ambulance, or fire services.
-*   **1339:** For general medical consultation and emergency information (multilingual support available).
+* **Further help:** For routine follow-up, use the treating clinic’s contact details. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

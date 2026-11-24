@@ -31695,5 +31695,284 @@
     },
     "changeType": "rewrite",
     "launchOrder": 1347
+  },
+  "f-6-marriage-visa-requirements-and-interview": {
+    "id": "guide:f-6-marriage-visa-requirements-and-interview",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "categoryId": "travel-essentials",
+    "regions": [
+      "nationwide"
+    ],
+    "interests": [
+      "marriage visa",
+      "consular documents"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "forWhom": "A spouse of a Korean citizen applying for a marriage migrant visa from abroad",
+    "answer": "Start with the Korean mission that serves your current residence. Ask it to confirm the proper application route, appointment or permitted mail process, and documents for your situation before ordering certificates.",
+    "conditions": [
+      "This checklist covers an overseas spouse application. In-country status changes and other F-6 cases need separate instructions.",
+      "Local submission rules, fees, documents and any follow-up depend on the mission and your case."
+    ],
+    "sources": [
+      {
+        "id": "seattle-f6",
+        "title": "Korean Consulate in Seattle: F-6 instructions",
+        "url": "https://overseas.mofa.go.kr/us-seattle-en/brd/m_23042/view.do?itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&page=1&seq=2",
+        "note": "An example of mandatory appointment and in-person submission, alongside the mission’s documents and fees.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "houston-f6",
+        "title": "Korean Consulate in Houston: F-6 instructions (Korean)",
+        "url": "https://overseas.mofa.go.kr/us-houston-ko/brd/m_5634/view.do?seq=1202684",
+        "note": "Lists its jurisdiction, offers both appointment-based and mail submission, and identifies case-specific documentary exemptions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "national-visa-form",
+        "title": "Korea Visa Portal: application form",
+        "url": "https://www.visa.go.kr/downfile/VisaapplicationForm_EN.pdf",
+        "note": "An official application form; use the version specified by the receiving mission.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "la-f6",
+        "title": "Korean Consulate in Los Angeles: long-term visa categories",
+        "url": "https://overseas.mofa.go.kr/us-losangeles-en/wpge/m_20421/contents.do",
+        "note": "Distinguishes the spouse and child-raising cases in the F-6 overview.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [],
+    "shareFacts": [
+      "Start with the mission responsible for your residence.",
+      "Confirm document age and submission channel there."
+    ],
+    "placeIds": [],
+    "tools": [],
+    "changeType": "rewrite",
+    "launchOrder": 1348,
+    "heroOmissionReason": "The consular checklist explains the procedure without a generic passport or wedding photograph."
+  },
+  "k-beauty-ingredients-deep-dive-mugwort-propolis-and-heartleaf-2026": {
+    "id": "guide:k-beauty-ingredients-deep-dive-mugwort-propolis-and-heartleaf-2026",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "categoryId": "shopping-kbeauty",
+    "regions": [
+      "nationwide"
+    ],
+    "interests": [
+      "cosmetics ingredients",
+      "shopping labels"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "forWhom": "Cosmetics shoppers comparing similar boxes or avoiding a particular ingredient",
+    "answer": "Start with the full ingredient list on the exact product and size you plan to buy. Korean shelf terms help you find the product; use the actual formula, precautions and use-by label to make the decision.",
+    "conditions": [
+      "Manufacturer listings illustrate particular formulas and formats. Check the packaging for the version sold to you.",
+      "This is a label-reading guide. Ingredient names alone cannot establish suitability, allergy safety or effectiveness."
+    ],
+    "sources": [
+      {
+        "id": "mfds-cosmetic-label",
+        "title": "Korean Ministry of Food and Drug Safety: cosmetic label requirements",
+        "url": "https://mfds.go.kr/wpge/m_645/de050601l0024.do",
+        "note": "Explains required labeling categories, including ingredients, use periods and precautions, with package-specific rules.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "mugwort-product",
+        "title": "Dear Klairs: mugwort essence product example",
+        "url": "https://www.klairs.com/products/mugwort-essence",
+        "note": "Illustrates a manufacturer listing with an Artemisia princeps ingredient.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "propolis-formula",
+        "title": "COSRX: Propolis Light Ampoule full ingredients",
+        "url": "https://b2c.cosrx.com/products/full-fit-propolis-light-ampoule",
+        "note": "Shows propolis extract listed with other ingredients in this formula.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "heartleaf-toner",
+        "title": "Anua: Heartleaf Soothing Toner ingredients",
+        "url": "https://pages.anua.com/products/heartleaf-77-soothing-toner",
+        "note": "The listed toner contains Houttuynia cordata flower, leaf and stem water.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "heartleaf-pad",
+        "title": "Anua: Heartleaf Clear Pad ingredients",
+        "url": "https://anua.com/products/heartleaf-77-toner-pad-160ml",
+        "note": "The pad lists Houttuynia cordata extract and gluconolactone.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "next",
+        "label": "Check where to shop",
+        "reason": "Use the Olive Young guide to plan a store visit and compare the exact package before checkout."
+      }
+    ],
+    "shareFacts": [
+      "Read the full list on the exact product.",
+      "Toner and pad formulas can differ even within one line."
+    ],
+    "placeIds": [],
+    "tools": [],
+    "changeType": "rewrite",
+    "launchOrder": 1349,
+    "heroOmissionReason": "A paired ingredient example and bilingual label table show the verification task without implying a photo proves the formula."
+  },
+  "the-ultimate-guide-to-korean-spatula-makeup-application-2026": {
+    "id": "guide:the-ultimate-guide-to-korean-spatula-makeup-application-2026",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "categoryId": "shopping-kbeauty",
+    "regions": [
+      "nationwide"
+    ],
+    "interests": [
+      "makeup tools",
+      "beauty shopping"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "forWhom": "Visitors comparing Korean makeup tools for their own base-makeup routine",
+    "answer": "Buy one if you want a separate tool for laying down a small amount of base makeup. At the shelf, check tip shape, edges, cleaning requirements and the case before comparing prices.",
+    "conditions": [
+      "The linked listing shows one tool and its care instructions. Rely on the exact package for the tool you buy.",
+      "A store’s stock and local price need a separate check."
+    ],
+    "sources": [
+      {
+        "id": "olive-young-spatula",
+        "title": "Olive Young Global: Fillimilli Dual Makeup Spatula",
+        "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250430170",
+        "note": "Provides a concrete package example with different tip widths, stainless material, a pouch and product-specific care.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "fda-cosmetic-hygiene",
+        "title": "US FDA: cosmetic contamination prevention",
+        "url": "https://www.fda.gov/cosmetics/potential-contaminants-cosmetics/microbiological-safety-and-cosmetics",
+        "note": "Gives consumer advice about avoiding shared cosmetics, keeping containers clean, and following storage instructions.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "next",
+        "label": "Plan a beauty-store stop",
+        "reason": "Use the separate shopping guide for checking a branch, labels and what to carry home."
+      }
+    ],
+    "shareFacts": [
+      "Compare tip widths, edges and cleaning effort.",
+      "Check the exact local item before purchasing."
+    ],
+    "placeIds": [],
+    "tools": [],
+    "changeType": "rewrite",
+    "launchOrder": 1350,
+    "heroOmissionReason": "The named retailer’s product page shows the correct version. This guide uses a comparison table without reproducing its product photographs."
+  },
+  "lgbtq-travel-safe-neighborhoods-and-inclusive-venues": {
+    "id": "guide:lgbtq-travel-safe-neighborhoods-and-inclusive-venues",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "categoryId": "travel-essentials",
+    "regions": [
+      "seoul"
+    ],
+    "interests": [
+      "lgbtq travel",
+      "seoul evening return"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "forWhom": "LGBTQ travelers planning a first Seoul stay, event visit or evening out",
+    "answer": "Choose a base with a return route you can use after your plans end. Confirm the specific venue’s event, entry terms and facilities for your date, and save a second way back to your accommodation.",
+    "conditions": [
+      "Confirm current entry terms with the venue or event organizer.",
+      "This guide covers public transport, visitor assistance and organizer information."
+    ],
+    "sources": [
+      {
+        "id": "seoul-night-bus",
+        "title": "Seoul Metropolitan Government: public transportation and Night Bus",
+        "url": "https://english.seoul.go.kr/service/movement/public-transportation/",
+        "note": "Describes night-bus options and directs travelers to route information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "itaewon-visitor-desk",
+        "title": "Visit Seoul: Itaewon Tourist Information Center",
+        "url": "https://english.visitseoul.net/tourist-Information-center/76",
+        "note": "Lists the center inside Itaewon Station on Line 6 and the street address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "sqcf-official",
+        "title": "Seoul Queer Culture Festival organizer programs",
+        "url": "https://www.sqcf.org/english/?bmode=view&idx=171594193&q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&t=board",
+        "note": "The 2026 listing identifies the parade and film festival. It is an example of an official program, not a future date.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "1330-visitor-help",
+        "title": "VISITKOREA: 1330 visitor help",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632",
+        "note": "Describes the travel-information and interpretation service and its current contact options.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style",
+        "type": "prepare",
+        "label": "Choose a Seoul base",
+        "reason": "Compare transport and the walk from your station to your accommodation before booking."
+      },
+      {
+        "slug": "taba-taxi-and-kride-2026",
+        "type": "alternative",
+        "label": "Plan a taxi backup",
+        "reason": "Prepare payment and a pickup point before you need a late return."
+      }
+    ],
+    "shareFacts": [
+      "Confirm venue terms on the date you will go.",
+      "Save a route back and a backup before leaving."
+    ],
+    "placeIds": [],
+    "tools": [],
+    "changeType": "rewrite",
+    "launchOrder": 1351,
+    "heroMediaId": "archive-itaewon-station-exit-1-at-night-2017",
+    "heroCaption": "Itaewon Station Exit 1 after dark in May 2017. Check current access and transport for your own route.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Itaewon Station Exit 1.jpg",
+      "author": "chelsom tsai",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itaewon_Station_Exit_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Photographed 2017-05-21. Resized and converted to WebP. Historical image of a station sign."
+    }
   }
 }

@@ -265,7 +265,6 @@ Under-eye fat repositioning in Korea is more than just a cosmetic surgery; it's 
 
 If persistent under-eye bags and dark circles are dimming your glow, consider embarking on this journey to Korea. With careful research, clear communication with reputable clinics, and a mindful approach to pre- and post-operative care, you can achieve the refreshed, lively eyes you desire. This "secret surgery" isn't just about looking younger; it's about feeling more confident and energized as you face the world. Let Korea help you unveil the brighter, more vibrant you.
 
-image: "/images/under-eye-fat-repositioning-why-its-korea-most-popular-secret-surgery-2026.webp"
 ---
 
 ### Medical Disclaimer
@@ -275,4 +274,4 @@ The information provided in this blog post is intended for general informational
 ### Emergency Contact Numbers in Korea
 
 *   **119:** For medical emergencies, ambulance, fire, and rescue services. Operators can connect to English translation services.
-*   **1339:** For general medical consultation and guidance. This service can provide information on local hospitals and clinics, especially for foreign residents and tourists.
+* **Further help:** For routine follow-up, use the treating clinic’s contact details. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

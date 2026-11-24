@@ -281,7 +281,6 @@ The ultimate decision should always be a collaborative one between you and a hig
 
 Korea offers an unparalleled opportunity for exceptional rhinoplasty results. By doing your research, preparing thoroughly, and engaging openly with your medical team, you can confidently embark on this transformative experience and achieve the nose you've always envisioned. Take the time to understand all your options, ask all your questions, and choose wisely for a truly satisfying outcome.
 
-image: "/images/silicone-vs-gore-tex-implants-for-rhinoplasty-in-korea.webp"
 ---
 
 ### Medical Disclaimer
@@ -293,4 +292,4 @@ The information provided in this blog post is intended for general informational
 In case of a medical emergency during your stay in Korea, please use the following numbers:
 
 *   **119:** For ambulance services, fire, and other emergencies. Operators can connect to English-speaking services.
-*   **1339:** For medical consultation and information from the Korea Tourism Organization. This number can also provide assistance with finding medical facilities and translation services.
+* **Further help:** For routine follow-up, use the treating clinic’s contact details. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

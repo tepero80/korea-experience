@@ -268,7 +268,6 @@ Glutathione IV drips, often celebrated as "Baekok Jusa," provide a systemic appr
 
 Ultimately, the choice between Glutathione IV and topical treatments, or even a combination of both, should be a well-informed decision made in close consultation with a qualified medical professional in Korea. Prioritizing safety, understanding the costs, and setting realistic expectations are crucial for a satisfying experience. By leveraging Korea's advanced medical infrastructure and diverse beauty offerings, you can embark on your journey towards the radiant skin you desire, equipped with knowledge and confidence.
 
-image: "/images/skin-whitening-glutathione-iv-vs-topical-treatments.webp"
 ---
 
 ## Medical Disclaimer
@@ -280,4 +279,4 @@ The information provided in this blog post is intended for general informational
 In case of a medical emergency during your stay in Korea:
 
 *   **119:** For ambulance services, fire, and rescue (available 24/7).
-*   **1339:** For medical consultation and information (available 24/7, with English interpretation).
+* **Further help:** For routine follow-up, use the treating clinic’s contact details. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

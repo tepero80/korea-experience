@@ -94,7 +94,6 @@ Here, we delve into some of the most prominent international schools in Seoul, h
 *   **Highlights:** While not in Seoul, Chadwick International is a popular choice for expat families due to its world-class facilities and strong IB program. It offers a unique village school concept within Songdo, emphasizing experiential learning and outdoor education. Many families live in Songdo or commute from western Seoul.
 *   **Estimated Annual Tuition (2026):** Range from approximately ₩27,000,000 to ₩39,000,000, plus additional fees.
 
-image: "/images/seoul-international-schools-complete-guide-for-expat-parents-2026.webp"
 ---
 
 **Comparison Table 1: Key Features of Top Seoul International Schools (Estimated 2026)**

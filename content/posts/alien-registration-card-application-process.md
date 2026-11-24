@@ -109,7 +109,6 @@ In addition to the universal requirements, you will need specific documents base
 
 **Important Note:** Always check the Hikorea website or call the 1345 Immigration Contact Center (dial 1345 from within Korea) for the most up-to-date document requirements, as they can sometimes change without prior notice. It's better to over-prepare than to be turned away for a missing document.
 
-image: "/images/alien-registration-card-application-process.webp"
 ---
 
 **Table 1: Document Checklist by Common Visa Type**

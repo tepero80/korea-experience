@@ -229,7 +229,6 @@ Korea’s commitment to aesthetic excellence, combined with its comprehensive me
 
 Remember that your beautiful transformation is a significant investment in yourself. Take the time to make informed choices, and embark on this exciting journey prepared and empowered.
 
-image: "/images/rhinoplasty-in-korea-complete-guide-cost-and-best-clinics-2026.webp"
 ---
 
 ### Medical Disclaimer
@@ -238,5 +237,5 @@ The information provided in this blog post is for general informational purposes
 
 ### Emergency Contact Numbers in Korea
 
-*   **Emergency Services (Ambulance, Fire, Police):** Call **119**
-*   **Medical Information & Consultation (for foreigners):** Call **1339** (operates 24/7)
+* **Ambulance or fire:** Call **119**. For police, call **112**.
+* **Further help:** For routine follow-up, use the treating clinic’s contact details. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

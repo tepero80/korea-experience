@@ -11296,5 +11296,27 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
       "note": "Resized to WebP. Adaptations retain CC BY-SA 2.0."
     }
+  },
+  {
+    "id": "archive-itaewon-station-exit-1-at-night-2017",
+    "src": "/images/editorial/archive-itaewon-station-exit-1-at-night-2017-1280.webp",
+    "srcSet": "/images/editorial/archive-itaewon-station-exit-1-at-night-2017-640.webp 640w, /images/editorial/archive-itaewon-station-exit-1-at-night-2017-1280.webp 1280w",
+    "width": 1280,
+    "height": 946,
+    "alt": "An illuminated Line 6 sign for Itaewon Station Exit 1 after dark",
+    "caption": "Itaewon Station Exit 1 after dark in May 2017. Check current access and transport for your own route.",
+    "capturedAt": "2017-05-21",
+    "originalId": "Itaewon Station Exit 1.jpg",
+    "originalHash": "a7e9bc80b4fb0f4a39ad36bb816b34c32ca23b5e56b80c16b36452e7a5781c51",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "title": "Itaewon Station Exit 1.jpg",
+      "author": "chelsom tsai",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itaewon_Station_Exit_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Photographed 2017-05-21. Resized and converted to WebP. Historical image of a station sign."
+    }
   }
 ]

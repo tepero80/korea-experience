@@ -292,7 +292,6 @@ By thoroughly researching clinics and surgeons, understanding the potential cost
 
 Ready to take the next step? Begin by conducting virtual consultations with several top-tier Korean clinics to compare options and find the perfect match for your breast augmentation journey.
 
-image: "/images/breast-augmentation-in-korea-cost-clinics-and-recovery-2026.webp"
 ---
 
 ### Medical Disclaimer
@@ -304,4 +303,4 @@ image: "/images/breast-augmentation-in-korea-cost-clinics-and-recovery-2026.webp
 In case of a medical emergency while in South Korea:
 
 *   **119:** For ambulance, fire, and rescue services.
-*   **1339:** For medical consultation and information (available in multiple languages).
+* **Further help:** For routine follow-up, use the treating clinic’s contact details. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

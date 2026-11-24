@@ -265,7 +265,6 @@ By understanding the distinct advantages of Mint PDO threads for their strong li
 
 Your journey to a more youthful and confident you starts here. Embrace the future of aesthetics with Korea's unparalleled expertise.
 
-image: "/images/thread-lifting-in-korea-ultimate-guide-to-mint-and-silhouette-soft-2026.webp"
 ---
 
 ### Medical Disclaimer
@@ -275,4 +274,4 @@ This blog post is intended for informational purposes only and does not constitu
 ### Emergency Contact Information in Korea
 
 *   **Ambulance/Medical Emergency:** Dial **119** (available 24/7, services in English).
-*   **Medical Tourism Information Center / Medical Consultation:** Dial **1339** (available 24/7, services in English, Chinese, Japanese, and Russian).
+* **Further help:** For routine follow-up, use the treating clinic’s contact details. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

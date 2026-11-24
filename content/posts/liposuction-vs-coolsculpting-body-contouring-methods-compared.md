@@ -301,7 +301,6 @@ Navigating the options of **liposuction vs Coolsculpting** for **body contouring
 
 Korea's world-class medical infrastructure, experienced professionals, and patient-centric approach make it an exceptional destination for either choice. Remember, the best decision is an informed and personalized one. Start your journey with a thorough consultation with a qualified Korean specialist who can assess your unique needs, clarify your expectations, and guide you towards the most suitable and safest body contouring method for you. Embrace the opportunity to achieve your ideal silhouette with confidence in South Korea.
 
-image: "/images/liposuction-vs-coolsculpting-body-contouring-methods-compared.webp"
 ---
 
 ### Medical Disclaimer
@@ -310,5 +309,5 @@ This blog post provides general information and is not intended to be a substitu
 
 ### Emergency Contact Information in Korea
 
-*   **Emergency Services (Ambulance, Fire, Police):** Dial **119**
-*   **Medical Information Center (for medical consultation in English):** Dial **1339**
+* **Ambulance or fire:** Call **119**. For police, call **112**.
+* **Further help:** For routine follow-up, use the treating clinic’s contact details. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

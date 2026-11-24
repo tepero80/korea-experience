@@ -12,7 +12,6 @@ Navigating the complexities of a foreign tax system can feel like deciphering an
 
 We know that taxes aren't the most exciting topic, but understanding your entitlements can put hundreds or even thousands of Korean Won back into your pocket. From understanding your residency status to leveraging tax treaties and utilizing the National Tax Service's online platform, Hometax, this guide will equip you with the knowledge and confidence to approach your 2026 Korean tax return efficiently and effectively. Let's dive in and turn what seems like a chore into a rewarding financial opportunity.
 
-image: "/images/korean-tax-return-guide-for-foreigners-how-to-get-money-back-2026.webp"
 ---
 
 ## Understanding Korea's Tax System for Foreigners in 2026
