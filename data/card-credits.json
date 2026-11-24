@@ -4279,5 +4279,20 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jeju-island-complete-travel-guide-best-time-to-visit-2026": {
+    "src": "/images/cards/jeju-island-complete-travel-guide-best-time-to-visit-2026.jpg",
+    "fingerprint": "766994fba872bd887e536c89f7c55cfee25e8b6ffce5b93508457e2c2558ea61",
+    "sourceImage": "/images/editorial/jeju-seongsan-town-from-ilchulbong-blue-hour-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Seongsan-ri town at blue hour seen from Seongsan Ilchulbong volcano Jeju Island South Korea.jpg",
+      "author": "Basile Morin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seongsan-ri_town_at_blue_hour_seen_from_Seongsan_Ilchulbong_volcano_Jeju_Island_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2024-06-17."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

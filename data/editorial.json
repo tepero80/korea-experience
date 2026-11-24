@@ -27347,5 +27347,174 @@
     "experienceVersion": 2,
     "cardImageCrop": "east",
     "cardImageLabel": "KTX at Seoul Station · May 2024"
+  },
+  "jeju-island-complete-travel-guide-best-time-to-visit-2026": {
+    "id": "guide:jeju-island-complete-travel-guide-best-time-to-visit-2026",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with one base and one part of Jeju per day. Pick Jeju City for airport and bus convenience, or central Seogwipo if the south coast is your priority.",
+    "forWhom": "First-time visitors planning three days on Jeju, including bus travelers.",
+    "conditions": [
+      "Compare the last usable return from each stop.",
+      "Confirm trail, ferry and venue access for your date."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "before-you-go",
+      "arrival",
+      "exploring"
+    ],
+    "interests": [
+      "jeju itinerary",
+      "bus travel",
+      "coast",
+      "hiking",
+      "car-free"
+    ],
+    "relations": [
+      {
+        "slug": "jeju-airport-to-jeju-city-and-seogwipo",
+        "type": "prepare",
+        "label": "Find the right arrival bus",
+        "reason": "Use your hotel’s full address to choose the airport stop, route and direction."
+      },
+      {
+        "slug": "where-to-stay-in-jeju-without-a-car",
+        "type": "next",
+        "label": "Choose your Jeju base",
+        "reason": "Test your hotel against the sightseeing journeys you will repeat."
+      },
+      {
+        "slug": "seongsan-ilchulbong-by-bus-from-jeju-city",
+        "type": "next",
+        "label": "Plan an east-coast day",
+        "reason": "Check the Seongsan stop, the walking route and your return before leaving."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeju-airport-arrival",
+      "jeju-dongmun-market",
+      "jeju-seongsan-ilchulbong",
+      "jeju-olle-market",
+      "jeju-folklore-and-natural-history-museum"
+    ],
+    "sources": [
+      {
+        "id": "jeju-overview-airport",
+        "title": "Korea Airports Corporation airport buses",
+        "url": "https://www.airport.co.kr/jejueng/cms/frCon/index.do?CONTENTS_NO=1&MENU_ID=90",
+        "checkedAt": "2026-11-24",
+        "note": "Route 600 serves Jungmun and Seogwipo. Use current departures for the last usable trip."
+      },
+      {
+        "id": "jeju-overview-bus",
+        "title": "Jeju bus system",
+        "url": "https://bus.jeju.go.kr/",
+        "checkedAt": "2026-11-24",
+        "note": "Official stop, route and current arrival lookup."
+      },
+      {
+        "id": "jeju-overview-shipping",
+        "title": "Korea Shipping Association passenger ferry booking",
+        "url": "https://island.haewoon.co.kr/",
+        "checkedAt": "2026-11-24",
+        "note": "Check specific mainland sailing and departure port with your operator."
+      },
+      {
+        "id": "jeju-overview-weather",
+        "title": "Korea Meteorological Administration forecasts",
+        "url": "https://www.weather.go.kr/w/index.do",
+        "checkedAt": "2026-11-24",
+        "note": "Forecast and warnings for the actual area and date."
+      },
+      {
+        "id": "jeju-overview-seongsan",
+        "title": "Visit Jeju Seongsan Ilchulbong",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_000001817000000004",
+        "checkedAt": "2026-11-24",
+        "note": "Tuff cone and visitor information; confirm the current entrance and access conditions."
+      },
+      {
+        "id": "jeju-overview-market",
+        "title": "Visit Jeju Maeil Olle Market",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500731&menuId=DOM_700000000010774",
+        "checkedAt": "2026-11-24",
+        "note": "Central Seogwipo location and different hours by shop."
+      },
+      {
+        "id": "jeju-overview-museum",
+        "title": "Jeju museum visitor information",
+        "url": "https://www.jeju.go.kr/museum/guidance/view.htm",
+        "checkedAt": "2026-11-24",
+        "note": "Confirm the indoor alternative’s access, hours and closing days."
+      },
+      {
+        "id": "jeju-overview-summit",
+        "title": "Hallasan summit route notice",
+        "url": "https://visithalla.jeju.go.kr/board/boardView.do?bbsId=notice_cn&seq=1286",
+        "checkedAt": "2026-11-24",
+        "note": "Check the reserved summit sections and current rules."
+      },
+      {
+        "id": "jeju-overview-trail",
+        "title": "Hallasan reservation and trail status",
+        "url": "https://visithalla.jeju.go.kr/main/main.do?language=enUS",
+        "checkedAt": "2026-11-24",
+        "note": "Live conditions and reservation portal."
+      },
+      {
+        "id": "jeju-overview-seongpanak",
+        "title": "Hallasan Seongpanak official route guide",
+        "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61&language=en_US",
+        "checkedAt": "2026-11-24",
+        "note": "Park reports 9.6 km one way and access restrictions if the weather changes."
+      },
+      {
+        "id": "jeju-overview-udo",
+        "title": "Visit Jeju Udo visitor information",
+        "url": "https://m.visitjeju.net/en/detail/view?contentsid=CONT_000000000500477&menuId=DOM_000001817000000007",
+        "checkedAt": "2026-11-24",
+        "note": "Weather and vehicle restrictions affect the day’s ferry plan."
+      },
+      {
+        "id": "jeju-overview-cave",
+        "title": "VISITKOREA Manjanggul Lava Tube",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111165",
+        "checkedAt": "2026-11-24",
+        "note": "Approximately one kilometer of visitor access. Confirm opening and last admission."
+      },
+      {
+        "id": "jeju-overview-tea",
+        "title": "Osulloc Jeju venue map and directions",
+        "url": "https://www.osulloc.com/kr/ko/store-introduction/jeju-map",
+        "checkedAt": "2026-11-24",
+        "note": "Locations of the tea museum and Innisfree Jeju House and operator directions."
+      }
+    ],
+    "shareFacts": [
+      "One base and one part of Jeju per day."
+    ],
+    "launchOrder": 1295,
+    "changeType": "rewrite",
+    "heroMediaId": "jeju-seongsan-town-from-ilchulbong-blue-hour-2024",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Seongsan-ri town at blue hour seen from Seongsan Ilchulbong volcano Jeju Island South Korea.jpg",
+      "author": "Basile Morin",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seongsan-ri_town_at_blue_hour_seen_from_Seongsan_Ilchulbong_volcano_Jeju_Island_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2024-06-17."
+    },
+    "heroCaption": "Seongsan-ri before dawn, seen from Seongsan Ilchulbong in June 2024. Check current opening hours before planning an early visit.",
+    "cardImageLabel": "Seongsan-ri at blue hour",
+    "experienceVersion": 2,
+    "gallery": []
   }
 }
