@@ -21,6 +21,8 @@ image: /images/editorial/archive-seoul-chebu-dong-restaurant-queue-2013-1280.web
 
 Catchtable’s [L’Amant Secret example](https://www.catchtable.net/discovery/michelin-starred-restaurants-you-must-try-in-seoul.html) describes a deposit with different cancellation amounts depending on how close you are to the meal. It also describes a possible no-show decision after a late arrival of 15 minutes or more. Its [PERIGEE example](https://www.catchtable.net/discovery/where-to-eat-michelin-selected-in-seoul.html) instead illustrates a deposit and a same-day reduction charge stated per person. Use the terms attached to your booking for the price and deadlines. Save a screenshot or email and contact the restaurant promptly if your party or arrival time changes.
 
+If you are booking for one guest, use the [solo fine-dining checklist](/blog/fine-dining-for-solo-travelers-hon-bap-2026) to confirm that the particular course and seating allow one.
+
 ## What to do if the listing shows no seats
 
 1. Try another meal time or a different date that still works with your travel. Avoid making several reservations for the same meal.

@@ -32,6 +32,8 @@ The [Chuncheon city listing](https://www.chuncheon.go.kr/tour/destination/all-to
 
 The city describes a 174 m walkway, with 156 m of transparent glass. Bring flat shoes and use the protective covers provided at the entrance. If stairs, surfaces or entry gates affect your visit, call ahead to check the approach and deck access.
 
+For a meal after the skywalk, check the [Chuncheon Myeongdong Dakgalbi Street guide](/blog/chuncheon-dakgalbi-street-food-district) for the right alley and shop-level minimum orders.
+
 ## Keep a second stop and a return
 
 The outdoor **Soyanggang Maiden Statue (소양강처녀상)** at **춘천시 영서로 2675** is a short walk from the skywalk. It is free and has a river view near Soyang 2 Bridge. Use it if the deck is closed and outdoor conditions are still suitable. In poor weather, consider [Chuncheon National Museum](https://chuncheon.museum.go.kr/eng/sub01_01.do) as a separate indoor trip. Check its Monday and holiday closures before switching plans.

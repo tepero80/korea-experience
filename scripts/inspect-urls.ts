@@ -1,6 +1,16 @@
 import fs from 'node:fs';
+import { setTimeout } from 'node:timers/promises';
 import { reportingAccessToken, REPORTING_TARGETS, safeReportingError } from './reporting/auth';
 import { readOfficial } from './reporting/client';
+import {
+  inspectionObservation,
+  pendingInspections,
+  type InspectionObservation,
+} from './reporting/inspection-checkpoints';
+
+const dueLimit = 400;
+const baselineLimit = 50;
+const batchSize = 4;
 
 async function main() {
   const now = new Date();
@@ -11,7 +21,7 @@ async function main() {
     day: '2-digit',
   }).format(now);
   const file = '.private/reports/url-inspection-latest.json';
-  const previous = fs.existsSync(file)
+  const previous: { observations: Record<string, InspectionObservation> } = fs.existsSync(file)
     ? JSON.parse(fs.readFileSync(file, 'utf8'))
     : { observations: {} };
   const trackingFile = '.private/reports/url-tracking.json';
@@ -23,15 +33,8 @@ async function main() {
     fs.readFileSync(trackingFile, 'utf8'),
   );
   const baseline = process.argv.includes('--baseline');
-  const selected = tracking
-    .filter(
-      (item) =>
-        baseline ||
-        item.checksDue.some(
-          (date) => date <= today && !previous.observations[item.url]?.checkedFor?.includes(date),
-        ),
-    )
-    .slice(0, 50);
+  const pending = pendingInspections(tracking, previous.observations, today, baseline);
+  const selected = pending.slice(0, baseline ? baselineLimit : dueLimit);
   if (!selected.length) {
     console.log('No unobserved7/14/28day checkpoint is due. No URL inspection request sent.');
     return;
@@ -43,65 +46,88 @@ async function main() {
     console.log(JSON.stringify(safeReportingError(error)));
     return;
   }
+  if (!token) {
+    console.log('Search Console read access is unavailable. No URL inspections sent.');
+    return;
+  }
   const observations = { ...previous.observations };
   let requests = 0,
-    observed = 0;
-  for (const item of selected) {
-    const result = await readOfficial(
-      'GSC URL inspection',
-      'https://searchconsole.googleapis.com/v1/urlInspection/index:inspect',
-      token,
-      {
-        siteUrl: REPORTING_TARGETS.site,
-        inspectionUrl: item.url,
-        languageCode: 'en-US',
-      },
-    );
-    if (token) requests++;
-    const successful = result.status === 'observed';
-    if (successful) observed++;
-    const old = observations[item.url];
-    observations[item.url] = {
-      id: item.id,
-      checkedAt: now.toISOString(),
-      mode: baseline ? 'baseline' : 'due-checkpoint',
-      checkedFor: successful
-        ? [
-            ...new Set([
-              ...(old?.checkedFor || []),
-              ...item.checksDue.filter((date) => date <= today),
-            ]),
-          ]
-        : old?.checkedFor || [],
-      lastSuccessAt: successful ? now.toISOString() : old?.lastSuccessAt || null,
-      result,
-      previousSuccessfulResult: !successful
-        ? old?.previousSuccessfulResult || (old?.result?.status === 'observed' ? old.result : null)
-        : undefined,
-    };
-    if (!token || result.httpStatus === 429 || result.httpStatus === 401) break;
-  }
-  const report = {
-    at: now.toISOString(),
+    observed = 0,
+    failedBatches = 0;
+  let stopped: string | undefined;
+  const report = () => ({
+    at: new Date().toISOString(),
     site: REPORTING_TARGETS.site,
     requests,
     observed,
+    pending: pending.length,
+    unattempted: pending.length - requests,
+    stopped,
     scope:
-      'Read-only indexed-version inspection. Not a live crawl, indexing submission or guarantee. Unavailable is not unindexed; successful baseline does not consume future7/14/28day checkpoints.',
+      'Read-only Google index observations. Check the actual observation timestamp. A late reading covers the latest due checkpoint and records earlier outstanding dates as missed. Unavailable responses leave the dates open.',
     observations,
+  });
+  const saveLatest = () => {
+    const payload = JSON.stringify(report(), null, 2);
+    const temp = file + '.' + process.pid + '.tmp';
+    fs.writeFileSync(temp, payload);
+    fs.renameSync(temp, file);
+    return payload;
   };
   fs.mkdirSync('.private/reports/' + today, { recursive: true });
-  fs.writeFileSync(file, JSON.stringify(report, null, 2));
+  for (let start = 0; start < selected.length; start += batchSize) {
+    const startedAt = Date.now();
+    const batch = selected.slice(start, start + batchSize);
+    const outcomes = await Promise.all(
+      batch.map(async (item) => {
+        const response = await readOfficial(
+          'GSC URL inspection',
+          'https://searchconsole.googleapis.com/v1/urlInspection/index:inspect',
+          token,
+          { siteUrl: REPORTING_TARGETS.site, inspectionUrl: item.url, languageCode: 'en-US' },
+        );
+        const observation = inspectionObservation(
+          item,
+          observations[item.url],
+          response,
+          new Date().toISOString(),
+          baseline,
+        );
+        return { url: item.url, observation, httpStatus: response.httpStatus };
+      }),
+    );
+    requests += outcomes.length;
+    const successful = outcomes.filter(
+      ({ observation }) => observation.result.status === 'observed',
+    ).length;
+    observed += successful;
+    failedBatches = successful ? 0 : failedBatches + 1;
+    for (const { url, observation } of outcomes) observations[url] = observation;
+    const stopStatus = outcomes.find(
+      ({ httpStatus }) => httpStatus && [401, 403, 429].includes(httpStatus),
+    );
+    if (stopStatus) {
+      stopped = 'Google HTTP ' + stopStatus.httpStatus;
+      break;
+    }
+    if (failedBatches >= 3) {
+      stopped = 'No usable index status in three consecutive batches';
+      break;
+    }
+    if (requests % 20 === 0) saveLatest();
+    if (start + batchSize < selected.length)
+      await setTimeout(Math.max(0, 1000 - (Date.now() - startedAt)));
+  }
   fs.writeFileSync(
     '.private/reports/' +
       today +
       '/url-inspection-' +
       now.toISOString().replace(/[:.]/g, '-') +
       '.json',
-    JSON.stringify(report, null, 2),
+    saveLatest(),
   );
   console.log(
-    `URL inspection: ${observed} observed / ${requests} actual API requests. Evidence saved privately.`,
+    `URL inspection: ${observed} observed / ${requests} requests, ${pending.length - requests} unattempted.${stopped ? ' Stopped: ' + stopped + '.' : ''} Evidence saved privately.`,
   );
 }
 main().catch(() => {

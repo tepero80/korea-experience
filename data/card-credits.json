@@ -5069,5 +5069,35 @@
     "src": "/images/cards/korean-phone-number-on-tourist-sim-2026.jpg",
     "fingerprint": "2ad0523be4832e32c6e6170503ecaf9bcf9f67cce0ffcb14f5adeb21133e9634",
     "adaptation": "Typographic social preview."
+  },
+  "chuncheon-dakgalbi-street-food-district": {
+    "src": "/images/cards/chuncheon-dakgalbi-street-food-district.jpg",
+    "fingerprint": "a16a7ee68d72c948d07260be781d55531b11966f64e72688a72f70f869ec0ffb",
+    "sourceImage": "/images/editorial/archive-chuncheon-dakgalbi-pan-dish-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Dak galbichuncheon.jpg",
+      "author": "Mimmodipalma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dak_galbichuncheon.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2015-03-28."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "fine-dining-for-solo-travelers-hon-bap-2026": {
+    "src": "/images/cards/fine-dining-for-solo-travelers-hon-bap-2026.jpg",
+    "fingerprint": "dc5c6e1c09c2d33256f9eae4255e07660011fe29a35695967910fb663ec3f5dd",
+    "adaptation": "Typographic social preview."
+  },
+  "drinking-etiquette-pour-and-receive-2026": {
+    "src": "/images/cards/drinking-etiquette-pour-and-receive-2026.jpg",
+    "fingerprint": "85df73ca3cb36f227cf9068102e62a5faef2856abdfe62e3245c5b01ca2d9dde",
+    "adaptation": "Typographic social preview."
+  },
+  "a-guide-to-korean-regional-flavors-jeolla-do-vs-gyeongsang-do-2026": {
+    "src": "/images/cards/a-guide-to-korean-regional-flavors-jeolla-do-vs-gyeongsang-do-2026.jpg",
+    "fingerprint": "d40abd8b700bbb591d2d4eb36066932685232dcd24fc195380ceadd8482af310",
+    "adaptation": "Typographic social preview."
   }
 }

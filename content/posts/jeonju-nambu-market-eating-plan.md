@@ -24,6 +24,8 @@ Nambu Market can be a meal stop on a Jeonju day, but a daytime shop, the Friday�
 
 The [recent official tourism report](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593611) and the [market listing](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=75565) describe the area. An older official tourism itinerary lists different night-market hours; the newer report supports the times above, but call the association or check current announcements for your date. Special performances mentioned in reports are not necessarily repeated.
 
+Continuing beyond Jeonju? [Compare four regional dishes by city](/blog/a-guide-to-korean-regional-flavors-jeolla-do-vs-gyeongsang-do-2026) before adding a meal to your route.
+
 ## A low-stress food stop
 
 1. Save **전주 남부시장** and the address in a local map app. Choose a defined entrance and check your actual route, rather than assuming every stall is beside one landmark.

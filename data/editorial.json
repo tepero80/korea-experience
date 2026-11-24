@@ -33639,5 +33639,303 @@
     "placeIds": [],
     "changeType": "rewrite",
     "launchOrder": 1372
+  },
+  "chuncheon-dakgalbi-street-food-district": {
+    "id": "guide:chuncheon-dakgalbi-street-food-district",
+    "checkedAt": "2026-11-24",
+    "categoryId": "food-dining",
+    "format": "place",
+    "regions": [
+      "chuncheon"
+    ],
+    "interests": [
+      "chuncheon myeongdong meal",
+      "dakgalbi order portions"
+    ],
+    "answer": "Use the map pin for 춘천 명동 닭갈비골목 in central Chuncheon. Confirm the arrival station and check your chosen shop’s opening hours and minimum order before going.",
+    "forWhom": "Travelers planning a dakgalbi meal in downtown Chuncheon",
+    "conditions": [
+      "Chuncheon and Namchuncheon are different stations. Start planning from the one on your ticket.",
+      "The market alley has no shared shop hours, portion size or menu."
+    ],
+    "relations": [
+      {
+        "slug": "seoul-to-chuncheon-train-choice",
+        "type": "next",
+        "label": "Choose the rail route",
+        "reason": "Match the train to the actual station you need for your Chuncheon day."
+      },
+      {
+        "slug": "chuncheon-station-to-soyanggang-skywalk",
+        "type": "next",
+        "label": "Plan a second stop",
+        "reason": "Continue from central Chuncheon only if it fits your return time."
+      }
+    ],
+    "shareFacts": [
+      "Save the Chuncheon map pin.",
+      "Ask about the shop’s minimum order."
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1373,
+    "sources": [
+      {
+        "id": "city-chuncheon-alley",
+        "title": "Chuncheon City: Myeongdong Dakgalbi Alley (Korean)",
+        "url": "https://www.chuncheon.go.kr/tour/destination/all-tour/detail/?tourId=231",
+        "note": "Lists the local pin and street address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-chuncheon-alley",
+        "title": "VISITKOREA: Chuncheon Myeongdong Dakgalbi Street",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=108005",
+        "note": "Describes the district, dishes and individual store conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-dakgalbi-districts",
+        "title": "VISITKOREA: Chuncheon dakgalbi and different dining districts",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=904&vcontsId=221263",
+        "note": "Differentiates the central, Namchuncheon and Soyang areas.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korail-reserve",
+        "title": "KORAIL: Train reservation",
+        "url": "https://www.korail.com/global/eng/ticket/reservation",
+        "note": "Confirm the named departure and arrival on your own ticket.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-chuncheon-shopping",
+        "title": "VISITKOREA: Chuncheon Myeongdong Street",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=107995",
+        "note": "Identifies the separate downtown browsing area.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "heroMediaId": "archive-chuncheon-dakgalbi-pan-dish",
+    "heroCaption": "Pan-cooked dakgalbi is one style to look for around Chuncheon’s Myeongdong Dakgalbi Street.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Dak galbichuncheon.jpg",
+      "author": "Mimmodipalma",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dak_galbichuncheon.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2015-03-28."
+    }
+  },
+  "fine-dining-for-solo-travelers-hon-bap-2026": {
+    "id": "guide:fine-dining-for-solo-travelers-hon-bap-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "regions": [
+      "seoul"
+    ],
+    "interests": [
+      "solo tasting menu booking",
+      "one guest counter seats"
+    ],
+    "answer": "Select one guest and confirm the course and seating type for your date. Read the total, deposit and cancellation rule before paying. A counter photo is an example of the room rather than evidence of availability.",
+    "forWhom": "Solo travelers booking a special dinner or lunch in Seoul",
+    "conditions": [
+      "A single seat can be offered at one sitting or course while another requires more guests.",
+      "Published restaurant policies were checked. No actual payment, booking or live seat availability was verified."
+    ],
+    "relations": [
+      {
+        "slug": "catchtable-global-michelin-reservation-guide-2026",
+        "type": "next",
+        "label": "Read the checkout terms",
+        "reason": "Check the deposit, branch and date before accepting a reservation."
+      }
+    ],
+    "heroOmissionReason": "The booking checklist is the useful visual. No independently licensed photograph documents one of the verified booking setups.",
+    "shareFacts": [
+      "Select one guest and the exact course.",
+      "Confirm deposits and changes."
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1374,
+    "sources": [
+      {
+        "id": "kut-solo",
+        "title": "KUT SEOUL: Solo counter dining and reservations",
+        "url": "https://kutseoul.com/en/blog/solo-dining-hanwoo-omakase-seoul-kut-seoul-counter/",
+        "note": "Restaurant’s own description of eligible counter seating and payment terms.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kut-location",
+        "title": "KUT SEOUL: Restaurant address",
+        "url": "https://kutseoul.com/lp/honeymoon-dinner-seoul/",
+        "note": "Confirms where the operator lists its restaurant.",
+        "checkedAt": "2026-11-24"
+      }
+    ]
+  },
+  "drinking-etiquette-pour-and-receive-2026": {
+    "id": "guide:drinking-etiquette-pour-and-receive-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "regions": [
+      "nationwide"
+    ],
+    "interests": [
+      "offering a drink at a Korean meal",
+      "declining alcohol politely"
+    ],
+    "answer": "Two hands can show courtesy when offering or receiving a drink at a formal meal. You can decline alcohol politely and ask for water or another drink.",
+    "forWhom": "Visitors eating with hosts, colleagues or friends in Korea",
+    "conditions": [
+      "The examples describe customs that vary by meal and company.",
+      "The Korean phrases are suggestions you can use without giving a personal reason."
+    ],
+    "relations": [
+      {
+        "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+        "type": "next",
+        "label": "Find more phrases at the table",
+        "reason": "Ask about portions, ingredients or payment with a Korean restaurant phrase."
+      }
+    ],
+    "heroOmissionReason": "A short phrase reference is more useful than an unverified photograph of table manners.",
+    "shareFacts": [
+      "Offer or accept with two hands if useful.",
+      "Decline alcohol or ask for water."
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1375,
+    "sources": [
+      {
+        "id": "korea-net-table",
+        "title": "Korea.net: Korean table manners",
+        "url": "https://www.korea.net/NewsFocus/Society/view?articleId=175173&pageIndex=1",
+        "note": "Describes the two-handed offer or receipt in relation to an older person.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-net-drink-tradition",
+        "title": "Korea.net: Traditional drinking manners",
+        "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=117340",
+        "note": "Describes traditional etiquette. The guide treats it as cultural context rather than a modern obligation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-net-ceremony",
+        "title": "Korea.net: Traditional drinking ceremony",
+        "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=117176",
+        "note": "Describes offering and declining within a particular ceremonial setting.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-restaurant-overview",
+        "title": "VISITKOREA: Korean restaurant overview",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=460&vcontsId=140727",
+        "note": "Describes common restaurant settings and dining arrangements.",
+        "checkedAt": "2026-11-24"
+      }
+    ]
+  },
+  "a-guide-to-korean-regional-flavors-jeolla-do-vs-gyeongsang-do-2026": {
+    "id": "guide:a-guide-to-korean-regional-flavors-jeolla-do-vs-gyeongsang-do-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "regions": [
+      "jeonju",
+      "mokpo",
+      "busan",
+      "andong"
+    ],
+    "interests": [
+      "city by city regional Korean dishes",
+      "ordering Jeolla and Gyeongsang food"
+    ],
+    "answer": "Try bibimbap in Jeonju, braised cutlassfish in Mokpo, pork and rice soup in Busan, or braised chicken in Andong. Start with your city and check ingredients, portion size and minimum order with the shop.",
+    "forWhom": "Travelers fitting a local meal into a trip through one or more of these cities",
+    "conditions": [
+      "Descriptions reflect documented dishes rather than a fixed menu, price or portion.",
+      "For allergies or dietary restrictions, ask about the broth, seasoning and preparation at the actual restaurant."
+    ],
+    "relations": [
+      {
+        "slug": "jeonju-nambu-market-eating-plan",
+        "type": "next",
+        "label": "Choose a meal in Jeonju",
+        "reason": "Plan a market stop around what is open and suited to your group."
+      },
+      {
+        "slug": "busan-travel-guide-beaches-temples-and-street-food-2026",
+        "type": "next",
+        "label": "Fit a meal into your Busan day",
+        "reason": "Choose an area and the rest of your trip around where you will be staying."
+      }
+    ],
+    "heroOmissionReason": "The legacy cover is a generated illustration. A verified street photo illustrates the Andong stop in the body.",
+    "shareFacts": [
+      "Choose a city and a dish.",
+      "Check ingredients and serving size."
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1376,
+    "sources": [
+      {
+        "id": "kto-jeonju-bibimbap",
+        "title": "VISITKOREA: Jeonju bibimbap",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221301",
+        "note": "Introduces the regional rice bowl and its variations.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-mokpo-cutlassfish",
+        "title": "VISITKOREA: Mokpo Special Tourist Zone",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=74267",
+        "note": "Lists braised cutlassfish among the port’s specialties.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-busan-dwaeji-gukbap",
+        "title": "VISITKOREA: Busan pork and rice soup",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221285",
+        "note": "Explains the dish and how it is served.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-andong-jjimdak",
+        "title": "VISITKOREA: Andong Market Jjimdak Alley",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=14987",
+        "note": "Locates the old-market alley and describes the dish.",
+        "checkedAt": "2026-11-24"
+      }
+    ]
   }
 }

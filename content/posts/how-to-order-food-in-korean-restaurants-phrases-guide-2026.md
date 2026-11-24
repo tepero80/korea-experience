@@ -70,6 +70,8 @@ You can show the Korean sentence directly to staff. These are communication aids
 | 어디에서 계산하나요?          | Where do I pay?                         |
 | 영수증 주세요.                | Please give me a receipt.               |
 
+When someone offers a drink, [these Korean table phrases](/blog/drinking-etiquette-pour-and-receive-2026) can help you decline politely or ask for water.
+
 ## Check the bill before you leave
 
 Look for the ordered quantities, additions and final currency on the payment screen or receipt. Ask about an unclear charge while you are still at the restaurant. KTO’s general guidance says restaurant tipping is unnecessary; do not add an automatic tip out of habit. A clearly displayed menu charge should be clarified separately.
