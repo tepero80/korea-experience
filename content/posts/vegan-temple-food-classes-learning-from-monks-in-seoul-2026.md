@@ -21,6 +21,8 @@ The Cultural Corps operates a city experience center near Anguk. Use the [Englis
 
 The [center’s institution page](https://www.koreatemplefood.com/EN/about/institution/list) lists a visitor program with English interpretation and says experiences require advance reservations. The [November 2026 notice](https://www.koreatemplefood.com/support/notice/detail/150) gave online booking and payment for that month’s cooking program and allowed changes to ingredients or format. Check the current listing for payment, cancellations and language before committing.
 
+For a meal with a normal restaurant reservation, see [how to order temple food in Seoul](/blog/korean-temple-food-vegetarian-buddhist-meals) and use the ingredient questions before reserving.
+
 ## Ask about ingredients before paying
 
 The operator’s [description of temple food](https://www.koreatemplefood.com/EN/temple-food/feature/feature) includes an exception for dairy. If you avoid dairy or other ingredients, ask for the exact menu, stock and seasonings, and whether anything changes in that session. If you have an allergy, ask about shared utensils and surfaces. Choose another activity when the answer does not meet your requirements.

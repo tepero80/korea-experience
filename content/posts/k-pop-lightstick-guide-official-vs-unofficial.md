@@ -10,6 +10,8 @@ featured: false
 
 An official light stick may be designed for a particular artist and show system. A similar-looking unofficial item is not proof of compatibility, and an official older version may not be supported for every effect.
 
+For a much smaller collectible, use the [photocard release and condition checklist](/blog/collecting-k-pop-photocards-the-global-market-and-trading-etiquette-2026) before committing to a purchase or trade.
+
 ## Decide before buying
 
 | Check | What to look for |

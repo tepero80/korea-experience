@@ -11,6 +11,8 @@ image: "/images/editorial/archive-eunpyeong-jingwansa-temple-hall-2022-1280.webp
 
 A temple stay is a structured visit to a working Buddhist temple. Choose between a program with activities and one with more independent time, then read the particular temple’s instructions: a stay is not a standard hotel package. The [Templestay FAQ](https://eng.templestay.com/en/MI000000000000000063/board/BO00000071/list.do) discusses experiential and freestyle programs and says conditions differ between temples.
 
+If you mainly want to cook and share a meal, [check how to book a temple food day program](/blog/korean-temple-food-dining-experience-guide-2026) before reserving an overnight stay.
+
 ## Decide what fits your trip
 
 | Decision | Check before reserving |

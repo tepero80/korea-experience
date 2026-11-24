@@ -62,6 +62,8 @@ Separate **rooms × nights** from **travelers × spending days**. Two people sha
 
 Use the [editable budget planner](/tools/trip-budget) with actual room quotes and your spending choices. Sample scenarios are arithmetic examples, not current market quotes. Revisit the total after booking the hotel and any high-cost experience.
 
+If your hotel rate excludes breakfast, use this [early breakfast plan for Myeongdong or Gwangjang](/blog/korean-breakfast-culture-what-locals-actually-eat-in-the-morning-2026) to keep a first-morning appointment on time.
+
 ## Book an anchor and keep a way to change the day
 
 Use the [booking checklist](/blog/korea-trip-booking-checklist-eight-weeks) to record cancellation terms, ticket names, meeting points and age or language conditions. Confirm a program runs on your dates before treating a reservation button as proof of availability.

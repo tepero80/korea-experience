@@ -10,6 +10,8 @@ featured: false
 
 The [KTO makgeolli description](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=231646) explains that makgeolli is rice wine made with a fermentation starter called nuruk. At a bar, decide whether you want a small taste, a bottle for the table or a meal centered on a shared kettle. Ask what the venue actually offers before taking a seat.
 
+For an outdoor evening instead, [try a Jongno pojangmacha](/blog/pojangmacha-street-tent-bars-experience) and check the table minimum before settling in.
+
 ## Choose the order that matches your evening
 
 | Goal | What to ask |

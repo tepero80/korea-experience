@@ -19,6 +19,8 @@ deepDive: true
 deepDiveOrder: 98
 ---
 
+If you want instruction instead of a casual drink, [choose a Korean tea etiquette class](/blog/traditional-tea-ceremonies-a-beginner-guide-to-korean-darye-2026) and check how much you can participate.
+
 ## Choose the stop that fits your walk
 
 | Choose | Good fit |
@@ -27,6 +29,8 @@ deepDiveOrder: 98
 | Beautiful Tea Museum | Choose this for more tea styles and a stop in the southern part of Insadong. [VisitKorea lists teas and snacks](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=100289); check what the shop has that day. |
 
 Save the exact alley pin before entering Insadong-gil. For Jeontong Dawon, look for the museum complex on Insadong 10-gil. For the Beautiful Tea Museum, follow its own address off the main road. If stairs or floor seating would be difficult, ask about the entrance and chair seating before you commit to a stop.
+
+Deciding between an afternoon seat and a snack to take along? [Compare market rice cakes with a traditional tea-house stop](/blog/korean-dessert-evolution-traditional-vs-modern-sweets).
 
 ## Order by taste
 

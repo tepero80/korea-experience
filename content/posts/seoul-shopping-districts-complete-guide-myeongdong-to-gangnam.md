@@ -71,6 +71,8 @@ For a mostly indoor stop in Yeouido, [plan one shopping or food stop at The Hyun
 
 For a longer stay, compare the [delivered cost of furniture](/blog/furniture-shopping-ikea-vs-korean-brands) before choosing a seller.
 
+If you already picked one Myeongdong purchase and a Sinsa boutique, use the [two-stop route from Myeongdong to Sinsa](/blog/seoul-shopping-guide-myeongdong-to-gangnam) to decide whether the cross-river transfer fits.
+
 ## Turn the choice into a manageable route
 
 These are **editorial clusters**, not verified walking-time promises:

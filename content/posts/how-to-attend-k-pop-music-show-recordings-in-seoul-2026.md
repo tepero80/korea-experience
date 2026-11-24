@@ -16,6 +16,8 @@ tags:
 draft: false
 ---
 
+For two common cases, [compare the Music Bank and Inkigayo audience routes](/blog/k-pop-music-shows-attending-inkigayo-and-music-bank) before committing to either application.
+
 ## Start with an official episode listing
 
 1. Find your date on the [KBS Music Bank audience page](https://kbsticket.kbs.co.kr/requestnew/list.do?m_seq=9). Open that episode and check its status, age limit, application window, confirmation date and venue.

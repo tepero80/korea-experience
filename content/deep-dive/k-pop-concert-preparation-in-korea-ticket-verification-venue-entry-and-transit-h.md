@@ -10,6 +10,8 @@ deepDive: true
 
 Your confirmation is only the start of the day-of plan. Read the organizer's latest notice for your exact date, ticket type and venue, and save the ticketing provider's contact details.
 
+Looking for television soundtrack music? [Verify the OST concert and lineup](/blog/k-drama-ost-concerts-where-to-buy-tickets) before using this venue-entry checklist.
+
 ## Before leaving
 
 | Check | Action |

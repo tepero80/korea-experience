@@ -40449,5 +40449,808 @@
     "changeType": "rewrite",
     "launchOrder": 1504,
     "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-breakfast-culture-what-locals-actually-eat-in-the-morning-2026": {
+    "id": "guide:korean-breakfast-culture-what-locals-actually-eat-in-the-morning-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Look for a confirmed open porridge shop when you need a seat before sightseeing. Use the market for a later, more flexible breakfast once your chosen counters are serving.",
+    "forWhom": "Travelers leaving a central Seoul hotel early, especially solo diners or anyone with a fixed departure.",
+    "conditions": [
+      "Confirm the opening time of the specific shop or counter.",
+      "Give yourself a takeaway fallback if you have a train or tour."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Early Breakfast in Seoul: What to Order Near Myeongdong or Gwangjang"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "gwangjang-market"
+    ],
+    "sources": [
+      {
+        "id": "w23-seowon",
+        "title": "Korea Tourism Organization: Seowon porridge",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=59730",
+        "note": "The listing places Seowon in Myeongdong and identifies porridge as its specialty. Check today’s opening time before walking over.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w23-gwangjang",
+        "title": "Visit Seoul: Gwangjang Market",
+        "url": "https://english.visitseoul.net/PalaceArea/Gwangjang-Market/ENP000286",
+        "note": "Official access and example snack dishes. Individual stalls set their own opening and ordering terms.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "A hot bowl first, with a takeaway backup"
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1505,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "pojangmacha-street-tent-bars-experience": {
+    "id": "guide:pojangmacha-street-tent-bars-experience",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Try the streets near Jongno 3-ga after dark. Walk the stretch before choosing a tent, check the minimum order and keep an indoor place in mind.",
+    "forWhom": "First-time visitors planning a flexible dinner or snack in central Seoul.",
+    "conditions": [
+      "Tent setup and seating vary with the night.",
+      "Confirm the total, portion and payment method before sitting."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Jongno Pojangmacha: A First Evening at Seoul’s Street Tents"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-tents",
+        "title": "Visit Seoul: outdoor dining and Jongno tents",
+        "url": "https://english.visitseoul.net/editorspicks/yajang/ENNddisdp",
+        "note": "Describes Jongno 3-ga street tents and examples of food sold there. Individual tents may be absent.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w23-tentwalk",
+        "title": "Korea Tourism Organization: Jongno evening route",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=391454",
+        "note": "Describes the stretch near Jongno 3-ga Exit 6 after sundown.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Tent setup and seating vary with the night."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1506,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-dessert-evolution-traditional-vs-modern-sweets": {
+    "id": "guide:korean-dessert-evolution-traditional-vs-modern-sweets",
+    "categoryId": "food-dining",
+    "format": "comparison",
+    "checkedAt": "2026-11-24",
+    "answer": "Buy a small portion of tteok at a market when you want something to take along. Pick a seated tea house when you want one drink and a dessert to share.",
+    "forWhom": "Travelers deciding between a snack while walking and a slower afternoon stop.",
+    "conditions": [
+      "Jeonju and Seoul are separate examples for different travel days.",
+      "Check ingredients, storage and seating at the business."
+    ],
+    "regions": [
+      "seoul",
+      "jeonju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Desserts on a Trip: Market Rice Cakes or a Traditional Tea House?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-tteok",
+        "title": "Korea Tourism Organization: Jeonju Jungang Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=228879",
+        "note": "Identifies the market’s rice cake alley and store-dependent hours.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w23-tteulan",
+        "title": "Korea Tourism Organization: Tteulan",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=186462",
+        "note": "Lists tea, rice cake and seating at a specific traditional café in Seoul.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Jeonju and Seoul are separate examples for different travel days."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1507,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-temple-food-dining-experience-guide-2026": {
+    "id": "guide:korean-temple-food-dining-experience-guide-2026",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Book a hosted temple food program before building a day around it. Confirm the date, minimum group size, language and what your booking includes.",
+    "forWhom": "Travelers who want to learn how temple food is prepared and can set aside time for a hosted visit.",
+    "conditions": [
+      "Ask the temple whether the session is running for your group.",
+      "Check transport independently and confirm any food requirements before paying."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Book a Korean Temple Food Day Program"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-hwaeomsa",
+        "title": "Templestay: Hwaeomsa program information",
+        "url": "https://eng.templestay.com/en/MI000000000000000019/temple/introView.do?templeId=Hwaeomsa",
+        "note": "Describes the temple food day trip. Ask the temple to confirm the date and minimum size for your session.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w23-balwoo",
+        "title": "Templestay: Information Center and Balwoo Gongyang",
+        "url": "https://eng.templestay.com/en/MI000000000000000029/html/view.do",
+        "note": "The center identifies Balwoo Gongyang as a restaurant serving traditional temple food. Ask the restaurant to confirm menus, reservations and ingredients.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask the temple whether the session is running for your group."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1508,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-temple-food-vegetarian-buddhist-meals": {
+    "id": "guide:korean-temple-food-vegetarian-buddhist-meals",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Reserve a temple-food restaurant for a seated meal. Send your dietary requirements before the visit, including broth, sauces, toppings and shared equipment if relevant.",
+    "forWhom": "Diners seeking a traditional temple-food meal in Seoul without booking a temple stay.",
+    "conditions": [
+      "Ask the restaurant about every course and any substitutions.",
+      "Verify current hours, the final menu and the price per diner."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Order a Temple-Food Meal in Seoul"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-balwoo",
+        "title": "Templestay: Information Center and Balwoo Gongyang",
+        "url": "https://eng.templestay.com/en/MI000000000000000029/html/view.do",
+        "note": "The center identifies Balwoo Gongyang as a restaurant serving traditional temple food. Ask the restaurant to confirm menus, reservations and ingredients.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask the restaurant about every course and any substitutions."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1509,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-street-food-guide-30-foods-to-try-2026": {
+    "id": "guide:korean-street-food-guide-30-foods-to-try-2026",
+    "categoryId": "food-dining",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Gwangjang Market for a three-stop tasting. Start with a small gimbap order, share a mung bean pancake, then choose rice cakes or fish cake if you still have room.",
+    "forWhom": "First-time travelers looking for a walkable market meal and a short order list.",
+    "conditions": [
+      "The tasting sequence is an editorial suggestion.",
+      "Check portion, ingredients and price at every stall."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Your First Korean Street-Food Meal: A Three-Dish Market Route"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "gwangjang-market"
+    ],
+    "sources": [
+      {
+        "id": "w23-gwangjang",
+        "title": "Visit Seoul: Gwangjang Market",
+        "url": "https://english.visitseoul.net/PalaceArea/Gwangjang-Market/ENP000286",
+        "note": "Official access and example snack dishes. Individual stalls set their own opening and ordering terms.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "The tasting sequence is an editorial suggestion."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1510,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "gaming-culture-visiting-lol-park-and-pc-bang-pro-centers-2026": {
+    "id": "guide:gaming-culture-visiting-lol-park-and-pc-bang-pro-centers-2026",
+    "categoryId": "culture-events",
+    "format": "comparison",
+    "checkedAt": "2026-11-24",
+    "answer": "Go to LoL Park for a match only when you can confirm the fixture and a usable ticket. Pick a PC bang if you want to play for a short, flexible session.",
+    "forWhom": "Visitors deciding between live esports and a hands-on gaming stop.",
+    "conditions": [
+      "An arena ticket and a PC café seat are separate purchases.",
+      "Confirm game logins and accepted guest registration with the branch."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "LoL Park or a PC Bang? Choose a Gaming Stop in Seoul"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-lol-park",
+        "title": "Visit Seoul: LoL Park",
+        "url": "https://english.visitseoul.net/entertainment/LoL-Park/ENPm73wet",
+        "note": "Official tourism listing separates the spectator arena and PC café. Use the current league notice for entry and tickets.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "An arena ticket and a PC café seat are separate purchases."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1511,
+    "heroMediaId": "archive-seoul-lol-park-arena-2018",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "LOL Park Stadium.jpg",
+      "author": "Altostratus",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:LOL_Park_Stadium.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2018-10-07."
+    },
+    "heroCaption": "The LoL Park arena in Seoul, photographed during esports play in October 2018."
+  },
+  "korean-crafts-making-your-own-mother-of-pearl-najeon-chilgi-art-2026": {
+    "id": "guide:korean-crafts-making-your-own-mother-of-pearl-najeon-chilgi-art-2026",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Look for a workshop that explicitly lists 나전 or 나전칠기. Confirm the project, language, age rules and whether you can take the piece home on the day.",
+    "forWhom": "Travelers choosing a short, hands-on Korean mother-of-pearl craft lesson.",
+    "conditions": [
+      "Confirm the current craft on the program calendar.",
+      "If the session is at an airport, check the terminal, security-zone access and boarding time."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Try Najeon Mother-of-Pearl Craft in Korea"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-najeon",
+        "title": "Korea Tourism Organization: craft-making classes",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=368&vcontsId=139389",
+        "note": "Describes najeon as a craft example at the airport traditional culture center. Confirm the session and terminal for your date.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the current craft on the program calendar."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1512,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "traditional-tea-ceremonies-a-beginner-guide-to-korean-darye-2026": {
+    "id": "guide:traditional-tea-ceremonies-a-beginner-guide-to-korean-darye-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Book a class that explicitly describes tea etiquette or 다례 and ask whether guests prepare and pour the tea. Use a tea house if you want a drink and dessert at your own pace.",
+    "forWhom": "First-time visitors deciding whether a guided tea ceremony fits their route.",
+    "conditions": [
+      "Check the exact date, language and seating.",
+      "Picking leaves and learning tea etiquette are separate activities."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Choose a Korean Darye Tea Etiquette Class"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-hadong-tea",
+        "title": "Korea Tourism Organization: Hadong Tea Cultural Center",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=247579",
+        "note": "Identifies a tea etiquette experience in Hadong. Confirm the running session and distinguish it from seasonal harvest programs.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the exact date, language and seating."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1513,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-pop-music-shows-attending-inkigayo-and-music-bank": {
+    "id": "guide:k-pop-music-shows-attending-inkigayo-and-music-bank",
+    "categoryId": "culture-events",
+    "format": "comparison",
+    "checkedAt": "2026-11-24",
+    "answer": "Start from the official notice for the exact episode or recording. Check broadcaster and artist applications separately, and commit to the outing only after you know where and when you can enter.",
+    "forWhom": "International K-pop fans deciding which television audience application to try.",
+    "conditions": [
+      "Broadcast and prerecording entry can have different rules.",
+      "Save current selection and ID instructions for the exact event."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Music Bank or Inkigayo? Check Audience Entry Before You Go"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-kbs-audience",
+        "title": "KBS: mobile audience ticket information",
+        "url": "https://mylovekbs.kbs.co.kr/index.html?contents_id=70000000402239&sname=mylovekbs&source=mylovekbs&stype=magazine",
+        "note": "KBS explains the broadcaster’s mobile audience passes. Open the program’s actual notice for the recording you want.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w23-sbs-audience",
+        "title": "SBS: Inkigayo audience information",
+        "url": "https://programs.sbs.co.kr/enter/gayo/basicinfo/83552",
+        "note": "Official program page for the Inkigayo audience route. Check the current instructions and selection separately.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Broadcast and prerecording entry can have different rules."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1514,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-pop-fan-meeting-events-how-to-participate": {
+    "id": "guide:k-pop-fan-meeting-events-how-to-participate",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Open the artist or organizer notice first. Verify your membership only if the event requires it, choose the correct sale phase and match your ticket name to the required ID.",
+    "forWhom": "International fans planning travel around an announced artist fan meeting.",
+    "conditions": [
+      "Past event rules are examples only.",
+      "Check each sale phase, identity rules and whether any extra activity is included."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Buy K-pop Fan Meeting Tickets as a Visitor"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-fan-meet",
+        "title": "Weverse: CLOSE YOUR EYES fan meeting ticket notice",
+        "url": "https://weverse.io/closeyoureyes/notice/26536",
+        "note": "A past organizer notice shows separate verification, presale and general sale phases. Those dates and rules were specific to that event.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Past event rules are examples only."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1515,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-drama-ost-concerts-where-to-buy-tickets": {
+    "id": "guide:k-drama-ost-concerts-where-to-buy-tickets",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Search for the drama’s Korean title followed by OST 콘서트. Open the organizer or venue listing and check whether it announces original singers, a cover performance or an orchestra.",
+    "forWhom": "Drama fans looking for soundtrack performances to fit into a Korea trip.",
+    "conditions": [
+      "A past listing is an example, not an upcoming schedule.",
+      "Check the exact lineup, date and seller link before booking travel."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Find a Korean Drama OST Concert and Check the Lineup"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-ost-event",
+        "title": "Interpark: The Fan K-drama OST concert event notice",
+        "url": "https://ticket.interpark.com/Community/Play/Event/WinView.asp?bbsno=58&groupno=21973&no=21973&pageno=4&seq=0&sflag=T&stext=",
+        "note": "Archived seller notice demonstrates a K-drama soundtrack concert example. It is not a current listing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "A past listing is an example, not an upcoming schedule."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1516,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "custom-perfume-making-in-seoul-designing-your-signature-scent-2026": {
+    "id": "guide:custom-perfume-making-in-seoul-designing-your-signature-scent-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Book a workshop that says you will blend your own perfume. Confirm the language, bottle size, price per person and whether you can take the bottle home that day.",
+    "forWhom": "Travelers choosing a creative session in Seoul and deciding whether it fits the time they have.",
+    "conditions": [
+      "Confirm the exact venue, package, and instructions before paying.",
+      "Check your airline and airport rules for traveling with the finished bottle."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Make Your Own Perfume in Seoul: What to Confirm Before Booking"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-dilly",
+        "title": "Visit Seoul: Dillyscent workshop",
+        "url": "https://english.visitseoul.net/area/dillyscent/ENPe60s5s",
+        "note": "Identifies a Seoul workshop where visitors can make a fragrance and points to its booking channel. Check language, dates and package terms with the venue.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the exact venue, package, and instructions before paying."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1517,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "seoul-shopping-guide-myeongdong-to-gangnam": {
+    "id": "guide:seoul-shopping-guide-myeongdong-to-gangnam",
+    "categoryId": "shopping-kbeauty",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with a short list in Myeongdong. Continue to Garosu-gil near Sinsa Station only if you have a particular boutique to visit and it will still be open.",
+    "forWhom": "Travelers with a limited shopping block who want common beauty items and a specific boutique visit.",
+    "conditions": [
+      "This route ends near Sinsa Station. Other Gangnam destinations need separate navigation.",
+      "Check individual branches and avoid relying on one closing time for a shopping area."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Myeongdong to Sinsa: A Practical Two-Stop Seoul Shopping Route"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "myeongdong-station"
+    ],
+    "sources": [
+      {
+        "id": "w23-seoul-retail",
+        "title": "Korea Tourism Organization: shopping districts",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=491&vcontsId=140737",
+        "note": "Identifies Myeongdong and the Garosu-gil area near Sinsa Station. This listing describes areas, and does not establish store-level hours or inventory.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1518,
+    "heroMediaId": "seoul-myeongdong-shopping-street-at-night-2019",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Foxy1219",
+      "title": "명동 Myeongdong 2019-11-13.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%AA%85%EB%8F%99_Myeongdong_2019-11-13.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "heroCaption": "A Myeongdong shopping lane in November 2019. Check the shop and branch you want before going."
+  },
+  "korean-makeup-trends-cushion-foundation-to-glass-skin": {
+    "id": "guide:korean-makeup-trends-cushion-foundation-to-glass-skin",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Bring the exact brand and shade name you use now. Compare both the number and undertone in the product you are testing, and ask whether the shade and refill are stocked at that branch.",
+    "forWhom": "Visitors shopping for cushion makeup and comparing unfamiliar shades in person.",
+    "conditions": [
+      "Online swatches and numbers are product-specific.",
+      "Check branch stock and exchange conditions before purchasing."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Match a Cushion Foundation Shade When Shopping in Korea"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-cushion",
+        "title": "ABOUT_TONE: Water Layer Fit Cushion shade options",
+        "url": "https://about-tone.com/surl/P/117",
+        "note": "The maker lists warm and cool variants with the same shade number in its product selector. Check other product ranges by their own labels.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Online swatches and numbers are product-specific."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1519,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-pop-merchandise-shopping-myeongdong-vs-online": {
+    "id": "guide:k-pop-merchandise-shopping-myeongdong-vs-online",
+    "categoryId": "culture-events",
+    "format": "comparison",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a shop near the part of Seoul you are already visiting when you want to compare physical editions. Order online only when you can check the exact edition, cost and delivery plan.",
+    "forWhom": "Fans fitting physical album shopping into a day in Seoul.",
+    "conditions": [
+      "Tourism listings identify shops, not current stock.",
+      "Compare an exact edition and inclusions before comparing price."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buy K-pop Albums in Seoul: Myeongdong, Hongdae or Online?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-withmuu",
+        "title": "Visit Seoul: WITHMUU Hongdae",
+        "url": "https://english.visitseoul.net/MapoArea/WITHMUU-HONGDAE/ENPkbyxzt",
+        "note": "Identifies the Hongdae branch as an album and merchandise seller and gives a nearby station exit. The listing does not establish available editions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w23-buruttrak",
+        "title": "Visit Seoul: buruttrak in Myeongdong",
+        "url": "https://english.visitseoul.net/shopping/2024-ddeurak/ENPsiyv8i",
+        "note": "Identifies a physical album seller in Myeongdong. Ask about current stock, pricing or exchange terms before leaving the counter.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Tourism listings identify shops, not current stock."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1520,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-pop-album-unboxing-culture-photocards-and-inclusions": {
+    "id": "guide:k-pop-album-unboxing-culture-photocards-and-inclusions",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Match the exact edition to the official contents list before buying. Check the playback method, the number of random items and the separate terms for seller benefits.",
+    "forWhom": "Travelers comparing album versions or buying a physical gift with specific contents.",
+    "conditions": [
+      "Product-version examples are not current stock checks.",
+      "Retailer benefits can have conditions separate from the sealed album."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Read K-pop Album Inclusions Before You Buy"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-album-example",
+        "title": "Weverse Shop: example album contents",
+        "url": "https://shop.weverse.io/ko/shop/KRW/artists/3/sales/70269",
+        "note": "First-party example of disc-free NFC playback and a documented assortment of album photocards. It describes this product version only.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w23-card-promo",
+        "title": "Weverse Shop: example of a retailer photocard benefit",
+        "url": "https://shop.weverse.io/es/shop/USD/artists/242/notices/12949",
+        "note": "Historical example of a separate retailer offer with random cards and stock conditions. It does not establish the identity or value of a card in a resale listing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Product-version examples are not current stock checks."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1521,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "collecting-k-pop-photocards-the-global-market-and-trading-etiquette-2026": {
+    "id": "guide:collecting-k-pop-photocards-the-global-market-and-trading-etiquette-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Identify the exact member, design, edition and release source before discussing a trade. Ask for clear condition evidence and keep the transaction within the seller or venue’s rules.",
+    "forWhom": "Travelers buying a particular secondhand card or arranging a fan trade during a visit.",
+    "conditions": [
+      "An album card and a retailer benefit can have different release terms.",
+      "Official examples support release details, not the authenticity of an individual listing."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buying or Trading K-pop Photocards in Korea: A Check Before You Pay"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w23-album-example",
+        "title": "Weverse Shop: example album contents",
+        "url": "https://shop.weverse.io/ko/shop/KRW/artists/3/sales/70269",
+        "note": "First-party example of disc-free NFC playback and a documented assortment of album photocards. It describes this product version only.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w23-card-promo",
+        "title": "Weverse Shop: example of a retailer photocard benefit",
+        "url": "https://shop.weverse.io/es/shop/USD/artists/242/notices/12949",
+        "note": "Historical example of a separate retailer offer with random cards and stock conditions. It does not establish the identity or value of a card in a resale listing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "An album card and a retailer benefit can have different release terms."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1522,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
   }
 }

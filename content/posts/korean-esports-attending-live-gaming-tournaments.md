@@ -21,4 +21,4 @@ A match day begins with a fixture you can actually attend. Use the [LoL Esports 
 
 For an event explicitly listed at LoL Park, the [tourism authority lists **롤파크 · 서울 종로구 종로 33 그랑서울 타워 3층**](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194959). Do not use that address for an unconfirmed match. The organizer’s [2026 LCK Cup finals notice](https://lolesports.com/ko-KR/news/2026-lck-cup-finals-guide) placed that past event at Kai Tak Arena in Hong Kong, with different ticket sellers from a normal Seoul outing.
 
-If the match date is unclear or the tickets are unavailable, keep a flexible evening and check streaming options for that fixture. The [Seoul gaming venues guide](/blog/gaming-culture-visiting-lol-park-and-pc-bang-pro-centers-2026) helps you pick a separate gaming stop. A shop or public lobby is a separate visit from a ticketed match.
+If the match date is unclear or the tickets are unavailable, keep a flexible evening. Use the [LoL Park versus PC bang guide](/blog/gaming-culture-visiting-lol-park-and-pc-bang-pro-centers-2026) to decide whether a separate gaming café visit works for you.

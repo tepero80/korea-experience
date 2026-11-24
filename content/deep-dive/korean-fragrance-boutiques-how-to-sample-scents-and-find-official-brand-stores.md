@@ -10,6 +10,8 @@ deepDive: true
 
 Start with a store that fits your route, then ask staff which fragrances are available to try. The [Tamburins Korea store directory](https://www.tamburins.com/en/store/korea/) lists separate Haus Nowhere Seoul and Seongsu locations as well as department-store counters. Confirm the exact address, current hours and product availability with the branch; listings can change and some displayed hours are inconsistent.
 
+If you want to blend a bottle instead of shopping for a ready-made scent, [check how to book a Seoul perfume workshop](/blog/custom-perfume-making-in-seoul-designing-your-signature-scent-2026).
+
 ## Compare scents without rushing
 
 | What you want | What to ask for |

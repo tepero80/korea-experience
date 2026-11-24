@@ -17,6 +17,8 @@ draft: false
 
 If you plan to bring merchandise, [check your light-stick model and event rules](/blog/k-pop-lightstick-guide-official-vs-unofficial) before buying.
 
+Applying for a smaller artist event? [Check the fan meeting verification and sale phases](/blog/k-pop-fan-meeting-events-how-to-participate) before setting up the seller account.
+
 ## Prepare before the sale
 
 | Check | What to save privately |

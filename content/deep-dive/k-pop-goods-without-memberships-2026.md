@@ -12,6 +12,8 @@ image: "/images/editorial/culture-insadong-street-1280.webp"
 
 Start with the kind of purchase. A regular album on a shop shelf, an online preorder and a concert pickup can all relate to the same artist and have different requirements.
 
+If you mainly want a physical album on a Seoul outing, [compare the in-store and online purchase routes](/blog/k-pop-merchandise-shopping-myeongdong-vs-online) before choosing a stop.
+
 ## Choose the purchase route first
 
 | Route | What to confirm |
@@ -23,6 +25,8 @@ Start with the kind of purchase. A regular album on a shop shelf, an online preo
 [Ktown4u’s Insa-dong store listing](https://www.ktown4u.com/stores) describes regular K-pop albums and stationery. The shop is on the third floor of Annyeong Insadong at 49 Insadong-gil, Jongno-gu, Seoul. From Anguk Station, use Exit 6 and follow the operator’s directions. Check the current branch hours and ask about the exact edition or benefit before going.
 
 Address for your map search: **서울 종로구 인사동길 49, 안녕인사동 3층**.
+
+If the edition matters more than the retailer, [read the album inclusions and format checklist](/blog/k-pop-album-unboxing-culture-photocards-and-inclusions) before buying.
 
 ## Read the rule for your sale phase
 

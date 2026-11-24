@@ -24,6 +24,8 @@ A product listing or coupon in the global shop may describe a different sale. Th
 
 Before relying on a discount, [compare app and store promotion conditions](/blog/smart-shopping-at-olive-young-using-the-app-and-maximizing-sales-2026).
 
+Buying base makeup? Use the [cushion foundation shade checklist](/blog/korean-makeup-trends-cushion-foundation-to-glass-skin) before comparing testers or asking for a refill.
+
 ## Make a small list before entering
 
 | If you want | Check in store |

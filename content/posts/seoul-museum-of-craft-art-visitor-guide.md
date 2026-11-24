@@ -70,6 +70,8 @@ The museum notes it is on the former site of Andong Byeolgung Palace. It does no
 - [Seoul Museum of Craft Art — Children's Museum](https://craftmuseum.seoul.go.kr/chimsm/introduce): sessions, reservation, ages, fees and building location.
 - [Seoul Museum of Craft Art — Current exhibitions and programs](https://craftmuseum.seoul.go.kr/main): date-specific exhibition and program checks.
 
+If seeing the collection makes you want to try a craft, [check how to find a mother-of-pearl workshop](/blog/korean-crafts-making-your-own-mother-of-pearl-najeon-chilgi-art-2026) and reserve a separate hands-on session.
+
 ## Continue your Anguk/Jongno plan
 
 - [Choose an indoor cluster for a rainy day in Seoul](/blog/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets)
