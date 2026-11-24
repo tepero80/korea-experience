@@ -81,6 +81,8 @@ Each provider gets its own rolling 28-day window after three full local days hav
 
 Pagination is bounded at100,000 rows and explicitly partial when capped. Actual URL inspection describes Google's indexed version, not a live crawl or indexing request. Unknown backlinks and first-public dates still block retirement. Keep dated browser snapshots as supplementary evidence rather than silently merging periods/scopes.
 
+The due inspection report compares Google's last recorded crawl with the latest verified release for each URL. Read the crawl and index findings together. At the 28-day review, prioritize guides where Google reports a crawl after deployment and a continuing exclusion. Keep missing release dates, unavailable reads and older crawls separate from that review queue.
+
 ## Performance and social evidence
 
 The isolated Lighthouse job measures three cold mobile and desktop runs for home, a guide and the budget tool. Retain version/profile/time, raw reports, median and range. Local static export, blocked ads/analytics and simulated network/CPU differ from production users. Lab TBT is not field INP. Field CWV and repeat-use evidence require elapsed real traffic.

@@ -5,7 +5,9 @@ import { readOfficial } from './reporting/client';
 import {
   inspectionObservation,
   pendingInspections,
+  type InspectionCrawlEvidence,
   type InspectionObservation,
+  type TrackedInspection,
 } from './reporting/inspection-checkpoints';
 
 const dueLimit = 400;
@@ -29,9 +31,7 @@ async function main() {
     console.log('URL tracking is unavailable; no dates or indexing states were invented.');
     return;
   }
-  const tracking: { id: string; url: string; checksDue: string[] }[] = JSON.parse(
-    fs.readFileSync(trackingFile, 'utf8'),
-  );
+  const tracking: TrackedInspection[] = JSON.parse(fs.readFileSync(trackingFile, 'utf8'));
   const baseline = process.argv.includes('--baseline');
   const pending = pendingInspections(tracking, previous.observations, today, baseline);
   const selected = pending.slice(0, baseline ? baselineLimit : dueLimit);
@@ -55,6 +55,7 @@ async function main() {
     observed = 0,
     failedBatches = 0;
   let stopped: string | undefined;
+  const crawlStates: Partial<Record<InspectionCrawlEvidence['state'], number>> = {};
   const report = () => ({
     at: new Date().toISOString(),
     site: REPORTING_TARGETS.site,
@@ -63,8 +64,9 @@ async function main() {
     pending: pending.length,
     unattempted: pending.length - requests,
     stopped,
+    crawlStates,
     scope:
-      'Read-only Google index observations. Check the actual observation timestamp. A late reading covers the latest due checkpoint and records earlier outstanding dates as missed. Unavailable responses leave the dates open.',
+      'Read-only Google index observations. Crawl states compare the last reported Google crawl with the verified deployment for each URL. A late reading covers the latest due checkpoint and records earlier outstanding dates as missed. Unavailable responses leave the dates open.',
     observations,
   });
   const saveLatest = () => {
@@ -102,7 +104,13 @@ async function main() {
     ).length;
     observed += successful;
     failedBatches = successful ? 0 : failedBatches + 1;
-    for (const { url, observation } of outcomes) observations[url] = observation;
+    for (const { url, observation } of outcomes) {
+      observations[url] = observation;
+      if (observation.crawlEvidence) {
+        const { state } = observation.crawlEvidence;
+        crawlStates[state] = (crawlStates[state] ?? 0) + 1;
+      }
+    }
     const stopStatus = outcomes.find(
       ({ httpStatus }) => httpStatus && [401, 403, 429].includes(httpStatus),
     );

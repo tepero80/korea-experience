@@ -48,6 +48,7 @@ test('a response with no inspection status preserves earlier evidence and leaves
   const blank: ReportResult = { name: 'Empty response', status: 'observed', data: {} };
   const failure = inspectionObservation(later, prior, blank, '2026-12-01T02:00:00Z', false);
   assert.equal(failure.result.status, 'unavailable');
+  assert.equal(failure.crawlEvidence?.state, 'unavailable');
   assert.equal(failure.lastSuccessAt, prior.lastSuccessAt);
   assert.deepEqual(failure.previousSuccessfulResult, indexed);
   assert.deepEqual(failure.checkedFor, ['2026-11-28']);
@@ -55,4 +56,61 @@ test('a response with no inspection status preserves earlier evidence and leaves
     pendingInspections([tracked], { [url]: failure }, '2026-12-01', false)[0].outstanding,
     ['2026-12-01'],
   );
+});
+
+test('an indexed older crawl does not verify the latest deployment even with duplicate tracking rows', () => {
+  const recent = { commit: 'latest', verifiedAt: '2026-11-24T08:00:00Z' };
+  const newer = { ...tracked, substantiveUpdates: [recent] };
+  const older = { ...tracked, releaseCommit: 'original', verifiedPublicAt: '2026-10-01T00:00:00Z' };
+  const [work] = pendingInspections([newer, older], {}, '2026-12-01', false);
+  const response: ReportResult = {
+    ...indexed,
+    data: {
+      inspectionResult: {
+        indexStatusResult: {
+          verdict: 'PASS',
+          coverageState: 'Submitted and indexed',
+          lastCrawlTime: '2026-11-24T07:59:59Z',
+        },
+      },
+    },
+  };
+  const reading = inspectionObservation(work, undefined, response, '2026-12-01T02:00:00Z', false);
+  assert.deepEqual(reading.crawlEvidence, {
+    state: 'no-post-release-crawl-evidence',
+    revision: recent,
+    indexed: true,
+    lastCrawlAt: '2026-11-24T07:59:59Z',
+  });
+  assert.deepEqual(reading.checkedFor, ['2026-12-01']);
+});
+
+test('a crawl after the deployment separates indexed from excluded and unspecified coverage', () => {
+  const revision = { commit: 'rewrite', verifiedAt: '2026-11-24T08:00:00Z' };
+  const [work] = pendingInspections(
+    [{ ...tracked, substantiveUpdates: [revision] }],
+    {},
+    '2026-12-01',
+    false,
+  );
+  for (const [verdict, expected] of [
+    ['PASS', 'post-release-crawl-indexed'],
+    ['NEUTRAL', 'post-release-crawl-unindexed'],
+    ['VERDICT_UNSPECIFIED', 'post-release-crawl-index-status-unknown'],
+  ]) {
+    const response: ReportResult = {
+      ...indexed,
+      data: {
+        inspectionResult: {
+          indexStatusResult: {
+            verdict,
+            coverageState: 'Present in inspection response',
+            lastCrawlTime: '2026-11-25T02:00:00.512Z',
+          },
+        },
+      },
+    };
+    const reading = inspectionObservation(work, undefined, response, '2026-12-01T02:00:00Z', false);
+    assert.equal(reading.crawlEvidence?.state, expected);
+  }
 });
