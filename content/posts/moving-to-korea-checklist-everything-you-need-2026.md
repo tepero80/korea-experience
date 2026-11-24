@@ -188,14 +188,17 @@ You must apply for your Residence Card at your local Immigration Office within 9
   tip="This branch serves residents of Jongno, Jung-gu, and Eunpyeong-gu. Check your jurisdiction before booking!"
 />
 
+If you want a gym before committing to a membership, use the [one-day gym checklist](/blog/gym-memberships-in-korea-pricing-and-contracts) to confirm access and what the fee includes.
+
 ## Phase 6: Daily Life and Cost of Living 2026
 
 Once the dust settles, what does daily life cost? While inflation has hit Korea, it remains cheaper than New York or London, though more expensive than Bangkok or Taipei.
 
 ### Transportation
-Public transit is incredible. The **Climate Card** (introduced extensively in 2024-2025) offers unlimited subway and bus rides in Seoul for roughly ₩65,000 per month.
-*   **Subway Base Fare:** ₩1,500 (up from 1,400 in 2024).
-*   **Taxi Base Fare:** ₩5,800 (night premiums apply after 10 PM).
+Check the stations and buses you will use against [Seoul’s Climate Card coverage](https://english.seoul.go.kr/policy/transportation/climate-card/) before buying a pass.
+
+- [The city’s subway fare table](https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/) lists ₩1,550 for a standard base adult transit-card ride. Distance and ticket type can change your fare.
+- [Seoul’s taxi fare table](https://english.seoul.go.kr/policy/transportation/modes-of-transport/taxi/) lists a daytime base of ₩4,800 for the first 1.6 km in an ordinary sedan. Check the separate late-night and vehicle-specific rates.
 
 ### Food and Dining
 Dining out is often cheaper than cooking for one, thanks to the affordable "Baekban" (set meal) culture. However, fruit prices are among the highest in the world. A watermelon can cost ₩25,000 ($19 USD) in summer.

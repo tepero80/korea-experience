@@ -18,6 +18,8 @@ image: "/images/editorial/makgeolli-kettle-jon-aslund-2010-1280.webp"
 
 **음료수 있어요?** asks whether soft drinks are available. You can ask for food and water or a soft drink and check whether the venue has a minimum order. If alcohol content matters, use the number printed on the bottle instead of assuming it from the style.
 
+If someone offers a mixed glass, use the [somaek ordering guide](/blog/the-art-of-somaek-how-to-make-the-perfect-beer-soju-mix-2026) to ask what is in it or choose a soft drink.
+
 ## Decide whether a pocha suits your evening
 
 Look at the menu and seating before you sit down, especially if someone in your group needs an indoor seat or cannot eat an ingredient. [VISITKOREA’s Jongno 3-ga Pocha Street guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=215485) shows an outdoor example near Exit 6. Another place with “pocha” on its sign can be an indoor restaurant, so check the venue itself. Have an indoor alternative or pick a restaurant near your last connection if weather or a late journey would be an issue.

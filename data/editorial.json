@@ -46235,5 +46235,349 @@
     "changeType": "rewrite",
     "launchOrder": 1624,
     "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "cost-of-living-in-seoul-vs-busan-comparison-2026": {
+    "id": "guide:cost-of-living-in-seoul-vs-busan-comparison-2026",
+    "categoryId": "plan-your-trip",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Compare two room quotes for the same dates and party first. Then add transport from your arrival point and the actual short list of places you plan to visit. Use totals for the whole trip so you can see what changes your budget.",
+    "forWhom": "Travelers comparing a short stay in Seoul and Busan before booking accommodation.",
+    "conditions": [
+      "Example rail fares are for adult transit-card rides under the stated conditions. They exclude longer journeys, rail to the cities and any separate airport service."
+    ],
+    "regions": [
+      "seoul",
+      "busan"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Seoul and Busan visitor budget",
+      "same-date room quotes",
+      "adult local rail fares"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w38-seoul-metro",
+        "title": "Seoul Metropolitan Government subway fare table",
+        "url": "https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/",
+        "note": "Lists the adult standard card and single-ride fares, distance bands and early-morning conditions. The displayed fare table dates from June 28, 2025.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w38-busan-metro",
+        "title": "Busan Transportation Corporation urban rail fares",
+        "url": "https://www2.humetro.busan.kr/homepage/english/page/subLocation.do?menu_no=100601040101",
+        "note": "Lists the two bands and the adult transit-card and QR fares.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Compare rooms for the same dates and party before using local transit prices to pick a city."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1625,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "gym-memberships-in-korea-pricing-and-contracts": {
+    "id": "guide:gym-memberships-in-korea-pricing-and-contracts",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the branch whether it accepts a visitor for a one-day session. Confirm the total cost, booking requirements, footwear and any locker fee before you go. If it offers you a membership, ask for the term and cancellation conditions in writing.",
+    "forWhom": "Travelers and short-stay visitors looking for one gym session or a short pass.",
+    "conditions": [
+      "Access and charges depend on the facility and session. A published daily ticket does not establish that a specific visitor can use it."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "one-day gym access in Korea",
+      "fitness center check-in",
+      "short-term membership conditions"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w38-guro-gym",
+        "title": "Guro Community Sports Center gym admissions",
+        "url": "https://www.gurosisul.or.kr/mod.asp?c=2&m=business&s=b01-3&t=2",
+        "note": "Lists Saturday single-day gym admission, session times and a footwear requirement. It gives no general rule about foreign visitor access.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w38-kca-gym",
+        "title": "Korea Consumer Agency case on a training contract refund",
+        "url": "https://www.kca.go.kr/webzine/board/view?div=kca_2606&linkId=1023&menuId=MENU00307",
+        "note": "Explains the outcome in a particular discounted personal training dispute and highlights the need to check cancellation terms before paying.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask about single-use eligibility and equipment rules before traveling to the gym."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1626,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "volunteer-opportunities-for-english-speakers-in-seoul-2026": {
+    "id": "guide:volunteer-opportunities-for-english-speakers-in-seoul-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the organizer whether it accepts short-stay visitors, which tasks you would do and whether there is any payment or other benefit. Take those details to immigration for a status-specific check before agreeing to a role.",
+    "forWhom": "Visitors and English speakers considering a volunteer opportunity advertised in Seoul.",
+    "conditions": [
+      "Each group sets its own requirements. Permission depends on a person’s status and the details of the activity."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "short visit volunteering in Seoul",
+      "Seoul volunteer application eligibility",
+      "status-of-stay activity check"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w38-seoul-volunteer",
+        "title": "Seoul’s 2026 Global BARO volunteer recruitment notice",
+        "url": "https://english.seoul.go.kr/seoul-global-baro-volunteer-corps-opens-recruitment-for-200-new-members/",
+        "note": "Gives the March 2026 recruitment and describes the Seoul foreign-resident program. Its linked notice gives March 31 as the application cutoff.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w38-1345",
+        "title": "Korea Immigration Service contact center",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Provides the government contact for status-of-stay and permitted-activity questions.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check visitor eligibility and describe the exact role and benefits to immigration before accepting."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1627,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "kpop-fandom-economy-guide-2026": {
+    "id": "guide:kpop-fandom-economy-guide-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Follow the seller link in the organizer’s current notice. Before paying, check the collection booth and cutoff, the proof you need and the refund terms. Keep the pickup QR and your identity documents private.",
+    "forWhom": "Fans with a ticket or travel plans who are considering a paid merchandise preorder.",
+    "conditions": [
+      "The two 2026 examples below are historical. Collection windows, identity checks and missed-pickup policies are set separately for each sale."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "K-pop merchandise preorders",
+      "concert pickup proof and deadline",
+      "event order refund terms"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w38-bts-collection",
+        "title": "HYBE’s April 2026 BTS Goyang official merchandise notice",
+        "url": "https://weverse.io/bts/notice/34526",
+        "note": "Historical example of advance pickup windows, collection QR secrecy, no identity check for that pickup and automatic cancellation after a missed window.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w38-xia-collection",
+        "title": "PALMTREE ISLAND’s 2026 XIA Seoul official merchandise notice",
+        "url": "https://weverse.io/kimjunsu/notice/36466",
+        "note": "Historical example asking for purchase confirmation and accepted photo ID, with no cancellation or refund for orders not collected in the designated hours.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the order cutoff, proof and refund terms in the current organizer notice before paying."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1628,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "the-art-of-somaek-how-to-make-the-perfect-beer-soju-mix-2026": {
+    "id": "guide:the-art-of-somaek-how-to-make-the-perfect-beer-soju-mix-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Somaek mixes beer and soju. Ask whether it is already mixed and what went into your glass. If you want to avoid alcohol, you can ask for water, soda or another separate drink instead.",
+    "forWhom": "Visitors who see 소맥 on a menu or are offered a glass at dinner.",
+    "conditions": [
+      "The mix and serving size vary. Check the exact product label if you are choosing a packaged beer-style alternative."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "somaek at a restaurant",
+      "beer and soju menu terms",
+      "ordering a non-drinking option"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w38-kto-somaek",
+        "title": "Korea Tourism Organization description of somaek",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=189721",
+        "note": "Describes somaek as beer mixed with soju and explains that proportions differ.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w38-mfds-label",
+        "title": "Korean food regulator’s 2024 notice on alcohol-related beverage labels",
+        "url": "https://www.mfds.go.kr/brd/m_1105/view.do?seq=33714",
+        "note": "Shows that the regulator’s 2024 inspection distinguished beverages labeled 무알코올 and 비알코올.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask whether the drink is already mixed and what went into your glass."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1629,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-physical-therapy-dealing-with-sports-injuries-while-traveling-2026": {
+    "id": "guide:korean-physical-therapy-dealing-with-sports-injuries-while-traveling-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "For a planned follow-up, call the facility and explain that you are traveling. Ask which service can assess or follow an existing plan, whether you need a referral and what documents or images they can use. Request an appointment before changing your travel plans.",
+    "forWhom": "Travelers arranging a planned outpatient follow-up or rehabilitation appointment in Korea.",
+    "conditions": [
+      "Services, appointment availability, language support, insurance billing and referral rules depend on your case and provider."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "injury follow-up overseas",
+      "international outpatient booking",
+      "rehabilitation appointment questions"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w38-snuh-outpatient",
+        "title": "Seoul National University Hospital outpatient information",
+        "url": "https://www.snuh.org/global/en/patients/EN02003001.do",
+        "note": "Lists preparation guidance for its first-time outpatient visits, including passport or residence ID, reports and relevant images.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w38-snuh-appointment",
+        "title": "Seoul National University Hospital appointment instructions",
+        "url": "https://snuh.org/global/en/patients/appointmentMain.do",
+        "note": "Explains its booking contacts and describes specific referral conditions for its insured patients.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask the specific provider what referral, imaging and identification it needs before going."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1630,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "medical-tourism-visa-c33-2026": {
+    "id": "guide:medical-tourism-visa-c33-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "If your Korean consular office confirms C-3-3 applies to you, ask which application route it accepts and what your hospital must issue. Check the rules for any caregiver separately and wait for a confirmed application process before committing to travel dates.",
+    "forWhom": "Applicants whose consular office has identified the C-3-3 medical visit category.",
+    "conditions": [
+      "Consular document lists and submission routes vary. A Singapore application is an example specific to that office."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "C-3-3 proof checklist",
+      "consular medical visitor documents",
+      "visa issuance confirmation"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w38-medical-korea-visa",
+        "title": "Medical Korea medical visa application overview",
+        "url": "https://www.medicalkorea.or.kr/en/medicalvisa",
+        "note": "Describes consular applications and facilities or facilitators requesting confirmation of visa issuance.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w38-singapore-c33",
+        "title": "Embassy of the Republic of Korea in Singapore C-3-3 instructions",
+        "url": "https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?seq=761435",
+        "note": "Provides a jurisdiction-specific document example and a separate route for applicants with a confirmation number.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w38-eac-timing",
+        "title": "Korea electronic arrival-card filing guide",
+        "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E",
+        "note": "Says filing starts three days before arrival in Korea, if a traveler needs the declaration.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w38-eac-applicability",
+        "title": "Korea electronic arrival-card applicability guide",
+        "url": "https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do",
+        "note": "Lists declaration applicability and exceptions, including residence-card and valid K-ETA holders.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the local filing route before asking your hospital for appointment proof or a confirmation number."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1631,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
   }
 }

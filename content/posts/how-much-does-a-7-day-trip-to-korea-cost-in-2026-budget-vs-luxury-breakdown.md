@@ -32,6 +32,8 @@ draft: false
 
 That is **₩1,052,250 per traveler** for this example. It does not describe an average visitor or establish a current hotel/meal price. Room costs are shared here; food and fares are not.
 
+If you are still choosing a base, use the [Seoul and Busan short-stay comparison](/blog/cost-of-living-in-seoul-vs-busan-comparison-2026) to compare the same dates and rooms.
+
 ## Replace the expensive assumptions first
 
 Get the actual room total for your dates, including the stated occupancy, fees and cancellation terms. Then list the experiences you would regret missing. A large fixed booking changes the budget more than refining a small snack allowance.

@@ -22,6 +22,8 @@ featuredOrder: 4
 
 HYBE’s [past V8 pop-up notice](https://weverse.io/seventeen/notice/36935) illustrates how a temporary sale can require a Weverse login, a reservation and a live entry QR. Use the current listing for your event and verify any membership requirement by name.
 
+For a prepaid concert order, read the [official merchandise pickup checklist](/blog/kpop-fandom-economy-guide-2026) before paying or sharing a collection code.
+
 ## Save the address and keep a nearby fallback
 
 - WITHMUU Hongdae: **서울 마포구 양화로 188, AK플라자 2층**. [Open in Google Maps](https://www.google.com/maps/search/?api=1&query=WITHMUU%20AK%20PLAZA%20Hongdae).

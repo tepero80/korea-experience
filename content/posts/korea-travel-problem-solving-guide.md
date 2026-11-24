@@ -29,6 +29,8 @@ draft: false
 
 [KTO's emergency guidance](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145) distinguishes **112** and **119**. Ask for English or interpretation and state the location first. **1339 is infectious-disease information, not ambulance dispatch**, as explained in [KTO's emergency information](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140042).
 
+For a planned injury follow-up rather than an emergency, use the [outpatient booking checklist](/blog/korean-physical-therapy-dealing-with-sports-injuries-while-traveling-2026) to ask about referral, records and interpretation.
+
 ## If you need to explain your location
 
 Read the nearest building or business name and Korean address; use your phone's location if you can. Ask staff to help communicate. Do not give only your hotel address when the incident is somewhere else.

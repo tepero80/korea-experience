@@ -20,6 +20,8 @@ author: Korea Experience Editorial
 
 If you are already in Korea and your purpose changes, use the [Korea status-change checklist](/blog/changing-visa-status-while-in-korea) to check the appropriate process with immigration.
 
+If your consular office confirms C-3-3, use the [C-3-3 filing and evidence checklist](/blog/medical-tourism-visa-c33-2026) to check which documents that office expects.
+
 ## Match travel dates to confirmed steps
 
 Ask the clinic which dates are booked, which depend on examination and how it can provide a confirmation for the consulate. Confirm any booking or application terms before making payments. Keep copies of submissions and the written answers from the relevant offices.

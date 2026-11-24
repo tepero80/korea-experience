@@ -18,6 +18,8 @@ Seoul’s [Gangnam Global Village Center](https://global.seoul.go.kr/hmpg/ainf/c
 | Meet | Suggest a public place and agree on a short session. Keep your own transport plan and feel free to end the meeting. |
 | Talk | Offer one small topic, such as ordering tea or introducing yourself. Ask whether they want a correction and split the time between both languages. |
 
+If a listing asks you to take on duties, the [Seoul volunteer eligibility checklist](/blog/volunteer-opportunities-for-english-speakers-in-seoul-2026) helps you check the role before accepting.
+
 ## Send a clear invitation
 
 Try “안녕하세요. 한국어와 영어로 20분 정도 이야기해 보고 싶어요.” It opens a short Korean and English conversation. State your visit dates only if useful. If someone pushes for money or redirects the conversation to an unexpected link, pause and use the platform’s block or report controls.
