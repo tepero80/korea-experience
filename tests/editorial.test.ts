@@ -36,6 +36,13 @@ test('identified archive illustrations are not used as article preview photograp
   assert.equal(guidePreviewImage(verified), `/images/cards/${verified.slug}.jpg`);
   assert.ok(guideSchema(verified).image?.endsWith(verified.image!));
   assert.equal(generatedArchiveCoverHash(slug, verified.image), undefined);
+
+  const recovered = getPostBySlug('hanbok-modern-styling-tips-2026')!;
+  assert.equal(recovered.image, '/images/hanbok-modern-styling-tips.webp');
+  assert.ok(generatedArchiveCoverHash(recovered.slug, recovered.image));
+  assert.equal(guidePreviewImage(recovered), '/images/cards/korea-experience.jpg');
+  assert.equal(guideSchema(recovered).image, undefined);
+  assert.equal(generatedArchiveCoverHash(recovered.slug, undefined), undefined);
 });
 
 test('automatic next steps do not jump between unrelated destination guides', () => {

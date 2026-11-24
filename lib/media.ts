@@ -21,8 +21,12 @@ for (const media of registry.values()) {
   if (!registryBySource.has(media.src)) registryBySource.set(media.src, media);
 }
 const generatedArchiveCovers = new Map(Object.entries(generatedArchive.covers));
+const recoveredArchiveCovers = new Map(Object.entries(generatedArchive.recoveredCovers));
 
 export function generatedArchiveCoverHash(slug: string, src?: string) {
+  if (!src) return undefined;
+  const recoveredHash = recoveredArchiveCovers.get(src);
+  if (recoveredHash) return recoveredHash;
   return src === `/images/${slug}.webp` ? generatedArchiveCovers.get(slug) : undefined;
 }
 export function mediaFor(id?: string) {
