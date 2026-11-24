@@ -24,6 +24,8 @@ The [Korea Tourism Organization's official page](https://english.visitkorea.or.k
 
 For a hands-on activity, [choose a Seoul dance class by level and instructor](/blog/k-pop-dance-class-guide-learn-from-real-choreographers-2026).
 
+If you want a documented outdoor fan stop, [plan a public Namsan Park visit from BLACKPINK House](/blog/blackpink-in-seoul-fan-tour-guide-2026).
+
 ## Hongdae · K-POP SQUARE
 
 [The operator's store directory](https://linefriendssquare.com/pages/about-us) and [VISITKOREA's listing](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=199935) identify the Hongdae shop. Look for a dated announcement for any specific artist, merchandise drop or event. A store's posted hours do not establish pop-up access, admission by reservation or stock. If your intended event has ended, use the [Hongdae neighborhood guide](/blog/hongdae-shopping-street-indie-brands-and-vintage) for a flexible alternative.

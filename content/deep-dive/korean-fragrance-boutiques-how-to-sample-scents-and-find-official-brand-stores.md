@@ -12,6 +12,8 @@ Start with a store that fits your route, then ask staff which fragrances are ava
 
 If you want to blend a bottle instead of shopping for a ready-made scent, [check how to book a Seoul perfume workshop](/blog/custom-perfume-making-in-seoul-designing-your-signature-scent-2026).
 
+For two named shops in the same part of Seoul, [compare Tamburins Samcheong and GRANHAND Gahoe](/blog/korean-fragrance-brands-why-tamburins-and-granhand-are-trending-2026) using their exact addresses.
+
 ## Compare scents without rushing
 
 | What you want | What to ask for |

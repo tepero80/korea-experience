@@ -64,14 +64,18 @@ Use the [airport’s official bus search](https://www.airport.kr/ap_en/1502/subv
 
 **Before boarding:** show the hotel address to staff, confirm the destination stop, retain the ticket and ask about your bags. Allow for traffic. Do not select a route solely because a hotel name sounds similar.
 
+After reaching Seoul, [choose between subway, bus and taxi for the city leg](/blog/seoul-transportation-guide-for-tourists-2026) using your station exit, bags and last-service time.
+
 ## Late arrival: read the final destination as well as the time
 
 Use the time you can leave immigration and baggage collection, **not the scheduled landing time**. The posted schedules checked on 31 October show:
 
-| Airport terminal | Last listed Seoul-bound Express | Last listed Seoul-bound all-stop | Later all-stop that does not reach central Seoul |
-| ---------------- | ------------------------------- | -------------------------------- | ------------------------------------------------ |
-| T1               | 22:48                           | 23:38                            | 23:56 terminates at Digital Media City           |
-| T2               | 22:40                           | 23:32                            | 23:50 terminates at Digital Media City           |
+| From | Last listed trains to Seoul |
+| ---- | --------------------------- |
+| T1   | Express 22:48. All-stop 23:38. |
+| T2   | Express 22:40. All-stop 23:32. |
+
+Later all-stop trains at 23:56 from T1 and 23:50 from T2 end at Digital Media City.
 
 Sources: [Express timetable](https://www.airportrailroad.com/train/express/info), [T1 all-stop timetable](https://www.airportrailroad.com/train/normal/info/100/0), [T2 all-stop timetable](https://www.airportrailroad.com/train/normal/info/110/0). The published weekday/holiday tables match for these last departures. Temporary changes and your onward subway are separate checks. Digital Media City comes before Hongik University on the inbound route, so that later terminating service will not take you to Hongdae.
 

@@ -19,6 +19,8 @@ Korea Tourism Organization describes temporary tents near Jongno 3-ga Station Ex
 | Food | Point to the item and ask about broth, seafood or other ingredients that matter to you. |
 | Second stop | Save a sit-down kitchen nearby and its closing time before you go. |
 
+If you need a bookable seat indoors, [check the Seoul cocktail lounge and rooftop options](/blog/cocktail-bars-speakeasies-and-rooftop-lounges) before choosing between an indoor and an open-air evening.
+
 ## Plan around exposure and the ride home
 
 Treat the outside seating as a flexible choice in rain, wind or cold. Shorten the visit or go straight to an indoor place if your group needs a predictable seat, accessible entry or a restroom. Keep a separate dinner reservation if arriving on a tight schedule.

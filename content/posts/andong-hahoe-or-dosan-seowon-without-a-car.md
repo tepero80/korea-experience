@@ -35,6 +35,8 @@ The [Andong city tourism guide](https://new.tourandong.com/public/sub5/sub1_2.cs
 
 Open the [city route system](https://bus.andong.go.kr/route) and choose the actual departure that lists **하회마을** or **도산서원**. Variants can serve different endpoints. Use the [academy’s directions](https://www.andong.go.kr/dosanseowon/contents.do?mId=0504000000) and [city timetable notices](https://www.andong.go.kr/portal/bbs/list.do?mId=0606010100&ptIdx=66) as cross-checks. Save the Korean destination and the next few stops before boarding.
 
+Once you choose Hahoe, [use the on-site walk and return checks](/blog/andong-hahoe-village-experiencing-korea-living-heritage-2026) to decide how much of the village to see.
+
 ## Work backward from the trip back
 
 1. Find the stop and direction for the return to **your actual next destination**. Downtown and the rail–coach hub are different drop-offs.

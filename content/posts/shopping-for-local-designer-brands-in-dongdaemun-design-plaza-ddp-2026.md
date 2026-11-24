@@ -31,6 +31,8 @@ At Dongdaemun History & Culture Park Station, use the approach for DDP. At the p
 
 If stairs are difficult, check the station and complex for an elevator route before choosing an exit. If you came for a particular exhibition or pop-up, confirm its hall and date separately.
 
+If you want a wearable outfit from a style reference, [choose where to shop for a K-drama-inspired look](/blog/k-drama-fashion-where-to-buy-similar-outfits) before taking a longer browse.
+
 ## Make a short gift stop work
 
 Pick one main purpose before moving between plazas and the mall. At the Design Store ask about the maker, packaging and stock if you want a specific item. If the store is closed or you have extra time, use the separate Doota map and check the shops you want. For traditional crafts, plan a different outing with the [Insadong souvenirs guide](/blog/insadong-traditional-crafts-and-souvenirs).

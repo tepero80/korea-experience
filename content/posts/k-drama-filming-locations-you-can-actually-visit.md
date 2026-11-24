@@ -11,6 +11,8 @@ image: "/images/editorial/archive-yongin-folk-village-jeju-lane-1280.webp"
 
 The practical question is what you can visit today. Start from the public route or venue address, then work backward from the return you want. A building seen on screen may be a home or a different business now.
 
+If your priority is a music video or a filmed performance, [compare Yongma Land and Everland](/blog/k-pop-music-video-filming-locations-map) before you plan a trip outward from Seoul.
+
 ## Choose the outing by access
 
 | Outing | What to save before you leave |

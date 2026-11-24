@@ -11,6 +11,8 @@ image: "/images/editorial/archive-busan-cinema-center-at-night-1280.webp"
 
 One confirmed screening with time to reach its theater is a better anchor than three films booked at different venues. Start with the current official program. Pick one screening that shows its language information, then choose another option at the same venue or leave time to cross the city.
 
+If the event you want is a separate awards night, [check its admission route before booking travel](/blog/korean-film-awards-shows-attending-as-a-tourist).
+
 ## Compare three festival trips
 
 | Festival | What to check before spending |

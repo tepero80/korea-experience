@@ -23,6 +23,8 @@ For an outdoor evening instead, [try a Jongno pojangmacha](/blog/pojangmacha-str
 
 If your priority is an organised tasting and time to learn about production, [compare the Ganghwa brewery and Pocheon museum visits](/blog/makgeolli-brewery-tastings-2026).
 
+Before sitting at a Jeonju table, [check which anju come with the kettle](/blog/korean-bar-snacks-pairing-food-with-drinks) and whether a separate snack order makes more sense.
+
 ## Choose a starting point in Jeonju
 
 The [Jeonju tourism overview](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=&vcontsId=229053) describes a kettle with a spread of side dishes. The [Samcheon-dong street listing](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=229025) places an area of makgeolli bars along Geomasan-ro and says opening hours vary by business. Searching **삼천동 막걸리골목** will help you identify the area. Save your actual restaurant and return route separately. The neighborhood is a starting point for choosing somewhere to go; the meal and charge depend on the particular menu.

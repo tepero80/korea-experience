@@ -41252,5 +41252,727 @@
     "changeType": "rewrite",
     "launchOrder": 1522,
     "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-seafood-delicacies-raw-fish-to-grilled-shellfish": {
+    "id": "guide:korean-seafood-delicacies-raw-fish-to-grilled-shellfish",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask whether the seafood you want can be served grilled or sliced raw. Get the portion, preparation charge and total for your table before agreeing.",
+    "forWhom": "First-time seafood market visitors in Busan and groups ordering different preparations.",
+    "conditions": [
+      "Read the price unit and confirm table and preparation charges.",
+      "Choose a venue that can explain the ingredients and preparation you need."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Raw or Grilled at Jagalchi Market? How to Order a Seafood Meal"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "jagalchi"
+    ],
+    "sources": [
+      {
+        "id": "w24-jagalchi",
+        "title": "Korea Tourism Organization: Jagalchi market meal",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1593337",
+        "note": "Describes how visitors can choose seafood and ask about having it served. Individual traders and dining rooms set their own preparation and service conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w24-jagalchi-prep",
+        "title": "Korea Tourism Organization: Jagalchi Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224679",
+        "note": "Mentions separate charges for preparation or additions. Confirm how the actual meal will be quoted.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Read the price unit and confirm table and preparation charges."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1523,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "the-evolution-of-korean-fried-chicken-new-flavors-and-brands-2026": {
+    "id": "guide:the-evolution-of-korean-fried-chicken-new-flavors-and-brands-2026",
+    "categoryId": "food-dining",
+    "format": "comparison",
+    "checkedAt": "2026-11-24",
+    "answer": "Read the flavor category before picking a product. Try half-and-half when the branch offers a mix your table wants, and confirm which flavor is spicy.",
+    "forWhom": "Visitors choosing a flavor at a Korean fried chicken shop or on a takeout menu.",
+    "conditions": [
+      "Flavor labels describe the menu, not a standard heat level.",
+      "Confirm whether the branch offers both choices in the same order."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Fried Chicken Flavors: Plain, Powdered or Sauced?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-bbq-menu",
+        "title": "BBQ: official chicken menu",
+        "url": "https://mt.bbq.co.kr/menu/menuList.asp",
+        "note": "The operator divides its menu into fried, half-and-half, powdered seasoning, sauce and single-serving categories. Branch availability has to be checked separately.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Flavor labels describe the menu, not a standard heat level."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1524,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-craft-beer-scene-microbreweries": {
+    "id": "guide:korean-craft-beer-scene-microbreweries",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a tasting bar near the part of Seoul you are already visiting. Book or arrange a brewery visit separately if seeing the brewing site is the point of your trip.",
+    "forWhom": "Adult visitors planning one local beer stop without crossing Seoul for a short tasting.",
+    "conditions": [
+      "Check venue hours, seating, and the current drinks list before leaving.",
+      "An operator’s taproom and brewery may be in different cities."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "A Seoul Craft Beer Stop: Staffed Bar or Self-Pour?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-magpie",
+        "title": "Visit Seoul: Gyeongnidan-gil craft beer stops",
+        "url": "https://korean.visitseoul.net/editorspicks/%EC%88%98%EC%A0%9C%EB%A7%A5%EC%A3%BC-%EC%88%98%EC%A0%9C%EB%A7%A5%EC%A3%BC_/17262",
+        "note": "Seoul’s tourism listing identifies the Magpie stop near Gyeongnidan-gil. Confirm current hours and serving options.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w24-tap-public",
+        "title": "Tap Public: official self-pour information",
+        "url": "https://www.tappublic.com/",
+        "note": "The operator describes its self-pour format. Check the exact branch, serving terms and pricing separately.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check venue hours, seating, and the current drinks list before leaving."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1525,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-bar-snacks-pairing-food-with-drinks": {
+    "id": "guide:korean-bar-snacks-pairing-food-with-drinks",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask which dishes come with a kettle and how many people it is meant to serve. Choose a separate snack order when you want one specific dish or a smaller meal.",
+    "forWhom": "Visitors considering a shared meal with makgeolli or ordering a single savory snack.",
+    "conditions": [
+      "Descriptions of an alley or cuisine do not establish what one venue serves today.",
+      "Check ingredients and whether a food-only order is available if you need it."
+    ],
+    "regions": [
+      "jeonju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Anju in Jeonju: What Comes With a Makgeolli Kettle?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-jeonju-anju",
+        "title": "Korea Tourism Organization: Jeonju Makgeolli Alley",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=&vcontsId=229053",
+        "note": "The listing describes the Samcheon-dong area and a kettle served with sides. Check the actual table menu and portion with your venue.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w24-kto-pairing",
+        "title": "Korea Tourism Organization: pairing traditional drinks and food",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=600&page=1&sContsTtl=&sort=regDt&vcontsId=189701",
+        "note": "Names pancake pairings as culinary examples. It does not list the day’s menu at a specific pub.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1526,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "cocktail-bars-speakeasies-and-rooftop-lounges": {
+    "id": "guide:cocktail-bars-speakeasies-and-rooftop-lounges",
+    "categoryId": "food-dining",
+    "format": "comparison",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a confirmed indoor seat for a weather-proof stop. Choose a rooftop only after the venue confirms outdoor access and explains where you will sit if weather changes.",
+    "forWhom": "Adult travelers planning one cocktail stop as part of an evening in Seoul.",
+    "conditions": [
+      "Check the venue’s age, dress and minimum-order terms.",
+      "Confirm seating and last entry with the venue on your date."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Choose a Seoul Cocktail Bar: Indoor Lounge or Rooftop?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-charles-h",
+        "title": "Visit Seoul: Charles H. cocktail bar",
+        "url": "https://english.visitseoul.net/restaurants/CharlesHseoul/ENP8f9it6",
+        "note": "Seoul’s official visitor listing identifies the hotel cocktail bar and its lower-level location. Confirm reservation, dress and hours directly.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the venue’s age, dress and minimum-order terms."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1527,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-convenience-store-recipes-hacks-from-tiktok-and-youtube-2026": {
+    "id": "guide:korean-convenience-store-recipes-hacks-from-tiktok-and-youtube-2026",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose sealed, ready-to-eat food if you have no time or equipment. For noodles, match the pack to the store’s equipment and follow its directions.",
+    "forWhom": "Visitors making a quick meal from a Korean convenience store, including a riverside snack.",
+    "conditions": [
+      "Check which equipment and seating the branch provides.",
+      "Follow the product and equipment instructions before heating."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "A Korean Convenience Store Meal Without Guessing at the Counter"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-convenience",
+        "title": "Visit Seoul: cup ramyeon and riverside packets",
+        "url": "https://english.visitseoul.net/partners-en/seoul-goods-story/2025-seoul-souv/ENN14y3vq",
+        "note": "Describes the hot-water method for cup noodles and a separate machine for some riverside packet noodles. Follow directions for your product and equipment.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check which equipment and seating the branch provides."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1528,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "blackpink-in-seoul-fan-tour-guide-2026": {
+    "id": "guide:blackpink-in-seoul-fan-tour-guide-2026",
+    "categoryId": "culture-events",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Namsan Park for a documented public location from BLACKPINK House. Plan the park approach and return around your walking needs and the weather.",
+    "forWhom": "BLACKPINK fans planning a public outing in Seoul.",
+    "conditions": [
+      "The series documented a past visit.",
+      "Check your park approach and the hours of any paid attraction separately."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "BLACKPINK House in Seoul: Plan a Public Namsan Park Stop"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-blackpink-seoul",
+        "title": "Korea Tourism Organization: public sights in BLACKPINK House",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=346602",
+        "note": "Names Seoul Namsan Park and the cherry-blossom scene. This is a past program location. Check the public approach for your date.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "The series documented a past visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1529,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-pop-music-video-filming-locations-map": {
+    "id": "guide:k-pop-music-video-filming-locations-map",
+    "categoryId": "culture-events",
+    "format": "comparison",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Yongma Land for a shorter Seoul photo visit if the studio is open. Choose Everland when you want a theme-park outing in Yongin and have time for the transfer.",
+    "forWhom": "Fans deciding whether a documented recording location fits a Seoul-area trip.",
+    "conditions": [
+      "Venue access can differ on private-hire or production days.",
+      "Use the venue’s current hours, ticket and photography instructions."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Visit a K-pop Filming Site: Yongma Land or Everland?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-yongma",
+        "title": "Korea Tourism Organization: theme parks in music videos",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=217571",
+        "note": "Connects Yongma Land to a TWICE music video and Everland to a filmed BTS performance. Mentions that private hire affects access to Yongma Land.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Venue access can differ on private-hire or production days."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1530,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-film-awards-shows-attending-as-a-tourist": {
+    "id": "guide:korean-film-awards-shows-attending-as-a-tourist",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Buy travel around an awards ceremony only after the official organizer publishes a ticket or invitation route you can use. For a bookable film outing, look for a specific festival screening.",
+    "forWhom": "Film and television fans considering a Korean awards night while visiting.",
+    "conditions": [
+      "Past examples do not announce next year’s schedule or public seats.",
+      "Match the exact event name and access terms on the official page."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Can Visitors Attend a Korean Film Awards Ceremony?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-baeksang",
+        "title": "JTBC: 62nd Baeksang Arts Awards broadcast",
+        "url": "https://vod.jtbc.co.kr/player/program/ep20290955",
+        "note": "The official broadcaster identifies a past awards ceremony. Use a current organizer entry notice for information about an upcoming ceremony.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w24-biff-press",
+        "title": "BIFF press service: 2026 screening ticket announcement",
+        "url": "https://press.biff.kr/eng/artyboard/mboard.asp?Action=view&intSeq=102569&strBoardID=9622_04",
+        "note": "A past festival example of general seat sales and screening code limits. Check ticket rules for the upcoming festival.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Past examples do not announce next year’s schedule or public seats."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1531,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-webtoon-to-drama-adaptations-timeline": {
+    "id": "guide:korean-webtoon-to-drama-adaptations-timeline",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Find the original on WEBTOON and verify the live-action version through an official streaming listing. Choose which to start first and check language and access in your region.",
+    "forWhom": "Fans interested in how a Korean webtoon becomes a television drama.",
+    "conditions": [
+      "Check region, language, subscription and episode access in your account.",
+      "The example identifies an adaptation without promising matching episode order or plot."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Read the Webtoon or Watch the K-drama? Start With True Beauty"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-truebeauty-webtoon",
+        "title": "WEBTOON: True Beauty",
+        "url": "https://www.webtoons.com/en/romance/truebeauty/list?title_no=1436",
+        "note": "Publisher page for the official English comic. Check current episode access and plan downloads in your own account if supported.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w24-truebeauty-series",
+        "title": "Netflix Tudum: True Beauty live-action adaptation",
+        "url": "https://www.netflix.com/tudum/articles/true-beauty-release-date-news",
+        "note": "Names the live-action title and its webtoon source. Streaming availability, subscriptions and subtitles can vary.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check region, language, subscription and episode access in your account."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1532,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-drama-fashion-where-to-buy-similar-outfits": {
+    "id": "guide:k-drama-fashion-where-to-buy-similar-outfits",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Take one reference look and select the piece you want to recreate. Use Myeongdong for a short general shopping stop or Seongsu for a planned designer or pop-up visit.",
+    "forWhom": "Travelers looking for a wearable style inspired by Korean television.",
+    "conditions": [
+      "A shopping guide does not establish television costume credits.",
+      "Check branch inventory, fittings, hours and returns."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Shop for a K-drama-Inspired Outfit in Myeongdong or Seongsu"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-myeong-shopping",
+        "title": "Korea Tourism Organization: Myeongdong shopping",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=263&menuSn=929&vcontsId=248785",
+        "note": "Lists the area as a shopping stop for fashion and cosmetics. It does not identify an outfit as an actual television costume.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w24-seongsu-shopping",
+        "title": "Korea Tourism Organization: Seongsu shopping",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=249795",
+        "note": "Identifies designer shops and pop-ups in the area. Verify current brands, pop-up dates and store stock on your visit.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "A shopping guide does not establish television costume credits."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1533,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "seoul-transportation-guide-for-tourists-2026": {
+    "id": "guide:seoul-transportation-guide-for-tourists-2026",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with subway for an easy station-to-station trip. Compare a direct bus when it cuts walking or transfers, and use a taxi when luggage or the last service makes the planned route impractical.",
+    "forWhom": "Visitors choosing how to make one trip through Seoul after arriving in the city.",
+    "conditions": [
+      "Check the actual direction, exit, lifting or stair needs and last service for your date.",
+      "The best choice changes with the number of people and bags."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Getting Around Seoul: Subway, Bus or Taxi for This Trip?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-seoul-transit",
+        "title": "Visit Seoul: subway, bus and taxi guide",
+        "url": "https://english.visitseoul.net/subway",
+        "note": "Official visitor information describes the transport modes and card practices. Check the last service by station, direction and date.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1534,
+    "heroMediaId": "archive-sinyongsan-exit-2-2019",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "LERK",
+      "title": "Seoul-metro-429-Sinyongsan-station-entrance-2-20191022-153402.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-429-Sinyongsan-station-entrance-2-20191022-153402.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
+    },
+    "heroCaption": "A street entrance for Seoul Metro Line 4 at Sinyongsan Station in October 2019. Check the exact exit and accessible route for your own trip."
+  },
+  "andong-hahoe-village-experiencing-korea-living-heritage-2026": {
+    "id": "guide:andong-hahoe-village-experiencing-korea-living-heritage-2026",
+    "categoryId": "places-itineraries",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "At the entrance, pick a short public route that returns to your transport stop. Add a performance only if the schedule, seating and return ride work for your day.",
+    "forWhom": "Visitors who have chosen Hahoe and need an on-site walking plan.",
+    "conditions": [
+      "Confirm the admission cutoff and any performances for your date.",
+      "Hahoe is a living village. Use the paths and buildings marked for visitors."
+    ],
+    "regions": [
+      "andong"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Andong Hahoe Folk Village: What to Do After You Arrive"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "andong-hahoe-village"
+    ],
+    "sources": [
+      {
+        "id": "w24-hahoe",
+        "title": "Andong Tourism: Hahoe Village",
+        "url": "https://new.tourandong.com/eng/sub1/sub1.cshtml?id=196&keyword=&page=1",
+        "note": "The city lists the village, visitor contact and living traditions. Confirm actual admission cutoff and performance access with the site.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w24-hahoe-hours",
+        "title": "Andong Tourism: attraction viewing hours",
+        "url": "https://www.tourandong.com/eng/sub4/sub2.cshtml",
+        "note": "Lists viewing periods. The English and Korean seasonal summaries are not identical, so confirm the date with village staff.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the admission cutoff and any performances for your date."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1535,
+    "heroMediaId": "andong-hahoe-historic-gate-and-wall-2018",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Hahoe Folk Village, Andong 2018-08-31-09.jpg",
+      "author": "De-Shao Liu (Terry850324)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hahoe_Folk_Village,_Andong_2018-08-31-09.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2018-08-31."
+    },
+    "heroCaption": "A traditional entrance in Andong’s Hahoe Folk Village in August 2018. Use the visitor routes and respect private homes."
+  },
+  "accommodation-near-traditional-markets": {
+    "id": "guide:accommodation-near-traditional-markets",
+    "categoryId": "where-to-stay",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Stay near the market if you expect to use the neighborhood more than once. Ask about the room location and check the hotel’s street entrance with luggage before reserving.",
+    "forWhom": "Travelers choosing a Seoul market base who want market access and a manageable arrival.",
+    "conditions": [
+      "Verify access and noise for your actual room category.",
+      "Check that the route still works after market or lounge hours."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Sleeping Near a Seoul Market: Check the Room and the Entrance"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "namdaemun"
+    ],
+    "sources": [
+      {
+        "id": "w24-namdaemun-lounge",
+        "title": "Korea Tourism Organization: Namdaemun Market visitor facilities",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=264&menuSn=929&vcontsId=249970",
+        "note": "Names the Gate 2 visitor lounge and lists luggage and booking assistance. Confirm its current hours and eligibility directly.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Verify access and noise for your actual room category."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1536,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "digital-nomad-guide-coworking-spaces-and-cafes": {
+    "id": "guide:digital-nomad-guide-coworking-spaces-and-cafes",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a confirmed desk with a call plan when a meeting cannot move. Use a café for a short task when you can relocate or finish later.",
+    "forWhom": "Visitors planning time for a call or a few quiet hours during a Seoul trip.",
+    "conditions": [
+      "Confirm seat, Wi-Fi, call rules and access for your specific date.",
+      "The operator’s inquiry form does not confirm a booking."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "A Workday in Seoul: Book a Desk or Use a Café?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-behongli",
+        "title": "Behongli: official day-pass information",
+        "url": "https://www.behongli.com/",
+        "note": "The operator says a form is used to request day access and payment instructions. Confirm a seat, availability, desk hours and call policy for the actual day.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm seat, Wi-Fi, call rules and access for your specific date."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1537,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-fragrance-brands-why-tamburins-and-granhand-are-trending-2026": {
+    "id": "guide:korean-fragrance-brands-why-tamburins-and-granhand-are-trending-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "comparison",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the published Samcheong and Gahoe addresses if you want two specific fragrance stops near Bukchon. Ask which samples are available and compare them by the same criteria.",
+    "forWhom": "Visitors choosing between a Tamburins and GRANHAND stop without mixing up their branches.",
+    "conditions": [
+      "Confirm current access and store hours.",
+      "Check volume, price, stock and travel packing before paying."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Tamburins or GRANHAND? Compare Two Fragrance Stops near Bukchon"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w24-tamburins-samcheong",
+        "title": "Tamburins: official Korea stores",
+        "url": "https://www.tamburins.com/kr/store/korea/",
+        "note": "Lists the Samcheong branch and its address. Check opening, testing and stock before visiting.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w24-granhand-gahoe",
+        "title": "Korea Tourism Organization: GRANHAND Gahoe",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=175458",
+        "note": "Lists the Gahoe branch at 61 Bukchon-ro 11-gil. The nearby Bukchon branch is a different pin.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm current access and store hours."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1538,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
   }
 }

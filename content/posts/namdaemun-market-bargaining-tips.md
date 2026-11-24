@@ -28,6 +28,8 @@ The address locates the market area. Shop hours depend on the seller, according 
 
 If you want to ask about two items, say **두 개면 얼마예요?** (How much for two?). To check whether you can buy one, ask **한 개도 살 수 있어요?** (Can I buy just one?). You can ask once, accept the answer and walk away politely if the price or quantity does not work for you.
 
+If you want an overnight base nearby, [check the hotel entrance, room location and luggage options](/blog/accommodation-near-traditional-markets) before you book.
+
 ## Confirm payment and what happens after buying
 
 Ask **카드 돼요?** (Can I pay by card?) before the seller starts packing. If the price or payment instructions differ from what you understood, ask for the complete total again before handing over cash or tapping a card. Check your change or card amount and ask for a receipt if you need one. Ask about an exchange before buying whenever fit, size or condition is uncertain.

@@ -10,6 +10,8 @@ deepDive: true
 
 Start with the item name. Then read the options for pieces, sauce and sides before assuming you have ordered one full bird or food for a particular number of people. Menu photographs can help you identify the dish. Use the description to check the amount.
 
+If the portion is already clear, [compare the fried, powdered and sauced flavor choices](/blog/the-evolution-of-korean-fried-chicken-new-flavors-and-brands-2026) before you put the order in.
+
 ## Spot these words before you pay
 
 | Menu word | What to check |

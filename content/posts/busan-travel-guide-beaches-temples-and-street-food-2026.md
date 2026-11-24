@@ -22,6 +22,8 @@ Start with a single outing, especially when you arrive with bags or late in the 
 
 For a trip built around screenings, [check Busan’s film-festival ticket and venue plan](/blog/korean-film-festivals-calendar-for-international-visitors) before choosing where to stay.
 
+If your market stop is a full meal, [agree on portions and preparation at Jagalchi](/blog/korean-seafood-delicacies-raw-fish-to-grilled-shellfish) before committing to an order.
+
 ## Use one anchor and one optional stop
 
 For the old port, the [official Jagalchi listing](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=69318) gives **52 Jagalchihaean-ro**. At a seafood counter, ask for the total and whether preparation, seating or sides cost extra before agreeing. Walk into Nampo only if you have time and the weather works.

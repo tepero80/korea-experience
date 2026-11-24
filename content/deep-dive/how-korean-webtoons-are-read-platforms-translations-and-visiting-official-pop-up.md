@@ -10,6 +10,8 @@ deepDive: true
 
 Webtoons are digital comics commonly read by scrolling through an episode on a phone. Before a trip, search a series by its Korean and translated titles on its official platform. The [English WEBTOON catalogue](https://www.webtoons.com/en/) gives you a place to search a translated title or browse by genre. Check the language and latest episode of the actual series before assuming it is available where you live. Check access, payment and account requirements on the specific service.
 
+If you found a series through its television adaptation, [compare the official webtoon and K-drama versions](/blog/korean-webtoon-to-drama-adaptations-timeline) before choosing where to start.
+
 ## Choose the next step
 
 | Goal | Check first |

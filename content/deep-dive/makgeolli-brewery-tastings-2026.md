@@ -11,6 +11,8 @@ deepDiveOrder: 111
 
 Decide whether you want to compare small pours, learn how the drink is made or spend time in a museum. Ask for the name and language of the exact session. A listing that mentions tasting does not tell you which drinks are available on your date.
 
+For a shorter evening with beer rather than a rice-wine production visit, [choose a craft beer tasting stop in Seoul](/blog/korean-craft-beer-scene-microbreweries) based on the kind of space you want.
+
 ## Match the visit to your day
 
 | Plan | Confirm first |
