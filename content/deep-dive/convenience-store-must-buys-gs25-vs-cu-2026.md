@@ -6,7 +6,6 @@ category: Food & Dining
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 48
-image: "/images/convenience-store-must-buys-gs25-vs-cu.webp"
 ---
 
 So you want to know who wins the battle of the Korean convenience stores? While GS25 is your go-to for hearty, restaurant-quality meals and the legendary Omori Kimchi Stew Ramen, CU is the undisputed king of viral desserts and trendy snacks that break the internet. If you are looking for a comprehensive breakdown of what to buy, check out our guide on [GS25 vs. CU must-buys](/blog/convenience-store-must-buys-gs25-vs-cu-2026).

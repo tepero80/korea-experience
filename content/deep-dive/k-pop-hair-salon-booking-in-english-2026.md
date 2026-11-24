@@ -6,7 +6,6 @@ category: Shopping & K-Beauty
 author: Korea Experience Team
 deepDive: true
 deepDiveOrder: 42
-image: "/images/k-pop-hair-salon-booking-in-english.webp"
 ---
 
 So, you want that Wonyoung wave or the Jungkook perm, but your Korean skills are basically limited to "Annyeonghaseyo"? Don't panic. I’m going to show you exactly how to book the top celebrity salons in Seoul using English, so you don't end up with a bowl cut by accident.

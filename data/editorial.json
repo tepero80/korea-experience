@@ -29424,5 +29424,284 @@
     },
     "cardImageLabel": "Jeju Airport’s roadside approach",
     "cardImageCrop": "contain"
+  },
+  "gentle-monster-vs-blue-elephant-eyewear-2026": {
+    "id": "guide:gentle-monster-vs-blue-elephant-eyewear-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Try Blue Elephant first if you want to compare lower-priced frames in person. Choose Gentle Monster when you want its designs or need to ask about fitting or repair. You can try both in Sinsa during the overlap in their listed hours.",
+    "forWhom": "Travelers comparing fashion frames and sunglasses on a Seoul shopping day",
+    "conditions": [
+      "Compare models you can actually try on.",
+      "Check current stock, hours and service with the branch."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "eyewear",
+      "shopping",
+      "neighborhood walks"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "next",
+        "label": "Choose another Seoul shopping area",
+        "reason": "Compare neighborhoods by what you still need to buy."
+      },
+      {
+        "slug": "gangnam-underground-shopping-complex",
+        "type": "next",
+        "label": "Keep an indoor shopping alternative",
+        "reason": "Use the station-based route when it rains or the street shops are closed."
+      },
+      {
+        "slug": "tax-refund-instant-vs-airport-2026",
+        "type": "next",
+        "label": "Ask at checkout about a refund",
+        "reason": "Find out whether to expect a deduction or a separate refund voucher."
+      }
+    ],
+    "sources": [
+      {
+        "id": "gentle-monster-sinsa",
+        "title": "Gentle Monster Sinsa store directory",
+        "url": "https://www.gentlemonster.com/us/en/stores/detail/779149630468970541",
+        "note": "Street address, listed hours and fitting or repair service options.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "blue-elephant-store-list",
+        "title": "Blue Elephant store directory",
+        "url": "https://us.blueelephant.co/pages/stores",
+        "note": "Sinsa flagship address and hours.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "blue-elephant-rosa",
+        "title": "Blue Elephant ROSA black",
+        "url": "https://blueelephant.co/product/rosa-black/4914/",
+        "note": "Dated price example from the Korean online store. Stock depends on the branch.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "gentle-monster-2026-line",
+        "title": "Gentle Monster 2026 Korean collection",
+        "url": "https://www.gentlemonster.com/kr/ko/category/sunglasses/2026-collection",
+        "note": "Dated model and price example.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-garosugil",
+        "title": "Seoul City’s Garosu-gil overview",
+        "url": "https://english.seoul.go.kr/garosu-gil-in-sinsa-dong/",
+        "note": "Sinsa shopping street context and the approach from Sinsa Station.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Try both shops in Seoul’s Sinsa neighborhood.",
+      "Compare fit and service before paying."
+    ],
+    "launchOrder": 1316,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-sinsa-garosugil-evening-2009",
+    "heroCaption": "Garosu-gil in Sinsa in November 2009. Use the current retailer addresses below to find the two shops.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "sellyourseoul",
+      "title": "Garosu-gil.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garosu-gil.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Garosu-gil after dark",
+    "cardImageCrop": "contain"
+  },
+  "catchtable-global-michelin-reservation-guide-2026": {
+    "id": "guide:catchtable-global-michelin-reservation-guide-2026",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Find the exact restaurant and branch, then read the booking terms before authorizing payment. Save the confirmed time, guest count, address, and the cancellation and late-arrival rules for that reservation.",
+    "forWhom": "Travelers planning a timed restaurant meal in Seoul",
+    "conditions": [
+      "Deposit amounts, cancellation and lateness terms can vary by restaurant and date.",
+      "Check the booking confirmation and keep a realistic second choice."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "restaurant reservations",
+      "dining",
+      "trip logistics"
+    ],
+    "relations": [
+      {
+        "slug": "gwangjang-market-complete-food-guide",
+        "type": "next",
+        "label": "Keep an alternative food outing",
+        "reason": "Use a flexible market visit and check the individual vendors you want to try."
+      },
+      {
+        "slug": "late-night-dining-24-hour-restaurants-in-seoul",
+        "type": "next",
+        "label": "Plan for arriving late",
+        "reason": "Check last orders and the doors that will still be open."
+      },
+      {
+        "slug": "gyeongbokgung-to-tongin-market-lunch",
+        "type": "next",
+        "label": "Pick a flexible lunch in Jongno",
+        "reason": "Follow a short palace-to-market route if you prefer a daytime meal."
+      }
+    ],
+    "sources": [
+      {
+        "id": "catchtable-global",
+        "title": "Catchtable Global",
+        "url": "https://www.catchtable.net/",
+        "note": "English booking entry point and individual venue listings.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "catchtable-lamant-example",
+        "title": "Catchtable Global’s L’Amant Secret example",
+        "url": "https://www.catchtable.net/discovery/michelin-starred-restaurants-you-must-try-in-seoul.html",
+        "note": "Example of venue-specific deposit, no-show and cancellation wording.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "catchtable-perigee-example",
+        "title": "Catchtable Global’s PERIGEE example",
+        "url": "https://www.catchtable.net/discovery/where-to-eat-michelin-selected-in-seoul.html",
+        "note": "Example of a deposit and reduction rules that apply per person.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "michelin-la-yeon",
+        "title": "MICHELIN Guide’s La Yeon listing",
+        "url": "https://guide.michelin.com/en/seoul-capital-area/kr-seoul/restaurant/la-yeon",
+        "note": "Independent listing with the public contact details for an operator inquiry.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Confirm the restaurant, guest count and cancellation deadline.",
+      "Save a separate place to eat if there are no seats."
+    ],
+    "launchOrder": 1317,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-chebu-dong-restaurant-queue-2013",
+    "heroCaption": "A queue outside a samgyetang restaurant in Chebu-dong in August 2013. Use your confirmed restaurant’s current check-in instructions, and plan a separate walk-in fallback.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Korean Culture and Information Service (Jeon Han)",
+      "title": "KOCIS Korea Malbok Samgyetang 01 (9493375752).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KOCIS_Korea_Malbok_Samgyetang_01_(9493375752).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "A restaurant queue in Jongno",
+    "cardImageCrop": "contain"
+  },
+  "namane-vs-wowpass-guide-2026": {
+    "id": "guide:namane-vs-wowpass-guide-2026",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose only if the card solves a real payment problem for your trip. Check how you will load and recover the shopping balance and how you will fund transit. Keep an independent payment backup.",
+    "forWhom": "International visitors comparing prepaid cards before loading money in Korea",
+    "conditions": [
+      "Shopping and transport use separate balances.",
+      "Check the active app or machine for fees, eligibility and verification steps."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "payments",
+      "transit cards",
+      "trip logistics"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-transit-climate-card-vs-tmoney-2026",
+        "type": "next",
+        "label": "Check whether you only need transit",
+        "reason": "Compare a stored-value transit card with a short-term Seoul pass."
+      },
+      {
+        "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+        "type": "next",
+        "label": "Plan an independent cash backup",
+        "reason": "Check ATM labels, fees and what to do if the first machine declines the card."
+      },
+      {
+        "slug": "kiosk-card-rejection-guide-2026",
+        "type": "next",
+        "label": "Find a way to pay for a ticket",
+        "reason": "Use operator-specific counter and purchase options if a ticket machine declines your card."
+      }
+    ],
+    "sources": [
+      {
+        "id": "namane-current-terms",
+        "title": "NAMANE’s English terms effective October 15, 2026",
+        "url": "https://namanecard.com/en/legal/terms",
+        "note": "Provider terms for payments, registration, top-up and reimbursement.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "namane-transport-transfer",
+        "title": "NAMANE’s visitor guide to the two balances",
+        "url": "https://blog.namanecard.com/en/travel-card-namane-en/",
+        "note": "Explains app top-up to the payment balance and NFC transfer to the transit balance.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wowpass-use-and-balance",
+        "title": "WOWPASS official instructions",
+        "url": "https://www.wowpass.io/en?lang=en",
+        "note": "Explains the separate balance, machine search and cash withdrawal limits for payment funds.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check the shopping and transit balances separately.",
+      "Confirm refund options before loading more than you need."
+    ],
+    "launchOrder": 1318,
+    "changeType": "rewrite",
+    "heroOmissionReason": "The old cover had no verifiable original or reuse terms. No approved photo showed either card or its actual machine."
   }
 }

@@ -4604,5 +4604,40 @@
       "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "gentle-monster-vs-blue-elephant-eyewear-2026": {
+    "src": "/images/cards/gentle-monster-vs-blue-elephant-eyewear-2026.jpg",
+    "fingerprint": "698202a56182894cc23378af5ddffd6150b741ecff259bb1d089a59b43d83101",
+    "sourceImage": "/images/editorial/archive-sinsa-garosugil-evening-2009-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "sellyourseoul",
+      "title": "Garosu-gil.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garosu-gil.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "catchtable-global-michelin-reservation-guide-2026": {
+    "src": "/images/cards/catchtable-global-michelin-reservation-guide-2026.jpg",
+    "fingerprint": "4c0c6ef6ce0d5b4dee1e424c18c84dcffcb038472b13a4016417d58386d6331d",
+    "sourceImage": "/images/editorial/archive-seoul-chebu-dong-restaurant-queue-2013-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Korean Culture and Information Service (Jeon Han)",
+      "title": "KOCIS Korea Malbok Samgyetang 01 (9493375752).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KOCIS_Korea_Malbok_Samgyetang_01_(9493375752).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "namane-vs-wowpass-guide-2026": {
+    "src": "/images/cards/namane-vs-wowpass-guide-2026.jpg",
+    "fingerprint": "ebc7ad1c2e560d1521a85b3b66a35e1b823211c87f4b57768febec2deece8a7d",
+    "adaptation": "Typographic social preview."
   }
 }

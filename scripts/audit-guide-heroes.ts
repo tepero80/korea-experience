@@ -62,11 +62,12 @@ async function thumbnail(post: PostMetadata) {
     reviewedGuide: post.reviewed,
     mediaId: media?.id ?? null,
     originalId: media?.originalId ?? null,
-    kind: credit?.kind ?? 'unverified',
+    kind: post.image ? credit?.kind ?? 'unverified' : 'omitted',
     recordedProvenance: Boolean(credit?.sourceUrl && credit.author && credit.licenseUrl),
   };
+  if (!post.image) return { data: { ...base, decode: 'omitted' }, tile: undefined };
   try {
-    if (!post.image?.startsWith('/')) throw new Error('Missing local hero path');
+    if (!post.image.startsWith('/')) throw new Error('Missing local hero path');
     const filename = path.resolve(publicRoot, post.image.slice(1));
     if (!filename.startsWith(publicPrefix)) throw new Error('Hero path is outside public');
     const file = await fs.readFile(filename);

@@ -11182,5 +11182,51 @@
       "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
     },
     "caption": "The road outside Jeju Airport in April 2026. Use the airport’s Gate 5 signs and covered path for the provider shuttle area."
+  },
+  {
+    "id": "archive-sinsa-garosugil-evening-2009",
+    "src": "/images/editorial/archive-sinsa-garosugil-evening-2009-1280.webp",
+    "srcSet": "/images/editorial/archive-sinsa-garosugil-evening-2009-640.webp 640w, /images/editorial/archive-sinsa-garosugil-evening-2009-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Ginkgo trees and lit shopfronts along Garosu-gil in Seoul at night.",
+    "focal": "55% 56%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Garosu-gil.jpg",
+    "originalHash": "24c14f82904fa5fa3a607d8ef08c66654029ecc341874aaeac84e26c4812329e",
+    "capturedAt": "2009-11-21",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "sellyourseoul",
+      "title": "Garosu-gil.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Garosu-gil.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Garosu-gil in Sinsa in November 2009. Use the current retailer addresses below to find the two shops."
+  },
+  {
+    "id": "archive-seoul-chebu-dong-restaurant-queue-2013",
+    "src": "/images/editorial/archive-seoul-chebu-dong-restaurant-queue-2013-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-chebu-dong-restaurant-queue-2013-640.webp 640w, /images/editorial/archive-seoul-chebu-dong-restaurant-queue-2013-1280.webp 1280w",
+    "width": 1280,
+    "height": 665,
+    "alt": "People queuing beside the wooden façade of a samgyetang restaurant in Chebu-dong, Seoul.",
+    "focal": "45% 50%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:KOCIS_Korea_Malbok_Samgyetang_01_(9493375752).jpg",
+    "originalHash": "7f7f7ca27f0830b08b3c64ef165d4f2037c79ad7dab126c817522d30eeb9ee65",
+    "capturedAt": "2013-08-12",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Korean Culture and Information Service (Jeon Han)",
+      "title": "KOCIS Korea Malbok Samgyetang 01 (9493375752).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:KOCIS_Korea_Malbok_Samgyetang_01_(9493375752).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "A queue outside a samgyetang restaurant in Chebu-dong in August 2013. Use your confirmed restaurant’s current check-in instructions, and plan a separate walk-in fallback."
   }
 ]

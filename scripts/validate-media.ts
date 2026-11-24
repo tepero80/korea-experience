@@ -54,6 +54,11 @@ for (const p of posts)
   }
 for (const p of posts) {
   const generatedHash = generatedArchiveCoverHash(p.slug, p.image);
+  if (p.image && !generatedHash) {
+    const credit = mediaForSource(p.image)?.credit;
+    if (!credit?.author || !credit?.sourceUrl || !credit?.licenseUrl)
+      errors.push(`Guide hero needs a registered source and reuse terms: ${p.slug} -> ${p.image}`);
+  }
   if (generatedHash && p.image && fs.existsSync('public' + p.image)) {
     const bytes = fs.readFileSync('public' + p.image);
     const blob = crypto.createHash('sha1').update(`blob ${bytes.length}\0`).update(bytes).digest('hex');
