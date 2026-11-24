@@ -26,6 +26,8 @@ Choose by the first thing you need your line to do. Loading Naver Map is a data 
 2. **Check installation and when usage starts.** Save the carrier’s directions offline and use a stable connection for setup. Confirm any passport check or requirement to visit a counter. The [LG U+ installation guide](https://www.lguplus.com/korea-sim/eng/pc/support/blog/korea_esim_sim_installation_guide) gives different steps for its data-only and voice options.
 3. **Test the service you paid for.** Load a map with Wi-Fi off. If calls or texts matter, test them before leaving the seller or airport counter. Keep your home line or another option available until the new one works, and check possible roaming charges.
 
+If you are considering monthly billing, [check postpaid eligibility, verification and cancellation](/blog/getting-a-post-paid-phone-plan-without-a-long-term-contract-2026) before signing.
+
 ## Staying longer? Confirm the documents and number
 
 Ask whether the plan can cover your full stay and whether you can keep your number if you switch. For example, [KT’s visitor prepaid SIM extension page](https://m.roaming.kt.com/eng/sim/cf/ext) caps that specific product at 90 days including extensions. If a resident service asks for mobile identity verification, show the actual prompt to the carrier. Ask which plans and documents it accepts and whether the registration must match the name that service already has.

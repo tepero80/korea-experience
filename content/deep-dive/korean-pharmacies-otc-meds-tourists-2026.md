@@ -32,6 +32,8 @@ KTO links the Korean Pharmaceutical Association's [Pharm114 directory](https://w
 
 If you cannot make that routine inquiry in Korean, use [KTO's 1330 call/chat options](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632) for travel-language assistance, subject to the service's current availability. You can show: **지금 문을 열었나요? 약사님과 상담할 수 있나요?** — “Are you open now? Can I speak with the pharmacist?” This locates professional help; an interpreter does not select treatment or replace 119 in an emergency.
 
+When you need a doctor instead of a pharmacy, [check how to arrange an English-language consultation in Seoul](/blog/finding-english-speaking-doctors-in-seoul).
+
 ## Prepare the conversation
 
 | Bring or write down | Why it helps the professional |

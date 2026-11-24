@@ -41974,5 +41974,344 @@
     "changeType": "rewrite",
     "launchOrder": 1538,
     "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "booking-medical-consultations-in-korea-online-vs-walk-in": {
+    "id": "guide:booking-medical-consultations-in-korea-online-vs-walk-in",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with the clinic’s official contact. Get a confirmed time if the visit matters to your schedule. If you want to go without a reservation, ask whether that department is accepting walk-ins and when registration closes.",
+    "forWhom": "Visitors who have a clinic in mind and need to arrange a routine appointment in Korea.",
+    "conditions": [
+      "Confirm the exact building, department, time and language support.",
+      "For a medical emergency in Korea, call 119."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Book a Non-Emergency Clinic Visit in Korea"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w25-medical-information",
+        "title": "Medical Korea Information Center",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "note": "The government information center helps visitors identify institutions and seek booking assistance. Confirm the appointment with the provider.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w25-snuh-appointment",
+        "title": "Seoul National University Hospital: appointment requests",
+        "url": "https://www.snuh.org/global/en/patients/appointmentMain.do",
+        "note": "The hospital publishes an online request route and says its coordinator will contact the patient. It is a provider-specific example.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the exact building, department, time and language support."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1539,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "finding-english-speaking-doctors-in-seoul": {
+    "id": "guide:finding-english-speaking-doctors-in-seoul",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with a clinic’s official listing or a hospital’s international center. Ask whether the clinician can consult in English or an interpreter can attend at the exact time and department you need.",
+    "forWhom": "Travelers looking for non-emergency medical care in Seoul who need English to explain and understand the visit.",
+    "conditions": [
+      "Confirm English support for the consultation, including any interpreter cost.",
+      "For a medical emergency in Korea, call 119."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Finding English-Speaking Medical Care in Seoul"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w25-seoul-provider-language",
+        "title": "UK Foreign Office: healthcare in South Korea",
+        "url": "https://www.gov.uk/foreign-travel-advice/south-korea/health",
+        "note": "Identifies language limitations and links to a list of providers where some staff speak English. Confirm availability for the exact visit.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w25-snuh-international",
+        "title": "Seoul National University Hospital: International Healthcare Center contacts",
+        "url": "https://www.snuh.org/global/en/patients/EN02004.do",
+        "note": "Publishes different language contact routes for the hospital. Ask what support applies to the department and appointment.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm English support for the consultation, including any interpreter cost."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1540,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "insurance-claims-for-medical-tourists-can-you-get-reimbursed-2026": {
+    "id": "guide:insurance-claims-for-medical-tourists-can-you-get-reimbursed-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Contact your travel insurer and ask for the exact claim checklist. Before leaving the provider, request an itemized bill, proof of payment and any medical certificate or notes your insurer asks for.",
+    "forWhom": "Visitors who received healthcare in Korea and want to keep the records needed for a travel-insurance claim.",
+    "conditions": [
+      "Your policy and insurer determine what is covered and which documents to submit.",
+      "Ask for any certificate before leaving the provider."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Medical Bills in Korea: What to Keep for Travel Insurance"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w25-foreign-office-insurance",
+        "title": "UK Foreign Office: overseas medical care and insurance",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Advises contacting the insurer promptly and retaining receipts and clinical notes. The policy determines the actual claim requirements.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w25-snuh-certificates",
+        "title": "Seoul National University Hospital: requesting certificates and records",
+        "url": "https://www.snuh.org/global/en/patients/EN02005.do",
+        "note": "This example requests an English medical certificate during the consultation. Ask each provider about the available documents and timing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1541,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "gluten-free-in-traditional-markets-2026": {
+    "id": "guide:gluten-free-in-traditional-markets-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Plan a meal you can verify before visiting the market. At a stall, ask about batter, sauce and shared equipment. If the vendor cannot confirm what you need, enjoy the market and eat elsewhere.",
+    "forWhom": "Visitors with celiac disease or other strict gluten-avoidance needs who plan to visit Gwangjang or Namdaemun.",
+    "conditions": [
+      "No individual stall’s preparation process was verified.",
+      "Check both ingredients and contact with shared surfaces or oil."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Gluten-Free at Seoul Markets: What to Ask Before Ordering"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "gwangjang-market",
+      "namdaemun"
+    ],
+    "sources": [
+      {
+        "id": "w25-niddk-cross-contact",
+        "title": "NIDDK: eating with celiac disease",
+        "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/celiac-disease/eating-diet-nutrition",
+        "note": "Explains cross-contact during food preparation and service. It does not verify any Korean stall or kitchen.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w25-gwangjang-market",
+        "title": "Visit Seoul: Gwangjang Market",
+        "url": "https://english.visitseoul.net/dongdaemunarea/Gwangjang-Market/ENP000286",
+        "note": "Lists the food alley and market address. Stall ingredients and cooking methods need direct confirmation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w25-namdaemun-market",
+        "title": "Visit Seoul: Namdaemun Market",
+        "url": "https://english.visitseoul.net/attractions/Namdaemun-Market/ENP000085",
+        "note": "Lists the market location and nearby subway access.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "No individual stall’s preparation process was verified."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1542,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "vegetarian-and-vegan-korean-cuisine": {
+    "id": "guide:vegetarian-and-vegan-korean-cuisine",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Tell the server what you eat and check the broth, sauce and fillings separately. Ask before the kitchen starts cooking. Keep a restaurant with a clearly described menu as a backup.",
+    "forWhom": "Vegetarian and vegan travelers ordering ordinary meals in Korea.",
+    "conditions": [
+      "Ask about egg and dairy separately if you avoid them.",
+      "For an allergy or celiac disease, explain your medical restriction and ask about preparation and shared equipment."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Order Vegetarian or Vegan Food in Korea"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w25-kto-vegetarian",
+        "title": "Korea Tourism Organization: ordering vegetarian food",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=476&vcontsId=140732",
+        "note": "Identifies broth, gimbap fillings and kimchi seasoning to check when ordering. Recipes differ by kitchen.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask about egg and dairy separately if you avoid them."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1543,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "getting-a-post-paid-phone-plan-without-a-long-term-contract-2026": {
+    "id": "guide:getting-a-post-paid-phone-plan-without-a-long-term-contract-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with what the line must do. If you need a monthly plan, ask the carrier which documents it accepts and get the minimum term and cancellation cost in writing before signing.",
+    "forWhom": "Travelers staying for longer than a short holiday or moving from a visitor SIM to a monthly mobile plan.",
+    "conditions": [
+      "Check the named plan’s documents, payment and exit terms.",
+      "Receiving texts and passing a Korean service’s identity check are separate requirements."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Prepaid or Postpaid in Korea on a Longer Stay?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w25-kt-documents",
+        "title": "KT Global Shop: documents and payments",
+        "url": "https://globalshop.kt.com/support/supportNeed.do",
+        "note": "Lists foreign-resident documents and the distinction between prepaid and postpaid payments. Confirm the product and your status with KT.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w25-kt-tourist",
+        "title": "KT Global Shop: LTE Welcome Prepaid",
+        "url": "https://globalshop.kt.com/mobile/mobileLteWelcomePrepaid.do?currentLang=EN",
+        "note": "This prepaid example lists passport signup and product-specific identity and service conditions. Ask about verification on the exact app or service.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the named plan’s documents, payment and exit terms."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1544,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-fandom-economy-where-to-find-limited-edition-goods-without-a-fan-club-membership": {
+    "id": "guide:k-fandom-economy-where-to-find-limited-edition-goods-without-a-fan-club-membership",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Look up the exact release and selling branch. Confirm whether that item is on the public shelves, requires a timed booking or is reserved for members before crossing Seoul for it.",
+    "forWhom": "Visitors who want to shop for a particular K-pop release in person without buying a fan-club membership for the trip.",
+    "conditions": [
+      "A store listing confirms the shop location. Check current stock and release access separately.",
+      "A platform login, a reservation and paid fan membership are separate requirements."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buying Limited K-Pop Merch in Seoul Without Membership"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w25-withmuu-hongdae",
+        "title": "Visit Seoul: WITHMUU Hongdae branch",
+        "url": "https://english.visitseoul.net/MapoArea/WITHMUU-HONGDAE/ENPkbyxzt",
+        "note": "Identifies the Hongdae shop at AK PLAZA and describes its merchandise range. Stock and access conditions can vary by release.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w25-ktown-stores",
+        "title": "Visit Seoul: Ktown4u COEX",
+        "url": "https://english.visitseoul.net/area/Ktown4u-COEX/ENP0rc3u4",
+        "note": "Lists the COEX location and describes its merchandise floor. Check with the store for the exact release.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "w25-weverse-popup",
+        "title": "HYBE on Weverse: example of a pop-up visit policy",
+        "url": "https://weverse.io/seventeen/notice/36935",
+        "note": "Past event example. Shows that a store event may have its own account, reservation and ID rules. Use the latest notice for your event.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1545,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
   }
 }

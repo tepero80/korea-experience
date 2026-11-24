@@ -40,6 +40,8 @@ This guide cannot recommend a clinic, confirm current opening hours or assess em
 <span id="conclusion"></span>
 <span id="sources"></span>
 
+If you already know where you want to go for routine care, [compare a booked appointment with a walk-in](/blog/booking-medical-consultations-in-korea-online-vs-walk-in) and confirm the clinic’s registration process.
+
 ## Prepare useful information
 
 - Save your accommodation’s Korean address and a nearby landmark so you can describe where you are.

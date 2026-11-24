@@ -32,6 +32,8 @@ Likewise, an English medical certificate or summary is not necessarily a complet
 
 Before you leave the hospital, ask for the records contact point, required identification, request forms, fees, available languages, and delivery options. State the records and date range you need. If another person will collect them, obtain the hospital's exact authorization requirements in advance. Keep the receipt and a secure copy of the records, and share sensitive health information only with the people who need it for your care.
 
+Planning to claim your costs? [Check which documents to ask for and save](/blog/insurance-claims-for-medical-tourists-can-you-get-reimbursed-2026) before leaving the provider.
+
 ## Sources
 
 - [Medical Service Act, Article 21](https://www.law.go.kr/법령/의료법/제21조)

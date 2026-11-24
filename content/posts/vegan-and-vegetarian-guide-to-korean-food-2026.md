@@ -23,11 +23,11 @@ Related reading: [Vegan temple food classes learning from monks in Seoul](/blog/
 
 Today, Seoul offers a vibrant mix of Michelin-starred temple cuisine, high-tech plant-based meat startups, and traditional dishes that are naturally plant-forward. Whether you are a strict ethical vegan or a flexitarian traveler, this guide provides the roadmap to eating well in Korea without compromising your dietary principles.
 
-You might also enjoy our article about [Vegetarian and vegan Korean cuisine a complete travel guide](/blog/vegetarian-and-vegan-korean-cuisine).
+Before choosing a dish, [use these questions to check broth, fillings and kimchi](/blog/vegetarian-and-vegan-korean-cuisine) with the kitchen.
 
 <KeyTakeaways 
   points={[
-    "Temple food is your safest and most culturally rich dining option",
+    "Check the ingredients and preparation for your exact meal, including at temple-food restaurants",
     "Watch for invisible ingredients like anchovy broth and salted shrimp in Kimchi",
     "Download Naver Map and Papago as Google Maps has limited functionality here"
   ]}

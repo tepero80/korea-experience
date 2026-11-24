@@ -13,7 +13,7 @@ To get the rarest limited goods, you need a multi-platform strategy that combine
 
 Attending a live show? Read our guide to [getting K-Pop concert tickets](/blog/how-to-get-k-pop-concert-tickets-ticketing-guide).
 Ready to shop? Compare your options with our guide to [K-Pop merchandise shopping in Myeongdong vs online](/blog/k-pop-merchandise-shopping-myeongdong-vs-online).
-For rare finds, see our guide to [finding limited-edition K-Pop goods without a fan club membership](/blog/k-fandom-economy-where-to-find-limited-edition-goods-without-a-fan-club-membership).
+Shopping on your trip? [Check the selling branch and the access rules for limited goods in Seoul](/blog/k-fandom-economy-where-to-find-limited-edition-goods-without-a-fan-club-membership) before setting aside an afternoon.
 
 <KeyTakeaways 
   points={[

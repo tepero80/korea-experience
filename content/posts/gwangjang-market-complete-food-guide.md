@@ -32,11 +32,13 @@ If you only want a short snack stop, [use the pancake names to order one portion
 
 If you would like a short order list on your phone, use the [three-dish street-food tasting route](/blog/korean-street-food-guide-30-foods-to-try-2026) to choose one item at a time.
 
+If you must avoid gluten, [check ingredients and shared equipment before ordering at a market](/blog/gluten-free-in-traditional-markets-2026) and have a separate meal ready.
+
 ## Choose a manageable first order
 
 The official listing mentions mung-bean pancakes, gimbap, tteokbokki and fish cake. Treat those as examples to investigate, not a fixed meal everyone must order.
 
-| Before ordering | Useful question |
+| Order | Useful question |
 | --- | --- |
 | Portion or plate? | Is this price for one piece, one plate, one portion or the whole set? |
 | Extras? | Are sides, drinks or preparation charged separately? |
