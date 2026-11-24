@@ -19,6 +19,8 @@ Pick the exact route, not just a mountain name. Bukhansan and Dobongsan belong t
 | Dobongsan | Check the Dobong sector in the national park notices. Confirm the entrance and return before assuming the Ui Valley guidance applies. |
 | Gwanaksan | From Gwanaksan Station, ask about the Dorimcheon stream trail for a gentler option or the Yeonjudae course for a more demanding day. |
 
+For a different outdoor challenge, [compare paragliding, rafting and climbing](/blog/adventure-travel-rock-climbing-paragliding-and-rafting) and check operator conditions before booking.
+
 ## Check three things before leaving
 
 Open the [national park page](https://www.knps.or.kr/front/portal/visit/visitCourseMain.do?menuNo=7020002&parkId=121500) for route and access notices when planning Bukhansan or Dobongsan. Confirm the actual segment, especially when there are multiple routes to a summit. Look at conditions again on the morning of the hike.

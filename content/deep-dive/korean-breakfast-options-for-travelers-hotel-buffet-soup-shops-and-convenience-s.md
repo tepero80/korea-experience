@@ -22,6 +22,8 @@ For a meal delivered to your accommodation, [check the address and handoff befor
 
 If you are choosing a booked buffet meal, [compare the session and total for your group](/blog/korean-buffet-culture-all-you-can-eat-options) before paying.
 
+If your route already includes a soup shop, use the [Korean breakfast menu guide](/blog/korean-breakfast-foods-traditional-morning-meals) to choose a bowl and check its broth.
+
 ## Check the actual location, not the brand alone
 
 Ask the hotel whether breakfast is included for each guest on your booking. Verify whether your departure falls on a weekend or holiday with different service hours. Save the written inclusion and total breakfast price if you are choosing between rates.

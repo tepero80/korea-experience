@@ -36106,5 +36106,963 @@
     "changeType": "rewrite",
     "launchOrder": 1416,
     "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "a-guide-to-korean-seasonal-fish-what-to-eat-in-spring-summer-fall-winter-2026": {
+    "id": "guide:a-guide-to-korean-seasonal-fish-what-to-eat-in-spring-summer-fall-winter-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the season to narrow your order and the stall’s catch board to make the final choice. Ask how the fish is sold and what you will pay to have it prepared or served.",
+    "forWhom": "Travelers choosing a seafood market meal in Korea",
+    "conditions": [
+      "Catches and stall stock vary by location and day.",
+      "Cooking and seating charges may be separate."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Seafood by Season: What to Ask for at the Market"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "daemyeong-market",
+        "title": "VISITKOREA: Daemyeonghang Fishery Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192484",
+        "note": "Port market, Korean address and named catches by season.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "gyeokpo-port",
+        "title": "VISITKOREA: Gyeokpo Port",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80909",
+        "note": "Webfoot octopus in spring and gizzard shad in autumn at this port.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seasonal-winter-seafood",
+        "title": "VISITKOREA: winter seafood and market charges",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1595642",
+        "note": "Winter dishes and why to confirm separate table and cooking charges.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask for the unit, weight and preparation charge."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1417,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-breakfast-foods-traditional-morning-meals": {
+    "id": "guide:korean-breakfast-foods-traditional-morning-meals",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Look for juk for a soft rice porridge, gukbap for soup with rice, or seolleongtang for ox-bone soup. Read the flavor or broth name and check the individual breakfast shop before walking over.",
+    "forWhom": "Travelers reading Korean breakfast menus and looking for a warm meal",
+    "conditions": [
+      "Rice and egg may come separately depending on the shop.",
+      "Check the broth even if the main ingredient is a vegetable."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Traditional Korean Breakfast: Choose Gukbap, Juk or Seolleongtang"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-breakfast-soup",
+        "title": "VISITKOREA: Bean sprout and rice soup",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178212",
+        "note": "Korean menu name and documented breakfast use.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-waengi",
+        "title": "VISITKOREA: Jeonju Waengi Kongmulgukbap",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=228776",
+        "note": "A documented breakfast stop, Korean address and seafood broth.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-abalone-porridge",
+        "title": "VISITKOREA: Abalone porridge",
+        "url": "https://english.visitkorea.or.kr/svc/sp/food/ext/special_view.do?menuSn=603&menuSn=913&page=1&sort=regDt&vcontsId=178109",
+        "note": "Abalone porridge preparation and Korean name.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-ox-bone-soup",
+        "title": "VISITKOREA: Seolleongtang",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178349",
+        "note": "Korean name, preparation and serving style for ox-bone soup.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Use the Korean dish name to identify the broth."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1418,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "makgeolli-bars-traditional-rice-wine-culture": {
+    "id": "guide:makgeolli-bars-traditional-rice-wine-culture",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask what size is available and whether the food comes with the drink or must be ordered separately. A Jeonju kettle table can be the whole meal, so check what the smallest order includes.",
+    "forWhom": "Adult travelers visiting a rice wine bar or planning a Jeonju dinner",
+    "conditions": [
+      "Bottle size, food orders and limits vary by business.",
+      "Makgeolli is alcoholic. Check bottle information and drinking preferences in your group."
+    ],
+    "regions": [
+      "jeonju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Makgeolli Bars in Korea: Choose a Pour or a Jeonju Kettle"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-makgeolli",
+        "title": "VISITKOREA: Makgeolli",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=231646",
+        "note": "Ingredients and fermentation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-makgeolli-street",
+        "title": "VISITKOREA: Samcheon-dong Makgeolli Street",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=229025",
+        "note": "Jeonju neighborhood, venue variation and street name.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-jeonju-kettle",
+        "title": "VISITKOREA: Jeonju food guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=&vcontsId=229053",
+        "note": "Local examples of kettle service with side dishes.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask whether the kettle price includes food."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1419,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-drinking-snacks-anju-pairing-guide": {
+    "id": "guide:korean-drinking-snacks-anju-pairing-guide",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with one anju and ask how many people it serves. Choose seafood pancake, kimchi pancake or tofu with kimchi based on the ingredients and the size of your table.",
+    "forWhom": "Travelers choosing food from Korean bar and pub menus",
+    "conditions": [
+      "The food order can be priced separately from the drinks.",
+      "Ask about stock, seafood and added pork when these matter to you."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Anju Menus: Choose a Dish to Share"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-seafood-pajeon",
+        "title": "VISITKOREA: Seafood and green onion pancake",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=231718",
+        "note": "Seafood ingredients and the common makgeolli pairing.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-jeon-types",
+        "title": "VISITKOREA: Kimchi pancake",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=181&vcontsId=178931",
+        "note": "Kimchi pancake definition.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-dubu-kimchi",
+        "title": "VISITKOREA: Bean curd and stir-fried kimchi",
+        "url": "https://english.visitkorea.or.kr/svc/sp/food/ext/special_view.do?menuSn=603&menuSn=913&page=4&sContsTtl=&sort=regDt&vcontsId=179834",
+        "note": "What the name means and ingredients in the KTO example.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the portion and ingredients before adding a second dish."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1420,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "hon-bap-solo-dining-culture-2026": {
+    "id": "guide:hon-bap-solo-dining-culture-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Save one soup or noodle shop near your route, then look for a single dish or ask for a counter seat. At the door, ask whether they have room for one person now.",
+    "forWhom": "Solo travelers needing a quick everyday meal in Korea",
+    "conditions": [
+      "Queue and counter policies belong to the individual restaurant.",
+      "For shared grills and courses, check minimum orders or reservation terms first."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Eating Alone in Korea: Find a Counter Seat or One-Bowl Meal"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-seongsu-solo",
+        "title": "Visit Seoul: Somunnan Seongsu Gamjatang",
+        "url": "https://english.visitseoul.net/restaurants/SeongsuGamjatang/ENPlceoxk",
+        "note": "Designated solo seating at this particular restaurant and nearby station exit.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-busan-solo",
+        "title": "VISITKOREA: Busan pork and rice soup",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221285",
+        "note": "Songjeong Samdae Gukbap and solo dining, address and transport.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Search near your route and ask for a seat for one."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1421,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "adventure-travel-rock-climbing-paragliding-and-rafting": {
+    "id": "guide:adventure-travel-rock-climbing-paragliding-and-rafting",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose the activity first, then confirm weather, eligibility, equipment and the meeting point with its operator.",
+    "forWhom": "Travelers comparing guided outdoor activities",
+    "conditions": [
+      "Weather and river conditions can change or cancel activities."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korea Adventure Activities: Compare Paragliding, Rafting and Climbing"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave18-paravillage",
+        "title": "VISITKOREA Danyang Paravillage",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=216081",
+        "note": "Tandem flight, briefing, address and weather-dependent operation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave18-naerincheon",
+        "title": "VISITKOREA Naerincheon rafting",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=89980",
+        "note": "Identifies the Inje river and rafting conditions.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Weather and river conditions can change or cancel activities."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1422,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "bonsai-and-zen-gardens-finding-peace-in-korea-traditional-greenery-2026": {
+    "id": "guide:bonsai-and-zen-gardens-finding-peace-in-korea-traditional-greenery-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Changdeokgung for a timed palace garden visit or Spirited Garden for Jeju bunjae and landscaped grounds.",
+    "forWhom": "Travelers looking for Korean gardens and miniature trees",
+    "conditions": [
+      "Admission, tour availability and garden access can change."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Gardens and Bunjae: A Seoul or Jeju Visit"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave18-spirited",
+        "title": "VISITKOREA Spirited Garden",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=141007",
+        "note": "Jeju garden, miniature tree collection and address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave18-changdeok-faq",
+        "title": "Royal Palaces Changdeokgung FAQ",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R404000000.do?schGroupCode=cdg",
+        "note": "Palace and Secret Garden admission and timed-visit arrangements.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Admission, tour availability and garden access can change."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1423,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "behind-the-scenes-k-drama-production-tours": {
+    "id": "guide:behind-the-scenes-k-drama-production-tours",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose the KBS Visitors Hall for a booked broadcasting exhibition or Dae Jang Geum Park for a historic outdoor set. Live production requires separate permission.",
+    "forWhom": "K-drama fans considering a production-themed visit",
+    "conditions": [
+      "Filming and access can change without notice."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean TV Production Visits: KBS Visitors Hall or an Open Set?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave18-daejanggeum",
+        "title": "VISITKOREA Dae Jang Geum Park",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=192854",
+        "note": "Yongin historical drama set, location and filmed productions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kbs-visitor-rules",
+        "title": "KBS Visitors Hall: reservations and visiting guide",
+        "url": "https://audiencecenter.kbs.co.kr/kbstourhall/tourGuide",
+        "note": "Advance reservations, language and floor access conditions for the exhibition.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kbs-main-address",
+        "title": "KBS directions: main building in Yeouido",
+        "url": "https://about.kbs.co.kr/eng/index.html?sname=kbs&stype=location",
+        "note": "Main building address and local transport.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the booking window and the exact visiting area."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1424,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-drama-actors-fan-meetings-how-to-attend": {
+    "id": "guide:k-drama-actors-fan-meetings-how-to-attend",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Wait for the actor’s official event announcement, then follow that event’s seller, identity and collection instructions.",
+    "forWhom": "International fans planning an actor fan meeting",
+    "conditions": [
+      "Events, presales and identity requirements vary by announcement."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "K-Drama Actor Fan Meetings: How to Check and Book"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "official-fan-meeting-example",
+        "title": "Official Xiumin event notice: March 2026 fan meeting",
+        "url": "https://weverse.io/xiumin/notice/34012",
+        "note": "A past example of seller, identity checks and mobile-only terms.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Events, presales and identity requirements vary by announcement."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1425,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-pop-dance-class-guide-learn-from-real-choreographers-2026": {
+    "id": "guide:k-pop-dance-class-guide-learn-from-real-choreographers-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a class by level and schedule; confirm the instructor and choreography instead of assuming an original artist will teach.",
+    "forWhom": "Travelers choosing a Seoul dance class",
+    "conditions": [
+      "Instructors, class schedules and booking conditions can change."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "K-Pop Dance Classes in Seoul: Choose an Instructor and Level"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave18-1m-faq",
+        "title": "1MILLION Dance Studio FAQ",
+        "url": "https://www.1milliondance.com/faq",
+        "note": "Class levels, booking, QR entry and filming choices.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave18-1m-schedule",
+        "title": "1MILLION Dance Studio schedule",
+        "url": "https://www.1milliondance.com/schedule/week?fs=4",
+        "note": "Studio class and instructor schedule; check the actual date.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Instructors, class schedules and booking conditions can change."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1426,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "bts-tour-in-seoul-army-must-visit-locations-2026": {
+    "id": "guide:bts-tour-in-seoul-army-must-visit-locations-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose one or two stops by the BTS connection and check access before travelling.",
+    "forWhom": "ARMY planning a flexible Seoul day",
+    "conditions": [
+      "Palace admission and opening conditions can change.",
+      "These are places associated with past appearances, not opportunities to meet performers."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "BTS Places in Seoul: Choose a Palace, Island or Lake"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-bts-seoul-course",
+        "title": "VISITKOREA: BTS in Seoul",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=399187",
+        "note": "Official tourism itinerary identifies the palace performance, Nodeul Island video and Seokchon Lake photo.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Palace admission and opening conditions can change."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1427,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "how-to-attend-live-k-drama-tapings-ticket-info": {
+    "id": "guide:how-to-attend-live-k-drama-tapings-ticket-info",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Only make plans around a confirmed public audience invitation; drama location access does not imply permission to watch a shoot.",
+    "forWhom": "Travelers hoping to see Korean television production",
+    "conditions": [
+      "Public audience opportunities depend on the specific production.",
+      "Visitor eligibility is not guaranteed."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "K-Drama Tapings: Can Travelers Watch Filming?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "mbc-audience-example",
+        "title": "MBC audience application example",
+        "url": "https://program.imbc.com/Info/1005125100000100000?seq=556",
+        "note": "Broadcaster example of an audience application for a non-drama programme and its recording and disclosure conditions; not a current drama invitation.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Public audience opportunities depend on the specific production."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1428,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-drama-themed-cafes-and-pop-up-stores": {
+    "id": "guide:k-drama-themed-cafes-and-pop-up-stores",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a documented filming café, and verify a pop-up’s dates and reservation rules with its organiser.",
+    "forWhom": "K-drama viewers planning a café stop",
+    "conditions": [
+      "Café opening and promotional dates can change."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "K-Drama Cafés and Pop-ups: Check the Connection Before You Go"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-hakrim",
+        "title": "VISITKOREA: Hakrim",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=47863",
+        "note": "Tourism listing identifies drama use, Korean address and phone; asks visitors to check hours.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-vincenzo-cafe",
+        "title": "VISITKOREA: Vincenzo filming places",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=224799",
+        "note": "Historical 2022 identification of Grandpa Factory Café and the scene filmed there.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Café opening and promotional dates can change."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1429,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "pansori-and-traditional-storytelling-performances": {
+    "id": "guide:pansori-and-traditional-storytelling-performances",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Look for pansori in the dated programme and check its length and language support before booking.",
+    "forWhom": "First-time listeners choosing a traditional storytelling performance",
+    "conditions": [
+      "Not every gugak concert includes pansori.",
+      "Language support varies by performance."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Pansori Performances: How to Choose a Storytelling Show"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "unesco-pansori",
+        "title": "National Gugak Center archive: an example of pansori",
+        "url": "https://archive.gugak.go.kr/portal/detail/searchVideoDetail?clipid=39174&recording_type_code=V&system_id=AV",
+        "note": "Example sung by one singer with a drummer and a description of the excerpt.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "gugak-ticket-information",
+        "title": "National Gugak Center booking guide",
+        "url": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?lang=en&menuid=001001002001001",
+        "note": "Official booking and visitor conditions including possible international card restrictions.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Not every gugak concert includes pansori."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1430,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "public-library-services-for-foreigners-free-books-and-media-2026": {
+    "id": "guide:public-library-services-for-foreigners-free-books-and-media-2026",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use a publicly accessible reading space, and check membership separately before counting on loans or digital media.",
+    "forWhom": "Short-term visitors looking for free reading in Seoul",
+    "conditions": [
+      "Outdoor library schedules depend on the season and weather.",
+      "Loan eligibility and digital access differ by institution."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Reading in Seoul Without Residency: Free Library Options"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-outdoor-library",
+        "title": "Seoul Metropolitan Government: Seoul Outdoor Library",
+        "url": "https://english.seoul.go.kr/seoul-outdoor-library/",
+        "note": "City describes public on-site reading and returning books to shelves or carts.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-library-loans",
+        "title": "Seoul Metropolitan Library loan expansion",
+        "url": "https://english.seoul.go.kr/seoul-metropolitan-library-expands-from-citywide-to-nationwide-loans/",
+        "note": "2025 city announcement covers citizens and foreign residents; it does not establish short-term tourist loan eligibility.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-starfield-reading",
+        "title": "VISITKOREA: Starfield Library",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=60729",
+        "note": "Free indoor reading and Korean address at COEX.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Outdoor library schedules depend on the season and weather."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1431,
+    "heroMediaId": "archive-seoul-metropolitan-library-interior-2014",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "서울 도서관 내부.jpg",
+      "author": "Jocelyndurrey",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%9C%EC%9A%B8_%EB%8F%84%EC%84%9C%EA%B4%80_%EB%82%B4%EB%B6%80.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2014-11-16."
+    },
+    "heroCaption": "An interior reading room at Seoul Metropolitan Library, photographed in November 2014."
+  },
+  "bargaining-culture-where-and-how-to-negotiate": {
+    "id": "guide:bargaining-culture-where-and-how-to-negotiate",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "At Hwanghak-dong Flea Market, some prices are fixed and some vendors may negotiate. Ask politely about the item and accept the seller’s answer; do not assume every shop or food stall bargains.",
+    "forWhom": "Travelers buying secondhand or market goods",
+    "conditions": [
+      "Individual sellers set their own prices and payment terms.",
+      "Market opening hours and individual stalls can change."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Bargaining at Korean Markets: When and How to Ask"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "bargaining-culture-where-and-how-to-negotiate-source",
+        "title": "VISITKOREA: Seoul flea markets",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=222319",
+        "note": "Official tourism guidance on Hwanghak-dong flea market and bargaining, checked November 24, 2026.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask once and accept the seller’s answer."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1432,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "how-to-spot-fake-k-beauty-products-a-guide-for-online-shoppers-2026": {
+    "id": "guide:how-to-spot-fake-k-beauty-products-a-guide-for-online-shoppers-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Check the seller through the brand’s official channels, compare the exact product and retain order records. Packaging, a barcode or a low price alone cannot establish authenticity.",
+    "forWhom": "Travelers ordering Korean cosmetics online",
+    "conditions": [
+      "Brand verification and return processes differ by seller and market.",
+      "A product listing or batch code alone cannot prove authenticity."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buying K-Beauty Online: Check the Seller and Claims"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "how-to-spot-fake-k-beauty-products-a-guide-for-online-shoppers-2026-source",
+        "title": "Korean Ministry of Food and Drug Safety: reporting illegal online distribution",
+        "url": "https://www.mfds.go.kr/wpge/m_660/de010410l001.do",
+        "note": "Official Korean-language reporting guidance covering misleading cosmetics advertising and illegal distribution, checked November 24, 2026.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Keep the seller and order record."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1433,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-beauty-shopping-guide-seoul-2026": {
+    "id": "guide:k-beauty-shopping-guide-seoul-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Olive Young Myeongdong Town for a multibrand shopping list. Choose AMORE Seongsu if you want to compare products in a showroom and have time to test them.",
+    "forWhom": "Travelers making a cosmetics shopping stop in Seoul",
+    "conditions": [
+      "Product stock, promotions and hours can change.",
+      "Check ingredients and return terms for the specific product."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "K-Beauty Shopping in Seoul: Myeongdong or Seongsu?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "k-beauty-shopping-guide-seoul-2026-source",
+        "title": "Olive Young Myeongdong Global Town: store guide",
+        "url": "https://myeongdongtown.oliveyoung.com/en/",
+        "note": "Official branch address and the in-store services directory.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "amore-seongsu-address",
+        "title": "Amorepacific: Seongsu stockist address",
+        "url": "https://design.amorepacific.com/puzzlewood/",
+        "note": "Official brand listing for AMORE Seongsu and its address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-amore-format",
+        "title": "Visit Seoul: the AMORE Seongsu showroom",
+        "url": "https://english.visitseoul.net/editorspicks/2026-Seongsu/ENNky3epf",
+        "note": "Visitor description of the showroom and testing format.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Choose a quick restock or a showroom visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1434,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-fashion-2026-ader-error-recto-2026": {
+    "id": "guide:k-fashion-2026-ader-error-recto-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "RECTO lists its Hannam flagship at 8 Hannam-daero 40-gil. For ADERERROR, check its official store finder before traveling; its corporate office address should not be assumed to be a shop.",
+    "forWhom": "Travelers looking for a specific Korean designer garment",
+    "conditions": [
+      "Stock, store locations and opening hours may change.",
+      "Check sizing and exchange conditions for the exact garment."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "ADERERROR and RECTO: Plan a Korean Fashion Purchase"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "k-fashion-2026-ader-error-recto-2026-source",
+        "title": "RECTO Hannam flagship store",
+        "url": "https://recto.co/about/f-store",
+        "note": "Official brand store page checked November 24, 2026.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "k-fashion-2026-ader-error-recto-2026-ader",
+        "title": "ADERERROR official site",
+        "url": "https://adererror.com/en",
+        "note": "Official brand site; use its store finder to confirm a shopping location.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the shop and the garment."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1435,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-home-decor-where-to-buy-modern-hanok-style": {
+    "id": "guide:korean-home-decor-where-to-buy-modern-hanok-style",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Visit Seoul lists Parsnips at 84-3 Gyedong-gil, with decor and accessories on the first floor and furniture and lighting on the second. Confirm current opening and the item before a dedicated trip.",
+    "forWhom": "Travelers looking for contemporary home goods in a hanok neighborhood",
+    "conditions": [
+      "The shop’s stock, hours and shipping terms may change.",
+      "Not every item in a modern lifestyle shop is a traditional Korean craft."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Home Decor in Bukchon: Shop for a Carryable Piece"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "korean-home-decor-where-to-buy-modern-hanok-style-source",
+        "title": "Visit Seoul: Parsnips",
+        "url": "https://english.visitseoul.net/shopping/2024-parsnips/ENPwlwiuo",
+        "note": "Official Seoul tourism listing checked November 24, 2026.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the maker, packing and full cost."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1436,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
   }
 }

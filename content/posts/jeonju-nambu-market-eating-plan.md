@@ -26,6 +26,8 @@ The [recent official tourism report](https://english.visitkorea.or.kr/svc/conten
 
 Continuing beyond Jeonju? [Compare four regional dishes by city](/blog/a-guide-to-korean-regional-flavors-jeolla-do-vs-gyeongsang-do-2026) before adding a meal to your route.
 
+For an evening meal elsewhere in Jeonju, [check how a makgeolli kettle order works](/blog/makgeolli-bars-traditional-rice-wine-culture) before you commit to a second large food stop.
+
 ## A low-stress food stop
 
 1. Save **전주 남부시장** and the address in a local map app. Choose a defined entrance and check your actual route, rather than assuming every stall is beside one landmark.

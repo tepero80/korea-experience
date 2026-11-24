@@ -16,6 +16,8 @@ draft: false
 
 **Start with what you want to bring home.** These are choices of shopping experience, not claims that one district is always cheapest. Write three priority purchases and a spending ceiling before planning the route.
 
+For secondhand stalls, [check when a polite price question makes sense](/blog/bargaining-culture-where-and-how-to-negotiate) before you buy.
+
 ## Choose one shopping mission
 
 | Your mission                             | Area to investigate         | What to compare                                            |
@@ -29,6 +31,8 @@ Leave room for bags and receipts, rather than crossing the city to collect famou
 
 If clothing is your priority, use the [Dongdaemun retail and wholesale comparison](/blog/dongdaemun-wholesale-fashion-market-tips) to choose a mall for one item or confirm a wholesale pickup.
 
+For a focused beauty errand, [plan the Myeongdong cosmetics stop](/blog/k-beauty-shopping-guide-seoul-2026) around your product list.
+
 ## Myeongdong: compare the same product
 
 Use the [official Myeongdong area guide](https://english.visitseoul.net/area/Myeong-dong/ENP000067) for orientation, then verify the branch. For cosmetics, compare the full product name, volume, formula and bundle contents. A smaller bottle or different set is not the same bargain.
@@ -38,6 +42,8 @@ Use the [official Myeongdong area guide](https://english.visitseoul.net/area/Mye
 Global websites, domestic stores and loyalty programs can have different conditions. Save your list before opening promotions. The [Olive Young preparation guide](/blog/olive-young-must-buys-2026) helps structure the purchase; a viral recommendation alone is not a reason to buy something that does not suit you.
 
 For a snack between shops, [learn the Korean names for common street snacks](/blog/korean-street-food-guide-where-to-eat-in-seoul) and check the filling before ordering.
+
+For home goods in Bukchon, [plan a decor stop and check how to carry the purchase](/blog/korean-home-decor-where-to-buy-modern-hanok-style).
 
 ## Insadong: ask what makes the object worth carrying
 

@@ -20,6 +20,8 @@ Give yourself one market stop based on what you want to eat. At Gwangjang you ca
 
 Use the [Gwangjang listing](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106345) or the [Noryangjin listing](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91565) to verify the address. Search by the full Korean name in your map and choose the entrance for the stall or floor you need.
 
+For a seafood market beyond central Seoul, check [which catches to look for by season and what to ask the seller](/blog/a-guide-to-korean-seasonal-fish-what-to-eat-in-spring-summer-fall-winter-2026).
+
 ## Ask about the part of the bill you cannot see
 
 At Gwangjang, start with one portion and ask how it will be served if you want to move on quickly. The [KTO food overview](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1595642) lists mung bean pancakes and mini gimbap as examples. The [Gwangjang food guide](/blog/gwangjang-market-complete-food-guide) helps locate the right part of the market.

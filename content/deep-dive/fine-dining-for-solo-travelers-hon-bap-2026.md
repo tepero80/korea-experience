@@ -11,6 +11,8 @@ deepDiveOrder: 54
 
 A solo tasting menu is possible in Seoul, but a counter seat does not automatically mean that a particular course or time can be booked for one. Start with the restaurant's party-size rules, then check the actual reservation screen for your date before you pay.
 
+For an everyday meal without a course reservation, [find a one-bowl menu or a solo counter seat](/blog/hon-bap-solo-dining-culture-2026).
+
 ## One documented counter option
 
 [KUT SEOUL's own solo-dining guide](https://kutseoul.com/en/blog/solo-dining-hanwoo-omakase-seoul-kut-seoul-counter/) says one guest may reserve its chef's counter in Jongno. It describes a weekday lunch counter course and another counter course for dinner and weekend or holiday lunch. The restaurant says its private rooms require at least two guests and some courses are room-only. That does not guarantee a seat on your chosen date.

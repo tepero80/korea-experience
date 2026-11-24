@@ -23,6 +23,8 @@ Start with measurements and the individual garment, not a fixed conversion betwe
 
 If you are trying clothes in Hongdae, [choose the correct MUSINSA or MUSINSA STANDARD store](/blog/indie-fashion-in-musinsa-standard-2026) before checking the item’s size.
 
+For a designer purchase, [plan the ADERERROR or RECTO store visit](/blog/k-fashion-2026-ader-error-recto-2026) around the actual garment.
+
 ## At the fitting room
 
 Bring your measurements in centimeters, or measurements of a similar item that fits you. Compare like with like: a flat garment width is not necessarily the same as a body circumference. Ask the seller how each number was measured before comparing it with yours.

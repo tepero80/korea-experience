@@ -23,6 +23,8 @@ draft: false
 | A palace pass or free admission | Check what it covers. The official [fee table](https://royal.khs.go.kr/ROYAL/contents/R703000000.do?schGroupCode=cdg) says the palace pass excludes the Secret Garden; eligibility and evidence differ by person. |
 | Monday or a public holiday | Changdeokgung ordinarily closes Monday, but the official page says a public or substitute holiday on the regular closing day may move the closure to the following day. Check notices for your exact date. |
 
+For a different garden experience, [compare Seoul’s palace garden with Jeju bunjae](/blog/bonsai-and-zen-gardens-finding-peace-in-korea-traditional-greenery-2026).
+
 ## Choose your garden date, then check the ticket conditions
 
 The official [booking page](https://royal.khs.go.kr/ROYAL/contents/R601000000.do?schGroupCode=cdg) states that advance online garden booking opens at 10:00, six days before the visit date, and closes the day before. The [official visitor FAQ](https://royal.khs.go.kr/ROYAL/contents/R404000000.do?schGroupCode=cdg) describes a quota with online and same-day ticket-office places. A quota is not availability: a busy date can sell out, and festival arrangements can override the usual procedure.

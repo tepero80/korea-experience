@@ -23,6 +23,8 @@ image: /images/editorial/archive-seoul-book-bogo-exterior-2019-1280.webp
 
 For period-drama settings beyond this contemporary Seoul walk, [compare folk villages, filming sets and palaces](/blog/historic-kdrama-sets-folk-villages-and-palaces) before choosing a trip.
 
+For a sit-down stop with a documented screen connection, [compare a K-drama café with a temporary pop-up](/blog/k-drama-themed-cafes-and-pop-up-stores).
+
 ## Anguk · The Business Proposal umbrella street
 
 [Visit Seoul](https://english.visitseoul.net/hallyu/the-drama-that-stimulates-your-love-cells/ENN041167) identifies the street at the Seoul Museum of Craft Art as the scene location. Use [the museum listing](https://english.visitseoul.net/PalaceArea/Seoul-Museum-of-Craft_/38147) for Anguk Exit 1 and the pinned frontage. Keep moving if pedestrians need the sidewalk, or continue to [Unhyeongung](/blog/unhyeongung-anguk-traditional-house-visit) if the frontage is crowded.

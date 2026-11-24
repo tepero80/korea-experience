@@ -25,6 +25,8 @@ draft: false
 | Pickup/entry | Required name/ID match, documents, collection method and arrival instructions |
 | Changes | Actual booking limit, cancellation, refund and transfer conditions |
 
+For an actor event, [check the fan meeting announcement and identity rules](/blog/k-drama-actors-fan-meetings-how-to-attend) before making travel plans.
+
 ## A current seller example: YES24 Global
 
 The [official YES24 Global FAQ](https://ticket.yes24.com/Pages/English/Guidance/FnFAQ.aspx) says its Global Ticket account is separate from domestic YES24 and global.yes24.com shopping membership. It describes **3D card authentication**, with selected shows requiring verified membership. Prepare through the authorized flow; do not send passport or card details to a stranger offering to “verify” you.

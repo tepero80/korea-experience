@@ -26,6 +26,8 @@ The [Seoul tourism listing](https://english.visitseoul.net/PalaceArea/Gwangjang-
 
 <GuidePhoto id="gwangjang" caption="A covered aisle inside Gwangjang Market. It helps orient the visit, but does not make the entire trip from your hotel sheltered or establish current stall opening." />
 
+If you are ordering a shared dish alongside drinks, [read the Korean anju names and ask about serving sizes](/blog/korean-drinking-snacks-anju-pairing-guide) before adding more food.
+
 ## Choose a manageable first order
 
 The official listing mentions mung-bean pancakes, gimbap, tteokbokki and fish cake. Treat those as examples to investigate, not a fixed meal everyone must order.

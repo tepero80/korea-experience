@@ -12,6 +12,8 @@ If a branded item matters to you, check **who is selling it and whether the bran
 
 Browsing vintage goods in a neighborhood setting? [Plan the Itaewon antiques stop and check packing before buying](/blog/itaewon-global-brands-and-import-shops).
 
+For a delivered cosmetics order, use the [online K-beauty seller and claims checklist](/blog/how-to-spot-fake-k-beauty-products-a-guide-for-online-shoppers-2026) before payment.
+
 ## At the shop, before paying
 
 | Check | Why it helps |

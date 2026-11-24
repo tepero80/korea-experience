@@ -11,6 +11,8 @@ image: "/images/editorial/archive-mungyeongsaejae-open-film-set-walkway-1280.web
 
 A historical drama may use a real palace, a purpose-built set or a folk village. A screen location can change, and visiting does not mean a production is filming there. Choose a place for the actual visitor experience on your date.
 
+Before buying a package, [check what a production-themed tour actually includes](/blog/behind-the-scenes-k-drama-production-tours).
+
 ## Compare the setting
 
 | Site type | Verify before leaving |

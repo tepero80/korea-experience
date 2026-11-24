@@ -18,6 +18,8 @@ draft: false
 
 For an easy Seoul Forest (서울숲) outing, start at Seoul Forest Station and choose a short park route before adding Seongsu cafés or the river. The park is large; deciding where to turn around matters more than trying to see every section.
 
+For other music-related places across the city, [compare BTS stops in Seoul](/blog/bts-tour-in-seoul-army-must-visit-locations-2026) by the performance or photo you remember.
+
 ## Choose your starting point
 
 | Decision | What to do |

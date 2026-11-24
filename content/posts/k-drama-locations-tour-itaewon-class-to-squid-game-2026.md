@@ -17,6 +17,8 @@ tags:
 draft: false
 ---
 
+Curious about watching production itself? [Check what a taping invitation actually permits](/blog/how-to-attend-live-k-drama-tapings-ticket-info) before planning around a shoot.
+
 ## Choose a public stop
 
 | Show | Where to go |

@@ -22,6 +22,8 @@ The [Korea Tourism Organization's official page](https://english.visitkorea.or.k
 
 **Save:** 하이커 그라운드 · 서울 중구 청계천로 40. [Naver Map](https://map.naver.com/p/search/%ED%95%98%EC%9D%B4%EC%BB%A4%20%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C) · [Kakao Map](https://map.kakao.com/link/search/%ED%95%98%EC%9D%B4%EC%BB%A4%20%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%ED%95%98%EC%9D%B4%EC%BB%A4+%EA%B7%B8%EB%9D%BC%EC%9A%B4%EB%93%9C+%EC%84%9C%EC%9A%B8+%EC%A4%91%EA%B5%AC+%EC%B2%AD%EA%B3%84%EC%B2%9C%EB%A1%9C+40)
 
+For a hands-on activity, [choose a Seoul dance class by level and instructor](/blog/k-pop-dance-class-guide-learn-from-real-choreographers-2026).
+
 ## Hongdae · K-POP SQUARE
 
 [The operator's store directory](https://linefriendssquare.com/pages/about-us) and [VISITKOREA's listing](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=199935) identify the Hongdae shop. Look for a dated announcement for any specific artist, merchandise drop or event. A store's posted hours do not establish pop-up access, admission by reservation or stock. If your intended event has ended, use the [Hongdae neighborhood guide](/blog/hongdae-shopping-street-indie-brands-and-vintage) for a flexible alternative.
