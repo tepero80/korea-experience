@@ -26,6 +26,8 @@ draft: false
 
 Check both the validity of the documents and the time since entry. Article 96 describes up to one year from entry for qualifying authorizations, subject to the covered class. Do not rely on a commercial card sold online as an “international driving licence” without checking the issuer and the branch’s rules.
 
+If you are planning a longer stay, the [KoROAD licence guide](/blog/getting-a-korean-driver-license-as-a-foreigner-2026) explains the separate routes for a new Korean licence and licence exchange.
+
 ## For a pickup at Jeju Airport
 
 **제주국제공항 · 제주특별자치도 제주시 공항로 2**

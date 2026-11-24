@@ -227,6 +227,8 @@ For those planning a longer stay, ensuring you have connectivity is vital for re
   Always pay with a credit card that has no foreign transaction fees. Keep the paper receipt; the digital banking notification is often not enough for insurance claims.
 </InfoBox>
 
+For a scheduled mental health appointment, see the [English-language Seoul intake guide](/blog/mental-health-support-for-expats-english-speaking-therapy-in-seoul-2026) for contact options and questions to ask.
+
 ## Emergency and routine care contacts
 
 If you face a crisis, know these numbers.

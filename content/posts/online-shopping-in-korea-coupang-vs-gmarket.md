@@ -158,6 +158,8 @@ Registering for Coupang is where the "authentication" drama begins.
 If your verification fails on Coupang, check your phone bill. Sometimes telecom clerks type names as 'LASTNAMEFIRSTNAME' with no spaces. You must type it exactly that way in the verification window for it to work.
 </ExpertTip>
 
+For a delivery during a short stay, check the [Coupang parcel and hotel address checklist](/blog/using-coupang-like-a-pro-rocket-delivery-and-subscriptions-2026) before assuming you will be able to receive or return the item.
+
 ## The Vital Role of the PCCC
 
 If you are using Gmarket to ship items from abroad *into* Korea (or using the "Global Shopping" tab within Coupang), you need a **Personal Customs Clearance Code (PCCC)**.

@@ -32,6 +32,8 @@ If an agency is involved, ask for its legal business name, registration details 
 
 If an agency gave you the quote, check [the coordinator and the treating facility separately](/blog/licensed-medical-coordinator-guide-2026) before making a payment.
 
+If a clinic offers a combined slot, use the [same-day consultation checklist](/blog/same-day-consultations-and-procedures-pros-and-cons) to clarify what can be decided after meeting the clinician.
+
 ## Plan follow-up before travel
 
 Ask the treating clinician what follow-up is recommended and how you can contact the clinic after leaving Korea. If you will fly after treatment, ask the clinician to assess your individual fitness to travel and check any relevant airline requirements. There is no single safe waiting period that applies to every procedure and patient.

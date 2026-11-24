@@ -18,6 +18,8 @@ The [FDA’s patient information on fillers](https://www.fda.gov/consumers/consu
 | Estimate | Which visits and charges does the written estimate cover? What could make it change? |
 | Aftercare | Which changes should prompt a call, and who can answer when the clinic is closed? |
 
+If the estimate uses HA or CaHA, use the [filler labeling checklist](/blog/filler-types-hyaluronic-acid-vs-calcium-hydroxylapatite) to ask about the material and exact product.
+
 ## Check the written information before paying
 
 [KHIDI’s patient-information guidance](https://www.medicalkorea.or.kr/korp/notice/faqView.do?faqSn=48) lists treatment information, possible side effects and expected costs among the details to communicate. Ask the clinic to explain its plan, how to contact it later and what happens if you need care elsewhere. Keep a copy of the estimate and contact instructions. Use the [clinic identity checklist](/blog/how-to-verify-korean-clinic-credentials-red-flags-to-avoid) to compare the branch on the quote with the branch that will see you.

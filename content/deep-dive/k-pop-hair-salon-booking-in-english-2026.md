@@ -22,6 +22,8 @@ Ask whether your requested language will be available in the chair. Check the st
 
 If a separate color consultation is part of your plan, [compare the appointment language, total cost and cancellation policy](/blog/english-personal-color-in-gangnam-2026).
 
+If you want to keep the style after the appointment, compare rinse-out and leave-in products in the [travel hair-care routine](/blog/the-glass-hair-routine-korean-hair-care-products-for-ultimate-shine-2026).
+
 ## Send a message that makes approval easy
 
 “I will be in Seoul on these dates. I like the shape in this photo and want to keep my usual length. Could you tell me which service to book, whether I can consult in English, how long it takes and the estimated total? I previously had these treatments. Please tell me the branch and any deposit or cancellation terms.”

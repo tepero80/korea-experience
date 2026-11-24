@@ -44045,5 +44045,426 @@
     "changeType": "rewrite",
     "launchOrder": 1578,
     "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "using-coupang-like-a-pro-rocket-delivery-and-subscriptions-2026": {
+    "id": "guide:using-coupang-like-a-pro-rocket-delivery-and-subscriptions-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Order only if you can use checkout, your accommodation agrees to receive the parcel, and the estimate leaves enough time before you move on. For something you need tomorrow, identify an in-person alternative first.",
+    "forWhom": "Visitors considering a Coupang order to an address in Korea.",
+    "conditions": [
+      "Account, item and checkout options vary. The date displayed for your order is the relevant estimate."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korea parcel delivery",
+      "hotel delivery address",
+      "online shopping returns"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w34-coupang",
+        "title": "Coupang delivery FAQ",
+        "url": "https://news.coupang.com/archives/60687/",
+        "note": "Explains delivery estimates, order tracking and what to do when the recorded delivery cannot be found.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask the accommodation to confirm the parcel address and holding policy before ordering."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1579,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-skincare-ingredients-snail-mucin-to-centella": {
+    "id": "guide:korean-skincare-ingredients-snail-mucin-to-centella",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with 전성분, the full ingredient list. Compare the two actual packages, including precautions, directions and expiry information, before choosing on the strength of a front-label ingredient.",
+    "forWhom": "Travelers comparing unfamiliar Korean skincare products in store.",
+    "conditions": [
+      "Terms on a front label do not describe the full formula. Check the box for the exact format and version."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean cosmetics labels",
+      "full ingredient list",
+      "skincare shopping"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w34-mfds",
+        "title": "Korean Ministry of Food and Drug Safety cosmetics labeling rules",
+        "url": "https://mfds.go.kr/wpge/m_645/de050601l0024.do",
+        "note": "Lists ingredients, date or period after opening, and precautions among package labeling items.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w34-kcia-snail",
+        "title": "Korea Cosmetic Association ingredient dictionary: snail secretion filtrate",
+        "url": "https://kcia.or.kr/cid/search/ingd_view.php?no=6319",
+        "note": "Gives the standardized Korean and English label names for snail secretion filtrate.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w34-kcia-centella",
+        "title": "Korea Cosmetic Association ingredient dictionary: Centella asiatica extract",
+        "url": "https://kcia.or.kr/cid/search/ingd_view.php?no=540",
+        "note": "Gives the standardized Korean and English label names for Centella asiatica extract.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Find 전성분 on the exact product you plan to buy."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1580,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "the-glass-hair-routine-korean-hair-care-products-for-ultimate-shine-2026": {
+    "id": "guide:the-glass-hair-routine-korean-hair-care-products-for-ultimate-shine-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "For a sleek finish on a trip, start with one conditioner suited to your hair and use it as directed. Check whether it rinses out or stays in before paying. If you use a dryer or flat iron, keep the heat low.",
+    "forWhom": "Travelers selecting products for a sleek, glossy style during or after a Korea trip.",
+    "conditions": [
+      "The finish depends on your hair, product and heat settings. Check directions and any heat-protection claim on the exact label."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean hair care shopping",
+      "rinse out versus leave in",
+      "travel hair routine"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w34-aad-heat",
+        "title": "American Academy of Dermatology advice on heat styling",
+        "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/habits-that-damage-hair",
+        "note": "Explains safer handling and lower heat when styling.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w34-aad-leave",
+        "title": "American Academy of Dermatology guide to leave-in conditioner",
+        "url": "https://www.aad.org/public/everyday-care/hair-scalp-care/hair/leave-in-conditioner-tips",
+        "note": "Distinguishes leave-in products and describes using them as directed.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the directions to distinguish rinse-out products from leave-ins before buying."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1581,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "how-to-audition-for-k-pop-entertainment-companies-2026": {
+    "id": "guide:how-to-audition-for-k-pop-entertainment-companies-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Read the exact agency notice before choosing a flight or preparing a clip. Use its official online route when available and wait for direct confirmation before planning around an in-person step.",
+    "forWhom": "People researching a K-pop agency audition from overseas or while visiting Korea.",
+    "conditions": [
+      "Eligibility and submission rules apply to the notice you select. Confirm any in-person event independently with the agency."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "K-pop online auditions",
+      "official Korean audition notice",
+      "application trip planning"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w34-jyp",
+        "title": "JYP Entertainment ongoing online audition notice",
+        "url": "https://audition.jype.com/audition/auditions/1",
+        "note": "Shows the published eligibility, audition fields and rules on editing submissions and receiving results.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check whether an online submission is available before booking travel."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1582,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-youtube-culture-popular-creators-and-trends": {
+    "id": "guide:korean-youtube-culture-popular-creators-and-trends",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with the destination office or venue’s own channel. Use a video to choose a place, then verify the address, access and open dates on the operator’s current page before adding it to your trip.",
+    "forWhom": "Travelers who want to use Korean YouTube videos to choose stops, workshops or food experiences.",
+    "conditions": [
+      "Videos can depict a past event, a seasonal menu or a private site. Verify the details that determine whether you can go."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean video travel research",
+      "Korean venue verification",
+      "local workshop videos"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w34-seoul-video",
+        "title": "Seoul Tourism Organization One More Trip",
+        "url": "https://english.visitseoul.net/onemoretrip",
+        "note": "Provides official Seoul experience and video discovery links.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w34-kto-food-video",
+        "title": "Korea Tourism Organization guide to the Korea Food Grand Master Center",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=600&page=1&sContsTtl=&sort=regDt&vcontsId=189628",
+        "note": "Identifies the center and its cooking videos. Check current programming directly.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Save the Korean place name from the video and check access on the operator’s website."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1583,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "getting-a-korean-driver-license-as-a-foreigner-2026": {
+    "id": "guide:getting-a-korean-driver-license-as-a-foreigner-2026",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "For a short rental, check whether the rental company accepts your international driving permit and documents. If you need a Korean licence, check exchange eligibility first, then use KoROAD’s new-licence procedure if exchange does not apply.",
+    "forWhom": "Visitors checking rental documents and foreign residents deciding how to get a Korean licence.",
+    "conditions": [
+      "Accepted documents and tests depend on your licence, issuer and class. Confirm your requirements with the examination office or rental provider."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "KoROAD licence procedure",
+      "foreign licence exchange",
+      "international permit rental"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w34-koroad-new",
+        "title": "KoROAD new Korean driving licence procedure",
+        "url": "https://www.safedriving.or.kr/enGuide/selectEnGuide01.do",
+        "note": "Lists safety education, checks, tests and available written-test languages.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w34-koroad-exchange",
+        "title": "KoROAD foreign driving licence exchange",
+        "url": "https://www.safedriving.or.kr/enGuide/selectEnGuide22.do",
+        "note": "Explains licence exchange documents and written-test exceptions for eligible licences.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w34-kto-rental",
+        "title": "Korea Tourism Organization car rental guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=251489",
+        "note": "Lists the international permit and passport as documents to check for a visitor rental.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check permit acceptance before paying for a rental, or exchange eligibility before booking a test."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1584,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "same-day-consultations-and-procedures-pros-and-cons": {
+    "id": "guide:same-day-consultations-and-procedures-pros-and-cons",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Confirm what the appointment includes. If the clinic proposes treatment after the consultation, take time to ask about alternatives, risks, cost and follow-up before deciding whether to proceed.",
+    "forWhom": "Travelers considering a booking that may combine a medical consultation and an elective procedure.",
+    "conditions": [
+      "The treating clinician determines what can be offered and whether it is appropriate. Ask for written terms and flexible travel plans."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "same-day clinic appointments",
+      "consultation versus treatment",
+      "elective care logistics"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w34-khidi",
+        "title": "KHIDI information for foreign patients",
+        "url": "https://www.medicalkorea.or.kr/korp/notice/faqView.do?faqSn=48",
+        "note": "Covers information to discuss about treatment, possible side effects and estimated charges.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w34-fcdo",
+        "title": "UK travel guidance on treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Discusses arrangements for care after treatment and what to do if there are complications.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask how the cost and booking terms change if you schedule consultation and treatment separately."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1585,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "filler-types-hyaluronic-acid-vs-calcium-hydroxylapatite": {
+    "id": "guide:filler-types-hyaluronic-acid-vs-calcium-hydroxylapatite",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "HA means hyaluronic acid and CaHA means calcium hydroxylapatite. Ask the clinician for the exact product name and patient labeling in Korea before drawing conclusions from either abbreviation.",
+    "forWhom": "International patients reading a Korean clinic quote that names HA or CaHA.",
+    "conditions": [
+      "Products and regulatory labeling vary by country. The treating clinician should explain proposed use, alternatives and risks."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "HA CaHA filler label",
+      "patient labeling in Korea",
+      "clinic estimate product name"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w34-fda-ingredients",
+        "title": "FDA guide to dermal filler materials",
+        "url": "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/fda-approved-dermal-fillers",
+        "note": "Distinguishes hyaluronic acid and calcium hydroxylapatite materials in US-regulated examples.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w34-fda-label",
+        "title": "FDA consumer guidance on dermal filler labeling",
+        "url": "https://www.fda.gov/consumers/consumer-updates/dermal-filler-dos-and-donts-wrinkles-lips-and-more",
+        "note": "Advises discussing a proposed filler and asking to read its patient labeling.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Use the exact product name to check the labeling and discuss the proposed use with the clinician."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1586,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "mental-health-support-for-expats-english-speaking-therapy-in-seoul-2026": {
+    "id": "guide:mental-health-support-for-expats-english-speaking-therapy-in-seoul-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Contact the provider directly and ask for an appointment with a clinician who can see you in English. Confirm the service, cost and availability before traveling to the office.",
+    "forWhom": "English-speaking visitors and residents looking for a scheduled appointment in Seoul.",
+    "conditions": [
+      "Published appointment routes do not establish available appointments or insurance coverage. Contact the provider for current arrangements."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "English mental health appointment",
+      "Seoul counseling intake",
+      "Seoul district mental health directory"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w34-mohw-district",
+        "title": "Korean Ministry of Health and Welfare district mental health directory",
+        "url": "https://www.mohw.go.kr/menu.es?mid=a10706040300",
+        "note": "Lists district mental health centers and contact details. Confirm languages directly.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w34-withme",
+        "title": "With Me Counseling Center English appointment information",
+        "url": "https://withmecounseling.co.kr/en",
+        "note": "Gives the provider’s instructions for requesting an English appointment. Confirm availability directly.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w34-jej",
+        "title": "JEJ Clinic English appointment information",
+        "url": "https://jejclinic.com/english/",
+        "note": "Gives the clinic’s English appointment contact and recommends checking fees and insurance.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the type of appointment, language, fee and next available date directly."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1587,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
   }
 }

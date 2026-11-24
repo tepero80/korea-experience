@@ -17,6 +17,8 @@ The [Korea Tourism Organization’s filming-location guide](https://english.visi
 | Yongma Land | The Seoul outdoor studio may be hired privately. Confirm visitor access, fees and photography rules for your day. |
 | Everland | The filmed performance took place in Yongin. Match the park opening, ticket, zone access and ride operation to your own itinerary. |
 
+If you found the location through a clip, use the [Korean video planning checklist](/blog/korean-youtube-culture-popular-creators-and-trends) to check the scene’s date and the operator’s current access rules.
+
 ## Save the correct Korean address
 
 - Yongma Land · 서울특별시 중랑구 망우로70길 118 · [Google Maps](https://www.google.com/maps/search/?api=1&query=Yongma+Land+Jungnang+Seoul)
