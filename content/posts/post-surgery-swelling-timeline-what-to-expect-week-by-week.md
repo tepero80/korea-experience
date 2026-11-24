@@ -168,4 +168,4 @@ The information provided in this blog post is for general informational purposes
 In case of a medical emergency during your stay in Korea, please use the following contact numbers:
 
 *   **119:** For ambulance services (similar to 911 in North America)
-*   **1339:** For medical consultation and interpretation services (available in multiple languages)
+* Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

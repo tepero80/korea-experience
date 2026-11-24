@@ -287,5 +287,5 @@ The information provided in this blog post is intended for general informational
 
 ## Emergency Contacts in Korea
 
-*   **Emergency (Ambulance, Fire, Police):** 119
-*   **Medical Information Center (24/7):** 1339 (provides medical consultation, hospital information, and translation services)
+* Call **119** for an ambulance or fire service. For police, call **112**.
+* Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

@@ -272,4 +272,4 @@ The information provided in this blog post is for general informational purposes
 ### Emergency Contact Numbers in Korea
 
 *   **Ambulance/Emergency Services (including medical emergency):** Dial **119**
-*   **Medical Information and Consultation for Foreigners (24/7):** Dial **1339** (services in English, Chinese, Japanese, and Vietnamese)
+* Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

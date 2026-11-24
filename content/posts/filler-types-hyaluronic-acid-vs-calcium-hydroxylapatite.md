@@ -34,8 +34,10 @@ For more details, check out our guide on [Laser Treatment in Korea](/blog/laser-
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The content provided here is for informational purposes only and does not constitute medical advice. Always consult with a board-certified dermatologist or plastic surgeon in Korea before undergoing any procedure. In case of a medical emergency in Korea, dial 119. For medical consultation help in English, dial 1339.
+  Ask the treating clinician about your care. For a medical emergency in Korea, call 119.
 </InfoBox>
+
+Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.
 
 ## The Korean Aesthetic Market: A Quick Overview
 

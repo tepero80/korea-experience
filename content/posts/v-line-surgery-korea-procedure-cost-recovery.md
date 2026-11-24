@@ -317,4 +317,4 @@ This blog post provides general information about V-line surgery in Korea and is
 
 In case of a medical emergency during your stay in Korea, please use the following numbers:
 *   **119:** For ambulance services (emergency medical services and fire department). Operators can often connect you with an English speaker.
-*   **1339:** For medical consultation and information in English (24/7 service operated by the Ministry of Health and Welfare, connecting you to doctors for advice or directing you to appropriate medical facilities).
+* Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

@@ -269,6 +269,6 @@ The information provided in this blog post is intended for general informational
 
 In case of a medical emergency during your stay in Korea:
 *   **119:** For ambulance services, fire, or other emergencies. This number is free and available 24/7.
-*   **1339:** For medical consultation and information from the National Emergency Medical Center. This number can connect you with medical professionals who can provide advice in English and guide you to appropriate medical facilities.
+* Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.
 
 ---

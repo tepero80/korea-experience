@@ -145,8 +145,8 @@ Here's a table of common interpretation services and key contacts:
 | :-------------------------------- | :--------------------------------------------------------------------------- | :------------------------------------------------------------------ |
 | **Hospital International Offices** | Dedicated departments at major hospitals for foreign patients, offering interpretation, coordination, and administrative support. | Check individual hospital websites (e.g., Asan, Samsung, Severance). |
 | **Medical Interpreters**          | Professional, certified interpreters available for hire or via hospital.     | Often arranged directly through hospital international offices.     |
-| **Medical Tourism Hubs**          | Government-supported centers offering information and support for medical tourists. | Korea Medical Tourism Center: +82-2-1339 (general info)             |
-| **Emergency Medical Hotline**     | For urgent medical advice and general health inquiries (English available).  | 1339 (available 24/7)                                               |
+| **Visitor information** | Check travel information and interpretation options through the visitor contact guide below. | See current contact options. |
+| **Medical emergency** | Ambulance or fire service. Give your location and ask for interpretation if needed. | **119** |
 
 ### Pharmacy Access and Medication Equivalents
 The Korean pharmaceutical system is highly regulated, and you may find that some medications you take at home are not available, or have different brand names and dosages.
@@ -157,8 +157,8 @@ The Korean pharmaceutical system is highly regulated, and you may find that some
 
 ### Emergency Protocols and Local Contacts
 Understanding emergency procedures is vital for any international traveler.
-*   **Emergency Hotline (119):** For immediate medical emergencies (ambulance, fire, police), dial 119. Operators can connect you to English-speaking services.
-*   **Medical Consultation Hotline (1339):** For non-emergency medical advice or to find a medical facility, dial 1339. This service is available 24/7 and offers consultation in several languages, including English.
+* Call **119** for an ambulance or fire service. For police, call **112**.
+* Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.
 *   **Hospital Emergency Rooms:** Major hospitals have fully equipped emergency rooms (응급실 - Eunggeupsil). If you need to go to an ER, try to go to one with an international clinic or a reputation for treating foreign patients.
 *   **Know Your Location:** Always have the address of your accommodation and the hospital in Korean, along with phone numbers for your medical coordinator or interpreter, readily available.
 
@@ -179,7 +179,7 @@ To ensure a smooth pre-operative process in Korea:
 4.  **Questions List:** Write down all your questions for the doctor and medical team.
 5.  **Travel Insurance:** Ensure your medical travel insurance covers your planned procedure and any potential complications in Korea.
 6.  **Accommodation & Logistics:** Plan your accommodation near the hospital, especially for your recovery period. Research local transportation options.
-7.  **Contact Info:** Keep emergency contact numbers (119, 1339, hospital international desk) and the local address of your accommodation handy.
+7. **Contact details** Save the clinic’s daytime and after-hours numbers, **119** for ambulance or fire, **112** for police and your accommodation’s Korean address.
 
 ### Recommended Korean Hospitals for International Patients
 Korea boasts numerous hospitals with excellent international programs. Here are a few prominent examples known for their high standards and services for medical tourists:
@@ -226,5 +226,4 @@ The information provided in this blog post is intended for general informational
 
 ## Emergency Contact Numbers
 
-*   **Emergency Services (Ambulance, Fire, Police):** Dial 119
-*   **Medical Consultation Hotline (English available, 24/7):** Dial 1339
+* Call **119** for an ambulance or fire service. For police, call **112**.

@@ -31974,5 +31974,329 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
       "note": "Photographed 2017-05-21. Resized and converted to WebP. Historical image of a station sign."
     }
+  },
+  "korean-healthcare-system-using-national-health-insurance": {
+    "id": "guide:korean-healthcare-system-using-national-health-insurance",
+    "format": "how-to",
+    "categoryId": "travel-essentials",
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "checkedAt": "2026-11-24",
+    "interests": [
+      "national health insurance status"
+    ],
+    "forWhom": "Foreign residents and workers checking Korean National Health Insurance before a visit or after a change of status",
+    "answer": "Confirm your NHIS enrollment category and start date before assuming a clinic can bill insurance. Ask your employer about workplace coverage or contact NHIS with your status and address to check another route.",
+    "conditions": [
+      "Residence status, employer reporting and dependent eligibility can change your enrollment and billing.",
+      "The contribution figure applies to the 2026 workplace health premium, before separate long-term care and other adjustments."
+    ],
+    "sources": [
+      {
+        "id": "nhis-foreigner-enrollment",
+        "title": "NHIS: Health insurance guidance for foreigners",
+        "url": "https://www.nhis.or.kr/english/wbheaa02900m01.do",
+        "note": "Describes workplace, local and dependent routes and status-specific conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nhis-foreigner-centers",
+        "title": "NHIS: Foreign resident centers and English consultant",
+        "url": "https://www.nhis.or.kr/english/wbheaa02100m01.do",
+        "note": "Lists current contact details and centers.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nhis-rate-2026",
+        "title": "NHIS: Contribution rate",
+        "url": "https://www.nhis.or.kr/english/wbheaa02500m01.do",
+        "note": "Lists the 7.19% 2026 workplace contribution and how employer and employee divide it.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nhis-local-notice",
+        "title": "NHIS: 2026 foreign local subscriber contribution notice (Korean)",
+        "url": "https://edi.nhis.or.kr/portal/images/popup/20251204_pop01longdesc.html",
+        "note": "Describes the 2026 average used in the foreign local subscriber rules and relevant components.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "top-international-hospitals-in-seoul-where-to-go-for-emergencies-2026",
+        "type": "next",
+        "label": "Find urgent care in Seoul",
+        "reason": "Use 119 and the official emergency department resources when urgent care is needed."
+      }
+    ],
+    "shareFacts": [
+      "Confirm category, start date and any outstanding notice.",
+      "The workplace rate and local premium use different calculations."
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1352,
+    "heroOmissionReason": "The checklist focuses on official requirements and written documents. A facility or procedure photo could incorrectly imply a recommendation."
+  },
+  "korea-plastic-surgery-cost-guide-2026": {
+    "id": "guide:korea-plastic-surgery-cost-guide-2026",
+    "format": "how-to",
+    "categoryId": "travel-essentials",
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "checkedAt": "2026-11-24",
+    "interests": [
+      "surgery written estimate"
+    ],
+    "forWhom": "International visitors checking the price and contract of a proposed consultation or procedure in Korea",
+    "answer": "Ask the clinic doing the work to send a written quote for the exact treatment and branch. Check the deposit, included visits and extra costs before you decide.",
+    "conditions": [
+      "The expected price and final amount depend on the individual clinic and care agreed.",
+      "Compare like-for-like estimates. Transportation, lodging and extra follow-up can affect the trip budget."
+    ],
+    "sources": [
+      {
+        "id": "medical-korea-registry",
+        "title": "Medical Korea: Search registered institutions",
+        "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+        "note": "Search by facility and check the exact branch.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "khidi-overseas-patient-disclosure",
+        "title": "Medical Korea: Treatment and estimated cost disclosures (Korean)",
+        "url": "https://www.medicalkorea.or.kr/korp/notice/faqView.do?faqSn=48",
+        "note": "Describes information registered institutions must communicate to foreign patients, including estimated costs and dispute procedures.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hira-non-covered",
+        "title": "HIRA: Published non-covered fees (Korean)",
+        "url": "https://www.hira.or.kr/npay/index.do",
+        "note": "Offers search for listed items; confirm the latest clinic-specific estimate and scope.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "k-medi-dispute-records",
+        "title": "Korea Medical Dispute Mediation and Arbitration Agency: Required documents",
+        "url": "https://k-medi.or.kr/eng/lay1/S239T368C374/contents.do",
+        "note": "Lists clinical records and supporting documents for a mediation application.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "next",
+        "label": "Save the emergency contact guide",
+        "reason": "Keep the official help numbers accessible before any clinic visit."
+      }
+    ],
+    "shareFacts": [
+      "Request a dated quote from the exact clinic.",
+      "Ask what a deposit covers and what additional care costs."
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1353,
+    "heroOmissionReason": "The checklist focuses on official requirements and written documents. A facility or procedure photo could incorrectly imply a recommendation."
+  },
+  "korean-orthodontics-guide-invisalign-vs-local-clear-aligner-costs-2026": {
+    "id": "guide:korean-orthodontics-guide-invisalign-vs-local-clear-aligner-costs-2026",
+    "format": "how-to",
+    "categoryId": "travel-essentials",
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "checkedAt": "2026-11-24",
+    "interests": [
+      "orthodontic transfer planning"
+    ],
+    "forWhom": "Visitors or foreign residents comparing clear-aligner offers and expecting time outside Korea",
+    "answer": "Ask for the complete written orthodontic plan before choosing by brand or initial fee. Confirm the review schedule and who is willing to care for you if you move.",
+    "conditions": [
+      "The treating orthodontic team determines which plan is clinically suitable.",
+      "A receiving clinic has its own acceptance, record and fee requirements. Confirm directly before paying."
+    ],
+    "sources": [
+      {
+        "id": "khidi-overseas-patient-disclosure",
+        "title": "Medical Korea: Treatment and estimated cost disclosures (Korean)",
+        "url": "https://www.medicalkorea.or.kr/korp/notice/faqView.do?faqSn=48",
+        "note": "Describes information registered institutions must communicate to foreign patients, including estimated costs and dispute procedures.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "medical-korea-registry",
+        "title": "Medical Korea: Search registered institutions",
+        "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+        "note": "Search by facility and check the exact branch.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "k-medi-dispute-records",
+        "title": "Korea Medical Dispute Mediation and Arbitration Agency: Required documents",
+        "url": "https://k-medi.or.kr/eng/lay1/S239T368C374/contents.do",
+        "note": "Lists clinical records and supporting documents for a mediation application.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [],
+    "shareFacts": [
+      "Include visits and retainers in the total.",
+      "Confirm whether a receiving clinic will take your case."
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1354,
+    "heroOmissionReason": "The checklist focuses on official requirements and written documents. A facility or procedure photo could incorrectly imply a recommendation."
+  },
+  "managing-bruising-and-scarring-korean-skincare-approach": {
+    "id": "guide:managing-bruising-and-scarring-korean-skincare-approach",
+    "format": "how-to",
+    "categoryId": "travel-essentials",
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "checkedAt": "2026-11-24",
+    "interests": [
+      "surgery aftercare handover"
+    ],
+    "forWhom": "Visitors arranging aftercare after a procedure in Korea",
+    "answer": "Follow the treating clinician’s written instructions for your procedure. If bruising, swelling or a scar concerns you, contact the team for individual advice. Call 119 for a medical emergency in Korea.",
+    "conditions": [
+      "Keep the clinic’s contact details and any specific discharge instructions accessible.",
+      "If you are outside Korea, use the local emergency service when urgent help is needed."
+    ],
+    "sources": [
+      {
+        "id": "kto-emergency-help",
+        "title": "VISITKOREA: Emergency contacts and interpretation",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=217&vcontsId=248145",
+        "note": "Identifies 119 for ambulance and fire service, 112 for police, and how to request an interpreter.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "khidi-overseas-patient-disclosure",
+        "title": "Medical Korea: Treatment and estimated cost disclosures (Korean)",
+        "url": "https://www.medicalkorea.or.kr/korp/notice/faqView.do?faqSn=48",
+        "note": "Describes information registered institutions must communicate to foreign patients, including estimated costs and dispute procedures.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "k-medi-dispute-records",
+        "title": "Korea Medical Dispute Mediation and Arbitration Agency: Required documents",
+        "url": "https://k-medi.or.kr/eng/lay1/S239T368C374/contents.do",
+        "note": "Lists clinical records and supporting documents for a mediation application.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "next",
+        "label": "Save emergency call steps",
+        "reason": "See how to share a location and request interpretation on a 119 call."
+      }
+    ],
+    "shareFacts": [
+      "Keep your treating team and out-of-hours contact.",
+      "Call 119 for a medical emergency in Korea."
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1355,
+    "heroOmissionReason": "The checklist focuses on official requirements and written documents. A facility or procedure photo could incorrectly imply a recommendation."
+  },
+  "scalp-micropigmentation-smp-in-korea-best-clinics-for-hair-density-2026": {
+    "id": "guide:scalp-micropigmentation-smp-in-korea-best-clinics-for-hair-density-2026",
+    "format": "how-to",
+    "categoryId": "travel-essentials",
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "checkedAt": "2026-11-24",
+    "interests": [
+      "scalp tattoo service verification"
+    ],
+    "forWhom": "Visitors considering a cosmetic scalp micropigmentation appointment in Korea",
+    "answer": "Before paying a deposit, identify the person performing the service, where it takes place, how the price is calculated and who can help afterward.",
+    "conditions": [
+      "The May 2026 ruling concerned ordinary cosmetic scalp tattooing under the former Medical Service Act.",
+      "The published Tattooist Act has a scheduled effective date of October 29, 2027. Check the rules that apply on your appointment date."
+    ],
+    "sources": [
+      {
+        "id": "korean-smp-judgment",
+        "title": "Supreme Court judgment 2021Do15611 (Korean)",
+        "url": "https://www.law.go.kr/LSW/precInfoP.do?precSeq=622115",
+        "note": "The case specifically concerned ordinary cosmetic scalp tattooing and the former Medical Service Act.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korean-tattooist-act",
+        "title": "Korean Tattooist Act (Korean)",
+        "url": "https://www.law.go.kr/LSW/lsInfoP.do?lsiSeq=279291",
+        "note": "Lists the scheduled effective date of October 29, 2027.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "medical-korea-registration",
+        "title": "Medical Korea: Foreign-patient institution registration",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "note": "Explains registration for institutions recruiting foreign patients; useful when a facility offers medical services.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-emergency-help",
+        "title": "VISITKOREA: Emergency contacts and interpretation",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=217&vcontsId=248145",
+        "note": "Identifies 119 for ambulance and fire service, 112 for police, and how to request an interpreter.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "next",
+        "label": "Save local emergency contacts",
+        "reason": "Keep the appropriate contact for an urgent health problem while traveling."
+      }
+    ],
+    "shareFacts": [
+      "Check the named practitioner and follow-up contact.",
+      "The Tattooist Act lists October 29, 2027, as its effective date."
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1356,
+    "heroOmissionReason": "The checklist focuses on official requirements and written documents. A facility or procedure photo could incorrectly imply a recommendation."
   }
 }

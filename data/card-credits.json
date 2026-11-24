@@ -4874,5 +4874,30 @@
       "note": "Photographed 2017-05-21. Resized and converted to WebP. Historical image of a station sign."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korean-healthcare-system-using-national-health-insurance": {
+    "src": "/images/cards/korean-healthcare-system-using-national-health-insurance.jpg",
+    "fingerprint": "6590a62557c6cb30427096488c080a92d5c464b1db811454bd01f01449171706",
+    "adaptation": "Typographic social preview."
+  },
+  "korea-plastic-surgery-cost-guide-2026": {
+    "src": "/images/cards/korea-plastic-surgery-cost-guide-2026.jpg",
+    "fingerprint": "601e63df53112a55af8c48e99ba8d7f77b0a69e35c2150abf647d853d9454ecf",
+    "adaptation": "Typographic social preview."
+  },
+  "korean-orthodontics-guide-invisalign-vs-local-clear-aligner-costs-2026": {
+    "src": "/images/cards/korean-orthodontics-guide-invisalign-vs-local-clear-aligner-costs-2026.jpg",
+    "fingerprint": "e9084f460371bf4048c8a137e291cf5746e57981f1ebbc3d8d2284149f2d73bb",
+    "adaptation": "Typographic social preview."
+  },
+  "managing-bruising-and-scarring-korean-skincare-approach": {
+    "src": "/images/cards/managing-bruising-and-scarring-korean-skincare-approach.jpg",
+    "fingerprint": "68c8980eed027fdc6f732ea3e0e79fcd249c269aff191dc7296018cb00844398",
+    "adaptation": "Typographic social preview."
+  },
+  "scalp-micropigmentation-smp-in-korea-best-clinics-for-hair-density-2026": {
+    "src": "/images/cards/scalp-micropigmentation-smp-in-korea-best-clinics-for-hair-density-2026.jpg",
+    "fingerprint": "86bb469a5f9d77c7cefec91f9ca88e667ac1fa9c119d8bd6ff0da9f019b86ab8",
+    "adaptation": "Typographic social preview."
   }
 }

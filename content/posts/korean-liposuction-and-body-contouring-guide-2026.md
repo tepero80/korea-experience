@@ -31,8 +31,10 @@ Korean liposuction and body contouring represent the pinnacle of aesthetic medic
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The content provided in this article is for informational purposes only and does not constitute medical advice. Always consult with a board-certified plastic surgeon before undergoing any procedure. If you experience a medical emergency in Korea, dial 119 for an ambulance or 1339 for medical consultation services in English.
+  Ask the treating clinician about your care. For a medical emergency in Korea, call 119.
 </InfoBox>
+
+Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.
 
 ## Why choose Korea for body contouring in 2026?
 

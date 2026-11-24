@@ -252,7 +252,7 @@ Strictly adhere to all post-operative instructions provided by your surgeon and 
 
 While complications are rare, it's essential to know who to contact in an emergency.
 *   **Ambulance/Medical Emergency**: Dial **119** (similar to 911). Operators can connect you with medical services.
-*   **Medical Information Center**: For general medical consultation and interpretation services (including English), dial **1339**.
+* Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.
 
 ## Medical Disclaimer
 

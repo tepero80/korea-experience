@@ -289,4 +289,4 @@ The information provided in this blog post is intended for general informational
 In case of a medical emergency during your stay in Korea, please use the following contact numbers:
 
 *   **119:** For ambulance and fire services. This number is accessible nationwide.
-*   **1339:** For medical consultation and general health information. This hotline offers services in multiple languages, including English.
+* Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.

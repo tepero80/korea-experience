@@ -18,8 +18,10 @@ image: "/images/korea-medical-tourism-packages-what-s-included.webp"
 ---
 
 <InfoBox type="warning" title="Medical Disclaimer">
-The information provided in this guide is for educational purposes only and does not constitute medical advice. Always consult with a qualified healthcare professional before undergoing any medical procedures. For medical emergencies in Korea, dial 119. For medical consultation and interpretation services, dial 1339.
+  Ask the treating clinician about your care. For a medical emergency in Korea, call 119.
 </InfoBox>
+
+Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.
 
 Korea medical tourism packages typically include a bundled service offering: the primary medical procedure (surgery, treatment, or checkup), professional medical interpretation, airport transfers, and occasionally accommodation or recovery care services. In 2026, the definition of these packages has expanded to include "concierge" elements, such as visa processing support (specifically for the C-3-3 medical visa), tax refund assistance (approx. 7-10% return on eligible procedures), and post-operative aftercare management. Unlike all-inclusive vacation resorts, however, flights and daily meals are rarely included in standard medical packages unless you are booking a premium VIP tier service, which can cost upwards of $20,000 USD.
 

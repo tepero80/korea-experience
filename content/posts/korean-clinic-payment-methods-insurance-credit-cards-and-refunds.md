@@ -39,8 +39,10 @@ In 2026, the medical tourism sector in Korea has fully rebounded, expecting over
 This guide covers everything from the "cash discount" culture in Gangnam plastic surgery clinics to the specific banking codes required for wire transfers, ensuring you don't get stuck with a declined card 5,000 miles from home.
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  We are travel and lifestyle experts, not financial or medical advisors. While we strive to keep this data accurate for 2026, banking regulations and clinic policies can change. Always confirm payment methods in writing before your appointment. Emergency Medical Information Center: 1339.
+  Ask the treating clinician about your care. For a medical emergency in Korea, call 119.
 </InfoBox>
+
+Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.
 
 ## Payment Methods: What is Accepted?
 

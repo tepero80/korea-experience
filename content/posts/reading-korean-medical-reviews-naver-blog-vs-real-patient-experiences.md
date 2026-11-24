@@ -30,8 +30,10 @@ Navigating the landscape of Korean medical tourism can feel like walking through
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The content provided in this article is for informational purposes only and does not constitute medical advice. Always consult with a qualified healthcare professional before undergoing any medical procedures. In case of a medical emergency in Korea, dial 119. For medical consultation in English, dial 1339.
+  Ask the treating clinician about your care. For a medical emergency in Korea, call 119.
 </InfoBox>
+
+Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.
 
 ## The Digital Divide: Why Google Is Not Enough
 
