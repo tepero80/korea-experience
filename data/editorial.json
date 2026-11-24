@@ -28066,5 +28066,110 @@
     },
     "cardImageLabel": "Dongmyo Flea Market stalls",
     "cardImageCrop": "contain"
+  },
+  "photography-tours-best-spots-and-golden-hour-timing": {
+    "id": "guide:photography-tours-best-spots-and-golden-hour-timing",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Use your date and city to find the local sunrise or sunset. Then work backward from gate access, the approach and your last ride.",
+    "forWhom": "Visitors planning a phone or camera outing in Seoul, Gyeongju or Jeju",
+    "conditions": [
+      "Sunrise and sunset vary by place and date.",
+      "Opening rules, weather and available transportation can change."
+    ],
+    "regions": [
+      "seoul",
+      "gyeongju",
+      "jeju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "photography",
+      "night views"
+    ],
+    "relations": [
+      {
+        "slug": "photographer-guide-to-seoul-best-golden-hour-spots-2026",
+        "type": "next",
+        "label": "Choose a Seoul viewpoint",
+        "reason": "Use a local approach to a hill or riverside viewpoint and plan the way back."
+      },
+      {
+        "slug": "gyeongju-donggung-wolji-woljeonggyo-evening-walk",
+        "type": "next",
+        "label": "Plan a Gyeongju evening",
+        "reason": "Put the timed pond visit and the bridge in a practical order."
+      },
+      {
+        "slug": "seongsan-ilchulbong-by-bus-from-jeju-city",
+        "type": "prepare",
+        "label": "Plan your ride in Jeju",
+        "reason": "Check which bus serves the approach and when you can get back."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kasi-local-rise-set",
+        "title": "KASI: local sunrise and sunset by date",
+        "url": "https://astro.kasi.re.kr/life/pageView/6",
+        "note": "Location-specific times and method note.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-namsan-tower",
+        "title": "VISITKOREA: N Seoul Tower",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88026",
+        "note": "Location and visitor information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "namsan-tower-cable-car",
+        "title": "N Seoul Tower: cable car approach",
+        "url": "https://www.nseoultower.co.kr/eng/visit/traffic2.asp",
+        "note": "Approach from the upper cable-car station.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "gyeongju-wolji-park",
+        "title": "Gyeongju City: Donggung Palace and Wolji Pond",
+        "url": "https://www.gyeongju.go.kr/tour/page.do?area_uid=50&cmd=2&mnu_uid=4716",
+        "note": "Site address, ticketing and opening information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-jeju-seongsan-approach",
+        "title": "Visit Jeju: Seongsan Ilchulbong",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500349&menuId=DOM_700000000010774",
+        "note": "Separate visitor routes and current operating guidance.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check local sunrise and sunset for your visit date.",
+      "Work back from the gate, walking approach and last ride."
+    ],
+    "launchOrder": 1302,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-wolji-pavilions-reflection-2016",
+    "heroCaption": "Donggung Palace reflected in Wolji Pond in an August 2016 photograph. Check today’s entry cutoff and lighting before planning an evening visit.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Ckdeo8282",
+      "title": "Night view of Donggung and Wolji.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Night_view_of_Donggung_and_Wolji.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Pavilions reflected in Wolji Pond",
+    "cardImageCrop": "contain"
   }
 }

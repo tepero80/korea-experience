@@ -33,7 +33,7 @@ function readMapLink(href?: string): MapLink | undefined {
       const match = pathname.match(/^\/(?:p|v5)\/search\/([^/]+)/);
       return { provider: 'naver', href, query: match ? decodeURIComponent(match[1]) : null };
     }
-    if (hostname === 'map.kakao.com' || hostname === 'kko.to') {
+    if (hostname === 'map.kakao.com' || hostname === 'place.map.kakao.com' || hostname === 'kko.to') {
       if (hostname === 'map.kakao.com' && pathname === '/') return;
       const place = pathname.match(/^\/link\/search\/([^/]+)/);
       const coordinates = pathname.match(/^\/link\/map\/.*?,(-?\d+\.?\d*,-?\d+\.?\d*)$/);

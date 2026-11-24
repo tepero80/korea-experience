@@ -10814,5 +10814,51 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
     },
     "caption": "Books, small objects and clothing on a Dongmyo shop display in July 2024."
+  },
+  {
+    "id": "archive-wolji-pavilions-reflection-2016",
+    "src": "/images/editorial/archive-wolji-pavilions-reflection-2016-1280.webp",
+    "srcSet": "/images/editorial/archive-wolji-pavilions-reflection-2016-640.webp 640w, /images/editorial/archive-wolji-pavilions-reflection-2016-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Two illuminated pavilions at Donggung Palace reflected in Wolji Pond against a dim blue sky.",
+    "focal": "49% 64%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Night_view_of_Donggung_and_Wolji.jpg",
+    "originalHash": "2cb345ff491e7c798e04a25ccc128dd9469dccb3111762d6516ba7a2b51d97dc",
+    "capturedAt": "2016-08-16",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Ckdeo8282",
+      "title": "Night view of Donggung and Wolji.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Night_view_of_Donggung_and_Wolji.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Donggung Palace reflected in Wolji Pond in an August 2016 photograph. Check today’s entry cutoff and lighting before planning an evening visit."
+  },
+  {
+    "id": "archive-namsan-dusk-panorama-2011",
+    "src": "/images/editorial/archive-namsan-dusk-panorama-2011-1280.webp",
+    "srcSet": "/images/editorial/archive-namsan-dusk-panorama-2011-640.webp 640w, /images/editorial/archive-namsan-dusk-panorama-2011-1280.webp 1280w",
+    "width": 1280,
+    "height": 581,
+    "alt": "An orange band on the horizon above the Seoul skyline and city lights, viewed from Namsan Park.",
+    "focal": "47% 70%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul_at_Dusk.jpg",
+    "originalHash": "071d11415bfdca61d4e2bb0f14590852f07e42798d40ff399b017f2cbf718d40",
+    "capturedAt": "2011-10-30",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Markrosenrosen",
+      "title": "Seoul at Dusk.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_at_Dusk.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "An October 2011 view from Namsan Park at dusk, with city lights coming on. The current skyline and access can differ."
   }
 ]

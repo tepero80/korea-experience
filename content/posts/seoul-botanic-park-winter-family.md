@@ -1,7 +1,7 @@
 ---
 title: "Seoul Botanic Park in Winter: Greenhouse and Family Activities"
 date: '2026-11-09'
-updated: '2026-11-09'
+updated: '2026-11-24'
 excerpt: "Check winter greenhouse entry times, admission and a time-limited family activity before visiting Seoul Botanic Park."
 category: places-itineraries
 image: /images/editorial/seoul-botanic-skywalk-1280.webp
@@ -33,4 +33,4 @@ The operator's [winter-hours notice](https://botanicpark.seoul.go.kr/front/board
 4. If the session is full, visit the greenhouse independently when open rather than promising the activity. For a fully indoor alternative, compare another venue in the [Seoul rainy-day itinerary](/blog/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets).
 
 
-[Search Seoul Botanic Park in Naver Map](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90) · [Google Maps for the Botanic Center greenhouse](https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90+%EC%8B%9D%EB%AC%BC%EB%AC%B8%ED%99%94%EC%84%BC%ED%84%B0+%EC%84%9C%EC%9A%B8%ED%8A%B9%EB%B3%84%EC%8B%9C+%EA%B0%95%EC%84%9C%EA%B5%AC+%EB%A7%88%EA%B3%A1%EB%8F%99%EB%A1%9C+161) and confirm the greenhouse entrance and your route before departure.
+[Naver Map for the greenhouse](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90%20%EC%98%A8%EC%8B%A4) · [Kakao Map for the greenhouse ticket office](https://place.map.kakao.com/685620458) · [Google Maps for the Theme Garden](https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90+%EC%A3%BC%EC%A0%9C%EC%A0%95%EC%9B%90&query_place_id=ChIJJbN8QnudfDURvQsk-xF40kc). Check the [park’s official site plan](https://botanicpark.seoul.go.kr/front/img/%EC%84%9C%EC%9A%B8%EC%8B%9D%EB%AC%BC%EC%9B%90%20%EC%A2%85%ED%95%A9%EC%95%88%EB%82%B4%EB%8F%84.pdf) for the **B1 greenhouse entrance** in **식물문화센터**. The Google link shows the wider Theme Garden area. The building address is **서울 강서구 마곡동로 161**.

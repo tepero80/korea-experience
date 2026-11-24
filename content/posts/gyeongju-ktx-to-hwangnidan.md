@@ -1,7 +1,7 @@
 ---
 title: "Gyeongju KTX Station to Hwangnidan-gil: Your Arrival and Return Plan"
 date: '2026-11-09'
-updated: '2026-11-09'
+updated: '2026-11-24'
 excerpt: "Plan the local bus or taxi from the current KTX station, and confirm your return bus reaches the station."
 category: airports-transport
 image: /images/editorial/transport-gyeongju-station-downtown-photo.webp
@@ -48,4 +48,4 @@ Gyeongju has separate express and intercity bus terminals. If choosing between a
 Once you have arrived, use our [two-day Gyeongju itinerary](/blog/gyeongju-the-museum-without-walls-2-day-historical-itinerary-2026) for a manageable sequence of historic sites. Check actual attraction opening and admission information before booking a return train.
 
 
-[Search Gyeongju Station in Naver Map](https://map.naver.com/p/search/%EA%B2%BD%EC%A3%BC%EC%97%AD) · [Google Maps for Gyeongju KTX Station](https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EC%A3%BC%EC%97%AD+%EA%B2%BD%EC%A3%BC%EC%8B%9C+%EA%B1%B4%EC%B2%9C%EC%9D%8D+%EC%8B%A0%EA%B2%BD%EC%A3%BC%EC%97%AD%EB%A1%9C+80) and confirm that the selected station is the current KTX station. Match the name and address **경주역 경주시 건천읍 신경주역로 80** against the [city visitor map](https://www.gyeongju.go.kr/hwangridan/images/gj_map_kor.pdf).
+[Naver Map for Gyeongju KTX Station](https://map.naver.com/p/search/%EA%B2%BD%EC%A3%BC%EC%97%AD) · [Kakao Map](https://map.kakao.com/link/search/%EA%B2%BD%EC%A3%BC%EC%97%AD) · [Google Maps for Gyeongju KTX Station](https://www.google.com/maps/search/?api=1&query=%EA%B2%BD%EC%A3%BC%EC%97%AD+%EA%B2%BD%EC%83%81%EB%B6%81%EB%8F%84+%EA%B2%BD%EC%A3%BC%EC%8B%9C+%EA%B1%B4%EC%B2%9C%EC%9D%8D+%EA%B2%BD%EC%A3%BC%EC%97%AD%EB%A1%9C+80&query_place_id=ChIJ2dyF_jtGZjUR_Y4Rhbk0Cto). Match **경주역 (KTX) · 경상북도 경주시 건천읍 경주역로 80** against the [city’s current rail directory](https://gyeongju.go.kr/tour/page.do?mnu_uid=4847). Some maps and older material still use **신경주역로** for the station in Geoncheon. Check the station on your ticket for the return ride.
