@@ -47,6 +47,8 @@ For the mask aisle, use the [Korean sheet-mask label and pack guide](/blog/korea
 
 If two products advertise the same ingredient, use the [Korean skincare label checklist](/blog/korean-skincare-ingredients-snail-mucin-to-centella) to compare the full formulas while you are in the aisle.
 
+If you want to compare packages before buying, use the [Korean skincare label guide](/blog/korean-skincare-ingredient-labels-for-visitors-translation-claims-and-patch-test) to find the exact ingredient list and use-by date.
+
 ## At checkout, identify the refund route
 
 Ask before paying whether the store participates and which route it offers. The [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736) lists **₩15,000 or more per qualifying receipt**. Its immediate refund rules set a payment limit **below ₩1,000,000** and a qualifying trip total of **₩5,000,000 or less**. Visitor eligibility and seller participation also matter.

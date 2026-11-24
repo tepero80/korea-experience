@@ -1,68 +1,43 @@
 ---
-title: "Korean Skincare Ingredient Labels for Visitors: Translation & Claims"
+title: "Reading Korean Skincare Labels: Ingredients and Dates"
 date: 2026-10-12
-excerpt: "Navigate Korean skincare labels, decode ingredient order, understand functional cosmetic claims, and learn safe at-home patch-testing protocols."
+updated: 2026-11-25
+excerpt: "Find ingredients, use-by dates and functional claims on Korean skincare packaging before you buy. Know when to ask for the outer box or wait to test a new product."
 category: "Shopping & K-Beauty"
-author: "Korea Experience Editorial Team"
+author: Korea Experience Editorial
 deepDive: true
-image: "/images/korean-skincare-ingredient-labels-for-visitors-translation-claims-and-patch-test.webp"
 ---
 
-Navigating domestic Korean skincare packaging can be challenging for visitors since back labels are frequently printed exclusively in Korean (`Hangul`) without English translations. Under South Korean regulations, cosmetic labeling follows strict legal structures designed to communicate ingredient concentration, safety information, and functional claims. 
+<span id="essential-label-terminology-for-visitors"></span>
 
----
+## Check the box before paying
 
-## Decoding Ingredient Lists and Legal Order
+Make sure the box is for the exact formula and size you want. The [Korean Ministry of Food and Drug Safety’s labeling guide](https://mfds.go.kr/wpge/m_645/de050601l0024.do) lists the information to look for and explains that some small packages have different requirements. If information is missing from a tube or sachet, ask for the outer box or the label for the exact product.
 
-Under the South Korean Cosmetic Act, all cosmetic ingredients must be listed in descending order of concentration. 
+| Label | What to check |
+| --- | --- |
+| **전성분** | Ingredient list. Compare the exact ingredient name if you know there is one you need to avoid. |
+| **사용기한** | The use-by date. Check it on the package you take home. |
+| **개봉 후 사용기간** | How long the maker says to use the product after opening. Keep the package so you can check it later. |
+| **기능성화장품** | A functional cosmetic. Check the specific stated use and instructions for this product. |
 
-* **The Base Formula:** The first five ingredients listed typically constitute the base of the product, accounting for roughly 80% to 90% of the overall formula.
-* **Low-Concentration Exceptions:** Ingredients present at concentrations under 1% may be listed in any arbitrary order. This can sometimes place high-visibility marketing extracts higher or lower on the label than their actual volume dictates.
+Show **전성분을 보여 주시겠어요?** to ask, “Could you show me the ingredients?” Take a picture of the label and product name if you want to compare later. When you need to avoid a specific ingredient, confirm its name with the manufacturer or choose a product you can identify.
 
-Domestic retail packaging purchased inside South Korea will usually display the full ingredient list under the heading **전성분** (*Jeon-seong-bun*). Because independent boutique brands or offline pop-up shops may not feature English text on their packaging, international visitors often rely on localized beauty database apps (such as Hwahae) or image-translation tools to parse the text. Hwahae also provides an English global website interface featuring category rankings and translated consumer reviews.
+<span id="decoding-ingredient-lists-and-legal-order"></span>
+<span id="understanding-functional-cosmetics-and-allergen-regulations"></span>
 
----
+## Compare the ingredient list with the claim
 
-## Essential Label Terminology for Visitors
+The [Korean labeling rule](https://www.law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=154943955&gubun=) generally lists ingredients from larger to smaller amounts. It allows ingredients used at 1% or less, fragrance and colorants to appear out of that order. The listed position does not give you the exact amount. If you are comparing two products, check which ingredients are present and which version of each product you have.
 
-When examining Korean skincare bottles and outer boxes, look for these key text fields to understand product freshness and dating:
+The Korean regulator [describes evaluation and reporting routes](https://mfds.go.kr/eng/wpge/m_24/de011014l001.do) for functional cosmetics. Read the specific claim and instructions on the label. A shared label or a translated marketing phrase gives you little information about whether a formula will suit your skin.
 
-| Korean Term | Romanization | English Translation / Meaning |
-| :--- | :--- | :--- |
-| **전성분** | *Jeon-seong-bun* | Full ingredient list |
-| **제조일자** | *Jejo-iljja* | Manufacturing date |
-| **사용기한** | *Sayong-gihan* | Expiry date / use-by date |
-| **개봉 후 사용기간** | *Gaebong hu sayong-gigan* | Period after opening (PAO) |
+<span id="at-home-patch-testing-protocols-for-visitors"></span>
 
----
+## Decide whether to use the product on your trip
 
-## Understanding Functional Cosmetics and Allergen Regulations
+If you have a known allergy, check the ingredients before considering any use. The [American Academy of Dermatology’s guidance](https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products) describes a small-area test for new skin-care products and advises washing the product off and stopping if you react. Follow the instructions for the exact product, including when to rinse. A small-area test cannot diagnose an allergy. If you are unsure about trying the product or have a reaction that persists, speak to a clinician.
 
-South Korea’s Ministry of Food and Drug Safety (MFDS) officially regulates **"functional cosmetics"**—categories that include whitening/brightening products, anti-wrinkle treatments, and sun protection items. These products undergo specialized reviews and are legally required to denote precise active components on their labels.
+If you are short on time before departure, take the labeled product home to decide when to try it. Use the [Olive Young shopping guide](/blog/olive-young-shopping-guide-must-buy-k-beauty-products) for branch choice, sizes, returns and the receipt.
 
-Additionally, under updated MFDS allergen guidelines, **25 specific fragrance allergens** must be explicitly declared on cosmetic labels if they surpass established threshold limits (for example, a 0.001% threshold for leave-on items). Visitors with sensitive skin should look closely at the ingredient breakdown for these mandatory disclosures.
-
----
-
-## At-Home Patch Testing Protocols for Visitors
-
-When trying new K-Beauty items purchased during a trip, skin safety and patch testing are essential, especially when introducing high-concentration actives or unfamiliar botanical extracts. 
-
-An at-home patch test differs from clinical dermatological patch testing for contact allergies. To perform an at-home check safely:
-1. Apply a small amount of the product to an uncompromised area of skin, such as the inner forearm or the bend of the elbow.
-2. Repeat application twice daily for **7 to 10 days**.
-3. Monitor the test site closely for any localized adverse reactions, redness, or irritation before applying the product to your face.
-
----
-
-## Sources
-
-- [tistory.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDXfzlBLX_SH4LiXrdik_1teHHhZAVGsHI_V_6DhzKimdyM5J5-8OfOgnI8RoptaAfIulYS5lcxVukhW36DJCL2Qw7nGCQm9LdoSsr5C72yc84H3x1YKz9jOQ4e5sYYK6h48-BOdS9r4Tr_SQ1ypYa56Q58pQEwyBSF82bsbfCZgWiIqB5FJ8m797mDi_-kIlDKKkC6x6JRS2OP_lIo3VGI-fNTuk1f_MyH5M3Pz0hm8xWUHUItbTn5qv_cqI=)
-- [haniseoul.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEs2_E7y0NXvveKQjosUSs6qCEd0AoSBs3MPGTlSjtgh6kjhY4i6Hofq4j8ISN1-vxbIWix0mXpzv4MD0tDK_P5ZKYpCBqYJ_tdLXhFV71_wSbon3ZdejmsTDHiMwO4TD1bJQnubv3uKQQ86f07_W_RY4QsWhXWxFMXIkOQ)
-- [newsspace.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLAssvYSKMVeJJGGxw0V8u_CGnDRlAT8Vtc_zesC9ylxOq1Hu_EgA7-fEKqnMQSV9TwRm_eOBHA_OTgCRtAPPBPjorSPFN8es7pObnb-4tO5cfEy7RHZkD99-gW1_qSoiuXdlMxGFM2vs=)
-- [hadabuddy.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFR4ujnF6O4sJwx42SQk3i_RU0u-leviyIlqT0F2KAYkI_bp06DwEHcTyg7jih62KTs27-zKHnaiwSt0yNXIAWNrDkfJYQDpKqRN92nSI5R3AoDQ--vdIwACN85_L3J0YTYbXjEDtom9Z_mNpKadLw=)
-- [hwahae.co.kr](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGG4R0HLmd8hi1lj2JhbibEFqz-vZXH2dK1KOLF91yOkyVfy02PdfxdOFSGdbdtjd5YEpJvzpd8mYb6K53dcV770fuj58NoJmk1WSXPcsZVe8XEHfYZBUSSiVYIwD-ihlfIvOLnvX0e)
-- [viajiin.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETcqZwmgxskbv6XE0nxnG-zzUefRwMfKgq7tJv_ljG_oZ_0XhWPZTYfuq4y6Umxezxh0A09pgjNHsGPu15Mze8BXh0a5Na7-16P3CZVjF2CmhWFn6hPMrR1Q8bIG0gObr0S41RWr6hJeOyLm43AhtAjOapf9a3abAclw==)
-- [artixio.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE54hdi1dZaBEUvb31d0qQK-GEBcFsHKBjOaKqcJVj1_X2NIQ0tvGVCJZU71sjHmaU2Y4Yw-M4EZ89vKDSTLM6jJHzzwDByn8Y7-uJvXd6a80eb-tzI6tURiPkvjPPvNjcfJYTcxU0YAhF8u1Hu9BLegMndlQOf_uJy9hWDnBGCvUYnmtoeSXWrzQ==)
-- [delphichse.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN0AgVliVaij6_DGj5UorP4xSe7mV2NmSjbzdMHzBRUA900E9B_nkSelp9HAO34KhA1alTOX_HKAbzCtJNoHIBG1UOdMuUgVWwm7J81VROS1nQSAWxIgeiqBv6qbXEUE2ScOYU0e3ZZB7JbBWzd83GtZ9wLMW_pb0V)
-- [kbeauty-sa.com](https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTczG-nw6F-uNcOal4Do-emJqpPvioOmyb_OjqJNqBxmGZw64PaSmTxCMTR0QcENsXr8lI9SObMYWzNP06a68-E8RgYqr0jp4xIef-HxySsApxDNrhAtm-HPDub_cr7nFoU6e3v2XG08BbGXwNxTjjlf5gYnTu7pujQ48QoUdT)
+<span id="sources"></span>

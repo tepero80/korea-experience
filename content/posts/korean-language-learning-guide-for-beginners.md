@@ -20,6 +20,8 @@ Hangul groups letters into syllable blocks. For example, 한 groups ㅎ, ㅏ and
 | 입구 | Entrance. Use it to spot where to go inside. |
 | 화장실 | Restroom. Look for the word or the accompanying pictogram. |
 
+If you are trying to read a person’s name, [check the spelling they use and what Hanja can tell you](/blog/korean-name-meanings-and-hanja-what-a-name-generator-can-and-cannot-tell-you).
+
 ## Rehearse one question and an easy backup
 
 **화장실이 어디예요?** means “Where is the restroom?” For your real route, try **3번 출구가 어디예요?**, meaning “Where is Exit 3?” Have the Korean place or number visible on your phone. If the answer is too fast, **천천히 말씀해 주세요** means “Please speak slowly.” You can also point at the destination and ask **여기 맞아요?**, meaning “Is this the right place?”

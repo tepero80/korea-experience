@@ -50150,5 +50150,114 @@
     "changeType": "rewrite",
     "launchOrder": 1699,
     "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "korean-skincare-ingredient-labels-for-visitors-translation-claims-and-patch-test": {
+    "id": "guide:korean-skincare-ingredient-labels-for-visitors-translation-claims-and-patch-test",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask to see the outer box and match it to the exact product. Look for 전성분 for ingredients and 사용기한 for the use-by date. If a product contains an ingredient you need to avoid or you cannot identify it confidently, choose something you can verify.",
+    "forWhom": "Visitors comparing skincare at a Korean store or choosing a product to use after returning home.",
+    "conditions": [
+      "The rules described apply to Korean cosmetic packaging. Some small packages have different requirements. Label checks and a small-area product test serve different purposes."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "shopping",
+      "beauty"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "oct-mfds-label",
+        "title": "Korea MFDS: Required cosmetic package information",
+        "url": "https://mfds.go.kr/wpge/m_645/de050601l0024.do",
+        "checkedAt": "2026-11-25",
+        "note": "Required information includes the use-by date or period after opening. Some small packages have different requirements."
+      },
+      {
+        "id": "oct-korea-ingredient-order",
+        "title": "Korean Cosmetics Act Enforcement Rule, Appendix 4",
+        "url": "https://www.law.go.kr/LSW/flDownload.do?bylClsCd=110201&flSeq=154943955&gubun=",
+        "checkedAt": "2026-11-25",
+        "note": "The appendix gives the general order and the exceptions for ingredients at 1% or less, fragrance and colorants."
+      },
+      {
+        "id": "oct-mfds-functional",
+        "title": "Korea MFDS: Functional cosmetics evaluations and reports",
+        "url": "https://mfds.go.kr/eng/wpge/m_24/de011014l001.do",
+        "checkedAt": "2026-11-25",
+        "note": "The regulator distinguishes evaluation and cases covered by reporting."
+      },
+      {
+        "id": "oct-aad-products",
+        "title": "American Academy of Dermatology: Testing a new skin-care product",
+        "url": "https://www.aad.org/public/everyday-care/skin-care-secrets/prevent-skin-problems/test-skin-care-products",
+        "checkedAt": "2026-11-25",
+        "note": "General guidance on testing before use, following contact-time instructions and stopping if there is a reaction."
+      }
+    ],
+    "shareFacts": [
+      "Find the exact formula and use-by date on the box before paying."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1700,
+    "heroOmissionReason": "The examples and checklist explain the decision without an illustrative cover."
+  },
+  "korean-name-meanings-and-hanja-what-a-name-generator-can-and-cannot-tell-you": {
+    "id": "guide:korean-name-meanings-and-hanja-what-a-name-generator-can-and-cannot-tell-you",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with the Hangul spelling the person uses. Ask whether there are Hanja characters and what meaning they attach to the name. A tool can suggest a spelling or a character for a creative project. The sound of a name alone cannot identify the characters a real person uses.",
+    "forWhom": "Visitors and Korean language learners reading a Korean name or trying a name generator.",
+    "conditions": [
+      "Examples illustrate spelling choices. Use the person’s own spelling for personal communication and the relevant official record for forms."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "language",
+      "culture"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "oct-names-act",
+        "title": "Korean family registration law, Article 44",
+        "url": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1028580603",
+        "checkedAt": "2026-11-25",
+        "note": "Birth registration accepts Hangul or commonly used Hanja within the rules."
+      },
+      {
+        "id": "oct-scourt-name-hanja",
+        "title": "Supreme Court electronic family register: Hanja used in personal names",
+        "url": "https://efamily.scourt.go.kr/cs/CsBltnWrtList.do?bltnbordId=0000010",
+        "checkedAt": "2026-11-25",
+        "note": "Check whether a character and its specified reading appear in the registry list."
+      },
+      {
+        "id": "oct-nikl-names",
+        "title": "National Institute of Korean Language: Revised Romanization",
+        "url": "https://www.korean.go.kr/front_eng/roman/roman_01.do",
+        "checkedAt": "2026-11-25",
+        "note": "Personal-name provisions describe order and the optional use of a hyphen in a given name."
+      }
+    ],
+    "shareFacts": [
+      "Confirm the spelling and actual characters before assigning a meaning to a real name."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1701,
+    "heroOmissionReason": "The examples and checklist explain the decision without an illustrative cover."
   }
 }
