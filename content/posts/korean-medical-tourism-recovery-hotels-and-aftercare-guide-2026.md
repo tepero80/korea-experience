@@ -245,7 +245,7 @@ Recovery can be lonely.
 For medical tourists staying longer than 90 days, or those from countries requiring visas, the **G-1 (Medical Treatment)** visa is relevant. However, most cosmetic surgery patients enter on a standard B-1/B-2 tourist waiver (90 days).
 
 *   **Documentation:** Always keep your "Confirmation of Surgery" letter from the clinic.
-*   **Tax Refunds:** You are eligible for a VAT refund on cosmetic surgery fees (approx. 7-8% back). This is processed at the airport upon departure.
+*   **Clinic and Lodging Costs:** [Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to eligible services supplied through December 31, 2025. Ask the clinic and accommodation provider for separate totals that include any applicable tax.
 
 For more on general travel logistics, check our guide on [Best Plastic Surgery Clinics for Foreigners in Seoul](/blog/best-plastic-surgery-clinics-for-foreigners-in-seoul).
 

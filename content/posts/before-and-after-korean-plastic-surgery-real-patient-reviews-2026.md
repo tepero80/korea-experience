@@ -160,7 +160,7 @@ The "Before" part of your journey starts with the consultation. In 2026, you sho
     { title: "CT Scan & Photos", description: "You will be taken to a photo room for 3D imaging. Remove all jewelry and makeup.", tip: "Wear a button-down shirt." },
     { title: "Consultant Meeting", description: "A consultant (English speaking) will discuss budget and general goals.", tip: "Do not commit to a deposit yet." },
     { title: "Surgeon Design", description: "The doctor analyzes your CT scans and draws design lines on your face.", tip: "Bring reference photos of realistic results." },
-    { title: "Pricing & Scheduling", description: "Final negotiation. Tax refund (approx 8%) papers are prepared here." }
+    { title: "Pricing & Scheduling", description: "Ask for a written total, including any applicable tax and separate charges, before paying a deposit." }
   ]}
 />
 
@@ -187,8 +187,10 @@ Prices have risen slightly due to global inflation, but the exchange rate (appro
     *   Cheekbone Reduction: ₩6.0M ($4,400)
     *   Full V-Line (Jaw + Chin): ₩11.0M ($8,100)
 
-<InfoBox type="warning" title="Tax Refund Warning">
-  Cosmetic surgery is subject to 10% VAT. As a tourist, you are eligible for a tax refund of approximately 7-8% at the airport. Ensure the clinic is a "Tax Refund Certified" institution and get your receipt before leaving.
+[Article 107-3 of the Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limited the former foreign-tourist VAT refund to qualifying cosmetic medical services supplied through December 31, 2025.
+
+<InfoBox type="warning" title="Budget From the Written Quote">
+  Ask the clinic to confirm the total in writing, including any applicable tax, follow-up charges and what the deposit covers. Keep the itemized receipt.
 </InfoBox>
 
 ## Recovery Logistics: Where to Stay

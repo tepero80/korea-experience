@@ -100,7 +100,7 @@ If you are looking for specific clinic recommendations, see our list of [best pl
 
 ## Comparative Analysis: The Data Points
 
-To help you visualize the differences, we've broken down the key metrics. Note that prices are estimates based on 2026 averages for foreign patients (who often pay slightly different rates due to agency fees or VAT refund structures).
+An agency fee or a separately billed service can change the total. Compare written quotes with the same services and any applicable tax included.
 
 <ComparisonTable
   title="University Hospital vs. Boutique Clinic"
@@ -189,11 +189,11 @@ For foreigners, a boutique dermatology clinic is almost always the better choice
 *   **University Hospitals:** Essential for spinal fusion or complex disc replacements.
 *   **Specialized Spine Hospitals (Wooridul, Jaseng):** A hybrid model. They are large specialized hospitals (not boutiques) that focus solely on spine/joints. These are excellent alternatives to general university hospitals for orthopedic issues.
 
-## Medical Visas and Tax Refunds
+## Medical Visas and Written Quotes
 
-Regardless of your choice, legitimate medical institutions in Korea allow you to claim a VAT refund.
-*   **VAT Refund:** You can get back roughly **7-9%** of the surgery cost at the airport.
-*   **Certificate:** Both large hospitals and certified boutique clinics can issue the "Certificate of Medical Treatment" required for this refund.
+The former tourist VAT refund for qualifying cosmetic medical services was limited to services supplied through December 31, 2025, under [Article 107-3 of the Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343).
+
+*   **Quote:** Ask each provider for the total with applicable tax and separate service charges listed. Keep the itemized receipt.
 *   **Visa:** If your stay exceeds 90 days for recovery, you need a Medical Visa (G-1). University hospitals have dedicated International Healthcare Centers (IHC) that process this paperwork efficiently. Boutique clinics often outsource this to agencies.
 
 <StatCard

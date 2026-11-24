@@ -110,7 +110,9 @@ The biggest drawback is porosity. Composite resin is essentially a reinforced pl
 
 ## Detailed cost comparison: Porcelain vs Resin
 
-Pricing is the most common question for travelers. In 2026, the exchange rate fluctuates, but for estimation, we use a standard of roughly ₩1,350 to $1 USD. Note that most Korean clinics offer tax refunds (roughly 7-8% back) for cosmetic procedures performed on foreign tourists.
+Pricing is the most common question for travelers. In 2026, the exchange rate fluctuates, but for estimation, we use a standard of roughly ₩1,350 to $1 USD.
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to eligible services supplied through December 31, 2025. Ask the dental clinic for the total in won, including any applicable tax, and check which charges are per tooth or per visit.
 
 ### Price Factors
 Prices in Seoul vary based on location. Clinics in Gangnam (specifically near Gangnam Station and Sinsa Station) charge a premium for their location and English-speaking staff. Clinics in areas like Hongdae or Nowon might be 10-20% cheaper but may have fewer English support services.
@@ -137,7 +139,7 @@ For a comprehensive look at how medical costs fit into your travel budget, you m
   facts={[
     { label: "Porcelain Avg", value: "$330-600 USD", icon: "💎" },
     { label: "Resin Avg", value: "$110-260 USD", icon: "💵" },
-    { label: "Tax Refund", value: "~8%", icon: "✈️" }
+    { label: "Final Quote", value: "Ask for the total in won", icon: "🧾" }
   ]}
   columns={3}
 />
@@ -187,7 +189,7 @@ For tips on how to secure an appointment, check our guide on [booking medical co
   priceRange="$$$"
   rating={4.8}
   transit="Gangnam Station (Exit 10, 11) or Sinsa Station (Exit 4, 5)"
-  highlights={["English Staff", "In-house Labs", "Tax Refund Kiosks"]}
+  highlights={["English Staff", "In-house Labs"]}
   tip="Most clinics are closed on Sundays and National Holidays."
 />
 

@@ -25,7 +25,7 @@ For many international travelers arriving at Incheon International Airport in 20
   points={[
     "Concierge services typically charge 15-20% commission or flat fees from $250-$1,000 depending on complexity",
     "Agencies provide critical advocacy, preventing 'shadow doctor' risks and ensuring proper aftercare",
-    "DIY booking saves money but requires managing your own transport, pharmacy runs, and tax refunds",
+    "With direct booking, you arrange your own transport, pharmacy visits, and billing paperwork.",
     "Government-registered agencies (checking KHIDI registration is mandatory) offer legal protection"
   ]}
   readTime={15}
@@ -50,7 +50,7 @@ Standard concierge packages in 2026 typically include:
 2.  **Arrival:** Limousine pickup from Incheon (ICN) or Gimpo (GMP) airports.
 3.  **Procedure:** In-person translation during consultation and surgery (ensuring your specific desires are communicated accurately, not just translated word-for-word).
 4.  **Recovery:** Food delivery (pumpkin juice is a staple for swelling), pharmacy runs, and transportation to follow-up appointments.
-5.  **Departure:** Assisting with the 7-9% VAT tax refund process at the airport.
+5.  **Departure:** Ask whether the service includes a transfer to the airport and help collecting itemized receipts.
 
 <StatCard
   title="Industry Growth"
@@ -142,7 +142,7 @@ If you decide to engage a service, here is what the timeline typically looks lik
     { time: "Day 0", title: "Arrival", description: "VIP pickup at Incheon Airport. Private transfer to hotel. Handover of local SIM/WiFi.", icon: "🛬" },
     { time: "Day 1", title: "Consultation & Surgery", description: "Face-to-face with surgeon. Concierge translates nuances. Surgery performs.", icon: "🏥" },
     { time: "Day 2-7", title: "Recovery Support", description: "Daily check-ins via KakaoTalk. Delivery of porridge/medicine. Deswelling treatments.", icon: "💊" },
-    { time: "Day 8", title: "Departure", description: "Final check-up. Concierge escorts to airport and assists with tax refund.", icon: "🛫" }
+    { time: "Day 8", title: "Departure", description: "Collect your final paperwork and confirm any airport transfer listed in your agreement.", icon: "🛫" }
   ]}
 />
 
@@ -185,11 +185,9 @@ Concierge services handle this entirely, ordering specialized "healing foods" li
 
 For more on what to eat, read our guide to [best Korean healing foods for surgery recovery](/blog/best-korean-healing-foods-for-surgery-recovery).
 
-## The Financial Argument: Tax Refunds and Insurance
+## Compare the full price
 
-One tangible way a concierge can save you money is through the VAT refund system. South Korea offers a refund on the Value Added Tax (10%) for cosmetic procedures performed on foreign tourists. The actual refund amount usually equates to about 7-9% of the surgical cost after processing fees.
-
-For a ₩10,000,000 facelift, that is a refund of nearly ₩800,000 ($600 USD). While you can do this yourself at the airport kiosks, if you make a mistake with the paperwork (Certificate of Medical Service Training) provided by the clinic, you lose the refund. Concierges ensure this paperwork is flawless and sometimes have special fast-track counters they can guide you to.
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former VAT refund for foreign visitors to qualifying cosmetic medical services supplied through December 31, 2025. For a current booking, compare the direct clinic quote with the concierge quote. Ask each for an itemized total showing any applicable tax, service fees, and optional charges.
 
 ### Do Agencies Get Better Prices?
 Sometimes. High-volume agencies have negotiated rates with clinics. While they might take a commission, the discount they secure off the "list price" might offset that commission. For example, a clinic might quote a walk-in foreigner ₩5,000,000 for a procedure. An agency might get a quote of ₩4,000,000, take ₩500,000 as a fee, and pass ₩4,500,000 to you. You still save ₩500,000 compared to the walk-in price.

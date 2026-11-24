@@ -26,7 +26,7 @@ Seoul has established itself as a global leader for gender-affirming surgeries, 
     "Seoul is globally ranked #1 for Facial Feminization Surgery (FFS) bone contouring techniques",
     "Voice Feminization Surgery (VFS) in Korea requires zero external incisions and has a 98% success rate",
     "Average total cost for full-face FFS in Seoul is $20,000-$30,000 USD, compared to $50,000+ in the US",
-    "International patients qualify for a tax refund of approximately 7-8% on cosmetic medical procedures"
+    "Get an itemized quote that includes any applicable tax before making a payment."
   ]}
   readTime={18}
   lastUpdated="2026-02-07"
@@ -224,11 +224,9 @@ For a detailed breakdown of where to stay, see our comparison of [Airbnb vs. Rec
 
 Seoul is not a "budget" destination like some developing nations, but it offers "value luxury." You get top-tier safety and results for 30-50% less than the US.
 
-### The Tax Refund
-A critical financial benefit in Korea is the **Tax Refund for Cosmetic Surgery**. International patients staying less than 90 days are eligible for a VAT refund (approx. 7-8% of the surgery cost).
-*   **Eligibility:** Must be done at a registered medical institution.
-*   **Process:** The clinic gives you a "Certificate of Selling Medical Service." You scan this at the airport kiosk or tax refund counter before departing.
-*   **Example:** On a $20,000 FFS package, you could get back roughly **$1,400 to $1,600 USD**.
+### Confirm the amount payable
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former VAT refund for foreign visitors to qualifying cosmetic medical services supplied through December 31, 2025. Ask for a written total that includes any applicable tax and lists the costs of appointments and any other services included in your quote.
 
 ## Timeline: Planning your journey
 
@@ -240,7 +238,7 @@ A critical financial benefit in Korea is the **Tax Refund for Cosmetic Surgery**
     { time: "Arrival (Day 1-2)", title: "In-Person Consult", description: "Final CT scans, blood work, and design meeting with surgeon.", icon: "yw" },
     { time: "Day 3", title: "Surgery Day", description: "Arrive fasting. Surgery takes 3-8 hours depending on procedures.", icon: "🏥" },
     { time: "Day 4-14", title: "Recovery", description: "Swelling management. Daily walks. Stitch removal around day 7-10.", icon: "🩹" },
-    { time: "Day 15-21", title: "Departure", description: "Final checkup. Tax refund at airport. Fly home.", icon: "🏠" }
+    { time: "Day 15-21", title: "Departure", description: "Collect itemized receipts and any documents you requested before leaving.", icon: "🏠" }
   ]}
 />
 
@@ -263,7 +261,7 @@ If you are looking for specific clinic recommendations that have been vetted for
   items={[
     { question: "Is it safe for transgender people to travel in Seoul?", answer: "Yes, Seoul is physically very safe. While Korean society can be conservative, violent hate crime is extremely rare. In the medical districts (Gangnam/Sinsa), seeing people in recovery bandages is normal, and medical staff are generally respectful and professional regardless of gender identity." },
     { question: "Do I need a WPATH letter for FFS in Korea?", answer: "Generally, no. For facial feminization and breast augmentation, most private clinics operate on an 'informed consent' model for aesthetic procedures. However, for genital reconstruction (SRS), most reputable surgeons will require 1 or 2 letters from mental health professionals." },
-    { question: "Can I use my credit card for surgery payments?", answer: "Yes, major international cards (Visa, Mastercard, Amex) are accepted. However, notify your bank beforehand about large transactions. Some clinics offer a small discount for cash payments, but paying by card is safer for tax refund documentation." },
+    { question: "Can I use my credit card for surgery payments?", answer: "Ask your clinic whether it accepts your card, what the final charge will be, and whether any payment fees apply. Request an itemized receipt for whichever payment method you use." },
     { question: "How long should I stay in Korea for FFS?", answer: "A minimum of 14 days is recommended. While you might feel okay after 7 days, stitches are usually removed between day 7 and 10, and you want to be available for follow-ups to ensure no infection occurs before a long-haul flight." },
     { question: "Will I need a visa for medical travel?", answer: "It depends on your passport. Many Western countries have a visa waiver (K-ETA required). If you are staying longer than 90 days for recovery, or if you are from a country requiring a visa, you can apply for a Medical Visa (C-3-3 or G-1-10) with the help of your clinic's invitation letter." }
   ]}
@@ -273,4 +271,4 @@ If you are looking for specific clinic recommendations that have been vetted for
 
 Seoul in 2026 offers a compelling mix of surgical excellence, advanced technology, and value for transgender patients. While the journey requires careful planning—from selecting the right surgeon to managing recovery in a foreign country—the results often speak for themselves. The "Korean Style" of FFS, prioritizing a youthful, soft, and natural feminine contour, attracts patients globally.
 
-Whether you are seeking voice feminization to match your pitch to your identity, or facial contouring to align your reflection with your true self, Seoul's medical infrastructure is ready to support your transition journey. Remember to prioritize safety, verify board certifications, and utilize the tax refund benefits to make your medical trip as smooth as possible.
+Whether you are seeking voice feminization to match your pitch to your identity, or facial contouring to align your reflection with your true self, Seoul's medical infrastructure is ready to support your transition journey. Confirm the cost in writing and keep copies of your billing documents.

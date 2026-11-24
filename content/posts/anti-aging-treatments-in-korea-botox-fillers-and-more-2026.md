@@ -25,7 +25,7 @@ You might also enjoy our article about [Fat Grafting vs Fillers](/blog/fat-graft
   points={[
     "Korean treatments cost 40-60% less than in the US or Europe",
     "Non-invasive lifting and skin boosters are the top trends for 2026",
-    "Tax refunds of roughly 7-8% are available for procedures over ₩30,000"
+    "Ask for a written total that includes any applicable tax"
   ]}
   readTime={15}
   lastUpdated="2026-02-06"
@@ -179,7 +179,7 @@ Navigating the Korean medical system can be daunting if you don't speak the lang
     { time: "2 Weeks Before", title: "Research & Book", description: "Use apps like Gangnam Unni (if you have ARC) or contact clinics via WhatsApp/KakaoTalk.", icon: "📱" },
     { time: "Arrival", title: "Consultation", description: "Face scanner analysis. Be prepared for blunt honesty about your skin.", icon: "🏥" },
     { time: "Procedure", title: "Numbing & Treatment", description: "Numbing cream applied for 30 mins. Procedure takes 20-60 mins.", icon: "💉" },
-    { time: "Payment", title: "Tax Refund", description: "Pay by card. Request the Tax Refund receipt for airport claim (7-8%).", icon: "💳" }
+    { time: "Payment", title: "Check the Bill", description: "Compare the charges with your written quote and keep the itemized receipt.", icon: "💳" }
   ]}
 />
 
@@ -187,12 +187,12 @@ Navigating the Korean medical system can be daunting if you don't speak the lang
 Most major clinics in Gangnam ("Factory Clinics" like Muse, Toxnfill, PPEUM) have English, Chinese, and Japanese interpreters on staff. However, the actual doctor may speak limited English. The consultant does the talking; the doctor does the injecting.
 
 ### Tax Refunds
-Foreign tourists staying less than 6 months are eligible for a VAT refund on cosmetic procedures. The refund rate is roughly 7% to 8% of the total cost. You must present your passport at the clinic to get the refund slip, which you then scan at a kiosk at Incheon Airport (Terminal 1 or 2) before departure.
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to eligible services supplied through December 31, 2025. Ask the clinic for a written total that includes any applicable tax before you pay.
 
 <QuickFacts
   title="Logistics Checklist"
   facts={[
-    { label: "Tax Refund", value: "Passport Required", icon: "🛂" },
+    { label: "Clinic Bill", value: "Ask for an itemized total", icon: "🧾" },
     { label: "Payment", value: "Foreign Cards OK", icon: "💳" },
     { label: "Transport", value: "Subway Line 2", icon: "🚇" }
   ]}

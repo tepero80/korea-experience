@@ -149,9 +149,7 @@ By using Korean apps, you can see the baseline price. Even if a clinic charges a
   ]}
 />
 
-<InfoBox type="tip" title="VAT Refund">
-  As a tourist, you are eligible for a VAT refund (approx. 7-8% of the total cost) on cosmetic procedures. Ensure the clinic is a registered medical tourism provider and ask for the "Tax Refund Receipt" (Tax Free Slip) before you pay. Legitimate clinics will issue this immediately.
-</InfoBox>
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former cosmetic-treatment VAT refund to eligible services supplied through December 31, 2025. When an older review lists a price after a refund, request an itemized quote for your visit and ask whether the amount includes tax.
 
 ## Identifying Red Flags in Reviews
 
@@ -231,7 +229,7 @@ For non-invasive treatments like Botox or lasers, the risk is lower, and "Factor
   priceRange="$$$"
   rating={4.2}
   transit="Gangnam Station (Line 2, Shinbundang Line) Exits 10, 11, 12"
-  highlights={["Highest density of clinics", "Immediate tax refund kiosks", "Pharmacy availability"]}
+  highlights={["Clinic area near Gangnam Station", "Pharmacy availability"]}
   tip="Exit 10 and 11 are the 'Plastic Surgery Street' exits. Almost every building here houses 5+ clinics."
 />
 
@@ -258,7 +256,7 @@ Do not be afraid of the language barrier. With tools like Papago and the willing
     { question: "Is it safe to trust English reviews on Google Maps for Korean clinics?", answer: "While not necessarily unsafe, they are limited. Google reviews represent a tiny fraction of patients (mostly foreigners) and often reflect higher 'foreigner prices'. They lack the volume to reveal systemic safety issues like shadow doctors." },
     { question: "How much does a medical translator cost in Seoul?", answer: "Independent medical interpreters typically charge between ₩50,000 to ₩100,000 per hour (approx. $35-$75 USD). This investment can often save you money by helping you negotiate local pricing." },
     { question: "What is the 'Shadow Doctor' issue?", answer: "This refers to a practice where a famous head surgeon performs the consultation, but a different, often junior or unverified doctor, performs the surgery while the patient is under anesthesia. Checking for CCTV verification on apps like Gangnam Unni helps mitigate this risk." },
-    { question: "Can I get a tax refund on plastic surgery in Korea?", answer: "Yes, international tourists are eligible for a VAT refund (approx. 7-8%) on cosmetic surgery and dermatology procedures. Ensure the clinic is a registered medical tourism provider and ask for the refund slip before payment." },
+    { question: "Should I use the after-refund price in a clinic review?", answer: "Ask the clinic for its current written price including any tax. The former cosmetic-treatment VAT refund applied to qualifying services supplied through December 31, 2025." },
     { question: "Do Korean clinics accept foreign credit cards?", answer: "Yes, major clinics accept Visa, Mastercard, and Amex. However, some may offer a slight discount (or remove the merchant fee) for cash payments. Always ask for a receipt regardless of payment method to ensure accountability." }
   ]}
 />

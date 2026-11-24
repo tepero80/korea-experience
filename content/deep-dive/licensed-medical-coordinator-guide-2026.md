@@ -156,19 +156,21 @@ Be wary of brokers who lurk on Reddit or luxury forums posing as patients. They 
 If you're a tourist, you won't have an ARC. Most clinics accept your passport for booking. For apps like KakaoTaxi, use "Pay to the Driver" to bypass Korean payment verification. For hospital appointments, contact the International Healthcare Center (IHC) directly via email—they're used to patients without local numbers.
 </InfoBox>
 
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to eligible services supplied through December 31, 2025. Ask for written totals that identify the clinic’s charges, any separate coordinator fees and applicable tax.
+
 <FAQAccordion
   items={[
     {
       question: "Can I just find a clinic on Instagram and go directly?",
-      answer: "You can, but it's risky. Direct bookings mean you handle all medical translation yourself. If you choose an unregistered clinic, you lose access to VAT refunds and legal mediation services."
+      answer: "Use the clinic's official contact details to check its registration and ask what interpretation is available for your appointment."
     },
     {
       question: "How much should a medical coordinator cost me?",
       answer: "Most big agencies charge patients $0—they get paid a regulated commission by the hospital. If an agency asks for a massive upfront 'consultation fee,' double-check their credentials."
     },
     {
-      question: "What is the 2026 VAT refund status for medical tourism?",
-      answer: "Medical VAT refunds for cosmetic surgery officially ended on January 1, 2026. Always confirm with your clinic before paying if any refund applies to your specific procedure."
+      question: "Can a coordinator include the former cosmetic treatment VAT refund in my quote?",
+      answer: "The former special refund applied to eligible cosmetic medical services supplied through December 31, 2025. Ask the coordinator and clinic for the full amount payable, including any applicable tax."
     },
     {
       question: "Are 'Medical Tour Coordinators' the same as translators?",

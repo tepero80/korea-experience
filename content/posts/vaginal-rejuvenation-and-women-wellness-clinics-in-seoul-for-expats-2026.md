@@ -230,13 +230,15 @@ For those just doing laser treatments, the timeline is much shorter—you could 
 
 ## Frequently Asked Questions
 
+For a payment estimate, request an itemized quote that shows any applicable tax. [Article 107-3 of the Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limited the former tourist VAT refund to qualifying cosmetic medical services supplied through December 31, 2025.
+
 <FAQAccordion
   title="Common Questions About Vaginal Rejuvenation in Seoul"
   items={[
     { question: "Do the doctors speak English fluently?", answer: "At major clinics catering to foreigners (like Trinity or Queen's), the lead doctors often speak decent English, and there is almost always a dedicated medical translator present to ensure 100% understanding." },
     { question: "Is it safe to fly after vaginoplasty?", answer: "For laser treatments, yes, immediately. For surgical vaginoplasty, it is recommended to wait at least 7 to 10 days before taking a long-haul flight to prevent blood clots and ensure stitches are stable." },
     { question: "Can I use Korean National Health Insurance?", answer: "Generally, no. Vaginal rejuvenation is considered a cosmetic/elective procedure and is not covered by NHIS, even for residents. However, if it is for severe uterine prolapse, some portion might be covered if you are a registered resident paying into the system." },
-    { question: "How do I make a payment?", answer: "Most clinics accept international credit cards (Visa/Mastercard) and cash. Some offer a small discount (5-10%) for cash payments. Always check if tax refund (7-8%) is applicable for your procedure." },
+    { question: "How do I make a payment?", answer: "Ask the clinic which payment methods it accepts and confirm the total before paying. Request an itemized receipt that shows what you paid." },
     { question: "Is it painful?", answer: "Laser treatments are virtually painless (3/10 on pain scale). Surgical options involve soreness for 3-5 days, manageable with oral painkillers. Sitting directly on the area might be uncomfortable for a week." }
   ]}
 />

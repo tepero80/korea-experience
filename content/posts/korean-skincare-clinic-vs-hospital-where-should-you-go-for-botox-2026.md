@@ -63,8 +63,10 @@ In 2026, the price competition is fierce. It is not uncommon to see promotions f
 However, the trade-off is personalization. The doctor may not remember your face from one visit to the next. If you have complex facial asymmetry that requires a nuanced approach, the "factory" model might be too standardized for you.
 
 <InfoBox type="warning" title="Hidden Costs">
-While the advertised price might be ₩29,000, verify if VAT (10%) is included. Also, "factory" clinics often upsell. A common tactic is recommending 50 units for the jaw when 25 might suffice, or pushing for "skin boosters" alongside your Botox. Always stick to your researched plan.
+Before paying, ask the clinic for an itemized quote. Check which fees and any applicable tax are included in the total.
 </InfoBox>
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to eligible services supplied through December 31, 2025. Use each provider’s written total to compare its quote.
 
 For those interested in how these treatments fit into a broader regimen, check out our [anti-aging treatments in Korea](/blog/anti-aging-treatments-in-korea-botox-fillers-and-more-2026) guide.
 
@@ -143,7 +145,7 @@ Navigating a Korean clinic as a foreigner is generally smooth, but knowing the p
   steps={[
     { title: "Check-in & Lockers", description: "Store your belongings. You will likely wash your own face at a vanity station rather than having a facialist do it.", tip: "Wear minimal makeup to save time." },
     { title: "Consultation", description: "Meet with a coordinator to discuss areas and brands. The doctor usually only comes in for the injection.", tip: "Be firm about your budget." },
-    { title: "Payment & Tax Refund", description: "Pay upfront. Ask for the 'Tax Refund Slip' immediately. You get roughly 7-8% back at the airport.", tip: "Bring your passport." },
+    { title: "Payment & Receipt", description: "Review the itemized charges before paying and keep a copy of the receipt." },
     { title: "Numbing & Photos", description: "Application of anesthetic cream (wait time 20-30 mins). Before photos are taken for medical records." },
     { title: "The Procedure", description: "The doctor enters, verifies the product (often showing you the unopened box), and injects. Takes 2-5 minutes." }
   ]}
@@ -185,7 +187,7 @@ The tourist hub.
   priceRange="$"
   rating={4.6}
   transit="Exit 10 from Gangnam Station, 2 min walk"
-  highlights={["English Coordinators", "Tax Refund Kiosk", "Interior Design Awards"]}
+  highlights={["English Coordinators", "Interior Design Awards"]}
   tip="Book for a weekday morning (10:30 AM) to avoid the 2-hour wait that starts after lunch."
 />
 
@@ -238,7 +240,7 @@ To help you finalize your decision, here is a balanced look at choosing a Korean
 
 In 2026, the verdict is clear: For cosmetic Botox, the **Specialized Dermatology Clinic** is the superior choice over a general hospital. The combination of cost-effectiveness, specialized expertise, and efficiency makes the clinic model the gold standard for medical tourism in Korea.
 
-While the "Factory" style clinics offer incredible value, spending slightly more for a "Boutique" clinic often yields a more comfortable experience and better aesthetic outcomes for first-time visitors. Whichever you choose, ensure you utilize the Tax Refund system and follow strict aftercare protocols to enjoy your rejuvenated look long after your flight home.
+While the "Factory" style clinics offer incredible value, spending slightly more for a "Boutique" clinic often yields a more comfortable experience and better aesthetic outcomes for first-time visitors. Compare the written quotes and ask the treating clinician about follow-up arrangements.
 
 <FAQAccordion
   title="Frequently Asked Questions"

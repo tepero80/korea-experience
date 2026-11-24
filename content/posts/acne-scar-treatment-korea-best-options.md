@@ -22,7 +22,7 @@ Finding effective acne scar treatment is often a lifelong journey for many, but 
 <KeyTakeaways 
   points={[
     "Potenza RF Microneedling combined with JuveLook is the gold standard for 2026 scar revision.",
-    "Expect to pay 30-50% less in Seoul compared to Western clinics, with tax refunds available.",
+    "Compare itemized clinic quotes and check what each visit includes.",
     "Combination therapy (laser + subcision + booster) yields faster results than lasers alone."
   ]}
   readTime={15}
@@ -148,8 +148,10 @@ The cost difference is substantial, primarily because the devices (often manufac
 *   **Mid-Range (Secret RF + PDRN):** ₩250,000 - ₩350,000 ($185 - $260).
 *   **Premium (Potenza + JuveLook + Subcision):** ₩500,000 - ₩900,000 ($370 - $670).
 
-<InfoBox type="success" title="Tax Refund">
-Foreign tourists are eligible for a VAT refund (approx. 7-8%) on cosmetic medical treatments. Ensure you bring your passport to the clinic and ask for the "Tax Free" receipt to scan at Incheon Airport.
+[Article 107-3 of the Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limited the former tourist VAT refund to qualifying cosmetic medical services supplied through December 31, 2025.
+
+<InfoBox type="info" title="Check the Full Clinic Price">
+Ask for a written quote that shows any applicable tax, what each visit includes and which fees are charged separately.
 </InfoBox>
 
 ## Clinic Types: Factory vs. Specialist
@@ -255,7 +257,7 @@ When you arrive, you will likely see a consultant first who speaks English.
 ### 3. Payment
 *   Most clinics accept foreign credit cards (Visa/Mastercard).
 *   Some offer a small discount (5-10%) for cash payments.
-*   Always ask for the **Tax Refund Receipt** immediately upon payment.
+*   Ask for an itemized receipt and keep it with your written quote.
 
 ## Managing Expectations
 

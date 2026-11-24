@@ -129,14 +129,7 @@ Travelers should budget approximately ₩1,000,000 ($750 USD) for a comprehensiv
   ]}
 />
 
-<ExpertTip 
-  author="Min-ji Park"
-  role="Medical Coordinator, Gangnam"
-  type="local"
-  verified={true}
->
-  Many clinics in Gangnam offer 'Event Prices' for foreigners, but these often require cash payment. Always ask if VAT (10%) is included in the quoted price. As a tourist, you are eligible for a Tax Refund on cosmetic procedures over ₩30,000 at participating clinics. Look for the 'Global Tax Free' logo at the reception desk.
-</ExpertTip>
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to eligible services supplied through December 31, 2025. Ask the clinic for a written itemized quote that includes any applicable tax.
 
 ## The Patient Journey: What to Expect in Seoul
 
@@ -152,7 +145,7 @@ The entire process usually takes less than 2 hours. This fits perfectly into a t
     { time: "0:15", title: "Consultation", description: "3D facial scanning and doctor discussion.", icon: "👨‍⚕️" },
     { time: "0:30", title: "Numbing", description: "Application of strong topical anesthetic cream.", icon: "🧴" },
     { time: "1:00", title: "Injection", description: "The procedure takes 15-30 mins depending on areas.", icon: "💉" },
-    { time: "1:30", title: "Aftercare & Prescription", description: "Antibiotic prescription and tax refund receipt.", icon: "💊" }
+    { time: "Before leaving", title: "Check the Bill", description: "Review the charges and keep the itemized receipt.", icon: "🧾" }
   ]}
 />
 
@@ -169,7 +162,7 @@ Do not rely solely on Instagram ads. Look for clinics that specialize in "Dermat
   priceRange="$$$"
   rating={4.8}
   transit="Sinsa Station (Line 3), Exit 8"
-  highlights={["English Coordinators", "Tax Refund Kiosks", "High-end Facilities"]}
+  highlights={["English Coordinators", "High-end Facilities"]}
   tip="Book at least 2 weeks in advance via KakaoTalk or WhatsApp."
 />
 
@@ -181,13 +174,12 @@ Recovery from fillers is generally minimal, but when you are traveling, there ar
 Korean pharmacies are excellent. If you experience bruising, ask for "Bruise Cream" (Meong-cream). You can also buy pumpkin juice (Hobak-즙) at any convenience store (CU, GS25), which is a popular local remedy for reducing facial swelling.
 
 <StepGuide
-  title="Getting Your Tax Refund"
-  totalTime="15 minutes"
+  title="Checking Your Clinic Bill"
   difficulty="easy"
   steps={[
-    { title: "Get the Receipt", description: "After payment, request the 'Tax Refund Receipt'. It looks different from a credit card slip.", tip: "Passport is required." },
-    { title: "Airport Kiosk", description: "At Incheon Airport (ICN), before check-in, scan your passport and receipt at the self-service kiosk." },
-    { title: "Cash or Card", description: "You can receive the refund immediately in won (₩) cash or have it sent to your credit card." }
+    { title: "Get the Quote", description: "Ask for the full amount in won and check what each charge includes." },
+    { title: "Check the Bill", description: "Ask the clinic to explain any difference between the quote and your bill." },
+    { title: "Keep the Receipt", description: "Save the itemized bill and proof of payment with your travel records." }
   ]}
 />
 

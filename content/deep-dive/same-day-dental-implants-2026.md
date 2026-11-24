@@ -119,10 +119,10 @@ Alright, let\'s get down to the actual logistics. Thinking about getting surgery
 
 Now we are getting to the good stuff. The glossy brochures are great, but I want to give you the real insider knowledge—the things I learned the hard way so you don\'t have to. If you want this trip to be flawless, pay close attention to the weird little quirks of doing medical tourism in South Korea in 2026.
 
-First, let\'s talk about the money. You need to know about the VAT (Value Added Tax) refund. South Korea genuinely wants you to come there for medical procedures, so the government allows foreign tourists to get the 7-10% tax refunded on cosmetic and dental procedures. 
+Start by asking the dental clinic for an itemized quote. The former tourist VAT refund for qualifying cosmetic medical services was limited to services supplied through December 31, 2025, under [Article 107-3 of the Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343).
 
-<InfoBox type="tip" title="Pro Tip: The VAT Refund">
-  Always bring your physical passport with you to the dental clinic on the day you pay! The name on the medical receipt must exactly match the name on your physical passport. The clinic will issue a special Medical Tourism Tax Refund slip. When you are leaving Korea to fly home, you take this slip to the automated kiosks near the check-in counters at Incheon Airport, scan it, and you literally get handed cash back. On a $3,000 bill, that is $200 to $300 straight back into your pocket.
+<InfoBox type="tip" title="Confirm the Dental Quote">
+  Ask the clinic for the total you would pay, including any applicable tax. Confirm which visits and follow-up services the quote covers and keep the itemized receipt.
 </InfoBox>
 
 Second, let\'s address the biggest digital headache for tourists: The ARC (Alien Registration Card) problem. If you have read anything about traveling to Korea, you know that doing anything online requires a Korean phone number linked to a resident ID card to verify your identity.

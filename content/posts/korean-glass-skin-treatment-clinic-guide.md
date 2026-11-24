@@ -26,7 +26,7 @@ Achieving the coveted "Glass Skin" (Yuri-pibu) look in Korea is rarely the resul
     "Rejuran Healer is the #1 treatment for glass skin, utilizing salmon DNA to repair skin barriers.",
     "Factory clinics charge ~₩250,000 for treatments that cost ₩600,000+ at private dermatologists.",
     "Downtime usually involves 'embossing' (bumps) on the face for 24 to 72 hours.",
-    "Always bring your passport to the clinic to receive an immediate 7-8% tax refund.",
+    "Ask for a written total that includes any applicable tax.",
     "Book at least 2 weeks in advance for popular English-speaking clinics in Gangnam."
   ]}
   readTime={15}
@@ -152,13 +152,14 @@ Travelers should budget carefully. While individual treatments are cheap, clinic
 *   **InMode FX:** ₩80,000 – ₩150,000 per mode
 *   **Ulthera (300 shots):** ₩1,200,000 – ₩1,600,000 (The premium lifting option)
 
-**Tax Refund:**
-International visitors are eligible for a tax refund on cosmetic procedures. The VAT is 10%. Most clinics will give you a refund receipt which you can scan at the kiosk at Incheon Airport (or instant refund kiosks in the city) to get about 7-8% back.
+**Confirm the total before paying**
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former VAT refund for foreign visitors to qualifying cosmetic medical services supplied through December 31, 2025. Ask whether the advertised price includes any applicable tax and required fees.
 
 <QuickFacts
   title="Financial Quick Facts"
   facts={[
-    { label: "Tax Refund", value: "Yes (7-8%)", icon: "💸" },
+    { label: "Written Quote", value: "Ask what is included", icon: "💸" },
     { label: "Card Fees", value: "None", icon: "💳" },
     { label: "Tipping", value: "Forbidden", icon: "🚫" }
   ]}
@@ -194,7 +195,7 @@ The ultra-luxury district. This is where celebrities go.
   priceRange="$$"
   rating={4.2}
   transit="Gangnam Station Exit 10, 2 min walk"
-  highlights={["English Interpreters", "Tax Refund Kiosk", "Online Booking"]}
+  highlights={["English Interpreters", "Online Booking"]}
   tip="Go on Tuesday or Wednesday morning to avoid the 2-hour wait times common on weekends."
 />
 
@@ -243,7 +244,7 @@ Is it worth the flight? For most, yes, but there are caveats.
 
 <ProsCons
   title="Korea Skin Treatment Assessment"
-  pros={["Cost is 30-40% of Western prices", "Latest technology (e.g., Potenza, Titanium Lifting)", "High volume means doctors are very experienced", "Tax refunds available"]}
+  pros={["Cost is 30-40% of Western prices", "Latest technology (e.g., Potenza, Titanium Lifting)", "High volume means doctors are very experienced"]}
   cons={["Communication nuances can be lost", "Factory clinics feel impersonal/rushed", "Follow-up care is impossible once you fly home", "Risk of counterfeit products at shady clinics"]}
   variant="cards"
 />
@@ -272,7 +273,7 @@ This holistic approach yields better results than just doing injections alone. I
     { question: "Does Rejuran really hurt that much?", answer: "Yes, on a scale of 1-10, standard Rejuran is a 7 or 8. Rejuran HB (with lidocaine) drops this to a 4. Ask for HB if you have low pain tolerance." },
     { question: "How many sessions do I need?", answer: "For glass skin, one session gives a 3-week glow. For permanent skin repair, 3 sessions spaced 4 weeks apart are recommended." },
     { question: "Can I do this if I have active acne?", answer: "It depends. Rejuran can help reduce inflammation, but if you have severe pustular acne, doctors may recommend treatments like Potenza (RF Microneedling) or Capri Laser first." },
-    { question: "Is it cheaper to pay in cash?", answer: "Sometimes. Some clinics offer a 'cash event price' which is 10% lower, but you might forgo the tax refund receipt. Always calculate which saves you more." }
+    { question: "How do I compare cash and card prices?", answer: "Ask for the itemized total and receipt terms for each payment method. Check that any applicable tax and fees are included before comparing the amounts." }
   ]}
 />
 

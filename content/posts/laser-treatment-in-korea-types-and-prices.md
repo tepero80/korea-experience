@@ -17,7 +17,7 @@ featured: false
 image: "/images/laser-treatment-in-korea-types-and-prices.webp"
 ---
 
-For international travelers seeking high-quality skincare at affordable rates, laser treatment in Korea offers a massive variety of options ranging from basic pigment toning to advanced anti-aging lifting, typically costing 30% to 50% less than equivalent procedures in the United States or Europe. The most common treatments in 2026 include "Laser Toning" for brightening (approx. ₩30,000–₩70,000 per session), Pico Laser for tattoo or scar removal (approx. ₩80,000–₩150,000), and lifting lasers like Shurink Universe (approx. ₩100,000 for 300 shots). Most clinics in major districts like Gangnam and Hongdae offer English services and tax refunds for tourists.
+For international travelers seeking high-quality skincare at affordable rates, laser treatment in Korea offers a massive variety of options ranging from basic pigment toning to advanced anti-aging lifting, typically costing 30% to 50% less than equivalent procedures in the United States or Europe. The most common treatments in 2026 include "Laser Toning" for brightening (approx. ₩30,000–₩70,000 per session), Pico Laser for tattoo or scar removal (approx. ₩80,000–₩150,000), and lifting lasers like Shurink Universe (approx. ₩100,000 for 300 shots). Ask the clinic whether it can explain your quote in English.
 
 **The short answer: Korea offers world-class laser technology like Potenza, Ulthera, and PicoSure at significantly reduced prices compared to the West, with walk-in friendly "factory clinics" making treatments accessible for under $50 USD per session.**
 
@@ -26,7 +26,7 @@ For international travelers seeking high-quality skincare at affordable rates, l
     "Basic laser toning starts as low as ₩30,000 ($22 USD) in competitive areas like Gangnam.",
     "Shurink Universe (Korean HIFU) is the most popular budget lifting treatment in 2026.",
     "Most treatments require 3 to 5 days of downtime, though non-ablative options allow immediate makeup.",
-    "Foreign passport holders are eligible for a 7-10% VAT refund on cosmetic procedures over ₩30,000."
+    "Check the full price, including any applicable tax, before booking."
   ]}
   readTime={18}
   lastUpdated="2026-02-07"
@@ -48,7 +48,7 @@ Unlike in many Western countries where a laser treatment is a luxury service boo
   source="Korea Health Industry Development Institute"
 />
 
-For the international traveler, this presents a unique opportunity. You can access FDA and KFDA-approved technology—such as the Lutronic Genius, Cynosure PicoSure, or Solta Thermage FLX—at a fraction of the cost back home. For example, a full-face Thermage FLX (600 shots) treatment that might cost $3,500 in New York can often be found in Seoul for approximately ₩2,200,000 ($1,650), representing a savings of nearly 50% even before the tax refund.
+For the international traveler, this presents a unique opportunity. You can access FDA and KFDA-approved technology—such as the Lutronic Genius, Cynosure PicoSure, or Solta Thermage FLX—at a fraction of the cost back home. For example, a full-face Thermage FLX (600 shots) treatment that might cost $3,500 in New York can often be found in Seoul for approximately ₩2,200,000 ($1,650), representing a savings of nearly 50% in this example.
 
 ## Understanding the "Factory Clinic" vs. "Dermatologist"
 
@@ -182,14 +182,7 @@ Navigating a Korean clinic can be intimidating due to the language barrier and s
   ]}
 />
 
-<ExpertTip 
-  author="Sarah Kim"
-  role="Medical Tourism Coordinator"
-  type="local"
-  verified={true}
->
-  Always bring your passport! Even if you are a resident, you need ID. For tourists, the passport is mandatory to generate the Tax Refund receipt. Without it, you pay the full 10% VAT.
-</ExpertTip>
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former VAT refund for foreign visitors to qualifying cosmetic medical services supplied through December 31, 2025. Ask the clinic for an itemized quote with any applicable tax and confirm which documents to bring.
 
 ## Top Areas for Laser Treatments
 
@@ -223,7 +216,7 @@ A younger crowd with competitive pricing.
   priceRange="$$"
   rating={4.2}
   transit="Gangnam Station Exit 10, 2 min walk"
-  highlights={["English Interpreters", "Tax Refund Kiosk", "Luggage Storage"]}
+  highlights={["English Interpreters", "Luggage Storage"]}
   tip="Book the first slot in the morning (10:30 AM) to avoid the lunch rush crowds."
 />
 
@@ -283,7 +276,7 @@ While you can just walk in, waiting times can be horrendous (2+ hours). It is hi
     { question: "Do I need to tip the doctor or staff?", answer: "No. Tipping is not part of Korean culture, including in medical settings. The price you see is the final price." },
     { question: "Can I wear makeup immediately after?", answer: "For non-ablative lasers (Toning, Shurink, basic Pico), yes. For ablative lasers (Fraxel, CO2, aggressive mole removal), you must wait until the scabs form and fall off, usually 5-7 days." },
     { question: "Is it safe to get laser treatment in summer?", answer: "It is generally safer in autumn or winter when UV levels are lower. If you do it in summer, you must be extremely diligent about sunscreen and hat usage, as sun exposure on lasered skin causes hyperpigmentation." },
-    { question: "Can I get a tax refund?", answer: "Yes. Cosmetic procedures performed on foreign tourists are eligible for a VAT refund (approx. 7-8% actual cash back). Ensure the clinic is a certified 'Medical Tourism Institution' and ask for the tax refund receipt before paying. You claim the money at the airport kiosks or instant refund counters in the city." },
+    { question: "Can I claim the former cosmetic-treatment VAT refund?", answer: "The former refund covered qualifying services supplied through December 31, 2025. Budget from the clinic’s current written quote, including any applicable tax." },
     { question: "How much does full face mole removal cost?", answer: "Mole removal is incredibly cheap in Korea. It typically costs ₩5,000 to ₩10,000 ($4-$8) per mole. Many clinics offer 'all-you-can-remove' packages for the face for around ₩100,000 to ₩150,000." }
   ]}
 />

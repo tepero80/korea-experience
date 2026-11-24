@@ -23,14 +23,14 @@ image: "/images/korea-medical-tourism-packages-what-s-included.webp"
 
 Contact the treating team for routine follow-up. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official emergency and visitor services.
 
-Korea medical tourism packages typically include a bundled service offering: the primary medical procedure (surgery, treatment, or checkup), professional medical interpretation, airport transfers, and occasionally accommodation or recovery care services. In 2026, the definition of these packages has expanded to include "concierge" elements, such as visa processing support (specifically for the C-3-3 medical visa), tax refund assistance (approx. 7-10% return on eligible procedures), and post-operative aftercare management. Unlike all-inclusive vacation resorts, however, flights and daily meals are rarely included in standard medical packages unless you are booking a premium VIP tier service, which can cost upwards of $20,000 USD.
+Korea medical tourism packages can bundle a medical service with interpretation, airport transfers, accommodation or follow-up arrangements. Ask the provider which services are included and whether it bills for flights, meals or other expenses separately.
 
-**The short answer: Standard Korea medical tourism packages in 2026 include the procedure cost, 1:1 medical interpretation, and airport logistics, bundling these for a 10-15% savings compared to booking separately; however, medication and flights are almost always excluded.**
+**The short answer: Compare a package with separate bookings using written, itemized quotes. Check which services are included, which are priced separately and whether the total includes any applicable tax.**
 
 <KeyTakeaways 
   points={[
-    "Packages typically bundle procedure costs with interpretation and transport, saving roughly 15% vs. booking separately.",
-    "The 10% VAT refund is a standard inclusion for cosmetic procedures, processed at the airport upon departure.",
+    "Compare the same services when pricing a package and separate bookings.",
+    "Ask for the total with any applicable tax and separate charges shown in writing.",
     "Most basic packages exclude pharmacy medication costs and compression garments (approx. $100-200 extra)."
   ]}
   readTime={15}
@@ -95,7 +95,6 @@ These are shorter, often labeled as "One-Day Beautification" packages.
 *   **Inclusions:**
     *   VISIA Skin Analysis.
     *   Combination treatments (e.g., Ulthera + Botox + Skin Booster).
-    *   Tax Refund Slip (Immediate deduction or airport refund).
 *   **Exclusions:**
     *   Transport is rarely included for single-day treatments unless the total spend exceeds roughly ₩3,000,000 ($2,200 USD).
 
@@ -104,7 +103,7 @@ These are shorter, often labeled as "One-Day Beautification" packages.
   facts={[
     { label: "Duration", value: "3-5 Hours", icon: "⏱️" },
     { label: "Recovery", value: "Immediate", icon: "✨" },
-    { label: "Tax Refund", value: "Yes (10%)", icon: "💰" }
+    { label: "Price", value: "Ask for a quote", icon: "💰" }
   ]}
   columns={3}
 />
@@ -169,11 +168,11 @@ If you book through a medical tourism agency (facilitator):
   ]}
 />
 
-### The Tax Refund (Tax Refund for Cosmetic Surgery)
-Foreign tourists staying less than 90 days are eligible for a VAT refund on cosmetic procedures.
-*   **Rate:** 10% of the surgical cost.
-*   **Process:** The clinic provides a "Certificate of Selling Medical Service for Overseas Patient." You scan this at the kiosk in Incheon Airport or Gimpo Airport before departure.
-*   **Inclusion Status:** The refund is *your* money back. Some shady packages might say "Tax Free" and pocket the refund themselves. Always demand the refund slip.
+### Confirm the Total Before Paying
+
+[Article 107-3 of the Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limited the former tourist VAT refund to qualifying cosmetic medical services supplied through December 31, 2025.
+
+Ask for a written total that shows applicable tax and identifies any separate clinic, agency and accommodation charges. Keep the clinic's itemized receipt and ask who to contact about billing after departure.
 
 ## Step-by-Step Guide to Booking a Package
 
@@ -257,8 +256,8 @@ To help you visualize the inclusions, here is a timeline of a typical Rhinoplast
     { time: "Day 1: Arrival", title: "Touchdown", description: "VIP Van pickup at Incheon. Check-in to hotel. CT Scan and final consultation at clinic.", icon: "🛬" },
     { time: "Day 2: Surgery", title: "The Procedure", description: "Surgery (2-3 hours). Recovery room stay. Discharge to hotel with pumpkin juice and meds.", icon: "🏥" },
     { time: "Day 3-4: Rest", title: "Deswelling", description: "Hotel rest. SmartLux deswelling laser treatment at clinic (included). Shampoo service (hair washing).", icon: "🧖‍♀️" },
-    { time: "Day 7: Removal", title: "Unveiling", description: "Cast and stitch removal. Final check by surgeon. Tax refund paperwork issued.", icon: "✂️" },
-    { time: "Day 8: Departure", title: "Flying Home", description: "Private van to airport. Tax refund claim at kiosk. Flight home.", icon: "🛫" }
+    { time: "Day 7: Removal", title: "Unveiling", description: "Cast and stitch removal. Final check by surgeon. Request an itemized receipt.", icon: "✂️" },
+    { time: "Day 8: Departure", title: "Flying Home", description: "Private van to airport. Keep the clinic's billing contact and receipt.", icon: "🛫" }
   ]}
 />
 

@@ -84,7 +84,7 @@ Popularized by major franchise clinics like 365mc, LAMS has become the go-to for
 
 ## Cost breakdown by body area
 
-Pricing in Korea is generally transparent, but it varies significantly based on the clinic's tier (Factory vs. Boutique vs. University Hospital) and whether you are paying "foreigner prices" (which often include agency fees and translation). As of 2026, the VAT refund for cosmetic surgery (approx. 7-8%) is still in effect for tourists presenting a valid passport at participating clinics.
+Ask the clinic to separate its charges from any agency or translation fees so you can compare written quotes on the same basis.
 
 The following prices represent the average range for reputable, board-certified clinics in the Gangnam and Seocho districts.
 
@@ -100,8 +100,10 @@ The following prices represent the average range for reputable, board-certified 
   ]}
 />
 
-<InfoBox type="tip" title="Pro Tip: The VAT Refund">
-  Always ask for the "Tax Refund Receipt" before leaving the clinic. You can claim approximately 7-8% of your surgery cost back at Incheon Airport (Terminal 1 or 2) kiosks before departure. For a ₩5,000,000 surgery, this is nearly ₩400,000 back in your pocket!
+<InfoBox type="tip" title="Confirm your total">
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former VAT refund for foreign visitors to qualifying cosmetic medical services supplied through December 31, 2025. Before paying, ask for an itemized quote that includes any applicable tax.
+
 </InfoBox>
 
 ## Popular body areas for Korean contouring

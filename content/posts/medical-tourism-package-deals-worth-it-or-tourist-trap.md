@@ -206,12 +206,9 @@ To help you finalize your decision, here is a balanced look at the DIY approach 
 
 ## Important Logistics: Tax Refunds and Insurance
 
-Whether you choose a package or DIY, you must be aware of the Tax Refund system. South Korea offers a VAT refund (roughly 7-8% of the total cost) on cosmetic surgery for foreign tourists.
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former cosmetic-treatment VAT refund to eligible services supplied through December 31, 2025. Ask the clinic and the agency for an itemized total showing any tax, the agency fee and what you would owe separately. Compare packages using those written totals.
 
-**The Trap:** Some shady agencies will pocket this tax refund.
-**The Worth-It Move:** Ensure your package contract explicitly states that *you* will receive the tax refund receipt (refund slip) at the clinic. You claim this money at Incheon Airport upon departure. For a $10,000 surgery, that is $700-800 back in your pocket—enough to pay for your flight.
-
-Additionally, standard travel insurance does **not** cover medical complications from elective surgery. Some premium packages include "Medical Complication Insurance." If you go DIY, you are uninsured for complications unless you purchase specific medical tourism insurance separately.
+For insurance included in a package, ask for the policy wording and check the covered services, exclusions and claims process with the insurer. Keep the [travel insurance paperwork guide](/blog/insurance-claims-for-medical-tourists-can-you-get-reimbursed-2026) for what to ask for after a visit.
 
 ## A Realistic Timeline for a Package Trip
 
@@ -224,7 +221,7 @@ If you decide a package is worth it for your major procedure, here is what the t
     { time: "Day 2", title: "Surgery", description: "Final design consultation, Surgery (4-6 hours), Recovery Room", icon: "🏥" },
     { time: "Day 3-5", title: "Critical Recovery", description: "Swelling management, Deswelling treatments at clinic", icon: "🛌" },
     { time: "Day 7", title: "Stitch Removal 1", description: "Partial stitch removal, Check-up", icon: "✂️" },
-    { time: "Day 14", title: "Clearance", description: "Final stitch removal, Fit-to-fly certificate, Tax Refund", icon: "✈️" }
+    { time: "Before departure", title: "Follow-up", description: "Confirm next steps with the clinician and collect your itemized bill and receipt.", icon: "✈️" }
   ]}
 />
 
@@ -253,7 +250,7 @@ Ultimately, the "worth" is subjective. If paying an extra $2,000 ensures you don
   items={[
     { question: "Is it cheaper to book plastic surgery in Korea directly?", answer: "Yes, generally 15-30% cheaper. Agencies charge for their services, either through a direct fee or by taking a commission that might prevent you from negotiating a discount with the clinic." },
     { question: "Do Korean plastic surgeons speak English?", answer: "Many top surgeons in Gangnam speak decent English, but the nursing staff usually does not. Major clinics have in-house interpreters, but smaller, often cheaper and highly skilled clinics may not." },
-    { question: "Can I claim the tax refund if I use an agency?", answer: "Yes, you are legally entitled to the tax refund (approx. 7-8%) regardless of how you book. Ensure the agency hands you the refund receipt from the clinic." },
+    { question: "What if the package advertises a cosmetic-treatment tax refund?", answer: "Ask for the legal basis and a written final total with any tax included. Article 107-3 of the Special Tax Treatment Control Act limits the former refund to eligible services supplied through December 31, 2025." },
     { question: "What is the best app for Korean plastic surgery?", answer: "Gangnam Unni and Babitalk are the most popular domestic apps with real reviews, but they are in Korean. For English speakers, apps like Eunogo or dedicated medical tourism sites are easier, though they have fewer listings." },
     { question: "Is it safe to stay in an Airbnb after surgery?", answer: "Yes, provided it is clean and has an elevator. Avoid semi-basement (banjiha) apartments due to humidity and stairs. Being near a convenience store is crucial for buying porridge and ice packs." }
   ]}
