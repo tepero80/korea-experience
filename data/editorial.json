@@ -33282,5 +33282,362 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
       "note": "Resized and converted to WebP. Adaptations retain the stated attribution and license."
     }
+  },
+  "ferry-services-to-korean-islands-complete-schedule": {
+    "id": "guide:ferry-services-to-korean-islands-complete-schedule",
+    "checkedAt": "2026-11-24",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "interests": [
+      "domestic passenger ferry tickets",
+      "boarding identification and terminal"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "forWhom": "Travelers arranging a domestic passenger ferry in Korea",
+    "answer": "Look up a specific departure port, island, date and direction. Confirm the operator, ticket and boarding deadline for both legs before paying and check service again on the day.",
+    "conditions": [
+      "Use the carrier listed on your booking. Vehicle transport and foot-passenger tickets can require different arrangements.",
+      "The Incheon example illustrates the process. Actual sailings can change, including the return."
+    ],
+    "relations": [
+      {
+        "slug": "hidden-islands-near-incheon-for-a-peaceful-day-trip-2026",
+        "type": "next",
+        "label": "Choose an Incheon island day",
+        "reason": "Compare a bridge-connected walk with an island that depends on the return ferry."
+      },
+      {
+        "slug": "mokpo-station-to-correct-ferry-terminal",
+        "type": "next",
+        "label": "Find your Mokpo terminal",
+        "reason": "Choose a train-to-ferry connection using the pier on the booking."
+      },
+      {
+        "slug": "tongyeong-bijindo-ferry-day-trip",
+        "type": "next",
+        "label": "Plan a Tongyeong sea crossing",
+        "reason": "Work through the island return before committing to a beach day."
+      }
+    ],
+    "shareFacts": [
+      "Confirm both sailings before paying.",
+      "Match the terminal to your ticket."
+    ],
+    "sources": [
+      {
+        "id": "island-tour-booking",
+        "title": "Korea Shipping Association: Official passenger ferry booking app (Korean)",
+        "url": "https://play.google.com/store/apps/details?hl=ko&id=ksa.ticket.sale",
+        "note": "The publisher lists the current KSA ferry booking app name. Seat availability and payment were not tested.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "icpa-coastal-boarding",
+        "title": "Incheon Port Authority: Coastal ferry boarding instructions (Korean)",
+        "url": "https://www.icpa.or.kr/icferry/content/view.do?contentKey=215&menuKey=1186",
+        "note": "The coastal terminal explains tickets, ID and the published boarding sequence.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "icpa-coastal-status",
+        "title": "Incheon Port Authority: How to check day-of sailing status (Korean)",
+        "url": "https://www.icpa.or.kr/icferry/article/view.do?articleKey=2557&boardKey=8&currentPageNo=1&menuKey=965",
+        "note": "Weather, tides and vessel circumstances can change departures. Check the operator again on the travel day.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "deokjeok-forest-approach",
+        "title": "Korea Forest Service: Deokjeokdo forest directions (Korean)",
+        "url": "https://www.foresttrip.go.kr/pot/fi/dr/selectDrctnsDtlView.do?hmpgId=ID02030127&menuId=002007",
+        "note": "Names Jin-ri pier, local transport and the ferry booking channel.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kef-operator",
+        "title": "Korea Express Ferry: Route and vessel notices (Korean)",
+        "url": "https://www.kefship.com/m/",
+        "note": "Use the latest notices to check passenger service and separate vehicle arrangements.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1369,
+    "heroMediaId": "archive-incheon-coastal-wharf-passenger-hall-2025",
+    "heroCaption": "The waiting and ticketing area at Incheon’s coastal passenger wharf in May 2025. Check the port and terminal on your booking before traveling.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "20050502 Port of Incheon 016.jpg",
+      "author": "Jjw",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20050502_Port_of_Incheon_016.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2025-05-02."
+    }
+  },
+  "hidden-islands-near-incheon-for-a-peaceful-day-trip-2026": {
+    "id": "guide:hidden-islands-near-incheon-for-a-peaceful-day-trip-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "interests": [
+      "Incheon island day-trip comparison",
+      "pedestrian bridge to Somuuido"
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "forWhom": "Travelers choosing one island outing from Incheon or the airport area",
+    "answer": "Choose Somuuido for a road-and-bridge approach with a walk. Pick Deokjeokdo if you can confirm the boat back and have time for local travel after landing.",
+    "conditions": [
+      "Check the current mainland stop and return bus for Somuuido.",
+      "If a delay would make you miss a fixed departure, keep a flexible plan on the mainland."
+    ],
+    "relations": [
+      {
+        "slug": "ferry-services-to-korean-islands-complete-schedule",
+        "type": "next",
+        "label": "Check tickets and boarding",
+        "reason": "Match the boat, terminal and return to your travel date."
+      },
+      {
+        "slug": "incheon-chinatown-open-port-walking-route",
+        "type": "next",
+        "label": "Choose a mainland alternative",
+        "reason": "Use Incheon Chinatown and the Open Port walking route when island connections do not fit."
+      }
+    ],
+    "shareFacts": [
+      "Somuuido is connected by a footbridge.",
+      "Book Deokjeokdo around the return."
+    ],
+    "sources": [
+      {
+        "id": "incheon-somuuido",
+        "title": "Incheon Island Portal: Somuuido visitor guide (Korean)",
+        "url": "https://isum.incheon.go.kr/isleInfo.do?isle=201&key=2407020003",
+        "note": "Shows the bridge, walk and public-transport approach.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "incheon-island-bridges",
+        "title": "Incheon Metropolitan City: Bridge approaches to Muuido and Somuuido (Korean)",
+        "url": "https://www.incheon.go.kr/IC010601/2224073",
+        "note": "Distinguishes the road bridge to Muuido from the pedestrian bridge to Somuuido.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "deokjeok-forest-approach",
+        "title": "Korea Forest Service: Deokjeokdo forest directions (Korean)",
+        "url": "https://www.foresttrip.go.kr/pot/fi/dr/selectDrctnsDtlView.do?hmpgId=ID02030127&menuId=002007",
+        "note": "Names Jin-ri pier, local transport and the ferry booking channel.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "icpa-coastal-status",
+        "title": "Incheon Port Authority: How to check day-of sailing status (Korean)",
+        "url": "https://www.icpa.or.kr/icferry/article/view.do?articleKey=2557&boardKey=8&currentPageNo=1&menuKey=965",
+        "note": "Weather, tides and vessel circumstances can change departures. Check the operator again on the travel day.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1370,
+    "heroMediaId": "archive-somuuido-pedestrian-bridge",
+    "heroCaption": "The pedestrian bridge linking Muuido and Somuuido, photographed in 2017.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Lávka přes moře (소무의인도교), ostrovy Muuido a Somu, Yongyu-dong, Jung District, Inčchon, Jižní Korea 01.jpg",
+      "author": "Fry72 (Karel Frydrýšek)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:L%C3%A1vka_p%C5%99es_mo%C5%99e_(%EC%86%8C%EB%AC%B4%EC%9D%98%EC%9D%B8%EB%8F%84%EA%B5%90)%2C_ostrovy_Muuido_a_Somu%2C_Yongyu-dong%2C_Jung_District%2C_In%C4%8Dchon%2C_Ji%C5%BEn%C3%AD_Korea_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2017-07-19."
+    }
+  },
+  "island-hopping-guide-jeju-nami-and-ulleungdo": {
+    "id": "guide:island-hopping-guide-jeju-nami-and-ulleungdo",
+    "checkedAt": "2026-11-24",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "interests": [
+      "island stay versus mainland day trip",
+      "Nami Jeju Ulleungdo comparison"
+    ],
+    "regions": [
+      "jeju",
+      "gapyeong",
+      "ulleungdo"
+    ],
+    "forWhom": "Visitors deciding which kind of Korean island trip fits their schedule",
+    "answer": "Choose Nami for an outing from a mainland base, Jeju for a trip with its own base, and Ulleungdo if your dates can absorb a changed sea crossing.",
+    "conditions": [
+      "Plan three separate journeys. Check whichever connection you intend to use, with its exact wharf and return.",
+      "Itinerary choices are editorial suggestions. Follow current operator schedules."
+    ],
+    "relations": [
+      {
+        "slug": "jeju-island-complete-travel-guide-best-time-to-visit-2026",
+        "type": "next",
+        "label": "Make a Jeju itinerary",
+        "reason": "Choose where to sleep and group activities by the area you can reach."
+      },
+      {
+        "slug": "ferry-services-to-korean-islands-complete-schedule",
+        "type": "next",
+        "label": "Book a domestic ferry",
+        "reason": "Check your travel date, boarding terminal and return separately."
+      }
+    ],
+    "shareFacts": [
+      "Nami: check your onward connection.",
+      "Ulleungdo: allow for sailing changes."
+    ],
+    "sources": [
+      {
+        "id": "nami-access",
+        "title": "Nami Island operator: Gapyeong Wharf directions",
+        "url": "https://namisum-en.imweb.me/164",
+        "note": "Address and access to the mainland wharf.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nami-schedule",
+        "title": "Nami Island operator: Passenger ferry schedule",
+        "url": "https://namisum-en.imweb.me/165",
+        "note": "Check the departure and return schedule for your date.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nami-zip-return",
+        "title": "Nami Island operator: Entry options and the zip-wire return",
+        "url": "https://namisum-en.imweb.me/35/?bmode=view&idx=7167730",
+        "note": "Explains the one-way zip wire and the need to leave by ferry.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeju-transit-hubs",
+        "title": "Visit Jeju: Bus routes and transit hubs",
+        "url": "https://m.visitjeju.net/en/themtour/view?contentsid=CNTS_200000000012534&menuId=DOM_000001832000000000",
+        "note": "Identifies Jeju and Seogwipo terminals and explains planning around different hubs.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "ulleung-route",
+        "title": "Ulleung Cruise: Yeongilman–Sadong route (Korean)",
+        "url": "https://www.ulcruise.co.kr/www/aboutus/intro_ship",
+        "note": "Shows this operator’s mainland and island ports.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "ulleung-pier-directions",
+        "title": "Ulleung Cruise: Pohang embarkation directions (Korean)",
+        "url": "https://www.ulcruise.co.kr/www/center/come_way",
+        "note": "Confirms the mainland terminal address for this operator.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "ulleung-sailing-state",
+        "title": "Ulleung Cruise: Sailing status and notices (Korean)",
+        "url": "https://www.ulcruise.co.kr/",
+        "note": "Displays operator news and sailing status by date.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1371,
+    "heroMediaId": "archive-namiseom-ferry-boarding-2011",
+    "heroCaption": "A Gapyeong–Namiseom ferry at the island pier, photographed in February 2011.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gapyeong-Nami Island Ferry.jpg",
+      "author": "Minseong Kim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gapyeong-Nami_Island_Ferry.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2011-02-20."
+    }
+  },
+  "korean-phone-number-on-tourist-sim-2026": {
+    "id": "guide:korean-phone-number-on-tourist-sim-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "interests": [
+      "tourist sim domestic verification code",
+      "carrier based identity check for visitors"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "forWhom": "Visitors who need a Korean phone number for a specific booking, taxi or app task",
+    "answer": "Some visitor plans can receive domestic SMS. Confirm your product’s activation rules and whether the app accepts the number. A separate carrier identity check may require a different method.",
+    "conditions": [
+      "Check incoming texts, outgoing texts and calls separately.",
+      "These are published carrier descriptions. We did not activate a line or submit a live verification code."
+    ],
+    "relations": [
+      {
+        "slug": "esim-vs-usim-vs-portable-wi-fi-2026",
+        "type": "next",
+        "label": "Choose your connection type",
+        "reason": "Compare eSIM, physical SIM and pocket Wi-Fi for the jobs you need to do."
+      }
+    ],
+    "heroOmissionReason": "The product-by-product checklist is the primary visual. The legacy cover is a generated illustration.",
+    "shareFacts": [
+      "Check incoming SMS and activation.",
+      "App acceptance and identity checks differ."
+    ],
+    "sources": [
+      {
+        "id": "kt-visitor-sim",
+        "title": "KT: Tourist eSIM access and personal authentication",
+        "url": "https://m.roaming.kt.com/eng/esim",
+        "note": "Compare incoming and outgoing services and the separate personal authentication restriction.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "lgu-visitor-sim",
+        "title": "LG U+: Tourist eSIM data and SMS service conditions",
+        "url": "https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data",
+        "note": "Distinguishes both the product variants and app SMS versus carrier identity checks.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "lgu-visitor-setup",
+        "title": "LG U+: SIM and eSIM installation instructions",
+        "url": "https://www.lguplus.com/korea-sim/eng/pc/support/blog/korea_esim_sim_installation_guide",
+        "note": "Find device and installation steps for the selected product.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1372
   }
 }

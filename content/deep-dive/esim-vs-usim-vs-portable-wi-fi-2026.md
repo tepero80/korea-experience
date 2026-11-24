@@ -31,6 +31,8 @@ These are editorial tradeoffs, not a guarantee for every device, country variant
 
 KT also explicitly says its tourist eSIM **does not support Korean personal authentication**. Receiving a text or having an 010 number does not establish acceptance by a bank, ticketing service or app that requires local identity verification.
 
+If a booking app is the reason you need a phone number, use the [tourist-SIM verification checklist](/blog/korean-phone-number-on-tourist-sim-2026) to check domestic SMS, app acceptance and identity verification before buying.
+
 ## Resolve installation uncertainty before paying
 
 The checked KT page contains a 90-day heading and a conflicting 30-day installation caution. We do not present either as a verified universal deadline. Ask for the exact current terms of the product you intend to buy, including installation, activation, expiry and support.

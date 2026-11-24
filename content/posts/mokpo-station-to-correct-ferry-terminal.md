@@ -34,3 +34,5 @@ Contact the ferry operator before choosing another sailing or transport. Ask whe
 **Information checked:** 9 November 2026. Confirm the latest notice for your trip.
 
 Save your confirmed terminal and boarding details in the [itinerary board](/tools/itinerary).
+
+If you have not bought the boat ticket, start with the [domestic ferry booking checklist](/blog/ferry-services-to-korean-islands-complete-schedule) for the return sailing, ID and operator notices.

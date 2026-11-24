@@ -62,3 +62,5 @@ If you finish at Sinpo, [Sinpo Station Exit 4](https://map.naver.com/p/search/%E
 - **Wheelchair, stroller or trouble with stairs:** Confirm the station exit, road crossing and venue entrance separately. The [national accessible-tourism listing](https://access.visitkorea.or.kr/ms/detail.do?cotId=7cd5a47f-e86f-40dd-9e1b-b513470b8797) describes a ramp via the Jajangmyeon Museum rear entrance. Call the museum at **032-773-9812** to confirm how to reach and use it on your date. A venue ramp does not verify the full route from the train.
 
 If your first stop in Incheon is the airport, use the [Incheon Airport arrival guide](/blog/incheon-airport-survival-guide-2026) to plan immigration, bags and the ground transfer first. For this walk, add your chosen museum, food stop and return station to the [day-by-day trip board](/tools/itinerary).
+
+If you have a second day in Incheon, compare the [bridge walk to Somuuido and the ferry trip to Deokjeokdo](/blog/hidden-islands-near-incheon-for-a-peaceful-day-trip-2026). Check the return first.

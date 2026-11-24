@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import { CATEGORY_HUBS, SITE_CONFIG } from '../lib/constants';
-import { getLaunchGuides } from '../lib/posts';
+import { getAllPosts } from '../lib/posts';
 import { getDestinations } from '../lib/destinations';
 import { mediaFor } from '../lib/media';
 import { TOOL_PREVIEWS, toolPreviewImage } from '../lib/tool-preview';
@@ -8,6 +8,15 @@ import { parse, type DefaultTreeAdapterTypes as Tree } from 'parse5';
 const errors: string[] = [];
 const rssAlternate = 'rel="alternate" type="application/rss+xml" href="https://koreaexperience.com/feed"';
 const sitemap = fs.readFileSync('out/sitemap.xml', 'utf8');
+const posts = getAllPosts();
+const guideSitemapEntries = new Map<string, number>();
+const expectedGuideUrls = new Set(posts.map(({ slug }) => SITE_CONFIG.url + '/blog/' + slug));
+for (const [, location] of sitemap.matchAll(/<loc>([^<]+)<\/loc>/g)) {
+  const path = location.slice(SITE_CONFIG.url.length);
+  if (!location.startsWith(SITE_CONFIG.url + '/') || !/^\/blog\/(?!category$)[^/]+$/.test(path)) continue;
+  guideSitemapEntries.set(location, (guideSitemapEntries.get(location) ?? 0) + 1);
+  if (!expectedGuideUrls.has(location)) errors.push('Unexpected guide sitemap entry ' + location);
+}
 
 function exportedMetadata(html: string) {
   const tags = new Map<string, string>();
@@ -43,7 +52,7 @@ for (const file of [
 if (!fs.readFileSync('out/_headers', 'utf8').includes('/feed\n  Content-Type: application/rss+xml')) {
   errors.push('RSS Content-Type missing from Pages headers');
 }
-for (const p of getLaunchGuides()) {
+for (const p of posts) {
   const file = `out/blog/${p.slug}.html`;
   if (!fs.existsSync(file)) {
     errors.push('Missing exported article ' + p.slug);
@@ -52,8 +61,16 @@ for (const p of getLaunchGuides()) {
   const html = fs.readFileSync(file, 'utf8');
   if (!html.includes(rssAlternate)) errors.push('RSS discovery missing ' + p.slug);
   if ((html.match(/<h1\b/g) || []).length !== 1) errors.push('Expected one H1 ' + p.slug);
-  if (!html.includes(`rel="canonical" href="https://koreaexperience.com/blog/${p.slug}"`))
-    errors.push('Canonical mismatch ' + p.slug);
+  const canonical = SITE_CONFIG.url + '/blog/' + p.slug;
+  const tags = exportedMetadata(html);
+  if (tags.get('canonical') !== canonical) errors.push('Canonical mismatch ' + p.slug);
+  const robots = new Set(tags.get('robots')?.split(',').map((value) => value.trim()));
+  if (
+    !robots.has(p.indexable ? 'index' : 'noindex') ||
+    robots.has(p.indexable ? 'noindex' : 'index')
+  ) errors.push('Robots index directive mismatch ' + p.slug);
+  if ((guideSitemapEntries.get(canonical) ?? 0) !== Number(p.indexable))
+    errors.push('Guide sitemap visibility or duplicate entry ' + p.slug);
   for (const m of html.matchAll(/<script[^>]*type="application\/ld\+json"[^>]*>(.*?)<\/script>/g)) {
     try {
       JSON.parse(m[1]);
@@ -61,6 +78,7 @@ for (const p of getLaunchGuides()) {
       errors.push('Invalid JSON-LD ' + p.slug);
     }
   }
+  if (!p.reviewed) continue;
   if (!html.includes('Official sources &amp; checks'))
     errors.push('Source section missing ' + p.slug);
   if (p.editorial?.heroOmissionReason && /class="article-cover[" ]/.test(html))
@@ -69,8 +87,6 @@ for (const p of getLaunchGuides()) {
     errors.push('Photo provenance missing ' + p.slug);
   if (!fs.existsSync(`out/images/cards/${p.slug}.jpg`))
     errors.push('Missing preview image ' + p.slug);
-  if (!sitemap.includes('/blog/' + p.slug + '</loc>'))
-    errors.push('Missing sitemap entry ' + p.slug);
 }
 const directory = fs.readFileSync('out/destinations.html', 'utf8');
 const directoryTags = exportedMetadata(directory);
@@ -165,5 +181,5 @@ if (errors.length) {
   process.exit(1);
 }
 console.log(
-  'Exported guide HTML, collection metadata, tool previews, sources, cards and sitemap checks passed.',
+  `Exported all ${posts.length} guide pages with matching canonical, robots and sitemap signals. Reviewed sources, collection metadata and preview checks passed.`,
 );

@@ -5019,5 +5019,55 @@
       "note": "Resized and converted to WebP. Adaptations retain the stated attribution and license."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "ferry-services-to-korean-islands-complete-schedule": {
+    "src": "/images/cards/ferry-services-to-korean-islands-complete-schedule.jpg",
+    "fingerprint": "20514b4d902aed3b632e313f890016c67506adf5dc36f103047d95d804954b93",
+    "sourceImage": "/images/editorial/archive-incheon-coastal-wharf-passenger-hall-2025-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "20050502 Port of Incheon 016.jpg",
+      "author": "Jjw",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20050502_Port_of_Incheon_016.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2025-05-02."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "hidden-islands-near-incheon-for-a-peaceful-day-trip-2026": {
+    "src": "/images/cards/hidden-islands-near-incheon-for-a-peaceful-day-trip-2026.jpg",
+    "fingerprint": "0640d87f72d85ceb321ffda4044ca755e1b5f7c25ab29901fb64929574a92f8e",
+    "sourceImage": "/images/editorial/archive-somuuido-pedestrian-bridge-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Lávka přes moře (소무의인도교), ostrovy Muuido a Somu, Yongyu-dong, Jung District, Inčchon, Jižní Korea 01.jpg",
+      "author": "Fry72 (Karel Frydrýšek)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:L%C3%A1vka_p%C5%99es_mo%C5%99e_(%EC%86%8C%EB%AC%B4%EC%9D%98%EC%9D%B8%EB%8F%84%EA%B5%90)%2C_ostrovy_Muuido_a_Somu%2C_Yongyu-dong%2C_Jung_District%2C_In%C4%8Dchon%2C_Ji%C5%BEn%C3%AD_Korea_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2017-07-19."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "island-hopping-guide-jeju-nami-and-ulleungdo": {
+    "src": "/images/cards/island-hopping-guide-jeju-nami-and-ulleungdo.jpg",
+    "fingerprint": "4bf1bf7a2f77936fb9dd3d106408e385744993af50f0741b10b7a1606c40b127",
+    "sourceImage": "/images/editorial/archive-namiseom-ferry-boarding-2011-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gapyeong-Nami Island Ferry.jpg",
+      "author": "Minseong Kim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gapyeong-Nami_Island_Ferry.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2011-02-20."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korean-phone-number-on-tourist-sim-2026": {
+    "src": "/images/cards/korean-phone-number-on-tourist-sim-2026.jpg",
+    "fingerprint": "2ad0523be4832e32c6e6170503ecaf9bcf9f67cce0ffcb14f5adeb21133e9634",
+    "adaptation": "Typographic social preview."
   }
 }

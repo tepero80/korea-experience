@@ -117,6 +117,8 @@ The [official Maeil Olle Market listing](https://www.visitjeju.net/en/detail/vie
 <span id="frequently-asked-questions"></span>
 <span id="conclusion"></span>
 
+Still choosing which island to visit? [Compare Jeju with Nami and Ulleungdo](/blog/island-hopping-guide-jeju-nami-and-ulleungdo) by the overnight base, mainland connection and return flexibility you need.
+
 ## Before you book
 
 - **Save in Korean:** hotel address, airport transfer stop, your main stop each day and your fallback.
