@@ -29133,5 +29133,296 @@
     },
     "cardImageLabel": "Hanbok jackets and skirts in a Seoul shop window",
     "cardImageCrop": "contain"
+  },
+  "kiosk-card-rejection-guide-2026": {
+    "id": "guide:kiosk-card-rejection-guide-2026",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Check whether a ticket or charge already exists. Ask for the staffed ticket counter, or use another payment method the operator lists. Leave time to confirm your exact service before departure.",
+    "forWhom": "Visitors trying to buy a subway, train or intercity bus ticket",
+    "conditions": [
+      "Support varies with the operator, ticket type and machine.",
+      "Loading regular T-money and buying a short-term Climate Card are separate payments."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "ticketing",
+      "local transport",
+      "payments"
+    ],
+    "relations": [
+      {
+        "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+        "type": "next",
+        "label": "Find a cash backup",
+        "reason": "Look for an ATM that supports foreign cards and read the fees before withdrawing."
+      },
+      {
+        "slug": "seoul-transit-climate-card-vs-tmoney-2026",
+        "type": "next",
+        "label": "Choose the right Seoul fare product",
+        "reason": "See when a short-term pass helps and where ordinary stored value is used."
+      },
+      {
+        "slug": "ktx-seat-and-luggage-guide-for-international-travelers",
+        "type": "next",
+        "label": "Already heading for KTX?",
+        "reason": "Confirm your train, seat and luggage plan before walking to the platform."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kto-transport-guide",
+        "title": "Korea Tourism Organization transport booking and payment guide",
+        "url": "https://english.visitkorea.or.kr/public/contents/travel/KoreaTransportationGuide_enu.pdf",
+        "note": "Lists where foreign-issued cards are supported for each type of ticket.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-single-journey-payment",
+        "title": "Seoul City’s international card announcement",
+        "url": "https://english.seoul.go.kr/climate-cards-and-single-journey-transit-tickets-now-accepting-international-credit-cards-no-cash-needed/",
+        "note": "Identifies eligible short-term Climate Cards, single-journey tickets and the selected machine rollout.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visa-card-decline",
+        "title": "Visa consumer support",
+        "url": "https://usa.visa.com/support.html",
+        "note": "Points to the issuer for the specific reason a card was declined.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check if you already have a ticket.",
+      "Use the operator’s staffed option where available."
+    ],
+    "launchOrder": 1313,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-pyeongtaek-korail-ticket-counter-2024",
+    "heroCaption": "Korail’s long-distance counter and ticket machines at Pyeongtaek Station in March 2024. Use current signs for the counter at your station.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "MNXANL",
+      "title": "202403 Long-distance ticket counters at Pyeongtaek Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:202403_Long-distance_ticket_counters_at_Pyeongtaek_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Machines and a staffed Korail ticket counter",
+    "cardImageCrop": "contain"
+  },
+  "tax-refund-instant-vs-airport-2026": {
+    "id": "guide:tax-refund-instant-vs-airport-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Show your passport before paying and ask whether the shop can deduct the refund at checkout. If it charges the full price, ask for the separate tax refund voucher and follow the named operator’s instructions.",
+    "forWhom": "International visitors choosing a refund method at a Korean shop",
+    "conditions": [
+      "The seller, goods and traveler all need to qualify.",
+      "The immediate limit is strictly below ₩1,000,000 per payment."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "shopping",
+      "tax refund",
+      "trip logistics"
+    ],
+    "relations": [
+      {
+        "slug": "tax-refund-for-tourists-how-to-claim",
+        "type": "next",
+        "label": "Take your voucher through Incheon",
+        "reason": "Check the terminal and handle refund goods before you surrender a checked bag."
+      },
+      {
+        "slug": "packing-korean-shopping-liquids-and-souvenirs-for-your-flight",
+        "type": "next",
+        "label": "Pack the purchase for your flight",
+        "reason": "Work out whether the goods can travel with you or must go in checked baggage."
+      },
+      {
+        "slug": "olive-young-must-buys-2026",
+        "type": "next",
+        "label": "Plan a shorter beauty-store visit",
+        "reason": "Make a shortlist and ask your branch about the checkout process."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kto-duty-free-and-tax-refunds",
+        "title": "VISITKOREA duty free and tax refund limits",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736",
+        "note": "Explains immediate and general limits, city operators and passport requirements.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-tax-refund-checkout",
+        "title": "VISITKOREA comprehensive tax refund guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=489&vcontsId=248765",
+        "note": "Shows what happens at checkout and which purchases need a separate claim.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-tourist-tax-refund-regulation-article-6",
+        "title": "Korean tourist tax-refund regulation, Article 6",
+        "url": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1031600355",
+        "note": "Primary legal source for the tax-inclusive immediate-refund purchase limit and the cumulative limit since entry.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "incheon-customs-refund",
+        "title": "Incheon Airport Customs departure refund guidance",
+        "url": "https://www.customs.go.kr/incheon/cm/cntnts/cntntsView.do?cntntsId=6688&mi=12546",
+        "note": "Describes refund proof, the goods, check-in and the departure inspection process.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Ask before paying: instant deduction or separate voucher?",
+      "A receipt for exactly ₩1,000,000 exceeds the immediate method’s limit."
+    ],
+    "launchOrder": 1314,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-wonju-dangu-retail-checkout-2020",
+    "heroCaption": "An Olive Young service desk in Wonju, photographed in April 2020. Ask your own shop whether it participates in the current tourist refund scheme.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Choi Kwang-mo",
+      "title": "2020-04-17 22.17.43 올리브영 원주단구점.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "A retail service desk in Wonju",
+    "cardImageCrop": "contain"
+  },
+  "jeju-car-rental-no-arc-2026": {
+    "id": "guide:jeju-car-rental-no-arc-2026",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask the rental company to confirm your documents before you prepay. A supported International Driving Permit, your original home licence and a passport are the usual starting point for short visits. Match the shuttle to your booking on arrival.",
+    "forWhom": "Short-stay visitors arriving at Jeju Airport who want to drive",
+    "conditions": [
+      "Confirm your issuing country, licence class and each driver’s eligibility with the operator.",
+      "Airport shuttle stands and off-airport pickup hours are provider-specific."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "driving",
+      "arrival",
+      "local transport"
+    ],
+    "relations": [
+      {
+        "slug": "renting-a-car-in-korea-international-license-guide",
+        "type": "next",
+        "label": "Check the original driving documents",
+        "reason": "Confirm permit country, licence class, drivers and payment before a reservation."
+      },
+      {
+        "slug": "jeju-airport-to-jeju-city-and-seogwipo",
+        "type": "next",
+        "label": "Use the car-free airport transfer",
+        "reason": "Check the bus and hotel approach if the paperwork or pickup time changes."
+      },
+      {
+        "slug": "where-to-stay-in-jeju-without-a-car",
+        "type": "next",
+        "label": "Choose a base you can reach without driving",
+        "reason": "Stay near a useful bus corridor if you prefer to explore without a rental."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kto-driving-in-korea",
+        "title": "VISITKOREA driving in Korea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140664",
+        "note": "Outlines international driving documents and confirms that rental requirements vary.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kac-jeju-rental-shuttles",
+        "title": "Jeju Airport rental-car access",
+        "url": "https://www.airport.co.kr/jejueng/cms/frCon/index.do?MENU_ID=100",
+        "note": "Official diagrams show the walkway and pickup area across from arrivals.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hallasan-rental-visitor-guide",
+        "title": "Hallasan Rent Car rental guide",
+        "url": "https://intl.hallasanrent.com/guide",
+        "note": "Original documents, shuttle stand, address and insurance terms for that provider.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "lotte-jeju-auto-house",
+        "title": "LOTTE Jeju Auto House",
+        "url": "https://lotterentacar.net/hp/eng/carLife/jejuAuto.do",
+        "note": "Named airport desk, shuttle stand and off-airport branch address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-jeju-bus-routes",
+        "title": "VISITKOREA Jeju bus planning",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=220897",
+        "note": "Shows airport services and buses for travel within Jeju without renting.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Confirm the original driving documents with your rental company.",
+      "Match the provider and shuttle stand to your reservation."
+    ],
+    "launchOrder": 1315,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-jeju-airport-plaza-palms-2026",
+    "heroCaption": "The road outside Jeju Airport in April 2026. Use the airport’s Gate 5 signs and covered path for the provider shuttle area.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Sharon Hahn Darlin",
+      "title": "Jeju Airport, Jeju Island, South Korea 🇰🇷.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Airport,_Jeju_Island,_South_Korea_%F0%9F%87%B0%F0%9F%87%B7.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Jeju Airport’s roadside approach",
+    "cardImageCrop": "contain"
   }
 }

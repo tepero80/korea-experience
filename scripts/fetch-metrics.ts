@@ -143,12 +143,17 @@ async function main() {
     ]),
   );
   const historyPath = '.private/reports/metrics-last-success.json';
-  const growthPlan = '.private/reports/growth-comparison.json';
-  const growth = fs.existsSync(growthPlan)
-    ? await Promise.resolve()
-        .then(() => compareGrowth(JSON.parse(fs.readFileSync(growthPlan, 'utf8')), now, tokens))
-        .catch(() => ({ status: 'invalid-plan' as const }))
-    : { status: 'not-configured' as const };
+  const [growth, growthExpansion] = await Promise.all(
+    ['growth-comparison.json', 'growth-expansion-comparison.json'].map(async (name) => {
+      const path = `.private/reports/${name}`;
+      if (!fs.existsSync(path)) return { status: 'not-configured' as const };
+      try {
+        return await compareGrowth(JSON.parse(fs.readFileSync(path, 'utf8')), now, tokens);
+      } catch {
+        return { status: 'invalid-plan' as const };
+      }
+    }),
+  );
   const previousSuccesses: ReportHistory = fs.existsSync(historyPath)
     ? JSON.parse(fs.readFileSync(historyPath, 'utf8'))
     : {};
@@ -168,15 +173,15 @@ async function main() {
       window,
       result: report,
     })),
-    ...('periods' in growth
-      ? growth.periods.flatMap(({ dates, gsc, ga4, landing }) =>
-          [gsc, ga4, landing].flatMap(({ report }) =>
-            report
-              ? [{ key: `growth/${dates.startDate}/${report.name}`, window: dates, result: report }]
-              : [],
-          ),
-        )
-      : []),
+    ...([['growth', growth], ['growth-expansion', growthExpansion]] as const).flatMap(
+      ([key, comparison]) => 'periods' in comparison
+        ? comparison.periods.flatMap(({ dates, gsc, ga4, landing }) =>
+            [gsc, ga4, landing].flatMap(({ report }) => report
+              ? [{ key: `${key}/${dates.startDate}/${report.name}`, window: dates, result: report }]
+              : []),
+          )
+        : [],
+    ),
   ]);
   const report = {
     at: now.toISOString(),
@@ -194,6 +199,7 @@ async function main() {
     alerts,
     sitemaps,
     growth,
+    growthExpansion,
     growthGoals: { ...growthGoals, cloudflareVisits },
     lastSuccess: Object.fromEntries(
       Object.entries(successes).map(([key, value]) => [
@@ -220,6 +226,7 @@ async function main() {
     `Policy: ${policy.status}; alerts: ${alerts.status}; GSC sitemap submissions: ${sitemaps.status}. Raw data saved privately.`,
   );
   console.log(`Fixed growth comparison: ${growth.status}`);
+  console.log(`Additional guide expansion comparison: ${growthExpansion.status}`);
   console.log(
     `Daily growth goals: Cloudflare browser snapshot ${cloudflareVisits.status}; GA4 consenting active users ${growthGoals.visitors.status}; AdSense ${growthGoals.revenue.status}.`,
   );

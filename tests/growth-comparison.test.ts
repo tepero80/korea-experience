@@ -20,6 +20,7 @@ test('fixed growth windows wait independently for three full days in each report
   const tokens = { ga: 'fixture', gsc: 'fixture' };
   const early = await compareGrowth(plan, new Date('2026-11-23T06:35:00Z'), tokens, transport);
   assert.equal(early.status, 'awaiting-data');
+  assert.equal(early.focusPathCount, 1);
   assert.equal(calls.length, 0);
   assert.equal(early.changes.gscClicks, null);
   const whilePacificWaits = await compareGrowth(

@@ -4559,5 +4559,50 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The photograph shows the scene at the time of capture."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "kiosk-card-rejection-guide-2026": {
+    "src": "/images/cards/kiosk-card-rejection-guide-2026.jpg",
+    "fingerprint": "a25d4d5271eb982ed1536b8f5a798860152802ca8911a21d8ed136f6ad830ffc",
+    "sourceImage": "/images/editorial/archive-pyeongtaek-korail-ticket-counter-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "MNXANL",
+      "title": "202403 Long-distance ticket counters at Pyeongtaek Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:202403_Long-distance_ticket_counters_at_Pyeongtaek_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "tax-refund-instant-vs-airport-2026": {
+    "src": "/images/cards/tax-refund-instant-vs-airport-2026.jpg",
+    "fingerprint": "3b66e798721fdbb4256a6c0541549fe1c05729f5672089a7dab5a4f9c7e0d678",
+    "sourceImage": "/images/editorial/archive-wonju-dangu-retail-checkout-2020-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Choi Kwang-mo",
+      "title": "2020-04-17 22.17.43 올리브영 원주단구점.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jeju-car-rental-no-arc-2026": {
+    "src": "/images/cards/jeju-car-rental-no-arc-2026.jpg",
+    "fingerprint": "21ba426357a4ee98482798e59329fb78a57c85249fb14f6e0bb87b6f098896ca",
+    "sourceImage": "/images/editorial/archive-jeju-airport-plaza-palms-2026-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Sharon Hahn Darlin",
+      "title": "Jeju Airport, Jeju Island, South Korea 🇰🇷.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Airport,_Jeju_Island,_South_Korea_%F0%9F%87%B0%F0%9F%87%B7.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

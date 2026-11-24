@@ -11113,5 +11113,74 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The photograph shows the scene at the time of capture."
     },
     "caption": "A Seoul hanbok shop window photographed in September 2006. Use it to recognize jacket and skirt shapes. Check current stock and palace rules separately."
+  },
+  {
+    "id": "archive-pyeongtaek-korail-ticket-counter-2024",
+    "src": "/images/editorial/archive-pyeongtaek-korail-ticket-counter-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-pyeongtaek-korail-ticket-counter-2024-640.webp 640w, /images/editorial/archive-pyeongtaek-korail-ticket-counter-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Self-service machines beside the Korail long-distance ticket counter at Pyeongtaek Station.",
+    "focal": "59% 52%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:202403_Long-distance_ticket_counters_at_Pyeongtaek_Station.jpg",
+    "originalHash": "82f50b46235209e81dea6f5bbf5884fc5a78301e9fb654ef5fc2d5451dc42505",
+    "capturedAt": "2024-03-18",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "MNXANL",
+      "title": "202403 Long-distance ticket counters at Pyeongtaek Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:202403_Long-distance_ticket_counters_at_Pyeongtaek_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Korail’s long-distance counter and ticket machines at Pyeongtaek Station in March 2024. Use current signs for the counter at your station."
+  },
+  {
+    "id": "archive-wonju-dangu-retail-checkout-2020",
+    "src": "/images/editorial/archive-wonju-dangu-retail-checkout-2020-1280.webp",
+    "srcSet": "/images/editorial/archive-wonju-dangu-retail-checkout-2020-640.webp 640w, /images/editorial/archive-wonju-dangu-retail-checkout-2020-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "A service desk with checkout screens beside cosmetics shelves in a Wonju Olive Young store.",
+    "focal": "32% 54%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
+    "originalHash": "5b4e8cae80be23907a19ba7f1c2c3a2e6b101e7250fb6fc8c261d5ea8850a5c0",
+    "capturedAt": "2020-04-17",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Choi Kwang-mo",
+      "title": "2020-04-17 22.17.43 올리브영 원주단구점.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:2020-04-17_22.17.43_%EC%98%AC%EB%A6%AC%EB%B8%8C%EC%98%81_%EC%9B%90%EC%A3%BC%EB%8B%A8%EA%B5%AC%EC%A0%90.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "caption": "An Olive Young service desk in Wonju, photographed in April 2020. Ask your own shop whether it participates in the current tourist refund scheme."
+  },
+  {
+    "id": "archive-jeju-airport-plaza-palms-2026",
+    "src": "/images/editorial/archive-jeju-airport-plaza-palms-2026-1280.webp",
+    "srcSet": "/images/editorial/archive-jeju-airport-plaza-palms-2026-640.webp 640w, /images/editorial/archive-jeju-airport-plaza-palms-2026-1280.webp 1280w",
+    "width": 1280,
+    "height": 1039,
+    "alt": "A crosswalk across the airport road, palm trees and a Jeju Airport sign beyond the road.",
+    "focal": "74% 66%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Jeju_Airport,_Jeju_Island,_South_Korea_%F0%9F%87%B0%F0%9F%87%B7.jpg",
+    "originalHash": "df68a0176faacbccab1850480954474ddd31221cff65fc1d17825a50b7e30e9f",
+    "capturedAt": "2026-04-08",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Sharon Hahn Darlin",
+      "title": "Jeju Airport, Jeju Island, South Korea 🇰🇷.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_Airport,_Jeju_Island,_South_Korea_%F0%9F%87%B0%F0%9F%87%B7.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "caption": "The road outside Jeju Airport in April 2026. Use the airport’s Gate 5 signs and covered path for the provider shuttle area."
   }
 ]

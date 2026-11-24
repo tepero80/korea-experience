@@ -151,6 +151,7 @@ export async function compareGrowth(
         ? 'comparison-available'
         : 'incomplete',
     verifiedReleaseAt: plan.verifiedReleaseAt,
+    focusPathCount: new Set(plan.focusPaths).size,
     timezones: { gsc: gscZone, ga4: gaZone },
     periods: observed,
     changes,

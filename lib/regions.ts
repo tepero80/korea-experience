@@ -133,11 +133,12 @@ export const REGIONS: readonly Region[] = [
     area: 'Jeju Island',
     coverMediaId: 'jeju-hallasan-aerial-2024',
     intro:
-      'Choose a car-free base, then pick an east-coast beach, a Seogwipo waterfall or an estuary walk around your return options.',
+      'Choose a base you can reach by bus or check your rental pickup. Then pick an east-coast beach, a Seogwipo waterfall or an estuary walk around your return options.',
     tip: 'Plan one part of the island per day. Check your exact stops and return times, and keep an alternative on Jeju itself for ferry days.',
     highlights: [
       'jeju-island-complete-travel-guide-best-time-to-visit-2026',
       'where-to-stay-in-jeju-without-a-car',
+      'jeju-car-rental-no-arc-2026',
       'seongsan-ilchulbong-by-bus-from-jeju-city',
       'jeju-black-pork-where-to-eat-on-the-island',
       'seogwipo-cheonjiyeon-or-jeongbang-waterfall',
