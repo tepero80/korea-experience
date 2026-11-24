@@ -212,7 +212,7 @@ If you are undergoing treatments requiring sleep anesthesia (sedation), such as 
 
 ### Emergency Contacts
 *   **Medical Emergency:** 119
-*   **Medical Tourism Info Center:** 1339 (Available in English)
+*   Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Cost Analysis and Budgeting for 2026
 

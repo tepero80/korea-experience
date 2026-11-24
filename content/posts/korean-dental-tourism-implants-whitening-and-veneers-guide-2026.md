@@ -34,8 +34,10 @@ For international travelers looking to combine high-quality dental care with aff
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The information provided in this guide is for educational purposes only and does not constitute medical advice. Always consult with a qualified dental professional for diagnosis and treatment. In case of a medical emergency in Korea, dial 119. For medical travel assistance, contact the Medical Tourism Information Center at 1339.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Why choose Korea for dental work in 2026?
 

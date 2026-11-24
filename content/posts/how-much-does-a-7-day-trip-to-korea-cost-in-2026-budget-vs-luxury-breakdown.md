@@ -51,3 +51,5 @@ In the [budget planner](/tools/trip-budget), change the room quote, party size a
 Choose which paid activity matters and use genuinely free options where they suit you. The [National Museum of Korea's visitor page](https://www.museum.go.kr/ENG/contents/E0101010000.do) distinguishes free permanent admission from charged special exhibitions and separately reserved activities. “Free admission” does not cover every product at a venue.
 
 Compare your [eligible transit journeys](/tools/transit-pass), but confirm route coverage before treating a pass as a saving. Put the final numbers beside your [day-by-day plan](/tools/itinerary): a budget is more useful when it buys a trip you can actually complete.
+
+To compare one museum or palace day separately, use the [one-day Seoul spending examples](/blog/budget-travel-korea-how-to-see-seoul-for-50-a-day-2026) and add your own meals and room cost.

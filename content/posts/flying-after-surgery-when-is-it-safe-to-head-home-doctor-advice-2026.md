@@ -197,9 +197,9 @@ One aspect rarely discussed is the financial implication of being grounded. If y
 
 If you experience chest pain, shortness of breath, or severe bleeding before your flight, do not hesitate.
 
-*   **119:** Ambulance and Fire (Free, available 24/7). They have translation services.
-*   **1339:** Korea Disease Control and Prevention Agency (Medical advice and hospital finder, English available).
-*   **Emergency Rooms:** Major university hospitals (Yonsei Severance, Samsung Medical Center, Asan Medical Center) have International Healthcare Centers. The base cost for a foreigner entering the ER is roughly 150,000 to ₩200,000 before tests/treatment.
+*   **119:** For a medical emergency, call 119 for an ambulance. Give your current address and ask for an interpreter if needed.
+*   Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
+*   **After immediate help is arranged:** Contact your insurer about coverage and which documents to keep.
 
 <ProsCons
   title="Pros and Cons of Staying Longer in Korea"

@@ -283,7 +283,7 @@ The information in this article is for educational purposes only and does not co
 
 If you experience severe pain, excessive bleeding, or signs of infection (heat, pus) after your procedure:
 *   **Medical Emergency:** Dial 119
-*   **Korea Disease Control & Prevention Agency (Medical Helpline):** Dial 1339 (available in English)
+*   Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Frequently Asked Questions
 

@@ -35,6 +35,8 @@ If you are considering a hair transplant in Korea in 2026, you can expect to pay
   The content in this article is for informational purposes only and does not constitute medical advice. Always consult with a qualified, board-certified surgeon before making decisions about elective surgery. For medical emergencies in Korea, dial 119.
 </InfoBox>
 
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
+
 ## Why Choose Korea for Hair Restoration in 2026?
 
 South Korea has long been the global capital of plastic surgery, but its reputation for hair restoration has skyrocketed over the last five years. In 2026, the appeal lies in the convergence of advanced robotics, AI-assisted diagnostics, and an artistic approach to hairline design.
@@ -139,7 +141,6 @@ When choosing a clinic in 2026, look for:
   type="Area Guide"
   address="Sinsa-dong & Apgujeong-dong, Seoul"
   hours="Clinics usually 10:00-19:00"
-  phone="+82-2-1339 (Medical Info)"
   priceRange="$$$"
   rating={4.8}
   transit="Sinsa Station (Line 3) or Apgujeong Station"

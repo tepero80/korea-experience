@@ -55,3 +55,5 @@ Stay with **one cluster** the following day. For an old-port base: hotel/bag dro
 For the coastal walk, start with **60–90 minutes outdoors**, followed by **45–60 minutes for a meal/rest**, as editable editorial allowances. The actual route, children's pace and weather can shorten it. In cold/rain, reduce the coast before adding more travel. Around Nampo, the indoor shopping block above is a possible replacement **when open**, with its exposed approach still accounted for.
 
 Put luggage collection and your actual hotel-to-station route on the [trip board](/tools/itinerary), with a buffer you are comfortable with. Remove optional browsing first if delayed. Do not rely on a universal cross-city travel time or a historical train-platform photograph to find the day's service.
+
+Arriving by air or ferry, or keeping the first afternoon open? Use the [Busan first outing comparison](/blog/busan-travel-guide-beaches-temples-and-street-food-2026) to choose one area around your actual arrival.

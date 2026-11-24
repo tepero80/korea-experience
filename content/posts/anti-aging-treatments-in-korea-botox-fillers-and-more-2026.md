@@ -32,8 +32,10 @@ You might also enjoy our article about [Fat Grafting vs Fillers](/blog/fat-graft
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The content provided here is for informational purposes only and does not constitute medical advice. Always consult with a board-certified dermatologist or plastic surgeon before undergoing any procedure. In case of a medical emergency in Korea, dial 119. For medical travel assistance, call 1339.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Why Korea Dominates the Anti-Aging Market in 2026
 

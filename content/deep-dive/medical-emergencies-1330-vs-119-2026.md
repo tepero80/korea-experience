@@ -47,3 +47,5 @@ This guide cannot recommend a clinic, confirm current opening hours or assess em
 - For a non-emergency pharmacy need, use our [Seoul pharmacy guide](/blog/24-hour-english-pharmacies-in-seoul-2026) and confirm the pharmacy is open. For official safety information, see the [Emergency Ready App guide](/blog/emergency-ready-app-english-alerts-2026).
 
 For other travel problems and contacts, read our [Korea travel problem-solving guide](/blog/korea-travel-problem-solving-guide).
+
+After you have arranged immediate help, use the [after-treatment handoff guide](/blog/dealing-with-complications-who-to-contact-in-emergencies) to organize your clinic contacts, documents and insurer questions.

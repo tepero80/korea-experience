@@ -41,6 +41,8 @@ When planning a medical tourism trip to Korea, understanding the material scienc
 If you are visiting Korea for less than 4 days, ask specifically for "One-Day Laminates." Standard porcelain veneers usually require 5-7 days for lab work, but clinics with onsite CEREC machines can finish them in roughly 4-6 hours.
 </InfoBox>
 
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
+
 ## Why get veneers in Korea?
 
 Korea has established itself as a global hub for aesthetic dentistry, rivaling its reputation for plastic surgery. The key differentiator is the "Ppalli-ppalli" (hurry-hurry) culture combined with cutting-edge digital dentistry.
@@ -182,7 +184,6 @@ For tips on how to secure an appointment, check our guide on [booking medical co
   type="Medical District"
   address="Gangnam-daero, Seocho-gu, Seoul"
   hours="Mon-Fri 10:00-19:00, Sat 10:00-16:00"
-  phone="+82-2-1339 (Medical Help)"
   priceRange="$$$"
   rating={4.8}
   transit="Gangnam Station (Exit 10, 11) or Sinsa Station (Exit 4, 5)"
@@ -234,7 +235,7 @@ You must continue to floss. A common misconception is that veneered teeth do not
 While dental procedures are generally low-risk, complications can occur. Sensitivity to hot and cold is common for 1-2 weeks after porcelain veneers because a layer of enamel has been removed. If pain persists beyond two weeks, you may need a root canal, though this is rare (less than 2% of cases).
 
 <InfoBox type="warning" title="Medical Disclaimer">
-This article is for informational purposes only and does not constitute medical advice. Diagnosis and treatment plans must be made by a licensed dentist. In case of a dental emergency in Korea, dial 119. For medical interpretation services, dial 1339.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
 
 ## Frequently Asked Questions

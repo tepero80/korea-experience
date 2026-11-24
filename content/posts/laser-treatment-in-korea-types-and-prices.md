@@ -124,6 +124,8 @@ Korea is famous for its aggressive and effective acne treatments. If you are str
   Strong acne lasers like Fraxel or CO2 can leave your face red and scabbing for 5 to 7 days. Do not schedule this immediately before a special event or photoshoot.
 </InfoBox>
 
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
+
 ### 3. Lifting and Tightening (HIFU and RF)
 
 If your goal is anti-aging, V-line contouring, or fixing sagging jowls, this is the category for you.
@@ -270,7 +272,7 @@ While you can just walk in, waiting times can be horrendous (2+ hours). It is hi
 ## Medical Disclaimer
 
 <InfoBox type="danger" title="Medical Disclaimer">
-  The information provided in this article is for educational purposes only and does not constitute medical advice. Laser treatments carry risks including burns, scarring, and infection. Always consult with a qualified medical professional before undergoing any procedure. In case of a medical emergency in Korea, dial **119**. For medical consulting in English, dial **1339**.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
 
 ## FAQ: Common Questions About Laser Treatment in Korea

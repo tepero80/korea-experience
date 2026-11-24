@@ -32,8 +32,10 @@ For international travelers visiting South Korea in 2026, the question of whethe
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The information provided in this guide is for educational purposes only and does not constitute medical advice. Always consult with a qualified healthcare professional. For medical emergencies in Korea, dial 119. For medical assistance in English, dial 1339.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## The Landscape of Korean Medical Tourism in 2026
 

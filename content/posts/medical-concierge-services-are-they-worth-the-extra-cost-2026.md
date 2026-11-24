@@ -33,8 +33,10 @@ For many international travelers arriving at Incheon International Airport in 20
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The information provided in this article is for educational purposes only and does not constitute medical advice. Always consult with qualified healthcare professionals for medical decisions. In case of emergency in Korea, dial 119 for ambulance services or 1339 for medical help in English.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Understanding the Korean Medical Concierge Landscape in 2026
 

@@ -33,8 +33,10 @@ Finding truly Halal-friendly medical care in a non-Muslim country can be dauntin
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The content in this article is for informational purposes only and does not constitute medical advice. Always consult with a qualified healthcare provider for diagnosis and treatment. In case of emergency in Korea, dial 119 (Ambulance) or 1339 (Medical Hotline for Foreigners).
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Why Korea is Becoming a Hub for Halal Medical Tourism
 

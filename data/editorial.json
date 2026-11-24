@@ -32560,5 +32560,373 @@
     "tools": [],
     "changeType": "rewrite",
     "launchOrder": 1359
+  },
+  "budget-travel-korea-how-to-see-seoul-for-50-a-day-2026": {
+    "id": "guide:budget-travel-korea-how-to-see-seoul-for-50-a-day-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "plan-your-trip",
+    "format": "decision",
+    "regions": [
+      "seoul"
+    ],
+    "interests": [
+      "one day spending plan",
+      "seoul low cost attractions"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "forWhom": "Visitors pricing one day of meals, activities and local rides in Seoul",
+    "answer": "Start with your actual local rides and one main stop. An adult paying two independent subway base fares and regular Gyeongbokgung admission spends ₩6,100 on those items. Add your actual meals, extras and room cost separately.",
+    "conditions": [
+      "The examples use posted adult prices and Korean won. Add any card purchase, surcharges, meals and your actual room price separately.",
+      "Arrival transit, airport transfers, flights and shopping are outside the example totals."
+    ],
+    "sources": [
+      {
+        "id": "seoul-subway-base",
+        "title": "Seoul City: Subway fares and transfer rules",
+        "url": "https://english.seoul.go.kr/policy/transportation/modes-of-transport/subway/",
+        "note": "Lists the adult card base fare and the conditions that affect the charge.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "climate-visitor",
+        "title": "Seoul City: Climate Card",
+        "url": "https://english.seoul.go.kr/policy/transportation/climate-card/",
+        "note": "Lists 1-day pass pricing, card purchase cost and service scope.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "palace-prices",
+        "title": "Royal Palaces and Tombs Center: Admission prices (Korean)",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R703000000.do",
+        "note": "Lists ₩3,000 individual adult admission for Gyeongbokgung.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "palace-hours",
+        "title": "Royal Palaces and Tombs Center: Admission information",
+        "url": "https://royal.khs.go.kr/ENG/contents/E702000000.do",
+        "note": "Check the current opening calendar and the admission conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "museum-admission",
+        "title": "National Museum of Korea: Viewing hours and fees",
+        "url": "https://www.museum.go.kr/ENG/contents/E0101010000.do",
+        "note": "Permanent exhibitions are free. Check paid shows and closures separately.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "24-hour-seoul-itinerary-how-to-survive-the-city-that-never-sleeps-2026",
+        "type": "next",
+        "label": "Build the rest of the day",
+        "reason": "Add walking segments and a return plan to the palace-and-market route."
+      },
+      {
+        "slug": "how-much-does-a-7-day-trip-to-korea-cost-in-2026-budget-vs-luxury-breakdown",
+        "type": "next",
+        "label": "Price the full trip",
+        "reason": "Add room nights, intercity travel and other fixed trip costs."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "next",
+        "label": "Switch to an indoor day",
+        "reason": "Choose a museum or another indoor stop when rain changes the plan."
+      }
+    ],
+    "placeIds": [
+      "gyeongbokgung",
+      "national-museum-korea"
+    ],
+    "shareFacts": [
+      "Price local rides and admission first.",
+      "Add meals and lodging at actual prices."
+    ],
+    "heroOmissionReason": "The fare and admission examples are the useful visual. The previous archive cover did not show a verified place needed for this decision.",
+    "tools": [
+      "trip-budget"
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1360
+  },
+  "busan-travel-guide-beaches-temples-and-street-food-2026": {
+    "id": "guide:busan-travel-guide-beaches-temples-and-street-food-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "regions": [
+      "busan"
+    ],
+    "interests": [
+      "first busan outing",
+      "old port or east coast"
+    ],
+    "stages": [
+      "arrival",
+      "exploring"
+    ],
+    "forWhom": "First-time Busan visitors choosing an outing around an arrival, bags or a short stay",
+    "answer": "With an arrival afternoon near Busan Station, start with Jagalchi and Nampo. If you are staying by the coast, choose Haeundae or Gwangalli. Treat Haedong Yonggungsa as a separate leg and check the ride back.",
+    "conditions": [
+      "Choose one cluster for a partial day. The exact station, ferry terminal and hotel entrance matter.",
+      "Jagalchi vendors set individual hours and prices. Check temple access and the return route on your chosen day."
+    ],
+    "sources": [
+      {
+        "id": "kto-jagalchi",
+        "title": "VisitKorea: Jagalchi Market",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=69318",
+        "note": "Shows the market, address and current visitor information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-coastal-temple",
+        "title": "VisitKorea: Haedong Yonggungsa",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=108618",
+        "note": "Places the temple on Busan’s northeastern coast and gives its official visitor address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "gimhae-rail",
+        "title": "Gimhae Airport: Public transportation",
+        "url": "https://www.airport.co.kr/gimhaeeng/cms/frCon/index.do?CONTENTS_NO=3&MENU_ID=110",
+        "note": "Lists the airport light rail and transfer at Sasang.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-busan-map",
+        "title": "VisitKorea: Busan tourist map (PDF)",
+        "url": "https://english.visitkorea.or.kr/public/contents/region/ENG/Busan_TouristMap_ENG.pdf",
+        "note": "Shows the port-center, beach and Osiria on the city network.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "gimhae-airport-to-busan",
+        "type": "next",
+        "label": "Choose the airport connection",
+        "reason": "Match the airport transfer to the neighborhood and amount of luggage."
+      },
+      {
+        "slug": "osiria-to-haedong-yonggungsa-temple",
+        "type": "next",
+        "label": "Find the coastal temple entrance",
+        "reason": "Check the final leg from Osiria and the temple approach."
+      },
+      {
+        "slug": "seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices",
+        "type": "next",
+        "label": "Plan a rail weekend",
+        "reason": "Build two full days around the train if you have more time."
+      }
+    ],
+    "placeIds": [
+      "jagalchi",
+      "haeundae",
+      "busan-gwangalli-beach",
+      "busan-haedong-yonggungsa"
+    ],
+    "shareFacts": [
+      "Choose one cluster on arrival day.",
+      "Plan Yonggungsa as a separate coastal leg."
+    ],
+    "tools": [],
+    "changeType": "rewrite",
+    "launchOrder": 1361,
+    "heroMediaId": "busan-gwangalli-illuminated-bridge-from-shore",
+    "heroCaption": "Gwangan Bridge after dark from Gwangalli Beach, in a photograph shared in 2024.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gwangan Bridge and Gwangalli Beach - Gwangalli2721.jpg",
+      "author": "lumoplank",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangan_Bridge_and_Gwangalli_Beach_-_Gwangalli2721.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image shows the place or subject at the time of photography."
+    }
+  },
+  "hiking-hallasan-booking-reservation-2026": {
+    "id": "guide:hiking-hallasan-booking-reservation-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "regions": [
+      "jeju"
+    ],
+    "interests": [
+      "hallasan reservation",
+      "jeju mountain trail closures"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "forWhom": "Jeju visitors choosing between a Hallasan summit reservation and a non-summit hike",
+    "answer": "Reserve the upper Seongpanak or Gwaneumsa section to reach the summit. At 09:00 Korea time on the first working day of each month, the park normally opens bookings for the following month. Check for closures before leaving.",
+    "conditions": [
+      "Keep your reservation and the identification the operator requires. Do not assume another trail or access window works with your booking.",
+      "Even a reservation can be affected by weather or temporary trail controls. Check the park’s notice and your actual departure point."
+    ],
+    "sources": [
+      {
+        "id": "hallasan-status",
+        "title": "Hallasan National Park: Reservation and trail status",
+        "url": "https://visithalla.jeju.go.kr/main/main.do?language=en_US",
+        "note": "Shows availability and links to current restrictions. Check the visit date.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hallasan-upper",
+        "title": "Hallasan National Park: Reservation sections",
+        "url": "https://visithalla.jeju.go.kr/board/boardView.do?bbsId=notice_cn&seq=1286",
+        "note": "Identifies the upper reserved sections, non-reserved routes and booking limits.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hallasan-release",
+        "title": "Hallasan National Park: Booking release and access notices (Korean)",
+        "url": "https://visithalla.jeju.go.kr/board/boardView.do?bbsId=notice&seq=1297",
+        "note": "Details the next month’s release time on the first working day and possible queues.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hallasan-seongpanak",
+        "title": "Hallasan National Park: Seongpanak route",
+        "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=61&language=en_US",
+        "note": "Identifies the Azalea Field checkpoint and summit distance.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hallasan-gwaneumsa",
+        "title": "Hallasan National Park: Gwaneumsa route",
+        "url": "https://visithalla.jeju.go.kr/contents/contents.do?id=62&language=en_US",
+        "note": "Identifies the campground start, Samgakbong checkpoint and summit distance.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hallasan-park",
+        "title": "Jeju Province: Hallasan National Park",
+        "url": "https://www.jeju.go.kr/hallasan/index.htm",
+        "note": "Provides park notices and direct visitor guidance.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "jeju-island-complete-travel-guide-best-time-to-visit-2026",
+        "type": "next",
+        "label": "Set a backup day on Jeju",
+        "reason": "Choose a different area or short outing if trail conditions change."
+      },
+      {
+        "slug": "jeju-car-rental-no-arc-2026",
+        "type": "next",
+        "label": "Plan transport for both trailheads",
+        "reason": "If driving, decide where the car will be and how you will get back to it."
+      }
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Reserve the upper summit section.",
+      "Check the trail, checkpoint and last ride."
+    ],
+    "tools": [],
+    "changeType": "rewrite",
+    "launchOrder": 1362,
+    "heroMediaId": "jeju-hallasan-samgakbong-winter-ridge-2025",
+    "cardImageCrop": "west",
+    "heroCaption": "Hallasan’s Samgakbong ridge on the Gwaneumsa route in January 2025. Use the park’s current trail and weather notices for your visit.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Samgakbong (2025-01).jpg",
+      "author": "Sadopaul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samgakbong_(2025-01).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. Photographed 2025-01-04."
+    }
+  },
+  "dealing-with-complications-who-to-contact-in-emergencies": {
+    "id": "guide:dealing-with-complications-who-to-contact-in-emergencies",
+    "checkedAt": "2026-11-24",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "regions": [
+      "nationwide"
+    ],
+    "interests": [
+      "medical travel aftercare handoff",
+      "post treatment records"
+    ],
+    "stages": [
+      "exploring",
+      "departure"
+    ],
+    "forWhom": "Visitors coordinating follow-up or an unexpected hospital visit after treatment in Korea",
+    "answer": "Call 119 for a medical emergency in Korea. For a follow-up question, contact your treating team using the number on your discharge instructions. Get the care records and speak to your insurer before changing your journey.",
+    "conditions": [
+      "An emergency takes priority over reaching the original clinic or obtaining insurance authorization.",
+      "Your treating clinician and airline can advise about your particular travel plans. Ask the insurer which services your policy covers."
+    ],
+    "sources": [
+      {
+        "id": "kto-medical-emergency",
+        "title": "VisitKorea: Emergency situations",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140042",
+        "note": "Confirms emergency medical dispatch is 119 and separates it from travel and infectious-disease services.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "khidi-non-urgent-support",
+        "title": "Medical Korea: Information center",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "note": "Lists non-urgent information and complaint support with current phone and operating hours.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "fcdo-insurer",
+        "title": "UK FCDO: Medical emergencies and treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Explains contacting insurers, checking exclusions and keeping treatment records.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "fcdo-care-checklist",
+        "title": "UK FCDO: Medical treatment abroad checklist (PDF)",
+        "url": "https://travelaware.campaign.gov.uk/wp-content/uploads/sites/189/2025/08/RECENT-PDF-MT-Checklist-July-2025.pdf",
+        "note": "Covers the treating team’s contact details, continuity of care and questions before return travel.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "next",
+        "label": "Check official emergency contacts",
+        "reason": "Find the right Korean number and prepare the address or landmark for the call."
+      },
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "next",
+        "label": "Arrange practical help",
+        "reason": "Find local information for language support, pharmacy and travel problems."
+      }
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Medical emergency in Korea: call 119.",
+      "Keep discharge records and arrange follow-up."
+    ],
+    "heroOmissionReason": "The decision table and document checklist convey the help a traveler needs. A generic clinic image would not identify the treating facility.",
+    "tools": [],
+    "changeType": "rewrite",
+    "launchOrder": 1363
   }
 }

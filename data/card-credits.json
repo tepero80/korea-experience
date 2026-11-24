@@ -4934,5 +4934,45 @@
     "src": "/images/cards/korean-hair-care-shampoo-scalp-treatments.jpg",
     "fingerprint": "853dd5ca38756a71e66bb471a4f988d74ddbfad211fc8ed9d267b5b108efbe37",
     "adaptation": "Typographic social preview."
+  },
+  "budget-travel-korea-how-to-see-seoul-for-50-a-day-2026": {
+    "src": "/images/cards/budget-travel-korea-how-to-see-seoul-for-50-a-day-2026.jpg",
+    "fingerprint": "77a79c5d4e909b57964750bda43b9a94d0b984656f1394c957ac9f0b56a0c57f",
+    "adaptation": "Typographic social preview."
+  },
+  "busan-travel-guide-beaches-temples-and-street-food-2026": {
+    "src": "/images/cards/busan-travel-guide-beaches-temples-and-street-food-2026.jpg",
+    "fingerprint": "36e5f4bb9067c617e5437702a9855f18c0813fecb0a6f6d2750ed3fa121346af",
+    "sourceImage": "/images/editorial/busan-gwangalli-illuminated-bridge-from-shore-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwangan Bridge and Gwangalli Beach - Gwangalli2721.jpg",
+      "author": "lumoplank",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangan_Bridge_and_Gwangalli_Beach_-_Gwangalli2721.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The image shows the place or subject at the time of photography."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "hiking-hallasan-booking-reservation-2026": {
+    "src": "/images/cards/hiking-hallasan-booking-reservation-2026.jpg",
+    "fingerprint": "ffe1cb6a23d93128dfc4802f84987e45eb8ada156f7a9f75ccdcd53c47f87255",
+    "sourceImage": "/images/editorial/jeju-hallasan-samgakbong-winter-ridge-2025-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Samgakbong (2025-01).jpg",
+      "author": "Sadopaul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samgakbong_(2025-01).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. Photographed 2025-01-04."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "dealing-with-complications-who-to-contact-in-emergencies": {
+    "src": "/images/cards/dealing-with-complications-who-to-contact-in-emergencies.jpg",
+    "fingerprint": "d3b97cd1c0ff4fb8308ae4379d9ee23075d25da848a684ab856d90ae0ec5ebd9",
+    "adaptation": "Typographic social preview."
   }
 }
