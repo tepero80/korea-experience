@@ -4409,5 +4409,65 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "cherry-blossom-season-in-korea-when-and-where-2026": {
+    "src": "/images/cards/cherry-blossom-season-in-korea-when-and-where-2026.jpg",
+    "fingerprint": "a5e93e018b509ac4a98ab5b63a44df7718da4bfdeed937bdc171725a064b5f67",
+    "sourceImage": "/images/editorial/archive-jinhae-spring-path-2016-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Alexey Komarov",
+      "title": "Cherry Blossom in Jinhae-2016-04-02-1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Jinhae-2016-04-02-1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korean-street-art-and-graffiti-culture": {
+    "src": "/images/cards/korean-street-art-and-graffiti-culture.jpg",
+    "fingerprint": "b2c7f0348d484afb6efcc40ec348c33a4e54c619a9b73c1d91dc6afd47a38d85",
+    "sourceImage": "/images/editorial/archive-mullae-neighborhood-cityscape-2018-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Minseong Kim",
+      "title": "Mullae-dong cityscape.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mullae-dong_cityscape.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "k-drama-filming-locations-in-seoul-2026": {
+    "src": "/images/cards/k-drama-filming-locations-in-seoul-2026.jpg",
+    "fingerprint": "91c0a686b1ae669a541cab0100cffd7e996938fb2282b178d4ef1841889cdadd",
+    "sourceImage": "/images/editorial/archive-seoul-book-bogo-exterior-2019-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "오모군",
+      "title": "Seoulbookbogo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoulbookbogo.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "2026-year-of-the-red-horse-special-exhibitions-and-spiritual-spots-to-visit-for-luck": {
+    "src": "/images/cards/2026-year-of-the-red-horse-special-exhibitions-and-spiritual-spots-to-visit-for-luck.jpg",
+    "fingerprint": "9570d2d6cd01eaee7221ea4f92d27e67f83de5cf3af39f24d8285322a82baa9b",
+    "sourceImage": "/images/editorial/archive-jeju-mare-and-foal-2008-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "제주마육성팀",
+      "title": "Jeju horse (mother and daughter).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_horse_(mother_and_daughter).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

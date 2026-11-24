@@ -28171,5 +28171,397 @@
     },
     "cardImageLabel": "Pavilions reflected in Wolji Pond",
     "cardImageCrop": "contain"
+  },
+  "cherry-blossom-season-in-korea-when-and-where-2026": {
+    "id": "guide:cherry-blossom-season-in-korea-when-and-where-2026",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Keep the blossom day flexible. In Jinhae, start with Yeojwacheon for a stream walk or Gyeonghwa for the old railway. Plan road transport to Gyeonghwa.",
+    "forWhom": "Travelers planning a spring trip around cherry blossoms",
+    "conditions": [
+      "Festival dates, site access and flowering are separate checks.",
+      "Gyeonghwa Station is a visitor site with no passenger train stop."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "cherry blossoms",
+      "spring travel"
+    ],
+    "relations": [
+      {
+        "slug": "spring-in-korea-cherry-blossoms-and-festivals",
+        "type": "next",
+        "label": "Compare spring trips across Korea",
+        "reason": "Find a blossom stop near the city where you are already staying."
+      },
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "next",
+        "label": "Build a Seoul fallback day",
+        "reason": "Keep palace, neighborhood and indoor options available if the flowers are early or late."
+      },
+      {
+        "slug": "gyeongju-donggung-wolji-woljeonggyo-evening-walk",
+        "type": "next",
+        "label": "Plan an evening in Gyeongju",
+        "reason": "Use a separate access plan if Gyeongju is part of your spring trip."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kto-jinhae-stream",
+        "title": "VISITKOREA: Yeojwacheon Stream",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=93625",
+        "note": "Location and visitor access.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-gyeonghwa-station",
+        "title": "VISITKOREA: Gyeonghwa Station Cherry Blossom Street",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=81715",
+        "note": "Former station, Korean road address and public site information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-spring-sites",
+        "title": "VISITKOREA: spring bloom destinations",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1580801",
+        "note": "Descriptions of the two Jinhae sites.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-jinhae-2026",
+        "title": "VISITKOREA: archived 2026 Jinhae festival dates",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=124524",
+        "note": "Ended festival. Future dates require a fresh notice.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check flowering and festival access separately.",
+      "Gyeonghwa is a visitor site with no passenger train stop."
+    ],
+    "launchOrder": 1303,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-jinhae-spring-path-2016",
+    "heroCaption": "A Jinhae path in bloom in April 2016. The photograph illustrates the season; check current flowering and access before your visit.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Alexey Komarov",
+      "title": "Cherry Blossom in Jinhae-2016-04-02-1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Jinhae-2016-04-02-1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "A cherry blossom walk in Jinhae",
+    "cardImageCrop": "contain"
+  },
+  "korean-street-art-and-graffiti-culture": {
+    "id": "guide:korean-street-art-and-graffiti-culture",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Mullae for an artist-and-workshop neighborhood or Ihwa for a hillside walk. Preview the slope, follow public streets and let the artwork you find shape the visit.",
+    "forWhom": "Visitors choosing a street art walk in Seoul",
+    "conditions": [
+      "Mullae is a working neighborhood.",
+      "Ihwa is residential and the approach includes stairs."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "street art",
+      "neighborhood walks"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-city-wall-museum-guide",
+        "type": "next",
+        "label": "Learn about the city wall",
+        "reason": "Pair the hills near Ihwa with a separate visit to the city wall museum."
+      },
+      {
+        "slug": "deoksugung-to-seoul-museum-of-art",
+        "type": "next",
+        "label": "Choose an indoor art stop",
+        "reason": "Use a palace-and-museum route if weather makes an outdoor walk difficult."
+      },
+      {
+        "slug": "unhyeongung-anguk-traditional-house-visit",
+        "type": "next",
+        "label": "Walk a different old neighborhood",
+        "reason": "Visit a defined public entrance and a small traditional site near Anguk."
+      }
+    ],
+    "sources": [
+      {
+        "id": "visit-seoul-mullae",
+        "title": "Visit Seoul: Mullae Art Village",
+        "url": "https://english.visitseoul.net/attractions/Mullae-Art-Village/ENP002789",
+        "note": "Workshop setting, address and subway exit.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-ihwa",
+        "title": "Visit Seoul: Ihwa Mural Village",
+        "url": "https://english.visitseoul.net/nature/IhwaMuralVillage/ENPz90c1l",
+        "note": "Stairs on the approach, address and subway exit.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-naksan",
+        "title": "Visit Seoul: Naksan Park",
+        "url": "https://english.visitseoul.net/nature/naksan-park/ENP003700",
+        "note": "Public park and general access information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-ihwa-residential",
+        "title": "VISITKOREA: Ihwa mural village",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=138020",
+        "note": "Residential setting and local context.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Mullae has active workshops.",
+      "The Hyehwa approach to Ihwa includes stairs."
+    ],
+    "launchOrder": 1304,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-mullae-neighborhood-cityscape-2018",
+    "heroCaption": "Mullae-dong from above in October 2018. This neighborhood view shows the low workshop blocks and taller surrounding buildings.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Minseong Kim",
+      "title": "Mullae-dong cityscape.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mullae-dong_cityscape.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Workshops and towers in Mullae-dong",
+    "cardImageCrop": "contain"
+  },
+  "k-drama-filming-locations-in-seoul-2026": {
+    "id": "guide:k-drama-filming-locations-in-seoul-2026",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Seoul Book Bogo in Songpa for Hotel del Luna or the Seoul Museum of Craft Art street in Anguk for Business Proposal. They are separate parts of the city.",
+    "forWhom": "K-drama fans choosing a short public-location visit",
+    "conditions": [
+      "Seoul Book Bogo reopened after renovations in 2025.",
+      "The Business Proposal street scene is outside the museum."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "filming locations",
+      "k-drama",
+      "neighborhood walks"
+    ],
+    "relations": [
+      {
+        "slug": "unhyeongung-anguk-traditional-house-visit",
+        "type": "next",
+        "label": "Add a stop near Anguk",
+        "reason": "Pair the public filming street with Unhyeongung and check its entrance hours."
+      },
+      {
+        "slug": "bukchon-village-library-visitor-guide",
+        "type": "next",
+        "label": "Find a quiet indoor book stop",
+        "reason": "Use the visitor guide for a separate small library in the Bukchon area."
+      },
+      {
+        "slug": "deoksugung-to-seoul-museum-of-art",
+        "type": "next",
+        "label": "Compare a palace and gallery route",
+        "reason": "Plan another central Seoul day if architecture and art are the priority."
+      }
+    ],
+    "sources": [
+      {
+        "id": "visitseoul-bookbogo-scene",
+        "title": "Visit Seoul: Hotel del Luna locations",
+        "url": "https://english.visitseoul.net/hallyu/Retro-Seoul-in-Hotel-del-Luna/31701",
+        "note": "Names Seoul Book Bogo as an Episode 2 location.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-bookbogo-reopening",
+        "title": "VISITKOREA: Seoul Book Bogo",
+        "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=230934",
+        "note": "Recent reopening and visitor information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-bookbogo-access",
+        "title": "Seoul City: Seoul Book Bogo",
+        "url": "https://mediahub.seoul.go.kr/archives/2019405",
+        "note": "Street address and Jamsillaru Exit 1.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visitseoul-proposal-craft",
+        "title": "Visit Seoul: Business Proposal locations",
+        "url": "https://english.visitseoul.net/hallyu/the-drama-that-stimulates-your-love-cells/ENN041167",
+        "note": "Identifies the umbrella scene on the street by the museum.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visitseoul-craft-approach",
+        "title": "Visit Seoul: Seoul Museum of Craft Art",
+        "url": "https://english.visitseoul.net/PalaceArea/Seoul-Museum-of-Craft_/38147",
+        "note": "Anguk Exit 1 and the museum address.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Hotel del Luna episode 2: Seoul Book Bogo in Songpa.",
+      "Business Proposal umbrella scene: the craft museum street near Anguk."
+    ],
+    "launchOrder": 1305,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-book-bogo-exterior-2019",
+    "heroCaption": "Seoul Book Bogo in August 2019, before the 2025 reopening. Use current entrance signs and check the venue’s latest hours.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "오모군",
+      "title": "Seoulbookbogo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoulbookbogo.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Seoul Book Bogo viewed from the forecourt",
+    "cardImageCrop": "contain"
+  },
+  "2026-year-of-the-red-horse-special-exhibitions-and-spiritual-spots-to-visit-for-luck": {
+    "id": "guide:2026-year-of-the-red-horse-special-exhibitions-and-spiritual-spots-to-visit-for-luck",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "The 2026 Seoul zodiac show has ended. In Jeju, choose the protected pasture for a seasonal outdoor view or the Gasi-ri museum to learn about horse culture.",
+    "forWhom": "Visitors following the Year of the Horse theme or planning a family outing on Jeju",
+    "conditions": [
+      "Pasture interior access is restricted.",
+      "Outdoor viewing and any riding session depend on season and availability."
+    ],
+    "regions": [
+      "jeju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "horses",
+      "heritage",
+      "family trips"
+    ],
+    "relations": [
+      {
+        "slug": "jeju-airport-to-jeju-city-and-seogwipo",
+        "type": "next",
+        "label": "Plan your Jeju airport transfer",
+        "reason": "Choose where to stay and how to reach your accommodation before adding a cross-island stop."
+      },
+      {
+        "slug": "jeju-stone-park-first-route-by-bus",
+        "type": "next",
+        "label": "Plan a Jeju heritage alternative",
+        "reason": "Use a verified public entrance and bus plan if you want another local culture outing."
+      }
+    ],
+    "sources": [
+      {
+        "id": "koreanet-2026-horse",
+        "title": "Korea.net: 2026 National Folk Museum horse exhibition",
+        "url": "https://www.korea.net/NewsFocus/Culture/view?articleId=284757",
+        "note": "Historical event and end date.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visitjeju-horse-pasture",
+        "title": "Visit Jeju: Jeju Horse Pastureland",
+        "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500177",
+        "note": "Korean road address, seasonal viewing and protected heritage.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visitjeju-horse-route",
+        "title": "Visit Jeju: horse-themed route",
+        "url": "https://www.visitjeju.net/en/themtour/view?contentsid=CNTS_300000000014078",
+        "note": "Interior access restriction and public visitor orientation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visitjeju-gasi-ri",
+        "title": "Visit Jeju: Jeju Horse Park",
+        "url": "https://www.visitjeju.net/kr/detail/view?contentsid=CONT_000000000500588",
+        "note": "Korean road address and visitor facilities.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visitjeju-gasi-ri-hours",
+        "title": "Visit Jeju: Jeju Horse Park in English",
+        "url": "https://www.visitjeju.net/en/detail/view?contentsid=CONT_000000000500588&menuId=DOM_000001817000000001",
+        "note": "Museum and riding information, current hours listing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "The Seoul zodiac exhibition ended March 2, 2026.",
+      "Plan the seasonal pasture view separately from a museum or riding visit."
+    ],
+    "launchOrder": 1306,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-jeju-mare-and-foal-2008",
+    "heroCaption": "A Jeju mare and foal photographed in April 2008. The source identifies the breed. The location of this photograph is unspecified.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "제주마육성팀",
+      "title": "Jeju horse (mother and daughter).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_horse_(mother_and_daughter).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "A Jeju mare and her foal",
+    "cardImageCrop": "contain"
   }
 }

@@ -10860,5 +10860,120 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
     },
     "caption": "An October 2011 view from Namsan Park at dusk, with city lights coming on. The current skyline and access can differ."
+  },
+  {
+    "id": "archive-jinhae-spring-path-2016",
+    "src": "/images/editorial/archive-jinhae-spring-path-2016-1280.webp",
+    "srcSet": "/images/editorial/archive-jinhae-spring-path-2016-640.webp 640w, /images/editorial/archive-jinhae-spring-path-2016-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Visitors on a path beneath cherry blossoms in Jinhae, beside a white railing.",
+    "focal": "65% 55%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Jinhae-2016-04-02-1.jpg",
+    "originalHash": "3f253d8cd5be37ddc0b2c1d2be4007cee1b7025c253c257646524f7d835a4dfc",
+    "capturedAt": "2016-04-02",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Alexey Komarov",
+      "title": "Cherry Blossom in Jinhae-2016-04-02-1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Jinhae-2016-04-02-1.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "A Jinhae path in bloom in April 2016. The photograph illustrates the season; check current flowering and access before your visit."
+  },
+  {
+    "id": "archive-gyeonghwa-station-blossom-crowd-2016",
+    "src": "/images/editorial/archive-gyeonghwa-station-blossom-crowd-2016-1280.webp",
+    "srcSet": "/images/editorial/archive-gyeonghwa-station-blossom-crowd-2016-640.webp 640w, /images/editorial/archive-gyeonghwa-station-blossom-crowd-2016-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "Crowds walking under flowering cherry trees at Gyeonghwa Station in Jinhae.",
+    "focal": "50% 45%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Jinhae-2016-04-02-2.jpg",
+    "originalHash": "2edd4cf92569f6d7790519545c50c8cc4f6442631604bfb04484b555c2f3e684",
+    "capturedAt": "2016-04-02",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Alexey Komarov",
+      "title": "Cherry Blossom in Jinhae-2016-04-02-2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cherry_Blossom_in_Jinhae-2016-04-02-2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "A crowded blossom walk at Gyeonghwa Station in April 2016. This is a visitor stop, with no passenger trains serving it."
+  },
+  {
+    "id": "archive-mullae-neighborhood-cityscape-2018",
+    "src": "/images/editorial/archive-mullae-neighborhood-cityscape-2018-1280.webp",
+    "srcSet": "/images/editorial/archive-mullae-neighborhood-cityscape-2018-640.webp 640w, /images/editorial/archive-mullae-neighborhood-cityscape-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 707,
+    "alt": "Low workshops and apartment towers in Mullae-dong, Seoul, in evening light.",
+    "focal": "52% 71%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Mullae-dong_cityscape.jpg",
+    "originalHash": "ac53d7a40359a6c2b0b476299bbcb32be01003dafb39fa50b16c96b1eff47208",
+    "capturedAt": "2018-10-03",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Minseong Kim",
+      "title": "Mullae-dong cityscape.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mullae-dong_cityscape.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Mullae-dong from above in October 2018. This neighborhood view shows the low workshop blocks and taller surrounding buildings."
+  },
+  {
+    "id": "archive-seoul-book-bogo-exterior-2019",
+    "src": "/images/editorial/archive-seoul-book-bogo-exterior-2019-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-book-bogo-exterior-2019-640.webp 640w, /images/editorial/archive-seoul-book-bogo-exterior-2019-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "The long, low Seoul Book Bogo building viewed across the forecourt.",
+    "focal": "49% 63%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoulbookbogo.jpg",
+    "originalHash": "52fbc0fe283c7ee7af7bae8207a4ab077eb4a277861e94849e9aa3a3207e6a14",
+    "capturedAt": "2019-08-17",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "오모군",
+      "title": "Seoulbookbogo.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoulbookbogo.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Seoul Book Bogo in August 2019, before the 2025 reopening. Use current entrance signs and check the venue’s latest hours."
+  },
+  {
+    "id": "archive-jeju-mare-and-foal-2008",
+    "src": "/images/editorial/archive-jeju-mare-and-foal-2008-1280.webp",
+    "srcSet": "/images/editorial/archive-jeju-mare-and-foal-2008-640.webp 640w, /images/editorial/archive-jeju-mare-and-foal-2008-1280.webp 1280w",
+    "width": 1280,
+    "height": 855,
+    "alt": "A gray Jeju mare running across grass with her foal.",
+    "focal": "49% 54%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Jeju_horse_(mother_and_daughter).jpg",
+    "originalHash": "ad06f0ac837c8e2cc5336182c403c40f13ecd9164890460b2227676e124717a0",
+    "capturedAt": "2008-04-24",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "제주마육성팀",
+      "title": "Jeju horse (mother and daughter).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeju_horse_(mother_and_daughter).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "A Jeju mare and foal photographed in April 2008. The source identifies the breed. The location of this photograph is unspecified."
   }
 ]
