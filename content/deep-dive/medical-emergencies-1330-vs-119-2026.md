@@ -26,6 +26,8 @@ If it is safe to stay with the person, tell responders where to find you. KTO su
 <span id="option-b-1330-the-smart-travelers-tool"></span>
 <span id="option-c-private-ambulances"></span>
 
+If someone keeps following you or pressures you to go somewhere, [leave safely and find the right help](/blog/how-to-identify-cult-recruitment-2026).
+
 ## What 1330 can do
 
 The [1330 Korea Travel Helpline](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=454&vcontsId=140632) provides tourist information, interpretation and complaint assistance. It is not an ambulance dispatcher, a diagnosis service or a guarantee that a hospital can accept a patient. If immediate help may be needed, call 119 directly rather than waiting for a tourism operator or searching for a clinic.

@@ -20,6 +20,8 @@ Seoul’s [rental guidance](https://english.seoul.go.kr/service/living/housing/1
 
 If a problem occurs during the lease, the [rental repair reporting guide](/blog/dealing-with-korean-landlords-common-issues) explains what to document and where to ask for help.
 
+If you plan to buy a home that already has a tenant, [verify the permit, title and deposit obligations before paying](/blog/how-to-invest-in-korean-real-estate-as-a-foreigner-legal-steps-2026).
+
 ## Prepare for the return before you move
 
 Confirm the required notice, expected payment date and contact while there is still time before move-out. If payment may be delayed, ask your counselor or guarantee provider about the case before returning keys or changing address. Save financial records and dated correspondence together.

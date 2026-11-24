@@ -9,6 +9,8 @@ author: Korea Experience Editorial
 
 Korea Immigration Service says the F-1-D Workation Visa became a permanent program on June 30, 2026. The [autumn 2026 immigration update](https://www.immigration.go.kr/sites/immigration/file/ebook/gongzone/2026/2026_gongzone_vol77.pdf) describes a route for adults aged 18 or older who own an overseas business or work for an overseas company, can work remotely and have at least one year of experience in the same industry. The visa is for remote work tied to an overseas business. Ask immigration which status would cover any work you expect to do for a Korean employer or client.
 
+If you are still choosing a job, [check which employers allow work from Korea and which duties your status permits](/blog/how-to-find-remote-work-opportunities-in-korea-2026).
+
 ## Find the income band for your proposed address
 
 GNI below means the Korean per-person gross national income benchmark. Ask the receiving office for the figure and evidence it uses at the date you apply.

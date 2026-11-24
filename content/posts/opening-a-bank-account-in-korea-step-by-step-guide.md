@@ -22,6 +22,8 @@ Call the branch where you plan to open the account. Say why you need it, such as
 
 If you need to send money home, [confirm which providers accept your account and compare two usable quotes](/blog/sending-money-abroad-from-korea-best-methods-2026).
 
+If you need an account for a virtual-asset service, [verify the operator and its bank-account rules separately](/blog/cryptocurrency-in-korea-exchanges-and-regulations).
+
 ## Ask what works the day the account opens
 
 Ask the teller to show the applicable withdrawal and transfer limits for each channel you expect to use. Record which limits apply at the counter, at an ATM and through the app, along with any separate activation or later review. Ask what can change the restrictions and what evidence the branch would require. Then use the [card and mobile features checklist](/blog/opening-a-korean-bank-account-for-foreigners) to confirm the account will support the transactions you need.

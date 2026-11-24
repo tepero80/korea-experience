@@ -11,6 +11,8 @@ image: "/images/editorial/archive-jamsil-lotte-world-indoor-hall-2018-1280.webp"
 
 Choose the outing that fits your child's interests and your available time. A reserved museum session can anchor a shorter indoor plan; a theme park demands more travel, walking and queue flexibility.
 
+If your family is moving to Korea, [confirm school, pickup and care hours](/blog/korean-parenting-styles-understanding-the-tiger-mom-vs-new-trends-2026) before planning weekday outings.
+
 ## Compare the day
 
 | Choice | Best starting point |

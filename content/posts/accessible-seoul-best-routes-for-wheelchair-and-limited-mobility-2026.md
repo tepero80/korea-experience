@@ -92,6 +92,8 @@ Danurim offers a vehicle service and travel-aid rentals through its [reservation
 <span id="luxury-options-250"></span>
 <span id="mid-range--budget-80---150"></span>
 
+If you are planning joint or eye care, [check the whole route to the clinic and confirm the follow-up schedule](/blog/senior-medical-tourism-joint-replacement-and-cataract-surgery).
+
 ## Book an accessible room with the details confirmed
 
 Hotel labels are not enough to confirm a suitable room. Before paying, ask the property to confirm the specific room and route from drop-off or the lobby. Depending on your needs, request:

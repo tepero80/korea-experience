@@ -49157,5 +49157,461 @@
     "changeType": "rewrite",
     "launchOrder": 1680,
     "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "korean-parenting-styles-understanding-the-tiger-mom-vs-new-trends-2026": {
+    "id": "guide:korean-parenting-styles-understanding-the-tiger-mom-vs-new-trends-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with your child’s age, language needs and the hours you need covered. Ask the district education office about school entry, then confirm the daily schedule with the school. Check childcare and after-school care separately so you know who can pick up your child and when.",
+    "forWhom": "Families moving to or living in Korea who need to compare school and childcare routines.",
+    "conditions": [
+      "School placement, enrolment documents and childcare access depend on the child and the institution. Seoul’s care programs serve specific facilities and have their own conditions."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "family",
+      "school",
+      "childcare",
+      "moving"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w45-seoul-school-entry",
+        "title": "Seoul Metropolitan Government, education for foreign residents",
+        "url": "https://english.seoul.go.kr/service/learning/education-for-foreign-residents/",
+        "note": "Foreign children can generally attend Korean schools. The local education office advises on entrance qualifications.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-seoul-hourly-childcare",
+        "title": "Seoul Metropolitan Government, emergency and specialized childcare",
+        "url": "https://english.seoul.go.kr/smg-expands-emergency-specialized-childcare-centers-to-meet-urgent-childcare-needs/",
+        "note": "Seoul describes hourly and year-round childcare at participating centers and directs families to the Seoul Childcare Portal for reservations.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask what time class ends and what time care ends. Plan pickup from the hours the school or care provider confirms."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1681,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "how-to-identify-cult-recruitment-2026": {
+    "id": "guide:how-to-identify-cult-recruitment-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "If someone keeps pressing after you decline, end the interaction and move toward a staffed public place when you can. If you are threatened, followed and feel unsafe, or prevented from leaving, call police at 112. Use 119 for urgent fire, rescue or ambulance help.",
+    "forWhom": "Visitors and residents in Korea who want a safe way to handle a persistent invitation or an unwanted high-pressure encounter.",
+    "conditions": [
+      "Choose the response based on what is happening and whether you can leave safely. Call emergency services promptly if someone is in immediate danger."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "safety",
+      "street-encounters",
+      "emergency-help",
+      "tourism"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w45-kto-police-and-ambulance",
+        "title": "Korea Tourism Organization, emergency safety services for visitors",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=217&vcontsId=248145",
+        "note": "112 is for police, 119 for the fire department and ambulance, and callers can ask for an interpreter and describe their location.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-kto-travel-helpline",
+        "title": "Korea Tourism Organization, Tourist Information Center",
+        "url": "https://contest.visitkorea.or.kr/eng/overview/facilities/infocenter.kto",
+        "note": "The official 1330 travel helpline provides visitor information and lists round-the-clock support in Korean, English, Japanese and Chinese.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "For a threat or someone preventing you from leaving, call police at 112 and give a nearby landmark or address."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1682,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "how-to-find-remote-work-opportunities-in-korea-2026": {
+    "id": "guide:how-to-find-remote-work-opportunities-in-korea-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Search for listings that allow you to work while physically in South Korea. Ask who signs the contract, where you can work and which hours are required. Before starting, confirm with Korean immigration whether your status allows the exact arrangement, including any freelance or local paid work.",
+    "forWhom": "People with an overseas job or business, and job seekers considering paid remote work while in South Korea.",
+    "conditions": [
+      "Eligibility and permission depend on the person, status, actual work and contract. Check current rules with the responsible immigration office or Korean mission."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "remote-work",
+      "employment",
+      "immigration",
+      "moving"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w45-kis-workcation-reform",
+        "title": "Korea Immigration Service, July 2026 Workcation visa reform",
+        "url": "https://www.immigration.go.kr/bbs/immigration/214/608294/artclView.do",
+        "note": "The Workcation visa became a formal program on June 30, 2026. Income requirements differ by age and area of stay, and the maximum permitted stay rose to three years.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-mofa-workcation-purpose",
+        "title": "Korean Consulate General in Atlanta, Digital Nomad visa",
+        "url": "https://overseas.mofa.go.kr/us-atlanta-en/brd/m_4849/view.do?seq=18",
+        "note": "The F-1-D route is for eligible overseas business owners or workers affiliated with an overseas company who can work remotely. Use the responsible mission for documentary requirements.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-law-extra-work-status",
+        "title": "Korean Immigration Act, Article 20",
+        "url": "https://www.law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1035220467",
+        "note": "Activities covered by another stay status alongside the current status require prior permission under the statutory conditions.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-kis-remote-work-contact",
+        "title": "Korea Immigration Service, Immigration Contact Center",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "1345 offers immigration counseling and information in multiple languages.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check three things before a remote start date: the contracting employer, the allowed work location and the immigration permission for the actual duties."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1683,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "how-to-invest-in-korean-real-estate-as-a-foreigner-legal-steps-2026": {
+    "id": "guide:how-to-invest-in-korean-real-estate-as-a-foreigner-legal-steps-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Before paying a deposit, confirm the title and current leases, ask the district whether the property and your intended use need prior permission, and have your bank confirm the funding and foreign-exchange filing route. Ask who will submit the sale report and when it is due.",
+    "forWhom": "Foreign buyers who have identified a specific Korean property and need to decide what to verify before signing or paying a deposit.",
+    "conditions": [
+      "Permit coverage depends on the location, property, buyer and intended use. Reporting depends on the contract type. Foreign-exchange filing depends on your status under those rules and your funding source."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "housing",
+      "banking",
+      "paperwork",
+      "long-stay"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w45-property-title-article-19",
+        "title": "Real Estate Registration Act, Article 19",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1026156537",
+        "note": "The law permits a request to view recorded registration details or obtain a registration certificate, with separate limits on access to attached documents.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-property-land-permit-article-9",
+        "title": "Real Estate Transaction Reporting Act, Article 9",
+        "url": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1034962075",
+        "note": "Foreign buyers must obtain prior permission for acquisition of land in the protected categories specified by Article 9, subject to its stated Article 11 exception.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-molit-foreign-buyer-permit-zones",
+        "title": "Ministry of Land, Infrastructure and Transport permit-zone update",
+        "url": "https://www.korea.kr/news/policyNewsView.do?newsId=148970419&pWise=main&pWiseMain=R4",
+        "note": "The ministry announced an extension of the designated foreign-buyer land transaction permit zones through August 25, 2027. Details depend on the designation, location and intended use.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-bank-of-korea-property-funding",
+        "title": "Bank of Korea foreign-exchange reporting FAQs",
+        "url": "https://www.bok.or.kr/portal/bbs/B0000267/list.do?menuNo=200796&searchCnd=1",
+        "note": "The nonresident-property examples differentiate funding wholly brought in or remitted from abroad from purchases that include locally sourced funds such as domestic loans or jeonse deposits.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-property-sale-report-article-3",
+        "title": "Real Estate Transaction Reporting Act, Article 3",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1028346425",
+        "note": "Contracts covered by Article 3, including sales, are subject to reporting within 30 days of contract formation.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-property-other-contracts-article-8",
+        "title": "Real Estate Transaction Reporting Act, Article 8",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1033340101",
+        "note": "The Article 8 60-day rule applies to specified foreign acquisition contracts and expressly excludes contracts already covered by Article 3.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask the district to confirm prior permission and the reporting deadline, and have your bank check the funding route before you pay a deposit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1684,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "cryptocurrency-in-korea-exchanges-and-regulations": {
+    "id": "guide:cryptocurrency-in-korea-exchanges-and-regulations",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Find the exchange's exact legal name in KoFIU’s current list. Confirm the service and identity rules with the operator, and ask its partner bank about the real-name account if you need a KRW market. Stop if you cannot match the operator, support channel or payment details.",
+    "forWhom": "Foreign residents or visitors checking whether a crypto service in Korea is legitimate and whether their own documents and bank account qualify.",
+    "conditions": [
+      "Account access and transfer options depend on the service, provider and account. Tax depends on tax residence, transaction date and type, and any applicable treaty."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "banking",
+      "payments",
+      "consumer-safety",
+      "long-stay"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w45-kofiu-operator-list",
+        "title": "Korea Financial Intelligence Unit operator reports",
+        "url": "https://www.kofiu.go.kr/kor/notification/notice.do",
+        "note": "KoFIU publishes dated lists of accepted virtual asset service provider reports with downloadable records.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-crypto-real-name-article-7",
+        "title": "Act on Reporting and Using Specified Financial Transaction Information, Article 7",
+        "url": "https://law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1023714483",
+        "note": "The law defines a real-name deposit and withdrawal account and provides for exceptions to the operator rule in specified cases.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-fsc-virtual-asset-user-protection",
+        "title": "Financial Services Commission summary of virtual-asset user protections",
+        "url": "https://www.fsc.go.kr/eng/pr010101/82683",
+        "note": "The act took effect in July 2024 and requires banks to hold users’ cash deposits and providers to separate customer virtual assets from the provider’s own assets.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-fsc-virtual-asset-scam-alert",
+        "title": "Financial Services Commission warning on unreported virtual-asset operators",
+        "url": "https://www.fsc.go.kr/po010106/88039?curPage=&srchBeginDt=&srchCtgry=6&srchEndDt=&srchKey=&srchText=",
+        "note": "Regulator warns about guaranteed returns, purported private information and referrals. The release describes reporting channels for suspected unlawful operations and warns against sharing private keys and login details.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-nts-resident-virtual-asset-tax",
+        "title": "National Tax Service resident virtual-asset income guide",
+        "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=238935&mi=40370",
+        "note": "The resident guidance describes separate taxation of income from covered transfers and lending from January 1, 2027 under the amendment it cites.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-nts-nonresident-virtual-asset-tax",
+        "title": "National Tax Service nonresident virtual-asset income guide",
+        "url": "https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?cntntsId=238936&mi=40371",
+        "note": "The nonresident guidance describes a separate provider-withholding framework and a potential treaty exemption process.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the legal operator with KoFIU, then confirm your own ID and bank eligibility through independently located support channels before sending money."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1685,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "psychological-support-for-post-surgery-depression-in-foreign-patients-2026": {
+    "id": "guide:psychological-support-for-post-surgery-depression-in-foreign-patients-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "If you feel distressed after a procedure, contact your treating team and ask how to arrange an appointment with a qualified clinician. Use 119 for immediate medical help in Korea. Before you leave the clinic, save its daytime and after-hours contacts and ask how to share a written summary securely with your usual clinician.",
+    "forWhom": "International patients who want support with distress after surgery in Korea, and people helping them with the patient's permission.",
+    "conditions": [
+      "Provider availability, consultation language, fees and contact methods vary. A medical information line can point you to services. Call 119 when immediate medical help is needed."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "language",
+      "accessibility"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w45-seoul-medical-emergency-119",
+        "title": "Visit Seoul medical emergency information",
+        "url": "https://english.visitseoul.net/medical-emergencies",
+        "note": "Visit Seoul lists 119 for emergency medical help and says visitors can request an ambulance in English.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-medical-korea-information-center",
+        "title": "Medical Korea Information Center",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "note": "The official center provides information on medical institutions and services and supports arranging appointments.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-snuh-record-requests",
+        "title": "Seoul National University Hospital records and certificate requests",
+        "url": "https://www.snuh.org/global/en/patients/EN02005.do",
+        "note": "SNUH lists discharge summaries in its records and specifies a clinician request form for its mental health records.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Save the treating team's after-hours contact and ask who will handle follow-up after you leave Korea."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1686,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "senior-medical-tourism-joint-replacement-and-cataract-surgery": {
+    "id": "guide:senior-medical-tourism-joint-replacement-and-cataract-surgery",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Before booking treatment or a return flight, ask which records the Korean clinic can review, whether it can provide the support you need to attend, and what follow-up must take place before traveling. Coordinate with the clinician who will care for you at home. Request a written quote that lists what is included and what could cost extra.",
+    "forWhom": "Older international patients considering a joint or cataract consultation in Korea and companions helping them plan the visit.",
+    "conditions": [
+      "The treating clinician should advise on treatment options, follow-up and travel timing based on your circumstances. Confirm the clinic's access arrangements, interpretation and prices before paying."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "accessibility",
+      "transport"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w45-medical-korea-information-center",
+        "title": "Medical Korea Information Center",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "note": "The official center provides information on medical institutions and services and supports arranging appointments.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-seoul-subway-access-facilities",
+        "title": "Seoul Metropolitan Government subway accessibility facilities",
+        "url": "https://english.seoul.go.kr/service/movement/public-transportation/subway-accessibility-facilities/",
+        "note": "The city's station tables list facilities including elevators, accessible restrooms and voice guidance systems.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-snuh-record-requests",
+        "title": "Seoul National University Hospital records and certificate requests",
+        "url": "https://www.snuh.org/global/en/patients/EN02005.do",
+        "note": "SNUH lists discharge summaries in its records and specifies a clinician request form for its mental health records.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask what follow-up must happen in Korea and who will take over after you get home before booking a return flight."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1687,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "medical-procedures-for-transgender-patients-in-seoul": {
+    "id": "guide:medical-procedures-for-transgender-patients-in-seoul",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the specific clinic whether it offers the care you want and can assess you during your stay. Check what the clinic needs for ID, what name it can use when speaking to you, and who can access the information you share. Ask for the price and a follow-up plan before making a commitment.",
+    "forWhom": "Transgender travelers and residents considering a medical appointment in Seoul, including people seeking a consultation or continuity of existing care.",
+    "conditions": [
+      "Services, intake requirements, interpretation and document practices vary by clinic. The treating clinician should explain any medical options and follow-up based on your situation."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "language",
+      "paperwork"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w45-medical-korea-registration",
+        "title": "Medical Korea registration system for international patient providers",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "note": "Medical Korea explains the registration system for institutions serving international patients. Confirm that a particular clinic and service are available directly.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-medical-act-records-article-21",
+        "title": "Korean Medical Service Act, Article 21",
+        "url": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1028699889",
+        "note": "Article 21 addresses patients requesting their own records and sets conditions and exceptions for access by other people.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-mfds-controlled-medicine-entry",
+        "title": "Korean Ministry of Food and Drug Safety guidance on carrying controlled medication",
+        "url": "https://www.mfds.go.kr/brd/m_74/view.do?Data_stts_gubun=C9999&company_cd=&company_nm=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&page=118&seq=43906&srchFr=&srchTo=&srchTp=0&srchWord=",
+        "note": "MFDS describes the permission process for medicines containing controlled substances that travelers carry for personal treatment.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask separately about the name staff will use in conversation and the legal name required for billing and records."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1688,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
   }
 }

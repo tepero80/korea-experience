@@ -240,12 +240,9 @@ The center of the island. Hiking to the summit requires a reservation (QR code s
   ]}
 />
 
-## Visa Requirements for 2026
+## Confirm which work you can do in Jeju
 
-South Korea's "Workation Visa" (technically a variation of the F-1-D visa) allows stays of up to one year (extendable to two).
-*   **Income Requirement:** You must prove an annual income of approx $65,000 USD (₩85 million).
-*   **Employment:** Must be employed by a foreign company (no local employment allowed).
-*   **Insurance:** Private health insurance coverage of at least ₩100 million is mandatory.
+Before booking a long stay, check whether your status allows the work you intend to do. [Compare overseas remote work, a Korean hire and client work](/blog/how-to-find-remote-work-opportunities-in-korea-2026), then use the [workcation visa guide](/blog/digital-nomad-visa-korea-requirements-and-application) to check the current income band, documents and possible stay length for your address and situation.
 
 ## Final Verdict: Is Jeju Right for You?
 
