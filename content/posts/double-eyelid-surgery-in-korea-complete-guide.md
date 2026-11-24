@@ -93,7 +93,7 @@ Many Korean clinics offer online consultations via video call or email. This is 
 *   Gauge the clinic's communication style and English proficiency.
 
 #### Visa and Accommodation Tips
-For many nationalities, a visa may be required to enter Korea. Check the latest requirements well in advance. Consider staying in areas close to your chosen clinic for convenience during post-operative visits. Neighborhoods like Gangnam or Sinsa-dong offer a wide range of hotels, serviced apartments, and guesthouses. For more detailed advice, you might want to read our guide on "Planning Your Medical Trip to Korea: Visas, Accommodation, and Logistics" (internal linking opportunity).
+For many nationalities, a visa may be required to enter Korea. Check the latest requirements well in advance. Consider staying in areas close to your chosen clinic for convenience during post-operative visits. Neighborhoods like Gangnam or Sinsa-dong offer a wide range of hotels, serviced apartments, and guesthouses.
 
 ### The In-Person Consultation Experience
 

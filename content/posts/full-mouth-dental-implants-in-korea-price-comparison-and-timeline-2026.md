@@ -200,11 +200,8 @@ Undergoing a major dental procedure like full mouth implants in a foreign countr
 
 *   **Follow-up Appointments:** Attend all scheduled follow-up appointments in Korea before returning home.
 *   **Long-Term Care:** Regular check-ups and professional cleanings are vital for the longevity of your implants. Discuss a follow-up plan with your Korean dentist for care once you return home. They can often provide recommendations for local dentists.
-*   **Emergency Contacts:** Keep important numbers handy:
-    *   **119:** For ambulance and fire services (equivalent to 911 in the US).
-    *   **1339:** For medical consultation and information (a medical helpline).
+*   **Emergency help:** Call **119** for an ambulance in an emergency. Save the [emergency call steps for Korea](/blog/medical-emergencies-1330-vs-119-2026). For routine follow-up, use the treatment team's contact details and written instructions.
 
-*Internal Linking Opportunity: For more detailed information on planning your medical trip, check out our guide on "Medical Tourism in Korea: A Comprehensive Planning Guide."*
 
 ## Making an Informed Decision
 
@@ -233,7 +230,6 @@ Embarking on a journey for **full mouth dental implants in Korea** offers an inc
 
 By understanding the **price comparison and timeline for full mouth dental implants in Korea in 2026**, along with practical tips for your medical tourism experience, you are now better equipped to make an informed decision. Remember that investing in your oral health is an investment in your overall quality of life. Take the first step by reaching out to reputable clinics in Korea for a personalized consultation, and prepare to embark on a life-changing transformation.
 
-*Internal Linking Opportunity: Interested in other cosmetic dentistry options? Explore our article on "Dental Veneers in Korea: Cost and Quality."*
 
 image: "/images/full-mouth-dental-implants-in-korea-price-comparison-and-timeline-2026.webp"
 ---

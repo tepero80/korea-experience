@@ -24,6 +24,8 @@ Read the tour’s meeting point, total price and cancellation terms before payin
 
 **Gwangjang Market (광장시장)** is a useful first stop if you want to look for bindaetteok, the mung bean pancake. The [Seoul Tourism Organization’s Gwangjang listing](https://english.visitseoul.net/Tourist-Attractions-list1/Gwangjang-Market/ENP000286) identifies the food alley and its dishes. Ask which entrance or landmark the tour uses. If you are visiting independently, check the stall and order size before you sit.
 
+For a self-guided stop, use the [Gwangjang and Tongin ordering guide](/blog/jeong-culture-in-markets-2026) to check portion prices and see how the two markets handle payment.
+
 **Tongin Market (통인시장)** fits a lunch break near Gyeongbokgung. [The official Seoul tourism listing](https://english.visitseoul.net/attractions/Tongin-Market/ENP000281) gives the address as 18 Jahamun-ro 15-gil, Jongno-gu, and lists Gyeongbokgung Station Exit 2. It describes a lunchbox program where tokens can be used at participating stores. The listing’s café hours and closure text conflict, so confirm the café for your date before planning around the program. Regular market traders may keep their own hours.
 
 <GuidePhoto id="tongin-market-lunchbox-cafe" caption="Prepared dishes at Tongin Market’s lunch café. A photograph does not establish the menu, price or whether the café is operating on your date." />

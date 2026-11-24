@@ -31479,5 +31479,221 @@
     "heroOmissionReason": "The original archive presentation does not verify these current requirements. This update uses primary source links and a checklist.",
     "changeType": "rewrite",
     "launchOrder": 1344
+  },
+  "how-to-ship-k-beauty-globally-best-international-shipping-services-2026": {
+    "id": "guide:how-to-ship-k-beauty-globally-best-international-shipping-services-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "forWhom": "Travelers who want to send skincare purchases home from Korea",
+    "answer": "If you have not bought the products, compare the retailer’s international checkout with what you can carry. If you already own them, ask the postal service about the exact products and destination before packing the box.",
+    "conditions": [
+      "Retail delivery terms apply to the outlet or checkout where you order.",
+      "Carrier acceptance and import conditions depend on the product, service and destination."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "international cosmetics shopping",
+      "packing cosmetics"
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "prepare",
+        "label": "Decide what to buy in Korea",
+        "reason": "Compare the actual products before paying for a parcel or another order."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "olive-young-online-freight",
+        "title": "Olive Young Global online shipping policy",
+        "url": "https://global.oliveyoung.com/foot-info/footer-contents?foterSeq=138",
+        "note": "An example of fees, availability and conditions for orders placed through its own online checkout.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-post-air-examples",
+        "title": "Korea Post international air-mail item rules",
+        "url": "https://ems.epost.go.kr/front.Introduction04New.postal?country=EN&gubun=CON",
+        "note": "Contains separate entries for perfume, compressed sprays and skin-care items that need review.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-post-argentina",
+        "title": "Korea Post Argentina EMS destinations page",
+        "url": "https://ems.epost.go.kr/front.EmsApplyGoCondition.postal?nation=AR",
+        "note": "Shows that the same carrier lists country-specific restrictions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "cbp-mail",
+        "title": "US Customs and Border Protection low-value imports guidance",
+        "url": "https://www.help.cbp.gov/s/article/Article-1919?language=en_US",
+        "note": "Destination-specific mail and customs rules. Check the receiving authority for current terms.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the product and destination before packing.",
+      "International online checkout and mailing a store purchase are separate services."
+    ],
+    "heroOmissionReason": "Service and product rules are more precisely explained by the official source links and the checklist.",
+    "changeType": "rewrite",
+    "launchOrder": 1345
+  },
+  "vegan-temple-food-classes-learning-from-monks-in-seoul-2026": {
+    "id": "guide:vegan-temple-food-classes-learning-from-monks-in-seoul-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "forWhom": "Visitors booking a Korean temple-food cooking session in Seoul",
+    "answer": "Start on the operator’s English booking list and open the particular cooking session. Verify the venue, language, fee and exact ingredients before paying, especially if you avoid dairy or have an allergy.",
+    "conditions": [
+      "Bookings, instructor, language, dishes and prices depend on the date and program.",
+      "The operator describes dairy as an exception in its general account of temple food. Confirm the session with the organizer."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "temple food cooking class",
+      "food experience booking"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "temple-food-center",
+        "title": "Korean Temple Food Culture Center information",
+        "url": "https://www.koreatemplefood.com/EN/about/institution/list",
+        "note": "Lists the experience center in Anguk, separate advance-reservation programs, and self-guided exhibitions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "temple-food-english-booking",
+        "title": "Korean Temple Food official English experience list",
+        "url": "https://www.koreatemplefood.com/EN/program/experience/short-experience/list",
+        "note": "Use the actual session type, booking period and details rather than a general schedule.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "temple-food-ingredients",
+        "title": "Korean Temple Food operator guide to dietary characteristics",
+        "url": "https://www.koreatemplefood.com/EN/temple-food/feature/feature",
+        "note": "Describes the dairy exception.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "temple-food-november",
+        "title": "Korean Temple Food November 2026 cooking program notice",
+        "url": "https://www.koreatemplefood.com/support/notice/detail/150",
+        "note": "A dated example of online booking and payment and potential ingredient or program changes.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Open the exact cooking session in the official list.",
+      "Ask about ingredients and cross-contact before booking."
+    ],
+    "heroMediaId": "archive-insadong-sanchon-temple-dishes-2007",
+    "heroCaption": "Temple-style dishes at Sanchon in Insadong, photographed in 2007. The class menu is listed separately by its operator.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Korean temple cuisine-Sanchon-01.jpg",
+      "author": "Richy!",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_temple_cuisine-Sanchon-01.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Resized to WebP. Adaptations retain CC BY-SA 2.0."
+    },
+    "changeType": "rewrite",
+    "launchOrder": 1346
+  },
+  "jeong-culture-in-markets-2026": {
+    "id": "guide:jeong-culture-in-markets-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "forWhom": "First-time visitors ordering food or buying goods at a Korean market",
+    "answer": "Point to the exact item, confirm the quantity and total, then check the payment method before the vendor packs it. Ask before handling merchandise or photographing people and make room at the counter when it is busy.",
+    "conditions": [
+      "The checklist is practical visitor advice. Store policy varies by stall.",
+      "Tongin’s lunchbox program has its own token rules for participating vendors."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "traditional market counter",
+      "market shopping etiquette"
+    ],
+    "relations": [
+      {
+        "slug": "gwangjang-market-complete-food-guide",
+        "type": "next",
+        "label": "Choose food at Gwangjang",
+        "reason": "See a food-focused route if you plan to eat at the market."
+      }
+    ],
+    "tools": [],
+    "placeIds": [
+      "gwangjang-market",
+      "seoul-tongin-market"
+    ],
+    "sources": [
+      {
+        "id": "visit-seoul-gwangjang",
+        "title": "Visit Seoul Gwangjang Market guide",
+        "url": "https://english.visitseoul.net/dongdaemunarea/Gwangjang-Market/ENP000286",
+        "note": "Identifies separate food and retail areas, useful for choosing the right counter.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-tongin",
+        "title": "Visit Seoul Tongin Market guide",
+        "url": "https://english.visitseoul.net/attractions/Tongin-Market/ENP000281",
+        "note": "Describes the lunchbox cafe and participating shops for tokens.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-traveler-helpline",
+        "title": "VISITKOREA 1330 tourist help",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632",
+        "note": "Provides travel information, language help and a route for tourist complaints.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the quantity and total before it is packed.",
+      "Ask whether a stall takes your payment method."
+    ],
+    "heroMediaId": "tongin-market-aisle-seochon",
+    "heroCaption": "Visitors show their lunch trays in the covered aisle at Tongin Market in February 2014. Check the current lunchbox program before you visit.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Korea Tongin Market 01 (12920987714).jpg",
+      "author": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea_Tongin_Market_01_(12920987714).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Photographed 2014-02-20. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 2.0. Confirm current routes, opening and accessibility separately."
+    },
+    "changeType": "rewrite",
+    "launchOrder": 1347
   }
 }

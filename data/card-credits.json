@@ -4809,5 +4809,40 @@
     "src": "/images/cards/tax-refund-15000-minimum-2026.jpg",
     "fingerprint": "8258b47ca015c0e01dfcf17b3d2a309879b34698b679eb19658c2c2cfa6db562",
     "adaptation": "Typographic social preview."
+  },
+  "how-to-ship-k-beauty-globally-best-international-shipping-services-2026": {
+    "src": "/images/cards/how-to-ship-k-beauty-globally-best-international-shipping-services-2026.jpg",
+    "fingerprint": "8a7cc533e2e8634dd204ab33054fe45cd008bd17cae4356c735230ef9a42156f",
+    "adaptation": "Typographic social preview."
+  },
+  "vegan-temple-food-classes-learning-from-monks-in-seoul-2026": {
+    "src": "/images/cards/vegan-temple-food-classes-learning-from-monks-in-seoul-2026.jpg",
+    "fingerprint": "5bf31fb41eab6559faa5977c5378420e0aae6d94f7ee82cbf85ba2d959d3755e",
+    "sourceImage": "/images/editorial/archive-insadong-sanchon-temple-dishes-2007-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Korean temple cuisine-Sanchon-01.jpg",
+      "author": "Richy!",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_temple_cuisine-Sanchon-01.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Resized to WebP. Adaptations retain CC BY-SA 2.0."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "jeong-culture-in-markets-2026": {
+    "src": "/images/cards/jeong-culture-in-markets-2026.jpg",
+    "fingerprint": "bc382e2f41595daaa5bdcc8846585fe096f09eaed90e038d4298323d169bf184",
+    "sourceImage": "/images/editorial/tongin-market-aisle-seochon-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Korea Tongin Market 01 (12920987714).jpg",
+      "author": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea_Tongin_Market_01_(12920987714).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Photographed 2014-02-20. Resized from the source file and converted to WebP. Adaptations retain CC BY-SA 2.0. Confirm current routes, opening and accessibility separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

@@ -13,7 +13,11 @@ for (const p of posts) {
   if (ids.has(p.id)) errors.push('Duplicate ID ' + p.id);
   ids.add(p.id);
   if (p.image && !fs.existsSync('public' + p.image)) errors.push('Missing image ' + p.slug);
-  if (/^#{1,6}\s+private (?:editor|editorial) notes\b/im.test(getPostBySlug(p.slug)!.content))
+  const content = getPostBySlug(p.slug)!.content;
+  if (
+    /^#{1,6}\s+private (?:editor|editorial) notes\b/im.test(content) ||
+    /\binternal linking opportunit(?:y|ies)\b|\(\s*link to internal article\s*\)/i.test(content)
+  )
     errors.push('Private editorial notes in public content ' + p.slug);
   const e = p.editorial;
   if (!e) continue;
@@ -43,7 +47,7 @@ for (const p of posts) {
     if (!PLACES.some((p) => p.id === id)) errors.push('Unknown place ' + id);
   for (const id of e.tools)
     if (!PRACTICAL_TOOLS.some((t) => t.href === '/tools/' + id)) errors.push('Unknown tool ' + id);
-  for (const m of getPostBySlug(p.slug)!.content.matchAll(/\]\(\/blog\/([^\s)#/]+)(?:#[^)]+)?\)/g))
+  for (const m of content.matchAll(/\]\(\/blog\/([^\s)#/]+)(?:#[^)]+)?\)/g))
     if (!slugs.has(m[1])) errors.push('Broken body link ' + p.slug + ' -> ' + m[1]);
 }
 if (

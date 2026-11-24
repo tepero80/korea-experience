@@ -226,7 +226,7 @@ Moving can be stressful, but with careful planning and these insider tips, you c
 *   **Understand Customs Regulations:** Familiarize yourself with Korea's customs rules for household goods. Prohibited items (e.g., certain foods, weapons) or restricted items (e.g., alcohol, tobacco, medicines) can cause significant delays and fines. Your moving company should provide a list, but cross-reference it.
 *   **Separate Essentials:** Pack a "first night" box or suitcase with immediate necessities: toiletries, clothes, medications, important documents, chargers, and anything you need within the first 24-48 hours. Ship this separately via air freight or carry it with you.
 *   **Keep Important Documents Handy:** Passports, visas, lease agreements, school enrollment, and contact lists should be in your carry-on luggage, not packed with your household goods.
-*   **Currency & Banking:** Have some Korean Won (₩) ready upon arrival. Research opening a Korean bank account for smooth financial transitions. (Internal linking opportunity: "Setting Up Banking in Korea for Expats").
+*   **Currency & Banking:** Have some Korean Won (₩) ready upon arrival. Research opening a Korean bank account for smooth financial transitions.
 *   **Apartment Size:** Be mindful that apartments in Korea, especially in major cities like Seoul, can be smaller than what you are used to. Consider this when deciding what furniture to bring.
 
 ### For Local Moves within Korea:
@@ -259,7 +259,7 @@ While your moving company's local agent will handle most of the paperwork, you m
 The average cost for a "Pojang Isa" in Seoul for a 2-bedroom apartment typically ranges from ₩600,000 to ₩1,200,000 (approximately 450 - 900 USD), depending on the volume of items, distance, building access (elevator/stairs), and the day of the week. Always get an in-person quote for accuracy.
 
 ### 4. Can moving companies help with visa documents or residential permits for Korea?
-No, moving companies specialize in logistics and household goods. They cannot assist with personal visa applications or residential permits. However, international moving companies will guide you on the specific customs documentation required for importing your household goods based on your visa status (e.g., long-term resident, corporate transferee). For visa and residency help, consult immigration lawyers or your sponsoring employer. (Internal linking opportunity: "Visa and Immigration Guide for Korea").
+No, moving companies specialize in logistics and household goods. They cannot assist with personal visa applications or residential permits. However, international moving companies will guide you on the specific customs documentation required for importing your household goods based on your visa status (e.g., long-term resident, corporate transferee). For visa and residency help, consult immigration lawyers or your sponsoring employer.
 
 ### 5. Are there English-speaking moving companies available in Korea?
 Yes, particularly for international moves. Most major international moving companies will have English-speaking staff or dedicated expat service teams. For local moves within Korea, finding English-speaking staff can be more challenging with smaller companies, but larger domestic chains may have limited English support. It's always advisable to confirm language capabilities during your initial inquiry.

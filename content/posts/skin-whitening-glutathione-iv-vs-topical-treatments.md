@@ -243,10 +243,6 @@ Embarking on a medical tourism journey in Korea for skin brightening can be an e
 *   **Sun Protection:** This cannot be stressed enough. Diligent use of high-SPF sunscreen and protective clothing is crucial to protect your newly brightened skin and prevent future pigmentation.
 *   **Skincare Routine:** For topical treatments, maintain a consistent and gentle skincare routine.
 
-### Internal Linking Opportunity
-
-For more detailed information on navigating the South Korean medical system as an international patient, including visa requirements and insurance, check out our [Comprehensive Guide to Medical Tourism in Korea] (link to internal article).
-
 ## Frequently Asked Questions (FAQ)
 
 ### 1. Is Glutathione IV permanent?

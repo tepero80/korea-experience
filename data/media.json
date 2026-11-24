@@ -11274,5 +11274,27 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0."
     }
+  },
+  {
+    "id": "archive-insadong-sanchon-temple-dishes-2007",
+    "src": "/images/editorial/archive-insadong-sanchon-temple-dishes-2007-1280.webp",
+    "srcSet": "/images/editorial/archive-insadong-sanchon-temple-dishes-2007-640.webp 640w, /images/editorial/archive-insadong-sanchon-temple-dishes-2007-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Small bowls of greens, vegetables and other temple-style side dishes set around a woven tray",
+    "caption": "Temple-style dishes at Sanchon in Insadong, photographed in 2007. The class menu is listed separately by its operator.",
+    "capturedAt": "2007-08-22",
+    "originalId": "Korean temple cuisine-Sanchon-01.jpg",
+    "originalHash": "1eda4e25bba1cf80f6b820fb8ac3cd3f4eec230ce6e8a7b49f144cbf07222a10",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "title": "Korean temple cuisine-Sanchon-01.jpg",
+      "author": "Richy!",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_temple_cuisine-Sanchon-01.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Resized to WebP. Adaptations retain CC BY-SA 2.0."
+    }
   }
 ]

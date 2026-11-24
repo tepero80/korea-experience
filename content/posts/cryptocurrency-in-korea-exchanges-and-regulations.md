@@ -185,7 +185,6 @@ This is the most critical prerequisite. Without a real-name verified Korean bank
     *   **Proof of Employment/Income:** A certificate of employment or salary statement can help, especially for securing a full-service account.
 *   **Bank Choice:** Remember that specific exchanges partner with specific banks. For example, Kbank is essential for Upbit and Coinone. If you only open a bank account with, say, Woori Bank, you won't be able to link it to Upbit. It’s often advisable to aim for Kbank first if crypto trading is your priority.
 *   **Challenges:** Some banks may be hesitant to open full-service accounts for new foreign residents without a substantial history or clear proof of income. You might initially get a restricted account with daily transfer limits. Persistence and clear documentation are key.
-*   **Internal Linking Opportunity:** For a more detailed guide, you can refer to our blog post on "Opening a Bank Account in Korea as an Expat."
 
 ### KYC/AML Verification Process for Foreigners
 

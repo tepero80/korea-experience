@@ -221,7 +221,6 @@ Making the most of your medical trip to Korea involves more than just the surger
 Many international patients combine their eye surgery trip with a vacation.
 *   **Plan Ahead**: Schedule your tourist activities *before* your surgery. Post-surgery, you'll have restrictions on screen time, heavy lifting, and water exposure.
 *   **Gentle Tourism**: After the initial recovery, gentle activities like exploring palaces (Gyeongbokgung Palace, Changdeokgung Palace), light shopping (Myeongdong, Hongdae), or visiting museums (National Museum of Korea) can be enjoyable.
-*   **Internal Linking Opportunity**: For more ideas on how to experience Korea's vibrant culture, cuisine, and attractions, explore our comprehensive guides on "Seoul's Hidden Gems" or "Korean Culinary Adventures."
 
 ## Ensuring a Smooth and Safe Experience
 
