@@ -25,11 +25,14 @@ export default function Footer() {
         </nav>
         <nav aria-label="Resources">
           <h2>Keep planning</h2>
-          {FOOTER_LINKS.resources.map((l) => (
-            <Link key={l.href} href={l.href}>
-              {l.label}
-            </Link>
-          ))}
+          {FOOTER_LINKS.resources.map((link) => {
+            const ResourceLink = link.fullPage ? 'a' : Link;
+            return (
+              <ResourceLink key={link.href} href={link.href}>
+                {link.label}
+              </ResourceLink>
+            );
+          })}
         </nav>
       </div>
       <div className="wrap footer-bottom">

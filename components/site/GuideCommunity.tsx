@@ -1,6 +1,5 @@
 'use client';
 import { useEffect, useState, useRef } from 'react';
-import Link from 'next/link';
 import config from '@/data/community-config.json';
 import { readGuideDraft, writeGuideDraft } from '@/lib/guide-drafts';
 type Comment = { id: string; body: string; name: string | null; created_at: string };
@@ -196,7 +195,7 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
               <small>
                 {c.name || 'Former traveler'} · {c.created_at.slice(0, 10)}
               </small>
-              <Link href={`/community/posts/${c.id}`}>Reply or report ↗</Link>
+              <a href={`/community/posts/${c.id}`}>Reply or report ↗</a>
             </li>
           ))}
         </ol>
@@ -294,7 +293,7 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
             <p role="status">{spamStatus}</p>
           </>
         ) : signed === false ? (
-          <Link
+          <a
             className="button button-light"
             href={`/community/account?returnTo=${encodeURIComponent('/blog/' + slug + '#discussion')}`}
             onClick={(e) => {
@@ -309,7 +308,7 @@ export default function GuideCommunity({ id, slug }: { id: string; slug: string 
             }}
           >
             Save draft & sign in with Google or email
-          </Link>
+          </a>
         ) : (
           <p role="status">
             {apiState === 'idle'

@@ -1,6 +1,5 @@
 'use client';
 import { useEffect, useRef, useState, type FormEvent } from 'react';
-import Link from 'next/link';
 import { googleMapsSearch } from '@/lib/google-maps';
 import {
   ITINERARY_KEY,
@@ -705,7 +704,7 @@ export default function ItineraryBoard() {
                     ? 'Update private account plan'
                     : 'Save private account copy'}
               </button>
-              <Link href="/community/account">Open your account</Link>
+              <a href="/community/account">Open your account</a>
               {remoteId ? (
                 <button
                   className="action-button"
@@ -724,9 +723,9 @@ export default function ItineraryBoard() {
             </div>
             {needsLogin ? (
               <p>
-                <Link href="/community/account?returnTo=%2Ftools%2Fitinerary">
+                <a href="/community/account?returnTo=%2Ftools%2Fitinerary">
                   Sign in with Google or email, then return to this board
-                </Link>
+                </a>
                 . Your local changes stay in this browser.
               </p>
             ) : null}

@@ -38,15 +38,18 @@ export default function Header() {
           </span>
         </Link>
         <nav aria-label="Main navigation" className="desktop-nav">
-          {NAV_LINKS.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              aria-current={pathname === link.href ? 'page' : undefined}
-            >
-              {link.label}
-            </Link>
-          ))}
+          {NAV_LINKS.map((link) => {
+            const NavigationLink = link.fullPage ? 'a' : Link;
+            return (
+              <NavigationLink
+                key={link.href}
+                href={link.href}
+                aria-current={pathname === link.href ? 'page' : undefined}
+              >
+                {link.label}
+              </NavigationLink>
+            );
+          })}
         </nav>
         <div className="header-actions">
           <Search />
@@ -67,17 +70,20 @@ export default function Header() {
       </div>
       {open ? (
         <nav id="mobile-navigation" aria-label="Mobile navigation" className="mobile-nav">
-          {NAV_LINKS.map((link) => (
-            <Link
-              key={link.href}
-              href={link.href}
-              onClick={() => setOpen(false)}
-              aria-current={pathname === link.href ? 'page' : undefined}
-            >
-              {link.label}
-              <Icon name="arrow" />
-            </Link>
-          ))}
+          {NAV_LINKS.map((link) => {
+            const NavigationLink = link.fullPage ? 'a' : Link;
+            return (
+              <NavigationLink
+                key={link.href}
+                href={link.href}
+                onClick={() => setOpen(false)}
+                aria-current={pathname === link.href ? 'page' : undefined}
+              >
+                {link.label}
+                <Icon name="arrow" />
+              </NavigationLink>
+            );
+          })}
           <Link href="/saved">
             Saved guides
             <Icon name="bookmark" />

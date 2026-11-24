@@ -380,7 +380,7 @@ export const NAV_LINKS = [
   { href: '/destinations', label: 'Destinations' },
   { href: '/blog', label: 'Guides' },
   { href: '/tools', label: 'Tools' },
-  { href: '/community', label: 'Community' },
+  { href: '/community', label: 'Community', fullPage: true },
 ];
 export const FOOTER_LINKS = {
   legal: [
@@ -395,6 +395,6 @@ export const FOOTER_LINKS = {
     { href: '/saved', label: 'Saved guides' },
     { href: '/about', label: 'About us' },
     { href: '/contact', label: 'Contact & corrections' },
-    { href: '/feed', label: 'RSS feed' },
+    { href: '/feed', label: 'RSS feed', fullPage: true },
   ],
 };

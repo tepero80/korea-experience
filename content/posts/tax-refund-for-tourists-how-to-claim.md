@@ -19,17 +19,17 @@ If a shop already deducted the refund at checkout, keep the receipt. For purchas
 
 The [Korea Tourism Organization's tax refund guide](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736) says that a qualifying receipt starts at **₩15,000**. The seller must participate and issue the relevant documentation. The goods must be new, unopened and unused and leave Korea within three months of purchase.
 
-| What the seller offers | What to do |
+| Refund type | What to do |
 | --- | --- |
-| **Immediate refund** | Present your passport at checkout. The seller deducts the tax refund when you pay. KTO lists ₩15,000 or more and **less than ₩1,000,000** per payment, and at most **₩5,000,000** in qualifying purchases per trip. |
-| **Refund paperwork** | Keep the purchase receipt and the separate refund paperwork. Ask which operator handles the refund and whether you need to complete it at the airport or can use a matching city counter. |
-| **Downtown refund counter** | Check the operator named on your paperwork. KTO lists up to **₩6,000,000 per receipt** for this route. Bring the goods and documents and follow the airport export confirmation instructions even if you receive money in town. |
+| **At checkout** | Present your passport. The seller deducts the tax refund when you pay. KTO lists ₩15,000 or more and **less than ₩1,000,000** per payment, and at most **₩5,000,000** in qualifying purchases per trip. |
+| **Voucher** | Keep the purchase receipt and the separate refund paperwork. Ask which operator handles the refund and whether you need to complete it at the airport or can use a matching city counter. |
+| **City counter** | Check the operator named on your paperwork. KTO lists up to **₩6,000,000 per receipt** for this route. Bring the goods and documents and follow the airport export confirmation instructions even if you receive money in town. |
 
 Non-Korean travelers normally need to have stayed in Korea for less than six months. Overseas Koreans have different conditions listed by KTO. A shop sign or purchase total alone cannot confirm eligibility. Duty-free shopping is a different checkout process and does not create a second VAT refund.
 
 ## Incheon Airport: carry-on or checked bag?
 
-These steps follow the [airport's official domestic tax refund procedure](https://www.airport.kr/ap_en/1425/subview.do). Check the terminal for your flight first.
+These steps follow the [airport's official domestic tax refund procedure](https://www.airport.kr/ap_en/1425/subview.do). Check the terminal for your flight first, then use the [Incheon kiosk location guide](/blog/tax-refund-kiosks-at-incheon-t1t2-2026) to find the correct public and airside stops.
 
 | Where the goods travel | What to do before security |
 | --- | --- |

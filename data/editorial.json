@@ -29703,5 +29703,158 @@
     "launchOrder": 1318,
     "changeType": "rewrite",
     "heroOmissionReason": "The old cover had no verifiable original or reuse terms. No approved photo showed either card or its actual machine."
+  },
+  "tax-refund-kiosks-at-incheon-t1t2-2026": {
+    "id": "guide:tax-refund-kiosks-at-incheon-t1t2-2026",
+    "checkedAt": "2026-11-24",
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "answer": "If your voucher still needs export confirmation, go to a public departures kiosk before security. Keep the goods accessible. Collect any pending refund at the airside kiosk or desk for your terminal.",
+    "forWhom": "International travelers leaving from Incheon with shopping refund paperwork",
+    "conditions": [
+      "Check which terminal your flight uses and whether the shop already processed the refund.",
+      "Tell your airline before surrendering a checked bag that contains refund goods."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "departure"
+    ],
+    "interests": [
+      "airport refund kiosk locations"
+    ],
+    "relations": [
+      {
+        "slug": "tax-refund-for-tourists-how-to-claim",
+        "type": "prepare",
+        "label": "Check whether your receipts qualify",
+        "reason": "Identify an in-store refund, a separate voucher or a city payout before going to the airport."
+      },
+      {
+        "slug": "tax-refund-instant-vs-airport-2026",
+        "type": "alternative",
+        "label": "Compare the refund routes",
+        "reason": "Check what to ask at the till if you are still shopping."
+      }
+    ],
+    "sources": [
+      {
+        "id": "airport-refund-steps",
+        "title": "Incheon Airport domestic tax refund procedure",
+        "url": "https://www.airport.kr/ap_en/1425/subview.do",
+        "checkedAt": "2026-11-24",
+        "note": "Lists payout locations and the procedure for carry-on and checked goods."
+      },
+      {
+        "id": "airport-facility-directory",
+        "title": "Incheon Airport facility directory",
+        "url": "https://www.airport.kr/ap_en/1546/subview.do",
+        "checkedAt": "2026-11-24",
+        "note": "Lists public departures locations and additional airside facilities."
+      },
+      {
+        "id": "incheon-customs-export",
+        "title": "Incheon Customs guide to export confirmation",
+        "url": "https://www.customs.go.kr/incheon/cm/cntnts/cntntsView.do?cntntsId=6688&mi=12546",
+        "checkedAt": "2026-11-24",
+        "note": "Confirms voucher, passport and inspection requirements."
+      },
+      {
+        "id": "kto-refund-basics",
+        "title": "Korea Tourism Organization tax refund guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=489&vcontsId=140736",
+        "checkedAt": "2026-11-24",
+        "note": "Distinguishes checkout, city and departure processing."
+      }
+    ],
+    "shareFacts": [
+      "Export check before security. Payout after security if still due.",
+      "Keep the goods accessible for any Customs inspection."
+    ],
+    "heroOmissionReason": "The previous AI illustration did not show an actual terminal kiosk. No distinct licensed original has been verified for this location guide.",
+    "launchOrder": 1319
+  },
+  "korea-phone-plans-and-sim-cards-for-foreigners-2026": {
+    "id": "guide:korea-phone-plans-and-sim-cards-for-foreigners-2026",
+    "checkedAt": "2026-11-24",
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "answer": "For maps and messaging, start with a compatible data plan. For a local number, check calls and texts separately. If a service requires Korean mobile identity verification, ask about an eligible resident line before paying.",
+    "forWhom": "International visitors and new residents choosing what a Korean phone plan must do",
+    "conditions": [
+      "Check the exact carrier product, phone model and lock status.",
+      "Receiving an SMS on a Korean number does not establish eligibility for mobile identity verification."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "arrival"
+    ],
+    "interests": [
+      "mobile identity verification for foreign residents"
+    ],
+    "relations": [
+      {
+        "slug": "esim-vs-usim-vs-portable-wi-fi-2026",
+        "type": "next",
+        "label": "Compare setup options",
+        "reason": "Choose eSIM, a physical SIM or shared portable Wi-Fi for the devices you are bringing."
+      },
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "prepare",
+        "label": "Save your hotel route",
+        "reason": "Prepare your arrival journey while you still have a working connection."
+      }
+    ],
+    "sources": [
+      {
+        "id": "lgu-visitor-esim",
+        "title": "LG U+ visitor eSIM product and restrictions",
+        "url": "https://www.lguplus.com/korea-sim/eng/pc/product/esim?tab=data",
+        "checkedAt": "2026-11-24",
+        "note": "Lists device requirements and distinguishes standard app texts from carrier identity verification."
+      },
+      {
+        "id": "lgu-visitor-install",
+        "title": "LG U+ visitor installation guide",
+        "url": "https://www.lguplus.com/korea-sim/eng/pc/support/blog/korea_esim_sim_installation_guide",
+        "checkedAt": "2026-11-24",
+        "note": "Shows the activation rules for its data and voice products."
+      },
+      {
+        "id": "kt-visitor-esim",
+        "title": "KT visitor eSIM options",
+        "url": "https://m.roaming.kt.com/eng/esim",
+        "checkedAt": "2026-11-24",
+        "note": "Describes entry verification, incoming services and the separate outgoing option."
+      },
+      {
+        "id": "kt-visitor-extension",
+        "title": "KT visitor prepaid SIM extension",
+        "url": "https://m.roaming.kt.com/eng/sim/cf/ext",
+        "checkedAt": "2026-11-24",
+        "note": "Gives the maximum duration for the specified KT visitor SIM."
+      }
+    ],
+    "shareFacts": [
+      "Check data, incoming SMS, outgoing calls and identity verification separately.",
+      "Confirm the exact product and activation steps before paying."
+    ],
+    "heroOmissionReason": "The previous AI illustration did not depict a verifiable carrier product. A comparison table shows service differences without implying compatibility.",
+    "launchOrder": 1320
   }
 }

@@ -385,12 +385,12 @@ export default async function Guide({ params }: { params: Params }) {
             needs a clearer answer.
           </p>
           <div className="button-row">
-            <Link
+            <a
               href={`/community?guide=${encodeURIComponent(post.id)}`}
               className="button button-light"
             >
               Travel questions & updates ↗
-            </Link>
+            </a>
             <Link href="/contact" className="text-link">
               Send a correction ↗
             </Link>
