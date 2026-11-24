@@ -39493,5 +39493,961 @@
     "changeType": "rewrite",
     "launchOrder": 1487,
     "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "kakaometro-travel-time-calculation-2026": {
+    "id": "guide:kakaometro-travel-time-calculation-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose the correct stations and departure time. Save the line, direction and exit, then allow extra time for the walk and anything the route cannot predict.",
+    "forWhom": "Visitors using KakaoMetro for a trip with a transfer or an important arrival time",
+    "conditions": [
+      "KakaoMetro’s publisher describes routing based on operator timetables.",
+      "Verify step-free paths and current service before a time-critical connection."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Use KakaoMetro to Plan a Subway Transfer in Korea"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kakao-metro-route-w22",
+        "title": "Kakao Mobility: KakaoMetro app listing",
+        "url": "https://play.google.com/store/apps/details?id=net.orizinal.subway&hl=en",
+        "note": "The developer identifies operator timetables, regional maps and exit-oriented boarding guidance.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kakao-map-train-location-w22",
+        "title": "Kakao: live train location in Kakao Map",
+        "url": "https://www.kakaocorp.com/page/detail/11586",
+        "note": "Explains live train-position information in the separate Kakao Map service.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Save the transfer direction and final exit before you board."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1488,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "stand-up-comedy-in-seoul-english-shows": {
+    "id": "guide:stand-up-comedy-in-seoul-english-shows",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with the organizer’s date on its calendar. Confirm whether it is a showcase, open mic or improv, then verify the exact venue, language and ticket before crossing town.",
+    "forWhom": "English-speaking visitors choosing an evening comedy show in Seoul",
+    "conditions": [
+      "Dates, venues and lineups are set for each show.",
+      "An open mic listing can offer a performer signup and a separate audience option."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "English Comedy in Seoul: Find a Show and Check the Ticket"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "standup-seoul-calendar-w22",
+        "title": "Stand Up Seoul: organizer listings and FAQ",
+        "url": "https://www.standup-seoul.com/",
+        "note": "The organizer lists English comedy, workshops and open mics, including some bilingual events.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-city-improv-w22",
+        "title": "Seoul City Improv: calendar",
+        "url": "https://www.seoulcityimprov.com/calendar-events-in-seoul",
+        "note": "The troupe publishes its performance schedule and says its events are in English unless otherwise noted.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the show language and exact venue for your date."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1489,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-paper-art-hanji-crafts-workshops": {
+    "id": "guide:korean-paper-art-hanji-crafts-workshops",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Go to the Hanji Museum on Palbok-ro to see paper, tools and crafts. If you want to make something, check the museum’s current program before traveling.",
+    "forWhom": "Travelers deciding whether to see hanji in a museum or book a hands-on class in Jeonju",
+    "conditions": [
+      "The operator lists public exhibition hours and separate group guidance.",
+      "Check the notice board for closure days and specific experience schedules."
+    ],
+    "regions": [
+      "jeonju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Visit Jeonju Hanji Museum: See Paper Craft and Check the Demo"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "jeonju-hanji-museum-w22",
+        "title": "Jeonju Hanji Museum: operating notice and exhibition information",
+        "url": "https://www.hanjimuseum.co.kr/main/idx",
+        "note": "Publishes opening days, final entry conditions, free admission and current notices.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-hanji-museum-w22",
+        "title": "VISITKOREA: Jeonju Hanji Museum",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=109007",
+        "note": "Lists Palbok-ro address and distinguishes the exhibition rooms and possible experiences.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeonju-hanji-experience-faq-w22",
+        "title": "Jeonju Hanji Museum: visitor FAQs",
+        "url": "https://www.hanjimuseum.co.kr/main/menu?gc=908UZDG",
+        "note": "Check the live museum guidance for reservations and experience availability.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Use the Palbok-ro address for the museum and check the day."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1490,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-noodle-guide-naengmyeon-jajangmyeon-kalguksu": {
+    "id": "guide:korean-noodle-guide-naengmyeon-jajangmyeon-kalguksu",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose mulnaengmyeon for cold broth, jajangmyeon for black bean sauce or kalguksu for hot soup. Ask about the broth and toppings if ingredients matter.",
+    "forWhom": "Travelers choosing a first noodle meal from a Korean restaurant menu",
+    "conditions": [
+      "Menus and broth ingredients vary by shop.",
+      "A set may include more than the bowl you point to."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Which Korean Noodles to Order: Cold Broth, Black Bean Sauce or Hot Soup"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-cold-noodles-w22",
+        "title": "VISITKOREA: Naengmyeon",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178819",
+        "note": "Describes cold broth and the spicy sauce variant.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "ito-black-bean-noodles-w22",
+        "title": "Incheon Tourism: Incheon food origins",
+        "url": "https://eng-itour.incheon.go.kr/cmn/board/BBSMSTR_000000000080/3725bbsDetail.do",
+        "note": "Distinguishes the black bean noodle dish and describes its Incheon history.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-namdaemun-kalguksu-w22",
+        "title": "VISITKOREA: Namdaemun Kalguksu Alley",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=183511",
+        "note": "Identifies noodle soup and barley rice service in the market alley.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Choose cold broth, black bean sauce or hot soup first."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1491,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-pancake-variations-pajeon-bindaetteok-kimchijeon": {
+    "id": "guide:korean-pancake-variations-pajeon-bindaetteok-kimchijeon",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "At Gongdeok Market, point to the jeon you want and ask how it is priced before the stall packs it. The name can identify its main ingredient without listing the batter or fillings.",
+    "forWhom": "Travelers who want a takeaway snack or a small selection of jeon in Mapo",
+    "conditions": [
+      "Stalls set their own hours, prices and portion rules.",
+      "Some mung bean pancakes contain pork. Ask each seller about ingredients."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Choose and Take Away Jeon at Gongdeok Market in Seoul"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-mapo-jeon-w22",
+        "title": "VISITKOREA: Jeon and Mapo Jeon Alley",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=231126",
+        "note": "Lists the market address, venue-specific hours and examples of jeon.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-mung-bean-jeon-w22",
+        "title": "VISITKOREA: Mung bean pancake",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178984",
+        "note": "The example includes pork alongside mung beans and vegetables.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask whether the price is per piece, by weight or per box."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1492,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-soup-culture-gamjatang-galbitang-seolleongtang": {
+    "id": "guide:korean-soup-culture-gamjatang-galbitang-seolleongtang",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Pick seolleongtang for a mild beef-bone broth, galbitang for beef ribs or gamjatang for pork backbone stew. Confirm how the shop serves it before you sit.",
+    "forWhom": "Visitors looking for an individual soup meal or checking the size of a pork stew order",
+    "conditions": [
+      "Ask what is included with a bowl or pot.",
+      "The three dishes in this comparison contain beef or pork."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Read a Korean Soup Menu: Seolleongtang, Galbitang and Gamjatang"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-seolleongtang-w22",
+        "title": "VISITKOREA: Ox bone soup and rice",
+        "url": "https://english.visitkorea.or.kr/svc/thingsToDo/foodTrip/special_view.do?vcontsId=187425",
+        "note": "Explains the beef broth, rice and salt to taste.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-galbitang-menu-w22",
+        "title": "VISITKOREA: A restaurant listing with beef rib soup",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=68086",
+        "note": "Identifies galbitang as beef rib soup on the menu.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-gamjatang-menu-w22",
+        "title": "VISITKOREA: Ihwa Gamjaguk",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=46518",
+        "note": "Identifies pork backbone stew from Eungam-dong.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check whether the listed price buys one bowl or one pot."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1493,
+    "heroMediaId": "archive-seoul-seolleongtang-context-2018",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "lazy fri13th",
+      "title": "Seolleongtang 1.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seolleongtang_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. The image records the scene at the time of photography."
+    }
+  },
+  "korean-stew-variations-jjigae-jeongol-hotpot": {
+    "id": "guide:korean-stew-variations-jjigae-jeongol-hotpot",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "If you want a shared hot pot, start with the jeongol section. Ask which size fits your group, what the broth contains and whether rice or noodles cost extra.",
+    "forWhom": "Two or more travelers ordering a shared Korean dinner and checking the price before ordering",
+    "conditions": [
+      "The menu name does not establish the serving size.",
+      "Ask how the table burner works and let staff handle it if unsure."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Order Jjigae or Jeongol: One Stew or a Shared Korean Hot Pot"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-brisket-jjigae-w22",
+        "title": "VISITKOREA: Brisket red chili paste jjigae",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=181083",
+        "note": "A concentrated stew example with beef and chili paste.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-snail-jjigae-w22",
+        "title": "VISITKOREA: Freshwater snail soybean paste jjigae",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=231405",
+        "note": "Shows why a paste-and-vegetable description does not settle the ingredient question.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-sundae-jeongol-w22",
+        "title": "VISITKOREA: Sundae hot pot",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=231609",
+        "note": "Examples of ingredients and beef or pork stock in a shared hot-pot dish.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Choose the pot size before adding rice or noodles."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1494,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "incheon-chinatown-jajangmyeon-origins": {
+    "id": "guide:incheon-chinatown-jajangmyeon-origins",
+    "categoryId": "food-dining",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Visit the former Gonghwachun building for the story, then choose an open restaurant for noodles. The historic building is the museum, so check which place you are navigating to.",
+    "forWhom": "Incheon visitors who want to connect a Chinatown noodle meal to the district’s history",
+    "conditions": [
+      "Check closures and last entry on the foundation’s current visitor page.",
+      "Restaurant hours, ingredients and prices are separate from the museum."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Incheon Jajangmyeon Museum and Noodles in Chinatown"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "incheon-jajangmyeon-museum"
+    ],
+    "sources": [
+      {
+        "id": "ito-jajang-origin-w22",
+        "title": "Incheon Tourism: Incheon food origins",
+        "url": "https://eng-itour.incheon.go.kr/cmn/board/BBSMSTR_000000000080/3725bbsDetail.do",
+        "note": "Connects the dish to Chinese diaspora cooking without assigning a named inventor.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-jajang-museum-w22",
+        "title": "VISITKOREA: Jjajangmyeon Museum",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=69981",
+        "note": "Confirms the former restaurant building, exhibitions and street address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jcf-jajang-museum-w22",
+        "title": "Incheon Jemulpo Cultural Foundation: Jajangmyeon Museum",
+        "url": "https://www.jcf.or.kr/main/space/museum4.jsp",
+        "note": "The operator is the starting point for the museum visit and current notices.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Save the museum and your lunch restaurant as separate stops."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1495,
+    "heroMediaId": "archive-incheon-jajangmyeon-museum-front",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jajangmyeon Museum 20230430 001.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jajangmyeon_Museum_20230430_001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2023-04-30."
+    },
+    "heroCaption": "The Jajangmyeon Museum occupies the former Gonghwachun building in Incheon Chinatown."
+  },
+  "daegu-makchang-grilled-intestines-culture": {
+    "id": "guide:daegu-makchang-grilled-intestines-culture",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Visit Anjirang for a choice of offal grills. Ask whether the shop serves the makchang you want, what the first order must include and when it is ready to eat.",
+    "forWhom": "Daegu visitors who want to try a local grill and know what to ask before sitting down",
+    "conditions": [
+      "The alley and the named restaurant have different addresses.",
+      "Shop portions, hours and grill service vary."
+    ],
+    "regions": [
+      "daegu"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Order Makchang in Daegu: Anjirang Alley and a First Grill Order"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-anjirang-alley-w22",
+        "title": "VISITKOREA: Anjirang Gopchang Alley",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=78212&menuSn=351",
+        "note": "Identifies the food alley and verified approach address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-daegu-makchang-w22",
+        "title": "VISITKOREA: Daegu makchang",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178491",
+        "note": "Identifies Daegu-style grilled pork intestines as the local specialty example.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-gugongtan-grill-w22",
+        "title": "VISITKOREA: Gugongtan Makchang main branch",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=183916",
+        "note": "Describes pre-grilling followed by cooking and gives the separate Seo-gu address.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask about the meat and minimum first order before sitting."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1496,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-drama-filming-locations-you-can-actually-visit": {
+    "id": "guide:k-drama-filming-locations-you-can-actually-visit",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Suwon for a documented street route, Gangneung for a coastal filming location, or the ticketed Korean Folk Village to see historic settings in Yongin.",
+    "forWhom": "K-drama viewers planning one outing beyond Seoul",
+    "conditions": [
+      "Check the return route for each location separately.",
+      "A filming credit does not establish access to a building, set or private space."
+    ],
+    "regions": [
+      "suwon",
+      "gangneung"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "K-Drama Locations Beyond Seoul: Suwon, Gangneung and Yongin"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "hwahongmun"
+    ],
+    "sources": [
+      {
+        "id": "kto-suwon-filming-w22",
+        "title": "VISITKOREA: Lovely Runner route in Haenggung-dong",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=564819",
+        "note": "Documents four public stops and a route of about 790 metres.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-breakwater-filming-w22",
+        "title": "VISITKOREA: Jumunjin Breakwater",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=174269",
+        "note": "Identifies the Guardian filming site and its road address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-yongin-village-w22",
+        "title": "VISITKOREA: Korean Folk Village",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111995",
+        "note": "Lists the visitor entrance, activities and admission for the Yongin village.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "folk-village-filming-history-w22",
+        "title": "Korean Folk Village: official filming information",
+        "url": "https://koreanfolk.co.kr/operation/filming",
+        "note": "The venue takes separate filming inquiries. Visitors should check ordinary visitor information separately.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Choose between a street walk, a coastal stop and a ticketed site."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1497,
+    "heroMediaId": "archive-yongin-folk-village-jeju-lane",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Korean Folk Village IMG 2127.jpg",
+      "author": "G41rn8",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_Folk_Village_IMG_2127.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2016-09-24."
+    },
+    "heroCaption": "Recreated Jeju-style houses at Korean Folk Village in Yongin, photographed in September 2016."
+  },
+  "korean-traditional-architecture-palace-tour-guide": {
+    "id": "guide:korean-traditional-architecture-palace-tour-guide",
+    "categoryId": "culture-events",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Start at Gyeongbokgung’s entrance axis. Look for the change from gate to formal hall, then compare the courtyard with a waterside pavilion.",
+    "forWhom": "First-time palace visitors interested in architecture",
+    "conditions": [
+      "Use the names as clues and read the sign beside each building.",
+      "Check the site’s opening and permitted viewing route first."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Read Korean Palace Buildings on a Seoul Visit"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "gyeongbokgung"
+    ],
+    "sources": [
+      {
+        "id": "khs-palace-architecture-w22",
+        "title": "Royal Palaces and Tombs Center: palace architecture",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R311050000.do",
+        "note": "The operator explains names for formal halls, subordinate buildings, and pavilions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-gyeongbokgung-entry-w22",
+        "title": "VISITKOREA: Gyeongbokgung Palace",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=87740",
+        "note": "Lists the palace address, scheduled closure and general visit information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "khs-gyeongbokgung-history-w22",
+        "title": "Royal Palaces and Tombs Center: Gyeongbokgung history",
+        "url": "https://royal.khs.go.kr/ENG/contents/E101010000.do",
+        "note": "Describes damage and restoration so that present-day fabric is not mistaken for an unchanged original.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Read the final part of the building name as a clue."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1498,
+    "heroOmissionReason": "This guide uses the architectural reading table and an attributed comparison photograph in the article."
+  },
+  "traditional-korean-hanbok-experience-in-seoul": {
+    "id": "guide:traditional-korean-hanbok-experience-in-seoul",
+    "categoryId": "culture-events",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Keep the shop, one palace and the return in the same part of Seoul. Save the shop on your map, try walking in the fitted outfit and allow time to change before the return deadline.",
+    "forWhom": "Travelers who have chosen to wear hanbok and want a manageable first outing",
+    "conditions": [
+      "Confirm the rental clock with the shop before choosing extra stops.",
+      "Verify palace advance notices, admission and access for your date."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "A Seoul Hanbok Outing From Fitting to Return"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "gyeongbokgung",
+      "insadong"
+    ],
+    "sources": [
+      {
+        "id": "khs-hanbok-admission-w22",
+        "title": "Royal Palaces and Tombs Center: hanbok admission guidelines",
+        "url": "https://royal.khs.go.kr/ENG/contents/E701000000.do",
+        "note": "Explains the qualifying upper and lower pieces and when an overcoat alone does not qualify.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-gyeongbokgung-entry-w22",
+        "title": "VISITKOREA: Gyeongbokgung Palace",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=87740",
+        "note": "Lists the palace address, scheduled closure and general visit information.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Plan the fitting and return before adding photo stops."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1499,
+    "heroMediaId": "seoul-insadong-walk",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Insadong-gil Mar 2025 05.jpg",
+      "author": "Epicgenius",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Insadong-gil_Mar_2025_05.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2025-03-13. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
+    }
+  },
+  "korean-film-festivals-calendar-for-international-visitors": {
+    "id": "guide:korean-film-festivals-calendar-for-international-visitors",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Select the festival by your trip dates and the films you want to see. Book only once the organizer has published the current screening, venue, subtitle and ticket details.",
+    "forWhom": "International visitors planning to attend a public festival screening",
+    "conditions": [
+      "Past ticket rules are examples and can change with the edition.",
+      "A filmmaker submission deadline or festival date does not identify the public ticket release."
+    ],
+    "regions": [
+      "busan",
+      "jeonju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Film Festivals: How to Plan and Book a Screening"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "biff-edition-w22",
+        "title": "BIFF: 2026 festival overview",
+        "url": "https://www.biff.kr/eng/addon/10000001/page.asp?page_num=11079",
+        "note": "Archives the 2026 dates and participating venues, including different areas of Busan.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "biff-admission-w22",
+        "title": "BIFF: 2026 screening FAQ",
+        "url": "https://www.biff.kr/eng/addon/10000001/page.asp?page_num=11269",
+        "note": "Historic examples of mobile ticket and late-entry requirements.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "bifan-ticket-rules-w22",
+        "title": "BIFAN: English ticketing page",
+        "url": "https://www.bifan.kr/eng/ticket/ticketing.asp",
+        "note": "The 2026 page describes login and supported overseas cards.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeonju-film-submission-w22",
+        "title": "Jeonju International Film Festival: 2027 filmmaker entries",
+        "url": "https://entry.jeonjufest.kr/en/submission.asp",
+        "note": "An example of an organizer notice for film submissions and distinct from audience ticketing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the exact venue, subtitle language and ticket format."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1500,
+    "heroMediaId": "archive-busan-cinema-center-at-night",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Busan Cinema Center.jpg",
+      "author": "399scout",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan_Cinema_Center.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2015-10-26."
+    },
+    "heroCaption": "Busan Cinema Center in October 2015. Check the festival program for your screening’s venue and entrance."
+  },
+  "korean-esports-attending-live-gaming-tournaments": {
+    "id": "guide:korean-esports-attending-live-gaming-tournaments",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Open the official esports schedule and the announcement for your match. Confirm the city, ticket seller, booking window and match entry rules before arranging the rest of the day.",
+    "forWhom": "Visitors who want to watch a specific League of Legends match in person",
+    "conditions": [
+      "An LCK event can take place away from LoL Park or outside Korea.",
+      "Ticket accounts and entry terms depend on the specific event."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Watch LCK Live: Match Tickets and Venue Checks"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "riot-lck-schedule-w22",
+        "title": "LoL Esports: competition schedule",
+        "url": "https://lolesports.com/en-US/lolesports?leagues=lck",
+        "note": "Official competition calendar. Check the league and fixture separately if the current view includes international matches.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-lolpark-w22",
+        "title": "VISITKOREA: LoL Park and gaming venues",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194959",
+        "note": "Identifies LoL Park as a Seoul LCK venue and gives the address and floor.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "riot-lck-cup-w22",
+        "title": "LoL Esports: 2026 LCK Cup finals notice",
+        "url": "https://lolesports.com/ko-KR/news/2026-lck-cup-finals-guide",
+        "note": "An archived example in which finals were listed for Hong Kong with event-specific ticket sellers.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the city and venue before buying any ticket."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1501,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "pc-bang-culture-korean-gaming-cafes": {
+    "id": "guide:pc-bang-culture-korean-gaming-cafes",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask whether a guest can use the computers and how time is charged. Confirm that the game and login work before buying a long session.",
+    "forWhom": "First-time visitors trying a PC bang without a local membership",
+    "conditions": [
+      "Staffing, guest signup, fees and games vary by venue.",
+      "Check age or ID restrictions for your party before a late visit."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Your First PC Bang in Korea: Paying, Logging In and Leaving"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-pc-bang-intro-w22",
+        "title": "VISITKOREA: gaming cafés and other places for players",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=250544",
+        "note": "Describes PC bangs as pay-to-play venues for visitors and explains the food and gaming experience.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-pc-bang-base-camp-w22",
+        "title": "VISITKOREA: T1 Base Camp and other esports locations",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194959",
+        "note": "Lists T1 Base Camp as an internet café and provides its Hongdae address and separate guest fee category.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Start with a short guest session after checking the login."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1502,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-bowing-etiquette-2026": {
+    "id": "guide:korean-bowing-etiquette-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Say 안녕하세요 for a polite hello. A small nod is an easy option in everyday encounters. If you are invited to join Seollal sebae, ask your host to show you what to do.",
+    "forWhom": "Visitors greeting someone at a shop, on an introduction or during a family visit",
+    "conditions": [
+      "Follow the host or organizer at a ceremony.",
+      "Choose a greeting you can make comfortably."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Bowing in Korea: Everyday Greetings and Seollal"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "nikl-insa-headword-w22",
+        "title": "National Institute of Korean Language: 인사",
+        "url": "https://krdict.korean.go.kr/kor/dicSearch/SearchView?ParaWordNo=66311",
+        "note": "Defines greetings as words or actions and gives an example of lowering the head to greet an elder.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-seollal-sebae-w22",
+        "title": "VISITKOREA: Seollal and other traditional holidays",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=1001&vcontsId=1566965",
+        "note": "Describes sebae, the deep Lunar New Year bow to elders, separately from ancestral rites.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Use a polite hello and follow your host at formal events."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1503,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "learning-konglish-common-english-words-used-differently-in-korea-2026": {
+    "id": "guide:learning-konglish-common-english-words-used-differently-in-korea-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the setting to interpret a borrowed word. A server offering 서비스 may mean a complimentary extra, and a drink labeled 칠성사이다 is a lemon-lime soda. Ask if a charge or product label is unclear.",
+    "forWhom": "English-speaking travelers reading Korean menus, signs or labels",
+    "conditions": [
+      "Check the actual drink label and bill.",
+      "Show the Korean spelling if a spoken word is unclear."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Konglish for Travelers: Service, Cider and Outlet Labels"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "nikl-service-headword-w22",
+        "title": "National Institute of Korean Language: 서비스",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=71116",
+        "note": "Lists ordinary service or assistance and a bargain or complimentary offer as different senses.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "lotte-chilsung-label-w22",
+        "title": "Lotte Chilsung Beverage: Chilsung Cider bottle label",
+        "url": "https://company.lottechilsung.co.kr/kor/qrProduct/spec/list.do?prdt=ChilsungCider_Pet",
+        "note": "The original PET product is classified as a carbonated drink and lists lemon-lime flavor.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nikl-outlet-headword-w22",
+        "title": "National Institute of Korean Language: 콘센트",
+        "url": "https://krdict.korean.go.kr/eng/dicMarinerSearch/search?mainSearchWord=%EC%BD%98%EC%84%BC%ED%8A%B8&nation=eng",
+        "note": "Defines 콘센트 as an electrical outlet or socket.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nikl-handphone-headword-w22",
+        "title": "National Institute of Korean Language: 핸드폰",
+        "url": "https://krdict.korean.go.kr/m/eng/searchResultView?ParaSenseSeq=&ParaWordNo=58170&fileNo=&imgCount=&multiMediaSeq=&nation=eng&searchKind=&searchKindValue=&shortenUrl=&studySeq=",
+        "note": "Defines 핸드폰 and gives the example 핸드폰 번호 for a mobile phone number.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Show the Korean spelling when a borrowed word is unclear."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1504,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
   }
 }

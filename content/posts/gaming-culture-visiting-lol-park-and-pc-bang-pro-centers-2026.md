@@ -21,7 +21,7 @@ South Korea remains the undisputed global capital of e-sports in 2026. For inter
 
 As we step into 2026, the landscape has evolved. The LCK (League of Legends Champions Korea) has grown even larger, and PC Bangs (internet cafes) have transformed into high-tech entertainment hubs featuring RTX 50-series graphics cards and gourmet dining options. This guide will walk you through everything you need to know to navigate this digital playground.
 
-For more details, check out our guide on [PC bang Culture Korean Gaming Cafes Ultimate Guide](/blog/pc-bang-culture-korean-gaming-cafes).
+For a short session at a gaming café, [learn how to ask for guest access and sign out safely](/blog/pc-bang-culture-korean-gaming-cafes).
 
 <KeyTakeaways 
   points={[
@@ -32,6 +32,8 @@ For more details, check out our guide on [PC bang Culture Korean Gaming Cafes Ul
   readTime={15}
   lastUpdated="2026-02-06"
 />
+
+If you want to watch a particular fixture, [follow the live LCK match and ticket checklist](/blog/korean-esports-attending-live-gaming-tournaments) before planning travel to the arena.
 
 ## LoL Park: The Cathedral of E-Sports
 

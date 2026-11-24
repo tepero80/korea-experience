@@ -82,6 +82,25 @@ const featuredRegions = [
   { id: 'gwangju', photoId: 'gwangju-national-museum-courtyard-2015', focus: 'Art & history museums' },
 ];
 
+const winterGuides = [
+  {
+    href: '/blog/seoul-in-winter-complete-guide-ice-skating-and-more-2026',
+    photoId: 'seoul-plaza-winter-ice-rink-2007',
+    location: 'Seoul Plaza ice rink · December 2007',
+    title: 'Seoul festivals & ice skating',
+    summary: 'Find the lights, check rink dates and keep an indoor option for cold evenings.',
+    action: 'Plan a winter evening',
+  },
+  {
+    href: '/blog/winter-ski-resorts-comparison-vivaldi-park-vs-yongpyong-vs-alpensia-2026',
+    photoId: 'archive-yongpyong-alpine-center-snow-2018',
+    location: 'Yongpyong Alpine Center · February 2018',
+    title: 'Ski resorts for a day or overnight',
+    summary: 'Compare Vivaldi Park, Yongpyong and Alpensia by return transport and time on the slopes.',
+    action: 'Compare the three resorts',
+  },
+];
+
 export const metadata = {
   title: { absolute: SITE_CONFIG.title },
   alternates: { canonical: SITE_CONFIG.url + '/', types: GUIDE_FEED_TYPES },
@@ -98,6 +117,10 @@ export default function Home() {
     const region = destinations.find((region) => region.id === id && region.indexable);
     const photo = mediaFor(photoId);
     return region && photo?.credit.kind === 'photograph' ? [{ region, photo, focus }] : [];
+  });
+  const winterCards = winterGuides.map((guide) => {
+    const photo = mediaFor(guide.photoId);
+    return { ...guide, photo: photo?.credit.kind === 'photograph' ? photo : undefined };
   });
   const featurePhoto = mediaFor(HOME_FEATURE.photoId);
   const showFeature = featurePhoto?.credit.kind === 'photograph' && destinations.some(
@@ -284,23 +307,31 @@ export default function Home() {
             </p>
           </div>
           <div className="season-grid">
-            <a href="/blog/seoul-in-winter-complete-guide-ice-skating-and-more-2026">
-              <h3>Seoul festivals &amp; ice skating</h3>
-              <p>Find the lights, check rink dates and keep an indoor option for cold evenings.</p>
-              <span className="text-link">
-                Plan a winter evening <Icon name="arrow" />
-              </span>
-            </a>
-            <a href="/blog/winter-ski-resorts-comparison-vivaldi-park-vs-yongpyong-vs-alpensia-2026">
-              <h3>Ski resorts for a day or overnight</h3>
-              <p>
-                Compare Vivaldi Park, Yongpyong and Alpensia by return transport and time on the
-                slopes.
-              </p>
-              <span className="text-link">
-                Compare the three resorts <Icon name="arrow" />
-              </span>
-            </a>
+            {winterCards.map(({ href, photo, location, title, summary, action }) => (
+              <a href={href} key={href}>
+                {photo ? (
+                  <img
+                    src={photo.src}
+                    srcSet={photo.srcSet}
+                    sizes="(max-width: 760px) calc(100vw - 40px), (max-width: 1360px) calc((100vw - 105px) / 2), 628px"
+                    alt={photo.alt}
+                    width={photo.width}
+                    height={photo.height}
+                    style={{ objectPosition: photo.focal }}
+                    loading="lazy"
+                    decoding="async"
+                  />
+                ) : null}
+                <div className="season-card-copy">
+                  {photo ? <span className="season-card-location">{location}</span> : null}
+                  <h3>{title}</h3>
+                  <p>{summary}</p>
+                  <span className="text-link">
+                    {action} <Icon name="arrow" />
+                  </span>
+                </div>
+              </a>
+            ))}
           </div>
           <div className="season-more">
             <a href="/blog/korea-winter-packing-checklist" className="text-link">
@@ -310,6 +341,18 @@ export default function Home() {
               Compare Korea by month <Icon name="arrow" />
             </a>
           </div>
+          <details className="home-photo-credits">
+            <summary>Winter photo credits</summary>
+            <ul>
+              {winterCards.map(({ photo, location }) => photo ? (
+                <li key={photo.id}>
+                  <a href={`/image-credits#${photo.id}`}>
+                    {location} · {photo.credit.author} · {photo.credit.license}
+                  </a>
+                </li>
+              ) : null)}
+            </ul>
+          </details>
         </div>
       </section>
       <section className="tools-band">

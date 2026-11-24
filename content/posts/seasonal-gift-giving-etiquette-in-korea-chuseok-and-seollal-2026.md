@@ -10,6 +10,8 @@ featured: false
 
 If you are invited to a home for Seollal or Chuseok, ask the host what would be useful and whether a small gift is welcome. A gift is a gesture of thanks, and preferences vary between households; there is no need to guess an elaborate ritual.
 
+For the greeting itself, see [how to say hello and when to follow your host for a Seollal bow](/blog/korean-bowing-etiquette-2026).
+
 ## Choose something the household can use
 
 | Before buying | Check with the host |

@@ -22,6 +22,8 @@ The KTO [seafood pancake entry](https://english.visitkorea.or.kr/svc/contents/co
 
 If the drinks are the reason for your stop, [compare two regional Korean wine visits and a city glass](/blog/korean-wine-culture-domestic-and-imported).
 
+If your group wants a shared dinner instead of small plates, [check Korean hot-pot sizes, broth and extras](/blog/korean-stew-variations-jjigae-jeongol-hotpot).
+
 ## Order in a manageable sequence
 
 You can show **이 안주는 몇 명이 먹기 좋아요?** to ask how many people the dish serves. If you are only having a short stop, ask whether one plate is enough for your table and whether each diner needs to order a drink. If you are having a meal, ask when the kitchen closes and order a second dish after you see the first portion. For a daytime snack stop with a different pace, [compare the stalls at Gwangjang Market](/blog/gwangjang-market-complete-food-guide).

@@ -186,6 +186,8 @@ You can flag them down on the street (look for a red LED sign in the window mean
   Catching a taxi in Gangnam or Hongdae on a Friday or Saturday night between 11 PM and 2 AM is extremely difficult. Demand outstrips supply by a massive margin. Use the subway before it closes (approx 12 AM), or be prepared to wait 40+ minutes for a Kakao T assignment.
 </InfoBox>
 
+For the detailed subway leg, [use KakaoMetro to plan the transfer and the last walk](/blog/kakaometro-travel-time-calculation-2026).
+
 ## Navigation Apps: Google Maps vs. Naver Map
 
 This is the most common pitfall for tourists. **Google Maps does not work well for walking or driving directions in South Korea.** Due to security laws regarding map data and North Korea, Google's data is limited and often outdated.

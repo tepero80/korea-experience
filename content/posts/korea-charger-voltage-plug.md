@@ -37,6 +37,8 @@ Hair dryers, curling irons and travel kettles can draw much more power than a ph
 
 A socket’s shape does not itself guarantee grounding. If a device requires a protective earth connection, use a compatible grounded setup consistent with its instructions. Stop using any adapter that is damaged, loose, overheating or visibly unsafe.
 
+If you need to locate a socket first, the [guide to borrowed Korean words](/blog/learning-konglish-common-english-words-used-differently-in-korea-2026) shows what to ask staff.
+
 ## At your accommodation
 
 Ask **어댑터를 빌릴 수 있나요?** — Can I borrow an adapter? KTO notes that some hotel front desks may lend or sell adapters; availability and fit vary. For overnight charging, follow the device and accommodation instructions rather than covering chargers or placing them on soft bedding.

@@ -1015,10 +1015,29 @@ p {
   border-radius: 14px;
   display: flex;
   flex-direction: column;
-  padding: 28px;
+  overflow: hidden;
 }
 .season-grid > a:hover {
   border-color: var(--ke-muted);
+}
+.season-grid img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  background: var(--ke-sand);
+}
+.season-card-copy {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: clamp(16px, 2vw, 28px);
+}
+.season-card-location {
+  margin-bottom: 8px;
+  color: var(--ke-muted);
+  font-size: 14px;
 }
 .season-grid h3 {
   font:
@@ -1351,9 +1370,6 @@ p {
   }
   .season-grid {
     grid-template-columns: 1fr;
-  }
-  .season-grid > a {
-    padding: 25px;
   }
   .trust-strip {
     grid-template-columns: 1fr;

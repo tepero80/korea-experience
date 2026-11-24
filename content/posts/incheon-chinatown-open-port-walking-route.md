@@ -57,6 +57,8 @@ If you finish at Sinpo, [Sinpo Station Exit 4](https://map.naver.com/p/search/%E
 
 If you recognize these streets from television, [follow the documented Goblin locations](/blog/k-drama-cafe-culture-scene-filming-locations) before choosing a café.
 
+For the story behind the meal, [pair the Jajangmyeon Museum with a noodle stop](/blog/incheon-chinatown-jajangmyeon-origins) before leaving Chinatown.
+
 ## Adapt to Monday, rain or the climb
 
 - **Monday or after last admission:** Keep the Chinatown street walk, an open food stop and the Open Port building exteriors. Check the Art Platform's own listing if you want an exhibition. Save the foundation museums for a confirmed open day.

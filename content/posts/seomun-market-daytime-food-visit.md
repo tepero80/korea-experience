@@ -26,6 +26,8 @@ draft: false
 
 The [Daegu city listing](https://tour.daegu.go.kr/index.do?menu_id=00002945&menu_link=%2Ffront%2Ftour%2FtourMapsView.do%3FtourId%3DKOATTR_229) and [KTO venue information](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=87243) agree on these general daytime hours. An older KTO food article gives different hours, so call or check the seller’s current information when a particular meal is important to your plans.
 
+For a separate grill dinner, [plan a Daegu makchang order in Anjirang](/blog/daegu-makchang-grilled-intestines-culture) and confirm the shop’s minimum before you sit.
+
 ## Pick food that fits your visit
 
 [KTO’s Seomun guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=174449) mentions kalguksu, sujebi, flat dumplings and hotteok among the market’s foods. Treat these as ideas, not a live list of dishes available at every stall.

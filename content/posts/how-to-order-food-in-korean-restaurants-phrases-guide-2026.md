@@ -29,6 +29,8 @@ A Korean menu is easier once you separate three decisions: **what the item serve
 
 <GuidePhoto id="seoul-shared-table" caption="Separate bowls and shared dishes can appear at the same table. Ask what is included in the menu item you choose. This 2012 table-setting photograph illustrates the arrangement, not a current restaurant offer." />
 
+If the menu lists several noodles, [choose between cold broth, black bean sauce and hot soup](/blog/korean-noodle-guide-naengmyeon-jajangmyeon-kalguksu) before ordering.
+
 ## Follow the ordering system you actually see
 
 ### Staff take your order

@@ -20,6 +20,8 @@ Start with a single outing, especially when you arrive with bags or late in the 
 | Ferry terminal | Match the terminal name and address on the booking with your carrier, then choose a cluster. |
 | A coastal base | Choose Haeundae for the beach or Gwangalli for the bridge view. Leave time for the return ride. |
 
+For a trip built around screenings, [check Busan’s film-festival ticket and venue plan](/blog/korean-film-festivals-calendar-for-international-visitors) before choosing where to stay.
+
 ## Use one anchor and one optional stop
 
 For the old port, the [official Jagalchi listing](https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=69318) gives **52 Jagalchihaean-ro**. At a seafood counter, ask for the total and whether preparation, seating or sides cost extra before agreeing. Walk into Nampo only if you have time and the weather works.

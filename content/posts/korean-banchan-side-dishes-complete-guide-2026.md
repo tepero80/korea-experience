@@ -22,6 +22,8 @@ The [Korea Tourism Organization’s table guide](https://english.visitkorea.or.k
 
 If you want to put together a meal to take away, [find prepared banchan stalls in Seoul or Suwon](/blog/korean-side-dish-culture-understanding-banchan).
 
+If you want the side dishes to come with a whole meal, [choose a Korean soup bowl and ask about rice](/blog/korean-soup-culture-gamjatang-galbitang-seolleongtang).
+
 ## Ask before taking a second serving
 
 For an extra portion, point to the dish and ask **이 반찬 더 받을 수 있어요?** (May I have more of this side?). If you see **셀프** (self-service), check which things guests can take and whether the station is for your meal. Ask **추가 요금이 있어요?** (Does it cost extra?) if the answer is unclear.

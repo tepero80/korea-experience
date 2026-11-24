@@ -37,6 +37,8 @@ deepDiveOrder: 52
 
 [Naver Map](https://map.naver.com/p/search/%EC%A0%9C%EB%B9%84%EB%8B%A4%EB%B0%A9%20%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%99%80%EC%9A%B0%EC%82%B0%EB%A1%9C%2024) · [Kakao Map](https://map.kakao.com/link/search/%EC%A0%9C%EB%B9%84%EB%8B%A4%EB%B0%A9%20%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%99%80%EC%9A%B0%EC%82%B0%EB%A1%9C%2024) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EC%A0%9C%EB%B9%84%EB%8B%A4%EB%B0%A9%20%EC%84%9C%EC%9A%B8%20%EB%A7%88%ED%8F%AC%EA%B5%AC%20%EC%99%80%EC%9A%B0%EC%82%B0%EB%A1%9C%2024)
 
+For a spoken-word alternative, [choose an English comedy show and confirm its venue](/blog/stand-up-comedy-in-seoul-english-shows).
+
 ## Check the return as well as the ticket
 
 Before booking, check the date, doors time, age rules, ticket collection and last useful connection back. If you have no confirmed entry, have a nearby dinner or walking plan and avoid assuming a cellar venue has step-free access.

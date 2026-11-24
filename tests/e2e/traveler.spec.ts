@@ -67,7 +67,7 @@ const coreGuides = Object.keys(editorial).map((slug) => '/blog/' + slug);
 const categoryPages = [
   ...new Set(Object.values(editorial).map((e) => '/blog/category/' + e.categoryId)),
 ];
-for (const path of [
+for (const path of new Set([
   '/',
   ...coreGuides,
   ...categoryPages,
@@ -94,7 +94,7 @@ for (const path of [
   '/tools/airport-transfer',
   '/tools/packing-checklist',
   '/tools/rainy-day',
-]) {
+])) {
   test(`visible, accessible, usable page: ${path}`, async ({ page }, testInfo) => {
     await page.goto(path);
     await expect(page.locator('h1')).toHaveCount(1);
@@ -305,8 +305,10 @@ test('search finds an arrival guide and Escape returns focus', async ({ page }) 
   await expect.poll(() => requests).toBe(1);
 });
 
-test('winter guide links keep keyboard focus and browser history usable', async ({ page }) => {
+test('winter guide links keep keyboard focus and browser history usable', async ({ page }, info) => {
   await page.goto('/');
+  const consent = page.getByRole('button', { name: 'Essential only', exact: true });
+  if (await consent.isVisible()) await consent.click();
   const entry = page.getByRole('link', { name: 'Winter trip planning', exact: true });
   const title = page.getByRole('heading', { name: 'Winter travel in Korea', exact: true });
   await entry.press('Enter');
@@ -314,11 +316,45 @@ test('winter guide links keep keyboard focus and browser history usable', async 
   await expect(title).toBeFocused();
   await expect(title).toBeInViewport();
 
-  await page.getByRole('link', { name: /Seoul festivals & ice skating/ }).click();
+  const winter = page.getByRole('region', { name: 'Winter travel in Korea' });
+  const photos = winter.locator('.season-grid img');
+  await expect(photos).toHaveCount(2);
+  const images: string[] = [];
+  for (const photo of await photos.all()) {
+    await expect(photo).toHaveAttribute('loading', 'lazy');
+    await photo.scrollIntoViewIfNeeded();
+    images.push(await photo.evaluate(async (node: HTMLImageElement) => {
+      await node.decode();
+      return new URL(node.currentSrc).pathname;
+    }));
+  }
+  expect(images[0]).toMatch(/seoul-plaza-winter-ice-rink-2007-/);
+  expect(images[1]).toMatch(/archive-yongpyong-alpine-center-snow-2018-/);
+  const credits = winter.getByText('Winter photo credits', { exact: true });
+  await credits.press('Enter');
+  const creditLinks = winter.locator('details a');
+  await expect(creditLinks).toHaveCount(2);
+  await expect(creditLinks.nth(0)).toHaveAttribute('href', '/image-credits#seoul-plaza-winter-ice-rink-2007');
+  await expect(creditLinks.nth(1)).toHaveAttribute('href', '/image-credits#archive-yongpyong-alpine-center-snow-2018');
+  await credits.press('Enter');
+  await title.evaluate((heading) => heading.scrollIntoView({ block: 'start', behavior: 'instant' }));
+  await expect(title).toBeInViewport();
+  await winter.screenshot({ path: info.outputPath('winter-home.jpg'), type: 'jpeg', quality: 87 });
+  const { violations } = await new AxeBuilder({ page }).include('.season-section').withTags(['wcag2a', 'wcag2aa', 'wcag21aa', 'wcag22aa']).analyze();
+  expect(violations).toEqual([]);
+
+  await winter.getByRole('link', { name: /Seoul festivals & ice skating/ }).click();
   await expect(page.getByRole('heading', { level: 1 })).toHaveText(/Seoul in Winter/);
   await page.goBack();
   await expect(page).toHaveURL(/\/#winter-trip-planning$/);
   await expect(title).toBeInViewport();
+  const skiCard = winter.getByRole('link', { name: /Ski resorts for a day or overnight/ });
+  await skiCard.scrollIntoViewIfNeeded();
+  await skiCard.press('Enter');
+  await expect(page.getByRole('heading', { level: 1 })).toHaveText(/Korea Ski Resorts Compared/);
+  await page.goBack();
+  await expect(page).toHaveURL(/\/#winter-trip-planning$/);
+  await expect(skiCard).toBeInViewport();
 });
 
 test('successful anti-spam retry clears its stale error while preserving receipt', async ({

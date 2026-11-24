@@ -26,6 +26,8 @@ Standard fees below are per adult aged 19–64. They cover daytime entry and wer
 
 Both palaces can change their closing day around a public holiday. If you are planning across a holiday, check the [2027 holiday calendar and venue closures](/blog/korean-holiday-calendar-navigating-closed-days). On a day when both are open, choose the garden time first. It is easier to move a daytime Gyeongbokgung visit around a fixed booking than to rush through Changdeokgung to make the garden gate on time.
 
+Once you choose a palace, [learn to read the gates, halls and pavilion names](/blog/korean-traditional-architecture-palace-tour-guide) as you walk.
+
 ## Gyeongbokgung: visit the palace and see the guard
 
 Start at **Gwanghwamun (광화문)**, the main gate at the south end. For a short visit, walk from the gate through the main court toward Geunjeongjeon. Add the view of Gyeonghoeru beside the pond if you have time and that area is open. Keep a rest stop in reserve if the courtyards are cold or windy.

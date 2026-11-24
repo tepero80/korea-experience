@@ -11,6 +11,8 @@ image: "/images/editorial/archive-gwangjang-bindaetteok-griddle-2016-1280.webp"
 
 Find the cooked-food stalls at **광장시장 · 서울 종로구 창경궁로 88**. The [tourism authority’s food guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=189701) points to Gwangjang Market for bindaetteok. Read the actual menu and use the display to confirm the piece or plate you are ordering.
 
+For a mixed selection to take away in Mapo, [choose jeon at Gongdeok Market](/blog/korean-pancake-variations-pajeon-bindaetteok-kimchijeon).
+
 ## Read the name and confirm the portion
 
 | Menu word | What to check |

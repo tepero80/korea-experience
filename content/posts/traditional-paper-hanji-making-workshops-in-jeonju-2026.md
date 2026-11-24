@@ -21,4 +21,4 @@ The Korean-language page says online reservation is required: follow 체험예�
 
 The center is at 전북특별자치도 전주시 완산구 흑석로 85, Jeonju, and lists +82-63-281-1630 for inquiries. Ask about current fees, English support, accessibility, what participants actually make and whether the paper can be collected that day. A submission or open calendar is not a confirmed booking until the operator confirms it.
 
-For another stop, [Jeonju Hanji Museum’s FAQ](https://www.hanjimuseum.co.kr/main/menu?gc=908UZDG) discusses paper making and requires advance online reservations for groups of 20 or more. It also notes that experiences can pause during the artisan’s vacation, so call first. Compare this with [hanji craft workshops](/blog/korean-paper-art-hanji-crafts-workshops).
+For another stop, [Jeonju Hanji Museum’s FAQ](https://www.hanjimuseum.co.kr/main/menu?gc=908UZDG) discusses paper making and requires advance online reservations for groups of 20 or more. It also notes that experiences can pause during the artisan’s vacation, so call first. If you mainly want the exhibition, [plan a separate visit to the Hanji Museum on Palbok-ro](/blog/korean-paper-art-hanji-crafts-workshops).

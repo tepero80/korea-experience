@@ -35,6 +35,8 @@ Do not generalize one shop's package or refund conditions to all rentals. Confir
 
 <GuidePhoto id="seoul-insadong-walk" caption="Insadong can be a nearby continuation after a historic-center visit. This street photograph does not identify a rental shop or confirm its inventory or return policy." />
 
+Once you have a rental, [plan the fitting, palace walk and return on one route](/blog/traditional-korean-hanbok-experience-in-seoul).
+
 ## Build a workable day
 
 1. Confirm the palace is open on your date and check last entry.
