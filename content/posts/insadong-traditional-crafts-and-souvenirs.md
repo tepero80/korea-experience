@@ -33,6 +33,8 @@ The [official Ssamzi-gil listing](https://english.visitseoul.net/dongdaemunarea/
 
 Browse the shops that interest you, keep a meal or tea break nearby and leave when the useful list is complete. A directory's opening time does not establish every shop's schedule or an available workshop slot.
 
+If you want to make something rather than browse, [compare bookable Seoul culture workshops](/blog/cultural-immersion-programs-language-and-craft-workshops) and check the collection arrangements.
+
 ## Check the whole purchase
 
 Confirm the total, packaging, returns and payment method before paying. If a refund is relevant, ask about [seller participation and the correct tax-refund route](/blog/tax-refund-for-tourists-how-to-claim) at checkout. For food, plant materials or restricted goods, check the destination's actual import rules rather than assuming a souvenir label makes it unrestricted.

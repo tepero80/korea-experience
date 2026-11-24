@@ -31,6 +31,12 @@ Check the [museum’s current visitor information](https://museum.seoul.go.kr/sc
 2. Begin with the permanent exhibition for the wall’s historical context. The museum estimates approximately 20 minutes for a quick look or about 40 minutes with explanations. Allow additional time if you read slowly or are visiting with children.
 3. Decide on your next stop after you see the weather. The park outside can be a rest stop in suitable conditions; it is not an indoor rain shelter. Do not assume a particular wall section is accessible: check the route and any closures on your map before setting out.
 
+Planning a bigger mountain day? [Compare Bukhansan, Dobongsan and Gwanaksan](/blog/hiking-seoul-big-three-bukhansan-gwanaksan-and-dobongsan-2026) before picking a route and checking trail conditions.
+
+If you want an outdoor stop after the museum, [compare three shorter Seoul walks](/blog/hidden-hiking-trails-near-seoul-less-crowded-alternatives) and choose a route that fits your remaining daylight.
+
+If you also want to see public art near Naksan, [plan an Ihwa walk with a clear route and respect for residents](/blog/korean-street-art-and-graffiti-culture-in-ihwa-mural-village-2026).
+
 ## If plans change
 
 On a Monday, choose another activity after checking its own opening calendar. For a wet day, keep your route flexible and use our [rainy-day itinerary](/blog/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets) to compare indoor alternatives. If the short walk or steps on your chosen outdoor route matter to your group, check accessibility with the museum rather than assuming an entirely step-free journey.

@@ -37,6 +37,8 @@ Use the [official Myeongdong area guide](https://english.visitseoul.net/area/Mye
 
 Global websites, domestic stores and loyalty programs can have different conditions. Save your list before opening promotions. The [Olive Young preparation guide](/blog/olive-young-must-buys-2026) helps structure the purchase; a viral recommendation alone is not a reason to buy something that does not suit you.
 
+For a snack between shops, [learn the Korean names for common street snacks](/blog/korean-street-food-guide-where-to-eat-in-seoul) and check the filling before ordering.
+
 ## Insadong: ask what makes the object worth carrying
 
 [Ssamzi-gil's official Seoul listing](https://english.visitseoul.net/dongdaemunarea/Ssamzi-gil_/37935) gives **44 Insadong-gil** and lists **10:30–20:30**, with New Year's Day and Chuseok listed as holidays. Confirm holiday operation and the shop you need; listed venue hours do not promise every tenant is open.
@@ -64,6 +66,10 @@ These are **editorial clusters**, not verified walking-time promises:
 - **Myeongdong + Namdaemun:** beauty browsing, then the market if purchases and energy allow. Check directions from the exact store.
 - **Insadong + Anguk:** crafts with a nearby cultural visit and meal. Keep bulky purchases for the end.
 - **Gangnam Station or Samseong:** choose the cluster closest to your other plans rather than adding both automatically.
+
+Before buying clothing to take home, [compare actual Korean garment measurements](/blog/korean-clothing-sizes-conversion-chart) and ask about the fitting or exchange policy.
+
+If the cashier offers a membership, [check whether a visitor can actually use the reward](/blog/korean-department-store-rewards-points-and-vip) before adding purchases.
 
 ## Protect the purchase on the way home
 

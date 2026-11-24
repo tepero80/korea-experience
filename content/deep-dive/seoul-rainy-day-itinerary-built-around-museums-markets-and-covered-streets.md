@@ -41,6 +41,8 @@ The [National Museum's visitor information](https://www.museum.go.kr/ENG/content
 
 Check holiday and quarterly first-Monday gallery closures before assigning a date. A 2–3-hour gallery block plus a meal is an editorial starting plan, not a requirement to walk the entire building.
 
+If an outdoor game is part of your trip, [check the KBO fixture and ticket terms](/blog/korean-baseball-kbo-experience-how-to-get-tickets-and-what-to-eat-2026) before relying on it in wet weather.
+
 ## Make the exposed legs visible
 
 Add the hotel-to-station walk, the useful exit, venue entrance and return leg. Confirm lifts/access assistance where needed. If conditions become unsafe, postpone the journey rather than treating an indoor ticket as a reason to travel.

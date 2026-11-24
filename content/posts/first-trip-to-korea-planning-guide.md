@@ -64,6 +64,8 @@ Use the [booking checklist](/blog/korea-trip-booking-checklist-eight-weeks) to r
 
 Start with the [Seoul three-day route](/blog/seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026), then remove a day or area if your time is shorter. Save one [rain or cold alternative](/blog/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets), rather than moving between distant indoor attractions all day.
 
+If a weather-dependent activity is central to the trip, [see how to check a meeting point and cancellation terms in Danyang](/blog/danyang-paragliding-guide-soaring-over-the-s-curve-river-2026) before booking transport around it.
+
 ## Save this before leaving home
 
 - Passport/entry checks for the actual arrival date, with official pages saved.

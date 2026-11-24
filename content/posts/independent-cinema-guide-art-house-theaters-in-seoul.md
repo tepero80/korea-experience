@@ -24,6 +24,8 @@ draft: false
 | KOFA | Choose a film on the [Sangam screening calendar](https://www.koreafilm.or.kr/cinematheque/calendar/screenings). The archive lists free screenings and advance or same-day box-office booking. Seats can run out. |
 | Cinecube | Use the [Gwanghwamun showtimes](https://www.cinecube.co.kr/cinema/time-order-table) for a film that fits your day in central Seoul. Check the specific screening’s price and language. |
 
+For classic Korean titles and subtitle checks, [start with the Korean Film Archive guide](/blog/korean-cinema-beyond-bong-joon-ho-must-watch-directors-2026) before selecting a dated screening.
+
 ## Check the language and ticket
 
 1. Find the title and exact date/time. **영어 자막** means English subtitles and **한글 자막** means Korean subtitles. If the listing is unclear, ask **이 상영에 영어 자막이 있나요?** (“Does this screening have English subtitles?”).

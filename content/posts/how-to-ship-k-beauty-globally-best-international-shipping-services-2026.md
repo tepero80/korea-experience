@@ -19,6 +19,8 @@ Decide how the products will leave Korea before buying full-size bottles or dupl
 
 [Olive Young Global’s shipping page](https://global.oliveyoung.com/foot-info/footer-contents?foterSeq=138) is an example of a policy for online orders. Use the live destination selector and actual checkout to check whether that route is available. If carrying the items, use the [cosmetics shopping and carry-on checklist](/blog/complete-guide-to-korean-skincare-routine-10-step-method-2026).
 
+Already have a parcel ready to send? [Prepare the recipient details and declaration for a Korea Post counter](/blog/korean-post-office-international-shipping-guide).
+
 ## Ask the postal service about the exact product
 
 Bring the label or a photo of it. [Korea Post’s international air-mail list](https://ems.epost.go.kr/front.Introduction04New.postal?country=EN&gubun=CON) lists perfume as prohibited and flags some lotions, creams and mists for review. Pressurized containers and dangerous-goods markings can change the answer. Ask whether the office needs the manufacturer’s safety data sheet (MSDS) for your item or whether another accepted option exists. These are the named postal service’s conditions.

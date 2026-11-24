@@ -44,6 +44,8 @@ For a wheelchair user or someone who needs step-free access, check the entire ro
 
 <span id="sources"></span>
 
+For the whole outing, [plan station exits, walking distance and a rest stop together](/blog/senior-friendly-travel-accessible-routes-and-slow-pace).
+
 ## Useful Korean
 
 - **화장실 어디예요?** (*hwajangsil eodi-yeyo?*) means “Where is the restroom?”

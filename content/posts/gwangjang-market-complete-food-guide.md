@@ -39,6 +39,8 @@ The official listing mentions mung-bean pancakes, gimbap, tteokbokki and fish ca
 
 For two people, sharing a small initial order can leave room to decide what you actually enjoy. That is editorial advice, not a claim that every stall permits any sharing arrangement. Ask before sitting if the minimum order matters.
 
+Still choosing between markets? [Compare a prepared-food stop here with a seafood meal at Noryangjin](/blog/seoul-food-markets-guide-gwangjang-to-noryangjin-2026) before making the trip.
+
 ## Keep the stop connected to the rest of the day
 
 Give yourself a meal/rest block and an exit point instead of browsing until the next reservation becomes rushed. Choose a nearby continuation in your map; do not add Seongsu or a distant museum just because the market visit was shorter than expected.

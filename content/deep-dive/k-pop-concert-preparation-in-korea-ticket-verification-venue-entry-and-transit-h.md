@@ -33,6 +33,8 @@ Concert entry procedures in South Korea have intensified significantly. Under So
 
 ---
 
+Also [check concert light sticks and recording rules](/blog/korean-fan-culture-lightsticks-fancams-and-more-explained-2026) before carrying equipment into the venue.
+
 ## Venue Transit and Getting Home
 
 Leaving a major Korean concert venue simultaneously with tens of thousands of fans creates severe crowd congestion around immediate subway exits—such as Olympic Park Station Exit 3 or Guil Station Exit 2. 

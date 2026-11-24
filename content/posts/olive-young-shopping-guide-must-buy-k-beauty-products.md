@@ -33,6 +33,8 @@ A product listing or coupon in the global shop may describe a different sale. Th
 
 For category and product-selection help, use the [Olive Young product shortlist](/blog/olive-young-must-buys-2026). For choosing where to go and in what order, use the [Myeongdong walking route](/blog/myeongdong-shopping-guide-beauty-and-fashion).
 
+Shopping for a branded item elsewhere? [Check the seller, documentation and dispute options](/blog/korean-counterfeit-products-how-to-spot-fakes) before relying on packaging alone.
+
 ## At checkout, identify the refund route
 
 Ask before paying whether the store participates and which route it offers. The [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736) lists **₩15,000 or more per qualifying receipt**. Its immediate refund rules set a payment limit **below ₩1,000,000** and a qualifying trip total of **₩5,000,000 or less**. Visitor eligibility and seller participation also matter.

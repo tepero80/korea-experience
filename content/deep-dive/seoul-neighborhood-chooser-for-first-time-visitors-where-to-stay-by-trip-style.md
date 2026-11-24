@@ -51,6 +51,8 @@ Hongik University has different rail facilities and exits. The AREX all-stop tra
 
 Gangnam Station and [COEX near Samseong](https://english.visitseoul.net/gangnamarea/Coex-convention-center-en/ENP024663) are different hotel locations. For a conference, appointment or repeated southeast-Seoul plans, compare a base near the actual venue. If most sightseeing is around palaces and the northwest, inspect those cross-city journeys first.
 
+For an early checkout or departure, [choose a breakfast fallback near your route](/blog/korean-breakfast-options-for-travelers-hotel-buffet-soup-shops-and-convenience-s) before relying on a buffet.
+
 ## Send these questions to the property
 
 | Question                                                                        | Why it matters                                            |

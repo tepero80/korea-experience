@@ -34193,5 +34193,1147 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "note": "Resized and converted to WebP. Photographed 2026-11-17."
     }
+  },
+  "hiking-seoul-big-three-bukhansan-gwanaksan-and-dobongsan-2026": {
+    "id": "guide:hiking-seoul-big-three-bukhansan-gwanaksan-and-dobongsan-2026",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Compare individual routes before picking a mountain. Bukhansan and Dobongsan are in the national park, while Gwanaksan Station is a useful subway start for city forest paths or a harder summit course.",
+    "forWhom": "Travelers choosing an uphill outdoor half-day in Seoul",
+    "conditions": [
+      "National park routes can close or have entry times.",
+      "Choose an easier marked path if conditions or experience are uncertain."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Bukhansan, Dobongsan or Gwanaksan: Choose a Seoul Hike"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "visit-seoul-bukhansan-center",
+        "title": "Visit Seoul: Bukhansan Hiking Tourism Center",
+        "url": "https://english.visitseoul.net/seoul-hiking/seoul-hiking-tourism-center-bukhansan/ENN50nn0f",
+        "note": "Describes the center, equipment service and the Ui Valley approach.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-gwanaksan-center",
+        "title": "Visit Seoul: Gwanaksan Hiking Tourism Center",
+        "url": "https://english.visitseoul.net/seoul-hiking/seoul-hiking-tourism-center-gwanaksan/ENNllgajy",
+        "note": "Locates the center at Gwanaksan Station and compares trail difficulty.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "knps-bukhansan",
+        "title": "Korea National Park Service: Bukhansan National Park and course notices",
+        "url": "https://www.knps.or.kr/front/portal/visit/visitCourseMain.do?menuNo=7020002&parkId=121500",
+        "note": "Identifies Bukhansan and Dobong park sectors and links to their notices.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the exact route and current access."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1381,
+    "heroMediaId": "archive-bukhansan-baegundae-winter-terrain",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "View From Baegundae Peak.jpg",
+      "author": "Lcarrion88",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:View_From_Baegundae_Peak.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2017-01-21."
+    },
+    "heroCaption": "Snow on exposed rock at Baegundae Peak in January 2017. Check the national park’s current weather and trail information before starting."
+  },
+  "hidden-hiking-trails-near-seoul-less-crowded-alternatives": {
+    "id": "guide:hidden-hiking-trails-near-seoul-less-crowded-alternatives",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a named section with a short return. Compare Ansan Jarak-gil for forest paths, the Namsan North Circular Road for a gentler city walk, and Inwangsan for a wall route with climbing.",
+    "forWhom": "Travelers who want an adjustable outdoor walk without planning a long summit hike",
+    "conditions": [
+      "Crowding and path conditions can change.",
+      "A barrier-free trail designation does not describe every station, connector or detour."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Shorter Walks in Seoul: Ansan, Namsan and the City Wall"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-ansan",
+        "title": "Seoul Metropolitan Government: Green trails",
+        "url": "https://english.seoul.go.kr/green-trails-everywhere-seoul/",
+        "note": "Identifies the barrier-free Ansan Jarak-gil loop; access conditions still depend on the approach.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-namsan-trails",
+        "title": "Visit Seoul: Namsan Dulle-gil",
+        "url": "https://english.visitseoul.net/area/Namsan-Trails/ENP9jn7zj",
+        "note": "Distinguishes the North Circular Road within five routes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-wall",
+        "title": "Seoul Metropolitan Government: Hanyangdoseong",
+        "url": "https://english.seoul.go.kr/service/amusement/hanyangdoseong/",
+        "note": "Describes the Inwangsan wall section and its endpoints.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Choose a route with a flexible return."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1382,
+    "heroMediaId": "archive-inwangsan-ascent-archway-2019",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Approaching the Archway on the Ascent of Inwangsan, Seoul.jpg",
+      "author": "Ethan Doyle White",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Approaching_the_Archway_on_the_Ascent_of_Inwangsan%2C_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2019-11-09."
+    },
+    "heroCaption": "A paved slope and traditional archway on an approach to Inwangsan, photographed in November 2019."
+  },
+  "seoul-food-markets-guide-gwangjang-to-noryangjin-2026": {
+    "id": "guide:seoul-food-markets-guide-gwangjang-to-noryangjin-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Gwangjang for a prepared dish in a food aisle, or Noryangjin if you want to choose seafood and check preparation separately. Pick one according to the meal and travel time.",
+    "forWhom": "Travelers deciding which Seoul market suits one meal or snack stop",
+    "conditions": [
+      "Verify the stall or restaurant on the day.",
+      "At a seafood market, confirm the unit, quantity and any preparation or seating price before paying."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Seoul Food Markets: Choose Gwangjang or Noryangjin for Your Meal"
+    ],
+    "relations": [
+      {
+        "slug": "korean-seafood-markets-noryangjin-and-more-2026",
+        "label": "Check the seafood ordering sequence",
+        "reason": "See what to ask about quantity, price and preparation before ordering.",
+        "type": "next"
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-markets",
+        "title": "VISITKOREA: Gwangjang Market listing",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106345",
+        "note": "Confirms the Gwangjang market name and district address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-noryangjin",
+        "title": "VISITKOREA: Noryangjin Fisheries Wholesale Market",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=91565",
+        "note": "Distinguishes market sales from the listed restaurant floors.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-winter-stalls",
+        "title": "VISITKOREA: Winter foods and where to try them",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1595642",
+        "note": "Identifies central Seoul areas and seasonal examples.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Choose prepared food or seafood."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1383,
+    "heroMediaId": "archive-gwangjang-jeon-counter-2026",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Seoul, Jongno District, Gwangjang Market, Jeon.jpg",
+      "author": "Dr. Thomas Liptak",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul%2C_Jongno_District%2C_Gwangjang_Market%2C_Jeon.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2026-09-28."
+    },
+    "heroCaption": "A jeon counter at Gwangjang Market in September 2026. This is one example of the prepared food the market sells."
+  },
+  "korean-street-food-guide-where-to-eat-in-seoul": {
+    "id": "guide:korean-street-food-guide-where-to-eat-in-seoul",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with a single snack and check the filling before ordering. Look for 떡볶이, 어묵, 김밥 or 호떡, then decide if you want a takeaway bite or a seat.",
+    "forWhom": "First-time visitors who need help picking one or two Seoul street-food items",
+    "conditions": [
+      "Individual stalls choose their menu, prices and hours.",
+      "Ask about ingredients and cross-contact if they matter to you."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "What to Order for Your First Seoul Street-Food Snack"
+    ],
+    "relations": [
+      {
+        "slug": "gwangjang-market-complete-food-guide",
+        "label": "Plan a market food stop",
+        "reason": "Find the right aisle and decide what to order when you arrive.",
+        "type": "next"
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-bunsik",
+        "title": "VISITKOREA: Bunsik and street food",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=205&vcontsId=140730",
+        "note": "Identifies dishes and their usual forms, not exact ingredients at a stall.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-winter-stalls",
+        "title": "VISITKOREA: Winter foods and where to try them",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1595642",
+        "note": "Identifies central Seoul areas and seasonal examples.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the filling and portion."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1384,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "korean-breakfast-options-for-travelers-hotel-buffet-soup-shops-and-convenience-s": {
+    "id": "guide:korean-breakfast-options-for-travelers-hotel-buffet-soup-shops-and-convenience-s",
+    "categoryId": "where-to-stay",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with the time you must leave. Check what your hotel rate includes, look up an actual porridge branch if you want a sit-down meal, and keep a packaged option for early starts.",
+    "forWhom": "Visitors planning an early station or airport departure or a slower first morning",
+    "conditions": [
+      "Individual rates and opening hours vary.",
+      "Check the actual package or merchant for ingredients and heating options."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Breakfast in Korea: Hotel Dining, Rice Porridge or a Quick Store Stop"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style",
+        "label": "Choose a base for your mornings",
+        "reason": "Compare hotel locations based on the journeys you will repeat.",
+        "type": "next"
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-juk",
+        "title": "VISITKOREA: Bonjuk City Air Tower",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=46593",
+        "note": "One operator listing illustrates distinctly named rice porridges.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-bunsik",
+        "title": "VISITKOREA: Bunsik and street food",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=205&vcontsId=140730",
+        "note": "Identifies dishes and their usual forms, not exact ingredients at a stall.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Plan around the time you need to leave."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1385,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "korean-baseball-kbo-experience-how-to-get-tickets-and-what-to-eat-2026": {
+    "id": "guide:korean-baseball-kbo-experience-how-to-get-tickets-and-what-to-eat-2026",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Find a fixture in the KBO schedule, then use the home team’s official ticket channel. Save the stadium name in Korean and recheck the fixture, ticket and entry rules close to the game.",
+    "forWhom": "Travelers fitting a baseball game into a Korea itinerary",
+    "conditions": [
+      "No assumption about future fixtures or ticket stock.",
+      "Entry and refund conditions vary by club, stadium and game."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "How to Plan Your First KBO Baseball Game in Korea"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kbo-schedule",
+        "title": "KBO: Match schedule and results (Korean)",
+        "url": "https://www.koreabaseball.com/Schedule/Schedule.aspx",
+        "note": "Use the schedule to confirm the date, teams and stadium.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kbo-tickets",
+        "title": "KBO: Official ticket channels by team (Korean)",
+        "url": "https://koreabaseball.com/Kbo/League/Map.aspx",
+        "note": "Lists team-specific ticket providers.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-jamsil-stadium",
+        "title": "VISITKOREA: Jamsil Baseball Stadium",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=1566942",
+        "note": "Identifies the venue and its stadium facilities. Check your current fixture separately.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Use the home team’s official seller."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1386,
+    "heroMediaId": "archive-jamsil-kbo-stadium-at-night",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jamsil Baseball Stadium panorama (April 28 2017).jpg",
+      "author": "Cyberdoomslayer",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jamsil_Baseball_Stadium_panorama_(April_28_2017).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2017-04-28."
+    },
+    "heroCaption": "A night game at Jamsil Baseball Stadium in April 2017. Check the current KBO schedule, venues and ticket channels before booking."
+  },
+  "danyang-paragliding-guide-soaring-over-the-s-curve-river-2026": {
+    "id": "guide:danyang-paragliding-guide-soaring-over-the-s-curve-river-2026",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the meeting pin supplied by your own operator. Danyang has different paragliding sites. Read the weather cancellation and refund terms and avoid putting a flight in the last available slot of your trip.",
+    "forWhom": "Visitors considering a commercial tandem paragliding session in Danyang",
+    "conditions": [
+      "An operator makes the weather decision on the day.",
+      "Operator terms and travel from the terminal differ. No equipment, provider safety or actual flight was inspected."
+    ],
+    "regions": [
+      "danyang"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Danyang Paragliding: Confirm the Meeting Point, Weather and Refund"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-yangbang",
+        "title": "VISITKOREA: Yangbangsan Paragliding Site",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=62380",
+        "note": "Lists the Yangbangsan location and exact Korean address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "dypara-location",
+        "title": "Danyang Paragliding: Doosan takeoff, booking and pickup (Korean)",
+        "url": "https://www.dypara.com/",
+        "note": "A different site and operator. Use their current confirmation for the meeting point.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "dypara-faq",
+        "title": "Danyang Paragliding: Weather cancellation example (Korean)",
+        "url": "https://www.dypara.com/bbs/faq.php",
+        "note": "Describes this operator’s weather decision and refund. Other terms vary.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the pickup pin and refund terms."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1387,
+    "heroMediaId": "archive-danyang-paragliders-river",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Paragliders in Danyang.jpg",
+      "author": "Douglas Perkins",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Paragliders_in_Danyang.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. Photographed 2015-08-05."
+    },
+    "heroCaption": "Paragliders over the river in Danyang in 2015. This ground-level view shows the landscape around the activity."
+  },
+  "cultural-immersion-programs-language-and-craft-workshops": {
+    "id": "guide:cultural-immersion-programs-language-and-craft-workshops",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Pick a dated visitor session and check who can join, the instruction language, payment and whether you need to collect the finished piece later.",
+    "forWhom": "Visitors with part of a day for a short Seoul craft or Hangeul workshop",
+    "conditions": [
+      "Check the individual class and its booking window.",
+      "Language, payment and same-day pickup vary by provider."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Short Korean Culture Workshops in Seoul: How to Choose and Book"
+    ],
+    "relations": [
+      {
+        "slug": "insadong-traditional-crafts-and-souvenirs",
+        "type": "next",
+        "label": "Make an Insadong half-day",
+        "reason": "Combine the booked session with a walk that keeps collection time available."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-culture-lounge-calendar",
+        "title": "Seoul Culture Lounge: Current English calendar",
+        "url": "https://seoulculturelounge.com/?lang=en",
+        "note": "Calendar describes visitor eligibility and registration. Individual terms vary.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-culture-lounge",
+        "title": "Visit Seoul: Seoul Culture Lounge",
+        "url": "https://english.visitseoul.net/PalaceArea/2024-SEOUL-CULTURE-LOUNGE/ENPi8afi4",
+        "note": "Official tourism listing for the place. Use the current operator calendar for dates and fees.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-ssamziegil",
+        "title": "Visit Seoul: Ssamziegil Experience Workshop",
+        "url": "https://english.visitseoul.net/PalaceArea/Ssamziegil-Experience-Workshop/ENP006364",
+        "note": "Identifies an Insadong workshop location. Check the current operator.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-potterim",
+        "title": "Visit Seoul: Potterim pottery workshop",
+        "url": "https://english.visitseoul.net/entertainment/Potterim/ENPw0625e",
+        "note": "Identifies a pottery example and reservation requirement.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check class language and collection time."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1388,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "korean-cinema-beyond-bong-joon-ho-must-watch-directors-2026": {
+    "id": "guide:korean-cinema-beyond-bong-joon-ho-must-watch-directors-2026",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the Korean Film Archive to choose a title, then search the live schedule for a dated screening and the subtitle language you need.",
+    "forWhom": "Travelers looking for Korean classics to watch in Seoul or online",
+    "conditions": [
+      "Historical catalogue entries do not indicate today’s programming.",
+      "Check the title, screening and subtitles independently."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Cinema Beyond Bong Joon-ho: Classics and Where to Look"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kofa-housemaid",
+        "title": "Korean Film Archive: The Housemaid",
+        "url": "https://eng.koreafilm.or.kr/movie/PM_007274",
+        "note": "Historical program identifying the film and director.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kofa-obaltan",
+        "title": "Korean Film Archive: Aimless Bullet",
+        "url": "https://eng.koreafilm.or.kr/movie/PM_010135",
+        "note": "Historical listing, not a current screening.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kofa-classics-book",
+        "title": "Korean Film Archive: Film publication",
+        "url": "https://eng.koreafilm.or.kr/kofa/publication/books/PB_0000000170",
+        "note": "Additional reading from the archive, not a screening schedule.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kofa-screenings",
+        "title": "Korean Film Archive: Cinematheque screenings",
+        "url": "https://eng.koreafilm.or.kr/cinematheque/screenings",
+        "note": "Check current program titles and details.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kofa-streams",
+        "title": "Korean Film Archive: Online access",
+        "url": "https://eng.koreafilm.or.kr/pages/PC_00000102",
+        "note": "Official streaming access information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kofa-korean-calendar",
+        "title": "Korean Film Archive: Korean screening calendar",
+        "url": "https://www.koreafilm.or.kr/cinematheque/calendar/programs",
+        "note": "Current screening page for a specific showing.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kofa-caption-examples",
+        "title": "Korean Film Archive: Program notes",
+        "url": "https://eng.koreafilm.or.kr/kofa/news/BC_0000056614",
+        "note": "An example of the archive’s subtitle guidance.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the dated screening and subtitles."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1389,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "korean-fan-culture-lightsticks-fancams-and-more-explained-2026": {
+    "id": "guide:korean-fan-culture-lightsticks-fancams-and-more-explained-2026",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Check your actual event notice for the eligible light stick version, pairing instructions and photography restrictions before buying or bringing gear.",
+    "forWhom": "Visitors attending a Korean concert or fan event for the first time",
+    "conditions": [
+      "Rules belong to the dated event and venue.",
+      "A past organizer notice is an example only."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "K-pop Fan Culture: Light Sticks, Fancams and Event Rules"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "weverse-seventeen-example",
+        "title": "SEVENTEEN on Weverse: Incheon event example",
+        "url": "https://weverse.io/seventeen/notice/18405",
+        "note": "A dated example of version-specific light stick support.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "weverse-soundcheck-example",
+        "title": "Weverse Shop: Soundcheck rules example",
+        "url": "https://shop.weverse.io/en/shop/USD/artists/2/notices/13187",
+        "note": "Shows that filming conditions can differ for a particular event.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Read the notice for your exact event."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1390,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "korean-street-art-and-graffiti-culture-in-ihwa-mural-village-2026": {
+    "id": "guide:korean-street-art-and-graffiti-culture-in-ihwa-mural-village-2026",
+    "categoryId": "places-itineraries",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Treat Ihwa as a hillside residential neighborhood. Check your route for stairs, keep photos to public spaces, and switch to the park if the alleys or artwork do not fit your visit.",
+    "forWhom": "Travelers considering an Ihwa and Naksan walk",
+    "conditions": [
+      "Art, paths and signs can change.",
+      "Expect hills or steps and confirm access if you need a step-free route."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Ihwa Mural Village: A Respectful Art Walk Near Naksan"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-city-wall-museum-guide",
+        "type": "next",
+        "label": "Add a public indoor stop",
+        "reason": "Pair the wall walk with a museum if the paths or weather do not suit your visit."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "visit-seoul-ihwa",
+        "title": "Visit Seoul: Ihwa Mural Village",
+        "url": "https://english.visitseoul.net/area/IhwaMuralVillage/ENPz90c1l",
+        "note": "Tourism listing identifies hillside terrain and the approach.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jongno-ihwa-record",
+        "title": "Jongno District Council: 2015 discussion (Korean)",
+        "url": "https://bookcouncil.jongno.go.kr/record/recordView.do?key=28a577c6748c0a436e72ad30f7366f10718264ba4f20a2eb5f59f8d7d1328f34f1bfc18372af6ef3",
+        "note": "Historical discussion of concerns in the residential area.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-danurim",
+        "title": "Seoul Danurim: Accessible tourism information",
+        "url": "https://www.seouldanurim.net/en",
+        "note": "Ask about current routes and services.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the hill and respect residential space."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1391,
+    "heroMediaId": "archive-seoul-ihwa-hillside-view",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Ihwa Mural Village 12.jpg",
+      "author": "Bonnielou2013",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ihwa_Mural_Village_12.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2015-11-02."
+    },
+    "heroCaption": "A view across Seoul from the Ihwa Mural Village hillside, photographed in November 2015."
+  },
+  "korean-post-office-international-shipping-guide": {
+    "id": "guide:korean-post-office-international-shipping-guide",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Take the destination and a detailed, truthful contents list to Korea Post. Confirm the permitted service at the counter and save the receipt and item number.",
+    "forWhom": "Travelers with purchases already prepared for international mailing",
+    "conditions": [
+      "Restrictions and charges depend on goods, destination, and service.",
+      "Check what the branch requires for the exact parcel."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Sending a Parcel at a Korean Post Office"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "korea-post-restrictions",
+        "title": "Korea Post: International air-mail restrictions",
+        "url": "https://ems.epost.go.kr/front.Introduction04New.postal?country=EN&gubun=CON",
+        "note": "Check the service and product restrictions before taking a parcel.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-post-advance",
+        "title": "Korea Post: Start smart acceptance (Korean)",
+        "url": "https://ems.epost.go.kr/front.EmsApply1100c.postal",
+        "note": "Public entrance to the advance-registration process.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-post-europe",
+        "title": "Korea Post: Europe customs declaration guidance",
+        "url": "https://ems.epost.go.kr/front.EmsNewsDetail.postal?db=notice&seq=1184",
+        "note": "Provides examples of item descriptions that distinguish broad categories from specific goods.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-post-inquiry",
+        "title": "Korea Post: EMS inquiry",
+        "url": "https://ems.epost.go.kr/iservice/ems/EmsSendMailFormFreeEng.jsp",
+        "note": "Lists information necessary for inquiries about delivery.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Keep the receipt and tracking number."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1392,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "topping-up-t-money-with-cash-2026": {
+    "id": "guide:topping-up-t-money-with-cash-2026",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask for a recharge for the physical transit card or select the refill screen. Confirm the amount and balance before leaving, and keep cash as a fallback.",
+    "forWhom": "Travelers adding funds to a physical T-money card at a shop or station",
+    "conditions": [
+      "Payment options vary by machine and location.",
+      "Combined products can hold payment and transit balances separately."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "T-money Cash Top-up: What to Do at a Station or Shop"
+    ],
+    "relations": [
+      {
+        "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+        "type": "next",
+        "label": "Find cash if a payment fails",
+        "reason": "Read the card and ATM labels before trying another withdrawal."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-transit-cards",
+        "title": "VISITKOREA: Transportation cards",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140663",
+        "note": "Identifies typical physical card purchase and top-up locations.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-transit-topup",
+        "title": "Seoul Metropolitan Government: Public transportation",
+        "url": "https://english.seoul.go.kr/service/movement/public-transportation/",
+        "note": "Explains subway recharging and payment options, which depend on the machine.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-wowpass-balances",
+        "title": "VISITKOREA: WOWPASS guidance",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1593470",
+        "note": "Distinguishes transit and payment balances.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the transit balance after loading."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1393,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "korean-counterfeit-products-how-to-spot-fakes": {
+    "id": "guide:korean-counterfeit-products-how-to-spot-fakes",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Verify the seller through the brand where possible, compare the same item and save purchase evidence. Ask the seller, brand or consumer agency if a problem arises.",
+    "forWhom": "Travelers who want to check the seller of a branded product purchased in person",
+    "conditions": [
+      "A product’s appearance does not conclusively establish authenticity.",
+      "Refund and reporting channels have different roles."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buying Branded Goods in Korea: A Traveler's Authenticity Checklist"
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "next",
+        "label": "Plan a store purchase",
+        "reason": "Keep receipt and pickup conditions clear for everyday items."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "korea-customs-authenticity",
+        "title": "Korea Customs Service: Counterfeit shopping guidance (Korean)",
+        "url": "https://www.customs.go.kr/kcs/na/ntt/selectNttInfo.do?nttSn=10147925&nttSnUrl=f5ed25a22b2d1a48a99964d40a9a1a4f",
+        "note": "Supports the difficulty of judging by appearance and checking seller details.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "cosrx-sellers",
+        "title": "COSRX: Official stores and partners",
+        "url": "https://www.cosrx.com/pages/stores",
+        "note": "Brand-specific example of its published sales channels.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kca-1372",
+        "title": "Korea Consumer Agency: 1372 consultation (Korean)",
+        "url": "https://www.kca.go.kr/odr/pg/ma/cnsutInfo.do",
+        "note": "Consumer consultation and dispute-remedy process.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kcs-report-125",
+        "title": "Korea Customs Service: Reporting fake goods (Korean)",
+        "url": "https://customs.go.kr/kcs/na/ntt/selectNttInfo.do?bbsId=1362&mi=2891&nttSn=10179605&nttSnUrl=0f8a9958a2a2a2905f59d9887bb2906f",
+        "note": "Korea Customs report contact.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Verify the seller and keep your receipt."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1394,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "korean-clothing-sizes-conversion-chart": {
+    "id": "guide:korean-clothing-sizes-conversion-chart",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Compare the manufacturer’s table and your own measurements. Check whether the values describe your body or the garment before choosing a size.",
+    "forWhom": "Travelers buying clothing at a Korean shop or before returning home",
+    "conditions": [
+      "Brand and cut matter more than a universal letter-size conversion.",
+      "Confirm fitting and return rules with the shop."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Clothing Sizes: Compare Measurements Before You Buy"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "next",
+        "label": "Choose where to try on clothes",
+        "reason": "Compare shopping areas and allocate time for a fitting."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "nike-body-measurements",
+        "title": "Nike Korea: Unisex body-measurement chart (Korean)",
+        "url": "https://www.nike.com/kr/size-fit/gender-neutral-clothing-mens-based-alpha",
+        "note": "A body-measurement chart showing chest, waist and hip circumferences.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Compare body and garment measurements."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1395,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "korean-department-store-rewards-points-and-vip": {
+    "id": "guide:korean-department-store-rewards-points-and-vip",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask whether you can both earn and use a reward as a visitor before enrolling. A store account or earning offer can have a separate verification or redemption condition.",
+    "forWhom": "Short-term visitors deciding whether retail rewards are useful for a planned purchase",
+    "conditions": [
+      "Conditions depend on the merchant and membership product.",
+      "The linked example is not a general eligibility rule."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Department Store Rewards: Check Eligibility Before You Join"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "lpoint-membership",
+        "title": "L.POINT: Membership terms and enrollment (Korean)",
+        "url": "https://m.lpoint.com/app/center/LWDD100300.do?prvGrpId=A07",
+        "note": "One operator’s example of how foreign or simplified memberships differ.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "lpoint-help",
+        "title": "L.POINT: Current member help (Korean)",
+        "url": "https://m.lpoint.com/app/center/LWDD100101.do?prvGrpId=LP01",
+        "note": "Customer guidance for registration and redemption questions.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check earning and redemption separately."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1396,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "english-personal-color-in-gangnam-2026": {
+    "id": "guide:english-personal-color-in-gangnam-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Before reserving an English-language personal color session, confirm the language, full price, address, what the price includes, and cancellation rules in writing.",
+    "forWhom": "Travelers comparing an appointment-based beauty consultation in Gangnam",
+    "conditions": [
+      "Language and package inclusions vary by studio.",
+      "Personal color is a shopping or styling service."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Book a Personal Color Session in Gangnam: English and Total Price"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-color-studio",
+        "title": "VISITKOREA: Seoul personal-color studio listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=1592543",
+        "note": "One city studio listing and service details.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "cocory-booking",
+        "title": "COCORY: Gangnam appointment information",
+        "url": "https://cocorycolor.com/en/product/d-gn/",
+        "note": "Operator example of an appointment package.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kfp-overview",
+        "title": "Korea Fashion Psychology Institute: English overview",
+        "url": "https://kfp.re.kr/en",
+        "note": "Provider overview. Confirm booking terms directly with the studio.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm language and total price in writing."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1397,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "lost-property-in-seoul-official-reporting-channels-for-subway-taxi-and-venues": {
+    "id": "guide:lost-property-in-seoul-official-reporting-channels-for-subway-taxi-and-venues",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with the place or operator where you last had the item. Save the trip details privately, then ask the appropriate police location how to file a report if needed.",
+    "forWhom": "Visitors who lost an item in Seoul and need the correct operator or venue",
+    "conditions": [
+      "A listing or report does not guarantee recovery.",
+      "Choose the operator for the actual route."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Lost Something in Seoul? Choose the Right First Contact"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-metro-lost",
+        "title": "Seoul Metropolitan Government: Subway lost-and-found centers",
+        "url": "https://english.seoul.go.kr/service/movement/public-transportation/seoul-metro-lost-found-center/",
+        "note": "Lists operator centers by line.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-taxi-receipt",
+        "title": "Seoul Metropolitan Government: Taxi receipt example (2013)",
+        "url": "https://english.seoul.go.kr/mayor-park-won-soons-hope-journal-131-what-would-you-do-if-you-left-something-in-a-taxi_29446_pi/",
+        "note": "An older example of why receipts matter, not a present operator contact.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "knpa-found-phone",
+        "title": "Korean National Police Agency: Found-phone service (Korean)",
+        "url": "https://minwon24.police.go.kr/cvlcpt/cvlcptGdInfo.do?cvlcptId=MW-203",
+        "note": "Describes the search and the relevant holding organizations.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Start with the operator for the route."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1398,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "senior-friendly-travel-accessible-routes-and-slow-pace": {
+    "id": "guide:senior-friendly-travel-accessible-routes-and-slow-pace",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Plan one main stop and a comfortable return. Confirm the individual segments, including the entrance, station exit, seating, bathroom and pickup point.",
+    "forWhom": "Travelers planning around mobility, fatigue or a slower pace",
+    "conditions": [
+      "An accessible facility does not establish access along the entire route.",
+      "Check actual entrances and any temporary changes."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "A Slower Korea Trip: Check the Route Before the Attraction"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-accessible-guide",
+        "title": "Korea Tourism Organization: Accessible tourism guide (Korean)",
+        "url": "https://access.visitkorea.or.kr/main/intro01.do",
+        "note": "Searchable facility details can guide questions to the operator.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-wando-route",
+        "title": "Korea Tourism Organization: Wando Tower access example (Korean)",
+        "url": "https://access.visitkorea.or.kr/ms/detail.do?cotId=121334f8-5822-41e4-9231-ad4800ead5d0",
+        "note": "Lists available facilities and cautions concerning the approach ramp.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the entrance, rest stop and return."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1399,
+    "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
   }
 }

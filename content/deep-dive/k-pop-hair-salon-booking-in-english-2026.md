@@ -20,6 +20,8 @@ A reference image helps explain shape, texture or color. Point out the part you 
 
 Ask whether your requested language will be available in the chair. Check the street address, service, start time, duration, full estimate and cancellation terms in the reply. If the service includes chemical work, tell the salon which treatments your hair already has and ask what result is realistic.
 
+If a separate color consultation is part of your plan, [compare the appointment language, total cost and cancellation policy](/blog/english-personal-color-in-gangnam-2026).
+
 ## Send a message that makes approval easy
 
 “I will be in Seoul on these dates. I like the shape in this photo and want to keep my usual length. Could you tell me which service to book, whether I can consult in English, how long it takes and the estimated total? I previously had these treatments. Please tell me the branch and any deposit or cancellation terms.”

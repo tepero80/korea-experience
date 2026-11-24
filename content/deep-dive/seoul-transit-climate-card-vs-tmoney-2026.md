@@ -29,6 +29,8 @@ The checked official page says prepaid **30-day Climate Card recharging ended 31
 
 Add **₩3,000 for a new physical Climate Card** if needed. Check purchase/recharge conditions. Short-term use starts on the recharge day; do not assume you can recharge several days early and choose a later activation.
 
+Using a physical pay-as-you-go card? [See how to top up T-money at the station or shop](/blog/topping-up-t-money-with-cash-2026).
+
 ## Mark excluded journeys before adding the fare total
 
 Check each origin, destination and route against the official coverage. Sinbundang, GTX and airport/express buses should not be assumed covered. The Incheon Airport T1/T2 exception permits qualifying **alighting, not boarding**. An inbound airport train is not automatically included in a city pass.

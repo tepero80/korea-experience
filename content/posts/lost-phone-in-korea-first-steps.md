@@ -20,6 +20,8 @@ Record where and when you last used the phone. Contact the hotel, restaurant, tr
 
 The Korean police's [found-phone service information](https://minwon24.police.go.kr/cvlcpt/cvlcptGdInfo.do?cvlcptId=MW-203) describes a search and the relevant holding organizations. Its page is in Korean. If the item may be found, ask the office how to prove ownership and whether it has a current record; a similar listing does not establish a match.
 
+If you know the Seoul ride or venue where you last had it, [check who to contact first](/blog/lost-property-in-seoul-official-reporting-channels-for-subway-taxi-and-venues).
+
 ## 2. Secure access from a trusted device
 
 - For an eligible Android device, [Google's Find Hub guide](https://support.google.com/android/answer/6160491?hl=en-ZZ) describes finding, securing or erasing it remotely. For an eligible iPhone, use [Apple's Find My guidance](https://support.apple.com/en-euro/guide/iphone/iph7cc193cfc/ios) to mark it lost. Availability depends on settings, account access, connectivity and the device.
