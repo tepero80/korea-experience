@@ -49,6 +49,8 @@ The [Korea Tourism Organization’s restaurant guidance](https://english.visitko
 
 If you are choosing a rice bowl, [compare bibimbap, hot stone-pot rice and bean-sprout rice](/blog/korean-rice-dishes-bibimbap-dolsot-kongnamul-bap) before ordering.
 
+When the food arrives, see which bowls are yours and which dishes are shared with the [rice bowl and table setting guide](/blog/table-etiquette-in-korea-why-you-should-not-pick-up-your-rice-bowl-2026).
+
 ## Know what can be refilled
 
 Banchan are small accompanying dishes. **Ask before refilling**: an included side dish and an extra meat, noodle or rice item on the menu are different things. Do not assume a shared dish is vegetarian or safe for an allergy from its appearance.

@@ -24,6 +24,8 @@ If the drinks are the reason for your stop, [compare two regional Korean wine vi
 
 If your group wants a shared dinner instead of small plates, [check Korean hot-pot sizes, broth and extras](/blog/korean-stew-variations-jjigae-jeongol-hotpot).
 
+If you are deciding where to sit as well, use the [soju, makgeolli and pocha guide](/blog/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026) to read the drink and set options.
+
 ## Order in a manageable sequence
 
 You can show **이 안주는 몇 명이 먹기 좋아요?** to ask how many people the dish serves. If you are only having a short stop, ask whether one plate is enough for your table and whether each diner needs to order a drink. If you are having a meal, ask when the kitchen closes and order a second dish after you see the first portion. For a daytime snack stop with a different pace, [compare the stalls at Gwangjang Market](/blog/gwangjang-market-complete-food-guide).

@@ -43117,5 +43117,261 @@
     "changeType": "rewrite",
     "launchOrder": 1559,
     "heroOmissionReason": "The phrase comparison is the practical reference. Restaurant arrangements vary by group and venue."
+  },
+  "flying-after-plastic-surgery-when-is-it-safe": {
+    "id": "guide:flying-after-plastic-surgery-when-is-it-safe",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Before paying for a return ticket, ask your treating clinic when it can reassess your travel plans and compare the actual cost of moving the ticket and extending your stay.",
+    "forWhom": "Travelers considering a procedure in Korea who have not committed to their return arrangements.",
+    "conditions": [
+      "Only your treating clinician can advise on your individual timing. Flight changes depend on your fare, carrier and availability."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "flight changes",
+      "return travel",
+      "medical travel planning"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w31-fcdo",
+        "title": "UK travel guidance on treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Explains how to plan travel after treatment, contact your airline and check insurance.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask whether a change costs both a fee and the fare difference."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1560,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-medical-records-getting-english-translations": {
+    "id": "guide:korean-medical-records-getting-english-translations",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask your home clinician or insurer which document they can use. A medical certificate, a chart copy, the image itself and the itemized bill serve different purposes.",
+    "forWhom": "Visitors who need to bring documentation home after receiving care in Korea.",
+    "conditions": [
+      "Provider rules, turnaround and fees vary. The examples are from Seoul National University Hospital."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "medical documents",
+      "insurance paperwork",
+      "continuity of care"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w31-snuh-records",
+        "title": "Seoul National University Hospital medical documents",
+        "url": "https://www.snuh.org/global/en/patients/EN02005.do",
+        "note": "Shows that the English certificate, record copies and imaging are separate requests at this hospital.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w31-snuh-faq",
+        "title": "SNUH Rare Disease Center document FAQ",
+        "url": "https://raredisease.snuh.org/en/patients/faq/",
+        "note": "Gives provider examples for English certificates, copies and authorized collection.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for an English certificate during the appointment if the hospital requires it."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1561,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-soup-culture-a-guide-to-kimchi-jjigae-doenjang-jjigae-and-more-2026": {
+    "id": "guide:korean-soup-culture-a-guide-to-kimchi-jjigae-doenjang-jjigae-and-more-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Choose 김치찌개 for a kimchi-based stew or 된장찌개 for a fermented soybean paste stew. Read the rest of the menu name and ask about the stock if ingredients matter to you.",
+    "forWhom": "Travelers choosing lunch from a Korean menu that lists both stews.",
+    "conditions": [
+      "The recipe, heat and serving size vary by restaurant. The photographs show examples."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Korean stew",
+      "Korean menus",
+      "Korean food"
+    ],
+    "relations": [
+      {
+        "slug": "korean-soup-culture-gamjatang-galbitang-seolleongtang",
+        "type": "next",
+        "label": "Compare Korean soup bowls",
+        "reason": "Recognize beef-bone broth, beef rib soup and pork backbone stew on the same menu."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w31-kto-kimchi",
+        "title": "VISITKOREA: Kimchi jjigae and its variations",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140728",
+        "note": "Identifies pork, tuna and ham as examples in kimchi jjigae recipes.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w31-kto-doenjang",
+        "title": "VISITKOREA: Soybean paste jjigae",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178309",
+        "note": "Describes the soybean paste stew and example ingredients.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask about the broth before ordering if you avoid meat or seafood."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1562,
+    "heroMediaId": "doenjang-jjigae-jyleen21-2015",
+    "heroCaption": "An example of doenjang jjigae. Ask the restaurant which stock and toppings are in its bowl.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Doenjang-jjigae.jpg",
+      "author": "jyleen21",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doenjang-jjigae.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. Source and license apply to the image and its derivatives."
+    }
+  },
+  "korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026": {
+    "id": "guide:korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Soju and makgeolli are drinks. A pocha is a place to get food and drinks. Start by deciding whether you want a meal, a short stop or one drink with a shared dish.",
+    "forWhom": "Visitors reading a Korean evening menu or considering a first pocha stop.",
+    "conditions": [
+      "Alcohol content and serving sizes vary. Check the listed price, what the venue serves and your ride back."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Korean nightlife",
+      "Korean drinks",
+      "pocha menus"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w31-kto-soju",
+        "title": "VISITKOREA: Andong soju",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221412",
+        "note": "Provides an example of traditionally distilled soju.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w31-kto-makgeolli",
+        "title": "VISITKOREA: Makgeolli and its regional varieties",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=904&vcontsId=221402",
+        "note": "Describes fermented makgeolli and variation between brewers.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w31-kto-pocha",
+        "title": "VISITKOREA: Jongno 3-ga Pocha Street",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=215485",
+        "note": "Identifies the food-stall area by Jongno 3-ga Station Exit 6.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Read the bottle for alcohol content and the menu for the price unit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1563,
+    "heroMediaId": "makgeolli-kettle-jon-aslund-2010",
+    "heroCaption": "A serving of makgeolli photographed in May 2010. The vessels and serving sizes vary by venue.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Makgeolli.jpg",
+      "author": "Jon Åslund",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Makgeolli.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. Source and license apply to the image and its derivatives."
+    }
+  },
+  "table-etiquette-in-korea-why-you-should-not-pick-up-your-rice-bowl-2026": {
+    "id": "guide:table-etiquette-in-korea-why-you-should-not-pick-up-your-rice-bowl-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Leave the rice bowl on the table and use the spoon for rice or soup. Ask which dishes are shared, and use any serving utensil the restaurant provides.",
+    "forWhom": "Visitors sitting down to a Korean meal with rice, soup and shared dishes.",
+    "conditions": [
+      "The guide describes a common custom. Follow the setup at your particular restaurant or host’s table."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "restaurant manners",
+      "shared dishes",
+      "Korean dining"
+    ],
+    "relations": [
+      {
+        "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+        "type": "next",
+        "label": "Read the order and payment labels",
+        "reason": "Once you know what is shared, check portion sizes, refills and the bill."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w31-koreanet-table",
+        "title": "Korea.net: table manners in Korea",
+        "url": "https://www.korea.net/NewsFocus/Society/view?articleId=175173&pageIndex=1",
+        "note": "Describes the spoon and chopstick setting and the practice of keeping rice and soup dishes on the table.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "If you need a small plate for shared dishes, ask for an apjeopsi."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1564,
+    "heroOmissionReason": "A credited photograph appears beside the table instructions."
   }
 }

@@ -6254,5 +6254,50 @@
     "src": "/images/cards/the-philosophy-of-nunchi-understanding-korea-social-superpower-2026.jpg",
     "fingerprint": "b6a044008ed212a8c86b4cdb5b1d2dda58761b9437f16a5fe992ccd883c4a56e",
     "adaptation": "Typographic social preview."
+  },
+  "flying-after-plastic-surgery-when-is-it-safe": {
+    "src": "/images/cards/flying-after-plastic-surgery-when-is-it-safe.jpg",
+    "fingerprint": "c568810cf9aa3a97fec48a19d60ddbcb5a39795ac78ea3ce1f826bfe62ecedc1",
+    "adaptation": "Typographic social preview."
+  },
+  "korean-medical-records-getting-english-translations": {
+    "src": "/images/cards/korean-medical-records-getting-english-translations.jpg",
+    "fingerprint": "d575325eb14677ea923ecb1b57257ab2be8c03f2fdeadcc7e10649c3d64d83cd",
+    "adaptation": "Typographic social preview."
+  },
+  "korean-soup-culture-a-guide-to-kimchi-jjigae-doenjang-jjigae-and-more-2026": {
+    "src": "/images/cards/korean-soup-culture-a-guide-to-kimchi-jjigae-doenjang-jjigae-and-more-2026.jpg",
+    "fingerprint": "ecc05c0bff0e1255eac55bdbdc77b28e65a93d0070e39339b3def897585b6ca0",
+    "sourceImage": "/images/editorial/doenjang-jjigae-jyleen21-2015-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Doenjang-jjigae.jpg",
+      "author": "jyleen21",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doenjang-jjigae.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. Source and license apply to the image and its derivatives."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026": {
+    "src": "/images/cards/korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026.jpg",
+    "fingerprint": "dd327390101feaed6c42f69c69f091b049cf3789e2000e2646f6e3ffdf7ab923",
+    "sourceImage": "/images/editorial/makgeolli-kettle-jon-aslund-2010-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Makgeolli.jpg",
+      "author": "Jon Åslund",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Makgeolli.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. Source and license apply to the image and its derivatives."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "table-etiquette-in-korea-why-you-should-not-pick-up-your-rice-bowl-2026": {
+    "src": "/images/cards/table-etiquette-in-korea-why-you-should-not-pick-up-your-rice-bowl-2026.jpg",
+    "fingerprint": "7577e8d4936bd8e9b44bf280aa3f676c773a4cf6122a65f08a14389ed9840165",
+    "adaptation": "Typographic social preview."
   }
 }

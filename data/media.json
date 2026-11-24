@@ -11391,5 +11391,73 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
       "note": "Resized and converted to WebP. Adaptations retain the stated attribution and license."
     }
+  },
+  {
+    "id": "doenjang-jjigae-jyleen21-2015",
+    "src": "/images/editorial/doenjang-jjigae-jyleen21-2015-1280.webp",
+    "srcSet": "/images/editorial/doenjang-jjigae-jyleen21-2015-640.webp 640w, /images/editorial/doenjang-jjigae-jyleen21-2015-1280.webp 1280w",
+    "width": 1280,
+    "height": 854,
+    "alt": "Soybean paste stew with tofu and vegetables in a dark bowl",
+    "caption": "An example of doenjang jjigae. Ask the restaurant which stock and toppings are in its bowl.",
+    "focal": "50% 50%",
+    "originalId": "Doenjang-jjigae.jpg",
+    "originalHash": "bc51697a70eaad818faf8c4472d5eb04e8c5fb56c102341a1e690a2758b5e44a",
+    "checkedAt": "2026-11-25",
+    "credit": {
+      "kind": "photograph",
+      "title": "Doenjang-jjigae.jpg",
+      "author": "jyleen21",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Doenjang-jjigae.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. Source and license apply to the image and its derivatives."
+    }
+  },
+  {
+    "id": "kimchi-jjigae-jetalone-2006",
+    "src": "/images/editorial/kimchi-jjigae-jetalone-2006-640.webp",
+    "srcSet": "/images/editorial/kimchi-jjigae-jetalone-2006-640.webp 640w",
+    "width": 640,
+    "height": 480,
+    "alt": "Kimchi jjigae served in a dark pot",
+    "caption": "Kimchi jjigae photographed in June 2006. Read the menu for the actual ingredients.",
+    "focal": "50% 50%",
+    "originalId": "Kimchijigae.jpg",
+    "originalHash": "7ba0c90fda57752d1eb855710a66ced2fa57d60763d5a0d11b975ff7988656a6",
+    "capturedAt": "2006-06-11",
+    "checkedAt": "2026-11-25",
+    "credit": {
+      "kind": "photograph",
+      "title": "Kimchijigae.jpg",
+      "author": "jetalone",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kimchijigae.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. Source and license apply to the image and its derivatives."
+    }
+  },
+  {
+    "id": "makgeolli-kettle-jon-aslund-2010",
+    "src": "/images/editorial/makgeolli-kettle-jon-aslund-2010-1280.webp",
+    "srcSet": "/images/editorial/makgeolli-kettle-jon-aslund-2010-640.webp 640w, /images/editorial/makgeolli-kettle-jon-aslund-2010-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Brass kettle held above cups of makgeolli at a table",
+    "caption": "A serving of makgeolli photographed in May 2010. The vessels and serving sizes vary by venue.",
+    "focal": "50% 50%",
+    "originalId": "Makgeolli.jpg",
+    "originalHash": "d7d5b6071c45d38a51ed9d7692a496e9806ec0c17e75bc613a41dcb74a3b125a",
+    "capturedAt": "2010-05-27",
+    "checkedAt": "2026-11-25",
+    "credit": {
+      "kind": "photograph",
+      "title": "Makgeolli.jpg",
+      "author": "Jon Åslund",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Makgeolli.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. Source and license apply to the image and its derivatives."
+    }
   }
 ]

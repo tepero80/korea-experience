@@ -23,6 +23,8 @@ Once immediate care is arranged, use the [medical dispute and records contact gu
 
 For a change to your return journey, see the [airline forms and return travel guide](/blog/flying-after-surgery-when-is-it-safe-to-head-home-doctor-advice-2026) for questions to ask your treating team and each operating carrier.
 
+If you are still organizing the trip, compare the costs of [keeping your return booking flexible](/blog/flying-after-plastic-surgery-when-is-it-safe) before committing to a date.
+
 ## Prepare a handoff to the next clinician
 
 Before leaving a facility, ask for the discharge summary, medication list with doses and times, procedure or treatment details, current instructions and the clinical team’s contact information. Keep itemized bills and proof of payment in case your insurer asks. Where possible, ask for a language the next clinician can use. The [FCDO hospital guidance](https://www.gov.uk/guidance/in-hospital-abroad) explains why receipts and clinical notes matter and why elective treatment can affect coverage.

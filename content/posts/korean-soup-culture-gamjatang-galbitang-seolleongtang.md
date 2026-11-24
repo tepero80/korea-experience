@@ -11,6 +11,8 @@ image: "/images/editorial/archive-seoul-seolleongtang-context-2018-1280.webp"
 
 Start by deciding whether you want one bowl with rice or a pot to share. **탕** on its own does not tell you the size of the order. Read the restaurant’s portion labels alongside the dish name.
 
+If the menu lists 김치찌개 and 된장찌개 as well, [compare the two stews and what goes into them](/blog/korean-soup-culture-a-guide-to-kimchi-jjigae-doenjang-jjigae-and-more-2026).
+
 ## Match the soup to your appetite
 
 | Look for | What comes with it |
