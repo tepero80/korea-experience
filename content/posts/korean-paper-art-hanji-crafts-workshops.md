@@ -131,6 +131,8 @@ If you choose a Jeonji (pasting) class, which is the most popular for travelers,
 
 The "tearing" technique mentioned in step 2 is vital. Hanji has long fibers; when cut with scissors, the edge is sharp and visible. When torn, the fibers feather out, allowing layers to merge invisibly, creating a smooth, unified surface.
 
+For hands-on paper production, [book a Jeonju hanji-making experience](/blog/traditional-paper-hanji-making-workshops-in-jeonju-2026).
+
 ## Beyond Seoul: Jeonju, The Paper Capital
 
 If your itinerary allows for a trip 200 kilometers south of Seoul, Jeonju is the undisputed capital of Hanji. The city produces over **70%** of the country's high-quality traditional paper. The Jeonju Hanji Museum is a must-visit destination, located about **20 minutes by taxi** from the Jeonju Hanok Village.

@@ -38755,5 +38755,743 @@
     "changeType": "rewrite",
     "launchOrder": 1471,
     "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-side-dish-culture-understanding-banchan": {
+    "id": "guide:korean-side-dish-culture-understanding-banchan",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a market already on your route, then ask for a small takeout portion and check the ingredients and storage instructions with the seller.",
+    "forWhom": "Travelers buying prepared side dishes for a meal away from a restaurant",
+    "conditions": [
+      "Each stall sets its portions and payment options.",
+      "Ask about ingredients and storage before buying."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buy Banchan to Take Away: Market Stalls in Seoul and Suwon"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "suwon-motgol-market"
+    ],
+    "sources": [
+      {
+        "id": "kto-mangwon-sides-w21",
+        "title": "VISITKOREA: Mangwon Market neighborhood guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=229713",
+        "note": "Prepared side dishes and takeout at Mangwon Market, with the address and approach.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-motgol-sides-w21",
+        "title": "VISITKOREA: Suwon Motgol Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=459&vcontsId=68834",
+        "note": "Market selling prepared sides and its listed Suwon address.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask for a small portion and check the ingredients."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1472,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "the-world-of-anju-best-snacks-for-different-types-of-alcohol-2026": {
+    "id": "guide:the-world-of-anju-best-snacks-for-different-types-of-alcohol-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with bindaetteok if you want a mung bean pancake. Ask whether the price is for one pancake or a mixed plate, and confirm ingredients before ordering.",
+    "forWhom": "Solo travelers or small groups planning a snack stop at Gwangjang Market",
+    "conditions": [
+      "Stalls set their own portions and seating arrangements.",
+      "A drink is optional."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Order One Market Pancake at Gwangjang: Bindaetteok and Jeon"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "gwangjang-market"
+    ],
+    "sources": [
+      {
+        "id": "kto-market-pancakes-w21",
+        "title": "VISITKOREA: market dishes served with makgeolli",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=189701",
+        "note": "Explains bindaetteok and Gwangjang Market as a place to look for it.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-green-onion-pancake-w21",
+        "title": "VISITKOREA: pajeon",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=181&vcontsId=179010",
+        "note": "Distinguishes the scallion pancake and names a common pairing.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check whether the price is for one pancake or a plate."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1473,
+    "heroMediaId": "archive-gwangjang-bindaetteok-griddle-2016",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Frying Bindaetteok.jpg",
+      "author": "Rystheguy",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Frying_Bindaetteok.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2016-01-02."
+    },
+    "heroCaption": "Bindaetteok being cooked at Seoul’s Gwangjang Market, photographed in January 2016."
+  },
+  "korean-beef-hanwoo-guide-why-its-more-expensive-than-wagyu-2026": {
+    "id": "guide:korean-beef-hanwoo-guide-why-its-more-expensive-than-wagyu-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Read the cut and price unit first. Then compare the quality grade and calculate the total weight, minimum order and any table charge.",
+    "forWhom": "Visitors comparing Hanwoo options at a Korean grill or butcher counter",
+    "conditions": [
+      "Korean quality and yield grades describe different things.",
+      "Compare the same cut and weight when checking prices."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Read Hanwoo Grades and Prices on a Korean Beef Menu"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "ekape-beef-grades-w21",
+        "title": "Korea Institute for Animal Products Quality Evaluation: beef grading",
+        "url": "https://www.ekape.or.kr/contents/list.do?menuId=menu193590",
+        "note": "Explains separate meat quality grades and yield grades and what each measures.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-hanu-menus-w21",
+        "title": "VISITKOREA: hanu and butcher-restaurant formats",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221268",
+        "note": "Details cuts, restaurant formats and possible separate table-setting charges.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Compare the same cut and weight before choosing."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1474,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-drama-cafe-culture-scene-filming-locations": {
+    "id": "guide:k-drama-cafe-culture-scene-filming-locations",
+    "categoryId": "culture-events",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "answer": "Start at Baedari’s used-book alley, then choose Jayu Park or Jemulpo Club in the Open Port area. Treat the café break as a separate stop.",
+    "forWhom": "K-drama fans planning part of a day in central Incheon",
+    "conditions": [
+      "Film locations may be working businesses or public spaces.",
+      "Ask before taking indoor photographs and check museum access."
+    ],
+    "regions": [
+      "incheon"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Goblin Filming Locations in Incheon: Baedari to the Open Port"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "incheon-goblin-filming-w21",
+        "title": "Incheon Tourism: Goblin filming locations",
+        "url": "https://eng-itour.incheon.go.kr/cmn/board/BBSMSTR_000000000080/2513bbsDetail.do",
+        "note": "Documents Baedari and Jayu Park as separate filming stops.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "incheon-jemulpo-drama-w21",
+        "title": "Incheon Tourism: K-drama filming locations",
+        "url": "https://eng-itour.incheon.go.kr/cmn/board/BBSMSTR_000000000080/6422bbsDetail.do",
+        "note": "Provides the show connection for Jemulpo Club.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Pair Baedari with one Open Port stop."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1475,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "the-history-of-kimchi-more-than-just-a-side-dish-2026": {
+    "id": "guide:the-history-of-kimchi-more-than-just-a-side-dish-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Visit the museum independently or book a separate kimchi-making program, checking dates and eligibility first.",
+    "forWhom": "Travelers curious about kimchi and Korean food culture",
+    "conditions": [
+      "Museum admission and program booking are separate.",
+      "Program dates, capacity and ingredients can change."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Museum Kimchikan: Explore Kimchi in Seoul"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kimchikan-visit-w21",
+        "title": "Museum Kimchikan: Visit info",
+        "url": "https://kimchikan.com/en/visit/info",
+        "note": "Individual admission, closures, audio guide and group docent conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kimchikan-program-w21",
+        "title": "Museum Kimchikan: Kimchi Basic individual class",
+        "url": "https://www.kimchikan.com/rsv/detail/PR0004",
+        "note": "Individual English program, duration, minimum capacity and separately charged admission.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Museum admission and program booking are separate."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1476,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "the-evolution-of-hanbok-from-dynasty-to-modern-streetwear-2026": {
+    "id": "guide:the-evolution-of-hanbok-from-dynasty-to-modern-streetwear-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "See historic clothing in Daegu National Museum, then browse traditional and modernized garments at Seoul’s Dongdaemun Shopping Complex.",
+    "forWhom": "Travelers interested in Korean clothing and design",
+    "conditions": [
+      "Exhibits and shop stock change.",
+      "Daegu and Seoul are separate city stops."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Hanbok Past and Present: What to See and Buy"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "daegu-clothing-w21",
+        "title": "Daegu National Museum: Clothing Culture Hall",
+        "url": "https://daegu.museum.go.kr/eng/sub02_01_03_01.do",
+        "note": "Describes clothing gallery, historic artifacts and twentieth-century changes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-dongdaemun-hanbok-w21",
+        "title": "VISITKOREA: Dongdaemun Shopping Complex hanbok shops",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=92336",
+        "note": "Lists traditional and modernized hanbok and market address.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Exhibits and shop stock change."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1477,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "seasonal-gift-giving-etiquette-in-korea-chuseok-and-seollal-2026": {
+    "id": "guide:seasonal-gift-giving-etiquette-in-korea-chuseok-and-seollal-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask your host if a small gift would be welcome and choose something suited to their household rather than assuming a fixed rule.",
+    "forWhom": "Travelers invited to a Korean home during a holiday",
+    "conditions": [
+      "Household preferences and customs differ.",
+      "Holiday shop and transport hours vary."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Visiting a Korean Host at Chuseok or Seollal: Gift Ideas"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-seollal-gift-w21",
+        "title": "VISITKOREA: Seollal local customs",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220321",
+        "note": "Describes holiday gifts and gives examples; trends and household preferences vary.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-chuseok-w21",
+        "title": "VISITKOREA: Chuseok travel guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1593350",
+        "note": "Describes family gathering and variable holiday opening hours; dated 2026.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Household preferences and customs differ."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1478,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "traditional-paper-hanji-making-workshops-in-jeonju-2026": {
+    "id": "guide:traditional-paper-hanji-making-workshops-in-jeonju-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Jeonju Millennium Hanji Center’s online reservation link for its paper-making experience and confirm available dates and language support.",
+    "forWhom": "Travelers wanting to make paper rather than only decorate hanji crafts",
+    "conditions": [
+      "Online reservation is required and holiday or event closures apply.",
+      "Confirm fee, language, access and available dates with the operator."
+    ],
+    "regions": [
+      "jeonju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Make Hanji in Jeonju: Booking a Paper-Making Experience"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "jeonju-hanji-center-w21",
+        "title": "Jeonju Millennium Hanji Center: Experience information",
+        "url": "https://www.jmhm.kr/main/?menu=86",
+        "note": "Operator describes manufacturing steps, eligibility, online booking, group inquiry and contact.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeonju-hanji-museum-w21",
+        "title": "Jeonju Hanji Museum: FAQ",
+        "url": "https://www.hanjimuseum.co.kr/main/menu?gc=908UZDG",
+        "note": "Separate museum explains paper-making availability and advance booking for groups of 20 or more.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Online reservation is required and holiday or event closures apply."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1479,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "hyundai-department-store-luxury-shopping": {
+    "id": "guide:hyundai-department-store-luxury-shopping",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose The Hyundai Seoul for Yeouido or Trade Center for the COEX area, then check the individual shop before travelling.",
+    "forWhom": "Travelers planning a department store purchase",
+    "conditions": [
+      "Brand counters, stock, services and hours differ by branch.",
+      "A department store counter does not imply a specific luxury item is in stock."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Hyundai Department Stores: Choose the Right Seoul Branch"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "hyundai-seoul-w21",
+        "title": "Hyundai Department Store: The Hyundai Seoul",
+        "url": "https://m.ehyundai.com/mobile/DP/en/branch.do?branchCd=B00140000&branchType=10&lanType=EN",
+        "note": "Official Yeouido branch address and transport information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tamburins-locator-hyundai-w21",
+        "title": "Tamburins: Korea stores",
+        "url": "https://www.tamburins.com/en/store/korea/",
+        "note": "Lists separate counters at The Hyundai Seoul and Hyundai Trade Center, with addresses and contacts; this does not establish other brands or stock.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Brand counters, stock, services and hours differ by branch."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1480,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "luxury-resale-market-in-korea-shopping-for-pre-loved-designer-bags-2026": {
+    "id": "guide:luxury-resale-market-in-korea-shopping-for-pre-loved-designer-bags-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Check who inspects the specific bag, what their standard covers, and how a dispute works before paying.",
+    "forWhom": "Visitors considering a pre-owned designer bag",
+    "conditions": [
+      "Inspection is not a guarantee of authenticity or condition.",
+      "Platform eligibility, delivery, fees and return terms must be checked for the specific transaction."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Pre-Loved Designer Bags in Korea: Check the Transaction"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-tourist-complaints-w21",
+        "title": "VISITKOREA: 1330 and the Tourist Complaint Center",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=454&vcontsId=140632",
+        "note": "Tourist complaint and interpretation contact.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Inspection is not a guarantee of authenticity or condition."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1481,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-eyewear-shopping-guide-prescription-checks-fitting-and-pickup-timing": {
+    "id": "guide:korean-eyewear-shopping-guide-prescription-checks-fitting-and-pickup-timing",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask the optical shop to confirm your prescription, lens choices, total price and pickup date before you order.",
+    "forWhom": "Travelers considering prescription glasses",
+    "conditions": [
+      "Prescription service and turnaround vary by shop, frame and lenses.",
+      "Seek an appropriate eye-care professional for medical concerns."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buying Prescription Glasses in Korea: Plan the Pickup"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-davich-sinsa-w21",
+        "title": "VISITKOREA: Davich Optical Sinsa Station branch",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=147109",
+        "note": "Example of a branch offering consultation and same-day options.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Prescription service and turnaround vary by shop, frame and lenses."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1482,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-fragrance-boutiques-how-to-sample-scents-and-find-official-brand-stores": {
+    "id": "guide:korean-fragrance-boutiques-how-to-sample-scents-and-find-official-brand-stores",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use the brand’s official store list, ask about testers and stock, and give a scent time before deciding.",
+    "forWhom": "Travelers shopping for Korean fragrance",
+    "conditions": [
+      "Testers, stock and opening hours vary by location.",
+      "Check your airline and airport rules before packing liquids."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Fragrance Shopping: Sample Before You Choose"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "tamburins-stores-w21",
+        "title": "Tamburins: Korea stores",
+        "url": "https://www.tamburins.com/en/store/korea/",
+        "note": "Lists distinct Seoul stores and department-store counters, addresses and contact information; confirm hours because some displayed times are inconsistent.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tamburins-products-w21",
+        "title": "Tamburins official store",
+        "url": "https://www.tamburins.com/en/",
+        "note": "Official catalog distinguishes personal perfumes and home fragrances.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Testers, stock and opening hours vary by location."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1483,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "recycling-rules-in-korea-sorting-and-penalties": {
+    "id": "guide:recycling-rules-in-korea-sorting-and-penalties",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Match the Korean bin label to the material you have and confirm ambiguous items with your building manager or host.",
+    "forWhom": "Visitors staying in a Seoul apartment or rental",
+    "conditions": [
+      "Collection arrangements differ by district and building.",
+      "Gangnam examples below do not establish rules for the rest of Korea."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Read the Recycling Signs at a Seoul Apartment"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "gangnam-sorting-w21",
+        "title": "Gangnam Resource Circulation Portal: Waste disposal",
+        "url": "https://clean.gangnam.go.kr/use/guid/USEGUID01000000.do?contentId=con2411150004",
+        "note": "District examples of food, general and separated recycling; Korean language.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Match the bin label and confirm the building’s rules."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1484,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "recycling-in-korea-a-complicated-guide-for-new-expats-2026": {
+    "id": "guide:recycling-in-korea-a-complicated-guide-for-new-expats-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Confirm who owns the item and who will arrange collection, then follow your district’s current bulky-waste procedure.",
+    "forWhom": "Residents moving into or out of a Korean rental",
+    "conditions": [
+      "District processes, fees and collection times differ.",
+      "The Gangnam example is not a nationwide rule."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Moving in Korea: How to Arrange Bulky Waste Collection"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "gangnam-portal-w21",
+        "title": "Gangnam Resource Circulation Portal: Waste procedures",
+        "url": "https://clean.gangnam.go.kr/use/guid/USEGUID01000000.do?contentId=con2411150004",
+        "note": "Examples include furniture; report before disposal and attach receipt or registration number.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "District processes, fees and collection times differ."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1485,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "bringing-prescription-medications-home-customs-rules": {
+    "id": "guide:bringing-prescription-medications-home-customs-rules",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Check each destination’s current import rules for the ingredient, your residency and quantity before departure.",
+    "forWhom": "Travelers returning home with medicine obtained in Korea",
+    "conditions": [
+      "A Korean prescription does not automatically authorize import elsewhere.",
+      "Transit countries and controlled ingredients may have separate requirements."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Taking Prescription Medicine Home from Korea"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "fda-personal-import-w21",
+        "title": "US Food and Drug Administration: personal importation",
+        "url": "https://www.fda.gov/industry/import-basics/personal-importation",
+        "note": "Separate guidance for returning US citizens, visitors and controlled ingredients.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "uk-controlled-w21",
+        "title": "UK Home Office: Travelling with medicine containing controlled drugs",
+        "url": "https://www.gov.uk/guidance/controlled-drugs-personal-licences",
+        "note": "UK residents treated abroad must contact the licensing unit; visitor policy and documentation are distinct.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "A Korean prescription does not automatically authorize import elsewhere."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1486,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-clinic-payment-methods-insurance-credit-cards-and-refunds": {
+    "id": "guide:korean-clinic-payment-methods-insurance-credit-cards-and-refunds",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask the clinic for an estimate and payment terms, then confirm coverage and authorization with your insurer before treatment.",
+    "forWhom": "International patients planning a clinic visit in Korea",
+    "conditions": [
+      "Payment and refund terms vary by provider and policy.",
+      "An insurer’s guarantee of payment does not guarantee every charge is covered."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Paying a Korean Clinic: Insurance, Receipts and Refund Questions"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "snuh-payment-w21",
+        "title": "Seoul National University Hospital: International payment",
+        "url": "https://snuh.org/global/en/patients/EN02002004.do",
+        "note": "Lists cash and credit card in Korean won, insurance arrangements and patient liability if insurer does not pay.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "snuh-er-w21",
+        "title": "Seoul National University Hospital: Emergency room guide",
+        "url": "https://www.snuh.org/global/en/patients/EN02003001.do",
+        "note": "Requests guarantee of payment before appointment and lists English and itemized receipts.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Payment and refund terms vary by provider and policy."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1487,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
   }
 }

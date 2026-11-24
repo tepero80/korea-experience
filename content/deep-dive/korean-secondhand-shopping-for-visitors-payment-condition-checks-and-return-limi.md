@@ -10,6 +10,8 @@ deepDive: true
 
 For secondhand goods, the useful question is whether this specific item and transaction work for you. Leave time to inspect it and ask the seller questions before paying.
 
+For designer bags, [compare inspection and dispute questions](/blog/luxury-resale-market-in-korea-shopping-for-pre-loved-designer-bags-2026).
+
 ## Before the sale
 
 | Item | Check |

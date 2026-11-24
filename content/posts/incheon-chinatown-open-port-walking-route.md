@@ -55,6 +55,8 @@ Have jajangmyeon in Chinatown if you want a seated noodle meal. For a street-foo
 
 If you finish at Sinpo, [Sinpo Station Exit 4](https://map.naver.com/p/search/%EC%8B%A0%ED%8F%AC%EC%97%AD%204%EB%B2%88%20%EC%B6%9C%EA%B5%AC) ([Kakao Map](https://map.kakao.com/link/search/%EC%8B%A0%ED%8F%AC%EC%97%AD%204%EB%B2%88%20%EC%B6%9C%EA%B5%AC) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EC%8B%A0%ED%8F%AC%EC%97%AD%204%EB%B2%88%20%EC%B6%9C%EA%B5%AC%20%EC%9D%B8%EC%B2%9C%20%EC%A0%9C%EB%AC%BC%ED%8F%AC%EA%B5%AC)) is the market approach listed by VISITKOREA. Compare the return route with walking back to Incheon Station, especially if you want a Line 1 train. Check the actual entrance if you need a lift.
 
+If you recognize these streets from television, [follow the documented Goblin locations](/blog/k-drama-cafe-culture-scene-filming-locations) before choosing a café.
+
 ## Adapt to Monday, rain or the climb
 
 - **Monday or after last admission:** Keep the Chinatown street walk, an open food stop and the Open Port building exteriors. Check the Art Platform's own listing if you want an exhibition. Save the foundation museums for a confirmed open day.

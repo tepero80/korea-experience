@@ -42,13 +42,15 @@ async function text(
 }
 async function main() {
   fs.mkdirSync('public/images/cards', { recursive: true });
-  const target = process.argv.find((arg) => arg.startsWith('--slug='))?.slice('--slug='.length);
-  const homeTarget = !target || target === 'korea-experience';
-  const guides = getLaunchGuides().filter((post) => !target || post.slug === target);
-  if (target && !homeTarget && guides.length !== 1) throw Error(`Reviewed guide not found: ${target}`);
+  const targets = new Set(process.argv.filter((arg) => arg.startsWith('--slug=')).map((arg) => arg.slice('--slug='.length)));
+  const homeTarget = targets.size === 0 || targets.has('korea-experience');
+  const guides = getLaunchGuides().filter((post) => targets.size === 0 || targets.has(post.slug));
+  const found = new Set(['korea-experience', ...guides.map((post) => post.slug)]);
+  const missing = [...targets].filter((slug) => !found.has(slug));
+  if (missing.length) throw Error(`Reviewed guide not found: ${missing.join(', ')}`);
   const feature = media.find((asset) => asset.id === HOME_FEATURE.photoId);
   if (homeTarget && feature?.credit.kind !== 'photograph') throw Error('Home feature needs a registered photograph.');
-  const credits: Record<string, unknown> = target
+  const credits: Record<string, unknown> = targets.size
     ? JSON.parse(fs.readFileSync('data/card-credits.json', 'utf8'))
     : {};
   for (const post of [
@@ -207,8 +209,8 @@ async function main() {
     };
   }
   fs.writeFileSync('data/card-credits.json', JSON.stringify(credits, null, 2) + '\n');
-  if (target) {
-    console.log(`Prepared one share card: ${target}.`);
+  if (targets.size) {
+    console.log(`Prepared ${targets.size} requested share cards.`);
     return;
   }
   const toolCredits: Record<string, unknown> = {};

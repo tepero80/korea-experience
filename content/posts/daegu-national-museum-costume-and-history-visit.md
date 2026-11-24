@@ -32,6 +32,8 @@ The [museum’s visitor page](https://daegu.museum.go.kr/kor/sub01_01.do) lists 
 | A family activity | Check [children’s museum sessions](https://daegu.museum.go.kr/kor/sub02_05_01.do) and reserve a place before counting on it. |
 | A guided visit | Call about an English or Japanese tour at least two weeks ahead. Availability depends on staff. |
 
+Continue exploring [hanbok past and present](/blog/the-evolution-of-hanbok-from-dynasty-to-modern-streetwear-2026) with a shopping comparison.
+
 ## Make the costume gallery the main stop
 
 The [museum’s permanent exhibition plan](https://daegu.museum.go.kr/kor/sub03_01.do) includes separate galleries for ancient culture, medieval culture and costume. The [costume gallery guide](https://daegu.museum.go.kr/kor/sub03_01_03_01.do) explains how clothing and textile objects are used to trace changes in dress. Give one room time before adding a second. Allow for exhibition changes and check any special-exhibition fee at the desk.

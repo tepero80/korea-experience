@@ -84,6 +84,8 @@ The library gets incredibly crowded by 11:30 AM. For the perfect empty shot of t
 Don't just stay on the ground floor. Take the escalator to the second floor. There is a small convenience store (Emart24) and a cafe with ledge seating that offers a top-down panoramic view of the library, perfect for time-lapse videos.
 </ExpertTip>
 
+Compare [Hyundai department store branches](/blog/hyundai-department-store-luxury-shopping) before choosing a shopping stop.
+
 ## Shopping guide: Fashion and K-Beauty
 
 Coex is unique because it bridges the gap between high-end luxury (found in the adjacent Hyundai Department Store) and accessible street fashion (found in the mall).

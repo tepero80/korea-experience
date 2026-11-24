@@ -1,38 +1,25 @@
 ---
-title: "How to Explore Korean Fragrance Boutiques in Seoul"
+title: "Korean Fragrance Shopping: Sample Before You Choose"
 date: 2026-10-13
-excerpt: "Plan a Seoul fragrance-shopping visit, use store locators to confirm current branches, and ask boutiques about testers and sample policies."
+updated: 2026-11-24
+excerpt: "Find a brand’s current store and compare scents at your own pace before purchasing."
 category: "Shopping & K-Beauty"
-author: "Korea Experience Editorial Team"
+author: Korea Experience Editorial
 deepDive: true
-image: "/images/korean-fragrance-boutiques-how-to-sample-scents-and-find-official-brand-stores.webp"
 ---
 
-Seoul has fragrance shops ranging from independent perfume studios to brand flagships and department-store counters. Store locations, opening hours, workshop availability, and sampling policies can change, so check each brand's official channels before building a route. This guide focuses on how to plan a visit rather than promising that a particular branch or sample offer will be available.
+Start with a store that fits your route, then ask staff which fragrances are available to try. The [Tamburins Korea store directory](https://www.tamburins.com/en/store/korea/) lists separate Haus Nowhere Seoul and Seongsu locations as well as department-store counters. Confirm the exact address, current hours and product availability with the branch; listings can change and some displayed hours are inconsistent.
 
-## Choose an area, then verify each branch
+## Compare scents without rushing
 
-Visitors often combine shopping with other plans in neighborhoods such as Seongsu, Hannam, Sinsa, or Samcheong. Treat these as starting points for research, not a guarantee that every fragrance brand has a nearby store today. Use the official store locator or contact details for each brand to confirm the current address, hours, reservation rules, and whether the location is a retail shop, exhibition space, or temporary pop-up.
+| What you want | What to ask for |
+| --- | --- |
+| Two scents to compare later | Separate labeled strips. |
+| A specific bottle or gift | The exact size, packaging and exchange terms. |
 
-If you are making a multi-stop route, check walking and transit times on the day. Seoul districts can be spread out, and a brand may operate several locations with different products or services. Save the Korean address from the official listing for navigation.
+1. Decide whether you want a personal perfume, a hand product or a home fragrance. The [brand’s product menu](https://www.tamburins.com/en/) separates these formats.
+2. Ask whether testers or strips are available. Label a small number of strips so you can distinguish them and revisit them after a walk.
+3. If you choose to test on skin, ask staff first and follow the product instructions. Scent preferences are personal; stop if a product causes discomfort.
+4. Before paying, check the exact size, price, stock and return terms. If it is a gift, ask about packaging and whether the recipient can exchange it.
 
-## How to test a fragrance in store
-
-Ask staff which testers are available and whether there are rules for applying a scent. Try one or two fragrances at a time, use a blotter if offered, and allow time for the scent to develop before comparing. If you have sensitive skin, ask before applying a product directly to your body and avoid testing on irritated skin.
-
-Do not assume a free sample vial is included with a visit or purchase. Sampling formats and promotional gifts are determined by each shop and may vary by location, campaign, and stock. Ask what is available before purchase and check the receipt or product description for the size and contents of any sample or travel-size item.
-
-## Workshops and custom blending
-
-Some independent studios offer paid perfume-making classes, but session length, languages, age requirements, booking rules, and final product sizes are provider-specific. Confirm those details directly with the studio before paying. Ask whether the listed price includes materials, a finished bottle, and any follow-up service, and review cancellation terms.
-
-## Before you buy
-
-Check the product name, concentration, volume, and price on the package or receipt. For international travel, verify current airline and destination-country rules for carrying liquids. If you are considering a tax refund, confirm eligibility and the process with the retailer and official tax-refund guidance; not every store or purchase necessarily qualifies.
-
-## Sources
-
-- [Visit Seoul — official tourism information](https://english.visitseoul.net/)
-- [Parfum9 — official perfume workshop information](https://parfum9.com/)
-- [Tamburins — official brand and store information](https://www.tamburins.com/)
-- [Nonfiction — official brand and store information](https://nonfiction-beauty.com/)
+Store displays and sampling arrangements are not guaranteed. For the separate Seoul and Dosan addresses, see [Tamburins store planning](/blog/tamburins-fragrances-gm-haus-2026). Before flying, check the carrier’s current liquid rules and see [packing Korean shopping](/blog/packing-korean-shopping-liquids-and-souvenirs-for-your-flight).

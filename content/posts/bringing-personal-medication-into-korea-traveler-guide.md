@@ -39,6 +39,8 @@ Keep the medicine in its labeled packaging where practical. Carry a copy of the 
 
 If you have an MFDS approval, keep the approval information with the medicine and follow the conditions it states. Keep medicine that you may need during the flight in your hand luggage, subject to your airline and aviation-security rules.
 
+For the return trip, check [taking prescription medicine home from Korea](/blog/bringing-prescription-medications-home-customs-rules).
+
 ## A pre-flight checklist
 
 1. List each medicine’s active ingredient, strength, and prescribed directions.

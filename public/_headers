@@ -2,6 +2,10 @@
   X-Content-Type-Options: nosniff
   Referrer-Policy: strict-origin-when-cross-origin
 
+# Keep the Pages copy available for deployment checks and Worker fallbacks.
+https://korea-experience.pages.dev/*
+  X-Robots-Tag: noindex
+
 /fonts/*
   Access-Control-Allow-Origin: *
 

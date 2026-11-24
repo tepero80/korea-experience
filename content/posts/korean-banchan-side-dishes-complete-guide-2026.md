@@ -20,6 +20,8 @@ The small plates with a Korean meal are **반찬** (banchan). They can be as sim
 
 The [Korea Tourism Organization’s table guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=229195) explains banchan and namul. Its [baekban overview](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=189672) describes the set-meal structure with examples. Neither assigns the same sides to every restaurant.
 
+If you want to put together a meal to take away, [find prepared banchan stalls in Seoul or Suwon](/blog/korean-side-dish-culture-understanding-banchan).
+
 ## Ask before taking a second serving
 
 For an extra portion, point to the dish and ask **이 반찬 더 받을 수 있어요?** (May I have more of this side?). If you see **셀프** (self-service), check which things guests can take and whether the station is for your meal. Ask **추가 요금이 있어요?** (Does it cost extra?) if the answer is unclear.

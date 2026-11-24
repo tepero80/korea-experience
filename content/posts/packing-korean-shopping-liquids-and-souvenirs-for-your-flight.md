@@ -38,6 +38,8 @@ The airport explicitly includes **kimchi and gochujang** as liquid/gel foods for
 
 The [KTO tax-refund guide](https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140736) distinguishes refund routes and goods-export conditions. Put receipts/forms with the relevant purchases and follow the actual inspection sequence. A kiosk photograph is not proof of today's terminal location or operator coverage.
 
+Before buying perfume, [plan a fragrance sampling stop](/blog/korean-fragrance-boutiques-how-to-sample-scents-and-find-official-brand-stores).
+
 ## Finish the packing the day before
 
 1. List the purchases that need airline, transit or destination confirmation.

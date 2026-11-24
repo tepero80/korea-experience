@@ -26,6 +26,8 @@ The [Korea AeroSpace Administration’s published 2027 calendar](https://www.kas
 
 <GuidePhoto id="gwanghwamun-daytime-tristan-surtel-2019" caption="Gwanghwamun at Gyeongbokgung in 2019. Check the palace’s notice for your visit and for the first day after a holiday." />
 
+If you have a home invitation, consider these [holiday host gift ideas](/blog/seasonal-gift-giving-etiquette-in-korea-chuseok-and-seollal-2026).
+
 ## Make one backup for transport, meals and sightseeing
 
 1. **Train.** Look for the [Korail holiday notices](https://m.letskorail.com/mbt/m_notice.html) for your particular travel dates. Check both directions and any booking window or ticket release instructions before committing to a connection.

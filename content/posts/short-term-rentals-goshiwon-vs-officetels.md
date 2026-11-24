@@ -131,6 +131,8 @@ An Officetel offers a true apartment experience. The average size ranges from 20
   source="Seoul Housing Survey 2025"
 />
 
+For a Seoul apartment, [read the Korean recycling labels](/blog/recycling-rules-in-korea-sorting-and-penalties) and confirm the building’s setup.
+
 ## Amenities and Lifestyle
 
 Living in Korea is about convenience, and both housing types offer different versions of it.

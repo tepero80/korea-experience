@@ -11,6 +11,8 @@ deepDiveOrder: 117
 
 A barbecue stop can be part of a trip already taking you to Jeju or Gangwon. Compare dishes and serving formats before comparing prices. **흑돼지** is black pork and **한우** is Korean native cattle beef. Read the menu and origin notice for the exact item you are being sold.
 
+If you choose the beef stop, [read the cut, grade and price unit before ordering](/blog/korean-beef-hanwoo-guide-why-its-more-expensive-than-wagyu-2026).
+
 ## Pick a stop that fits your route
 
 | Choice | How to order |

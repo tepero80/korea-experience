@@ -224,6 +224,8 @@ Once you find a place, the paperwork moves quickly. Here is what you need to hav
   ]}
 />
 
+When moving, plan [bulky waste collection and building arrangements](/blog/recycling-in-korea-a-complicated-guide-for-new-expats-2026).
+
 ## Practical Living Tips
 
 Once you have the keys (or rather, the code), adapting to the apartment requires a few adjustments.

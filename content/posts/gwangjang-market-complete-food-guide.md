@@ -28,6 +28,8 @@ The [Seoul tourism listing](https://english.visitseoul.net/PalaceArea/Gwangjang-
 
 If you are ordering a shared dish alongside drinks, [read the Korean anju names and ask about serving sizes](/blog/korean-drinking-snacks-anju-pairing-guide) before adding more food.
 
+If you only want a short snack stop, [use the pancake names to order one portion](/blog/the-world-of-anju-best-snacks-for-different-types-of-alcohol-2026).
+
 ## Choose a manageable first order
 
 The official listing mentions mung-bean pancakes, gimbap, tteokbokki and fish cake. Treat those as examples to investigate, not a fixed meal everyone must order.

@@ -161,6 +161,8 @@ The process of buying this specific insurance is different from buying standard 
   ]}
 />
 
+Before an appointment, review [clinic payment and receipt questions](/blog/korean-clinic-payment-methods-insurance-credit-cards-and-refunds).
+
 ## The Claims Process in Korea: What to Expect
 
 Unlike in some Western countries where insurance companies pay the hospital directly (Direct Billing), South Korea operates largely on a **"Pay and Claim"** basis for international insurance, especially for outpatient or smaller clinics.

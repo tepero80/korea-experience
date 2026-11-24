@@ -11,6 +11,8 @@ image: "/images/editorial/doenjang-in-earthenware-jar-2009-1280.webp"
 
 Choose the role you want on the table. A small bowl of paste can be a seasoning; a salted seafood side can include ingredients you do not see. A shared drink can contain alcohol.
 
+For a hands-on introduction, [plan a visit to Museum Kimchikan](/blog/the-history-of-kimchi-more-than-just-a-side-dish-2026).
+
 ## Read the menu or label
 
 | Name | What to expect |
