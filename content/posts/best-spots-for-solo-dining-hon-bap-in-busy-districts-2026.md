@@ -216,9 +216,11 @@ In Korea, there is a humorous "Level" system for solo dining. Understanding this
 
 In 2026, due to the prevalence of solo booths, Level 8 (BBQ) has effectively dropped to a Level 5 difficulty in terms of social awkwardness, provided you go to the right establishment.
 
+Before meeting others, [plan a public daytime route and your return](/blog/solo-travel-in-korea-safety-tips-and-meetup-groups).
+
 ## Safety and Etiquette
 
-Is it safe to leave your bag while you go to the self-bar? In Korea, yes. The CCTV density is among the highest in the world. A 2025 crime safety report noted that theft of personal items in restaurants remains statistically negligible. You will frequently see laptops and phones left unattended on tables as "seat savers."
+Keep your valuables with you when you leave the table. If you need to hold a seat while getting water or collecting your order, ask the staff what they recommend.
 
 However, etiquette matters.
 *   **Don't linger:** Especially during the 11:30 - 13:00 rush. If you have finished eating and there is a queue, it is polite to leave promptly.

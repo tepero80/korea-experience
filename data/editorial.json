@@ -37984,5 +37984,776 @@
     "changeType": "rewrite",
     "launchOrder": 1456,
     "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "pharmacy-essentials-pain-relief-and-wound-care-products": {
+    "id": "guide:pharmacy-essentials-pain-relief-and-wound-care-products",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "At the pharmacy, show the packaging or a photo, describe the problem in your own words and tell the pharmacist about relevant allergies or medicines. Ask for the instructions in writing before you leave.",
+    "forWhom": "Travelers preparing a non-urgent pharmacy conversation in Korea",
+    "conditions": [
+      "Packaging alone does not identify a suitable substitute.",
+      "For an emergency in Korea, call 119."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "What to Show a Pharmacist in Korea: Labels, Questions and Instructions"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-pharmacy-questions",
+        "title": "VISITKOREA pharmacy guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=110&menuSn=923&vcontsId=217224",
+        "note": "Communication with pharmacists and using medication packaging or photos.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-visitor-emergency",
+        "title": "VISITKOREA emergency guidance",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "note": "119 for ambulance or fire and asking the dispatcher for interpretation.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Show the ingredient name and ask for written instructions."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1457,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "medical-interpreter-services-in-korean-clinics-do-you-need-one": {
+    "id": "guide:medical-interpreter-services-in-korean-clinics-do-you-need-one",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Tell the appointment desk which language you need before accepting a time. Ask whether the medical discussion, written instructions and any follow-up will be covered and get the clinic’s reply in writing.",
+    "forWhom": "Visitors setting up a non-urgent medical appointment while traveling in Korea",
+    "conditions": [
+      "Availability, languages and fees depend on the provider.",
+      "For urgent fire, rescue or medical help in Korea, call 119."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Request a Medical Interpreter for a Clinic Visit in Korea"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "smc-medical-interpreter",
+        "title": "Samsung Medical Center interpretation FAQ",
+        "url": "https://www.samsunghospital.com/en/patient-guide/faq.do?searchText=&type=TRANSLATION",
+        "note": "An operator example covering requests at booking, language and fees.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-visitor-helpline",
+        "title": "VISITKOREA 1330 Travel Helpline",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=454&vcontsId=140632",
+        "note": "Phone and chat information for tourism and travel interpretation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-visitor-emergency",
+        "title": "VISITKOREA emergency guidance",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "note": "119 for ambulance or fire and asking the dispatcher for interpretation.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Request your language and confirm the scope before booking."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1458,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "medical-tourism-complaint-and-support-channels-in-korea-official-contacts-and-do": {
+    "id": "guide:medical-tourism-complaint-and-support-channels-in-korea-official-contacts-and-do",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask the clinic for written records or an itemized bill first if it is safe to do so. For a possible medical-care dispute, use K-MEDI’s official application guidance, including its route for applicants outside Korea.",
+    "forWhom": "International visitors organizing a concern about medical care they already received in Korea",
+    "conditions": [
+      "Ask the agency about your own application and documents.",
+      "Urgent medical help goes to 119 in Korea or your local emergency service abroad."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "After Medical Care in Korea: Where to Take a Complaint or Dispute"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kmedi-overseas-filing",
+        "title": "K-MEDI mediation application guide",
+        "url": "https://k-medi.or.kr/eng/lay1/S239T385C453/contents.do",
+        "note": "Official starting points for applicants in Korea or abroad.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kmedi-record-checklist",
+        "title": "K-MEDI required documents",
+        "url": "https://k-medi.or.kr/eng/lay1/S239T377C382/contents.do",
+        "note": "The agency’s current filing checklist and document categories.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "medical-korea-registry-current",
+        "title": "Medical Korea registered hospitals and clinics",
+        "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+        "note": "Search by facility name and location to confirm that the listed branch matches the paperwork.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "snuh-medical-record-issuance",
+        "title": "Seoul National University Hospital medical records",
+        "url": "https://www.snuh.org/global/en/patients/EN02005.do",
+        "note": "Concrete distinction between records, copies for an authorized representative, and a certificate.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-visitor-emergency",
+        "title": "VISITKOREA emergency guidance",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "note": "119 for ambulance or fire and asking the dispatcher for interpretation.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Use the agency’s current instructions for your location."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1459,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "rent-a-car-in-korea-international-license-and-navigation-app-guide-2026": {
+    "id": "guide:rent-a-car-in-korea-international-license-and-navigation-app-guide-2026",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Confirm your valid driving entitlement and the rental company’s document and insurance requirements before booking.",
+    "forWhom": "Visitors considering a rental car in Korea",
+    "conditions": [
+      "Legal eligibility and rental conditions depend on your permit, stay, vehicle and company."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Rent a Car in Korea: License, Booking and Navigation"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave20-car-koroad",
+        "title": "KOROAD: International Driving Permits in Korea",
+        "url": "https://www.safedriving.or.kr/diGuide/selectDiGuide10.do",
+        "note": "KOROAD recognizes qualifying Geneva and Vienna convention permits; verify specific eligibility.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave20-car-kto",
+        "title": "VISITKOREA: Driving in Korea",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?vcontsId=140664",
+        "note": "Rental qualification, variable terms, coverage and tolls.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1460,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "motorcycle-rental-for-experienced-riders": {
+    "id": "guide:motorcycle-rental-for-experienced-riders",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Confirm the motorcycle entitlement and written rental terms, then plan a route that excludes prohibited roads.",
+    "forWhom": "Experienced riders considering a motorcycle rental in Korea",
+    "conditions": [
+      "The required entitlement depends on the vehicle and document; providers may impose additional rules."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Motorcycle Rental in Korea: Documents and Route Checks"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave20-bike-law",
+        "title": "Korean government: Using a Foreign Driver’s License",
+        "url": "https://m.easylaw.go.kr/MOM/SubCsmOvRetrieve.laf?ccfNo=1&cciNo=1&cnpClsNo=1&csmSeq=2332&langCd=700101",
+        "note": "Foreign permit and motorcycle entitlement, one-year limit and rental exception.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave20-bike-terms",
+        "title": "Korea Motorcycle Rental: Rental Terms",
+        "url": "https://kmotorental.com/guide/rental-terms-and-conditions/",
+        "note": "One operator requires motorcycle licence, IDP A stamp and passport for international customers.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave20-bike-road",
+        "title": "National Law Information Center: Road Traffic Act, Article 63",
+        "url": "https://law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1031179029",
+        "note": "Current Korean law restricts non-emergency motorcycles on expressways and motorways.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1461,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-phone-plans-sk-vs-kt-vs-lg-u-plus": {
+    "id": "guide:korean-phone-plans-sk-vs-kt-vs-lg-u-plus",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Compare the actual plan and contract terms, eligibility, identity verification and cancellation cost rather than choosing by carrier name alone.",
+    "forWhom": "People moving to Korea and comparing resident mobile service",
+    "conditions": [
+      "Eligibility varies by carrier and stay status; features depend on the specific product."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korea Resident Phone Plans: Compare Contracts Before Signing"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave20-phone-seoul",
+        "title": "Seoul Metropolitan Government: Telecommunications and Internet",
+        "url": "https://global.seoul.go.kr/hmpg/finf/elsi/comm/contPageDetail.do?conts_no=D6067AA192E8432180EDF96112A7C241&lang=en",
+        "note": "Documents, service types and carrier/stay-status differences.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1462,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-apartment-heating-controls-explained-safe-ways-to-understand-ondol-settin": {
+    "id": "guide:korean-apartment-heating-controls-explained-safe-ways-to-understand-ondol-settin",
+    "categoryId": "where-to-stay",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Identify the panel and ask the host how to use its heating and hot-water controls; settings vary by model.",
+    "forWhom": "Guests facing an unfamiliar Korean apartment heating panel",
+    "conditions": [
+      "Controls and away-mode behavior vary by model; labels alone do not establish safe settings."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Heating Controls: Understand the Panel Before Changing It"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave20-heat-rinnai",
+        "title": "Rinnai boiler and room controller operating guide",
+        "url": "https://old25.rinnai.co.kr/soundmanual/rinnai_sound_manual_Boiler.html",
+        "note": "Illustrates model-specific heating, hot water and away controls; not a universal operating guide.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1463,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-temple-stay-experience-complete-guide": {
+    "id": "guide:korean-temple-stay-experience-complete-guide",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with a specific temple and date, then confirm language, room arrangements, meals, access and cancellation terms.",
+    "forWhom": "First-time temple stay participants",
+    "conditions": [
+      "Schedules, fees and facilities vary by temple and program.",
+      "Check language and accessibility directly before booking."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Temple Stay: How to Choose and Book"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "templestay-faq-w20",
+        "title": "Templestay: FAQ",
+        "url": "https://eng.templestay.com/en/MI000000000000000063/board/BO00000071/list.do",
+        "note": "Discusses experiential and freestyle stays, room sharing, cancellation and communicating with staff.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "templestay-myogaksa-w20",
+        "title": "Templestay: Myogaksa program",
+        "url": "https://eng.templestay.com/en/MI000000000000000019/reserve/view.do?templeId=Myogaksa&templestaySeq=25588",
+        "note": "Example English-translated overnight program, room sharing, sample schedule and specific cancellation conditions; verify availability.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Schedules, fees and facilities vary by temple and program."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1464,
+    "heroMediaId": "archive-eunpyeong-jingwansa-temple-hall-2022",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jinkwansa 20220725 025.jpg",
+      "author": "Mobius6",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jinkwansa_20220725_025.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2022-07-25."
+    },
+    "heroCaption": "Jingwansa’s courtyard and temple hall in Eunpyeong, photographed in July 2022."
+  },
+  "the-sound-of-korea-pansori-and-samulnori-performance-guide-2026": {
+    "id": "guide:the-sound-of-korea-pansori-and-samulnori-performance-guide-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose pansori for vocal storytelling or samulnori for percussion, and check the specific programme for your date.",
+    "forWhom": "Travelers choosing a traditional music performance",
+    "conditions": [
+      "A general gugak concert may not include either genre.",
+      "Language support and performance schedules vary."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Pansori or Samulnori: Choose a Korean Performance"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "seoul-national-gugak-center"
+    ],
+    "sources": [
+      {
+        "id": "ngc-folk-w20",
+        "title": "National Gugak Center: Folk Music Group",
+        "url": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?lang=en&menuid=001005005003001",
+        "note": "Lists pansori and samulnori among the group’s genres; no guarantee for a specific show.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "ngc-home-w20",
+        "title": "National Gugak Center: performances",
+        "url": "https://www.gugak.go.kr/site/main/index001?lang=en&menuid=001",
+        "note": "Official upcoming performance listings; check details for genre, access and tickets.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "A general gugak concert may not include either genre."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1465,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "traditional-korean-games-yutnori-and-jegichagi": {
+    "id": "guide:traditional-korean-games-yutnori-and-jegichagi",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose yutnori for a team board game or jegichagi for a kicking challenge; check a venue’s current activities before visiting.",
+    "forWhom": "Families and travelers interested in traditional games",
+    "conditions": [
+      "Rules may vary between groups.",
+      "Activities and equipment are not guaranteed every day."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Yutnori and Jegichagi: How to Play in Korea"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-yut-w20",
+        "title": "VISITKOREA: Seollal culture",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=220322",
+        "note": "Four-stick game, four markers and listed cultural venues; the page is dated 2025.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-jegi-w20",
+        "title": "VISITKOREA: Chuseok",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=231314",
+        "note": "Describes kicking a jegi to keep it off the ground.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-seonbi-w20",
+        "title": "VISITKOREA: Seonbichon Village",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=94567",
+        "note": "Lists both games as village activities; check availability directly.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Rules may vary between groups."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1466,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-honorifics-in-everyday-situations-practical-phrases-and-when-to-use-them": {
+    "id": "guide:korean-honorifics-in-everyday-situations-practical-phrases-and-when-to-use-them",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with polite greetings and requests when speaking to people you do not know.",
+    "forWhom": "Visitors with little Korean",
+    "conditions": [
+      "Politeness depends on context and relationship.",
+      "Romanization is an approximation; showing the Korean text can help."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Polite Korean Phrases for Everyday Travel"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "nikl-greetings-w20",
+        "title": "National Institute of Korean Language: Greetings and basic expressions",
+        "url": "https://www.korean.go.kr/attachFile/edu/forein03.pdf",
+        "note": "Provides Korean, romanization and translations of greetings and thanks.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nikl-formality-w20",
+        "title": "National Institute of Korean Language: levels of thanks",
+        "url": "https://korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=216&pageIndex=1&qna_seq=309614",
+        "note": "Explains informal polite -어요 and more formal -습니다 endings.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nikl-jom-w20",
+        "title": "Korean Basic Dictionary: 좀",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=75798",
+        "note": "Explains use of 좀 to soften a request and gives a towel example.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Politeness depends on context and relationship."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1467,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "seoul-with-kids-low-stress-half-day-plans-by-neighborhood": {
+    "id": "guide:seoul-with-kids-low-stress-half-day-plans-by-neighborhood",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose one neighborhood and one anchor activity, then leave time for a meal, rest and a flexible return.",
+    "forWhom": "Families planning a manageable half-day in Seoul",
+    "conditions": [
+      "Museum sessions and availability change; check the official reservation page before traveling."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Seoul With Kids: Two Flexible Half-Day Plans"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "seoul-museum-of-history-saemunan",
+      "seoul-forest"
+    ],
+    "sources": [
+      {
+        "id": "wave20-kids-museum",
+        "title": "Seoul Museum of History: Children’s Museum visitor guide",
+        "url": "https://museum.seoul.go.kr/chd/watch/watchGuide.jsp",
+        "note": "Official Korean visitor guide: timed sessions, advance reservation recommended, limited walk-in places, adult accompaniment and closure information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave20-kids-forest",
+        "title": "Seoul Metropolitan Government: Seoul Forest park walk",
+        "url": "https://gil.seoul.go.kr/trail/view.do?key=2405200007&sc_trailSeCd=SE001&sc_trailSn=152",
+        "note": "The park has landscaped walking areas and a children’s play area; check the current conditions before visiting.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-visitor-helpline",
+        "title": "VISITKOREA 1330 Travel Helpline",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=454&vcontsId=140632",
+        "note": "Phone and chat information for tourism and travel interpretation.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1468,
+    "heroMediaId": "seoul-history-museum-front-doors-archive",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Seoul Museum of History in 2025.jpg",
+      "author": "EllalineSeoul",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Museum_of_History_in_2025.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Photographed 2025-08-26. Cropped to emphasize the entrance doors. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "heroCaption": "The public entrance to the Seoul Museum of History on Saemunan-ro in August 2025. Check the Children’s Museum reservation separately."
+  },
+  "solo-travel-in-korea-safety-tips-and-meetup-groups": {
+    "id": "guide:solo-travel-in-korea-safety-tips-and-meetup-groups",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with staffed public places, check the organizer and return route, and keep emergency and tourist-help contacts available.",
+    "forWhom": "Independent travelers who want to explore and meet people",
+    "conditions": [
+      "No itinerary, neighborhood or group can guarantee safety."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Solo Travel in Korea: Public Day Plans and Meeting Others"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave20-solo-center",
+        "title": "Visit Seoul: Seoul Tourism Plaza information center",
+        "url": "https://english.visitseoul.net/nature/Tourist-Information-Center/ENP037583",
+        "note": "Jongno information center location, services, opening hours and holiday closure.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave20-solo-1330",
+        "title": "Korea Tourism Organization: 1330 travel helpline",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=454&vcontsId=140632",
+        "note": "Travel information, interpretation, complaints, telephone and chat.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave20-solo-emergency",
+        "title": "VISITKOREA emergency guidance",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "note": "Official emergency services numbers for visitors.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "No itinerary, neighborhood or group can guarantee safety."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1469,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "off-season-travel-perks-lower-prices-fewer-crowds": {
+    "id": "guide:off-season-travel-perks-lower-prices-fewer-crowds",
+    "categoryId": "plan-your-trip",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Compare the same flights, room and activities across actual dates; low-season savings and quieter visits are possibilities, not guarantees.",
+    "forWhom": "Travelers with flexible dates and a budget",
+    "conditions": [
+      "Demand and prices vary by destination, dates, holidays and events."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korea in the Off-Season: Compare Prices, Crowds and Trade-Offs"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave20-season-climate",
+        "title": "Korea Tourism Organization: Climate and Seasons",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140636",
+        "note": "Seasonal weather, late-June to late-July rain and winter preparation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave20-season-holidays",
+        "title": "Korea Tourism Organization: Korea Through the Seasons",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=12&menuSn=745&vcontsId=1595362",
+        "note": "Seasonal contrasts and holiday transport/closure caveats.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Demand and prices vary by destination, dates, holidays and events."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1470,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-secondhand-shopping-for-visitors-payment-condition-checks-and-return-limi": {
+    "id": "guide:korean-secondhand-shopping-for-visitors-payment-condition-checks-and-return-limi",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Inspect and test the item, agree on payment and return terms, and keep the seller details and receipt before leaving.",
+    "forWhom": "Visitors considering used clothing, electronics or collectibles",
+    "conditions": [
+      "Payment and return arrangements vary by seller and transaction; statutory rights depend on the circumstances."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buying Secondhand in Korea: Payment, Condition and Returns"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave20-used-market",
+        "title": "Korea Tourism Organization: Seoul Folk Flea Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=75569",
+        "note": "Official market listing and varied individual store hours; example context, not a seller policy.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave20-used-help",
+        "title": "Korea Tourism Organization: 1330 Travel Helpline and Complaint Center",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=454&vcontsId=140632",
+        "note": "Tourist information, interpretation and tourism complaint channels.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1471,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
   }
 }

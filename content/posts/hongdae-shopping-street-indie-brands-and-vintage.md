@@ -155,6 +155,8 @@ This towering building is a cultural complex. The first and second floors are de
 
 If you are shopping for beauty products to match your new outfits, verify which products are trending this year with our guide on [best under-the-radar K-beauty brands](/blog/best-under-the-radar-k-beauty-brands-gaining-popularity-in-2026).
 
+Before buying vintage, use the [secondhand condition and payment checklist](/blog/korean-secondhand-shopping-for-visitors-payment-condition-checks-and-return-limi).
+
 ## Essential Shopping Tips for Foreigners
 
 Shopping in Korea has its own set of unspoken rules. Knowing these will save you embarrassment and money.

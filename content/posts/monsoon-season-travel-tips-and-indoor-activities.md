@@ -195,6 +195,8 @@ Getting around during *Jangma* requires strategy.
   variant="cards"
 />
 
+For a wider date decision, [compare off-season prices and trade-offs](/blog/off-season-travel-perks-lower-prices-fewer-crowds).
+
 ## Regional Escapes: Does it rain everywhere?
 
 Korea is small, but weather patterns differ. If Seoul is drowning in rain, the southern coast might be different—though often, the front moves south to north.

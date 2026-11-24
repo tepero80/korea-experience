@@ -31,6 +31,8 @@ You can ask: **지금 영업하나요? 오늘 운영시간이 어떻게 되나�
 
 For an urgent medical emergency, call **119**. See the [official emergency-number list](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=376&vcontsId=140042) for other services.
 
+Once you have found an open pharmacy, use these [short questions to explain what you need and check the written directions](/blog/pharmacy-essentials-pain-relief-and-wound-care-products).
+
 ## Before you go
 
 - Check the date, district, listed hours, and address in the directory or map.

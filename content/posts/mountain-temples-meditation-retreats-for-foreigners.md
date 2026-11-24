@@ -29,6 +29,8 @@ New to Buddhist practice? [See what to ask before a temple stay](/blog/temple-st
 
 Read the schedule before deciding how much activity you want. Ask about stairs, walking surfaces, sitting or movement, and dietary needs ahead of booking. Keep the confirmation where you can open it offline.
 
+Before choosing a retreat, [compare temple stay formats and booking questions](/blog/korean-temple-stay-experience-complete-guide).
+
 ## Use the host’s approach
 
 **골굴사 · 경상북도 경주시 문무대왕면 기림로 101-5**

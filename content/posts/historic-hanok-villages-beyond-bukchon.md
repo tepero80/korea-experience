@@ -222,6 +222,8 @@ Traditional Hanoks use *Ondol*, an underfloor heating system. In the past, this 
 
 For a broader look at exploring heritage sites, consider reading about [Andong Hahoe Village](/blog/andong-hahoe-village-experiencing-korea-living-heritage-2026) specifically for accommodation recommendations in that region.
 
+For a hands-on activity, [learn the basics of yutnori and jegichagi](/blog/traditional-korean-games-yutnori-and-jegichagi).
+
 ## Suggested Itineraries
 
 To help you plan, here are two distinct ways to experience Hanok culture, depending on your budget and style.

@@ -131,6 +131,8 @@ Without this link, you cannot open a full Korean bank account, sign up for Coupa
   Many travelers forget to update their carrier after getting their ARC. If you don't update it, your phone service might suddenly stop after 90 days because passport-based accounts have a hard legal time limit. Always visit your provider within 3 days of receiving your card.
 </ExpertTip>
 
+Moving to Korea? [Compare resident phone contracts](/blog/korean-phone-plans-sk-vs-kt-vs-lg-u-plus) as well as visitor products.
+
 ## Postpaid Plans: The Long-Term Solution
 
 Once you have your ARC and a Korean bank account (or a credit card), you can switch to a postpaid plan. This is where the real savings happen. You are no longer "top-up" dependent; the bill is automatically deducted from your account.

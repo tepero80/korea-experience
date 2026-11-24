@@ -37,5 +37,5 @@ Keep your written estimate, signed consent, medical summary, prescriptions, rece
 ## Sources
 
 - [Act on Support for Overseas Expansion of Healthcare System and Attraction of International Patients, Article 6](https://www.law.go.kr/법령/의료해외진출및외국인환자유치지원에관한법률/제6조)
-- [Medical Korea — official foreign-patient information service](https://www.medicalkorea.or.kr/en/index.do)
+- [Medical Korea — official foreign-patient information service](https://www.medicalkorea.or.kr/en/index)
 - [Korea Health Industry Development Institute — International Patient Experience Center](https://www.khidi.or.kr/eps)

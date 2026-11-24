@@ -39,6 +39,6 @@ If you develop new or worsening symptoms, contact your treating provider or loca
 
 ## Sources
 
-- [Medical Korea — official foreign-patient information service](https://www.medicalkorea.or.kr/en/index.do)
+- [Medical Korea — official foreign-patient information service](https://www.medicalkorea.or.kr/en/index)
 - [Act on Support for Overseas Expansion of Healthcare System and Attraction of International Patients, Article 6](https://www.law.go.kr/법령/의료해외진출및외국인환자유치지원에관한법률/제6조)
 - [Seoul National University Hospital — International Healthcare Center and patient services](https://www.snuh.org/global/en/patients/EN02005.do)

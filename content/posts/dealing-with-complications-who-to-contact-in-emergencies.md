@@ -19,6 +19,8 @@ For an emergency in Korea, **call 119** for an ambulance. Say where you are, giv
 | Bill, coverage or travel changes | Contact your insurer as soon as practical. Ask which documents they need, whether the type of treatment is covered and how to handle any rebooking. |
 | Other help | [Medical Korea](https://www.medicalkorea.or.kr/en/convenient) lists 1577-7129 and daily phone service from 09:00 to 18:00 Korea time. Ask about non-urgent information or help with a complaint. |
 
+Once immediate care is arranged, use the [medical dispute and records contact guide](/blog/medical-tourism-complaint-and-support-channels-in-korea-official-contacts-and-do) to identify the organization that handles your concern.
+
 ## Prepare a handoff to the next clinician
 
 Before leaving a facility, ask for the discharge summary, medication list with doses and times, procedure or treatment details, current instructions and the clinical team’s contact information. Keep itemized bills and proof of payment in case your insurer asks. Where possible, ask for a language the next clinician can use. The [FCDO hospital guidance](https://www.gov.uk/guidance/in-hospital-abroad) explains why receipts and clinical notes matter and why elective treatment can affect coverage.

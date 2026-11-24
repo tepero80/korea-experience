@@ -167,6 +167,8 @@ Both accommodation types are generally well-located, but they target different z
 
 Officetels are frequently built directly on top of or adjacent to subway exits. It is not uncommon to leave your Officetel, take the elevator down to B1, and walk directly into the subway station without ever stepping outside—a massive advantage during the humid monsoon season (July) or freezing winter (January).
 
+Once you have a room, [identify the heating controls](/blog/korean-apartment-heating-controls-explained-safe-ways-to-understand-ondol-settin) with the host’s help.
+
 ## Short-Term Rental Platforms: How to Book
 
 Finding these places requires different strategies. The digital landscape for Korean housing is split between domestic apps and international platforms.

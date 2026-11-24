@@ -31,6 +31,8 @@ To play an instrument yourself, [compare gayageum and janggu workshops](/blog/tr
 | Hall | The [Seocho campus](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111372) includes **Umyeondang (우면당)** and **Yeakdang (예악당)** among its spaces. Save the hall from the ticket, along with the campus map and Korean address. |
 | Ticket | Check age limits, accessible seating and how to collect your ticket. Consult the [center’s English booking information](https://www.gugak.go.kr/site/homepage/menu/viewMenu?lang=en&menuid=001001002001001) and use the contact on the event if an overseas card or pickup method is unclear. |
 
+Before picking a concert, [compare pansori and samulnori](/blog/the-sound-of-korea-pansori-and-samulnori-performance-guide-2026).
+
 ## Arrive with the details you need
 
 - Save the performance title, hall and ticket confirmation offline. Check any language or surtitles offered for that performance.

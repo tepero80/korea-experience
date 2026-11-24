@@ -76,6 +76,10 @@ Start with the two places you most want to visit. Compare the full round trip fr
 <span id="the-relaxed-aesthetic-3-days"></span>
 <span id="24-hour-dualism-route-aewol--west-coast"></span>
 
+If driving fits your island itinerary, [check the rental documents and costs](/blog/rent-a-car-in-korea-international-license-and-navigation-app-guide-2026) before booking.
+
+Experienced riders should [check motorcycle rental documents and road restrictions](/blog/motorcycle-rental-for-experienced-riders) before planning an island ride.
+
 ## A realistic three-day itinerary
 
 1. **Arrival and one neighborhood.** In Jeju City, pair [Samseonghyeol with Dongmun Market](/blog/jeju-city-samseonghyeol-dongmun-heritage-walk). In Seogwipo, browse [Maeil Olle Market](/blog/seogwipo-olle-market-takeaway-plan) and use the time left for the nearby streets. Keep the arrival day adjustable if your transport is delayed.

@@ -74,6 +74,8 @@ When exchanging introductions, establishing who is senior is the first order of 
   source="Korea Labor Institute 2025"
 />
 
+For everyday interactions, keep these [polite Korean phrases](/blog/korean-honorifics-in-everyday-situations-practical-phrases-and-when-to-use-them) handy.
+
 ## The Art of the Greeting and Business Cards
 
 First impressions in Korea are cemented within the first 3 to 5 seconds of a meeting. The physical act of greeting is formalized and carries weight.

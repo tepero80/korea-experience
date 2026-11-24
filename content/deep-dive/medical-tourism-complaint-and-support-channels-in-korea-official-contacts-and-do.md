@@ -1,40 +1,28 @@
 ---
-title: "Medical-Tourism Support and Dispute Channels in Korea"
+title: "After Medical Care in Korea: Where to Take a Complaint or Dispute"
 date: 2026-10-13
-excerpt: "Find official starting points for medical-tourism questions and learn the basic Korean medical-dispute application process."
+updated: 2026-11-24
+excerpt: "Find the appropriate contact for a records request, a billing question or a medical dispute, with a filing route for people who have left Korea."
 category: "Medical Tourism"
-author: "Korea Experience Editorial Team"
+author: Korea Experience Editorial
 deepDive: true
-image: "/images/medical-tourism-complaint-and-support-channels-in-korea-official-contacts-and-do.webp"
 ---
 
-If you have a concern about medical care or a service arranged during a visit to South Korea, first identify whether it is a clinical dispute, a question about foreign-patient services, or a commercial billing issue. Different organizations handle different matters. This is general procedural information, not legal advice and not a determination that malpractice occurred.
+If you need urgent help in Korea, [call 119](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145). After urgent care is addressed, write down which provider saw you, the dates, what changed and what you need now. A document request, a payment query and a dispute over medical care each have a different first contact.
 
-## For a medical-care dispute
+## Start with the contact that can handle your request
 
-The Korea Medical Dispute Mediation and Arbitration Agency (K-MEDI) provides counseling and operates a statutory mediation and arbitration process for medical disputes. The Medical Dispute Mediation Act describes how an application is filed and how the respondent is notified.
+| Task | Start here |
+| --- | --- |
+| Get records | Ask the treating facility how to request copies and whether a representative can collect them. |
+| Check a charge | Ask whoever took payment for an itemized bill and a written explanation. Keep the original quote and proof of payment. |
+| Identify a provider | Search [Medical Korea’s registration directory](https://www.medicalkorea.or.kr/en/registeredhospitals) and compare the exact institution and branch. |
+| Find dispute support | Read the [K-MEDI foreign-patient application guide](https://k-medi.or.kr/eng/lay1/S239T385C453/contents.do) and use the current instructions for where you are based. |
 
-Under Article 27, a respondent generally has 14 days after receiving the application to notify K-MEDI that they will participate; if they do not, the application is ordinarily dismissed. The Act provides exceptions for specified serious cases, including death, at least one month of unconsciousness, and certain severe disabilities. Therefore, it is not accurate to say that every case always requires both parties' advance consent, nor that every case automatically proceeds. Ask K-MEDI which current rule applies to your situation.
+## If you already left Korea
 
-K-MEDI lists its Medical Dispute Counseling Center at +82-2-1670-2545 and provides telephone, online, visiting, and mail/fax counseling options. Check its current official page for operating hours, application forms, language support, and any eligibility requirements before filing.
+K-MEDI lists an email or fax option for foreign patients abroad. Open its official guidance and follow the current links for documents and submission. Ask what identification and authorization it requires, which documents need translation and how to send them securely. K-MEDI publishes a [required-document list](https://k-medi.or.kr/eng/lay1/S239T377C382/contents.do); confirm the items for your situation before sending personal records.
 
-## For questions about foreign-patient services
+Record offices have their own procedures. For instance, [Seoul National University Hospital’s instructions](https://www.snuh.org/global/en/patients/EN02005.do) distinguish copies of existing records from a separate medical certificate and give identification and authorization requirements. Ask your own provider about an authorized representative and delivery arrangements before booking a repeat trip solely for paperwork.
 
-Medical Korea and the Korea Health Industry Development Institute provide information for international patients and the foreign-patient attraction system. These services can direct you to relevant information, but they are not a substitute for a clinician's assessment, a lawyer's advice, or K-MEDI's statutory dispute process.
-
-The Foreign Patient Attraction Act separately addresses registration of medical institutions that attract foreign patients and businesses that arrange or attract them. If your concern involves an intermediary, identify the legal entity and ask the competent local or provincial authority about its registration status. Do not assume that a clinic's registration automatically covers a separate agency.
-
-## Organize information before contacting an agency
-
-Write down the timeline, provider names, treatment dates, what you were told, and what outcome you are seeking. Keep copies of estimates, consent forms, invoices, medical records, prescriptions, and relevant messages. Store original documents safely and send copies unless the official process specifically requests originals.
-
-For urgent or worsening symptoms, contact your treating provider or local emergency services immediately. A dispute or support hotline cannot provide emergency treatment.
-
-If you are unsure which route fits your concern, describe the issue to the official counseling service and ask which agency accepts that type of filing. Keep a record of the date and the reference number for each inquiry. The agencies may explain their process, but they do not decide clinical urgency or replace independent legal advice.
-
-## Sources
-
-- [Medical Dispute Mediation Act, Article 27](https://www.law.go.kr/법령/의료사고피해구제및의료분쟁조정등에관한법률/제27조)
-- [K-MEDI — official medical dispute counseling service](https://www.k-medi.or.kr/eng/lay1/S239T239C269/sublink.do)
-- [Foreign Patient Attraction Act, Article 6](https://www.law.go.kr/법령/의료해외진출및외국인환자유치지원에관한법률/제6조)
-- [Medical Korea — official foreign-patient information service](https://www.medicalkorea.or.kr/en/index.do)
+Keep estimates, receipts and messages privately. Avoid putting records or identity documents in a public post. If you still need arrangements with a clinician or insurer, start with the [care handoff guide](/blog/dealing-with-complications-who-to-contact-in-emergencies).

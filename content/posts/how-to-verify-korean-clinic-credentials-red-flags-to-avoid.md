@@ -21,6 +21,8 @@ Use this checklist after identifying the treating facility. If the quote came th
 
 Ask whether a quoted estimate includes consultation, tests or follow-up if they are relevant to the visit. Ask the clinic to state any refund deadline in Korea time and show the payment recipient. If two organizations charge separate fees, request a breakdown and the terms for each. A written quote makes it easier to notice a change before paying.
 
+When you contact the actual clinic, [confirm how to request a medical interpreter](/blog/medical-interpreter-services-in-korean-clinics-do-you-need-one) and who will be with you during the appointment.
+
 ## Confirm the appointment and travel plan separately
 
 Ask who the appointment is with, who explains consent and what happens if your appointment changes. Bring the clinic any records it asks for using its approved channel. Ask the treating clinician whether your dates allow any required follow-up or changes to your travel plans. Discuss any assessment or image-access request with the facility directly.

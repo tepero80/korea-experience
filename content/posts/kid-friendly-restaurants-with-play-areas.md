@@ -176,6 +176,8 @@ In Starfield Hanam, for example, the "Eato" food court area is adjacent to a ded
   source="Shinsegae Group 2025"
 />
 
+Pair your meal with one of these [flexible Seoul half-day plans with kids](/blog/seoul-with-kids-low-stress-half-day-plans-by-neighborhood).
+
 ## Practical Tips for Parents in Korea
 
 Dining out in Korea has its own set of unspoken rules and technological hurdles. Being prepared can save you from frustration.
