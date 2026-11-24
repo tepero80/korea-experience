@@ -29,6 +29,8 @@ You can decline without giving a medical or personal explanation. For example:
 
 You can join a toast with a non-alcoholic drink if you wish. If someone offers again, a calm repetition of your choice is enough. You do not need to accept a glass, taste it or have someone else drink it for you.
 
+If the group pauses for a toast, [use a short toast that fits the occasion](/blog/korean-drinking-etiquette-pouring-and-toasting).
+
 ## Tradition and the present table
 
 [Korea.net's account of traditional drinking manners](https://www.korea.net/NewsFocus/Culture/view?articleId=117340) describes receiving a drink from an elder with both hands and turning to the side. It also records historical expectations that a person taste an offered drink. Treat those as descriptions of traditions, not instructions you must follow today. A separate [historical account of a ceremonial gathering](https://www.korea.net/NewsFocus/Culture/view?articleId=117176) describes both offering and declining; it concerns a particular traditional ceremony, not a script for a modern dinner.

@@ -20,6 +20,8 @@ image: "/images/editorial/makgeolli-kettle-jon-aslund-2010-1280.webp"
 
 If someone offers a mixed glass, use the [somaek ordering guide](/blog/the-art-of-somaek-how-to-make-the-perfect-beer-soju-mix-2026) to ask what is in it or choose a soft drink.
 
+For a group dinner where you plan to skip alcohol, [choose what to order and how to decline another round](/blog/korean-drinking-etiquette-2026).
+
 ## Decide whether a pocha suits your evening
 
 Look at the menu and seating before you sit down, especially if someone in your group needs an indoor seat or cannot eat an ingredient. [VISITKOREA’s Jongno 3-ga Pocha Street guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=215485) shows an outdoor example near Exit 6. Another place with “pocha” on its sign can be an indoor restaurant, so check the venue itself. Have an indoor alternative or pick a restaurant near your last connection if weather or a late journey would be an issue.

@@ -22,6 +22,10 @@ If you are still deciding where to teach, [compare EPIK and private academy offe
 
 If you already have a teaching offer, use the [E-2 application preparation guide](/blog/teaching-english-in-korea-e-2-visa-process) to check which items you, your sponsor and the deciding office each handle.
 
+If the employer proposes E-7 sponsorship, [confirm the occupation and who supplies each piece of evidence](/blog/employer-sponsored-visa-e-7-professional).
+
+If a listing asks for TOPIK or Korean fluency, [confirm the test and the language used on the job](/blog/korean-language-requirements-for-jobs-topik-guide-2026).
+
 ## Confirm which conditions apply before starting
 
 Keep the version you sign. Check any immigration permission with the competent office before starting. If you disagree about a term after reading it, take the full contract and the relevant messages to an appropriate employment adviser.

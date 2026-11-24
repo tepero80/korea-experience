@@ -25,7 +25,7 @@ Related reading: [Korean funeral traditions understanding death and remembr...](
 
 You might also enjoy our article about [The 2026 Expat Guide to South Korea](/blog/korea-social-rules-local-guide-2026).
 
-For more details, check out our guide on [Bottoms Up in Seoul](/blog/korean-drinking-etiquette-2026).
+If the host invites guests to toast, see [how to join a short Korean toast](/blog/korean-drinking-etiquette-pouring-and-toasting).
 
 As South Korea continues to evolve, so do its wedding customs. The average cost of a wedding has risen significantly, impacting how guests are expected to contribute. Whether you are a close friend, a coworker, or a distant relative, navigating the etiquette of *Chugui-geum* (congratulatory money) and understanding the rapid-fire schedule is essential to being a respectful guest.
 

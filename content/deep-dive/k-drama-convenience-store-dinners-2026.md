@@ -52,14 +52,12 @@ You do not just buy food here; you assemble it. The most famous example is the *
 To make it, buy a Giant Tteokbokki cup, Spaghetti Ramen cup (usually Ottogi brand), a sausage bar, and string cheese. Cook the spaghetti and drain the water. Cook the tteokbokki. Dump the noodles into the tteokbokki cup, add the spaghetti powder, and mix. Top with cut-up sausage and string cheese, then microwave until melted. It is a calorie bomb that feeds the soul.
 
 **The "Pouch Drink" Ritual**
-Grab a cup filled with ice from the freezer (labeled "Ice Cup"). Then, choose a pouch drink—Hazelnut Coffee is a classic. For a hangover cure, try the "Eolbaksa": a large ice cup, a bottle of Bacchus (energy drink), and a can of Chilsung Cider. Mix them all for an instant revival. If you are looking to spice things up, read our [Korean drinking etiquette guide](/blog/korean-drinking-etiquette-2026) for tips on mixing soju with these pouches.
+Some convenience stores sell ice cups alongside pouch drinks. Pick a sealed drink, check its caffeine and ingredients, and pour it over the ice. If you are joining friends for a meal, use the [guide to a Korean group dinner without alcohol](/blog/korean-drinking-etiquette-2026) to pick a drink and respond to refills.
 
 **2026 Trend: The "Dubai Chocolate" Texture**
 The current obsession is texture. Look for "Dubai Chocolate" items filled with pistachio cream and crunchy kataifi pastry. If you see anything green and chocolatey labeled "Pistachio," grab it—it is the viral item of the moment.
 
 <StepGuide title="How to Cook Han River Ramen Like a Pro" steps={[{ title: 'Buy the Right Stuff', description: 'Get a packet of bag ramen (not a cup). Ask for a ramen container at the counter. Grab a raw egg and maybe some string cheese.', tip: 'Look for Jin Ramen or Shin Ramyun. Chamkkae ramen includes an egg block!' }, { title: 'Prep Your Bowl', description: 'Put noodles in the foil/paper bowl. Dump soup powder and veggie flakes on top. DO NOT crack the egg yet.', tip: 'Noodles first, then powder, to prevent burning on the induction cooker.' }, { title: 'The Machine Interface', description: 'Place bowl on the burner. Scan the barcode on the bowl (not the packet) or press the General Ramen button. Water dispenses automatically.', tip: 'Do not panic when water stops; it is calculated perfectly.' }, { title: 'The Egg Drop & Simmer', description: 'When 1:30 remains on the timer, crack your raw egg into the bubbling center. Do not stir immediately.', tip: 'Add string cheese strips in the last 30 seconds for a melty topping.' }]} />
-
-<ExpertTip name="Min-ji Park" role="Food Content Creator, 7 years in Seoul" quote="Everyone obsesses over the ramen, but the real secret is the ice cups. Don't just buy a coffee. Buy a 'Blue Lemonade' pouch and mix it with a shot of Soju if you're drinking, or mix the 'Peach Iced Tea' pouch with a 'Shot of Espresso' pouch. We call it 'Ah-Shot-Chu'. It sounds weird, but trust me, it changes lives." />
 
 ## Must-Visit Locations
 

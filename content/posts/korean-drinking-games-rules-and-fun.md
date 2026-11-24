@@ -41,7 +41,7 @@ Learn more in our comprehensive guide to [Korean drinking culture Soju Makgeolli
 
 Before diving into the chaotic fun of the games, you must understand the rigid structure that supports Korean drinking culture. Unlike Western drinking cultures where individual autonomy is key, Korean drinking is collective.
 
-Learn more in our comprehensive guide to [Korean drinking etiquette pouring and toasting guide](/blog/korean-drinking-etiquette-pouring-and-toasting).
+If the group wants to toast at the start of the meal, try a [short Korean toast](/blog/korean-drinking-etiquette-pouring-and-toasting).
 
 The most critical rule involves pouring. You should never pour your own drink. This is considered bad luck. Instead, you must scan the table. If you see a companion’s glass is empty (or less than 20% full), offer to refill it. When someone pours for you, hold your glass with both hands—or support your right wrist with your left hand—as a sign of respect. This applies even if the pourer is younger than you, though the strictness relaxes with close friends.
 

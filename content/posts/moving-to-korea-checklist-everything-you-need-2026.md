@@ -24,11 +24,15 @@ Keep your passport, arrival paperwork, an offline booking, a charger, an indepen
 
 For personal medication, the [Incheon Airport Customs notice](https://www.customs.go.kr/incheon_airport/na/ntt/selectNttInfo.do?bbsId=2961&mi=12612&nttSn=10183523&nttSnUrl=ab4440206c518a9b2724795ab74c8880) describes conditional allowances and exceptions. Use the [personal medication entry checklist](/blog/bringing-personal-medication-into-korea-traveler-guide) to verify the active ingredient, permitted amount and whether separate authorization is needed. Ask the accommodation provider which payments are due before check-in and confirm how a second card or cash backup would work for those expenses.
 
+Once you have a delivery address, [compare written mover quotes and shipping handoffs](/blog/moving-companies-in-korea-international-vs-local) before committing goods to transit.
+
 ## Confirm administration before depending on it
 
 Keep the exact status or code on your approval and your expected dates handy. Ask the [Korea Immigration Service contact center](https://www.immigration.go.kr/immigration_eng/1862/subview.do) whether a registration step applies, the deadline, how to find the responsible office and what address evidence it will accept if you start in temporary accommodation. Ask your school, employer or sponsor to identify documents they will provide and when. Record the official answer and the date you checked it.
 
 When you plan around a phone plan or local bank account, check the provider directly for the service you need and the documents it accepts. Keep a way to pay for lodging and transportation while your plans are still in progress.
+
+After arrival, [confirm your NHIS category and its effective date](/blog/korean-health-insurance-nhis-guide-for-foreigners-2026) if a new job or address changes how coverage may be handled.
 
 ## Move from a short stay to a lease when the terms make sense
 

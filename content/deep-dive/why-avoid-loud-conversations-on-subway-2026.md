@@ -1,7 +1,7 @@
 ---
 title: "Why You Must Be Quiet on the Seoul Subway: 2026 Etiquette Guide"
 date: 2026-02-23
-excerpt: "Seoul Metro received 2,734 noise complaints in one month. Learn why silence is a survival skill and how to avoid fines up to 100,000 KRW in 2026."
+excerpt: "Keep audio private on the Seoul subway and learn what the city’s 2025 earphone campaign asked passengers to do."
 category: K-Culture
 author: Korea Experience Team
 deepDive: true
@@ -15,9 +15,7 @@ For first-time visitors, the atmosphere can feel intense, almost clinical. You m
 
 Here is why silence isn’t just a suggestion—it is a survival skill in Seoul’s underground world.
 
-<KeyTakeaways points={['The Seoul subway is a shared mobile bedroom and sanctuary for exhausted locals, making silence the default setting.', 'Seoul Metro received 2,734 noise complaints in a single month recently, proving locals actively report violators.', 'You must use Nunchi (situational awareness) to match the energy of the car, which usually means rejecting phone calls immediately.']} />
-
-<QuickFacts facts={[{ label: 'Base Fare (2026)', value: '₩1,550', icon: '💰' }, { label: 'Monthly Complaints', value: '~2,700+', icon: '📉' }, { label: 'Disorder Fine', value: 'Up to ₩100,000', icon: '👮' }]} />
+<KeyTakeaways points={['Use earphones for videos and music.', 'Keep conversations quiet on crowded trains.', 'Ask station staff for help if a problem persists.']} />
 
 ## The Short Answer: Why So Serious?
 
@@ -27,7 +25,7 @@ The short answer is: **You broke the Golden Rule of Seoul.** In Seoul, the subwa
 
 Here’s the deal: Seoulites work some of the longest hours in the world. The 40-minute commute on Line 2 is often the *only* downtime a person gets between a screaming boss and a demanding family. When you talk loudly, you aren't just making noise; you are stealing their rest.
 
-Recent stats back this up—Seoul Metro received over **2,734 noise complaints** in a single month recently. That is nearly 100 people a day getting reported just for being too loud. While [Korean drinking etiquette](/blog/korean-drinking-etiquette-2026) might allow for loudness in pochas, the subway is strictly a no-fly zone for noise. If you want to survive your trip without becoming a social pariah, you need to learn to zip it.
+In July 2025, [Seoul’s earphone-use campaign](https://english.seoul.go.kr/public-service-announcement-to-promote-earphone-use-on-the-subway/) reported 2,734 complaints about mobile-phone audio through April 2025. The campaign encouraged earphones for videos, music and calls. Keep conversations brief and quiet when the carriage is crowded.
 
 ## The Background Story
 
@@ -116,7 +114,7 @@ If you are looking for more loud entertainment options, check out our guide to [
 
 ## FAQ
 
-<FAQAccordion items={[{ question: 'Is it actually illegal to talk on the subway in Seoul?', answer: 'No, it is not illegal. You will not get arrested for chatting. However, it is a violation of public order clauses if you are being disorderly or loud enough to cause a disturbance, which can technically be fined up to 100,000 KRW.' }, { question: 'What happens if I talk loudly? Will someone yell at me?', answer: 'Usually, no. Koreans are non-confrontational. Instead, you will receive the Noon-chong (eye-bullets). People will stare at you aggressively, sigh loudly, or shift their bodies away from you.' }, { question: 'Why is everyone on their phone? Is not that anti-social?', answer: 'It is actually the opposite—it is pro-social in the Korean context. By retreating into their phones, they are minimizing their footprint and giving everyone else privacy in a crowded public space.' }, { question: 'Can I talk if the subway is empty?', answer: 'The rules relax a bit if the car is empty, but you should still keep your volume low. Sound travels far in those metal tubes. If it is just you and your friend, normal volume is okay, but drop to a whisper as soon as others board.' }, { question: 'Is it okay to eat on the subway if I am quiet?', answer: 'Technically, there is no law against eating (unlike on buses where take-out cups are banned), but it is heavily frowned upon. The smell is considered Min-pye (nuisance). Never bring smelly food or open drinks.' }]} />
+<FAQAccordion items={[{ question: 'Is it actually illegal to talk on the subway in Seoul?', answer: 'Keep conversation quiet, use earphones for your phone and follow the instructions posted by the operator.' }, { question: 'What happens if I talk loudly? Will someone yell at me?', answer: 'Usually, no. Koreans are non-confrontational. Instead, you will receive the Noon-chong (eye-bullets). People will stare at you aggressively, sigh loudly, or shift their bodies away from you.' }, { question: 'Why is everyone on their phone? Is not that anti-social?', answer: 'It is actually the opposite—it is pro-social in the Korean context. By retreating into their phones, they are minimizing their footprint and giving everyone else privacy in a crowded public space.' }, { question: 'Can I talk if the subway is empty?', answer: 'The rules relax a bit if the car is empty, but you should still keep your volume low. Sound travels far in those metal tubes. If it is just you and your friend, normal volume is okay, but drop to a whisper as soon as others board.' }, { question: 'Is it okay to eat on the subway if I am quiet?', answer: 'Technically, there is no law against eating (unlike on buses where take-out cups are banned), but it is heavily frowned upon. The smell is considered Min-pye (nuisance). Never bring smelly food or open drinks.' }]} />
 
 ## Conclusion
 

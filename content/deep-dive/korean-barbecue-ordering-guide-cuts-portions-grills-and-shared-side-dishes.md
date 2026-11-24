@@ -39,6 +39,8 @@ If the meal is part of a regional trip, [compare the Jeju black pork and Hoengse
 
 [KTO's restaurant introduction](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=903&vcontsId=229195) explains general tabletop-grilling and restaurant customs, but its broad examples are not every restaurant's terms. For a real location example, KTO lists [853 in Insadong](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=52960) as a pork-barbecue restaurant; use the current restaurant menu for its actual prices and conditions.
 
+To recreate the wraps after the trip, use this [safe Korean barbecue setup for a home kitchen](/blog/how-to-host-a-korean-bbq-at-home-meat-cuts-and-dipping-sauces-2026).
+
 ## Ask a short, specific question
 
 | Ask | Korean |

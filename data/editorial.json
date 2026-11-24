@@ -47360,5 +47360,449 @@
     "changeType": "rewrite",
     "launchOrder": 1647,
     "heroOmissionReason": "This is a consultation or document checklist. The table shows the decisions directly."
+  },
+  "korean-drinking-etiquette-2026": {
+    "id": "guide:korean-drinking-etiquette-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Tell the person ordering that you’re happy to join the meal and will have water or a soft drink. If someone reaches for your glass, repeat your choice. You can stay for the conversation and thank your host before leaving, even if others go on to another venue.",
+    "forWhom": "Visitors joining a Korean group dinner, including a meal with colleagues or a host’s friends, who want to skip alcohol or stop after an earlier drink.",
+    "conditions": [
+      "Menus and expectations vary by group. The Korean examples use polite everyday speech, except for the more formal thank-you."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "group dinners",
+      "alcohol-free travel",
+      "Korean dining phrases"
+    ],
+    "relations": [
+      {
+        "slug": "korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026",
+        "reason": "Read the drinks and food menu before agreeing to a venue for the group meal.",
+        "type": "next",
+        "label": "Your next decision"
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "krdict-hoesik-group-dinner",
+        "title": "National Institute of Korean Language: 회식 (group dinner)",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=88144&blockCount=10&currentPage=1&exaType=&mainSearchWord=%EB%81%9D&nation=eng&nationCode=6&proverbType=&searchType=E&sort=W&viewType=A&wordMatchFlag=N",
+        "note": "Defines a meal shared by members of a group and illustrates its use in a workplace. The definition does not depend on ordering alcohol.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "krdict-declining-drink-ability",
+        "title": "National Institute of Korean Language: 못 (inability)",
+        "url": "https://krdict.korean.go.kr/kor/dicSearch/SearchView?ParaWordNo=17254",
+        "note": "Shows 못 with a verb, including an example of someone who has cola at a group dinner because they cannot drink alcohol. This does not describe every gathering.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "krdict-thanks-after-a-meal",
+        "title": "National Institute of Korean Language: thanking a host",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=76439&nation=eng&nationCode=6",
+        "note": "Shows a polite invitation thank-you as part of a departure after a meal.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "At a group dinner, name what you’ll drink before anyone pours. Keep the same answer if someone offers again."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1648,
+    "heroOmissionReason": "The situation checklist and examples convey the choices directly."
+  },
+  "korean-drinking-etiquette-pouring-and-toasting": {
+    "id": "guide:korean-drinking-etiquette-pouring-and-toasting",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "When someone leads the toast, wait for their closing words, raise your glass if you want to join and say 건배 (geonbae, “cheers”). If you’re asked to lead, thank or congratulate the person the toast is for, then finish with 건배 to give the table a clear cue.",
+    "forWhom": "Guests who expect a toast at a Korean dinner, celebration or reception, including visitors who may be asked to say a few words.",
+    "conditions": [
+      "Follow the host or emcee at a formal event. The examples are short options for social gatherings and do not assume that everyone drinks alcohol."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Korean toasts",
+      "celebrations",
+      "Korean dining phrases"
+    ],
+    "relations": [
+      {
+        "slug": "korean-drinking-culture-soju-makgeolli-and-pocha-guide-2026",
+        "reason": "Understand what the table is ordering when a toast is part of dinner at a pocha.",
+        "type": "next",
+        "label": "Your next decision"
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "krdict-geonbae-toast",
+        "title": "National Institute of Korean Language: 건배 (toast or cheers)",
+        "url": "https://krdict.korean.go.kr/kor/dicSearch/SearchView?ParaWordNo=23629",
+        "note": "Defines the act of toasting and the word people say while raising glasses. Includes an example of a toast that ends with 건배.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "krdict-invitation-toast-phrase",
+        "title": "National Institute of Korean Language: thanking someone for inviting you",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=76439&nation=eng&nationCode=6",
+        "note": "Gives the polite invitation thank-you used as the first sentence of the suggested guest toast.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "A short Korean toast marks the occasion and ends with 건배 (geonbae), the cue for everyone to raise their glasses."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1649,
+    "heroOmissionReason": "The situation checklist and examples convey the choices directly."
+  },
+  "how-to-host-a-korean-bbq-at-home-meat-cuts-and-dipping-sauces-2026": {
+    "id": "guide:how-to-host-a-korean-bbq-at-home-meat-cuts-and-dipping-sauces-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Cook the meat in a pan on a stove or use an appliance labeled for indoor cooking. Set separate plates and tongs for raw and cooked meat. Bring cooked batches to the table with greens, rice and sauce so guests can build their own wraps.",
+    "forWhom": "Travelers who want to recreate a Korean barbecue meal at home",
+    "conditions": [
+      "Follow the instructions for your exact appliance and any rules at your accommodation. The temperatures below are U.S. food-safety guidance for specific meat categories."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Korean barbecue",
+      "Korean cooking",
+      "food safety"
+    ],
+    "relations": [
+      {
+        "slug": "korean-barbecue-ordering-guide-cuts-portions-grills-and-shared-side-dishes",
+        "reason": "At a Korean restaurant, compare portions and ask who will handle the grill.",
+        "type": "next",
+        "label": "Your next decision"
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave41-visitkorea-wraps",
+        "title": "Korea Tourism Organization: Korean food and leaf wraps",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=903&vcontsId=229195",
+        "note": "Describes pork belly, lettuce and perilla wraps, and the typical ingredients of ssamjang.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "wave41-cpsc-co",
+        "title": "U.S. Consumer Product Safety Commission: Carbon monoxide fact sheet",
+        "url": "https://www.cpsc.gov/safety-education/safety-guides/carbon-monoxide/carbon-monoxide-fact-sheet",
+        "note": "Explains carbon monoxide risk and safe limits for charcoal and portable camping equipment indoors.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "wave41-food-temperature",
+        "title": "U.S. CDC: Preventing food poisoning",
+        "url": "https://www.cdc.gov/food-safety/prevention/index.html",
+        "note": "Gives thermometer temperatures by meat type and, for specified whole cuts, a three-minute rest.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "wave41-food-separate",
+        "title": "U.S. Food and Drug Administration: Safe food handling",
+        "url": "https://www.fda.gov/food/buy-store-serve-safe-food/safe-food-handling",
+        "note": "Advises separating raw meat from other foods and washing utensils and plates before reuse.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Cook on equipment intended for your space, keep raw and cooked utensils separate, and serve cooked batches with wraps and sauce."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1650,
+    "heroOmissionReason": "The licensed dining photograph appears at the wrap instructions."
+  },
+  "employer-sponsored-visa-e-7-professional": {
+    "id": "guide:employer-sponsored-visa-e-7-professional",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with the employer’s proposed E-7 subtype, occupation code and written duties. Ask which wage notice and filing checklist apply to that role, and confirm who supplies each document before you lock in a start date.",
+    "forWhom": "People with a specific Korean job offer and an employer that has proposed E-7 sponsorship.",
+    "conditions": [
+      "Requirements depend on the subtype, actual duties, current status of stay, filing office and applicable dates. The cited 2026 wage notice has a defined application period and occupation exceptions."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "E-7 sponsorship",
+      "Korea employment offer",
+      "Korea occupation code",
+      "Korea employment visa paperwork"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "e7-wage-notice-2026",
+        "title": "Ministry of Justice 2026 E-7 wage notice and attachment",
+        "url": "https://www.immigration.go.kr/bbs/moj/184/601893/artclView.do",
+        "note": "Notice 2025-406 and its attachment establish wage criteria by subtype, a February 1 to December 31, 2026 application period and exceptions for occupations with separate criteria.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "e7-studyinkorea-employment-status",
+        "title": "Study in Korea employment status and occupation examples",
+        "url": "https://www.studyinkorea.go.kr/en/work/aboutForeignerEmploymentSystem.do",
+        "note": "Includes E-7 occupation examples and applicant and employer paperwork in the context of changing to an employment status.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w41-kis-1345",
+        "title": "Korea Immigration Service 1345 Contact Center",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Provides immigration counseling and information on office jurisdiction.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the occupation code and written duties first, then check which wage rule and visa documents apply."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1651,
+    "heroOmissionReason": "The situation checklist and examples convey the choices directly."
+  },
+  "korean-language-requirements-for-jobs-topik-guide-2026": {
+    "id": "guide:korean-language-requirements-for-jobs-topik-guide-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Check whether the vacancy requires a TOPIK score, prefers one or asks for practical Korean. Ask the recruiter how they assess language, then confirm any immigration documents with the office handling your status.",
+    "forWhom": "People reading a specific Korean job listing or preparing for an interview where Korean proficiency may be assessed.",
+    "conditions": [
+      "Employers set their own hiring criteria. Exam dates and formats depend on location, and the immigration office determines which evidence applies to a visa or status application."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "TOPIK for jobs",
+      "Korean job listing",
+      "workplace Korean",
+      "TOPIK score report"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "topik-job-application-criteria",
+        "title": "Study in Korea employment and recruitment guide",
+        "url": "https://www.studyinkorea.go.kr/en/work/aboutKoreaEmployment.do?tab=job-prep",
+        "note": "Recommends checking certification requirements for the specific company and role.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "topik-exam-format-validity",
+        "title": "Study in Korea TOPIK test types and validity",
+        "url": "https://www.studyinkorea.go.kr/en/plan/examAndKoreanStudy.do",
+        "note": "Describes TOPIK I and II sections, paper-based and internet-based options, a separate speaking test and the score validity period.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w41-kis-1345",
+        "title": "Korea Immigration Service 1345 Contact Center",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Provides immigration counseling and information on office jurisdiction.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check whether TOPIK is required or preferred. Confirm the test format, report deadline and any separate visa evidence."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1652,
+    "heroOmissionReason": "The situation checklist and examples convey the choices directly."
+  },
+  "korean-health-insurance-nhis-guide-for-foreigners-2026": {
+    "id": "guide:korean-health-insurance-nhis-guide-for-foreigners-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the National Health Insurance Service (NHIS) which enrollment category it has on record, when it took effect and who should pay. If your employer is handling enrollment, compare its filing information with the NHIS record. Ask NHIS to check mismatches before assuming you owe two bills or that coverage is active.",
+    "forWhom": "Foreign residents in Korea checking their first health insurance bill, a job change, or coverage for a family member.",
+    "conditions": [
+      "Enrollment and effective dates depend on your situation. The National Health Insurance Service confirms individual records and requirements."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "NHIS enrollment and contributions",
+      "first bills after moving",
+      "health insurance records"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w41-nhis-foreigner-enrollment",
+        "title": "NHIS guidance for foreigners",
+        "url": "https://www.nhis.or.kr/english/wbheaa02900m01.do",
+        "note": "Explains employee, local and dependent categories, contribution methods and dependent documentation.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w41-nhis-foreign-language-contact",
+        "title": "NHIS contact details and language support",
+        "url": "https://www.nhis.or.kr/english/wbheaa02000m01.do",
+        "note": "Lists consultation contact numbers for callers in Korea and abroad.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask NHIS for your category, effective date and the months covered by your bill."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1653,
+    "heroOmissionReason": "The situation checklist and examples convey the choices directly."
+  },
+  "utilities-setup-internet-gas-electricity-water": {
+    "id": "guide:utilities-setup-internet-gas-electricity-water",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Before accepting the keys, ask what the rent or building statement covers, who bills the rest and which date starts your charges. Record any shared or individual meter readings with the landlord or building manager. Let the gas provider arrange qualified service if a connection needs work.",
+    "forWhom": "Tenants and longer-stay visitors taking over or handing back a home in Korea.",
+    "conditions": [
+      "Billing, suppliers and installation arrangements vary by building and address. The Seoul contacts apply where specified."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "rental handover",
+      "utilities and meter readings",
+      "long-stay internet"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w41-seoul-electricity-gas",
+        "title": "Seoul living information: electricity and gas contacts",
+        "url": "https://global.seoul.go.kr/hmpg/finf/elsi/safe/contPageDetail.do?conts_no=4FDD6EBAE82444F383F0F86FFC7175BB&lang=en",
+        "note": "Lists the electricity contact and explains that the city gas contact varies by region.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w41-kgs-gas-move",
+        "title": "Korea Gas Safety Corporation: gas safety when moving",
+        "url": "https://www.kgs.or.kr/kgsmain/seoul/hea/board.do?searchBoardSn=102804",
+        "note": "Directs households to request gas shutoff work before moving and use qualified professionals to connect appliances after moving.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w41-seoul-arisu",
+        "title": "Seoul Arisu water service",
+        "url": "https://arisu.seoul.go.kr/home/sub?menukey=7642",
+        "note": "Describes Seoul water-bill lookup, payment and service alerts.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w41-seoul-internet",
+        "title": "Seoul living information: telecommunications and internet",
+        "url": "https://global.seoul.go.kr/hmpg/finf/elsi/comm/contPageDetail.do?conts_no=D6067AA192E8432180EDF96112A7C241&lang=en",
+        "note": "Lists ways to contact home internet providers and distinguishes home internet from mobile activation.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "At handover, record the utility bill issuer, start date and meter reading for each service."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1654,
+    "heroOmissionReason": "The situation checklist and examples convey the choices directly."
+  },
+  "moving-companies-in-korea-international-vs-local": {
+    "id": "guide:moving-companies-in-korea-international-vs-local",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Decide where the service must end, then request itemized written quotes on the same inventory and access conditions. For a shipment from overseas, identify the Korean-side handler, who handles customs documents and whether delivery ends at the port, the building entrance or inside your home.",
+    "forWhom": "People hiring movers within Korea or shipping household goods to a confirmed Korean address.",
+    "conditions": [
+      "Quotes depend on inventory, building access and the agreed handover. Korea Customs determines the documents and duties for an inbound shipment."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "moving company quotes",
+      "household goods customs",
+      "long-stay logistics"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w41-kca-small-move-quotes",
+        "title": "Korea Consumer Agency: moving quote and damage prevention",
+        "url": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1004458186",
+        "note": "Recommends checking permits, getting accurate quotes, taking photos beforehand and checking condition at delivery.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w41-customs-moving-effects-en",
+        "title": "Korea Customs Service: household effects coming to Korea",
+        "url": "https://www.customs.go.kr/english/cm/cntnts/cntntsView.do?cntntsId=5505&mi=10804",
+        "note": "Outlines inbound household effects declarations, supporting documents and circumstances in which goods may be dutiable.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w41-customs-delivery-points",
+        "title": "Korea Customs Service: moving goods shipping and clearance steps",
+        "url": "https://customs.go.kr/kcs/ad/cntnts/cntntsView.do?cntntsId=8454&mi=8454",
+        "note": "Identifies port, door and inside delivery endpoints and the Korean-side handoff before customs clearance.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "For an overseas move, name the Korean-side handler and write down the exact final handoff point."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1655,
+    "heroOmissionReason": "The situation checklist and examples convey the choices directly."
   }
 }

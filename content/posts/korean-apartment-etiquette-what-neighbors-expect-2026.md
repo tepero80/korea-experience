@@ -20,6 +20,8 @@ author: Korea Experience Editorial
 
 If the apartment is part of a longer move, the [South Korea arrival and first-week checklist](/blog/moving-to-korea-checklist-everything-you-need-2026) helps you order the airport transfer, payment backup and residence paperwork.
 
+If you are taking over the utility bills, [record the meter handover and confirm who bills each service](/blog/utilities-setup-internet-gas-electricity-water).
+
 ## Save the information before you unpack
 
 Keep a note of collection times, the waste location and the person to contact. If a sign is unclear, ask for the translation or show it privately to the host, avoiding visible names, unit numbers and access codes. Check checkout instructions before leaving anything in a shared space.
