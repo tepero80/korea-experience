@@ -132,10 +132,14 @@ Korea uses **220V, 60Hz** with Type C/F plugs (two round pins).
 
 <ProsCons
   title="To Ship or Not To Ship?"
-  pros={["Large size clothes/shoes (hard to find in Korea)", "Specific deodorants/toothpastes (local brands differ)", "Prescription meds (bring 3-month supply)"]}
+  pros={["Large size clothes/shoes (hard to find in Korea)", "Specific deodorants/toothpastes (local brands differ)", "Prescription medicines that meet Korea’s personal carry-in requirements"]}
   cons={["Furniture (apartments are small)", "Appliances (voltage issues)", "Bedding (sizes differ: Korean 'Queen' is smaller)"]}
   variant="cards"
 />
+
+Before packing prescription medicines, use the [personal medication entry checklist](/blog/bringing-personal-medication-into-korea-traveler-guide) to check the active ingredients, allowed quantity and any separate permit.
+
+Once you have a place to stay, use the [apartment arrival checklist](/blog/korean-apartment-etiquette-what-neighbors-expect-2026) to confirm building entry, waste and contact details.
 
 ## Phase 5: Arrival and The First Week
 

@@ -46579,5 +46579,369 @@
     "changeType": "rewrite",
     "launchOrder": 1631,
     "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "compression-garments-where-to-buy-in-seoul": {
+    "id": "guide:compression-garments-where-to-buy-in-seoul",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the treating clinic whether it wants you to use a garment and whether it provides one. If you need to buy it separately, get the required type and fitting instructions in writing before looking for a supplier.",
+    "forWhom": "People in Seoul whose care team has recommended or discussed a compression garment.",
+    "conditions": [
+      "Garment specifications, availability and exchange policies vary by clinician, product and seller."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "medical compression garment purchasing",
+      "clinic garment specification",
+      "fitting and exchange before travel"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w39-qvh-fit",
+        "title": "Queen Victoria Hospital pressure garment service",
+        "url": "https://www.qvh.nhs.uk/our-services/support-services/pressure-garment-service/",
+        "note": "Describes individual garment selection and measurements in this hospital’s pressure garment service.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Get the clinic’s written garment requirements and ask the seller about fitting before paying."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1632,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "medical-procedures-under-local-vs-general-anesthesia": {
+    "id": "guide:medical-procedures-under-local-vs-general-anesthesia",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask who will explain the anesthetic proposed for your procedure. Bring your current health and medication information and request instructions that apply to you, including any eating, drinking, medication or discharge requirements.",
+    "forWhom": "Travelers preparing for a planned procedure and an anesthesia discussion in Korea.",
+    "conditions": [
+      "Preparation and discharge instructions depend on the planned procedure, medical history and the treating facility."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "anesthesia pre-assessment questions",
+      "written instructions before procedure",
+      "interpreted clinical discussion"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w39-cuh-anaesthesia",
+        "title": "Cambridge University Hospitals anaesthetic and pre-operative information",
+        "url": "https://www.cuh.nhs.uk/patient-information/anaesthetic-and-pre-operative-information/",
+        "note": "Explains disclosing medicines and other health details and following the clinical team’s preparation instructions.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for your own written preparation instructions and a contact for changes before the visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1633,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-dental-tourism-implants-whitening-and-veneers-guide-2026": {
+    "id": "guide:korean-dental-tourism-implants-whitening-and-veneers-guide-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Confirm whether the booking is a dental exam or a planned treatment visit. Ask which later appointments depend on the exam and what will happen if they do not fit your travel dates.",
+    "forWhom": "Travelers considering a dental assessment or discussing implants, veneers or whitening with a dentist in Korea.",
+    "conditions": [
+      "Suitability, number of visits, laboratory steps and price depend on the clinic’s assessment and the proposed treatment."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "international dental appointment booking",
+      "assessment and dental visit dates",
+      "providing dental records abroad"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w39-snuh-dental",
+        "title": "Seoul National University Hospital dental appointment FAQ",
+        "url": "https://snuh.org/global/en/about/faqList.do",
+        "note": "Directs dental appointment queries to the separate Seoul National University Dental Hospital International Dental Service Center.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w39-seoul-dental",
+        "title": "Seoul Metropolitan Government listing for Seoul National University Dental Hospital",
+        "url": "https://medical.visitseoul.net/organization/hospital/hospitalDetail/120",
+        "note": "Identifies the dental hospital and its international patient service.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w39-nhs-treatment-checklist",
+        "title": "NHS treatment abroad checklist",
+        "url": "https://www.nhs.uk/using-the-nhs/healthcare-abroad/going-abroad-for-treatment/treatment-abroad-checklist/",
+        "note": "Suggests arranging aftercare, record sharing and possible later visits before leaving for treatment.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask what the first appointment covers and which later bookings depend on the dental exam."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1634,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "negotiating-rent-with-korean-landlords": {
+    "id": "guide:negotiating-rent-with-korean-landlords",
+    "categoryId": "where-to-stay",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Name the terms you want to change and ask for the full revised offer in writing. Compare rent, deposit, building charges and repairs as one deal. Check the property and broker independently before paying.",
+    "forWhom": "People considering a rental offer and looking for a practical way to discuss the terms.",
+    "conditions": [
+      "Fees and terms vary with the property and agreement. Ask a housing counselor about rules that apply to your case."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "written Korean rental offer",
+      "rent and building fee negotiation",
+      "pre-signing property checks"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w39-seoul-broker",
+        "title": "Seoul Real Estate Information Plaza brokerage fee table",
+        "url": "https://land.seoul.go.kr/land/broker/brokerageCommission.do",
+        "note": "Describes discussing the fee within applicable limits and shows separate schedules by property type.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w39-seoul-lease",
+        "title": "Seoul Real Estate Information Plaza pre-contract checks",
+        "url": "https://land.seoul.go.kr/land/broker/estateBrokerageGuide.do",
+        "note": "Describes checking the owner, broker registration and property defects before signing.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for the entire revised offer in writing when the deposit, rent or included costs change."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1635,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "dealing-with-korean-landlords-common-issues": {
+    "id": "guide:dealing-with-korean-landlords-common-issues",
+    "categoryId": "where-to-stay",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Record what is happening and when it started. Send a short written report to the landlord, agent or building manager using the contact in your agreement. Ask for the repair plan and keep the reply in case you need advice.",
+    "forWhom": "Renters who need a practical way to report a leak, broken fixture or similar housing issue.",
+    "conditions": [
+      "Responsibility and dispute routes depend on the issue, contract and location. Verify the current advice route and whether you can use it."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "report apartment repair in Korea",
+      "landlord repair documentation",
+      "Seoul lease counseling"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w39-seoul-resident-consult",
+        "title": "Seoul foreign resident services directory",
+        "url": "https://global.seoul.go.kr/hmpg/ainf/ctrs/frct/srch/dopr/doprListPage.do?cntr_no=04E34E2046394333BCC451C20A4850D9",
+        "note": "Lists a housing and real estate consultation for foreign residents, including housing disputes.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w39-seoul-housing-portal",
+        "title": "Seoul Housing Portal lease counseling and mediation",
+        "url": "https://housing.seoul.go.kr/site/main/content/sh04_020100",
+        "note": "Lists advice for lease disputes and how to contact the city office.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Send a dated description and ask for the next repair step in writing."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1636,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-apartment-etiquette-what-neighbors-expect-2026": {
+    "id": "guide:korean-apartment-etiquette-what-neighbors-expect-2026",
+    "categoryId": "where-to-stay",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask for the building’s entry, quiet and waste instructions when you arrive. Find the correct waste area and check how the building handles food scraps before buying a bag or using a bin.",
+    "forWhom": "Visitors staying in an apartment and people moving into a building in Korea.",
+    "conditions": [
+      "Rules can vary by district, building and type of stay. Use the building’s current house rules."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean apartment arrival rules",
+      "district waste instructions",
+      "building quiet hours and contacts"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w39-seoul-waste",
+        "title": "Seoul foreign resident guidance on household waste",
+        "url": "https://global.seoul.go.kr/hmpg/finf/elsi/wast/contPageDetail.do?conts_no=9B31E123320D4935BD07B1D413DF0035",
+        "note": "Says food-waste collection methods differ by district and residence type.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask the host which waste method your building uses before buying bags or putting out food scraps."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1637,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-etiquette-for-business-meetings-business-cards-and-bowing-2026": {
+    "id": "guide:korean-etiquette-for-business-meetings-business-cards-and-bowing-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Confirm the building, host and meeting language in advance. Bring a card or another way to exchange details. Read the room, follow the host’s greeting and ask where to sit.",
+    "forWhom": "Travelers attending a scheduled meeting with a host or partner in Korea.",
+    "conditions": [
+      "Greeting and meeting preferences vary by host and workplace. Match the tone and instructions you receive."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korea business visit first meeting",
+      "Korean business card etiquette",
+      "meeting arrival and follow-up"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w39-ita-meeting",
+        "title": "U.S. International Trade Administration Korea business travel guide",
+        "url": "https://www.trade.gov/country-commercial-guides/south-korea-business-travel",
+        "note": "Describes using both hands with a small bow for exchanging cards as example etiquette.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the correct arrival point, language and host contact before a first business meeting."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1638,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-work-culture-what-foreigners-need-to-know-2026": {
+    "id": "guide:korean-work-culture-what-foreigners-need-to-know-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask for the written terms before accepting. Check pay, working hours, work location, duties and the proposed start date. Ask how changes will be recorded and where to get official advice about a term you do not understand.",
+    "forWhom": "People considering an offer from an employer in Korea who want a checklist for the written conditions.",
+    "conditions": [
+      "Applicable rules depend on the workplace and employment arrangement. Status of stay may also affect when work is permitted."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korea written job offer checks",
+      "work contract pay and hours",
+      "foreign worker consultation"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w39-kotra-employment",
+        "title": "KOTRA Invest Korea human resources and labor guide",
+        "url": "https://www.investkorea.org/ik-en/cntnts/i-5049/web.do",
+        "note": "Summarizes the terms to check in a written employment contract, including wages and hours.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w39-moel-1350",
+        "title": "Ministry of Employment and Labor consultation channels",
+        "url": "https://1350.moel.go.kr/home/hp/ch/callchat.do",
+        "note": "Lists the ministry’s 1350 consultation number and service hours.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w39-seoul-labor-rights",
+        "title": "Seoul foreign resident labor information",
+        "url": "https://global.seoul.go.kr/hmpg/finf/empl/lbrp/contPageDetail.do?conts_no=3FE93823837543D6B3AE6DF096C4EF19&lang=en",
+        "note": "Lists employment contract checks and routes to ask about workplace concerns.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Get the written terms and resolve differences in pay, duties and start dates before accepting."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1639,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
   }
 }

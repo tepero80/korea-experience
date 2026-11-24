@@ -18,6 +18,8 @@ author: Korea Experience Editorial
 | Plan | Prepare the job-seeking activity plan, including concrete past and future steps if requested. |
 | Work | Ask whether a specific internship or proposed job needs a report or a change in status before beginning it. |
 
+If an employer makes an offer, use the [written job offer checklist](/blog/korean-work-culture-what-foreigners-need-to-know-2026) to review its terms and confirm permission before starting.
+
 ## Leave time for the actual application
 
 Confirm which office or service accepts the case. Ask which deadline and extension rules apply to your category and what to do while the request is pending. Keep the reply, submission record and any requested follow-up documents. Tell immigration about travel outside Korea before making firm bookings.

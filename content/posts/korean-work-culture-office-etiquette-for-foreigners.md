@@ -76,34 +76,17 @@ When exchanging introductions, establishing who is senior is the first order of 
 
 For everyday interactions, keep these [polite Korean phrases](/blog/korean-honorifics-in-everyday-situations-practical-phrases-and-when-to-use-them) handy.
 
+If you are visiting for a scheduled conversation, use the [first business meeting checklist](/blog/korean-etiquette-for-business-meetings-business-cards-and-bowing-2026) to arrange arrival and confirm greetings and next steps.
+
 ## The Art of the Greeting and Business Cards
 
-First impressions in Korea are cemented within the first 3 to 5 seconds of a meeting. The physical act of greeting is formalized and carries weight.
+Follow the host’s lead at the start of a meeting. For an internal introduction, ask what name or title your colleague prefers.
 
 ### The Bow
-The bow is the standard greeting. For a foreigner, a slight nod is often forgiven, but a proper bow earns immense respect.
-*   **The 15-degree bow:** Used for casual greetings with colleagues of similar rank or when passing in hallways.
-*   **The 30-45 degree bow:** Used for meeting clients, superiors, or elders.
-*   **Handshakes:** Often accompany the bow. Support your right forearm with your left hand to show respect. A one-handed handshake is reserved for superiors initiating the gesture toward subordinates.
+A slight bow can accompany an introduction. If the host offers a handshake, follow their lead. The custom depends on the context and the people meeting.
 
 ### Business Card Etiquette (Myeongham)
-Your business card is an extension of your face and identity. Treating it poorly is akin to disrespecting the person. Standard Korean business cards are 90mm x 50mm. You should have about 100 cards printed immediately upon arrival or before your trip, costing roughly $20 to $40 for a standard box.
-
-<StepGuide
-  title="How to Exchange Business Cards"
-  totalTime="2 minutes"
-  difficulty="medium"
-  steps={[
-    { title: "Preparation", description: "Have your cards ready in a cardholder, not your wallet or pocket. Ensure they are pristine.", tip: "Never hand out a bent or dirty card." },
-    { title: "Presentation", description: "Present the card with two hands, oriented so the recipient can read it immediately. Bow slightly.", tip: "If you have a Korean side, face that up." },
-    { title: "Reception", description: "Receive their card with two hands. Study it for 10-15 seconds. Note their title and name.", tip: "Do not put it away immediately." },
-    { title: "Placement", description: "If seated at a meeting table, place the cards in front of you on the table, arranged by the seating order of the counterparts." }
-  ]}
-/>
-
-<InfoBox type="warning" title="Business Card Taboo">
-  Never write on a person's business card in front of them using red ink. Historically, red names were associated with the deceased in shamanistic records. While this superstition is fading, it is best to avoid it in professional settings.
-</InfoBox>
+The [U.S. International Trade Administration’s business travel guide](https://www.trade.gov/country-commercial-guides/south-korea-business-travel) suggests offering a card with both hands and a slight bow. Make sure the recipient can read the card. When you receive one, read the name and role before putting it away.
 
 ## Working Hours and Office Face Time
 

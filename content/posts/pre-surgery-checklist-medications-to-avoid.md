@@ -18,6 +18,8 @@ The [NHS preparation guide](https://www.nhs.uk/tests-and-treatments/having-surge
 | Conflict | If two teams tell you different things, ask them to reconcile the instructions and give you the updated version. |
 | Contact | Confirm whom to call if travel, the procedure date or a dose schedule changes. |
 
+Before a planned procedure, use the [anesthesia discussion checklist](/blog/medical-procedures-under-local-vs-general-anesthesia) to confirm who will give you preparation and discharge instructions.
+
 ## Review the list again before you leave care
 
 Ask the team to check the written medicine plan at discharge and to explain which instructions apply after you travel. The [NHS discharge guide](https://www.nhs.uk/nhs-services/hospitals/going-into-hospital/being-discharged-from-hospital/) describes arranging care and contacts as part of leaving hospital. Share the current instructions with the clinician who will follow you.

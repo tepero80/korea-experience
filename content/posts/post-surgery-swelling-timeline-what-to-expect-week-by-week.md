@@ -18,6 +18,8 @@ author: Korea Experience Editorial
 | Visit | Save the Korean address and instructions for an assessment if your team asks you to come in. |
 | Travel | Ask whether appointment, transport or departure plans need to remain flexible. |
 
+If the clinic asks you to buy a garment separately, use the [compression garment purchasing checklist](/blog/compression-garments-where-to-buy-in-seoul) to confirm the exact specification and fitting.
+
 ## Carry the instructions with you
 
 The [NHS hospital-discharge guide](https://www.nhs.uk/nhs-services/hospitals/going-into-hospital/being-discharged-from-hospital/) describes planning help and contacts before leaving. Keep the instructions available offline. For an urgent medical concern, follow the urgent-care advice of your treating team or local emergency services.

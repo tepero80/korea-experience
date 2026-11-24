@@ -18,6 +18,8 @@ author: Korea Experience Editorial
 | Exit | Ask when the deposit is expected back, which notice you must give and what costs the written terms attach to an early departure. |
 | Options | Compare two written offers with your cash available. If a deposit is large, review the [HUG guarantee overview](https://www.khug.or.kr/hug/web/en/02/en02000002.jsp) and ask a qualified housing counselor about the specific lease. |
 
+If you ask the agent to change a term, see the [written rental offer checklist](/blog/negotiating-rent-with-korean-landlords) to compare the revised deal before accepting it.
+
 ## Make a choice that fits the length of your stay
 
 A lower monthly amount can tie up more money at signing. If you are only staying briefly, get a separate quote for a furnished stay with the same dates. Compare inclusions and the change policy before signing. Seoul’s overview also links to housing assistance resources for foreign residents.

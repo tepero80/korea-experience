@@ -18,6 +18,8 @@ Seoul’s [rental guidance](https://english.seoul.go.kr/service/living/housing/1
 | Cover | Ask the actual guarantee provider about eligibility, covered amount, application deadline, lease evidence and exclusions. Keep any confirmation of issuance. |
 | Proof | Keep the signed lease, receipts and any address, possession or fixed-date records the provider says it needs. |
 
+If a problem occurs during the lease, the [rental repair reporting guide](/blog/dealing-with-korean-landlords-common-issues) explains what to document and where to ask for help.
+
 ## Prepare for the return before you move
 
 Confirm the required notice, expected payment date and contact while there is still time before move-out. If payment may be delayed, ask your counselor or guarantee provider about the case before returning keys or changing address. Save financial records and dated correspondence together.
