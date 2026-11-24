@@ -17,6 +17,8 @@ image: /images/editorial/archive-seoul-chebu-dong-restaurant-queue-2013-1280.web
 | Changes | Cancellation deadline in Korean local time, refund amount and cost of reducing the party. |
 | Arrival | Exact branch, address, check-in time and any grace period. |
 
+Still choosing a venue? Our [Seoul Michelin lunch guide](/blog/michelin-seoul-lunch-under-50-2026) explains the differences between Bib Gourmand, Selected and starred restaurants before you get to the booking screen.
+
 ## Read the particular deposit and late-arrival rule
 
 Catchtable’s [L’Amant Secret example](https://www.catchtable.net/discovery/michelin-starred-restaurants-you-must-try-in-seoul.html) describes a deposit with different cancellation amounts depending on how close you are to the meal. It also describes a possible no-show decision after a late arrival of 15 minutes or more. Its [PERIGEE example](https://www.catchtable.net/discovery/where-to-eat-michelin-selected-in-seoul.html) instead illustrates a deposit and a same-day reduction charge stated per person. Use the terms attached to your booking for the price and deadlines. Save a screenshot or email and contact the restaurant promptly if your party or arrival time changes.

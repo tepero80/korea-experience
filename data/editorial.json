@@ -42360,5 +42360,260 @@
     "changeType": "rewrite",
     "launchOrder": 1546,
     "heroOmissionReason": "The lead comparison sets out the applicable billing and refund distinctions. No location photograph is needed to use this guide."
+  },
+  "michelin-seoul-lunch-under-50-2026": {
+    "id": "guide:michelin-seoul-lunch-under-50-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with Bib Gourmand for a Seoul lunch on a fixed budget. Michelin’s 2026 Korea selection describes a full meal below ₩45,000 per person. Check the restaurant’s current menu, extras and lunch hours before relying on that figure.",
+    "forWhom": "Visitors choosing one meal from Michelin’s Seoul lists.",
+    "conditions": [
+      "Published menu totals and the specific branch matter.",
+      "The guide’s price benchmark is per person."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "dining",
+      "restaurant reservations"
+    ],
+    "relations": [
+      {
+        "slug": "catchtable-global-michelin-reservation-guide-2026",
+        "type": "next",
+        "label": "Check the booking and cancellation terms",
+        "reason": "Find out whether a listing books directly or through Catchtable Global, then check the deposit and cancellation window."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w28-korea-bib",
+        "title": "MICHELIN Guide Seoul & Busan 2026",
+        "url": "https://guide.michelin.com/kr/en/article/michelin-guide-ceremony/korea-bib-gourmand-2026",
+        "note": "Korea’s 2026 Bib Gourmand meal-price benchmark and Seoul selection.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w28-michelin-labels",
+        "title": "MICHELIN Guide distinctions",
+        "url": "https://guide.michelin.com/gb/en/article/features/the-michelin-guide-101",
+        "note": "Meaning of Star, Bib Gourmand and Selected.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w28-okdongsik-kr",
+        "title": "MICHELIN listing for Okdongsik in Korean",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/okdongsik",
+        "note": "Korean street address, pork soup and direct booking.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w28-hwangsaengga-kr",
+        "title": "MICHELIN listing for Hwangsaengga Kalguksu in Korean",
+        "url": "https://guide.michelin.com/kr/ko/seoul-capital-area/kr-seoul/restaurant/hwangsaengga-kalguksu",
+        "note": "Korean street address, beef broth noodles, dumplings and direct booking.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Start with Bib Gourmand for a budget-led Seoul lunch."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1547,
+    "heroOmissionReason": "The guide compares list distinctions and booking checks. It links verified listings and maps without presenting another restaurant’s meal as an example."
+  },
+  "managing-weak-krw-exchange-rate-2026": {
+    "id": "guide:managing-weak-krw-exchange-rate-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "When a terminal offers a currency choice, check the total and normally choose KRW. That lets your card provider handle conversion. Check the issuer’s fees and compare a cash quote by the amount of won you receive.",
+    "forWhom": "Visitors paying with a foreign card or exchanging cash before and during a Korea trip.",
+    "conditions": [
+      "Your issuer’s terms determine the actual card cost.",
+      "ATM and exchange-counter fees vary."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "planning",
+      "travel money"
+    ],
+    "relations": [
+      {
+        "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+        "type": "next",
+        "label": "Find a foreign-card ATM in Korea",
+        "reason": "Check the ATM labels, which charges can stack and what to do when one machine rejects the card."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w28-kto-won",
+        "title": "Korea Tourism Organization currency and exchange guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?menuSn=374&vcontsId=140040",
+        "note": "Won as the local currency and official links for exchange and airport banks.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w28-visa-dcc",
+        "title": "Visa on dynamic currency conversion",
+        "url": "https://www.visa.com/en-gb/personal/travel/dynamic-currency-conversion",
+        "note": "What a terminal may offer, including markups and the choice to decline.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w28-visa-rates",
+        "title": "Visa exchange rate calculator and limitations",
+        "url": "https://www.visa.com/en-us/personal/travel/exchange-rate-calculator",
+        "note": "Indicative conversion and the exception for merchant or ATM conversion.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Compare card or cash options using the total cost, including fees."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1548,
+    "heroOmissionReason": "A worked example and a payment comparison table convey the decision without a decorative image of cash."
+  },
+  "korean-sheet-mask-guide-top-brands-and-ingredients": {
+    "id": "guide:korean-sheet-mask-guide-top-brands-and-ingredients",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Compare the shelf price per sheet, then check that singles and boxes contain the exact variety you want. Read the ingredient list and instructions on the package before buying several.",
+    "forWhom": "Korea visitors buying a few sheet masks for travel or a boxed set to take home.",
+    "conditions": [
+      "Formulas and pack sizes vary by version.",
+      "Check airport rules for any wet pouches you want to carry."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "sheet masks",
+      "unit pricing"
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "next",
+        "label": "Plan your first Olive Young stop",
+        "reason": "Use the in-store shopping guide to decide what to compare and what to confirm at the till."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w28-abib-mask",
+        "title": "Abib Heartleaf sheet-mask label",
+        "url": "https://en.abib.com/products/heartleaf-sticker",
+        "note": "Example of a named variety, ten individual 27 mL sachets and a published ingredients list.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w28-icn-liquids",
+        "title": "Incheon Airport carry-on liquids FAQ",
+        "url": "https://airport.kr/ap_en/1434/subview.do",
+        "note": "International carry-on liquid, spray and gel rules at Incheon.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the variant and divide the box price by the sheet count."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1549,
+    "heroOmissionReason": "A label example and unit-price comparison are more useful than a generic cosmetic photo for identifying the correct pack."
+  },
+  "korean-sunscreen-guide-chemical-vs-physical": {
+    "id": "guide:korean-sunscreen-guide-chemical-vs-physical",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Identify the UV filters on the exact product, then compare any white cast, the finish and water-resistance wording. The filter category alone cannot tell you how a sunscreen will look or feel on you.",
+    "forWhom": "Visitors comparing everyday sunscreen at a Korean beauty shop or before an outdoor day.",
+    "conditions": [
+      "Check the version sold in the store.",
+      "Follow the package directions and verify carry-on limits."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "sunscreen labels",
+      "sun protection"
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "next",
+        "label": "Plan where to compare skincare in person",
+        "reason": "Get oriented in a Korean beauty shop and confirm the exact variant, packaging and price before checkout."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w28-drg-mineral",
+        "title": "Dr.G Green Mild Up Sun+ product label",
+        "url": "https://www.dr-g.com/our-products/green-mild-up-sun",
+        "note": "Example of zinc oxide as a mineral UV filter in a named product.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w28-boj-relief-sun",
+        "title": "Beauty of Joseon Relief Sun variant listed for Australia",
+        "url": "https://beautyofjoseon.com/products/relief-sun-rice-probiotics?country=AU",
+        "note": "Example of named organic UV filters on the version listed for Australia.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w28-fda-sunscreen",
+        "title": "FDA guidance on protection labels and water resistance",
+        "url": "https://www.fda.gov/drugs/understanding-over-counter-medicines/sunscreen-how-help-protect-your-skin-sun",
+        "note": "Water-resistant labeling and application for exposure to water or sweat.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w28-icn-liquids",
+        "title": "Incheon Airport carry-on liquids FAQ",
+        "url": "https://airport.kr/ap_en/1434/subview.do",
+        "note": "Sunscreen among the carry-on gel examples and the 100 mL container limit.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Compare the filter list, finish and water resistance on the actual tube."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1550,
+    "heroOmissionReason": "A comparison table and exact product labels explain the visual selection task without an unverifiable sunscreen package photo."
   }
 }

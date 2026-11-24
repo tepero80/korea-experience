@@ -36,6 +36,8 @@ The [SC Korea English ATM service table](https://www.standardchartered.co.kr/hp/
 
 [Visa's DCC guidance](https://www.visa.com/en-gb/personal/travel/dynamic-currency-conversion) says the offer should disclose both currencies, the exchange rate and added fees, with a choice to accept or decline conversion. Read the terms of the actual offer; do not let an unfamiliar screen rush the decision.
 
+Compare what the withdrawal would actually cost with a card purchase or a cash-counter quote using the [Korean won and payment-fee guide](/blog/managing-weak-krw-exchange-rate-2026).
+
 ## Keep a payment fallback before the problem
 
 [KTO's currency guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140040) says cards are widely accepted, while recommending confirmation at individual services. Keep a second independent payment method and a KRW fallback suitable for your route. Do not assume every restaurant, transport machine or card will work the same way.

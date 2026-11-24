@@ -39,6 +39,8 @@ For category and product-selection help, use the [Olive Young product shortlist]
 
 Shopping for a branded item elsewhere? [Check the seller, documentation and dispute options](/blog/korean-counterfeit-products-how-to-spot-fakes) before relying on packaging alone.
 
+For the mask aisle, use the [Korean sheet-mask label and pack guide](/blog/korean-sheet-mask-guide-top-brands-and-ingredients) to compare a loose sachet with a multipack before deciding what to carry home.
+
 ## At checkout, identify the refund route
 
 Ask before paying whether the store participates and which route it offers. The [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736) lists **₩15,000 or more per qualifying receipt**. Its immediate refund rules set a payment limit **below ₩1,000,000** and a qualifying trip total of **₩5,000,000 or less**. Visitor eligibility and seller participation also matter.

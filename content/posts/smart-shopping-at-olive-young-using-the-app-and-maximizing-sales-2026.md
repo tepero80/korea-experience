@@ -10,6 +10,8 @@ featured: false
 
 Start with a product list and compare the final payable price, including shipping or the cost of a store trip. A displayed discount is only useful if the exact size, offer channel and eligibility match your purchase.
 
+Shopping for sun protection? Use the [mineral and chemical sunscreen label guide](/blog/korean-sunscreen-guide-chemical-vs-physical) to compare the exact tubes on the shelf.
+
 ## Read the offer first
 
 | Offer | What to check |
