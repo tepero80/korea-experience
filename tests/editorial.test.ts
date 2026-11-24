@@ -21,7 +21,7 @@ import {
 import { compileGuideContent } from '../components/MDXContent';
 import { PLACES, placesFor } from '../lib/editorial';
 import { getPostBySlug, getRelatedPosts } from '../lib/posts';
-import { generatedArchiveCoverHash } from '../lib/media';
+import { generatedArchiveCoverHash, guideHeroPhotograph } from '../lib/media';
 import { guidePreviewImage, guideSchema } from '../lib/seo';
 
 test('identified archive illustrations are not used as article preview photographs', () => {
@@ -80,6 +80,19 @@ test('automatic recommendations need a specific shared interest', () => {
   const water = getRelatedPosts('finding-seoul-outdoor-drinking-water-fountains-arisu-map');
   assert.equal(water[0]?.slug, 'finding-public-restrooms-in-korea-station-mall-and-accessible-facilities');
   assert.ok(!water.some((post) => post.slug === '24-hour-english-pharmacies-in-seoul-2026'));
+});
+
+test('related care guides keep body links and show only photographed recommendations', () => {
+  const records = 'korean-medical-records-getting-english-translations';
+  const followUp = 'telemedicine-follow-ups-2026';
+
+  for (const [from, to] of [[records, followUp], [followUp, records]]) {
+    const guide = getPostBySlug(from);
+    assert.ok(guide?.content.includes(`/blog/${to}`));
+    for (const recommendation of getRelatedPosts(from)) {
+      assert.ok(guideHeroPhotograph(recommendation.editorial?.heroMediaId, recommendation.image));
+    }
+  }
 });
 
 test('separate-ticket transfer guidance follows an Incheon terminal check', () => {

@@ -174,12 +174,10 @@ export function getRelatedPosts(currentSlug: string, limit = 3): PostMetadata[] 
       const score =
         (sameRegion ? 3 : 0) + interests * 2 + (post.categoryId === current.categoryId ? 2 : 0);
       if (score < 3) return [];
-      return [{ post, score, hasPhoto: Boolean(guideHeroPhotograph(guide.heroMediaId, post.image)) }];
+      if (!guideHeroPhotograph(guide.heroMediaId, post.image)) return [];
+      return [{ post, score }];
     })
-    .sort(
-      (a, b) =>
-        b.score - a.score || Number(b.hasPhoto) - Number(a.hasPhoto) || a.post.slug.localeCompare(b.post.slug),
-    );
+    .sort((a, b) => b.score - a.score || a.post.slug.localeCompare(b.post.slug));
   return [...curated, ...fallback.map((x) => x.post)].slice(0, limit);
 }
 export function getFeaturedPosts() {

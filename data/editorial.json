@@ -43373,5 +43373,348 @@
     "changeType": "rewrite",
     "launchOrder": 1564,
     "heroOmissionReason": "A credited photograph appears beside the table instructions."
+  },
+  "licensed-medical-coordinator-guide-2026": {
+    "id": "guide:licensed-medical-coordinator-guide-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Search the coordinator’s company name or registration number in Medical Korea’s facilitator directory. Confirm the exact treating facility independently before sending money or records.",
+    "forWhom": "Travelers approached by an agency, coordinator or interpreter for medical care in Korea.",
+    "conditions": [
+      "A facilitator may arrange services. The treating facility and clinician handle clinical questions and consent."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "medical travel facilitator",
+      "clinic verification",
+      "written estimates"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w32-facilitators",
+        "title": "Medical Korea: registered facilitators",
+        "url": "https://www.medicalkorea.or.kr/en/registeredfacilitators",
+        "note": "Lists registered facilitators separately, with organization names and registration numbers.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w32-hospitals",
+        "title": "Medical Korea: registered hospitals",
+        "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+        "note": "Provides a separate listing for medical institutions serving foreign patients.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the facilitator and the treatment facility in separate directories."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1565,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "medical-tourism-safety-statistics-2026": {
+    "id": "guide:medical-tourism-safety-statistics-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Korea’s published foreign-patient figures describe service use. For a treatment decision, ask the facility about the clinician, alternatives, follow-up and what happens if you need unexpected care.",
+    "forWhom": "Readers comparing clinic advertising with Korea’s published medical travel data.",
+    "conditions": [
+      "The 2025 release uses the official foreign-patient counting definition. Use the original report when comparing years."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "medical tourism statistics",
+      "patient volumes",
+      "facility checks"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w32-khidi-2025",
+        "title": "KHIDI: 2025 foreign patient count",
+        "url": "https://www.khidi.or.kr/board/view?linkId=48945678&menuId=MENU00100",
+        "note": "The 2025 total is reported on a real-patient basis.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w32-medicalkorea-counting",
+        "title": "Medical Korea: international patient statistics",
+        "url": "https://www.medicalkorea.or.kr/en/global",
+        "note": "Defines the counting unit and reports patient volumes by institution and time.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w32-fcdo",
+        "title": "UK travel guidance on treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Recommends checking the proposed treatment, complications and return arrangements.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check which patients a report counts and what outcome it actually measures."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1566,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "choosing-between-large-hospitals-vs-boutique-clinics": {
+    "id": "guide:choosing-between-large-hospitals-vs-boutique-clinics",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Compare the two facilities’ written answers to the same questions about your exact visit. Ask who will treat you, what services are available at that branch and who will handle follow-up.",
+    "forWhom": "Travelers holding two care options in Korea who need to compare practical support.",
+    "conditions": [
+      "Capabilities and availability vary by facility, team and appointment. Confirm any service needed for your own visit."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "clinic comparison",
+      "international healthcare",
+      "follow-up contacts"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w32-hospitals",
+        "title": "Medical Korea: registered hospitals",
+        "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+        "note": "Provides a separate listing for medical institutions serving foreign patients.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w32-accreditation",
+        "title": "Medical Korea: accreditation program",
+        "url": "https://www.medicalkorea.or.kr/en/kahf",
+        "note": "Explains the separate accreditation program and links to the current facility list.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w32-fcdo",
+        "title": "UK travel guidance on treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Recommends checking the proposed treatment, complications and return arrangements.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask which services are available at the branch where you will actually be treated."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1567,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "post-op-exercise-when-to-resume-gym-and-cardio": {
+    "id": "guide:post-op-exercise-when-to-resume-gym-and-cardio",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Show the treating team what you plan to do in Korea, including walking, stairs, luggage and workouts. Ask for individual written instructions before booking activities you may need to change.",
+    "forWhom": "Visitors planning sightseeing or exercise around a procedure or discharge in Korea.",
+    "conditions": [
+      "Individual advice depends on the procedure and your recovery. Ask your treating team when it should be reassessed."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "after surgery travel",
+      "activity restrictions",
+      "flexible bookings"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w32-wsh-aftercare",
+        "title": "West Suffolk NHS: after surgery",
+        "url": "https://www.wsh.nhs.uk/patients/preparing-for-surgery/after-surgery",
+        "note": "Describes procedure-specific discharge instructions and exercise guidance from the treating team.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w32-fcdo",
+        "title": "UK travel guidance on treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Recommends checking the proposed treatment, complications and return arrangements.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask how your instructions apply to stairs, a full sightseeing day and your luggage."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1568,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "telemedicine-follow-ups-2026": {
+    "id": "guide:telemedicine-follow-ups-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the treating clinic whether it can hold the specific follow-up while you are in your destination country. Confirm whether the clinician needs an in-person exam and arrange a fallback before departure.",
+    "forWhom": "Visitors returning home after treatment in Korea who have been told to arrange a follow-up.",
+    "conditions": [
+      "The clinic confirms the options and whether your follow-up is appropriate for video. Ask for its instructions in writing."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "remote follow-up",
+      "medical records",
+      "continuity of care"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w32-bristol-video",
+        "title": "University Hospitals Bristol and Weston: video appointment FAQ",
+        "url": "https://www.uhbristol.nhs.uk/patients-and-visitors/drdoctor/video-consultations/patient-faqs/",
+        "note": "Shows why physical examination and diagnostic testing may require a different visit type.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w32-medline-handoff",
+        "title": "MedlinePlus: discharge planning",
+        "url": "https://medlineplus.gov/ency/patientinstructions/000867.htm",
+        "note": "Explains the discharge plan, appointments and written instructions.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w32-fcdo",
+        "title": "UK travel guidance on treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Recommends checking the proposed treatment, complications and return arrangements.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask whether the clinic can hold the planned appointment while you are in your home country."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1569,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "same-day-dental-implants-2026": {
+    "id": "guide:same-day-dental-implants-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the clinic to name each step in its same-day offer. Placing an implant at extraction, providing a temporary tooth and fitting the final crown are different parts of the plan.",
+    "forWhom": "Travelers considering an advertisement for a same-day dental implant in Korea.",
+    "conditions": [
+      "Only the treating dentist can decide which steps are appropriate and when they can take place."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "same-day implants",
+      "temporary crown",
+      "dental travel"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w32-hra-immediate",
+        "title": "UK Health Research Authority: implant placement terminology",
+        "url": "https://www.hra.nhs.uk/planning-and-improving-research/application-summaries/research-summaries/immediate-vs-conventional-implant-placement/",
+        "note": "Defines immediate implant placement relative to extraction.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w32-fda-implants",
+        "title": "FDA: dental implants, what you should know",
+        "url": "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know",
+        "note": "Describes implant system components and recommends recording the brand and model.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Get the first-day work and the final tooth itemized separately."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1570,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "full-mouth-dental-implants-in-korea-price-comparison-and-timeline-2026": {
+    "id": "guide:full-mouth-dental-implants-in-korea-price-comparison-and-timeline-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask for a written quote that names one or both arches, what the temporary and final teeth cost, who fits them and which appointments the plan requires.",
+    "forWhom": "Visitors comparing written estimates for extensive dental implant treatment in Korea.",
+    "conditions": [
+      "The treating dentist sets an individual plan. Included services and visit schedules vary."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "dental implant quote",
+      "multiple appointments",
+      "dental follow-up"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w32-guys-implants",
+        "title": "Guy’s and St Thomas’: having a dental implant",
+        "url": "https://www.guysandstthomas.nhs.uk/health-information/dental-implants/having-dental-implant",
+        "note": "Explains the fittings and appointments that may be involved in the restoration.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w32-fda-implants",
+        "title": "FDA: dental implants, what you should know",
+        "url": "https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know",
+        "note": "Describes implant system components and recommends recording the brand and model.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Compare quotes for the same number of arches."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1571,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
   }
 }

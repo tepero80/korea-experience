@@ -27,6 +27,8 @@ Where practical, choose accommodation and transport arrangements that can be cha
 
 Do not schedule sightseeing or a long transfer immediately after treatment without discussing it with your care team. Ask whether you will need assistance carrying luggage, walking, taking medication, or attending follow-up. These needs vary by treatment and person.
 
+For plans that depend on walking, stairs or carrying a suitcase, use the [activity questions for your treating team](/blog/post-op-exercise-when-to-resume-gym-and-cardio) before paying for tickets or passes.
+
 ## Prepare records and travel documents
 
 Before departure, request the documents your home clinician may need, such as a medical summary, medication list, test results, or procedure details. Ask which documents are available in English and whether additional translation is needed. Keep copies of receipts, consent forms, prescriptions, and the clinic's contact information in a secure place.

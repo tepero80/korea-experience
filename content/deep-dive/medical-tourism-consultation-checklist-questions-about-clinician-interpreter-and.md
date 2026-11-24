@@ -28,6 +28,8 @@ Request an itemized written estimate that separates the clinician's fees, facili
 
 If an agency is involved, ask for its legal business name, registration details where applicable, scope of work, fees, and responsibility for arranging follow-up. Korean law treats foreign-patient-attraction registration for medical institutions and attraction businesses as distinct categories; verify the entity relevant to the service rather than assuming one registration covers everyone involved.
 
+If an agency gave you the quote, check [the coordinator and the treating facility separately](/blog/licensed-medical-coordinator-guide-2026) before making a payment.
+
 ## Plan follow-up before travel
 
 Ask the treating clinician what follow-up is recommended and how you can contact the clinic after leaving Korea. If you will fly after treatment, ask the clinician to assess your individual fitness to travel and check any relevant airline requirements. There is no single safe waiting period that applies to every procedure and patient.

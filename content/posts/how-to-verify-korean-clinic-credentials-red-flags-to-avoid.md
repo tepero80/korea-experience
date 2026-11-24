@@ -23,6 +23,8 @@ Ask whether a quoted estimate includes consultation, tests or follow-up if they 
 
 When you contact the actual clinic, [confirm how to request a medical interpreter](/blog/medical-interpreter-services-in-korean-clinics-do-you-need-one) and who will be with you during the appointment.
 
+If a brochure cites national patient figures, [check what those statistics count](/blog/medical-tourism-safety-statistics-2026) before treating them as evidence about the facility.
+
 ## Confirm the appointment and travel plan separately
 
 Ask who the appointment is with, who explains consent and what happens if your appointment changes. Bring the clinic any records it asks for using its approved channel. Ask the treating clinician whether your dates allow any required follow-up or changes to your travel plans. Discuss any assessment or image-access request with the facility directly.

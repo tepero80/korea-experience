@@ -17,6 +17,8 @@ Ask what the person receiving it needs in order to act. You may need more than o
 | Continue care at home | The relevant notes and reports. For imaging, ask whether they need the written report, the image files or both. |
 | Document a claim | The itemized receipt, evidence of payment and any separate certificate or form requested by your insurer. |
 
+If a follow-up is planned after you leave Korea, use the [remote follow-up checklist](/blog/telemedicine-follow-ups-2026) to confirm the appointment and choose how the clinic will send records.
+
 ## Ask while you can speak to the treating team
 
 Show the doctor's office the recipient's requested document names. Confirm the spelling of your name, the visit dates and the intended method of delivery. If the document is only available in Korean, first ask whether the recipient accepts an English summary or requires a translation and which translation format is acceptable.

@@ -18,6 +18,8 @@ The [UK FCDO’s treatment-abroad guidance](https://www.gov.uk/guidance/in-hospi
 | Additional night or new ticket | Whether these costs have separate limits or triggers, and whether a companion’s costs are included. |
 | Emergency medical transport home | When the insurer arranges it, who decides and which approval or emergency number applies. |
 
+If the provider is still undecided, ask both facilities the same [questions about the visit and follow-up](/blog/choosing-between-large-hospitals-vs-boutique-clinics) before checking cover.
+
 ## Give the insurer your real itinerary
 
 Say that you plan to receive treatment in Korea. Give the relevant dates, procedure and any other details the insurer asks for through its official channel. [FCDO travel insurance guidance](https://www.gov.uk/guidance/foreign-travel-insurance) explains why disclosures and cover for getting home matter. Ask the insurer to confirm its answer in writing and point to the relevant clauses, limits, exclusions and excess. Keep clinic estimates separate from what your insurance confirms.
