@@ -41,6 +41,8 @@ For two people, sharing a small initial order can leave room to decide what you 
 
 Still choosing between markets? [Compare a prepared-food stop here with a seafood meal at Noryangjin](/blog/seoul-food-markets-guide-gwangjang-to-noryangjin-2026) before making the trip.
 
+To turn food browsing into a hands-on activity, [compare Korean cooking classes](/blog/k-food-cooking-class-korean-home-cooking-experience-2026) and confirm the menu and meeting point.
+
 ## Keep the stop connected to the rest of the day
 
 Give yourself a meal/rest block and an exit point instead of browsing until the next reservation becomes rushed. Choose a nearby continuation in your map; do not add Seongsu or a distant museum just because the market visit was shorter than expected.

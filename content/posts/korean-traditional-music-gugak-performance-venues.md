@@ -17,6 +17,8 @@ tags:
 draft: false
 ---
 
+For a first visit, [compare a gugak performance and its ticket conditions](/blog/korean-traditional-music-and-performance-guide-2026) before choosing a date.
+
 ## Pick the program and hall together
 
 | Check | What to verify |

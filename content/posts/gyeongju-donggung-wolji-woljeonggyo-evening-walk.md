@@ -43,6 +43,8 @@ The [city’s night guide](https://gyeongju.go.kr/tour/page.do?mnu_uid=4859) des
 
 The [bridge-specific city listing](https://www.gyeongju.go.kr/tour/page.do?area_uid=49&cmd=2&code_uid=1012&mnu_uid=4716) lists free entry and bridge hours of **09:00–22:00**. The [city’s night guide](https://gyeongju.go.kr/tour/page.do?mnu_uid=4859) lists the bridge interior and lighting separately from the gatehouse exhibition. Confirm posted hours, seasonal notices and the entrance before counting on a late crossing. If you only want the view, look from an open public path on the riverbank. Leave the stepping stones out of the route when it is dark, wet, icy or uncomfortable for your group.
 
+For a meal before the evening walk, [compare a Gyeongju ssambap sit-down with a shorter Hwangnam bread stop](/blog/gyeongju-traditional-cuisine-historic-recipes).
+
 ## Set a return point before you begin
 
 Save the name and Korean address of your lodging and check the return in [Gyeongju LIVE BUS](https://livebus.gyeongju.go.kr/) or your navigation app. Keep a pickup spot on a street you can reach, even if the site gate is closed. If you need a lift-equipped route or step-free access, confirm the individual entrances and surfaces with the sites and plan the onward street route separately. For KTX, the train station requires its own trip from the historic center. Use the [Gyeongju station transfer guide](/blog/gyeongju-ktx-to-hwangnidan) and leave a margin for your reserved train.

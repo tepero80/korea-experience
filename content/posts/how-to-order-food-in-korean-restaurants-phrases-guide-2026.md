@@ -45,6 +45,8 @@ Choose dine-in or takeaway, then your items, options and quantities. Read the fi
 
 The [Korea Tourism Organization’s restaurant guidance](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=903&vcontsId=229195) describes self-service, ordering machines and call buttons. It does not mean every restaurant has the same layout or payment system.
 
+If you are choosing a rice bowl, [compare bibimbap, hot stone-pot rice and bean-sprout rice](/blog/korean-rice-dishes-bibimbap-dolsot-kongnamul-bap) before ordering.
+
 ## Know what can be refilled
 
 Banchan are small accompanying dishes. **Ask before refilling**: an included side dish and an extra meat, noodle or rice item on the menu are different things. Do not assume a shared dish is vegetarian or safe for an allergy from its appearance.
@@ -52,6 +54,8 @@ Banchan are small accompanying dishes. **Ask before refilling**: an included sid
 <GuidePhoto id="banchan-dishes" caption="Banchan come in small dishes alongside the meal. This historical example shows the format; it cannot establish ingredients, free refills or allergy safety at the restaurant you visit." />
 
 For dietary needs, use the [ingredient and cross-contact questions](/blog/navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact) **before** placing an order. If staff cannot confirm a serious requirement, choose a different venue. For a grill meal, continue with the [barbecue portions and cooking guide](/blog/korean-barbecue-ordering-guide-cuts-portions-grills-and-shared-side-dishes).
+
+Wondering what the small plates are? [Check which Korean side dishes come with the meal](/blog/korean-banchan-side-dishes-complete-guide-2026) before ordering extras.
 
 ## Show one useful phrase at a time
 

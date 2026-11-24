@@ -25,6 +25,8 @@ Suppose a 50 mL product costs **₩34,000** at a city shop and an airport two-pa
 
 Before paying, enter the final price in one currency and add any card or conversion fee you know you will pay. Verify the allowance and declaration rules with the customs authority where you will enter. If you are returning to Korea, use [Korea Customs’ traveler allowance guide](https://customs.go.kr/english/cm/cntnts/cntntsView.do?cntntsId=2743&mi=8069). If you cannot estimate a cost or confirm a discount, compare the undiscounted total first.
 
+If you choose this retailer, [verify the Shinsegae pickup point and documents](/blog/shinsegae-duty-free-best-deals-for-tourists) before ordering.
+
 ## When an order is a poor fit
 
 - **You need to use it in Korea.** A pre-order for departure pickup does not solve that need. Check collection terms before buying. [Shilla’s pickup instructions](https://www.shilladfs.com/comm/kr/en/shoppingGuideStep3) describe collection in the bonded departure area for the purchases covered by its guide.

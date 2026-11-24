@@ -19,6 +19,8 @@ KUT describes CatchTable and Naver Booking, advance payment of the course amount
 
 The restaurant lists its address as 3F, Hanol Tower, 96 Jongno, Jongno-gu, Seoul (서울 종로구 종로 96 한올타워 3층). Check the [restaurant's own location information](https://kutseoul.com/lp/honeymoon-dinner-seoul/) and current opening times before leaving. If you have allergies or access needs, ask the restaurant before paying; a request is not confirmation that a course can be adapted.
 
+If you prefer tabletop barbecue to a tasting menu, [check how a grill handles one person and minimum orders](/blog/k-bbq-for-solo-1-person-restaurants-2026).
+
 ## Before you confirm
 
 | Review | What to confirm |

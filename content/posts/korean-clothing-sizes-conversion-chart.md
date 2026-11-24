@@ -21,6 +21,8 @@ Start with measurements and the individual garment, not a fixed conversion betwe
 
 [Nike Korea’s unisex chart](https://www.nike.com/kr/size-fit/gender-neutral-clothing-mens-based-alpha) illustrates how to read a guide based on body circumferences. If the shop instead gives garment dimensions, compare them with a similar garment you already own. Use the chart for the item and retailer you are buying from.
 
+If you are trying clothes in Hongdae, [choose the correct MUSINSA or MUSINSA STANDARD store](/blog/indie-fashion-in-musinsa-standard-2026) before checking the item’s size.
+
 ## At the fitting room
 
 Bring your measurements in centimeters, or measurements of a similar item that fits you. Compare like with like: a flat garment width is not necessarily the same as a body circumference. Ask the seller how each number was measured before comparing it with yours.

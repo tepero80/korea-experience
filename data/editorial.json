@@ -35335,5 +35335,776 @@
     "changeType": "rewrite",
     "launchOrder": 1399,
     "heroOmissionReason": "The decision table and Korean terms support this task. A suitable licensed original photograph was not verified."
+  },
+  "korean-banchan-side-dishes-complete-guide-2026": {
+    "id": "guide:korean-banchan-side-dishes-complete-guide-2026",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Check what comes with your particular meal before ordering more. Look for ban-chan (sides), namul (seasoned vegetables) and baekban (a set with rice and sides).",
+    "forWhom": "Travelers seated at a Korean restaurant and deciding what else to order",
+    "conditions": [
+      "The number, ingredients and price of sides vary by restaurant.",
+      "Ask before refilling or using a self-service station."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Side Dishes: What Comes With Your Meal?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-table-setting",
+        "title": "VISITKOREA: Korean meals and banchan",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=229195",
+        "note": "Describes Korean side dishes and common meal arrangements.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-baekban",
+        "title": "VISITKOREA: The baekban set meal",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=189672",
+        "note": "Describes combinations of rice, soup, main dishes and sides.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask which sides are included."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1400,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-rice-dishes-bibimbap-dolsot-kongnamul-bap": {
+    "id": "guide:korean-rice-dishes-bibimbap-dolsot-kongnamul-bap",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose by vessel and toppings. Dolsot means a hot stone bowl. Kongnamulbap is bean-sprout rice. Check sauces, egg, meat or broth on the actual menu.",
+    "forWhom": "Travelers choosing a Korean rice dish from a menu",
+    "conditions": [
+      "Recipes vary.",
+      "A dish name does not establish whether it suits an allergy or dietary requirement."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Bibimbap, Dolsot or Bean-Sprout Rice: How to Choose a Bowl"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-stone-rice",
+        "title": "VISITKOREA: Hot stone-pot bibimbap",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178036",
+        "note": "Identifies the dish and stone vessel.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-sprout-rice",
+        "title": "VISITKOREA: Bean-sprout rice",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=179077",
+        "note": "Identifies sprout rice and its accompanying sauce.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-jeonju-rice",
+        "title": "VISITKOREA: Jeonju bibimbap",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=231469",
+        "note": "Illustrates toppings in one regional bibimbap.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the bowl, toppings and sauce."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1401,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-bbq-for-solo-1-person-restaurants-2026": {
+    "id": "guide:k-bbq-for-solo-1-person-restaurants-2026",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask two questions before sitting: whether the restaurant takes one diner, and whether the first order has a minimum number of portions or requires a set.",
+    "forWhom": "Solo travelers looking for a tabletop barbecue meal",
+    "conditions": [
+      "Seating and minimum orders are different checks.",
+      "Restaurant examples do not establish a current price, seat or reservation."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean BBQ for One: Check the Minimum Order Before Sitting"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "woohwa-solo-faq",
+        "title": "Woohwa Hongdae: Restaurant FAQ",
+        "url": "https://www.hongdaekoreanbbq.com/en/faq",
+        "note": "The venue page describes a set for one and different terms for ordering cuts. Prices and seating can change.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-table-setting",
+        "title": "VISITKOREA: Korean meals and banchan",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=229195",
+        "note": "Describes Korean side dishes and common meal arrangements.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check one seat and the first-order minimum."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1402,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-buffet-culture-all-you-can-eat-options": {
+    "id": "guide:korean-buffet-culture-all-you-can-eat-options",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Read the session terms before comparing the price. Find out whether you serve yourself or ask for refills at the table, and which items cost extra.",
+    "forWhom": "Travelers deciding whether an unlimited dining offer works for their group",
+    "conditions": [
+      "Adult, child and day-specific terms depend on the booking.",
+      "There is no universal refill, overtime or leftovers rule."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Buffets and Unlimited Refill: Check the Session and Total"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "lotte-world-buffet",
+        "title": "Lotte Hotel World: La Seine buffet",
+        "url": "https://www.lottehotel.com/world-hotel/en/dining/restaurant-la-seine",
+        "note": "An operator example showing different sessions and child and adult rates.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the session, price and extras."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1403,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "gyeongju-traditional-cuisine-historic-recipes": {
+    "id": "guide:gyeongju-traditional-cuisine-historic-recipes",
+    "categoryId": "food-dining",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a ssambap meal around Daereungwon when you have time to sit. Save a Hwangnam bread stop as the shorter option and check your chosen shop’s hours.",
+    "forWhom": "Visitors fitting a local meal into a walk in central Gyeongju",
+    "conditions": [
+      "Shops choose their own hours, ingredients and minimums.",
+      "Use your chosen shop’s entrance pin to plan the following leg."
+    ],
+    "regions": [
+      "gyeongju"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Where to Start With Gyeongju Food: Ssambap and Hwangnam Bread"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-gyeongju-ssambap",
+        "title": "VISITKOREA: Gyeongju Ssambap Street",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=189232",
+        "note": "Lists the Korean street name, its location near Daereungwon and examples of dishes.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-gyeongju-bread",
+        "title": "VISITKOREA: Hwangnambbang",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=174265",
+        "note": "Identifies the red-bean bread associated with Hwangnam-dong.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Choose lunch or a shorter pastry stop."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1404,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "temple-stay-for-non-buddhists-2026": {
+    "id": "guide:temple-stay-for-non-buddhists-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Non-Buddhists can participate; ask the host about the activities and accommodation before booking.",
+    "forWhom": "First-time temple stay visitors",
+    "conditions": [
+      "Activities and rooms vary by temple."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Temple Stay for Non-Buddhists: What to Ask Before Booking"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "templestay-types",
+        "title": "Templestay programme types",
+        "url": "https://eng.templestay.com/en/MI000000000000000020/html/view.do",
+        "note": "Official types and participation guidance.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "templestay-belief",
+        "title": "Templestay FAQ",
+        "url": "https://eng.templestay.com/fe/MI000000000000000063/board/BO00000049/list.do",
+        "note": "Welcomes participation regardless of religion.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Activities and rooms vary by temple."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1405,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-traditional-music-and-performance-guide-2026": {
+    "id": "guide:korean-traditional-music-and-performance-guide-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a dated programme and check its hall, age limit and ticket terms.",
+    "forWhom": "Visitors choosing a first traditional music performance",
+    "conditions": [
+      "Programmes and ticket terms change."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "See Korean Traditional Music in Seoul: Pick a Performance"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "gugak-saturday-2026",
+        "title": "National Gugak Center Saturday concert",
+        "url": "https://www.gugak.go.kr/site/program/performance/detail?lang=en&menuid=001001001&performance_id=37048",
+        "note": "Dated 2026 event.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "gugak-ticket-guide",
+        "title": "National Gugak Center ticket booking",
+        "url": "https://www.gugak.go.kr/site/homepage/menu/viewMenu?lang=en&menuid=001001002001001",
+        "note": "Booking and international card limits.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Programmes and ticket terms change."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1406,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-food-cooking-class-korean-home-cooking-experience-2026": {
+    "id": "guide:k-food-cooking-class-korean-home-cooking-experience-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Select a class by menu and instruction language, then confirm your dietary needs and meeting point.",
+    "forWhom": "Travelers choosing a Korean cooking lesson",
+    "conditions": [
+      "Menus and places vary.",
+      "Ask about allergies and shared preparation."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Cooking Classes in Seoul: Choose the Right Session"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-ongo-class",
+        "title": "Korean Food Promotion Institute: HANSIK Space E:eum reservations",
+        "url": "https://resv.hansik.or.kr/main/main.do?language=en_US",
+        "note": "Program calendar and reservation lookup for the food experience center.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-hansik-experience",
+        "title": "VISITKOREA Bukchon Food Tour",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/hdrdslt/hdrdsltView.do?crsSn=565466",
+        "note": "HANSIK Space E:eum experience and languages.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Menus and places vary."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1407,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "historic-kdrama-sets-folk-villages-and-palaces": {
+    "id": "guide:historic-kdrama-sets-folk-villages-and-palaces",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Pick a site for its actual visitor experience and verify current access.",
+    "forWhom": "Travelers choosing a period-drama location",
+    "conditions": [
+      "Filming can restrict access.",
+      "Admission and programmes change."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Historical K-drama Places: Sets, Folk Villages and Palaces"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-dae-jang-geum-set",
+        "title": "VISITKOREA: Dae Jang Geum Park",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192854",
+        "note": "Locates an existing purpose-built drama set in Yongin and identifies filming examples.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "folk-admission",
+        "title": "Korean Folk Village admission",
+        "url": "https://www.koreanfolk.co.kr/ticket/admission-fees",
+        "note": "Admission and variable performance conditions.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Filming can restrict access."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1408,
+    "heroMediaId": "archive-mungyeongsaejae-open-film-set-walkway",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Mungyeong Saejae Open Film Set.jpg",
+      "author": "Choi2451",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mungyeong_Saejae_Open_Film_Set.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2018-03-23."
+    },
+    "heroCaption": "Recreated buildings at the Mungyeong Saejae Open Film Set, photographed in March 2018."
+  },
+  "korea-recycling-bunrisugeo-guide-2026": {
+    "id": "guide:korea-recycling-bunrisugeo-guide-2026",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Ask your accommodation where and when to sort, then separate food scraps from containers and other non-food items under local instructions.",
+    "forWhom": "Travelers staying in accommodation with takeaway waste",
+    "conditions": [
+      "Sorting methods and collection times vary by building and district."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Sorting Takeaway Waste in Korea: Ask Your Accommodation First"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-food-waste",
+        "title": "Seoul Metropolitan Government: Food waste separation",
+        "url": "https://english.seoul.go.kr/seoul-distributes-outline-of-food-waste-disposal-standard-in-ten-languages-for-foreign-residents/",
+        "note": "Explains Seoul food waste examples and separate disposal.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Sorting methods and collection times vary by building and district."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1409,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "how-to-use-baemin-without-an-arc-in-2026-pay-at-the-door-methods-and-alternatives": {
+    "id": "guide:how-to-use-baemin-without-an-arc-in-2026-pay-at-the-door-methods-and-alternatives",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Confirm the delivery address and pickup point, then check account and payment options in the actual app before placing an order.",
+    "forWhom": "Visitors ordering a meal to temporary accommodation",
+    "conditions": [
+      "App verification and accepted payment depend on the account, merchant and checkout."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Food Delivery to a Korean Hotel: Check the App and Pickup Point"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-delivery",
+        "title": "VISITKOREA: Food delivery at hotels",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=194469",
+        "note": "Describes hotel delivery and meeting places; policies differ.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1410,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "traveling-korea-with-kids-stroller-access-and-theme-park-tips-2026": {
+    "id": "guide:traveling-korea-with-kids-stroller-access-and-theme-park-tips-2026",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Confirm the hotel-to-venue route, the child facilities you need and the return before booking a family outing.",
+    "forWhom": "Families planning a day out with a stroller",
+    "conditions": [
+      "Elevators, rentals and child facilities vary by venue and may change."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korea With a Stroller: Plan the Route, Rest and Return"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "everland-amenities",
+        "title": "Everland: Amenities",
+        "url": "https://wwwrod.everland.com/web/multi/english/everland/everland_guide/amenities/Amenities.html",
+        "note": "Lists baby services and stroller rental contact.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-access",
+        "title": "Korea Tourism Organization: Accessible tourism information",
+        "url": "https://access.visitkorea.or.kr/main/intro01.do",
+        "note": "Explains family and stroller facility information.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Elevators, rentals and child facilities vary by venue and may change."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1411,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-grocery-shopping-hacks-e-mart-market-kurly-and-local-marts-2026": {
+    "id": "guide:korean-grocery-shopping-hacks-e-mart-market-kurly-and-local-marts-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a branch or market by what you need tonight, then check its current opening and payment before traveling.",
+    "forWhom": "Short-stay travelers buying groceries for their accommodation",
+    "conditions": [
+      "Branch hours, merchant payment and online delivery eligibility vary."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buying Groceries in Korea: Choose a Store for Tonight"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "emart-hours",
+        "title": "E-Mart: Store FAQ",
+        "url": "https://store.emart.com/faq/faq.do?tab=goTabP",
+        "note": "Refers customers to branch-specific closures and opening information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-markets",
+        "title": "VISITKOREA: Traditional market services",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1590057",
+        "note": "Describes a program at named participating markets, not every stall.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Branch hours, merchant payment and online delivery eligibility vary."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1412,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "shopping-at-the-hyundai-seoul-a-guide-to-korea-coolest-mall-2026": {
+    "id": "guide:shopping-at-the-hyundai-seoul-a-guide-to-korea-coolest-mall-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose the shop or restaurant first. Hyundai identifies 108 Yeouidae-ro and the approach from Yeouido Station Exit 3 to B2. Check branch hours and closures on the day.",
+    "forWhom": "Travelers planning a shopping stop in Seoul",
+    "conditions": [
+      "Store policies and availability can change.",
+      "Confirm the details for your own purchase."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "The Hyundai Seoul: Plan a Shopping and Food Stop"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "shopping-at-the-hyundai-seoul-a-guide-to-korea-coolest-mall-2026-source",
+        "title": "Hyundai branch guide",
+        "url": "https://m.ehyundai.com/mobile/DP/en/branch.do?branchCd=B00140000&branchType=10&lanType=EN",
+        "note": "Official operator or tourism listing checked November 24, 2026.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Save the branch, floor and return route."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1413,
+    "heroMediaId": "archive-yeouido-hyundai-shopping-floor",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "The Hyundai Seoul Yeoui-dong 3.jpg",
+      "author": "kallerna",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:The_Hyundai_Seoul_Yeoui-dong_3.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2022-12-01."
+    },
+    "heroCaption": "A retail aisle inside The Hyundai Seoul in December 2022. Check the current store directory for specific shops."
+  },
+  "indie-fashion-in-musinsa-standard-2026": {
+    "id": "guide:indie-fashion-in-musinsa-standard-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "The operator lists MUSINSA Hongdae and MUSINSA STANDARD Hongdae separately. Check the particular item, location and stock before visiting; the Standard label is a distinct shopping task from browsing a multibrand store.",
+    "forWhom": "Travelers planning a shopping stop in Seoul",
+    "conditions": [
+      "Store policies and availability can change.",
+      "Confirm the details for your own purchase."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "MUSINSA or MUSINSA STANDARD Hongdae: Choose a Store"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "indie-fashion-in-musinsa-standard-2026-source",
+        "title": "MUSINSA store finder",
+        "url": "https://locations.musinsa.com/en",
+        "note": "Official operator or tourism listing checked November 24, 2026.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the exact shop and garment."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1414,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "itaewon-global-brands-and-import-shops": {
+    "id": "guide:itaewon-global-brands-and-import-shops",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "VISITKOREA identifies Antiques Street at 109-1 Bogwang-ro and says shop holidays vary. Choose a specific store before leaving; a district listing does not establish current stock or brand authorization.",
+    "forWhom": "Travelers planning a shopping stop in Seoul",
+    "conditions": [
+      "Store policies and availability can change.",
+      "Confirm the details for your own purchase."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Itaewon Shopping: Browse Antiques or the Main Street"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "itaewon-global-brands-and-import-shops-source",
+        "title": "VISITKOREA: Itaewon Antiques Street",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=90739",
+        "note": "Official operator or tourism listing checked November 24, 2026.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Choose the dealer before the detour."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1415,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "shinsegae-duty-free-best-deals-for-tourists": {
+    "id": "guide:shinsegae-duty-free-best-deals-for-tourists",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Before you buy at Shinsegae Duty Free, choose whether you want to shop downtown, at Incheon or online. For an order with airport collection, confirm the pickup point, cutoff and required documents before you pay.",
+    "forWhom": "Travelers planning a shopping stop in Seoul",
+    "conditions": [
+      "Store policies and availability can change.",
+      "Confirm the details for your own purchase."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Shinsegae Duty Free: Check Collection Before You Buy"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "shinsegae-duty-free-best-deals-for-tourists-source",
+        "title": "Shinsegae Duty Free: official shopping channels",
+        "url": "https://www.shinsegaedf.com/store/en/main",
+        "note": "Official starting point for the retailer’s Myeongdong, Incheon Airport and online shopping channels.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Match the order to your departure terminal."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1416,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
   }
 }

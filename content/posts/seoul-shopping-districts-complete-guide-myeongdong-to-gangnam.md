@@ -59,6 +59,8 @@ The [Gangnam Station underground shopping listing](https://english.visitseoul.ne
 
 Choose it when it fits a nearby appointment, meal or hotel route. If your plan is around Samseong/COEX, compare that separate area instead.
 
+For a mostly indoor stop in Yeouido, [plan one shopping or food stop at The Hyundai Seoul](/blog/shopping-at-the-hyundai-seoul-a-guide-to-korea-coolest-mall-2026) and check the floor and return route before crossing town.
+
 ## Turn the choice into a manageable route
 
 These are **editorial clusters**, not verified walking-time promises:

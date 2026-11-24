@@ -24,6 +24,8 @@ Choose a market you can reach as part of the day you are already planning. In Bu
 | Nambu Market (남부시장), Jeonju | Use the [Nambu Market route](/blog/jeonju-nambu-market-eating-plan) to fit a meal around the hanok village. Check your preferred vendors on the day. |
 | Sokcho Tourist & Fishery Market (속초관광수산시장) | Use the [market and Abai Village walk](/blog/sokcho-market-gaetbae-abai-village-walk) to plan the market, harbor and return. |
 
+For everyday groceries beyond a market meal, [compare a supermarket and local market](/blog/korean-grocery-shopping-hacks-e-mart-market-kurly-and-local-marts-2026).
+
 ## Use one market as the main stop
 
 A shopping market, a planned meal and a specialty seafood purchase are different outings. Give yourself a budget and ask whether the price is per portion, item or weight. For a lower-risk seafood choice, ask to have it thoroughly cooked and served hot. Fresh-looking stock or a busy stall cannot tell you whether raw seafood carries germs. See the [CDC travel food guidance](https://www.cdc.gov/yellow-book/hcp/preparing-international-travelers/food-and-water-precautions-for-travelers.html).

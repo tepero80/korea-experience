@@ -18,6 +18,8 @@ tags:
 draft: false
 ---
 
+New to Buddhist practice? [See what to ask before a temple stay](/blog/temple-stay-for-non-buddhists-2026), including ceremony and shared rooms.
+
 ## Choose the kind of visit
 
 | Plan | Before leaving |

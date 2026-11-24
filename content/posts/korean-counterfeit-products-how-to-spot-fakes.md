@@ -10,6 +10,8 @@ featured: false
 
 If a branded item matters to you, check **who is selling it and whether the brand identifies that seller as an official or authorized outlet** before paying. A label, sticker, barcode or neat stitching alone cannot establish authenticity. Korea Customs notes that some counterfeits closely resemble genuine products and can be difficult to distinguish by appearance. [Korea Customs Service](https://www.customs.go.kr/kcs/na/ntt/selectNttInfo.do?nttSn=10147925&nttSnUrl=f5ed25a22b2d1a48a99964d40a9a1a4f)
 
+Browsing vintage goods in a neighborhood setting? [Plan the Itaewon antiques stop and check packing before buying](/blog/itaewon-global-brands-and-import-shops).
+
 ## At the shop, before paying
 
 | Check | Why it helps |

@@ -17,6 +17,8 @@ draft: false
 
 <GuidePhoto id="family-room-occupancy-illustration" caption="Use the five checks below to confirm a room for your whole group." />
 
+Once the room works for your family, [check the stroller route and rest stops for your day out](/blog/traveling-korea-with-kids-stroller-access-and-theme-park-tips-2026).
+
 ## Check five different things
 
 | Question | A useful written answer |

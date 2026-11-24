@@ -10,6 +10,8 @@ deepDive: true
 
 Start with your leave-by time and the first transit leg. If breakfast service begins after that, make a backup plan the night before. A hotel that serves a buffet can still sell room rates where breakfast is extra.
 
+For a meal delivered to your accommodation, [check the address and handoff before ordering](/blog/how-to-use-baemin-without-an-arc-in-2026-pay-at-the-door-methods-and-alternatives).
+
 ## Decide by how much time you really have
 
 | Morning plan | What to confirm |
@@ -17,6 +19,8 @@ Start with your leave-by time and the first transit leg. If breakfast service be
 | Breakfast at the hotel | Check what your particular rate includes, opening time, and whether you have enough time to eat and check out. Ask the hotel about advance takeaway if needed. |
 | A quiet sit-down meal | Look for **죽** (rice porridge) at a verified branch, and check its first serving time before leaving. Ask which ingredients are in the bowl. |
 | Station or airport start | Buy a labeled item you can safely store or eat on your schedule. Verify whether it needs heating and check rules at your eating location. |
+
+If you are choosing a booked buffet meal, [compare the session and total for your group](/blog/korean-buffet-culture-all-you-can-eat-options) before paying.
 
 ## Check the actual location, not the brand alone
 

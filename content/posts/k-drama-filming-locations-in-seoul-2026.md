@@ -21,6 +21,8 @@ image: /images/editorial/archive-seoul-book-bogo-exterior-2019-1280.webp
 
 **Save:** 서울책보고 · 서울 송파구 오금로 1. [Naver Map](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%B1%85%EB%B3%B4%EA%B3%A0) · [Kakao Map](https://map.kakao.com/link/search/%EC%84%9C%EC%9A%B8%EC%B1%85%EB%B3%B4%EA%B3%A0) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%B1%85%EB%B3%B4%EA%B3%A0+%EC%84%9C%EC%9A%B8+%EC%86%A1%ED%8C%8C%EA%B5%AC+%EC%98%A4%EA%B8%88%EB%A1%9C+1)
 
+For period-drama settings beyond this contemporary Seoul walk, [compare folk villages, filming sets and palaces](/blog/historic-kdrama-sets-folk-villages-and-palaces) before choosing a trip.
+
 ## Anguk · The Business Proposal umbrella street
 
 [Visit Seoul](https://english.visitseoul.net/hallyu/the-drama-that-stimulates-your-love-cells/ENN041167) identifies the street at the Seoul Museum of Craft Art as the scene location. Use [the museum listing](https://english.visitseoul.net/PalaceArea/Seoul-Museum-of-Craft_/38147) for Anguk Exit 1 and the pinned frontage. Keep moving if pedestrians need the sidewalk, or continue to [Unhyeongung](/blog/unhyeongung-anguk-traditional-house-visit) if the frontage is crowded.
