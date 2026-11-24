@@ -1,5 +1,6 @@
 import { expect, test, type Locator, type Page } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
+import { mediaFor } from '../../lib/media';
 
 const firstTrip = '/blog/first-trip-to-korea-planning-guide';
 const regionalGuide = '/blog/gwangju-u-square-bus-terminal-to-asia-culture-center';
@@ -85,7 +86,8 @@ test('the home opening gives first-trip and photo-led destination discovery equa
   await expect(title).toBeFocused();
   await expectClearOfHeader(title);
   const section = title.locator('xpath=ancestor::section[1]');
-  const originalPhotos = new Set<string>();
+  const photoSources = new Set<string>();
+  await expect(section.locator('.home-destination-card')).toHaveCount(12);
   for (const [name, slug] of [
     ['Seoul', 'seoul'],
     ['Busan', 'busan'],
@@ -95,6 +97,10 @@ test('the home opening gives first-trip and photo-led destination discovery equa
     ['Sokcho', 'sokcho'],
     ['Suwon', 'suwon'],
     ['Tongyeong', 'tongyeong'],
+    ['Andong', 'andong'],
+    ['Suncheon', 'suncheon'],
+    ['Yeosu', 'yeosu'],
+    ['Gwangju', 'gwangju'],
   ]) {
     const link = section.locator(`.home-destination-card[href="/destinations/${slug}"]`);
     await expect(link).toHaveAccessibleName(new RegExp(`\\b${name}\\b`, 'i'));
@@ -106,22 +112,26 @@ test('the home opening gives first-trip and photo-led destination discovery equa
       return { source: node.currentSrc, width: node.width, height: node.height };
     });
     expect(photo.width * photo.height).toBeGreaterThan(0);
-    originalPhotos.add(photo.source);
+    await expect(img).toHaveAttribute('loading', 'lazy');
+    photoSources.add(photo.source);
   }
-  expect(originalPhotos.size).toBe(8);
+  expect(photoSources.size).toBe(12);
   const all = section.getByRole('link', { name: /^All \d+ destinations$/ });
   await expect(all).toHaveAttribute('href', '/destinations');
   const destinationCount = Number((await all.innerText()).match(/\d+/)?.[0]);
   await title.evaluate((element) => element.scrollIntoView({ block: 'start', behavior: 'instant' }));
   await page.screenshot({ path: info.outputPath('home-destinations.jpg'), type: 'jpeg', quality: 85 });
+  await section.screenshot({ path: info.outputPath('home-destination-gallery.jpg'), type: 'jpeg', quality: 85 });
 
   const credits = section.getByText('Photo credits', { exact: true });
   const creditLinks = credits.locator('xpath=ancestor::details[1]').getByRole('link');
   await credits.press('Enter');
-  await expect(creditLinks).toHaveCount(8);
+  await expect(creditLinks).toHaveCount(12);
+  const creditHrefs: string[] = [];
   for (const link of await creditLinks.all()) {
     await expect(link).toBeVisible();
     await expect(link).toHaveAttribute('href', /^\/image-credits#[a-z0-9-]+$/);
+    creditHrefs.push((await link.getAttribute('href'))!);
   }
   await page.screenshot({ path: info.outputPath('home-photo-credits.jpg'), type: 'jpeg', quality: 85 });
   await credits.press('Enter');
@@ -129,7 +139,11 @@ test('the home opening gives first-trip and photo-led destination discovery equa
 
   const reads = page.getByRole('region', { name: 'Your first useful reads' });
   const guideLinks = reads.locator('.guide-card');
-  await expect(guideLinks).toHaveCount(6);
+  await expect(guideLinks).toHaveCount(9);
+  await expect(guideLinks.first()).toHaveAttribute('href', firstTrip);
+  const cardWidths = await guideLinks.evaluateAll((links) => links.map((link) => link.getBoundingClientRect().width));
+  expect(cardWidths[0]).toBeGreaterThanOrEqual(cardWidths[1]);
+  if ((page.viewportSize()?.width ?? 0) <= 900) expect(cardWidths[0]).toBeGreaterThan(cardWidths[1] * 2);
   for (const link of await guideLinks.all()) {
     await expect(link).toHaveAttribute('href', /^\/blog\/[a-z0-9-]+$/);
     const img = link.locator('img');
@@ -139,17 +153,35 @@ test('the home opening gives first-trip and photo-led destination discovery equa
       await node.decode();
       return node.currentSrc;
     });
-    originalPhotos.add(source);
+    photoSources.add(source);
   }
-  expect(originalPhotos.size).toBe(14);
+  expect(photoSources.size).toBe(21);
   const guideCredits = reads.getByText('Guide photo credits', { exact: true });
   await guideCredits.press('Enter');
-  await expect(guideCredits.locator('xpath=ancestor::details[1]').getByRole('link')).toHaveCount(6);
+  const guideCreditLinks = guideCredits.locator('xpath=ancestor::details[1]').getByRole('link');
+  await expect(guideCreditLinks).toHaveCount(9);
+  await expect(guideCreditLinks.nth(0)).toHaveAttribute('href', '/image-credits#archive-namsan-dusk-panorama-2011');
+  await expect(guideCreditLinks.nth(1)).toHaveAttribute('href', '/image-credits#airport-concourse');
+  await expect(guideCreditLinks.nth(2)).toHaveAttribute('href', '/image-credits#hotel-hongdae-street');
+  for (const link of await guideCreditLinks.all()) {
+    await expect(link).toHaveAttribute('href', /^\/image-credits#[a-z0-9-]+$/);
+    creditHrefs.push((await link.getAttribute('href'))!);
+  }
+  creditHrefs.push((await page.locator('.magazine-feature figcaption a').getAttribute('href'))!);
+  const originalSources = creditHrefs.map((href) => {
+    const photo = mediaFor(href.split('#')[1]);
+    expect(photo?.credit.kind).toBe('photograph');
+    expect(photo?.credit.licenseUrl).toMatch(/^https:\/\//);
+    return photo?.credit.sourceUrl;
+  });
+  expect(originalSources).toHaveLength(22);
+  expect(new Set(originalSources).size).toBe(22);
   await guideCredits.press('Enter');
   await reads.getByRole('heading', { level: 2 }).evaluate((element) => {
     element.scrollIntoView({ block: 'center', behavior: 'instant' });
   });
   await page.screenshot({ path: info.outputPath('home-guide-picks.jpg'), type: 'jpeg', quality: 85 });
+  await reads.screenshot({ path: info.outputPath('home-guide-gallery.jpg'), type: 'jpeg', quality: 85 });
   await page.evaluate(() => window.scrollTo(0, 0));
 
   const { violations } = await new AxeBuilder({ page })
@@ -160,6 +192,13 @@ test('the home opening gives first-trip and photo-led destination discovery equa
   expect(await page.evaluate(() => document.documentElement.scrollWidth)).toBeLessThanOrEqual(
     (page.viewportSize()?.width ?? 0) + 1,
   );
+
+  await reads.getByRole('link', { name: /Rent hanbok for a palace visit/i }).press('Enter');
+  await expect(page).toHaveURL(/\/blog\/hanbok-rental-complete-guide-styles-and-pricing$/);
+  await expect(page.getByRole('heading', { level: 1 })).toContainText('Renting Hanbok for a Palace Visit');
+  await page.goBack();
+  await expect(page).toHaveURL(/\/#explore-destinations$/);
+  await expect(reads).toBeVisible();
 
   await section.getByRole('link', { name: /\bBusan\b/i }).click();
   await expect(page).toHaveURL(/\/destinations\/busan$/);

@@ -762,31 +762,54 @@ button:disabled {
 .home-destination-grid {
   display: grid;
   grid-template-columns: repeat(4, minmax(0, 1fr));
-  gap: clamp(10px, 1.5vw, 20px);
+  gap: clamp(12px, 1.5vw, 20px);
+}
+.home-reads .guide-grid {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: clamp(12px, 2vw, 22px);
+  margin: 0 0 8px;
 }
 .home-reads .guide-card-image {
   aspect-ratio: 16 / 10;
 }
+.home-reads .guide-card-copy {
+  padding: clamp(12px, 1.5vw, 20px);
+}
 .home-reads .guide-card h3 {
+  font-size: clamp(18px, 2vw, 25px);
+  margin: 6px 0;
   text-wrap: balance;
 }
-.home-reads .guide-card-bottom {
-  margin-top: auto;
+.home-reads .guide-card:is(:hover, :focus-visible) h3 {
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
 }
 .home-reads .guide-card-copy p {
-  margin-bottom: 16px;
+  display: block;
+  overflow: visible;
+  font-size: clamp(14px, 1.4vw, 17px);
+  line-height: 1.45;
 }
 .home-reads .section-heading > a {
   display: inline-flex;
   align-items: center;
   min-height: 44px;
 }
-@media (min-width: 561px) and (max-width: 900px) {
+@media (max-width: 900px) {
   .home-reads .guide-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
+  .home-reads .guide-card:first-child {
+    grid-column: 1 / -1;
+  }
+  .home-reads .guide-card:first-child .guide-card-image {
+    aspect-ratio: 2 / 1;
+  }
+  .home-destination-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
 }
-@media (max-width: 900px) {
+@media (max-width: 700px) {
   .home-destination-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }

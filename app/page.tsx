@@ -11,23 +11,75 @@ import { getDestinations } from '@/lib/destinations';
 import { HOME_DESCRIPTION, HOME_FEATURE, HOME_TITLE } from '@/lib/home-feature';
 
 const featuredGuides = [
-  { slug: 'first-trip-to-korea-planning-guide', photoId: 'gyeongbokgung' },
-  { slug: 'airport-limousine-bus-vs-arex-express-train', photoId: 'incheon-t1-songdo-bus-orientation' },
-  { slug: 'seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style', photoId: 'bukchon-evening' },
-  { slug: 'gwangjang-market-complete-food-guide', photoId: 'gwangjang' },
-  { slug: 'seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices', photoId: 'busan-dongbaekseom-nurimaru-2024' },
-  { slug: 'jeju-island-complete-travel-guide-best-time-to-visit-2026', photoId: 'jeju-seongsan-town-from-ilchulbong-blue-hour-2024' },
+  {
+    slug: 'first-trip-to-korea-planning-guide',
+    photoId: 'archive-namsan-dusk-panorama-2011',
+    title: 'Your first Korea trip',
+    summary: 'Pick a route and know what to book first.',
+  },
+  {
+    slug: 'airport-limousine-bus-vs-arex-express-train',
+    photoId: 'airport-concourse',
+    title: 'Incheon Airport to your hotel',
+    summary: 'Choose the train, bus or taxi for your arrival.',
+  },
+  {
+    slug: 'seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style',
+    photoId: 'hotel-hongdae-street',
+    title: 'Where to stay in Seoul',
+    summary: 'Compare four neighborhoods before booking.',
+  },
+  {
+    slug: 'seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026',
+    photoId: 'seoul-geunjeongjeon',
+    title: 'Three days in Seoul',
+    summary: 'Group palaces, markets and neighborhoods by day.',
+  },
+  {
+    slug: 'gwangjang-market-complete-food-guide',
+    photoId: 'archive-gwangjang-jeon-counter-2026',
+    title: 'What to eat at Gwangjang Market',
+    summary: 'Find the food alley and place your first order.',
+  },
+  {
+    slug: 'hanbok-rental-complete-guide-styles-and-pricing',
+    photoId: 'exp-c-hanbok-palace-pond',
+    title: 'Rent hanbok for a palace visit',
+    summary: 'Check admission and allow time for the return.',
+  },
+  {
+    slug: 'seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices',
+    photoId: 'busan-dongbaekseom-nurimaru-2024',
+    title: 'Two days in Busan without a car',
+    summary: 'Split the old port and the coast into two days.',
+  },
+  {
+    slug: 'jeju-island-complete-travel-guide-best-time-to-visit-2026',
+    photoId: 'jeju-seongsan-town-from-ilchulbong-blue-hour-2024',
+    title: 'Three days on Jeju',
+    summary: 'Choose a base and plan island outings by bus.',
+  },
+  {
+    slug: 'best-time-to-visit-korea-month-by-month-weather',
+    photoId: 'autumn-fortress-walk',
+    title: 'When to visit Korea',
+    summary: 'Compare weather and travel trade-offs by month.',
+  },
 ];
 
 const featuredRegions = [
-  { id: 'seoul', photoId: 'archive-seoul-han-river-jamwon-sunset-2023', focus: 'Palaces & river walks' },
-  { id: 'busan', photoId: 'busan-base-haeundae-panorama', focus: 'Beaches & markets' },
-  { id: 'jeju', photoId: 'jeju-seongsan-ilchulbong-visitor-approach-2022', focus: 'Volcanic coast & trails' },
-  { id: 'gyeongju', photoId: 'gyeongju-bulguksa-temple', focus: 'Silla temples & tombs' },
-  { id: 'jeonju', photoId: 'jeonju-hanok-rooftops-overview', focus: 'Hanok lanes & local food' },
+  { id: 'seoul', photoId: 'seoul-eunpyeong-hanok-and-bukhansan-2020', focus: 'Hanok lanes & city walks' },
+  { id: 'busan', photoId: 'busan-haedong-yonggungsa-coast', focus: 'Beaches & coastal temples' },
+  { id: 'jeju', photoId: 'jeju-jeongbang-coastal-waterfall-2017', focus: 'Waterfalls & volcanic coast' },
+  { id: 'gyeongju', photoId: 'gyeongju-tombs-2022', focus: 'Silla tombs & temples' },
+  { id: 'jeonju', photoId: 'jeonju-gyeonggijeon-courtyard', focus: 'Hanok lanes & market food' },
   { id: 'sokcho', photoId: 'archive-seoraksan-rocky-valley-autumn-2015', focus: 'Mountain trails & coast' },
-  { id: 'suwon', photoId: 'suwon', focus: 'Fortress walks' },
-  { id: 'tongyeong', photoId: 'tongyeong-mireuksan-island-panorama-2013', focus: 'Harbors & island ferries' },
+  { id: 'suwon', photoId: 'suwon-daytrip-janganmun-gate', focus: 'Fortress gates & walls' },
+  { id: 'tongyeong', photoId: 'tongyeong-gangguan-waterfront-boats-2009', focus: 'Harbor walks & ferries' },
+  { id: 'andong', photoId: 'andong-wolyeonggyo-river-daylight', focus: 'River walks & folk villages' },
+  { id: 'suncheon', photoId: 'suncheon-garden-lake-mounds', focus: 'Gardens & wetlands' },
+  { id: 'yeosu', photoId: 'yeosu-maritime-cable-cars', focus: 'Cable cars & island walks' },
+  { id: 'gwangju', photoId: 'gwangju-national-museum-courtyard-2015', focus: 'Art & history museums' },
 ];
 
 export const metadata = {
@@ -36,10 +88,10 @@ export const metadata = {
 };
 export default function Home() {
   const guides = getAllPosts();
-  const picks = featuredGuides.flatMap(({ slug, photoId }) => {
+  const picks = featuredGuides.flatMap(({ slug, photoId, title, summary }) => {
     const post = guides.find((guide) => guide.slug === slug && guide.indexable && guide.reviewed);
     const photo = mediaFor(photoId);
-    return post && photo?.credit.kind === 'photograph' ? [{ post, photo }] : [];
+    return post && photo?.credit.kind === 'photograph' ? [{ post, photo, title, summary }] : [];
   });
   const destinations = getDestinations();
   const photoCards = featuredRegions.flatMap(({ id, photoId, focus }) => {
@@ -126,7 +178,7 @@ export default function Home() {
                 <img
                   src={photo.src}
                   srcSet={photo.srcSet}
-                  sizes="(max-width: 900px) calc((100vw - 52px) / 2), (max-width: 1320px) calc((100vw - 100px) / 4), 300px"
+                  sizes="(max-width: 700px) calc((100vw - 52px) / 2), (max-width: 900px) calc((100vw - 108px) / 3), (max-width: 1360px) calc((100vw - 140px) / 4), 305px"
                   alt={photo.alt}
                   width={photo.width}
                   height={photo.height}
@@ -203,17 +255,17 @@ export default function Home() {
           </Link>
         </div>
         <div className="guide-grid">
-          {picks.map(({ post, photo }) => (
-            <BlogCard key={post.slug} post={post} coverPhoto={photo} />
+          {picks.map(({ post, ...feature }, index) => (
+            <BlogCard key={post.slug} post={post} feature={{ ...feature, lead: index === 0 }} />
           ))}
         </div>
         <details className="home-photo-credits">
           <summary>Guide photo credits</summary>
           <ul>
-            {picks.map(({ post, photo }) => (
+            {picks.map(({ photo, title }) => (
               <li key={photo.id}>
                 <a href={`/image-credits#${photo.id}`}>
-                  {post.title} · {photo.credit.author} · {photo.credit.license}
+                  {title} · {photo.credit.author} · {photo.credit.license}
                 </a>
               </li>
             ))}

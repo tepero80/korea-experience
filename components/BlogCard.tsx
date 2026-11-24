@@ -2,28 +2,35 @@ import Link from 'next/link';
 import type { PostMetadata } from '@/lib/posts';
 import Icon from './site/Icon';
 import { generatedArchiveCoverHash, mediaFor, type EditorialMedia } from '@/lib/media';
+
+const featuredCardSizes = '(max-width: 700px) calc((100vw - 52px) / 2), (max-width: 900px) calc((100vw - 100px) / 2), (max-width: 1360px) calc((100vw - 124px) / 3), 420px';
+const leadCardSizes = '(max-width: 700px) calc(100vw - 40px), (max-width: 900px) calc(100vw - 80px), (max-width: 1360px) calc((100vw - 124px) / 3), 420px';
+
 export default function BlogCard({
   post,
   priority = false,
-  coverPhoto,
+  feature,
 }: {
   post: PostMetadata;
   showDeepDiveBadge?: boolean;
   priority?: boolean;
-  coverPhoto?: EditorialMedia;
+  feature?: { photo: EditorialMedia; title: string; summary: string; lead: boolean };
 }) {
+  const coverPhoto = feature?.photo;
   const media = coverPhoto ?? mediaFor(post.editorial?.heroMediaId);
   const image = coverPhoto?.src ?? post.image;
   const generatedArchiveCover = Boolean(generatedArchiveCoverHash(post.slug, image));
+  // Home visitors can arrive at a fragment before choosing a guide. Retain that position on Back.
+  const CardLink = feature ? 'a' : Link;
   return (
-    <Link href={`/blog/${post.slug}`} className="guide-card">
+    <CardLink href={`/blog/${post.slug}`} className="guide-card">
       {image ? (
         <div className="guide-card-image">
           <img
             src={image}
             srcSet={media?.srcSet}
-            sizes={coverPhoto
-              ? '(max-width: 560px) calc(100vw - 40px), (max-width: 900px) calc((100vw - 64px) / 2), 400px'
+            sizes={feature
+              ? (feature.lead ? leadCardSizes : featuredCardSizes)
               : '(max-width: 700px) calc(100vw - 40px), (max-width: 1000px) 45vw, 400px'}
             alt=""
             style={{
@@ -50,13 +57,15 @@ export default function BlogCard({
       )}
       <div className="guide-card-copy">
         <span className="eyebrow">{post.category}</span>
-        <h3>{post.title}</h3>
-        <p>{post.excerpt}</p>
-        <div className="guide-card-bottom">
-          <span>{post.reviewed ? 'Reviewed guide' : post.readTime}</span>
-          <Icon name="arrow" />
-        </div>
+        <h3>{feature?.title ?? post.title}</h3>
+        <p>{feature?.summary ?? post.excerpt}</p>
+        {feature ? null : (
+          <div className="guide-card-bottom">
+            <span>{post.reviewed ? 'Reviewed guide' : post.readTime}</span>
+            <Icon name="arrow" />
+          </div>
+        )}
       </div>
-    </Link>
+    </CardLink>
   );
 }
