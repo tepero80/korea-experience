@@ -22,6 +22,8 @@ Before sending money, ask if it is a **consultation only** slot, a treatment slo
 
 If the clinic proposes a thread lift, use the [thread-lift appointment questions](/blog/thread-lifting-in-korea-ultimate-guide-to-mint-and-silhouette-soft-2026) to verify the product, consent discussion and follow-up.
 
+If the clinic offers liposuction and a cooling treatment, [compare two separate plans before reserving either appointment](/blog/liposuction-vs-coolsculpting-body-contouring-methods-compared).
+
 ## Keep the next days flexible
 
 [UK travel guidance on treatment abroad](https://www.gov.uk/guidance/in-hospital-abroad) recommends confirming the care available after treatment. Ask the clinician how travel and your planned departure fit the follow-up requirements. Keep the booking confirmation and any written instructions. If the schedule makes it difficult to ask questions, book the visit separately and use the [Korean clinic consultation checklist](/blog/medical-tourism-consultation-checklist-questions-about-clinician-interpreter-and) to prepare.

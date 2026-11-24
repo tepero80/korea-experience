@@ -21,6 +21,8 @@ If a follow-up is planned after you leave Korea, use the [remote follow-up check
 
 For a SMILE eye consultation, [ask the clinic to identify the laser and agree on the record copies](/blog/smile-pro-eye-surgery-the-2026-tech-upgrade-from-lasik-2026) you may need at home.
 
+If you are considering liposuction, [use the consultation to ask about the proposed procedure and the records you would need after travel](/blog/korean-liposuction-and-body-contouring-guide-2026).
+
 ## Ask while you can speak to the treating team
 
 Show the doctor's office the recipient's requested document names. Confirm the spelling of your name, the visit dates and the intended method of delivery. If the document is only available in Korean, first ask whether the recipient accepts an English summary or requires a translation and which translation format is acceptable.

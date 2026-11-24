@@ -49613,5 +49613,542 @@
     "changeType": "rewrite",
     "launchOrder": 1688,
     "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "korean-liposuction-and-body-contouring-guide-2026": {
+    "id": "guide:korean-liposuction-and-body-contouring-guide-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Bring the name of the procedure to your consultation. Ask your clinician to explain what is proposed, who would perform it, and how anesthesia and follow-up would be handled. Get a written quote and a contact for questions after you leave.",
+    "forWhom": "Travelers who already have, or are arranging, a liposuction consultation in Korea.",
+    "conditions": [
+      "Only your clinician can assess whether a proposed procedure is appropriate and advise on travel. Costs, consent arrangements, and follow-up depend on your clinic and plan."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "paperwork",
+      "planning"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w46-ct-consent",
+        "title": "Korean Medical Service Act, Article 24-2",
+        "url": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1031808871",
+        "note": "Article 24-2 requires an explanation and written consent for covered surgery and general anesthesia, with an exception for specified urgent situations.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w45-medical-act-records-article-21",
+        "title": "Korean Medical Service Act, Article 21",
+        "url": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1028699889",
+        "note": "Article 21 addresses patients requesting their own records and sets conditions and exceptions for access by other people.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask what the procedure includes, who will perform it, and which follow-up visits need to happen before you travel."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1689,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "cryolipolysis-vs-fat-dissolving-injections-in-korea-which-is-for-you-2026": {
+    "id": "guide:cryolipolysis-vs-fat-dissolving-injections-in-korea-which-is-for-you-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "If a clinic offers fat freezing or an injection, ask for the exact device model or each medicine’s name and active ingredients. Have the clinician identify the body area and explain how the proposed use relates to the Korean product record. Ask who would handle a concern after you travel.",
+    "forWhom": "People comparing a cooling session and an advertised fat-dissolving injection in Korea.",
+    "conditions": [
+      "Authorization can differ by product and use. The clinician should explain what each option and its risks mean for you. The FDA warning concerns the United States."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "paperwork",
+      "planning"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w46-ct-mfds-device-lookup",
+        "title": "Korean Ministry of Food and Drug Safety device information",
+        "url": "https://mfds.go.kr/wpge/m_529/de050901l001.do",
+        "note": "The regulator describes the authorization number on a device label and points to official device information where users can look up authorization and product details.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-ct-mfds-medicine-lookup",
+        "title": "Korean Ministry of Food and Drug Safety medicine search",
+        "url": "https://nedrug.mfds.go.kr/searchDrug",
+        "note": "The Korean product search shows search fields for names and ingredients and publishes authorization details for individual medicines.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-ct-fda-injection-alert",
+        "title": "U.S. FDA warning on unapproved fat-dissolving injections",
+        "url": "https://www.fda.gov/drugs/buying-using-medicine-safely/using-fat-dissolving-injections-are-not-fda-approved-can-be-harmful",
+        "note": "The FDA describes adverse events reported after injections unapproved in the U.S. The warning provides no determination of Korean product authorization.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for the device model or every injection product name before you compare the two offers."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1690,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "liposuction-vs-coolsculpting-body-contouring-methods-compared": {
+    "id": "guide:liposuction-vs-coolsculpting-body-contouring-methods-compared",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask for separate written plans for liposuction and the proposed cooling treatment. Confirm the device model, who would perform each treatment, what the total quote covers, and who would reassess you if a problem comes up after you travel.",
+    "forWhom": "Visitors comparing a surgical liposuction proposal with a branded or generic fat-freezing offer in Korea.",
+    "conditions": [
+      "Your clinician should explain suitability, risks and follow-up. The FDA description explains the technology in the U.S. regulatory context. Check the actual device and use in Korea."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "planning",
+      "paperwork"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w46-ct-fda-cooling-scope",
+        "title": "U.S. FDA information on non-invasive body contouring",
+        "url": "https://www.fda.gov/medical-devices/aesthetic-cosmetic-devices/non-invasive-body-contouring-technologies",
+        "note": "The U.S. regulator distinguishes non-invasive body contouring from surgery that removes tissue and describes potential complications after cooling.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-ct-mfds-device-lookup",
+        "title": "Korean Ministry of Food and Drug Safety device information",
+        "url": "https://mfds.go.kr/wpge/m_529/de050901l001.do",
+        "note": "The regulator describes the authorization number on a device label and points to official device information where users can look up authorization and product details.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Compare who handles follow-up and what the quote covers for each plan before paying a deposit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1691,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "male-plastic-surgery-trends-2026-jawline-definition-and-gynecomastia-2026": {
+    "id": "guide:male-plastic-surgery-trends-2026-jawline-definition-and-gynecomastia-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask for an independent evaluation of each concern. Find out which clinician should assess your jawline and which should evaluate the chest changes. If either proposes a procedure, get a separate explanation, written quote, and follow-up plan before agreeing to anything.",
+    "forWhom": "People planning consultations in Korea for jawline appearance and possible gynecomastia, and people helping them book with their permission.",
+    "conditions": [
+      "Only a clinician can assess the cause of chest changes or determine whether evaluation, referral, or a procedure is appropriate. Availability and follow-up arrangements vary."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "language",
+      "planning"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w46-ct-nhs-chest-eval",
+        "title": "NHS information on gynaecomastia",
+        "url": "https://www.nhs.uk/conditions/gynaecomastia/",
+        "note": "The NHS describes several possible causes of breast enlargement in men and advises medical assessment for persistent pain, a lump or other listed changes.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-ct-consent",
+        "title": "Korean Medical Service Act, Article 24-2",
+        "url": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1031808871",
+        "note": "Article 24-2 requires an explanation and written consent for covered surgery and general anesthesia, with an exception for specified urgent situations.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask each clinician to assess the concern separately and put any proposed costs and follow-up visits in writing."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1692,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "rhinoplasty-in-korea-complete-guide-cost-and-best-clinics-2026": {
+    "id": "guide:rhinoplasty-in-korea-complete-guide-cost-and-best-clinics-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Treat your first consultation as a decision point. Ask who would perform the operation, what they would do about appearance and breathing concerns, and what options you have if you choose to wait. Before paying a deposit, get an itemized quote and a follow-up plan that covers your time in Korea and your return home.",
+    "forWhom": "People considering a first rhinoplasty consultation in Korea, including those who already have concerns about breathing.",
+    "conditions": [
+      "The clinician’s assessment determines the options and risks. Get the clinic’s current prices and written terms, and check whether a clinician at home can take over any follow-up."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "language",
+      "trip planning"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w46-face-medical-korea-registration",
+        "title": "Medical Korea registration and accreditation information",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "note": "Describes Korea’s registration system and its separate accreditation program for hospitals serving international patients.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-face-nhs-choose-practitioner",
+        "title": "NHS guidance on choosing the person who will perform a cosmetic procedure",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/choosing-who-will-do-your-procedure/",
+        "note": "Recommends meeting the practitioner before deciding and asking about risks, aftercare and costs.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-face-nhs-rhinoplasty",
+        "title": "NHS nose reshaping risks and questions",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/cosmetic-surgery/nose-reshaping-rhinoplasty/",
+        "note": "Identifies possible breathing difficulty, altered sense of smell and bleeding after nose reshaping and explains that the surgeon should discuss the applicable risks.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Meet the surgeon and compare the full quote and follow-up plan before paying."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1693,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "ethnic-rhinoplasty-preserving-your-features-in-korea": {
+    "id": "guide:ethnic-rhinoplasty-preserving-your-features-in-korea",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Prepare three notes for the surgeon. Say which features you want to keep, what you might want to change and what you are undecided about. Use your own face and everyday examples to explain each point. Ask the surgeon to explain what they heard, the limits of the proposed change and any effect it could have on breathing.",
+    "forWhom": "People preparing for a nose surgery consultation who want to describe features they value, concerns about appearance or uncertainty about a proposed change.",
+    "conditions": [
+      "You choose which features matter to you. A reference image or clinic simulation can help explain an idea, and its limits are part of the consultation."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "language",
+      "accessibility"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w46-face-nhs-cosmetic-consult",
+        "title": "NHS guidance before a cosmetic procedure",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/before-you-have-a-cosmetic-procedure/",
+        "note": "Encourages a discussion about the patient’s own expectations and a chance to ask questions and consider the decision.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-face-nhs-cosmetic-abroad",
+        "title": "NHS guidance on consultations and cosmetic surgery abroad",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-surgery-abroad/",
+        "note": "Names practical questions about language, limitations and alternatives, and checking where follow-up will take place.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Write down what to keep, what you might change and what you are undecided about."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1694,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "v-line-surgery-korea-procedure-cost-recovery": {
+    "id": "guide:v-line-surgery-korea-procedure-cost-recovery",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask what the clinic means by V-line in your case. Get the exact name and goal of the proposed procedure. Describe how your teeth meet and any existing problems with chewing, jaw movement or sensation. Ask whether a dental, orthodontic or maxillofacial assessment is needed before deciding.",
+    "forWhom": "People considering a lower face or jaw consultation in Korea who want to understand what the plan would address.",
+    "conditions": [
+      "A service name can cover different plans. An assessment by your own clinical team is needed to determine the procedure and any care you would need in Korea or at home."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "trip planning",
+      "accessibility"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w46-face-cuh-jaw-and-chin",
+        "title": "Cambridge University Hospitals guidance on corrective jaw and chin surgery",
+        "url": "https://www.cuh.nhs.uk/patient-information/patient-information-and-consent-to-jaw-or-chin-corrective-surgery-orthognathic-surgery/",
+        "note": "Explains how corrective jaw surgery and chin reshaping have different aims and discusses sensation changes in its own patient group.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-face-nhs-treatment-abroad-checklist",
+        "title": "NHS checklist on arranging care abroad",
+        "url": "https://www.nhs.uk/using-the-nhs/healthcare-abroad/going-abroad-for-treatment/treatment-abroad-checklist/",
+        "note": "Supports arranging a second opinion, secure transfer of clinical notes and coordinated aftercare before travel.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask the clinic to name the exact procedure and explain who will assess your bite."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1695,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "double-eyelid-surgery-in-korea-complete-guide": {
+    "id": "guide:double-eyelid-surgery-in-korea-complete-guide",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Describe your crease preference separately from anything affecting your eyes, such as dryness, a lid that droops or difficulty seeing. Ask whether you should have a separate eye assessment before deciding. If you proceed, save written instructions for follow-up and an urgent contact before leaving the clinic.",
+    "forWhom": "People discussing double eyelid surgery in Korea, especially anyone who already has eye symptoms or has had an eye operation.",
+    "conditions": [
+      "Ask your clinician to explain the exact procedure, the risks it carries and any eye checks required for your situation. Arrange urgent contact and follow-up before you travel."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "language",
+      "trip planning"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w46-face-moorfields-ptosis",
+        "title": "Moorfields Eye Hospital guidance on upper eyelid droop",
+        "url": "https://www.moorfields.nhs.uk/eye-conditions/ptosis-droopy-eyelid",
+        "note": "Explains that a low upper eyelid can affect the upper visual field and is a functional concern to report.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-face-gstt-eyelid-risks",
+        "title": "Guy’s and St Thomas’ NHS Foundation Trust eyelid surgery guidance",
+        "url": "https://www.guysandstthomas.nhs.uk/health-information/blepharoplasty",
+        "note": "Discusses dryness, impaired eyelid closure and vision changes in blepharoplasty guidance. Any loss of vision requires immediate reporting.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-face-visit-seoul-emergency",
+        "title": "Visit Seoul emergency medical help",
+        "url": "https://english.visitseoul.net/medical-emergencies",
+        "note": "Gives 119 for emergency medical assistance in Korea and explains that an ambulance can be requested in English.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Raise existing eye symptoms at the consultation and confirm where to get urgent eye care."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1696,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "korean-glass-skin-treatment-clinic-guide": {
+    "id": "guide:korean-glass-skin-treatment-clinic-guide",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the clinic for its exact branch and a written list of what the glass-skin package includes before paying. Confirm whether each item is a skin-care product, a device procedure or an injection, who will perform it and whether you can book just the consultation. Once a clinician has reviewed your circumstances, ask for an itemized price and follow-up plan before deciding.",
+    "forWhom": "Travelers comparing cosmetic skin-clinic packages advertised in Korea.",
+    "conditions": [
+      "Confirm the branch, procedure, quote and consultation language with the clinic. Suitability and follow-up depend on the service and your own assessment."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "skincare",
+      "healthcare",
+      "language"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w46-skin-registered-directory",
+        "title": "Medical Korea registered hospital and clinic search",
+        "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+        "note": "The public registry provides hospital type and region filters and displays registration entries.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-skin-registration-accreditation",
+        "title": "Medical Korea on registration and accreditation",
+        "url": "https://www.medicalkorea.or.kr/en/reliable",
+        "note": "Medical Korea describes the foreign-patient registration system separately from its hospital accreditation program.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-medical-korea-info",
+        "title": "Medical Korea Information Center",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "note": "The center gives information on medical institutions and services and advises on booking or brokerage complaints.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for the branch, exact services, clinician and itemized quote before you pay for a glass-skin package."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1697,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "breast-reduction-surgery-in-korea-specialized-clinics-and-recovery-tips-2026": {
+    "id": "guide:breast-reduction-surgery-in-korea-specialized-clinics-and-recovery-tips-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Arrange a consultation with the surgeon before committing to breast reduction in Korea. Bring a concise history, including medicines, allergies and any prior breast procedures. Discuss your goals, risks and alternatives, then ask which follow-up visits need to happen in Korea and how your clinician at home will receive the records.",
+    "forWhom": "International patients preparing for a breast reduction consultation or arranging care after returning home.",
+    "conditions": [
+      "The operating team determines what applies after an assessment. Confirm attendance, costs, travel timing and records with the clinic and the clinician who will take over."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "accessibility",
+      "language"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w46-breast-nhs-questions",
+        "title": "NHS breast reduction consultation and risk questions",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/cosmetic-surgery/breast-reduction-female/",
+        "note": "The UK NHS describes meeting the surgeon first, what to ask about follow-up, and possible changes in scarring, nipple sensation and breastfeeding.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-breast-nhs-history",
+        "title": "UK NHS pre-operative assessment and preparation",
+        "url": "https://www.nhs.uk/tests-and-treatments/having-surgery/preparation/",
+        "note": "This UK guide describes preparing health history, prior tests and current medicines for an assessment.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-breast-snuh-records",
+        "title": "Seoul National University Hospital records and certificates",
+        "url": "https://www.snuh.org/global/en/patients/EN02005.do",
+        "note": "SNUH lists surgery records and admission or discharge summaries among its medical records and describes its copy request process.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for the follow-up plan and the records your next clinician will need before buying a return ticket."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1698,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "chronic-pain-management-integrating-traditional-medicine-and-modern-tech-2026": {
+    "id": "guide:chronic-pain-management-integrating-traditional-medicine-and-modern-tech-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the clinic which department will assess your pain and whether it needs a referral or previous records. Prepare a short account of what limits your day and a list of medicines, supplements and herbs. If you plan to see more than one type of provider, agree who will review the full list and share the plan with your clinician at home.",
+    "forWhom": "Travelers and international residents preparing for a first appointment for ongoing pain in Korea.",
+    "conditions": [
+      "Referral, interpretation, physical access and information sharing vary by facility. Check the exact appointment and any rules for medicines you will bring."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "healthcare",
+      "medication",
+      "accessibility"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w46-medical-korea-info",
+        "title": "Medical Korea Information Center",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "note": "The center gives information on medical institutions and services and advises on booking or brokerage complaints.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-pain-nhs-assessment",
+        "title": "Ipswich Hospital NHS pain consultation information",
+        "url": "https://www.esneft.nhs.uk/service/pain-management/what-happens-when-you-are-referred-to-the-service/",
+        "note": "This UK service describes asking about the effect of pain on daily life and suggests a list of current medicines and how often they are taken.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w46-pain-mfds-medication",
+        "title": "Korea MFDS controlled medicine entry permit notice",
+        "url": "https://www.mfds.go.kr/brd/m_74/view.do?Data_stts_gubun=C9999&company_cd=&company_nm=&itm_seq_1=0&itm_seq_2=0&multi_itm_seq=0&page=118&seq=43906&srchFr=&srchTo=&srchTp=0&srchWord=",
+        "note": "MFDS says travelers entering with medicines that contain controlled substances for their own treatment require a permit regardless of nationality.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Before booking, confirm who will review your records and medicines and who will manage the follow-up."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1699,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
   }
 }

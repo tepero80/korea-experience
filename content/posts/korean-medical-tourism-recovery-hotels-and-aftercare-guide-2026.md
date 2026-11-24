@@ -22,6 +22,8 @@ Before paying for a room, ask what help you will need at discharge and where you
 
 If your stay relates to a breast implant consultation, use the [breast implant follow-up questions](/blog/breast-augmentation-in-korea-cost-clinics-and-recovery-2026) to ask what records and visits you may need after leaving.
 
+For a breast reduction consultation, [ask the surgeon to identify the visits and documents you would need before returning home](/blog/breast-reduction-surgery-in-korea-specialized-clinics-and-recovery-tips-2026) before you reserve lodging.
+
 ## Keep the room, return journey and follow-up connected
 
 Write down how you will reach the clinic, who will help with the transfer and how to contact the treating facility outside normal hours. The [UK guidance on treatment abroad](https://www.gov.uk/guidance/in-hospital-abroad) recommends planning for healthcare after treatment and transport home. If you also have a flight, review the [airline and return-travel checklist](/blog/flying-after-surgery-when-is-it-safe-to-head-home-doctor-advice-2026) with the treating team before relying on your departure date.

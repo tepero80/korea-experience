@@ -41,6 +41,8 @@ If you have an MFDS approval, keep the approval information with the medicine an
 
 For the return trip, check [taking prescription medicine home from Korea](/blog/bringing-prescription-medications-home-customs-rules).
 
+If your trip includes a pain appointment, use the same medicine list to [prepare your symptom history and ask who will review your care](/blog/chronic-pain-management-integrating-traditional-medicine-and-modern-tech-2026).
+
 ## A pre-flight checklist
 
 1. List each medicine’s active ingredient, strength, and prescribed directions.

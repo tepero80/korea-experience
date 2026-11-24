@@ -18,6 +18,8 @@ Tell your treating team the dates, flight lengths, connections and any help you 
 | Ticket issuer or travel agent | Change options, the cost of moving multiple segments and how to retain onward connections. |
 | Insurer, where applicable | Whether a change or extra stay is covered and whether approval is needed before spending. |
 
+If you are considering rhinoplasty, [ask the surgeon which checks must happen before you leave Korea](/blog/rhinoplasty-in-korea-complete-guide-cost-and-best-clinics-2026). Bring the answer to your airline conversation.
+
 ## Ask the airline for its current instructions
 
 Use the **operated by** line on your booking, especially for a codeshare. [Korean Air](https://www.koreanair.com/contents/plan-your-travel/special-assistance/disability-assistance/medical-services?hl=en) lists recent surgery among cases needing a medical certificate and provides a MEDIF process. [Emirates](https://www.emirates.com/us/english/before-you-fly/health/medical-information-forms/) describes separate passenger and treating-clinician sections and may ask for further information. Ask about the deadline and the latest form for your flights, then wait for an answer before relying on the booking.

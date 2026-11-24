@@ -27,6 +27,8 @@ If your travel depends on a confirmed appointment, use the [medical visit visa c
 
 For a dental visit, use the [dental booking and follow-up checklist](/blog/korean-dental-tourism-implants-whitening-and-veneers-guide-2026) to confirm the specific department and which dates depend on assessment.
 
+If the reply quotes a glass-skin package, [ask for the exact branch, services and itemized price](/blog/korean-glass-skin-treatment-clinic-guide) before paying a deposit.
+
 ## Make the visit work on the day
 
 Save the Korean name of the clinic, its exact branch and your booking response. Ask which ID to carry, what the consultation may cost and whether language support covers the consultation itself. When a clinic asks for medical records, use a channel you have verified with the provider and check which documents are needed.
