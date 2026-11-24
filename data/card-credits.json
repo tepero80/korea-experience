@@ -4514,5 +4514,50 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "why-google-maps-doesnt-work-in-korea": {
+    "src": "/images/cards/why-google-maps-doesnt-work-in-korea.jpg",
+    "fingerprint": "0c36d23e2810c821f29518c100e07a8d7fd5617fea30bf3056a60f9cce3e4a9b",
+    "sourceImage": "/images/editorial/archive-seoul-station-gyeongui-sign-2019-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "LERK",
+      "title": "Korail-P313-Seoul-station-sign-20191021-112136.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korail-P313-Seoul-station-sign-20191021-112136.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoul-bike-ddaereungi-without-local-number-2026": {
+    "src": "/images/cards/seoul-bike-ddaereungi-without-local-number-2026.jpg",
+    "fingerprint": "e5aef480e58b5218a1d32f3347ee4cb2aa29505a453b2cfadf8a3de4714bba15",
+    "sourceImage": "/images/editorial/archive-seoul-bike-station-board-2018-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "LittleT889",
+      "title": "Seoul Bike Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Bike_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "hanbok-modern-styling-tips-2026": {
+    "src": "/images/cards/hanbok-modern-styling-tips-2026.jpg",
+    "fingerprint": "333d3ba25bbefcf7f6a1d3247dcc7f36493187ddd96695cfcd0f54b46bfe53ad",
+    "sourceImage": "/images/editorial/archive-seoul-hanbok-window-display-2006-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Photocapy",
+      "title": "Seoul-Hanbok.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-Hanbok.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

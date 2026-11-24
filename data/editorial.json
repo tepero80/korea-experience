@@ -28855,5 +28855,283 @@
     },
     "cardImageLabel": "Spring tulips at Seoul Forest",
     "cardImageCrop": "contain"
+  },
+  "why-google-maps-doesnt-work-in-korea": {
+    "id": "guide:why-google-maps-doesnt-work-in-korea",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Google Maps to find and save places. Check transit if it is offered for your route. Keep Naver Map or KakaoMap ready for walking, driving and the final turn to your entrance.",
+    "forWhom": "Travelers who normally use Google Maps and want a backup in Korea",
+    "conditions": [
+      "Route availability can differ by trip and device.",
+      "Check the exact branch, station line or entrance before starting."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "navigation",
+      "local transport",
+      "trip logistics"
+    ],
+    "relations": [
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "next",
+        "label": "Match the airport route to your hotel",
+        "reason": "Pick a train, bus or taxi using the actual stop and final hotel walk."
+      },
+      {
+        "slug": "accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026",
+        "type": "next",
+        "label": "Check a step-free approach",
+        "reason": "Confirm the station elevator and the venue entrance before relying on a route."
+      },
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "next",
+        "label": "Put your map lists to work",
+        "reason": "Group Seoul stops so you can check each short journey before leaving."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kto-transport-guide",
+        "title": "Korea Tourism Organization travel transport guide",
+        "url": "https://english.visitkorea.or.kr/public/contents/travel/KoreaTransportationGuide_enu.pdf",
+        "note": "Guidance for local map apps and transport planning.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "google-map-data-qa-kr",
+        "title": "Google Korea on Korean map data",
+        "url": "https://blog.google/intl/ko-kr/company-news/inside-google/google-maps-data-export-qa-kr/",
+        "note": "Explains the map data it uses and the distinction between maps and routing.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "government-google-november-2026",
+        "title": "Korean government update of November 13, 2026",
+        "url": "https://www.motir.go.kr/attach/down/095a2dda9c864e1d90d751f7668a1117/ae9b860939a149f0a75b89741e3398d8/9a9db098b587ee18b321c826f3707a49",
+        "note": "Reports checks on the conditions attached to the map-data export permission.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "royal-palace-visit",
+        "title": "Royal Palaces and Tombs Center visitor information",
+        "url": "https://royal.khs.go.kr/ENG/contents/E702000000.do",
+        "note": "Confirms the Gyeongbokgung road address used in the route example.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Save exact Korean names and street addresses.",
+      "Set up a local map for your final approach."
+    ],
+    "launchOrder": 1310,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-station-gyeongui-sign-2019",
+    "heroCaption": "A Seoul Station sign on the Gyeongui–Jungang Line in October 2019. It identifies a line within the station complex. Use current signs for KTX or the airport railroad.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "LERK",
+      "title": "Korail-P313-Seoul-station-sign-20191021-112136.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korail-P313-Seoul-station-sign-20191021-112136.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "A Gyeongui–Jungang Line sign at Seoul Station",
+    "cardImageCrop": "contain"
+  },
+  "seoul-bike-ddaereungi-without-local-number-2026": {
+    "id": "guide:seoul-bike-ddaereungi-without-local-number-2026",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Open the official Seoul Bike app and choose its tourist option. Confirm payment and both stations before unlocking. At the end, lock the bike and wait for the return confirmation.",
+    "forWhom": "Short-stay visitors planning a Seoul public-bike ride without a Korean mobile number",
+    "conditions": [
+      "The city’s tourist walkthrough uses email. Check the current card choices in the app.",
+      "Pass validity and the time allowed on each rental are separate."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "cycling",
+      "local transport",
+      "riverside trips"
+    ],
+    "relations": [
+      {
+        "slug": "t-money-for-taxis-and-bikes-2026",
+        "type": "next",
+        "label": "Pair your ride with other transport",
+        "reason": "Check which payment method to prepare for each part of the trip."
+      },
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "next",
+        "label": "Keep a flexible Seoul plan",
+        "reason": "Switch to a walking and transit day if the ride falls through."
+      }
+    ],
+    "sources": [
+      {
+        "id": "seoul-bike-tourist",
+        "title": "Seoul City’s tourist purchase and help instructions",
+        "url": "https://english.seoul.go.kr/seoul-bike-instructions-and-chatbot-service-for-international-tourists/",
+        "note": "Official tourist app flow with email, card selection and English help.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-bike-price",
+        "title": "Seoul City’s public bike fares",
+        "url": "https://english.seoul.go.kr/service/movement/seoul-public-bike/2-about-the-service/",
+        "note": "Non-member pass prices, rental windows and fees.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-bike-rent-return",
+        "title": "Seoul City’s rental and return steps",
+        "url": "https://english.seoul.go.kr/service/movement/seoul-public-bike/3-rent-return-bike/",
+        "note": "Official app links, bike identification and return confirmation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-yeouido-park-address",
+        "title": "Seoul City’s Yeouido Hangang Park access information",
+        "url": "https://english.seoul.go.kr/2025-hangang-park-sledding-hill-opening-notice/",
+        "note": "Identifies the park’s road address and Yeouinaru exits. The event on that page is historical.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Choose the tourist purchase option.",
+      "Check the return confirmation before you walk away."
+    ],
+    "launchOrder": 1311,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-bike-station-board-2018",
+    "heroCaption": "A Seoul Bike docking-station sign from September 2018. Current station markers and the app controls may look different.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "LittleT889",
+      "title": "Seoul Bike Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Bike_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "A numbered Seoul Bike docking station",
+    "cardImageCrop": "contain"
+  },
+  "hanbok-modern-styling-tips-2026": {
+    "id": "guide:hanbok-modern-styling-tips-2026",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a complete hanbok outfit for regular palace admission under the hanbok policy. A modern set can qualify when the jacket and bottoms meet the palace rules. Style single pieces freely for a day around town.",
+    "forWhom": "Visitors deciding what to rent, buy or wear for a Seoul palace visit",
+    "conditions": [
+      "Check the garment combination against the palace’s current rules.",
+      "Look up separate admission for special events and reserved areas."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "hanbok",
+      "palaces",
+      "heritage"
+    ],
+    "relations": [
+      {
+        "slug": "hanbok-rental-complete-guide-styles-and-pricing",
+        "type": "next",
+        "label": "Choose a rental that fits the visit",
+        "reason": "Check sizing, the full set and the return time before leaving the shop."
+      },
+      {
+        "slug": "unhyeongung-anguk-traditional-house-visit",
+        "type": "next",
+        "label": "Continue to a historic house near Anguk",
+        "reason": "Pick the entrance and check visiting hours for a quieter follow-up."
+      },
+      {
+        "slug": "changgyeonggung-ordinary-evening-visit",
+        "type": "next",
+        "label": "Plan an ordinary evening palace visit",
+        "reason": "Use the guide for an evening outing and confirm the current entry conditions."
+      }
+    ],
+    "sources": [
+      {
+        "id": "royal-hanbok-kr",
+        "title": "Royal Palaces and Tombs Center hanbok rules and examples in Korean",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R705000000.do",
+        "note": "Official outfit requirements for everyday and traditional hanbok, with examples.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "royal-hanbok-en",
+        "title": "Royal Palaces and Tombs Center hanbok rules in English",
+        "url": "https://royal.khs.go.kr/ENG/contents/E701000000.do",
+        "note": "English guidance on the required jacket and bottoms.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "royal-palace-visit",
+        "title": "Royal Palaces and Tombs Center visitor information",
+        "url": "https://royal.khs.go.kr/ENG/contents/E702000000.do",
+        "note": "Regular admission, opening and address information for Gyeongbokgung and other palaces.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "For palace admission, wear the complete qualifying set.",
+      "Check event tickets and special access separately."
+    ],
+    "launchOrder": 1312,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-hanbok-window-display-2006",
+    "heroCaption": "A Seoul hanbok shop window photographed in September 2006. Use it to recognize jacket and skirt shapes. Check current stock and palace rules separately.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Photocapy",
+      "title": "Seoul-Hanbok.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-Hanbok.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Hanbok jackets and skirts in a Seoul shop window",
+    "cardImageCrop": "contain"
   }
 }

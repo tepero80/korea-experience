@@ -11044,5 +11044,74 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
     },
     "caption": "A tulip bed in Seoul Forest, photographed April 6, 2024. Check recent park updates for the beds and flowering on your own dates."
+  },
+  {
+    "id": "archive-seoul-station-gyeongui-sign-2019",
+    "src": "/images/editorial/archive-seoul-station-gyeongui-sign-2019-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-station-gyeongui-sign-2019-640.webp 640w, /images/editorial/archive-seoul-station-gyeongui-sign-2019-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Blue Seoul Station sign marked P313 on the Gyeongui–Jungang Line.",
+    "focal": "54% 56%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Korail-P313-Seoul-station-sign-20191021-112136.jpg",
+    "originalHash": "ce4a07253b3be1c1eac30e5dbd437f9338be7b0d30c26e0539a64f087fde7aa5",
+    "capturedAt": "2019-10-21",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "LERK",
+      "title": "Korail-P313-Seoul-station-sign-20191021-112136.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korail-P313-Seoul-station-sign-20191021-112136.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "A Seoul Station sign on the Gyeongui–Jungang Line in October 2019. It identifies a line within the station complex. Use current signs for KTX or the airport railroad."
+  },
+  {
+    "id": "archive-seoul-bike-station-board-2018",
+    "src": "/images/editorial/archive-seoul-bike-station-board-2018-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-bike-station-board-2018-640.webp 640w, /images/editorial/archive-seoul-bike-station-board-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 1707,
+    "alt": "The numbered information post of a Seoul Bike rental station beside a bike dock.",
+    "focal": "55% 49%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul_Bike_Station.jpg",
+    "originalHash": "3ab942f9c4b5f710b9b89434b1c8ee3aef966884a86832810751fffabb13b34c",
+    "capturedAt": "2018-09-23",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "LittleT889",
+      "title": "Seoul Bike Station.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Bike_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "A Seoul Bike docking-station sign from September 2018. Current station markers and the app controls may look different."
+  },
+  {
+    "id": "archive-seoul-hanbok-window-display-2006",
+    "src": "/images/editorial/archive-seoul-hanbok-window-display-2006-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-hanbok-window-display-2006-640.webp 640w, /images/editorial/archive-seoul-hanbok-window-display-2006-1280.webp 1280w",
+    "width": 1280,
+    "height": 975,
+    "alt": "Colorful hanbok displayed in a Seoul shop window, including jackets and long skirts.",
+    "focal": "42% 50%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul-Hanbok.jpg",
+    "originalHash": "9f61c63e77600ab40ae5c48ab2382d5915c60abe278962711ba95ca4ee18c5c0",
+    "capturedAt": "2006-09-16",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Photocapy",
+      "title": "Seoul-Hanbok.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-Hanbok.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "A Seoul hanbok shop window photographed in September 2006. Use it to recognize jacket and skirt shapes. Check current stock and palace rules separately."
   }
 ]
