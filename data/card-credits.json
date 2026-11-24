@@ -16,7 +16,7 @@
   },
   "first-trip-to-korea-planning-guide": {
     "src": "/images/cards/first-trip-to-korea-planning-guide.jpg",
-    "fingerprint": "2a482387d1205493bb7fd96c210f7b52915df5935d5a8cbffeee0f162e923204",
+    "fingerprint": "0aca1190bc1b0b3b83e5a61c577c3e2fe5143ca73671333a813f3c31a088edbe",
     "sourceImage": "/images/editorial/seoul-station-exterior-1280.webp",
     "credit": {
       "kind": "photograph",
@@ -5099,5 +5099,35 @@
     "src": "/images/cards/a-guide-to-korean-regional-flavors-jeolla-do-vs-gyeongsang-do-2026.jpg",
     "fingerprint": "d40abd8b700bbb591d2d4eb36066932685232dcd24fc195380ceadd8482af310",
     "adaptation": "Typographic social preview."
+  },
+  "do-i-need-a-k-eta-in-2026-a-complete-guide-for-all-100-nationalities": {
+    "src": "/images/cards/do-i-need-a-k-eta-in-2026-a-complete-guide-for-all-100-nationalities.jpg",
+    "fingerprint": "9cec1c8eb9c1ad4f2ad3ce4ed20ecc79ef95deac8e7de47517e88d7fefe0b0b8",
+    "adaptation": "Typographic social preview."
+  },
+  "how-to-use-a-korean-laundromat-machine-labels-payment-and-common-settings": {
+    "src": "/images/cards/how-to-use-a-korean-laundromat-machine-labels-payment-and-common-settings.jpg",
+    "fingerprint": "dd64a6a841720b1fc1148026378b246901fa1030d271bf641477016e7297d43e",
+    "adaptation": "Typographic social preview."
+  },
+  "a-first-timer-guide-to-korean-bakery-caf-s-ordering-seating-and-takeaway-customs": {
+    "src": "/images/cards/a-first-timer-guide-to-korean-bakery-caf-s-ordering-seating-and-takeaway-customs.jpg",
+    "fingerprint": "edd5177e62ee4d632203984c77f3646fb549b0b727ed765caac0d47eb4b77a7b",
+    "adaptation": "Typographic social preview."
+  },
+  "namdaemun-market-bargaining-tips": {
+    "src": "/images/cards/namdaemun-market-bargaining-tips.jpg",
+    "fingerprint": "c0e9c501e291287a5637ad4bf4e5a45a51688995577cae5682d75b29e04139e6",
+    "sourceImage": "/images/editorial/seoul-namdaemun-market-crowded-lane-november-2026-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "남대문시장 거리모습.jpg",
+      "author": "Bykim2012",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:남대문시장_거리모습.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. Photographed 2026-11-17."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

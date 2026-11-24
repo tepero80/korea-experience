@@ -1,7 +1,7 @@
 ---
 title: 'Your First Korea Trip: A Practical Plan Before You Book'
 date: '2026-10-31'
-updated: '2026-10-31'
+updated: '2026-11-24'
 excerpt: >-
   Count your usable days, check entry rules and choose a hotel base before
   filling a Korea itinerary with tickets.
@@ -35,12 +35,14 @@ Start with the official [Korea Visa Navigator](https://www.visa.go.kr/openPage.d
 | Check                            | Official starting point                                                                                         | What not to assume                                                |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | Visa or visa-free eligibility    | Visa Navigator and diplomatic mission                                                                           | Another traveler's passport has the same rules                    |
-| K-ETA authorization or exemption | [K-ETA notice](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y&locale=EN) | A temporary exemption covers every country or continues into 2027 |
+| K-ETA authorization or exemption | [K-ETA notice](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332884) | A temporary exemption covers every passport or travel purpose |
 | Arrival declaration              | [e-Arrival Card eligibility](https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do?locale=E)           | A K-ETA exemption also exempts you from an arrival declaration    |
 
-**Date-sensitive:** the checked K-ETA notice extends its listed countries' temporary exemption through **31 December 2026, Korean time**. It does not establish the rules for a 2027 arrival. Recheck before a nonrefundable purchase.
+In its 23 November 2026 notice, the Ministry of Justice extends the temporary exemption through **31 December 2027, Korean time**, for countries and regions already covered. Check your own passport and travel purpose before paying.
 
 For travelers required to file, the official [e-Arrival Card guide](https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E) says filing is free and available from three days before arrival, using Korean time. Prepare your passport, email, arrival details and accommodation information. Follow the eligibility page for exceptions, including valid K-ETA holders.
+
+Use the [K-ETA decision guide](/blog/do-i-need-a-k-eta-in-2026-a-complete-guide-for-all-100-nationalities) to check the visa, authorization and declaration steps in order.
 
 ## Choose the base around repeated journeys
 

@@ -9,7 +9,7 @@
     "forWhom": "First-time international visitors arranging a short Korea trip",
     "conditions": [
       "Entry rules depend on passport, purpose and arrival date.",
-      "The checked temporary K-ETA exemption ends 31 December 2026; 2027 is unverified."
+      "The November 23 notice extends the temporary K-ETA exemption for currently covered countries and regions through December 31, 2027 KST."
     ],
     "regions": [
       "seoul"
@@ -54,11 +54,11 @@
         "note": ""
       },
       {
-        "id": "keta-2026",
-        "title": "K-ETA: temporary exemption through 31 December 2026",
-        "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y&locale=EN",
-        "checkedAt": "2026-10-31",
-        "note": "Listed nationalities only; does not establish 2027 rules."
+        "id": "moj-keta-2027-notice",
+        "title": "Ministry of Justice: Extension for currently exempt countries and regions",
+        "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332884",
+        "note": "Notice published November 23, 2026. The temporary exemption for countries and regions already covered extends through December 31, 2027 KST. Check your own passport and purpose separately.",
+        "checkedAt": "2026-11-24"
       },
       {
         "id": "arrival-eligibility",
@@ -385,11 +385,11 @@
         "note": "Current guide read: free filing, available from three days before arrival based on KST, preparation information, and distinction from K-ETA. Eligibility is not universal merely because the guide exists."
       },
       {
-        "id": "moj-keta-exemption-2026",
-        "title": "Ministry of Justice K-ETA: Notice on Extension of K-ETA Temporary Exemption",
-        "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y&locale=EN",
-        "checkedAt": "2026-10-31",
-        "note": "Read notice published December 23, 2025. Temporary exemption extends through December 31, 2026 KST only for countries/regions already subject to that exemption; it is not a universal visa exemption or a 2027 rule."
+        "id": "moj-keta-2027-notice",
+        "title": "Ministry of Justice: Extension for currently exempt countries and regions",
+        "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332884",
+        "note": "Notice published November 23, 2026. The temporary exemption for countries and regions already covered extends through December 31, 2027 KST. Check your own passport and purpose separately.",
+        "checkedAt": "2026-11-24"
       }
     ],
     "shareFacts": [
@@ -33937,5 +33937,261 @@
         "checkedAt": "2026-11-24"
       }
     ]
+  },
+  "do-i-need-a-k-eta-in-2026-a-complete-guide-for-all-100-nationalities": {
+    "id": "guide:do-i-need-a-k-eta-in-2026-a-complete-guide-for-all-100-nationalities",
+    "checkedAt": "2026-11-24",
+    "placeIds": [],
+    "tools": [],
+    "categoryId": "plan-your-trip",
+    "format": "how-to",
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "passport-specific K-ETA eligibility and application"
+    ],
+    "answer": "Check whether your passport and purpose qualify for visa-free entry. The November 23 notice extends the temporary K-ETA exemption for already covered countries and regions through December 31, 2027 KST. Check the arrival declaration separately.",
+    "forWhom": "Travelers confirming entry documents before boarding for Korea",
+    "conditions": [
+      "The 2027 extension covers countries and regions already temporarily exempt.",
+      "Passport, purpose and arrival date affect the requirements. An authorization and an arrival declaration serve different purposes."
+    ],
+    "relations": [
+      {
+        "slug": "first-trip-to-korea-planning-guide",
+        "type": "next",
+        "label": "Continue planning your first trip",
+        "reason": "Set your dates, accommodation and transfer after checking the entry documents."
+      }
+    ],
+    "heroOmissionReason": "The entry-document decision table is more useful than a generic airport picture.",
+    "shareFacts": [
+      "Confirm your passport, purpose and date.",
+      "Check the arrival declaration separately."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1377,
+    "sources": [
+      {
+        "id": "moj-keta-2027-notice",
+        "title": "Ministry of Justice: Extension for currently exempt countries and regions",
+        "url": "https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332884",
+        "note": "Notice published November 23, 2026. The temporary exemption for countries and regions already covered extends through December 31, 2027 KST. Check your own passport and purpose separately.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visa-navigator",
+        "title": "Korea Visa Portal: Visa Navigator",
+        "url": "https://www.visa.go.kr/openPage.do?MENU_ID=10102",
+        "note": "Start here for the relevant passport and travel purpose.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "keta-application",
+        "title": "K-ETA Center: Application guide",
+        "url": "https://www.k-eta.go.kr/portal/guide/viewetaapplication.do?locale=EN",
+        "note": "Lists the assessment timing and distinguishes travel authorization from admission.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "e-arrival-eligibility",
+        "title": "Korea Immigration: Who completes an arrival declaration",
+        "url": "https://e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do?locale=EN",
+        "note": "Distinguishes temporary K-ETA exemption, K-ETA holders and travelers entering on visas.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "e-arrival-guide",
+        "title": "Korea Immigration: e-Arrival Card guide",
+        "url": "https://e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E",
+        "note": "Explains when to file and that the official declaration is free.",
+        "checkedAt": "2026-11-24"
+      }
+    ]
+  },
+  "how-to-use-a-korean-laundromat-machine-labels-payment-and-common-settings": {
+    "id": "guide:how-to-use-a-korean-laundromat-machine-labels-payment-and-common-settings",
+    "checkedAt": "2026-11-24",
+    "placeIds": [],
+    "tools": [],
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "coin laundry machine controls and detergent"
+    ],
+    "answer": "Check the machine or kiosk for the price, payment and detergent instructions before starting. On the panel, 세탁 means wash, 건조 means dry, and 자동 투입 refers to automatic dispensing.",
+    "forWhom": "Visitors doing laundry without an attendant or hotel laundry service",
+    "conditions": [
+      "Controls and payment vary by location.",
+      "Check garment care labels and the equipment instructions. Ask the operator before adding any product if unsure."
+    ],
+    "relations": [
+      {
+        "slug": "247-coin-laundromats-guide-2026",
+        "type": "next",
+        "label": "Find a place to wash",
+        "reason": "Check branch access, drying and a backup before walking there."
+      }
+    ],
+    "heroOmissionReason": "Use the Korean control labels and step-by-step table. The exact panel varies by model.",
+    "shareFacts": [
+      "Identify wash and dry controls.",
+      "Check detergent and payment before starting."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1378,
+    "sources": [
+      {
+        "id": "cleantopia-service",
+        "title": "Cleantopia: Self-service laundry",
+        "url": "https://www.cleantopia.com/en/coin/self.do",
+        "note": "Describes automatic detergent and softener for its coin-wash service.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "cleantopia-equipment",
+        "title": "Cleantopia: Coin Wash 365 equipment (Korean)",
+        "url": "https://www.cleantopia.com/kr/establish/coin2.do",
+        "note": "Explains coin operation and automatic dispensing on the equipment it describes.",
+        "checkedAt": "2026-11-24"
+      }
+    ]
+  },
+  "a-first-timer-guide-to-korean-bakery-caf-s-ordering-seating-and-takeaway-customs": {
+    "id": "guide:a-first-timer-guide-to-korean-bakery-caf-s-ordering-seating-and-takeaway-customs",
+    "checkedAt": "2026-11-24",
+    "placeIds": [],
+    "tools": [],
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "bakery café tray ordering and seating"
+    ],
+    "answer": "Follow the shop’s display and counter instructions. Ask if seating is available before paying, and use 매장에서 먹을게요 for eating in or 포장해 주세요 for takeaway.",
+    "forWhom": "Travelers buying bread or pastries at a Korean bakery café for the first time",
+    "conditions": [
+      "Ordering, seating and table clearing vary by shop.",
+      "For food allergies, check the exact item and shared equipment with staff."
+    ],
+    "relations": [],
+    "heroOmissionReason": "The ordering decision table is the lead visual. No licensed photo of either example shop was verified.",
+    "shareFacts": [
+      "Check the tray, counter or kiosk.",
+      "Ask about seating before paying."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1379,
+    "sources": [
+      {
+        "id": "kto-ijin",
+        "title": "VISITKOREA: Ijin Sanghoe",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=187326",
+        "note": "Describes selecting bread and using ceramic plates at this Icheon café.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-meal-seongsu",
+        "title": "VISITKOREA: Meal° (Seongsu)",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=177426",
+        "note": "Describes a shop listing with takeaway only.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tlj-one-pastry",
+        "title": "Tous Les Jours: Allergen label for the 32-layer bread (Korean)",
+        "url": "https://m.tlj.co.kr/product/detail.asp?prod_num=5096",
+        "note": "Shows allergens for one identified product. It cannot establish any other item’s ingredients.",
+        "checkedAt": "2026-11-24"
+      }
+    ]
+  },
+  "namdaemun-market-bargaining-tips": {
+    "id": "guide:namdaemun-market-bargaining-tips",
+    "checkedAt": "2026-11-24",
+    "placeIds": [
+      "namdaemun"
+    ],
+    "tools": [],
+    "categoryId": "shopping-kbeauty",
+    "format": "place",
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "namdaemun market payment, quantities and bargaining"
+    ],
+    "answer": "Ask for the total for the exact quantity you want. Confirm payment and exchanges before buying, especially at stalls showing bundle or wholesale prices.",
+    "forWhom": "Visitors shopping for clothing, gifts or small purchases at Seoul’s Namdaemun Market",
+    "conditions": [
+      "Sellers set their own hours, quantities, prices and payment terms.",
+      "Compare identical quantities and check the actual item and seller’s terms before paying."
+    ],
+    "relations": [
+      {
+        "slug": "seoul-shopping-districts-complete-guide-myeongdong-to-gangnam",
+        "type": "next",
+        "label": "Compare another Seoul shopping district",
+        "reason": "Choose the next stop by what you still need to buy."
+      }
+    ],
+    "shareFacts": [
+      "Save the market pin near Hoehyeon.",
+      "Ask the seller for the total before paying."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1380,
+    "sources": [
+      {
+        "id": "visit-seoul-namdaemun",
+        "title": "Visit Seoul: Namdaemun Market",
+        "url": "https://english.visitseoul.net/attractions/Namdaemun-Market/ENP000085",
+        "note": "Identifies Hoehyeon Station and Line 4 for the market.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "namdaemun-association-access",
+        "title": "Namdaemun Market association: Access map (Korean)",
+        "url": "https://www.namdaemunmarket.co.kr/01_int/01.php",
+        "note": "Shows entrances on the market side of Hoehyeon Station.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-namdaemun",
+        "title": "VISITKOREA: Namdaemun Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=106358",
+        "note": "Lists the market address and hours that vary by shop.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "heroMediaId": "seoul-namdaemun-market-crowded-lane-november-2026",
+    "heroCaption": "A lane in Seoul’s Namdaemun Market in November 2026. Ask each seller about payment and the complete price.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "남대문시장 거리모습.jpg",
+      "author": "Bykim2012",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:남대문시장_거리모습.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. Photographed 2026-11-17."
+    }
   }
 }

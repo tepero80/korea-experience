@@ -35,6 +35,8 @@ MFDS explains that cross-contact warnings may apply when products with and witho
 
 This page is about packaged products with labeling under Korea's food-labeling rules. It does not certify convenience-store food, a brand, product line or restaurant as safe for you. A prepared meal may involve shared equipment or handling that a package-label guide cannot verify. For restaurant questions and cross-contact, see [how to navigate Korean restaurant menus with allergies](/blog/navigating-korean-restaurant-menus-with-allergies-translation-and-cross-contact). For gluten-specific dining preparation, use the [gluten-free Korea guide](/blog/gluten-free-guide-to-korean-food-what-to-eat-and-avoid-2026).
 
+At a bakery without a sealed package, ask about the exact item and shared tongs. The [bakery ordering guide](/blog/a-first-timer-guide-to-korean-bakery-caf-s-ordering-seating-and-takeaway-customs) has Korean phrases for that conversation.
+
 ## A careful buying routine
 
 1. Keep the names of your known allergens in Korean and your preferred language. Have a fluent speaker verify the terms before travel; machine translation can miss ingredient and processing nuance.

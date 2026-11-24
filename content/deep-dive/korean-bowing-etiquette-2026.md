@@ -53,7 +53,6 @@ In a city of 10 million people where personal space is at a premium, this tiny g
     { time: "1883", title: "First US Mission", description: "Korean envoys (Bobbingsa) performed deep bows to the US President, causing confusion in Washington.", icon: "🤝" },
     { time: "1910", title: "End of Monarchy", description: "Formal 90-degree bows to royalty became less common as Korea modernized.", icon: "👑" },
     { time: "2020s", title: "MZ Generation Shift", description: "Young Koreans reclaim traditional etiquette as 'Newtro' (New + Retro) trend.", icon: "🔄" },
-    { time: "2026", title: "K-ETA Waiver Extension", description: "Ministry of Justice extends temporary waiver until December 31, making tourism easier than ever.", icon: "✈️" }
   ]}
 />
 
@@ -200,4 +199,3 @@ Take a deep breath, tilt your torso just a little bit, and get ready for the bes
 - [US Army Garrison Yongsan](https://www.army.mil) - Historical context and modern bowing situations for expats.
 - [CCorea Cultural Blog](https://ccorea.com) - Detailed breakdown of bow types and specific etiquette "don'ts."
 - [Korea JoongAng Daily](https://koreajoongangdaily.joins.com) - Analysis of 2026 consumer behavior and the "Newtro" trend.
-- [Ministry of Justice (MOFA)](https://www.mofa.go.kr) - Official government notice on K-ETA temporary exemption through 2026.

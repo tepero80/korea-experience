@@ -33,6 +33,8 @@ Search **코인빨래방** (coin laundry) or **셀프빨래방** (self-service l
 
 **지금 셀프 세탁기와 건조기를 사용할 수 있나요?** (Can I use the self-service washer and dryer now?)
 
+Before you start a cycle, check the [Korean washer and dryer label guide](/blog/how-to-use-a-korean-laundromat-machine-labels-payment-and-common-settings) for detergent, payment and useful phrases.
+
 ## At the machine
 
 1. Check labels on your clothes and the machine. Look for **세탁** (wash) and **건조** (dry). Check whether detergent is dispensed before adding any.

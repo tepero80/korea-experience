@@ -49,6 +49,8 @@ The [official Namdaemun listing](https://english.visitseoul.net/shopping/Namdaem
 
 Ask for price, quantity, fitting rules and return conditions before paying. If a particular product is essential, identify its section or shop first; a generic market pin will not find it for you.
 
+Use the [Namdaemun shopping guide](/blog/namdaemun-market-bargaining-tips) to compare individual items with bundle prices and confirm payment at the stall.
+
 ## Gangnam Station: keep it distinct from COEX
 
 The [Gangnam Station underground shopping listing](https://english.visitseoul.net/shopping/Gangnam-Station-Underground-Shopping-Center/ENP017740) gives **396 Gangnam-daero** and listed hours **09:00–22:00**, with merchant variation. This is a specific underground area, not every shop in Gangnam.

@@ -1,7 +1,7 @@
 ---
 title: 'Before Your Korea Trip: What to Arrange First, and What to Recheck'
 date: '2026-10-31'
-updated: '2026-10-31'
+updated: '2026-11-24'
 excerpt: >-
   Use an eight-week preparation sequence without mistaking it for the official
   sales window of every ticket.
@@ -29,7 +29,7 @@ You can compress the sequence for a short-notice trip. Do not move a booking ear
 
 ## Separate entry eligibility from the arrival declaration
 
-Use the [official Visa Navigator](https://www.visa.go.kr/openPage.do?MENU_ID=10102) and the relevant diplomatic mission for your passport and purpose. The checked [K-ETA temporary-exemption notice](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707&esntlPnotiMtYn=Y&locale=EN) covers listed nationalities only through **31 December 2026, Korean time**. It does not establish 2027 rules.
+Use the [official Visa Navigator](https://www.visa.go.kr/openPage.do?MENU_ID=10102) and the relevant diplomatic mission for your passport and purpose. [The Ministry of Justice’s 23 November 2026 notice](https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=332884) extends the temporary exemption through **31 December 2027, Korean time**, for countries and regions already covered. Confirm your own passport and travel purpose.
 
 The [e-Arrival Card guide](https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E) says filing is free and opens from three days before arrival using Korean time. Check [who must file](https://www.e-arrivalcard.go.kr/portal/guide/eacTargetGuide.do?locale=E); a K-ETA exemption and an arrival-declaration exemption are not the same thing.
 

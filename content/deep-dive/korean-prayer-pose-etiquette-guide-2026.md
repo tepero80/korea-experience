@@ -33,9 +33,8 @@ Here is the deal: that palms-together gesture (which Buddhists call *Hapjang*) i
   facts={[
     { label: "Climate Card 1-Day Pass", value: "₩5,000", icon: "🚇" },
     { label: "Standard Polite Bow", value: "30 Degrees", icon: "🙇" },
-    { label: "K-ETA Exemption", value: "Until Dec 31, 2026", icon: "✈️" }
   ]}
-  columns={3}
+  columns={2}
 />
 
 ## The Background Story—Why Is Korea Like This?
@@ -47,9 +46,7 @@ Look, I get it. You want to be respectful, and in your head, "hands together" eq
   items={[
     { time: "1392", title: "Joseon Era Etiquette", description: "Neo-Confucianism sets the stage for the rigid bowing hierarchy we still see today.", icon: "👑" },
     { time: "1910", title: "Monarchy Ends", description: "The 90-degree 'royal bow' officially becomes a thing of the past for everyday folks.", icon: "📜" },
-    { time: "2023", title: "K-ETA Launch", description: "South Korea starts requiring electronic travel prep, then quickly pivots to help tourists.", icon: "✈️" },
     { time: "2024", title: "Climate Card Pilot", description: "Seoul launches the first unlimited transit card for subways, buses, and bikes.", icon: "🚇" },
-    { time: "2025", title: "K-ETA Suspension", description: "The government extends the visa-free entry exemption to keep the tourism boom going.", icon: "🎉" },
     { time: "2026", title: "Transit Expansion", description: "The Climate Card finally includes Incheon and major Gyeonggi areas for all-day exploring.", icon: "🗺️" }
   ]}
 />
