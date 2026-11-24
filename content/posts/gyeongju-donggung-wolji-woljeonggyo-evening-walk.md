@@ -29,7 +29,7 @@ Gyeongju’s [official evening walking route](https://gyeongju.go.kr/tour/page.d
 
 ## Donggung and Wolji: work back from the ticket gate
 
-**Donggung Palace and Wolji Pond (동궁과 월지)** · `경상북도 경주시 원화로 102 (인왕동)` · [Find the palace and pond in Naver Map](https://map.naver.com/p/search/%EB%8F%99%EA%B6%81%EA%B3%BC%20%EC%9B%94%EC%A7%80).
+**Donggung Palace and Wolji Pond (동궁과 월지)** · `경상북도 경주시 원화로 102 (인왕동)` · [Find the palace and pond in Naver Map](https://map.naver.com/p/search/%EB%8F%99%EA%B6%81%EA%B3%BC%20%EC%9B%94%EC%A7%80%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EC%9B%90%ED%99%94%EB%A1%9C%20102) ([Kakao Map](https://map.kakao.com/link/search/%EB%8F%99%EA%B6%81%EA%B3%BC%20%EC%9B%94%EC%A7%80%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EC%9B%90%ED%99%94%EB%A1%9C%20102) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EB%8F%99%EA%B6%81%EA%B3%BC%20%EC%9B%94%EC%A7%80%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EC%9B%90%ED%99%94%EB%A1%9C%20102)).
 
 The [city’s attraction page](https://www.gyeongju.go.kr/tour/page.do?area_uid=50&cmd=2&mnu_uid=4716) and [Korea Tourism Organization](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=94404) list **21:30** for last ticketing or admission and **22:00** for closing. Both list individual admission of **₩3,000 for adults, ₩2,000 for teenagers and ₩1,000 for children**. The city [admission guidance](https://gyeongju.go.kr/tour/page.do?mnu_uid=4838) warns that arriving close to the cutoff can mean missing entry. A [longer city itinerary](https://search.gyeongju.go.kr/tour/page.do?mnu_uid=4729) gives an earlier winter closing time, so use the attraction-specific listing as a starting point and confirm at **054-750-8655** if you are planning a winter or late arrival. Information checked November 23, 2026.
 
@@ -39,7 +39,7 @@ The [city’s night guide](https://gyeongju.go.kr/tour/page.do?mnu_uid=4859) des
 
 ## Woljeonggyo: a river view and a crossing are separate plans
 
-**Woljeonggyo Bridge (월정교)** · `경상북도 경주시 교동 274` · [Find Woljeonggyo in Naver Map](https://map.naver.com/p/search/%EC%9B%94%EC%A0%95%EA%B5%90).
+**Woljeonggyo Bridge (월정교)** · `경상북도 경주시 교동 274` · [Find Woljeonggyo in Naver Map](https://map.naver.com/p/search/%EC%9B%94%EC%A0%95%EA%B5%90%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EA%B5%90%EB%8F%99%20274) ([Kakao Map](https://map.kakao.com/link/search/%EC%9B%94%EC%A0%95%EA%B5%90%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EA%B5%90%EB%8F%99%20274) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EC%9B%94%EC%A0%95%EA%B5%90%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EA%B5%90%EB%8F%99%20274)).
 
 The [bridge-specific city listing](https://www.gyeongju.go.kr/tour/page.do?area_uid=49&cmd=2&code_uid=1012&mnu_uid=4716) lists free entry and bridge hours of **09:00–22:00**. The [city’s night guide](https://gyeongju.go.kr/tour/page.do?mnu_uid=4859) lists the bridge interior and lighting separately from the gatehouse exhibition. Confirm posted hours, seasonal notices and the entrance before counting on a late crossing. If you only want the view, look from an open public path on the riverbank. Leave the stepping stones out of the route when it is dark, wet, icy or uncomfortable for your group.
 

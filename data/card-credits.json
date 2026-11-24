@@ -4364,5 +4364,35 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "dior-seongsu-vs-traditional-market-2026": {
+    "src": "/images/cards/dior-seongsu-vs-traditional-market-2026.jpg",
+    "fingerprint": "c85f1a671195fd05d5dbe2b3ce6f44de716b5bef76c27d4a2cc1184473c16815",
+    "sourceImage": "/images/editorial/archive-seongsu-yeonmujang-street-2026-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Dr. Thomas Liptak",
+      "title": "Seoul, Seongdong District, Seongsu (Yeonmujang-gil).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul,_Seongdong_District,_Seongsu_(Yeonmujang-gil).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "vintage-thrifting-dongmyo-gwangjang-2026": {
+    "src": "/images/cards/vintage-thrifting-dongmyo-gwangjang-2026.jpg",
+    "fingerprint": "aa05cfc6583f4e01cc4b82689144030cc2fdeb8f190a537c98e80c4803d27490",
+    "sourceImage": "/images/editorial/archive-dongmyo-flea-market-street-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Seefooddiet",
+      "title": "Dongmyo Flea Market 10.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongmyo_Flea_Market_10.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

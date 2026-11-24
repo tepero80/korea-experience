@@ -10745,5 +10745,74 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
     },
     "caption": "Namdaemun Market Gate 5 in June 2010. The number refers to the market gate, separate from the numbered exits at Hoehyeon subway station."
+  },
+  {
+    "id": "archive-seongsu-yeonmujang-street-2026",
+    "src": "/images/editorial/archive-seongsu-yeonmujang-street-2026-1280.webp",
+    "srcSet": "/images/editorial/archive-seongsu-yeonmujang-street-2026-640.webp 640w, /images/editorial/archive-seongsu-yeonmujang-street-2026-1280.webp 1280w",
+    "width": 1280,
+    "height": 1920,
+    "alt": "People walking along a narrow commercial stretch of Yeonmujang-gil in Seongsu.",
+    "focal": "50% 70%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul,_Seongdong_District,_Seongsu_(Yeonmujang-gil).jpg",
+    "originalHash": "fabd8689a3b430a4da0f62a0ebd03f2e504b509361632764cb41e19c118b2069",
+    "capturedAt": "2026-09-30",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Dr. Thomas Liptak",
+      "title": "Seoul, Seongdong District, Seongsu (Yeonmujang-gil).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul,_Seongdong_District,_Seongsu_(Yeonmujang-gil).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Yeonmujang-gil in September 2026. This is the wider shopping street; use the separate Korean addresses below to find the Dior boutique on Yeonmujang 5-gil or Ttukdo Market."
+  },
+  {
+    "id": "archive-dongmyo-flea-market-street-2024",
+    "src": "/images/editorial/archive-dongmyo-flea-market-street-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-dongmyo-flea-market-street-2024-640.webp 640w, /images/editorial/archive-dongmyo-flea-market-street-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Shoppers passing street stalls under umbrellas at Dongmyo Flea Market.",
+    "focal": "63% 63%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Dongmyo_Flea_Market_10.jpg",
+    "originalHash": "a08ce6298f68835bcde2652b4fa6e460c818f063f9e241f8902d4f271fbac894",
+    "capturedAt": "2024-07-17",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Seefooddiet",
+      "title": "Dongmyo Flea Market 10.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongmyo_Flea_Market_10.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Street stalls at Dongmyo Flea Market in July 2024. Check current vendor hours and availability before making a dedicated trip."
+  },
+  {
+    "id": "archive-dongmyo-flea-market-counter-2024",
+    "src": "/images/editorial/archive-dongmyo-flea-market-counter-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-dongmyo-flea-market-counter-2024-640.webp 640w, /images/editorial/archive-dongmyo-flea-market-counter-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "A Dongmyo shop with books, small objects and clothing packed close together.",
+    "focal": "57% 64%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Dongmyo_Flea_Market_06.jpg",
+    "originalHash": "4907e0cf8a5fcde0048f77fe409afd33e8974161cfa5e8138daf06d656d06908",
+    "capturedAt": "2024-07-17",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Seefooddiet",
+      "title": "Dongmyo Flea Market 06.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongmyo_Flea_Market_06.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Books, small objects and clothing on a Dongmyo shop display in July 2024."
   }
 ]

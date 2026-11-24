@@ -50,9 +50,9 @@ The [Bulguksa visitor page](https://bulguksa.or.kr/bbs/content.php?co_id=applica
 | February and October | 17:30 |
 | March–September | 18:00 |
 
-**Bulguksa Temple (불국사)** · `경상북도 경주시 불국로 385` · [Open Bulguksa in Naver Map](https://map.naver.com/p/search/%EB%B6%88%EA%B5%AD%EC%82%AC)
+**Bulguksa Temple (불국사)** · `경상북도 경주시 불국로 385` · [Open Bulguksa in Naver Map](https://map.naver.com/p/search/%EB%B6%88%EA%B5%AD%EC%82%AC%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EB%B6%88%EA%B5%AD%EB%A1%9C%20385) ([Kakao Map](https://map.kakao.com/link/search/%EB%B6%88%EA%B5%AD%EC%82%AC%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EB%B6%88%EA%B5%AD%EB%A1%9C%20385) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EB%B6%88%EA%B5%AD%EC%82%AC%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EB%B6%88%EA%B5%AD%EB%A1%9C%20385))
 
-**Seokguram Grotto (석굴암)** · `경상북도 경주시 석굴로 238` · [Find Seokguram parking in Naver Map](https://map.naver.com/p/search/%EC%84%9D%EA%B5%B4%EC%95%94%EC%A3%BC%EC%B0%A8%EC%9E%A5)
+**Seokguram Grotto (석굴암)** · `경상북도 경주시 석굴로 238` · [Find Seokguram parking in Naver Map](https://map.naver.com/p/search/%EC%84%9D%EA%B5%B4%EC%95%94%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EC%84%9D%EA%B5%B4%EB%A1%9C%20238) ([Kakao Map](https://map.kakao.com/link/search/%EC%84%9D%EA%B5%B4%EC%95%94%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EC%84%9D%EA%B5%B4%EB%A1%9C%20238) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EC%84%9D%EA%B5%B4%EC%95%94%20%EC%A3%BC%EC%B0%A8%EC%9E%A5%20%EA%B2%BD%EB%B6%81%20%EA%B2%BD%EC%A3%BC%EC%8B%9C%20%EC%84%9D%EA%B5%B4%EB%A1%9C%20238))
 
 If step-free access or vehicle boarding assistance matters, confirm three things separately: the buses you plan to take, the approach from the parking area, and access to the part of each site you want to see. The official visitor contacts are [Bulguksa](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=107456) at 054-746-9913 and [Seokguram](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=94436) at 054-746-9933.
 

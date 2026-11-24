@@ -4,6 +4,7 @@ date: '2026-04-15'
 excerpt: >-
   Choose a boutique visit or a market meal in Seongsu, with separate entrances
   and practical checks for each.
+image: /images/editorial/archive-seongsu-yeonmujang-street-2026-1280.webp
 category: Travel & Tourism
 author: Korea Experience Editorial
 deepDive: true
@@ -15,7 +16,7 @@ updated: '2026-11-24'
 
 | Stop | Check first |
 | --- | --- |
-| Dior Seongsu | The [store’s own listing](https://www.dior.com/fashion/stores/en_lt/south-korea/seoul/7-yeonmujang-5-gil) gives a boutique address at 7 Yeonmujang 5-gil. Check today's opening and ask Dior directly about any separate service you want. |
+| Dior Seongsu | The [store’s own listing](https://www.dior.com/fashion/stores/en_vn/south-korea/seoul/7-yeonmujang-5-gil) gives a boutique address at 7 Yeonmujang 5-gil. Check today's opening and ask Dior directly about any separate service you want. |
 | Ttukdo Market | The [district market listing](https://www.sd.go.kr/main/contents.do?key=1696) locates it around 32-15 Seongsui-ro, about a 15-minute walk from Seongsu Station Exit 3 by the district’s estimate. Food stalls set their own prices and hours. |
 
 ## Find the address for the stop you choose

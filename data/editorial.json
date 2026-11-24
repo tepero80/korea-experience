@@ -27909,5 +27909,162 @@
     },
     "cardImageLabel": "Namdaemun Market Gate 5",
     "cardImageCrop": "contain"
+  },
+  "dior-seongsu-vs-traditional-market-2026": {
+    "id": "guide:dior-seongsu-vs-traditional-market-2026",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Dior Seongsu for the boutique itself or Ttukdo Market for a meal and browsing. Save the Korean address for the stop you choose.",
+    "forWhom": "Travelers choosing one Seongsu stop on a short visit",
+    "conditions": [
+      "Ask the boutique directly about any separate service or reservation.",
+      "Market stalls have individual hours and menus."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "markets",
+      "neighborhoods",
+      "shopping"
+    ],
+    "relations": [
+      {
+        "slug": "seongsu-dong-dior-luxury-vs-market-eats-in-24-hours",
+        "type": "next",
+        "label": "Build a Seongsu half-day",
+        "reason": "Choose a practical order with the nearby park or a weather backup."
+      },
+      {
+        "slug": "seongsu-popup-guide-2026",
+        "type": "prepare",
+        "label": "Check a separate pop-up",
+        "reason": "Verify a date and queue before adding a short-lived event to your route."
+      },
+      {
+        "slug": "seoul-forest-station-short-park-walk",
+        "type": "alternative",
+        "label": "Take a short park walk",
+        "reason": "Keep a nearby option if you would rather spend your remaining time outdoors."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "dior-seongsu-boutique",
+        "title": "Dior: Seongsu boutique",
+        "url": "https://www.dior.com/fashion/stores/en_vn/south-korea/seoul/7-yeonmujang-5-gil",
+        "note": "The listing body gives the boutique at 7 Yeonmujang 5-gil.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seongdong-ttukdo",
+        "title": "Seongdong District: Ttukdo Market",
+        "url": "https://www.sd.go.kr/main/contents.do?key=1696",
+        "note": "Market address and the approach from Seongsu Station Exit 3.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Save two separate addresses for the shop and the market.",
+      "Confirm any timed service with the boutique and check vendor hours separately."
+    ],
+    "launchOrder": 1300,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seongsu-yeonmujang-street-2026",
+    "heroCaption": "Yeonmujang-gil in September 2026. This is the wider shopping street; use the separate Korean addresses below to find the Dior boutique on Yeonmujang 5-gil or Ttukdo Market.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Dr. Thomas Liptak",
+      "title": "Seoul, Seongdong District, Seongsu (Yeonmujang-gil).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul,_Seongdong_District,_Seongsu_(Yeonmujang-gil).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "A walk along Yeonmujang-gil",
+    "cardImageCrop": "contain"
+  },
+  "vintage-thrifting-dongmyo-gwangjang-2026": {
+    "id": "guide:vintage-thrifting-dongmyo-gwangjang-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Dongmyo for an outdoor browse through flea-market stalls. Choose Gwangjang if you want upstairs vintage clothing shops and a separate food stop. Check the piece, price and accepted payment before buying.",
+    "forWhom": "Seoul visitors choosing one or two markets for secondhand shopping",
+    "conditions": [
+      "Inventory, hours and payment vary by vendor.",
+      "Check the specific stairs or entrance before relying on an upstairs stop."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "vintage shopping",
+      "secondhand clothing"
+    ],
+    "relations": [
+      {
+        "slug": "vintage-shopping-in-dongmyo-a-treasure-hunter-guide-2026",
+        "type": "next",
+        "label": "Plan a Dongmyo visit",
+        "reason": "Use the market-specific route if most of your time will be spent around Dongmyo."
+      },
+      {
+        "slug": "gwangjang-market-complete-food-guide",
+        "type": "nearby",
+        "label": "Find lunch at Gwangjang",
+        "reason": "Use the market food guide after leaving the upstairs clothing shops."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "visit-seoul-dongmyo-vintage",
+        "title": "Visit Seoul: Dongmyo flea market and vintage shops",
+        "url": "https://english.visitseoul.net/editorspicks/2026-Dongmyotour/ENNn7nirg",
+        "note": "Market address, Dongmyo Station Exit 3 and what kinds of shops are in the area.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-gwangjang-vintage",
+        "title": "Visit Seoul: Gwangjang Market",
+        "url": "https://english.visitseoul.net/Tourist-Attractions-list1/Gwangjang-Market/ENP000286",
+        "note": "Second-floor clothing shops, market address and Jongno 5-ga Exit 8.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Dongmyo: street stalls near Exit 3. Gwangjang: look upstairs for clothing.",
+      "Hours, stock and payment differ by shop."
+    ],
+    "launchOrder": 1301,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-dongmyo-flea-market-street-2024",
+    "heroCaption": "Street stalls at Dongmyo Flea Market in July 2024. Check current vendor hours and availability before making a dedicated trip.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Seefooddiet",
+      "title": "Dongmyo Flea Market 10.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dongmyo_Flea_Market_10.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Dongmyo Flea Market stalls",
+    "cardImageCrop": "contain"
   }
 }

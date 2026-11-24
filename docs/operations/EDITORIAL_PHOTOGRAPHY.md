@@ -34,6 +34,7 @@ Read this check before choosing or replacing a guide photograph, a destination c
 
 - Offer Google Maps alongside the local map links for registered places and add a place-specific Google Maps search beside any standalone local map link used for directions. Check the Korean name and road address with the operator or public authority. Give separate links to similarly named stations, separate trailheads and terminals that share a subway stop. Keep the Korean address visible when the destination could be confused.
 - In the rendered guide, open the labeled link and verify the exact destination passed to the map. For ticketed travel, tell readers to match the location and departure area on their current ticket. Verify schedules and accessible approaches with the operator.
+- After a static build, run `npm.cmd exec -- tsx scripts/audit-article-map-links.ts` to find individual paragraphs, list items or table rows that still have a local destination link without a nearby Google option. Review flagged place-name, coordinate and short-link differences with the route’s official source. A link elsewhere in the article cannot verify the destination in a flagged block.
 
 ## Initial editorial review
 
