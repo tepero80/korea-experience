@@ -201,7 +201,7 @@ Using an interpreter also protects you legally. If a medical error occurs, the f
 ### Emergency Numbers
 If you are in a medical emergency and have no interpreter:
 *   **119:** Ambulance and Fire (Available 24/7, translation available).
-*   **1339:** Korea Disease Control & Prevention Agency Call Center. They provide specific medical advice and hospital recommendations in English.
+*   Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 *   **1330:** Korea Travel Hotline (can interpret over the phone for simple situations).
 
 <InfoBox type="warning" title="Medical Disclaimer">
@@ -248,7 +248,7 @@ Ready to book your consultation? Make sure you check out our comprehensive guide
     { question: "How much does a medical interpreter cost in Seoul?", answer: "Freelance rates generally range from ₩50,000 to ₩100,000 per hour. Full-day accompaniment for surgery can cost between ₩300,000 and ₩500,000." },
     { question: "Is interpretation free at plastic surgery clinics?", answer: "At major clinics in Gangnam, yes. They employ full-time coordinators (interpreters) to assist foreign clients. However, smaller boutique clinics may not have this service." },
     { question: "Can I use a friend as an interpreter?", answer: "For simple check-ups, yes. For surgery or legal consent forms, it is risky. A friend may not know specific medical vocabulary (like 'anesthesia', 'incision', 'hemorrhage'), leading to miscommunication." },
-    { question: "What is the emergency medical number in Korea?", answer: "Dial 119 for ambulance services. Dial 1339 for medical advice and hospital referrals in English." }
+    { question: "What is the emergency medical number in Korea?", answer: "Call 119 for an ambulance or fire service. Share your location and ask for an interpreter if needed." }
   ]}
 />
 

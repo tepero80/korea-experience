@@ -37,8 +37,10 @@ Deciding between South Korea and Thailand for medical tourism in 2026 depends en
   
   **Emergency Numbers in Korea:** 
   - Medical Emergency/Ambulance: 119 
-  - Korea Disease Control & Prevention Agency: 1339 (interpretation available)
+  - For routine care, call the treating clinic or ask your insurer which facilities it works with.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## The Global Titans of Medical Tourism in 2026
 

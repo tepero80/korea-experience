@@ -42,3 +42,5 @@ Ask before paying whether the store participates and which route it offers. The 
 - **Unsure what you were given.** Ask the cashier to show whether a refund already changed the total or whether you need a later claim. Confirm the branch's exchange or return conditions before using the product.
 
 If you are comparing shampoo, scalp tonic or a rinse-off product, use the [Korean hair care shopping guide](/blog/korean-hair-care-shampoo-scalp-treatments) to read the package and compare formats.
+
+When you are comparing cleansers, use the [Korean oil, balm and face-wash label guide](/blog/korean-cleansing-oil-double-cleanse-method) to check the directions for the exact pack.

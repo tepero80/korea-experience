@@ -133,7 +133,9 @@ International patients typically pay 100% of the medical fees, sometimes with a 
 Most major hospitals accept international credit cards (Visa, Mastercard, Amex). However, verify your daily transaction limit with your bank before travel, as medical bills can trigger fraud alerts.
 </InfoBox>
 
-If you are budget-conscious, understanding the broader cost of living in the city is important. While medical costs are fixed, your accommodation and food costs can vary wildly depending on whether you base yourself in Gangnam or Gangbuk. See our comparison on [cost of living in Seoul vs Busan](/blog/cost-of-living-in-seoul-vs-busan-comparison-2026) to gauge daily expenses.
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
+
+Ask the facility which charges apply to your planned appointment and whether any tests or interpretation are extra. Budget separately for accommodation, meals and local travel.
 
 ## Understanding International Healthcare Centers (IHC)
 
@@ -268,7 +270,7 @@ Getting a medical second opinion in Seoul is a streamlined, professional experie
 The key to a successful visit lies in preparation: having your DICOM files ready, booking through the official IHC channels, and understanding that you are entering a high-volume, high-efficiency system. Whether you choose the sprawling campus of Asan or the high-tech corridors of Samsung, you are accessing some of the best medical minds in Asia.
 
 <InfoBox type="success" title="Emergency Numbers">
-If you experience a medical emergency while in Seoul, dial **119** for an ambulance (interpreters available) or **1339** for the KDCA Medical Call Center for non-emergency health advice.
+For a medical emergency in Korea, call 119 for an ambulance. Give your current location and ask for an interpreter if needed.
 </InfoBox>
 
 While you are in Seoul, try to take advantage of the safe and accessible city. Even if you are dealing with health issues, brief changes of scenery can be therapeutic. For low-impact exploration, consider visiting [accessible Seoul routes for limited mobility](/blog/accessible-seoul-best-routes-for-wheelchair-and-limited-mobility-2026).

@@ -23,4 +23,4 @@ The six-month reference applies to the general rule for eligible local subscribe
 
 ## Before you check in at a clinic
 
-Ask whether the visit and expected items can be billed under your confirmed qualification, and what you would pay yourself. Bring your ID and any referral or documentation the intended clinic requests. If a notice is missing or your employer and NHIS records differ, use the [NHIS foreign resident center and English consultant details](https://www.nhis.or.kr/english/wbheaa02100m01.do) to confirm the next step.
+Ask whether the visit and expected items can be billed under your confirmed qualification, and what you would pay yourself. Bring your ID and any referral or documentation the intended clinic requests. If a notice is missing or your employer and NHIS records differ, use the [NHIS foreign resident center and English consultant details](https://www.nhis.or.kr/english/wbheaa02100m01.do) to confirm the next step. Use the [NHIS online document guide](/blog/navigating-the-national-health-insurance-nhis-website-2026) to look up your coverage history or premium payment record.

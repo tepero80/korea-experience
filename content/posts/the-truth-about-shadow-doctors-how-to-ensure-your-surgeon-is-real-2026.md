@@ -208,9 +208,9 @@ If you have strong evidence or a gut feeling that you were a victim of ghost sur
 1.  **Secure Evidence Immediately:** Request the CCTV footage within the 30-day window. Do not wait until you return to your home country.
 2.  **Contact Authorities:**
     *   **Medical Dispute Mediation and Arbitration Agency:** +82-2-6210-0114 (English available).
-    *   **1339:** Korea Disease Control and Prevention Agency (General health info).
+    *   Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
     *   **1372:** Consumer Counseling Center.
-3.  **Do Not Sign Settlements:** Clinics may try to offer a refund if you sign a Non-Disclosure Agreement (NDA). If you sign this, you lose your right to report them or sue.
+3.  **Review the actual document:** Ask for a copy and get independent advice before agreeing to settlement terms you do not understand. The [Korea Medical Dispute Mediation and Arbitration Agency](https://k-medi.or.kr/eng/lay1/S239T269C270/contents.do) explains its counseling options.
 
 <LocationCard
   name="Korea Medical Dispute Mediation and Arbitration Agency"

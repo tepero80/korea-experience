@@ -32,8 +32,10 @@ When deciding between scar treatment options—specifically silicone sheets vs l
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The content provided here is for informational purposes only and does not constitute medical advice. Always consult with a board-certified dermatologist before starting any treatment. For medical emergencies in Korea, dial 119. For medical consultations in English, contact the Korea Disease Control and Prevention Agency at 1339.
+  The content provided here is for informational purposes only and does not constitute medical advice. Always consult with a board-certified dermatologist before starting any treatment. For a medical emergency in Korea, call 119 for an ambulance. Give your current location and ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Understanding scar physiology and Korean dermatology
 

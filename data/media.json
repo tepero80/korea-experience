@@ -11345,5 +11345,51 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "note": "Cropped to emphasize signs and station structure, then resized and converted to WebP."
     }
+  },
+  {
+    "id": "cheonggukjang-stew-chomjong-2017",
+    "src": "/images/editorial/cheonggukjang-stew-chomjong-2017-1280.webp",
+    "srcSet": "/images/editorial/cheonggukjang-stew-chomjong-2017-640.webp 640w, /images/editorial/cheonggukjang-stew-chomjong-2017-1280.webp 1280w",
+    "width": 1280,
+    "height": 1280,
+    "alt": "Bubbling cheonggukjang stew in a black bowl beside small side dishes",
+    "caption": "Cheonggukjang-jjigae photographed in June 2017. The ingredients and sides vary by kitchen.",
+    "focal": "50% 45%",
+    "originalId": "Cheonggukjang-jjigae 1.jpg",
+    "originalHash": "83399432527c7aa5a8cb9038a78789bc8d8a9dc516dde43b4c14ce614432fc95",
+    "capturedAt": "2017-06-10",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "title": "Cheonggukjang-jjigae 1.jpg",
+      "author": "chomjong",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheonggukjang-jjigae_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. Adaptations retain the stated attribution and license."
+    }
+  },
+  {
+    "id": "doenjang-in-earthenware-jar-2009",
+    "src": "/images/editorial/doenjang-in-earthenware-jar-2009-1280.webp",
+    "srcSet": "/images/editorial/doenjang-in-earthenware-jar-2009-640.webp 640w, /images/editorial/doenjang-in-earthenware-jar-2009-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Fermented soybean paste in an open earthenware jar",
+    "caption": "Doenjang in an earthenware jar, photographed in June 2009.",
+    "focal": "50% 45%",
+    "originalId": "Fermented bean paste.jpg",
+    "originalHash": "7aa06da331f7b4db752c3de2c51cf45d2d1748b213825284841582509e00638e",
+    "capturedAt": "2009-06-15",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "title": "Fermented bean paste.jpg",
+      "author": "570cjk",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fermented_bean_paste.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain the stated attribution and license."
+    }
   }
 ]

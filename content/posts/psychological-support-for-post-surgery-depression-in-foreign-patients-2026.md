@@ -231,11 +231,11 @@ For a broader look at managing your money while in the country, the [cost of liv
 
 ## Emergency Contacts (Save these now)
 
-If post-surgery depression escalates to a crisis point, do not hesitate to use these numbers. Interpretation services are available 24/7.
+If there is a medical emergency, call 119. Give your location and ask for an interpreter if needed.
 
-*   **119:** Medical Emergency / Ambulance (Free, speaks English via interpreter).
-*   **1339:** Korea Disease Control & Prevention Agency (Medical advice and hospital finder).
-*   **1577-0199:** 24/7 Crisis Counseling (Korean, but can bridge to English resources).
+*   **119:** Emergency medical help and ambulance dispatch.
+*   Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
+*   Ask the treating team which language support is available for follow-up care.
 *   **1345:** Immigration Contact Center (General life support/info).
 
 <ExpertTip 

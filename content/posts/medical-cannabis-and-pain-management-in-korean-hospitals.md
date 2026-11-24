@@ -35,8 +35,10 @@ However, this does not mean you are left to suffer if you experience pain while 
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The information provided in this article is for educational purposes only and does not constitute medical advice. South Korean drug laws are among the strictest in the world. Always consult with the Ministry of Food and Drug Safety (MFDS) or a qualified legal professional before attempting to bring any controlled substances into the country. Emergency Medical Information Center: 1339.
+  The information provided in this article is for educational purposes only and does not constitute medical advice. South Korean drug laws are among the strictest in the world. Always consult with the Ministry of Food and Drug Safety (MFDS) or a qualified legal professional before attempting to bring any controlled substances into the country. For a medical emergency in Korea, call 119 for an ambulance. Give your current location and ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## The legal reality of medical cannabis in Korea
 

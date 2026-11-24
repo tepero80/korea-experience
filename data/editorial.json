@@ -32928,5 +32928,359 @@
     "tools": [],
     "changeType": "rewrite",
     "launchOrder": 1363
+  },
+  "navigating-the-national-health-insurance-nhis-website-2026": {
+    "id": "guide:navigating-the-national-health-insurance-nhis-website-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "interests": [
+      "nhis online documents",
+      "nhis bill receipts"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "forWhom": "Foreign residents who need a health-insurance record or payment document in Korea",
+    "answer": "Use NHIS personal services for the certificate of coverage history. Use the collection portal for a premium bill, a payment or proof of payment. Check which document the recipient asked you to send.",
+    "conditions": [
+      "Eligibility and payment records are different documents. Ask whether the recipient needs coverage dates, a payment period or confirmation of a certain transfer.",
+      "The Korean menu names come from public NHIS instructions. The signed-in screens depend on the account and can change."
+    ],
+    "sources": [
+      {
+        "id": "nhis-certificate",
+        "title": "NHIS: Coverage history certificate walk-through (Korean)",
+        "url": "https://www.nhis.or.kr/static/html/wbmh/b/wbmhb0401.html",
+        "note": "Shows the personal-services path from sign-in to checking details and issuing the certificate.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nhis-collection",
+        "title": "NHIS: Social insurance collection services (Korean)",
+        "url": "https://si4n.nhis.or.kr/jpca/JpCab00101.do",
+        "note": "Lists billing status, premium payment and certificate functions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nhis-help",
+        "title": "NHIS: Foreign resident centers",
+        "url": "https://www.nhis.or.kr/english/wbheaa02100m01.do",
+        "note": "Lists who each center serves, where to go and how to reach a consultant.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "next",
+        "label": "Find practical help in Korea",
+        "reason": "Find official language, clinic and urgent contact resources."
+      }
+    ],
+    "heroOmissionReason": "The menu names and workflow are the useful visual here. The portal instructions are public, and there is no verified account screenshot.",
+    "shareFacts": [
+      "Choose coverage history or payment proof.",
+      "Use the official NHIS menus."
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1364
+  },
+  "korean-double-cleansing-method-complete-guide-2026": {
+    "id": "guide:korean-double-cleansing-method-complete-guide-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "interests": [
+      "face-washing decision",
+      "remove waterproof makeup"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "forWhom": "Skincare shoppers deciding whether they need an extra cleansing step",
+    "answer": "Start with one gentle cleanse. A separate remover can help with stubborn makeup or water-resistant sunscreen. Use the product directions and keep a second wash only when it serves a purpose.",
+    "conditions": [
+      "Choose a remover intended for what you are taking off. Follow its directions and avoid scrubbing.",
+      "General skin-care information. Ask a qualified clinician if irritation persists or you need care for an existing skin condition."
+    ],
+    "sources": [
+      {
+        "id": "aad-gentle-cleanser",
+        "title": "American Academy of Dermatology: Face washing",
+        "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/face-washing-101",
+        "note": "Recommends a gentle cleanser, fingertips and lukewarm rinsing.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "clinic-double-cleansing",
+        "title": "Cleveland Clinic: Double cleansing",
+        "url": "https://health.clevelandclinic.org/double-cleansing-explained",
+        "note": "Explains when an additional remover may help and discusses over-washing.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "aad-makeup",
+        "title": "American Academy of Dermatology: Makeup for acne-prone skin",
+        "url": "https://www.aad.org/public/diseases/acne/causes/makeup",
+        "note": "Offers an oil-free makeup remover as an example for people with acne-prone skin.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "next",
+        "label": "Find the right shelf",
+        "reason": "Check how to compare products and read packs at a Korean beauty shop."
+      }
+    ],
+    "heroOmissionReason": "The useful visual is the one-step versus two-step decision table. The legacy image did not identify a documented product.",
+    "shareFacts": [
+      "One gentle wash is often enough.",
+      "Add a remover for stubborn products."
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1365
+  },
+  "korean-cleansing-oil-double-cleanse-method": {
+    "id": "guide:korean-cleansing-oil-double-cleanse-method",
+    "checkedAt": "2026-11-24",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "interests": [
+      "cleansing oil packaging",
+      "korean cosmetic instructions"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "forWhom": "Visitors comparing cleansing oils, balms and face washes on a Korean skincare shelf",
+    "answer": "Read the type on the front. Then look for the use directions and check whether the formula goes onto dry or wet skin, whether to add water, and how to rinse it off.",
+    "conditions": [
+      "These manufacturer examples describe particular formulas. The box or instructions for your own item take precedence.",
+      "Search for the actual product name and size if the instructions are only on the outside box."
+    ],
+    "sources": [
+      {
+        "id": "sulwhasoo-oil",
+        "title": "Sulwhasoo Korea: Cleansing oil directions",
+        "url": "https://membership.sulwhasoo.com/kr/ko/products/gentle-cleansing-oil.html",
+        "note": "A maker’s instructions for applying its oil to dry skin and adding water.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "innisfree-balm",
+        "title": "Innisfree Korea: Cleansing balm product information",
+        "url": "https://www.innisfree.com/kr/ko/dp/product/105478",
+        "note": "An example of a balm sold in a tube, with formula-specific instructions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "cosrx-gel",
+        "title": "COSRX: Gel cleanser directions",
+        "url": "https://www.cosrx.com/products/low-ph-good-morning-gel-cleanser",
+        "note": "The English instruction page for a gel cleanser used on wet hands and face.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "next",
+        "label": "Check a Korean shop’s package",
+        "reason": "Use the store guide to compare products, sizes and checkout details."
+      }
+    ],
+    "heroOmissionReason": "Korean label terms and current manufacturer directions support the shopping task without an unverified package photo.",
+    "shareFacts": [
+      "Check the format and use directions.",
+      "Compare the exact box before buying."
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1366
+  },
+  "korean-fermented-foods-beyond-kimchi-doenjang-gochujang": {
+    "id": "guide:korean-fermented-foods-beyond-kimchi-doenjang-gochujang",
+    "checkedAt": "2026-11-24",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "interests": [
+      "fermented menu choices",
+      "korean pantry and sides"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "forWhom": "Visitors ordering a meal or comparing traditional condiments at a Korean shop",
+    "answer": "Start by deciding whether you want a seasoning, a small side or a drink. Jang includes familiar pastes and sauces, jeotgal is salted seafood, and makgeolli is an alcoholic rice drink.",
+    "conditions": [
+      "Look up the actual ingredients, especially when avoiding soy, seafood, wheat or alcohol. Ask how a dish is prepared.",
+      "Side dishes, seasonings and recipes vary by kitchen or product."
+    ],
+    "sources": [
+      {
+        "id": "jang-kto",
+        "title": "VisitKorea: Jang and Sunchang",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221365",
+        "note": "Identifies doenjang and gochujang and describes their preparation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jeotgal-hansik",
+        "title": "Korean Food Promotion Institute: Jeotgal (Korean)",
+        "url": "https://www.hansik.or.kr/magazines/list/magazineDetail/68/3503?menuSn=429",
+        "note": "Describes salted seafood used as a side dish and as a seasoning.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jangajji-hansik",
+        "title": "Korean Food Promotion Institute: Jang, jeotgal and jangajji (Korean)",
+        "url": "https://www.hansik.or.kr/magazines/list/magazineDetail/225/3952?menuSn=429",
+        "note": "Distinguishes sauces, seafood and vegetable pickles.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "makgeolli-kto",
+        "title": "VisitKorea: Regional foods and drinks (PDF)",
+        "url": "https://english.visitkorea.or.kr/public/internal/ShoppingSpecial/files/musthaveitems_ebook_english.pdf",
+        "note": "Identifies makgeolli as an unrefined rice wine.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "korean-fermented-foods-beyond-kimchi-cheonggukjang-and-meju-2026",
+        "type": "next",
+        "label": "Compare the soybean stew and paste",
+        "reason": "Recognize cheonggukjang-jjigae and distinguish it from meju and doenjang."
+      },
+      {
+        "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+        "type": "next",
+        "label": "Ask about the actual dish",
+        "reason": "Use short Korean questions about ingredients and ordering."
+      }
+    ],
+    "shareFacts": [
+      "Match the sauce, side or drink.",
+      "Ask about the actual ingredients."
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1367,
+    "heroMediaId": "doenjang-in-earthenware-jar-2009",
+    "heroCaption": "Doenjang in an earthenware jar, photographed in June 2009.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Fermented bean paste.jpg",
+      "author": "570cjk",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Fermented_bean_paste.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain the stated attribution and license."
+    }
+  },
+  "korean-fermented-foods-beyond-kimchi-cheonggukjang-and-meju-2026": {
+    "id": "guide:korean-fermented-foods-beyond-kimchi-cheonggukjang-and-meju-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "interests": [
+      "cheonggukjang ordering",
+      "meju and soybean paste"
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "forWhom": "Travelers comparing Korean soybean stews, condiments and market labels",
+    "answer": "Order 청국장찌개 for a bowl of cheonggukjang stew. If you are shopping, check whether the pack is cheonggukjang paste, doenjang paste or meju, the soybean block used in traditional jang making.",
+    "conditions": [
+      "These foods contain soy. Broth, meat, seafood, sides and serving size depend on the kitchen.",
+      "Check packaged ingredients and handling before buying food to carry home."
+    ],
+    "sources": [
+      {
+        "id": "hansik-types",
+        "title": "Korean Food Promotion Institute: How soybean pastes differ (Korean)",
+        "url": "https://www.hansik.or.kr/magazines/list/magazineDetail/30/3008?menuSn=429",
+        "note": "Distinguishes fermented meju blocks from cooked beans prepared as cheonggukjang.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hansik-stew",
+        "title": "Korean Food Promotion Institute: Cheonggukjang-jjigae (Korean)",
+        "url": "https://www.hansik.or.kr/story/storyView.do?searchId=117",
+        "note": "Describes the stew and examples of additions including tofu and meat.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-doenjang-jjigae",
+        "title": "VisitKorea: Doenjang-jjigae",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178309",
+        "note": "Shows a different soybean-paste stew and possible additional ingredients.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "korean-fermented-foods-beyond-kimchi-doenjang-gochujang",
+        "type": "next",
+        "label": "Choose a side or condiment",
+        "reason": "Compare named fermented foods beyond the soybean stew."
+      },
+      {
+        "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+        "type": "next",
+        "label": "Ask about broth and portions",
+        "reason": "Check how to ask a Korean restaurant what goes into the dish."
+      }
+    ],
+    "shareFacts": [
+      "Order the stew using 청국장찌개.",
+      "Ask what is in the broth."
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "tools": [],
+    "placeIds": [],
+    "changeType": "rewrite",
+    "launchOrder": 1368,
+    "heroMediaId": "cheonggukjang-stew-chomjong-2017",
+    "heroCaption": "Cheonggukjang-jjigae photographed in June 2017. The ingredients and sides vary by kitchen.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Cheonggukjang-jjigae 1.jpg",
+      "author": "chomjong",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheonggukjang-jjigae_1.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. Adaptations retain the stated attribution and license."
+    }
   }
 }

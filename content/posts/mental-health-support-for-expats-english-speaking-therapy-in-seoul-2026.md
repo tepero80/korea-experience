@@ -172,11 +172,11 @@ While global platforms like BetterHelp are popular, they can be expensive due to
 If you or someone you know is in immediate danger, do not wait for an appointment. Korea has specific numbers for crisis intervention.
 
 *   **119:** Medical Emergency (Ambulance). They have translation services available 24/7.
-*   **1577-0199:** Mental Health Crisis Hotline (24 hours).
-*   **1339:** Korea Disease Control (General Health inquiries, can direct to emergency rooms).
+*   **1577-0199:** The [Ministry of Health and Welfare](https://www.mohw.go.kr/menu.es?mid=a10706040100) lists this line for mental health crisis counseling.
+*   Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 <InfoBox type="danger" title="Emergency Protocol">
-  If you call 119 for a mental health emergency, clearly state "English" and "Mental Health Emergency." The response time in Seoul is excellent, averaging under 7 minutes for ambulance arrival.
+  If you call 119 for a mental health emergency, give your exact address, request language support if needed and follow the dispatcher’s instructions.
 </InfoBox>
 
 ## Holistic Wellness and Alternative Support

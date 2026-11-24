@@ -251,7 +251,7 @@ Korea takes patient safety seriously. Operating rooms must have CCTV (by law as 
 *   **Ghost Surgery Protections:** Explicitly ask if the clinic has CCTV in the OR and if you can verify it if necessary.
 *   **Emergency Numbers:**
     *   **119:** Ambulance/Fire (Interpretation available)
-    *   **1339:** Korea Disease Control (Medical advice/Hospital finder)
+    *   Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
     *   **1330:** Korea Travel Hotline (General translation/Help)
 
 If you are looking for specific clinic recommendations that have been vetted for foreigners, refer to our list of [best plastic surgery clinics for foreigners in Seoul](/blog/best-plastic-surgery-clinics-for-foreigners-in-seoul).

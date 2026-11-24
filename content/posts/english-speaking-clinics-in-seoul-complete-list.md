@@ -227,18 +227,17 @@ For those planning a longer stay, ensuring you have connectivity is vital for re
   Always pay with a credit card that has no foreign transaction fees. Keep the paper receipt; the digital banking notification is often not enough for insurance claims.
 </InfoBox>
 
-## Emergency Services: 119 vs 1339
+## Emergency and routine care contacts
 
 If you face a crisis, know these numbers.
 
-*   **119:** Ambulance and Fire. It is free. They have English interpretation, though it may take 30 seconds to connect a translator. The ambulance will take you to the *nearest* ER, not necessarily the one you want.
-*   **1339:** Korea Disease Control and Prevention Agency (KDCA) Call Center. They provide medical advice and can tell you which hospitals are open near you (vital on weekends or holidays).
+*   For a medical emergency in Korea, call 119 for an ambulance. Give your current location and ask for an interpreter if needed.
+*   Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 <QuickFacts
-  title="Emergency Quick Stats"
+  title="Emergency Numbers"
   facts={[
-    { label: "Ambulance Cost", value: "Free", icon: "🚑" },
-    { label: "ER Base Fee", value: "₩60,000+", icon: "🏥" },
+    { label: "Ambulance and Fire", value: "119", icon: "🚑" },
     { label: "Police", value: "112", icon: "👮" }
   ]}
   columns={3}
@@ -302,7 +301,7 @@ Finding English-speaking mental health support can be harder than physical healt
 
 Seoul offers a medical environment that is fast, high-tech, and surprisingly affordable. While the language barrier can be a hurdle in smaller neighborhood clinics, the network of International Healthcare Centers at major hospitals like Severance, Asan, and Samsung ensures that you can receive world-class care in English.
 
-Whether you are here for a quick trip or settling in as an expat, knowing where to go before you get sick is the best insurance you can have. Keep the 1339 number saved, download Naver Maps, and rest assured you are in safe hands.
+Save your local address and the contact details for the clinic you intend to use.
 
 <FAQAccordion
   title="Frequently Asked Questions"
@@ -311,6 +310,6 @@ Whether you are here for a quick trip or settling in as an expat, knowing where 
     { question: "Can I buy antibiotics over the counter in Korea?", answer: "No. Antibiotics are strictly prescription-only in Korea. You must see a doctor to get a prescription slip to take to a pharmacy." },
     { question: "Do Korean doctors speak English?", answer: "Most doctors at major university hospitals speak high-level English, often having studied abroad. In smaller local clinics, younger doctors often speak conversational English, but older practitioners may not. Using a translation app like Papago is very common and acceptable." },
     { question: "How much is a doctor visit without insurance?", answer: "A standard General Practitioner (GP) visit costs between ₩20,000 and ₩40,000 ($15-$30). A specialist at a large hospital costs between ₩50,000 and ₩100,000 ($38-$75) for the consultation alone." },
-    { question: "What is the emergency number in Korea?", answer: "119 is for Ambulance and Fire. 112 is for Police. 1339 is for Medical Information/Help." }
+    { question: "What is the emergency medical number in Korea?", answer: "Call 119 for an ambulance or fire service. Share your location and ask for an interpreter if needed." }
   ]}
 />

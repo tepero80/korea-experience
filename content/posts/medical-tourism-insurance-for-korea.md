@@ -203,7 +203,7 @@ If you believe a doctor committed malpractice, you don't necessarily need to hir
 <InfoBox type="tip" title="Emergency Contacts">
 Save these numbers in your phone:
 *   **119:** Ambulance & Fire (Interpretation available)
-*   **1339:** KCDC Call Center (Medical advice & Hospital finder, English available 24/7)
+*   Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 *   **1330:** Korea Travel Hotline (General assistance & Translation)
 </InfoBox>
 

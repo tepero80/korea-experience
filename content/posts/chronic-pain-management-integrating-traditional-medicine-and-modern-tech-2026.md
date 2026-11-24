@@ -31,8 +31,10 @@ For many international patients, the journey to South Korea begins where Western
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The content in this article is for informational purposes only and does not constitute medical advice. Chronic pain management requires professional evaluation. Always consult with a qualified healthcare provider before stopping current treatments or traveling for medical procedures. In Korea, for medical emergencies, dial 119. For medical travel consultation, dial 1339.
+  The content in this article is for informational purposes only and does not constitute medical advice. Chronic pain management requires professional evaluation. Always consult with a qualified healthcare provider before stopping current treatments or traveling for medical procedures. For a medical emergency in Korea, call 119 for an ambulance. Give your current location and ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## The Failure of Monolithic Medicine and the Korean Solution
 
