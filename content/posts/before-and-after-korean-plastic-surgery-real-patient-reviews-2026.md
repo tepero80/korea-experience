@@ -18,6 +18,8 @@ The [American Society of Plastic Surgeons’ photo guide](https://www.plasticsur
 | Selection | How did you select these examples, and is this a result you usually see? |
 | Follow-up | Who will meet me later, and how would I reach your team from home? |
 
+If the photographs are making you feel rushed, use the [decision and support checklist](/blog/mental-health-and-plastic-surgery-managing-expectations) to make time for independent advice and set expectations.
+
 ## Use reviews to identify questions to ask in person
 
 Check the date, whether the reported treatment matches the current quote and whether the reviewer describes how follow-up worked. For the safety information a portfolio cannot provide, ask the clinician how it tracks complications and what happens when someone needs extra care. The [NHS guide to cosmetic surgery abroad](https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-surgery-abroad/) suggests confirming where checkups occur and who handles problems. Use the [medical statistics guide](/blog/medical-tourism-safety-statistics-2026) to ask what a number in an advertisement actually measures.

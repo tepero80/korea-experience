@@ -21,6 +21,8 @@ Seoul National University Hospital’s [online request page](https://www.snuh.or
 
 For pregnancy-related appointments, use the [maternity intake checklist](/blog/pregnancy-and-childbirth-in-korea-a-guide-for-foreign-mothers-2026) to ask about prenatal records and whether the hospital can accept your request.
 
+If your travel depends on a confirmed appointment, use the [medical visit visa checklist](/blog/korea-medical-tourism-visa-how-to-apply) to ask which clinic documents the consulate requires.
+
 ## Make the visit work on the day
 
 Save the Korean name of the clinic, its exact branch and your booking response. Ask which ID to carry, what the consultation may cost and whether language support covers the consultation itself. When a clinic asks for medical records, use a channel you have verified with the provider and check which documents are needed.

@@ -18,6 +18,8 @@ Ask the surgeon to explain what the technique name means in the proposed operati
 | Risks | Which risks and limits are most relevant to my plan, and what instructions should I keep? |
 | Aftercare | Who will see me at the required visits and whom do I contact after departure? |
 
+If the clinic’s proposal concerns the area beneath the eyes, use the [lower-eyelid consultation checklist](/blog/under-eye-fat-repositioning-why-its-korea-most-popular-secret-surgery-2026) to clarify the exact procedure before booking.
+
 ## Ask about follow-up before a second booking
 
 The [NHS guidance on choosing a practitioner](https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/choosing-who-will-do-your-procedure/) recommends consulting the person who would perform the procedure. Its [guide to treatment abroad](https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-surgery-abroad/) also recommends asking where checkups will happen. Request the dates or decision points in writing before choosing an itinerary. If a consultation includes a portfolio, use the [photo comparison checklist](/blog/before-and-after-korean-plastic-surgery-real-patient-reviews-2026) to ask how the examples were selected and when the photos were taken.

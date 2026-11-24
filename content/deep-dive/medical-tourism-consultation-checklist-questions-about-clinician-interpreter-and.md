@@ -16,6 +16,8 @@ Ask who will evaluate you and who will perform each part of the proposed treatme
 
 Ask the clinician to explain what is known, what is uncertain, and which risks apply to you personally. For a procedure, request time to review the consent form and ask for a translation before signing. You can ask for a written plan that identifies the treatment, responsible clinician, expected follow-up, and whom to contact if symptoms worsen.
 
+If a wellness package uses an unfamiliar cosmetic term, start with the [gynecology consultation questions](/blog/vaginal-rejuvenation-and-women-wellness-clinics-in-seoul-for-expats-2026) to clarify what care the offer covers.
+
 ## Questions about interpreting and communication
 
 Ask whether interpretation is available for the consultation, consent discussion, discharge instructions, and follow-up. Confirm the interpreter's role, language, availability, confidentiality practices, and any fee or cancellation terms. Do not assume that an interpreter arranged for one appointment will be available throughout treatment.

@@ -44466,5 +44466,571 @@
     "changeType": "rewrite",
     "launchOrder": 1587,
     "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "fertility-treatments-ivf-in-korea-success-rates-and-international-patient-care-2026": {
+    "id": "guide:fertility-treatments-ivf-in-korea-success-rates-and-international-patient-care-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the fertility department what it can review before you travel and what requires an in-person visit. Request the department’s written records list and keep any medicine decisions with the clinicians who manage your care.",
+    "forWhom": "International patients arranging a fertility or IVF consultation in Korea.",
+    "conditions": [
+      "An inquiry does not reserve treatment. Check availability, language support and individual requirements with the department."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "fertility consultation from overseas",
+      "IVF appointment records",
+      "international fertility intake"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-ain",
+        "title": "AIN Hospital infertility department schedule and appointment information",
+        "url": "https://www.ainwh.co.kr/hospital/timeTable.do?deptNo=11",
+        "note": "Shows the fertility department and the hospital’s appointment routes. Confirm intake arrangements directly.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-khidi",
+        "title": "KHIDI guidance on information for foreign patients",
+        "url": "https://www.medicalkorea.or.kr/korp/notice/faqView.do?faqSn=48",
+        "note": "Identifies treatment information, possible side effects and estimated costs to discuss.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask which records can be reviewed before travel and which appointments must happen in person."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1588,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "thread-lifting-in-korea-ultimate-guide-to-mint-and-silhouette-soft-2026": {
+    "id": "guide:thread-lifting-in-korea-ultimate-guide-to-mint-and-silhouette-soft-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Speak with the clinician who would perform the thread lift. Ask for the exact product, expected limits, alternatives and written follow-up arrangements before paying.",
+    "forWhom": "People reading a Korean clinic quote that names a cosmetic thread-lift product.",
+    "conditions": [
+      "Products, approved uses and plans vary. Ask the clinic to confirm the exact product and the instructions for your situation."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "cosmetic thread-lift consultation",
+      "clinic consent discussion",
+      "return travel after cosmetic care"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-nhs-practitioner",
+        "title": "NHS questions for the practitioner who would perform a cosmetic procedure",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/choosing-who-will-do-your-procedure/",
+        "note": "Discusses meeting the practitioner and asking questions about qualifications and aftercare.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-nhs-abroad",
+        "title": "NHS advice on cosmetic surgery abroad",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-surgery-abroad/",
+        "note": "Explains why to confirm aftercare and responsibility for complications.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Write down the exact product and the contact for an unexpected problem after departure."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1589,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "under-eye-fat-repositioning-why-its-korea-most-popular-secret-surgery-2026": {
+    "id": "guide:under-eye-fat-repositioning-why-its-korea-most-popular-secret-surgery-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the surgeon what operation the clinic means by under-eye fat repositioning and what it would involve for your case. Get individual preparation and follow-up instructions before deciding on departure dates.",
+    "forWhom": "Travelers comparing a clinic’s proposal for lower-eyelid surgery.",
+    "conditions": [
+      "Names in advertisements can refer to different plans. Ask the operating surgeon to explain the specific procedure and any alternatives."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "lower-eyelid consultation",
+      "fat repositioning travel checklist",
+      "aftercare after eye surgery"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-nhs-eye",
+        "title": "NHS guidance on eyelid surgery",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/cosmetic-surgery/eyelid-surgery/",
+        "note": "Describes common lower-eyelid surgery terms, possible risks and following individual instructions.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-nhs-abroad",
+        "title": "NHS advice on cosmetic surgery abroad",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-surgery-abroad/",
+        "note": "Explains why to confirm aftercare and responsibility for complications.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Verify what operation the quoted name refers to and who will check you after it."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1590,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "mental-health-and-plastic-surgery-managing-expectations": {
+    "id": "guide:mental-health-and-plastic-surgery-managing-expectations",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Separate the consultation from the decision. Write down what you hope to change and what would still concern you, then ask a qualified clinician to discuss your options before committing to travel or a procedure.",
+    "forWhom": "Travelers considering an elective cosmetic procedure and wondering how to make a decision without pressure.",
+    "conditions": [
+      "A clinic’s images and appointment schedule cannot answer personal treatment or mental-health questions."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "cosmetic surgery decision time",
+      "procedures abroad expectations",
+      "independent support before booking"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-nhs-decision",
+        "title": "NHS guide to deciding about a cosmetic procedure",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-procedure-right-for-me/",
+        "note": "Suggests time to consider reasons and expectations and discussing the decision with an appropriate professional.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-nhs-abroad",
+        "title": "NHS advice on cosmetic surgery abroad",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-surgery-abroad/",
+        "note": "Explains why to confirm aftercare and responsibility for complications.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Leave time between the consultation and the decision, and check what happens if you cancel."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1591,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "skin-whitening-glutathione-iv-vs-topical-treatments": {
+    "id": "guide:skin-whitening-glutathione-iv-vs-topical-treatments",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Identify whether the offer is a cosmetic applied to skin or an injection. For an injection, ask a qualified clinician about the exact product and its authorized use in Korea before agreeing to it.",
+    "forWhom": "Travelers comparing a product sold in a shop with a cosmetic injection advertised by a clinic.",
+    "conditions": [
+      "Regulatory status applies to a specific product and use. A warning about a cited batch or product does not give a frequency for all products."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean glutathione labeling",
+      "skin brightening advertising",
+      "product authorization questions"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-mfds-glutathione",
+        "title": "MFDS safety notice on glutathione injections",
+        "url": "https://impfood.mfds.go.kr/CFBBB02F02/getCntntsDetail?cntntsSn=282845",
+        "note": "Documents a Korean regulator caution about cosmetic use outside authorized labeling.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-fda-compound",
+        "title": "FDA safety reminder about glutathione for injection",
+        "url": "https://www.fda.gov/drugs/human-drug-compounding/fda-reminds-compounders-not-use-dietary-supplement-grade-glutathione-injectables",
+        "note": "US warning concerns safety incidents after specified compounded injections.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-mfds-label",
+        "title": "MFDS cosmetics labeling requirements",
+        "url": "https://mfds.go.kr/wpge/m_645/de050601l0024.do",
+        "note": "Lists cosmetics labeling information including ingredients and precautions.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for the exact Korean product name and labeled use before agreeing to an injection."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1592,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-skincare-clinic-vs-hospital-where-should-you-go-for-botox-2026": {
+    "id": "guide:korean-skincare-clinic-vs-hospital-where-should-you-go-for-botox-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Compare the facilities by branch, the clinician who will see you, the information available for the product and who coordinates aftercare. Verify those details before relying on the facility’s name or size.",
+    "forWhom": "Travelers comparing a cosmetic injection consultation at different Korean facilities.",
+    "conditions": [
+      "Foreign-patient registration has a defined administrative scope. Verify the specific clinician and treatment arrangements separately."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean cosmetic clinic verification",
+      "facility registration for foreign patients",
+      "injection follow-up contact"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-khidi-registration",
+        "title": "Medical Korea foreign-patient registration system",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "note": "Explains registration of providers and facilitators for foreign patients and verification of a certificate.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-khidi",
+        "title": "KHIDI guidance on information for foreign patients",
+        "url": "https://www.medicalkorea.or.kr/korp/notice/faqView.do?faqSn=48",
+        "note": "Identifies treatment information, possible side effects and estimated costs to discuss.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Cross-check the registered branch name on the estimate and the clinician’s contact."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1593,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "customized-skincare-getting-a-professional-skin-analysis-in-seoul-2026": {
+    "id": "guide:customized-skincare-getting-a-professional-skin-analysis-in-seoul-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask what the shop session includes before reserving. Check the total fee, whether a product is part of the price and whether you can see the result and full ingredient list afterward.",
+    "forWhom": "Visitors considering a cosmetic skin analysis or personalized product at a Seoul shop.",
+    "conditions": [
+      "A shop session describes a cosmetics service. Check current booking details on the operator’s own site."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Seoul cosmetic skin analysis",
+      "Myeongdong skincare booking",
+      "personalized skincare purchase"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-laneige",
+        "title": "Laneige Seoul bespoke Cream Skin booking and shop details",
+        "url": "https://www.laneige.com/int/en/bespoke/cream-skin/reservation.html",
+        "note": "Lists the service, booking channel, approximate session length and Myeongdong address.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-mfds-label",
+        "title": "MFDS cosmetics labeling requirements",
+        "url": "https://mfds.go.kr/wpge/m_645/de050601l0024.do",
+        "note": "Lists cosmetics labeling information including ingredients and precautions.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the session price, booking language and whether it includes the product."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1594,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "dental-veneers-porcelain-vs-composite-resin": {
+    "id": "guide:dental-veneers-porcelain-vs-composite-resin",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask a licensed dentist to explain the suitability of any veneer plan, how the proposed material affects the steps and what follow-up it requires. Keep travel plans flexible until you have the appointment sequence in writing.",
+    "forWhom": "Travelers reading a Korean dentist’s estimate for composite or porcelain veneers.",
+    "conditions": [
+      "The examination determines whether veneers are appropriate and what preparation is needed. Times and charges depend on the treatment plan."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "dental veneer consultation",
+      "porcelain versus composite material",
+      "dental appointment schedule"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-ada",
+        "title": "American Dental Association patient guide to veneers",
+        "url": "https://www.mouthhealthy.org/all-topics-a-z/veneers",
+        "note": "Distinguishes porcelain and composite veneers and explains why a licensed dentist should assess the options.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-uk-abroad",
+        "title": "UK travel guidance on treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Suggests arranging aftercare and planning for complications before travel.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for the planned visits, written estimate and records you can bring to a dentist at home."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1595,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korea-medical-tourism-visa-how-to-apply": {
+    "id": "guide:korea-medical-tourism-visa-how-to-apply",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Confirm your visa or entry requirements with the Korean consular office responsible for where you apply. Describe the purpose and length of your visit, and check which documents the hospital and any companion need.",
+    "forWhom": "Travelers arranging a medical consultation, treatment or recuperation visit in Korea.",
+    "conditions": [
+      "Requirements depend on passport, application location, purpose and documents. Confirm current rules before booking nonrefundable travel."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean medical visit visa",
+      "hospital confirmation documents",
+      "consular visa requirements"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-khidi-visas",
+        "title": "Medical Korea medical travel visa and application overview",
+        "url": "https://www.medicalkorea.or.kr/en/usefulinfo",
+        "note": "Identifies C-3-3 and G-1-10 and describes examples of application evidence.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-visa-portal",
+        "title": "Korea Visa Portal listing of medical visits",
+        "url": "https://www.visa.go.kr/openPage.do?MENU_ID=10102&LANG_TYPE=EN",
+        "note": "Official visa category navigation with medical treatment categories listed.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Describe the exact visit to the consulate and confirm separately whether a companion needs documents."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1596,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-driving-license-conversion-process": {
+    "id": "guide:korean-driving-license-conversion-process",
+    "categoryId": "airports-transport",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask KoROAD whether your full foreign licence can be exchanged. Confirm the issuing jurisdiction, which proof of authenticity the office accepts, and which examinations apply.",
+    "forWhom": "Foreign residents preparing for a driving licence exchange in Korea.",
+    "conditions": [
+      "Requirements can change by issuer, country, licence class and local office. Verify the current Korean guidance before paying for authentication."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean driving licence exchange",
+      "foreign licence apostille",
+      "KoROAD examination office documents"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-koroad-korean",
+        "title": "KoROAD Korean foreign-licence exchange guidance",
+        "url": "https://www.safedriving.or.kr/diGuide/selectDiGuide05.do",
+        "note": "Lists official application process, licence authentication and supporting documents.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-koroad-english",
+        "title": "KoROAD English overview of licence exchange",
+        "url": "https://www.safedriving.or.kr/enGuide/selectEnGuide22.do",
+        "note": "Explains document review, tests and country-specific differences.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check with the examination office before paying for an apostille or embassy certificate."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1597,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "vaginal-rejuvenation-and-women-wellness-clinics-in-seoul-for-expats-2026": {
+    "id": "guide:vaginal-rejuvenation-and-women-wellness-clinics-in-seoul-for-expats-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start by discussing the concern with a qualified gynecology clinician. If a clinic offers a cosmetic package, ask what specific treatment or device it means, what evidence applies to your concern and how aftercare works.",
+    "forWhom": "Visitors or residents comparing a Seoul clinic’s cosmetic offer with a routine gynecology consultation.",
+    "conditions": [
+      "Marketing names can cover different procedures. Ask a clinician about diagnosis, options and suitability for your own situation."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "gynecology appointment questions",
+      "cosmetic procedure advertising",
+      "follow-up for gynecology care abroad"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-acog",
+        "title": "American College of Obstetricians and Gynecologists patient information on genital cosmetic surgery",
+        "url": "https://www.acog.org/womens-health/faqs/vaginal-rejuvenation-labiaplasty-and-other-female-genital-cosmetic-surgery",
+        "note": "Explains promotional terminology, clinical decisions and uncertainty about risks and benefits.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-fda-device",
+        "title": "FDA overview of cosmetic devices and authorization",
+        "url": "https://www.fda.gov/medical-devices/products-and-medical-procedures/aesthetic-cosmetic-devices",
+        "note": "Describes why a device’s exact intended use and authorization matter in the United States.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-nhs-abroad",
+        "title": "NHS advice on cosmetic surgery abroad",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-surgery-abroad/",
+        "note": "Explains why to confirm aftercare and responsibility for complications.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask what the advertised term means for the specific treatment and symptom."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1598,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "breast-augmentation-in-korea-cost-clinics-and-recovery-2026": {
+    "id": "guide:breast-augmentation-in-korea-cost-clinics-and-recovery-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the operating surgeon for patient information on the proposed implant, the alternatives and risks, and who would provide continuing care. Check the travel and return arrangements before paying a deposit.",
+    "forWhom": "International patients considering a breast implant consultation in Korea.",
+    "conditions": [
+      "The device, suitability, follow-up and travel timeline depend on the individual clinical assessment."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "breast implant patient information",
+      "cosmetic consultation abroad",
+      "breast implant aftercare questions"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w35-fda-implant",
+        "title": "FDA patient questions on breast implants",
+        "url": "https://www.fda.gov/medical-devices/breast-implants/things-consider-getting-breast-implants",
+        "note": "Discusses written patient information, expectations, and ongoing monitoring.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w35-uk-abroad",
+        "title": "UK travel guidance on treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Suggests arranging aftercare and planning for complications before travel.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for the device information and how to document it for future care."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1599,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
   }
 }

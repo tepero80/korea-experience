@@ -15,6 +15,8 @@ author: Korea Experience Editorial
 | Exchange a licence | Read the [KoROAD exchange process](https://www.safedriving.or.kr/enGuide/selectEnGuide22.do). Ask which records and tests apply to your issuing authority and licence class. |
 | Apply for a Korean licence | Open the [KoROAD acquisition procedure](https://www.safedriving.or.kr/enGuide/selectEnGuide01.do) for the licence class you want. |
 
+If KoROAD says exchange is an option, use the [foreign licence exchange checklist](/blog/korean-driving-license-conversion-process) to prepare the authentication and supporting documents.
+
 ## If you need a new Korean licence
 
 KoROAD lists **pre-test safety education**, a physical check and a written test before later driving tests. It lists English among the written-test languages. Depending on the class, its sequence can include a practical test, a learner’s permit and an on-road test. Ask the examination office which services it provides at that location and what to bring for the first appointment.

@@ -26,6 +26,8 @@ Before relying on a discount, [compare app and store promotion conditions](/blog
 
 Buying base makeup? Use the [cushion foundation shade checklist](/blog/korean-makeup-trends-cushion-foundation-to-glass-skin) before comparing testers or asking for a refill.
 
+If you are comparing a regular shop visit with a booked skincare service, use the [Seoul skincare analysis booking guide](/blog/customized-skincare-getting-a-professional-skin-analysis-in-seoul-2026) to check what the appointment includes.
+
 ## Make a small list before entering
 
 | If you want | Check in store |

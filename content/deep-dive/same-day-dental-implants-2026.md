@@ -19,6 +19,8 @@ The [UK Health Research Authority’s description](https://www.hra.nhs.uk/planni
 | Temporary tooth | Is it included? If one is planned, when and where would it be provided? |
 | Final crown | Who makes and fits it, where will the visits take place and how will the clinic schedule them? |
 
+If the clinic proposed veneers for another tooth, read the [veneer appointment questions](/blog/dental-veneers-porcelain-vs-composite-resin) to confirm a separate plan and material.
+
 ## Check what needs another visit
 
 Request the itemized quote and the plan if more time or a different appointment is needed. Ask how the clinic coordinates with your dentist at home. The [FDA patient guidance](https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know) recommends asking for the implant brand and model and keeping the information with your records. For a plan that covers multiple teeth or a full arch, use the [dental quote and multiple-visit checklist](/blog/full-mouth-dental-implants-in-korea-price-comparison-and-timeline-2026).

@@ -18,6 +18,8 @@ The [Korean Ministry of Food and Drug Safety’s labeling page](https://mfds.go.
 | 사용방법 | Check where and how the product is meant to be applied. |
 | 주의사항 | Read the precautions and ask for clarification if a term is unclear. |
 
+If a seller’s comparison brings up an injection, read the [glutathione labeling and safety questions](/blog/skin-whitening-glutathione-iv-vs-topical-treatments) to check what the clinic is actually offering.
+
 ## Compare two products on the same terms
 
 Put a cleanser beside another cleanser, or a leave-on serum beside another leave-on serum. A prominent ingredient on the front does not resolve whether the rest of the formula suits your preferences. Photograph the front and ingredient panel together if you want to compare it with a product sold at home. The [Olive Young shopping guide](/blog/olive-young-shopping-guide-must-buy-k-beauty-products) helps you plan where to look and what to check at the branch.
