@@ -4664,5 +4664,40 @@
     "src": "/images/cards/exploring-korea-traditional-market-street-food-tours-2026.jpg",
     "fingerprint": "4e8e0cc1a9023a1569156b2fbfde96ae6168c3be14d5300f6392f279e4d79cee",
     "adaptation": "Typographic social preview."
+  },
+  "korean-holiday-calendar-navigating-closed-days": {
+    "src": "/images/cards/korean-holiday-calendar-navigating-closed-days.jpg",
+    "fingerprint": "2bae465a77683a231b3ca17874d3b5ae912b059e6804833a6e34eba139defc6f",
+    "adaptation": "Typographic social preview."
+  },
+  "korean-calligraphy-classes-learning-hangeul-art": {
+    "src": "/images/cards/korean-calligraphy-classes-learning-hangeul-art.jpg",
+    "fingerprint": "08bd0e1d4ce2fbeff95fabe60ca386fffc42113d7c7763d0503d1ab1947f1528",
+    "adaptation": "Typographic social preview."
+  },
+  "korean-royal-court-cuisine-where-to-try-hanjeongshik": {
+    "src": "/images/cards/korean-royal-court-cuisine-where-to-try-hanjeongshik.jpg",
+    "fingerprint": "44c9cfb8e2745da1683fb336166f278e53c280b953f35adc1cd57f4f1641ed49",
+    "adaptation": "Typographic social preview."
+  },
+  "k-pop-karaoke-noraebang-song-requests-in-english": {
+    "src": "/images/cards/k-pop-karaoke-noraebang-song-requests-in-english.jpg",
+    "fingerprint": "c0d7bda4a240e34245c73ebbb18f229c3a725622d3cddbb3e5bc354729e7fd8d",
+    "adaptation": "Typographic social preview."
+  },
+  "korea-s-most-photogenic-train-stations": {
+    "src": "/images/cards/korea-s-most-photogenic-train-stations.jpg",
+    "fingerprint": "2e8ce0f0c16163467d732f0a361f30d1036c4cba0522f1bb7c8bcb8f496c4fa1",
+    "sourceImage": "/images/editorial/archive-jeongdongjin-coastal-platforms-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Jeongdongjin Station platforms.jpg",
+      "author": "Minseong Kim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeongdongjin_Station_platforms.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2017-07-07."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

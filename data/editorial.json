@@ -30083,5 +30083,397 @@
     "heroOmissionReason": "The old generated image did not document an actual market tour. The guide includes a licensed photograph of the Tongin lunch counter.",
     "changeType": "rewrite",
     "launchOrder": 1323
+  },
+  "korean-holiday-calendar-navigating-closed-days": {
+    "id": "guide:korean-holiday-calendar-navigating-closed-days",
+    "checkedAt": "2026-11-24",
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "categoryId": "plan-your-trip",
+    "format": "seasonal",
+    "forWhom": "Visitors with palace, museum or train plans during Korea’s 2027 holidays",
+    "answer": "Mark the published holidays, then confirm the exact dates for your sights and train journeys. Check both the holiday and the day after it.",
+    "conditions": [
+      "Dates refer to 2027. Each venue and operator publishes its own schedule.",
+      "Check current notices for separate palace garden tours, special exhibitions, and intercity tickets."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "planning holiday closures"
+    ],
+    "relations": [
+      {
+        "slug": "korean-palaces-guide-gyeongbokgung-to-changdeokgung-2026",
+        "type": "next",
+        "label": "Choose a palace that fits the day",
+        "reason": "Compare the usual closing day and visit format for the two Seoul palaces."
+      },
+      {
+        "slug": "ktx-vs-srt-high-speed-train-comparison-and-booking",
+        "type": "prepare",
+        "label": "Check your high-speed train options",
+        "reason": "Confirm which station and operator serve both legs of the trip."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kasa-2027-calendar",
+        "title": "Korea AeroSpace Administration 2027 official calendar",
+        "url": "https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do?plcyBrfNo=431",
+        "note": "Published holiday dates, distinguishing ordinary weekends from holidays and substitute holidays.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "royal-palace-closures",
+        "title": "Royal Palaces and Tombs Center viewing schedule",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+        "note": "Regular closure days and holiday exception.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "nmk-closed-days",
+        "title": "National Museum of Korea visiting hours and closed days",
+        "url": "https://mvcm.museum.go.kr/ENG/contents/E0101010000.do",
+        "note": "Museum closure pattern and current-year notice.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korail-holiday-notices",
+        "title": "Korail dated service and ticket notices",
+        "url": "https://m.letskorail.com/mbt/m_notice.html",
+        "note": "Operator notices for each holiday booking period and travel year.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Seollal holiday and substitute day: February 6 to 9, 2027.",
+      "Check the day after a holiday for shifted venue closures."
+    ],
+    "heroOmissionReason": "The former generated cover does not document a specific closure. A real Gyeongbokgung photograph in the guide illustrates the palace example.",
+    "changeType": "rewrite",
+    "launchOrder": 1324
+  },
+  "korean-calligraphy-classes-learning-hangeul-art": {
+    "id": "guide:korean-calligraphy-classes-learning-hangeul-art",
+    "checkedAt": "2026-11-24",
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "forWhom": "Visitors preparing for a first hands-on Hangeul class in Seoul",
+    "answer": "Confirm the script, tool, teaching language and take-home format for the exact workshop. Bring a short phrase and ask the instructor to check the spelling.",
+    "conditions": [
+      "Confirm a dated session and seat with the operator.",
+      "The venue’s published hours and operating languages can differ from the workshop’s."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "first hangeul calligraphy workshop"
+    ],
+    "relations": [
+      {
+        "slug": "insadong-traditional-crafts-and-souvenirs",
+        "type": "alternative",
+        "label": "Plan a separate Insadong craft stop",
+        "reason": "Choose a useful alternative if your requested workshop is unavailable."
+      },
+      {
+        "slug": "gyeongbokgung-to-tongin-market-lunch",
+        "type": "next",
+        "label": "Plan the rest of a Jongno day",
+        "reason": "Keep a nearby activity and meal option around a booked time."
+      }
+    ],
+    "sources": [
+      {
+        "id": "seoul-lounge-calligraphy",
+        "title": "Seoul Tourism Organization Seoul Culture Lounge listing",
+        "url": "https://english.visitseoul.net/PalaceArea/2024-SEOUL-CULTURE-LOUNGE/ENPi8afi4",
+        "note": "Lists Hangeul calligraphy as one possible activity and links to the operator. It does not prove session availability.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-calligraphy-formats",
+        "title": "Korea Tourism Organization Hangeul calligraphy examples",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248865",
+        "note": "Examples of workshop formats; verify availability directly.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask whether you will use a brush or a pen.",
+      "Bring one short phrase and confirm the class language."
+    ],
+    "heroOmissionReason": "The former generated cover did not document a particular class or teaching tool. A preparation checklist provides the relevant comparison.",
+    "changeType": "rewrite",
+    "launchOrder": 1325
+  },
+  "korean-royal-court-cuisine-where-to-try-hanjeongshik": {
+    "id": "guide:korean-royal-court-cuisine-where-to-try-hanjeongshik",
+    "checkedAt": "2026-11-24",
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "categoryId": "food-dining",
+    "format": "decision",
+    "forWhom": "Travelers choosing or reserving a Korean set meal in Seoul",
+    "answer": "Compare the restaurant’s description of the menu, its serving format and the total cost per guest. A hanjeongsik menu can include royal-cuisine influences.",
+    "conditions": [
+      "Read the dated menu and the booking conditions for the specific course.",
+      "Confirm food requirements and any separate performance reservation directly."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "royal inspired set meal reservation"
+    ],
+    "relations": [
+      {
+        "slug": "gyeongbokgung-to-tongin-market-lunch",
+        "type": "alternative",
+        "label": "Choose a flexible lunch near the palace",
+        "reason": "Find a separate market meal and verify whether the food program is running."
+      },
+      {
+        "slug": "winter-food-and-tea-walk-insadong-seoul",
+        "type": "next",
+        "label": "Allow time for a nearby tea stop",
+        "reason": "Plan a quieter stop after a full meal."
+      }
+    ],
+    "sources": [
+      {
+        "id": "korea-house-menu",
+        "title": "Korea House official course menu",
+        "url": "https://kh.or.kr/combine/content/list/913",
+        "note": "Describes its royal-inspired set meal and other food traditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-house-seasonal-terms",
+        "title": "Korea House seasonal dining notice",
+        "url": "https://www.kh.or.kr/brd/board/644/L/SITES/100/menu/371?bbIdx=119978&brdType=R",
+        "note": "Lists its dated dining offer; recheck the notice for the day you want.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jihwaja-booking",
+        "title": "Jihwaja official reservations",
+        "url": "https://en.jihwajafood.co.kr/Reservation",
+        "note": "Specifies the current address, ordering terms and prebooking allergy notice.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jihwaja-menu",
+        "title": "Jihwaja current menu notes",
+        "url": "https://en.jihwajafood.co.kr/a-la-carte",
+        "note": "Explains some items need advance notice and menu details can vary.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Compare the operator’s current menu and price per guest.",
+      "Confirm group, dietary and performance conditions before booking."
+    ],
+    "heroOmissionReason": "The former generated food photograph could be mistaken for an operator’s current course. Use the linked current menus.",
+    "changeType": "rewrite",
+    "launchOrder": 1326
+  },
+  "k-pop-karaoke-noraebang-song-requests-in-english": {
+    "id": "guide:k-pop-karaoke-noraebang-song-requests-in-english",
+    "checkedAt": "2026-11-24",
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "forWhom": "Visitors trying to queue a song at a Korean noraebang",
+    "answer": "Check the machine’s brand, search its catalog for the song and performer, then check the displayed title before pressing the queue button.",
+    "conditions": [
+      "Catalog coverage and supported song versions can depend on the machine.",
+      "Confirm the labels and the desired version in the room."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "noraebang song queue controls"
+    ],
+    "relations": [
+      {
+        "slug": "how-to-attend-k-pop-music-show-recordings-in-seoul-2026",
+        "type": "next",
+        "label": "Plan a separate live music outing",
+        "reason": "Check audience application channels for public recordings in Seoul."
+      }
+    ],
+    "sources": [
+      {
+        "id": "tj-track-search",
+        "title": "TJ Media official song search",
+        "url": "https://www.tjmedia.com/song/accompaniment",
+        "note": "Search by track, artist or number and check the catalog’s model and language limits.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "ky-faq-search",
+        "title": "Kumyoung official song-search FAQ",
+        "url": "https://www.kyentertainment.kr/bbs/board.php?bo_table=faq&sca=%EA%B3%B5%ED%86%B5",
+        "note": "Points visitors to its official track search and app.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tj-b2-controls",
+        "title": "TJ B2 official model manual",
+        "url": "https://www.tjmedia.com/manual/240322_B2_manual_v3.2.pdf",
+        "note": "Concrete example of a device with title search, queue and cancellation controls.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-noraebang-custom",
+        "title": "Korea Tourism Organization guide to noraebang culture",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=508&vcontsId=177335",
+        "note": "Introduction to singing rooms.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Match the song-search provider to the room’s machine.",
+      "Check the title and performer before queuing."
+    ],
+    "heroOmissionReason": "The former generated photo did not show a verifiable control panel. A label table and the official manual identify the controls.",
+    "changeType": "rewrite",
+    "launchOrder": 1327
+  },
+  "korea-s-most-photogenic-train-stations": {
+    "id": "guide:korea-s-most-photogenic-train-stations",
+    "checkedAt": "2026-11-24",
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "jeongdongjin-station-beach-access"
+    ],
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "forWhom": "Travelers picking a railway-themed photography stop in Korea",
+    "answer": "Choose Jeongdongjin for a coastal rail stop, Seoul 284 for a historic station building, or Gyeonghwa for spring railway heritage. Verify access and your return route first.",
+    "conditions": [
+      "Historical photographs describe the setting and date shown.",
+      "Follow current directions from staff and respect platform, venue and restricted-area rules."
+    ],
+    "regions": [
+      "gangneung",
+      "seoul",
+      "changwon"
+    ],
+    "stages": [
+      "getting-around",
+      "exploring"
+    ],
+    "interests": [
+      "station photographs from public routes"
+    ],
+    "relations": [
+      {
+        "slug": "jeongdongjin-station-to-beach-year-round",
+        "type": "next",
+        "label": "Follow the public route to the beach",
+        "reason": "Check the right station exit and onward walking route."
+      },
+      {
+        "slug": "seoul-station-or-yongsan-for-ktx",
+        "type": "prepare",
+        "label": "Check your Seoul departure station",
+        "reason": "Leave time to get to the correct terminal after visiting the historic building."
+      },
+      {
+        "slug": "cherry-blossom-season-in-korea-when-and-where-2026",
+        "type": "alternative",
+        "label": "Make a separate Jinhae route",
+        "reason": "Compare blossom stops and check the return trip."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kto-jeongdongjin-coast",
+        "title": "Korea Tourism Organization Jeongdongjin coastal guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1591437",
+        "note": "Describes the station and directly adjacent beach.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korail-current-trains",
+        "title": "Korail official train schedules and booking",
+        "url": "https://www.korail.com/global/eng/main",
+        "note": "Confirm the exact passenger train and return.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul284-visitor-info",
+        "title": "Culture Station Seoul 284 visitor information",
+        "url": "https://www.seoul284.org/cms/content/view/250",
+        "note": "Access information and exhibition-dependent opening.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul284-current-program",
+        "title": "Culture Station Seoul 284 current program",
+        "url": "https://www.seoul284.org/main",
+        "note": "Check the current show and hours for the date.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-gyeonghwa-heritage",
+        "title": "Korea Tourism Organization Gyeonghwa heritage listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=&vcontsId=81715",
+        "note": "Confirms site heritage and lack of passenger stops.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Plan a public photo viewpoint and a return route.",
+      "Confirm exhibition dates, train schedules or spring site notices."
+    ],
+    "heroMediaId": "archive-jeongdongjin-coastal-platforms",
+    "heroCaption": "Jeongdongjin Station’s seafront platforms in July 2017. Train types and available routes may have changed.",
+    "cardImageLabel": "Jeongdongjin · July 2017",
+    "changeType": "rewrite",
+    "launchOrder": 1328,
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Jeongdongjin Station platforms.jpg",
+      "author": "Minseong Kim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeongdongjin_Station_platforms.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2017-07-07."
+    }
   }
 }

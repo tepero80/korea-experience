@@ -24,7 +24,7 @@ Standard fees below are per adult aged 19–64. They cover daytime entry and wer
 | **Main court** | **Gyeongbokgung** usually closes Tuesday. ₩3,000 for the palace. Check the guard ceremony at Gwanghwamun. |
 | **Garden** | **Changdeokgung** usually closes Monday. ₩3,000 for the palace buildings. The Secret Garden adds ₩5,000 and has a separate timed entry. |
 
-Both palaces can change their closing day around a public holiday. On a day when both are open, choose the garden time first. It is easier to move a daytime Gyeongbokgung visit around a fixed booking than to rush through Changdeokgung to make the garden gate on time.
+Both palaces can change their closing day around a public holiday. If you are planning across a holiday, check the [2027 holiday calendar and venue closures](/blog/korean-holiday-calendar-navigating-closed-days). On a day when both are open, choose the garden time first. It is easier to move a daytime Gyeongbokgung visit around a fixed booking than to rush through Changdeokgung to make the garden gate on time.
 
 ## Gyeongbokgung: visit the palace and see the guard
 

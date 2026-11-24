@@ -40,3 +40,5 @@ Keep to marked pedestrian routes and use assigned crossings. Some views from the
 A shoreline walk and a swim are different plans. The designated swimming season is published separately. Follow signs, lifeguard instructions and current closures. In strong wind or high waves, use the [winter coast safety guide](/blog/korea-coastal-winter-wave-safety) and choose a dry public viewing area away from the water’s edge.
 
 The plan above is for a regular outing. Use the [Jeongdongjin New Year festival guide](/blog/jeongdongjin-2027-new-year-sunrise-festival-plan) for the holiday program and altered access. If you will instead arrive at Gangneung Station and want a simpler first stop, use the [Gangneung Station to Anmok guide](/blog/gangneung-station-anmok).
+
+If the railway setting is the reason for your trip, [compare public station photo stops](/blog/korea-s-most-photogenic-train-stations) to choose between a coast, a historic building and a spring rail-heritage site.
