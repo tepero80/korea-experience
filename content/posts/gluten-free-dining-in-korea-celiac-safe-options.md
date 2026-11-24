@@ -7,7 +7,7 @@ excerpt: >-
 category: Food & Dining
 author: Korea Experience Team
 featured: false
-image: /images/editorial/celiac-planning-illustration.svg
+image: /images/editorial/seoul-shared-table-1280.webp
 updated: '2026-10-31'
 ---
 Traveling with celiac disease takes more than finding a menu item described as “gluten-free.” Ingredients, sauces and preparation practices matter, and a restaurant may not be able to confirm them. This guide offers a way to plan and ask questions; it cannot certify a dish or restaurant as safe. If you have celiac disease or a serious reaction risk, rely on advice from your treating clinician and your own established dietary plan.
@@ -44,6 +44,8 @@ In Korea, ask about the complete dish rather than relying on its name or main in
 <span id="korean-bbq-the-safest-social-option"></span>
 <span id="bibimbap-the-customizable-bowl"></span>
 <span id="soup-dishes-proceed-with-caution"></span>
+
+<GuidePhoto id="celiac-planning-illustration" caption="Use these questions to check ingredients and preparation separately." />
 
 ## What to ask at the restaurant
 

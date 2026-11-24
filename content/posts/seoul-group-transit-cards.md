@@ -4,7 +4,7 @@ date: '2026-11-09'
 updated: '2026-11-09'
 excerpt: "Understand individual cards and what to tell the bus driver when paying for a group."
 category: airports-transport
-image: /images/editorial/transport-seoul-group-cards-illustration.svg
+image: /images/editorial/seoul-world-cup-stadium-station-ticket-gates-2013-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
@@ -15,6 +15,8 @@ draft: false
 **For:** groups using Seoul public transport. **Information checked:** 9 November 2026.
 
 For a group planning to use both the subway and buses, the straightforward choice is a separate compatible transit card for each traveler. If you pay for several people with one card on a Seoul bus, tell the driver how many are traveling **before** tapping. Seoul’s published rules say the group payment cannot receive a transfer discount onto the subway.
+
+<GuidePhoto id="transport-seoul-group-cards-illustration" caption="Decide how each person will pay, tap in and handle transfers." />
 
 ## Choose the right approach
 

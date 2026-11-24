@@ -16,6 +16,10 @@ export interface EditorialMedia {
   credit: MediaCredit;
 }
 const registry = new Map((data as EditorialMedia[]).map((m) => [m.id, m]));
+const registryBySource = new Map<string, EditorialMedia>();
+for (const media of registry.values()) {
+  if (!registryBySource.has(media.src)) registryBySource.set(media.src, media);
+}
 const generatedArchiveCovers = new Map(Object.entries(generatedArchive.covers));
 
 export function generatedArchiveCoverHash(slug: string, src?: string) {
@@ -26,7 +30,7 @@ export function mediaFor(id?: string) {
 }
 
 export function guideHeroPhotograph(id?: string, src?: string) {
-  const photo = mediaFor(id);
+  const photo = mediaFor(id) ?? mediaForSource(src);
   if (
     !photo ||
     photo.src !== src ||
@@ -39,5 +43,5 @@ export function guideHeroPhotograph(id?: string, src?: string) {
 }
 
 export function mediaForSource(src?: string) {
-  return src ? (data as EditorialMedia[]).find((m) => m.src === src) : undefined;
+  return src ? registryBySource.get(src) : undefined;
 }

@@ -6,7 +6,7 @@ excerpt: >-
   Send the ages, sleeping requirements and arrival details in one inquiry, then
   confirm the exact room and total.
 category: where-to-stay
-image: /images/editorial/family-room-occupancy-illustration.svg
+image: /images/editorial/seoul-garden-hotel-room-2013-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
@@ -14,6 +14,8 @@ tags:
 draft: false
 ---
 **Count people, beds and permitted occupancy separately.** A room can look large and still permit fewer guests than your family. Enter each child's age for the actual dates, then confirm sleeping arrangements before a nonrefundable payment.
+
+<GuidePhoto id="family-room-occupancy-illustration" caption="Use the five checks below to confirm a room for your whole group." />
 
 ## Check five different things
 

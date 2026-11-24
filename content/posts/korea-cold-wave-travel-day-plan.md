@@ -4,7 +4,7 @@ date: '2026-11-15'
 updated: '2026-11-15'
 excerpt: "Use Korea's current cold-wave alert to shorten exposed outdoor time, plan warm indoor breaks and know when to seek urgent help."
 category: travel-essentials
-image: /images/editorial/essentials-korea-coldwave-decision-illustration.svg
+image: /images/editorial/seoul-cleared-footpath-after-snow-2010-1280.webp
 author: Korea Experience Editorial
 tags:
   - winter
@@ -15,6 +15,8 @@ draft: false
 ---
 
 **If Korea's weather service issues a cold-wave alert for your area, treat it as a reason to review the day—not as a live assessment of every street.** Check the alert's location and timing, shorten long outdoor blocks when needed, and keep an easy route back to warmth.
+
+<GuidePhoto id="essentials-korea-coldwave-decision-illustration" caption="Use the current weather alert and your own ability to stay warm when deciding whether to go out." />
 
 ## Make the decision before leaving
 
@@ -40,7 +42,5 @@ These are not diagnostic criteria. The KMA lists severe chills, memory or orient
 Before setting out, save the Korean name or address of your accommodation and identify a warm indoor stop along the route. If weather changes, ask venue staff or your accommodation to help with directions. For non-emergency travel interpretation or visitor information, see the [1330 Korea Travel Hotline guide](/blog/1330-travel-helpline-8-languages-2026); for emergency contact choices, read [1330 vs. 119](/blog/medical-emergencies-1330-vs-119-2026).
 
 If snow or ice is also forecast, use the separate [snow-advisory travel checklist](/blog/korea-snow-advisory-travel-plan). For what to bring on a normal winter trip, see the [winter packing checklist](/blog/korea-winter-packing-checklist). Those guides address different decisions; none replaces current alerts or local instructions.
-
-**Illustration note:** The cover is an original editorial decision diagram, not a weather map, live alert or medical assessment.
 
 Sources checked 15 November 2026. Check the KMA and local service notices again on the day of travel.

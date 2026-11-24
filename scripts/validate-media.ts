@@ -1,10 +1,10 @@
 import fs from 'node:fs';
 import crypto from 'node:crypto';
-import { getAllPosts, getPostBySlug } from '../lib/posts';
+import { getAllPosts, getPostBySlug, getRelatedPosts } from '../lib/posts';
 import mediaData from '../data/media.json';
 import destinationReviews from '../data/destination-guide-photos.json';
 import type { EditorialMedia } from '../lib/media';
-import { generatedArchiveCoverHash, mediaForSource } from '../lib/media';
+import { generatedArchiveCoverHash, guideHeroPhotograph, mediaForSource } from '../lib/media';
 const registry = mediaData as EditorialMedia[];
 const errors: string[] = [];
 const byId = new Map<string, EditorialMedia>();
@@ -32,7 +32,7 @@ function fileIdentity(src?: string) {
 const identities = (p: (typeof posts)[number]) => {
   const m = p.editorial?.heroMediaId
     ? byId.get(p.editorial.heroMediaId)
-    : registry.find((m) => m.src === p.image);
+    : mediaForSource(p.image);
   return new Set(
     [
       p.image,
@@ -93,10 +93,18 @@ for (const [slug, review] of Object.entries(destinationReviews)) {
     review.subjectUsefulness + review.sceneClarity + review.cropPotential < 5
   ) errors.push(`Invalid photo review for a destination plan ${slug}`);
 }
+let nextStepCards = 0;
+for (const post of posts) {
+  for (const target of getRelatedPosts(post.slug)) {
+    nextStepCards++;
+    if (!guideHeroPhotograph(target.editorial?.heroMediaId, target.image))
+      errors.push(`Next-step card needs the linked guide's licensed lead photo: ${post.slug} -> ${target.slug}`);
+  }
+}
 if (errors.length) {
   console.error([...new Set(errors)].join('\n'));
   process.exit(1);
 }
 console.log(
-  `Media guard passed: ${registry.length} registered assets; all ${posts.length} guide heroes checked for reused paths, source identities and exact image hashes. ${Object.keys(destinationReviews).length} destination plan photo approvals are current.`,
+  `Media guard passed: ${registry.length} registered assets; all ${posts.length} guide heroes checked for reused paths, source identities and exact image hashes. ${Object.keys(destinationReviews).length} destination plan photo approvals and ${nextStepCards} next-step photographs are current.`,
 );

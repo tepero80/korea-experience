@@ -7,12 +7,14 @@ excerpt: >-
 category: Travel Essentials
 author: Korea Experience Editorial Team
 deepDive: true
-image: /images/editorial/restroom-planning.svg
+image: /images/editorial/seoul-grand-park-restroom-2018-1280.webp
 updated: '2026-10-31'
 ---
 Look for **화장실** (restroom) on a sign or map, and ask station or venue staff if you cannot find the entrance. In Seoul, the [Smart Seoul Map](https://map.seoul.go.kr/nsmgis/) can be searched for 화장실. A map result is a lead, not a guarantee that a facility is open, free or accessible when you arrive.
 
 <span id="subway-stations-and-public-transport-hubs"></span>
+
+<GuidePhoto id="restroom-planning" caption="Use the station, venue and accessibility checks below to find the restroom that fits your route." />
 
 ## At a subway station
 
@@ -25,8 +27,6 @@ Seoul published a [15-minute turnstile re-entry notice](https://english.seoul.go
 ## At malls, parks and other venues
 
 Look for a venue directory or ask at the information desk. Opening hours, access rules and the route from a particular entrance depend on the building. Cafés and restaurants may reserve facilities for customers or require a key or code; ask staff. Convenience-store access varies by branch, so have another option if it matters.
-
-<GuidePhoto id="seoul-grand-park-restroom-2018" caption="Restroom entrance at Seoul Grand Park, photographed in 2018. This is one park facility; its current access, hours and accessible features have not been checked." />
 
 <span id="digital-tools-and-navigation-apps"></span>
 

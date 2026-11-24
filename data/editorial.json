@@ -244,16 +244,18 @@
     "launchOrder": 3,
     "changeType": "rewrite",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Budget units and sample party total",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#budget-units-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial diagram. All costs are hypothetical inputs, not a survey or booking quote. The matching HTML budget example provides accessible units and calculations."
+      "kind": "photograph",
+      "author": "Daderot",
+      "title": "Market restaurant in Seoul, Korea - DSC00698.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Market_restaurant_in_Seoul,_Korea_-_DSC00698.JPG",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
     },
     "gallery": [],
-    "heroMediaId": "budget-units-illustration"
+    "heroMediaId": "seoul-market-restaurant-food-counter-2011",
+    "heroCaption": "A market restaurant counter in Seoul in December 2011. For your budget, use current prices and count meals per person.",
+    "cardImageLabel": "Prepared food at a Seoul market"
   },
   "korea-winter-packing-checklist": {
     "id": "plan-winter-packing",
@@ -1298,16 +1300,18 @@
     "launchOrder": 13,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Bed count and family-room occupancy check",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#family-room-occupancy-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial diagram, not a hotel photograph. It does not claim a capacity for the depicted layout; verify the actual room policy and each child’s age with the property."
+      "kind": "photograph",
+      "author": "Woodarelaisku",
+      "title": "SK Korea tour 首爾 最佳西方 首爾花園酒店 Best Western Premier Seoul Garden Hotel room interior curtain n furniture lighting July-2013.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SK_Korea_tour_%E9%A6%96%E7%88%BE_%E6%9C%80%E4%BD%B3%E8%A5%BF%E6%96%B9_%E9%A6%96%E7%88%BE%E8%8A%B1%E5%9C%92%E9%85%92%E5%BA%97_Best_Western_Premier_Seoul_Garden_Hotel_room_interior_curtain_n_furniture_lighting_July-2013.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
     },
     "gallery": [],
-    "heroMediaId": "family-room-occupancy-illustration"
+    "heroMediaId": "seoul-garden-hotel-room-2013",
+    "heroCaption": "A Seoul Garden Hotel guest room in July 2013. Confirm the beds, room type and permitted number of guests directly with the property.",
+    "cardImageLabel": "Seoul hotel guest room"
   },
   "hanok-stay-booking-checklist": {
     "id": "stay-hanok",
@@ -3629,8 +3633,7 @@
     "answer": "Choose by device and tasks: data, calls/SMS, sharing and support. A Korean number or incoming SMS does not guarantee Korean personal authentication or acceptance by every local service.",
     "forWhom": "Visitors choosing a practical connectivity setup before arrival",
     "conditions": [
-      "Provider terms are product-specific; no universal price or best provider is established.",
-      "The hero is a licensed phone-hardware video still, not a Korean carrier/app screen."
+      "Provider terms are product-specific; no universal price or best provider is established."
     ],
     "regions": [
       "seoul"
@@ -3680,16 +3683,18 @@
     "launchOrder": 37,
     "changeType": "rewrite",
     "imageCredit": {
-      "kind": "video-still",
-      "title": "Samsung Galaxy S24 (webtekno) 008.png",
-      "author": "webtekno",
-      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Samsung_Galaxy_S24_(webtekno)_008.png",
-      "license": "CC BY 3.0",
-      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
-      "note": "Video frame dated 2024-01-17. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
+      "kind": "photograph",
+      "author": "BwDraco",
+      "title": "Nano SIM card and tray.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nano_SIM_card_and_tray.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
     },
     "gallery": [],
-    "heroMediaId": "exp-c-phone-hardware-still"
+    "heroMediaId": "phone-nano-sim-and-tray-2016",
+    "heroCaption": "A physical nano-SIM and phone tray. Check the exact model of the phone you will bring before choosing a SIM, an eSIM or portable Wi-Fi.",
+    "cardImageLabel": "Physical nano-SIM and tray"
   },
   "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options": {
     "id": "essentials-payments",
@@ -4700,17 +4705,17 @@
     "launchOrder": 47,
     "changeType": "rewrite",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Celiac dining planning questions",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#celiac-planning-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial checklist diagram; no food, restaurant or preparation is certified safe. The questions are also available in the article text."
+      "kind": "photograph",
+      "title": "Laid table in Seoul, South Korea.jpg",
+      "author": "Korea.net / Korean Culture and Information Service (Jeon Han)",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Laid_table_in_Seoul,_South_Korea.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Photographed 2012-09-21. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
     },
-    "heroMediaId": "celiac-planning-illustration",
-    "heroCaption": "Illustrated planning questions; no food or restaurant is certified by this guide.",
-    "cardImageLabel": "Dining questions",
+    "heroMediaId": "seoul-shared-table",
+    "heroCaption": "A shared table photographed in Seoul. Before ordering, check specific ingredients and whether utensils and preparation surfaces are shared.",
+    "cardImageLabel": "Shared table in Seoul",
     "experienceVersion": 2
   },
   "gluten-free-guide-to-korean-food-what-to-eat-and-avoid-2026": {
@@ -4799,17 +4804,17 @@
     "launchOrder": 48,
     "changeType": "rewrite",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Questions about Korean meals",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#gluten-menu-questions",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial illustration; no food or restaurant is certified safe. Questions are available as article text."
+      "kind": "photograph",
+      "title": "Korean cuisine-Banchan.jpg",
+      "author": "stu_spivack",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-Banchan.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Photographed 2006-09-09. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
     },
-    "heroMediaId": "gluten-menu-questions",
-    "heroCaption": "Illustrated questions, not a certification of food or kitchen safety.",
-    "cardImageLabel": "Meal-check questions",
+    "heroMediaId": "banchan-dishes",
+    "heroCaption": "An example of assorted banchan. Ask about ingredients and preparation for each side dish, sauce and garnish that will be served with your meal.",
+    "cardImageLabel": "Korean banchan dishes",
     "experienceVersion": 2
   },
   "medical-emergencies-1330-vs-119-2026": {
@@ -4956,17 +4961,17 @@
     "launchOrder": 50,
     "changeType": "rewrite",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Finding a restroom: look, ask and check",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#restroom-planning",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial planning illustration, not a real facility or guarantee of access."
+      "kind": "photograph",
+      "title": "Seoul Grand Park restroom entrance",
+      "author": "Holiakim",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Grand_Park_toilet_20180420.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 20 April 2018; resized and converted to WebP. Current access, hours and accessibility are not verified."
     },
-    "heroMediaId": "restroom-planning",
-    "heroCaption": "Illustrated steps; a listing does not guarantee access or accessibility.",
-    "cardImageLabel": "Find a restroom",
+    "heroMediaId": "seoul-grand-park-restroom-2018",
+    "heroCaption": "Restroom entrance at Seoul Grand Park in 2018. Check the current opening hours, route and features of the specific facility you intend to use.",
+    "cardImageLabel": "Seoul Grand Park restroom entrance",
     "experienceVersion": 2
   },
   "medical-tourism-with-kids-pediatric-healthcare-in-seoul": {
@@ -5121,16 +5126,17 @@
     "launchOrder": 1001,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Power bank and carry-on planning illustration",
-      "author": "Korea Experience Editorial using OpenAI image generation",
-      "license": "Generated illustration; site use under OpenAI terms",
-      "licenseUrl": "https://openai.com/policies/terms-of-use/",
-      "note": "AI-generated conceptual illustration; not a photograph of an airport, product or actual baggage procedure."
+      "kind": "photograph",
+      "author": "Santeri Viinamäki",
+      "title": "Portable power bank.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portable_power_bank.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
     },
-    "heroMediaId": "incheon-power-bank-cover",
-    "heroCaption": "AI-generated illustration of travel packing; not an airport photograph.",
-    "cardImageLabel": "Illustration",
+    "heroMediaId": "portable-power-bank-and-usb-cable-2017",
+    "heroCaption": "A portable power bank and charging cable. Find the capacity marking on your own battery and confirm the rules for your flight.",
+    "cardImageLabel": "Portable power bank",
     "experienceVersion": 2
   },
   "national-museum-korea-childrens-museum-reservation": {
@@ -6651,18 +6657,19 @@
     "launchOrder": 1019,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "One Transit Card per Person in Seoul: A Guide for Groups decision steps",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#transport-seoul-group-cards-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial diagram; not an operator display or live status."
+      "kind": "photograph",
+      "author": "쉰지식인",
+      "title": "World Cup Stadium Station (Seoul) Exit 3 Ticket Gates.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:World_Cup_Stadium_Station_(Seoul)_Exit_3_Ticket_Gates.JPG",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
     },
-    "heroMediaId": "transport-seoul-group-cards-illustration",
-    "heroCaption": "Original planning diagram; check current service and conditions.",
+    "heroMediaId": "seoul-world-cup-stadium-station-ticket-gates-2013",
+    "heroCaption": "World Cup Stadium Station’s ticket gates in August 2013. Plan how each member of your group will pay and pass the gate.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "cardImageLabel": "Seoul subway ticket gates"
   },
   "incheon-winter-flight-disruption-checklist": {
     "id": "transport-incheon-winter-flight-check",
@@ -6958,18 +6965,19 @@
     "launchOrder": 1023,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Lost Your Foreign Bank Card in Korea? What to Do First steps",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-lost-foreign-card-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial illustration, not a bank, airline or airport interface."
+      "kind": "photograph",
+      "author": "Narubaru7",
+      "title": "인천지하철 갈산역 ATM기기 및 물품보관함 2025년 12월경 06.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EC%A7%80%ED%95%98%EC%B2%A0_%EA%B0%88%EC%82%B0%EC%97%AD_ATM%EA%B8%B0%EA%B8%B0_%EB%B0%8F_%EB%AC%BC%ED%92%88%EB%B3%B4%EA%B4%80%ED%95%A8_2025%EB%85%84_12%EC%9B%94%EA%B2%BD_06.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
     },
-    "heroMediaId": "essentials-lost-foreign-card-illustration",
-    "heroCaption": "Use an official issuer channel; never share a one-time code.",
+    "heroMediaId": "incheon-galsan-station-atm-2025",
+    "heroCaption": "A cash machine at Incheon’s Galsan Station in December 2025. If a card is lost or retained, contact the issuer through its official app or phone number.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "cardImageLabel": "Cash machine at Galsan Station"
   },
   "seoul-station-city-airport-checkin": {
     "id": "transport-seoul-station-city-checkin",
@@ -8381,17 +8389,18 @@
     "launchOrder": 1101,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Cold-wave travel decision diagram",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#essentials-korea-coldwave-decision-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original vector illustration; not a live weather alert, map or medical assessment."
+      "kind": "photograph",
+      "author": "gary4now",
+      "title": "Cleared footpath - panoramio.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cleared_footpath_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
     },
-    "heroMediaId": "essentials-korea-coldwave-decision-illustration",
-    "heroCaption": "An editorial cold-weather decision checklist, not a live alert or medical assessment.",
-    "experienceVersion": 2
+    "heroMediaId": "seoul-cleared-footpath-after-snow-2010",
+    "heroCaption": "A footpath after snowfall in Seoul in December 2010. Check the current forecast and conditions along the actual route you intend to walk.",
+    "experienceVersion": 2,
+    "cardImageLabel": "Seoul footpath after snow"
   },
   "walking-on-icy-sidewalks-in-korea": {
     "id": "essentials-korea-icy-sidewalk-walking",
@@ -8566,7 +8575,7 @@
     "id": "culture-korea-ice-festival-opening-check",
     "categoryId": "culture-events",
     "format": "seasonal",
-    "checkedAt": "2026-11-15",
+    "checkedAt": "2026-11-24",
     "answer": "Before traveling, confirm the exact date, activity, ticket conditions and transport on the organizer's current page; ice conditions can delay opening or reduce activities.",
     "forWhom": "Travelers planning an ice-fishing, sledding or other ice-based festival visit in Korea",
     "conditions": [
@@ -8634,8 +8643,8 @@
         "id": "visitkorea-hwacheon-event-record",
         "title": "VISITKOREA: Hwacheon Sancheoneo Ice Festival",
         "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=96732",
-        "checkedAt": "2026-11-15",
-        "note": "Tourism listing explicitly says its information is based on the 2026 festival and 2027 details will be updated; use organizer notices for current details."
+        "checkedAt": "2026-11-24",
+        "note": "Lists Hwacheon for January 9–31, 2027. Activity and timetable details shown are from the 2026 edition."
       }
     ],
     "shareFacts": [
@@ -8646,17 +8655,18 @@
     "launchOrder": 1104,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Ice festival opening checklist",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#culture-korea-ice-festival-opening-check",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial decision diagram; not a live status board, ice-thickness reading or festival photograph."
+      "kind": "photograph",
+      "author": "Christian Bolz",
+      "title": "Pyeongchang Trout Festival (4).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pyeongchang_Trout_Festival_(4).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
     },
-    "heroMediaId": "culture-korea-ice-festival-opening-check",
-    "heroCaption": "Verify today's operation with the event organizer; this illustration is not a status report.",
-    "experienceVersion": 2
+    "heroMediaId": "pyeongchang-trout-festival-on-ice-2013",
+    "heroCaption": "Pyeongchang Trout Festival in January 2013. Check your event’s current activity notice before travelling or entering an ice area.",
+    "experienceVersion": 2,
+    "cardImageLabel": "Pyeongchang Trout Festival, 2013"
   },
   "bukchon-village-library-visitor-guide": {
     "id": "culture-bukchon-village-library",
@@ -9250,19 +9260,19 @@
     ],
     "launchOrder": 1110,
     "imageCredit": {
-      "kind": "illustration",
-      "title": "How to check Seoul transit during snow",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#seoul-snow-transit-check-sequence",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "sha256": "E204D97357BCB071CF9CF87CE6751483AC493640EC3D9CB51D22C7330B314EDE",
-      "note": "Original editorial SVG decision aid; no external assets. Not a map, live service display or a promise of a particular departure."
+      "kind": "photograph",
+      "author": "LERK",
+      "title": "Seoul-metro-425-Hoehyeon-station-entrance-2-20181124-080908.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-425-Hoehyeon-station-entrance-2-20181124-080908.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
     },
     "gallery": [],
-    "heroMediaId": "seoul-snow-transit-check-sequence",
-    "heroCaption": "Original decision diagram; not a map, live service display or a promise of a particular departure.",
-    "experienceVersion": 2
+    "heroMediaId": "seoul-hoehyeon-exit-two-in-snow-2018",
+    "heroCaption": "Snow at Hoehyeon Station Exit 2 in November 2018. Check today’s service and exact station exit separately.",
+    "experienceVersion": 2,
+    "cardImageLabel": "Hoehyeon station in snow"
   },
   "seoul-guide-for-deaf-and-hard-of-hearing-travelers-2026": {
     "id": "guide:seoul-guide-for-deaf-and-hard-of-hearing-travelers-2026",
@@ -9725,9 +9735,7 @@
     "forWhom": "Visitors planning a central Seoul evening during the 2026–27 lantern festival",
     "conditions": [
       "This is a temporary seasonal event; check the organizer's latest notice for the visit date.",
-      "The published endpoint span is a planning cue, not a route-distance or one-way-flow guarantee.",
-      "The illustration is not a map, live display guide, or weather/operations report.",
-      "The existing Seoul winter guide covers this festival but has outdated and unsupported event details; lead editor should decide whether this replaces a section there or merits a separate event-specific URL."
+      "The published endpoint span is a planning cue, not a route-distance or one-way-flow guarantee."
     ],
     "regions": [
       "Seoul"
@@ -9783,16 +9791,17 @@
     "launchOrder": 1116,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Seoul Lantern Festival 2026 endpoint planning diagram",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#culture-seoul-lantern-festival-2026",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial SVG, created in this repository with no external assets. Shows published endpoints only; it is not a geographic map or a live event display."
+      "kind": "photograph",
+      "author": "Ken Eckert",
+      "title": "Lantern Festival Boaters at Cheonggyecheon Stream.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lantern_Festival_Boaters_at_Cheonggyecheon_Stream.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
     },
-    "heroMediaId": "culture-seoul-lantern-festival-2026",
-    "heroCaption": "Original endpoint illustration; use the current official event page for directions and notices."
+    "heroMediaId": "seoul-lantern-festival-cheonggyecheon-view-2014",
+    "heroCaption": "The Seoul Lantern Festival at Cheonggyecheon in November 2014. Consult the current program and signs for the 2026–27 display and entrances.",
+    "cardImageLabel": "Lantern Festival at Cheonggyecheon"
   },
   "jeongdongjin-2027-new-year-sunrise-festival-plan": {
     "id": "culture-gangneung-2027-sunrise",
@@ -10233,14 +10242,12 @@
     "id": "guide:seoul-in-winter-complete-guide-ice-skating-and-more-2026",
     "categoryId": "culture-events",
     "format": "seasonal",
-    "checkedAt": "2026-11-17",
-    "answer": "Seoul's 2026–27 winter festival is scheduled Dec 4–Jan 31 across multiple venues. The city lists Seoul Plaza skating Dec 18–Feb 9; confirm prices and daily operation before visiting.",
+    "checkedAt": "2026-11-24",
+    "answer": "Seoul Plaza skating is scheduled for Dec 18–Feb 9. The city lists ₩1,000 for a one-hour session with skate and helmet rental. Check bookings and any day-of pauses.",
     "forWhom": "Visitors planning winter events and possible ice skating in Seoul during 2026–27",
     "conditions": [
-      "Preserve the existing /blog/seoul-in-winter-complete-guide-ice-skating-and-more-2026 URL and original date 2026-01-29.",
       "The citywide festival announcement gives a date range and locations, not uniform nightly hours or a guarantee that every listed site runs daily.",
-      "The city announced rink dates and hours; this season’s prices and reservation rules remain unconfirmed.",
-      "The original SVG is an editorial planning illustration, not a map, route, live schedule or official event artwork."
+      "Weather and air quality can pause skating. Confirm current booking instructions and session availability."
     ],
     "regions": [
       "seoul"
@@ -10316,29 +10323,36 @@
         "id": "seoul-plaza-2026-27-skating-notice",
         "title": "Seoul Metropolitan Government: 2026–27 Seoul Plaza rink operating notice",
         "url": "https://plaza.seoul.go.kr/archives/18954",
-        "checkedAt": "2026-11-17",
-        "note": "City planning notice lists dates and hours; price, rentals and booking require confirmation."
+        "checkedAt": "2026-11-24",
+        "note": "The plaza booking notice lists the 2026–27 rink dates and Sunday–Thursday and Friday–Saturday hours."
+      },
+      {
+        "id": "fun-seoul-plaza-rink-2026-27",
+        "title": "Seoul Metropolitan Government: Seoul Plaza ice rink listing",
+        "url": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=355",
+        "checkedAt": "2026-11-24",
+        "note": "The city lists a ₩1,000 one-hour fee including skates and helmet, extended hours on Dec 24 and 31, City Hall Exit 5 and possible weather or air-quality pauses."
       }
     ],
     "shareFacts": [
       "Seoul's 2026 Winter Festival is listed for Dec 4, 2026–Jan 31, 2027 across multiple venues.",
       "Visit Seoul lists the Seoul Lantern Festival for Dec 11, 2026–Jan 31, 2027, daily 18:00–23:00, along Cheonggyecheon.",
-      "Seoul lists skating from Dec 18, 2026 to Feb 9, 2027; confirm the current price and opening."
+      "Seoul Plaza rink: Dec 18–Feb 9; ₩1,000 per hour including equipment."
     ],
     "launchOrder": 1122,
     "changeType": "rewrite",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Seoul winter 2026–27 seasonal planning illustration",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#culture-seoul-winter-2026-27",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial SVG created in this repository with no external assets. It summarizes the announced festival period and locations, and reminds readers to verify current operations; it is not a map or official event artwork.",
-      "sha256": "3e6208e0d0219395ea7f8d3a79af82a0a266c70db8916e6ca01a7f08d879c4ee"
+      "kind": "photograph",
+      "author": "LWY",
+      "title": "Korea-Seoul-City Hall ice rink-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Seoul-City_Hall_ice_rink-01.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
     },
-    "heroMediaId": "culture-seoul-winter-2026-27",
-    "heroCaption": "Original seasonal planning illustration; venue dates and operations must be checked with current official notices."
+    "heroMediaId": "seoul-plaza-winter-ice-rink-2007",
+    "heroCaption": "Skating at Seoul Plaza in December 2007. Use the city’s current announcement for this season’s dates, admission and closures.",
+    "cardImageLabel": "Outdoor skating at Seoul Plaza"
   },
   "personal-shopping-services-english-speaking-help": {
     "id": "guide:personal-shopping-services-english-speaking-help",
@@ -25962,9 +25976,21 @@
     ],
     "launchOrder": 1280,
     "changeType": "rewrite",
-    "heroOmissionReason": "The previous crowd image could not be verified as any of the named 2026 editions, which took place in three different cities.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "heroMediaId": "gocheok-bridge-2020",
+    "heroCaption": "Gocheok Sky Dome from the bridge in January 2020. It later hosted the 2026 MMA. Verify the city, venue and entry instructions for your exact edition.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gocheok Sky Dome from Gocheok Bridge",
+      "author": "Seoul Metropolitan Government (Seoul Landscape Documentation Project), via Seoul Institute",
+      "sourceUrl": "https://data.si.re.kr/photo/06G00803Db72000",
+      "license": "CC BY 4.0 (also KOGL Type 1)",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Photographed 2020-01. Resized from the source file and converted to WebP. Confirm current routes, opening and accessibility separately."
+    },
+    "cardImageLabel": "Gocheok Sky Dome, Seoul",
+    "cardImageCrop": "west"
   },
   "underground-shopping-in-subway-stations-2026": {
     "id": "guide:underground-shopping-in-subway-stations-2026",

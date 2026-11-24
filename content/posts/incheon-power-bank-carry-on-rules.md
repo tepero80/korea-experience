@@ -4,7 +4,7 @@ date: '2026-11-09'
 updated: '2026-11-09'
 excerpt: 'Check capacity, protect terminals and keep your power bank with you before flying from Incheon.'
 category: airports-transport
-image: /images/editorial/incheon-power-bank-illustration.webp
+image: /images/editorial/portable-power-bank-and-usb-cable-2017-1280.webp
 author: Korea Experience Editorial
 tags:
   - incheon

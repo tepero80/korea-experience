@@ -5,6 +5,7 @@ updated: '2026-11-24'
 excerpt: >-
   See where the 2026 MMA, MAMA and Golden Disc editions were listed, then check
   the source for any future ceremony before booking.
+image: /images/editorial/gocheok-bridge-2020-1280.webp
 category: culture-events
 author: Korea Experience Editorial
 tags:

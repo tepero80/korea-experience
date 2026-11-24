@@ -9151,7 +9151,8 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The image records the scene at the time of photography."
     },
-    "capturedAt": "2019-10-22"
+    "capturedAt": "2019-10-22",
+    "caption": "A street entrance for Seoul Metro Line 4 at Sinyongsan Station in October 2019. Check the exact exit and accessible route for your own trip."
   },
   {
     "id": "archive-yeouido-park-cherry-blossoms-2016",
@@ -10317,5 +10318,293 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
       "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
     }
+  },
+  {
+    "id": "seoul-garden-hotel-room-2013",
+    "src": "/images/editorial/seoul-garden-hotel-room-2013-1280.webp",
+    "srcSet": "/images/editorial/seoul-garden-hotel-room-2013-640.webp 640w, /images/editorial/seoul-garden-hotel-room-2013-1280.webp 1280w",
+    "width": 1280,
+    "height": 956,
+    "alt": "A bed, two chairs and a small table in a Seoul Garden Hotel guest room",
+    "focal": "50% 69%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:SK_Korea_tour_%E9%A6%96%E7%88%BE_%E6%9C%80%E4%BD%B3%E8%A5%BF%E6%96%B9_%E9%A6%96%E7%88%BE%E8%8A%B1%E5%9C%92%E9%85%92%E5%BA%97_Best_Western_Premier_Seoul_Garden_Hotel_room_interior_curtain_n_furniture_lighting_July-2013.JPG",
+    "originalHash": "c4ae104608e89fefa1df73276a4a5a92332c08fa3a79b21fa926505d7c9c5e4b",
+    "capturedAt": "2013-07-13",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Woodarelaisku",
+      "title": "SK Korea tour 首爾 最佳西方 首爾花園酒店 Best Western Premier Seoul Garden Hotel room interior curtain n furniture lighting July-2013.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:SK_Korea_tour_%E9%A6%96%E7%88%BE_%E6%9C%80%E4%BD%B3%E8%A5%BF%E6%96%B9_%E9%A6%96%E7%88%BE%E8%8A%B1%E5%9C%92%E9%85%92%E5%BA%97_Best_Western_Premier_Seoul_Garden_Hotel_room_interior_curtain_n_furniture_lighting_July-2013.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
+    }
+  },
+  {
+    "id": "phone-nano-sim-and-tray-2016",
+    "src": "/images/editorial/phone-nano-sim-and-tray-2016-1280.webp",
+    "srcSet": "/images/editorial/phone-nano-sim-and-tray-2016-640.webp 640w, /images/editorial/phone-nano-sim-and-tray-2016-1280.webp 1280w",
+    "width": 1280,
+    "height": 851,
+    "alt": "A nano-SIM and its detached phone tray aligned next to a ruler",
+    "focal": "46% 63%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Nano_SIM_card_and_tray.jpg",
+    "originalHash": "3787258e7d486c8236a15add3af1eb5f1f314a2c1a0e6a83e7554674b43733bb",
+    "capturedAt": "2016-02-10",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "BwDraco",
+      "title": "Nano SIM card and tray.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nano_SIM_card_and_tray.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
+    }
+  },
+  {
+    "id": "portable-power-bank-and-usb-cable-2017",
+    "src": "/images/editorial/portable-power-bank-and-usb-cable-2017-1280.webp",
+    "srcSet": "/images/editorial/portable-power-bank-and-usb-cable-2017-640.webp 640w, /images/editorial/portable-power-bank-and-usb-cable-2017-1280.webp 1280w",
+    "width": 1280,
+    "height": 870,
+    "alt": "A portable power bank with its short USB charging cable resting on a wooden table",
+    "focal": "48% 58%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Portable_power_bank.jpg",
+    "originalHash": "2db8c9e367d840714bb31279194a0153fe2304119048439a4c12b204663c2844",
+    "capturedAt": "2017-01-01",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Santeri Viinamäki",
+      "title": "Portable power bank.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Portable_power_bank.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    }
+  },
+  {
+    "id": "seoul-cleared-footpath-after-snow-2010",
+    "src": "/images/editorial/seoul-cleared-footpath-after-snow-2010-1280.webp",
+    "srcSet": "/images/editorial/seoul-cleared-footpath-after-snow-2010-640.webp 640w, /images/editorial/seoul-cleared-footpath-after-snow-2010-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "A cleared footpath bordered by snow beside a road in Seoul",
+    "focal": "60% 77%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Cleared_footpath_-_panoramio.jpg",
+    "originalHash": "4ff4b613294b5c35fa48deed3efb21e58e2a40e623b81336e819c7a02514c93c",
+    "capturedAt": "2010-12-28",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "gary4now",
+      "title": "Cleared footpath - panoramio.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cleared_footpath_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    }
+  },
+  {
+    "id": "pyeongchang-trout-festival-on-ice-2013",
+    "src": "/images/editorial/pyeongchang-trout-festival-on-ice-2013-1280.webp",
+    "srcSet": "/images/editorial/pyeongchang-trout-festival-on-ice-2013-640.webp 640w, /images/editorial/pyeongchang-trout-festival-on-ice-2013-1280.webp 1280w",
+    "width": 1280,
+    "height": 721,
+    "alt": "Visitors on the ice at Pyeongchang Trout Festival under low winter sunlight",
+    "focal": "71% 80%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Pyeongchang_Trout_Festival_(4).jpg",
+    "originalHash": "7c9dc9bae54b4c941ec9434f664a961396a90a92f836e587c343b380c4838592",
+    "capturedAt": "2013-01-09",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Christian Bolz",
+      "title": "Pyeongchang Trout Festival (4).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pyeongchang_Trout_Festival_(4).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    }
+  },
+  {
+    "id": "incheon-galsan-station-atm-2025",
+    "src": "/images/editorial/incheon-galsan-station-atm-2025-1280.webp",
+    "srcSet": "/images/editorial/incheon-galsan-station-atm-2025-640.webp 640w, /images/editorial/incheon-galsan-station-atm-2025-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "A blue cash machine beside lockers at Incheon’s Galsan Station",
+    "focal": "39% 60%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EC%A7%80%ED%95%98%EC%B2%A0_%EA%B0%88%EC%82%B0%EC%97%AD_ATM%EA%B8%B0%EA%B8%B0_%EB%B0%8F_%EB%AC%BC%ED%92%88%EB%B3%B4%EA%B4%80%ED%95%A8_2025%EB%85%84_12%EC%9B%94%EA%B2%BD_06.jpg",
+    "originalHash": "c6a054c645bdabc94c434928e720cda1c7a1731aa404d07b7c8a66323aad1104",
+    "capturedAt": "2025-12-12",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Narubaru7",
+      "title": "인천지하철 갈산역 ATM기기 및 물품보관함 2025년 12월경 06.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EC%A7%80%ED%95%98%EC%B2%A0_%EA%B0%88%EC%82%B0%EC%97%AD_ATM%EA%B8%B0%EA%B8%B0_%EB%B0%8F_%EB%AC%BC%ED%92%88%EB%B3%B4%EA%B4%80%ED%95%A8_2025%EB%85%84_12%EC%9B%94%EA%B2%BD_06.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    }
+  },
+  {
+    "id": "seoul-market-restaurant-food-counter-2011",
+    "src": "/images/editorial/seoul-market-restaurant-food-counter-2011-1280.webp",
+    "srcSet": "/images/editorial/seoul-market-restaurant-food-counter-2011-640.webp 640w, /images/editorial/seoul-market-restaurant-food-counter-2011-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Rows of prepared dishes on a Seoul market restaurant counter",
+    "focal": "55% 62%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Market_restaurant_in_Seoul,_Korea_-_DSC00698.JPG",
+    "originalHash": "f20a59d091e448d7631119ade199abb6f9193faf8da0c51e6e6efeb3075034a0",
+    "capturedAt": "2011-12-03",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Daderot",
+      "title": "Market restaurant in Seoul, Korea - DSC00698.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Market_restaurant_in_Seoul,_Korea_-_DSC00698.JPG",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    }
+  },
+  {
+    "id": "seoul-world-cup-stadium-station-ticket-gates-2013",
+    "src": "/images/editorial/seoul-world-cup-stadium-station-ticket-gates-2013-1280.webp",
+    "srcSet": "/images/editorial/seoul-world-cup-stadium-station-ticket-gates-2013-640.webp 640w, /images/editorial/seoul-world-cup-stadium-station-ticket-gates-2013-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "A line of ticket gates at Seoul’s World Cup Stadium subway station",
+    "focal": "53% 66%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:World_Cup_Stadium_Station_(Seoul)_Exit_3_Ticket_Gates.JPG",
+    "originalHash": "c171d1eb07ca29275a235afb7af9390c154552b2711bbd7b4ef99b592d48986e",
+    "capturedAt": "2013-08-12",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "쉰지식인",
+      "title": "World Cup Stadium Station (Seoul) Exit 3 Ticket Gates.JPG",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:World_Cup_Stadium_Station_(Seoul)_Exit_3_Ticket_Gates.JPG",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    }
+  },
+  {
+    "id": "seoul-plaza-winter-ice-rink-2007",
+    "src": "/images/editorial/seoul-plaza-winter-ice-rink-2007-1280.webp",
+    "srcSet": "/images/editorial/seoul-plaza-winter-ice-rink-2007-640.webp 640w, /images/editorial/seoul-plaza-winter-ice-rink-2007-1280.webp 1280w",
+    "width": 1280,
+    "height": 849,
+    "alt": "Skaters on the outdoor rink at Seoul Plaza after dark",
+    "focal": "58% 70%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Korea-Seoul-City_Hall_ice_rink-01.jpg",
+    "originalHash": "06bd62e3b3b4916a15527b0e073f7c8ee7a0774def278a044a55720ed671646f",
+    "capturedAt": "2007-12-29",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "LWY",
+      "title": "Korea-Seoul-City Hall ice rink-01.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Korea-Seoul-City_Hall_ice_rink-01.jpg",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    }
+  },
+  {
+    "id": "seoul-lantern-festival-cheonggyecheon-view-2014",
+    "src": "/images/editorial/seoul-lantern-festival-cheonggyecheon-view-2014-1280.webp",
+    "srcSet": "/images/editorial/seoul-lantern-festival-cheonggyecheon-view-2014-640.webp 640w, /images/editorial/seoul-lantern-festival-cheonggyecheon-view-2014-1280.webp 1280w",
+    "width": 1280,
+    "height": 721,
+    "alt": "Visitors beside Cheonggyecheon Stream and lanterns reflected in the water after dark",
+    "focal": "61% 73%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Lantern_Festival_Boaters_at_Cheonggyecheon_Stream.jpg",
+    "originalHash": "a3cb6518f32d552b404ea6601cb7b76b4a74906e00a9f9756a13e0388db2548b",
+    "capturedAt": "2014-11-22",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Ken Eckert",
+      "title": "Lantern Festival Boaters at Cheonggyecheon Stream.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lantern_Festival_Boaters_at_Cheonggyecheon_Stream.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    }
+  },
+  {
+    "id": "seoul-hoehyeon-exit-two-in-snow-2018",
+    "src": "/images/editorial/seoul-hoehyeon-exit-two-in-snow-2018-1280.webp",
+    "srcSet": "/images/editorial/seoul-hoehyeon-exit-two-in-snow-2018-640.webp 640w, /images/editorial/seoul-hoehyeon-exit-two-in-snow-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 720,
+    "alt": "Snow on the pavement around the steps to Hoehyeon Station Exit 2",
+    "focal": "52% 68%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Seoul-metro-425-Hoehyeon-station-entrance-2-20181124-080908.jpg",
+    "originalHash": "c183d1d23497d5c5b1cfe1bf74bc8e91a523df54eaef7226aa68edad22247a3e",
+    "capturedAt": "2018-11-24",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "LERK",
+      "title": "Seoul-metro-425-Hoehyeon-station-entrance-2-20181124-080908.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul-metro-425-Hoehyeon-station-entrance-2-20181124-080908.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    }
+  },
+  {
+    "id": "seoul-myeongdong-shopping-street-at-night-2019",
+    "src": "/images/editorial/seoul-myeongdong-shopping-street-at-night-2019-1280.webp",
+    "srcSet": "/images/editorial/seoul-myeongdong-shopping-street-at-night-2019-640.webp 640w, /images/editorial/seoul-myeongdong-shopping-street-at-night-2019-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Illuminated shops and restaurant signs in a Myeongdong shopping lane after dark",
+    "focal": "58% 80%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EB%AA%85%EB%8F%99_Myeongdong_2019-11-13.jpg",
+    "originalHash": "1476088c85540d81a9a88bfc7278eebc3c2278a9daf681f41f9563455c42b3cc",
+    "capturedAt": "2019-11-13",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Foxy1219",
+      "title": "명동 Myeongdong 2019-11-13.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EB%AA%85%EB%8F%99_Myeongdong_2019-11-13.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "A Myeongdong shopping lane in November 2019. Check the shop and branch you want before going."
+  },
+  {
+    "id": "seoul-itaewon-world-food-street-2022",
+    "src": "/images/editorial/seoul-itaewon-world-food-street-2022-1280.webp",
+    "srcSet": "/images/editorial/seoul-itaewon-world-food-street-2022-640.webp 640w, /images/editorial/seoul-itaewon-world-food-street-2022-1280.webp 1280w",
+    "width": 1280,
+    "height": 854,
+    "alt": "Restaurants and illuminated shop signs lining World Food Street in Itaewon, Seoul",
+    "focal": "50% 56%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Itaewon_2.jpg",
+    "originalHash": "373bd48285583e3ffa81b58c579348bc2126f51b2b0f30a0f9c7890ca7ec9dd7",
+    "capturedAt": "2022-12-01",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "kallerna",
+      "title": "Itaewon 2.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Itaewon_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "World Food Street in Itaewon in December 2022. Check the specific restaurant, its current menu and how it describes its halal options before visiting."
   }
 ]

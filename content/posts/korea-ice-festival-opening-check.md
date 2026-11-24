@@ -1,10 +1,10 @@
 ---
 title: "Going to a Korean Ice Festival? Check Today's Opening First"
 date: '2026-11-15'
-updated: '2026-11-15'
+updated: '2026-11-24'
 excerpt: "Ice conditions can change the opening or available activities. Confirm today's operation with the festival organizer before traveling."
 category: culture-events
-image: /images/editorial/culture-korea-ice-festival-opening-check.svg
+image: /images/editorial/pyeongchang-trout-festival-on-ice-2013-1280.webp
 author: Korea Experience Editorial
 tags:
   - winter
@@ -15,6 +15,10 @@ draft: false
 ---
 
 **Do not travel to an ice festival based only on a general event listing. Check the organizer's own notice for the exact date, activity and transport before leaving.** The Korea Tourism Organization (KTO) notes that when ice is too thin to meet safety standards, an ice festival may delay opening or offer fewer activities. A festival's advertised season does not guarantee that ice fishing, skating or another ice activity is operating today.
+
+[VISITKOREA lists January 9–31, 2027](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=96732) for Hwacheon. Its activity details still refer to 2026. Check the current organizer’s notice for 2027 hours, tickets and any changes before booking your travel.
+
+<GuidePhoto id="culture-korea-ice-festival-opening-check" caption="A four-part planning checklist. The organizer’s day-of decisions determine which activities you can join." />
 
 ## Check four things on the day
 
@@ -38,6 +42,4 @@ Contact the organizer using the number or inquiry route on its official page. If
 
 Pack waterproof shoes with traction and warm layers for a long outdoor visit, but gear does not make closed ice safe. The [winter festival guide](/blog/winter-activities-ski-resorts-and-ice-festivals) can help compare event types; this checklist is for the final go/no-go check.
 
-**Illustration note:** The original cover is a decision checklist, not a live status board, ice-thickness reading or festival photograph.
-
-Sources checked 15 November 2026. Event dates, schedules, reservations and ice conditions can change; organizer notices control access and operation.
+Hwacheon’s published date range was checked November 24, 2026. Event schedules, reservations and ice conditions can change. Check the organizer’s notices for current access and operation.

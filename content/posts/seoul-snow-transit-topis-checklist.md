@@ -4,7 +4,7 @@ date: '2026-11-15'
 updated: '2026-11-15'
 excerpt: "Use Seoul TOPIS for current controls and learn what the city’s 2026–27 snow-response stages do—and do not—promise."
 category: airports-transport
-image: /images/editorial/seoul-snow-transit-check-sequence.svg
+image: /images/editorial/seoul-hoehyeon-exit-two-in-snow-2018-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
@@ -31,6 +31,8 @@ Seoul’s [2026 winter plan](https://scpm.seoul.go.kr/seoul-policy/evt0323), ann
 | Subway service suspended | Put replacement buses into service. | Whether a suspension applies to your station/line and where replacement buses board. |
 
 The “peak-dispatch period” extension is a city response measure, not a promise that every route has the same frequency or that the last train or bus will run later. Do not plan to catch a usual final service based on the extension alone.
+
+<GuidePhoto id="seoul-snow-transit-check-sequence" caption="Check the current alert, the exact route and the walk from the stop before you set out." />
 
 ## A practical snow-day decision sequence
 

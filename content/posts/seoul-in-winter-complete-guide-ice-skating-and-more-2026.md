@@ -1,7 +1,7 @@
 ---
 title: 'Seoul in Winter 2026–27: Festivals, Ice Skating and Practical Planning'
 date: '2026-01-29'
-updated: '2026-11-17'
+updated: '2026-11-24'
 excerpt: 'Plan a Seoul winter visit around confirmed city festival dates, then verify each venue, rink and weather-sensitive activity before you go.'
 category: culture-events
 author: Korea Experience Editorial
@@ -10,7 +10,7 @@ tags:
   - winter
   - festivals
   - planning
-image: /images/editorial/seoul-winter-2026-27-season-planning-illustration.svg
+image: /images/editorial/seoul-plaza-winter-ice-rink-2007-1280.webp
 featured: true
 draft: false
 ---
@@ -26,8 +26,11 @@ For the confirmed Cheonggyecheon evening event, the [Seoul Lantern Festival guid
 | Seoul Winter Festival | December 4, 2026–January 31, 2027; announced across multiple city locations including Gwanghwamun, Cheonggyecheon, Seoul Plaza and DDP. | The city’s latest program and any location-specific schedule. The overall festival period does not mean every site has the same hours or runs every night. |
 | Seoul Lantern Festival | December 11, 2026–January 31, 2027, daily 18:00–23:00, Cheonggyecheon from Cheonggye Plaza to Samilgyo Bridge; free admission, according to Visit Seoul. | Day-of event notices, access conditions and a live route for your return trip. |
 | Seoul Light Gwanghwamun | December 11, 2026–January 3, 2027 at Gwanghwamun Square, according to the Korea Tourism Organization’s winter festival listing. | A current event-specific organizer notice for display hours and any changes. |
+| Seoul Plaza ice rink | December 18, 2026–February 9, 2027. The [city’s rink listing](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=355) gives a ₩1,000 price for a one-hour session. | Session availability, weather or air-quality pauses, and the return journey. |
 
 Sources: [Seoul Metropolitan Government’s 2026 Winter Festival announcement](https://english.seoul.go.kr/the-fun-seoul-to-become-a-global-cultural-hub-hosting-festivals-all-year-round/), [Visit Seoul’s 2026 Seoul Lantern Festival listing](https://english.visitseoul.net/eventsx/2026SeoulLanternFestival/ENPi0rhml), and [VISITKOREA’s 2026–27 winter festival roundup](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=1595020). The roundup is useful for discovery; check an event’s own organizer for operational details.
+
+<GuidePhoto id="culture-seoul-winter-2026-27" caption="The winter festival’s separate areas can help you choose where to spend an evening." />
 
 ## Choose one evening area
 
@@ -37,9 +40,9 @@ If the lantern display is your priority, use the dedicated [Seoul Lantern Festiv
 
 ## Ice skating: verify this season’s operation
 
-Seoul's [November 2026 notice](https://plaza.seoul.go.kr/archives/18954) schedules the Seoul Plaza rink for **December 18, 2026–February 9, 2027**. It lists 10:00–21:30 Sunday through Friday and 10:00–00:30 on Saturdays and public holidays; Christmas Eve and New Year's Eve may have extended operation. This is a city planning notice, so recheck the current rink announcement before setting out.
+Seoul’s [rink listing](https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=355) schedules the Seoul Plaza rink for **December 18, 2026–February 9, 2027**, near City Hall Station Exit 5. It lists hours of 10:00–21:30 Sunday through Thursday and 10:00–00:30 Friday and Saturday. December 24 and 31 are listed until 01:00 the following morning.
 
-The notice does not establish this season's price, rental inclusions or reservation rules. Check those details and weather-related closures with the operator before planning around skating.
+The city lists **₩1,000 per one-hour session, including skate and helmet rental**. Weather and air quality can pause operation. Check the rink’s booking instructions and availability before setting out, especially if you are going after dinner or on a holiday.
 
 ## Make a winter plan that can flex
 

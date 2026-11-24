@@ -4,7 +4,7 @@ date: '2026-11-09'
 updated: '2026-11-09'
 excerpt: "Secure your card through its issuer, report unknown transactions and ask about replacement options."
 category: travel-essentials
-image: /images/editorial/essentials-lost-foreign-card-illustration.svg
+image: /images/editorial/incheon-galsan-station-atm-2025-1280.webp
 author: Korea Experience Editorial
 tags:
   - payment
@@ -13,6 +13,8 @@ draft: false
 ---
 
 **Contact your card issuer through its official app or international support channel as soon as you notice the card is missing.** Ask whether to freeze or cancel it, report any unrecognized transactions and confirm what replacement options apply to your particular card.
+
+<GuidePhoto id="essentials-lost-foreign-card-illustration" caption="The order of actions when your card is lost or retained by a cash machine." />
 
 ## Take these steps in order
 

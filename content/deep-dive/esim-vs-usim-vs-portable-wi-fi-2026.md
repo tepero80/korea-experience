@@ -6,7 +6,7 @@ excerpt: >-
   Compare device compatibility, data, calls, SMS, installation and return
   conditions without assuming a local number verifies your identity.
 category: travel-essentials
-image: /images/editorial/exp-c-phone-hardware-still-1280.webp
+image: /images/editorial/phone-nano-sim-and-tray-2016-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul

@@ -6,7 +6,7 @@ excerpt: >-
   Use a transparent two-person example, then replace each assumption with your
   own room quote and spending choices.
 category: plan-your-trip
-image: /images/editorial/budget-units-illustration.svg
+image: /images/editorial/seoul-market-restaurant-food-counter-2011-1280.webp
 author: Korea Experience Editorial
 tags:
   - seoul
@@ -14,6 +14,8 @@ tags:
 draft: false
 ---
 **A useful budget starts with the units, not a single “Korea costs this much” number.** The example below is for **two travelers, seven spending days, six accommodation nights and one shared room**. Every price input is hypothetical and editable.
+
+<GuidePhoto id="budget-units-illustration" caption="Keep trip costs, per-person spending and room nights in separate units." />
 
 ## Work through one complete example
 

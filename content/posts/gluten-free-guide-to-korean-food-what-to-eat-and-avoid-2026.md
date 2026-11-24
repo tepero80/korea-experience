@@ -7,7 +7,7 @@ excerpt: >-
 category: Food & Dining
 author: Korea Experience Team
 featured: false
-image: /images/editorial/gluten-menu-questions.svg
+image: /images/editorial/banchan-dishes-1280.webp
 updated: '2026-10-31'
 ---
 The name of a Korean dish does not establish whether it meets your gluten-free needs. Recipes, seasonings and shared preparation vary. If you have celiac disease, use your clinician’s guidance and ask the kitchen about the exact meal; if staff cannot confirm, use a backup you have already checked. This guide does not certify a dish, product or restaurant as safe.
@@ -31,6 +31,8 @@ The name of a Korean dish does not establish whether it meets your gluten-free n
 <span id="3-soups-tangguk"></span>
 <span id="restaurant-guide-seouls-best-gf-spots-2026"></span>
 <span id="jyoti-indian-restaurant-sinchon"></span>
+
+<GuidePhoto id="gluten-menu-questions" caption="Check the ingredients and preparation of the entire meal, including the side dishes." />
 
 ## Ask how the food is prepared
 
