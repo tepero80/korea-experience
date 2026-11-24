@@ -22,6 +22,8 @@ Tell the clinic which country you will be in and ask whether it can see you remo
 
 For an eye procedure, use the [refractive surgery consultation checklist](/blog/lasik-and-lasek-eye-surgery-in-korea-complete-guide-2026) to confirm which eye examinations need to take place in person.
 
+If the first visit is still ahead, use the [acne scar consultation checklist](/blog/acne-scar-treatment-korea-best-options) to organize prior treatment and discuss the handover with the clinic.
+
 ## Plan the fallback before leaving Korea
 
 Ask for a written discharge plan with follow-up details, as described in [MedlinePlus’s discharge guidance](https://medlineplus.gov/ency/patientinstructions/000867.htm). If local assessment may be needed, ask what kind of clinician or service to arrange at home and which notes to share. The [UK guidance on treatment abroad](https://www.gov.uk/guidance/in-hospital-abroad) also discusses planning for ongoing care and emergencies. Prepare the [English medical records the recipient actually needs](/blog/korean-medical-records-getting-english-translations) before leaving if possible.

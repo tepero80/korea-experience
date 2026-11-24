@@ -20,6 +20,10 @@ author: Korea Experience Editorial
 
 For a professional job search, use the [D-10-1 eligibility and documents checklist](/blog/d-10-job-seeker-visa-korea-complete-guide-2026) to prepare the questions specific to the job-seeker route.
 
+If the proposed status is residence, start by [confirming the exact F-2 subcategory](/blog/f-2-resident-visa-korea-requirements-and-process-2026) and the documents for it.
+
+For permanent residence, [organize your stay history for an F-5 consultation](/blog/permanent-residency-requirements-f-5-visa) so you can ask which periods count toward a specific route.
+
 ## Check the actual submission and outcome
 
 Use [HiKorea](https://www.hikorea.go.kr/Main.pt) to check any electronic service, appointment or application status that applies. Keep the submission record and ask about what to do before your current authorization expires. Wait for required permission before starting the new activity.

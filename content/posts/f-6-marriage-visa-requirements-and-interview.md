@@ -21,6 +21,8 @@ The [Seattle consulate](https://overseas.mofa.go.kr/us-seattle-en/brd/m_23042/vi
 | Language | Which shared-language evidence the mission accepts and whether it requests supporting material. |
 | Other checks | Whether health or criminal-record documents apply to your case. Houston’s instructions describe exceptions and the evidence requested for them. |
 
+When you are joining family in Korea, use the [family visa route checklist](/blog/f-visa-family-reunion-requirements) to identify which relationship and sponsor documents to confirm before ordering certificates.
+
 ## If the consulate asks for an interview
 
 Use the appointment or follow-up message for the location, instructions and deadline. Review the dates and addresses you actually submitted. Bring the requested originals and explain any difference between your current circumstances and an earlier form. Ask the mission about an interpreter or another accommodation if you need one.

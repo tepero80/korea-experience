@@ -46943,5 +46943,422 @@
     "changeType": "rewrite",
     "launchOrder": 1639,
     "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "laser-treatment-in-korea-types-and-prices": {
+    "id": "guide:laser-treatment-in-korea-types-and-prices",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Bring the advertisement to a consultation and ask the treating clinician to identify the exact device, explain why it is proposed for you and put any change in writing.",
+    "forWhom": "Travelers who have seen an advertisement for a skin laser procedure at a clinic in Korea.",
+    "conditions": [
+      "This is a consultation checklist for a planned skin procedure. Confirm the device, intended use and plan with the treating clinician in Korea."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "medical-visit",
+      "healthcare",
+      "consultation"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "fda-medical-lasers-patient-context",
+        "title": "US FDA medical laser overview",
+        "url": "https://www.fda.gov/radiation-emitting-products/surgical-and-therapeutic-products/medical-lasers",
+        "note": "Defines medical lasers and describes potential risks. Its regulatory section applies to the United States.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "nhs-before-cosmetic-appointment",
+        "title": "NHS guidance before a cosmetic procedure",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/before-you-have-a-cosmetic-procedure/",
+        "note": "Suggests asking the practitioner about the proposed procedure, products and risks and taking time to decide.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "khidi-foreign-patient-branch-registration",
+        "title": "Medical Korea institutional registration overview",
+        "url": "https://www.medicalkorea.or.kr/en/registeredsystem",
+        "note": "Describes institutional registration for attracting foreign patients. Registration does not identify the proposed device or clinician for an appointment.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Match the advertised device to a named model, treating clinician and written proposal."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1640,
+    "heroOmissionReason": "This is a consultation or document checklist. The table shows the decisions directly."
+  },
+  "acne-scar-treatment-korea-best-options": {
+    "id": "guide:acne-scar-treatment-korea-best-options",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Bring a short account of what changed, which treatments you tried and which medicines you use. Give the clinic your departure date and ask how it would hand over notes and follow-up.",
+    "forWhom": "Travelers preparing to discuss acne scarring with a clinician in South Korea.",
+    "conditions": [
+      "This guide helps organize a planned appointment and follow-up. Ask your clinician to assess the skin changes and advise on individual care."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "medical-visit",
+      "healthcare",
+      "consultation"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "cornwall-nhs-acne-referral-history",
+        "title": "Cornwall NHS acne referral guidance",
+        "url": "https://rms.cornwall.nhs.uk/primary_care_clinical_referral_criteria/rms/primary_care_clinical_referral_criteria/dermatology/acne",
+        "note": "Its local referral instructions request previous treatment and duration and whether scarring is present. Used only as an example of information to organize.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "nhs-overseas-care-handover-checklist",
+        "title": "NHS checklist for care abroad",
+        "url": "https://www.nhs.uk/using-the-nhs/healthcare-abroad/going-abroad-for-treatment/treatment-abroad-checklist/",
+        "note": "Uses medical note transfer and aftercare coordination as practical planning steps. Its NHS funding information does not determine coverage in Korea.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Take your treatment history and departure date to the consultation."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1641,
+    "heroOmissionReason": "This is a consultation or document checklist. The table shows the decisions directly."
+  },
+  "f-2-resident-visa-korea-requirements-and-process-2026": {
+    "id": "guide:f-2-resident-visa-korea-requirements-and-process-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with the exact code on your residence record and your expiry date. F-2-7 is a points-based route for specified groups. F-2-99 looks at continuous residence under eligible statuses. Ask Korea Immigration which route, if any, fits your history and which checklist applies.",
+    "forWhom": "People already living in Korea who want to check whether they can apply to change to an F-2 residence status.",
+    "conditions": [
+      "The exact subcategory, current status, previous stays and individual circumstances determine the requirements and application process."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "f-2 residence route comparison",
+      "points and long-residence documents",
+      "status change before expiry"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w40-kis-visa-navigator",
+        "title": "Korea Immigration Service Visa Navigator and English handbook",
+        "url": "https://www.immigration.go.kr/bbs/immigration_eng/230/570965/artclView.do",
+        "note": "Links the English handbook covering F-2-7, F-2-99 and the distinct F-5 routes. The release directs readers to the current HiKorea instructions or 1345 for specific documents.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w40-kis-1345",
+        "title": "Korea Immigration Service Immigration Contact Center",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Provides the official immigration information helpline and describes its multilingual services.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w40-kis-jurisdiction",
+        "title": "Korea Immigration Service stay administration and appointments",
+        "url": "https://www.immigration.go.kr/immigration/1515/subview.do",
+        "note": "Describes HiKorea visit booking and distinguishes permanent-resident status from permanent-resident card renewal.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Bring your exact status code, expiry and residence dates to the F-2 route check."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1642,
+    "heroOmissionReason": "This is a consultation or document checklist. The table shows the decisions directly."
+  },
+  "permanent-residency-requirements-f-5-visa": {
+    "id": "guide:permanent-residency-requirements-f-5-visa",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Identify your exact F-5 route before counting years in Korea. Prepare a timeline of your residence statuses and trips abroad. Ask immigration which periods count, how it assesses the other requirements and what you need to file while your current status is valid.",
+    "forWhom": "People already living in Korea who are checking whether their residence history supports an F-5 permanent-residence application.",
+    "conditions": [
+      "Eligibility and evidence depend on the particular permanent-residence route, current rules and the authority's review of your record."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "f-5 residence timeline",
+      "permanent residence evidence",
+      "entry and departure records"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w40-kis-visa-navigator",
+        "title": "Korea Immigration Service Visa Navigator and English handbook",
+        "url": "https://www.immigration.go.kr/bbs/immigration_eng/230/570965/artclView.do",
+        "note": "Links the English handbook covering F-2-7, F-2-99 and the distinct F-5 routes. The release directs readers to the current HiKorea instructions or 1345 for specific documents.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w40-gov24-entry-record",
+        "title": "Government24 certificate of entry and departure",
+        "url": "https://m.gov.kr/mw/AA020InfoCappView.do?CappBizCD=12700000024&HighCtgCD=A10001&Mcode=10020&tp_seq=01",
+        "note": "Describes the service for proof of entry and departure and lists the application channels.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w40-kis-jurisdiction",
+        "title": "Korea Immigration Service stay administration and appointments",
+        "url": "https://www.immigration.go.kr/immigration/1515/subview.do",
+        "note": "Describes HiKorea visit booking and distinguishes permanent-resident status from permanent-resident card renewal.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask which status periods count before adding up your time in Korea."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1643,
+    "heroOmissionReason": "This is a consultation or document checklist. The table shows the decisions directly."
+  },
+  "f-visa-family-reunion-requirements": {
+    "id": "guide:f-visa-family-reunion-requirements",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with the sponsor's nationality or Korean stay code and the applicant's relationship to them. F-3 is a dependent route linked to a qualifying principal status. F-6 includes the marriage route for a spouse of a Korean citizen. Confirm which category and filing office apply to each family member before requesting certificates.",
+    "forWhom": "Households arranging a spouse's or child's move to Korea to join a Korean citizen or foreign resident.",
+    "conditions": [
+      "Family relationship, sponsor status, each applicant's location and the receiving office affect the route, documents and sequence."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "joining family in korea",
+      "f-3 dependent and f-6 spouse comparison",
+      "family certificate preparation"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w40-moleg-dependent-filing",
+        "title": "Ministry of Government Legislation visa application guide",
+        "url": "https://m.easylaw.go.kr/MOB/CsmInfoRetrieve.laf?ccfNo=1&cciNo=2&cnpClsNo=1&csmSeq=1703",
+        "note": "Explains that family members need a route appropriate to their purpose and describes F-3 as a dependent route linked to applicable principal statuses, referencing the May 2026 visa manual.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w40-moleg-marriage-status",
+        "title": "Ministry of Government Legislation marriage-related residence guide",
+        "url": "https://m.easylaw.go.kr/MOB/CsmInfoRetrieve.laf?ccfNo=2&cciNo=1&cnpClsNo=1&csmSeq=47",
+        "note": "Describes F-6 marriage-related categories, including a Korean citizen's spouse, and separates application scenarios.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w40-moj-marriage-notice",
+        "title": "Ministry of Justice marriage visa requirements and screening exemptions",
+        "url": "https://www.immigration.go.kr/bbs/moj/184/601864/artclView.do",
+        "note": "Publishes the marriage visa notice and attachment on the sponsor's income, language evidence and screening exemptions. Exact application evidence comes from the receiving office.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check every family member's category and filing office before ordering certificates."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1644,
+    "heroOmissionReason": "This is a consultation or document checklist. The table shows the decisions directly."
+  },
+  "teaching-english-in-korea-epik-vs-hagwon-complete-guide-2026": {
+    "id": "guide:teaching-english-in-korea-epik-vs-hagwon-complete-guide-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with EPIK if you can plan around a public-school intake and are open to the placement process. If your city, campus or start date is fixed, compare specific hagwon openings and get the worksite and start date in writing.",
+    "forWhom": "People choosing which route to pursue for a first English teaching role in South Korea.",
+    "conditions": [
+      "School placement, duties, housing, start dates and pay depend on the current intake or the actual written offer."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "EPIK application and placement",
+      "private academy interviews",
+      "English teaching worksite and schedule"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "epik-application-route",
+        "title": "English Program in Korea application guide",
+        "url": "https://www.epik.go.kr/web/epik/contents/How",
+        "note": "Describes the public-school intake, interview, document review and final placement by an office of education.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "epik-actual-duties",
+        "title": "English Program in Korea duties and contract",
+        "url": "https://www.epik.go.kr/web/epik/contents/Duties",
+        "note": "Lists possible work alongside Korean teachers, preparation of teaching materials and activities outside regular classes.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "epik-application-document-guide",
+        "title": "English Program in Korea required documents guide",
+        "url": "https://www.epik.go.kr/web/epik/contents/ReqDocGen",
+        "note": "Identifies program-specific document requirements and additional documents depending on the applicant.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Compare the actual worksite, weekly hours and housing before you commit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1645,
+    "heroOmissionReason": "This is a consultation or document checklist. The table shows the decisions directly."
+  },
+  "teaching-english-in-korea-e-2-visa-process": {
+    "id": "guide:teaching-english-in-korea-e-2-visa-process",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask your employer or program contact to identify your E-2 route and confirm which Korean mission handles your application. Follow that mission’s current checklist and wait until the visa is issued before locking in travel.",
+    "forWhom": "People who already have an English teaching offer in South Korea and expect to apply for an E-2 visa from abroad.",
+    "conditions": [
+      "The application route, accepted documents, filing jurisdiction and processing instructions depend on the post, the applicant and the responsible Korean mission."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "E-2 visa after teaching offer",
+      "consular filing jurisdiction",
+      "visa issuance confirmation"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "epik-appointment-packet",
+        "title": "English Program in Korea eligibility and E-2 visa guidance",
+        "url": "https://www.epik.go.kr/web/epik/contents/Eligibility",
+        "note": "Identifies the contract and Notice of Appointment after placement and directs applicants to their Korean mission for other requirements.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "korea-immigration-act-visa-issuance-certificate",
+        "title": "Korea Legislation Research Institute, Immigration Act Article 9",
+        "url": "https://elaw.klri.re.kr/eng_mobile/viewer.do?hseq=70896&key=7&type=part",
+        "note": "Explains that a visa issuance certificate may precede a visa and the inviting party may apply on the applicant’s behalf.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "visa-portal-check-application-stage",
+        "title": "Korea Visa Portal application status check",
+        "url": "https://www.visa.go.kr/openPage.do?MENU_ID=10301",
+        "note": "Provides distinct lookup options for a diplomatic-mission application and a visa issuance confirmation.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Verify your E-2 route and the mission’s checklist before paying for documents."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1646,
+    "heroOmissionReason": "This is a consultation or document checklist. The table shows the decisions directly."
+  },
+  "moving-to-korea-checklist-everything-you-need-2026": {
+    "id": "guide:moving-to-korea-checklist-everything-you-need-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with a confirmed first-night address and a way to get there. Write down who will confirm your residence paperwork, keep a payment backup, and review the terms in writing before committing to longer housing.",
+    "forWhom": "People moving to South Korea for a longer stay who already know the purpose of the move",
+    "conditions": [
+      "Use your own status of stay and address when checking registration and documents. The sequence is a planning aid. Airport, registration and medication rules depend on the actual trip."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "relocation",
+      "arrival",
+      "housing"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "move40-immigration-help",
+        "title": "Korea Immigration Service: Immigration Contact Center",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Immigration administration questions can be directed to the multilingual 1345 contact center.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "move40-airport",
+        "title": "Incheon Airport: Frequently Asked Questions",
+        "url": "https://www.airport.kr/ap_en/1542/subview.do",
+        "note": "The airport provides general airport railroad, limousine bus and taxi information. The guide directs readers to confirm their actual route.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "move40-customs",
+        "title": "Incheon International Airport Customs: personal medication notice",
+        "url": "https://www.customs.go.kr/incheon_airport/na/ntt/selectNttInfo.do?bbsId=2961&mi=12612&nttSn=10183523&nttSnUrl=ab4440206c518a9b2724795ab74c8880",
+        "note": "Personal carry-in allowances are conditional. The notice distinguishes some medicines that need separate checks.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm your first-night address and transport, then put registration, payment backup and lease checks on a dated list."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1647,
+    "heroOmissionReason": "This is a consultation or document checklist. The table shows the decisions directly."
   }
 }

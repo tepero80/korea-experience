@@ -18,6 +18,8 @@ author: Korea Experience Editorial
 | Quiet | Check house rules about noise, deliveries and using shared areas. Ask about any limits that matter for your arrival or departure. |
 | Help | Save the host or building contact and ask which route to use for an urgent problem or lost key. |
 
+If the apartment is part of a longer move, the [South Korea arrival and first-week checklist](/blog/moving-to-korea-checklist-everything-you-need-2026) helps you order the airport transfer, payment backup and residence paperwork.
+
 ## Save the information before you unpack
 
 Keep a note of collection times, the waste location and the person to contact. If a sign is unclear, ask for the translation or show it privately to the host, avoiding visible names, unit numbers and access codes. Check checkout instructions before leaving anything in a shared space.

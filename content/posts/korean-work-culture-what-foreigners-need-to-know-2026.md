@@ -18,6 +18,10 @@ author: Korea Experience Editorial
 | Work | Confirm the employing entity, regular duties, work location and proposed start date. Ask for agreed changes in writing. |
 | Help | Use [the ministry’s 1350 consultation guidance](https://1350.moel.go.kr/home/hp/ch/callchat.do) or [Seoul’s labor information for foreign residents](https://global.seoul.go.kr/hmpg/finf/empl/lbrp/contPageDetail.do?conts_no=3FE93823837543D6B3AE6DF096C4EF19&lang=en) to check the language and channel appropriate for your question. |
 
+If you are still deciding where to teach, [compare EPIK and private academy offers](/blog/teaching-english-in-korea-epik-vs-hagwon-complete-guide-2026) before committing to an intake or start date.
+
+If you already have a teaching offer, use the [E-2 application preparation guide](/blog/teaching-english-in-korea-e-2-visa-process) to check which items you, your sponsor and the deciding office each handle.
+
 ## Confirm which conditions apply before starting
 
 Keep the version you sign. Check any immigration permission with the competent office before starting. If you disagree about a term after reading it, take the full contract and the relevant messages to an appropriate employment adviser.
