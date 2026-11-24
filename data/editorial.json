@@ -30475,5 +30475,371 @@
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2017-07-07."
     }
+  },
+  "how-to-choose-a-clinic-in-korea-red-flags": {
+    "id": "guide:how-to-choose-a-clinic-in-korea-red-flags",
+    "checkedAt": "2026-11-24",
+    "tools": [],
+    "placeIds": [],
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "forWhom": "Visitors arranging a planned appointment from overseas",
+    "answer": "Ask for the clinic’s Korean legal name, exact address and business number. Use Medical Korea to check the clinic and any intermediary separately, then confirm your appointment with the clinic directly.",
+    "conditions": [
+      "Use this checklist for planned appointments. Take urgent concerns to the appropriate emergency service.",
+      "A register entry helps identify an organization. Ask the facility to confirm the clinician and appointment in writing."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "clinic identity verification"
+    ],
+    "relations": [
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "alternative",
+        "label": "Find urgent help",
+        "reason": "Know which number to call if you need help now."
+      }
+    ],
+    "sources": [
+      {
+        "id": "medical-korea-register",
+        "title": "Medical Korea foreign-patient register",
+        "url": "https://www.medicalkorea.or.kr/korp/main.do",
+        "note": "Lookup by business number or Korean organization name, with separate facility and facilitator filters.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "medical-korea-rules",
+        "title": "Medical Korea registration rules",
+        "url": "https://www.medicalkorea.or.kr/korp/intro/registration.do",
+        "note": "The scheme specifies different registration requirements for facilities and facilitators.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hira-health-map",
+        "title": "HIRA hospital and pharmacy search",
+        "url": "https://www.hira.or.kr/ra/hosp/getHealthMap.do",
+        "note": "An independent lookup by Korean medical facility name.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "medical-korea-accreditation",
+        "title": "Medical Korea accreditation scheme",
+        "url": "https://www.medicalkorea.or.kr/korp/cert/intro.do",
+        "note": "A separate assessment that registered facilities may apply for.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the clinic and facilitator separately.",
+      "Confirm the address and appointment directly before paying."
+    ],
+    "heroOmissionReason": "The former archive illustration cannot verify this administrative process. The guide uses a checklist and links to the relevant official lookups.",
+    "changeType": "rewrite",
+    "launchOrder": 1329
+  },
+  "how-to-verify-korean-clinic-credentials-red-flags-to-avoid": {
+    "id": "guide:how-to-verify-korean-clinic-credentials-red-flags-to-avoid",
+    "checkedAt": "2026-11-24",
+    "tools": [],
+    "placeIds": [],
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "forWhom": "Visitors who already have a planned clinic and need to confirm the booking terms",
+    "answer": "Get the price, the separate deposit and balance, the cancellation terms and the language support in writing. Confirm who answers after you leave Korea and keep the booking and payment records together.",
+    "conditions": [
+      "The checklist covers booking arrangements and records. Confirm care and travel timing with the treating clinician.",
+      "Use the facility’s own contact to resolve discrepancies on an intermediary’s quote."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "planned appointment finances"
+    ],
+    "relations": [
+      {
+        "slug": "medical-emergencies-1330-vs-119-2026",
+        "type": "alternative",
+        "label": "Find urgent help",
+        "reason": "Know which number to call if you need help now."
+      }
+    ],
+    "sources": [
+      {
+        "id": "medical-korea-register",
+        "title": "Medical Korea foreign-patient register",
+        "url": "https://www.medicalkorea.or.kr/korp/main.do",
+        "note": "Lookup by business number or Korean organization name, with separate facility and facilitator filters.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "medical-korea-rules",
+        "title": "Medical Korea registration rules",
+        "url": "https://www.medicalkorea.or.kr/korp/intro/registration.do",
+        "note": "The scheme specifies different registration requirements for facilities and facilitators.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hira-health-map",
+        "title": "HIRA hospital and pharmacy search",
+        "url": "https://www.hira.or.kr/ra/hosp/getHealthMap.do",
+        "note": "An independent lookup by Korean medical facility name.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Get the deposit and cancellation deadlines in writing.",
+      "Ask who handles follow-up after you leave Korea."
+    ],
+    "heroOmissionReason": "The former archive illustration cannot verify this administrative process. The guide uses a checklist and links to the relevant official lookups.",
+    "changeType": "rewrite",
+    "launchOrder": 1330
+  },
+  "digital-nomad-visa-korea-requirements-and-application": {
+    "id": "guide:digital-nomad-visa-korea-requirements-and-application",
+    "checkedAt": "2026-11-24",
+    "tools": [],
+    "placeIds": [],
+    "categoryId": "plan-your-trip",
+    "format": "how-to",
+    "forWhom": "Overseas employees and business owners checking if the F-1-D route fits their stay",
+    "answer": "Check your overseas work, experience, intended place of residence and family status together. The income rule uses Korea’s per-person GNI, with bands tied to age and the planned region.",
+    "conditions": [
+      "Check how your receiving office calculates age and documents income.",
+      "Confirm the specific address and family rule before committing to accommodation."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "workation visa eligibility"
+    ],
+    "relations": [],
+    "sources": [
+      {
+        "id": "immigration-f1d-2026",
+        "title": "Korea Immigration Service, 2026 autumn Workation Visa update, pages 36–37",
+        "url": "https://www.immigration.go.kr/sites/immigration/file/ebook/gongzone/2026/2026_gongzone_vol77.pdf",
+        "note": "National eligibility, age and location bands, family rule and maximum stay.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "singapore-f1d",
+        "title": "Korean Embassy in Singapore F-1-D instructions",
+        "url": "https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?page=1&seq=761493",
+        "note": "Singapore-specific residence, employment and regional accommodation evidence.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "philippines-f1d",
+        "title": "Korean Embassy in the Philippines F-1-D instructions",
+        "url": "https://overseas.mofa.go.kr/ph-en/brd/m_3277/view.do?seq=738705",
+        "note": "Philippines-specific income, background and insurance evidence.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "The solo income multiplier varies with age and address.",
+      "Accompanying family uses a separate threshold."
+    ],
+    "heroOmissionReason": "The former archive illustration cannot verify this administrative process. The guide uses a checklist and links to the relevant official lookups.",
+    "changeType": "rewrite",
+    "launchOrder": 1331
+  },
+  "korea-digital-nomad-visa-f-1-d-complete-guide-2026": {
+    "id": "guide:korea-digital-nomad-visa-f-1-d-complete-guide-2026",
+    "checkedAt": "2026-11-24",
+    "tools": [],
+    "placeIds": [],
+    "categoryId": "plan-your-trip",
+    "format": "how-to",
+    "forWhom": "Potential F-1-D applicants who need to assemble and submit their evidence",
+    "answer": "Confirm which office accepts your application and ask for its current F-1-D checklist. Check the issue dates, coverage wording and accommodation evidence before ordering documents or booking a non-refundable stay.",
+    "conditions": [
+      "Document names and acceptable formats come from the office receiving the application.",
+      "If already in Korea, confirm with local immigration whether your status allows an in-country application."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "workation visa documents"
+    ],
+    "relations": [],
+    "sources": [
+      {
+        "id": "immigration-f1d-2026",
+        "title": "Korea Immigration Service, 2026 autumn Workation Visa update, pages 36–37",
+        "url": "https://www.immigration.go.kr/sites/immigration/file/ebook/gongzone/2026/2026_gongzone_vol77.pdf",
+        "note": "National eligibility, age and location bands, family rule and maximum stay.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "singapore-f1d",
+        "title": "Korean Embassy in Singapore F-1-D instructions",
+        "url": "https://overseas.mofa.go.kr/sg-en/brd/m_2444/view.do?page=1&seq=761493",
+        "note": "Singapore-specific residence, employment and regional accommodation evidence.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "philippines-f1d",
+        "title": "Korean Embassy in the Philippines F-1-D instructions",
+        "url": "https://overseas.mofa.go.kr/ph-en/brd/m_3277/view.do?seq=738705",
+        "note": "Philippines-specific income, background and insurance evidence.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "korea-visa-portal",
+        "title": "Korea Visa Portal Visa Navigator",
+        "url": "https://www.visa.go.kr/openPage.do?MENU_ID=10101",
+        "note": "Official entry point for looking up a visa route by country, purpose and intended duration.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Start with the checklist of the office receiving your file.",
+      "Check document dates and accepted address proof before spending money."
+    ],
+    "heroOmissionReason": "The former archive illustration cannot verify this administrative process. The guide uses a checklist and links to the relevant official lookups.",
+    "changeType": "rewrite",
+    "launchOrder": 1332
+  },
+  "opening-a-bank-account-in-korea-step-by-step-guide": {
+    "id": "guide:opening-a-bank-account-in-korea-step-by-step-guide",
+    "checkedAt": "2026-11-24",
+    "tools": [],
+    "placeIds": [],
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "forWhom": "Foreign residents preparing for an account-opening visit to a Korean bank",
+    "answer": "Name the account’s purpose when you call the branch. Ask which originals it accepts for your status, which purpose document it needs and whether the account would have restrictions.",
+    "conditions": [
+      "Your bank and the specific branch decide which documents and services it can process.",
+      "Keep branch and mobile identity requirements separate."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "bank branch document checklist"
+    ],
+    "relations": [
+      {
+        "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+        "type": "alternative",
+        "label": "Get cash with an overseas card",
+        "reason": "Use a separate cash plan while your account or domestic card is unavailable."
+      }
+    ],
+    "sources": [
+      {
+        "id": "seoul-branch",
+        "title": "Seoul Metropolitan Government bank branch guidance",
+        "url": "https://english.seoul.go.kr/service/living/convenience/1-banking/",
+        "note": "Published guidance for a branch visit, passport and foreign registration documentation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-bank-guide",
+        "title": "Seoul financial guide for foreign residents, pages 20–39",
+        "url": "https://english.seoul.go.kr/wp-content/uploads/2023/02/FINANCIAL_GUIDE_BOOK_FOR_FOREIG_ERS_IN_KOREA.pdf",
+        "note": "Examples of purpose evidence and separate coverage of branch, ATM, internet and mobile banking.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hana-id-notice",
+        "title": "Hana Bank notice for specified remote identity checks",
+        "url": "https://www.kebhana.com/cont/news/news01/news0101/1501326_118324.jsp",
+        "note": "Hana’s dated passport exclusion for specified remote transactions, rather than a rule for branch visits.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask the branch about identity and account-purpose documents.",
+      "Confirm withdrawal and transfer limits by channel."
+    ],
+    "heroOmissionReason": "The former archive illustration cannot verify this administrative process. The guide uses a checklist and links to the relevant official lookups.",
+    "changeType": "rewrite",
+    "launchOrder": 1333
+  },
+  "opening-a-korean-bank-account-for-foreigners": {
+    "id": "guide:opening-a-korean-bank-account-for-foreigners",
+    "checkedAt": "2026-11-24",
+    "tools": [],
+    "placeIds": [],
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "forWhom": "Visitors and new residents deciding whether a Korean account would solve their payment needs",
+    "answer": "Find out whether the payer or payee expects a local bank transfer. If you need a Korean account, confirm card issuance, app access and transfer authentication as separate services before relying on any of them.",
+    "conditions": [
+      "Check the actual payment requirement with your employer, landlord or merchant.",
+      "Card acceptance and app access depend on the product, method and identity checks."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "visitor and resident payment setup"
+    ],
+    "relations": [
+      {
+        "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+        "type": "alternative",
+        "label": "Get cash with an overseas card",
+        "reason": "Use a separate cash plan while your account or domestic card is unavailable."
+      }
+    ],
+    "sources": [
+      {
+        "id": "seoul-branch",
+        "title": "Seoul Metropolitan Government bank branch guidance",
+        "url": "https://english.seoul.go.kr/service/living/convenience/1-banking/",
+        "note": "Published guidance for a branch visit, passport and foreign registration documentation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-bank-guide",
+        "title": "Seoul financial guide for foreign residents, pages 20–39",
+        "url": "https://english.seoul.go.kr/wp-content/uploads/2023/02/FINANCIAL_GUIDE_BOOK_FOR_FOREIG_ERS_IN_KOREA.pdf",
+        "note": "Examples of purpose evidence and separate coverage of branch, ATM, internet and mobile banking.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hana-id-notice",
+        "title": "Hana Bank notice for specified remote identity checks",
+        "url": "https://www.kebhana.com/cont/news/news01/news0101/1501326_118324.jsp",
+        "note": "Hana’s dated passport exclusion for specified remote transactions, rather than a rule for branch visits.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Choose the setup for the payment you need to make.",
+      "Confirm card and app activation separately from opening an account."
+    ],
+    "heroOmissionReason": "The former archive illustration cannot verify this administrative process. The guide uses a checklist and links to the relevant official lookups.",
+    "changeType": "rewrite",
+    "launchOrder": 1334
   }
 }
