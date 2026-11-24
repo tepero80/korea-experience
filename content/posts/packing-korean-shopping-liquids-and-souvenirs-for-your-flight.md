@@ -15,6 +15,8 @@ draft: false
 ---
 **Do four checks, not one “can I fly with it?” check.** A purchase can pass one rule and still fail another: screening, airline baggage, export inspection and destination customs are different decisions.
 
+For fragile tableware, plan the [Icheon studio purchase and packing questions](/blog/korean-ceramics-shopping-guide-studio-visits-packing-and-shipping-questions) before paying.
+
 ## Sort the purchase before choosing the bag
 
 | Question | Next action |

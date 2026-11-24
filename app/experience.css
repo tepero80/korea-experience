@@ -764,6 +764,33 @@ button:disabled {
   grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: clamp(10px, 1.5vw, 20px);
 }
+.home-reads .guide-card-image {
+  aspect-ratio: 16 / 10;
+}
+.home-reads .guide-card h3 {
+  text-wrap: balance;
+}
+.home-reads .guide-card-bottom {
+  margin-top: auto;
+}
+.home-reads .guide-card-copy p {
+  margin-bottom: 16px;
+}
+.home-reads .section-heading > a {
+  display: inline-flex;
+  align-items: center;
+  min-height: 44px;
+}
+@media (min-width: 561px) and (max-width: 900px) {
+  .home-reads .guide-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+@media (max-width: 900px) {
+  .home-destination-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
 .home-destination-grid li {
   display: flex;
   min-width: 0;
@@ -802,6 +829,7 @@ button:disabled {
 .home-destination-caption strong {
   font: 400 clamp(19px, 2.3vw, 29px)/1.13 var(--editorial-display);
   letter-spacing: -0.03em;
+  text-wrap: balance;
 }
 .home-destination-caption span span {
   margin-top: 3px;
@@ -811,6 +839,7 @@ button:disabled {
 }
 .home-destination-caption svg {
   color: var(--ke-amber);
+  flex: none;
 }
 .home-photo-credits {
   margin-top: 4px;
@@ -1145,9 +1174,6 @@ button:disabled {
   }
   .magazine-feature img {
     aspect-ratio: 1.68;
-  }
-  .home-destination-grid {
-    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
   .home-destination-caption svg {
     width: 16px;

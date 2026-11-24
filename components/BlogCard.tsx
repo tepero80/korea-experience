@@ -1,32 +1,37 @@
 import Link from 'next/link';
 import type { PostMetadata } from '@/lib/posts';
 import Icon from './site/Icon';
-import { generatedArchiveCoverHash, mediaFor } from '@/lib/media';
+import { generatedArchiveCoverHash, mediaFor, type EditorialMedia } from '@/lib/media';
 export default function BlogCard({
   post,
   priority = false,
+  coverPhoto,
 }: {
   post: PostMetadata;
   showDeepDiveBadge?: boolean;
   priority?: boolean;
+  coverPhoto?: EditorialMedia;
 }) {
-  const media = mediaFor(post.editorial?.heroMediaId);
-  const generatedArchiveCover = Boolean(generatedArchiveCoverHash(post.slug, post.image));
+  const media = coverPhoto ?? mediaFor(post.editorial?.heroMediaId);
+  const image = coverPhoto?.src ?? post.image;
+  const generatedArchiveCover = Boolean(generatedArchiveCoverHash(post.slug, image));
   return (
     <Link href={`/blog/${post.slug}`} className="guide-card">
-      {post.image ? (
+      {image ? (
         <div className="guide-card-image">
           <img
-            src={post.image}
+            src={image}
             srcSet={media?.srcSet}
-            sizes="(max-width: 700px) calc(100vw - 40px), (max-width: 1000px) 45vw, 400px"
+            sizes={coverPhoto
+              ? '(max-width: 560px) calc(100vw - 40px), (max-width: 900px) calc((100vw - 64px) / 2), 400px'
+              : '(max-width: 700px) calc(100vw - 40px), (max-width: 1000px) 45vw, 400px'}
             alt=""
             style={{
               objectPosition: media?.focal,
               objectFit: media?.credit.kind === 'illustration' ? 'contain' : 'cover',
             }}
-            width="960"
-            height="640"
+            width={coverPhoto?.width ?? 960}
+            height={coverPhoto?.height ?? 640}
             loading={priority ? 'eager' : 'lazy'}
             decoding="async"
           />

@@ -25,6 +25,8 @@ draft: false
 
 **These numbers are an invented reading example.** Use the actual menu and ask the staff to confirm your starting order. Do not assume one minimum, portion size or refill policy applies throughout Korea.
 
+If the meal is part of a regional trip, [compare the Jeju black pork and Hoengseong hanu ordering styles](/blog/korean-bbq-by-province-jeju-vs-hanu-2026) before choosing a restaurant.
+
 ## Order the table, then clarify the grill
 
 1. Choose the cut and ask about the required starting quantity for your party.

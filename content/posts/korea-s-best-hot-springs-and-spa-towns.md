@@ -31,6 +31,8 @@ Look for **허심청 부산 동래구 온천장로107번길 32**. Use **Oncheonj
 
 Use **온양온천역 충남 아산시** as the rail reference. Check that the train you want stops there and save a separate address for the bath you confirmed. A hotel with a hot-spring facility may have different terms for overnight guests and people visiting only to bathe. [Naver Map](https://map.naver.com/p/search/%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C%EC%97%AD%20%EC%B6%A9%EB%82%A8%20%EC%95%84%EC%82%B0%EC%8B%9C) · [Kakao Map](https://map.kakao.com/link/search/%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C%EC%97%AD%20%EC%B6%A9%EB%82%A8%20%EC%95%84%EC%82%B0%EC%8B%9C) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EC%98%A8%EC%96%91%EC%98%A8%EC%B2%9C%EC%97%AD%20%EC%B6%A9%EB%82%A8%20%EC%95%84%EC%82%B0%EC%8B%9C)
 
+Before selecting a facility, [check public bath etiquette and accessibility questions](/blog/korean-public-bath-visit-guide-etiquette-facilities-and-accessibility).
+
 ## Ask about the part of the visit that matters to you
 
 Check whether a bath ticket includes any common rest area, how changing rooms are organized, whether towels or clothes are supplied, and whether there are rules for children, tattoos or mobility assistance. If privacy or a private room matters, ask explicitly before traveling. Follow the venue’s posted washing, changing and phone instructions.

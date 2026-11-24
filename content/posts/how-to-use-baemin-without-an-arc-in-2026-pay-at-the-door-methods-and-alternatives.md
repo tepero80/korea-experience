@@ -17,6 +17,8 @@ Before selecting a restaurant, ask your hotel whether deliveries are accepted an
 | Order total | Review food, delivery fees and minimum order before confirming. |
 | Alternatives | Ask the hotel about nearby takeaway or an ordering service that covers your address. |
 
+Before you place a chicken order, [check the bone, sauce and portion words in the actual menu](/blog/how-to-order-korean-fried-chicken-portions-sauces-sides-and-delivery-terms).
+
 ## Check before committing
 
 Check the current delivery app’s account rules and payment screen for your own phone and card. If the app offers payment on delivery, confirm that option before submitting the order. If account verification stops you, ask the hotel about permitted ordering or takeaway options.

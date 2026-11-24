@@ -44,6 +44,8 @@ The [visitor information page](https://www.museum.go.kr/ENG/contents/E0101010000
 
 **After the session:** use the permanent galleries for a shorter second activity if everyone still has energy, or leave rather than forcing a full museum circuit. Set a meeting point before separating. Food and drinks are not permitted in exhibition galleries; check current facilities if your child needs a snack.
 
+For a different pace, [compare children’s museums and theme parks](/blog/family-friendly-attractions-theme-parks-and-museums) before choosing another family day.
+
 ## If you cannot get a reservation
 
 The permanent galleries are a separate option, but check their current hours and any holiday closure before travelling. The [museum overview for Seoul](/blog/seoul-museums-and-exhibitions-planning-guide) can help you select another collection; it does not promise an identical child-focused experience. For an indoor day with less travel, use the [rainy-day clusters](/blog/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets) and pick one area.

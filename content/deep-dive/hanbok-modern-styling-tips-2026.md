@@ -24,6 +24,8 @@ The [palace authority](https://royal.khs.go.kr/ROYAL/contents/R705000000.do) inc
 - In cold weather, test thin layers underneath while trying on the whole outfit. If you need to add outerwear, ask staff how to present the outfit at the gate.
 - If buying, note garment measurements as well as the size label. Ask about laundering, alterations and returns before paying. Take a photo of how the ties or fasteners sit, with the shop’s permission.
 
+If you want a piece to keep, use the [modern hanbok buying checklist](/blog/hanbok-fusion-fashion-where-to-buy-modern-hanbok-for-daily-wear-2026).
+
 ## Set the destination and check your visit type
 
 Use the [official palace visitor page](https://royal.khs.go.kr/ENG/contents/E702000000.do) for the ordinary opening and admission information. Check the program listing separately for a night event or reserved visit. Leave time to change and return a rental even if you need to buy a regular ticket or shorten the visit.

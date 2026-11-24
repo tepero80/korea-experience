@@ -91,9 +91,13 @@ test('the home opening gives first-trip and photo-led destination discovery equa
     ['Busan', 'busan'],
     ['Gyeongju', 'gyeongju'],
     ['Jeju', 'jeju'],
+    ['Jeonju', 'jeonju'],
+    ['Sokcho', 'sokcho'],
+    ['Suwon', 'suwon'],
+    ['Tongyeong', 'tongyeong'],
   ]) {
-    const link = section.getByRole('link', { name: new RegExp(`\\b${name}\\b`, 'i') });
-    await expect(link).toHaveAttribute('href', `/destinations/${slug}`);
+    const link = section.locator(`.home-destination-card[href="/destinations/${slug}"]`);
+    await expect(link).toHaveAccessibleName(new RegExp(`\\b${name}\\b`, 'i'));
     const img = link.locator('img');
     await expect(img).toHaveCount(1);
     await img.scrollIntoViewIfNeeded();
@@ -104,16 +108,17 @@ test('the home opening gives first-trip and photo-led destination discovery equa
     expect(photo.width * photo.height).toBeGreaterThan(0);
     originalPhotos.add(photo.source);
   }
-  expect(originalPhotos.size).toBe(4);
-  const all = section.getByRole('link', { name: 'All 15 destinations', exact: true });
+  expect(originalPhotos.size).toBe(8);
+  const all = section.getByRole('link', { name: /^All \d+ destinations$/ });
   await expect(all).toHaveAttribute('href', '/destinations');
+  const destinationCount = Number((await all.innerText()).match(/\d+/)?.[0]);
   await title.evaluate((element) => element.scrollIntoView({ block: 'start', behavior: 'instant' }));
   await page.screenshot({ path: info.outputPath('home-destinations.jpg'), type: 'jpeg', quality: 85 });
 
   const credits = section.getByText('Photo credits', { exact: true });
   const creditLinks = credits.locator('xpath=ancestor::details[1]').getByRole('link');
   await credits.press('Enter');
-  await expect(creditLinks).toHaveCount(4);
+  await expect(creditLinks).toHaveCount(8);
   for (const link of await creditLinks.all()) {
     await expect(link).toBeVisible();
     await expect(link).toHaveAttribute('href', /^\/image-credits#[a-z0-9-]+$/);
@@ -121,6 +126,31 @@ test('the home opening gives first-trip and photo-led destination discovery equa
   await page.screenshot({ path: info.outputPath('home-photo-credits.jpg'), type: 'jpeg', quality: 85 });
   await credits.press('Enter');
   await expect(creditLinks).toHaveCount(0);
+
+  const reads = page.getByRole('region', { name: 'Your first useful reads' });
+  const guideLinks = reads.locator('.guide-card');
+  await expect(guideLinks).toHaveCount(6);
+  for (const link of await guideLinks.all()) {
+    await expect(link).toHaveAttribute('href', /^\/blog\/[a-z0-9-]+$/);
+    const img = link.locator('img');
+    await expect(img).toHaveAttribute('loading', 'lazy');
+    await img.scrollIntoViewIfNeeded();
+    const source = await img.evaluate(async (node: HTMLImageElement) => {
+      await node.decode();
+      return node.currentSrc;
+    });
+    originalPhotos.add(source);
+  }
+  expect(originalPhotos.size).toBe(14);
+  const guideCredits = reads.getByText('Guide photo credits', { exact: true });
+  await guideCredits.press('Enter');
+  await expect(guideCredits.locator('xpath=ancestor::details[1]').getByRole('link')).toHaveCount(6);
+  await guideCredits.press('Enter');
+  await reads.getByRole('heading', { level: 2 }).evaluate((element) => {
+    element.scrollIntoView({ block: 'center', behavior: 'instant' });
+  });
+  await page.screenshot({ path: info.outputPath('home-guide-picks.jpg'), type: 'jpeg', quality: 85 });
+  await page.evaluate(() => window.scrollTo(0, 0));
 
   const { violations } = await new AxeBuilder({ page })
     .include('main')
@@ -139,7 +169,7 @@ test('the home opening gives first-trip and photo-led destination discovery equa
   await expect(title).toBeVisible();
   await all.click();
   await expect(page).toHaveURL(/\/destinations$/);
-  await expect(page.locator('.destination-area .guide-card')).toHaveCount(15);
+  await expect(page.locator('.destination-area .guide-card')).toHaveCount(destinationCount);
 });
 
 test('a guide search arrival can reach the local hub from the quick-answer anchor', async ({ page }, info) => {

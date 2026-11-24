@@ -20,6 +20,8 @@ Anju **안주** means food served with drinks. On a short stop, choose a dish fo
 
 The KTO [seafood pancake entry](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=231718) describes the pancake and a familiar pairing with makgeolli. Its [kimchi pancake guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=181&vcontsId=178931) illustrates a different batter and filling. The [dubu kimchi entry](https://english.visitkorea.or.kr/svc/sp/food/ext/special_view.do?menuSn=603&menuSn=913&page=4&sContsTtl=&sort=regDt&vcontsId=179834) describes the tofu and kimchi combination. Ask the cook about ingredients in the version on your menu.
 
+If the drinks are the reason for your stop, [compare two regional Korean wine visits and a city glass](/blog/korean-wine-culture-domestic-and-imported).
+
 ## Order in a manageable sequence
 
 You can show **이 안주는 몇 명이 먹기 좋아요?** to ask how many people the dish serves. If you are only having a short stop, ask whether one plate is enough for your table and whether each diner needs to order a drink. If you are having a meal, ask when the kitchen closes and order a second dish after you see the first portion. For a daytime snack stop with a different pace, [compare the stalls at Gwangjang Market](/blog/gwangjang-market-complete-food-guide).

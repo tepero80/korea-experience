@@ -21,6 +21,8 @@ Pick an option that belongs to the market you can actually reach. A seasonal cat
 
 The Korea Tourism Organization reports different seasons for [Gyeokpo Port](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=80909) and [Daemyeonghang Fishery Market](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192484). Save **대명항수산물직판장 · 경기도 김포시 대곶면 대명항1로 109** for the latter. Ask whether the seller can prepare the fish or can tell you which nearby restaurant will. If today's catch is sold out, choose another fish the stall can prepare the way you want.
 
+If your winter itinerary takes you to Tongyeong, [choose a cooked oyster dish near Jungang Market](/blog/tongyeong-oyster-specialties-coastal-delicacies).
+
 ## Quote the total before choosing a fish
 
 The [KTO winter market guide](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1595642) highlights separate preparation and table-setting fees. Confirm the unit first: a displayed amount can refer to a kilogram, a portion or a whole fish. Then ask how many people the chosen portion serves. If you are offered a table upstairs or next door, have the seller write down which charges are still due there. **손질이랑 상차림 비용까지 얼마예요?** asks how much it costs including preparation and the table setting.

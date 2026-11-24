@@ -22,6 +22,8 @@ If you are already in central Seoul, start with [KTO's Olive Young Myeongdong To
 
 A product listing or coupon in the global shop may describe a different sale. The [Olive Young Global membership page](https://global.oliveyoung.com/display/page/membership) describes benefits for its global shop. Check the shelf label, current store promotion and final total at the Korean store rather than assuming an online discount applies.
 
+Before relying on a discount, [compare app and store promotion conditions](/blog/smart-shopping-at-olive-young-using-the-app-and-maximizing-sales-2026).
+
 ## Make a small list before entering
 
 | If you want | Check in store |

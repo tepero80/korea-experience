@@ -16,6 +16,8 @@ draft: false
 
 **Choose Hahoe Village for lanes and traditional homes in a lived-in village, or Dosan Seowon for the buildings and grounds of a Confucian academy.** They are in different parts of Andong. If traveling by bus, pick one and find a confirmed return before leaving town.
 
+If a performance is your priority, [check how to plan for Hahoe mask dance](/blog/korean-mask-dance-drama-where-to-watch) before choosing your day.
+
 ## Choose one main destination
 
 | Place | What makes it a better fit |

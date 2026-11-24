@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { getFeaturedPosts, getAllPosts } from '@/lib/posts';
+import { getAllPosts } from '@/lib/posts';
 import { TRAVEL_CATEGORIES } from '@/lib/taxonomy';
 import { GUIDE_FEED_TYPES, PRIMARY_TRAVEL_TOOLS, SITE_CONFIG } from '@/lib/constants';
 import BlogCard from '@/components/BlogCard';
@@ -10,11 +10,24 @@ import { mediaFor } from '@/lib/media';
 import { getDestinations } from '@/lib/destinations';
 import { HOME_DESCRIPTION, HOME_FEATURE, HOME_TITLE } from '@/lib/home-feature';
 
+const featuredGuides = [
+  { slug: 'first-trip-to-korea-planning-guide', photoId: 'gyeongbokgung' },
+  { slug: 'airport-limousine-bus-vs-arex-express-train', photoId: 'incheon-t1-songdo-bus-orientation' },
+  { slug: 'seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style', photoId: 'bukchon-evening' },
+  { slug: 'gwangjang-market-complete-food-guide', photoId: 'gwangjang' },
+  { slug: 'seoul-to-busan-weekend-planner-train-neighborhood-base-and-route-choices', photoId: 'busan-dongbaekseom-nurimaru-2024' },
+  { slug: 'jeju-island-complete-travel-guide-best-time-to-visit-2026', photoId: 'jeju-seongsan-town-from-ilchulbong-blue-hour-2024' },
+];
+
 const featuredRegions = [
-  { id: 'seoul', focus: 'Palaces & neighborhoods' },
-  { id: 'busan', focus: 'Markets & coast' },
-  { id: 'gyeongju', focus: 'Silla heritage' },
-  { id: 'jeju', focus: 'Island walks & coast' },
+  { id: 'seoul', photoId: 'archive-seoul-han-river-jamwon-sunset-2023', focus: 'Palaces & river walks' },
+  { id: 'busan', photoId: 'busan-base-haeundae-panorama', focus: 'Beaches & markets' },
+  { id: 'jeju', photoId: 'jeju-seongsan-ilchulbong-visitor-approach-2022', focus: 'Volcanic coast & trails' },
+  { id: 'gyeongju', photoId: 'gyeongju-bulguksa-temple', focus: 'Silla temples & tombs' },
+  { id: 'jeonju', photoId: 'jeonju-hanok-rooftops-overview', focus: 'Hanok lanes & local food' },
+  { id: 'sokcho', photoId: 'archive-seoraksan-rocky-valley-autumn-2015', focus: 'Mountain trails & coast' },
+  { id: 'suwon', photoId: 'suwon', focus: 'Fortress walks' },
+  { id: 'tongyeong', photoId: 'tongyeong-mireuksan-island-panorama-2013', focus: 'Harbors & island ferries' },
 ];
 
 export const metadata = {
@@ -22,12 +35,16 @@ export const metadata = {
   alternates: { canonical: SITE_CONFIG.url + '/', types: GUIDE_FEED_TYPES },
 };
 export default function Home() {
-  const featured = getFeaturedPosts();
-  const picks = (featured.length ? featured : getAllPosts()).slice(0, 3);
+  const guides = getAllPosts();
+  const picks = featuredGuides.flatMap(({ slug, photoId }) => {
+    const post = guides.find((guide) => guide.slug === slug && guide.indexable && guide.reviewed);
+    const photo = mediaFor(photoId);
+    return post && photo?.credit.kind === 'photograph' ? [{ post, photo }] : [];
+  });
   const destinations = getDestinations();
-  const photoCards = featuredRegions.flatMap(({ id, focus }) => {
+  const photoCards = featuredRegions.flatMap(({ id, photoId, focus }) => {
     const region = destinations.find((region) => region.id === id && region.indexable);
-    const photo = mediaFor(region?.coverMediaId);
+    const photo = mediaFor(photoId);
     return region && photo?.credit.kind === 'photograph' ? [{ region, photo, focus }] : [];
   });
   const featurePhoto = mediaFor(HOME_FEATURE.photoId);
@@ -109,12 +126,13 @@ export default function Home() {
                 <img
                   src={photo.src}
                   srcSet={photo.srcSet}
-                  sizes="(max-width: 760px) calc((100vw - 52px) / 2), (max-width: 1320px) calc((100vw - 100px) / 4), 300px"
+                  sizes="(max-width: 900px) calc((100vw - 52px) / 2), (max-width: 1320px) calc((100vw - 100px) / 4), 300px"
                   alt={photo.alt}
                   width={photo.width}
                   height={photo.height}
                   style={{ objectPosition: photo.focal }}
                   loading="lazy"
+                  decoding="async"
                 />
                 <div className="home-destination-caption">
                   <span><strong>{region.name}</strong><span>{focus}</span></span>
@@ -177,27 +195,30 @@ export default function Home() {
           ))}
         </div>
       </section>
-      <section className="wrap section-space">
+      <section className="wrap section-space home-reads" aria-labelledby="first-useful-reads">
         <div className="section-heading">
-          <div>
-            <p className="eyebrow">A good place to begin</p>
-            <h2 className="section-title">Your first useful reads</h2>
-          </div>
-          <p className="section-intro">
-            Start with the question on your mind. Each guide takes you from a clear answer to what
-            comes next.
-          </p>
-        </div>
-        <div className="guide-grid">
-          {picks.map((p) => (
-            <BlogCard key={p.slug} post={p} />
-          ))}
-        </div>
-        <div className="section-end">
+          <h2 className="section-title" id="first-useful-reads">Your first useful reads</h2>
           <Link href="/blog" className="text-link">
             Explore the guide library <Icon name="next" />
           </Link>
         </div>
+        <div className="guide-grid">
+          {picks.map(({ post, photo }) => (
+            <BlogCard key={post.slug} post={post} coverPhoto={photo} />
+          ))}
+        </div>
+        <details className="home-photo-credits">
+          <summary>Guide photo credits</summary>
+          <ul>
+            {picks.map(({ post, photo }) => (
+              <li key={photo.id}>
+                <a href={`/image-credits#${photo.id}`}>
+                  {post.title} · {photo.credit.author} · {photo.credit.license}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </details>
       </section>
       {/* Keep the fragment and its outgoing links in native browser history so Back restores focus and position. */}
       <section className="season-section" aria-labelledby="winter-trip-planning">

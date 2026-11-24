@@ -18,6 +18,8 @@ deepDive: true
 deepDiveOrder: 18
 ---
 
+For a series-specific visit, [check webtoon translations and official pop-ups](/blog/how-korean-webtoons-are-read-platforms-translations-and-visiting-official-pop-up).
+
 ## Confirm the event before you go
 
 | Step | What you need |

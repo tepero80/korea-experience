@@ -15,6 +15,8 @@ draft: false
 ---
 **Start with the actual event announcement.** Find the date, venue and authorized seller from the artist or venue, then prepare that seller's required account and documents. A familiar brand name or old tutorial is not enough to establish today's process.
 
+If you plan to bring merchandise, [check your light-stick model and event rules](/blog/k-pop-lightstick-guide-official-vs-unofficial) before buying.
+
 ## Prepare before the sale
 
 | Check | What to save privately |
@@ -41,6 +43,8 @@ The FAQ contains old fee wording alongside a later fee-change notice. Use the se
 4. Save the required ticket/reference privately and recheck pickup/entry instructions before travel.
 
 If the transaction is unclear, check its status with the seller/issuer before repeated attempts. We have not tested a completed purchase or guaranteed overseas-card acceptance for any event.
+
+After booking, use the [concert-day ticket, ID and transit checklist](/blog/k-pop-concert-preparation-in-korea-ticket-verification-venue-entry-and-transit-h) with your own event notice.
 
 ## Plan the journey home too
 

@@ -28,6 +28,8 @@ Imagine landing Friday evening and flying home Monday afternoon. Friday is an ar
 
 For a short first visit, one Seoul base is a useful starting option. Add another city when the travel time, hotel move and luggage arrangements fit the experience you actually want. A map with many pins is not yet an achievable itinerary.
 
+Traveling with an animal adds another sequence: [check pet entry, transport and accommodation](/blog/pet-friendly-travel-in-korea-cafes-parks-and-hotels-for-furry-friends-2026) before paying.
+
 ## Check your passport and arrival date before paying
 
 Start with the official [Korea Visa Navigator](https://www.visa.go.kr/openPage.do?MENU_ID=10102), using your nationality, purpose and intended stay. Check the result with the relevant Korean diplomatic mission if your circumstances are unclear. This guide cannot determine admission.
@@ -43,6 +45,8 @@ In its 23 November 2026 notice, the Ministry of Justice extends the temporary ex
 For travelers required to file, the official [e-Arrival Card guide](https://www.e-arrivalcard.go.kr/portal/guide/eacGuide.do?locale=E) says filing is free and available from three days before arrival, using Korean time. Prepare your passport, email, arrival details and accommodation information. Follow the eligibility page for exceptions, including valid K-ETA holders.
 
 Use the [K-ETA decision guide](/blog/do-i-need-a-k-eta-in-2026-a-complete-guide-for-all-100-nationalities) to check the visa, authorization and declaration steps in order.
+
+For a solo trip, [plan the property entrance and return route](/blog/solo-female-travel-in-korea-safety-tips-and-best-neighborhoods-2026) alongside the neighborhood choice.
 
 ## Choose the base around repeated journeys
 

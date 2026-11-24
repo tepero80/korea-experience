@@ -26,6 +26,8 @@ Use **Dongmyo Station (동묘앞역), Line 1 or 6, Exit 3**. Walk the public sta
 
 Choosing where to browse between Dongmyo and Gwangjang? [Compare the two vintage markets](/blog/vintage-thrifting-dongmyo-gwangjang-2026) before deciding whether a second stop is worth the move.
 
+For a specific secondhand item, compare a market visit with [Karrot pickup or delivery](/blog/how-to-use-karrot-danggeun-korea-favorite-second-hand-app-2026).
+
 ## Save the street area, then return to the station
 
 [Visit Seoul’s Dongmyo walking guide](https://english.visitseoul.net/editorspicks/2026-Dongmyotour/ENNn7nirg) identifies Exit 3 and the area at **서울특별시 종로구 숭인동 102-8**. [VisitKorea’s flea-market comparison](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=222319) also points to Exit 3 for the same market area. It gives a different street address within the lanes. Use the exit and market name together so you can recognize the area after leaving the station.

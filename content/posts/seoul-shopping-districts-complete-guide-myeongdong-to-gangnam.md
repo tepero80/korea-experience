@@ -59,6 +59,8 @@ Ask for price, quantity, fitting rules and return conditions before paying. If a
 
 Use the [Namdaemun shopping guide](/blog/namdaemun-market-bargaining-tips) to compare individual items with bundle prices and confirm payment at the stall.
 
+Before boarding, [compare Gangnam Station and Goto Mall](/blog/underground-shopping-streets-complete-guide): they are different underground shopping stops.
+
 ## Gangnam Station: keep it distinct from COEX
 
 The [Gangnam Station underground shopping listing](https://english.visitseoul.net/shopping/Gangnam-Station-Underground-Shopping-Center/ENP017740) gives **396 Gangnam-daero** and listed hours **09:00–22:00**, with merchant variation. This is a specific underground area, not every shop in Gangnam.
@@ -66,6 +68,8 @@ The [Gangnam Station underground shopping listing](https://english.visitseoul.ne
 Choose it when it fits a nearby appointment, meal or hotel route. If your plan is around Samseong/COEX, compare that separate area instead.
 
 For a mostly indoor stop in Yeouido, [plan one shopping or food stop at The Hyundai Seoul](/blog/shopping-at-the-hyundai-seoul-a-guide-to-korea-coolest-mall-2026) and check the floor and return route before crossing town.
+
+For a longer stay, compare the [delivered cost of furniture](/blog/furniture-shopping-ikea-vs-korean-brands) before choosing a seller.
 
 ## Turn the choice into a manageable route
 

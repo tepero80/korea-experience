@@ -37064,5 +37064,925 @@
     "changeType": "rewrite",
     "launchOrder": 1436,
     "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-bbq-by-province-jeju-vs-hanu-2026": {
+    "id": "guide:korean-bbq-by-province-jeju-vs-hanu-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose black pork if you are already visiting Jeju or hanu if your route takes you through Hoengseong. Read the weight, minimum order and included sides before comparing totals.",
+    "forWhom": "Travelers adding a regional barbecue meal to an existing Korea itinerary",
+    "conditions": [
+      "Jeju black pork and Hoengseong hanu are different meats.",
+      "Minimum portions and table charges vary by shop."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Regional Korean BBQ: Jeju Black Pork or Hoengseong Hanu?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-jeju-pork",
+        "title": "VISITKOREA: Jeju black pork",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221319",
+        "note": "Regional preparations and the markets that serve them.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-hanu-hoengseong",
+        "title": "VISITKOREA: Hoengseong hanu",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221268",
+        "note": "Butcher-restaurants, meat selection and possible table-setting fee.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Compare the order weight and what the table charge covers."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1437,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "makgeolli-brewery-tastings-2026": {
+    "id": "guide:makgeolli-brewery-tastings-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Geumpung for a scheduled Ganghwa brewery experience or Sansawon for a Pocheon liquor museum visit. Verify tasting, language, eligibility and the return trip before booking.",
+    "forWhom": "Adult visitors considering a day trip for a traditional rice wine experience",
+    "conditions": [
+      "A tasting, a museum ticket and a brewing class may be separate.",
+      "Choose a sober driver or arrange the return trip without driving."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Makgeolli Tastings in Korea: A Brewery Session or Museum?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-sansawon",
+        "title": "VISITKOREA: regional makgeolli and Sansawon",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221402",
+        "note": "The Pocheon museum and brewery address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-geumpung",
+        "title": "VISITKOREA: Geumpung Brewery",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=249&menuSn=923&vcontsId=199699",
+        "note": "Ganghwa brewery, tasting example and address.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the schedule and what the ticket includes."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1438,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "tongyeong-oyster-specialties-coastal-delicacies": {
+    "id": "guide:tongyeong-oyster-specialties-coastal-delicacies",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start near Tongyeong Jungang Market and look for steamed oysters, oyster pancakes or oyster and rice soup. Ask whether a set includes any raw oysters and confirm the number of portions.",
+    "forWhom": "Visitors planning a seafood lunch in Tongyeong",
+    "conditions": [
+      "Individual market stalls and restaurants set their own hours.",
+      "Choose fully cooked seafood and ask staff about mixed raw and cooked sets."
+    ],
+    "regions": [
+      "tongyeong"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Tongyeong Oysters: What to Order Near Jungang Market"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-tongyeong-oyster",
+        "title": "VISITKOREA: Tongyeong oyster dishes",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=221355",
+        "note": "Oyster menu names and the area near Gangguan Harbor.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-tongyeong-jungang",
+        "title": "VISITKOREA: Tongyeong Jungang Market",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=77738",
+        "note": "Market address, nearby harbor and Dongpirang Village.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "cdc-vibrio-food",
+        "title": "CDC: shellfish and Vibrio prevention",
+        "url": "https://www.cdc.gov/vibrio/prevention/index.html",
+        "note": "Food safety guidance on raw or undercooked oysters.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm whether the set includes raw or cooked dishes."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1439,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "how-to-order-korean-fried-chicken-portions-sauces-sides-and-delivery-terms": {
+    "id": "guide:how-to-order-korean-fried-chicken-portions-sauces-sides-and-delivery-terms",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Pick bone-in or boneless first. Then choose plain fried or seasoned chicken, read what a half-and-half option actually combines and check the total and pickup location.",
+    "forWhom": "International visitors ordering Korean fried chicken for a small group",
+    "conditions": [
+      "Piece counts and sides vary by menu and branch.",
+      "Half-and-half usually describes a flavor combination. Confirm the offered cuts and amount."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Order Korean Fried Chicken: Bone, Sauce and Portion Choices"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "bbq-boneless-half",
+        "title": "BBQ Chicken: boneless half and half",
+        "url": "https://mt.bbq.co.kr/menu/menuView.asp?midx=975",
+        "note": "A published shop menu example with plain and seasoned boneless chicken.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the cut, flavors and actual amount in the order."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1440,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-wine-culture-domestic-and-imported": {
+    "id": "guide:korean-wine-culture-domestic-and-imported",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose Yeongdong to browse local producers in one place, Muju to learn about meoru wild grape wine, or a nearby wine bar if you only want one glass.",
+    "forWhom": "Adult travelers curious about domestically made grape and fruit wine",
+    "conditions": [
+      "Opening, admission and tasting availability vary by venue and date.",
+      "Check where the bottle was produced if buying a locally made wine matters to you."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Wine: Compare a Yeongdong or Muju Tasting Stop"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-yeongdong-wine",
+        "title": "VISITKOREA: Yeongdong Wine Tunnel",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=192451",
+        "note": "Wine culture hall, local wine shop and Korean address.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-muju-wine",
+        "title": "Muju County: Meoru Wine Cave",
+        "url": "https://tour.muju.go.kr/cave/contents.do?key=367",
+        "note": "The cave, wild grape wine, and the visitor information.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask where the wine was made and whether tasting is included."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1441,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "traditional-instrument-workshops-gayageum-and-janggu": {
+    "id": "guide:traditional-instrument-workshops-gayageum-and-janggu",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a named instrument lesson and confirm the date, language and equipment before booking.",
+    "forWhom": "Beginners looking for a Korean music workshop",
+    "conditions": [
+      "Class dates and participation terms vary.",
+      "A general music experience may not include the instrument you want."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Try a Korean Instrument: Gayageum or Janggu?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-gayageum-class-w19",
+        "title": "VISITKOREA: Gayageum One-day Class",
+        "url": "https://english.visitkorea.or.kr/svc/thingsToGo/tvExhibit/tourGdsPrView.do?gdsId=2000367",
+        "note": "Example Bukchon lesson includes an instrument, instruction and hanbok; provider must confirm availability and terms.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-nagan-instrument-w19",
+        "title": "VISITKOREA: Naganeupseong Walled Town",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=80266",
+        "note": "Lists gayageum and musical instrument experiences and directs visitors to call about participation.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Class dates and participation terms vary."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1442,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-mask-dance-drama-where-to-watch": {
+    "id": "guide:korean-mask-dance-drama-where-to-watch",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Hahoe Village Mask Dance Theater as a starting point and confirm the performance on your date.",
+    "forWhom": "Travelers who want to see Korean mask dance",
+    "conditions": [
+      "Performance schedules and language support can change.",
+      "Village admission and the performance may have separate conditions."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Mask Dance: Where to Watch in Andong"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-hahoe-mask-w19",
+        "title": "VISITKOREA: Hahoe Byeolsingut Tallori",
+        "url": "https://english.visitkorea.or.kr/svc/sp/kperformance/contentsDBView.do?dataSetId=140&menuSn=894&vcontsId=103803",
+        "note": "Identifies the Hahoe village theatre, performance format and typical running time.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-hahoe-trip-w19",
+        "title": "VISITKOREA: Andong night tour",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=319&menuSn=1054&page=1&previewYn=Y&sContsTtl=&sort=regDt&vcontsId=1594195",
+        "note": "Gives village address and advises checking changing schedules and admission.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Performance schedules and language support can change."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1443,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-public-bath-visit-guide-etiquette-facilities-and-accessibility": {
+    "id": "guide:korean-public-bath-visit-guide-etiquette-facilities-and-accessibility",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Check the facility’s separate bathing and shared sauna rules, plus access, before paying.",
+    "forWhom": "First-time bathhouse visitors",
+    "conditions": [
+      "Facilities and bathing rules differ by venue.",
+      "Step-free access and assistance must be confirmed directly."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Public Baths: What to Expect Before You Go"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-jjimjil-w19",
+        "title": "VISITKOREA: Korean jjimjilbangs",
+        "url": "https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?vcontsId=217505",
+        "note": "Describes lockers, separate bathing areas and shared relaxation spaces at examples; published 2024.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-cimer-w19",
+        "title": "VISITKOREA: Paradise City CIMER",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=193081",
+        "note": "Distinguishes pool and jjimjil zones and describes sauna clothing rental in a dated example.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Facilities and bathing rules differ by venue."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1444,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "family-friendly-attractions-theme-parks-and-museums": {
+    "id": "guide:family-friendly-attractions-theme-parks-and-museums",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a reserved museum session for a shorter indoor outing or a theme park for a longer ride-focused day.",
+    "forWhom": "Families choosing a child-friendly outing",
+    "conditions": [
+      "Museum sessions and theme park operations can change.",
+      "Check age and height requirements for each activity."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korea With Kids: Museum or Theme Park?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-child-museum-w19",
+        "title": "VISITKOREA: National Museum of Korea Children’s Museum",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=87982",
+        "note": "Describes hands-on exhibits, sessions and advance reservation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-everland-w19",
+        "title": "VISITKOREA: Everland",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=111173",
+        "note": "Identifies Yongin park, themed areas and variable hours and ticket types.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Museum sessions and theme park operations can change."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1445,
+    "heroMediaId": "archive-jamsil-lotte-world-indoor-hall-2018",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Lotte World in Seoul.jpg",
+      "author": "Christophe95",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lotte_World_in_Seoul.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2018-10-05."
+    },
+    "heroCaption": "Lotte World’s indoor hall in Jamsil, photographed with seasonal decorations in October 2018."
+  },
+  "how-korean-webtoons-are-read-platforms-translations-and-visiting-official-pop-up": {
+    "id": "guide:how-korean-webtoons-are-read-platforms-translations-and-visiting-official-pop-up",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Search the official service for your series and language, then verify any event with its organiser.",
+    "forWhom": "Webtoon readers planning a Korea trip",
+    "conditions": [
+      "A series may not be available in every language or region.",
+      "Pop-ups are temporary and entry rules vary."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Webtoons: Read in Translation and Find Official Events"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "webtoon-language-w19",
+        "title": "WEBTOON: English-language catalogue",
+        "url": "https://www.webtoons.com/en/",
+        "note": "Official translated series and genre directory.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-webtoon-event-w19",
+        "title": "VISITKOREA: Korea Manhwa Museum",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=351&vcontsId=215510",
+        "note": "Visitor information and museum address in Bucheon.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "A series may not be available in every language or region."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1446,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "pet-friendly-travel-in-korea-cafes-parks-and-hotels-for-furry-friends-2026": {
+    "id": "guide:pet-friendly-travel-in-korea-cafes-parks-and-hotels-for-furry-friends-2026",
+    "categoryId": "where-to-stay",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Confirm entry and airline requirements first, then ask each property and attraction about your particular animal before booking.",
+    "forWhom": "Travelers planning a Korea trip with a pet",
+    "conditions": [
+      "Pet eligibility and access vary by animal, transport operator and venue."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Traveling Korea With a Pet: Hotels, Cafés and Parks"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave19-pets",
+        "title": "Incheon Airport: arrival and animal quarantine",
+        "url": "https://airport.kr/ap_en/1442/subview.do",
+        "note": "Official agency and inspection starting point for arrival with an animal.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave19-petel",
+        "title": "VISITKOREA: The Petel Premium Suite",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=199801",
+        "note": "Busan pet hotel and café listing; confirm current room availability and animal restrictions.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Pet eligibility and access vary by animal, transport operator and venue."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1447,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "solo-female-travel-in-korea-safety-tips-and-best-neighborhoods-2026": {
+    "id": "guide:solo-female-travel-in-korea-safety-tips-and-best-neighborhoods-2026",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose a property by your actual journeys and entrance, make a return plan, and save emergency contacts; no neighborhood guarantees safety.",
+    "forWhom": "Solo women comparing Seoul bases and preparing for independent travel",
+    "conditions": [
+      "Safety varies by situation and exact location; no neighborhood can be guaranteed safe."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Solo Travel in Seoul: Choosing a Base and Planning a Safe Return"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave19-seoul-emergency",
+        "title": "Seoul Metropolitan Government: Emergency Ready",
+        "url": "https://english.seoul.go.kr/service/living/disaster-evacuation-tips-citizens/emergency-ready-app/",
+        "note": "Emergency Ready app and Seoul’s published emergency and tourist contact numbers.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave19-myeongdong",
+        "title": "VISITKOREA: Myeong-dong",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=88011",
+        "note": "Myeong-dong shopping district and its Line 4 station connection; not a safety ranking.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1448,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "underground-shopping-streets-complete-guide": {
+    "id": "guide:underground-shopping-streets-complete-guide",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Gangnam Station for its station mall or Express Bus Terminal for Goto Mall; they are separate places.",
+    "forWhom": "Travelers choosing an underground shopping stop in Seoul",
+    "conditions": [
+      "Individual shop hours, stock and return terms vary."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Seoul Underground Shopping: Gangnam Station or Goto Mall?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave19-kto-shopping",
+        "title": "Visit Seoul: Goto Mall",
+        "url": "https://english.visitseoul.net/attractions/Goto-Mall/ENP029546",
+        "note": "Goto Mall by Express Bus Terminal Station and its subway connections.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave19-gangnam",
+        "title": "Seoul Facilities Corporation: Gangnam Station Underground Shops",
+        "url": "https://sisul.or.kr/gha/store/info.do?key=2309210001&sc_mallSn=19",
+        "note": "Location and directory for Gangnam Station’s separate mall.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Individual shop hours, stock and return terms vary."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1449,
+    "heroMediaId": "archive-busan-seomyeon-station-entrance-7",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Busan-subway-Seomyeon-station-7-entrance.jpg",
+      "author": "LERK",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Busan-subway-Seomyeon-station-7-entrance.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. Photographed 2009-02-20."
+    },
+    "heroCaption": "Seomyeon Station Exit 7 in Busan, photographed in February 2009."
+  },
+  "k-pop-concert-preparation-in-korea-ticket-verification-venue-entry-and-transit-h": {
+    "id": "guide:k-pop-concert-preparation-in-korea-ticket-verification-venue-entry-and-transit-h",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Read the exact event notice, match your booking and accepted ID, and plan collection, entry and the last useful ride home.",
+    "forWhom": "Travelers holding or preparing to book a Korea concert ticket",
+    "conditions": [
+      "Ticket verification and entry rules are event-specific; the example below does not establish universal requirements."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "K-pop Concert Day in Korea: Ticket, ID and Return Route"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave19-jx",
+        "title": "JX 2026 Incheon concert announcement",
+        "url": "https://weverse.io/kimjaejoong/notice/38661",
+        "note": "Specific 2026 event: purchaser and attendee matching, ID and presale membership verification; rules differ by event.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave19-bts",
+        "title": "Weverse BTS Busan sound-check notice",
+        "url": "https://shop.weverse.io/en/shop/CNY/artists/2/notices/13339",
+        "note": "Specific sound-check event: physical ID, app QR, return to main performance and public-transport advice; not universal concert policy.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1450,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "k-pop-lightstick-guide-official-vs-unofficial": {
+    "id": "guide:k-pop-lightstick-guide-official-vs-unofficial",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Check the artist’s official store and the specific event notice for the supported model, synchronization and allowed items before buying.",
+    "forWhom": "Concertgoers deciding whether to buy or bring a light stick",
+    "conditions": [
+      "Authenticity, supported versions and entry rules depend on the artist and event."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "K-pop Light Sticks: Check Authenticity and Concert Compatibility"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "wave19-enhypen-light",
+        "title": "Weverse: ENHYPEN light stick version support",
+        "url": "https://shop.weverse.io/en/shop/USD/artists/10/notices/8463",
+        "note": "ENHYPEN notice distinguishes wireless stage synchronization support by version after August 2025; not a rule for other artists.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "wave19-txt-light",
+        "title": "Weverse: TXT showcase notice",
+        "url": "https://shop.weverse.io/zh-tw/shop/JPY/artists/3/notices/14809",
+        "note": "Specific showcase recommended an official light stick but did not require one; other events differ.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the details for your own visit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1451,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "furniture-shopping-ikea-vs-korean-brands": {
+    "id": "guide:furniture-shopping-ikea-vs-korean-brands",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Compare the full delivered and assembled cost for the exact piece, not just the shelf price. IKEA’s assembly service depends on eligible furniture delivery; ask each Korean seller for its own written terms.",
+    "forWhom": "Longer-stay visitors furnishing a home in Korea",
+    "conditions": [
+      "Delivery and assembly eligibility vary by address, product and seller.",
+      "Measure the entrance and confirm the delivery date before paying."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buying Furniture in Korea: Compare the Delivered Cost"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "furniture-shopping-ikea-vs-korean-brands-source",
+        "title": "IKEA Korea: assembly service",
+        "url": "https://www.ikea.com/kr/ko/customer-service/services/assembly/",
+        "note": "Korean-language official assembly conditions, checked November 24, 2026.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Compare delivery and assembly together."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1452,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "how-to-use-karrot-danggeun-korea-favorite-second-hand-app-2026": {
+    "id": "guide:how-to-use-karrot-danggeun-korea-favorite-second-hand-app-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Karrot centers on neighborhood listings, while selected 바로구매 listings can appear in nationwide search as the feature rolls out. Confirm that you can use the app and receive the item before arranging a purchase.",
+    "forWhom": "Longer-stay visitors considering a secondhand purchase",
+    "conditions": [
+      "Account verification, available payment methods and rollout can vary.",
+      "A listing and profile do not guarantee an item or transaction is safe."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buying on Karrot in Korea: Local Pickup or Delivery?"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "how-to-use-karrot-danggeun-korea-favorite-second-hand-app-2026-source",
+        "title": "Karrot: nationwide Buy Now rollout",
+        "url": "https://about.daangn.com/company/pr/archive/%EB%8B%B9%EA%B7%BC-%EB%B0%94%EB%A1%9C%EA%B5%AC%EB%A7%A4-%EA%B1%B0%EB%9E%98-%EB%B2%94%EC%9C%84-%EC%A0%84%EA%B5%AD-%ED%99%95%EB%8C%80/",
+        "note": "Official Korean-language announcement of the phased nationwide search for eligible Buy Now listings.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm access and handover first."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1453,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "smart-shopping-at-olive-young-using-the-app-and-maximizing-sales-2026": {
+    "id": "guide:smart-shopping-at-olive-young-using-the-app-and-maximizing-sales-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Check the exact product and eligible coupon in the Korean app, then compare the final price and collection or delivery conditions with the store. Some offers are online-only or require membership.",
+    "forWhom": "Beauty shoppers deciding whether to use a promotion",
+    "conditions": [
+      "Promotions, eligibility and membership benefits can change.",
+      "Korean and Global app offers need not match."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Olive Young App and Sales: Compare the Price You Can Use"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "smart-shopping-at-olive-young-using-the-app-and-maximizing-sales-2026-source",
+        "title": "CJ Olive Young: signature promotions",
+        "url": "https://corp.oliveyoung.com/en/newsroom/editorial/205",
+        "note": "Official explanation of Korean promotions and membership, checked November 24, 2026.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Compare the final eligible price."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1454,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "hanbok-fusion-fashion-where-to-buy-modern-hanbok-for-daily-wear-2026": {
+    "id": "guide:hanbok-fusion-fashion-where-to-buy-modern-hanbok-for-daily-wear-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Start with a garment you can wear in your own wardrobe, compare its actual measurements and care instructions, and verify the seller’s current purchase and delivery terms.",
+    "forWhom": "Travelers buying hanbok-inspired clothing for everyday wear",
+    "conditions": [
+      "Collections, store access and shipping terms change by seller.",
+      "Modern hanbok is a broad design category, not one standardized garment."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buying Modern Hanbok: Choose a Wearable Piece"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "hanbok-fusion-fashion-where-to-buy-modern-hanbok-for-daily-wear-2026-source",
+        "title": "VISITKOREA: Danha and Danha Maison",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=215664",
+        "note": "Danha’s online and appointment options and the Korean address.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Measure the piece you will wear."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1455,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "korean-ceramics-shopping-guide-studio-visits-packing-and-shipping-questions": {
+    "id": "guide:korean-ceramics-shopping-guide-studio-visits-packing-and-shipping-questions",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Icheon Ye’s Park gathers ceramic workshops, some offering experiences. Confirm an individual workshop’s hours, then compare carry-on packing with a written shipping quote before buying.",
+    "forWhom": "Travelers considering a studio-made ceramic purchase",
+    "conditions": [
+      "Individual workshops set their own hours, stock and shipping terms.",
+      "Airline baggage and destination import rules differ."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Buying Korean Ceramics in Icheon: Studio, Packing and Shipping"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "korean-ceramics-shopping-guide-studio-visits-packing-and-shipping-questions-source",
+        "title": "VISITKOREA: Icheon Ye’s Park",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?menuSn=351&vcontsId=187305",
+        "note": "Official tourism listing for the ceramics village and individual workshop closures.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Ask for a written shipping quote."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1456,
+    "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
   }
 }

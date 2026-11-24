@@ -21,6 +21,8 @@ For a first visit, [compare a gugak performance and its ticket conditions](/blog
 
 For the singer-and-drum storytelling tradition, [learn how to choose a pansori performance](/blog/pansori-and-traditional-storytelling-performances).
 
+To play an instrument yourself, [compare gayageum and janggu workshops](/blog/traditional-instrument-workshops-gayageum-and-janggu) before choosing a class.
+
 ## Pick the program and hall together
 
 | Check | What to verify |
