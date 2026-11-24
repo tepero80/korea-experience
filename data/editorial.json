@@ -7418,7 +7418,7 @@
     "id": "transport-gwangju-airport-songjeong",
     "categoryId": "airports-transport",
     "format": "how-to",
-    "checkedAt": "2026-11-23",
+    "checkedAt": "2026-11-24",
     "answer": "Walk about 500 metres outdoors to Airport Station, then take Line 1 toward Pyeongdong for Gwangju-Songjeong Station.",
     "forWhom": "Travelers transferring from Gwangju Airport to an onward train",
     "conditions": [
@@ -7466,15 +7466,22 @@
         "id": "gwangju-airport-transport",
         "title": "Gwangju Airport accessibility and transport guide",
         "url": "https://www.airport.co.kr/gwangju/cms/frCon/index.do?MENU_ID=250",
-        "checkedAt": "2026-11-23",
+        "checkedAt": "2026-11-24",
         "note": "Outdoor walk to Airport Station and taxi stand; Korean."
       },
       {
         "id": "gwangju-metro-route",
         "title": "Gwangju Transportation Corporation Line 1 route",
         "url": "https://www.grtc.co.kr/cybereng",
-        "checkedAt": "2026-11-23",
+        "checkedAt": "2026-11-24",
         "note": "Station order and direction; verify live service."
+      },
+      {
+        "id": "gwangju-metro-first-last-trains",
+        "title": "Gwangju Transportation Corporation: Line 1 stations and first and last trains",
+        "url": "https://www.grtc.co.kr/subway/contents/directionOfSotae",
+        "checkedAt": "2026-11-24",
+        "note": "Lists station order, both directions and published first and last train information. Use the current operator timetable for your travel date."
       }
     ],
     "shareFacts": [

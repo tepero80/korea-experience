@@ -4,6 +4,7 @@ date: '2026-04-15'
 excerpt: >-
   Start with Sounds Forest on level 5 and check event access before planning
   photos or waiting in a queue.
+image: /images/editorial/archive-seoul-yeouinaru-exit-1-2025-1280.webp
 category: Shopping & K-Beauty
 author: Korea Experience Editorial
 deepDive: true
@@ -11,7 +12,7 @@ deepDiveOrder: 129
 updated: '2026-11-24'
 ---
 
-**Start on level 5 if the garden is your reason for going.** Visit Seoul identifies **Sounds Forest** as the indoor garden inside The Hyundai Seoul. Pop-up exhibitions can change the layout, access and photo opportunities, so check the floor and current event before you go.
+**Start on level 5 if the garden is your reason for going.** The store’s [official floor guide](https://thehyundaiseoul.ehyundai.com/store/floor-guide) lists **Sounds Forest** on 5F, and [Visit Seoul](https://english.visitseoul.net/shopping/The-Hyundai-Seoul/ENP037170) identifies it as the indoor garden. Pop-up exhibitions can change the layout, access and photo opportunities, so check the floor and current event before you go.
 
 | What you want | Where to start |
 | --- | --- |
@@ -22,8 +23,6 @@ updated: '2026-11-24'
 ## Choose your station
 
 [Visit Seoul lists Yeouinaru Station on Line 5, Exit 1](https://english.visitseoul.net/shopping/The-Hyundai-Seoul/ENP037170) for the street-side approach. At **Yeouido Station, Lines 5 and 9**, [the department store’s directions](https://thehyundaiseoul.ehyundai.com/about/location) identify a moving walkway near Exit 3 to the B2 entrance and an above-ground route from Exit 4 to the main entrance. Check station signs and choose the route that works for your mobility needs.
-
-<GuidePhoto id="archive-seoul-yeouinaru-exit-1-2025" caption="Yeouinaru Station Exit 1 in July 2025. This is the street-side Line 5 approach listed by Visit Seoul for The Hyundai Seoul." />
 
 Find **더현대 서울 서울 영등포구 여의대로 108**. [Naver Map](https://map.naver.com/p/search/%EB%8D%94%ED%98%84%EB%8C%80%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%97%AC%EC%9D%98%EB%8C%80%EB%A1%9C%20108) · [Kakao Map](https://map.kakao.com/link/search/%EB%8D%94%ED%98%84%EB%8C%80%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%97%AC%EC%9D%98%EB%8C%80%EB%A1%9C%20108) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EB%8D%94%ED%98%84%EB%8C%80%20%EC%84%9C%EC%9A%B8%20%EC%84%9C%EC%9A%B8%20%EC%98%81%EB%93%B1%ED%8F%AC%EA%B5%AC%20%EC%97%AC%EC%9D%98%EB%8C%80%EB%A1%9C%20108)
 

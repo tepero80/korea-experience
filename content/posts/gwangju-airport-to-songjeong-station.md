@@ -1,7 +1,7 @@
 ---
 title: "Gwangju Airport to Gwangju-Songjeong Station by Subway"
 date: '2026-11-09'
-updated: '2026-11-23'
+updated: '2026-11-24'
 excerpt: "Find Airport Station, choose the right Line 1 direction and plan your onward train connection."
 category: airports-transport
 image: /images/editorial/gwangju-airport-terminal-2025-1280.webp
@@ -12,9 +12,9 @@ tags:
 draft: false
 ---
 
-**For:** travelers transferring from Gwangju Airport to Gwangju-Songjeong rail station. **Information checked:** 23 November 2026.
+**For:** travelers transferring from Gwangju Airport to Gwangju-Songjeong rail station. **Information checked:** 24 November 2026.
 
-Airport Station (공항역) is outside the terminal. The [airport’s transport guidance](https://www.airport.co.kr/gwangju/cms/frCon/index.do?MENU_ID=250) says to leave the departure gate and follow the pavement to the right for about **500 metres**. Allow extra time with bags, in bad weather or if walking is difficult. To locate the passenger terminal, use [Gwangju Airport in Google Maps](https://www.google.com/maps/search/?api=1&query=%EA%B4%91%EC%A3%BC%EA%B3%B5%ED%95%AD%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%83%81%EB%AC%B4%EB%8C%80%EB%A1%9C%20420-25).
+Airport Station (공항역) is outside the terminal. The [airport’s transport guidance](https://www.airport.co.kr/gwangju/cms/frCon/index.do?MENU_ID=250) says to leave the departure gate and follow the pavement to the right for about **500 metres**. Allow extra time with bags, in bad weather or if walking is difficult.
 
 ## Choose the right direction
 
@@ -22,7 +22,7 @@ Airport Station (공항역) is outside the terminal. The [airport’s transport 
 - **For central Gwangju:** Use the opposite direction and check whether your chosen train and stop reach your accommodation. The [operator’s Line 1 route](https://www.grtc.co.kr/cybereng) lists Culture Center and other central stations.
 - **For a door-to-door trip:** The airport describes a taxi stand across the pedestrian crossing from the terminal. Confirm the fare and payment method with the driver when needed.
 
-The station photo is historical and is not a platform-direction guide. Use current station signs and the operator’s route information. Check service hours and the last train for your actual date, and leave time for the outdoor walk, ticketing and transfer to the onward rail service. No connection time or fare is guaranteed here.
+The platform sign below was photographed in 2019. Use current station signs and the operator’s route information. Check service hours and the last train for your actual date, and leave time for the outdoor walk, ticketing and transfer to the onward rail service. No connection time or fare is guaranteed here.
 
 <GuidePhoto id="transport-gwangju-airport-station-photo" caption="Airport Station platform sign in 2019. Follow current platform displays for the train toward Pyeongdong." />
 
@@ -30,4 +30,14 @@ The station photo is historical and is not a platform-direction guide. Use curre
 
 Check your flight confirmation: **Gwangju Airport and Muan International Airport are different airports**. If you need step-free access, ask airport and transit staff about the current outdoor route and station facilities; this guide has not independently assessed the complete path. A taxi may be a better fit if the walk or service hours do not suit your trip.
 
-Find [광주송정역 in Naver Map](https://map.naver.com/p/search/%EA%B4%91%EC%A3%BC%EC%86%A1%EC%A0%95%EC%97%AD), and save your onward rail details in the [itinerary board](/tools/itinerary). If you are staying in Gwangju with children, continue with the [Gwangju museum family guide](/blog/gwangju-national-museum-children-visit).
+## Open the right stop on your map
+
+The terminal, the subway entrance and the railway station are separate stops. Open the one you need at each step.
+
+| Stop | Maps |
+| --- | --- |
+| **Gwangju Airport terminal** (광주공항) | [Naver Map](https://map.naver.com/p/search/%EA%B4%91%EC%A3%BC%EA%B3%B5%ED%95%AD%20%EC%97%AC%EA%B0%9D%ED%84%B0%EB%AF%B8%EB%84%90%20%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%83%81%EB%AC%B4%EB%8C%80%EB%A1%9C%20420-25) · [Kakao Map](https://map.kakao.com/link/search/%EA%B4%91%EC%A3%BC%EA%B3%B5%ED%95%AD%20%EC%97%AC%EA%B0%9D%ED%84%B0%EB%AF%B8%EB%84%90%20%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%83%81%EB%AC%B4%EB%8C%80%EB%A1%9C%20420-25) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EA%B4%91%EC%A3%BC%EA%B3%B5%ED%95%AD%20%EC%97%AC%EA%B0%9D%ED%84%B0%EB%AF%B8%EB%84%90%20%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%83%81%EB%AC%B4%EB%8C%80%EB%A1%9C%20420-25) |
+| **Airport subway station** (공항역, Line 1) | [Naver Map](https://map.naver.com/p/search/%EA%B4%91%EC%A3%BC%20%EB%8F%84%EC%8B%9C%EC%B2%A0%EB%8F%84%201%ED%98%B8%EC%84%A0%20%EA%B3%B5%ED%95%AD%EC%97%AD%20%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC) · [Kakao Map](https://map.kakao.com/link/search/%EA%B4%91%EC%A3%BC%20%EB%8F%84%EC%8B%9C%EC%B2%A0%EB%8F%84%201%ED%98%B8%EC%84%A0%20%EA%B3%B5%ED%95%AD%EC%97%AD%20%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EA%B4%91%EC%A3%BC%20%EB%8F%84%EC%8B%9C%EC%B2%A0%EB%8F%84%201%ED%98%B8%EC%84%A0%20%EA%B3%B5%ED%95%AD%EC%97%AD%20%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC) |
+| **Gwangju-Songjeong railway station** (광주송정역) | [Naver Map](https://map.naver.com/p/search/%EA%B4%91%EC%A3%BC%EC%86%A1%EC%A0%95%EC%97%AD%20KTX%20%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%83%81%EB%AC%B4%EB%8C%80%EB%A1%9C%20201) · [Kakao Map](https://map.kakao.com/link/search/%EA%B4%91%EC%A3%BC%EC%86%A1%EC%A0%95%EC%97%AD%20KTX%20%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%83%81%EB%AC%B4%EB%8C%80%EB%A1%9C%20201) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EA%B4%91%EC%A3%BC%EC%86%A1%EC%A0%95%EC%97%AD%20KTX%20%EA%B4%91%EC%A3%BC%20%EA%B4%91%EC%82%B0%EA%B5%AC%20%EC%83%81%EB%AC%B4%EB%8C%80%EB%A1%9C%20201) |
+
+Save your onward rail details in the [itinerary board](/tools/itinerary). If you are staying in Gwangju with children, continue with the [Gwangju museum family guide](/blog/gwangju-national-museum-children-visit).

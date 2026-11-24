@@ -2,8 +2,8 @@
 title: 'Jeonju Hanji: Visit the Museum or Try a Paper Craft'
 date: 2026-02-02T00:00:00.000Z
 excerpt: >-
-  Choose a papermaking visit in Palbok or a hanji craft in the Hanok Village.
-  Confirm museum access before traveling.
+  Book a hanji papermaking session at the Jeonju Millennium Hanji Center, or
+  choose a shorter walk-in paper craft in the Hanok Village.
 category: Travel & Tourism
 author: Korea Experience Editorial
 tags:
@@ -18,12 +18,21 @@ featured: false
 updated: '2026-11-24'
 ---
 
-**Choose by what you want to do.** For a visit about making hanji from pulp, contact Jeonju Hanji Museum in Palbok first. For a short craft using prepared paper, check the Jeonju Crafts Exhibition Hall in the Hanok Village.
+**Book the Jeonju Millennium Hanji Center if you want to make a sheet of paper.** For a shorter craft using prepared hanji, check the Jeonju Crafts Exhibition Hall in the Hanok Village. The Palbok museum is another option once you confirm it is receiving visitors.
 
 | Goal | Where to check |
 | --- | --- |
-| Make a sheet | The [Jeonju Hanji Museum](https://www.hanjimuseum.co.kr/main/) publishes opening hours. Call first to ask whether the exhibition and the hands-on paper session can be visited on your date. |
-| Try a craft | The [Jeonju Crafts Exhibition Hall program](https://tour.jeonju.go.kr/eng/index.jeonju?facSid=RE_0001005&menuCd=DOM_000000201010001000) lists a hanji lamp craft. It describes on-site registration and limited materials. Check the session and current price before going. |
+| Make a sheet | The [Jeonju Millennium Hanji Center](https://www.jmhm.kr/main/?menu=86) lists a hands-on session and requires advance booking. |
+| Make a paper lamp | The [city’s craft-hall listing](https://tour.jeonju.go.kr/index.jeonju?facSid=RE_0000852&menuCd=DOM_000000101011001000) lists an LED hanji lamp at **₩8,000** with on-site registration while materials last. |
+| See a museum | The [Jeonju Hanji Museum](https://www.hanjimuseum.co.kr/main/) publishes regular opening hours. Call the Palbok museum to check the city’s closure notice before making the detour. |
+
+## Book a papermaking session at the Hanji Center
+
+The center lists sessions on **Thursday, Friday and Saturday at 10:00, 14:00 and 16:00**, lasting about **50 minutes**. Participants are adults or children of elementary-school age and older. The program includes forming and drying a sheet. Event dates and holidays can affect the schedule.
+
+Use the [center’s reservation page](https://www.jmhm.kr/main/?menu=87). Check whether your date has a session. For groups of seven or more, or if you need language support or help with the booking form, contact the center at **[063-281-1630](tel:+82632811630)**. Check the current fee with the center before booking.
+
+The center is at **전주시 완산구 흑석로 85 전주천년한지관**. [Naver Map](https://map.naver.com/p/search/%EC%A0%84%EC%A3%BC%EC%B2%9C%EB%85%84%ED%95%9C%EC%A7%80%EA%B4%80%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EC%99%84%EC%82%B0%EA%B5%AC%20%ED%9D%91%EC%84%9D%EB%A1%9C%2085) · [Kakao Map](https://map.kakao.com/link/search/%EC%A0%84%EC%A3%BC%EC%B2%9C%EB%85%84%ED%95%9C%EC%A7%80%EA%B4%80%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EC%99%84%EC%82%B0%EA%B5%AC%20%ED%9D%91%EC%84%9D%EB%A1%9C%2085) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EC%A0%84%EC%A3%BC%EC%B2%9C%EB%85%84%ED%95%9C%EC%A7%80%EA%B4%80%20%EC%A0%84%EC%A3%BC%EC%8B%9C%20%EC%99%84%EC%82%B0%EA%B5%AC%20%ED%9D%91%EC%84%9D%EB%A1%9C%2085)
 
 ## Jeonju Hanji Museum in Palbok
 
@@ -39,4 +48,4 @@ Find the craft hall at **전주시 완산구 태조로 15 전주공예품전시�
 
 If the program is full or the hall is closed, continue with the [Gyeonggijeon to Omokdae walking plan](/blog/jeonju-gyeonggijeon-omokdae-walking-route). If you are arriving by train, check [which route to take from Jeonju Station](/blog/jeonju-station-to-hanok-village) before you go.
 
-Museum hours, city closure wording and craft options checked against the linked official pages on **November 24, 2026**.
+The reservation requirements, museum access notice and craft listing were checked on **November 24, 2026**.

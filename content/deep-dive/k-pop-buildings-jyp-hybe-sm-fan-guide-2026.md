@@ -4,6 +4,7 @@ date: '2026-02-11'
 excerpt: >-
   Compare an outdoor HYBE stop, an office address and public destinations like
   KWANGYA and HiKR Ground.
+image: /images/editorial/seoul-hikr-ground-public-landing-2024-1280.webp
 category: K-Culture
 author: Korea Experience Editorial
 deepDive: true

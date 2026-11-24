@@ -9943,7 +9943,8 @@
       "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "note": "Cropped, resized and converted to WebP. The image records the scene at the time of photography."
     },
-    "capturedAt": "2025-07-27"
+    "capturedAt": "2025-07-27",
+    "caption": "Yeouinaru Station Exit 1 in July 2025. Visit Seoul lists this street-side approach for The Hyundai Seoul. Follow the store’s floor directory to the indoor garden."
   },
   {
     "id": "archive-seoraksan-rocky-valley-autumn-2015",
@@ -10606,5 +10607,51 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
     },
     "caption": "World Food Street in Itaewon in December 2022. Check the specific restaurant, its current menu and how it describes its halal options before visiting."
+  },
+  {
+    "id": "seoul-seongsu-yeonmujang-retail-street-2026",
+    "src": "/images/editorial/seoul-seongsu-yeonmujang-retail-street-2026-1280.webp",
+    "srcSet": "/images/editorial/seoul-seongsu-yeonmujang-retail-street-2026-640.webp 640w, /images/editorial/seoul-seongsu-yeonmujang-retail-street-2026-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Pedestrians and shops on Yeonmujang-gil in Seongsu, Seoul",
+    "focal": "51% 64%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:%EC%84%B1%EC%88%98_%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8_%EA%B1%B0%EB%A6%AC6.jpg",
+    "originalHash": "8cf74c76a8b3d6444cce9e6f4fa6fa5c7d296407a9ec4a5dab46d1b496d65368",
+    "capturedAt": "2026-05-23",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Tjwlgns",
+      "title": "성수 연무장길 거리6.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%84%B1%EC%88%98_%EC%97%B0%EB%AC%B4%EC%9E%A5%EA%B8%B8_%EA%B1%B0%EB%A6%AC6.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Yeonmujang-gil in Seongsu in May 2026. This is the surrounding shopping district. Use the address below for the ADER Seongsu Space entrance."
+  },
+  {
+    "id": "seoul-hikr-ground-public-landing-2024",
+    "src": "/images/editorial/seoul-hikr-ground-public-landing-2024-1280.webp",
+    "srcSet": "/images/editorial/seoul-hikr-ground-public-landing-2024-640.webp 640w, /images/editorial/seoul-hikr-ground-public-landing-2024-1280.webp 900w",
+    "width": 900,
+    "height": 675,
+    "alt": "Escalators, glass railings and tall windows inside Seoul’s HiKR Ground",
+    "focal": "50% 51%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:HiKR_Ground,_July_24,_2024_04.jpg",
+    "originalHash": "d036b0b68a89e860c405be7a6bfd332eb1d04ac2d18afb011c4aca6cf6d52d64",
+    "capturedAt": "2024-07-24",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Zero guk",
+      "title": "HiKR Ground, July 24, 2024 04.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:HiKR_Ground,_July_24,_2024_04.jpg",
+      "license": "CC BY-SA 2.0 Korea",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/kr/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0 Korea. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Inside HiKR Ground, a public visitor venue in central Seoul, in July 2024. Check the current floor program before going. HYBE and JYP are separate office stops."
   }
 ]
