@@ -26,6 +26,8 @@ Use the **operated by** line on your booking, especially for a codeshare. [Korea
 
 If a flight, operator or medical situation changes, ask who must be notified and whether your approval or assistance request needs to be updated. Keep the airline’s response and the clinic’s contact somewhere you can find offline.
 
+Use the [return and follow-up checklist](/blog/planning-post-procedure-travel-from-korea-questions-to-ask-your-treating-clinici) to write down who handles each visit and how your records will reach the clinician at home.
+
 ## Keep a practical fallback for a changed departure
 
 Check a room extension, the cost and timing of a new flight, and who will handle a missed connection. If symptoms change while you are deciding, contact your treating team or seek urgent care as appropriate. Ask about costs in writing before changing plans where possible. Our [insurance checklist for planned care](/blog/medical-tourism-insurance-for-korea) lists the expenses to ask an insurer about.

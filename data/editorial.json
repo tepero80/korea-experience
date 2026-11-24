@@ -50259,5 +50259,201 @@
     "changeType": "rewrite",
     "launchOrder": 1701,
     "heroOmissionReason": "The examples and checklist explain the decision without an illustrative cover."
+  },
+  "choosing-a-registered-medical-institution-in-korea-official-verification-steps-f": {
+    "id": "guide:choosing-a-registered-medical-institution-in-korea-official-verification-steps-f",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask for the exact Korean name and address of the clinic, plus the agency’s legal name if one is arranging your visit. Check each entity separately and confirm that the location matches your booking before paying.",
+    "forWhom": "International patients checking a Korean provider or an agency before a consultation.",
+    "conditions": [
+      "This is a registration check. Confirm the branch, service and responsible clinician directly with the provider."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "healthcare"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "oct-patient-register-law",
+        "title": "Korea medical tourism registration law, Article 6",
+        "url": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1029945827",
+        "checkedAt": "2026-11-25",
+        "note": "Defines separate registration requirements for providers and facilitators."
+      },
+      {
+        "id": "oct-patient-register-search",
+        "title": "Medical Korea: Registered institution and facilitator lookup",
+        "url": "https://www.medicalkorea.or.kr/korp/main.do",
+        "checkedAt": "2026-11-25",
+        "note": "The Korean lookup includes separate institution and facilitator categories."
+      },
+      {
+        "id": "oct-patient-info-center",
+        "title": "Medical Korea Information Center",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "checkedAt": "2026-11-25",
+        "note": "Direct contact for information and assistance about care in Korea."
+      }
+    ],
+    "shareFacts": [
+      "Verify the clinic and booking agent as separate entities before paying a deposit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1702,
+    "heroOmissionReason": "The examples and checklist explain the decision without an illustrative cover."
+  },
+  "medical-records-for-international-patients-in-korea-translation-consent-and-copi": {
+    "id": "guide:medical-records-for-international-patients-in-korea-translation-consent-and-copi",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask your treating institution which documents it can release, which identification it needs and who may collect them. If you will leave Korea first, confirm the paperwork and delivery method while you can still contact the treating team.",
+    "forWhom": "Patients who need hospital records after leaving Korea or want to authorize someone to collect them.",
+    "conditions": [
+      "Further documents depend on the request, the relationship and the reason consent may be unavailable. Confirm the current official forms with the facility."
+    ],
+    "regions": [],
+    "stages": [
+      "departure"
+    ],
+    "interests": [
+      "healthcare",
+      "planning"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "oct-patient-records-law",
+        "title": "Korean Medical Service Act, Article 21",
+        "url": "https://law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1007235937",
+        "checkedAt": "2026-11-25",
+        "note": "Patient requests, limits and specific exceptions for disclosure to another person."
+      },
+      {
+        "id": "oct-patient-records-rule",
+        "title": "Korean Medical Service Act Enforcement Rule, Article 13-3",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1030909323",
+        "checkedAt": "2026-11-25",
+        "note": "Identity checks and separate documents for eligible relatives and designated representatives."
+      },
+      {
+        "id": "oct-patient-snuh-records",
+        "title": "Seoul National University Hospital: Medical Records and Certificates",
+        "url": "https://www.snuh.org/global/en/patients/EN02005.do",
+        "checkedAt": "2026-11-25",
+        "note": "SNUH lists record types and explains its own requests and English certificates."
+      }
+    ],
+    "shareFacts": [
+      "Confirm the document, authorization forms and secure delivery before leaving Korea."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1703,
+    "heroOmissionReason": "The examples and checklist explain the decision without an illustrative cover."
+  },
+  "medical-tourism-consultation-checklist-questions-about-clinician-interpreter-and": {
+    "id": "guide:medical-tourism-consultation-checklist-questions-about-clinician-interpreter-and",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-25",
+    "answer": "Book time with the clinician who can explain the proposed care. Get the provider’s name, consultation language, itemized estimate and follow-up arrangements in writing. Confirm which services the deposit actually reserves before you pay.",
+    "forWhom": "International visitors preparing for a clinic consultation in Korea.",
+    "conditions": [
+      "A clinician must assess your case. The consent rule below applies to the procedures and exceptions described in the law."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "healthcare",
+      "planning"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "oct-patient-consent-law",
+        "title": "Korean Medical Service Act, Article 24-2",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1034548493",
+        "checkedAt": "2026-11-25",
+        "note": "Explanation and consent requirements for defined procedures and an urgent exception."
+      },
+      {
+        "id": "oct-patient-register-law",
+        "title": "Korea medical tourism registration law, Article 6",
+        "url": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1029945827",
+        "checkedAt": "2026-11-25",
+        "note": "Defines separate registration requirements for providers and facilitators."
+      },
+      {
+        "id": "oct-patient-info-center",
+        "title": "Medical Korea Information Center",
+        "url": "https://www.medicalkorea.or.kr/en/convenient",
+        "checkedAt": "2026-11-25",
+        "note": "Direct contact for information and assistance about care in Korea."
+      }
+    ],
+    "shareFacts": [
+      "Confirm the clinician, consent language, written price and follow-up before paying."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1704,
+    "heroOmissionReason": "The examples and checklist explain the decision without an illustrative cover."
+  },
+  "planning-post-procedure-travel-from-korea-questions-to-ask-your-treating-clinici": {
+    "id": "guide:planning-post-procedure-travel-from-korea-questions-to-ask-your-treating-clinici",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "checkedAt": "2026-11-25",
+    "answer": "Show the treating team your return itinerary. Ask which reviews must happen in Korea, when your clinician can advise on travel and who will answer questions after you leave. Ask the receiving provider at home what records it needs.",
+    "forWhom": "Travelers planning a return journey after receiving care in Korea.",
+    "conditions": [
+      "Follow-up and fitness to travel depend on your clinical assessment. Your operating airline has its own paperwork and assistance requirements."
+    ],
+    "regions": [],
+    "stages": [
+      "departure"
+    ],
+    "interests": [
+      "healthcare",
+      "planning"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "oct-patient-aftercare",
+        "title": "NHS: Going Abroad for Medical Treatment",
+        "url": "https://www.nhs.uk/using-the-nhs/healthcare-abroad/going-abroad-for-treatment/going-abroad-for-medical-treatment/",
+        "checkedAt": "2026-11-25",
+        "note": "Arrange transfer of records and communication between the treatment and follow-up teams."
+      },
+      {
+        "id": "oct-patient-snuh-records",
+        "title": "Seoul National University Hospital: Medical Records and Certificates",
+        "url": "https://www.snuh.org/global/en/patients/EN02005.do",
+        "checkedAt": "2026-11-25",
+        "note": "SNUH lists record types and explains its own requests and English certificates."
+      }
+    ],
+    "shareFacts": [
+      "Before departure, agree who handles each follow-up and how the records will reach them."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1705,
+    "heroOmissionReason": "The examples and checklist explain the decision without an illustrative cover."
   }
 }

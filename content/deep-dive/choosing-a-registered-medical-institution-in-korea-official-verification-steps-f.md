@@ -1,43 +1,33 @@
 ---
-title: "How to Verify a Medical Provider in Korea"
+title: "Verify a Korea Clinic and Its Booking Agent"
 date: 2026-10-13
-excerpt: "Learn what foreign-patient registration does—and does not prove—and how to ask a Korean provider for official details before booking."
+updated: 2026-11-25
+excerpt: "Match a clinic and its booking agency to the right Korean register. Get the legal names, correct branch and written clinical contact before paying."
 category: "Medical Tourism"
-author: "Korea Experience Editorial Team"
+author: Korea Experience Editorial
 deepDive: true
-image: "/images/choosing-a-registered-medical-institution-in-korea-official-verification-steps-f.webp"
 ---
-
-This guide explains how international visitors can check a Korean provider's identity and foreign-patient registration before making an appointment. It is administrative information, not a recommendation of any clinic, a guarantee of clinical quality, or medical advice. If you are considering treatment, confirm credentials and risks directly with the responsible clinician.
 
 ## Understand the two kinds of registration
 
-South Korea's Act on Support for Overseas Expansion of Healthcare System and Attraction of International Patients distinguishes a medical institution that attracts foreign patients from a business that helps attract or arrange those patients. Article 6 sets registration requirements for both, but the requirements differ. The medical-institution provisions include specialty-staffing conditions for relevant departments and medical-malpractice liability insurance or membership in a medical liability mutual-aid association. The attraction-business provisions include guarantee insurance, minimum capital and a domestic office.
+[Article 6 of Korea’s foreign-patient registration law](https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1029945827) sets different registration requirements for medical providers and facilitators. A clinic is the organization that would provide care. A facilitator may arrange appointments or support. Ask which entity will receive each payment and which will provide the service.
 
-A foreign visitor receiving care is not, by that fact alone, proof that the clinic has registered as a foreign-patient attraction institution. Conversely, the attraction registration is not a government endorsement of a particular doctor, procedure, result, price, or patient experience. Treat the registry as one administrative check, not as a quality rating.
+| Entity | What to verify |
+| --- | --- |
+| Clinic | Ask for the Korean legal name, exact branch address and foreign-patient registration details. |
+| Agent | Ask for the agency’s own Korean name, registration details and written service fees. |
+| Clinician | Ask who will assess you, who would treat you and how to contact the team afterward. |
 
 ## Check the legal entity, not just the brand name
 
-Clinic brands, English trading names, and legal business names can differ. Before booking, ask for the provider's exact Korean legal name, address, and—where applicable—its foreign-patient attraction registration information. If an agency or coordinator is arranging the visit, ask for that business's legal name separately; a clinic's registration does not establish that an intermediary is registered.
-
-Use the official Medical Korea foreign-patient information service and the responsible municipal or provincial authority's published information to check the entity. If a search result is ambiguous, contact the official service or local authority and ask which registration record applies. Do not assume that a third-party directory, review page, social-media profile, or English-language advertisement is an official registry.
+In the [official Medical Korea lookup](https://www.medicalkorea.or.kr/korp/main.do), find **유치기관 현황** and enter the Korean name. Select **유치의료기관** for a medical institution or **유치사업자** for a facilitator. Check the details against the branch or company you intend to use. If you cannot identify a match, ask the [Medical Korea Information Center](https://www.medicalkorea.or.kr/en/convenient) or the relevant local authority how to confirm it before sending a deposit or medical records.
 
 ## Ask the clinician direct questions
 
-Before paying a deposit, request the treating clinician's full name and specialty, a written treatment plan, a clear itemized estimate, the interpreter arrangement, follow-up instructions, and the clinic's process for urgent complications. Ask who will actually perform each part of a procedure. Do not rely on a coordinator's statement as a substitute for a direct clinical consultation.
-
-Read consent forms before signing and ask for a translation you understand. Confirm cancellation, refund, and aftercare terms in writing. Avoid pressure to pay immediately or promises of a guaranteed result. If details change between advertising, consultation, and the contract, pause and request clarification.
-
-If a third party will coordinate the visit, use the [medical concierge checklist](/blog/medical-concierge-services-are-they-worth-the-extra-cost-2026) to ask for its written responsibilities and fees.
+Confirm the responsible clinician, what the appointment reserves and whether interpretation is available when options and consent are discussed. Request itemized charges, deposit terms and follow-up information in writing. Use the [medical concierge checklist](/blog/medical-concierge-services-are-they-worth-the-extra-cost-2026) to separate the agency’s booking fees from the clinic’s treatment fees.
 
 ## What a registry cannot tell you
 
-A registration record does not establish that a procedure is appropriate for you, predict its outcome, or settle a dispute about care. It also does not replace checking the responsible clinician's qualifications, understanding the treatment risks, or obtaining independent medical advice where appropriate. If you cannot verify a legal entity or cannot get clear answers, consider postponing the booking.
+A registration record identifies an entity and its administrative status. Ask the clinician about the proposed care, its risks and whether it applies to you. If a seller changes the clinic, branch or legal name, verify the new details before deciding.
 
-For urgent symptoms, use local emergency services rather than waiting for a travel coordinator. Keep copies of estimates, consent documents, receipts, prescriptions, and messages so you can explain what was offered and agreed.
-
-## Sources
-
-- [Act on Support for Overseas Expansion of Healthcare System and Attraction of International Patients, Article 6](https://www.law.go.kr/법령/의료해외진출및외국인환자유치지원에관한법률/제6조)
-- [Medical Korea — official foreign-patient information service](https://www.medicalkorea.or.kr/en/registeredhospitals)
-- [Korea Health Industry Development Institute — International Patient Experience Center](https://www.khidi.or.kr/eps)
+<span id="sources"></span>

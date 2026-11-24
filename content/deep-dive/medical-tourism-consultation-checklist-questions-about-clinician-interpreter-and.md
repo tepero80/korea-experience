@@ -1,49 +1,34 @@
 ---
-title: "Medical Tourism Consultation Checklist for Korea"
+title: "Korea Clinic Consultation: Questions Before You Pay"
 date: 2026-10-13
-excerpt: "Use these questions to clarify the treating clinician, interpreter, written estimate, consent, and follow-up before arranging care in Korea."
+updated: 2026-11-25
+excerpt: "Prepare clear questions about who will treat you, consent, interpretation, the written price and how to contact the clinic afterward."
 category: "Medical Tourism"
-author: "Korea Experience Editorial Team"
+author: Korea Experience Editorial
 deepDive: true
-image: "/images/medical-tourism-consultation-checklist-questions-about-clinician-interpreter-and.webp"
 ---
-
-This checklist can help international patients prepare for a consultation with a Korean medical provider. It is general planning information, not medical advice or a substitute for a qualified clinician's assessment. The rules and services described by a clinic, interpreter, or coordinator may vary, so confirm the details with the people who will provide your care.
 
 ## Questions for the treating clinician
 
-Ask who will evaluate you and who will perform each part of the proposed treatment. Request the clinician's full name and specialty, and ask how the recommendation relates to your health history, goals, alternatives, expected recovery, and possible complications. A marketing description or coordinator's message is not a clinical assessment.
+Ask which decision you can make at the first appointment and who will explain the options. [Article 24-2 of Korea’s Medical Service Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1034548493) describes explanation and written consent for covered surgery, transfusion or general anesthesia that may cause serious harm. It has a specified urgent exception. Ask which consent applies to your case and how you can review a copy.
 
-Ask the clinician to explain what is known, what is uncertain, and which risks apply to you personally. For a procedure, request time to review the consent form and ask for a translation before signing. You can ask for a written plan that identifies the treatment, responsible clinician, expected follow-up, and whom to contact if symptoms worsen.
-
-If a wellness package uses an unfamiliar cosmetic term, start with the [gynecology consultation questions](/blog/vaginal-rejuvenation-and-women-wellness-clinics-in-seoul-for-expats-2026) to clarify what care the offer covers.
+| Ask about | Write down |
+| --- | --- |
+| Plan | Who will treat me, what they propose and what alternatives I have. |
+| Language | Who can interpret during the assessment, consent and any return visit. |
+| Payment | Which fees apply to this visit, which costs may change and what is refundable. |
+| Follow-up | Which visits need to be in person and how to contact the clinical team. |
 
 ## Questions about interpreting and communication
 
-Ask whether interpretation is available for the consultation, consent discussion, discharge instructions, and follow-up. Confirm the interpreter's role, language, availability, confidentiality practices, and any fee or cancellation terms. Do not assume that an interpreter arranged for one appointment will be available throughout treatment.
-
-If you are not comfortable with the interpretation, ask the clinic to pause and arrange clarification before making a decision. Important medical instructions should be communicated in a form you understand; do not rely only on a short text exchange to explain a diagnosis, risks, or consent. The exact interpretation services and arrangements are provider-specific, so confirm them directly.
-
-If the clinic proposes an injection, ask for the [product and patient labeling details](/blog/anti-aging-treatments-in-korea-botox-fillers-and-more-2026) while you can speak to the clinician.
+Ask whether the same language support is available when you discuss risks, review the consent form and receive the instructions for home. Confirm any interpreter fee. If you still have questions, ask for time to clarify them before deciding.
 
 ## Questions about costs and coordination
 
-Request an itemized written estimate that separates the clinician's fees, facility charges, anesthesia or medicines where relevant, tests, interpreter or coordination services, and follow-up. Ask which amounts are estimates, what might change, what is refundable, and which payment methods are accepted. Do not treat a promotional package as a final bill unless its inclusions and exclusions are written down.
-
-If an agency is involved, ask for its legal business name, registration details where applicable, scope of work, fees, and responsibility for arranging follow-up. Korean law treats foreign-patient-attraction registration for medical institutions and attraction businesses as distinct categories; verify the entity relevant to the service rather than assuming one registration covers everyone involved.
-
-If an agency gave you the quote, check [the coordinator and the treating facility separately](/blog/licensed-medical-coordinator-guide-2026) before making a payment.
-
-If a clinic offers a combined slot, use the [same-day consultation checklist](/blog/same-day-consultations-and-procedures-pros-and-cons) to clarify what can be decided after meeting the clinician.
+Get an itemized quote for the planned service and visits. Ask whether tests, interpretation and a follow-up are included. [Korea’s registration law](https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1029945827) treats medical institutions and facilitators separately. If an agency offers a package, [verify the treating provider and agency](/blog/choosing-a-registered-medical-institution-in-korea-official-verification-steps-f) and ask which organization is responsible for what. The [Medical Korea Information Center](https://www.medicalkorea.or.kr/en/convenient) can help with information about services in Korea.
 
 ## Plan follow-up before travel
 
-Ask the treating clinician what follow-up is recommended and how you can contact the clinic after leaving Korea. If you will fly after treatment, ask the clinician to assess your individual fitness to travel and check any relevant airline requirements. There is no single safe waiting period that applies to every procedure and patient.
+Ask for the expected follow-up arrangements and a named clinic contact for concerns. Use the [appointment guide](/blog/booking-medical-consultations-in-korea-online-vs-walk-in) to confirm what the reservation covers. If you have already set a departure date, bring it to the consultation so the team can explain which parts of the plan may need to change.
 
-Keep your written estimate, signed consent, medical summary, prescriptions, receipts, and contact details. If you are uncertain about a recommendation, you may pause and seek another qualified medical opinion before proceeding.
-
-## Sources
-
-- [Act on Support for Overseas Expansion of Healthcare System and Attraction of International Patients, Article 6](https://www.law.go.kr/법령/의료해외진출및외국인환자유치지원에관한법률/제6조)
-- [Medical Korea — official foreign-patient information service](https://www.medicalkorea.or.kr/en/index)
-- [Korea Health Industry Development Institute — International Patient Experience Center](https://www.khidi.or.kr/eps)
+<span id="sources"></span>
