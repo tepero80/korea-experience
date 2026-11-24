@@ -4469,5 +4469,50 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "k-pop-entertainment-company-tours-sm-jyp-hybe": {
+    "src": "/images/cards/k-pop-entertainment-company-tours-sm-jyp-hybe.jpg",
+    "fingerprint": "4c508de6aa23b8f9b833146855be80da91e57cb1aedd783f306467843f3a7849",
+    "sourceImage": "/images/editorial/archive-cheonggyecheon-gwangtong-bridge-2008-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Kang Byeong Kee",
+      "title": "Cheonggyecheon-KwangtongBridge.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheonggyecheon-KwangtongBridge.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "camping-in-korea-glamping-vs-traditional-sites": {
+    "src": "/images/cards/camping-in-korea-glamping-vs-traditional-sites.jpg",
+    "fingerprint": "072ca028b876c3bac9eef5ce3150f400b597abc8fbcc9e3b72bb4b50499787b2",
+    "sourceImage": "/images/editorial/archive-seoul-nanji-camp-pitch-2010-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "gary4now",
+      "title": "Nanji camping, Seoul - panoramio.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nanji_camping,_Seoul_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korea-s-flower-festivals-tulips-roses-and-cosmos": {
+    "src": "/images/cards/korea-s-flower-festivals-tulips-roses-and-cosmos.jpg",
+    "fingerprint": "7640e6090cfd9157db5f2763bf2d35075ce56be0322ceb5d33894986b51e0165",
+    "sourceImage": "/images/editorial/archive-seoul-forest-tulip-bed-2024-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "WANGYIFAN2024",
+      "title": "Tulips in Seoul Forest, South Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tulips_in_Seoul_Forest,_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

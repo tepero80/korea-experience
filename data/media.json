@@ -10975,5 +10975,74 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
     },
     "caption": "A Jeju mare and foal photographed in April 2008. The source identifies the breed. The location of this photograph is unspecified."
+  },
+  {
+    "id": "archive-cheonggyecheon-gwangtong-bridge-2008",
+    "src": "/images/editorial/archive-cheonggyecheon-gwangtong-bridge-2008-1280.webp",
+    "srcSet": "/images/editorial/archive-cheonggyecheon-gwangtong-bridge-2008-640.webp 640w, /images/editorial/archive-cheonggyecheon-gwangtong-bridge-2008-1280.webp 1280w",
+    "width": 1280,
+    "height": 859,
+    "alt": "A stone bridge over Cheonggyecheon with tall office buildings behind it.",
+    "focal": "51% 54%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Cheonggyecheon-KwangtongBridge.jpg",
+    "originalHash": "5e7142491c0741049115b4004c21d53bf5cd4607110acabb9839aa5bc40a0897",
+    "capturedAt": "2008-12-30",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Kang Byeong Kee",
+      "title": "Cheonggyecheon-KwangtongBridge.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheonggyecheon-KwangtongBridge.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Gwangtonggyo on Cheonggyecheon, photographed in December 2008. This is a nearby walking landmark for the HiKR Ground outing."
+  },
+  {
+    "id": "archive-seoul-nanji-camp-pitch-2010",
+    "src": "/images/editorial/archive-seoul-nanji-camp-pitch-2010-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-nanji-camp-pitch-2010-640.webp 640w, /images/editorial/archive-seoul-nanji-camp-pitch-2010-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "A small gray tent and picnic tables in a former Nanji Campground layout.",
+    "focal": "66% 66%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Nanji_camping,_Seoul_-_panoramio.jpg",
+    "originalHash": "8ed9f3b0f937987fdba7ea65c385eb002e45121dd2e20817b68b3170b4a4d6f0",
+    "capturedAt": "2010-05-11",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "gary4now",
+      "title": "Nanji camping, Seoul - panoramio.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nanji_camping,_Seoul_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "caption": "Nanji Campground in May 2010, before its 2021 reopening after renovation. See the current reservation listing for the layout, services and equipment."
+  },
+  {
+    "id": "archive-seoul-forest-tulip-bed-2024",
+    "src": "/images/editorial/archive-seoul-forest-tulip-bed-2024-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-forest-tulip-bed-2024-640.webp 640w, /images/editorial/archive-seoul-forest-tulip-bed-2024-1280.webp 1280w",
+    "width": 1280,
+    "height": 961,
+    "alt": "Yellow and pink tulips around the trunk of a tree in Seoul Forest.",
+    "focal": "57% 56%",
+    "originalId": "https://commons.wikimedia.org/wiki/File:Tulips_in_Seoul_Forest,_South_Korea.jpg",
+    "originalHash": "79b0cfc7b6c1cd2106a3ba529b8a45b634cdb3eeaa62d0840982ef976ddce8ea",
+    "capturedAt": "2024-04-06",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "WANGYIFAN2024",
+      "title": "Tulips in Seoul Forest, South Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tulips_in_Seoul_Forest,_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "caption": "A tulip bed in Seoul Forest, photographed April 6, 2024. Check recent park updates for the beds and flowering on your own dates."
   }
 ]

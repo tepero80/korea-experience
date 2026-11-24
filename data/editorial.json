@@ -28563,5 +28563,297 @@
     },
     "cardImageLabel": "A Jeju mare and her foal",
     "cardImageCrop": "contain"
+  },
+  "k-pop-entertainment-company-tours-sm-jyp-hybe": {
+    "id": "guide:k-pop-entertainment-company-tours-sm-jyp-hybe",
+    "categoryId": "culture-events",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Choose HiKR Ground for a public K-pop experience or K-POP SQUARE in Hongdae for merchandise and announced pop-ups. Visit a company facility only when it advertises public admission.",
+    "forWhom": "K-pop fans planning a day out in Seoul",
+    "conditions": [
+      "Venue hours and individual pop-up access are separate checks.",
+      "Wait or take photos only in spaces where the venue allows it."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "k-pop",
+      "pop culture",
+      "shopping"
+    ],
+    "relations": [
+      {
+        "slug": "k-pop-busking-hongdae-street-performance-schedule",
+        "type": "next",
+        "label": "Add an outdoor Hongdae stop",
+        "reason": "Find the public performance area and check the day’s program."
+      },
+      {
+        "slug": "gocheok-sky-dome-concert-arrival-and-return",
+        "type": "next",
+        "label": "Going to Gocheok for a concert?",
+        "reason": "Match the ticketed entry gate and decide how to get back."
+      },
+      {
+        "slug": "hongdae-shopping-street-indie-brands-and-vintage",
+        "type": "next",
+        "label": "Explore Hongdae nearby",
+        "reason": "Pair the fan shop with a neighborhood shopping walk."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kto-hikr-ground",
+        "title": "VISITKOREA: HiKR Ground",
+        "url": "https://english.visitkorea.or.kr/svc/sp/hikr",
+        "note": "Public visitor space, floors and current operating information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "city-hikr-stream",
+        "title": "Seoul City: Cheonggyecheon and HiKR Ground walk",
+        "url": "https://mediahub.seoul.go.kr/archives/2019588",
+        "note": "Stream approach and nearby walking landmarks.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "line-friends-store-directory",
+        "title": "LINE FRIENDS: official store directory",
+        "url": "https://linefriendssquare.com/pages/about-us",
+        "note": "Hongdae store and listed opening information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-hongdae-square",
+        "title": "VISITKOREA: K-POP SQUARE HONGDAE",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=199935",
+        "note": "Public pop-up and retail setting, location.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "HiKR Ground: a public visitor experience.",
+      "Check each Hongdae pop-up’s ticket and entry rules."
+    ],
+    "launchOrder": 1307,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-cheonggyecheon-gwangtong-bridge-2008",
+    "heroCaption": "Gwangtonggyo on Cheonggyecheon, photographed in December 2008. This is a nearby walking landmark for the HiKR Ground outing.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Kang Byeong Kee",
+      "title": "Cheonggyecheon-KwangtongBridge.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheonggyecheon-KwangtongBridge.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Gwangtonggyo on Cheonggyecheon",
+    "cardImageCrop": "contain"
+  },
+  "camping-in-korea-glamping-vs-traditional-sites": {
+    "id": "guide:camping-in-korea-glamping-vs-traditional-sites",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "An equipped glamping booking can work if you arrive without a tent. Choose a standard Nanji pitch when you can bring your own gear. Confirm the current listing, booking access and seasonal facilities before arranging transport.",
+    "forWhom": "Travelers deciding how to camp without carrying unnecessary gear",
+    "conditions": [
+      "Facilities and gear depend on the exact category and date.",
+      "Winter services can differ from warm-season services."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "camping",
+      "outdoor trips",
+      "family trips"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "next",
+        "label": "Keep a city alternative",
+        "reason": "Have a workable Seoul plan if weather or reservations change."
+      },
+      {
+        "slug": "pocheon-art-valley-from-seoul-by-bus",
+        "type": "next",
+        "label": "Plan an outdoor day without camping",
+        "reason": "Check the route and return options for a separate outdoor trip."
+      }
+    ],
+    "sources": [
+      {
+        "id": "seoul-hangang-camp",
+        "title": "Seoul City: Hangang activities and camping",
+        "url": "https://english.seoul.go.kr/life-platform-hangang/fun-times-at-the-hangang-river/",
+        "note": "Public campground overview and online booking.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-nanji-reopen",
+        "title": "Seoul City: Nanji reopening after renovations",
+        "url": "https://english.seoul.go.kr/hangang-parks-nanji-camp-to-reopen-in-april-remodeled-in-12-years/",
+        "note": "2021 site changes and the camping categories.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-nanji-regular-d",
+        "title": "Seoul Public Service Reservation: December 2026 General D example",
+        "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?rsv_svc_id=S261031154046761002",
+        "note": "Exact location, gear to bring and posted winter shower closure.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-nanji-glamping-example",
+        "title": "Seoul Public Service Reservation: August 2026 glamping example",
+        "url": "https://yeyak.seoul.go.kr/web/reservation/selectReservView.do?reSvc=Y&rsv_svc_id=S260702132310472718",
+        "note": "Past booking and example inventory; use the current listing for future dates.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Standard pitch: check what you must bring.",
+      "Glamping: confirm the included equipment, seasons and booking terms."
+    ],
+    "launchOrder": 1308,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-nanji-camp-pitch-2010",
+    "heroCaption": "Nanji Campground in May 2010, before its 2021 reopening after renovation. See the current reservation listing for the layout, services and equipment.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "gary4now",
+      "title": "Nanji camping, Seoul - panoramio.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nanji_camping,_Seoul_-_panoramio.jpg",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "An earlier Nanji campsite layout",
+    "cardImageCrop": "contain"
+  },
+  "korea-s-flower-festivals-tulips-roses-and-cosmos": {
+    "id": "guide:korea-s-flower-festivals-tulips-roses-and-cosmos",
+    "categoryId": "places-itineraries",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Use spring for tulip planning, late spring for a rose walk and autumn for cosmos. Check flowering, the park’s planting and official event dates separately before booking around a flower.",
+    "forWhom": "Travelers choosing a flower outing without committing to a fixed bloom date",
+    "conditions": [
+      "Festival venues and schedules can change between years.",
+      "Park access does not guarantee that a particular field is in bloom."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "flower walks",
+      "seasonal travel",
+      "parks"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-forest-station-short-park-walk",
+        "type": "next",
+        "label": "Use the Seoul Forest walking route",
+        "reason": "Find the correct station exit and pick a short circuit."
+      },
+      {
+        "slug": "spring-in-korea-cherry-blossoms-and-festivals",
+        "type": "next",
+        "label": "Compare a cherry-blossom trip",
+        "reason": "Check the spring timing and fallbacks by region."
+      },
+      {
+        "slug": "best-time-to-visit-korea-month-by-month-weather",
+        "type": "next",
+        "label": "Plan around the season",
+        "reason": "Build in weather and scheduling alternatives while picking your dates."
+      }
+    ],
+    "sources": [
+      {
+        "id": "kto-forest-tulips",
+        "title": "VISITKOREA: spring displays at Seoul Forest",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=225816",
+        "note": "Seasonal examples of tulips, blossoms and autumn plants.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-taean-archive",
+        "title": "VISITKOREA: 2026 spring events",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=1580801",
+        "note": "The 2026 Taean listing identifies Nature World. Check a current organizer notice for another year.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "natureworld-directions",
+        "title": "Nature World: directions and front-gate bus stop",
+        "url": "https://www.ffestival.co.kr/page/sub1_3",
+        "note": "Operator confirms the Korean road and lot addresses are equivalent and names the front-gate bus stop.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-jungnang-archive",
+        "title": "Visit Seoul: 2026 Jungnang rose festival",
+        "url": "https://english.visitseoul.net/events/2026SeoulRoseFestival/ENPgldnt3",
+        "note": "Historic program, park and starting station.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-olympic-field",
+        "title": "VISITKOREA: Seoul autumn parks",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=230041",
+        "note": "Identifies the Olympic Park flower field and autumn example.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Pick a park with another reason to visit.",
+      "Confirm flowering and festival dates separately."
+    ],
+    "launchOrder": 1309,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-forest-tulip-bed-2024",
+    "heroCaption": "A tulip bed in Seoul Forest, photographed April 6, 2024. Check recent park updates for the beds and flowering on your own dates.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "WANGYIFAN2024",
+      "title": "Tulips in Seoul Forest, South Korea.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tulips_in_Seoul_Forest,_South_Korea.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Spring tulips at Seoul Forest",
+    "cardImageCrop": "contain"
   }
 }
