@@ -45731,5 +45731,509 @@
     "changeType": "rewrite",
     "launchOrder": 1614,
     "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "vegan-and-vegetarian-guide-to-korean-food-2026": {
+    "id": "guide:vegan-and-vegetarian-guide-to-korean-food-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Check the ingredient list on the exact pack, including any separate seasoning sachet. Look for a verifiable vegan mark when it matters and choose a simpler item if the label is unclear.",
+    "forWhom": "Travelers choosing ready-to-eat food at a convenience store or supermarket.",
+    "conditions": [
+      "The same product line can have different recipes. Verify the pack in your hand and check allergy information separately."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "plant-based packaged food",
+      "Korean ingredient labels",
+      "dietary needs at convenience stores"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w37-vegan",
+        "title": "Korea Tourism Organization tips for vegetarian and vegan travelers",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=476&vcontsId=140732",
+        "note": "Describes checking packages for vegan certification and notes that some apparently vegetable dishes include animal-derived ingredients.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the exact package and its seasoning before using a vegan or vegetarian snack."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1615,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-prayer-pose-etiquette-guide-2026": {
+    "id": "guide:korean-prayer-pose-etiquette-guide-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Read the entrance signs, stay to the side of worshippers and check before entering a hall or taking a photo. If you are unsure what to do with your hands or when to bow, follow staff guidance and observe quietly.",
+    "forWhom": "Day visitors to Korean Buddhist temples, including people who do not plan to participate in worship.",
+    "conditions": [
+      "An open courtyard and an open prayer hall can have different access rules. Ceremony, maintenance or program instructions may change the route."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean Buddhist temple etiquette",
+      "temple day visits",
+      "photography and worship spaces"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [
+      "busan-beomeosa-temple"
+    ],
+    "sources": [
+      {
+        "id": "w37-temple",
+        "title": "Korea Tourism Organization guide to temple etiquette",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=219&vcontsId=227777",
+        "note": "Shows example hall etiquette for Templestay guests, including side entrances and photography permission.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-bongeunsa",
+        "title": "Bongeunsa Templestay visitor guidance",
+        "url": "https://www.templestay.com/en/MI000000000000000062/reserve/view.do?areaCd=&areaSelect=&pageIndex=1&searchCnt=&searchEndDate=&searchKeyword=bongeunsa&searchStaDate=&templeBookMarkId=Bongeunsa&templeId=&templeIdTmp=&templePrgType=&templestaySeq=27567",
+        "note": "Lists palms together and a half-bow as this program’s on-site etiquette.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-beomeosa",
+        "title": "Korea Tourism Organization’s Beomeosa Temple visitor listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=111223",
+        "note": "Identifies Beomeosa and provides its Busan address and access information.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask before entering a prayer hall or photographing people and active worship."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1616,
+    "heroOmissionReason": "A credited photograph appears beside the table instructions."
+  },
+  "language-exchange-meetups-and-apps": {
+    "id": "guide:language-exchange-meetups-and-apps",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "For a short trip, arrange a brief online chat or confirm that a published group accepts visitors. Check the time, language split and meeting place before going, and keep private information out of the first exchange.",
+    "forWhom": "Travelers and short-term visitors who want a low-pressure Korean conversation.",
+    "conditions": [
+      "Group schedules, participant eligibility and app controls vary. Confirm them before exchanging details or making a trip."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean conversation exchange",
+      "language meetups for visitors",
+      "safe first conversation"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w37-language",
+        "title": "Seoul’s Gangnam Global Village Center",
+        "url": "https://global.seoul.go.kr/hmpg/ainf/ctrs/gvil/gang/intr/contPageDetail.do?conts_no=87822BFD3E7F45708837952DF19B646E&lang=en",
+        "note": "Lists Korean conversation groups for Koreans and foreign residents.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-hellotalk-safety",
+        "title": "HelloTalk safety guidance",
+        "url": "https://www.hellotalk.com/en/safety",
+        "note": "Explains withholding personal information, blocking or reporting and being cautious about financial requests.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-hellotalk-visibility",
+        "title": "HelloTalk search and chat privacy settings",
+        "url": "https://www.hellotalk.com/en/faq/chats-learning-features/1510",
+        "note": "Shows controls for search visibility and chat from unfamiliar users.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm visitor eligibility and what you will practice before traveling to a meetup."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1617,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "medical-tourism-package-deals-worth-it-or-tourist-trap": {
+    "id": "guide:medical-tourism-package-deals-worth-it-or-tourist-trap",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Before transferring a deposit, ask each organization in writing which booking it secures and how it handles cancellations, date changes and unused services. Keep the terms, payment receipt and correspondence together.",
+    "forWhom": "Travelers considering a prepayment for a clinic, coordinator or related service in Korea.",
+    "conditions": [
+      "Cancellation rules and dispute routes depend on the contract, service and circumstances."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "medical package cancellation",
+      "clinic deposit and refund",
+      "international patient payment records"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w37-kca-contract",
+        "title": "Korea Consumer Agency guidance on ending a multi-session medical package",
+        "url": "https://www.kca.go.kr/home/sub.do?menukey=4005&mode=view&no=1003881199&page=1",
+        "note": "Explains checking contract terms, individual service costs and possible deductions when a multi-session package ends early.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-k-medi",
+        "title": "Korea Medical Dispute Mediation and Arbitration Agency for foreign patients",
+        "url": "https://k-medi.or.kr/eng/lay1/S239T385C453/contents.do",
+        "note": "Explains how international patients can contact the agency and apply for medical-dispute mediation.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Save the cancellation terms and name of the exact payee before sending a deposit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1618,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "medical-concierge-services-are-they-worth-the-extra-cost-2026": {
+    "id": "guide:medical-concierge-services-are-they-worth-the-extra-cost-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the clinic which language and booking services it already provides. If a coordinator offers extra help, ask for written responsibilities, who pays them and how to reach the clinic yourself.",
+    "forWhom": "International patients comparing a clinic’s own services with a third-party facilitator.",
+    "conditions": [
+      "The clinic and facilitator can be different legal entities with separate contracts and responsibilities."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "medical concierge scope",
+      "foreign patient facilitator verification",
+      "clinic versus intermediary"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w37-khidi-hospitals",
+        "title": "Medical Korea registered hospitals directory",
+        "url": "https://www.medicalkorea.or.kr/en/registeredhospitals",
+        "note": "Provides a distinct official listing for foreign-patient medical institutions.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-khidi-facilitators",
+        "title": "Medical Korea registered facilitators directory",
+        "url": "https://www.medicalkorea.or.kr/en/registeredfacilitators",
+        "note": "Provides a separate foreign-patient facilitator directory.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-khidi-written",
+        "title": "Medical Korea on information for foreign patients",
+        "url": "https://www.medicalkorea.or.kr/korp/notice/faqView.do?faqSn=48",
+        "note": "Lists proposed treatment, possible side effects and expected medical costs among information to discuss.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the facilitator and clinic separately, then keep the clinic’s direct contact."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1619,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "the-truth-about-shadow-doctors-how-to-ensure-your-surgeon-is-real-2026": {
+    "id": "guide:the-truth-about-shadow-doctors-how-to-ensure-your-surgeon-is-real-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the treating facility to identify the clinician and explain who performs each part. Clarify what happens if that person changes. Ask separately about written medical records and the process for requesting operating-room recording or access.",
+    "forWhom": "Patients preparing for a procedure who want to confirm the care team and obtain documentation.",
+    "conditions": [
+      "Recording and access depend on the procedure, the rules and the circumstances. Ask the facility how to make any request."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "confirm operating clinician",
+      "medical consent changes",
+      "Korea surgery records and CCTV"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w37-medical-records",
+        "title": "Korea Medical Service Act Article 21",
+        "url": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1028699889",
+        "note": "Sets out patients’ ability to request access or copies of their records and conditions for other requesters.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-operating-room",
+        "title": "Korea Medical Service Act Article 38-2",
+        "url": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1032850561",
+        "note": "Specifies operating-room recording requests, exceptions and separate restrictions on access.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask who will perform the procedure, and keep the written answer and contact details."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1620,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "d-10-job-seeker-visa-korea-complete-guide-2026": {
+    "id": "guide:d-10-job-seeker-visa-korea-complete-guide-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Use D-10-1 guidance to check whether the professional jobs you are seeking fit the route. Ask immigration which eligibility and document rules apply to your status, qualifications and intended activities before applying.",
+    "forWhom": "People preparing for a professional job search in Korea who need to check a status-of-stay route.",
+    "conditions": [
+      "Application, employment and extension rules can depend on your current status, applicant category and intended activity."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "D-10-1 professional job search",
+      "Korea job-seeking activity plan",
+      "status permission and documents"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w37-study-stay",
+        "title": "Government Study in Korea stay guidance",
+        "url": "https://www.studyinkorea.go.kr/ko/life/residenceAndStayInfo.do?tab=job-seeker-visa",
+        "note": "Describes the D-10-1 route, document examples and a distinct first change from study status. Its overview still gives earlier limits in some passages.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-1345",
+        "title": "Korea Immigration Service 1345",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Provides the official immigration information number and calling details.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-study-employment",
+        "title": "Government Study in Korea employment eligibility guide",
+        "url": "https://cdn.studyinkorea.go.kr/popup/employment_regulations_full.jsp",
+        "note": "Explains employment and job-seeking categories and gives examples of eligibility for the professional job-search route.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm your job field and application route with immigration before changing your stay plans."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1621,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "d-10-job-seeker-visa-after-graduation": {
+    "id": "guide:d-10-job-seeker-visa-after-graduation",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Check your residence expiry and when your school can provide proof of graduation. With both dates in hand, ask immigration whether you qualify for the graduate D-10-1 route and what to submit before the deadline.",
+    "forWhom": "International students finishing a degree at a Korean university and planning to look for a professional job in Korea.",
+    "conditions": [
+      "The date your school can issue a document and your permitted stay can differ. Ask which graduate provisions apply to your specific case."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "D-2 to D-10-1 after graduation",
+      "Korean degree certificate for immigration",
+      "graduate job-seeking timeline"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w37-moj-graduates",
+        "title": "Ministry of Justice D-10 update for graduates of Korean universities",
+        "url": "https://www.moj.go.kr/bbs/moj/189/601114/artclView.do",
+        "note": "Announces changed stay and internship conditions for foreign graduates of domestic universities.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-study-stay",
+        "title": "Government Study in Korea stay guidance",
+        "url": "https://www.studyinkorea.go.kr/ko/life/residenceAndStayInfo.do?tab=job-seeker-visa",
+        "note": "Describes the D-10-1 route, document examples and a distinct first change from study status. Its overview still gives earlier limits in some passages.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-1345",
+        "title": "Korea Immigration Service 1345",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Provides the official immigration information number and calling details.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Compare your residence expiry with the date your university can issue the required graduation proof."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1622,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-jeonse-housing-system-explained-for-foreigners-2026": {
+    "id": "guide:korean-jeonse-housing-system-explained-for-foreigners-2026",
+    "categoryId": "where-to-stay",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Before paying a large jeonse deposit, take the proposed contract and address to the guarantee provider or rental counselor. Check the exact eligibility, required documents and deadline, and keep written evidence of every payment.",
+    "forWhom": "Foreign residents considering a Korean jeonse lease with a significant refundable deposit.",
+    "conditions": [
+      "Eligibility and protections depend on the property, the contract, the tenant’s documents and the chosen guarantee product."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "jeonse deposit-return guarantee",
+      "foreign tenant protections",
+      "housing contract documents"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w37-seoul-housing",
+        "title": "Seoul Metropolitan Government explainer on wolse and jeonse",
+        "url": "https://english.seoul.go.kr/service/living/housing/1-wolse-jeonse/",
+        "note": "Defines the two rent arrangements and points to language-capable agents and rental counseling.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-hug-foreign",
+        "title": "Korea Housing and Urban Guarantee Corporation FAQ for foreign parties",
+        "url": "https://www.khug.or.kr/hug/web/ig/dr/igdr000003.jsp?gotoPage=2",
+        "note": "Describes when foreign tenants may qualify for this specific deposit-return guarantee and applicable address, occupancy and fixed-date conditions.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-hug-english",
+        "title": "HUG English explanation of housing guarantees",
+        "url": "https://www.khug.or.kr/hug/web/en/02/en02000002.jsp",
+        "note": "Lists the tenant’s deposit-return guarantee as a distinct product and introduces the issuance process.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check guarantee eligibility and the filing deadline for the exact lease before paying the deposit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1623,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "jeonse-vs-wolse-korean-rental-system-explained": {
+    "id": "guide:jeonse-vs-wolse-korean-rental-system-explained",
+    "categoryId": "where-to-stay",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask for both offers in writing. Compare the cash you need before moving separately from monthly rent and fees, then check the term and conditions for getting the deposit back.",
+    "forWhom": "People comparing two Korean housing offers before committing to a lease.",
+    "conditions": [
+      "Rental terms, charges, guarantee eligibility and financing depend on the individual property and lease."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "jeonse versus wolse comparison",
+      "Korea rental cash budget",
+      "comparing housing contracts"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w37-seoul-housing",
+        "title": "Seoul Metropolitan Government explainer on wolse and jeonse",
+        "url": "https://english.seoul.go.kr/service/living/housing/1-wolse-jeonse/",
+        "note": "Defines the two rent arrangements and points to language-capable agents and rental counseling.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w37-hug-english",
+        "title": "HUG English explanation of housing guarantees",
+        "url": "https://www.khug.or.kr/hug/web/en/02/en02000002.jsp",
+        "note": "Lists the tenant’s deposit-return guarantee as a distinct product and introduces the issuance process.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Compare cash due before keys separately from recurring rent and fees."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1624,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
   }
 }

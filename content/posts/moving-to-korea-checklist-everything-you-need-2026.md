@@ -85,6 +85,8 @@ You cannot open a full-service Korean bank account without your Residence Card, 
 *   **Cash is (mostly) gone:** 95% of transactions are digital, but you need cash to load your transport card.
 *   **Foreign Fees:** Ensure your home bank card has 0% foreign transaction fees. The exchange rate currently hovers around 1,300 to ₩1,350 per 1 USD.
 
+When you have two written housing offers, use the [jeonse and wolse comparison worksheet](/blog/jeonse-vs-wolse-korean-rental-system-explained) to compare cash due, recurring charges and the deposit terms.
+
 ## Phase 3: Housing Scavenger Hunt
 
 Finding an apartment in Korea involves a unique system. You will encounter two main terms: **Wolse** (Monthly Rent) and **Jeonse** (Key Money Deposit).

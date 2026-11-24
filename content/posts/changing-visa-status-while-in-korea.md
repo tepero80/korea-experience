@@ -18,6 +18,8 @@ author: Korea Experience Editorial
 | Visit | Check the responsible branch and whether an office reservation is required. |
 | Timing | Ask what you can do while waiting and how travel outside Korea would affect the application. |
 
+For a professional job search, use the [D-10-1 eligibility and documents checklist](/blog/d-10-job-seeker-visa-korea-complete-guide-2026) to prepare the questions specific to the job-seeker route.
+
 ## Check the actual submission and outcome
 
 Use [HiKorea](https://www.hikorea.go.kr/Main.pt) to check any electronic service, appointment or application status that applies. Keep the submission record and ask about what to do before your current authorization expires. Wait for required permission before starting the new activity.

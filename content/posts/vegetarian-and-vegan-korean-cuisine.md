@@ -19,6 +19,8 @@ The [Korea Tourism Organization’s vegetarian ordering guide](https://english.v
 | Bibimbap | Meat, egg and what is mixed into the sauce. |
 | Side dishes | Fish sauce and salted seafood in kimchi. Check individual side dishes separately. |
 
+If you need something to carry between meals, use the [packaged-food label checklist](/blog/vegan-and-vegetarian-guide-to-korean-food-2026) for supermarket or convenience-store snacks.
+
 ## Show the server your version of the request
 
 Start with **고기나 생선이 들어가나요? 육수에도 들어가나요?** (“Does it contain meat or fish? Is either used in the broth?”). If you are vegan, add **계란, 우유, 버터도 먹지 않아요.** (“I also do not eat eggs, milk or butter.”). Mention seafood and any other ingredients you avoid. Ask which dish the kitchen can serve with those requirements.

@@ -16,6 +16,8 @@ Article 21 of Korea's Medical Service Act says a patient may ask a healthcare pr
 
 A patient requesting their own records should expect the provider to verify identity and specify which documents are requested. Records may include visit notes, test results, imaging, prescriptions, or discharge documents. Ask whether the hospital can provide a Korean copy, an English summary, or a translation. These are different services and should not be assumed to be included together.
 
+If your concern is who will perform a procedure or how recordings are handled, use the [clinician and recording checklist](/blog/the-truth-about-shadow-doctors-how-to-ensure-your-surgeon-is-real-2026) before the appointment.
+
 ## When someone else requests records
 
 A representative or eligible family member may need additional documents, such as patient consent, proof of identity, proof of relationship, or authorization. The precise documents depend on the requester's relationship to the patient and the circumstances. The Medical Service Act and its Enforcement Rule describe requirements and exceptions, including situations where patient consent cannot be obtained and other disclosures authorized by law.

@@ -28,6 +28,8 @@ Before paying a deposit, request the treating clinician's full name and specialt
 
 Read consent forms before signing and ask for a translation you understand. Confirm cancellation, refund, and aftercare terms in writing. Avoid pressure to pay immediately or promises of a guaranteed result. If details change between advertising, consultation, and the contract, pause and request clarification.
 
+If a third party will coordinate the visit, use the [medical concierge checklist](/blog/medical-concierge-services-are-they-worth-the-extra-cost-2026) to ask for its written responsibilities and fees.
+
 ## What a registry cannot tell you
 
 A registration record does not establish that a procedure is appropriate for you, predict its outcome, or settle a dispute about care. It also does not replace checking the responsible clinician's qualifications, understanding the treatment risks, or obtaining independent medical advice where appropriate. If you cannot verify a legal entity or cannot get clear answers, consider postponing the booking.

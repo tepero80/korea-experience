@@ -13,6 +13,8 @@ A temple stay is a structured visit to a working Buddhist temple. Choose between
 
 If you mainly want to cook and share a meal, [check how to book a temple food day program](/blog/korean-temple-food-dining-experience-guide-2026) before reserving an overnight stay.
 
+For a short stop without a program booking, read the [day-visit temple etiquette guide](/blog/korean-prayer-pose-etiquette-guide-2026) before approaching a prayer hall.
+
 ## Decide what fits your trip
 
 | Decision | Check before reserving |

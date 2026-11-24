@@ -130,6 +130,8 @@ In Korea, Naver is the dominant search engine. Their translation app, Papago, is
   Before arriving at Incheon Airport, download the Korean language pack on Papago. This ensures you can translate menus and signs even if your SIM card data hasn't activated yet.
 </InfoBox>
 
+If you want to put a few phrases into practice during a short visit, check the [first language-exchange guide](/blog/language-exchange-meetups-and-apps) before joining a group.
+
 ## Structured Learning: Universities vs. Hagwons
 
 If you are planning to stay in Korea for more than a month, you might consider formal education. Seoul is the hub for language learning, with options ranging from intense university courses to flexible private academies (Hagwons).

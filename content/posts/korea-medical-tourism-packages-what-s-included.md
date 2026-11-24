@@ -18,6 +18,8 @@ author: Korea Experience Editorial
 | Change | Ask about deposits, cancellations, rescheduling and what a revised treatment plan would cost. |
 | Care | Check which visits occur afterward, how to reach the team and who pays for additional care. |
 
+If the provider asks for money to hold your dates, use the [deposit and refund checklist](/blog/medical-tourism-package-deals-worth-it-or-tourist-trap) to check what happens if your plans change.
+
 ## Confirm the arrangements again before paying
 
 The [UK travel guidance on care abroad](https://www.gov.uk/guidance/in-hospital-abroad) raises questions about follow-up and complications. Compare the date and written terms on each offer. Ask for an updated copy if the plan changes after an assessment.
