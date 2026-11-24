@@ -14,6 +14,9 @@ export const metadata: Metadata = {
   description: SITE_CONFIG.description,
   metadataBase: new URL(SITE_CONFIG.url),
   authors: [{ name: SITE_CONFIG.author, url: `${SITE_CONFIG.url}/editorial-policy` }],
+  icons: {
+    icon: [{ url: '/favicon.ico', type: 'image/x-icon', sizes: '16x16 32x32 48x48 96x96' }],
+  },
   openGraph: {
     type: 'website',
     locale: 'en_US',
@@ -52,10 +55,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     '@type': 'Organization',
     '@id': `${SITE_CONFIG.url}/#organization`,
     name: SITE_CONFIG.name,
-    url: SITE_CONFIG.url,
+    url: SITE_CONFIG.url + '/',
     description: SITE_CONFIG.description,
-    logo: `${SITE_CONFIG.url}/icon.svg`,
-    sameAs: [],
+    logo: `${SITE_CONFIG.url}${SITE_CONFIG.logo}`,
     contactPoint: {
       '@type': 'ContactPoint',
       contactType: 'editorial corrections',

@@ -138,7 +138,7 @@ export default function Home() {
             '@id': SITE_CONFIG.url + '/#website',
             url: SITE_CONFIG.url + '/',
             name: SITE_CONFIG.name,
-            alternateName: ['KoreaExperience', 'koreaexperience.com'],
+            alternateName: ['koreaexperience.com'],
             inLanguage: 'en',
             publisher: { '@id': SITE_CONFIG.url + '/#organization' },
           }).replace(/</g, '\\u003c'),

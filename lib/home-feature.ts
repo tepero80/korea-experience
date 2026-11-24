@@ -1,5 +1,5 @@
 export const HOME_TITLE = 'Find your Korea.';
-export const HOME_DESCRIPTION = 'See where you could go. Work out how you’ll get there.';
+export const HOME_DESCRIPTION = 'Plan a trip to South Korea with Korea Experience travel guides, maps, and planning tools.';
 
 export const HOME_FEATURE = {
   region: 'gyeongju',

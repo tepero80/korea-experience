@@ -5,6 +5,7 @@ import { getDestinations } from '../lib/destinations';
 import { mediaFor } from '../lib/media';
 import { TOOL_PREVIEWS, toolPreviewImage } from '../lib/tool-preview';
 import { parse, type DefaultTreeAdapterTypes as Tree } from 'parse5';
+import { imageSize } from 'image-size';
 const errors: string[] = [];
 const rssAlternate = 'rel="alternate" type="application/rss+xml" href="https://koreaexperience.com/feed"';
 const sitemap = fs.readFileSync('out/sitemap.xml', 'utf8');
@@ -25,6 +26,8 @@ function exportedMetadata(html: string) {
       const attrs = Object.fromEntries(node.attrs.map((a) => [a.name, a.value]));
       if (node.tagName === 'meta') tags.set(attrs.property || attrs.name, attrs.content);
       if (node.tagName === 'link' && attrs.rel === 'canonical') tags.set('canonical', attrs.href);
+      if (node.tagName === 'link' && attrs.rel === 'icon')
+        tags.set('icon', [tags.get('icon'), attrs.href].filter(Boolean).join(' '));
       if (node.tagName === 'title') {
         tags.set(
           'title',
@@ -37,6 +40,34 @@ function exportedMetadata(html: string) {
   visit(parse(html));
   return tags;
 }
+
+const home = fs.readFileSync('out/index.html', 'utf8');
+const homeMetadata = exportedMetadata(home);
+const homeUrl = SITE_CONFIG.url + '/';
+const homeEntities = Array.from(
+  home.matchAll(/<script\b[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/g),
+  ([, data]) => JSON.parse(data),
+);
+const [site] = homeEntities.filter((entity) => entity['@type'] === 'WebSite');
+const publisher = homeEntities.find((entity) => entity['@id'] === site?.publisher?.['@id']);
+if (
+  homeEntities.filter((entity) => entity['@type'] === 'WebSite').length !== 1 ||
+  site?.name !== SITE_CONFIG.name ||
+  site?.url !== homeUrl ||
+  !site.alternateName?.includes(new URL(homeUrl).hostname) ||
+  publisher?.['@type'] !== 'Organization' ||
+  publisher.name !== SITE_CONFIG.name ||
+  publisher.logo !== SITE_CONFIG.url + SITE_CONFIG.logo
+) errors.push('Homepage website or publisher identity mismatch');
+if (
+  homeMetadata.get('icon') !== '/favicon.ico' ||
+  !fs.existsSync('out/favicon.ico') ||
+  homeMetadata.get('og:site_name') !== SITE_CONFIG.name ||
+  homeMetadata.get('title') !== SITE_CONFIG.title
+) errors.push('Homepage search identity or stable favicon missing');
+const logo = imageSize(fs.readFileSync('out' + SITE_CONFIG.logo));
+if (logo.type !== 'png' || logo.width !== logo.height || logo.width < 112)
+  errors.push('Homepage publisher logo must be a square PNG at least 112px wide');
 
 for (const file of [
   'out/index.html',

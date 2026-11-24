@@ -7,7 +7,8 @@ export const SITE_CONFIG = {
   name: 'Korea Experience',
   title: 'Korea Experience | Korea Travel Guides, Maps & Trip Planner',
   description:
-    'Practical Korea travel guides, useful planning tools, and thoughtful routes. Plan your arrival, find your base, and make the most of each day.',
+    'Plan a trip to South Korea with Korea Experience. Explore destination guides and maps, compare airport transfers, and build a day-by-day itinerary.',
+  logo: '/brand-mark.png',
   url: 'https://koreaexperience.com',
   author: 'Korea Experience Editorial',
   email: 'contact@koreaexperience.com',
