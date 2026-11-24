@@ -25,7 +25,7 @@ import { generatedArchiveCoverHash } from '../lib/media';
 import { guidePreviewImage, guideSchema } from '../lib/seo';
 
 test('identified archive illustrations are not used as article preview photographs', () => {
-  const slug = '24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route';
+  const slug = '50-must-try-korean-foods-complete-guide-2026';
   const archive = getPostBySlug(slug)!;
   assert.ok(generatedArchiveCoverHash(archive.slug, archive.image));
   assert.equal(guidePreviewImage(archive), '/images/cards/korea-experience.jpg');
@@ -47,6 +47,13 @@ test('identified archive illustrations are not used as article preview photograp
   const replaced = getPostBySlug('hanbok-modern-styling-tips-2026')!;
   assert.equal(generatedArchiveCoverHash(replaced.slug, replaced.image), undefined);
   assert.equal(guidePreviewImage(replaced), `/images/cards/${replaced.slug}.jpg`);
+
+  const seongsu = getPostBySlug(
+    '24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route',
+  )!;
+  assert.equal(generatedArchiveCoverHash(seongsu.slug, seongsu.image), undefined);
+  assert.equal(guidePreviewImage(seongsu), `/images/cards/${seongsu.slug}.jpg`);
+  assert.ok(guideSchema(seongsu).image?.endsWith(seongsu.image!));
 });
 
 test('automatic next steps do not jump between unrelated destination guides', () => {

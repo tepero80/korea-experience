@@ -68,3 +68,5 @@ The [museum’s current visitor page](https://www.museum.go.kr/ENG/contents/E010
 4. Keep the Korean place names and reservation confirmations available offline.
 
 Use the [day-by-day trip board](/tools/itinerary) to keep your selected places and notes together. If you have a fourth full day, [Suwon](/blog/suwon-hwaseong-fortress-a-deep-dive-into-king-jeongjo-legacy-2026) deserves its own return journey; it is not an extra evening stop after this plan.
+
+If you have a single day, use the [one-day palace and market route](/blog/24-hour-seoul-itinerary-how-to-survive-the-city-that-never-sleeps-2026) to set a short itinerary and plan your ride back.

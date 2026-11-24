@@ -42,6 +42,8 @@ In 2026, South Korea boasts over 24,000 operating pharmacies, meaning you will r
   Look for the "Yak" sign. It often features a red cross or a mortar and pestle symbol. Most clinics are located in buildings that have a pharmacy on the ground floor specifically to service those patients.
 </InfoBox>
 
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
+
 When you hand over your prescription, the pharmacist does not just count pills into a bottle. They use an automated machine to seal your specific cocktail of tablets into individual packets—one for morning, one for lunch, and one for dinner. This system is incredibly convenient for compliance but can be confusing if you need to identify which pill is which.
 
 ## Decoding the Prescription Envelope (The Yak-bong-ji)
@@ -171,7 +173,7 @@ However, the "Public Night Pharmacy" initiative has expanded significantly by 20
 />
 
 <InfoBox type="danger" title="Emergency Numbers">
-  If you have a severe allergic reaction to medication or a medical emergency, dial **119** immediately for an ambulance. For non-emergency medical consultation in English, dial **1339**.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
 
 ## Practical Tips for the Pharmacy Visit

@@ -30,8 +30,10 @@ Finding reliable, high-quality medical care abroad is a challenge for any travel
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The information provided in this guide is for educational purposes only and does not constitute medical advice. Always consult with your primary healthcare provider before traveling for medical procedures. In case of emergency in Korea, dial 119 for an ambulance or 1339 for medical consultation in English.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## The landscape of medical accessibility in Korea
 
@@ -236,7 +238,7 @@ Unlike some countries where you can walk in, tertiary hospitals require appointm
     { question: "Is Seoul generally wheelchair friendly?", answer: "Seoul is a mix. The public transit (subway) is 93% accessible with elevators, and major buildings are excellent. However, side streets in older neighborhoods often lack curb cuts, and many restaurants have a single step at the entrance." },
     { question: "Can I rent an electric wheelchair in Korea?", answer: "Yes, there are medical supply stores near major hospitals (like Jongno Medical Instrument) that rent them. However, they usually require a significant deposit and passport copy. It is often easier to bring your own if you are accustomed to a specific model." },
     { question: "Do Korean doctors speak English?", answer: "At major university hospitals (Big 5), almost all specialists have trained abroad and speak fluent English. At local clinics, the doctor likely speaks English, but the nursing and reception staff may not, which is why bringing a translator or using a clinic with an English coordinator is crucial." },
-    { question: "What is the emergency number for foreigners?", answer: "Dial 119 for ambulance/fire. Dial 1339 for the Korea Disease Control and Prevention Agency, which offers medical advice and hospital interpretation services in English 24/7." },
+    { question: "How do I request emergency help in Korea?", answer: "For ambulance or fire services, call 119. Give your location and ask for an interpreter if needed." },
     { question: "Are dental clinics accessible?", answer: "Major dental hospitals (like Seoul National University Dental Hospital) are fully accessible. Small neighborhood dental clinics are often on 2nd or 3rd floors of older buildings; verify elevator access before booking." }
   ]}
 />

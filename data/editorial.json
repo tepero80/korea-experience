@@ -32298,5 +32298,267 @@
     "changeType": "rewrite",
     "launchOrder": 1356,
     "heroOmissionReason": "The checklist focuses on official requirements and written documents. A facility or procedure photo could incorrectly imply a recommendation."
+  },
+  "24-hour-seoul-itinerary-how-to-survive-the-city-that-never-sleeps-2026": {
+    "id": "guide:24-hour-seoul-itinerary-how-to-survive-the-city-that-never-sleeps-2026",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "categoryId": "places-itineraries",
+    "regions": [
+      "seoul"
+    ],
+    "interests": [
+      "central seoul day route",
+      "palace market walk"
+    ],
+    "forWhom": "First-time visitors with one full day and a base in Seoul",
+    "answer": "Spend your morning at Gyeongbokgung, go to Gwangjang for lunch, then choose a short walk or one stop at Dongdaemun. Check your return route before adding dinner.",
+    "conditions": [
+      "The time blocks below are planning allowances in Korea time. Check real travel and opening times for your date.",
+      "Gyeongbokgung’s regular closure is Tuesday. The operator publishes holiday changes."
+    ],
+    "sources": [
+      {
+        "id": "royal-admission",
+        "title": "Royal Palaces and Tombs Center: Gyeongbokgung admission",
+        "url": "https://royal.khs.go.kr/ENG/contents/E702000000.do",
+        "note": "Lists seasonal entry times, last admission and regular closure.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "royal-closures",
+        "title": "Royal Palaces and Tombs Center: Opening schedules (Korean)",
+        "url": "https://royal.khs.go.kr/ROYAL/contents/R702000000.do",
+        "note": "Lists regular schedules, including Deoksugung as a possible alternative.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "bukchon-visitor-zones",
+        "title": "Seoul City: Bukchon visitor rules",
+        "url": "https://english.seoul.go.kr/notice-on-restrictions-for-tourist-visits-to-bukchon-special-management-area-effective-from-november-2024/",
+        "note": "Lists red-zone restrictions and the area subject to them.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "gwangjang-market",
+        "title": "Visit Seoul: Gwangjang Market",
+        "url": "https://english.visitseoul.net/Tourist-Attractions-list1/Gwangjang-Market/ENP000286",
+        "note": "Separately lists food-alley and general market hours and a subway exit.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "city-walk",
+        "title": "Visit Seoul: Cheonggyecheon to Dongdaemun after dark",
+        "url": "https://english.visitseoul.net/editorspicks/2026-seoulnight/ENN3bjkpz",
+        "note": "Describes the stream route toward DDP and the station near its entrance.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-night-bus",
+        "title": "Seoul City: Night Bus and route information",
+        "url": "https://english.seoul.go.kr/seoul-expands-citywide-night-bus-service/",
+        "note": "Points travelers to the night bus network and live route information.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "gwangjang-market-complete-food-guide",
+        "type": "next",
+        "label": "Choose where to eat",
+        "reason": "Check the food-alley entrances, portions and alternatives at Gwangjang."
+      },
+      {
+        "slug": "seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026",
+        "type": "next",
+        "label": "Add another day",
+        "reason": "Spread your palace, market and neighborhood time over separate days."
+      },
+      {
+        "slug": "late-night-dining-24-hour-restaurants-in-seoul",
+        "type": "next",
+        "label": "Check a late kitchen",
+        "reason": "See how to confirm last orders around central Seoul."
+      }
+    ],
+    "placeIds": [
+      "gyeongbokgung",
+      "gwangjang-market",
+      "seoul-ddp-design-campus"
+    ],
+    "shareFacts": [
+      "Use three stops: palace, market and Dongdaemun.",
+      "Check palace closure and your actual route back."
+    ],
+    "tools": [],
+    "changeType": "rewrite",
+    "launchOrder": 1357,
+    "heroMediaId": "gwangjang",
+    "heroCaption": "Gwangjang Market’s covered stalls in September 2022. Check the hours of the stall you plan to visit.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Gwangjang Market, Seoul 02.jpg",
+      "author": "Bgag",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. Photographed 2022-09-26. Historical image; not evidence of current access, prices, signage or availability."
+    }
+  },
+  "24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route": {
+    "id": "guide:24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route",
+    "format": "itinerary",
+    "checkedAt": "2026-11-24",
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "categoryId": "places-itineraries",
+    "regions": [
+      "seoul"
+    ],
+    "interests": [
+      "seongsu market walk",
+      "seongsu shoe workshops"
+    ],
+    "forWhom": "Visitors who want a short Seongsu shopping route with a traditional market meal",
+    "answer": "Begin at Seongsu Station and pick one shopping priority. Browse the handmade-shoe street or check the Dior boutique, then head to Ttukdo Market for a meal if vendors are serving.",
+    "conditions": [
+      "The second shopping stop is optional. Each merchant sets its own hours, stock and entry terms.",
+      "Ttukdo Market (뚝도시장) is near Seongsui-ro 32-15. Save that name and address for this walk."
+    ],
+    "sources": [
+      {
+        "id": "seongdong-ttukdo",
+        "title": "Seongdong District: Ttukdo Market (Korean)",
+        "url": "https://www.sd.go.kr/main/contents.do?key=1696",
+        "note": "Gives the market area address and the direct approach from Seongsu Station Exit 3.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seongdong-market-map",
+        "title": "Seongdong District: Travel map (Korean)",
+        "url": "https://map.sd.go.kr/trip_new/tMap.jsp",
+        "note": "Provides the district’s Ttukdo Market marker.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visitseoul-shoes",
+        "title": "Visit Seoul: Seongsu Handmade Shoes Street",
+        "url": "https://english.visitseoul.net/attractions/Seongsu-Handmade-Shoes-Street/ENP027649",
+        "note": "Identifies the workshops and Seongsu Station Exit 1 as an access point.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "dior-seongsu",
+        "title": "Dior: Seongsu boutique",
+        "url": "https://www.dior.com/fashion/stores/en_us/south-korea/seoul/7-yeonmujang-5-gil",
+        "note": "Lists the exact branch, operating hours and the branch map.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "seongsu-dong-dior-luxury-vs-market-eats-in-24-hours",
+        "type": "next",
+        "label": "Fold in Seoul Forest",
+        "reason": "Choose the separate park-and-café half-day plan if you would rather spend time outside."
+      },
+      {
+        "slug": "jeong-culture-in-markets-2026",
+        "type": "next",
+        "label": "Order from a market stall",
+        "reason": "Review useful questions about portions, the total and payment at the counter."
+      }
+    ],
+    "placeIds": [
+      "seongsu-station",
+      "seoul-ttukdo-market"
+    ],
+    "shareFacts": [
+      "Start from Seongsu Station and choose one shop.",
+      "Use the Ttukdo Market pin for the meal stop."
+    ],
+    "tools": [],
+    "changeType": "rewrite",
+    "launchOrder": 1358,
+    "heroMediaId": "archive-seongsu-line-2-platform-2026",
+    "heroCaption": "A cropped view of the Seongsu Station platform in May 2026. Use the published market and shoe-street directions to choose your exit.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "20260501 성수역 승강장.jpg",
+      "author": "Striker9498",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260501_%EC%84%B1%EC%88%98%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Cropped to emphasize signs and station structure, then resized and converted to WebP."
+    }
+  },
+  "korean-hair-care-shampoo-scalp-treatments": {
+    "id": "guide:korean-hair-care-shampoo-scalp-treatments",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "categoryId": "shopping-kbeauty",
+    "regions": [
+      "nationwide"
+    ],
+    "interests": [
+      "hair products shopping",
+      "shampoo labels"
+    ],
+    "forWhom": "Travelers comparing Korean hair products in a beauty store",
+    "answer": "Choose the format you will use, then check the exact bottle for size, scent, full ingredients and rinse instructions. Buy one size you can carry before committing to a set.",
+    "conditions": [
+      "Retail listings illustrate formats. Verify the Korean package, local shelf price and stock in the branch.",
+      "Follow the exact product’s instructions and ask a clinician about hair loss or persistent scalp symptoms."
+    ],
+    "sources": [
+      {
+        "id": "mfds-cosmetics-claims",
+        "title": "MFDS: Cosmetic advertising checks (Korean)",
+        "url": "https://www.mfds.go.kr/brd/m_61/view.do?seq=54352",
+        "note": "Warns shoppers about prevention, growth and other drug-like claims for cosmetics.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "mfds-functional-formats",
+        "title": "MFDS: Functional cosmetics categories (Korean)",
+        "url": "https://www.mfds.go.kr/wpge/m_639/de050601I001.do",
+        "note": "Identifies cosmetics that may help relieve symptoms of hair loss.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "drforhair-product-formats",
+        "title": "Dr.FORHAIR: Product catalog",
+        "url": "https://www.drforhair.com/collections/all",
+        "note": "Shows examples of shampoo, scalp exfoliator, tonic and a conditioning mask.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "next",
+        "label": "Find a shop and check the package",
+        "reason": "Use the separate store guide for local shopping, checkout and tourist refund questions."
+      }
+    ],
+    "placeIds": [],
+    "shareFacts": [
+      "Check the actual use directions and bottle size.",
+      "Read the qualified Korean label before deciding."
+    ],
+    "heroOmissionReason": "Retail listings identify the exact products and pack formats. The comparison table avoids using a decorative store or product image.",
+    "tools": [],
+    "changeType": "rewrite",
+    "launchOrder": 1359
   }
 }

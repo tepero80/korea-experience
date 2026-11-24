@@ -281,5 +281,4 @@ To see what real results look like, browse through our collection of [real patie
 
 Emergency Numbers in Korea:
 *   **Medical Emergency:** 119 (Available 24/7, interpretation available)
-*   **Korea Disease Control & Prevention Agency:** 1339 (Medical advice & hospital finder)
-*   **Emergency Medical Information Center:** 1339
+* Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.

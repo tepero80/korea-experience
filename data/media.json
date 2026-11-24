@@ -128,17 +128,22 @@
     "src": "/images/editorial/gwangjang.webp",
     "width": 1600,
     "height": 895,
-    "alt": "Gwangjang Market, Seoul",
+    "alt": "A covered Gwangjang Market aisle with food counters and strings of flags",
     "credit": {
       "kind": "photograph",
       "title": "Gwangjang Market, Seoul 02.jpg",
       "author": "Bgag",
       "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg",
       "license": "CC0",
-      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
       "note": "Resized and converted to WebP. Photographed 2022-09-26. Historical image; not evidence of current access, prices, signage or availability."
     },
-    "srcSet": "/images/editorial/gwangjang-800.webp 800w, /images/editorial/gwangjang.webp 1600w"
+    "srcSet": "/images/editorial/gwangjang-800.webp 800w, /images/editorial/gwangjang.webp 1600w",
+    "originalId": "Gwangjang Market, Seoul 02.jpg",
+    "originalHash": "3954787c0f1877a8eda6d4e6a93e4667aba45cb98a37d33764c248331a08df94",
+    "capturedAt": "2022-09-26",
+    "checkedAt": "2026-11-24",
+    "caption": "Gwangjang Market’s covered stalls in September 2022. Check the hours of the stall you plan to visit."
   },
   {
     "id": "market-food",
@@ -11317,6 +11322,28 @@
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
       "note": "Photographed 2017-05-21. Resized and converted to WebP. Historical image of a station sign."
+    }
+  },
+  {
+    "id": "archive-seongsu-line-2-platform-2026",
+    "src": "/images/editorial/archive-seongsu-line-2-platform-2026-1280.webp",
+    "srcSet": "/images/editorial/archive-seongsu-line-2-platform-2026-640.webp 640w, /images/editorial/archive-seongsu-line-2-platform-2026-1280.webp 1280w",
+    "width": 1280,
+    "height": 448,
+    "alt": "Roof and electronic signs above the Seongsu Station platform on Seoul Subway Line 2",
+    "caption": "A cropped view of the Seongsu Station platform in May 2026. Use the published market and shoe-street directions to choose your exit.",
+    "originalId": "20260501 성수역 승강장.jpg",
+    "originalHash": "37062c04e292f708a9fceebf70553e1e0a200e5df8296090ba144537afe6323c",
+    "capturedAt": "2026-05-01",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "title": "20260501 성수역 승강장.jpg",
+      "author": "Striker9498",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260501_%EC%84%B1%EC%88%98%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Cropped to emphasize signs and station structure, then resized and converted to WebP."
     }
   }
 ]

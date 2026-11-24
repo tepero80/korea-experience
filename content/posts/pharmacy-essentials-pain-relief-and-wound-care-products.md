@@ -25,7 +25,7 @@ If you are currently experiencing pain or have a minor injury in Korea, you do n
     "Convenience stores sell basic Tylenol, but pharmacies have stronger options.",
     "Korean 'Pasu' (muscle patches) are a cultural staple and highly effective.",
     "Medifoam is the gold standard for wound healing in Korea—buy it immediately for scrapes.",
-    "Emergency medical consultation is available by dialing 1339."
+    "For a medical emergency in Korea, call 119."
   ]}
   readTime={15}
   lastUpdated="2026-02-07"
@@ -287,7 +287,7 @@ Should you pack your entire medicine cabinet?
 If your pain is beyond the scope of OTC medication, do not hesitate to seek help. Korea's medical system is fast and high-quality.
 
 1.  **Call 119:** For Ambulance and Fire (Free).
-2.  **Call 1339:** Korea Disease Control and Prevention Agency (KCDC). They offer medical consultation in English and can tell you which hospital to go to.
+2.  **For a routine concern**, contact a pharmacist or clinician as appropriate. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contact options.
 3.  **International Clinics:** Major hospitals like Severance (Sinchon) and Asan Medical Center (Songpa) have dedicated International Healthcare Centers.
 
 If you are staying in a major tourist hub, you are likely near help. Check our guide on the [best neighborhoods for expats in Seoul](/blog/best-neighborhoods-for-expats-in-seoul-2026) to see where the major hospitals are located relative to popular accommodation areas.

@@ -110,6 +110,8 @@ Yes. Botulax is approved by the KFDA (Korea Food & Drug Administration) and is e
   If you are getting Trapezius (shoulder) or Calf Botox, you need a high volume of units (100u to 200u). Using Allergan for this would cost $800+. Using Botulax will cost roughly $150-$200. Since these are large muscles, the precision of Allergan is less critical, making Botulax the smart financial choice.
 </InfoBox>
 
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
+
 ## Detailed Comparison: The "Vs" Breakdown
 
 To help you decide, we have broken down the technical and practical differences between the three major contenders.
@@ -184,7 +186,6 @@ However, the risk often lies in the *injector*, not the *product*.
   
   **Emergency Numbers in Korea:**
   *   Medical Emergency: 119
-  *   Medical Consultation (English): 1339
 </InfoBox>
 
 ## How to Choose the Right Brand for You

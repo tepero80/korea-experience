@@ -36,8 +36,10 @@ The concept of *Suseong* (cultivating longevity) has evolved. In 2026, visitors 
 The efficiency is staggering. You can complete a comprehensive health screening—which involves blood work, ultrasound, and endoscopy—in under 4 hours at a major center like Asan Medical Center or Samsung Medical Center. By the afternoon, you can be transported to a hanok resort just 40 minutes away to begin a gut-health restoration program based on your morning's test results.
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The content in this article is for informational purposes only and does not constitute medical advice. Always consult with a qualified healthcare provider before beginning any new treatment or wellness program. In case of emergency in Korea, dial 119. For medical consultations in English, dial 1339.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Top Hybrid Retreats in Seoul: Urban Sanctuaries
 

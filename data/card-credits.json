@@ -4899,5 +4899,40 @@
     "src": "/images/cards/scalp-micropigmentation-smp-in-korea-best-clinics-for-hair-density-2026.jpg",
     "fingerprint": "86bb469a5f9d77c7cefec91f9ca88e667ac1fa9c119d8bd6ff0da9f019b86ab8",
     "adaptation": "Typographic social preview."
+  },
+  "24-hour-seoul-itinerary-how-to-survive-the-city-that-never-sleeps-2026": {
+    "src": "/images/cards/24-hour-seoul-itinerary-how-to-survive-the-city-that-never-sleeps-2026.jpg",
+    "fingerprint": "1fbce4024ee421ddee4b0105dcc41b61a4492ae97a3f372f6582c599b583feb8",
+    "sourceImage": "/images/editorial/gwangjang.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "Gwangjang Market, Seoul 02.jpg",
+      "author": "Bgag",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangjang_Market,_Seoul_02.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. Photographed 2022-09-26. Historical image; not evidence of current access, prices, signage or availability."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route": {
+    "src": "/images/cards/24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route.jpg",
+    "fingerprint": "68f92c5cc5bc8b174f73f6c5dd6b922c8be93c09db0da424097726b7500f922d",
+    "sourceImage": "/images/editorial/archive-seongsu-line-2-platform-2026-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "20260501 성수역 승강장.jpg",
+      "author": "Striker9498",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:20260501_%EC%84%B1%EC%88%98%EC%97%AD_%EC%8A%B9%EA%B0%95%EC%9E%A5.jpg",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Cropped to emphasize signs and station structure, then resized and converted to WebP."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "korean-hair-care-shampoo-scalp-treatments": {
+    "src": "/images/cards/korean-hair-care-shampoo-scalp-treatments.jpg",
+    "fingerprint": "853dd5ca38756a71e66bb471a4f988d74ddbfad211fc8ed9d267b5b108efbe37",
+    "adaptation": "Typographic social preview."
   }
 }

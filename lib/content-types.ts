@@ -63,6 +63,7 @@ export interface Place {
   officialUrl: string;
   checkedAt: string;
   sourceNote?: string;
+  naverMapQuery?: string;
   nearestStation?: string;
   image?: string;
   addressSource?: string;

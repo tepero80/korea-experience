@@ -40,3 +40,5 @@ Ask before paying whether the store participates and which route it offers. The 
 - **Refund deducted at checkout.** Present your passport when asked and keep the receipt. The same claim is not paid a second time at the airport.
 - **Refund paperwork issued.** Keep the documents and the unused goods. Check the [Incheon Airport tax refund steps](/blog/tax-refund-for-tourists-how-to-claim) before packing, especially for goods going in a checked bag.
 - **Unsure what you were given.** Ask the cashier to show whether a refund already changed the total or whether you need a later claim. Confirm the branch's exchange or return conditions before using the product.
+
+If you are comparing shampoo, scalp tonic or a rinse-off product, use the [Korean hair care shopping guide](/blog/korean-hair-care-shampoo-scalp-treatments) to read the package and compare formats.

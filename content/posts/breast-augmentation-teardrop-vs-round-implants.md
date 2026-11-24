@@ -52,6 +52,8 @@ Teardrop implants are shaped like a pear—thinner at the top and fuller at the 
 In recent years, highly textured implants (often used for teardrops) have faced scrutiny regarding BIA-ALCL, a rare lymphoma. Consequently, many Korean clinics have moved away from "macro-textured" teardrop implants in favor of "nano-textured" or smooth round implants that achieve a similar look through surgical placement techniques.
 </InfoBox>
 
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
+
 ## The "Third Option": Why Korea Prefers Motiva Ergonomix
 
 If you visit a clinic in Apgujeong or Sinsa-dong in 2026, you will likely be introduced to Motiva Ergonomix. This is technically a round implant, but it uses a highly elastic gel and a specialized shell that allows gravity to dictate its shape.
@@ -245,7 +247,7 @@ The technological advancements in round implants—making them behave like teard
 However, the "lifted" look of a classic round implant remains a valid and popular aesthetic choice for those who prefer fullness over a subtle slope. The decision should ultimately be made during your 3D simulation consultation in Seoul, where you can see the potential results on your own body.
 
 <InfoBox type="warning" title="Medical Disclaimer">
-The information provided in this article is for educational purposes only and does not constitute medical advice. Surgical results vary by individual. Always consult with a board-certified plastic surgeon for a personalized assessment. Emergency numbers in Korea: Medical Emergency 119, Medical Consultation for Foreigners 1339.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
 
 While you are in Seoul for your procedure, you might want to look into other non-invasive treatments to maximize your trip. Many patients combine breast surgery with skin treatments. Check out our guide to [anti-aging treatments in Korea](/blog/anti-aging-treatments-in-korea-botox-fillers-and-more-2026) for ideas that can be done during your recovery period.

@@ -37,8 +37,10 @@ In South Korea, facial volume is not just about filling wrinkles; it is about ac
 For international visitors, understanding the nuances of these procedures in the context of Seoul's advanced medical infrastructure is crucial. The decision often comes down to three factors: the volume of restoration needed, the time available for recovery, and the desire for permanence.
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The content in this article is for informational purposes only and does not constitute medical advice. Always consult with a board-certified plastic surgeon or dermatologist. For medical emergencies in Korea, dial 119. For medical consultations and interpretation services, dial 1339.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Quick Comparison: At a Glance
 
@@ -248,7 +250,6 @@ If you decide on fat grafting, your travel itinerary needs to adjust.
   type="Area Guide"
   address="Gangnam-gu, Seoul"
   hours="Clinics usually 10:00-19:00"
-  phone="1339 (Medical Help)"
   priceRange="$$$-$$$$"
   rating={4.8}
   transit="Apgujeong Station (Line 3) or Gangnam Station (Line 2)"

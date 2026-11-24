@@ -2772,5 +2772,20 @@
     "checkedAt": "2026-11-24",
     "sourceNote": "VisitKorea provides the address and map coordinates. The point identifies the place, not a checked entrance or accessible approach.",
     "visitorUrl": "https://oeam.co.kr/main/index.php?m_cd=32"
+  },
+  {
+    "id": "seoul-ttukdo-market",
+    "name": "Ttukdo Market",
+    "nameKo": "뚝도시장",
+    "naverMapQuery": "서울 성동구 성수이로 32-15",
+    "latitude": 37.53802109,
+    "longitude": 127.05460358,
+    "address": "서울 성동구 성수이로 32-15 일대",
+    "region": "seoul",
+    "description": "District market-area marker. Look up the individual stall and choose the approach for that stall.",
+    "officialUrl": "https://www.sd.go.kr/main/contents.do?key=1696",
+    "addressSource": "https://www.sd.go.kr/main/contents.do?key=1696",
+    "sourceNote": "District travel-map entry 220 gives the coordinates. The marker is an overview of the market area.",
+    "checkedAt": "2026-11-24"
   }
 ]

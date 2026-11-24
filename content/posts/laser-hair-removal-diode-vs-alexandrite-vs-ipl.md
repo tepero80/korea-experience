@@ -32,8 +32,10 @@ When choosing between Diode, Alexandrite, and IPL for hair removal in Korea, the
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  The content in this article is for informational purposes only and does not constitute medical advice. Always consult with a certified dermatologist before undergoing laser treatments. In Korea, call 1339 for medical consultation services in English.
+  For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Understanding the Technology: How It Works
 

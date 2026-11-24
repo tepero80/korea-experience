@@ -251,7 +251,9 @@ While non-invasive, these are medical procedures.
 Do not get these treatments if you have open lesions, severe cystic acne, pacemaker/electronic implants (for Thermage), or are pregnant.
 </InfoBox>
 
-If you have a medical emergency in Korea, dial **119** for ambulance services. For medical consultation in English, dial **1339**.
+For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Making the Final Decision
 

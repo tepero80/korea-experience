@@ -3,9 +3,10 @@ import { googleMapsSearch } from '@/lib/google-maps';
 
 export default function PlaceDirections({ place }: { place: Place }) {
   const name = encodeURIComponent(place.nameKo);
+  const naverQuery = encodeURIComponent(place.naverMapQuery ?? place.nameKo);
   const coordinates = `${place.latitude},${place.longitude}`;
   const links = [
-    { label: 'Naver Map', url: `https://map.naver.com/p/search/${name}` },
+    { label: 'Naver Map', url: `https://map.naver.com/p/search/${naverQuery}` },
     { label: 'Kakao Map', url: `https://map.kakao.com/link/map/${name},${coordinates}` },
     { label: 'Google Maps', url: googleMapsSearch(coordinates) },
   ];

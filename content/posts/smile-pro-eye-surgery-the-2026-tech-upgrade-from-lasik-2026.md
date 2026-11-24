@@ -264,7 +264,7 @@ A: Yes, SMILE Pro is highly effective at correcting astigmatism, along with myop
 A: The average cost for SMILE Pro Eye Surgery in Korea typically ranges from $2,500 to $4,500 USD per eye. This price can vary depending on the clinic, the surgeon's experience, the specific technology used, and any additional services included. It is generally more affordable than in many Western countries while maintaining high quality.
 
 ### Q5: What should I do if I experience an emergency in Korea?
-A: In case of a medical emergency in Korea, you should immediately call 119 for an ambulance. For non-emergency medical consultation or guidance, you can call 1339, which is a medical interpretation and information service available in multiple languages. It's always a good idea to have your clinic's emergency contact information readily available as well.
+A: For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed. Keep the treating clinic’s details for routine follow-up.
 
 ## Conclusion: Embrace the Future of Vision with SMILE Pro in Korea
 
@@ -279,5 +279,5 @@ If you're ready to explore the possibility of clearer, healthier vision, a consu
 
 **Emergency Contacts in Korea:**
 *   **Ambulance/Medical Emergency:** 119
-*   **Medical Consultation/Interpretation:** 1339 (available in multiple languages)
+* Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 ---

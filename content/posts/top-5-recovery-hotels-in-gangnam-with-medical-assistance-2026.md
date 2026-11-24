@@ -32,8 +32,10 @@ Finding the right accommodation for your post-operative recovery in Seoul is jus
 />
 
 <InfoBox type="warning" title="Medical Disclaimer">
-  This article is for informational purposes only. These establishments are luxury hotels, not medical facilities. While they offer support, they do not replace hospital care. In case of a medical emergency in Korea, dial <strong>119</strong> for an ambulance or <strong>1339</strong> for medical consultation in English.
+  For routine care, follow the treating clinic’s instructions and verify which services your hotel actually provides. For a medical emergency in Korea, call 119 for an ambulance. Ask for an interpreter if needed.
 </InfoBox>
+
+Contact a clinician for individual care questions. See [Korea’s emergency and visitor contact guide](/blog/medical-emergencies-1330-vs-119-2026) for official contacts.
 
 ## Why Gangnam is the Global Hub for Medical Recovery
 

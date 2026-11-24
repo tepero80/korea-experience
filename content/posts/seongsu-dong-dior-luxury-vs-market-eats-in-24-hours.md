@@ -41,3 +41,5 @@ Confirm today's hours, exact branch and reservation rules. If a café has a long
 **Rain/cold:** shorten the outdoor part and retain a confirmed indoor stop. If you need an entirely indoor day, replace this cluster with the [museum plan](/blog/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets) rather than crossing the city and returning just to preserve the original order.
 
 Add the park and selected stop to your [trip board](/tools/itinerary), with your hotel connection and rest buffer. For a first visit, fit this into the [three-day Seoul route](/blog/seoul-3-day-itinerary-perfect-first-time-visitor-guide-2026) as one cluster.
+
+For a visit centered on shopping and a market meal, use the [Seongsu Station to Ttukdo Market route](/blog/24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route).
