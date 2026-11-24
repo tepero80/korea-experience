@@ -32,6 +32,8 @@ Look at the latest notice for that location and ask **지금 주문할 수 있�
 
 Save the Korean address below. Check your return route while you still have a choice, especially if you are relying on the final train. When the kitchen is closed or the wait is too long, look for a confirmed option near your accommodation before crossing town.
 
+If you specifically want rice porridge, use the [late-night juk checklist](/blog/24-hour-juk-porridge-for-recovery-2026) to check a porridge shop’s last order or look for a packaged option.
+
 ## Check which soup you are ordering
 
 [Seolleongtang](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=178349) is ox-bone soup. The Seongsu listing serves gamjatang, a pork-bone soup. If you avoid pork, beef or particular ingredients, ask about the broth and preparation before ordering. Open the [Korean dining phrases](/blog/how-to-order-food-in-korean-restaurants-phrases-guide-2026) if you need to show a question rather than say it aloud.

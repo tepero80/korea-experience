@@ -49,3 +49,5 @@ Use the [airport's official taxi guidance](https://www.airport.kr/ap_en/1515/sub
 <TripHelper tool="airport-transfer" />
 
 Keep the [travel problem contacts](/blog/korea-travel-problem-solving-guide) offline. Tourist help can explain a routine travel issue; immediate danger belongs with 112 or 119.
+
+Traveling alone? Use the [solo arrival checklist](/blog/solo-travel-safety-index-2026) to plan the pickup point and late access to your accommodation, then keep those instructions available offline.

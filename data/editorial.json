@@ -31128,5 +31128,356 @@
     "heroOmissionReason": "The archived illustration cannot verify a card product or the application process. Use the comparison table and primary records.",
     "changeType": "rewrite",
     "launchOrder": 1338
+  },
+  "h-1-working-holiday-visa-complete-guide": {
+    "id": "guide:h-1-working-holiday-visa-complete-guide",
+    "checkedAt": "2026-11-24",
+    "categoryId": "plan-your-trip",
+    "format": "how-to",
+    "forWhom": "Prospective working holiday visitors choosing an application office and checking passport eligibility",
+    "answer": "Look up your passport in Korea’s official H-1 country and region notice. Then confirm which Korean mission accepts you, when it measures age and which evidence it wants before paying for travel.",
+    "conditions": [
+      "Rules vary by passport and processing office.",
+      "Confirm repeat participation and work restrictions for your case with the responsible office."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "working holiday eligibility"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "whic-country-notice",
+        "title": "Working Holiday Info Center H-1 country and region information",
+        "url": "https://whic.mofa.go.kr/board.do?action=view&boardConfigNo=35&boardNo=17013&langUrl=eng&menuNo=208&page=1",
+        "note": "Country-specific starting point. Recheck the responsible mission’s instructions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "au-h1",
+        "title": "Korean Embassy in Australia H-1 instructions",
+        "url": "https://overseas.mofa.go.kr/au-en/brd/m_3306/view.do?page=2&seq=676715",
+        "note": "Age at application and Australia-specific documents and consular procedure.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "ca-h1",
+        "title": "Korean Consulate in Vancouver H-1 instructions",
+        "url": "https://overseas.mofa.go.kr/ca-vancouver-en/brd/m_4543/view.do?page=2&seq=750893",
+        "note": "Canadian residence, age at issuance and up to two years for the relevant applicants.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "jp-h1",
+        "title": "Korean Embassy in Japan H-1 instructions",
+        "url": "https://overseas.mofa.go.kr/jp-ja/brd/m_1106/view.do?page=1&seq=758522",
+        "note": "Age range and conditional exception in the Tokyo consular instructions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "whic-registration",
+        "title": "Working Holiday Info Center residence registration",
+        "url": "https://whic.mofa.go.kr/contents.do?contentsNo=51&menuNo=114",
+        "note": "Where to check the post-entry registration deadline and required documents.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Find the official office for your passport and residence.",
+      "Check when the office measures your age before making reservations."
+    ],
+    "heroOmissionReason": "The original archive presentation does not verify these current requirements. This update uses primary source links and a checklist.",
+    "changeType": "rewrite",
+    "launchOrder": 1339
+  },
+  "k-pop-goods-without-memberships-2026": {
+    "id": "guide:k-pop-goods-without-memberships-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "forWhom": "K-pop fans buying albums or merchandise in Seoul without a paid artist membership",
+    "answer": "For regular albums and stationery, start with an official shop’s store listing. For an exclusive, check the exact product notice and sale phase for account, paid membership and pickup requirements.",
+    "conditions": [
+      "Ordinary store listings do not confirm stock of a specific item.",
+      "The event example below is a past sale and illustrates what to look for on your own notice."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "k-pop merchandise eligibility"
+    ],
+    "relations": [
+      {
+        "slug": "insadong-traditional-crafts-and-souvenirs",
+        "type": "next",
+        "label": "Plan more time in Insadong",
+        "reason": "Pair ordinary merchandise browsing with another nearby shopping stop."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "ktown-offline",
+        "title": "Ktown4u official brick-and-mortar store guide",
+        "url": "https://www.ktown4u.com/stores",
+        "note": "The Insa branch listing gives the merchandise types, address, floor and approach.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "weverse-plave-2026",
+        "title": "Weverse’s September 2026 PLAVE Incheon pickup notice",
+        "url": "https://shop.weverse.io/en/shop/USD/artists/167/notices/14260",
+        "note": "A past sale with distinct paid membership and general account phases and venue pickup conditions.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check the exact item and sale phase before traveling.",
+      "A free account and paid artist membership can have different access."
+    ],
+    "heroMediaId": "culture-insadong-street",
+    "heroCaption": "A photograph of Insadong-gil in March 2025. Use the store operator’s address and current directions to find the branch.",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "Insadong-gil Mar 2025 13.jpg",
+      "author": "Epicgenius",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Insadong-gil_Mar_2025_13.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2025-03-13. Resized and converted to WebP. Image derivatives retain the original credit and license. Historical image; check current signs, services and opening conditions separately."
+    },
+    "changeType": "rewrite",
+    "launchOrder": 1340
+  },
+  "k-pop-hair-salon-booking-in-english-2026": {
+    "id": "guide:k-pop-hair-salon-booking-in-english-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "forWhom": "Visitors requesting a K-pop-inspired style or haircut in Seoul without calling in Korean",
+    "answer": "Tell the salon which result you want and share a reference photo. Ask which service it takes, who will handle the consultation in English, the total price and the time before confirming.",
+    "conditions": [
+      "Operator pages describe their booking and consultation options. Verify the assigned stylist, language and appointment directly.",
+      "A style reference is a communication aid. Ask what is possible for your hair and schedule."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "salon booking language",
+      "reference photo styling"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "dayer-seongsu",
+        "title": "Day’er Seongsu official English website",
+        "url": "https://dayer.co.kr/en/",
+        "note": "States its online booking route and service consultation, and provides branch details.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "lovey-booking",
+        "title": "Cheongdam Lovey official booking instructions",
+        "url": "https://www.cheongdamlovey.com/how-to-book/",
+        "note": "English appointment channels and what to send before the salon confirms a reservation.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "lovey-faq",
+        "title": "Cheongdam Lovey official service FAQ",
+        "url": "https://www.cheongdamlovey.com/faq/",
+        "note": "Service choices and availability conditions.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Send the reference photo and ask which service it requires.",
+      "Confirm language support for the consultation, total price and duration."
+    ],
+    "heroOmissionReason": "The original archive presentation does not verify these current requirements. This update uses primary source links and a checklist.",
+    "changeType": "rewrite",
+    "launchOrder": 1341
+  },
+  "shopping-for-curvy-sizes-in-korea-where-to-find-inclusive-fashion-2026": {
+    "id": "guide:shopping-for-curvy-sizes-in-korea-where-to-find-inclusive-fashion-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "forWhom": "Shoppers looking for extended-size clothing in Seoul and planning to try it on",
+    "answer": "Measure a garment that fits you. Compare the same measurements on the exact item page, then contact the branch with the item code and size before making a trip.",
+    "conditions": [
+      "Number labels and fit vary by label and style.",
+      "Retailers’ online listings do not establish branch stock or return policies."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "extended clothing sizes",
+      "clothing fit in seoul"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "09women-offline",
+        "title": "09WOMEN official offline-center listing",
+        "url": "https://www.09women.com/shop/todaygoods.html",
+        "note": "The retailer’s page identifies the Hapjeong and Munjeong locations and phone numbers.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "romistory-fit",
+        "title": "Romistory example of product-specific fitting notes",
+        "url": "https://romistory.com/product/detail.html?cate_no=259&display_group=1&product_no=61985",
+        "note": "Shows how the product page describes fit on different models. The labels apply to this item.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Bring measurements from a similar garment that fits.",
+      "Confirm the exact item and size with the branch."
+    ],
+    "heroOmissionReason": "The original archive presentation does not verify these current requirements. This update uses primary source links and a checklist.",
+    "changeType": "rewrite",
+    "launchOrder": 1342
+  },
+  "complete-guide-to-korean-skincare-routine-10-step-method-2026": {
+    "id": "guide:complete-guide-to-korean-skincare-routine-10-step-method-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "forWhom": "Visitors shopping for Korean skincare and deciding what fits their routine and luggage",
+    "answer": "Use the ten-step list to recognize product categories. Choose the steps you actually use, check the ingredient label, and plan where each container will go before you buy.",
+    "conditions": [
+      "This is a shopping and packing checklist for ordinary cosmetics.",
+      "Read the exact product’s warnings and check security rules for all transfer airports."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "cosmetics labels",
+      "skin care packing"
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "next",
+        "label": "Compare an actual store basket",
+        "reason": "Choose retail products and sizes efficiently once you know what is missing."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "fda-cosmetics-labels",
+        "title": "US FDA general safe use of cosmetics",
+        "url": "https://www.fda.gov/cosmetics/resources-consumers-cosmetics/using-cosmetics-safely",
+        "note": "General advice to follow labels, ingredients, warnings and directions. It does not describe Korean labeling law.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "incheon-liquids-rules",
+        "title": "Incheon Airport international carry-on liquids and restricted items",
+        "url": "https://www.airport.kr/ap_en/1432/subview.do",
+        "note": "Published container, bag and sealed duty-free conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "incheon-liquids-faq",
+        "title": "Incheon Airport carry-on examples for cosmetics",
+        "url": "https://airport.kr/ap_en/1434/subview.do",
+        "note": "Examples include toner, lotion, sunscreen and lip gloss. The rule uses total container capacity.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check ingredients and warnings on the exact package.",
+      "Carry-on rules use the container’s full capacity."
+    ],
+    "heroOmissionReason": "The original archive presentation does not verify these current requirements. This update uses primary source links and a checklist.",
+    "changeType": "rewrite",
+    "launchOrder": 1343
+  },
+  "tax-refund-15000-minimum-2026": {
+    "id": "guide:tax-refund-15000-minimum-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "shopping-kbeauty",
+    "format": "how-to",
+    "forWhom": "Visitors checking one retail purchase at a participating Korean tax refund shop",
+    "answer": "VISITKOREA lists a purchase minimum of ₩15,000. Ask the participating shop which eligible items and transaction it will use for the refund and check the paperwork before leaving.",
+    "conditions": [
+      "This checklist is for eligible retail goods and participating stores.",
+      "Confirm current visitor and export eligibility, as well as any cap for the refund method."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "tax refund receipt minimum"
+    ],
+    "relations": [
+      {
+        "slug": "tax-refund-instant-vs-airport-2026",
+        "type": "next",
+        "label": "Choose the refund method at checkout",
+        "reason": "Compare an immediate deduction with keeping a voucher for a separate refund claim."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "kto-tax-refund",
+        "title": "VISITKOREA tourist retail refund rules",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736",
+        "note": "Published minimum, unused goods and departure conditions, plus the process for each refund type.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "law-immediate-tax",
+        "title": "Korean tax refund regulation article 6",
+        "url": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1031600355",
+        "note": "The immediate refund provision establishes its tax-inclusive transaction and cumulative purchase ceilings.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "The published retail purchase minimum is ₩15,000.",
+      "Ask which official voucher or record your chosen refund method uses."
+    ],
+    "heroOmissionReason": "The original archive presentation does not verify these current requirements. This update uses primary source links and a checklist.",
+    "changeType": "rewrite",
+    "launchOrder": 1344
   }
 }

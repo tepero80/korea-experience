@@ -1,6 +1,7 @@
 ---
 title: "Lotte Department Store Seoul: Complete Flagship Guide 2026"
 date: 2026-01-23
+updated: 2026-11-24
 excerpt: "Discover the best Lotte Department Store flagship locations. Compare Myeongdong vs Jamsil, find 2026 luxury brands, food courts, and duty-free prices."
 category: Shopping & K-Beauty
 author: Korea Experience Team
@@ -17,13 +18,13 @@ image: /images/editorial/seoul-lotte-flagship-euljiro-evening-2015-1280.webp
 
 If you are looking for the absolute best Lotte Department Store experience in Korea, the **Main Store in Myeongdong** and the **Jamsil Store (connected to Lotte World Tower)** are the two undisputed flagship locations you must visit. The Myeongdong Main Store is the historic hub of Korean retail, offering the highest concentration of duty-free goods and acting as a bridge to the famous Myeongdong shopping district. Conversely, the Jamsil location offers a more modern, spacious luxury experience, integrated with the massive Lotte World Mall, Aquarium, and Theme Park.
 
-**The short answer: For pure duty-free shopping and central sightseeing, choose the Myeongdong Main Store. For a full-day family entertainment and ultra-luxury experience, choose the Jamsil World Tower location. Both offer immediate tax refunds on purchases over ₩30,000 (approx. $22 USD).**
+**For central sightseeing, choose the Myeongdong Main Store. Choose the Jamsil area to combine shopping with other activities. Ask the specific counter which tourist refund method it offers before paying.**
 
 <KeyTakeaways 
   points={[
     "Myeongdong Main Store is best for Duty-Free shopping with the largest inventory in Seoul",
     "Jamsil Store connects to Lotte World Tower and offers a less crowded, premium luxury vibe",
-    "Tourists get immediate tax refunds of roughly 6-8% on purchases between 30,000 and ₩500,000",
+    "Check whether the counter can process an immediate deduction or issue refund paperwork",
     "The basement food courts (Food Avenue) close at 8:00 PM on weekdays and 8:30 PM on weekends"
   ]}
   readTime={15}
@@ -135,42 +136,19 @@ If you are taking the KTX down to Busan, this store is likely where you will do 
 
 The Busan location is famous for its **Food Avenue**, which features regional specialties you cannot find in Seoul, such as authentic Busan *eomuk* (fish cake) boutiques. For seafood lovers heading to Busan, pair your shopping trip with a visit to the markets detailed in our [Busan seafood guide](/blog/busan-seafood-guide-fresh-fish-markets-and-restaurants).
 
-<ExpertTip 
-  author="Min-ji Kim"
-  role="Busan Local Guide"
-  type="local"
-  verified={true}
->
-  The Tax Refund counter at the Busan Main Store is on the 8th floor, not the basement. Also, the rooftop garden on the 9th floor is a hidden gem for a free coffee break with a view of Seomyeon intersection.
-</ExpertTip>
-
 ## Shopping Systems: Tax Refund and Duty-Free Guide
 
 Navigating the financial side of shopping in Korea can save you significant money. In 2026, the systems have become more digitized, but the rules remain strict.
 
 ### Immediate Tax Refund vs. Airport Refund
-Lotte Department Stores offer **Immediate Tax Refund** services.
-*   **The Rule:** If you purchase items between ₩30,000 and ₩500,000, and your total purchase is under ₩2,500,000 for the trip, you can get the tax deducted *right at the register* or at the kiosk within the store.
-*   **The Benefit:** You pay the tax-free price immediately. No queuing at the airport.
-*   **The Requirement:** You MUST present your physical passport to the cashier.
 
-<StepGuide
-  title="How to get Immediate Tax Refunds at Lotte"
-  totalTime="5 minutes"
-  difficulty="easy"
-  steps={[
-    { title: "Check Price", description: "Ensure item is over ₩30,000 (approx $22).", tip: "Look for the 'Tax Free' logo at the register." },
-    { title: "Present Passport", description: "Hand your passport to the cashier BEFORE they scan the item.", tip: "Digital copies are usually rejected." },
-    { title: "Verification", description: "The system checks your entry date into Korea.", tip: "Must be within 3 months of entry." },
-    { title: "Payment", description: "Pay the net price (minus the roughly 6-8% tax)." }
-  ]}
-/>
+[VISITKOREA](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736) lists a minimum of **₩15,000** for eligible retail purchases. For immediate deductions, [article 6 of the relevant regulation](https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1031600355) requires a single tax-inclusive transaction below ₩1 million and a cumulative purchase total of ₩5 million or less for purchases receiving immediate refunds.
 
-### Duty-Free (The 9th-12th Floor Experience)
-"Duty-Free" shops (Lotte Duty Free) are different from "Tax-Free" shopping.
-1.  **Currency:** Prices are in USD.
-2.  **Pickup:** You **cannot** take international brand goods (like Gucci or Chanel) with you from the store. You must pick them up at the "Duty-Free Pickup" gate at Incheon or Gimpo airport after you pass immigration.
-3.  **Exception:** Korean local brands (like Sulwhasoo or Gentle Monster) can sometimes be taken immediately, but usually, they are also sent to the airport to ensure they leave the country.
+Ask the specific counter which purchases qualify and whether it deducts tax at checkout or issues paperwork for a separate claim. Bring your passport, check the amount on the receipt and keep any refund voucher. If you need a separate counter, ask for its current location in that building. See the [retail refund minimum and receipt checks](/blog/tax-refund-15000-minimum-2026).
+
+### Duty-free purchase and pickup
+
+Duty-free departure pickup and a retail tax refund use separate procedures. For a duty-free order, check the checkout currency and collection terms attached to that offer. [Lotte Duty Free’s pickup instructions](https://eng.lottedfs.com/kr/product/productDetail?prdNo=10003110466) give an example that uses a physical passport, boarding pass and exchange bill. Match the assigned pickup counter to your departure airport or port and terminal. Allow time before boarding and confirm how a change of departure affects the order.
 
 ## Food & Dining: The "Depachika" Culture
 
@@ -208,7 +186,7 @@ At the Myeongdong Main Store, you can use the "Smart Pick" service. You buy item
 
 <ProsCons
   title="Lotte Department Store Shopping"
-  pros={["One-stop shop for luxury, food, and souvenirs", "English/Chinese/Japanese speaking staff", "Immediate tax refunds save time", "Directly connected to subway stations"]}
+  pros={["One-stop shop for luxury, food, and souvenirs", "English/Chinese/Japanese speaking staff", "Directly connected to subway stations"]}
   cons={["Can get unbearably crowded on weekends", "Air conditioning/Heating is very strong (dress in layers)", "Elevators are notoriously slow", "Food court seating is competitive during lunch (11:30-13:30)"]}
   variant="cards"
 />
