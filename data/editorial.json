@@ -30841,5 +30841,292 @@
     "heroOmissionReason": "The former archive illustration cannot verify this administrative process. The guide uses a checklist and links to the relevant official lookups.",
     "changeType": "rewrite",
     "launchOrder": 1334
+  },
+  "24-hour-juk-porridge-for-recovery-2026": {
+    "id": "guide:24-hour-juk-porridge-for-recovery-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "forWhom": "Travelers looking for rice porridge after a late arrival in Seoul",
+    "answer": "Search for 죽 or 본죽 near your stay and confirm the branch is still taking orders. If it is closed, check a nearby open convenience store for packaged 죽, then read the ingredients and heating directions.",
+    "conditions": [
+      "Hours and stock vary by branch.",
+      "Packaged and restaurant porridge can use different ingredients, including seafood or nuts."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "late-night dining",
+      "juk"
+    ],
+    "relations": [
+      {
+        "slug": "late-night-dining-24-hour-restaurants-in-seoul",
+        "type": "alternative",
+        "label": "Find another late meal",
+        "reason": "Compare other meals when you cannot find a porridge shop or a suitable package."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "bonjuk-locator",
+        "title": "Bonjuk branch finder",
+        "url": "https://www.bonif.co.kr/brand/store?brdCd=BF101",
+        "note": "Use location filters and the specific branch contact to check hours.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "bonjuk-menu",
+        "title": "Bonjuk menu",
+        "url": "https://www.bonif.co.kr/brand/menu?brdCd=BF101",
+        "note": "Examples of named porridges, separate from local stock and hours.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-gs25-n-tower",
+        "title": "VISITKOREA GS25 N Seoul Tower branch listing",
+        "url": "https://english.visitkorea.or.kr/svc/whereToGo/locIntrdn/rgnContentsView.do?vcontsId=1573631",
+        "note": "A branch-specific example listing opening and closing times.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Search 죽 or 본죽 and check the last order.",
+      "For packaged 죽, follow the directions on the pack."
+    ],
+    "heroMediaId": "archive-jeonbok-juk-bowl-2018",
+    "heroCaption": "A restaurant bowl of abalone juk photographed in Busan in 2018. Packaged juk has its own ingredients and preparation instructions.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "bryan...",
+      "title": "Jeonbok-juk.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeonbok-juk.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0."
+    },
+    "changeType": "rewrite",
+    "launchOrder": 1335
+  },
+  "solo-travel-safety-index-2026": {
+    "id": "guide:solo-travel-safety-index-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "forWhom": "Solo visitors arriving after dark at a Korean airport, rail station or bus terminal",
+    "answer": "Save the Korean address and late check-in instructions before departure. Confirm how you will reach the exact entrance, and stay near staff while you arrange a replacement ride if your first plan falls through.",
+    "conditions": [
+      "Check staff hours and late access with your accommodation.",
+      "Station exits, last departures and pickup points vary by route, terminal and date."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "arrival"
+    ],
+    "interests": [
+      "solo arrivals",
+      "late arrival planning"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-airport-late-night-arrival-guide",
+        "type": "next",
+        "label": "Check a late Incheon arrival",
+        "reason": "Compare the airport options after you know your terminal and the time you can leave arrivals."
+      },
+      {
+        "slug": "korea-travel-problem-solving-guide",
+        "type": "prepare",
+        "label": "Save help numbers and backups",
+        "reason": "Keep emergency numbers handy and know what to do if you lose documents or payment access."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "airport-taxi-stands",
+        "title": "Incheon Airport official taxi information",
+        "url": "https://www.airport.kr/ap_ko/986/subview.do",
+        "note": "Published pickup points by terminal and service type.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "airport-night-bus-t1",
+        "title": "Incheon Airport Terminal 1 Seoul overnight buses",
+        "url": "https://airport.kr/ap_en/1507/subview.do",
+        "note": "The published late routes and stop information are terminal-specific.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "airport-night-bus-t2",
+        "title": "Incheon Airport Terminal 2 Seoul overnight buses",
+        "url": "https://airport.kr/ap_en/1510/subview.do",
+        "note": "Terminal 2 has its own departure and boarding information.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-emergency",
+        "title": "VISITKOREA emergency services for visitors",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=248145",
+        "note": "Police at 112 and fire or ambulance at 119.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-1330",
+        "title": "VISITKOREA 1330 travel helpline",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140632",
+        "note": "Tourist information and language help.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Save the exact lodging entrance and late check-in details.",
+      "Check the last leg from the final stop to the door."
+    ],
+    "heroMediaId": "archive-seoul-station-tracks-at-night-2022",
+    "heroCaption": "Seoul Station platforms in 2022. Check the current signs or ask station staff which exit leads to your onward pickup point.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Tildin Han",
+      "title": "Seoul Station Train Tracks at Night.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Station_Train_Tracks_at_Night.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0."
+    },
+    "changeType": "rewrite",
+    "launchOrder": 1336
+  },
+  "credit-cards-in-korea-which-banks-accept-foreigners": {
+    "id": "guide:credit-cards-in-korea-which-banks-accept-foreigners",
+    "checkedAt": "2026-11-24",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "forWhom": "Foreign residents choosing a Korean-issued card or asking which product accepts their application",
+    "answer": "Start with the payment feature you need. A check card uses a linked account and a credit card has a later bill and an issuer review. Confirm that the exact product accepts your documents.",
+    "conditions": [
+      "Product eligibility, account linkage and transit features vary.",
+      "Check-card and credit-card information comes from separate product and issuance terms."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "resident card comparison"
+    ],
+    "relations": [
+      {
+        "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+        "type": "alternative",
+        "label": "Plan a foreign-card cash backup",
+        "reason": "Use this if you need won before receiving a domestic card."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "hana-card-issuance",
+        "title": "Hana Card issuance and assessment guidance",
+        "url": "https://www.hanacard.co.kr/jsp/cmn/cm/O/OSA05000000N.web",
+        "note": "Distinguishes check-card account conditions from credit review and gives examples of supporting documents.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kb-global-card-help",
+        "title": "KB Kookmin Card global customer service",
+        "url": "https://mapps.kbcard.com/SVC/DVIEW/HSGMCXCRSCTCR0001",
+        "note": "Foreign-customer card example and the issuer’s English and Chinese assistance channel.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "shinhan-sol-global-check",
+        "title": "Shinhan SOL Global check-card product terms",
+        "url": "https://www.shinhancard.com/pconts/html/card/apply/check/1229905_2206.html",
+        "note": "Applicant restriction to foreign registration card holders and separate postpaid transit terms.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Check card eligibility applies to the product, not the bank as a whole.",
+      "Ask separately about postpaid transit and fees."
+    ],
+    "heroOmissionReason": "The archived illustration cannot verify a card product or the application process. Use the comparison table and primary records.",
+    "changeType": "rewrite",
+    "launchOrder": 1337
+  },
+  "how-to-get-a-credit-card-in-korea-as-an-expat-2026": {
+    "id": "guide:how-to-get-a-credit-card-in-korea-as-an-expat-2026",
+    "checkedAt": "2026-11-24",
+    "categoryId": "travel-essentials",
+    "format": "how-to",
+    "forWhom": "Foreign residents who have chosen a credit card and need to submit an application",
+    "answer": "Ask the issuer where it can review your chosen product with your current ID and residence status. Get the document list and verification method before applying, then confirm how billing works if the card is issued.",
+    "conditions": [
+      "The issuer sets product-specific eligibility and reviews the application.",
+      "Use the bank or card issuer’s official submission channel for personal documents."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go"
+    ],
+    "interests": [
+      "resident credit application documents"
+    ],
+    "relations": [
+      {
+        "slug": "foreign-card-cash-withdrawals-in-korea-atm-labels-fees-and-fallback-options",
+        "type": "alternative",
+        "label": "Keep a separate cash option",
+        "reason": "Confirm how to withdraw won while your card application is unresolved."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "hana-card-issuance",
+        "title": "Hana Card issuance and assessment guidance",
+        "url": "https://www.hanacard.co.kr/jsp/cmn/cm/O/OSA05000000N.web",
+        "note": "Distinguishes check-card account conditions from credit review and gives examples of supporting documents.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kb-global-card-help",
+        "title": "KB Kookmin Card global customer service",
+        "url": "https://mapps.kbcard.com/SVC/DVIEW/HSGMCXCRSCTCR0001",
+        "note": "Foreign-customer card example and the issuer’s English and Chinese assistance channel.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "hana-bank-remote-identity",
+        "title": "Hana Bank notice on specific remote identity checks",
+        "url": "https://www.kebhana.com/cont/news/news01/news0101/1501326_118324.jsp",
+        "note": "A dated example showing why a branch and a remote flow may accept different identity documents.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm whether the issuer can review your documents in person or online.",
+      "Check the payment account and due date before relying on the card."
+    ],
+    "heroOmissionReason": "The archived illustration cannot verify a card product or the application process. Use the comparison table and primary records.",
+    "changeType": "rewrite",
+    "launchOrder": 1338
   }
 }

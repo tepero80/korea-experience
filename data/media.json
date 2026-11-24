@@ -11228,5 +11228,51 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0. The photograph shows the scene at the time of capture."
     },
     "caption": "A queue outside a samgyetang restaurant in Chebu-dong in August 2013. Use your confirmed restaurant’s current check-in instructions, and plan a separate walk-in fallback."
+  },
+  {
+    "id": "archive-seoul-station-tracks-at-night-2022",
+    "src": "/images/editorial/archive-seoul-station-tracks-at-night-2022-1280.webp",
+    "srcSet": "/images/editorial/archive-seoul-station-tracks-at-night-2022-640.webp 640w, /images/editorial/archive-seoul-station-tracks-at-night-2022-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "Lit train platforms, tracks and stairs at Seoul Station at night",
+    "caption": "Seoul Station platforms in 2022. Check the current signs or ask station staff which exit leads to your onward pickup point.",
+    "focal": "50% 57%",
+    "originalId": "Seoul Station Train Tracks at Night.jpg",
+    "originalHash": "84f852eb1f2d25522774fdc80ae1d0f72b461115ee7da4449cd81fb41e5fa4a1",
+    "capturedAt": "2022-07-03",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "Tildin Han",
+      "title": "Seoul Station Train Tracks at Night.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_Station_Train_Tracks_at_Night.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0."
+    }
+  },
+  {
+    "id": "archive-jeonbok-juk-bowl-2018",
+    "src": "/images/editorial/archive-jeonbok-juk-bowl-2018-1280.webp",
+    "srcSet": "/images/editorial/archive-jeonbok-juk-bowl-2018-640.webp 640w, /images/editorial/archive-jeonbok-juk-bowl-2018-1280.webp 1280w",
+    "width": 1280,
+    "height": 853,
+    "alt": "A bowl of abalone juk with sliced seafood and side dishes on a wooden table",
+    "caption": "A restaurant bowl of abalone juk photographed in Busan in 2018. Packaged juk has its own ingredients and preparation instructions.",
+    "focal": "50% 54%",
+    "originalId": "Jeonbok-juk.jpg",
+    "originalHash": "e7b1926a3e9a34207a4ac722e6cb1bd75b06128dddc5e9cad255d55bc3ec81d9",
+    "capturedAt": "2018-10-14",
+    "checkedAt": "2026-11-24",
+    "credit": {
+      "kind": "photograph",
+      "author": "bryan...",
+      "title": "Jeonbok-juk.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Jeonbok-juk.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 2.0."
+    }
   }
 ]
