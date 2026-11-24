@@ -42615,5 +42615,177 @@
     "changeType": "rewrite",
     "launchOrder": 1550,
     "heroOmissionReason": "A comparison table and exact product labels explain the visual selection task without an unverifiable sunscreen package photo."
+  },
+  "pet-ownership-in-korea-vet-care-and-pet-hotels": {
+    "id": "guide:pet-ownership-in-korea-vet-care-and-pet-hotels",
+    "categoryId": "where-to-stay",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start by deciding whether your pet is staying in your room or under separate care. Get written approval for the exact room or boarding dates and confirm the species, size, documents and full cost before paying.",
+    "forWhom": "Visitors arranging a short stay while their dog or cat is already in Korea.",
+    "conditions": [
+      "Eligibility and advance approval vary by operator.",
+      "International entry and airline carriage are separate checks."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "short stay pet boarding",
+      "pet room policies"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w29-somerset-faq",
+        "title": "Jeju Shinhwa World pet room policy",
+        "url": "https://www.shinhwaworld.com/content-problemen.htm?lang=en",
+        "note": "Somerset room category, dogs under 10 kg and vaccination documents.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w29-myomyo",
+        "title": "Myomyo Banjeom cat boarding",
+        "url": "https://www.myomyo.co.kr/",
+        "note": "Cat boarding provider contact, address and room CCTV.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w29-helix-seocho",
+        "title": "Helix Animal Medical Center in Seocho",
+        "url": "https://helix-amc.com/seocho",
+        "note": "Published address, contact and nighttime emergency hours for the Seocho branch.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the exact room or boarding policy in writing before you pay."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1551,
+    "heroOmissionReason": "The article compares booking requirements. Its operators are examples of published policies and are identified in linked sources."
+  },
+  "learning-to-cook-korean-food-at-home-essential-pantry-items-2026": {
+    "id": "guide:learning-to-cook-korean-food-at-home-essential-pantry-items-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Choose one dish before shopping, then match its ingredient to the Korean label. Check the full name, ingredient list and container size before choosing a jar, pouch or bottle.",
+    "forWhom": "Travelers shopping for cooking in a rental or picking one pantry item to take home.",
+    "conditions": [
+      "The examples show label names and formats, and availability varies by store.",
+      "Verify rules for taking food home before buying."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "korean pantry labels",
+      "cooking ingredients"
+    ],
+    "relations": [
+      {
+        "slug": "packing-korean-shopping-liquids-and-souvenirs-for-your-flight",
+        "type": "next",
+        "label": "Check which pantry items fit your luggage",
+        "reason": "Compare cabin and checked luggage rules before buying a paste, oil or sauce."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w29-cj-pantry",
+        "title": "CJ The Market sauces and pastes category",
+        "url": "https://m.cjthemarket.com/the/product/category-product-list?ctgrId=004402",
+        "note": "Product names and sizes for Haechandle gochujang and doenjang.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w29-sempio-soup",
+        "title": "Sempio Korean soup soy sauce",
+        "url": "https://www.sempio.com/market/ganjang/476",
+        "note": "Product labeled 한식국간장, with 500 mL and 860 mL packs.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w29-kto-market-food",
+        "title": "VisitKorea guide to markets for food shopping",
+        "url": "https://english.visitkorea.or.kr/web_book/enu/travel_guide/contents/shopping_s11.html",
+        "note": "Gwangjang as one market for ingredients and regional Jeju market specialties.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Match the full Korean label to the recipe before buying a jar."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1552,
+    "heroOmissionReason": "The table shows Korean labels to match on the shelf. Manufacturer pages show the actual example packaging."
+  },
+  "why-koreans-dont-hold-doors-2026": {
+    "id": "guide:why-koreans-dont-hold-doors-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "At a busy entrance or subway door, pause at the side so people can leave first. Hold a manual door for someone close behind if you can do so without blocking the route.",
+    "forWhom": "Seoul visitors sharing busy station, elevator or building entrances, including with luggage.",
+    "conditions": [
+      "Use posted signs, staff directions and actual platform markings.",
+      "Building and elevator tips are practical courtesy suggestions."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "subway boarding",
+      "crowded doorways"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-transportation-guide-for-tourists-2026",
+        "type": "next",
+        "label": "Plan a Seoul route that works with luggage",
+        "reason": "Compare walk, train and bus connections and check station elevators before your journey."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w29-seoul-subway-safety",
+        "title": "Seoul Metropolitan Government subway safety guidance",
+        "url": "https://news.seoul.go.kr/traffic/archives/10362",
+        "note": "Letting passengers exit first and watching the platform gap.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w29-seoul-public-transit",
+        "title": "Seoul Metropolitan Government public transportation guide",
+        "url": "https://english.seoul.go.kr/service/movement/public-transportation/",
+        "note": "Boarding a Seoul city bus at the front, leaving by the rear and tapping a card.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Leave room to exit before you enter."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1553,
+    "heroOmissionReason": "A compact comparison of door and platform situations is useful without implying that one photo shows typical behavior at every entrance."
   }
 }

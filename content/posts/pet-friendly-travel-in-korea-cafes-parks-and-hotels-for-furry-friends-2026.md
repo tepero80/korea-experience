@@ -10,6 +10,8 @@ featured: false
 
 A pet-friendly listing is a starting point, not a promise that every room or area accepts your animal. Start with the animal's species, size and travel dates, and get each operator's answer before paying.
 
+If you need separate care for part of the trip, check the [short-stay pet room and boarding guide](/blog/pet-ownership-in-korea-vet-care-and-pet-hotels) before booking.
+
 ## Plan each step
 
 | Step | Confirm |

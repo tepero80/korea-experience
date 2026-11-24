@@ -23,6 +23,8 @@ Choose the shop around the meal you can actually prepare and carry. A supermarke
 
 The Korea Tourism Organization describes a [service program at named traditional markets](https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=177&vcontsId=1590057), including efforts around price display and card acceptance. That program does not prove that every stall takes every card. Ask before choosing items and keep another payment option available.
 
+If your recipe calls for a fermented paste or soup soy sauce, use the [Korean pantry label guide](/blog/learning-to-cook-korean-food-at-home-essential-pantry-items-2026) to choose the right product and size.
+
 ## Buy for your actual kitchen
 
 Check whether your accommodation permits cooking and provides a refrigerator, utensils and a way to dispose of packaging. Read the label and ask staff about ingredients or allergens where needed. A translation app can help identify a product, but it cannot guarantee a safe answer for a serious allergy.

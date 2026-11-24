@@ -20,6 +20,8 @@ image: "/images/editorial/archive-sinyongsan-exit-2-2019-1280.webp"
 | Taxi | The workable transit option has ended, or your group and bags are hard to manage at transfers. Check vehicle size first. |
 | On foot | The connection is short and the path fits your bags, mobility and weather. Check the actual street route. |
 
+For the crowded parts of a journey, see [Seoul doorways, elevators and subway queues](/blog/why-koreans-dont-hold-doors-2026) for practical boarding and luggage tips.
+
 ## Save a last-service fallback
 
 For a late trip, look up the station, direction and your actual stopping station. Check whether a train or bus ends its service before you reach your stop. Save the Korean destination address and a backup way to move your group. Check elevators along the route if you need them, including the correct street exit.
