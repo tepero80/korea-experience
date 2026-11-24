@@ -227,11 +227,13 @@ While we cannot endorse specific medical advice, the following areas are hubs fo
   title="Clinic Visit Quick Facts"
   facts={[
     { label: "Reservation", value: "Required (KakaoTalk)", icon: "📅" },
-    { label: "Passport", value: "Bring for Tax Refund", icon: "🛂" },
+    { label: "ID", value: "Check with the clinic", icon: "🛂" },
     { label: "Payment", value: "Card or Cash", icon: "💳" }
   ]}
   columns={3}
 />
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to qualifying services provided through December 31, 2025. Ask for a written itemized clinic quote including any applicable tax before you pay. Retail purchases follow separate refund rules.
 
 For a broader look at anti-aging procedures beyond just lips, consult our guide on [anti-aging treatments in Korea](/blog/anti-aging-treatments-in-korea-botox-fillers-and-more-2026).
 
@@ -243,7 +245,7 @@ For a broader look at anti-aging procedures beyond just lips, consult our guide 
     { question: "Is it safe to get lip fillers in Korea?", answer: "Yes, Korea has some of the highest standards for aesthetic medicine in the world. However, always verify that the doctor is using a new, sealed syringe. You can ask to see the box before they inject." },
     { question: "Can I fly immediately after getting lip fillers?", answer: "Technically yes, but it is not recommended for 24-48 hours. The change in cabin pressure can exacerbate swelling and discomfort. Hydration is crucial if you must fly." },
     { question: "Do Korean lip tints dry out your lips?", answer: "Old generations of tints (2010-2015) were very drying. Modern formulas (2024-2026) usually contain hyaluronic acid, glycerin, or oils. However, 'Water Tints' are still drier than 'Glow Tints'. Always use a lip balm at night." },
-    { question: "How much tax refund do I get on cosmetic procedures?", answer: "You can get a VAT refund (approx 6-8% of the cost) on cosmetic procedures if the clinic is certified for medical tourism tax refunds. You must present your passport and get a refund receipt to scan at the airport." },
+    { question: "Do shop tax refunds apply to clinic charges?", answer: "Retail purchases follow separate refund rules. The former tourist VAT refund covered qualifying cosmetic medical services provided through December 31, 2025. Ask the clinic to include any applicable tax in its written quote." },
     { question: "What is the difference between Lip Neutralization and Lip Blush?", answer: "Lip Neutralization is specifically for dark or cool-toned lips (often melanin-rich) to warm them up using orange/yellow pigments. Lip Blush is for adding color (pink/red) to pale lips. Neutralization often requires more sessions." }
   ]}
 />

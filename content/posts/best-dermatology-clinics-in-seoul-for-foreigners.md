@@ -25,7 +25,7 @@ Finding the right dermatologist in Seoul can be overwhelming. With over 500 clin
   points={[
     "Board-certified specialists charge 30-50% more than general aesthetic clinics but offer higher safety standards.",
     "Most clinics require a deposit (approx. ₩50,000) to secure an appointment via KakaoTalk or WhatsApp.",
-    "Tax refunds of 7-10% are available for cosmetic procedures; always bring your passport to the clinic."
+    "Ask for the full written cost before you book."
   ]}
   readTime={15}
   lastUpdated="2026-02-07"
@@ -79,7 +79,6 @@ Part of the massive ID Hospital complex (famous for bone contouring surgery), th
   title="ID Dermatology Specs"
   facts={[
     { label: "Interpreters", value: "Available On-site", icon: "🗣️" },
-    { label: "Tax Refund", value: "Kiosk in Lobby", icon: "💸" },
     { label: "Consult Fee", value: "₩30,000", icon: "📋" }
   ]}
   columns={3}
@@ -115,7 +114,7 @@ One of the biggest anxieties for travelers is cost. Is it really cheaper? Yes, b
   ]}
 />
 
-*Note: Exchange rates fluctuate, but generally, ₩1,000 is roughly $0.75 USD. Prices exclude 10% VAT, which is refundable at the airport for amounts over ₩30,000.*
+*Exchange rates vary. Confirm the total in Korean won with the clinic before relying on a converted price.*
 
 If you are interested in anti-aging specifically, check our detailed breakdown of [anti-aging treatments in Korea](/blog/anti-aging-treatments-in-korea-botox-fillers-and-more-2026).
 
@@ -188,7 +187,8 @@ This is the most critical decision you will make. Korean dermatology operates on
 
 Korea has a robust medical system, but things can go wrong.
 1.  **verify the Specialist:** In Korea, any doctor can open a skin clinic. A "General Practitioner" (GP) clinic usually has a sign that says "Clinic" (의원) with "Dermatology Subject" written smaller. A Board-Certified Dermatologist (only 2% of doctors) will have a specific logo (a red square with a white F-shape/pattern) and the words "Dermatology" (피부과) directly in the clinic name without the word "Subject" (진료과목).
-2.  **Tax Refund:** Legally, cosmetic procedures performed on foreign tourists are eligible for a VAT refund (approx. 7-8% of the total after fees). You must receive a "Certificate of Medical Service for Tourist" from the clinic. You scan this at the airport kiosks *before* you check in your bags (if the refund is large) or at the gate area.
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former foreign-tourist cosmetic-treatment VAT refund to qualifying services supplied through December 31, 2025. Request a written, itemized quote that includes any applicable tax and identifies any charges billed separately.
 
 <InfoBox type="danger" title="Medical Disclaimer">
   The content in this article is for informational purposes only and does not constitute medical advice. Always consult with a qualified healthcare provider before undergoing any procedure. Emergency medical service in Korea is available by dialing 119.
@@ -203,7 +203,7 @@ To maximize your results and minimize stress, follow this timeline.
   items={[
     { time: "2 Weeks Before", title: "Stop Retinoids", description: "Stop using Retinol, Tretinoin, or heavy exfoliants to reduce sensitivity.", icon: "🛑" },
     { time: "Booking Day", title: "Confirm Deposit", description: "Ensure your Wise/PayPal transfer went through. Screenshot the confirmation.", icon: "📱" },
-    { time: "Appointment Day", title: "Go Bare Faced", description: "While they will cleanse you, arriving without heavy makeup saves time. Bring your Passport for the tax refund.", icon: "🧖‍♀️" },
+    { time: "Appointment Day", title: "Go Bare Faced", description: "While they will cleanse you, arriving without heavy makeup saves time.", icon: "🧖‍♀️" },
     { time: "Post-Treatment", title: "Sun Protection", description: "Korean UV levels are high. You MUST wear SPF 50+ constantly after lasers.", icon: "☀️" }
   ]}
 />

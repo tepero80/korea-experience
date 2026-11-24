@@ -64,7 +64,7 @@ You might still see this on some outdated price lists, but be careful. It was re
 
 Ready to get frozen? Here is exactly how to navigate the Seoul clinic system.
 
-<StepGuide title="How to Get Botox in Seoul Like a Pro" steps={[{ title: 'Booking Your Appointment', description: 'Do not just walk in. Use KakaoTalk or Instagram DM to book. Search for the clinic ID (e.g., Muse, Toxnfill). If you lack a Korean number, look for International/Foreigner branch websites.', tip: 'Book morning slots to avoid crowds.' }, { title: 'The Consultation & Upsell', description: 'You will meet a consultant, not the doctor first. They may suggest extras like masseter Botox. Stick to your plan unless you genuinely want the package deal.', tip: 'Be firm but polite.' }, { title: 'Payment & Tax Refund', description: 'Pay before the procedure. Ask for the Tax Refund Receipt immediately. Cosmetic procedures are eligible for a 7-8% VAT refund.', tip: 'Scan this receipt at Incheon Airport kiosks.' }, { title: 'The Factory Experience', description: 'Wash your own face, get numbed in a waiting room, and receive a 30-second injection. It is fast and efficient.', tip: 'Ask to see the bottle opened in front of you.' }]} />
+<StepGuide title="How to Get Botox in Seoul Like a Pro" steps={[{ title: 'Booking Your Appointment', description: 'Do not just walk in. Use KakaoTalk or Instagram DM to book. Search for the clinic ID (e.g., Muse, Toxnfill). If you lack a Korean number, look for International/Foreigner branch websites.', tip: 'Book morning slots to avoid crowds.' }, { title: 'The Consultation & Upsell', description: 'You will meet a consultant, not the doctor first. They may suggest extras like masseter Botox. Stick to your plan unless you genuinely want the package deal.', tip: 'Be firm but polite.' }, { title: 'Review the Quote', description: 'Confirm the written total and any applicable tax before payment.', tip: 'Keep the itemized receipt.' }, { title: 'The Factory Experience', description: 'Wash your own face, get numbed in a waiting room, and receive a 30-second injection. It is fast and efficient.', tip: 'Ask to see the bottle opened in front of you.' }]} />
 
 <ExpertTip name="Dr. Kim Min-seok" role="Head Dermatologist, Gangnam Aesthetic Center, 12 years experience" quote="Foreign patients always ask for Allergan because they know the name, but I use Coretox on my own wife. The risk of antibody resistance with older toxins is real if you treat regularly. If you are under 40 and plan to use Botox for the rest of your life, pay the extra $20 for Coretox over the cheap generic brands. It saves your receptors for the future." />
 
@@ -75,8 +75,9 @@ Here are the insider secrets that can save you a headache.
 ### The "Refill" Trap
 Some clinics offer a free "touch up" within 2 weeks. But if you are a tourist leaving in 3 days, this is useless to you. Ask for a discount in lieu of the touch-up, or ensure they hit the dose right the first time.
 
-### The Tax Refund is REAL money
-We aren't talking pennies. If you spend $500 on treatments, you get about $35-$40 back. But you *must* get the specific "Tax Refund" receipt from the clinic. The regular credit card receipt won't work at the airport kiosk. Ask for it *before* you pay. For a full walkthrough, read our [VAT Tax Refund on Plastic Surgery in Korea: 2026 Guide](/blog/vat-tax-refund-plastic-surgery-2026).
+### Check the Amount Payable
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former foreign-tourist cosmetic-treatment VAT refund to eligible services provided through December 31, 2025. Ask for a written, itemized quote including any applicable tax.
 
 ### Don't Do "Masseter" Before a Food Tour
 If you get jaw (masseter) Botox to slim your face, your jaw will feel weak for a few weeks. If you planned on eating tough Korean BBQ or chewy octopus (San-nakji) that night, you are going to have a bad time. Schedule the jaw Botox for the *end* of your trip!
@@ -100,7 +101,7 @@ If you are looking for reliable places, here are three popular options ranging f
 ### 1. Muse Clinic (Gangnam Branch)
 *   **Type:** Clinic (Factory Style)
 *   **Address:** 2-5F, 452 Gangnam-daero, Gangnam-gu, Seoul
-*   **Highlights:** Extremely cheap, English menus, tax refund kiosk on-site.
+*   **Before booking:** Ask which charges the clinic includes in its quote.
 *   **Insider Tip:** Book the first slot of the day to avoid the massive afternoon crowds.
 
 ### 2. Toxnfill (Myeongdong Branch)
@@ -136,7 +137,7 @@ Korea is arguably the best place in the world to get Botox right now. The qualit
 1.  Download KakaoTalk.
 2.  Message **Muse**, **Toxnfill**, or **Ppeum** to book a slot (mornings are best).
 3.  Ask specifically for **Coretox** (for safety) or **Newlux** (for value).
-4.  Get your tax refund receipt.
+4.  Keep your itemized clinic receipt.
 5.  Enjoy your wrinkle-free vacation.
 
 Don't overthink it. Thousands of people do this every single day in Seoul. Trust the process, skip the sketchy discontinued brands, and enjoy the glow up!

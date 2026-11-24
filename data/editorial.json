@@ -42313,5 +42313,52 @@
     "changeType": "rewrite",
     "launchOrder": 1545,
     "heroOmissionReason": "The practical comparison or checklist is the lead visual. A suitable licensed original photograph was not verified."
+  },
+  "vat-tax-refund-plastic-surgery-2026": {
+    "id": "guide:vat-tax-refund-plastic-surgery-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Budget from the clinic’s written total. The former foreign-tourist VAT refund covered eligible cosmetic medical services supplied through December 31, 2025. The date the service was provided determines whether this cutoff applies.",
+    "forWhom": "Visitors checking a clinic quote or an older article about cosmetic medical tax refunds in Korea.",
+    "conditions": [
+      "Use the date the service was provided.",
+      "Check retail purchase refunds and private offers under their own terms."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "departure"
+    ],
+    "interests": [
+      "tax-refunds"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w27-medical-vat-107-3",
+        "title": "National Law Information Center, Article 107-3",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343",
+        "note": "The current article limits the former relief to eligible services supplied through December 31, 2025. The deadline is tied to the service date.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w27-kcs-goods-refund",
+        "title": "Korea Customs Service, tourist refunds for purchased goods",
+        "url": "https://www.customs.go.kr/english/cm/cntnts/cntntsView.do?mi=10803&cntntsId=5504",
+        "note": "The customs guidance describes retail goods and departure confirmation. Check the shop’s eligibility and the published procedure for your purchase.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "The former medical refund used the service date."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1546,
+    "heroOmissionReason": "The lead comparison sets out the applicable billing and refund distinctions. No location photograph is needed to use this guide."
   }
 }

@@ -25,7 +25,7 @@ If you are considering a hair transplant in Korea in 2026, you can expect to pay
   points={[
     "Average cost is $4,500 for 2,000 grafts using the FUE method",
     "Korean clinics specialize in high-density packing (50-60 grafts per cm²)",
-    "Foreign tourists are eligible for a 10% VAT refund at the airport"
+    "Ask the clinic for a written itemized quote including any applicable tax"
   ]}
   readTime={18}
   lastUpdated="2026-02-07"
@@ -122,9 +122,7 @@ Some top-tier clinics in Apgujeong now use the ARTAS iX robot. This machine uses
 *   **Pros:** Removes human fatigue error during extraction.
 *   **Cons:** Significantly more expensive; the implantation is still done by human hand for aesthetic reasons.
 
-<InfoBox type="tip" title="Pro Tip: The VAT Refund">
-  Plastic surgery and cosmetic procedures in Korea are subject to 10% VAT. However, as a tourist, you are eligible for a tax refund. Ensure the clinic gives you the "Tax Refund Receipt" before you leave. You can claim this cash (or refund to card) at the kiosk in Incheon Airport terminals.
-</InfoBox>
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to qualifying services provided through December 31, 2025. Request a written itemized quote including any applicable tax and ask which services are included before you compare prices.
 
 ## Top Clinic Districts: Gangnam and Beyond
 

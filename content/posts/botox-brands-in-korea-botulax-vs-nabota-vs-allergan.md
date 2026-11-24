@@ -149,7 +149,7 @@ The primary driver for medical tourism in Korea is the cost-to-quality ratio. Be
 
 When you compare this to the US or Europe, where a single area can cost $250 to $400 USD (approx. ₩330,000 - ₩530,000), the savings are astronomical. Even with a plane ticket, getting a full face and body treatment in Seoul can offset the travel costs.
 
-Additionally, international visitors are eligible for a **Tax Refund** on cosmetic procedures. This ranges from 7% to 8% of the total cost. Most major clinics have a tax refund kiosk on-site or provide the receipts necessary to claim at Incheon Airport.
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former foreign-tourist cosmetic-treatment VAT refund to qualifying services supplied through December 31, 2025. Ask the clinic for a written, itemized quote that includes any applicable tax, and check what the advertised price covers.
 
 ## The Clinic Experience: What to Expect
 
@@ -166,7 +166,7 @@ For help navigating the appointment system, read our guide on [booking medical c
   totalTime="45 minutes"
   difficulty="easy"
   steps={[
-    { title: "Consultation", description: "Meet with a consultant to discuss areas and choose your brand/dosage.", tip: "Ask for the VAT refund receipt here." },
+    { title: "Consultation", description: "Meet with a consultant to discuss areas and choose your brand/dosage.", tip: "Confirm the written total and ask for an itemized receipt after payment." },
     { title: "Numbing", description: "Apply anesthetic cream for 20-30 minutes.", tip: "You can skip this if you have high pain tolerance to save time." },
     { title: "Design & Injection", description: "The doctor marks the injection points and injects. Takes 2-5 minutes.", tip: "The doctor will show you the unopened box to verify the brand." },
     { title: "Aftercare", description: "Apply antibiotic cream/patch. You can leave immediately." }
@@ -218,8 +218,7 @@ For those with sensitive skin concerns alongside their anti-aging needs, we reco
   pros={[
     "Korean brands are 50-70% cheaper",
     "Nabota is FDA approved (same safety tier as Allergan)",
-    "Clinics are highly experienced due to high volume",
-    "Tax refunds available for tourists"
+    "Clinics are highly experienced due to high volume"
   ]}
   cons={[
     "Slightly higher diffusion risk in budget brands",
@@ -237,7 +236,7 @@ For those with sensitive skin concerns alongside their anti-aging needs, we reco
     { question: "How long does Korean Botox last compared to Allergan?", answer: "Allergan typically lasts 4-6 months. Korean brands like Nabota and Botulax generally last 3-4 months. However, because Korean brands are so affordable, many patients find it more cost-effective to get treatments slightly more often." },
     { question: "Can I fly immediately after Botox?", answer: "Yes, you can fly immediately. However, doctors recommend waiting 24 hours if possible to avoid pressure changes affecting the diffusion, though this risk is minimal. Do not rub the area or wear tight hats/helmets for 4 hours after injection." },
     { question: "Is Innotox or Coretox better?", answer: "Innotox (liquid form) and Coretox are newer generation 'pure' toxins that remove animal-derived proteins to lower resistance risk. They are slightly more expensive than Botulax but cheaper than Allergan. They are excellent choices for long-term users worried about immunity." },
-    { question: "Do I need to tip the doctor in Korea?", answer: "No. Tipping is not part of Korean culture, even in medical settings. The price you see is the price you pay (plus VAT, which you can often get refunded)." },
+    { question: "Do I need to tip the doctor in Korea?", answer: "No. Tipping is not part of Korean culture, even in medical settings. Check the itemized total, including any applicable tax, with your clinic." },
     { question: "Can I combine Botox with other treatments?", answer: "Yes, it is very common to combine Botox with fillers (Juvederm/Restylane) or skin boosters (Rejuran Healer) in the same session. This is often called a 'Petit Procedure' package." }
   ]}
 />

@@ -166,7 +166,8 @@ One of the primary drivers for medical tourism is cost. Below is a breakdown of 
 
 **Additional Context:**
 In the US, a single PRP session often costs $800+, and a thread lift can range from $2,500 to $4,000. In Korea, you are often paying 30-40% of that price.
-*   **Tax Refund:** Don't forget that cosmetic procedures in Korea are eligible for a VAT refund (approx. 7-8% of the total cost). You will receive a receipt at the clinic to scan at the airport kiosks before departure.
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to qualifying services provided through December 31, 2025. Ask the clinic for a written itemized quote including any applicable tax before comparing totals.
 
 ## Finding the right clinic
 

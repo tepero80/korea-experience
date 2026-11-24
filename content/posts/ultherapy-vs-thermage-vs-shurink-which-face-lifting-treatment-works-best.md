@@ -208,8 +208,10 @@ Navigating a Korean dermatology clinic can be intimidating if you don't speak th
 ### Booking Tips
 *   **Reservations:** Essential. Popular clinics are booked 2-3 weeks out.
 *   **Communication:** Most use WhatsApp or KakaoTalk for bookings.
-*   **Tax Refund:** Bring your passport! You are eligible for a VAT refund (approx. 7-8% back) at the airport for cosmetic procedures.
+*   **Price:** Confirm what the provider's total includes before paying.
 *   **Factory vs. Private:** "Factory" clinics (like Muse, Toxnfill, PPEUM) are cheaper and efficient but less personalized. Private clinics (like Larangue, Rejuvar) cost 30-40% more but offer doctor consultations and private rooms.
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former foreign-tourist cosmetic-treatment VAT refund to eligible services provided through December 31, 2025. Ask each clinic for a written, itemized quote including any applicable tax.
 
 <ExpertTip 
   author="Sarah Kim"
@@ -237,7 +239,7 @@ The highest concentration of clinics is in the Gangnam-gu district. Specifically
   priceRange="$$"
   rating={4.2}
   transit="Gangnam Station Exit 10, 2 min walk"
-  highlights={["English Speaking Staff", "Tax Refund Kiosk", "Shurink Universe Specialists"]}
+  highlights={["English Speaking Staff", "Shurink Universe Specialists"]}
   tip="Book the first slot in the morning (10:30 AM) to avoid the 1-hour wait times typical in the afternoon."
 />
 

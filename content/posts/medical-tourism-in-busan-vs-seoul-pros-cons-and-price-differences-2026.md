@@ -75,7 +75,7 @@ The downside is the "Gangnam Premium." Real estate prices in Gangnam have soared
   rating={4.8}
   transit="Apgujeong Rodeo Station (Suin-Bundang Line), Exit 6"
   highlights={["Highest Clinic Density", "Luxury Shopping", "Celebrity Sightings"]}
-  tip="Many clinics offer tax refund services on-site; bring your passport."
+  tip="Ask the clinic for a written itemized quote including any applicable tax."
 />
 
 ## Busan: The Smart Alternative
@@ -130,6 +130,8 @@ Generally, you can expect a **15% to 30% savings** in Busan compared to Gangnam,
 
 ### Understanding the Variance
 The price gap is widest in dermatology and dental work. For purely cosmetic skin treatments (lasers, facials), Busan is incredibly competitive. For highly invasive surgeries requiring general anesthesia and overnight stays, the price gap narrows slightly because the cost of medical supplies and anesthesiology is standard nationwide.
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to qualifying services provided through December 31, 2025. Request a written itemized quote including any applicable tax from each clinic and compare the quoted totals.
 
 For a deeper dive into skin treatments, read about [anti-aging treatments in Korea](/blog/anti-aging-treatments-in-korea-botox-fillers-and-more-2026).
 
@@ -280,7 +282,7 @@ Whichever city you choose, the standard of care in South Korea remains among the
     { question: "Is it safe to have surgery in Busan compared to Seoul?", answer: "Yes, absolutely. Busan's major clinics and university hospitals adhere to the same strict medical laws and safety standards as Seoul. Many surgeons in Busan trained at top Seoul universities." },
     { question: "Do I need a visa for medical tourism in Korea?", answer: "Many nationalities enter visa-free (K-ETA required). However, if your recovery exceeds 90 days or if you are from certain countries, you may need a specific Medical Tourism Visa (G-1). Clinics can assist with the paperwork." },
     { question: "Can I fly home immediately after surgery?", answer: "Usually, no. Doctors recommend waiting 7-10 days after major surgery before flying due to cabin pressure affecting swelling and stitches. This makes the cost of accommodation in Busan vs. Seoul a major factor." },
-    { question: "How do I claim a tax refund for my surgery?", answer: "Cosmetic procedures are subject to VAT (10%). Recognized 'Medical Tourism' clinics can issue a tax refund receipt. You can claim this refund at the airport (Incheon or Gimhae) before you leave. Always bring your passport to the clinic." },
+    { question: "What should I ask for when comparing clinic prices?", answer: "Ask for a written itemized quote that shows the amount you would pay, including any applicable tax. The former tourist VAT refund covered qualifying cosmetic medical services provided through December 31, 2025." },
     { question: "What happens if there is a complication once I return home?", answer: "This is the biggest risk of medical tourism. Reputable clinics offer a guarantee period (usually 1 year) where revision is free, but you must pay for flights/hotels. Seoul clinics generally have more robust international departments to handle remote troubleshooting." }
   ]}
 />

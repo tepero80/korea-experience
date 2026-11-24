@@ -238,18 +238,13 @@ One of the main reasons these treatments are popular for medical tourism is the 
 
 If you are planning a food tour, it is best to do the heavy eating *before* your procedure or 2-3 days after, as jaw soreness from Ultherapy can make chewing tough meats (like Samgyeopsal) uncomfortable. For softer food options, check our guide to [best Korean healing foods for surgery recovery](/blog/best-korean-healing-foods-for-surgery-recovery).
 
-## Maximizing Your Budget: Tax Refunds and Currency
+## Comparing Written Quotes
 
-Remember that international visitors are eligible for a **VAT Refund** on cosmetic procedures. This is approximately 7-8% of the total cost.
-1.  Bring your passport to the clinic.
-2.  Ask for the "Tax Refund Receipt" after payment.
-3.  Scan this receipt at the kiosk at Incheon Airport (or major city kiosks) to get cash back or a refund to your card.
-
-With the exchange rate in 2026, utilizing this refund can effectively pay for your post-procedure skincare products or a nice meal.
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to qualifying services provided through December 31, 2025. Ask for a written itemized quote including any applicable tax and the services covered by the total.
 
 <ProsCons
   title="Pros and Cons of Doing Treatments in Korea"
-  pros={["Cost is 40-60% lower than US/Europe", "Access to latest technology (Universe, FLX)", "High practitioner skill due to volume", "Tax refund eligibility"]}
+  pros={["Cost is 40-60% lower than US/Europe", "Access to latest technology (Universe, FLX)", "High practitioner skill due to volume"]}
   cons={["Communication barriers in some clinics", "Follow-up care is difficult once you leave", "Risk of 'shadow doctors' in factory clinics", "Travel insurance rarely covers cosmetic mishaps"]}
   variant="cards"
 />

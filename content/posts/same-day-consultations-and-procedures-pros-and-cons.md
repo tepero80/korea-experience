@@ -1,7 +1,7 @@
 ---
 title: "Same-Day Consultations and Procedures in Korea: Pros and Cons 2026"
 date: 2026-01-28
-excerpt: "A complete guide to same-day medical treatments in Seoul. We analyze safety, costs (saving up to 40%), and efficiency for travelers in 2026."
+excerpt: "Consider the scheduling, written estimate and follow-up questions for a possible same-day consultation and procedure in Seoul."
 category: Medical Tourism
 author: Korea Experience Team
 tags:
@@ -24,7 +24,7 @@ In the fast-paced world of Korean medical tourism, the concept of "same-day cons
 <KeyTakeaways 
   points={[
     "Efficiency is the primary benefit, compressing weeks of appointments into a 3-4 hour visit.",
-    "Cost savings are significant, often 30-40% cheaper than US prices, plus VAT refunds of 7-10%.",
+    "Compare a written, itemized quote that shows what the consultation and any separate services will cost.",
     "Not all procedures are safe for same-day execution; distinct limits exist for invasive surgeries.",
     "The 'Palli-Palli' culture ensures speed but can lead to decision fatigue for unprepared patients."
   ]}
@@ -86,17 +86,7 @@ This frees up the remainder of your trip for sightseeing or recovery. For exampl
 ### 2. Cost-Effectiveness
 Time is money, especially when factoring in accommodation. By consolidating the medical portion of the trip, you reduce the number of days you *need* to be in the country solely for medical reasons.
 
-Furthermore, many clinics offer "package pricing" for same-day decisions. It is not uncommon to see a 10-20% discount applied if the procedure is done immediately after the consultation. For high-ticket items like Ulthera (approx. ₩2.5 million) or SMILE eye surgery (approx. ₩2.8 million), this discount covers the cost of your hotel stay.
-
-<PriceTable
-  title="Potential Cost Savings (Estimates)"
-  variant="dualism"
-  items={[
-    { name: "Standard Process (US/EU)", price: "$3,500+", tag: "standard", description: "Consult fee + Procedure + 2 visits" },
-    { name: "Same-Day Korea", price: "$2,100", tag: "saving", description: "Package deal + Tax Refund" }
-  ]}
-  description="Comparison based on 600-shot Ulthera treatment prices in 2026."
-/>
+Compare the consultation, any tests, the procedure and follow-up charges on similar written quotes. Ask whether you can book the consultation separately and decide afterward.
 
 ### 3. Integrated Diagnostics
 Korean clinics often possess diagnostic equipment that allows for immediate analysis. In a dermatology clinic, the *Visia* skin scanner takes 3 minutes to map your pores, wrinkles, and pigment. In an ophthalmology clinic, over 50 different eye tests are run in a streamlined "circuit" taking about 60-90 minutes.
@@ -138,12 +128,12 @@ To give you a realistic expectation, here is a typical timeline for a same-day d
 <Timeline
   title="The Same-Day Journey"
   items={[
-    { time: "10:00 AM", title: "Check-in", description: "Registration, passport scan for tax refund, filling out English medical history forms.", icon: "📝" },
+    { time: "10:00 AM", title: "Check-in", description: "Confirm identification requirements and complete the clinic's registration and medical history forms.", icon: "📝" },
     { time: "10:20 AM", title: "Consultation", description: "Meeting with the English coordinator and doctor. Skin analysis via scanner.", icon: "👨‍⚕️" },
     { time: "11:00 AM", title: "Payment & Prep", description: "Payment is settled. Face cleansing and application of numbing cream (wait time 30-40 mins).", icon: "💳" },
     { time: "12:00 PM", title: "Procedure", description: "Laser treatment, injections, or care. Usually takes 20-45 minutes.", icon: "💉" },
     { time: "1:00 PM", title: "Aftercare", description: "Cooling mask, LED light therapy, and application of sunscreen/BB cream.", icon: "🧖‍♀️" },
-    { time: "1:30 PM", title: "Pharmacy & Exit", description: "Prescription pickup (usually on the ground floor) and tax refund slip collection.", icon: "💊" }
+    { time: "1:30 PM", title: "Before Leaving", description: "Collect the itemized receipt and confirm whom to contact if you have questions.", icon: "💊" }
   ]}
 />
 
@@ -155,15 +145,13 @@ One of the most compelling arguments for same-day procedures is the financial tr
 For same-day appointments, especially for popular doctors, you may be asked to pay a deposit via PayPal or Wise beforehand. This is usually 50,000 to ₩100,000 (approx. $35-$75). This amount is deducted from your final bill. If you cancel within 24 hours, it is usually non-refundable.
 
 ### Tax Refunds
-Almost all cosmetic procedures in Korea are eligible for a VAT refund (Tax-Free). This is generally between 7% and 10% of the total cost.
-*   **Total Bill:** ₩1,000,000
-*   **Refund:** Approx 70,000 - ₩80,000
-*   **Process:** You receive a slip at the clinic and scan it at the kiosk at Incheon Airport upon departure, or some clinics offer "Immediate Tax Refund" where they deduct it instantly if you present your passport.
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former foreign-tourist cosmetic-treatment VAT refund to eligible services provided through December 31, 2025. Ask the clinic for a written, itemized quote including any applicable tax, and keep the itemized receipt.
 
 <QuickFacts
   title="Financial Quick Facts"
   facts={[
-    { label: "VAT Refund", value: "7-10%", icon: "💸" },
+    { label: "Clinic Quote", value: "Ask for the total with tax", icon: "💸" },
     { label: "Card Fees", value: "0%", icon: "💳" },
     { label: "Consult Fee", value: "₩10k-30k", icon: "💰" }
   ]}
@@ -203,8 +191,8 @@ This method retains the efficiency of same-day treatment but removes the blind e
   steps={[
     { title: "Research & Shortlist", description: "Select 3 clinics. Check Google Reviews and Gangnam Unni app (using translation).", tip: "Look for recent reviews in English." },
     { title: "Online Inquiry", description: "Message them on KakaoTalk. Ask: 'Is same-day treatment possible for [Procedure] on [Date]?'" },
-    { title: "Pre-Flight Prep", description: "Stop taking aspirin, Vitamin E, or blood thinners 1 week prior to reduce bruising." },
-    { title: "The Day Of", description: "Arrive with a bare face. Bring your passport for the tax refund." }
+    { title: "Before You Travel", description: "Discuss any medicines or supplements you take with your clinician before the appointment." },
+    { title: "The Day Of", description: "Bring the identification the clinic requests and confirm the written total before agreeing to charges." }
   ]}
 />
 
@@ -240,7 +228,7 @@ Same-day consultations and procedures are a marvel of Korean medical efficiency.
 
 **Pros Summary:**
 *   Saves massive amounts of time.
-*   Cost-effective (package deals + tax refunds).
+*   A combined appointment can simplify scheduling. Compare the full cost with a separate consultation and visit.
 *   Access to cutting-edge diagnostic tech instantly.
 
 **Cons Summary:**

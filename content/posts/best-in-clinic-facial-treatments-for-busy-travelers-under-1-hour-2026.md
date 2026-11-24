@@ -205,7 +205,7 @@ To save travel time, choose a clinic near your sightseeing or accommodation hub.
     *   *Best for:* Acne care, Aqua peels, flashy hair dyes.
     *   *Nearby:* Nightlife, Street fashion.
 *   **Myeongdong:** Geared almost entirely toward tourists. Very English/Japanese/Chinese friendly.
-    *   *Best for:* Basic skincare packages, tax refunds processed on-site.
+    *   *Best for:* Basic skincare packages.
 
 <LocationCard
   name="Muse Clinic (Gangnam Branch)"
@@ -217,7 +217,7 @@ To save travel time, choose a clinic near your sightseeing or accommodation hub.
   priceRange="$$"
   rating={4.6}
   transit="Sinnonhyeon Station Exit 6, 2 min walk"
-  highlights={["English Support", "Tax Refund Kiosk", "Self-Check-in"]}
+  highlights={["English Support", "Self-Check-in"]}
   tip="Pre-book the 'Foreigner Event' package on their website to skip the consultation line."
 />
 
@@ -234,7 +234,7 @@ This assembly line might feel impersonal, but it is the secret to high quality a
 
 ## Cost Breakdown: 2026 Pricing
 
-Prices have stabilized in 2026, with competitive pricing in major tourist districts. Remember that VAT (10%) is added, but you can get a tax refund if you spend over ₩30,000.
+Ask the clinic what its listed price covers and which items are charged separately.
 
 <PriceTable
   title="Price Comparison (Per Session)"
@@ -253,10 +253,7 @@ Prices have stabilized in 2026, with competitive pricing in major tourist distri
 ## Critical Advice for Busy Travelers
 
 ### The Tax Refund
-Almost all cosmetic treatments are eligible for a tax refund.
-*   Bring your physical passport to the clinic.
-*   Many large clinics now have "Immediate Tax Refund" machines where the tax is deducted from your bill instantly.
-*   If not, you will get a receipt to scan at the airport kiosk.
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former cosmetic-treatment VAT refund for foreign tourists to qualifying services supplied through December 31, 2025. Before booking, ask for a written, itemized quote that includes any applicable tax.
 
 ### Sun Protection is Non-Negotiable
 Korea has high UV levels. After any peel or laser, your skin is vulnerable. You must wear SPF 50+ PA++++. Korean sunscreens are cosmetically elegant and work well under makeup. Check our recommendations for [best Korean sunscreen guide](/blog/best-korean-sunscreen-guide-spf-protection-2026).
@@ -280,8 +277,8 @@ The key is expectation management: choose "Factory Clinics" for speed and price,
     { question: "Can I wear makeup immediately after these treatments?", answer: "Yes for LDM and Aqua Peel. For Shurink and Pico Toning, you can apply makeup immediately, but it is better to wait 2-3 hours to let the heat dissipate and pores settle." },
     { question: "Do English-speaking clinics cost more?", answer: "Generally, yes. Clinics marketed specifically to foreigners often charge a premium (20-30%) for translation services and private concierge. However, large chains like Muse, Ppeum, and Toxnfill have standard pricing with English menus available." },
     { question: "Is it rude to be late in Korea?", answer: "Extremely. In the 'fast clinic' ecosystem, if you are more than 10 minutes late, your appointment will likely be cancelled automatically because it throws off the precise schedule of the doctors." },
-    { question: "Can I get a tax refund on skin treatments?", answer: "Yes, cosmetic procedures are eligible for VAT refund (approx 6-7% back). You must spend over ₩30,000 and present your physical passport." },
-    { question: "Is tipping required at skin clinics?", answer: "No. Tipping is not part of Korean culture, including in medical and aesthetic settings. The price you see is the final price." }
+    { question: "Does an older after-refund price apply to my appointment?", answer: "Ask the clinic for its current itemized total, including any applicable tax. The former refund for foreign tourists applied to qualifying services supplied through December 31, 2025." },
+    { question: "Is tipping required at skin clinics?", answer: "No. Tipping is not part of Korean culture, including in medical and aesthetic settings. Ask the clinic to confirm the final amount before you pay." }
   ]}
 />
 
@@ -292,6 +289,6 @@ The key is expectation management: choose "Factory Clinics" for speed and price,
     { time: "00:10", title: "Prep", description: "Store bag, self-cleanse face at washing station.", icon: "🚿" },
     { time: "00:20", title: "Treatment", description: "Main laser or peel procedure by doctor/specialist.", icon: "⚡" },
     { time: "00:40", title: "Soothing", description: "Modeling mask and finishing creams.", icon: "😌" },
-    { time: "00:55", title: "Departure", description: "Collect bag, tax refund receipt, and exit.", icon: "👋" }
+    { time: "00:55", title: "Departure", description: "Collect your bag and itemized receipt before leaving.", icon: "👋" }
   ]}
 />

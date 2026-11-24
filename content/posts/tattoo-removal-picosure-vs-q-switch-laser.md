@@ -252,12 +252,14 @@ If you are already in the area for skin treatments, you might want to look into 
 
 ## Frequently Asked Questions
 
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former foreign-tourist cosmetic-treatment VAT refund to eligible services provided through December 31, 2025. Ask the clinic for a written, itemized quote including any applicable tax and confirm whether the total is per session.
+
 <FAQAccordion
   title="Common Questions About Tattoo Removal in Korea"
   items={[
     { question: "Can I remove a tattoo in just one visit to Korea?", answer: "No. Complete removal takes multiple sessions spaced 6-8 weeks apart. However, you can start your journey here with a high-quality PicoSure session to break up a significant amount of ink, then continue treatment in your home country." },
     { question: "Is it safe to get laser removal in summer?", answer: "It is generally discouraged because sun exposure complicates healing. If you do it in summer (June-August), you must keep the area completely covered with bandages or UV-protective clothing." },
-    { question: "Do Korean clinics treat foreigners differently?", answer: "Major clinics in Gangnam are very accustomed to foreigners. Prices are usually transparent, but always ask for a VAT refund receipt. You can get roughly 7-8% of your money back at the airport for cosmetic procedures." },
+    { question: "What should a clinic quote include?", answer: "Ask which visits and services are included, whether the price is per session, and whether the total includes any applicable tax." },
     { question: "Does PicoSure leave scars?", answer: "Scarring is rare with PicoSure compared to Q-Switch because it uses less heat. However, scarring can happen if you pick at your scabs or blisters during the healing process." },
     { question: "Can I fly immediately after the procedure?", answer: "Yes, you can fly immediately. The cabin pressure does not affect the treated area. Just ensure the area is clean and covered to avoid infection from airport germs." }
   ]}

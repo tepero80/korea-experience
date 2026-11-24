@@ -26,7 +26,7 @@ Navigating the bustling streets of Gangnam—where over 500 skin clinics operate
     "Factory clinics (Muse, Lienjang) are best for simple procedures; expect 1-2 hour wait times but 50% lower prices.",
     "Boutique clinics require booking 3-4 weeks in advance and often require a deposit of roughly ₩100,000.",
     "The 2026 trend is 'Slow Aging' focusing on skin boosters like Juvelook and Rejuran rather than aggressive surgery.",
-    "Always bring your passport to the clinic to receive an immediate tax refund of approximately 7-8% on eligible procedures."
+    "Ask the clinic for a written, itemized total before booking."
   ]}
   readTime={18}
   lastUpdated="2026-02-07"
@@ -75,7 +75,7 @@ Muse remains the heavyweight champion of medical tourism in 2026. Located just 1
   priceRange="$"
   rating={4.2}
   transit="Gangnam Station (Line 2), Exit 10, 3 min walk"
-  highlights={["Cheapest Botox", "Online Booking", "Tax Refund Kiosk"]}
+  highlights={["Cheapest Botox", "Online Booking"]}
   tip="Book the first slot of the day (10:30 AM) to minimize wait times."
 />
 
@@ -98,8 +98,7 @@ PPEUM (pronounced "Peum") differentiates itself with a more "Instagrammable" int
   title="Factory Clinic Stats"
   facts={[
     { label: "Avg Wait", value: "45 Mins", icon: "⏳" },
-    { label: "Botox Cost", value: "$15-25", icon: "💉" },
-    { label: "Tax Refund", value: "Immediate", icon: "💸" }
+    { label: "Botox Cost", value: "$15-25", icon: "💉" }
   ]}
   columns={3}
 />
@@ -236,7 +235,7 @@ Prices in Gangnam have stabilized in 2026 after the post-pandemic surge. Here is
 *   Thermage FLX (600 shots): ₩2,000,000
 *   **Total:** ~₩3,300,000 ($2,500 USD)
 
-**Pro Tip:** Always pay with a card that has no foreign transaction fees, or bring cash. Some smaller clinics offer a 5-10% discount for cash payments (though this is technically a gray area for tax purposes, it is common). For legitimate tax refunds, card payments at participating "Tax-Free" clinics are the easiest way.
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former foreign-tourist cosmetic-treatment VAT refund to qualifying services supplied through December 31, 2025. Ask for a written, itemized quote that includes any applicable tax, and confirm the payment method and amount before the appointment.
 
 ## Aftercare and Recovery
 
@@ -257,7 +256,7 @@ However, manage your expectations regarding the service model. If you pay budget
 
 <ProsCons
   title="Gangnam Skin Clinics Summary"
-  pros={["Access to latest 2026 technology instantly", "Prices are 50-70% lower than Western countries", "High volume means doctors are extremely experienced", "Tax refunds available for tourists"]}
+  pros={["Access to latest 2026 technology instantly", "Prices are 50-70% lower than Western countries", "High volume means doctors are extremely experienced"]}
   cons={["Factory clinics can feel rushed and impersonal", "Upselling by coordinators is aggressive", "Language barriers in smaller clinics", "Follow-up care is difficult once you fly home"]}
   variant="cards"
 />
@@ -272,7 +271,7 @@ To make the most of your medical tourism trip, plan your route effectively.
     { time: "Day 1", title: "Arrival & Consult", description: "Land in Seoul. Visit clinic for consultation. Do non-invasive treatments (facials).", icon: "✈️" },
     { time: "Day 2", title: "Main Procedure", description: "The big day (Ulthera, Injections). Return to hotel to rest. No alcohol.", icon: "🏥" },
     { time: "Day 3", title: "Shopping & Recovery", description: "Visit Olive Young for aftercare products. Keep out of direct sun.", icon: "🛍️" },
-    { time: "Day 5-7", title: "Follow-up", description: "Optional check-up if required. Tax refund processing at airport.", icon: "✅" }
+    { time: "Day 5-7", title: "Follow-up", description: "Confirm any follow-up appointment with the clinic and keep your itemized receipt.", icon: "✅" }
   ]}
 />
 
@@ -292,7 +291,7 @@ To make the most of your medical tourism trip, plan your route effectively.
   title="Frequently Asked Questions"
   items={[
     { question: "Do I need to speak Korean to visit these clinics?", answer: "No. The clinics listed in this guide (Muse, Lienjang, Amred, PPEUM) all have dedicated translators or English-speaking staff. However, having Papago (translation app) ready is always helpful for specific medical terms." },
-    { question: "Can I get a tax refund on skin treatments?", answer: "Yes. Cosmetic procedures performed at registered medical institutions are eligible for a VAT refund (approx. 7-8%). You must present your physical passport at the clinic. Some clinics deduct it instantly; others give you a receipt to claim at the airport kiosks." },
+    { question: "Should I use a price advertised after a cosmetic-treatment tax refund?", answer: "Use the clinic’s written total for your appointment. The former refund for foreign tourists applied to qualifying services supplied through December 31, 2025." },
     { question: "How far in advance should I book?", answer: "For factory clinics like Muse, 1-2 weeks is sufficient. For boutique clinics or specific celebrity dermatologists, book at least 1 month in advance. For Saturdays (the busiest day), book as early as possible." },
     { question: "Is Korean Botox safe?", answer: "Yes. Korean brands like Botulax, Nabota, and Coretox are KFDA approved and exported globally. They are significantly cheaper than Allergan (US brand) but studies show comparable efficacy. Coretox is popular in 2026 for having a lower risk of drug resistance." },
     { question: "Can I fly immediately after treatment?", answer: "For most skin treatments (lasers, botox, fillers), yes. However, if you have extensive swelling or full-face lifting, the cabin pressure might be uncomfortable. It is generally recommended to wait 24 hours before flying." }

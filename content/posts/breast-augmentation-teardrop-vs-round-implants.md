@@ -143,9 +143,7 @@ In 2026, the exchange rate fluctuates, but roughly ₩1,400 = 1 USD. The prices 
   ]}
 />
 
-<InfoBox type="tip" title="Pro Tip: Tax Refunds">
-International patients are eligible for a VAT refund (approx. 7-8% of the surgery cost) upon leaving Korea. Ensure your clinic is a registered medical institution for foreign patients to issue the tax refund receipt. This can save you $500-$800 USD.
-</InfoBox>
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former cosmetic-treatment VAT refund for foreign tourists to qualifying services supplied through December 31, 2025. Ask for a written, itemized quote showing which costs are included and any applicable tax before you pay.
 
 ## Sizing Trends in Korea: The "Bagel" vs. Natural Look
 
@@ -262,7 +260,7 @@ While you are in Seoul for your procedure, you might want to look into other non
   priceRange="$$$"
   rating={4.8}
   transit="Gangnam Station (Line 2), Exit 10, 11"
-  highlights={["500+ Clinics", "English Interpretation", "Global Tax Refund"]}
+  highlights={["500+ Clinics", "English Interpretation"]}
   tip="Most clinics are closed on Sundays, but recovery centers often operate 24/7."
 />
 

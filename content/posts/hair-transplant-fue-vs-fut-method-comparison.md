@@ -166,7 +166,7 @@ The highest concentration of specialized hair clinics is near Apgujeong Station 
   priceRange="$$$"
   rating={4.8}
   transit="Sinsa Station (Line 3), Exits 1-8"
-  highlights={["English Coordinators", "Tax Refund Service", "Airport Pickup"]}
+  highlights={["English Coordinators", "Airport Pickup"]}
   tip="Most clinics are closed on Sundays. Book consultations 3-4 weeks in advance."
 />
 
@@ -215,32 +215,13 @@ Korea is known for adopting technology early.
 
 ## Medical Tourism Tax Refund
 
-One major financial benefit of doing your transplant in Korea is the VAT Refund. Procedures performed for cosmetic purposes (including hair transplants) are subject to a 10% Value Added Tax.
-
-However, tourists are eligible for a refund of approximately 7-8% of the total surgery cost.
-1.  **Bring your Passport** to the clinic.
-2.  Ask for the **"Tax Refund Receipt"** (Slip) after payment.
-3.  Scan the receipt at the kiosk at Incheon Airport (Gate 28) *before* you leave.
-4.  If your surgery cost ₩8,000,000, you could get back around ₩600,000 ($450 USD)—enough to cover your flight!
-
-<StepGuide
-  title="How to Claim Your Medical Tax Refund"
-  totalTime="20 minutes"
-  difficulty="easy"
-  steps={[
-    { title: "Get the Slip", description: "Ensure the clinic gives you the official Tax Free Refund slip.", tip: "The clinic must be registered for tax refunds." },
-    { title: "Airport Kiosk", description: "Go to the tax refund kiosks in the departure hall (before security) or airside (Gate 28).", tip: "Have your passport ready." },
-    { title: "Cash or Card", description: "Choose to receive the refund in cash (₩) or back to your credit card." }
-  ]}
-/>
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former foreign-tourist VAT refund to qualifying cosmetic medical services supplied through December 31, 2025. Before comparing transplant quotes, ask each provider for a written, itemized total that includes any applicable tax.
 
 ## Conclusion
 
 Choosing between FUE and FUT in Korea largely depends on your budget, hair loss severity, and hairstyle preference.
 *   Choose **FUE** if you want the most advanced, least invasive option and can afford the premium. This is the choice for 90% of international patients in Korea.
 *   Choose **FUT** if you need massive coverage (Norwood Scale 5-7) and are on a stricter budget.
-
-Korea's medical infrastructure, combined with the "Implanter Pen" technique and tax refunds, makes it one of the top 3 destinations globally for hair restoration in 2026.
 
 <FAQAccordion
   title="Frequently Asked Questions"

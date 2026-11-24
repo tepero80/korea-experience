@@ -179,7 +179,7 @@ Visiting a Korean clinic can be a culture shock if you are used to Western medic
 <Timeline
   title="Clinic Visit Timeline"
   items={[
-    { time: "Arrival", title: "Registration", description: "Check-in via iPad. Passport required for tax refund.", icon: "📝" },
+    { time: "Arrival", title: "Registration", description: "Check with the clinic what identification it needs for registration.", icon: "📝" },
     { time: "+15 mins", title: "Consultation", description: "Often with a consultant, not the doctor. VISIA skin scan.", icon: "🗣️" },
     { time: "+30 mins", title: "Cleansing & Numbing", description: "Self-wash face or aesthetician does it. Numbing cream applied.", icon: "j" },
     { time: "+60 mins", title: "The Procedure", description: "Doctor enters, performs procedure quickly, leaves.", icon: "👨‍⚕️" },
@@ -204,11 +204,9 @@ In "factory" clinics, you will likely consult with a "counselor" rather than the
   Always bring a photo of your skin without makeup or filters to the consultation. Also, be honest about your budget upfront. Saying 'My max budget is ₩300,000' helps the consultant build a realistic package for you without the awkward upselling.
 </ExpertTip>
 
-### 3. Tax Refund
-Foreigners are eligible for a VAT refund (approx. 7-8%) on cosmetic procedures.
-*   **Immediate Refund:** Some clinics deduct it instantly from your bill.
-*   **Airport Refund:** Others give you a receipt to scan at the kiosk at Incheon Airport.
-*   **Requirement:** You MUST bring your physical passport to the clinic.
+### 3. Confirm the Total
+
+[Article 107-3 of Korea’s Special Tax Treatment Control Act](https://www.law.go.kr/LSW/lsLinkCommonInfo.do?ancYnChk=&chrClsCd=010202&lsJoLnkSeq=1032235343) limits the former tourist VAT refund for cosmetic medical treatment to qualifying services provided through December 31, 2025. Ask the clinic for a written itemized quote including any applicable tax and confirm which charges are included before you pay.
 
 ## Price Comparison: Korea vs. USA/Europe
 
@@ -261,7 +259,7 @@ The youth district.
   priceRange="$$"
   rating={4.2}
   transit="Gangnam Station (Line 2)"
-  highlights={["English Interpreters", "Tax Refund Kiosk", "High Volume Experience"]}
+  highlights={["English Interpreters", "High Volume Experience"]}
   tip="Go on a Tuesday or Wednesday morning to avoid the chaotic crowds."
 />
 
@@ -318,7 +316,7 @@ For those interested in the broader scope of anti-aging, our guide to [anti-agin
   items={[
     { question: "Can I wear makeup after laser treatment?", answer: "It depends on the laser. For non-ablative lasers like Pico Toning or Shurink, yes, you can wear makeup immediately. For ablative lasers (CO2) or microneedling, you must wait 24-48 hours." },
     { question: "Do Korean clinics speak English?", answer: "Most clinics in Gangnam and Myeongdong that target foreigners have dedicated English coordinators. However, local clinics in residential areas may not. Always check their website or Instagram first." },
-    { question: "Is tipping customary in Korean clinics?", answer: "No. Tipping is not part of Korean culture, even in medical settings. The price you see is the price you pay (plus VAT, which you can often get refunded)." },
+    { question: "How do I confirm what the clinic charges?", answer: "Ask the clinic for a written itemized quote and check whether the total includes any applicable tax and separate fees." },
     { question: "Can I fly immediately after treatment?", answer: "For most skin treatments, yes. However, cabin air is very dry, so heavy moisturizing is recommended. If you had extensive filler or fat grafting, consult your doctor as pressure changes can affect swelling." },
     { question: "How much is the consultation fee?", answer: "In factory clinics, consultation is often free if you proceed with a treatment. If you only consult, it may be 10,000-₩20,000. Private dermatologists charge 30,000-₩100,000 for the consultation alone." }
   ]}
