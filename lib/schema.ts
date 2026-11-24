@@ -45,7 +45,7 @@ export function generateArticleSchema({
       url: SITE_CONFIG.url,
       logo: {
         '@type': 'ImageObject',
-        url: `${SITE_CONFIG.url}/logo.png`,
+        url: `${SITE_CONFIG.url}${SITE_CONFIG.logo}`,
       },
     },
     datePublished: publishDate,
