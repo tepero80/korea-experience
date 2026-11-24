@@ -29856,5 +29856,232 @@
     ],
     "heroOmissionReason": "The previous AI illustration did not depict a verifiable carrier product. A comparison table shows service differences without implying compatibility.",
     "launchOrder": 1320
+  },
+  "korean-taxi-guide-no-arc-2026": {
+    "id": "guide:korean-taxi-guide-no-arc-2026",
+    "checkedAt": "2026-11-24",
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "answer": "Use a marked taxi rank or hail an available Seoul taxi at a safe curb. Show the Korean destination pin and ask about payment before you set off.",
+    "forWhom": "Visitors taking a Seoul taxi without a local number or booking app",
+    "conditions": [
+      "The fare table is for standard Seoul sedans. Airport, larger vehicle and app fares may differ.",
+      "Confirm the accepted payment method with the driver."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "getting-around",
+      "arrival"
+    ],
+    "interests": [
+      "street-hail taxi without a booking app"
+    ],
+    "relations": [
+      {
+        "slug": "taba-taxi-and-kride-2026",
+        "type": "alternative",
+        "label": "Compare taxi apps",
+        "reason": "Check registration and how the individual ride is paid if street hailing is inconvenient."
+      },
+      {
+        "slug": "airport-limousine-bus-vs-arex-express-train",
+        "type": "prepare",
+        "label": "Plan your airport arrival",
+        "reason": "Compare the terminal train, bus and taxi options for the exact trip to your hotel."
+      }
+    ],
+    "sources": [
+      {
+        "id": "seoul-sedan-fares-and-light",
+        "title": "Seoul Metropolitan Government taxi guide",
+        "url": "https://english.seoul.go.kr/policy/transportation/modes-of-transport/taxi/",
+        "note": "Identifies taxi availability signs and separate fare schedules for Seoul taxis.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "icn-official-taxi-ranks",
+        "title": "Incheon Airport taxi and call-van directory",
+        "url": "https://www.airport.kr/ap_en/1515/subview.do",
+        "note": "Shows designated ranks and types of taxis at the terminals.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "tmoney-taxi-payment-methods",
+        "title": "Tmoney taxi payment options",
+        "url": "https://www.tmoney.co.kr/aeb/biz/contents/contents10.dev",
+        "note": "Lists payment methods supported on its taxi system.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Save the destination address and exact entrance offline.",
+      "Confirm the payment method before a street or rank taxi ride."
+    ],
+    "heroOmissionReason": "No separate licensed hero showing the street-hail step was verified. An attributed taxi photo in the guide shows the vehicle from the curb.",
+    "changeType": "rewrite",
+    "launchOrder": 1321
+  },
+  "duty-free-shopping-in-seoul-best-prices-and-process": {
+    "id": "guide:duty-free-shopping-in-seoul-best-prices-and-process",
+    "checkedAt": "2026-11-24",
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "answer": "Compare the same product size and the final price in one currency. Before pre-ordering, check the pickup deadline, transfer security and any tax you could owe where you enter.",
+    "forWhom": "Travelers comparing duty-free and regular shopping before leaving Korea",
+    "conditions": [
+      "Price examples are hypothetical. Confirm the current retailer price and pack size.",
+      "Collection rules and import allowances depend on the order and itinerary."
+    ],
+    "regions": [
+      "seoul",
+      "incheon"
+    ],
+    "stages": [
+      "exploring",
+      "departure"
+    ],
+    "interests": [
+      "comparing duty-free pack prices"
+    ],
+    "relations": [
+      {
+        "slug": "duty-free-shopping-in-korea-complete-guide-2026",
+        "type": "next",
+        "label": "Collect your pre-order at Incheon",
+        "reason": "Check the pickup terminal, voucher and documents before departure."
+      },
+      {
+        "slug": "tax-refund-for-tourists-how-to-claim",
+        "type": "prepare",
+        "label": "Check a regular shop’s refund",
+        "reason": "See what the shop must provide and whether you need to clear the goods before departure."
+      }
+    ],
+    "sources": [
+      {
+        "id": "icn-duty-free-store-directory",
+        "title": "Incheon Airport duty-free shop directory",
+        "url": "https://www.airport.kr/ap_en/1531/subview.do",
+        "note": "Helps identify a shop in the passenger’s terminal. Confirm prices with that retailer.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kto-shop-tax-systems",
+        "title": "Korea Tourism Organization tourist tax refund guide",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=489&vcontsId=140736",
+        "note": "Explains the distinction between duty-free and regular shop refunds.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "kcs-traveler-allowances",
+        "title": "Korea Customs traveler allowance guide",
+        "url": "https://customs.go.kr/english/cm/cntnts/cntntsView.do?cntntsId=2743&mi=8069",
+        "note": "Applies when arriving in Korea. Check the corresponding customs authority for another destination.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "shilla-collect-order",
+        "title": "Shilla Duty Free departure collection",
+        "url": "https://www.shilladfs.com/comm/kr/en/shoppingGuideStep3",
+        "note": "Describes its departure-area pickup conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "icn-liquid-rules",
+        "title": "Incheon Airport carry-on liquid rules",
+        "url": "https://www.airport.kr/ap_en/1432/subview.do",
+        "note": "Explains sealed duty-free bags.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Compare the same product and size using the final price.",
+      "Confirm departure pickup and any destination charges."
+    ],
+    "heroOmissionReason": "The old AI illustration did not document a real shop or product. An attributed archive photo is provided in the guide for airport-shop context.",
+    "changeType": "rewrite",
+    "launchOrder": 1322
+  },
+  "exploring-korea-traditional-market-street-food-tours-2026": {
+    "id": "guide:exploring-korea-traditional-market-street-food-tours-2026",
+    "checkedAt": "2026-11-24",
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gwangjang-market",
+      "seoul-tongin-market"
+    ],
+    "categoryId": "food-dining",
+    "format": "decision",
+    "answer": "Book a market tour if you want help with language or tasting choices. Go independently if you want to choose every dish and set your own pace.",
+    "forWhom": "Visitors deciding how to try traditional market food in Seoul",
+    "conditions": [
+      "Check what tastings and transport a tour includes. Confirm dietary and accessibility needs directly.",
+      "Market stalls and special food programs can keep different schedules."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "choosing guided market food tastings"
+    ],
+    "relations": [
+      {
+        "slug": "ordering-food-traditional-markets-papago-2026",
+        "type": "next",
+        "label": "Prepare a short Korean order",
+        "reason": "Ask about portion sizes and read the price before sitting down."
+      },
+      {
+        "slug": "seoul-street-food-prices-2026",
+        "type": "prepare",
+        "label": "Read stall prices",
+        "reason": "Work out what the menu price buys for your group."
+      },
+      {
+        "slug": "gyeongbokgung-to-tongin-market-lunch",
+        "type": "alternative",
+        "label": "Plan a self-guided Tongin lunch",
+        "reason": "Check how to get from the palace to the market and when to use a fallback."
+      }
+    ],
+    "sources": [
+      {
+        "id": "visitseoul-gwangjang-food",
+        "title": "Seoul Tourism Organization Gwangjang Market listing",
+        "url": "https://english.visitseoul.net/Tourist-Attractions-list1/Gwangjang-Market/ENP000286",
+        "note": "Identifies the food area, dishes and location.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visitseoul-tongin-cafe",
+        "title": "Seoul Tourism Organization Tongin Market listing",
+        "url": "https://english.visitseoul.net/attractions/Tongin-Market/ENP000281",
+        "note": "Confirms address, nearby station and the participating-store token system. Its reported café hours conflict, so verify directly.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Compare the full tour price and included tastings.",
+      "Confirm the meeting point and the food area’s actual hours."
+    ],
+    "heroOmissionReason": "The old generated image did not document an actual market tour. The guide includes a licensed photograph of the Tongin lunch counter.",
+    "changeType": "rewrite",
+    "launchOrder": 1323
   }
 }

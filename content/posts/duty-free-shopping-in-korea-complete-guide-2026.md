@@ -18,13 +18,13 @@ If you pre-order duty-free goods for an Incheon departure, confirm the **retaile
 
 ## Choose the right shopping route
 
-| Your purchase | Where to start |
+| Route | Where to start |
 | --- | --- |
-| **Buying at the airport** | Check [Incheon Airport's duty-free directory](https://www.airport.kr/ap_en/1531/subview.do) for stores in your terminal. Confirm stock and opening hours before relying on a particular shop. |
-| **Pre-ordering from a duty-free retailer** | Read the retailer's deadline and pickup instructions for your flight. Confirm the pickup location before paying. |
-| **Shopping at a participating city retailer and receiving tax refund paperwork** | Follow the [tourist tax refund guide](/blog/tax-refund-for-tourists-how-to-claim). That process uses the shop's receipt and export verification rather than a duty-free pre-order voucher. |
+| **Airport shop** | Check [Incheon Airport's duty-free directory](https://www.airport.kr/ap_en/1531/subview.do) for stores in your terminal. Confirm stock and opening hours before relying on a particular shop. |
+| **Pre-order** | Read the retailer's deadline and pickup instructions for your flight. Confirm the pickup location before paying. |
+| **City refund** | If a participating city retailer gives you tax refund paperwork, follow the [tourist tax refund guide](/blog/tax-refund-for-tourists-how-to-claim). Keep the shop's receipt and check the export verification steps. |
 
-The [Korea Tourism Organization's guide](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736) explains the two systems. If you are comparing prices, use the actual sizes, currency, taxes or fees at your destination, and the total at checkout.
+The [Korea Tourism Organization's guide](https://english.visitkorea.or.kr/svc/contents/infoHtmlView.do?vcontsId=140736) explains the two systems. Before pre-ordering, [compare Seoul duty-free and ordinary shop prices](/blog/duty-free-shopping-in-seoul-best-prices-and-process) using equivalent package sizes and the final amount you will pay.
 
 ## Before you order
 
