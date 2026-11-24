@@ -47804,5 +47804,429 @@
     "changeType": "rewrite",
     "launchOrder": 1655,
     "heroOmissionReason": "The situation checklist and examples convey the choices directly."
+  },
+  "korean-labor-laws-your-rights-as-a-foreign-employee-2026": {
+    "id": "guide:korean-labor-laws-your-rights-as-a-foreign-employee-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "South Korea’s 2026 minimum wage is ₩10,320 per hour. Match the pay period and hours in your own records, identify the legal employer and workplace, then use the Ministry of Employment and Labor’s unpaid-wage route if your pay is missing.",
+    "forWhom": "Foreign employees working in South Korea who want to check a payslip, prepare an unpaid-wage inquiry or find the agency that handles a dismissal.",
+    "conditions": [
+      "The national wage figure is for 2026. The quoted monthly equivalent uses a 40-hour workweek and a 209-hour monthly conversion. Your work arrangement and the facts of any dispute affect which agency and rules apply."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korea minimum wage",
+      "check Korean payslip",
+      "unpaid wages in Korea",
+      "foreign employee labor support"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w42-moel-wage-announcement",
+        "title": "Ministry of Employment and Labor’s 2026 minimum-wage announcement",
+        "url": "https://www.moel.go.kr/news/enews/report/enewsView.do?news_seq=18144&pageUnit=10",
+        "note": "The ministry’s announcement confirms the national 2026 hourly minimum wage of ₩10,320.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w42-moel-monthly-equivalent",
+        "title": "Ministry of Employment and Labor’s worked wage equivalents",
+        "url": "https://www.moel.go.kr/mainpop2.do",
+        "note": "Shows the ₩2,156,880 monthly equivalent for a 40-hour week including eight hours of paid weekly rest.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w42-moel-unpaid-wage-form",
+        "title": "Ministry of Employment and Labor unpaid-wage complaint",
+        "url": "https://labor.moel.go.kr/minwonApply/minwonFormat.do?searchVal=SN001",
+        "note": "Lists complaint preparation, the local labor office for the workplace and the investigation process.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w42-nlrc-dismissal",
+        "title": "National Labor Relations Commission adjudication and dismissal guide",
+        "url": "https://nlrc.go.kr/nlrc/en/adjudication.html",
+        "note": "Describes the Regional Labor Relations Commission’s adjudication process and the scope of unfair dismissal cases.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w42-moj-foreign-worker-help",
+        "title": "Ministry of Justice 1345 multilingual support notice",
+        "url": "https://mojhome.moj.go.kr/bbs/immigration_eng/229/608451/artclView.do",
+        "note": "Describes the 1345 option 1 support channel for foreign residents, including unpaid-wage reports and referrals.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "The 2026 minimum wage is ₩10,320 per hour. Save the pay period, hours, employer and workplace address before contacting the labor office."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1656,
+    "heroOmissionReason": "The checklist or comparison table supports the decision directly."
+  },
+  "understanding-pali-pali-culture-in-the-korean-workplace-2026": {
+    "id": "guide:understanding-pali-pali-culture-in-the-korean-workplace-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "When someone asks you to do something 빨리, ask for the deadline, what they need first and which task takes priority. Confirm the agreed first delivery in writing if it changes your schedule.",
+    "forWhom": "People who work with Korean-speaking colleagues and need to clarify an urgent request in a meeting, chat or shift.",
+    "conditions": [
+      "These are polite example replies. Adjust them to the relationship and work channel, and let the responsible colleague confirm the actual deadline and trade-offs."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "workplace Korean",
+      "ppalli ppalli",
+      "Korean deadline phrases",
+      "clarifying work requests"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w42-nikl-quickly",
+        "title": "National Institute of Korean Language dictionary entry for 빨리",
+        "url": "https://krdict.korean.go.kr/kor/dicSearch/SearchView?ParaWordNo=57305",
+        "note": "Defines the adverb 빨리 as doing something in a short amount of time and lists the derived form 빨리하다.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w42-nikl-priority",
+        "title": "National Institute of Korean Language dictionary entry for 우선순위",
+        "url": "https://krdict.korean.go.kr/kor/dicSearch/SearchView?ParaWordNo=93473",
+        "note": "Defines 우선순위 as order of priority, which helps vocabulary for asking which task should be handled first.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the time, the first deliverable and the priority before treating an urgent request as a complete brief."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1657,
+    "heroOmissionReason": "The checklist or comparison table supports the decision directly."
+  },
+  "korean-language-learning-guide-for-beginners": {
+    "id": "guide:korean-language-learning-guide-for-beginners",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "If your trip is soon, practice reading the Korean names on your own route, recognizing a handful of signs and asking one polite question at a time. If you want regular study, start with the King Sejong Institute level that matches your Hangul reading ability.",
+    "forWhom": "First-time visitors with little or no Korean, and people who want to keep studying after learning the travel basics.",
+    "conditions": [
+      "The pre-trip exercises use the traveler’s route and a few common signs. Check the current listing for the level, teaching language, format and registration dates of any course."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "Korean travel phrases",
+      "learn Hangul",
+      "Korean station signs",
+      "King Sejong Institute beginner Korean"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w42-nikl-exit",
+        "title": "National Institute of Korean Language dictionary entry for 출구",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=72138",
+        "note": "Gives 출구 (exit) in English and has examples for finding an exit and referring to an exit number.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w42-nikl-transfer-station",
+        "title": "National Institute of Korean Language dictionary entry for 환승역",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=89135",
+        "note": "Defines a station where a rider can transfer to another train line.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w42-studyinkorea-sejong",
+        "title": "Study in Korea government directory of Korean language learning",
+        "url": "https://www.studyinkorea.go.kr/en/plan/examAndKoreanStudy.do",
+        "note": "Identifies the King Sejong Institute Foundation’s institute and online learning routes.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Before you fly, save the exact Korean names on your route, practice four sign words and prepare one phrase to ask for help."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1658,
+    "heroOmissionReason": "The checklist or comparison table supports the decision directly."
+  },
+  "finding-community-top-expat-clubs-and-networking-events-in-seoul-2026": {
+    "id": "guide:finding-community-top-expat-clubs-and-networking-events-in-seoul-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with one activity you would enjoy on its own. Look for a guided walk or workshop if you have one free afternoon, or ask about a group with regular sessions if you are settling in. Confirm that first-timers can join and that there is space before you travel across Seoul.",
+    "forWhom": "New Seoul residents, students and longer-stay visitors looking for a first in-person group or activity.",
+    "conditions": [
+      "The organizer sets eligibility, language, capacity, cost and registration for each event. A center’s program description gives examples of activities and may remain online between cohorts."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Seoul community groups",
+      "Seoul Global Village Centers",
+      "newcomer activities",
+      "group events in Seoul"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-neighborhood-chooser-for-first-time-visitors-where-to-stay-by-trip-style",
+        "reason": "Compare neighborhoods if travel time will determine which sessions you can attend regularly.",
+        "type": "next",
+        "label": "Your next decision"
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "my-seoul-plus-education-programs",
+        "title": "My Seoul Plus city program calendar",
+        "url": "https://global.seoul.go.kr/hmpg/main/main.do?lang=en",
+        "note": "Lists activity cards with separate application and education schedules and provides a directory of foreigner support facilities.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "gangnam-village-center-program-examples",
+        "title": "Gangnam Global Village Center introduction",
+        "url": "https://global.seoul.go.kr/hmpg/ainf/ctrs/gvil/gang/intr/contPageDetail.do?conts_no=87822BFD3E7F45708837952DF19B646E&lang=en",
+        "note": "Describes example conversation groups, a choir, tours and walking activities. Each activity’s current dates and participation conditions need separate confirmation.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the application deadline and the activity date separately, then confirm the session’s audience, language and venue."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1659,
+    "heroOmissionReason": "The checklist or comparison table supports the decision directly."
+  },
+  "dealing-with-loneliness-mental-health-resources": {
+    "id": "guide:dealing-with-loneliness-mental-health-resources",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "If you live, work or study in Seoul, ask the Seoul Foreign Resident Center about current counseling intake or referrals. If you want a medical appointment, or you are in Seoul for a short visit, contact a hospital’s international service desk and ask how to book the appropriate consultation in your language.",
+    "forWhom": "International residents and visitors in Seoul who want help finding a nonemergency counseling or medical appointment.",
+    "conditions": [
+      "Counseling intake, eligibility and clinician availability can change. Confirm your language, visit dates and fees with the service before you go."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "mental health support in Seoul",
+      "Seoul foreign resident counseling",
+      "hospital international desks",
+      "English-language care in Seoul"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-foreign-resident-center-contact",
+        "title": "Seoul Foreign Resident Center counseling contact",
+        "url": "https://global.seoul.go.kr/hmpg/ainf/ctrs/frct/srch/dopr/doprListPage.do?cntr_no=04E34E2046394333BCC451C20A4850D9",
+        "note": "The official Korean-language counseling service page lists the center’s address and phone number. Contact the center directly for current counseling intake and eligibility.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "seoul-using-medical-services",
+        "title": "My Seoul Plus guide to medical services",
+        "url": "https://global.seoul.go.kr/hmpg/finf/welf/emer/contPageDetail.do?conts_no=4B5A1B2AF5794457AAB3E8721C95C9C9&lang=en",
+        "note": "Lists hospitals with foreign-patient services and tells readers that language and hours vary by hospital.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "visit-seoul-emergency-help",
+        "title": "Visit Seoul medical emergency instructions",
+        "url": "https://english.visitseoul.net/medical-emergencies",
+        "note": "Identifies 119 as the number for emergency medical help in Seoul.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask whether support is available for your situation and who can communicate in your language during the actual appointment."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1660,
+    "heroOmissionReason": "The checklist or comparison table supports the decision directly."
+  },
+  "smile-pro-vs-lasik-seoul-2026": {
+    "id": "guide:smile-pro-vs-lasik-seoul-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask each eye doctor to explain which findings support their recommendation, what alternatives they considered, and what the written quote includes. If the recommendations differ, take both exam summaries to an eye doctor for clarification before choosing a procedure or paying a deposit.",
+    "forWhom": "Travelers in Seoul who received different refractive surgery recommendations from two eye clinics.",
+    "conditions": [
+      "Only the clinician can interpret your eye exam and assess your options. The U.S. FDA material discusses LASIK. The UK guidance concerns planning care abroad. Neither establishes Korean rules or endorses a clinic."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "SMILE Pro vs LASIK",
+      "compare eye consultations",
+      "refractive surgery second opinion",
+      "Seoul eye clinic quote"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w42-fda-lasik-patient-expectations",
+        "title": "U.S. FDA patient guide before LASIK",
+        "url": "https://www.fda.gov/medical-devices/lasik/what-should-i-expect-during-and-after-surgery",
+        "note": "Describes an eye examination and discussion of risks, benefits and alternatives, with time to ask questions before consenting.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w42-uk-treatment-abroad-planning",
+        "title": "UK government guidance on hospital treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Covers planning for medical travel and checking the arrangements for care after treatment.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Compare the exam findings, rationale, alternatives and follow-up in both written recommendations before booking."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1661,
+    "heroOmissionReason": "The checklist or comparison table supports the decision directly."
+  },
+  "smile-pro-eye-surgery-the-2026-tech-upgrade-from-lasik-2026": {
+    "id": "guide:smile-pro-eye-surgery-the-2026-tech-upgrade-from-lasik-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the treating clinic to write the procedure name, device manufacturer and model on the plan. Compare those details with the consent form explained by the clinician, and confirm how you will obtain the baseline measurements, treatment summary and follow-up notes.",
+    "forWhom": "Travelers who have a written SMILE Pro offer in Korea and want to understand the paperwork before committing.",
+    "conditions": [
+      "Manufacturer materials may describe different uses and labeling across markets. Confirm what applies to the clinic’s exact device and proposed use in Korea, and what records the clinic can give you."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "SMILE Pro device model",
+      "eye surgery consent",
+      "eye examination records",
+      "medical care handoff"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w42-zeiss-visumax-device-reference",
+        "title": "ZEISS VISUMAX 800 device information",
+        "url": "https://www.zeiss.com/meditec/en/products/refractive-lasers/femtosecond-laser-solutions/zeiss-visumax-800.html",
+        "note": "Names the VISUMAX 800 and SMILE pro and states that approved labeling and instructions can differ by country or region.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w42-fda-lasik-consent-checklist",
+        "title": "U.S. FDA LASIK consent checklist",
+        "url": "https://www.fda.gov/medical-devices/lasik/lasik-surgery-checklist",
+        "note": "Provides a LASIK example of asking for the patient booklet for a specific laser and reviewing the consent form before deciding.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w42-fda-lasik-patient-information-card",
+        "title": "U.S. FDA LASIK patient information card",
+        "url": "https://www.fda.gov/medical-devices/lasik/fdas-lasik-program",
+        "note": "Explains why retaining eye measurements taken before LASIK can help a future eye doctor. The example concerns LASIK, so patients should ask what records apply to the actual procedure.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Match the procedure and device across the clinic’s forms, then arrange copies of your baseline exam and care records."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1662,
+    "heroOmissionReason": "The checklist or comparison table supports the decision directly."
+  },
+  "tattoo-removal-in-korea-the-latest-laser-tech-for-stubborn-ink-2026": {
+    "id": "guide:tattoo-removal-in-korea-the-latest-laser-tech-for-stubborn-ink-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Bring a clear photo of the tattoo and any records of earlier treatments. Ask the dermatologist what can realistically be lightened, how cosmetic or layered inks affect the assessment, and who can examine the area if your travel dates change.",
+    "forWhom": "Travelers considering a dermatology consultation in Korea for a body tattoo, an older cover-up or permanent makeup.",
+    "conditions": [
+      "Only a qualified clinician who has examined the area can assess the plan. U.S. FDA and American Academy of Dermatology materials explain general risks and consultation considerations without verifying Korean clinic licensing or device use."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "tattoo removal consultation",
+      "permanent makeup removal",
+      "tattoo ink colors",
+      "dermatology follow-up"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w42-aad-tattoo-consultation",
+        "title": "American Academy of Dermatology tattoo removal consultation guide",
+        "url": "https://www.aad.org/public/cosmetic/hair-removal/laser-tattoo-removal",
+        "note": "Identifies tattoo color, location, age, medication and previous raised scars as relevant to a consultation, and discusses potential effects on the skin.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w42-fda-tattoo-pigment-risks",
+        "title": "U.S. FDA tattoo removal options and outcomes",
+        "url": "https://www.fda.gov/consumers/consumer-updates/tattoo-removal-options-and-results",
+        "note": "Explains that white or flesh-colored pigments and permanent makeup can darken, that multiple visits may be needed, and that complete removal can be impossible.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Bring photos, the location and color history, and any prior treatment records. Ask what can realistically be lightened before booking."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1663,
+    "heroOmissionReason": "The checklist or comparison table supports the decision directly."
   }
 }

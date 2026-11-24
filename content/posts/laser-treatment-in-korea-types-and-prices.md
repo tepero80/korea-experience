@@ -25,6 +25,8 @@ The [FDA’s overview of medical lasers](https://www.fda.gov/radiation-emitting-
 
 If a booking agent sends you a quote, ask for the treating branch’s own contact. [Medical Korea describes the registration system for institutions that attract foreign patients](https://www.medicalkorea.or.kr/en/registeredsystem). Check the exact branch rather than relying on a chain’s name. Registration by itself cannot tell you which clinician or device would be used at your appointment.
 
+For a tattoo removal visit, [prepare a pigment and previous-treatment history](/blog/tattoo-removal-in-korea-the-latest-laser-tech-for-stubborn-ink-2026) before discussing the plan and travel dates.
+
 ## Take home a copy you can understand
 
 The [NHS consultation checklist](https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/before-you-have-a-cosmetic-procedure/) suggests asking about the procedure, the products involved and what could go wrong. Ask who will explain those points in a language you understand and whether the branch can give you a written summary. If the advertisement and proposal differ and the explanation is unclear, you can use the visit to ask questions and take time to decide. Before paying a deposit, [confirm the clinic’s written booking and cancellation terms](/blog/how-to-verify-korean-clinic-credentials-red-flags-to-avoid).

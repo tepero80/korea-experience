@@ -18,6 +18,8 @@ Ask the eye doctor to write down the proposed procedure and explain why it is be
 | Visits | Which checks need to happen in Korea, and which might be arranged at home? |
 | Records | Which reports and care instructions can I take to my eye doctor at home? |
 
+If you have two different proposals, use the [SMILE and LASIK consultation comparison](/blog/smile-pro-vs-lasik-seoul-2026) to put their exam findings and follow-up requirements side by side.
+
 ## Keep time for the follow-up plan
 
 Tell the eye clinic the dates of your itinerary and how to reach you. Ask how to get an examination if the schedule changes or you develop a concern. The [UK guidance on treatment abroad](https://www.gov.uk/guidance/in-hospital-abroad) explains why to check the care available after treatment. If someone offers a remote appointment, use the [remote follow-up checklist](/blog/telemedicine-follow-ups-2026) to confirm how it relates to your required eye examination.

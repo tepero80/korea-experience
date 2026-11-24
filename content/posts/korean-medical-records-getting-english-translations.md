@@ -19,6 +19,8 @@ Ask what the person receiving it needs in order to act. You may need more than o
 
 If a follow-up is planned after you leave Korea, use the [remote follow-up checklist](/blog/telemedicine-follow-ups-2026) to confirm the appointment and choose how the clinic will send records.
 
+For a SMILE eye consultation, [ask the clinic to identify the laser and agree on the record copies](/blog/smile-pro-eye-surgery-the-2026-tech-upgrade-from-lasik-2026) you may need at home.
+
 ## Ask while you can speak to the treating team
 
 Show the doctor's office the recipient's requested document names. Confirm the spelling of your name, the visit dates and the intended method of delivery. If the document is only available in Korean, first ask whether the recipient accepts an English summary or requires a translation and which translation format is acceptable.

@@ -20,6 +20,8 @@ Seoul’s [Gangnam Global Village Center](https://global.seoul.go.kr/hmpg/ainf/c
 
 If a listing asks you to take on duties, the [Seoul volunteer eligibility checklist](/blog/volunteer-opportunities-for-english-speakers-in-seoul-2026) helps you check the role before accepting.
 
+If you would rather meet people over a shared activity, [find a community session with a language and schedule that suit you](/blog/finding-community-top-expat-clubs-and-networking-events-in-seoul-2026).
+
 ## Send a clear invitation
 
 Try “안녕하세요. 한국어와 영어로 20분 정도 이야기해 보고 싶어요.” It opens a short Korean and English conversation. State your visit dates only if useful. If someone pushes for money or redirects the conversation to an unexpected link, pause and use the platform’s block or report controls.

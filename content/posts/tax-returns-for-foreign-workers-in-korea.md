@@ -67,7 +67,7 @@ This is a critical distinction because the standard progressive tax rates in Kor
 
 The 19% flat rate is generally beneficial for high-income earners. The break-even point usually hovers around an annual gross income of ₩140,000,000 (approximately $105,000 USD).
 
-Learn more in our comprehensive guide to [Korean labor laws your rights as a foreign employee](/blog/korean-labor-laws-your-rights-as-a-foreign-employee-2026).
+If the underlying wage record is wrong, use the [pay and workplace records checklist](/blog/korean-labor-laws-your-rights-as-a-foreign-employee-2026) to document the mismatch and find the labor-help channel.
 
 If you earn less than this amount, the standard progressive rate—combined with the various deductions available—will usually result in a lower effective tax rate than 19%.
 

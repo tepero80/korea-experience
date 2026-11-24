@@ -34,6 +34,8 @@ When you plan around a phone plan or local bank account, check the provider dire
 
 After arrival, [confirm your NHIS category and its effective date](/blog/korean-health-insurance-nhis-guide-for-foreigners-2026) if a new job or address changes how coverage may be handled.
 
+If adjusting after the move feels difficult, [check which resident support or clinical service to contact](/blog/dealing-with-loneliness-mental-health-resources) and ask about language and availability.
+
 ## Move from a short stay to a lease when the terms make sense
 
 Separate money due on arrival, recurring costs and any amount tied up in a deposit. Use the [jeonse and wolse worksheet](/blog/jeonse-vs-wolse-korean-rental-system-explained) with written offers. Check the location in person when practical, including the route home with bags and what it is like at the hour you will usually return. Before handing over money, confirm the payee and get the amount, timing and terms in writing.

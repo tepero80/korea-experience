@@ -37,7 +37,7 @@ Related reading: [Dealing with Korean landlords common issues and solutions](/bl
 
 The Card formerly known as the "Alien Registration Card" (ARC) is now officially the "Residence Card." Regardless of the name change, its function remains the absolute bedrock of your life in Korea. Without this card, you cannot sign a long-term phone contract, open a full-service bank account, or even order food delivery efficiently.
 
-You might also enjoy our article about [Korea mental health resources guide dealing with loneliness](/blog/dealing-with-loneliness-mental-health-resources).
+For personal support after a move, [find the right resident or clinical contact and ask about language and availability](/blog/dealing-with-loneliness-mental-health-resources).
 
 Legally, you must apply for this card within **90 days** of arrival if you intend to stay longer than that period. However, experienced expats know you should apply within your first week.
 

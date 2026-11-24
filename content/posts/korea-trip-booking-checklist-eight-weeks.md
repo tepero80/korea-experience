@@ -15,6 +15,8 @@ draft: false
 ---
 **Book in order of consequence.** An entry problem, an unsuitable hotel or an impossible late arrival is harder to fix than removing one optional café. The eight-week sequence below is planning advice, not an official sale calendar.
 
+Before departure, [practice reading travel signs and using a few polite Korean phrases](/blog/korean-language-learning-guide-for-beginners) you can use on the first day.
+
 ## Use this sequence even if you have fewer than eight weeks
 
 | Planning stage | Do now | Keep a record of |

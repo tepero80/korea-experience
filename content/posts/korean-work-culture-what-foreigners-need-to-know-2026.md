@@ -26,6 +26,10 @@ If the employer proposes E-7 sponsorship, [confirm the occupation and who suppli
 
 If a listing asks for TOPIK or Korean fluency, [confirm the test and the language used on the job](/blog/korean-language-requirements-for-jobs-topik-guide-2026).
 
+If the work has started and the pay or hours differ from the agreement, [collect the records and find the correct labor-help channel](/blog/korean-labor-laws-your-rights-as-a-foreign-employee-2026).
+
+Before a busy first week, ask how the team [handles competing deadlines and urgent messages](/blog/understanding-pali-pali-culture-in-the-korean-workplace-2026).
+
 ## Confirm which conditions apply before starting
 
 Keep the version you sign. Check any immigration permission with the competent office before starting. If you disagree about a term after reading it, take the full contract and the relevant messages to an appropriate employment adviser.

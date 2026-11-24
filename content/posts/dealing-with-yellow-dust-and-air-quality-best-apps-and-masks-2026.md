@@ -23,7 +23,7 @@ Related reading: [Dealing with Korean landlords common issues and solutions](/bl
 
 This comprehensive guide covers everything from the science behind the pollution to the most accurate localized apps and the most comfortable, effective masks available on the Korean market today.
 
-You might also enjoy our article about [Korea mental health resources guide dealing with loneliness](/blog/dealing-with-loneliness-mental-health-resources).
+If you decide to change your outdoor plans, use the [Seoul itinerary built around museums and covered stops](/blog/seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets) to find an indoor alternative.
 
 <KeyTakeaways 
   points={[
