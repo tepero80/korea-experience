@@ -19,6 +19,8 @@ Seoul National University Hospital’s [online request page](https://www.snuh.or
 | Walk-in | Whether new patients can register that day and when the counter closes. |
 | Referral | Whether the provider needs a referral or records before accepting the visit. |
 
+For pregnancy-related appointments, use the [maternity intake checklist](/blog/pregnancy-and-childbirth-in-korea-a-guide-for-foreign-mothers-2026) to ask about prenatal records and whether the hospital can accept your request.
+
 ## Make the visit work on the day
 
 Save the Korean name of the clinic, its exact branch and your booking response. Ask which ID to carry, what the consultation may cost and whether language support covers the consultation itself. When a clinic asks for medical records, use a channel you have verified with the provider and check which documents are needed.

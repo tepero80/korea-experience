@@ -18,6 +18,8 @@ Start with the facility’s official name and use the [Medical Korea institution
 | Follow-up | Who answers unexpected concerns after hours, and where would you send me if I need care the facility cannot provide? |
 | Estimate | Which professional fees, tests, follow-ups and related costs are included, and who invoices for the rest? |
 
+If the facilities use different eyelid-surgery terms, ask each surgeon to explain the [specific technique and aftercare plan](/blog/blepharoplasty-techniques-incisional-vs-non-incisional-double-eyelid-surgery).
+
 ## Use the answers to make your travel plan
 
 Compare the details that matter to your itinerary, such as an appointment that requires a second visit or follow-up in another building. Ask for current written contact instructions and the cancellation terms before paying. The [UK travel guidance on treatment abroad](https://www.gov.uk/guidance/in-hospital-abroad) recommends considering follow-up and what to do if complications develop. Use the [consultation checklist](/blog/medical-tourism-consultation-checklist-questions-about-clinician-interpreter-and) when you speak to the clinician.

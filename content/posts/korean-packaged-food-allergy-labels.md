@@ -37,6 +37,8 @@ This page is about packaged products with labeling under Korea's food-labeling r
 
 At a bakery without a sealed package, ask about the exact item and shared tongs. The [bakery ordering guide](/blog/a-first-timer-guide-to-korean-bakery-caf-s-ordering-seating-and-takeaway-customs) has Korean phrases for that conversation.
 
+For bottles or extract packets with a ginseng illustration, use the [ginseng label checklist](/blog/korean-ginseng-and-health-tonics-what-to-buy-for-energy-2026) to identify the product category and warnings.
+
 ## A careful buying routine
 
 1. Keep the names of your known allergens in Korean and your preferred language. Have a fluent speaker verify the terms before travel; machine translation can miss ingredient and processing nuance.

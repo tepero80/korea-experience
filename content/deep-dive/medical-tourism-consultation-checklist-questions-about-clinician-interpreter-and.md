@@ -22,6 +22,8 @@ Ask whether interpretation is available for the consultation, consent discussion
 
 If you are not comfortable with the interpretation, ask the clinic to pause and arrange clarification before making a decision. Important medical instructions should be communicated in a form you understand; do not rely only on a short text exchange to explain a diagnosis, risks, or consent. The exact interpretation services and arrangements are provider-specific, so confirm them directly.
 
+If the clinic proposes an injection, ask for the [product and patient labeling details](/blog/anti-aging-treatments-in-korea-botox-fillers-and-more-2026) while you can speak to the clinician.
+
 ## Questions about costs and coordination
 
 Request an itemized written estimate that separates the clinician's fees, facility charges, anesthesia or medicines where relevant, tests, interpreter or coordination services, and follow-up. Ask which amounts are estimates, what might change, what is refundable, and which payment methods are accepted. Do not treat a promotional package as a final bill unless its inclusions and exclusions are written down.

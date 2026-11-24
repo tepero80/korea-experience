@@ -18,6 +18,8 @@ List the activities you are considering and show them to your treating team. [We
 | Train or airport transfer | What should I arrange for luggage, long waits or a transfer with stairs? |
 | Physical therapy | If you recommend it, what written instructions can I share with a clinician at home? |
 
+If your hotel has stairs or is hard to reach, use the [lodging checklist for discharge](/blog/korean-medical-tourism-recovery-hotels-and-aftercare-guide-2026) to match the room and transfer to your care team’s instructions.
+
 ## Keep flexible options until you have a plan
 
 Make the activities you can cancel or move easy to identify. Ask what changes should prompt you to contact the treating team and whom to call once you have left the facility. The [UK travel guidance](https://www.gov.uk/guidance/in-hospital-abroad) covers arranging follow-up and contacting the people involved in your return travel. If your itinerary also includes a flight, check the [operating airline’s paperwork and return planning](/blog/flying-after-surgery-when-is-it-safe-to-head-home-doctor-advice-2026) separately.

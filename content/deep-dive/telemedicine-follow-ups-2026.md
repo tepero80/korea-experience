@@ -20,6 +20,8 @@ Tell the clinic which country you will be in and ask whether it can see you remo
 | Language and billing | Whether an interpreter can join, the cost and how you will be billed. |
 | Transfer | What records to share in advance, and the secure channel to use. |
 
+For an eye procedure, use the [refractive surgery consultation checklist](/blog/lasik-and-lasek-eye-surgery-in-korea-complete-guide-2026) to confirm which eye examinations need to take place in person.
+
 ## Plan the fallback before leaving Korea
 
 Ask for a written discharge plan with follow-up details, as described in [MedlinePlus’s discharge guidance](https://medlineplus.gov/ency/patientinstructions/000867.htm). If local assessment may be needed, ask what kind of clinician or service to arrange at home and which notes to share. The [UK guidance on treatment abroad](https://www.gov.uk/guidance/in-hospital-abroad) also discusses planning for ongoing care and emergencies. Prepare the [English medical records the recipient actually needs](/blog/korean-medical-records-getting-english-translations) before leaving if possible.

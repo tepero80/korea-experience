@@ -21,6 +21,8 @@ The [Korea Health Industry Development Institute’s 2025 release](https://www.k
 
 The KHIDI headline figure counts patients. A clinical outcome would need a different set of observations. Ask the clinician what evidence applies to the procedure being proposed and what follow-up is available for your actual itinerary. The [UK guidance on treatment abroad](https://www.gov.uk/guidance/in-hospital-abroad) explains which costs and follow-up arrangements to check before travel.
 
+If the clinic uses a photo portfolio as evidence, use the [before-and-after photo questions](/blog/before-and-after-korean-plastic-surgery-real-patient-reviews-2026) to check timing, selection and whether the images are comparable.
+
 ## Compare the arrangements you can verify
 
 Request the name of the treating clinician, a written plan and a contact for unexpected problems from each facility. Use the [hospital and clinic comparison](/blog/choosing-between-large-hospitals-vs-boutique-clinics) to ask the same questions of both.

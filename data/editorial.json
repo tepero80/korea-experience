@@ -43716,5 +43716,334 @@
     "changeType": "rewrite",
     "launchOrder": 1571,
     "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "pregnancy-and-childbirth-in-korea-a-guide-for-foreign-mothers-2026": {
+    "id": "guide:pregnancy-and-childbirth-in-korea-a-guide-for-foreign-mothers-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Contact a maternity service before travel or a planned move. Ask whether it accepts your appointment or delivery request, which records it needs and how to reach the team outside appointment hours.",
+    "forWhom": "Pregnant travelers or international patients considering prenatal care or delivery in Korea.",
+    "conditions": [
+      "Availability, referral needs and accepted languages vary. Confirm the appointment with the maternity team for your own situation."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "international maternity intake",
+      "prenatal documents",
+      "interpreting requests"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w33-cdc-pregnancy",
+        "title": "CDC Yellow Book guidance for pregnant travelers",
+        "url": "https://www.cdc.gov/yellow-book/hcp/family-travel/pregnant-travelers.html",
+        "note": "Explains prenatal records, clinician contact details and arranging care in advance.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w33-amc-service",
+        "title": "Asan Medical Center international services",
+        "url": "https://eng.amc.seoul.kr/gb/lang/patients/contents/ourService.do",
+        "note": "Shows one hospital’s appointment and language assistance services.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Keep a copy of your prenatal records and your treating clinician’s contact details."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1572,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-medical-tourism-recovery-hotels-and-aftercare-guide-2026": {
+    "id": "guide:korean-medical-tourism-recovery-hotels-and-aftercare-guide-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the treating team what support, transport and follow-up your discharge plan requires. Check those details against a specific room before paying for the stay.",
+    "forWhom": "Travelers who expect to stay in Korea after a medical procedure or hospital discharge.",
+    "conditions": [
+      "Room features and lodging services vary. Your treating team determines what care you need and where it should take place."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "discharge lodging",
+      "accommodation access",
+      "follow-up transport"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w33-nhs-discharge",
+        "title": "NHS planning a hospital discharge",
+        "url": "https://www.nhs.uk/nhs-services/hospitals/going-into-hospital/being-discharged-from-hospital/",
+        "note": "Shows how transport, further support and care contacts fit into a discharge plan.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w33-uk-travel",
+        "title": "UK travel guidance on treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Discusses confirming what healthcare is available after treatment abroad and making return travel arrangements.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the route to the exact room and the cost of extending the stay."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1573,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "anti-aging-treatments-in-korea-botox-fillers-and-more-2026": {
+    "id": "guide:anti-aging-treatments-in-korea-botox-fillers-and-more-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Before agreeing to an injection, ask who will perform it, which product is proposed, what the patient labeling says and who handles concerns afterward.",
+    "forWhom": "Travelers checking an offer for botulinum toxin or dermal filler at a Korean clinic.",
+    "conditions": [
+      "Each product and treatment plan has its own intended uses and risks. Discuss personal suitability with the clinician who will treat you."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "cosmetic injection product",
+      "patient label at consultation",
+      "written consent questions"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w33-khidi-information",
+        "title": "KHIDI guidance on information for foreign patients",
+        "url": "https://www.medicalkorea.or.kr/korp/notice/faqView.do?faqSn=48",
+        "note": "Describes information about treatment, side effects, estimates and dispute resolution.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w33-fda-filler",
+        "title": "FDA guidance on dermal filler labeling",
+        "url": "https://www.fda.gov/consumers/consumer-updates/dermal-filler-dos-and-donts-wrinkles-lips-and-more",
+        "note": "Recommends asking for patient labeling and distinguishes fillers from botulinum toxin products.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for the exact product name and a copy of the patient labeling."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1574,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "before-and-after-korean-plastic-surgery-real-patient-reviews-2026": {
+    "id": "guide:before-and-after-korean-plastic-surgery-real-patient-reviews-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Use the photos to prepare questions. Compare how both images were taken, ask how long after the procedure the second photo was made, and request follow-up details separately.",
+    "forWhom": "Travelers evaluating a Korean clinic’s portfolio or patient reviews.",
+    "conditions": [
+      "A portfolio contains selected examples. The clinic should explain the evidence and options that apply to your proposed treatment."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "treatment portfolio review",
+      "before and after image comparison",
+      "follow-up evidence"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w33-asps-photos",
+        "title": "American Society of Plastic Surgeons guide to before-and-after photos",
+        "url": "https://www.plasticsurgery.org/news/articles/can-you-trust-before-and-after-photos",
+        "note": "Discusses selecting examples and checking lighting, pose and timing.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w33-nhs-abroad",
+        "title": "NHS questions about cosmetic surgery abroad",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-surgery-abroad/",
+        "note": "Suggests confirming who performs the procedure, where checks occur and how complications are managed.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask when the after photo was taken and whether the same lighting and angle were used."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1575,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "korean-ginseng-and-health-tonics-what-to-buy-for-energy-2026": {
+    "id": "guide:korean-ginseng-and-health-tonics-what-to-buy-for-energy-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Check whether the package identifies the product as a health functional food. Read the ingredient list, cautions and date before comparing products that look similar.",
+    "forWhom": "Travelers choosing a Korean ginseng drink, extract or gift from a shop shelf.",
+    "conditions": [
+      "Labels and ingredients vary by product. Ask a health professional about interactions if you take medicine."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "Korean ginseng label",
+      "health functional food mark",
+      "Korean shopping labels"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w33-mfds-labels",
+        "title": "Korean Ministry of Food and Drug Safety food labeling guide",
+        "url": "https://www.mfds.go.kr/mfds/eng/html/sub01/MFDS-DE01-10-05-L0001.jsp",
+        "note": "Describes the health functional food mark and the information required on its label.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w33-nccih-ginseng",
+        "title": "NIH guidance on Asian ginseng",
+        "url": "https://www.nccih.nih.gov/health/asian-ginseng",
+        "note": "Explains why someone taking medicine should ask a clinician about interactions before using Asian ginseng.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Look for 건강기능식품 on the exact package and read its cautions."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1576,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "lasik-and-lasek-eye-surgery-in-korea-complete-guide-2026": {
+    "id": "guide:lasik-and-lasek-eye-surgery-in-korea-complete-guide-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the eye doctor to name the procedure, explain what your exam shows and tell you which follow-up visits the plan requires before or after your return home.",
+    "forWhom": "Visitors deciding whether to schedule a refractive surgery assessment in Korea.",
+    "conditions": [
+      "Suitability, risks and follow-up depend on the procedure and your own eye examination. Confirm each with the treating doctor."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "eye surgery assessment",
+      "in-person eye follow-up",
+      "travel after eye examination"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w33-fda-lasik",
+        "title": "FDA guidance before and after LASIK",
+        "url": "https://www.fda.gov/medical-devices/lasik/what-should-i-expect-during-and-after-surgery",
+        "note": "Supports asking about a baseline exam, individual options and follow-up for LASIK.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w33-uk-travel",
+        "title": "UK travel guidance on treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Discusses confirming what healthcare is available after treatment abroad and making return travel arrangements.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm which follow-up visits need an in-person eye examination before booking a flight home."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1577,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
+  },
+  "blepharoplasty-techniques-incisional-vs-non-incisional-double-eyelid-surgery": {
+    "id": "guide:blepharoplasty-techniques-incisional-vs-non-incisional-double-eyelid-surgery",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the surgeon doing the operation to explain the technique and why it is being proposed. Check the alternatives, limitations, risks and arrangements for each follow-up visit.",
+    "forWhom": "Visitors comparing consultations that use different terms for eyelid surgery.",
+    "conditions": [
+      "Technique names may be used differently in offers. Confirm what the surgeon proposes for your individual case."
+    ],
+    "regions": [],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "eyelid technique wording",
+      "surgeon consultation questions",
+      "cosmetic surgery follow-up plan"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w33-nhs-eyelid",
+        "title": "NHS guide to eyelid surgery",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/cosmetic-surgery/eyelid-surgery/",
+        "note": "Describes questions about conventional eyelid surgery and the need to discuss risks and care.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w33-nhs-choose",
+        "title": "NHS questions for the person performing a cosmetic procedure",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/choosing-who-will-do-your-procedure/",
+        "note": "Recommends consulting the practitioner who would perform it and asking about qualifications and aftercare.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w33-nhs-abroad",
+        "title": "NHS questions about cosmetic surgery abroad",
+        "url": "https://www.nhs.uk/tests-and-treatments/cosmetic-procedures/advice/cosmetic-surgery-abroad/",
+        "note": "Suggests confirming who performs the procedure, where checks occur and how complications are managed.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Write down what the proposed eyelid technique involves and who will provide aftercare."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1578,
+    "heroOmissionReason": "A document or booking checklist explains the task directly."
   }
 }
