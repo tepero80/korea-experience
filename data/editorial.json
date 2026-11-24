@@ -42787,5 +42787,335 @@
     "changeType": "rewrite",
     "launchOrder": 1553,
     "heroOmissionReason": "A compact comparison of door and platform situations is useful without implying that one photo shows typical behavior at every entrance."
+  },
+  "flying-after-surgery-when-is-it-safe-to-head-home-doctor-advice-2026": {
+    "id": "guide:flying-after-surgery-when-is-it-safe-to-head-home-doctor-advice-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask your treating clinician if your proposed itinerary is appropriate, then confirm the clearance process with each airline actually flying you. Keep the return date flexible until you have the information you need.",
+    "forWhom": "Travelers arranging a return flight after a medical procedure in Korea.",
+    "conditions": [
+      "Follow your treating team’s instructions.",
+      "Each operating airline can have its own submission and approval process."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "airline medical forms",
+      "post-treatment return travel"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-terminal-flight-check",
+        "type": "next",
+        "label": "Check your departure terminal",
+        "reason": "Once travel is confirmed, identify the actual airline, airport terminal and landside route."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w30-ke-medif",
+        "title": "Korean Air medical services",
+        "url": "https://www.koreanair.com/contents/plan-your-travel/special-assistance/disability-assistance/medical-services?hl=en",
+        "note": "Carrier-specific physician paperwork and recent surgery guidance.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w30-ek-medif",
+        "title": "Emirates Medical Information Form",
+        "url": "https://www.emirates.com/us/english/before-you-fly/health/medical-information-forms/",
+        "note": "Separate passenger and clinician sections and review by the airline.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w30-fcdo-return",
+        "title": "UK travel guidance on treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Official guidance to ask a clinician and get advance confirmation when required.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Check the return itinerary with your clinician and operating airline."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1554,
+    "heroOmissionReason": "A process table clarifies responsibilities without depicting a specific patient or medical procedure."
+  },
+  "medical-tourism-insurance-for-korea": {
+    "id": "guide:medical-tourism-insurance-for-korea",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Before paying a clinic or buying insurance, disclose the treatment and ask your insurer to point to the exact clauses for the procedure, related complications and any extra stay or return transport.",
+    "forWhom": "Visitors comparing the insurance implications of planned care in Korea.",
+    "conditions": [
+      "Coverage depends on your policy and what you have disclosed.",
+      "Check whether written approval is needed before paying for services or changes."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "planned treatment cover",
+      "insurance policy exclusions"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w30-fcdo-elective",
+        "title": "UK FCDO guidance on planned treatment abroad",
+        "url": "https://www.gov.uk/guidance/in-hospital-abroad",
+        "note": "Distinguishes standard travel cover and costs tied to elective surgery or complications.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w30-fcdo-policy",
+        "title": "UK FCDO foreign travel insurance guidance",
+        "url": "https://www.gov.uk/guidance/foreign-travel-insurance",
+        "note": "Checking medical disclosures, repatriation and the traveller’s actual policy.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask for the exact policy clause for each cost you are counting on."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1555,
+    "heroOmissionReason": "A policy comparison table makes the coverage questions visible without suggesting approval by an insurer."
+  },
+  "k-beauty-for-men-breaking-the-stigma-of-male-makeup-2026": {
+    "id": "guide:k-beauty-for-men-breaking-the-stigma-of-male-makeup-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "For small areas, compare a concealer. For coverage across more of the face, try a cushion. Check your shade in that exact formula and make sure the package includes any case or applicator you need.",
+    "forWhom": "Visitors who want one makeup product for subtle touch-ups or a compact travel kit.",
+    "conditions": [
+      "Shade numbering depends on the formula and brand.",
+      "Ask the shop about testers and stock."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "concealer or cushion",
+      "makeup touch-up kit"
+    ],
+    "relations": [
+      {
+        "slug": "olive-young-shopping-guide-must-buy-k-beauty-products",
+        "type": "next",
+        "label": "Choose where to shop in person",
+        "reason": "Check the branch and how to compare the actual product and checkout terms."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w30-oy-tone",
+        "title": "Olive Young ABOUT_TONE cushion listing",
+        "url": "https://global.oliveyoung.com/product/detail?prdtNo=GA250631869",
+        "note": "Retail example of a cushion with different undertones at one depth.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Choose the coverage area first, then match the product and shade."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1556,
+    "heroOmissionReason": "Label examples illustrate how to pick a product without suggesting a universal shade from a photographed complexion."
+  },
+  "korean-men-skincare-routine-and-products-guide-2026": {
+    "id": "guide:korean-men-skincare-routine-and-products-guide-2026",
+    "categoryId": "shopping-kbeauty",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "List the toiletries you already use. Pack the sizes that fit your bag and replace only what you forget or run out of. Check the contents before buying a multi-product kit.",
+    "forWhom": "Visitors packing light or replacing a missing skincare item in Korea.",
+    "conditions": [
+      "Check liquids rules for each airport where you are screened.",
+      "Use products that suit your established routine."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "short trip toiletries",
+      "skincare travel kit"
+    ],
+    "relations": [
+      {
+        "slug": "packing-korean-shopping-liquids-and-souvenirs-for-your-flight",
+        "type": "next",
+        "label": "Check what fits your airport liquids bag",
+        "reason": "Confirm the screening rules for liquids and gels before packing your products."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w30-roundlab-kit",
+        "title": "Round Lab Dokdo Travel Kit contents",
+        "url": "https://roundlab.com/products/dokdo-travel-kit",
+        "note": "Manufacturer example of a kit listing cleanser, toner, ampoule and cream.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w30-icn-liquids",
+        "title": "Incheon Airport international carry-on FAQ",
+        "url": "https://airport.kr/ap_en/1434/subview.do",
+        "note": "The 100 mL container rule for liquids and gels.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Look at the contents and the container size before buying a travel kit."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1557,
+    "heroOmissionReason": "A three-item label table and a manufacturer’s kit listing help identify the contents."
+  },
+  "zero-sugar-soju-and-healthy-drinking-trends-in-korea-2026": {
+    "id": "guide:zero-sugar-soju-and-healthy-drinking-trends-in-korea-2026",
+    "categoryId": "food-dining",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Read the alcohol percentage separately from any zero-sugar claim. If you are skipping alcohol, ask to see the exact bottle or can and choose an unambiguous alternative when you cannot verify it.",
+    "forWhom": "Visitors reading drink labels at a Korean restaurant, bar or convenience store.",
+    "conditions": [
+      "A brand name can cover different products.",
+      "Check the label on the particular bottle or can."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "alcohol label meaning",
+      "zero sugar soju"
+    ],
+    "relations": [
+      {
+        "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+        "type": "next",
+        "label": "Order from the menu in front of you",
+        "reason": "Find practical ordering phrases and ways to confirm an item before paying."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w30-lotte-saero",
+        "title": "Lotte Chilsung Saero brand details",
+        "url": "https://company.lottechilsung.co.kr/kor/brand/saero/contentsid/970/index.do",
+        "note": "Manufacturer describes the specific product as zero-sugar soju with an alcohol strength of 15.7%.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w30-lotte-kloud",
+        "title": "Lotte Chilsung announcement of Kloud Clear Zero",
+        "url": "https://company.lottechilsung.co.kr/kor/company/news/view.do?detailsKey=869&f=&q=",
+        "note": "Historical example of a differently labeled drink at 0.00%.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Read sugar and alcohol content separately."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1558,
+    "heroOmissionReason": "The label comparison points to manufacturer evidence for specific product variants."
+  },
+  "the-philosophy-of-nunchi-understanding-korea-social-superpower-2026": {
+    "id": "guide:the-philosophy-of-nunchi-understanding-korea-social-superpower-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Read the situation, then ask a short question before ordering a shared dish, adding something to the table or assuming how everyone will pay.",
+    "forWhom": "Visitors sharing a meal with companions in Korea.",
+    "conditions": [
+      "Use the restaurant’s ordering and payment setup.",
+      "Confirm individual dietary needs directly."
+    ],
+    "regions": [
+      "nationwide"
+    ],
+    "stages": [
+      "before-you-go",
+      "exploring"
+    ],
+    "interests": [
+      "group meal coordination",
+      "nunchi in restaurants"
+    ],
+    "relations": [
+      {
+        "slug": "how-to-order-food-in-korean-restaurants-phrases-guide-2026",
+        "type": "next",
+        "label": "Read the restaurant’s actual ordering setup",
+        "reason": "Decide whether to order with staff, a table tablet or a kiosk before using the phrases."
+      }
+    ],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w30-nikl-nunchi",
+        "title": "National Institute of Korean Language dictionary for 눈치",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=41644",
+        "note": "The meanings of tact, sense and interpreting a situation.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w30-kto-restaurant",
+        "title": "VisitKorea restaurant guidance",
+        "url": "https://english.visitkorea.or.kr/svc/contents/infoBscView.do?menuSn=460&vcontsId=140727",
+        "note": "Visitor guidance on restaurant service such as water, side dishes and self-service.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w30-kto-vegetarian",
+        "title": "VisitKorea vegetarian travel guidance",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?menuSn=476&vcontsId=140732",
+        "note": "Check specific ingredients in meals that appear suitable.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask about sharing, quantities and the bill before assuming."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1559,
+    "heroOmissionReason": "The phrase comparison is the practical reference. Restaurant arrangements vary by group and venue."
   }
 }

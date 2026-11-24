@@ -93,28 +93,13 @@ The "retro" craze brought back the clear, light blue bottle known simply as "Jin
   You will often see locals shaking the bottle vigorously before opening it. This originates from the old days when cork seals left residue, or to mix sediment in non-filtered versions. Today, it's mostly ritualistic, though some say it aerates the soju slightly for a smoother taste.
 </InfoBox>
 
-## Flavored Soju: The Gateway Drink
+Check the actual bottle if you are choosing by alcohol content. The [zero-sugar and alcohol label guide](/blog/zero-sugar-soju-and-healthy-drinking-trends-in-korea-2026) has a phrase you can use to ask for a different drink.
 
-For those who find the taste of ethanol unpleasant, fruit-flavored sojus are the perfect alternative. These exploded in popularity around 2015 and remain a staple for younger drinkers and tourists.
+<span id="flavored-soju-the-gateway-drink"></span>
 
-The ABV in fruit soju is significantly lower, typically ranging from 12% to 13%. However, the sugar content is vastly higher. A standard bottle can contain up to 30-40 grams of sugar, comparable to a can of soda.
+## Compare flavored bottles by their labels
 
-<QuickFacts
-  title="Fruit Soju Facts"
-  facts={[
-    { label: "Alcohol", value: "12-13%", icon: "📉" },
-    { label: "Sugar", value: "High", icon: "🍬" },
-    { label: "Top Flavor", value: "Green Grape", icon: "🍇" }
-  ]}
-  columns={3}
-/>
-
-**Top Flavors to Try:**
-1.  **Green Grape (Chong-podo):** The absolute bestseller. It tastes exactly like white grape candy.
-2.  **Grapefruit (Jamong):** Slightly tart, balancing the sweetness well.
-3.  **Peach (Boksunga):** Very floral and incredibly sweet.
-
-**Warning:** These are often called "hangover juice." The combination of lower alcohol (leading to faster consumption) and high sugar creates a brutal dehydration effect the next morning.
+Common flavor names to look for include **청포도** (green grape), **자몽** (grapefruit) and **복숭아** (peach). Read the stated alcohol percentage and check any ingredient or sugar information for the actual bottle. A flavor name tells you which version you are looking at. Use the printed content information when choosing between versions.
 
 ## Premium Soju: The Real Spirit
 

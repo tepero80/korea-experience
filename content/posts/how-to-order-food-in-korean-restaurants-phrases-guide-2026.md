@@ -78,6 +78,8 @@ You can show the Korean sentence directly to staff. These are communication aids
 
 When someone offers a drink, [these Korean table phrases](/blog/drinking-etiquette-pour-and-receive-2026) can help you decline politely or ask for water.
 
+For a group meal, use the [sharing, preferences and payment guide](/blog/the-philosophy-of-nunchi-understanding-korea-social-superpower-2026) to agree on the order and how each person will pay.
+
 ## Check the bill before you leave
 
 Look for the ordered quantities, additions and final currency on the payment screen or receipt. Ask about an unclear charge while you are still at the restaurant. KTO’s general guidance says restaurant tipping is unnecessary; do not add an automatic tip out of habit. A clearly displayed menu charge should be clarified separately.

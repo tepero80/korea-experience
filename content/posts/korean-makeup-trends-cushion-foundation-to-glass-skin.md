@@ -19,6 +19,8 @@ ABOUT_TONE’s Water Layer Fit Cushion selector gives 21.5 Warm Beige (21.5 웜 
 | Finish | Ask for the specific finish you prefer, such as a more matte or luminous look. |
 | Refill | Check that the refill names your exact compact and line. |
 
+If you want one item for a very small kit, compare [concealer and cushion for touch-ups](/blog/k-beauty-for-men-breaking-the-stigma-of-male-makeup-2026) before looking for a particular finish.
+
 ## Confirm the shade you can actually buy
 
 Ask a staff member how they handle testers and see the shade in even lighting if possible. If the branch has a tester but no boxed stock, ask for the nearby branch or exact product name rather than choosing by number alone. Confirm whether purchases can be exchanged and how the shop handles an opened product.

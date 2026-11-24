@@ -19,6 +19,8 @@ The ten-step list groups many products you may see on store shelves. Start with 
 
 Check **전성분** for ingredients, **사용기한** for the use-by label and **사용상의 주의사항** for precautions. If you avoid an ingredient, check the actual box or manufacturer’s listing for that product version. Ask for an unopened box when the displayed bottle is a tester. The [FDA’s general cosmetics guidance](https://www.fda.gov/cosmetics/resources-consumers-cosmetics/using-cosmetics-safely) also advises reading the warnings and following product directions.
 
+For a short stay or a missing item, use the [small travel skincare kit](/blog/korean-men-skincare-routine-and-products-guide-2026) to focus on products you already use.
+
 ## Do the bag check before paying
 
 For an international departure from Incheon, the [airport’s published liquids rules](https://www.airport.kr/ap_en/1432/subview.do) require containers of up to 100 mL inside a single clear resealable bag of up to 1 L per traveler. The [airport’s examples](https://airport.kr/ap_en/1434/subview.do) include toner, lotion and sunscreen. The size printed on the container matters even when it is partly empty. A 150 mL bottle with 30 mL left still has a 150 mL capacity.

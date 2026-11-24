@@ -19,6 +19,8 @@ The [UK Foreign Office guidance for medical care abroad](https://www.gov.uk/guid
 | Clinician | The certificate or clinical notes your insurer requests. Ask while the visit is still open. |
 | Pharmacy | A readable receipt and a prescription copy when relevant to the claim. |
 
+Still comparing cover before paying? The [planned-treatment insurance checklist](/blog/medical-tourism-insurance-for-korea) helps you identify coverage questions before you need to collect a claim file.
+
 ## Sort the paperwork before departure
 
 Seoul National University Hospital’s [records instructions](https://www.snuh.org/global/en/patients/EN02005.do) direct patients to request a medical certificate during the consultation. Ask your own provider about pickup, format, fees and remote access before leaving Korea. For copies, translation, or when another person will collect the paperwork, use the [Korean medical records guide](/blog/medical-records-for-international-patients-in-korea-translation-consent-and-copi).
