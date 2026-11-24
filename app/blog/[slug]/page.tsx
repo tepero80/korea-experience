@@ -19,7 +19,7 @@ import Icon from '@/components/site/Icon';
 import { generatedArchiveCoverHash, mediaFor, mediaForSource } from '@/lib/media';
 import { getDestinations } from '@/lib/destinations';
 import { isInRegion } from '@/lib/regions';
-import { googleMapsSearch } from '@/lib/google-maps';
+import PlaceDirections from '@/components/site/PlaceDirections';
 import styles from './article-editorial.module.css';
 type Params = Promise<{ slug: string }>;
 export function generateStaticParams() {
@@ -251,22 +251,7 @@ export default async function Guide({ params }: { params: Params }) {
                           <span lang="ko">{place.address || place.nameKo}</span>
                         </div>
                         <div className={styles.routeMaps}>
-                          <a
-                            href={`https://map.naver.com/p/search/${encodeURIComponent(place.nameKo)}`}
-                            aria-label={`Naver Map for ${place.name}`}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            Naver Map <span aria-hidden="true">↗</span>
-                          </a>
-                          <a
-                            href={googleMapsSearch(`${place.latitude},${place.longitude}`)}
-                            aria-label={`Google Maps for ${place.name}`}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                          >
-                            Google Maps <span aria-hidden="true">↗</span>
-                          </a>
+                          <PlaceDirections place={place} />
                         </div>
                       </li>
                     ))}

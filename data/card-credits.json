@@ -4304,5 +4304,65 @@
       "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. Photographed 2024-06-17."
     },
     "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "sinsun-seafood-in-busan-yeongdo-2026": {
+    "src": "/images/cards/sinsun-seafood-in-busan-yeongdo-2026.jpg",
+    "fingerprint": "36209bbccda1573e1955e12735445dfd02dcb8407205351be81395b3c17240fe",
+    "sourceImage": "/images/editorial/archive-yeongdo-huinnyeoul-coast-2019-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Choi2451",
+      "title": "Huinnyeoul culture village, Busan on October 25th, 2019.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huinnyeoul_culture_village,_Busan_on_October_25th,_2019.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "bicycle-rental-systems-seoul-busan-jeju": {
+    "src": "/images/cards/bicycle-rental-systems-seoul-busan-jeju.jpg",
+    "fingerprint": "2cc8627931c66f34e3a138bef5f9327e7742bc1151e165ceac3f9f5195b75911",
+    "sourceImage": "/images/editorial/archive-seoul-bike-in-dock-2019-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "*Youngjin",
+      "title": "Seoul bike 19991.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_bike_19991.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "seoul-street-food-prices-2026": {
+    "src": "/images/cards/seoul-street-food-prices-2026.jpg",
+    "fingerprint": "c26f6d73fb4a02855c57e5e76ce82f38f54cdcec4945624d54db743843da76e6",
+    "sourceImage": "/images/editorial/archive-gwangjang-market-main-entrance-2015-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "Jocelyndurrey",
+      "title": "Gwangjangmarket mainentrance.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangjangmarket_mainentrance.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
+  },
+  "ordering-food-traditional-markets-papago-2026": {
+    "src": "/images/cards/ordering-food-traditional-markets-papago-2026.jpg",
+    "fingerprint": "5f824a23aa5bd225dcb81fd10b36a01fe7d37ed855ee8e484d4aca88a2ad83a1",
+    "sourceImage": "/images/editorial/archive-namdaemun-market-gate-five-2010-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "author": "CaliforniaAliBaba",
+      "title": "Namdaemun Market Gate 5.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namdaemun_Market_Gate_5.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

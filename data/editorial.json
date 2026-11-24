@@ -27565,5 +27565,349 @@
     "cardImageLabel": "Seongsan-ri at blue hour",
     "experienceVersion": 2,
     "gallery": []
+  },
+  "sinsun-seafood-in-busan-yeongdo-2026": {
+    "id": "guide:sinsun-seafood-in-busan-yeongdo-2026",
+    "categoryId": "food-dining",
+    "format": "place",
+    "checkedAt": "2026-11-24",
+    "answer": "Head to Jungni for the haenyeo exhibition hall and its separately listed dining space. See the coast from Huinnyeoul if your priority is a short walk. Check dining and path conditions independently before trying to do both.",
+    "forWhom": "Visitors choosing a seafood lunch or an easy-to-adjust coast outing on Yeongdo",
+    "conditions": [
+      "The hall and dining entry have separate addresses and hours.",
+      "The coastal route includes stairs and exposed sections."
+    ],
+    "regions": [
+      "busan"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "seafood",
+      "coastal walks",
+      "markets"
+    ],
+    "relations": [
+      {
+        "slug": "busan-modern-contemporary-history-museum-visit",
+        "type": "alternative",
+        "label": "Take a weather fallback",
+        "reason": "Use the indoor museum near Nampo if the exposed coast is a poor fit."
+      },
+      {
+        "slug": "busan-station-to-nampo-muslim-friendly-dining",
+        "type": "alternative",
+        "label": "Check dining constraints near Nampo",
+        "reason": "Switch to a route with more useful ways to check dining requirements."
+      },
+      {
+        "slug": "busan-museum-un-memorial-cemetery-respectful-half-day",
+        "type": "next",
+        "label": "Plan a separate museum outing",
+        "reason": "Use this half day in Daeyeon rather than combining it with the Yeongdo shore."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "visit-busan-yeongdo-haenyeo",
+        "title": "Visit Busan: Yeongdo Haenyeo Cultural Exhibition Hall",
+        "url": "https://www.visitbusan.net/index.do?lang_cd=ko&menuCd=DOM_000000201001001000&uc_seq=1882",
+        "note": "Separate exhibition and food listings, addresses, published hours and bus access.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "busan-yeongdo-coast-route",
+        "title": "Busan Metropolitan City: Galmaetgil Route 6",
+        "url": "https://www.busan.go.kr/galmaetgil_eng/trip0206",
+        "note": "Official route between Huinnyeoul, the shore path and Jungni.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Jungni’s hall and dining listing have separate street numbers and operating hours.",
+      "Check paths, restaurants and the return bus separately."
+    ],
+    "launchOrder": 1296,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-yeongdo-huinnyeoul-coast-2019",
+    "heroCaption": "The coastal lane at Huinnyeoul Culture Village in October 2019. The haenyeo hall is farther along the island, in Jungni.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Choi2451",
+      "title": "Huinnyeoul culture village, Busan on October 25th, 2019.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Huinnyeoul_culture_village,_Busan_on_October_25th,_2019.jpg",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Huinnyeoul Culture Village coast",
+    "cardImageCrop": "contain"
+  },
+  "bicycle-rental-systems-seoul-busan-jeju": {
+    "id": "guide:bicycle-rental-systems-seoul-busan-jeju",
+    "categoryId": "places-itineraries",
+    "format": "decision",
+    "checkedAt": "2026-11-24",
+    "answer": "Use a Seoul Bike day ticket for a short ride between docks. In Busan, confirm the district counter before traveling there. For Jeju, agree a pickup, return and turnaround with a rental operator before committing to the route.",
+    "forWhom": "Travelers who want a short cycling outing with a clear return plan",
+    "conditions": [
+      "A public route does not tell you whether an operator has bikes available.",
+      "Confirm returning hours, bike fit and visitor ID before paying."
+    ],
+    "regions": [
+      "seoul",
+      "busan",
+      "jeju"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "cycling",
+      "coastal walks"
+    ],
+    "relations": [
+      {
+        "slug": "coastal-bike-routes-scenic-seaside-cycling",
+        "type": "next",
+        "label": "Choose a coastal ride",
+        "reason": "Compare short ride segments and work out where you can turn back."
+      },
+      {
+        "slug": "jeju-island-complete-travel-guide-best-time-to-visit-2026",
+        "type": "prepare",
+        "label": "Choose a Jeju base",
+        "reason": "Leave room for a short ride and a weather substitute in the overall trip."
+      },
+      {
+        "slug": "t-money-for-taxis-and-bikes-2026",
+        "type": "prepare",
+        "label": "Check Seoul Bike payment",
+        "reason": "See which purchases are separate before relying on a transit card for the ride."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "seoul-bike-for-visitors",
+        "title": "Seoul Metropolitan Government: Seoul Bike instructions for visitors",
+        "url": "https://english.seoul.go.kr/seoul-bike-instructions-and-chatbot-service-for-international-tourists/",
+        "note": "English instructions and support.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "seoul-topis-bike",
+        "title": "Seoul TOPIS: public bicycle tickets and returns",
+        "url": "https://topis.seoul.go.kr/openEngBicycle.do",
+        "note": "Ticket duration and excess-time conditions.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "busan-district-bike-rentals",
+        "title": "Busan Metropolitan City: public bike rental counters",
+        "url": "https://www.busan.go.kr/depart/ahbicycle04",
+        "note": "District sites, schedules and phone contacts.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-jeju-fantasy-bike-path",
+        "title": "Visit Jeju: Fantasy Bicycle Path",
+        "url": "https://www.visitjeju.net/en/themtour/view?contentsid=CNTS_300000000013850&menuId=DOM_200000000011166",
+        "note": "Route overview and sections; no rental availability.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Confirm how your operator records a successful return before riding.",
+      "Pick a short Jeju segment and agree a pickup and return before booking."
+    ],
+    "launchOrder": 1297,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-seoul-bike-in-dock-2019",
+    "heroCaption": "A Seoul Bike at a docking station in June 2019. Follow the current app instructions for unlocking and returning your bike.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "*Youngjin",
+      "title": "Seoul bike 19991.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Seoul_bike_19991.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Seoul Bike parked at a station",
+    "cardImageCrop": "contain"
+  },
+  "seoul-street-food-prices-2026": {
+    "id": "guide:seoul-street-food-prices-2026",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Check whether the posted price is per piece, portion or set. Point to the item, confirm how many you want, then ask for the total and accepted payment before the vendor starts.",
+    "forWhom": "Visitors budgeting for snacks at a Seoul market or street stall",
+    "conditions": [
+      "Prices and payment vary by stall.",
+      "The arithmetic example is hypothetical."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "markets",
+      "street food",
+      "menus"
+    ],
+    "relations": [
+      {
+        "slug": "ordering-food-traditional-markets-papago-2026",
+        "type": "next",
+        "label": "Read the board with Papago",
+        "reason": "Use image translation for the menu, then verify the order with the vendor."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "nearby",
+        "label": "Pair the market with indoor stops",
+        "reason": "Use a covered market and nearby indoor stops if rain changes your Seoul day."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "gwangjang-market",
+      "namdaemun"
+    ],
+    "sources": [
+      {
+        "id": "visit-seoul-gwangjang",
+        "title": "Visit Seoul: Gwangjang Market",
+        "url": "https://english.visitseoul.net/Tourist-Attractions-list1/Gwangjang-Market/ENP000286",
+        "note": "Address, nearest metro entrance and market hours by section.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-namdaemun",
+        "title": "Visit Seoul: Namdaemun Market",
+        "url": "https://english.visitseoul.net/attractions/Namdaemun-Market/ENP000085",
+        "note": "Location and variable hours by seller.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Compare the same units: one piece, a portion or a set.",
+      "Ask the total and check how to pay before ordering."
+    ],
+    "launchOrder": 1298,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-gwangjang-market-main-entrance-2015",
+    "heroCaption": "A Gwangjang Market entrance in April 2015. Check the current portion and price at the stall before you order.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "Jocelyndurrey",
+      "title": "Gwangjangmarket mainentrance.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gwangjangmarket_mainentrance.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 4.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Gwangjang Market main entrance",
+    "cardImageCrop": "contain"
+  },
+  "ordering-food-traditional-markets-papago-2026": {
+    "id": "guide:ordering-food-traditional-markets-papago-2026",
+    "categoryId": "food-dining",
+    "format": "how-to",
+    "checkedAt": "2026-11-24",
+    "answer": "Use Papago image translation to read a menu. Keep the original Korean line visible, point to it, then ask what is in the serving and confirm the total with the vendor.",
+    "forWhom": "Travelers ordering from a paper or wall menu at a Korean market",
+    "conditions": [
+      "Image translation needs connectivity.",
+      "Confirm ingredients directly when you have a dietary requirement."
+    ],
+    "regions": [
+      "seoul"
+    ],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "markets",
+      "street food",
+      "menus",
+      "translation"
+    ],
+    "relations": [
+      {
+        "slug": "seoul-street-food-prices-2026",
+        "type": "next",
+        "label": "Confirm the portion price",
+        "reason": "Compare prices by piece, serving or set before you order."
+      },
+      {
+        "slug": "seoul-rainy-day-itinerary-built-around-museums-markets-and-covered-streets",
+        "type": "nearby",
+        "label": "Plan a market stop in Seoul",
+        "reason": "Combine market food with nearby indoor stops if the weather changes."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "namdaemun"
+    ],
+    "sources": [
+      {
+        "id": "naver-papago-camera",
+        "title": "Naver Papago Help: image translation",
+        "url": "https://help.naver.com/service/16448/contents/5973?lang=ko&osType=MOBILE",
+        "note": "How to photograph or import text for image translation in the mobile app.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "naver-papago-offline",
+        "title": "Naver Papago Help: offline translation",
+        "url": "https://help.naver.com/service/16448/contents/25501?lang=en",
+        "note": "Offline language packs and connectivity limits.",
+        "checkedAt": "2026-11-24"
+      },
+      {
+        "id": "visit-seoul-namdaemun-info",
+        "title": "Visit Seoul: Namdaemun Market Tourist Information Center",
+        "url": "https://english.visitseoul.net/area/Namdaemun-Market-Tourist-Information-Center/ENP027219",
+        "note": "Tourist information desk access, supported languages and services.",
+        "checkedAt": "2026-11-24"
+      }
+    ],
+    "shareFacts": [
+      "Point to the original Korean menu line and confirm the serving and total.",
+      "Keep essential phrases in a screenshot for a poor connection."
+    ],
+    "launchOrder": 1299,
+    "changeType": "rewrite",
+    "heroMediaId": "archive-namdaemun-market-gate-five-2010",
+    "heroCaption": "Namdaemun Market Gate 5 in June 2010. The number refers to the market gate, separate from the numbered exits at Hoehyeon subway station.",
+    "imageCredit": {
+      "kind": "photograph",
+      "author": "CaliforniaAliBaba",
+      "title": "Namdaemun Market Gate 5.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Namdaemun_Market_Gate_5.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "note": "Resized and converted to WebP. Adaptations retain CC BY-SA 3.0. The photograph shows the scene at the time of capture."
+    },
+    "cardImageLabel": "Namdaemun Market Gate 5",
+    "cardImageCrop": "contain"
   }
 }
