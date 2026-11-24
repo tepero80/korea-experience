@@ -4,6 +4,7 @@ import { getAllPosts, getPostBySlug } from '../lib/posts';
 import mediaData from '../data/media.json';
 import destinationReviews from '../data/destination-guide-photos.json';
 import type { EditorialMedia } from '../lib/media';
+import { generatedArchiveCoverHash, mediaForSource } from '../lib/media';
 const registry = mediaData as EditorialMedia[];
 const errors: string[] = [];
 const byId = new Map<string, EditorialMedia>();
@@ -52,6 +53,13 @@ for (const p of posts)
     heroOwners.set(identity, p.slug);
   }
 for (const p of posts) {
+  const generatedHash = generatedArchiveCoverHash(p.slug, p.image);
+  if (generatedHash && p.image && fs.existsSync('public' + p.image)) {
+    const bytes = fs.readFileSync('public' + p.image);
+    const blob = crypto.createHash('sha1').update(`blob ${bytes.length}\0`).update(bytes).digest('hex');
+    if (blob !== generatedHash || mediaForSource(p.image)?.credit.kind === 'photograph')
+      errors.push(`Review conflicting archive illustration evidence ${p.slug}`);
+  }
   for (const match of p.content.matchAll(/<GuidePhoto\s+id="([^"]+)"/g)) {
     if (!byId.has(match[1])) errors.push(`Unknown body image ${p.slug}: ${match[1]}`);
     if (match[1] === p.editorial?.heroMediaId)

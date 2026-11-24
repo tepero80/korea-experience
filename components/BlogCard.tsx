@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import type { PostMetadata } from '@/lib/posts';
 import Icon from './site/Icon';
-import { mediaFor } from '@/lib/media';
+import { generatedArchiveCoverHash, mediaFor } from '@/lib/media';
 export default function BlogCard({
   post,
   priority = false,
@@ -11,6 +11,7 @@ export default function BlogCard({
   priority?: boolean;
 }) {
   const media = mediaFor(post.editorial?.heroMediaId);
+  const generatedArchiveCover = Boolean(generatedArchiveCoverHash(post.slug, post.image));
   return (
     <Link href={`/blog/${post.slug}`} className="guide-card">
       {post.image ? (
@@ -29,6 +30,9 @@ export default function BlogCard({
             loading={priority ? 'eager' : 'lazy'}
             decoding="async"
           />
+          {generatedArchiveCover ? (
+            <span className="guide-card-image-label">AI-generated illustration</span>
+          ) : null}
         </div>
       ) : (
         <div className="guide-card-noimage" aria-hidden="true">

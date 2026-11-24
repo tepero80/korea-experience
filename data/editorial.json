@@ -5329,6 +5329,7 @@
       "Check current airline instructions and your individual itinerary."
     ],
     "regions": [
+      "incheon",
       "seoul"
     ],
     "stages": [
@@ -5351,6 +5352,12 @@
         "type": "next",
         "label": "Your next decision",
         "reason": "Choose a bus or train only after checking the terminal for your specific flight."
+      },
+      {
+        "slug": "incheon-separate-ticket-connections",
+        "type": "next",
+        "label": "Check your separate-ticket transfer",
+        "reason": "Once you know each terminal, ask the airlines whether you must enter Korea to collect and recheck your bags."
       }
     ],
     "tools": [
@@ -6668,7 +6675,9 @@
       "Flight status and transport can change separately.",
       "Rights and assistance depend on applicable rules and the itinerary."
     ],
-    "regions": [],
+    "regions": [
+      "incheon"
+    ],
     "stages": [
       "before-you-go",
       "arrival"
@@ -6718,18 +6727,19 @@
     "launchOrder": 1020,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Incheon Winter Flight Disruptions: What to Check Before Leaving decision steps",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#transport-incheon-winter-flight-check-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original editorial diagram; not an operator display or live status."
+      "kind": "photograph",
+      "author": "Simply Aviation",
+      "title": "17-DEC-2022 - TW293 ICN-FUK (B737-800 - HL8294) (01).jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:17-DEC-2022_-_TW293_ICN-FUK_(B737-800_-_HL8294)_(01).jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
     },
-    "heroMediaId": "transport-incheon-winter-flight-check-illustration",
-    "heroCaption": "Original planning diagram; check current service and conditions.",
+    "heroMediaId": "archive-incheon-winter-apron-2022",
+    "heroCaption": "An aircraft at an Incheon Airport gate on December 17, 2022. Check the operating airline and the airport’s current notices for your own flight.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "cardImageLabel": "Incheon airport apron in winter"
   },
   "unhyeongung-anguk-traditional-house-visit": {
     "id": "culture-unhyeongung-anguk",
@@ -7109,7 +7119,9 @@
       "A boarding pass or through-checked bag alone does not guarantee an airside transfer.",
       "Entry eligibility and airline protection depend on the actual itinerary."
     ],
-    "regions": [],
+    "regions": [
+      "incheon"
+    ],
     "stages": [
       "before-you-go",
       "arrival"
@@ -7159,18 +7171,19 @@
     "launchOrder": 1026,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Incheon separate-ticket connection decisions",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#transport-incheon-separate-connections-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original decision diagram; not an official airport map or entry authorization."
+      "kind": "photograph",
+      "author": "Narubaru7",
+      "title": "인천공항T1 입출국안내판 2024.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT1_%EC%9E%85%EC%B6%9C%EA%B5%AD%EC%95%88%EB%82%B4%ED%8C%90_2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
     },
-    "heroMediaId": "transport-incheon-separate-connections-illustration",
-    "heroCaption": "Original planning diagram; confirm your specific route with the airlines.",
+    "heroMediaId": "archive-incheon-t1-departures-arrivals-display-2024",
+    "heroCaption": "The Terminal 1 departures and arrivals board in October 2024. Confirm airside access, bags and check-in with the airlines handling your tickets.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "cardImageLabel": "Incheon Terminal 1 flight board"
   },
   "daejeon-national-science-museum-family-visit": {
     "id": "places-daejeon-science-family",
@@ -7259,7 +7272,9 @@
       "A duty-free area has different contacts for personal belongings and newly purchased goods.",
       "Storage periods and collection conditions vary by item."
     ],
-    "regions": [],
+    "regions": [
+      "incheon"
+    ],
     "stages": [
       "arrival",
       "departure"
@@ -7301,18 +7316,19 @@
     "launchOrder": 1028,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Incheon lost property first contacts",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#airport-incheon-lost-item-illustration",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "note": "Original decision diagram based on Incheon Airport guidance; not an official airport notice."
+      "kind": "photograph",
+      "author": "Narubaru7",
+      "title": "인천공항T2 헬프데스크 2024.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT2_%ED%97%AC%ED%94%84%EB%8D%B0%EC%8A%A4%ED%81%AC_2024.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Cropped, resized and converted to WebP. The photograph shows the scene at the time of capture."
     },
-    "heroMediaId": "airport-incheon-lost-item-illustration",
-    "heroCaption": "Original decision guide based on airport guidance; verify current contacts.",
+    "heroMediaId": "archive-incheon-t2-help-counter-2024",
+    "heroCaption": "Service counters in Incheon Terminal 2, photographed in October 2024. Use the contact table below to find the office for the place you lost the item.",
     "gallery": [],
-    "experienceVersion": 2
+    "experienceVersion": 2,
+    "cardImageLabel": "Incheon Terminal 2 service counters"
   },
   "gwangju-national-museum-children-visit": {
     "id": "culture-gwangju-museum-family",
@@ -9346,6 +9362,7 @@
       "Meeting times, delivery windows, permitted bags and other booking requirements may change."
     ],
     "regions": [
+      "incheon",
       "seoul"
     ],
     "stages": [
@@ -9411,18 +9428,17 @@
     "launchOrder": 1112,
     "changeType": "new",
     "imageCredit": {
-      "kind": "illustration",
-      "title": "Incheon arrival baggage-delivery sequence",
-      "author": "Korea Experience Editorial",
-      "sourceUrl": "https://koreaexperience.com/image-credits#incheon-accessible-baggage-delivery",
-      "license": "All rights reserved",
-      "licenseUrl": "https://koreaexperience.com/terms",
-      "sha256": "EF63A793D703A822CB085CDDBF9C13B507C208EDC70C25D7D369820AD3A728CA",
-      "note": "Original in-repository SVG; no third-party assets. Workflow illustration, not a live airport map or service guarantee."
+      "kind": "photograph",
+      "author": "Narubaru7",
+      "title": "인천공항T1 입국장.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:%EC%9D%B8%EC%B2%9C%EA%B3%B5%ED%95%ADT1_%EC%9E%85%EA%B5%AD%EC%9E%A5.jpg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "note": "Resized and converted to WebP. The photograph shows the scene at the time of capture."
     },
-    "heroMediaId": "incheon-accessible-baggage-delivery",
-    "heroCaption": "Illustrative workflow only; confirm booking eligibility, handoff and delivery timing with the operator.",
-    "cardImageLabel": "Baggage delivery illustration",
+    "heroMediaId": "archive-incheon-t1-public-arrivals-hall-2024",
+    "heroCaption": "Incheon Terminal 1 arrivals in October 2024. Check the delivery provider’s handoff point and step-free route before booking.",
+    "cardImageLabel": "Incheon Terminal 1 arrivals hall",
     "experienceVersion": 2
   },
   "bringing-personal-medication-into-korea-traveler-guide": {

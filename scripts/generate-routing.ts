@@ -2,13 +2,14 @@ import fs from 'node:fs';
 import { getAllPosts } from '../lib/posts';
 import { ALL_TOOLS } from '../lib/constants';
 import { RETIREMENTS } from '../lib/editorial';
+import { guidePreviewImage } from '../lib/seo';
 import legacy from '../data/legacy-og-slugs.json';
 const posts = getAllPosts();
 const redirects = posts
   .filter((p) => legacy.includes(p.slug))
   .map(
     (p) =>
-      `/blog/${p.slug}/opengraph-image ${p.reviewed ? '/images/cards/' + p.slug + '.jpg' : p.image || '/images/cards/korea-experience.jpg'} 301`,
+      `/blog/${p.slug}/opengraph-image ${guidePreviewImage(p)} 301`,
   );
 for (const t of ALL_TOOLS)
   redirects.push(`${t.href}/opengraph-image /images/cards/korea-experience.jpg 301`);

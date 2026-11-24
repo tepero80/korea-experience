@@ -20,7 +20,23 @@ import {
 } from '../lib/tool-share';
 import { compileGuideContent } from '../components/MDXContent';
 import { PLACES, placesFor } from '../lib/editorial';
-import { getRelatedPosts } from '../lib/posts';
+import { getPostBySlug, getRelatedPosts } from '../lib/posts';
+import { generatedArchiveCoverHash } from '../lib/media';
+import { guidePreviewImage, guideSchema } from '../lib/seo';
+
+test('identified archive illustrations are not used as article preview photographs', () => {
+  const slug = '24-hours-in-seongsu-dong-luxury-dior-pop-up-vs-5-market-food-a-dualism-route';
+  const archive = getPostBySlug(slug)!;
+  assert.ok(generatedArchiveCoverHash(archive.slug, archive.image));
+  assert.equal(guidePreviewImage(archive), '/images/cards/korea-experience.jpg');
+  assert.equal(guideSchema(archive).image, undefined);
+
+  const verified = getPostBySlug('incheon-winter-flight-disruption-checklist')!;
+  assert.equal(generatedArchiveCoverHash(verified.slug, verified.image), undefined);
+  assert.equal(guidePreviewImage(verified), `/images/cards/${verified.slug}.jpg`);
+  assert.ok(guideSchema(verified).image?.endsWith(verified.image!));
+  assert.equal(generatedArchiveCoverHash(slug, verified.image), undefined);
+});
 
 test('automatic next steps do not jump between unrelated destination guides', () => {
   const related = getRelatedPosts('namhae-sangju-silver-sand-beach-walk');
@@ -46,6 +62,13 @@ test('automatic recommendations need a specific shared interest', () => {
   const water = getRelatedPosts('finding-seoul-outdoor-drinking-water-fountains-arisu-map');
   assert.equal(water[0]?.slug, 'finding-public-restrooms-in-korea-station-mall-and-accessible-facilities');
   assert.ok(!water.some((post) => post.slug === '24-hour-english-pharmacies-in-seoul-2026'));
+});
+
+test('separate-ticket transfer guidance follows an Incheon terminal check', () => {
+  const slug = 'incheon-separate-ticket-connections';
+  assert.ok(getRelatedPosts('incheon-terminal-flight-check').some((post) => post.slug === slug));
+  assert.ok(!getRelatedPosts('dongdaegu-station-to-central-daegu').some((post) => post.slug === slug));
+  assert.ok(!getRelatedPosts('yeosu-expo-station-to-odongdo').some((post) => post.slug === slug));
 });
 
 test('guide maps keep itinerary order while ignoring unavailable and repeated places', () => {

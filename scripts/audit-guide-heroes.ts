@@ -3,7 +3,7 @@ import fs from 'node:fs/promises';
 import path from 'node:path';
 import sharp, { type OverlayOptions } from 'sharp';
 import { getDestinations } from '../lib/destinations';
-import { mediaFor, mediaForSource } from '../lib/media';
+import { generatedArchiveCoverHash, mediaFor, mediaForSource } from '../lib/media';
 import { getAllPosts, type PostMetadata } from '../lib/posts';
 
 const publicRoot = path.resolve('public');
@@ -78,8 +78,21 @@ async function thumbnail(post: PostMetadata) {
       .jpeg({ quality: 83 })
       .toBuffer();
     const hash = createHash('sha256').update(file).digest('hex');
+    const originalBlob = generatedArchiveCoverHash(post.slug, post.image);
+    const generated = Boolean(originalBlob &&
+      createHash('sha1').update(`blob ${file.length}\0`).update(file).digest('hex') === originalBlob);
     const fingerprints = await Promise.all([differenceHash(file, 'fill'), differenceHash(file, 'cover')]);
-    return { data: { ...base, dimensions: [width, height], hash, fingerprints, decode: 'passed' }, tile };
+    return {
+      data: {
+        ...base,
+        ...(generated ? { kind: 'generated-illustration', recordedProvenance: true } : {}),
+        dimensions: [width, height],
+        hash,
+        fingerprints,
+        decode: 'passed',
+      },
+      tile,
+    };
   } catch (error) {
     return { data: { ...base, decode: 'failed', error: String(error) }, tile: undefined };
   }
@@ -196,7 +209,7 @@ async function main() {
         at: new Date().toISOString(),
         counts,
         scope:
-          'Published article hero assets from the current source inventory. Decoding and recorded provenance checks are automated. Contact sheets display complete assets. Reviewer scores, authenticity, rights and actual page crops require separate editorial evidence.',
+          'Published article hero assets from the current source inventory. Decoding and recorded provenance checks are automated. A matching archived blob identifies a generated illustration. Contact sheets display complete assets. Reviewer scores, photo authenticity, rights and actual page crops require separate editorial evidence.',
         items,
       },
       null,

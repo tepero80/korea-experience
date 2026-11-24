@@ -1,5 +1,6 @@
 import type { Metadata } from 'next';
 import { GUIDE_FEED_TYPES, SITE_CONFIG } from './constants';
+import { generatedArchiveCoverHash } from './media';
 import type { PostMetadata } from './posts';
 import { toolPreviewImage, type ToolPreview } from './tool-preview';
 
@@ -50,11 +51,17 @@ export function toolMetadata(tool: ToolPreview): Metadata {
 export function jsonLd(value: unknown) {
   return JSON.stringify(value).replace(/</g, '\\u003c');
 }
+
+export function guidePreviewImage(post: PostMetadata) {
+  if (post.reviewed) return `/images/cards/${post.slug}.jpg`;
+  if (generatedArchiveCoverHash(post.slug, post.image)) return '/images/cards/korea-experience.jpg';
+  return post.image || '/images/cards/korea-experience.jpg';
+}
+
 export function guideMetadata(post: PostMetadata): Metadata {
   const canonical = `${SITE_CONFIG.url}/blog/${post.slug}`;
-  const image = post.reviewed
-    ? `/images/cards/${post.slug}.jpg`
-    : post.image || '/images/cards/korea-experience.jpg';
+  const image = guidePreviewImage(post);
+  const siteCard = image === '/images/cards/korea-experience.jpg';
   return {
     title: { absolute: post.title },
     description: post.excerpt,
@@ -70,7 +77,11 @@ export function guideMetadata(post: PostMetadata): Metadata {
       publishedTime: post.publicationStatus === 'verified-release' ? post.date : undefined,
       modifiedTime: post.updated,
       images: [
-        { url: image, alt: post.title, ...(post.reviewed ? { width: 1200, height: 630 } : {}) },
+        {
+          url: image,
+          alt: siteCard ? SITE_CONFIG.name : post.title,
+          ...(post.reviewed || siteCard ? { width: 1200, height: 630 } : {}),
+        },
       ],
     },
     twitter: {
@@ -104,7 +115,8 @@ export function guideSchema(post: PostMetadata) {
       url: SITE_CONFIG.url,
     },
     mainEntityOfPage: `${SITE_CONFIG.url}/blog/${post.slug}`,
-    image: post.image ? `${SITE_CONFIG.url}${post.image}` : undefined,
+    image: post.image && !generatedArchiveCoverHash(post.slug, post.image)
+      ? `${SITE_CONFIG.url}${post.image}` : undefined,
     citation: post.editorial?.sources.map((s) => s.url),
   };
 }

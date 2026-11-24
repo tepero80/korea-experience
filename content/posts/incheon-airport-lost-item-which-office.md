@@ -4,7 +4,7 @@ date: '2026-11-09'
 updated: '2026-11-09'
 excerpt: "Choose the right first contact for an item lost at Incheon Airport and prepare for collection."
 category: airports-transport
-image: /images/editorial/airport-incheon-lost-item-illustration.svg
+image: /images/editorial/archive-incheon-t2-help-counter-2024-1280.webp
 author: Korea Experience Editorial
 tags:
   - airport

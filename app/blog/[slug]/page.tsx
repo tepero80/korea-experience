@@ -16,7 +16,7 @@ import GuideCommunity from '@/components/site/GuideCommunity';
 import GuideSignals from '@/components/site/GuideSignals';
 import DiscoveryLink from '@/components/site/DiscoveryLink';
 import Icon from '@/components/site/Icon';
-import { mediaFor, mediaForSource } from '@/lib/media';
+import { generatedArchiveCoverHash, mediaFor, mediaForSource } from '@/lib/media';
 import { getDestinations } from '@/lib/destinations';
 import { isInRegion } from '@/lib/regions';
 import { googleMapsSearch } from '@/lib/google-maps';
@@ -44,6 +44,7 @@ export default async function Guide({ params }: { params: Params }) {
   const e = post.editorial;
   const compiled = await compileGuideContent(post.content);
   const hero = mediaFor(e?.heroMediaId) || mediaForSource(post.image);
+  const generatedArchiveCover = Boolean(generatedArchiveCoverHash(post.slug, post.image));
   const heroCaption = e?.heroCaption ?? hero?.caption;
   const related = getRelatedPosts(post.slug, 3);
   const places = placesFor(e?.placeIds || []);
@@ -214,7 +215,9 @@ export default async function Guide({ params }: { params: Params }) {
                       objectFit: hero ? 'contain' : 'cover',
                     }}
                     alt={
-                      hero?.alt || e?.imageCredit?.title || `${post.title} — illustrative archive cover`
+                      generatedArchiveCover
+                        ? `AI-generated illustration for ${post.title}`
+                        : hero?.alt || e?.imageCredit?.title || `${post.title} — illustrative archive cover`
                     }
                     width={hero?.width || 1280}
                     height={hero?.height || 720}
@@ -223,7 +226,12 @@ export default async function Guide({ params }: { params: Params }) {
                   <figcaption>
                     {heroCaption ? <p className="hero-caption">{heroCaption}</p> : null}
                     <PhotoCredit credit={e?.imageCredit || hero?.credit} />
-                    {!e?.imageCredit && !hero?.credit ? (
+                    {generatedArchiveCover ? (
+                      <p className="photo-credit">
+                        AI-generated archive illustration. Use current visitor information to
+                        identify places and access points.
+                      </p>
+                    ) : !e?.imageCredit && !hero?.credit ? (
                       <p className="photo-credit">
                         Archive cover: its origin and accuracy as a real view of this place have not
                         been verified.

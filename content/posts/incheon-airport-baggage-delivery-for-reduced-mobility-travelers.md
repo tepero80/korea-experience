@@ -11,7 +11,7 @@ tags:
   - airport
   - accessibility
   - seoul
-image: /images/editorial/incheon-accessible-baggage-delivery.svg
+image: /images/editorial/archive-incheon-t1-public-arrivals-hall-2024-1280.webp
 draft: false
 ---
 
@@ -32,6 +32,8 @@ Before paying, use the live booking flow to confirm:
 - what happens if the flight is delayed or a bag does not arrive.
 
 The airport’s public summary does not give a current price or every baggage condition. Goodlugg’s [current service page](https://www.goodlugg.com/bf/disabled?language=en) provides operational details, but terms can change. Confirm the final offer directly rather than relying on an old search result or booking screenshot.
+
+<GuidePhoto id="incheon-accessible-baggage-delivery" caption="A planning illustration for confirming the delivery booking, the handoff and the final drop-off." />
 
 ## How the handoff works
 

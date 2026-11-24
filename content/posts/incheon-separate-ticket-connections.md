@@ -4,7 +4,7 @@ date: '2026-11-09'
 updated: '2026-11-09'
 excerpt: "Check baggage, boarding passes and entry conditions for separate international tickets through Incheon."
 category: airports-transport
-image: /images/editorial/transport-incheon-separate-connections-illustration.svg
+image: /images/editorial/archive-incheon-t1-departures-arrivals-display-2024-1280.webp
 author: Korea Experience Editorial
 tags:
   - airport
@@ -23,6 +23,8 @@ This checklist is for international connections, particularly separately booked 
 - **Delay:** Check written terms and applicable rights with the airline or seller; do not assume a separately booked onward flight is protected.
 
 Having answers to the baggage and boarding-pass questions does not by itself guarantee access to an airside route. Ask the carriers and the airport about your exact flights, documents, terminal and transfer requirements.
+
+<GuidePhoto id="transport-incheon-separate-connections-illustration" caption="Use this decision diagram to distinguish a confirmed airside connection from a connection that requires entry and recheck." />
 
 ## Path A: the airline confirms an airside transfer
 

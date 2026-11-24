@@ -4,7 +4,7 @@ date: '2026-11-09'
 updated: '2026-11-09'
 excerpt: "Check the airline, airport, transport and rebooking options when winter weather affects your trip."
 category: airports-transport
-image: /images/editorial/transport-incheon-winter-flight-check-illustration.svg
+image: /images/editorial/archive-incheon-winter-apron-2022-1280.webp
 author: Korea Experience Editorial
 tags:
   - airport
