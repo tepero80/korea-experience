@@ -17,6 +17,8 @@ image: /images/editorial/archive-seoul-book-bogo-exterior-2019-1280.webp
 
 If you have a separate day, [compare a Suwon filming walk, a Gangneung coast stop and a ticketed Yongin visit](/blog/k-drama-filming-locations-you-can-actually-visit).
 
+If you have space for more than filming sites, [choose a Korean Wave stop around film, a performance or food](/blog/hallyu-4-0-what-next-for-the-global-korean-wave-2026).
+
 ## Songpa · Seoul Book Bogo for Hotel del Luna
 
 [Visit Seoul's scene guide](https://english.visitseoul.net/hallyu/Retro-Seoul-in-Hotel-del-Luna/31701) identifies the book venue used in episode 2. [Seoul City](https://mediahub.seoul.go.kr/archives/2019405) gives the address and Line 2 Jamsillaru approach. [VISITKOREA](https://english.visitkorea.or.kr/svc/sp/HallyuNew/contentsView.do?dataSetId=76&vcontsId=230934) records its 2025 reopening after renovations. Treat the historic reference as a way to identify the location. Check today's program and hours before leaving, and follow signs about photos inside.

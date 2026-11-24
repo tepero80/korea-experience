@@ -26,6 +26,8 @@ Hangul groups letters into syllable blocks. For example, 한 groups ㅎ, ㅏ and
 
 Before you leave, look at a route screenshot and see whether you can pick out your station and exit. Then practice asking a partner one question and listening for one cue, such as a number, a direction or a repeat of the name. Keep your destination and address on the same screen as a backup you can show someone while keeping personal booking details out of view.
 
+If a conversation turns to MBTI letters, [learn what the question means and how to answer it](/blog/why-koreans-love-mbti-the-psychology-behind-the-trend-2026).
+
 ## If you want to study, choose a course for your level
 
 The government’s [Study in Korea language directory](https://www.studyinkorea.go.kr/en/plan/examAndKoreanStudy.do) lists King Sejong Institute Foundation options under Korean language study, including Online King Sejong Institute (온라인 세종학당). Follow the directory to the current course list. If you are still learning to read syllable blocks, look for the introductory Korean course that teaches Hangul. If you can already sound out simple signs, compare the beginner course’s sample unit or placement guidance before registering.

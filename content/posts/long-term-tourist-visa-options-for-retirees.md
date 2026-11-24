@@ -18,6 +18,8 @@ Use the [Korea Visa Portal](https://www.visa.go.kr/openPage.do?MENU_ID=10102&LAN
 | Costs | Delay nonrefundable housing or flights until the entry route and timing are clear. |
 | Changes | Ask which rules apply if you want to extend the visit or change plans. |
 
+If you already live and work in Korea and are approaching retirement, [check your status, health coverage and pension before payroll stops](/blog/retirement-planning-for-long-term-expats).
+
 ## Keep enough flexibility to leave on time
 
 After entry, keep a record of your permitted stay and conditions. If your plans change while in Korea, use the [Immigration Contact Center](https://www.immigration.go.kr/immigration_eng/1862/subview.do) for guidance before assuming a longer stay or new activities are allowed.

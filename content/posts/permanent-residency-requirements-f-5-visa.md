@@ -24,6 +24,8 @@ List your status periods and travel dates in order. For example, if you changed 
 
 Save the version or date of the route checklist you were given. Ask what originals and copies must be shown and in what format. If you need a foreign police certificate or another document issued abroad, confirm who must issue it, what translation or authentication is accepted and how recent it must be before ordering.
 
+If your long-term question is citizenship, [prepare a naturalization consultation](/blog/korean-citizenship-naturalization-process) with your stay and address timeline.
+
 ## Keep current permission and approval separate
 
 Confirm the filing office and what to do if your current authorization expires, you plan to travel or your circumstances change while your case is pending. Keep the submission receipt and use the office's instructions for any extension or follow-up. If the application is approved, ask about both your new status and your card. [Korea Immigration's stay administration guidance](https://www.immigration.go.kr/immigration/1515/subview.do) describes the separate permanent-resident card renewal system.

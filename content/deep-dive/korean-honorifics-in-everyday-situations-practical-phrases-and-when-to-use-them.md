@@ -10,6 +10,8 @@ deepDive: true
 
 When speaking to someone you do not know, start with a polite greeting and a request rather than trying to guess their age or status. The [National Institute of Korean Language’s phrase sheet](https://www.korean.go.kr/attachFile/edu/forein03.pdf) gives these useful starting points.
 
+If you hear both 우리 and 저희 at an introduction, [use the context to tell which group the speaker means](/blog/the-importance-of-uri-we-understanding-korean-collectivism-2026).
+
 ## Five phrases to keep handy
 
 | Phrase | When to use it |

@@ -17,6 +17,8 @@ author: Korea Experience Editorial
 
 If KoROAD says exchange is an option, use the [foreign licence exchange checklist](/blog/korean-driving-license-conversion-process) to prepare the authentication and supporting documents.
 
+Once you have chosen a car to own, [agree who will file the transfer and what the sale documents must show](/blog/buying-a-car-financing-and-registration).
+
 ## If you need a new Korean licence
 
 KoROAD lists **pre-test safety education**, a physical check and a written test before later driving tests. It lists English among the written-test languages. Depending on the class, its sequence can include a practical test, a learner’s permit and an on-road test. Ask the examination office which services it provides at that location and what to bring for the first appointment.

@@ -48719,5 +48719,443 @@
     "changeType": "rewrite",
     "launchOrder": 1672,
     "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "korean-citizenship-naturalization-process": {
+    "id": "guide:korean-citizenship-naturalization-process",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask the immigration office which legal route fits your circumstances before gathering certificates. General naturalization requires five continuous years of domicile and F-5 permanent-residence status. Bring a dated record of your addresses, statuses, and travel, plus relevant family information.",
+    "forWhom": "Foreign residents in Korea preparing for a first conversation about acquiring Korean nationality by naturalization.",
+    "conditions": [
+      "The general, simplified, and special routes have different statutory conditions. Confirm your route, applicable law, and required documents with the immigration office."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "residency",
+      "independent-move",
+      "immigration",
+      "paperwork"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w44-law-general-naturalization",
+        "title": "Korean Nationality Act, Articles 5–7",
+        "url": "https://law.go.kr/lsLinkCommonInfo.do?lsJoLnkSeq=1016665855",
+        "note": "General naturalization requires continuous domicile and a permanent-residence status, with separate conditions for simplified and special naturalization.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-immigration-permanent-residence-status",
+        "title": "Korea Immigration Service, administration of stay status",
+        "url": "https://www.immigration.go.kr/immigration/1515/subview.do",
+        "note": "Korea Immigration Service identifies F-5 as permanent-residence status.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-law-naturalization-acquisition",
+        "title": "Korean Nationality Act, Article 4",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1030981759",
+        "note": "Naturalization approval is followed by oath and certificate steps for acquisition, subject to a statutory oath exemption.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-kis-immigration-contact",
+        "title": "Korea Immigration Service, 1345 contact center",
+        "url": "https://www.immigration.go.kr/moj/196/subview.do",
+        "note": "The 1345 contact center provides multilingual administrative and immigration guidance.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "For general naturalization, five continuous years of domicile and a permanent-residence status are separate statutory requirements."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1673,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "dealing-with-korean-bureaucracy-arc-to-taxes": {
+    "id": "guide:dealing-with-korean-bureaucracy-arc-to-taxes",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with the record that changed and the organization that holds it. A move or a passport replacement can require an immigration report, while payroll and tax records have their own contacts. Keep the acceptance receipt, then ask each provider that still shows the old details how to update its records.",
+    "forWhom": "Foreign residents in Korea dealing with an address, passport, job, or identity-record change.",
+    "conditions": [
+      "Reporting rules depend on the event and your registration category. Keep separate records for immigration, payroll, and commercial providers."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "moving",
+      "residency",
+      "paperwork",
+      "banking"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w44-kis-stay-application-types",
+        "title": "Korea Immigration Service, combined stay application and reporting form",
+        "url": "https://www.immigration.go.kr/bbs/immigration/209/561864/artclView.do",
+        "note": "Address reports, registered-details changes, and workplace authorization or reporting are distinct service categories.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-law-move-registered-foreigner",
+        "title": "Korean Immigration Act, Article 36",
+        "url": "https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1028069497",
+        "note": "A foreign resident registered under Article 31 must report a change of address within 15 days of moving in.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-law-overseas-korean-domestic-address",
+        "title": "Act on the Immigration and Legal Status of Overseas Koreans, Article 6",
+        "url": "https://law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1021410415",
+        "note": "A person moving a domestic residence reported under Article 6 must report within 14 days.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-kis-immigration-contact",
+        "title": "Korea Immigration Service, 1345 contact center",
+        "url": "https://www.immigration.go.kr/moj/196/subview.do",
+        "note": "The 1345 contact center provides multilingual administrative and immigration guidance.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-nts-foreign-worker-tax-help",
+        "title": "National Tax Service, guidance and help for foreign employees",
+        "url": "https://www.nts.go.kr/nts/na/ntt/selectNttInfo.do?mi=&nttSn=1347723",
+        "note": "The NTS distinguishes employer submission or collection of settlement materials and identifies English-language taxpayer help. The example in the notice concerns 2025 income.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Record the date and keep the acceptance receipt for each update you report after a move, passport, or job change."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1674,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "buying-a-car-financing-and-registration": {
+    "id": "guide:buying-a-car-financing-and-registration",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Before paying for a used car, confirm who will file the ownership transfer, what documents the registry needs, and when your compulsory insurance starts. The transfer application for a purchase is due within 15 days of buying the car. If you finance it, compare the total repayment alongside the price and registration charges.",
+    "forWhom": "Foreign residents buying an already registered used car in Korea.",
+    "conditions": [
+      "This checklist covers a purchase in Korea. Ask the registration office about your identification, address, filing method and any requirements for the exact vehicle."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "driving",
+      "transport",
+      "living",
+      "moving",
+      "budget"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w44-car365-transfer-checks",
+        "title": "Car365 ownership transfer instructions",
+        "url": "https://www.car365.go.kr/ccpt/cvlcpt/guid/detailGuidance.do?cvlcptCd=4",
+        "note": "Sale-specific forms, identity documents, compulsory insurance before online filing, and separate transfer charges.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-seoul-used-vehicle-transfer",
+        "title": "Seoul vehicle purchase and registration guide",
+        "url": "https://world.seoul.go.kr/service/movement/vehicle-purchase-insurance/",
+        "note": "Dealer filing and private-sale seller verification exceptions.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-car-sale-filing-deadline",
+        "title": "Vehicle Registration Decree, Article 26",
+        "url": "https://law.go.kr/lsLinkCommonInfo.do?lspttninfSeq=118237",
+        "note": "The 15-day ownership-transfer filing window for a sale.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-kotsa-inspection-by-vehicle",
+        "title": "Korea Transportation Safety Authority periodic inspections",
+        "url": "https://main.kotsa.or.kr/portal/contents.do?menuCode=01010200",
+        "note": "Inspection intervals differ by vehicle category and use.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "For a used-car purchase in Korea, confirm who files the transfer and apply within 15 days of buying it."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1675,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "retirement-planning-for-long-term-expats": {
+    "id": "guide:retirement-planning-for-long-term-expats",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Start with your expected last workday and the expiry date of each household member’s permission to stay. Ask immigration and NHIS what changes when your employment ends, then have the pension office check your contribution record and available options. Use the confirmed dates and costs to decide what you can commit to for housing.",
+    "forWhom": "Foreign residents in Korea planning to stop working while continuing to live in the country.",
+    "conditions": [
+      "Your next steps depend on your current status, work-end date, household, insurance and contribution history. Ask the responsible agency to confirm each person’s dates."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "residency",
+      "pension",
+      "insurance",
+      "housing",
+      "living"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w44-immigration-1345-resident-plan",
+        "title": "Korea Immigration Service contact centre",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Official 1345 line and multilingual consultation for immigration and stay questions.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-nhis-foreign-coverage",
+        "title": "National Health Insurance Service guidance for foreign residents",
+        "url": "https://www.nhis.or.kr/english/wbheaa02900m01.do",
+        "note": "Separate employee, local and dependent coverage categories.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-nps-agreement-benefits",
+        "title": "National Pension Service agreement overview",
+        "url": "https://www.nps.or.kr/eng/soclsecuagre/overview/getOHAI0024M0.do",
+        "note": "Agreement-specific effects on benefit eligibility and refunds.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-nps-foreign-pension-refund",
+        "title": "National Pension Service foreign-resident refund guidance",
+        "url": "https://www.nps.or.kr/eng/ntnlpnsplan/frgnrlpsmrfnd/getOHAI0015M0.do",
+        "note": "Eligibility and application options for foreign residents checking a potential departure refund.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Before your last workday, confirm permission to stay, health coverage and how any pension decision affects your record."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1676,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "dating-and-marriage-in-korea-as-a-foreigner-2026": {
+    "id": "guide:dating-and-marriage-in-korea-as-a-foreigner-2026",
+    "categoryId": "travel-essentials",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "Ask your partner what a date or family introduction means to them. If you decide to marry, confirm the reporting process with the authority that will accept your documents. Ask your consulate about recognition in your home country and immigration about your residence status.",
+    "forWhom": "International couples dating in Korea or preparing to report a marriage involving Korea.",
+    "conditions": [
+      "Registration and document requirements depend on both nationalities and where the marriage is first recorded."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "living in korea",
+      "relationships",
+      "marriage",
+      "immigration"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w44-civil-act-812-marriage-report",
+        "title": "Korean Civil Act, Article 812 (Korean)",
+        "url": "https://www.law.go.kr/LSW/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1026989973",
+        "note": "For a marriage formed by a Korean report under Article 812, the legal effect arises through reporting. Both parties and two adult witnesses sign the written report.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-mofa-korea-philippines-marriage",
+        "title": "Korean Embassy in the Philippines marriage reporting example",
+        "url": "https://overseas.mofa.go.kr/ph-en/brd/m_3282/view.do?seq=727045",
+        "note": "A Korean–Filipino marriage already recorded in the Philippines, including certificate and translation examples and possible additional city-hall requirements.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-immigration-marriage-contact",
+        "title": "Korea Immigration Service’s multilingual contact center",
+        "url": "https://www.immigration.go.kr/immigration_eng/1862/subview.do",
+        "note": "Official point of contact for residence and visa questions.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Ask the registration office, your consulate and immigration separate questions before you book travel or order documents."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1677,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "hallyu-4-0-what-next-for-the-global-korean-wave-2026": {
+    "id": "guide:hallyu-4-0-what-next-for-the-global-korean-wave-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "The Korean Wave brings together film, dramas, music and other parts of Korean culture. Pick one title or artist as your starting point. Match it to a place, performance or exhibition you can verify before you plan a day around it.",
+    "forWhom": "Visitors who want to connect a Korea trip to a film, show or artist they already enjoy.",
+    "conditions": [
+      "Filming sets, private locations and scheduled events have different access rules. Check the operator before traveling."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "hallyu",
+      "filming locations",
+      "korean film",
+      "k-pop"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w44-kofice-2026-overseas-hallyu-survey",
+        "title": "KOFICE and Ministry of Culture 2026 overseas Hallyu survey",
+        "url": "https://kofice.or.kr/www/bbs/view.do?bbsSn=53378&mnucd=103&scBbsMngSn=5",
+        "note": "Scope, fieldwork and selected experience rates for 27,400 respondents in 30 countries and regions who already had experience with Korean culture content.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-kto-cheonghaepogu-screen-set",
+        "title": "Korea Tourism Organization’s guide to Hallyu filming sets",
+        "url": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?dataSetId=76&menuSn=862&vcontsId=193183",
+        "note": "Historical identification of Cheonghaepogu’s filming set in Wando and films shot there.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Confirm the real location and the operator’s current visitor rules before making a Hallyu stop the focus of your day."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1678,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "why-koreans-love-mbti-the-psychology-behind-the-trend-2026": {
+    "id": "guide:why-koreans-love-mbti-the-psychology-behind-the-trend-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "If someone asks for your MBTI, they are asking about a four-letter personality type. Share one if you want to, say you have never taken it, or ask what the letters mean to them.",
+    "forWhom": "People hearing about MBTI at a meetup, on a date or in a Korean conversation.",
+    "conditions": [
+      "Examples are optional conversation starters. How much someone reads into a type depends on that person and situation."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "mbti",
+      "korean conversation",
+      "social etiquette"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w44-mbti-korea-media-study",
+        "title": "2024 study of MBTI in South Korean media coverage",
+        "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART003067083",
+        "note": "Primary analysis of 231 Korea Integrated News Database System reports and the study’s descriptions of entertainment and social use.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-mbti-foundation-assessment-purpose",
+        "title": "Myers & Briggs Foundation’s description of the assessment",
+        "url": "https://www.myersbriggs.org/unique-features-of-myers-briggs/is-the-mbti-a-test/",
+        "note": "The publisher describes the assessment as a self-report indicator of preferences, distinct from measures of skill.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "You can answer with a type, ask about it or simply say you have never taken the assessment."
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1679,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
+  },
+  "the-importance-of-uri-we-understanding-korean-collectivism-2026": {
+    "id": "guide:the-importance-of-uri-we-understanding-korean-collectivism-2026",
+    "categoryId": "culture-events",
+    "format": "decision",
+    "checkedAt": "2026-11-25",
+    "answer": "우리 (uri) can mean “we” or “our.” Before words such as “family” or “wife,” a natural English translation may use “my.” Listen for the noun or action and ask who the speaker means if you need to make plans.",
+    "forWhom": "Travelers and Korean learners who hear 우리 used in ordinary conversations.",
+    "conditions": [
+      "These examples illustrate how context changes the translation. Use the speaker’s relationship and the rest of the sentence to understand who is included."
+    ],
+    "regions": [],
+    "stages": [
+      "exploring"
+    ],
+    "interests": [
+      "korean language",
+      "korean conversation",
+      "honorifics"
+    ],
+    "relations": [],
+    "tools": [],
+    "placeIds": [],
+    "sources": [
+      {
+        "id": "w44-nikl-uri-our-context",
+        "title": "National Institute of Korean Language answer on 우리",
+        "url": "https://www.korean.go.kr/front/onlineQna/onlineQnaView.do?mn_id=&pageIndex=1&qna_seq=311736",
+        "note": "우리 with close associations can exclude the listener, and the institution describes 저희 as a humble option.",
+        "checkedAt": "2026-11-25"
+      },
+      {
+        "id": "w44-nikl-jeohui-dictionary",
+        "title": "Basic Korean Dictionary entry for 저희",
+        "url": "https://krdict.korean.go.kr/eng/dicSearch/SearchView?ParaWordNo=71231",
+        "note": "Speaker’s own group in deferential contexts, including a spouse example and related reference to 우리.",
+        "checkedAt": "2026-11-25"
+      }
+    ],
+    "shareFacts": [
+      "Listen for the word after 우리. In “우리 가족,” English may naturally say “my family” or “our family.”"
+    ],
+    "changeType": "rewrite",
+    "launchOrder": 1680,
+    "heroOmissionReason": "The examples and comparison table support the decision directly."
   }
 }

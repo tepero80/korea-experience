@@ -234,7 +234,7 @@ Jeju is a road-trip destination.
 *   **Global Taxi:** Jeju operates a special "Global Taxi" fleet with English-speaking drivers, but these must be booked by phone usually.
 *   **Cost:** Distances are long. A trip from Jeju City to Seogwipo can cost **₩40,000 - ₩50,000**. Most travelers prefer renting a car.
 
-If you are considering driving yourself, check our guide on [buying a used car in Korea](/blog/buying-a-used-car-in-korea-k-car-vs-encar-guide-2026) or [renting guidelines](/blog/buying-a-car-financing-and-registration) for long-term stays.
+If you are considering driving yourself, check our guide on [buying a used car in Korea](/blog/buying-a-used-car-in-korea-k-car-vs-encar-guide-2026) or [rental document and pickup guide](/blog/renting-a-car-in-korea-international-license-guide) for long-term stays.
 
 ## Payment Methods Detailed
 

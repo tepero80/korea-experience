@@ -18,6 +18,8 @@ author: Korea Experience Editorial
 | People | Confirm which household members must file their own change or appear on the report. |
 | Receipt | Keep the acceptance record and confirm that the new address appears in the system. |
 
+When several records change at once, use the [immigration, employer and provider checklist](/blog/dealing-with-korean-bureaucracy-arc-to-taxes) to verify each update.
+
 ## Use an in-person fallback if needed
 
 Review [HiKorea’s official services](https://www.hikorea.go.kr/Main.pt) and the office listed for the new address. If the online service will not accept your documents, contact the relevant office before the deadline for the correct path.

@@ -23,6 +23,8 @@ The [Seattle consulate](https://overseas.mofa.go.kr/us-seattle-en/brd/m_23042/vi
 
 When you are joining family in Korea, use the [family visa route checklist](/blog/f-visa-family-reunion-requirements) to identify which relationship and sponsor documents to confirm before ordering certificates.
 
+If your next step is recording the marriage, [confirm the reporting office, witnesses and documents](/blog/dating-and-marriage-in-korea-as-a-foreigner-2026) before arranging the residence application.
+
 ## If the consulate asks for an interview
 
 Use the appointment or follow-up message for the location, instructions and deadline. Review the dates and addresses you actually submitted. Bring the requested originals and explain any difference between your current circumstances and an earlier form. Ask the mission about an interpreter or another accommodation if you need one.
