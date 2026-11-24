@@ -23,7 +23,9 @@ On November 24, 2026, we checked [Seoul Station’s KTX building to Gyeongbokgun
 
 **Save this place:** 서울역 경부선 · 서울 용산구 한강대로 405
 
-[Naver Map](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%97%AD%20%EA%B2%BD%EB%B6%80%EC%84%A0) · [Kakao Map](https://map.kakao.com/link/search/%EC%84%9C%EC%9A%B8%EC%97%AD%20%EA%B2%BD%EB%B6%80%EC%84%A0) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%97%AD+KTX+%EC%84%9C%EC%9A%B8+%EC%9A%A9%EC%82%B0%EA%B5%AC+%ED%95%9C%EA%B0%95%EB%8C%80%EB%A1%9C+405)
+[Naver Map](https://map.naver.com/p/search/%EC%84%9C%EC%9A%B8%EC%97%AD%20%EA%B2%BD%EB%B6%80%EC%84%A0) · [Kakao Map](https://place.map.kakao.com/9113903) · [Google Maps](https://www.google.com/maps/search/?api=1&query=%EC%84%9C%EC%9A%B8%EC%97%AD&query_place_id=ChIJQxWNcmaifDURTBfjk-JvH2Y)
+
+Kakao labels this KTX stop **서울 중구 한강대로 405**. The Google example displays **서울 용산구 한강대로 405**. Use the named KTX stop and check the entrance for your train.
 
 The palace address below comes from the [Royal Palaces and Tombs Center](https://royal.khs.go.kr/ENG/contents/E702000000.do). For an event or a meeting, check whether your reservation names a different gate.
 
