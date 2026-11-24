@@ -55,6 +55,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     '@type': 'Organization',
     '@id': `${SITE_CONFIG.url}/#organization`,
     name: SITE_CONFIG.name,
+    alternateName: SITE_CONFIG.domain,
     url: SITE_CONFIG.url + '/',
     description: SITE_CONFIG.description,
     logo: `${SITE_CONFIG.url}${SITE_CONFIG.logo}`,

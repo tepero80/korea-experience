@@ -5,9 +5,10 @@ export const GUIDE_LIBRARY_DESCRIPTION =
 
 export const SITE_CONFIG = {
   name: 'Korea Experience',
+  domain: 'koreaexperience.com',
   title: 'Korea Experience | Korea Travel Guides, Maps & Trip Planner',
   description:
-    'Plan a trip to South Korea with Korea Experience. Explore destination guides and maps, compare airport transfers, and build a day-by-day itinerary.',
+    'Independent South Korea travel guides from Korea Experience. Explore destination maps, compare airport transfers and build a day-by-day itinerary.',
   logo: '/brand-mark.png',
   url: 'https://koreaexperience.com',
   author: 'Korea Experience Editorial',

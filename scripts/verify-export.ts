@@ -54,15 +54,23 @@ if (
   homeEntities.filter((entity) => entity['@type'] === 'WebSite').length !== 1 ||
   site?.name !== SITE_CONFIG.name ||
   site?.url !== homeUrl ||
-  !site.alternateName?.includes(new URL(homeUrl).hostname) ||
+  site.alternateName !== new URL(homeUrl).hostname ||
   publisher?.['@type'] !== 'Organization' ||
   publisher.name !== SITE_CONFIG.name ||
+  publisher.alternateName !== site.alternateName ||
+  publisher.url !== homeUrl ||
   publisher.logo !== SITE_CONFIG.url + SITE_CONFIG.logo
 ) errors.push('Homepage website or publisher identity mismatch');
 if (
   homeMetadata.get('icon') !== '/favicon.ico' ||
   !fs.existsSync('out/favicon.ico') ||
+  !URL.canParse(homeMetadata.get('canonical') ?? '') ||
+  new URL(homeMetadata.get('canonical')!).href !== homeUrl ||
+  !URL.canParse(homeMetadata.get('og:url') ?? '') ||
+  new URL(homeMetadata.get('og:url')!).href !== homeUrl ||
+  homeMetadata.get('robots') !== 'index, follow' ||
   homeMetadata.get('og:site_name') !== SITE_CONFIG.name ||
+  homeMetadata.get('description') !== SITE_CONFIG.description ||
   homeMetadata.get('title') !== SITE_CONFIG.title
 ) errors.push('Homepage search identity or stable favicon missing');
 const logo = imageSize(fs.readFileSync('out' + SITE_CONFIG.logo));

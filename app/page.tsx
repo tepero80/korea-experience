@@ -138,7 +138,7 @@ export default function Home() {
             '@id': SITE_CONFIG.url + '/#website',
             url: SITE_CONFIG.url + '/',
             name: SITE_CONFIG.name,
-            alternateName: ['koreaexperience.com'],
+            alternateName: SITE_CONFIG.domain,
             inLanguage: 'en',
             publisher: { '@id': SITE_CONFIG.url + '/#organization' },
           }).replace(/</g, '\\u003c'),
@@ -191,7 +191,7 @@ export default function Home() {
             Explore destinations
           </h2>
           <DiscoveryLink className="text-link" event="home_all_destinations" href="/destinations">
-            All {destinations.length} destinations <Icon name="next" />
+            All {destinations.length} Korea destinations <Icon name="next" />
           </DiscoveryLink>
         </div>
         <ul className="home-destination-grid">
@@ -274,7 +274,7 @@ export default function Home() {
         <div className="section-heading">
           <h2 className="section-title" id="first-useful-reads">Your first useful reads</h2>
           <Link href="/blog" className="text-link">
-            Explore the guide library <Icon name="next" />
+            Browse Korea travel guides <Icon name="next" />
           </Link>
         </div>
         <div className="guide-grid">
@@ -369,7 +369,7 @@ export default function Home() {
               needed to get started.
             </p>
             <Link href="/tools" className="button button-dark">
-              Open the travel toolkit <Icon name="arrow" />
+              Korea trip planning tools <Icon name="arrow" />
             </Link>
           </div>
           <div className="tool-feature-list">

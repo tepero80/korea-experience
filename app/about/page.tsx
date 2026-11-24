@@ -1,18 +1,22 @@
 import Link from 'next/link';
+import { SITE_CONFIG } from '@/lib/constants';
+import { guideCollectionMetadata } from '@/lib/seo';
+
+const title = `About ${SITE_CONFIG.name}`;
+const description =
+  'Meet the independent, English-first publication behind Korea Experience travel guides, maps and planning tools.';
 export const metadata = {
-  title: 'About Korea Experience',
-  description:
-    'Practical Korea travel information organized around your real decisions, routes and interests.',
-  alternates: { canonical: 'https://koreaexperience.com/about' },
+  ...guideCollectionMetadata(title, description, '/about'),
+  title: { absolute: title },
 };
 export default function About() {
   return (
     <div className="wrap document-page">
       <p className="eyebrow">Independent travel guides & planning tools</p>
-      <h1 className="section-title">About Korea Experience</h1>
+      <h1 className="section-title">{title}</h1>
       <p>
-        Korea Experience is an independent, English-first travel publication and toolkit for people
-        preparing for or taking a trip to Korea.
+        <Link className="inline-content-link" href="/">{SITE_CONFIG.domain}</Link> is the home of Korea Experience,
+        an independent, English-first travel publication for people planning or taking a trip to South Korea.
       </p>
       <p>
         We organize information around the decisions you face: where to stay, how to arrive, what

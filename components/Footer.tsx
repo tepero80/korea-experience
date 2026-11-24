@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { FOOTER_LINKS } from '@/lib/constants';
+import { FOOTER_LINKS, SITE_CONFIG } from '@/lib/constants';
 import { TRAVEL_CATEGORIES } from '@/lib/taxonomy';
 import CookieSettings from './site/CookieSettings';
 export default function Footer() {
@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="wrap footer-grid">
         <div className="footer-about">
           <Link href="/" className="footer-brand">
-            Korea Experience<span>Make room for the experience.</span>
+            {SITE_CONFIG.name}<span>{SITE_CONFIG.domain}</span>
           </Link>
           <p>Useful answers, considered routes, and practical tools for your time in Korea.</p>
           <Link href="/editorial-policy" className="text-link">

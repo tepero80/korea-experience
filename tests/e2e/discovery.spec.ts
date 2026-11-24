@@ -116,7 +116,7 @@ test('the home opening gives first-trip and photo-led destination discovery equa
     photoSources.add(photo.source);
   }
   expect(photoSources.size).toBe(12);
-  const all = section.getByRole('link', { name: /^All \d+ destinations$/ });
+  const all = section.getByRole('link', { name: /^All \d+ Korea destinations$/ });
   await expect(all).toHaveAttribute('href', '/destinations');
   const destinationCount = Number((await all.innerText()).match(/\d+/)?.[0]);
   await title.evaluate((element) => element.scrollIntoView({ block: 'start', behavior: 'instant' }));
