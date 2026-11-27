@@ -7004,5 +7004,20 @@
     "src": "/images/cards/planning-post-procedure-travel-from-korea-questions-to-ask-your-treating-clinici.jpg",
     "fingerprint": "06083bcd6111fa176dbe462666fdd99c35e8c238adba5843b0110cab3b71ee26",
     "adaptation": "Typographic social preview."
+  },
+  "incheon-airport-to-gimpo-domestic-transfer": {
+    "src": "/images/cards/incheon-airport-to-gimpo-domestic-transfer.jpg",
+    "fingerprint": "f60d13129f0b1ae0d83fe4b95cde90ff53afba2acd3f29a1bf05b34baaa6ac97",
+    "sourceImage": "/images/editorial/gimpo-domestic-terminal-august-2026-1280.webp",
+    "credit": {
+      "kind": "photograph",
+      "title": "GMP domestic.jpg",
+      "author": "Hajoon0102",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GMP_domestic.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-08-18. Resized and converted to WebP. Display and share versions may be cropped. The image adaptations retain CC BY-SA 4.0. Confirm current airport access and signs separately."
+    },
+    "adaptation": "Cropped photograph in a social preview composition. Share-alike photo licenses also apply to the adapted card."
   }
 }

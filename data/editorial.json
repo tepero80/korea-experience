@@ -50455,5 +50455,146 @@
     "changeType": "rewrite",
     "launchOrder": 1705,
     "heroOmissionReason": "The examples and checklist explain the decision without an illustrative cover."
+  },
+  "incheon-airport-to-gimpo-domestic-transfer": {
+    "id": "transport-icn-to-gmp-domestic-transfer",
+    "categoryId": "airports-transport",
+    "format": "how-to",
+    "checkedAt": "2026-11-27",
+    "answer": "Take the Seoul-bound AREX All Stop train from your Incheon terminal to Gimpo Airport Station. Follow Domestic Terminal signs and allow time to recheck bags. Compare a taxi with your airline’s deadline if the next train is too late.",
+    "forWhom": "Visitors who land at Incheon (ICN) and leave on a domestic flight from Gimpo (GMP)",
+    "conditions": [
+      "Confirm passport-specific entry requirements, checked baggage arrangements and the operating airline’s cutoffs.",
+      "ICN and GMP are separate airports. The direct AREX Express skips Gimpo.",
+      "Check train departure, walk time and road conditions for your own travel date."
+    ],
+    "regions": [
+      "seoul",
+      "incheon"
+    ],
+    "stages": [
+      "before-you-go",
+      "arrival",
+      "getting-around"
+    ],
+    "interests": [
+      "incheon airport",
+      "gimpo airport",
+      "airport transfer",
+      "domestic flights"
+    ],
+    "relations": [
+      {
+        "slug": "incheon-airport-survival-guide-2026",
+        "type": "prepare",
+        "label": "Get through Incheon arrivals",
+        "reason": "Check immigration, baggage reclaim and customs before the airport-change train or taxi."
+      },
+      {
+        "slug": "incheon-terminal-flight-check",
+        "type": "alternative",
+        "label": "Confirm the Incheon terminal",
+        "reason": "If the next flight also uses ICN, verify its actual airport and terminal before leaving arrivals."
+      },
+      {
+        "slug": "incheon-airport-late-night-arrival-guide",
+        "type": "alternative",
+        "label": "Plan a late-arrival fallback",
+        "reason": "If the onward flight can no longer work, check the last available transport and an overnight plan."
+      }
+    ],
+    "tools": [
+      "itinerary"
+    ],
+    "placeIds": [
+      "incheon-airport-t1",
+      "incheon-airport-t2",
+      "gimpo-airport-domestic-terminal"
+    ],
+    "sources": [
+      {
+        "id": "icn-gmp-arrivals",
+        "title": "Incheon Airport: Arrival procedures",
+        "url": "https://iasc.airport.kr/ap_en/1439/subview.do",
+        "note": "Public arrival sequence and first-floor baggage claim.",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "id": "icn-gmp-transit-only",
+        "title": "Incheon Airport: Transit-exclusive domestic flights",
+        "url": "https://www.airport.kr/ap_en/1467/subview.do",
+        "note": "An Incheon internal connection is a different process from an airport change.",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "id": "icn-gmp-rail-access",
+        "title": "Incheon Airport: Airport Railroad guide",
+        "url": "https://airport.kr/ap_en/1511/subview.do",
+        "note": "Transportation Center rail access at B1 in both Incheon terminals.",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "id": "icn-gmp-rail-stops",
+        "title": "Visit Seoul: Airport transport",
+        "url": "https://english.visitseoul.net/airport-to-seoul",
+        "note": "Maps the All Stop service through Gimpo Airport and distinguishes it from the non-stop Express.",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "id": "icn-gmp-t1-times",
+        "title": "AREX: Incheon Terminal 1 timetable",
+        "url": "https://www.airportrailroad.com/train/normal/info/100/0",
+        "note": "T1 weekday and holiday departure tables, with All Stop and Express indicators.",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "id": "icn-gmp-t2-times",
+        "title": "AREX: Incheon Terminal 2 timetable",
+        "url": "https://www.airportrailroad.com/train/normal/info/110/0",
+        "note": "T2 weekday and holiday departure tables, with All Stop and Express indicators.",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "id": "icn-gmp-gimpo-station",
+        "title": "Korea Airports Corporation: Gimpo transport facilities",
+        "url": "https://www.airport.co.kr/gimpoeng/cms/frCon/index.do?MENU_ID=410",
+        "note": "Locates rail access on the west side of Gimpo Domestic Terminal.",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "id": "icn-gmp-gimpo-steps",
+        "title": "Korea Airports Corporation: Gimpo domestic boarding steps",
+        "url": "https://www.airport.co.kr/gimpoeng/cms/frCon/index.do?CONTENTS_NO=1&MENU_ID=220",
+        "note": "Shows airline check-in, baggage, identification and security procedures.",
+        "checkedAt": "2026-11-27"
+      },
+      {
+        "id": "icn-gmp-taxi",
+        "title": "Incheon Airport: Official taxi stands",
+        "url": "https://www.airport.kr/ap_en/1515/subview.do",
+        "note": "Terminal taxi directions and the airport’s advice to use designated taxi stands.",
+        "checkedAt": "2026-11-27"
+      }
+    ],
+    "shareFacts": [
+      "ICN and GMP are separate airports.",
+      "Take AREX All Stop to Gimpo Airport Station.",
+      "Check your baggage and airline deadline before choosing train or taxi."
+    ],
+    "launchOrder": 1706,
+    "changeType": "new",
+    "imageCredit": {
+      "kind": "photograph",
+      "title": "GMP domestic.jpg",
+      "author": "Hajoon0102",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GMP_domestic.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-08-18. Resized and converted to WebP. Display and share versions may be cropped. The image adaptations retain CC BY-SA 4.0. Confirm current airport access and signs separately."
+    },
+    "heroMediaId": "gimpo-domestic-terminal-august-2026",
+    "heroCaption": "Gimpo Airport’s Domestic Terminal in August 2026. Follow the public signs marked 국내선 for domestic flights.",
+    "gallery": [],
+    "experienceVersion": 2
   }
 }

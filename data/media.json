@@ -11459,5 +11459,48 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
       "note": "Resized and converted to WebP. Source and license apply to the image and its derivatives."
     }
+  },
+  {
+    "id": "gimpo-domestic-terminal-august-2026",
+    "src": "/images/editorial/gimpo-domestic-terminal-august-2026-1280.webp",
+    "srcSet": "/images/editorial/gimpo-domestic-terminal-august-2026-640.webp 640w, /images/editorial/gimpo-domestic-terminal-august-2026-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "The glass facade of Gimpo Airport’s Domestic Terminal with a Korean and English Domestic sign above the road",
+    "originalId": "https://commons.wikimedia.org/wiki/File:GMP_domestic.jpg",
+    "originalHash": "4a866d5375d594c3f09054d603c9a6e4c078f438ef968beae8b66b407766db08",
+    "capturedAt": "2026-08-18",
+    "checkedAt": "2026-11-27",
+    "focal": "50% 64%",
+    "credit": {
+      "kind": "photograph",
+      "title": "GMP domestic.jpg",
+      "author": "Hajoon0102",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:GMP_domestic.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2026-08-18. Resized and converted to WebP. Display and share versions may be cropped. The image adaptations retain CC BY-SA 4.0. Confirm current airport access and signs separately."
+    }
+  },
+  {
+    "id": "gimpo-airport-station-main-concourse",
+    "src": "/images/editorial/gimpo-airport-station-main-concourse-1280.webp",
+    "srcSet": "/images/editorial/gimpo-airport-station-main-concourse-640.webp 640w, /images/editorial/gimpo-airport-station-main-concourse-1280.webp 1280w",
+    "width": 1280,
+    "height": 960,
+    "alt": "The main rail concourse at Gimpo Airport with elevators, escalators and a yellow tactile path",
+    "originalId": "https://commons.wikimedia.org/wiki/File:202403_Main_Concourse_of_Gimpo_International_Airport_Station.jpg",
+    "originalHash": "e96a20057393eb36a96ed4ca4e244320e5dbd355c5e90c80542b708f0f68b8d6",
+    "capturedAt": "2024-03-17",
+    "checkedAt": "2026-11-27",
+    "credit": {
+      "kind": "photograph",
+      "title": "202403 Main Concourse of Gimpo International Airport Station.jpg",
+      "author": "MNXANL",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:202403_Main_Concourse_of_Gimpo_International_Airport_Station.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "note": "Photographed 2024-03-17. Resized and converted to WebP. Display and share versions may be cropped. The image adaptations retain CC BY-SA 4.0. Confirm current airport access and signs separately."
+    }
   }
 ]

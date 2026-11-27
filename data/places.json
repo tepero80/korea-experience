@@ -2787,5 +2787,20 @@
     "addressSource": "https://www.sd.go.kr/main/contents.do?key=1696",
     "sourceNote": "District travel-map entry 220 gives the coordinates. The marker is an overview of the market area.",
     "checkedAt": "2026-11-24"
+  },
+  {
+    "id": "gimpo-airport-domestic-terminal",
+    "name": "Gimpo Airport Domestic Terminal",
+    "nameKo": "김포공항 국내선청사",
+    "latitude": 37.55846975,
+    "longitude": 126.80300195,
+    "address": "서울특별시 강서구 하늘길 112",
+    "region": "seoul",
+    "description": "Building marker for the domestic passenger terminal. Use current Domestic Terminal signs to reach your carrier. The marker does not identify an entrance or pickup lane.",
+    "officialUrl": "https://www.airport.co.kr/gimpoeng/cms/frCon/index.do?MENU_ID=410",
+    "checkedAt": "2026-11-27",
+    "sourceNote": "Domestic terminal building footprint and address in https://api.openstreetmap.org/api/0.6/way/226573238/full.json. The airport’s directions show access to the same terminal.",
+    "naverMapQuery": "김포공항 국내선청사",
+    "nearestStation": "Gimpo Airport Station (김포공항역)"
   }
 ]
